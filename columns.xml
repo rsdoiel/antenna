@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Nov 25 12:12 -0800</lastBuildDate>
+    <lastBuildDate>24 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,502 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>The Bad UX World Cup 2025. &#38;#8220;Build a date picker with bad...</title>
+      <link>https://kottke.org/25/11/0047849-the-bad-ux-world-cup</link>
+      <guid>cid://tag:kottke.org,2025://13.47849</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/11/24.html#a134818</link>
+      <description>
+        <![CDATA[The feed validator <a href="https://validator.w3.org/feed/">operated</a> by the W3C is kind of frozen in time, and imho has a very odd perspective on things. So I tried using <a href="https://github.com/scripting/Scripting-News/issues/338">ChatGPT as a feed validator</a>, and it was totally up to the job.]]>
+      </description>
+      <source:markdown>The feed validator [operated](https://validator.w3.org/feed/) by the W3C is kind of frozen in time, and imho has a very odd perspective on things. So I tried using [ChatGPT as a feed validator](https://github.com/scripting/Scripting-News/issues/338), and it was totally up to the job.</source:markdown>
+      <guid>cid://http://scripting.com/2025/11/24.html#a134818</guid>
+    </item>    <item>
+      <title>Gist of Go: Concurrency testing</title>
+      <link>https://antonz.org/go-concurrency/testing/</link>
+      <description>
+        <![CDATA[Checking concurrent operations and time-sensitive code.]]>
+      </description>
+      <source:markdown>Checking concurrent operations and time-sensitive code.</source:markdown>
+      <guid>cid://https://antonz.org/go-concurrency/testing/</guid>
+    </item>    <item>
+      <title>A new Raspberry Pi Imager</title>
+      <link>https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/</link>
+      <description>
+        <![CDATA[<p>Introducing Raspberry Pi Imager 2.0: a reimagining of our OS installer, now with a cleaner interface and easier OS customisation options.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/">A new Raspberry Pi Imager</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>Introducing Raspberry Pi Imager 2.0: a reimagining of our OS installer, now with a cleaner interface and easier OS customisation options.
+
+The post [A new Raspberry Pi Imager](https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=131184</guid>
+    </item>    <item>
+      <link>https://www.theguardian.com/music/2025/nov/24/jimmy-cliff-jamaican-reggae-singer-actor-and-cultural-icon-dies-aged-81</link>
+      <description>
+        <![CDATA[<p>Jimmy Cliff, Jamaican reggae singer, actor and cultural icon, dies aged 81.</p>]]>
+      </description>
+      <source:markdown>Jimmy Cliff, Jamaican reggae singer, actor and cultural icon, dies aged 81.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/24/2000/</guid>
+    </item>    <item>
+      <title>Be Your Own Privacy-Respecting Google, Bing &#38; Brave</title>
+      <link>https://xn--gckvb8fzb.com/be-your-own-privacy-respecting-google-bing-brave/</link>
+      <description>
+        <![CDATA[... by running your own instance of the free and open-source federated
+        _metasearch_ engine _SearXNG_ on OpenBSD!]]>
+      </description>
+      <source:markdown>... by running your own instance of the free and open-source federated
+\_metasearch\_ engine \_SearXNG\_ on OpenBSD!</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///be-your-own-privacy-respecting-google-bing-brave/</guid>
+    </item>    <item>
+      <link>https://www.npr.org/2025/11/24/nx-s1-5615440/food-mood-mental-health?utm_term=nprnews&#38;utm_medium=social&#38;utm_campaign=npr&#38;utm_source=bsky.app</link>
+      <description>
+        <![CDATA[<p>The surprising food that makes us happier in the long run.</p>]]>
+      </description>
+      <source:markdown>The surprising food that makes us happier in the long run.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/24/1998/</guid>
+    </item>    <item>
+      <title>Job for 2027: Senior Director of Million-Dollar Regexes</title>
+      <link>https://www.oreilly.com/radar/job-for-2027-senior-director-of-million-dollar-regexes/</link>
+      <description>
+        <![CDATA[The following article originally appeared on Medium and is being republished here with the author’s permission. Don’t get me wrong, I’m up all night using these tools. But I also sense we’re heading for an expensive hangover. The other day, a colleague told me about a new proposal to route a million documents a day [&#8230;]]]>
+      </description>
+      <source:markdown>The following article originally appeared on Medium and is being republished here with the author’s permission. Don’t get me wrong, I’m up all night using these tools. But I also sense we’re heading for an expensive hangover. The other day, a colleague told me about a new proposal to route a million documents a day \[…\]</source:markdown>
+      <guid>cid://https://www.oreilly.com/radar/?p=17740</guid>
+    </item>    <item>
+      <title>IACR Nullifies Election Because of Lost Decryption Key</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html</link>
+      <description>
+        <![CDATA[<p>The International Association of Cryptologic Research&#8212;the academic cryptography association that&#8217;s been putting conferences like Crypto (back when &#8220;crypto&#8221; meant &#8220;cryptography&#8221;) and Eurocrypt since the 1980s&#8212;had to <a href="https://www.iacr.org/news/item/27138">nullify</a> an online election when trustee Moti Yung lost his decryption key.</p>
+        <blockquote><p>For this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios&#8217; design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...</p></blockquote>]]>
+      </description>
+      <source:markdown>The International Association of Cryptologic Research—the academic cryptography association that’s been putting conferences like Crypto (back when “crypto” meant “cryptography”) and Eurocrypt since the 1980s—had to [nullify](https://www.iacr.org/news/item/27138) an online election when trustee Moti Yung lost his decryption key.
+
+&#62; For this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios’ design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71237</guid>
+    </item>    <item>
+      <title>Trump Refuses to Pardon Turkey After it Fails to Bribe Him</title>
+      <link>https://www.borowitzreport.com/p/trump-refuses-to-pardon-turkey-after</link>
+      <description>
+        <![CDATA["This turkey is a terrible person," Trump said.]]>
+      </description>
+      <source:markdown>&#34;This turkey is a terrible person,&#34; Trump said.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Rp4-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc74cc101-5f42-47f2-ba50-a943bd6df2c3_1080x903.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/trump-refuses-to-pardon-turkey-after</guid>
+    </item>    <item>
+      <title>The Trump Trade is Unraveling</title>
+      <link>https://paulkrugman.substack.com/p/the-trump-trade-is-unraveling</link>
+      <description>
+        <![CDATA[Tells from the crypto crash]]>
+      </description>
+      <source:markdown>Tells from the crypto crash</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!w2pO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60a96e6c-4750-47b1-b722-ce9497e7893d_1431x803.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-trump-trade-is-unraveling</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: November 24, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-november-24-2025/</link>
+      <description>
+        <![CDATA[John Irving talks to Wayne Catan about wrestling, coming-of-age, and his new book, Queen Esther. &#124; Lit Hub In Conversation “Plenty of vociferous readers can sustain themselves by library card alone, but the coveting of the physical object of the]]>
+      </description>
+      <source:markdown>John Irving talks to Wayne Catan about wrestling, coming-of-age, and his new book, Queen Esther. \| Lit Hub In Conversation “Plenty of vociferous readers can sustain themselves by library card alone, but the coveting of the physical object of the</source:markdown>
+      <guid>cid://https://lithub.com/?p=263254</guid>
+    </item>    <item>
+      <title>Nothing Better Than a Whole Lot of Books: In Praise of Bibliomania</title>
+      <link>https://lithub.com/nothing-better-than-a-whole-lot-of-books-in-praise-of-bibliomania/</link>
+      <description>
+        <![CDATA[Desiderius Erasmus lived his happiest months from late 1507 into 1508 at the Venetian print-shop of Aldus Manutius. A peripatetic scholar, the Dutch scholar had lived in Rotterdam and London, Basel and Paris, true to the dictum that where the]]>
+      </description>
+      <source:markdown>Desiderius Erasmus lived his happiest months from late 1507 into 1508 at the Venetian print-shop of Aldus Manutius. A peripatetic scholar, the Dutch scholar had lived in Rotterdam and London, Basel and Paris, true to the dictum that where the</source:markdown>
+      <guid>cid://https://lithub.com/?p=262754</guid>
+    </item>    <item>
+      <title>What Our Continual Desire For Transformation Reveals About Ourselves</title>
+      <link>https://lithub.com/what-our-continual-desire-for-transformation-reveals-about-ourselves/</link>
+      <description>
+        <![CDATA[“How many creatures walking on this earth / Have their first being in another form?” the Roman poet Ovid asked two thousand years ago. He couldn’t have known the full extent of the truth. That creatures transform ran counter to]]>
+      </description>
+      <source:markdown>“How many creatures walking on this earth / Have their first being in another form?” the Roman poet Ovid asked two thousand years ago. He couldn’t have known the full extent of the truth. That creatures transform ran counter to</source:markdown>
+      <guid>cid://https://lithub.com/?p=262757</guid>
+    </item>    <item>
+      <title>The Innocenti: The Renaissance-Era Orphanage in Florence</title>
+      <link>https://lithub.com/the-innocenti-the-renaissance-era-orphanage-in-florence/</link>
+      <description>
+        <![CDATA[In the summer of 2019, I had lunch in Florence with a friend, an art historian, and afterward we decided to take a walk. Along the way, we passed by the Piazza della Santis-sima Annunziata and the structure that runs]]>
+      </description>
+      <source:markdown>In the summer of 2019, I had lunch in Florence with a friend, an art historian, and afterward we decided to take a walk. Along the way, we passed by the Piazza della Santis-sima Annunziata and the structure that runs</source:markdown>
+      <guid>cid://https://lithub.com/?p=262881</guid>
+    </item>    <item>
+      <title>Creating New Tongues: On Language as Adaptation and Resistance</title>
+      <link>https://lithub.com/creating-new-tongues-on-language-as-adaptation-and-resistance/</link>
+      <description>
+        <![CDATA[Czesław Miłosz wrote, “Language is the only homeland.” I didn’t understand that sentence when I first read it. I was too busy trying to speak correctly—in English, in Croatian, in a blend that never quite landed on either shore. The]]>
+      </description>
+      <source:markdown>Czesław Miłosz wrote, “Language is the only homeland.” I didn’t understand that sentence when I first read it. I was too busy trying to speak correctly—in English, in Croatian, in a blend that never quite landed on either shore. The</source:markdown>
+      <guid>cid://https://lithub.com/?p=262760</guid>
+    </item>    <item>
+      <title>A Close Reading of Edna St. Vincent Millay’s “Counting-Out Rhyme”</title>
+      <link>https://lithub.com/a-close-reading-of-edna-st-vincent-millays-counting-out-rhyme/</link>
+      <description>
+        <![CDATA[Descriptions of tree bark and heartwood, arranged into lines that rhyme: that’s Edna St. Vincent Millay’s “Counting-Out Rhyme.” There’s no first-person “I” inside the poem to act as a reader’s avatar, no ticking-time-bomb of a first line like “My candle burns at]]>
+      </description>
+      <source:markdown>Descriptions of tree bark and heartwood, arranged into lines that rhyme: that’s Edna St. Vincent Millay’s “Counting-Out Rhyme.” There’s no first-person “I” inside the poem to act as a reader’s avatar, no ticking-time-bomb of a first line like “My candle burns at</source:markdown>
+      <guid>cid://https://lithub.com/?p=262875</guid>
+    </item>    <item>
+      <title>Ilaria, or the Conquest of Disobedience</title>
+      <link>https://lithub.com/ilaria-or-the-conquest-of-disobedience/</link>
+      <description>
+        <![CDATA[MAY 1980 Aged eight, I like the sensation of my upper body dangling free, the contact of my knees hooked over metal. I like the moment when I close my eyes tight, let go of the bar with my hands,]]>
+      </description>
+      <source:markdown>MAY 1980 Aged eight, I like the sensation of my upper body dangling free, the contact of my knees hooked over metal. I like the moment when I close my eyes tight, let go of the bar with my hands,</source:markdown>
+      <guid>cid://https://lithub.com/?p=262093</guid>
+    </item>    <item>
+      <title>Tracy K. Smith on the Spiritual and the Poetic</title>
+      <link>https://lithub.com/tracy-k-smith-on-the-spiritual-and-the-poetic/</link>
+      <description>
+        <![CDATA[First Draft: A Dialogue of Writing is a weekly show featuring in-depth interviews with fiction, nonfiction, essay writers, and poets, highlighting the voices of writers as they discuss their work, their craft, and the literary arts. Hosted by Mitzi Rapkin,]]>
+      </description>
+      <source:markdown>First Draft: A Dialogue of Writing is a weekly show featuring in-depth interviews with fiction, nonfiction, essay writers, and poets, highlighting the voices of writers as they discuss their work, their craft, and the literary arts. Hosted by Mitzi Rapkin,</source:markdown>
+      <guid>cid://https://lithub.com/?p=263317</guid>
+    </item>    <item>
+      <title>How to Get Rid of “Citizens United”</title>
+      <link>https://robertreich.substack.com/p/how-to-get-rid-of-citizens-united</link>
+      <description>
+        <![CDATA[We can do away with it without a new Supreme Court. Nor do we need a constitutional amendment. There&#8217;s a far simpler way.]]>
+      </description>
+      <source:markdown>We can do away with it without a new Supreme Court. Nor do we need a constitutional amendment. There’s a far simpler way.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!bvAS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F258c64bb-859c-4987-8e78-50c148c00f2d_1017x868.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/how-to-get-rid-of-citizens-united</guid>
+    </item>    <item>
+      <title>Susan Orlean on Writing the Story of a Life Well Lived</title>
+      <link>https://lithub.com/susan-orlean-on-writing-the-story-of-a-life-well-lived/</link>
+      <description>
+        <![CDATA[Memoir Nation: Weekly Inspiration for Writers is an extension of the Memoir Nation community hosted by Brooke Warner and Grant Faulkner, two friends and colleagues who bring a community-minded sensibility to the writing journey. Originally launched as Write-minded in 2018, this is]]>
+      </description>
+      <source:markdown>Memoir Nation: Weekly Inspiration for Writers is an extension of the Memoir Nation community hosted by Brooke Warner and Grant Faulkner, two friends and colleagues who bring a community-minded sensibility to the writing journey. Originally launched as Write-minded in 2018, this is</source:markdown>
+      <guid>cid://https://lithub.com/?p=261789</guid>
+    </item>    <item>
+      <title>Shuffling a CSS grid using custom properties</title>
+      <link>https://christianheilmann.com/2025/11/24/shuffling-a-css-grid-using-custom-properties/</link>
+      <description>
+        <![CDATA[In his excellent talk Get the Core Right and the Resilient Code Will Follow at Beyond Tellerrand in Berlin this year, Andy Bell showed how to sensibly discuss a coding issue amongst your team. He also did a more in-depth write-up on his blog. The problem that Andy described was having a CSS grid with [&#8230;]]]>
+      </description>
+      <source:markdown>In his excellent talk Get the Core Right and the Resilient Code Will Follow at Beyond Tellerrand in Berlin this year, Andy Bell showed how to sensibly discuss a coding issue amongst your team. He also did a more in-depth write-up on his blog. The problem that Andy described was having a CSS grid with \[…\]</source:markdown>
+      <guid>cid://https://christianheilmann.com/?p=9538</guid>
+    </item>    <item>
+      <title>November 23, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-23-2025</link>
+      <description>
+        <![CDATA[&#8220;Do I understand correctly that there is now a dispute within the administration about whether this &#8216;peace plan&#8217; was written by Russians or Americans?&#8221; foreign affairs journalist Anne Applebaum asked last night on social media.]]>
+      </description>
+      <source:markdown>“Do I understand correctly that there is now a dispute within the administration about whether this ‘peace plan’ was written by Russians or Americans?” foreign affairs journalist Anne Applebaum asked last night on social media.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-23-2025</guid>
+    </item>    <item>
+      <title>Notes From a Moment of Political Unmasking</title>
+      <link>https://www.notesfromthecircus.com/p/notes-from-a-moment-of-political</link>
+      <description>
+        <![CDATA[Sunday Substack Live @ The Circus]]>
+      </description>
+      <source:markdown>Sunday Substack Live @ The Circus</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/179765497/e6b02242a9e9f09c4e0c03eed9fa2a85.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/notes-from-a-moment-of-political</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115601839850563975</link>
+      <description>
+        <![CDATA[<p>Update: it is no longer clear.</p><p>My current work around is to extract the list of linked files and relink my hand after egrep -v list-of-swift-syntax-symbols.  What a horrible hack<br /><a href="https://mastodon.social/@Migueldeicaza/115600154465997324" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@Migueldeicaza</span><span class="invisible">/115600154465997324</span></a></p>]]>
+      </description>
+      <source:markdown>Update: it is no longer clear.
+
+My current work around is to extract the list of linked files and relink my hand after egrep -v list-of-swift-syntax-symbols. What a horrible hack
+
+[https://mastodon.social/@Migueldeicaza/115600154465997324](https://mastodon.social/@Migueldeicaza/115600154465997324)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115601839850563975</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115601835119284252</link>
+      <description>
+        <![CDATA[<p>Perfect Mexican gazpacho</p><p>The trick was to not be lazy and use a strainer.</p>]]>
+      </description>
+      <source:markdown>Perfect Mexican gazpacho
+
+The trick was to not be lazy and use a strainer.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115601835119284252</guid>
+    </item>    <item>
+      <title>Monday 24 November, 2025</title>
+      <link>https://memex.naughtons.org/monday-24-november-2025/41399/</link>
+      <description>
+        <![CDATA[The punting business, 2025 Cambridge, on a dark, wet November evening Quote of the Day “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is &#8230; <a href="https://memex.naughtons.org/monday-24-november-2025/41399/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>The punting business, 2025 Cambridge, on a dark, wet November evening Quote of the Day “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is … [Continue reading →](https://memex.naughtons.org/monday-24-november-2025/41399/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41399</guid>
+    </item>    <item>
+      <title>620. The Nazis at War: Hitler Strikes West (Part 1)</title>
+      <link>https://therestishistory.com/620-the-nazis-at-war-hitler-strikes-west-part-1/</link>
+      <description>
+        <![CDATA[<p>What was Adolf Hitler’s next move, after occupying Czechoslovakia in March 1939, and brutally invading Poland that September? Why did the Allies fail to act, despite the Nazis shocking offensive? And, would an assassination plot from within Germany itself prove to be Hitler’s undoing?   Join Dominic and Tom as they launch into the Second World [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/620-the-nazis-at-war-hitler-strikes-west-part-1/">620. The Nazis at War: Hitler Strikes West (Part 1)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <source:markdown>What was Adolf Hitler’s next move, after occupying Czechoslovakia in March 1939, and brutally invading Poland that September? Why did the Allies fail to act, despite the Nazis shocking offensive? And, would an assassination plot from within Germany itself prove to be Hitler’s undoing?   Join Dominic and Tom as they launch into the Second World \[…\]
+
+The post [620\. The Nazis at War: Hitler Strikes West (Part 1)](https://therestishistory.com/620-the-nazis-at-war-hitler-strikes-west-part-1/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
+      <guid>cid://https://therestishistory.com/620-the-nazis-at-war-hitler-strikes-west-part-1/</guid>
+    </item>    <item>
+      <title>November 22, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-22-2025-abd</link>
+      <enclosure url="https://api.substack.com/feed/podcast/179767248/ddc71f354fe96d8a2d03b52211b728b3.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-22-2025-abd</guid>
+    </item>    <item>
+      <title>The Ethics Theater: Why We Need Democratic Oversight of AI Development</title>
+      <link>https://www.notesfromthecircus.com/p/the-ethics-theater-why-we-need-democratic</link>
+      <description>
+        <![CDATA[On why we're being fundamentally unserious as a society about AI.]]>
+      </description>
+      <source:markdown>On why we&#39;re being fundamentally unserious as a society about AI.</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1525338078858-d762b5e32f2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyMnx8YWl8ZW58MHx8fHwxNzYzODM4MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://www.notesfromthecircus.com/p/the-ethics-theater-why-we-need-democratic</guid>
+    </item>    <item>
+      <title>Sunday caption contest: What was REALLY said before the cameras and reporters arrived?</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-the-real-meeting</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!BeX5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b841db-74e4-49ee-8667-4bd2489c05db_3298x2872.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-the-real-meeting</guid>
+    </item>    <item>
+      <title>★ Exploring, in Detail, Apple’s Compliance With the EU’s DMA Mandate Regarding Apple Watch, Third-Party Accessories, and the Syncing of Saved Wi-Fi Networks From iPhones to Which They’re Paired</title>
+      <link>https://daringfireball.net/2025/11/apple_eu_dma_iphone_accessories_wi-fi_sync</link>
+      <description>
+        <![CDATA[The bottom line is that users setting up new Apple Watches in the EU will now get a somewhat slightly worse experience in the name of parity with accessories made by third-party companies. It remains to be seen whether users of third-party iPhone accessories and peripherals in the EU will see any benefit at all.]]>
+      </description>
+      <source:markdown>The bottom line is that users setting up new Apple Watches in the EU will now get a somewhat slightly worse experience in the name of parity with accessories made by third-party companies. It remains to be seen whether users of third-party iPhone accessories and peripherals in the EU will see any benefit at all.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2025://1.42414</guid>
+    </item>    <item>
+      <title>2025-11-23 Kinetic Energy</title>
+      <link>https://alexschroeder.ch/view/2025-11-23-kinetic-energy</link>
+      <description>
+        <![CDATA[<h1 id="2025-11-23-kinetic-energy">2025-11-23 Kinetic Energy</h1>
+        
+        <p>I finally think that <a href="Kinetic_Energy">Kinetic Energy</a> is ready for
+        testing. It&rsquo;s a small Traveller-like game in 20 pages. Like I said
+        elsewhere:</p>
+        
+        <blockquote>
+        <p>As a role-playing game author, I am mostly driven by my need for
+        shorter texts. I play something I like and I wonder whether I could
+        make it shorter, keeping just the ideas I like, maybe mix in some
+        ideas I&rsquo;ve seen elsewhere, and call it a day. As such, my games
+        aren&rsquo;t very original but they are very personal. These are the games
+        I like to run.</p>
+        
+        <p>Another big driver is the need for games in German. Many of my games
+        therefore started as &ldquo;short German player-facing house-rules&rdquo; – the
+        rules I thought were most important, in German, and short.</p>
+        
+        <p>Then the games get translated into English and sooner or later the
+        games start to diverge because I use them with different groups, at
+        different times. My hope and my curse is that the games are driven
+        by the needs of my tables.</p>
+        </blockquote>
+        
+        <p>And so I started my quest for &ldquo;Fantasy Traveller&rdquo; by writing
+        <a href="Helmbarten">Helmbarten</a>, translating that to <a href="Halberts">Halberts</a>, trying to add my
+        referee advice in <a href="Knives">Knives</a>, thinking about a German Classic
+        Traveller and writing
+        <a href="https://campaignwiki.org/view/weltensegler">Weltensegler</a> with
+        Hasran, and another attempt at a short Science Fiction game with Frotz
+        resulting in <a href="Kinetic_Energy">Kinetic Energy</a>.</p>
+        
+        <p>I feel I still need some tables to generate a system that fits the
+        setting as I envision it.</p>
+        
+        <p>But now, for &ldquo;playtesting&rdquo;, I feel I should either write a
+        mini-setting generator, or do a little solo gaming to see how it
+        feels. Do I like the characters and creatures being generated? Does
+        the implied setting work for me? What kind of stories emerge from this
+        setup?</p>
+        
+        <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%232d6">#2d6</a> <a class="tag" href="/search/?q=%23Kinetic_Energy">#Kinetic Energy</a></p>]]>
+      </description>
+      <source:markdown># 2025-11-23 Kinetic Energy
+
+I finally think that [Kinetic Energy](Kinetic_Energy) is ready for
+testing. It’s a small Traveller-like game in 20 pages. Like I said
+elsewhere:
+
+&#62; As a role-playing game author, I am mostly driven by my need for
+&#62; shorter texts. I play something I like and I wonder whether I could
+&#62; make it shorter, keeping just the ideas I like, maybe mix in some
+&#62; ideas I’ve seen elsewhere, and call it a day. As such, my games
+&#62; aren’t very original but they are very personal. These are the games
+&#62; I like to run.
+&#62;
+&#62; Another big driver is the need for games in German. Many of my games
+&#62; therefore started as “short German player-facing house-rules” – the
+&#62; rules I thought were most important, in German, and short.
+&#62;
+&#62; Then the games get translated into English and sooner or later the
+&#62; games start to diverge because I use them with different groups, at
+&#62; different times. My hope and my curse is that the games are driven
+&#62; by the needs of my tables.
+
+And so I started my quest for “Fantasy Traveller” by writing
+[Helmbarten](Helmbarten), translating that to [Halberts](Halberts), trying to add my
+referee advice in [Knives](Knives), thinking about a German Classic
+Traveller and writing
+[Weltensegler](https://campaignwiki.org/view/weltensegler) with
+Hasran, and another attempt at a short Science Fiction game with Frotz
+resulting in [Kinetic Energy](Kinetic_Energy).
+
+I feel I still need some tables to generate a system that fits the
+setting as I envision it.
+
+But now, for “playtesting”, I feel I should either write a
+mini-setting generator, or do a little solo gaming to see how it
+feels. Do I like the characters and creatures being generated? Does
+the implied setting work for me? What kind of stories emerge from this
+setup?
+
+[#RPG](/search/?q=%23RPG) [#2d6](/search/?q=%232d6) [#Kinetic Energy](/search/?q=%23Kinetic_Energy)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-11-23-kinetic-energy</guid>
+    </item>    <item>
+      <title>&#34;Good engineering management&#34; is a fad</title>
+      <link>https://simonwillison.net/2025/Nov/23/good-engineering-management-is-a-fad/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://lethain.com/good-eng-mgmt-is-a-fad/">&quot;Good engineering management&quot; is a fad</a></strong></p>
+        Will Larson argues that the technology industry's idea of what makes a good engineering manager changes over time based on industry realities. ZIRP hypergrowth has been exchanged for a more cautious approach today, and expectations of managers has changed to match:</p>
+        <blockquote>
+        <p>Where things get weird is that in each case a morality tale was subsequently superimposed on top of the transition [...] the industry will want different things from you as it evolves, and it will tell you that each of those shifts is because of some complex moral change, but it’s pretty much always about business realities changing.</p>
+        </blockquote>
+        <p>I particularly appreciated the section on core engineering management skills that stay constant no matter what:</p>
+        <blockquote>
+        <ol>
+        <li><strong>Execution</strong>: lead team to deliver expected tangible and intangible work. Fundamentally, management is about getting things done, and you’ll neither get an opportunity to begin managing, nor stay long as a manager, if your teams don’t execute. [...]</li>
+        <li><strong>Team</strong>: shape the team and the environment such that they succeed. This is <em>not</em> working for the team, nor is it working for your leadership, it is finding the balance between the two that works for both. [...]</li>
+        <li><strong>Ownership</strong>: navigate reality to make consistent progress, even when reality is difficult Finding a way to get things done, rather than finding a way that it not getting done is someone else’s fault. [...]</li>
+        <li><strong>Alignment</strong>: build shared understanding across leadership, stakeholders, your team, and the problem space. Finding a realistic plan that meets the moment, without surprising or being surprised by those around you. [...]</li>
+        </ol>
+        </blockquote>
+        <p>Will goes on to list four additional growth skill "whose presence–or absence–determines how far you can go in your career".
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=46026939">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/software-engineering">software-engineering</a>, <a href="https://simonwillison.net/tags/will-larson">will-larson</a>, <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/management">management</a>, <a href="https://simonwillison.net/tags/leadership">leadership</a></p>]]>
+      </description>
+      <source:markdown>**[&#34;Good engineering management&#34; is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)**
+
+Will Larson argues that the technology industry&#39;s idea of what makes a good engineering manager changes over time based on industry realities. ZIRP hypergrowth has been exchanged for a more cautious approach today, and expectations of managers has changed to match:
+
+&#62; Where things get weird is that in each case a morality tale was subsequently superimposed on top of the transition \[...\] the industry will want different things from you as it evolves, and it will tell you that each of those shifts is because of some complex moral change, but it’s pretty much always about business realities changing.
+
+I particularly appreciated the section on core engineering management skills that stay constant no matter what:
+
+&#62; 1. **Execution**: lead team to deliver expected tangible and intangible work. Fundamentally, management is about getting things done, and you’ll neither get an opportunity to begin managing, nor stay long as a manager, if your teams don’t execute. \[...\]
+&#62; 2. **Team**: shape the team and the environment such that they succeed. This is _not_ working for the team, nor is it working for your leadership, it is finding the balance between the two that works for both. \[...\]
+&#62; 3. **Ownership**: navigate reality to make consistent progress, even when reality is difficult Finding a way to get things done, rather than finding a way that it not getting done is someone else’s fault. \[...\]
+&#62; 4. **Alignment**: build shared understanding across leadership, stakeholders, your team, and the problem space. Finding a realistic plan that meets the moment, without surprising or being surprised by those around you. \[...\]
+
+Will goes on to list four additional growth skill &#34;whose presence–or absence–determines how far you can go in your career&#34;.
+
+
+
+Via [Hacker News](https://news.ycombinator.com/item?id=46026939)
+
+Tags: [software-engineering](https://simonwillison.net/tags/software-engineering), [will-larson](https://simonwillison.net/tags/will-larson), [careers](https://simonwillison.net/tags/careers), [management](https://simonwillison.net/tags/management), [leadership](https://simonwillison.net/tags/leadership)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Nov/23/good-engineering-management-is-a-fad/#atom-everything</guid>
+    </item>    <item>
+      <title>Weathering</title>
+      <link>https://doc.searls.com/2025/11/23/weathering-2/</link>
+      <description>
+        <![CDATA[And the Green Season begins The fire season is officially over in Santa Barbara and the rest of Southern California. Noozhawk: &#34;The recent storm brought more than 9.5 inches of rain to the city of Santa Barbara, marking the wettest start to a rainy season in 127 years of recordkeeping.&#34;]]>
+      </description>
+      <source:markdown>And the Green Season begins The fire season is officially over in Santa Barbara and the rest of Southern California. Noozhawk: &#34;The recent storm brought more than 9.5 inches of rain to the city of Santa Barbara, marking the wettest start to a rainy season in 127 years of recordkeeping.&#34;</source:markdown>
+      <guid>cid://https://doc.searls.com/2025/11/23/weathering-2/</guid>
+    </item>    <item>
+      <link>https://m.youtube.com/watch?v=Gg5kPWMJnSo</link>
+      <description>
+        <![CDATA[<p>Why Life Actually Begins At 40.</p>]]>
+      </description>
+      <source:markdown>Why Life Actually Begins At 40.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/11/23/1996/</guid>
+    </item>    <item>
+      <title>ChatGPT and delusions: an important new inside look at OpenAI</title>
+      <link>https://garymarcus.substack.com/p/chatgpt-and-delusions-an-important</link>
+      <description>
+        <![CDATA[Pointer to an article you should read]]>
+      </description>
+      <source:markdown>Pointer to an article you should read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Gh6c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e26805a-11cf-4d9a-a591-b33ea756c900_1206x1462.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/chatgpt-and-delusions-an-important</guid>
+    </item>    <item>
+      <title>My Number One “Resource Not Found”</title>
+      <link>https://blog.jim-nielsen.com/2025/top-resource-not-found/</link>
+      <description>
+        <![CDATA[<p>The data is in.</p>
+        <p>The number one requested resource on my blog which doesn’t exist is:</p>
+        <p><code>/robots.txt</code></p>
+        <p>According to Netlify’s analytics, that resources was requested 15,553 times over the last thirty days.</p>
+        <p>Same story for other personal projects I manage:</p>
+        <ul>
+        <li><a href="https://www.iosicongallery.com" >iOS Icon Gallery</a>: 18,531 requests.</li>
+        <li><a href="https://www.macosicongallery.com" >macOS Icon Gallery</a> 10,565 requests.</li>
+        </ul>
+        <p>“That many requests and it serves a 404? Damn Jim, you better fix that quick!”</p>
+        <p>Nah, I’m good.</p>
+        <p>Why fix it? <a href="https://blog.jim-nielsen.com/2023/robots-txt/" >I have very little faith that the people who I want most to respect what’s in that file are not going to do so</a>.</p>
+        <p>So for now, I’m good serving a 404 for <code>robots.txt</code>.</p>
+        <p>Change my mind.</p>
+        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/robots-txt-404.jpg" width="578" height="432" alt="Change my mind meme with guy sitting in front of a table and the text “just gonna let `robots.txt` return a 404. CHANGE MY MIND” underneath." data-og-image /></p>
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/top-resource-not-found/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>The data is in.
+
+The number one requested resource on my blog which doesn’t exist is:
+
+`/robots.txt`
+
+According to Netlify’s analytics, that resources was requested 15,553 times over the last thirty days.
+
+Same story for other personal projects I manage:
+
+- [iOS Icon Gallery](https://www.iosicongallery.com): 18,531 requests.
+- [macOS Icon Gallery](https://www.macosicongallery.com) 10,565 requests.
+
+“That many requests and it serves a 404? Damn Jim, you better fix that quick!”
+
+Nah, I’m good.
+
+Why fix it? [I have very little faith that the people who I want most to respect what’s in that file are not going to do so](https://blog.jim-nielsen.com/2023/robots-txt/).
+
+So for now, I’m good serving a 404 for `robots.txt`.
+
+Change my mind.
+
+![Change my mind meme with guy sitting in front of a table and the text “just gonna let `robots.txt` return a 404. CHANGE MY MIND” underneath.](https://cdn.jim-nielsen.com/blog/2025/robots-txt-404.jpg)
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/top-resource-not-found/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2025/top-resource-not-found/</guid>
     </item>    <item>
       <title>Grid Paper</title>
       <link>https://daverupert.com/2025/11/grid-paper/</link>
@@ -1186,6 +1682,10 @@ A single page load on a basic font-download site triggered all of this:
 
 - **Nearly 2,400 logged network events** for a page that should need maybe 20</source:markdown>
       <guid>cid://https://tilde.zone/@tomasino/115596135526272922</guid>
+    </item>    <item>
+      <title>weekly retro #42: sick of the cold and my phone</title>
+      <link>https://livelaugh.blog/posts/weekly-retro-42/</link>
+      <guid>cid://https://livelaugh.blog/posts/weekly-retro-42/</guid>
     </item>    <item>
       <title>Olmo 3 is a fully open LLM</title>
       <link>https://simonwillison.net/2025/Nov/22/olmo-3/#atom-everything</link>
@@ -19702,1090 +20202,6 @@ Looking back at my precursor blog post from earlier this year, I’m amazed at h
         <![CDATA[Octopus Think creators, Sarah and Matt, use Buttondown to connect with customers, share updates about their apps, and other projects they are working on.]]>
       </description>
       <source:markdown>Octopus Think creators, Sarah and Matt, use Buttondown to connect with customers, share updates about their apps, and other projects they are working on.</source:markdown>
-    </item>    <item>
-      <title>New prompt injection papers: Agents Rule of Two and The Attacker Moves Second</title>
-      <link>https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything</link>
-      <description>
-        <![CDATA[<p>Two interesting new papers regarding LLM security and prompt injection came to my attention this weekend.</p>
-        <h4 id="agents-rule-of-two-a-practical-approach-to-ai-agent-security">Agents Rule of Two: A Practical Approach to AI Agent Security</h4>
-        <p>The first is <a href="https://ai.meta.com/blog/practical-ai-agent-security/">Agents Rule of Two: A Practical Approach to AI Agent Security</a>, published on October 31st on the Meta AI blog. It doesn't list authors but it was <a href="https://x.com/MickAyzenberg/status/1984355145917088235">shared on Twitter</a> by Meta AI security researcher Mick Ayzenberg.</p>
-        <p>It proposes a "Rule of Two" that's inspired by both my own <a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">lethal trifecta</a> concept and the Google Chrome team's <a href="https://chromium.googlesource.com/chromium/src/+/main/docs/security/rule-of-2.md">Rule Of 2</a> for writing code that works with untrustworthy inputs:</p>
-        <blockquote>
-        <p>At a high level, the Agents Rule of Two states that until robustness research allows us to reliably detect and refuse prompt injection, agents <strong>must satisfy no more than two</strong> of the following three properties within a session to avoid the highest impact consequences of prompt injection.</p>
-        <p><strong>[A]</strong> An agent can process untrustworthy inputs</p>
-        <p><strong>[B]</strong> An agent can have access to sensitive systems or private data</p>
-        <p><strong>[C]</strong> An agent can change state or communicate externally</p>
-        <p>It's still possible that all three properties are necessary to carry out a request. If an agent requires all three without starting a new session (i.e., with a fresh context window), then the agent should not be permitted to operate autonomously and at a minimum requires supervision --- via human-in-the-loop approval or another reliable means of validation.</p>
-        </blockquote>
-        <p>It's accompanied by this handy diagram:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/agents-rule-of-two-updated.jpg" alt="Venn diagram titled &quot;Choose Two&quot; showing three overlapping circles labeled A, B, and C. Circle A (top): &quot;Process untrustworthy inputs&quot; with description &quot;Externally authored data may contain prompt injection attacks that turn an agent malicious.&quot; Circle B (bottom left): &quot;Access to sensitive systems or private data&quot; with description &quot;This includes private user data, company secrets, production settings and configs, source code, and other sensitive data.&quot; Circle C (bottom right): &quot;Change state or communicate externally&quot; with description &quot;Overwrite or change state through write actions, or transmitting data to a threat actor through web requests or tool calls.&quot; The two-way overlaps between circles are labeled &quot;Lower risk&quot; while the center where all three circles overlap is labeled &quot;Danger&quot;." style="max-width: 100%;" /></p>
-        <p>I like this <em>a lot</em>.</p>
-        <p>I've spent several years now trying to find clear ways to explain the risks of prompt injection attacks to developers who are building on top of LLMs. It's frustratingly difficult.</p>
-        <p>I've had the most success with the lethal trifecta, which boils one particular class of prompt injection attack down to a simple-enough model: if your system has access to private data, exposure to untrusted content and a way to communicate externally then it's vulnerable to private data being stolen.</p>
-        <p>The one problem with the lethal trifecta is that it only covers the risk of data exfiltration: there are plenty of other, even nastier risks that arise from prompt injection attacks against LLM-powered agents with access to tools which the lethal trifecta doesn't cover.</p>
-        <p>The Agents Rule of Two neatly solves this, through the addition of "changing state" as a property to consider. This brings other forms of tool usage into the picture: anything that can change state triggered by untrustworthy inputs is something to be very cautious about.</p>
-        <p>It's also refreshing to see another major research lab concluding that prompt injection remains an unsolved problem, and attempts to block or filter them have not proven reliable enough to depend on. The current solution is to design systems with this in mind, and the Rule of Two is a solid way to think about that.</p>
-        <p id="exception"><strong>Update</strong>: On thinking about this further there's one aspect of the Rule of Two model that doesn't work for me: the Venn diagram above marks the combination of untrustworthy inputs and the ability to change state as "safe", but that's not right. Even without access to private systems or sensitive data that pairing can still produce harmful results. Unfortunately adding an exception for that pair undermines the simplicity of the "Rule of Two" framing!</p>
-        <p id="update-2"><strong>Update 2</strong>: Mick Ayzenberg responded to this note in <a href="https://news.ycombinator.com/item?id=45794245#45802448">a comment on Hacker News</a>:</p>
-        <blockquote>
-        <p>Thanks for the feedback! One small bit of clarification, the framework would describe access to any sensitive system as part of the [B] circle, not only private systems or private data.</p>
-        <p>The intention is that an agent that has removed [B] can write state and communicate freely, but not with any systems that matter (wrt critical security outcomes for its user). An example of an agent in this state would be one that can take actions in a tight sandbox or is isolated from production.</p>
-        </blockquote>
-        <p>The Meta team also <a href="https://news.ycombinator.com/item?id=45794245#45802046">updated their post</a> to replace "safe" with "lower risk" as the label on the intersections between the different circles. I've updated my screenshots of their diagrams in this post, <a href="https://static.simonwillison.net/static/2025/agents-rule-of-two.jpg">here's the original</a> for comparison.</p>
-        <p>Which brings me to the second paper...</p>
-        <h4 id="the-attacker-moves-second-stronger-adaptive-attacks-bypass-defenses-against-llm-jailbreaks-and-prompt-injections">The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections</h4>
-        <p>This paper is dated 10th October 2025 <a href="https://arxiv.org/abs/2510.09023">on Arxiv</a> and comes from a heavy-hitting team of 14 authors - Milad Nasr, Nicholas Carlini, Chawin Sitawarin, Sander V. Schulhoff, Jamie Hayes, Michael Ilie, Juliette Pluto, Shuang Song, Harsh Chaudhari, Ilia Shumailov, Abhradeep Thakurta, Kai Yuanqing Xiao, Andreas Terzis, Florian Tramèr - including representatives from OpenAI, Anthropic, and Google DeepMind.</p>
-        <p>The paper looks at 12 published defenses against prompt injection and jailbreaking and subjects them to a range of "adaptive attacks" - attacks that are allowed to expend considerable effort iterating multiple times to try and find a way through.</p>
-        <p>The defenses did not fare well:</p>
-        <blockquote>
-        <p>By systematically tuning and scaling general optimization techniques—gradient descent, reinforcement learning, random search, and human-guided exploration—we bypass 12 recent defenses (based on a diverse set of techniques) with attack success rate above 90% for most; importantly, the majority of defenses originally reported near-zero attack success rates.</p>
-        </blockquote>
-        <p>Notably the "Human red-teaming setting" scored 100%, defeating all defenses. That red-team consisted of 500 participants in an online competition they ran with a $20,000 prize fund.</p>
-        <p>The key point of the paper is that static example attacks - single string prompts designed to bypass systems - are an almost useless way to evaluate these defenses. Adaptive attacks are far more powerful, as shown by this chart:</p>
-        <p><img src="https://static.simonwillison.net/static/2025/attack-success-rate.jpg" alt="Bar chart showing Attack Success Rate (%) for various security systems across four categories: Prompting, Training, Filtering Model, and Secret Knowledge. The chart compares three attack types shown in the legend: Static / weak attack (green hatched bars), Automated attack (ours) (orange bars), and Human red-teaming (ours) (purple dotted bars). Systems and their success rates are: Spotlighting (28% static, 99% automated), Prompt Sandwich (21% static, 95% automated), RPO (0% static, 99% automated), Circuit Breaker (8% static, 100% automated), StruQ (62% static, 100% automated), SeqAlign (5% static, 96% automated), ProtectAI (15% static, 90% automated), PromptGuard (26% static, 94% automated), PIGuard (0% static, 71% automated), Model Armor (0% static, 90% automated), Data Sentinel (0% static, 80% automated), MELON (0% static, 89% automated), and Human red-teaming setting (0% static, 100% human red-teaming)." style="max-width: 100%;" /></p>
-        <p>The three automated adaptive attack techniques used by the paper are:</p>
-        <ul>
-        <li>
-        <strong>Gradient-based methods</strong> - these were the least effective, using the technique described in the legendary <a href="https://arxiv.org/abs/2307.15043">Universal and Transferable Adversarial Attacks on Aligned Language Models</a> paper <a href="https://simonwillison.net/2023/Jul/27/universal-and-transferable-attacks-on-aligned-language-models/">from 2023</a>.</li>
-        <li>
-        <strong>Reinforcement learning methods</strong> - particularly effective against black-box models: "we allowed the attacker model to interact directly with the defended system and observe its outputs", using 32 sessions of 5 rounds each.</li>
-        <li>
-        <strong>Search-based methods</strong> - generate candidates with an LLM, then evaluate and further modify them using LLM-as-judge and other classifiers.</li>
-        </ul>
-        <p>The paper concludes somewhat optimistically:</p>
-        <blockquote>
-        <p>[...] Adaptive evaluations are therefore more challenging to perform,
-        making it all the more important that they are performed. We again urge defense authors to release simple, easy-to-prompt defenses that are amenable to human analysis. [...] Finally, we hope that our analysis here will increase the standard for defense evaluations, and in so doing, increase the likelihood that reliable jailbreak and prompt injection defenses will be developed.</p>
-        </blockquote>
-        <p>Given how totally the defenses were defeated, I do not share their optimism that reliable defenses will be developed any time soon.</p>
-        <p>As a review of how far we still have to go this paper packs a powerful punch. I think it makes a strong case for Meta's Agents Rule of Two as the best practical advice for building secure LLM-powered agent systems today in the absence of prompt injection defenses we can rely on.</p>
-            
-                <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/nicholas-carlini">nicholas-carlini</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/lethal-trifecta">lethal-trifecta</a></p>]]>
-      </description>
-      <source:markdown>Two interesting new papers regarding LLM security and prompt injection came to my attention this weekend.
-
-#### Agents Rule of Two: A Practical Approach to AI Agent Security
-
-The first is [Agents Rule of Two: A Practical Approach to AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/), published on October 31st on the Meta AI blog. It doesn&#39;t list authors but it was [shared on Twitter](https://x.com/MickAyzenberg/status/1984355145917088235) by Meta AI security researcher Mick Ayzenberg.
-
-It proposes a &#34;Rule of Two&#34; that&#39;s inspired by both my own [lethal trifecta](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) concept and the Google Chrome team&#39;s [Rule Of 2](https://chromium.googlesource.com/chromium/src/+/main/docs/security/rule-of-2.md) for writing code that works with untrustworthy inputs:
-
-&#62; At a high level, the Agents Rule of Two states that until robustness research allows us to reliably detect and refuse prompt injection, agents **must satisfy no more than two** of the following three properties within a session to avoid the highest impact consequences of prompt injection.
-&#62;
-&#62; **\[A\]** An agent can process untrustworthy inputs
-&#62;
-&#62; **\[B\]** An agent can have access to sensitive systems or private data
-&#62;
-&#62; **\[C\]** An agent can change state or communicate externally
-&#62;
-&#62; It&#39;s still possible that all three properties are necessary to carry out a request. If an agent requires all three without starting a new session (i.e., with a fresh context window), then the agent should not be permitted to operate autonomously and at a minimum requires supervision --- via human-in-the-loop approval or another reliable means of validation.
-
-It&#39;s accompanied by this handy diagram:
-
-![Venn diagram titled &#34;Choose Two&#34; showing three overlapping circles labeled A, B, and C. Circle A (top): &#34;Process untrustworthy inputs&#34; with description &#34;Externally authored data may contain prompt injection attacks that turn an agent malicious.&#34; Circle B (bottom left): &#34;Access to sensitive systems or private data&#34; with description &#34;This includes private user data, company secrets, production settings and configs, source code, and other sensitive data.&#34; Circle C (bottom right): &#34;Change state or communicate externally&#34; with description &#34;Overwrite or change state through write actions, or transmitting data to a threat actor through web requests or tool calls.&#34; The two-way overlaps between circles are labeled &#34;Lower risk&#34; while the center where all three circles overlap is labeled &#34;Danger&#34;.](https://static.simonwillison.net/static/2025/agents-rule-of-two-updated.jpg)
-
-I like this _a lot_.
-
-I&#39;ve spent several years now trying to find clear ways to explain the risks of prompt injection attacks to developers who are building on top of LLMs. It&#39;s frustratingly difficult.
-
-I&#39;ve had the most success with the lethal trifecta, which boils one particular class of prompt injection attack down to a simple-enough model: if your system has access to private data, exposure to untrusted content and a way to communicate externally then it&#39;s vulnerable to private data being stolen.
-
-The one problem with the lethal trifecta is that it only covers the risk of data exfiltration: there are plenty of other, even nastier risks that arise from prompt injection attacks against LLM-powered agents with access to tools which the lethal trifecta doesn&#39;t cover.
-
-The Agents Rule of Two neatly solves this, through the addition of &#34;changing state&#34; as a property to consider. This brings other forms of tool usage into the picture: anything that can change state triggered by untrustworthy inputs is something to be very cautious about.
-
-It&#39;s also refreshing to see another major research lab concluding that prompt injection remains an unsolved problem, and attempts to block or filter them have not proven reliable enough to depend on. The current solution is to design systems with this in mind, and the Rule of Two is a solid way to think about that.
-
-**Update**: On thinking about this further there&#39;s one aspect of the Rule of Two model that doesn&#39;t work for me: the Venn diagram above marks the combination of untrustworthy inputs and the ability to change state as &#34;safe&#34;, but that&#39;s not right. Even without access to private systems or sensitive data that pairing can still produce harmful results. Unfortunately adding an exception for that pair undermines the simplicity of the &#34;Rule of Two&#34; framing!
-
-**Update 2**: Mick Ayzenberg responded to this note in [a comment on Hacker News](https://news.ycombinator.com/item?id=45794245#45802448):
-
-&#62; Thanks for the feedback! One small bit of clarification, the framework would describe access to any sensitive system as part of the \[B\] circle, not only private systems or private data.
-&#62;
-&#62; The intention is that an agent that has removed \[B\] can write state and communicate freely, but not with any systems that matter (wrt critical security outcomes for its user). An example of an agent in this state would be one that can take actions in a tight sandbox or is isolated from production.
-
-The Meta team also [updated their post](https://news.ycombinator.com/item?id=45794245#45802046) to replace &#34;safe&#34; with &#34;lower risk&#34; as the label on the intersections between the different circles. I&#39;ve updated my screenshots of their diagrams in this post, [here&#39;s the original](https://static.simonwillison.net/static/2025/agents-rule-of-two.jpg) for comparison.
-
-Which brings me to the second paper...
-
-#### The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections
-
-This paper is dated 10th October 2025 [on Arxiv](https://arxiv.org/abs/2510.09023) and comes from a heavy-hitting team of 14 authors - Milad Nasr, Nicholas Carlini, Chawin Sitawarin, Sander V. Schulhoff, Jamie Hayes, Michael Ilie, Juliette Pluto, Shuang Song, Harsh Chaudhari, Ilia Shumailov, Abhradeep Thakurta, Kai Yuanqing Xiao, Andreas Terzis, Florian Tramèr - including representatives from OpenAI, Anthropic, and Google DeepMind.
-
-The paper looks at 12 published defenses against prompt injection and jailbreaking and subjects them to a range of &#34;adaptive attacks&#34; - attacks that are allowed to expend considerable effort iterating multiple times to try and find a way through.
-
-The defenses did not fare well:
-
-&#62; By systematically tuning and scaling general optimization techniques—gradient descent, reinforcement learning, random search, and human-guided exploration—we bypass 12 recent defenses (based on a diverse set of techniques) with attack success rate above 90% for most; importantly, the majority of defenses originally reported near-zero attack success rates.
-
-Notably the &#34;Human red-teaming setting&#34; scored 100%, defeating all defenses. That red-team consisted of 500 participants in an online competition they ran with a $20,000 prize fund.
-
-The key point of the paper is that static example attacks - single string prompts designed to bypass systems - are an almost useless way to evaluate these defenses. Adaptive attacks are far more powerful, as shown by this chart:
-
-![Bar chart showing Attack Success Rate (%) for various security systems across four categories: Prompting, Training, Filtering Model, and Secret Knowledge. The chart compares three attack types shown in the legend: Static / weak attack (green hatched bars), Automated attack (ours) (orange bars), and Human red-teaming (ours) (purple dotted bars). Systems and their success rates are: Spotlighting (28% static, 99% automated), Prompt Sandwich (21% static, 95% automated), RPO (0% static, 99% automated), Circuit Breaker (8% static, 100% automated), StruQ (62% static, 100% automated), SeqAlign (5% static, 96% automated), ProtectAI (15% static, 90% automated), PromptGuard (26% static, 94% automated), PIGuard (0% static, 71% automated), Model Armor (0% static, 90% automated), Data Sentinel (0% static, 80% automated), MELON (0% static, 89% automated), and Human red-teaming setting (0% static, 100% human red-teaming).](https://static.simonwillison.net/static/2025/attack-success-rate.jpg)
-
-The three automated adaptive attack techniques used by the paper are:
-
-- **Gradient-based methods** \- these were the least effective, using the technique described in the legendary [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) paper [from 2023](https://simonwillison.net/2023/Jul/27/universal-and-transferable-attacks-on-aligned-language-models/).
-- **Reinforcement learning methods** \- particularly effective against black-box models: &#34;we allowed the attacker model to interact directly with the defended system and observe its outputs&#34;, using 32 sessions of 5 rounds each.
-- **Search-based methods** \- generate candidates with an LLM, then evaluate and further modify them using LLM-as-judge and other classifiers.
-
-The paper concludes somewhat optimistically:
-
-&#62; \[...\] Adaptive evaluations are therefore more challenging to perform,
-&#62; making it all the more important that they are performed. We again urge defense authors to release simple, easy-to-prompt defenses that are amenable to human analysis. \[...\] Finally, we hope that our analysis here will increase the standard for defense evaluations, and in so doing, increase the likelihood that reliable jailbreak and prompt injection defenses will be developed.
-
-Given how totally the defenses were defeated, I do not share their optimism that reliable defenses will be developed any time soon.
-
-As a review of how far we still have to go this paper packs a powerful punch. I think it makes a strong case for Meta&#39;s Agents Rule of Two as the best practical advice for building secure LLM-powered agent systems today in the absence of prompt injection defenses we can rely on.
-
-Tags: [definitions](https://simonwillison.net/tags/definitions), [security](https://simonwillison.net/tags/security), [openai](https://simonwillison.net/tags/openai), [prompt-injection](https://simonwillison.net/tags/prompt-injection), [anthropic](https://simonwillison.net/tags/anthropic), [nicholas-carlini](https://simonwillison.net/tags/nicholas-carlini), [paper-review](https://simonwillison.net/tags/paper-review), [lethal-trifecta](https://simonwillison.net/tags/lethal-trifecta)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything</guid>
-    </item>    <item>
-      <title>Sunday caption contest: Abundance?</title>
-      <link>https://robertreich.substack.com/p/sunday-caption-contest-abundance</link>
-      <description>
-        <![CDATA[And last week&#8217;s winner]]>
-      </description>
-      <source:markdown>And last week’s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!M5FQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c3bc396-c9b3-417c-b704-ef4aadd9c496_3500x2580.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-abundance</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/11/02.html#a223816</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/12/24/slugger.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's the first day of "no more baseball" for the next ten months or so. I admit I don't really get involved until August. But this year was great, even though the Mets didn't make the playoffs. Congrats to my friends who are Mariners fans, they made a really good run. I was pulling for the Blue Jays, dreading a Los Angeles win, but as they say you can't always get what you want. And I don't mind that there's a victory for LA, a city that's taking the brunt of what's surely coming for NYC. Obviously they're waiting for the election to be over before they occupy the city.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2023/12/24/slugger.png)It&#39;s the first day of &#34;no more baseball&#34; for the next ten months or so. I admit I don&#39;t really get involved until August. But this year was great, even though the Mets didn&#39;t make the playoffs. Congrats to my friends who are Mariners fans, they made a really good run. I was pulling for the Blue Jays, dreading a Los Angeles win, but as they say you can&#39;t always get what you want. And I don&#39;t mind that there&#39;s a victory for LA, a city that&#39;s taking the brunt of what&#39;s surely coming for NYC. Obviously they&#39;re waiting for the election to be over before they occupy the city.</source:markdown>
-      <guid>cid://http://scripting.com/2025/11/02.html#a223816</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/11/02.html#a222607</link>
-      <description>
-        <![CDATA[Current <a href="https://imgs.scripting.com/2025/11/02/wordlandScreenShot.png">screen shot</a> of WordLand.]]>
-      </description>
-      <source:markdown>Current [screen shot](https://imgs.scripting.com/2025/11/02/wordlandScreenShot.png) of WordLand.</source:markdown>
-      <guid>cid://http://scripting.com/2025/11/02.html#a222607</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4ocay5x2s2u</link>
-      <description>
-        <![CDATA[This seems like a sensible policy.
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>This seems like a sensible policy.
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4ocay5x2s2u</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m4oc7bwczk2u</link>
-      <description>
-        <![CDATA[As an amateur historian, I jotted down some of my current thinking on social media and AI. https://rsdoiel.github.io/blog/2025/11/02/is_social_media_a_misnomer.html]]>
-      </description>
-      <source:markdown>As an amateur historian, I jotted down some of my current thinking on social media and AI. https://rsdoiel.github.io/blog/2025/11/02/is\_social\_media\_a\_misnomer.html</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m4oc7bwczk2u</guid>
-    </item>    <item>
-      <title>Playing with Ubuntu 25.10</title>
-      <link>https://smist08.wordpress.com/2025/11/02/playing-with-ubuntu-25-10/</link>
-      <description>
-        <![CDATA[Introduction Ubuntu released 25.10 back on October 9. Now that I’ve sent my two books off to production, I can have a look at a few non Assembly Language things of interest. I’ve always liked Ubuntu as it is a fairly hassle-free implementation of Debian Linux with most of the software I need and a [&#8230;]]]>
-      </description>
-      <source:markdown>Introduction Ubuntu released 25.10 back on October 9. Now that I’ve sent my two books off to production, I can have a look at a few non Assembly Language things of interest. I’ve always liked Ubuntu as it is a fairly hassle-free implementation of Debian Linux with most of the software I need and a \[…\]</source:markdown>
-      <guid>cid://http://smist08.wordpress.com/?p=3790</guid>
-    </item>    <item>
-      <title>Reviewing the 13 books I read in September and October</title>
-      <link>https://www.mollywhite.net/micro/entry/202511021430</link>
-      <guid>cid://6907b3d27034ea8afbbc11d4</guid>
-    </item>    <item>
-      <title>PyCon US 2026 call for proposals is now open</title>
-      <link>https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://pycon.blogspot.com/2025/10/pycon-us-2026-call-for-proposals-now.html">PyCon US 2026 call for proposals is now open</a></strong></p>
-        PyCon US is coming to the US west coast! 2026 and 2027 will both be held in Long Beach, California - the 2026 conference is set for May 13th-19th next year.</p>
-        <p>The call for proposals just opened. Since we'll be in LA County I'd love to see talks about Python in the entertainment industry - if you know someone who could present on that topic please make sure they know about the CFP!</p>
-        <p>The deadline for submissions is December 19th 2025. There are two new tracks this year:</p>
-        <blockquote>
-        <p>PyCon US is introducing two dedicated Talk tracks to the schedule this year, "The Future of AI with Python" and "Trailblazing Python Security". For more information and how to submit your proposal, <a href="https://us.pycon.org/2026/speaking/guidelines/">visit this page</a>.</p>
-        </blockquote>
-        <p>Now is also a great time to consider sponsoring PyCon - here's <a href="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/psf_sponsor_prospectus_25-26_final_compressed.pdf">the sponsorship prospectus</a>.
-        
-            <p><small></small>Via <a href="https://bsky.app/profile/pycon.us/post/3m4j34eloes25">@pycon.us</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/call-for-proposals">call-for-proposals</a>, <a href="https://simonwillison.net/tags/conferences">conferences</a>, <a href="https://simonwillison.net/tags/pycon">pycon</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/psf">psf</a></p>]]>
-      </description>
-      <source:markdown>**[PyCon US 2026 call for proposals is now open](https://pycon.blogspot.com/2025/10/pycon-us-2026-call-for-proposals-now.html)**
-
-PyCon US is coming to the US west coast! 2026 and 2027 will both be held in Long Beach, California - the 2026 conference is set for May 13th-19th next year.
-
-The call for proposals just opened. Since we&#39;ll be in LA County I&#39;d love to see talks about Python in the entertainment industry - if you know someone who could present on that topic please make sure they know about the CFP!
-
-The deadline for submissions is December 19th 2025. There are two new tracks this year:
-
-&#62; PyCon US is introducing two dedicated Talk tracks to the schedule this year, &#34;The Future of AI with Python&#34; and &#34;Trailblazing Python Security&#34;. For more information and how to submit your proposal, [visit this page](https://us.pycon.org/2026/speaking/guidelines/).
-
-Now is also a great time to consider sponsoring PyCon - here&#39;s [the sponsorship prospectus](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/psf_sponsor_prospectus_25-26_final_compressed.pdf).
-
-
-
-Via [@pycon.us](https://bsky.app/profile/pycon.us/post/3m4j34eloes25)
-
-Tags: [call-for-proposals](https://simonwillison.net/tags/call-for-proposals), [conferences](https://simonwillison.net/tags/conferences), [pycon](https://simonwillison.net/tags/pycon), [python](https://simonwillison.net/tags/python), [psf](https://simonwillison.net/tags/psf)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything</guid>
-    </item>    <item>
-      <title>Liberalism’s Death Has Been Greatly Exaggerated</title>
-      <link>https://www.notesfromthecircus.com/p/liberalisms-death-has-been-greatly</link>
-      <description>
-        <![CDATA[Why the crisis everyone mourns reveals liberal tradition at its most vital]]>
-      </description>
-      <source:markdown>Why the crisis everyone mourns reveals liberal tradition at its most vital</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nDMO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc74d5d25-5b19-421d-ba00-df7921824bf2_4031x2357.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.notesfromthecircus.com/p/liberalisms-death-has-been-greatly</guid>
-    </item>    <item>
-      <title>Browser APIs: The Web’s Free SaaS</title>
-      <link>https://blog.jim-nielsen.com/2025/browser-apis-as-sass/</link>
-      <description>
-        <![CDATA[<p>Authentication on the web is a complicated problem. If you’re going to do it yourself, there’s <em>a lot</em> you have to take into consideration.</p>
-        <p>But odds are, you’re building an app whose core offering has nothing to do with auth. You don’t care about auth. It’s an implementation detail.</p>
-        <p>So rather than spend your precious time solving the problem of auth, you pay someone else to solve it.</p>
-        <p>That’s the value of SaaS.</p>
-        <p>What would be the point of paying for an authentication service, like workOS, then re-implementing auth on your own? They have dedicated teams working on that problem. It’s unlikely you’re going to do it better than them <em>and</em> still deliver on the product you’re building.</p>
-        <p>There’s a parallel here, I think, to building stuff in the browser. </p>
-        <p>Browsers provide lots of features to help you deliver good websites fast to an incredibly broad and diverse audience.</p>
-        <p>Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing their offerings.</p>
-        <p>So if you leverage what they offer you, that gives you an advantage because you don’t have to build it yourself.</p>
-        <p>You <em>could</em> build it yourself. You could say “No thanks, I don’t want what you have. I’ll make my own.”</p>
-        <p>But you don’t have to. And odds are, whatever you do build yourself, is not likely to be as fast as the <a href="https://blog.jim-nielsen.com/2025/more-control-equals-less-performance/" >highly-optimized subsystems you can tie together in the browser</a>.</p>
-        <p>And the best part? Unlike SaaS, you don’t have to pay for what the browser offers you.</p>
-        <p>And because you’re not paying, it can’t be turned off if you stop paying.</p>
-        <p><code>@view-transition</code>, for example, is a free API that’ll work forever.</p>
-        <p>That’s a great deal. Are you taking advantage?</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/browser-apis-as-sass/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>Authentication on the web is a complicated problem. If you’re going to do it yourself, there’s _a lot_ you have to take into consideration.
-
-But odds are, you’re building an app whose core offering has nothing to do with auth. You don’t care about auth. It’s an implementation detail.
-
-So rather than spend your precious time solving the problem of auth, you pay someone else to solve it.
-
-That’s the value of SaaS.
-
-What would be the point of paying for an authentication service, like workOS, then re-implementing auth on your own? They have dedicated teams working on that problem. It’s unlikely you’re going to do it better than them _and_ still deliver on the product you’re building.
-
-There’s a parallel here, I think, to building stuff in the browser.
-
-Browsers provide lots of features to help you deliver good websites fast to an incredibly broad and diverse audience.
-
-Browser makers have teams of people who, day-in and day-out, are spending lots of time developing and optimizing their offerings.
-
-So if you leverage what they offer you, that gives you an advantage because you don’t have to build it yourself.
-
-You _could_ build it yourself. You could say “No thanks, I don’t want what you have. I’ll make my own.”
-
-But you don’t have to. And odds are, whatever you do build yourself, is not likely to be as fast as the [highly-optimized subsystems you can tie together in the browser](https://blog.jim-nielsen.com/2025/more-control-equals-less-performance/).
-
-And the best part? Unlike SaaS, you don’t have to pay for what the browser offers you.
-
-And because you’re not paying, it can’t be turned off if you stop paying.
-
-`@view-transition`, for example, is a free API that’ll work forever.
-
-That’s a great deal. Are you taking advantage?
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/browser-apis-as-sass/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2025/browser-apis-as-sass/</guid>
-    </item>    <item>
-      <title>November 1, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/november-1-2025-d68</link>
-      <enclosure url="https://api.substack.com/feed/podcast/177817019/6cf8d67f7de1b04b8034952e451c6382.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/november-1-2025-d68</guid>
-    </item>    <item>
-      <link>https://www.noemamag.com/the-last-days-of-social-media/</link>
-      <description>
-        <![CDATA[<p>The Last Days Of Social Media.</p>]]>
-      </description>
-      <source:markdown>The Last Days Of Social Media.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/11/02/1773/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/lataco.bsky.social/post/3m4n4ep2cms24</link>
-      <description>
-        <![CDATA[<p>This is the Los Angeles the Dodgers are returning to.</p>]]>
-      </description>
-      <source:markdown>This is the Los Angeles the Dodgers are returning to.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/11/02/1769/</guid>
-    </item>    <item>
-      <title>Too big to fail?</title>
-      <link>https://garymarcus.substack.com/p/too-big-to-fail</link>
-      <description>
-        <![CDATA[Get ready for chaos]]>
-      </description>
-      <source:markdown>Get ready for chaos</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!GG6T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29012adb-5740-4b92-877d-70db600a443d_1336x726.png" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/too-big-to-fail</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m4ntudzwfc2f</link>
-      <description>
-        <![CDATA[At a time when our politics feels broken, we need leaders like @mikiesherrill.bsky.social for Governor.
-        
-        Mikie will work to create jobs, lower costs, and do what’s right for the people of New Jersey.]]>
-      </description>
-      <source:markdown>At a time when our politics feels broken, we need leaders like @mikiesherrill.bsky.social for Governor.
-
-Mikie will work to create jobs, lower costs, and do what’s right for the people of New Jersey.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m4ntudzwfc2f</guid>
-    </item>    <item>
-      <title>Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7</title>
-      <link>https://www.mlb.com/news/dodgers-win-2025-world-series</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42351</guid>
-    </item>    <item>
-      <title>Read &#34;Some People Can&#39;t See Mental Images. The Consequences Are Profound&#34;</title>
-      <link>https://www.mollywhite.net/reading/shortform?search=Some%20People%20Can&#39;t%20See%20Mental%20Images.%20The%20Consequences%20Are%20Profound</link>
-      <guid>cid://690770bd94c62d1d9ebdf15d</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/11/02.html#a142341</link>
-      <description>
-        <![CDATA[Since the next version of <a href="https://netnewswire.com/">NetNewsWire</a> supports <a href="https://source.scripting.com/#1653758422000">source:markdown</a> I wanted to <a href="https://github.com/Ranchero-Software/NetNewsWire/issues/4825">show</a> how to find the feeds generated by WordLand that are compatible.]]>
-      </description>
-      <source:markdown>Since the next version of [NetNewsWire](https://netnewswire.com/) supports [source:markdown](https://source.scripting.com/#1653758422000) I wanted to [show](https://github.com/Ranchero-Software/NetNewsWire/issues/4825) how to find the feeds generated by WordLand that are compatible.</source:markdown>
-      <guid>cid://http://scripting.com/2025/11/02.html#a142341</guid>
-    </item>    <item>
-      <link>https://www.cbsnews.com/colorado/news/flock-cameras-lead-colorado-police-wrong-suspect/</link>
-      <description>
-        <![CDATA[<p>Flock cameras lead Colorado police to wrong suspect: "It became my job to prove my innocence."</p>]]>
-      </description>
-      <source:markdown>Flock cameras lead Colorado police to wrong suspect: &#34;It became my job to prove my innocence.&#34;</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/11/02/1767/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/11/02.html#a132557</link>
-      <description>
-        <![CDATA[I wanted to show <a href="https://www.crunchbase.com/person/jake-savin">Jake Savin</a>, a UserLand dev and friend, how I edit my JavaScript code projects in my outliner. This is the <a href="https://github.com/scripting/feedland/blob/main/database/source.opml">source.opml</a> file for the <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase</a> package, <a href="https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml">which you can edit</a> in Drummer.]]>
-      </description>
-      <source:markdown>I wanted to show [Jake Savin](https://www.crunchbase.com/person/jake-savin), a UserLand dev and friend, how I edit my JavaScript code projects in my outliner. This is the [source.opml](https://github.com/scripting/feedland/blob/main/database/source.opml) file for the [feedlanddatabase](https://www.npmjs.com/package/feedlanddatabase) package, [which you can edit](https://drummer.land/?url=https://raw.githubusercontent.com/scripting/feedland/refs/heads/main/database/source.opml) in Drummer.</source:markdown>
-      <guid>cid://http://scripting.com/2025/11/02.html#a132557</guid>
-    </item>    <item>
-      <title>Frank &#38; Ella</title>
-      <link>https://steady.substack.com/p/frank-and-ella</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!unwD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06498d98-44bb-40fd-85ce-ba528e12e2c2_5296x3600.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/frank-and-ella</guid>
-    </item>    <item>
-      <link>https://new365.azontree.com/?p=116160&#38;fbclid=IwY2xjawN0ML1leHRuA2FlbQIxMABicmlkETFKbEk3TDlnS2Rac3d5d1A0AR4KphJjGDsENBcT_VTur212xFiy2vSzOWZtorD4FOkDR4IXXWWZeVzlj9ogPg_aem_jARnU88q2-qfEq7QbeP2Bw</link>
-      <description>
-        <![CDATA[<p>“Don’t be foolish enough to let Pete Alonso go!” says Keith Hernandez, of the legendary slugger of the Mets.</p>]]>
-      </description>
-      <source:markdown>“Don’t be foolish enough to let Pete Alonso go!” says Keith Hernandez, of the legendary slugger of the Mets.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/11/02/1765/</guid>
-    </item>    <item>
-      <title>The Democrats&#39; problem in the Senate is not progressives | Weekly roundup for November 2, 2025</title>
-      <link>https://www.gelliottmorris.com/p/democrats-need-a-bigger-senate-solution</link>
-      <description>
-        <![CDATA[Their big problem is not a lack of moderates, it's nationalization of party brands. And: A new era for the exit poll; The end game of partisan gerrymandering; and how Substack's AI works. + more!]]>
-      </description>
-      <source:markdown>Their big problem is not a lack of moderates, it&#39;s nationalization of party brands. And: A new era for the exit poll; The end game of partisan gerrymandering; and how Substack&#39;s AI works. + more!</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!s8zW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07d9a2c1-489b-45f7-b5a5-56c3b42de29c_789x718.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/democrats-need-a-bigger-senate-solution</guid>
-    </item>    <item>
-      <link>https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/</link>
-      <description>
-        <![CDATA[<p>New (South Korean) national law will turn large parking lots into solar power farms.</p>]]>
-      </description>
-      <source:markdown>New (South Korean) national law will turn large parking lots into solar power farms.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/11/02/1763/</guid>
-    </item>    <item>
-      <title>The Domestic Politics and Geopolitics of Renewable Energy, Part I</title>
-      <link>https://paulkrugman.substack.com/p/the-domestic-politics-and-geopolitics</link>
-      <description>
-        <![CDATA[Trump has ceded world leadership to China. But will China do enough?]]>
-      </description>
-      <source:markdown>Trump has ceded world leadership to China. But will China do enough?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!FZCY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24d9f78e-f694-40ac-a4b0-d0c5658ce14d_1429x744.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/the-domestic-politics-and-geopolitics</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/11/02.html#a105056</link>
-      <description>
-        <![CDATA[In August 2002 I asked why RSS 1.0 is named RSS. I gathered up <a href="http://essaysfromexodus.scripting.com/whyRss10NamedRss">opinions</a> and published it as a single document. I didn't edit or respond, just let people speak. I think this is a legit document type. And when implemented in 2026, it should all work with pointers. They should be only one copy of the text, where the author wrote it. Technically this is totally doable. Just a few independent developers to work with to start a bootstrap. We know how to do this.]]>
-      </description>
-      <source:markdown>In August 2002 I asked why RSS 1.0 is named RSS. I gathered up [opinions](http://essaysfromexodus.scripting.com/whyRss10NamedRss) and published it as a single document. I didn&#39;t edit or respond, just let people speak. I think this is a legit document type. And when implemented in 2026, it should all work with pointers. They should be only one copy of the text, where the author wrote it. Technically this is totally doable. Just a few independent developers to work with to start a bootstrap. We know how to do this.</source:markdown>
-      <guid>cid://http://scripting.com/2025/11/02.html#a105056</guid>
-    </item>    <item>
-      <title>Sunday thought: How to cope with Trump’s chaos</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-coping-with-trumps</link>
-      <description>
-        <![CDATA[Friends,]]>
-      </description>
-      <source:markdown>Friends,</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!FCJt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6503736-ca64-4819-89bd-0fb1056e68b9_3247x2531.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-coping-with-trumps</guid>
-    </item>    <item>
-      <title>Debating the Trump Era with Abby Phillip</title>
-      <link>https://crooked.com/podcast/debating-the-trump-era-with-abby-phillip/</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://crooked.com/podcast/debating-the-trump-era-with-abby-phillip/">Debating the Trump Era with Abby Phillip</a> appeared first on <a href="https://crooked.com">Crooked Media</a>.</p>]]>
-      </description>
-      <source:markdown>The post [Debating the Trump Era with Abby Phillip](https://crooked.com/podcast/debating-the-trump-era-with-abby-phillip/) appeared first on [Crooked Media](https://crooked.com).</source:markdown>
-      <guid>cid://https://crooked.com/?post_type=pod_cast&#38;p=39140</guid>
-    </item>    <item>
-      <title>Summary of changes for October 2025</title>
-      <link>https://100r.ca/site/log.html#oct2025</link>
-      <description>
-        <![CDATA[<p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of October.</p>
-        
-        <img src="../media/content/videos/october_2025.jpg" alt="little ninj, a small ninja, is leaning happily on a pumpkin bearing the face of the Hollow creature from Scavengers Reign" loading="lazy" width="1200" height="679">
-        
-        <ul>
-          <li><b><a href="https://wiki.xxiivv.com/site/cccc" target="_blank">CCCC</a></b>, added a factorization mode.</li>
-          <li><b><a href="https://wiki.xxiivv.com/site/bagel" target="_blank">Bagel</a></b>, wrote about a cursed programming language idea where instead of cons cells, s-exp represent unordered lists.</li>
-          <li><b><a href="../site/rabbitwaves.html">Rabbit Waves</a></b>, released a new page called <a href="https://rabbitwaves.ca/site/celestial_compass.html" target="_blank">Celestial Compass</a>, and added <a href="https://rabbitwaves.ca/site/about.html" target="_blank">a button</a> for those who wish to link to the website from theirs.</li>
-          <li><b><a href="https://kokorobot.ca/site/punk_rabbits.html" target="_blank">Punk Rabbits</a></b>, completed 2 new rabbits(#55 and 56).</li>
-        </ul>
-        
-        <p>We sailed Pino back to Victoria before heading east for <a href='https://ampindustrialevents.com'>AMP Festival 2025</a>. The venue was packed! The <a href="https://www.youtube.com/watch?v=ObCjiUWll7g" target="_blank">Aliceffekt show</a>(YouTube) started with a bit of <i>radio taiso</i>, to make sure everyone had a chance to limber up, it was pretty funny.</p>
-        
-        <p>As the trees were shedding the last of their leaves, members of the Merveilles community composed a <a href="https://www.youtube.com/watch?v=NmmU1voBVeU" target="_blank">spooky mixtape</a>(<a href="https://matecha.net/hallow_2025.mp3" target="_blank">download</a>), and we folded paper to craft ourselves some homemade Halloween <a href="https://rabbits.srht.site/days/2025/11/01.html" target="_blank">masks</a>. Like every year, we carved a <a href="halloween_pumpkins.html">pumpkin</a>. This year's design was inspired by the <a href="../media/content/inventory/pumpkin_hollow.jpg" target="_blank">Hollow creature</a> from the amazing animated sci-fi series <i>Scavengers Reign</i>.</p>
-        
-        <p>We spent the rest of the month with family, seeing friends and reviewing <a href="https://rhizome.org/editorial/2025/sep/15/open-call-microgrants-2025/" target='_blank'>microgrant applications</a> for Rhizome.</p>
-        
-        <p>We have re-opened the <a href="../site/store.html">store</a> for sticker sales, but at the moment we cannot ship them to the US due to the <a href="https://www.canadapost-postescanada.ca/cpc/en/support/campaign/shipping-to-us-duty-updates.page" target="_blank">suspension of the de minimis exemption</a>. We hope to resume shipments as soon as we can figure out how to comply with the new shipping rules. The sale of our physical books to the US is unaffected. We'll end this update with the mention that <a href="../site/oquonie.html">Oquonie</a> is part of the <a href="https://play.date/games/oquonie/" target="_blank">Playdate Catalogue fall sale</a> lasting until Nov 13, 2025. Thank you to everyone who continue to explore our strange little world.</p>
-        
-        <p><b>Book Club:</b> This month we are reading <i>The Outsiders</i> by Susan E. Hinton, and <i>Madame Bovary: Provincial Manners</i> by Gustave Flaubert.</p>
-        <p><a href='https://100r.ca/site/log.html#oct2025' target='_blank'>Continue Reading</a></p>]]>
-      </description>
-      <source:markdown>Hey everyone!
-
-This is the list of all the changes we&#39;ve done to our projects during the month of October.
-
-![little ninj, a small ninja, is leaning happily on a pumpkin bearing the face of the Hollow creature from Scavengers Reign](../media/content/videos/october_2025.jpg)
-
-- **[CCCC](https://wiki.xxiivv.com/site/cccc)**, added a factorization mode.
-- **[Bagel](https://wiki.xxiivv.com/site/bagel)**, wrote about a cursed programming language idea where instead of cons cells, s-exp represent unordered lists.
-- **[Rabbit Waves](../site/rabbitwaves.html)**, released a new page called [Celestial Compass](https://rabbitwaves.ca/site/celestial_compass.html), and added [a button](https://rabbitwaves.ca/site/about.html) for those who wish to link to the website from theirs.
-- **[Punk Rabbits](https://kokorobot.ca/site/punk_rabbits.html)**, completed 2 new rabbits(#55 and 56).
-
-We sailed Pino back to Victoria before heading east for [AMP Festival 2025](https://ampindustrialevents.com). The venue was packed! The [Aliceffekt show](https://www.youtube.com/watch?v=ObCjiUWll7g)(YouTube) started with a bit of _radio taiso_, to make sure everyone had a chance to limber up, it was pretty funny.
-
-As the trees were shedding the last of their leaves, members of the Merveilles community composed a [spooky mixtape](https://www.youtube.com/watch?v=NmmU1voBVeU)( [download](https://matecha.net/hallow_2025.mp3)), and we folded paper to craft ourselves some homemade Halloween [masks](https://rabbits.srht.site/days/2025/11/01.html). Like every year, we carved a [pumpkin](halloween_pumpkins.html). This year&#39;s design was inspired by the [Hollow creature](../media/content/inventory/pumpkin_hollow.jpg) from the amazing animated sci-fi series _Scavengers Reign_.
-
-We spent the rest of the month with family, seeing friends and reviewing [microgrant applications](https://rhizome.org/editorial/2025/sep/15/open-call-microgrants-2025/) for Rhizome.
-
-We have re-opened the [store](../site/store.html) for sticker sales, but at the moment we cannot ship them to the US due to the [suspension of the de minimis exemption](https://www.canadapost-postescanada.ca/cpc/en/support/campaign/shipping-to-us-duty-updates.page). We hope to resume shipments as soon as we can figure out how to comply with the new shipping rules. The sale of our physical books to the US is unaffected. We&#39;ll end this update with the mention that [Oquonie](../site/oquonie.html) is part of the [Playdate Catalogue fall sale](https://play.date/games/oquonie/) lasting until Nov 13, 2025. Thank you to everyone who continue to explore our strange little world.
-
-**Book Club:** This month we are reading _The Outsiders_ by Susan E. Hinton, and _Madame Bovary: Provincial Manners_ by Gustave Flaubert.
-
-[Continue Reading](https://100r.ca/site/log.html#oct2025)</source:markdown>
-      <guid>cid://log.html#oct2025</guid>
-    </item>    <item>
-      <title>Decisions are the foundation of art</title>
-      <link>https://tracydurnell.com/2025/11/01/decisions-are-the-foundation-of-art/</link>
-      <description>
-        <![CDATA[As generative AI&#8217;s impact on the creative industries grows, I&#8217;ve been thinking about what produces art, and why graphics produced by diffusion models and text produced by LLMs are (by and large) not. And I think that, ultimately, art is the result of creative decisions, whereas generative AI removes decision-making. Prompting is ideating; it is [&#8230;]]]>
-      </description>
-      <source:markdown>As generative AI’s impact on the creative industries grows, I’ve been thinking about what produces art, and why graphics produced by diffusion models and text produced by LLMs are (by and large) not. And I think that, ultimately, art is the result of creative decisions, whereas generative AI removes decision-making. Prompting is ideating; it is \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=29641</guid>
-    </item>    <item>
-      <title>Shiori bookmark summaries</title>
-      <link>https://inkdroid.org/2025/11/02/shiori/</link>
-      <description>
-        <![CDATA[<p>
-        Back in January of this year I decided to leave <a
-        href="https://pinboard.in">Pinboard</a>, and start managing my bookmarks
-        myself. I had been using the service for almost 15 years, so it was kind
-        of a big change. The reasons for the move were that Pinboard had seemed
-        increasingly unstable, and I discovered that the site owner had
-        expressed some political views that didn’t align very well with my own.
-        Plus, I had wanted to see what other tools were like, especially open
-        source options.
-        </p>
-        <p>
-        After experimenting with a few different tools I landed (for the time
-        being) on running <a
-        href="https://github.com/go-shiori/shiori">Shiori</a> at home on a
-        Raspberry Pi. I was able to import my historical bookmarks from
-        Pinboard, and it has been working pretty well for me so far.
-        </p>
-        <p>
-        One thing I miss a little bit is being able to share what I’m reading
-        publicly. So over the weekend I wrote a small <a
-        href="https://github.com/edsu/inkdroid.org/blob/main/_scripts/shiori.rb">utility</a>
-        that talks to the Shiori API and writes a summary of what I’ve been
-        reading this week as a post here. Since this site is still running with
-        Jekyll, it’s a small bit of Ruby that runs from cron every Sunday
-        evening. You can see an example of one of these <a
-        href="https://inkdroid.org/2025/11/02/bookmarks/">here</a>.
-        </p>
-        <p>
-        If you have any thoughts about this please <a
-        href="mailto:ehs@pobox.com">let me know</a>!
-        </p>]]>
-      </description>
-      <source:markdown>Back in January of this year I decided to leave [Pinboard](https://pinboard.in), and start managing my bookmarks
-myself. I had been using the service for almost 15 years, so it was kind
-of a big change. The reasons for the move were that Pinboard had seemed
-increasingly unstable, and I discovered that the site owner had
-expressed some political views that didn’t align very well with my own.
-Plus, I had wanted to see what other tools were like, especially open
-source options.
-
-After experimenting with a few different tools I landed (for the time
-being) on running [Shiori](https://github.com/go-shiori/shiori) at home on a
-Raspberry Pi. I was able to import my historical bookmarks from
-Pinboard, and it has been working pretty well for me so far.
-
-One thing I miss a little bit is being able to share what I’m reading
-publicly. So over the weekend I wrote a small [utility](https://github.com/edsu/inkdroid.org/blob/main/_scripts/shiori.rb)
-that talks to the Shiori API and writes a summary of what I’ve been
-reading this week as a post here. Since this site is still running with
-Jekyll, it’s a small bit of Ruby that runs from cron every Sunday
-evening. You can see an example of one of these [here](https://inkdroid.org/2025/11/02/bookmarks/).
-
-If you have any thoughts about this please [let me know](mailto:ehs@pobox.com)!</source:markdown>
-      <guid>cid://https://inkdroid.org/2025/11/02/shiori/</guid>
-    </item>    <item>
-      <title>Weekly Bookmarks</title>
-      <link>https://inkdroid.org/2025/11/02/bookmarks/</link>
-      <description>
-        <![CDATA[<p>
-        These are some things on the web I’ve wandered across this week.
-        </p>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://ccohanlon.tumblr.com/post/765701934957166592/unmoored">
-        Unmoored by C. C. O’Hanlon </a>
-        </h2>
-        <section class="p-summary">
-        Yet the boat was a refuge. We had wandered in search of somewhere to
-        settle — or, more precisely, somewhere we would be allowed to settle —
-        for four years, moving between whatever cheap, temporary accommodation
-        we could borrow or afford to rent in seven countries, until this unkempt
-        but graceful vessel suggested a possibility of shelter, of ‘fixedness’,
-        even as we were compelled by circumstances to remain mobile, unrooted
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://theanarchistlibrary.org/library/hakim-bey-pirate-utopias">
-        Pirate Utopias Moorish Corsairs &amp; European Renegadoes </a>
-        </h2>
-        <section class="p-summary">
-        Part history, part fantasy. Hakim Bey is the nom de plume of Peter
-        Lamborn Wilson, who led an interesting life:
-        https://en.wikipedia.org/wiki/Peter_Lamborn_Wilson
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://arxiv.org/abs/2509.19206"> A
-        decentralized future for the open-science databases </a>
-        </h2>
-        <section class="p-summary">
-        Continuous and reliable access to curated biological data repositories
-        is indispensable for accelerating rigorous scientific inquiry and
-        fostering reproducible research. Centralized repositories, though widely
-        used, are vulnerable to single points of failure arising from
-        cyberattacks, technical faults, natural disasters, or funding and
-        political uncertainties. This can lead to widespread data
-        unavailability, data loss, integrity compromises, and substantial delays
-        in critical research, ultimately impeding scientific progress.
-        Centralizing essential scientific resources in a single geopolitical or
-        institutional hub is inherently dangerous, as any disruption can
-        paralyze diverse ongoing research. The rapid acceleration of data
-        generation, combined with an increasingly volatile global landscape,
-        necessitates a critical re-evaluation of the sustainability of
-        centralized models. Implementing federated and decentralized
-        architectures presents a compelling and future-oriented pathway to
-        substantially strengthen the resilience of scientific data
-        infrastructures, thereby mitigating vulnerabilities and ensuring the
-        long-term integrity of data. Here, we examine the structural limitations
-        of centralized repositories, evaluate federated and decentralized
-        models, and propose a hybrid framework for resilient, FAIR, and
-        sustainable scientific data stewardship. Such an approach offers a
-        significant reduction in exposure to governance instability,
-        infrastructural fragility, and funding volatility, and also fosters
-        fairness and global accessibility. The future of open science depends on
-        integrating these complementary approaches to establish a globally
-        distributed, economically sustainable, and institutionally robust
-        infrastructure that safeguards scientific data as a public good, further
-        ensuring continued accessibility, interoperability, and preservation for
-        generations to come.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://quickandtastycooking.org.uk/"> Quick
-        and Tasty </a>
-        </h2>
-        <section class="p-summary">
-        Fuss-free food for one or two.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.distilled.earth/p/these-data-centers-are-getting-really">
-        These Data Centers Are Getting Really, Really Big </a>
-        </h2>
-        <section class="p-summary">
-        A quick note: At my company, Cleanview, we recently built a data center
-        tracker. I’ve been following the development of AI and data centers
-        closely for much of the last few years. And even I’ve been shocked by
-        what I’ve learned in building this product. Today I’m publishing the
-        first story that uses our data center tracker. If you want to use the
-        platform, you can sign up for Cleanview here.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://jkan.io/"> JKAN A lightweight,
-        backend-free open data portal, powered by Jekyll </a>
-        </h2>
-        <section class="p-summary">
-        Open-source data portals can be really hard to install and maintain. But
-        their basic purpose of providing links to download data really isn’t
-        that complicated. JKAN is a proof-of-concept that allows a small,
-        resource-strapped government agency to stand-up an open data portal by
-        simply clicking the fork button.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://github.com/hyparam/hyparquet">
-        hyparam / hyparquet </a>
-        </h2>
-        <section class="p-summary">
-        Hyparquet is a lightweight, dependency-free, pure JavaScript library for
-        parsing Apache Parquet files. Apache Parquet is a popular columnar
-        storage format that is widely used in data engineering, data science,
-        and machine learning applications for efficiently storing and processing
-        large datasets.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://github.com/harvard-lil/warcbench">
-        harvard-lil / warcbench </a>
-        </h2>
-        <section class="p-summary">
-        A tool for exploring, analyzing, transforming, recombining, and
-        extracting data from WARC (Web ARChive) files.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/">
-        Rethinking Data Discovery for Libraries and Digital Humanities </a>
-        </h2>
-        <section class="p-summary">
-        As part of our Public Data Project, LIL recently launched Data.gov
-        Archive Search. In this post, we look under the hood and reflect on how
-        and why we built this project the way we did.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://en.wikipedia.org/wiki/Santa_Sangre">
-        Santa Sangre </a>
-        </h2>
-        <section class="p-summary">
-        Santa Sangre (Spanish pronunciation: [ˈsãn̪.t̪a ˈsãŋ.ɡɾe], ‘Holy Blood’)
-        is a 1989 surrealist psychological horror film directed by Alejandro
-        Jodorowsky and written by Jodorowsky along with Claudio Argento and
-        Roberto Leoni. It stars Axel Jodorowsky, Adán Jodorowsky, Teo
-        Jodorowsky, Blanca Guerra, Thelma Tixou, and Guy Stockwell. An
-        international co-production of Mexico and Italy, the film is set in
-        Mexico, and tells the story of Fénix, a boy who grew up in a circus and
-        his struggle with childhood trauma. It is included in Empire magazine’s
-        2008 list of the 500 Greatest Movies of All Time.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://github.com/cjpais/Handy"> Handy </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        A free, open source, and extensible speech-to-text application that
-        works completely offline.
-        </p>
-        Handy is a cross-platform desktop application built with Tauri (Rust +
-        React/TypeScript) that provides simple, privacy-focused speech
-        transcription. Press a shortcut, speak, and have your words appear in
-        any text field—all without sending your voice to the cloud.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://github.com/mason-org/mason.nvim">
-        mason.nvim </a>
-        </h2>
-        <section class="p-summary">
-        mason.nvim is a Neovim plugin that allows you to easily manage external
-        editor tooling such as LSP servers, DAP servers, linters, and formatters
-        through a single interface. It runs everywhere Neovim runs (across
-        Linux, macOS, Windows, etc.), with only a small set of external
-        requirements needed.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://critical-switch.org/en/posts/technodiversity-permacomputing-and-anticapitalism/">
-        Technodiversity, permacomputing and anticapitalism </a>
-        </h2>
-        <section class="p-summary">
-        Help articulate a critical theoretical framework that can serve as a
-        base for social movements: we perceive that there is a widespread loss
-        of historical memory and a lack of deep understanding of the origin of
-        our current problems, especially what ideologies have brought us here.
-        We want to fight the hopelessness that there is no horizon beyond
-        capitalism with a critical discourse that helps us feel that we can have
-        control over the narrative of our reality.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.theregister.com/2025/10/27/python_foundation_abandons_15m_nsf/">
-        Python Foundation goes ride or DEI, rejects government grant with
-        strings attached </a>
-        </h2>
-        <section class="p-summary">
-        The Python Software Foundation (PSF) has walked away from a $1.5 million
-        government grant and you can blame the Trump administration’s war on
-        woke for effectively weakening some open source security.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.anthropiccopyrightsettlement.com/faq">
-        Bartz v Anthropic FAQ </a>
-        </h2>
-        <section class="p-summary">
-        This page includes iformation about the Anthropic settlement with
-        copyright holders in the LibGen dataset. It is supposedly the largest
-        class action lawsuit involving copyright (1.5 billion $).
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://worldpece.org/"> The Platform for
-        Experimental, Collaborative Ethnography (PECE) </a>
-        </h2>
-        <section class="p-summary">
-        The Platform for Experimental, Collaborative Ethnography (PECE:
-        pronounced “peace”) is an open source (Drupal-based) digital platform
-        that supports multi-sited, cross-scale ethnographic and historical
-        research. The platform links researchers in new ways, enables new kinds
-        of analyses and data visualization, and activates researchers’
-        engagement with public problems and diverse audiences. PECE is at the
-        center of a research project that explores how digital infrastructure
-        can be designed to support collaborative hermeneutics…
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://howeducationworks.ca/"> How Education
-        Works </a>
-        </h2>
-        <section class="p-summary">
-        It’s about how we learn, the nature of knowledge, the very technological
-        nature of humanity, and the very human nature of technology. It’s about
-        how our participation in (not our just use of) technology brings about
-        knowledge and skills, and it’s about the very complex nature of how that
-        happens. It’s about how education, treated as a technology, actually
-        works rather than how it is designed to work, and why it often fails to
-        work or surprisingly succeeds. It’s about how what we do (the hard
-        methods, tools, theories, models, processes, and structures we employ)
-        is less important than the way that we do it (the soft technique we
-        bring to assemble it all). It’s about the parts we play in the cognition
-        of others, and the parts they play in our own. It is about what it means
-        to be human.
-        </section>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things on the web I’ve wandered across this week.
-
-## 🔖 [Unmoored by C. C. O’Hanlon](https://ccohanlon.tumblr.com/post/765701934957166592/unmoored)
-
-Yet the boat was a refuge. We had wandered in search of somewhere to
-settle — or, more precisely, somewhere we would be allowed to settle —
-for four years, moving between whatever cheap, temporary accommodation
-we could borrow or afford to rent in seven countries, until this unkempt
-but graceful vessel suggested a possibility of shelter, of ‘fixedness’,
-even as we were compelled by circumstances to remain mobile, unrooted
-
-## 🔖 [Pirate Utopias Moorish Corsairs &#38; European Renegadoes](https://theanarchistlibrary.org/library/hakim-bey-pirate-utopias)
-
-Part history, part fantasy. Hakim Bey is the nom de plume of Peter
-Lamborn Wilson, who led an interesting life:
-https://en.wikipedia.org/wiki/Peter\_Lamborn\_Wilson
-
-## 🔖 [A\ decentralized future for the open-science databases](https://arxiv.org/abs/2509.19206)
-
-Continuous and reliable access to curated biological data repositories
-is indispensable for accelerating rigorous scientific inquiry and
-fostering reproducible research. Centralized repositories, though widely
-used, are vulnerable to single points of failure arising from
-cyberattacks, technical faults, natural disasters, or funding and
-political uncertainties. This can lead to widespread data
-unavailability, data loss, integrity compromises, and substantial delays
-in critical research, ultimately impeding scientific progress.
-Centralizing essential scientific resources in a single geopolitical or
-institutional hub is inherently dangerous, as any disruption can
-paralyze diverse ongoing research. The rapid acceleration of data
-generation, combined with an increasingly volatile global landscape,
-necessitates a critical re-evaluation of the sustainability of
-centralized models. Implementing federated and decentralized
-architectures presents a compelling and future-oriented pathway to
-substantially strengthen the resilience of scientific data
-infrastructures, thereby mitigating vulnerabilities and ensuring the
-long-term integrity of data. Here, we examine the structural limitations
-of centralized repositories, evaluate federated and decentralized
-models, and propose a hybrid framework for resilient, FAIR, and
-sustainable scientific data stewardship. Such an approach offers a
-significant reduction in exposure to governance instability,
-infrastructural fragility, and funding volatility, and also fosters
-fairness and global accessibility. The future of open science depends on
-integrating these complementary approaches to establish a globally
-distributed, economically sustainable, and institutionally robust
-infrastructure that safeguards scientific data as a public good, further
-ensuring continued accessibility, interoperability, and preservation for
-generations to come.
-
-## 🔖 [Quick\ and Tasty](https://quickandtastycooking.org.uk/)
-
-Fuss-free food for one or two.
-
-## 🔖 [These Data Centers Are Getting Really, Really Big](https://www.distilled.earth/p/these-data-centers-are-getting-really)
-
-A quick note: At my company, Cleanview, we recently built a data center
-tracker. I’ve been following the development of AI and data centers
-closely for much of the last few years. And even I’ve been shocked by
-what I’ve learned in building this product. Today I’m publishing the
-first story that uses our data center tracker. If you want to use the
-platform, you can sign up for Cleanview here.
-
-## 🔖 [JKAN A lightweight,\ backend-free open data portal, powered by Jekyll](https://jkan.io/)
-
-Open-source data portals can be really hard to install and maintain. But
-their basic purpose of providing links to download data really isn’t
-that complicated. JKAN is a proof-of-concept that allows a small,
-resource-strapped government agency to stand-up an open data portal by
-simply clicking the fork button.
-
-## 🔖 [hyparam / hyparquet](https://github.com/hyparam/hyparquet)
-
-Hyparquet is a lightweight, dependency-free, pure JavaScript library for
-parsing Apache Parquet files. Apache Parquet is a popular columnar
-storage format that is widely used in data engineering, data science,
-and machine learning applications for efficiently storing and processing
-large datasets.
-
-## 🔖 [harvard-lil / warcbench](https://github.com/harvard-lil/warcbench)
-
-A tool for exploring, analyzing, transforming, recombining, and
-extracting data from WARC (Web ARChive) files.
-
-## 🔖 [Rethinking Data Discovery for Libraries and Digital Humanities](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-
-As part of our Public Data Project, LIL recently launched Data.gov
-Archive Search. In this post, we look under the hood and reflect on how
-and why we built this project the way we did.
-
-## 🔖 [Santa Sangre](https://en.wikipedia.org/wiki/Santa_Sangre)
-
-Santa Sangre (Spanish pronunciation: \[ˈsãn̪.t̪a ˈsãŋ.ɡɾe\], ‘Holy Blood’)
-is a 1989 surrealist psychological horror film directed by Alejandro
-Jodorowsky and written by Jodorowsky along with Claudio Argento and
-Roberto Leoni. It stars Axel Jodorowsky, Adán Jodorowsky, Teo
-Jodorowsky, Blanca Guerra, Thelma Tixou, and Guy Stockwell. An
-international co-production of Mexico and Italy, the film is set in
-Mexico, and tells the story of Fénix, a boy who grew up in a circus and
-his struggle with childhood trauma. It is included in Empire magazine’s
-2008 list of the 500 Greatest Movies of All Time.
-
-## 🔖 [Handy](https://github.com/cjpais/Handy)
-
-A free, open source, and extensible speech-to-text application that
-works completely offline.
-
-Handy is a cross-platform desktop application built with Tauri (Rust +
-React/TypeScript) that provides simple, privacy-focused speech
-transcription. Press a shortcut, speak, and have your words appear in
-any text field—all without sending your voice to the cloud.
-
-## 🔖 [mason.nvim](https://github.com/mason-org/mason.nvim)
-
-mason.nvim is a Neovim plugin that allows you to easily manage external
-editor tooling such as LSP servers, DAP servers, linters, and formatters
-through a single interface. It runs everywhere Neovim runs (across
-Linux, macOS, Windows, etc.), with only a small set of external
-requirements needed.
-
-## 🔖 [Technodiversity, permacomputing and anticapitalism](https://critical-switch.org/en/posts/technodiversity-permacomputing-and-anticapitalism/)
-
-Help articulate a critical theoretical framework that can serve as a
-base for social movements: we perceive that there is a widespread loss
-of historical memory and a lack of deep understanding of the origin of
-our current problems, especially what ideologies have brought us here.
-We want to fight the hopelessness that there is no horizon beyond
-capitalism with a critical discourse that helps us feel that we can have
-control over the narrative of our reality.
-
-## 🔖 [Python Foundation goes ride or DEI, rejects government grant with\ strings attached](https://www.theregister.com/2025/10/27/python_foundation_abandons_15m_nsf/)
-
-The Python Software Foundation (PSF) has walked away from a $1.5 million
-government grant and you can blame the Trump administration’s war on
-woke for effectively weakening some open source security.
-
-## 🔖 [Bartz v Anthropic FAQ](https://www.anthropiccopyrightsettlement.com/faq)
-
-This page includes iformation about the Anthropic settlement with
-copyright holders in the LibGen dataset. It is supposedly the largest
-class action lawsuit involving copyright (1.5 billion $).
-
-## 🔖 [The Platform for\ Experimental, Collaborative Ethnography (PECE)](https://worldpece.org/)
-
-The Platform for Experimental, Collaborative Ethnography (PECE:
-pronounced “peace”) is an open source (Drupal-based) digital platform
-that supports multi-sited, cross-scale ethnographic and historical
-research. The platform links researchers in new ways, enables new kinds
-of analyses and data visualization, and activates researchers’
-engagement with public problems and diverse audiences. PECE is at the
-center of a research project that explores how digital infrastructure
-can be designed to support collaborative hermeneutics…
-
-## 🔖 [How Education\ Works](https://howeducationworks.ca/)
-
-It’s about how we learn, the nature of knowledge, the very technological
-nature of humanity, and the very human nature of technology. It’s about
-how our participation in (not our just use of) technology brings about
-knowledge and skills, and it’s about the very complex nature of how that
-happens. It’s about how education, treated as a technology, actually
-works rather than how it is designed to work, and why it often fails to
-work or surprisingly succeeds. It’s about how what we do (the hard
-methods, tools, theories, models, processes, and structures we employ)
-is less important than the way that we do it (the soft technique we
-bring to assemble it all). It’s about the parts we play in the cognition
-of others, and the parts they play in our own. It is about what it means
-to be human.</source:markdown>
-      <guid>cid://https://inkdroid.org/2025/11/02/bookmarks/</guid>
-    </item>    <item>
-      <title>November 1, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/november-1-2025</link>
-      <description>
-        <![CDATA[Yesterday I wrote that President Donald J.]]>
-      </description>
-      <source:markdown>Yesterday I wrote that President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/november-1-2025</guid>
-    </item>    <item>
-      <title>How I Use Every Claude Code Feature</title>
-      <link>https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://blog.sshh.io/p/how-i-use-every-claude-code-feature">How I Use Every Claude Code Feature</a></strong></p>
-        Useful, detailed guide from Shrivu Shankar, a Claude Code power user. Lots of tips for both individual Claude Code usage and configuring it for larger team projects.</p>
-        <p>I appreciated Shrivu's take on MCP:</p>
-        <blockquote>
-        <p>The "Scripting" model (now formalized by Skills) is better, but it needs a secure way to access the environment. This to me is the new, more focused role for MCP.</p>
-        <p>Instead of a bloated API, an MCP should be a simple, secure gateway that provides a few powerful, high-level tools:</p>
-        <ul>
-        <li><code>download_raw_data(filters...)</code></li>
-        <li><code>take_sensitive_gated_action(args...)</code></li>
-        <li><code>execute_code_in_environment_with_state(code...)</code></li>
-        </ul>
-        <p>In this model, MCP's job isn't to abstract reality for the agent; its job is to manage the auth, networking, and security boundaries and then get out of the way.</p>
-        </blockquote>
-        <p>This makes a lot of sense to me. Most of my MCP usage with coding agents like Claude Code has been replaced by custom shell scripts for it to execute, but there's still a useful role for MCP in helping the agent access secure resources in a controlled way.
-        
-            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45786738">Hacker News</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p>]]>
-      </description>
-      <source:markdown>**[How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)**
-
-Useful, detailed guide from Shrivu Shankar, a Claude Code power user. Lots of tips for both individual Claude Code usage and configuring it for larger team projects.
-
-I appreciated Shrivu&#39;s take on MCP:
-
-&#62; The &#34;Scripting&#34; model (now formalized by Skills) is better, but it needs a secure way to access the environment. This to me is the new, more focused role for MCP.
-&#62;
-&#62; Instead of a bloated API, an MCP should be a simple, secure gateway that provides a few powerful, high-level tools:
-&#62;
-&#62; - `download_raw_data(filters...)`
-&#62; - `take_sensitive_gated_action(args...)`
-&#62; - `execute_code_in_environment_with_state(code...)`
-&#62;
-&#62; In this model, MCP&#39;s job isn&#39;t to abstract reality for the agent; its job is to manage the auth, networking, and security boundaries and then get out of the way.
-
-This makes a lot of sense to me. Most of my MCP usage with coding agents like Claude Code has been replaced by custom shell scripts for it to execute, but there&#39;s still a useful role for MCP in helping the agent access secure resources in a controlled way.
-
-
-
-Via [Hacker News](https://news.ycombinator.com/item?id=45786738)
-
-Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [model-context-protocol](https://simonwillison.net/tags/model-context-protocol), [coding-agents](https://simonwillison.net/tags/coding-agents), [claude-code](https://simonwillison.net/tags/claude-code)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything</guid>
-    </item>    <item>
-      <title>URGENT: Get Out The Vote for Zohran TOMORROW — Sunday!</title>
-      <link>https://www.michaelmoore.com/p/zohran-gotv</link>
-      <description>
-        <![CDATA[Anyone within driving distance of New York City, we need you for a few hours tomorrow (Sunday)!]]>
-      </description>
-      <source:markdown>Anyone within driving distance of New York City, we need you for a few hours tomorrow (Sunday)!</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!1zKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22313548-593d-45d3-b179-3a843439b6ce_2500x3126.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.michaelmoore.com/p/zohran-gotv</guid>
-    </item>    <item>
-      <link>https://snyder.substack.com/p/the-next-terrorist-attack-26b?utm_source=post-email-title&#38;publication_id=310897&#38;post_id=177756091&#38;utm_campaign=email-post-title&#38;isFreemail=true&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
-      <description>
-        <![CDATA[<p>The Next Terrorist Attack.</p>]]>
-      </description>
-      <source:markdown>The Next Terrorist Attack.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/11/01/1761/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115477347222376954</link>
-      <description>
-        <![CDATA[<p>And just like that, I have graduated to “better host the teens at home so at least we know where they are” years old.</p>]]>
-      </description>
-      <source:markdown>And just like that, I have graduated to “better host the teens at home so at least we know where they are” years old.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115477347222376954</guid>
-    </item>    <item>
-      <title>weekly retro #39: hoping for a renewing november</title>
-      <link>https://livelaugh.blog/posts/weekly-retro-39/</link>
-      <guid>cid://https://livelaugh.blog/posts/weekly-retro-39/</guid>
-    </item>    <item>
-      <title>Send by last open or last click date</title>
-      <link>https://buttondown.com/blog/send-by-date</link>
-      <description>
-        <![CDATA[Send by last open or last click date]]>
-      </description>
-      <source:markdown>Send by last open or last click date</source:markdown>
     </item>
   </channel>
 </rss>

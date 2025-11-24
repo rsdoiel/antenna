@@ -4,10 +4,225 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Nov 25 12:13 -0800</lastBuildDate>
+    <lastBuildDate>24 Nov 25 06:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Microsoft wedges tables into Notepad for some reason</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/notepad_tables_support/</link>
+      <description>
+        <![CDATA[<h4>WordPad died for this?</h4> <p>Microsoft is shoveling yet more features into the venerable Windows Notepad. This time it&#39;s support for tables, with some AI enhancements lathered on top.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### WordPad died for this?
+
+Microsoft is shoveling yet more features into the venerable Windows Notepad. This time it&#39;s support for tables, with some AI enhancements lathered on top.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243204</guid>
+    </item>    <item>
+      <title>NATO taps Google for air-gapped sovereign cloud</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/nato_google_cloud/</link>
+      <description>
+        <![CDATA[<h4>Chocolate Factory wins contract to build fully disconnected systems for training and operational support</h4> <p>NATO has hired Google to provide &#34;air-gapped&#34; sovereign cloud services and AI in &#34;completely disconnected, highly secure environments.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Chocolate Factory wins contract to build fully disconnected systems for training and operational support
+
+NATO has hired Google to provide &#34;air-gapped&#34; sovereign cloud services and AI in &#34;completely disconnected, highly secure environments.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243206</guid>
+    </item>    <item>
+      <title>FCC guts post-Salt Typhoon telco rules despite ongoing espionage risk</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/fcc_salt_typhoon_rules/</link>
+      <description>
+        <![CDATA[<h4>Months after China-linked spies burrowed into US networks, regulator tears up its own response</h4> <p>The Federal Communications Commission (FCC) has scrapped a set of telecom cybersecurity rules introduced after the Salt Typhoon espionage campaign, reversing course on measures designed to stop state-backed snoops from slipping back into America&#39;s networks.…</p>]]>
+      </description>
+      <source:markdown>#### Months after China-linked spies burrowed into US networks, regulator tears up its own response
+
+The Federal Communications Commission (FCC) has scrapped a set of telecom cybersecurity rules introduced after the Salt Typhoon espionage campaign, reversing course on measures designed to stop state-backed snoops from slipping back into America&#39;s networks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243205</guid>
+    </item>    <item>
+      <title>6G isn&#39;t even here yet but mobile industry wants triple the spectrum</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/gsma_6g_spectrum/</link>
+      <description>
+        <![CDATA[<h4>Report warns of 2030s capacity crunch without expanding mid-band airwaves</h4> <p>The GSMA says 6G networks will need up to three times the spectrum currently allocated to mobile operators to meet anticipated demands for data.…</p>]]>
+      </description>
+      <source:markdown>#### Report warns of 2030s capacity crunch without expanding mid-band airwaves
+
+The GSMA says 6G networks will need up to three times the spectrum currently allocated to mobile operators to meet anticipated demands for data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243202</guid>
+    </item>    <item>
+      <title>CISA orders feds to patch Oracle Identity Manager zero-day after signs of abuse</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/cisa_oracle_identity_manager/</link>
+      <description>
+        <![CDATA[<h4>Agencies have until December 12 to mitigate flaw that was likely exploited before Big Red released fix</h4> <p>CISA has ordered US federal agencies to patch against an actively exploited Oracle Identity Manager (OIM) flaw within three weeks – a scramble made more urgent by evidence that attackers may have been abusing the bug months before a fix was released.…</p>]]>
+      </description>
+      <source:markdown>#### Agencies have until December 12 to mitigate flaw that was likely exploited before Big Red released fix
+
+CISA has ordered US federal agencies to patch against an actively exploited Oracle Identity Manager (OIM) flaw within three weeks – a scramble made more urgent by evidence that attackers may have been abusing the bug months before a fix was released.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243201</guid>
+    </item>    <item>
+      <title>Microsoft admits almost all major Windows 11 core features are broken</title>
+      <link>https://www.osnews.com/story/143881/microsoft-admits-almost-all-major-windows-11-core-features-are-broken/</link>
+      <description>
+        <![CDATA[You may have noticed a sharp increase in problems and issues in Windows recently &#8211; following the rise of the &#8220;AI&#8221; hype cycle, entirely coincidentally, I&#8217;m sure &#8211; and it seems Microsoft is finally starting to acknowledge just how bad Windows has become. On the positive side though, following all that backlash, Microsoft acknowledged Windows has issues, and as if on cue, the company in a new support article has admitted that there are problems on almost every major Windows 11 core feature. The issues are related to XAML and this impacts all the Shell components like the Start Menu, Taskbar, Explorer, and Windows Settings. ↫ Sayan Sen at Neowin It&#8217;s wild how many core components like this have apparently been broken due to these problems since July of this year. This means countless Windows users have been experiencing weird issues on a daily basis in multiple components for four months now, which is absolutely wild. On top of all the more structural problems in Windows, I wonder how people can get anything done at all &#8211; only a few days ago, I had to manually clean out the Installer folder in the Windows folder on my wife&#8217;s gaming PC, because for some inexplicable reason, Windows decided to permanently store 18GB&#8217;s worth (!) of past Adobe Acrobat updates and installers in there. It&#8217;s impossible to reliably say that Microsoft&#8217;s incessant focus on crypto NFTs &#8220;AI&#8221; lies at the root of all of these problems, but if 30% of &#8220;new&#8221; code in Microsoft is indeed regurgitated by &#8220;AI&#8221;, it&#8217;s hard not to conclude as such.]]>
+      </description>
+      <source:markdown>You may have noticed a sharp increase in problems and issues in Windows recently – following the rise of the “AI” hype cycle, entirely coincidentally, I’m sure – and it seems Microsoft is finally starting to acknowledge just how bad Windows has become. On the positive side though, following all that backlash, Microsoft acknowledged Windows has issues, and as if on cue, the company in a new support article has admitted that there are problems on almost every major Windows 11 core feature. The issues are related to XAML and this impacts all the Shell components like the Start Menu, Taskbar, Explorer, and Windows Settings. ↫ Sayan Sen at Neowin It’s wild how many core components like this have apparently been broken due to these problems since July of this year. This means countless Windows users have been experiencing weird issues on a daily basis in multiple components for four months now, which is absolutely wild. On top of all the more structural problems in Windows, I wonder how people can get anything done at all – only a few days ago, I had to manually clean out the Installer folder in the Windows folder on my wife’s gaming PC, because for some inexplicable reason, Windows decided to permanently store 18GB’s worth (!) of past Adobe Acrobat updates and installers in there. It’s impossible to reliably say that Microsoft’s incessant focus on crypto NFTs “AI” lies at the root of all of these problems, but if 30% of “new” code in Microsoft is indeed regurgitated by “AI”, it’s hard not to conclude as such.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143881</guid>
+    </item>    <item>
+      <title>DragonFire laser to be fitted to Royal Navy ships after acing drone-zapping trials</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/royal_navy_dragonfire_laser/</link>
+      <description>
+        <![CDATA[<h4>Costs a tenner a shot instead of £1M per anti-aircraft missile</h4> <p>Britain&#39;s Royal Navy ships will be fitted with the DragonFire laser weapon by 2027 – five years earlier than planned – following recent successful trials involving fast-moving drones.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Costs a tenner a shot instead of £1M per anti-aircraft missile
+
+Britain&#39;s Royal Navy ships will be fitted with the DragonFire laser weapon by 2027 – five years earlier than planned – following recent successful trials involving fast-moving drones.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243176</guid>
+    </item>    <item>
+      <title>The privacy nightmare of browser fingerprinting</title>
+      <link>https://www.osnews.com/story/143897/the-privacy-nightmare-of-browser-fingerprinting/</link>
+      <description>
+        <![CDATA[I suspect that many people who take an interest in Internet privacy don’t appreciate how hard it is to resist browser fingerprinting. Taking steps to reduce it leads to inconvenience and, with the present state of technology, even the most intrusive approaches are only partially effective. The data collected by fingerprinting is invisible to the user, and stored somewhere beyond the user’s reach. On the other hand, browser fingerprinting produces only statistical results, and usually can’t be used to track or identify a user with certainty. The data it collects has a relatively short lifespan – days to weeks, not months or years. While it probably can be used for sinister purposes, my main concern is that it supports the intrusive, out-of-control online advertising industry, which has made a wasteland of the Internet. ↫ Kevin Boone My view on this matter is probably a bit more extreme than some: I believe it should be illegal to track users for advertising purposes, because the data collected and the targeting it enables not only violate basic privacy rights enshrined in most constitutions, they also pose a massive danger in other ways. This very same targeting data is already being abused by totalitarian states to influence our politics, which has had disastrous results. Of course, our own democratic governments&#8217; hands aren&#8217;t exactly clean either in this regard, as they increasingly want to use this data to stop &#8220;terrorists&#8221; and otherwise infringe on basic rights. Finally, any time such data ends up on the black market after data breaches, criminals, organised or otherwise, also get their hands on it. I have no idea what such a ban should look like, or if it&#8217;s possible to do this even remotely effectively. In the current political climate in many western countries, which are dominated by the wealthy few and corporate interests, it&#8217;s highly unlikely that even if such a ban was passed as lip service to concerned constituents, any fines or other deterrents would probably be far too low to make a difference anyway. As such, my desire to have targeted online advertising banned is mostly theory, not practice &#8211; further illustrated by the European Union caving like cowards on privacy to even the slightest bit of pressure. Best I can do for now is not partake in this advertising hellhole. I disabled and removed all advertising from OSNews recently, and have always strongly advised everyone to use as many adblocking options as possible. We not only have a Pi-Hole to keep all of our devices at home safe, but also use a second layer of on-device adblockers, and I advise everyone to do the same.]]>
+      </description>
+      <source:markdown>I suspect that many people who take an interest in Internet privacy don’t appreciate how hard it is to resist browser fingerprinting. Taking steps to reduce it leads to inconvenience and, with the present state of technology, even the most intrusive approaches are only partially effective. The data collected by fingerprinting is invisible to the user, and stored somewhere beyond the user’s reach. On the other hand, browser fingerprinting produces only statistical results, and usually can’t be used to track or identify a user with certainty. The data it collects has a relatively short lifespan – days to weeks, not months or years. While it probably can be used for sinister purposes, my main concern is that it supports the intrusive, out-of-control online advertising industry, which has made a wasteland of the Internet. ↫ Kevin Boone My view on this matter is probably a bit more extreme than some: I believe it should be illegal to track users for advertising purposes, because the data collected and the targeting it enables not only violate basic privacy rights enshrined in most constitutions, they also pose a massive danger in other ways. This very same targeting data is already being abused by totalitarian states to influence our politics, which has had disastrous results. Of course, our own democratic governments’ hands aren’t exactly clean either in this regard, as they increasingly want to use this data to stop “terrorists” and otherwise infringe on basic rights. Finally, any time such data ends up on the black market after data breaches, criminals, organised or otherwise, also get their hands on it. I have no idea what such a ban should look like, or if it’s possible to do this even remotely effectively. In the current political climate in many western countries, which are dominated by the wealthy few and corporate interests, it’s highly unlikely that even if such a ban was passed as lip service to concerned constituents, any fines or other deterrents would probably be far too low to make a difference anyway. As such, my desire to have targeted online advertising banned is mostly theory, not practice – further illustrated by the European Union caving like cowards on privacy to even the slightest bit of pressure. Best I can do for now is not partake in this advertising hellhole. I disabled and removed all advertising from OSNews recently, and have always strongly advised everyone to use as many adblocking options as possible. We not only have a Pi-Hole to keep all of our devices at home safe, but also use a second layer of on-device adblockers, and I advise everyone to do the same.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143897</guid>
+    </item>    <item>
+      <title>This Thanksgiving, top your turkey with Cranberry sOSS to fund open source</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/cranberry_soss_campaign/</link>
+      <description>
+        <![CDATA[<h4>Unusual holiday drive raises cash for the people keeping critical code alive</h4> <p>The Open Source Pledge organization is working to combat the problems of FOSS maintainers not getting paid, and the closely related issue of developer burnout, with a Thanksgiving-themed campaign.…</p>]]>
+      </description>
+      <source:markdown>#### Unusual holiday drive raises cash for the people keeping critical code alive
+
+The Open Source Pledge organization is working to combat the problems of FOSS maintainers not getting paid, and the closely related issue of developer burnout, with a Thanksgiving-themed campaign.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243104</guid>
+    </item>    <item>
+      <title>“Americans are holding onto devices longer than ever and it’s costing the economy”</title>
+      <link>https://www.osnews.com/story/143895/americans-are-holding-onto-devices-longer-than-ever-and-its-costing-the-economy/</link>
+      <description>
+        <![CDATA[We need to consume. The average American now holds onto their smartphone for 29 months, according to a&#160;recent survey by Reviews.org, and that cycle is getting longer. The average was around 22 months in 2016. While squeezing as much life out of your device as possible may save money in the short run, especially amid widespread fears about the strength of the consumer and job market, it might cost the economy in the long run, especially when device hoarding occurs at the level of corporations. ↫ Kevin Williams at CNBC Line must go up. Ļ̷̩̺̾i̶̼̳͍͂̒ͅn̵͕̉̾e̴̞͛̓̀̍ ̴͙̙̥͋͐m̸͚̉̆u̴̖̰̪̽̔ͅs̶̨̛̾ţ̷̢̂͛̆͝ ̵̱̐̓̾̔͜ğ̷͕̮̮͆o̷̟͈̐̏̄͝ ̷̢̨̞̉u̴̢̪̭̱̿͑͛̌p̴͈̜̫̖̌.]]>
+      </description>
+      <source:markdown>We need to consume. The average American now holds onto their smartphone for 29 months, according to a recent survey by Reviews.org, and that cycle is getting longer. The average was around 22 months in 2016. While squeezing as much life out of your device as possible may save money in the short run, especially amid widespread fears about the strength of the consumer and job market, it might cost the economy in the long run, especially when device hoarding occurs at the level of corporations. ↫ Kevin Williams at CNBC Line must go up. Ļ̷̩̺̾i̶̼̳͍͂̒ͅn̵͕̉̾e̴̞͛̓̀̍ ̴͙̙̥͋͐m̸͚̉̆u̴̖̰̪̽̔ͅs̶̨̛̾ţ̷̢̂͛̆͝ ̵̱̐̓̾̔͜ğ̷͕̮̮͆o̷̟͈̐̏̄͝ ̷̢̨̞̉u̴̢̪̭̱̿͑͛̌p̴͈̜̫̖̌.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143895</guid>
+    </item>    <item>
+      <title>Tuxedo cancels Snapdragon X Elite Linux laptop project</title>
+      <link>https://www.osnews.com/story/143893/tuxedo-cancels-snapdragon-x-elite-linux-laptop-project/</link>
+      <description>
+        <![CDATA[For the past 18 months, the Linux OEM Tuxedo Computers has been working on bringing a Snapdragon X Elite ARM laptop to market, but now they cancelled the project due to complications. Development turned out to be challenging due to the different architecture, and in the end, the first-generation X1E proved to be less suitable for Linux than expected. In particular, the long battery runtimes—usually one of the strong arguments for ARM devices—were not achieved under Linux. A viable approach for BIOS updates under Linux is also missing at this stage, as is fan control. Virtualization with KVM is not foreseeable on our model, nor are the high USB4 transfer rates. Video hardware decoding is technically possible, but most applications lack the necessary support. Given these conditions, investing several more months of development time does not seem sensible, as it is not foreseeable that all the features you can rightfully expect would be available in the end. In addition, we would be offering you a device with what would then be a more than two-year-old Snapdragon X Elite (X1E), whose successor, the Snapdragon X2 Elite (X2E), was officially introduced in September 2025 and is expected to become available in the first half of 2026. ↫ Tuxedo&#8217;s announcement Back when Qualcomm was hyping up these processors, the company made big claims about supporting Linux equally to Windows, but those promises have turned out to be absolutely worthless. Tuxedo already highlighted the problems it was dealing with half a year ago, and now it seems these problems have become impossible to overcome &#8211; at least for now. This is a shame, bu also not entirely unexpected, since there&#8217;s no way a small Linux OEM can do the work that Qualcomm promised it would do for its own chip. All this sadly means we still don&#8217;t really have proper Linux support for modern ARM laptops, which is a crying shame. The problem isn&#8217;t so much Linux itself, but the non-standardised world of ARM hardware. Large OEMs are willing to do the work to make Windows work, but despite recent successes, desktop Linux is nowhere near as popular as Windows, so there&#8217;s little incentive for OEMs (or Qualcomm) to step up their game. It is what it is.]]>
+      </description>
+      <source:markdown>For the past 18 months, the Linux OEM Tuxedo Computers has been working on bringing a Snapdragon X Elite ARM laptop to market, but now they cancelled the project due to complications. Development turned out to be challenging due to the different architecture, and in the end, the first-generation X1E proved to be less suitable for Linux than expected. In particular, the long battery runtimes—usually one of the strong arguments for ARM devices—were not achieved under Linux. A viable approach for BIOS updates under Linux is also missing at this stage, as is fan control. Virtualization with KVM is not foreseeable on our model, nor are the high USB4 transfer rates. Video hardware decoding is technically possible, but most applications lack the necessary support. Given these conditions, investing several more months of development time does not seem sensible, as it is not foreseeable that all the features you can rightfully expect would be available in the end. In addition, we would be offering you a device with what would then be a more than two-year-old Snapdragon X Elite (X1E), whose successor, the Snapdragon X2 Elite (X2E), was officially introduced in September 2025 and is expected to become available in the first half of 2026. ↫ Tuxedo’s announcement Back when Qualcomm was hyping up these processors, the company made big claims about supporting Linux equally to Windows, but those promises have turned out to be absolutely worthless. Tuxedo already highlighted the problems it was dealing with half a year ago, and now it seems these problems have become impossible to overcome – at least for now. This is a shame, bu also not entirely unexpected, since there’s no way a small Linux OEM can do the work that Qualcomm promised it would do for its own chip. All this sadly means we still don’t really have proper Linux support for modern ARM laptops, which is a crying shame. The problem isn’t so much Linux itself, but the non-standardised world of ARM hardware. Large OEMs are willing to do the work to make Windows work, but despite recent successes, desktop Linux is nowhere near as popular as Windows, so there’s little incentive for OEMs (or Qualcomm) to step up their game. It is what it is.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143893</guid>
+    </item>    <item>
+      <title>Vibe coding: What is it good for? Absolutely nothing (Sorry, Linus)</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/opinion_column_vibe_coding/</link>
+      <description>
+        <![CDATA[<h4>Coding purists once considered BASIC harmful. AI can&#39;t even manage that</h4> <p><strong>Opinion</strong>  It is a truth universally acknowledged that a singular project possessed of prospects is in want of a team. That team has to be built from good developers with experience, judgement, analytic and logic skills, and strong interpersonal communication. Where AI coding fits in remains strongly contentious. Opinion on vibe coding in corporate IT is more clearly stated: you&#39;re either selling the stuff or steering well clear.…</p>]]>
+      </description>
+      <source:markdown>#### Coding purists once considered BASIC harmful. AI can&#39;t even manage that
+
+**Opinion**  It is a truth universally acknowledged that a singular project possessed of prospects is in want of a team. That team has to be built from good developers with experience, judgement, analytic and logic skills, and strong interpersonal communication. Where AI coding fits in remains strongly contentious. Opinion on vibe coding in corporate IT is more clearly stated: you&#39;re either selling the stuff or steering well clear.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243170</guid>
+    </item>    <item>
+      <title>The Commodore CHESSmate</title>
+      <link>https://www.osnews.com/story/143891/the-commodore-chessmate/</link>
+      <description>
+        <![CDATA[The CHESSmate was demonstrated at the January 1978 Consumer Electronics Show in Las Vegas as a prototype in order to assess customer interest in the product. It was available for order at the June 1978 CES in Chicago and the first units, manufactured in Hong Kong, shipped later that year. It was a big seller in Germany from the beginning. ↫ Peter R. Jennings There&#8217;s no way I can summarise this story.]]>
+      </description>
+      <source:markdown>The CHESSmate was demonstrated at the January 1978 Consumer Electronics Show in Las Vegas as a prototype in order to assess customer interest in the product. It was available for order at the June 1978 CES in Chicago and the first units, manufactured in Hong Kong, shipped later that year. It was a big seller in Germany from the beginning. ↫ Peter R. Jennings There’s no way I can summarise this story.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143891</guid>
+    </item>    <item>
+      <title>Microsoft removes WINS from future Windows Server releases</title>
+      <link>https://www.osnews.com/story/143889/microsoft-removes-wins-from-future-windows-server-releases/</link>
+      <description>
+        <![CDATA[Blasts from the pasts are often fun, and in the case of feature removals from Windows, it&#8217;s often accompanied by surprise that the feature in question still existed. Case in point: This article provides essential information about the deprecation and planned removal of Windows Internet Name Service (WINS) from future Windows Server releases. Microsoft has announced that WINS will be removed from all Windows Server releases after Windows Server 2025 and will remain under the standard support lifecycle through November 2034. Organizations using WINS are strongly encouraged to migrate to modern DNS-based name resolution solutions. ↫ Microsoft knowledge base article WINS was introduced with Windows NT 3.5 back in 1994, and maps NetBIOS to IP addresses in much the same way DNS maps domains names to IP addresses. Nobody should be using WINS anymore, and Microsoft has been discouraging its use for a long time now. With the ubiquity of DNS, WINS serves very little purpose, so it makes sense Microsoft is removing it from Windows.]]>
+      </description>
+      <source:markdown>Blasts from the pasts are often fun, and in the case of feature removals from Windows, it’s often accompanied by surprise that the feature in question still existed. Case in point: This article provides essential information about the deprecation and planned removal of Windows Internet Name Service (WINS) from future Windows Server releases. Microsoft has announced that WINS will be removed from all Windows Server releases after Windows Server 2025 and will remain under the standard support lifecycle through November 2034. Organizations using WINS are strongly encouraged to migrate to modern DNS-based name resolution solutions. ↫ Microsoft knowledge base article WINS was introduced with Windows NT 3.5 back in 1994, and maps NetBIOS to IP addresses in much the same way DNS maps domains names to IP addresses. Nobody should be using WINS anymore, and Microsoft has been discouraging its use for a long time now. With the ubiquity of DNS, WINS serves very little purpose, so it makes sense Microsoft is removing it from Windows.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143889</guid>
+    </item>    <item>
+      <title>UK Covid-19 Inquiry finds early pandemic surveillance was weeks out of date</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/covid_inquiry/</link>
+      <description>
+        <![CDATA[<h4>Lack of effective data flows and reduced scientific investment hampered response</h4> <p>During the early stages of the Covid-19 pandemic in the UK, it took up to three weeks for confirmed cases to be recorded on the health database used at the time.…</p>]]>
+      </description>
+      <source:markdown>#### Lack of effective data flows and reduced scientific investment hampered response
+
+During the early stages of the Covid-19 pandemic in the UK, it took up to three weeks for confirmed cases to be recorded on the health database used at the time.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243175</guid>
+    </item>    <item>
+      <title>SNAP Delays: The Science Of Hunger And Food Insecurity</title>
+      <link>https://www.npr.org/2025/11/24/nx-s1-5601111/heres-how-hunger-and-food-insecurity-affect-individuals-and-whole-societies</link>
+      <description>
+        <![CDATA[<p dir="ltr">One in every eight households in the U.S. isn’t always sure where the next meal will come from. Limited food access can spell hunger – and that can affect the body and mind. So can cheaper, less nutritious foods. Hunger has a huge impact on individuals – and whole societies. It can mean shorter term issues like trouble focusing, as well as longer term mental health and physical struggles like chronic disease and social isolation. Host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G Barber </a>speaks with experts looking at the impacts of food insecurity – from the known tolls and misconceptions to ways to bridge the gap.<p dir="ltr"><em>If you liked this show, check out <a href="https://www.npr.org/2023/12/08/1198908816/lonely-brain-neuroscience-of-loneliness"target="_blank"   >our episode on loneliness and the brain</a>. To learn about ways you can find free or low-cost food, check out <a href="https://www.npr.org/2025/11/11/nx-s1-5599147/9-strategies-to-find-free-or-low-cost-food-when-money-is-tight"target="_blank"   >NPR’s Life Kit episode on the topic</a>.</em><p dir="ltr"><em>Interested in more public health or human biology stories? Email us your question at <a href="mailto:shortwave@npr.org"target="_blank"   >shortwave@npr.org</a>.</em><p dir="ltr"><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>One in every eight households in the U.S. isn’t always sure where the next meal will come from. Limited food access can spell hunger – and that can affect the body and mind. So can cheaper, less nutritious foods. Hunger has a huge impact on individuals – and whole societies. It can mean shorter term issues like trouble focusing, as well as longer term mental health and physical struggles like chronic disease and social isolation. Host [Regina G Barber](https://www.npr.org/people/1082526815/regina-g-barber) speaks with experts looking at the impacts of food insecurity – from the known tolls and misconceptions to ways to bridge the gap.
+
+_If you liked this show, check out [our episode on loneliness and the brain](https://www.npr.org/2023/12/08/1198908816/lonely-brain-neuroscience-of-loneliness). To learn about ways you can find free or low-cost food, check out [NPR’s Life Kit episode on the topic](https://www.npr.org/2025/11/11/nx-s1-5599147/9-strategies-to-find-free-or-low-cost-food-when-money-is-tight)._
+
+_Interested in more public health or human biology stories? Email us your question at [shortwave@npr.org](mailto:shortwave@npr.org)._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave)._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR5623140640.mp3?t=podcast&e=nx-s1-5601111&p=510351&d=726&size=11617220" length="11617220" type="audio/mpeg" />
+      <guid>cid://702d76d7-6d0b-4954-aae9-c8ffc19ac924</guid>
+    </item>    <item>
+      <title>Dev&#39;s last-day-of-contract code helped to crash app used by 350,000 people</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/who_me/</link>
+      <description>
+        <![CDATA[<h4>Customer signed off and a remaining staffer triggered the mess</h4> <p><strong>Who, Me?</strong>  Welcome to Monday morning and therefore to a new instalment of Who, Me? It&#39;s <em>The Register</em>&#39;s weekly column that shares your tales of workplace errors and absolution.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Customer signed off and a remaining staffer triggered the mess
+
+**Who, Me?**  Welcome to Monday morning and therefore to a new instalment of Who, Me? It&#39;s _The Register_&#39;s weekly column that shares your tales of workplace errors and absolution.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243162</guid>
+    </item>    <item>
+      <title>Cryptology boffins’ association to re-run election after losing encryption key needed to count votes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/cryptologic_research_election_rerun/</link>
+      <description>
+        <![CDATA[<h4>The shoemaker’s children have new friends</h4> <p>The International Association for Cryptologic Research will run a second election for new board members and other officers, after it was unable to complete its first poll due to a lost encryption key.…</p>]]>
+      </description>
+      <source:markdown>#### The shoemaker’s children have new friends
+
+The International Association for Cryptologic Research will run a second election for new board members and other officers, after it was unable to complete its first poll due to a lost encryption key.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243200</guid>
+    </item>    <item>
+      <title>OVH CEO predicts some cloud prices to rise 5-10 percent by mid-2026</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/ovh_cloud_price_rise_prediction/</link>
+      <description>
+        <![CDATA[<h4>Or maybe even sooner, warns Octave Klaba, as AI sends storage costs soaring</h4> <p>The price of some cloud services will have to rise by five to ten percent by mid-2026, maybe sooner, according to Octave Klaba, CEO of French cloud OVH.…</p>]]>
+      </description>
+      <source:markdown>#### Or maybe even sooner, warns Octave Klaba, as AI sends storage costs soaring
+
+The price of some cloud services will have to rise by five to ten percent by mid-2026, maybe sooner, according to Octave Klaba, CEO of French cloud OVH.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243199</guid>
+    </item>    <item>
+      <title>70-hour work weeks no longer enough for Infosys founder, who praises China’s 996 culture</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/24/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Manga publishers win Cloudflare copyright case; India, EU to link payment systems; Storm over Australia’s weather website; And more!</h4> <p><strong>Asia In Brief</strong>  Infosys co-founder Narayana Murthy has suggested Indian citizens should work 72-hour weeks, up from his previous target of 70 hours.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: Manga publishers win Cloudflare copyright case; India, EU to link payment systems; Storm over Australia’s weather website; And more!
+
+**Asia In Brief**  Infosys co-founder Narayana Murthy has suggested Indian citizens should work 72-hour weeks, up from his previous target of 70 hours.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243196</guid>
+    </item>    <item>
+      <title>The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/</link>
+      <description>
+        <![CDATA[To see Earth from space is to be forever changed by the view. Since Alan Shepard became the first American to lay eyes on our home planet from above, countless NASA astronauts have described feeling awed by the astonishing sight and a profound shift in perspective that followed. This unique experience is known as the [&#8230;]]]>
+      </description>
+      <source:markdown>To see Earth from space is to be forever changed by the view. Since Alan Shepard became the first American to lay eyes on our home planet from above, countless NASA astronauts have described feeling awed by the astonishing sight and a profound shift in perspective that followed. This unique experience is known as the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=929200</guid>
+    </item>    <item>
+      <title>Weaponized file name flaw makes updating glob an urgent job</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/23/infosec_news_in_brief/</link>
+      <description>
+        <![CDATA[<h4>PLUS: CISA issues drone warning; China-linked DNS-hijacking malware; Prison for BTC Samourai; And more</h4> <p><strong>Infosec In Brief</strong>  Researchers have urged users of the glob file pattern matching library to update their installations, after discovery of a years-old remote code execution flaw in the tool&#39;s CLI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### PLUS: CISA issues drone warning; China-linked DNS-hijacking malware; Prison for BTC Samourai; And more
+
+**Infosec In Brief**  Researchers have urged users of the glob file pattern matching library to update their installations, after discovery of a years-old remote code execution flaw in the tool&#39;s CLI.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243189</guid>
+    </item>    <item>
       <title>Goodbye Dashboards: Agents Deliver Answers, Not Just Reports</title>
       <link>https://thenewstack.io/goodbye-dashboards-agents-deliver-answers-not-just-reports/</link>
       <description>
@@ -265,11 +480,11 @@ The post [What To Know Before Building Fluent Bit Plugins With Go](https://thene
       <title>Makers slam Qualcomm for tightening the clamps on Arduino</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/21/adafruit_makers_unhappy_with_arduino/</link>
       <description>
-        <![CDATA[<h4>But the Wiring folks were disenchanted even before Qualcomm swallowed Arduino</h4> <p>Qualcomm quietly rewrote the terms of service for its newest acquisition, programmable microcontroller and SBC maker Arduino, drawing intense fire from the maker community for grabbing additional rights to user-generated content on its platform and prohibiting reverse-engineering of what was once very open software.…</p>]]>
+        <![CDATA[<h4>But the Wiring folks were disenchanted even before Qualcomm swallowed Arduino</h4> <p><strong>Updated</strong>  Qualcomm quietly rewrote the terms of service for its newest acquisition, programmable microcontroller and SBC maker Arduino, drawing intense fire from the maker community for grabbing additional rights to user-generated content on its platform and prohibiting reverse-engineering of what was once very open software.…</p>]]>
       </description>
       <source:markdown>#### But the Wiring folks were disenchanted even before Qualcomm swallowed Arduino
 
-Qualcomm quietly rewrote the terms of service for its newest acquisition, programmable microcontroller and SBC maker Arduino, drawing intense fire from the maker community for grabbing additional rights to user-generated content on its platform and prohibiting reverse-engineering of what was once very open software.…</source:markdown>
+**Updated**  Qualcomm quietly rewrote the terms of service for its newest acquisition, programmable microcontroller and SBC maker Arduino, drawing intense fire from the maker community for grabbing additional rights to user-generated content on its platform and prohibiting reverse-engineering of what was once very open software.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243187</guid>
     </item>    <item>
       <title>Urban Raccoons Are Showing Signs of Early Domestication, With Shorter Snouts Than Their Rural Cousins</title>
@@ -12805,246 +13020,6 @@ Before the potential of the internet was appreciated around the world, nations t
 
 **Asia In Brief**  Last week’s trade talks between the USA and China have seen the two countries ease some trade restrictions.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story242792</guid>
-    </item>    <item>
-      <title>Attackers targeting unpatched Cisco kit notice malware implant removal, install it again</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/02/cyber_exec_pleads_guilty_to/</link>
-      <description>
-        <![CDATA[<h4>PLUS: Cyber-exec admits selling secrets to Russia; LastPass isn&#39;t checking to see if you&#39;re dead; Nation-state backed Windows malware; and more</h4> <p><strong>Infosec in brief</strong>  Australia’s Signals Directorate (ASD) last Friday warned that attackers are installing an implant named “BADCANDY” on unpatched Cisco IOS XE devices and can detect deletion of their wares and reinstall their malware.…</p>]]>
-      </description>
-      <source:markdown>#### PLUS: Cyber-exec admits selling secrets to Russia; LastPass isn&#39;t checking to see if you&#39;re dead; Nation-state backed Windows malware; and more
-
-**Infosec in brief**  Australia’s Signals Directorate (ASD) last Friday warned that attackers are installing an implant named “BADCANDY” on unpatched Cisco IOS XE devices and can detect deletion of their wares and reinstall their malware.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242790</guid>
-    </item>    <item>
-      <title>Debian to add hard Rust dependency to APT</title>
-      <link>https://www.osnews.com/story/143696/debian-to-add-hard-rust-dependency-to-apt/</link>
-      <description>
-        <![CDATA[It seems like a number of Debian ports are going to face difficult times over the coming months. Debian developer Julian Andres Klode has sent a message to the Debian mailing lists that APT will very soon start requiring Rust. I plan to introduce hard Rust dependencies and Rust code into APT, no earlier than May 2026. This extends at first to the Rust compiler and standard library, and the Sequoia ecosystem. In particular, our code to parse .deb, .ar, .tar, and the HTTP signature verification code would strongly benefit from memory safe languages and a stronger approach to unit testing. ↫ Julian Andres Klode The problem for a lot of architectures that Debian supports, in one way or another, is that Rust and its toolchain simply aren&#8217;t available for them. As such, Julian Andres Klode states, rather directly, that these architectures have about six months to get themselves a full Rust toolchain, or sunset their Debian ports. The Debian PA-RISC (hppa) and Alpha ports, for instance, do not have a Rust toolchain port, and most likely won&#8217;t be getting one either, especially not within six months. The reasoning for moving towards a hard Rust dependency for APT is the same as it is in every other similar case: Debian&#8217;s and APT&#8217;s developers want to be able to make use of modern tools and technologies, even if that means dead architectures get left behind. As much as I am a massive fan of retro-architectures like PA-RISC, I really don&#8217;t want otherwise modern Linux distributions to eschew modern tools and technologies just because they&#8217;re not available for an architecture that died in 2005. I own and use the last and most powerful PA-RISC workstation running HP-UX as a retro platform, so I definitely care &#8211; but I really don&#8217;t expect Debian or Fedora or whatever to waste any resources on supporting them if that means holding the distributions back for everyone else using it on actually modern platforms. If there&#8217;s a large enough community of people around such architectures, they&#8217;ll keep the Linux train running. If not, well, that&#8217;s life.]]>
-      </description>
-      <source:markdown>It seems like a number of Debian ports are going to face difficult times over the coming months. Debian developer Julian Andres Klode has sent a message to the Debian mailing lists that APT will very soon start requiring Rust. I plan to introduce hard Rust dependencies and Rust code into APT, no earlier than May 2026. This extends at first to the Rust compiler and standard library, and the Sequoia ecosystem. In particular, our code to parse .deb, .ar, .tar, and the HTTP signature verification code would strongly benefit from memory safe languages and a stronger approach to unit testing. ↫ Julian Andres Klode The problem for a lot of architectures that Debian supports, in one way or another, is that Rust and its toolchain simply aren’t available for them. As such, Julian Andres Klode states, rather directly, that these architectures have about six months to get themselves a full Rust toolchain, or sunset their Debian ports. The Debian PA-RISC (hppa) and Alpha ports, for instance, do not have a Rust toolchain port, and most likely won’t be getting one either, especially not within six months. The reasoning for moving towards a hard Rust dependency for APT is the same as it is in every other similar case: Debian’s and APT’s developers want to be able to make use of modern tools and technologies, even if that means dead architectures get left behind. As much as I am a massive fan of retro-architectures like PA-RISC, I really don’t want otherwise modern Linux distributions to eschew modern tools and technologies just because they’re not available for an architecture that died in 2005. I own and use the last and most powerful PA-RISC workstation running HP-UX as a retro platform, so I definitely care – but I really don’t expect Debian or Fedora or whatever to waste any resources on supporting them if that means holding the distributions back for everyone else using it on actually modern platforms. If there’s a large enough community of people around such architectures, they’ll keep the Linux train running. If not, well, that’s life.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143696</guid>
-    </item>    <item>
-      <title>Microsoft breaks Task Manager in Windows 11, hard</title>
-      <link>https://www.osnews.com/story/143694/microsoft-breaks-task-manager-in-windows-11-hard/</link>
-      <description>
-        <![CDATA[Let&#8217;s take a look at how things are going at Microsoft, whose CEO claimed a few months ago that 30% of their code was generated by &#8220;AI&#8221;. After installing Windows Updates released on or after October 28, 2025 (KB5067036), you might encounter an issue where closing Task Manager using the Close (X) button does not fully terminate the process. When you reopen Task Manager, the previous instance continues running in the background even though no window is visible. This results in multiple lingering instances of taskmgr.exe, consuming system resources and potentially degrading device performance. Additional instances appear as “Task Manager” in the Processes tab and as “Taskmgr.exe” in the Details tab. Although the impact is less if Task Manager is opened and closed a few times, many instances accumulated over time can cause noticeable slowdowns in other applications. ↫ The Windows Health Dashboard Well okay then.]]>
-      </description>
-      <source:markdown>Let’s take a look at how things are going at Microsoft, whose CEO claimed a few months ago that 30% of their code was generated by “AI”. After installing Windows Updates released on or after October 28, 2025 (KB5067036), you might encounter an issue where closing Task Manager using the Close (X) button does not fully terminate the process. When you reopen Task Manager, the previous instance continues running in the background even though no window is visible. This results in multiple lingering instances of taskmgr.exe, consuming system resources and potentially degrading device performance. Additional instances appear as “Task Manager” in the Processes tab and as “Taskmgr.exe” in the Details tab. Although the impact is less if Task Manager is opened and closed a few times, many instances accumulated over time can cause noticeable slowdowns in other applications. ↫ The Windows Health Dashboard Well okay then.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143694</guid>
-    </item>    <item>
-      <title>Configuring cwm on OpenBSD</title>
-      <link>https://www.osnews.com/story/143692/configuring-cwm-on-openbsd/</link>
-      <description>
-        <![CDATA[For those unfamiliar, cwm is the Calm Window Manager. It’s part of the OpenBSD base distribution as one of the native window managers, along with an old version of fvwm and the venerable twm. It’s pretty simple but surprisingly powerful, a floating window manager with some basic manual tiling. It’s keyboard-centric, has an application launcher and highly configurable menus. It uses groups rather than workspaces which provides a lot of flexibility. My configuration isn’t particularly groundbreaking, but it’s comfy and suits me well. I can happily live in it indefinitely, though I do split my time between cwm and Xfce with occasional forays into other window managers or Wayland compositors. This has nothing to do with cwm limitations and everything to do with me being curious and craving novelty. It’s cwm that I return to, because it’s entirely unsurprising and very capable, and also because it’s part of OpenBSD’s base so I know I’m dealing with software that’s been refined and audited and refined again. ↫ Antony Fox-Bramwell If you opt for a default installation of something like OpenBSD, without any additional desktop environments like Xfce, when you start X, you&#8217;ll be served with the default OpenBSD window manager: cwm, or the calm window manager. At first glance, it looks incredibly basic and, to most people, archaic and unusable, but what it lacks in sparkles and boondoggles it more than makes up for in flexibility and configurability. The problem, however, is that it&#8217;s not exactly intuitive to mold cwm into something that works for you. Articles like this one, by Antony Fox-Bramwell, function as great springboards into the world of configuring cwm. If you do an internet search for similar articles, you&#8217;ll find tons of other examples that can help you become more capable at configuring cwm. Most of us are probably just fine accepting something like KDE or Xfce, but if those just don&#8217;t scratch your itch, diving into cwm could be just what you&#8217;re looking for.]]>
-      </description>
-      <source:markdown>For those unfamiliar, cwm is the Calm Window Manager. It’s part of the OpenBSD base distribution as one of the native window managers, along with an old version of fvwm and the venerable twm. It’s pretty simple but surprisingly powerful, a floating window manager with some basic manual tiling. It’s keyboard-centric, has an application launcher and highly configurable menus. It uses groups rather than workspaces which provides a lot of flexibility. My configuration isn’t particularly groundbreaking, but it’s comfy and suits me well. I can happily live in it indefinitely, though I do split my time between cwm and Xfce with occasional forays into other window managers or Wayland compositors. This has nothing to do with cwm limitations and everything to do with me being curious and craving novelty. It’s cwm that I return to, because it’s entirely unsurprising and very capable, and also because it’s part of OpenBSD’s base so I know I’m dealing with software that’s been refined and audited and refined again. ↫ Antony Fox-Bramwell If you opt for a default installation of something like OpenBSD, without any additional desktop environments like Xfce, when you start X, you’ll be served with the default OpenBSD window manager: cwm, or the calm window manager. At first glance, it looks incredibly basic and, to most people, archaic and unusable, but what it lacks in sparkles and boondoggles it more than makes up for in flexibility and configurability. The problem, however, is that it’s not exactly intuitive to mold cwm into something that works for you. Articles like this one, by Antony Fox-Bramwell, function as great springboards into the world of configuring cwm. If you do an internet search for similar articles, you’ll find tons of other examples that can help you become more capable at configuring cwm. Most of us are probably just fine accepting something like KDE or Xfce, but if those just don’t scratch your itch, diving into cwm could be just what you’re looking for.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143692</guid>
-    </item>    <item>
-      <title>Top 10: Das beste Heizkörperthermostat im Test – smart heizen und Geld sparen</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-smart-heizen-und-geld-sparen/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Smarte Heizkörperthermostate helfen, Energie zu sparen. Zudem bieten sie auch mehr Komfort. Wir zeigen die besten Modelle aus unseren Tests.]]>
-      </description>
-      <source:markdown>Smarte Heizkörperthermostate helfen, Energie zu sparen. Zudem bieten sie auch mehr Komfort. Wir zeigen die besten Modelle aus unseren Tests.</source:markdown>
-      <guid>cid://http://heise.de/-10966126</guid>
-    </item>    <item>
-      <title>Bahn-Aufsichtsrat beschließt Neuaufstellung der Chefetage</title>
-      <link>https://www.heise.de/news/Bahn-Aufsichtsrat-beschliesst-Neuaufstellung-der-Chefetage-10965951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Ein neuer Bahnvorstand soll die Krise des Konzerns in den Griff bekommen. Der Aufsichtsrat bestätigte jetzt die Personalien.]]>
-      </description>
-      <source:markdown>Ein neuer Bahnvorstand soll die Krise des Konzerns in den Griff bekommen. Der Aufsichtsrat bestätigte jetzt die Personalien.</source:markdown>
-      <guid>cid://http://heise.de/-10965951</guid>
-    </item>    <item>
-      <title>China: Aussetzung der Exportkontrollen für Seltene Erden gilt auch für die EU</title>
-      <link>https://www.heise.de/news/China-Aussetzung-der-Exportkontrollen-fuer-Seltene-Erden-gilt-auch-fuer-die-EU-10966118.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Peking hat EU-Handelskommissar Šefčovič bestätigt, dass Seltene Erden vorläufig wieder in die EU ausgeführt werden dürfen. Das ist wichtig etwa für Halbleiter.]]>
-      </description>
-      <source:markdown>Peking hat EU-Handelskommissar Šefčovič bestätigt, dass Seltene Erden vorläufig wieder in die EU ausgeführt werden dürfen. Das ist wichtig etwa für Halbleiter.</source:markdown>
-      <guid>cid://http://heise.de/-10966118</guid>
-    </item>    <item>
-      <title>Kubernetes and AI Are Shaping the Next Generation of Platforms</title>
-      <link>https://thenewstack.io/kubernetes-and-ai-are-shaping-the-next-generation-of-platforms/</link>
-      <description>
-        <![CDATA[<img width="1024" height="682" src="https://cdn.thenewstack.io/media/2025/10/8f2e1ec9-wires-1024x682.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Power lines" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/8f2e1ec9-wires.jpeg" /><p>Platform engineering has emerged as one of the most significant shifts in the cloud native ecosystem. Teams everywhere are adopting</p>
-        <p>The post <a href="https://thenewstack.io/kubernetes-and-ai-are-shaping-the-next-generation-of-platforms/">Kubernetes and AI Are Shaping the Next Generation of Platforms</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Power lines](https://cdn.thenewstack.io/media/2025/10/8f2e1ec9-wires-1024x682.jpeg)
-
-Platform engineering has emerged as one of the most significant shifts in the cloud native ecosystem. Teams everywhere are adopting
-
-The post [Kubernetes and AI Are Shaping the Next Generation of Platforms](https://thenewstack.io/kubernetes-and-ai-are-shaping-the-next-generation-of-platforms/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22805080</guid>
-    </item>    <item>
-      <title>Mehr KI in Lightroom und Photoshop, Insta360  Air – Fotonews der Woche 44/2025</title>
-      <link>https://www.heise.de/news/Mehr-KI-in-Lightroom-und-Photoshop-Insta360-Air-Fotonews-der-Woche-44-2025-10966211.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[KI in allem, auch durch Fremdanbieter – Adobe hat auf seiner Konferenz kräftig vorgelegt. Und eine günstigere 360-Grad-Kamera von Insta360 gibt es auch.]]>
-      </description>
-      <source:markdown>KI in allem, auch durch Fremdanbieter – Adobe hat auf seiner Konferenz kräftig vorgelegt. Und eine günstigere 360-Grad-Kamera von Insta360 gibt es auch.</source:markdown>
-      <guid>cid://http://heise.de/-10966211</guid>
-    </item>    <item>
-      <title>Gericht: Wahl von Arbeitnehmern in SAP-Aufsichtsrat rechtens</title>
-      <link>https://www.heise.de/news/Gericht-Wahl-von-Arbeitnehmern-in-SAP-Aufsichtsrat-rechtens-10966207.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Arbeitnehmer hatten unter anderem formale Verstöße bei der Wahl bei Europas größtem Softwarehersteller gesehen. Das Gericht wies die Beschwerde zurück.]]>
-      </description>
-      <source:markdown>Arbeitnehmer hatten unter anderem formale Verstöße bei der Wahl bei Europas größtem Softwarehersteller gesehen. Das Gericht wies die Beschwerde zurück.</source:markdown>
-      <guid>cid://http://heise.de/-10966207</guid>
-    </item>    <item>
-      <title>HydraPWK2 Is a Linux Distribution That Simplifies Pentesting</title>
-      <link>https://thenewstack.io/hydrapwk2-is-a-linux-distribution-that-simplifies-pentesting/</link>
-      <description>
-        <![CDATA[<img width="1024" height="641" src="https://cdn.thenewstack.io/media/2025/10/c9bbe08b-hydrahero-1024x641.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/c9bbe08b-hydrahero.jpg" /><p>When you think of penetration testing (pentesting), the first thing that probably comes to mind is Kali Linux, and with</p>
-        <p>The post <a href="https://thenewstack.io/hydrapwk2-is-a-linux-distribution-that-simplifies-pentesting/">HydraPWK2 Is a Linux Distribution That Simplifies Pentesting</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/c9bbe08b-hydrahero-1024x641.jpg)
-
-When you think of penetration testing (pentesting), the first thing that probably comes to mind is Kali Linux, and with
-
-The post [HydraPWK2 Is a Linux Distribution That Simplifies Pentesting](https://thenewstack.io/hydrapwk2-is-a-linux-distribution-that-simplifies-pentesting/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804528</guid>
-    </item>    <item>
-      <title>WTF: Optionales Windows-Update sorgt für Task-Manager-Zombie</title>
-      <link>https://www.heise.de/news/Optionales-Windows-Update-sorgt-fuer-Task-Manager-Zombie-10966177.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Nach einem neuen Update für Windows 11 lässt sich der Taskmanager nicht mehr über das "X" beenden. Abhilfe ist jedoch einfach.]]>
-      </description>
-      <source:markdown>Nach einem neuen Update für Windows 11 lässt sich der Taskmanager nicht mehr über das &#34;X&#34; beenden. Abhilfe ist jedoch einfach.</source:markdown>
-      <guid>cid://http://heise.de/-10966177</guid>
-    </item>    <item>
-      <title>Microsoft-Quartalsbericht offenbart zweistelligen Milliardenverlust bei OpenAI</title>
-      <link>https://www.heise.de/news/Microsoft-Quartalsbericht-offenbart-zweistelligen-Milliardenverlust-bei-OpenAI-10966153.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[In dem Bericht zieht Microsoft einen Teil des OpenAI-Verlusts vom eigenen Umsatz ab. Der KI-Hersteller schreibt offenbar große Verluste.]]>
-      </description>
-      <source:markdown>In dem Bericht zieht Microsoft einen Teil des OpenAI-Verlusts vom eigenen Umsatz ab. Der KI-Hersteller schreibt offenbar große Verluste.</source:markdown>
-      <guid>cid://http://heise.de/-10966153</guid>
-    </item>    <item>
-      <title>V7 pwd, converted to modern POSIX systems</title>
-      <link>https://www.osnews.com/story/143690/v7-pwd-converted-to-modern-posix-systems/</link>
-      <description>
-        <![CDATA[This is a conversion of the original V7 pwd program for use on POSIX systems (tested primarily on Linux). This is mostly of historical interest &#8212; modern systems have a library routine or system call for getting the current directory, and don&#8217;t need this. I&#8217;ve attempted to make the minimum set of logic/functionality changes needed to make the program work, preserving the core of the original logic. I&#8217;ve made slightly more aesthetic changes, to make reading easier for a post-standardization C speaker. ↫ Cliff L. Biffle Over on Fedi, Cliff L. Biffle provides more details as to why he undertook this project.]]>
-      </description>
-      <source:markdown>This is a conversion of the original V7 pwd program for use on POSIX systems (tested primarily on Linux). This is mostly of historical interest — modern systems have a library routine or system call for getting the current directory, and don’t need this. I’ve attempted to make the minimum set of logic/functionality changes needed to make the program work, preserving the core of the original logic. I’ve made slightly more aesthetic changes, to make reading easier for a post-standardization C speaker. ↫ Cliff L. Biffle Over on Fedi, Cliff L. Biffle provides more details as to why he undertook this project.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143690</guid>
-    </item>    <item>
-      <title>AMD to enter ARM market with new “Sound Wave” APU</title>
-      <link>https://www.osnews.com/story/143688/amd-to-enter-arm-market-with-new-sound-wave-apu/</link>
-      <description>
-        <![CDATA[AMD is expanding its processor portfolio beyond the x86 architecture with its first ARM-based APU, internally known as “Sound Wave.” The chip’s existence was uncovered through customs import records, confirming several details about its design and purpose. Built with a BGA-1074 package measuring 32 mm × 27 mm, the processor fits within standard mobile SoC dimensions, making it suitable for thin and light computing platforms. It employs a 0.8 mm pitch and FF5 interface, replacing the FF3 socket previously used in Valve’s Steam handheld devices, further hinting at a new generation of compact AMD-powered hardware. ↫ Hilbert Hagedoorn at The Guru of 3D It only makes sense for AMD to enter the market for ARM SoCs, as it&#8217;s a whole section of the processor market they&#8217;re not tapping into. Even if they don&#8217;t manage to compete with the best ARM processors out there, they can still serve the mid and lower end just fine.]]>
-      </description>
-      <source:markdown>AMD is expanding its processor portfolio beyond the x86 architecture with its first ARM-based APU, internally known as “Sound Wave.” The chip’s existence was uncovered through customs import records, confirming several details about its design and purpose. Built with a BGA-1074 package measuring 32 mm × 27 mm, the processor fits within standard mobile SoC dimensions, making it suitable for thin and light computing platforms. It employs a 0.8 mm pitch and FF5 interface, replacing the FF3 socket previously used in Valve’s Steam handheld devices, further hinting at a new generation of compact AMD-powered hardware. ↫ Hilbert Hagedoorn at The Guru of 3D It only makes sense for AMD to enter the market for ARM SoCs, as it’s a whole section of the processor market they’re not tapping into. Even if they don’t manage to compete with the best ARM processors out there, they can still serve the mid and lower end just fine.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=143688</guid>
-    </item>    <item>
-      <title>Linux: Microsoft WSL’s Decade-Long Journey to Open Source</title>
-      <link>https://thenewstack.io/linux-microsoft-wsls-decade-long-journey-to-open-source/</link>
-      <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/11/a961a840-dave-kim-sltmudkal9m-unsplash-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/11/a961a840-dave-kim-sltmudkal9m-unsplash.jpg" /><p>LONDON &#8212; Craig Loewen, Microsoft&#8217;s senior product manager in charge of Windows Subsystem for Linux (WSL), and Clint Rutkas, principal</p>
-        <p>The post <a href="https://thenewstack.io/linux-microsoft-wsls-decade-long-journey-to-open-source/">Linux: Microsoft WSL&#8217;s Decade-Long Journey to Open Source</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/11/a961a840-dave-kim-sltmudkal9m-unsplash-1024x683.jpg)
-
-LONDON — Craig Loewen, Microsoft’s senior product manager in charge of Windows Subsystem for Linux (WSL), and Clint Rutkas, principal
-
-The post [Linux: Microsoft WSL’s Decade-Long Journey to Open Source](https://thenewstack.io/linux-microsoft-wsls-decade-long-journey-to-open-source/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804815</guid>
-    </item>    <item>
-      <title>Hochwertig, winzig, faltbar: Akku-Beamer Aurzen Zip für 330 Euro im Test</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/hochwertig-winzig-faltbar-akku-beamer-aurzen-zip-fuer-330-euro-im-test/95wrzxx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Der Aurzen Zip will als kleinster faltbarer Mini-Beamer mit Akku überzeugen. Mit Tri-Fold-Design und Auto-Fokus verspricht er maximale Mobilität.]]>
-      </description>
-      <source:markdown>Der Aurzen Zip will als kleinster faltbarer Mini-Beamer mit Akku überzeugen. Mit Tri-Fold-Design und Auto-Fokus verspricht er maximale Mobilität.</source:markdown>
-      <guid>cid://http://heise.de/-10965676</guid>
-    </item>    <item>
-      <title>OpenAI Co-Founder: AI Agents Are Still 10 Years Away</title>
-      <link>https://thenewstack.io/openai-co-founder-ai-agents-are-still-10-years-away/</link>
-      <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/10/d7eab72f-andrej-karpathy-gesturing-on-dwarkesh-patels-podcast-screenshot-october-2025-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/10/d7eab72f-andrej-karpathy-gesturing-on-dwarkesh-patels-podcast-screenshot-october-2025.jpg" /><p>When OpenAI co-founder Andrej Karpathy speaks, even Elon Musk reacts. Karpathy had just recorded a two-and-a-half-hour interview with podcaster Dwarkesh</p>
-        <p>The post <a href="https://thenewstack.io/openai-co-founder-ai-agents-are-still-10-years-away/">OpenAI Co-Founder: AI Agents Are Still 10 Years Away</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/10/d7eab72f-andrej-karpathy-gesturing-on-dwarkesh-patels-podcast-screenshot-october-2025-1024x683.jpg)
-
-When OpenAI co-founder Andrej Karpathy speaks, even Elon Musk reacts. Karpathy had just recorded a two-and-a-half-hour interview with podcaster Dwarkesh
-
-The post [OpenAI Co-Founder: AI Agents Are Still 10 Years Away](https://thenewstack.io/openai-co-founder-ai-agents-are-still-10-years-away/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22804560</guid>
-    </item>    <item>
-      <title>heise+ | Sinnliche Fotografie: Die besten Techniken für Boudoir-Fotos</title>
-      <link>https://www.heise.de/ratgeber/Sinnliche-Fotografie-Die-besten-Techniken-fuer-Boudoir-Fotos-10900242.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[Fotografin Nadine Wisser bringt mit ihrem ganz persönlichen Ansatz Menschen und ihre echten Emotionen vor die Kamera und ins richtige Licht.]]>
-      </description>
-      <source:markdown>Fotografin Nadine Wisser bringt mit ihrem ganz persönlichen Ansatz Menschen und ihre echten Emotionen vor die Kamera und ins richtige Licht.</source:markdown>
-      <guid>cid://http://heise.de/-10900242</guid>
-    </item>    <item>
-      <title>heise-Angebot: Jetzt bewerben: IT-Stipendium Wintersemester 2025/2026</title>
-      <link>https://www.heise.de/news/Jetzt-bewerben-IT-Stipendium-Wintersemester-2025-2026-10962547.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[heise medien vergibt zusammen mit e-fellows.net Stipendien für IT-Studierende. Die Bewerbungsfrist für das Wintersemester 2025/2026 endet am 16. November.]]>
-      </description>
-      <source:markdown>heise medien vergibt zusammen mit e-fellows.net Stipendien für IT-Studierende. Die Bewerbungsfrist für das Wintersemester 2025/2026 endet am 16. November.</source:markdown>
-      <guid>cid://http://heise.de/-10962547</guid>
-    </item>    <item>
-      <title>WEF-Präsident: Kryptowährungen und KI treiben die Wirtschaft an</title>
-      <link>https://www.heise.de/news/WEF-Praesident-Brende-warnt-vor-KI-Blase-10966132.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Künstliche Intelligenz und Kryptowährung treiben die globale Wirtschaft an. Der Chef des Weltwirtschaftsforums findet auch mahnende Worte.]]>
-      </description>
-      <source:markdown>Künstliche Intelligenz und Kryptowährung treiben die globale Wirtschaft an. Der Chef des Weltwirtschaftsforums findet auch mahnende Worte.</source:markdown>
-      <guid>cid://http://heise.de/-10966132</guid>
-    </item>    <item>
-      <title>heise+ | FAQ zu iOS 26 und iPadOS 26: So lösen Sie Probleme mit Apples neuen Systemen</title>
-      <link>https://www.heise.de/ratgeber/Fragen-und-Antworten-Die-besten-Tipps-zu-iOS-26-und-iPadOS-26-10782011.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[Wann bereiten die neuen Systeme auf iPhones und iPads Schwierigkeiten? Was sorgt für Kopfzerbrechen? Wir liefern Antworten, Lösungswege und Workarounds.]]>
-      </description>
-      <source:markdown>Wann bereiten die neuen Systeme auf iPhones und iPads Schwierigkeiten? Was sorgt für Kopfzerbrechen? Wir liefern Antworten, Lösungswege und Workarounds.</source:markdown>
-      <guid>cid://http://heise.de/-10782011</guid>
-    </item>    <item>
-      <title>heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern</title>
-      <link>https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-10777987.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.]]>
-      </description>
-      <source:markdown>Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.</source:markdown>
-      <guid>cid://http://heise.de/-10777987</guid>
-    </item>    <item>
-      <title>Fortytwo&#39;s decentralized AI has the answer to life, the universe, and everything</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/</link>
-      <description>
-        <![CDATA[<h4>No datacenters required</h4> <p>Fortytwo, a Silicon Valley startup, was founded last year based on the idea that a decentralized swarm of small AI models running on personal computers offers scaling and cost advantages over centralized AI services.…</p>]]>
-      </description>
-      <source:markdown>#### No datacenters required
-
-Fortytwo, a Silicon Valley startup, was founded last year based on the idea that a decentralized swarm of small AI models running on personal computers offers scaling and cost advantages over centralized AI services.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story242791</guid>
-    </item>    <item>
-      <title>heise+ | Investieren in Sport: Wie Anleger von Toren und Titeln profitieren können</title>
-      <link>https://www.heise.de/ratgeber/Investieren-in-Sport-Wie-Anleger-von-Toren-und-Titeln-profitieren-koennen-10962420.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</link>
-      <description>
-        <![CDATA[Die Aktien von Fußballvereinen und Sportartikelherstellern können höhere Renditen als der MSCI World generieren. Trotzdem ist Vorsicht geboten.]]>
-      </description>
-      <source:markdown>Die Aktien von Fußballvereinen und Sportartikelherstellern können höhere Renditen als der MSCI World generieren. Trotzdem ist Vorsicht geboten.</source:markdown>
-      <guid>cid://http://heise.de/-10962420</guid>
-    </item>    <item>
-      <title>Missing Link: Prävention an der Quelle – Chatkontrolle und Upload-Filter</title>
-      <link>https://www.heise.de/hintergrund/Missing-Link-Praevention-an-der-Quelle-Chatkontrolle-und-Upload-Filter-10963637.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[EU-Pläne für die "Chatkontrolle" sind heftig umstritten. Der neue "Kompromiss": Upload-Filter. Wer sind die Befürworter und was schlagen sie vor?]]>
-      </description>
-      <source:markdown>EU-Pläne für die &#34;Chatkontrolle&#34; sind heftig umstritten. Der neue &#34;Kompromiss&#34;: Upload-Filter. Wer sind die Befürworter und was schlagen sie vor?</source:markdown>
-      <guid>cid://http://heise.de/-10963637</guid>
-    </item>    <item>
-      <title>Deutsche Forschungsgemeinschaft will Daten aus US-Clouds holen</title>
-      <link>https://www.heise.de/news/US-Clouds-Deutsche-Forschungsgemeinschaft-will-Daten-aus-dem-Ausland-heimholen-10966079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <description>
-        <![CDATA[Die DFG hat eine Initiative zum Sichern gefährdeter Datenbestände gestartet. Es geht um Forschungsergebnisse, die auf ausländischen Cloud-Speichern lagern.]]>
-      </description>
-      <source:markdown>Die DFG hat eine Initiative zum Sichern gefährdeter Datenbestände gestartet. Es geht um Forschungsergebnisse, die auf ausländischen Cloud-Speichern lagern.</source:markdown>
-      <guid>cid://http://heise.de/-10966079</guid>
     </item>
   </channel>
 </rss>
