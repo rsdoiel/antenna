@@ -8,4 +8,6 @@ export PATH
 echo $PATH
 antenna harvest
 ./website.bash
-./publish.bash
+if [ "$1" = "publish" ]; then
+  ./publish.bash
+fi

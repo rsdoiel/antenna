@@ -331,4 +331,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Sarah Kendzior](https://sarahkendzior.com/feed/)
 - [Sarah Kendzior, substack](https://sarahkendzior.substack.com/feed
 - [DAve Bushell blog](https://dbushell.com/rss.xml)
+- [Andy Bell Blog](https://bell.bz/feed.xml)
 

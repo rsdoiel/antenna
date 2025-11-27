@@ -4,16 +4,72 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Nov 25 06:10 -0800</lastBuildDate>
+    <lastBuildDate>27 Nov 25 12:10 -0800</lastBuildDate>
     <generator>antenna/0.0.15</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Jolt replica by Scott Lombard</title>
+      <title>Drag&#39;n&#39;Drop 15i1 edition reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2258.html</link>
+      <description>
+        <![CDATA[The latest edition of Drag'n'Drop magazine was released at the recent London Show and should be with subscribers now. Congratulations on reaching Volume 15!]]>
+      </description>
+      <source:markdown>The latest edition of Drag&#39;n&#39;Drop magazine was released at the recent London Show and should be with subscribers now. Congratulations on reaching Volume 15!</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2258.html</guid>
+    </item>    <item>
+      <title>AIM 65 other hardware page added</title>
+      <link>http://retro.hansotten.nl/aim-65-other-hardware-page-added/</link>
+      <description>
+        <![CDATA[For the AIM 65 it was not only Rockwell that produced hardware like video,serial and FDC cards, others also amde hardware for the AIM 65. I have a page devoted to AIM 65 hardware with new photos, updated and cleaned up documents: Comelta S.A. Spain RAM and ROM cards Cubit Rhines and CRT2 Video And [&#8230;]]]>
+      </description>
+      <source:markdown>For the AIM 65 it was not only Rockwell that produced hardware like video,serial and FDC cards, others also amde hardware for the AIM 65. I have a page devoted to AIM 65 hardware with new photos, updated and cleaned up documents: Comelta S.A. Spain RAM and ROM cards Cubit Rhines and CRT2 Video And \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19485</guid>
+    </item>    <item>
+      <title>Hugh Bowman PI opens his RISC OS detective agency</title>
+      <link>https://www.riscository.com/2025/hugh-bowman-pi-released/</link>
+      <description>
+        <![CDATA[Initially launched at the recent London Show, and now available to buy from !Store, the latest title from AMCOG Games is Hugh Bowman PI. In the game-noir, you play a private investigator called Hugh Bowman, and can take on one of three cases &#8211; all of which involve breaking into Professor Von Sparks&#8217; compound. Once in, you can drive around the area, and enter individual buildings to search for clues and &#8211; eventually, hopefully &#8211; solve the case. In the compound itself, there are robots to avoid, although they temporarily&#8230;]]>
+      </description>
+      <source:markdown>Initially launched at the recent London Show, and now available to buy from !Store, the latest title from AMCOG Games is Hugh Bowman PI. In the game-noir, you play a private investigator called Hugh Bowman, and can take on one of three cases – all of which involve breaking into Professor Von Sparks’ compound. Once in, you can drive around the area, and enter individual buildings to search for clues and – eventually, hopefully – solve the case. In the compound itself, there are robots to avoid, although they temporarily…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10815</guid>
+    </item>    <item>
+      <title>Clarity theme in development with (mini) crowd funder</title>
+      <link>https://www.riscository.com/2025/clarity-theme-and-crowd-funder/</link>
+      <description>
+        <![CDATA[Chris Wraight &#8211; aka Little Yellow Moon &#8211; is developing a new theme for RISC OS, called Clarity. His aim is to create a comprehensive new look for the desktop, to include window furniture and backgrounds, system icons, and a wide selection of common file types. There is a mini crowd-funder for the theme up and running, with a modest target of £250 (with, at the time of writing, 26% already fulfilled) &#8211; Chris explains that this is experimental; an investigation of using Ko-Fi to provide a small amount of&#8230;]]>
+      </description>
+      <source:markdown>Chris Wraight – aka Little Yellow Moon – is developing a new theme for RISC OS, called Clarity. His aim is to create a comprehensive new look for the desktop, to include window furniture and backgrounds, system icons, and a wide selection of common file types. There is a mini crowd-funder for the theme up and running, with a modest target of £250 (with, at the time of writing, 26% already fulfilled) – Chris explains that this is experimental; an investigation of using Ko-Fi to provide a small amount of…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10812</guid>
+    </item>    <item>
+      <title>Test your flag knowledge with FlagQuiz</title>
+      <link>https://www.riscository.com/2025/flagquiz-released/</link>
+      <description>
+        <![CDATA[If you have a familiarity with flags and want to test your knowledge of them, or if you find yourself flummoxed by them and want to try to learn a few, Kevin Wells has a new piece of software that might be of interest. As you might guess from its name, FlagQuiz is a simple flag-based quiz. The application will display a flag, selected at random, and present you with four options for which nation it belongs to; choose one, and see if you got it right &#8211; and after&#8230;]]>
+      </description>
+      <source:markdown>If you have a familiarity with flags and want to test your knowledge of them, or if you find yourself flummoxed by them and want to try to learn a few, Kevin Wells has a new piece of software that might be of interest. As you might guess from its name, FlagQuiz is a simple flag-based quiz. The application will display a flag, selected at random, and present you with four options for which nation it belongs to; choose one, and see if you got it right – and after…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10810</guid>
+    </item>    <item>
+      <title>KIM-1 Marquee</title>
+      <link>http://retro.hansotten.nl/kim-1-marque/</link>
+      <description>
+        <![CDATA[This has been waiting some time to be published. Udo Juerss wrote in 2024 a program KIM-1 Marquee to display running text wit a near complete alphabet on a KIM-1 or clone LED display. Here the source and binaries. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: [&#8230;]]]>
+      </description>
+      <source:markdown>This has been waiting some time to be published. Udo Juerss wrote in 2024 a program KIM-1 Marquee to display running text wit a near complete alphabet on a KIM-1 or clone LED display. Here the source and binaries. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19476</guid>
+    </item>    <item>
+      <title>Coding a Fortran program on RISC OS</title>
+      <link>http://www.iconbar.com/comments/rss/news2261.html</link>
+      <description>
+        <![CDATA[If you were wondering what to do with that new Fortran Compiler in the latest DDE, Sprow has a very timely article for you....]]>
+      </description>
+      <source:markdown>If you were wondering what to do with that new Fortran Compiler in the latest DDE, Sprow has a very timely article for you....</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2261.html</guid>
+    </item>    <item>
+      <title>Jolt replica by Scott LaBombard</title>
       <link>http://retro.hansotten.nl/jolt-replica-by-scott-lombard/</link>
       <description>
-        <![CDATA[Scott Lombard started many years ago on a replica of the Jolt. Quite a challenge, since only photos are known. He succeeded in finishing a working replica as shown on this page. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you [&#8230;]]]>
+        <![CDATA[Scott LaBombard started many years ago on a replica of the Jolt. Quite a challenge, since only photos are known. He succeeded in finishing a working replica as shown on this page. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you [&#8230;]]]>
       </description>
-      <source:markdown>Scott Lombard started many years ago on a replica of the Jolt. Quite a challenge, since only photos are known. He succeeded in finishing a working replica as shown on this page. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you \[…\]</source:markdown>
+      <source:markdown>Scott LaBombard started many years ago on a replica of the Jolt. Quite a challenge, since only photos are known. He succeeded in finishing a working replica as shown on this page. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=19460</guid>
     </item>    <item>
       <title>b.log 2025/11/23 - Mamie Fletcher&#39;s House for Linux!, Bread maker, Keeping warm.</title>
@@ -811,124 +867,6 @@ You could also fit the coffee pot in mortar in an existing box, like an old wood
       </description>
       <source:markdown>I have a small collection of the MOS 6530 RRIOTs as made by MOS Technology. Mask programmed, ROM and also ports can be used as chip select. See the 6530 pages! I have tested my 6530s with the excellent Backbit Chiptester Pro V2. 6530-002 black all tests passed and ROM dumped OK, confirmed to be \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=19170</guid>
-    </item>    <item>
-      <title>SUSE Dives into the Agentic AI Pool</title>
-      <link>http://www.linux-magazine.com/Online/News/SUSE-Dives-into-the-Agentic-AI-Pool</link>
-      <description>
-        <![CDATA[<p>SUSE becomes the first open source company to adopt agentic AI with SUSE Enterprise Linux 16.</p>]]>
-      </description>
-      <source:markdown>SUSE becomes the first open source company to adopt agentic AI with SUSE Enterprise Linux 16.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://26be7e7b690d9b1de9dd019111c54ad0</guid>
-    </item>    <item>
-      <title>Thematic Book Series: Too Much Combustion, Too Little Fire</title>
-      <link>https://solar.lowtechmagazine.com/2025/11/thematic-book-series-too-much-combustion-too-little-fire/</link>
-      <description>
-        <![CDATA[<div class="article-img ">
-        <figure data-imgstate="dither">
-        <img src="https://solar.lowtechmagazine.com/2025/11/thematic-book-series-too-much-combustion-too-little-fire/images/dithers/EN-THEMATIC5_dithered.png" alt='Image: Book cover.' loading="lazy"/></figure>
-        <figcaption class="caption">
-         Image: Book cover. 
-        </figcaption>
-        </div>
-        </div>
-        <ul>
-        <li>Buy the <a href="https://www.lulu.com/shop/kris-de-decker/too-much-combustion-too-little-fire/paperback/product-gjyj24g.html?q=&amp;page=1&amp;pageSize=4">print edition</a>.</li>
-        <li>Buy the <a href="https://payhip.com/b/ONIU3">epub edition</a>.</li>
-        </ul>
-        <p>For most of history, the multifunctional fire was the only source of energy in the household. It served as a cookstove, toaster, heating device, lighting source, hot water boiler, clothes dryer, and refrigerator, among other functions.  During the twentieth century, the fire was replaced by a wide range of appliances plugged into central infrastructures.</p>
-        <p>In this series of articles, LOW←TECH MAGAZINE critically examines the efficiency, sustainability, health, and safety of the fire and its flame- and smoke-free modern alternatives. What are we saying when we argue that electrical appliances are “better” than a traditional fire?</p>
-        <h2 id="contents-table">Contents table</h2>
-        <ul>
-        <li>Too Much Combustion, Too Little Fire</li>
-        <li>Thermo-electric Stoves: Ditch the Solar Panels?</li>
-        <li>How to Make Biomass Energy Sustainable Again</li>
-        <li>Well-Tended Fires Outperform Modern Cooking Stoves</li>
-        <li>If We Insulate Our Houses, Why Not Our Cooking Pots?</li>
-        <li>Wood Gas Vehicles: Firewood in the Fuel Tank</li>
-        <li>Medieval Smokestacks: Fossil Fuels in Pre-industrial Times</li>
-        </ul>
-        <h2 id="available-in-our-bookshop">Available in our bookshop</h2>
-        <ul>
-        <li><a href="https://www.lulu.com/shop/kris-de-decker/too-much-combustion-too-little-fire/paperback/product-gjyj24g.html?q=&amp;page=1&amp;pageSize=4">Print edition</a>.</li>
-        <li><a href="https://payhip.com/b/ONIU3">Epub edition</a>.</li>
-        </ul>
-        <p><a href="https://www.patreon.com/lowtechmagazine">Patrons</a> get free access to ebooks, as well as early access to new print books at a reduced price.</p>
-        <h2 id="other-books-in-the-series">Other books in the series</h2>
-        <ul>
-        <li>
-        <p><a href="https://lulu.com/shop/roel-roscam-abbing-and-marie-otsuka-and-kris-de-decker/how-to-build-a-low-tech-internet/paperback/product-9yq8v7.html?q=&amp;page=1&amp;pageSize=4">How to build a low-tech internet?</a>, Kris De Decker, Roel Roscam Abbing, Marie Otsuka, 2023. <a href="https://payhip.com/b/tZwV9">Ebook edition</a>.</p>
-        </li>
-        <li>
-        <p><a href="https://www.lulu.com/shop/kris-de-decker/how-to-downsize-a-transport-network/paperback/product-42n4p7.html?q=&amp;page=1&amp;pageSize=4">How to downsize a transport network?</a>, Kris De Decker, 2023. <a href="https://payhip.com/b/foXDM">Ebook edition</a>.</p>
-        </li>
-        <li>
-        <p><a href="https://www.lulu.com/shop/kris-de-decker/heating-people-not-spaces/paperback/product-zm52en6.html?q=heating+people+not+spaces&amp;page=1&amp;pageSize=4">Heating people not spaces</a>, Kris De Decker, 2024. <a href="https://payhip.com/b/AXGN2">Ebook edition</a></p>
-        </li>
-        <li>
-        <p><a href="https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=&amp;page=1&amp;pageSize=4">How circular is the circular economy?</a>, Kris De Decker, 2025. <a href="https://payhip.com/b/76Cnm">Ebook edition</a></p>
-        </li>
-        </ul>
-        <p>The Low-tech Magazine archives are also available as a <a href="https://solar.lowtechmagazine.com/offline-reading/">chronological series consisting of four volumes</a>.</p>]]>
-      </description>
-      <source:markdown>![Image: Book cover.](https://solar.lowtechmagazine.com/2025/11/thematic-book-series-too-much-combustion-too-little-fire/images/dithers/EN-THEMATIC5_dithered.png)
-Image: Book cover.
-
-- Buy the [print edition](https://www.lulu.com/shop/kris-de-decker/too-much-combustion-too-little-fire/paperback/product-gjyj24g.html?q=&#38;page=1&#38;pageSize=4).
-- Buy the [epub edition](https://payhip.com/b/ONIU3).
-
-For most of history, the multifunctional fire was the only source of energy in the household. It served as a cookstove, toaster, heating device, lighting source, hot water boiler, clothes dryer, and refrigerator, among other functions. During the twentieth century, the fire was replaced by a wide range of appliances plugged into central infrastructures.
-
-In this series of articles, LOW←TECH MAGAZINE critically examines the efficiency, sustainability, health, and safety of the fire and its flame- and smoke-free modern alternatives. What are we saying when we argue that electrical appliances are “better” than a traditional fire?
-
-## Contents table
-
-- Too Much Combustion, Too Little Fire
-- Thermo-electric Stoves: Ditch the Solar Panels?
-- How to Make Biomass Energy Sustainable Again
-- Well-Tended Fires Outperform Modern Cooking Stoves
-- If We Insulate Our Houses, Why Not Our Cooking Pots?
-- Wood Gas Vehicles: Firewood in the Fuel Tank
-- Medieval Smokestacks: Fossil Fuels in Pre-industrial Times
-
-## Available in our bookshop
-
-- [Print edition](https://www.lulu.com/shop/kris-de-decker/too-much-combustion-too-little-fire/paperback/product-gjyj24g.html?q=&#38;page=1&#38;pageSize=4).
-- [Epub edition](https://payhip.com/b/ONIU3).
-
-[Patrons](https://www.patreon.com/lowtechmagazine) get free access to ebooks, as well as early access to new print books at a reduced price.
-
-## Other books in the series
-
-- [How to build a low-tech internet?](https://lulu.com/shop/roel-roscam-abbing-and-marie-otsuka-and-kris-de-decker/how-to-build-a-low-tech-internet/paperback/product-9yq8v7.html?q=&#38;page=1&#38;pageSize=4), Kris De Decker, Roel Roscam Abbing, Marie Otsuka, 2023. [Ebook edition](https://payhip.com/b/tZwV9).
-
-- [How to downsize a transport network?](https://www.lulu.com/shop/kris-de-decker/how-to-downsize-a-transport-network/paperback/product-42n4p7.html?q=&#38;page=1&#38;pageSize=4), Kris De Decker, 2023. [Ebook edition](https://payhip.com/b/foXDM).
-
-- [Heating people not spaces](https://www.lulu.com/shop/kris-de-decker/heating-people-not-spaces/paperback/product-zm52en6.html?q=heating+people+not+spaces&#38;page=1&#38;pageSize=4), Kris De Decker, 2024. [Ebook edition](https://payhip.com/b/AXGN2)
-
-- [How circular is the circular economy?](https://www.lulu.com/shop/kris-de-decker/how-circular-is-the-circular-economy/paperback/product-84n2mvv.html?q=&#38;page=1&#38;pageSize=4), Kris De Decker, 2025. [Ebook edition](https://payhip.com/b/76Cnm)
-
-
-The Low-tech Magazine archives are also available as a [chronological series consisting of four volumes](https://solar.lowtechmagazine.com/offline-reading/).</source:markdown>
-      <enclosure url="https://solar.lowtechmagazine.com/2025/11/thematic-book-series-too-much-combustion-too-little-fire/images/dithers/EN-THEMATIC5_dithered.png" length="13025" type="image/png" />
-      <guid>cid://https://solar.lowtechmagazine.com/2025/11/thematic-book-series-too-much-combustion-too-little-fire/</guid>
-    </item>    <item>
-      <title>Linux Now Runs Most Windows Games</title>
-      <link>http://www.linux-magazine.com/Online/News/Linux-Now-Runs-Most-Windows-Games</link>
-      <description>
-        <![CDATA[<p>The latest data shows that nearly 90 percent of Windows games can be played on Linux.</p>]]>
-      </description>
-      <source:markdown>The latest data shows that nearly 90 percent of Windows games can be played on Linux.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://2d3e7e7c47fee9aae7e939630cd2a838</guid>
-    </item>    <item>
-      <title>WROCC November 2025 talk on Wednesday - Martin Avison</title>
-      <link>http://www.iconbar.com/comments/rss/news2243.html</link>
-      <description>
-        <![CDATA[The November 2025 WROCC talk is on Wednesday 5th November and starts at at 7.45pm on Zoom.]]>
-      </description>
-      <source:markdown>The November 2025 WROCC talk is on Wednesday 5th November and starts at at 7.45pm on Zoom.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2243.html</guid>
     </item>
   </channel>
 </rss>
