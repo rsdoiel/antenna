@@ -4,6 +4,7 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
+<<<<<<< Updated upstream
     <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
@@ -45,6 +46,12 @@ The post [AWS Frontier Agents Handle Code, Security, Ops Without You](https://th
       <source:markdown>NASA and industry partners will fly and operate a commercial robotic arm in low Earth orbit through the Fly Foundational Robots mission set to launch in late 2027. This mission aims to revolutionize in-space operations, a critical capability for sustainably living and working on other planets. By enabling this technology demonstration, NASA is fostering the \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?p=933644</guid>
     </item>    <item>
+=======
+    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
+    <generator>antenna/0.0.16</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <item>
+>>>>>>> Stashed changes
       <title>Monk Parakeets Are Highly Social Birds, but They Slowly ‘Test the Waters’ When Making New Friends</title>
       <link>https://www.smithsonianmag.com/smart-news/monk-parakeets-are-highly-social-birds-but-they-slowly-test-the-waters-when-making-new-friends-180987769/</link>
       <description>
@@ -56,7 +63,11 @@ The post [AWS Frontier Agents Handle Code, Security, Ops Without You](https://th
       <title>One Year of MCP: Looking Back, and Forward</title>
       <link>https://thenewstack.io/one-year-of-mcp-looking-back-and-forward/</link>
       <description>
+<<<<<<< Updated upstream
         <![CDATA[<img width="1024" height="684" src="https://cdn.thenewstack.io/media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-1024x684.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-scaled.jpg" /><p>In November 2024, Anthropic published a seemingly innocuous blog post entitled Introducing the Model Context Protocol. In it, they promised</p>
+=======
+        <![CDATA[<img width="1024" height="684" src="https://cdn.thenewstack.io/media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-1024x684.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-scaled.jpg" /><p>In November 2024, Anthropic published a seemingly innocuous blog post entitled Introducing the Model Context Protocol. In it, they promised</p>
+>>>>>>> Stashed changes
         <p>The post <a href="https://thenewstack.io/one-year-of-mcp-looking-back-and-forward/">One Year of MCP: Looking Back, and Forward</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-1024x684.jpg)

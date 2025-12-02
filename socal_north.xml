@@ -7,6 +7,7 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
+<<<<<<< Updated upstream
     <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
@@ -30,6 +31,12 @@ The post [‘If We Don’t Laugh, We’ll Cry’: Meet the Indigenous Activists 
       <source:markdown>The TSA has announced that U.S. air travelers without a REAL ID will face the fee starting in February.</source:markdown>
       <guid>cid://urn:uuid:0000019a-e031-d261-a7fa-e8f972a60000</guid>
     </item>    <item>
+=======
+    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
+    <generator>antenna/0.0.16</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <item>
+>>>>>>> Stashed changes
       <title>Who’s Running the Streets In L.A.’s Graffiti World Right Now?</title>
       <link>https://lataco.com/graffiti-artists-2025</link>
       <description>

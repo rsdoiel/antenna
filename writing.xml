@@ -4,7 +4,11 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
+<<<<<<< Updated upstream
     <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
+=======
+    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
+>>>>>>> Stashed changes
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>

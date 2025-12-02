@@ -4,16 +4,26 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
+<<<<<<< Updated upstream
     <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
+=======
+    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
+>>>>>>> Stashed changes
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Roundup: New AI-Related Research and News Reports</title>
       <link>https://www.infodocket.com/2025/12/02/roundup-new-ai-related-research-and-news-reports/</link>
       <description>
+<<<<<<< Updated upstream
         <![CDATA[Most of the items listed below were published/posted in the past day or two. Chatbots Poetry Can Trick AI Chatbots Into Ignoring Safety Rules, New Research ShowsSource: Euronews Copyright Creative Grey Zones: Copyright in the Age of HybriditySource: The Alan Turing Institute Cultural Heritage Publishing Cultural Heritage Data in the Age of AISource: Europeana/Open Future [&#8230;]]]>
       </description>
       <source:markdown>Most of the items listed below were published/posted in the past day or two. Chatbots Poetry Can Trick AI Chatbots Into Ignoring Safety Rules, New Research ShowsSource: Euronews Copyright Creative Grey Zones: Copyright in the Age of HybriditySource: The Alan Turing Institute Cultural Heritage Publishing Cultural Heritage Data in the Age of AISource: Europeana/Open Future \[…\]</source:markdown>
+=======
+        <![CDATA[All of the items listed below were published/posted in the past day or two. Chatbots Poetry Can Trick AI Chatbots Into Ignoring Safety Rules, New Research ShowsSource: Euronews Copyright Creative Grey Zones: Copyright in the Age of HybriditySource: The Alan Turing Institute Cultural Heritage Publishing Cultural Heritage Data in the Age of AISource: Europeana/Open Future [&#8230;]]]>
+      </description>
+      <source:markdown>All of the items listed below were published/posted in the past day or two. Chatbots Poetry Can Trick AI Chatbots Into Ignoring Safety Rules, New Research ShowsSource: Euronews Copyright Creative Grey Zones: Copyright in the Age of HybriditySource: The Alan Turing Institute Cultural Heritage Publishing Cultural Heritage Data in the Age of AISource: Europeana/Open Future \[…\]</source:markdown>
+>>>>>>> Stashed changes
       <guid>cid://https://www.infodocket.com/?p=167398</guid>
     </item>    <item>
       <title>Colorado: “Former Middle School Dean Who Objected to Book Removals Sues Elizabeth School District”</title>

@@ -1,6 +1,6 @@
 ---
 title: antenna
-abstract: "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
+abstract: "Antenna is a proof of concept demonstration of a personal news aggregation. Antenna is a Link Blog.
 It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org),
 and either Bash or PowerShell."
 authors:
@@ -11,7 +11,7 @@ authors:
 
 
 repository_code: git+https://github.com/rsdoiel/antenna
-version: 0.0.9
+version: 0.0.10
 license_url: https://www.gnu.org/licenses/agpl-3.0.txt
 
 programming_language:
@@ -27,15 +27,15 @@ keywords:
   - website
   - static
 
-date_released: 2025-10-10
+date_released: 2025-12-02
 ---
 
 About this software
 ===================
 
-## antenna 0.0.9
+## antenna 0.0.10
 
-Now curated with antennaApp v0.0.12
+Now curated with antennaApp v0.0.16
 
 ### Authors
 
@@ -46,7 +46,7 @@ Now curated with antennaApp v0.0.12
 
 
 
-Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
+Antenna is a proof of concept demonstration of a personal news aggregation. Antenna is a Link Blog.
 It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org),
 and either Bash or PowerShell.
 
@@ -66,7 +66,7 @@ and either Bash or PowerShell.
 
 ### Software Requirements
 
-- antennaApp >= 0.0.12
+- antennaApp >= 0.0.16
 - Bash or Powershell (Windows)
 
 

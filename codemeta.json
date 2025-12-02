@@ -12,9 +12,9 @@
     }
   ],
   "dateCreated": "2023-10-11",
-  "dateModified": "2025-10-10",
-  "datePublished": "2025-10-10",
-  "description": "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.\nIt is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org),\nand either Bash or PowerShell.",
+  "dateModified": "2025-12-02",
+  "datePublished": "2025-12-02",
+  "description": "Antenna is a proof of concept demonstration of a personal news aggregation. Antenna is a Link Blog.\nIt is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org),\nand either Bash or PowerShell.",
   "keywords": [
     "Feeds",
     "RSS",
@@ -36,7 +36,7 @@
     "https://pandoc.org"
   ],
   "softwareRequirements": [
-    "antennaApp >= 0.0.12",
+    "antennaApp >= 0.0.16",
     "Bash or Powershell (Windows)"
   ],
   "softwareSuggestions": [
@@ -44,10 +44,10 @@
     "GNU Make",
     "CMTools"
   ],
-  "version": "0.0.9",
-  "developmentStatus": "wip",
+  "version": "0.0.10",
+  "developmentStatus": "active",
   "issueTracker": "https://github.com/rsdoiel/antenna/issues",
-  "releaseNotes": "Now curated with antennaApp v0.0.12",
+  "releaseNotes": "Now curated with antennaApp v0.0.16",
   "copyrightYear": 2025,
   "copyrightHolder": "R. S. Doiel"
 }

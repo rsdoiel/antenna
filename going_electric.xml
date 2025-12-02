@@ -7,6 +7,7 @@
       Going Electric has feeds involving home and transportation options powered by Electricity
     </description>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
+<<<<<<< Updated upstream
     <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
@@ -27,6 +28,12 @@ The Honda [Prologue](https://electrek.co/guides/honda-prologue/) was a top-selli
  [more…](https://electrek.co/2025/12/02/honda-prologue-sales-drop-86-november-despite-big-discounts/#more-445761)</source:markdown>
       <guid>cid://https://electrek.co/?p=445761</guid>
     </item>    <item>
+=======
+    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
+    <generator>antenna/0.0.16</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <item>
+>>>>>>> Stashed changes
       <title>Kia’s Most Affordable EV Debuts Next Month</title>
       <link>https://insideevs.com/news/780619/kia-ev2-official-debut-january/</link>
       <description>

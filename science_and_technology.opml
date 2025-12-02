@@ -2,7 +2,11 @@
 <opml version="2.0">
     <head>
         <title>Science and Technology</title>
+<<<<<<< Updated upstream
         <dateCreated>02 Dec 25 12:41 -0800</dateCreated>
+=======
+        <dateCreated>02 Dec 25 12:31 -0800</dateCreated>
+>>>>>>> Stashed changes
     </head>
     <body>
         <outline text="Caltech Magazine" type="rss" xmlUrl="https://magazine.caltech.edu/index?format=rss" htmlUrl="https://magazine.caltech.edu/"></outline>
