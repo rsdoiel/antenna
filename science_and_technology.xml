@@ -4,10 +4,229 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>02 Dec 25 11:03 -0800</lastBuildDate>
-    <generator>antenna/0.0.16-gamma</generator>
+    <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
+    <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>FreeBSD 15.0 released with pkgbase</title>
+      <link>https://www.osnews.com/story/143942/freebsd-15-0-released-with-pkgbase/</link>
+      <description>
+        <![CDATA[The FreeBSD team has released FreeBSD 15.0, and with it come several major changes, one of which you will surely want to know more about if you&#8217;re a FreeBSD user. Since this change will eventually drastically change the way you use FreeBSD, we should get right into it. Up until now, a full, system-wide update for FreeBSD &#8211; as in, updating both the base operating system as well as any packages you have installed on top of it &#8211; would use two separate tools: freebsd-update and the pkg package manager. You used the former to update the base operating system, which was installed as file sets, and the latter to update everything you had installed on top of it in the form of packages. With FreeBSD 15.0, this is starting to change. Instead of using two separate tools, in 15.0 you can opt to deprecate freebsd-update and file sets, and rely entirely on pkg for updating both the base operating system as well as any packages you have installed, because with this new method, the base system moves from file sets to packages. When installing FreeBSD 15.0, the installer will ask you to choose between the old method, or the new pkg-only method. Packages (pkgbase / New Method): The base system is installed as a set of packages from the &#8220;FreeBSD-base&#8221; repository. Systems installed this way are managed entirely using the pkg(8) tool. This method is used by default for all VM images and images published in public clouds. In FreeBSD 15.0, pkgbase is offered as a technology preview, but it is expected to become the standard method for managing base system installations and upgrades in future releases. ↫ FreeBSD 15.0 release announcement As the release announcement notes, the net method is optional in FreeBSD 15 and will remain optional during the entire 15.x release cycle, but the plan is to deprecate freebsd-update and file sets entirely in FreeBSD 16.0. If you have an existing installation you wish to convert to using pkgbase, there&#8217;s a tool called pkgbasify to do just that. It&#8217;s sponsored by the FreeBSD Foundation, so it&#8217;s not some random script. Of course, there&#8217;s way more in this release than just pkgbase. Of note is that the 32bit platforms i386, armv6, and 32-bit powerpc have been retired, but of course, 32bit code will continue to run on their 64bit counterparts. FreeBSD 15.0 also brings a native inotify implementation, a ton of improvements to the audio components, improved Intel Wi-Fi drivers, and so, so much more.]]>
+      </description>
+      <source:markdown>The FreeBSD team has released FreeBSD 15.0, and with it come several major changes, one of which you will surely want to know more about if you’re a FreeBSD user. Since this change will eventually drastically change the way you use FreeBSD, we should get right into it. Up until now, a full, system-wide update for FreeBSD – as in, updating both the base operating system as well as any packages you have installed on top of it – would use two separate tools: freebsd-update and the pkg package manager. You used the former to update the base operating system, which was installed as file sets, and the latter to update everything you had installed on top of it in the form of packages. With FreeBSD 15.0, this is starting to change. Instead of using two separate tools, in 15.0 you can opt to deprecate freebsd-update and file sets, and rely entirely on pkg for updating both the base operating system as well as any packages you have installed, because with this new method, the base system moves from file sets to packages. When installing FreeBSD 15.0, the installer will ask you to choose between the old method, or the new pkg-only method. Packages (pkgbase / New Method): The base system is installed as a set of packages from the “FreeBSD-base” repository. Systems installed this way are managed entirely using the pkg(8) tool. This method is used by default for all VM images and images published in public clouds. In FreeBSD 15.0, pkgbase is offered as a technology preview, but it is expected to become the standard method for managing base system installations and upgrades in future releases. ↫ FreeBSD 15.0 release announcement As the release announcement notes, the net method is optional in FreeBSD 15 and will remain optional during the entire 15.x release cycle, but the plan is to deprecate freebsd-update and file sets entirely in FreeBSD 16.0. If you have an existing installation you wish to convert to using pkgbase, there’s a tool called pkgbasify to do just that. It’s sponsored by the FreeBSD Foundation, so it’s not some random script. Of course, there’s way more in this release than just pkgbase. Of note is that the 32bit platforms i386, armv6, and 32-bit powerpc have been retired, but of course, 32bit code will continue to run on their 64bit counterparts. FreeBSD 15.0 also brings a native inotify implementation, a ton of improvements to the audio components, improved Intel Wi-Fi drivers, and so, so much more.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=143942</guid>
+    </item>    <item>
+      <title>AWS Frontier Agents Handle Code, Security, Ops Without You</title>
+      <link>https://thenewstack.io/aws-frontier-agents-handle-code-security-ops-without-you/</link>
+      <description>
+        <![CDATA[<img width="1024" height="680" src="https://cdn.thenewstack.io/media/2025/12/ebd7a678-getty-images-sqtg_gjmu00-unsplash-1-1024x680.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/ebd7a678-getty-images-sqtg_gjmu00-unsplash-1.jpg" /><p>has launched three AI agents designed to work autonomously across the software development lifecycle. This move marks a shift from</p>
+        <p>The post <a href="https://thenewstack.io/aws-frontier-agents-handle-code-security-ops-without-you/">AWS Frontier Agents Handle Code, Security, Ops Without You</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/ebd7a678-getty-images-sqtg_gjmu00-unsplash-1-1024x680.jpg)
+
+has launched three AI agents designed to work autonomously across the software development lifecycle. This move marks a shift from
+
+The post [AWS Frontier Agents Handle Code, Security, Ops Without You](https://thenewstack.io/aws-frontier-agents-handle-code-security-ops-without-you/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22808380</guid>
+    </item>    <item>
+      <title>Archaeologists Digging Beneath Britain&#39;s Houses of Parliament Discover 6,000-Year-Old Flint Artifacts and a 2,000-Year-Old Roman Altar Fragment</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-digging-beneath-britains-houses-of-parliament-discover-6000-year-old-flint-artifacts-and-a-2000-year-old-roman-altar-fragment-180987777/</link>
+      <description>
+        <![CDATA[During restorations at the Palace of Westminster in London, excavations have revealed a trove of historic objects, the oldest of which date to around 4300 B.C.E.]]>
+      </description>
+      <source:markdown>During restorations at the Palace of Westminster in London, excavations have revealed a trove of historic objects, the oldest of which date to around 4300 B.C.E.</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/duDDD_f6FEsIWoZLH1l08m2jy3g=/420x240/filters:focal(563x375:564x376)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/ae/96ae77ec-8ca0-41cb-8fad-7aa1bf77b87a/evidence_of_prehistoric_flint_tool-making_dating_to_approximately_4300_bc_and_an_ornate_lead_b.jpeg" length="" type="" />
+    </item>    <item>
+      <title>NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure</title>
+      <link>https://www.nasa.gov/centers-and-facilities/goddard/nasas-fly-foundational-robots-demo-to-bolster-in-space-infrastructure/</link>
+      <description>
+        <![CDATA[NASA and industry partners will fly and operate a commercial robotic arm in low Earth orbit through the Fly Foundational Robots mission set to launch in late 2027. This mission aims to revolutionize in-space operations, a critical capability for sustainably living and working on other planets. By enabling this technology demonstration, NASA is fostering the [&#8230;]]]>
+      </description>
+      <source:markdown>NASA and industry partners will fly and operate a commercial robotic arm in low Earth orbit through the Fly Foundational Robots mission set to launch in late 2027. This mission aims to revolutionize in-space operations, a critical capability for sustainably living and working on other planets. By enabling this technology demonstration, NASA is fostering the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=933644</guid>
+    </item>    <item>
+      <title>Monk Parakeets Are Highly Social Birds, but They Slowly ‘Test the Waters’ When Making New Friends</title>
+      <link>https://www.smithsonianmag.com/smart-news/monk-parakeets-are-highly-social-birds-but-they-slowly-test-the-waters-when-making-new-friends-180987769/</link>
+      <description>
+        <![CDATA[The bright green parrots start with low-cost social behaviors—like sitting near each other without touching—when first interacting with unfamiliar birds within their species, possibly to avoid aggressive encounters, new research suggests]]>
+      </description>
+      <source:markdown>The bright green parrots start with low-cost social behaviors—like sitting near each other without touching—when first interacting with unfamiliar birds within their species, possibly to avoid aggressive encounters, new research suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ijEx8DzL1wjsW1jQnYHZN6GesXQ=/420x240/filters:focal(670x317:671x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e8/59/e859fd5a-27a1-479e-938b-e6fb98a8c4fb/parakeets.jpeg" length="" type="" />
+    </item>    <item>
+      <title>One Year of MCP: Looking Back, and Forward</title>
+      <link>https://thenewstack.io/one-year-of-mcp-looking-back-and-forward/</link>
+      <description>
+        <![CDATA[<img width="1024" height="684" src="https://cdn.thenewstack.io/media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-1024x684.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-scaled.jpg" /><p>In November 2024, Anthropic published a seemingly innocuous blog post entitled Introducing the Model Context Protocol. In it, they promised</p>
+        <p>The post <a href="https://thenewstack.io/one-year-of-mcp-looking-back-and-forward/">One Year of MCP: Looking Back, and Forward</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/f266e719-christina-wocintechchat-com-7phq2bca7dm-unsplash-1024x684.jpg)
+
+In November 2024, Anthropic published a seemingly innocuous blog post entitled Introducing the Model Context Protocol. In it, they promised
+
+The post [One Year of MCP: Looking Back, and Forward](https://thenewstack.io/one-year-of-mcp-looking-back-and-forward/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22808186</guid>
+    </item>    <item>
+      <title>Two Android 0-day bugs disclosed and fixed, plus 105 more to patch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/android_0_days/</link>
+      <description>
+        <![CDATA[<h4>Christmas comes early for attackers this year</h4> <p>Two high-severity Android bugs were exploited as zero-days before Google issued a fix, according to its December Android security bulletin. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Christmas comes early for attackers this year
+
+Two high-severity Android bugs were exploited as zero-days before Google issued a fix, according to its December Android security bulletin. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243358</guid>
+    </item>    <item>
+      <title>NASA nominee &#39;committed&#39; to uprooting Shuttle Discovery for Houston trophy piece</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/isaacman_discovery_relocation/</link>
+      <description>
+        <![CDATA[<h4>Isaacman backs Texas relocation amid warnings that costs could top $150M</h4> <p>US President Donald Trump&#39;s nominee for NASA administrator, Jared Isaacman, is &#34;committed to move the Space Shuttle Discovery to Houston,&#34; according to the office of Senator John Cornyn (R-TX).…</p>]]>
+      </description>
+      <source:markdown>#### Isaacman backs Texas relocation amid warnings that costs could top $150M
+
+US President Donald Trump&#39;s nominee for NASA administrator, Jared Isaacman, is &#34;committed to move the Space Shuttle Discovery to Houston,&#34; according to the office of Senator John Cornyn (R-TX).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243344</guid>
+    </item>    <item>
+      <title>All About Cedar, an Open Source Solution for Fine-Tuning Kubernetes Authorization</title>
+      <link>https://thenewstack.io/all-about-cedar-an-open-source-solution-for-fine-tuning-kubernetes-authorization/</link>
+      <description>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/12/3d7a1572-thumbnail-29-1024x576.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Micah Hausler, principal engineer at AWS said on The New Stack Makers that Kubernetes has relied on role-based access control (RBAC) since 2017, but its simplicity limits what developers can express." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/3d7a1572-thumbnail-29.png" /><p>Since 2017, when the feature went into general availability, Kubernetes has employed role-based access control, or RBAC, to determine who</p>
+        <p>The post <a href="https://thenewstack.io/all-about-cedar-an-open-source-solution-for-fine-tuning-kubernetes-authorization/">All About Cedar, an Open Source Solution for Fine-Tuning Kubernetes Authorization</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![Micah Hausler, principal engineer at AWS said on The New Stack Makers that Kubernetes has relied on role-based access control (RBAC) since 2017, but its simplicity limits what developers can express.](https://cdn.thenewstack.io/media/2025/12/3d7a1572-thumbnail-29-1024x576.png)
+
+Since 2017, when the feature went into general availability, Kubernetes has employed role-based access control, or RBAC, to determine who
+
+The post [All About Cedar, an Open Source Solution for Fine-Tuning Kubernetes Authorization](https://thenewstack.io/all-about-cedar-an-open-source-solution-for-fine-tuning-kubernetes-authorization/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22808260</guid>
+    </item>    <item>
+      <title>University of Pennsylvania joins list of victims from Clop&#39;s Oracle EBS raid</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/clop_university_of_pennsylvania/</link>
+      <description>
+        <![CDATA[<h4>Ivy League school warns more than 1,400 people after attackers siphon data via zero-day</h4> <p>The University of Pennsylvania has become the latest victim of Clop&#39;s smash-and-grab spree against Oracle&#39;s E-Business Suite (EBS) customers, with the Ivy League school now warning more than a thousand individuals that their personal data was siphoned from its systems.…</p>]]>
+      </description>
+      <source:markdown>#### Ivy League school warns more than 1,400 people after attackers siphon data via zero-day
+
+The University of Pennsylvania has become the latest victim of Clop&#39;s smash-and-grab spree against Oracle&#39;s E-Business Suite (EBS) customers, with the Ivy League school now warning more than a thousand individuals that their personal data was siphoned from its systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243350</guid>
+    </item>    <item>
+      <title>Microsoft mops up Mesh after another metaverse misfire</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/microsoft_mesh_axed/</link>
+      <description>
+        <![CDATA[<h4>Dreams of a virtual world linger on in Teams</h4> <p>As of December 1, mixed reality collaboration platform Microsoft Mesh is no more, and Redmond has directed customers to immersive events in Teams.…</p>]]>
+      </description>
+      <source:markdown>#### Dreams of a virtual world linger on in Teams
+
+As of December 1, mixed reality collaboration platform Microsoft Mesh is no more, and Redmond has directed customers to immersive events in Teams.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243348</guid>
+    </item>    <item>
+      <title>Waxing Gibbous Moon</title>
+      <link>https://www.nasa.gov/image-article/waxing-gibbous-moon-5/</link>
+      <description>
+        <![CDATA[The waxing gibbous moon rises above Earth’s blue atmosphere in this photograph taken from the International Space Station on Oct. 3, 2025, as it orbited 263 miles above a cloudy Atlantic Ocean off the coast of Quebec, Canada. In our entire solar system, the only object that shines with its own light is the Sun. [&#8230;]]]>
+      </description>
+      <source:markdown>The waxing gibbous moon rises above Earth’s blue atmosphere in this photograph taken from the International Space Station on Oct. 3, 2025, as it orbited 263 miles above a cloudy Atlantic Ocean off the coast of Quebec, Canada. In our entire solar system, the only object that shines with its own light is the Sun. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=933224</guid>
+    </item>    <item>
+      <title>&#39;Rage Bait,&#39; Which Describes Online Content Created to Make Us Mad, Is Oxford&#39;s 2025 Word of the Year</title>
+      <link>https://www.smithsonianmag.com/smart-news/rage-bait-which-desribes-online-content-created-to-make-us-mad-is-oxfords-2025-word-of-the-year-180987776/</link>
+      <description>
+        <![CDATA[The term "has become shorthand for content designed to elicit anger by being frustrating, offensive or deliberately divisive in nature," according to experts]]>
+      </description>
+      <source:markdown>The term &#34;has become shorthand for content designed to elicit anger by being frustrating, offensive or deliberately divisive in nature,&#34; according to experts</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gISukt4n7AAaFgiS3daDivNJols=/420x240/filters:focal(2410x1607:2411x1608)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/df/c2/dfc24ed7-c1f2-43bb-b28d-3d9abcc8d83e/gettyimages-2248760070.jpg" length="" type="" />
+    </item>    <item>
+      <title>AWS Updates Its Nova Models To Compete With Google, Anthropic and OpenAI</title>
+      <link>https://thenewstack.io/aws-updates-its-nova-models-to-compete-with-google-anthropic-and-openai/</link>
+      <description>
+        <![CDATA[<img width="1024" height="570" src="https://cdn.thenewstack.io/media/2025/12/48c196a7-screenshot-2025-12-02-at-08.11.07-1024x570.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="AWS CEO Matt Garman at re:Invent 2025." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/48c196a7-screenshot-2025-12-02-at-08.11.07.png" /><p>LAS VEGAS &#8212; At its re:Invent conference in Las Vegas today, AWS launched the latest generation of its family of</p>
+        <p>The post <a href="https://thenewstack.io/aws-updates-its-nova-models-to-compete-with-google-anthropic-and-openai/">AWS Updates Its Nova Models To Compete With Google, Anthropic and OpenAI</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![AWS CEO Matt Garman at re:Invent 2025.](https://cdn.thenewstack.io/media/2025/12/48c196a7-screenshot-2025-12-02-at-08.11.07-1024x570.png)
+
+LAS VEGAS — At its re:Invent conference in Las Vegas today, AWS launched the latest generation of its family of
+
+The post [AWS Updates Its Nova Models To Compete With Google, Anthropic and OpenAI](https://thenewstack.io/aws-updates-its-nova-models-to-compete-with-google-anthropic-and-openai/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22808301</guid>
+    </item>    <item>
+      <title>HPE backs AMD&#39;s Helios AI rack with Juniper&#39;s scale-up switch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/hpe_amd_helios_racks/</link>
+      <description>
+        <![CDATA[<h4>Hardware bundle ties next-gen accelerators to an Ethernet fabric arriving in 2026</h4> <p>HPE is throwing its weight behind AMD&#39;s Helios rack-scale architecture and will offer this as part of its AI portfolio next year, including a purpose-built Juniper Networks scale-up switch.…</p>]]>
+      </description>
+      <source:markdown>#### Hardware bundle ties next-gen accelerators to an Ethernet fabric arriving in 2026
+
+HPE is throwing its weight behind AMD&#39;s Helios rack-scale architecture and will offer this as part of its AI portfolio next year, including a purpose-built Juniper Networks scale-up switch.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243351</guid>
+    </item>    <item>
+      <title>AWS, Google Build a Multicloud Bridge</title>
+      <link>https://thenewstack.io/aws-google-build-a-multicloud-bridge/</link>
+      <description>
+        <![CDATA[<img width="1024" height="680" src="https://cdn.thenewstack.io/media/2025/12/210cf442-david-booth-okwmthqqslk-unsplash-1024x680.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/210cf442-david-booth-okwmthqqslk-unsplash.jpg" /><p>Addressing a long-standing perceived roadblock in enabling systems to span multiple cloud services, and have jointly developed a standard for</p>
+        <p>The post <a href="https://thenewstack.io/aws-google-build-a-multicloud-bridge/">AWS, Google Build a Multicloud Bridge</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/210cf442-david-booth-okwmthqqslk-unsplash-1024x680.jpg)
+
+Addressing a long-standing perceived roadblock in enabling systems to span multiple cloud services, and have jointly developed a standard for
+
+The post [AWS, Google Build a Multicloud Bridge](https://thenewstack.io/aws-google-build-a-multicloud-bridge/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
+      <guid>cid://https://thenewstack.io/?p=22808292</guid>
+    </item>    <item>
+      <title>NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies</title>
+      <link>https://www.nasa.gov/solar-system/planets/mars/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/</link>
+      <description>
+        <![CDATA[Next-generation drone flight software is just one of 25 technologies for the Red Planet that the space agency funded for development this year. When NASA engineers want to test a concept for exploring the Red Planet, they have to find ways to create Mars-like conditions here on Earth. Then they test, tinker, and repeat.&#160; That’s [&#8230;]]]>
+      </description>
+      <source:markdown>Next-generation drone flight software is just one of 25 technologies for the Red Planet that the space agency funded for development this year. When NASA engineers want to test a concept for exploring the Red Planet, they have to find ways to create Mars-like conditions here on Earth. Then they test, tinker, and repeat.  That’s \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=933518</guid>
+    </item>    <item>
+      <title>When Did Domestic Cats Take Over the World? New Research Suggests They Arrived in Europe and China Centuries Later Than We Thought</title>
+      <link>https://www.smithsonianmag.com/smart-news/when-did-domestic-cats-take-over-the-world-new-research-suggests-they-arrived-in-europe-and-china-centuries-later-than-we-thought-180987771/</link>
+      <description>
+        <![CDATA[Two genetic analyses suggest that our feline friends reached China around 1,400 years ago via the Silk Road, and that they traveled from North Africa to Europe around 2,000 years ago]]>
+      </description>
+      <source:markdown>Two genetic analyses suggest that our feline friends reached China around 1,400 years ago via the Silk Road, and that they traveled from North Africa to Europe around 2,000 years ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Zyo1FQ4rk1HOF9wGJiCtm_QSFho=/420x240/filters:focal(465x336:466x337)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/d7/e2d754a7-c4d9-47f0-8258-bdcbfc4c2da8/pet_cat_in_seba_beach.jpg" length="" type="" />
+    </item>    <item>
+      <title>Apple swaps one ex-Google AI chief for another</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/apple_ai_chief/</link>
+      <description>
+        <![CDATA[<h4>Amar Subramanya spent mere months at Microsoft before replacing John Giannandrea</h4> <p>Apple&#39;s failure to deliver advanced AI capabilities has triggered a changing of the guard. AI chief John Giannandrea is stepping down in favor of a new leader to steady the Siri ship.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Amar Subramanya spent mere months at Microsoft before replacing John Giannandrea
+
+Apple&#39;s failure to deliver advanced AI capabilities has triggered a changing of the guard. AI chief John Giannandrea is stepping down in favor of a new leader to steady the Siri ship.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243354</guid>
+    </item>    <item>
+      <title>MongoDB talks up its AI chops by talking down PostgreSQL</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/mongodb_postgresql_scalability/</link>
+      <description>
+        <![CDATA[<h4>CEO touts win from &#39;super-high growth&#39; customer that couldn&#39;t scale on rival system</h4> <p>At the risk of protesting too much in the shifting database landscape, NoSQL-based MongoDB has attempted to trash the competition by claiming PostgreSQL systems lack scalability to keep up with the demands of AI workloads.…</p>]]>
+      </description>
+      <source:markdown>#### CEO touts win from &#39;super-high growth&#39; customer that couldn&#39;t scale on rival system
+
+At the risk of protesting too much in the shifting database landscape, NoSQL-based MongoDB has attempted to trash the competition by claiming PostgreSQL systems lack scalability to keep up with the demands of AI workloads.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243349</guid>
+    </item>    <item>
+      <title>French AI shop Mistral rolls out full suite of Apache-licensed models</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/mistral_3/</link>
+      <description>
+        <![CDATA[<h4>Lineup spans 3B to 14B parameters, from edge devices to multi-GPU rigs</h4> <p>Mistral AI has released a suite of open source models under the Mistral 3 banner, aiming to scale from a mobile device or drone up to multi-GPU datacenter beasts.…</p>]]>
+      </description>
+      <source:markdown>#### Lineup spans 3B to 14B parameters, from edge devices to multi-GPU rigs
+
+Mistral AI has released a suite of open source models under the Mistral 3 banner, aiming to scale from a mobile device or drone up to multi-GPU datacenter beasts.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243352</guid>
+    </item>    <item>
+      <title>Europol nukes Cryptomixer laundering hub, seizing €25M in Bitcoin</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/europol_cryptomixer/</link>
+      <description>
+        <![CDATA[<h4>Operation Olympia pulls Swiss servers offline and scoops up 12TB of data in latest crime infrastructure crackdown</h4> <p>Law enforcement agencies in Germany and Switzerland have shut down cryptocurrency laundering platform Cryptomixer in Europe&#39;s latest pushback against cybercrime infrastructure.…</p>]]>
+      </description>
+      <source:markdown>#### Operation Olympia pulls Swiss servers offline and scoops up 12TB of data in latest crime infrastructure crackdown
+
+Law enforcement agencies in Germany and Switzerland have shut down cryptocurrency laundering platform Cryptomixer in Europe&#39;s latest pushback against cybercrime infrastructure.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243342</guid>
+    </item>    <item>
       <title>AWS joins Microsoft, Google in the security AI agent race</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/aws_security_agent_ai/</link>
       <description>
@@ -21,10 +240,10 @@
       <title>AWS’ New Policy Layer in Bedrock AgentCore Makes Sure AI Agents Can’t Give Away the Store</title>
       <link>https://thenewstack.io/aws-new-policy-layer-in-bedrock-agentcore-makes-sure-ai-agents-cant-give-away-the-store/</link>
       <description>
-        <![CDATA[<img width="1024" height="575" src="https://cdn.thenewstack.io/media/2025/12/fb90841c-17d47d58-211f-4d37-a330-415fb51fd773-1024x575.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="the AWS re:invent logo for the 2025 event." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/fb90841c-17d47d58-211f-4d37-a330-415fb51fd773-scaled.jpg" /><p>LAS VEGAS &#8212; At its re:Invent conference in Las Vegas, today announced a number of updates to Amazon Bedrock AgentCore</p>
+        <![CDATA[<img width="1024" height="571" src="https://cdn.thenewstack.io/media/2025/12/a6426c7f-screenshot-2025-12-02-at-09.08.45-1024x571.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/a6426c7f-screenshot-2025-12-02-at-09.08.45.png" /><p>LAS VEGAS &#8212; At its re:Invent conference in Las Vegas, today announced a number of updates to Amazon Bedrock AgentCore</p>
         <p>The post <a href="https://thenewstack.io/aws-new-policy-layer-in-bedrock-agentcore-makes-sure-ai-agents-cant-give-away-the-store/">AWS&#8217; New Policy Layer in Bedrock AgentCore Makes Sure AI Agents Can&#8217;t Give Away the Store</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
-      <source:markdown>![the AWS re:invent logo for the 2025 event.](https://cdn.thenewstack.io/media/2025/12/fb90841c-17d47d58-211f-4d37-a330-415fb51fd773-1024x575.jpg)
+      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/a6426c7f-screenshot-2025-12-02-at-09.08.45-1024x571.png)
 
 LAS VEGAS — At its re:Invent conference in Las Vegas, today announced a number of updates to Amazon Bedrock AgentCore
 
@@ -54,11 +273,11 @@ Kensington and Chelsea Council has admitted that data was quietly lifted from it
       <title>London grid crunch delays new housing amid datacenter boom</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/12/02/london_datacenter_new_homes/</link>
       <description>
-        <![CDATA[<h4>Assembly report urges clearer planning as soaring AI power demands strain capital&#39;s network</h4> <p><strong>The Future of the Datacenter</strong>  Access to electricity has become a major source of delay for housebuilding in London, and datacenters are inevitably tied up in this, leading to calls for greater oversight of energy and construction planning so that they keep pace with demand.…</p>]]>
+        <![CDATA[<h4>Assembly report urges clearer planning as soaring AI power demands strain capital&#39;s network</h4> <p>Access to electricity has become a major source of delay for housebuilding in London, and datacenters are inevitably tied up in this, leading to calls for greater oversight of energy and construction planning so that they keep pace with demand.…</p>]]>
       </description>
       <source:markdown>#### Assembly report urges clearer planning as soaring AI power demands strain capital&#39;s network
 
-**The Future of the Datacenter**  Access to electricity has become a major source of delay for housebuilding in London, and datacenters are inevitably tied up in this, leading to calls for greater oversight of energy and construction planning so that they keep pace with demand.…</source:markdown>
+Access to electricity has become a major source of delay for housebuilding in London, and datacenters are inevitably tied up in this, leading to calls for greater oversight of energy and construction planning so that they keep pace with demand.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243345</guid>
     </item>    <item>
       <title>State of the Thunder 14: The 2026 Mobile Roadmap</title>
@@ -75,7 +294,7 @@ The post [State of the Thunder 14: The 2026 Mobile Roadmap](https://blog.thunder
       <title>Give Claude AI Full Access to Your Local Filesystem With MCP</title>
       <link>https://thenewstack.io/give-claude-ai-full-access-to-your-local-filesystem-with-mcp/</link>
       <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/12/bd43b97c-osarugue-igbinoba-an_icdzkbhu-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="abstract" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/bd43b97c-osarugue-igbinoba-an_icdzkbhu-unsplash.jpg" /><p>We&#8217;ve done quite a bit of talking about Model Context Protocol (MCP), an open source standard that streamlines how AI</p>
+        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/12/bd43b97c-osarugue-igbinoba-an_icdzkbhu-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="abstract" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/bd43b97c-osarugue-igbinoba-an_icdzkbhu-unsplash.jpg" /><p>We&#8217;ve done quite a bit of talking about Model Context Protocol (MCP), an open source standard that streamlines how AI</p>
         <p>The post <a href="https://thenewstack.io/give-claude-ai-full-access-to-your-local-filesystem-with-mcp/">Give Claude AI Full Access to Your Local Filesystem With MCP</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
       </description>
       <source:markdown>![abstract](https://cdn.thenewstack.io/media/2025/12/bd43b97c-osarugue-igbinoba-an_icdzkbhu-unsplash-1024x576.jpg)
@@ -295,6 +514,14 @@ The Foundation that promotes the Zig programming language has quit GitHub due to
 
 **RE:INVENT**  Amazon Web Services has decided to stream all five keynotes from its re:Invent conference in the hit multiplayer game Fortnite, which is more than a little bit bonkers.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243336</guid>
+    </item>    <item>
+      <title>Forgejo monthly report - November 2025</title>
+      <link>https://forgejo.org/2025-11-monthly-report/</link>
+      <description>
+        <![CDATA[A security release was published for Forgejo v13 and v11 LTS. There is another way to report accessibility issues that lowers the barrier. User research is still seeking your help. A lot of work has been done regarding federation, and the Dutch government has expressed interest in Forgejo.]]>
+      </description>
+      <source:markdown>A security release was published for Forgejo v13 and v11 LTS. There is another way to report accessibility issues that lowers the barrier. User research is still seeking your help. A lot of work has been done regarding federation, and the Dutch government has expressed interest in Forgejo.</source:markdown>
+      <guid>cid://https://forgejo.org/2025-11-monthly-report/</guid>
     </item>    <item>
       <title>OpenAI money-go-round sees it invest in company that invested in OpenAI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/</link>

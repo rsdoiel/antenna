@@ -7,8 +7,8 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>02 Dec 25 11:03 -0800</lastBuildDate>
-    <generator>antenna/0.0.16-gamma</generator>
+    <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
+    <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Example Talk</title>
@@ -37,6 +37,170 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Tuesday session</title>
+      <link>https://adactio.com/notes/22281</link>
+      <description>
+        <![CDATA[<p>Tuesday session</p>]]>
+      </description>
+      <source:markdown>Tuesday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22281</guid>
+    </item>    <item>
+      <title>The Most Dangerous Corporation in America</title>
+      <link>https://robertreich.substack.com/p/the-most-dangerous-corporation-in</link>
+      <description>
+        <![CDATA[Please help spread the word]]>
+      </description>
+      <source:markdown>Please help spread the word</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/x_VwyhErd88" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-most-dangerous-corporation-in</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/12/02.html#a191225</link>
+      <description>
+        <![CDATA[On Saturday I <a href="http://scripting.com/2025/11/29/165203.html">reported</a> a problem with WordPress feeds that created a problem for the software I was working on. It's Tuesday now, and <a href="https://github.com/scripting/Scripting-News/issues/342#issuecomment-3592400879">it's fixed</a>. This really feels good. Thanks Jeremy! The WordPress community is special. Never seen a big product like WordPress respond so quickly.]]>
+      </description>
+      <source:markdown>On Saturday I [reported](http://scripting.com/2025/11/29/165203.html) a problem with WordPress feeds that created a problem for the software I was working on. It&#39;s Tuesday now, and [it&#39;s fixed](https://github.com/scripting/Scripting-News/issues/342#issuecomment-3592400879). This really feels good. Thanks Jeremy! The WordPress community is special. Never seen a big product like WordPress respond so quickly.</source:markdown>
+      <guid>cid://http://scripting.com/2025/12/02.html#a191225</guid>
+    </item>    <item>
+      <title>Anthropic acquires Bun</title>
+      <link>https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone">Anthropic acquires Bun</a></strong></p>
+        Anthropic just acquired the company behind the <a href="https://bun.com/">Bun JavaScript runtime</a>, which they adopted for Claude Code back <a href="https://x.com/jarredsumner/status/1943492457506697482">in July</a>. Their announcement includes an impressive revenue update on Claude Code:</p>
+        <blockquote>
+        <p>In November, Claude Code achieved a significant milestone: just six months after becoming available to the public, it reached $1 billion in run-rate revenue.</p>
+        </blockquote>
+        <p>Here "run-rate revenue" means that their current monthly revenue would add up to $1bn/year.</p>
+        <p>I've been watching Anthropic's published revenue figures with interest: their annual revenue run rate was $1 billion in January 2025 and had grown to $5 billion <a href="https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation">by August 2025</a> and to $7 billion <a href="https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership">by October</a>.</p>
+        <p>I had suspected that a large chunk of this was down to Claude Code - given that $1bn figure I guess a large chunk of the rest of the revenue comes from their API customers, since Claude Sonnet/Opus are extremely popular models for coding assistant startups.</p>
+        <p>Bun founder Jarred Sumner <a href="https://bun.com/blog/bun-joins-anthropic">explains the acquisition here</a>. They still had plenty of runway after their $26m raise but did not yet have any revenue yet:</p>
+        <blockquote>
+        <p>Instead of putting our users &amp; community through "Bun, the VC-backed startups tries to figure out monetization" – thanks to Anthropic, we can skip that chapter entirely and focus on building the best JavaScript tooling. [...] When people ask "will Bun still be around in five or ten years?", answering with "we raised $26 million" isn't a great answer. [...]</p>
+        <p>Anthropic is investing in Bun as the infrastructure powering Claude Code, Claude Agent SDK, and future AI coding products. Our job is to make Bun the best place to build, run, and test AI-driven software — while continuing to be a great general-purpose JavaScript runtime, bundler, package manager, and test runner.</p>
+        </blockquote>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/bun">bun</a></p>]]>
+      </description>
+      <source:markdown>**[Anthropic acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)**
+
+Anthropic just acquired the company behind the [Bun JavaScript runtime](https://bun.com/), which they adopted for Claude Code back [in July](https://x.com/jarredsumner/status/1943492457506697482). Their announcement includes an impressive revenue update on Claude Code:
+
+&#62; In November, Claude Code achieved a significant milestone: just six months after becoming available to the public, it reached $1 billion in run-rate revenue.
+
+Here &#34;run-rate revenue&#34; means that their current monthly revenue would add up to $1bn/year.
+
+I&#39;ve been watching Anthropic&#39;s published revenue figures with interest: their annual revenue run rate was $1 billion in January 2025 and had grown to $5 billion [by August 2025](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation) and to $7 billion [by October](https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership).
+
+I had suspected that a large chunk of this was down to Claude Code - given that $1bn figure I guess a large chunk of the rest of the revenue comes from their API customers, since Claude Sonnet/Opus are extremely popular models for coding assistant startups.
+
+Bun founder Jarred Sumner [explains the acquisition here](https://bun.com/blog/bun-joins-anthropic). They still had plenty of runway after their $26m raise but did not yet have any revenue yet:
+
+&#62; Instead of putting our users &#38; community through &#34;Bun, the VC-backed startups tries to figure out monetization&#34; – thanks to Anthropic, we can skip that chapter entirely and focus on building the best JavaScript tooling. \[...\] When people ask &#34;will Bun still be around in five or ten years?&#34;, answering with &#34;we raised $26 million&#34; isn&#39;t a great answer. \[...\]
+&#62;
+&#62; Anthropic is investing in Bun as the infrastructure powering Claude Code, Claude Agent SDK, and future AI coding products. Our job is to make Bun the best place to build, run, and test AI-driven software — while continuing to be a great general-purpose JavaScript runtime, bundler, package manager, and test runner.
+
+Tags: [javascript](https://simonwillison.net/tags/javascript), [open-source](https://simonwillison.net/tags/open-source), [ai](https://simonwillison.net/tags/ai), [anthropic](https://simonwillison.net/tags/anthropic), [claude-code](https://simonwillison.net/tags/claude-code), [bun](https://simonwillison.net/tags/bun)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/#atom-everything</guid>
+    </item>    <item>
+      <title>A kid’s book press had to tell Pete Hegseth to not depict their turtle committing murder.</title>
+      <link>https://lithub.com/a-kids-book-press-had-to-tell-pete-hegseth-to-not-depict-their-turtle-committing-murder/</link>
+      <description>
+        <![CDATA[If you’re a fan of Kids Can Press or Canadian writer Paulette Bourgeois’s Franklin the Turtle, you may have come across this statement on social media yesterday: &#8212; Kids Can Press (@kidscanpress.bsky.social) 2025-12-01T23:18:59.601Z &#160; Why is a kids book publisher]]>
+      </description>
+      <source:markdown>If you’re a fan of Kids Can Press or Canadian writer Paulette Bourgeois’s Franklin the Turtle, you may have come across this statement on social media yesterday: — Kids Can Press (@kidscanpress.bsky.social) 2025-12-01T23:18:59.601Z   Why is a kids book publisher</source:markdown>
+      <guid>cid://https://lithub.com/?p=263739</guid>
+    </item>    <item>
+      <title>Introducing Mistral 3</title>
+      <link>https://simonwillison.net/2025/Dec/2/introducing-mistral-3/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://mistral.ai/news/mistral-3">Introducing Mistral 3</a></strong></p>
+        Four new models from Mistral today: three in their "Ministral" smaller model series (14B, 8B, and 3B) and a new Mistral Large 3 MoE model with 675B parameters, 41B active.</p>
+        <p>All of the models are vision capable, and they are all released under an Apache 2 license.</p>
+        <p>I'm particularly excited about the 3B model, which appears to be a competent vision-capable model in a tiny ~3GB file.</p>
+        <p>Xenova from Hugging Face <a href="https://x.com/xenovacom/status/1995879338583945635">got it working in a browser</a>:</p>
+        <blockquote>
+        <p>@MistralAI releases Mistral 3, a family of multimodal models, including three start-of-the-art dense models (3B, 8B, and 14B) and Mistral Large 3 (675B, 41B active). All Apache 2.0! 🤗</p>
+        <p>Surprisingly, the 3B is small enough to run 100% locally in your browser on WebGPU! 🤯</p>
+        </blockquote>
+        <p>You can <a href="https://huggingface.co/spaces/mistralai/Ministral_3B_WebGPU">try that demo in your browser</a>, which will fetch 3GB of model and then stream from your webcam and let you run text prompts against what the model is seeing, entirely locally.</p>
+        <p><img alt="Screenshot of a man with glasses holding a red cube-shaped object up to the camera in a live computer vision interface; top left label reads “LIVE FEED”; top right slider label reads “INPUT SIZE: 480PX”; lower left panel titled “PROMPT LIBRARY” with prompts “Describe what you see in one sentence.” “What is the color of my shirt?” “Identify any text or written content visible.” “What emotions or actions are being portrayed?” “Name the object I am holding in my hand.”; below that a field labeled “PROMPT” containing the text “write a haiku about this”; lower right panel titled “OUTPUT STREAM” with buttons “VIEW HISTORY” and “LIVE INFERENCE” and generated text “Red cube held tight, Fingers frame the light’s soft glow– Mystery shines bright.”; a small status bar at the bottom shows “ttft: 4188ms  tokens/sec: 5.09” and “ctx: 3.3B-Instruct”." src="https://static.simonwillison.net/static/2025/3b-webcam.jpg" /></p>
+        <p>Mistral's API hosted versions of the new models are supported by my <a href="https://github.com/simonw/llm-mistral">llm-mistral plugin</a> already thanks to the <code>llm mistral refresh</code> command:</p>
+        <pre><code>$ llm mistral refresh
+        Added models: ministral-3b-2512, ministral-14b-latest, mistral-large-2512, ministral-14b-2512, ministral-8b-2512
+        </code></pre>
+        <p>I <a href="https://gist.github.com/simonw/0df5e656291d5a7a1bf012fabc9edc3f">tried pelicans against all of the models</a>. Here's the best one, from Mistral Large 3:</p>
+        <p><img alt="Nice cloud. Pelican isn't great, the beak is missing the pouch. It's floating above the bicycle which has two wheels and an incorrect frame." src="https://static.simonwillison.net/static/2025/mistral-large-3.png" /></p>
+        <p>And the worst from Ministral 3B:</p>
+        <p><img alt="A black sky. A brown floor. A set of abstract brown and grey shapes float, menacingly." src="https://static.simonwillison.net/static/2025/ministral-3b.png" />
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p>]]>
+      </description>
+      <source:markdown>**[Introducing Mistral 3](https://mistral.ai/news/mistral-3)**
+
+Four new models from Mistral today: three in their &#34;Ministral&#34; smaller model series (14B, 8B, and 3B) and a new Mistral Large 3 MoE model with 675B parameters, 41B active.
+
+All of the models are vision capable, and they are all released under an Apache 2 license.
+
+I&#39;m particularly excited about the 3B model, which appears to be a competent vision-capable model in a tiny ~3GB file.
+
+Xenova from Hugging Face [got it working in a browser](https://x.com/xenovacom/status/1995879338583945635):
+
+&#62; @MistralAI releases Mistral 3, a family of multimodal models, including three start-of-the-art dense models (3B, 8B, and 14B) and Mistral Large 3 (675B, 41B active). All Apache 2.0! 🤗
+&#62;
+&#62; Surprisingly, the 3B is small enough to run 100% locally in your browser on WebGPU! 🤯
+
+You can [try that demo in your browser](https://huggingface.co/spaces/mistralai/Ministral_3B_WebGPU), which will fetch 3GB of model and then stream from your webcam and let you run text prompts against what the model is seeing, entirely locally.
+
+![Screenshot of a man with glasses holding a red cube-shaped object up to the camera in a live computer vision interface; top left label reads “LIVE FEED”; top right slider label reads “INPUT SIZE: 480PX”; lower left panel titled “PROMPT LIBRARY” with prompts “Describe what you see in one sentence.” “What is the color of my shirt?” “Identify any text or written content visible.” “What emotions or actions are being portrayed?” “Name the object I am holding in my hand.”; below that a field labeled “PROMPT” containing the text “write a haiku about this”; lower right panel titled “OUTPUT STREAM” with buttons “VIEW HISTORY” and “LIVE INFERENCE” and generated text “Red cube held tight, Fingers frame the light’s soft glow– Mystery shines bright.”; a small status bar at the bottom shows “ttft: 4188ms  tokens/sec: 5.09” and “ctx: 3.3B-Instruct”.](https://static.simonwillison.net/static/2025/3b-webcam.jpg)
+
+Mistral&#39;s API hosted versions of the new models are supported by my [llm-mistral plugin](https://github.com/simonw/llm-mistral) already thanks to the `llm mistral refresh` command:
+
+```
+$ llm mistral refresh
+Added models: ministral-3b-2512, ministral-14b-latest, mistral-large-2512, ministral-14b-2512, ministral-8b-2512
+
+```
+
+I [tried pelicans against all of the models](https://gist.github.com/simonw/0df5e656291d5a7a1bf012fabc9edc3f). Here&#39;s the best one, from Mistral Large 3:
+
+![Nice cloud. Pelican isn&#39;t great, the beak is missing the pouch. It&#39;s floating above the bicycle which has two wheels and an incorrect frame.](https://static.simonwillison.net/static/2025/mistral-large-3.png)
+
+And the worst from Ministral 3B:
+
+![A black sky. A brown floor. A set of abstract brown and grey shapes float, menacingly.](https://static.simonwillison.net/static/2025/ministral-3b.png)
+
+Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [llm](https://simonwillison.net/tags/llm), [mistral](https://simonwillison.net/tags/mistral), [vision-llms](https://simonwillison.net/tags/vision-llms), [llm-release](https://simonwillison.net/tags/llm-release)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Dec/2/introducing-mistral-3/#atom-everything</guid>
+    </item>    <item>
+      <title>How Tom Stoppard’s Arcadia literally saved lives.</title>
+      <link>https://lithub.com/how-tom-stoppards-arcadia-literally-saved-lives/</link>
+      <description>
+        <![CDATA[It’s unusual to encounter good news these days, particularly on social media. So I was delighted to come across this image on Bluesky earlier today, of a letter to the Times of London in reference to the great Tom Stoppard,]]>
+      </description>
+      <source:markdown>It’s unusual to encounter good news these days, particularly on social media. So I was delighted to come across this image on Bluesky earlier today, of a letter to the Times of London in reference to the great Tom Stoppard,</source:markdown>
+      <guid>cid://https://lithub.com/?p=263731</guid>
+    </item>    <item>
+      <title>Pluribus spoilers below</title>
+      <link>http://scripting.com/2025/12/02/160644.html?title=pluribusSpoilersBelow</link>
+      <description>
+        <![CDATA[<p>Theories on what's actually going on. </p>
+        <ul>
+        <li>It's a love story between Carol and Zosia. You <i>can</i> fall in love with a person with no sense of self. They plotted to have Helen killed, and waited until Carol's "f*ckable" judgment turns into real love. They get married and everyone lives happily ever after.</li>
+        <li>Alternate theory -- the original people are still in their bodies, suppressed to keep quiet. Inside they're screaming to be saved, as pissed off as Carol. They want their bodies back. They have the ability to write messages on their skin, so what Carol saw at the end of the last episode was a corpse with the words HELP ME! visible on the body's belly.</li>
+        <li>Another alternate theory about the end of the last episode -- it took a moment for Carol to recognize her own body, possibly dead, and realizing this is all a dream. It's another version of <a href="https://daytona.scripting.com/search?q=%22the%20matrix%22">The Matrix</a>, where this is the fake reality that we've been seeing. None of this is really happening. (Like the end of the Bob Newhart show?)</li>
+        </ul>
+        <p>Also is Plur1bus like Saul Goodman, in that if you say it a different way it has a message encoded? The 1 instead of an i seems like a clue.</p>]]>
+      </description>
+      <source:markdown>Theories on what&#39;s actually going on.
+
+*   It&#39;s a love story between Carol and Zosia. You _can_ fall in love with a person with no sense of self. They plotted to have Helen killed, and waited until Carol&#39;s &#34;f\*ckable&#34; judgment turns into real love. They get married and everyone lives happily ever after.
+*   Alternate theory -- the original people are still in their bodies, suppressed to keep quiet. Inside they&#39;re screaming to be saved, as pissed off as Carol. They want their bodies back. They have the ability to write messages on their skin, so what Carol saw at the end of the last episode was a corpse with the words HELP ME! visible on the body&#39;s belly.
+*   Another alternate theory about the end of the last episode -- it took a moment for Carol to recognize her own body, possibly dead, and realizing this is all a dream. It&#39;s another version of [The Matrix](https://daytona.scripting.com/search?q=%22the%20matrix%22), where this is the fake reality that we&#39;ve been seeing. None of this is really happening. (Like the end of the Bob Newhart show?)
+
+Also is Plur1bus like Saul Goodman, in that if you say it a different way it has a message encoded? The 1 instead of an i seems like a clue.</source:markdown>
+      <guid>cid://http://scripting.com/2025/12/02/160644.html</guid>
     </item>    <item>
       <title>Mind The GAAP</title>
       <link>https://blog.dshr.org/2025/12/mind-gaap.html</link>
@@ -98,7 +262,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         </blockquote>
         The $6.5B is the total of the 1% extra interest above Meta's corporate bond rate over the 20 years.<br />
         <br />
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_A1sgWlBtyc_RorumGwQXBis1fBE-jawmmudtyzRYNPT5NVImP6IXIRxf7KMlEStiwKdiY93JIryP3Hq3ZdSf1b5n00XzBlWpXYs_jbqDQ6LOmn4CFnJsXhHuzBFhKUrVXgaSuVzlI2OtSGkAoKGF_WlrtCtYEbxFaZCDcsPdJfw-rXXHCmyiKP1vywFp/s768/MetaDataCenter.jpeg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="384" data-original-width="768" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_A1sgWlBtyc_RorumGwQXBis1fBE-jawmmudtyzRYNPT5NVImP6IXIRxf7KMlEStiwKdiY93JIryP3Hq3ZdSf1b5n00XzBlWpXYs_jbqDQ6LOmn4CFnJsXhHuzBFhKUrVXgaSuVzlI2OtSGkAoKGF_WlrtCtYEbxFaZCDcsPdJfw-rXXHCmyiKP1vywFp/w200-h100/MetaDataCenter.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.msn.com/en-us/money/other/ai-meets-aggressive-accounting-at-meta-s-gigantic-new-data-center/ar-AA1R26qj">Meta data center</a></td></tr></tbody></table>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_A1sgWlBtyc_RorumGwQXBis1fBE-jawmmudtyzRYNPT5NVImP6IXIRxf7KMlEStiwKdiY93JIryP3Hq3ZdSf1b5n00XzBlWpXYs_jbqDQ6LOmn4CFnJsXhHuzBFhKUrVXgaSuVzlI2OtSGkAoKGF_WlrtCtYEbxFaZCDcsPdJfw-rXXHCmyiKP1vywFp/s768/MetaDataCenter.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="384" data-original-width="768" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_A1sgWlBtyc_RorumGwQXBis1fBE-jawmmudtyzRYNPT5NVImP6IXIRxf7KMlEStiwKdiY93JIryP3Hq3ZdSf1b5n00XzBlWpXYs_jbqDQ6LOmn4CFnJsXhHuzBFhKUrVXgaSuVzlI2OtSGkAoKGF_WlrtCtYEbxFaZCDcsPdJfw-rXXHCmyiKP1vywFp/w200-h100/MetaDataCenter.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.msn.com/en-us/money/other/ai-meets-aggressive-accounting-at-meta-s-gigantic-new-data-center/ar-AA1R26qj">Meta data center</a></td></tr></tbody></table>
         If Counduit Debt Financing is a standard tool of project finance, why is Mr. Market unhappy with the hyperscalers' use of it? Jonathan Weil's somewhat less detailed look at Meta's $27B deal in <a href="https://www.msn.com/en-us/money/other/ai-meets-aggressive-accounting-at-meta-s-gigantic-new-data-center/ar-AA1R26qj"><i>AI Meets Aggressive Accounting at Meta’s Gigantic New Data Center</i></a> reveals how they are pushing the envelope of GAAP (Generally Accepted Accounting Principles):<br />
         <blockquote>
         Construction on the project was well under way when Meta announced a new financing deal last month. Meta moved the project, called Hyperion, off its books into a new joint venture with investment manager Blue Owl Capital. Meta owns 20%, and funds managed by Blue Owl own the other 80%. Last month, a holding company called Beignet Investor, which owns the Blue Owl portion, sold a then-record $27.3 billion of bonds to investors, mostly to Pimco.<br />
@@ -121,7 +285,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         <blockquote>
         The second test—whether Meta has skin in the game economically—has an even clearer answer. Meta has operational control over the data center and its construction. It bears the risks of cost overruns and construction delays. Meta also has provided what is called a residual-value guarantee to cover bondholders for the full amount owed if Meta doesn’t renew its lease or terminates early.
         </blockquote>
-        The lease is notionally for 20 years but Meta can get out every four years.  Is Meta likely to terminate early? In other words, how likely in 2041 is Meta to need an enormous 16-year old data center? Assuming that the hardware has an economic life of 2 years, the kit representing about 60% of the initial cost would be 8 generations behind the state of the art. In fact 60% of the cost is likely to be obsolete by the <i>first</i> renewal deadline, even if we assume Nvidia won't actually be on the one-year cadence it hasa announced.<br />
+        The lease is notionally for 20 years but Meta can get out every four years.  Is Meta likely to terminate early? In other words, how likely in 2041 is Meta to need an enormous 16-year old data center? Assuming that the hardware has an economic life of 2 years, the kit representing about 60% of the initial cost would be 8 generations behind the state of the art. In fact 60% of the cost is likely to be obsolete by the <i>first</i> renewal deadline, even if we assume Nvidia won't actually be on the one-year cadence it has announced.<br />
         <br />
         But what about the other 40%? It has a longer life, but not that long. The reason everyone builds new data centers is that the older ones can't deliver the power and cooling current Nvidia systems need. <a href="https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/">80% of recent data centers in China</a> are empty because they were built for old systems.<br />
         <br />
@@ -176,7 +340,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         <br />
         “They are leading the White House down the road to perdition with this ascendant technocratic oligarchy,” he said.
         </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi36UX6D6A03GFmEbsygjG03OmxyTfE6u6-fPrteuTkTc0jlsnWDD9-MUu_WqZ6i2MWbHP6PTtLRdHyhU-CsYhBOyPrEKMzTHM7lHhmqhglG7vpqpBYh3ASIvIGy1_m519iCMwAMNfrAV_mZ_XoxY3l6Z6XkGbiD1WU7DOPa8eCBPmHmCmrgXsYgjFBugey/s1322/DavidSacks.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="1322" height="86" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi36UX6D6A03GFmEbsygjG03OmxyTfE6u6-fPrteuTkTc0jlsnWDD9-MUu_WqZ6i2MWbHP6PTtLRdHyhU-CsYhBOyPrEKMzTHM7lHhmqhglG7vpqpBYh3ASIvIGy1_m519iCMwAMNfrAV_mZ_XoxY3l6Z6XkGbiD1WU7DOPa8eCBPmHmCmrgXsYgjFBugey/s320/DavidSacks.jpg" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai">David Sacks Nov 24</a></td></tr></tbody></table>
+        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi36UX6D6A03GFmEbsygjG03OmxyTfE6u6-fPrteuTkTc0jlsnWDD9-MUu_WqZ6i2MWbHP6PTtLRdHyhU-CsYhBOyPrEKMzTHM7lHhmqhglG7vpqpBYh3ASIvIGy1_m519iCMwAMNfrAV_mZ_XoxY3l6Z6XkGbiD1WU7DOPa8eCBPmHmCmrgXsYgjFBugey/s1322/DavidSacks.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="354" data-original-width="1322" height="86" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi36UX6D6A03GFmEbsygjG03OmxyTfE6u6-fPrteuTkTc0jlsnWDD9-MUu_WqZ6i2MWbHP6PTtLRdHyhU-CsYhBOyPrEKMzTHM7lHhmqhglG7vpqpBYh3ASIvIGy1_m519iCMwAMNfrAV_mZ_XoxY3l6Z6XkGbiD1WU7DOPa8eCBPmHmCmrgXsYgjFBugey/s320/DavidSacks.jpg" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai">David Sacks Nov 24</a></td></tr></tbody></table>
         Gary Marcus asked <a href="https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai"><i>Has the bailout of generative AI already begun?</i></a>:<br />
         <blockquote>
         <i>“The way this works”, said an investor friend to me this morning: “is that when Nvidia is about to miss their quarter, Jen Hsun calls David Sacks, who then gets this government initiative to place a giant order for chips that go into a warehouse.”</i><br />
@@ -278,7 +442,7 @@ Does Meta receive &#34;significant benefits&#34;? Is it required to [&#34;absorb
 
 &#62; The second test—whether Meta has skin in the game economically—has an even clearer answer. Meta has operational control over the data center and its construction. It bears the risks of cost overruns and construction delays. Meta also has provided what is called a residual-value guarantee to cover bondholders for the full amount owed if Meta doesn’t renew its lease or terminates early.
 
-The lease is notionally for 20 years but Meta can get out every four years. Is Meta likely to terminate early? In other words, how likely in 2041 is Meta to need an enormous 16-year old data center? Assuming that the hardware has an economic life of 2 years, the kit representing about 60% of the initial cost would be 8 generations behind the state of the art. In fact 60% of the cost is likely to be obsolete by the _first_ renewal deadline, even if we assume Nvidia won&#39;t actually be on the one-year cadence it hasa announced.
+The lease is notionally for 20 years but Meta can get out every four years. Is Meta likely to terminate early? In other words, how likely in 2041 is Meta to need an enormous 16-year old data center? Assuming that the hardware has an economic life of 2 years, the kit representing about 60% of the initial cost would be 8 generations behind the state of the art. In fact 60% of the cost is likely to be obsolete by the _first_ renewal deadline, even if we assume Nvidia won&#39;t actually be on the one-year cadence it has announced.
 
 But what about the other 40%? It has a longer life, but not that long. The reason everyone builds new data centers is that the older ones can&#39;t deliver the power and cooling current Nvidia systems need. [80% of recent data centers in China](https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/) are empty because they were built for old systems.
 
@@ -579,7 +743,7 @@ unicode: fixed an error with a inconsistent stream state -- set (Re...</source:m
       <description>
         <![CDATA[<p>
         There was a bit of a tussle about Ruby recently, which seemed to center
-        on whether it was a “serious” programming language.
+        on whether it was a “serious” programming language:
         </p>
         <ul>
         <li>
@@ -596,7 +760,7 @@ unicode: fixed an error with a inconsistent stream state -- set (Re...</source:m
         <p>
         In tone these two pieces reminded me a bit of the discourse around
         “<a href="https://xkcd.com/378/">real programmers</a>”, which is
-        somewhat amusing on the one hand, but ultimately is a conversational
+        somewhat amusing on the one hand, but ultimately a conversational
         dead-end. However, in substance I don’t think either position makes much
         sense.
         </p>
@@ -622,15 +786,14 @@ unicode: fixed an error with a inconsistent stream state -- set (Re...</source:m
         Would I choose Ruby today for a new project? It would all depend on what
         the project is. Is it a small utility to make my life easier?
         Absolutely. Is it a heavily used compute intensive service that other
-        people need to rely on? Probably not. But I’m sure others feel
-        differently, and that’s ok. It matters more what we are <a
-        href="https://firstdonoharm.dev/">doing</a> with the software that’s
+        people need to rely on? Probably not. It matters more what we are <a
+        href="https://firstdonoharm.dev/">doing</a> with the software that is
         created. Being joyful <em>and</em> serious about that is possible,
         right?
         </p>]]>
       </description>
       <source:markdown>There was a bit of a tussle about Ruby recently, which seemed to center
-on whether it was a “serious” programming language.
+on whether it was a “serious” programming language:
 
 - [Ruby\
   Is Not a Serious Programming Language](https://www.wired.com/story/ruby-is-not-a-serious-programming-language/)
@@ -639,7 +802,7 @@ on whether it was a “serious” programming language.
 
 In tone these two pieces reminded me a bit of the discourse around
 “ [real programmers](https://xkcd.com/378/)”, which is
-somewhat amusing on the one hand, but ultimately is a conversational
+somewhat amusing on the one hand, but ultimately a conversational
 dead-end. However, in substance I don’t think either position makes much
 sense.
 
@@ -660,8 +823,7 @@ today.
 Would I choose Ruby today for a new project? It would all depend on what
 the project is. Is it a small utility to make my life easier?
 Absolutely. Is it a heavily used compute intensive service that other
-people need to rely on? Probably not. But I’m sure others feel
-differently, and that’s ok. It matters more what we are [doing](https://firstdonoharm.dev/) with the software that’s
+people need to rely on? Probably not. It matters more what we are [doing](https://firstdonoharm.dev/) with the software that is
 created. Being joyful _and_ serious about that is possible,
 right?</source:markdown>
       <guid>cid://https://inkdroid.org/2025/12/02/serious/</guid>
