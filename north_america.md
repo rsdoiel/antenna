@@ -9,6 +9,7 @@ title: North America
 - Bloomberg https://feeds.bloomberg.com/news.rss (not sure about this feed)
 - [What A Day (crooked media)](https://crookedmedia.substack.com/feed)
 - [Federal News Network](https://federalnewsnetwork.com/feed/)
+- [Saturday Evening Post](https://www.saturdayeveningpost.com/feed/)
 
 
 # Government News Sources
