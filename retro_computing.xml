@@ -4,8 +4,8 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Dec 25 08:10 -0800</lastBuildDate>
-    <generator>antenna/0.0.15</generator>
+    <lastBuildDate>02 Dec 25 11:03 -0800</lastBuildDate>
+    <generator>antenna/0.0.16-gamma</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>WROCC December 2025 talk on Wednesday - Amcog Games</title>

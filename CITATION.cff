@@ -4,7 +4,7 @@ message: "If you use this software, please cite it as below."
 type: software
 title: antenna
 abstract: "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
-It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
+It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org),
 and either Bash or PowerShell."
 authors:
   - family-names: Doiel
@@ -14,8 +14,8 @@ authors:
 
 
 repository-code: "git+https://github.com/rsdoiel/antenna"
-version: 0.0.8
-date-released: 2025-10-01
+version: 0.0.9
+date-released: 2025-10-10
 
 license-url: "https://www.gnu.org/licenses/agpl-3.0.txt"
 keywords:

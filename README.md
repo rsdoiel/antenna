@@ -34,7 +34,7 @@ This Antenna runs on a Raspberry Pi 3B+ on my home network. Once a week I "publi
 
 - Bash >= 5 (macOS, Linux, Raspberry Pi OS) or PowerShell 7 (for Windows)
 - SQLite > 3.40
-- [antennaApp](https://rsdoiel.github.io/antennaApp) >= 0.0.9
+- [antennaApp](https://rsdoiel.github.io/antennaApp) >= 0.0.16
 
 NOTE: The publish.bash and publish.ps1 scripts require Git to publish to GitHub.
 

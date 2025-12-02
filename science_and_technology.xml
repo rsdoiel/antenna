@@ -4,8 +4,8 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>02 Dec 25 08:10 -0800</lastBuildDate>
-    <generator>antenna/0.0.15</generator>
+    <lastBuildDate>02 Dec 25 11:03 -0800</lastBuildDate>
+    <generator>antenna/0.0.16-gamma</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>AWS joins Microsoft, Google in the security AI agent race</title>
@@ -3432,10 +3432,6 @@ Microsoft announced its Azure HorizonDB for PostgreSQL in preview at the company
 The post [Microsoft’s Azure HorizonDB Takes on Aurora, AlloyDB](https://thenewstack.io/microsofts-azure-horizondb-takes-on-aurora-alloydb/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
       <guid>cid://https://thenewstack.io/?p=22807435</guid>
     </item>    <item>
-      <title>Servo Sponsorship Tiers</title>
-      <link>https://servo.org/blog/2025/11/21/sponsorship-tiers/</link>
-      <guid>cid://https://servo.org/blog/2025/11/21/sponsorship-tiers/</guid>
-    </item>    <item>
       <title>SEC drops SolarWinds lawsuit that painted a target on CISOs everywhere</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/20/sec_bails_on_solarwinds_lawsuit/</link>
       <description>
@@ -6727,10 +6723,6 @@ Kubernetes maintainers have decided it’s not worth trying to save Ingress NGIN
       </description>
       <source:markdown>Written by Diana Hayes, Graduate Student at York University, Toronto Earth planning date: Friday, Oct. 10, 2025 This week was one of seasonal changes and milestones for the mission. As was mentioned several weeks ago, Mars has now moved out of its “cloudy season” and is transitioning into the “dusty season” as the planet moves \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4682-4688-seven-mars-years/</guid>
-    </item>    <item>
-      <title>October in Servo: better for the web, better for embedders, better for you</title>
-      <link>https://servo.org/blog/2025/11/14/october-in-servo/</link>
-      <guid>cid://https://servo.org/blog/2025/11/14/october-in-servo/</guid>
     </item>    <item>
       <title>Chinese spies told Claude to break into about 30 critical orgs. Some attacks succeeded</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/11/13/chinese_spies_claude_attacks/</link>
