@@ -4,8 +4,7 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-<<<<<<< Updated upstream
-    <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
+    <lastBuildDate>02 Dec 25 13:42 -0800</lastBuildDate>
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -17,12 +16,6 @@
       <source:markdown>Ukrainian President Volodymyr Zelensky has said Russian President Vladimir Putin does not want to finish the war because he did not get all of the goals he wanted.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1202/1546958-watch-zelensky-iveagh/</guid>
     </item>    <item>
-=======
-    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
-    <generator>antenna/0.0.16</generator>
-    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
-    <item>
->>>>>>> Stashed changes
       <title>Cttee recommends opt out of &#39;majority&#39; of migration pact</title>
       <link>https://www.rte.ie/news/politics/2025/1202/1546950-cttee-recommends-opt-out-of-majority-of-migration-pact/</link>
       <description>
@@ -108,7 +101,6 @@
       <source:markdown>A former maths teacher at a private primary school run by the Spiritan order of priests in South Dublin will be sentenced next week for indecently assaulting eight young boys in the 1970s and 1980s.</source:markdown>
       <guid>cid://https://www.rte.ie/news/courts/2025/1202/1546918-former-teacher-kelly-was-one-cog-in-machine-of-abuse/</guid>
     </item>    <item>
-<<<<<<< Updated upstream
       <title>Italian fashion group Prada buys rival Versace</title>
       <link>https://www.cbc.ca/news/world/prada-versace-purchase-9.7000342?cmp=rss</link>
       <description>
@@ -119,8 +111,6 @@
 The Prada Group closed the purchase of Milan fashion rival Versace in a $1.375 billion US ($1.93 billion Cdn) cash deal that puts the fashion house known for its sexy silhouettes under the same roof as Prada&#39;s &#34;ugly chic&#34; aesthetic and Miu Miu&#39;s youth-driven appeal.</source:markdown>
       <guid>cid://9.7000342</guid>
     </item>    <item>
-=======
->>>>>>> Stashed changes
       <title>Supt contacted garda about road traffic case, court told</title>
       <link>https://www.rte.ie/news/courts/2025/1202/1546916-garda-trial-told-of-screenshots-from-seized-mobile-phones/</link>
       <description>
@@ -145,7 +135,6 @@ The Prada Group closed the purchase of Milan fashion rival Versace in a $1.375 b
       <source:markdown>Republic of Ireland women&#39;s assistant head coach Alan Mahon has stepped away from the post with immediate effect.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/soccer/2025/1202/1546910-mahon-leaves-ireland-role-for-personal-reasons/</guid>
     </item>    <item>
-<<<<<<< Updated upstream
       <title>Israel says remains taken for forensic testing after Hamas handover</title>
       <link>https://www.cbc.ca/news/world/hamas-hostage-gaza-israel-9.7000333?cmp=rss</link>
       <description>
@@ -158,8 +147,6 @@ The Prada Group closed the purchase of Milan fashion rival Versace in a $1.375 b
 Hamas on Tuesday handed over the remains of one of the last two deceased hostages still in Gaza, the International Committee of the Red Cross said, under terms of the October ceasefire deal.</source:markdown>
       <guid>cid://9.7000333</guid>
     </item>    <item>
-=======
->>>>>>> Stashed changes
       <title>Zimbabwe: Bishops urge national renewal, compassion, and responsible stewardship in Advent</title>
       <link>https://www.vaticannews.va/en/africa/news/2025-12/zimbabwe-s-catholic-bishops-urge-national-renewal-compassion-a.html</link>
       <description>

@@ -4,8 +4,7 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-<<<<<<< Updated upstream
-    <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
+    <lastBuildDate>02 Dec 25 13:42 -0800</lastBuildDate>
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -17,12 +16,6 @@
       <source:markdown>London — Last month, fact checkers, newsroom leaders, product managers, and AI strategists gathered in the Southwark neighborhood of South London for the JournalismAI Festival 2025. The event brought out journalists from several continents to share their most innovative AI use cases, as well as deeper insights into how these technologies are impacting newsrooms globally....</source:markdown>
       <guid>cid://https://www.niemanlab.org/?p=245180</guid>
     </item>    <item>
-=======
-    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
-    <generator>antenna/0.0.16</generator>
-    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
-    <item>
->>>>>>> Stashed changes
       <title>“Your TV station is on fire”: A local TV news “survival guide” calls for stations to prioritize digital…yesterday</title>
       <link>https://www.niemanlab.org/2025/12/your-tv-station-is-on-fire-a-local-tv-news-survival-guide-calls-for-stations-to-prioritize-digital-yesterday/</link>
       <description>
