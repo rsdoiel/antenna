@@ -7,11 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-<<<<<<< Updated upstream
-    <lastBuildDate>02 Dec 25 12:41 -0800</lastBuildDate>
-=======
-    <lastBuildDate>02 Dec 25 12:31 -0800</lastBuildDate>
->>>>>>> Stashed changes
+    <lastBuildDate>02 Dec 25 13:36 -0800</lastBuildDate>
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -42,7 +38,6 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
-<<<<<<< Updated upstream
       <title>Tuesday session</title>
       <link>https://adactio.com/notes/22281</link>
       <description>
@@ -60,8 +55,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/x_VwyhErd88" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/the-most-dangerous-corporation-in</guid>
     </item>    <item>
-=======
->>>>>>> Stashed changes
       <link>http://scripting.com/2025/12/02.html#a191225</link>
       <description>
         <![CDATA[On Saturday I <a href="http://scripting.com/2025/11/29/165203.html">reported</a> a problem with WordPress feeds that created a problem for the software I was working on. It's Tuesday now, and <a href="https://github.com/scripting/Scripting-News/issues/342#issuecomment-3592400879">it's fixed</a>. This really feels good. Thanks Jeremy! The WordPress community is special. Never seen a big product like WordPress respond so quickly.]]>
@@ -73,11 +66,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/#atom-everything</link>
       <description>
         <![CDATA[<p><strong><a href="https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone">Anthropic acquires Bun</a></strong></p>
-<<<<<<< Updated upstream
         Anthropic just acquired the company behind the <a href="https://bun.com/">Bun JavaScript runtime</a>, which they adopted for Claude Code back <a href="https://x.com/jarredsumner/status/1943492457506697482">in July</a>. Their announcement includes an impressive revenue update on Claude Code:</p>
-=======
-        Anthropic just acquired the company behind the <a href="https://bun.com/">Bun JavaScript runtime</a>, which they adopted for Claude Code just <a href="https://x.com/jarredsumner/status/1943492457506697482">in July</a>. Their announcement includes an impressive revenue update on Claude Code:</p>
->>>>>>> Stashed changes
         <blockquote>
         <p>In November, Claude Code achieved a significant milestone: just six months after becoming available to the public, it reached $1 billion in run-rate revenue.</p>
         </blockquote>
@@ -95,11 +84,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>**[Anthropic acquires Bun](https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone)**
 
-<<<<<<< Updated upstream
 Anthropic just acquired the company behind the [Bun JavaScript runtime](https://bun.com/), which they adopted for Claude Code back [in July](https://x.com/jarredsumner/status/1943492457506697482). Their announcement includes an impressive revenue update on Claude Code:
-=======
-Anthropic just acquired the company behind the [Bun JavaScript runtime](https://bun.com/), which they adopted for Claude Code just [in July](https://x.com/jarredsumner/status/1943492457506697482). Their announcement includes an impressive revenue update on Claude Code:
->>>>>>> Stashed changes
 
 &#62; In November, Claude Code achieved a significant milestone: just six months after becoming available to the public, it reached $1 billion in run-rate revenue.
 
