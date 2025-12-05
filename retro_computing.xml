@@ -4,10 +4,82 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Dec 25 13:44 -0800</lastBuildDate>
-    <generator>antenna/0.0.16</generator>
+    <lastBuildDate>05 Dec 25 14:43 -0800</lastBuildDate>
+    <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2025/12/05 - Work injury, I scored a free euro but...</title>
+      <link>https://heyrick.eu/blog/entry/20251205</link>
+      <description>
+        <![CDATA[Work injury, I scored a free euro but...]]>
+      </description>
+      <source:markdown>Work injury, I scored a free euro but...</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251205</guid>
+    </item>    <item>
+      <title>Mr. Roberts Goes to Hollywood, Part 2: The Producer</title>
+      <link>https://www.filfre.net/2025/12/mr-roberts-goes-to-hollywood-part-2-the-producer/</link>
+      <description>
+        <![CDATA[This article tells part of the story of Chris Roberts. With the Wing Commander movie having gone down in flames, there was nothing left for Chris Roberts and the rest of Digital Anvil to do but go back to making games. This undoubtedly pleased Microsoft, which had been waiting for some return on its generous [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells part of the story of Chris Roberts. With the Wing Commander movie having gone down in flames, there was nothing left for Chris Roberts and the rest of Digital Anvil to do but go back to making games. This undoubtedly pleased Microsoft, which had been waiting for some return on its generous \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6569</guid>
+    </item>    <item>
+      <title>Fire at CJE Micros</title>
+      <link>http://www.iconbar.com/comments/rss/news2279.html</link>
+      <description>
+        <![CDATA[According to reports in local media this week, the West Sussex Fire and Rescue Service were called to a fire in CJE Micros' building in Littlehampton shortly after 11pm on Tuesday evening. The fire was extinguished and crews left the scene shortly before 2am on Wednesday morning.]]>
+      </description>
+      <source:markdown>According to reports in local media this week, the West Sussex Fire and Rescue Service were called to a fire in CJE Micros&#39; building in Littlehampton shortly after 11pm on Tuesday evening. The fire was extinguished and crews left the scene shortly before 2am on Wednesday morning.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2279.html</guid>
+    </item>    <item>
+      <title>Fire at CJE Micro’s</title>
+      <link>https://www.riscository.com/2025/fire-at-cje-micros/</link>
+      <description>
+        <![CDATA[You have probably heard already that CJE Micro&#8217;s have suffered a fire at their premises in Littlehampton. This happened late on 2nd December, so &#8211; thankfully &#8211; nobody will have been there working. However, while nobody was harmed, the fire appears to have been quite significant. I&#8217;ve reached out to Chris Evans, and he has provided a statement to put on RISCOSitory so that people are aware of the situation. he wrote: We have had a major fire at our unit in Littlehampton Tuesday Night. Unfortunately we have lost a&#8230;]]>
+      </description>
+      <source:markdown>You have probably heard already that CJE Micro’s have suffered a fire at their premises in Littlehampton. This happened late on 2nd December, so – thankfully – nobody will have been there working. However, while nobody was harmed, the fire appears to have been quite significant. I’ve reached out to Chris Evans, and he has provided a statement to put on RISCOSitory so that people are aware of the situation. he wrote: We have had a major fire at our unit in Littlehampton Tuesday Night. Unfortunately we have lost a…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10822</guid>
+    </item>    <item>
+      <title>RISC OS &#39;Advent&#39; Calendar 2025 - Mark Stephens gets back to BBC BASIC</title>
+      <link>http://www.iconbar.com/comments/rss/news2276.html</link>
+      <description>
+        <![CDATA[Here's my computer corner and RISC OS project (It's not too late to send us yours).]]>
+      </description>
+      <source:markdown>Here&#39;s my computer corner and RISC OS project (It&#39;s not too late to send us yours).</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2276.html</guid>
+    </item>    <item>
+      <title>Zork I, II, and III go open source</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/12/zork-i-ii-and-iii-go-open-source/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision <a class="" href="https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source" rel="nofollow">recently announced</a> that the classic games Zork I, Zork II, and Zork III are now released as open source software, under the MIT License. If you don't know Zork, it was an extremely popular series of text-based adventure games, released by Infocom on a variety of platforms including personal computers. You used your imagination and typed commands to navigate and take actions, with clever puzzles and world-building. Zork's Z-Machine interpreter was also a platform to create other, similar text adventure games like Hitchhiker's Guide to the Galaxy. You can find <a class="" href="https://github.com/historicalsource/zork1" rel="nofollow">Zork I</a>, <a class="" href="https://github.com/historicalsource/zork2" rel="nofollow">Zork II</a>, and <a class="" href="https://github.com/historicalsource/zork3" rel="nofollow">Zork III</a> at the Historical Source archive on GitHub. </p></div>]]>
+      </description>
+      <source:markdown>Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision [recently announced](https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source) that the classic games Zork I, Zork II, and Zork III are now released as open source software, under the MIT License. If you don&#39;t know Zork, it was an extremely popular series of text-based adventure games, released by Infocom on a variety of platforms including personal computers. You used your imagination and typed commands to navigate and take actions, with clever puzzles and world-building. Zork&#39;s Z-Machine interpreter was also a platform to create other, similar text adventure games like Hitchhiker&#39;s Guide to the Galaxy. You can find [Zork I](https://github.com/historicalsource/zork1), [Zork II](https://github.com/historicalsource/zork2), and [Zork III](https://github.com/historicalsource/zork3) at the Historical Source archive on GitHub.</source:markdown>
+      <guid>cid://https://sourceforge.netcb0f44ceb7f961c962e15e749b871ff43165612a</guid>
+    </item>    <item>
+      <title>DOjS v1.14.0</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/12/dojs-v1140/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>SuperIlu has released a new version of DOjS, the javascript environment for DOS. Version 1.14.0 has several fixes and additions, but mostly for win32 users, with only a few updates for DOS users: * fixed error message for library loading in win32 * fixed SQLite3 database opening in win32 * return empty object from GetNetworkInterfaces() on win32 * fixed curl on win32 * updated zip to 0.3.5 * improved documentation * updates to libraries. Download the new release at <a class="" href="https://github.com/SuperIlu/DOjS/releases/tag/v1.140" rel="nofollow">DOjS 1.14.0 at GitHub</a>.</p></div>]]>
+      </description>
+      <source:markdown>SuperIlu has released a new version of DOjS, the javascript environment for DOS. Version 1.14.0 has several fixes and additions, but mostly for win32 users, with only a few updates for DOS users: \* fixed error message for library loading in win32 \* fixed SQLite3 database opening in win32 \* return empty object from GetNetworkInterfaces() on win32 \* fixed curl on win32 \* updated zip to 0.3.5 \* improved documentation \* updates to libraries. Download the new release at [DOjS 1.14.0 at GitHub](https://github.com/SuperIlu/DOjS/releases/tag/v1.140).</source:markdown>
+      <guid>cid://https://sourceforge.net56051dab4404cfc7529e80e124601c03a5c52893</guid>
+    </item>    <item>
+      <title>b.log 2025/12/03 - Monsters In My Routine and Turning The Knobs (two songs to download).</title>
+      <link>https://heyrick.eu/blog/entry/20251203</link>
+      <description>
+        <![CDATA[Monsters In My Routine and Turning The Knobs (two songs to download).]]>
+      </description>
+      <source:markdown>Monsters In My Routine and Turning The Knobs (two songs to download).</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20251203</guid>
+    </item>    <item>
+      <title>RISC OS &#39;Advent&#39; Calendar 2025 - Detlef Frohlich&#39;s PicoPython project</title>
+      <link>http://www.iconbar.com/comments/rss/news2271.html</link>
+      <description>
+        <![CDATA[Many thanks to Detlef for showing us his PicoPython project (It's not too late to send us yours).]]>
+      </description>
+      <source:markdown>Many thanks to Detlef for showing us his PicoPython project (It&#39;s not too late to send us yours).</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2271.html</guid>
+    </item>    <item>
       <title>Zorin OS 18 Hits over a Million Downloads</title>
       <link>http://www.linux-magazine.com/Online/News/Zorin-OS-18-Hits-over-a-Million-Downloads</link>
       <description>
@@ -457,31 +529,6 @@ Regardless, if this happens to you — whether it&#39;s FedEx or DHL or UPS or w
       </description>
       <source:markdown>The November 2025 Rougol meeting is on Monday and features Gerph.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2256.html</guid>
-    </item>    <item>
-      <title>Another Linux Malware Discovered</title>
-      <link>http://www.linux-magazine.com/Online/News/Another-Linux-Malware-Discovered</link>
-      <description>
-        <![CDATA[<p>Russian hackers use Hyper-V to hide malware within Linux virtual machines.</p>]]>
-      </description>
-      <source:markdown>Russian hackers use Hyper-V to hide malware within Linux virtual machines.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://4c3f260aa524e48feae1a56184244391</guid>
-    </item>    <item>
-      <title>KIM-1 Simulator 1.5.4 published</title>
-      <link>http://retro.hansotten.nl/kim-1-simulator-1-5-4-published/</link>
-      <description>
-        <![CDATA[A fresh version of the simulator. New functionality 1. The audio tape routines interception can be switched off and on in settings. So no more popups if browsing in the -003 ROM 2. The console window stays open untouched when the LED display is chosen. When switched back to the LED display, the LED lights [&#8230;]]]>
-      </description>
-      <source:markdown>A fresh version of the simulator. New functionality 1. The audio tape routines interception can be switched off and on in settings. So no more popups if browsing in the -003 ROM 2. The console window stays open untouched when the LED display is chosen. When switched back to the LED display, the LED lights \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=19183</guid>
-    </item>    <item>
-      <title>Moving back to Linux RPCEmu on my Mac</title>
-      <link>http://www.iconbar.com/comments/rss/news2244.html</link>
-      <description>
-        <![CDATA[I am a big fan of RPCEmu which provides an excellent RISC OS environment on my Mac when I am travelling. In this post I am going to explore why I have switched back to the Linux version and cover some of the issues I encountered.]]>
-      </description>
-      <source:markdown>I am a big fan of RPCEmu which provides an excellent RISC OS environment on my Mac when I am travelling. In this post I am going to explore why I have switched back to the Linux version and cover some of the issues I encountered.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2244.html</guid>
     </item>
   </channel>
 </rss>

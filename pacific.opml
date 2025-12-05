@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Items of interest to the Pacific community and the Pacific RIM</title>
-        <dateCreated>02 Dec 25 13:44 -0800</dateCreated>
+        <dateCreated>05 Dec 25 14:43 -0800</dateCreated>
     </head>
     <body>
         <outline text="FSM Development Bank News" type="rss" xmlUrl="http://www.fsmdb.fm/feed/" htmlUrl="http://www.fsmdb.fm,http://www.fsmdb.fm/feed/" description="FSM Development Bank" url="http://www.fsmdb.fm/feed/"></outline>
@@ -29,6 +29,7 @@
         <outline text="RNZ Te Ao Māori" type="rss" xmlUrl="https://www.rnz.co.nz/rss/te-manu-korihi.xml" htmlUrl="https://www.rnz.co.nz/news/te-manu-korihi,https://www.rnz.co.nz/rss/te-manu-korihi.xml" description="The Latest Te Ao Māori headlines from RNZ News" url="https://www.rnz.co.nz/rss/te-manu-korihi.xml"></outline>
         <outline text="Rappler" type="rss" xmlUrl="https://www.rappler.com/feed/" htmlUrl="https://www.rappler.com/,https://www.rappler.com/feed/" description="RAPPLER | Philippine &amp; World News | Investigative Journalism | Data | Civic Engagement | Public Interest" url="https://www.rappler.com/feed/"></outline>
         <outline text="Samoa News" type="rss" xmlUrl="https://www.samoanews.com/rss.xml" htmlUrl="https://www.samoanews.com/frontpage_2018,https://www.samoanews.com/rss.xml" url="https://www.samoanews.com/rss.xml"></outline>
+        <outline text="Samoa News" type="rss" xmlUrl="https://www.samoanews.com/rss1.xml" htmlUrl="https://www.samoanews.com/,https://www.samoanews.com/rss1.xml" url="https://www.samoanews.com/rss1.xml"></outline>
         <outline text="Talamua" type="rss" xmlUrl="https://talamua.com/?feed=rss2" htmlUrl="https://talamua.com/,https://talamua.com/?feed=rss2" description="&#39;Talamua&#39; in english means the &#39;First Word&#39;" url="https://talamua.com/?feed=rss2"></outline>
         <outline text="Talamua" type="rss" xmlUrl="https://talamua.com/feed/" htmlUrl="https://talamua.com/,https://talamua.com/feed/" description="&#39;Talamua&#39; in english means the &#39;First Word&#39;" url="https://talamua.com/feed/"></outline>
         <outline text="Talanei" type="rss" xmlUrl="https://www.talanei.com/feed/" htmlUrl="https://www.talanei.com,https://www.talanei.com/feed/" description="News Now for American Samoa!" url="https://www.talanei.com/feed/"></outline>
