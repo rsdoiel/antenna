@@ -41,7 +41,7 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 # American Samoa News
 
-- [Samoa News](https://www.samoanews.com/rss.xml)
+- [Samoa News](https://www.samoanews.com/rss1.xml)
 - [Talanei](https://www.talanei.com/feed/)
 - [Talamua](https://talamua.com/?feed=rss2) 
   - Old feed was <https://talamua.com/feed/>

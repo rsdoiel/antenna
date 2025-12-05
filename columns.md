@@ -335,3 +335,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Patrick Ruthfuss blog](https://feeds2.feedburner.com/PatrickRothfuss)
 - [Sean H blog](https://www.seanh.cc/feed.xml)
 - [We're History](https://werehistory.org/feed/)
+- [Radio Lab](https://feeds.simplecast.com/EmVW7VGp)
+- [Shell Game Podcast](https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d3d3abca-191a-4010-8160-b3530112d393/c639b22c-ee8c-43dd-86c1-b3530112d3a3/podcast.rss)
+- [Michael Catanzaro's blog](https://blogs.gnome.org/mcatanzaro/feed/)

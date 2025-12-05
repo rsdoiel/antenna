@@ -7,20 +7,9 @@
       Commics and Graphic Novel sites on the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/comics.xml</link>
-    <lastBuildDate>02 Dec 25 13:42 -0800</lastBuildDate>
+    <lastBuildDate>05 Dec 25 12:12 -0800</lastBuildDate>
     <generator>antenna/0.0.16</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
-    <item>
-      <title>Horrible Couple</title>
-      <link>http://theoatmeal.com/blog/horrible_couple_game?no_popup=1</link>
-      <description>
-        <![CDATA[<a href="http://theoatmeal.com/blog/horrible_couple_game?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/horrible_couple_game_big.png" alt="Horrible Couple" class="border0" /></a><p>This couple is horrible.</p><a href="http://theoatmeal.com/blog/horrible_couple_game?no_popup=1">View on my website</a><br /><br />]]>
-      </description>
-      <source:markdown>[![Horrible Couple](https://s3.amazonaws.com/theoatmeal-img/thumbnails/horrible_couple_game_big.png)](http://theoatmeal.com/blog/horrible_couple_game?no_popup=1)
 
-This couple is horrible.
-
- [View on my website](http://theoatmeal.com/blog/horrible_couple_game?no_popup=1)</source:markdown>
-    </item>
   </channel>
 </rss>

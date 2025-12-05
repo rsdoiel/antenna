@@ -26,6 +26,7 @@ title: North America
 - [Market Place Tech Report](https://feeds.publicradio.org/public_feeds/marketplace-tech)
 - [Market Place Morning Report](https://feeds.publicradio.org/public_feeds/marketplace-morning-report)
 - [NPR Economic](https://feeds.npr.org/1017/rss.xml)
+- [Floodlight](https://floodlightnews.org/rss/)
 
 # Magazines
 

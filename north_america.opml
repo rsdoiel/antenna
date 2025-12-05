@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>North America</title>
-        <dateCreated>02 Dec 25 13:42 -0800</dateCreated>
+        <dateCreated>05 Dec 25 12:12 -0800</dateCreated>
     </head>
     <body>
         <outline text="Bloomberg" type="rss" xmlUrl="https://feeds.bloomberg.com/news.rss" htmlUrl="https://www.bloomberg.com/" description="Get your latest business news, video and audio from Bloomberg"></outline>
@@ -10,6 +10,7 @@
         <outline text="CBC, Indigenious News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-Indigenous" htmlUrl="https://www.cbc.ca/news/indigenous/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, Top Stories" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-topstories" htmlUrl="https://www.cbc.ca/news/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="Federal News Network" type="rss" xmlUrl="https://federalnewsnetwork.com/feed/" htmlUrl="https://federalnewsnetwork.com,https://federalnewsnetwork.com/feed/" description="Helping feds meet their mission." url="https://federalnewsnetwork.com/feed/"></outline>
+        <outline text="Floodlight" type="rss" xmlUrl="https://floodlightnews.org/rss/" htmlUrl="https://floodlightnews.org/,https://floodlightnews.org/rss/" description="Floodlight is a nonprofit newsroom that investigates the powers stalling climate action." url="https://floodlightnews.org/rss/"></outline>
         <outline text="Guardian" type="rss" xmlUrl="https://www.theguardian.com/us-news/rss" htmlUrl="https://www.theguardian.com/us-news" description="Latest US news, breaking news and current affairs coverage from theguardian.com"></outline>
         <outline text="Market Place" type="rss" category="Business,News" xmlUrl="https://feeds.publicradio.org/public_feeds/marketplace" htmlUrl="https://www.marketplace.org/,https://feeds.publicradio.org/public_feeds/marketplace" description="Every weekday, host Kai Ryssdal helps you make sense of the day&#39;s business and economic news — no econ degree or finance background required. &#34;Marketplace&#34; takes you beyond the numbers, bringing you context. Our team of reporters all over the world speak with CEOs, policymakers and regular people just trying to get by." url="https://feeds.publicradio.org/public_feeds/marketplace"></outline>
         <outline text="Market Place Morning Report" type="rss" category="Business,News" xmlUrl="https://feeds.publicradio.org/public_feeds/marketplace-morning-report" htmlUrl="https://www.marketplace.org/,https://feeds.publicradio.org/public_feeds/marketplace-morning-report" description="In less than 10 minutes, we&#39;ll get you up to speed on all the news you missed overnight. Throughout the morning, Marketplace&#39;s David Brancaccio will bring you the latest business and economic stories you need to know to start your day. And before U.S. markets open, you&#39;ll get a global markets update from the BBC World Service in London." url="https://feeds.publicradio.org/public_feeds/marketplace-morning-report"></outline>
