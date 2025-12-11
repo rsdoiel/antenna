@@ -23,7 +23,7 @@ title: Library and Archives organizations
 - [Ithaka S+R](https://sr.ithaka.org/feed/)
 - [Library of Congress](https://blogs.loc.gov/thesignal/feed/)
 - [Library of Congress Labs](https://www.loc.gov/rss/labs-letter.xml)
-
+- [Los Angeles Public Library](https://www.lapl.org/rss)
 
 # Organizations
 
