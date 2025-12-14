@@ -342,4 +342,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Werd IO](https://werd.io/rss/)
 - [Cory Doctorow](https://pluralistic.net/feed/)
 - [Andy Sylvester's River of News](https://andysylvester.com/feed/)
-
+- [Team Human](https://open.spotify.com/show/5NJh9lWYPeJyu1ebGCnaxf)
