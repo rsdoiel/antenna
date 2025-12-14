@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>11 Dec 25 08:57 -0800</dateCreated>
+        <dateCreated>14 Dec 25 11:04 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -46,6 +46,7 @@
         <outline text="Chaos Computer Club Updates" type="atom" xmlUrl="https://www.ccc.de/de/rss/updates.xml" htmlUrl="https://www.ccc.de/,https://www.ccc.de/rss/updates" url="https://www.ccc.de/rss/updates"></outline>
         <outline text="Charlie Hardie blog" type="rss" xmlUrl="https://tech.chrishardie.com/feed/" htmlUrl="https://tech.chrishardie.com/,https://tech.chrishardie.com/feed/" description="WordPress and Laravel tips, code examples, hardware and software reviews, APIs and integrations, and more" url="https://tech.chrishardie.com/feed/"></outline>
         <outline text="Chris Heilmann&#39;s blog" type="rss" xmlUrl="https://christianheilmann.com/feed/" htmlUrl="https://christianheilmann.com,https://christianheilmann.com/feed/" description="For a better web with more professional jobs - can talk, will travel" url="https://christianheilmann.com/feed/"></outline>
+        <outline text="Citation Needed News" type="rss" xmlUrl="https://www.citationneeded.news/rss/" htmlUrl="https://www.citationneeded.news/,https://www.citationneeded.news/rss/" description="A critical look at the cryptocurrency industry and the broader technology world." url="https://www.citationneeded.news/rss/"></outline>
         <outline text="Climbing to the Stars blog" type="rss" xmlUrl="https://climbtothestars.org/feed/" htmlUrl="https://climbtothestars.org,https://climbtothestars.org/feed/" description="Stephanie Booth&#39;s online ramblings" url="https://climbtothestars.org/feed/"></outline>
         <outline text="Cloud Four" type="rss" xmlUrl="https://cloudfour.com/feed/" htmlUrl="https://cloudfour.com,https://cloudfour.com/feed/" description="Responsive web design and development, progressive web apps" url="https://cloudfour.com/feed/"></outline>
         <outline text="Cobel Sasser&#39;s blog" type="rss" xmlUrl="https://cabel.com/feed/" htmlUrl="https://cabel.com,https://cabel.com/feed/" description="A blog by Cabel Sasser" url="https://cabel.com/feed/"></outline>
@@ -53,6 +54,7 @@
         <outline text="Conor O&#39;Niell&#39;s blog, Cross Dominant" type="rss" xmlUrl="https://conoroneill.net/index.xml" htmlUrl="https://conoroneill.net/,https://conoroneill.net/index.xml" description="Recent content on Cross Dominant" url="https://conoroneill.net/index.xml"></outline>
         <outline text="Conrad Barski" type="rss" xmlUrl="https://medium.com/feed/@conrad_9565" htmlUrl="https://medium.com/@conrad_9565?source=rss-da75e3799d70------2,https://medium.com/@conrad_9565/feed" description="Stories by Conrad Barski on Medium" url="https://medium.com/@conrad_9565/feed"></outline>
         <outline text="Cornell Controlled Environment Agriculture" type="rss" xmlUrl="https://cea.cals.cornell.edu/feed/" htmlUrl="https://cea.cals.cornell.edu,https://cea.cals.cornell.edu/feed/" url="https://cea.cals.cornell.edu/feed/"></outline>
+        <outline text="Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net,https://pluralistic.net/feed/" description="No trackers, no ads. Black type, white background. Privacy policy: we don&#39;t collect or retain any data at all ever period." url="https://pluralistic.net/feed/"></outline>
         <outline text="Creations Blog by Kyle Gabriel" type="rss" xmlUrl="https://kylegabriel.com/projects/feed" htmlUrl="https://kylegabriel.com/projects,https://kylegabriel.com/projects/feed" url="https://kylegabriel.com/projects/feed"></outline>
         <outline text="Curious about everything blog" type="rss" xmlUrl="https://jodiettenberg.substack.com/feed" htmlUrl="https://jodiettenberg.substack.com,https://jodiettenberg.substack.com/feed" description="A monthly roundup of the most interesting writing from around the web" url="https://jodiettenberg.substack.com/feed"></outline>
         <outline text="CutiePi Blog" type="rss" xmlUrl="https://medium.com/feed/cutiepi" htmlUrl="https://medium.com/cutiepi?source=rss----ca892aa3ed33---4,https://medium.com/feed/cutiepi" description="News and updates about cutiepi.io - Medium" url="https://medium.com/feed/cutiepi"></outline>
@@ -314,6 +316,7 @@
         <outline text="Web Dev blog" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml" htmlUrl="https://web.dev/blog/" description="All of web.dev&#39;s blog posts."></outline>
         <outline text="Web Recorder" type="rss" xmlUrl="https://webrecorder.net/feed.xml" htmlUrl="https://webrecorder.net/" description="What&#39;s new in the world of web archiving"></outline>
         <outline text="WebKit blog" type="rss" xmlUrl="https://webkit.org/feed/" htmlUrl="https://webkit.org,https://webkit.org/feed/" description="Open Source Web Browser Engine" url="https://webkit.org/feed/"></outline>
+        <outline text="Werd IO" type="rss" xmlUrl="https://werd.io/rss/" htmlUrl="https://werd.io/,https://werd.io/rss/" description="Writing at the intersection of technology, journalism, and community." url="https://werd.io/rss/"></outline>
         <outline text="Windows Developer Blog" type="rss" xmlUrl="https://blogs.windows.com/windowsdeveloper/feed/" htmlUrl="https://blogs.windows.com/windowsdeveloper/,https://blogs.windows.com/windowsdeveloper/feed/" url="https://blogs.windows.com/windowsdeveloper/feed/"></outline>
         <outline text="WoLpH blog" type="rss" xmlUrl="https://w.wol.ph/feed/" htmlUrl="https://w.wol.ph,https://w.wol.ph/feed/" description="Rick van Hattem. Dutch entrepreneur and programmer, interested in scaling large systems. Currently mostly working with Python, Flask, Django and PostgreSQL" url="https://w.wol.ph/feed/"></outline>
         <outline text="Word Ways" type="rss" xmlUrl="https://digitalcommons.butler.edu/wordways/recent.rss" htmlUrl="https://digitalcommons.butler.edu/wordways" description="Recent documents in Word Ways"></outline>
