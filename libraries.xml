@@ -4,10 +4,72 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>11 Dec 25 08:57 -0800</lastBuildDate>
+    <lastBuildDate>14 Dec 25 11:05 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Journal Article: “The Library Instructor as Learner: A Survey of Reflective Teaching Practices in US Academic Libraries”</title>
+      <link>https://www.infodocket.com/2025/12/14/journal-article-the-library-instructor-as-learner-a-survey-of-reflective-teaching-practices-in-us-academic-libraries/</link>
+      <description>
+        <![CDATA[The journal article linked below was recently published by Communications in Information Literacy (CIL). Title The Library Instructor as Learner: A Survey of Reflective Teaching Practices in US Academic Libraries Authors Alicia G. Vaandering University of Rhode Island Amanda Crego-Emley University of Rhode Island Source Communications in Information Literacy (CIL); 19(2) Abstract Reflective practice provides [&#8230;]]]>
+      </description>
+      <source:markdown>The journal article linked below was recently published by Communications in Information Literacy (CIL). Title The Library Instructor as Learner: A Survey of Reflective Teaching Practices in US Academic Libraries Authors Alicia G. Vaandering University of Rhode Island Amanda Crego-Emley University of Rhode Island Source Communications in Information Literacy (CIL); 19(2) Abstract Reflective practice provides \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167427</guid>
+    </item>    <item>
+      <title>Short Fiction, by Mary Shelley</title>
+      <link>https://standardebooks.org/ebooks/mary-shelley/short-fiction</link>
+      <description>
+        <![CDATA[A collection of short fiction by Mary Shelley, ordered by date of publication.]]>
+      </description>
+      <source:markdown>A collection of short fiction by Mary Shelley, ordered by date of publication.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/mary-shelley/short-fiction/downloads/mary-shelley_short-fiction.epub?source=feed" length="670047" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/mary-shelley/short-fiction</guid>
+    </item>    <item>
+      <title>Ashton-Kirk, Investigator, by John T. McIntyre</title>
+      <link>https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator</link>
+      <description>
+        <![CDATA[A young investigator becomes intrigued by the murder of a dislikeable numismatist.]]>
+      </description>
+      <source:markdown>A young investigator becomes intrigued by the murder of a dislikeable numismatist.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator/downloads/john-t-mcintyre_ashton-kirk-investigator.epub?source=feed" length="615001" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator</guid>
+    </item>    <item>
+      <title>Conference Paper: “BookReconciler: An Open-Source Tool for Metadata Enrichment and Work-Level Clustering”</title>
+      <link>https://www.infodocket.com/2025/12/12/conference-paper-bookreconciler-an-open-source-tool-for-metadata-enrichment-and-work-level-clustering/</link>
+      <description>
+        <![CDATA[The conference paper linked below was shared on arXiv. Title BookReconciler: An Open-Source Tool for Metadata Enrichment and Work-Level Clustering Authors Matt Miller Library of Congress Dan Sinykin Emory University Melanie Walsh University of Washington Information School Source arXiv DOI: 10.48550/arXiv.2512.10165 Published in the Proceedings of the Joint Conference on Digital Libraries (JCDL) 2025 Abstract [&#8230;]]]>
+      </description>
+      <source:markdown>The conference paper linked below was shared on arXiv. Title BookReconciler: An Open-Source Tool for Metadata Enrichment and Work-Level Clustering Authors Matt Miller Library of Congress Dan Sinykin Emory University Melanie Walsh University of Washington Information School Source arXiv DOI: 10.48550/arXiv.2512.10165 Published in the Proceedings of the Joint Conference on Digital Libraries (JCDL) 2025 Abstract \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167425</guid>
+    </item>    <item>
+      <title>Google’s Last Last Year in Search</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/12/12/googles-last-last-year-in-search/</link>
+      <description>
+        <![CDATA[<p>The year in search at Google -- is this the last one of these we'll see?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/12/googles-last-last-year-in-search/">Google&#8217;s Last Last Year in Search</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>The year in search at Google -- is this the last one of these we&#39;ll see?
+
+The post [Google’s Last Last Year in Search](https://scholarlykitchen.sspnet.org/2025/12/12/googles-last-last-year-in-search/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61346</guid>
+    </item>    <item>
+      <title>How ROR IDs Help the EarthScope Consortium Track Organizational Partnerships</title>
+      <link>https://ror.org/blog/2025-12-12-ror-earthscope-organizational-partnerships/</link>
+      <description>
+        <![CDATA[Learn how ROR IDs can help track organizational partnerships in this deep dive into work that Metadata Game Changers did with the EarthScope Consortium to add identifiers to DataCite DOI metadata for geophysical datasets.]]>
+      </description>
+      <source:markdown>Learn how ROR IDs can help track organizational partnerships in this deep dive into work that Metadata Game Changers did with the EarthScope Consortium to add identifiers to DataCite DOI metadata for geophysical datasets.</source:markdown>
+      <guid>cid://https://doi.org/10.71938/t5bn-bm23</guid>
+    </item>    <item>
+      <title>Little Caesar, by W. R. Burnett</title>
+      <link>https://standardebooks.org/ebooks/w-r-burnett/little-caesar</link>
+      <description>
+        <![CDATA[A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.]]>
+      </description>
+      <source:markdown>A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/w-r-burnett/little-caesar/downloads/w-r-burnett_little-caesar.epub?source=feed" length="493302" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/w-r-burnett/little-caesar</guid>
+    </item>    <item>
       <title>Anywhere Adventures is Live!</title>
       <link>https://blogs.loc.gov/thesignal/2025/12/anywhere-adventures-is-live/</link>
       <description>
@@ -48,6 +110,52 @@ The post [Transfer Explorer Is Growing](https://sr.ithaka.org/blog/transfer-expl
 
 The post [Guest Post:  Academic Publishing Is  Not Fit for the Future – If We Don’t Act Now, The Vital Role Research Plays in Society Is at Risk](https://scholarlykitchen.sspnet.org/2025/12/11/guest-post-academic-publishing-is-not-fit-for-the-future-if-we-dont-act-now-the-vital-role-research-plays-in-society-is-at-risk/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61340</guid>
+    </item>    <item>
+      <title>Some things are big because they are small – the new fee tier for Crossref members takes effect</title>
+      <link>https://www.crossref.org/blog/some-things-are-big-because-they-are-small-the-new-fee-tier-for-crossref-members-takes-effect/</link>
+      <description>
+        <![CDATA[<p>In January 2026, our new annual membership fee tier takes effect. The new tier is US$200 for member organisations that operate on publishing revenue or expenses (whichever is higher) of up to US$1,000 annually. We <a href="https://doi.org/10.64000/cvvj8-tax10" target="_blank">announced the Board’s decision</a>, making it possible in July, and––as you can infer from <a href="https://doi.org/10.64000/tch5n-9px70" target="_blank">Amanda’s latest blog</a>––this is the first such change to the annual membership fee tiers in close to 20 years!</p>
+        <p>The new fee tier resulted from the consultation process and fees review undertaken as part of the <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">Resourcing Crossref for Future Sustainability program</a>, carried out with the help of our <a href="https://www.crossref.org/committees/membership-and-fees/">Membership and Fees Committee</a> (made up of representatives from member organisations and community partners). The program is ongoing, and the new fee tier, intended to make Crossref membership more accessible, is one of the first changes it helped us determine.</p>
+        <p>When our membership renewal invoices are sent out in January 2026, the new fee tier will apply to 3,194 of our existing members, who will receive annual membership invoices 27% lower than previously. Surveys preceding the introduction of the new fee tier have shown that it might be applicable to between 30-60% of the organisations in what used to be our lowest fee tier (US$275 fee for organisations with publishing revenue or expenses of up to US$1 million).</p>
+        <p>We received positive feedback from members affected by the change.</p>
+        <blockquote>
+        <p>We are very grateful for the new lowest membership fee tier. The Crossref fee is indeed a significant expense for our organisation, but we accept it given its importance. This new fee structure will make it easier for us to cover the cost.” – said Marina Pérez, Análisis Filosófico.</p>
+        </blockquote>
+        <blockquote>
+        <p>This initiative by Crossref to reduce membership fees is a welcome step toward achieving a truly global and connected research ecosystem. This will undoubtedly help our journal&rsquo;s mission in fostering inclusive, open, and accessible publishing.” – said Dev Roychowdhury, Journal of Psychological Experience.</p>
+        </blockquote>
+        <p>Following the feedback provided in the consultations and a number of prompts over the months after the original announcement, our Membership Team gathered information necessary to transition 3,194 members into the new fee tier. That’s 14.5% of all Crossref members (please note that in the graph below the number of members in $200 tier is higher due to recent influx of new members who didn&rsquo;t need to transition, further – &ldquo;$0&rdquo; denotes all our sponsored members, who don’t pay membership fees to us, and those included in the <a href="https://www.crossref.org/gem/">GEM program</a>).</p>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2025/newfee-pie.png"
+        alt="pie chart showing proportion of Crossref members on each membership fee tier" width="75%">
+        </figure>
+        </div>
+        <p>Any members out there who think their organisation should be moved to the new lowest membership fee tier and haven’t already informed us – please contact us as soon as possible, before the end of the year, so we can make the change before invoices are raised in January.</p>
+        <p>We know – from speaking with our community (and thank you SO MUCH, for everyone’s feedback in surveys and discussions!) that this change makes participation in Crossref more accessible to smaller organisations communicating research. This will result in a continued flow of new records and associated metadata into the <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">research nexus</a>, helping us to make it easier to find and assess research, achieve greater transparency in the scientific process, and continue building trust in its outputs.</p>
+        <p>We’re not done reviewing our fees, and we don’t think the new fee tier addresses all the needs of the growing and evolving scholarly community. We continue working with Sponsors and Ambassadors, and we have upcoming changes to the Global Equitable Membership program to facilitate participation by all types and sizes of organisations sharing research.</p>]]>
+      </description>
+      <source:markdown>In January 2026, our new annual membership fee tier takes effect. The new tier is US$200 for member organisations that operate on publishing revenue or expenses (whichever is higher) of up to US$1,000 annually. We [announced the Board’s decision](https://doi.org/10.64000/cvvj8-tax10), making it possible in July, and––as you can infer from [Amanda’s latest blog](https://doi.org/10.64000/tch5n-9px70)––this is the first such change to the annual membership fee tiers in close to 20 years!
+
+The new fee tier resulted from the consultation process and fees review undertaken as part of the [Resourcing Crossref for Future Sustainability program](https://www.crossref.org/community/special-programs/resourcing-crossref/), carried out with the help of our [Membership and Fees Committee](https://www.crossref.org/committees/membership-and-fees/) (made up of representatives from member organisations and community partners). The program is ongoing, and the new fee tier, intended to make Crossref membership more accessible, is one of the first changes it helped us determine.
+
+When our membership renewal invoices are sent out in January 2026, the new fee tier will apply to 3,194 of our existing members, who will receive annual membership invoices 27% lower than previously. Surveys preceding the introduction of the new fee tier have shown that it might be applicable to between 30-60% of the organisations in what used to be our lowest fee tier (US$275 fee for organisations with publishing revenue or expenses of up to US$1 million).
+
+We received positive feedback from members affected by the change.
+
+&#62; We are very grateful for the new lowest membership fee tier. The Crossref fee is indeed a significant expense for our organisation, but we accept it given its importance. This new fee structure will make it easier for us to cover the cost.” – said Marina Pérez, Análisis Filosófico.
+
+&#62; This initiative by Crossref to reduce membership fees is a welcome step toward achieving a truly global and connected research ecosystem. This will undoubtedly help our journal’s mission in fostering inclusive, open, and accessible publishing.” – said Dev Roychowdhury, Journal of Psychological Experience.
+
+Following the feedback provided in the consultations and a number of prompts over the months after the original announcement, our Membership Team gathered information necessary to transition 3,194 members into the new fee tier. That’s 14.5% of all Crossref members (please note that in the graph below the number of members in $200 tier is higher due to recent influx of new members who didn’t need to transition, further – “$0” denotes all our sponsored members, who don’t pay membership fees to us, and those included in the [GEM program](https://www.crossref.org/gem/)).
+
+![pie chart showing proportion of Crossref members on each membership fee tier](https://www.crossref.org/images/blog/2025/newfee-pie.png)
+
+Any members out there who think their organisation should be moved to the new lowest membership fee tier and haven’t already informed us – please contact us as soon as possible, before the end of the year, so we can make the change before invoices are raised in January.
+
+We know – from speaking with our community (and thank you SO MUCH, for everyone’s feedback in surveys and discussions!) that this change makes participation in Crossref more accessible to smaller organisations communicating research. This will result in a continued flow of new records and associated metadata into the [research nexus](https://www.crossref.org/documentation/research-nexus/), helping us to make it easier to find and assess research, achieve greater transparency in the scientific process, and continue building trust in its outputs.
+
+We’re not done reviewing our fees, and we don’t think the new fee tier addresses all the needs of the growing and evolving scholarly community. We continue working with Sponsors and Ambassadors, and we have upcoming changes to the Global Equitable Membership program to facilitate participation by all types and sizes of organisations sharing research.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/some-things-are-big-because-they-are-small-the-new-fee-tier-for-crossref-members-takes-effect/</guid>
     </item>    <item>
       <title>Revisiting the Library Copyright Alliance Statement on AI and Copyright</title>
       <link>https://www.arl.org/blog/revisiting-the-library-copyright-alliance-statement-on-ai-and-copyright/</link>
@@ -985,99 +1093,6 @@ The post [Mental Health Awareness Mondays — Balancing Work and Caregiving: Fle
       </description>
       <source:markdown>The article linked below was recently made available (full text) by the ACM Digital Library. Title Toward Integrating AI Chat and Search: A User-Centered Perspective Across Age Groups Authors Chen He University of Helsinki Michiel Spape University of Macau Khadijatul Kobra University of Helsinki Robin Welsch University of Helsinki Giulio Jacucci University of Helsinki Source \[…\]</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=167373</guid>
-    </item>    <item>
-      <title>Report: “Oxford University Library Launches Its Own Gin For Sale”</title>
-      <link>https://www.infodocket.com/2025/11/21/report-oxford-university-library-launches-its-own-gin-for-sale/</link>
-      <description>
-        <![CDATA[From the Oxford Mail: Sky Wave Distillery at Bicester Motion has produced a premium London Dry gin for the world-famous Oxford University library. Distillers say the gin has been inspired by the intricate ceiling carvings of the majestic Divinity School, and the rich woody aromas of the shelves and leather aromas in Duke Humfrey’s Library. [&#8230;]]]>
-      </description>
-      <source:markdown>From the Oxford Mail: Sky Wave Distillery at Bicester Motion has produced a premium London Dry gin for the world-famous Oxford University library. Distillers say the gin has been inspired by the intricate ceiling carvings of the majestic Divinity School, and the rich woody aromas of the shelves and leather aromas in Duke Humfrey’s Library. \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167362</guid>
-    </item>    <item>
-      <title>ARL Libraries Celebrate Native American Heritage Month 2025</title>
-      <link>https://www.arl.org/blog/arl-libraries-celebrate-native-american-heritage-month-2025/</link>
-      <description>
-        <![CDATA[<p>Last Updated on November 25, 2025, 3:48 pm ET November is Native American Heritage Month, a time to celebrate the culture and history of Native American communities and individuals. ARL...</p>
-        <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-native-american-heritage-month-2025/">ARL Libraries Celebrate Native American Heritage Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on November 25, 2025, 3:48 pm ET November is Native American Heritage Month, a time to celebrate the culture and history of Native American communities and individuals. ARL...
-
-The post [ARL Libraries Celebrate Native American Heritage Month 2025](https://www.arl.org/blog/arl-libraries-celebrate-native-american-heritage-month-2025/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=46715</guid>
-    </item>    <item>
-      <title>Guest Post — Five Years of GetFTR: A discussion with Librarians on Access, Integrity, and Collaboration</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/11/21/guest-post-five-years-of-getftr-a-discussion-with-librarians-on-access-integrity-and-collaboration/</link>
-      <description>
-        <![CDATA[<p>After five years of GetFTR, four librarians discuss how it is working in practice, its value to libraries and researchers, and what opportunities lie ahead.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/11/21/guest-post-five-years-of-getftr-a-discussion-with-librarians-on-access-integrity-and-collaboration/">Guest Post — Five Years of GetFTR: A discussion with Librarians on Access, Integrity, and Collaboration</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>After five years of GetFTR, four librarians discuss how it is working in practice, its value to libraries and researchers, and what opportunities lie ahead.
-
-The post [Guest Post — Five Years of GetFTR: A discussion with Librarians on Access, Integrity, and Collaboration](https://scholarlykitchen.sspnet.org/2025/11/21/guest-post-five-years-of-getftr-a-discussion-with-librarians-on-access-integrity-and-collaboration/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61200</guid>
-    </item>    <item>
-      <title>Report: OpenAI Sued For Infringing OverDrive’s ‘Sora’ Trademark</title>
-      <link>https://www.infodocket.com/2025/11/20/report-openai-sued-for-infringing-overdrives-sora-trademark/</link>
-      <description>
-        <![CDATA[From Reuters: Digital library app maker OverDrive has sued OpenAI in Ohio federal court, alleging that the artificial intelligence startup&#8217;s Sora video-generation app violates its trademark rights in the &#8220;Sora&#8221; name. OverDrive said in a lawsuit,  filed on Wednesday that OpenAI&#8217;s app will cause consumer confusion with its own Sora app, which provides e-books and [&#8230;]]]>
-      </description>
-      <source:markdown>From Reuters: Digital library app maker OverDrive has sued OpenAI in Ohio federal court, alleging that the artificial intelligence startup’s Sora video-generation app violates its trademark rights in the “Sora” name. OverDrive said in a lawsuit,  filed on Wednesday that OpenAI’s app will cause consumer confusion with its own Sora app, which provides e-books and \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167357</guid>
-    </item>    <item>
-      <title>Voices Celebrating 1 Trillion Web Pages: Erin Malone on Designing Kodak’s First Web Site in 1994</title>
-      <link>https://blog.archive.org/2025/11/20/voices-celebrating-1-trillion-web-pages-erin-malone-on-designing-kodaks-first-web-site-in-1994/</link>
-      <description>
-        <![CDATA[Erin Malone, the user experience designer behind Kodak’s first website, looks back on the early web with the story of how she and a colleague built the company’s inaugural homepage [&#8230;]]]>
-      </description>
-      <source:markdown>Erin Malone, the user experience designer behind Kodak’s first website, looks back on the early web with the story of how she and a colleague built the company’s inaugural homepage \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=29637</guid>
-    </item>    <item>
-      <title>Jack Keefe Stories, by Ring Lardner</title>
-      <link>https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories</link>
-      <description>
-        <![CDATA[A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.]]>
-      </description>
-      <source:markdown>A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories/downloads/ring-lardner_jack-keefe-stories.epub?source=feed" length="1025356" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories</guid>
-    </item>    <item>
-      <title>How Institutions Can Offer Students a Liberal Arts and Sciences Education</title>
-      <link>https://sr.ithaka.org/blog/how-institutions-can-offer-students-a-liberal-arts-and-sciences-education/</link>
-      <description>
-        <![CDATA[<p>Our research shows that pursuing liberal educational experiences pays off. On average, students with greater exposure to liberal arts features achieve better academic outcomes without experiencing negative labor market returns. Since our findings are based on students enrolled in large public institutions, in this post we provide more targeted guidance on how to allocate their limited resources. To do so, we conducted additional analyses to examine whether the benefits of a liberal arts education vary across different groups of students.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/how-institutions-can-offer-students-a-liberal-arts-and-sciences-education/">How Institutions Can Offer Students a Liberal Arts and Sciences Education</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Our research shows that pursuing liberal educational experiences pays off. On average, students with greater exposure to liberal arts features achieve better academic outcomes without experiencing negative labor market returns. Since our findings are based on students enrolled in large public institutions, in this post we provide more targeted guidance on how to allocate their limited resources. To do so, we conducted additional analyses to examine whether the benefits of a liberal arts education vary across different groups of students.
-
-The post [How Institutions Can Offer Students a Liberal Arts and Sciences Education](https://sr.ithaka.org/blog/how-institutions-can-offer-students-a-liberal-arts-and-sciences-education/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=324013</guid>
-    </item>    <item>
-      <title>Authors Alliance: An Interview with Kate McCready (BTAA) and Charles Watkinson (UM) About the Big Ten Open Books Program</title>
-      <link>https://www.infodocket.com/2025/11/20/authors-alliance-an-interview-with-kate-mccready-btaa-and-charles-watkinson-um-about-the-big-ten-open-books-program/</link>
-      <description>
-        <![CDATA[Dave Hansen, Executive Director of the Authors Alliance, interviews Kate McCready (BTAA) and Charles Watkinson (University of Michigan Press) about the Big Ten Open Books Program that launched in  2023 and released a their second collection in August. From the Interview: Authors Alliance has had a longstanding interest in helping authors see their older books [&#8230;]]]>
-      </description>
-      <source:markdown>Dave Hansen, Executive Director of the Authors Alliance, interviews Kate McCready (BTAA) and Charles Watkinson (University of Michigan Press) about the Big Ten Open Books Program that launched in  2023 and released a their second collection in August. From the Interview: Authors Alliance has had a longstanding interest in helping authors see their older books \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167352</guid>
-    </item>    <item>
-      <title>Harvard Law School Library Releases First Complete Set of Digitized Nuremberg Trials Records</title>
-      <link>https://www.infodocket.com/2025/11/20/harvard-law-school-library-releases-first-complete-set-of-digitized-nuremberg-trials-records/</link>
-      <description>
-        <![CDATA[From Harvard Law School Beginning today, the Harvard Law School Library is making available online the first complete, fully searchable, digitized collection of official evidentiary documents and trial transcripts in English from all 13 Nuremberg Trials, at https://nuremberg.law.harvard.edu/. On the 80th anniversary of the beginning of the first trial on November 20, 1945, researchers, scholars, [&#8230;]]]>
-      </description>
-      <source:markdown>From Harvard Law School Beginning today, the Harvard Law School Library is making available online the first complete, fully searchable, digitized collection of official evidentiary documents and trial transcripts in English from all 13 Nuremberg Trials, at https://nuremberg.law.harvard.edu/. On the 80th anniversary of the beginning of the first trial on November 20, 1945, researchers, scholars, \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167347</guid>
-    </item>    <item>
-      <title>Reimagining Scholarly Publishing Workflow: A High-Level Map of What Changes Next</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/11/20/reimagining-scholarly-publishing-workflow-a-high-level-map-of-what-changes-next/</link>
-      <description>
-        <![CDATA[<p>Rather than just bolting on AI to existing publication workflows,there is a real opportunity to rethink and redesign them for human–AI collaboration. Some thoughts on what that looks like in practice.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/11/20/reimagining-scholarly-publishing-workflow-a-high-level-map-of-what-changes-next/">Reimagining Scholarly Publishing Workflow: A High-Level Map of What Changes Next</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Rather than just bolting on AI to existing publication workflows,there is a real opportunity to rethink and redesign them for human–AI collaboration. Some thoughts on what that looks like in practice.
-
-The post [Reimagining Scholarly Publishing Workflow: A High-Level Map of What Changes Next](https://scholarlykitchen.sspnet.org/2025/11/20/reimagining-scholarly-publishing-workflow-a-high-level-map-of-what-changes-next/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61256</guid>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Som Regional News Papers</title>
-        <dateCreated>11 Dec 25 08:58 -0800</dateCreated>
+        <dateCreated>14 Dec 25 11:05 -0800</dateCreated>
     </head>
     <body>
         <outline text="Desert Gazette Blog" type="rss" xmlUrl="https://desertgazette.com/blog/feed/" htmlUrl="https://desertgazette.com/blog,https://desertgazette.com/blog/feed/" url="https://desertgazette.com/blog/feed/"></outline>
