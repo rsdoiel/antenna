@@ -4,7 +4,7 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>14 Dec 25 11:05 -0800</lastBuildDate>
+    <lastBuildDate>14 Dec 25 12:17 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -31,6 +31,14 @@
       </description>
       <source:markdown>The National Lottery has confirmed that the winning €17m EuroMillions ticket was sold in Cavan.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1214/1548978-euromillions-cavan/</guid>
+    </item>    <item>
+      <title>14 rescued as trawler runs aground off Daingean Uí Chúis</title>
+      <link>https://www.rte.ie/news/regional/2025/1214/1548966-trawler-dingle/</link>
+      <description>
+        <![CDATA[A large trawler was driven onto rocks outside Cuan an Daingin. The trawler had been driven aground on rocks near Binn Bán beach, where weather conditions were extremely poor with rough sea conditions.]]>
+      </description>
+      <source:markdown>A large trawler was driven onto rocks outside Cuan an Daingin. The trawler had been driven aground on rocks near Binn Bán beach, where weather conditions were extremely poor with rough sea conditions.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/regional/2025/1214/1548966-trawler-dingle/</guid>
     </item>    <item>
       <title>Funeral told Mary Holt showed up for &#39;those most in need&#39;</title>
       <link>https://www.rte.ie/news/ireland/2025/1214/1548960-mary-holt-funeral/</link>
@@ -141,6 +149,15 @@ Ukrainian President Volodymyr Zelenskyy on Sunday voiced readiness to drop his c
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-09-2025-UN_Photo-SG_PBR.jpeg/image560x340cropped.jpg" length="29220" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/12/1166593</guid>
     </item>    <item>
+      <title>Dialogue is ‘not naïve – it’s necessary’ as global divisions deepen, UN Riyadh forum hears</title>
+      <link>https://news.un.org/feed/view/en/story/2025/12/1166594</link>
+      <description>
+        <![CDATA[The 11th Global Forum of the UN Alliance of Civilizations opened in Riyadh on Sunday with a blunt message for a world riven by distrust: dialogue is not a luxury – it’s a survival strategy.]]>
+      </description>
+      <source:markdown>The 11th Global Forum of the UN Alliance of Civilizations opened in Riyadh on Sunday with a blunt message for a world riven by distrust: dialogue is not a luxury – it’s a survival strategy.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-12-2025_SG_UNAOC2025.jpg/image560x340cropped.jpg" length="35466" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/12/1166594</guid>
+    </item>    <item>
       <title>Pope Leo calls for end to violence in Democratic Republic of Congo</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-calls-for-end-to-violence-democratic-republic-of-congo.html</link>
       <description>
@@ -165,7 +182,7 @@ Ukrainian President Volodymyr Zelenskyy on Sunday voiced readiness to drop his c
 [Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-with-mercy-forgiveness-flowers-can-bloom-even-in-prisons.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-with-mercy-forgiveness-flowers-can-bloom-even-in-prisons.html</guid>
     </item>    <item>
-      <title>Improvised explosives found near Bondi attack site</title>
+      <title>Bondi attack victims aged between 10 and 87, police say</title>
       <link>https://www.rte.ie/news/world/2025/1214/1548941-australia-bondi-beach/</link>
       <description>
         <![CDATA[Follow live developments as 12 people were killed and dozens wounded after two gunmen opened fire during a Jewish holiday event at Sydney's Bondi Beach.]]>
@@ -173,7 +190,7 @@ Ukrainian President Volodymyr Zelenskyy on Sunday voiced readiness to drop his c
       <source:markdown>Follow live developments as 12 people were killed and dozens wounded after two gunmen opened fire during a Jewish holiday event at Sydney&#39;s Bondi Beach.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1214/1548941-australia-bondi-beach/</guid>
     </item>    <item>
-      <title>LIVE UPDATES | World leaders condemn &#39;antisemitic terrorist attack&#39; at Hanukkah event in Australia</title>
+      <title>Live updates: Australian minister says 16 people killed in Hanukkah event shooting</title>
       <link>https://www.cbc.ca/news/world/livestory/hanukkah-shooting-bondi-beach-9.7015320?cmp=rss</link>
       <description>
         <![CDATA[<img src='https://i.cbc.ca/ais/296e7fd0-b97e-4834-943d-038c23fc5575,1765726972233/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A composite image showing a person tackling another person on the left, and police on a street on the right.' width='620' height='349' title='Footage circulating on social media, which has been verified by CBC News, shows a bystander tackling and disarming an armed man during a deadly attack at a Jewish holiday event at Sydney&apos;s Bondi Beach on Sunday. Australian officials hailed the man as a hero who potentially saved lives.'/><p></p>]]>
@@ -181,12 +198,12 @@ Ukrainian President Volodymyr Zelenskyy on Sunday voiced readiness to drop his c
       <source:markdown>![A composite image showing a person tackling another person on the left, and police on a street on the right.](https://i.cbc.ca/ais/296e7fd0-b97e-4834-943d-038c23fc5575,1765726972233/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)</source:markdown>
       <guid>cid://9.7015268</guid>
     </item>    <item>
-      <title>12 dead in shooting at Bondi Beach Hanukkah event</title>
+      <title>16 dead in shooting at Bondi Beach Hanukkah event</title>
       <link>https://www.rte.ie/news/world/2025/1214/1548936-bondi-beach-australia/</link>
       <description>
-        <![CDATA[Gunmen opened fire at a Jewish holiday celebration at Sydney's Bondi Beach, killing at least 11 people in what Australian officials described as a targeted anti-Semitic attack.]]>
+        <![CDATA[Gunmen opened fire at a Jewish holiday celebration at Sydney's Bondi Beach, killing at least 15 people, in what Australian officials described as a targeted anti-Semitic attack.]]>
       </description>
-      <source:markdown>Gunmen opened fire at a Jewish holiday celebration at Sydney&#39;s Bondi Beach, killing at least 11 people in what Australian officials described as a targeted anti-Semitic attack.</source:markdown>
+      <source:markdown>Gunmen opened fire at a Jewish holiday celebration at Sydney&#39;s Bondi Beach, killing at least 15 people, in what Australian officials described as a targeted anti-Semitic attack.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1214/1548936-bondi-beach-australia/</guid>
     </item>    <item>
       <title>Person of interest in custody in deadly Brown University shooting, police say</title>
@@ -258,12 +275,12 @@ Police in Rhode Island say they have a person of interest in custody as they inv
 In the annals of Royal Family history, 2025 will be remembered as the year the monarch took the virtually unprecedented step of stripping his younger brother of his titles and honours. But as much as the scandal surrounding the former prince now known only as Andrew Mountbatten-Windsor garnered headlines, there were other notable moments this year that sent signals about the monarchy and its future.</source:markdown>
       <guid>cid://9.7013964</guid>
     </item>    <item>
-      <title>&#39;Significant&#39; rain expected amid orange, yellow warnings</title>
+      <title>&#39;Spells of heavy rain&#39; while yellow warnings in place</title>
       <link>https://www.rte.ie/news/ireland/2025/1214/1548929-rain-weather-warning/</link>
       <description>
-        <![CDATA[Met Éireann has issued Status Orange and Yellow weather warnings for heavy rain and flooding that impacts several counties.]]>
+        <![CDATA[Met Éireann's Status Yellow rain warnings remain in place for 13 counties, bringing spells of heavy rain and increased flood risk.]]>
       </description>
-      <source:markdown>Met Éireann has issued Status Orange and Yellow weather warnings for heavy rain and flooding that impacts several counties.</source:markdown>
+      <source:markdown>Met Éireann&#39;s Status Yellow rain warnings remain in place for 13 counties, bringing spells of heavy rain and increased flood risk.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1214/1548929-rain-weather-warning/</guid>
     </item>    <item>
       <title>Person arrested after two die in US university shooting</title>
@@ -744,6 +761,20 @@ A U.S. Navy admiral who oversees military operations in Latin America handed off
       </description>
       <source:markdown>Secondary school teacher Enoch Burke has failed to stop a hearing into his dismissal from going ahead tomorrow.</source:markdown>
       <guid>cid://https://www.rte.ie/news/courts/2025/1212/1548768-enoch-burke-fails-to-halt-hearing-into-dismissal/</guid>
+    </item>    <item>
+      <title>Will ‘Trump Accounts’ make U.S. kids $1 million by age 28? | About That</title>
+      <link>https://www.cbc.ca/player/play/9.7014284?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/47666c44-fcca-423d-acba-0c12e27cee1b,1765578779687/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='U.S. President Donald Trump.' width='620' height='349' title='U.S. President Donald Trump.'/><p>American babies born during U.S. President Donald Trump's second term are set to receive $1,000: a gift of seed money that the government says — if contributed to maximally — will yield a return of more than $1 million by the time those children turn 28. Andrew Chang does the math to calculate the extent to which this could actually be possible and fact-checks the claim that Trump Accounts will 'jumpstart the American dream.'
+        
+        Images provided by The Canadian Press, Reuters and Getty Images</p>]]>
+      </description>
+      <source:markdown>![U.S. President Donald Trump.](https://i.cbc.ca/ais/47666c44-fcca-423d-acba-0c12e27cee1b,1765578779687/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)
+
+American babies born during U.S. President Donald Trump&#39;s second term are set to receive $1,000: a gift of seed money that the government says — if contributed to maximally — will yield a return of more than $1 million by the time those children turn 28. Andrew Chang does the math to calculate the extent to which this could actually be possible and fact-checks the claim that Trump Accounts will &#39;jumpstart the American dream.&#39;
+
+Images provided by The Canadian Press, Reuters and Getty Images</source:markdown>
+      <guid>cid://9.7014284</guid>
     </item>    <item>
       <title>Feeling lonely? Stop by a Grandma Stand for a heartfelt chat</title>
       <link>https://www.cbc.ca/radio/asithappens/grandma-stand-9.7014268?cmp=rss</link>
