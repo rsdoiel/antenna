@@ -4,10 +4,29 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>14 Dec 25 12:17 -0800</lastBuildDate>
+    <lastBuildDate>19 Dec 25 09:04 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Universities as Internet Service Providers (ISPs), an Interview with Stephen Wolfson</title>
+      <link>https://www.authorsalliance.org/2025/12/17/universities-as-internet-service-providers-isps-an-interview-with-stephen-wolfson/</link>
+      <description>
+        <![CDATA[In Cox v. Sony, a jury found internet service provider Cox Communications liable for contributory and vicarious copyright infringement after [&#8230;]]]>
+      </description>
+      <source:markdown>In Cox v. Sony, a jury found internet service provider Cox Communications liable for contributory and vicarious copyright infringement after \[…\]</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12444</guid>
+    </item>    <item>
+      <title>Personality Typologies</title>
+      <link>https://johnaugust.com/2025/personality-typologies</link>
+      <description>
+        <![CDATA[<p>John and Craig welcome back screenwriter Mike Makowsky (Death by Lightning, Bad Education) to ask, how do you dramatize a historical event that no one’s heard of? They look at the dramatic engine behind the Garfield assassination, the long journey Death by Lightning had to getting made, and the importance of finding great stories in [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2025/personality-typologies">Personality Typologies</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>John and Craig welcome back screenwriter Mike Makowsky (Death by Lightning, Bad Education) to ask, how do you dramatize a historical event that no one’s heard of? They look at the dramatic engine behind the Garfield assassination, the long journey Death by Lightning had to getting made, and the importance of finding great stories in \[…\]
+
+The post [Personality Typologies](https://johnaugust.com/2025/personality-typologies) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=23688</guid>
+    </item>    <item>
       <title>What is Happening with the Register of Copyrights?</title>
       <link>https://www.authorsalliance.org/2025/12/11/what-is-happening-with-the-register-of-copyrights/</link>
       <description>
@@ -115,26 +134,6 @@ The post [Three Page Challenge Live in Austin 2025](https://johnaugust.com/2025/
       </description>
       <source:markdown>We’re very happy to announce the release of the third white paper in our Legal Pathways to Open Access series! \[…\]</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12365</guid>
-    </item>    <item>
-      <title>Your First Produced Film</title>
-      <link>https://johnaugust.com/2025/your-first-produced-film</link>
-      <description>
-        <![CDATA[<p>John welcomes Danya Jimenez &#38; Hannah McMechan, the writing team behind KPop Demon Hunters, to chart their path from film school to first feature. They look at navigating early career difficulties like finding your voice and trying to get reps, their method of building a writing partnership, and how a bad pitch led them to [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/your-first-produced-film">Your First Produced Film</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John welcomes Danya Jimenez &#38; Hannah McMechan, the writing team behind KPop Demon Hunters, to chart their path from film school to first feature. They look at navigating early career difficulties like finding your voice and trying to get reps, their method of building a writing partnership, and how a bad pitch led them to \[…\]
-
-The post [Your First Produced Film](https://johnaugust.com/2025/your-first-produced-film) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/713standard.mp3" length="61051164" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23608</guid>
-    </item>    <item>
-      <title>The Public Interest Corpus Update – Oakland Edition</title>
-      <link>https://www.authorsalliance.org/2025/11/24/the-public-interest-corpus-update-oakland-edition/</link>
-      <description>
-        <![CDATA[The Public Interest Corpus recently completed the last of three planning workshops. The final workshop was hosted at the University [&#8230;]]]>
-      </description>
-      <source:markdown>The Public Interest Corpus recently completed the last of three planning workshops. The final workshop was hosted at the University \[…\]</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12347</guid>
     </item>
   </channel>
 </rss>

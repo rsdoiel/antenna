@@ -7,10 +7,21 @@
       Commics and Graphic Novel sites on the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/comics.xml</link>
-    <lastBuildDate>14 Dec 25 12:17 -0800</lastBuildDate>
+    <lastBuildDate>19 Dec 25 09:04 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>My Dog: The Paradox - Film premiere</title>
+      <link>http://theoatmeal.com/blog/dog_paradox_premiere?no_popup=1</link>
+      <description>
+        <![CDATA[<a href="http://theoatmeal.com/blog/dog_paradox_premiere?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/dog_paradox_premiere_big.png" alt="My Dog: The Paradox - Film premiere" class="border0" /></a><p>You're invited to the premiere of my first animated film.</p><a href="http://theoatmeal.com/blog/dog_paradox_premiere?no_popup=1">View on my website</a><br /><br />]]>
+      </description>
+      <source:markdown>[![My Dog: The Paradox - Film premiere](https://s3.amazonaws.com/theoatmeal-img/thumbnails/dog_paradox_premiere_big.png)](http://theoatmeal.com/blog/dog_paradox_premiere?no_popup=1)
+
+You&#39;re invited to the premiere of my first animated film.
+
+ [View on my website](http://theoatmeal.com/blog/dog_paradox_premiere?no_popup=1)</source:markdown>
+    </item>    <item>
       <title>For anyone who is struggling</title>
       <link>http://theoatmeal.com/blog/demodex?no_popup=1</link>
       <description>
