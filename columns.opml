@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>19 Dec 25 09:04 -0800</dateCreated>
+        <dateCreated>23 Dec 25 05:49 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -286,7 +286,7 @@
         <outline text="Stephen Smith&#39;s blog" type="rss" xmlUrl="https://smist08.wordpress.com/feed/" htmlUrl="https://smist08.wordpress.com,https://smist08.wordpress.com/feed/" description="Musings on Machine Learning..." url="https://smist08.wordpress.com/feed/"></outline>
         <outline text="Steve Francia (spf13) blog" type="rss" xmlUrl="https://spf13.com/index.xml" htmlUrl="https://spf13.com/,https://spf13.com/index.xml" description="Recent content on spf13" url="https://spf13.com/index.xml"></outline>
         <outline text="Steve Sounders blog" type="rss" xmlUrl="https://www.stevesouders.com/blog/feed/" htmlUrl="https://www.stevesouders.com/blog,https://www.stevesouders.com/blog/feed/" description="Essential knowledge for making your web pages faster." url="https://www.stevesouders.com/blog/feed/"></outline>
-        <outline text="Strength in Numbere" type="rss" xmlUrl="https://www.gelliottmorris.com/feed" htmlUrl="https://www.gelliottmorris.com,https://www.gelliottmorris.com/feed" description="Independent, data-driven analysis of politics, public opinion, and elections. A place for thinking smarter with data. " url="https://www.gelliottmorris.com/feed"></outline>
+        <outline text="Strength in Numbere" type="rss" xmlUrl="https://www.gelliottmorris.com/feed" htmlUrl="https://www.gelliottmorris.com,https://www.gelliottmorris.com/feed" description="Independent, data-driven analysis of politics, public opinion, and elections. Evidence, not spin. Learn what the data really says." url="https://www.gelliottmorris.com/feed"></outline>
         <outline text="Stu Maschwitz blog" type="rss" xmlUrl="https://prolost.com/blog?format=rss" htmlUrl="https://prolost.com/" description="&lt;p&gt;Filmmaking with your nerd out.&lt;/p&gt;"></outline>
         <outline text="Stubbornella Blog" type="rss" xmlUrl="https://www.stubbornella.org/feed/" htmlUrl="https://www.stubbornella.org,https://www.stubbornella.org/feed/" description="Nicole Sullivan" url="https://www.stubbornella.org/feed/"></outline>
         <outline text="System76 Blog" type="rss" xmlUrl="https://blog.system76.com/rss.xml" htmlUrl="https://blog.system76.com/rss.xml" description="System76 Blog RSS Feed"></outline>
@@ -317,6 +317,7 @@
         <outline text="VoxPopuLII blog (legal informatics and open access)" type="rss" xmlUrl="https://blog.law.cornell.edu/voxpop/feed/" htmlUrl="https://blog.law.cornell.edu/voxpop,https://blog.law.cornell.edu/voxpop/feed/" description="New voices in legal information" url="https://blog.law.cornell.edu/voxpop/feed/"></outline>
         <outline text="W. Kamau Bell blog" type="rss" xmlUrl="http://www.wkamaubell.com/blog?format=rss" htmlUrl="http://www.wkamaubell.com/blog/"></outline>
         <outline text="Wait but why blog" type="rss" xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com/,https://waitbutwhy.com/feed" url="https://waitbutwhy.com/feed"></outline>
+        <outline text="Waterfox blog" type="rss" xmlUrl="https://www.waterfox.com/rss.xml" htmlUrl="https://www.waterfox.com/" description="Combined feed of Waterfox blog posts and release notes."></outline>
         <outline text="We&#39;re History" type="rss" xmlUrl="https://werehistory.org/feed/" htmlUrl="https://werehistory.org,https://werehistory.org/feed/" url="https://werehistory.org/feed/"></outline>
         <outline text="Web Dev blog" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml" htmlUrl="https://web.dev/blog/" description="All of web.dev&#39;s blog posts."></outline>
         <outline text="Web Recorder" type="rss" xmlUrl="https://webrecorder.net/feed.xml" htmlUrl="https://webrecorder.net/" description="What&#39;s new in the world of web archiving"></outline>

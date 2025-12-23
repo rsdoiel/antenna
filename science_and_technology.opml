@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Science and Technology</title>
-        <dateCreated>19 Dec 25 09:04 -0800</dateCreated>
+        <dateCreated>23 Dec 25 05:49 -0800</dateCreated>
     </head>
     <body>
         <outline text="Caltech Magazine" type="rss" xmlUrl="https://magazine.caltech.edu/index?format=rss" htmlUrl="https://magazine.caltech.edu/"></outline>
