@@ -4,10 +4,18 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>19 Dec 25 08:12 -0800</lastBuildDate>
+    <lastBuildDate>23 Dec 25 05:48 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Back-of-the-Envelope Math on What Payouts We May See in the Bartz v. Anthropic Settlement</title>
+      <link>https://www.authorsalliance.org/2025/12/19/back-of-the-envelope-math-on-what-payouts-we-may-see-in-the-bartz-v-anthropic-settlement/</link>
+      <description>
+        <![CDATA[Now that the Bartz settlement has passed some initial judicial hurdles and is moving along, with important deadlines approaching (opt-out [&#8230;]]]>
+      </description>
+      <source:markdown>Now that the Bartz settlement has passed some initial judicial hurdles and is moving along, with important deadlines approaching (opt-out \[…\]</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12452</guid>
+    </item>    <item>
       <title>Universities as Internet Service Providers (ISPs), an Interview with Stephen Wolfson</title>
       <link>https://www.authorsalliance.org/2025/12/17/universities-as-internet-service-providers-isps-an-interview-with-stephen-wolfson/</link>
       <description>
@@ -126,14 +134,6 @@ The post [Three Page Challenge Live in Austin 2025](https://johnaugust.com/2025/
       </description>
       <source:markdown>This past year, Authors Alliance continued to work to ensure that the voices of authors who write to advance the \[…\]</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12360</guid>
-    </item>    <item>
-      <title>New Whitepaper: A Thorny Question In Copyright</title>
-      <link>https://www.authorsalliance.org/2025/12/01/new-whitepaper-a-thorny-question-in-copyright/</link>
-      <description>
-        <![CDATA[We’re very happy to announce the release of the third white paper in our Legal Pathways to Open Access series! [&#8230;]]]>
-      </description>
-      <source:markdown>We’re very happy to announce the release of the third white paper in our Legal Pathways to Open Access series! \[…\]</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12365</guid>
     </item>
   </channel>
 </rss>
