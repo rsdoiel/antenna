@@ -17,6 +17,7 @@ title: North America
 - [CBC, Top Stories](https://www.cbc.ca/webfeed/rss/rss-topstories)
 - [CBC, Canada News](https://www.cbc.ca/webfeed/rss/rss-canada)
 - [CBC, Indigenious News](https://www.cbc.ca/webfeed/rss/rss-Indigenous)
+- [CBC, World News](https://www.cbc.ca/webfeed/rss/rss-world)
 - [BBC, US & Canada](http://feeds.bbci.co.uk/news/rss.xml?edition=us)
 
 # Non-profit Journalism

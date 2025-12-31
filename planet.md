@@ -12,9 +12,9 @@ title: Planet News
 - [United Nations, Economic Development](https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml)
 - [United Nations, Culture and Education](https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml)
 
-# Canadian Broadcasting Corporation
+# BBC World service for North America
 
-- [CBC, World News](https://www.cbc.ca/webfeed/rss/rss-world)
+- [BBC, US & Canada](http://feeds.bbci.co.uk/news/rss.xml?edition=us)
 
 # RTÉ, Raidió Teilifís Éireann (the Irish public broadcasting organization)
 
@@ -24,7 +24,7 @@ title: Planet News
 
 - [PBS World Podcast](https://www.pbs.org/newshour/feeds/rss/podcasts/world)
 
-# European Uniln
+# European Union
 
 
 # Vatican

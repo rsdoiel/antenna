@@ -4,10 +4,137 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>30 Dec 25 16:11 -0800</lastBuildDate>
+    <lastBuildDate>31 Dec 25 11:28 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>European Space Agency hit again as cybercrims claim 200 GB data up for sale</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/</link>
+      <description>
+        <![CDATA[<h4>As in past incidents, ESA says the impact was limited to external systems</h4> <p>The European Space Agency has suffered yet another security incident and, in keeping with past practice, says the impact is limited. Meanwhile, miscreants boast that they&#39;ve made off with a trove of data, including what they claim are confidential documents, credentials, and source code.…</p>]]>
+      </description>
+      <source:markdown>#### As in past incidents, ESA says the impact was limited to external systems
+
+The European Space Agency has suffered yet another security incident and, in keeping with past practice, says the impact is limited. Meanwhile, miscreants boast that they&#39;ve made off with a trove of data, including what they claim are confidential documents, credentials, and source code.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243761</guid>
+    </item>    <item>
+      <title>Lewis Carroll&#39;s Personal Copy of &#39;Alice&#39;s Adventures in Wonderland&#39; Returns to its &#39;Spiritual Home&#39; in Oxford</title>
+      <link>https://www.smithsonianmag.com/smart-news/lewis-carrolls-personal-copy-of-alices-adventures-in-wonderland-returns-to-its-spiritual-home-in-oxford-180987910/</link>
+      <description>
+        <![CDATA[The book has been donated jointly to Christ Church and the Bodleian Library, which are both part of the University of Oxford]]>
+      </description>
+      <source:markdown>The book has been donated jointly to Christ Church and the Bodleian Library, which are both part of the University of Oxford</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Den1Ctpwh4MH9VGBWi6CPM8xK28=/420x240/filters:focal(512x429:513x430)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/f2/72f24795-e5c2-47cc-a3cf-327f84f8a752/alice-1024x855.webp" length="" type="" />
+    </item>    <item>
+      <title>IPv6 just turned 30 and still hasn’t taken over the world, but don&#39;t call it a failure</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/ipv6_at_30/</link>
+      <description>
+        <![CDATA[<h4>The world has passed it by in many ways, yet it remains relevant</h4> <p><strong>Feature</strong>  In the early 1990s, internetworking wonks realized the world was not many years away from running out of Internet Protocol version 4 (IPv4) addresses, the numbers needed to identify any device connected to the public internet. Noting booming interest in the internet, the internet community went looking for ways to avoid an IP address shortage that many feared would harm technology adoption and therefore the global economy.…</p>]]>
+      </description>
+      <source:markdown>#### The world has passed it by in many ways, yet it remains relevant
+
+**Feature**  In the early 1990s, internetworking wonks realized the world was not many years away from running out of Internet Protocol version 4 (IPv4) addresses, the numbers needed to identify any device connected to the public internet. Noting booming interest in the internet, the internet community went looking for ways to avoid an IP address shortage that many feared would harm technology adoption and therefore the global economy.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243684</guid>
+    </item>    <item>
+      <title>How Do These ADHD Medications Work in the Brain? The Mechanisms Are Different Than Once Thought, a Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-do-these-adhd-medications-work-in-the-brain-the-mechanisms-are-different-than-once-thought-a-study-suggests-180987932/</link>
+      <description>
+        <![CDATA[Adderall, Ritalin and other stimulants prescribed for attention-deficit/hyperactivity disorder seem to work on brain areas involved with wakefulness and reward, rather than attention]]>
+      </description>
+      <source:markdown>Adderall, Ritalin and other stimulants prescribed for attention-deficit/hyperactivity disorder seem to work on brain areas involved with wakefulness and reward, rather than attention</source:markdown>
+      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/4a/3d4a3862-f8fd-4c75-a651-051e7c288a4d/brain_small_700x525_web.gif" length="" type="" />
+    </item>    <item>
+      <title>The Louvre Installs Metal Security Bars on Window Used During $102M Jewel Heist</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-louvre-installs-metal-security-bars-on-window-used-during-102m-jewel-heist-180987935/</link>
+      <description>
+        <![CDATA[The Paris institution, the busiest museum in the world, is also making other security upgrades]]>
+      </description>
+      <source:markdown>The Paris institution, the busiest museum in the world, is also making other security upgrades</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TRlvGDXm1lkT5Wh_zIrCjg0qAwQ=/420x240/filters:focal(4320x2880:4321x2881)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/c5/d4c57dbe-24f2-4a5b-bc7c-7ca3133052e8/gettyimages-2252619449.jpg" length="" type="" />
+    </item>    <item>
+      <title>Everybody has a theory about why Nvidia dropped $20B on Groq - they&#39;re mostly wrong</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/groq_nvidia_analysis/</link>
+      <description>
+        <![CDATA[<h4><i>El Reg</i> speculates about what GPUzilla really gets out of the deal</h4> <p>This summer, AI chip startup Groq raised $750 million at a valuation of $6.9 billion. Just three months later, Nvidia celebrated the holidays by dropping nearly three times that to license its technology and squirrel away its talent.…</p>]]>
+      </description>
+      <source:markdown>#### _El Reg_ speculates about what GPUzilla really gets out of the deal
+
+This summer, AI chip startup Groq raised $750 million at a valuation of $6.9 billion. Just three months later, Nvidia celebrated the holidays by dropping nearly three times that to license its technology and squirrel away its talent.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243757</guid>
+    </item>    <item>
+      <title>The most durable tech is boring, old, and everywhere</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/long_lived_tech/</link>
+      <description>
+        <![CDATA[<h4>From COBOL and C to Linux and SQL, the unglamorous software that keeps the world running refuses to disappear</h4> <p><strong>Opinion</strong>  COBOL turned 66 this year and is still in use today. Major retail and commercial banks continue to run core account processing, ATM networks, credit card clearing, and batch end-of-day settlement. On top of that, many payment networks, stock exchanges, and clearinghouses rely on COBOL for high‑volume, high‑reliability batch and online transaction processing on mainframes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### From COBOL and C to Linux and SQL, the unglamorous software that keeps the world running refuses to disappear
+
+**Opinion**  COBOL turned 66 this year and is still in use today. Major retail and commercial banks continue to run core account processing, ATM networks, credit card clearing, and batch end-of-day settlement. On top of that, many payment networks, stock exchanges, and clearinghouses rely on COBOL for high‑volume, high‑reliability batch and online transaction processing on mainframes.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243656</guid>
+    </item>    <item>
+      <title>Science In 2025 Took A Hit. What Does It Mean?</title>
+      <link>https://www.npr.org/2025/12/31/nx-s1-5647420/science-research-funding-cuts-health</link>
+      <description>
+        <![CDATA[<p dir="ltr"><p dir="ltr">Science in the United States took some big hits this year. The Trump Administration disrupted federal funding for all kinds of scientific pursuits. Administration officials say those changes were a step towards reinvigorating federal agencies like the National Institutes of Health. But many scientists disagree. NPR health and science correspondents <a href="https://www.npr.org/people/146944972/rob-stein"target="_blank"   >Rob Stein</a> and<a href="https://www.npr.org/people/1128948946/katia-riddle"target="_blank"   > Katia Riddle</a> chat with host <a href="https://www.npr.org/people/767284140/emily-kwong"target="_blank"   >Emily Kwong</a> about what these cuts could mean for the future of science.<p dir="ltr"><em>Interested in more stories on the future of science? Email us your question at <a href="mailto:shortwave@npr.org"target="_blank"   >shortwave@npr.org</a>.</em><p dir="ltr"><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Science in the United States took some big hits this year. The Trump Administration disrupted federal funding for all kinds of scientific pursuits. Administration officials say those changes were a step towards reinvigorating federal agencies like the National Institutes of Health. But many scientists disagree. NPR health and science correspondents [Rob Stein](https://www.npr.org/people/146944972/rob-stein) and [Katia Riddle](https://www.npr.org/people/1128948946/katia-riddle) chat with host [Emily Kwong](https://www.npr.org/people/767284140/emily-kwong) about what these cuts could mean for the future of science.
+
+_Interested in more stories on the future of science? Email us your question at [shortwave@npr.org](mailto:shortwave@npr.org)._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave)._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR9252731991.mp3?t=podcast&e=nx-s1-5647420&p=510351&d=796&size=12747382" length="12747382" type="audio/mpeg" />
+      <guid>cid://8f0eba78-2043-4639-a5bd-f7ab5f003846</guid>
+    </item>    <item>
+      <title>Hong Kong’s newest anti-scam technology is over-the-counter banking</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/hong_kong_antiscam_money_safe/</link>
+      <description>
+        <![CDATA[<h4>Funds in ‘Money Safe’ accounts are only available when customers appear for face-to-face verification</h4> <p>Hong Kong’s banks have a new weapon against scams: Accounts that require customers to visit a branch to access their funds.…</p>]]>
+      </description>
+      <source:markdown>#### Funds in ‘Money Safe’ accounts are only available when customers appear for face-to-face verification
+
+Hong Kong’s banks have a new weapon against scams: Accounts that require customers to visit a branch to access their funds.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243759</guid>
+    </item>    <item>
+      <title>2026 AAS Town Hall Schedule</title>
+      <link>https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/</link>
+      <description>
+        <![CDATA[247th American Astronomical Society (AAS) Meeting SATURDAY, JANUARY 3 8:30AM – 6:0PM  NASA’s Exoplanet Exploration Program Analysis Group (ExoPAG) 301DJosh Pepper, Dawn Gelino, Karl Stapelfeldt, Nick Siegler, Jessie Christiansen SUNDAY, JANUARY 4 8:30AM – 12:15PM  NASA’s Exoplanet Exploration Program Analysis Group (ExoPAG) 301D9:00AM – 2:00PMNASA’s Cosmic Origins Program Analysis Group (COPAG)Peter Kurczynski7:30PM – 9:30PM  NASA’s […]]]>
+      </description>
+      <source:markdown>247th American Astronomical Society (AAS) Meeting SATURDAY, JANUARY 3 8:30AM – 6:0PM  NASA’s Exoplanet Exploration Program Analysis Group (ExoPAG) 301DJosh Pepper, Dawn Gelino, Karl Stapelfeldt, Nick Siegler, Jessie Christiansen SUNDAY, JANUARY 4 8:30AM – 12:15PM  NASA’s Exoplanet Exploration Program Analysis Group (ExoPAG) 301D9:00AM – 2:00PMNASA’s Cosmic Origins Program Analysis Group (COPAG)Peter Kurczynski7:30PM – 9:30PM  NASA’s \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/</guid>
+    </item>    <item>
+      <title>Cybersecurity pros admit to moonlighting as ransomware scum</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/alphv_ransomware_affiliates_plead_guilty/</link>
+      <description>
+        <![CDATA[<h4>Pair became ALPHV affiliates to prey on US-based clients</h4> <p>A ransomware negotiator and a security incident response manager have admitted to running ransomware attacks.…</p>]]>
+      </description>
+      <source:markdown>#### Pair became ALPHV affiliates to prey on US-based clients
+
+A ransomware negotiator and a security incident response manager have admitted to running ransomware attacks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243758</guid>
+    </item>    <item>
+      <title>2026 AAS Hyperwall Schedule</title>
+      <link>https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/</link>
+      <description>
+        <![CDATA[247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401 for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe […]]]>
+      </description>
+      <source:markdown>247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401 for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/</guid>
+    </item>    <item>
+      <title>New York’s incoming mayor bans Raspberry Pi at his inauguration party</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/</link>
+      <description>
+        <![CDATA[<h4>Zohran Mamdani appears not to understand that smartphones can be used for evil</h4> <p>New York’s mayor-elect Zohran Mamdani has invited the city’s residents to join him at a block party to celebrate his inauguration but told attendees not to bring a Raspberry Pi single-board computer to the event.…</p>]]>
+      </description>
+      <source:markdown>#### Zohran Mamdani appears not to understand that smartphones can be used for evil
+
+New York’s mayor-elect Zohran Mamdani has invited the city’s residents to join him at a block party to celebrate his inauguration but told attendees not to bring a Raspberry Pi single-board computer to the event.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243756</guid>
+    </item>    <item>
       <title>ServiceNow lays out possible co-CEO structure, but says no change imminent</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/12/30/servicenow_outlines_coceo_structure/</link>
       <description>
@@ -200,9 +327,9 @@ South Korea’s Ministry of Science and ICT has found that local carrier Korea T
       <title>The Earth Observer: Offering Perspectives from Space through Time</title>
       <link>https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/</link>
       <description>
-        <![CDATA[An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for more than 36 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth […]]]>
+        <![CDATA[An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for nearly 37 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth Observer prepares […]]]>
       </description>
-      <source:markdown>An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for more than 36 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth \[…\]</source:markdown>
+      <source:markdown>An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for nearly 37 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth Observer prepares \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/</guid>
     </item>    <item>
       <title>Nvidia spends $5B on Intel bailout, instantly gets $2.5B richer</title>
@@ -218,9 +345,9 @@ Nvidia’s $5 billion Intel stock purchase is already worth $7.58 billion, turni
       <title>Terra: The End of An Era</title>
       <link>https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/</link>
       <description>
-        <![CDATA[Introduction Launched into the night sky nearly 26 years ago, on Dec. 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations useful […]]]>
+        <![CDATA[Introduction Launched into the night sky more than 26 years ago, on Dec. 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations […]]]>
       </description>
-      <source:markdown>Introduction Launched into the night sky nearly 26 years ago, on Dec. 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations useful \[…\]</source:markdown>
+      <source:markdown>Introduction Launched into the night sky more than 26 years ago, on Dec. 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/</guid>
     </item>    <item>
       <title>The Final Earth Observer Editor’s Corner: October–December 2025</title>
