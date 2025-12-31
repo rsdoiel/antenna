@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>30 Dec 25 16:32 -0800</lastBuildDate>
+    <lastBuildDate>31 Dec 25 11:01 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,64 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/12/31.html#a154556</link>
+      <description>
+        <![CDATA[If you've had trouble unsubscribing from the <a href="https://subscribe.scripting.com/">nightly email</a>, I fixed a big problem there this morning, so please try again. If the problem persists, here's a <a href="https://github.com/scripting/mailList/issues/1">place</a> to report.]]>
+      </description>
+      <source:markdown>If you&#39;ve had trouble unsubscribing from the [nightly email](https://subscribe.scripting.com/), I fixed a big problem there this morning, so please try again. If the problem persists, here&#39;s a [place](https://github.com/scripting/mailList/issues/1) to report.</source:markdown>
+      <guid>cid://http://scripting.com/2025/12/31.html#a154556</guid>
+    </item>    <item>
+      <link>https://wapo.st/44QrP5j</link>
+      <description>
+        <![CDATA[<p>ICE plans $100 million recruitment push targeting gun shows, military fans.</p>]]>
+      </description>
+      <source:markdown>ICE plans $100 million recruitment push targeting gun shows, military fans.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/12/31/2334/</guid>
+    </item>    <item>
+      <title>LinkedIn Job Scams</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html</link>
+      <description>
+        <![CDATA[<p>Interesting <a href="https://restofworld.org/2025/linkedin-job-scams/">article</a> on the variety of LinkedIn job scams around the world:</p>
+        <blockquote><p>In India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis...</p></blockquote>]]>
+      </description>
+      <source:markdown>Interesting [article](https://restofworld.org/2025/linkedin-job-scams/) on the variety of LinkedIn job scams around the world:
+
+&#62; In India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=71401</guid>
+    </item>    <item>
+      <title>December 30, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/december-30-2025</link>
+      <description>
+        <![CDATA[The hallmark of the first year of President Donald J.]]>
+      </description>
+      <source:markdown>The hallmark of the first year of President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/december-30-2025</guid>
+    </item>    <item>
+      <title>Thank you</title>
+      <link>https://robertreich.substack.com/p/thank-you</link>
+      <description>
+        <![CDATA[With your help, America survived 2025. We&#8217;ll do even better in 2026.]]>
+      </description>
+      <source:markdown>With your help, America survived 2025. We’ll do even better in 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!V1vD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd6a2f2-2ab5-4684-a8de-c5333f20e683_2695x3500.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/thank-you</guid>
+    </item>    <item>
+      <title>On the Scariest Roller Coaster Ever Built</title>
+      <link>https://doc.searls.com/2025/12/30/on-the-scariest-roller-coaster-ever-built/</link>
+      <description>
+        <![CDATA[I just discovered that the original Cyclone roller coaster at Palisades Amusement Park has its own Wikipedia article, and that the two photos in it are ones I posted on Flickr in 2008 with a permissive license that encouraged re-use. Above is the first. Here is the second: George W. Searls, at the bottom of [&#8230;]]]>
+      </description>
+      <source:markdown>I just discovered that the original Cyclone roller coaster at Palisades Amusement Park has its own Wikipedia article, and that the two photos in it are ones I posted on Flickr in 2008 with a permissive license that encouraged re-use. Above is the first. Here is the second: George W. Searls, at the bottom of \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=20116</guid>
+    </item>    <item>
+      <title>Wednesday 31 December, 2025</title>
+      <link>https://memex.naughtons.org/wednesday-31-december-2025/41531/</link>
+      <description>
+        <![CDATA[Who you lookin’ at, mister Brancaster Staithe, Norfolk. Quote of the Day ”I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they&#8217;ve always worked for me.” Hunter S. Thompson Musical alternative to the morning’s radio news Bob &#8230; <a href="https://memex.naughtons.org/wednesday-31-december-2025/41531/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Who you lookin’ at, mister Brancaster Staithe, Norfolk. Quote of the Day ”I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they’ve always worked for me.” Hunter S. Thompson Musical alternative to the morning’s radio news Bob … [Continue reading →](https://memex.naughtons.org/wednesday-31-december-2025/41531/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=41531</guid>
     </item>    <item>
       <title>Quoting Armin Ronacher</title>
       <link>https://simonwillison.net/2025/Dec/30/armin-ronacher/#atom-everything</link>
