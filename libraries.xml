@@ -4,10 +4,36 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>25 Dec 25 07:21 -0800</lastBuildDate>
+    <lastBuildDate>30 Dec 25 16:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Our Baseball Club and How It Won the Championship, by Noah Brooks</title>
+      <link>https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship</link>
+      <description>
+        <![CDATA[A late-19th century Illinois baseball team journeys to compete for the championship.]]>
+      </description>
+      <source:markdown>A late-19th century Illinois baseball team journeys to compete for the championship.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship/downloads/noah-brooks_our-baseball-club-and-how-it-won-the-championship.epub?source=feed" length="924064" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship</guid>
+    </item>    <item>
+      <title>The Outlaw of Torn, by Edgar Rice Burroughs</title>
+      <link>https://standardebooks.org/ebooks/edgar-rice-burroughs/the-outlaw-of-torn</link>
+      <description>
+        <![CDATA[A powerful knight terrorizes the aristocracy and protects the poor in 13th century England.]]>
+      </description>
+      <source:markdown>A powerful knight terrorizes the aristocracy and protects the poor in 13th century England.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-outlaw-of-torn/downloads/edgar-rice-burroughs_the-outlaw-of-torn.epub?source=feed" length="675066" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/the-outlaw-of-torn</guid>
+    </item>    <item>
+      <title>Tintin, The Wayback Machine, and The Public Domain</title>
+      <link>https://blog.archive.org/2025/12/26/wayback-machine-and-public-domain-research/</link>
+      <description>
+        <![CDATA[What do a Belgian boy reporter, a forgotten 2008 webpage, and the Wayback Machine have in common? They all played a role in uncovering Tintin the Belgian detective’s earliest adventures [&#8230;]]]>
+      </description>
+      <source:markdown>What do a Belgian boy reporter, a forgotten 2008 webpage, and the Wayback Machine have in common? They all played a role in uncovering Tintin the Belgian detective’s earliest adventures \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=29676</guid>
+    </item>    <item>
       <title>Hibernating Until Next Year</title>
       <link>https://scholarlykitchen.sspnet.org/2025/12/24/hibernating-until-next-year/</link>
       <description>
@@ -1446,151 +1472,6 @@ With the exception of recent changes to affiliation metadata, we’ve primarily 
 
 Our goal is to create a more robust, modern metadata framework that better serves the scholarly community while reducing the maintenance burden that comes with supporting decades of schema versions. Stay tuned for more details on timelines and migration paths. In the meantime, if you’re unsure which schema version you’re using, we encourage you to check your current implementation.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/its-time-planning-for-metadata-schema-deprecation/</guid>
-    </item>    <item>
-      <title>Poetry, by Henry van Dyke Jr.</title>
-      <link>https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry</link>
-      <description>
-        <![CDATA[A collection of poems by the American author, educator, and clergyman Henry van Dyke Jr., exploring themes of nature, faith, love, and patriotism.]]>
-      </description>
-      <source:markdown>A collection of poems by the American author, educator, and clergyman Henry van Dyke Jr., exploring themes of nature, faith, love, and patriotism.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry/downloads/henry-van-dyke-jr_poetry.epub?source=feed" length="506770" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/henry-van-dyke-jr/poetry</guid>
-    </item>    <item>
-      <title>New Report: Teens, Social Media and AI Chatbots 2025</title>
-      <link>https://www.infodocket.com/2025/12/09/new-report-teens-social-media-and-ai-chatbots-2025/</link>
-      <description>
-        <![CDATA[From Pew Research: Young people turn to a variety of platforms, but YouTube stands out for being used by nearly all teens. Roughly nine-in-ten report ever using it. Teens widely use three other platforms: About six-in-ten or more say they use TikTok and Instagram. A somewhat smaller share say they go on Snapchat (55%). Fewer use Facebook (31%) and WhatsApp (24%). And no more than about [&#8230;]]]>
-      </description>
-      <source:markdown>From Pew Research: Young people turn to a variety of platforms, but YouTube stands out for being used by nearly all teens. Roughly nine-in-ten report ever using it. Teens widely use three other platforms: About six-in-ten or more say they use TikTok and Instagram. A somewhat smaller share say they go on Snapchat (55%). Fewer use Facebook (31%) and WhatsApp (24%). And no more than about \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167421</guid>
-    </item>    <item>
-      <title>Supporting International Values in the Research Enterprise</title>
-      <link>https://sr.ithaka.org/blog/supporting-international-values-in-the-research-enterprise/</link>
-      <description>
-        <![CDATA[<p>Many of the world’s best researchers work at universities in the United States. While they contribute to the US research enterprise, these researchers also often embody hybrid identities: their training, professional activities, and individual and collaborative work cross national, institutional, and disciplinary borders. However, the past several presidential administrations have enacted federal policies driven by [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/supporting-international-values-in-the-research-enterprise/">Supporting International Values in the Research Enterprise</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Many of the world’s best researchers work at universities in the United States. While they contribute to the US research enterprise, these researchers also often embody hybrid identities: their training, professional activities, and individual and collaborative work cross national, institutional, and disciplinary borders. However, the past several presidential administrations have enacted federal policies driven by \[…\]
-
-The post [Supporting International Values in the Research Enterprise](https://sr.ithaka.org/blog/supporting-international-values-in-the-research-enterprise/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=324132</guid>
-    </item>    <item>
-      <title>SEO Still Matters: Building Blocks for the Future of Content Discoverability</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/09/seo-still-matters-building-blocks-for-the-future-of-content-discoverability/</link>
-      <description>
-        <![CDATA[<p>As the search and user behavior landscapes undergo dramatic evolutions, marketers and others are left to wonder what SEO means for publishers now.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/09/seo-still-matters-building-blocks-for-the-future-of-content-discoverability/">SEO Still Matters: Building Blocks for the Future of Content Discoverability</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>As the search and user behavior landscapes undergo dramatic evolutions, marketers and others are left to wonder what SEO means for publishers now.
-
-The post [SEO Still Matters: Building Blocks for the Future of Content Discoverability](https://scholarlykitchen.sspnet.org/2025/12/09/seo-still-matters-building-blocks-for-the-future-of-content-discoverability/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61318</guid>
-    </item>    <item>
-      <title>Day in Review (December 8–11)</title>
-      <link>https://www.arl.org/day-in-review/day-in-review-december-8-11/</link>
-      <description>
-        <![CDATA[<p>Last Updated on December 11, 2025, 11:43 am ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...</p>
-        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-december-8-11/">Day in Review (December 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on December 11, 2025, 11:43 am ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released Monday...
-
-The post [Day in Review (December 8–11)](https://www.arl.org/day-in-review/day-in-review-december-8-11/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=46861</guid>
-    </item>    <item>
-      <title>Expanding AI Community Engagement: An Interview with Noelia Alvarez</title>
-      <link>https://blogs.loc.gov/thesignal/2025/12/noelia-alvarez-interview/</link>
-      <description>
-        <![CDATA[In this interview, 2025 Library of Congress Junior Fellow Noelia Alvarez reflects on her experience working on the Expanding AI Community Engagement Project in the Library's Digital Strategy Directorate.]]>
-      </description>
-      <source:markdown>In this interview, 2025 Library of Congress Junior Fellow Noelia Alvarez reflects on her experience working on the Expanding AI Community Engagement Project in the Library&#39;s Digital Strategy Directorate.</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=36143</guid>
-    </item>    <item>
-      <title>Lessons Learned from the Statewide Some College, No Degree Initiative in New Jersey</title>
-      <link>https://sr.ithaka.org/blog/lessons-learned-from-the-statewide-some-college-no-degree-initiative-in-new-jersey/</link>
-      <description>
-        <![CDATA[<p>Re-engaging and re-enrolling individuals with some college, no degree (SCND) is an increasing priority nationally. Credential completion not only enables individuals to access higher paying jobs, but also generates tuition revenue for institutions and supports regional economic development. Many states, including Tennessee, Ohio, and Michigan, have implemented reconnect or comeback programs targeted towards adult learners. [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/lessons-learned-from-the-statewide-some-college-no-degree-initiative-in-new-jersey/">Lessons Learned from the Statewide Some College, No Degree Initiative in New Jersey</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Re-engaging and re-enrolling individuals with some college, no degree (SCND) is an increasing priority nationally. Credential completion not only enables individuals to access higher paying jobs, but also generates tuition revenue for institutions and supports regional economic development. Many states, including Tennessee, Ohio, and Michigan, have implemented reconnect or comeback programs targeted towards adult learners. \[…\]
-
-The post [Lessons Learned from the Statewide Some College, No Degree Initiative in New Jersey](https://sr.ithaka.org/blog/lessons-learned-from-the-statewide-some-college-no-degree-initiative-in-new-jersey/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=324121</guid>
-    </item>    <item>
-      <title>COUNTER Releases Draft: Best Practice Guidance For Reporting AI Usage; Feedback Welcome</title>
-      <link>https://www.infodocket.com/2025/12/08/counter-releases-draft-best-practice-guidance-for-reporting-ai-usage-feedback-welcome/</link>
-      <description>
-        <![CDATA[From COUNTER: As many of you know, our Advisory Committee has been building some best practice guidance for generative and agentic AI usage metrics. Today we’re sharing the results of that work with you. The challenge We developed Release 5.1 of the Code of Practice before to the public availability of generative and agentic artificial intelligence. In [&#8230;]]]>
-      </description>
-      <source:markdown>From COUNTER: As many of you know, our Advisory Committee has been building some best practice guidance for generative and agentic AI usage metrics. Today we’re sharing the results of that work with you. The challenge We developed Release 5.1 of the Code of Practice before to the public availability of generative and agentic artificial intelligence. In \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167419</guid>
-    </item>    <item>
-      <title>Guest Post — Funding Research Services: How Libraries are Exploring Cost Recovery Models</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/08/guest-post-funding-research-services-how-libraries-are-exploring-cost-recovery-models/</link>
-      <description>
-        <![CDATA[<p>Today's guest bloggers share results of an exploratory survey of funding research services, offering a snapshot of a library community in transition.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/08/guest-post-funding-research-services-how-libraries-are-exploring-cost-recovery-models/">Guest Post — Funding Research Services: How Libraries are Exploring Cost Recovery Models</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest bloggers share results of an exploratory survey of funding research services, offering a snapshot of a library community in transition.
-
-The post [Guest Post — Funding Research Services: How Libraries are Exploring Cost Recovery Models](https://scholarlykitchen.sspnet.org/2025/12/08/guest-post-funding-research-services-how-libraries-are-exploring-cost-recovery-models/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61313</guid>
-    </item>    <item>
-      <title>Journal Article: The Importance of Inclusive and Balanced Collections in Libraries and Archives</title>
-      <link>https://www.infodocket.com/2025/12/07/journal-article-the-importance-of-inclusive-and-balanced-collections-in-libraries-and-archives/</link>
-      <description>
-        <![CDATA[The article linked below was recently published by Insights. Title The Importance of Inclusive and Balanced Collections in Libraries and Archives Author Gali Halevi CLOCKSS Source Insights Vol. 38, 2025 DOI: 10.1629/uksg.701 Abstract This article examines the differences in diversity, equity and inclusion (DEI) efforts between library collection development and archival practices, highlighting the unique [&#8230;]]]>
-      </description>
-      <source:markdown>The article linked below was recently published by Insights. Title The Importance of Inclusive and Balanced Collections in Libraries and Archives Author Gali Halevi CLOCKSS Source Insights Vol. 38, 2025 DOI: 10.1629/uksg.701 Abstract This article examines the differences in diversity, equity and inclusion (DEI) efforts between library collection development and archival practices, highlighting the unique \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167418</guid>
-    </item>    <item>
-      <title>The dangers of using AI in peer review [Originally published in Hora Campias in December/2025]</title>
-      <link>https://blog.scielo.org/en/2025/12/05/the-dangers-of-using-ai-in-peer-review/</link>
-      <description>
-        <![CDATA[<p>Within my academic life, I am always on ‘both sides of the counter,’ as an author and as a reviewer. It is work of high responsibility because we have a commitment to the excellence of scientific information and to improving the article. Currently, authors may use genAI in preparing their manuscripts with certain caveats, but there are strict restrictions regarding its use in peer review. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/12/05/the-dangers-of-using-ai-in-peer-review/" class="more-link"><span>Read More &#8594;</span></a></span></p>
-        <p>The post <a href="https://blog.scielo.org/en/2025/12/05/the-dangers-of-using-ai-in-peer-review/">The dangers of using AI in peer review [Originally published in Hora Campias in December/2025]</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
-      </description>
-      <source:markdown>Within my academic life, I am always on ‘both sides of the counter,’ as an author and as a reviewer. It is work of high responsibility because we have a commitment to the excellence of scientific information and to improving the article. Currently, authors may use genAI in preparing their manuscripts with certain caveats, but there are strict restrictions regarding its use in peer review. …[Read More →](https://blog.scielo.org/en/2025/12/05/the-dangers-of-using-ai-in-peer-review/)
-
-The post [The dangers of using AI in peer review \[Originally published in Hora Campias in December/2025\]](https://blog.scielo.org/en/2025/12/05/the-dangers-of-using-ai-in-peer-review/) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
-      <guid>cid://https://blog.scielo.org/en/?p=5744</guid>
-    </item>    <item>
-      <title>Chefs’ Selections: Best Media Enjoyed in 2025 (Part 2)</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/05/chefs-selections-best-media-enjoyed-in-2025-part-2/</link>
-      <description>
-        <![CDATA[<p>In the second of our Chef's Selections series for 2025, we pause to look back on the best books, music, shows, and other cultural expressions we encountered in 2025.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/05/chefs-selections-best-media-enjoyed-in-2025-part-2/">Chefs’ Selections: Best Media Enjoyed in 2025 (Part 2)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>In the second of our Chef&#39;s Selections series for 2025, we pause to look back on the best books, music, shows, and other cultural expressions we encountered in 2025.
-
-The post [Chefs’ Selections: Best Media Enjoyed in 2025 (Part 2)](https://scholarlykitchen.sspnet.org/2025/12/05/chefs-selections-best-media-enjoyed-in-2025-part-2/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61303</guid>
-    </item>    <item>
-      <title>Research Tools: New Tracker From Tow Center for Digital Journalism “Monitors Developments Between News Publishers and AI Companies”</title>
-      <link>https://www.infodocket.com/2025/12/04/research-tools-new-tracker-from-tow-center-for-digital-journalism-monitors-developments-between-news-publishers-and-ai-companies/</link>
-      <description>
-        <![CDATA[From the Columbia Journalism Review Article by  Klaudia Jaźwińska: How, whether, and how much publishers will be compensated are some of the major existential questions facing the news industry in the “AI era.” Today, the Tow Center for Digital Journalism is releasing a tracker that monitors developments between news publishers and AI companies—including lawsuits, deals, and grants—based [&#8230;]]]>
-      </description>
-      <source:markdown>From the Columbia Journalism Review Article by  Klaudia Jaźwińska: How, whether, and how much publishers will be compensated are some of the major existential questions facing the news industry in the “AI era.” Today, the Tow Center for Digital Journalism is releasing a tracker that monitors developments between news publishers and AI companies—including lawsuits, deals, and grants—based \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167407</guid>
-    </item>    <item>
-      <title>Consulting: Impelsys Acquires Delta Think</title>
-      <link>https://www.infodocket.com/2025/12/04/consulting-impelsys-acquires-delta-think/</link>
-      <description>
-        <![CDATA[The acquisition was announced this morning. The full text of the announcement is found below and is also available here. Impelsys, a global technology services company, today announced the acquisition of Delta Think, a leading consultancy in scholarly communications. Together, the two companies will offer clients a powerful combination of strategy and technology expertise across [&#8230;]]]>
-      </description>
-      <source:markdown>The acquisition was announced this morning. The full text of the announcement is found below and is also available here. Impelsys, a global technology services company, today announced the acquisition of Delta Think, a leading consultancy in scholarly communications. Together, the two companies will offer clients a powerful combination of strategy and technology expertise across \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167403</guid>
-    </item>    <item>
-      <title>Chefs’ Selections: Best Media Enjoyed in 2025 (Part 1)</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/04/chefs-selections-best-media-enjoyed-in-2025-part-1/</link>
-      <description>
-        <![CDATA[<p>In the first of our Chef's Selections series for 2025, we pause to look back on the best books, music, shows, and other cultural expressions we encountered in 2025.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/04/chefs-selections-best-media-enjoyed-in-2025-part-1/">Chefs&#8217; Selections: Best Media Enjoyed in 2025 (Part 1)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>In the first of our Chef&#39;s Selections series for 2025, we pause to look back on the best books, music, shows, and other cultural expressions we encountered in 2025.
-
-The post [Chefs’ Selections: Best Media Enjoyed in 2025 (Part 1)](https://scholarlykitchen.sspnet.org/2025/12/04/chefs-selections-best-media-enjoyed-in-2025-part-1/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61291</guid>
     </item>
   </channel>
 </rss>
