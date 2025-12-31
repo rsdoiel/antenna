@@ -4,6 +4,15 @@ title: Planet News
 
 # Planet News
 
+# Democracy
+
+- [Democracy Now](https://www.democracynow.org/democracynow.rss)
+
+# Climate
+
+- [Talking Climate](https://www.talkingclimate.ca/feed)
+- [The Crucial Years](https://billmckibben.substack.com/feed)
+
 # United Nations
 
 - [United Nations, Top Stories](https://news.un.org/feed/subscribe/en/news/all/rss.xml)
