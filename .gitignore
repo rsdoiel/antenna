@@ -12,5 +12,6 @@ _*
 *.sql.gz
 *.ts
 *.db
+*-journal
 deno.*
 dist/*
