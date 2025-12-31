@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>31 Dec 25 11:01 -0800</lastBuildDate>
+    <lastBuildDate>31 Dec 25 11:28 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,191 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>The Accidental Blockbuster</title>
+      <link>https://feed.tedium.co/link/15204/17244623/best-feature-story-2025-white-house-signal-leak</link>
+      <description>
+        <![CDATA[The absurd comedy of errors that led to the year’s best feature story is almost too silly to be believed. But it happened.]]>
+      </description>
+      <source:markdown>The absurd comedy of errors that led to the year’s best feature story is almost too silly to be believed. But it happened.</source:markdown>
+      <guid>cid://https://tedium.co/2025/12/31/best-feature-story-2025-white-house-signal-leak/</guid>
+    </item>    <item>
+      <title>Watching Bari Weiss Murder Investigative Journalism at CBS</title>
+      <link>https://werd.io/watching-bari-weiss-murder-investigative-journalism-at-cbs/</link>
+      <description>
+        <![CDATA["Notes from someone who's withstood White House demands to stop an explosive story—and who once even had a 60 Minutes piece spiked."]]>
+      </description>
+      <source:markdown>&#34;Notes from someone who&#39;s withstood White House demands to stop an explosive story—and who once even had a 60 Minutes piece spiked.&#34;</source:markdown>
+      <guid>cid://695554afdaa8db0001ea2cbc</guid>
+    </item>    <item>
+      <title>Codex cloud is now called Codex web</title>
+      <link>https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://developers.openai.com/codex/cloud/">Codex cloud is now called Codex web</a></strong></p>
+        It looks like OpenAI's <strong>Codex cloud</strong> (the cloud version of their Codex coding agent) was quietly rebranded to <strong>Codex web</strong> at some point in the last few days.</p>
+        <p>Here's a screenshot of the Internet Archive copy from <a href="https://web.archive.org/web/20251218043013/https://developers.openai.com/codex/cloud/">18th December</a> (the <a href="https://web.archive.org/web/20251228124455/https://developers.openai.com/codex/cloud/">capture on the 28th</a> maintains that Codex cloud title but did not fully load CSS for me):</p>
+        <p><img alt="Screenshot of the Codex cloud documentation page" src="https://static.simonwillison.net/static/2025/codex-cloud.jpg" /></p>
+        <p>And here's that same page today with the updated product name:</p>
+        <p><img alt="Same documentation page only now it says Codex web" src="https://static.simonwillison.net/static/2025/codex-web.jpg" /></p>
+        <p>Anthropic's equivalent product has the incredibly clumsy name <a href="https://code.claude.com/docs/en/claude-code-on-the-web">Claude Code on the web</a>, which I shorten to "Claude Code for web" but even then bugs me because I mostly interact with it via Anthropic's native mobile app.</p>
+        <p>I was hoping to see Claude Code for web rebrand to Claude Code Cloud - I did <em>not</em> expect OpenAI to rebrand in the opposite direction!</p>
+        <p><strong>Update</strong>: <a href="https://twitter.com/thsottiaux/status/2006421779246624875">Clarification</a> from OpenAI Codex engineering lead Thibault Sottiaux:</p>
+        <blockquote>
+        <p>Just aligning the documentation with how folks refer to it. I personally differentiate between cloud tasks and codex web. With cloud tasks running on our hosted runtime (includes code review, github, slack, linear, ...) and codex web being the web app.</p>
+        </blockquote>
+        <p>I asked what they called Codex in the iPhone app and <a href="https://twitter.com/thsottiaux/status/2006423057179750625">he said</a>:</p>
+        <blockquote>
+        <p>Codex iOS</p>
+        </blockquote>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/naming-things">naming-things</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/async-coding-agents">async-coding-agents</a></p>]]>
+      </description>
+      <source:markdown>**[Codex cloud is now called Codex web](https://developers.openai.com/codex/cloud/)**
+
+It looks like OpenAI&#39;s **Codex cloud** (the cloud version of their Codex coding agent) was quietly rebranded to **Codex web** at some point in the last few days.
+
+Here&#39;s a screenshot of the Internet Archive copy from [18th December](https://web.archive.org/web/20251218043013/https://developers.openai.com/codex/cloud/) (the [capture on the 28th](https://web.archive.org/web/20251228124455/https://developers.openai.com/codex/cloud/) maintains that Codex cloud title but did not fully load CSS for me):
+
+![Screenshot of the Codex cloud documentation page](https://static.simonwillison.net/static/2025/codex-cloud.jpg)
+
+And here&#39;s that same page today with the updated product name:
+
+![Same documentation page only now it says Codex web](https://static.simonwillison.net/static/2025/codex-web.jpg)
+
+Anthropic&#39;s equivalent product has the incredibly clumsy name [Claude Code on the web](https://code.claude.com/docs/en/claude-code-on-the-web), which I shorten to &#34;Claude Code for web&#34; but even then bugs me because I mostly interact with it via Anthropic&#39;s native mobile app.
+
+I was hoping to see Claude Code for web rebrand to Claude Code Cloud - I did _not_ expect OpenAI to rebrand in the opposite direction!
+
+**Update**: [Clarification](https://twitter.com/thsottiaux/status/2006421779246624875) from OpenAI Codex engineering lead Thibault Sottiaux:
+
+&#62; Just aligning the documentation with how folks refer to it. I personally differentiate between cloud tasks and codex web. With cloud tasks running on our hosted runtime (includes code review, github, slack, linear, ...) and codex web being the web app.
+
+I asked what they called Codex in the iPhone app and [he said](https://twitter.com/thsottiaux/status/2006423057179750625):
+
+&#62; Codex iOS
+
+Tags: [naming-things](https://simonwillison.net/tags/naming-things), [ai](https://simonwillison.net/tags/ai), [openai](https://simonwillison.net/tags/openai), [generative-ai](https://simonwillison.net/tags/generative-ai), [llms](https://simonwillison.net/tags/llms), [anthropic](https://simonwillison.net/tags/anthropic), [coding-agents](https://simonwillison.net/tags/coding-agents), [async-coding-agents](https://simonwillison.net/tags/async-coding-agents)</source:markdown>
+      <guid>cid://https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything</guid>
+    </item>    <item>
+      <title>La empleada: cumple con lo mínimo de su trabajo</title>
+      <link>https://www.palomitademaiz.net/resenas-la-empleada/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-la-empleada</link>
+      <description>
+        <![CDATA[<p>Dirección: Paul Feig. Guion: Rebecca Sonnenshine, basado en la novela The Housemaid de Freida McFadden. Elenco: Amanda Seyfried, Sydney Sweeney, Brandon Sklenar, Elizabeth Perkins, Michele Morrone. Países: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt27543632/ Al igual que en 2025, el cambio de año va acompañado de una película de suspenso ambientada en un terrible [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-empleada/">La empleada: cumple con lo mínimo de su trabajo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Paul Feig. Guion: Rebecca Sonnenshine, basado en la novela The Housemaid de Freida McFadden. Elenco: Amanda Seyfried, Sydney Sweeney, Brandon Sklenar, Elizabeth Perkins, Michele Morrone. Países: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt27543632/ Al igual que en 2025, el cambio de año va acompañado de una película de suspenso ambientada en un terrible \[…\]
+
+La entrada [La empleada: cumple con lo mínimo de su trabajo](https://www.palomitademaiz.net/resenas-la-empleada/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=25849</guid>
+    </item>    <item>
+      <title>A Newsletter of Humorous Writing: End of 2025 Edition</title>
+      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-end-of-2025/</link>
+      <description>
+        <![CDATA[<p>Hello and welcome to A Newsletter of Humorous Writing, End of 2025 Edition, a roundup of the year's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them.</p>
+        <hr/><h2>What We Enjoyed This Year (In Chronological Order)</h2>
+        <p>We've spent many long nights around the End of Year List Decision Table (EoYLDT) here at Humorous Readings Headquarters (HRHQ), rereading the pieces we liked in 2025 and deciding on fifteen of our favorites. As is always the case, it's an impossible task. There was so much great writing this year, and you can still read all of our picks and commentary in our <a href="https://buttondown.com/humorouswriting/archive/" rel="noopener noreferrer nofollow" target="_blank">Vault of Humorous Writing (VoHW)</a>, which is teeming with great short humor.</p>
+        <p>We hope you enjoyed these pieces as much as we did, and thanks for reading!</p>
+        <p style="text-align: center">***</p>
+        <p><a href="https://www.mcsweeneys.net/articles/introducing-georg-property-the-long-lost-third-property-brother?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-374" rel="noopener noreferrer nofollow" target="_blank"><strong>Introducing Georg Property, the Long-Lost Third Property Brother</strong></a> <strong>by</strong> <a href="https://bsky.app/profile/setherubin.bsky.social?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-374" rel="noopener noreferrer nofollow" target="_blank"><strong>Seth Rubin</strong></a> <em>(McSweeney’s)</em></p>
+        <p><a href="https://www.mcsweeneys.net/articles/time-to-grab-the-dusty-old-expired-bottle-of-hydrogen-peroxide-to-clean-this-wound?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-375" rel="noopener noreferrer nofollow" target="_blank"><strong>Time to Grab the Dusty Old Expired Bottle of Hydrogen Peroxide to Clean This Wound</strong></a> <strong>by</strong> <a href="https://www.alexispooley.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-375" rel="noopener noreferrer nofollow" target="_blank"><strong>Alexis Pooley</strong></a> <em>(McSweeney’s)</em></p>
+        <p><a href="https://www.mcsweeneys.net/articles/various-ways-how-i-a-gay-man-use-the-word-mama?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-379" rel="noopener noreferrer nofollow" target="_blank"><strong>Various Ways How I, a Gay Man, Use the Word “Mama”</strong></a> <strong>by</strong> <a href="https://bsky.app/profile/oktulio.bsky.social?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-379" rel="noopener noreferrer nofollow" target="_blank"><strong>Tulio Espinoza</strong></a> <em>(McSweeney’s)</em></p>
+        <p><a href="https://www.newyorker.com/humor/shouts-murmurs/a-field-guide-to-the-phrase-dimly-lit?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>A Field Guide to the Phrase “Dimly Lit”</strong></a><strong>By</strong> <a href="https://bobbiearmstrong.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>Bobbie Armstrong</strong></a> <em>(The New Yorker)</em></p>
+        <p><a href="https://www.pointsincase.com/articles/its-great-to-hear-about-your-wedding-even-though-im-a-monster-living-in-the-sewers?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-382" rel="noopener noreferrer nofollow" target="_blank"><strong>It's Great to Hear About Your Wedding, Even Though I'm a Monster Living in the Sewers</strong></a> <strong>by</strong> <a href="https://bsky.app/profile/lilliekoi.bsky.social?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-382" rel="noopener noreferrer nofollow" target="_blank"><strong>Lillie Franks</strong></a> <em>(Points in Case)</em></p>
+        <p><a href="https://www.vulture.com/article/snow-white-2025-lingering-questions.html?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-385" rel="noopener noreferrer nofollow" target="_blank"><strong>Some Lingering Questions About Snow White’s Bizarre New Lore</strong></a> <strong>by</strong> <a href="https://www.franhoepfner.fyi/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-385" rel="noopener noreferrer nofollow" target="_blank"><strong>Fran Hoepfner</strong></a> <em>(Vulture)</em></p>
+        <p><a href="https://www.theparisreview.org/blog/2025/04/09/the-end-of-roadside-attractions/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-387" rel="noopener noreferrer nofollow" target="_blank"><strong>The End of Roadside Attractions</strong></a> <strong>by</strong> <a href="https://en.wikipedia.org/wiki/Jane_and_Michael_Stern?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-387" rel="noopener noreferrer nofollow" target="_blank"><strong>Jane Stern</strong></a> <em>(The Paris Review)</em></p>
+        <p><a href="https://www.mcsweeneys.net/articles/choose-your-own-adventure-endings-only?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-391" rel="noopener noreferrer nofollow" target="_blank"><strong>Choose Your Own Adventure (Endings Only)</strong></a> <strong>by</strong> <a href="https://bsky.app/profile/racooonmarxmallow.bsky.social?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-391" rel="noopener noreferrer nofollow" target="_blank"><strong>Justin Bendell</strong></a> <em>(McSweeney’s)</em></p>
+        <p><a href="https://www.mcsweeneys.net/articles/we-are-excited-to-offer-these-affordable-broadway-ticket-options?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-396" rel="noopener noreferrer nofollow" target="_blank"><strong>We Are Excited to Offer These Affordable Broadway Ticket Options</strong></a> <strong>by</strong> <a href="https://www.heytomsmyth.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-396" rel="noopener noreferrer nofollow" target="_blank"><strong>Tom Smyth</strong></a> <em>(McSweeney’s)</em></p>
+        <p><a href="https://www.mcsweeneys.net/articles/excuse-me-but-your-theme-park-is-actually-a-motif-park?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-399" rel="noopener noreferrer nofollow" target="_blank"><strong>Excuse Me, but Your Theme Park Is Actually a Motif Park</strong></a> <strong>by</strong> <a href="https://www.mcsweeneys.net/authors/caleb-coy?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-399" rel="noopener noreferrer nofollow" target="_blank"><strong>Caleb Coy</strong></a> <em>(McSweeney’s)</em></p>
+        <p><a href="https://www.newyorker.com/humor/shouts-murmurs/notes-to-the-editor-of-a-watch-commercial?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-401" rel="noopener noreferrer nofollow" target="_blank"><strong>Notes to the Editor of a Watch Commercial</strong></a> <strong>by</strong> <a href="https://www.newyorker.com/contributors/seth-reiss?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-401" rel="noopener noreferrer nofollow" target="_blank"><strong>Seth Reiss</strong></a> <em>(The New Yorker)</em></p>
+        <p><a href="https://www.pointsincase.com/articles/i-feel-like-youre-only-friends-with-me-because-of-my-printer?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-406" rel="noopener noreferrer nofollow" target="_blank"><strong>I Feel Like You're Only Friends with Me Because of My Printer</strong></a> <strong>by</strong> <a href="https://www.michelle-cohn.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-406" rel="noopener noreferrer nofollow" target="_blank"><strong>Michelle Cohn</strong></a> <strong>and</strong> <a href="https://www.madelinegoetz.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-406" rel="noopener noreferrer nofollow" target="_blank"><strong>Madeline Goetz</strong></a> <em>(Points in Case)</em></p>
+        <p><a href="https://www.mcsweeneys.net/articles/a-series-of-messages-tied-to-bricks-thrown-through-my-exs-neighbors-window?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-413" rel="noopener noreferrer nofollow" target="_blank"><strong>A Series of Messages Tied to Bricks Thrown Through My Ex’s Neighbor’s Window</strong></a> <strong>by</strong> <a href="https://www.instagram.com/danifava32?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-413" rel="noopener noreferrer nofollow" target="_blank"><strong>Daniela Fava</strong></a> <em>(McSweeney’s)</em></p>
+        <p><a href="https://reductress.com/post/healthy-this-woman-just-chose-chips-over-gummy-worms-because-they-seem-more-of-the-earth/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>Healthy! This Woman Just Chose Chips Over Gummy Worms Because They Seem More of the Earth</strong></a> <strong>by</strong> <a href="https://www.mckayleygourley.com/about?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-416" rel="noopener noreferrer nofollow" target="_blank"><strong>McKayley Gourley</strong></a> <em>(Reductress)</em></p>
+        <p><a href="https://www.pointsincase.com/articles/texting-your-dad-simulator?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-421" rel="noopener noreferrer nofollow" target="_blank"><strong>Texting Your Dad Simulator</strong></a> <strong>by</strong> <a href="https://livrariaplutao.bigcartel.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-421" rel="noopener noreferrer nofollow" target="_blank"><strong>Luís Leal Miranda</strong></a> <em>(Points in Case)</em></p>
+        <hr/><h2>Some Writing That Luke and James Are Proud Of</h2>
+        <p><strong>Luke’s big project this year was his second translation of a French graphic novel</strong>. <a href="https://www.nyrb.com/products/the-children-of-light?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>The Children of Light</strong></a>, a trippy sci-fi odyssey featuring androids, alien civil war, and a giant god-brain, will be out in June—but Luke hopes you’ll start getting your pre-orders in as soon as possible! (And you can of course still pick up the first graphic novel Luke translated, the hilarious, absurd, <a href="https://bookshop.org/p/books/masters-of-the-nefarious-mollusk-rampage-pierre-la-police/73ef9aedd7c05ff8?ean=9781681378343&amp;next=t&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank">Masters of the Nefarious</a>.)</p>
+        <p>Luke is also <strong>very proud of all the great writing people did in his workshops</strong> this year. Check out <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3m3mzhtug7s2w?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank">this thread</a> for some highlights. And if you’d like to join a future workshop, <a href="https://lukevburns.tumblr.com/UpcomingWorkshops?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank">check out this page</a> to see all of Luke’s upcoming offerings (including some classes starting next week)!</p>
+        <p style="text-align: center">***</p>
+        <p><strong>James’s year in writing<em> </em></strong>was focused on <strong>longer projects </strong>and a ton of <a href="https://lithub.com/author/jamesfolta/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>writing for <em>Lit Hub</em></strong></a>. Here is his tabulation of <a href="https://bsky.app/profile/jamesfolta.com/post/3mb5sfidur224?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>The Top 100 Most Frequently Used Words I Published or Produced in 2025</strong></a>, as well as a few pieces he’s proud of:</p>
+        <p><a href="https://lithub.com/the-world-of-groundhog-prognosticators-is-much-weirder-and-darker-than-you-thought/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>The world of groundhog prognosticators is much weirder—and darker—than you thought.</strong></a> <em>(Lit Hub)</em></p>
+        <p><a href="https://lithub.com/what-if-the-final-meeting-between-v-p-vance-and-pope-francis-took-place-in-a-dan-brown-novel/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>What if the final meeting between V.P. Vance and Pope Francis took place in a Dan Brown novel?</strong></a> <em>(Lit Hub)</em></p>
+        <p><a href="https://lithub.com/the-definitive-ranking-of-reading-technologies/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>The definitive ranking of reading technologies.</strong></a> <em>(Lit Hub)</em></p>
+        <p><a href="https://airmail.news/issues/2025-11-1/the-undecided-voters-of-the-new-york-mayoral-election?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>The Undecided Voters of the New York Mayoral Election</strong></a> <em>(Air Mail)</em></p>
+        <p>James also made <a href="https://lithub.com/tag/venn/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>a lot of Venn diagrams.</strong></a></p>
+        <p style="text-align: center">***</p>
+        <p><strong>In addition to the weekly newsletter, we also published 21 extra articles for</strong> <a href="https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025" rel="noopener noreferrer nofollow" target="_blank"><strong>our paid edition</strong></a> <strong>this year</strong>! Thanks to all our new and returning subscribers—your support truly means the world to us and makes it possible for us to keep this newsletter running.</p>
+        <p>See you in 2026!</p>]]>
+      </description>
+      <source:markdown>Hello and welcome to A Newsletter of Humorous Writing, End of 2025 Edition, a roundup of the year&#39;s finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them.
+
+* * *
+
+## What We Enjoyed This Year (In Chronological Order)
+
+We&#39;ve spent many long nights around the End of Year List Decision Table (EoYLDT) here at Humorous Readings Headquarters (HRHQ), rereading the pieces we liked in 2025 and deciding on fifteen of our favorites. As is always the case, it&#39;s an impossible task. There was so much great writing this year, and you can still read all of our picks and commentary in our [Vault of Humorous Writing (VoHW)](https://buttondown.com/humorouswriting/archive/), which is teeming with great short humor.
+
+We hope you enjoyed these pieces as much as we did, and thanks for reading!
+
+\\*\\*\\*
+
+[**Introducing Georg Property, the Long-Lost Third Property Brother**](https://www.mcsweeneys.net/articles/introducing-georg-property-the-long-lost-third-property-brother?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-374) **by** [**Seth Rubin**](https://bsky.app/profile/setherubin.bsky.social?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-374) _(McSweeney’s)_
+
+[**Time to Grab the Dusty Old Expired Bottle of Hydrogen Peroxide to Clean This Wound**](https://www.mcsweeneys.net/articles/time-to-grab-the-dusty-old-expired-bottle-of-hydrogen-peroxide-to-clean-this-wound?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-375) **by** [**Alexis Pooley**](https://www.alexispooley.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-375) _(McSweeney’s)_
+
+[**Various Ways How I, a Gay Man, Use the Word “Mama”**](https://www.mcsweeneys.net/articles/various-ways-how-i-a-gay-man-use-the-word-mama?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-379) **by** [**Tulio Espinoza**](https://bsky.app/profile/oktulio.bsky.social?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-379) _(McSweeney’s)_
+
+[**A Field Guide to the Phrase “Dimly Lit”**](https://www.newyorker.com/humor/shouts-murmurs/a-field-guide-to-the-phrase-dimly-lit?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) **By** [**Bobbie Armstrong**](https://bobbiearmstrong.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) _(The New Yorker)_
+
+[**It&#39;s Great to Hear About Your Wedding, Even Though I&#39;m a Monster Living in the Sewers**](https://www.pointsincase.com/articles/its-great-to-hear-about-your-wedding-even-though-im-a-monster-living-in-the-sewers?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-382) **by** [**Lillie Franks**](https://bsky.app/profile/lilliekoi.bsky.social?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-382) _(Points in Case)_
+
+[**Some Lingering Questions About Snow White’s Bizarre New Lore**](https://www.vulture.com/article/snow-white-2025-lingering-questions.html?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-385) **by** [**Fran Hoepfner**](https://www.franhoepfner.fyi/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-385) _(Vulture)_
+
+[**The End of Roadside Attractions**](https://www.theparisreview.org/blog/2025/04/09/the-end-of-roadside-attractions/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-387) **by** [**Jane Stern**](https://en.wikipedia.org/wiki/Jane_and_Michael_Stern?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-387) _(The Paris Review)_
+
+[**Choose Your Own Adventure (Endings Only)**](https://www.mcsweeneys.net/articles/choose-your-own-adventure-endings-only?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-391) **by** [**Justin Bendell**](https://bsky.app/profile/racooonmarxmallow.bsky.social?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-391) _(McSweeney’s)_
+
+[**We Are Excited to Offer These Affordable Broadway Ticket Options**](https://www.mcsweeneys.net/articles/we-are-excited-to-offer-these-affordable-broadway-ticket-options?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-396) **by** [**Tom Smyth**](https://www.heytomsmyth.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-396) _(McSweeney’s)_
+
+[**Excuse Me, but Your Theme Park Is Actually a Motif Park**](https://www.mcsweeneys.net/articles/excuse-me-but-your-theme-park-is-actually-a-motif-park?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-399) **by** [**Caleb Coy**](https://www.mcsweeneys.net/authors/caleb-coy?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-399) _(McSweeney’s)_
+
+[**Notes to the Editor of a Watch Commercial**](https://www.newyorker.com/humor/shouts-murmurs/notes-to-the-editor-of-a-watch-commercial?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-401) **by** [**Seth Reiss**](https://www.newyorker.com/contributors/seth-reiss?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-401) _(The New Yorker)_
+
+[**I Feel Like You&#39;re Only Friends with Me Because of My Printer**](https://www.pointsincase.com/articles/i-feel-like-youre-only-friends-with-me-because-of-my-printer?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-406) **by** [**Michelle Cohn**](https://www.michelle-cohn.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-406) **and** [**Madeline Goetz**](https://www.madelinegoetz.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-406) _(Points in Case)_
+
+[**A Series of Messages Tied to Bricks Thrown Through My Ex’s Neighbor’s Window**](https://www.mcsweeneys.net/articles/a-series-of-messages-tied-to-bricks-thrown-through-my-exs-neighbors-window?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-413) **by** [**Daniela Fava**](https://www.instagram.com/danifava32?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-413) _(McSweeney’s)_
+
+[**Healthy! This Woman Just Chose Chips Over Gummy Worms Because They Seem More of the Earth**](https://reductress.com/post/healthy-this-woman-just-chose-chips-over-gummy-worms-because-they-seem-more-of-the-earth/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) **by** [**McKayley Gourley**](https://www.mckayleygourley.com/about?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-416) _(Reductress)_
+
+[**Texting Your Dad Simulator**](https://www.pointsincase.com/articles/texting-your-dad-simulator?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-421) **by** [**Luís Leal Miranda**](https://livrariaplutao.bigcartel.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-421) _(Points in Case)_
+
+* * *
+
+## Some Writing That Luke and James Are Proud Of
+
+**Luke’s big project this year was his second translation of a French graphic novel**. [**The Children of Light**](https://www.nyrb.com/products/the-children-of-light?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025), a trippy sci-fi odyssey featuring androids, alien civil war, and a giant god-brain, will be out in June—but Luke hopes you’ll start getting your pre-orders in as soon as possible! (And you can of course still pick up the first graphic novel Luke translated, the hilarious, absurd, [Masters of the Nefarious](https://bookshop.org/p/books/masters-of-the-nefarious-mollusk-rampage-pierre-la-police/73ef9aedd7c05ff8?ean=9781681378343&#38;next=t&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025).)
+
+Luke is also **very proud of all the great writing people did in his workshops** this year. Check out [this thread](https://bsky.app/profile/lukevburns.bsky.social/post/3m3mzhtug7s2w?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) for some highlights. And if you’d like to join a future workshop, [check out this page](https://lukevburns.tumblr.com/UpcomingWorkshops?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) to see all of Luke’s upcoming offerings (including some classes starting next week)!
+
+\\*\\*\\*
+
+**James’s year in writing** was focused on **longer projects** and a ton of [**writing for _Lit Hub_**](https://lithub.com/author/jamesfolta/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025). Here is his tabulation of [**The Top 100 Most Frequently Used Words I Published or Produced in 2025**](https://bsky.app/profile/jamesfolta.com/post/3mb5sfidur224?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025), as well as a few pieces he’s proud of:
+
+[**The world of groundhog prognosticators is much weirder—and darker—than you thought.**](https://lithub.com/the-world-of-groundhog-prognosticators-is-much-weirder-and-darker-than-you-thought/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) _(Lit Hub)_
+
+[**What if the final meeting between V.P. Vance and Pope Francis took place in a Dan Brown novel?**](https://lithub.com/what-if-the-final-meeting-between-v-p-vance-and-pope-francis-took-place-in-a-dan-brown-novel/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) _(Lit Hub)_
+
+[**The definitive ranking of reading technologies.**](https://lithub.com/the-definitive-ranking-of-reading-technologies/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) _(Lit Hub)_
+
+[**The Undecided Voters of the New York Mayoral Election**](https://airmail.news/issues/2025-11-1/the-undecided-voters-of-the-new-york-mayoral-election?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) _(Air Mail)_
+
+James also made [**a lot of Venn diagrams.**](https://lithub.com/tag/venn/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025)
+
+\\*\\*\\*
+
+**In addition to the weekly newsletter, we also published 21 extra articles for** [**our paid edition**](https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-newsletter-of-humorous-writing-end-of-2025) **this year**! Thanks to all our new and returning subscribers—your support truly means the world to us and makes it possible for us to keep this newsletter running.
+
+See you in 2026!</source:markdown>
+      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-end-of-2025/</guid>
+    </item>    <item>
       <link>http://scripting.com/2025/12/31.html#a154556</link>
       <description>
         <![CDATA[If you've had trouble unsubscribing from the <a href="https://subscribe.scripting.com/">nightly email</a>, I fixed a big problem there this morning, so please try again. If the problem persists, here's a <a href="https://github.com/scripting/mailList/issues/1">place</a> to report.]]>
@@ -45,12 +230,87 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <source:markdown>If you&#39;ve had trouble unsubscribing from the [nightly email](https://subscribe.scripting.com/), I fixed a big problem there this morning, so please try again. If the problem persists, here&#39;s a [place](https://github.com/scripting/mailList/issues/1) to report.</source:markdown>
       <guid>cid://http://scripting.com/2025/12/31.html#a154556</guid>
     </item>    <item>
+      <title>A 2026 checklist</title>
+      <link>https://werd.io/a-2026-checklist/</link>
+      <description>
+        <![CDATA[A way to build a habit out of what's important.]]>
+      </description>
+      <source:markdown>A way to build a habit out of what&#39;s important.</source:markdown>
+      <guid>cid://695531ecdaa8db0001ea2c58</guid>
+    </item>    <item>
+      <title>Building Successful Collaboration Through Communication in WordPress Release Teams</title>
+      <link>https://openchannels.fm/building-successful-collaboration-through-communication-in-wordpress-release-teams/</link>
+      <description>
+        <![CDATA[In the world of open source, communication stands out as a key factor for successful collaboration. WordPress release teams unite contributors from all around the globe, bringing together a remarkable diversity of experiences, cultures, and time zones. While technical prowess is important, it is the way team members connect and exchange information that truly shapes [&#8230;]]]>
+      </description>
+      <source:markdown>In the world of open source, communication stands out as a key factor for successful collaboration. WordPress release teams unite contributors from all around the globe, bringing together a remarkable diversity of experiences, cultures, and time zones. While technical prowess is important, it is the way team members connect and exchange information that truly shapes \[…\]</source:markdown>
+      <guid>cid://https://openchannels.fm/?p=113371</guid>
+    </item>    <item>
+      <title>2025-12-31 The blogosphere is doing OK</title>
+      <link>https://alexschroeder.ch/view/2025-12-31-blogosphere</link>
+      <description>
+        <![CDATA[<h1 id="2025-12-31-the-blogosphere-is-doing-ok">2025-12-31 The blogosphere is doing OK</h1>
+        
+        <p><a class="account" href="https://dice.camp/@elmcat" title="@elmcat@dice.camp">@elmcat</a> wrote a blog post about the numerical state of the blogosphere, <a href="https://elmc.at/2025-in-blog-data/">2025 in Blog Data</a>.</p>
+        
+        <p>Stuff to see:</p>
+        
+        <ul>
+        <li>26,948 new posts in 2025 and 23,682 new posts in 2024;</li>
+        <li>211 new blogs in 2025 and 175 new blogs in 2024;</li>
+        <li>every day about 75 new blog posts are published.</li>
+        </ul>
+        
+        <p>Amazing.</p>
+        
+        <p>Remember their post from November about <a href="https://elmc.at/mapping-the-blogosphere/">Mapping the blogosphere</a>.</p>
+        
+        <p>I still run the <a href="https://campaignwiki.org/rpg">RPG Planet</a> including a <a href="https://campaignwiki.org/rpg/search">Search of RPG Planet</a>. See <a href="https://campaignwiki.org/wiki/Planet/What_is_this%3f">What is this?</a> for more information.</p>
+        
+        <p>If you want to start a new blog, I&rsquo;d say that most people are using Blogspot, some people are using Wordpress but recently I&rsquo;ve seen a growing number of people using <a href="https://bearblog.dev/">Bear Blog</a>. I&rsquo;ve exchanged some emails with its developer, Herman, because of the RPG Planet Search project.</p>
+        
+        <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a></p>]]>
+      </description>
+      <source:markdown># 2025-12-31 The blogosphere is doing OK
+
+[@elmcat](https://dice.camp/@elmcat &#34;@elmcat@dice.camp&#34;) wrote a blog post about the numerical state of the blogosphere, [2025 in Blog Data](https://elmc.at/2025-in-blog-data/).
+
+Stuff to see:
+
+- 26,948 new posts in 2025 and 23,682 new posts in 2024;
+- 211 new blogs in 2025 and 175 new blogs in 2024;
+- every day about 75 new blog posts are published.
+
+Amazing.
+
+Remember their post from November about [Mapping the blogosphere](https://elmc.at/mapping-the-blogosphere/).
+
+I still run the [RPG Planet](https://campaignwiki.org/rpg) including a [Search of RPG Planet](https://campaignwiki.org/rpg/search). See [What is this?](https://campaignwiki.org/wiki/Planet/What_is_this%3f) for more information.
+
+If you want to start a new blog, I’d say that most people are using Blogspot, some people are using Wordpress but recently I’ve seen a growing number of people using [Bear Blog](https://bearblog.dev/). I’ve exchanged some emails with its developer, Herman, because of the RPG Planet Search project.
+
+[#RPG](/search/?q=%23RPG) [#Blogs](/search/?q=%23Blogs)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-12-31-blogosphere</guid>
+    </item>    <item>
       <link>https://wapo.st/44QrP5j</link>
       <description>
         <![CDATA[<p>ICE plans $100 million recruitment push targeting gun shows, military fans.</p>]]>
       </description>
       <source:markdown>ICE plans $100 million recruitment push targeting gun shows, military fans.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/12/31/2334/</guid>
+    </item>    <item>
+      <title>Updates 2025/Q4</title>
+      <link>https://xn--gckvb8fzb.com/updates-2025-q4/</link>
+      <description>
+        <![CDATA[Life and project updates from the current consecutive three-month period. You
+        might find this interesting in case you're using any of my open source tools
+        or you just want to read random things. :-)]]>
+      </description>
+      <source:markdown>Life and project updates from the current consecutive three-month period. You
+might find this interesting in case you&#39;re using any of my open source tools
+or you just want to read random things. :-)</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///updates-2025-q4/</guid>
     </item>    <item>
       <title>LinkedIn Job Scams</title>
       <link>https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html</link>
@@ -62,6 +322,15 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
 &#62; In India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis...</source:markdown>
       <guid>cid://https://www.schneier.com/?p=71401</guid>
+    </item>    <item>
+      <title>Immigrant Derangement Syndrome</title>
+      <link>https://paulkrugman.substack.com/p/immigrant-derangement-syndrome</link>
+      <description>
+        <![CDATA[Blaming brown-skinned people for everything bad]]>
+      </description>
+      <source:markdown>Blaming brown-skinned people for everything bad</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Eq4F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5726bd1-8ee1-4dd7-9e9e-9ca4391b6954_537x349.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/immigrant-derangement-syndrome</guid>
     </item>    <item>
       <title>December 30, 2025</title>
       <link>https://heathercoxrichardson.substack.com/p/december-30-2025</link>
@@ -80,6 +349,27 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <enclosure url="https://substackcdn.com/image/fetch/$s_!V1vD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd6a2f2-2ab5-4684-a8de-c5333f20e683_2695x3500.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/thank-you</guid>
     </item>    <item>
+      <title>The Public Domain</title>
+      <link>https://archive.org/details/future-knowledge-episode-18</link>
+      <description>
+        <![CDATA[<p>What do jazz, gene sequences, and the World Wide Web have in common? They all reveal what’s at stake when our cultural commons shrinks. In this episode, <strong>James Boyle</strong>, author of <strong><em>The Public Domain</em></strong>, joins <strong>Molly Shaffer Van Houweling</strong> to explore why the public domain is essential for creativity, innovation, and a healthy information ecosystem. From surprising case studies to the “range wars” of the digital age, Boyle explains how expanding intellectual property rights can stifle culture—and what it will take to protect the commons we all depend on.</p><p>This conversation was recorded on 12/18/2025. Watch the full video recording at: <a href="https://archive.org/details/the-public-domain">https://archive.org/details/the-public-domain</a> </p><p>Check out all of the Future Knowledge episodes at <a href="https://archive.org/details/future-knowledge">https://archive.org/details/future-knowledge</a></p>]]>
+      </description>
+      <source:markdown>What do jazz, gene sequences, and the World Wide Web have in common? They all reveal what’s at stake when our cultural commons shrinks. In this episode, **James Boyle**, author of **_The Public Domain_**, joins **Molly Shaffer Van Houweling** to explore why the public domain is essential for creativity, innovation, and a healthy information ecosystem. From surprising case studies to the “range wars” of the digital age, Boyle explains how expanding intellectual property rights can stifle culture—and what it will take to protect the commons we all depend on.
+
+This conversation was recorded on 12/18/2025. Watch the full video recording at: [https://archive.org/details/the-public-domain](https://archive.org/details/the-public-domain)
+
+Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)</source:markdown>
+      <enclosure url="https://media.transistor.fm/e99a103f/07143721.mp3" length="49016207" type="audio/mpeg" />
+      <guid>cid://453e8b82-99ad-4997-b042-7486eedb06bd</guid>
+    </item>    <item>
+      <title>Marketoons</title>
+      <link>https://statusq.org/archives/2025/12/31/13481/</link>
+      <description>
+        <![CDATA[I wrote a post back in July called &#8216;The AI Heat Pump&#8216;, about how AI systems can expand small amounts of text into larger amounts and condense larger amounts back into small amounts again, simply burning energy and introducing the odd inaccuracy as they go. So my thanks to John Naughton for introducing me to <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/12/31/13481/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
+      </description>
+      <source:markdown>I wrote a post back in July called ‘The AI Heat Pump‘, about how AI systems can expand small amounts of text into larger amounts and condense larger amounts back into small amounts again, simply burning energy and introducing the odd inaccuracy as they go. So my thanks to John Naughton for introducing me to [Continue Reading](https://statusq.org/archives/2025/12/31/13481/)</source:markdown>
+      <guid>cid://https://statusq.org/?p=13481</guid>
+    </item>    <item>
       <title>On the Scariest Roller Coaster Ever Built</title>
       <link>https://doc.searls.com/2025/12/30/on-the-scariest-roller-coaster-ever-built/</link>
       <description>
@@ -87,6 +377,50 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>I just discovered that the original Cyclone roller coaster at Palisades Amusement Park has its own Wikipedia article, and that the two photos in it are ones I posted on Flickr in 2008 with a permissive license that encouraged re-use. Above is the first. Here is the second: George W. Searls, at the bottom of \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/?p=20116</guid>
+    </item>    <item>
+      <title>Listened to The Crane Wife by The Decemberists</title>
+      <link>https://tracydurnell.com/2025/12/30/listened-crane-wife-decemberists/</link>
+      <description>
+        <![CDATA[I was SO into The Decemberists in college. This album survived The Now-Regretted 2010s CD Purge even though I wasn&#8217;t super into them at that point &#8212; had the sense I just needed a break and this one would come back. I&#8217;m in an early-aughts music mood lately. In the past week I&#8217;ve listened to [&#8230;]]]>
+      </description>
+      <source:markdown>I was SO into The Decemberists in college. This album survived The Now-Regretted 2010s CD Purge even though I wasn’t super into them at that point — had the sense I just needed a break and this one would come back. I’m in an early-aughts music mood lately. In the past week I’ve listened to \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=33278</guid>
+    </item>    <item>
+      <title>I80</title>
+      <link>https://inkdroid.org/2025/12/31/i80/</link>
+      <description>
+        <![CDATA[<p>
+        Recorded in a Ohio service center somewhere along <a
+        href="https://en.wikipedia.org/wiki/Interstate_80">I-80</a>.
+        </p>
+        <audio controls src="/audio/I80.mp3">
+        <p>
+        The muted sound of cars and trucks passing at high speed about 200 feet
+        away.
+        </p>]]>
+      </description>
+      <source:markdown>Recorded in a Ohio service center somewhere along [I-80](https://en.wikipedia.org/wiki/Interstate_80).
+
+The muted sound of cars and trucks passing at high speed about 200 feet
+away.</source:markdown>
+      <guid>cid://https://inkdroid.org/2025/12/31/i80/</guid>
+    </item>    <item>
+      <title>Night-Night History</title>
+      <link>https://www.michaelmoore.com/p/night-night-history</link>
+      <description>
+        <![CDATA[On This Day in The History of Mike]]>
+      </description>
+      <source:markdown>On This Day in The History of Mike</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!EQIt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7835c6da-aaab-4a6c-af8d-c650095921dc_4080x3243.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.michaelmoore.com/p/night-night-history</guid>
+    </item>    <item>
+      <title>Found myself unexpectedly with a day to spend in Phoenix, so I went to the excellent Musical Instruments Museum and ogled the mandolins.</title>
+      <link>https://adactio.com/notes/22326</link>
+      <description>
+        <![CDATA[<p>Found myself unexpectedly with a day to spend in Phoenix, so I went to the excellent Musical Instruments Museum and ogled the mandolins.</p>]]>
+      </description>
+      <source:markdown>Found myself unexpectedly with a day to spend in Phoenix, so I went to the excellent Musical Instruments Museum and ogled the mandolins.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22326</guid>
     </item>    <item>
       <title>Wednesday 31 December, 2025</title>
       <link>https://memex.naughtons.org/wednesday-31-december-2025/41531/</link>
@@ -14924,7 +15258,7 @@ Jeff GeerlingDecember 12, 2025</source:markdown>
       <source:markdown>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. It’s the end of the year! Which means: best-of lists, abounding. Maybe you’ve seen</source:markdown>
       <guid>cid://https://lithub.com/?p=264230</guid>
     </item>    <item>
-      <title>Gist of Go: Concurrency is out!</title>
+      <title>&#39;Gist of Go: Concurrency&#39; is out!</title>
       <link>https://antonz.org/go-concurrency-released/</link>
       <description>
         <![CDATA[Interactive book on concurrent programming with auto-tested exercises.]]>

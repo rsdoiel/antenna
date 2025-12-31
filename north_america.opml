@@ -2,13 +2,14 @@
 <opml version="2.0">
     <head>
         <title>North America</title>
-        <dateCreated>31 Dec 25 11:01 -0800</dateCreated>
+        <dateCreated>31 Dec 25 11:28 -0800</dateCreated>
     </head>
     <body>
         <outline text="Bloomberg" type="rss" xmlUrl="https://feeds.bloomberg.com/news.rss" htmlUrl="https://www.bloomberg.com/" description="Get your latest business news, video and audio from Bloomberg"></outline>
         <outline text="CBC, Canada News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl="https://www.cbc.ca/news/canada/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, Indigenious News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-Indigenous" htmlUrl="https://www.cbc.ca/news/indigenous/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, Top Stories" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-topstories" htmlUrl="https://www.cbc.ca/news/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
+        <outline text="CBC, World News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-world" htmlUrl="https://www.cbc.ca/news/world/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="Current, News for Public Media Orgs" type="rss" xmlUrl="https://current.org/feed/" htmlUrl="https://current.org/,https://current.org/feed/" description="For people in public media" url="https://current.org/feed/"></outline>
         <outline text="Federal News Network" type="rss" xmlUrl="https://federalnewsnetwork.com/feed/" htmlUrl="https://federalnewsnetwork.com,https://federalnewsnetwork.com/feed/" description="Helping feds meet their mission." url="https://federalnewsnetwork.com/feed/"></outline>
         <outline text="Floodlight" type="rss" xmlUrl="https://floodlightnews.org/rss/" htmlUrl="https://floodlightnews.org/,https://floodlightnews.org/rss/" description="Floodlight is a nonprofit newsroom that investigates the powers stalling climate action." url="https://floodlightnews.org/rss/"></outline>
