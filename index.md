@@ -24,7 +24,6 @@ title: The Antenna
 | ---------------------------------                 | -------------------------------------------------------------- | -------------------------------- |
 | [Science & Technology](science_and_technology.html) | Science and Technology                                       | [RSS](science_and_technology.xml), [OPML](science_and_technology.opml) |
 | [Retro Computing](retro_computing.html)           | Computer history and systems                                   | [RSS](retro_computing.xml), [OPML](retro_computing.opml) |
-| [Going Electric](going_electric.html)             | Going Electric                                                 | [RSS](going_electric.xml), [OPML](going_electric.opml) |
 | [Home, Garden & Urban Farm](home.html)            | Home, Garden & Urban blogs and news                            | [RSS](home.xml), [OPML](home.opml) |
 | [Good Eats, Healthy Eats](food.html)              | Healthy Eats, Good Eats                                        | [RSS](food.xml), [OPML](food.opml) |
 | [Libraries](libraries.html)                       | Libraries, Archives and Museums                                | [RSS](libraries.xml), [OPML](libraries.opml) |

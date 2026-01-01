@@ -31,15 +31,6 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: food.db
-    - title: Going Electric
-      link: going_electric.xml
-      description: Going Electric has feeds involving home and transportation options powered by Electricity
-      file: going_electric.md
-      generator: other_reading.yaml
-      filters:
-        - UPDATE items SET status = 'review';
-        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
-      dbName: going_electric.db
     - title: Home, Garden and Urban Farm related blogs
       link: home.xml
       file: home.md
@@ -149,3 +140,8 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: comics.db
+chunksize: 0
+defaultfreq: ""
+defaultpri: ""
+freqrules: {}
+prirules: {}

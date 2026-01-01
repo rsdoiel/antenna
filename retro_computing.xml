@@ -4,10 +4,27 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>31 Dec 25 12:12 -0800</lastBuildDate>
+    <lastBuildDate>01 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>KIM UNO page updated</title>
+      <link>http://retro.hansotten.nl/kim-uno-page-updated/</link>
+      <description>
+        <![CDATA[The KIM UNO, the little cheap KIM-1 hardware emulator needed some information added. Photos, links, text. Like the recently acquired KIM UNO from retro4004bits, alternative firmware by Willem Aandewiel for better LED display and Keypad control. Read it here. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: [&#8230;]]]>
+      </description>
+      <source:markdown>The KIM UNO, the little cheap KIM-1 hardware emulator needed some information added. Photos, links, text. Like the recently acquired KIM UNO from retro4004bits, alternative firmware by Willem Aandewiel for better LED display and Keypad control. Read it here. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19770</guid>
+    </item>    <item>
+      <title>Stewart Cheifet has died</title>
+      <link>https://oldvcr.blogspot.com/2025/12/stewart-cheifet-has-died.html</link>
+      <description>
+        <![CDATA[Very sorry to hear about <a href="https://obits.goldsteinsfuneral.com/stewart-cheifet">the death of Stewart Cheifet</a> at 87, long-time host of Computer Chronicles, which for a long time was the undisputed best show on computers on American public broadcasting. I watched it on PBS TV as a kid, and candidly I didn't understand much of what was going on at the time, but I learned a lot and rewatching the episodes now really demonstrates what a treasure trove of pithy information and industry commentary they were. Gary Kildall, of Digital Research fame, was his co-host in many 1980s episodes and the most notable of an august crew that also included George Morrow and Paul Schindler, but Cheifet was the linchpin and carried the show on his formidable shoulders from its 1984 start until the final episode in 2002. The most amazing part of his work, however, is what happened after: the vast majority of the program is <a href="https://archive.org/details/Computer_Chronicles">preserved for posterity at the Internet Archive</a>, not just with his blessing, but with his active participation. For any computer historian and student of the early industry, the show is not to be missed. Rest in peace.]]>
+      </description>
+      <source:markdown>Very sorry to hear about [the death of Stewart Cheifet](https://obits.goldsteinsfuneral.com/stewart-cheifet) at 87, long-time host of Computer Chronicles, which for a long time was the undisputed best show on computers on American public broadcasting. I watched it on PBS TV as a kid, and candidly I didn&#39;t understand much of what was going on at the time, but I learned a lot and rewatching the episodes now really demonstrates what a treasure trove of pithy information and industry commentary they were. Gary Kildall, of Digital Research fame, was his co-host in many 1980s episodes and the most notable of an august crew that also included George Morrow and Paul Schindler, but Cheifet was the linchpin and carried the show on his formidable shoulders from its 1984 start until the final episode in 2002. The most amazing part of his work, however, is what happened after: the vast majority of the program is [preserved for posterity at the Internet Archive](https://archive.org/details/Computer_Chronicles), not just with his blessing, but with his active participation. For any computer historian and student of the early industry, the show is not to be missed. Rest in peace.</source:markdown>
+      <author>noreply@blogger.com (ClassicHasClass)</author>
+      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-9196037937847846123</guid>
+    </item>    <item>
       <title>b.log 2025/12/31 - Christmas Cards, Fweeeeeeeeeeee..., Russian propaganda, Brigitte Bardot, Tidying up, So here&#39;s to 2025.</title>
       <link>https://heyrick.eu/blog/entry/20251231</link>
       <description>
@@ -1456,14 +1473,6 @@ To build your own version of the `ASMTRM` terminal utility, you&#39;ll need `mak
       </description>
       <source:markdown>David also has an excellent festive tip for Paint users (It&#39;s not too late to send us your advent entry).</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2283.html</guid>
-    </item>    <item>
-      <title>RISC OS &#39;Advent&#39; Calendar 2025 - David Pitt&#39;s Festive RISC OS desktop</title>
-      <link>http://www.iconbar.com/comments/rss/news2280.html</link>
-      <description>
-        <![CDATA[Many thanks to David for a very seasonal and festive RISC OS desktop (It's not too late to send us yours).]]>
-      </description>
-      <source:markdown>Many thanks to David for a very seasonal and festive RISC OS desktop (It&#39;s not too late to send us yours).</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2280.html</guid>
     </item>
   </channel>
 </rss>

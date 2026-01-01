@@ -4,10 +4,37 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>31 Dec 25 12:12 -0800</lastBuildDate>
+    <lastBuildDate>01 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Giant’s Bread, by Agatha Christie</title>
+      <link>https://standardebooks.org/ebooks/agatha-christie/giants-bread</link>
+      <description>
+        <![CDATA[The genesis of a monumental piece of music is described in the life of its composer.]]>
+      </description>
+      <source:markdown>The genesis of a monumental piece of music is described in the life of its composer.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/giants-bread/downloads/agatha-christie_giants-bread.epub?source=feed" length="671950" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/agatha-christie/giants-bread</guid>
+    </item>    <item>
+      <title>Welcome to the Public Domain in 2026</title>
+      <link>https://blog.archive.org/2026/01/01/welcome-to-the-public-domain-in-2026/</link>
+      <description>
+        <![CDATA[Celebrate the public domain with the Internet Archive in the following ways: On January 1, 2026, we celebrate published works from 1930 and published sound recordings from 1925 entering the [&#8230;]]]>
+      </description>
+      <source:markdown>Celebrate the public domain with the Internet Archive in the following ways: On January 1, 2026, we celebrate published works from 1930 and published sound recordings from 1925 entering the \[…\]</source:markdown>
+      <enclosure url="https://ia801501.us.archive.org/16/items/marx_brothers_202101/Marx%20Brothers/Marx%20Brothers%20%5B1930%5D%20Animal%20Crackers.mp4" length="556330698" type="video/mp4" />
+      <enclosure url="https://dn720209.ca.archive.org/0/items/the_three_stooges_specials/The%20Three%20Stooges%20-%200x001%20-%20Soup%20to%20Nuts%20%281930%29.mp4" length="446444421" type="video/mp4" />
+      <guid>cid://https://blog.archive.org/?p=29835</guid>
+    </item>    <item>
+      <title>NY Times: “NASA’s Largest Library is Closing Amid Staff and Lab Cuts”</title>
+      <link>https://www.infodocket.com/2025/12/31/ny-times-nasas-largest-library-is-closing-amid-staff-and-lab-cuts/</link>
+      <description>
+        <![CDATA[A new NY Times article about the closing of the Goddard Space Flight Center Library closing. From the Article: The Trump administration is closing NASA’s largest research library on Friday, a facility that houses tens of thousands of books, documents and journals — many of them not digitized or available anywhere else. Jacob Richmond, a [&#8230;]]]>
+      </description>
+      <source:markdown>A new NY Times article about the closing of the Goddard Space Flight Center Library closing. From the Article: The Trump administration is closing NASA’s largest research library on Friday, a facility that houses tens of thousands of books, documents and journals — many of them not digitized or available anywhere else. Jacob Richmond, a \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167459</guid>
+    </item>    <item>
       <title>Our Baseball Club and How It Won the Championship, by Noah Brooks</title>
       <link>https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship</link>
       <description>
@@ -1212,7 +1239,7 @@ The post [Google’s Last Last Year in Search](https://scholarlykitchen.sspnet.o
         <![CDATA[A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.]]>
       </description>
       <source:markdown>A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/w-r-burnett/little-caesar/downloads/w-r-burnett_little-caesar.epub?source=feed" length="493302" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/w-r-burnett/little-caesar/downloads/w-r-burnett_little-caesar.epub?source=feed" length="493356" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/w-r-burnett/little-caesar</guid>
     </item>    <item>
       <title>Anywhere Adventures is Live!</title>
@@ -1301,177 +1328,6 @@ We know – from speaking with our community (and thank you SO MUCH, for everyon
 
 We’re not done reviewing our fees, and we don’t think the new fee tier addresses all the needs of the growing and evolving scholarly community. We continue working with Sponsors and Ambassadors, and we have upcoming changes to the Global Equitable Membership program to facilitate participation by all types and sizes of organisations sharing research.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/some-things-are-big-because-they-are-small-the-new-fee-tier-for-crossref-members-takes-effect/</guid>
-    </item>    <item>
-      <title>Revisiting the Library Copyright Alliance Statement on AI and Copyright</title>
-      <link>https://www.arl.org/blog/revisiting-the-library-copyright-alliance-statement-on-ai-and-copyright/</link>
-      <description>
-        <![CDATA[<p>Last Updated on December 15, 2025, 9:35 am ET Have you heard of the Library Copyright Alliance (LCA)? We are the voice of the library community on copyright policy. Our...</p>
-        <p>The post <a href="https://www.arl.org/blog/revisiting-the-library-copyright-alliance-statement-on-ai-and-copyright/">Revisiting the Library Copyright Alliance Statement on AI and Copyright</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on December 15, 2025, 9:35 am ET Have you heard of the Library Copyright Alliance (LCA)? We are the voice of the library community on copyright policy. Our...
-
-The post [Revisiting the Library Copyright Alliance Statement on AI and Copyright](https://www.arl.org/blog/revisiting-the-library-copyright-alliance-statement-on-ai-and-copyright/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=46887</guid>
-    </item>    <item>
-      <title>Scientific Integrity in the Age of AI and the challenges of transparency: Fraud, manipulation, and the new transparency challenges</title>
-      <link>https://blog.scielo.org/en/2025/12/10/scientific-integrity-in-the-age-of-ai-and-the-challenges-of-transparency-fraud-manipulation-and-the-new-transparency-challenges/</link>
-      <description>
-        <![CDATA[<p>Artificial intelligence radically transforms the challenges of scientific integrity. From paper mills to automated fraud generation, we face a crisis that requires new forms of transparency, detection and governance to preserve trust in science—combining technology, institutional reforms and international cooperation. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/12/10/scientific-integrity-in-the-age-of-ai-and-the-challenges-of-transparency-fraud-manipulation-and-the-new-transparency-challenges/" class="more-link"><span>Read More &#8594;</span></a></span></p>
-        <p>The post <a href="https://blog.scielo.org/en/2025/12/10/scientific-integrity-in-the-age-of-ai-and-the-challenges-of-transparency-fraud-manipulation-and-the-new-transparency-challenges/">Scientific Integrity in the Age of AI and the challenges of transparency: Fraud, manipulation, and the new transparency challenges</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
-      </description>
-      <source:markdown>Artificial intelligence radically transforms the challenges of scientific integrity. From paper mills to automated fraud generation, we face a crisis that requires new forms of transparency, detection and governance to preserve trust in science—combining technology, institutional reforms and international cooperation. …[Read More →](https://blog.scielo.org/en/2025/12/10/scientific-integrity-in-the-age-of-ai-and-the-challenges-of-transparency-fraud-manipulation-and-the-new-transparency-challenges/)
-
-The post [Scientific Integrity in the Age of AI and the challenges of transparency: Fraud, manipulation, and the new transparency challenges](https://blog.scielo.org/en/2025/12/10/scientific-integrity-in-the-age-of-ai-and-the-challenges-of-transparency-fraud-manipulation-and-the-new-transparency-challenges/) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
-      <guid>cid://https://blog.scielo.org/en/?p=5756</guid>
-    </item>    <item>
-      <title>In the Days of the Comet, by H. G. Wells</title>
-      <link>https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet</link>
-      <description>
-        <![CDATA[A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.]]>
-      </description>
-      <source:markdown>A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet/downloads/h-g-wells_in-the-days-of-the-comet.epub?source=feed" length="588089" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/h-g-wells/in-the-days-of-the-comet</guid>
-    </item>    <item>
-      <title>Impacting Digital Scholarship: Flexible Web-Hosting Service Through CreateFSU</title>
-      <link>https://www.arl.org/our-priorities/data-analytics/impact-reports/impacting-digital-scholarship-flexible-webhosting-service-through-createfsu/</link>
-      <description>
-        <![CDATA[<p>Last Updated on December 10, 2025, 11:01 am ET CreateFSU, the FSU-branded instance of Reclaim Hosting’s web-hosting service, was launched by Florida State University (FSU) Libraries in 2021 to provide...</p>
-        <p>The post <a href="https://www.arl.org/our-priorities/data-analytics/impact-reports/impacting-digital-scholarship-flexible-webhosting-service-through-createfsu/">Impacting Digital Scholarship: Flexible Web-Hosting Service Through CreateFSU</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on December 10, 2025, 11:01 am ET CreateFSU, the FSU-branded instance of Reclaim Hosting’s web-hosting service, was launched by Florida State University (FSU) Libraries in 2021 to provide...
-
-The post [Impacting Digital Scholarship: Flexible Web-Hosting Service Through CreateFSU](https://www.arl.org/our-priorities/data-analytics/impact-reports/impacting-digital-scholarship-flexible-webhosting-service-through-createfsu/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=46842</guid>
-    </item>    <item>
-      <title>In Praise of E. H. Shepard’s Illustrations</title>
-      <link>https://blog.archive.org/2025/12/10/e-h-shepards-illustrations/</link>
-      <description>
-        <![CDATA[What makes Pooh Pooh? The answer lies not only in author A.A. Milne’s prose, but also in the quiet genius of E. H. Shepard’s original illustrations. With Shepard’s work now [&#8230;]]]>
-      </description>
-      <source:markdown>What makes Pooh Pooh? The answer lies not only in author A.A. Milne’s prose, but also in the quiet genius of E. H. Shepard’s original illustrations. With Shepard’s work now \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=29731</guid>
-    </item>    <item>
-      <title>Guest Post — Sustainable Practices and UN SDG Alignment at the 2025 EASE Conference in Oslo</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/10/guest-post-sustainable-practices-and-un-sdg-alignment-at-the-2025-ease-conference-in-oslo/</link>
-      <description>
-        <![CDATA[<p>Today's guest bloggers describe the efforts taken in organizing a sustainable 2025 conference of the European Association for Science Editors.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/10/guest-post-sustainable-practices-and-un-sdg-alignment-at-the-2025-ease-conference-in-oslo/">Guest Post — Sustainable Practices and UN SDG Alignment at the 2025 EASE Conference in Oslo</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest bloggers describe the efforts taken in organizing a sustainable 2025 conference of the European Association for Science Editors.
-
-The post [Guest Post — Sustainable Practices and UN SDG Alignment at the 2025 EASE Conference in Oslo](https://scholarlykitchen.sspnet.org/2025/12/10/guest-post-sustainable-practices-and-un-sdg-alignment-at-the-2025-ease-conference-in-oslo/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61280</guid>
-    </item>    <item>
-      <title>It&#39;s Time: Planning for Metadata Schema Deprecation</title>
-      <link>https://www.crossref.org/blog/its-time-planning-for-metadata-schema-deprecation/</link>
-      <description>
-        <![CDATA[<p>It has been 18 (!) years since Crossref last deprecated a metadata schema. In that time, we&rsquo;ve released numerous schema versions, some major updates, and some interim releases that never saw wide adoption. Now, with 27 different schemas to support, we believe it&rsquo;s time to streamline and move forward.</p>
-        <p>Starting next year, we plan to begin the process of deprecating lightly-used schemas, with the understanding that this will be a multi-year effort involving careful planning and plenty of communication.</p>
-        <h2 id="which-schema-will-be-deprecated">Which schema will be deprecated?</h2>
-        <p>There are two types of schema used to register content metadata records: a full metadata input schema, which follows the pattern <em>crossrefX.X.X.xsd</em>, and resource schema, which follows the pattern <em>doi_resourcesX.X.X.xsd</em>. The resource schema are used to <a href="https://www.crossref.org/documentation/register-maintain-records/maintaining-your-metadata/resource-only-deposit/">append metadata</a>, such as references or funding data, to an existing metadata record.</p>
-        <p>I&rsquo;ve categorized our schemas by usage levels to help prioritize the deprecation process:</p>
-        <p>Light usage (planned for initial deprecation):</p>
-        <ul>
-        <li>crossref4.3.1.xsd</li>
-        <li>crossref4.3.2.xsd</li>
-        <li>crossref4.8.1.xsd</li>
-        <li>doi_resources4.3.2.xsd</li>
-        <li>doi_resources4.3.4.xsd</li>
-        <li>doi_resources4.3.5.xsd</li>
-        <li>doi_resources4.4.2.xsd</li>
-        </ul>
-        <p>Moderate usage:</p>
-        <ul>
-        <li>crossref4.3.3.xsd</li>
-        <li>crossref4.3.4.xsd</li>
-        <li>crossref4.3.5.xsd</li>
-        </ul>
-        <p>High usage:</p>
-        <ul>
-        <li>crossref4.3.0.xsd</li>
-        <li>crossref4.3.6.xsd</li>
-        <li>crossref4.3.7.xsd</li>
-        <li>crossref4.4.0.xsd</li>
-        <li>crossref4.4.1.xsd</li>
-        <li>crossref4.4.2.xsd</li>
-        <li>doi_resources4.3.0.xsd</li>
-        <li>doi_resources4.3.6.xsd</li>
-        </ul>
-        <p>We currently support 5 versions of our grants-specific schema and will be working with our funder members to move to new versions of that schema over time - this will follow a different timeline and process as there are fewer schemas to navigate.</p>
-        <p>If you don&rsquo;t know which version you&rsquo;re currently using, now would be a good time to check. Many of our members are still using 4.3.0, the earliest supported version.</p>
-        <h3 id="why-deprecate-now">Why deprecate now?</h3>
-        <ul>
-        <li><em>Supporting 27 schema is unsustainable</em>: Each schema version we maintain adds complexity to our systems and makes it harder to implement improvements that benefit everyone.</li>
-        <li><em>Existing schema need modernization</em>. Some fundamental elements, like names and titles, need to be modeled differently to fully capture variations in language and usage patterns across different cultures and contexts. We also have too many bespoke record types. Consolidating these will create a simpler, more coherent structure. We may retain certain specialized structures for journal articles and books, but overall, simplification will benefit everyone.</li>
-        </ul>
-        <p>Most importantly:</p>
-        <ul>
-        <li><em>Our current requirements are too minimal</em>. For most record types, we only require a title and publication year. While this low barrier has made registration accessible, it hasn&rsquo;t served metadata quality well. We know you can do better, and we&rsquo;d like to ask for more to improve the richness and utility of Crossref metadata.</li>
-        </ul>
-        <h3 id="what-happens-next">What happens next?</h3>
-        <p>This won&rsquo;t be an abrupt change. We would like to deprecate the schema flagged ‘light usage’ by the end of 2026 and will be reaching out to impacted members early next year. For other schema, we&rsquo;re planning a multi-year effort with clear communication at every stage. We&rsquo;ll provide ample notice before any schema is deprecated, along with migration guidance and support.</p>
-        <p>With the exception of recent changes to affiliation metadata, we&rsquo;ve primarily been building on existing schema structures. This means upgrading should be straightforward for most users. As mentioned, we&rsquo;ll judiciously making some breaking changes to names, titles, and requirements, and would like to consolidate schema as we move forward.</p>
-        <p>Our goal is to create a more robust, modern metadata framework that better serves the scholarly community while reducing the maintenance burden that comes with supporting decades of schema versions. Stay tuned for more details on timelines and migration paths. In the meantime, if you&rsquo;re unsure which schema version you&rsquo;re using, we encourage you to check your current implementation.</p>]]>
-      </description>
-      <source:markdown>It has been 18 (!) years since Crossref last deprecated a metadata schema. In that time, we’ve released numerous schema versions, some major updates, and some interim releases that never saw wide adoption. Now, with 27 different schemas to support, we believe it’s time to streamline and move forward.
-
-Starting next year, we plan to begin the process of deprecating lightly-used schemas, with the understanding that this will be a multi-year effort involving careful planning and plenty of communication.
-
-## Which schema will be deprecated?
-
-There are two types of schema used to register content metadata records: a full metadata input schema, which follows the pattern _crossrefX.X.X.xsd_, and resource schema, which follows the pattern _doi\_resourcesX.X.X.xsd_. The resource schema are used to [append metadata](https://www.crossref.org/documentation/register-maintain-records/maintaining-your-metadata/resource-only-deposit/), such as references or funding data, to an existing metadata record.
-
-I’ve categorized our schemas by usage levels to help prioritize the deprecation process:
-
-Light usage (planned for initial deprecation):
-
-- crossref4.3.1.xsd
-- crossref4.3.2.xsd
-- crossref4.8.1.xsd
-- doi\_resources4.3.2.xsd
-- doi\_resources4.3.4.xsd
-- doi\_resources4.3.5.xsd
-- doi\_resources4.4.2.xsd
-
-Moderate usage:
-
-- crossref4.3.3.xsd
-- crossref4.3.4.xsd
-- crossref4.3.5.xsd
-
-High usage:
-
-- crossref4.3.0.xsd
-- crossref4.3.6.xsd
-- crossref4.3.7.xsd
-- crossref4.4.0.xsd
-- crossref4.4.1.xsd
-- crossref4.4.2.xsd
-- doi\_resources4.3.0.xsd
-- doi\_resources4.3.6.xsd
-
-We currently support 5 versions of our grants-specific schema and will be working with our funder members to move to new versions of that schema over time - this will follow a different timeline and process as there are fewer schemas to navigate.
-
-If you don’t know which version you’re currently using, now would be a good time to check. Many of our members are still using 4.3.0, the earliest supported version.
-
-### Why deprecate now?
-
-- _Supporting 27 schema is unsustainable_: Each schema version we maintain adds complexity to our systems and makes it harder to implement improvements that benefit everyone.
-- _Existing schema need modernization_. Some fundamental elements, like names and titles, need to be modeled differently to fully capture variations in language and usage patterns across different cultures and contexts. We also have too many bespoke record types. Consolidating these will create a simpler, more coherent structure. We may retain certain specialized structures for journal articles and books, but overall, simplification will benefit everyone.
-
-Most importantly:
-
-- _Our current requirements are too minimal_. For most record types, we only require a title and publication year. While this low barrier has made registration accessible, it hasn’t served metadata quality well. We know you can do better, and we’d like to ask for more to improve the richness and utility of Crossref metadata.
-
-### What happens next?
-
-This won’t be an abrupt change. We would like to deprecate the schema flagged ‘light usage’ by the end of 2026 and will be reaching out to impacted members early next year. For other schema, we’re planning a multi-year effort with clear communication at every stage. We’ll provide ample notice before any schema is deprecated, along with migration guidance and support.
-
-With the exception of recent changes to affiliation metadata, we’ve primarily been building on existing schema structures. This means upgrading should be straightforward for most users. As mentioned, we’ll judiciously making some breaking changes to names, titles, and requirements, and would like to consolidate schema as we move forward.
-
-Our goal is to create a more robust, modern metadata framework that better serves the scholarly community while reducing the maintenance burden that comes with supporting decades of schema versions. Stay tuned for more details on timelines and migration paths. In the meantime, if you’re unsure which schema version you’re using, we encourage you to check your current implementation.</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/its-time-planning-for-metadata-schema-deprecation/</guid>
     </item>
   </channel>
 </rss>
