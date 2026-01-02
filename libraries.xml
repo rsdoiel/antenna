@@ -4,10 +4,145 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>01 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>02 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>As I Lay Dying, by William Faulkner</title>
+      <link>https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying</link>
+      <description>
+        <![CDATA[After a woman in rural Mississippi dies, her husband and five children begin an arduous journey to convey her coffin back to her hometown.]]>
+      </description>
+      <source:markdown>After a woman in rural Mississippi dies, her husband and five children begin an arduous journey to convey her coffin back to her hometown.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying/downloads/william-faulkner_as-i-lay-dying.epub?source=feed" length="537998" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying</guid>
+    </item>    <item>
+      <title>The Faraway Bride, by Stella Benson</title>
+      <link>https://standardebooks.org/ebooks/stella-benson/the-faraway-bride</link>
+      <description>
+        <![CDATA[A young Russian man walks from Manchuria to Seoul to reclaim an old debt.]]>
+      </description>
+      <source:markdown>A young Russian man walks from Manchuria to Seoul to reclaim an old debt.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/stella-benson/the-faraway-bride/downloads/stella-benson_the-faraway-bride.epub?source=feed" length="672589" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/stella-benson/the-faraway-bride</guid>
+    </item>    <item>
+      <title>Years of Grace, by Margaret Ayer Barnes</title>
+      <link>https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace</link>
+      <description>
+        <![CDATA[A young woman comes of age in the American Midwest at the turn of the 20th century.]]>
+      </description>
+      <source:markdown>A young woman comes of age in the American Midwest at the turn of the 20th century.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace/downloads/margaret-ayer-barnes_years-of-grace.epub?source=feed" length="1098366" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace</guid>
+    </item>    <item>
+      <title>Not Without Laughter, by Langston Hughes</title>
+      <link>https://standardebooks.org/ebooks/langston-hughes/not-without-laughter</link>
+      <description>
+        <![CDATA[An African-American boy comes of age in a small town in Kansas.]]>
+      </description>
+      <source:markdown>An African-American boy comes of age in a small town in Kansas.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/langston-hughes/not-without-laughter/downloads/langston-hughes_not-without-laughter.epub?source=feed" length="443100" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/langston-hughes/not-without-laughter</guid>
+    </item>    <item>
+      <title>The End of the World, by Geoffrey Dennis</title>
+      <link>https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world</link>
+      <description>
+        <![CDATA[A philosophical reflection on how the end of the world would unfold based on hypothetical variables and relevant knowledge and historical context.]]>
+      </description>
+      <source:markdown>A philosophical reflection on how the end of the world would unfold based on hypothetical variables and relevant knowledge and historical context.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world/downloads/geoffrey-dennis_the-end-of-the-world.epub?source=feed" length="532439" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world</guid>
+    </item>    <item>
+      <title>The Castle, by Franz Kafka</title>
+      <link>https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir</link>
+      <description>
+        <![CDATA[A land surveyor accepts an appointment in a distant town, but is surprised to find that he is unwanted there.]]>
+      </description>
+      <source:markdown>A land surveyor accepts an appointment in a distant town, but is surprised to find that he is unwanted there.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir/downloads/franz-kafka_the-castle_willa-muir-edwin-muir.epub?source=feed" length="932102" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir</guid>
+    </item>    <item>
+      <title>Vile Bodies, by Evelyn Waugh</title>
+      <link>https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies</link>
+      <description>
+        <![CDATA[A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.]]>
+      </description>
+      <source:markdown>A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/evelyn-waugh_vile-bodies.epub?source=feed" length="713210" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies</guid>
+    </item>    <item>
+      <title>Miss Mole, by E. H. Young</title>
+      <link>https://standardebooks.org/ebooks/e-h-young/miss-mole</link>
+      <description>
+        <![CDATA[A middle-aged governess tries to find her purpose in life.]]>
+      </description>
+      <source:markdown>A middle-aged governess tries to find her purpose in life.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/e-h-young/miss-mole/downloads/e-h-young_miss-mole.epub?source=feed" length="1192504" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/e-h-young/miss-mole</guid>
+    </item>    <item>
+      <title>Cimarron, by Edna Ferber</title>
+      <link>https://standardebooks.org/ebooks/edna-ferber/cimarron</link>
+      <description>
+        <![CDATA[A colorful frontiersman and his southern belle wife migrate to Oklahoma during the 1889 land rush to start a new life.]]>
+      </description>
+      <source:markdown>A colorful frontiersman and his southern belle wife migrate to Oklahoma during the 1889 land rush to start a new life.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/edna-ferber/cimarron/downloads/edna-ferber_cimarron.epub?source=feed" length="711402" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/edna-ferber/cimarron</guid>
+    </item>    <item>
+      <title>Strong Poison, by Dorothy L. Sayers</title>
+      <link>https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison</link>
+      <description>
+        <![CDATA[A gentleman detective works to exonerate a woman accused of poisoning her ex-lover.]]>
+      </description>
+      <source:markdown>A gentleman detective works to exonerate a woman accused of poisoning her ex-lover.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison/downloads/dorothy-l-sayers_strong-poison.epub?source=feed" length="641355" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison</guid>
+    </item>    <item>
+      <title>The Maltese Falcon, by Dashiell Hammett</title>
+      <link>https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon</link>
+      <description>
+        <![CDATA[A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.]]>
+      </description>
+      <source:markdown>A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon/downloads/dashiell-hammett_the-maltese-falcon.epub?source=feed" length="1006527" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon</guid>
+    </item>    <item>
+      <title>Short Fiction, by Daphne du Maurier</title>
+      <link>https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction</link>
+      <description>
+        <![CDATA[A collection of short stories by Daphne du Maurier.]]>
+      </description>
+      <source:markdown>A collection of short stories by Daphne du Maurier.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction/downloads/daphne-du-maurier_short-fiction.epub?source=feed" length="285848" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction</guid>
+    </item>    <item>
+      <title>The Secret of the Old Clock, by Carolyn Keene</title>
+      <link>https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock</link>
+      <description>
+        <![CDATA[The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.]]>
+      </description>
+      <source:markdown>The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/carolyn-keene_the-secret-of-the-old-clock.epub?source=feed" length="448117" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock</guid>
+    </item>    <item>
+      <title>The Mystery at Lilac Inn, by Carolyn Keene</title>
+      <link>https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn</link>
+      <description>
+        <![CDATA[A young amateur detective attempts to recover her friend’s stolen diamonds.]]>
+      </description>
+      <source:markdown>A young amateur detective attempts to recover her friend’s stolen diamonds.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn/downloads/carolyn-keene_the-mystery-at-lilac-inn.epub?source=feed" length="654134" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn</guid>
+    </item>    <item>
+      <title>The Hidden Staircase, by Carolyn Keene</title>
+      <link>https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase</link>
+      <description>
+        <![CDATA[A young amateur detective investigates a supposed haunting.]]>
+      </description>
+      <source:markdown>A young amateur detective investigates a supposed haunting.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/carolyn-keene_the-hidden-staircase.epub?source=feed" length="650699" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase</guid>
+    </item>    <item>
       <title>Giant’s Bread, by Agatha Christie</title>
       <link>https://standardebooks.org/ebooks/agatha-christie/giants-bread</link>
       <description>
@@ -1232,102 +1367,6 @@ The post [Google’s Last Last Year in Search](https://scholarlykitchen.sspnet.o
       </description>
       <source:markdown>Learn how ROR IDs can help track organizational partnerships in this deep dive into work that Metadata Game Changers did with the EarthScope Consortium to add identifiers to DataCite DOI metadata for geophysical datasets.</source:markdown>
       <guid>cid://https://doi.org/10.71938/t5bn-bm23</guid>
-    </item>    <item>
-      <title>Little Caesar, by W. R. Burnett</title>
-      <link>https://standardebooks.org/ebooks/w-r-burnett/little-caesar</link>
-      <description>
-        <![CDATA[A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.]]>
-      </description>
-      <source:markdown>A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/w-r-burnett/little-caesar/downloads/w-r-burnett_little-caesar.epub?source=feed" length="493356" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/w-r-burnett/little-caesar</guid>
-    </item>    <item>
-      <title>Anywhere Adventures is Live!</title>
-      <link>https://blogs.loc.gov/thesignal/2025/12/anywhere-adventures-is-live/</link>
-      <description>
-        <![CDATA[This post is the third in a series about the Library’s 2025 Innovator in Residence, Vivian Li, and her project Anywhere Adventures. Following the selection of three communities, and a visit to the Library for research, the mobile experience has now officially launched!   The 2025 Innovator in Residence project, Anywhere Adventures, has officially launched!   The &#8230;]]>
-      </description>
-      <source:markdown>This post is the third in a series about the Library’s 2025 Innovator in Residence, Vivian Li, and her project Anywhere Adventures. Following the selection of three communities, and a visit to the Library for research, the mobile experience has now officially launched!   The 2025 Innovator in Residence project, Anywhere Adventures, has officially launched!   The …</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=35873</guid>
-    </item>    <item>
-      <title>Fast-Tracking H.R. 6028 Can Threaten Copyright Deposit &#38; the Public Interest</title>
-      <link>https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/fast-tracking-h-r-6028-can-threaten-copyright-deposit-the-public-interest/</link>
-      <description>
-        <![CDATA[<p>Last Updated on December 11, 2025, 10:21 am ET On December 11, 2025, the Library Copyright Alliance submitted comments on H.R. 6028, highlighting concerns about ending the Library of Congress’s...</p>
-        <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/fast-tracking-h-r-6028-can-threaten-copyright-deposit-the-public-interest/">Fast-Tracking H.R. 6028 Can Threaten Copyright Deposit &#038; the Public Interest</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on December 11, 2025, 10:21 am ET On December 11, 2025, the Library Copyright Alliance submitted comments on H.R. 6028, highlighting concerns about ending the Library of Congress’s...
-
-The post [Fast-Tracking H.R. 6028 Can Threaten Copyright Deposit &#38; the Public Interest](https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/fast-tracking-h-r-6028-can-threaten-copyright-deposit-the-public-interest/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=46900</guid>
-    </item>    <item>
-      <title>Transfer Explorer Is Growing</title>
-      <link>https://sr.ithaka.org/blog/transfer-explorer-is-growing/</link>
-      <description>
-        <![CDATA[<p>Today’s students are more mobile than ever before. A striking 45 percent of Associate degree holders and 67 percent of Bachelor degree holders have transcripts with learning from multiple institutions. Transfer student enrollment has increased by 8 percent since 2020, largely fueled by students who previously earned college credits and are now returning to higher [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/transfer-explorer-is-growing/">Transfer Explorer Is Growing</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Today’s students are more mobile than ever before. A striking 45 percent of Associate degree holders and 67 percent of Bachelor degree holders have transcripts with learning from multiple institutions. Transfer student enrollment has increased by 8 percent since 2020, largely fueled by students who previously earned college credits and are now returning to higher \[…\]
-
-The post [Transfer Explorer Is Growing](https://sr.ithaka.org/blog/transfer-explorer-is-growing/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=324154</guid>
-    </item>    <item>
-      <title>Guest Post:  Academic Publishing Is  Not Fit for the Future – If We Don’t Act Now, The Vital Role Research Plays in Society Is at Risk</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/11/guest-post-academic-publishing-is-not-fit-for-the-future-if-we-dont-act-now-the-vital-role-research-plays-in-society-is-at-risk/</link>
-      <description>
-        <![CDATA[<p>Academic publishing ia reaching a breaking point. Unless we redesign it, we risk stalling the very progress we seek – with consequences impacting research, education and public trust in academia.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/11/guest-post-academic-publishing-is-not-fit-for-the-future-if-we-dont-act-now-the-vital-role-research-plays-in-society-is-at-risk/">Guest Post:  Academic Publishing Is  Not Fit for the Future – If We Don’t Act Now, The Vital Role Research Plays in Society Is at Risk</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Academic publishing ia reaching a breaking point. Unless we redesign it, we risk stalling the very progress we seek – with consequences impacting research, education and public trust in academia.
-
-The post [Guest Post:  Academic Publishing Is  Not Fit for the Future – If We Don’t Act Now, The Vital Role Research Plays in Society Is at Risk](https://scholarlykitchen.sspnet.org/2025/12/11/guest-post-academic-publishing-is-not-fit-for-the-future-if-we-dont-act-now-the-vital-role-research-plays-in-society-is-at-risk/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61340</guid>
-    </item>    <item>
-      <title>Some things are big because they are small – the new fee tier for Crossref members takes effect</title>
-      <link>https://www.crossref.org/blog/some-things-are-big-because-they-are-small-the-new-fee-tier-for-crossref-members-takes-effect/</link>
-      <description>
-        <![CDATA[<p>In January 2026, our new annual membership fee tier takes effect. The new tier is US$200 for member organisations that operate on publishing revenue or expenses (whichever is higher) of up to US$1,000 annually. We <a href="https://doi.org/10.64000/cvvj8-tax10" target="_blank">announced the Board’s decision</a>, making it possible in July, and––as you can infer from <a href="https://doi.org/10.64000/tch5n-9px70" target="_blank">Amanda’s latest blog</a>––this is the first such change to the annual membership fee tiers in close to 20 years!</p>
-        <p>The new fee tier resulted from the consultation process and fees review undertaken as part of the <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">Resourcing Crossref for Future Sustainability program</a>, carried out with the help of our <a href="https://www.crossref.org/committees/membership-and-fees/">Membership and Fees Committee</a> (made up of representatives from member organisations and community partners). The program is ongoing, and the new fee tier, intended to make Crossref membership more accessible, is one of the first changes it helped us determine.</p>
-        <p>When our membership renewal invoices are sent out in January 2026, the new fee tier will apply to 3,194 of our existing members, who will receive annual membership invoices 27% lower than previously. Surveys preceding the introduction of the new fee tier have shown that it might be applicable to between 30-60% of the organisations in what used to be our lowest fee tier (US$275 fee for organisations with publishing revenue or expenses of up to US$1 million).</p>
-        <p>We received positive feedback from members affected by the change.</p>
-        <blockquote>
-        <p>We are very grateful for the new lowest membership fee tier. The Crossref fee is indeed a significant expense for our organisation, but we accept it given its importance. This new fee structure will make it easier for us to cover the cost.” – said Marina Pérez, Análisis Filosófico.</p>
-        </blockquote>
-        <blockquote>
-        <p>This initiative by Crossref to reduce membership fees is a welcome step toward achieving a truly global and connected research ecosystem. This will undoubtedly help our journal&rsquo;s mission in fostering inclusive, open, and accessible publishing.” – said Dev Roychowdhury, Journal of Psychological Experience.</p>
-        </blockquote>
-        <p>Following the feedback provided in the consultations and a number of prompts over the months after the original announcement, our Membership Team gathered information necessary to transition 3,194 members into the new fee tier. That’s 14.5% of all Crossref members (please note that in the graph below the number of members in $200 tier is higher due to recent influx of new members who didn&rsquo;t need to transition, further – &ldquo;$0&rdquo; denotes all our sponsored members, who don’t pay membership fees to us, and those included in the <a href="https://www.crossref.org/gem/">GEM program</a>).</p>
-        <div style="text-align:center;margin:10px">
-        <figure><img src="https://www.crossref.org/images/blog/2025/newfee-pie.png"
-        alt="pie chart showing proportion of Crossref members on each membership fee tier" width="75%">
-        </figure>
-        </div>
-        <p>Any members out there who think their organisation should be moved to the new lowest membership fee tier and haven’t already informed us – please contact us as soon as possible, before the end of the year, so we can make the change before invoices are raised in January.</p>
-        <p>We know – from speaking with our community (and thank you SO MUCH, for everyone’s feedback in surveys and discussions!) that this change makes participation in Crossref more accessible to smaller organisations communicating research. This will result in a continued flow of new records and associated metadata into the <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">research nexus</a>, helping us to make it easier to find and assess research, achieve greater transparency in the scientific process, and continue building trust in its outputs.</p>
-        <p>We’re not done reviewing our fees, and we don’t think the new fee tier addresses all the needs of the growing and evolving scholarly community. We continue working with Sponsors and Ambassadors, and we have upcoming changes to the Global Equitable Membership program to facilitate participation by all types and sizes of organisations sharing research.</p>]]>
-      </description>
-      <source:markdown>In January 2026, our new annual membership fee tier takes effect. The new tier is US$200 for member organisations that operate on publishing revenue or expenses (whichever is higher) of up to US$1,000 annually. We [announced the Board’s decision](https://doi.org/10.64000/cvvj8-tax10), making it possible in July, and––as you can infer from [Amanda’s latest blog](https://doi.org/10.64000/tch5n-9px70)––this is the first such change to the annual membership fee tiers in close to 20 years!
-
-The new fee tier resulted from the consultation process and fees review undertaken as part of the [Resourcing Crossref for Future Sustainability program](https://www.crossref.org/community/special-programs/resourcing-crossref/), carried out with the help of our [Membership and Fees Committee](https://www.crossref.org/committees/membership-and-fees/) (made up of representatives from member organisations and community partners). The program is ongoing, and the new fee tier, intended to make Crossref membership more accessible, is one of the first changes it helped us determine.
-
-When our membership renewal invoices are sent out in January 2026, the new fee tier will apply to 3,194 of our existing members, who will receive annual membership invoices 27% lower than previously. Surveys preceding the introduction of the new fee tier have shown that it might be applicable to between 30-60% of the organisations in what used to be our lowest fee tier (US$275 fee for organisations with publishing revenue or expenses of up to US$1 million).
-
-We received positive feedback from members affected by the change.
-
-&#62; We are very grateful for the new lowest membership fee tier. The Crossref fee is indeed a significant expense for our organisation, but we accept it given its importance. This new fee structure will make it easier for us to cover the cost.” – said Marina Pérez, Análisis Filosófico.
-
-&#62; This initiative by Crossref to reduce membership fees is a welcome step toward achieving a truly global and connected research ecosystem. This will undoubtedly help our journal’s mission in fostering inclusive, open, and accessible publishing.” – said Dev Roychowdhury, Journal of Psychological Experience.
-
-Following the feedback provided in the consultations and a number of prompts over the months after the original announcement, our Membership Team gathered information necessary to transition 3,194 members into the new fee tier. That’s 14.5% of all Crossref members (please note that in the graph below the number of members in $200 tier is higher due to recent influx of new members who didn’t need to transition, further – “$0” denotes all our sponsored members, who don’t pay membership fees to us, and those included in the [GEM program](https://www.crossref.org/gem/)).
-
-![pie chart showing proportion of Crossref members on each membership fee tier](https://www.crossref.org/images/blog/2025/newfee-pie.png)
-
-Any members out there who think their organisation should be moved to the new lowest membership fee tier and haven’t already informed us – please contact us as soon as possible, before the end of the year, so we can make the change before invoices are raised in January.
-
-We know – from speaking with our community (and thank you SO MUCH, for everyone’s feedback in surveys and discussions!) that this change makes participation in Crossref more accessible to smaller organisations communicating research. This will result in a continued flow of new records and associated metadata into the [research nexus](https://www.crossref.org/documentation/research-nexus/), helping us to make it easier to find and assess research, achieve greater transparency in the scientific process, and continue building trust in its outputs.
-
-We’re not done reviewing our fees, and we don’t think the new fee tier addresses all the needs of the growing and evolving scholarly community. We continue working with Sponsors and Ambassadors, and we have upcoming changes to the Global Equitable Membership program to facilitate participation by all types and sizes of organisations sharing research.</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/some-things-are-big-because-they-are-small-the-new-fee-tier-for-crossref-members-takes-effect/</guid>
     </item>
   </channel>
 </rss>

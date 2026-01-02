@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Home, Garden and Urban Farm related blogs</title>
-        <dateCreated>01 Jan 26 08:11 -0800</dateCreated>
+        <dateCreated>02 Jan 26 08:11 -0800</dateCreated>
     </head>
     <body>
         <outline text="Calfifornia Dept. Aggriculture blog" type="rss" xmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" htmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress,https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" description="Protecting and Promoting California Agriculture" url="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2"></outline>
@@ -24,6 +24,6 @@
         <outline text="The Gardener&#39;s Path" type="rss" xmlUrl="https://gardenerspath.com/feed/" htmlUrl="https://gardenerspath.com/,https://gardenerspath.com/feed/" description="Everything yard and gardening" url="https://gardenerspath.com/feed/"></outline>
         <outline text="Virtical Farm Blog" type="rss" xmlUrl="http://www.verticalfarm.com/?feed=rss2" htmlUrl="http://www.verticalfarm.com,http://www.verticalfarm.com/?feed=rss2" description="Feeding the World in the 21st Century" url="http://www.verticalfarm.com/?feed=rss2"></outline>
         <outline text="Wild Yards blog" type="rss" xmlUrl="https://wildyards.com/feed/" htmlUrl="https://wildyards.com,https://wildyards.com/feed/" url="https://wildyards.com/feed/"></outline>
-        <outline text="Yard Life blog" type="rss" xmlUrl="https://ownyardlife.com/feed/" htmlUrl="https://ownyardlife.com/,https://ownyardlife.com/feed/" description="Gardening Guide" url="https://ownyardlife.com/feed/"></outline>
+        <outline text="Yard Life blog" type="rss" xmlUrl="https://ownyardlife.com/feed/" htmlUrl="https://ownyardlife.com/,https://ownyardlife.com/feed/" description="Exploring Wildlife, Nature, and Your Backyard" url="https://ownyardlife.com/feed/"></outline>
     </body>
 </opml>

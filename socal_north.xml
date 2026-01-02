@@ -7,10 +7,34 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>01 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>02 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mark the first LA wildfires anniversary with concerts, vigils and volunteering</title>
+      <link>https://laist.com/news/climate-environment/la-wildfires-anniversary-events-eaton-palisades</link>
+      <description>
+        <![CDATA[One year after the devastating 2025 wildfires in Los Angeles, multiple events and volunteer opportunities remember the losses and honor the ongoing recovery.]]>
+      </description>
+      <source:markdown>One year after the devastating 2025 wildfires in Los Angeles, multiple events and volunteer opportunities remember the losses and honor the ongoing recovery.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-5c96-ddcc-a9db-fcbfd39e0001</guid>
+    </item>    <item>
+      <title>A new California law gives the state more power over workplaces. Trump is suing to block it</title>
+      <link>https://laist.com/news/politics/a-new-california-law-gives-the-state-more-power-over-workplaces-trump-is-suing-to-block-it</link>
+      <description>
+        <![CDATA[A new law backed by California unions gives a state board the right to regulate working conditions and labor rights as the federal labor board’s fate is in limbo.]]>
+      </description>
+      <source:markdown>A new law backed by California unions gives a state board the right to regulate working conditions and labor rights as the federal labor board’s fate is in limbo.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-7c2c-de6b-ad9f-ffaf6a300000</guid>
+    </item>    <item>
+      <title>Congress failed to extend Obamacare subsidies. This Democrat says Trump can save them</title>
+      <link>https://laist.com/news/health/congress-failed-to-extend-obamacare-subsidies-this-democrat-says-trump-can-save-them</link>
+      <description>
+        <![CDATA[Sen. Peter Welch, D-Vt., says he thinks the Senate can pass a "retroactive" Affordable Care Act subsidy extension, but "we need President Trump."]]>
+      </description>
+      <source:markdown>Sen. Peter Welch, D-Vt., says he thinks the Senate can pass a &#34;retroactive&#34; Affordable Care Act subsidy extension, but &#34;we need President Trump.&#34;</source:markdown>
+      <guid>cid://urn:uuid:0000019b-7b87-d464-adff-fbe77dca0000</guid>
+    </item>    <item>
       <title>Rising from the ashes, a symbol of hope at the Rose Parade</title>
       <link>https://laist.com/news/los-angeles-activities/rising-from-the-ashes-a-symbol-of-hope-at-the-rose-parade</link>
       <description>
@@ -19,12 +43,12 @@
       <source:markdown>Survivors of the Eaton and Palisades Fires find healing and community working on a Rose Parade float to honor the lives and communities lost in last year&#39;s wildfires.</source:markdown>
       <guid>cid://urn:uuid:0000019b-7a1a-d6b4-a1fb-7a1f93680000</guid>
     </item>    <item>
-      <title>The 137th Rose Parade gets underway in defiance of the rainy skies</title>
+      <title>The Rose Parade becomes a backdrop to protest banner demanding wildfire investigation</title>
       <link>https://laist.com/news/los-angeles-activities/137th-rose-parade-pasadena</link>
       <description>
-        <![CDATA[Legend has it that it "never" rains on the Rose Parade. History says that's not true. So does today's forecast.]]>
+        <![CDATA[The banner, seen on live TV, calls for a probe into the cause of the Eaton wildfire.]]>
       </description>
-      <source:markdown>Legend has it that it &#34;never&#34; rains on the Rose Parade. History says that&#39;s not true. So does today&#39;s forecast.</source:markdown>
+      <source:markdown>The banner, seen on live TV, calls for a probe into the cause of the Eaton wildfire.</source:markdown>
       <guid>cid://urn:uuid:0000019b-7641-d568-a1df-f663f0660000</guid>
     </item>    <item>
       <title>Federal funding for UCLA researchers has been restored — but things aren’t quite back to normal</title>
@@ -91,12 +115,12 @@
       <source:markdown>Federal rescheduling of marijuana products could make a bigger change.</source:markdown>
       <guid>cid://urn:uuid:0000019b-7695-d568-a1df-f6f742a70000</guid>
     </item>    <item>
-      <title>Mount Baldy closed after three hikers found dead</title>
+      <title>Mt. Baldy trail closures extended after 3 hikers found dead. Authorities warn of &#39;extreme&#39; hazards</title>
       <link>https://laist.com/news/climate-environment/mount-baldy-closed-after-three-hikers-found-dead</link>
       <description>
-        <![CDATA[San Bernardino County has closed all hiking trails around Mt. Baldy. Hikers who violate the closure could be fined or face jail time.]]>
+        <![CDATA[San Bernardino County has closed all hiking trails around Mount Baldy. Hikers who violate the closure could be fined or face jail time.]]>
       </description>
-      <source:markdown>San Bernardino County has closed all hiking trails around Mt. Baldy. Hikers who violate the closure could be fined or face jail time.</source:markdown>
+      <source:markdown>San Bernardino County has closed all hiking trails around Mount Baldy. Hikers who violate the closure could be fined or face jail time.</source:markdown>
       <guid>cid://urn:uuid:0000019b-763d-d568-a1df-f67fcd110000</guid>
     </item>    <item>
       <title>Ready to toss your Christmas Tree? Here’s how to recycle it in LA and OC</title>
@@ -131,12 +155,12 @@
       <source:markdown>Spoiler alert: California’s deficit grows, uncertainty looms, and state leaders may have fewer options than before to tackle it.</source:markdown>
       <guid>cid://urn:uuid:0000019b-754b-d568-a1df-f76b8dec0000</guid>
     </item>    <item>
-      <title>2026 ushers in flood warnings, heavy SoCal rains. Here&#39;s how the storm is tracking</title>
+      <title>2026 ushers in back-to-back SoCal storms. Here&#39;s what your weekend weather looks like</title>
       <link>https://laist.com/news/climate-environment/nye-2026-rain-storm-los-angeles</link>
       <description>
-        <![CDATA[The National Weather Service says moderate to heavy rains expected all morning on New Year's Day.]]>
+        <![CDATA[The National Weather Service says there's at least a chance of rain every day until the middle of next week.]]>
       </description>
-      <source:markdown>The National Weather Service says moderate to heavy rains expected all morning on New Year&#39;s Day.</source:markdown>
+      <source:markdown>The National Weather Service says there&#39;s at least a chance of rain every day until the middle of next week.</source:markdown>
       <guid>cid://urn:uuid:0000019b-70d1-dfe9-afbb-fad500200000</guid>
     </item>    <item>
       <title>You shared what made Altadena and Pacific Palisades special. LAist drew it</title>
@@ -2199,222 +2223,6 @@ The post [L.A. TACO’s 2025 Holiday Gift Guide](https://lataco.com/2025-gift-gu
       </description>
       <source:markdown>City Administrative Officer and multiple City Councilmembers say no new funding has been identified.</source:markdown>
       <guid>cid://urn:uuid:0000019b-0fd2-d96d-a5db-bfdae2040000</guid>
-    </item>    <item>
-      <title>Northeast LA&#39;s Hermon gets a new gathering place</title>
-      <link>https://laist.com/news/food/northeast-las-hermon-gets-a-new-gathering-place</link>
-      <description>
-        <![CDATA[The Northeast LA neighborhood has a new place to gather over dinner.]]>
-      </description>
-      <source:markdown>The Northeast LA neighborhood has a new place to gather over dinner.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0eb4-daae-a7ff-1ef4214f0000</guid>
-    </item>    <item>
-      <title>After 122 years, Hermon, near Highland Park, finally gets its own restaurant</title>
-      <link>https://laist.com/news/food/after-122-years-hermon-near-highland-park-finally-gets-a-restaurant</link>
-      <description>
-        <![CDATA[The Northeast LA neighborhood finally has a place to gather over dinner]]>
-      </description>
-      <source:markdown>The Northeast LA neighborhood finally has a place to gather over dinner</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0eb4-daae-a7ff-1ef4214f0000</guid>
-    </item>    <item>
-      <title>Will US military strikes slow drug overdose deaths? Experts say no</title>
-      <link>https://laist.com/news/will-us-military-strikes-slow-drug-overdose-deaths-experts-say-no</link>
-      <description>
-        <![CDATA[President Trump says U.S. strikes on supposed drug-smuggling boats will save Americans from overdose deaths. But most experts worry the strategy is counterproductive.]]>
-      </description>
-      <source:markdown>President Trump says U.S. strikes on supposed drug-smuggling boats will save Americans from overdose deaths. But most experts worry the strategy is counterproductive.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0fd3-d688-a19f-4fff57e50001</guid>
-    </item>    <item>
-      <title>Five men face charges over alleged unlicensed contracting in Eaton Fire rebuilding efforts</title>
-      <link>https://laist.com/news/housing-homelessness/los-angeles-fires-altadena-eaton-unlicensed-contractor-charges-hochman</link>
-      <description>
-        <![CDATA[District Attorney Nathan Hochman said unlicensed contractors may promise to rebuild faster and cheaper, but they can end up defrauding homeowners.]]>
-      </description>
-      <source:markdown>District Attorney Nathan Hochman said unlicensed contractors may promise to rebuild faster and cheaper, but they can end up defrauding homeowners.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0fa6-da4c-afdb-efbe959e0000</guid>
-    </item>    <item>
-      <title>A CicLAvia-style event is coming to East LA. What to know about Camino City Terrace</title>
-      <link>https://laist.com/news/camino-city-terrace-east-la-what-to-know</link>
-      <description>
-        <![CDATA[On Dec. 13 and 14, about 1.6 miles of streets in City Terrace will go car-free for pedestrians, cyclists, joggers and runners.]]>
-      </description>
-      <source:markdown>On Dec. 13 and 14, about 1.6 miles of streets in City Terrace will go car-free for pedestrians, cyclists, joggers and runners.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0e8e-d96d-a5db-bfdeedf60000</guid>
-    </item>    <item>
-      <title>Santa Ynez Chumash Donates $25,000 to Central Coast Toys for Tots Campaign</title>
-      <link>https://www.independent.com/2025/12/11/santa-ynez-chumash-donates-25000-to-central-coast-toys-for-tots-campaign/</link>
-      <description>
-        <![CDATA[SANTA YNEZ, CA – December 10, 2025 – The Santa Ynez Band of Chumash Indians 
-        recently donated $25,000 to the Central Coast Marine Corps Reserves Toys 
-        for Tots campaign, marking the 22nd consecutive year of supporting the 
-        nonprofit’s mission to provide holiday gifts to local children in need. The 
-        latest donation brings the tribe’s total contributions over the years to 
-        $550,000.]]>
-      </description>
-      <source:markdown>SANTA YNEZ, CA – December 10, 2025 – The Santa Ynez Band of Chumash Indians
-recently donated $25,000 to the Central Coast Marine Corps Reserves Toys
-for Tots campaign, marking the 22nd consecutive year of supporting the
-nonprofit’s mission to provide holiday gifts to local children in need. The
-latest donation brings the tribe’s total contributions over the years to
-$550,000.</source:markdown>
-      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:693b47589a6c9925a4e03098</guid>
-    </item>    <item>
-      <title>The next FIFA ticket phase is open. So how much will it cost you to watch LA World Cup matches?</title>
-      <link>https://laist.com/news/los-angeles-activities/next-fifa-ticket-phase-open-la-world-cup-matches-prices</link>
-      <description>
-        <![CDATA[Fans have until Jan. 13 to enter the draw for a chance to buy tickets. Results will be announced in February.]]>
-      </description>
-      <source:markdown>Fans have until Jan. 13 to enter the draw for a chance to buy tickets. Results will be announced in February.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0f6a-dce7-a7fb-9ffeee500000</guid>
-    </item>    <item>
-      <title>Disney and OpenAI strike $1B deal to support fan-generated content</title>
-      <link>https://laist.com/news/arts-and-entertainment/disney-and-openai-strike-1b-deal-to-support-fan-generated-content</link>
-      <description>
-        <![CDATA[The House of Mouse is striking a big-money deal with the artificial intelligence company OpenAI.]]>
-      </description>
-      <source:markdown>The House of Mouse is striking a big-money deal with the artificial intelligence company OpenAI.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0f4b-dbe7-a1db-bf5bd5100000</guid>
-    </item>    <item>
-      <title>40,000 people died on California roads. State leaders looked away</title>
-      <link>https://laist.com/transportation/thousands-of-people-died-on-california-roads-state-leaders-looked-away</link>
-      <description>
-        <![CDATA[As driving deaths have skyrocketed across the state, the governor, legislators, the courts and the DMV have failed to act.]]>
-      </description>
-      <source:markdown>As driving deaths have skyrocketed across the state, the governor, legislators, the courts and the DMV have failed to act.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0e59-d531-a99f-bed97cc90000</guid>
-    </item>    <item>
-      <title>Huntington Park City Council passes protections for tenants one month late on rent</title>
-      <link>https://laist.com/news/housing-homelessness/huntington-park-one-month-missed-rent-eviction-protections-landlord-tenant</link>
-      <description>
-        <![CDATA[With ICE raids causing families to lose income, Southeast L.A. city is the latest to give tenants a safeguard if they’ve fallen behind on rent.]]>
-      </description>
-      <source:markdown>With ICE raids causing families to lose income, Southeast L.A. city is the latest to give tenants a safeguard if they’ve fallen behind on rent.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0f2e-d688-a19f-4f6f9dfd0000</guid>
-    </item>    <item>
-      <title>Could SoCal mountain lions get permanent protections? Wildlife officials to decide early next year</title>
-      <link>https://laist.com/news/climate-environment/socal-mountain-lions-permanent-protections-wildlife-officials-to-decide</link>
-      <description>
-        <![CDATA[Local mountain lions are struggling due to development and urban sprawl.]]>
-      </description>
-      <source:markdown>Local mountain lions are struggling due to development and urban sprawl.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0f1c-dd9d-ad9b-af9c98960000</guid>
-    </item>    <item>
-      <title>Kilmar Abrego Garcia released from ICE custody after federal judge&#39;s ruling</title>
-      <link>https://laist.com/news/politics/judge-orders-kilmar-abrego-garcia-to-be-released-from-ice-custody</link>
-      <description>
-        <![CDATA[The Maryland resident, originally of El Salvador, has been a symbol of the Trump administration's mass deportation policy after mistakenly being sent to an El Salvador prison.]]>
-      </description>
-      <source:markdown>The Maryland resident, originally of El Salvador, has been a symbol of the Trump administration&#39;s mass deportation policy after mistakenly being sent to an El Salvador prison.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0f00-d96d-a5db-bfd8c2390000</guid>
-    </item>    <item>
-      <title>Report recommends more oversight of spending on Cal State graduation efforts</title>
-      <link>https://laist.com/news/education/report-recommends-more-oversight-of-spending-on-cal-state-graduation-efforts</link>
-      <description>
-        <![CDATA[CSU’s Graduation Initiative 2025 had mixed success at the end of its 10-year run.]]>
-      </description>
-      <source:markdown>CSU’s Graduation Initiative 2025 had mixed success at the end of its 10-year run.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0e7e-dbe7-a1db-bf7e59540000</guid>
-    </item>    <item>
-      <title>Disney reaches billion-dollar licensing deal with OpenAI</title>
-      <link>https://laist.com/news/arts-and-entertainment/disney-openai-billion-dollar-licensing-deal</link>
-      <description>
-        <![CDATA[It's a whole new world as Disney brings hundreds of its characters to Sora, the short-form video platform from OpenAI, as part of a three-year licensing agreement.]]>
-      </description>
-      <source:markdown>It&#39;s a whole new world as Disney brings hundreds of its characters to Sora, the short-form video platform from OpenAI, as part of a three-year licensing agreement.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0ee8-dbe7-a1db-bffafb260000</guid>
-    </item>    <item>
-      <title>Trump calls affordability crisis a &#39;hoax.&#39; The data tells a different story</title>
-      <link>https://laist.com/news/politics/trump-calls-affordability-crisis-a-hoax-the-data-tells-a-different-story</link>
-      <description>
-        <![CDATA[The president's messaging about a strong economy is at odds with widespread voter sentiment that he's not doing enough to tackle rising costs.]]>
-      </description>
-      <source:markdown>The president&#39;s messaging about a strong economy is at odds with widespread voter sentiment that he&#39;s not doing enough to tackle rising costs.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0edf-d96d-a5db-bfdfe3c20000</guid>
-    </item>    <item>
-      <title>The 24 Best Tamales In Los Angeles</title>
-      <link>https://lataco.com/best-tamales-los-angeles</link>
-      <description>
-        <![CDATA[<p>Banana leaf tamales, tamales filled with savory corn pudding, sweet tamales, and those that can only be described as "unique." Los Angeles really is the best U.S. city for tamal season.</p>
-        <p>The post <a href="https://lataco.com/best-tamales-los-angeles">The 24 Best Tamales In Los Angeles</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Banana leaf tamales, tamales filled with savory corn pudding, sweet tamales, and those that can only be described as &#34;unique.&#34; Los Angeles really is the best U.S. city for tamal season.
-
-The post [The 24 Best Tamales In Los Angeles](https://lataco.com/best-tamales-los-angeles) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=98474</guid>
-    </item>    <item>
-      <title>LAUSD student released from immigration detention after four months</title>
-      <link>https://laist.com/news/education/los-angeles-high-school-student-released-immigration-detention-benjamin-marcelo-guerrero-cruz</link>
-      <description>
-        <![CDATA[Federal immigration agents detained 18-year-old Benjamin Marcelo Guerrero-Cruz as he walked the family dog in Van Nuys in August.]]>
-      </description>
-      <source:markdown>Federal immigration agents detained 18-year-old Benjamin Marcelo Guerrero-Cruz as he walked the family dog in Van Nuys in August.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0af2-dfc4-addb-8efb75c40000</guid>
-    </item>    <item>
-      <title>Midwest promises new life to LA family living in car: &#39;We&#39;re willing to give California up&#39;</title>
-      <link>https://laist.com/news/education/early-childhood-education-pre-k/unhoused-family-living-car-new-home-out-of-state</link>
-      <description>
-        <![CDATA[As family housing resources shrink in L.A., one family has left what they know in California behind to start a life in the Midwest, where housing costs are vastly lower.]]>
-      </description>
-      <source:markdown>As family housing resources shrink in L.A., one family has left what they know in California behind to start a life in the Midwest, where housing costs are vastly lower.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0a7f-d510-a5ff-9a7f6d840000</guid>
-    </item>    <item>
-      <title>LA city attorney accused of ethics breach before settling major case for $18M</title>
-      <link>https://laist.com/news/la-city-attorney-ethics</link>
-      <description>
-        <![CDATA[Hydee Feldstein Soto called an opposing side’s expert witness for campaign money before a high-profile trial this fall. Her campaign says she didn’t know about the connection.]]>
-      </description>
-      <source:markdown>Hydee Feldstein Soto called an opposing side’s expert witness for campaign money before a high-profile trial this fall. Her campaign says she didn’t know about the connection.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0ac8-dfc4-addb-8ed960700000</guid>
-    </item>    <item>
-      <title>&#39;Rosemead&#39; tells a tragic — and true — story</title>
-      <link>https://laist.com/news/arts-and-entertainment/rosemead-tells-a-tragic-and-true-story</link>
-      <description>
-        <![CDATA[The new movie stars Lucy Liu as an ailing mother to Joe, played by Lawrence Shou as a teenager facing mental illness in his feature debut role.]]>
-      </description>
-      <source:markdown>The new movie stars Lucy Liu as an ailing mother to Joe, played by Lawrence Shou as a teenager facing mental illness in his feature debut role.</source:markdown>
-      <guid>cid://urn:uuid:0000019a-ffa9-d9da-a5ff-fff99b3a0000</guid>
-    </item>    <item>
-      <title>‘Bel-Air’ showrunner on what’s next for the Banks family (and for Black TV) after the series finale</title>
-      <link>https://laist.com/news/arts-and-entertainment/bel-air-showrunner-on-whats-next-for-the-banks-family-and-for-black-tv-after-the-series-finale</link>
-      <description>
-        <![CDATA[How Bel-Air found its own voice while respecting its Fresh Prince roots and put LA more front and center than the original series was able to.]]>
-      </description>
-      <source:markdown>How Bel-Air found its own voice while respecting its Fresh Prince roots and put LA more front and center than the original series was able to.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0ab3-d646-a5ff-dfbf1bc70000</guid>
-    </item>    <item>
-      <title>The best films to see this winter, according to LA’s indie programmers</title>
-      <link>https://laist.com/news/arts-and-entertainment/the-best-films-to-see-this-winter-indie-theater-studio-ghibli-jodie-foster-george-takei</link>
-      <description>
-        <![CDATA[Film programmers offer their top picks for movies to help you get in the holiday spirit, start a debate over what makes a Christmas movie or avoid the holidays altogether.]]>
-      </description>
-      <source:markdown>Film programmers offer their top picks for movies to help you get in the holiday spirit, start a debate over what makes a Christmas movie or avoid the holidays altogether.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0a87-d688-a19f-4bef24de0000</guid>
-    </item>    <item>
-      <title>Daily Memo: CBP MIA In Recent ICE Raids; LA County Approves Mask Ban</title>
-      <link>https://lataco.com/daily-memo-cbp-mia-in-recent-ice-raids-la-county-approves-mask-ban</link>
-      <description>
-        <![CDATA[<p>A breakdown of California and Los Angeles County's new laws banning ICE and local law enforcement from wearing masks or concealing their identity and agencies.</p>
-        <p>The post <a href="https://lataco.com/daily-memo-cbp-mia-in-recent-ice-raids-la-county-approves-mask-ban">Daily Memo: CBP MIA In Recent ICE Raids; LA County Approves Mask Ban</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>A breakdown of California and Los Angeles County&#39;s new laws banning ICE and local law enforcement from wearing masks or concealing their identity and agencies.
-
-The post [Daily Memo: CBP MIA In Recent ICE Raids; LA County Approves Mask Ban](https://lataco.com/daily-memo-cbp-mia-in-recent-ice-raids-la-county-approves-mask-ban) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=174063</guid>
-    </item>    <item>
-      <title>3 bartenders from a legendary LA speakeasy reunite for a cocktail classics pop-up</title>
-      <link>https://laist.com/news/food/three-bartenders-from-las-legendary-varnish-reunite-for-a-cocktail-classics-pop-up</link>
-      <description>
-        <![CDATA[The Varnish is the site for a one-night only return ahead of Cole's planned closure at the end of this year.]]>
-      </description>
-      <source:markdown>The Varnish is the site for a one-night only return ahead of Cole&#39;s planned closure at the end of this year.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-09d0-dc0d-a1db-8fd0fcec0000</guid>
-    </item>    <item>
-      <title>Fighting new housing in LA will cost you more — but far short of the $22K fee some advocates want</title>
-      <link>https://laist.com/news/housing-homelessness/los-angeles-city-fee-housing-appeals</link>
-      <description>
-        <![CDATA[A proposed city fee update would have dramatically increased how much people have to pay to appeal approvals of new housing projects.]]>
-      </description>
-      <source:markdown>A proposed city fee update would have dramatically increased how much people have to pay to appeal approvals of new housing projects.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0ac8-d510-a5ff-9ae9a6c70000</guid>
     </item>
   </channel>
 </rss>
