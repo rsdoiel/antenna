@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>02 Jan 26 08:11 -0800</dateCreated>
+        <dateCreated>03 Jan 26 08:13 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -25,6 +25,7 @@
         <outline text="Aymerick&#39;s blog" type="rss" xmlUrl="http://www.aymerick.com/rss.xml" htmlUrl="http://www.aymerick.com" description="The personal website of a generalist developer living in France."></outline>
         <outline text="Bacalhau Blog" type="rss" xmlUrl="https://blog.bacalhau.org/feed" htmlUrl="https://blog.bacalhau.org,https://blog.bacalhau.org/feed" description="Compute Over Data " url="https://blog.bacalhau.org/feed"></outline>
         <outline text="Barack Obama @Bsky" type="rss" xmlUrl="https://bsky.app/profile/did:plc:5c6cw3veuqruljoy5ahzerfx/rss" htmlUrl="https://bsky.app/profile/barackobama.bsky.social" description="Dad, husband, President, citizen. barackobama.com"></outline>
+        <outline text="Basile Blog" type="rss" xmlUrl="https://basilesimon.fr/blog/index.xml" htmlUrl="https://basilesimon.fr/blog?campaign=rss,https://basilesimon.fr/blog/index.xml" description="Recent content in Blogs on 👋 hi, I’m basile" url="https://basilesimon.fr/blog/index.xml"></outline>
         <outline text="Becky Hansmeyer" type="rss" xmlUrl="https://www.beckyhansmeyer.com/feed/" htmlUrl="https://www.beckyhansmeyer.com,https://www.beckyhansmeyer.com/feed/" description="100% grass-fed Swift. Artisanal SwiftUI." url="https://www.beckyhansmeyer.com/feed/"></outline>
         <outline text="Ben Hoyt&#39;s Tech Writing" type="rss" xmlUrl="https://benhoyt.com/writings/rss.xml" htmlUrl="https://benhoyt.com/writings/,https://benhoyt.com/writings/rss.xml" description="RSS feed for Ben Hoyt&#39;s technical writing" url="https://benhoyt.com/writings/rss.xml"></outline>
         <outline text="Berkley Artificial Intellegence Research Blog" type="rss" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="http://bair.berkeley.edu/blog/,http://bair.berkeley.edu/blog/feed.xml" description="The BAIR Blog" url="http://bair.berkeley.edu/blog/feed.xml"></outline>
@@ -66,6 +67,7 @@
         <outline text="DAve Bushell blog" type="rss" xmlUrl="https://dbushell.com/rss.xml" htmlUrl="https://dbushell.com/blog/,https://dbushell.com/rss.xml" description="David Bushell’s Blog only feed" url="https://dbushell.com/rss.xml"></outline>
         <outline text="Dalton Caldwell Blog" type="atom" xmlUrl="http://daltoncaldwell.com/feed" htmlUrl="http://daltoncaldwell.com,http://daltoncaldwell.com/feed" url="http://daltoncaldwell.com/feed"></outline>
         <outline text="Dan Rather&#39;s Steady" type="rss" xmlUrl="https://steady.substack.com/feed" htmlUrl="https://steady.substack.com,https://steady.substack.com/feed" description="Dan Rather&#39;s steady take on a complex and chaotic world. " url="https://steady.substack.com/feed"></outline>
+        <outline text="Dan Sinker" type="atom" xmlUrl="https://dansinker.com/feed.xml" htmlUrl="https://dansinker.com/feed.xml,https://dansinker.com/" description="This is a blog by Dan Sinker." url="https://dansinker.com/feed.xml"></outline>
         <outline text="Daniel Stenberg Blog" type="rss" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog,https://daniel.haxx.se/blog/feed/" description="curl, open source and networking" url="https://daniel.haxx.se/blog/feed/"></outline>
         <outline text="Daring Fireball" type="atom" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/,https://daringfireball.net/feeds/main" description="By John Gruber" url="https://daringfireball.net/feeds/main"></outline>
         <outline text="Dave Jarvis&#39; Blog" type="rss" xmlUrl="https://dave.autonoma.ca/dave/news/blog.rss" htmlUrl="https://dave.autonoma.ca,https://dave.autonoma.ca/dave/news/blog.rss" description="Practical software development" url="https://dave.autonoma.ca/dave/news/blog.rss"></outline>

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.18" >
-  <meta name="date" content="2026-01-02T08:11:23-08:00" >
+  <meta name="date" content="2026-01-03T08:13:19-08:00" >
   <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="columns.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
@@ -57,6 +57,907 @@
       </address>
     </article>
 
+    <article data-published="2026-01-03T15:43:38Z" data-link="https://mastodon.social/@Migueldeicaza/115831932089006551">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>Our propaganda networks are out in force recycling the “fucking for virginity” line from the Iraq war era to whitewash their new war.</p>
+
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115831932089006551">https://mastodon.social/@Migueldeicaza/115831932089006551</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T14:53:39Z" data-link="http://scripting.com/2026/01/03.html#a145339">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>The war in Iraq started in <a href="http://scripting.com/2003/03.html">March 2003</a>. That was also the month I arrived in Cambridge after driving cross-country from Woodside, CA. Because I did most of my blogging on scripting.com, I still have a good <a href="http://scripting.com/2003/03.html">archive</a> of how I experienced both those things. It's also the month we got the Harvard weblogs going, but they have not stood up so well. I wouldn't have predicted then that my personal blog would survive the system we started at one of America's great universities.</p>
+
+      <address>
+        <a href="http://scripting.com/2026/01/03.html#a145339">http://scripting.com/2026/01/03.html#a145339</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T14:40:43Z" data-link="https://alexschroeder.ch/view/2025-12-23-santa-bots">
+      <h1>2025-12-23 A problem in the Butlerian Jihad setup</h1>
+
+(date: 2026-01-03)
+      <p>
+      <h1>2025-12-23 A problem in the Butlerian Jihad setup</h1>
+<p>I think there’s a problem with <a href="https://transjovian.org/view/fight-bots/index">the setup</a> that defends my sites against the scraper-bots.
+I think I have ASNs banned but when I check the logs, requests are still getting through.
+As a result, Community Wiki is still down.</p>
+<p>Let’s delve right in. If you’re interested in scripts and shell aliases, see the <a href="/admin">admin folder</a>.</p>
+<p>These ASNs are my top hitters on Community Wiki right now:</p>
+<pre><code>10min-access-log \
+  | awk '/^communitywiki/ {print $2}' \
+  | asncounter --top 3 --no-prefixes 2&gt;/dev/null
+count	percent	ASN	AS
+122	3.12	28573	Claro NXT Telecomunicacoes Ltda, BR
+84	2.15	45899	VNPT-AS-VN VNPT Corp, VN
+54	1.38	9541	CYBERNET-AP Cyber Internet Services Pvt Ltd., PK
+unique ASN: 1607
+total lookups: 3906
+total skipped: 0
+total failed: 0
+
+</code></pre>
+<p>And yet, the ASN seems to be banned!</p>
+<pre><code>asn-banned 28573
+28573 banned for 1h: 1
+28573 banned for 1w: 0
+
+</code></pre>
+<p>Let’s check:</p>
+<pre><code>10min-access-log | asn-access-log 28573 | tail -n 1
+communitywiki.org:443 187.23.18.103 - - [23/Dec/2025:09:05:17 +0100] &quot;GET /wiki?action=rc&amp;all=0&amp;days=7&amp;rcfilteronly=tag%3Aprojects&amp;showedit=0 HTTP/1.1&quot; 410 3928 &quot;-&quot; &quot;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&quot; 379
+
+</code></pre>
+<p>This IP address doesn’t seem to be banned after all!</p>
+<pre><code>fail2ban-client banned 187.23.18.103
+[[]]
+
+</code></pre>
+<p>Nor is the range banned:</p>
+<pre><code>asn-find '187.23.18.103'
+187.23.0.0/19	28573	Claro NXT Telecomunicacoes Ltda, BR
+fail2ban-client banned 187.23.0.0/19
+[[]]
+
+</code></pre>
+<p>What is going on? It’s definitely not banned:</p>
+<pre><code>fail2ban-client banned | sed 's/\'/&quot;/g' | jq | grep 187.23.0.0/19
+
+</code></pre>
+<p>No results. And that seems to be the problem. <code>asn-networks</code> doesn’t list <code>187.23.0.0/19</code> as belonging to ASN 28573 even though looking up <code>187.23.18.103</code> says it belongs to ASN 28573!</p>
+<pre><code>asn-networks 28573 | grep  '^187\.23\.'
+
+</code></pre>
+<p>No results. So let’s check whether this range is subsumed in some other range.</p>
+<pre><code>asn-networks 28573 | grep  '^187\.2'
+187.2.0.0/15
+187.20.0.0/14
+187.255.0.0/16
+
+</code></pre>
+<p>Indeed!</p>
+<pre><code>cidr-to-ip-range 187.20.0.0/14
+187.20.0.0 - 187.23.255.255
+
+</code></pre>
+<p>So this IP range covers the IP number we’re interested in.</p>
+<pre><code>fail2ban-client banned 187.20.0.0/14
+[['butlerian-jihad']]
+
+</code></pre>
+<p>OK! I’m happy to see this.
+So now the question is, why are requests from <code>187.23.18.103</code> not dropped?</p>
+<pre><code>iptables --list
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination
+ACCEPT     all  --  anywhere             anywhere             match-set gotosocial src
+ACCEPT     all  --  anywhere             anywhere             match-set allowlist src
+f2b-alex-apache  tcp  --  anywhere             anywhere             multiport dports http,https
+f2b-butlerian-jihad  tcp  --  anywhere             anywhere             multiport dports 0:65535
+f2b-butlerian-jihad-week  tcp  --  anywhere             anywhere             multiport dports 0:65535
+f2b-alex-bots  tcp  --  anywhere             anywhere             multiport dports http,https
+f2b-recidive  tcp  --  anywhere             anywhere
+DROP       all  --  anywhere             anywhere             match-set banlist src
+
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination
+
+Chain f2b-alex-apache (1 references)
+target     prot opt source               destination
+RETURN     all  --  anywhere             anywhere
+
+Chain f2b-alex-bots (1 references)
+target     prot opt source               destination
+RETURN     all  --  anywhere             anywhere
+
+Chain f2b-butlerian-jihad (1 references)
+target     prot opt source               destination
+
+Chain f2b-butlerian-jihad-week (1 references)
+target     prot opt source               destination
+
+Chain f2b-recidive (1 references)
+target     prot opt source               destination
+
+</code></pre>
+<p>Is the IP number on the <code>gotosocial</code> or <code>allowlist</code>?</p>
+<pre><code>ipset test allowlist 187.23.18.103
+187.23.18.103 is NOT in set allowlist.
+ipset test gotosocial 187.23.18.103
+187.23.18.103 is NOT in set gotosocial.
+
+</code></pre>
+<p>No results. So it does seem like fail2ban is not working as I expected.</p>
+<p>Looking for errors in the <code>fail2ban</code> log file, I find a lot of entries like this one:</p>
+<pre><code>2025-12-22 19:42:42,049 fail2ban.actions        [1335077]: NOTICE  [butlerian-jihad] Ban 187.20.0.0/14
+2025-12-22 19:42:42,090 fail2ban.utils          [1335077]: ERROR   7fe4b8218030 -- exec: nft add element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
+2025-12-22 19:42:42,091 fail2ban.utils          [1335077]: ERROR   7fe4b8218030 -- stderr: 'add element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
+2025-12-22 19:42:42,170 fail2ban.utils          [1335077]: ERROR   7fe4b82189b0 -- exec: nft add element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
+2025-12-22 19:42:42,170 fail2ban.utils          [1335077]: ERROR   7fe4b82189b0 -- stderr: 'add element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
+2025-12-22 19:42:42,171 fail2ban.actions        [1335077]: ERROR   Failed to execute ban jail 'butlerian-jihad' action 'nftables' info 'ActionInfo({'ip': '187.20.0.0/14', 'family': 'inet4', 'fid': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fe4d0c86de0&gt;, 'raw-ticket': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fe4d0c87560&gt;})': Error banning 187.20.0.0/14
+2025-12-22 19:59:32,461 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
+2025-12-22 20:01:09,507 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
+2025-12-22 20:14:39,061 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
+2025-12-22 20:14:45,091 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
+2025-12-22 20:16:20,918 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
+2025-12-22 20:16:27,072 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
+
+</code></pre>
+<p>So <code>fail2ban</code> manages to record the fact, that <code>187.20.0.0/14</code> is banned, and unbans it correctly, but the actual ban itself runs into an error!</p>
+<p>Looking around some more, I see this:</p>
+<pre><code>2025-12-21 09:51:52,821 fail2ban.actions        [169481]: NOTICE  [butlerian-jihad] Unban 187.20.0.0/14
+2025-12-21 09:51:52,862 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- exec: nft delete element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
+2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- stderr: &quot;Error: You must add 'flags interval' to your set declaration if you want to add prefix elements&quot;
+2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- stderr: 'delete element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
+2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- stderr: '                                                         ^^^^^^^^^^^^^'
+2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- returned 1
+2025-12-21 09:51:52,939 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- exec: nft delete element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
+2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- stderr: &quot;Error: You must add 'flags interval' to your set declaration if you want to add prefix elements&quot;
+2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- stderr: 'delete element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
+2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- stderr: '                                                         ^^^^^^^^^^^^^'
+2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- returned 1
+2025-12-21 09:51:52,940 fail2ban.actions        [169481]: ERROR   Failed to execute unban jail 'butlerian-jihad' action 'nftables' info 'ActionInfo({'ip': '187.20.0.0/14', 'family': 'inet4', 'fid': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fc51a8e2de0&gt;, 'raw-ticket': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fc51a8e3560&gt;})': Error unbanning 187.20.0.0/14
+
+</code></pre>
+<p>I guess this is key: “Error: You must add ‘flags interval’ to your set declaration if you want to add prefix elements”.</p>
+<p>I didn’t know <code>fail2ban</code> was using <code>nft</code>. I must take a look at <code>/etc/fail2ban/action.d/nftables-multiport.conf</code>, I guess.</p>
+<p>I’ve been looking at <a href="https://itsfoss.gitlab.io/blog/fail2ban-with-iptables-persistent/">Securing Your Server: Integrating Fail2ban with IPTables-Persistent for Enhanced Protection</a> and it makes me think I might use ipsets instead.
+I’m hoping that won’t be too hard since I already use <code>ipset</code> for my allowlists and my permanent banlists.
+See <a href="2025-07-11-allow-list">2025-07-11 A separate allow-list to bypass fail2ban</a>.</p>
+<p>When I do the switch, I must remember to flush the lists that <code>fail2ban</code> is currently using. If there are entries on the old list, they would stay there forever if the commands to add and remove entries got changed.</p>
+<p>I also learned that Debian installs tools that look like <code>iptables</code> but they’re actually a compatibility layer that use <code>nft</code> instead.</p>
+<blockquote>
+<p>“The iptables Debian package install both and gives the nft version more priority by default in the update-alternatives system. This means that if you install this package, you will be using the nft tools instead of the legacy ones.” – <code>/usr/share/doc/iptables/README.Debian</code></p>
+</blockquote>
+<p>🤯</p>
+<p>This is why <code>fail2ban</code> uses <code>iptables</code> but the error messages mention <code>nft</code>.</p>
+<p>So here is what I ended up doing.</p>
+<p>I switched from <code>iptables</code> to <code>nft</code> by creating a new file <code>/etc/fail2ban/jail.local</code>:</p>
+<pre><code>[DEFAULT]
+banaction = nftables[type=multiport]
+banaction_allports = nftables[type=allports]
+
+</code></pre>
+<p>I created a local override for the nftables action so that <code>flags interval</code> gets added to the sets, and to add my allow-lists.
+Here’s <code>/etc/fail2ban/action.d/nftables.local</code>.</p>
+<pre><code># -*- mode: Conf -*-
+[Definition]
+# add &quot;flags interval;&quot;
+# add special allowlists
+_nft_add_set = &lt;nftables&gt; add set &lt;table_family&gt; &lt;table&gt; &lt;addr_set&gt; \{ type &lt;addr_type&gt;\; flags interval\; \}
+              &lt;_nft_for_proto-&lt;type&gt;-iter&gt;
+              &lt;nftables&gt; add rule &lt;table_family&gt; &lt;table&gt; &lt;chain&gt; %(rule_stat)s
+              &lt;_nft_for_proto-&lt;type&gt;-done&gt;
+	     /etc/butlerian-jihad/add-allowlist
+	     /etc/butlerian-jihad/remove-extra-allowlist-rules
+
+</code></pre>
+<p>To confirm, you can list all tables and then list the <code>f2b-table</code>. It contains all the sets, one for each jail of yours. The important part is that it says <code>flags interval</code> in there.</p>
+<pre><code>nft list sets inet f2b-table
+
+</code></pre>
+<p>Note that if you check the <code>fail2ban</code> log, you’ll still find errors such as “interval overlaps with an existing one”. That’s OK, though. No double-banning, I guess. 😅</p>
+<p>But wait, what about <code>/etc/butlerian-jihad/add-allowlist</code>? This is where I add my manual allow-list. Like <code>wilderland.ovh</code>, the other IRC server in our little network:</p>
+<pre><code>#!/usr/sbin/nft -f
+
+# define the sets
+add set inet f2b-table allowlist   { type ipv4_addr; flags interval; }
+add set inet f2b-table allowlist6  { type ipv6_addr; flags interval; }
+add set inet f2b-table gotosocial  { type ipv4_addr; flags interval; }
+add set inet f2b-table gotosocial6 { type ipv6_addr; flags interval; }
+
+# insert rules at the beginning
+insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip  saddr @allowlist   accept
+insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip6 saddr @allowlist6  accept
+insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip  saddr @gotosocial  accept
+insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip6 saddr @gotosocial6 accept
+insert rule inet f2b-table f2b-chain ct state established,related accept comment &quot;accept responses to outgoing traffic&quot;
+
+add element inet f2b-table allowlist {
+  51.83.186.78 comment &quot;kyonshi and wilderland.ovh&quot;,
+  # and a few more
+}
+
+add element inet f2b-table allowlist6 {
+   2001:41d0:601:1100::12d comment &quot;kyonshi and wilderland.ovh&quot;,
+  # and a few more
+}
+
+include &quot;/etc/butlerian-jihad/gotosocial.nft&quot;
+
+</code></pre>
+<p>Notice the rule <code>ct state established,related accept</code>.
+That’s so I can still make requests for websites on hosts that are bannned.</p>
+<p>And what about that <code>/etc/butlerian-jihad/gotosocial.nft</code> file?
+That’s generated every now and then from the local database so that all the IP numbers of instances where I follow someone or where someone follows me are on the allow list.
+I generate it using a script called <code>/etc/butlerian-jihad/gotosocial-prepare</code>
+This script is a <code>bash</code> script instead of a <code>fish</code> script because <code>fish</code> requires a directory where it writes its history.
+I found out when I had a gazillion protections in place.
+But then I could not get the script to access the database so I removed all the protections.
+And now I feel silly because the script is still written in <code>bash</code> but I prefer <code>fish</code>.</p>
+<pre><code>#!/usr/bin/bash
+# Redirect the output of this script into /etc/butlerian-jihad/gotosocial.nft
+set -e
+echo &quot;#!/usr/sbin/nft&quot;
+echo &quot;# $(date --iso)&quot;
+echo
+echo &quot;flush set inet f2b-table gotosocial&quot;
+echo &quot;flush set inet f2b-table gotosocial6&quot;
+echo
+domains=$(sqlite3 /home/gotosocial/sqlite.db &lt;&lt;EOF
+select distinct b.domain from follows as f
+join accounts as a on f.account_id = a.id
+join accounts as b on f.target_account_id = b.id
+where a.username = &quot;alex&quot; and a.domain is null
+and b.domain is not null
+union
+select distinct a.domain from follows as f
+join accounts as a on f.account_id = a.id
+join accounts as b on f.target_account_id = b.id
+where b.username = &quot;alex&quot; and b.domain is null
+and a.domain is not null
+union
+select distinct b.domain from follow_requests as f
+join accounts as a on f.account_id = a.id
+join accounts as b on f.target_account_id = b.id
+where a.username = &quot;alex&quot;
+and b.domain is not null
+order by 1
+EOF
+)
+i=1
+m=$(echo &quot;$domains&quot;|wc -l)
+declare -a ipv6list
+declare -a ipv4list
+for domain in $domains; do
+    ipv6=$(host -t AAAA &quot;$domain&quot; | awk '/has IPv6 address/ { print $5}')
+    ipv4=$(host -t A &quot;$domain&quot; | awk '/has address/ { print $4}')
+    echo &quot;$i/$m $domain&quot; &gt;&amp;2
+    for ip in $ipv6; do
+        ipv6list+=(&quot;$ip comment \&quot;$domain\&quot;&quot;)
+    done
+    for ip in $ipv4; do
+        ipv4list+=(&quot;$ip comment \&quot;$domain\&quot;&quot;)
+    done
+    i=$((i + 1))
+done
+echo &quot;add element inet f2b-table gotosocial {&quot;
+for item in &quot;${ipv4list[@]}&quot;; do
+    echo &quot;  $item,&quot;
+done
+echo &quot;}&quot;
+echo
+echo &quot;add element inet f2b-table gotosocial6 {&quot;
+for item in &quot;${ipv6list[@]}&quot;; do
+    echo &quot;  $item,&quot;
+done
+echo &quot;}&quot;
+
+</code></pre>
+<p>If you run it, it prints the results to <code>stdout</code> and the progress messages to <code>stderr</code>.</p>
+<p>You can redirect it to a file:</p>
+<pre><code>./gotosocial-prepare &gt; gotosocial.nft
+
+</code></pre>
+<p>The content looks something like this:</p>
+<pre><code>#!/usr/sbin/nft
+
+# 2025-12-25
+
+flush set inet f2b-table gotosocial
+flush set inet f2b-table gotosocial6
+
+add element inet f2b-table gotosocial {
+  78.47.204.93 comment &quot;berlin.social&quot;,
+  # and many more
+}
+
+add element inet f2b-table gotosocial6 {
+  2a01:4f8:c0c:3093::1 comment &quot;berlin.social&quot;,
+  # and many more
+}
+
+</code></pre>
+<p>And now for the <code>systemd</code> integration.</p>
+<p>The unit file is <code>/etc/butlerian-jihad/gotosocial-prepare.service</code>:</p>
+<pre><code>[Unit]
+Description=Update the allow-list for gotosocial
+
+[Service]
+Type=oneshot
+ExecStart=sh -c '/etc/butlerian-jihad/gotosocial-prepare | tee /etc/butlerian-jihad/gotosocial.nft | nft -f -'
+
+</code></pre>
+<p>Enable it:</p>
+<pre><code>systemctl enable /etc/butlerian-jihad/gotosocial-prepare.service
+
+</code></pre>
+<p>It complains that there is no way to run it since the timer is missing but we’re not ready, yet.</p>
+<p>The command here saves a copy in <code>/etc/butlerian-jihad/gotosocial.nft</code>.
+This copy is important because it’s the script called when <code>fail2ban</code> starts up and calls <code>/etc/butlerian-jihad/add-allowlist</code> which includes it.
+The service also pipes the output straight to <code>nft</code> to execute it.</p>
+<p>Test it:</p>
+<pre><code>systemctl start gotosocial-prepare-service
+
+</code></pre>
+<p>Assuming it works … we need a monthly timer, now.</p>
+<p>The timer file is <code>/etc/butlerian-jihad/gotosocial-prepare.timer</code>:</p>
+<pre><code>[Unit]
+Description=Update the allow-list for gotosocial
+
+[Timer]
+OnCalendar=1month
+RandomizedDelaySec=600
+
+[Install]
+WantedBy=timers.target
+
+</code></pre>
+<p>Enable and start it:</p>
+<pre><code>systemctl enable --now ./gotosocial-prepare.timer
+
+</code></pre>
+<p>Check it:</p>
+<pre><code>systemctl status gotosocial-prepare.timer
+
+</code></pre>
+<p>And now the allow-list should refresh every month. 😍</p>
+<p>A note on why the allow lists cannot be in a separate table.
+The key is this little info in the documentation, as I had to find out:</p>
+<blockquote>
+<p>“If a packet is accepted and there is another chain, bearing the same hook type and with a later priority, then the packet will subsequently traverse this other chain. Hence, an accept verdict – be it by way of a rule or the default chain policy – isn’t necessarily final.”</p>
+</blockquote>
+<p>So if the allow-list is in an earlier chain and is accepted, the later <code>fail2ban</code> chain can still drop the packets. Conversely, if the <code>fail2ban</code> chain comes first, the packets dropped are no longer available in later chains so the decision cannot be reversed.
+The sets with the addresses have to be in the <code>f2b-table</code> and the rules using them have to be in the <code>f2b-chain</code>.</p>
+<p>You might be wondering: Why is nobody else running into all this? The answer, I think, is that I started out banning whole ASNs, that is, all their IP address ranges. So now <code>fail2ban</code> manages address ranges instead of individual addresses and I can no longer use <code>fail2ban</code>’s <code>ignoreip</code> command which is probably what everybody else is using. But I want to ban the address ranges and allow individual addresses within those ranges.</p>
+<p>Note that multiple restarts keep adding rules the the chain.
+Therefore, another script runs after <code>/etc/butlerian-jihad/add-allowlist</code>.
+It removes the duplicates, if any.</p>
+<p>Here’s <code>/etc/butlerian-jihad/remove-extra-allowlist-rules</code>:</p>
+<pre><code>#!/usr/bin/bash
+for set in allowlist allowlist6 gotosocial gotosocial6; do
+    nft -a list chain inet f2b-table f2b-chain \
+	| awk '/'$set' accept/ { print &quot;delete rule inet f2b-table f2b-chain handle &quot; $NF }' \
+	| head -n -1 \
+	| nft -i
+done
+
+nft -a list chain inet f2b-table f2b-chain \
+    | awk '/ct state established,related/ { print &quot;delete rule inet f2b-table f2b-chain handle &quot; $NF }' \
+    | head -n -1 \
+    | nft -i
+
+</code></pre>
+<p><a href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-12-23-santa-bots">https://alexschroeder.ch/view/2025-12-23-santa-bots</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T14:31:52Z" data-link="http://scripting.com/2026/01/03.html#a143152">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p><img src="https://imgs.scripting.com/2026/01/03/bushLooksLikeHegseth.png" alt="">Today feels like the day the war in Iraq began. Wars are easy to start, hard to end. They actually called Bush a &quot;visionary&quot; on MSNBC, they were so in awe of his courage, but that would end soon. And this time, no doubt Trump started the war with the approval of China and Russia, which will be left alone by the US in their conquest of Taiwan and Ukraine. Leaders of smaller countries must be wondering where they can hide from this. A very depressing moment. I've lived through two voluntary wars by the US, first Vietnam, then the post-911 wars in Afghanistan and Iraq, and now this war.</p>
+
+      <address>
+        <a href="http://scripting.com/2026/01/03.html#a143152">http://scripting.com/2026/01/03.html#a143152</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T14:20:36Z" data-link="https://alexschroeder.ch/view/2026-01-02-xobaque">
+      <h1>2026-01-02 Xobaque does RFC 5005</h1>
+
+(date: 2026-01-03)
+      <p>
+      <h1>2026-01-02 Xobaque does RFC 5005</h1>
+<p>Very few blogs (this one?) support <a href="https://www.rfc-editor.org/rfc/rfc5005.html">RFC 5005</a> “Feed Paging and Archiving”.<a href="Xobaque">Xobaque</a> is a search engine that doesn’t crawl the web. It gets fed using feeds. That makes it the ideal companion for web rings, blog planets and the like. And I just added blog crawling using RFC 5005 to it.</p>
+<p>As long as Xobaque finds a “next” link, it’ll continue following that chain. In order to not overwhelm sites, there’s a 5s pause between these requests. I’m still not sure how good this idea is. A site like my own with a bit more than 6000 blog pages takes over 50 hours to crawl. And a new crawl is started every 24 hours.</p>
+<p>In my particular case, the next run that reaches a year-page, however, would notice that it hasn’t changed and stop. So I hope it’s still OK?</p>
+<p>I think the next thing I’d like to do is support sitemaps. I don’t have one but all the Blogspot blogs have one. There are 277 Blogspot blogs on the <a href="https://campaignwiki.org/rpg">RPG Planet</a>.</p>
+<p>The problem with sitemaps, as far as I am concerned, is that you then need to request each and every page. It’s not quite random crawling, but it’s getting closer. 😭</p>
+<p><a href="/search/?q=%23Xobaque">#Xobaque</a> <a href="/search/?q=%23Feeds">#Feeds</a></p>
+<p><strong>2026-01-03</strong>. There are four blogs on <a href="https://campaignwiki.org/rpg">Planet RPG</a> which don’t allow Xobaque using <code>robots.txt</code>. I wonder if <a href="Jupiter">Planet Jupiter</a> – the software I use to aggregate all the feeeds – takes <code>robots.txt</code> into account? I wrote it so long ago I don’t remember.</p>
+<p>As for the timeouts I’ve been getting for Blogspot blogs and others, I think the problem is that their ASN is blocked as per my <a href="Butlerian_Jihad">Butlerian Jihad</a>. The <code>fail2ban</code> firewall chain needs an exception.</p>
+<p>List the handles:</p>
+<pre><code>nft -a list chain inet f2b-table f2b-chain
+
+</code></pre>
+<p>Insert the new rule between accept list and <code>fail2ban</code> list:</p>
+<pre><code>nft insert rule inet f2b-table f2b-chain handle 110 \
+  ct state established,related accept \
+  comment &quot;accept responses to outgoing traffic&quot;
+
+</code></pre>
+<p>Result:</p>
+<pre><code>table inet f2b-table {
+	chain f2b-chain { # handle 1
+		type filter hook input priority filter - 1; policy accept;
+		tcp dport 0-65535 ip6 saddr @gotosocial6 accept # handle 12
+		tcp dport 0-65535 ip saddr @gotosocial accept # handle 11
+		tcp dport 0-65535 ip6 saddr @allowlist6 accept # handle 10
+		tcp dport 0-65535 ip saddr @allowlist accept # handle 9
+		ct state established,related accept comment &quot;accept responses to outgoing traffic&quot; # handle 161
+		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad reject with icmp port-unreachable # handle 110
+		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad reject with icmpv6 port-unreachable # handle 116
+		tcp dport { 80, 443 } ip6 saddr @addr6-set-alex-apache reject with icmpv6 port-unreachable # handle 123
+		tcp dport { 80, 443 } ip saddr @addr-set-alex-apache reject with icmp port-unreachable # handle 130
+		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad-week reject with icmp port-unreachable # handle 136
+		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad-week reject with icmpv6 port-unreachable # handle 142
+		meta l4proto tcp ip6 saddr @addr6-set-recidive reject with icmpv6 port-unreachable # handle 148
+		meta l4proto tcp ip saddr @addr-set-recidive reject with icmp port-unreachable # handle 154
+	}
+}
+
+</code></pre>
+
+      <address>
+        <a href="https://alexschroeder.ch/view/2026-01-02-xobaque">https://alexschroeder.ch/view/2026-01-02-xobaque</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T13:46:35Z" data-link="https://www.theatlantic.com/international/2026/01/trumps-risky-war-in-venezuela/685485/?gift=f35zZN0v_gDFE8xNwlQAHeZk-sPfZg1nknGG1HnWJxY&utm_source=copy-link&utm_medium=social&utm_campaign=share">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>Trump’s Risky War in Venezuela.</p>
+
+      <address>
+        <a href="https://www.theatlantic.com/international/2026/01/trumps-risky-war-in-venezuela/685485/?gift=f35zZN0v_gDFE8xNwlQAHeZk-sPfZg1nknGG1HnWJxY&utm_source=copy-link&utm_medium=social&utm_campaign=share">https://www.theatlantic.com/international/2026/01/trumps-risky-war-in-venezuela/685485/?gift=f35zZN0v_gDFE8xNwlQAHeZk-sPfZg1nknGG1HnWJxY&utm_source=copy-link&utm_medium=social&utm_campaign=share</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T12:28:06Z" data-link="https://www.nytimes.com/2026/01/03/opinion/health-care-medicaid-cuts.html?unlocked_article_code=1.BlA.chDx.SZJ0TfF3hp8o&smid=url-share">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>Can We Really Afford to Let Health Care Get Any Worse?</p>
+
+      <address>
+        <a href="https://www.nytimes.com/2026/01/03/opinion/health-care-medicaid-cuts.html?unlocked_article_code=1.BlA.chDx.SZJ0TfF3hp8o&smid=url-share">https://www.nytimes.com/2026/01/03/opinion/health-care-medicaid-cuts.html?unlocked_article_code=1.BlA.chDx.SZJ0TfF3hp8o&smid=url-share</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T12:12:47Z" data-link="https://henry.codes/writing/a-website-to-destroy-all-websites/">
+      <h1>A Website To End All Websites | Henry From Online</h1>
+
+(date: 2026-01-03)
+      <p>
+      <blockquote>
+<p>Hand-coded, syndicated, and above all personal websites are exemplary: They let users of the internet to be autonomous, experiment, have ownership, learn, share, find god, find love, find purpose. Bespoke, endlessly tweaked, eternally redesigned, built-in-public, surprising UI and delightful UX. The personal website is a staunch undying answer to everything the corporate and industrial web has taken from us.</p>
+</blockquote>
+<p><a href="https://adactio.com/links/22335">adactio.com/links/22335</a></p>
+
+      <address>
+        <a href="https://henry.codes/writing/a-website-to-destroy-all-websites/">https://henry.codes/writing/a-website-to-destroy-all-websites/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T11:30:25Z" data-link="https://paulkrugman.substack.com/p/talking-with-eoin-higgins">
+      <h1>Talking With Eoin Higgins</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>How the broligarchs buy out their critics</p>
+
+      <address>
+        <a href="https://paulkrugman.substack.com/p/talking-with-eoin-higgins">https://paulkrugman.substack.com/p/talking-with-eoin-higgins</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T11:19:05Z" data-link="https://adactio.com/notes/22334">
+      <h1>> The past is a foreign country that we should impose tariffs on. — Matt Webb</h1>
+
+(date: 2026-01-03)
+      <p>
+      <blockquote>
+<p>The past is a foreign country that we should impose tariffs on.</p>
+</blockquote>
+<p>— <a href="https://interconnected.org/home/2025/12/26/scraps">Matt Webb</a></p>
+
+      <address>
+        <a href="https://adactio.com/notes/22334">https://adactio.com/notes/22334</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T10:29:45Z" data-link="https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/">
+      <h1>The Case for Blogging in the Ruins</h1>
+
+(date: 2026-01-03)
+      <p>
+      <blockquote>
+<p>Start a blog. Start one because the practice of writing at length, for an audience you respect, about things that matter to you, is itself valuable. Start one because owning your own platform is a form of independence that becomes more important as centralized platforms become less trustworthy. Start one because the format shapes the thought, and this format is good for thinking.</p>
+</blockquote>
+<p><a href="https://adactio.com/links/22333">adactio.com/links/22333</a></p>
+
+      <address>
+        <a href="https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/">https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T09:01:49Z" data-link="https://robertreich.substack.com/p/what-will-happen-in-2026-the-coffee">
+      <h1>What Will Happen in 2026? The Coffee Klatch for Saturday, January 3, 2026</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>With Heather Lofthouse and yours truly, Robert Reich</p>
+
+      <address>
+        <a href="https://robertreich.substack.com/p/what-will-happen-in-2026-the-coffee">https://robertreich.substack.com/p/what-will-happen-in-2026-the-coffee</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T06:41:21Z" data-link="https://heathercoxrichardson.substack.com/p/january-2-2026">
+      <h1>January 2, 2026</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>Just after midnight on January 1, in a private ceremony in the long-closed former City Hall subway station in Manhattan, New York Attorney General Letitia James swore Zohran Mamdani into office as mayor of New York on a historic Quran.</p>
+
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/january-2-2026">https://heathercoxrichardson.substack.com/p/january-2-2026</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T06:11:37Z" data-link="https://branko2f7.substack.com/p/was-the-world-of-the-1990s-better">
+      <h1> Was the world of the 1990s better than today’s? </h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>It is a fundamental question.</p>
+
+      <address>
+        <a href="https://branko2f7.substack.com/p/was-the-world-of-the-1990s-better">https://branko2f7.substack.com/p/was-the-world-of-the-1990s-better</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T05:57:07Z" data-link="https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything">
+      <h1>Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p><strong><a href="https://www.madebywindmill.com/tempi/blog/hbfs-bpm/">Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?</a></strong></p>
+<p>Depending on how you measure it, the tempo of Harder, Better, Faster, Stronger appears to be 123.45 beats per minute.</p>
+<p>This is one of those things that's so cool I'm just going to accept it as true.</p>
+<p>(I only today learned from <a href="https://news.ycombinator.com/item?id=46469577#46470831">the Hacker News comments</a> that Veridis Quo is &quot;Very Disco&quot;, and if you flip the order of those words you get Discovery, the name of the album.)</p>
+<p>Via <a href="https://kottke.org/26/01/0048114-investigating-a-possible-">Kottke</a></p>
+<p>Tags: <a href="https://simonwillison.net/tags/music">music</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything">https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T05:25:34Z" data-link="https://tracydurnell.com/2026/01/02/2025-in-music/">
+      <h1>2025 in Music</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>What I listened to in 2025 I listened to about 16,863 songs — on average, 46 songs a day. Last.fm says this is 46 days of listening 👀 2,665 unique tracks (down 7% from 2024) 762 artists (up 10% from 2024) 1,063 albums (up 12% from 2024) Monthly listening roundups New music discovery 11% new […]</p>
+
+      <address>
+        <a href="https://tracydurnell.com/2026/01/02/2025-in-music/">https://tracydurnell.com/2026/01/02/2025-in-music/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T05:18:22Z" data-link="https://mastodon.social/@Migueldeicaza/115829473472411628">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>“What did I discover? Not just a digital echo chamber of paleo-fantasies and bio-essentialism, but also:</p>
+<p>…</p>
+<p>A gender ratio that makes the Smurf village look like a feminist utopia”</p>
+<p>From: okstupid.lol</p>
+
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115829473472411628">https://mastodon.social/@Migueldeicaza/115829473472411628</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T03:02:24Z" data-link="https://tracydurnell.com/2026/01/02/weeknotes-dec-27-2025-jan-2-2026/">
+      <h1>Weeknotes: Dec 27, 2025 – Jan 2, 2026</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>Win of the week: I pre-prepped veggies the night before for a big New Year’s Day breakfast Looking forward to: continuing vacation mindset for two more days Stuff I did: online window shopping catch-up chores finished my year-end reading review and 20 favorite books list worked on other blog posts but they’re not done yet […]</p>
+
+      <address>
+        <a href="https://tracydurnell.com/2026/01/02/weeknotes-dec-27-2025-jan-2-2026/">https://tracydurnell.com/2026/01/02/weeknotes-dec-27-2025-jan-2-2026/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T01:52:10Z" data-link="https://daytona.scripting.com/search?q=slurry">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>Slurry is one of my favorite internet words.</p>
+
+      <address>
+        <a href="https://daytona.scripting.com/search?q=slurry">https://daytona.scripting.com/search?q=slurry</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T00:38:04Z" data-link="https://andysylvester.com/2026/01/02/the-end-of-podcasting-chapter-65/">
+      <h1>The end of podcasting, chapter 65</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>Well, well, well….my last chapter on this topic was written almost one year ago (one year ago tomorrow!)! Why bring this up again? Reason: a recent article from TheVerge.com on the name “podcast”, and a rationale for why this should be dropped (“end the use of the word “podcast””). Some pull quotes: “But in 2025, […]</p>
+
+      <address>
+        <a href="https://andysylvester.com/2026/01/02/the-end-of-podcasting-chapter-65/">https://andysylvester.com/2026/01/02/the-end-of-podcasting-chapter-65/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T00:03:33Z" data-link="https://daringfireball.net/2026/01/clicks_communicator_and_clicks_power_keyboard">
+      <h1>★ Clicks Communicator and Clicks Power Keyboard</h1>
+
+(date: 2026-01-03)
+      <p>
+      <p>I just love the chutzpah of these guys. They started with a good minimal launch product and are back two years later with what looks like a *much* better idea for a phone keyboard accessory. But they’re also now making their own whole goddamn phone.</p>
+
+      <address>
+        <a href="https://daringfireball.net/2026/01/clicks_communicator_and_clicks_power_keyboard">https://daringfireball.net/2026/01/clicks_communicator_and_clicks_power_keyboard</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T23:27:14Z" data-link="https://steady.substack.com/p/its-been-a-long-time-coming">
+      <h1>It’s Been a Long Time Coming</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>Jack Smith finally talked...and he had a lot to say</p>
+
+      <address>
+        <a href="https://steady.substack.com/p/its-been-a-long-time-coming">https://steady.substack.com/p/its-been-a-long-time-coming</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T23:01:15Z" data-link="https://robertreich.substack.com/p/between-storms">
+      <h1>Between Storms</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>A poem by Alison Luterman</p>
+
+      <address>
+        <a href="https://robertreich.substack.com/p/between-storms">https://robertreich.substack.com/p/between-storms</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T22:18:59Z" data-link="https://smist08.wordpress.com/2026/01/02/2026-another-year-avoiding-the-usa/">
+      <h1>2026 Another Year Avoiding the USA</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>Introduction The USA continues to threaten Canada’s sovereignty with both invasion and trade bullying. We aren’t alone in this as the USA is also threatening Greenland, Venezuela, Panama, Nigeria and Iran. Coming up is the renewal of the Canada, US, Mexico free trade agreement, whose future is not certain. The US continues to bully us […]</p>
+
+      <address>
+        <a href="https://smist08.wordpress.com/2026/01/02/2026-another-year-avoiding-the-usa/">https://smist08.wordpress.com/2026/01/02/2026-another-year-avoiding-the-usa/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T22:04:04Z" data-link="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html">
+      <h1>Friday Squid Blogging: Squid Found in Light Fixture</h1>
+
+(date: 2026-01-02, updated: 2025-12-10)
+      <p>
+      <p>Probably a <a href="https://mustangnews.net/squid-light-fixture-red-bricks/">college prank</a>.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+
+      <address>
+        <a href="https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html">https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T19:57:37Z" data-link="https://simonwillison.net/2026/Jan/2/will-larson/#atom-everything">
+      <h1>Quoting Will Larson</h1>
+
+(date: 2026-01-02)
+      <p>
+      <blockquote>
+<p>My experience is that <em>real</em> AI adoption on <em>real</em> problems is a complex blend of: domain context on the problem, domain experience with AI tooling, and old-fashioned IT issues. I’m deeply skeptical of any initiative for internal AI adoption that doesn’t anchor on all three of those. This is an advantage of earlier stage companies, because you can often find aspects of all three of those in a single person, or at least across two people. In larger companies, you need three different <em>organizations</em> doing this work together, this is just objectively hard</p>
+</blockquote>
+<p>— <a href="https://lethain.com/company-ai-adoption/">Will Larson</a>, Facilitating AI adoption at Imprint</p>
+<p>Tags: <a href="https://simonwillison.net/tags/leadership">leadership</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/will-larson">will-larson</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2026/Jan/2/will-larson/#atom-everything">https://simonwillison.net/2026/Jan/2/will-larson/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T19:20:52Z" data-link="https://feed.tedium.co/link/15204/17245690/tedium-trends-2026">
+      <h1>A Number Of Surprising Importance</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>The number 26, which gets back-burnered compared to numbers with neater divisibility, is an essential digit. And you’re gonna be hearing all about it in 2026.</p>
+
+      <address>
+        <a href="https://feed.tedium.co/link/15204/17245690/tedium-trends-2026">https://feed.tedium.co/link/15204/17245690/tedium-trends-2026</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T19:10:43Z" data-link="https://simonwillison.net/2026/Jan/2/most-popular-blogs-of-hacker-news/#atom-everything">
+      <h1>The most popular blogs of Hacker News in 2025</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p><strong><a href="https://refactoringenglish.com/blog/2025-hn-top-5/">The most popular blogs of Hacker News in 2025</a></strong></p>
+<p>Michael Lynch maintains <a href="https://refactoringenglish.com/tools/hn-popularity/">HN Popularity Contest</a>, a site that tracks personal blogs on Hacker News and scores them based on how well they perform on that platform.</p>
+<p>The engine behind the project is the <a href="https://github.com/mtlynch/hn-popularity-contest-data/blob/master/data/domains-meta.csv">domain-meta.csv</a> CSV on GiHub, a hand-curated list of known personal blogs with author and bio and tag metadata, which Michael uses to separate out personal blog posts from other types of content.</p>
+<p>I came top of the rankings in 2023, 2024 and 2025 but I'm listed <a href="https://refactoringenglish.com/tools/hn-popularity/">in third place</a> for all time behind Paul Graham and Brian Krebs.</p>
+<p>I dug around in the browser inspector and was delighted to find that the data powering the site is served with open CORS headers, which means you can easily explore it with external services like Datasette Lite.</p>
+<p>Here's a convoluted window function query Claude Opus 4.5 <a href="https://claude.ai/share/8e1cb294-0ff0-4d5b-b83f-58e4c7fdb0d2">wrote for me</a> which, for a given domain, shows where that domain ranked for each year since it first appeared in the dataset:</p>
+<pre><code>with yearly_scores as (
+  select
+    domain,
+    strftime('%Y', date) as year,
+    sum(score) as total_score,
+    count(distinct date) as days_mentioned
+  from &quot;hn-data&quot;
+  group by domain, strftime('%Y', date)
+),
+ranked as (
+  select
+    domain,
+    year,
+    total_score,
+    days_mentioned,
+    rank() over (partition by year order by total_score desc) as rank
+  from yearly_scores
+)
+select
+  r.year,
+  r.total_score,
+  r.rank,
+  r.days_mentioned
+from ranked r
+where r.domain = :domain
+  and r.year &gt;= (
+    select min(strftime('%Y', date))
+    from &quot;hn-data&quot;
+    where domain = :domain
+  )
+order by r.year desc
+</code></pre>
+<p>(I just noticed that the last <code>and r.year &gt;= (</code> clause isn't actually needed here.)</p>
+<p>My <a href="https://lite.datasette.io/?csv=https://hn-popularity.cdn.refactoringenglish.com/hn-data.csv#/data?sql=with+yearly_scores+as+%28%0A++select+%0A++++domain%2C%0A++++strftime%28%27%25Y%27%2C+date%29+as+year%2C%0A++++sum%28score%29+as+total_score%2C%0A++++count%28distinct+date%29+as+days_mentioned%0A++from+%22hn-data%22%0A++group+by+domain%2C+strftime%28%27%25Y%27%2C+date%29%0A%29%2C%0Aranked+as+%28%0A++select+%0A++++domain%2C%0A++++year%2C%0A++++total_score%2C%0A++++days_mentioned%2C%0A++++rank%28%29+over+%28partition+by+year+order+by+total_score+desc%29+as+rank%0A++from+yearly_scores%0A%29%0Aselect+%0A++r.year%2C%0A++r.total_score%2C%0A++r.rank%2C%0A++r.days_mentioned%0Afrom+ranked+r%0Awhere+r.domain+%3D+%3Adomain%0A++and+r.year+%3E%3D+%28%0A++++select+min%28strftime%28%27%25Y%27%2C+date%29%29+%0A++++from+%22hn-data%22%0A++++where+domain+%3D+%3Adomain%0A++%29%0Aorder+by+r.year+desc&amp;domain=simonwillison.net">simonwillison.net results</a> show me ranked 3rd in 2022, 30th in 2021 and 85th back in 2007 - though I expect there are many personal blogs from that year which haven't yet been manually added to Michael's list.</p>
+<p>Also useful is that every domain gets its own CORS-enabled CSV file with details of the actual Hacker News submitted from that domain, e.g. <code>https://hn-popularity.cdn.refactoringenglish.com/domains/simonwillison.net.csv</code>. Here's <a href="https://lite.datasette.io/?csv=https://hn-popularity.cdn.refactoringenglish.com/domains/simonwillison.net.csv#/data/simonwillison">that one in Datasette Lite</a>.</p>
+<p>Via <a href="https://news.ycombinator.com/item?id=46465819">Hacker News</a></p>
+<p>Tags: <a href="https://simonwillison.net/tags/hacker-news">hacker-news</a>, <a href="https://simonwillison.net/tags/sql">sql</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/datasette-lite">datasette-lite</a>, <a href="https://simonwillison.net/tags/cors">cors</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2026/Jan/2/most-popular-blogs-of-hacker-news/#atom-everything">https://simonwillison.net/2026/Jan/2/most-popular-blogs-of-hacker-news/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T19:06:19Z" data-link="https://lithub.com/zohran-mamdani-understands-the-precarity-of-middle-class-american-life/">
+      <h1>Zohran Mamdani Understands the Precarity of Middle Class American Life</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>“We will replace the frigidity of rugged individualism with the warmth of collectivism,” the newly elected Mayor of New York Zohran Mamdani said, in his invigorating inauguration speech yesterday, that praised ordinary New Yorkers. Mamdani’s speech, like his wildly successful</p>
+
+      <address>
+        <a href="https://lithub.com/zohran-mamdani-understands-the-precarity-of-middle-class-american-life/">https://lithub.com/zohran-mamdani-understands-the-precarity-of-middle-class-american-life/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T18:35:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3mbhjwnewhk2r">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>Insightful <a href="http://scripting.com/2026/01/02/144702.html?title=theWebAfterAi">http://scripting.com/2026/01/02/144702.html?title=theWebAfterAi</a></p>
+
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3mbhjwnewhk2r">https://bsky.app/profile/rsdoiel.bsky.social/post/3mbhjwnewhk2r</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T18:13:53Z" data-link="https://newrepublic.com/article/204227/trump-immigration-nightmare-happening-here">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>Trump’s Immigration Nightmare: It <em>Is</em> Happening Here.</p>
+
+      <address>
+        <a href="https://newrepublic.com/article/204227/trump-immigration-nightmare-happening-here">https://newrepublic.com/article/204227/trump-immigration-nightmare-happening-here</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T17:17:36Z" data-link="https://daveverse.org/2026/01/02/the-web-after-ai/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>BTW, speaking of something futuristic. This is a page rendered by WordPress of something that's in Mastodon because the two products speak ActivityPub. Interop is fantastic, because things like this &quot;just work&quot; once you're hooked up to the same network.</p>
+
+      <address>
+        <a href="https://daveverse.org/2026/01/02/the-web-after-ai/">https://daveverse.org/2026/01/02/the-web-after-ai/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T17:02:48Z" data-link="https://www.joeydevilla.com/2026/01/02/homeland-securitys-increasingly-unhinged-social-media-posts/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>Homeland Security’s increasingly unhinged social media posts.</p>
+
+      <address>
+        <a href="https://www.joeydevilla.com/2026/01/02/homeland-securitys-increasingly-unhinged-social-media-posts/">https://www.joeydevilla.com/2026/01/02/homeland-securitys-increasingly-unhinged-social-media-posts/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T17:00:38Z" data-link="https://www.profgalloway.com/slow-dopa/">
+      <h1>Slow Dopa</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>“Buy now, pay later” is booming. This past holiday season, American consumers were expected to spend a record $20 billion using these services, in many cases snapping up electronics, clothes, and other products they otherwise couldn’t afford. But the BNPL mentality extends far beyond retail. Getting a dopa hit today and dealing with the consequences […]</p>
+<p>The post <a href="https://www.profgalloway.com/slow-dopa/">Slow Dopa</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+
+      <address>
+        <a href="https://www.profgalloway.com/slow-dopa/">https://www.profgalloway.com/slow-dopa/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T16:45:00Z" data-link="http://scripting.com/2026/01/02/164500.html?title=imNeverTooOldToMakeAYoungDevelopersMistake">
+      <h1>I’m never too old to make a young developer’s mistake.</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>This is one of those times when you pay the price for working past your timeout, like a pitcher pitching too many pitches in one game. There's an item on your checklist, and you'd love to take it off before you start the next session. You copy paste something, get it to work, and close out your session for the day.</p>
+<p>While you're preparing to get up you decide to share a linkblog item, and when it boots up there's something severely broken. It has nothing to do with anything on your list! You roll it up for the day anyway, figuring it'll be easy to find when you start the next session. No sir. You have to work through complicated code you haven't touched in months! Where the fuck is this, and how the fuck did it happen. Drink more coffee. Keep stepping through the code to identify when things went bad. It happens in the most impossible place. You keep digging in. Even more impossible. Unfathomable. But you keep going in, making sure every bit of code does something you think it should and then boom! You left a copy in some DOM code in something you cribbed so now there are two of this thing you hadn't touched or even looked at in months. Delete the mistake, rebuild, click off all the breakpoints. And yup that was it.</p>
+<p>I started work at approx 9AM and it's 11:41AM — wasted the best part of the day, all to learn the lesson that no more &quot;one more feature&quot; before I get up bullshit. If you're tired you make mistakes, and you can't not pay for them.</p>
+<p>No doubt I will continue to learn this and other lessons all through what remains of my career. Some things you never learn, like &quot;I can always roll back&quot; — but where should I roll back to? When did I break this mofo? Oy. I'm never willing to go back that way.</p>
+
+      <address>
+        <a href="http://scripting.com/2026/01/02/164500.html?title=imNeverTooOldToMakeAYoungDevelopersMistake">http://scripting.com/2026/01/02/164500.html?title=imNeverTooOldToMakeAYoungDevelopersMistake</a>
+      </address>
+    </article>
+
     <article data-published="2026-01-02T16:01:32Z" data-link="https://www.borowitzreport.com/p/how-to-survive-2026">
       <h1>How to Survive 2026</h1>
 
@@ -74,7 +975,7 @@
 
 (date: 2026-01-02)
       <p>
-      <p><img src="https://imgs.scripting.com/2026/01/02/frankfurterWithSauerkraut.png" alt="">BTW, I used to have a tradition in the early days of this blog to write new stuff about an important idea on January 1 each year. At some point I stopped doing that. Now I realized that unintentionally I have just written such a piece, <a href="http://scripting.com/2026/01/02/144702.html">below</a>. There's a lot of good stuff in that piece and in the places it links to. See the web is still useful. You won't hear these ideas on CNN or MS.NOW or in the NYT, WP, or from any billionaires either. I'm not saying I'm right, I've definitely been wrong before. But I think I'm <em>mostly</em> right. ;-)</p>
+      <p><img src="https://imgs.scripting.com/2026/01/02/sauerkraut.png" alt="">BTW, I used to have a tradition in the early days of this blog to write new stuff about an important idea on January 1 each year. At some point I stopped doing that. Now I realized that unintentionally I have just written such a piece, <a href="http://scripting.com/2026/01/02/144702.html">below</a>. There's a lot of good stuff in that piece and in the places it links to. See the web is still useful. You won't hear these ideas on CNN or MS.NOW or in the NYT, WP, or from any billionaires either. I'm not saying I'm right, I've definitely been wrong before. But I think I'm <em>mostly</em> right. ;-)</p>
 
       <address>
         <a href="http://scripting.com/2026/01/02.html#a151956">http://scripting.com/2026/01/02.html#a151956</a>
@@ -114,7 +1015,7 @@
 
 (date: 2026-01-02)
       <p>
-      <p><img src="https://imgs.scripting.com/2026/01/02/hotdog.png" alt="">I still use Google. And I like the AI response they put at the top of the page, even though I get that it's bad for the web. Maybe there's a position for a web-only search engine. One where my writing has a chance of being seen by interested parties, rather than being converted to <a href="https://daytona.scripting.com/search?q=slurry">slurry</a> to be fed to consumers as one would get a tasty hot dog from a NYC street vendor. Another level of processing. If I recall correctly one of the browsers is saying they're not using AI at all. But this would be different, it would be for search, not the browser.</p>
+      <p><img src="https://imgs.scripting.com/2026/01/02/frankfurterWithSauerkraut.png" alt="">I still use Google. And I like the AI response they put at the top of the page, even though I get that it's bad for the web. Maybe there's a position for a web-only search engine. One where my writing has a chance of being seen by interested parties, rather than being converted to <a href="https://daytona.scripting.com/search?q=slurry">slurry</a> to be fed to consumers as one would get a <a href="https://www.alamy.com/stock-photo/hot-dog-stand-new-york.html?sortBy=relevant">tasty hot dog</a> from a NYC street vendor. Another level of processing. If I recall correctly one of the browsers is saying they're not using AI at all. But this would be different, it would be for search, not the browser.</p>
 <p>But Google, if you want to be fair about it, there should be a permalink for the AI-generated answers. This is something none of the AI vendors seem to be able to do. If so, I wonder why?</p>
 <p>I just tried looking up &quot;Regular Medicare&quot; on Google, I was looking for an official page and ended up using the <a href="https://www.medicare.gov/providers-services/original-medicare">Medicare.gov</a> one. But I could have decided the Google synopsis was the best. No way that I can see to use that as a link.</p>
 <p>Maybe we should all start thinking about how we would like the new post-AI web to work?</p>
@@ -177,23 +1078,6 @@
 
       <address>
         <a href="https://www.gelliottmorris.com/p/what-your-news-diet-says-about-your">https://www.gelliottmorris.com/p/what-your-news-diet-says-about-your</a>
-      </address>
-    </article>
-
-    <article data-published="2026-01-02T12:29:58Z" data-link="https://alexschroeder.ch/view/2026-01-02-xobaque">
-      <h1>2026-01-02 Xobaque does RFC 5005</h1>
-
-(date: 2026-01-02)
-      <p>
-      <h1>2026-01-02 Xobaque does RFC 5005</h1>
-<p>Very few blogs (this one?) support <a href="https://www.rfc-editor.org/rfc/rfc5005.html">RFC 5005</a> “Feed Paging and Archiving”.<a href="Xobaque">Xobaque</a> is a search engine that doesn’t crawl the web. It gets fed using feeds. That makes it the ideal companion for web rings, blog planets and the like. And I just added blog crawling using RFC 5005 to it.</p>
-<p>As long as Xobaque finds a “next” link, it’ll continue following that chain. In order to not overwhelm sites, there’s a 5s pause between these requests. I’m still not sure how good this idea is. A site like my own with a bit more than 6000 blog pages takes over 50 hours to crawl. And a new crawl is started every 24 hours.</p>
-<p>In my particular case, the next run that reaches a year-page, however, would notice that it hasn’t changed and stop. So I hope it’s still OK?</p>
-<p>I think the next thing I’d like to do is support sitemaps. I don’t have one but all the Blogspot blogs have one. There are 277 Blogspot blogs on the <a href="https://campaignwiki.org/rpg">RPG Planet</a>.</p>
-<p><a href="/search/?q=%23Xobaque">#Xobaque</a> <a href="/search/?q=%23Feeds">#Feeds</a></p>
-
-      <address>
-        <a href="https://alexschroeder.ch/view/2026-01-02-xobaque">https://alexschroeder.ch/view/2026-01-02-xobaque</a>
       </address>
     </article>
 
@@ -294,6 +1178,18 @@
 
       <address>
         <a href="https://lithub.com/26-sci-fi-and-fantasy-books-to-look-forward-to-in-2026/">https://lithub.com/26-sci-fi-and-fantasy-books-to-look-forward-to-in-2026/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-02T09:59:12Z" data-link="https://lithub.com/the-most-anticipated-childrens-books-of-2026/">
+      <h1>The Most Anticipated Children’s Books of 2026</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>Which books will the kids in your life fall in love with this year? We hope there will be lots, but to get your reading list started, we invited nine stellar children’s book creators—authors and illustrators of works for kids</p>
+
+      <address>
+        <a href="https://lithub.com/the-most-anticipated-childrens-books-of-2026/">https://lithub.com/the-most-anticipated-childrens-books-of-2026/</a>
       </address>
     </article>
 
@@ -601,6 +1497,18 @@
       </address>
     </article>
 
+    <article data-published="2026-01-02T00:00:00Z" data-link="https://buttondown.com/blog/incident-0023">
+      <h1>Public postmortem: archive downtime</h1>
+
+(date: 2026-01-02)
+      <p>
+      <p>Our public postmortem for Incident #0023.</p>
+
+      <address>
+        <a href="https://buttondown.com/blog/incident-0023">https://buttondown.com/blog/incident-0023</a>
+      </address>
+    </article>
+
     <article data-published="2026-01-01T22:12:20Z" data-link="https://simonwillison.net/2026/Jan/1/gisthost/#atom-everything">
       <h1>Introducing gisthost.github.io</h1>
 
@@ -617,7 +1525,7 @@
 X-Content-Type-Options: nosniff
 
 </code></pre>
-<p>These ensure that every file is treated by browsers as plan text, so HTML file will not be rendered even by older browsers that attempt to guess the content type based on the content.</p>
+<p>These ensure that every file is treated by browsers as plain text, so HTML file will not be rendered even by older browsers that attempt to guess the content type based on the content.</p>
 <pre><code>Via: 1.1 varnish
 Cache-Control: max-age=300
 X-Served-By: cache-sjc1000085-SJC
@@ -1022,6 +1930,20 @@ X-Served-By: cache-sjc1000085-SJC
 
       <address>
         <a href="https://heathercoxrichardson.substack.com/p/december-31-2025">https://heathercoxrichardson.substack.com/p/december-31-2025</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-01T05:00:00Z" data-link="https://inkdroid.org/2026/01/01/happy-new-year/">
+      <h1>Happy New Year</h1>
+
+(date: 2026-01-01)
+      <p>
+      <p><a href="https://www.flickr.com/photos/inkdroid/55018519810/"><img src="https://live.staticflickr.com/65535/55018519810_1d4bc2269f_c.jpg" alt=""></a>
+Happy New Year</p>
+<p>Blackeye peas and collard greens for us.</p>
+
+      <address>
+        <a href="https://inkdroid.org/2026/01/01/happy-new-year/">https://inkdroid.org/2026/01/01/happy-new-year/</a>
       </address>
     </article>
 
@@ -1949,6 +2871,7 @@ or you just want to read random things. :-)</p>
       <p>Recorded in a Ohio service center somewhere along <a href="https://en.wikipedia.org/wiki/Interstate_80">I-80</a>.</p>
 <p>The muted sound of cars and trucks passing at high speed about 200 feet
 away.</p>
+<p>This is a snippet cut and pasted a few times in <a href="https://www.reaper.fm/">REAPER</a>:</p>
 
       <address>
         <a href="https://inkdroid.org/2025/12/31/i80/">https://inkdroid.org/2025/12/31/i80/</a>
@@ -1988,6 +2911,18 @@ away.</p>
 
       <address>
         <a href="https://memex.naughtons.org/wednesday-31-december-2025/41531/">https://memex.naughtons.org/wednesday-31-december-2025/41531/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-12-31T00:00:00Z" data-link="https://dansinker.com/posts/2025-12-31-exit-interview/">
+      <h1>2025: The Exit Interview</h1>
+
+(date: 2025-12-31)
+      <p>
+      <p>There's only one word I can use to describe 2025: unrelenting. My contract on the year finally runs out today and so I requested an exit interview with HR.</p>
+
+      <address>
+        <a href="https://dansinker.com/posts/2025-12-31-exit-interview/">https://dansinker.com/posts/2025-12-31-exit-interview/</a>
       </address>
     </article>
 
@@ -3982,7 +4917,7 @@ only a gift-economy: get a thing in recognition of services rendered.</p>
     <article data-published="2025-12-27T11:23:00Z" data-link="https://www.ccc.de/de/updates/2025/ccc-unterstutzt-den-monatlichen-digital-independence-day">
       <h1>CCC unterstützt den monatlichen Digital Independence Day</h1>
 
-(date: 2025-12-27, updated: 2025-12-31)
+(date: 2025-12-27, updated: 2026-01-03)
       <p>
       <p>Zusammen mit vielen weiteren Organisationen ruft der Chaos Computer Club zum Digital Independence Day auf:
 An jedem ersten Sonntag im Monat wechseln wir von Big-Tech-Plattformen zu freien, lokalen oder auch einfach nur weniger problematischen Alternativen.
@@ -4073,19 +5008,6 @@ In vielen Städten unterstützen Ehrenamtliche des CCC mit Rat und Tat.</p>
 
       <address>
         <a href="https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything">https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-27T02:55:38Z" data-link="https://www.profgalloway.com/slow-dopa/">
-      <h1>Slow Dopa</h1>
-
-(date: 2025-12-27)
-      <p>
-      <p>“Buy now, pay later” is booming. American consumers this past holiday season were expected to spend a record $20 billion using these services, in many cases snapping up electronics, clothes, and other products they otherwise couldn’t afford. But the BNPL mentality extends far beyond retail. Getting a dopa hit today and dealing with the consequences […]</p>
-<p>The post <a href="https://www.profgalloway.com/slow-dopa/">Slow Dopa</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
-
-      <address>
-        <a href="https://www.profgalloway.com/slow-dopa/">https://www.profgalloway.com/slow-dopa/</a>
       </address>
     </article>
 
@@ -4525,18 +5447,6 @@ Total bytes fetched: 18,760 / 40,775,575 (100.0% savings)
       </address>
     </article>
 
-    <article data-published="2025-12-26T17:00:22Z" data-link="https://kottke.org/25/12/are-we-still-loving-pluribus">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-26)
-      <p>
-      <p>Kottke: Are We Still Loving Pluribus?</p>
-
-      <address>
-        <a href="https://kottke.org/25/12/are-we-still-loving-pluribus">https://kottke.org/25/12/are-we-still-loving-pluribus</a>
-      </address>
-    </article>
-
     <article data-published="2025-12-26T16:42:30Z" data-link="https://www.nydailynews.com/2025/12/26/new-yorkers-brace-for-biggest-snow-storm-in-years-up-to-10-inches/">
       <h1>@Dave Winer's linkblog</h1>
 
@@ -4827,369 +5737,6 @@ I looked at the small stack of ESP32 C6, H2 and S3 boards on my desk and thought
 
       <address>
         <a href="https://mastodon.social/@Migueldeicaza/115782076095412938">https://mastodon.social/@Migueldeicaza/115782076095412938</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-25T20:15:47Z" data-link="https://alexschroeder.ch/view/2025-12-23-santa-bots">
-      <h1>2025-12-23 A problem in the Butlerian Jihad setup</h1>
-
-(date: 2025-12-25)
-      <p>
-      <h1>2025-12-23 A problem in the Butlerian Jihad setup</h1>
-<p>I think there’s a problem with <a href="https://transjovian.org/view/fight-bots/index">the setup</a> that defends my sites against the scraper-bots.
-I think I have ASNs banned but when I check the logs, requests are still getting through.
-As a result, Community Wiki is still down.</p>
-<p>Let’s delve right in. If you’re interested in scripts and shell aliases, see the <a href="/admin">admin folder</a>.</p>
-<p>These ASNs are my top hitters on Community Wiki right now:</p>
-<pre><code>10min-access-log \
-  | awk '/^communitywiki/ {print $2}' \
-  | asncounter --top 3 --no-prefixes 2&gt;/dev/null
-count	percent	ASN	AS
-122	3.12	28573	Claro NXT Telecomunicacoes Ltda, BR
-84	2.15	45899	VNPT-AS-VN VNPT Corp, VN
-54	1.38	9541	CYBERNET-AP Cyber Internet Services Pvt Ltd., PK
-unique ASN: 1607
-total lookups: 3906
-total skipped: 0
-total failed: 0
-
-</code></pre>
-<p>And yet, the ASN seems to be banned!</p>
-<pre><code>asn-banned 28573
-28573 banned for 1h: 1
-28573 banned for 1w: 0
-
-</code></pre>
-<p>Let’s check:</p>
-<pre><code>10min-access-log | asn-access-log 28573 | tail -n 1
-communitywiki.org:443 187.23.18.103 - - [23/Dec/2025:09:05:17 +0100] &quot;GET /wiki?action=rc&amp;all=0&amp;days=7&amp;rcfilteronly=tag%3Aprojects&amp;showedit=0 HTTP/1.1&quot; 410 3928 &quot;-&quot; &quot;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&quot; 379
-
-</code></pre>
-<p>This IP address doesn’t seem to be banned after all!</p>
-<pre><code>fail2ban-client banned 187.23.18.103
-[[]]
-
-</code></pre>
-<p>Nor is the range banned:</p>
-<pre><code>asn-find '187.23.18.103'
-187.23.0.0/19	28573	Claro NXT Telecomunicacoes Ltda, BR
-fail2ban-client banned 187.23.0.0/19
-[[]]
-
-</code></pre>
-<p>What is going on? It’s definitely not banned:</p>
-<pre><code>fail2ban-client banned | sed 's/\'/&quot;/g' | jq | grep 187.23.0.0/19
-
-</code></pre>
-<p>No results. And that seems to be the problem. <code>asn-networks</code> doesn’t list <code>187.23.0.0/19</code> as belonging to ASN 28573 even though looking up <code>187.23.18.103</code> says it belongs to ASN 28573!</p>
-<pre><code>asn-networks 28573 | grep  '^187\.23\.'
-
-</code></pre>
-<p>No results. So let’s check whether this range is subsumed in some other range.</p>
-<pre><code>asn-networks 28573 | grep  '^187\.2'
-187.2.0.0/15
-187.20.0.0/14
-187.255.0.0/16
-
-</code></pre>
-<p>Indeed!</p>
-<pre><code>cidr-to-ip-range 187.20.0.0/14
-187.20.0.0 - 187.23.255.255
-
-</code></pre>
-<p>So this IP range covers the IP number we’re interested in.</p>
-<pre><code>fail2ban-client banned 187.20.0.0/14
-[['butlerian-jihad']]
-
-</code></pre>
-<p>OK! I’m happy to see this.
-So now the question is, why are requests from <code>187.23.18.103</code> not dropped?</p>
-<pre><code>iptables --list
-Chain INPUT (policy ACCEPT)
-target     prot opt source               destination
-ACCEPT     all  --  anywhere             anywhere             match-set gotosocial src
-ACCEPT     all  --  anywhere             anywhere             match-set allowlist src
-f2b-alex-apache  tcp  --  anywhere             anywhere             multiport dports http,https
-f2b-butlerian-jihad  tcp  --  anywhere             anywhere             multiport dports 0:65535
-f2b-butlerian-jihad-week  tcp  --  anywhere             anywhere             multiport dports 0:65535
-f2b-alex-bots  tcp  --  anywhere             anywhere             multiport dports http,https
-f2b-recidive  tcp  --  anywhere             anywhere
-DROP       all  --  anywhere             anywhere             match-set banlist src
-
-Chain FORWARD (policy ACCEPT)
-target     prot opt source               destination
-
-Chain OUTPUT (policy ACCEPT)
-target     prot opt source               destination
-
-Chain f2b-alex-apache (1 references)
-target     prot opt source               destination
-RETURN     all  --  anywhere             anywhere
-
-Chain f2b-alex-bots (1 references)
-target     prot opt source               destination
-RETURN     all  --  anywhere             anywhere
-
-Chain f2b-butlerian-jihad (1 references)
-target     prot opt source               destination
-
-Chain f2b-butlerian-jihad-week (1 references)
-target     prot opt source               destination
-
-Chain f2b-recidive (1 references)
-target     prot opt source               destination
-
-</code></pre>
-<p>Is the IP number on the <code>gotosocial</code> or <code>allowlist</code>?</p>
-<pre><code>ipset test allowlist 187.23.18.103
-187.23.18.103 is NOT in set allowlist.
-ipset test gotosocial 187.23.18.103
-187.23.18.103 is NOT in set gotosocial.
-
-</code></pre>
-<p>No results. So it does seem like fail2ban is not working as I expected.</p>
-<p>Looking for errors in the <code>fail2ban</code> log file, I find a lot of entries like this one:</p>
-<pre><code>2025-12-22 19:42:42,049 fail2ban.actions        [1335077]: NOTICE  [butlerian-jihad] Ban 187.20.0.0/14
-2025-12-22 19:42:42,090 fail2ban.utils          [1335077]: ERROR   7fe4b8218030 -- exec: nft add element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
-2025-12-22 19:42:42,091 fail2ban.utils          [1335077]: ERROR   7fe4b8218030 -- stderr: 'add element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
-2025-12-22 19:42:42,170 fail2ban.utils          [1335077]: ERROR   7fe4b82189b0 -- exec: nft add element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
-2025-12-22 19:42:42,170 fail2ban.utils          [1335077]: ERROR   7fe4b82189b0 -- stderr: 'add element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
-2025-12-22 19:42:42,171 fail2ban.actions        [1335077]: ERROR   Failed to execute ban jail 'butlerian-jihad' action 'nftables' info 'ActionInfo({'ip': '187.20.0.0/14', 'family': 'inet4', 'fid': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fe4d0c86de0&gt;, 'raw-ticket': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fe4d0c87560&gt;})': Error banning 187.20.0.0/14
-2025-12-22 19:59:32,461 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
-2025-12-22 20:01:09,507 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
-2025-12-22 20:14:39,061 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
-2025-12-22 20:14:45,091 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
-2025-12-22 20:16:20,918 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
-2025-12-22 20:16:27,072 fail2ban.actions        [1335077]: WARNING [butlerian-jihad] 187.20.0.0/14 already banned
-
-</code></pre>
-<p>So <code>fail2ban</code> manages to record the fact, that <code>187.20.0.0/14</code> is banned, and unbans it correctly, but the actual ban itself runs into an error!</p>
-<p>Looking around some more, I see this:</p>
-<pre><code>2025-12-21 09:51:52,821 fail2ban.actions        [169481]: NOTICE  [butlerian-jihad] Unban 187.20.0.0/14
-2025-12-21 09:51:52,862 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- exec: nft delete element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
-2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- stderr: &quot;Error: You must add 'flags interval' to your set declaration if you want to add prefix elements&quot;
-2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- stderr: 'delete element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
-2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- stderr: '                                                         ^^^^^^^^^^^^^'
-2025-12-21 09:51:52,863 fail2ban.utils          [169481]: ERROR   7fc4fc74c5b0 -- returned 1
-2025-12-21 09:51:52,939 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- exec: nft delete element inet f2b-table addr-set-butlerian-jihad \{ 187.20.0.0/14 \}
-2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- stderr: &quot;Error: You must add 'flags interval' to your set declaration if you want to add prefix elements&quot;
-2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- stderr: 'delete element inet f2b-table addr-set-butlerian-jihad { 187.20.0.0/14 }'
-2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- stderr: '                                                         ^^^^^^^^^^^^^'
-2025-12-21 09:51:52,940 fail2ban.utils          [169481]: ERROR   7fc4fc74ddb0 -- returned 1
-2025-12-21 09:51:52,940 fail2ban.actions        [169481]: ERROR   Failed to execute unban jail 'butlerian-jihad' action 'nftables' info 'ActionInfo({'ip': '187.20.0.0/14', 'family': 'inet4', 'fid': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fc51a8e2de0&gt;, 'raw-ticket': &lt;function Actions.ActionInfo.&lt;lambda&gt; at 0x7fc51a8e3560&gt;})': Error unbanning 187.20.0.0/14
-
-</code></pre>
-<p>I guess this is key: “Error: You must add ‘flags interval’ to your set declaration if you want to add prefix elements”.</p>
-<p>I didn’t know <code>fail2ban</code> was using <code>nft</code>. I must take a look at <code>/etc/fail2ban/action.d/nftables-multiport.conf</code>, I guess.</p>
-<p>I’ve been looking at <a href="https://itsfoss.gitlab.io/blog/fail2ban-with-iptables-persistent/">Securing Your Server: Integrating Fail2ban with IPTables-Persistent for Enhanced Protection</a> and it makes me think I might use ipsets instead.
-I’m hoping that won’t be too hard since I already use <code>ipset</code> for my allowlists and my permanent banlists.
-See <a href="2025-07-11-allow-list">2025-07-11 A separate allow-list to bypass fail2ban</a>.</p>
-<p>When I do the switch, I must remember to flush the lists that <code>fail2ban</code> is currently using. If there are entries on the old list, they would stay there forever if the commands to add and remove entries got changed.</p>
-<p>I also learned that Debian installs tools that look like <code>iptables</code> but they’re actually a compatibility layer that use <code>nft</code> instead.</p>
-<blockquote>
-<p>“The iptables Debian package install both and gives the nft version more priority by default in the update-alternatives system. This means that if you install this package, you will be using the nft tools instead of the legacy ones.” – <code>/usr/share/doc/iptables/README.Debian</code></p>
-</blockquote>
-<p>🤯</p>
-<p>This is why <code>fail2ban</code> uses <code>iptables</code> but the error messages mention <code>nft</code>.</p>
-<p>So here is what I ended up doing.</p>
-<p>I switched from <code>iptables</code> to <code>nft</code> by creating a new file <code>/etc/fail2ban/jail.local</code>:</p>
-<pre><code>[DEFAULT]
-banaction = nftables[type=multiport]
-banaction_allports = nftables[type=allports]
-
-</code></pre>
-<p>I created a local override for the nftables action so that <code>flags interval</code> gets added to the sets, and to add my allow-lists.
-Here’s <code>/etc/fail2ban/action.d/nftables.local</code>.</p>
-<pre><code># -*- mode: Conf -*-
-[Definition]
-# add &quot;flags interval;&quot;
-# add special allowlists
-_nft_add_set = &lt;nftables&gt; add set &lt;table_family&gt; &lt;table&gt; &lt;addr_set&gt; \{ type &lt;addr_type&gt;\; flags interval\; \}
-              &lt;_nft_for_proto-&lt;type&gt;-iter&gt;
-              &lt;nftables&gt; add rule &lt;table_family&gt; &lt;table&gt; &lt;chain&gt; %(rule_stat)s
-              &lt;_nft_for_proto-&lt;type&gt;-done&gt;
-	     /etc/butlerian-jihad/add-allowlist
-
-</code></pre>
-<p>To confirm, you can list all tables and then list the <code>f2b-table</code>. It contains all the sets, one for each jail of yours. The important part is that it says <code>flags interval</code> in there.</p>
-<pre><code>nft list sets inet f2b-table
-
-</code></pre>
-<p>Note that if you check the <code>fail2ban</code> log, you’ll still find errors such as “interval overlaps with an existing one”. That’s OK, though. No double-banning, I guess. 😅</p>
-<p>But wait, what about <code>/etc/butlerian-jihad/add-allowlist</code>? This is where I add my manual allow-list. Like <code>wilderland.ovh</code>, the other IRC server in our little network:</p>
-<pre><code>#!/usr/sbin/nft -f
-
-# define the sets
-add set inet f2b-table allowlist   { type ipv4_addr; flags interval; }
-add set inet f2b-table allowlist6  { type ipv6_addr; flags interval; }
-add set inet f2b-table gotosocial  { type ipv4_addr; flags interval; }
-add set inet f2b-table gotosocial6 { type ipv6_addr; flags interval; }
-
-# insert rules at the beginning
-insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip  saddr @allowlist   accept
-insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip6 saddr @allowlist6  accept
-insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip  saddr @gotosocial  accept
-insert rule inet f2b-table f2b-chain tcp dport 0-65535 ip6 saddr @gotosocial6 accept
-
-add element inet f2b-table allowlist {
-  51.83.186.78 comment &quot;kyonshi and wilderland.ovh&quot;,
-  # and a few more
-}
-
-add element inet f2b-table allowlist6 {
-   2001:41d0:601:1100::12d comment &quot;kyonshi and wilderland.ovh&quot;,
-  # and a few more
-}
-
-include &quot;/etc/butlerian-jihad/gotosocial.nft&quot;
-
-</code></pre>
-<p>And what about that <code>/etc/butlerian-jihad/gotosocial.nft</code> file?
-That’s generated every now and then from the local database so that all the IP numbers of instances where I follow someone or where someone follows me are on the allow list.
-I generate it using a script called <code>/etc/butlerian-jihad/gotosocial-prepare</code>
-This script is a <code>bash</code> script instead of a <code>fish</code> script because <code>fish</code> requires a directory where it writes its history.
-I found out when I had a gazillion protections in place.
-But then I could not get the script to access the database so I removed all the protections.
-And now I feel silly because the script is still written in <code>bash</code> but I prefer <code>fish</code>.</p>
-<pre><code>#!/usr/bin/bash
-# Redirect the output of this script into /etc/butlerian-jihad/gotosocial.nft
-set -e
-echo &quot;#!/usr/sbin/nft&quot;
-echo &quot;# $(date --iso)&quot;
-echo
-echo &quot;flush set inet f2b-table gotosocial&quot;
-echo &quot;flush set inet f2b-table gotosocial6&quot;
-echo
-domains=$(sqlite3 /home/gotosocial/sqlite.db &lt;&lt;EOF
-select distinct b.domain from follows as f
-join accounts as a on f.account_id = a.id
-join accounts as b on f.target_account_id = b.id
-where a.username = &quot;alex&quot; and a.domain is null
-and b.domain is not null
-union
-select distinct a.domain from follows as f
-join accounts as a on f.account_id = a.id
-join accounts as b on f.target_account_id = b.id
-where b.username = &quot;alex&quot; and b.domain is null
-and a.domain is not null
-union
-select distinct b.domain from follow_requests as f
-join accounts as a on f.account_id = a.id
-join accounts as b on f.target_account_id = b.id
-where a.username = &quot;alex&quot;
-and b.domain is not null
-order by 1
-EOF
-)
-i=1
-m=$(echo &quot;$domains&quot;|wc -l)
-declare -a ipv6list
-declare -a ipv4list
-for domain in $domains; do
-    ipv6=$(host -t AAAA &quot;$domain&quot; | awk '/has IPv6 address/ { print $5}')
-    ipv4=$(host -t A &quot;$domain&quot; | awk '/has address/ { print $4}')
-    echo &quot;$i/$m $domain&quot; &gt;&amp;2
-    for ip in $ipv6; do
-        ipv6list+=(&quot;$ip comment \&quot;$domain\&quot;&quot;)
-    done
-    for ip in $ipv4; do
-        ipv4list+=(&quot;$ip comment \&quot;$domain\&quot;&quot;)
-    done
-    i=$((i + 1))
-done
-echo &quot;add element inet f2b-table gotosocial {&quot;
-for item in &quot;${ipv4list[@]}&quot;; do
-    echo &quot;  $item,&quot;
-done
-echo &quot;}&quot;
-echo
-echo &quot;add element inet f2b-table gotosocial6 {&quot;
-for item in &quot;${ipv6list[@]}&quot;; do
-    echo &quot;  $item,&quot;
-done
-echo &quot;}&quot;
-
-</code></pre>
-<p>If you run it, it prints the results to <code>stdout</code> and the progress messages to <code>stderr</code>.</p>
-<p>You can redirect it to a file:</p>
-<pre><code>./gotosocial-prepare &gt; gotosocial.nft
-
-</code></pre>
-<p>The content looks something like this:</p>
-<pre><code>#!/usr/sbin/nft
-
-# 2025-12-25
-
-flush set inet f2b-table gotosocial
-flush set inet f2b-table gotosocial6
-
-add element inet f2b-table gotosocial {
-  78.47.204.93 comment &quot;berlin.social&quot;,
-  # and many more
-}
-
-add element inet f2b-table gotosocial6 {
-  2a01:4f8:c0c:3093::1 comment &quot;berlin.social&quot;,
-  # and many more
-}
-
-</code></pre>
-<p>And now for the <code>systemd</code> integration.</p>
-<p>The unit file is <code>/etc/butlerian-jihad/gotosocial-prepare.service</code>:</p>
-<pre><code>[Unit]
-Description=Update the allow-list for gotosocial
-
-[Service]
-Type=oneshot
-ExecStart=sh -c '/etc/butlerian-jihad/gotosocial-prepare | tee /etc/butlerian-jihad/gotosocial.nft | nft -f -'
-
-</code></pre>
-<p>Enable it:</p>
-<pre><code>systemctl enable /etc/butlerian-jihad/gotosocial-prepare.service
-
-</code></pre>
-<p>It complains that there is no way to run it since the timer is missing but we’re not ready, yet.</p>
-<p>The command here saves a copy in <code>/etc/butlerian-jihad/gotosocial.nft</code>.
-This copy is important because it’s the script called when <code>fail2ban</code> starts up and calls <code>/etc/butlerian-jihad/add-allowlist</code> which includes it.
-The service also pipes the output straight to <code>nft</code> to execute it.</p>
-<p>Test it:</p>
-<pre><code>systemctl start gotosocial-prepare-service
-
-</code></pre>
-<p>Assuming it works … we need a monthly timer, now.</p>
-<p>The timer file is <code>/etc/butlerian-jihad/gotosocial-prepare.timer</code>:</p>
-<pre><code>[Unit]
-Description=Update the allow-list for gotosocial
-
-[Timer]
-OnCalendar=1month
-RandomizedDelaySec=600
-
-[Install]
-WantedBy=timers.target
-
-</code></pre>
-<p>Enable and start it:</p>
-<pre><code>systemctl enable --now ./gotosocial-prepare.timer
-
-</code></pre>
-<p>Check it:</p>
-<pre><code>systemctl status gotosocial-prepare.timer
-
-</code></pre>
-<p>And now the allow-list should refresh every month. 😍</p>
-<p>A note on why the allow lists cannot be in a separate table.
-The key is this little info in the documentation, as I had to find out:</p>
-<blockquote>
-<p>“If a packet is accepted and there is another chain, bearing the same hook type and with a later priority, then the packet will subsequently traverse this other chain. Hence, an accept verdict – be it by way of a rule or the default chain policy – isn’t necessarily final.”</p>
-</blockquote>
-<p>So if the allow-list is in an earlier chain and is accepted, the later <code>fail2ban</code> chain can still drop the packets. Conversely, if the <code>fail2ban</code> chain comes first, the packets dropped are no longer available in later chains so the decision cannot be reversed.
-The sets with the addresses have to be in the <code>f2b-table</code> and the rules using them have to be in the <code>f2b-chain</code>.</p>
-<p>You might be wondering: Why is nobody else running into all this? The answer, I think, is that I started out banning whole ASNs, that is, all their IP address ranges. So now <code>fail2ban</code> manages address ranges instead of individual addresses and I can no longer use <code>fail2ban</code>’s <code>ignoreip</code> command which is probably what everybody else is using. But I want to ban the address ranges and allow individual addresses within those ranges.</p>
-<p><a href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
-
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-12-23-santa-bots">https://alexschroeder.ch/view/2025-12-23-santa-bots</a>
       </address>
     </article>
 
@@ -5939,6 +6486,18 @@ A new monochrome OLED screen is an easy fix, but I’d prefer a color one (espec
 
       <address>
         <a href="http://timkellogg.me/blog/2025/12/24/strix-dead-ends">http://timkellogg.me/blog/2025/12/24/strix-dead-ends</a>
+      </address>
+    </article>
+
+    <article data-published="2025-12-24T00:00:00Z" data-link="https://dansinker.com/posts/2025-12-24-fairytale/">
+      <h1>I've got a feeling / This year's for me and you</h1>
+
+(date: 2025-12-24)
+      <p>
+      <p>I wrote a little thing about &quot;Fairytale of New York&quot; and about hope for a better year, but mostly I wanted to share the rendition of the song played at Shane MacGowan's funeral in 2023 because it's so beautiful. Happy Christmas, I love ya baby.</p>
+
+      <address>
+        <a href="https://dansinker.com/posts/2025-12-24-fairytale/">https://dansinker.com/posts/2025-12-24-fairytale/</a>
       </address>
     </article>
 
@@ -8047,6 +8606,18 @@ Clouds</p>
       </address>
     </article>
 
+    <article data-published="2025-12-21T00:00:00Z" data-link="https://dansinker.com/posts/2025-12-21-the-work/">
+      <h1>A note in defense of Doing The Work, written on the shortest day of the longest year</h1>
+
+(date: 2025-12-21)
+      <p>
+      <p>In a year where so many insist that we take shortcuts, I wrote a short note in defense of Doing The Work.</p>
+
+      <address>
+        <a href="https://dansinker.com/posts/2025-12-21-the-work/">https://dansinker.com/posts/2025-12-21-the-work/</a>
+      </address>
+    </article>
+
     <article data-published="2025-12-21T00:00:00Z" data-link="https://buttondown.com/blog/2025-12-21-disposables-app">
       <h1>disposables.app</h1>
 
@@ -8287,6 +8858,19 @@ Clouds</p>
 
       <address>
         <a href="https://robertreich.substack.com/p/trumps-cognitive-collapse-the-coffee">https://robertreich.substack.com/p/trumps-cognitive-collapse-the-coffee</a>
+      </address>
+    </article>
+
+    <article data-published="2025-12-20T05:10:23Z" data-link="https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/">
+      <h1>A Quarter Century After Cyberselfish, Big Tech Proves Borsook Right</h1>
+
+(date: 2025-12-20)
+      <p>
+      <p>In her book Cyberselfish: A Critical Romp Through the Terribly Libertarian Culture of Silicon Valley, published in 2000, Borsook who is based in Palo Alto, California and has previously written for Wired and a host of other industry publications, took aim at what she saw as disturbing trends among the tech industry.</p>
+<p>The post <a href="https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/">A Quarter Century After Cyberselfish, Big Tech Proves Borsook Right</a> appeared first on <a href="https://puri.sm/">Purism</a>.</p>
+
+      <address>
+        <a href="https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/">https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/</a>
       </address>
     </article>
 
@@ -10999,6 +11583,20 @@ make translate
       </address>
     </article>
 
+    <article data-published="2025-12-17T00:00:00Z" data-link="https://basilesimon.fr/blog/publication-opinio-juris-ai-affected-evidence-pillars?campaign=rss">
+      <h1>New on Opinio Juris: Emergency Guidance for AI-Affected Evidence</h1>
+
+(date: 2025-12-17)
+      <p>
+      <p>I am excited to share a new article published on Opinio Juris, co-authored with <a href="https://nl.linkedin.com/in/srewald">Sabrina Rewald</a>, <a href="https://www.linkedin.com/in/dr-emma-irving-80329548/">Emma Irving</a>, and <a href="https://www.linkedin.com/in/kate-t-keator/">Kate Keator</a>.</p>
+<p>As generative AI reshapes the digital landscape, legal frameworks are struggling to keep pace. In our piece, <a href="https://opiniojuris.org/2025/12/16/when-tech-disrupts-faster-than-rules-adapt-drafting-emergency-guidance-for-ai-affected-evidence/">“When Tech Disrupts Faster Than Rules Adapt,”</a> we address the urgent need for updated standards in digital investigations.</p>
+<p>Drawing on collaboration between the Starling Lab and <a href="https://www.fenix.foundation/">the Fénix Foundation</a>, we introduce the concept of <strong>“AI-affected evidence”</strong> to capture the nuance of AI-generated, modified, and surfaced material. We identify emerging gaps in established standards like the Berkeley Protocol and propose eight evidentiary pillars to guide fact-finders. This article details the first four: <strong>Auditability</strong>, <strong>Corroboration</strong>, <strong>Provenance</strong>, and <strong>Prejudice</strong>, adapting them for the AI era.</p>
+
+      <address>
+        <a href="https://basilesimon.fr/blog/publication-opinio-juris-ai-affected-evidence-pillars?campaign=rss">https://basilesimon.fr/blog/publication-opinio-juris-ai-affected-evidence-pillars?campaign=rss</a>
+      </address>
+    </article>
+
     <article data-published="2025-12-16T23:59:22Z" data-link="https://simonwillison.net/2025/Dec/16/new-chatgpt-images/#atom-everything">
       <h1>The new ChatGPT Images is here</h1>
 
@@ -12677,19 +13275,6 @@ registered ARK organizations.</p>
       </address>
     </article>
 
-    <article data-published="2025-12-15T05:10:23Z" data-link="https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/">
-      <h1>A Quarter Century After Cyberselfish, Big Tech Proves Borsook Right</h1>
-
-(date: 2025-12-15)
-      <p>
-      <p>In her book Cyberselfish: A Critical Romp Through the Terribly Libertarian Culture of Silicon Valley, published in 2000, Borsook who is based in Palo Alto, California and has previously written for Wired and a host of other industry publications, took aim at what she saw as disturbing trends among the tech industry.</p>
-<p>The post <a href="https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/">A Quarter Century After Cyberselfish, Big Tech Proves Borsook Right</a> appeared first on <a href="https://puri.sm/">Purism</a>.</p>
-
-      <address>
-        <a href="https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/">https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/</a>
-      </address>
-    </article>
-
     <article data-published="2025-12-15T04:57:01Z" data-link="https://heathercoxrichardson.substack.com/p/december-14-2025">
       <h1>December 14, 2025</h1>
 
@@ -12750,6 +13335,18 @@ conversation is finished.</p>
 
       <address>
         <a href="http://timkellogg.me/blog/2025/12/15/strix">http://timkellogg.me/blog/2025/12/15/strix</a>
+      </address>
+    </article>
+
+    <article data-published="2025-12-15T00:00:00Z" data-link="https://dansinker.com/posts/2025-12-15-snooping-newsie/">
+      <h1>Announcing the Inaugural Snooping Newsie Awards for Excellence in Independent Journalism</h1>
+
+(date: 2025-12-15)
+      <p>
+      <p>Small-scale, fiercely independent journalism rarely gets recognition when awards are handed out. Yet it plays a vital role in our communities, especially this year. So I made an award and am thrilled to announce the inaugural winners.</p>
+
+      <address>
+        <a href="https://dansinker.com/posts/2025-12-15-snooping-newsie/">https://dansinker.com/posts/2025-12-15-snooping-newsie/</a>
       </address>
     </article>
 
@@ -13812,972 +14409,6 @@ Backup: 2912/91578368 files (0.2% non-contiguous), 320921165/366284288 blocks
 
       <address>
         <a href="https://davekarpf.substack.com/p/on-hatereading-as-method">https://davekarpf.substack.com/p/on-hatereading-as-method</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T23:52:43Z" data-link="https://mastodon.social/@Migueldeicaza/115709284394632886">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>You folks have a weird taste</p>
-<p><a href="https://mastodon.online/@9to5Mac/115709278597814597">https://mastodon.online/@9to5Mac/115709278597814597</a></p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115709284394632886">https://mastodon.social/@Migueldeicaza/115709284394632886</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T23:52:25Z" data-link="https://alexschroeder.ch/view/2025-12-13-reform-notes">
-      <h1>2025-12-13 MNT Pocket Reform notes</h1>
-
-(date: 2025-12-12)
-      <p>
-      <h1>2025-12-13 MNT Pocket Reform notes</h1>
-<blockquote>
-<p>As is often the case, I sit on a cushion in the living room, typing into the MNT Pocket Reform laptop while Claudia is lying on the sofa, reading a magazine.</p>
-</blockquote>
-<p>After a recent upgrade, poweroff, shutdown and friends stopped doing their job. The system starts shutting down; only the keyboard lights are still on, then nothing happens for a few seconds and then the Pocket Reform reboots again.</p>
-<p>I posted on the community forums, asking for help, and <em>josch</em> came to the rescue once again.
-The key to finding the problem is running <code>reform-check</code>.</p>
-<p>Here’s his breakdown:</p>
-<pre><code>E: Cannot get version of linux-image-mnt-reform-arm64 as it is not installed
-
-</code></pre>
-<blockquote>
-<p>Without having that meta-package installed, it will be more tricky to keep your kernel up-to-date.</p>
-</blockquote>
-<pre><code>W: unable to obtain version of system controller firmware -- firmware too old?
-W: unable to obtain version of keyboard firmware -- firmware too old?
-
-</code></pre>
-<blockquote>
-<p>You should look into upgrading your sysctl and keyboard firmware. The versions after the one you have (too old to retrieve the exact version) contain important fixes for the stability of keyboard/sysctl communication.</p>
-</blockquote>
-<pre><code>E: linux-headers-mnt-reform-arm64 is not installed -- cannot compile reform2_lpc module
-
-</code></pre>
-<p>This is why you cannot shut-down properly. Without the <code>reform2_lpc</code> module, the system cannot tell your Pocket to switch off.</p>
-<pre><code>E: reform2_lpc is not loaded (battery status information will be missing)
-E: /usr/lib/modules/6.17.11-mnt-reform-arm64/updates/dkms/reform2_lpc.ko{.xz} does not exist
-
-</code></pre>
-<blockquote>
-<p>More errors because the module cannot be compiled above.</p>
-</blockquote>
-<p>I installed <code>linux-image-mnt-reform-arm64</code> and <code>linux-headers-mnt-reform-arm64</code> but the <code>reform2_lpc</code> is still uncompiled.</p>
-<p>I’m not sure how to do this but guessed that <code>sudo dpkg-reconfigure reform2-lpc-dkms</code> was the command I needed. To load it, <code>sudo modprobe reform2-lpc</code> … and now shutdown works! 😍</p>
-<p>I found information about the dynamic kernel module system (dkms) on this very blog. Sometimes it is amazing. And then I searched for an appropriate package.</p>
-<p>As for the firmware, <em>josch</em> said:</p>
-<blockquote>
-<p>Since your firmware is too old to be updated via fwupd, you need to do it manually once: <a href="https://source.mnt.re/reform/pocket-reform/-/releases/20250724#how-to-update-your-mnt-pocket-reform-firmware">How to Update your MNT Pocket Reform Firmware</a>.
-After you are on that firmware version, you can use gnome-firmware (the GUI way) or <code>fwupd</code> (the console way) to update to the latest version.</p>
-</blockquote>
-<p>Thanks, <em>josch</em>!</p>
-<p><a href="/search/?q=%23Pocket">#Pocket</a> <a href="/search/?q=%23Reform">#Reform</a></p>
-
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-12-13-reform-notes">https://alexschroeder.ch/view/2025-12-13-reform-notes</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T23:29:51Z" data-link="https://simonwillison.net/2025/Dec/12/openai-skills/#atom-everything">
-      <h1>OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>One of the things that most excited me about <a href="https://simonwillison.net/2025/Oct/16/claude-skills/">Anthropic's new Skills mechanism</a> back in October is how easy it looked for other platforms to implement. A skill is just a folder with a Markdown file and some optional extra resources and scripts, so any LLM tool with the ability to navigate and read from a filesystem should be capable of using them. It turns out OpenAI are doing exactly that, with skills support quietly showing up in both their Codex CLI tool and now also in ChatGPT itself.</p>
-<h4>Skills in ChatGPT</h4>
-<p>I learned about this <a href="https://x.com/elias_judin/status/1999491647563006171">from Elias Judin</a> this morning. It turns out the Code Interpreter feature of ChatGPT now has a new <code>/home/oai/skills</code> folder which you can access simply by prompting:</p>
-<blockquote>
-<p><code>Create a zip file of /home/oai/skills</code></p>
-</blockquote>
-<p>I <a href="https://chatgpt.com/share/693c9645-caa4-8006-9302-0a9226ea7599">tried that myself</a> and got back <a href="https://static.simonwillison.net/static/cors-allow/2025/skills.zip">this zip file</a>. Here's <a href="https://tools.simonwillison.net/zip-wheel-explorer?url=https%3A%2F%2Fstatic.simonwillison.net%2Fstatic%2Fcors-allow%2F2025%2Fskills.zip">a UI for exploring its content</a> ( <a href="https://tools.simonwillison.net/colophon#zip-wheel-explorer.html">more about that tool</a>).</p>
-<p><img src="https://static.simonwillison.net/static/2025/skills-explore.jpg" alt="Screenshot of file explorer. Files skills/docs/render_docsx.py and skills/docs/skill.md and skills/pdfs/ and skills/pdfs/skill.md - that last one is expanded and reads: # PDF reading, creation, and review guidance  ## Reading PDFs - Use pdftoppm -png OUTDIR/BASENAME.pdf OUTDIR/BASENAME to convert PDFs to PNGs. - Then open the PNGs and read the images. - pdfplumber is also installed and can be used to read PDFs. It can be used as a complementary tool to pdftoppm but not replacing it. - Only do python printing as a last resort because you will miss important details with text extraction (e.g. figures, tables, diagrams).  ## Primary tooling for creating PDFs - Generate PDFs programmatically with reportlab as the primary tool. In most cases, you should use reportlab to create PDFs. - If there are other packages you think are necessary for the task (eg. pypdf, pyMuPDF), you can use them but you may need topip install them first. - After each meaningful update—content additions, layout adjustments, or style changes—render the PDF to images to check layout fidelity:   - pdftoppm -png INPUT_PDF OUTPUT_PREFIX - Inspect every exported PNG before continuing work. If anything looks off, fix the source and re-run the render → inspect loop until the pages are clean.  ## Quality expectations - Maintain a polished, intentional visual design: consistent typography, spacing, margins, color palette, and clear section breaks across all pages. - Avoid major rendering issues—no clipped text, overlapping elements, black squares, broken tables, or unreadable glyphs. The rendered pages should look like a curated document, not raw template output. - Charts, tables, diagrams, and images must be sharp, well-aligned, and properly labeled in the PNGs. Legends and axes should be readable without excessive zoom. - Text must be readable at normal viewing size; avoid walls of filler text or dense, unstructured bullet lists. Use whitespace to separate ideas. - Never use the U+2011 non-breaking hyphen or other unicode dashes as they will not be"></p>
-<p>So far they cover spreadsheets, docx and PDFs. Interestingly their chosen approach for PDFs and documents is to convert them to rendered per-page PNGs and then pass those through their vision-enabled GPT models, presumably to maintain information from layout and graphics that would be lost if they just ran text extraction.</p>
-<p>Elias <a href="https://github.com/eliasjudin/oai-skills">shared copies in a GitHub repo</a>. They look very similar to Anthropic's implementation of the same kind of idea, currently published in their <a href="https://github.com/anthropics/skills/tree/main/skills">anthropics/skills</a> repository.</p>
-<p>I tried it out by prompting:</p>
-<blockquote>
-<p>Create a PDF with a summary of the rimu tree situation right now and what it means for kakapo breeding season</p>
-</blockquote>
-<p>Sure enough, GPT-5.2 Thinking started with:</p>
-<blockquote>
-<p>Reading skill.md for PDF creation guidelines</p>
-</blockquote>
-<p>Then:</p>
-<blockquote>
-<p>Searching rimu mast and Kākāpō 2025 breeding status</p>
-</blockquote>
-<p>It took <a href="https://chatgpt.com/share/693ca54b-f770-8006-904b-9f31a585180a">just over eleven minutes</a> to produce <a href="https://static.simonwillison.net/static/cors-allow/2025/rimu_kakapo_breeding_brief.pdf">this PDF</a>, which was long enough that I had Claude Code for web <a href="https://github.com/simonw/tools/pull/155">build me a custom PDF viewing tool</a> while I waited.</p>
-<p><a href="https://tools.simonwillison.net/view-pdf?url=https%3A%2F%2Fstatic.simonwillison.net%2Fstatic%2Fcors-allow%2F2025%2Frimu_kakapo_breeding_brief.pdf">Here's ChatGPT's PDF in that tool</a>.</p>
-<p><img src="https://static.simonwillison.net/static/2025/rimu.jpg" alt="Screenshot of my tool. There is a URL at the top, a Load PDF button and pagination controls. Then the PDF itself is shown, which reads: Rimu mast status and what it means for the kākāpō breeding season Summary as of 12 December 2025 (Pacific/Auckland context) Kākāpō breeding is tightly linked to rimu (Dacrydium cupressinum) mast events: when rimu trees set and ripen large amounts of fruit, female kākāpō are much more likely to nest, and more chicks can be successfully raised. Current monitoring indicates an unusually strong rimu fruiting signal heading into the 2025/26 season, which sets the stage for a potentially large breeding year in 2026.^1,2 Key numbers at a glance Kākāpō population (official DOC count) 237 birds alive Breeding trigger (rimu fruiting)&gt;10% of rimu branch tips bearing fruit Forecast rimu fruiting for 2026 (DOC monitoring) Around 50–60% fruiting across breeding islands¹Breeding-age females (DOC 2025 planning figure)About 87 females (potentially nearly all could nest)"></p>
-<p>(I am <strong>very excited</strong> about <a href="https://www.auckland.ac.nz/en/news/2025/12/03/bumper-breeding-season-for-kakapo-on-the-cards.html">Kākāpō breeding season this year</a>.)</p>
-<p>The reason it took so long is that it was fastidious about looking at and tweaking its own work. I appreciated that at one point it tried rendering the PDF and noticed that the macrons in kākāpō were not supported by the chosen font, so it switched to something else:</p>
-<p><img src="https://static.simonwillison.net/static/2025/skills-macrons.jpg" alt="ChatGPT screenshot. Analyzed image. There's an image of a page of PDF with obvious black blocks on some of the letters in the heading. It then says: Fixing font issues with macrons. The page is showing black squares for words like &quot;kākāpō,&quot; probably because Helvetica can't handle macrons. I'll switch to a font that supports them, such as DejaVu Sans or Noto Sans. I'll register both regular and bold fonts, then apply them to the document. I'll update the footer to note the issue with Helvetica. Time to rebuild the PDF!"></p>
-<h4>Skills in Codex CLI</h4>
-<p>Meanwhile, two weeks ago OpenAI's open source Codex CLI tool landed a PR titled <a href="https://github.com/openai/codex/pull/7412">feat: experimental support for skills.md</a>. The most recent docs for that are in <a href="https://github.com/openai/codex/blob/main/docs/skills.md">docs/skills.md</a>.</p>
-<p>The documentation suggests that any folder in <code>~/.codex/skills</code> will be treated as a skill.</p>
-<p>I dug around and found the code that generates the prompt that drives the skill system in <a href="https://github.com/openai/codex/blob/ad7b9d63c326d5c92049abd16f9f5fb64a573a69/codex-rs/core/src/skills/render.rs#L20-L38">codex-rs/core/src/skills/render.rs</a> - here's a Gist with <a href="https://gist.github.com/simonw/25f2c3a9e350274bc2b76a79bc8ae8b2">a more readable version of that prompt</a>.</p>
-<p>I <a href="https://claude.ai/share/0a9b369b-f868-4065-91d1-fd646c5db3f4">used Claude Opus 4.5's skill authoring skill</a> to create <a href="https://github.com/datasette/skill">this skill for creating Datasette plugins</a>, then installed it into my Codex CLI skills folder like this:</p>
-<pre><code>git clone https://github.com/datasette/skill \
-  ~/.codex/skills/datasette-plugin
-</code></pre>
-<p>You have to run Codex with the <code>--enable skills</code> option. I ran this:</p>
-<pre><code>cd /tmp
-mkdir datasette-cowsay
-cd datasette-cowsay
-codex --enable skills -m gpt-5.2
-</code></pre>
-<p>Then prompted:</p>
-<blockquote>
-<p><code>list skills</code></p>
-</blockquote>
-<p>And Codex replied:</p>
-<blockquote>
-<p><code>- datasette-plugins — Writing Datasette plugins using Python + pluggy (file: /Users/simon/.codex/skills/datasette-plugin/SKILL.md)</code></p>
-<p><code>- Discovery — How to find/identify available skills (no SKILL.md path provided in the list)</code></p>
-</blockquote>
-<p>Then I said:</p>
-<blockquote>
-<p><code>Write a Datasette plugin in this folder adding a /-/cowsay?text=hello page that displays a pre with cowsay from PyPI saying that text</code></p>
-</blockquote>
-<p>It worked perfectly! Here's <a href="https://github.com/simonw/datasette-cowsay">the plugin code it wrote</a> and here's <a href="http://gistpreview.github.io/?96ee928370b18eabc2e0fad9aaa46d4b">a copy of the full Codex CLI transcript</a>, generated with my <a href="https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/">terminal-to-html tool</a>.</p>
-<p>You can try that out yourself if you have <code>uvx</code> installed like this:</p>
-<pre><code>uvx --with https://github.com/simonw/datasette-cowsay/archive/refs/heads/main.zip \
-  datasette
-</code></pre>
-<p>Then visit:</p>
-<pre><code>http://127.0.0.1:8001/-/cowsay?text=This+is+pretty+fun
-
-</code></pre>
-<p><img src="https://static.simonwillison.net/static/2025/cowsay-datasette.jpg" alt="Screenshot of that URL in Firefox, an ASCII art cow says This is pretty fun."></p>
-<h4>Skills are a keeper</h4>
-<p>When I first wrote about skills in October I said <a href="https://simonwillison.net/2025/Oct/16/claude-skills/">Claude Skills are awesome, maybe a bigger deal than MCP</a>. The fact that it's just turned December and OpenAI have already leaned into them in a big way reinforces to me that I called that one correctly.</p>
-<p>Skills are based on a <em>very</em> light specification, if you could even call it that, but I still think it would be good for these to be formally documented somewhere. This could be a good initiative for the new <a href="https://aaif.io/">Agentic AI Foundation</a> ( <a href="https://simonwillison.net/2025/Dec/9/agentic-ai-foundation/">previously</a>) to take on.</p>
-<p>Tags: <a href="https://simonwillison.net/tags/pdf">pdf</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/kakapo">kakapo</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/skills">skills</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Dec/12/openai-skills/#atom-everything">https://simonwillison.net/2025/Dec/12/openai-skills/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T22:38:08Z" data-link="https://liam-on-linux.dreamwidth.org/97426.html">
-      <h1>What's the point of lightweight code with modern computers?</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>I think there are many.</p>
-<p>Some examples:</p>
-<p>\* The fastest code is the code you don't run.</p>
-<p>Smaller = faster, and we all want faster. Moore's law is over, Dennard scaling isn't affordable any more, smaller feature sizes are getting absurdly difficult and therefore expensive to fab. So if we want our computers to keep getting faster as we've got used to over the last 40-50 years then the only way to keep delivering that will be to start ruthlessly optimising, shrinking, finding more efficient ways to implement what we've got used to.</p>
-<p>Smaller systems are better for performance.</p>
-<p>\* The smaller the code, the less there is to go wrong.</p>
-<p>Smaller doesn't just mean faster, it should mean simpler and cleaner too. Less to go wrong. Easier to debug. Wrappers and VMs and bytecodes and runtimes are bad: they make life easier but they are less efficient and make issues harder to troubleshoot. Part of the Unix philosophy is to embed the KISS principle.</p>
-<p>So that's performance and troubleshooting. We aren't done.</p>
-<p>\* The less you run, the smaller the attack surface.</p>
-<p>Smaller code and less code means fewer APIs, fewer interfaces, less points of failure. Look at djb's decades-long policy of offering rewards to people who find holes in qmail or djbdns. Look at OpenBSD. We all need better more secure code. Smaller simpler systems built from fewer layers means more security, less attack surface, less to audit.</p>
-<p>Higher performance, and easier troubleshooting, and better security. There's 3 reasons.</p>
-<p>Practical examples...</p>
-<p>The Atom editor spawned an entire class of app: Electron apps, Javascript on Node, bundled with Chromium. Slack, Discord, VSCode: there are multiple apps used by tens to hundreds of millions of people now. Look at how vast they are. Balena Etcher is a, what, nearly 100 MB download to write an image to USB? Native apps like Rufus do it in a few megabytes. Smaller ones like USBimager do it in hundreds of kilobytes. A dd command in under 100 bytes.</p>
-<p>Now some of the people behind Atom wrote Zed.</p>
-<p>It's 10% of the size and 10x the speed, in part because it's a native Rust app.</p>
-<p>The COSMIC desktop looks like GNOME, works like GNOME Shell, but it's smaller and faster and more customisable because it's native Rust code.</p>
-<p>GNOME Shell is Javascript running on an embedded copy of Mozilla's Javascript runtime.</p>
-<p>Just like dotcoms wanted to dis-intermediate business, remove middlemen and distributors for faster sales, we could use disintermediation in our software. Fewer runtimes, better smarter compiled languages so we can trap more errors and have faster <em>and</em> safer compiled native code.</p>
-<p>Smaller, simpler, cleaner, fewer layers, less abstractions: these are all <em>goods things</em> which are <em>desirable</em>.</p>
-<p>Dennis Ritchie and Ken Thompson knew this. That's why Research Unix evolved into Plan 9, which puts way more stuff through the filesystem to remove whole types of API. Everything's in a container all the time, the filesystem abstracts the network and the GUI and more. Under 10% of the syscalls of Linux, the kernel is 5MB of source, and yet it has much of Kubernetes in there.</p>
-<p>Then they went further, replaced C too, made a simpler safer language, embedded its runtime right into the kernel, and made binaries CPU-independent, and turned the entire network-aware OS into a runtime to compete with the JVM, so it could run as a browser plugin as well as a bare-metal OS. Now we have ubiquitous virtualisation so lean into it: separate domains. If your user-facing OS only runs in a VM then it doesn't need a filesystem or hardware drivers, because it won't see hardware, only virtualised facilities, so rip all that stuff out. Your container host doesn't need to have a console or manage disks.</p>
-<p>This is what we should be doing. This is what we need to do. Hack away at the code complexity. Don't add functionality, remove it. Simplify it. Enforce standards by putting them in the kernel and removing dozens of overlapping implementations. Make codebases that are smaller and readable by humans.</p>
-<p>Leave the vast bloated stuff to commercial companies and proprietary software where nobody gets to read it except LLM bots anyway.</p>
-<p>[Adapted from an <a href="https://news.ycombinator.com/item?id=46203921">HN comment</a>.)</p>
-<p><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&amp;ditemid=97426" alt="comment count unavailable"> comments</p>
-
-      <address>
-        <a href="https://liam-on-linux.dreamwidth.org/97426.html">https://liam-on-linux.dreamwidth.org/97426.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T22:28:55Z" data-link="https://mastodon.social/@Migueldeicaza/115708954873284979">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Our first 3D tutorial: Erin walks us through World Environments in Xogot:</p>
-<p><a href="https://youtu.be/3qniuBdU_fE">https://youtu.be/3qniuBdU_fE</a></p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115708954873284979">https://mastodon.social/@Migueldeicaza/115708954873284979</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T22:00:30Z" data-link="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html">
-      <h1>Friday Squid Blogging: Giant Squid Eating a Diamondback Squid</h1>
-
-(date: 2025-12-12, updated: 2025-12-09)
-      <p>
-      <p>I have no context for <a href="https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/">this video</a>—it’s from Reddit—but one of the commenters adds some context:</p>
-<blockquote>
-<p>Hey everyone, squid biologist here! Wanted to add some stuff you might find interesting.</p>
-<p>With so many people carrying around cameras, we’re getting more videos of giant squid at the surface than in previous decades. We’re also starting to notice a pattern, that around this time of year (peaking in January) we see a bunch of giant squid around Japan. We don’t know why this is happening. Maybe they gather around there to mate or something? who knows! but since so many people have cameras, those one-off monster-story encounters are now caught on video, like this one (which, btw, rips. This squid looks so healthy, it’s awesome)...</p>
-</blockquote>
-
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html">https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:54:02Z" data-link="https://lithub.com/heres-hoping-that-johnny-depp-doesnt-ruin-the-master-and-margarita/">
-      <h1>Here’s hoping that Johnny Depp doesn’t ruin The Master And Margarita.</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Pirate of the Caribbean Johnny Depp, who drifted out to sea after allegations of abuse, recently announced he’s producing an English language film based on Mikhail Bulgakov’s The Master and Margarita. Depp made the announcement at a film festival in</p>
-
-      <address>
-        <a href="https://lithub.com/heres-hoping-that-johnny-depp-doesnt-ruin-the-master-and-margarita/">https://lithub.com/heres-hoping-that-johnny-depp-doesnt-ruin-the-master-and-margarita/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:29:02Z" data-link="https://mjtsai.com/blog/2025/12/12/xcode-26-2/">
-      <h1>Xcode 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Apple (xip, downloads): Xcode 26.2 includes Swift 6.2.3 and SDKs for iOS 26.2, iPadOS 26.2, tvOS 26.2, macOS 26.2, and visionOS 26.2. Xcode 26.2 supports on-device debugging in iOS 15 and later, tvOS 15 and later, watchOS 8 and later, and visionOS. Xcode 26.2 requires a Mac running macOS Sequoia 15.6 or later. […] You […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/xcode-26-2/">https://mjtsai.com/blog/2025/12/12/xcode-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:27:52Z" data-link="https://mjtsai.com/blog/2025/12/12/macos-26-2/">
-      <h1>macOS 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Juli Clover (release notes, security, enterprise, developer, full installer, IPSW): macOS Tahoe 26.2 includes Edge Light, a feature that illuminates your face with soft light when you’re on a video call in a room with poor lighting. The update also adds alarms for the Reminders app, new podcast features, updated AirDrop settings, and more. When […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/macos-26-2/">https://mjtsai.com/blog/2025/12/12/macos-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:27:43Z" data-link="https://mjtsai.com/blog/2025/12/12/macos-15-7-3-and-macos-14-8-3/">
-      <h1>macOS 15.7.3 and macOS 14.8.3</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>macOS 15.7.3 (security, full installer): This update provides important security fixes and is recommended for all users. macOS 14.8.3 (security, full installer): This update provides important security fixes and is recommended for all users. See also: Howard Oakley. Previously: macOS 15.7.2 and macOS 14.8.2</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/macos-15-7-3-and-macos-14-8-3/">https://mjtsai.com/blog/2025/12/12/macos-15-7-3-and-macos-14-8-3/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:27:37Z" data-link="https://mjtsai.com/blog/2025/12/12/watchos-26-2/">
-      <h1>watchOS 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Juli Clover (release notes, security, developer): watchOS 26.2 changes the labeling for Sleep Score point ranges to better match how people might be feeling after a night of rest. The update adjusts the ranges for Very Low, Low, OK, High, and Very High sleep score results. Very High is also a new classification that replaces […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/watchos-26-2/">https://mjtsai.com/blog/2025/12/12/watchos-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:27:15Z" data-link="https://mjtsai.com/blog/2025/12/12/ipados-26-2/">
-      <h1>iPadOS 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Juli Clover (release notes, security, enterprise, developer): iPadOS 26.2 continues with the multitasking improvements that were added with iPadOS 26.1. You can now drag and drop apps from the Dock, Spotlight Search, or the App Library to different multitasking views, including Slide Over. Apps can be dragged to the far left or far right to […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/ipados-26-2/">https://mjtsai.com/blog/2025/12/12/ipados-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:27:10Z" data-link="https://mjtsai.com/blog/2025/12/12/ios-26-2/">
-      <h1>iOS 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Juli Clover (release notes, security, enterprise, developer): iOS 26.2 adds an option to activate an alarm when a reminder is due, an option to change the opacity of the time on the Lock Screen, updated AirDrop functionality, and new features for the Podcasts app. It also brings Live Translation for the AirPods to the EU, […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/ios-26-2/">https://mjtsai.com/blog/2025/12/12/ios-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:26:56Z" data-link="https://mjtsai.com/blog/2025/12/12/audioos-26-2/">
-      <h1>audioOS 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Juli Clover (no release notes): According to Apple’s release notes, HomePod Software 26.2 includes performance and stability improvements. Needless to say, it still won’t play a lot of the music I’ve purchase from Apple. Previously: audioOS 26.1</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/audioos-26-2/">https://mjtsai.com/blog/2025/12/12/audioos-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:26:48Z" data-link="https://mjtsai.com/blog/2025/12/12/tvos-26-2/">
-      <h1>tvOS 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Juli Clover (release notes, security, developer): The tvOS 26.2 update changes the way that profiles work on the Apple TV , adding an option to create a profile without an Apple Account. With no need for an Apple Account, profiles can be created for guests and children. For profiles made for children, there is an […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/tvos-26-2/">https://mjtsai.com/blog/2025/12/12/tvos-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:26:42Z" data-link="https://mjtsai.com/blog/2025/12/12/visionos-26-2/">
-      <h1>visionOS 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Juli Clover (release notes, security, no enterprise, developer): visionOS 26.2 expands the Travel Mode feature to cars and busses, plus it adds new features for spatial accessories like the Logitech Muse. Previously: visionOS 26.1</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/12/visionos-26-2/">https://mjtsai.com/blog/2025/12/12/visionos-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T20:20:14Z" data-link="https://simonwillison.net/2025/Dec/12/llm-028/#atom-everything">
-      <h1>LLM 0.28</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p><strong><a href="https://llm.datasette.io/en/stable/changelog.html#v0-28">LLM 0.28</a></strong></p>
-<p>I released a new version of my <a href="https://llm.datasette.io/">LLM</a> Python library and CLI tool for interacting with Large Language Models. Highlights from the release notes:</p>
-<blockquote>
-<ul>
-<li>New OpenAI models: <code>gpt-5.1</code>, <code>gpt-5.1-chat-latest</code>, <code>gpt-5.2</code> and <code>gpt-5.2-chat-latest</code>. <a href="https://github.com/simonw/llm/issues/1300">#1300</a>, <a href="https://github.com/simonw/llm/issues/1317">#1317</a></li>
-<li>When fetching URLs as fragments using <code>llm -f URL</code>, the request now includes a custom user-agent header: <code>llm/VERSION (https://llm.datasette.io/)</code>. <a href="https://github.com/simonw/llm/issues/1309">#1309</a></li>
-<li>Fixed a bug where fragments were not correctly registered with their source when using <code>llm chat</code>. Thanks, <a href="https://github.com/grota">Giuseppe Rota</a>. <a href="https://github.com/simonw/llm/pull/1316">#1316</a></li>
-<li>Fixed some file descriptor leak warnings. Thanks, <a href="https://github.com/eedeebee">Eric Bloch</a>. <a href="https://github.com/simonw/llm/issues/1313">#1313</a></li>
-<li>Type annotations for the OpenAI Chat, AsyncChat and Completion <code>execute()</code> methods. Thanks, <a href="https://github.com/ar-jan">Arjan Mossel</a>. <a href="https://github.com/simonw/llm/pull/1315">#1315</a></li>
-<li>The project now uses <code>uv</code> and dependency groups for development. See the updated <a href="https://llm.datasette.io/en/stable/contributing.html">contributing documentation</a>. <a href="https://github.com/simonw/llm/issues/1318">#1318</a></li>
-</ul>
-</blockquote>
-<p>That last bullet point about <code>uv</code> relates to the dependency groups pattern I <a href="https://til.simonwillison.net/uv/dependency-groups">wrote about in a recent TIL</a>. I'm currently working through applying it to my other projects - the net result is that running the test suite is as simple as doing:</p>
-<pre><code>git clone https://github.com/simonw/llm
-cd llm
-uv run pytest
-
-</code></pre>
-<p>The new <code>dev</code> dependency group <a href="https://github.com/simonw/llm/blob/0.28/pyproject.toml#L44-L69">defined in pyproject.toml</a> is automatically installed by <code>uv run</code> in a new virtual environment which means everything needed to run <code>pytest</code> is available without needing to add any extra commands.</p>
-<p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/uv">uv</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Dec/12/llm-028/#atom-everything">https://simonwillison.net/2025/Dec/12/llm-028/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T19:58:20Z" data-link="https://lithub.com/this-weeks-news-in-venn-diagrams-dec-12/">
-      <h1>This week’s news in Venn diagrams.</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Happy Friday! We’ve been so deep in end of the year lists over here that it’s hard for me to type “Friday” and not to immediately start thinking of things like “2025’s Top Fridays” or “Here are the days before</p>
-
-      <address>
-        <a href="https://lithub.com/this-weeks-news-in-venn-diagrams-dec-12/">https://lithub.com/this-weeks-news-in-venn-diagrams-dec-12/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T19:36:57Z" data-link="https://smist08.wordpress.com/2025/12/12/maintaining-privacy-and-avoiding-the-usa/">
-      <h1>Maintaining Privacy and Avoiding the USA</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Introduction The USA has started requiring social media history and other personal information for travellers entering the USA. Although this doesn’t currently apply to Canadian citizens, border agents are allowed to ask for passwords to your electronic devices and confiscate them if not provided. This means border agents can browse through anything on your laptop, […]</p>
-
-      <address>
-        <a href="https://smist08.wordpress.com/2025/12/12/maintaining-privacy-and-avoiding-the-usa/">https://smist08.wordpress.com/2025/12/12/maintaining-privacy-and-avoiding-the-usa/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T19:05:50Z" data-link="https://www.digitalrhetoriccollaborative.org/2025/12/12/call-for-blog-carnival-24-multimodality-social-justice-and-human-centered-praxis/">
-      <h1>Call for Blog Carnival 24: Multimodality, Social Justice, and Human-Centered Praxis</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>In our recent intergenerational interview with the founding, former, and current editors of Computers and Composition for the journal’s forthcoming 40th Anniversary Special Issue, Drs. Cindy Selfe, Kristine Blair, and Jason Tham emphasized that the current moment calls for renewed attention to two areas the field has yet to fully address: multimodality and social justice. [...]</p>
-<p><a href="https://www.digitalrhetoriccollaborative.org/2025/12/12/call-for-blog-carnival-24-multimodality-social-justice-and-human-centered-praxis/">Source</a></p>
-
-      <address>
-        <a href="https://www.digitalrhetoriccollaborative.org/2025/12/12/call-for-blog-carnival-24-multimodality-social-justice-and-human-centered-praxis/">https://www.digitalrhetoriccollaborative.org/2025/12/12/call-for-blog-carnival-24-multimodality-social-justice-and-human-centered-praxis/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T18:57:36Z" data-link="https://lithub.com/heres-whats-making-us-happy-this-week-7/">
-      <h1>Here’s what’s making us happy  this  week.</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>This was a week of discovery, over at Lit Hub. We explored strange new worlds and re-contextualized the familiar. And as usual, we relished the puns and the bits. James Folta has been enjoying a new Jon Bois video essay.</p>
-
-      <address>
-        <a href="https://lithub.com/heres-whats-making-us-happy-this-week-7/">https://lithub.com/heres-whats-making-us-happy-this-week-7/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T18:30:35Z" data-link="https://webkit.org/blog/17640/webkit-features-for-safari-26-2/">
-      <h1>WebKit Features for Safari 26.2</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Safari 26.2 is a big release.</p>
-
-      <address>
-        <a href="https://webkit.org/blog/17640/webkit-features-for-safari-26-2/">https://webkit.org/blog/17640/webkit-features-for-safari-26-2/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T17:51:54Z" data-link="http://scripting.com/2025/12/12/175154.html?title=theMetsSoulWalksOutTheDoor">
-      <h1>The Mets' soul walks out the door</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>As a lifelong Mets fan since 1962, I say <a href="https://apnews.com/article/mets-alonso-diaz-nimmo-stearns-cohen-212636702fdf04efc0889c36a53a88e1">they blew it</a>. And if you follow my sports writing here, mostly about the Knicks and Mets, I almost never say a team was wrong. I can usually see a pro and a con to everything. WIth the Mets, I let the team run itself, and ponder the philosophical intentions and manifestations, because to me the Mets are the team built on philosophy. It certainly was not built on winning. And yet we love them. There's no winning in life, that's reality. So we try to find meaning on the days and hours we have remaining. And the Mets are great teachers, as are the Knicks.</p>
-<p>Anyway -- why did the Mets have such a shit season?</p>
-<p>Because they disrespected <a href="https://en.wikipedia.org/wiki/Pete_Alonso">Pete Alonso</a> last winter.</p>
-<p>He should have been the glue that held the team together along with Nimmo, Diaz, and all the other much-loved players.</p>
-<p>We still think of <a href="https://en.wikipedia.org/wiki/Francisco_Lindor">Lindor</a> as the new guy. Now all you have left for leadership is Lindor and Soto who obviously doesn't even want to be there. It's was a broken team before the news, and now it's not even a team.</p>
-<p>A team isn't a bunch of stats and a bunch of money, it's the players, the people. You can't solve this problem with a spreadsheet, it has to be done with heart. These days I think of the Mets just trying to be the Yankees which aside from being impossible, is pretty much the exact reason we're Mets fans and not Yankees fans. Ohhh, when will they learn. I don't want a team built to win the World Series. I want a team built to respect the team.</p>
-<p>And btw, the big news was they traded Nimmo, and let Alonso and Diaz sign with other teams.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/12/12/175154.html?title=theMetsSoulWalksOutTheDoor">http://scripting.com/2025/12/12/175154.html?title=theMetsSoulWalksOutTheDoor</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T17:17:00Z" data-link="http://scripting.com/2025/12/12/171700.html?title=breakthroughRealization">
-      <h1>Breakthrough realization</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p><img src="https://imgs.scripting.com/2025/09/21/gorilla.png" alt="">In the world of WordLand and FeedLand I can create my own API for my own client. No more living with all the things the Twitter and Bluesky API designers left out or made fragile, or straight out broke. If there's a missing endpoint, I have a talk with the service devs (ie me), they listen and understand, and in an hour or so there's a new freaking endpoint. This is how we did it in the early days, I had all three components needed to move publishing forward: <a href="https://daytona.scripting.com/search?q=Manila">Manila</a>, <a href="https://daytona.scripting.com/search?q=my.userland.com">my.userland.com</a> and <a href="https://daytona.scripting.com/search?q=%22Scripting%20News%22">Scripting News</a>. Well folks we're back in business again. Enough for a rebooted <a href="https://daytona.scripting.com/search?q=%22writer%27s%20web%22">writer's web</a>. As they say, still diggin! :-)</p>
-
-      <address>
-        <a href="http://scripting.com/2025/12/12/171700.html?title=breakthroughRealization">http://scripting.com/2025/12/12/171700.html?title=breakthroughRealization</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T16:38:56Z" data-link="https://www.profgalloway.com/the-streaming-wars-and-affordability/">
-      <h1>The Streaming Wars and Affordability</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Netflix’s $83 billion deal to buy most of Warner Bros. would unite Stranger Things and KPop Demon Hunters with Game of Thrones and The White Lotus, creating a streaming powerhouse. With Netflix’s Ted Sarandos and Greg Peters at the helm, the combined company would also be led by the smartest team in the entertainment industry. […]</p>
-<p>The post <a href="https://www.profgalloway.com/the-streaming-wars-and-affordability/">The Streaming Wars and Affordability</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
-
-      <address>
-        <a href="https://www.profgalloway.com/the-streaming-wars-and-affordability/">https://www.profgalloway.com/the-streaming-wars-and-affordability/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T16:11:56Z" data-link="http://scripting.com/2025/12/12.html#a161156">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p><img src="https://imgs.scripting.com/2025/09/17/reallySimpleKetchup.png" alt="">The NYT should have started their own Twitter, with exclusive access by people who are quoted in the NYT, so there would have been a connection between the pub, its rep, more inclusive than the masthead, but still fairly exclusive, in the way of the NYT. I'm not being funny or sarcastic, I mean it. They already had a mechanism for deciding who matters. And the software they used could have been employed by all the other pubs, and anyone else. What I'm describing is the alternate reality where the Twitter founders followed the WordPress model. They might not be worth billions, but they certainly would have <a href="http://scripting.com/davenet/2000/10/19/transcendentalMoney.html">far more money</a> than one person can use. And I don't think they could be happier with the way it actually turned out.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/12/12.html#a161156">http://scripting.com/2025/12/12.html#a161156</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T16:08:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3m7shwhhda22v">
-      <h1>@Robert's feed at BlueSky</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>A very bad idea in action.</p>
-<p>[contains quote post or other embedded content]</p>
-
-      <address>
-        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3m7shwhhda22v">https://bsky.app/profile/rsdoiel.bsky.social/post/3m7shwhhda22v</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T15:10:22Z" data-link="https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy">
-      <h1>CM0 - a new Raspberry Pi you can't buy</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>CM0 - a new Raspberry Pi you can't buy</p>
-<p><img src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm0.jpeg" alt="Raspberry Pi CM0"></p>
-<p>This little postage stamp is actually a full Raspberry Pi Zero 2, complete with eMMC storage and WiFi.</p>
-<p>But you can't get one. Well, not unless you buy the <a href="https://edatec.cn/docs/cm0nano/ds/">CM0NANO development board from EDAtec</a>, or you live in China.</p>
-<p>This little guy doesn't have an HDMI port, Ethernet, or even USB. It's a special version of the 'Compute Module' line of boards. Little Raspberry Pi 'System on Modules' (SoMs), they're called.</p>
-<p>Compute Modules are entire Linux computers about the size of a regular desktop CPU that you 'plug in' to another board, to give it life.</p>
-<p>Jeff GeerlingDecember 12, 2025</p>
-
-      <address>
-        <a href="https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy">https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T15:07:37Z" data-link="http://scripting.com/2019/12/12/163611.html?fbclid=IwY2xjawOpDvRleHRuA2FlbQIxMABicmlkETExTVdkU3BicWxjdld0WmZJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsytg3s6CO9qNKR0nn7kUZR4d9_m3ePysCH7ky0XhMa93lqGLK6M6tb3RFTF_aem_Ur_P8wG_izRtF5kN1cNtKQ&brid=QBPZojEEpeJApRmD6BnrJA">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>2019: What about Mastodon? (Before Musk bought Twitter.)</p>
-
-      <address>
-        <a href="http://scripting.com/2019/12/12/163611.html?fbclid=IwY2xjawOpDvRleHRuA2FlbQIxMABicmlkETExTVdkU3BicWxjdld0WmZJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsytg3s6CO9qNKR0nn7kUZR4d9_m3ePysCH7ky0XhMa93lqGLK6M6tb3RFTF_aem_Ur_P8wG_izRtF5kN1cNtKQ&brid=QBPZojEEpeJApRmD6BnrJA">http://scripting.com/2019/12/12/163611.html?fbclid=IwY2xjawOpDvRleHRuA2FlbQIxMABicmlkETExTVdkU3BicWxjdld0WmZJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsytg3s6CO9qNKR0nn7kUZR4d9_m3ePysCH7ky0XhMa93lqGLK6M6tb3RFTF_aem_Ur_P8wG_izRtF5kN1cNtKQ&brid=QBPZojEEpeJApRmD6BnrJA</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T15:07:00Z" data-link="https://bsky.app/profile/barackobama.bsky.social/post/3m7seizuhcc22">
-      <h1>@Barack Obama @Bsky</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>I’m so proud of the talented Leo High School Choir and all they are doing to represent the South Side of Chicago!</p>
-
-      <address>
-        <a href="https://bsky.app/profile/barackobama.bsky.social/post/3m7seizuhcc22">https://bsky.app/profile/barackobama.bsky.social/post/3m7seizuhcc22</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T15:01:48Z" data-link="https://research.noaa.gov/inside-the-storm-meet-the-noaa-team-behind-hurricane-research/">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>It's a good idea for government agencies to communicate with voters about what they do for us.</p>
-
-      <address>
-        <a href="https://research.noaa.gov/inside-the-storm-meet-the-noaa-team-behind-hurricane-research/">https://research.noaa.gov/inside-the-storm-meet-the-noaa-team-behind-hurricane-research/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T15:00:00Z" data-link="https://dbushell.com/2025/12/12/advent-of-code-2025/">
-      <h1>Wrapping up Advent of Code 2025</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>I wrote about Advent of Code in January and I was keen to return for AoC 2025 . This year I upped my game by attempting all puzzles in JavaScript, Zig, and Rust. I had plenty of time due to a work project falling through… Oh well, time to brute force some puzzles! […]</p>
-
-      <address>
-        <a href="https://dbushell.com/2025/12/12/advent-of-code-2025/">https://dbushell.com/2025/12/12/advent-of-code-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T13:45:08Z" data-link="http://scripting.com/2025/12/12.html#a134508">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Without much of a spoiler, this end of this week's Pluribus was both emotional and exciting at the same time. Didn't see it coming. People complain because after the first two or three episodes they thought it was going to be an adventure, like <a href="https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)">Last of Us</a> or <a href="https://en.wikipedia.org/wiki/Lost_(TV_series)">Lost</a>, but it turned out to, at least for now, be more thoughtful and emotional, and sexy.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/12/12.html#a134508">http://scripting.com/2025/12/12.html#a134508</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T13:39:38Z" data-link="http://scripting.com/2025/12/12.html#a133938">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>I wonder if the VCs would fund an entirely fictitious implementation of Twitter with AI of course. All the other people are AI designed actors, and can be exactly the kind of people who make <em>you</em> feel good. On &quot;Your Own Twitter&quot; you'd have the most followers of anyone. Elon Musk would kiss your ass. You could change reality at will, have Trump removed from office and watch the MAGAs wail in pain. You could say absolutely whatever you like and never be cancelled. Don't laugh, I bet this happens.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/12/12.html#a133938">http://scripting.com/2025/12/12.html#a133938</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T13:07:24Z" data-link="https://www.oreilly.com/radar/building-applications-with-ai-agents/">
-      <h1>Building Applications with AI Agents</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Following the publication of his new book, Building Applications with AI Agents, I chatted with author Michael Albada about his experience writing the book and his thoughts on the field of AI agents. Michael’s a machine learning engineer with nine years of experience designing, building, and deploying large-scale machine learning solutions at companies such as […]</p>
-
-      <address>
-        <a href="https://www.oreilly.com/radar/building-applications-with-ai-agents/">https://www.oreilly.com/radar/building-applications-with-ai-agents/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T12:32:29Z" data-link="https://www.gelliottmorris.com/p/affordability-voters-favor-democrats">
-      <h1>Affordability voters favor Democrats over Republicans for 2026 House midterms</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Voters who say the economy or inflation are their #1 issue are D+12 in the generic ballot, and give Trump a net job approval rating of -20</p>
-
-      <address>
-        <a href="https://www.gelliottmorris.com/p/affordability-voters-favor-democrats">https://www.gelliottmorris.com/p/affordability-voters-favor-democrats</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T12:27:37Z" data-link="https://mastodon.social/@Migueldeicaza/115706590517144981">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Me after I use “@unchecked Sendable”</p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115706590517144981">https://mastodon.social/@Migueldeicaza/115706590517144981</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T12:00:47Z" data-link="https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html">
-      <h1>Building Trustworthy AI Agents</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>The promise of personal AI assistants rests on a dangerous assumption: that we can trust systems we haven’t made trustworthy. We can’t. And today’s versions are failing us in predictable ways: pushing us to do things against our own best interests, gaslighting us with doubt about things we are or that we know, and being unable to distinguish between who we are and who we have been. They struggle with incomplete, inaccurate, and partial context: with no standard way to move toward accuracy, no mechanism to correct sources of error, and no accountability when wrong information leads to bad decisions...</p>
-
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html">https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T11:31:16Z" data-link="https://paulkrugman.substack.com/p/donald-trump-security-threat">
-      <h1>Donald Trump, Security Threat</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>The call is coming from inside the White House</p>
-
-      <address>
-        <a href="https://paulkrugman.substack.com/p/donald-trump-security-threat">https://paulkrugman.substack.com/p/donald-trump-security-threat</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T11:30:33Z" data-link="https://lithub.com/lit-hub-daily-december-12-2025/">
-      <h1>Lit Hub Daily: December 12, 2025</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>“I do have faith in the creative imagination, overall, from the cave paintings to rap, as well as its role in mathematics and science, and including, too, the religious and moral imagination.” Peter Mishler interviews Maurice Riordan. | Lit Hub</p>
-
-      <address>
-        <a href="https://lithub.com/lit-hub-daily-december-12-2025/">https://lithub.com/lit-hub-daily-december-12-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T11:06:14Z" data-link="https://www.trouw.nl/cartoons/tjeerd-royaards~bcb45712/?referrer=https%3A%2F%2Fgo.bsky.app%2F">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Dutch political cartoons, very dark.</p>
-
-      <address>
-        <a href="https://www.trouw.nl/cartoons/tjeerd-royaards~bcb45712/?referrer=https%3A%2F%2Fgo.bsky.app%2F">https://www.trouw.nl/cartoons/tjeerd-royaards~bcb45712/?referrer=https%3A%2F%2Fgo.bsky.app%2F</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T11:00:47Z" data-link="https://werd.io/friday-links-december-12-2025/">
-      <h1>Friday links: December 12, 2025</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>In the face of government oppression, it's time to encrypt.</p>
-
-      <address>
-        <a href="https://werd.io/friday-links-december-12-2025/">https://werd.io/friday-links-december-12-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T10:45:01Z" data-link="https://lithub.com/its-best-of-season-on-the-lit-hub-podcast/">
-      <h1>It’s Best-of Season on The Lit Hub Podcast</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. It’s the end of the year! Which means: best-of lists, abounding. Maybe you’ve seen</p>
-
-      <address>
-        <a href="https://lithub.com/its-best-of-season-on-the-lit-hub-podcast/">https://lithub.com/its-best-of-season-on-the-lit-hub-podcast/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T10:30:00Z" data-link="https://antonz.org/go-concurrency-released/">
-      <h1>'Gist of Go: Concurrency' is out!</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Interactive book on concurrent programming with auto-tested exercises.</p>
-
-      <address>
-        <a href="https://antonz.org/go-concurrency-released/">https://antonz.org/go-concurrency-released/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:59:39Z" data-link="https://lithub.com/seven-holiday-romance-novels-to-keep-warm-with-this-winter/">
-      <h1>Seven Holiday Romance Novels to Keep Warm With This Winter</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>What I love about romance novels is that they always seem to carry a sense of magic, whether it’s real in that fictional world or not. This is most true in “happily ever afters”; it makes me cry when the</p>
-
-      <address>
-        <a href="https://lithub.com/seven-holiday-romance-novels-to-keep-warm-with-this-winter/">https://lithub.com/seven-holiday-romance-novels-to-keep-warm-with-this-winter/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:59:15Z" data-link="https://lithub.com/how-sam-shepard-became-the-star-playwright-of-new-yorks-counterculture/">
-      <h1>How Sam Shepard Became the Star Playwright of New York’s Counterculture</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Charles Mingus marveled at his roommate’s self-assurance as a writer. “He could walk into a room with a typewriter and not leave until he finished a play,” he said. “No revisions, just typing.” Shepard would complete fifteen plays in just</p>
-
-      <address>
-        <a href="https://lithub.com/how-sam-shepard-became-the-star-playwright-of-new-yorks-counterculture/">https://lithub.com/how-sam-shepard-became-the-star-playwright-of-new-yorks-counterculture/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:59:12Z" data-link="https://lithub.com/six-writers-on-the-most-surprising-parts-of-their-writing-routines/">
-      <h1>Six Writers on the Most Surprising Parts of Their Writing Routines</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. Shelby Van Pelt I listen to music while I write. I find it hard to focus while in total silence. And my old-school wired earbuds, plugged into my laptop, function as</p>
-
-      <address>
-        <a href="https://lithub.com/six-writers-on-the-most-surprising-parts-of-their-writing-routines/">https://lithub.com/six-writers-on-the-most-surprising-parts-of-their-writing-routines/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:58:45Z" data-link="https://lithub.com/maurice-riordan-on-writing-rituals-the-creative-imagination-and-his-journey-as-a-poet/">
-      <h1>Maurice Riordan on Writing Rituals, the Creative Imagination, and His Journey as a Poet</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>This piece marks the 50th interview in contributing editor Peter Mishler’s long-running series of conversations with contemporary poets. To celebrate this occasion, Literary Hub has partnered with Faber to present a series of interviews from their extraordinary list of poets.</p>
-
-      <address>
-        <a href="https://lithub.com/maurice-riordan-on-writing-rituals-the-creative-imagination-and-his-journey-as-a-poet/">https://lithub.com/maurice-riordan-on-writing-rituals-the-creative-imagination-and-his-journey-as-a-poet/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:58:17Z" data-link="https://lithub.com/can-we-really-claim-that-civilization-is-on-the-steady-path-of-progress/">
-      <h1>Can We Really Claim That Civilization is on the Steady Path of Progress?</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>One of the most common contemporary arguments for the idea of human progress is in the arena of social justice: the belief that there have been steady improvements in fairness, equality, and opportunity for more people. Social justice narratives begin</p>
-
-      <address>
-        <a href="https://lithub.com/can-we-really-claim-that-civilization-is-on-the-steady-path-of-progress/">https://lithub.com/can-we-really-claim-that-civilization-is-on-the-steady-path-of-progress/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:27:54Z" data-link="https://herve.bzh/traveling-to-the-us-with-an-esta-in-2026/">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Traveling to the US with an ESTA in 2026.</p>
-
-      <address>
-        <a href="https://herve.bzh/traveling-to-the-us-with-an-esta-in-2026/">https://herve.bzh/traveling-to-the-us-with-an-esta-in-2026/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:23:34Z" data-link="https://lithub.com/galapagos/">
-      <h1>Galapagos</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Donatien, a gesture at five-thirty in the morning in late-summer Paris, asks me with which animal I most identify, Definitely whales, responds the most cetacean of my selves, he gets up and disappears down the hallway, he returns with something</p>
-
-      <address>
-        <a href="https://lithub.com/galapagos/">https://lithub.com/galapagos/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T09:02:40Z" data-link="https://robertreich.substack.com/p/what-happens-when-a-president-intrudes">
-      <h1>What Happens When a Bonkers President Takes Over the Private Sector</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>We need independent regulatory agencies to contain him</p>
-
-      <address>
-        <a href="https://robertreich.substack.com/p/what-happens-when-a-president-intrudes">https://robertreich.substack.com/p/what-happens-when-a-president-intrudes</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T06:39:24Z" data-link="https://heathercoxrichardson.substack.com/p/december-11-2025">
-      <h1>December 11, 2025</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>On Tuesday, President Donald J.</p>
-
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/december-11-2025">https://heathercoxrichardson.substack.com/p/december-11-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T05:43:00Z" data-link="https://andysylvester.com/2025/12/11/introducing-a-hand-rolled-podcast/">
-      <h1>Introducing a “hand-rolled” podcast – “The Songs of Mavis and Marvin Smiley and the Manhattan Valley Boys”</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>At the end of 2024, I wrote a post about creating a podcast feed manually (“by hand” or “hand-rolled”) as opposed to using the feed created by a blogging tool (such as WordPress). My example was a short feed of two audio essays by Ken Smith, a blogger friend of mine. Shortly after that, I […]</p>
-
-      <address>
-        <a href="https://andysylvester.com/2025/12/11/introducing-a-hand-rolled-podcast/">https://andysylvester.com/2025/12/11/introducing-a-hand-rolled-podcast/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T03:51:37Z" data-link="https://mastodon.social/@Migueldeicaza/115704561486916817">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>When you are a command line tool, every day is Xmas!</p>
-<p><a href="https://mastodon.social/@swiftlang/115703327021049861">https://mastodon.social/@swiftlang/115703327021049861</a></p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115704561486916817">https://mastodon.social/@Migueldeicaza/115704561486916817</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T02:33:58Z" data-link="https://newrepublic.com/article/204201/trump-bulldoze-new-deal-murals">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Can the “Sistine Chapel of the New Deal” Be Saved From Trump?</p>
-
-      <address>
-        <a href="https://newrepublic.com/article/204201/trump-bulldoze-new-deal-murals">https://newrepublic.com/article/204201/trump-bulldoze-new-deal-murals</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T02:16:56Z" data-link="https://doc.searls.com/2025/12/11/funnies/">
-      <h1>Funnies</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>The Onion's Best Anti-Spam Legislation Opposed By Powerful Penis-Enlargement Lobby Report: 90% of Waking Hours Spent Staring at Glowing Rectangles Facebook CIA Project: The Onion News Network ONN Sony Releases Stupid Piece Of Shit That Doesn't Fucking Work My own Local Pothole Has No Bottom That's it for me, unless you count the TV Guide […]</p>
-
-      <address>
-        <a href="https://doc.searls.com/2025/12/11/funnies/">https://doc.searls.com/2025/12/11/funnies/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T01:50:42Z" data-link="https://garymarcus.substack.com/p/a-sad-day-for-america">
-      <h1>A sad day for America</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Trump goes all in on Silicon Valley, leaving US citizens, and even his own party behind.</p>
-
-      <address>
-        <a href="https://garymarcus.substack.com/p/a-sad-day-for-america">https://garymarcus.substack.com/p/a-sad-day-for-america</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T01:49:52Z" data-link="https://werd.io/trump-signs-executive-order-to-combat-state-ai-regulation/">
-      <h1>Trump Signs Executive Order To Combat State AI Regulation</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>&quot;President Donald Trump signed an executive order on Thursday intended to limit state regulation of artificial intelligence.&quot; At the same time, states are watering theirs down.</p>
-
-      <address>
-        <a href="https://werd.io/trump-signs-executive-order-to-combat-state-ai-regulation/">https://werd.io/trump-signs-executive-order-to-combat-state-ai-regulation/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T01:45:00Z" data-link="https://themarkup.org/artificial-intelligence/2025/12/11/trump-orders-crackdown-on-state-ai-regulation-heres-why-california-is-hardest-hit">
-      <h1>Trump orders crackdown on state AI regulation. Here's why California is hardest hit</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Since 2016, California enacted more AI regulations than any other state. The president's new order against such laws worries state officials.</p>
-
-      <address>
-        <a href="https://themarkup.org/artificial-intelligence/2025/12/11/trump-orders-crackdown-on-state-ai-regulation-heres-why-california-is-hardest-hit">https://themarkup.org/artificial-intelligence/2025/12/11/trump-orders-crackdown-on-state-ai-regulation-heres-why-california-is-hardest-hit</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T01:05:51Z" data-link="https://werd.io/2025-on-tumblr-trends-that-defined-the-year/">
-      <h1>2025 on Tumblr: Trends That Defined the Year</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>&quot;Wow, we made it. 2025. One of the years of all time.&quot; Tumblr didn't die - figuratively or literally - and, honestly, it's just nice to see it.</p>
-
-      <address>
-        <a href="https://werd.io/2025-on-tumblr-trends-that-defined-the-year/">https://werd.io/2025-on-tumblr-trends-that-defined-the-year/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T00:43:36Z" data-link="https://memex.naughtons.org/friday-12-december-2025/41459/">
-      <h1>Friday 12 December, 2025</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Love locks A gate in Venice, April 2017. Quote of the Day ”The state of AI today feels a lot like the web in 1997 or mobile in 2007: we know this is big but we don’t know how any … <a href="https://memex.naughtons.org/friday-12-december-2025/41459/">Continue reading →</a></p>
-
-      <address>
-        <a href="https://memex.naughtons.org/friday-12-december-2025/41459/">https://memex.naughtons.org/friday-12-december-2025/41459/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T00:32:47Z" data-link="https://steady.substack.com/p/the-hoax-is-him">
-      <h1>The Hoax Is Him</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>Even banners at Trump rallies stretch the truth</p>
-
-      <address>
-        <a href="https://steady.substack.com/p/the-hoax-is-him">https://steady.substack.com/p/the-hoax-is-him</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T00:01:36Z" data-link="https://www.borowitzreport.com/p/hegseth-seizes-scottish-tanker-carrying">
-      <h1>Hegseth Seizes Scottish Tanker Carrying Whiskey</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>“Despite my repeated demands, the tanker refused to deliver its cargo to me,” Hegseth said.</p>
-
-      <address>
-        <a href="https://www.borowitzreport.com/p/hegseth-seizes-scottish-tanker-carrying">https://www.borowitzreport.com/p/hegseth-seizes-scottish-tanker-carrying</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T00:00:00Z" data-link="https://buttondown.com/blog/how-to-introduce-complexity">
-      <h1>Minimum viable complexity</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>The art of adding complexity without making things complicated</p>
-
-      <address>
-        <a href="https://buttondown.com/blog/how-to-introduce-complexity">https://buttondown.com/blog/how-to-introduce-complexity</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-12T00:00:00Z" data-link="https://buttondown.com/blog/2025-12-12">
-      <h1>Reply to conversations</h1>
-
-(date: 2025-12-12)
-      <p>
-      <p>You can now reply directly to subscriber conversations from your inbox.</p>
-
-      <address>
-        <a href="https://buttondown.com/blog/2025-12-12">https://buttondown.com/blog/2025-12-12</a>
       </address>
     </article>
   </section>

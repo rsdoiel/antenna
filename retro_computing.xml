@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>03 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Homeworld</title>
+      <link>https://www.filfre.net/2026/01/homeworld/</link>
+      <description>
+        <![CDATA[This article tells part of the story of real-time strategy. The first-person shooter and the real-time-strategy game, those two genres that had come to absolutely dominate mainstream computer gaming by the end of the 1990s, were surprisingly different in their core technologies. The FPS was all about 3D graphics, as aided and abetted by the [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells part of the story of real-time strategy. The first-person shooter and the real-time-strategy game, those two genres that had come to absolutely dominate mainstream computer gaming by the end of the 1990s, were surprisingly different in their core technologies. The FPS was all about 3D graphics, as aided and abetted by the \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6590</guid>
+    </item>    <item>
       <title>FlagQuiz 1.02 released</title>
       <link>https://www.riscository.com/2026/flagquiz-1-02/</link>
       <description>
@@ -1449,38 +1457,6 @@ To build your own version of the `ASMTRM` terminal utility, you&#39;ll need `mak
       </description>
       <source:markdown>Who&#39;s got my back?, The kine, Bread!, Welcome to America!, An HCR Micron Plus EPROM programmer.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20251213</guid>
-    </item>    <item>
-      <title>Rob Napier, Acorn Biographer – ROUGOL meeting, 15th December</title>
-      <link>https://www.riscository.com/2025/acorn-biographer-rougol-15th-december/</link>
-      <description>
-        <![CDATA[This Monday will see an incredibly rare event take place &#8211; so rare, in fact, that there are more dentists for hens than occurences like this: The RISC OS User Group of London (ROUGOL) will hold a December meeting, with Rob Napier taking the virtual podium to talk about his current work-in-progress, an Acorn biography. Beaming himself from Nicholson, a small hamlet 300km from Melbourne, Australia, the meeting will be held online only, via Zoom &#8211; details below. Serving in the Air Force until four decades ago, Rob resigned his&#8230;]]>
-      </description>
-      <source:markdown>This Monday will see an incredibly rare event take place – so rare, in fact, that there are more dentists for hens than occurences like this: The RISC OS User Group of London (ROUGOL) will hold a December meeting, with Rob Napier taking the virtual podium to talk about his current work-in-progress, an Acorn biography. Beaming himself from Nicholson, a small hamlet 300km from Melbourne, Australia, the meeting will be held online only, via Zoom – details below. Serving in the Air Force until four decades ago, Rob resigned his…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10830</guid>
-    </item>    <item>
-      <title>RISCOSbits hopes you’ll go crackers for a Christmas Chimera</title>
-      <link>https://www.riscository.com/2025/riscosbits-christmas-chimera/</link>
-      <description>
-        <![CDATA[A pet mythical beast that&#8217;s for life, not just for Christmas With Christmas fast approaching, there&#8217;s a festive funbox available from RISCOSbits for a limited period. The RISCOSbits Chimera Christmas Cracker Edition (easier written than said &#8211; especially after those Christmas drinks) will be available for a limited period from today. The seasonal special edition of the Chimera machine will be delivered fully built and configured &#8211; so it&#8217;s ready to plug in and use as soon as it&#8217;s unwrapped. Based around a Raspberry Compute Module 4 with 4GB RAM&#8230;]]>
-      </description>
-      <source:markdown>A pet mythical beast that’s for life, not just for Christmas With Christmas fast approaching, there’s a festive funbox available from RISCOSbits for a limited period. The RISCOSbits Chimera Christmas Cracker Edition (easier written than said – especially after those Christmas drinks) will be available for a limited period from today. The seasonal special edition of the Chimera machine will be delivered fully built and configured – so it’s ready to plug in and use as soon as it’s unwrapped. Based around a Raspberry Compute Module 4 with 4GB RAM…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10825</guid>
-    </item>    <item>
-      <title>Rougol December 2025 meeting on monday - Rob Napier</title>
-      <link>http://www.iconbar.com/comments/rss/news2263.html</link>
-      <description>
-        <![CDATA[The December 2025 Rougol meeting is on Monday and is a special bonus extra (usually there is no meeting in December) with Rob Napier.]]>
-      </description>
-      <source:markdown>The December 2025 Rougol meeting is on Monday and is a special bonus extra (usually there is no meeting in December) with Rob Napier.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2263.html</guid>
-    </item>    <item>
-      <title>RISCOSbits Launches Chimera Christmas Cracker Edition</title>
-      <link>http://www.iconbar.com/comments/rss/news2282.html</link>
-      <description>
-        <![CDATA[RISCOSbits has announced a limited-run festive variant of its Chimera modular RISC OS system, offering upgraded specifications at a significantly reduced price point. It makes an ideal Christmas present for someone or even yourself (you have been very good this year!).]]>
-      </description>
-      <source:markdown>RISCOSbits has announced a limited-run festive variant of its Chimera modular RISC OS system, offering upgraded specifications at a significantly reduced price point. It makes an ideal Christmas present for someone or even yourself (you have been very good this year!).</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2282.html</guid>
     </item>
   </channel>
 </rss>
