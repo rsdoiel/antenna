@@ -349,3 +349,8 @@ description: Blogs, columns and snapshots from around the web.
 - [Cgegroot (Lisp) blog](https://cdegroot.com/feed.xml)
 - [Just Dario](https://justdario.com/feed/)
 - [Waterfox blog](https://www.waterfox.com/rss.xml)
+- [Flaming Hydra](https://flaminghydra.com/rss-feeds/)
+- [Basile Blog](https://basilesimon.fr/blog/index.xml)
+- [Dan Sinker](https://dansinker.com/feed.xml)
+
+
