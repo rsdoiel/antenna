@@ -4,10 +4,63 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>03 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>03 Jan 26 19:52 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>N Korea fires ballistic missiles in first test of 2026</title>
+      <link>https://www.rte.ie/news/world/2026/0104/1551372-north-korea-missiles-test/</link>
+      <description>
+        <![CDATA[North Korea fired multiple ballistic missiles off its east coast, South Korea's military said, its first launch of the year just hours before South Korea's leader heads to China for a summit.]]>
+      </description>
+      <source:markdown>North Korea fired multiple ballistic missiles off its east coast, South Korea&#39;s military said, its first launch of the year just hours before South Korea&#39;s leader heads to China for a summit.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0104/1551372-north-korea-missiles-test/</guid>
+    </item>    <item>
+      <title>Venezuelan VP to temporarily assume presidency</title>
+      <link>https://www.rte.ie/news/world/2026/0104/1551369-venezuela-us/</link>
+      <description>
+        <![CDATA[Venezuela's Supreme Court ordered Vice President Delcy Rodriguez to become the country's interim leader, after the United States seized President Nicolas Maduro and whisked him out of the country.]]>
+      </description>
+      <source:markdown>Venezuela&#39;s Supreme Court ordered Vice President Delcy Rodriguez to become the country&#39;s interim leader, after the United States seized President Nicolas Maduro and whisked him out of the country.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0104/1551369-venezuela-us/</guid>
+    </item>    <item>
+      <title>Pope dedicates Sistine Chapel Christmas Concert to children without peace</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html</link>
+      <description>
+        <![CDATA[<p>The Sistine Chapel Choir performs a Christmas Concert in the presence of Pope Leo, who recalls the angels of Bethlehem and entrusts the world’s children to the prayer of song.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>The Sistine Chapel Choir performs a Christmas Concert in the presence of Pope Leo, who recalls the angels of Bethlehem and entrusts the world’s children to the prayer of song.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html</guid>
+    </item>    <item>
+      <title>Broadcaster and author John Quinn dies aged 84</title>
+      <link>https://www.rte.ie/news/2026/0103/1551347-john-quinn-death/</link>
+      <description>
+        <![CDATA[The broadcaster and programme maker John Quinn has died. He was 84.]]>
+      </description>
+      <source:markdown>The broadcaster and programme maker John Quinn has died. He was 84.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0103/1551347-john-quinn-death/</guid>
+    </item>    <item>
+      <title>All you need to know about this weekend&#39;s wolf supermoon</title>
+      <link>https://www.rte.ie/brainstorm/2026/0103/1397562-supermoon-explainer/</link>
+      <description>
+        <![CDATA[The wolf supermoon is the first of 13 full moons we will get to enjoy in Irish skies this year]]>
+      </description>
+      <source:markdown>The wolf supermoon is the first of 13 full moons we will get to enjoy in Irish skies this year</source:markdown>
+      <guid>cid://https://www.rte.ie/brainstorm/2026/0103/1397562-supermoon-explainer/</guid>
+    </item>    <item>
+      <title>Just possibly it&#39;s the oil?</title>
+      <link>https://billmckibben.substack.com/p/just-possibly-its-the-oil</link>
+      <description>
+        <![CDATA[A solar panel is the new peace sign]]>
+      </description>
+      <source:markdown>A solar panel is the new peace sign</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!zawO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F906df4ea-e190-486e-abed-500a15f6049b_790x1000.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://billmckibben.substack.com/p/just-possibly-its-the-oil</guid>
+    </item>    <item>
       <title>Maduro&#39;s rule in Venezuela is finally ended by Trump</title>
       <link>https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump/</link>
       <description>
@@ -16,12 +69,20 @@
       <source:markdown>Nicolas Maduro ruled Venezuela with a heavy hand for more than 12 years, presiding over deep economic and social crises and resisting pressure from domestic opponents and foreign governments for political change.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump/</guid>
     </item>    <item>
-      <title>Ballyboden St Enda&#39;s v Daingean Uí Chúis updates</title>
+      <title>Nicolas Maduro&#39;s rule in Venezuela ended by Trump</title>
+      <link>https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump-venezuela/</link>
+      <description>
+        <![CDATA[Nicolas Maduro ruled Venezuela for more than 12 years, presiding over deep economic and social crises and resisting pressure from domestic opponents and foreign governments for political change.]]>
+      </description>
+      <source:markdown>Nicolas Maduro ruled Venezuela for more than 12 years, presiding over deep economic and social crises and resisting pressure from domestic opponents and foreign governments for political change.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump-venezuela/</guid>
+    </item>    <item>
+      <title>Ballyboden St Enda&#39;s 1-24 Daingean Uí Chúis 1-26 recap</title>
       <link>https://www.rte.ie/sport/football/2026/0103/1551296-ballyboden-st-endas-v-daingean-ui-chuis-updates/</link>
       <description>
-        <![CDATA[Ballyboden St Enda's and Daingean Uí Chúis collide at Páirc Uí Chaoimh with a place in the All-Ireland club football final up for grabs.]]>
+        <![CDATA[Daingean Uí Chúis have defeated Ballyboden St Enda's at Páirc Uí Chaoimh in a pulsating All-Ireland club football semi-final. Read back on it here.]]>
       </description>
-      <source:markdown>Ballyboden St Enda&#39;s and Daingean Uí Chúis collide at Páirc Uí Chaoimh with a place in the All-Ireland club football final up for grabs.</source:markdown>
+      <source:markdown>Daingean Uí Chúis have defeated Ballyboden St Enda&#39;s at Páirc Uí Chaoimh in a pulsating All-Ireland club football semi-final. Read back on it here.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/football/2026/0103/1551296-ballyboden-st-endas-v-daingean-ui-chuis-updates/</guid>
     </item>    <item>
       <title>Vatican Governorate releases new app dedicated to St. Carlo Acutis</title>
@@ -48,6 +109,24 @@
 [Read all](https://www.vaticannews.va/en/vatican-city/news/2026-01/gaza-caritas-italy-jerusalem-support-humanitarian-agencies.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2026-01/gaza-caritas-italy-jerusalem-support-humanitarian-agencies.html</guid>
     </item>    <item>
+      <title>‘Do not give up on children’: Displaced by violence, a Haitian girl finds hope at school</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166695</link>
+      <description>
+        <![CDATA[A teenage Haitian girl who was forced to flee her home in Haiti’s capital, Port-au-Prince, due to gang violence has urged adults not to “give up on children.”&nbsp;&nbsp;]]>
+      </description>
+      <source:markdown>A teenage Haitian girl who was forced to flee her home in Haiti’s capital, Port-au-Prince, due to gang violence has urged adults not to “give up on children.”</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-01-2026_UNICEF_Haiti.jpg/image560x340cropped.jpg" length="30543" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166695</guid>
+    </item>    <item>
+      <title>US actions in Venezuela ‘constitute a dangerous precedent’: Guterres</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166698</link>
+      <description>
+        <![CDATA[The UN Secretary-General Antonio Guterres has said he is “deeply alarmed” over the standoff between the United States and Venezuela in recent months, which culminated on Saturday morning in the capture of President Nicolás Maduro by US special forces.]]>
+      </description>
+      <source:markdown>The UN Secretary-General Antonio Guterres has said he is “deeply alarmed” over the standoff between the United States and Venezuela in recent months, which culminated on Saturday morning in the capture of President Nicolás Maduro by US special forces.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-12-2025_Wiki_Caracas.jpg/image560x340cropped.jpg" length="52795" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166698</guid>
+    </item>    <item>
       <title>Managers under criminal investigation over fatal bar fire</title>
       <link>https://www.rte.ie/news/2026/0103/1551323-switzerland-fire-crans-montana/</link>
       <description>
@@ -64,12 +143,20 @@
       <source:markdown>Donald Trump returned to office vowing to be the peace president. Nearly a year later, he is embracing war on multiple fronts.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2026/0103/1551321-donald-trump-wars/</guid>
     </item>    <item>
-      <title>Maduro faces &#39;wrath&#39; of US on drug, terrorism charges</title>
+      <title>Bombs away for Trump, self-proclaimed peace president</title>
+      <link>https://www.rte.ie/news/us/2026/0103/1551321-donald-trump-wars/</link>
+      <description>
+        <![CDATA[Donald Trump returned to office vowing to be the peace president. Nearly a year later, he is embracing war on multiple fronts.]]>
+      </description>
+      <source:markdown>Donald Trump returned to office vowing to be the peace president. Nearly a year later, he is embracing war on multiple fronts.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/us/2026/0103/1551321-donald-trump-wars/</guid>
+    </item>    <item>
+      <title>As it happened: Maduro flown to NY to face charges</title>
       <link>https://www.rte.ie/news/world/2026/0103/1551313-venezuela-live-blog/</link>
       <description>
-        <![CDATA[Live coverage of developments after the US struck Venezuela overnight and captured its long-serving President Nicolas Maduro.]]>
+        <![CDATA[Look back on developments after the US struck Venezuela and captured its long-serving President Nicolas Maduro.]]>
       </description>
-      <source:markdown>Live coverage of developments after the US struck Venezuela overnight and captured its long-serving President Nicolas Maduro.</source:markdown>
+      <source:markdown>Look back on developments after the US struck Venezuela and captured its long-serving President Nicolas Maduro.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0103/1551313-venezuela-live-blog/</guid>
     </item>    <item>
       <title>Venezuela: Strong explosions in Caracas, President Maduro captured</title>
@@ -139,6 +226,14 @@
       </description>
       <source:markdown>The US attacked Venezuela and deposed its long-serving autocratic President Nicolas Maduro, President Donald Trump said, in Washington&#39;s most direct intervention in Latin America since the 1989 invasion of Panama.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0103/1551288-venezuela/</guid>
+    </item>    <item>
+      <title>US captures Maduro, Trump says US will run Venezuela</title>
+      <link>https://www.rte.ie/news/world/2026/0103/1551288-venezuela-trump/</link>
+      <description>
+        <![CDATA[The United States attacked Venezuela and captured its long-serving President Nicolas Maduro in an overnight operation today, ⁠US President Donald Trump said, promising to put the country under American control for now, including by deploying US forces if necessary.]]>
+      </description>
+      <source:markdown>The United States attacked Venezuela and captured its long-serving President Nicolas Maduro in an overnight operation today, ⁠US President Donald Trump said, promising to put the country under American control for now, including by deploying US forces if necessary.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0103/1551288-venezuela-trump/</guid>
     </item>    <item>
       <title>Renewed appeal for woman missing for 32 years</title>
       <link>https://www.rte.ie/news/2026/0103/1551287-imelda-keenan-missing/</link>
@@ -3578,6 +3673,14 @@ Below the long-isolated and neglected Neapolitan neighbourhood of Rione Sanità,
       <source:markdown>We&#39;re all about the movies - and documentaries about the movies - this Christmas Day.</source:markdown>
       <guid>cid://https://www.rte.ie/entertainment/2025/1225/1550336-whats-on-tv-and-streaming-picks-for-christmas-day/</guid>
     </item>    <item>
+      <title>News Wrap: DOJ says over a million more Epstein documents discovered</title>
+      <description>
+        <![CDATA[In our news wrap Wednesday, the Department of Justice says it's discovered over a million more documents possibly related to Jeffrey Epstein, an explosion in Moscow killed three people, investigators are searching for what caused a massive explosion at a Philadelphia-area nursing home and a powerful storm is slamming Southern California on the eve of what could be the wettest Christmas in years. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <source:markdown>In our news wrap Wednesday, the Department of Justice says it&#39;s discovered over a million more documents possibly related to Jeffrey Epstein, an explosion in Moscow killed three people, investigators are searching for what caused a massive explosion at a Philadelphia-area nursing home and a powerful storm is slamming Southern California on the eve of what could be the wettest Christmas in years. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/12/newswrap-22.mp3" length="4393925" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/news-wrap-doj-says-over-a-million-more-epstein-documents-discovered</guid>
+    </item>    <item>
       <title>A climate reality check from Bill McKibben</title>
       <link>https://www.talkingclimate.ca/p/a-climate-reality-check-from-bill</link>
       <description>
@@ -4445,14 +4548,6 @@ Russia fired more than 650 drones and three dozen missiles at Ukraine in a large
       </description>
       <source:markdown>The UK could be set to have had its warmest year on record, the Met Office has said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1223/1550268-uk-weather/</guid>
-    </item>    <item>
-      <title>News Wrap: Trump names Louisiana governor as his special envoy to Greenland</title>
-      <description>
-        <![CDATA[In our news wrap Monday, Denmark is pushing back against President Trump's move naming Louisiana Gov. Jeff Landry as his special envoy to Greenland, Trump announced plans for what he called a new 'Trump class' of warships, a car bomb killed a senior Russian general in Moscow and Jim Beam is pausing production at its main distillery in Kentucky for all of next year. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <source:markdown>In our news wrap Monday, Denmark is pushing back against President Trump&#39;s move naming Louisiana Gov. Jeff Landry as his special envoy to Greenland, Trump announced plans for what he called a new &#39;Trump class&#39; of warships, a car bomb killed a senior Russian general in Moscow and Jim Beam is pausing production at its main distillery in Kentucky for all of next year. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/12/newswrap-20.mp3" length="5240627" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/news-wrap-trump-names-louisiana-governor-as-his-special-envoy-to-greenland</guid>
     </item>    <item>
       <title>60 Minutes prison segment postponed by CBS briefly viewed in Canada on Global TV</title>
       <link>https://www.cbc.ca/news/canada/cbs-60-minutes-report-el-salvador-cecot-global-9.7025912?cmp=rss</link>
@@ -9118,359 +9213,6 @@ In the annals of Royal Family history, 2025 will be remembered as the year the m
       </description>
       <source:markdown>US authorities have detained a person of interest in a shooting at Brown University that left two people dead and nine others wounded, the latest in a long line of school attacks across the country.</source:markdown>
       <guid>cid://https://www.rte.ie/news/us/2025/1214/1548920-brown-university-shooting/</guid>
-    </item>    <item>
-      <title>Two dead after shooting at Brown University in US - mayor</title>
-      <link>https://www.rte.ie/news/us/2025/1213/1548920-brown-university-shooting/</link>
-      <description>
-        <![CDATA[Two people have been killed and eight others were critically injured following a shooting at Brown University in the northeastern United States, Providence, Rhode Island Mayor Brett Smiley told a news conference.]]>
-      </description>
-      <source:markdown>Two people have been killed and eight others were critically injured following a shooting at Brown University in the northeastern United States, Providence, Rhode Island Mayor Brett Smiley told a news conference.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/us/2025/1213/1548920-brown-university-shooting/</guid>
-    </item>    <item>
-      <title>Two men die after four-vehicle road crash in Co Tipperary</title>
-      <link>https://www.rte.ie/news/2025/1213/1548918-tipperary-crash/</link>
-      <description>
-        <![CDATA[Two men have died following a four-vehicle crash in Co Tipperary. The incident happened at around 6pm on a local road at Killeen, Ballinunty.]]>
-      </description>
-      <source:markdown>Two men have died following a four-vehicle crash in Co Tipperary. The incident happened at around 6pm on a local road at Killeen, Ballinunty.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1213/1548918-tipperary-crash/</guid>
-    </item>    <item>
-      <title>National Gender Service can&#39;t close waiting list - HSE</title>
-      <link>https://www.rte.ie/news/2025/1213/1548912-national-gender-service/</link>
-      <description>
-        <![CDATA[The HSE has advised the National Gender Service that it does not have the authority to close its waiting list, despite the service announcing plans to do so earlier this week.]]>
-      </description>
-      <source:markdown>The HSE has advised the National Gender Service that it does not have the authority to close its waiting list, despite the service announcing plans to do so earlier this week.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1213/1548912-national-gender-service/</guid>
-    </item>    <item>
-      <title>Pedestrian dies after being hit by lorry in Co Monaghan</title>
-      <link>https://www.rte.ie/news/ireland/2025/1213/1548909-fatal-rta-monaghan/</link>
-      <description>
-        <![CDATA[A man in his 60s has died following a collision involving a lorry and a pedestrian in Monaghan.]]>
-      </description>
-      <source:markdown>A man in his 60s has died following a collision involving a lorry and a pedestrian in Monaghan.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1213/1548909-fatal-rta-monaghan/</guid>
-    </item>    <item>
-      <title>Mescal and Buckley attend Dublin premiere of Hamnet</title>
-      <link>https://www.rte.ie/entertainment/2025/1213/1548900-mescal-and-buckley-attend-dublin-premiere-of-hamnet/</link>
-      <description>
-        <![CDATA[With Oscar buzz building around Paul Mescal and Jessie Buckley for their performances in Hamnet, the Irish acting pair took to the red carpet in Dublin tonight.]]>
-      </description>
-      <source:markdown>With Oscar buzz building around Paul Mescal and Jessie Buckley for their performances in Hamnet, the Irish acting pair took to the red carpet in Dublin tonight.</source:markdown>
-      <guid>cid://https://www.rte.ie/entertainment/2025/1213/1548900-mescal-and-buckley-attend-dublin-premiere-of-hamnet/</guid>
-    </item>    <item>
-      <title>Munster secure late bonus-point win against Gloucester</title>
-      <link>https://www.rte.ie/sport/rugby/2025/1213/1548850-munster-secure-bp-win-after-late-rally-v-gloucester/</link>
-      <description>
-        <![CDATA[It took a final-quarter surge, but Munster are up and running in their Champions Cup pool thanks to a bonus-point 31-3 win against a plucky Gloucester side at SuperValu Páirc Uí Chaoimh.]]>
-      </description>
-      <source:markdown>It took a final-quarter surge, but Munster are up and running in their Champions Cup pool thanks to a bonus-point 31-3 win against a plucky Gloucester side at SuperValu Páirc Uí Chaoimh.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/rugby/2025/1213/1548850-munster-secure-bp-win-after-late-rally-v-gloucester/</guid>
-    </item>    <item>
-      <title>Trump vows revenge after US troops killed in Syria ambush</title>
-      <link>https://www.rte.ie/news/world/2025/1213/1548901-us-troops-syria/</link>
-      <description>
-        <![CDATA[Two US troops and a civilian interpreter have been killed in central Syria after an alleged member of the Islamic State group opened fire on a joint US-Syrian patrol, officials said.]]>
-      </description>
-      <source:markdown>Two US troops and a civilian interpreter have been killed in central Syria after an alleged member of the Islamic State group opened fire on a joint US-Syrian patrol, officials said.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1213/1548901-us-troops-syria/</guid>
-    </item>    <item>
-      <title>2 killed, 8 injured in Brown University shooting, Rhode Island officials say</title>
-      <link>https://www.cbc.ca/news/world/brown-university-active-shooter-rhode-island-9.7015097?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/050472e9-abaa-4b31-8db1-90cb3efae9dd,1765672954864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C218%2C5350%2C3009%29%3BResize%3D%28620%29' alt='Armed police officers patrol the street.' width='620' height='349' title='Law enforcement officials carry rifles while walking on a street in a neighborhood near Brown University in Providence, R.I., on Saturday, Dec. 13, 2025 during the investigation of a shooting. (AP Photo/Steven Senne)'/><p>A shooting in the engineering building at Brown University on Saturday has left at least two people dead and eight critically injured, officials in Providence, R.I., said, as authorities continued to search for a suspect.</p>]]>
-      </description>
-      <source:markdown>![Armed police officers patrol the street.](https://i.cbc.ca/ais/050472e9-abaa-4b31-8db1-90cb3efae9dd,1765672954864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C218%2C5350%2C3009%29%3BResize%3D%28620%29)
-
-A shooting in the engineering building at Brown University on Saturday has left at least two people dead and eight critically injured, officials in Providence, R.I., said, as authorities continued to search for a suspect.</source:markdown>
-      <guid>cid://9.7015097</guid>
-    </item>    <item>
-      <title>Israel claims Hamas commander killed in Gaza strike</title>
-      <link>https://www.rte.ie/news/2025/1213/1548897-gaza-middle-east/</link>
-      <description>
-        <![CDATA[The Israeli military has said it killed senior Hamas commander Raed Saed, one of the architects of the 7 October 2023 attacks on Israel, in a strike on a car in Gaza City.]]>
-      </description>
-      <source:markdown>The Israeli military has said it killed senior Hamas commander Raed Saed, one of the architects of the 7 October 2023 attacks on Israel, in a strike on a car in Gaza City.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1213/1548897-gaza-middle-east/</guid>
-    </item>    <item>
-      <title>Cambodia: In the midst of conflict, the youth call for peace</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-12/cambodia-in-the-midst-of-conflict-the-youth-call-for-peace.html</link>
-      <description>
-        <![CDATA[<p>After conflict reignited between Cambodia and Thailand earlier this month, the Apostolic Prefect of Battambang, Cambodia highlights how the local community is using the Advent season to place their uncertain situation in God’s hands whilst the young people join in Pope Leo's call for peace.</p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-12/cambodia-in-the-midst-of-conflict-the-youth-call-for-peace.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>After conflict reignited between Cambodia and Thailand earlier this month, the Apostolic Prefect of Battambang, Cambodia highlights how the local community is using the Advent season to place their uncertain situation in God’s hands whilst the young people join in Pope Leo&#39;s call for peace.
-
-[Read all](https://www.vaticannews.va/en/church/news/2025-12/cambodia-in-the-midst-of-conflict-the-youth-call-for-peace.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-12/cambodia-in-the-midst-of-conflict-the-youth-call-for-peace.html</guid>
-    </item>    <item>
-      <title>No probe into Andrew bodyguard allegation, say Met Police</title>
-      <link>https://www.rte.ie/news/world/2025/1213/1548889-andrew-met-police/</link>
-      <description>
-        <![CDATA[The Metropolitan Police has decided not to launch a criminal investigation into reports that Andrew Mountbatten-Windsor asked his taxpayer-funded bodyguard to dig up dirt on Virginia Giuffre.]]>
-      </description>
-      <source:markdown>The Metropolitan Police has decided not to launch a criminal investigation into reports that Andrew Mountbatten-Windsor asked his taxpayer-funded bodyguard to dig up dirt on Virginia Giuffre.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1213/1548889-andrew-met-police/</guid>
-    </item>    <item>
-      <title>50 Catholics martyred by the Nazis beatified in France</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-12/beatification-izquierdo-montanes-semeraro-hollerich-spain-france.html</link>
-      <description>
-        <![CDATA[<p>Three different groups of martyrs, nearly 200 in total, are beatified in celebrations in the Cathedrals of Jaen, Spain, and Notre Dame in Paris.</p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-12/beatification-izquierdo-montanes-semeraro-hollerich-spain-france.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Three different groups of martyrs, nearly 200 in total, are beatified in celebrations in the Cathedrals of Jaen, Spain, and Notre Dame in Paris.
-
-[Read all](https://www.vaticannews.va/en/church/news/2025-12/beatification-izquierdo-montanes-semeraro-hollerich-spain-france.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-12/beatification-izquierdo-montanes-semeraro-hollerich-spain-france.html</guid>
-    </item>    <item>
-      <title>Belarus frees Nobel winner as US lifts more sanctions</title>
-      <link>https://www.rte.ie/news/world/2025/1213/1548887-belarus-nobel-winner/</link>
-      <description>
-        <![CDATA[Belarusian President Alexander Lukashenko freed 123 prisoners including Nobel Peace Prize winner Ales Bialiatski and leading opposition figure Maria Kalesnikava after two days of talks with an envoy for President Donald Trump, a US statement said.]]>
-      </description>
-      <source:markdown>Belarusian President Alexander Lukashenko freed 123 prisoners including Nobel Peace Prize winner Ales Bialiatski and leading opposition figure Maria Kalesnikava after two days of talks with an envoy for President Donald Trump, a US statement said.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1213/1548887-belarus-nobel-winner/</guid>
-    </item>    <item>
-      <title>Trump vows &#39;very serious retaliation&#39; after deadly ambush on U.S. military convoy in Syria</title>
-      <link>https://www.cbc.ca/news/world/syria-attack-u-s-soldiers-9.7014999?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/3c07d6f7-9a99-49d9-b514-1e39e5bcc098,1765652059525/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7851%2C4416%29%3BResize%3D%28620%29' alt='Soldiers are seen standing together inside a desert compound.' width='620' height='349' title='NORTHEASTERN SYRIA - MAY 25:  U.S. Army soldiers prepare to go out on patrol from a remote combat outpost on May 25, 2021 in northeastern Syria. U.S. forces, part of Task Force WARCLUB operate from combat outposts in the area, coordinating with the Kurdish-led Syrian Democratic Forces (SDF) in combatting residual ISIS extremists and deterring pro-Iranian militia.  (Photo by John Moore/Getty Images)'/><p>Three U.S. military personnel — two army soldiers and a civilian interpreter — were killed on Saturday after an attacker targeted a convoy of American and Syrian forces, the U.S. military said.</p>]]>
-      </description>
-      <source:markdown>![Soldiers are seen standing together inside a desert compound.](https://i.cbc.ca/ais/3c07d6f7-9a99-49d9-b514-1e39e5bcc098,1765652059525/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7851%2C4416%29%3BResize%3D%28620%29)
-
-Three U.S. military personnel — two army soldiers and a civilian interpreter — were killed on Saturday after an attacker targeted a convoy of American and Syrian forces, the U.S. military said.</source:markdown>
-      <guid>cid://9.7014999</guid>
-    </item>    <item>
-      <title>Messi India visit turns chaotic as fans vandalise stadium</title>
-      <link>https://www.rte.ie/news/2025/1213/1548871-lionel-messi-india/</link>
-      <description>
-        <![CDATA[Lionel Messi's tour of India kicked off chaotically this morning as fans threw objects, ripped up seats and invaded the pitch at Kolkata's Salt Lake stadium after the Argentine soccer great made only a brief appearance at a ticketed event.]]>
-      </description>
-      <source:markdown>Lionel Messi&#39;s tour of India kicked off chaotically this morning as fans threw objects, ripped up seats and invaded the pitch at Kolkata&#39;s Salt Lake stadium after the Argentine soccer great made only a brief appearance at a ticketed event.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1213/1548871-lionel-messi-india/</guid>
-    </item>    <item>
-      <title>Peace is a duty that unites humanity, Pope Leo tells diplomats</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-address-jubilee-of-italian-diplomacy.html</link>
-      <description>
-        <![CDATA[<p>Speaking at the Jubilee for Italian Diplomacy, Pope Leo repeats the appeal of Paul VI for an end to war, and calls on diplomats to be men and women of dialogue.</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-address-jubilee-of-italian-diplomacy.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Speaking at the Jubilee for Italian Diplomacy, Pope Leo repeats the appeal of Paul VI for an end to war, and calls on diplomats to be men and women of dialogue.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-address-jubilee-of-italian-diplomacy.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-address-jubilee-of-italian-diplomacy.html</guid>
-    </item>    <item>
-      <title>Fighting rages on Thai-Cambodian border despite Trump&#39;s ceasefire claim</title>
-      <link>https://www.cbc.ca/news/world/thailand-cambodia-border-fighting-continues-9.7014953?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/b9a0f5e4-c1c8-4996-a002-e353e3e310fc,1765642866027/full/max/0/default.jpg?im=Crop%2Crect%3D%28161%2C1203%2C6566%2C3693%29%3BResize%3D%28620%29' alt='People run for shelter from rocket blasts that are not pictured. ' width='620' height='349' title='Village security volunteers and resident run into shelter while the blasts sounded too close in Buriram province, Thailand on Friday, Dec. 12, 2025, following renewed border conflict between Thailand and Cambodia. '/><p>Fighting raged Saturday morning along the border of Thailand and Cambodia, even after U.S. President Donald Trump, acting as a mediator, declared that he had won agreement from both countries for a new ceasefire.
-        </p>]]>
-      </description>
-      <source:markdown>![People run for shelter from rocket blasts that are not pictured. ](https://i.cbc.ca/ais/b9a0f5e4-c1c8-4996-a002-e353e3e310fc,1765642866027/full/max/0/default.jpg?im=Crop%2Crect%3D%28161%2C1203%2C6566%2C3693%29%3BResize%3D%28620%29)
-
-Fighting raged Saturday morning along the border of Thailand and Cambodia, even after U.S. President Donald Trump, acting as a mediator, declared that he had won agreement from both countries for a new ceasefire.</source:markdown>
-      <guid>cid://9.7014953</guid>
-    </item>    <item>
-      <title>Sudan: UN strongly condemns deadly drone attack on peacekeeping base in Kordofan</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166592</link>
-      <description>
-        <![CDATA[Drone attacks targeting the UN logistics base in Kadugli, Sudan, on Saturday killed six peacekeepers and injured eight others – all members of the Bangladeshi contingent serving in the UN Interim Security Force for Abyei (UNISFA).]]>
-      </description>
-      <source:markdown>Drone attacks targeting the UN logistics base in Kadugli, Sudan, on Saturday killed six peacekeepers and injured eight others – all members of the Bangladeshi contingent serving in the UN Interim Security Force for Abyei (UNISFA).</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/06-11-2023-UN-Photo-UNMIS-peacekeeping.jpg/image560x340cropped.jpg" length="33656" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166592</guid>
-    </item>    <item>
-      <title>In Baghdad, Guterres hails ‘new chapter’ in Iraq as UN mission draws to a close</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166591</link>
-      <description>
-        <![CDATA[The United Nations Assistance Mission for Iraq (UNAMI) is ending operations this month but support for the country will continue, Secretary-General António Guterres affirmed at the official closing ceremony in Baghdad on Saturday.]]>
-      </description>
-      <source:markdown>The United Nations Assistance Mission for Iraq (UNAMI) is ending operations this month but support for the country will continue, Secretary-General António Guterres affirmed at the official closing ceremony in Baghdad on Saturday.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/13-12-25_SG_Iraq_2.jpeg/image560x340cropped.jpg" length="32648" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166591</guid>
-    </item>    <item>
-      <title>With skills and determination, Guatemalans embark on life-changing journey to Germany</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166535</link>
-      <description>
-        <![CDATA[On the runway of Guatemala City’s La Aurora International Airport, ten men embraced their families before departing for Germany — the start of a bold new chapter.]]>
-      </description>
-      <source:markdown>On the runway of Guatemala City’s La Aurora International Airport, ten men embraced their families before departing for Germany — the start of a bold new chapter.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-12-2025-IOM-Guatemala-01.jpg/image560x340cropped.jpg" length="39408" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166535</guid>
-    </item>    <item>
-      <title>UN Alliance of Civilizations urges youth to reaffirm peace as a global priority</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166590</link>
-      <description>
-        <![CDATA[In a world shaped by conflict and digital noise, the High Representative for the UN Alliance of Civilizations (UNAOC) called for young people to make the 21st century the last century in which humanity witnesses war.]]>
-      </description>
-      <source:markdown>In a world shaped by conflict and digital noise, the High Representative for the UN Alliance of Civilizations (UNAOC) called for young people to make the 21st century the last century in which humanity witnesses war.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-04-2025-UNICEF-Colombia.jpg/image560x340cropped.jpg" length="37494" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166590</guid>
-    </item>    <item>
-      <title>Decision on Enoch Burke appeal to be made at later date</title>
-      <link>https://www.rte.ie/news/ireland/2025/1213/1548873-enoch-burke-appeal/</link>
-      <description>
-        <![CDATA[A Disciplinary Appeals Panel considering teacher Enoch Burke's appeal against his dismissal from Wilson's Hospital School in Westmeath in January 2023 has concluded.]]>
-      </description>
-      <source:markdown>A Disciplinary Appeals Panel considering teacher Enoch Burke&#39;s appeal against his dismissal from Wilson&#39;s Hospital School in Westmeath in January 2023 has concluded.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1213/1548873-enoch-burke-appeal/</guid>
-    </item>    <item>
-      <title>Pope: At Christmas, let music be a ‘dwelling place for the soul’</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-vatican-christmas-concert-music-dwelling-for-soul.html</link>
-      <description>
-        <![CDATA[<p>Pope Leo meets with artists and organisers involved in the Vatican’s Christmas Concert, saying that the festive period reminds us that God comes to meet us “at the very heart of our small human stories.”</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-vatican-christmas-concert-music-dwelling-for-soul.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Pope Leo meets with artists and organisers involved in the Vatican’s Christmas Concert, saying that the festive period reminds us that God comes to meet us “at the very heart of our small human stories.”
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-vatican-christmas-concert-music-dwelling-for-soul.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-vatican-christmas-concert-music-dwelling-for-soul.html</guid>
-    </item>    <item>
-      <title>Belarus frees Nobel winner, top opposition figures as U.S. lifts more sanctions</title>
-      <link>https://www.cbc.ca/news/world/belarus-frees-prisoners-9.7014930?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/c619adde-52cf-40a3-a954-ac7005cba3e4,1765640090357/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C2200%2C1237%29%3BResize%3D%28620%29' alt='A close up shot of a man with a mustache.' width='620' height='349' title='Belarusian human rights activist Ales Bialiatski poses for a picture in central Minsk, Belarus, October 11, 2007. Bialiatski is a co-winner of the 2022 Nobel Peace Prize along with Russian human rights organisation Memorial and Ukraine&apos;s Center for Civil Liberties.'/><p>Belarusian President Alexander Lukashenko freed 123 prisoners on Saturday, including Nobel Peace Prize winner Ales Bialiatski and leading opposition figure Maria Kalesnikava, after two days of talks with an envoy for U.S. President Donald Trump, an American statement said.</p>]]>
-      </description>
-      <source:markdown>![A close up shot of a man with a mustache.](https://i.cbc.ca/ais/c619adde-52cf-40a3-a954-ac7005cba3e4,1765640090357/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C2200%2C1237%29%3BResize%3D%28620%29)
-
-Belarusian President Alexander Lukashenko freed 123 prisoners on Saturday, including Nobel Peace Prize winner Ales Bialiatski and leading opposition figure Maria Kalesnikava, after two days of talks with an envoy for U.S. President Donald Trump, an American statement said.</source:markdown>
-      <guid>cid://9.7014930</guid>
-    </item>    <item>
-      <title>Trump dismisses new photos with Epstein as &#39;no big deal&#39;</title>
-      <link>https://www.rte.ie/news/2025/1213/1548867-trump-epstein-photos/</link>
-      <description>
-        <![CDATA[US President Donald Trump has dismissed the release of new photos showing him alongside Jeffrey Epstein saying the images were "no big deal".]]>
-      </description>
-      <source:markdown>US President Donald Trump has dismissed the release of new photos showing him alongside Jeffrey Epstein saying the images were &#34;no big deal&#34;.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1213/1548867-trump-epstein-photos/</guid>
-    </item>    <item>
-      <title>Winning €17m EuroMillions jackpot ticket bought in Ulster</title>
-      <link>https://www.rte.ie/news/ireland/2025/1213/1548864-lotto-win-ireland/</link>
-      <description>
-        <![CDATA[The winning ticket in last night's EuroMillions draw was bought in the Ulster region, the National Lottery has said.]]>
-      </description>
-      <source:markdown>The winning ticket in last night&#39;s EuroMillions draw was bought in the Ulster region, the National Lottery has said.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1213/1548864-lotto-win-ireland/</guid>
-    </item>    <item>
-      <title>Lord&#39;s Day Reflection: Rejoice in the Lord always!</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-12/lord-s-day-reflection-rejoice-in-the-lord-always.html</link>
-      <description>
-        <![CDATA[<p>As the Church celebrates Gaudete Sunday - Fr Edmund Power reflects on the theme of "joy" that permeates the liturgy on the Third Sunday of Advent. </p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-12/lord-s-day-reflection-rejoice-in-the-lord-always.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>As the Church celebrates Gaudete Sunday - Fr Edmund Power reflects on the theme of &#34;joy&#34; that permeates the liturgy on the Third Sunday of Advent.
-
-[Read all](https://www.vaticannews.va/en/church/news/2025-12/lord-s-day-reflection-rejoice-in-the-lord-always.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-12/lord-s-day-reflection-rejoice-in-the-lord-always.html</guid>
-    </item>    <item>
-      <title>Organizer arrested after fans rip up seats, throw objects during Lionel Messi visit to India</title>
-      <link>https://www.cbc.ca/news/world/soccer-fans-messi-india-9.7014882?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/2f8521a8-0754-431b-8543-caf64d98c958,1765633594918/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C400%2C6176%2C3474%29%3BResize%3D%28620%29' alt='Crowd of men gather, with famous soccer players and Indian government officials standing together' width='620' height='349' title='Soccer Football - Argentine soccer star Lionel Messi on a whirlwind tour of India - Vivekananda Yuva Bharati Krirangan, Kolkata, India - December 13, 2025 Aroop Biswas, minister of sports of West Bengal with Lionel Messi and his Inter Miami teammates Rodrigo De Paul and Luis Suarez at the stadium during his tour of India  '/><p>Lionel Messi's tour of India kicked off chaotically on Saturday as fans threw objects, ripped up seats and invaded the pitch at Kolkata's Salt Lake Stadium after the Argentine soccer great made only a brief appearance at a ticketed event.</p>]]>
-      </description>
-      <source:markdown>![Crowd of men gather, with famous soccer players and Indian government officials standing together](https://i.cbc.ca/ais/2f8521a8-0754-431b-8543-caf64d98c958,1765633594918/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C400%2C6176%2C3474%29%3BResize%3D%28620%29)
-
-Lionel Messi&#39;s tour of India kicked off chaotically on Saturday as fans threw objects, ripped up seats and invaded the pitch at Kolkata&#39;s Salt Lake Stadium after the Argentine soccer great made only a brief appearance at a ticketed event.</source:markdown>
-      <guid>cid://9.7014882</guid>
-    </item>    <item>
-      <title>Pope: The Nativity is a gift of light for our world in need of hope</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-to-living-nativity-participants-a-gift-of-light-for-world.html</link>
-      <description>
-        <![CDATA[<p>Speaking to about 1,000 people taking part in the “Living Nativity” tradition at the Basilica of St. Mary Major, Pope Leo challenges them to spread the message that we are never alone and continue to be “pilgrims of hope, bearers of consolation and inspiration for all those you meet.”</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-to-living-nativity-participants-a-gift-of-light-for-world.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Speaking to about 1,000 people taking part in the “Living Nativity” tradition at the Basilica of St. Mary Major, Pope Leo challenges them to spread the message that we are never alone and continue to be “pilgrims of hope, bearers of consolation and inspiration for all those you meet.”
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-to-living-nativity-participants-a-gift-of-light-for-world.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-to-living-nativity-participants-a-gift-of-light-for-world.html</guid>
-    </item>    <item>
-      <title>2 killed in Russia, millions in Ukraine without power as energy infrastructure targeted</title>
-      <link>https://www.cbc.ca/news/world/ukraine-russia-attacks-peace-talks-9.7014857?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/36c3d242-c9c5-4ed1-98bb-06e1cdba6e82,1765633512413/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C3012%2C1694%29%3BResize%3D%28620%29' alt='Man in army vest hold fist into the air, grits teeth while face is in a powerful scowl ' width='620' height='349' title='In this grab from a video provided by the Press Service Of The President Of Ukraine on Friday, Dec 12, 2025, Ukraine&apos;s President Volodymyr Zelenskyy records a video at the road entering of Kupiansk, Ukraine. (Press Service Of The President Of Ukraine via AP)'/><p>At least two people were killed in a drone attack in Russia’s southwestern Saratov region, and parts of Ukraine went without power following targeted assaults on energy infrastructure, local authorities said Saturday, as U.S.-led peace talks on ending the war press on.</p>]]>
-      </description>
-      <source:markdown>![Man in army vest hold fist into the air, grits teeth while face is in a powerful scowl ](https://i.cbc.ca/ais/36c3d242-c9c5-4ed1-98bb-06e1cdba6e82,1765633512413/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C3012%2C1694%29%3BResize%3D%28620%29)
-
-At least two people were killed in a drone attack in Russia’s southwestern Saratov region, and parts of Ukraine went without power following targeted assaults on energy infrastructure, local authorities said Saturday, as U.S.-led peace talks on ending the war press on.</source:markdown>
-      <guid>cid://9.7014857</guid>
-    </item>    <item>
-      <title>EU quota deal putting 2,300 jobs at risk - fishing groups</title>
-      <link>https://www.rte.ie/news/ireland/2025/1213/1548841-fishing-quota-agreement/</link>
-      <description>
-        <![CDATA[Minister of State for Fisheries Timmy Dooley has said that the outcome of an EU fishing quota agreement for next year will present a "very real challenge" for fishermen as fishing organisations say the agreement could impact 2,300 jobs in coastal communities.]]>
-      </description>
-      <source:markdown>Minister of State for Fisheries Timmy Dooley has said that the outcome of an EU fishing quota agreement for next year will present a &#34;very real challenge&#34; for fishermen as fishing organisations say the agreement could impact 2,300 jobs in coastal communities.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1213/1548841-fishing-quota-agreement/</guid>
-    </item>    <item>
-      <title>The Stars of St. Vincent, Tongue Stones, and St. Cuthbert’s Beads: The Importance and Value of Fossils</title>
-      <link>https://www.vaticanobservatory.org/sacred-space-astronomy/the-stars-of-st-vincent-tongue-stones-and-st-cuthberts-beads-the-importance-and-value-of-fossils/</link>
-      <description>
-        <![CDATA[In the specimen room of a geologist you might find fossils with connections to saints — science and faith.]]>
-      </description>
-      <source:markdown>In the specimen room of a geologist you might find fossils with connections to saints — science and faith.</source:markdown>
-      <guid>cid://https://www.vaticanobservatory.org/?p=220674</guid>
-    </item>    <item>
-      <title>Kenova Report reveals dirty past of painful war</title>
-      <link>https://www.rte.ie/news/analysis-and-comment/2025/1213/1548819-kenova-analysis/</link>
-      <description>
-        <![CDATA[Something striking happened at the Kenova families' news conference and I watched it unfold. An intervention by a woman who spoke from the floor which made journalists snap round to see.]]>
-      </description>
-      <source:markdown>Something striking happened at the Kenova families&#39; news conference and I watched it unfold. An intervention by a woman who spoke from the floor which made journalists snap round to see.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/analysis-and-comment/2025/1213/1548819-kenova-analysis/</guid>
-    </item>    <item>
-      <title>Defence spending takes centre stage as weak links exposed</title>
-      <link>https://www.rte.ie/news/analysis-and-comment/2025/1213/1548811-defence-spending-plan/</link>
-      <description>
-        <![CDATA[The Government's €1.7bn defence spending plan, announced this week, comes at a time when there is a widespread perception that Ireland lags far behind its neighbours when it comes to defence and security, writes Joe Mag Raollaigh.]]>
-      </description>
-      <source:markdown>The Government&#39;s €1.7bn defence spending plan, announced this week, comes at a time when there is a widespread perception that Ireland lags far behind its neighbours when it comes to defence and security, writes Joe Mag Raollaigh.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/analysis-and-comment/2025/1213/1548811-defence-spending-plan/</guid>
-    </item>    <item>
-      <title>Teens create a buzz with beauty products made from honey</title>
-      <link>https://www.rte.ie/news/2025/1213/1548452-teens-beauty-business-honey/</link>
-      <description>
-        <![CDATA[A pair of fifth year pupils from Kilkenny are creating a buzz with their award-winning cosmetics company which uses natural honey as its main ingredient.]]>
-      </description>
-      <source:markdown>A pair of fifth year pupils from Kilkenny are creating a buzz with their award-winning cosmetics company which uses natural honey as its main ingredient.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1213/1548452-teens-beauty-business-honey/</guid>
-    </item>    <item>
-      <title>Cambodia shuts Thailand border crossings amid fighting</title>
-      <link>https://www.rte.ie/news/asia/2025/1213/1548836-cambodia-thailand/</link>
-      <description>
-        <![CDATA[Cambodia has shut its border crossings with Thailand, after Bangkok denied US President Donald Trump's claim that a truce had been agreed to end days of deadly fighting.]]>
-      </description>
-      <source:markdown>Cambodia has shut its border crossings with Thailand, after Bangkok denied US President Donald Trump&#39;s claim that a truce had been agreed to end days of deadly fighting.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/asia/2025/1213/1548836-cambodia-thailand/</guid>
-    </item>    <item>
-      <title>US envoy to meet Zelensky, European leaders in Germany</title>
-      <link>https://www.rte.ie/news/ukraine/2025/1213/1548835-ukraine-russia/</link>
-      <description>
-        <![CDATA[US President Donald Trump's special envoy will meet with Ukrainian President Volodymyr Zelensky and other European leaders in Berlin this weekend, the White House said, as the US presses for a plan to end Russia's war with Ukraine.]]>
-      </description>
-      <source:markdown>US President Donald Trump&#39;s special envoy will meet with Ukrainian President Volodymyr Zelensky and other European leaders in Berlin this weekend, the White House said, as the US presses for a plan to end Russia&#39;s war with Ukraine.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ukraine/2025/1213/1548835-ukraine-russia/</guid>
-    </item>    <item>
-      <title>Kim acknowledges N Korean troops cleared mines for Russia</title>
-      <link>https://www.rte.ie/news/world/2025/1213/1548834-north-korea-russia/</link>
-      <description>
-        <![CDATA[North Korea sent troops to clear mines in Russia's Kursk region earlier this year, the country's leader Kim Jong Un has said in a speech carried by state media, a rare acknowledgement by Pyongyang of the deadly tasks assigned to its soldiers in the region.]]>
-      </description>
-      <source:markdown>North Korea sent troops to clear mines in Russia&#39;s Kursk region earlier this year, the country&#39;s leader Kim Jong Un has said in a speech carried by state media, a rare acknowledgement by Pyongyang of the deadly tasks assigned to its soldiers in the region.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1213/1548834-north-korea-russia/</guid>
-    </item>    <item>
-      <title>Orange, Yellow warnings issued as heavy rain forecast</title>
-      <link>https://www.rte.ie/news/ireland/2025/1213/1548832-weather-warning/</link>
-      <description>
-        <![CDATA[A series of rain warnings have been issued for the country with the first warning due to come into effect for ten counties along the west coast this evening.]]>
-      </description>
-      <source:markdown>A series of rain warnings have been issued for the country with the first warning due to come into effect for ten counties along the west coast this evening.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1213/1548832-weather-warning/</guid>
     </item>
   </channel>
 </rss>

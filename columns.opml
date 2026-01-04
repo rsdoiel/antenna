@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>03 Jan 26 08:13 -0800</dateCreated>
+        <dateCreated>03 Jan 26 19:52 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -138,7 +138,7 @@
         <outline text="Jan Kneschke blog" type="atom" xmlUrl="http://jan.kneschke.de/feed/atom.xml" htmlUrl="//jan.kneschke.de/,//jan.kneschke.de/feed/atom.xml" url="//jan.kneschke.de/feed/atom.xml"></outline>
         <outline text="Janet Fitches blog" type="rss" xmlUrl="https://janetfitchwrites.wordpress.com/feed/" htmlUrl="https://janetfitchwrites.wordpress.com,https://janetfitchwrites.wordpress.com/feed/" url="https://janetfitchwrites.wordpress.com/feed/"></outline>
         <outline text="Jason Kittke&#39;s blog" type="atom" xmlUrl="http://feeds.kottke.org/main" htmlUrl="https://kottke.org/,https://feeds.kottke.org/main" description="Jason Kottke&#39;s weblog, home of fine hypertext products since 1998" url="https://feeds.kottke.org/main"></outline>
-        <outline text="Jeff Geerling blog" type="rss" xmlUrl="https://www.jeffgeerling.com/blog.xml" htmlUrl="https://www.jeffgeerling.com/"></outline>
+        <outline text="Jeff Geerling blog" type="rss" xmlUrl="https://www.jeffgeerling.com/blog.xml" htmlUrl="https://www.jeffgeerling.com/,https://www.jeffgeerling.com/blog.xml" description="Recent content on Jeff Geerling" url="https://www.jeffgeerling.com/blog.xml"></outline>
         <outline text="Jeff Par (PCjs) Mastodon feed" type="rss" xmlUrl="https://mastodon.sdf.org/@jeffpar.rss" htmlUrl="https://mastodon.sdf.org/@jeffpar" description="Public posts from @jeffpar@mastodon.sdf.org"></outline>
         <outline text="Jeremy Keith Blog" type="rss" xmlUrl="https://adactio.com/rss/" htmlUrl="https://adactio.com/,https://adactio.com/rss" description="The online home of Jeremy Keith, an author and web developer living and working in Brighton, England." url="https://adactio.com/rss"></outline>
         <outline text="Jim Eli&#39;s experiments in microcontrollers" type="rss" xmlUrl="https://ucexperiment.wordpress.com/feed/" htmlUrl="https://ucexperiment.wordpress.com,https://ucexperiment.wordpress.com/feed/" description="Experimentation with microcontrollers." url="https://ucexperiment.wordpress.com/feed/"></outline>
