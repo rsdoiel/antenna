@@ -23,7 +23,7 @@ title: Planet News
 
 # BBC World service for North America
 
-- [BBC, US & Canada](http://feeds.bbci.co.uk/news/rss.xml?edition=us)
+- [BBC, US & Canada](http://feeds.bbci.co.uk/news/rss.xml)
 
 # RTÉ, Raidió Teilifís Éireann (the Irish public broadcasting organization)
 

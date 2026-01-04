@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>03 Jan 26 08:12 -0800</lastBuildDate>
+    <lastBuildDate>03 Jan 26 19:51 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,359 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://andysylvester.com/2026/01/03/4020/</link>
+      <description>
+        <![CDATA[Currently reading: Raven Rock: The Story of The US Government&#8217;s Secret Plan to Save Itself &#8211; While The Rest of Us Die, by Garrett M. Graff (found this after watching A House of Dynamite on Netflix).]]>
+      </description>
+      <source:markdown>Currently reading: Raven Rock: The Story of The US Government’s Secret Plan to Save Itself – While The Rest of Us Die, by Garrett M. Graff (found this after watching A House of Dynamite on Netflix).</source:markdown>
+      <guid>cid://https://andysylvester.com/?p=4020</guid>
+    </item>    <item>
+      <title>Quoting Jaana Dogan</title>
+      <link>https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://twitter.com/rakyll/status/2007239758158975130"><p>I'm not joking and this isn't funny. We have been trying to build distributed agent orchestrators at Google since last year. There are various options, not everyone is aligned... I gave Claude Code a description of the problem, it generated what we built last year in an hour.</p>
+        <p>It's not perfect and I'm iterating on it but this is where we are right now. If you are skeptical of coding agents, try it on a domain you are already an expert of. Build something complex from scratch where you can be the judge of the artifacts.</p>
+        <p>[<a href="https://twitter.com/rakyll/status/2007255015069778303">...</a>] It wasn't a very detailed prompt and it contained no real  details given I cannot share anything propriety. I was building a toy version on top of some of the existing ideas to evaluate Claude Code. It was a three paragraph description.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://twitter.com/rakyll/status/2007239758158975130">Jaana Dogan</a>, Principal Engineer at Google</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
+      </description>
+      <source:markdown>&#62; I&#39;m not joking and this isn&#39;t funny. We have been trying to build distributed agent orchestrators at Google since last year. There are various options, not everyone is aligned... I gave Claude Code a description of the problem, it generated what we built last year in an hour.
+&#62;
+&#62; It&#39;s not perfect and I&#39;m iterating on it but this is where we are right now. If you are skeptical of coding agents, try it on a domain you are already an expert of. Build something complex from scratch where you can be the judge of the artifacts.
+&#62;
+&#62; \[ [...](https://twitter.com/rakyll/status/2007255015069778303)\] It wasn&#39;t a very detailed prompt and it contained no real details given I cannot share anything propriety. I was building a toy version on top of some of the existing ideas to evaluate Claude Code. It was a three paragraph description.
+
+— [Jaana Dogan](https://twitter.com/rakyll/status/2007239758158975130), Principal Engineer at Google
+
+Tags: [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [ai](https://simonwillison.net/tags/ai), [claude-code](https://simonwillison.net/tags/claude-code), [llms](https://simonwillison.net/tags/llms), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [google](https://simonwillison.net/tags/google), [generative-ai](https://simonwillison.net/tags/generative-ai)</source:markdown>
+      <guid>cid://https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything</guid>
+    </item>    <item>
+      <title>2025 in Review</title>
+      <link>https://tracydurnell.com/2026/01/03/2025-in-review/</link>
+      <description>
+        <![CDATA[What I worked on consulting: supported outreach for a construction and demolition waste policy through June, then they referred me to their colleague to develop outreach materials for their green building program business development: I bid on an RFP in the spring and got an interview, but wasn&#8217;t selected; met with a potential client at [&#8230;]]]>
+      </description>
+      <source:markdown>What I worked on consulting: supported outreach for a construction and demolition waste policy through June, then they referred me to their colleague to develop outreach materials for their green building program business development: I bid on an RFP in the spring and got an interview, but wasn’t selected; met with a potential client at \[…\]</source:markdown>
+      <enclosure url="http://tracydurnell.com/wp-content/uploads/2025/10/mother-and-cub-bobcat-drinking-from-bird-bath-Oct-2025-compressed.mp4" length="16085468" type="video/mp4" />
+      <guid>cid://https://tracydurnell.com/?p=33113</guid>
+    </item>    <item>
+      <link>https://standard.site/</link>
+      <description>
+        <![CDATA[<p>Standard.site is interesting. Two suggestions, explain how you hook up with non-atproto apps. Suggest using RSS and Markdown. And give Markdown a special role, so users can use any tool to edit text. And if you all want to help the web and yourselves focus on interop with wider world.</p>]]>
+      </description>
+      <source:markdown>Standard.site is interesting. Two suggestions, explain how you hook up with non-atproto apps. Suggest using RSS and Markdown. And give Markdown a special role, so users can use any tool to edit text. And if you all want to help the web and yourselves focus on interop with wider world.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/03/2370/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mbkoj3amjs2y</link>
+      <description>
+        <![CDATA[Good context https://youtu.be/wu9QSeAI22I?si=t9EYvXU1-Nmrs-9H]]>
+      </description>
+      <source:markdown>Good context https://youtu.be/wu9QSeAI22I?si=t9EYvXU1-Nmrs-9H</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mbkoj3amjs2y</guid>
+    </item>    <item>
+      <title>Unban subscribers</title>
+      <link>https://buttondown.com/blog/2026-01-04-unban-subscribers</link>
+      <description>
+        <![CDATA[You can now unban subscribers directly from the UI.]]>
+      </description>
+      <source:markdown>You can now unban subscribers directly from the UI.</source:markdown>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115833816269930458</link>
+      <description>
+        <![CDATA[<p>It is now a joke, one of the many variations out there now:</p>]]>
+      </description>
+      <source:markdown>It is now a joke, one of the many variations out there now:</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115833816269930458</guid>
+    </item>    <item>
+      <title>2026-01-02 Xobaque does RFC 5005</title>
+      <link>https://alexschroeder.ch/view/2026-01-02-xobaque</link>
+      <description>
+        <![CDATA[<h1 id="2026-01-02-xobaque-does-rfc-5005">2026-01-02 Xobaque does RFC 5005</h1>
+        
+        <p>Very few blogs (this one?) support <a href="https://www.rfc-editor.org/rfc/rfc5005.html">RFC 5005</a> &ldquo;Feed Paging and Archiving&rdquo;.
+        <a href="Xobaque">Xobaque</a> is a search engine that doesn&rsquo;t crawl the web. It gets fed using feeds. That makes it the ideal companion for web rings, blog planets and the like. And I just added blog crawling using RFC 5005 to it.</p>
+        
+        <p>As long as Xobaque finds a &ldquo;next&rdquo; link, it&rsquo;ll continue following that chain. In order to not overwhelm sites, there&rsquo;s a 5s pause between these requests. I&rsquo;m still not sure how good this idea is. A site like my own with a bit more than 6000 blog pages takes over 50 hours to crawl. And a new crawl is started every 24 hours.</p>
+        
+        <p>In my particular case, the next run that reaches a year-page, however, would notice that it hasn&rsquo;t changed and stop. So I hope it&rsquo;s still OK?</p>
+        
+        <p>I think the next thing I&rsquo;d like to do is support sitemaps. I don&rsquo;t have one but all the Blogspot blogs have one. There are 277 Blogspot blogs on the <a href="https://campaignwiki.org/rpg">RPG Planet</a>.</p>
+        
+        <p>The problem with sitemaps, as far as I am concerned, is that you then need to request each and every page. It&rsquo;s not quite random crawling, but it&rsquo;s getting closer. 😭</p>
+        
+        <p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a> <a class="tag" href="/search/?q=%23Feeds">#Feeds</a></p>
+        
+        <p><strong>2026-01-03</strong>. There are four blogs on <a href="https://campaignwiki.org/rpg">Planet RPG</a> which don&rsquo;t allow Xobaque using <code>robots.txt</code>. I wonder if <a href="Jupiter">Planet Jupiter</a> &ndash; the software I use to aggregate all the feeeds &ndash; takes <code>robots.txt</code> into account? I wrote it so long ago I don&rsquo;t remember.</p>
+        
+        <p>As for the timeouts I&rsquo;ve been getting for Blogspot blogs and others, I think the problem is that their ASN is blocked as per my <a href="Butlerian_Jihad">Butlerian Jihad</a>. The <code>fail2ban</code> firewall chain needs an exception.</p>
+        
+        <p>List the handles:</p>
+        
+        <pre><code>nft -a list chain inet f2b-table f2b-chain
+        </code></pre>
+        
+        <p>Insert the new rule between accept list and <code>fail2ban</code> list:</p>
+        
+        <pre><code>nft insert rule inet f2b-table f2b-chain handle 110 \
+          ct state established,related accept \
+          comment &quot;accept responses to outgoing traffic&quot;
+        </code></pre>
+        
+        <p>Result:</p>
+        
+        <pre><code>table inet f2b-table {
+        	chain f2b-chain { # handle 1
+        		type filter hook input priority filter - 1; policy accept;
+        		tcp dport 0-65535 ip6 saddr @gotosocial6 accept # handle 12
+        		tcp dport 0-65535 ip saddr @gotosocial accept # handle 11
+        		tcp dport 0-65535 ip6 saddr @allowlist6 accept # handle 10
+        		tcp dport 0-65535 ip saddr @allowlist accept # handle 9
+        		ct state established,related accept comment &quot;accept responses to outgoing traffic&quot; # handle 161
+        		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad reject with icmp port-unreachable # handle 110
+        		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad reject with icmpv6 port-unreachable # handle 116
+        		tcp dport { 80, 443 } ip6 saddr @addr6-set-alex-apache reject with icmpv6 port-unreachable # handle 123
+        		tcp dport { 80, 443 } ip saddr @addr-set-alex-apache reject with icmp port-unreachable # handle 130
+        		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad-week reject with icmp port-unreachable # handle 136
+        		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad-week reject with icmpv6 port-unreachable # handle 142
+        		meta l4proto tcp ip6 saddr @addr6-set-recidive reject with icmpv6 port-unreachable # handle 148
+        		meta l4proto tcp ip saddr @addr-set-recidive reject with icmp port-unreachable # handle 154
+        	}
+        }
+        </code></pre>
+        
+        <p><strong>2026-01-04</strong>. I implemented the import of sitemaps and sitemap indexes.
+        Since those requests will all hit the same host, however, I&rsquo;m using a hard coded delay of 5s between requests.</p>]]>
+      </description>
+      <source:markdown># 2026-01-02 Xobaque does RFC 5005
+
+Very few blogs (this one?) support [RFC 5005](https://www.rfc-editor.org/rfc/rfc5005.html) “Feed Paging and Archiving”.
+[Xobaque](Xobaque) is a search engine that doesn’t crawl the web. It gets fed using feeds. That makes it the ideal companion for web rings, blog planets and the like. And I just added blog crawling using RFC 5005 to it.
+
+As long as Xobaque finds a “next” link, it’ll continue following that chain. In order to not overwhelm sites, there’s a 5s pause between these requests. I’m still not sure how good this idea is. A site like my own with a bit more than 6000 blog pages takes over 50 hours to crawl. And a new crawl is started every 24 hours.
+
+In my particular case, the next run that reaches a year-page, however, would notice that it hasn’t changed and stop. So I hope it’s still OK?
+
+I think the next thing I’d like to do is support sitemaps. I don’t have one but all the Blogspot blogs have one. There are 277 Blogspot blogs on the [RPG Planet](https://campaignwiki.org/rpg).
+
+The problem with sitemaps, as far as I am concerned, is that you then need to request each and every page. It’s not quite random crawling, but it’s getting closer. 😭
+
+[#Xobaque](/search/?q=%23Xobaque) [#Feeds](/search/?q=%23Feeds)
+
+**2026-01-03**. There are four blogs on [Planet RPG](https://campaignwiki.org/rpg) which don’t allow Xobaque using `robots.txt`. I wonder if [Planet Jupiter](Jupiter) – the software I use to aggregate all the feeeds – takes `robots.txt` into account? I wrote it so long ago I don’t remember.
+
+As for the timeouts I’ve been getting for Blogspot blogs and others, I think the problem is that their ASN is blocked as per my [Butlerian Jihad](Butlerian_Jihad). The `fail2ban` firewall chain needs an exception.
+
+List the handles:
+
+```
+nft -a list chain inet f2b-table f2b-chain
+
+```
+
+Insert the new rule between accept list and `fail2ban` list:
+
+```
+nft insert rule inet f2b-table f2b-chain handle 110 \
+  ct state established,related accept \
+  comment &#34;accept responses to outgoing traffic&#34;
+
+```
+
+Result:
+
+```
+table inet f2b-table {
+	chain f2b-chain { # handle 1
+		type filter hook input priority filter - 1; policy accept;
+		tcp dport 0-65535 ip6 saddr @gotosocial6 accept # handle 12
+		tcp dport 0-65535 ip saddr @gotosocial accept # handle 11
+		tcp dport 0-65535 ip6 saddr @allowlist6 accept # handle 10
+		tcp dport 0-65535 ip saddr @allowlist accept # handle 9
+		ct state established,related accept comment &#34;accept responses to outgoing traffic&#34; # handle 161
+		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad reject with icmp port-unreachable # handle 110
+		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad reject with icmpv6 port-unreachable # handle 116
+		tcp dport { 80, 443 } ip6 saddr @addr6-set-alex-apache reject with icmpv6 port-unreachable # handle 123
+		tcp dport { 80, 443 } ip saddr @addr-set-alex-apache reject with icmp port-unreachable # handle 130
+		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad-week reject with icmp port-unreachable # handle 136
+		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad-week reject with icmpv6 port-unreachable # handle 142
+		meta l4proto tcp ip6 saddr @addr6-set-recidive reject with icmpv6 port-unreachable # handle 148
+		meta l4proto tcp ip saddr @addr-set-recidive reject with icmp port-unreachable # handle 154
+	}
+}
+
+```
+
+**2026-01-04**. I implemented the import of sitemaps and sitemap indexes.
+Since those requests will all hit the same host, however, I’m using a hard coded delay of 5s between requests.</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2026-01-02-xobaque</guid>
+    </item>    <item>
+      <title>Playing tunes in a kitchen on a Saturday night.</title>
+      <link>https://adactio.com/notes/22336</link>
+      <description>
+        <![CDATA[<p>Playing tunes in a kitchen on a Saturday night.</p>]]>
+      </description>
+      <source:markdown>Playing tunes in a kitchen on a Saturday night.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22336</guid>
+    </item>    <item>
+      <title>‘Blind Into Caracas’</title>
+      <link>https://fallows.substack.com/p/blind-into-caracas</link>
+      <description>
+        <![CDATA[Less than 24 hours in, members of the Trump team are celebrating victory. None of them seem to have wondered what happens a day, a month, a decade from now.]]>
+      </description>
+      <source:markdown>Less than 24 hours in, members of the Trump team are celebrating victory. None of them seem to have wondered what happens a day, a month, a decade from now.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!wLa3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56a312dd-d54a-40b5-892b-3354d51fd58f_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://fallows.substack.com/p/blind-into-caracas</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115833116002396233</link>
+      <description>
+        <![CDATA[<p>John Pilger had a documentary about Venezuela - a good crash course for why they invaded today.</p><p>And you can watch it for free on YouTube now:</p><p><a href="https://www.youtube.com/watch?v=xyWVh4kRyg4" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">youtube.com/watch?v=xyWVh4kRyg4</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>John Pilger had a documentary about Venezuela - a good crash course for why they invaded today.
+
+And you can watch it for free on YouTube now:
+
+[https://www.youtube.com/watch?v=xyWVh4kRyg4](https://www.youtube.com/watch?v=xyWVh4kRyg4)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115833116002396233</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115833045698776920</link>
+      <description>
+        <![CDATA[<p>France is outright rejoicing in this illegal coup.   Just echoing pure propaganda.</p><p>Full participation really:</p>]]>
+      </description>
+      <source:markdown>France is outright rejoicing in this illegal coup. Just echoing pure propaganda.
+
+Full participation really:</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115833045698776920</guid>
+    </item>    <item>
+      <title>Thug World</title>
+      <link>https://robertreich.substack.com/p/thug-world</link>
+      <description>
+        <![CDATA[A new world order?]]>
+      </description>
+      <source:markdown>A new world order?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!GgEK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b8beb04-67d7-46f7-b75d-35bb0f234632_1170x476.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/thug-world</guid>
+    </item>    <item>
+      <title>JeffGeerling.com has been Migrated to Hugo</title>
+      <link>https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/</link>
+      <description>
+        <![CDATA[<p>Since 2009, this website has <a href="https://www.jeffgeerling.com/blog/2009/moved-drupal-hello-drupal">run on Drupal</a>. Starting with Drupal 6, and progressing through major site upgrades and migrations to 7, 8, 9, and 10, I used the site as a way to dogfood the same CMS (Content Management System) I used in my day job for <em>over a decade</em>.</p>
+        <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/jeffgeerling-old-drupal.png"
+         alt="JeffGeerling.com - Old Drupal site" width="700" height="auto">
+        </figure>
+        
+        <p>But as time progressed—especially after completing a <a href="https://www.jeffgeerling.com/blog/2020/migrating-jeffgeerlingcom-drupal-8-live">grueling upgrade from Drupal 7 to 8</a>—my enthusiasm for maintaining what's now a more enterprise-focused <a href="https://www.acquia.com/blog/what-digital-experience-platform-dxp">Digital Experience Platform</a> or 'DXP' for a personal blog has waned.</p>]]>
+      </description>
+      <source:markdown>Since 2009, this website has [run on Drupal](https://www.jeffgeerling.com/blog/2009/moved-drupal-hello-drupal). Starting with Drupal 6, and progressing through major site upgrades and migrations to 7, 8, 9, and 10, I used the site as a way to dogfood the same CMS (Content Management System) I used in my day job for _over a decade_.
+
+![JeffGeerling.com - Old Drupal site](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/jeffgeerling-old-drupal.png)
+
+But as time progressed—especially after completing a [grueling upgrade from Drupal 7 to 8](https://www.jeffgeerling.com/blog/2020/migrating-jeffgeerlingcom-drupal-8-live)—my enthusiasm for maintaining what&#39;s now a more enterprise-focused [Digital Experience Platform](https://www.acquia.com/blog/what-digital-experience-platform-dxp) or &#39;DXP&#39; for a personal blog has waned.</source:markdown>
+      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
+      <guid>cid://https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/</guid>
+    </item>    <item>
+      <title>2025-12-30 Xobaque doesn’t know how to deal with missing pages</title>
+      <link>https://alexschroeder.ch/view/2025-12-30-xobaque</link>
+      <description>
+        <![CDATA[<h1 id="2025-12-30-xobaque-doesn-t-know-how-to-deal-with-missing-pages">2025-12-30 Xobaque doesn’t know how to deal with missing pages</h1>
+        
+        <p>I run a small number of search engine instances using <a href="Xobaque">Xobaque</a>. I haven&rsquo;t thought about what to do when sites move or disappear. Xobaque doesn&rsquo;t crawl the web so it doesn&rsquo;t know what&rsquo;s out there. All it knows is what the feeds bring in.</p>
+        
+        <p>When people move from one blog to another, they are unlikely to put their entire blog into their new feed on the new domain. Their feed might contain just the ten newest blog post. Eventually, those old posts are eventually orphaned in the Xobaque database. The articles can still be found but if the redirect chain stops working, the original articles can no longer be reached.</p>
+        
+        <p>And if people did provide an archive feed (see RFC 5005) that still wouldn&rsquo;t invalidate the old entries already in the database. The search engine would now show every result twice with one linking to the old blog post that&rsquo;s gone and with one linking to the new blog post.</p>
+        
+        <p>The search engine would need a &ldquo;tombstone&rdquo; feed full of links to posts to be deleted.</p>
+        
+        <p>Or, and to me that sounds like the worst solution, I start doing updates to the database by hand, writing SQL statements. That wouldn&rsquo;t work for long. So right now I&rsquo;m a bit at a loss. Any good ideas? I&rsquo;m sadly unaware of any sort of protocol that would allow this.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a> <a class="tag" href="/search/?q=%23Feeds">#Feeds</a></p>
+        
+        <p><strong>2026-01-03</strong>. <a class="account" href="https://toot.cat/@jamey" title="@jamey@toot.cat">@jamey</a> pointed me at <a href="https://www.rfc-editor.org/rfc/rfc6721.html">RFC 6721</a> which offers an Atom <code>deleted-entry</code> element. Probably nobody implements it, but at least it&rsquo;d be doable to script something: take an existing feed, translate all the links to deleted entries, feed that to Xobaque?</p>]]>
+      </description>
+      <source:markdown># 2025-12-30 Xobaque doesn’t know how to deal with missing pages
+
+I run a small number of search engine instances using [Xobaque](Xobaque). I haven’t thought about what to do when sites move or disappear. Xobaque doesn’t crawl the web so it doesn’t know what’s out there. All it knows is what the feeds bring in.
+
+When people move from one blog to another, they are unlikely to put their entire blog into their new feed on the new domain. Their feed might contain just the ten newest blog post. Eventually, those old posts are eventually orphaned in the Xobaque database. The articles can still be found but if the redirect chain stops working, the original articles can no longer be reached.
+
+And if people did provide an archive feed (see RFC 5005) that still wouldn’t invalidate the old entries already in the database. The search engine would now show every result twice with one linking to the old blog post that’s gone and with one linking to the new blog post.
+
+The search engine would need a “tombstone” feed full of links to posts to be deleted.
+
+Or, and to me that sounds like the worst solution, I start doing updates to the database by hand, writing SQL statements. That wouldn’t work for long. So right now I’m a bit at a loss. Any good ideas? I’m sadly unaware of any sort of protocol that would allow this.
+
+[#Xobaque](/search/?q=%23Xobaque) [#Feeds](/search/?q=%23Feeds)
+
+**2026-01-03**. [@jamey](https://toot.cat/@jamey &#34;@jamey@toot.cat&#34;) pointed me at [RFC 6721](https://www.rfc-editor.org/rfc/rfc6721.html) which offers an Atom `deleted-entry` element. Probably nobody implements it, but at least it’d be doable to script something: take an existing feed, translate all the links to deleted entries, feed that to Xobaque?</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2025-12-30-xobaque</guid>
+    </item>    <item>
+      <link>https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</link>
+      <description>
+        <![CDATA[<p>The Case for Blogging in the Ruins.</p>]]>
+      </description>
+      <source:markdown>The Case for Blogging in the Ruins.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/03/2368/</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/international/2026/01/trumps-critics-should-not-go-wobbly-over-venezuela/685487/?gift=f35zZN0v_gDFE8xNwlQAHQh6nk7RWoKztRCNqzAuOAM&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
+      <description>
+        <![CDATA[<p>David Frum: Trump’s Critics Are Falling Into an Obvious Trap.</p>]]>
+      </description>
+      <source:markdown>David Frum: Trump’s Critics Are Falling Into an Obvious Trap.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/03/2366/</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/115832415877792968</link>
+      <description>
+        <![CDATA[<p>No. Stop it.</p>]]>
+      </description>
+      <source:markdown>No. Stop it.</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/115832415877792968</guid>
+    </item>    <item>
+      <title>Why ChatGPT can’t be trusted with breaking news</title>
+      <link>https://garymarcus.substack.com/p/why-chatgpt-cant-be-trusted-with</link>
+      <description>
+        <![CDATA[A new case in point]]>
+      </description>
+      <source:markdown>A new case in point</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!SKCV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30cb03f2-bcef-4b9d-b0c4-7c08f102998d_1626x660.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/why-chatgpt-cant-be-trusted-with</guid>
+    </item>    <item>
+      <title>Manually Restoring Scroll Position on Reload with JavaScript</title>
+      <link>https://nora.codes/tutorial/manually-restoring-scroll-position-on-reload-with-javascript/</link>
+      <description>
+        <![CDATA[<p>I&rsquo;m working on another site, written directly in HTML and stitched together with
+        the C preprocessor (it&rsquo;s really quite ergonomic!) and using the excellent Python
+        package <a href="https://pypi.org/project/reloadserver/"><code>reloadserver</code></a> to automatically reload the pages in my
+        browser whenever I make changes.
+        Unfortunately, Firefox, at least, doesn&rsquo;t remember
+        and restore scroll position on reload, which may be the behavior one wants when
+        actually browsing, but is really annoying during the writing and design process.</p>]]>
+      </description>
+      <source:markdown>I’m working on another site, written directly in HTML and stitched together with
+the C preprocessor (it’s really quite ergonomic!) and using the excellent Python
+package [`reloadserver`](https://pypi.org/project/reloadserver/) to automatically reload the pages in my
+browser whenever I make changes.
+Unfortunately, Firefox, at least, doesn’t remember
+and restore scroll position on reload, which may be the behavior one wants when
+actually browsing, but is really annoying during the writing and design process.</source:markdown>
+      <guid>cid://https://nora.codes/tutorial/manually-restoring-scroll-position-on-reload-with-javascript/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115832038077137828</link>
+      <description>
+        <![CDATA[<p>Man the EU message on the Venezuelan oil raid is as disappointing as I have come to expect.</p><p>Just another side of the same coin.</p>]]>
+      </description>
+      <source:markdown>Man the EU message on the Venezuelan oil raid is as disappointing as I have come to expect.
+
+Just another side of the same coin.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115832038077137828</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/01/03.html#a160700</link>
+      <description>
+        <![CDATA[<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3mbjprtoj4s2d">On Bluesky</a>: I can't tell you how <b>tired</b> I am of copying and pasting the same text into five different silos. When will this ridiculous system that claims to be the web, get its shit together and start acting like the web (ie interop).]]>
+      </description>
+      <source:markdown>[On Bluesky](https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3mbjprtoj4s2d): I can&#39;t tell you how **tired** I am of copying and pasting the same text into five different silos. When will this ridiculous system that claims to be the web, get its shit together and start acting like the web (ie interop).</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/03.html#a160700</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115831932089006551</link>
       <description>
@@ -975,122 +1328,6 @@ nft -a list chain inet f2b-table f2b-chain \
       <source:markdown>![](https://imgs.scripting.com/2026/01/03/bushLooksLikeHegseth.png)Today feels like the day the war in Iraq began. Wars are easy to start, hard to end. They actually called Bush a &#34;visionary&#34; on MSNBC, they were so in awe of his courage, but that would end soon. And this time, no doubt Trump started the war with the approval of China and Russia, which will be left alone by the US in their conquest of Taiwan and Ukraine. Leaders of smaller countries must be wondering where they can hide from this. A very depressing moment. I&#39;ve lived through two voluntary wars by the US, first Vietnam, then the post-911 wars in Afghanistan and Iraq, and now this war.</source:markdown>
       <guid>cid://http://scripting.com/2026/01/03.html#a143152</guid>
     </item>    <item>
-      <title>2026-01-02 Xobaque does RFC 5005</title>
-      <link>https://alexschroeder.ch/view/2026-01-02-xobaque</link>
-      <description>
-        <![CDATA[<h1 id="2026-01-02-xobaque-does-rfc-5005">2026-01-02 Xobaque does RFC 5005</h1>
-        
-        <p>Very few blogs (this one?) support <a href="https://www.rfc-editor.org/rfc/rfc5005.html">RFC 5005</a> &ldquo;Feed Paging and Archiving&rdquo;.
-        <a href="Xobaque">Xobaque</a> is a search engine that doesn&rsquo;t crawl the web. It gets fed using feeds. That makes it the ideal companion for web rings, blog planets and the like. And I just added blog crawling using RFC 5005 to it.</p>
-        
-        <p>As long as Xobaque finds a &ldquo;next&rdquo; link, it&rsquo;ll continue following that chain. In order to not overwhelm sites, there&rsquo;s a 5s pause between these requests. I&rsquo;m still not sure how good this idea is. A site like my own with a bit more than 6000 blog pages takes over 50 hours to crawl. And a new crawl is started every 24 hours.</p>
-        
-        <p>In my particular case, the next run that reaches a year-page, however, would notice that it hasn&rsquo;t changed and stop. So I hope it&rsquo;s still OK?</p>
-        
-        <p>I think the next thing I&rsquo;d like to do is support sitemaps. I don&rsquo;t have one but all the Blogspot blogs have one. There are 277 Blogspot blogs on the <a href="https://campaignwiki.org/rpg">RPG Planet</a>.</p>
-        
-        <p>The problem with sitemaps, as far as I am concerned, is that you then need to request each and every page. It&rsquo;s not quite random crawling, but it&rsquo;s getting closer. 😭</p>
-        
-        <p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a> <a class="tag" href="/search/?q=%23Feeds">#Feeds</a></p>
-        
-        <p><strong>2026-01-03</strong>. There are four blogs on <a href="https://campaignwiki.org/rpg">Planet RPG</a> which don&rsquo;t allow Xobaque using <code>robots.txt</code>. I wonder if <a href="Jupiter">Planet Jupiter</a> &ndash; the software I use to aggregate all the feeeds &ndash; takes <code>robots.txt</code> into account? I wrote it so long ago I don&rsquo;t remember.</p>
-        
-        <p>As for the timeouts I&rsquo;ve been getting for Blogspot blogs and others, I think the problem is that their ASN is blocked as per my <a href="Butlerian_Jihad">Butlerian Jihad</a>. The <code>fail2ban</code> firewall chain needs an exception.</p>
-        
-        <p>List the handles:</p>
-        
-        <pre><code>nft -a list chain inet f2b-table f2b-chain
-        </code></pre>
-        
-        <p>Insert the new rule between accept list and <code>fail2ban</code> list:</p>
-        
-        <pre><code>nft insert rule inet f2b-table f2b-chain handle 110 \
-          ct state established,related accept \
-          comment &quot;accept responses to outgoing traffic&quot;
-        </code></pre>
-        
-        <p>Result:</p>
-        
-        <pre><code>table inet f2b-table {
-        	chain f2b-chain { # handle 1
-        		type filter hook input priority filter - 1; policy accept;
-        		tcp dport 0-65535 ip6 saddr @gotosocial6 accept # handle 12
-        		tcp dport 0-65535 ip saddr @gotosocial accept # handle 11
-        		tcp dport 0-65535 ip6 saddr @allowlist6 accept # handle 10
-        		tcp dport 0-65535 ip saddr @allowlist accept # handle 9
-        		ct state established,related accept comment &quot;accept responses to outgoing traffic&quot; # handle 161
-        		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad reject with icmp port-unreachable # handle 110
-        		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad reject with icmpv6 port-unreachable # handle 116
-        		tcp dport { 80, 443 } ip6 saddr @addr6-set-alex-apache reject with icmpv6 port-unreachable # handle 123
-        		tcp dport { 80, 443 } ip saddr @addr-set-alex-apache reject with icmp port-unreachable # handle 130
-        		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad-week reject with icmp port-unreachable # handle 136
-        		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad-week reject with icmpv6 port-unreachable # handle 142
-        		meta l4proto tcp ip6 saddr @addr6-set-recidive reject with icmpv6 port-unreachable # handle 148
-        		meta l4proto tcp ip saddr @addr-set-recidive reject with icmp port-unreachable # handle 154
-        	}
-        }
-        </code></pre>]]>
-      </description>
-      <source:markdown># 2026-01-02 Xobaque does RFC 5005
-
-Very few blogs (this one?) support [RFC 5005](https://www.rfc-editor.org/rfc/rfc5005.html) “Feed Paging and Archiving”.
-[Xobaque](Xobaque) is a search engine that doesn’t crawl the web. It gets fed using feeds. That makes it the ideal companion for web rings, blog planets and the like. And I just added blog crawling using RFC 5005 to it.
-
-As long as Xobaque finds a “next” link, it’ll continue following that chain. In order to not overwhelm sites, there’s a 5s pause between these requests. I’m still not sure how good this idea is. A site like my own with a bit more than 6000 blog pages takes over 50 hours to crawl. And a new crawl is started every 24 hours.
-
-In my particular case, the next run that reaches a year-page, however, would notice that it hasn’t changed and stop. So I hope it’s still OK?
-
-I think the next thing I’d like to do is support sitemaps. I don’t have one but all the Blogspot blogs have one. There are 277 Blogspot blogs on the [RPG Planet](https://campaignwiki.org/rpg).
-
-The problem with sitemaps, as far as I am concerned, is that you then need to request each and every page. It’s not quite random crawling, but it’s getting closer. 😭
-
-[#Xobaque](/search/?q=%23Xobaque) [#Feeds](/search/?q=%23Feeds)
-
-**2026-01-03**. There are four blogs on [Planet RPG](https://campaignwiki.org/rpg) which don’t allow Xobaque using `robots.txt`. I wonder if [Planet Jupiter](Jupiter) – the software I use to aggregate all the feeeds – takes `robots.txt` into account? I wrote it so long ago I don’t remember.
-
-As for the timeouts I’ve been getting for Blogspot blogs and others, I think the problem is that their ASN is blocked as per my [Butlerian Jihad](Butlerian_Jihad). The `fail2ban` firewall chain needs an exception.
-
-List the handles:
-
-```
-nft -a list chain inet f2b-table f2b-chain
-
-```
-
-Insert the new rule between accept list and `fail2ban` list:
-
-```
-nft insert rule inet f2b-table f2b-chain handle 110 \
-  ct state established,related accept \
-  comment &#34;accept responses to outgoing traffic&#34;
-
-```
-
-Result:
-
-```
-table inet f2b-table {
-	chain f2b-chain { # handle 1
-		type filter hook input priority filter - 1; policy accept;
-		tcp dport 0-65535 ip6 saddr @gotosocial6 accept # handle 12
-		tcp dport 0-65535 ip saddr @gotosocial accept # handle 11
-		tcp dport 0-65535 ip6 saddr @allowlist6 accept # handle 10
-		tcp dport 0-65535 ip saddr @allowlist accept # handle 9
-		ct state established,related accept comment &#34;accept responses to outgoing traffic&#34; # handle 161
-		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad reject with icmp port-unreachable # handle 110
-		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad reject with icmpv6 port-unreachable # handle 116
-		tcp dport { 80, 443 } ip6 saddr @addr6-set-alex-apache reject with icmpv6 port-unreachable # handle 123
-		tcp dport { 80, 443 } ip saddr @addr-set-alex-apache reject with icmp port-unreachable # handle 130
-		tcp dport 0-65535 ip saddr @addr-set-butlerian-jihad-week reject with icmp port-unreachable # handle 136
-		tcp dport 0-65535 ip6 saddr @addr6-set-butlerian-jihad-week reject with icmpv6 port-unreachable # handle 142
-		meta l4proto tcp ip6 saddr @addr6-set-recidive reject with icmpv6 port-unreachable # handle 148
-		meta l4proto tcp ip saddr @addr-set-recidive reject with icmp port-unreachable # handle 154
-	}
-}
-
-```</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2026-01-02-xobaque</guid>
-    </item>    <item>
       <link>https://www.theatlantic.com/international/2026/01/trumps-risky-war-in-venezuela/685485/?gift=f35zZN0v_gDFE8xNwlQAHeZk-sPfZg1nknGG1HnWJxY&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
       <description>
         <![CDATA[<p>Trump’s Risky War in Venezuela.</p>]]>
@@ -1141,20 +1378,6 @@ table inet f2b-table {
 
 — [Matt Webb](https://interconnected.org/home/2025/12/26/scraps)</source:markdown>
       <guid>cid://https://adactio.com/notes/22334</guid>
-    </item>    <item>
-      <title>The Case for Blogging in the Ruins</title>
-      <link>https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>Start a blog. Start one because the practice of writing at length, for an audience you respect, about things that matter to you, is itself valuable. Start one because owning your own platform is a form of independence that becomes more important as centralized platforms become less trustworthy. Start one because the format shapes the thought, and this format is good for thinking.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22333">adactio.com/links/22333</a></p>]]>
-      </description>
-      <source:markdown>&#62; Start a blog. Start one because the practice of writing at length, for an audience you respect, about things that matter to you, is itself valuable. Start one because owning your own platform is a form of independence that becomes more important as centralized platforms become less trustworthy. Start one because the format shapes the thought, and this format is good for thinking.
-
-[adactio.com/links/22333](https://adactio.com/links/22333)</source:markdown>
-      <guid>cid://https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</guid>
     </item>    <item>
       <title>What Will Happen in 2026? The Coffee Klatch for Saturday, January 3, 2026</title>
       <link>https://robertreich.substack.com/p/what-will-happen-in-2026-the-coffee</link>
@@ -1538,6 +1761,33 @@ In this video, Patrick (from STH) and I put Gateway through a real-world torture
 
 Jeff GeerlingJanuary 2, 2026</source:markdown>
       <guid>cid://3525 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>Testing the Mono Gateway, a custom-built 10 Gbps Router</title>
+      <link>https://www.jeffgeerling.com/blog/2026/testing-mono-gateway-custom-built-10-gbps-router/</link>
+      <description>
+        <![CDATA[<figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/testing-mono-gateway-custom-built-10-gbps-router/mono-gateway-router-hero.jpeg"
+         alt="Mono Gateway" width="700" height="auto">
+        </figure>
+        
+        <p>Last month, the stars aligned for me to bring the <a href="https://mono.si">Mono Gateway</a> (a 10 Gbps router that YouTuber <a href="https://www.youtube.com/@tomazzaman">Tomaž Zaman</a> and his team at Mono built from scratch) on a trip to Phoenix, and test it with one of the most OP network test boxes I've ever seen, at the <a href="https://www.servethehome.com">ServeTheHome</a> HQ.</p>
+        <p>In this video, Patrick (from STH) and I put Gateway through a real-world torture test using CyPerf:</p>
+        <div class="yt-embed">
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/3D5q3NWEMZY' frameborder='0' allowfullscreen></iframe></div>
+        </div>
+        <h2 id="mono-gateway">Mono Gateway</h2>
+        <p>The Gateway is a small (1U/desktop) router with features like a 4-core Arm CPU, 8GB of ECC LPDDR RAM, and decent expansion options for a compact router.</p>]]>
+      </description>
+      <source:markdown>![Mono Gateway](https://www.jeffgeerling.com/blog/2026/testing-mono-gateway-custom-built-10-gbps-router/mono-gateway-router-hero.jpeg)
+
+Last month, the stars aligned for me to bring the [Mono Gateway](https://mono.si) (a 10 Gbps router that YouTuber [Tomaž Zaman](https://www.youtube.com/@tomazzaman) and his team at Mono built from scratch) on a trip to Phoenix, and test it with one of the most OP network test boxes I&#39;ve ever seen, at the [ServeTheHome](https://www.servethehome.com) HQ.
+
+In this video, Patrick (from STH) and I put Gateway through a real-world torture test using CyPerf:
+
+## Mono Gateway
+
+The Gateway is a small (1U/desktop) router with features like a 4-core Arm CPU, 8GB of ECC LPDDR RAM, and decent expansion options for a compact router.</source:markdown>
+      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
+      <guid>cid://https://www.jeffgeerling.com/blog/2026/testing-mono-gateway-custom-built-10-gbps-router/</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115826118918156464</link>
       <description>
@@ -4964,38 +5214,6 @@ Tags: [bluesky](https://simonwillison.net/tags/bluesky), [ai-assisted-programmin
 La entrada [El costo de la masculinidad normativa: Close, Monster, Young Heart y las infancias interrumpidas](https://www.palomitademaiz.net/el-costo-de-la-masculinidad-normativa/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
       <guid>cid://https://www.palomitademaiz.net/?p=25861</guid>
     </item>    <item>
-      <title>2025-12-30 Xobaque doesn’t know how to deal with missing pages</title>
-      <link>https://alexschroeder.ch/view/2025-12-30-xobaque</link>
-      <description>
-        <![CDATA[<h1 id="2025-12-30-xobaque-doesn-t-know-how-to-deal-with-missing-pages">2025-12-30 Xobaque doesn’t know how to deal with missing pages</h1>
-        
-        <p>I run a small number of search engine instances using <a href="Xobaque">Xobaque</a>. I haven&rsquo;t thought about what to do when sites move or disappear. Xobaque doesn&rsquo;t crawl the web so it doesn&rsquo;t know what&rsquo;s out there. All it knows is what the feeds bring in.</p>
-        
-        <p>When people move from one blog to another, they are unlikely to put their entire blog into their new feed on the new domain. Their feed might contain just the ten newest blog post. Eventually, those old posts are eventually orphaned in the Xobaque database. The articles can still be found but if the redirect chain stops working, the original articles can no longer be reached.</p>
-        
-        <p>And if people did provide an archive feed (see RFC 5005) that still wouldn&rsquo;t invalidate the old entries already in the database. The search engine would now show every result twice with one linking to the old blog post that&rsquo;s gone and with one linking to the new blog post.</p>
-        
-        <p>The search engine would need a &ldquo;tombstone&rdquo; feed full of links to posts to be deleted.</p>
-        
-        <p>Or, and to me that sounds like the worst solution, I start doing updates to the database by hand, writing SQL statements. That wouldn&rsquo;t work for long. So right now I&rsquo;m a bit at a loss. Any good ideas? I&rsquo;m sadly unaware of any sort of protocol that would allow this.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a> <a class="tag" href="/search/?q=%23Feeds">#Feeds</a></p>]]>
-      </description>
-      <source:markdown># 2025-12-30 Xobaque doesn’t know how to deal with missing pages
-
-I run a small number of search engine instances using [Xobaque](Xobaque). I haven’t thought about what to do when sites move or disappear. Xobaque doesn’t crawl the web so it doesn’t know what’s out there. All it knows is what the feeds bring in.
-
-When people move from one blog to another, they are unlikely to put their entire blog into their new feed on the new domain. Their feed might contain just the ten newest blog post. Eventually, those old posts are eventually orphaned in the Xobaque database. The articles can still be found but if the redirect chain stops working, the original articles can no longer be reached.
-
-And if people did provide an archive feed (see RFC 5005) that still wouldn’t invalidate the old entries already in the database. The search engine would now show every result twice with one linking to the old blog post that’s gone and with one linking to the new blog post.
-
-The search engine would need a “tombstone” feed full of links to posts to be deleted.
-
-Or, and to me that sounds like the worst solution, I start doing updates to the database by hand, writing SQL statements. That wouldn’t work for long. So right now I’m a bit at a loss. Any good ideas? I’m sadly unaware of any sort of protocol that would allow this.
-
-[#Xobaque](/search/?q=%23Xobaque) [#Feeds](/search/?q=%23Feeds)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-12-30-xobaque</guid>
-    </item>    <item>
       <title>From Chaotic Learning to Intentional Growth</title>
       <link>https://cate.blog/2025/12/30/from-chaotic-learning-to-intentional-growth/</link>
       <description>
@@ -7652,6 +7870,27 @@ But many of the same caveats of the DGX Spark (namely, price to performance is n
 Jeff GeerlingDecember 26, 2025</source:markdown>
       <guid>cid://3524 at https://www.jeffgeerling.com</guid>
     </item>    <item>
+      <title>Dell&#39;s version of the DGX Spark fixes pain points</title>
+      <link>https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points/</link>
+      <description>
+        <![CDATA[<p>Dell sent me two of their GB10 mini workstations to test:</p>
+        <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points/dell-pro-max-gb10-two.jpeg"
+         alt="Dell Pro Max with GB10" width="700" height="394">
+        </figure>
+        
+        <p>In this blog post, I'll cover the base system, just one of the two nodes. Cluster testing is ongoing, and I'll cover things like AI model training and networking more in depth next year, likely with comparisons to the <a href="https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms">Framework Desktop cluster</a> and <a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5">Mac Studio cluster</a> I've also been testing.</p>
+        <p>But many of the same caveats of the DGX Spark (namely, price to performance is not great if you just want to run LLMs on a small desktop) apply to Dell's GB10 box as well.</p>]]>
+      </description>
+      <source:markdown>Dell sent me two of their GB10 mini workstations to test:
+
+![Dell Pro Max with GB10](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points/dell-pro-max-gb10-two.jpeg)
+
+In this blog post, I&#39;ll cover the base system, just one of the two nodes. Cluster testing is ongoing, and I&#39;ll cover things like AI model training and networking more in depth next year, likely with comparisons to the [Framework Desktop cluster](https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms) and [Mac Studio cluster](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5) I&#39;ve also been testing.
+
+But many of the same caveats of the DGX Spark (namely, price to performance is not great if you just want to run LLMs on a small desktop) apply to Dell&#39;s GB10 box as well.</source:markdown>
+      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
+      <guid>cid://https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points/</guid>
+    </item>    <item>
       <title>The AI bubble is all over now, baby blue</title>
       <link>https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby</link>
       <description>
@@ -9689,6 +9928,24 @@ This blog post is a lightly-edited transcript of my most recent YouTube video:
 Jeff GeerlingDecember 22, 2025</source:markdown>
       <guid>cid://3523 at https://www.jeffgeerling.com</guid>
     </item>    <item>
+      <title>NIST was 5 μs off UTC after last week&#39;s power cut</title>
+      <link>https://www.jeffgeerling.com/blog/2025/nist-was-5-%CE%BCs-utc-after-last-weeks-power-cut/</link>
+      <description>
+        <![CDATA[<p>If you were 5 microseconds late today, blame it on NIST.</p>
+        <p>Their facility in Boulder Colorado just had its power cut for multiple days. After a backup generator failed, their main ensemble clock lost track of UTC, or Universal Time Coordinated.</p>
+        <p>But even if you used the <a href="https://tf.nist.gov/tf-cgi/servers.cgi">NTP timing servers they run</a>, they were never off by more than 5 microseconds.</p>
+        <p>5 μs might seem insignificant. But it <em>is</em> significant for scientists and universities who rely on NIST's more <a href="https://wsts.atis.org/wp-content/uploads/2023/03/04-Judah-Levine.The-NIST-Fiber-Based-Time-Service.pdf">specialized timing signals</a>.</p>]]>
+      </description>
+      <source:markdown>If you were 5 microseconds late today, blame it on NIST.
+
+Their facility in Boulder Colorado just had its power cut for multiple days. After a backup generator failed, their main ensemble clock lost track of UTC, or Universal Time Coordinated.
+
+But even if you used the [NTP timing servers they run](https://tf.nist.gov/tf-cgi/servers.cgi), they were never off by more than 5 microseconds.
+
+5 μs might seem insignificant. But it _is_ significant for scientists and universities who rely on NIST&#39;s more [specialized timing signals](https://wsts.atis.org/wp-content/uploads/2023/03/04-Judah-Levine.The-NIST-Fiber-Based-Time-Service.pdf).</source:markdown>
+      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
+      <guid>cid://https://www.jeffgeerling.com/blog/2025/nist-was-5-%CE%BCs-utc-after-last-weeks-power-cut/</guid>
+    </item>    <item>
       <title>Using Claude in Chrome to navigate out the Cloudflare dashboard</title>
       <link>https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything</link>
       <description>
@@ -10536,7 +10793,7 @@ The fact that we were so strict about this rule also means that there’s actual
 **THE SENTENCES (PRESENTED IN CHRONOLOGICAL ORDER)**</source:markdown>
       <guid>cid://https://buttondown.com/humorouswriting/archive/some-favorite-sentences-of-2025/</guid>
     </item>    <item>
-      <title>I interviewed Claude and Gemini about my 2025 blog posts</title>
+      <title>[Experiment] I interviewed Claude and Gemini about my 2025 blog posts</title>
       <link>https://passo.uno/interview-claude-gemini-2025/</link>
       <description>
         <![CDATA[<p>I never posted so much as in 2025. Instead of analyzing my own blog production, I chose to interview Claude Opus 4.5 and Gemini Pro 3 about it and get their predictions for next year (with a surprise guest). They never said “You’re absolutely right”, which is reassuring. They were also quite humorous at times. I had a blast co-writing this with them.</p>]]>
@@ -11289,6 +11546,27 @@ The Raspberry Pi only has 1 lane of PCIe Gen 3 bandwidth available for a connect
 
 Jeff GeerlingDecember 20, 2025</source:markdown>
       <guid>cid://3521 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>Big GPUs don&#39;t need big PCs</title>
+      <link>https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs/</link>
+      <description>
+        <![CDATA[<figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs/raspberry-pi-egpu-vs-pc-gpu-setup.jpeg"
+         alt="Raspberry Pi eGPU vs PC GPU" width="700" height="394">
+        </figure>
+        
+        <p>Ever since I got <a href="https://www.jeffgeerling.com/blog/2025/using-amd-gpus-on-raspberry-pi-without-recompiling-linux">AMD</a>, <a href="https://www.jeffgeerling.com/blog/2025/all-intel-gpus-run-on-raspberry-pi-and-risc-v">Intel</a>, and <a href="https://www.jeffgeerling.com/blog/2025/nvidia-graphics-cards-work-on-pi-5-and-rockchip">Nvidia</a> graphics cards to run on a Raspberry Pi, I had a nagging question:</p>
+        <p><em>What's the point?</em></p>
+        <p>The Raspberry Pi only has 1 lane of PCIe Gen 3 bandwidth available for a connection to an eGPU. That's not much. Especially considering a modern desktop has at least one slot with 16 lanes of PCIe Gen 5 bandwidth. That's 8 GT/s versus 512 GT/s. Not a fair fight.</p>]]>
+      </description>
+      <source:markdown>![Raspberry Pi eGPU vs PC GPU](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs/raspberry-pi-egpu-vs-pc-gpu-setup.jpeg)
+
+Ever since I got [AMD](https://www.jeffgeerling.com/blog/2025/using-amd-gpus-on-raspberry-pi-without-recompiling-linux), [Intel](https://www.jeffgeerling.com/blog/2025/all-intel-gpus-run-on-raspberry-pi-and-risc-v), and [Nvidia](https://www.jeffgeerling.com/blog/2025/nvidia-graphics-cards-work-on-pi-5-and-rockchip) graphics cards to run on a Raspberry Pi, I had a nagging question:
+
+_What&#39;s the point?_
+
+The Raspberry Pi only has 1 lane of PCIe Gen 3 bandwidth available for a connection to an eGPU. That&#39;s not much. Especially considering a modern desktop has at least one slot with 16 lanes of PCIe Gen 5 bandwidth. That&#39;s 8 GT/s versus 512 GT/s. Not a fair fight.</source:markdown>
+      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
+      <guid>cid://https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs/</guid>
     </item>    <item>
       <title>Airbus to migrate critical apps to a sovereign Euro cloud</title>
       <link>https://werd.io/airbus-to-migrate-critical-apps-to-a-sovereign-euro-cloud/</link>
@@ -12652,6 +12930,24 @@ Apple gave me access to this Mac Studio cluster to test RDMA over Thunderbolt, a
 
 Jeff GeerlingDecember 18, 2025</source:markdown>
       <guid>cid://3522 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</title>
+      <link>https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/</link>
+      <description>
+        <![CDATA[<figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/mac-studio-cluster-1-hero.jpg"
+         alt="Mac Studio Cluster" width="700" height="394">
+        </figure>
+        
+        <p>Apple gave me access to this Mac Studio cluster to test RDMA over Thunderbolt, a <a href="https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt">new feature in macOS 26.2</a>. The easiest way to test it is with <a href="https://exolabs.net">Exo 1.0</a>, an open source private AI clustering tool. RDMA lets the Macs all act like they have one giant pool of RAM, which speeds up things like massive AI models.</p>
+        <p>The stack of Macs I tested, with 1.5 TB of unified memory, costs just shy of $40,000, and if you're wondering, no I cannot justify spending that much money for this. Apple loaned the Mac Studios for testing. I also have to thank DeskPi for sending over the 4-post mini rack containing the cluster.</p>]]>
+      </description>
+      <source:markdown>![Mac Studio Cluster](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/mac-studio-cluster-1-hero.jpg)
+
+Apple gave me access to this Mac Studio cluster to test RDMA over Thunderbolt, a [new feature in macOS 26.2](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt). The easiest way to test it is with [Exo 1.0](https://exolabs.net), an open source private AI clustering tool. RDMA lets the Macs all act like they have one giant pool of RAM, which speeds up things like massive AI models.
+
+The stack of Macs I tested, with 1.5 TB of unified memory, costs just shy of $40,000, and if you&#39;re wondering, no I cannot justify spending that much money for this. Apple loaned the Mac Studios for testing. I also have to thank DeskPi for sending over the 4-post mini rack containing the cluster.</source:markdown>
+      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
+      <guid>cid://https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115740920002018712</link>
       <description>
@@ -16931,494 +17227,6 @@ businesses, and mental health. We help people.”</source:markdown>
         <![CDATA[Track your Bluesky follower count over time]]>
       </description>
       <source:markdown>Track your Bluesky follower count over time</source:markdown>
-    </item>    <item>
-      <title>The core misconception that is driving American AI policy</title>
-      <link>https://garymarcus.substack.com/p/a-deeply-implausible-premise-is-behind</link>
-      <description>
-        <![CDATA[Why is President Trump, a man who barely knows how to use a laptop, taking such a big risk ramming through an AI policy that almost nobody, even in his own party, wants?]]>
-      </description>
-      <source:markdown>Why is President Trump, a man who barely knows how to use a laptop, taking such a big risk ramming through an AI policy that almost nobody, even in his own party, wants?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!xOXi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39be16f5-549f-4ac7-b398-85716920cc57_1206x463.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/a-deeply-implausible-premise-is-behind</guid>
-    </item>    <item>
-      <link>https://www.cjr.org/opinion/viktor-orban-hungary-press-freedom-blikk-kesma-indamedia.php</link>
-      <description>
-        <![CDATA[<p>Viktor Orbán’s Hail Mary.</p>]]>
-      </description>
-      <source:markdown>Viktor Orbán’s Hail Mary.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/13/2154/</guid>
-    </item>    <item>
-      <title>Shady Char­ac­ters advent calendar 2025: SPARKLES</title>
-      <link>https://shadycharacters.co.uk/2025/12/advent-calendar-2025-sparkles/</link>
-      <description>
-        <![CDATA[<p class="post-meta">Welcome to the 2025 <cite>Shady Characters</cite> advent calendar! I’ll be counting down to Christmas by way of ten of the most interesting, controversial, and downright odd emoji to have appeared on our screens. Enjoy, and come back every other day or so for a new entry!</p><a class="more-link" href="https://shadycharacters.co.uk/2025/12/advent-calendar-2025-sparkles/">Read more →</a>]]>
-      </description>
-      <source:markdown>Welcome to the 2025 Shady Characters advent calendar! I’ll be counting down to Christmas by way of ten of the most interesting, controversial, and downright odd emoji to have appeared on our screens. Enjoy, and come back every other day or so for a new entry!
-
- [Read more →](https://shadycharacters.co.uk/2025/12/advent-calendar-2025-sparkles/)</source:markdown>
-      <guid>cid://https://shadycharacters.co.uk/?p=5125</guid>
-    </item>    <item>
-      <link>https://www.metacritic.com/tv/mr-scorsese/</link>
-      <description>
-        <![CDATA[<p>Just started watching "Mr. Scorsese Reviews" on Apple TV and it's like getting inside the head that came up with all those movies, with scenes from the movies in there too. What a gift.</p>]]>
-      </description>
-      <source:markdown>Just started watching &#34;Mr. Scorsese Reviews&#34; on Apple TV and it&#39;s like getting inside the head that came up with all those movies, with scenes from the movies in there too. What a gift.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/13/2152/</guid>
-    </item>    <item>
-      <title>2025-12-13 Bad blocks</title>
-      <link>https://alexschroeder.ch/view/2025-12-13-bad-blocks</link>
-      <description>
-        <![CDATA[<h1 id="2025-12-13-bad-blocks">2025-12-13 Bad blocks</h1>
-        
-        <p>Today I ran Bork Backup again and it wouldn&rsquo;t finish:</p>
-        
-        <pre><code>&lt;some filename&gt;: read: [Errno 5] Input/output error
-        </code></pre>
-        
-        <p>I didn&rsquo;t know whether this was the disk in my laptop or the backup disk.</p>
-        
-        <pre><code>sudo grep -i &quot;I/O error&quot; /var/log/syslog
-        ...
-        2025-12-13T15:13:51.195642+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416128
-        2025-12-13T15:13:51.195912+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416129
-        2025-12-13T15:13:51.195924+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416130
-        2025-12-13T15:13:51.195935+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416131
-        2025-12-13T15:13:51.195938+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416132
-        2025-12-13T15:13:51.195942+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416133
-        2025-12-13T15:13:51.195946+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416134
-        2025-12-13T15:13:51.195950+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416135
-        2025-12-13T15:13:51.195954+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416136
-        2025-12-13T15:13:51.195958+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416137
-        ...
-        2025-12-13T15:20:40.667445+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116500
-        2025-12-13T15:20:40.667446+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116501
-        2025-12-13T15:20:40.667446+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116502
-        2025-12-13T15:20:40.667447+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116503
-        2025-12-13T15:20:40.667448+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116504
-        2025-12-13T15:20:40.667448+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116505
-        2025-12-13T15:20:40.667449+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116506
-        2025-12-13T15:20:40.667449+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116507
-        2025-12-13T15:20:40.667450+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116508
-        2025-12-13T15:20:40.667450+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116509
-        </code></pre>
-        
-        <p>The answer is that it is <code>/dev/sdb1</code> and that&rsquo;s the backup disk. Well, that&rsquo;s better than the laptop disk!</p>
-        
-        <p>The disk is so old it doesn&rsquo;t support <code>smartmon</code>, I think.</p>
-        
-        <p>So, let&rsquo;s unmount and check it:</p>
-        
-        <pre><code>sudo umount /dev/sdb1
-        sudo fsck /dev/sdb1
-        </code></pre>
-        
-        <p>The result of that was a single note:</p>
-        
-        <pre><code>fsck from util-linux 2.41
-        e2fsck 1.47.2 (1-Jan-2025)
-        Backup: recovering journal
-        Backup contains a file system with errors, check forced.
-        Pass 1: Checking inodes, blocks, and sizes
-        Pass 2: Checking directory structure
-        Pass 3: Checking directory connectivity
-        Pass 4: Checking reference counts
-        Pass 5: Checking group summary information
-        Free blocks count wrong (45388133, counted=45363123).
-        Fix&lt;y&gt;? yes
-        
-        Backup: ***** FILE SYSTEM WAS MODIFIED *****
-        Backup: 2912/91578368 files (0.2% non-contiguous), 320921165/366284288 blocks
-        </code></pre>
-        
-        <p>Now I&rsquo;m going to try and find the bad blocks and mark them:</p>
-        
-        <pre><code>sudo badblocks -sv /dev/sdb
-        </code></pre>
-        
-        <p>This is going to take a long time.</p>
-        
-        <p>The last time this happened to me was <a href="2006-07-09_Bad_Blocks_on_an_External_Drive">20 years ago</a>.</p>
-        
-        <p>In the mean time, I found that old 1 TB hard disk I still had lying around, formatted it, created an ext4 filesystem on it, went back to <a href="2025-01-31-backup">my old instructions</a> and added its ID to the backup disks, setup a new Borg repository and started a run.</p>
-        
-        <p>I think think I need to buy a new backup disk.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Backup">#Backup</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>]]>
-      </description>
-      <source:markdown># 2025-12-13 Bad blocks
-
-Today I ran Bork Backup again and it wouldn’t finish:
-
-```
-&#60;some filename&#62;: read: [Errno 5] Input/output error
-
-```
-
-I didn’t know whether this was the disk in my laptop or the backup disk.
-
-```
-sudo grep -i &#34;I/O error&#34; /var/log/syslog
-...
-2025-12-13T15:13:51.195642+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416128
-2025-12-13T15:13:51.195912+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416129
-2025-12-13T15:13:51.195924+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416130
-2025-12-13T15:13:51.195935+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416131
-2025-12-13T15:13:51.195938+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416132
-2025-12-13T15:13:51.195942+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416133
-2025-12-13T15:13:51.195946+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416134
-2025-12-13T15:13:51.195950+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416135
-2025-12-13T15:13:51.195954+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416136
-2025-12-13T15:13:51.195958+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 338416137
-...
-2025-12-13T15:20:40.667445+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116500
-2025-12-13T15:20:40.667446+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116501
-2025-12-13T15:20:40.667446+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116502
-2025-12-13T15:20:40.667447+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116503
-2025-12-13T15:20:40.667448+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116504
-2025-12-13T15:20:40.667448+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116505
-2025-12-13T15:20:40.667449+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116506
-2025-12-13T15:20:40.667449+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116507
-2025-12-13T15:20:40.667450+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116508
-2025-12-13T15:20:40.667450+01:00 melanobombus kernel: Buffer I/O error on device sdb1, logical block 340116509
-
-```
-
-The answer is that it is `/dev/sdb1` and that’s the backup disk. Well, that’s better than the laptop disk!
-
-The disk is so old it doesn’t support `smartmon`, I think.
-
-So, let’s unmount and check it:
-
-```
-sudo umount /dev/sdb1
-sudo fsck /dev/sdb1
-
-```
-
-The result of that was a single note:
-
-```
-fsck from util-linux 2.41
-e2fsck 1.47.2 (1-Jan-2025)
-Backup: recovering journal
-Backup contains a file system with errors, check forced.
-Pass 1: Checking inodes, blocks, and sizes
-Pass 2: Checking directory structure
-Pass 3: Checking directory connectivity
-Pass 4: Checking reference counts
-Pass 5: Checking group summary information
-Free blocks count wrong (45388133, counted=45363123).
-Fix&#60;y&#62;? yes
-
-Backup: ***** FILE SYSTEM WAS MODIFIED *****
-Backup: 2912/91578368 files (0.2% non-contiguous), 320921165/366284288 blocks
-
-```
-
-Now I’m going to try and find the bad blocks and mark them:
-
-```
-sudo badblocks -sv /dev/sdb
-
-```
-
-This is going to take a long time.
-
-The last time this happened to me was [20 years ago](2006-07-09_Bad_Blocks_on_an_External_Drive).
-
-In the mean time, I found that old 1 TB hard disk I still had lying around, formatted it, created an ext4 filesystem on it, went back to [my old instructions](2025-01-31-backup) and added its ID to the backup disks, setup a new Borg repository and started a run.
-
-I think think I need to buy a new backup disk.
-
-[#Backup](/search/?q=%23Backup) [#Administration](/search/?q=%23Administration)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-12-13-bad-blocks</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3m7v5ikkjac2q</link>
-      <description>
-        <![CDATA[I’m always inspired by the young people I meet through our @obamafoundation.bsky.social Voyagers and Scholars programs. Together, they’re creating change and tackling some of the world’s most pressing challenges.]]>
-      </description>
-      <source:markdown>I’m always inspired by the young people I meet through our @obamafoundation.bsky.social Voyagers and Scholars programs. Together, they’re creating change and tackling some of the world’s most pressing challenges.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3m7v5ikkjac2q</guid>
-    </item>    <item>
-      <title>Locked Out of Apple Account Due to Gift Card</title>
-      <link>https://mjtsai.com/blog/2025/12/13/locked-out-of-apple-account-due-to-gift-card/</link>
-      <description>
-        <![CDATA[Paris Buttfield-Addison (Bluesky, Hacker News, John Gruber): My Apple ID, which I have held for around 25 years (it was originally a username, before they had to be email addresses; it&#8217;s from the iTools era), has been permanently disabled. This isn&#8217;t just an email address; it is my core digital identity. It holds terabytes of [&#8230;]]]>
-      </description>
-      <source:markdown>Paris Buttfield-Addison (Bluesky, Hacker News, John Gruber): My Apple ID, which I have held for around 25 years (it was originally a username, before they had to be email addresses; it’s from the iTools era), has been permanently disabled. This isn’t just an email address; it is my core digital identity. It holds terabytes of \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=50437</guid>
-    </item>    <item>
-      <title>Pluralistic: Federal Wallet Inspectors (13 Dec 2025)</title>
-      <link>https://pluralistic.net/2025/12/13/uncle-sucker/</link>
-      <description>
-        <![CDATA[Today's links Federal Wallet Inspectors: Does tech *really* move too fast to regulate? Hey look at this: Delights to delectate. Object permanence: Soda can Van de Graff; Amazon rents a copy of the web; Boardgame Remix Kit; No furniture photos please we're British; Youtube vs fair use; Carbon offsets are bullshit; Arkham model railroad; Happy Birthday is in the public domain; Ted Cruz hires Cambridge Analytica; The kid who wanted to join the NSA; Daddy Daughter Xmas Podcast 2020. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Federal Wallet Inspectors (permalink) Look, I'm not trying to say that new technologies never raise gnarly new legal questions, but what I am saying is that a lot of the time, the "new legal challenges" raised by technology are somewhere between 95% to 100% bullshit, ginned up by none-too-bright tech bros and their investors, and then swallowed by regulators and lawmakers who are either so credulous they'd lose a game of peek-a-boo, or (likely) in on the scam. Take "fintech." As Trashfuture's Riley Quinn is fond of saying, "when you hear 'fintech,' think 'unregulated bank'": https://pluralistic.net/2022/03/02/shadow-banking-2-point-oh/#leverage I mean, the whole history of banking is: "Bankers think of a way to do reckless things that are wildly profitable (in the short term) and catastrophic (in the long term). They offer bribes and other corrupt incentives to their watchdogs to let them violate the rules, which leads to utter disaster." From the 19th century "panics" to the crash of '29 to the S&#38;L collapse to the 2008 Great Financial Crisis and beyond, this just keeps happening. Much of the time, the bankers involved have some tissue-thin explanation for why what they're doing isn't really a violation of the rules. Think of the lenders who, in the runup to the Great Financial Crisis, insisted that they weren't engaged in risky lending because they had a fancy equation that proved that the mortgage-backed securities they were issuing were all sound, and it was literally impossible that they'd all default at once. The fact that regulators were bamboozled by this is enraging. In hindsight (and for many of us at least, at the time), it's obvious that the bankers went to their watchdogs and said, "We'd like to break the law," and the watchdogs said, "Sure, but would you mind coming up with some excuse that I can repeat later when someone asks me why I let you do this crime?" It's like in the old days of medical marijuana, where you'd get on a call with a dial-a-doc and say, "Please can I have some weed?" and the doc would say, "Tell me about your headaches," and you'd say, "Uh, I have headaches?" and they'd say "Great, here's your weed!" The alternative is that these regulators are so bafflingly stupid that they can't be trusted to dress themselves. "My stablecoin is a fit financial instrument to integrate into the financial system" is as credible a wheeze as some crypto bro walking up to Cory Booker, flashing a homemade badge, and snapping out, "Federal Wallet Inspector, hand it over." I mean, at that point, I kind of hope they're corrupt, because the alternative is that they are basically a brainstem and a couple of eyestalks in a suit. What I'm saying is, "We just can't figure out if crypto is violating finance laws" is a statement that can only be attributed to someone very stupid, or in on the game. Speaking of "someone very stupid, or in on the game," Congress just killed a rule that would have guaranteed that the US military could repair its own materiel: https://federalnewsnetwork.com/congress/2025/12/congress-quietly-strips-right-to-repair-provisions-from-2026-ndaa-despite-wide-support/ Military right to repair is the most brainless of all possible no-brainers. When a generator breaks down in the field &#8211; even in an active war-zone &#8211; the US military has to ship it back to America to be serviced by the manufacturer. That's not because you can't train a Marine to fix a generator &#8211; it's because the contractual and technical restrictions that military contractors insist on ban the military from fixing its stuff: https://www.pogo.org/fact-sheets/fact-sheet-the-right-to-repair-for-the-united-states-military This violates a very old principle in sound military administration. Abraham Lincoln insisted that the contractors who supplied the Union army had to use standardized tooling and ammo, because it would be very embarrassing for the Commander-in-Chief to have to stand on the field at Gettysburg with a megaphone and shout, "Sorry boys, war's canceled this week, our sole supplier's gone on vacation." And yet, after mergers of large military contractors resulted in just a handful of "primary" companies serving the Pentagon, private equity vampires snapped up all the subcontractors who were sole-source suppliers of parts to those giants. They slashed the prices of those parts so that the primary contractors used as many as possible in the materiel they provided to the US DoD, and then raised the prices of replacement parts, some with 10,000% margins, which the Pentagon now has to pay for so long as they own those jets and other big-ticket items: https://pluralistic.net/2021/01/29/fractal-bullshit/#dayenu This isn't a complicated scam. It's super straightforward, and the right to repair rule that Congress killed addressed it head on. But Congressional enemies of this bill insisted that it would have untold "unintended consequences" and instead passed a complex rule, riddled with loopholes, because there was something unique and subtle about the blunt issue of price-gouging: https://www.warren.senate.gov/imo/media/doc/final_-_warren_letter_to_dod_re_right_to_repair_consequences_092524.pdf Either these lawmakers are so stupid that they fell for the ole "Federal Wallet Inspector" gambit, or they're in on the game. I know which explanation my money is on. Maybe this has already occurred to you, but lately I've come to realize that there's another dimension to this, a way in which critics of tech help this gambit along. After all, it's pretty common for tech critics to preface their critiques with words to the effect of, "Of course, this technology has raced ahead of regulators' ability to keep pace with it. Those dastardly tech-bros have slipped the net once again!" The unspoken (and sometimes very loudly spoken) corollary of this is, "Only a tech-critic as perspicacious and forward looking as me is capable of matching wits with those slippery tech-bros, and I have formulated a sui generis policy prescription that can head them off at the pass." Take the problem of deepfakes, including deepfake porn. There's a pretty straightforward policy response to this: a privacy law that allows you to prevent the abuse of your private information (including to create deepfakes) that unlawfully process your personal information for an illegitimate purpose. To make sure that this law can be enforced, include a "private right of action," which means that individuals can sue to enforce it (and activist orgs and no-win/no-fee lawyers can sue on their behalf). That way, you can get justice even if the state Attorney General or the federal Department of Justice decides not to take your case. Privacy law is a great idea. It can navigate nuances, like the fact that privacy is collective, not individual &#8211; for example, it can intervene when your family members give their (your) DNA to a scam like 23andme, or when a friend posts photos of you online: https://jacobin.com/2021/05/cory-doctorow-interview-bill-gates-intellectual-property But privacy law gets a bad rap. In the EU, they've had the GDPR &#8211; a big, muscular privacy law &#8211; for nine years, and all it's really done is drown the continent in cookie-consent pop-ups. But that's not because the GDPR is flawed, it's because Ireland is a tax-haven that has lured in the world's worst corporate privacy-violators, and to keep them from moving to another tax haven (like Malta or Cyprus or Luxembourg), it has to turn itself into a crime-haven. So for the entire life of the GDPR, all the important privacy cases in Europe have gone to Ireland, and died there: https://pluralistic.net/2025/12/01/erin-go-blagged/#big-tech-omerta Now, again, this isn't a complicated technical question that is hard to resolve through regulation. It's just boring old corruption. I'm not saying that corruption is easy to solve, but I am saying that it's not complicated. Irish politicians made the country's economy dependent on the Irish state facilitating criminal activity by American firms. The EU doesn't want to provoke a constitutional crisis by forcing Ireland (and the EU's other crime-havens) to halt this behavior. That's a hard thing to do! It's just not a complicated thing to do. The routine violations of EU privacy law by American tech companies aren't the result of "tech racing ahead of the law." It's just corruption. You can't fix corruption by passing more laws; they'll just be corruptly enforced, too. But thanks to a mix of bad incentives &#8211; politicians wanting to be seen to do something without actually upsetting the apple-cart; AI critics wanting to inflate their importance by claiming that they're fighting something novel and complex, as opposed to something that's merely boring and hard &#8211; we get policy proposals that will likely worsen the problem. Take Denmark's decision to fight deepfakes by creating a new copyright over your likeness: https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence Copyright &#8211; a property right &#8211; is an incredibly bad way to deal with human rights like privacy. For one thing, it makes privacy into a luxury good that only the wealthy can afford (remember, a discount for clicking through a waiver of your privacy right is the same thing as an extra charge for not waiving your privacy rights). For another, property rights are very poorly suited to managing things that have joint ownership, such as private information. As soon as you turn private information into private property, you have to answer questions like, "Which twin owns the right to their face" and "Who owns the right to the fact that your abusive mother is your mother &#8211; you, or her? And if it's her, does she get to stop you from publishing a memoir about the abuse?" Copyright &#8211; a state-backed transferable monopoly over expression &#8211; is really hard to get right. Legislatures and courts have struggled to balance free expression and copyright for centuries, and there's a complex web of "limitations and exceptions" to copyright. Privacy is also incredibly complex, and has its own limitations and exceptions, and they are very different from copyright's limits. I mean, they have to be: privacy rules defend your human right to a personal zone of autonomy; copyright is intended to create economic incentives to produce new creative works. It would be very weird if the same rules served both ends. I can't believe that Denmark's legislators failed to consider privacy as the solution to deepfakes. If they did, they are very, very stupid. Rather, they decided that fighting the corruption that keeps privacy law from being enforced in the EU was too hard, so they just did something performative, creating a raft of new problems, without solving the old one. Here in the USA, there's lots of lawmakers who are falling into this trap. Take the response to chatbots that give harmful advice to children and teens. The answer that many American politicians (as well as lawmakers abroad, in Australia, Canada, the UK and elsewhere) have come up with is to force AI companies to identify who is and is not a child and treat them differently. This boils down to a requirement for AI companies to collect much more information on their users (to establish their age), which means that all the AI harms that stem from privacy violations (AI algorithms that steal wages, hike prices, discriminate in hiring and lending and policing, etc) are now even harder to stop. A simple alternative to this would be updating privacy law to limit how AI companies can gather and use everyone's data &#8211; which would mean that you could protect kids from privacy invasions without (paradoxically) requiring them (and you) to disclose all kinds of private information to determine how old they are. The insistence &#8211; by AI critics and AI boosters &#8211; that AI is so different from other technologies that you can't address it by limiting the collection, retention and processing of private information is a way in which AI critics and AI hucksters end up colluding to promote a view of AI as an exceptional technology. It's not. AI is a normal technology: https://www.aisnakeoil.com/p/ai-as-normal-technology Sometimes this argument descends into grimly hilarious parody. Argue for limits on AI companies' collection, retention and processing of private information and AI boosters will tell you that this would require so much labor-intensive discernment about training data that it would make it impossible to continue training AI until it becomes intelligent enough to solve all our problems. But also, when you press the issue, they'll sometimes say that AI is already so "intelligent" that it can derive (that is, guess) private information about you without needing your data, so a new privacy law won't help. In other words, applying privacy limitations to AI means we'll never get a "superintelligence,"; and also, we already have a superintelligence so there's no point in applying privacy limitations to AI. It's true that technology can give rise to novel regulatory challenges, but it's also true that claiming that a technology is so novel that existing regulation can't resolve its problems is just a way of buying time to commit more crimes before the regulators finally realize that your flashy new technology is just a boring old scam. Hey look at this (permalink) Every Drink in “Casablanca” (1942) https://bruces.medium.com/every-drink-in-casablanca-1942-348e7c543810 clbre is a fork of calibre with the aim of stripping out the AI integration https://github.com/grimthorpe/clbre EU Report Distills AI-Training Lessons from Napster Piracy Era: Don’t Sue, License https://torrentfreak.com/eu-report-distills-ai-training-lessons-from-napster-piracy-era-dont-sue-license/ Rebuilding Imaginary Futures: Il Versificatore, 2025 https://bruces.medium.com/rebuilding-imaginary-futures-il-versificatore-2025-3178a12be2aa John Varley, 1947-2025 https://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html Object permanence (permalink) #20yrsago Americans smile, Brits grimace? https://www.nytimes.com/2005/12/11/magazine/national-smiles.html #20yrsago HOWTO make a soda-can Van de Graaf https://scitoys.com/scitoys/scitoys/electro/electro6.html #20yrsago Credit-card-sized USB drive https://web.archive.org/web/20051214084824/http://walletex.com/ #20yrsago Homeland Security: Mini-golf courses are terrorist targets https://web.archive.org/web/20060215153821/https://www.kron.com/Global/story.asp?S=4226663 #20yrsago Amazon rents access to a copy of the Web https://battellemedia.com/archives/2005/12/alexa_make_that_amazon_looks_to_change_the_game #15yrsago Pornoscanners trivially defeated by pancake-shaped explosives https://web.archive.org/web/20101225211840/http://springerlink.com/content/g6620thk08679160/fulltext.pdf #10yrsago HO fhtagn! Detailed model railroad layout recreates HP Lovecraft’s Arkham https://web.archive.org/web/20131127042302/http://www.ottgallery.com/MRR.html #10yrsago Suicide rates are highest in spring — not around Christmas https://www.theatlantic.com/health/archive/2015/12/no-suicides-dont-rise-during-the-holidays/419436/ #10yrsago Airbnb hosts consistently discriminate against black people https://www.benedelman.org/publications/airbnb-011014.pdf #10yrsago What will it take to get MIT to stand up for its own students and researchers? https://www.youtube.com/watch?v=cQdl_JdTars #10yrsago Experts baffled to learn that 2 years olds are being prescribed psychiatric drugs https://www.nytimes.com/2015/12/11/us/psychiatric-drugs-are-being-prescribed-to-infants.html?_r=0 #10yrsago Happy Birthday’s copyright status is finally, mysteriously settled https://www.nytimes.com/2015/12/10/business/media/happy-birthday-copyright-case-reaches-a-settlement.html?_r=0 #10yrsago Proposal: keep the nuclear launch codes in an innocent volunteer’s chest-cavity https://blog.nuclearsecrecy.com/2012/09/19/the-heart-of-deterrence/ #10yrsago Obama promises statement on encryption before Xmas (maybe) https://web.archive.org/web/20151211042128/https://www.dailydot.com/politics/white-house-encryption-policy-response-petition/ #10yrsago Harlem Cryptoparty: Crypto matters for #blacklivesmatter https://web.archive.org/web/20151218183924/https://motherboard.vice.com/read/the-black-community-needs-encryption #10yrsago Backslash: a toolkit for protesters facing hyper-militarized, surveillance-heavy police https://arstechnica.com/tech-policy/2015/12/backslash-anti-surveillance-gadgets-for-protesters/ #10yrsago Ted Cruz campaign hires dirty data-miners who slurped up millions of Facebook users’ data https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-president-campaign-facebook-user-data #10yrsago The Tor Project has a new executive director: former EFF director Shari Steele! https://blog.torproject.org/greetings-tors-new-executive-director/ #10yrsago What I told the kid who wanted to join the NSA https://www.theguardian.com/us-news/2015/dec/11/west-point-cybersecurity-nsa-privacy-edward-snowden #10yrsago Copyfraud: Disney’s bogus complaint over toy photo gets a fan kicked off Facebook https://arstechnica.com/tech-policy/2015/12/disney-initially-drops-then-doubles-down-on-dmca-claim-over-star-wars-figure-pic/ #15yrsago Sales pitch from an ATM-skimmer vendor https://krebsonsecurity.com/2010/12/why-gsm-based-atm-skimmers-rule/ #15yrsago Boardgame Remix Kit makes inspired new games out of old Monopoly, Clue, Trivial Pursuit and Scrabble sets https://web.archive.org/web/20101214210548/http://www.boardgame-remix-kit.com/sample/boardgame-remix-kit-sample.pdf #10yrsago Britons will need copyright licenses to post photos of their own furniture https://arstechnica.com/tech-policy/2015/12/you-may-soon-need-a-licence-to-take-photos-of-that-classic-designer-chair-you-bought/ #5yrsago Outgoing Facebookers blast the company https://pluralistic.net/2020/12/12/fairy-use-tale/#badge-posts #5yrsago Carbon offsets are bullshit https://pluralistic.net/2020/12/12/fairy-use-tale/#greenwashing #5yrsago Youtube, fair use, competition, and the death of the artist https://pluralistic.net/2020/12/12/fairy-use-tale/#content-id #5yrsago A lethally boring story https://pluralistic.net/2020/12/11/number-eight/#erisa #5yrsago Daddy Daughter Xmas Podcast 2020 https://pluralistic.net/2020/12/11/number-eight/#youll-go-down-in-mystery #5yrsago Antitrust and Facebook's paid disinformation https://pluralistic.net/2020/12/11/number-eight/#curse-of-bigness #1yrago The housing emergency and the second Trump term https://pluralistic.net/2024/12/11/nimby-yimby-fimby/#home-team-advantage #1yrago A Democratic media strategy to save journalism and the nation https://pluralistic.net/2024/12/12/the-view-from-somewhere/#abolish-rogan Upcoming appearances (permalink) Hamburg: Chaos Communications Congress, Dec 27-30 https://events.ccc.de/congress/2025/infos/index.html Denver: Enshittification at Tattered Cover Colfax, Jan 22 https://www.eventbrite.com/e/cory-doctorow-live-at-tattered-cover-colfax-tickets-1976644174937 Colorado Springs: Guest of Honor at COSine, Jan 23-25 https://www.firstfridayfandom.org/cosine/ Recent appearances (permalink) How to Stop “Ensh*ttification” Before It Kills the Internet (Capitalisn't) https://www.youtube.com/watch?v=34gkIvYiHxU Enshittification on The Daily Show https://www.youtube.com/watch?v=d2e-c9SF5nE Enshittification with Four Ways to Change the World (Channel 4) https://www.youtube.com/watch?v=tZQaEeuuI3Q The Plan is to Make the Internet Worse. Forever. (Novarra Media) https://www.youtube.com/watch?v=7wE8G-d7SnY Enshittification (Future Knowledge) https://futureknowledge.transistor.fm/episodes/enshittification Latest books (permalink) "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2026 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2026 "The Memex Method," Farrar, Straus, Giroux, 2026 "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 Colophon (permalink) Today's top sources: Currently writing: "The Reverse Centaur's Guide to AI," a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. "The Post-American Internet," a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Medium (no ads, paywalled): https://doctorow.medium.com/ Twitter (mass-scale, unrestricted, third-party surveillance and advertising): https://twitter.com/doctorow Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
-      </description>
-      <source:markdown>Today&#39;s links Federal Wallet Inspectors: Does tech \*really\* move too fast to regulate? Hey look at this: Delights to delectate. Object permanence: Soda can Van de Graff; Amazon rents a copy of the web; Boardgame Remix Kit; No furniture photos please we&#39;re British; Youtube vs fair use; Carbon offsets are bullshit; Arkham model railroad; Happy Birthday is in the public domain; Ted Cruz hires Cambridge Analytica; The kid who wanted to join the NSA; Daddy Daughter Xmas Podcast 2020. Upcoming appearances: Where to find me. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Federal Wallet Inspectors (permalink) Look, I&#39;m not trying to say that new technologies never raise gnarly new legal questions, but what I am saying is that a lot of the time, the &#34;new legal challenges&#34; raised by technology are somewhere between 95% to 100% bullshit, ginned up by none-too-bright tech bros and their investors, and then swallowed by regulators and lawmakers who are either so credulous they&#39;d lose a game of peek-a-boo, or (likely) in on the scam. Take &#34;fintech.&#34; As Trashfuture&#39;s Riley Quinn is fond of saying, &#34;when you hear &#39;fintech,&#39; think &#39;unregulated bank&#39;&#34;: https://pluralistic.net/2022/03/02/shadow-banking-2-point-oh/#leverage I mean, the whole history of banking is: &#34;Bankers think of a way to do reckless things that are wildly profitable (in the short term) and catastrophic (in the long term). They offer bribes and other corrupt incentives to their watchdogs to let them violate the rules, which leads to utter disaster.&#34; From the 19th century &#34;panics&#34; to the crash of &#39;29 to the S&#38;L collapse to the 2008 Great Financial Crisis and beyond, this just keeps happening. Much of the time, the bankers involved have some tissue-thin explanation for why what they&#39;re doing isn&#39;t really a violation of the rules. Think of the lenders who, in the runup to the Great Financial Crisis, insisted that they weren&#39;t engaged in risky lending because they had a fancy equation that proved that the mortgage-backed securities they were issuing were all sound, and it was literally impossible that they&#39;d all default at once. The fact that regulators were bamboozled by this is enraging. In hindsight (and for many of us at least, at the time), it&#39;s obvious that the bankers went to their watchdogs and said, &#34;We&#39;d like to break the law,&#34; and the watchdogs said, &#34;Sure, but would you mind coming up with some excuse that I can repeat later when someone asks me why I let you do this crime?&#34; It&#39;s like in the old days of medical marijuana, where you&#39;d get on a call with a dial-a-doc and say, &#34;Please can I have some weed?&#34; and the doc would say, &#34;Tell me about your headaches,&#34; and you&#39;d say, &#34;Uh, I have headaches?&#34; and they&#39;d say &#34;Great, here&#39;s your weed!&#34; The alternative is that these regulators are so bafflingly stupid that they can&#39;t be trusted to dress themselves. &#34;My stablecoin is a fit financial instrument to integrate into the financial system&#34; is as credible a wheeze as some crypto bro walking up to Cory Booker, flashing a homemade badge, and snapping out, &#34;Federal Wallet Inspector, hand it over.&#34; I mean, at that point, I kind of hope they&#39;re corrupt, because the alternative is that they are basically a brainstem and a couple of eyestalks in a suit. What I&#39;m saying is, &#34;We just can&#39;t figure out if crypto is violating finance laws&#34; is a statement that can only be attributed to someone very stupid, or in on the game. Speaking of &#34;someone very stupid, or in on the game,&#34; Congress just killed a rule that would have guaranteed that the US military could repair its own materiel: https://federalnewsnetwork.com/congress/2025/12/congress-quietly-strips-right-to-repair-provisions-from-2026-ndaa-despite-wide-support/ Military right to repair is the most brainless of all possible no-brainers. When a generator breaks down in the field – even in an active war-zone – the US military has to ship it back to America to be serviced by the manufacturer. That&#39;s not because you can&#39;t train a Marine to fix a generator – it&#39;s because the contractual and technical restrictions that military contractors insist on ban the military from fixing its stuff: https://www.pogo.org/fact-sheets/fact-sheet-the-right-to-repair-for-the-united-states-military This violates a very old principle in sound military administration. Abraham Lincoln insisted that the contractors who supplied the Union army had to use standardized tooling and ammo, because it would be very embarrassing for the Commander-in-Chief to have to stand on the field at Gettysburg with a megaphone and shout, &#34;Sorry boys, war&#39;s canceled this week, our sole supplier&#39;s gone on vacation.&#34; And yet, after mergers of large military contractors resulted in just a handful of &#34;primary&#34; companies serving the Pentagon, private equity vampires snapped up all the subcontractors who were sole-source suppliers of parts to those giants. They slashed the prices of those parts so that the primary contractors used as many as possible in the materiel they provided to the US DoD, and then raised the prices of replacement parts, some with 10,000% margins, which the Pentagon now has to pay for so long as they own those jets and other big-ticket items: https://pluralistic.net/2021/01/29/fractal-bullshit/#dayenu This isn&#39;t a complicated scam. It&#39;s super straightforward, and the right to repair rule that Congress killed addressed it head on. But Congressional enemies of this bill insisted that it would have untold &#34;unintended consequences&#34; and instead passed a complex rule, riddled with loopholes, because there was something unique and subtle about the blunt issue of price-gouging: https://www.warren.senate.gov/imo/media/doc/final\_-\_warren\_letter\_to\_dod\_re\_right\_to\_repair\_consequences\_092524.pdf Either these lawmakers are so stupid that they fell for the ole &#34;Federal Wallet Inspector&#34; gambit, or they&#39;re in on the game. I know which explanation my money is on. Maybe this has already occurred to you, but lately I&#39;ve come to realize that there&#39;s another dimension to this, a way in which critics of tech help this gambit along. After all, it&#39;s pretty common for tech critics to preface their critiques with words to the effect of, &#34;Of course, this technology has raced ahead of regulators&#39; ability to keep pace with it. Those dastardly tech-bros have slipped the net once again!&#34; The unspoken (and sometimes very loudly spoken) corollary of this is, &#34;Only a tech-critic as perspicacious and forward looking as me is capable of matching wits with those slippery tech-bros, and I have formulated a sui generis policy prescription that can head them off at the pass.&#34; Take the problem of deepfakes, including deepfake porn. There&#39;s a pretty straightforward policy response to this: a privacy law that allows you to prevent the abuse of your private information (including to create deepfakes) that unlawfully process your personal information for an illegitimate purpose. To make sure that this law can be enforced, include a &#34;private right of action,&#34; which means that individuals can sue to enforce it (and activist orgs and no-win/no-fee lawyers can sue on their behalf). That way, you can get justice even if the state Attorney General or the federal Department of Justice decides not to take your case. Privacy law is a great idea. It can navigate nuances, like the fact that privacy is collective, not individual – for example, it can intervene when your family members give their (your) DNA to a scam like 23andme, or when a friend posts photos of you online: https://jacobin.com/2021/05/cory-doctorow-interview-bill-gates-intellectual-property But privacy law gets a bad rap. In the EU, they&#39;ve had the GDPR – a big, muscular privacy law – for nine years, and all it&#39;s really done is drown the continent in cookie-consent pop-ups. But that&#39;s not because the GDPR is flawed, it&#39;s because Ireland is a tax-haven that has lured in the world&#39;s worst corporate privacy-violators, and to keep them from moving to another tax haven (like Malta or Cyprus or Luxembourg), it has to turn itself into a crime-haven. So for the entire life of the GDPR, all the important privacy cases in Europe have gone to Ireland, and died there: https://pluralistic.net/2025/12/01/erin-go-blagged/#big-tech-omerta Now, again, this isn&#39;t a complicated technical question that is hard to resolve through regulation. It&#39;s just boring old corruption. I&#39;m not saying that corruption is easy to solve, but I am saying that it&#39;s not complicated. Irish politicians made the country&#39;s economy dependent on the Irish state facilitating criminal activity by American firms. The EU doesn&#39;t want to provoke a constitutional crisis by forcing Ireland (and the EU&#39;s other crime-havens) to halt this behavior. That&#39;s a hard thing to do! It&#39;s just not a complicated thing to do. The routine violations of EU privacy law by American tech companies aren&#39;t the result of &#34;tech racing ahead of the law.&#34; It&#39;s just corruption. You can&#39;t fix corruption by passing more laws; they&#39;ll just be corruptly enforced, too. But thanks to a mix of bad incentives – politicians wanting to be seen to do something without actually upsetting the apple-cart; AI critics wanting to inflate their importance by claiming that they&#39;re fighting something novel and complex, as opposed to something that&#39;s merely boring and hard – we get policy proposals that will likely worsen the problem. Take Denmark&#39;s decision to fight deepfakes by creating a new copyright over your likeness: https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence Copyright – a property right – is an incredibly bad way to deal with human rights like privacy. For one thing, it makes privacy into a luxury good that only the wealthy can afford (remember, a discount for clicking through a waiver of your privacy right is the same thing as an extra charge for not waiving your privacy rights). For another, property rights are very poorly suited to managing things that have joint ownership, such as private information. As soon as you turn private information into private property, you have to answer questions like, &#34;Which twin owns the right to their face&#34; and &#34;Who owns the right to the fact that your abusive mother is your mother – you, or her? And if it&#39;s her, does she get to stop you from publishing a memoir about the abuse?&#34; Copyright – a state-backed transferable monopoly over expression – is really hard to get right. Legislatures and courts have struggled to balance free expression and copyright for centuries, and there&#39;s a complex web of &#34;limitations and exceptions&#34; to copyright. Privacy is also incredibly complex, and has its own limitations and exceptions, and they are very different from copyright&#39;s limits. I mean, they have to be: privacy rules defend your human right to a personal zone of autonomy; copyright is intended to create economic incentives to produce new creative works. It would be very weird if the same rules served both ends. I can&#39;t believe that Denmark&#39;s legislators failed to consider privacy as the solution to deepfakes. If they did, they are very, very stupid. Rather, they decided that fighting the corruption that keeps privacy law from being enforced in the EU was too hard, so they just did something performative, creating a raft of new problems, without solving the old one. Here in the USA, there&#39;s lots of lawmakers who are falling into this trap. Take the response to chatbots that give harmful advice to children and teens. The answer that many American politicians (as well as lawmakers abroad, in Australia, Canada, the UK and elsewhere) have come up with is to force AI companies to identify who is and is not a child and treat them differently. This boils down to a requirement for AI companies to collect much more information on their users (to establish their age), which means that all the AI harms that stem from privacy violations (AI algorithms that steal wages, hike prices, discriminate in hiring and lending and policing, etc) are now even harder to stop. A simple alternative to this would be updating privacy law to limit how AI companies can gather and use everyone&#39;s data – which would mean that you could protect kids from privacy invasions without (paradoxically) requiring them (and you) to disclose all kinds of private information to determine how old they are. The insistence – by AI critics and AI boosters – that AI is so different from other technologies that you can&#39;t address it by limiting the collection, retention and processing of private information is a way in which AI critics and AI hucksters end up colluding to promote a view of AI as an exceptional technology. It&#39;s not. AI is a normal technology: https://www.aisnakeoil.com/p/ai-as-normal-technology Sometimes this argument descends into grimly hilarious parody. Argue for limits on AI companies&#39; collection, retention and processing of private information and AI boosters will tell you that this would require so much labor-intensive discernment about training data that it would make it impossible to continue training AI until it becomes intelligent enough to solve all our problems. But also, when you press the issue, they&#39;ll sometimes say that AI is already so &#34;intelligent&#34; that it can derive (that is, guess) private information about you without needing your data, so a new privacy law won&#39;t help. In other words, applying privacy limitations to AI means we&#39;ll never get a &#34;superintelligence,&#34;; and also, we already have a superintelligence so there&#39;s no point in applying privacy limitations to AI. It&#39;s true that technology can give rise to novel regulatory challenges, but it&#39;s also true that claiming that a technology is so novel that existing regulation can&#39;t resolve its problems is just a way of buying time to commit more crimes before the regulators finally realize that your flashy new technology is just a boring old scam. Hey look at this (permalink) Every Drink in “Casablanca” (1942) https://bruces.medium.com/every-drink-in-casablanca-1942-348e7c543810 clbre is a fork of calibre with the aim of stripping out the AI integration https://github.com/grimthorpe/clbre EU Report Distills AI-Training Lessons from Napster Piracy Era: Don’t Sue, License https://torrentfreak.com/eu-report-distills-ai-training-lessons-from-napster-piracy-era-dont-sue-license/ Rebuilding Imaginary Futures: Il Versificatore, 2025 https://bruces.medium.com/rebuilding-imaginary-futures-il-versificatore-2025-3178a12be2aa John Varley, 1947-2025 https://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html Object permanence (permalink) #20yrsago Americans smile, Brits grimace? https://www.nytimes.com/2005/12/11/magazine/national-smiles.html #20yrsago HOWTO make a soda-can Van de Graaf https://scitoys.com/scitoys/scitoys/electro/electro6.html #20yrsago Credit-card-sized USB drive https://web.archive.org/web/20051214084824/http://walletex.com/ #20yrsago Homeland Security: Mini-golf courses are terrorist targets https://web.archive.org/web/20060215153821/https://www.kron.com/Global/story.asp?S=4226663 #20yrsago Amazon rents access to a copy of the Web https://battellemedia.com/archives/2005/12/alexa\_make\_that\_amazon\_looks\_to\_change\_the\_game #15yrsago Pornoscanners trivially defeated by pancake-shaped explosives https://web.archive.org/web/20101225211840/http://springerlink.com/content/g6620thk08679160/fulltext.pdf #10yrsago HO fhtagn! Detailed model railroad layout recreates HP Lovecraft’s Arkham https://web.archive.org/web/20131127042302/http://www.ottgallery.com/MRR.html #10yrsago Suicide rates are highest in spring — not around Christmas https://www.theatlantic.com/health/archive/2015/12/no-suicides-dont-rise-during-the-holidays/419436/ #10yrsago Airbnb hosts consistently discriminate against black people https://www.benedelman.org/publications/airbnb-011014.pdf #10yrsago What will it take to get MIT to stand up for its own students and researchers? https://www.youtube.com/watch?v=cQdl\_JdTars #10yrsago Experts baffled to learn that 2 years olds are being prescribed psychiatric drugs https://www.nytimes.com/2015/12/11/us/psychiatric-drugs-are-being-prescribed-to-infants.html?\_r=0 #10yrsago Happy Birthday’s copyright status is finally, mysteriously settled https://www.nytimes.com/2015/12/10/business/media/happy-birthday-copyright-case-reaches-a-settlement.html?\_r=0 #10yrsago Proposal: keep the nuclear launch codes in an innocent volunteer’s chest-cavity https://blog.nuclearsecrecy.com/2012/09/19/the-heart-of-deterrence/ #10yrsago Obama promises statement on encryption before Xmas (maybe) https://web.archive.org/web/20151211042128/https://www.dailydot.com/politics/white-house-encryption-policy-response-petition/ #10yrsago Harlem Cryptoparty: Crypto matters for #blacklivesmatter https://web.archive.org/web/20151218183924/https://motherboard.vice.com/read/the-black-community-needs-encryption #10yrsago Backslash: a toolkit for protesters facing hyper-militarized, surveillance-heavy police https://arstechnica.com/tech-policy/2015/12/backslash-anti-surveillance-gadgets-for-protesters/ #10yrsago Ted Cruz campaign hires dirty data-miners who slurped up millions of Facebook users’ data https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-president-campaign-facebook-user-data #10yrsago The Tor Project has a new executive director: former EFF director Shari Steele! https://blog.torproject.org/greetings-tors-new-executive-director/ #10yrsago What I told the kid who wanted to join the NSA https://www.theguardian.com/us-news/2015/dec/11/west-point-cybersecurity-nsa-privacy-edward-snowden #10yrsago Copyfraud: Disney’s bogus complaint over toy photo gets a fan kicked off Facebook https://arstechnica.com/tech-policy/2015/12/disney-initially-drops-then-doubles-down-on-dmca-claim-over-star-wars-figure-pic/ #15yrsago Sales pitch from an ATM-skimmer vendor https://krebsonsecurity.com/2010/12/why-gsm-based-atm-skimmers-rule/ #15yrsago Boardgame Remix Kit makes inspired new games out of old Monopoly, Clue, Trivial Pursuit and Scrabble sets https://web.archive.org/web/20101214210548/http://www.boardgame-remix-kit.com/sample/boardgame-remix-kit-sample.pdf #10yrsago Britons will need copyright licenses to post photos of their own furniture https://arstechnica.com/tech-policy/2015/12/you-may-soon-need-a-licence-to-take-photos-of-that-classic-designer-chair-you-bought/ #5yrsago Outgoing Facebookers blast the company https://pluralistic.net/2020/12/12/fairy-use-tale/#badge-posts #5yrsago Carbon offsets are bullshit https://pluralistic.net/2020/12/12/fairy-use-tale/#greenwashing #5yrsago Youtube, fair use, competition, and the death of the artist https://pluralistic.net/2020/12/12/fairy-use-tale/#content-id #5yrsago A lethally boring story https://pluralistic.net/2020/12/11/number-eight/#erisa #5yrsago Daddy Daughter Xmas Podcast 2020 https://pluralistic.net/2020/12/11/number-eight/#youll-go-down-in-mystery #5yrsago Antitrust and Facebook&#39;s paid disinformation https://pluralistic.net/2020/12/11/number-eight/#curse-of-bigness #1yrago The housing emergency and the second Trump term https://pluralistic.net/2024/12/11/nimby-yimby-fimby/#home-team-advantage #1yrago A Democratic media strategy to save journalism and the nation https://pluralistic.net/2024/12/12/the-view-from-somewhere/#abolish-rogan Upcoming appearances (permalink) Hamburg: Chaos Communications Congress, Dec 27-30 https://events.ccc.de/congress/2025/infos/index.html Denver: Enshittification at Tattered Cover Colfax, Jan 22 https://www.eventbrite.com/e/cory-doctorow-live-at-tattered-cover-colfax-tickets-1976644174937 Colorado Springs: Guest of Honor at COSine, Jan 23-25 https://www.firstfridayfandom.org/cosine/ Recent appearances (permalink) How to Stop “Ensh\*ttification” Before It Kills the Internet (Capitalisn&#39;t) https://www.youtube.com/watch?v=34gkIvYiHxU Enshittification on The Daily Show https://www.youtube.com/watch?v=d2e-c9SF5nE Enshittification with Four Ways to Change the World (Channel 4) https://www.youtube.com/watch?v=tZQaEeuuI3Q The Plan is to Make the Internet Worse. Forever. (Novarra Media) https://www.youtube.com/watch?v=7wE8G-d7SnY Enshittification (Future Knowledge) https://futureknowledge.transistor.fm/episodes/enshittification Latest books (permalink) &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2026 &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2026 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2026 &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 Colophon (permalink) Today&#39;s top sources: Currently writing: &#34;The Reverse Centaur&#39;s Guide to AI,&#34; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &#34;The Post-American Internet,&#34; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Medium (no ads, paywalled): https://doctorow.medium.com/ Twitter (mass-scale, unrestricted, third-party surveillance and advertising): https://twitter.com/doctorow Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
-      <guid>cid://https://pluralistic.net/?p=12137</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115713088014832658</link>
-      <description>
-        <![CDATA[<p>If you use Swift Macros in a library, use this script to remove 50 megs of junk that Xcode forces into your binaries:</p><p><a href="https://github.com/migueldeicaza/GodotApplePlugins/blob/main/relink_without_swiftsyntax.sh" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Godot</span><span class="invisible">ApplePlugins/blob/main/relink_without_swiftsyntax.sh</span></a></p><p>This has been a public service announcement from the Latino Coalition for Smaller Binaries.</p><p><a href="https://github.com/feedback-assistant/reports/issues/718" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/feedback-assistant/</span><span class="invisible">reports/issues/718</span></a></p>]]>
-      </description>
-      <source:markdown>If you use Swift Macros in a library, use this script to remove 50 megs of junk that Xcode forces into your binaries:
-
-[https://github.com/migueldeicaza/GodotApplePlugins/blob/main/relink\_without\_swiftsyntax.sh](https://github.com/migueldeicaza/GodotApplePlugins/blob/main/relink_without_swiftsyntax.sh)
-
-This has been a public service announcement from the Latino Coalition for Smaller Binaries.
-
-[https://github.com/feedback-assistant/reports/issues/718](https://github.com/feedback-assistant/reports/issues/718)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115713088014832658</guid>
-    </item>    <item>
-      <title>My day as an augmented technical writer in 2030</title>
-      <link>https://passo.uno/my-day-tech-writer-2030/</link>
-      <description>
-        <![CDATA[<p>Instead of writing my tech comms predictions for next year <a href="https://passo.uno/tech-writing-predictions-2025/">like I did in 2024</a>, I’ve written a fictionalized account of my day as a technical writer in 2030. It’ll be interesting to see whether we get there or not. Take it as a window into a possible future, one where AI usage is safer, more regulated, and better integrated with our workflows (as it should be).</p>]]>
-      </description>
-      <source:markdown>Instead of writing my tech comms predictions for next year [like I did in 2024](https://passo.uno/tech-writing-predictions-2025/), I’ve written a fictionalized account of my day as a technical writer in 2030. It’ll be interesting to see whether we get there or not. Take it as a window into a possible future, one where AI usage is safer, more regulated, and better integrated with our workflows (as it should be).</source:markdown>
-      <guid>cid://https://passo.uno/my-day-tech-writer-2030/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/12/13.html#a155922</link>
-      <description>
-        <![CDATA[Just wrote a post for Scripting News, then flipped over to Daveverse to see what it looks like. <a href="https://github.com/scotthansonde/wordlandBaseline/issues/54">See for yourself</a>. I think we've come pretty close to cloning Scripting in WordPress.]]>
-      </description>
-      <source:markdown>Just wrote a post for Scripting News, then flipped over to Daveverse to see what it looks like. [See for yourself](https://github.com/scotthansonde/wordlandBaseline/issues/54). I think we&#39;ve come pretty close to cloning Scripting in WordPress.</source:markdown>
-      <guid>cid://http://scripting.com/2025/12/13.html#a155922</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115713071946346627</link>
-      <description>
-        <![CDATA[<p>Jesus fucking christ.</p><p><a href="https://hey.paris/posts/appleid/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">hey.paris/posts/appleid/</span><span class="invisible"></span></a></p>]]>
-      </description>
-      <source:markdown>Jesus fucking christ.
-
-[https://hey.paris/posts/appleid/](https://hey.paris/posts/appleid/)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115713071946346627</guid>
-    </item>    <item>
-      <title>Ann Greenberg&#39;s idea</title>
-      <link>http://scripting.com/2025/12/13/154659.html?title=annGreenbergsIdea</link>
-      <description>
-        <![CDATA[<p>An idea I <a href="https://www.facebook.com/dave.winer.12/posts/pfbid02Ggdsc3q4Z9qaz8uE1H3yc8qBAJnz3YhuWWS8GiCyaQdVPRF2BUWTWTQuxFxzHLLnl?notif_id=1765601890685451&notif_t=feedback_reaction_generic&ref=notif">posted</a> on Facebook in 2021 about an app I wanted. </p>
-        <ul>
-        <li>Here's an idea. I have a drone that communicates with my peloton via satellite, so it's not constrained by range. I can send the drone anywhere I like, but I have to ride there on my peloton. Obviously what I see on my screen is what the drone sees. I think it would quickly become addictive, not that peloton isn't already addictive.</li>
-        </ul>
-        <p>That was yesterday. Today I found myself writing a <a href="https://www.facebook.com/dave.winer.12/posts/pfbid02Ggdsc3q4Z9qaz8uE1H3yc8qBAJnz3YhuWWS8GiCyaQdVPRF2BUWTWTQuxFxzHLLnl?comment_id=1586870055654260&reply_comment_id=881509054436484">comment</a> that was really a blog post. </p>
-        <ul>
-        <li><a href="https://www.anngreenberg.com/">Ann Greenberg</a>, the <a href="https://www.anngreenberg.com/inventions">visionary</a>, was <a href="https://www.linkedin.com/in/anngreenberg/">trying</a> to explain this to me almost 20 years ago and my mind couldn't comprehend the possibility. but ann, don't take it personally -- i don't even listen to myself. i have spent most of this year struggling with a problem i solved in 2014. there was like this moment, omg this is exactly what i tried to do with twitter, but now i have control of the api, so i can actually make it work. my gift to you Ann is this -- we all should've listened to you.</li>
-        </ul>
-        <p>We're at that point in our lives I think when reaching out like this is totally the right thing to do. Because it's only until this point that things quiet down enough that you can realize things like this. </p>
-        <p>BTW, the idea of a comment not being a blog post will require a lot of explanation in a few years. Imho of course. </p>]]>
-      </description>
-      <source:markdown>An idea I [posted](https://www.facebook.com/dave.winer.12/posts/pfbid02Ggdsc3q4Z9qaz8uE1H3yc8qBAJnz3YhuWWS8GiCyaQdVPRF2BUWTWTQuxFxzHLLnl?notif_id=1765601890685451&#38;notif_t=feedback_reaction_generic&#38;ref=notif) on Facebook in 2021 about an app I wanted.
-
-*   Here&#39;s an idea. I have a drone that communicates with my peloton via satellite, so it&#39;s not constrained by range. I can send the drone anywhere I like, but I have to ride there on my peloton. Obviously what I see on my screen is what the drone sees. I think it would quickly become addictive, not that peloton isn&#39;t already addictive.
-
-That was yesterday. Today I found myself writing a [comment](https://www.facebook.com/dave.winer.12/posts/pfbid02Ggdsc3q4Z9qaz8uE1H3yc8qBAJnz3YhuWWS8GiCyaQdVPRF2BUWTWTQuxFxzHLLnl?comment_id=1586870055654260&#38;reply_comment_id=881509054436484) that was really a blog post.
-
-*   [Ann Greenberg](https://www.anngreenberg.com/), the [visionary](https://www.anngreenberg.com/inventions), was [trying](https://www.linkedin.com/in/anngreenberg/) to explain this to me almost 20 years ago and my mind couldn&#39;t comprehend the possibility. but ann, don&#39;t take it personally -- i don&#39;t even listen to myself. i have spent most of this year struggling with a problem i solved in 2014. there was like this moment, omg this is exactly what i tried to do with twitter, but now i have control of the api, so i can actually make it work. my gift to you Ann is this -- we all should&#39;ve listened to you.
-
-We&#39;re at that point in our lives I think when reaching out like this is totally the right thing to do. Because it&#39;s only until this point that things quiet down enough that you can realize things like this.
-
-BTW, the idea of a comment not being a blog post will require a lot of explanation in a few years. Imho of course.</source:markdown>
-      <guid>cid://http://scripting.com/2025/12/13/154659.html</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115713026227641257</link>
-      <description>
-        <![CDATA[<p>After a couple of months of work, I have finally landed the micro-SwiftGodot to our main branch-for people to build small extensions</p><p><a href="https://github.com/migueldeicaza/SwiftGodot/releases" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Godot/releases</span></a></p><p>We still have that nasty Apple bug that bloats binaries by bolting SwiftSyntax in your code, I have an unorthodox hack you can use.</p>]]>
-      </description>
-      <source:markdown>After a couple of months of work, I have finally landed the micro-SwiftGodot to our main branch-for people to build small extensions
-
-[https://github.com/migueldeicaza/SwiftGodot/releases](https://github.com/migueldeicaza/SwiftGodot/releases)
-
-We still have that nasty Apple bug that bloats binaries by bolting SwiftSyntax in your code, I have an unorthodox hack you can use.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115713026227641257</guid>
-    </item>    <item>
-      <title>Pan-fried Irish salmon.</title>
-      <link>https://adactio.com/notes/22299</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22299/small.jpg" srcset="https://adactio.com/images/uploaded/22299/medium.jpg 1.5x, https://adactio.com/images/uploaded/22299/large.jpg 2.5x" alt="Pan-fried Irish salmon." />
-        <p>Pan-fried Irish salmon.</p>]]>
-      </description>
-      <source:markdown>![Pan-fried Irish salmon.](https://adactio.com/images/uploaded/22299/small.jpg)
-
-Pan-fried Irish salmon.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22299</guid>
-    </item>    <item>
-      <title>T.S.A. Is Providing Air Passenger Data to Immigration Agents for Deportation Effort</title>
-      <link>https://werd.io/t-s-a-is-providing-air-passenger-data-to-immigration-agents-for-deportation-effort/</link>
-      <description>
-        <![CDATA["The Trump administration is providing the names of all air travelers to immigration officials, substantially expanding its use of data sharing to expel people under deportation orders."]]>
-      </description>
-      <source:markdown>&#34;The Trump administration is providing the names of all air travelers to immigration officials, substantially expanding its use of data sharing to expel people under deportation orders.&#34;</source:markdown>
-      <guid>cid://693d76d83cf5f80001cfdcbe</guid>
-    </item>    <item>
-      <title>Quoting Obie Fernandez</title>
-      <link>https://simonwillison.net/2025/Dec/13/obie-fernandez/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660"><p>If the part of programming you enjoy most is the physical act of writing code, then agents will feel beside the point. You’re already where you want to be, even just with some Copilot or Cursor-style intelligent code auto completion, which makes you faster while still leaving you fully in the driver’s seat about the code that gets written.</p>
-        <p>But if the part you care about is the decision-making around the code, agents feel like they clear space. They take care of the mechanical expression and leave you with judgment, tradeoffs, and intent. Because truly, for someone at my experience level, that is my core value offering anyway. When I spend time actually typing code these days with my own fingers, it feels like a waste of my time.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660">Obie Fernandez</a>, What happens when the coding becomes the least interesting part of the work</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
-      </description>
-      <source:markdown>&#62; If the part of programming you enjoy most is the physical act of writing code, then agents will feel beside the point. You’re already where you want to be, even just with some Copilot or Cursor-style intelligent code auto completion, which makes you faster while still leaving you fully in the driver’s seat about the code that gets written.
-&#62;
-&#62; But if the part you care about is the decision-making around the code, agents feel like they clear space. They take care of the mechanical expression and leave you with judgment, tradeoffs, and intent. Because truly, for someone at my experience level, that is my core value offering anyway. When I spend time actually typing code these days with my own fingers, it feels like a waste of my time.
-
-— [Obie Fernandez](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660), What happens when the coding becomes the least interesting part of the work
-
-Tags: [careers](https://simonwillison.net/tags/careers), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Dec/13/obie-fernandez/#atom-everything</guid>
-    </item>    <item>
-      <title>Disenshittificatory countermanoeuvres?</title>
-      <link>http://www.enlightenmenteconomics.com/blog/index.php/2025/12/disenshittificatory-countermanoeuvres/</link>
-      <description>
-        <![CDATA[It&#8217;s been hard to remain unaware of Cory Doctorow&#8217;s concept of &#8216;enshittification&#8217; &#8211; it was after all a 2024 word of the year. But I finally got round to the book Enshittification: why everything suddenly got worse and what to &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/12/disenshittificatory-countermanoeuvres/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>It’s been hard to remain unaware of Cory Doctorow’s concept of ‘enshittification’ – it was after all a 2024 word of the year. But I finally got round to the book Enshittification: why everything suddenly got worse and what to … [Continue reading →](http://www.enlightenmenteconomics.com/blog/index.php/2025/12/disenshittificatory-countermanoeuvres/)</source:markdown>
-      <guid>cid://http://www.enlightenmenteconomics.com/blog/?p=7906</guid>
-    </item>    <item>
-      <title>Talking With Adam Tooze</title>
-      <link>https://paulkrugman.substack.com/p/talking-with-adam-tooze</link>
-      <description>
-        <![CDATA[About Europe, Germany's malaise, and more]]>
-      </description>
-      <source:markdown>About Europe, Germany&#39;s malaise, and more</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!NC_Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f4a318d-4d78-468a-a217-6e682c54eef0_1280x720.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/talking-with-adam-tooze</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: December 8 – 12, 2025</title>
-      <link>https://lithub.com/lit-hub-weekly-december-8-12-2025/</link>
-      <description>
-        <![CDATA[These are the best book covers of 2025 (as chosen by some of the industry’s best cover designers). &#124; Lit Hub Design Why To the Lighthouse is Virginia Woolf’s unacknowledged plague novel. &#124; Lit Hub Health What happens when Gen]]>
-      </description>
-      <source:markdown>These are the best book covers of 2025 (as chosen by some of the industry’s best cover designers). \| Lit Hub Design Why To the Lighthouse is Virginia Woolf’s unacknowledged plague novel. \| Lit Hub Health What happens when Gen</source:markdown>
-      <guid>cid://https://lithub.com/?p=264272</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115711896931384091</link>
-      <description>
-        <![CDATA[<p class="quote-inline">RE: <a href="https://toot.cafe/@baldur/115711629569855659" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">toot.cafe/@baldur/115711629569</span><span class="invisible">855659</span></a></p><p>I hope this person gets their access restored. Then i hope they write the book on how to migrate out of Apple's ecosystem</p>]]>
-      </description>
-      <source:markdown>RE: [https://toot.cafe/@baldur/115711629569855659](https://toot.cafe/@baldur/115711629569855659)
-
-I hope this person gets their access restored. Then i hope they write the book on how to migrate out of Apple&#39;s ecosystem</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/115711896931384091</guid>
-    </item>    <item>
-      <title>Dissent | blarg</title>
-      <link>https://exple.tive.org/blarg/2025/11/17/dissent/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>I suppose it’s not clear to me what a ‘good’ window into unreliable, systemically toxic systems accomplishes, or how it changes anything that matters for the better, or what that idea even means at all. I don’t understand how “ethical AI” isn’t just “clean coal” or “natural gas.” The power of normalization as four generations are raised breathing low doses of aerosolized neurotoxins; the alternative was called “unleaded”, but the poison was called “regular gas”.</p>
-          
-          <p>There’s a real technology here, somewhere. Stochastic pattern recognition seems like a powerful tool for solving some problems. But solving a problem starts at the problem, not working backwards from the tools.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22298">adactio.com/links/22298</a></p>]]>
-      </description>
-      <source:markdown>&#62; I suppose it’s not clear to me what a ‘good’ window into unreliable, systemically toxic systems accomplishes, or how it changes anything that matters for the better, or what that idea even means at all. I don’t understand how “ethical AI” isn’t just “clean coal” or “natural gas.” The power of normalization as four generations are raised breathing low doses of aerosolized neurotoxins; the alternative was called “unleaded”, but the poison was called “regular gas”.
-&#62;
-&#62; There’s a real technology here, somewhere. Stochastic pattern recognition seems like a powerful tool for solving some problems. But solving a problem starts at the problem, not working backwards from the tools.
-
-[adactio.com/links/22298](https://adactio.com/links/22298)</source:markdown>
-      <guid>cid://https://exple.tive.org/blarg/2025/11/17/dissent/</guid>
-    </item>    <item>
-      <title>It&#39;s Affordability, Stupid! | The Coffee Klatch for Saturday, December 13, 2025</title>
-      <link>https://robertreich.substack.com/p/its-affordability-stupid-the-coffee</link>
-      <description>
-        <![CDATA[With Heather Lofthouse, Katie Milne, Vishal Shankar, and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse, Katie Milne, Vishal Shankar, and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/181459355/dfbb938007017cfd623f5235adb711f1.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/its-affordability-stupid-the-coffee</guid>
-    </item>    <item>
-      <title>December 12, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/december-12-2025</link>
-      <description>
-        <![CDATA[Today former Alabama senator Doug Jones launched his campaign to become the state&#8217;s next governor.]]>
-      </description>
-      <source:markdown>Today former Alabama senator Doug Jones launched his campaign to become the state’s next governor.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/december-12-2025</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m7tyie7uec22</link>
-      <description>
-        <![CDATA[Really enjoyed this perspective liam-on-linux.dreamwidth.org/97426.html
-        https://liam-on-linux.dreamwidth.org/97426.html]]>
-      </description>
-      <source:markdown>Really enjoyed this perspective liam-on-linux.dreamwidth.org/97426.html
-https://liam-on-linux.dreamwidth.org/97426.html</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m7tyie7uec22</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3m7twpxiig222</link>
-      <description>
-        <![CDATA[Fun stuff, http://scripting.com/2025/12/12/171700.html?title=breakthroughRealization]]>
-      </description>
-      <source:markdown>Fun stuff, http://scripting.com/2025/12/12/171700.html?title=breakthroughRealization</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3m7twpxiig222</guid>
-    </item>    <item>
-      <title>Don&#39;t fear Python subprocess or Go codegen</title>
-      <link>https://benhoyt.com/writings/jubilant/</link>
-      <description>
-        <![CDATA[Discusses some design choices used in Jubilant: Python subprocess.run to wrap a CLI tool, a code generator to convert Go structs to Python dataclasses, and the use of uv with a simple Makefile to run commands.]]>
-      </description>
-      <source:markdown>Discusses some design choices used in Jubilant: Python subprocess.run to wrap a CLI tool, a code generator to convert Go structs to Python dataclasses, and the use of uv with a simple Makefile to run commands.</source:markdown>
-      <guid>cid://https://benhoyt.com/writings/jubilant/</guid>
-    </item>    <item>
-      <title>Weeknotes: Dec. 6-12, 2025</title>
-      <link>https://tracydurnell.com/2025/12/12/weeknotes-dec-6-12-2025/</link>
-      <description>
-        <![CDATA[Win of the week: didn&#8217;t eat out at all! meal planning and prepping is paying off Looking forward to: doing nothing this weekend Stuff I did: 3 hours writing one virtual appointment optometrist eye exam &#8212; my prescription barely changed so I don&#8217;t need to get new lenses 🙌 they tried to talk me into getting special [&#8230;]]]>
-      </description>
-      <source:markdown>Win of the week: didn’t eat out at all! meal planning and prepping is paying off Looking forward to: doing nothing this weekend Stuff I did: 3 hours writing one virtual appointment optometrist eye exam — my prescription barely changed so I don’t need to get new lenses 🙌 they tried to talk me into getting special \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=32238</guid>
-    </item>    <item>
-      <title>Quoting OpenAI Codex CLI</title>
-      <link>https://simonwillison.net/2025/Dec/13/openai-codex-cli/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://github.com/openai/codex/blob/ad7b9d63c326d5c92049abd16f9f5fb64a573a69/codex-rs/core/src/skills/render.rs#L20-L39"><p>How to use a skill (progressive disclosure):</p>
-        <ol>
-        <li>After deciding to use a skill, open its <code>SKILL.md</code>. Read only enough to follow the workflow.</li>
-        <li>If <code>SKILL.md</code> points to extra folders such as <code>references/</code>, load only the specific files needed for the request; don't bulk-load everything.</li>
-        <li>If <code>scripts/</code> exist, prefer running or patching them instead of retyping large code blocks.</li>
-        <li>If <code>assets/</code> or templates exist, reuse them instead of recreating from scratch.</li></ol>
-        <p>Description as trigger: The YAML <code>description</code> in <code>SKILL.md</code> is the primary trigger signal; rely on it to decide applicability. If unsure, ask a brief clarification before proceeding.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://github.com/openai/codex/blob/ad7b9d63c326d5c92049abd16f9f5fb64a573a69/codex-rs/core/src/skills/render.rs#L20-L39">OpenAI Codex CLI</a>, core/src/skills/render.rs, <a href="https://gist.github.com/simonw/25f2c3a9e350274bc2b76a79bc8ae8b2">full prompt</a></p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/skills">skills</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
-      </description>
-      <source:markdown>&#62; How to use a skill (progressive disclosure):
-&#62;
-&#62; 1. After deciding to use a skill, open its `SKILL.md`. Read only enough to follow the workflow.
-&#62; 2. If `SKILL.md` points to extra folders such as `references/`, load only the specific files needed for the request; don&#39;t bulk-load everything.
-&#62; 3. If `scripts/` exist, prefer running or patching them instead of retyping large code blocks.
-&#62; 4. If `assets/` or templates exist, reuse them instead of recreating from scratch.
-&#62;
-&#62; Description as trigger: The YAML `description` in `SKILL.md` is the primary trigger signal; rely on it to decide applicability. If unsure, ask a brief clarification before proceeding.
-
-— [OpenAI Codex CLI](https://github.com/openai/codex/blob/ad7b9d63c326d5c92049abd16f9f5fb64a573a69/codex-rs/core/src/skills/render.rs#L20-L39), core/src/skills/render.rs, [full prompt](https://gist.github.com/simonw/25f2c3a9e350274bc2b76a79bc8ae8b2)
-
-Tags: [skills](https://simonwillison.net/tags/skills), [openai](https://simonwillison.net/tags/openai), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [codex-cli](https://simonwillison.net/tags/codex-cli), [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [rust](https://simonwillison.net/tags/rust), [generative-ai](https://simonwillison.net/tags/generative-ai)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Dec/13/openai-codex-cli/#atom-everything</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/12/12/175154.html</link>
-      <description>
-        <![CDATA[<p>Scripting News: The Mets' soul walks out the door.</p>]]>
-      </description>
-      <source:markdown>Scripting News: The Mets&#39; soul walks out the door.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/12/2150/</guid>
-    </item>    <item>
-      <link>https://www.bbc.com/news/articles/cvg8mge23leo?at_medium=RSS&#38;at_campaign=rss</link>
-      <description>
-        <![CDATA[Why are sperm donors having hundreds of children?]]>
-      </description>
-      <source:markdown>Why are sperm donors having hundreds of children?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/12/2148/</guid>
-    </item>    <item>
-      <title>On Hatereading as Method</title>
-      <link>https://davekarpf.substack.com/p/on-hatereading-as-method</link>
-      <description>
-        <![CDATA[Ridicule is our last, best weapon]]>
-      </description>
-      <source:markdown>Ridicule is our last, best weapon</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!DuhG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23817611-3cee-40cf-af7c-b541d43c0301_400x400.gif" length="0" type="image/jpeg" />
-      <guid>cid://https://davekarpf.substack.com/p/on-hatereading-as-method</guid>
     </item>
   </channel>
 </rss>

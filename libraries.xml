@@ -4,10 +4,35 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>03 Jan 26 08:12 -0800</lastBuildDate>
+    <lastBuildDate>03 Jan 26 19:51 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>CREATORS: You Still Have Time to Submit Your Public Domain Remix Film</title>
+      <link>https://blog.archive.org/2026/01/03/creators-you-still-have-time-to-submit-your-public-domain-remix-film/</link>
+      <description>
+        <![CDATA[You have until 11:59pm PST on January 7th to enter our annual Public Domain Film Remix Contest &#8211; full details &#38; contest guidelines.]]>
+      </description>
+      <source:markdown>You have until 11:59pm PST on January 7th to enter our annual Public Domain Film Remix Contest – full details &#38; contest guidelines.</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=29875</guid>
+    </item>    <item>
+      <title>The City of God, by Augustine of Hippo</title>
+      <link>https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith</link>
+      <description>
+        <![CDATA[Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.]]>
+      </description>
+      <source:markdown>Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/augustine-of-hippo_the-city-of-god_marcus-dods-george-wilson-j-j-smith.epub?source=feed" length="1555325" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith</guid>
+    </item>    <item>
+      <title>portal: Libraries and the Academy (Vol 26, No 1; Preprints For All Articles Now Available Online)</title>
+      <link>https://www.infodocket.com/2026/01/03/preprints-for-all-articles-now-available-portal-libraries-and-the-academy-vol-26-no-1/</link>
+      <description>
+        <![CDATA[Preprints for all articles found in in portal: Libraries and the Academy  (Vol 26, No 1) are now available online. Links below. From the ICU to Academia: A conversation with Maribeth Slebodnik (Editorial) Author(s): Ellysa Stern Cahoy, Maribeth Slebodnik Insights from a Burnout Debate: Occupational Health Psychology for Academic Librarianship (Worth Noting) Author(s): Matthew Weirick [&#8230;]]]>
+      </description>
+      <source:markdown>Preprints for all articles found in in portal: Libraries and the Academy  (Vol 26, No 1) are now available online. Links below. From the ICU to Academia: A conversation with Maribeth Slebodnik (Editorial) Author(s): Ellysa Stern Cahoy, Maribeth Slebodnik Insights from a Burnout Debate: Occupational Health Psychology for Academic Librarianship (Worth Noting) Author(s): Matthew Weirick \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167462</guid>
+    </item>    <item>
       <title>As I Lay Dying, by William Faulkner</title>
       <link>https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying</link>
       <description>
@@ -1322,24 +1347,6 @@ We are very grateful to Hannah Hope and Melissa Harrison for their perspectives 
       </description>
       <source:markdown>The journal article linked below was recently published by Communications in Information Literacy (CIL). Title The Library Instructor as Learner: A Survey of Reflective Teaching Practices in US Academic Libraries Authors Alicia G. Vaandering University of Rhode Island Amanda Crego-Emley University of Rhode Island Source Communications in Information Literacy (CIL); 19(2) Abstract Reflective practice provides \[…\]</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=167427</guid>
-    </item>    <item>
-      <title>Short Fiction, by Mary Shelley</title>
-      <link>https://standardebooks.org/ebooks/mary-shelley/short-fiction</link>
-      <description>
-        <![CDATA[A collection of short fiction by Mary Shelley, ordered by date of publication.]]>
-      </description>
-      <source:markdown>A collection of short fiction by Mary Shelley, ordered by date of publication.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/mary-shelley/short-fiction/downloads/mary-shelley_short-fiction.epub?source=feed" length="670079" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/mary-shelley/short-fiction</guid>
-    </item>    <item>
-      <title>Ashton-Kirk, Investigator, by John T. McIntyre</title>
-      <link>https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator</link>
-      <description>
-        <![CDATA[A young investigator becomes intrigued by the murder of a dislikeable numismatist.]]>
-      </description>
-      <source:markdown>A young investigator becomes intrigued by the murder of a dislikeable numismatist.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator/downloads/john-t-mcintyre_ashton-kirk-investigator.epub?source=feed" length="615001" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/john-t-mcintyre/ashton-kirk-investigator</guid>
     </item>
   </channel>
 </rss>

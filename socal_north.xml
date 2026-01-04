@@ -7,10 +7,42 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>03 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>03 Jan 26 19:51 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>California lawmakers react to US military strike on Venezuela</title>
+      <link>https://laist.com/news/california-lawmakers-react-to-us-military-strike-on-venezuela</link>
+      <description>
+        <![CDATA[The overnight military operation captured Nicolás Maduro, along with his wife, Cilia Flores.]]>
+      </description>
+      <source:markdown>The overnight military operation captured Nicolás Maduro, along with his wife, Cilia Flores.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-853a-d1a7-a39f-df7fe7ce0000</guid>
+    </item>    <item>
+      <title>Top Republicans praise Venezuela operation as some lawmakers question legal authority</title>
+      <link>https://laist.com/news/top-republicans-praise-venezuela-operation-as-some-lawmakers-question-legal-authority</link>
+      <description>
+        <![CDATA[Top Republicans in Congress praised President Trump for the operation in Venezuela amid calls for briefings in the days to come.]]>
+      </description>
+      <source:markdown>Top Republicans in Congress praised President Trump for the operation in Venezuela amid calls for briefings in the days to come.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-851e-de6b-ad9f-af9f03d90000</guid>
+    </item>    <item>
+      <title>What are the charges against Venezuela&#39;s Nicolás Maduro?</title>
+      <link>https://laist.com/news/what-are-the-charges-against-venezuelas-nicolas-maduro</link>
+      <description>
+        <![CDATA[Maduro, his wife and senior Venezuelan officials face charges related to alleged 'drug trafficking and narco-terrorism conspiracies.']]>
+      </description>
+      <source:markdown>Maduro, his wife and senior Venezuelan officials face charges related to alleged &#39;drug trafficking and narco-terrorism conspiracies.&#39;</source:markdown>
+      <guid>cid://urn:uuid:0000019b-84fc-d6b4-a1fb-a4ff2f040000</guid>
+    </item>    <item>
+      <title>Trump: &#39;We are going to run the country now&#39; after removing Venezuela&#39;s president</title>
+      <link>https://laist.com/news/trump-says-we-are-going-to-run-the-country-now-after-removing-venezuelas-president</link>
+      <description>
+        <![CDATA[President Trump says the United States conducted a strike in Venezuela and captured that country's president, Nicolás Maduro, along with his wife, Cilia Flores.]]>
+      </description>
+      <source:markdown>President Trump says the United States conducted a strike in Venezuela and captured that country&#39;s president, Nicolás Maduro, along with his wife, Cilia Flores.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-84f8-d5de-adff-fefd80a40000</guid>
+    </item>    <item>
       <title>With few Epstein files released, conspiracy theories flourish and questions remain</title>
       <link>https://laist.com/news/politics/with-few-epstein-files-released-conspiracy-theories-flourish-and-questions-remain</link>
       <description>
@@ -19,14 +51,6 @@
       <source:markdown>Here&#39;s what we know — and don&#39;t.</source:markdown>
       <guid>cid://urn:uuid:0000019b-81e8-de6b-ad9f-afeffa890000</guid>
     </item>    <item>
-      <title>Photographer finds his way home to Altadena, one image at a time</title>
-      <link>https://laist.com/news/los-angeles-activities/kevin-cooley-dec-2025-altadena-eaton-fire</link>
-      <description>
-        <![CDATA[Kevin Cooley and his family lost their house in the Eaton Fire. The artist's post-fire photographs have again and again guided him home.]]>
-      </description>
-      <source:markdown>Kevin Cooley and his family lost their house in the Eaton Fire. The artist&#39;s post-fire photographs have again and again guided him home.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-768a-d683-a59f-f69bd3d90000</guid>
-    </item>    <item>
       <title>How trailblazer Rebecca Gonzales broke through mariachi machismo in the 70&#39;s</title>
       <link>https://laist.com/news/los-angeles-activities/how-trailblazer-rebecca-gonzales-broke-through-mariachi-machismo-in-the-70s</link>
       <description>
@@ -34,6 +58,14 @@
       </description>
       <source:markdown>Rebecca Gonzales’ oral history sheds light on the rewards and the pain of her breakthrough.</source:markdown>
       <guid>cid://urn:uuid:0000019b-249b-d688-a19f-67ff42950000</guid>
+    </item>    <item>
+      <title>Photographer finds his way home to Altadena, one image at a time</title>
+      <link>https://laist.com/news/los-angeles-activities/kevin-cooley-dec-2025-altadena-eaton-fire</link>
+      <description>
+        <![CDATA[Kevin Cooley and his family lost their house in the Eaton Fire. The artist's post-fire photographs have again and again guided him home.]]>
+      </description>
+      <source:markdown>Kevin Cooley and his family lost their house in the Eaton Fire. The artist&#39;s post-fire photographs have again and again guided him home.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-768a-d683-a59f-f69bd3d90000</guid>
     </item>    <item>
       <title>U.S. hit Venezuela with &#39;large-scale strike,&#39; captured Nicolás Maduro, Trump says</title>
       <link>https://laist.com/news/multiple-explosions-heard-in-venezuelas-capital</link>
@@ -174,7 +206,7 @@ The post [Santa Clarita Arts Now Accepting Entries for the Temporary Public Art 
       <source:markdown>From diasporic cuisines to smaller portions, here&#39;s what&#39;s bubbling up.</source:markdown>
       <guid>cid://urn:uuid:0000019b-4cb4-d860-af9f-deb7adec0000</guid>
     </item>    <item>
-      <title>10 new California laws you should know about going into 2026</title>
+      <title>10 new California laws you should know about in 2026</title>
       <link>https://laist.com/news/politics/new-california-laws-could-reshape-housing-ai-regulation-starting-jan-1</link>
       <description>
         <![CDATA[If you work in law enforcement or the health care field, new state laws will regulate what you can and can’t do with AI on the job.]]>
@@ -238,7 +270,7 @@ The post [Santa Clarita Arts Now Accepting Entries for the Temporary Public Art 
       <source:markdown>Spoiler alert: California’s deficit grows, uncertainty looms, and state leaders may have fewer options than before to tackle it.</source:markdown>
       <guid>cid://urn:uuid:0000019b-754b-d568-a1df-f76b8dec0000</guid>
     </item>    <item>
-      <title>2026 ushers in back-to-back SoCal storms. Here&#39;s what your weekend weather looks like</title>
+      <title>After this weekend&#39;s storm, LA could have more rain in the last few months than an entire year</title>
       <link>https://laist.com/news/climate-environment/nye-2026-rain-storm-los-angeles</link>
       <description>
         <![CDATA[The National Weather Service says rain is likely this weekend; next week TBD.]]>
@@ -2048,95 +2080,6 @@ The post [Sunday Taquitos #6: “Your papers, please.”](https://lataco.com/sun
       </description>
       <source:markdown>LAist senior editor Suzanne Levy explores why L.A. winters are so contradictory.</source:markdown>
       <guid>cid://urn:uuid:0000019b-09df-d15f-a9bb-0bdf0de70000</guid>
-    </item>    <item>
-      <title>Three U.S. Citizens Detained by Federal Immigration Agents in Southern California Speak Out For the First Time</title>
-      <link>https://lataco.com/detained-citizens-speak-out</link>
-      <description>
-        <![CDATA[<p>U.S. Senate report reveals new testimonies from detained victims of Border Patrol: "I couldn’t breathe. They pulled me up, and when I turned around, they told me that if I looked at their faces, they would slam me again,” Cardenas said.</p>
-        <p>The post <a href="https://lataco.com/detained-citizens-speak-out">Three U.S. Citizens Detained by Federal Immigration Agents in Southern California Speak Out For the First Time</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>U.S. Senate report reveals new testimonies from detained victims of Border Patrol: &#34;I couldn’t breathe. They pulled me up, and when I turned around, they told me that if I looked at their faces, they would slam me again,” Cardenas said.
-
-The post [Three U.S. Citizens Detained by Federal Immigration Agents in Southern California Speak Out For the First Time](https://lataco.com/detained-citizens-speak-out) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=174107</guid>
-    </item>    <item>
-      <title>This LA museum is standing up to Trump’s whitewashing, vowing to ‘scrub nothing’</title>
-      <link>https://laist.com/news/politics/this-la-museum-is-standing-up-to-trumps-whitewashing-vowing-to-scrub-nothing</link>
-      <description>
-        <![CDATA[The Japanese American National Museum stands out among cultural institutions by refusing to bend to President Trump’s attacks on diversity, history and the truth.]]>
-      </description>
-      <source:markdown>The Japanese American National Museum stands out among cultural institutions by refusing to bend to President Trump’s attacks on diversity, history and the truth.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-18f3-d96d-a5db-b9fb33020000</guid>
-    </item>    <item>
-      <title>This LA museum is standing up to Trump’s whitewashing, vowing to ‘scrub nothing’</title>
-      <link>https://laist.com/news/this-la-museum-is-standing-up-to-trumps-whitewashing-vowing-to-scrub-nothing</link>
-      <description>
-        <![CDATA[The Japanese American National Museum stands out among cultural institutions by refusing to bend to President Trump’s attacks on diversity, history and the truth.]]>
-      </description>
-      <source:markdown>The Japanese American National Museum stands out among cultural institutions by refusing to bend to President Trump’s attacks on diversity, history and the truth.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-18f3-d96d-a5db-b9fb33020000</guid>
-    </item>    <item>
-      <title>OC venue Chain Reaction, cradle of alternative and indie bands, is shutting down</title>
-      <link>https://laist.com/news/oc-venue-chain-reaction-cradle-of-alternative-and-indie-bands-is-shutting-down</link>
-      <description>
-        <![CDATA[Last shows are scheduled for Dec. 18 and Dec. 19.]]>
-      </description>
-      <source:markdown>Last shows are scheduled for Dec. 18 and Dec. 19.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-18ff-d688-a19f-5bffba250000</guid>
-    </item>    <item>
-      <title>OC indie venue Chain Reaction, cradle of bands including No Doubt, is shutting down</title>
-      <link>https://laist.com/news/oc-indie-venue-chain-reaction-cradle-of-bands-including-no-doubt-is-shutting-down</link>
-      <description>
-        <![CDATA[Last shows are scheduled for Dec. 18 and Dec. 19.]]>
-      </description>
-      <source:markdown>Last shows are scheduled for Dec. 18 and Dec. 19.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-18ff-d688-a19f-5bffba250000</guid>
-    </item>    <item>
-      <title>The Geminids are here. What you need to know for the year&#39;s brightest meteor show</title>
-      <link>https://laist.com/news/los-angeles-activities/the-geminids-are-here-what-you-need-to-know-for-the-years-brightest-meteor-show</link>
-      <description>
-        <![CDATA[Geminids meteor shower peaks tonight. Here's how to get the best view of the brightest celestial bodies of the year.]]>
-      </description>
-      <source:markdown>Geminids meteor shower peaks tonight. Here&#39;s how to get the best view of the brightest celestial bodies of the year.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-1886-ddb6-a5fb-5b965f860000</guid>
-    </item>    <item>
-      <title>How This Artist Is Turning L.A.’s Trash Into Art Draped With The U.S. Flag</title>
-      <link>https://lataco.com/artist-la-trash-us-flag</link>
-      <description>
-        <![CDATA[<p>I thought a lot about the ICE raids immensely,” says artist Acacia Marable. "And a lot about the unhoused people, ‘cause I mean, it's literally like this idea of this ugly thing that you don't want to be associated with your community or our country."</p>
-        <p>The post <a href="https://lataco.com/artist-la-trash-us-flag">How This Artist Is Turning L.A.’s Trash Into Art Draped With The U.S. Flag</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>I thought a lot about the ICE raids immensely,” says artist Acacia Marable. &#34;And a lot about the unhoused people, ‘cause I mean, it&#39;s literally like this idea of this ugly thing that you don&#39;t want to be associated with your community or our country.&#34;
-
-The post [How This Artist Is Turning L.A.’s Trash Into Art Draped With The U.S. Flag](https://lataco.com/artist-la-trash-us-flag) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=174206</guid>
-    </item>    <item>
-      <title>A Pasadena concert helps fire survivors build back their cherished vinyl record collections</title>
-      <link>https://laist.com/news/los-angeles-activities/pasadena-benefit-concert-healing-force</link>
-      <description>
-        <![CDATA[The show at Healing Force of the Universe on Sunday benefits the nonprofit, Altadena Musicians.]]>
-      </description>
-      <source:markdown>The show at Healing Force of the Universe on Sunday benefits the nonprofit, Altadena Musicians.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-13b8-d96d-a5db-b3f814060000</guid>
-    </item>    <item>
-      <title>Daily Memo: ICE Prowls Around L.A. and San Diego, Kidnapping at Least Seven Individuals</title>
-      <link>https://lataco.com/daily-memo-december-11</link>
-      <description>
-        <![CDATA[<p>ICE agents continue terrorizing southern California, kidnapping many including a gardener taken from his work truck.</p>
-        <p>The post <a href="https://lataco.com/daily-memo-december-11">Daily Memo: ICE Prowls Around L.A. and San Diego, Kidnapping at Least Seven Individuals</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>ICE agents continue terrorizing southern California, kidnapping many including a gardener taken from his work truck.
-
-The post [Daily Memo: ICE Prowls Around L.A. and San Diego, Kidnapping at Least Seven Individuals](https://lataco.com/daily-memo-december-11) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=174136</guid>
-    </item>    <item>
-      <title>LA Fire Department honored with ‘Award of Excellence’ star on Hollywood Boulevard</title>
-      <link>https://laist.com/news/la-fire-department-honored-with-award-of-excellence-star-on-hollywood-boulevard</link>
-      <description>
-        <![CDATA[The star recognizes the department’s work during the January fires in Los Angeles.]]>
-      </description>
-      <source:markdown>The star recognizes the department’s work during the January fires in Los Angeles.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-1507-ddb4-a59b-bf5708de0000</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,18 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>03 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>03 Jan 26 19:51 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The scariest boot loader code</title>
+      <link>https://www.osnews.com/story/144107/the-scariest-boot-loader-code/</link>
+      <description>
+        <![CDATA[It shouldn&#8217;t be surprising that the HP-UX FAQ eventually grew an entry for &#8220;how can I make a 712 run headless&#8221;. It was possible, and to do it you had to change the firmware &#8220;console&#8221; path. The 712 firmware would not allow you to do this, to keep you locked to a keyboard and frame buffer console, but some of the HP-UX standalone tools could be used to change this without the firmware getting in the way, so the FAQ recipe was roughly &#8220;abort the boot sequence, at the BOOT_ADMIN&#62; prompt, do not start the HP-UX kernel but some diagnostic tool, and then at the tools prompt, type a magic sequence without any mistake or you&#8217;ll be very, very, very sorry&#8221;. There was no exaggeration in these words: the magic sequence is conspath 2/0/4.0x283, which is everything but intuitive and easy to remember. ↫ Miod Vallat What a great story.]]>
+      </description>
+      <source:markdown>It shouldn’t be surprising that the HP-UX FAQ eventually grew an entry for “how can I make a 712 run headless”. It was possible, and to do it you had to change the firmware “console” path. The 712 firmware would not allow you to do this, to keep you locked to a keyboard and frame buffer console, but some of the HP-UX standalone tools could be used to change this without the firmware getting in the way, so the FAQ recipe was roughly “abort the boot sequence, at the BOOT\_ADMIN&#62; prompt, do not start the HP-UX kernel but some diagnostic tool, and then at the tools prompt, type a magic sequence without any mistake or you’ll be very, very, very sorry”. There was no exaggeration in these words: the magic sequence is conspath 2/0/4.0x283, which is everything but intuitive and easy to remember. ↫ Miod Vallat What a great story.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144107</guid>
+    </item>    <item>
       <title>IceWM 4.0.0 brings alt+tab improvements</title>
       <link>https://www.osnews.com/story/144105/icewm-4-0-0-brings-alttab-improvements/</link>
       <description>
@@ -4540,42 +4548,6 @@ The post [Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’](h
 
 After decades of research and development, humanity finally has a data storage medium that will outlast us.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243557</guid>
-    </item>    <item>
-      <title>Three Core Principles for Sustainable Platform Design</title>
-      <link>https://thenewstack.io/three-core-principles-for-sustainable-platform-design/</link>
-      <description>
-        <![CDATA[<img width="1024" height="678" src="https://cdn.thenewstack.io/media/2025/12/ba944731-dogs-1024x678.jpeg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Three dogs coming down wooden steps in the woods." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/ba944731-dogs.jpeg" /><p>Platform as a product extends platform engineering beyond a narrow technology solution. Platforms require a shift in the way organizations</p>
-        <p>The post <a href="https://thenewstack.io/three-core-principles-for-sustainable-platform-design/">Three Core Principles for Sustainable Platform Design</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Three dogs coming down wooden steps in the woods.](https://cdn.thenewstack.io/media/2025/12/ba944731-dogs-1024x678.jpeg)
-
-Platform as a product extends platform engineering beyond a narrow technology solution. Platforms require a shift in the way organizations
-
-The post [Three Core Principles for Sustainable Platform Design](https://thenewstack.io/three-core-principles-for-sustainable-platform-design/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22808903</guid>
-    </item>    <item>
-      <title>Rust-First Shuttle Launches Neptune for Easier App Deployments</title>
-      <link>https://thenewstack.io/rust-first-shuttle-launches-neptune-for-easier-app-deployments/</link>
-      <description>
-        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>Shuttle is a Rust-first, open source Infrastructure as Code (IaC) cloud platform for deploying apps. This week, the company launched</p>
-        <p>The post <a href="https://thenewstack.io/rust-first-shuttle-launches-neptune-for-easier-app-deployments/">Rust-First Shuttle Launches Neptune for Easier App Deployments</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
-
-Shuttle is a Rust-first, open source Infrastructure as Code (IaC) cloud platform for deploying apps. This week, the company launched
-
-The post [Rust-First Shuttle Launches Neptune for Easier App Deployments](https://thenewstack.io/rust-first-shuttle-launches-neptune-for-easier-app-deployments/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22809801</guid>
-    </item>    <item>
-      <title>British Airways fears a future where AI agents pick flights and brands get ghosted</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/</link>
-      <description>
-        <![CDATA[<h4>CEO warns airlines that don’t learn to sell themselves to machines could soon be flying under the radar</h4> <p>British Airways&#39; chief executive has warned that the airline industry is fast heading for a future where AI agents, not humans, decide which brands get booked – and carriers that fail to adapt are at risk of quietly disappearing from the digital shop window.…</p>]]>
-      </description>
-      <source:markdown>#### CEO warns airlines that don’t learn to sell themselves to machines could soon be flying under the radar
-
-British Airways&#39; chief executive has warned that the airline industry is fast heading for a future where AI agents, not humans, decide which brands get booked – and carriers that fail to adapt are at risk of quietly disappearing from the digital shop window.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243549</guid>
     </item>
   </channel>
 </rss>
