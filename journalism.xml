@@ -4,18 +4,29 @@
   <channel>
     <title>Feeds Student Journalism and feeds about Journalism feeds</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>03 Jan 26 19:51 -0800</lastBuildDate>
+    <lastBuildDate>04 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Sprinkles Cupcakes closes all locations</title>
+      <link>https://dailytrojan.com/2026/01/03/sprinkles-cupcakes-closes-all-locations-2/</link>
+      <description>
+        <![CDATA[<p>The Sprinkles Cupcakes ATM at USC is no longer operational.</p>
+        <p>The post <a href="https://dailytrojan.com/2026/01/03/sprinkles-cupcakes-closes-all-locations-2/">Sprinkles Cupcakes closes all locations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
+      </description>
+      <source:markdown>The Sprinkles Cupcakes ATM at USC is no longer operational.
+
+The post [Sprinkles Cupcakes closes all locations](https://dailytrojan.com/2026/01/03/sprinkles-cupcakes-closes-all-locations-2/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
+      <guid>cid://https://dailytrojan.com/?p=246934</guid>
+    </item>    <item>
       <title>UCLA women’s basketball dominates USC 80-46, breaks crosstown rivalry series tie</title>
       <link>https://dailybruin.com/2026/01/03/ucla-womens-basketball-dominates-usc-80-46-breaks-crosstown-rivalry-series-tie/</link>
       <description>
-        <![CDATA[<em>This post was updated Jan. 3 at 7:33 p.m.</em>
+        <![CDATA[<em>This post was updated Jan. 3 at 8:45 p.m.</em>
         USC guard Londynn Jones had only started in two games this season – until Saturday night.
         Jones traded crosstown rivals following UCLA’s historic 2024-2025 March Madness run, when she left the Bruins to join the Trojans.]]>
       </description>
-      <source:markdown>_This post was updated Jan. 3 at 7:33 p.m._
+      <source:markdown>_This post was updated Jan. 3 at 8:45 p.m._
 USC guard Londynn Jones had only started in two games this season – until Saturday night.
 Jones traded crosstown rivals following UCLA’s historic 2024-2025 March Madness run, when she left the Bruins to join the Trojans.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=499581</guid>
@@ -35,10 +46,12 @@ Despite a miraculous second-half effort – which saw the Bruins cut the deficit
       <title>UCLA gymnastics sticks the landing, wins Best of the West Quad with 196.975 mark</title>
       <link>https://dailybruin.com/2026/01/03/ucla-gymnastics-sticks-the-landing-wins-best-of-the-west-quad-with-196-975-mark/</link>
       <description>
-        <![CDATA[It may not have been an Olympic stage.
+        <![CDATA[<em>This post was updated Jan. 3 at 8:56 p.m.</em>
+        It may not have been an Olympic stage.
         But senior Jordan Chiles and freshman Tiana Sumanasekera – UCLA gymnastics’ two Olympians – stole the show at the Bruins’ first competition of the season.]]>
       </description>
-      <source:markdown>It may not have been an Olympic stage.
+      <source:markdown>_This post was updated Jan. 3 at 8:56 p.m._
+It may not have been an Olympic stage.
 But senior Jordan Chiles and freshman Tiana Sumanasekera – UCLA gymnastics’ two Olympians – stole the show at the Bruins’ first competition of the season.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=499572</guid>
     </item>    <item>
