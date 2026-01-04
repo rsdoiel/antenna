@@ -4,10 +4,36 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>03 Jan 26 19:52 -0800</lastBuildDate>
+    <lastBuildDate>04 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Desktop Classic System wants to bring some classic Mac OS to MATE and Debian</title>
+      <link>https://www.osnews.com/story/144111/desktop-classic-system-wants-to-bring-some-classic-mac-os-to-mate-and-debian/</link>
+      <description>
+        <![CDATA[Desktop Classic System is an operating system based on Debian and a customized version of the MATE Desktop Environment that hearkens back to, but is not a direct copy of, the classic Mac OS. DCS seeks to provide and sometimes even improve upon the conceptual simplicity offered by the old Macintosh. ↫ Desktop Classic System website I&#8217;m usually not particularly interested in reporting on random Linux distributions, but any one of them that defaults to a proper spatial file manager is one that I will highlight. I&#8217;m not entirely sure if this is just a supported feature of MATE&#8217;s file manager, or something more custom &#8211; there are some patches to Caja here, as mentioned &#8211; but spatial file managers are a dying breed and that&#8217;s a shame. They&#8217;re hard to implement and even harder to get right, which is probably why few people take on the challenge. Other than that, DCS isn&#8217;t particularly revolutionary or special, but I&#8217;d love for more Linux distributions to look back at what we&#8217;ve lost, and see if we can bring those things back.]]>
+      </description>
+      <source:markdown>Desktop Classic System is an operating system based on Debian and a customized version of the MATE Desktop Environment that hearkens back to, but is not a direct copy of, the classic Mac OS. DCS seeks to provide and sometimes even improve upon the conceptual simplicity offered by the old Macintosh. ↫ Desktop Classic System website I’m usually not particularly interested in reporting on random Linux distributions, but any one of them that defaults to a proper spatial file manager is one that I will highlight. I’m not entirely sure if this is just a supported feature of MATE’s file manager, or something more custom – there are some patches to Caja here, as mentioned – but spatial file managers are a dying breed and that’s a shame. They’re hard to implement and even harder to get right, which is probably why few people take on the challenge. Other than that, DCS isn’t particularly revolutionary or special, but I’d love for more Linux distributions to look back at what we’ve lost, and see if we can bring those things back.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144111</guid>
+    </item>    <item>
+      <title>KDE developer onboarding is good now</title>
+      <link>https://www.osnews.com/story/144109/kde-developer-onboarding-is-good-now/</link>
+      <description>
+        <![CDATA[KDE developer Herz published a detailed look at the immense amount of work they&#8217;ve done cleaning up the developer onboarding documentation for KDE. All that just to say that I’m finally content with the state of beginner onboarding docs in our KDE Developer Platform. That is to say, all the beginner docs fixes I wanted to add to Develop are either already there or have merge requests ready or almost ready. ↫ Herz at rabbitictranslator.com Judging by the article, KDE&#8217;s developer documentation really were in need of major work, and it&#8217;s great to see that thankless task being done. One of the areas where KDE lags behind GNOME is that the latter has a more vibrant application ecosystem, with tons of great GNOME applications under active development. Now, I&#8217;m not saying it&#8217;s the state of KDE&#8217;s documentation is the sole reason for this, but I&#8217;m sure it wasn&#8217;t helping either. Improving documentation is not a particularly glamorous task, but it&#8217;s vitally important nonetheless.]]>
+      </description>
+      <source:markdown>KDE developer Herz published a detailed look at the immense amount of work they’ve done cleaning up the developer onboarding documentation for KDE. All that just to say that I’m finally content with the state of beginner onboarding docs in our KDE Developer Platform. That is to say, all the beginner docs fixes I wanted to add to Develop are either already there or have merge requests ready or almost ready. ↫ Herz at rabbitictranslator.com Judging by the article, KDE’s developer documentation really were in need of major work, and it’s great to see that thankless task being done. One of the areas where KDE lags behind GNOME is that the latter has a more vibrant application ecosystem, with tons of great GNOME applications under active development. Now, I’m not saying it’s the state of KDE’s documentation is the sole reason for this, but I’m sure it wasn’t helping either. Improving documentation is not a particularly glamorous task, but it’s vitally important nonetheless.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144109</guid>
+    </item>    <item>
+      <title>Palo Alto Networks security-intel boss calls AI agents 2026&#39;s biggest insider threat</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/</link>
+      <description>
+        <![CDATA[<h4>Lock &#39;em down</h4> <p><strong>interview</strong>  AI agents represent the new insider threat to companies in 2026, according to Palo Alto Networks Chief Security Intel Officer Wendi Whitmore, and this poses several challenges to executives tasked with securing the expected surge in autonomous agents.…</p>]]>
+      </description>
+      <source:markdown>#### Lock &#39;em down
+
+**interview**  AI agents represent the new insider threat to companies in 2026, according to Palo Alto Networks Chief Security Intel Officer Wendi Whitmore, and this poses several challenges to executives tasked with securing the expected surge in autonomous agents.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243782</guid>
+    </item>    <item>
       <title>The scariest boot loader code</title>
       <link>https://www.osnews.com/story/144107/the-scariest-boot-loader-code/</link>
       <description>
@@ -411,9 +437,9 @@ A ransomware negotiator and a security incident response manager have admitted t
       <title>2026 AAS Hyperwall Schedule</title>
       <link>https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/</link>
       <description>
-        <![CDATA[247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401 for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe […]]]>
+        <![CDATA[247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe […]]]>
       </description>
-      <source:markdown>247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401 for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe \[…\]</source:markdown>
+      <source:markdown>247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/</guid>
     </item>    <item>
       <title>New York’s incoming mayor bans Raspberry Pi at his inauguration party</title>
