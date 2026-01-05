@@ -54,4 +54,5 @@ title: North America
 # Podcasts
 
 - [Shift Key](https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b)
+- [The Long Games](https://podcasts.voxmedia.com/show/the-long-game)
 

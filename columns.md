@@ -353,5 +353,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Basile Blog](https://basilesimon.fr/blog/index.xml)
 - [Dan Sinker](https://dansinker.com/feed.xml)
 - [Post-Platform Toolkit](https://toolkit.wellgedacht.org/feed.php)
+- [Kettlekasten Blog](https://zettelkasten.de/feed.atom)
 
 
