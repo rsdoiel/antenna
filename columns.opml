@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>04 Jan 26 11:15 -0800</dateCreated>
+        <dateCreated>05 Jan 26 08:14 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -155,6 +155,7 @@
         <outline text="Karine Jean-Piere" type="rss" xmlUrl="https://www.karinejean-pierre.com/feed/rss2" htmlUrl="https://www.karinejean-pierre.com,https://www.karinejean-pierre.com/feed/rss2" url="https://www.karinejean-pierre.com/feed/rss2"></outline>
         <outline text="Keiran Healy Blog" type="rss" xmlUrl="https://kieranhealy.org/blog/index.xml" htmlUrl="https://kieranhealy.org/blog/,https://kieranhealy.org/blog/index.xml" description="Recent content in Blogs on kieranhealy.org" url="https://kieranhealy.org/blog/index.xml"></outline>
         <outline text="Keith P&#39;s blog" type="rss" xmlUrl="https://keithp.com/blog/index.rss" htmlUrl="http://keithp.com/blog/,http://keithp.com/blog/index.rss" description="keithp.com" url="http://keithp.com/blog/index.rss"></outline>
+        <outline text="Kettlekasten Blog" type="atom" xmlUrl="https://zettelkasten.de/feed.atom" htmlUrl="https://zettelkasten.de/,https://zettelkasten.de/feed.atom" url="https://zettelkasten.de/feed.atom"></outline>
         <outline text="Kilian Valkhof&#39;s blog" type="rss" xmlUrl="http://feeds.feedburner.com/Kilianvalkhofcom" htmlUrl="https://kilianvalkhof.com,https://kilianvalkhof.com/feed/" description="Front-end &amp; user experience developer" url="https://kilianvalkhof.com/feed/"></outline>
         <outline text="L.A.G.Q. news" type="rss" xmlUrl="https://www.lagq.com/news?format=RSS" htmlUrl="https://www.lagq.com/news/" description="&lt;p&gt;The latest news from LAGQ&lt;/p&gt;"></outline>
         <outline text="LLVM Blog" type="rss" xmlUrl="https://blog.llvm.org/index.xml" htmlUrl="https://blog.llvm.org/,https://blog.llvm.org/index.xml" description="Recent content on The LLVM Project Blog" url="https://blog.llvm.org/index.xml"></outline>
