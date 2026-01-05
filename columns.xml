@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>05 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>05 Jan 26 12:58 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,142 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Monday session</title>
+      <link>https://adactio.com/notes/22338</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22338/small.jpg" srcset="https://adactio.com/images/uploaded/22338/medium.jpg 1.5x, https://adactio.com/images/uploaded/22338/large.jpg 2.5x" alt="Monday session" />
+        <p>Monday session</p>]]>
+      </description>
+      <source:markdown>![Monday session](https://adactio.com/images/uploaded/22338/small.jpg)
+
+Monday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22338</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/01/05.html#a202859</link>
+      <description>
+        <![CDATA[Just heard an ad on WNYC-FM saying we should share news with them. That's a milestone. First time I've ever heard NPR say our purpose was anything other than giving them money. They could go even further -- support blogs and podcasts that cover the NYC area.]]>
+      </description>
+      <source:markdown>Just heard an ad on WNYC-FM saying we should share news with them. That&#39;s a milestone. First time I&#39;ve ever heard NPR say our purpose was anything other than giving them money. They could go even further -- support blogs and podcasts that cover the NYC area.</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/05.html#a202859</guid>
+    </item>    <item>
+      <title>Oil First, America Last</title>
+      <link>https://plus.briantylercohen.com/p/oil-first-america-last</link>
+      <description>
+        <![CDATA[Trump sold out voters for oil and the chance to cosplay the strongman in Venezuela.]]>
+      </description>
+      <source:markdown>Trump sold out voters for oil and the chance to cosplay the strongman in Venezuela.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!8zd4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96769533-0809-41bd-9578-fdb23675f434_2020x1354.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://plus.briantylercohen.com/p/oil-first-america-last</guid>
+    </item>    <item>
+      <title>It’s hard to justify Tahoe icons</title>
+      <link>https://simonwillison.net/2026/Jan/5/its-hard-to-justify-tahoe-icons/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://tonsky.me/blog/tahoe-icons/">It’s hard to justify Tahoe icons</a></strong></p>
+        Devastating critique of the new menu icons in macOS Tahoe by Nikita Prokopov, who starts by quoting the 1992 Apple HIG rule to not "overload the user with complex icons" and then provides comprehensive evidence of Tahoe doing exactly that.</p>
+        <blockquote>
+        <p>In my opinion, Apple took on an impossible task: to add an icon to every menu item. There are just not enough good metaphors to do something like that.</p>
+        <p>But even if there were, the premise itself is questionable: if everything has an icon, it doesn’t mean users will find what they are looking for faster.</p>
+        <p>And even if the premise was solid, I still wish I could say: they did the best they could, given the goal. But that’s not true either: they did a poor job consistently applying the metaphors and designing the icons themselves.</p>
+        </blockquote>
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=46497712">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/design">design</a>, <a href="https://simonwillison.net/tags/macos">macos</a>, <a href="https://simonwillison.net/tags/usability">usability</a></p>]]>
+      </description>
+      <source:markdown>**[It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)**
+
+Devastating critique of the new menu icons in macOS Tahoe by Nikita Prokopov, who starts by quoting the 1992 Apple HIG rule to not &#34;overload the user with complex icons&#34; and then provides comprehensive evidence of Tahoe doing exactly that.
+
+&#62; In my opinion, Apple took on an impossible task: to add an icon to every menu item. There are just not enough good metaphors to do something like that.
+&#62;
+&#62; But even if there were, the premise itself is questionable: if everything has an icon, it doesn’t mean users will find what they are looking for faster.
+&#62;
+&#62; And even if the premise was solid, I still wish I could say: they did the best they could, given the goal. But that’s not true either: they did a poor job consistently applying the metaphors and designing the icons themselves.
+
+Via [Hacker News](https://news.ycombinator.com/item?id=46497712)
+
+Tags: [apple](https://simonwillison.net/tags/apple), [design](https://simonwillison.net/tags/design), [macos](https://simonwillison.net/tags/macos), [usability](https://simonwillison.net/tags/usability)</source:markdown>
+      <guid>cid://https://simonwillison.net/2026/Jan/5/its-hard-to-justify-tahoe-icons/#atom-everything</guid>
+    </item>    <item>
+      <title>Harlequin France is firing its human translators and replacing them with—welp, you guessed it.</title>
+      <link>https://lithub.com/harlequin-is-firing-its-human-translators-and-replacing-them-with-welp-you-guessed-it/</link>
+      <description>
+        <![CDATA[Harlequin France, which is owned by HarperCollins, has just confirmed that they&#8217;re shifting away from human translators with an eye to robot replacements. As The Bookseller reported this morning, this change has been in the works for several weeks. According]]>
+      </description>
+      <source:markdown>Harlequin France, which is owned by HarperCollins, has just confirmed that they’re shifting away from human translators with an eye to robot replacements. As The Bookseller reported this morning, this change has been in the works for several weeks. According</source:markdown>
+      <guid>cid://https://lithub.com/?p=265028</guid>
+    </item>    <item>
+      <title>Escape the early January doldrums by letting J.R.R. Tolkien read to you.</title>
+      <link>https://lithub.com/escape-the-early-january-doldrums-by-letting-j-r-r-tolkien-read-to-you/</link>
+      <description>
+        <![CDATA[It’s Reaping Monday, when all the “will get back to you in the new year!” emails we sowed in December are coming due. If you’re trying to get away from your inbox, or the sun setting too early, or dry]]>
+      </description>
+      <source:markdown>It’s Reaping Monday, when all the “will get back to you in the new year!” emails we sowed in December are coming due. If you’re trying to get away from your inbox, or the sun setting too early, or dry</source:markdown>
+      <guid>cid://https://lithub.com/?p=265029</guid>
+    </item>    <item>
+      <title>Rethinkings Out Loud</title>
+      <link>https://doc.searls.com/2026/01/05/rethinkings-out-loud/</link>
+      <description>
+        <![CDATA[Anchors Away Nothing is more North Atlantic than Greenland. If the US siezes it, NATO will transform from an alliance to a war zone, where allies become combatants. Does anyone outside Trump&#39;s amen corner want that? But let&#39;s say the US buys Greenland from Denmark, like it bought the Louisiana Territory from France and Alaska [&#8230;]]]>
+      </description>
+      <source:markdown>Anchors Away Nothing is more North Atlantic than Greenland. If the US siezes it, NATO will transform from an alliance to a war zone, where allies become combatants. Does anyone outside Trump&#39;s amen corner want that? But let&#39;s say the US buys Greenland from Denmark, like it bought the Louisiana Territory from France and Alaska \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/01/05/rethinkings-out-loud/</guid>
+    </item>    <item>
+      <title>Oxide and Friends Predictions 2026, today at 4pm PT</title>
+      <link>https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://discord.com/invite/QrcKGTTPrF">Oxide and Friends Predictions 2026, today at 4pm PT</a></strong></p>
+        I joined the Oxide and Friends podcast <a href="https://simonwillison.net/2025/Jan/10/ai-predictions/">last year</a> to predict the next 1, 3 and 6 years(!) of AI developments. With hindsight I did very badly, but they're inviting me back again anyway to have another go.</p>
+        <p>We will be recording live today at 4pm Pacific on their Discord - <a href="https://discord.com/invite/QrcKGTTPrF">you can join that here</a>, and the podcast version will go out shortly afterwards.</p>
+        <p>I'll be recording at their office in Emeryville and then heading to <a href="https://www.thecrucible.org/">the Crucible</a> to learn how to make neon signs.
+        
+            <p><small></small>Via <a href="https://bsky.app/profile/bcantrill.bsky.social/post/3mbovdf3h3s24">Bryan Cantrill</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/podcasts">podcasts</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/oxide">oxide</a></p>]]>
+      </description>
+      <source:markdown>**[Oxide and Friends Predictions 2026, today at 4pm PT](https://discord.com/invite/QrcKGTTPrF)**
+
+I joined the Oxide and Friends podcast [last year](https://simonwillison.net/2025/Jan/10/ai-predictions/) to predict the next 1, 3 and 6 years(!) of AI developments. With hindsight I did very badly, but they&#39;re inviting me back again anyway to have another go.
+
+We will be recording live today at 4pm Pacific on their Discord - [you can join that here](https://discord.com/invite/QrcKGTTPrF), and the podcast version will go out shortly afterwards.
+
+I&#39;ll be recording at their office in Emeryville and then heading to [the Crucible](https://www.thecrucible.org/) to learn how to make neon signs.
+
+
+
+Via [Bryan Cantrill](https://bsky.app/profile/bcantrill.bsky.social/post/3mbovdf3h3s24)
+
+Tags: [podcasts](https://simonwillison.net/tags/podcasts), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms), [oxide](https://simonwillison.net/tags/oxide)</source:markdown>
+      <guid>cid://https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/#atom-everything</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/01/05.html#a161953</link>
+      <description>
+        <![CDATA[Podcast: <a href="https://shownotes.scripting.com/scripting/2026/01/05/bloggerOfTheYear.html">Blogger of the Year</a>.]]>
+      </description>
+      <source:markdown>Podcast: [Blogger of the Year](https://shownotes.scripting.com/scripting/2026/01/05/bloggerOfTheYear.html).</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/05.html#a161953</guid>
+    </item>    <item>
+      <title>In 2025, most Americans read fewer than four books.</title>
+      <link>https://lithub.com/in-2025-most-americans-read-fewer-than-four-books/</link>
+      <description>
+        <![CDATA[According to a YouGov poll released at year&#8217;s end, American reading habits stay in the toilet. Four in ten Americans didn&#8217;t read a single book during our last spin around the sun. And of the 60% who did venture to]]>
+      </description>
+      <source:markdown>According to a YouGov poll released at year’s end, American reading habits stay in the toilet. Four in ten Americans didn’t read a single book during our last spin around the sun. And of the 60% who did venture to</source:markdown>
+      <guid>cid://https://lithub.com/?p=265018</guid>
+    </item>    <item>
+      <title>The last supported version of HP-UX is no more</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2026/01/05/hpux_end_of_life/</link>
+      <description>
+        <![CDATA[<h4>Remember when HP made its own CPUs and Unix? We wonder if it does</h4>
+              <p>The final version of HPE&#39;s own flavor of Unix, HP-UX 11i v3, is now out of support. It is the end of a line that started in 1982.</p>]]>
+      </description>
+      <source:markdown>#### Remember when HP made its own CPUs and Unix? We wonder if it does
+
+The final version of HPE&#39;s own flavor of Unix, HP-UX 11i v3, is now out of support. It is the end of a line that started in 1982.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243789</guid>
     </item>    <item>
       <title>Premio SAG 2026: predicciones de nominaciones al recién bautizado ACTORS</title>
       <link>https://www.palomitademaiz.net/premio-sag-2026-predicciones-de-nominaciones/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=premio-sag-2026-predicciones-de-nominaciones</link>
@@ -449,6 +585,364 @@ What I need to consider:
 The post [632\. Joan of Arc: Warrior Maid (Part 1)](https://therestishistory.com/632-joan-of-arc-warrior-maid-part-1/) appeared first on [The Rest is History](https://therestishistory.com).</source:markdown>
       <guid>cid://https://therestishistory.com/632-joan-of-arc-warrior-maid-part-1/</guid>
     </item>    <item>
+      <title>Implementing a Baybayin abugida input method on keyboard hardware</title>
+      <link>https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/?ref=rss</link>
+      <description>
+        <![CDATA[<p><em>For RSS readers: This article contains interactive content available on the <a href="https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/?ref=rss">original post on leanrada.com</a>.</em></p>
+        
+        <p>I made an input method to write Baybayin, a syllable-based writing system, using Roman letters on a hardware keyboard. <small>Banner photo lifted from a <a href="https://www.reddit.com/r/MechanicalKeyboards/comments/fesl6p/gc60_x_baybayin_keycaps/" target="_blank">Reddit post</a> showing Baybayin keycaps. This post is about a real Baybayin keyboard though.</small></p>
+        
+        <h2>The writing system</h2>
+        
+        <p><a href="https://en.wikipedia.org/wiki/Baybayin" target="_blank">Baybayin</a> is an ancient writing system in which a consonant-vowel syllable is written as one letter — it is an <strong>abugida</strong>. By default, letters have an inherent vowel which is /a/. To indicate a different vowel, a dot is added above or below the letter.</p>
+        
+        <ol>
+          <li><i baybay=""><ruby>ᜃ<rp> (</rp><rt>ka</rt><rp>)</rp></ruby></i>: The base letter on its own is the consonant plus the vowel <i>‘a’</i>.
+          </li><li><i baybay=""><ruby>ᜃᜒ<rp> (</rp><rt>ki</rt><rp>)</rp></ruby></i>: A dot above makes it end with <i>‘i’</i> / <i>‘e’</i>.
+          </li><li><i baybay=""><ruby>ᜃᜓ<rp> (</rp><rt>ku</rt><rp>)</rp></ruby></i>: A dot below makes it end with <i>‘u’</i> / <i>‘o’</i>.
+          </li><li><i baybay=""><ruby>ᜃ᜕<rp> (</rp><rt>k</rt><rp>)</rp></ruby></i>: A slash cancels the vowel (it’s called a <a href="https://en.wikipedia.org/wiki/Virama" target="_blank"><strong>virama</strong></a>).
+        </li></ol>
+        
+        <p>An example of a full word is <i baybay=""><ruby>ᜆ<rt>ta</rt>ᜆ᜕<rt>t</rt>ᜎᜓ<rt>lo</rt><rp>(tatlo)</rp></ruby></i>, which means the number three.</p>
+        <box-note><strong>HTML tip:</strong> I’m using the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ruby" target="_blank"><code>&lt;ruby&gt;</code></a> element to annotate Baybayin pronunciation in this post, similar to furigana for Japanese.</box-note>
+        <h2>Input design</h2>
+        
+        <p>There are many ways to design an input method for this writing system on a keyboard. The most straightforward would be to have a key for each letter. Assign every possible letter-diacritic combination its own key. There’d be a total of 63 resulting letters, which is a bit too much for a keyboard. For comparison, the Latin alphabet A-Z only has 26 letters.</p>
+        
+        <p>Layer or modes could help, accessed by holding the <kbd>Shift</kbd> or <kbd>Fn</kbd> key — after all, the Latin alphabet actually has 52 distinct symbols, counting both upper and lowercase.</p>
+        
+        <figure>
+          <img src="https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/every-combination.png?ref=rss" loading="lazy" width="824" height="353">
+          <figcaption>In this design, pressing Shift would change the vowel endings.
+        </figcaption></figure>
+        
+        <p>Or we could assign only the 17 base letters and the 3 vowel diacritics for a total of 20 keys for input. This would be a pretty efficient layout, and it’s the one used by Google’s mobile keyboard Gboard. Some logic on top of this would be required to combine diacritics and letters.</p>
+        
+        <figure>
+          <img src="https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/gboard.png?ref=rss" loading="lazy" width="1080" height="1028">
+          <figcaption>Gboard Baybayin layout
+        </figcaption></figure>
+        
+        <p>However, both of the above would require learning a whole new keyboard layout, wasting years of Latin alphabet-based muscle memory. For me who primarily uses the Latin alphabet for typing, this is worth considering.</p>
+        
+        <p>Let’s say I wanted to type in romanised alphabet, like romaji for Japanese or pinyin for Chinese. What if the keyboard itself can be programmed to convert keystrokes directly into Baybayin outputs? Implementing this on the hardware presents a nice challenge; one keypress would no longer directly correspond to one character.</p>
+        
+        <h2>My solution</h2>
+        
+        <p>I implemented this on top of a <a href="https://qmk.fm/" target="_blank">QMK</a> firmware base, making use of its neat Unicode API. This runs my keyboard’s microcontroller.</p>
+        
+        <p>It’s a pretty basic solution, just a bunch of if-elses and variables. We don’t need a buffer or a trie or whatever data structure. It only needs to know about the last pressed key. <small>Well, it’s a buffer of length 1.</small></p>
+        
+        <pre><code>void on_key_press(uint16_t keycode) {
+          bool curr_cons  = is_consonant(keycode);
+          bool prev_cons  = is_consonant(prev_keycode);
+          bool curr_vowel = !curr_cons;
+          // special case for NG
+          bool is_ng = prev_keycode == KEYCODE_N &amp;&amp; keycode == KEYCODE_G;
+        
+          // standalone vowel
+          if (curr_vowel &amp;&amp; !prev_cons) {
+            send_unicode(get_baybayin_unicode(keycode));
+          }
+          // initial consonant
+          else if (curr_cons &amp;&amp; !is_ng) {
+            send_unicode(get_baybayin_unicode(keycode));
+            send_unicode("᜕"); // virama, because no vowel initially
+          }
+          // vowel after consonant
+          else if (curr_vowel &amp;&amp; prev_cons) {
+            backspace(); // remove the initial virama
+        
+            if (keycode == KEYCODE_I || keycode == KEYCODE_E) {
+              send_unicode("ᜒ");
+            } else if (keycode == KEYCODE_U || keycode == KEYCODE_O) {
+              send_unicode("ᜓ");
+            }
+            // KEYCODE_A emits nothing since /a/ is the default vowel
+          }
+          // NG digraph
+          else { // is_ng
+            // replace previous N with the letter for NG
+            backspace(); // remove virama
+            backspace(); // remove ᜈ
+            send_unicode("ᜅ");
+            send_unicode("᜕");
+          }
+        
+          prev_keycode = keycode;
+        }</code></pre>
+        
+        <p>The code shown here is just the core loop for readability. Not shown is how to handle interference from other keys such as Backspace and Arrow keys and other housekeeping.</p>
+        
+        <h2>Housekeeping</h2>
+        
+        <p>Whenever a non-alphabet key is pressed, I just reset all state and skip further processing. This solves keyboard shortcuts: if I press <kbd>Ctrl</kbd> + <kbd>S</kbd> I want to save, not output <i baybay=""><ruby>ᜐ᜕<rt>s</rt></ruby></i>.</p>
+        
+        <p>This also solves a stale <code>prev_keycode</code>. When you press <kbd>Backspace</kbd> for example, <code>prev_keycode</code> is no longer accurate. A buffer would actually help here, but it’d unnecessarily complicate the code. Cursor movement keys <kbd>←</kbd>, <kbd>→</kbd>, or any other non-letter key for that matter, <kbd>1</kbd>, <kbd>.</kbd>, <kbd>F2</kbd>, etc.; all reset state.</p>
+        
+        <p>This cannot catch any state-invalidating actions that happen outside the keyboard, like selecting text with the mouse! A timeout takes care of these cases. After a short time without typing, state is reset.</p>
+        
+        <p>Essentially, we only want to convert into Baybayin when continuously typing sequences of letters. Otherwise, it should behave like a regular keyboard.</p>
+        
+        <p>The full working code is in <a href="https://github.com/Kalabasa/qmk_firmware/blob/2be68c4e8dc3977aaef1037d82d29ed8a59db903/keyboards/lily58/keymaps/Kalabasa/features/baybayin.c" target="_blank">my QMK fork on GitHub</a>.</p>
+        
+        <h2>Unicode encoding</h2>
+        
+        <p>The way the Unicode Consortium designed the encoding of the <a href="https://www.unicode.org/charts/nameslist/n_1700.html" target="_blank">Tagalog (Baybayin) Unicode block</a> made this solution pretty straightforward. The vowel-modifier diacritics are <strong>combining characters</strong>, which means they can just be output separately, right after the base character. There are no precomposed consonant-vowel symbols.</p>
+        
+        <pre><code>ᜆ +  ᜕ = ᜆ᜕</code></pre>
+        
+        <p>The word processing application or text renderer on the computer is what actually renders that sequence of characters as one combined symbol. In a way, one keypress still corresponds to one output character, except for a few special cases.</p>
+        
+        <h2>Special case: N + G</h2>
+        
+        <p>One special case is the letter <i baybay="">ᜅ</i>, representing the consonant /ŋ/. In English this sound is represented by two letters <i>‘ng’</i>. This romanisation breaks the rule of 1 Roman consonant letter to 1 Baybayin base letter. For example, <i>‘ngiti’</i> (meaning ‘smile’) is written as <i baybay=""><ruby>ᜅᜒ<rt>ngi</rt>ᜆᜒ<rt>ti</rt></ruby></i>. This special case is solved by <em>backtracking:</em> sending a signal to the computer to erase the previous N.</p>
+        
+        <h2>Backtracking</h2>
+        
+        <p>To backtrack, we just send a virtual Backspace to the computer. Coming from the keyboard, it will be indistinguishable from a real Backspace keypress.</p>
+        
+        <p>Backtracking is a thing mainly because the virama (‘vowel-killer’) is always output after typing a consonant. This is because when the user presses a consonant, we don’t know yet whether they’re going to type a syllable or stop at that point. <strong>Since base letters have an inherent vowel, we must immediately kill the inherent vowel with a virama when typing consonants.</strong> Only the next key will decide — we can backtrack the virama by then.</p>
+        
+        <p>The following simulation illustrates how the keyboard-based solution handles backtracking:</p>
+        
+        <pre>Interactive content: <a href="https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/?ref=rss">Visit the post to interact with this content.</a>
+        Alternative name: Figure
+        Alternative text: simulation of the input method</pre>
+        
+        <p>So pressing, say, the <kbd>M</kbd> key should not output just the base letter <i baybay=""><ruby>ᜋ<rp> (</rp><rt>ma</rt><rp>)</rp></ruby></i>, but the letter + virama <i baybay="">ᜋ᜕</i> at once. If you press <kbd>A</kbd> next, it would <em>actually output a Backspace</em>, erasing the virama and leaving <i baybay=""><ruby>ᜋ<rp> (</rp><rt>ma</rt><rp>)</rp></ruby></i> as intended. If you had pressed <kbd>I</kbd>, a Backspace is sent along with the I vowel diacritic <span>ᜒ</span>, producing <i baybay=""><ruby>ᜋᜒ<rp> (</rp><rt>mi</rt><rp>)</rp></ruby></i>.</p>
+        
+        <p>Because of the inherent vowel in most abugidas, a backtracking design seems to be used in other romanised input methods as well, such as <a href="https://anjal.net/" target="_blank">Anjal</a>, a romanised input method for Tamil.</p>
+        
+        <h2>Why not a buffer instead of backtracking?</h2>
+        
+        <p>Buffering keystrokes would remove the need to backtrack outputs, at the cost of responsiveness. In that setup, pressing a consonant would produce no glyph at all until the following key disambiguates the syllable and flushes the output. Loss of immediate visual feedback would make the keyboard feel unresponsive and breaks the rhythm of typing.</p>
+        <b>Input buffering demonstration!</b><input placeholder="type syllables">
+        <pre>Interactive content: <a href="https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/?ref=rss">Visit the post to interact with this content.</a>
+        Alternative name: Inline script</pre>
+        
+        <p>One of the downsides of a hardware-based solution is that we can only communicate via keycodes<sup>1</sup>. A software-based input method <em>editor</em> (IME) doesn’t have these restrictions; it can easily <em>edit</em> the string, access the undo stack, get the currently selected text, and more. This would eliminate the need for aggressive state invalidation and timeouts. There are pros and cons.</p>
+        
+        <h2>Why not implement a software IME?</h2>
+        
+        <p>Because it’s more fun to hack on keyboard firmware!</p>
+        
+        <p>More seriously, implementing this on the hardware makes it portable. Not that I often need to write Baybayin, but I use multiple computers with a KVM switch. Software input methods are very OS- or application-dependent. (On Linux, it depends on even more things, such as your desktop environment, GTK or QT, X or Wayland, you name it.) <em>This</em> input method lives in <em>my</em> keyboard. I could plug my keyboard into any computer that supports arbitrary Unicode input<sup>1</sup> and not have to install or reimplement anything.</p>
+        <box-note>Someone did <a href="https://inurwansah.my.id/2021/04/17/philippine-scripts-keyboard-for-linux/" target="_blank">make an input method for Baybayin</a> and other Philippine scripts for Linux (<a href="https://github.com/Ilhamkang/Phillippines-input-method" target="_blank">Github</a>).</box-note>
+        <h2><sup>1</sup>How does a keyboard even output Unicode?</h2>
+        
+        <p>Technically, it can’t. It requires a certain understanding with the computer OS.</p>
+        
+        <p>You know the Alt codes in Windows where you can summon any character by their code number? The keyboard basically types that sequence of keystrokes in quick succession when we say ‘send unicode’. This abstraction is all done by QMK, supporting Windows, Linux, and Mac’s Unicode input method.</p>
+        
+        <p>To enter <code>U+1700</code> on Linux for example, the keyboard rapidly sends the following keystrokes in order: Hold <kbd>Ctrl</kbd>. Hold <kbd>Shift</kbd>. <kbd>U</kbd>. <kbd>1</kbd>. <kbd>7</kbd>. <kbd>0</kbd>. <kbd>0</kbd>. <kbd>Enter</kbd>. Release <kbd>Ctrl</kbd>. Release <kbd>Shift</kbd>. This outputs a <i baybay="">ᜀ</i>.</p>
+        
+        <p>With all of the above logic, when I type <kbd>T</kbd><kbd>A</kbd>, the actual keycodes sent are: <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>U</kbd><kbd>1</kbd><kbd>7</kbd><kbd>0</kbd><kbd>6</kbd><kbd>Enter</kbd><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>U</kbd><kbd>1</kbd><kbd>7</kbd><kbd>1</kbd><kbd>5</kbd><kbd>Enter</kbd><kbd>Backspace</kbd></p>
+        
+        <p>The same Unicode API from QMK powers <a href="https://leanrada.com/notes/my-personalised-keyboard?ref=rss">emoji buttons in my keyboard!</a></p>
+        
+        <h2>Can this be generalised to other abugidas?</h2>
+        
+        <p>Baybayin is a relatively simple script, so the implementation here might be on the simpler side. Complications might come in the form of consonant clusters or different ways to join glyphs.</p>
+        
+        <p>The implementation depends heavily on the Unicode encoding of the script. From what I’ve seen, many other abugidas have been designed in a similar way having vowels encoded as combining characters that modify base consonants. So there’s probably a common pattern of implementation.</p>
+        
+        <p>See also</p>
+        
+        <ul>
+          <li><a href="https://www.unicode.org/events/utw/2023/documents/slides/Fixing-Input-Methods-for-Abugida-Scripts.pdf">Fixing Input Methods for Abugida Scripts (pdf, slides)</a>
+          </li><li><a href="https://elangocheran.com/2022/02/14/redesigning-an-input-method-for-an-abugida-script/">Redesigning an Input Method for an Abugida Script</a>
+        </li></ul>
+        
+        <h2>Source code</h2>
+        <a href="https://github.com/Kalabasa/qmk_firmware/blob/2be68c4e8dc3977aaef1037d82d29ed8a59db903/keyboards/lily58/keymaps/Kalabasa/features/baybayin.c" target="_blank">My QMK fork on GitHub</a>
+        <pre>Interactive content: <a href="https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/?ref=rss">Visit the post to interact with this content.</a>
+        Alternative name: Inline script</pre>]]>
+      </description>
+      <source:markdown>_For RSS readers: This article contains interactive content available on the [original post on leanrada.com](https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/?ref=rss)._
+
+I made an input method to write Baybayin, a syllable-based writing system, using Roman letters on a hardware keyboard. Banner photo lifted from a [Reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/fesl6p/gc60_x_baybayin_keycaps/) showing Baybayin keycaps. This post is about a real Baybayin keyboard though.
+
+## The writing system
+
+[Baybayin](https://en.wikipedia.org/wiki/Baybayin) is an ancient writing system in which a consonant-vowel syllable is written as one letter — it is an **abugida**. By default, letters have an inherent vowel which is /a/. To indicate a different vowel, a dot is added above or below the letter.
+
+1. _ᜃ (ka)_: The base letter on its own is the consonant plus the vowel _‘a’_.
+
+2. _ᜃᜒ (ki)_: A dot above makes it end with _‘i’_ / _‘e’_.
+
+3. _ᜃᜓ (ku)_: A dot below makes it end with _‘u’_ / _‘o’_.
+
+4. _ᜃ᜕ (k)_: A slash cancels the vowel (it’s called a [**virama**](https://en.wikipedia.org/wiki/Virama)).
+
+
+An example of a full word is _ᜆtaᜆ᜕tᜎᜓlo(tatlo)_, which means the number three.
+
+**HTML tip:** I’m using the [`&#60;ruby&#62;`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ruby) element to annotate Baybayin pronunciation in this post, similar to furigana for Japanese.
+
+## Input design
+
+There are many ways to design an input method for this writing system on a keyboard. The most straightforward would be to have a key for each letter. Assign every possible letter-diacritic combination its own key. There’d be a total of 63 resulting letters, which is a bit too much for a keyboard. For comparison, the Latin alphabet A-Z only has 26 letters.
+
+Layer or modes could help, accessed by holding the `Shift` or `Fn` key — after all, the Latin alphabet actually has 52 distinct symbols, counting both upper and lowercase.
+
+![](https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/every-combination.png?ref=rss)In this design, pressing Shift would change the vowel endings.
+
+Or we could assign only the 17 base letters and the 3 vowel diacritics for a total of 20 keys for input. This would be a pretty efficient layout, and it’s the one used by Google’s mobile keyboard Gboard. Some logic on top of this would be required to combine diacritics and letters.
+
+![](https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/gboard.png?ref=rss)Gboard Baybayin layout
+
+However, both of the above would require learning a whole new keyboard layout, wasting years of Latin alphabet-based muscle memory. For me who primarily uses the Latin alphabet for typing, this is worth considering.
+
+Let’s say I wanted to type in romanised alphabet, like romaji for Japanese or pinyin for Chinese. What if the keyboard itself can be programmed to convert keystrokes directly into Baybayin outputs? Implementing this on the hardware presents a nice challenge; one keypress would no longer directly correspond to one character.
+
+## My solution
+
+I implemented this on top of a [QMK](https://qmk.fm/) firmware base, making use of its neat Unicode API. This runs my keyboard’s microcontroller.
+
+It’s a pretty basic solution, just a bunch of if-elses and variables. We don’t need a buffer or a trie or whatever data structure. It only needs to know about the last pressed key. Well, it’s a buffer of length 1.
+
+```
+void on_key_press(uint16_t keycode) {
+  bool curr_cons  = is_consonant(keycode);
+  bool prev_cons  = is_consonant(prev_keycode);
+  bool curr_vowel = !curr_cons;
+  // special case for NG
+  bool is_ng = prev_keycode == KEYCODE_N &#38;&#38; keycode == KEYCODE_G;
+
+  // standalone vowel
+  if (curr_vowel &#38;&#38; !prev_cons) {
+    send_unicode(get_baybayin_unicode(keycode));
+  }
+  // initial consonant
+  else if (curr_cons &#38;&#38; !is_ng) {
+    send_unicode(get_baybayin_unicode(keycode));
+    send_unicode(&#34;᜕&#34;); // virama, because no vowel initially
+  }
+  // vowel after consonant
+  else if (curr_vowel &#38;&#38; prev_cons) {
+    backspace(); // remove the initial virama
+
+    if (keycode == KEYCODE_I || keycode == KEYCODE_E) {
+      send_unicode(&#34;ᜒ&#34;);
+    } else if (keycode == KEYCODE_U || keycode == KEYCODE_O) {
+      send_unicode(&#34;ᜓ&#34;);
+    }
+    // KEYCODE_A emits nothing since /a/ is the default vowel
+  }
+  // NG digraph
+  else { // is_ng
+    // replace previous N with the letter for NG
+    backspace(); // remove virama
+    backspace(); // remove ᜈ
+    send_unicode(&#34;ᜅ&#34;);
+    send_unicode(&#34;᜕&#34;);
+  }
+
+  prev_keycode = keycode;
+}
+```
+
+The code shown here is just the core loop for readability. Not shown is how to handle interference from other keys such as Backspace and Arrow keys and other housekeeping.
+
+## Housekeeping
+
+Whenever a non-alphabet key is pressed, I just reset all state and skip further processing. This solves keyboard shortcuts: if I press `Ctrl` \+ `S` I want to save, not output _ᜐ᜕s_.
+
+This also solves a stale `prev_keycode`. When you press `Backspace` for example, `prev_keycode` is no longer accurate. A buffer would actually help here, but it’d unnecessarily complicate the code. Cursor movement keys `←`, `→`, or any other non-letter key for that matter, `1`, `.`, `F2`, etc.; all reset state.
+
+This cannot catch any state-invalidating actions that happen outside the keyboard, like selecting text with the mouse! A timeout takes care of these cases. After a short time without typing, state is reset.
+
+Essentially, we only want to convert into Baybayin when continuously typing sequences of letters. Otherwise, it should behave like a regular keyboard.
+
+The full working code is in [my QMK fork on GitHub](https://github.com/Kalabasa/qmk_firmware/blob/2be68c4e8dc3977aaef1037d82d29ed8a59db903/keyboards/lily58/keymaps/Kalabasa/features/baybayin.c).
+
+## Unicode encoding
+
+The way the Unicode Consortium designed the encoding of the [Tagalog (Baybayin) Unicode block](https://www.unicode.org/charts/nameslist/n_1700.html) made this solution pretty straightforward. The vowel-modifier diacritics are **combining characters**, which means they can just be output separately, right after the base character. There are no precomposed consonant-vowel symbols.
+
+```
+ᜆ +  ᜕ = ᜆ᜕
+```
+
+The word processing application or text renderer on the computer is what actually renders that sequence of characters as one combined symbol. In a way, one keypress still corresponds to one output character, except for a few special cases.
+
+## Special case: N + G
+
+One special case is the letter _ᜅ_, representing the consonant /ŋ/. In English this sound is represented by two letters _‘ng’_. This romanisation breaks the rule of 1 Roman consonant letter to 1 Baybayin base letter. For example, _‘ngiti’_ (meaning ‘smile’) is written as _ᜅᜒngiᜆᜒti_. This special case is solved by _backtracking:_ sending a signal to the computer to erase the previous N.
+
+## Backtracking
+
+To backtrack, we just send a virtual Backspace to the computer. Coming from the keyboard, it will be indistinguishable from a real Backspace keypress.
+
+Backtracking is a thing mainly because the virama (‘vowel-killer’) is always output after typing a consonant. This is because when the user presses a consonant, we don’t know yet whether they’re going to type a syllable or stop at that point. **Since base letters have an inherent vowel, we must immediately kill the inherent vowel with a virama when typing consonants.** Only the next key will decide — we can backtrack the virama by then.
+
+The following simulation illustrates how the keyboard-based solution handles backtracking:
+
+```
+Interactive content: Visit the post to interact with this content.
+Alternative name: Figure
+Alternative text: simulation of the input method
+```
+
+So pressing, say, the `M` key should not output just the base letter _ᜋ (ma)_, but the letter + virama _ᜋ᜕_ at once. If you press `A` next, it would _actually output a Backspace_, erasing the virama and leaving _ᜋ (ma)_ as intended. If you had pressed `I`, a Backspace is sent along with the I vowel diacritic ᜒ, producing _ᜋᜒ (mi)_.
+
+Because of the inherent vowel in most abugidas, a backtracking design seems to be used in other romanised input methods as well, such as [Anjal](https://anjal.net/), a romanised input method for Tamil.
+
+## Why not a buffer instead of backtracking?
+
+Buffering keystrokes would remove the need to backtrack outputs, at the cost of responsiveness. In that setup, pressing a consonant would produce no glyph at all until the following key disambiguates the syllable and flushes the output. Loss of immediate visual feedback would make the keyboard feel unresponsive and breaks the rhythm of typing.
+
+ **Input buffering demonstration!**
+
+```
+Interactive content: Visit the post to interact with this content.
+Alternative name: Inline script
+```
+
+One of the downsides of a hardware-based solution is that we can only communicate via keycodes1. A software-based input method _editor_ (IME) doesn’t have these restrictions; it can easily _edit_ the string, access the undo stack, get the currently selected text, and more. This would eliminate the need for aggressive state invalidation and timeouts. There are pros and cons.
+
+## Why not implement a software IME?
+
+Because it’s more fun to hack on keyboard firmware!
+
+More seriously, implementing this on the hardware makes it portable. Not that I often need to write Baybayin, but I use multiple computers with a KVM switch. Software input methods are very OS- or application-dependent. (On Linux, it depends on even more things, such as your desktop environment, GTK or QT, X or Wayland, you name it.) _This_ input method lives in _my_ keyboard. I could plug my keyboard into any computer that supports arbitrary Unicode input1 and not have to install or reimplement anything.
+
+Someone did [make an input method for Baybayin](https://inurwansah.my.id/2021/04/17/philippine-scripts-keyboard-for-linux/) and other Philippine scripts for Linux ( [Github](https://github.com/Ilhamkang/Phillippines-input-method)).
+
+## 1How does a keyboard even output Unicode?
+
+Technically, it can’t. It requires a certain understanding with the computer OS.
+
+You know the Alt codes in Windows where you can summon any character by their code number? The keyboard basically types that sequence of keystrokes in quick succession when we say ‘send unicode’. This abstraction is all done by QMK, supporting Windows, Linux, and Mac’s Unicode input method.
+
+To enter `U+1700` on Linux for example, the keyboard rapidly sends the following keystrokes in order: Hold `Ctrl`. Hold `Shift`. `U`. `1`. `7`. `0`. `0`. `Enter`. Release `Ctrl`. Release `Shift`. This outputs a _ᜀ_.
+
+With all of the above logic, when I type `T`  `A`, the actual keycodes sent are: `Ctrl`  `Shift`  `U`  `1`  `7`  `0`  `6`  `Enter`  `Ctrl`  `Shift`  `U`  `1`  `7`  `1`  `5`  `Enter`  `Backspace`
+
+The same Unicode API from QMK powers [emoji buttons in my keyboard!](https://leanrada.com/notes/my-personalised-keyboard?ref=rss)
+
+## Can this be generalised to other abugidas?
+
+Baybayin is a relatively simple script, so the implementation here might be on the simpler side. Complications might come in the form of consonant clusters or different ways to join glyphs.
+
+The implementation depends heavily on the Unicode encoding of the script. From what I’ve seen, many other abugidas have been designed in a similar way having vowels encoded as combining characters that modify base consonants. So there’s probably a common pattern of implementation.
+
+See also
+
+- [Fixing Input Methods for Abugida Scripts (pdf, slides)](https://www.unicode.org/events/utw/2023/documents/slides/Fixing-Input-Methods-for-Abugida-Scripts.pdf)
+- [Redesigning an Input Method for an Abugida Script](https://elangocheran.com/2022/02/14/redesigning-an-input-method-for-an-abugida-script/)
+
+## Source code
+
+ [My QMK fork on GitHub](https://github.com/Kalabasa/qmk_firmware/blob/2be68c4e8dc3977aaef1037d82d29ed8a59db903/keyboards/lily58/keymaps/Kalabasa/features/baybayin.c)
+
+```
+Interactive content: Visit the post to interact with this content.
+Alternative name: Inline script
+```</source:markdown>
+      <guid>cid://https://leanrada.com/notes/baybayin_abugida_keyboard_qmk/?ref=rss</guid>
+    </item>    <item>
       <title>Acts of war</title>
       <link>https://andysylvester.com/2026/01/04/acts-of-war/</link>
       <description>
@@ -733,6 +1227,8 @@ Reach for the sliders!
         
         <p>Reach for the sliders!</p>
         
+        <p>(You can scroll the demo horizontally on mobile)</p>
+        
         <div class="table-wrapper">
         
           <iframe src="https://gingerbeardman.github.io/webgl-crt-shader/" width="740" height="740">
@@ -766,6 +1262,8 @@ It began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/po
 ## Live Demo
 
 Reach for the sliders!
+
+(You can scroll the demo horizontally on mobile)
 
 !\[screenshot\](https://cdn.gingerbeardman.com/images/posts/glsl-web-crt-shader.png)
 
@@ -1565,7 +2063,7 @@ Tags: [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://si
       <source:markdown>Playing tunes in a kitchen on a Saturday night.</source:markdown>
       <guid>cid://https://adactio.com/notes/22336</guid>
     </item>    <item>
-      <title>‘Blind Into Caracas’</title>
+      <title>‘Blind Into Caracas.’</title>
       <link>https://fallows.substack.com/p/blind-into-caracas</link>
       <description>
         <![CDATA[Less than 24 hours in, members of the Trump team are celebrating victory. None of them seem to have wondered what happens a day, a month, a decade from now.]]>
@@ -12834,9 +13332,9 @@ I saw a critique of my writing that said I don&#39;t put enough titles in my wri
       <title>Satur Daze</title>
       <link>https://doc.searls.com/2025/12/20/satur-daze/</link>
       <description>
-        <![CDATA[Feel and Look First, Ethan Mollick&#39;s latest on AI is thoughtful and informative. It also introduced me to Nano Banana Pro, Google&#39;s Gemini-based image creator/editor. This comes at a time when I have sworn off using AI-generated art, because all of it looks like AI-generated art.  My own arc with AI-generated art has gone like [&#8230;]]]>
+        <![CDATA[Nows [5 January update] For some reason, this set of posts I wrote last Saturday appeared on 20 November of last year. Dunno why. Anyway, right now I am in San Marino, California, where it is finally sunny and paradisal, after monsoons soaked the holidays. Tomorrow I&#8217;ll be back in Bloomington, Indiana, which (seriously) moved [&#8230;]]]>
       </description>
-      <source:markdown>Feel and Look First, Ethan Mollick&#39;s latest on AI is thoughtful and informative. It also introduced me to Nano Banana Pro, Google&#39;s Gemini-based image creator/editor. This comes at a time when I have sworn off using AI-generated art, because all of it looks like AI-generated art.  My own arc with AI-generated art has gone like \[…\]</source:markdown>
+      <source:markdown>Nows \[5 January update\] For some reason, this set of posts I wrote last Saturday appeared on 20 November of last year. Dunno why. Anyway, right now I am in San Marino, California, where it is finally sunny and paradisal, after monsoons soaked the holidays. Tomorrow I’ll be back in Bloomington, Indiana, which (seriously) moved \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2025/12/20/satur-daze/</guid>
     </item>    <item>
       <title>The Shape of AI: Jaggedness, Bottlenecks and Salients</title>

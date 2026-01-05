@@ -4,10 +4,126 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>05 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>05 Jan 26 12:59 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AWS raises GPU prices 15% on a Saturday, hopes you weren&#39;t paying attention</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/aws_price_increase/</link>
+      <description>
+        <![CDATA[<h4>An anomaly or the beginning of a new trend? My bet&#39;s on the latter</h4> <p>I&#39;ve been tracking <a target="_blank" href="https://www.lastweekinaws.com/" rel="nofollow">AWS</a> for a long time, with a specific emphasis on pricing. &#34;What happens if AWS hikes prices&#34; has always been something of a boogeyman, trotted out as a hypothetical to urge folks to avoid taking dependencies on a given provider.…</p>]]>
+      </description>
+      <source:markdown>#### An anomaly or the beginning of a new trend? My bet&#39;s on the latter
+
+I&#39;ve been tracking [AWS](https://www.lastweekinaws.com/) for a long time, with a specific emphasis on pricing. &#34;What happens if AWS hikes prices&#34; has always been something of a boogeyman, trotted out as a hypothetical to urge folks to avoid taking dependencies on a given provider.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243796</guid>
+    </item>    <item>
+      <title>I Am Artemis: Jacki Mahaffey</title>
+      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jacki-mahaffey/</link>
+      <description>
+        <![CDATA[Listen to this audio excerpt from Jacki Mahaffey, Artemis II chief training officer: When the Artemis II crew travels around the Moon aboard the Orion spacecraft, they will have spent countless hours training for their lunar mission, and Jacki Mahaffey will have played a role in preparing them for their journey. As the Artemis II [&#8230;]]]>
+      </description>
+      <source:markdown>Listen to this audio excerpt from Jacki Mahaffey, Artemis II chief training officer: When the Artemis II crew travels around the Moon aboard the Orion spacecraft, they will have spent countless hours training for their lunar mission, and Jacki Mahaffey will have played a role in preparing them for their journey. As the Artemis II \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=938197</guid>
+    </item>    <item>
+      <title>Congrats, cybercrims: You just fell into a honeypot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/resecurity_honeypot_shinyhunters/</link>
+      <description>
+        <![CDATA[<h4>Subpoena issued to former ShinyHunters member</h4> <p>Resecurity offered its &#34;congratulations&#34; to the Scattered Lapsus$ Hunters cybercrime crew for falling into its threat intel team&#39;s honeypot – resulting in a subpoena being issued for one of the data thieves. Meanwhile, the notorious extortionists have since removed their claims of gaining &#34;full access&#34; to the security shop&#39;s systems.…</p>]]>
+      </description>
+      <source:markdown>#### Subpoena issued to former ShinyHunters member
+
+Resecurity offered its &#34;congratulations&#34; to the Scattered Lapsus$ Hunters cybercrime crew for falling into its threat intel team&#39;s honeypot – resulting in a subpoena being issued for one of the data thieves. Meanwhile, the notorious extortionists have since removed their claims of gaining &#34;full access&#34; to the security shop&#39;s systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243795</guid>
+    </item>    <item>
+      <title>NASA to Cover US Spacewalks 94, 95 at International Space Station</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/</link>
+      <description>
+        <![CDATA[NASA astronauts will conduct two spacewalks Thursday, Jan. 8, and Thursday, Jan. 15, outside the International Space Station, and the agency will provide comprehensive coverage. The first spacewalk is scheduled to begin at 8 a.m. EST on Jan. 8 and last about six hours and 30 minutes. NASA will provide live coverage beginning at 6:30 [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronauts will conduct two spacewalks Thursday, Jan. 8, and Thursday, Jan. 15, outside the International Space Station, and the agency will provide comprehensive coverage. The first spacewalk is scheduled to begin at 8 a.m. EST on Jan. 8 and last about six hours and 30 minutes. NASA will provide live coverage beginning at 6:30 \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=941585</guid>
+    </item>    <item>
+      <title>Playing Koi: Palo Alto isn&#39;t saying if it will buy security start-up</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/playing_koi_palo_alto_isnt/</link>
+      <description>
+        <![CDATA[<h4>CEO Nikesh Arora&#39;s trip to Tel Aviv last month sparked rumors.</h4> <p>Palo Alto Networks is on shopping spree. The company is reportedly considering a $400 million purchase of Israeli cybersecurity start up Koi, which raised $48 million in funding last year. …</p>]]>
+      </description>
+      <source:markdown>#### CEO Nikesh Arora&#39;s trip to Tel Aviv last month sparked rumors.
+
+Palo Alto Networks is on shopping spree. The company is reportedly considering a $400 million purchase of Israeli cybersecurity start up Koi, which raised $48 million in funding last year. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243793</guid>
+    </item>    <item>
+      <title>Venezuela loses president, but gains empty Starlink internet offer</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/starlink_free_service_venezuela/</link>
+      <description>
+        <![CDATA[<h4>With no hardware for sale and no local service agreement, SpaceX’s move looks more like politics than philanthropy</h4> <p>The US just invaded your country, kidnapped your president, and wants to take your oil. But good news, Venezuelans, Starlink claims you can get a month of free Internet, even though it doesn&#39;t say how that could work in a place where it doesn&#39;t offer service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### With no hardware for sale and no local service agreement, SpaceX’s move looks more like politics than philanthropy
+
+The US just invaded your country, kidnapped your president, and wants to take your oil. But good news, Venezuelans, Starlink claims you can get a month of free Internet, even though it doesn&#39;t say how that could work in a place where it doesn&#39;t offer service.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243792</guid>
+    </item>    <item>
+      <title>NASA’s Hubble Examines Cloud-9, First of New Type of Object</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-examines-cloud-9-first-of-new-type-of-object/</link>
+      <description>
+        <![CDATA[A team using NASA’s Hubble Space Telescope has uncovered a new type of astronomical object — a starless, gas-rich, dark-matter cloud considered a “relic” or remnant of early galaxy formation. Nicknamed “Cloud-9,” this is the first confirmed detection of such an object in the universe — a finding that furthers the understanding of galaxy formation, […]]]>
+      </description>
+      <source:markdown>A team using NASA’s Hubble Space Telescope has uncovered a new type of astronomical object — a starless, gas-rich, dark-matter cloud considered a “relic” or remnant of early galaxy formation. Nicknamed “Cloud-9,” this is the first confirmed detection of such an object in the universe — a finding that furthers the understanding of galaxy formation, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-examines-cloud-9-first-of-new-type-of-object/</guid>
+    </item>    <item>
+      <title>5 Tips to Craft a Standout NASA Internship Application</title>
+      <link>https://www.nasa.gov/learning-resources/tips-to-craft-standout-internship-application/</link>
+      <description>
+        <![CDATA[A NASA internship provides a stellar opportunity to launch your future as part of America’s aerospace workforce. NASA interns take on meaningful work and contribute to exciting agency projects with the guidance of a supportive mentor. The agency&#8217;s internship program regularly ranks as the nation’s most prestigious and competition is steep: in fiscal year 2025, [&#8230;]]]>
+      </description>
+      <source:markdown>A NASA internship provides a stellar opportunity to launch your future as part of America’s aerospace workforce. NASA interns take on meaningful work and contribute to exciting agency projects with the guidance of a supportive mentor. The agency’s internship program regularly ranks as the nation’s most prestigious and competition is steep: in fiscal year 2025, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=861820</guid>
+    </item>    <item>
+      <title>Qualcomm is determined to cut a slice out of Intel&#39;s PC pie with latest Snapdragon chips</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/qualcomm_launches_snapdragon_x2_plus/</link>
+      <description>
+        <![CDATA[<h4>Enterprises have been slow to adopt Arm laptops so far</h4> <p>Qualcomm is trying to become a major player in the laptop processor space. Its Snapdragon X Elite and X Plus chips, along with a concerted effort to improve the Windows on Arm software ecosystem, have made it a credible alternative to Intel and AMD, although it&#39;s still stuck at below 1% market share. On Monday at CES in Las Vegas, the company showed the next step in this strategy: the next-gen Snapdragon X2 Plus chips, which are targeted at budget and mainstream systems.…</p>]]>
+      </description>
+      <source:markdown>#### Enterprises have been slow to adopt Arm laptops so far
+
+Qualcomm is trying to become a major player in the laptop processor space. Its Snapdragon X Elite and X Plus chips, along with a concerted effort to improve the Windows on Arm software ecosystem, have made it a credible alternative to Intel and AMD, although it&#39;s still stuck at below 1% market share. On Monday at CES in Las Vegas, the company showed the next step in this strategy: the next-gen Snapdragon X2 Plus chips, which are targeted at budget and mainstream systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243764</guid>
+    </item>    <item>
+      <title>U.S. Military Ends Practice of Shooting Live Animals to Train Medics to Treat Battlefield Wounds</title>
+      <link>https://www.smithsonianmag.com/smart-news/us-military-ends-practice-of-shooting-live-animals-to-train-medics-to-treat-battlefield-wounds-180987942/</link>
+      <description>
+        <![CDATA[The 2026 National Defense Authorization Act bans the use of live animals in live fire training exercises and prohibits "painful" research on domestic cats and dogs]]>
+      </description>
+      <source:markdown>The 2026 National Defense Authorization Act bans the use of live animals in live fire training exercises and prohibits &#34;painful&#34; research on domestic cats and dogs</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rz-c6nUMcHMkTSZGx4x4NT-2-Ck=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/0b/cf0b0b7a-e9f8-4637-a5c5-afbf9d19bbab/pexels-pavel-bondarenko-1393453-2722455.jpg" length="" type="" />
+    </item>    <item>
+      <title>A Rare, Parasitic &#39;Fairy Lantern&#39; Plant Species Was Discovered in Malaysia. It Might Be Critically Endangered</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-rare-parasitic-fairy-lantern-plant-species-was-discovered-in-malaysia-it-might-be-critically-endangered-180987941/</link>
+      <description>
+        <![CDATA[The plant was first spotted near a popular picnic site within a forest. But subsequent surveys have found fewer than 20 individuals of the species, named <em>Thismia selangorensis</em>]]>
+      </description>
+      <source:markdown>The plant was first spotted near a popular picnic site within a forest. But subsequent surveys have found fewer than 20 individuals of the species, named _Thismia selangorensis_</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/x7eHS5pWnSqXOR_4E8d9_nspUGk=/420x240/filters:focal(263x350:264x351)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/84/1584be05-32da-4661-9b02-0e8151987764/low-res_th_selangorensis_photo_by_gim_siew_tan_1.jpg" length="" type="" />
+    </item>    <item>
+      <title>EU won&#39;t scrap tech regs just because Washington dislikes them</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/eu_us_tech_regulation/</link>
+      <description>
+        <![CDATA[<h4>US trade body threatens software and services market access unless European approach changes</h4> <p>The EU has pledged to stand firm against US threats following fines levied against Amercian tech companies for breaching recently introduced digital laws.…</p>]]>
+      </description>
+      <source:markdown>#### US trade body threatens software and services market access unless European approach changes
+
+The EU has pledged to stand firm against US threats following fines levied against Amercian tech companies for breaching recently introduced digital laws.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243791</guid>
+    </item>    <item>
+      <title>Scientific Balloon Begins Antarctic Ascent</title>
+      <link>https://www.nasa.gov/image-article/scientific-balloon-begins-antarctic-ascent/</link>
+      <description>
+        <![CDATA[A scientific balloon starts its ascent into the air as it prepares to launch carrying NASA’s Payload for Ultrahigh Energy Observations (PUEO) mission. The mission lifted off from Antarctica at 5:56 a.m. NZST, Saturday, Dec. 20 (11:56 a.m., Friday, Dec. 19 in U.S. Eastern Time). The PUEO mission is designed to detect radio signals created [&#8230;]]]>
+      </description>
+      <source:markdown>A scientific balloon starts its ascent into the air as it prepares to launch carrying NASA’s Payload for Ultrahigh Energy Observations (PUEO) mission. The mission lifted off from Antarctica at 5:56 a.m. NZST, Saturday, Dec. 20 (11:56 a.m., Friday, Dec. 19 in U.S. Eastern Time). The PUEO mission is designed to detect radio signals created \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=940745</guid>
+    </item>    <item>
       <title>The last supported version of HP-UX is no more</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/hpux_end_of_life/</link>
       <description>
@@ -17,6 +133,14 @@
 
 The final version of HPE&#39;s own flavor of Unix, HP-UX 11i v3, is now out of support. It is the end of a line that started in 1982.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243789</guid>
+    </item>    <item>
+      <title>Hundreds of Mysterious Victorian-Era Shoes Are Washing Up on a Beach in Wales. Nobody Knows Where They Came From</title>
+      <link>https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/</link>
+      <description>
+        <![CDATA[The leading theory is that the black leather boots, which were discovered by volunteers, were traveling on a cargo ship that sank nearby roughly 150 years ago]]>
+      </description>
+      <source:markdown>The leading theory is that the black leather boots, which were discovered by volunteers, were traveling on a cargo ship that sank nearby roughly 150 years ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_XEoR39UoklgDR1nyiUAEB-3qd4=/420x240/filters:focal(720x542:721x543)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/64/32/6432f633-f07d-425e-b072-f71ea07d54a8/603861100_1345802474224984_8484917600084348938_n.jpg" length="" type="" />
     </item>    <item>
       <title>In Quantum Mechanics, Nothingness Is the Potential To Be Anything</title>
       <link>https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/</link>
@@ -59,11 +183,11 @@ Satellite phone services could play a part in Britain&#39;s troubled Emergency S
       <title>Capita tells civil servants to wait for chatbots to fix pension portal woes</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/05/capita_pension_portal_chatbots/</link>
       <description>
-        <![CDATA[<h4>Outsourcer promises customers a service with &#39;AI at its core.&#39; They just want a website that works</h4> <p>Capita has told users of its ailing UK civil service pension portal to wait until new chatbots go live before contacting it again about problems.…</p>]]>
+        <![CDATA[<h4>Outsourcer promises customers a service with &#39;AI at its core.&#39; They just want a website that works</h4> <p><strong>Exclusive</strong>  Capita has told users of its ailing UK civil service pension portal to wait until new chatbots go live before contacting it again about problems.…</p>]]>
       </description>
       <source:markdown>#### Outsourcer promises customers a service with &#39;AI at its core.&#39; They just want a website that works
 
-Capita has told users of its ailing UK civil service pension portal to wait until new chatbots go live before contacting it again about problems.…</source:markdown>
+**Exclusive**  Capita has told users of its ailing UK civil service pension portal to wait until new chatbots go live before contacting it again about problems.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243785</guid>
     </item>    <item>
       <title>Microsoft quietly kills official way to activate Windows 11/10 without internet</title>
@@ -570,9 +694,9 @@ A ransomware negotiator and a security incident response manager have admitted t
       <title>2026 AAS Hyperwall Schedule</title>
       <link>https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/</link>
       <description>
-        <![CDATA[247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe […]]]>
+        <![CDATA[247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMTechnologies to Discover Habitable WorldsDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe […]]]>
       </description>
-      <source:markdown>247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe \[…\]</source:markdown>
+      <source:markdown>247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMTechnologies to Discover Habitable WorldsDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/</guid>
     </item>    <item>
       <title>New York’s incoming mayor bans Raspberry Pi at his inauguration party</title>
