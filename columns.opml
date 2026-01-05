@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>05 Jan 26 08:14 -0800</dateCreated>
+        <dateCreated>05 Jan 26 12:59 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -326,6 +326,7 @@
         <outline text="Web Dev blog" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml" htmlUrl="https://web.dev/blog/" description="All of web.dev&#39;s blog posts."></outline>
         <outline text="Web Recorder" type="rss" xmlUrl="https://webrecorder.net/feed.xml" htmlUrl="https://webrecorder.net/" description="What&#39;s new in the world of web archiving"></outline>
         <outline text="WebKit blog" type="rss" xmlUrl="https://webkit.org/feed/" htmlUrl="https://webkit.org,https://webkit.org/feed/" description="Open Source Web Browser Engine" url="https://webkit.org/feed/"></outline>
+        <outline text="Well Gedacht" type="rss" xmlUrl="https://blog.wellgedacht.org/wgp/feed/" htmlUrl="https://blog.wellgedacht.org/wgp/" description="News &amp; Updates"></outline>
         <outline text="Werd IO" type="rss" xmlUrl="https://werd.io/rss/" htmlUrl="https://werd.io/,https://werd.io/rss/" description="Writing at the intersection of technology, journalism, and community." url="https://werd.io/rss/"></outline>
         <outline text="Windows Developer Blog" type="rss" xmlUrl="https://blogs.windows.com/windowsdeveloper/feed/" htmlUrl="https://blogs.windows.com/windowsdeveloper/,https://blogs.windows.com/windowsdeveloper/feed/" url="https://blogs.windows.com/windowsdeveloper/feed/"></outline>
         <outline text="WoLpH blog" type="rss" xmlUrl="https://w.wol.ph/feed/" htmlUrl="https://w.wol.ph,https://w.wol.ph/feed/" description="Rick van Hattem. Dutch entrepreneur and programmer, interested in scaling large systems. Currently mostly working with Python, Flask, Django and PostgreSQL" url="https://w.wol.ph/feed/"></outline>
