@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Library and Archives organizations</title>
-        <dateCreated>05 Jan 26 12:59 -0800</dateCreated>
+        <dateCreated>06 Jan 26 08:11 -0800</dateCreated>
     </head>
     <body>
         <outline text="Association of Research Libraries News" type="rss" xmlUrl="https://www.arl.org/feed/" htmlUrl="https://www.arl.org/,https://www.arl.org/feed/" url="https://www.arl.org/feed/"></outline>
@@ -24,6 +24,6 @@
         <outline text="ROR Research ID Blog" type="atom" xmlUrl="https://ror.org/feed.xml" htmlUrl="https://ror.org/feed.xml,https://ror.org/index.xml,https://ror.org/" description="The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research and funding organizations." url="https://ror.org/feed.xml"></outline>
         <outline text="Scholarly Kitchen" type="rss" xmlUrl="https://scholarlykitchen.sspnet.org/feed/" htmlUrl="https://scholarlykitchen.sspnet.org/,https://scholarlykitchen.sspnet.org/feed/" description="What’s Hot and Cooking In Scholarly Publishing" url="https://scholarlykitchen.sspnet.org/feed/"></outline>
         <outline text="SciELO in Perspective" type="rss" xmlUrl="https://blog.scielo.org/en/feed/" htmlUrl="https://blog.scielo.org/en,https://blog.scielo.org/en/feed/" url="https://blog.scielo.org/en/feed/"></outline>
-        <outline text="Standard Ebooks, new releaases" type="rss" xmlUrl="https://standardebooks.org/feeds/rss/new-releases" htmlUrl="https://standardebooks.org,https://standardebooks.org/feeds/rss/new-releases" description="The 15 latest Standard Ebooks, most-recently-released first." url="https://standardebooks.org/feeds/rss/new-releases"></outline>
+        <outline text="Standard Ebooks, new releaases" type="rss" xmlUrl="https://standardebooks.org/feeds/rss/new-releases" htmlUrl="https://standardebooks.org/feeds/rss/new-releases,https://standardebooks.org/feeds/rss/new-releases" description="The 15 latest Standard Ebooks, most-recently-released first." url="https://standardebooks.org/feeds/rss/new-releases"></outline>
     </body>
 </opml>
