@@ -1,8 +1,8 @@
 ---
-title: The Antenna
+title: An Antenna
 ---
 
-# The Antenna
+# An Antenna
 
 > An experiment in personal news aggregation
 

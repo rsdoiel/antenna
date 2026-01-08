@@ -355,4 +355,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Post-Platform Toolkit](https://toolkit.wellgedacht.org/feed.php)
 - [Kettlekasten Blog](https://zettelkasten.de/feed.atom)
 - [Well Gedacht](https://blog.wellgedacht.org/wgp/feed/)
+- [BZ Blog](https://blogsystem5.substack.com/feed)
+
 
