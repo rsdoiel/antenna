@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>07 Jan 26 08:10 -0800</dateCreated>
+        <dateCreated>08 Jan 26 08:13 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -23,6 +23,7 @@
         <outline text="Ashwin&#39;s Chronicles" type="atom" xmlUrl="https://ashwinschronicles.github.io/feeds/all.atom.xml" htmlUrl="https://ashwinschronicles.github.io/,https://ashwinschronicles.github.io/feeds/all.atom.xml" url="https://ashwinschronicles.github.io/feeds/all.atom.xml"></outline>
         <outline text="Asilomar Microcomputer Workshop News" type="rss" xmlUrl="https://amw.org/category/news/feed/" htmlUrl="https://amw.org,https://amw.org/category/news/feed/" url="https://amw.org/category/news/feed/"></outline>
         <outline text="Aymerick&#39;s blog" type="rss" xmlUrl="http://www.aymerick.com/rss.xml" htmlUrl="http://www.aymerick.com" description="The personal website of a generalist developer living in France."></outline>
+        <outline text="BZ Blog" type="rss" xmlUrl="https://blogsystem5.substack.com/feed" htmlUrl="https://blogsystem5.substack.com,https://blogsystem5.substack.com/feed" description="A newsletter on operating systems, build systems, programming languages, software engineering, and my own software projects. Specifics include FreeBSD, Linux, Rust, Bazel and EndBASIC." url="https://blogsystem5.substack.com/feed"></outline>
         <outline text="Bacalhau Blog" type="rss" xmlUrl="https://blog.bacalhau.org/feed" htmlUrl="https://blog.bacalhau.org,https://blog.bacalhau.org/feed" description="Compute Over Data " url="https://blog.bacalhau.org/feed"></outline>
         <outline text="Barack Obama @Bsky" type="rss" xmlUrl="https://bsky.app/profile/did:plc:5c6cw3veuqruljoy5ahzerfx/rss" htmlUrl="https://bsky.app/profile/barackobama.bsky.social" description="Dad, husband, President, citizen. barackobama.com"></outline>
         <outline text="Basile Blog" type="rss" xmlUrl="https://basilesimon.fr/blog/index.xml" htmlUrl="https://basilesimon.fr/blog?campaign=rss,https://basilesimon.fr/blog/index.xml" description="Recent content in Blogs on 👋 hi, I’m basile" url="https://basilesimon.fr/blog/index.xml"></outline>

@@ -4,10 +4,95 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>07 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>08 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Hot Takes on the First Quarter of 21st Century Scholarly Publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/01/08/hot-takes-on-first-quarter-century-scholarly-publishing/</link>
+      <description>
+        <![CDATA[<p>Todd Carpenter looks back on the past quarter century of a digital revolution in scholarly publishing.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/01/08/hot-takes-on-first-quarter-century-scholarly-publishing/">Hot Takes on the First Quarter of 21st Century Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Todd Carpenter looks back on the past quarter century of a digital revolution in scholarly publishing.
+
+The post [Hot Takes on the First Quarter of 21st Century Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/01/08/hot-takes-on-first-quarter-century-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61403</guid>
+    </item>    <item>
+      <title>Reduction of Grant DOI registration fees: a boost for the Research Nexus</title>
+      <link>https://www.crossref.org/blog/reduction-of-grant-doi-registration-fees-a-boost-for-the-research-nexus/</link>
+      <description>
+        <![CDATA[<p>We are pleased to announce that&mdash;effective 1st January 2026&mdash;we have made two changes to grant record registration fees that aim to accelerate adoption of Crossref&rsquo;s <a href="https://www.crossref.org/services/grant-linking-system/">Grant Linking System (GLS)</a> and provide a two-year window of opportunity to increase the number and availability of open persistent grant identifiers and boost the matching of relationships with research objects.</p>
+        <div class="shortcode-divwrap align-right">
+        <span><figure class="img-responsive"><img src="https://www.crossref.org/images/community-images/gls/gls-benefits.png"
+        alt="High-level benefits of the Crossref Grant Linking System (GLS)" width="100%">
+        </figure>
+        </span>
+        </div>
+        Launched in 2019 with close input from several funders and other infrastructure organisations, the GLS primarily offers the ability to create and steward Crossref Grant DOIs, along with several benefits such as dedicated grant/award metadata like funding type, value, contributors, and projects, as well as hosted landing pages, tools to create and update metadata, and of course both member-asserted and Crossref-automatic matching of relationships within the global corpus of 180 million other research objects. Essentially, we need to identify what research objects are produced as a result of the award, and these objects could be articles, preprints, data, code, blogs, posters, and more.
+        <p>This connected network is what we call the Research Nexus, essential for exploring research activity in general, as well as evaluating reach and return on funding and other support like use of facilities/equipment.</p>
+        <h3 id="a-fee-reduction-and-a-two-year-fee-waiver-pilot">A fee reduction and a two-year fee waiver pilot</h3>
+        <p>Following a review by our <a href="https://www.crossref.org/committees/membership-and-fees/">Membership &amp; Fees Committee</a>, the <a href="https://www.crossref.org/board-and-governance/#board-members">Board</a> met in December and passed two related motions:</p>
+        <ol>
+        <li><strong>Current-Year (CY) grant registration fee has been cut in half to match other record types</strong>: The board approved the adjustment of the Current-Year (CY) grant registration fee down from $2.00 to $1.00 USD, effective 1st January 2026.</li>
+        <li><strong>Back-Year (BY) grant registration fee is waived through 2027</strong>: The board approved a time-limited fee waiver as a pilot for Back-Year (BY) grant registration fees, bringing that per-record fee down from $0.30 to $0.00 for 2026 and 2027.</li>
+        </ol>
+        <p>We aim to boost registration of Back-Year (BY) records and accelerate the growth of the Research Nexus with millions more grant&lt;-&gt;output matches. During the course of the two-year pilot, the Membership &amp; Fees Committee and our <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">fee project work</a> that started in 2023 and also <a href="https://doi.org/10.64000/cvvj8-tax10" target="_blank">brought in other fee reductions</a>, will consider more adjustments across BY registration fees for the benefit of members beyond just funders and beyond just grants.</p>
+        <p>All <a href="https://www.crossref.org/board-and-governance/#motions">Board motions are publicly available</a> and we encourage questions from the community about our governance processes and the decisions on our members&rsquo; behalf; <a href="mailto:feedback@crossref.org">email us via feedback@crossref.org</a> anytime, or <a href="https://community.crossref.org/c/strategy/" target="_blank">post on the forum</a>.</p>
+        <h3 id="supercharging-the-grant-linking-system">Supercharging the Grant Linking System</h3>
+        <p>Leading up to the <a href="https://www.crossref.org/services/grant-linking-system/">GLS</a> launch in 2019, we worked with a group of funders and metadata experts to inform the design and implementation of the new service, including a funder governance and fees working group. That was seven years ago, and our <a href="https://www.crossref.org/working-groups/funders/">Funder Advisory Group</a> now includes nearly 100 funding community representatives the GLS has grown to almost 50 funder members that have registered more than 185,000 open grant metadata records. But they are mostly research councils and agencies or charities from Europe and North America, and we know that for a truly comprehensive and interconnected Research Nexus, more needs to be done to include organisations from all parts of the world. The other key driver is simply to boost more metadata connections; the more grant metadata we gather, the better we can match it to all kinds of research outputs, and <a href="">this metadata directly feeds thousands of services</a> available in our community, from Dimensions and Scopus, to OA.Report and OpenAlex, as well as funders&rsquo; own analytics tools. See our <a href="https://doi.org/10.64000/607z6-1nh09" target="_blank">recent report about the latest dataset</a> and of course use <a href="htps://api.crossref.org">api.crossref.org</a> directly.</p>
+        <p>Relatedly, we just added a <a href="https://doi.org/10.64000/x7d4h-x3r11" target="_blank">new Grant DOI field</a> to our schema for all record types, to give our members a precise and accurate way of capturing funding metadata for all research outputs. With the new lower CY registration fee and a pilot waiver of BY fees for grant records, we hope to boost the creation of more Grant DOIs by more funders from more parts of the world&mdash;so that others also see and can build on the momentum and reuse the data in their own tools and services. <a href="https://barcelona-declaration.org/news/20251023_community_roundtable/" target="_blank">All actors need to play their role</a>, and Crossref’s part is in running the global linking infrastructure at scale, connecting research objects and making them openly available while ensuring that the barriers for the registration, use and reuse of metadata remain as low as possible.</p>
+        <p>We feel we&rsquo;re at a tipping point that only needs a small nudge to truly scale the Grant Linking System.</p>
+        <p>By waiving BY fees entirely for two years, we&rsquo;re hoping to see members fill in historical data and create more comprehensive grant&lt;-&gt;outcome connections. There is often a long period of time between funding being awarded, and the resulting research objects being generated and communicated. That is why historical grant metadata is so important; we think that there will be many funding outcome relationships and insights just waiting to be uncovered!</p>
+        <h3 id="why-give-funders-a-fee-break-and-not-others">Why give funders a fee break and not others?</h3>
+        <p>We&rsquo;re not ruling out this kind of fee incentive in future for other members and other object types, but that needs more analysis (which we plan to do) and right now, the relatively small number of grant records, combined with a growing need for this kind of metadata, means the changes are small enough to have almost no impact on Crossref&rsquo;s healthy financial position.</p>
+        <p>This decision is consistent with the goals of our <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">Resourcing Crossref for Future Sustainability (RCFS)</a> to review our fees to make sure they are equitable and clear, while ensuring Crossref retains a sustainable business model. Our fees can encourage or discourage the community to participate in Crossref. The RCFS project has also resulted in the creation of a <a href="https://doi.org/10.64000/j2bgz-v7h50/" target="_blank">lower membership fee tier</a> for the very lowest-resourced members, and the tidying up of <a href="https://doi.org/10.64000/cvvj8-tax10" target="_blank">things like outlier volume discounts</a>.</p>
+        <p>The BY fee waiver is positioned as a pilot to allow us to measure its impact over the next two years and feed into the Membership &amp; Fees Committee and RCFS project. We will evaluate the pilot results (i.e. does it indeed supercharge funding metadata connections and adoption?) and consider additional adjustments to other BY registration fees and whether such fee incentives might be extended to other members.</p>
+        <p>We encourage all funders to take advantage of these reduced rates to contribute to the Research Nexus and help us build a more complete picture of the relationship between research funding and outcomes.</p>
+        <p>Take a look at the recent case studies from early GLS adopters <a href="https://doi.org/10.64000/n9n69-y5b75" target="_blank">FWF</a> (Austria), <a href="https://doi.org/10.64000/dvqke-j4v69" target="_blank">NWO</a> (The Netherlands), <a href="https://doi.org/10.64000/9gjfp-5p698" target="_blank">FCCN|FCT</a> (Portugal), and <a href="https://doi.org/10.64000/c1dh8-qn968" target="_blank">Wellcome/EuropePMC</a>, reach out to them or us with any questions, or peruse the <a href="https://community.crossref.org/c/crossref-services/grant-linking-system/" target="_blank">GLS community forum</a>!</p>]]>
+      </description>
+      <source:markdown>We are pleased to announce that—effective 1st January 2026—we have made two changes to grant record registration fees that aim to accelerate adoption of Crossref’s [Grant Linking System (GLS)](https://www.crossref.org/services/grant-linking-system/) and provide a two-year window of opportunity to increase the number and availability of open persistent grant identifiers and boost the matching of relationships with research objects.
+
+![High-level benefits of the Crossref Grant Linking System (GLS)](https://www.crossref.org/images/community-images/gls/gls-benefits.png)
+
+Launched in 2019 with close input from several funders and other infrastructure organisations, the GLS primarily offers the ability to create and steward Crossref Grant DOIs, along with several benefits such as dedicated grant/award metadata like funding type, value, contributors, and projects, as well as hosted landing pages, tools to create and update metadata, and of course both member-asserted and Crossref-automatic matching of relationships within the global corpus of 180 million other research objects. Essentially, we need to identify what research objects are produced as a result of the award, and these objects could be articles, preprints, data, code, blogs, posters, and more.
+
+This connected network is what we call the Research Nexus, essential for exploring research activity in general, as well as evaluating reach and return on funding and other support like use of facilities/equipment.
+
+### A fee reduction and a two-year fee waiver pilot
+
+Following a review by our [Membership &#38; Fees Committee](https://www.crossref.org/committees/membership-and-fees/), the [Board](https://www.crossref.org/board-and-governance/#board-members) met in December and passed two related motions:
+
+1. **Current-Year (CY) grant registration fee has been cut in half to match other record types**: The board approved the adjustment of the Current-Year (CY) grant registration fee down from $2.00 to $1.00 USD, effective 1st January 2026.
+2. **Back-Year (BY) grant registration fee is waived through 2027**: The board approved a time-limited fee waiver as a pilot for Back-Year (BY) grant registration fees, bringing that per-record fee down from $0.30 to $0.00 for 2026 and 2027.
+
+We aim to boost registration of Back-Year (BY) records and accelerate the growth of the Research Nexus with millions more grant&#60;-&#62;output matches. During the course of the two-year pilot, the Membership &#38; Fees Committee and our [fee project work](https://www.crossref.org/community/special-programs/resourcing-crossref/) that started in 2023 and also [brought in other fee reductions](https://doi.org/10.64000/cvvj8-tax10), will consider more adjustments across BY registration fees for the benefit of members beyond just funders and beyond just grants.
+
+All [Board motions are publicly available](https://www.crossref.org/board-and-governance/#motions) and we encourage questions from the community about our governance processes and the decisions on our members’ behalf; [email us via feedback@crossref.org](mailto:feedback@crossref.org) anytime, or [post on the forum](https://community.crossref.org/c/strategy/).
+
+### Supercharging the Grant Linking System
+
+Leading up to the [GLS](https://www.crossref.org/services/grant-linking-system/) launch in 2019, we worked with a group of funders and metadata experts to inform the design and implementation of the new service, including a funder governance and fees working group. That was seven years ago, and our [Funder Advisory Group](https://www.crossref.org/working-groups/funders/) now includes nearly 100 funding community representatives the GLS has grown to almost 50 funder members that have registered more than 185,000 open grant metadata records. But they are mostly research councils and agencies or charities from Europe and North America, and we know that for a truly comprehensive and interconnected Research Nexus, more needs to be done to include organisations from all parts of the world. The other key driver is simply to boost more metadata connections; the more grant metadata we gather, the better we can match it to all kinds of research outputs, and this metadata directly feeds thousands of services available in our community, from Dimensions and Scopus, to OA.Report and OpenAlex, as well as funders’ own analytics tools. See our [recent report about the latest dataset](https://doi.org/10.64000/607z6-1nh09) and of course use [api.crossref.org](htps://api.crossref.org) directly.
+
+Relatedly, we just added a [new Grant DOI field](https://doi.org/10.64000/x7d4h-x3r11) to our schema for all record types, to give our members a precise and accurate way of capturing funding metadata for all research outputs. With the new lower CY registration fee and a pilot waiver of BY fees for grant records, we hope to boost the creation of more Grant DOIs by more funders from more parts of the world—so that others also see and can build on the momentum and reuse the data in their own tools and services. [All actors need to play their role](https://barcelona-declaration.org/news/20251023_community_roundtable/), and Crossref’s part is in running the global linking infrastructure at scale, connecting research objects and making them openly available while ensuring that the barriers for the registration, use and reuse of metadata remain as low as possible.
+
+We feel we’re at a tipping point that only needs a small nudge to truly scale the Grant Linking System.
+
+By waiving BY fees entirely for two years, we’re hoping to see members fill in historical data and create more comprehensive grant&#60;-&#62;outcome connections. There is often a long period of time between funding being awarded, and the resulting research objects being generated and communicated. That is why historical grant metadata is so important; we think that there will be many funding outcome relationships and insights just waiting to be uncovered!
+
+### Why give funders a fee break and not others?
+
+We’re not ruling out this kind of fee incentive in future for other members and other object types, but that needs more analysis (which we plan to do) and right now, the relatively small number of grant records, combined with a growing need for this kind of metadata, means the changes are small enough to have almost no impact on Crossref’s healthy financial position.
+
+This decision is consistent with the goals of our [Resourcing Crossref for Future Sustainability (RCFS)](https://www.crossref.org/community/special-programs/resourcing-crossref/) to review our fees to make sure they are equitable and clear, while ensuring Crossref retains a sustainable business model. Our fees can encourage or discourage the community to participate in Crossref. The RCFS project has also resulted in the creation of a [lower membership fee tier](https://doi.org/10.64000/j2bgz-v7h50/) for the very lowest-resourced members, and the tidying up of [things like outlier volume discounts](https://doi.org/10.64000/cvvj8-tax10).
+
+The BY fee waiver is positioned as a pilot to allow us to measure its impact over the next two years and feed into the Membership &#38; Fees Committee and RCFS project. We will evaluate the pilot results (i.e. does it indeed supercharge funding metadata connections and adoption?) and consider additional adjustments to other BY registration fees and whether such fee incentives might be extended to other members.
+
+We encourage all funders to take advantage of these reduced rates to contribute to the Research Nexus and help us build a more complete picture of the relationship between research funding and outcomes.
+
+Take a look at the recent case studies from early GLS adopters [FWF](https://doi.org/10.64000/n9n69-y5b75) (Austria), [NWO](https://doi.org/10.64000/dvqke-j4v69) (The Netherlands), [FCCN\|FCT](https://doi.org/10.64000/9gjfp-5p698) (Portugal), and [Wellcome/EuropePMC](https://doi.org/10.64000/c1dh8-qn968), reach out to them or us with any questions, or peruse the [GLS community forum](https://community.crossref.org/c/crossref-services/grant-linking-system/)!</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/reduction-of-grant-doi-registration-fees-a-boost-for-the-research-nexus/</guid>
+    </item>    <item>
       <title>New Journal Article: “Chatbots for Reference Services in Academic Libraries: Applications and Trends”</title>
       <link>https://www.infodocket.com/2026/01/07/new-journal-article-chatbots-for-reference-services-in-academic-libraries-applications-and-trends/</link>
       <description>
@@ -50,7 +135,7 @@ The post [Kitchen Essentials: An Interview with Tanja Niemann of Érudit / Une E
         <![CDATA[Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.]]>
       </description>
       <source:markdown>Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders/downloads/g-d-h-cole_the-brooklyn-murders.epub?source=feed" length="529941" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders/downloads/g-d-h-cole_the-brooklyn-murders.epub?source=feed" length="532876" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/g-d-h-cole/the-brooklyn-murders</guid>
     </item>    <item>
       <title>ORCID Releases New Strategic Plan: “ORCID 2030: Advancing the Future of Research”</title>
@@ -460,10 +545,10 @@ The post [Ask The Chefs: What Would You Ask of Academic Publishing Santa](https:
       <title>Repertoires: How Researchers Struggle to Stay In Sync</title>
       <link>https://www.arl.org/blog/repertoires-how-researchers-struggle-to-stay-in-sync/</link>
       <description>
-        <![CDATA[<p>Last Updated on December 22, 2025, 9:53 am ET The last few working days of a very long year are an apt moment to reflect on how we experience time...</p>
+        <![CDATA[<p>Last Updated on January 7, 2026, 11:40 am ET The last few working days of a very long year are an apt moment to reflect on how we experience time...</p>
         <p>The post <a href="https://www.arl.org/blog/repertoires-how-researchers-struggle-to-stay-in-sync/">Repertoires: How Researchers Struggle to Stay In Sync</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on December 22, 2025, 9:53 am ET The last few working days of a very long year are an apt moment to reflect on how we experience time...
+      <source:markdown>Last Updated on January 7, 2026, 11:40 am ET The last few working days of a very long year are an apt moment to reflect on how we experience time...
 
 The post [Repertoires: How Researchers Struggle to Stay In Sync](https://www.arl.org/blog/repertoires-how-researchers-struggle-to-stay-in-sync/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=46968</guid>
@@ -943,355 +1028,6 @@ We are ending the year with 51 staff in 14 countries and look forward to diversi
 
 Thank you to our community of members, partners, board, ambassadors, sponsors, metadata users, service providers, integrators—and of course our team—for making 2025 such a productive year. Together, we’re building a richer, more connected research ecosystem for the benefit of society. We can’t wait to continue the work together in 2026.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/highlights-of-a-very-busy-year-our-2025-annual-report/</guid>
-    </item>    <item>
-      <title>The Importance of Assessment for Military-Connected Student Programs</title>
-      <link>https://sr.ithaka.org/blog/the-importance-of-assessment-for-military-connected-student-programs/</link>
-      <description>
-        <![CDATA[<p>As a former assessment professional, I became used to being the least popular person in the room. Assessment is often an afterthought, when thought of at all, or an obligation imposed by others as an act of compliance or obligation. This stance, of assessment as something separate and &#8220;other&#8221; from the program or activity at [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/the-importance-of-assessment-for-military-connected-student-programs/">The Importance of Assessment for Military-Connected Student Programs</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>As a former assessment professional, I became used to being the least popular person in the room. Assessment is often an afterthought, when thought of at all, or an obligation imposed by others as an act of compliance or obligation. This stance, of assessment as something separate and “other” from the program or activity at \[…\]
-
-The post [The Importance of Assessment for Military-Connected Student Programs](https://sr.ithaka.org/blog/the-importance-of-assessment-for-military-connected-student-programs/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=324248</guid>
-    </item>    <item>
-      <title>Urban Libraries Council (ULC) Announces 2025 Innovations Award Winners</title>
-      <link>https://www.infodocket.com/2025/12/17/urban-libraries-council-ulc-announces-2025-innovations-award-winners/</link>
-      <description>
-        <![CDATA[From the Urban Libraries Council: For more than 15 years, the Urban Libraries Council has celebrated the creativity, leadership, and impact of our member libraries through the Innovations Initiative. We are thrilled to announce the winners of the 2025 Innovations cycle! Congratulations to Dayton Metro Library (OH), DC Public Library (DC), Gwinnett County Public Library (GA), Pasadena Public Library (CA), Pioneer Library System (OK), and Prince [&#8230;]]]>
-      </description>
-      <source:markdown>From the Urban Libraries Council: For more than 15 years, the Urban Libraries Council has celebrated the creativity, leadership, and impact of our member libraries through the Innovations Initiative. We are thrilled to announce the winners of the 2025 Innovations cycle! Congratulations to Dayton Metro Library (OH), DC Public Library (DC), Gwinnett County Public Library (GA), Pasadena Public Library (CA), Pioneer Library System (OK), and Prince \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167443</guid>
-    </item>    <item>
-      <title>The Patient in Room 18, by Mignon G. Eberhart</title>
-      <link>https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18</link>
-      <description>
-        <![CDATA[A nurse helps a detective investigate a murder in a hospital.]]>
-      </description>
-      <source:markdown>A nurse helps a detective investigate a murder in a hospital.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18/downloads/mignon-g-eberhart_the-patient-in-room-18.epub?source=feed" length="657383" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18</guid>
-    </item>    <item>
-      <title>Scientific Data Sovereignty in the tension between global openness and local autonomy</title>
-      <link>https://blog.scielo.org/en/2025/12/17/scientific-data-sovereignty-in-the-tension-between-global-openness-and-local-autonomy/</link>
-      <description>
-        <![CDATA[<p>Scientific data sovereignty is essential for a truly equitable open science. Between the ideal of global openness and the risk of data extractivism, we must build local infrastructures, participatory governance and collaboration models grounded in reciprocity and justice. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/12/17/scientific-data-sovereignty-in-the-tension-between-global-openness-and-local-autonomy/" class="more-link"><span>Read More &#8594;</span></a></span></p>
-        <p>The post <a href="https://blog.scielo.org/en/2025/12/17/scientific-data-sovereignty-in-the-tension-between-global-openness-and-local-autonomy/">Scientific Data Sovereignty in the tension between global openness and local autonomy</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
-      </description>
-      <source:markdown>Scientific data sovereignty is essential for a truly equitable open science. Between the ideal of global openness and the risk of data extractivism, we must build local infrastructures, participatory governance and collaboration models grounded in reciprocity and justice. …[Read More →](https://blog.scielo.org/en/2025/12/17/scientific-data-sovereignty-in-the-tension-between-global-openness-and-local-autonomy/)
-
-The post [Scientific Data Sovereignty in the tension between global openness and local autonomy](https://blog.scielo.org/en/2025/12/17/scientific-data-sovereignty-in-the-tension-between-global-openness-and-local-autonomy/) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
-      <guid>cid://https://blog.scielo.org/en/?p=5780</guid>
-    </item>    <item>
-      <title>Research Tools: New Climate Policy Database Maps Mitigation Policies Across the 60 IFCMA Countries</title>
-      <link>https://www.infodocket.com/2025/12/17/research-tools-new-climate-policy-database-maps-mitigation-policies-across-the-60-ifcma-countries/</link>
-      <description>
-        <![CDATA[From the OECD:  The Inclusive Forum on Carbon Mitigation Approaches (IFCMA) has released the first edition of its Climate Policy Database, providing unprecedented detail on how governments are tackling climate change through policy action. With validated data covering 38 out of 60 countries so far, and around 1 600 carbon mitigation policy instruments, the Database offers granular [&#8230;]]]>
-      </description>
-      <source:markdown>From the OECD:  The Inclusive Forum on Carbon Mitigation Approaches (IFCMA) has released the first edition of its Climate Policy Database, providing unprecedented detail on how governments are tackling climate change through policy action. With validated data covering 38 out of 60 countries so far, and around 1 600 carbon mitigation policy instruments, the Database offers granular \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167441</guid>
-    </item>    <item>
-      <title>Why We Must Work Together to Harden the Scholarly Supply Chain</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/17/why-we-must-work-together-to-harden-the-scholarly-supply-chain/</link>
-      <description>
-        <![CDATA[<p>At the STM innovation and Integrity days in London last week, it's clear that research integrity has become an increasingly pressing issue. Many publishers are reporting significant increases in submissions of questionable legitimacy. perhaps now is the time for a new alliance between publishers, funders, institutions and researchers to protect the integrity of the scholarly record, before it’s too late.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/17/why-we-must-work-together-to-harden-the-scholarly-supply-chain/">Why We Must Work Together to Harden the Scholarly Supply Chain</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>At the STM innovation and Integrity days in London last week, it&#39;s clear that research integrity has become an increasingly pressing issue. Many publishers are reporting significant increases in submissions of questionable legitimacy. perhaps now is the time for a new alliance between publishers, funders, institutions and researchers to protect the integrity of the scholarly record, before it’s too late.
-
-The post [Why We Must Work Together to Harden the Scholarly Supply Chain](https://scholarlykitchen.sspnet.org/2025/12/17/why-we-must-work-together-to-harden-the-scholarly-supply-chain/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61349</guid>
-    </item>    <item>
-      <title>Twenty-five years of Crossref: reflections from the 2025 annual meeting and board election</title>
-      <link>https://www.crossref.org/blog/twenty-five-years-of-crossref-reflections-from-the-2025-annual-meeting-and-board-election/</link>
-      <description>
-        <![CDATA[<p>Crossref turned twenty-five this year, and our 2025 Annual Meeting became more than a celebration—it was a shared moment to reflect on how far open scholarly infrastructure has come and where we, as a community, are heading next.</p>
-        <p>Over two days in October, hundreds of participants joined online and in local satellite meetings in Madrid, Nairobi, Medan, Bogotá, Washington D.C., and London––a reminder that our community spans the globe. The meetings offered updates, community highlights, and a look at what’s ahead for our shared metadata network––including plans to connect funders, platforms, and AI tools across the global research ecosystem.</p>
-        <p>Ed Pentz opened with thanks and perspective. He reflected on how it all began: twelve members, one shared goal — to make research easier to find and verify. 25 years later, the same goal underpins 174 million open metadata records, 1.9 billion citation links, and roughly 1.3 billion DOI resolutions each month. What started as reference linking is now a global network of relationships among people, institutions, and research outputs. Ed also reaffirmed <a href="https://openscholarlyinfrastructure.org/" target="_blank">the Principles of Open Scholarly Infrastructure (POSI)</a> as the foundation of our operations and our collaborations with other community-governed infrastructures.</p>
-        <blockquote>
-        <p>“Each number represents shared effort, trust, and long-term commitment,” Ed reminded us. “Open infrastructure works because people keep showing up.”</p>
-        </blockquote>
-        <p>
-        <figure><img src="https://www.crossref.org/images/blog/2025/ed-intro.png"
-        alt="Black-and-white road image symbolizing scholarly progress with the words: &amp;quot;To promote the development and cooperative use of new and innovative technologies to speed and facilitate scientific and other scholarly research.&amp;quot;" width="100%"><figcaption>
-        <p><em>Crossref&rsquo;s purpose as per the Certificate of Incorporation.</em></p>
-        </figcaption>
-        </figure>
-        <p>Following up Ed’s talk, we showed a video timeline, ‘25 years of Crossref’, tracing milestones from the first DOIs to today’s connected Research Nexus.</p>
-        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
-        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-        border-radius: 8px; will-change: transform;">
-        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-        src="https://www.canva.com/design/DAG7wb4NXhc/uC4PVxNEY7alr3x16gscSQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-        </iframe>
-        </div>
-        <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG7wb4NXhc&#x2F;uC4PVxNEY7alr3x16gscSQ&#x2F;watch?utm_content=DAG7wb4NXhc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Crossref 25th anniversary timeline</a>
-        <h3 id="shared-perspectives-from-the-community">Shared perspectives from the community</h3>
-        <p>We featured perspectives from organizations that have built key scholarly infrastructure alongside Crossref over the years. A shared message ran through their talks: open infrastructure only works when it’s interoperable, community-led, and practical for the people who use it.</p>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=ZGOsAXGkryd-LKWy&amp;t=1953" target="_blank">Urooj Nizami (PKP)</a></strong> described PKP and Crossref as “independent and interdependent,” using the archipelago metaphor to show how open software and shared metadata services connect local publishing to a global network.</p>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=wTyUw6m-DBbh9w2D&amp;t=2633" target="_blank">Todd Carpenter (NISO)</a></strong> emphasized standards being a social, and technical contract, noting how persistent identifiers and reliable metadata underpin a broader knowledge graph—and why provenance and linking matter even more as AI systems remix content.</p>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=A9EdjLpip3m-2xrF&amp;t=3233" target="_blank">Abel Packer (SciELO)</a></strong> highlighted Latin America’s strong DOI coverage while pointing out where multilingual versions and preprint–article–data links still break visibility—arguing for metadata that connects versions, not splits them. [data point]</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=_lCBwuJ9T0M37q7O&amp;t=2048" target="_blank">Soichi Kubota (J-STAGE/JST)</a></strong> showed how Crossref services (from citation linking, Cited-by, metadata, to Similarity Check) anchor Japan’s national platform and how deeper cooperation (e.g., Crossmark) will support richer, more reliable metadata.</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=wzUIHxHKf2j2J6n0&amp;t=2449" target="_blank">Leena Shah (DOAJ)</a></strong> outlined DOAJ’s open index, renewed POSI commitment, and hands-on collaboration with Crossref—from the MoU and PLACE to help-desk coordination, gap analyses, and plans to boost DOAJ records via Crossref’s API and open references.</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=w5w4IolcyaSI_N04&amp;t=2894" target="_blank">Susan Murray (AJOL)</a></strong> spoke of capacity building: with 900+ journals across 40 countries, benefiting from AJOL’s support in registering identifiers and metadata , and of their long-standing partnership with Crossref making it possible for journals with limited resources to take part.</p>
-        <p>These voices echoed a common call: Build bridges, not silos.</p>
-        <h3 id="governance-and-election-results">Governance and election results</h3>
-        <p>Leading off the formal annual meeting, <a href="https://youtu.be/csDj_YkNuG8?si=Gcjw0XERzNc45pRQ&amp;t=3826" target="_blank">Lisa Schiff, Chair of the Crossref Board, looked back on our 25th anniversary</a> as one marked by progress and problem-solving. She talked about moving all our systems to the cloud—a big step that makes the organization’s work faster and more reliable. She also spoke about ongoing efforts to maintain the research record&rsquo;s trustworthiness, including adding Retraction Watch data and updating member terms. Lisa noted new ways we are making membership more accessible, <a href="https://doi.org/10.64000/cvvj8-tax10" target="_blank">like the lower $200 tier</a> and the expansion of <a href="https://www.crossref.org/gem/">the GEM program</a>.</p>
-        <p>Lucy Ofiesh brought it back to the role of the members themselves, reminding everyone that success still rests with its members. The annual meeting is when members directly influence Crossref’s direction––when each vote helps shape how we move forward together.</p>
-        <p>We extend our thanks to the Board members whose terms have concluded, and we congratulate the newly elected members who will carry the work forward.</p>
-        <p>Five directors were elected: Rebecca Wambua (Distance, Open and e-Learning Practitioners’ Association of Kenya), Damian Bird (CABI), Rose L’Huillier (Elsevier), Anjalie Nawaratne (Springer Nature), and Nick Lindsay (MIT Press).</p>
-        <p><a
-        href="https://youtu.be/csDj_YkNuG8?si=VdlglVWW2n7HJzP-&t=4406"
-        style="display:block; text-align:center;">
-        <img
-        src="https://www.crossref.org/images/blog/2025/new board members 2026.jpg"
-        style="width:75%;"
-        alt="Welcome! Newly elected board members with images of Rebecca Wambua (Distance, Open and e-Learning Practitioners’ Association of Kenya), Damian Bird (CABI), Rose L’Huillier (Elsevier), Anjalie Nawaratne (Springer Nature), and Nick Lindsay (MIT Press)"
-        />
-        </a></p>
-        <p>We also thank the 2025 Nominating Committee for their thoughtful work guiding this year&rsquo;s process and slate selection.</p>
-        <p>The Board plays an important role in making sure our governance remains community-led, transparent, and accountable. The volunteer members bring experience from research funders, publishers, and libraries, giving a balance of perspectives that help steer our long-term strategy and sustainability.</p>
-        <h3 id="tools-in-practice">Tools in practice</h3>
-        <p>Then our attention turned to the tools that many members use every day. Patrick Vale walked participants through updates to Participation Reports and the Record Registration Form— designed to make working with metadata simpler.</p>
-        <figure><img src="https://www.crossref.org/images/blog/prep-la-salle.png"
-        alt="Screenshot of a participation report for Universidad La Salle Arequipa in Peru, showing percentages per metadata element." width="100%"><figcaption>
-        <p>Updated Participation Report for Universidad La Salle Arequipa (Peru), showing metadata element coverage percentages.</p>
-        </figcaption>
-        </figure>
-        <p><a href="https://www.crossref.org/members/prep/" target="_blank">Participation Reports</a>, first launched in 2018, have now been completely rebuilt as version 1.2. <a href="https://doi.org/10.64000/8d5ga-2n897" target="_blank">The refreshed interface</a> runs on a new technology stack and supports morecontent types, and offers a new “download gap report” feature that generates a CSV list of records missing key fields—so members can identify and fix gaps directly.</p>
-        <p>Patrick then demonstrated improvements to the Record Registration Form, now streamlined for creating as well as editing records. The form includes real-time validation, auto-fill options for journals previously used, and the ability to edit existing records directly. Members can now easily add abstracts, funding data, licenses, and affiliations linked to ORCID and ROR—all within one place.</p>
-        <p>In the final demonstration, Luis Montilla, shared a “short research story”. He showed how anyone can explore Crossref metadata to uncover global participation patterns—turning what might seem like a mass of disconnected records into something meaningful once you start asking questions. He also shared a workflow that automatically retrieves and enriches data with country and regional information, then visualises member contributions and metadata coverage.</p>
-        <p>Luis also demonstrated an interactive notebook that lets users explore participation trends through radar charts and other visuals—illustrating how open data can help the community understand and improve the completeness of the scholarly record.</p>
-        <h3 id="crossref-then--now">Crossref then &amp; now</h3>
-        <p>Amanda Bartell walked through how the community has changed over 25 years.</p>
-        <figure><img src="https://www.crossref.org/images/blog/2025/summary-growth-over-years-2025.png"
-        alt="Image of statistics" width="100%">
-        </figure>
-        <p>The membership has broadened dramatically: universities and scholar-led groups now form the largest share, and more organizations in Asia and Latin America have joined (with big growth in Indonesia and Brazil). Most members are small: 98% qualify for the lowest fee tier, and 57% participate via a Sponsor. In support of including members from smaller economies, Crossref launched a GEM programme, which will be expanding to 19 new countries in 2026.</p>
-        <p>She expanded her presentation later <a href="https://doi.org/10.64000/tch5n-9px70" target="_blank">with a blog post to share insights about the changes in the Crossref global community</a>.</p>
-        <p>With our growing membership, the needs of the community are evolving too, including expectations about Crossref’s role in preserving the integrity of the scholarly record.</p>
-        <blockquote>
-        <p>“Our role in preserving the integrity of the scholarly record is focused on enriching the metadata to provide fuller and better trust signals while keeping barriers to participation low.” —Amanda Bartell, Crossref</p>
-        </blockquote>
-        <p>In response to the growing membership across the globe, we launched our Ambassadors program in 2018. Johanssen Obanda highlighted the activities of what is now 50 volunteers across 38 countries. Ambassadors act as local contacts—running training sessions, organizing events, translating materials, and providing feedback from their regions. Over the past year, they’ve led 41 activities reaching around 1,200 people. Many also contribute to GEM outreach, metadata health checks, and regional events—often in local languages.</p>
-        <figure><img src="https://www.crossref.org/images/blog/2025/map-ambassadors-2025.png"
-        alt="Slide titled &amp;quot;Ambassador highlights: supporting GEM program&amp;quot; with left-side collage of conference photos and a world map of Crossref Ambassadors with location pins." width="100%">
-        </figure>
-        <h3 id="roadmap-highlights">Roadmap highlights</h3>
-        <p>Helena Cousijn outlined progress across three programs—Co-creation and Community Trends, Contributing to the Research Nexus, and Open and Sustainable Operations.
-        Along with already showcased progress with Participation Reports and the new Record Registration Form, the Community Trends program involves working in partnership with others on DSpace integration and OJS plug-ins consolidation. In the near future there&rsquo;s also a consideration for piloting AI detection tools.
-        The Contributing to Research Nexus program carried out a consultation with Metadata Plus subscribers, and develops a new data citations endpoint for the Crossref REST API. This team is also developing further matching services, in the first instance looking to match funder metadata to ROR IDs.</p>
-        <p>Finally, Helena discussed the recent accomplishment of the Open and Sustainable Operations program, the migration of our database from the data centre to the cloud with Amazon Web Services. Other projects in this program involve ravamping resolution reports, rebuilding the Crossref authentication system, and launching new metadata schema.</p>
-        <h3 id="resourcing-crossref-for-future-sustainability-rcfs">Resourcing Crossref for Future Sustainability (RCFS)</h3>
-        <p>RCFS program is focused on equity, simplicity, and revenue balance. Kora shared recent developments and next steps:
-        :
-        A new $200 membership tier (for organizations with ≤$1,000 in publishing revenue/expenses) takes effect on January 1, 2026; more than 3,000 members have already moved into it.
-        We will keep “publishing revenue/expenses” as the sizing basis for publishers while funder sizing is still under review.
-        Volume discounts for content registration end on January 1, 2026.
-        Backfile discounts for theses/dissertations and conference proceedings are under review.
-        Peer-review fees are normalized at $0.25 for the first review of a work, with subsequent reviews (same member, same work) for free</p>
-        <h3 id="behind-the-scenes-metadata-data-science">Behind the scenes: metadata, data science</h3>
-        <p>Patricia Feeney reviewed recent and upcoming changes to our metadata schemas. Earlier this year, we began accepting ROR IDs as funder identifiers and released schema 5.4, which added versioning across all record types, a new status field for preprints, and a way to label citation types (like data sets, software, or blog posts).</p>
-        <p>Coming soon, Crossref will add grant DOIs to funding metadata and release schema 5.5, which supports the CRediT contributor vocabulary and allows multiple contributor roles. A new grant schema will follow, including support for beneficiaries, project identifiers (like RAiD), and repeatable roles. Looking ahead to 2026, our plans to overhaul how names and organizations are modeled, add richer funding and data-availability statements, and expand abstract and multilingual metadata support. A new Metadata Advisory Group has also been formed to guide work on multilingual fields, subjects, keywords, and relationship modeling.</p>
-        <figure><img src="https://www.crossref.org/images/blog/2025/ror-grant-schema.png"
-        alt="Slide explaining that ROR can be supplied as a funder identifier, and listing updates to the Grants schema and schema 5.4." width="100%">
-        </figure>
-        <p>Finally, Patricia announced <a href="https://doi.org/10.64000/zppnw-1se30" target="_blank">plans to deprecate older schemas</a>—a gradual, multi-year process—to simplify and modernize our metadata structure. She highlighted the importance of stronger relationships, richer records, and practical improvements that make metadata more useful across the community. That focus on connection carried directly into the next session about building through data science.</p>
-        <h3 id="data-science-at-crossref">Data science at Crossref</h3>
-        <p>Dominika Tkaczyk introduced the new data science team, formed a few months ago as part of the technology group. The team was created because of the growing scale and complexity of the data Crossref manages, driven by the expanding scholarly community. Their role is to use data science to assess, improve, and enrich scholarly metadata.</p>
-        <p>Their work falls into two areas: data analysis and insights—to help Crossref understand the scholarly record and guide decisions—and data services and workflows—to apply data science in building and maintaining production systems. Examples include studying overlap between scholarly databases and improving metadata quality. The session then focused on two projects: creating an internal data processing environment and developing metadata matching services.</p>
-        <p>Alex Bédard-Vallée described the team’s first project: building a data lake to bring together fragmented data from different systems. Previously, data were split across silos like the REST API, internal logs, and production databases. It enables tracking of reference deposits, closing 718M citation gaps. The system already enables analyses that were previously impractical, such as tracking how many members include reference metadata in deposits. It will also power new dashboards, monitoring tools, and other data-driven initiatives that support the integrity of the scholarly record.</p>
-        <p><figure><img src="https://www.crossref.org/images/blog/2025/two-flavors.jpg"
-        alt="Slide summarizing recent data science work at Crossref, including metadata analysis and matching services." width="75%">
-        </figure>
-        <br></p>
-        <p>Jason Portenoy then outlined the metadata matching project, which links pieces of information (like citations, funder names, or affiliations) to their identifiers such as DOIs or ROR IDs. He gave examples including reference-to-DOI, funder-to-ROR ID, affiliation-to-ROR ID, grant-to-DOI, and preprint-to-published-article matching.</p>
-        <p>He explained that much metadata is already deposited by members but large gaps remain. For example, among more than a billion citation links, about 843 million already include DOIs, while another 718 million references can’t yet be matched. The goal is to close these gaps to build a more complete and connected scholarly record—the “research nexus.”</p>
-        <figure><img src="https://www.crossref.org/images/blog/2025/matching-why-bother.png"
-        alt="Two “Matching — Why bother?” slides with pie charts showing gaps in DOI and ROR ID metadata. Each chart highlights deposited IDs, automatically matchable items, and items with no identifier. Crossref 25th logo included." width="100%">
-        </figure>
-        <h3 id="community-highlights">Community highlights</h3>
-        <p>Martyn Rittman, Program Lead, and Kora each opened the community highlights over the two days by noting that everyone presenting is sharing how they use metadata and contribute to the broader ecosystem.</p>
-        <blockquote>
-        <p>Crossref does not exist without our members and the broader community—people who provide metadata and people who use the metadata. That’s why we’re here.” ~ Martyn Rittman</p>
-        </blockquote>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=m_bOdQ0UrDekhHCd&amp;t=8158" target="_blank">Antoine Drouin (Fonds de Recherche du Québec)</a></strong> shared that FRQ joined Crossref earlier this year and created 22,000+ grant and scholarship DOIs, linking grants to outputs and improving interoperability with ORCID, ROR, and Crossref grant IDs.</p>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=l9euyQIB8tcIrDR5&amp;t=8928" target="_blank">Agon Memeti (University of Tetova)</a></strong> shared findings of his analysis of abstract metadata coverage across 2024 articles from 13 university journals.</p>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=AQ0Y6pDEUY2saoj3&amp;t=9528" target="_blank">Charlie Rapple (Kudos)</a></strong> presented a Crossref-supported study on how researchers engage with the UN SDGs and described Kudos’ work explaining research for wider audiences. A survey of ~4,500 researchers showed strong awareness, regional differences in SDG priorities, and some targeted budgets for promotion, alongside challenges in publishing SDG-focused local research in prestige venues.</p>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=fg9M2VzEzeZtyUc&amp;t=10264" target="_blank">Pia Kretschmar (SCOAP3)</a></strong> outlined integrating Crossref metadata into new SCOAP³ open science elements in Phase 4; SCOAP³ funds OA publishing in high-energy physics and has covered 78,000+ articles. Publishers are scored on elements such as metadata provision to Crossref, identifiers, and links to datasets/software; completeness was checked via the Crossref API, results varied, and evaluation continues next year.</p>
-        <p><strong><a href="https://youtu.be/csDj_YkNuG8?si=fBmVBqAXG0Uy0ULr&amp;t=10923" target="_blank">Barbara Rivera (Barcelona Declaration)</a></strong> introduced the Declaration, its four commitments, and its community of 125 signatories and 52 supporters, including Crossref. Working groups are executing a joint roadmap, with recent actions such as a funding-metadata roundtable and upcoming surveys on metadata frameworks and repository workflows.</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=WybCBaSxzh-Wnoa3&amp;t=7753" target="_blank">Hans de Jonge (Dutch Research Council, NWO)</a></strong> presented his and Bianca Kramer’s <a href="https://doi.org/10.31222/osf.io/ndx3f_v1" target="_blank">recent study (as of 10/23/25 Preprint, not yet reviewed)</a> of metadata completeness in Crossref among publishers using different manuscript submission systems. They compared six metadata types across major publishers and found that differences had more to do with workflow choices, customization, and policy than with the system itself.</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=DIs2W6wIgUHHYy2h&amp;t=8350" target="_blank">Audrey Kenni (Pan African Medical Journal)</a></strong> shared PAMJ’s journey with Crossref to increased visibility.</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=8LT4O1xOYA9W1Hva&amp;t=8721" target="_blank">Nurul Ain Mohd Noor (UMT Press, Malaysia)</a></strong> described UMT Press’s evolution since 2003, rebranding in 2007 and joining Crossref in 2020. Nurul explained how registering their metadata with Crossref increased citation visibility and indexing across databases.</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=BzmyKx8i0g4SYjPl&amp;t=9123" target="_blank">Achal Agrawal (PostPub)</a></strong> introduced PostPub’s dashboard providing retraction statistics by country and institution, supported by a Catalyst Grant from Digital Science, and shared their journey through disambiguation challenges.</p>
-        <p><strong><a href="https://youtu.be/0NPqLrPHhYA?si=sOPvYU5VV5p_bL5H&amp;t=9641" target="_blank">Ratna Galuh Manika Trisista (Universitas Islam Jakarta)</a></strong> presented how enabling reference linking transformed her law journal’s citation visibility.</p>
-        <h3 id="closing-reflections">Closing reflections</h3>
-        <p>We closed the meeting with a panel discussion on the <strong>Research Nexus in the real world</strong>: What is the impact and potential of open scholarly metadata. Ginny Hendricks, Crossref; Dominika Tkaczyk, Crossref; Bianca Kramer, Barcelona Declaration on Open Research Information; David Oliva Uribe, UNESCO; Amber Osman, XploreOpen; Mariángela Nápoli, CONICET-IICE UBA-FFYL; Crossref; Kazuhiro Hayashi, National Institute of Science and Technology Policy; Science Council of Japan, shared a diversity of perspectives, which we’ll share in an upcoming blog.</p>
-        <p>You can also learn more about the in-person satellite events across the world from <a href="https://community.crossref.org/t/celebrating-crossref-s-25th-anniversary-at-our-annual-meeting-satellite-event-highlights/14959" target="_blank">their organisers on our Community Forum</a>.</p>
-        <p>You will find outputs from #Crossref2025 on our website, which you can cite as `#Crossref2025 Annual Meeting and Board Election, 22-23 October 2025 retrieved [date], <a href="https://doi.org/10.13003/431937misogo" target="_blank">https://doi.org/10.13003/431937misogo</a> &lsquo;.</p>]]>
-      </description>
-      <source:markdown>Crossref turned twenty-five this year, and our 2025 Annual Meeting became more than a celebration—it was a shared moment to reflect on how far open scholarly infrastructure has come and where we, as a community, are heading next.
-
-Over two days in October, hundreds of participants joined online and in local satellite meetings in Madrid, Nairobi, Medan, Bogotá, Washington D.C., and London––a reminder that our community spans the globe. The meetings offered updates, community highlights, and a look at what’s ahead for our shared metadata network––including plans to connect funders, platforms, and AI tools across the global research ecosystem.
-
-Ed Pentz opened with thanks and perspective. He reflected on how it all began: twelve members, one shared goal — to make research easier to find and verify. 25 years later, the same goal underpins 174 million open metadata records, 1.9 billion citation links, and roughly 1.3 billion DOI resolutions each month. What started as reference linking is now a global network of relationships among people, institutions, and research outputs. Ed also reaffirmed [the Principles of Open Scholarly Infrastructure (POSI)](https://openscholarlyinfrastructure.org/) as the foundation of our operations and our collaborations with other community-governed infrastructures.
-
-&#62; “Each number represents shared effort, trust, and long-term commitment,” Ed reminded us. “Open infrastructure works because people keep showing up.”
-
-![Black-and-white road image symbolizing scholarly progress with the words: &#38;quot;To promote the development and cooperative use of new and innovative technologies to speed and facilitate scientific and other scholarly research.&#38;quot;](https://www.crossref.org/images/blog/2025/ed-intro.png)
-
-_Crossref’s purpose as per the Certificate of Incorporation._
-
-Following up Ed’s talk, we showed a video timeline, ‘25 years of Crossref’, tracing milestones from the first DOIs to today’s connected Research Nexus.
-
- [Crossref 25th anniversary timeline](https://www.canva.com/design/DAG7wb4NXhc/uC4PVxNEY7alr3x16gscSQ/watch?utm_content=DAG7wb4NXhc&#38;utm_campaign=designshare&#38;utm_medium=embeds&#38;utm_source=link)
-
-### Shared perspectives from the community
-
-We featured perspectives from organizations that have built key scholarly infrastructure alongside Crossref over the years. A shared message ran through their talks: open infrastructure only works when it’s interoperable, community-led, and practical for the people who use it.
-
-**[Urooj Nizami (PKP)](https://youtu.be/csDj_YkNuG8?si=ZGOsAXGkryd-LKWy&#38;t=1953)** described PKP and Crossref as “independent and interdependent,” using the archipelago metaphor to show how open software and shared metadata services connect local publishing to a global network.
-
-**[Todd Carpenter (NISO)](https://youtu.be/csDj_YkNuG8?si=wTyUw6m-DBbh9w2D&#38;t=2633)** emphasized standards being a social, and technical contract, noting how persistent identifiers and reliable metadata underpin a broader knowledge graph—and why provenance and linking matter even more as AI systems remix content.
-
-**[Abel Packer (SciELO)](https://youtu.be/csDj_YkNuG8?si=A9EdjLpip3m-2xrF&#38;t=3233)** highlighted Latin America’s strong DOI coverage while pointing out where multilingual versions and preprint–article–data links still break visibility—arguing for metadata that connects versions, not splits them. \[data point\]
-
-**[Soichi Kubota (J-STAGE/JST)](https://youtu.be/0NPqLrPHhYA?si=_lCBwuJ9T0M37q7O&#38;t=2048)** showed how Crossref services (from citation linking, Cited-by, metadata, to Similarity Check) anchor Japan’s national platform and how deeper cooperation (e.g., Crossmark) will support richer, more reliable metadata.
-
-**[Leena Shah (DOAJ)](https://youtu.be/0NPqLrPHhYA?si=wzUIHxHKf2j2J6n0&#38;t=2449)** outlined DOAJ’s open index, renewed POSI commitment, and hands-on collaboration with Crossref—from the MoU and PLACE to help-desk coordination, gap analyses, and plans to boost DOAJ records via Crossref’s API and open references.
-
-**[Susan Murray (AJOL)](https://youtu.be/0NPqLrPHhYA?si=w5w4IolcyaSI_N04&#38;t=2894)** spoke of capacity building: with 900+ journals across 40 countries, benefiting from AJOL’s support in registering identifiers and metadata , and of their long-standing partnership with Crossref making it possible for journals with limited resources to take part.
-
-These voices echoed a common call: Build bridges, not silos.
-
-### Governance and election results
-
-Leading off the formal annual meeting, [Lisa Schiff, Chair of the Crossref Board, looked back on our 25th anniversary](https://youtu.be/csDj_YkNuG8?si=Gcjw0XERzNc45pRQ&#38;t=3826) as one marked by progress and problem-solving. She talked about moving all our systems to the cloud—a big step that makes the organization’s work faster and more reliable. She also spoke about ongoing efforts to maintain the research record’s trustworthiness, including adding Retraction Watch data and updating member terms. Lisa noted new ways we are making membership more accessible, [like the lower $200 tier](https://doi.org/10.64000/cvvj8-tax10) and the expansion of [the GEM program](https://www.crossref.org/gem/).
-
-Lucy Ofiesh brought it back to the role of the members themselves, reminding everyone that success still rests with its members. The annual meeting is when members directly influence Crossref’s direction––when each vote helps shape how we move forward together.
-
-We extend our thanks to the Board members whose terms have concluded, and we congratulate the newly elected members who will carry the work forward.
-
-Five directors were elected: Rebecca Wambua (Distance, Open and e-Learning Practitioners’ Association of Kenya), Damian Bird (CABI), Rose L’Huillier (Elsevier), Anjalie Nawaratne (Springer Nature), and Nick Lindsay (MIT Press).
-
-[![Welcome! Newly elected board members with images of Rebecca Wambua (Distance, Open and e-Learning Practitioners’ Association of Kenya), Damian Bird (CABI), Rose L’Huillier (Elsevier), Anjalie Nawaratne (Springer Nature), and Nick Lindsay (MIT Press)](https://www.crossref.org/images/blog/2025/new board members 2026.jpg)](https://youtu.be/csDj_YkNuG8?si=VdlglVWW2n7HJzP-&#38;t=4406)
-
-We also thank the 2025 Nominating Committee for their thoughtful work guiding this year’s process and slate selection.
-
-The Board plays an important role in making sure our governance remains community-led, transparent, and accountable. The volunteer members bring experience from research funders, publishers, and libraries, giving a balance of perspectives that help steer our long-term strategy and sustainability.
-
-### Tools in practice
-
-Then our attention turned to the tools that many members use every day. Patrick Vale walked participants through updates to Participation Reports and the Record Registration Form— designed to make working with metadata simpler.
-
-![Screenshot of a participation report for Universidad La Salle Arequipa in Peru, showing percentages per metadata element.](https://www.crossref.org/images/blog/prep-la-salle.png)
-
-Updated Participation Report for Universidad La Salle Arequipa (Peru), showing metadata element coverage percentages.
-
-[Participation Reports](https://www.crossref.org/members/prep/), first launched in 2018, have now been completely rebuilt as version 1.2. [The refreshed interface](https://doi.org/10.64000/8d5ga-2n897) runs on a new technology stack and supports morecontent types, and offers a new “download gap report” feature that generates a CSV list of records missing key fields—so members can identify and fix gaps directly.
-
-Patrick then demonstrated improvements to the Record Registration Form, now streamlined for creating as well as editing records. The form includes real-time validation, auto-fill options for journals previously used, and the ability to edit existing records directly. Members can now easily add abstracts, funding data, licenses, and affiliations linked to ORCID and ROR—all within one place.
-
-In the final demonstration, Luis Montilla, shared a “short research story”. He showed how anyone can explore Crossref metadata to uncover global participation patterns—turning what might seem like a mass of disconnected records into something meaningful once you start asking questions. He also shared a workflow that automatically retrieves and enriches data with country and regional information, then visualises member contributions and metadata coverage.
-
-Luis also demonstrated an interactive notebook that lets users explore participation trends through radar charts and other visuals—illustrating how open data can help the community understand and improve the completeness of the scholarly record.
-
-### Crossref then &#38; now
-
-Amanda Bartell walked through how the community has changed over 25 years.
-
-![Image of statistics](https://www.crossref.org/images/blog/2025/summary-growth-over-years-2025.png)
-
-The membership has broadened dramatically: universities and scholar-led groups now form the largest share, and more organizations in Asia and Latin America have joined (with big growth in Indonesia and Brazil). Most members are small: 98% qualify for the lowest fee tier, and 57% participate via a Sponsor. In support of including members from smaller economies, Crossref launched a GEM programme, which will be expanding to 19 new countries in 2026.
-
-She expanded her presentation later [with a blog post to share insights about the changes in the Crossref global community](https://doi.org/10.64000/tch5n-9px70).
-
-With our growing membership, the needs of the community are evolving too, including expectations about Crossref’s role in preserving the integrity of the scholarly record.
-
-&#62; “Our role in preserving the integrity of the scholarly record is focused on enriching the metadata to provide fuller and better trust signals while keeping barriers to participation low.” —Amanda Bartell, Crossref
-
-In response to the growing membership across the globe, we launched our Ambassadors program in 2018. Johanssen Obanda highlighted the activities of what is now 50 volunteers across 38 countries. Ambassadors act as local contacts—running training sessions, organizing events, translating materials, and providing feedback from their regions. Over the past year, they’ve led 41 activities reaching around 1,200 people. Many also contribute to GEM outreach, metadata health checks, and regional events—often in local languages.
-
-![Slide titled &#38;quot;Ambassador highlights: supporting GEM program&#38;quot; with left-side collage of conference photos and a world map of Crossref Ambassadors with location pins.](https://www.crossref.org/images/blog/2025/map-ambassadors-2025.png)
-
-### Roadmap highlights
-
-Helena Cousijn outlined progress across three programs—Co-creation and Community Trends, Contributing to the Research Nexus, and Open and Sustainable Operations.
-Along with already showcased progress with Participation Reports and the new Record Registration Form, the Community Trends program involves working in partnership with others on DSpace integration and OJS plug-ins consolidation. In the near future there’s also a consideration for piloting AI detection tools.
-The Contributing to Research Nexus program carried out a consultation with Metadata Plus subscribers, and develops a new data citations endpoint for the Crossref REST API. This team is also developing further matching services, in the first instance looking to match funder metadata to ROR IDs.
-
-Finally, Helena discussed the recent accomplishment of the Open and Sustainable Operations program, the migration of our database from the data centre to the cloud with Amazon Web Services. Other projects in this program involve ravamping resolution reports, rebuilding the Crossref authentication system, and launching new metadata schema.
-
-### Resourcing Crossref for Future Sustainability (RCFS)
-
-RCFS program is focused on equity, simplicity, and revenue balance. Kora shared recent developments and next steps:
-:
-A new $200 membership tier (for organizations with ≤$1,000 in publishing revenue/expenses) takes effect on January 1, 2026; more than 3,000 members have already moved into it.
-We will keep “publishing revenue/expenses” as the sizing basis for publishers while funder sizing is still under review.
-Volume discounts for content registration end on January 1, 2026.
-Backfile discounts for theses/dissertations and conference proceedings are under review.
-Peer-review fees are normalized at $0.25 for the first review of a work, with subsequent reviews (same member, same work) for free
-
-### Behind the scenes: metadata, data science
-
-Patricia Feeney reviewed recent and upcoming changes to our metadata schemas. Earlier this year, we began accepting ROR IDs as funder identifiers and released schema 5.4, which added versioning across all record types, a new status field for preprints, and a way to label citation types (like data sets, software, or blog posts).
-
-Coming soon, Crossref will add grant DOIs to funding metadata and release schema 5.5, which supports the CRediT contributor vocabulary and allows multiple contributor roles. A new grant schema will follow, including support for beneficiaries, project identifiers (like RAiD), and repeatable roles. Looking ahead to 2026, our plans to overhaul how names and organizations are modeled, add richer funding and data-availability statements, and expand abstract and multilingual metadata support. A new Metadata Advisory Group has also been formed to guide work on multilingual fields, subjects, keywords, and relationship modeling.
-
-![Slide explaining that ROR can be supplied as a funder identifier, and listing updates to the Grants schema and schema 5.4.](https://www.crossref.org/images/blog/2025/ror-grant-schema.png)
-
-Finally, Patricia announced [plans to deprecate older schemas](https://doi.org/10.64000/zppnw-1se30)—a gradual, multi-year process—to simplify and modernize our metadata structure. She highlighted the importance of stronger relationships, richer records, and practical improvements that make metadata more useful across the community. That focus on connection carried directly into the next session about building through data science.
-
-### Data science at Crossref
-
-Dominika Tkaczyk introduced the new data science team, formed a few months ago as part of the technology group. The team was created because of the growing scale and complexity of the data Crossref manages, driven by the expanding scholarly community. Their role is to use data science to assess, improve, and enrich scholarly metadata.
-
-Their work falls into two areas: data analysis and insights—to help Crossref understand the scholarly record and guide decisions—and data services and workflows—to apply data science in building and maintaining production systems. Examples include studying overlap between scholarly databases and improving metadata quality. The session then focused on two projects: creating an internal data processing environment and developing metadata matching services.
-
-Alex Bédard-Vallée described the team’s first project: building a data lake to bring together fragmented data from different systems. Previously, data were split across silos like the REST API, internal logs, and production databases. It enables tracking of reference deposits, closing 718M citation gaps. The system already enables analyses that were previously impractical, such as tracking how many members include reference metadata in deposits. It will also power new dashboards, monitoring tools, and other data-driven initiatives that support the integrity of the scholarly record.
-
-![Slide summarizing recent data science work at Crossref, including metadata analysis and matching services.](https://www.crossref.org/images/blog/2025/two-flavors.jpg)
-
-Jason Portenoy then outlined the metadata matching project, which links pieces of information (like citations, funder names, or affiliations) to their identifiers such as DOIs or ROR IDs. He gave examples including reference-to-DOI, funder-to-ROR ID, affiliation-to-ROR ID, grant-to-DOI, and preprint-to-published-article matching.
-
-He explained that much metadata is already deposited by members but large gaps remain. For example, among more than a billion citation links, about 843 million already include DOIs, while another 718 million references can’t yet be matched. The goal is to close these gaps to build a more complete and connected scholarly record—the “research nexus.”
-
-![Two “Matching — Why bother?” slides with pie charts showing gaps in DOI and ROR ID metadata. Each chart highlights deposited IDs, automatically matchable items, and items with no identifier. Crossref 25th logo included.](https://www.crossref.org/images/blog/2025/matching-why-bother.png)
-
-### Community highlights
-
-Martyn Rittman, Program Lead, and Kora each opened the community highlights over the two days by noting that everyone presenting is sharing how they use metadata and contribute to the broader ecosystem.
-
-&#62; Crossref does not exist without our members and the broader community—people who provide metadata and people who use the metadata. That’s why we’re here.” ~ Martyn Rittman
-
-**[Antoine Drouin (Fonds de Recherche du Québec)](https://youtu.be/csDj_YkNuG8?si=m_bOdQ0UrDekhHCd&#38;t=8158)** shared that FRQ joined Crossref earlier this year and created 22,000+ grant and scholarship DOIs, linking grants to outputs and improving interoperability with ORCID, ROR, and Crossref grant IDs.
-
-**[Agon Memeti (University of Tetova)](https://youtu.be/csDj_YkNuG8?si=l9euyQIB8tcIrDR5&#38;t=8928)** shared findings of his analysis of abstract metadata coverage across 2024 articles from 13 university journals.
-
-**[Charlie Rapple (Kudos)](https://youtu.be/csDj_YkNuG8?si=AQ0Y6pDEUY2saoj3&#38;t=9528)** presented a Crossref-supported study on how researchers engage with the UN SDGs and described Kudos’ work explaining research for wider audiences. A survey of ~4,500 researchers showed strong awareness, regional differences in SDG priorities, and some targeted budgets for promotion, alongside challenges in publishing SDG-focused local research in prestige venues.
-
-**[Pia Kretschmar (SCOAP3)](https://youtu.be/csDj_YkNuG8?si=fg9M2VzEzeZtyUc&#38;t=10264)** outlined integrating Crossref metadata into new SCOAP³ open science elements in Phase 4; SCOAP³ funds OA publishing in high-energy physics and has covered 78,000+ articles. Publishers are scored on elements such as metadata provision to Crossref, identifiers, and links to datasets/software; completeness was checked via the Crossref API, results varied, and evaluation continues next year.
-
-**[Barbara Rivera (Barcelona Declaration)](https://youtu.be/csDj_YkNuG8?si=fBmVBqAXG0Uy0ULr&#38;t=10923)** introduced the Declaration, its four commitments, and its community of 125 signatories and 52 supporters, including Crossref. Working groups are executing a joint roadmap, with recent actions such as a funding-metadata roundtable and upcoming surveys on metadata frameworks and repository workflows.
-
-**[Hans de Jonge (Dutch Research Council, NWO)](https://youtu.be/0NPqLrPHhYA?si=WybCBaSxzh-Wnoa3&#38;t=7753)** presented his and Bianca Kramer’s [recent study (as of 10/23/25 Preprint, not yet reviewed)](https://doi.org/10.31222/osf.io/ndx3f_v1) of metadata completeness in Crossref among publishers using different manuscript submission systems. They compared six metadata types across major publishers and found that differences had more to do with workflow choices, customization, and policy than with the system itself.
-
-**[Audrey Kenni (Pan African Medical Journal)](https://youtu.be/0NPqLrPHhYA?si=DIs2W6wIgUHHYy2h&#38;t=8350)** shared PAMJ’s journey with Crossref to increased visibility.
-
-**[Nurul Ain Mohd Noor (UMT Press, Malaysia)](https://youtu.be/0NPqLrPHhYA?si=8LT4O1xOYA9W1Hva&#38;t=8721)** described UMT Press’s evolution since 2003, rebranding in 2007 and joining Crossref in 2020. Nurul explained how registering their metadata with Crossref increased citation visibility and indexing across databases.
-
-**[Achal Agrawal (PostPub)](https://youtu.be/0NPqLrPHhYA?si=BzmyKx8i0g4SYjPl&#38;t=9123)** introduced PostPub’s dashboard providing retraction statistics by country and institution, supported by a Catalyst Grant from Digital Science, and shared their journey through disambiguation challenges.
-
-**[Ratna Galuh Manika Trisista (Universitas Islam Jakarta)](https://youtu.be/0NPqLrPHhYA?si=sOPvYU5VV5p_bL5H&#38;t=9641)** presented how enabling reference linking transformed her law journal’s citation visibility.
-
-### Closing reflections
-
-We closed the meeting with a panel discussion on the **Research Nexus in the real world**: What is the impact and potential of open scholarly metadata. Ginny Hendricks, Crossref; Dominika Tkaczyk, Crossref; Bianca Kramer, Barcelona Declaration on Open Research Information; David Oliva Uribe, UNESCO; Amber Osman, XploreOpen; Mariángela Nápoli, CONICET-IICE UBA-FFYL; Crossref; Kazuhiro Hayashi, National Institute of Science and Technology Policy; Science Council of Japan, shared a diversity of perspectives, which we’ll share in an upcoming blog.
-
-You can also learn more about the in-person satellite events across the world from [their organisers on our Community Forum](https://community.crossref.org/t/celebrating-crossref-s-25th-anniversary-at-our-annual-meeting-satellite-event-highlights/14959).
-
-You will find outputs from #Crossref2025 on our website, which you can cite as \`#Crossref2025 Annual Meeting and Board Election, 22-23 October 2025 retrieved \[date\], [https://doi.org/10.13003/431937misogo](https://doi.org/10.13003/431937misogo) ‘.</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/twenty-five-years-of-crossref-reflections-from-the-2025-annual-meeting-and-board-election/</guid>
     </item>
   </channel>
 </rss>

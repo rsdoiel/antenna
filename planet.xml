@@ -4,16 +4,452 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>07 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>08 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Holyhead Port temporarily closed due to berthing incident</title>
+      <title>Kenny Jacobs begins legal proceedings against daa</title>
+      <link>https://www.rte.ie/news/2026/0108/1552151-kenny-jacobs-daa/</link>
+      <description>
+        <![CDATA[The Chief Executive of daa Kenny Jacobs has begun legal proceedings against his employer aimed at allowing him to return to work.]]>
+      </description>
+      <source:markdown>The Chief Executive of daa Kenny Jacobs has begun legal proceedings against his employer aimed at allowing him to return to work.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0108/1552151-kenny-jacobs-daa/</guid>
+    </item>    <item>
+      <title>Charities appeal for donation of unwanted Christmas gifts</title>
+      <link>https://www.rte.ie/news/ireland/2026/0108/1552149-barnardos-christmas-gifts/</link>
+      <description>
+        <![CDATA[Charities are appealing to the public to donate any unwanted gifts they may have received for Christmas.]]>
+      </description>
+      <source:markdown>Charities are appealing to the public to donate any unwanted gifts they may have received for Christmas.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0108/1552149-barnardos-christmas-gifts/</guid>
+    </item>    <item>
+      <title>Teens held as Dutch police probe death after snowball row</title>
+      <link>https://www.rte.ie/news/world/2026/0108/1552147-snowball-row-death/</link>
+      <description>
+        <![CDATA[Dutch police arrested two teenage boys as they investigated the death of a 60-year-old man they believe was possibly assaulted after a row over snowballs.]]>
+      </description>
+      <source:markdown>Dutch police arrested two teenage boys as they investigated the death of a 60-year-old man they believe was possibly assaulted after a row over snowballs.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0108/1552147-snowball-row-death/</guid>
+    </item>    <item>
+      <title>Custos of the Holy Land: “Return as pilgrims to the Holy Land”</title>
+      <link>https://www.vaticannews.va/en/church/news/2026-01/custos-holy-land-pilgrimages-support-hope-faithful-jerusalem.html</link>
+      <description>
+        <![CDATA[<p>Father Francesco Ielpo, Custos of the Holy Land invites the faithful to resume pilgrimages to the Holy Land, as they are a source of economic support and of hope to the local communities.  </p>
+                            <p><a href="https://www.vaticannews.va/en/church/news/2026-01/custos-holy-land-pilgrimages-support-hope-faithful-jerusalem.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Father Francesco Ielpo, Custos of the Holy Land invites the faithful to resume pilgrimages to the Holy Land, as they are a source of economic support and of hope to the local communities.
+
+[Read all](https://www.vaticannews.va/en/church/news/2026-01/custos-holy-land-pilgrimages-support-hope-faithful-jerusalem.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/church/news/2026-01/custos-holy-land-pilgrimages-support-hope-faithful-jerusalem.html</guid>
+    </item>    <item>
+      <title>Investigation after bodies of man and boy found in Dublin</title>
+      <link>https://www.rte.ie/news/dublin/2026/0108/1552112-ballyfermot-incident/</link>
+      <description>
+        <![CDATA[The bodies of a man and a boy have been discovered at separate homes in Ballyfermot and Clondalkin in Dublin this morning.]]>
+      </description>
+      <source:markdown>The bodies of a man and a boy have been discovered at separate homes in Ballyfermot and Clondalkin in Dublin this morning.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/dublin/2026/0108/1552112-ballyfermot-incident/</guid>
+    </item>    <item>
+      <title>Can the ICE agent who shot a woman be prosecuted?</title>
+      <link>https://www.rte.ie/news/world/2026/0108/1552129-ice-shooting-minneapolis/</link>
+      <description>
+        <![CDATA[Here is a look at the potential legal repercussions after a US Immigration and Customs Enforcement agent shot and killed a 37-year-old woman in her car in Minneapolis yesterday amid President Donald Trump's federal crackdown]]>
+      </description>
+      <source:markdown>Here is a look at the potential legal repercussions after a US Immigration and Customs Enforcement agent shot and killed a 37-year-old woman in her car in Minneapolis yesterday amid President Donald Trump&#39;s federal crackdown</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0108/1552129-ice-shooting-minneapolis/</guid>
+    </item>    <item>
+      <title>Irish, EU laws broken on AI child abuse images - minister</title>
+      <link>https://www.rte.ie/news/ireland/2026/0108/1552118-ai-grok-minister/</link>
+      <description>
+        <![CDATA[The Minister of State with responsibility for Artificial Intelligence Niamh Smyth has said that both Irish and EU laws have been broken in relation to AI generated child abuse images.]]>
+      </description>
+      <source:markdown>The Minister of State with responsibility for Artificial Intelligence Niamh Smyth has said that both Irish and EU laws have been broken in relation to AI generated child abuse images.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0108/1552118-ai-grok-minister/</guid>
+    </item>    <item>
+      <title>Trump Vows to &#34;Indefinitely&#34; Control Venezuela&#39;s Oil as U.S. Seizes Two More Oil Tankers</title>
+      <link>http://www.democracynow.org/2026/1/8/venezuela_carlos_ron_francisco_rodriguez</link>
+      <description>
+        <![CDATA[U.S. forces have seized two more oil tankers with links to Venezuela, days after the U.S. attacked Venezuela and abducted President Nicolás Maduro along with his wife, making former Vice President Delcy Rodríguez the new leader of the country. &#8220;This is a decapitation without regime change,&#8221; says Venezuelan economist Francisco Rodríguez. &#8220;The political system in Venezuela remains intact.&#8221; In Caracas, former Venezuelan diplomat Carlos Ron says Maduro is a &#8220;prisoner of war&#8221; and that Venezuelans &#8220;are angry and are upset about this incursion from the United States.&#8221; This comes as the Trump administration has announced plans to control sales of Venezuela&#8217;s oil &#8220;indefinitely.&#8221;]]>
+      </description>
+      <source:markdown>U.S. forces have seized two more oil tankers with links to Venezuela, days after the U.S. attacked Venezuela and abducted President Nicolás Maduro along with his wife, making former Vice President Delcy Rodríguez the new leader of the country. “This is a decapitation without regime change,” says Venezuelan economist Francisco Rodríguez. “The political system in Venezuela remains intact.” In Caracas, former Venezuelan diplomat Carlos Ron says Maduro is a “prisoner of war” and that Venezuelans “are angry and are upset about this incursion from the United States.” This comes as the Trump administration has announced plans to control sales of Venezuela’s oil “indefinitely.”</source:markdown>
+      <author>webdev@democracynow.org (Democracy Now!)</author>
+      <guid>cid://tag:democracynow.org,2026-01-08:en/story/775ff7</guid>
+    </item>    <item>
+      <title>&#34;Terror &#38; Chaos&#34;: Minneapolis Reeling After ICE Killing of Renee Nicole Good</title>
+      <link>http://www.democracynow.org/2026/1/8/minneapolis_ice_shooting_renee_nicole_good</link>
+      <description>
+        <![CDATA[We speak with two people who responded to the fatal shooting of Renee Nicole Good, a 37-year-old mother of three, by an <span class="caps">ICE</span> agent in Minneapolis Wednesday. Trump administration officials claim the agent acted in self-defense, but local officials, including Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey, reject that claim.</p>
+        <p>&#8220;This could happen to you in your city,&#8221; says Robin Wonsley, member of the Minneapolis City Council. &#8220;This happening here in Minneapolis sets a tone for this to play out in many other cities.&#8221;</p>
+        <p>The shooting comes after the Trump administration deployed over 2,000 <span class="caps">ICE</span> agents to Minnesota.</p>
+        <p>&#8220;This is not normal,&#8221; says Edwin Torres DeSantiago with the Immigrant Defense Network, which monitors <span class="caps">ICE</span> activity and has received thousands of requests from Minnesotans who want to volunteer as &#8220;constitutional observers&#8221; of <span class="caps">ICE</span> in Minneapolis. &#8220;We&#8217;ve been seeing people terrorized all over the state and all over the country under the guise of protection.&#8221;]]>
+      </description>
+      <source:markdown>We speak with two people who responded to the fatal shooting of Renee Nicole Good, a 37-year-old mother of three, by an ICE agent in Minneapolis Wednesday. Trump administration officials claim the agent acted in self-defense, but local officials, including Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey, reject that claim.
+
+“This could happen to you in your city,” says Robin Wonsley, member of the Minneapolis City Council. “This happening here in Minneapolis sets a tone for this to play out in many other cities.”
+
+The shooting comes after the Trump administration deployed over 2,000 ICE agents to Minnesota.
+
+“This is not normal,” says Edwin Torres DeSantiago with the Immigrant Defense Network, which monitors ICE activity and has received thousands of requests from Minnesotans who want to volunteer as “constitutional observers” of ICE in Minneapolis. “We’ve been seeing people terrorized all over the state and all over the country under the guise of protection.”</source:markdown>
+      <author>webdev@democracynow.org (Democracy Now!)</author>
+      <guid>cid://tag:democracynow.org,2026-01-08:en/story/792ed5</guid>
+    </item>    <item>
+      <title>Out of hours palliative care needs to be improved - widow</title>
+      <link>https://www.rte.ie/news/2026/0108/1552105-hospice-report/</link>
+      <description>
+        <![CDATA[A widow has said that while the hospice system is a fantastic service, out-of-hours support services need improvement.]]>
+      </description>
+      <source:markdown>A widow has said that while the hospice system is a fantastic service, out-of-hours support services need improvement.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0108/1552105-hospice-report/</guid>
+    </item>    <item>
+      <title>Headlines for January  8, 2026</title>
+      <link>http://www.democracynow.org/2026/1/8/headlines</link>
+      <description>
+        <![CDATA[<span class="caps">ICE</span> Agent Fatally Shoots 37-Year-Old Minneapolis Mother During Immigration Enforcement Raid, Mayor Tells <span class="caps">ICE</span> to &#8220;Get the Fuck Out of Minneapolis&#8221; as Trump Spreads Disinformation About Shooting, Illinois Rep. Robin Kelly to File Articles of Impeachment Against <span class="caps">DHS</span> Secretary Kristi Noem, White House Plans &#8220;Indefinite&#8221; Control of Venezuela&#8217;s Oil Industry as U.S. Seizes More Tankers, Trump Invites President Gustavo Petro to White House After Threatening Attacks on Colombia, Trump Announces U.S. Withdrawal from Dozens of International Groups and U.N. Agencies, Drone Strike by Sudanese Paramilitary Group Kills 13, Including Children, Israeli Forces Kill Children and Civilians in Fresh Violations of Gaza Ceasefire, U.N. Rights Chief Decries &#8220;Apartheid&#8221; in Occupied West Bank as Israel Approves New Settlements, Trump Calls for Increasing U.S. Military Spending to $1.5 Trillion, House Oversight Committee to Subpoena Billionaire Les Wexner over Epstein Ties]]>
+      </description>
+      <source:markdown>ICE Agent Fatally Shoots 37-Year-Old Minneapolis Mother During Immigration Enforcement Raid, Mayor Tells ICE to “Get the Fuck Out of Minneapolis” as Trump Spreads Disinformation About Shooting, Illinois Rep. Robin Kelly to File Articles of Impeachment Against DHS Secretary Kristi Noem, White House Plans “Indefinite” Control of Venezuela’s Oil Industry as U.S. Seizes More Tankers, Trump Invites President Gustavo Petro to White House After Threatening Attacks on Colombia, Trump Announces U.S. Withdrawal from Dozens of International Groups and U.N. Agencies, Drone Strike by Sudanese Paramilitary Group Kills 13, Including Children, Israeli Forces Kill Children and Civilians in Fresh Violations of Gaza Ceasefire, U.N. Rights Chief Decries “Apartheid” in Occupied West Bank as Israel Approves New Settlements, Trump Calls for Increasing U.S. Military Spending to $1.5 Trillion, House Oversight Committee to Subpoena Billionaire Les Wexner over Epstein Ties</source:markdown>
+      <author>webdev@democracynow.org (Democracy Now!)</author>
+      <guid>cid://tag:democracynow.org,2026-01-08:en/headline/9136bc</guid>
+    </item>    <item>
+      <title>Appeal panel agrees to postpone Enoch Burke hearing</title>
+      <link>https://www.rte.ie/news/courts/2026/0108/1552109-enoch-burke/</link>
+      <description>
+        <![CDATA[A disciplinary appeals body has temporarily agreed not to take any further steps in reviewing the dismissal of Enoch Burke from Wilson's Hospital School.]]>
+      </description>
+      <source:markdown>A disciplinary appeals body has temporarily agreed not to take any further steps in reviewing the dismissal of Enoch Burke from Wilson&#39;s Hospital School.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2026/0108/1552109-enoch-burke/</guid>
+    </item>    <item>
+      <title>Pope Leo: &#39;Cardinals, I am counting on you&#39;</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-cardinals-i-am-counting-on-you.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV concluded the first session of the meeting with the cardinals yesterday with an off-the-cuff address, following work in linguistic groups in the Paul VI Hall. He thanked them for choosing two themes—synodality and mission in the light of Evangelii gaudium—from among four proposals, saying: “Thank you for this choice; the other themes are not lost. There are very concrete, specific issues that we still need to address.”</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-cardinals-i-am-counting-on-you.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV concluded the first session of the meeting with the cardinals yesterday with an off-the-cuff address, following work in linguistic groups in the Paul VI Hall. He thanked them for choosing two themes—synodality and mission in the light of Evangelii gaudium—from among four proposals, saying: “Thank you for this choice; the other themes are not lost. There are very concrete, specific issues that we still need to address.”
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-cardinals-i-am-counting-on-you.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-cardinals-i-am-counting-on-you.html</guid>
+    </item>    <item>
+      <title>Law being drafted to remove Dublin Airport passenger cap</title>
+      <link>https://www.rte.ie/news/dublin/2026/0108/1552104-passenger-cap-dublin-airport/</link>
+      <description>
+        <![CDATA[Legislation is being drafted by the Government to remove the passenger cap at Dublin Airport, the Taoiseach has said.]]>
+      </description>
+      <source:markdown>Legislation is being drafted by the Government to remove the passenger cap at Dublin Airport, the Taoiseach has said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/dublin/2026/0108/1552104-passenger-cap-dublin-airport/</guid>
+    </item>    <item>
+      <title>Foreign troops in Ukraine &#39;legitimate targets&#39; - Russia</title>
+      <link>https://www.rte.ie/news/world/2026/0108/1552102-ukraine-russia/</link>
+      <description>
+        <![CDATA[Russia said that any troops sent to Ukraine by Western governments would be "legitimate combat targets", after the UK and France announced plans to deploy a multinational force there in the event of a ceasefire.]]>
+      </description>
+      <source:markdown>Russia said that any troops sent to Ukraine by Western governments would be &#34;legitimate combat targets&#34;, after the UK and France announced plans to deploy a multinational force there in the event of a ceasefire.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0108/1552102-ukraine-russia/</guid>
+    </item>    <item>
+      <title>Coote handed suspended sentence for child sex video</title>
+      <link>https://www.rte.ie/sport/soccer/2026/0108/1552097-coote-handed-suspended-sentence-for-child-sex-video/</link>
+      <description>
+        <![CDATA[Former Premier League referee David Coote has been spared jail after he was found to have a sexual video of a 15-year-old boy in school uniform on his laptop.]]>
+      </description>
+      <source:markdown>Former Premier League referee David Coote has been spared jail after he was found to have a sexual video of a 15-year-old boy in school uniform on his laptop.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/soccer/2026/0108/1552097-coote-handed-suspended-sentence-for-child-sex-video/</guid>
+    </item>    <item>
+      <title>People who stop slimming jabs regain weight within 2 yrs</title>
+      <link>https://www.rte.ie/news/newslens/2026/0108/1552082-weight-loss-jabs/</link>
+      <description>
+        <![CDATA[People on weight loss jabs need ongoing support, researchers have said, after a major study found they put all the weight back on much faster than traditional dieters.]]>
+      </description>
+      <source:markdown>People on weight loss jabs need ongoing support, researchers have said, after a major study found they put all the weight back on much faster than traditional dieters.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/newslens/2026/0108/1552082-weight-loss-jabs/</guid>
+    </item>    <item>
+      <title>St. Brigitta Learning Centre empowering young people in Indonesia</title>
+      <link>https://www.vaticannews.va/en/church/news/2026-01/indonesia-kei-besar-island-brigitta-learning-centre-young-people.html</link>
+      <description>
+        <![CDATA[<p>The Church-run St. Brigitta Learning Centre is working to empower the young people on Indonesia’s remote Kei Besar Island in Southeast Maluku, combining medicine and pastoral care.</p>
+                            <p><a href="https://www.vaticannews.va/en/church/news/2026-01/indonesia-kei-besar-island-brigitta-learning-centre-young-people.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>The Church-run St. Brigitta Learning Centre is working to empower the young people on Indonesia’s remote Kei Besar Island in Southeast Maluku, combining medicine and pastoral care.
+
+[Read all](https://www.vaticannews.va/en/church/news/2026-01/indonesia-kei-besar-island-brigitta-learning-centre-young-people.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/church/news/2026-01/indonesia-kei-besar-island-brigitta-learning-centre-young-people.html</guid>
+    </item>    <item>
+      <title>Former Leeds and Wales star Terry Yorath dies aged 75</title>
+      <link>https://www.rte.ie/sport/soccer/2026/0108/1552071-former-leeds-and-wales-star-terry-yorath-dies-aged-75/</link>
+      <description>
+        <![CDATA[Former Leeds and Wales midfielder Terry Yorath has died at the age of 75 following a short illness, his family have said in a statement.]]>
+      </description>
+      <source:markdown>Former Leeds and Wales midfielder Terry Yorath has died at the age of 75 following a short illness, his family have said in a statement.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/soccer/2026/0108/1552071-former-leeds-and-wales-star-terry-yorath-dies-aged-75/</guid>
+    </item>    <item>
+      <title>Woman, 46, charged in connection with 2017 murder</title>
+      <link>https://www.rte.ie/news/courts/2026/0108/1552070-jamie-tighe-ennis-investigation/</link>
+      <description>
+        <![CDATA[A 46-year-old woman has been remanded in custody accused of helping to commission the gang-related murder of a 24-year-man in Dublin almost nine years ago.]]>
+      </description>
+      <source:markdown>A 46-year-old woman has been remanded in custody accused of helping to commission the gang-related murder of a 24-year-man in Dublin almost nine years ago.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2026/0108/1552070-jamie-tighe-ennis-investigation/</guid>
+    </item>    <item>
+      <title>Major investment in palliative care services needed - IHF</title>
+      <link>https://www.rte.ie/news/2026/0108/1552069-investment-palliative-care/</link>
+      <description>
+        <![CDATA[Ireland is facing a potential future crisis in end of life care and support for people who are bereaved without targeted investment and planning, according to a new report by the Irish Hospice Foundation.]]>
+      </description>
+      <source:markdown>Ireland is facing a potential future crisis in end of life care and support for people who are bereaved without targeted investment and planning, according to a new report by the Irish Hospice Foundation.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0108/1552069-investment-palliative-care/</guid>
+    </item>    <item>
+      <title>US withdrawal from UN climate treaty &#39;regrettable&#39; - EU</title>
+      <link>https://www.rte.ie/news/us/2026/0108/1552068-us-climate/</link>
+      <description>
+        <![CDATA[The EU's climate chief has said that Europe would keep working with other nations to confront global warming despite the United States announcing its withdrawal from a bedrock UN climate treaty.]]>
+      </description>
+      <source:markdown>The EU&#39;s climate chief has said that Europe would keep working with other nations to confront global warming despite the United States announcing its withdrawal from a bedrock UN climate treaty.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/us/2026/0108/1552068-us-climate/</guid>
+    </item>    <item>
+      <title>&#39;Full circle&#39; - All-Ireland camogie team visit old school</title>
+      <link>https://www.rte.ie/news/ireland/2026/0108/1552035-athenry-camogie-team/</link>
+      <description>
+        <![CDATA[After a long road to victory, the Athenry Camogie team claimed the All-Ireland club title last weekend and this week, they embarked on a tour of local schools with the Bill and Agnes Carroll Cup.]]>
+      </description>
+      <source:markdown>After a long road to victory, the Athenry Camogie team claimed the All-Ireland club title last weekend and this week, they embarked on a tour of local schools with the Bill and Agnes Carroll Cup.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0108/1552035-athenry-camogie-team/</guid>
+    </item>    <item>
+      <title>US govt response to ICE shooting &#39;propaganda&#39;, says Walz</title>
+      <link>https://www.rte.ie/news/us/2026/0108/1552047-minneapolis-shooting/</link>
+      <description>
+        <![CDATA[The Governor of Minnesota has called the administration of US President Donald Trump a "propaganda machine" for its response to the killing of a woman by an immigration officer in Minneapolis in which it accused her of "domestic terrorism".]]>
+      </description>
+      <source:markdown>The Governor of Minnesota has called the administration of US President Donald Trump a &#34;propaganda machine&#34; for its response to the killing of a woman by an immigration officer in Minneapolis in which it accused her of &#34;domestic terrorism&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/us/2026/0108/1552047-minneapolis-shooting/</guid>
+    </item>    <item>
+      <title>Australia to hold govt inquiry into Bondi Beach shooting</title>
+      <link>https://www.rte.ie/news/2026/0108/1552050-bondi-beach-shooting/</link>
+      <description>
+        <![CDATA[Australia will hold a royal commission inquiry, the highest level of government inquiry, into the mass shooting that killed 15 people at Bondi Beach, Prime Minister Anthony Albanese said, as he faced public demands for answers.]]>
+      </description>
+      <source:markdown>Australia will hold a royal commission inquiry, the highest level of government inquiry, into the mass shooting that killed 15 people at Bondi Beach, Prime Minister Anthony Albanese said, as he faced public demands for answers.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0108/1552050-bondi-beach-shooting/</guid>
+    </item>    <item>
+      <title>Pope at Mass: Consistory a time for Cardinals to reflect on Church’s path</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-mass-extraordinary-consistory-cardinals.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV celebrates Mass with the Cardinals gathered for his first Extraordinary Consistory, and invites them to share their burden of pastoral care with each other as they seek to help the Pope guide the Church.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-mass-extraordinary-consistory-cardinals.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV celebrates Mass with the Cardinals gathered for his first Extraordinary Consistory, and invites them to share their burden of pastoral care with each other as they seek to help the Pope guide the Church.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-mass-extraordinary-consistory-cardinals.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-mass-extraordinary-consistory-cardinals.html</guid>
+    </item>    <item>
+      <title>Rubio to meet Danish leaders next week amid Greenland row</title>
+      <link>https://www.rte.ie/news/world/2026/0108/1552038-greenland-us/</link>
+      <description>
+        <![CDATA[US Secretary of State Marco Rubio has said he will meet leaders of Denmark next week but signalled no retreat from President Donald Trump's aim to take over Greenland as alarmed allies work on a response.]]>
+      </description>
+      <source:markdown>US Secretary of State Marco Rubio has said he will meet leaders of Denmark next week but signalled no retreat from President Donald Trump&#39;s aim to take over Greenland as alarmed allies work on a response.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0108/1552038-greenland-us/</guid>
+    </item>    <item>
+      <title>Ireland to vote against EU-Mercosur trade deal</title>
+      <link>https://www.rte.ie/news/politics/2026/0108/1552032-eu-mercosur-trade-deal/</link>
+      <description>
+        <![CDATA[The Taoiseach and the Tánaiste have confirmed that Ireland will vote against the Mercosur trade agreement tomorrow.]]>
+      </description>
+      <source:markdown>The Taoiseach and the Tánaiste have confirmed that Ireland will vote against the Mercosur trade agreement tomorrow.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/politics/2026/0108/1552032-eu-mercosur-trade-deal/</guid>
+    </item>    <item>
+      <title>Watch: Young Scientist students on their STEM heroes</title>
+      <link>https://www.rte.ie/news/ireland/2026/0108/1552008-young-scientist-day-two/</link>
+      <description>
+        <![CDATA[It's day two of the Stripe Young Scientist and Technology Exhibition at the RDS in Dublin, where we spoke to some of the students about the scientists and innovators who inspire them.]]>
+      </description>
+      <source:markdown>It&#39;s day two of the Stripe Young Scientist and Technology Exhibition at the RDS in Dublin, where we spoke to some of the students about the scientists and innovators who inspire them.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0108/1552008-young-scientist-day-two/</guid>
+    </item>    <item>
+      <title>Irish ex-footballers to receive free health screening</title>
+      <link>https://www.rte.ie/news/ireland/2026/0108/1552014-footballers-health-checks/</link>
+      <description>
+        <![CDATA[Over 100 retired Irish footballers will undergo health screening this week as a part of an initiative to protect and enhance the wellbeing of former players.]]>
+      </description>
+      <source:markdown>Over 100 retired Irish footballers will undergo health screening this week as a part of an initiative to protect and enhance the wellbeing of former players.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0108/1552014-footballers-health-checks/</guid>
+    </item>    <item>
+      <title>US says it will dictate Venezuela decisions and oil sales</title>
+      <link>https://www.rte.ie/news/us/2026/0108/1552036-venezuela-us/</link>
+      <description>
+        <![CDATA[US President Donald Trump's administration has said it will dictate decisions to Venezuela's interim leaders and control the country's oil sales "indefinitely" after deposing Nicolas Maduro.]]>
+      </description>
+      <source:markdown>US President Donald Trump&#39;s administration has said it will dictate decisions to Venezuela&#39;s interim leaders and control the country&#39;s oil sales &#34;indefinitely&#34; after deposing Nicolas Maduro.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/us/2026/0108/1552036-venezuela-us/</guid>
+    </item>    <item>
+      <title>Snow forecast in southern counties ahead of Storm Goretti</title>
+      <link>https://www.rte.ie/news/2026/0108/1552033-weather-warning/</link>
+      <description>
+        <![CDATA[Ireland will not be affected as badly as other European countries by Storm Goretti, which has caused widespread travel disruption across the continent.]]>
+      </description>
+      <source:markdown>Ireland will not be affected as badly as other European countries by Storm Goretti, which has caused widespread travel disruption across the continent.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0108/1552033-weather-warning/</guid>
+    </item>    <item>
+      <title>Google, AI firm settle suicide case linked to chatbot</title>
+      <link>https://www.rte.ie/news/2026/0107/1552016-google-ai/</link>
+      <description>
+        <![CDATA[Alphabet's Google and AI startup Character.AI have agreed to settle a case by a Florida ⁠mother who alleged the startup's chatbot led to her 14-year-old son taking his own life, representing one of the first US cases targeting AI firms over alleged psychological harm.]]>
+      </description>
+      <source:markdown>Alphabet&#39;s Google and AI startup Character.AI have agreed to settle a case by a Florida ⁠mother who alleged the startup&#39;s chatbot led to her 14-year-old son taking his own life, representing one of the first US cases targeting AI firms over alleged psychological harm.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0107/1552016-google-ai/</guid>
+    </item>    <item>
+      <title>Man who threatened gardaí with knives remanded in custody</title>
+      <link>https://www.rte.ie/news/courts/2026/0107/1552015-simon-naidu/</link>
+      <description>
+        <![CDATA[A man with profound mental health problems walked into the public office of a Dublin Garda station with four knives, saying "he wished to harm Caucasian males and himself," it has been alleged]]>
+      </description>
+      <source:markdown>A man with profound mental health problems walked into the public office of a Dublin Garda station with four knives, saying &#34;he wished to harm Caucasian males and himself,&#34; it has been alleged</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2026/0107/1552015-simon-naidu/</guid>
+    </item>    <item>
+      <title>Consistory: Cardinals choose synodality and mission as themes for reflection</title>
+      <link>https://www.vaticannews.va/en/vatican-city/news/2026-01/consistory-cardinals-day-1-press-briefing-synodality-mission.html</link>
+      <description>
+        <![CDATA[<p>At the end of the first day of the Extraordinary Consistory, the Director of the Holy See Press Office tells reporters that the roughly 170 Cardinals participating voted to reflect on the themes of synodality and mission, noting that Pope Leo XIV told the Cardinals that he needs “to be able to count on you.”</p>
+                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2026-01/consistory-cardinals-day-1-press-briefing-synodality-mission.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>At the end of the first day of the Extraordinary Consistory, the Director of the Holy See Press Office tells reporters that the roughly 170 Cardinals participating voted to reflect on the themes of synodality and mission, noting that Pope Leo XIV told the Cardinals that he needs “to be able to count on you.”
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-01/consistory-cardinals-day-1-press-briefing-synodality-mission.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2026-01/consistory-cardinals-day-1-press-briefing-synodality-mission.html</guid>
+    </item>    <item>
+      <title>Italian student paralysed after 1999 Dublin attack dies</title>
+      <link>https://www.rte.ie/news/ireland/2026/0107/1552010-guido-nasi-death/</link>
+      <description>
+        <![CDATA[Guido Nasi, the Italian man who was paralysed as a teenager after an unprovoked attack in Dublin, has died aged 43.]]>
+      </description>
+      <source:markdown>Guido Nasi, the Italian man who was paralysed as a teenager after an unprovoked attack in Dublin, has died aged 43.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0107/1552010-guido-nasi-death/</guid>
+    </item>    <item>
+      <title>Pope at Consistory: It&#39;s not the Church that attracts but Christ</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-at-consistory-its-not-the-church-that-attracts-but-christ.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV opens the Extraordinary Consistory of Cardinals and recalls that Christ draws us to follow Him, warning that division in the Church scatters the faithful.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-at-consistory-its-not-the-church-that-attracts-but-christ.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV opens the Extraordinary Consistory of Cardinals and recalls that Christ draws us to follow Him, warning that division in the Church scatters the faithful.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-at-consistory-its-not-the-church-that-attracts-but-christ.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-at-consistory-its-not-the-church-that-attracts-but-christ.html</guid>
+    </item>    <item>
+      <title>Mayor demands ICE leaves Minneapolis after fatal shooting</title>
+      <link>https://www.rte.ie/news/2026/0107/1552005-us-immigration-officer/</link>
+      <description>
+        <![CDATA[An officer in Minneapolis has shot dead a woman who US officials accused of trying to ram federal immigration agents with her vehicle, a claim forcefully rejected by the city's outspoken mayor.]]>
+      </description>
+      <source:markdown>An officer in Minneapolis has shot dead a woman who US officials accused of trying to ram federal immigration agents with her vehicle, a claim forcefully rejected by the city&#39;s outspoken mayor.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0107/1552005-us-immigration-officer/</guid>
+    </item>    <item>
+      <title>Mayor demands ICE leaves Minneapolis after fatal shooting</title>
+      <link>https://www.rte.ie/news/2026/0107/1552005-minneapolis-shooting/</link>
+      <description>
+        <![CDATA[An officer in Minneapolis shot dead a woman who US officials accused of trying to ram federal immigration agents with her vehicle, a claim forcefully rejected by the city's mayor.]]>
+      </description>
+      <source:markdown>An officer in Minneapolis shot dead a woman who US officials accused of trying to ram federal immigration agents with her vehicle, a claim forcefully rejected by the city&#39;s mayor.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0107/1552005-minneapolis-shooting/</guid>
+    </item>    <item>
+      <title>Podcast: Increasing tourism and Grok AI concerns</title>
+      <link>https://www.rte.ie/news/2026/0107/1551995-podcast-increasing-tourism-and-grok-ai-concerns/</link>
+      <description>
+        <![CDATA[The Government is hoping to attract more tourists from India, the UAE and the Asia-Pacific region as part of a new strategic investment covering a range of sectors.]]>
+      </description>
+      <source:markdown>The Government is hoping to attract more tourists from India, the UAE and the Asia-Pacific region as part of a new strategic investment covering a range of sectors.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0107/1551995-podcast-increasing-tourism-and-grok-ai-concerns/</guid>
+    </item>    <item>
+      <title>Ex-principal who stole €100k suspended for one month</title>
+      <link>https://www.rte.ie/news/courts/2026/0107/1552004-teacher-stolen-money/</link>
+      <description>
+        <![CDATA[A teacher who was jailed for stealing over €100,000 from the school where he was a principal has been suspended by his regulatory body from working as a teacher for a period of one month.]]>
+      </description>
+      <source:markdown>A teacher who was jailed for stealing over €100,000 from the school where he was a principal has been suspended by his regulatory body from working as a teacher for a period of one month.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2026/0107/1552004-teacher-stolen-money/</guid>
+    </item>    <item>
+      <title>Kevin Keegan reveals cancer diagnosis</title>
+      <link>https://www.rte.ie/sport/soccer/2026/0107/1551999-keegan-reveals-hes-been-diagnosed-with-cancer/</link>
+      <description>
+        <![CDATA[Former England and Newcastle manager Kevin Keegan has been diagnosed with cancer.]]>
+      </description>
+      <source:markdown>Former England and Newcastle manager Kevin Keegan has been diagnosed with cancer.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/soccer/2026/0107/1551999-keegan-reveals-hes-been-diagnosed-with-cancer/</guid>
+    </item>    <item>
+      <title>Power back on in Berlin after longest blackout since WWII</title>
+      <link>https://www.rte.ie/news/world/2026/0107/1551966-power-back-on-in-berlin-after-longest-blackout-since-wwii/</link>
+      <description>
+        <![CDATA[Power was fully restored to roughly 45,000 households and more than 2,000 businesses in Berlin this vfcx, according to city officials, five days after a suspected act of sabotage.]]>
+      </description>
+      <source:markdown>Power was fully restored to roughly 45,000 households and more than 2,000 businesses in Berlin this vfcx, according to city officials, five days after a suspected act of sabotage.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0107/1551966-power-back-on-in-berlin-after-longest-blackout-since-wwii/</guid>
+    </item>    <item>
+      <title>Power back on in Berlin after longest blackout since WWII</title>
+      <link>https://www.rte.ie/news/europe/2026/0107/1551966-berlin-power/</link>
+      <description>
+        <![CDATA[Power was fully restored to roughly 45,000 households and more than 2,000 businesses in Berlin this afternoon, according to city officials, five days after a suspected act of sabotage.]]>
+      </description>
+      <source:markdown>Power was fully restored to roughly 45,000 households and more than 2,000 businesses in Berlin this afternoon, according to city officials, five days after a suspected act of sabotage.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/europe/2026/0107/1551966-berlin-power/</guid>
+    </item>    <item>
+      <title>Laois retirement village welcomes its first residents</title>
+      <link>https://www.rte.ie/news/2026/0107/1551982-retirement-village-laois/</link>
+      <description>
+        <![CDATA[The Heritage Village, a purpose built senior living community in Co Laois, has welcomed its first residents.]]>
+      </description>
+      <source:markdown>The Heritage Village, a purpose built senior living community in Co Laois, has welcomed its first residents.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0107/1551982-retirement-village-laois/</guid>
+    </item>    <item>
+      <title>Minister wants X meeting over Grok explicit content</title>
+      <link>https://www.rte.ie/news/2026/0107/1551973-grok-concerns-minister/</link>
+      <description>
+        <![CDATA[The Minister of State for Artificial Intelligence has requested a meeting with X over concerns that the AI tool Grok is being used to create sexually explicit images of adults and children.]]>
+      </description>
+      <source:markdown>The Minister of State for Artificial Intelligence has requested a meeting with X over concerns that the AI tool Grok is being used to create sexually explicit images of adults and children.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0107/1551973-grok-concerns-minister/</guid>
+    </item>    <item>
+      <title>Minister wants X meeting over &#39;disturbing&#39; Grok concerns</title>
+      <link>https://www.rte.ie/news/ireland/2026/0107/1551973-grok-concerns-minister/</link>
+      <description>
+        <![CDATA[Minister of State for Artificial Intelligence Niamh Smyth has requested a meeting with X over concerns that the AI tool Grok is being used to create sexually explicit images of adults and children.]]>
+      </description>
+      <source:markdown>Minister of State for Artificial Intelligence Niamh Smyth has requested a meeting with X over concerns that the AI tool Grok is being used to create sexually explicit images of adults and children.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0107/1551973-grok-concerns-minister/</guid>
+    </item>    <item>
+      <title>“Pray with the Pope”: a real network of communion in a divided world</title>
+      <link>https://www.vaticannews.va/en/vatican-city/news/2026-01/pray-with-the-pope-a-real-network-of-communion-in-a-divided.html</link>
+      <description>
+        <![CDATA[<p>“Pray with the Pope” is a new initiative of the Dicastery for Communication and the Pope’s Worldwide Prayer Network that invites people around the world to share in a real communion of prayer with Pope Leo XIV, offering prayer as a path to unity in a divided world.</p>
+                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2026-01/pray-with-the-pope-a-real-network-of-communion-in-a-divided.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>“Pray with the Pope” is a new initiative of the Dicastery for Communication and the Pope’s Worldwide Prayer Network that invites people around the world to share in a real communion of prayer with Pope Leo XIV, offering prayer as a path to unity in a divided world.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-01/pray-with-the-pope-a-real-network-of-communion-in-a-divided.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2026-01/pray-with-the-pope-a-real-network-of-communion-in-a-divided.html</guid>
+    </item>    <item>
+      <title>Thousands flee renewed violence in eastern DR Congo as crisis spills into Burundi</title>
+      <link>https://www.vaticannews.va/en/world/news/2026-01/thousands-flee-renewed-violence-in-eastern-dr-congo-as-crisis-sp.html</link>
+      <description>
+        <![CDATA[<p>Tens of thousands of Congolese have fled renewed fighting in eastern DR Congo, with more than 80,000 people crossing into Burundi in recent weeks. </p>
+                            <p><a href="https://www.vaticannews.va/en/world/news/2026-01/thousands-flee-renewed-violence-in-eastern-dr-congo-as-crisis-sp.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Tens of thousands of Congolese have fled renewed fighting in eastern DR Congo, with more than 80,000 people crossing into Burundi in recent weeks.
+
+[Read all](https://www.vaticannews.va/en/world/news/2026-01/thousands-flee-renewed-violence-in-eastern-dr-congo-as-crisis-sp.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/world/news/2026-01/thousands-flee-renewed-violence-in-eastern-dr-congo-as-crisis-sp.html</guid>
+    </item>    <item>
+      <title>Holyhead Port to reopen after ferry berthing incident</title>
       <link>https://www.rte.ie/news/business/2026/0107/1551961-holyhead-closed/</link>
       <description>
-        <![CDATA[Holyhead Port in Wales has been temporarily closed due to a "berthing incident" earlier today involving a ferry.]]>
+        <![CDATA[Holyhead Port in Wales is to reopen after a "berthing incident" involving a ferry closed the facility earlier today.]]>
       </description>
-      <source:markdown>Holyhead Port in Wales has been temporarily closed due to a &#34;berthing incident&#34; earlier today involving a ferry.</source:markdown>
+      <source:markdown>Holyhead Port in Wales is to reopen after a &#34;berthing incident&#34; involving a ferry closed the facility earlier today.</source:markdown>
       <guid>cid://https://www.rte.ie/news/business/2026/0107/1551961-holyhead-closed/</guid>
     </item>    <item>
       <title>Garda to stand trial on burglary, assault, other charges</title>
@@ -23,6 +459,14 @@
       </description>
       <source:markdown>A serving garda is to stand trial on charges of burglary, harassment, criminal damage, assault and sending grossly offensive messages.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2026/0107/1551949-alan-omahony-court/</guid>
+    </item>    <item>
+      <title>Garda to stand trial on burglary, assault, other charges</title>
+      <link>https://www.rte.ie/news/courts/2026/0107/1551949-alan-omahony-court/</link>
+      <description>
+        <![CDATA[A serving garda is to stand trial on charges of burglary, harassment, criminal damage, assault and sending grossly offensive messages.]]>
+      </description>
+      <source:markdown>A serving garda is to stand trial on charges of burglary, harassment, criminal damage, assault and sending grossly offensive messages.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2026/0107/1551949-alan-omahony-court/</guid>
     </item>    <item>
       <title>We are not politicians and cannot afford to be partisan, say Cameroon’s Bishops</title>
       <link>https://www.vaticannews.va/en/africa/news/2026-01/we-are-not-politicians-and-cannot-afford-to-be-partisan-say-cam.html</link>
@@ -65,12 +509,12 @@
 [Read all](https://www.vaticannews.va/en/world/news/2026-01/more-lives-lost-as-sudan-prepares-to-mark-1-000-days-of-war.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/world/news/2026-01/more-lives-lost-as-sudan-prepares-to-mark-1-000-days-of-war.html</guid>
     </item>    <item>
-      <title>Russia reacts after US seizes sanctioned oil tankers</title>
+      <title>As it happened: US boards tankers and talks Greenland</title>
       <link>https://www.rte.ie/news/2026/0107/1551928-us-venezuela-russia/</link>
       <description>
-        <![CDATA[Follow live coverage as the US Coast Guard attempts to seize an oil tanker linked to Russia and Venezuela in the Atlantic Ocean]]>
+        <![CDATA[Look back on our live coverage after US forces seized two separate oil tankers linked to Russia and Venezuela, and the fallout of President Trump's latest attempt to acquire Greenland from Denmark]]>
       </description>
-      <source:markdown>Follow live coverage as the US Coast Guard attempts to seize an oil tanker linked to Russia and Venezuela in the Atlantic Ocean</source:markdown>
+      <source:markdown>Look back on our live coverage after US forces seized two separate oil tankers linked to Russia and Venezuela, and the fallout of President Trump&#39;s latest attempt to acquire Greenland from Denmark</source:markdown>
       <guid>cid://https://www.rte.ie/news/2026/0107/1551928-us-venezuela-russia/</guid>
     </item>    <item>
       <title>Trump&#39;s Plan to Seize Greenland Would &#34;Militarize the Arctic,&#34; Trample Indigenous Rights</title>
@@ -137,12 +581,20 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       <source:markdown>A man who assisted suicide by selling a substance online for £100 to vulnerable people has been jailed for 14 years after what is believed to be the first prosecution of its kind in the UK.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0107/1551919-miles-cross-uk-court/</guid>
     </item>    <item>
-      <title>US military seizes Russian-flagged oil tanker in Atlantic</title>
+      <title>Jesy Nelson feels &#39;duty of care&#39; after twins&#39; diagnosis</title>
+      <link>https://www.rte.ie/entertainment/2026/0107/1551917-jesy-nelson-feels-duty-of-care-after-twins-diagnosis/</link>
+      <description>
+        <![CDATA[Former Little Mix singer Jesy Nelson has said she feels she has a "duty of care" to raise awareness about the rare genetic condition her twins have been diagnosed with.]]>
+      </description>
+      <source:markdown>Former Little Mix singer Jesy Nelson has said she feels she has a &#34;duty of care&#34; to raise awareness about the rare genetic condition her twins have been diagnosed with.</source:markdown>
+      <guid>cid://https://www.rte.ie/entertainment/2026/0107/1551917-jesy-nelson-feels-duty-of-care-after-twins-diagnosis/</guid>
+    </item>    <item>
+      <title>US says seized oil tanker was &#39;flying false flag&#39;</title>
       <link>https://www.rte.ie/news/world/2026/0107/1551924-tanker-russia-venezuela-us/</link>
       <description>
-        <![CDATA[The United States military said it has seized the Russian-flagged oil tanker in the North Atlantic for sanctions violations, bringing an end to a multi-week pursuit by US forces.]]>
+        <![CDATA[The United States military has seized a Russian-flagged oil tanker in the North Atlantic Ocean for sanctions violations, bringing an end to a multi-week pursuit by US forces.]]>
       </description>
-      <source:markdown>The United States military said it has seized the Russian-flagged oil tanker in the North Atlantic for sanctions violations, bringing an end to a multi-week pursuit by US forces.</source:markdown>
+      <source:markdown>The United States military has seized a Russian-flagged oil tanker in the North Atlantic Ocean for sanctions violations, bringing an end to a multi-week pursuit by US forces.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0107/1551924-tanker-russia-venezuela-us/</guid>
     </item>    <item>
       <title>Could Trump&#39;s desire for Greenland spell the end of NATO?</title>
@@ -152,6 +604,14 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       </description>
       <source:markdown>The White House has said President Donald Trump is discussing options including military action to take Greenland - despite a warning from Denmark that an attack would spell the end of NATO.</source:markdown>
       <guid>cid://https://www.rte.ie/news/us/2026/0107/1551920-greenland-analysis/</guid>
+    </item>    <item>
+      <title>Could Trump&#39;s desire for Greenland spell the end of NATO?</title>
+      <link>https://www.rte.ie/news/world/2026/0107/1551920-greenland-analysis/</link>
+      <description>
+        <![CDATA[The White House has said President Donald Trump is discussing options including military action to take Greenland - despite a warning from Denmark that an attack would spell the end of NATO.]]>
+      </description>
+      <source:markdown>The White House has said President Donald Trump is discussing options including military action to take Greenland - despite a warning from Denmark that an attack would spell the end of NATO.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0107/1551920-greenland-analysis/</guid>
     </item>    <item>
       <title>Poland: Papal blessing as thousands join Three Kings Parade</title>
       <link>https://www.vaticannews.va/en/church/news/2026-01/poland-papal-blessing-as-thousands-join-the-three-kings-process.html</link>
@@ -185,6 +645,42 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       <source:markdown>The long-awaited redevelopment of Casement Park has received two boosts as the complex project looks set to progress significantly this year.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/hurling/2026/0107/1551912-casement-development-hopes-rise-after-funding-boost/</guid>
     </item>    <item>
+      <title>West Bank: UN report warns of ‘systematic asphyxiation’ of Palestinian rights</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166716</link>
+      <description>
+        <![CDATA[A sweeping UN human rights report released on Wednesday concludes that in the occupied West Bank, Israel is violating international law prohibiting racial segregation and apartheid, warning that the discriminatory practices have accelerated dramatically since late 2022 amid growing violence, repression and impunity.]]>
+      </description>
+      <source:markdown>A sweeping UN human rights report released on Wednesday concludes that in the occupied West Bank, Israel is violating international law prohibiting racial segregation and apartheid, warning that the discriminatory practices have accelerated dramatically since late 2022 amid growing violence, repression and impunity.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-07-2025-UNICEF-West-Bank-04.jpg/image560x340cropped.jpg" length="29880" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166716</guid>
+    </item>    <item>
+      <title>Drones, fear and exhaustion: The daily reality of providing aid to Ukraine</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166714</link>
+      <description>
+        <![CDATA[Almost four years since Russia’s full-scale invasion of Ukraine, aid teams continue to adapt to the lethal reality of working in a modern war zone.&nbsp;]]>
+      </description>
+      <source:markdown>Almost four years since Russia’s full-scale invasion of Ukraine, aid teams continue to adapt to the lethal reality of working in a modern war zone.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/07-01-2025-WFP-Ukraine-02.jpg/image560x340cropped.jpg" length="40329" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166714</guid>
+    </item>    <item>
+      <title>Iraq ‘unrecognisable and remarkable’ after years of conflict: UN coordinator</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166718</link>
+      <description>
+        <![CDATA[Some two decades after a shaky political transition, Iraq today is a country “at peace, with increased security and a clear determination to win the battle of development,” says the UN resident coordinator for Iraq on Wednesday.]]>
+      </description>
+      <source:markdown>Some two decades after a shaky political transition, Iraq today is a country “at peace, with increased security and a clear determination to win the battle of development,” says the UN resident coordinator for Iraq on Wednesday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/09-10-2023-UNICEF-Iraq-Ali-camp.jpg/image560x340cropped.jpg" length="26081" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166718</guid>
+    </item>    <item>
+      <title>Syria: Aleppo fighting leaves civilians dead, displaces thousands</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166719</link>
+      <description>
+        <![CDATA[At least five civilians have been killed and some 30,000 people displaced following renewed fighting in Aleppo, Syria, prompting calls from the UN for immediate de-escalation and a return to political talks.]]>
+      </description>
+      <source:markdown>At least five civilians have been killed and some 30,000 people displaced following renewed fighting in Aleppo, Syria, prompting calls from the UN for immediate de-escalation and a return to political talks.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/07-01-2026-UNICEF-Syria.jpg/image560x340cropped.jpg" length="33000" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166719</guid>
+    </item>    <item>
       <title>765 arrests for drink, drug driving over Christmas period</title>
       <link>https://www.rte.ie/news/2026/0107/1551892-garda-road-christmas-figures/</link>
       <description>
@@ -201,13 +697,21 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       <source:markdown>Cyprus assumed the European Union&#39;s rotating presidency, starting its term with a meeting attended by ⁠Ukrainian President Volodymyr Zelensky, European Commission chief Ursula von der Leyen and European Council President Antonio Costa.</source:markdown>
       <guid>cid://https://www.rte.ie/news/europe/2026/0107/1551864-eu-cyprus/</guid>
     </item>    <item>
-      <title>Snow, heavy rain as Storm Goretti to hit southern areas</title>
+      <title>Storm Goretti to bring snow and rain to southern areas</title>
       <link>https://www.rte.ie/news/ireland/2026/0107/1551862-weather-warnings/</link>
       <description>
         <![CDATA[Snow and heavy rain are set to hit southern areas tomorrow as Storm Goretti moves across Ireland.]]>
       </description>
       <source:markdown>Snow and heavy rain are set to hit southern areas tomorrow as Storm Goretti moves across Ireland.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2026/0107/1551862-weather-warnings/</guid>
+    </item>    <item>
+      <title>Storm Goretti to bring snow and rain to southern areas</title>
+      <link>https://www.rte.ie/news/2026/0107/1551862-weather-warnings/</link>
+      <description>
+        <![CDATA[Snow and heavy rain are set to hit southern areas tomorrow as Storm Goretti moves across Ireland.]]>
+      </description>
+      <source:markdown>Snow and heavy rain are set to hit southern areas tomorrow as Storm Goretti moves across Ireland.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0107/1551862-weather-warnings/</guid>
     </item>    <item>
       <title>Pope at Audience: Second Vatican Council still guiding star of Church’s journey</title>
       <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-at-audience-7-january-2026.html</link>
@@ -253,6 +757,14 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       <source:markdown>Hundreds of flights have been cancelled in Paris and Amsterdam due to snowfall as storm Goretti tracks across Europe.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0107/1551841-europe-weather/</guid>
     </item>    <item>
+      <title>Transport chaos, seven deaths as cold snap hits Europe</title>
+      <link>https://www.rte.ie/news/europe/2026/0107/1551841-europe-weather/</link>
+      <description>
+        <![CDATA[Snow, ice and high winds have brought transport chaos to many parts of Europe for a third day, with hundreds of flights cancelled and passengers stranded.]]>
+      </description>
+      <source:markdown>Snow, ice and high winds have brought transport chaos to many parts of Europe for a third day, with hundreds of flights cancelled and passengers stranded.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/europe/2026/0107/1551841-europe-weather/</guid>
+    </item>    <item>
       <title>Ex-CIA agent convicted of spying for Soviets dies</title>
       <link>https://www.rte.ie/news/2026/0107/1551834-aldrich-ames/</link>
       <description>
@@ -261,12 +773,12 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       <source:markdown>Aldrich Ames, the Central Intelligence Agency spy who was sentenced to life in prison for selling secrets to the Soviet Union, costing the lives of a dozen double agents, has died in custody, US authorities said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2026/0107/1551834-aldrich-ames/</guid>
     </item>    <item>
-      <title>Rob Reiner&#39;s son set for arraignment over parents&#39; murder</title>
+      <title>Arraignment postponed for Rob Reiner&#39;s son over murder</title>
       <link>https://www.rte.ie/news/us/2026/0107/1551830-nick-reiner-court/</link>
       <description>
-        <![CDATA[The son of Hollywood director Rob Reiner is due to appear in a Los Angeles court later today where he could enter a plea over the deaths of his parents.]]>
+        <![CDATA[An arraignment for the son of Hollywood director Rob Reiner over the stabbing deaths of his parents was postponed, after his lawyer stepped back from the case, while insisting his former client was not guilty of murder.]]>
       </description>
-      <source:markdown>The son of Hollywood director Rob Reiner is due to appear in a Los Angeles court later today where he could enter a plea over the deaths of his parents.</source:markdown>
+      <source:markdown>An arraignment for the son of Hollywood director Rob Reiner over the stabbing deaths of his parents was postponed, after his lawyer stepped back from the case, while insisting his former client was not guilty of murder.</source:markdown>
       <guid>cid://https://www.rte.ie/news/us/2026/0107/1551830-nick-reiner-court/</guid>
     </item>    <item>
       <title>Not &#39;realistic&#39; for US to buy Greenland - Taoiseach</title>
@@ -276,6 +788,14 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       </description>
       <source:markdown>Taoiseach Micheál Martin has said that Greenland &#34;is part of Denmark and the EU is rock-solid behind Denmark&#34;, responding to US President Donald Trump&#39;s earlier comments regarding the Danish territory in the Arctic.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2026/0107/1551828-us-greenland/</guid>
+    </item>    <item>
+      <title>Not &#39;realistic&#39; for US to buy Greenland - Taoiseach</title>
+      <link>https://www.rte.ie/news/world/2026/0107/1551828-us-greenland/</link>
+      <description>
+        <![CDATA[Taoiseach Micheál Martin has said that Greenland "is part of Denmark and the EU is rock-solid behind Denmark", responding to US President Donald Trump's comments regarding the Arctic territory.]]>
+      </description>
+      <source:markdown>Taoiseach Micheál Martin has said that Greenland &#34;is part of Denmark and the EU is rock-solid behind Denmark&#34;, responding to US President Donald Trump&#39;s comments regarding the Arctic territory.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0107/1551828-us-greenland/</guid>
     </item>    <item>
       <title>House prices to continue rising in 2026 - DNG</title>
       <link>https://www.rte.ie/news/business/2026/0107/1551827-house-prices-to-continue-rising-in-2026-dng/</link>
@@ -293,12 +813,12 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       <source:markdown>Confirmation that Brazilian beef containing banned hormones entered the Irish food chain should be a &#34;wake-up&#34; call for the Government, the Irish Farmers&#39; Association has said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2026/0107/1551824-mercosur-trade-deal/</guid>
     </item>    <item>
-      <title>Venezuela &#39;turning over&#39; up to 50m barrels of oil to US</title>
+      <title>Rubio says US has three-point plan for Venezuela</title>
       <link>https://www.rte.ie/news/world/2026/0107/1551823-us-venezuela/</link>
       <description>
-        <![CDATA[US President Donald Trump said that Venezuela's interim government will deliver up to 50 million barrels of oil to the United States, and that the proceeds "will be controlled by me" as president.]]>
+        <![CDATA[The United States has a three-step plan for Venezuela that will begin ⁠with stabilising the country after US forces seized leader Nicolas Maduro on Saturday, overseeing the country's recovery and ‍finally a transition, Secretary of State Marco Rubio said.]]>
       </description>
-      <source:markdown>US President Donald Trump said that Venezuela&#39;s interim government will deliver up to 50 million barrels of oil to the United States, and that the proceeds &#34;will be controlled by me&#34; as president.</source:markdown>
+      <source:markdown>The United States has a three-step plan for Venezuela that will begin ⁠with stabilising the country after US forces seized leader Nicolas Maduro on Saturday, overseeing the country&#39;s recovery and ‍finally a transition, Secretary of State Marco Rubio said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0107/1551823-us-venezuela/</guid>
     </item>    <item>
       <title>No &#39;clear answer&#39; on European defence plans for Ukraine</title>
@@ -320,9 +840,9 @@ Manuel Rozental, a Colombian physician and activist with more than 40 years of i
       <title>Govt to invest millions in bid to attract tourists</title>
       <link>https://www.rte.ie/news/2026/0107/1551786-tourism-investment-ireland/</link>
       <description>
-        <![CDATA[A renewed focus on attracting tourists to Ireland from India, the UAE and the Asia-Pacific region will receive millions of euro in Government funding.]]>
+        <![CDATA[The Government is aiming to extend the tourist season through major investment in overseas promotion, the Minister for Enterprise and Tourism Peter Burke has said.]]>
       </description>
-      <source:markdown>A renewed focus on attracting tourists to Ireland from India, the UAE and the Asia-Pacific region will receive millions of euro in Government funding.</source:markdown>
+      <source:markdown>The Government is aiming to extend the tourist season through major investment in overseas promotion, the Minister for Enterprise and Tourism Peter Burke has said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2026/0107/1551786-tourism-investment-ireland/</guid>
     </item>    <item>
       <title>Greenland has a &#39;vital strategic asset&#39;</title>
@@ -2624,13 +3144,13 @@ Mamdani was sworn in by Vermont independent Senator Bernie Sanders, who also spo
       <source:markdown>Thailand has released 18 Cambodian soldiers held since July, both governments said, after a fresh ceasefire held for more than three days following weeks of deadly border clashes.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2025/1231/1550976-cambodia-thailand/</guid>
     </item>    <item>
-      <title>Artists hope to preserve and rebuild Gaza&#39;s cultural heritage</title>
+      <title>How Kharkiv keeps faith and culture alive as Russia&#39;s siege continues</title>
       <description>
-        <![CDATA[Gaza has been a place of terror, war and struggle, but also a place with a rich cultural and artistic history. Much of that has been damaged or destroyed the last two years. Senior arts correspondent Jeffrey Brown looks at the losses, but also at the hope some artists have for the future. It's part of our arts and culture series, CANVAS. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+        <![CDATA[Less than 20 miles from the Russian border is the Ukrainian city of Kharkiv, which has faced great trauma in the course of Russia's four-year onslaught. Despite the great personal losses of many of its soldiers and citizens, the city has not only survived, but it has also found a way for its Christian cultural life to live on, even underground. Special Correspondent Jack Hewson reports. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
       </description>
-      <source:markdown>Gaza has been a place of terror, war and struggle, but also a place with a rich cultural and artistic history. Much of that has been damaged or destroyed the last two years. Senior arts correspondent Jeffrey Brown looks at the losses, but also at the hope some artists have for the future. It&#39;s part of our arts and culture series, CANVAS. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/12/cultureatrisk.mp3" length="9305666" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/artists-hope-to-preserve-and-rebuild-gazas-cultural-heritage</guid>
+      <source:markdown>Less than 20 miles from the Russian border is the Ukrainian city of Kharkiv, which has faced great trauma in the course of Russia&#39;s four-year onslaught. Despite the great personal losses of many of its soldiers and citizens, the city has not only survived, but it has also found a way for its Christian cultural life to live on, even underground. Special Correspondent Jack Hewson reports. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy</source:markdown>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/12/wartimeholidays.mp3" length="4657729" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/how-kharkiv-keeps-faith-and-culture-alive-as-russias-siege-continues</guid>
     </item>    <item>
       <title>Tatiana Schlossberg, granddaughter of JFK, dies aged 35</title>
       <link>https://www.rte.ie/news/us/2025/1230/1550970-tatiana-schlossberg/</link>
@@ -8310,639 +8830,6 @@ NATO countries, including Canada, are falling behind Russia and China in the dev
       </description>
       <source:markdown>The Irish Council for Civil Liberties has strongly criticised the introduction of tasers saying it will &#34;completely change policing in Ireland and the relationship between gardaí and local communities&#34;.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2025/1218/1549563-gardai-tasers/</guid>
-    </item>    <item>
-      <title>Caredoc workers expected to engage in strike action</title>
-      <link>https://www.rte.ie/news/ireland/2025/1217/1549575-caredoc-strike-action/</link>
-      <description>
-        <![CDATA[Around 270 workers at Caredoc are expected to engage in strike action that is likely to cause significant disruption to GP out-of-hours services in the south east of the country.]]>
-      </description>
-      <source:markdown>Around 270 workers at Caredoc are expected to engage in strike action that is likely to cause significant disruption to GP out-of-hours services in the south east of the country.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1217/1549575-caredoc-strike-action/</guid>
-    </item>    <item>
-      <title>Epstein associate Ghislaine Maxwell seeks prison release</title>
-      <link>https://www.rte.ie/news/2025/1217/1549573-ghislaine-maxwell/</link>
-      <description>
-        <![CDATA[Jeffrey Epstein's former girlfriend and longtime associate Ghislaine Maxwell has asked a US federal judge to set aside her sex trafficking conviction and free her from a 20-year prison sentence, saying "substantial new evidence" has emerged proving that constitutional violations spoiled her trial.]]>
-      </description>
-      <source:markdown>Jeffrey Epstein&#39;s former girlfriend and longtime associate Ghislaine Maxwell has asked a US federal judge to set aside her sex trafficking conviction and free her from a 20-year prison sentence, saying &#34;substantial new evidence&#34; has emerged proving that constitutional violations spoiled her trial.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1217/1549573-ghislaine-maxwell/</guid>
-    </item>    <item>
-      <title>Epstein associate Ghislaine Maxwell seeks prison release</title>
-      <link>https://www.rte.ie/news/us/2025/1217/1549573-ghislaine-maxwell/</link>
-      <description>
-        <![CDATA[Jeffrey Epstein's former girlfriend and longtime associate Ghislaine Maxwell has asked a US federal judge to set aside her sex trafficking conviction, saying "substantial new evidence" has emerged proving that constitutional violations spoiled her trial.]]>
-      </description>
-      <source:markdown>Jeffrey Epstein&#39;s former girlfriend and longtime associate Ghislaine Maxwell has asked a US federal judge to set aside her sex trafficking conviction, saying &#34;substantial new evidence&#34; has emerged proving that constitutional violations spoiled her trial.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/us/2025/1217/1549573-ghislaine-maxwell/</guid>
-    </item>    <item>
-      <title>Bill to ban fox hunting defeated in Dáil</title>
-      <link>https://www.rte.ie/news/politics/2025/1217/1549570-fox-hunting-bill/</link>
-      <description>
-        <![CDATA[The bill to ban fox hunting in Ireland, proposed by People Before Profit-Solidarity TD Ruth Coppinger, has been defeated in the Dáil.]]>
-      </description>
-      <source:markdown>The bill to ban fox hunting in Ireland, proposed by People Before Profit-Solidarity TD Ruth Coppinger, has been defeated in the Dáil.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/politics/2025/1217/1549570-fox-hunting-bill/</guid>
-    </item>    <item>
-      <title>Protest at Dáil calls for decriminalisation of sex work</title>
-      <link>https://www.rte.ie/news/2025/1217/1549567-protest-dail/</link>
-      <description>
-        <![CDATA[A demonstration was held outside the Dáil tonight to mark International Day to End Violence against Sex Workers, and appeal for the decriminalisation of sex work.]]>
-      </description>
-      <source:markdown>A demonstration was held outside the Dáil tonight to mark International Day to End Violence against Sex Workers, and appeal for the decriminalisation of sex work.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1217/1549567-protest-dail/</guid>
-    </item>    <item>
-      <title>Another U.S. strike on alleged drug boat leaves 4 dead in eastern Pacific, military says</title>
-      <link>https://www.cbc.ca/news/world/us-military-eastern-pacific-alleged-drug-boat-strike-9.7020506?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/51ecde88-4083-4c7a-b2c0-cb398737df6e,1766025737565/full/max/0/default.jpg?im=Crop%2Crect%3D%2814%2C121%2C995%2C559%29%3BResize%3D%28620%29' alt='A person in a military uniform faces away from the camera bottom right in front  of a beige building bearing the sign: &quot;United States Southern Command&quot;' width='620' height='349' title='A view of the U.S. Southern Command (SOUTHCOM) headquarters in Doral, Florida, on December 12, 2025.'/><p>The U.S. military said Wednesday that it attacked a boat accused of smuggling drugs in the eastern Pacific Ocean, killing four people, on the same day the House rejected efforts to limit U.S. President Donald Trump's power to use military force against drug cartels.</p>]]>
-      </description>
-      <source:markdown>![A person in a military uniform faces away from the camera bottom right in front  of a beige building bearing the sign: &#34;United States Southern Command&#34;](https://i.cbc.ca/ais/51ecde88-4083-4c7a-b2c0-cb398737df6e,1766025737565/full/max/0/default.jpg?im=Crop%2Crect%3D%2814%2C121%2C995%2C559%29%3BResize%3D%28620%29)
-
-The U.S. military said Wednesday that it attacked a boat accused of smuggling drugs in the eastern Pacific Ocean, killing four people, on the same day the House rejected efforts to limit U.S. President Donald Trump&#39;s power to use military force against drug cartels.</source:markdown>
-      <guid>cid://9.7020506</guid>
-    </item>    <item>
-      <title>New White House plaques attack Trump&#39;s predecessors</title>
-      <link>https://www.rte.ie/news/2025/1217/1549555-white-house-plaques/</link>
-      <description>
-        <![CDATA[The White House has installed new plaques beneath photos of former leaders on President Donald Trump's "Presidential Walk of Fame" at the White House that sharply criticize his Democratic predecessors.]]>
-      </description>
-      <source:markdown>The White House has installed new plaques beneath photos of former leaders on President Donald Trump&#39;s &#34;Presidential Walk of Fame&#34; at the White House that sharply criticize his Democratic predecessors.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1217/1549555-white-house-plaques/</guid>
-    </item>    <item>
-      <title>U.S. government admits negligence in January helicopter-plane collision near Washington</title>
-      <link>https://www.cbc.ca/news/world/plane-helicopter-crash-washington-negligence-9.7020410?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/e580b845-934b-4e2e-992c-6ab74698403b,1766018720828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D%28620%29' alt='Flowers and a handwritten note laid on pavement' width='620' height='349' title='Flowers and a letter in memorial to the victims of a mid-air collision of an American Airlines jet and a Black Hawk helicopter near the Potomac river are pictured at the Titanic Memorial, Saturday, Feb. 1, 2025, in Washington. '/><p>The U.S. government admitted Wednesday that the Federal Aviation Administration and the Army played a role in causing the collision in January this year between an airliner and a Black Hawk helicopter near the nation's capital, killing 67 people.   </p>]]>
-      </description>
-      <source:markdown>![Flowers and a handwritten note laid on pavement](https://i.cbc.ca/ais/e580b845-934b-4e2e-992c-6ab74698403b,1766018720828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D%28620%29)
-
-The U.S. government admitted Wednesday that the Federal Aviation Administration and the Army played a role in causing the collision in January this year between an airliner and a Black Hawk helicopter near the nation&#39;s capital, killing 67 people.</source:markdown>
-      <guid>cid://9.7020410</guid>
-    </item>    <item>
-      <title>Palestine Action hunger striker taken to hospital in UK</title>
-      <link>https://www.rte.ie/news/uk/2025/1217/1549540-hunger-strike-uk/</link>
-      <description>
-        <![CDATA[A woman who is taking part in a hunger strike in the UK has been transported to hospital following calls from protesters for medical intervention.]]>
-      </description>
-      <source:markdown>A woman who is taking part in a hunger strike in the UK has been transported to hospital following calls from protesters for medical intervention.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/uk/2025/1217/1549540-hunger-strike-uk/</guid>
-    </item>    <item>
-      <title>Oscars to stream exclusively on YouTube from 2029</title>
-      <link>https://www.rte.ie/entertainment/2025/1217/1549536-oscars-to-stream-exclusively-on-youtube-from-2029/</link>
-      <description>
-        <![CDATA[The Oscars will be available to watch exclusively on YouTube from 2029, the Academy of Motion Picture Arts and Sciences announced Wednesday.]]>
-      </description>
-      <source:markdown>The Oscars will be available to watch exclusively on YouTube from 2029, the Academy of Motion Picture Arts and Sciences announced Wednesday.</source:markdown>
-      <guid>cid://https://www.rte.ie/entertainment/2025/1217/1549536-oscars-to-stream-exclusively-on-youtube-from-2029/</guid>
-    </item>    <item>
-      <title>3 creative ways to use green energy</title>
-      <link>https://www.talkingclimate.ca/p/3-creative-ways-to-use-green-energy</link>
-      <description>
-        <![CDATA[Green energy innovations, emergency briefing sounds alarm, and how to help with holiday travel]]>
-      </description>
-      <source:markdown>Green energy innovations, emergency briefing sounds alarm, and how to help with holiday travel</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!1Ytd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5975bbb2-6f86-485a-998d-f6409f354d90_1488x879.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.talkingclimate.ca/p/3-creative-ways-to-use-green-energy</guid>
-    </item>    <item>
-      <title>Garda answers did not affect witness status, court told</title>
-      <link>https://www.rte.ie/news/courts/2025/1217/1549531-gardai-court/</link>
-      <description>
-        <![CDATA[A chief superintendent has denied telling two gardaí that they could be treated as witnesses and not suspects depending on their answers to questions while being interviewed during an investigation into attempts by other gardaí to pervert the course of justice.]]>
-      </description>
-      <source:markdown>A chief superintendent has denied telling two gardaí that they could be treated as witnesses and not suspects depending on their answers to questions while being interviewed during an investigation into attempts by other gardaí to pervert the course of justice.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/courts/2025/1217/1549531-gardai-court/</guid>
-    </item>    <item>
-      <title>Podcast: Micheál Martin&#39;s future and Bangladesh aid cuts</title>
-      <link>https://www.rte.ie/news/2025/1217/1549526-podcast-micheal-martins-future-and-bangladesh-aid-cuts/</link>
-      <description>
-        <![CDATA[It has been a day of reaction to Fianna Fáil's review into its presidential campaign, which saw Jim Gavin drop out of the race earlier this year after it emerged he owed a former tenant more than €3,000.]]>
-      </description>
-      <source:markdown>It has been a day of reaction to Fianna Fáil&#39;s review into its presidential campaign, which saw Jim Gavin drop out of the race earlier this year after it emerged he owed a former tenant more than €3,000.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1217/1549526-podcast-micheal-martins-future-and-bangladesh-aid-cuts/</guid>
-    </item>    <item>
-      <title>FBI deputy chief Dan Bongino to leave post in January</title>
-      <link>https://www.cbc.ca/news/world/dan-bongino-fbi-resignation-9.7020221?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/fa060a89-1064-4145-96bb-0da2ca2880c2,1766024136238/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C102%2C4461%2C2509%29%3BResize%3D%28620%29' alt='A closeup of a man in a suit, with an American flag in the background. ' width='620' height='349' title='Dan Bongino, FBI deputy director, speaks during a news conference at the Department of Justice, Thursday, Dec. 4, 2025, in Washington. (AP Photo/Alex Brandon)'/><p>FBI Deputy Director Dan Bongino will step down from his post next month, he said on Wednesday, ending a short and at times tumultuous tenure as the bureau's second highest-ranking official. </p>]]>
-      </description>
-      <source:markdown>![A closeup of a man in a suit, with an American flag in the background. ](https://i.cbc.ca/ais/fa060a89-1064-4145-96bb-0da2ca2880c2,1766024136238/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C102%2C4461%2C2509%29%3BResize%3D%28620%29)
-
-FBI Deputy Director Dan Bongino will step down from his post next month, he said on Wednesday, ending a short and at times tumultuous tenure as the bureau&#39;s second highest-ranking official.</source:markdown>
-      <guid>cid://9.7020221</guid>
-    </item>    <item>
-      <title>First stage of single-use vape ban bill brought to Dáil</title>
-      <link>https://www.rte.ie/news/politics/2025/1217/1549527-vape-ban/</link>
-      <description>
-        <![CDATA[The first stage of a bill to ban the sale of single-use vapes has been introduced to the Dáil.]]>
-      </description>
-      <source:markdown>The first stage of a bill to ban the sale of single-use vapes has been introduced to the Dáil.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/politics/2025/1217/1549527-vape-ban/</guid>
-    </item>    <item>
-      <title>Bluetongue vaccine to be allowed in Ireland next year</title>
-      <link>https://www.rte.ie/news/2025/1217/1549524-bluetongue-vaccine-ireland/</link>
-      <description>
-        <![CDATA[Minister for Agriculture Martin Heydon has said that a bluetongue vaccine is to be allowed in Ireland in 2026.]]>
-      </description>
-      <source:markdown>Minister for Agriculture Martin Heydon has said that a bluetongue vaccine is to be allowed in Ireland in 2026.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1217/1549524-bluetongue-vaccine-ireland/</guid>
-    </item>    <item>
-      <title>Locum pathologists to provide post-mortems in south east</title>
-      <link>https://www.rte.ie/news/regional/2025/1217/1549517-south-east-pathologists/</link>
-      <description>
-        <![CDATA[The Department of Justice has confirmed that locum pathologists will provide post-mortem examinations requested by coroners in the south east of the country from the new year.]]>
-      </description>
-      <source:markdown>The Department of Justice has confirmed that locum pathologists will provide post-mortem examinations requested by coroners in the south east of the country from the new year.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/regional/2025/1217/1549517-south-east-pathologists/</guid>
-    </item>    <item>
-      <title>Dire weather causes misery for Gaza homeless</title>
-      <link>https://www.vaticannews.va/en/world/news/2025-12/dire-weather-causes-misery-for-gaza-homeless.html</link>
-      <description>
-        <![CDATA[<p>Aid workers say heavy rainfall is causing widespread suffering in Gaza. </p>
-                            <p><a href="https://www.vaticannews.va/en/world/news/2025-12/dire-weather-causes-misery-for-gaza-homeless.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Aid workers say heavy rainfall is causing widespread suffering in Gaza.
-
-[Read all](https://www.vaticannews.va/en/world/news/2025-12/dire-weather-causes-misery-for-gaza-homeless.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/world/news/2025-12/dire-weather-causes-misery-for-gaza-homeless.html</guid>
-    </item>    <item>
-      <title>China and the Church: Building a bridge</title>
-      <link>https://www.vaticannews.va/en/vatican-city/news/2025-12/china-and-church-my-chinese-dream-chiaretto-yang.html</link>
-      <description>
-        <![CDATA[<p>Vatican Media’s headquarters holds a launch event for a new book by Chinese author Chiaretto Yan, entitled “My Chinese Dream: Dialogues and Encounters with Christianity”</p>
-                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-12/china-and-church-my-chinese-dream-chiaretto-yang.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Vatican Media’s headquarters holds a launch event for a new book by Chinese author Chiaretto Yan, entitled “My Chinese Dream: Dialogues and Encounters with Christianity”
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2025-12/china-and-church-my-chinese-dream-chiaretto-yang.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2025-12/china-and-church-my-chinese-dream-chiaretto-yang.html</guid>
-    </item>    <item>
-      <title>Dublin man who stabbed &#39;intruder&#39; guilty of manslaughter</title>
-      <link>https://www.rte.ie/news/courts/2025/1217/1549509-courts-murphy/</link>
-      <description>
-        <![CDATA[A 37-year-old father of four who stabbed to death a man who broke into his van and his partner's car outside their home last year has been found not guilty of murder but guilty of manslaughter.]]>
-      </description>
-      <source:markdown>A 37-year-old father of four who stabbed to death a man who broke into his van and his partner&#39;s car outside their home last year has been found not guilty of murder but guilty of manslaughter.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/courts/2025/1217/1549509-courts-murphy/</guid>
-    </item>    <item>
-      <title>Dublin man who stabbed &#39;intruder&#39; guilty of manslaughter</title>
-      <link>https://www.rte.ie/news/courts/2025/1217/1549509-patrick-murphy-court/</link>
-      <description>
-        <![CDATA[A 37-year-old man who stabbed to death a man who broke into his van and his partner's car outside their home last year has been found not guilty of murder but guilty of manslaughter.]]>
-      </description>
-      <source:markdown>A 37-year-old man who stabbed to death a man who broke into his van and his partner&#39;s car outside their home last year has been found not guilty of murder but guilty of manslaughter.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/courts/2025/1217/1549509-patrick-murphy-court/</guid>
-    </item>    <item>
-      <title>Data may have been taken in Ombudsman office cyber attack</title>
-      <link>https://www.rte.ie/news/ireland/2025/1217/1549503-ombudsman-cyber-attack/</link>
-      <description>
-        <![CDATA[The Office of the Ombudsman has said it is operating on the basis that data may have been taken in a cyber attack on its IT systems.]]>
-      </description>
-      <source:markdown>The Office of the Ombudsman has said it is operating on the basis that data may have been taken in a cyber attack on its IT systems.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1217/1549503-ombudsman-cyber-attack/</guid>
-    </item>    <item>
-      <title>Man accused of sexual assault of girl faces second charge</title>
-      <link>https://www.rte.ie/news/courts/2025/1217/1549495-sexual-assault-court/</link>
-      <description>
-        <![CDATA[A man accused of sexually assaulting a 10-year-old girl in west Dublin in October is facing a second charge of sexual assault.]]>
-      </description>
-      <source:markdown>A man accused of sexually assaulting a 10-year-old girl in west Dublin in October is facing a second charge of sexual assault.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/courts/2025/1217/1549495-sexual-assault-court/</guid>
-    </item>    <item>
-      <title>Watch: Little Blue Heroes from Mayo visit Leinster House</title>
-      <link>https://www.rte.ie/news/2025/1217/1549500-little-blue-heroes-mayo/</link>
-      <description>
-        <![CDATA[A group of seven Little Blue Heroes from Co Mayo were welcomed to Leinster House with their families for a VIP tour this morning.]]>
-      </description>
-      <source:markdown>A group of seven Little Blue Heroes from Co Mayo were welcomed to Leinster House with their families for a VIP tour this morning.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1217/1549500-little-blue-heroes-mayo/</guid>
-    </item>    <item>
-      <title>Beacons of Hope: Stars, Black Holes, and Meteorites</title>
-      <link>https://www.vaticanobservatory.org/education/beacons-of-hope-stars-black-holes-and-meteorites/</link>
-      <description>
-        <![CDATA[Rob Lorenz, SJ, spoke about astronomy to students at Fordham Preparatory High School.]]>
-      </description>
-      <source:markdown>Rob Lorenz, SJ, spoke about astronomy to students at Fordham Preparatory High School.</source:markdown>
-      <guid>cid://https://www.vaticanobservatory.org/?p=221050</guid>
-    </item>    <item>
-      <title>Running in Antarctica — backward? Why not, these racers say</title>
-      <link>https://www.cbc.ca/player/play/9.7019937?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/a375c55f-b07d-44a6-a77c-a7e3eb696b0f,1766002644091/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A person dressed as a snowman crosses a line of flags in a race, backwards. They are outside in the snow.' width='620' height='349' title=''/><p>Ice, ice, baby! A group of marathon runners awaiting a flight out of Antarctica staged a backward mile run on Dec. 15. While some competitors slipped and stumbled on their way to the finish line, the eventual victor hailing from Montreal called the sub-zero conditions 'perfect.'</p>]]>
-      </description>
-      <source:markdown>![A person dressed as a snowman crosses a line of flags in a race, backwards. They are outside in the snow.](https://i.cbc.ca/ais/a375c55f-b07d-44a6-a77c-a7e3eb696b0f,1766002644091/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29)
-
-Ice, ice, baby! A group of marathon runners awaiting a flight out of Antarctica staged a backward mile run on Dec. 15. While some competitors slipped and stumbled on their way to the finish line, the eventual victor hailing from Montreal called the sub-zero conditions &#39;perfect.&#39;</source:markdown>
-      <guid>cid://9.7019937</guid>
-    </item>    <item>
-      <title>Pope Leo condemns antisemitism in phone call with Israeli President</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-president-israel-phone-call-peace-antisemitism.html</link>
-      <description>
-        <![CDATA[<p>Pope Leo XIV receives a telephone call from Isaac Herzog, President of Israel, following the recent terrorist attack in Sydney, and reiterates the Catholic Church’s condemnation of all forms of antisemitism.</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-president-israel-phone-call-peace-antisemitism.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Pope Leo XIV receives a telephone call from Isaac Herzog, President of Israel, following the recent terrorist attack in Sydney, and reiterates the Catholic Church’s condemnation of all forms of antisemitism.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-president-israel-phone-call-peace-antisemitism.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-president-israel-phone-call-peace-antisemitism.html</guid>
-    </item>    <item>
-      <title>In prime-time address, Trump tries to explain away U.S. troubles by blaming Biden</title>
-      <link>https://www.cbc.ca/news/world/trump-primetime-address-9.7019766?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/1a99f6af-e2aa-4471-ac42-c18c46692cd1,1766028377774/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C297%2C5708%2C3210%29%3BResize%3D%28620%29' alt='Man in suit speaks at podium' width='620' height='349' title='President Donald Trump speaks during an address to the nation from the Diplomatic Reception Room at the White House, Wednesday, Dec. 17, 2025, in Washington. (Doug Mills/The New York Times via AP, Pool)'/><p>U.S. President Donald Trump delivered a prime-time address Wednesday largely focused on past grievances with his predecessor, Joe Biden, who he blamed for persistent affordability challenges that polls suggest have hurt his standing among voters.</p>]]>
-      </description>
-      <source:markdown>![Man in suit speaks at podium](https://i.cbc.ca/ais/1a99f6af-e2aa-4471-ac42-c18c46692cd1,1766028377774/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C297%2C5708%2C3210%29%3BResize%3D%28620%29)
-
-U.S. President Donald Trump delivered a prime-time address Wednesday largely focused on past grievances with his predecessor, Joe Biden, who he blamed for persistent affordability challenges that polls suggest have hurt his standing among voters.</source:markdown>
-      <guid>cid://9.7019766</guid>
-    </item>    <item>
-      <title>President meets climate activist Greta Thunberg at Áras</title>
-      <link>https://www.rte.ie/news/ireland/2025/1217/1549492-greta-thunberg-aras/</link>
-      <description>
-        <![CDATA[Swedish climate activist Greta Thunberg has visited Áras an Uachtaráin for a courtesy meeting with President Catherine Connolly.]]>
-      </description>
-      <source:markdown>Swedish climate activist Greta Thunberg has visited Áras an Uachtaráin for a courtesy meeting with President Catherine Connolly.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1217/1549492-greta-thunberg-aras/</guid>
-    </item>    <item>
-      <title>Director of the Vatican Observatory, Fr. Richard D’Souza celebrates Feast Mass at St. Xavier’s College</title>
-      <link>https://archgoadaman.com/director-of-the-vatican-observatory-fr-richard-dsouza-celebrates-feast-mass-at-st-xaviers-college/</link>
-      <description>
-        <![CDATA[The Feast Mass of the College Patron Saint,  St. Francis Xavier was celebrated on Dec. 4th by Fr. Richard D’Souza SJ, Director of the Vatican Observatory]]>
-      </description>
-      <source:markdown>The Feast Mass of the College Patron Saint, St. Francis Xavier was celebrated on Dec. 4th by Fr. Richard D’Souza SJ, Director of the Vatican Observatory</source:markdown>
-      <guid>cid://https://www.vaticanobservatory.org/?p=221179</guid>
-    </item>    <item>
-      <title>Putin: EU leaders young pigs wanting to bring Russia down</title>
-      <link>https://www.rte.ie/news/ukraine/2025/1217/1549420-ukraine-russia/</link>
-      <description>
-        <![CDATA[Russian President Vladimir Putin has said Russia would take more land in Ukraine by force if Ukrainian and European politicians, whom he cast as "young pigs", did not engage over US proposals for a peace settlement.]]>
-      </description>
-      <source:markdown>Russian President Vladimir Putin has said Russia would take more land in Ukraine by force if Ukrainian and European politicians, whom he cast as &#34;young pigs&#34;, did not engage over US proposals for a peace settlement.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ukraine/2025/1217/1549420-ukraine-russia/</guid>
-    </item>    <item>
-      <title>Cavan family claims €17m EuroMillions jackpot</title>
-      <link>https://www.rte.ie/news/ireland/2025/1217/1549466-euromillions-cavan/</link>
-      <description>
-        <![CDATA[A family syndicate in Co Cavan are the winners of the €17 million EuroMillions jackpot.]]>
-      </description>
-      <source:markdown>A family syndicate in Co Cavan are the winners of the €17 million EuroMillions jackpot.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1217/1549466-euromillions-cavan/</guid>
-    </item>    <item>
-      <title>Son of filmmaker Rob Reiner makes court appearance</title>
-      <link>https://www.rte.ie/entertainment/2025/1217/1549461-rob-reiners-son-due-in-court-once-medically-cleared/</link>
-      <description>
-        <![CDATA[The younger son of Hollywood filmmaker and political activist Rob Reiner made his first court appearance on Wednesday for the two murder charges he faces in the stabbing deaths of his parents, who were found slain in their LA home over the weekend.]]>
-      </description>
-      <source:markdown>The younger son of Hollywood filmmaker and political activist Rob Reiner made his first court appearance on Wednesday for the two murder charges he faces in the stabbing deaths of his parents, who were found slain in their LA home over the weekend.</source:markdown>
-      <guid>cid://https://www.rte.ie/entertainment/2025/1217/1549461-rob-reiners-son-due-in-court-once-medically-cleared/</guid>
-    </item>    <item>
-      <title>AG not taking contempt proceedings against Burkes</title>
-      <link>https://www.rte.ie/news/courts/2025/1217/1549460-burke-family-members-court/</link>
-      <description>
-        <![CDATA[The Attorney General has told the High Court he will not be taking criminal contempt proceedings against teacher Enoch Burke and three members of his family over their behaviour in court "at this time".]]>
-      </description>
-      <source:markdown>The Attorney General has told the High Court he will not be taking criminal contempt proceedings against teacher Enoch Burke and three members of his family over their behaviour in court &#34;at this time&#34;.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/courts/2025/1217/1549460-burke-family-members-court/</guid>
-    </item>    <item>
-      <title>Yemen on the brink: Guterres urges restraint, calls for release of UN detainees</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166616</link>
-      <description>
-        <![CDATA[UN Secretary-General António Guterres called on Yemen’s leaders to return to the path of peace and release all UN personnel detained there, following a briefing to the Security Council on Wednesday.&nbsp;&nbsp;]]>
-      </description>
-      <source:markdown>UN Secretary-General António Guterres called on Yemen’s leaders to return to the path of peace and release all UN personnel detained there, following a briefing to the Security Council on Wednesday.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-11-2025-UNICEF-Yemen-02.jpg/image560x340cropped.jpg" length="27032" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166616</guid>
-    </item>    <item>
-      <title>Fifty days on, Jamaica struggles to rebuild after Hurricane Melissa’s unprecedented destruction</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166621</link>
-      <description>
-        <![CDATA[Fifty days have passed since Hurricane Melissa ravaged Jamaica, leaving behind an unprecedented trail of destruction.&nbsp;]]>
-      </description>
-      <source:markdown>Fifty days have passed since Hurricane Melissa ravaged Jamaica, leaving behind an unprecedented trail of destruction.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/04-12-2025-IOM-Jamaica-02.jpg/image560x340cropped.jpg" length="62058" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166621</guid>
-    </item>    <item>
-      <title>Aid agencies warn Gaza response at breaking point as Israel urged to lift new restrictions</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166622</link>
-      <description>
-        <![CDATA[Humanitarian agencies working in the Occupied Palestinian Territory (OPT) have warned that life-saving aid operations risk collapse unless Israel immediately lifts new barriers that are blocking access and forcing international charities to shut down.&nbsp;]]>
-      </description>
-      <source:markdown>Humanitarian agencies working in the Occupied Palestinian Territory (OPT) have warned that life-saving aid operations risk collapse unless Israel immediately lifts new barriers that are blocking access and forcing international charities to shut down.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-12-2025-UNICEF-Gaza-02.jpg/image560x340cropped.jpg" length="40322" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166622</guid>
-    </item>    <item>
-      <title>Sudan: Needs rise as people continue to flee fighting in Kordofan</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166619</link>
-      <description>
-        <![CDATA[Families continue to flee intense hostilities across the Kordofan region of Sudan and humanitarian needs are surging, the UN said in an update on Wednesday.&nbsp;]]>
-      </description>
-      <source:markdown>Families continue to flee intense hostilities across the Kordofan region of Sudan and humanitarian needs are surging, the UN said in an update on Wednesday.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-12-2025_UNICEF_Sudan.jpg/image560x340cropped.jpg" length="33692" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166619</guid>
-    </item>    <item>
-      <title>World News in Brief: Progress on hunger in Asia-Pacific, key Gaza pipeline repaired, flu hits Europe hard</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166620</link>
-      <description>
-        <![CDATA[While the Asia and Pacific region has made notable progress in reducing hunger, persistent challenges remain in addressing malnutrition, food insecurity and unequal access to healthy diets, a new&nbsp;UN report published on Wednesday concludes.&nbsp;]]>
-      </description>
-      <source:markdown>While the Asia and Pacific region has made notable progress in reducing hunger, persistent challenges remain in addressing malnutrition, food insecurity and unequal access to healthy diets, a new UN report published on Wednesday concludes.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/17-12-2025-UNICEF-VietNam-UNI909319.jpg/image560x340cropped.jpg" length="42893" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166620</guid>
-    </item>    <item>
-      <title>Ukraine suffering continues as electricity is cut for days amid ongoing Russian attacks</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166617</link>
-      <description>
-        <![CDATA[Imagine living through a war and not being able to make a meal or heat your home; that’s the reality today for thousands of Ukrainians who’ve seen repeated Russian attacks knock out their electricity for days at a time.]]>
-      </description>
-      <source:markdown>Imagine living through a war and not being able to make a meal or heat your home; that’s the reality today for thousands of Ukrainians who’ve seen repeated Russian attacks knock out their electricity for days at a time.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/17-12-2025-UNOCHA-Ukraine-03.jpg/image560x340cropped.jpg" length="26142" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166617</guid>
-    </item>    <item>
-      <title>Crimean Tatar artist moulds new path through clay in wartime Ukraine</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166615</link>
-      <description>
-        <![CDATA[Through her ceramics, Crimean Tatar artist Elvira Demerdzhi finds moments of calm and a sense of home amid the ongoing war in Ukraine.&nbsp;]]>
-      </description>
-      <source:markdown>Through her ceramics, Crimean Tatar artist Elvira Demerdzhi finds moments of calm and a sense of home amid the ongoing war in Ukraine.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-12-2025-IOM-Elvira-01.jpg/image560x340cropped.jpg" length="30935" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166615</guid>
-    </item>    <item>
-      <title>At UN, nations pledge people-first digital future, tighter AI safeguards</title>
-      <link>https://news.un.org/feed/view/en/story/2025/12/1166623</link>
-      <description>
-        <![CDATA[UN Member States on Wednesday pledged to narrow widening digital divides and put stronger safeguards around artificial intelligence (AI), as the General Assembly concluded a major review of how the world manages the Internet and fast-evolving digital technologies.]]>
-      </description>
-      <source:markdown>UN Member States on Wednesday pledged to narrow widening digital divides and put stronger safeguards around artificial intelligence (AI), as the General Assembly concluded a major review of how the world manages the Internet and fast-evolving digital technologies.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-06-2020_UN-Women_India.jpg/image560x340cropped.jpg" length="63421" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/12/1166623</guid>
-    </item>    <item>
-      <title>UK supreme court upholds appeal in &#39;Topper&#39; Thompson case</title>
-      <link>https://www.rte.ie/news/courts/2025/1217/1549453-uk-court-legacy/</link>
-      <description>
-        <![CDATA[The UK's highest court has upheld an appeal against a decision to release sensitive security information to the family of a Catholic man murdered by loyalists in west Belfast in 1994.]]>
-      </description>
-      <source:markdown>The UK&#39;s highest court has upheld an appeal against a decision to release sensitive security information to the family of a Catholic man murdered by loyalists in west Belfast in 1994.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/courts/2025/1217/1549453-uk-court-legacy/</guid>
-    </item>    <item>
-      <title>47,000 families to benefit from childcare subsidy changes</title>
-      <link>https://www.rte.ie/news/politics/2025/1217/1549441-childcare-action-plans/</link>
-      <description>
-        <![CDATA[The threshold under which families receive subsidies for childcare is to be raised as part of plans for the early learning and school age childcare sector, announced by the Minister for Children.]]>
-      </description>
-      <source:markdown>The threshold under which families receive subsidies for childcare is to be raised as part of plans for the early learning and school age childcare sector, announced by the Minister for Children.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/politics/2025/1217/1549441-childcare-action-plans/</guid>
-    </item>    <item>
-      <title>Kerry family &#39;shattered&#39; as man, 84, murdered by friend</title>
-      <link>https://www.rte.ie/news/courts/2025/1217/1549458-thomas-carroll-court/</link>
-      <description>
-        <![CDATA[The granddaughter of an 84-year-old man murdered by his long-time friend in Co Kerry last year has said their entire family was shattered, as it happened just three months after the death of her grandmother.]]>
-      </description>
-      <source:markdown>The granddaughter of an 84-year-old man murdered by his long-time friend in Co Kerry last year has said their entire family was shattered, as it happened just three months after the death of her grandmother.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/courts/2025/1217/1549458-thomas-carroll-court/</guid>
-    </item>    <item>
-      <title>GAA planning &#39;high performance licence&#39; over team costs</title>
-      <link>https://www.rte.ie/sport/football/2025/1217/1549457-gaa-planning-high-performance-licence-over-high-costs/</link>
-      <description>
-        <![CDATA[The Gaelic Athletic Association is aiming to introduce a "high-performance licence" with a view to controlling the amount of money being spent by inter-county teams, president Jarlath Burns has revealed.]]>
-      </description>
-      <source:markdown>The Gaelic Athletic Association is aiming to introduce a &#34;high-performance licence&#34; with a view to controlling the amount of money being spent by inter-county teams, president Jarlath Burns has revealed.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/football/2025/1217/1549457-gaa-planning-high-performance-licence-over-high-costs/</guid>
-    </item>    <item>
-      <title>McAleese: 2027 integration realistic despite resistance</title>
-      <link>https://www.rte.ie/sport/football/2025/1217/1549446-mcaleese-2027-integration-realistic-despite-resistance/</link>
-      <description>
-        <![CDATA[The Steering Group on Integration (SGI) chaired by former president Mary McAleese has said "pockets of resistance" to the merger of the GAA, LGFA and Camogie Association have not hampered their work, with a target date of 2027 remaining a "realisable target".]]>
-      </description>
-      <source:markdown>The Steering Group on Integration (SGI) chaired by former president Mary McAleese has said &#34;pockets of resistance&#34; to the merger of the GAA, LGFA and Camogie Association have not hampered their work, with a target date of 2027 remaining a &#34;realisable target&#34;.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/football/2025/1217/1549446-mcaleese-2027-integration-realistic-despite-resistance/</guid>
-    </item>    <item>
-      <title>NAMA&#39;s lifetime contribution to State up €100m to €5.6bn</title>
-      <link>https://www.rte.ie/news/business/2025/1217/1549449-namas-lifetime-contribution-to-state-up-100m-to-5-6bn/</link>
-      <description>
-        <![CDATA[The National Asset Management Agency has announced its final surplus transfer of €450m to the State and said its overall lifetime contribution had increased by €100m more than projected, to €5.6 billion.]]>
-      </description>
-      <source:markdown>The National Asset Management Agency has announced its final surplus transfer of €450m to the State and said its overall lifetime contribution had increased by €100m more than projected, to €5.6 billion.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/business/2025/1217/1549449-namas-lifetime-contribution-to-state-up-100m-to-5-6bn/</guid>
-    </item>    <item>
-      <title>Thailand: Compassion in the villages of Chiang Mai</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-12/sisters-project-155-thailand-chiang-mai-idente-missionaries.html</link>
-      <description>
-        <![CDATA[<p>Among rice paddies and temples in northern Thailand, Idente Missionaries live alongside families in villages, transforming their shared life into a place of encounter between the Gospel and local traditions.</p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-12/sisters-project-155-thailand-chiang-mai-idente-missionaries.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Among rice paddies and temples in northern Thailand, Idente Missionaries live alongside families in villages, transforming their shared life into a place of encounter between the Gospel and local traditions.
-
-[Read all](https://www.vaticannews.va/en/church/news/2025-12/sisters-project-155-thailand-chiang-mai-idente-missionaries.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-12/sisters-project-155-thailand-chiang-mai-idente-missionaries.html</guid>
-    </item>    <item>
-      <title>Pope on Advent: Prepare for Christ&#39;s coming, don’t get lost in frenetic activity</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-advent-christmas-general-audience.html</link>
-      <description>
-        <![CDATA[<p>In his greetings to the faithful from the different language groups during the Wednesday General Audience, Pope Leo XIV underlines the importance of Advent as a time of preparation, prayer, and reflection so that we may welcome the birth of Christ at Christmas.</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-advent-christmas-general-audience.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>In his greetings to the faithful from the different language groups during the Wednesday General Audience, Pope Leo XIV underlines the importance of Advent as a time of preparation, prayer, and reflection so that we may welcome the birth of Christ at Christmas.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-advent-christmas-general-audience.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-xiv-advent-christmas-general-audience.html</guid>
-    </item>    <item>
-      <title>Pope at Audience: Unjust investments come at &#39;bloody price of millions of human lives&#39;</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-investments-today-come-at-bloody-price-of-millions-of-lives.html</link>
-      <description>
-        <![CDATA[<p>In his catechesis at the weekly General Audience, Pope Leo XIV explains that our hearts can only find true rest in God and not in the many daily “activities that do not always leave us satisfied.”</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-investments-today-come-at-bloody-price-of-millions-of-lives.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>In his catechesis at the weekly General Audience, Pope Leo XIV explains that our hearts can only find true rest in God and not in the many daily “activities that do not always leave us satisfied.”
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-investments-today-come-at-bloody-price-of-millions-of-lives.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-investments-today-come-at-bloody-price-of-millions-of-lives.html</guid>
-    </item>    <item>
-      <title>Taoiseach aware of Gavin tenant issue before selection</title>
-      <link>https://www.rte.ie/news/ireland/2025/1217/1549417-fianna-fail-review-reaction/</link>
-      <description>
-        <![CDATA[Taoiseach Micheál Martin has said he was made aware of a potential issue between Jim Gavin and a former tenant, before Mr Gavin was selected as Fianna Fáil's presidential election candidate.]]>
-      </description>
-      <source:markdown>Taoiseach Micheál Martin has said he was made aware of a potential issue between Jim Gavin and a former tenant, before Mr Gavin was selected as Fianna Fáil&#39;s presidential election candidate.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1217/1549417-fianna-fail-review-reaction/</guid>
-    </item>    <item>
-      <title>Pope Leo to the sick: May the joy of Christmas accompany you all</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-to-the-sick-may-the-joy-of-christmas-accompany-you-all.html</link>
-      <description>
-        <![CDATA[<p>At a “small, slightly more personal” encounter inside the Paul VI Hall, Pope Leo XIV greets people with various illnesses and disabilities, offering a special blessing and the wish that “the joy of the Christmas season may accompany” them, their families, and their loved ones.</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-to-the-sick-may-the-joy-of-christmas-accompany-you-all.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>At a “small, slightly more personal” encounter inside the Paul VI Hall, Pope Leo XIV greets people with various illnesses and disabilities, offering a special blessing and the wish that “the joy of the Christmas season may accompany” them, their families, and their loved ones.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-to-the-sick-may-the-joy-of-christmas-accompany-you-all.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-leo-to-the-sick-may-the-joy-of-christmas-accompany-you-all.html</guid>
-    </item>    <item>
-      <title>Monzo gets full banking licence from Central Bank</title>
-      <link>https://www.rte.ie/news/business/2025/1217/1549421-monzo-gets-central-bank-licence/</link>
-      <description>
-        <![CDATA[Digital bank Monzo said today it has secured a full banking licence from the Central Bank here and the European Central Bank, marking its first major step into Europe.]]>
-      </description>
-      <source:markdown>Digital bank Monzo said today it has secured a full banking licence from the Central Bank here and the European Central Bank, marking its first major step into Europe.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/business/2025/1217/1549421-monzo-gets-central-bank-licence/</guid>
-    </item>    <item>
-      <title>Harvard morgue manager jailed for selling body parts</title>
-      <link>https://www.rte.ie/news/world/2025/1217/1549419-harvard-morgue/</link>
-      <description>
-        <![CDATA[A former morgue manager at the prestigious Harvard Medical School has been sentenced to eight years in prison for stealing and selling body parts donated for scientific research.]]>
-      </description>
-      <source:markdown>A former morgue manager at the prestigious Harvard Medical School has been sentenced to eight years in prison for stealing and selling body parts donated for scientific research.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1217/1549419-harvard-morgue/</guid>
-    </item>    <item>
-      <title>Paddy Power Betfair to pay £2m to UK Gambling Commission</title>
-      <link>https://www.rte.ie/news/business/2025/1217/1549414-paddy-power-to-pay-2m-to-uk-gambling-commission/</link>
-      <description>
-        <![CDATA[Paddy Power Betfair has agreed to pay £2m (€2.28m) after the UK gambling watchdog found it failed to step in quickly enough when customers were showing concerning betting behaviours, which saw one gambler stake £86,000 in just over two weeks.]]>
-      </description>
-      <source:markdown>Paddy Power Betfair has agreed to pay £2m (€2.28m) after the UK gambling watchdog found it failed to step in quickly enough when customers were showing concerning betting behaviours, which saw one gambler stake £86,000 in just over two weeks.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/business/2025/1217/1549414-paddy-power-to-pay-2m-to-uk-gambling-commission/</guid>
-    </item>    <item>
-      <title>Sydney mourners remember rabbis killed in Bondi shooting</title>
-      <link>https://www.rte.ie/news/world/2025/1217/1549407-bondi-beach-sydney/</link>
-      <description>
-        <![CDATA[Two rabbis killed in the Bondi Beach Hanukkah festival shootings were remembered by hundreds of mourners in Sydney as kind and curious men who would be dearly missed by their friends, families and local community.]]>
-      </description>
-      <source:markdown>Two rabbis killed in the Bondi Beach Hanukkah festival shootings were remembered by hundreds of mourners in Sydney as kind and curious men who would be dearly missed by their friends, families and local community.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1217/1549407-bondi-beach-sydney/</guid>
-    </item>    <item>
-      <title>From the Vatican Observatory Faith and Science pages (Younger Readers) — The Astronomer Who Questioned Everything: The Story of Maria Mitchell</title>
-      <link>https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-younger-readers-the-astronomer-who-questioned-everything-the-story-of-maria-mitchell-2/</link>
-      <description>
-        <![CDATA[From the Faith &#038; Science Resource Center (Younger Readers): A colorful overview of Maria Mitchell’s life and work.]]>
-      </description>
-      <source:markdown>From the Faith &#38; Science Resource Center (Younger Readers): A colorful overview of Maria Mitchell’s life and work.</source:markdown>
-      <guid>cid://https://www.vaticanobservatory.org/?p=220912</guid>
-    </item>    <item>
-      <title>No plans to close Portiuncula maternity unit - HSE chief</title>
-      <link>https://www.rte.ie/news/health/2025/1217/1549367-portiuncula-reviews/</link>
-      <description>
-        <![CDATA[There are no plans to close the Portiuncula University Hospital maternity unit, the CEO of the Health Service Executive has said.]]>
-      </description>
-      <source:markdown>There are no plans to close the Portiuncula University Hospital maternity unit, the CEO of the Health Service Executive has said.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/health/2025/1217/1549367-portiuncula-reviews/</guid>
-    </item>    <item>
-      <title>HSE probing €712k in duplicate pandemic bonus payments</title>
-      <link>https://www.rte.ie/news/2025/1217/1549380-hse-internal-audit/</link>
-      <description>
-        <![CDATA[A HSE internal audit of the Pandemic Special Payment said there were notable control weaknesses and governance gaps that should inform future crisis response payment schemes.]]>
-      </description>
-      <source:markdown>A HSE internal audit of the Pandemic Special Payment said there were notable control weaknesses and governance gaps that should inform future crisis response payment schemes.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1217/1549380-hse-internal-audit/</guid>
-    </item>    <item>
-      <title>Dhaka - the frontline of the climate migration crisis</title>
-      <link>https://www.rte.ie/news/world/2025/1217/1549386-climate-crisis-bangladesh/</link>
-      <description>
-        <![CDATA[Intensified monsoon floods, riverbank erosion and rising sea levels displace 700,000 Bangladeshis each year.]]>
-      </description>
-      <source:markdown>Intensified monsoon floods, riverbank erosion and rising sea levels displace 700,000 Bangladeshis each year.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1217/1549386-climate-crisis-bangladesh/</guid>
-    </item>    <item>
-      <title>Construction roles most in-demand this year - IrishJobs</title>
-      <link>https://www.rte.ie/news/business/2025/1217/1549395-jobs-ireland-business/</link>
-      <description>
-        <![CDATA[Project managers were the most sought-after roles in 2025, according to new data from hiring platform IrishJobs.]]>
-      </description>
-      <source:markdown>Project managers were the most sought-after roles in 2025, according to new data from hiring platform IrishJobs.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/business/2025/1217/1549395-jobs-ireland-business/</guid>
-    </item>    <item>
-      <title>Trump orders blockade of &#39;sanctioned&#39; Venezuela tankers</title>
-      <link>https://www.rte.ie/news/world/2025/1217/1549394-us-venezuela/</link>
-      <description>
-        <![CDATA[US President Donald Trump has announced a blockade of "sanctioned oil vessels" heading to and leaving Venezuela.]]>
-      </description>
-      <source:markdown>US President Donald Trump has announced a blockade of &#34;sanctioned oil vessels&#34; heading to and leaving Venezuela.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1217/1549394-us-venezuela/</guid>
-    </item>    <item>
-      <title>FBI widens net in hunt for Brown University shooter</title>
-      <link>https://www.rte.ie/news/us/2025/1217/1549393-brown-university-shooting/</link>
-      <description>
-        <![CDATA[The suspected gunman who killed two students at a university in the US at the weekend remains at large as authorities appealed for help in identifying him.]]>
-      </description>
-      <source:markdown>The suspected gunman who killed two students at a university in the US at the weekend remains at large as authorities appealed for help in identifying him.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/us/2025/1217/1549393-brown-university-shooting/</guid>
-    </item>    <item>
-      <title>Under pressure to surrender land to Russia, Zelenskyy pitches a referendum</title>
-      <link>https://www.cbc.ca/news/world/ukraine-donetsk-russia-negotiations-9.7018008?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/69201d65-3548-47ef-a784-229414b7ca69,1765960005421/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C297%2C5099%2C2868%29%3BResize%3D%28620%29' alt='A man walks in front of a highrise building, which is badly damaged by a drone strike.' width='620' height='349' title='A resident walks near an apartment building damaged during a Russian drone strike, which happened late evening on Monday, amid Russia&apos;s attack on Ukraine, in the city of Kramatorsk, Donetsk region, Ukraine, December 2, 2025. REUTERS/Anatolii Stepanov'/><p></p>]]>
-      </description>
-      <source:markdown>![A man walks in front of a highrise building, which is badly damaged by a drone strike.](https://i.cbc.ca/ais/69201d65-3548-47ef-a784-229414b7ca69,1765960005421/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C297%2C5099%2C2868%29%3BResize%3D%28620%29)</source:markdown>
-      <guid>cid://9.7019107</guid>
-    </item>    <item>
-      <title>How ISIS could be linked to the deadly Bondi Beach mass shooting</title>
-      <link>https://www.cbc.ca/news/world/bondi-beach-attack-isis-9.7018720?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/d6f9e308-dd62-44ae-a413-95a95e9bc18a,1765938488942/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3BResize%3D%28620%29' alt='Emergency personnel wheel a person away on a stretcher. ' width='620' height='349' title='Emergency workers transport a person on a stretcher after mass shooting at Bondi Beach in Sydney, Sunday, Dec. 14, 2025. '/><p>The suspects alleged to have carried out the deadly mass shooting at Sydney's Bondi Beach may have been inspired by ISIS or provided actual training to help carry out the attack, experts of the militant group say.</p>]]>
-      </description>
-      <source:markdown>![Emergency personnel wheel a person away on a stretcher. ](https://i.cbc.ca/ais/d6f9e308-dd62-44ae-a413-95a95e9bc18a,1765938488942/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3BResize%3D%28620%29)
-
-The suspects alleged to have carried out the deadly mass shooting at Sydney&#39;s Bondi Beach may have been inspired by ISIS or provided actual training to help carry out the attack, experts of the militant group say.</source:markdown>
-      <guid>cid://9.7018720</guid>
-    </item>    <item>
-      <title>Man charged with 59 offences after Bondi Beach attack</title>
-      <link>https://www.rte.ie/news/world/2025/1217/1549392-bondi-shooting-australia/</link>
-      <description>
-        <![CDATA[A man has been charged with 59 offences, including a terror charge, in connection with the gun attack on Sydney's Bondi Beach, in which 15 people were killed.]]>
-      </description>
-      <source:markdown>A man has been charged with 59 offences, including a terror charge, in connection with the gun attack on Sydney&#39;s Bondi Beach, in which 15 people were killed.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1217/1549392-bondi-shooting-australia/</guid>
-    </item>    <item>
-      <title>O&#39;Brien tells FF members to &#39;move on&#39; from Gavin campaign</title>
-      <link>https://www.rte.ie/news/politics/2025/1217/1549389-fianna-fail-politics/</link>
-      <description>
-        <![CDATA[Minister for Transport Darragh O'Brien has said he has "100%" confidence in Taoiseach Micheál Martin's leadership, and that it was time for Fianna Fáil members left disgruntled by the controversy to move on.]]>
-      </description>
-      <source:markdown>Minister for Transport Darragh O&#39;Brien has said he has &#34;100%&#34; confidence in Taoiseach Micheál Martin&#39;s leadership, and that it was time for Fianna Fáil members left disgruntled by the controversy to move on.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/politics/2025/1217/1549389-fianna-fail-politics/</guid>
-    </item>    <item>
-      <title>FF members told to &#39;move on&#39; from Gavin campaign</title>
-      <link>https://www.rte.ie/news/politics/2025/1217/1549389-obrien-fianna-fail/</link>
-      <description>
-        <![CDATA[Minister for Transport Darragh O'Brien has said he has "100%" confidence in Taoiseach Micheál Martin's leadership, and that it was time for Fianna Fáil members left disgruntled by the controversy around their presidential campaign to move on.]]>
-      </description>
-      <source:markdown>Minister for Transport Darragh O&#39;Brien has said he has &#34;100%&#34; confidence in Taoiseach Micheál Martin&#39;s leadership, and that it was time for Fianna Fáil members left disgruntled by the controversy around their presidential campaign to move on.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/politics/2025/1217/1549389-obrien-fianna-fail/</guid>
-    </item>    <item>
-      <title>Search for Columba McVeigh ends without success</title>
-      <link>https://www.rte.ie/news/ulster/2025/1217/1549357-columba-mcveigh-search/</link>
-      <description>
-        <![CDATA[The search for "disappeared" man Columba McVeigh has ended without success.]]>
-      </description>
-      <source:markdown>The search for &#34;disappeared&#34; man Columba McVeigh has ended without success.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ulster/2025/1217/1549357-columba-mcveigh-search/</guid>
-    </item>    <item>
-      <title>Ireland needs to break link with fossil fuels, SEAI says</title>
-      <link>https://www.rte.ie/news/ireland/2025/1217/1549378-seai-report-ireland/</link>
-      <description>
-        <![CDATA[A new report from the SEAI says that although energy related emissions in Ireland have fallen by 16% since 2018 the country has not broken the link between economic growth and fossil fuel use in a meaningful way.]]>
-      </description>
-      <source:markdown>A new report from the SEAI says that although energy related emissions in Ireland have fallen by 16% since 2018 the country has not broken the link between economic growth and fossil fuel use in a meaningful way.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1217/1549378-seai-report-ireland/</guid>
-    </item>    <item>
-      <title>Being tech-savvy has no age limit - club marks tenth year</title>
-      <link>https://www.rte.ie/news/dublin/2025/1217/1549381-d8-surfers-club/</link>
-      <description>
-        <![CDATA[A technology club for older people based at the Digital Hub in Dublin has concluded its tenth year of classes, which included courses on Artificial Intelligence, WhatsApp and scamming.]]>
-      </description>
-      <source:markdown>A technology club for older people based at the Digital Hub in Dublin has concluded its tenth year of classes, which included courses on Artificial Intelligence, WhatsApp and scamming.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/dublin/2025/1217/1549381-d8-surfers-club/</guid>
-    </item>    <item>
-      <title>Ireland needs to break link with fossil fuels, says SEAI</title>
-      <link>https://www.rte.ie/news/environment/2025/1217/1549378-seai-report-ireland/</link>
-      <description>
-        <![CDATA[A new report from the SEAI says that although energy related emissions in Ireland have fallen by 16% since 2018, the country has not broken the link between economic growth and fossil fuel use in a meaningful way.]]>
-      </description>
-      <source:markdown>A new report from the SEAI says that although energy related emissions in Ireland have fallen by 16% since 2018, the country has not broken the link between economic growth and fossil fuel use in a meaningful way.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/environment/2025/1217/1549378-seai-report-ireland/</guid>
     </item>
   </channel>
 </rss>
