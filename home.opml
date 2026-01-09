@@ -2,10 +2,10 @@
 <opml version="2.0">
     <head>
         <title>Home, Garden and Urban Farm related blogs</title>
-        <dateCreated>08 Jan 26 08:13 -0800</dateCreated>
+        <dateCreated>09 Jan 26 08:13 -0800</dateCreated>
     </head>
     <body>
-        <outline text="Calfifornia Dept. Aggriculture blog" type="rss" xmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" htmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress,https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" description="Protecting and Promoting California Agriculture" url="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2"></outline>
+        <outline text="Calfifornia Dept. Aggriculture blog" type="rss" xmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" htmlUrl="https://plantingseedsblog.cdfa.ca.gov/wordpress,https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2" description="Making California a better place to live because of what we grow and how we grow it." url="https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2"></outline>
         <outline text="California Grown" type="rss" xmlUrl="https://californiagrown.org/feed/" htmlUrl="https://californiagrown.org/,https://californiagrown.org/feed/" url="https://californiagrown.org/feed/"></outline>
         <outline text="California Native Plants Society" type="rss" xmlUrl="https://www.cnps.org/feed" htmlUrl="https://www.cnps.org/,https://www.cnps.org/feed" description="Preserving California Native Flora" url="https://www.cnps.org/feed"></outline>
         <outline text="California Native Plants Society, Santa Clarita" type="rss" xmlUrl="https://www.cnps-scv.org/?format=feed&amp;type=rss" htmlUrl="https://www.cnps-scv.org/,https://www.cnps-scv.org/?format=feed&amp;type=rss" description="A chapter of the California Native Plant Society, protecting the flora and educating people in native plants." url="https://www.cnps-scv.org/?format=feed&amp;type=rss"></outline>
