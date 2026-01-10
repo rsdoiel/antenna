@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>10 Jan 26 08:15 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Disk images of the PDP-11/23 version of Edison</title>
+      <link>http://pascal.hansotten.com/2026/01/10/disk-images-of-the-pdp-11-23-version-of-edison/</link>
+      <description>
+        <![CDATA[Jos Dreessen received a disk set of the Edision system from Günter Dotzel of Modulaware. And he made images of it. This diskset contains the whole Edison system, binaries and sources of all programs. Even the sources not published in the book Programming a Personal Computer by per Brinch hansen like the Alva PDP-11 ‘assembler’. [&#8230;]]]>
+      </description>
+      <source:markdown>Jos Dreessen received a disk set of the Edision system from Günter Dotzel of Modulaware. And he made images of it. This diskset contains the whole Edison system, binaries and sources of all programs. Even the sources not published in the book Programming a Personal Computer by per Brinch hansen like the Alva PDP-11 ‘assembler’. \[…\]</source:markdown>
+      <guid>cid://http://pascal.hansotten.com/?p=2884</guid>
+    </item>    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/01/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Chapter 11: An Instrumental Truth On the Digital side, there will go an extra week before the next article, folks. Bear with me, please!]]>
+      </description>
+      <source:markdown>Chapter 11: An Instrumental Truth On the Digital side, there will go an extra week before the next article, folks. Bear with me, please!</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6615</guid>
+    </item>    <item>
       <title>Manjaro 26.0 Primary Desktop Environments Default to Wayland</title>
       <link>http://www.linux-magazine.com/Online/News/Manjaro-26.0-Primary-Desktop-Environments-Default-to-Wayland</link>
       <description>
@@ -1474,22 +1490,6 @@ I wrote both of these clients in a generic fashion such that any pocket or handh
 To build your own version of the `ASMTRM` terminal utility, you&#39;ll need `make`, Perl 5, the Macroassembler AS, `TIC74.EXE` (under `Utils/` in the TIFF/TIFF2 distribution), and [NTVDM](https://github.com/davidly/ntvdm); see the `README` for instructions. Both Perl clients, the C source for `usb2ppp` and the assembly source for the CC-40/TI-74 terminal program are in [this blog post&#39;s Github project](https://github.com/classilla/asmtrm). `ASMTRM`, SLOSH and GOLM are all released under the BSD 2-clause license.</source:markdown>
       <author>noreply@blogger.com (ClassicHasClass)</author>
       <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-579034610101186571</guid>
-    </item>    <item>
-      <title>Huge for the Holidays: Epic Interactive Fiction of the Millennial Period</title>
-      <link>https://www.filfre.net/2025/12/huge-for-the-holidays-epic-interactive-fiction-of-the-millennial-period/</link>
-      <description>
-        <![CDATA[This article tells part of the story of post-commercial interactive fiction. After fighting the tendency for decades, I&#8217;ve finally learned to accept that I&#8217;m a bit of a conservative, if not a downright Luddite, when it comes to my interactive fiction &#8212; or my text adventures, as I still persist in calling them. Despite its [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of post-commercial interactive fiction. After fighting the tendency for decades, I’ve finally learned to accept that I’m a bit of a conservative, if not a downright Luddite, when it comes to my interactive fiction — or my text adventures, as I still persist in calling them. Despite its \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6585</guid>
-    </item>    <item>
-      <title>ROOL updates DDE to DDE32b</title>
-      <link>http://www.iconbar.com/comments/rss/news2286.html</link>
-      <description>
-        <![CDATA[ROOL have released a new version of the DDE which is now DDE32b.]]>
-      </description>
-      <source:markdown>ROOL have released a new version of the DDE which is now DDE32b.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2286.html</guid>
     </item>
   </channel>
 </rss>

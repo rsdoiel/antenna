@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>09 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>10 Jan 26 08:15 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -90,14 +90,6 @@ The post [What I did in 2025](https://johnaugust.com/2025/what-i-did-in-2025) fi
 The post [The Screenwriting Life: The Craft Lessons That Matter Most](https://johnaugust.com/2025/the-screenwriting-life-the-craft-lessons-that-matter-most) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/717standard.mp3" length="52167054" type="audio/mpeg" />
       <guid>cid://https://johnaugust.com/?p=23693</guid>
-    </item>    <item>
-      <title>Back-of-the-Envelope Math on What Payouts We May See in the Bartz v. Anthropic Settlement</title>
-      <link>https://www.authorsalliance.org/2025/12/19/back-of-the-envelope-math-on-what-payouts-we-may-see-in-the-bartz-v-anthropic-settlement/</link>
-      <description>
-        <![CDATA[Now that the Bartz settlement has passed some initial judicial hurdles and is moving along, with important deadlines approaching (opt-out [&#8230;]]]>
-      </description>
-      <source:markdown>Now that the Bartz settlement has passed some initial judicial hurdles and is moving along, with important deadlines approaching (opt-out \[…\]</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12452</guid>
     </item>
   </channel>
 </rss>
