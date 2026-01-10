@@ -4,10 +4,18 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>09 Jan 26 08:12 -0800</lastBuildDate>
+    <lastBuildDate>10 Jan 26 08:15 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Journal Article: Generative AI in Higher Education: A Bibliometric Review of Emerging Trends, Power Dynamics, and Global Research Landscapes</title>
+      <link>https://www.infodocket.com/2026/01/10/new-journal-article-generative-ai-in-higher-education-a-bibliometric-review-of-emerging-trends-power-dynamics-and-global-research-landscapes/</link>
+      <description>
+        <![CDATA[The article linked below was recently published by Computers and Education: Artificial Intelligence. Title Generative AI in Higher Education: A Bibliometric Review of Emerging Trends, Power Dynamics, and Global Research Landscapes Authors Kun Dai The Chinese University of Hong Kong Yabing Liu The Education University of Hong Kong Xiaofan Zhang The Chinese University of Hong [&#8230;]]]>
+      </description>
+      <source:markdown>The article linked below was recently published by Computers and Education: Artificial Intelligence. Title Generative AI in Higher Education: A Bibliometric Review of Emerging Trends, Power Dynamics, and Global Research Landscapes Authors Kun Dai The Chinese University of Hong Kong Yabing Liu The Education University of Hong Kong Xiaofan Zhang The Chinese University of Hong \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167512</guid>
+    </item>    <item>
       <title>University of Washington Researchers Analyzed Which Anthologized Writers and Books Get Checked Out the Most From Seattle Public Library</title>
       <link>https://www.infodocket.com/2026/01/09/university-of-washington-researchers-analyzed-which-anthologized-writers-and-books-get-checked-out-the-most-from-seattle-public-library/</link>
       <description>
@@ -143,6 +151,14 @@ We encourage all funders to take advantage of these reduced rates to contribute 
 
 Take a look at the recent case studies from early GLS adopters [FWF](https://doi.org/10.64000/n9n69-y5b75) (Austria), [NWO](https://doi.org/10.64000/dvqke-j4v69) (The Netherlands), [FCCN\|FCT](https://doi.org/10.64000/9gjfp-5p698) (Portugal), and [Wellcome/EuropePMC](https://doi.org/10.64000/c1dh8-qn968), reach out to them or us with any questions, or peruse the [GLS community forum](https://community.crossref.org/c/crossref-services/grant-linking-system/)!</source:markdown>
       <guid>cid://https://www.crossref.org/blog/reduction-of-grant-doi-registration-fees-a-boost-for-the-research-nexus/</guid>
+    </item>    <item>
+      <title>Publication Alert: Inaugural Issue of International Journal of Disability Policy &#38; Advocacy (IJDPA)</title>
+      <link>https://www.infodocket.com/2026/01/07/publication-alert-inaugural-issue-of-international-journal-of-disability-policy-advocacy-ijdpa/</link>
+      <description>
+        <![CDATA[The inaugural issue of the International Journal of Disability Policy and Advocacy  is now available. Issue 1 includes the article &#8220;Bridging the Gap: How Congress Can Codify the Rights ofPeople with Disabilities to Access Digital Works&#8221; by Katherine Klosek, Director of Information Policy and Federal Relations at the Association of Research Libraries (ARL). About IJDPA [&#8230;]]]>
+      </description>
+      <source:markdown>The inaugural issue of the International Journal of Disability Policy and Advocacy  is now available. Issue 1 includes the article “Bridging the Gap: How Congress Can Codify the Rights ofPeople with Disabilities to Access Digital Works” by Katherine Klosek, Director of Information Policy and Federal Relations at the Association of Research Libraries (ARL). About IJDPA \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167506</guid>
     </item>    <item>
       <title>The World Below, by S. Fowler Wright</title>
       <link>https://standardebooks.org/ebooks/s-fowler-wright/the-world-below</link>
@@ -639,45 +655,6 @@ The post [Guest Post — DEI Under Threat: Collaborative Strategies to #DefendRe
       </description>
       <source:markdown>The paper linked below appears in the Proceedings of the 2nd AAAI (Association for the Advancement of Artificial Intelligence). Bridge on Artificial Intelligence for Scholarly Communication. Title Hallucinations in Scholarly LLMs: A Conceptual Overview and Practical Implications Authors Naveen Lamba Sharda University, India Sanju Tiwari Sharda University, India Manas Gaur University of Maryland, Baltimore County \[…\]</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=167453</guid>
-    </item>    <item>
-      <title>New Policy Brief From PEN America: The Bills Igniting Book Bans</title>
-      <link>https://www.infodocket.com/2025/12/19/new-policy-brief-from-pen-america-the-bills-igniting-book-bans/</link>
-      <description>
-        <![CDATA[From PEN America: Thousands of books removed from schools out of fear of state governments nationwide. Judy Blume’s Forever… banned from every Utah public school; To Kill a Mockingbird and 39 other titles pulled from a Texas school district that used AI to review materials; a list of 400 titles removed in one district quietly circulated in Tennessee as a resource for other school [&#8230;]]]>
-      </description>
-      <source:markdown>From PEN America: Thousands of books removed from schools out of fear of state governments nationwide. Judy Blume’s Forever… banned from every Utah public school; To Kill a Mockingbird and 39 other titles pulled from a Texas school district that used AI to review materials; a list of 400 titles removed in one district quietly circulated in Tennessee as a resource for other school \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167449</guid>
-    </item>    <item>
-      <title>The Powerhouse, by John Buchan</title>
-      <link>https://standardebooks.org/ebooks/john-buchan/the-powerhouse</link>
-      <description>
-        <![CDATA[A secret criminal organization is uncovered after an M.P.’s friend goes missing.]]>
-      </description>
-      <source:markdown>A secret criminal organization is uncovered after an M.P.’s friend goes missing.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/john-buchan/the-powerhouse/downloads/john-buchan_the-powerhouse.epub?source=feed" length="627287" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/john-buchan/the-powerhouse</guid>
-    </item>    <item>
-      <title>Guest Post — How AI is Transforming Platform Strategy: Beyond the Hype</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/19/guest-post-how-ai-is-transforming-platform-strategy-beyond-the-hype/</link>
-      <description>
-        <![CDATA[<p>Today's guest blogger challenges us to look beyond the hype of AI, and embrace AI agents handling platform grunt work, validation, and parallel processing that expands what we can accomplish with immediate and substantial productivity gains.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/19/guest-post-how-ai-is-transforming-platform-strategy-beyond-the-hype/">Guest Post — How AI is Transforming Platform Strategy: Beyond the Hype</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest blogger challenges us to look beyond the hype of AI, and embrace AI agents handling platform grunt work, validation, and parallel processing that expands what we can accomplish with immediate and substantial productivity gains.
-
-The post [Guest Post — How AI is Transforming Platform Strategy: Beyond the Hype](https://scholarlykitchen.sspnet.org/2025/12/19/guest-post-how-ai-is-transforming-platform-strategy-beyond-the-hype/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61357</guid>
-    </item>    <item>
-      <title>Guest Post — DEI Under Threat: Collaborative Strategies to #DefendResearch</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/12/19/guest-post-dei-under-threat-collaborative-strategies-to-defendresearch/</link>
-      <description>
-        <![CDATA[<p>Today's guest post reflects on the recent panel discussion, "Collaborative strategies to #DefendResearch and ensure academic freedom," by speakers and organizers of the event.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/12/19/guest-post-dei-under-threat-collaborative-strategies-to-defendresearch/">Guest Post — DEI Under Threat: Collaborative Strategies to #DefendResearch</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest post reflects on the recent panel discussion, &#34;Collaborative strategies to #DefendResearch and ensure academic freedom,&#34; by speakers and organizers of the event.
-
-The post [Guest Post — DEI Under Threat: Collaborative Strategies to #DefendResearch](https://scholarlykitchen.sspnet.org/2025/12/19/guest-post-dei-under-threat-collaborative-strategies-to-defendresearch/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61368</guid>
     </item>
   </channel>
 </rss>
