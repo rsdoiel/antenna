@@ -4,10 +4,54 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>10 Jan 26 08:15 -0800</lastBuildDate>
+    <lastBuildDate>11 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI industry insiders launch site to poison the data that feeds them</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/</link>
+      <description>
+        <![CDATA[<h4>Poison Fountain project seeks allies to fight the power</h4> <p>Alarmed by what companies are building with artificial intelligence models, a handful of industry insiders are calling for those opposed to the current state of affairs to undertake a mass data poisoning effort to undermine the technology.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Poison Fountain project seeks allies to fight the power
+
+Alarmed by what companies are building with artificial intelligence models, a handful of industry insiders are calling for those opposed to the current state of affairs to undertake a mass data poisoning effort to undermine the technology.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243894</guid>
+    </item>    <item>
+      <title>Budgie 10.10 released</title>
+      <link>https://www.osnews.com/story/144158/budgie-10-10-released/</link>
+      <description>
+        <![CDATA[Budgie has fallen a bit by the wayside in recent years, but it&#8217;s still in development and making steady progress. The project&#8217;s just released Budgie 10.10, the final release in the 10.x series which also marks the end of the transition to Wayland. Budgie 10.10 is a brand new release series for Budgie Desktop, marking our first release to migrate Budgie from X11 to Wayland. This release series brings to a close just over a decade of Budgie 10 development; we are formally putting Budgie 10 into maintenance mode to focus our efforts on Budgie 11. ↫ Joshua Strobl Budgie is taking a very interesting approach for its move to Wayland; instead of writing every single component of their desktop environment from scratch or porting their X11 tools, the project opted to reuse and implement a ton of established, well-tested, and popular Wayland tools like swaybg, swayidle, labwc, and so on. This obviously saves on development time, but also ensures the transition to Wayland is relatively smooth. Things like the panel, applets, the Budgie Control Center, and so on, have been updated or rewritten. There&#8217;s also some new features, as well as a ton of bug fixes and smaller improvements. As noted, this release marks the end of the road for the 10.x series, with development now shifting to Budgie 11. Upcoming releases of major distributions will have Budgie 10.10 in their repositories.]]>
+      </description>
+      <source:markdown>Budgie has fallen a bit by the wayside in recent years, but it’s still in development and making steady progress. The project’s just released Budgie 10.10, the final release in the 10.x series which also marks the end of the transition to Wayland. Budgie 10.10 is a brand new release series for Budgie Desktop, marking our first release to migrate Budgie from X11 to Wayland. This release series brings to a close just over a decade of Budgie 10 development; we are formally putting Budgie 10 into maintenance mode to focus our efforts on Budgie 11. ↫ Joshua Strobl Budgie is taking a very interesting approach for its move to Wayland; instead of writing every single component of their desktop environment from scratch or porting their X11 tools, the project opted to reuse and implement a ton of established, well-tested, and popular Wayland tools like swaybg, swayidle, labwc, and so on. This obviously saves on development time, but also ensures the transition to Wayland is relatively smooth. Things like the panel, applets, the Budgie Control Center, and so on, have been updated or rewritten. There’s also some new features, as well as a ton of bug fixes and smaller improvements. As noted, this release marks the end of the road for the 10.x series, with development now shifting to Budgie 11. Upcoming releases of major distributions will have Budgie 10.10 in their repositories.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144158</guid>
+    </item>    <item>
+      <title>OpenBSD on the Sharp Zaurus SL-C3100</title>
+      <link>https://www.osnews.com/story/144156/openbsd-on-the-sharp-zaurus-sl-c3100/</link>
+      <description>
+        <![CDATA[OpenBSD on a Sharp Zaurus Linux-based PDA from 2005? Of course, why not? Installing OpenBSD was easy. The instructions in INSTALL.zaurus are pretty straightforward. My 5.6 install was smooth. Installing sets took ~10-15 minutes. The Microdrive is really slow. I&#8217;ll replace it with a CF card soon, which should be slightly faster (and more reliable). ↫ goldfish Of course, it includes a working X desktop, which is neat and makes the device a lot more useful. I have a slightly older Zaurus PDA, and this post has made me interested in doing something similar to it.]]>
+      </description>
+      <source:markdown>OpenBSD on a Sharp Zaurus Linux-based PDA from 2005? Of course, why not? Installing OpenBSD was easy. The instructions in INSTALL.zaurus are pretty straightforward. My 5.6 install was smooth. Installing sets took ~10-15 minutes. The Microdrive is really slow. I’ll replace it with a CF card soon, which should be slightly faster (and more reliable). ↫ goldfish Of course, it includes a working X desktop, which is neat and makes the device a lot more useful. I have a slightly older Zaurus PDA, and this post has made me interested in doing something similar to it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144156</guid>
+    </item>    <item>
+      <title>Brussels plots open source push to pry Europe off Big Tech</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/11/eu_open_source_consultation/</link>
+      <description>
+        <![CDATA[<h4>Call for Evidence casts FOSS as a way to break US dependence</h4> <p>The European Commission has launched a fresh consultation into open source, setting out its ambitions for Europe&#39;s developer communities to go beyond propping up US tech giants&#39; platforms.…</p>]]>
+      </description>
+      <source:markdown>#### Call for Evidence casts FOSS as a way to break US dependence
+
+The European Commission has launched a fresh consultation into open source, setting out its ambitions for Europe&#39;s developer communities to go beyond propping up US tech giants&#39; platforms.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243886</guid>
+    </item>    <item>
+      <title>NASA Marshall Removes 2 Historic Test Stands</title>
+      <link>https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/</link>
+      <description>
+        <![CDATA[NASA’s Marshall Space Flight Center in Huntsville, Alabama, removed two of its historic test stands – the Propulsion and Structural Test Facility and the Dynamic Test Facility – with carefully coordinated implosions on Jan. 10, 2026. The demolition of these historic structures is part of a larger project at Marshall that began in spring 2022, [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Marshall Space Flight Center in Huntsville, Alabama, removed two of its historic test stands – the Propulsion and Structural Test Facility and the Dynamic Test Facility – with carefully coordinated implosions on Jan. 10, 2026. The demolition of these historic structures is part of a larger project at Marshall that began in spring 2022, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=943729</guid>
+    </item>    <item>
       <title>UK government exempting itself from flagship cyber law inspires little confidence</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/10/csr_bill_analysis/</link>
       <description>
@@ -195,9 +239,9 @@ Microsoft is celebrating the resurgence of interest in physical media in the onl
       <title>NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond</title>
       <link>https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/</link>
       <description>
-        <![CDATA[A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. Along for the ride are two shoebox-sized satellites called BlackCAT (Black Hole Coded Aperture Telescope) and SPARCS (Star-Planet Activity Research CubeSat), as NASA innovates with ambitious science […]]]>
+        <![CDATA[Editor’s Note, Jan. 11, 2026: NASA’s Pandora and the NASA-sponsored BlackCAT and SPARCS missions lifted off at 8:44 a.m. EST (5:44 a.m. PST) Sunday, Jan. 11. A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. Along […]]]>
       </description>
-      <source:markdown>A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. Along for the ride are two shoebox-sized satellites called BlackCAT (Black Hole Coded Aperture Telescope) and SPARCS (Star-Planet Activity Research CubeSat), as NASA innovates with ambitious science \[…\]</source:markdown>
+      <source:markdown>Editor’s Note, Jan. 11, 2026: NASA’s Pandora and the NASA-sponsored BlackCAT and SPARCS missions lifted off at 8:44 a.m. EST (5:44 a.m. PST) Sunday, Jan. 11. A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. Along \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/</guid>
     </item>    <item>
       <title>NASA decides to bring Crew-11 home early after astronaut health scare</title>
@@ -3694,95 +3738,6 @@ The post [GitHub vs. Amazon: 2025’s Gifts for Programmers and Sysadmins](https
 
 **UPDATED**  A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243694</guid>
-    </item>    <item>
-      <title>Artemis II Crew Rehearse Launch Day Demonstration</title>
-      <link>https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/</link>
-      <description>
-        <![CDATA[The four astronauts set to fly around the Moon during NASA&#8217;s Artemis II test flight depart the Neil A. Armstrong Operations and Checkout Building&#160;at the agency&#8217;s Kennedy Space Center in Florida,&#160;during a dress rehearsal for launch day on Dec. 20, 2025. From left&#160;are CSA (Canadian Space Agency) astronaut Jeremy Hansen,&#160;NASA astronauts Victor Glover, Reid Wiseman, [&#8230;]]]>
-      </description>
-      <source:markdown>The four astronauts set to fly around the Moon during NASA’s Artemis II test flight depart the Neil A. Armstrong Operations and Checkout Building at the agency’s Kennedy Space Center in Florida, during a dress rehearsal for launch day on Dec. 20, 2025. From left are CSA (Canadian Space Agency) astronaut Jeremy Hansen, NASA astronauts Victor Glover, Reid Wiseman, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=939543</guid>
-    </item>    <item>
-      <title>From Prompt to Production: A Guide to AI-Generated Design Systems</title>
-      <link>https://thenewstack.io/from-prompt-to-production-a-guide-to-ai-generated-design-systems/</link>
-      <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/12/d61f30dc-nate-grant-qq9lains6ti-unsplash-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/d61f30dc-nate-grant-qq9lains6ti-unsplash-scaled.jpg" /><p>For any development team, the design system is the bedrock of a scalable, consistent, and high-quality application. It&#8217;s the single</p>
-        <p>The post <a href="https://thenewstack.io/from-prompt-to-production-a-guide-to-ai-generated-design-systems/">From Prompt to Production: A Guide to AI-Generated Design Systems</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/d61f30dc-nate-grant-qq9lains6ti-unsplash-1024x576.jpg)
-
-For any development team, the design system is the bedrock of a scalable, consistent, and high-quality application. It’s the single
-
-The post [From Prompt to Production: A Guide to AI-Generated Design Systems](https://thenewstack.io/from-prompt-to-production-a-guide-to-ai-generated-design-systems/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22810258</guid>
-    </item>    <item>
-      <title>Your New AI Workforce Requires a ‘Digital HR’ Department</title>
-      <link>https://thenewstack.io/your-new-ai-workforce-requires-a-digital-hr-department/</link>
-      <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/12/efc10126-robot-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Humanoid AI robot carrying boxes and checking orders in the warehouse." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/efc10126-robot.jpg" /><p>AI agents are beginning to permeate enterprises, driving the need for new teams and&#160;processes to help manage this growing workforce</p>
-        <p>The post <a href="https://thenewstack.io/your-new-ai-workforce-requires-a-digital-hr-department/">Your New AI Workforce Requires a &#8216;Digital HR&#8217; Department</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Humanoid AI robot carrying boxes and checking orders in the warehouse.](https://cdn.thenewstack.io/media/2025/12/efc10126-robot-1024x576.jpg)
-
-AI agents are beginning to permeate enterprises, driving the need for new teams and processes to help manage this growing workforce
-
-The post [Your New AI Workforce Requires a ‘Digital HR’ Department](https://thenewstack.io/your-new-ai-workforce-requires-a-digital-hr-department/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22809211</guid>
-    </item>    <item>
-      <title>TanStack Adds Framework-Agnostic AI Toolkit</title>
-      <link>https://thenewstack.io/tanstack-adds-framework-agnostic-ai-toolkit/</link>
-      <description>
-        <![CDATA[<img width="1024" height="577" src="https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Dev News logo" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2024/04/d8b458d6-dev_news_img-2-2.png" /><p>The TanStack team has added yet another piece to its stack: This time, it&#8217;s the alpha release of a new</p>
-        <p>The post <a href="https://thenewstack.io/tanstack-adds-framework-agnostic-ai-toolkit/">TanStack Adds Framework-Agnostic AI Toolkit</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Dev News logo](https://cdn.thenewstack.io/media/2024/04/d8b458d6-dev_news_img-2-2-1024x577.png)
-
-The TanStack team has added yet another piece to its stack: This time, it’s the alpha release of a new
-
-The post [TanStack Adds Framework-Agnostic AI Toolkit](https://thenewstack.io/tanstack-adds-framework-agnostic-ai-toolkit/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22810672</guid>
-    </item>    <item>
-      <title>When Should JavaScript Devs Use the Power of WebAssembly?</title>
-      <link>https://thenewstack.io/when-should-javascript-devs-use-the-power-of-webassembly/</link>
-      <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/12/1f934e7d-loren-king-of2zsonovzo-unsplashb-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/1f934e7d-loren-king-of2zsonovzo-unsplashb.jpg" /><p>JavaScript was created thirty years ago for simple web interactions. While it still basically runs the web, applications are far</p>
-        <p>The post <a href="https://thenewstack.io/when-should-javascript-devs-use-the-power-of-webassembly/">When Should JavaScript Devs Use the Power of WebAssembly?</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/1f934e7d-loren-king-of2zsonovzo-unsplashb-1024x576.jpg)
-
-JavaScript was created thirty years ago for simple web interactions. While it still basically runs the web, applications are far
-
-The post [When Should JavaScript Devs Use the Power of WebAssembly?](https://thenewstack.io/when-should-javascript-devs-use-the-power-of-webassembly/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22810618</guid>
-    </item>    <item>
-      <title>Tired of sky-high memory prices? Buckle up, we&#39;re in this for the long haul</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/20/memory_prices_dram/</link>
-      <description>
-        <![CDATA[<h4>We haven&#39;t even hit the peak, TechInsights tells El Reg</h4> <p>If you were hoping for some relief from stratospheric memory pricing, don&#39;t hold your breath. DRAM prices aren&#39;t expected to peak until at least 2026, TechInsights analyst James Sanders tells <em>El Reg.</em>…</p>]]>
-      </description>
-      <source:markdown>#### We haven&#39;t even hit the peak, TechInsights tells El Reg
-
-If you were hoping for some relief from stratospheric memory pricing, don&#39;t hold your breath. DRAM prices aren&#39;t expected to peak until at least 2026, TechInsights analyst James Sanders tells _El Reg._…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243678</guid>
-    </item>    <item>
-      <title>A Quarter Century After Cyberselfish, Big Tech Proves Borsook Right</title>
-      <link>https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/</link>
-      <description>
-        <![CDATA[<p>In her book Cyberselfish: A Critical Romp Through the Terribly Libertarian Culture of Silicon Valley, published in 2000, Borsook who is based in Palo Alto, California and has previously written for Wired and a host of other industry publications, took aim at what she saw as disturbing trends among the tech industry.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/">A Quarter Century After Cyberselfish, Big Tech Proves Borsook Right</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>In her book Cyberselfish: A Critical Romp Through the Terribly Libertarian Culture of Silicon Valley, published in 2000, Borsook who is based in Palo Alto, California and has previously written for Wired and a host of other industry publications, took aim at what she saw as disturbing trends among the tech industry.
-
-The post [A Quarter Century After Cyberselfish, Big Tech Proves Borsook Right](https://puri.sm/posts/a-quarter-century-after-cyberselfish-big-tech-proves-borsook-right/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=84958</guid>
-    </item>    <item>
-      <title>Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’</title>
-      <link>https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/</link>
-      <description>
-        <![CDATA[Written by Noah Martin, Ph.D. student and Candice Bedford, Research Scientist at Purdue University While much of Perseverance’s work focuses on ancient rocks that record Mars’ long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 […]]]>
-      </description>
-      <source:markdown>Written by Noah Martin, Ph.D. student and Candice Bedford, Research Scientist at Purdue University While much of Perseverance’s work focuses on ancient rocks that record Mars’ long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,28 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>10 Jan 26 08:15 -0800</lastBuildDate>
+    <lastBuildDate>11 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Conan Stories, by Robert E. Howard</title>
+      <link>https://standardebooks.org/ebooks/robert-e-howard/conan-stories</link>
+      <description>
+        <![CDATA[A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.]]>
+      </description>
+      <source:markdown>A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/robert-e-howard/conan-stories/downloads/robert-e-howard_conan-stories.epub?source=feed" length="894771" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/robert-e-howard/conan-stories</guid>
+    </item>    <item>
+      <title>The Story of Doctor Dolittle, by Hugh Lofting</title>
+      <link>https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle</link>
+      <description>
+        <![CDATA[A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.]]>
+      </description>
+      <source:markdown>A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/hugh-lofting_the-story-of-doctor-dolittle.epub?source=feed" length="482703" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle</guid>
+    </item>    <item>
       <title>Journal Article: Generative AI in Higher Education: A Bibliometric Review of Emerging Trends, Power Dynamics, and Global Research Landscapes</title>
       <link>https://www.infodocket.com/2026/01/10/new-journal-article-generative-ai-in-higher-education-a-bibliometric-review-of-emerging-trends-power-dynamics-and-global-research-landscapes/</link>
       <description>
@@ -647,14 +665,6 @@ The post [Guest Post — DEI Under Threat: Collaborative Strategies to #DefendRe
       </description>
       <source:markdown>Audrey Witters remembers the creativity of the early web. When she was launching her career in the mid-1990s, being online was more about exploring and having fun than figuring out \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=29806</guid>
-    </item>    <item>
-      <title>Conference Paper: “Hallucinations in Scholarly LLMs: A Conceptual Overview and Practical Implications”</title>
-      <link>https://www.infodocket.com/2025/12/20/conference-paper-hallucinations-in-scholarly-llms-a-conceptual-overview-and-practical-implications/</link>
-      <description>
-        <![CDATA[The paper linked below appears in the Proceedings of the 2nd AAAI (Association for the Advancement of Artificial Intelligence). Bridge on Artificial Intelligence for Scholarly Communication. Title Hallucinations in Scholarly LLMs: A Conceptual Overview and Practical Implications Authors Naveen Lamba Sharda University, India Sanju Tiwari Sharda University, India Manas Gaur University of Maryland, Baltimore County [&#8230;]]]>
-      </description>
-      <source:markdown>The paper linked below appears in the Proceedings of the 2nd AAAI (Association for the Advancement of Artificial Intelligence). Bridge on Artificial Intelligence for Scholarly Communication. Title Hallucinations in Scholarly LLMs: A Conceptual Overview and Practical Implications Authors Naveen Lamba Sharda University, India Sanju Tiwari Sharda University, India Manas Gaur University of Maryland, Baltimore County \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167453</guid>
     </item>
   </channel>
 </rss>
