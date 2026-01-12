@@ -4,10 +4,271 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>12 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The DEC PDP-10</title>
+      <link>https://www.osnews.com/story/144171/the-dec-pdp-10/</link>
+      <description>
+        <![CDATA[The PDP-10 family of computers (under different names) was manufactured by Digital Equipment Corporation between 1964 and 1983. Designed for time-sharing, batch and real-time systems, these computers were popular with universities, scientific companies and time-sharing bureaux. Several operating systems were available, some from DEC and some built by its users. It had a large influence on operating system design, artificial intelligence (especially at MIT and Stanford), programming languages (LISP, ML), applications (TeX, Emacs), online communication (ARPANET, Compuserve), games (Advent, Zork) and even helped development of Microsoft&#8217;s first version of BASIC. ↫ Rupert Lane The importance, impact, and legacy of the PDP series of computers cannot be understated, running like a red thread through the early days and development of several important and crucial technologies. Lane is going to cover a number of the operating systems created for the PDP-10, so if you&#8217;re interested &#8211; keep a bookmark.]]>
+      </description>
+      <source:markdown>The PDP-10 family of computers (under different names) was manufactured by Digital Equipment Corporation between 1964 and 1983. Designed for time-sharing, batch and real-time systems, these computers were popular with universities, scientific companies and time-sharing bureaux. Several operating systems were available, some from DEC and some built by its users. It had a large influence on operating system design, artificial intelligence (especially at MIT and Stanford), programming languages (LISP, ML), applications (TeX, Emacs), online communication (ARPANET, Compuserve), games (Advent, Zork) and even helped development of Microsoft’s first version of BASIC. ↫ Rupert Lane The importance, impact, and legacy of the PDP series of computers cannot be understated, running like a red thread through the early days and development of several important and crucial technologies. Lane is going to cover a number of the operating systems created for the PDP-10, so if you’re interested – keep a bookmark.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144171</guid>
+    </item>    <item>
+      <title>You are not required to close your &#60;p&#62;, &#60;li&#62;, &#60;img&#62;, or &#60;br&#62; tags in HTML</title>
+      <link>https://www.osnews.com/story/144167/you-are-not-required-to-close-your-p-li-img-or-br-tags-in-html/</link>
+      <description>
+        <![CDATA[Are you an author writing HTML? Just so we’re clear: Not XHTML. HTML. Without the X. If you are, repeat after me, because apparently this bears repeating (after the title): You are not required to close your &#38;lt;p&#62;, &#38;lt;li&#62;, &#38;lt;img&#62;, or &#38;lt;br&#62; tags in HTML. ↫ Daniel Tan Back when I still had to write OSNews&#8217; stories in plain HTML &#8211; yes, that&#8217;s what we did for a very long time &#8211; I always properly closed my tags. I did so because I thought you had to, but also because I think it looks nicer, adds a ton of clarity, and makes it easier to go back later and make any possible changes or fix errors. It definitely added to the workload, which was especially annoying when dealing with really long, detailed articles, but the end result was worth it. I haven&#8217;t had to write in plain HTML for ages now, since OSNews switched to WordPress and thus uses a proper WYSIWYG editor, so I haven&#8217;t thought about closing HTML tags in a long time &#8211; until I stumbled upon this article. I vaguely remember I would &#8220;fix&#8221; other people&#8217;s HTML in our backend by adding closing tags, and now I feel a little bit silly for doing so since apparently it wasn&#8217;t technically necessary at all. Luckily, it&#8217;s also not wrong to close your tags, and I stick by my readability arguments. Sometimes it&#8217;s easy to forget just how old HTML has become, and how mangled it&#8217;s become over the years.]]>
+      </description>
+      <source:markdown>Are you an author writing HTML? Just so we’re clear: Not XHTML. HTML. Without the X. If you are, repeat after me, because apparently this bears repeating (after the title): You are not required to close your &#38;lt;p&#62;, &#38;lt;li&#62;, &#38;lt;img&#62;, or &#38;lt;br&#62; tags in HTML. ↫ Daniel Tan Back when I still had to write OSNews’ stories in plain HTML – yes, that’s what we did for a very long time – I always properly closed my tags. I did so because I thought you had to, but also because I think it looks nicer, adds a ton of clarity, and makes it easier to go back later and make any possible changes or fix errors. It definitely added to the workload, which was especially annoying when dealing with really long, detailed articles, but the end result was worth it. I haven’t had to write in plain HTML for ages now, since OSNews switched to WordPress and thus uses a proper WYSIWYG editor, so I haven’t thought about closing HTML tags in a long time – until I stumbled upon this article. I vaguely remember I would “fix” other people’s HTML in our backend by adding closing tags, and now I feel a little bit silly for doing so since apparently it wasn’t technically necessary at all. Luckily, it’s also not wrong to close your tags, and I stick by my readability arguments. Sometimes it’s easy to forget just how old HTML has become, and how mangled it’s become over the years.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144167</guid>
+    </item>    <item>
+      <title>Últimos preparativos para la primera misión tripulada a la Luna con la campaña Artemis de la NASA</title>
+      <link>https://www.nasa.gov/es/ultimos-preparativos-para-la-primera-mision-tripulada-a-la-luna-con-la-campana-artemis-de-la-nasa/</link>
+      <description>
+        <![CDATA[Read this article in English here. Conforme la NASA se acerca al lanzamiento del vuelo de prueba Artemis&#160;II, la agencia pronto llevará por primera vez su cohete Sistema de Lanzamiento Espacial (SLS, por sus siglas en inglés) y la nave espacial Orion a la plataforma de lanzamiento en el Centro Espacial Kennedy de la agencia en [&#8230;]]]>
+      </description>
+      <source:markdown>Read this article in English here. Conforme la NASA se acerca al lanzamiento del vuelo de prueba Artemis II, la agencia pronto llevará por primera vez su cohete Sistema de Lanzamiento Espacial (SLS, por sus siglas en inglés) y la nave espacial Orion a la plataforma de lanzamiento en el Centro Espacial Kennedy de la agencia en \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=943842</guid>
+    </item>    <item>
+      <title>Complement-ARIE NAMs Reduction to Practice Challenge</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/complement-arie-nams-reduction-to-practice-challenge/</link>
+      <description>
+        <![CDATA[Recent technological advances have set the stage for a renewed focus on human-based solutions called new approach methodologies (NAMs) that can complement, and in some cases replace, animal models in research and regulatory testing. These NAMs generally span advanced cell-tissue-organoid (in vitro), computational modeling (in silico), and cell-free biochemical analysis (in chemico) techniques, with each [&#8230;]]]>
+      </description>
+      <source:markdown>Recent technological advances have set the stage for a renewed focus on human-based solutions called new approach methodologies (NAMs) that can complement, and in some cases replace, animal models in research and regulatory testing. These NAMs generally span advanced cell-tissue-organoid (in vitro), computational modeling (in silico), and cell-free biochemical analysis (in chemico) techniques, with each \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=943849</guid>
+    </item>    <item>
+      <title>Microsoft euthanizes ancient deployment toolkit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/microsoft_deployment_platform/</link>
+      <description>
+        <![CDATA[<h4>Immediate retirement for freebie automation platform</h4> <p>Microsoft has abruptly pulled the plug on the venerable Microsoft Deployment Toolkit (MDT), sending any administrators still clinging to the platform scrambling for alternatives.…</p>]]>
+      </description>
+      <source:markdown>#### Immediate retirement for freebie automation platform
+
+Microsoft has abruptly pulled the plug on the venerable Microsoft Deployment Toolkit (MDT), sending any administrators still clinging to the platform scrambling for alternatives.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243906</guid>
+    </item>    <item>
+      <title>Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions</title>
+      <link>https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/</link>
+      <description>
+        <![CDATA[The discovery that tissues use electricity to expel unhealthy cells is part of a surge of renewed interest in the currents flowing through our bodies.            <p>The post <a href="https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/" target="_blank">Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The discovery that tissues use electricity to expel unhealthy cells is part of a surge of renewed interest in the currents flowing through our bodies.
+
+The post [Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=157841</guid>
+    </item>    <item>
+      <title>Claude joins the ward as Anthropic eyes US healthcare data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/claude_anthropic_healthcare/</link>
+      <description>
+        <![CDATA[<h4>AI firm promises HIPAA-compliant integrations as chatbot moves into hospital admin</h4> <p>Fresh from watching rival OpenAI stick its nose into patient records, Anthropic has decided now is the perfect moment to march Claude into US healthcare too, promising to fix medicine with yet more AI, APIs, and carefully-worded reassurances about privacy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### AI firm promises HIPAA-compliant integrations as chatbot moves into hospital admin
+
+Fresh from watching rival OpenAI stick its nose into patient records, Anthropic has decided now is the perfect moment to march Claude into US healthcare too, promising to fix medicine with yet more AI, APIs, and carefully-worded reassurances about privacy.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243905</guid>
+    </item>    <item>
+      <title>ISS stint ends early as NASA aborts Crew-11 over crew illness</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/iss_command_handover/</link>
+      <description>
+        <![CDATA[<h4>Sick astronaut back on Earth by Thursday, nature of ailment remains undisclosed</h4> <p>NASA astronaut Mike Fincke has handed command of the ISS to Roscosmos cosmonaut Sergey Kud-Sverchkov as Fincke and the rest of Crew-11 are scheduled to head back to Earth on Wednesday.…</p>]]>
+      </description>
+      <source:markdown>#### Sick astronaut back on Earth by Thursday, nature of ailment remains undisclosed
+
+NASA astronaut Mike Fincke has handed command of the ISS to Roscosmos cosmonaut Sergey Kud-Sverchkov as Fincke and the rest of Crew-11 are scheduled to head back to Earth on Wednesday.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243904</guid>
+    </item>    <item>
+      <title>NASA Bolsters Golden Age of Exploration with Technology Priorities</title>
+      <link>https://www.nasa.gov/directorates/stmd/nasa-bolsters-golden-age-of-exploration-with-technology-priorities/</link>
+      <description>
+        <![CDATA[As NASA prepares for long-duration missions to the Moon that will pave the way for human exploration on Mars, the agency is tapping into America&#8217;s expanding space economy to help guide its strategic technology investments. This initiative, led by NASA&#8217;s Space Technology Mission Directorate invites collaboration from U.S. industry leaders, academic institutions, and other government [&#8230;]]]>
+      </description>
+      <source:markdown>As NASA prepares for long-duration missions to the Moon that will pave the way for human exploration on Mars, the agency is tapping into America’s expanding space economy to help guide its strategic technology investments. This initiative, led by NASA’s Space Technology Mission Directorate invites collaboration from U.S. industry leaders, academic institutions, and other government \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=943362</guid>
+    </item>    <item>
+      <title>Microsoft teases targeted Copilot removal for admins</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/microsoft_copilot_removal/</link>
+      <description>
+        <![CDATA[<h4>Yes, you can get rid of it – assuming nobody&#39;s looked at it in 28 days</h4> <p>Microsoft&#39;s latest Windows Insider release introduces a policy allowing admins to remove the Copilot app from managed devices. But there&#39;s a catch - actually, several.…</p>]]>
+      </description>
+      <source:markdown>#### Yes, you can get rid of it – assuming nobody&#39;s looked at it in 28 days
+
+Microsoft&#39;s latest Windows Insider release introduces a policy allowing admins to remove the Copilot app from managed devices. But there&#39;s a catch - actually, several.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243900</guid>
+    </item>    <item>
+      <title>Infamous BreachForums forum breached, spilling data on 325K users</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/breachforums_breach/</link>
+      <description>
+        <![CDATA[<h4>Website built around buying and selling stolen data has lost control of its own</h4> <p>BreachForums, the serially resurrected cybercrime marketplace, has tripped over itself after a data breach spilled details tied to about 324,000 user accounts.…</p>]]>
+      </description>
+      <source:markdown>#### Website built around buying and selling stolen data has lost control of its own
+
+BreachForums, the serially resurrected cybercrime marketplace, has tripped over itself after a data breach spilled details tied to about 324,000 user accounts.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243903</guid>
+    </item>    <item>
+      <title>Hubble Spies Stellar Blast Setting Clouds Ablaze</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-spies-stellar-blast-setting-clouds-ablaze/</link>
+      <description>
+        <![CDATA[This new NASA Hubble Space Telescope image captures a jet of gas from a forming star shooting across the dark expanse. The bright pink and green patches running diagonally through the image are HH 80/81, a pair of Herbig-Haro (HH) objects previously observed by Hubble in 1995. The patch to the upper left is part […]]]>
+      </description>
+      <source:markdown>This new NASA Hubble Space Telescope image captures a jet of gas from a forming star shooting across the dark expanse. The bright pink and green patches running diagonally through the image are HH 80/81, a pair of Herbig-Haro (HH) objects previously observed by Hubble in 1995. The patch to the upper left is part \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-spies-stellar-blast-setting-clouds-ablaze/</guid>
+    </item>    <item>
+      <title>The world is one bad decision away from a silicon ice age</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/silicon_shield_versus_silicon_winter/</link>
+      <description>
+        <![CDATA[<h4>Venezuela today, Taiwan tomorrow? This might be the last good year for buying hardware</h4> <p><strong>Opinion</strong>  For a world economy driven by consumerism, it&#39;s become markedly unkind to consumers. This goes double – literally – for digital tech, where memory prices have increased by between 100 and 250 percent in six months. If you think GPUs are pricey now, you&#39;ll only have to wait six weeks, during which both AMD and Nvidia are expected to demonstrate supply-side economics much as the Road Runner demonstrated gravity to Wile E Coyote.…</p>]]>
+      </description>
+      <source:markdown>#### Venezuela today, Taiwan tomorrow? This might be the last good year for buying hardware
+
+**Opinion**  For a world economy driven by consumerism, it&#39;s become markedly unkind to consumers. This goes double – literally – for digital tech, where memory prices have increased by between 100 and 250 percent in six months. If you think GPUs are pricey now, you&#39;ll only have to wait six weeks, during which both AMD and Nvidia are expected to demonstrate supply-side economics much as the Road Runner demonstrated gravity to Wile E Coyote.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243875</guid>
+    </item>    <item>
+      <title>Ofcom officially investigating X as Grok&#39;s nudify button stays switched on</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/xai_grok_uk_regulation/</link>
+      <description>
+        <![CDATA[<h4>Tech minister Liz Kendall says the government will back a robust regulatory response</h4> <p>Ofcom is investigating X over potential violations of the Online Safety Act, Britian&#39;s comms watchdog has confirmed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Tech minister Liz Kendall says the government will back a robust regulatory response
+
+Ofcom is investigating X over potential violations of the Online Safety Act, Britian&#39;s comms watchdog has confirmed.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243899</guid>
+    </item>    <item>
+      <title>How CP/M-86&#39;s delay handed Microsoft the keys to the kingdom</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/why_cpm86_was_late/</link>
+      <description>
+        <![CDATA[<h4>A late operating system, a stopgap deal, and the accident that made DOS dominant</h4> <p>A blog post by programmer Nemanja Trifunovic, <a target="_blank" href="https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm" rel="nofollow">The Late Arrival of 16-bit CP/M</a>, is on the face of it an interesting little excursion into the late delivery of a long-forgotten bit of software – one that turned out to be pivotal for the entire computer industry.…</p>]]>
+      </description>
+      <source:markdown>#### A late operating system, a stopgap deal, and the accident that made DOS dominant
+
+A blog post by programmer Nemanja Trifunovic, [The Late Arrival of 16-bit CP/M](https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm), is on the face of it an interesting little excursion into the late delivery of a long-forgotten bit of software – one that turned out to be pivotal for the entire computer industry.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243850</guid>
+    </item>    <item>
+      <title>Windows 2000 still earning its keep running a rail ticket machine in Portugal</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/windows_2000_portugal_rail/</link>
+      <description>
+        <![CDATA[<h4>&#39;Unsupported&#39; doesn&#39;t mean &#39;unused&#39;</h4> <p><strong>Bork!Bork!Bork!</strong>  It isn&#39;t only a computer&#39;s software underbelly exposed during a bork. Sometimes the poor thing&#39;s innards are on show as engineers attempt to wring a little more life from long-expired systems.…</p>]]>
+      </description>
+      <source:markdown>#### &#39;Unsupported&#39; doesn&#39;t mean &#39;unused&#39;
+
+**Bork!Bork!Bork!**  It isn&#39;t only a computer&#39;s software underbelly exposed during a bork. Sometimes the poor thing&#39;s innards are on show as engineers attempt to wring a little more life from long-expired systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243826</guid>
+    </item>    <item>
+      <title>Tories vow to boot under-16s off social media and ban phones in schools</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/conservatives_social_media_ban/</link>
+      <description>
+        <![CDATA[<h4>Opposition leader Kemi Badenoch pitches age limits and classroom curbs as fixes for behavior and mental health</h4> <p>The Tories have pledged to kick under-16s off social media, betting that banning teens from TikTok and Instagram will fix what they see as a growing crisis in kids&#39; mental health and classroom behavior.…</p>]]>
+      </description>
+      <source:markdown>#### Opposition leader Kemi Badenoch pitches age limits and classroom curbs as fixes for behavior and mental health
+
+The Tories have pledged to kick under-16s off social media, betting that banning teens from TikTok and Instagram will fix what they see as a growing crisis in kids&#39; mental health and classroom behavior.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243898</guid>
+    </item>    <item>
+      <title>2026 brings a bumper crop of Microsoft tech funerals</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/microsoft_2026_culls/</link>
+      <description>
+        <![CDATA[<h4>A busy year of end-of-support dates awaits unwary admins</h4> <p>2026 has begun with the familiar sound of Microsoft&#39;s software Grim Reaper sharpening a blade as administrators peer glumly at the calendar of carnage ahead.…</p>]]>
+      </description>
+      <source:markdown>#### A busy year of end-of-support dates awaits unwary admins
+
+2026 has begun with the familiar sound of Microsoft&#39;s software Grim Reaper sharpening a blade as administrators peer glumly at the calendar of carnage ahead.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243877</guid>
+    </item>    <item>
+      <title>These little microbes may help solve our big problems</title>
+      <link>https://www.npr.org/2026/01/12/nx-s1-5669905/microbe-bacteria-bathroom-science-extreme-environment</link>
+      <description>
+        <![CDATA[Microbes are little alchemists that perform all manner of chemical reactions. A team of microbiologists co-founded a non-profit to try to harness those abilities to solve some of the world’s big problems — from carbon capture to helping coral reefs to cleaning up waste. Recently, the team turned their attention to the microbes living in people’s homes — on and in shower heads, drip pans, and hot water heaters. These rather extreme environments may have pressured microorganisms into surviving in ways that could be advantageous to humans. Science reporter <a href="https://www.npr.org/people/297147967/ari-daniel"target="_blank"   >Ari Daniel</a> takes us on a treasure hunt in miniature.<br/><br/><em>This episode was produced by Hannah Chinn. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Robert Rodriguez.</em><br/><br/><br><em>Interested in learning more about the weird and wonderful world of microbes? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Microbes are little alchemists that perform all manner of chemical reactions. A team of microbiologists co-founded a non-profit to try to harness those abilities to solve some of the world’s big problems — from carbon capture to helping coral reefs to cleaning up waste. Recently, the team turned their attention to the microbes living in people’s homes — on and in shower heads, drip pans, and hot water heaters. These rather extreme environments may have pressured microorganisms into surviving in ways that could be advantageous to humans. Science reporter [Ari Daniel](https://www.npr.org/people/297147967/ari-daniel) takes us on a treasure hunt in miniature.
+
+_This episode was produced by Hannah Chinn. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Robert Rodriguez._
+
+_Interested in learning more about the weird and wonderful world of microbes? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR9451171259.mp3?t=podcast&e=nx-s1-5669905&p=510351&d=690&size=11041272" length="11041272" type="audio/mpeg" />
+      <guid>cid://d3b92624-6cf9-4869-8661-e4693fee6687</guid>
+    </item>    <item>
+      <title>Techie banned from client site for outage he didn’t cause</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/who_me/</link>
+      <description>
+        <![CDATA[<h4>UPSes don’t work without power, or well-designed electricals</h4> <p><strong>Who, Me?</strong>  Welcome to Monday morning and another instalment of “Who, Me?” - the weekly reader-contributed column in which we share your stories of what not to do at work, and how to get away with it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### UPSes don’t work without power, or well-designed electricals
+
+**Who, Me?**  Welcome to Monday morning and another instalment of “Who, Me?” - the weekly reader-contributed column in which we share your stories of what not to do at work, and how to get away with it.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243874</guid>
+    </item>    <item>
+      <title>Cloudflare CEO threatens to make the Winter Olympics a political football after Italy slugs it with a fine</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/cloudflare_vs_italy/</link>
+      <description>
+        <![CDATA[<h4>Labels Rome&#39;s comms regulator ‘a quasi-judicial body’ that works on behalf of ‘shadowy, European media cabal’</h4> <p>Cloudflare’s CEO has threatened to pull the company out of Italy, and to withdraw free services it intends to provide to the Winter Olympic games, after the nation’s communications regulator slugged it with a fine equal to one percent of its annual revenue for violating anti-piracy regulations.…</p>]]>
+      </description>
+      <source:markdown>#### Labels Rome&#39;s comms regulator ‘a quasi-judicial body’ that works on behalf of ‘shadowy, European media cabal’
+
+Cloudflare’s CEO has threatened to pull the company out of Italy, and to withdraw free services it intends to provide to the Winter Olympic games, after the nation’s communications regulator slugged it with a fine equal to one percent of its annual revenue for violating anti-piracy regulations.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243897</guid>
+    </item>    <item>
+      <title>India’s government denies it plans to demand smartphone source code</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/india_mobile_security/</link>
+      <description>
+        <![CDATA[<h4>Says ongoing talks about security are about understanding best practice, not strong-arming vendors</h4> <p>India’s government has denied that it is working on rules that would require smartphone manufacturers to provide access to their source code.…</p>]]>
+      </description>
+      <source:markdown>#### Says ongoing talks about security are about understanding best practice, not strong-arming vendors
+
+India’s government has denied that it is working on rules that would require smartphone manufacturers to provide access to their source code.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243896</guid>
+    </item>    <item>
+      <title>Malaysia and Indonesia block X over failure to curb deepfake smut</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Cambodia arrests alleged scam camp boss; Baidu spins out chip biz; Panasonic’s noodle shop plan; And more!</h4> <p><strong>Asia in Brief</strong>  The governments of Malaysia and Indonesia have suspended access to social network X, on grounds that it allows users to produce sexual imagery without users’ consent.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: Cambodia arrests alleged scam camp boss; Baidu spins out chip biz; Panasonic’s noodle shop plan; And more!
+
+**Asia in Brief**  The governments of Malaysia and Indonesia have suspended access to social network X, on grounds that it allows users to produce sexual imagery without users’ consent.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243895</guid>
+    </item>    <item>
+      <title>Susan Schuh: Supporting the Humans in Human Spaceflight</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/susan-schuh-supporting-the-humans-in-human-spaceflight/</link>
+      <description>
+        <![CDATA[Susan Schuh has dedicated her career to helping humans adapt to life beyond Earth.&#160;&#160; As the Flight Crew Integration Operational Habitability (OpsHab) team lead in NASA’s Human Health and Performance Directorate at Johnson Space Center in Houston, Schuh leads efforts to understand what it is really like to live and work in space. She turns [&#8230;]]]>
+      </description>
+      <source:markdown>Susan Schuh has dedicated her career to helping humans adapt to life beyond Earth.   As the Flight Crew Integration Operational Habitability (OpsHab) team lead in NASA’s Human Health and Performance Directorate at Johnson Space Center in Houston, Schuh leads efforts to understand what it is really like to live and work in space. She turns \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=930945</guid>
+    </item>    <item>
+      <title>Meta admits to Instagram password reset mess, denies data leak</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/11/infosec_news_in_brief/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Veeam patches critical vuln; Crims bribing dark web insiders; UK school takedown; And more</h4> <p><strong>infosec in brief</strong>  Meta has fixed a flaw in its Instagram service that allowed third parties to generate password reset emails, but denied the problem led to theft of users’ personal information.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: Veeam patches critical vuln; Crims bribing dark web insiders; UK school takedown; And more
+
+**infosec in brief**  Meta has fixed a flaw in its Instagram service that allowed third parties to generate password reset emails, but denied the problem led to theft of users’ personal information.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243889</guid>
+    </item>    <item>
+      <title>Windows Explorer likely to get Copilot “AI” sidebar</title>
+      <link>https://www.osnews.com/story/144163/windows-explorer-likely-to-get-copilot-ai-sidebar/</link>
+      <description>
+        <![CDATA[We all knew this was going to happen, so let&#8217;s just get it over with. Microsoft is testing a new feature that integrates Copilot into the File Explorer, but it’s not going to be another ‘Ask Copilot’ button in the right-click menu. This time, Copilot will live inside File Explorer, likely in a sidebar or Details/Preview-pane-like interface, according to new references in Windows 11 preview builds. ↫ Mayank Parmar at Windows Latest What am I even supposed to say at this point? Who wants this? Why utterly destroy what little reputation and goodwill Windows has left? Has the hype bubble become this clouded and intoxicating? Even system administrators who want to turn off Copilot in their organisations or device fleets in an official, supported way are getting punched in the face by Microsoft. The company rolled out a new Group Policy to disable Copilot, but it&#8217;s such a useless mess it might as well not be there at all. This essentially means that IT admins will only be able to uninstall the Copilot app for customers where their device has both Copilot apps installed by either a clean install or by the IT team itself, as long as the Copilot app has not been opened in a month. So, even if you accidentally open the Copilot app for a second because it&#8217;s there in your Windows taskbar, the Copilot app won&#8217;t be uninstalled. ↫ Usama Jawad at Neowin You shouldn&#8217;t be using Windows.]]>
+      </description>
+      <source:markdown>We all knew this was going to happen, so let’s just get it over with. Microsoft is testing a new feature that integrates Copilot into the File Explorer, but it’s not going to be another ‘Ask Copilot’ button in the right-click menu. This time, Copilot will live inside File Explorer, likely in a sidebar or Details/Preview-pane-like interface, according to new references in Windows 11 preview builds. ↫ Mayank Parmar at Windows Latest What am I even supposed to say at this point? Who wants this? Why utterly destroy what little reputation and goodwill Windows has left? Has the hype bubble become this clouded and intoxicating? Even system administrators who want to turn off Copilot in their organisations or device fleets in an official, supported way are getting punched in the face by Microsoft. The company rolled out a new Group Policy to disable Copilot, but it’s such a useless mess it might as well not be there at all. This essentially means that IT admins will only be able to uninstall the Copilot app for customers where their device has both Copilot apps installed by either a clean install or by the IT team itself, as long as the Copilot app has not been opened in a month. So, even if you accidentally open the Copilot app for a second because it’s there in your Windows taskbar, the Copilot app won’t be uninstalled. ↫ Usama Jawad at Neowin You shouldn’t be using Windows.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144163</guid>
+    </item>    <item>
+      <title>Phosh 2025 in retrospect</title>
+      <link>https://www.osnews.com/story/144161/phosh-2025-in-retrospect/</link>
+      <description>
+        <![CDATA[Posh, GNOME&#8217;s mobile shell, published a look back on the project&#8217;s 2025. The Phosh developers focus from day one was to make devices running Phosh daily drivable without having to resort to any proprietary OSes as a fallback. This year showed improvements in some important areas people rely on like cell broadcasts and emergency calls, further improving usability and starting some ground work we’ll need for some upcoming features. ↫ Phosh developers In 2025, Posh gained support for cell broadcasts &#8211; like the emergency messages regarding storms, or alerts about missing persons, that sort of stuff &#8211; which is a pretty important feature in this day and age. Posh also improved its support for per-source audio volumes and one source of audio muting another, its on-screen keyboard, its compositor, and much more. Of course, the main problem for shells like Phosh is hardware support, which is handled by the underlying operating system, like PostmarketOS. These Linux mobile operating systems are fighting an uphill battle when it comes to hardware support, and while Android application support can fill some of the application shortcomings, you&#8217;re going to be making pretty significant concessions by switching to mobile Linux at the moment. When even Android ROMs not sanctioned by Google are having issues with banking applications or government ID stuff, using mobile Linux will be even more of a problem. None of this is the fault of any of the people dedicating their free time to things like Phosh or PostmarketOS, of course &#8211; it&#8217;s just a sad reality of a market we once again just gave up to a few megacorporations, with our governments too cowardly to stand up and fix this issue.]]>
+      </description>
+      <source:markdown>Posh, GNOME’s mobile shell, published a look back on the project’s 2025. The Phosh developers focus from day one was to make devices running Phosh daily drivable without having to resort to any proprietary OSes as a fallback. This year showed improvements in some important areas people rely on like cell broadcasts and emergency calls, further improving usability and starting some ground work we’ll need for some upcoming features. ↫ Phosh developers In 2025, Posh gained support for cell broadcasts – like the emergency messages regarding storms, or alerts about missing persons, that sort of stuff – which is a pretty important feature in this day and age. Posh also improved its support for per-source audio volumes and one source of audio muting another, its on-screen keyboard, its compositor, and much more. Of course, the main problem for shells like Phosh is hardware support, which is handled by the underlying operating system, like PostmarketOS. These Linux mobile operating systems are fighting an uphill battle when it comes to hardware support, and while Android application support can fill some of the application shortcomings, you’re going to be making pretty significant concessions by switching to mobile Linux at the moment. When even Android ROMs not sanctioned by Google are having issues with banking applications or government ID stuff, using mobile Linux will be even more of a problem. None of this is the fault of any of the people dedicating their free time to things like Phosh or PostmarketOS, of course – it’s just a sad reality of a market we once again just gave up to a few megacorporations, with our governments too cowardly to stand up and fix this issue.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144161</guid>
+    </item>    <item>
       <title>AI industry insiders launch site to poison the data that feeds them</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/</link>
       <description>
@@ -65,9 +326,9 @@ The European Commission has launched a fresh consultation into open source, sett
       <title>Final Steps Underway for NASA’s First Crewed Artemis Moon Mission</title>
       <link>https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/</link>
       <description>
-        <![CDATA[As NASA moves closer to launch of the Artemis II test flight, the agency soon will roll its SLS (Space Launch System) rocket and Orion spacecraft to the launch pad for the first time at the agency’s Kennedy Space Center in Florida to begin final integration, testing, and launch rehearsals. NASA is targeting no earlier [&#8230;]]]>
+        <![CDATA[Lee este artículo en español aquí. As NASA moves closer to launch of the Artemis II test flight, the agency soon will roll its SLS (Space Launch System) rocket and Orion spacecraft to the launch pad for the first time at the agency’s Kennedy Space Center in Florida to begin final integration, testing, and launch [&#8230;]]]>
       </description>
-      <source:markdown>As NASA moves closer to launch of the Artemis II test flight, the agency soon will roll its SLS (Space Launch System) rocket and Orion spacecraft to the launch pad for the first time at the agency’s Kennedy Space Center in Florida to begin final integration, testing, and launch rehearsals. NASA is targeting no earlier \[…\]</source:markdown>
+      <source:markdown>Lee este artículo en español aquí. As NASA moves closer to launch of the Artemis II test flight, the agency soon will roll its SLS (Space Launch System) rocket and Orion spacecraft to the launch pad for the first time at the agency’s Kennedy Space Center in Florida to begin final integration, testing, and launch \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?p=942378</guid>
     </item>    <item>
       <title>Artificial brains could point the way to ultra-efficient supercomputers</title>
@@ -3648,96 +3909,6 @@ South Korea&#39;s government on Friday announced it will require local mobile ca
 
 **APAC in Brief**  Google and Apple last week started to allow developers of mobile applications to distribute their wares through third-party app stores and accept payments from alternative payment providers.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243695</guid>
-    </item>    <item>
-      <title>Google sends Dark Web Report to its dead services graveyard</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/21/infosec_news_in_brief/</link>
-      <description>
-        <![CDATA[<h4>PLUS: Texas sues alleged TV spies; The Cloud is full of holes; Hospital leaked its own data; And more</h4> <p><strong>Infosec In Brief</strong>  Google will soon end its “Dark Web Report”, an email service that alerts users when their personal information appears on the internet’s dark underbelly.…</p>]]>
-      </description>
-      <source:markdown>#### PLUS: Texas sues alleged TV spies; The Cloud is full of holes; Hospital leaked its own data; And more
-
-**Infosec In Brief**  Google will soon end its “Dark Web Report”, an email service that alerts users when their personal information appears on the internet’s dark underbelly.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243674</guid>
-    </item>    <item>
-      <title>FreeBSD made major gains in laptop support this year</title>
-      <link>https://www.osnews.com/story/144050/freebsd-made-major-gains-in-laptop-support-this-year/</link>
-      <description>
-        <![CDATA[If you’ve been waiting for the right moment to try FreeBSD on a laptop, take note – 2025 has brought transformative changes. The Foundation’s ambitious Laptop Support &#38; Usability Project is systematically addressing the gaps that have held FreeBSD back on modern laptop hardware.&#160; The project started in 2024 Q4 and covers areas including Wi-Fi, graphics, audio, installer, and sleep states. 2025 has been its first full year, and with a financial commitment of over $750k to date there has been substantial progress. ↫ Alice Sowerby for the FreeBSD Foundation I think that&#8217;s an understatement. As part of this effort, FreeBSD introduced support for Wi-Fi 4 and 5 in 2025, with 6 being worked on, and sound support has been greatly improved as well, with new tools and better support for automatic sound redirection for HDA cards. Another major area of improvement is support for various forms of sleep and wake, with modern standby coming in FreeBSD 15.1, and possibly hibernate in 15.2. On top of all this, there&#8217;s the usual graphics drivers updates, as well as changes to the installer to make it a bit more friendly to desktop use cases. The FreeBSD project is clearly taking desktop and especially laptop seriously lately, and they&#8217;re putting their money and developers where their mouth is. Add in the fact that FreeBSD already has pretty decent Wayland support, and it the platform will be able to continue to offer the latest KDE releases (and GNOME, if they figure out replacements for its systemd dependencies). With progress like this, we&#8217;re definitely going to see more and more people making the move to FreeBSD for desktop and laptop use over the coming years.]]>
-      </description>
-      <source:markdown>If you’ve been waiting for the right moment to try FreeBSD on a laptop, take note – 2025 has brought transformative changes. The Foundation’s ambitious Laptop Support &#38; Usability Project is systematically addressing the gaps that have held FreeBSD back on modern laptop hardware.  The project started in 2024 Q4 and covers areas including Wi-Fi, graphics, audio, installer, and sleep states. 2025 has been its first full year, and with a financial commitment of over $750k to date there has been substantial progress. ↫ Alice Sowerby for the FreeBSD Foundation I think that’s an understatement. As part of this effort, FreeBSD introduced support for Wi-Fi 4 and 5 in 2025, with 6 being worked on, and sound support has been greatly improved as well, with new tools and better support for automatic sound redirection for HDA cards. Another major area of improvement is support for various forms of sleep and wake, with modern standby coming in FreeBSD 15.1, and possibly hibernate in 15.2. On top of all this, there’s the usual graphics drivers updates, as well as changes to the installer to make it a bit more friendly to desktop use cases. The FreeBSD project is clearly taking desktop and especially laptop seriously lately, and they’re putting their money and developers where their mouth is. Add in the fact that FreeBSD already has pretty decent Wayland support, and it the platform will be able to continue to offer the latest KDE releases (and GNOME, if they figure out replacements for its systemd dependencies). With progress like this, we’re definitely going to see more and more people making the move to FreeBSD for desktop and laptop use over the coming years.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144050</guid>
-    </item>    <item>
-      <title>The AI Competition Is Now a High-Stakes Construction Race</title>
-      <link>https://thenewstack.io/the-ai-competition-is-now-a-high-stakes-construction-race/</link>
-      <description>
-        <![CDATA[<img width="1024" height="576" src="https://cdn.thenewstack.io/media/2025/12/f4e58ed9-construction-1024x576.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="Engineers confer on a construction site." style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/f4e58ed9-construction.jpg" /><p>For years, the AI race was defined by a fierce competition to hire and retain a small group of elite</p>
-        <p>The post <a href="https://thenewstack.io/the-ai-competition-is-now-a-high-stakes-construction-race/">The AI Competition Is Now a High-Stakes Construction Race</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![Engineers confer on a construction site.](https://cdn.thenewstack.io/media/2025/12/f4e58ed9-construction-1024x576.jpg)
-
-For years, the AI race was defined by a fierce competition to hire and retain a small group of elite
-
-The post [The AI Competition Is Now a High-Stakes Construction Race](https://thenewstack.io/the-ai-competition-is-now-a-high-stakes-construction-race/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22809509</guid>
-    </item>    <item>
-      <title>Apple UX Pioneer on Reviving Computer Desktop Design</title>
-      <link>https://thenewstack.io/ux-pioneer-scott-jenson-on-unsticking-computer-desktop-design/</link>
-      <description>
-        <![CDATA[<img width="1024" height="683" src="https://cdn.thenewstack.io/media/2025/12/69c02f0e-ubuntu-summit-scott_jenson-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/69c02f0e-ubuntu-summit-scott_jenson.jpg" /><p>Scott Jenson is sad over the stagnation of computer desktop design, a field with still-untapped potential for making humans way</p>
-        <p>The post <a href="https://thenewstack.io/ux-pioneer-scott-jenson-on-unsticking-computer-desktop-design/">Apple UX Pioneer on Reviving Computer Desktop Design</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/69c02f0e-ubuntu-summit-scott_jenson-1024x683.jpg)
-
-Scott Jenson is sad over the stagnation of computer desktop design, a field with still-untapped potential for making humans way
-
-The post [Apple UX Pioneer on Reviving Computer Desktop Design](https://thenewstack.io/ux-pioneer-scott-jenson-on-unsticking-computer-desktop-design/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22810761</guid>
-    </item>    <item>
-      <title>ObsidianOS, a Challenging but Reliable Linux Distribution</title>
-      <link>https://thenewstack.io/obsidianos-a-challenging-but-reliable-linux-distribution/</link>
-      <description>
-        <![CDATA[<img width="1024" height="768" src="https://cdn.thenewstack.io/media/2025/12/f372a92f-obsidianos-1024x768.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/f372a92f-obsidianos.jpg" /><p>Before we get into the review of ObsidianOS, let&#8217;s talk about A/B partitioning. It is essential to everything about ObsidianOS.</p>
-        <p>The post <a href="https://thenewstack.io/obsidianos-a-challenging-but-reliable-linux-distribution/">ObsidianOS, a Challenging but Reliable Linux Distribution</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/f372a92f-obsidianos-1024x768.jpg)
-
-Before we get into the review of ObsidianOS, let’s talk about A/B partitioning. It is essential to everything about ObsidianOS.
-
-The post [ObsidianOS, a Challenging but Reliable Linux Distribution](https://thenewstack.io/obsidianos-a-challenging-but-reliable-linux-distribution/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22810097</guid>
-    </item>    <item>
-      <title>GitHub vs. Amazon: 2025’s Gifts for Programmers and Sysadmins</title>
-      <link>https://thenewstack.io/github-vs-amazon-2025s-gifts-for-programmers-and-sysadmins/</link>
-      <description>
-        <![CDATA[<img width="1024" height="689" src="https://cdn.thenewstack.io/media/2025/12/4426a616-from-etsy-personalized-christmas-ornament-il_1588xn.7413122444_fply-1024x689.jpg" class="webfeedsFeaturedVisual wp-post-image wp-stateless-item" alt="" style="display: block; margin: auto; margin-bottom: 20px;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" data-image-size="large" data-stateless-media-bucket="cdn.thenewstack.io" data-stateless-media-name="media/2025/12/4426a616-from-etsy-personalized-christmas-ornament-il_1588xn.7413122444_fply.jpg" /><p>For this year&#8217;s holiday celebrations, Hallmark made a special Christmas tree ornament, a tiny monitor displaying screens from the classic</p>
-        <p>The post <a href="https://thenewstack.io/github-vs-amazon-2025s-gifts-for-programmers-and-sysadmins/">GitHub vs. Amazon: 2025&#8217;s Gifts for Programmers and Sysadmins</a> appeared first on <a href="https://thenewstack.io">The New Stack</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://cdn.thenewstack.io/media/2025/12/4426a616-from-etsy-personalized-christmas-ornament-il_1588xn.7413122444_fply-1024x689.jpg)
-
-For this year’s holiday celebrations, Hallmark made a special Christmas tree ornament, a tiny monitor displaying screens from the classic
-
-The post [GitHub vs. Amazon: 2025’s Gifts for Programmers and Sysadmins](https://thenewstack.io/github-vs-amazon-2025s-gifts-for-programmers-and-sysadmins/) appeared first on [The New Stack](https://thenewstack.io).</source:markdown>
-      <guid>cid://https://thenewstack.io/?p=22809277</guid>
-    </item>    <item>
-      <title>Workers should control the means of agentic production, suggests WorkBeaver boss</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/21/workbeaver_ceo_interview_ai_agents/</link>
-      <description>
-        <![CDATA[<h4>What if AI vendors focused on the demand side?</h4> <p><strong>Interview</strong>  &#34;I think everybody is adopting AI irresponsibly and I think it&#39;s going to have a net negative outcome on the socio-economic standing of the world,&#34; said Bars Juhasz. &#34;So let&#39;s see if we can&#39;t pitch more of a win-win future.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### What if AI vendors focused on the demand side?
-
-**Interview**  &#34;I think everybody is adopting AI irresponsibly and I think it&#39;s going to have a net negative outcome on the socio-economic standing of the world,&#34; said Bars Juhasz. &#34;So let&#39;s see if we can&#39;t pitch more of a win-win future.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243679</guid>
-    </item>    <item>
-      <title>NIST contemplated pulling the pin on NTP servers after blackout caused atomic clock drift</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/</link>
-      <description>
-        <![CDATA[<h4>Time signals shifted by a tiny amount that only very sensitive users would find upsetting</h4> <p><strong>UPDATED</strong>  A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Time signals shifted by a tiny amount that only very sensitive users would find upsetting
-
-**UPDATED**  A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243694</guid>
     </item>
   </channel>
 </rss>

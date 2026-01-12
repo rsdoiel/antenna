@@ -356,5 +356,7 @@ description: Blogs, columns and snapshots from around the web.
 - [Kettlekasten Blog](https://zettelkasten.de/feed.atom)
 - [Well Gedacht](https://blog.wellgedacht.org/wgp/feed/)
 - [BZ Blog](https://blogsystem5.substack.com/feed)
+- [Joan Westenberg Blog](https://www.joanwestenberg.com/rss/)
+- [Indivisble Team blog](https://indivisibleteam.substack.com/feed/)
 
 
