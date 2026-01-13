@@ -4,10 +4,425 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>12 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>13 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Modern HTML features on text-based web browsers</title>
+      <link>https://www.osnews.com/story/144178/modern-html-features-on-text-based-web-browsers/</link>
+      <description>
+        <![CDATA[They&#8217;re easily overlooked between all the Chrome and Safari violence, but there are still text-based web browsers, and people still use them. How do they handle the latest HTML features? While CSS is the star of the show when it comes to new features, HTML ain’t stale either. If we put the long-awaited styleable selects and Apple’s take on toggle switches aside, there’s a lot readily available cross-browser. But here’s the thing: Whenever we say cross-browser, we usually look at the big ones, never at text-based browsers. So in this article I wanna shed some light on how they handle the following recent additions. ↫ Matthias Zöchling Text-based web browsers work best with regular HTML, as things like CSS and JavaScript won&#8217;t work. Despite the new features highlighted in the article being HTML, however, text-based browser have a hard time dealing with them, and it&#8217;s likely that as more and more modern features get added to HTML, text-based browsers are going to have an increasingly harder time dealing with the web. At least OSNews seems to render decently usable on text-based web browsers, but ideal it is not. I don&#8217;t really have the skills to fix any issues on that front, but I can note that I&#8217;m working on a extremely basic, HTML-only version of OSNews generated from our RSS feed, hosted on some very unique retro hardware. I can&#8217;t guarantee it&#8217;ll become available &#8211; I&#8217;m weary about hosting something from home using unique hardware and outdated software &#8211; but if it does, y&#8217;all will know about it, of course.]]>
+      </description>
+      <source:markdown>They’re easily overlooked between all the Chrome and Safari violence, but there are still text-based web browsers, and people still use them. How do they handle the latest HTML features? While CSS is the star of the show when it comes to new features, HTML ain’t stale either. If we put the long-awaited styleable selects and Apple’s take on toggle switches aside, there’s a lot readily available cross-browser. But here’s the thing: Whenever we say cross-browser, we usually look at the big ones, never at text-based browsers. So in this article I wanna shed some light on how they handle the following recent additions. ↫ Matthias Zöchling Text-based web browsers work best with regular HTML, as things like CSS and JavaScript won’t work. Despite the new features highlighted in the article being HTML, however, text-based browser have a hard time dealing with them, and it’s likely that as more and more modern features get added to HTML, text-based browsers are going to have an increasingly harder time dealing with the web. At least OSNews seems to render decently usable on text-based web browsers, but ideal it is not. I don’t really have the skills to fix any issues on that front, but I can note that I’m working on a extremely basic, HTML-only version of OSNews generated from our RSS feed, hosted on some very unique retro hardware. I can’t guarantee it’ll become available – I’m weary about hosting something from home using unique hardware and outdated software – but if it does, y’all will know about it, of course.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144178</guid>
+    </item>    <item>
+      <title>Linus Torvalds tries vibe coding, world still intact somehow</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/linus_torvalds_vibe_coding/</link>
+      <description>
+        <![CDATA[<h4>The Emperor Penguin tries it… just for fun</h4> <p>Perhaps the most famous low-level systems programmer has tried &#34;vibe coding&#34; for himself – and he seems to be enjoying it.…</p>]]>
+      </description>
+      <source:markdown>#### The Emperor Penguin tries it… just for fun
+
+Perhaps the most famous low-level systems programmer has tried &#34;vibe coding&#34; for himself – and he seems to be enjoying it.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243930</guid>
+    </item>    <item>
+      <title>Dutch cops cuff alleged AVCheck malware kingpin in Amsterdam</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/avcheck_arrest/</link>
+      <description>
+        <![CDATA[<h4>33-year-old was under surveillance for some time before returning home from the UAE</h4> <p>Dutch police believe they have arrested a man behind the AVCheck online platform - a service used by cybercrims that Operation Endgame shuttered in May.…</p>]]>
+      </description>
+      <source:markdown>#### 33-year-old was under surveillance for some time before returning home from the UAE
+
+Dutch police believe they have arrested a man behind the AVCheck online platform - a service used by cybercrims that Operation Endgame shuttered in May.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243931</guid>
+    </item>    <item>
+      <title>This Invasive Wasp Is Wreaking Havoc on Elms in North America—and the Damage May Soon Spread to Other Trees</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-invasive-wasp-is-wreaking-havoc-on-elms-in-north-america-and-the-damage-may-soon-spread-to-other-trees-180987991/</link>
+      <description>
+        <![CDATA[Elm zigzag sawflies can munch on plants beyond their preferred elm trees when foliage isn't available, a new study suggests]]>
+      </description>
+      <source:markdown>Elm zigzag sawflies can munch on plants beyond their preferred elm trees when foliage isn&#39;t available, a new study suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ei1DGH6AkUA7rf6CKtg4ZFRhpLI=/420x240/filters:focal(1536x965:1537x966)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/37/53371d26-91f6-46e6-ae6f-2056496e89ed/aproceros_leucopoda_5410982.jpg" length="" type="" />
+    </item>    <item>
+      <title>Trump may hate renewables, but AI datacenters still fancy cheap solar</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/renewables_ai_datacenters/</link>
+      <description>
+        <![CDATA[<h4>Analysts say cheap energy and storage make sense for bit barns despite policy headwinds</h4> <p>Despite the Trump administration&#39;s opposition to renewables, solar power will likely remain part of datacenter energy supply mix due to its low cost.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Analysts say cheap energy and storage make sense for bit barns despite policy headwinds
+
+Despite the Trump administration&#39;s opposition to renewables, solar power will likely remain part of datacenter energy supply mix due to its low cost.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243929</guid>
+    </item>    <item>
+      <title>Hubble Nets Menagerie of Young Stellar Objects</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-nets-menagerie-of-young-stellar-objects/</link>
+      <description>
+        <![CDATA[A disparate collection of young stellar objects bejewels a cosmic panorama in the star-forming region NGC 1333 in this new image from NASA’s Hubble Space Telescope. To the left, an actively forming star called a protostar casts its glow on the surrounding gas and dust, creating a reflection nebula. Two dark stripes on opposite sides […]]]>
+      </description>
+      <source:markdown>A disparate collection of young stellar objects bejewels a cosmic panorama in the star-forming region NGC 1333 in this new image from NASA’s Hubble Space Telescope. To the left, an actively forming star called a protostar casts its glow on the surrounding gas and dust, creating a reflection nebula. Two dark stripes on opposite sides \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-nets-menagerie-of-young-stellar-objects/</guid>
+    </item>    <item>
+      <title>Federal agencies told to fix or ditch Gogs as exploited zero-day lands on CISA hit list</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/cisa_gogs_exploit/</link>
+      <description>
+        <![CDATA[<h4>Git server flaw that attackers have been abusing for months has now caught the attention of US cyber cops</h4> <p>CISA has ordered federal agencies to stop using Gogs or lock it down immediately after a high-severity vulnerability in the self-hosted Git service was added to its Known Exploited Vulnerabilities (KEV) catalog.…</p>]]>
+      </description>
+      <source:markdown>#### Git server flaw that attackers have been abusing for months has now caught the attention of US cyber cops
+
+CISA has ordered federal agencies to stop using Gogs or lock it down immediately after a high-severity vulnerability in the self-hosted Git service was added to its Known Exploited Vulnerabilities (KEV) catalog.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243928</guid>
+    </item>    <item>
+      <title>Mandiant open sources tool to prevent leaky Salesforce misconfigs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/mandiant_salesforce_tool/</link>
+      <description>
+        <![CDATA[<h4>AuraInspector automates the most common abuses and generates fixes for customers</h4> <p>Mandiant has released an open source tool to help Salesforce admins detect misconfigurations that could expose sensitive data.…</p>]]>
+      </description>
+      <source:markdown>#### AuraInspector automates the most common abuses and generates fixes for customers
+
+Mandiant has released an open source tool to help Salesforce admins detect misconfigurations that could expose sensitive data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243927</guid>
+    </item>    <item>
+      <title>Court tosses appeal by hacker who opened port to coke smugglers with malware</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/dutch_port_hacker_appeal/</link>
+      <description>
+        <![CDATA[<h4>Dutchman fails to convince judges his trial was unfair because cops read his encrypted chats</h4> <p>A Dutch appeals court has kept a seven-year prison sentence in place for a man who hacked port IT systems with malware-stuffed USB sticks to help cocaine smugglers move containers, brushing off claims that police shouldn&#39;t have been reading his encrypted chats.…</p>]]>
+      </description>
+      <source:markdown>#### Dutchman fails to convince judges his trial was unfair because cops read his encrypted chats
+
+A Dutch appeals court has kept a seven-year prison sentence in place for a man who hacked port IT systems with malware-stuffed USB sticks to help cocaine smugglers move containers, brushing off claims that police shouldn&#39;t have been reading his encrypted chats.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243926</guid>
+    </item>    <item>
+      <title>Affordable housing site goes live with meme-laden test data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/housing_site_test_data/</link>
+      <description>
+        <![CDATA[<h4>Yes, London property prices are high. But here&#39;s a picture of Boris Johnson</h4> <p><strong>Updated</strong>  From the &#34;there but for the grace of God&#34; department comes a new website to find affordable housing in London containing data it shouldn&#39;t.…</p>]]>
+      </description>
+      <source:markdown>#### Yes, London property prices are high. But here&#39;s a picture of Boris Johnson
+
+**Updated**  From the &#34;there but for the grace of God&#34; department comes a new website to find affordable housing in London containing data it shouldn&#39;t.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243925</guid>
+    </item>    <item>
+      <title>Birmingham pauses Oracle relaunch to get staff on board</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/birmingham_oracle_delay/</link>
+      <description>
+        <![CDATA[<h4>Europe&#39;s largest council delays Fusion reimplementation four years after go-live disaster</h4> <p>Birmingham City Council has pushed back the relaunch of its troubled Oracle Fusion ERP system, saying staff need more time to adapt to the vendor&#39;s standard processes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Europe&#39;s largest council delays Fusion reimplementation four years after go-live disaster
+
+Birmingham City Council has pushed back the relaunch of its troubled Oracle Fusion ERP system, saying staff need more time to adapt to the vendor&#39;s standard processes.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243910</guid>
+    </item>    <item>
+      <title>Britain goes shopping for a rapid-fire missile to help Ukraine hit back</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/mod_project_nightfall/</link>
+      <description>
+        <![CDATA[<h4>Project Nightfall aims to deliver a UK-built long-range strike capability at speed</h4> <p>The British government is asking defense firms to rapidly produce a new ground-launched ballistic missile to aid Ukraine&#39;s fight against Russia - hardware that might also be adopted by UK&#39;s armed forces in future.…</p>]]>
+      </description>
+      <source:markdown>#### Project Nightfall aims to deliver a UK-built long-range strike capability at speed
+
+The British government is asking defense firms to rapidly produce a new ground-launched ballistic missile to aid Ukraine&#39;s fight against Russia - hardware that might also be adopted by UK&#39;s armed forces in future.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243901</guid>
+    </item>    <item>
+      <title>NASA’s Webb Delivers Unprecedented Look Into Heart of Circinus Galaxy</title>
+      <link>https://science.nasa.gov/missions/webb/nasas-webb-delivers-unprecedented-look-into-heart-of-circinus-galaxy/</link>
+      <description>
+        <![CDATA[The Circinus Galaxy, a galaxy about 13 million light-years away, contains an active supermassive black hole that continues to influence its evolution. The largest source of infrared light from the region closest to the black hole itself was thought to be outflows, or streams of superheated matter that fire outward.  Image: Circinus Galaxy (Hubble and […]]]>
+      </description>
+      <source:markdown>The Circinus Galaxy, a galaxy about 13 million light-years away, contains an active supermassive black hole that continues to influence its evolution. The largest source of infrared light from the region closest to the black hole itself was thought to be outflows, or streams of superheated matter that fire outward.  Image: Circinus Galaxy (Hubble and \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-delivers-unprecedented-look-into-heart-of-circinus-galaxy/</guid>
+    </item>    <item>
+      <title>Fujitsu scores place on £984M UK government framework despite bid boycott</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/fujitsu_984m_government_framework/</link>
+      <description>
+        <![CDATA[<h4>Turns out the voluntary pledge to restrict public sector tendering during Horizon scandal inquiry has loopholes</h4> <p>Fujitsu has won a place on a UK government framework despite its commitment not to compete for new public sector contracts during the ongoing inquiry into the Post Office Horizon scandal.…</p>]]>
+      </description>
+      <source:markdown>#### Turns out the voluntary pledge to restrict public sector tendering during Horizon scandal inquiry has loopholes
+
+Fujitsu has won a place on a UK government framework despite its commitment not to compete for new public sector contracts during the ongoing inquiry into the Post Office Horizon scandal.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243902</guid>
+    </item>    <item>
+      <title>The ozone layer is still healing…thanks to science</title>
+      <link>https://www.npr.org/2026/01/13/nx-s1-5644962/ozone-hole-success-antarctica-polar-vortex</link>
+      <description>
+        <![CDATA[In the mid-1980s, scientists <a href="https://www.nature.com/articles/315207a0"target="_blank"   >published a startling finding</a>–a giant hole in the ozone layer over Antarctica. That’s the protective shield that blocks large amounts of harmful UV radiation. And without it, the rate of cancer, cataracts and crop failure would skyrocket. Today on the show, we dive into ozone science and examine how scientists successfully sounded the alarm and solved an Antarctic mystery.<br/><br/><strong>Check out our episode on an </strong><a href="https://www.npr.org/2025/03/10/1237260294/research-plankton-climate-change-whales-antarctica-polar-fjord"target="_blank"   ><strong>Antarctic plankton mystery</strong></a><strong>. And, listen to our </strong><a href="https://www.npr.org/transcripts/1266983858"target="_blank"   ><strong>monthly</strong></a><strong> </strong><a href="https://www.npr.org/2025/04/22/1266983681/spring-flowers-earth-day-phenology"target="_blank"   ><strong>series</strong></a><strong> </strong><a href="https://www.npr.org/2025/09/30/nx-s1-5518203/ocean-climate-change-flood-sea-level"target="_blank"   ><strong>Nature</strong></a><strong> </strong><a href="https://www.npr.org/2025/05/27/1266983774/kids-climate-change-anxiety-family"target="_blank"   ><strong>Quest</strong></a><strong>.</strong><br/><br/><em>Interested in more atmospheric science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><em>This episode was produced by Berly McCoy. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Becky Brown.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>In the mid-1980s, scientists [published a startling finding](https://www.nature.com/articles/315207a0)–a giant hole in the ozone layer over Antarctica. That’s the protective shield that blocks large amounts of harmful UV radiation. And without it, the rate of cancer, cataracts and crop failure would skyrocket. Today on the show, we dive into ozone science and examine how scientists successfully sounded the alarm and solved an Antarctic mystery.
+
+**Check out our episode on an** [**Antarctic plankton mystery**](https://www.npr.org/2025/03/10/1237260294/research-plankton-climate-change-whales-antarctica-polar-fjord) **. And, listen to our** [**monthly**](https://www.npr.org/transcripts/1266983858) [**series**](https://www.npr.org/2025/04/22/1266983681/spring-flowers-earth-day-phenology) [**Nature**](https://www.npr.org/2025/09/30/nx-s1-5518203/ocean-climate-change-flood-sea-level) [**Quest**](https://www.npr.org/2025/05/27/1266983774/kids-climate-change-anxiety-family) **.**
+
+_Interested in more atmospheric science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+_This episode was produced by Berly McCoy. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Becky Brown._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR3035525129.mp3?t=podcast&e=nx-s1-5644962&p=510351&d=730&size=11695796" length="11695796" type="audio/mpeg" />
+      <guid>cid://53820834-a660-4ab6-838c-4a7c437d0609</guid>
+    </item>    <item>
+      <title>Developer writes script to throw AI out of Windows</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/script_removes_ai_from_windows/</link>
+      <description>
+        <![CDATA[<h4>Satya Nadella&#39;s call to accept and embrace desktop brainboxes faces skepticism</h4> <p>Software developers have created a PowerShell script to remove AI features from Windows.…</p>]]>
+      </description>
+      <source:markdown>#### Satya Nadella&#39;s call to accept and embrace desktop brainboxes faces skepticism
+
+Software developers have created a PowerShell script to remove AI features from Windows.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243921</guid>
+    </item>    <item>
+      <title>Lenovo has a hunch you’re about to try quitting VMware</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/lenovo_fx_multi_hypervisor_hci/</link>
+      <description>
+        <![CDATA[<h4>Tweaks its hardware to run multiple private cloud stacks, and shift between them</h4> <p>Lenovo has a hunch that some of you are about to shift to a different hypervisor and has created hardware to make the move easier.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Tweaks its hardware to run multiple private cloud stacks, and shift between them
+
+Lenovo has a hunch that some of you are about to shift to a different hypervisor and has created hardware to make the move easier.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243923</guid>
+    </item>    <item>
+      <title>A Plume of Bright Blue in Melissa’s Wake</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/</link>
+      <description>
+        <![CDATA[The category 5 hurricane stirred up carbonate sediment near Jamaica in what scientists believe is the largest such event in the satellite record.]]>
+      </description>
+      <source:markdown>The category 5 hurricane stirred up carbonate sediment near Jamaica in what scientists believe is the largest such event in the satellite record.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/</guid>
+    </item>    <item>
+      <title>India demands crypto outfits geolocate customers, get a selfie to prove they’re real</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/india_crypto_kyc_aml_update/</link>
+      <description>
+        <![CDATA[<h4>Government is fed up with bad actors using digi-cash to fund dodgy deeds</h4> <p>India’s government has updated the regulations it imposes on cryptocurrency services providers, as part of its efforts to combat fraud, money laundering, and terrorism.…</p>]]>
+      </description>
+      <source:markdown>#### Government is fed up with bad actors using digi-cash to fund dodgy deeds
+
+India’s government has updated the regulations it imposes on cryptocurrency services providers, as part of its efforts to combat fraud, money laundering, and terrorism.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243922</guid>
+    </item>    <item>
+      <title>NASA, SpaceX Invite Media to Watch Crew-12 Launch to Space Station</title>
+      <link>https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/</link>
+      <description>
+        <![CDATA[Media accreditation is open for the launch of NASA’s 12th rotational mission of a SpaceX Falcon 9 rocket and Dragon spacecraft carrying astronauts to the International Space Station for a science expedition from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. NASA announced it is targeting no earlier than Thursday, Jan. [&#8230;]]]>
+      </description>
+      <source:markdown>Media accreditation is open for the launch of NASA’s 12th rotational mission of a SpaceX Falcon 9 rocket and Dragon spacecraft carrying astronauts to the International Space Station for a science expedition from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. NASA announced it is targeting no earlier than Thursday, Jan. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944212</guid>
+    </item>    <item>
+      <title>A Quarter Century in Orbit: Science Shaping Life on Earth and Beyond</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/a-quarter-century-in-orbit-science-shaping-life-on-earth-and-beyond/</link>
+      <description>
+        <![CDATA[For more than 25 years, humans have lived and worked continuously aboard the International Space Station, conducting research that is transforming life on Earth and shaping the future of exploration. From growing food and sequencing DNA to studying disease and simulating Mars missions, every experiment aboard the orbiting laboratory expands our understanding of how humans [&#8230;]]]>
+      </description>
+      <source:markdown>For more than 25 years, humans have lived and worked continuously aboard the International Space Station, conducting research that is transforming life on Earth and shaping the future of exploration. From growing food and sequencing DNA to studying disease and simulating Mars missions, every experiment aboard the orbiting laboratory expands our understanding of how humans \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=931214</guid>
+    </item>    <item>
+      <title>No fire sale for firewalls as memory shortages could push prices higher</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/no_fire_sale_on_firewalls/</link>
+      <description>
+        <![CDATA[<h4>In SEC filings, Fortinet and Palo Alto show shrinking product margins taking hold.</h4> <p>PCs and datacenters aren&#39;t the only devices that need DRAM. The global memory shortage is roiling the cybersecurity market, with the cost of firewalls expected to balloon and hit both customers and vendors in the pocketbook in 2026, according to research analysts Wedbush.…</p>]]>
+      </description>
+      <source:markdown>#### In SEC filings, Fortinet and Palo Alto show shrinking product margins taking hold.
+
+PCs and datacenters aren&#39;t the only devices that need DRAM. The global memory shortage is roiling the cybersecurity market, with the cost of firewalls expected to balloon and hit both customers and vendors in the pocketbook in 2026, according to research analysts Wedbush.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243920</guid>
+    </item>    <item>
+      <title>&#39;Violence-as-a-service&#39; suspect arrested in Iraq, extradition underway</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/violence_as_a_service_arrest/</link>
+      <description>
+        <![CDATA[<h4>Gang members &#39;systematically exploited children and young people,&#39; cops say</h4> <p>A 21-year-old Swedish man accused of being a key organizer of violence-as-a-service linked to the Foxtrot criminal network, which police say has recruited and exploited minors, has been arrested in Iraq.…</p>]]>
+      </description>
+      <source:markdown>#### Gang members &#39;systematically exploited children and young people,&#39; cops say
+
+A 21-year-old Swedish man accused of being a key organizer of violence-as-a-service linked to the Foxtrot criminal network, which police say has recruited and exploited minors, has been arrested in Iraq.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243918</guid>
+    </item>    <item>
+      <title>Zuck forms Meta Compute to pave the planet with &#39;hundreds of gigawatts&#39; of AI datacenters</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/meta_compute/</link>
+      <description>
+        <![CDATA[<h4>No wonder he&#39;s going nuclear</h4> <p>Meta has formed a new initiative called “Meta Compute” to oversee the planning, deployment, and operations of its growing fleet of AI datacenters.…</p>]]>
+      </description>
+      <source:markdown>#### No wonder he&#39;s going nuclear
+
+Meta has formed a new initiative called “Meta Compute” to oversee the planning, deployment, and operations of its growing fleet of AI datacenters.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243919</guid>
+    </item>    <item>
+      <title>Danish dev delights kid by turning floppy drive into easy TV remote</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/danish_dev_floppy_drive_remote/</link>
+      <description>
+        <![CDATA[<h4>Just insert a disk and the TV starts playing three-year-old’s favorite shows</h4> <p>Smart TV UIs are hard enough for adults to navigate, let alone preschoolers. When his three-year-old couldn&#39;t learn to navigate with a remote, one Danish computer scientist did what any enterprising creator would do: He turned an old floppy disk drive into a kid-friendly content controller that starts streams based on what disk you insert. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Just insert a disk and the TV starts playing three-year-old’s favorite shows
+
+Smart TV UIs are hard enough for adults to navigate, let alone preschoolers. When his three-year-old couldn&#39;t learn to navigate with a remote, one Danish computer scientist did what any enterprising creator would do: He turned an old floppy disk drive into a kid-friendly content controller that starts streams based on what disk you insert. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243917</guid>
+    </item>    <item>
+      <title>NASA Invites Media to Cover Artemis Mission from Johnson Space Center</title>
+      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-cover-artemis-mission-from-johnson-space-center/</link>
+      <description>
+        <![CDATA[Media accreditation is open to attend Artemis II mission activities at NASA’s Johnson Space Center in Houston. Johnson is where flight controllers in mission control will manage the test flight after liftoff of the first crewed Moon mission under the agency’s Artemis campaign. Targeted to launch no earlier Friday, Feb. 6, the Artemis II mission [&#8230;]]]>
+      </description>
+      <source:markdown>Media accreditation is open to attend Artemis II mission activities at NASA’s Johnson Space Center in Houston. Johnson is where flight controllers in mission control will manage the test flight after liftoff of the first crewed Moon mission under the agency’s Artemis campaign. Targeted to launch no earlier Friday, Feb. 6, the Artemis II mission \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944091</guid>
+    </item>    <item>
+      <title>Archaeologists Say They&#39;ve Unearthed a Massive Medieval Cargo Ship That&#39;s the Largest Vessel of Its Kind Ever Found</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/</link>
+      <description>
+        <![CDATA[Spotted off the coast of Denmark, the "Svaelget 2" is a cog, a kind of large trading vessel used in the Middle Ages. Experts say the 600-year-old discovery is "exceptionally well-preserved"]]>
+      </description>
+      <source:markdown>Spotted off the coast of Denmark, the &#34;Svaelget 2&#34; is a cog, a kind of large trading vessel used in the Middle Ages. Experts say the 600-year-old discovery is &#34;exceptionally well-preserved&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HtoMgo5Fb5mjUjTAbSUwm0Mx42w=/420x240/filters:focal(884x598:885x599)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fd/d1/fdd109a6-4726-46f6-89e0-2774da72e229/dykker_svlget2_dsc_4342red.jpeg" length="" type="" />
+    </item>    <item>
+      <title>OpenAI Says ChatGPT Health Can Understand Users&#39; Medical Data and Provide Personalized Answers to Their Questions</title>
+      <link>https://www.smithsonianmag.com/smart-news/openai-says-chatgpt-health-can-understand-users-medical-data-and-provide-personalized-answers-to-their-questions-180987989/</link>
+      <description>
+        <![CDATA[The new feature can give tailored responses based on medical records and wellness app data, according to ChatGPT’s maker. But some experts are concerned about privacy and worry that people may over-trust the chatbot]]>
+      </description>
+      <source:markdown>The new feature can give tailored responses based on medical records and wellness app data, according to ChatGPT’s maker. But some experts are concerned about privacy and worry that people may over-trust the chatbot</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/sh_KvdqGBkIfHryKEk9fIBRBHYc=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/85/c685ea2f-0c06-42e0-bd11-de81173a3515/chatgpt-health.jpg" length="" type="" />
+    </item>    <item>
+      <title>Apple hopes to save Siri from laughingstock status with infusion of Google Gemini</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/apple_taps_google_gemini_siri/</link>
+      <description>
+        <![CDATA[<h4>Partnership between behemoths raises questions about OpenAI&#39;s place at the iTable</h4> <p>It may finally be time to take AI on the iPhone siri-ously. Apple and Google on Monday announced a multi-year partnership that will see Apple Foundation Models standing on the shoulders of Google Gemini models, one that will return a small portion of the roughly $20 billion Google pays annually to be Apple&#39;s default search provider.…</p>]]>
+      </description>
+      <source:markdown>#### Partnership between behemoths raises questions about OpenAI&#39;s place at the iTable
+
+It may finally be time to take AI on the iPhone siri-ously. Apple and Google on Monday announced a multi-year partnership that will see Apple Foundation Models standing on the shoulders of Google Gemini models, one that will return a small portion of the roughly $20 billion Google pays annually to be Apple&#39;s default search provider.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243916</guid>
+    </item>    <item>
+      <title>Nvidia, Eli Lilly just say yes to making drugs together, using Vera Rubin GPUs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/nvidia_eli_lilly_ai_drug_lab/</link>
+      <description>
+        <![CDATA[<h4>If penicillin was discovered on moldy bread, who&#39;s to say the next miracle drug won&#39;t be born from AI hallucinations</h4> <p>Nvidia has teamed up with pharmaceutical heavyweight Eli Lilly to plow up to $1 billion into a research lab over the next five years to advance the development of foundation models for AI-assisted drug discovery.…</p>]]>
+      </description>
+      <source:markdown>#### If penicillin was discovered on moldy bread, who&#39;s to say the next miracle drug won&#39;t be born from AI hallucinations
+
+Nvidia has teamed up with pharmaceutical heavyweight Eli Lilly to plow up to $1 billion into a research lab over the next five years to advance the development of foundation models for AI-assisted drug discovery.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243915</guid>
+    </item>    <item>
+      <title>See the Record-Breaking Bluefin Tuna the Size of a Grizzly Bear That Sold for $3.2 Million at a Tokyo Fish Market</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-record-breaking-bluefin-tuna-the-size-of-a-grizzly-bear-that-sold-for-3-2-million-at-a-tokyo-fish-market-180987988/</link>
+      <description>
+        <![CDATA[The 535-pound fish, purchased by Japan's self-proclaimed "Tuna King," was sliced and shipped to sushi restaurants across the country]]>
+      </description>
+      <source:markdown>The 535-pound fish, purchased by Japan&#39;s self-proclaimed &#34;Tuna King,&#34; was sliced and shipped to sushi restaurants across the country</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6JYjBUKbz9piBYPQokBHlxsE5qo=/420x240/filters:focal(4014x2676:4015x2677)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/65/9665829d-f643-42fa-af90-3f6d7343c45e/gettyimages-2254141142.jpg" length="" type="" />
+    </item>    <item>
+      <title>PC shipments set to hit the buffers as AI guzzles memory</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/memory_shortages_price_hikes/</link>
+      <description>
+        <![CDATA[<h4>High-margin infrastructure kit takes precedence, leaving laptops and desktops wanting</h4> <p>Memory shortages will likely stunt PC shipments in 2026, as available supplies will not be able to meet demand thanks to memory makers chasing the lucrative AI infrastructure market instead.…</p>]]>
+      </description>
+      <source:markdown>#### High-margin infrastructure kit takes precedence, leaving laptops and desktops wanting
+
+Memory shortages will likely stunt PC shipments in 2026, as available supplies will not be able to meet demand thanks to memory makers chasing the lucrative AI infrastructure market instead.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243909</guid>
+    </item>    <item>
+      <title>2026 Civil Space Shortfall Ranking</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/2026-civil-space-shortfall-ranking/</link>
+      <description>
+        <![CDATA[NASA has identified a list of 32 technology shortfalls and invites you to give input on your critical technology needs using this feedback mechanism. Whether you’re part of the space technology community or an interested member of the public, your input is invaluable. By registering and providing your feedback, you could help inform of national space technology priorities. [&#8230;]]]>
+      </description>
+      <source:markdown>NASA has identified a list of 32 technology shortfalls and invites you to give input on your critical technology needs using this feedback mechanism. Whether you’re part of the space technology community or an interested member of the public, your input is invaluable. By registering and providing your feedback, you could help inform of national space technology priorities. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=944002</guid>
+    </item>    <item>
+      <title>Mall display crashes the vibe with Windows activation nag</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/mall_bork/</link>
+      <description>
+        <![CDATA[<h4>Digital signage is great, until it isn&#39;t</h4> <p><strong>Bork!Bork!Bork!</strong>  Windows activation is a tricky thing, particularly for digital signage that should be directing customers to in-store bargains but instead shows passersby that someone has yet to give Microsoft their pound of flesh.…</p>]]>
+      </description>
+      <source:markdown>#### Digital signage is great, until it isn&#39;t
+
+**Bork!Bork!Bork!**  Windows activation is a tricky thing, particularly for digital signage that should be directing customers to in-store bargains but instead shows passersby that someone has yet to give Microsoft their pound of flesh.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243911</guid>
+    </item>    <item>
+      <title>NASA Welcomes Portugal as 60th Artemis Accords Signatory</title>
+      <link>https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory/</link>
+      <description>
+        <![CDATA[Portugal is the latest nation to sign the Artemis Accords alongside 59 other countries in a commitment to advancing principles for the responsible exploration of the Moon, Mars, and beyond with NASA. “Portugal joins a cadre of nations building the framework for safe, transparent, and prosperous activity in space,” said NASA Administrator Jared Isaacman in [&#8230;]]]>
+      </description>
+      <source:markdown>Portugal is the latest nation to sign the Artemis Accords alongside 59 other countries in a commitment to advancing principles for the responsible exploration of the Moon, Mars, and beyond with NASA. “Portugal joins a cadre of nations building the framework for safe, transparent, and prosperous activity in space,” said NASA Administrator Jared Isaacman in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=943992</guid>
+    </item>    <item>
+      <title>Businesses in 2026: Maybe we should finally look into that AI security stuff</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/ai_security_wef_survey/</link>
+      <description>
+        <![CDATA[<h4>Survey finds security checks nearly doubled in a year as leaders wise up</h4> <p>The number of organizations that have implemented methods for identifying security risks in the AI tools they use has almost doubled in the space of a year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Survey finds security checks nearly doubled in a year as leaders wise up
+
+The number of organizations that have implemented methods for identifying security risks in the AI tools they use has almost doubled in the space of a year.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243913</guid>
+    </item>    <item>
+      <title>Don’t bother with the retailer’s website, says Google: Gemini can shop for you</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/google_gemini_agentic_ai_shopping_protocol/</link>
+      <description>
+        <![CDATA[<h4>You can check out anytime you like, but please don’t ever leave</h4> <p>Google is aiming to turn Gemini into a one-stop personal shopper with what it hopes will become a global standard for agentic AI commerce, and it&#39;s already persuaded major retailers to let Google handle transactions without sending users to their websites. …</p>]]>
+      </description>
+      <source:markdown>#### You can check out anytime you like, but please don’t ever leave
+
+Google is aiming to turn Gemini into a one-stop personal shopper with what it hopes will become a global standard for agentic AI commerce, and it&#39;s already persuaded major retailers to let Google handle transactions without sending users to their websites. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243912</guid>
+    </item>    <item>
+      <title>NASA Stennis Engineer Proud to Serve During NASA’s Return to the Moon</title>
+      <link>https://www.nasa.gov/image-article/richard-wear-proud-to-serve-during-return-to-the-moon/</link>
+      <description>
+        <![CDATA[Richard Wear calls it an honor to be working at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, during a historic time as NASA prepares to send astronauts around the Moon for the first time in more than 50 years on the Artemis II mission. “I have not stopped learning in the 15 years [&#8230;]]]>
+      </description>
+      <source:markdown>Richard Wear calls it an honor to be working at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, during a historic time as NASA prepares to send astronauts around the Moon for the first time in more than 50 years on the Artemis II mission. “I have not stopped learning in the 15 years \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=943822</guid>
+    </item>    <item>
+      <title>White Dwarf Star (Artist’s Concept)</title>
+      <link>https://www.nasa.gov/image-article/white-dwarf-star-artists-concept/</link>
+      <description>
+        <![CDATA[A smaller white dwarf star (left) pulls material from a larger star into a swirling accretion disk in this artist’s concept released Nov. 19, 2025, to illustrate the first use of NASA’s IXPE (Imaging X-ray Polarization Explorer) to study a white dwarf star. IXPE spent nearly one week focused on EX Hydrae, a white dwarf [&#8230;]]]>
+      </description>
+      <source:markdown>A smaller white dwarf star (left) pulls material from a larger star into a swirling accretion disk in this artist’s concept released Nov. 19, 2025, to illustrate the first use of NASA’s IXPE (Imaging X-ray Polarization Explorer) to study a white dwarf star. IXPE spent nearly one week focused on EX Hydrae, a white dwarf \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=943649</guid>
+    </item>    <item>
+      <title>IceWM soldiers on while Budgie jumps the Wayland ship</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/icewm_budgie_x_server/</link>
+      <description>
+        <![CDATA[<h4>Two new Linux GUIs – plus Phoenix, an experimental new X server in Zig</h4> <p>The new year brings releases from opposite ends of the Linux GUI spectrum: IceWM, an X11 window manager from the late 1990s, and Budgie, a newer full desktop environment that has gone Wayland-native.…</p>]]>
+      </description>
+      <source:markdown>#### Two new Linux GUIs – plus Phoenix, an experimental new X server in Zig
+
+The new year brings releases from opposite ends of the Linux GUI spectrum: IceWM, an X11 window manager from the late 1990s, and Budgie, a newer full desktop environment that has gone Wayland-native.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243908</guid>
+    </item>    <item>
+      <title>Could Leonardo da Vinci&#39;s DNA Be Hiding Inside One of His Renaissance Sketches?</title>
+      <link>https://www.smithsonianmag.com/smart-news/could-leonardo-da-vincis-dna-be-hiding-inside-one-of-his-renaissance-sketches-180987982/</link>
+      <description>
+        <![CDATA[Scientists have discovered male human DNA on a chalk drawing that may have been created by the famous artist and scientist. But they cannot definitively link the genetic material, nor the sketch, to Leonardo]]>
+      </description>
+      <source:markdown>Scientists have discovered male human DNA on a chalk drawing that may have been created by the famous artist and scientist. But they cannot definitively link the genetic material, nor the sketch, to Leonardo</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/O2qq5Hbpj4a_GEIPjT4dQ3UAE_k=/420x240/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/ad/99ad06a3-ade9-40bc-ac8c-3734727a916f/da-vinci-dna.jpg" length="" type="" />
+    </item>    <item>
+      <title>This Bizarre Fish Has a Hole in Its Head. The Creature Might Use It Like a Drum to Rock Out</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-bizarre-fish-has-a-hole-in-its-head-the-creature-might-use-it-like-a-drum-to-rock-out-180987970/</link>
+      <description>
+        <![CDATA[The rockhead, or deep-pitted, poacher may use its ribs to beat the inside of its head cavity to communicate with other creatures, according to a new study]]>
+      </description>
+      <source:markdown>The rockhead, or deep-pitted, poacher may use its ribs to beat the inside of its head cavity to communicate with other creatures, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xHyMr2BTfQQXKgwe-h4HDbIXOPI=/420x240/filters:focal(702x455:703x456)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/e2/85e21a57-8f35-40ea-b477-95cc9681cf0d/fish-head-views.webp" length="" type="" />
+    </item>    <item>
+      <title>Archaeologists Unearth Ancient War Trumpet That Once Struck Fear in the Hearts of Enemies on the Battlefield</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-ancient-war-trumpet-that-once-struck-fear-in-the-hearts-of-enemies-on-the-battlefield-180987975/</link>
+      <description>
+        <![CDATA[Known as a carnyx, the instrument is only the third of its kind to be found in Britain. It was discovered in the territory of the Iceni tribe, which fought the Romans under the leadership of the queen Boudicca]]>
+      </description>
+      <source:markdown>Known as a carnyx, the instrument is only the third of its kind to be found in Britain. It was discovered in the territory of the Iceni tribe, which fought the Romans under the leadership of the queen Boudicca</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rkNEqYY4XCxcuvrFQmSGgOP0caM=/420x240/filters:focal(2764x1843:2765x1844)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fa/c7/fac70dde-c09e-4f72-843b-f037fd92c083/img_0008.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Block CISO: We red-teamed our own AI agent to run an infostealer on an employee laptop</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/block_ai_agent_goose/</link>
+      <description>
+        <![CDATA[<h4>Agents must be &#39;safer and better than humans,&#39; James Nettesheim tells The Reg</h4> <p><strong>exclusive</strong>  When it comes to security, AI agents are like self-driving cars, according to Block Chief Information Security Officer James Nettesheim.…</p>]]>
+      </description>
+      <source:markdown>#### Agents must be &#39;safer and better than humans,&#39; James Nettesheim tells The Reg
+
+**exclusive**  When it comes to security, AI agents are like self-driving cars, according to Block Chief Information Security Officer James Nettesheim.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243907</guid>
+    </item>    <item>
       <title>The DEC PDP-10</title>
       <link>https://www.osnews.com/story/144171/the-dec-pdp-10/</link>
       <description>
@@ -101,11 +516,11 @@ Microsoft&#39;s latest Windows Insider release introduces a policy allowing admi
       <title>Infamous BreachForums forum breached, spilling data on 325K users</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/12/breachforums_breach/</link>
       <description>
-        <![CDATA[<h4>Website built around buying and selling stolen data has lost control of its own</h4> <p>BreachForums, the serially resurrected cybercrime marketplace, has tripped over itself after a data breach spilled details tied to about 324,000 user accounts.…</p>]]>
+        <![CDATA[<h4>Website built around buying and selling stolen data has lost control of its own</h4> <p><strong>Updated</strong>  BreachForums, the serially resurrected cybercrime marketplace, has tripped over itself after a data breach spilled details tied to about 324,000 user accounts.…</p>]]>
       </description>
       <source:markdown>#### Website built around buying and selling stolen data has lost control of its own
 
-BreachForums, the serially resurrected cybercrime marketplace, has tripped over itself after a data breach spilled details tied to about 324,000 user accounts.…</source:markdown>
+**Updated**  BreachForums, the serially resurrected cybercrime marketplace, has tripped over itself after a data breach spilled details tied to about 324,000 user accounts.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243903</guid>
     </item>    <item>
       <title>Hubble Spies Stellar Blast Setting Clouds Ablaze</title>
@@ -272,11 +687,11 @@ India’s government has denied that it is working on rules that would require s
       <title>AI industry insiders launch site to poison the data that feeds them</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/</link>
       <description>
-        <![CDATA[<h4>Poison Fountain project seeks allies to fight the power</h4> <p>Alarmed by what companies are building with artificial intelligence models, a handful of industry insiders are calling for those opposed to the current state of affairs to undertake a mass data poisoning effort to undermine the technology.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Poison Fountain project seeks allies to fight the power</h4> <p><strong>exclusive</strong>  Alarmed by what companies are building with artificial intelligence models, a handful of industry insiders are calling for those opposed to the current state of affairs to undertake a mass data poisoning effort to undermine the technology.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### Poison Fountain project seeks allies to fight the power
 
-Alarmed by what companies are building with artificial intelligence models, a handful of industry insiders are calling for those opposed to the current state of affairs to undertake a mass data poisoning effort to undermine the technology.…</source:markdown>
+**exclusive**  Alarmed by what companies are building with artificial intelligence models, a handful of industry insiders are calling for those opposed to the current state of affairs to undertake a mass data poisoning effort to undermine the technology.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243894</guid>
     </item>    <item>
       <title>Budgie 10.10 released</title>
@@ -3564,351 +3979,6 @@ La Poste, France’s postal service, is largely offline, possibly due to an unex
 
 Japan’s Aerospace Exploration Agency (JAXA) has created a Special Task Force to investigate the failed launch of its H3 rocket on Monday.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243712</guid>
-    </item>    <item>
-      <title>Holidays in Space: 25 Years of Space Station Celebrations</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-celebrates-25-years-of-holidays-in-space/</link>
-      <description>
-        <![CDATA[In the quarter century that humans have lived and worked aboard the International Space Station, astronauts and visitors from around the world have celebrated countless holidays more than 250 miles above Earth while traveling 17,500 miles per hour. Crews have marked Thanksgiving, Christmas and Hanukkah, New Year’s, birthdays, and national holidays as they circle the [&#8230;]]]>
-      </description>
-      <source:markdown>In the quarter century that humans have lived and worked aboard the International Space Station, astronauts and visitors from around the world have celebrated countless holidays more than 250 miles above Earth while traveling 17,500 miles per hour. Crews have marked Thanksgiving, Christmas and Hanukkah, New Year’s, birthdays, and national holidays as they circle the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=935289</guid>
-    </item>    <item>
-      <title>Poisoned WhatsApp API package steals messages and accounts</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/whatsapp_npm_package_message_steal/</link>
-      <description>
-        <![CDATA[<h4>And it&#39;s especially dangerous because the code works</h4> <p>A malicious npm package with more than 56,000 downloads masquerades as a working WhatsApp Web API library, and then it steals messages, harvests credentials and contacts, and hijacks users&#39; WhatsApp accounts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### And it&#39;s especially dangerous because the code works
-
-A malicious npm package with more than 56,000 downloads masquerades as a working WhatsApp Web API library, and then it steals messages, harvests credentials and contacts, and hijacks users&#39; WhatsApp accounts.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243711</guid>
-    </item>    <item>
-      <title>Palo Alto&#39;s new Google Cloud deal boosts AI integration, could save on cloud costs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/palo_alto_google_cloud_ai_integration/</link>
-      <description>
-        <![CDATA[<h4>SEC filings show the outfit cut projected 2027 cloud purchase commitments by $114M</h4> <p>Security vendor Palo Alto Networks is expanding its Google Cloud partnership, saying it will move &#34;key internal workloads&#34; onto the Chocolate Factory&#39;s infrastructure. The outfit also claims it is tightening integrations between its security tools and Google Cloud to deliver what it calls a &#34;unified&#34; security experience. At the same time, Palo Alto may trim its own cloud purchase commitments.…</p>]]>
-      </description>
-      <source:markdown>#### SEC filings show the outfit cut projected 2027 cloud purchase commitments by $114M
-
-Security vendor Palo Alto Networks is expanding its Google Cloud partnership, saying it will move &#34;key internal workloads&#34; onto the Chocolate Factory&#39;s infrastructure. The outfit also claims it is tightening integrations between its security tools and Google Cloud to deliver what it calls a &#34;unified&#34; security experience. At the same time, Palo Alto may trim its own cloud purchase commitments.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243706</guid>
-    </item>    <item>
-      <title>This Aerospace Engineer Just Became the First Wheelchair User to Travel to Space</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-aerospace-engineer-just-became-the-first-wheelchair-user-to-travel-to-space-180987914/</link>
-      <description>
-        <![CDATA[A brief commercial flight with space tourism company Blue Origin made Michaela "Michi" Benthaus' childhood dream come true]]>
-      </description>
-      <source:markdown>A brief commercial flight with space tourism company Blue Origin made Michaela &#34;Michi&#34; Benthaus&#39; childhood dream come true</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2TY60VqE4XCEB3QdVchsV51rnA0=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/a0/58a052ed-9fb1-4c5b-b064-e3b95c479f1a/ns37_crewtowerportrait.webp" length="" type="" />
-    </item>    <item>
-      <title>Sentinels in the Sky: 50 Years of GOES Satellite Observations</title>
-      <link>https://science.nasa.gov/science-research/earth-science/sentinels-in-the-sky-50-years-of-goes-satellite-observations/</link>
-      <description>
-        <![CDATA[the development and evolution of NOAA’s Geostationary Operational Environmental Satellites (GOES) has been a major achievement for weather forecasting. For 50 years, GOES have kept a constant vigil over the Western Hemisphere and monitored the Sun and the near-Earth environment.]]>
-      </description>
-      <source:markdown>the development and evolution of NOAA’s Geostationary Operational Environmental Satellites (GOES) has been a major achievement for weather forecasting. For 50 years, GOES have kept a constant vigil over the Western Hemisphere and monitored the Sun and the near-Earth environment.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/sentinels-in-the-sky-50-years-of-goes-satellite-observations/</guid>
-    </item>    <item>
-      <title>SoftBank scrambling to come up with $22.5B in OpenAI funding before New Year</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/softbank_funding_openai/</link>
-      <description>
-        <![CDATA[<h4>Masayoshi Son better hope he made Santa&#39;s nice list</h4> <p>Japanese tech investment giant SoftBank needs to secure $22.5 billion before the end of the year to make good on its commitments to AI partner OpenAI.…</p>]]>
-      </description>
-      <source:markdown>#### Masayoshi Son better hope he made Santa&#39;s nice list
-
-Japanese tech investment giant SoftBank needs to secure $22.5 billion before the end of the year to make good on its commitments to AI partner OpenAI.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243709</guid>
-    </item>    <item>
-      <title>Two Towering Statues of an Ancient Egyptian Pharaoh Have Been Restored at the Entrance of His Temple After 3,000 Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/two-towering-statues-of-an-ancient-egyptian-pharaoh-have-been-restored-at-the-entrance-of-his-temple-after-3000-years-180987913/</link>
-      <description>
-        <![CDATA[Known as the Colossi of Memnon, the statues of Amenhotep III both stand at more than 40 feet tall. Experts have been working for two decades to reassemble them]]>
-      </description>
-      <source:markdown>Known as the Colossi of Memnon, the statues of Amenhotep III both stand at more than 40 feet tall. Experts have been working for two decades to reassemble them</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q7GIwlBnSFbr1ulYsCDWg5mvpj0=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/e9/4ae94fc3-50e5-4940-92ea-a4a3724a97cc/gettyimages-2251277401.jpg" length="" type="" />
-    </item>    <item>
-      <title>Keeping Up with PACE: Summary of the 2025 PAC3 Meeting</title>
-      <link>https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/</link>
-      <description>
-        <![CDATA[Introduction Launched in Feb. 2024, NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission is a cornerstone of Earth system science designed to deepen our understanding of how these environmental and biological components come together to influence our climate, carbon cycle, and ecosystems. PACE has funded three supporting components: the PACE Postlaunch Airborne eXperiment (PACE–PAX), the […]]]>
-      </description>
-      <source:markdown>Introduction Launched in Feb. 2024, NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission is a cornerstone of Earth system science designed to deepen our understanding of how these environmental and biological components come together to influence our climate, carbon cycle, and ecosystems. PACE has funded three supporting components: the PACE Postlaunch Airborne eXperiment (PACE–PAX), the \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/</guid>
-    </item>    <item>
-      <title>Spy turned startup CEO: &#39;The WannaCry of AI will happen&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/zafran_security_ceo/</link>
-      <description>
-        <![CDATA[<h4>Ah, the good old days when 0-day development took a year</h4> <p><strong>Interview</strong>  &#34;In my past life, it would take us 360 days to develop an amazing zero day,&#34; Zafran Security CEO Sanaz Yashar said.…</p>]]>
-      </description>
-      <source:markdown>#### Ah, the good old days when 0-day development took a year
-
-**Interview**  &#34;In my past life, it would take us 360 days to develop an amazing zero day,&#34; Zafran Security CEO Sanaz Yashar said.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243707</guid>
-    </item>    <item>
-      <title>Sentinel-6B Extends Global Ocean Height Record</title>
-      <link>https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/</link>
-      <description>
-        <![CDATA[Introduction On November 16, 2025, the Sentinel-6B satellite launched from Vandenberg Space Force Base (VSFB) in California. The mission is a partnership between NASA, the National Oceanic and Atmospheric Administration (NOAA), and several European partners – the European Space Agency (ESA), the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT), the French Centre National […]]]>
-      </description>
-      <source:markdown>Introduction On November 16, 2025, the Sentinel-6B satellite launched from Vandenberg Space Force Base (VSFB) in California. The mission is a partnership between NASA, the National Oceanic and Atmospheric Administration (NOAA), and several European partners – the European Space Agency (ESA), the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT), the French Centre National \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/</guid>
-    </item>    <item>
-      <title>Elementary OS 8.1 released</title>
-      <link>https://www.osnews.com/story/144056/elementary-os-8-1-released/</link>
-      <description>
-        <![CDATA[Elementary OS, the user-friendly Linux distribution with its own unique desktop environment and applications, just released elementary OS 8.1. Its minor version number belies just how big of a punch this update packs, so don&#8217;t be fooled here. We released elementary OS 8 last November with a new Secure Session—powered by Wayland—that ensures applications respect your privacy and consent, a brand new Dock with productive multitasking and window management features, expanded access to cross-platform apps, a revamped updates experience, and new features and settings that empower our diverse community through Inclusive Design. Over the last year we’ve continued to build upon that work to deliver new features and fix issues based on your feedback, plus we’ve improved support for a range of devices including HiDPI and Multi-touch devices. ↫ Danielle Foré at the elementary OS blog The biggest change from a lower-level perspective is that elementary OS 8.1 changes the default session to Wayland, leaving the X11 session as a fallback in case of issues. Since the release of elementary OS 8, a ton of progress has been made in improving the Wayland session, fixing remaining issues, and so on, and the team now feels it&#8217;s ready to serve as the default session. Related to this is a new security feature in the Wayland session where the rest of the screen gets dimmed when a password dialog pops up, and other windows can&#8217;t steal focus. The switch to Wayland also allowed the team to bring fractional scaling to elementary OS with 8.1. Elementary OS is based on Ubuntu, and this new release brings an updated Hardware Enablement stack, which brings things like Linux 6.14 and Mesa 25. This is also the first release with support for ARM64 devices that can use UEFI, which includes quite a few popular ARM devices. Of course, the ARM64 version comes as a separate ISO. Furthermore, there&#8217;s a ton of improvements to the dock &#8211; which was released with 8 as a brand-new replacement for the venerable Plank &#8211; including bringing back some features that were lost in the transition from Plank to the new dock. Animations are smoother, elementary OS&#8217; application store has seen a slew of improvements from clearer licensing information, to a controller icon for games that support them, to a label identifying applications that offer in-app purchases, and more. There&#8217;s a lot more here, like the accessibility improvements we talked about a few months ago, and tons more.]]>
-      </description>
-      <source:markdown>Elementary OS, the user-friendly Linux distribution with its own unique desktop environment and applications, just released elementary OS 8.1. Its minor version number belies just how big of a punch this update packs, so don’t be fooled here. We released elementary OS 8 last November with a new Secure Session—powered by Wayland—that ensures applications respect your privacy and consent, a brand new Dock with productive multitasking and window management features, expanded access to cross-platform apps, a revamped updates experience, and new features and settings that empower our diverse community through Inclusive Design. Over the last year we’ve continued to build upon that work to deliver new features and fix issues based on your feedback, plus we’ve improved support for a range of devices including HiDPI and Multi-touch devices. ↫ Danielle Foré at the elementary OS blog The biggest change from a lower-level perspective is that elementary OS 8.1 changes the default session to Wayland, leaving the X11 session as a fallback in case of issues. Since the release of elementary OS 8, a ton of progress has been made in improving the Wayland session, fixing remaining issues, and so on, and the team now feels it’s ready to serve as the default session. Related to this is a new security feature in the Wayland session where the rest of the screen gets dimmed when a password dialog pops up, and other windows can’t steal focus. The switch to Wayland also allowed the team to bring fractional scaling to elementary OS with 8.1. Elementary OS is based on Ubuntu, and this new release brings an updated Hardware Enablement stack, which brings things like Linux 6.14 and Mesa 25. This is also the first release with support for ARM64 devices that can use UEFI, which includes quite a few popular ARM devices. Of course, the ARM64 version comes as a separate ISO. Furthermore, there’s a ton of improvements to the dock – which was released with 8 as a brand-new replacement for the venerable Plank – including bringing back some features that were lost in the transition from Plank to the new dock. Animations are smoother, elementary OS’ application store has seen a slew of improvements from clearer licensing information, to a controller icon for games that support them, to a label identifying applications that offer in-app purchases, and more. There’s a lot more here, like the accessibility improvements we talked about a few months ago, and tons more.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144056</guid>
-    </item>    <item>
-      <title>A New Way to Boost the Powerhouses of the Cell Might Combat Aging and Degenerative Diseases, Lab Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-new-way-to-boost-the-powerhouses-of-the-cell-might-combat-aging-and-degenerative-diseases-lab-study-suggests-180987873/</link>
-      <description>
-        <![CDATA[Creating mini mitochondria factories helped recharge damaged cells in a dish, providing proof-of-concept work that could pave the way to new regenerative medicine therapies]]>
-      </description>
-      <source:markdown>Creating mini mitochondria factories helped recharge damaged cells in a dish, providing proof-of-concept work that could pave the way to new regenerative medicine therapies</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/53e7cxZUFgbJ9W8tKEfjQFQDUnU=/420x240/filters:focal(318x318:319x319)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8f/bf/8fbff039-3a1d-4161-a631-b1164284adf8/news-bmen-gaharwarmito-12nov2025.jpg" length="" type="" />
-    </item>    <item>
-      <title>One of the George Washington Portraits That Inspired the Image on the $1 Bill Could Sell for Up to $1 Million</title>
-      <link>https://www.smithsonianmag.com/smart-news/one-of-the-george-washington-portraits-that-inspired-the-image-on-the-1-bill-could-sell-for-up-to-1-million-180987909/</link>
-      <description>
-        <![CDATA[Artist Gilbert Stuart made numerous paintings of the first president. The copy that's up for sale was commissioned by James Madison in 1804]]>
-      </description>
-      <source:markdown>Artist Gilbert Stuart made numerous paintings of the first president. The copy that&#39;s up for sale was commissioned by James Madison in 1804</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tU5VQ_jcUokCVCp_7i4Tfooq8sg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/64/46649d67-3731-4f7b-90de-ccc895fb26aa/washington.jpg" length="" type="" />
-    </item>    <item>
-      <title>NASA Kennedy Top 20 Stories of 2025</title>
-      <link>https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-20-stories-of-2025/</link>
-      <description>
-        <![CDATA[Teams at NASA’s Kennedy Space Center in Florida spent 2025 preparing the launch vehicle and its powerhouse SLS (Space Launch System) rocket to launch four astronauts around the Moon for Artemis II in early 2026. The center also celebrated milestones by conducting science experiments at the International Space Station to studying the Sun’s solar wind [&#8230;]]]>
-      </description>
-      <source:markdown>Teams at NASA’s Kennedy Space Center in Florida spent 2025 preparing the launch vehicle and its powerhouse SLS (Space Launch System) rocket to launch four astronauts around the Moon for Artemis II in early 2026. The center also celebrated milestones by conducting science experiments at the International Space Station to studying the Sun’s solar wind \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=939758</guid>
-    </item>    <item>
-      <title>Nvidia wasting no time to flog H200s in China</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/nvidia_flog_h200s_china/</link>
-      <description>
-        <![CDATA[<h4>Shipments still waiting on approval from Beijing</h4> <p>Now that it can legally export them, Nvidia has reportedly informed its Chinese customers that it&#39;ll begin shipping H200s, one of its most potent graphics accelerators for AI training and inference, in time for Chinese New Year. One caveat: Beijing could spike the deal before then.…</p>]]>
-      </description>
-      <source:markdown>#### Shipments still waiting on approval from Beijing
-
-Now that it can legally export them, Nvidia has reportedly informed its Chinese customers that it&#39;ll begin shipping H200s, one of its most potent graphics accelerators for AI training and inference, in time for Chinese New Year. One caveat: Beijing could spike the deal before then.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243703</guid>
-    </item>    <item>
-      <title>Hacktivists scrape 86M Spotify tracks, claim their aim is to preserve culture</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/hacktivists_scrape_songs_spotify/</link>
-      <description>
-        <![CDATA[<h4>Anna’s Archive’s idealism doesn’t quite survive its own blog post</h4> <p>What would happen to the world&#39;s music collections if streaming services disappeared? One hacktivist group says it has a solution: scrape around 300 terabytes of music and metadata from Spotify and offer it up for free as what it calls the world’s first “fully open” music preservation archive.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Anna’s Archive’s idealism doesn’t quite survive its own blog post
-
-What would happen to the world&#39;s music collections if streaming services disappeared? One hacktivist group says it has a solution: scrape around 300 terabytes of music and metadata from Spotify and offer it up for free as what it calls the world’s first “fully open” music preservation archive.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243704</guid>
-    </item>    <item>
-      <title>This Lemon-Shaped Planet Has an Atmosphere Unlike Anything Astronomers Have Ever Seen</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-lemon-shaped-planet-has-an-atmosphere-unlike-anything-astronomers-have-ever-seen-180987902/</link>
-      <description>
-        <![CDATA[The James Webb Space Telescope detected an atmosphere rich with carbon and helium, which is unexpected on this hot planet roughly 2,000 light-years from Earth]]>
-      </description>
-      <source:markdown>The James Webb Space Telescope detected an atmosphere rich with carbon and helium, which is unexpected on this hot planet roughly 2,000 light-years from Earth</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BTHmYAajfn_ddMT5SQtDQ84P144=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/7e/a77e6fc3-6016-4d1a-b6b8-a74e0edff9f8/full_res_for_display.jpg" length="" type="" />
-    </item>    <item>
-      <title>Conman and wannabe MI6 agent must repay £125k to romance scam victim</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/career_conman_and_wannabe_mi6/</link>
-      <description>
-        <![CDATA[<h4>Judge says former most-wanted fugitive Mark Acklom will likely never return to the UK</h4> <p>The UK&#39;s Crown Prosecution Service (CPS) says a fraudster who claimed to be part of MI6 must repay £125,000 ($168,000) to a former love interest that he conned.…</p>]]>
-      </description>
-      <source:markdown>#### Judge says former most-wanted fugitive Mark Acklom will likely never return to the UK
-
-The UK&#39;s Crown Prosecution Service (CPS) says a fraudster who claimed to be part of MI6 must repay £125,000 ($168,000) to a former love interest that he conned.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243702</guid>
-    </item>    <item>
-      <title>A Dance of Galaxies</title>
-      <link>https://www.nasa.gov/image-article/a-dance-of-galaxies/</link>
-      <description>
-        <![CDATA[NASA’s James Webb Space Telescope captured two nearby dwarf galaxies interacting with each other in this image released on Dec. 2, 2025. Dwarf galaxies can give us insights into galaxies in the early universe, which were thought to have less mass than galaxies like the Milky Way, and also contain a lot of gas, relatively [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s James Webb Space Telescope captured two nearby dwarf galaxies interacting with each other in this image released on Dec. 2, 2025. Dwarf galaxies can give us insights into galaxies in the early universe, which were thought to have less mass than galaxies like the Milky Way, and also contain a lot of gas, relatively \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=939604</guid>
-    </item>    <item>
-      <title>NASA Armstrong Advances Flight Research and Innovation in 2025</title>
-      <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-advances-flight-research-and-innovation-in-2025/</link>
-      <description>
-        <![CDATA[In 2025, NASA’s Armstrong Flight Research Center in Edwards, California, advanced work across aeronautics, Earth science, exploration technologies, and emerging aviation systems, reinforcing its role as one of the agency’s primary test sites for aeronautics research. From early concept evaluations to full flight test campaigns, teams enhanced measurement tools, refined safety systems, and generated data [&#8230;]]]>
-      </description>
-      <source:markdown>In 2025, NASA’s Armstrong Flight Research Center in Edwards, California, advanced work across aeronautics, Earth science, exploration technologies, and emerging aviation systems, reinforcing its role as one of the agency’s primary test sites for aeronautics research. From early concept evaluations to full flight test campaigns, teams enhanced measurement tools, refined safety systems, and generated data \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=939478</guid>
-    </item>    <item>
-      <title>What the Linux desktop really needs to challenge Windows</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/what_linux_desktop_really_needs/</link>
-      <description>
-        <![CDATA[<h4>Wasn&#39;t 2025 the year it happened? Yes. No. Answers on a Christmas card</h4> <p><strong>Opinion</strong>  I&#39;ve run Linux desktops since the big interface question was whether to use Korn or Bash for your shell. Before that, I&#39;d used Unix desktops such as Visix Looking Glass, Sun OpenWindows, and SCO&#39;s infamous Open <span class="strike">Deathtrap</span> Desktop.…</p>]]>
-      </description>
-      <source:markdown>#### Wasn&#39;t 2025 the year it happened? Yes. No. Answers on a Christmas card
-
-**Opinion**  I&#39;ve run Linux desktops since the big interface question was whether to use Korn or Bash for your shell. Before that, I&#39;d used Unix desktops such as Visix Looking Glass, Sun OpenWindows, and SCO&#39;s infamous Open Deathtrap Desktop.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243541</guid>
-    </item>    <item>
-      <title>Amifuse: native Amiga filesystems on macOS and Linux with FUSE</title>
-      <link>https://www.osnews.com/story/144054/amifuse-native-amiga-filesystems-on-macos-and-linux-with-fuse/</link>
-      <description>
-        <![CDATA[Mount Amiga filesystem images on macOS/Linux using native AmigaOS filesystem handlers via FUSE. amifuse runs actual Amiga filesystem drivers (like PFS3) through m68k CPU emulation, allowing you to read Amiga hard disk images without relying on reverse-engineered implementations. ↫ Amifuse GitHub page Absolutely wild.]]>
-      </description>
-      <source:markdown>Mount Amiga filesystem images on macOS/Linux using native AmigaOS filesystem handlers via FUSE. amifuse runs actual Amiga filesystem drivers (like PFS3) through m68k CPU emulation, allowing you to read Amiga hard disk images without relying on reverse-engineered implementations. ↫ Amifuse GitHub page Absolutely wild.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144054</guid>
-    </item>    <item>
-      <title>This Mama Polar Bear Adopted a Young Cub—and You Can Track the Family as They Wander Around the Hudson Bay</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-mama-polar-bear-adopted-a-young-cub-and-you-can-track-the-family-as-they-wander-around-the-hudson-bay-180987906/</link>
-      <description>
-        <![CDATA[The rare event marks the 13th known instance of adoption within this well-studied group of polar bears living in the western Hudson Bay area]]>
-      </description>
-      <source:markdown>The rare event marks the 13th known instance of adoption within this well-studied group of polar bears living in the western Hudson Bay area</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/18P829t5kx6iImHDhM7-WMPR5BE=/420x240/filters:focal(2430x1620:2431x1621)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/c3/f1c3d9f5-bcbc-42c5-b415-d2db51061ac3/dave_sandford_mom__cubs_008.jpg" length="" type="" />
-    </item>    <item>
-      <title>EU offers UK early gift: Data adequacy until 2031</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/eu_uk_data_adequacy/</link>
-      <description>
-        <![CDATA[<h4>Relief for those dealing with data pipelines between the two, but move has its critics</h4> <p>The EU has extended its adequacy decision, allowing data sharing with and from the UK under the General Data Protection Regulation for at least six more years.…</p>]]>
-      </description>
-      <source:markdown>#### Relief for those dealing with data pipelines between the two, but move has its critics
-
-The EU has extended its adequacy decision, allowing data sharing with and from the UK under the General Data Protection Regulation for at least six more years.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243700</guid>
-    </item>    <item>
-      <title>UNIX v4 tape successfully recovered</title>
-      <link>https://www.osnews.com/story/144052/unix-v4-tape-successfully-recovered/</link>
-      <description>
-        <![CDATA[Almost two months ago, a tape containing UNIX v4 was found. It was sent off to the Computer History Museum where bitsavers.org would handle the further handling of the tape, and this process has now completed. You can download the contents of the tape from Archive.org &#8211; which is sadly down at the moment &#8211; while squoze.net has a readme with instructions on how to actually run the copy of UNIX v4 recovered from the tape.]]>
-      </description>
-      <source:markdown>Almost two months ago, a tape containing UNIX v4 was found. It was sent off to the Computer History Museum where bitsavers.org would handle the further handling of the tape, and this process has now completed. You can download the contents of the tape from Archive.org – which is sadly down at the moment – while squoze.net has a readme with instructions on how to actually run the copy of UNIX v4 recovered from the tape.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144052</guid>
-    </item>    <item>
-      <title>How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA</title>
-      <link>https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/</link>
-      <description>
-        <![CDATA[Research into how a father’s choices — such as diet, exercise, stress, nicotine use — may transfer traits to his children has become impossible to ignore.            <p>The post <a href="https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/" target="_blank">How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Research into how a father’s choices — such as diet, exercise, stress, nicotine use — may transfer traits to his children has become impossible to ignore.
-
-The post [How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=157554</guid>
-    </item>    <item>
-      <title>Vultures rake our claws over COSMIC as Pop OS 24.04 LTS with &#39;Epoch 1&#39; emerges</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/popos_2404_cosmic_epoch_1/</link>
-      <description>
-        <![CDATA[<h4>Even with the latest Gparted Live, it&#39;s not easy to dual boot – but it&#39;s worth the hassle</h4> <p><strong>Hands On</strong>  It&#39;s been a long time coming but version 1.0 of the first ground-up Rust-based desktop is here… and it is shaping up very well.…</p>]]>
-      </description>
-      <source:markdown>#### Even with the latest Gparted Live, it&#39;s not easy to dual boot – but it&#39;s worth the hassle
-
-**Hands On**  It&#39;s been a long time coming but version 1.0 of the first ground-up Rust-based desktop is here… and it is shaping up very well.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243693</guid>
-    </item>    <item>
-      <title>She Protested School Segregation as a Teenager. Now She&#39;s Being Honored With a Statue at the U.S. Capitol</title>
-      <link>https://www.smithsonianmag.com/smart-news/she-protested-school-segregation-as-a-teenager-now-shes-being-honored-with-a-statue-at-the-us-capitol-180987904/</link>
-      <description>
-        <![CDATA[Lawmakers gathered in the Capitol for the unveiling of a bronze statue honoring teenage civil rights activist Barbara Rose Johns]]>
-      </description>
-      <source:markdown>Lawmakers gathered in the Capitol for the unveiling of a bronze statue honoring teenage civil rights activist Barbara Rose Johns</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3N-MWEk9-llgI5dyktXb7og4ACo=/420x240/filters:focal(2250x1511:2251x1512)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/e8/b7e811c5-bb37-418c-ab5a-d3347fdb04cf/gettyimages-2251699375.jpg" length="" type="" />
-    </item>    <item>
-      <title>Around 1,000 systems compromised in ransomware attack on Romanian water agency</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/around_1000_systems_compromised_in/</link>
-      <description>
-        <![CDATA[<h4>On-site staff keep key systems working while all but one region battles with encrypted PCs</h4> <p>Romania&#39;s cybersecurity agency confirms a major ransomware attack on the country&#39;s water management administration has compromised around 1,000 systems, with work to remediate them still ongoing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### On-site staff keep key systems working while all but one region battles with encrypted PCs
-
-Romania&#39;s cybersecurity agency confirms a major ransomware attack on the country&#39;s water management administration has compromised around 1,000 systems, with work to remediate them still ongoing.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243699</guid>
-    </item>    <item>
-      <title>AI is rewriting how power flows through the datacenter</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/ai_power_datacenter/</link>
-      <description>
-        <![CDATA[<h4>Rising rack densities are driving changes from grid connection to chip-level delivery</h4> <p>Power semiconductors are soon set to become as vital as GPUs and CPUs in datacenters, handling the rapidly increasing loads forecast for AI infrastructure.…</p>]]>
-      </description>
-      <source:markdown>#### Rising rack densities are driving changes from grid connection to chip-level delivery
-
-Power semiconductors are soon set to become as vital as GPUs and CPUs in datacenters, handling the rapidly increasing loads forecast for AI infrastructure.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243634</guid>
-    </item>    <item>
-      <title>Europe gets serious about cutting digital umbilical cord with Uncle Sam&#39;s big tech</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/europe_gets_serious_about_cutting/</link>
-      <description>
-        <![CDATA[<h4>Public bodies migrate in the bloc as hyperscalers claim sovereignty</h4> <p><strong>Feature</strong>  Europe’s quest for digital sovereignty is hampered by a 90 per cent dependency on US cloud infrastructure, claims Cristina Caffarra, a competition expert and a driving force behind the Eurostack initiative.…</p>]]>
-      </description>
-      <source:markdown>#### Public bodies migrate in the bloc as hyperscalers claim sovereignty
-
-**Feature**  Europe’s quest for digital sovereignty is hampered by a 90 per cent dependency on US cloud infrastructure, claims Cristina Caffarra, a competition expert and a driving force behind the Eurostack initiative.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243526</guid>
-    </item>    <item>
-      <title>The Roomba failed because it just kind of sucked</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/irobot_opinion/</link>
-      <description>
-        <![CDATA[<h4>Something messy happens when the cat hairs of reality meet the shiny hype of smart tech</h4> <p><strong>Opinion</strong>  Asimov&#39;s Three Laws of Robotics are trumped by accountancy&#39;s First Law of Finance: you must make money. iRobot, the company behind the Roomba robot vacuum cleaner, is in Chapter 11 bankruptcy, with its Chinese manufacturing partner-cum-creditor poised to pick over the bones.…</p>]]>
-      </description>
-      <source:markdown>#### Something messy happens when the cat hairs of reality meet the shiny hype of smart tech
-
-**Opinion**  Asimov&#39;s Three Laws of Robotics are trumped by accountancy&#39;s First Law of Finance: you must make money. iRobot, the company behind the Roomba robot vacuum cleaner, is in Chapter 11 bankruptcy, with its Chinese manufacturing partner-cum-creditor poised to pick over the bones.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243663</guid>
-    </item>    <item>
-      <title>AI has pumped hyperscale capex, capacity – but how long can it last?</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/ai_hyperscale_capex_research/</link>
-      <description>
-        <![CDATA[<h4>Total operational capacity just keeps rising</h4> <p>Hyperscale datacenter operators nearly tripled their spending on infrastructure over the past three years in response to the AI craze, while the amount of operational capacity added each quarter has increased by 170 percent, with little sign so far of any slowdown.…</p>]]>
-      </description>
-      <source:markdown>#### Total operational capacity just keeps rising
-
-Hyperscale datacenter operators nearly tripled their spending on infrastructure over the past three years in response to the AI craze, while the amount of operational capacity added each quarter has increased by 170 percent, with little sign so far of any slowdown.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243692</guid>
-    </item>    <item>
-      <title>New boss was bad, his attitude was ugly, so the tech team pranked him good</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/who_me/</link>
-      <description>
-        <![CDATA[<h4>Mousey wouldn’t work, wah-wah-wah</h4> <p><strong>Who, Me?</strong>  Welcome to Christmas week at <em>The Register</em>, an occasion we’ll celebrate with another installment of Who, Me? It&#39;s the reader-contributed column in which we share your stories of workplace mistakes and mischief.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Mousey wouldn’t work, wah-wah-wah
-
-**Who, Me?**  Welcome to Christmas week at _The Register_, an occasion we’ll celebrate with another installment of Who, Me? It&#39;s the reader-contributed column in which we share your stories of workplace mistakes and mischief.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243680</guid>
-    </item>    <item>
-      <title>No, Raccoons Aren’t Pet-Ready (Yet)</title>
-      <link>https://www.npr.org/2025/12/22/nx-s1-5637566/pet-raccoon-science-history-future</link>
-      <description>
-        <![CDATA[Dogs are man’s best friend. And it’s no secret that we at <em>Short Wave</em> love cats (Regina has four)! Both of these iconic pets have been domesticated – evolved and adapted to live alongside humans – for millennia. And a <a href="https://pubmed.ncbi.nlm.nih.gov/41039604/"target="_blank"   >recent study</a> suggests that the common raccoon may be on its first steps towards joining them. <br/><br/>So how do scientists look for signs of domestication and what do those signs mean? And could <em>you</em> have a litter box trained raccoon in <em>your</em> lifetime? We talk to the study’s lead author, <a href="https://ualr.edu/news/expert/raffaela-lesch/"target="_blank"   >Raffaela Lesch</a>, to find out.<br/><br/><em>Interested in more animal science stories? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Dogs are man’s best friend. And it’s no secret that we at _Short Wave_ love cats (Regina has four)! Both of these iconic pets have been domesticated – evolved and adapted to live alongside humans – for millennia. And a [recent study](https://pubmed.ncbi.nlm.nih.gov/41039604/) suggests that the common raccoon may be on its first steps towards joining them.
-
-So how do scientists look for signs of domestication and what do those signs mean? And could _you_ have a litter box trained raccoon in _your_ lifetime? We talk to the study’s lead author, [Raffaela Lesch](https://ualr.edu/news/expert/raffaela-lesch/), to find out.
-
-_Interested in more animal science stories? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR3883153598.mp3?t=podcast&e=nx-s1-5637566&p=510351&d=883&size=14132498" length="14132498" type="audio/mpeg" />
-      <guid>cid://a01f8a5b-cde3-4f22-ab11-133015cbab27</guid>
-    </item>    <item>
-      <title>There’s so much stolen data in the world, South Korea will require face scans to buy a SIM</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/</link>
-      <description>
-        <![CDATA[<h4>SK Telecom&#39;s epic infosec fail will cost it another $1.5 billion</h4> <p>South Korea&#39;s government on Friday announced it will require local mobile carriers to verify the identity of new customers with facial recognition scans, in the hope of reducing scams.…</p>]]>
-      </description>
-      <source:markdown>#### SK Telecom&#39;s epic infosec fail will cost it another $1.5 billion
-
-South Korea&#39;s government on Friday announced it will require local mobile carriers to verify the identity of new customers with facial recognition scans, in the hope of reducing scams.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243696</guid>
-    </item>    <item>
-      <title>Through gritted teeth, Apple and Google allow alternative app stores in Japan</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/</link>
-      <description>
-        <![CDATA[<h4>PLUS: Debian supports Chinese chips ; Hong Kong’s Christmas Karaoke crackdown; Asahi admits it should have prevented hack; And more!</h4> <p><strong>APAC in Brief</strong>  Google and Apple last week started to allow developers of mobile applications to distribute their wares through third-party app stores and accept payments from alternative payment providers.…</p>]]>
-      </description>
-      <source:markdown>#### PLUS: Debian supports Chinese chips ; Hong Kong’s Christmas Karaoke crackdown; Asahi admits it should have prevented hack; And more!
-
-**APAC in Brief**  Google and Apple last week started to allow developers of mobile applications to distribute their wares through third-party app stores and accept payments from alternative payment providers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243695</guid>
     </item>
   </channel>
 </rss>
