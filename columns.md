@@ -358,5 +358,6 @@ description: Blogs, columns and snapshots from around the web.
 - [BZ Blog](https://blogsystem5.substack.com/feed)
 - [Joan Westenberg Blog](https://www.joanwestenberg.com/rss/)
 - [Indivisble Team blog](https://indivisibleteam.substack.com/feed/)
-
+- [Ivan Penchev blog](https://penchev.com/feed.xml)
+- [Marcus Oliveria blog](https://terminalroot.com/feed.xml)
 

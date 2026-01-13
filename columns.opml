@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>12 Jan 26 08:12 -0800</dateCreated>
+        <dateCreated>13 Jan 26 08:11 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -130,6 +130,7 @@
         <outline text="Inlets.dev, cloud tunneling" type="atom" xmlUrl="https://inlets.dev/feed.xml" htmlUrl="https://inlets.dev/feed.xml,https://inlets.dev/" description="The Cloud Native Tunnel" url="https://inlets.dev/feed.xml"></outline>
         <outline text="Innessential (Brint Simmons&#39; blog)" type="rss" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/" description="Brent Simmons’s weblog."></outline>
         <outline text="Ivan Enderlin&#39;s Medium Wasmer announcements" type="rss" xmlUrl="https://medium.com/feed/@hywan" htmlUrl="https://medium.com/@hywan?source=rss-d1a15a1c8914------2,https://medium.com/@hywan/feed" description="Stories by Ivan Enderlin on Medium" url="https://medium.com/@hywan/feed"></outline>
+        <outline text="Ivan Penchev blog" type="atom" xmlUrl="https://penchev.com/feed.xml" htmlUrl="https://penchev.com/feed.xml,https://penchev.com/" description="Ivan Penchev (Иван Пенчев) Software Engineer, thoughts and aspirations about code." url="https://penchev.com/feed.xml"></outline>
         <outline text="Iván Paredes Reséndiz blog, Mexico&#39;s cinema" type="rss" xmlUrl="https://www.palomitademaiz.net/feed/" htmlUrl="https://www.palomitademaiz.net/,https://www.palomitademaiz.net/feed/" description="- Sitio independiente de cine y TV." url="https://www.palomitademaiz.net/feed/"></outline>
         <outline text="JCharisTech Innovations and Inspirations" type="rss" xmlUrl="https://jcharistech.wordpress.com/feed/" htmlUrl="https://jcharistech.wordpress.com,https://jcharistech.wordpress.com/feed/" description="Innovations and Inspirations" url="https://jcharistech.wordpress.com/feed/"></outline>
         <outline text="JSON Feed blog" type="rss" xmlUrl="https://www.jsonfeed.org/feed.xml" htmlUrl="https://www.jsonfeed.org/"></outline>
@@ -181,6 +182,7 @@
         <outline text="Marc André Tanner blog (creator of vis editor)" type="rss" xmlUrl="https://www.brain-dump.org/index.xml" htmlUrl="https://www.brain-dump.org/,https://www.brain-dump.org/index.xml" description="Recent content on Marc André Tanner" url="https://www.brain-dump.org/index.xml"></outline>
         <outline text="Marcin Wichary at Medium" type="rss" xmlUrl="https://mwichary.medium.com/feed" htmlUrl="https://medium.com/@mwichary?source=rss-b55535a4ac78------2,https://medium.com/@mwichary/feed" description="Stories by Marcin Wichary on Medium" url="https://medium.com/@mwichary/feed"></outline>
         <outline text="Marco Arment blog" type="rss" xmlUrl="https://marco.org/rss" htmlUrl="https://marco.org/" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast."></outline>
+        <outline text="Marcus Oliveria blog" type="rss" xmlUrl="https://terminalroot.com/feed.xml" htmlUrl="https://terminalroot.com/,https://terminalroot.com/feed.xml" description="A little much about C++, Game Development, Programming and Web" url="https://terminalroot.com/feed.xml"></outline>
         <outline text="Margaret Atwood&#39;s substack" type="rss" xmlUrl="https://margaretatwood.substack.com/feed" htmlUrl="https://margaretatwood.substack.com,https://margaretatwood.substack.com/feed" description="Whatever comes into my addled, shrinking brain. " url="https://margaretatwood.substack.com/feed"></outline>
         <outline text="Marginallia log" type="rss" xmlUrl="https://www.marginalia.nu/log/index.xml" htmlUrl="https://www.marginalia.nu/log/,https://www.marginalia.nu/log/index.xml" description="Recent content in Weblog on marginalia.nu" url="https://www.marginalia.nu/log/index.xml"></outline>
         <outline text="Massively Parallel Procrastination" type="atom" xmlUrl="https://blog.fsck.com/feed/feed.xml" htmlUrl="https://blog.fsck.com/feed/feed.xml,https://blog.fsck.com/" description="I used to write more" url="https://blog.fsck.com/feed/feed.xml"></outline>
