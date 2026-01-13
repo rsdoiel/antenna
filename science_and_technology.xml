@@ -4,10 +4,162 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>13 Jan 26 09:35 -0800</lastBuildDate>
+    <lastBuildDate>13 Jan 26 15:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Memory shortage could push PC shipments to pre-pandemic lows</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/idc_pc_sales_memory_shortage_effects/</link>
+      <description>
+        <![CDATA[<h4>Could be back to 2016 levels</h4> <p>The rising cost of memory due to shortages is likely to persist into late 2027, driving higher device prices and lackluster configurations for PCs, tablets, and phones, IDC research manager Jitesh Ubrani told <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Could be back to 2016 levels
+
+The rising cost of memory due to shortages is likely to persist into late 2027, driving higher device prices and lackluster configurations for PCs, tablets, and phones, IDC research manager Jitesh Ubrani told _The Register_.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243942</guid>
+    </item>    <item>
+      <title>NASA’s Pandora Small Satellite Launched</title>
+      <link>https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/</link>
+      <description>
+        <![CDATA[In this photo from early January 2026, teams prepare to encapsulate NASA’s Pandora small satellite, NASA-sponsored Star-Planet Activity Research CubeSat (SPARCS), and the Black Hole Coded Aperture Telescope (BlackCAT) CubeSat, inside a SpaceX Falcon 9 payload fairing. A SpaceX Falcon 9 rocket carrying NASA’s Pandora small satellite lifted off at 5:44 a.m. PST Sunday, Jan. [&#8230;]]]>
+      </description>
+      <source:markdown>In this photo from early January 2026, teams prepare to encapsulate NASA’s Pandora small satellite, NASA-sponsored Star-Planet Activity Research CubeSat (SPARCS), and the Black Hole Coded Aperture Telescope (BlackCAT) CubeSat, inside a SpaceX Falcon 9 payload fairing. A SpaceX Falcon 9 rocket carrying NASA’s Pandora small satellite lifted off at 5:44 a.m. PST Sunday, Jan. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=944535</guid>
+    </item>    <item>
+      <title>Popular Python libraries used in Hugging Face models subject to poisoned metadata attack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/</link>
+      <description>
+        <![CDATA[<h4>The open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group</h4> <p>Vulnerabilities in popular AI and ML Python libraries used in Hugging Face models with tens of millions of downloads allow remote attackers to hide malicious code in metadata. The code then executes automatically when a file containing the poisoned metadata is loaded.…</p>]]>
+      </description>
+      <source:markdown>#### The open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group
+
+Vulnerabilities in popular AI and ML Python libraries used in Hugging Face models with tens of millions of downloads allow remote attackers to hide malicious code in metadata. The code then executes automatically when a file containing the poisoned metadata is loaded.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243941</guid>
+    </item>    <item>
+      <title>Biologists Reveal How Same-Sex Sexual Behavior May Have Given Some Primates an Evolutionary Advantage</title>
+      <link>https://www.smithsonianmag.com/smart-news/biologists-reveal-how-same-sex-sexual-behavior-may-have-given-some-primates-an-evolutionary-advantage-180988000/</link>
+      <description>
+        <![CDATA[Nonhuman primates like bonobos and chimpanzees might engage in same-sex sexual activities to strengthen bonds, particularly in harsh environments or within strict social structures, a new study suggests]]>
+      </description>
+      <source:markdown>Nonhuman primates like bonobos and chimpanzees might engage in same-sex sexual activities to strengthen bonds, particularly in harsh environments or within strict social structures, a new study suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tKcFVNP0QomH7wJGur2TxjNjQ58=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/2e/192ed545-e86d-4bed-af2c-98c2b72d3b08/rhesus_macaque_macaca_mulatta_mulatta_male_gokarna.jpg" length="" type="" />
+    </item>    <item>
+      <title>NASA, Department of Energy to Develop Lunar Surface Reactor by 2030</title>
+      <link>https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/</link>
+      <description>
+        <![CDATA[NASA, along with the U.S. Department of Energy (DOE), announced Tuesday a renewed commitment to their longstanding partnership to support the research and development of a fission surface power system for use on the Moon under the Artemis campaign and future NASA missions to Mars. A recently signed memorandum of understanding between the agencies solidifies [&#8230;]]]>
+      </description>
+      <source:markdown>NASA, along with the U.S. Department of Energy (DOE), announced Tuesday a renewed commitment to their longstanding partnership to support the research and development of a fission surface power system for use on the Moon under the Artemis campaign and future NASA missions to Mars. A recently signed memorandum of understanding between the agencies solidifies \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944554</guid>
+    </item>    <item>
+      <title>Can you turn Windows 95’s Windows 3.10-based pre-install environment into a full desktop without using Microsoft products?</title>
+      <link>https://www.osnews.com/story/144180/can-you-turn-windows-95s-windows-3-10-based-pre-install-environment-into-a-full-desktop-without-using-microsoft-products/</link>
+      <description>
+        <![CDATA[It&#8217;s no secret that the Windows 95 installer uses a heavily stripped-down Windows 3.10 runtime, but what can you actually do with it? How far can you take this runtime? Can it run Photoshop? It is a long-standing tradition for Microsoft to use a runtime copy of Windows as a part of Windows Setup. But the copy is so stripped-down, it cannot run anything but the setup program (winsetup.bin). OR IS IT? A mini-challenge for myself: create a semi-working desktop only based on runtime Windows 3.10 shipped with Windows 95 installer but not using any other Microsoft products. ↫ Nina Kalinina A crucial limitation here is that Kalinina is not allowing herself to use any additional Microsoft products, so the easy route of just copying missing DLLs and other files from a Windows 95 disk or whatever is not available to her; she has to source any needed files from other sources. This may seem impossible, but during those days, tons of Windows (and even DOS) applications would ship with various Microsoft DLLs included, so there are definitely places to get Windows DLLs that aren&#8217;t coming directly from Microsoft. As an example, since there&#8217;s no shell of any kind included in the stripped-down Windows 3.10 runtime, Kalinina tried Calmira and WinBar, which won&#8217;t work without a few DLLs. Where to get them if you can&#8217;t get them straight from Microsoft? Well, it turns out programs compiled with later version of MSVC would include several of these needed DLLs, and AutoCad R12 was one of them. WinBar would now start and work, and while Calmira would install, it didn&#8217;t work because it needs the Windows Multimedia Subsystem, which don&#8217;t seem to be included in anything non-Microsoft. It turns out you can take this approach remarkably far. Things like Calculator and Notepad will work, but Pain or Paintbrush will not. Larger, more complex applications work too &#8211; Photoshop 2.5.1 works, as does Netscape, but without any networking stack, it&#8217;s a little bit moot. Even Calmira XP eventually runs, as some needed DLLs are found inside &#8220;Mom For Windows 2.0&#8221;, at which point the installation starts to look and feel a lot like a regular Windows 3.x installation, minus things like settings panels and a bunch of default applications. Is this useful? Probably not, but who cares &#8211; it&#8217;s an awesome trick, and that alone makes it a worthwhile effort.]]>
+      </description>
+      <source:markdown>It’s no secret that the Windows 95 installer uses a heavily stripped-down Windows 3.10 runtime, but what can you actually do with it? How far can you take this runtime? Can it run Photoshop? It is a long-standing tradition for Microsoft to use a runtime copy of Windows as a part of Windows Setup. But the copy is so stripped-down, it cannot run anything but the setup program (winsetup.bin). OR IS IT? A mini-challenge for myself: create a semi-working desktop only based on runtime Windows 3.10 shipped with Windows 95 installer but not using any other Microsoft products. ↫ Nina Kalinina A crucial limitation here is that Kalinina is not allowing herself to use any additional Microsoft products, so the easy route of just copying missing DLLs and other files from a Windows 95 disk or whatever is not available to her; she has to source any needed files from other sources. This may seem impossible, but during those days, tons of Windows (and even DOS) applications would ship with various Microsoft DLLs included, so there are definitely places to get Windows DLLs that aren’t coming directly from Microsoft. As an example, since there’s no shell of any kind included in the stripped-down Windows 3.10 runtime, Kalinina tried Calmira and WinBar, which won’t work without a few DLLs. Where to get them if you can’t get them straight from Microsoft? Well, it turns out programs compiled with later version of MSVC would include several of these needed DLLs, and AutoCad R12 was one of them. WinBar would now start and work, and while Calmira would install, it didn’t work because it needs the Windows Multimedia Subsystem, which don’t seem to be included in anything non-Microsoft. It turns out you can take this approach remarkably far. Things like Calculator and Notepad will work, but Pain or Paintbrush will not. Larger, more complex applications work too – Photoshop 2.5.1 works, as does Netscape, but without any networking stack, it’s a little bit moot. Even Calmira XP eventually runs, as some needed DLLs are found inside “Mom For Windows 2.0”, at which point the installation starts to look and feel a lot like a regular Windows 3.x installation, minus things like settings panels and a bunch of default applications. Is this useful? Probably not, but who cares – it’s an awesome trick, and that alone makes it a worthwhile effort.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144180</guid>
+    </item>    <item>
+      <title>Anthropic Claude wants to be your helpful colleague, always looking over your shoulder</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/anthropic_previews_claude_cowork_for/</link>
+      <description>
+        <![CDATA[<h4>Just be careful not to entrust the AI model with your sensitive data</h4> <p>Anthropic on Monday announced the research preview of Claude Cowork, a tool for automating office work that comes with the now familiar recitation of machine learning risks.…</p>]]>
+      </description>
+      <source:markdown>#### Just be careful not to entrust the AI model with your sensitive data
+
+Anthropic on Monday announced the research preview of Claude Cowork, a tool for automating office work that comes with the now familiar recitation of machine learning risks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243940</guid>
+    </item>    <item>
+      <title>Moon hotel startup hopes you get lunar lunacy, drop $1M deposit for 2032 stay</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/moon_hotel_startup_reservation/</link>
+      <description>
+        <![CDATA[<h4>Step 1: Ask for deposit. Step 2: ??? Step 3: Build Moon hotel empire</h4> <p>Everest has been turned into a run-of-the-mill tourist attraction. Space tourism is over now that any celebrity can blast off into orbit. Next up: a hotel on the Moon, now taking reservations for only about six years from now, if you&#39;re willing to make a small deposit.…</p>]]>
+      </description>
+      <source:markdown>#### Step 1: Ask for deposit. Step 2: ??? Step 3: Build Moon hotel empire
+
+Everest has been turned into a run-of-the-mill tourist attraction. Space tourism is over now that any celebrity can blast off into orbit. Next up: a hotel on the Moon, now taking reservations for only about six years from now, if you&#39;re willing to make a small deposit.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243939</guid>
+    </item>    <item>
+      <title>You Can Soon Step Inside David Bowie&#39;s Childhood Bedroom, Restored to the Way It Looked When He Was 16</title>
+      <link>https://www.smithsonianmag.com/smart-news/you-can-soon-step-inside-david-bowies-childhood-bedroom-restored-to-the-way-it-looked-when-he-was-16-180987993/</link>
+      <description>
+        <![CDATA[The musician's former home in south London is scheduled to open to the public in late 2027 following an extensive restoration, which will transport visitors back in time to 1963]]>
+      </description>
+      <source:markdown>The musician&#39;s former home in south London is scheduled to open to the public in late 2027 following an extensive restoration, which will transport visitors back in time to 1963</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6I5wGCcwDoiz8rUvWgxTov6Ncwg=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/1c/ce1cb098-54b3-4f2b-8aab-1bd3592958ea/david_bowie_house_exterior_image_1.jpeg" length="" type="" />
+    </item>    <item>
+      <title>A Cat Left Paw Prints on the Pages of This Medieval Manuscript When the Ink Was Drying 500 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-cat-left-paw-prints-on-the-pages-of-this-medieval-manuscript-when-the-ink-was-drying-500-years-ago-180987999/</link>
+      <description>
+        <![CDATA[An exhibition called "Paws on Parchment" tracks how cats were depicted in the Middle Ages through texts and artworks from around the world—including one example of a 15th-century "keyboard cat"]]>
+      </description>
+      <source:markdown>An exhibition called &#34;Paws on Parchment&#34; tracks how cats were depicted in the Middle Ages through texts and artworks from around the world—including one example of a 15th-century &#34;keyboard cat&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PMeU7j0UMm2PmgW8lvI6yUb2TEI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8b/3e/8b3e15e3-546f-480a-b65d-fe9b4dae8245/manuscript.jpg" length="" type="" />
+    </item>    <item>
+      <title>SK Hynix&#39;s $13B packaging facility promises more HBM for the AI bubble</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/sk_hbm_packaging/</link>
+      <description>
+        <![CDATA[<h4>Great news for AMD and Nvidia, less so for cash-strapped consumers</h4> <p>Memory makers just can&#39;t churn out their DRAM fast enough. On the heels of an AI-driven shortage, SK Hynix on Tuesday announced a new 19 trillion Korean won (about $13 billion) advanced packaging and test facility in South Korea that could offer some relief - just not for consumer products like laptops and phones.…</p>]]>
+      </description>
+      <source:markdown>#### Great news for AMD and Nvidia, less so for cash-strapped consumers
+
+Memory makers just can&#39;t churn out their DRAM fast enough. On the heels of an AI-driven shortage, SK Hynix on Tuesday announced a new 19 trillion Korean won (about $13 billion) advanced packaging and test facility in South Korea that could offer some relief - just not for consumer products like laptops and phones.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243938</guid>
+    </item>    <item>
+      <title>Cloud to be an American: Congress votes to kick China off remote GPU services</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/congress_votes_china_gpu_cloud/</link>
+      <description>
+        <![CDATA[<h4>US House backs bill to regulate remote access to export-controlled chips</h4> <p>Chinese companies may be unable to import the best US GPUs, but they have found a workaround: renting access to that hardware via cloud services. Now, the US House of Representatives is moving to bring that loophole under the export-control law.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### US House backs bill to regulate remote access to export-controlled chips
+
+Chinese companies may be unable to import the best US GPUs, but they have found a workaround: renting access to that hardware via cloud services. Now, the US House of Representatives is moving to bring that loophole under the export-control law.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243934</guid>
+    </item>    <item>
+      <title>Eating Large Amounts of Certain Preservatives Might Increase Your Risk of Developing Cancer and Type 2 Diabetes</title>
+      <link>https://www.smithsonianmag.com/smart-news/eating-large-amounts-of-certain-preservative-might-increase-your-risk-of-developing-cancer-and-type-2-diabetes-180987992/</link>
+      <description>
+        <![CDATA[Two studies tracked more than 100,000 participants over 14 years to reveal the trends. But they can't confirm a direct link between eating these preservatives and developing disease, especially because some of the additives were eaten in foods that contain known carcinogens]]>
+      </description>
+      <source:markdown>Two studies tracked more than 100,000 participants over 14 years to reveal the trends. But they can&#39;t confirm a direct link between eating these preservatives and developing disease, especially because some of the additives were eaten in foods that contain known carcinogens</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mUG5R3ITrfeXGJOOzHPMwXss-DQ=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/df/8cdfa785-3a23-4303-88d6-6de000010dda/2048px-shelves_with_protein_drinks_supplements_and_other_packaged_foods_at_bm_134-142_high.jpg" length="" type="" />
+    </item>    <item>
+      <title>AI and automation could erase 10.4 million US roles by 2030</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_us_jobs_2030/</link>
+      <description>
+        <![CDATA[<h4>Forrester models slow, structural shift rather than sudden employment collapse</h4> <p><strong>AI-pocalypse</strong>  AI and automation could wipe out 6.1 percent of jobs in the US by 2030 – equating to 10.4 million fewer positions that are held by humans today.…</p>]]>
+      </description>
+      <source:markdown>#### Forrester models slow, structural shift rather than sudden employment collapse
+
+**AI-pocalypse**  AI and automation could wipe out 6.1 percent of jobs in the US by 2030 – equating to 10.4 million fewer positions that are held by humans today.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243932</guid>
+    </item>    <item>
+      <title>NASA Back for Seconds with New Food System Design Challenge</title>
+      <link>https://www.nasa.gov/directorates/stmd/nasa-back-for-seconds-with-new-food-system-design-challenge/</link>
+      <description>
+        <![CDATA[NASA is getting ready to send four astronauts around the Moon with Artemis II, laying the foundation for sustainable missions to the lunar surface and paving the way for human exploration on Mars. As the agency considers deep space endeavors that could last months or years, it must develop ways to feed astronauts beyond sending [&#8230;]]]>
+      </description>
+      <source:markdown>NASA is getting ready to send four astronauts around the Moon with Artemis II, laying the foundation for sustainable missions to the lunar surface and paving the way for human exploration on Mars. As the agency considers deep space endeavors that could last months or years, it must develop ways to feed astronauts beyond sending \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=943020</guid>
+    </item>    <item>
+      <title>Some Dogs Are &#39;Gifted Word Learners&#39; That Learn Language by Eavesdropping—Just Like Human Toddlers</title>
+      <link>https://www.smithsonianmag.com/smart-news/some-dogs-are-gifted-word-learners-that-learn-language-by-eavesdropping-just-like-human-toddlers-180987985/</link>
+      <description>
+        <![CDATA[New research suggests prodigious pups that already have large vocabularies can learn new words by listening in on their owners’ conversations]]>
+      </description>
+      <source:markdown>New research suggests prodigious pups that already have large vocabularies can learn new words by listening in on their owners’ conversations</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/r6oFxuINT3n2uetfF7wuQbXGe28=/420x240/filters:focal(2669x1779:2670x1780)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/70/61/70619168-58b3-4c75-88b7-5d43de4b8476/dror_adq5474_image_1.jpg" length="" type="" />
+    </item>    <item>
+      <title>Trump says Americans shouldn&#39;t &#39;pick up the tab&#39; for AI datacenter grid upgrades</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/trump_datacenter_power_costs/</link>
+      <description>
+        <![CDATA[<h4>Big Tech warned expansion must come without higher household bills as Microsoft signals support</h4> <p>President Trump says tech giants must pay their way when it comes to delivering increased power needed for datacenters, rather than the burden falling on US citizens, and it seems Microsoft is on board with that.…</p>]]>
+      </description>
+      <source:markdown>#### Big Tech warned expansion must come without higher household bills as Microsoft signals support
+
+President Trump says tech giants must pay their way when it comes to delivering increased power needed for datacenters, rather than the burden falling on US citizens, and it seems Microsoft is on board with that.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243933</guid>
+    </item>    <item>
       <title>Modern HTML features on text-based web browsers</title>
       <link>https://www.osnews.com/story/144178/modern-html-features-on-text-based-web-browsers/</link>
       <description>
@@ -19,9 +171,9 @@
       <title>Linus Torvalds tries vibe coding, world still intact somehow</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/linus_torvalds_vibe_coding/</link>
       <description>
-        <![CDATA[<h4>The Emperor Penguin tries it… just for fun</h4> <p>Perhaps the most famous low-level systems programmer has tried &#34;vibe coding&#34; for himself – and he seems to be enjoying it.…</p>]]>
+        <![CDATA[<h4>The Emperor Penguin has a go… just for fun</h4> <p>Perhaps the most famous low-level systems programmer has tried &#34;vibe coding&#34; for himself – and he seems to be enjoying it.…</p>]]>
       </description>
-      <source:markdown>#### The Emperor Penguin tries it… just for fun
+      <source:markdown>#### The Emperor Penguin has a go… just for fun
 
 Perhaps the most famous low-level systems programmer has tried &#34;vibe coding&#34; for himself – and he seems to be enjoying it.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243930</guid>
@@ -392,9 +544,9 @@ The new year brings releases from opposite ends of the Linux GUI spectrum: IceWM
       <title>Could Leonardo da Vinci&#39;s DNA Be Hiding Inside One of His Renaissance Sketches?</title>
       <link>https://www.smithsonianmag.com/smart-news/could-leonardo-da-vincis-dna-be-hiding-inside-one-of-his-renaissance-sketches-180987982/</link>
       <description>
-        <![CDATA[Scientists have discovered male human DNA on a chalk drawing that may have been created by the famous artist and scientist. But they cannot definitively link the genetic material, nor the sketch, to Leonardo]]>
+        <![CDATA[Scientists have discovered male human DNA on a chalk drawing that may have been created by the famous artist and scientist. But they cannot definitively link the genetic material, or the sketch, to Leonardo]]>
       </description>
-      <source:markdown>Scientists have discovered male human DNA on a chalk drawing that may have been created by the famous artist and scientist. But they cannot definitively link the genetic material, nor the sketch, to Leonardo</source:markdown>
+      <source:markdown>Scientists have discovered male human DNA on a chalk drawing that may have been created by the famous artist and scientist. But they cannot definitively link the genetic material, or the sketch, to Leonardo</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/O2qq5Hbpj4a_GEIPjT4dQ3UAE_k=/420x240/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/ad/99ad06a3-ade9-40bc-ac8c-3734727a916f/da-vinci-dna.jpg" length="" type="" />
     </item>    <item>
       <title>This Bizarre Fish Has a Hole in Its Head. The Creature Might Use It Like a Drum to Rock Out</title>

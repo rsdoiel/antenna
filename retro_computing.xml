@@ -4,16 +4,25 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>13 Jan 26 09:35 -0800</lastBuildDate>
+    <lastBuildDate>13 Jan 26 15:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Say Goodbye to Middle-Mouse Paste</title>
+      <link>http://www.linux-magazine.com/Online/News/Say-Goodbye-to-Middle-Mouse-Paste</link>
+      <description>
+        <![CDATA[<p>Both Gnome and Firefox have proposed getting rid of a long-time favorite Linux feature.</p>]]>
+      </description>
+      <source:markdown>Both Gnome and Firefox have proposed getting rid of a long-time favorite Linux feature.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://10494bb80f3189789fb5783e438a9f2c</guid>
+    </item>    <item>
       <title>SOLO Operating system running in simh</title>
       <link>http://pascal.hansotten.com/2026/01/13/solo-operating-system-running-in-simh/</link>
       <description>
-        <![CDATA[On bitsavers.org you can find files belonging to the Solo Operating system by Per Brinch Hansen, including Concurrent Pascal. With these files and simh you can run the Solo operating system.]]>
+        <![CDATA[On bitsavers.org you can find files belonging to the Solo Operating system by Per Brinch Hansen, including Concurrent Pascal. With these files and simh you can run the Solo operating system. In this archive you can find the files required to run Solo on Windows. For other systems, compile simh. >pdp11 PDP-11 simulator Open SIMH [&#8230;]]]>
       </description>
-      <source:markdown>On bitsavers.org you can find files belonging to the Solo Operating system by Per Brinch Hansen, including Concurrent Pascal. With these files and simh you can run the Solo operating system.</source:markdown>
+      <source:markdown>On bitsavers.org you can find files belonging to the Solo Operating system by Per Brinch Hansen, including Concurrent Pascal. With these files and simh you can run the Solo operating system. In this archive you can find the files required to run Solo on Windows. For other systems, compile simh. &#62;pdp11 PDP-11 simulator Open SIMH \[…\]</source:markdown>
       <guid>cid://http://pascal.hansotten.com/?p=2896</guid>
     </item>    <item>
       <title>b.log 2026/01/12 - Mamie v0.36...for RISC OS!</title>
