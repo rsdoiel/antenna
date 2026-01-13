@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>13 Jan 26 08:12 -0800</lastBuildDate>
+    <lastBuildDate>13 Jan 26 09:34 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,15 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>The rapid rise and slow decline of Sam Altman</title>
+      <link>https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of</link>
+      <description>
+        <![CDATA[Bad news from Apple yesterday highlights OpenAI&#8217;s eroding lead]]>
+      </description>
+      <source:markdown>Bad news from Apple yesterday highlights OpenAI’s eroding lead</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!aItw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F225fd7ce-7b86-4cbc-96ac-700b208b410c_691x807.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of</guid>
     </item>    <item>
       <title>Las 18 series de televisión más esperadas de 2026</title>
       <link>https://www.palomitademaiz.net/las-18-series-de-television-mas-esperadas-de-2026/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=las-18-series-de-television-mas-esperadas-de-2026</link>
@@ -9946,6 +9955,20 @@ Just another side of the same coin.</source:markdown>
 — [Matt Webb](https://interconnected.org/home/2025/12/26/scraps)</source:markdown>
       <guid>cid://https://adactio.com/notes/22334</guid>
     </item>    <item>
+      <title>The Case for Blogging in the Ruins</title>
+      <link>https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>Start a blog. Start one because the practice of writing at length, for an audience you respect, about things that matter to you, is itself valuable. Start one because owning your own platform is a form of independence that becomes more important as centralized platforms become less trustworthy. Start one because the format shapes the thought, and this format is good for thinking.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22333">adactio.com/links/22333</a></p>]]>
+      </description>
+      <source:markdown>&#62; Start a blog. Start one because the practice of writing at length, for an audience you respect, about things that matter to you, is itself valuable. Start one because owning your own platform is a form of independence that becomes more important as centralized platforms become less trustworthy. Start one because the format shapes the thought, and this format is good for thinking.
+
+[adactio.com/links/22333](https://adactio.com/links/22333)</source:markdown>
+      <guid>cid://https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</guid>
+    </item>    <item>
       <title>1929 - By Andrew Ross Sorkin</title>
       <link>https://www.joanwestenberg.com/1929-by-andrew-ross-sorkin/</link>
       <description>
@@ -11155,14 +11178,6 @@ Tags: [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assiste
         <![CDATA[Our public postmortem for Incident #0023.]]>
       </description>
       <source:markdown>Our public postmortem for Incident #0023.</source:markdown>
-    </item>    <item>
-      <title>The Case for Blogging in the Ruins</title>
-      <link>https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/</link>
-      <description>
-        <![CDATA[<p>In 1751, Denis Diderot began publishing his&#xA0;<a href="https://en.wikipedia.org/wiki/Encyclop%C3%A9die?ref=joanwestenberg.com" rel="noreferrer"><em>Encyclop&#xE9;die</em></a>, a project that would eventually span 28 volumes and take more than two decades to complete. The French government banned it twice. The Catholic Church condemned it, Diderot&apos;s collaborators abandoned him, his publisher secretly censored entries behind</p>]]>
-      </description>
-      <source:markdown>In 1751, Denis Diderot began publishing his [_Encyclopédie_](https://en.wikipedia.org/wiki/Encyclop%C3%A9die?ref=joanwestenberg.com), a project that would eventually span 28 volumes and take more than two decades to complete. The French government banned it twice. The Catholic Church condemned it, Diderot&#39;s collaborators abandoned him, his publisher secretly censored entries behind</source:markdown>
-      <guid>cid://6956f34996a90b00013b948b</guid>
     </item>    <item>
       <title>Introducing gisthost.github.io</title>
       <link>https://simonwillison.net/2026/Jan/1/gisthost/#atom-everything</link>
