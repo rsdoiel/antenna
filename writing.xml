@@ -4,10 +4,18 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>13 Jan 26 15:13 -0800</lastBuildDate>
+    <lastBuildDate>14 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Do You Hear Your Government Speak in the Library?</title>
+      <link>https://www.authorsalliance.org/2026/01/14/do-you-hear-your-government-speak-in-the-library/</link>
+      <description>
+        <![CDATA[A group of authors and students are challenging a Utah book ban law under the First Amendment.]]>
+      </description>
+      <source:markdown>A group of authors and students are challenging a Utah book ban law under the First Amendment.</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12496</guid>
+    </item>    <item>
       <title>Watch Your Tone</title>
       <link>https://johnaugust.com/2026/watch-your-tone</link>
       <description>
@@ -90,29 +98,6 @@ The post [Scriptnotes, Episode 716: Personality Typologies, Transcript](https://
 
 The post [No Worries if Not](https://johnaugust.com/2025/no-worries-if-not) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=23712</guid>
-    </item>    <item>
-      <title>What I did in 2025</title>
-      <link>https://johnaugust.com/2025/what-i-did-in-2025</link>
-      <description>
-        <![CDATA[<p>This was a tough year. American democracy strained under authoritarian assault. Here in Los Angeles, friends lost homes in the fires while many in the industry struggled to find work. But good things happened as well. Babies were born. Terrific movies and TV shows debuted. My family was happy and healthy. My husband has a [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/what-i-did-in-2025">What I did in 2025</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>This was a tough year. American democracy strained under authoritarian assault. Here in Los Angeles, friends lost homes in the fires while many in the industry struggled to find work. But good things happened as well. Babies were born. Terrific movies and TV shows debuted. My family was happy and healthy. My husband has a \[…\]
-
-The post [What I did in 2025](https://johnaugust.com/2025/what-i-did-in-2025) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=23697</guid>
-    </item>    <item>
-      <title>The Screenwriting Life: The Craft Lessons That Matter Most</title>
-      <link>https://johnaugust.com/2025/the-screenwriting-life-the-craft-lessons-that-matter-most</link>
-      <description>
-        <![CDATA[<p>In a Christmas crossover event, John and Craig join Meg LeFauve (Inside Out) and Lorien McKenna (Tab Time) on their podcast, The Screenwriting Life. We talk about why rigid structure can miss the point, how theme emerges from character, what fear and denial really look like on the page, and how writers can survive rejection [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/the-screenwriting-life-the-craft-lessons-that-matter-most">The Screenwriting Life: The Craft Lessons That Matter Most</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>In a Christmas crossover event, John and Craig join Meg LeFauve (Inside Out) and Lorien McKenna (Tab Time) on their podcast, The Screenwriting Life. We talk about why rigid structure can miss the point, how theme emerges from character, what fear and denial really look like on the page, and how writers can survive rejection \[…\]
-
-The post [The Screenwriting Life: The Craft Lessons That Matter Most](https://johnaugust.com/2025/the-screenwriting-life-the-craft-lessons-that-matter-most) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/717standard.mp3" length="52167054" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23693</guid>
     </item>
   </channel>
 </rss>

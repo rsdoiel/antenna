@@ -4,10 +4,289 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>13 Jan 26 15:13 -0800</lastBuildDate>
+    <lastBuildDate>14 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Archaeologists Stumble Upon Mysterious Medieval Village While Preparing for New Wind Farms in England</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-stumble-upon-mysterious-medieval-village-while-preparing-for-new-wind-farms-in-england-180987996/</link>
+      <description>
+        <![CDATA[The previously unknown settlement appears to have been abandoned at some point in the 1300s, but researchers don't know why]]>
+      </description>
+      <source:markdown>The previously unknown settlement appears to have been abandoned at some point in the 1300s, but researchers don&#39;t know why</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Ic49Mlu7VrcEB_l5dStAkcZoIy8=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/0e/0d0e0ba8-ce14-4c35-b544-bc6b508e1f92/archaeologists_excavate_post_holes_and_beam_slots_from_anglo-saxon_longhouses_c_mola-wessex_a.jpg" length="" type="" />
+    </item>    <item>
+      <title>France fines telcos €42M for sub-par security prior to 24M customer breach</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/france_fines_free_free_mobile/</link>
+      <description>
+        <![CDATA[<h4>Three major GDPR violations, including a lack of basic security controls, lead to hefty dent in profits</h4> <p>The French data protection regulator, CNIL, today issued a collective €42 million ($48.9 million) fine to two French telecom companies for GDPR violations stemming from a data breach.…</p>]]>
+      </description>
+      <source:markdown>#### Three major GDPR violations, including a lack of basic security controls, lead to hefty dent in profits
+
+The French data protection regulator, CNIL, today issued a collective €42 million ($48.9 million) fine to two French telecom companies for GDPR violations stemming from a data breach.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243960</guid>
+    </item>    <item>
+      <title>String Theory Can Now Describe a Universe That Has Dark Energy</title>
+      <link>https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/</link>
+      <description>
+        <![CDATA[In an unprecedented step, researchers crafted a detailed model compatible with the universe’s accelerated expansion.            <p>The post <a href="https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/" target="_blank">String Theory Can Now Describe a Universe That Has Dark Energy</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>In an unprecedented step, researchers crafted a detailed model compatible with the universe’s accelerated expansion.
+
+The post [String Theory Can Now Describe a Universe That Has Dark Energy](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=157980</guid>
+    </item>    <item>
+      <title>Hasta la vista! Microsoft finally ends extended updates for ancient Windows version</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/microsoft_calls_time_on_the/</link>
+      <description>
+        <![CDATA[<h4>Support expires for Windows Server 2008, and the codebase released to manufacturing in 2006</h4> <p>Microsoft has quietly maintained support for an OS that&#39;s nearly 18 years old, but its time has finally passed - the Windows Vista-powered Windows Server 2008 took its last breath this week.…</p>]]>
+      </description>
+      <source:markdown>#### Support expires for Windows Server 2008, and the codebase released to manufacturing in 2006
+
+Microsoft has quietly maintained support for an OS that&#39;s nearly 18 years old, but its time has finally passed - the Windows Vista-powered Windows Server 2008 took its last breath this week.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243959</guid>
+    </item>    <item>
+      <title>La NASA publica datos de la temperatura global</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/</link>
+      <description>
+        <![CDATA[Read this press release in English&#160;here. La temperatura global de la superficie terrestre en 2025 fue un poco más cálida que en 2023 pero, dentro de los márgenes de error, ambos años está prácticamente empatados, según un análisis realizado por científicos de la NASA. Desde que comenzaron los registros en 1880, 2024 sigue siendo el [&#8230;]]]>
+      </description>
+      <source:markdown>Read this press release in English here. La temperatura global de la superficie terrestre en 2025 fue un poco más cálida que en 2023 pero, dentro de los márgenes de error, ambos años está prácticamente empatados, según un análisis realizado por científicos de la NASA. Desde que comenzaron los registros en 1880, 2024 sigue siendo el \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944710</guid>
+    </item>    <item>
+      <title>&#39;Imagination the limit&#39;: DeadLock ransomware gang using smart contracts to hide their work</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/deadlock_ransomware_smart_contracts/</link>
+      <description>
+        <![CDATA[<h4>New crooks on the block get crafty with blockchain to evade defenses</h4> <p>Researchers at Group-IB say the DeadLock ransomware operation is using blockchain-based anti-detection methods to evade defenders&#39; attempts to analyze their tradecraft.…</p>]]>
+      </description>
+      <source:markdown>#### New crooks on the block get crafty with blockchain to evade defenses
+
+Researchers at Group-IB say the DeadLock ransomware operation is using blockchain-based anti-detection methods to evade defenders&#39; attempts to analyze their tradecraft.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243957</guid>
+    </item>    <item>
+      <title>NASA Releases Global Temperature Data</title>
+      <link>https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/</link>
+      <description>
+        <![CDATA[Lee este comunicado de prensa en español aquí. Earth’s global surface temperature in 2025 was slightly warmer than 2023 – but within the margin of error the two years are effectively tied according to an analysis by NASA scientists. Since record-keeping began in 1880, the hottest year on record remains 2024.&#160; Global temperatures in 2025 were [&#8230;]]]>
+      </description>
+      <source:markdown>Lee este comunicado de prensa en español aquí. Earth’s global surface temperature in 2025 was slightly warmer than 2023 – but within the margin of error the two years are effectively tied according to an analysis by NASA scientists. Since record-keeping began in 1880, the hottest year on record remains 2024.  Global temperatures in 2025 were \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944705</guid>
+    </item>    <item>
+      <title>AI&#39;s $3T infrastructure binge continues despite lack of clear profits</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/ai_investment/</link>
+      <description>
+        <![CDATA[<h4>Investment in datacenters to peak by 2029, place your bets please</h4> <p>The AI-driven datacenter construction frenzy shows no signs of slowing, but neither do concerns that the whole edifice could collapse under the weight of its own hype and mounting investment demands.…</p>]]>
+      </description>
+      <source:markdown>#### Investment in datacenters to peak by 2029, place your bets please
+
+The AI-driven datacenter construction frenzy shows no signs of slowing, but neither do concerns that the whole edifice could collapse under the weight of its own hype and mounting investment demands.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243956</guid>
+    </item>    <item>
+      <title>Hubble Observes Stars Flaring to Life in Orion</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-observes-stars-flaring-to-life-in-orion/</link>
+      <description>
+        <![CDATA[Just-forming stars, called protostars, dazzle a cloudy landscape in the Orion Molecular Cloud complex (OMC). These three new images from NASA’s Hubble Space Telescope were taken as part of an effort to learn more about the envelopes of gas and dust surrounding the protostars, as well as the outflow cavities where stellar winds and jets […]]]>
+      </description>
+      <source:markdown>Just-forming stars, called protostars, dazzle a cloudy landscape in the Orion Molecular Cloud complex (OMC). These three new images from NASA’s Hubble Space Telescope were taken as part of an effort to learn more about the envelopes of gas and dust surrounding the protostars, as well as the outflow cavities where stellar winds and jets \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-observes-stars-flaring-to-life-in-orion/</guid>
+    </item>    <item>
+      <title>Firefox 147 brings GPU boost, tidier tabs, and video that follows you around</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/firefox_and_tbird_147/</link>
+      <description>
+        <![CDATA[<h4>Latest update focuses on hardware acceleration, security tightening, and a handful of quality-of-life tweaks</h4> <p>The latest Firefox is here with some handy changes – most of which differ depending on what OS and type of CPU you run it on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Latest update focuses on hardware acceleration, security tightening, and a handful of quality-of-life tweaks
+
+The latest Firefox is here with some handy changes – most of which differ depending on what OS and type of CPU you run it on.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243951</guid>
+    </item>    <item>
+      <title>Cyber-stricken Belgian hospitals refuse ambulances, transfer critical patients</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/belgium_hospital_cyberattack/</link>
+      <description>
+        <![CDATA[<h4>Attack enters second day with major disruption to healthcare provision</h4> <p>Two hospitals in Belgium have cancelled surgeries and transferred critical patients to other facilities after shutting down servers following a cyberattack.…</p>]]>
+      </description>
+      <source:markdown>#### Attack enters second day with major disruption to healthcare provision
+
+Two hospitals in Belgium have cancelled surgeries and transferred critical patients to other facilities after shutting down servers following a cyberattack.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243955</guid>
+    </item>    <item>
+      <title>Eurail passengers taken for a ride as data breach spills passports, bank details</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/eurail_breach/</link>
+      <description>
+        <![CDATA[<h4>Travel biz tells customers to change passwords beyond its own services</h4> <p>Eurail has confirmed customer information was stolen in a data breach, according to notification emails sent out this week.…</p>]]>
+      </description>
+      <source:markdown>#### Travel biz tells customers to change passwords beyond its own services
+
+Eurail has confirmed customer information was stolen in a data breach, according to notification emails sent out this week.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243952</guid>
+    </item>    <item>
+      <title>UK backtracks on digital ID requirement for right to work</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/uk_digital_id_climbdown/</link>
+      <description>
+        <![CDATA[<h4>U-turn leaves questions on costs, funding, and benefits unanswered</h4> <p>The UK government has backed down from making digital ID mandatory for proof of a right to work in the country, adding to confusion over the scheme&#39;s cost and purpose.…</p>]]>
+      </description>
+      <source:markdown>#### U-turn leaves questions on costs, funding, and benefits unanswered
+
+The UK government has backed down from making digital ID mandatory for proof of a right to work in the country, adding to confusion over the scheme&#39;s cost and purpose.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243958</guid>
+    </item>    <item>
+      <title>Stop dragging feet on AI nudification ban, UK government told</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/uk_government_nudification_ban/</link>
+      <description>
+        <![CDATA[<h4>Committee raises concerns over delays and loopholes in proposed law</h4> <p>The Science, Innovation and Technology Committee has criticized the UK government&#39;s handling of AI nudification tools, saying it is taking too long to ban apps, and that expedited legislation does not encompass multi-purpose platforms used to create nude images.…</p>]]>
+      </description>
+      <source:markdown>#### Committee raises concerns over delays and loopholes in proposed law
+
+The Science, Innovation and Technology Committee has criticized the UK government&#39;s handling of AI nudification tools, saying it is taking too long to ban apps, and that expedited legislation does not encompass multi-purpose platforms used to create nude images.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243954</guid>
+    </item>    <item>
+      <title>Buy servers now or cry later: DRAM price spike threatens infrastructure budgets</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/dram_infrastructure_costs/</link>
+      <description>
+        <![CDATA[<h4>Component up 63% since September, more pricey memory coming to a supply chain near you</h4> <p>Enterprise IT infrastructure buyers are bracing for hefty price hikes across servers, storage systems, and networking kit, driven by steep inflation in memory component costs that industry analysts warn will soon cascade through the supply chain.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Component up 63% since September, more pricey memory coming to a supply chain near you
+
+Enterprise IT infrastructure buyers are bracing for hefty price hikes across servers, storage systems, and networking kit, driven by steep inflation in memory component costs that industry analysts warn will soon cascade through the supply chain.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243937</guid>
+    </item>    <item>
+      <title>Spanish power giant sparks breach probe amid claims of massive data grab</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/endesa_breach/</link>
+      <description>
+        <![CDATA[<h4>Endesa says payment info stolen after alleged crook boasted of 1 TB-plus haul</h4> <p>Spanish energy giant Endesa is warning customers about a data breach after a cybercrim claimed to have walked off with a vast cache of personal information allegedly tied to more than 20 million people.…</p>]]>
+      </description>
+      <source:markdown>#### Endesa says payment info stolen after alleged crook boasted of 1 TB-plus haul
+
+Spanish energy giant Endesa is warning customers about a data breach after a cybercrim claimed to have walked off with a vast cache of personal information allegedly tied to more than 20 million people.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243935</guid>
+    </item>    <item>
+      <title>Windows 2000 rusts in peace by the sea</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/windows_2000_rust_in_peace/</link>
+      <description>
+        <![CDATA[<h4>When salty coastal air meets memory errors in one of Portugal&#39;s rail ticket machines</h4> <p><strong>Bork!Bork!Bork!</strong>  It&#39;s back to the railways of Portugal for today&#39;s bork. Remember how we called Windows 2000 the unkillable cockroach of the IT world? Seems it&#39;s been upset by software peeking at memory where it shouldn&#39;t.…</p>]]>
+      </description>
+      <source:markdown>#### When salty coastal air meets memory errors in one of Portugal&#39;s rail ticket machines
+
+**Bork!Bork!Bork!**  It&#39;s back to the railways of Portugal for today&#39;s bork. Remember how we called Windows 2000 the unkillable cockroach of the IT world? Seems it&#39;s been upset by software peeking at memory where it shouldn&#39;t.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243914</guid>
+    </item>    <item>
+      <title>When is your brain actually an &#34;adult&#34;?</title>
+      <link>https://www.npr.org/2026/01/14/nx-s1-5668450/science-brain-development-aging</link>
+      <description>
+        <![CDATA[There’s this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a recent paper in <a href="https://www.nature.com/articles/s41467-025-65974-8"target="_blank"   >the journal <em>Nature</em></a> suggests that may not be the case. Neuroscientists found four distinct turning points in brain development across the human lifespan – and that the brain may be in its “adolescent” phase until about the age of 32. <br/><br/><br><em>Interested in more of the science inside your brain? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><br><em>This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Kwesi Lee.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>There’s this idea that something happens in the human brain when we turn 25. Suddenly, we can rent a car without fees. Make rational decisions. We may even regret some of our past… indiscretions. All because we’re developed…right? Well, a recent paper in [the journal _Nature_](https://www.nature.com/articles/s41467-025-65974-8) suggests that may not be the case. Neuroscientists found four distinct turning points in brain development across the human lifespan – and that the brain may be in its “adolescent” phase until about the age of 32.
+
+_Interested in more of the science inside your brain? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+_This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Kwesi Lee._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1281671290.mp3?t=podcast&e=nx-s1-5668450&p=510351&d=834&size=13351333" length="13351333" type="audio/mpeg" />
+      <guid>cid://b0dc4389-152f-4e3f-a345-2f84f0cf9325</guid>
+    </item>    <item>
+      <title>Anthropic finds $1.5 million to help Python Foundation improve security</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/anthropic_python_security/</link>
+      <description>
+        <![CDATA[<h4>AI upstart also upscales its Labs to find the next frontier</h4> <p>The Python Software Foundation (PSF) has an extra $1.5 million heading its way, after AI upstart Anthropic entered into a partnership aimed at improving security in the Python ecosystem.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### AI upstart also upscales its Labs to find the next frontier
+
+The Python Software Foundation (PSF) has an extra $1.5 million heading its way, after AI upstart Anthropic entered into a partnership aimed at improving security in the Python ecosystem.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243949</guid>
+    </item>    <item>
+      <title>Fire on Ice: The Arctic’s Changing Fire Regime</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/fire-on-ice-the-arctics-changing-fire-regime/</link>
+      <description>
+        <![CDATA[An increasingly flammable landscape combined with more lightning strikes is leading to larger, more frequent, and more intense fires than the landscape is adapted for.]]>
+      </description>
+      <source:markdown>An increasingly flammable landscape combined with more lightning strikes is leading to larger, more frequent, and more intense fires than the landscape is adapted for.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fire-on-ice-the-arctics-changing-fire-regime/</guid>
+    </item>    <item>
+      <title>Fires on the Rise in the Far North</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/fires-on-the-rise-in-the-far-north/</link>
+      <description>
+        <![CDATA[Satellite-based maps show northern wildland fires becoming more frequent and widespread as temperatures rise and lightning reaches higher latitudes.]]>
+      </description>
+      <source:markdown>Satellite-based maps show northern wildland fires becoming more frequent and widespread as temperatures rise and lightning reaches higher latitudes.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fires-on-the-rise-in-the-far-north/</guid>
+    </item>    <item>
+      <title>India’s flagship PSLV rocket fails for the second time in a row</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/isro_pslv_mission_fail/</link>
+      <description>
+        <![CDATA[<h4>One payload out of fifteen survived and sent home some useful data</h4> <p>India’s Space Research Organisation (ISRO) has commenced an investigation into the failure of a PSLV launcher.…</p>]]>
+      </description>
+      <source:markdown>#### One payload out of fifteen survived and sent home some useful data
+
+India’s Space Research Organisation (ISRO) has commenced an investigation into the failure of a PSLV launcher.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243948</guid>
+    </item>    <item>
+      <title>Trump administration sets GPU export rules that put Chinese buyers at the back of the queue</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/us_gpu_export_rules/</link>
+      <description>
+        <![CDATA[<h4>America first, for sales and access to foundries</h4> <p>The Trump administration will only allow exports of Nvidia and AMD GPUs to China if local buyers can get all the kit they want.…</p>]]>
+      </description>
+      <source:markdown>#### America first, for sales and access to foundries
+
+The Trump administration will only allow exports of Nvidia and AMD GPUs to China if local buyers can get all the kit they want.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243947</guid>
+    </item>    <item>
+      <title>Google rekindles relationship with jilted JPEG XL image format</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/google_rekindles_relationship_with_jilted/</link>
+      <description>
+        <![CDATA[<h4>Chromium commit adds support for image decoder after the Big G ditched it a few years back</h4> <p>Google has added support for the JPEG XL (JXL) image format to the open source Chromium code base, reversing a decision in 2022 to drop the technology.…</p>]]>
+      </description>
+      <source:markdown>#### Chromium commit adds support for image decoder after the Big G ditched it a few years back
+
+Google has added support for the JPEG XL (JXL) image format to the open source Chromium code base, reversing a decision in 2022 to drop the technology.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243945</guid>
+    </item>    <item>
+      <title>Just the Browser: scripts to remove all the crap from your browser</title>
+      <link>https://www.osnews.com/story/144185/just-the-browser-scripts-to-remove-all-the-crap-from-your-browser/</link>
+      <description>
+        <![CDATA[Are you a normal person and thus sick of all the nonsensical, non-browser stuff browser makers keep adding to your browser, but for whatever reason you don&#8217;t want to or cannot switch to one of the forks of your browser of choice? Just the Browser helps you remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from desktop web browsers. The goal is to give you &#8220;just the browser&#8221; and nothing else, using hidden settings in web browsers intended for companies and other organizations. This project includes configuration files for popular web browsers, documentation for installing and modifying them, and easy installation scripts. Everything is open-source on GitHub. ↫ Just The Browser&#8217;s website It comes in the form of scripts for Windows, Linux, or macOS, and can be used for Google Chrome, Microsoft Edge, and Mozilla Firefox. It&#8217;s all open source so you can check the scripts for yourself, but there are also manual guides for each browser if you&#8217;re not too keen on running an unknown script. The changes won&#8217;t be erased by updates, unless the specific settings and configuration flags used are actually removed or altered by the browser makers. That&#8217;s all there&#8217;s to it &#8211; a very straightforward tool.]]>
+      </description>
+      <source:markdown>Are you a normal person and thus sick of all the nonsensical, non-browser stuff browser makers keep adding to your browser, but for whatever reason you don’t want to or cannot switch to one of the forks of your browser of choice? Just the Browser helps you remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from desktop web browsers. The goal is to give you “just the browser” and nothing else, using hidden settings in web browsers intended for companies and other organizations. This project includes configuration files for popular web browsers, documentation for installing and modifying them, and easy installation scripts. Everything is open-source on GitHub. ↫ Just The Browser’s website It comes in the form of scripts for Windows, Linux, or macOS, and can be used for Google Chrome, Microsoft Edge, and Mozilla Firefox. It’s all open source so you can check the scripts for yourself, but there are also manual guides for each browser if you’re not too keen on running an unknown script. The changes won’t be erased by updates, unless the specific settings and configuration flags used are actually removed or altered by the browser makers. That’s all there’s to it – a very straightforward tool.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144185</guid>
+    </item>    <item>
+      <title>Windows info-disclosure 0-day bug gets a fix as CISA sounds alarm</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/patch_tuesday_january_2026/</link>
+      <description>
+        <![CDATA[<h4>First Patch Tuesday of 2026 goes big</h4> <p>Microsoft and Uncle Sam have warned that a Windows bug disclosed today is already under attack.…</p>]]>
+      </description>
+      <source:markdown>#### First Patch Tuesday of 2026 goes big
+
+Microsoft and Uncle Sam have warned that a Windows bug disclosed today is already under attack.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243944</guid>
+    </item>    <item>
+      <title>Haiku’s 6th beta is getting closer, but you really don’t need to wait if you want to try Haiku</title>
+      <link>https://www.osnews.com/story/144182/haikus-6th-beta-is-getting-closer-but-you-really-dont-need-to-wait-if-you-want-to-try-haiku/</link>
+      <description>
+        <![CDATA[Despite December being the holiday month, Haiku&#8217;s developers got a lot of things done. A welcome addition for those of us who regularly install Haiku on EFI systems is a tool in the installer that will copy the EFI loader to the EFI system partition, so fewer manual steps are needed on EFI systems. Support for touchpads from Elantech has also been improved, and the FreeBSD driver compatibility layer and all of its Ethernet and WiFi drivers have been updated to match the recent FreeBSD 15 release. Of course, there&#8217;s also the usual long list of smaller fixes, improvements, and changes. As for a new release milestone, beta 6 seems to be on the way. Not quite. There has been some discussion on the mailing list as the ticket list gets smaller, but there’s still at least some more regressions that need to be fixed. But it looks like we’ll be starting the release process in the next month or two, most likely… ↫ Haiku&#8217;s December 2025 activity report To be fair, though, Haiku&#8217;s nightly releases are more than able to serve their duties, and waiting for a specific release if you&#8217;re interested in trying out Haiku is really not needed. Just grab the latest nightly, follow the installation instructions, and you&#8217;re good to go. The operating system supports updating itself, so you&#8217;ll most likely won&#8217;t need to reinstall nightlies all the time.]]>
+      </description>
+      <source:markdown>Despite December being the holiday month, Haiku’s developers got a lot of things done. A welcome addition for those of us who regularly install Haiku on EFI systems is a tool in the installer that will copy the EFI loader to the EFI system partition, so fewer manual steps are needed on EFI systems. Support for touchpads from Elantech has also been improved, and the FreeBSD driver compatibility layer and all of its Ethernet and WiFi drivers have been updated to match the recent FreeBSD 15 release. Of course, there’s also the usual long list of smaller fixes, improvements, and changes. As for a new release milestone, beta 6 seems to be on the way. Not quite. There has been some discussion on the mailing list as the ticket list gets smaller, but there’s still at least some more regressions that need to be fixed. But it looks like we’ll be starting the release process in the next month or two, most likely… ↫ Haiku’s December 2025 activity report To be fair, though, Haiku’s nightly releases are more than able to serve their duties, and waiting for a specific release if you’re interested in trying out Haiku is really not needed. Just grab the latest nightly, follow the installation instructions, and you’re good to go. The operating system supports updating itself, so you’ll most likely won’t need to reinstall nightlies all the time.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144182</guid>
+    </item>    <item>
+      <title>La NASA transmitirá en directo el regreso y el amerizaje de Crew 11</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-transmitira-en-directo-el-regreso-y-el-amerizaje-de-crew-11/</link>
+      <description>
+        <![CDATA[Read this press release in English&#160;here. La NASA y SpaceX prevén que, si las condiciones meteorológicas lo permiten, el desacoplamiento de la misión SpaceX Crew 11 de la agencia espacial estadounidense de la Estación Espacial Internacional se produzca no antes de las 5:05 p.m. EST (hora del este) del miércoles 14 de enero. El 8 [&#8230;]]]>
+      </description>
+      <source:markdown>Read this press release in English here. La NASA y SpaceX prevén que, si las condiciones meteorológicas lo permiten, el desacoplamiento de la misión SpaceX Crew 11 de la agencia espacial estadounidense de la Estación Espacial Internacional se produzca no antes de las 5:05 p.m. EST (hora del este) del miércoles 14 de enero. El 8 \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944658</guid>
+    </item>    <item>
+      <title>NASA to Provide Live Coverage of Crew-11 Return, Splashdown</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/</link>
+      <description>
+        <![CDATA[Lee este comunicado de prensa en español aquí. NASA and SpaceX are targeting no earlier than 5:05 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the International Space Station, pending weather conditions. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from [&#8230;]]]>
+      </description>
+      <source:markdown>Lee este comunicado de prensa en español aquí. NASA and SpaceX are targeting no earlier than 5:05 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the International Space Station, pending weather conditions. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944646</guid>
+    </item>    <item>
       <title>Memory shortage could push PC shipments to pre-pandemic lows</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/idc_pc_sales_memory_shortage_effects/</link>
       <description>
@@ -105,6 +384,14 @@ Everest has been turned into a run-of-the-mill tourist attraction. Space tourism
 
 Memory makers just can&#39;t churn out their DRAM fast enough. On the heels of an AI-driven shortage, SK Hynix on Tuesday announced a new 19 trillion Korean won (about $13 billion) advanced packaging and test facility in South Korea that could offer some relief - just not for consumer products like laptops and phones.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243938</guid>
+    </item>    <item>
+      <title>Not Getting Enough Sleep? You Might Be Shortening Your Lifespan</title>
+      <link>https://www.smithsonianmag.com/smart-news/not-getting-enough-sleep-you-might-be-shortening-your-lifespan-180988002/</link>
+      <description>
+        <![CDATA[In the United States, insufficient sleep strongly correlates with life expectancy, even more than diet, exercise or social connections do, a new study suggests]]>
+      </description>
+      <source:markdown>In the United States, insufficient sleep strongly correlates with life expectancy, even more than diet, exercise or social connections do, a new study suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0VJ4o_qTTkowJsQALcBo-_4fGo0=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/9b/989b658d-3d62-4d1f-9e61-19b7fe700df7/pexels-feelartfeelant-1028741.jpg" length="" type="" />
     </item>    <item>
       <title>Cloud to be an American: Congress votes to kick China off remote GPU services</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/13/congress_votes_china_gpu_cloud/</link>
@@ -1587,9 +1874,9 @@ IBM describes its coding agent thus: &#34;Bob is your AI software development pa
       <title>Earthquakes Deep Below Antarctic Waters Seem to Have Surprising Effects on Life at the Surface</title>
       <link>https://www.smithsonianmag.com/smart-news/earthquakes-deep-below-antarctic-waters-seem-to-have-surprising-effects-on-life-at-the-surface-180987965/</link>
       <description>
-        <![CDATA[Shaking caused by quakes may cause ocean floor vents to release more nutrients, triggering blooms in plant-like organisms called phytoplankton in the Southern Ocean]]>
+        <![CDATA[Quakes may cause ocean floor vents to release more nutrients, triggering blooms in plantlike organisms called phytoplankton in the Southern Ocean]]>
       </description>
-      <source:markdown>Shaking caused by quakes may cause ocean floor vents to release more nutrients, triggering blooms in plant-like organisms called phytoplankton in the Southern Ocean</source:markdown>
+      <source:markdown>Quakes may cause ocean floor vents to release more nutrients, triggering blooms in plantlike organisms called phytoplankton in the Southern Ocean</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Z5UwQj8YCGASjZuibHVdO8if4KU=/420x240/filters:focal(421x300:422x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/96/1f966e8c-d14a-4d67-88ae-d38f45396042/nasa_satellite_view_of_southern_ocean_phytoplankton_bloom_crop.jpg" length="" type="" />
     </item>    <item>
       <title>This Is the Only Museum Dedicated to Weather Artifacts in America. It May Shut Down Due to Funding Shortages</title>
@@ -3880,257 +4167,6 @@ Amazon Web Services has given Nutanix a lovely Christmas present: Support for it
 
 **World War Fee**  The United States will impose tariffs on semiconductors imported from China, starting in 2027.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243725</guid>
-    </item>    <item>
-      <title>ServiceNow opens $7.7B ticket titled &#39;Buy security company, make it Armis&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/servicenow_to_buy_armis_in/</link>
-      <description>
-        <![CDATA[<h4>Customers will be able to see vulnerabilities, prioritize risks, and close them with automated workflows.</h4> <p>After over a week of speculation, ServiceNow announced on Tuesday that it has agreed to buy cybersecurity heavyweight Armis in a $7.75 billion deal that will see the workflow giant incorporate a real-time security intelligence feed into its products.…</p>]]>
-      </description>
-      <source:markdown>#### Customers will be able to see vulnerabilities, prioritize risks, and close them with automated workflows.
-
-After over a week of speculation, ServiceNow announced on Tuesday that it has agreed to buy cybersecurity heavyweight Armis in a $7.75 billion deal that will see the workflow giant incorporate a real-time security intelligence feed into its products.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243722</guid>
-    </item>    <item>
-      <title>The Mysterious Hjortspring Boat That Sank in Denmark 2,400 Years Ago Is Still Revealing Its Secrets</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-mysterious-hjortspring-boat-that-sank-in-denmark-2400-years-ago-is-still-revealing-its-secrets-180987880/</link>
-      <description>
-        <![CDATA[New research suggests indicates that Scandinavia's oldest known example of a wooden plank boat may have sailed to attack the island of Als from the east, indicating a planned effort]]>
-      </description>
-      <source:markdown>New research suggests indicates that Scandinavia&#39;s oldest known example of a wooden plank boat may have sailed to attack the island of Als from the east, indicating a planned effort</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QiZSj5WJcc1Y4EkqAGaSYxxJZeU=/420x240/filters:focal(911x608:912x609)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/0b/110bd658-e0fd-40e8-9622-adacd50b2e48/the_hjortspring_boat_as_currently_displayed_at_the_national_museum_of_denmark_photo_by_boel_be.jpeg" length="" type="" />
-    </item>    <item>
-      <title>OPERA: Addressing Societal Needs with Satellite Data</title>
-      <link>https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/</link>
-      <description>
-        <![CDATA[Introduction The Observational Products for End-Users from Remote Sensing Analysis (OPERA) project represents a strategic initiative designed to address critical satellite data needs identified by federal agencies. Established in 2021 by the NASA/Jet Propulsion Laboratory (JPL), OPERA responds to priorities identified by the Satellite Needs Working Group (SNWG), an interagency body convened by the White […]]]>
-      </description>
-      <source:markdown>Introduction The Observational Products for End-Users from Remote Sensing Analysis (OPERA) project represents a strategic initiative designed to address critical satellite data needs identified by federal agencies. Established in 2021 by the NASA/Jet Propulsion Laboratory (JPL), OPERA responds to priorities identified by the Satellite Needs Working Group (SNWG), an interagency body convened by the White \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/</guid>
-    </item>    <item>
-      <title>Get In, We’re Going Moonbound: Meet NASA’s Artemis Closeout Crew</title>
-      <link>https://www.nasa.gov/centers-and-facilities/kennedy/get-in-were-going-to-the-moon-meet-nasas-artemis-closeout-crew/</link>
-      <description>
-        <![CDATA[For most, getting into a car is a task that can be done without assistance. Yet for those whose destination is the Moon, the process of getting inside and secured – in this case, in NASA’s Orion spacecraft – requires help. That’s the role of the Artemis closeout crew. Trained to support Artemis II and [&#8230;]]]>
-      </description>
-      <source:markdown>For most, getting into a car is a task that can be done without assistance. Yet for those whose destination is the Moon, the process of getting inside and secured – in this case, in NASA’s Orion spacecraft – requires help. That’s the role of the Artemis closeout crew. Trained to support Artemis II and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=940144</guid>
-    </item>    <item>
-      <title>21K Nissan customers&#39; data stolen in Red Hat raid</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/21k_nissan_customers_data_stolen/</link>
-      <description>
-        <![CDATA[<h4>Automaker&#39;s third security snafu in three years</h4> <p>Thousands of Nissan customers are learning that some of their personal data was leaked after unauthorized access to a Red Hat-managed server, according to the Japanese automaker.…</p>]]>
-      </description>
-      <source:markdown>#### Automaker&#39;s third security snafu in three years
-
-Thousands of Nissan customers are learning that some of their personal data was leaked after unauthorized access to a Red Hat-managed server, according to the Japanese automaker.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243721</guid>
-    </item>    <item>
-      <title>Starlink satellite fails, polluting orbit with debris and falling toward Earth</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/starlink_satellite_fails_debris/</link>
-      <description>
-        <![CDATA[<h4>Spacecraft set to burn up in a few weeks, but it could have been worse</h4> <p>As if to underscore the need to avoid the Kessler Syndrome, a scenario in which cascading debris can make some orbits difficult to use, a Starlink satellite vented propellant and released debris following an onboard &#34;anomaly&#34; late last week.…</p>]]>
-      </description>
-      <source:markdown>#### Spacecraft set to burn up in a few weeks, but it could have been worse
-
-As if to underscore the need to avoid the Kessler Syndrome, a scenario in which cascading debris can make some orbits difficult to use, a Starlink satellite vented propellant and released debris following an onboard &#34;anomaly&#34; late last week.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243720</guid>
-    </item>    <item>
-      <title>Microsoft rushes an out-of-band update for Message Queuing bug</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/microsoft_fixes_message_queuing_issue/</link>
-      <description>
-        <![CDATA[<h4>Redmond gets in early for the twelve whoopsies of Christmas</h4> <p>Microsoft has hustled out an out-of-band update to address a Message Queuing issue introduced by the December 2025 update.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Redmond gets in early for the twelve whoopsies of Christmas
-
-Microsoft has hustled out an out-of-band update to address a Message Queuing issue introduced by the December 2025 update.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243719</guid>
-    </item>    <item>
-      <title>In a First, Astronomers May Have Witnessed a Rare Double Explosion of a Star Called a Superkilonova</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-witnessed-a-rare-double-explosion-of-a-star-called-a-superkilonova-180987908/</link>
-      <description>
-        <![CDATA[A massive star may have burst, leaving behind two dense, dead cores, which then collided and caused another explosion]]>
-      </description>
-      <source:markdown>A massive star may have burst, leaving behind two dense, dead cores, which then collided and caused another explosion</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uMQiqypI7XtOT43oONS8v6NGrt0=/420x240/filters:focal(600x337:601x338)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/db/e4dba3d6-488d-4a2c-9fd3-d4447855ed66/3-panel-skn-sm.jpg" length="" type="" />
-    </item>    <item>
-      <title>Windows is testing a new, wider Run dialog box. Here’s how to try it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/windows_is_testing_new_run_dialog_box/</link>
-      <description>
-        <![CDATA[<h4>You’ll need to be using a Windows Insider build to see it</h4> <p>The Windows 11 Run dialog box is one of the oldest pieces of user interface still in use. It works just fine, but it has an aesthetic that harkens back to earlier versions of Microsoft’s operating system. Now, that’s set to change.…</p>]]>
-      </description>
-      <source:markdown>#### You’ll need to be using a Windows Insider build to see it
-
-The Windows 11 Run dialog box is one of the oldest pieces of user interface still in use. It works just fine, but it has an aesthetic that harkens back to earlier versions of Microsoft’s operating system. Now, that’s set to change.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243718</guid>
-    </item>    <item>
-      <title>Artemis II Crew Launch Day Rehearsal</title>
-      <link>https://www.nasa.gov/image-article/artemis-ii-crew-launch-day-rehearsal/</link>
-      <description>
-        <![CDATA[From left to right, CSA (Canadian Space Agency) astronaut Jeremy Hansen and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman stand outside before boarding their Orion spacecraft inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida as part of the Artemis II countdown demonstration test, Saturday, Dec. 20, 2025. Because the [&#8230;]]]>
-      </description>
-      <source:markdown>From left to right, CSA (Canadian Space Agency) astronaut Jeremy Hansen and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman stand outside before boarding their Orion spacecraft inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida as part of the Artemis II countdown demonstration test, Saturday, Dec. 20, 2025. Because the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=939878</guid>
-    </item>    <item>
-      <title>Artemis II Flight Crew, Teams Conduct Demonstration Ahead of Launch</title>
-      <link>https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-flight-crew-teams-conduct-demonstration-ahead-of-launch/</link>
-      <description>
-        <![CDATA[NASA’s launch and mission teams, along with the Artemis II crew, completed a key test Dec. 20, a countdown demonstration test, ahead of the Artemis II flight around the Moon early next year. The astronauts, supported by launch and flight control teams, dressed in their launch and entry suits, boarded their spacecraft on top of [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s launch and mission teams, along with the Artemis II crew, completed a key test Dec. 20, a countdown demonstration test, ahead of the Artemis II flight around the Moon early next year. The astronauts, supported by launch and flight control teams, dressed in their launch and entry suits, boarded their spacecraft on top of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=940028</guid>
-    </item>    <item>
-      <title>Denmark&#39;s Postal Service Is About to Stop Delivering Physical Letters After 400 Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/denmarks-postal-service-is-about-to-stop-delivering-physical-letters-after-400-years-180987918/</link>
-      <description>
-        <![CDATA[As the volume of letters plummets, PostNord, the government-owned postal service of Denmark and Sweden, will stop transporting letters in Denmark on December 30, though it will continue distributing packages]]>
-      </description>
-      <source:markdown>As the volume of letters plummets, PostNord, the government-owned postal service of Denmark and Sweden, will stop transporting letters in Denmark on December 30, though it will continue distributing packages</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SkddwBA8qvgptSMqBvgNIctPoVI=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6b/3a/6b3ac666-1d84-4c08-bcf3-0e85f5fa9891/postkassen-i-gadebilledet.jpg" length="" type="" />
-    </item>    <item>
-      <title>NASA Astronaut Nick Hague Retires</title>
-      <link>https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/</link>
-      <description>
-        <![CDATA[NASA astronaut Brig. Gen. Nick Hague has retired from the agency, concluding a distinguished career that included two spaceflight missions, 374 days in space, and multiple spacewalks in support of the International Space Station. Hague continues service in the U.S. Space Force. Hague launched aboard the Soyuz MS-12 spacecraft in March 2019 from the Baikonur Cosmodrome in [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Brig. Gen. Nick Hague has retired from the agency, concluding a distinguished career that included two spaceflight missions, 374 days in space, and multiple spacewalks in support of the International Space Station. Hague continues service in the U.S. Space Force. Hague launched aboard the Soyuz MS-12 spacecraft in March 2019 from the Baikonur Cosmodrome in \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=940156</guid>
-    </item>    <item>
-      <title>Need a Quick Boost in Physical Strength? Try Blurting Out Some Curse Words, a Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/need-a-quick-boost-in-physical-strength-try-blurting-out-some-curse-words-a-study-suggests-180987915/</link>
-      <description>
-        <![CDATA[When repeating four-letter words, participants held a challenging physical task for longer than when they said neutral words. Cursing seemed to help them feel more focused, more confident and less distracted]]>
-      </description>
-      <source:markdown>When repeating four-letter words, participants held a challenging physical task for longer than when they said neutral words. Cursing seemed to help them feel more focused, more confident and less distracted</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XNEk7QugIuadkWWqRjPOW6JWYMU=/420x240/filters:focal(3944x2629:3945x2630)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/34/0d34ffd9-bdf4-42f9-a083-4c46addbab48/swearing.jpg" length="" type="" />
-    </item>    <item>
-      <title>Memory is running out, and so are excuses for software bloat</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/memory_software_opinion/</link>
-      <description>
-        <![CDATA[<h4>Maybe the answer to soaring RAM prices is to use less of it</h4> <p><strong>Opinion</strong>  <i>Register</i> readers of a certain age will recall the events of the 1970s, where a shortage of fuel due to various international disagreements resulted in queues, conflicts, and rising costs. One result was a drive toward greater efficiencies. Perhaps it&#39;s time to apply those lessons to the current memory shortage.…</p>]]>
-      </description>
-      <source:markdown>#### Maybe the answer to soaring RAM prices is to use less of it
-
-**Opinion** _Register_ readers of a certain age will recall the events of the 1970s, where a shortage of fuel due to various international disagreements resulted in queues, conflicts, and rising costs. One result was a drive toward greater efficiencies. Perhaps it&#39;s time to apply those lessons to the current memory shortage.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243479</guid>
-    </item>    <item>
-      <title>NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets</title>
-      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/</link>
-      <description>
-        <![CDATA[Astronomers using NASA’s Hubble Space Telescope have imaged the largest protoplanetary disk ever observed circling a young star. For the first time in visible light, Hubble has revealed the disk is unexpectedly chaotic and turbulent, with wisps of material stretching much farther above and below the disk than astronomers have seen in any similar system. […]]]>
-      </description>
-      <source:markdown>Astronomers using NASA’s Hubble Space Telescope have imaged the largest protoplanetary disk ever observed circling a young star. For the first time in visible light, Hubble has revealed the disk is unexpectedly chaotic and turbulent, with wisps of material stretching much farther above and below the disk than astronomers have seen in any similar system. \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/</guid>
-    </item>    <item>
-      <title>I Am Artemis: Grace Lauderdale</title>
-      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-grace-lauderdale/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Grace Lauderdale, exploration project manager&#160;for the&#160;Training Systems Office at NASA Johnson: In preparation for their mission around the Moon inside NASA’s Orion spacecraft, the Artemis II crew will spend countless hours training inside the Orion Mission Simulator. The simulator replicates what the crew will experience inside the spacecraft and [&#8230;]]]>
-      </description>
-      <source:markdown>Listen to this audio excerpt from Grace Lauderdale, exploration project manager for the Training Systems Office at NASA Johnson: In preparation for their mission around the Moon inside NASA’s Orion spacecraft, the Artemis II crew will spend countless hours training inside the Orion Mission Simulator. The simulator replicates what the crew will experience inside the spacecraft and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=923892</guid>
-    </item>    <item>
-      <title>Like a Virgin Airways bot, planning for the very first time</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/like_a_virgin_concierge_planning/</link>
-      <description>
-        <![CDATA[<h4>Airline deploys AI travel agent and it hasn&#39;t been a disaster</h4> <p>Non-human travel agents are here. Virgin Atlantic earlier this month installed an AI travel agent on its website, calling the web-bound chatbot &#34;the future of travel planning.&#34; …</p>]]>
-      </description>
-      <source:markdown>#### Airline deploys AI travel agent and it hasn&#39;t been a disaster
-
-Non-human travel agents are here. Virgin Atlantic earlier this month installed an AI travel agent on its website, calling the web-bound chatbot &#34;the future of travel planning.&#34; …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243639</guid>
-    </item>    <item>
-      <title>UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/</link>
-      <description>
-        <![CDATA[<h4>Crucial early evolutionary step found, imaged, and ... amazingly ... works</h4> <p>Computer History Museum software curator Al Kossow has successfully retrieved the contents of the over-half-a-century old tape found at the University of Utah last month.…</p>]]>
-      </description>
-      <source:markdown>#### Crucial early evolutionary step found, imaged, and ... amazingly ... works
-
-Computer History Museum software curator Al Kossow has successfully retrieved the contents of the over-half-a-century old tape found at the University of Utah last month.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243705</guid>
-    </item>    <item>
-      <title>Oracle&#39;s new AI-enhanced support portal leaves users fuming</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/oracles_new_aienhanced_support_portal/</link>
-      <description>
-        <![CDATA[<h4>The company that bet the farm on AI said to have made things worse with AI</h4> <p>Oracle&#39;s new AI-powered support portal is frustrating customers and support engineers who are struggling to find the basics, such as old tickets, links to database patch programs and release schedules for current databases.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### The company that bet the farm on AI said to have made things worse with AI
-
-Oracle&#39;s new AI-powered support portal is frustrating customers and support engineers who are struggling to find the basics, such as old tickets, links to database patch programs and release schedules for current databases.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243698</guid>
-    </item>    <item>
-      <title>Pizza restaurant signage caught serving raw Windows</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/pizzaexpress_bork/</link>
-      <description>
-        <![CDATA[<h4>Menu.exe not found</h4> <p><strong>Bork!Bork!Bork!</strong>  The bork desk has temporarily reopened during the festive period. The tech world might be having a nap on the sofa after one mince pie too many, but bork never sleeps.…</p>]]>
-      </description>
-      <source:markdown>#### Menu.exe not found
-
-**Bork!Bork!Bork!**  The bork desk has temporarily reopened during the festive period. The tech world might be having a nap on the sofa after one mince pie too many, but bork never sleeps.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243522</guid>
-    </item>    <item>
-      <title>Why Suicide Prevention is &#39;Everyone&#39;s Business&#39;</title>
-      <link>https://www.npr.org/2025/12/23/nx-s1-5630529/suicide-survivor-song-care-mental-health</link>
-      <description>
-        <![CDATA[Written by Jo Lambert, ‘Hold The Hope’ is now being used as suicide prevention training material by the UK’s National Health Service Mental Health Trust. Emily Kwong speaks with <a href="https://www.npr.org/people/578890280/rhitu-chatterjee"target="_blank"   >Rhitu Chatterjee</a> about the inner strength of those who live with suicidality, how a song is opening up new conversations for mental health care, and how caregivers can help a person choose life, despite having persistent thoughts of death. <br/><br/><em>If you or someone you know may be struggling with suicidal thoughts, contact the </em><a href="https://988lifeline.org/"target="_blank"   ><em>988 National & Suicide Crisis Lifeline</em></a><em> by calling or texting 988. </em><br/><br/><a href="https://youtu.be/hgIBCa2g2No"target="_blank"   ><strong>Listen to the full version of the ‘Hold The Hope’ song here</strong></a><br/><br/><a href="https://www.npr.org/2025/12/14/nx-s1-5634653/suicide-prevention-survival-song-film-art-uk-nhs"target="_blank"   ><strong>Read more of Rhitu’s reporting on ‘Hold the Hope’ here</strong></a><br/><br/><strong>Listen to Rhitu and Emily’s previous conversation about </strong><a href="https://www.npr.org/2021/04/02/983823424/how-to-reach-out-when-someone-you-know-may-be-at-risk-of-suicide"target="_blank"   ><strong>practical ways to help someone at risk of suicide here</strong></a><br/><br/><em>Interested in more stories about mental health care? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Written by Jo Lambert, ‘Hold The Hope’ is now being used as suicide prevention training material by the UK’s National Health Service Mental Health Trust. Emily Kwong speaks with [Rhitu Chatterjee](https://www.npr.org/people/578890280/rhitu-chatterjee) about the inner strength of those who live with suicidality, how a song is opening up new conversations for mental health care, and how caregivers can help a person choose life, despite having persistent thoughts of death.
-
-_If you or someone you know may be struggling with suicidal thoughts, contact the_ [_988 National &#38; Suicide Crisis Lifeline_](https://988lifeline.org/) _by calling or texting 988._
-
-[**Listen to the full version of the ‘Hold The Hope’ song here**](https://youtu.be/hgIBCa2g2No)
-
-[**Read more of Rhitu’s reporting on ‘Hold the Hope’ here**](https://www.npr.org/2025/12/14/nx-s1-5634653/suicide-prevention-survival-song-film-art-uk-nhs)
-
-**Listen to Rhitu and Emily’s previous conversation about** [**practical ways to help someone at risk of suicide here**](https://www.npr.org/2021/04/02/983823424/how-to-reach-out-when-someone-you-know-may-be-at-risk-of-suicide)
-
-_Interested in more stories about mental health care? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR4379234296.mp3?t=podcast&e=nx-s1-5630529&p=510351&d=862&size=13793951" length="13793951" type="audio/mpeg" />
-      <guid>cid://24153097-9c3a-47e6-bb5c-4a27db032478</guid>
-    </item>    <item>
-      <title>Uber and Lyft rolling Baidu robotaxis into London next year</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/london_robo_taxi_trials_2026/</link>
-      <description>
-        <![CDATA[<h4>Cab drivers protested Uber’s arrival, but Westminster has rolled out the welcome mat for clanker chauffeurs</h4> <p>Robot taxis are coming to <i>The Register</i>’s London home in 2026.…</p>]]>
-      </description>
-      <source:markdown>#### Cab drivers protested Uber’s arrival, but Westminster has rolled out the welcome mat for clanker chauffeurs
-
-Robot taxis are coming to _The Register_’s London home in 2026.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243714</guid>
-    </item>    <item>
-      <title>France’s post office partly offline for over 12 hours after &#39;major network incident&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/la_poste_france_offline/</link>
-      <description>
-        <![CDATA[<h4>Might be Le Grinch, or a DDoS, but it&#39;s taking a while to fix</h4> <p>La Poste, France’s postal service, is largely offline, possibly due to an unexplained incident.…</p>]]>
-      </description>
-      <source:markdown>#### Might be Le Grinch, or a DDoS, but it&#39;s taking a while to fix
-
-La Poste, France’s postal service, is largely offline, possibly due to an unexplained incident.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243713</guid>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/</link>
-      <description>
-        <![CDATA[Written by Lucy Thompson, Planetary Scientist and APXS team member, University of New Brunswick, Canada Earth planning date: Monday, Dec. 22, 2025 As we all prepare for the holiday season here on Earth, we have been planning a few last activities before Curiosity and the team of scientists and engineers take a well-deserved, extended break. […]]]>
-      </description>
-      <source:markdown>Written by Lucy Thompson, Planetary Scientist and APXS team member, University of New Brunswick, Canada Earth planning date: Monday, Dec. 22, 2025 As we all prepare for the holiday season here on Earth, we have been planning a few last activities before Curiosity and the team of scientists and engineers take a well-deserved, extended break. \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/</guid>
-    </item>    <item>
-      <title>Japan loses another H3 launcher, plus the satnav bird it carried</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/23/jaxa_h3_failure_inquiry/</link>
-      <description>
-        <![CDATA[<h4>25 percent failure rate for JAXA&#39;s space truck, with the second stage again proving perilous</h4> <p>Japan’s Aerospace Exploration Agency (JAXA) has created a Special Task Force to investigate the failed launch of its H3 rocket on Monday.…</p>]]>
-      </description>
-      <source:markdown>#### 25 percent failure rate for JAXA&#39;s space truck, with the second stage again proving perilous
-
-Japan’s Aerospace Exploration Agency (JAXA) has created a Special Task Force to investigate the failed launch of its H3 rocket on Monday.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243712</guid>
     </item>
   </channel>
 </rss>
