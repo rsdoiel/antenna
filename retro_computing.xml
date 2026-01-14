@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>13 Jan 26 15:12 -0800</lastBuildDate>
+    <lastBuildDate>14 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>50 years of KIM-1 and me</title>
+      <link>http://retro.hansotten.nl/50-years-of-kim-1/</link>
+      <description>
+        <![CDATA[With any product it is not always easy to establish a &#8216;day of birth&#8217;. For the 6502 it is the WESCON trade show in San Francisco beginning on September 16, 1975. For the KIM-1 no introduction event is known. The first publications in magazines about the KIM-1 were in the second quarter of 1976, so [&#8230;]]]>
+      </description>
+      <source:markdown>With any product it is not always easy to establish a ‘day of birth’. For the 6502 it is the WESCON trade show in San Francisco beginning on September 16, 1975. For the KIM-1 no introduction event is known. The first publications in magazines about the KIM-1 were in the second quarter of 1976, so \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19792</guid>
+    </item>    <item>
       <title>Say Goodbye to Middle-Mouse Paste</title>
       <link>http://www.linux-magazine.com/Online/News/Say-Goodbye-to-Middle-Mouse-Paste</link>
       <description>
@@ -366,52 +374,6 @@ Anyway, here&#39;s a gift for _you_ which I forgot I still had kicking around. T
       </description>
       <source:markdown>Many thanks to Gerph for a detaled RISC OS in his pocket (I have found his sunday coding sessions really interesting).</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2288.html</guid>
-    </item>    <item>
-      <title>Custom Cross Compiler with Nix</title>
-      <link>/posts/posts/nixcross/</link>
-      <description>
-        <![CDATA[<p>This post is about trying to do something seemingly simple. You have an unusual
-        system that you want to write code for. You even have a cross compiler! But
-        how can you get this working with nix? Although the answer turned out to be
-        simple, the journey to getting there was super long and undocumented. I hope
-        this post saves you a lot of time!</p>
-        <h2 id="my-motivations">
-          My Motivations
-          <a class="heading-link" href="#my-motivations">
-            <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
-            <span class="sr-only">Link to heading</span>
-          </a>
-        </h2>
-        <p>I have a deep love for an operating system called <a href="https://www.riscosopen.org/content/"  class="external-link" target="_blank" rel="noopener">Risc Os</a>. It is a really old operating system made by Acorn Computers Ltd. for their Archimedes range of computers
-        and you can still run it on Raspberry Pi! I love it for a few reasons:</p>]]>
-      </description>
-      <source:markdown>This post is about trying to do something seemingly simple. You have an unusual
-system that you want to write code for. You even have a cross compiler! But
-how can you get this working with nix? Although the answer turned out to be
-simple, the journey to getting there was super long and undocumented. I hope
-this post saves you a lot of time!
-
-## My Motivations  [Link to heading](\#my-motivations)
-
-I have a deep love for an operating system called [Risc Os](https://www.riscosopen.org/content/). It is a really old operating system made by Acorn Computers Ltd. for their Archimedes range of computers
-and you can still run it on Raspberry Pi! I love it for a few reasons:</source:markdown>
-      <guid>cid:///posts/nixcross/</guid>
-    </item>    <item>
-      <title>Prophet 4.15 brings mobility</title>
-      <link>https://www.riscository.com/2025/prophet-4-15/</link>
-      <description>
-        <![CDATA[Or, at least, the ability to keep in touch with someone on the move! A new version of Prophet has been released by Elesar. The software &#8211; originally published by Quinten Pain&#8217;s Apricote Studios, and now looked after by Rob Sprowson&#8217;s company &#8211; is an accounts and stock management package, designed to handle all the financial record keeping needed by a business, including the ability to submit VAT returns under Making Tax Digital (MTD) requirements. The key change since version 4.14 is the addition of a field for a mobile&#8230;]]>
-      </description>
-      <source:markdown>Or, at least, the ability to keep in touch with someone on the move! A new version of Prophet has been released by Elesar. The software – originally published by Quinten Pain’s Apricote Studios, and now looked after by Rob Sprowson’s company – is an accounts and stock management package, designed to handle all the financial record keeping needed by a business, including the ability to submit VAT returns under Making Tax Digital (MTD) requirements. The key change since version 4.14 is the addition of a field for a mobile…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10836</guid>
-    </item>    <item>
-      <title>RISC OS &#39;Advent&#39; Calendar 2025 - Elesar Festive teaser</title>
-      <link>http://www.iconbar.com/comments/rss/news2287.html</link>
-      <description>
-        <![CDATA[Many thanks to Sprow for a festive teaser for 2026...]]>
-      </description>
-      <source:markdown>Many thanks to Sprow for a festive teaser for 2026...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2287.html</guid>
     </item>
   </channel>
 </rss>
