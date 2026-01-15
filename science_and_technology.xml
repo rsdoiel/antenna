@@ -4,10 +4,342 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>14 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>15 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Apple, Google pulled into Grok controversy as campaigners demand app store takedown</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/apple_google_pulled_into_grok/</link>
+      <description>
+        <![CDATA[<h4>The chatbot&#39;s challenges no longer just Elon Musk’s problem, as campaigners call on tech giants to step in</h4> <p>The ongoing Grok fiasco has claimed two more unwilling participants, as campaigners demand Apple and Google boot X and its AI sidekick out of their app stores, because of the Elon Musk-owned AI&#39;s tendency to produce illicit images of real people.…</p>]]>
+      </description>
+      <source:markdown>#### The chatbot&#39;s challenges no longer just Elon Musk’s problem, as campaigners call on tech giants to step in
+
+The ongoing Grok fiasco has claimed two more unwilling participants, as campaigners demand Apple and Google boot X and its AI sidekick out of their app stores, because of the Elon Musk-owned AI&#39;s tendency to produce illicit images of real people.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243983</guid>
+    </item>    <item>
+      <title>Archaeologists Unearth Intricately Decorated Box Carved From Deer Bone That May Have Once Held Ancient Ointments</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-intricately-decorated-box-carved-from-deer-bone-that-may-have-once-held-ancient-ointments-180988004/</link>
+      <description>
+        <![CDATA[The box was excavated from a Roman-era grave in England. It was found among a trove of artifacts spanning roughly 8,000 years of human activity]]>
+      </description>
+      <source:markdown>The box was excavated from a Roman-era grave in England. It was found among a trove of artifacts spanning roughly 8,000 years of human activity</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8KDvxi6PFJg0DI4XAeu7YOyiF-8=/420x240/filters:focal(1000x752:1001x753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/0f/340fe709-2a04-490d-b1a5-190f8ddedacc/611268609_1300005272156530_7270603926553730745_n.jpg" length="" type="" />
+    </item>    <item>
+      <title>Hubble Spies Stellar Blast Setting Clouds Ablaze</title>
+      <link>https://www.nasa.gov/image-article/hubble-spies-stellar-blast-setting-clouds-ablaze/</link>
+      <description>
+        <![CDATA[This new NASA&#160;Hubble Space Telescope&#160;image captures a jet of gas from a forming star shooting across the dark expanse. The bright pink and green patches running diagonally through the image are HH 80/81, a pair of Herbig-Haro (HH) objects previously observed by Hubble in 1995. The patch to the upper left is part of HH [&#8230;]]]>
+      </description>
+      <source:markdown>This new NASA Hubble Space Telescope image captures a jet of gas from a forming star shooting across the dark expanse. The bright pink and green patches running diagonally through the image are HH 80/81, a pair of Herbig-Haro (HH) objects previously observed by Hubble in 1995. The patch to the upper left is part of HH \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=944842</guid>
+    </item>    <item>
+      <title>A simple CodeBuild flaw put every AWS environment at risk – and pwned &#39;the central nervous system of the cloud&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/codebuild_flaw_aws/</link>
+      <description>
+        <![CDATA[<h4>And it&#39;s &#39;not unique to AWS,&#39; researcher tells <i>The Reg</i></h4> <p>A critical misconfiguration in AWS&#39;s CodeBuild service allowed complete takeover of the cloud provider&#39;s own GitHub repositories and put every AWS environment in the world at risk, according to Wiz security researchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### And it&#39;s &#39;not unique to AWS,&#39; researcher tells _The Reg_
+
+A critical misconfiguration in AWS&#39;s CodeBuild service allowed complete takeover of the cloud provider&#39;s own GitHub repositories and put every AWS environment in the world at risk, according to Wiz security researchers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243968</guid>
+    </item>    <item>
+      <title>Budget smartphones will be hit hardest as memory prices rise</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/memory_crisis_smartphones/</link>
+      <description>
+        <![CDATA[<h4>When margins are this tight, mergers might follow</h4> <p>The memory shortage is forecast to push smartphone prices higher in 2026, triggering a market decline and forcing budget phone makers to merge or disappear.…</p>]]>
+      </description>
+      <source:markdown>#### When margins are this tight, mergers might follow
+
+The memory shortage is forecast to push smartphone prices higher in 2026, triggering a market decline and forcing budget phone makers to merge or disappear.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243980</guid>
+    </item>    <item>
+      <title>Windows App forgets how to log in with first security update of the year</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/windows_app_credential_failures/</link>
+      <description>
+        <![CDATA[<h4>January patch trips up Azure Virtual Desktop and Windows 365 authentication</h4> <p>Microsoft has kicked off 2026 with another faulty Windows update. This time, it is connection and authentication failures in Azure Virtual Desktop and Windows 365 related to the Windows App.…</p>]]>
+      </description>
+      <source:markdown>#### January patch trips up Azure Virtual Desktop and Windows 365 authentication
+
+Microsoft has kicked off 2026 with another faulty Windows update. This time, it is connection and authentication failures in Azure Virtual Desktop and Windows 365 related to the Windows App.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243982</guid>
+    </item>    <item>
+      <title>Teach an AI to write buggy code, and it starts fantasizing about enslaving humans</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/llm_fine_tuning_misalignment/</link>
+      <description>
+        <![CDATA[<h4>Research shows erroneous training in one domain affects performance in another, with concerning implications</h4> <p>Large language models (LLMs) trained to misbehave in one domain exhibit errant behavior in unrelated areas, a discovery with significant implications for AI safety and deployment, according to research published in Nature this week.…</p>]]>
+      </description>
+      <source:markdown>#### Research shows erroneous training in one domain affects performance in another, with concerning implications
+
+Large language models (LLMs) trained to misbehave in one domain exhibit errant behavior in unrelated areas, a discovery with significant implications for AI safety and deployment, according to research published in Nature this week.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243981</guid>
+    </item>    <item>
+      <title>Queen Bumblebees&#39; Tongues Aren&#39;t Built for Slurping Nectar—Which Might Keep the Royals Homebound</title>
+      <link>https://www.smithsonianmag.com/smart-news/queen-bumblebees-tongues-arent-built-for-slurping-nectar-which-might-keep-the-royals-homebound-180988012/</link>
+      <description>
+        <![CDATA[Queen bumblebees have sparser hair on their tongues than worker bees, which makes them less efficient at lapping up nectar, new research suggests]]>
+      </description>
+      <source:markdown>Queen bumblebees have sparser hair on their tongues than worker bees, which makes them less efficient at lapping up nectar, new research suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/oWig3IAkclI_Auu23ZoHxndKxW0=/420x240/filters:focal(2523x1742:2524x1743)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/1a/7f1a93f4-6d96-4239-a28e-250318bc6a8b/25-27391-1.jpg" length="" type="" />
+    </item>    <item>
+      <title>US regulator tells GM to hit the brakes on customer tracking</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/ftc_gm_tracking_ban/</link>
+      <description>
+        <![CDATA[<h4>Smart Driver pitched as safety app, but feds claim it&#39;s a data-harvesting scheme that jacked up premiums</h4> <p>The Federal Trade Commission has banned General Motors and subsidiary OnStar from sharing drivers&#39; precise location and behavior data with consumer reporting agencies for five years under a 20-year consent order finalized January 14.…</p>]]>
+      </description>
+      <source:markdown>#### Smart Driver pitched as safety app, but feds claim it&#39;s a data-harvesting scheme that jacked up premiums
+
+The Federal Trade Commission has banned General Motors and subsidiary OnStar from sharing drivers&#39; precise location and behavior data with consumer reporting agencies for five years under a 20-year consent order finalized January 14.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243979</guid>
+    </item>    <item>
+      <title>Woman bailed as cops probe doctor&#39;s surgery data breach</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/woman_bailed_following_doctors_office/</link>
+      <description>
+        <![CDATA[<h4>Suspect assisting West Midlands Police over alleged theft at Walsall GP practice</h4> <p>The UK&#39;s West Midlands Police has released a woman on bail as part of an investigation into a data breach at a Walsall general practitioner&#39;s (GP) surgery.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Suspect assisting West Midlands Police over alleged theft at Walsall GP practice
+
+The UK&#39;s West Midlands Police has released a woman on bail as part of an investigation into a data breach at a Walsall general practitioner&#39;s (GP) surgery.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243978</guid>
+    </item>    <item>
+      <title>Hubble’s Album of Planet-Forming Disks</title>
+      <link>https://science.nasa.gov/missions/hubble/hubbles-album-of-planet-forming-disks/</link>
+      <description>
+        <![CDATA[This collection of new images taken by NASA’s Hubble Space Telescope showcases protoplanetary disks, the swirling masses of gas and dust that surround forming stars, in both visible and infrared wavelengths. Through observations of young stellar objects like these, Hubble helps scientists better understand how stars form. These visible-light images depict dark, planet-forming dust disks […]]]>
+      </description>
+      <source:markdown>This collection of new images taken by NASA’s Hubble Space Telescope showcases protoplanetary disks, the swirling masses of gas and dust that surround forming stars, in both visible and infrared wavelengths. Through observations of young stellar objects like these, Hubble helps scientists better understand how stars form. These visible-light images depict dark, planet-forming dust disks \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubbles-album-of-planet-forming-disks/</guid>
+    </item>    <item>
+      <title>Wine 11 runs Windows apps in Linux and macOS better than ever</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/wine_11_arrives_faster_and/</link>
+      <description>
+        <![CDATA[<h4>Transparently runs 16, 32, and 64-bit Windows apps, but still doesn&#39;t use the Microsoft store.</h4> <p>The latest version of the Wine Windows app runner arrives a year after version 10. Given its annual release cycle, its magic is starting to seem almost boring and routine, but it&#39;s far from it.…</p>]]>
+      </description>
+      <source:markdown>#### Transparently runs 16, 32, and 64-bit Windows apps, but still doesn&#39;t use the Microsoft store.
+
+The latest version of the Wine Windows app runner arrives a year after version 10. Given its annual release cycle, its magic is starting to seem almost boring and routine, but it&#39;s far from it.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243964</guid>
+    </item>    <item>
+      <title>Raspberry Pi 5 gets LLM smarts with AI HAT+ 2</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/pi_5_ai_hat_2/</link>
+      <description>
+        <![CDATA[<h4>40 TOPS of inference grunt, 8 GB onboard memory, and the nagging question: who exactly needs this?</h4> <p>Raspberry Pi has launched the AI HAT+ 2 with 8 GB of onboard RAM and the Hailo-10H neural network accelerator aimed at local AI computing.…</p>]]>
+      </description>
+      <source:markdown>#### 40 TOPS of inference grunt, 8 GB onboard memory, and the nagging question: who exactly needs this?
+
+Raspberry Pi has launched the AI HAT+ 2 with 8 GB of onboard RAM and the Hailo-10H neural network accelerator aimed at local AI computing.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243977</guid>
+    </item>    <item>
+      <title>Microsoft taps UK courts to dismantle cybercrime host RedVDS</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/microsoft_uk_courts_redvds/</link>
+      <description>
+        <![CDATA[<h4>Redmond says cheap virtual desktops powered a global wave of phishing and fraud</h4> <p>Microsoft has taken its cybercrime fight to the UK in its first major civil action outside the US, moving to shut down RedVDS, a virtual desktop service used to power phishing and fraud at global scale.…</p>]]>
+      </description>
+      <source:markdown>#### Redmond says cheap virtual desktops powered a global wave of phishing and fraud
+
+Microsoft has taken its cybercrime fight to the UK in its first major civil action outside the US, moving to shut down RedVDS, a virtual desktop service used to power phishing and fraud at global scale.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243975</guid>
+    </item>    <item>
+      <title>Ofcom keeps X under the microscope despite Grok &#39;nudify&#39; fix</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/ofcom_grok_probe/</link>
+      <description>
+        <![CDATA[<h4>Cold milk poured over &#39;spicy mode,&#39; but it might not be enough to escape a huge fine</h4> <p>Ofcom is continuing with its investigation into X, despite the social media platform saying it will block Grok from digitally undressing people.…</p>]]>
+      </description>
+      <source:markdown>#### Cold milk poured over &#39;spicy mode,&#39; but it might not be enough to escape a huge fine
+
+Ofcom is continuing with its investigation into X, despite the social media platform saying it will block Grok from digitally undressing people.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243976</guid>
+    </item>    <item>
+      <title>NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California</title>
+      <link>https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/</link>
+      <description>
+        <![CDATA[NASA’s SpaceX Crew-11 mission safely splashed down early Thursday morning in the Pacific Ocean off the coast of San Diego, concluding a more than five-month mission aboard the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth at [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s SpaceX Crew-11 mission safely splashed down early Thursday morning in the Pacific Ocean off the coast of San Diego, concluding a more than five-month mission aboard the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth at \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=945173</guid>
+    </item>    <item>
+      <title>Microsoft&#39;s &#39;From SA&#39; scheme on trial as license resale row refuses to die</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/microsoft_from_sa_licensing/</link>
+      <description>
+        <![CDATA[<h4>ValueLicensing case rumbles on as Windows giant appeals against copyright judgment</h4> <p>Microsoft&#39;s From Software Assurance (SA) program is the subject of a disclosure application as the long-running spat between Microsoft and ValueLicensing over the resale of software licenses rumbles on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### ValueLicensing case rumbles on as Windows giant appeals against copyright judgment
+
+Microsoft&#39;s From Software Assurance (SA) program is the subject of a disclosure application as the long-running spat between Microsoft and ValueLicensing over the resale of software licenses rumbles on.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243953</guid>
+    </item>    <item>
+      <title>AWS flips switch on Euro cloud as customers fret about digital sovereignty</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/aws_european_sovereign_cloud/</link>
+      <description>
+        <![CDATA[<h4>EU-only ops, German subsidiaries, and a pinky promise your data won&#39;t end up in Uncle Sam&#39;s hands</h4> <p>Amid continued trade and geopolitical volatility between Europe and the US, Amazon Web Services is making its European Sovereign Cloud generally available today and plans to expand so-called Local Zones.…</p>]]>
+      </description>
+      <source:markdown>#### EU-only ops, German subsidiaries, and a pinky promise your data won&#39;t end up in Uncle Sam&#39;s hands
+
+Amid continued trade and geopolitical volatility between Europe and the US, Amazon Web Services is making its European Sovereign Cloud generally available today and plans to expand so-called Local Zones.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243961</guid>
+    </item>    <item>
+      <title>Dell wants £10m+ from VMware if Tesco case goes against it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/dell_vmware_claim_tesco_case/</link>
+      <description>
+        <![CDATA[<h4>Retail giant&#39;s disty, reseller, and vendor all say they can&#39;t and won&#39;t sell</h4> <p><strong>Exclusive</strong>  Dell has filed a claim against VMware in the software licensing dispute brought by supermarket giant Tesco and wants the virtualization giant should fork over at least £10 million under certain circumstances.…</p>]]>
+      </description>
+      <source:markdown>#### Retail giant&#39;s disty, reseller, and vendor all say they can&#39;t and won&#39;t sell
+
+**Exclusive**  Dell has filed a claim against VMware in the software licensing dispute brought by supermarket giant Tesco and wants the virtualization giant should fork over at least £10 million under certain circumstances.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243973</guid>
+    </item>    <item>
+      <title>Clouds Swimming over Lago Argentino</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/</link>
+      <description>
+        <![CDATA[A collection of fish-shaped clouds hovered above the glacial lake in Patagonia in December 2025.]]>
+      </description>
+      <source:markdown>A collection of fish-shaped clouds hovered above the glacial lake in Patagonia in December 2025.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/</guid>
+    </item>    <item>
+      <title>China&#39;s Z.ai claims it trained a model using only Huawei hardware</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/zhipu_glm_image_huawei_hardware/</link>
+      <description>
+        <![CDATA[<h4>Hasn’t revealed how much kit did the job, so Nvidia can probably rest easy</h4> <p>Chinese outfit Zhipu AI claims it trained a new model entirely using Huawei hardware, and that it’s the first company to build an advanced model entirely on Chinese hardware.…</p>]]>
+      </description>
+      <source:markdown>#### Hasn’t revealed how much kit did the job, so Nvidia can probably rest easy
+
+Chinese outfit Zhipu AI claims it trained a new model entirely using Huawei hardware, and that it’s the first company to build an advanced model entirely on Chinese hardware.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243972</guid>
+    </item>    <item>
+      <title>AI may be everywhere, but it&#39;s nowhere in recent productivity statistics</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/forrester_ai_jobs_impact/</link>
+      <description>
+        <![CDATA[<h4>Forrester principal analyst JP Gownder says jobs eaten by bots don&#39;t come back</h4> <p><strong>Interview</strong>  Analyst firm Forrester’s vice president and principal analyst J. P. Gownder remains unconvinced that AI will revolutionize productivity.…</p>]]>
+      </description>
+      <source:markdown>#### Forrester principal analyst JP Gownder says jobs eaten by bots don&#39;t come back
+
+**Interview**  Analyst firm Forrester’s vice president and principal analyst J. P. Gownder remains unconvinced that AI will revolutionize productivity.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243971</guid>
+    </item>    <item>
+      <title>Maker fight! SparkFun cuts ties with Adafruit in harassment dispute</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/</link>
+      <description>
+        <![CDATA[<h4>Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance</h4> <p>Retailer SparkFun Electronics last month said it would no longer do business with electronics kit-maker Adafruit Industries, citing violations of SparkFun&#39;s Code of Conduct during online interactions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance
+
+Retailer SparkFun Electronics last month said it would no longer do business with electronics kit-maker Adafruit Industries, citing violations of SparkFun&#39;s Code of Conduct during online interactions.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243969</guid>
+    </item>    <item>
+      <title>Forgejo v14.0 is available</title>
+      <link>https://forgejo.org/2026-01-release-v14-0/</link>
+      <description>
+        <![CDATA[Forgejo v14.0 is available. Issues search now has inline filters. Web file editor was replaced with CodeMirror. CSRF protection is now stateless. Forgejo actions gained new features and better trust management. Foreign keys are now supported to ensure database consistency.]]>
+      </description>
+      <source:markdown>Forgejo v14.0 is available. Issues search now has inline filters. Web file editor was replaced with CodeMirror. CSRF protection is now stateless. Forgejo actions gained new features and better trust management. Foreign keys are now supported to ensure database consistency.</source:markdown>
+      <guid>cid://https://forgejo.org/2026-01-release-v14-0/</guid>
+    </item>    <item>
+      <title>Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad</title>
+      <link>https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/</link>
+      <description>
+        <![CDATA[NASA’s integrated SLS (Space Launch System) rocket and Orion spacecraft for the Artemis II mission is inching closer to launch – literally. The agency is targeting no earlier than 7 a.m. EST, Saturday, Jan. 17, to begin the multi-hour trek from the Vehicle Assembly Building to Launch Pad 39B at NASA’s Kennedy Space Center in [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s integrated SLS (Space Launch System) rocket and Orion spacecraft for the Artemis II mission is inching closer to launch – literally. The agency is targeting no earlier than 7 a.m. EST, Saturday, Jan. 17, to begin the multi-hour trek from the Vehicle Assembly Building to Launch Pad 39B at NASA’s Kennedy Space Center in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=945002</guid>
+    </item>    <item>
+      <title>CrowdStrike shareholders lose battle to recoup losses from 2024 outage</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/crowdstrike_shareholders_lawsuit_dismiss/</link>
+      <description>
+        <![CDATA[<h4>Investors didn&#39;t present a valid claim, says judge, but they&#39;re welcome to try again</h4> <p>A group of CrowdStrike shareholders who sued the company over losses sustained following its 2024 global outage will have to head back to the drawing board if they hope to recoup losses, as a Texas judge has deemed they failed to adequately state a claim.…</p>]]>
+      </description>
+      <source:markdown>#### Investors didn&#39;t present a valid claim, says judge, but they&#39;re welcome to try again
+
+A group of CrowdStrike shareholders who sued the company over losses sustained following its 2024 global outage will have to head back to the drawing board if they hope to recoup losses, as a Texas judge has deemed they failed to adequately state a claim.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243967</guid>
+    </item>    <item>
+      <title>Google offers bargain: Sell your soul to Gemini, and it&#39;ll give you smarter answers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/google_gemini_personalize_responses/</link>
+      <description>
+        <![CDATA[<h4>But private data will stay private and won&#39;t be used for training, Google says</h4> <p>Google on Wednesday began inviting Gemini users to let its chatbot read their Gmail, Photos, Search history, and YouTube data in exchange for possibly more personalized responses.…</p>]]>
+      </description>
+      <source:markdown>#### But private data will stay private and won&#39;t be used for training, Google says
+
+Google on Wednesday began inviting Gemini users to let its chatbot read their Gmail, Photos, Search history, and YouTube data in exchange for possibly more personalized responses.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243966</guid>
+    </item>    <item>
+      <title>Can&#39;t Get Started on a Daunting Task? This Brain Circuit That Slams the Brakes on Motivation Might Be to Blame</title>
+      <link>https://www.smithsonianmag.com/smart-news/cant-get-started-on-a-daunting-task-this-brain-circuit-that-slams-the-brakes-on-motivation-might-be-to-blame-180988007/</link>
+      <description>
+        <![CDATA[Monkey experiments hint at a "motivation brake" pathway between two brain regions. Manipulating it may lead to new treatments for depression and other psychiatric conditions]]>
+      </description>
+      <source:markdown>Monkey experiments hint at a &#34;motivation brake&#34; pathway between two brain regions. Manipulating it may lead to new treatments for depression and other psychiatric conditions</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XIp8i_xNdbhFY4aATLtvlgPEdBY=/420x240/filters:focal(3248x2444:3249x2445)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/82/16821b0b-7c57-4b27-ad51-54adfe1cb259/motivation-brain-circuit.jpg" length="" type="" />
+    </item>    <item>
+      <title>New Linux malware targets the cloud, steals creds, and then vanishes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/voidlink_linux_malware/</link>
+      <description>
+        <![CDATA[<h4>Cloud-native, 37 plugins … an attacker&#39;s dream</h4> <p>A brand-new Linux malware named VoidLink targets victims&#39; cloud infrastructure with more than 30 plugins that allow attackers to perform a range of illicit activities, from silent reconnaissance and credential theft to lateral movement and container abuse. …</p>]]>
+      </description>
+      <source:markdown>#### Cloud-native, 37 plugins … an attacker&#39;s dream
+
+A brand-new Linux malware named VoidLink targets victims&#39; cloud infrastructure with more than 30 plugins that allow attackers to perform a range of illicit activities, from silent reconnaissance and credential theft to lateral movement and container abuse. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243965</guid>
+    </item>    <item>
+      <title>Months Before Rosa Parks Made Headlines, Claudette Colvin Refused to Give Up Her Seat for a White Woman on a Segregated Bus</title>
+      <link>https://www.smithsonianmag.com/smart-news/months-before-rosa-parks-made-headlines-claudette-colvin-refused-to-give-up-her-seat-for-a-white-woman-on-a-segregated-bus-180988009/</link>
+      <description>
+        <![CDATA[Colvin, a lesser-known figure who took a stand against racial discrimination as a teenager in Montgomery, Alabama, has died at age 86]]>
+      </description>
+      <source:markdown>Colvin, a lesser-known figure who took a stand against racial discrimination as a teenager in Montgomery, Alabama, has died at age 86</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GObW-ogZWMhWDqtR5jy5Dm89T90=/420x240/filters:focal(1082x773:1083x774)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/6c/356cb9eb-0fd9-4c8d-abf1-7867f615c370/gettyimages-109899052.jpg" length="" type="" />
+    </item>    <item>
+      <title>New York–Newark–Jersey City Metropolitan Area</title>
+      <link>https://www.nasa.gov/image-article/new-york-newark-jersey-city-metropolitan-area/</link>
+      <description>
+        <![CDATA[The New York–Newark–Jersey City Metropolitan Statistical Area, which spans 23 counties across New York, New Jersey, and Connecticut and has a population of about 19.9 million, is pictured at approximately 3:29 a.m. local time Dec. 20, 2025, from the International Space Station as it orbited 262 miles above the Atlantic coast. Crew members aboard the [&#8230;]]]>
+      </description>
+      <source:markdown>The New York–Newark–Jersey City Metropolitan Statistical Area, which spans 23 counties across New York, New Jersey, and Connecticut and has a population of about 19.9 million, is pictured at approximately 3:29 a.m. local time Dec. 20, 2025, from the International Space Station as it orbited 262 miles above the Atlantic coast. Crew members aboard the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=944558</guid>
+    </item>    <item>
+      <title>See a 157-Year-Old Great Lakes Shipwreck in Stunning Detail With This New 3D Scan</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-a-157-year-old-great-lakes-shipwreck-in-stunning-detail-with-this-new-3d-scan-180987977/</link>
+      <description>
+        <![CDATA[Last year, maritime archaeologists revisited the "Northerner" in Lake Michigan and captured hundreds of still images, which they stitched together to create a digital replica of the vessel]]>
+      </description>
+      <source:markdown>Last year, maritime archaeologists revisited the &#34;Northerner&#34; in Lake Michigan and captured hundreds of still images, which they stitched together to create a digital replica of the vessel</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EaZobqp0paYSOxQJ9dF_o0jiRLw=/420x240/filters:focal(1094x496:1095x497)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/e8/39e8ab80-3c7f-4d96-9edb-bcdc13b156b5/northerner-starboard.jpg" length="" type="" />
+    </item>    <item>
+      <title>This Mysterious Gas Cloud Spotted Around a Dead Star Is Beautiful—but Astronomers Say It Shouldn’t Be There</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-mysterious-gas-cloud-spotted-around-a-dead-star-is-beautiful-but-astronomers-say-it-shouldnt-be-there-180988001/</link>
+      <description>
+        <![CDATA[The stellar corpse is spewing star stuff, which is heating and compressing surrounding gas, resulting in a multicolored display. But it's missing a component thought to be necessary for this phenomenon]]>
+      </description>
+      <source:markdown>The stellar corpse is spewing star stuff, which is heating and compressing surrounding gas, resulting in a multicolored display. But it&#39;s missing a component thought to be necessary for this phenomenon</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/s7De9CeTHtgJg1e6CyNh_T2A9DQ=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/7a/567a2650-df2f-403b-8a21-242c61d6e4a9/eso2601a-cccb46c7.webp" length="" type="" />
+    </item>    <item>
+      <title>Ignore rosy datacenter expansion projections – there isn&#39;t enough power</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/datacenter_expansion_power_limit/</link>
+      <description>
+        <![CDATA[<h4>Grid and generation capacity are not being added fast enough to support the scale of growth many forecasts assume</h4> <p>A looming shortage of electrical power is set to constrain datacenter expansion, potentially leaving many industry growth forecasts looking overly optimistic.…</p>]]>
+      </description>
+      <source:markdown>#### Grid and generation capacity are not being added fast enough to support the scale of growth many forecasts assume
+
+A looming shortage of electrical power is set to constrain datacenter expansion, potentially leaving many industry growth forecasts looking overly optimistic.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243962</guid>
+    </item>    <item>
+      <title>There was so much fraud on COVID loans, the feds trained an anti-fraud AI on the applications</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/14/feds_antifraud_ai_covid_loans/</link>
+      <description>
+        <![CDATA[<h4>Had it been around in 2020, it could have flagged tens of billions before payouts, PRAC tells Congress</h4> <p>A fraud-detection AI model trained on COVID-19 loan data could have flagged potentially tens of billions of dollars in payments before they went out, reducing the feds&#39; pay-and-chase cleanup, the US government&#39;s Pandemic Response Accountability Committee told Congress on Tuesday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Had it been around in 2020, it could have flagged tens of billions before payouts, PRAC tells Congress
+
+A fraud-detection AI model trained on COVID-19 loan data could have flagged potentially tens of billions of dollars in payments before they went out, reducing the feds&#39; pay-and-chase cleanup, the US government&#39;s Pandemic Response Accountability Committee told Congress on Tuesday.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story243963</guid>
+    </item>    <item>
+      <title>Astronomers Find an Odd Space Cloud, Like a Galaxy Without Stars, That Could Shed Light on the Secrets of Dark Matter</title>
+      <link>https://www.smithsonianmag.com/smart-news/astronomers-find-an-odd-space-cloud-like-a-galaxy-without-stars-that-could-shed-light-on-the-secrets-of-dark-matter-180987990/</link>
+      <description>
+        <![CDATA[Named “Cloud-9,” the discovery is a new type of celestial object known as a RELHIC, that is unlike anything scientists have ever observed]]>
+      </description>
+      <source:markdown>Named “Cloud-9,” the discovery is a new type of celestial object known as a RELHIC, that is unlike anything scientists have ever observed</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SDi_ELta3-xB7WJmiWs_55mk7Po=/420x240/filters:focal(1000x610:1001x611)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/bd/4fbd55b8-9a17-468c-a32d-4d8699cac609/stsci-01k7q4g9nw9tw4f0s95st16e5m.jpg" length="" type="" />
+    </item>    <item>
       <title>Archaeologists Stumble Upon Mysterious Medieval Village While Preparing for New Wind Farms in England</title>
       <link>https://www.smithsonianmag.com/smart-news/archaeologists-stumble-upon-mysterious-medieval-village-while-preparing-for-new-wind-farms-in-england-180987996/</link>
       <description>
@@ -67,7 +399,7 @@ Researchers at Group-IB say the DeadLock ransomware operation is using blockchai
       <title>NASA Releases Global Temperature Data</title>
       <link>https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/</link>
       <description>
-        <![CDATA[Lee este comunicado de prensa en español aquí. Earth’s global surface temperature in 2025 was slightly warmer than 2023 – but within the margin of error the two years are effectively tied according to an analysis by NASA scientists. Since record-keeping began in 1880, the hottest year on record remains 2024.&#160; Global temperatures in 2025 were [&#8230;]]]>
+        <![CDATA[Lee este comunicado de prensa en español&#160;aquí. Earth’s global surface temperature in 2025 was slightly warmer than 2023 – but within the margin of error the two years are effectively tied according to an analysis by NASA scientists. Since record-keeping began in 1880, the hottest year on record remains 2024.&#160; Global temperatures in 2025 were [&#8230;]]]>
       </description>
       <source:markdown>Lee este comunicado de prensa en español aquí. Earth’s global surface temperature in 2025 was slightly warmer than 2023 – but within the margin of error the two years are effectively tied according to an analysis by NASA scientists. Since record-keeping began in 1880, the hottest year on record remains 2024.  Global temperatures in 2025 were \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944705</guid>
@@ -282,9 +614,9 @@ Microsoft and Uncle Sam have warned that a Windows bug disclosed today is alread
       <title>NASA to Provide Live Coverage of Crew-11 Return, Splashdown</title>
       <link>https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/</link>
       <description>
-        <![CDATA[Lee este comunicado de prensa en español aquí. NASA and SpaceX are targeting no earlier than 5:05 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the International Space Station, pending weather conditions. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from [&#8230;]]]>
+        <![CDATA[Editor&#8217;s note: This advisory was updated on Wednesday, Jan. 14 to update the undocking time and coverage Lee este comunicado de prensa en español&#160;aquí. NASA and SpaceX are targeting no earlier than 5:20 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the International Space Station, pending weather conditions. [&#8230;]]]>
       </description>
-      <source:markdown>Lee este comunicado de prensa en español aquí. NASA and SpaceX are targeting no earlier than 5:05 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the International Space Station, pending weather conditions. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from \[…\]</source:markdown>
+      <source:markdown>Editor’s note: This advisory was updated on Wednesday, Jan. 14 to update the undocking time and coverage Lee este comunicado de prensa en español aquí. NASA and SpaceX are targeting no earlier than 5:20 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the International Space Station, pending weather conditions. \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=944646</guid>
     </item>    <item>
       <title>Memory shortage could push PC shipments to pre-pandemic lows</title>
@@ -385,7 +717,7 @@ Everest has been turned into a run-of-the-mill tourist attraction. Space tourism
 Memory makers just can&#39;t churn out their DRAM fast enough. On the heels of an AI-driven shortage, SK Hynix on Tuesday announced a new 19 trillion Korean won (about $13 billion) advanced packaging and test facility in South Korea that could offer some relief - just not for consumer products like laptops and phones.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243938</guid>
     </item>    <item>
-      <title>Not Getting Enough Sleep? You Might Be Shortening Your Lifespan</title>
+      <title>Not Getting Enough Sleep? You Might Be Shortening Your Life Span</title>
       <link>https://www.smithsonianmag.com/smart-news/not-getting-enough-sleep-you-might-be-shortening-your-lifespan-180988002/</link>
       <description>
         <![CDATA[In the United States, insufficient sleep strongly correlates with life expectancy, even more than diet, exercise or social connections do, a new study suggests]]>
@@ -3988,185 +4320,6 @@ By the time the humanoid robots arrived at the Humanoids Summit at the Computer 
 
 **Part 2**  There&#39;s a wealth of highly usable free software for the big proprietary desktop OSes. You can escape paying subscriptions and switch to free software without changing your OS.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243625</guid>
-    </item>    <item>
-      <title>Salesforce’s ChatGPT integration is really about stopping customers from leaking their own data</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/salesforce_chatgpt/</link>
-      <description>
-        <![CDATA[<h4>Execs say DIY OpenAI connections risked pushing CRM data past the ‘trust boundary’</h4> <p>Salesforce users running Agentforce with ChatGPT Enterprise or Edu can now update CRM data directly from the bot, a move aimed at curbing home-built integrations that risk spilling data outside the company&#39;s controls.…</p>]]>
-      </description>
-      <source:markdown>#### Execs say DIY OpenAI connections risked pushing CRM data past the ‘trust boundary’
-
-Salesforce users running Agentforce with ChatGPT Enterprise or Edu can now update CRM data directly from the bot, a move aimed at curbing home-built integrations that risk spilling data outside the company&#39;s controls.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243738</guid>
-    </item>    <item>
-      <title>AI faces closing time at the cash buffet</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/ai_spending_cooling_off/</link>
-      <description>
-        <![CDATA[<h4>Will businesses continue to invest in something that&#39;s shown so little return?</h4> <p><strong>opinion</strong>  It is the season of overindulgence, and no one has overindulged like the tech industry: this year, it has burned through roughly $1.5 trillion in AI, a level of spending usually reserved for wartime.…</p>]]>
-      </description>
-      <source:markdown>#### Will businesses continue to invest in something that&#39;s shown so little return?
-
-**opinion**  It is the season of overindulgence, and no one has overindulged like the tech industry: this year, it has burned through roughly $1.5 trillion in AI, a level of spending usually reserved for wartime.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243723</guid>
-    </item>    <item>
-      <title>Pen testers accused of &#39;blackmail&#39; after reporting Eurostar chatbot flaws</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/pentesters_reported_eurostar_chatbot_flaws/</link>
-      <description>
-        <![CDATA[<h4>AI goes off the rails … because of shoddy guardrails</h4> <p>Researchers at Pen Test Partners found four flaws in Eurostar&#39;s public AI chatbot that, among other security issues, could allow an attacker to inject malicious HTML content or trick the bot into leaking system prompts. Their thank you from the company: being accused of &#34;blackmail.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### AI goes off the rails … because of shoddy guardrails
-
-Researchers at Pen Test Partners found four flaws in Eurostar&#39;s public AI chatbot that, among other security issues, could allow an attacker to inject malicious HTML content or trick the bot into leaking system prompts. Their thank you from the company: being accused of &#34;blackmail.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243736</guid>
-    </item>    <item>
-      <title>Garmin autopilot lands small aircraft without human assistance</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/autocomms/</link>
-      <description>
-        <![CDATA[<h4>ATC: &#39;I don&#39;t know if you can hear me but cleared to land&#39;</h4> <p>In what looks to be the first successful use of Garmin&#39;s Autoland product outside of testing, the FAA has confirmed a small plane made a safe emergency landing completely guided by automation at Rocky Mountain Metropolitan Airport in Colorado.…</p>]]>
-      </description>
-      <source:markdown>#### ATC: &#39;I don&#39;t know if you can hear me but cleared to land&#39;
-
-In what looks to be the first successful use of Garmin&#39;s Autoland product outside of testing, the FAA has confirmed a small plane made a safe emergency landing completely guided by automation at Rocky Mountain Metropolitan Airport in Colorado.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243729</guid>
-    </item>    <item>
-      <title>US shuts down phisherfolk’s $14.6M password-hoarding platform</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/us_shutters_phishermens_146m_passwordhording/</link>
-      <description>
-        <![CDATA[<h4>Crooks used platform to scoop up and store banking credentials for big-money thefts</h4> <p>The US says it has shut down a platform used by cybercriminals to break into Americans&#39; bank accounts.…</p>]]>
-      </description>
-      <source:markdown>#### Crooks used platform to scoop up and store banking credentials for big-money thefts
-
-The US says it has shut down a platform used by cybercriminals to break into Americans&#39; bank accounts.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243728</guid>
-    </item>    <item>
-      <title>Waymo pings updates to San Francisco fleet to prevent power outage chaos 2.0</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/waymo_updates_power_outages/</link>
-      <description>
-        <![CDATA[<h4>Meanwhile, new outages, linked to storms, are pelting the area</h4> <p>Waymo says it is rolling out updates to its US fleet to counter future disruption caused by power outages like the one that hit San Francisco last week.…</p>]]>
-      </description>
-      <source:markdown>#### Meanwhile, new outages, linked to storms, are pelting the area
-
-Waymo says it is rolling out updates to its US fleet to counter future disruption caused by power outages like the one that hit San Francisco last week.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243731</guid>
-    </item>    <item>
-      <title>Sight of Clippy, Internet Explorer scares baby</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/microsoft_frightening_babies_for_50/</link>
-      <description>
-        <![CDATA[<h4>Reg reader introduces newborn to Microsoft ugly sweater. Child not amused</h4> <p>Microsoft&#39;s latest line of festive knitwear has been frightening babies, if the experience of the winner of <i>The Register&#39;s</i> 2025 Christmas competition is anything to go by.…</p>]]>
-      </description>
-      <source:markdown>#### Reg reader introduces newborn to Microsoft ugly sweater. Child not amused
-
-Microsoft&#39;s latest line of festive knitwear has been frightening babies, if the experience of the winner of _The Register&#39;s_ 2025 Christmas competition is anything to go by.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243733</guid>
-    </item>    <item>
-      <title>Santa Visits Artemis II Rocket</title>
-      <link>https://www.nasa.gov/image-article/santa-visits-artemis-ii-rocket/</link>
-      <description>
-        <![CDATA[Santa Claus (NASA engineer Guy Naylor) poses with NASA’s Artemis II Orion spacecraft and SLS (Space Launch System) rocket in the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Dec. 11, 2025. The Orion spacecraft was stacked atop the SLS in October 2025. Set to launch in early 2026, the Artemis II [&#8230;]]]>
-      </description>
-      <source:markdown>Santa Claus (NASA engineer Guy Naylor) poses with NASA’s Artemis II Orion spacecraft and SLS (Space Launch System) rocket in the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Dec. 11, 2025. The Orion spacecraft was stacked atop the SLS in October 2025. Set to launch in early 2026, the Artemis II \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=940549</guid>
-    </item>    <item>
-      <title>One real reason AI isn&#39;t delivering: Meatbags in manglement</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/reason_ai_isnt_delivering/</link>
-      <description>
-        <![CDATA[<h4>Stuck in pilot purgatory? Confused about returns? You&#39;re not alone</h4> <p><strong>Feature</strong>  Every company today is doing AI. From boardrooms to marketing campaigns, companies proudly showcase new generative AI pilots and chatbot integrations. Enterprise investments in GenAI are growing to about <a target="_blank" href="https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/">$30-40 billion</a>, yet research indicates 95 percent of organizations report zero measurable returns on these efforts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Stuck in pilot purgatory? Confused about returns? You&#39;re not alone
-
-**Feature**  Every company today is doing AI. From boardrooms to marketing campaigns, companies proudly showcase new generative AI pilots and chatbot integrations. Enterprise investments in GenAI are growing to about [$30-40 billion](https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent/), yet research indicates 95 percent of organizations report zero measurable returns on these efforts.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243528</guid>
-    </item>    <item>
-      <title>Banksy Unveils Two New Murals of Children Gazing Up at the Sky Days Before Christmas</title>
-      <link>https://www.smithsonianmag.com/smart-news/banksy-unveils-two-new-murals-of-children-gazing-up-at-the-sky-days-before-christmas-180987922/</link>
-      <description>
-        <![CDATA[Some onlookers are interpreting the identical artworks, which appeared on the streets of London, as a commentary on homelessness in the city]]>
-      </description>
-      <source:markdown>Some onlookers are interpreting the identical artworks, which appeared on the streets of London, as a commentary on homelessness in the city</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CQEgj4rT2UyngE13eoXVl52MBjU=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/88/a5/88a58a31-dcca-4ce3-934c-488af5b9efeb/gettyimages-2252628777.jpeg" length="" type="" />
-    </item>    <item>
-      <title>North American air defense troops ready for 70th year of Santa tracking</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/norad_santa_tracking/</link>
-      <description>
-        <![CDATA[<h4>A newspaper misprint began a Christmas Eve tradition joining holiday cheer with military technology</h4> <p>Seventy years ago, a child phoned the North American Aerospace Defense Command (NORAD) looking for Santa Claus – and found him, or at least some kindly military personnel who were willing to play along by helping the youngster to track Santa&#39;s location as he zipped around the globe.…</p>]]>
-      </description>
-      <source:markdown>#### A newspaper misprint began a Christmas Eve tradition joining holiday cheer with military technology
-
-Seventy years ago, a child phoned the North American Aerospace Defense Command (NORAD) looking for Santa Claus – and found him, or at least some kindly military personnel who were willing to play along by helping the youngster to track Santa&#39;s location as he zipped around the globe.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243708</guid>
-    </item>    <item>
-      <title>NASA tries Curiosity rover&#39;s Mastcam to work out where MAVEN might be</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/nasa_tries_trundlebot_mastcam_to/</link>
-      <description>
-        <![CDATA[<h4>Time running out for savin&#39; MAVEN as stricken spacecraft still silent as Mars solar conjunction nears</h4> <p>NASA&#39;s MAVEN spacecraft is continuing to evade attempts by engineers to make contact as the solar conjunction nears, halting contact with any Mars missions until January 16, 2026.…</p>]]>
-      </description>
-      <source:markdown>#### Time running out for savin&#39; MAVEN as stricken spacecraft still silent as Mars solar conjunction nears
-
-NASA&#39;s MAVEN spacecraft is continuing to evade attempts by engineers to make contact as the solar conjunction nears, halting contact with any Mars missions until January 16, 2026.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243730</guid>
-    </item>    <item>
-      <title>Drinking Turns Some Red With Asian Glow—And May Fight Tuberculosis</title>
-      <link>https://www.npr.org/2025/12/24/nx-s1-5649811/drinking-turns-some-people-red-with-asian-flush-and-may-fight-tuberculosis</link>
-      <description>
-        <![CDATA[Ever gotten a scarlet, hot face after drinking alcohol or know someone who has? Many people felt it as they celebrate the holidays with loved ones, sipping mulled wine, cocktails or champagne. That's because this condition, commonly called "Asian flush" or "Asian glow," affects an estimated half a <em>billion</em> people, who can't break down aldehyde toxins that build up in their bodies. But what if there's a benefit to having Asian glow? <a href="https://www.theatlantic.com/author/katherine-j-wu/"target="_blank"   >Katie Wu</a>, a staff writer for The Atlantic, has looked into the research as to why the condition might have been a powerful tool for some of our ancestors to survive disease. (encore episode)<br/><br/>Questions about other potential tradeoffs for our genetics? Email us at shortwave@npr.org. We've love to hear from you and we might cover it in a future episode!<a href="https://www.theatlantic.com/science/archive/2023/10/alcohol-flush-asian-genetic-mutation-cause/675759/"target="_blank"   ><strong>Read Katie's article</strong></a><strong> to learn more.</strong><em>Questions about other potential tradeoffs for our genetics? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We've love to hear from you and we might cover it in a future episode!</em><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.</em><em>This episode was produced by Rebecca Ramirez, edited by Berly McCoy and fact-checked by Brit Hanson. Gilly Moon was the audio engineer.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Ever gotten a scarlet, hot face after drinking alcohol or know someone who has? Many people felt it as they celebrate the holidays with loved ones, sipping mulled wine, cocktails or champagne. That&#39;s because this condition, commonly called &#34;Asian flush&#34; or &#34;Asian glow,&#34; affects an estimated half a _billion_ people, who can&#39;t break down aldehyde toxins that build up in their bodies. But what if there&#39;s a benefit to having Asian glow? [Katie Wu](https://www.theatlantic.com/author/katherine-j-wu/), a staff writer for The Atlantic, has looked into the research as to why the condition might have been a powerful tool for some of our ancestors to survive disease. (encore episode)
-
-Questions about other potential tradeoffs for our genetics? Email us at shortwave@npr.org. We&#39;ve love to hear from you and we might cover it in a future episode! [**Read Katie&#39;s article**](https://www.theatlantic.com/science/archive/2023/10/alcohol-flush-asian-genetic-mutation-cause/675759/) **to learn more.** _Questions about other potential tradeoffs for our genetics? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We&#39;ve love to hear from you and we might cover it in a future episode!_ _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave)._ _This episode was produced by Rebecca Ramirez, edited by Berly McCoy and fact-checked by Brit Hanson. Gilly Moon was the audio engineer._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR8257197525.mp3?t=podcast&e=nx-s1-5649811&p=510351&d=820&size=13126471" length="13126471" type="audio/mpeg" />
-      <guid>cid://4a4bfc45-2b2e-412c-a216-0c997eae5cf0</guid>
-    </item>    <item>
-      <title>Women Are More Likely to Have Irritable Bowel Syndrome. This Newfound Gut Pain Pathway Might Explain Why</title>
-      <link>https://www.smithsonianmag.com/smart-news/women-are-more-likely-to-have-irritable-bowel-syndrome-this-newfound-gut-pain-pathway-might-explain-why-180987907/</link>
-      <description>
-        <![CDATA[The hormone estrogen—which female animals typically have more of than males—triggers a molecular cascade in the gut that leads to pain signals, a study in mice suggests]]>
-      </description>
-      <source:markdown>The hormone estrogen—which female animals typically have more of than males—triggers a molecular cascade in the gut that leads to pain signals, a study in mice suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/zxELS47T6PxsXkbvVEmSSr5xDSo=/420x240/filters:focal(750x657:751x658)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/13/e313f8fb-28af-4eda-bb7b-e9a3e085ac06/colonic-epithelium.jpg" length="" type="" />
-    </item>    <item>
-      <title>Keeping Windows and macOS alive past their sell-by date</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/freshen_up_old_os/</link>
-      <description>
-        <![CDATA[<h4>Practical steps to make an aging operating system usable into 2026</h4> <p><strong>Part 1</strong>  You can switch to running mostly FOSS without switching to Linux. First, though, give your OS a bit of TLC. We&#39;ll come back to what to do next in part two.…</p>]]>
-      </description>
-      <source:markdown>#### Practical steps to make an aging operating system usable into 2026
-
-**Part 1**  You can switch to running mostly FOSS without switching to Linux. First, though, give your OS a bit of TLC. We&#39;ll come back to what to do next in part two.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243624</guid>
-    </item>    <item>
-      <title>Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/</link>
-      <description>
-        <![CDATA[<h4>Plans move to Rust, with help from AI</h4> <p>Microsoft wants to develop tech that could translate its codebase to Rust, and is hiring people to make it happen.…</p>]]>
-      </description>
-      <source:markdown>#### Plans move to Rust, with help from AI
-
-Microsoft wants to develop tech that could translate its codebase to Rust, and is hiring people to make it happen.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243727</guid>
-    </item>    <item>
-      <title>AWS adds hybrid cloud storage support for Nutanix’s AHV hypervisor</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/aws_storage_gateway_nutanix_ahv/</link>
-      <description>
-        <![CDATA[<h4>VMware&#39;s main challenger already embraces multiple storage options</h4> <p>Amazon Web Services has given Nutanix a lovely Christmas present: Support for its AHV hypervisor in hybrid cloud storage rigs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### VMware&#39;s main challenger already embraces multiple storage options
-
-Amazon Web Services has given Nutanix a lovely Christmas present: Support for its AHV hypervisor in hybrid cloud storage rigs.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243726</guid>
-    </item>    <item>
-      <title>US punishes China’s ‘dominance’ of legacy chips with zero percent tariffs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/24/us_china_chip_tariffs/</link>
-      <description>
-        <![CDATA[<h4>President Trump previously threatened 100 percent tariffs, administration now plans something else starting in 2027</h4> <p><strong>World War Fee</strong>  The United States will impose tariffs on semiconductors imported from China, starting in 2027.…</p>]]>
-      </description>
-      <source:markdown>#### President Trump previously threatened 100 percent tariffs, administration now plans something else starting in 2027
-
-**World War Fee**  The United States will impose tariffs on semiconductors imported from China, starting in 2027.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243725</guid>
     </item>
   </channel>
 </rss>
