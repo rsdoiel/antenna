@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>14 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>15 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>50 yeaes of KIM-1: a demo to celebrate</title>
+      <link>http://retro.hansotten.nl/50-yeaes-of-kim-1-a-demo-to-celebrate/</link>
+      <description>
+        <![CDATA[A demo by friend Nils source@github: https://github.com/netzherpes/KIM1-Demo See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages om Magazines had an update. MICRO has its own page with all Best of MICRO pfds. [&#8230;]]]>
+      </description>
+      <source:markdown>A demo by friend Nils source@github: https://github.com/netzherpes/KIM1-Demo See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages om Magazines had an update. MICRO has its own page with all Best of MICRO pfds. \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19806</guid>
+    </item>    <item>
+      <title>Why the KIM-1? Jim Butterfield has a good explanation</title>
+      <link>http://retro.hansotten.nl/why-the-kim-1-jim-butterfield-has-a-good-explanation/</link>
+      <description>
+        <![CDATA[Jim Butterfield Aug 19, 1999, 9:00:00 AM to Joe Forster/STA wrote: > > Can you, please, explain me in short what this KIM-1 machine > is: CPU, RAM, video, sound, periphery, lookout, startup > screen, programming? A URL would also be fine, I guess&#8230; > I haven&#8217;t seen a KIM-1 before&#8230; Thanks in advance! Shortly after [&#8230;]]]>
+      </description>
+      <source:markdown>Jim Butterfield Aug 19, 1999, 9:00:00 AM to Joe Forster/STA wrote: &#62; &#62; Can you, please, explain me in short what this KIM-1 machine &#62; is: CPU, RAM, video, sound, periphery, lookout, startup &#62; screen, programming? A URL would also be fine, I guess… &#62; I haven’t seen a KIM-1 before… Thanks in advance! Shortly after \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19804</guid>
+    </item>    <item>
       <title>50 years of KIM-1 and me</title>
       <link>http://retro.hansotten.nl/50-years-of-kim-1/</link>
       <description>
@@ -327,53 +343,6 @@ You may also be interested in this weeklong &#34;DOScember&#34; article series a
       </description>
       <source:markdown>Many thanks to Paolo Fabio Zaino for taking the time to answer our questions and give us some really interesting updates on his projects.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2277.html</guid>
-    </item>    <item>
-      <title>A Christmas 2007 video present from Old VCR with Jack Tramiel et al</title>
-      <link>https://oldvcr.blogspot.com/2025/12/a-christmas-2007-video-present-from-old.html</link>
-      <description>
-        <![CDATA[A very happy holiday season and Merry Christmas to those of you who celebrate it (timezone may vary). Also, I don't think I nearly say thanks enough to my regular patrons through Ko-fi, and I want to also thank them on behalf of the geriatric systems their generosity &mdash; and all of you who have chipped in at one time or another &mdash; helps keep running. I've got more projects to finish in 2026 and I hope you enjoy them.
-        <p>
-        Anyway, here's a gift for <em>you</em> which I forgot I still had kicking around. This is a raw cut from the 2007 Computer History Museum 25th anniversary symposium of the Commodore 64, with Jack Tramiel himself, plus Steve Wozniak, William Lowe and others (like Lee Felsenstein and Al Alcorn from the audience). I was fortunate enough to get into what was a sell-out standing-room only crowd with my trusty JVC DV camera and tape the whole thing, then dash back to So Cal and quickly dump and title it on the Power Mac Quad G5. Any camera glitches, plus a couple dropouts where I had to quickly change DV tapes, and bad titles are of course totally my fault. (In fact, there are indeed at least two errors. Can you find them?) This video is so old that it was actually originally uploaded to Google Video &mdash; some of you may remember it &mdash; and had been quietly transferred automatically to YouTube, which I had forgotten even happened. So here it is in its original strictly standard definition format. If you want to use clips from it in your own video, please give me a holler first in the comments. Enjoy.
-        <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="EAeY4eGseH0" width="320" height="266" src="https://www.youtube.com/embed/EAeY4eGseH0"></iframe></div>]]>
-      </description>
-      <source:markdown>A very happy holiday season and Merry Christmas to those of you who celebrate it (timezone may vary). Also, I don&#39;t think I nearly say thanks enough to my regular patrons through Ko-fi, and I want to also thank them on behalf of the geriatric systems their generosity — and all of you who have chipped in at one time or another — helps keep running. I&#39;ve got more projects to finish in 2026 and I hope you enjoy them.
-
-Anyway, here&#39;s a gift for _you_ which I forgot I still had kicking around. This is a raw cut from the 2007 Computer History Museum 25th anniversary symposium of the Commodore 64, with Jack Tramiel himself, plus Steve Wozniak, William Lowe and others (like Lee Felsenstein and Al Alcorn from the audience). I was fortunate enough to get into what was a sell-out standing-room only crowd with my trusty JVC DV camera and tape the whole thing, then dash back to So Cal and quickly dump and title it on the Power Mac Quad G5. Any camera glitches, plus a couple dropouts where I had to quickly change DV tapes, and bad titles are of course totally my fault. (In fact, there are indeed at least two errors. Can you find them?) This video is so old that it was actually originally uploaded to Google Video — some of you may remember it — and had been quietly transferred automatically to YouTube, which I had forgotten even happened. So here it is in its original strictly standard definition format. If you want to use clips from it in your own video, please give me a holler first in the comments. Enjoy.</source:markdown>
-      <author>noreply@blogger.com (ClassicHasClass)</author>
-      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-5150926977021415101</guid>
-    </item>    <item>
-      <title>b.log 2025/12/24 - MAGA on the march, AI being AI, HOLIDAY!, Chasing spam, Merry Christmas.</title>
-      <link>https://heyrick.eu/blog/entry/20251224</link>
-      <description>
-        <![CDATA[MAGA on the march, AI being AI, HOLIDAY!, Chasing spam, Merry Christmas.]]>
-      </description>
-      <source:markdown>MAGA on the march, AI being AI, HOLIDAY!, Chasing spam, Merry Christmas.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20251224</guid>
-    </item>    <item>
-      <title>Jolt/SuperJolt/TIM Simulator now has serial input/output</title>
-      <link>http://retro.hansotten.nl/jolt-superjolt-tim-simulator-now-with-serial-input-output/</link>
-      <description>
-        <![CDATA[The TIM Simulator comes with a &#8216;console&#8217;, a glass teletype 24&#215;80 screen. It has a subset of ANSI/VT100 support.Jolt/SuperJolt/TIM Simulator now has serial input/output! Of course there are much better terminal emulators, like Teraterm, Putty, Coolterm, Minicom etcetera. And a real VT100 type device is really fun! Or a real Teletype &#8230; A local terminal [&#8230;]]]>
-      </description>
-      <source:markdown>The TIM Simulator comes with a ‘console’, a glass teletype 24×80 screen. It has a subset of ANSI/VT100 support.Jolt/SuperJolt/TIM Simulator now has serial input/output! Of course there are much better terminal emulators, like Teraterm, Putty, Coolterm, Minicom etcetera. And a real VT100 type device is really fun! Or a real Teletype … A local terminal \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=19651</guid>
-    </item>    <item>
-      <title>RISC OS &#39;Advent&#39; Calendar 2025 - Gavin Crawford&#39;s RISC OS publishing system</title>
-      <link>http://www.iconbar.com/comments/rss/news2290.html</link>
-      <description>
-        <![CDATA[Many thanks to Gavin for sharing his desktop with us - something of a powerhouse....]]>
-      </description>
-      <source:markdown>Many thanks to Gavin for sharing his desktop with us - something of a powerhouse....</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2290.html</guid>
-    </item>    <item>
-      <title>RISC OS &#39;Advent&#39; Calendar 2025 - Gerph&#39;s update on 2025 RISC OS projects</title>
-      <link>http://www.iconbar.com/comments/rss/news2288.html</link>
-      <description>
-        <![CDATA[Many thanks to Gerph for a detaled RISC OS in his pocket (I have found his sunday coding sessions really interesting).]]>
-      </description>
-      <source:markdown>Many thanks to Gerph for a detaled RISC OS in his pocket (I have found his sunday coding sessions really interesting).</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2288.html</guid>
     </item>
   </channel>
 </rss>
