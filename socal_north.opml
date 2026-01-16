@@ -2,12 +2,13 @@
 <opml version="2.0">
     <head>
         <title>SoCal North</title>
-        <dateCreated>16 Jan 26 08:13 -0800</dateCreated>
+        <dateCreated>16 Jan 26 15:24 -0800</dateCreated>
     </head>
     <body>
         <outline text="CalVolunteers" type="rss" xmlUrl="https://www.californiavolunteers.ca.gov/feed/" htmlUrl="https://www.californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/feed/" description="California Volunteers" url="https://www.californiavolunteers.ca.gov/feed/"></outline>
         <outline text="Chumash News" type="rss" xmlUrl="https://chumash.gov/latest-news?format=rss" htmlUrl="https://chumash.gov/latest-news/"></outline>
         <outline text="City of Santa Clarita" type="rss" xmlUrl="https://santaclarita.gov/feed/" htmlUrl="https://santaclarita.gov/,https://santaclarita.gov/feed/" url="https://santaclarita.gov/feed/"></outline>
+        <outline text="Congressman George Whitesides, district 27" type="rss" xmlUrl="https://whitesides.house.gov/feed/" htmlUrl="https://whitesides.house.gov,https://whitesides.house.gov/feed/" description="Serving the Constituents of California’s 27th District" url="https://whitesides.house.gov/feed/"></outline>
         <outline text="Desert Gazette Blog" type="rss" xmlUrl="https://desertgazette.com/blog/feed/" htmlUrl="https://desertgazette.com/blog,https://desertgazette.com/blog/feed/" url="https://desertgazette.com/blog/feed/"></outline>
         <outline text="L. A. Taco" type="rss" xmlUrl="https://lataco.com/feed" htmlUrl="https://lataco.com/,https://lataco.com/feed" description="Celebrating the Taco Lifestyle in Los Angeles, CA" url="https://lataco.com/feed"></outline>
         <outline text="L.A. Conservancy Blog" type="rss" xmlUrl="https://laconservancy.tumblr.com/rss" htmlUrl="https://laconservancy.tumblr.com/"></outline>
@@ -16,6 +17,7 @@
         <outline text="RAND press releases" type="atom" xmlUrl="https://www.rand.org/news/press.xml" htmlUrl="https://www.rand.org/news/press.xml,https://www.rand.org/news/press.html" url="https://www.rand.org/news/press.xml"></outline>
         <outline text="RSS for https://www.rand.org/pubs/podcasts/policy-minded.html" type="rss" category="News,Science" xmlUrl="https://feeds.libsyn.com/131994/feed" htmlUrl="http://www.rand.org/pubs/podcasts/policy-minded.html,https://feeds.libsyn.com/131994/feed" description="On Policy Minded, we pick the brains of the world’s top policy experts. In each episode, RAND researchers join us for conversations that go beyond the headlines—bringing you insights you can&#39;t find anywhere else. Listen and subscribe today to get smarter about the policy issues that shape the world." url="https://feeds.libsyn.com/131994/feed"></outline>
         <outline text="Santa Clarita Public Library" type="rss" xmlUrl="https://www.santaclaritalibrary.com/feed/" htmlUrl="https://www.santaclaritalibrary.com,https://www.santaclaritalibrary.com/feed/" description="Official City of Santa Clarita Public Library Website" url="https://www.santaclaritalibrary.com/feed/"></outline>
+        <outline text="Senator Alex Padilla" type="rss" xmlUrl="https://www.padilla.senate.gov/feed/" htmlUrl="https://www.padilla.senate.gov/,https://www.padilla.senate.gov/feed/" description="U.S. Senator for California" url="https://www.padilla.senate.gov/feed/"></outline>
         <outline text="The LAist" type="atom" xmlUrl="https://laist.com/index.atom" htmlUrl="https://laist.com/,https://laist.com/index.atom" description="Local and national news, NPR, things to do, food recommendations and guides to Los Angeles, Orange County and the Inland Empire" url="https://laist.com/index.atom"></outline>
         <outline text="Transiting Los Angeles" type="rss" xmlUrl="https://transitinglosangeles.com/feed/" htmlUrl="https://transitinglosangeles.com,https://transitinglosangeles.com/feed/" url="https://transitinglosangeles.com/feed/"></outline>
         <outline text="Vandenberg Base News" type="rss" xmlUrl="https://www.vandenberg.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&amp;Site=120&amp;isdashboardselected=0&amp;max=20&amp;Category=5303" htmlUrl="https://www.vandenberg.spaceforce.mil,www.vandenberg.spaceforce.mil?ContentType=1&amp;Site=120&amp;Category=5303&amp;isdashboardselected=0&amp;max=20" description="Vandenberg Space Force Base News RSS Feed" url="www.vandenberg.spaceforce.mil?ContentType=1&amp;Site=120&amp;Category=5303&amp;isdashboardselected=0&amp;max=20"></outline>
