@@ -1,6 +1,12 @@
 
 # SoCal North's feeds.
 
+## Federal Representation
+
+- [Senator Alex Padilla](https://www.padilla.senate.gov/feed/)
+- [Senator Adam Schiff](https://www.schiff.senate.gov/feed/)
+- [Congressman George Whitesides, district 27](https://whitesides.house.gov/feed/)
+
 ## Weather Data
 
 - [NOAA Forecast for Santa Clarita](https://api.weather.gov/points/34.3917,-118.5426)
