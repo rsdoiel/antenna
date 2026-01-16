@@ -26,7 +26,7 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 # PNG based news services
 
-- [Post Courier (PNG)](https://www.postcourier.com.pg/feed/)
+- Post Courier (PNG) <https://www.postcourier.com.pg/feed/>
 
 # State of Hawaii
 
