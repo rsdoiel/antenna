@@ -4,11 +4,61 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>16 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>50 yeaes of KIM-1: a demo to celebrate</title>
+      <title>Last KIM-1 production date</title>
+      <link>http://retro.hansotten.nl/last-kim-1-production-date/</link>
+      <description>
+        <![CDATA[While we may date the first commercial shipping of the KIM-1 to January 1976 (date of the first edition of the User Manual), we can date the end of KIM-1 production to mid 1981. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm [&#8230;]]]>
+      </description>
+      <source:markdown>While we may date the first commercial shipping of the KIM-1 to January 1976 (date of the first edition of the User Manual), we can date the end of KIM-1 production to mid 1981. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19814</guid>
+    </item>    <item>
+      <title>Linux Mint 22.3 Now Available with New Tools</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-Mint-22.3-Now-Available-with-New-Tools</link>
+      <description>
+        <![CDATA[<p>Linux Mint 22.3 has been released with a pair of new tools for system admins and some pretty cool new features.</p>]]>
+      </description>
+      <source:markdown>Linux Mint 22.3 has been released with a pair of new tools for system admins and some pretty cool new features.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://c910bede71dcb9bedf6f6030defe0707</guid>
+    </item>    <item>
+      <title>New Linux Malware Targets Cloud-Based Linux Installations</title>
+      <link>http://www.linux-magazine.com/Online/News/New-Linux-Malware-Targets-Cloud-Based-Linux-Installations</link>
+      <description>
+        <![CDATA[<p>VoidLink, a new Linux malware, should be of real concern because of its stealth and customization.</p>]]>
+      </description>
+      <source:markdown>VoidLink, a new Linux malware, should be of real concern because of its stealth and customization.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://58b43e3f8ef9425e4f54e670e8ecf1b5</guid>
+    </item>    <item>
+      <title>Chris Hall brings three (count ’em) heads to ROUGOL</title>
+      <link>https://www.riscository.com/2026/chris-hall-three-heads-rougol/</link>
+      <description>
+        <![CDATA[Zaphod Beeblebrox, eat your heart out. The next RISC OS User Group of London (ROUGOL) meeting will take place on Monday, 19th January, with a presentation by Chris Hall, joining the group via Zoom, about multi-headed systems. Chris has been using a Hydra system from R-Comp, with two of its Pi-based &#8216;heads&#8217; running RISC OS, and a third one running Linux, and he has had an article published in the latest issue of Archive Magazine (28:1) detailing his first impressions of the machine, with this presentation being a follow-up and&#8230;]]>
+      </description>
+      <source:markdown>Zaphod Beeblebrox, eat your heart out. The next RISC OS User Group of London (ROUGOL) meeting will take place on Monday, 19th January, with a presentation by Chris Hall, joining the group via Zoom, about multi-headed systems. Chris has been using a Hydra system from R-Comp, with two of its Pi-based ‘heads’ running RISC OS, and a third one running Linux, and he has had an article published in the latest issue of Archive Magazine (28:1) detailing his first impressions of the machine, with this presentation being a follow-up and…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10852</guid>
+    </item>    <item>
+      <title>Time to express an interest in the official Acorn biography</title>
+      <link>https://www.riscository.com/2026/acorn-biography-express-an-interest/</link>
+      <description>
+        <![CDATA[December&#8217;s RISC OS User Group of London (ROUGOL) meeting featured Rob Napier as the guest speaker, on the subject of the book he has been working on. Titled &#8220;Voices from a Future Passed&#8221;, the book is the official biography of Acorn Computers, and Rob went over various aspects of the book and that biography at the meeting. The book is planned for release as a paperback at the start of March, with an expected price of $19.95 in the UK, and corresponding amounts in other currencies/parts of the world. It&#8230;]]>
+      </description>
+      <source:markdown>December’s RISC OS User Group of London (ROUGOL) meeting featured Rob Napier as the guest speaker, on the subject of the book he has been working on. Titled “Voices from a Future Passed”, the book is the official biography of Acorn Computers, and Rob went over various aspects of the book and that biography at the meeting. The book is planned for release as a paperback at the start of March, with an expected price of $19.95 in the UK, and corresponding amounts in other currencies/parts of the world. It…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10849</guid>
+    </item>    <item>
+      <title>Rougol January 2026 meeting on monday - Chris Hall and his multiple heads</title>
+      <link>http://www.iconbar.com/comments/rss/news2293.html</link>
+      <description>
+        <![CDATA[The January 2026 Rougol meeting is on Monday and features Chris Hall. His contribution to the TIB advent calendar may give you an idea of his topic.]]>
+      </description>
+      <source:markdown>The January 2026 Rougol meeting is on Monday and features Chris Hall. His contribution to the TIB advent calendar may give you an idea of his topic.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2293.html</guid>
+    </item>    <item>
+      <title>50 years of KIM-1: a demo to celebrate</title>
       <link>http://retro.hansotten.nl/50-yeaes-of-kim-1-a-demo-to-celebrate/</link>
       <description>
         <![CDATA[A demo by friend Nils source@github: https://github.com/netzherpes/KIM1-Demo See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages om Magazines had an update. MICRO has its own page with all Best of MICRO pfds. [&#8230;]]]>
@@ -335,14 +385,6 @@ You may also be interested in this weeklong &#34;DOScember&#34; article series a
       </description>
       <source:markdown>Archive Magazine 28:01 arrived this week, just in time for the holidays, and it&#39;s a cracker!</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2289.html</guid>
-    </item>    <item>
-      <title>RISC OS Christmas interview 2025</title>
-      <link>http://www.iconbar.com/comments/rss/news2277.html</link>
-      <description>
-        <![CDATA[Many thanks to Paolo Fabio Zaino for taking the time to answer our questions and give us some really interesting updates on his projects.]]>
-      </description>
-      <source:markdown>Many thanks to Paolo Fabio Zaino for taking the time to answer our questions and give us some really interesting updates on his projects.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2277.html</guid>
     </item>
   </channel>
 </rss>
