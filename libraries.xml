@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>16 Jan 26 15:24 -0800</lastBuildDate>
+    <lastBuildDate>17 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1077,14 +1077,6 @@ The post [The Year in Review: 2025 in The Scholarly Kitchen](https://scholarlyki
       <source:markdown>A powerful knight terrorizes the aristocracy and protects the poor in 13th century England.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-outlaw-of-torn/downloads/edgar-rice-burroughs_the-outlaw-of-torn.epub?source=feed" length="675066" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/the-outlaw-of-torn</guid>
-    </item>    <item>
-      <title>Tintin, The Wayback Machine, and The Public Domain</title>
-      <link>https://blog.archive.org/2025/12/26/wayback-machine-and-public-domain-research/</link>
-      <description>
-        <![CDATA[What do a Belgian boy reporter, a forgotten 2008 webpage, and the Wayback Machine have in common? They all played a role in uncovering Tintin the Belgian detective’s earliest adventures [&#8230;]]]>
-      </description>
-      <source:markdown>What do a Belgian boy reporter, a forgotten 2008 webpage, and the Wayback Machine have in common? They all played a role in uncovering Tintin the Belgian detective’s earliest adventures \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=29676</guid>
     </item>
   </channel>
 </rss>
