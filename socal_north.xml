@@ -7,10 +7,45 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>16 Jan 26 15:24 -0800</lastBuildDate>
+    <lastBuildDate>17 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Activists are using a tiny tool to keep the community safe during ICE raids: Whistles</title>
+      <link>https://laist.com/news/los-angeles-activities/whistle-workshop-ice-raids</link>
+      <description>
+        <![CDATA[A workshop — already at capacity — is held today to show participants why the humble but mighty whistle is such a powerful tool.]]>
+      </description>
+      <source:markdown>A workshop — already at capacity — is held today to show participants why the humble but mighty whistle is such a powerful tool.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-c7ff-dace-a9fb-e7ff41240000</guid>
+    </item>    <item>
+      <title>A place to sit in LA: Inside a guerilla campaign for public benches</title>
+      <link>https://laist.com/news/los-angeles-activities/diy-public-benches-jonthan-hale</link>
+      <description>
+        <![CDATA[Across the country, residents are creating DIY seating without government permission.]]>
+      </description>
+      <source:markdown>Across the country, residents are creating DIY seating without government permission.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-c7e6-dace-a9fb-e7ee27b40000</guid>
+    </item>    <item>
+      <title>DAILY MEMO: Ten-Year-Old Child, Gardeners, and Vendors, Among the More Than 88 Kidnapped in SoCal This Week</title>
+      <link>https://lataco.com/daily-memo-ten-year-old-child-gardeners-and-vendors-among-the-more-than-88-kidnapped-in-socal-this-week</link>
+      <description>
+        <![CDATA[<p>Memo answers the complicated question, “Isn’t it against the law now for ICE to be masked?”</p>
+        <p>The post <a href="https://lataco.com/daily-memo-ten-year-old-child-gardeners-and-vendors-among-the-more-than-88-kidnapped-in-socal-this-week">DAILY MEMO: Ten-Year-Old Child, Gardeners, and Vendors, Among the More Than 88 Kidnapped in SoCal This Week</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>Memo answers the complicated question, “Isn’t it against the law now for ICE to be masked?”
+
+The post [DAILY MEMO: Ten-Year-Old Child, Gardeners, and Vendors, Among the More Than 88 Kidnapped in SoCal This Week](https://lataco.com/daily-memo-ten-year-old-child-gardeners-and-vendors-among-the-more-than-88-kidnapped-in-socal-this-week) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=175239</guid>
+    </item>    <item>
+      <title>Looking to celebrate MLK Day in LA? Here are some local events honoring King</title>
+      <link>https://laist.com/news/los-angeles-activities/martin-luther-king-jr-day-la-mlk-2026</link>
+      <description>
+        <![CDATA[This weekend, there are musical performances, parades and volunteering events honoring the civil rights leader.]]>
+      </description>
+      <source:markdown>This weekend, there are musical performances, parades and volunteering events honoring the civil rights leader.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-c8d1-d155-afbf-fefdf4650000</guid>
+    </item>    <item>
       <title>Rain Barrel Purchase Program Returns on February 21</title>
       <link>https://santaclarita.gov/blog/2026/01/16/rain-barrel-purchase-program-returns-on-february-21/</link>
       <description>
@@ -37,6 +72,17 @@ The post [Rain Barrel Purchase Program Returns on February 21](https://santaclar
       </description>
       <source:markdown>The lawsuit is the latest power struggle between the state and U.S. government over energy rights.</source:markdown>
       <guid>cid://urn:uuid:0000019b-c877-d3cf-a9db-fcf7dae40000</guid>
+    </item>    <item>
+      <title>Weekend Eats: ‘Fuck ICE’ Pop-Tarts In Highland Park; Palestinian Movie Night and Falafel Nachos in Watts</title>
+      <link>https://lataco.com/weekend-eats-la-food-finds</link>
+      <description>
+        <![CDATA[<p>While the first taquero to win a Michelin star lands for one night only, Pioneer Chicken pops-up in the Valley, and bone marrow-and-wagyu paella arrives on the Westside.</p>
+        <p>The post <a href="https://lataco.com/weekend-eats-la-food-finds">Weekend Eats: &#8216;Fuck ICE&#8217; Pop-Tarts In Highland Park; Palestinian Movie Night and Falafel Nachos in Watts</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>While the first taquero to win a Michelin star lands for one night only, Pioneer Chicken pops-up in the Valley, and bone marrow-and-wagyu paella arrives on the Westside.
+
+The post [Weekend Eats: ‘Fuck ICE’ Pop-Tarts In Highland Park; Palestinian Movie Night and Falafel Nachos in Watts](https://lataco.com/weekend-eats-la-food-finds) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=167697</guid>
     </item>    <item>
       <title>California prosecutors push back on ICE immunity claims</title>
       <link>https://laist.com/news/politics/california-prosecutors-push-back-on-ice-immunity-claims</link>
@@ -920,17 +966,6 @@ The post [Building Community at the City’s Annual Dr. Martin Luther King, Jr. 
       </description>
       <source:markdown>Seven unionized locations are negotiating a new contract, but they say the grocery chain won&#39;t budge.</source:markdown>
       <guid>cid://urn:uuid:0000019b-a434-d63c-addb-b6f763090000</guid>
-    </item>    <item>
-      <title>Weekend Eats: Paneer Tacos, Hamburger Handrolls, and Orange Chicken Fries Are Here To Test Your New Year’s Resolutions</title>
-      <link>https://lataco.com/weekend-eats-la-food-finds</link>
-      <description>
-        <![CDATA[<p>Meanwhile, over 30 of L.A.'s best pizzerias are uniting to bake and deliver free pizza pies on Wednesday.</p>
-        <p>The post <a href="https://lataco.com/weekend-eats-la-food-finds">Weekend Eats: Paneer Tacos, Hamburger Handrolls, and Orange Chicken Fries Are Here To Test Your New Year&#8217;s Resolutions</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Meanwhile, over 30 of L.A.&#39;s best pizzerias are uniting to bake and deliver free pizza pies on Wednesday.
-
-The post [Weekend Eats: Paneer Tacos, Hamburger Handrolls, and Orange Chicken Fries Are Here To Test Your New Year’s Resolutions](https://lataco.com/weekend-eats-la-food-finds) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=167697</guid>
     </item>    <item>
       <title>Trying to make a camping reservation, but your ReserveCalifornia login won’t work? Here’s the fix</title>
       <link>https://laist.com/news/climate-environment/camping-reservation-reservecalifornia-login-fix</link>
@@ -2202,62 +2237,6 @@ The post [Sunday Taquitos #8: Never Wrong](https://lataco.com/sunday-taquitos-8-
       </description>
       <source:markdown>Trump&#39;s order doesn&#39;t automatically revoke laws targeting marijuana, which remains illegal to transport over state lines.</source:markdown>
       <guid>cid://urn:uuid:0000019b-5c9f-dfab-a59f-7fbf7f5c0000</guid>
-    </item>    <item>
-      <title>The cultural works becoming public domain in 2026, including Betty Boop</title>
-      <link>https://laist.com/news/arts-and-entertainment/cultural-works-becoming-public-domain-in-2026-betty-boop</link>
-      <description>
-        <![CDATA[The original Betty Boop, the first four Nancy Drew books and Greta Garbo's first talkie are among the many works from 1930 that will be free to use.]]>
-      </description>
-      <source:markdown>The original Betty Boop, the first four Nancy Drew books and Greta Garbo&#39;s first talkie are among the many works from 1930 that will be free to use.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5bf7-d6b4-a1fb-7bf72cdc0000</guid>
-    </item>    <item>
-      <title>Don&#39;t go into the ocean! LA County beaches under an advisory thanks to winter storm</title>
-      <link>https://laist.com/news/health/la-county-beaches-closed-winter-storm-runoff</link>
-      <description>
-        <![CDATA[L.A. County Public Health officials say rainfall can cause contamination and high bacterial levels.]]>
-      </description>
-      <source:markdown>L.A. County Public Health officials say rainfall can cause contamination and high bacterial levels.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5c4c-d6b4-a1fb-7c5f6ff20000</guid>
-    </item>    <item>
-      <title>New California laws rewrite car-buying rules. What to know about the return policy reforms</title>
-      <link>https://laist.com/news/new-california-laws-car-buying-rules-return-policy-reforms</link>
-      <description>
-        <![CDATA[California lawmakers let automakers opt out of recent changes to the state’s lemon law and approved a law giving used car buyers three days to return a used vehicle.]]>
-      </description>
-      <source:markdown>California lawmakers let automakers opt out of recent changes to the state’s lemon law and approved a law giving used car buyers three days to return a used vehicle.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5bb5-d6b4-a1fb-7bb75bed0000</guid>
-    </item>    <item>
-      <title>Christmas is over. Here&#39;s what to do with your holiday trash</title>
-      <link>https://laist.com/news/climate-environment/christmas-is-over-what-to-do-with-holiday-trash</link>
-      <description>
-        <![CDATA[Household waste increases by 25% between Thanksgiving and New Years. Rules vary by municipality on what you can recycle and what needs to go into the trash.]]>
-      </description>
-      <source:markdown>Household waste increases by 25% between Thanksgiving and New Years. Rules vary by municipality on what you can recycle and what needs to go into the trash.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5bad-de6b-ad9f-ffaf4bf00000</guid>
-    </item>    <item>
-      <title>Shooting on Metro bus near Exposition Park leaves one person dead</title>
-      <link>https://laist.com/transportation/la-metro-public-safety-shooting</link>
-      <description>
-        <![CDATA[The incident Wednesday night came amid early talks for the agency to adopt a pilot program for weapons detection on buses.]]>
-      </description>
-      <source:markdown>The incident Wednesday night came amid early talks for the agency to adopt a pilot program for weapons detection on buses.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5710-d6b4-a1fb-7717df6a0000</guid>
-    </item>    <item>
-      <title>Bald eagles, bears and foxes are dying from rat poisoning. Here&#39;s how you can protect them</title>
-      <link>https://laist.com/news/climate-environment/bald-eagles-bears-and-foxes-are-dying-from-rat-poisoning-how-you-can-protect-them</link>
-      <description>
-        <![CDATA[A recent report finds that, despite legislation limiting such chemicals, dozens of species are still being poisoned. And we have rat prevention tips.]]>
-      </description>
-      <source:markdown>A recent report finds that, despite legislation limiting such chemicals, dozens of species are still being poisoned. And we have rat prevention tips.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5249-de6b-ad9f-ffcfbd100000</guid>
-    </item>    <item>
-      <title>‘Beefy’ monarch butterflies are leaving the coast. How scientists (and you) can track them</title>
-      <link>https://laist.com/news/climate-environment/california-monarch-butterfly-count-overwintering-xerces-society</link>
-      <description>
-        <![CDATA[The Western Monarch Count is underway, a community science project that aims to understand population changes for the orange butterflies.]]>
-      </description>
-      <source:markdown>The Western Monarch Count is underway, a community science project that aims to understand population changes for the orange butterflies.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-3907-d498-a3ff-ffaf25eb0000</guid>
     </item>
   </channel>
 </rss>

@@ -360,4 +360,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Indivisble Team blog](https://indivisibleteam.substack.com/feed/)
 - [Ivan Penchev blog](https://penchev.com/feed.xml)
 - [Marcus Oliveria blog](https://terminalroot.com/feed.xml)
-
+- [Hopium Chronicles blog](https://www.hopiumchronicles.com/feed/)
+- [Public Notice blog](https://www.publicnotice.co/feed/)
+- [Shannon Laio blog](https://shannonliao.substack.com/feed/)

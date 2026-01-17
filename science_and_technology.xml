@@ -4,10 +4,60 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>16 Jan 26 15:24 -0800</lastBuildDate>
+    <lastBuildDate>17 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fast Pair, loose security: Bluetooth accessories open to silent hijack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/17/fast_pair_flaw/</link>
+      <description>
+        <![CDATA[<h4>Sloppy implementation of Google spec leaves &#39;hundreds of millions&#39; of devices vulnerable</h4> <p>Hundreds of millions of wireless earbuds, headphones, and speakers are vulnerable to silent hijacking due to a flaw in Google&#39;s Fast Pair system that allows attackers to seize control without the owner ever touching the pairing button.…</p>]]>
+      </description>
+      <source:markdown>#### Sloppy implementation of Google spec leaves &#39;hundreds of millions&#39; of devices vulnerable
+
+Hundreds of millions of wireless earbuds, headphones, and speakers are vulnerable to silent hijacking due to a flaw in Google&#39;s Fast Pair system that allows attackers to seize control without the owner ever touching the pairing button.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244005</guid>
+    </item>    <item>
+      <title>S Twatter: When text-to-speech goes down the drain</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/17/uk_water_company_gets_in/</link>
+      <description>
+        <![CDATA[<h4>Rinse of the machines: A cautionary tale about relying on robots</h4> <p><strong>Bork!Bork!Bork!</strong>  UK water company Severn Trent learned an unfortunate lesson about text-to-speech systems when a robocall to customers went hilariously wrong.…</p>]]>
+      </description>
+      <source:markdown>#### Rinse of the machines: A cautionary tale about relying on robots
+
+**Bork!Bork!Bork!**  UK water company Severn Trent learned an unfortunate lesson about text-to-speech systems when a robocall to customers went hilariously wrong.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244001</guid>
+    </item>    <item>
+      <title>Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/17/openai_chatgpt_ads/</link>
+      <description>
+        <![CDATA[<h4>Gotta pay for those datacenter buildouts somehow</h4> <p>OpenAI&#39;s budget ChatGPT Go subscription tier has migrated to the US, soon to be accompanied by advertising. The company&#39;s free tier will be similarly afflicted.…</p>]]>
+      </description>
+      <source:markdown>#### Gotta pay for those datacenter buildouts somehow
+
+OpenAI&#39;s budget ChatGPT Go subscription tier has migrated to the US, soon to be accompanied by advertising. The company&#39;s free tier will be similarly afflicted.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244023</guid>
+    </item>    <item>
+      <title>Trump wants big tech to pay for big beautiful power plants</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/17/trump_wants_big_tech_pay_power_plants/</link>
+      <description>
+        <![CDATA[<h4>It just needs PJM Interconnection, one of the US&#39;s biggest grid operators, to green light the auction</h4> <p>The Trump administration says it wants big tech companies to take more accountability for the power their datacenters consume in an effort to shield voters from higher power bills at home.…</p>]]>
+      </description>
+      <source:markdown>#### It just needs PJM Interconnection, one of the US&#39;s biggest grid operators, to green light the auction
+
+The Trump administration says it wants big tech companies to take more accountability for the power their datacenters consume in an effort to shield voters from higher power bills at home.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244024</guid>
+    </item>    <item>
+      <title>Experiment suggests AI chatbot would save insurance agents a whopping 3 minutes a day</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/16/axlerod_ai_saves_insurance_agents_time/</link>
+      <description>
+        <![CDATA[<h4>Does that kind of time saving actually pay for itself?</h4> <p>Researchers at Dakota State University, in partnership with regional insurance carrier Safety Insurance, devised an experimental chatbot called &#34;Axlerod&#34; to assist independent insurance agents. Whether that assistance was substantial is up for some debate.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Does that kind of time saving actually pay for itself?
+
+Researchers at Dakota State University, in partnership with regional insurance carrier Safety Insurance, devised an experimental chatbot called &#34;Axlerod&#34; to assist independent insurance agents. Whether that assistance was substantial is up for some debate.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244022</guid>
+    </item>    <item>
       <title>NASA’s SpaceX Crew-11 to Discuss Space Station Science Mission</title>
       <link>https://www.nasa.gov/news-release/nasas-spacex-crew-11-to-discuss-space-station-science-mission/</link>
       <description>
@@ -4699,91 +4749,6 @@ The knock-on, and often unintentional, impacts of a cyberattack are so rarely di
       </description>
       <source:markdown>Christmas is already behind us, but since this is an announcement from 11 December – that I missed – I’m calling this a very interesting and surprising Christmas present. The team and I are beyond excited to share what we’ve been cooking up over the last little while: a full desktop environment running on QNX 8.0, with support for self-hosted compilation! This environment both makes it easier for newly-minted QNX developers to get started with building for QNX, but it also vastly simplifies the process of porting Linux applications and libraries to QNX 8.0. ↫ John Hanam at the QNX Developer Blog What we have here is QNX 8.0 running the Xfce desktop environment on Wayland, a whole slew of build and development tools like clang, gcc, git, etc.), a ton of popular code editors and IDEs, a web browser (looks like GNOME Web?), access to all the ports on the QNX Open-Source Dashboard, and more. For now, it’s only available as a Qemu image to run on top of Ubuntu, but the plan is to also release an x86 image in the coming months so you can run this directly on real hardware. This isn’t quite the same as the QNX of old with its unique Photon microGUI, but it’s been known for a while now that Photon hasn’t been actively developed in a long time and is basically abandoned. Running Xfce on Wayland is obviously a much more sensible solution, and one that’s quite future-proof, too. As a certified QNX desktop enthusiast of yore, I can’t wait for the x86 image to arrive so I can try this out properly. There are downsides. This image, too, is encumbered by annoying non-commercial license requirements and sign-ups, and this also wouldn’t be the first time QNX starts an enthusiast effort, only to abandon it shortly after. Buyer beware, then, but I’m cautiously optimistic.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=144075</guid>
-    </item>    <item>
-      <title>Stop the slop by disabling AI features in Chrome</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/26/disable_ai_features_chrome/</link>
-      <description>
-        <![CDATA[<h4>The most popular desktop browser is festooned with Google AI, but you can make at least some of it go away</h4> <p>Most of today’s desktop web browsers come with a ton of built-in AI features, but the good news is that, in most cases, no one is forcing you to use them, and you can at least hide them from view. Removing the most egregious AI tools from Chrome is pretty simple, but it requires a few steps.…</p>]]>
-      </description>
-      <source:markdown>#### The most popular desktop browser is festooned with Google AI, but you can make at least some of it go away
-
-Most of today’s desktop web browsers come with a ton of built-in AI features, but the good news is that, in most cases, no one is forcing you to use them, and you can at least hide them from view. Removing the most egregious AI tools from Chrome is pretty simple, but it requires a few steps.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243739</guid>
-    </item>    <item>
-      <title>From AI to analog, cybersecurity tabletop exercises look a little different this year</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/26/end_of_year_tabletop_exercises/</link>
-      <description>
-        <![CDATA[<h4>Practice makes perfect</h4> <p>It&#39;s the most wonderful time of the year … for corporate security bosses to run tabletop exercises, simulating a hypothetical cyberattack or other emergency, running through incident processes, and practicing responses to ensure preparedness <span class="strike">if</span> when a digital disaster occurs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Practice makes perfect
-
-It&#39;s the most wonderful time of the year … for corporate security bosses to run tabletop exercises, simulating a hypothetical cyberattack or other emergency, running through incident processes, and practicing responses to ensure preparedness if when a digital disaster occurs.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243724</guid>
-    </item>    <item>
-      <title>Studying Physics in Microgravity</title>
-      <link>https://www.nasa.gov/image-article/studying-physics-in-microgravity/</link>
-      <description>
-        <![CDATA[In this Oct. 20, 2025, photo, tiny ball bearings surround a larger central bearing during the Fluid Particles experiment, conducted inside the Microgravity Science Glovebox (MSG) aboard the International Space Station’s Destiny laboratory module. A bulk container installed in the MSG, filled with viscous fluid and embedded particles, is subjected to oscillating frequencies to observe [&#8230;]]]>
-      </description>
-      <source:markdown>In this Oct. 20, 2025, photo, tiny ball bearings surround a larger central bearing during the Fluid Particles experiment, conducted inside the Microgravity Science Glovebox (MSG) aboard the International Space Station’s Destiny laboratory module. A bulk container installed in the MSG, filled with viscous fluid and embedded particles, is subjected to oscillating frequencies to observe \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=940008</guid>
-    </item>    <item>
-      <title>From video games to cyber defense: If you don&#39;t think like a hacker, you won&#39;t win</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/26/video_game_hacker_turned_ceo/</link>
-      <description>
-        <![CDATA[<h4>In supercharged AI race, defenders need to keep up</h4> <p><strong>interview</strong>  According to Remedio CEO Tal Kollender, the only way to beat the bad guys hacking into corporate networks is to &#34;think like a hacker,&#34; and because not everyone is a teenage hacker turned cybersecurity startup chief executive, she built an AI to do this.…</p>]]>
-      </description>
-      <source:markdown>#### In supercharged AI race, defenders need to keep up
-
-**interview**  According to Remedio CEO Tal Kollender, the only way to beat the bad guys hacking into corporate networks is to &#34;think like a hacker,&#34; and because not everyone is a teenage hacker turned cybersecurity startup chief executive, she built an AI to do this.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243737</guid>
-    </item>    <item>
-      <title>Coming Wi-Fi 8 will bring reliability rather than greater speed</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/26/coming_wifi_8_reliability/</link>
-      <description>
-        <![CDATA[<h4>Smarter access-point handoffs, better scheduling, fewer stalls</h4> <p>Wi-Fi 8 will be a step change in connectivity, if Intel can be believed, and will be able to adapt intelligently to local conditions to deliver a reliable service without the slowdowns users often experience when the network is congested.…</p>]]>
-      </description>
-      <source:markdown>#### Smarter access-point handoffs, better scheduling, fewer stalls
-
-Wi-Fi 8 will be a step change in connectivity, if Intel can be believed, and will be able to adapt intelligently to local conditions to deliver a reliable service without the slowdowns users often experience when the network is congested.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243523</guid>
-    </item>    <item>
-      <title>&#39;PromptQuest&#39; is the worst game of 2025. You play it when trying to make chatbots work</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/26/ai_is_like_adventure_games/</link>
-      <description>
-        <![CDATA[<h4>Everything you hated about text adventure games is now being sold as a productivity tool</h4> <p><strong>Opinion</strong>  When Microsoft recently decided to <a target="_blank" href="https://www.theregister.com/2025/11/21/microsoft_zork_source/">open source</a> the seminal text adventure game Zork, I contemplated revisiting it during the festive season... until I realized I&#39;ve spent much of 2025 experiencing the worst of such games when using AI chatbots.…</p>]]>
-      </description>
-      <source:markdown>#### Everything you hated about text adventure games is now being sold as a productivity tool
-
-**Opinion**  When Microsoft recently decided to [open source](https://www.theregister.com/2025/11/21/microsoft_zork_source/) the seminal text adventure game Zork, I contemplated revisiting it during the festive season... until I realized I&#39;ve spent much of 2025 experiencing the worst of such games when using AI chatbots.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243649</guid>
-    </item>    <item>
-      <title>Why Drones Are Catching Whale Breaths</title>
-      <link>https://www.npr.org/2025/12/26/nx-s1-5655233/whale-health-breath-blow-virus-drone</link>
-      <description>
-        <![CDATA[Scientists in the Arctic are catching the exhaled breaths of whales to better understand their health. How? Drones. Whales breathe through their blowholes, which are the equivalent of nostrils on their heads. By studying the microbes in exhaled whale breaths, scientists are piecing together how deadly diseases spread in whale populations. Host Emily Kwong and producer Berly McCoy talk to <em>All Things Considered </em>host Juana Summers about what scientists can do with this information, from reducing stress on whales and monitoring ocean health to warning people who could be in close proximity to whales carrying zoonotic diseases. <br/><br/><br><em>Interested in more science on charismatic megafauna? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Scientists in the Arctic are catching the exhaled breaths of whales to better understand their health. How? Drones. Whales breathe through their blowholes, which are the equivalent of nostrils on their heads. By studying the microbes in exhaled whale breaths, scientists are piecing together how deadly diseases spread in whale populations. Host Emily Kwong and producer Berly McCoy talk to _All Things Considered_ host Juana Summers about what scientists can do with this information, from reducing stress on whales and monitoring ocean health to warning people who could be in close proximity to whales carrying zoonotic diseases.
-
-_Interested in more science on charismatic megafauna? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR9775517532.mp3?t=podcast&e=nx-s1-5655233&p=510351&d=613&size=9811636" length="9811636" type="audio/mpeg" />
-      <guid>cid://43ffa228-6c46-4e6b-936e-3e7fa414f8fb</guid>
-    </item>    <item>
-      <title>IT team forced to camp in the office for days after Y2K bug found in boss&#39;s side project</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/26/on_call/</link>
-      <description>
-        <![CDATA[<h4>The lack of trust that leads to outsourcing can be expensive</h4> <p><strong>On Call Y2K</strong>  December 26th is a holiday across much of the <em>Reg-reading</em> world, but it&#39;s also a Friday – the day on which we present a fresh instalment of On Call, the reader-contributed column that recounts your tales of tech support encounters and exasperation.…</p>]]>
-      </description>
-      <source:markdown>#### The lack of trust that leads to outsourcing can be expensive
-
-**On Call Y2K**  December 26th is a holiday across much of the _Reg-reading_ world, but it&#39;s also a Friday – the day on which we present a fresh instalment of On Call, the reader-contributed column that recounts your tales of tech support encounters and exasperation.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243697</guid>
     </item>
   </channel>
 </rss>
