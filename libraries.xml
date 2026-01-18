@@ -4,10 +4,27 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>17 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>18 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>THIS WEDNESDAY: Three Ways to Celebrate the Public Domain</title>
+      <link>https://blog.archive.org/2026/01/18/this-wednesday-three-ways-to-celebrate-the-public-domain/</link>
+      <description>
+        <![CDATA[Join us THIS WEDNESDAY, JANUARY 21 for three different ways to celebrate the creative works from 1930 and the sounds recordings from 1925 that have entered the public domain in [&#8230;]]]>
+      </description>
+      <source:markdown>Join us THIS WEDNESDAY, JANUARY 21 for three different ways to celebrate the creative works from 1930 and the sounds recordings from 1925 that have entered the public domain in \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=29947</guid>
+    </item>    <item>
+      <title>“We”, by Charles A. Lindbergh</title>
+      <link>https://standardebooks.org/ebooks/charles-a-lindbergh/we</link>
+      <description>
+        <![CDATA[Legendary aviator Charles Lindbergh gives an account of his early life, how he got into flying, and his famous transatlantic flight.]]>
+      </description>
+      <source:markdown>Legendary aviator Charles Lindbergh gives an account of his early life, how he got into flying, and his famous transatlantic flight.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/charles-a-lindbergh/we/downloads/charles-a-lindbergh_we.epub?source=feed" length="3476421" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/charles-a-lindbergh/we</guid>
+    </item>    <item>
       <title>Lisa O’Hara: Librarianship Is All About the People</title>
       <link>https://www.arl.org/blog/lisa-ohara-librarianship-is-all-about-the-people/</link>
       <description>
@@ -91,7 +108,7 @@ The post [Guest Post — Open Scholarship is Poised to Create More Value than Ev
         <![CDATA[Chief Constable Sir Clinton Driffield investigates the theft of valuables from a country estate after a masquerade ball.]]>
       </description>
       <source:markdown>Chief Constable Sir Clinton Driffield investigates the theft of valuables from a country estate after a masquerade ball.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe/downloads/j-j-connington_tragedy-at-ravensthorpe.epub?source=feed" length="338780" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe/downloads/j-j-connington_tragedy-at-ravensthorpe.epub?source=feed" length="338937" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe</guid>
     </item>    <item>
       <title>Father Henson’s Story of His Own Life, by Josiah Henson</title>
@@ -538,7 +555,7 @@ The post [Guest Post — What is The ‘Right’ Way to Make Tea? Why Internatio
         <![CDATA[A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.]]>
       </description>
       <source:markdown>A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/hugh-lofting_the-story-of-doctor-dolittle.epub?source=feed" length="482703" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/hugh-lofting_the-story-of-doctor-dolittle.epub?source=feed" length="483272" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle</guid>
     </item>    <item>
       <title>Journal Article: Generative AI in Higher Education: A Bibliometric Review of Emerging Trends, Power Dynamics, and Global Research Landscapes</title>
@@ -851,7 +868,7 @@ For more technical documentation and implementation guidance, please visit [our 
         <![CDATA[A planetary champion finds himself employed to solve another planet’s pressing problem.]]>
       </description>
       <source:markdown>A planetary champion finds himself employed to solve another planet’s pressing problem.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned/downloads/harry-harrison_planet-of-the-damned.epub?source=feed" length="798387" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned/downloads/harry-harrison_planet-of-the-damned.epub?source=feed" length="798945" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/harry-harrison/planet-of-the-damned</guid>
     </item>    <item>
       <title>Tennessee: Here’s Which Libraries Have Been Ordered to Review Book Collections</title>
@@ -887,7 +904,7 @@ The post [The Year in Review: 2025 in The Scholarly Kitchen](https://scholarlyki
         <![CDATA[Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.]]>
       </description>
       <source:markdown>Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/augustine-of-hippo_the-city-of-god_marcus-dods-george-wilson-j-j-smith.epub?source=feed" length="1555325" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/augustine-of-hippo_the-city-of-god_marcus-dods-george-wilson-j-j-smith.epub?source=feed" length="1555982" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith</guid>
     </item>    <item>
       <title>portal: Libraries and the Academy (Vol 26, No 1; Preprints For All Articles Now Available Online)</title>
@@ -913,7 +930,7 @@ The post [The Year in Review: 2025 in The Scholarly Kitchen](https://scholarlyki
         <![CDATA[A young Russian man walks from Manchuria to Seoul to reclaim an old debt.]]>
       </description>
       <source:markdown>A young Russian man walks from Manchuria to Seoul to reclaim an old debt.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/stella-benson/the-faraway-bride/downloads/stella-benson_the-faraway-bride.epub?source=feed" length="672589" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/stella-benson/the-faraway-bride/downloads/stella-benson_the-faraway-bride.epub?source=feed" length="673663" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/stella-benson/the-faraway-bride</guid>
     </item>    <item>
       <title>Years of Grace, by Margaret Ayer Barnes</title>

@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>18 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,1316 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>XML-RPC links from 2019</title>
+      <link>http://scripting.com/2026/01/18/154152.html?title=xmlrpcLinksFrom2019</link>
+      <description>
+        <![CDATA[<p>In 2019, I did an overhaul of XML-RPC, and created a reference implementation in JavaScript, both client and server (Node.js). </p>
+        <p>The missing links from <a href="https://shownotes.scripting.com/scripting/2026/01/17/howXmlrpcStartedUp.html">yesterday's podcast</a>.</p>
+        <ul>
+        <li>XML-RPC <a href="https://xmlrpc.com/">website</a>. </li>
+        <li>XML-RPC <a href="https://github.com/scripting/xml-rpc">GitHub repo</a>.</li>
+        <li><a href="https://github.com/scripting/xml-rpc">JavaScript</a> reference implementation.</li>
+        <li>New <a href="https://xmlrpc.com/docs/xml-rpc-in-json.md">JSON encoding</a>.</li>
+        <li>The original website was <a href="http://1998.xmlrpc.com/">preserved</a>.</li>
+        </ul>]]>
+      </description>
+      <source:markdown>In 2019, I did an overhaul of XML-RPC, and created a reference implementation in JavaScript, both client and server (Node.js).
+
+The missing links from [yesterday&#39;s podcast](https://shownotes.scripting.com/scripting/2026/01/17/howXmlrpcStartedUp.html).
+
+*   XML-RPC [website](https://xmlrpc.com/).
+*   XML-RPC [GitHub repo](https://github.com/scripting/xml-rpc).
+*   [JavaScript](https://github.com/scripting/xml-rpc) reference implementation.
+*   New [JSON encoding](https://xmlrpc.com/docs/xml-rpc-in-json.md).
+*   The original website was [preserved](http://1998.xmlrpc.com/).</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/18/154152.html</guid>
+    </item>    <item>
+      <title>The best thing about the cold weather is seeing all the good doggos out walking in their winter outfits.</title>
+      <link>https://adactio.com/notes/22361</link>
+      <description>
+        <![CDATA[<p>The best thing about the cold weather is seeing all the good doggos out walking in their winter outfits.</p>]]>
+      </description>
+      <source:markdown>The best thing about the cold weather is seeing all the good doggos out walking in their winter outfits.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22361</guid>
+    </item>    <item>
+      <title>The best version of my site so far...</title>
+      <link>https://daverupert.com/2026/01/my-2026-redesign/</link>
+      <description>
+        <![CDATA[<p>You might have noticed that I did a big design refresh on my entire site… unless you’re on RSS I guess. I’ll talk about aspects in detail, but at a high level there’s been three big changes:</p>
+        <ol>
+        <li>A monospace font</li>
+        <li>Named CSS grid lines</li>
+        <li>Juicier multi-page view transitions</li>
+        </ol>
+        <p>But my most favorite part is that today  (when you set <code>html { --hue-rotate: 15 }</code>), my light theme looks like a stick of butter. And that brings me joy.</p>
+        <h2>What didn’t change</h2>
+        <p>Before I talk about what changed, here’s a quick list of the parts of my site that didn’t change:</p>
+        <ul>
+        <li>Same big “Dave” SVG on the homepage</li>
+        <li>Same information architecture, no radical content changes.</li>
+        <li>No new assets, same visuals.</li>
+        <li>Same <a href="https://daverupert.com/2025/01/color-hue-rotating-gaslight/">hue-rotating background</a>, although I did simplify the formula.</li>
+        <li>Same <a href="https://daverupert.com/2025/06/fittext-too-attr-boogaloo/">inverse text-sizing</a> for H1s</li>
+        <li>Same <a href="https://daverupert.com/2021/01/art-direction-for-static-sites/">support for art-directed posts</a></li>
+        </ul>
+        <p>Why change the parts you’re happy with, eh? Knowing what you want to change versus what you don’t want to change makes the whole process go faster.</p>
+        <h2>All-in on a monospace font</h2>
+        <p>My type system always falls apart. I start with a good setup and I’m guaranteed to ruin it over time. Whenever I read a site with a nice typeface and reasonable CPL, I started to feel like my <code>system-ui</code> based body text styles were letting me down. It didn’t feel cozy.</p>
+        <p>Then I saw <a href="https://robinrendle.com/">Robin Rendle</a>’s latest redesign (which is wonderful, btw) I wondered… Could I be a <code>monospace</code> font guy? Is that me? Do I identify as that? Is it too emo? Does it come off as a bad developer pun like <code>bleep blorp I'm a programmer and using a computer bleep blorp</code>?</p>
+        <p>All good questions to ask myself and exposes some insecurity I have, but I couldn’t shake the idea so I went for it.</p>
+        <p>The entire site is now set in <code>Cascadia Mono</code> which is a variant of Microsoft’s <a href="https://github.com/microsoft/cascadia-mono">Cascadia Code</a>. That decision is unintentionally is on-brand for my current stage of life. Initially I wanted to use <a href="https://levien.com/type/myfonts/inconsolata.html">Inconsolata</a> by Raph Levien, but it didn’t have a “numero” (№) symbol – which is a common missing glyph in a lot of indie fonts – and is an unfortunate piece of critical typographical infrastructure with my <a href="https://daverupert.com/tag/vibecheck">vibechecks</a>.</p>
+        <p>In general I love the change. It feels very “me” right now. I worry about the readability of monospace fonts some, but I don’t think I was winning the Legibility Wars before.</p>
+        <h2>Naming my grid lines</h2>
+        <p>Improving the grid on my site is something I’ve wanted to do for nearly two years. The max-width container I had was fine before, but I relied a lot on <a href="https://daverupert.com/2017/03/full-bleed-with-not/">margin overrides</a> to change a container that <a href="https://daverupert.com/2017/03/thoughts-on-negative-margins/">felt like a hack</a> that in my experience don’t scale.</p>
+        <p>Now I have something better with some sweet tech from <a href="https://smolcss.dev/#smol-breakout-grid">Stephanie Eckles</a> that I saw on <a href="https://www.youtube.com/watch?v=c13gpBrnGEw">Kevin Powell’s YouTube</a> called “Named Grid Lines”. A not-so-well-known feature of grid is you can name the gutters in your grid template. The result is a grid that looks like this:</p>
+        <grid-container-demo>
+          <div class="full">Full</div>
+          <div class="margin">Margin</div>
+          <div class="wide">Wide</div>
+          <div class="outdent">Outdent</div>
+          <div>Content (Default)</div>
+        </grid-container-demo>
+        <p>See how all the grids collapse into one line that’s offset from the edge? That’s what I want. And then to use it, you specify the <code>*-start</code> and <code>*-end</code> line you tweak your container with a modifier class and make all the children start at a different grid line.</p>
+        <div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="css"><span class="nc">.foo.container</span> <span class="o">&gt;</span> <span class="o">*</span> <span class="p">{</span>
+        	<span class="nl">grid-column</span><span class="p">:</span> <span class="n">wide-start</span> <span class="p">/</span> <span class="n">wide-end</span><span class="p">;</span> 
+          <span class="c">/* or grid-column: wide */</span>
+        <span class="p">}</span>
+        </code></pre></div></div>
+        <p>This gives me a lot of scalable control for my layout at the template level. For example, the layout of my homepage looks like this:</p>
+        <grid-container-demo>
+          <div class="outdent">Header</div>
+          <div class="outdent">Logo</div>
+          <div>Latest Posts</div>
+          <div>Projects</div>
+          <div class="outdent">Footer</div>
+        </grid-container-demo>
+        <p>But when you click through to a single post, the template shifts to this:</p>
+        <grid-container-demo>
+          <div class="outdent">Header</div>
+          <div class="outdent-end">Title Goes Here</div>
+          <div>Content</div>
+          <div class="outdent-end">Media</div>
+          <div>Content</div>
+            <div>Content</div>
+          <div class="outdent-end">Media</div>
+            <div>Content</div>
+            <div>Content</div>
+          <div class="outdent">Footer</div>
+        </grid-container-demo>
+        <p>I don’t have this setup, but I could write out a system of utility classes to make all this super flexible.</p>
+        <grid-container-demo>
+          <div class="full-start">.full-start</div>
+          <div class="margin-start">.margin-start</div>
+          <div class="wide-start">.wide-start</div>
+          <div class="outdent-start">.outdent-start</div>
+          <div>Default Content</div>
+          <div class="outdent-end">.outdent-end</div>
+          <div class="wide-end">.wide-end</div>
+          <div class="margin-end">.margin-end</div>
+          <div class="full-end">.full-end</div>
+        </grid-container-demo>
+        <p>That’s a lot of different layouts to craft. I look forward to more sustainable art direction for years to come. No more hacky negative margins or fixed positioned items… right?</p>
+        <h2>More Multipage View Transitions</h2>
+        <p>I’ve had <a href="https://daverupert.com/2023/05/getting-started-view-transitions/">multi-page view transitions on my site</a> for years now. The original was a title transition from the index template to the post template where the post title would do a subtle swoop up and morph from an <code>H3</code> to display-sized <code>H1</code>. This was great until I changed the font for my <code>H1</code> (see above) and I obliterated the slight of hand magic I had before. Oops.</p>
+        <p>Now the flagship animation on my site is not typography dependent. If you navigate through my site, you’ll see that the “Dave” SVG on the homepage transitions into the main navigation on subpages. As a bonus, I get a little bit of much-needed branding on subpages. I didn’t do anything special other than naming the view transition and beefing up the stroke when the logo is in its smaller form.</p>
+        <p>The main nav is out-dented a bit by default, but using my new named columns I made the navigation go wider to match wide pages like my Bookshelf. Flexbox’s <code>justify-content: space-between</code> and view-transitions is doing all the heavy lifting on that animation there but I’m pleased with the effect and it feels natural (aka not synthetic and cheap).</p>
+        <p>I’m not a motion expert like <a href="https://cydstumpel.nl/">Cyd Stumpel</a>, but it feels good to have big, bold, un-ignorable view transitions on my site.</p>
+        <h2>Slimmed down CSS</h2>
+        <p>A redesign is always a great opportunity to clean house. I did the thing where I deleted my entire CSS and started from a naked page. Bit-by-bit I pulled back in the pieces I still needed.</p>
+        <p>I have about 40% less CSS which manifests in ~150 less lines of code to maintain and up to <code>~0.8 KB</code> when compressed over the wire.</p>
+        <table>
+        <thead>
+        <tr>
+        <th></th>
+        <th>LoC</th>
+        <th>Raw</th>
+        <th>Min+Gzip</th>
+        <th>Min+Brotli</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td>Before</td>
+        <td>557</td>
+        <td>10.3 KB</td>
+        <td>2.76 KB</td>
+        <td>2.43 KB</td>
+        </tr>
+        <tr>
+        <td>After</td>
+        <td>391</td>
+        <td>5.36 KB</td>
+        <td>1.97 KB</td>
+        <td>1.76 KB</td>
+        </tr>
+        </tbody>
+        </table>
+        <p>Now <code>0.8 KB</code> isn’t much but because I inline my critical CSS the <code>&lt;head&gt;</code> on every page, this number matters. My entire homepage document is <code>~5.5 KB</code> (Brotli), so that’s a 10%~20% performance improvement from cleaning up my CSS. How did I get these gains, you ask? Well…</p>
+        <p>One reason my CSS smaller is because I’m using modern CSS (nesting, <code>:has()</code>, <code>:is()</code>, <code>:where()</code>, <code>:not()</code>, etc). Those features seem like minor syntactic sugar but you also get more efficient selectors. For example my out-denting that I do in posts would previous be something like:</p>
+        <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.post iframe, 
+        .post video, 
+        .post img,
+        .post table { }
+        </code></pre></div></div>
+        <p>In modern CSS that super-conjoined selector becomes something more expressive and elegant:</p>
+        <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.post :is(iframe, video, img, table) {}
+        </code></pre></div></div>
+        <p>Those small improvements add up, but another reason the CSS is smaller is because its doing a lot less. Other than my inverse-sized H1s in posts, I’m not managing type styles at all beyond setting the body font-size. I think this is what Andy Bell calls “<a href="https://bell.bz/be-the-browsers-mentor-not-its-micromanager/">Be the Bowser’s Mentor, Not Its Micromanager</a>”. My strategy here is: Don’t futz with it until you can think of something way better than what the browser already does. That seems very <a href="https://alistapart.com/article/dao/">Dao</a> or <a href="https://frankchimero.com/blog/2015/the-webs-grain/">Web’s Grain’y</a>.</p>
+        <h2>Onward to more art direction!</h2>
+        <p>This redesign opens up a bright future for my site. I’ve already started on some of this work, but I’ll share that in a future post. I mentioned above but the named grid lines alone give me a lot of easy-to-use levers for expression. I touched up some <a href="http://localhost:4000/2020/04/oh-the-paywalls-you-ll-meet/">old art-directed posts</a> and they are benefitting from the changes already.</p>
+        <p>“Make it easy to play” seems like a good ethos for a personal site and I feel like I have that in the current manifestation.</p>]]>
+      </description>
+      <source:markdown>You might have noticed that I did a big design refresh on my entire site… unless you’re on RSS I guess. I’ll talk about aspects in detail, but at a high level there’s been three big changes:
+
+1. A monospace font
+2. Named CSS grid lines
+3. Juicier multi-page view transitions
+
+But my most favorite part is that today (when you set `html { --hue-rotate: 15 }`), my light theme looks like a stick of butter. And that brings me joy.
+
+## What didn’t change
+
+Before I talk about what changed, here’s a quick list of the parts of my site that didn’t change:
+
+- Same big “Dave” SVG on the homepage
+- Same information architecture, no radical content changes.
+- No new assets, same visuals.
+- Same [hue-rotating background](https://daverupert.com/2025/01/color-hue-rotating-gaslight/), although I did simplify the formula.
+- Same [inverse text-sizing](https://daverupert.com/2025/06/fittext-too-attr-boogaloo/) for H1s
+- Same [support for art-directed posts](https://daverupert.com/2021/01/art-direction-for-static-sites/)
+
+Why change the parts you’re happy with, eh? Knowing what you want to change versus what you don’t want to change makes the whole process go faster.
+
+## All-in on a monospace font
+
+My type system always falls apart. I start with a good setup and I’m guaranteed to ruin it over time. Whenever I read a site with a nice typeface and reasonable CPL, I started to feel like my `system-ui` based body text styles were letting me down. It didn’t feel cozy.
+
+Then I saw [Robin Rendle](https://robinrendle.com/)’s latest redesign (which is wonderful, btw) I wondered… Could I be a `monospace` font guy? Is that me? Do I identify as that? Is it too emo? Does it come off as a bad developer pun like `bleep blorp I&#39;m a programmer and using a computer bleep blorp`?
+
+All good questions to ask myself and exposes some insecurity I have, but I couldn’t shake the idea so I went for it.
+
+The entire site is now set in `Cascadia Mono` which is a variant of Microsoft’s [Cascadia Code](https://github.com/microsoft/cascadia-mono). That decision is unintentionally is on-brand for my current stage of life. Initially I wanted to use [Inconsolata](https://levien.com/type/myfonts/inconsolata.html) by Raph Levien, but it didn’t have a “numero” (№) symbol – which is a common missing glyph in a lot of indie fonts – and is an unfortunate piece of critical typographical infrastructure with my [vibechecks](https://daverupert.com/tag/vibecheck).
+
+In general I love the change. It feels very “me” right now. I worry about the readability of monospace fonts some, but I don’t think I was winning the Legibility Wars before.
+
+## Naming my grid lines
+
+Improving the grid on my site is something I’ve wanted to do for nearly two years. The max-width container I had was fine before, but I relied a lot on [margin overrides](https://daverupert.com/2017/03/full-bleed-with-not/) to change a container that [felt like a hack](https://daverupert.com/2017/03/thoughts-on-negative-margins/) that in my experience don’t scale.
+
+Now I have something better with some sweet tech from [Stephanie Eckles](https://smolcss.dev/#smol-breakout-grid) that I saw on [Kevin Powell’s YouTube](https://www.youtube.com/watch?v=c13gpBrnGEw) called “Named Grid Lines”. A not-so-well-known feature of grid is you can name the gutters in your grid template. The result is a grid that looks like this:
+
+Full
+
+Margin
+
+Wide
+
+Outdent
+
+Content (Default)
+
+See how all the grids collapse into one line that’s offset from the edge? That’s what I want. And then to use it, you specify the `*-start` and `*-end` line you tweak your container with a modifier class and make all the children start at a different grid line.
+
+```
+.foo.container &#62; * {
+	grid-column: wide-start / wide-end;
+  /* or grid-column: wide */
+}
+
+```
+
+This gives me a lot of scalable control for my layout at the template level. For example, the layout of my homepage looks like this:
+
+Header
+
+Logo
+
+Latest Posts
+
+Projects
+
+Footer
+
+But when you click through to a single post, the template shifts to this:
+
+Header
+
+Title Goes Here
+
+Content
+
+Media
+
+Content
+
+Content
+
+Media
+
+Content
+
+Content
+
+Footer
+
+I don’t have this setup, but I could write out a system of utility classes to make all this super flexible.
+
+.full-start
+
+.margin-start
+
+.wide-start
+
+.outdent-start
+
+Default Content
+
+.outdent-end
+
+.wide-end
+
+.margin-end
+
+.full-end
+
+That’s a lot of different layouts to craft. I look forward to more sustainable art direction for years to come. No more hacky negative margins or fixed positioned items… right?
+
+## More Multipage View Transitions
+
+I’ve had [multi-page view transitions on my site](https://daverupert.com/2023/05/getting-started-view-transitions/) for years now. The original was a title transition from the index template to the post template where the post title would do a subtle swoop up and morph from an `H3` to display-sized `H1`. This was great until I changed the font for my `H1` (see above) and I obliterated the slight of hand magic I had before. Oops.
+
+Now the flagship animation on my site is not typography dependent. If you navigate through my site, you’ll see that the “Dave” SVG on the homepage transitions into the main navigation on subpages. As a bonus, I get a little bit of much-needed branding on subpages. I didn’t do anything special other than naming the view transition and beefing up the stroke when the logo is in its smaller form.
+
+The main nav is out-dented a bit by default, but using my new named columns I made the navigation go wider to match wide pages like my Bookshelf. Flexbox’s `justify-content: space-between` and view-transitions is doing all the heavy lifting on that animation there but I’m pleased with the effect and it feels natural (aka not synthetic and cheap).
+
+I’m not a motion expert like [Cyd Stumpel](https://cydstumpel.nl/), but it feels good to have big, bold, un-ignorable view transitions on my site.
+
+## Slimmed down CSS
+
+A redesign is always a great opportunity to clean house. I did the thing where I deleted my entire CSS and started from a naked page. Bit-by-bit I pulled back in the pieces I still needed.
+
+I have about 40% less CSS which manifests in ~150 less lines of code to maintain and up to `~0.8 KB` when compressed over the wire.
+
+LoCRawMin+GzipMin+BrotliBefore55710.3 KB2.76 KB2.43 KBAfter3915.36 KB1.97 KB1.76 KB
+
+Now `0.8 KB` isn’t much but because I inline my critical CSS the `&#60;head&#62;` on every page, this number matters. My entire homepage document is `~5.5 KB` (Brotli), so that’s a 10%~20% performance improvement from cleaning up my CSS. How did I get these gains, you ask? Well…
+
+One reason my CSS smaller is because I’m using modern CSS (nesting, `:has()`, `:is()`, `:where()`, `:not()`, etc). Those features seem like minor syntactic sugar but you also get more efficient selectors. For example my out-denting that I do in posts would previous be something like:
+
+```
+.post iframe,
+.post video,
+.post img,
+.post table { }
+
+```
+
+In modern CSS that super-conjoined selector becomes something more expressive and elegant:
+
+```
+.post :is(iframe, video, img, table) {}
+
+```
+
+Those small improvements add up, but another reason the CSS is smaller is because its doing a lot less. Other than my inverse-sized H1s in posts, I’m not managing type styles at all beyond setting the body font-size. I think this is what Andy Bell calls “ [Be the Bowser’s Mentor, Not Its Micromanager](https://bell.bz/be-the-browsers-mentor-not-its-micromanager/)”. My strategy here is: Don’t futz with it until you can think of something way better than what the browser already does. That seems very [Dao](https://alistapart.com/article/dao/) or [Web’s Grain’y](https://frankchimero.com/blog/2015/the-webs-grain/).
+
+## Onward to more art direction!
+
+This redesign opens up a bright future for my site. I’ve already started on some of this work, but I’ll share that in a future post. I mentioned above but the named grid lines alone give me a lot of easy-to-use levers for expression. I touched up some [old art-directed posts](http://localhost:4000/2020/04/oh-the-paywalls-you-ll-meet/) and they are benefitting from the changes already.
+
+“Make it easy to play” seems like a good ethos for a personal site and I feel like I have that in the current manifestation.</source:markdown>
+      <guid>cid://https://daverupert.com/2026/01/my-2026-redesign/</guid>
+    </item>    <item>
+      <title>Rayon de soleil et mal de gorge [en]</title>
+      <link>https://climbtothestars.org/archives/2026/01/18/rayon-de-soleil-et-mal-de-gorge/</link>
+      <description>
+        <![CDATA[[en] Il y a du soleil et j&#8217;ai pu manger sur le balcon. On est de nouveau dimanche, une semaine de plus s&#8217;est écoulé. Déjà le 18 janvier. Depuis le début de l&#8217;année, j&#8217;ai deux fois commencé à écrire un article. Le premier a été interrompu par une nouvelle crise convulsive d&#8217;Oscar. Le deuxième par &#8230; <a href="https://climbtothestars.org/archives/2026/01/18/rayon-de-soleil-et-mal-de-gorge/" class="more-link">Continue reading<span class="screen-reader-text"> "<span lang='en'>Rayon de soleil et mal de gorge <span class='bb-lang'>[en]</span></span>"</span></a>]]>
+      </description>
+      <source:markdown>\[en\] Il y a du soleil et j’ai pu manger sur le balcon. On est de nouveau dimanche, une semaine de plus s’est écoulé. Déjà le 18 janvier. Depuis le début de l’année, j’ai deux fois commencé à écrire un article. Le premier a été interrompu par une nouvelle crise convulsive d’Oscar. Le deuxième par … [Continue reading &#34;Rayon de soleil et mal de gorge \[en\]&#34;](https://climbtothestars.org/archives/2026/01/18/rayon-de-soleil-et-mal-de-gorge/)</source:markdown>
+      <guid>cid://https://climbtothestars.org/?p=10345</guid>
+    </item>    <item>
+      <title>An Unlikely Friendship</title>
+      <link>https://steady.substack.com/p/an-unlikely-friendship</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!PO3B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F456812dd-8f0a-4683-b094-5272cb764c0b_687x493.png" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/an-unlikely-friendship</guid>
+    </item>    <item>
+      <title>Americans say Trump has the wrong priorities</title>
+      <link>https://www.gelliottmorris.com/p/americans-say-trump-has-the-wrong</link>
+      <description>
+        <![CDATA[Your weekly political data roundup for January 18, 2026]]>
+      </description>
+      <source:markdown>Your weekly political data roundup for January 18, 2026</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!865E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9847047f-98ec-48fc-8910-0ec2e1eab1f5_1860x1522.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/americans-say-trump-has-the-wrong</guid>
+    </item>    <item>
+      <title>When Trump Named a Horse After Himself</title>
+      <link>https://www.borowitzreport.com/p/when-trump-named-a-horse-after-himself</link>
+      <description>
+        <![CDATA[TBR Sunday Read]]>
+      </description>
+      <source:markdown>TBR Sunday Read</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/d7b6e5b4-3d2a-4dc7-8c86-617bc903d587_1080x811.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/when-trump-named-a-horse-after-himself</guid>
+    </item>    <item>
+      <title>China’s Trade Surplus, Part III</title>
+      <link>https://paulkrugman.substack.com/p/chinas-trade-surplus-part-iii</link>
+      <description>
+        <![CDATA[How should policy respond?]]>
+      </description>
+      <source:markdown>How should policy respond?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!r7LD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c73eca-1b43-42c3-87b7-309e5b46dbac_1432x805.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/chinas-trade-surplus-part-iii</guid>
+    </item>    <item>
+      <title>The datalist element on iOS 26</title>
+      <link>https://adactio.com/journal/22360</link>
+      <description>
+        <![CDATA[<p>The <code>datalist</code> element is all fucked up on iOS. <a href="https://adactio.com/journal/21445">Again</a>.</p>
+        
+        <p>I haven’t “upgraded” my iPhone to iOS 26 and I have no plans to. The whole Liquid Glass thing is literally offputting. So I wouldn’t have known about the latest regression in Safari if a friend hadn’t texted me about the problem.</p>
+        
+        <p>He was trying to do a search on <a href="https://thesession.org/">The Session</a>. He was looking for the tune, <cite>The Road To Town</cite>. He started typing this into the form on the home page of the site. He got as far as “The Road To”. That’s when the entire input was obscured by a suggestion from the associated <code>datalist</code>.</p>
+        
+        <p><img src="https://adactio.com/images/ios26-datalist.png" alt="A screenshot of The Session on an iPhone during a search on the homepage. The search input is completely obscured by the text: The Road To Lisdoonvarna." title="" /></p>
+        
+        <p>This is incredibly annoying and seems to be a pattern of behaviour for Safari. Features are supported …technically. But the implementation is so buggy as to be unusable.</p>
+        
+        <p>I’ll probably have to do some user-agent sniffing, which I hate. And it won’t be enough to just sniff for Safari on iOS 26. Remember that every browser on iOS is just Webkit in a trenchcoat.</p>
+        
+        <p>Time to file a bug and then wait God knows how long for an update to get rolled out.</p>
+        
+        <p><strong>Update</strong>: <a href="https://bugs.webkit.org/show_bug.cgi?id=305719">I filed a bug</a>, but in the meantime it looks like <a href="https://nielsleenheer.com/articles/2025/the-user-agent-string-of-safari-on-ios-26-and-macos-26/">user-agent sniffing is going to be impossible</a>.</p>]]>
+      </description>
+      <source:markdown>The `datalist` element is all fucked up on iOS. [Again](https://adactio.com/journal/21445).
+
+I haven’t “upgraded” my iPhone to iOS 26 and I have no plans to. The whole Liquid Glass thing is literally offputting. So I wouldn’t have known about the latest regression in Safari if a friend hadn’t texted me about the problem.
+
+He was trying to do a search on [The Session](https://thesession.org/). He was looking for the tune, The Road To Town. He started typing this into the form on the home page of the site. He got as far as “The Road To”. That’s when the entire input was obscured by a suggestion from the associated `datalist`.
+
+![A screenshot of The Session on an iPhone during a search on the homepage. The search input is completely obscured by the text: The Road To Lisdoonvarna.](https://adactio.com/images/ios26-datalist.png)
+
+This is incredibly annoying and seems to be a pattern of behaviour for Safari. Features are supported …technically. But the implementation is so buggy as to be unusable.
+
+I’ll probably have to do some user-agent sniffing, which I hate. And it won’t be enough to just sniff for Safari on iOS 26. Remember that every browser on iOS is just Webkit in a trenchcoat.
+
+Time to file a bug and then wait God knows how long for an update to get rolled out.
+
+**Update**: [I filed a bug](https://bugs.webkit.org/show_bug.cgi?id=305719), but in the meantime it looks like [user-agent sniffing is going to be impossible](https://nielsleenheer.com/articles/2025/the-user-agent-string-of-safari-on-ios-26-and-macos-26/).</source:markdown>
+      <guid>cid://https://adactio.com/journal/22360</guid>
+    </item>    <item>
+      <link>https://www.huffpost.com/entry/democrats-ice-dhs-funding-bill_n_6967f245e4b0b0607cf1c39f</link>
+      <description>
+        <![CDATA[<p>It isn’t up to the Democrats to act, it’s up to the people of the United States. Do we really want our cities turned into police states? If not, make sure our reps, of all parties, understand this. Thanks for your attention to this matter.</p>]]>
+      </description>
+      <source:markdown>It isn’t up to the Democrats to act, it’s up to the people of the United States. Do we really want our cities turned into police states? If not, make sure our reps, of all parties, understand this. Thanks for your attention to this matter.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/18/2522/</guid>
+    </item>    <item>
+      <title>Not hot on bots, project names and shames AI-created open source software</title>
+      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2026/01/18/openslopware_is_back/</link>
+      <description>
+        <![CDATA[<h4>&#39;OpenSlopware&#39; briefly flowers, fades, falls – but fortunately was forked, fast</h4>
+              <p>The splendidly-named &#34;OpenSlopware&#34; was, for a short time, a list of open source projects using LLM bots. Due to harassment, it&#39;s gone, but forks of it live on.</p>]]>
+      </description>
+      <source:markdown>#### &#39;OpenSlopware&#39; briefly flowers, fades, falls – but fortunately was forked, fast
+
+The splendidly-named &#34;OpenSlopware&#34; was, for a short time, a list of open source projects using LLM bots. Due to harassment, it&#39;s gone, but forks of it live on.</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244014</guid>
+    </item>    <item>
+      <title>Sunday thought: It’s time again for good trouble</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-a-time-for-good-trouble</link>
+      <description>
+        <![CDATA[Time to take action against Trump&#8217;s mayhem]]>
+      </description>
+      <source:markdown>Time to take action against Trump’s mayhem</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!T6cX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F760522f1-3398-4864-95c5-3ac351e99af2_1920x1080.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-a-time-for-good-trouble</guid>
+    </item>    <item>
+      <title>January 17, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/january-17-2026</link>
+      <description>
+        <![CDATA[After the extraordinary pushback on President Donald J.]]>
+      </description>
+      <source:markdown>After the extraordinary pushback on President Donald J.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/january-17-2026</guid>
+    </item>    <item>
+      <title>Discourse &#38; Datcourse</title>
+      <link>https://doc.searls.com/2026/01/17/discourse-datcourse/</link>
+      <description>
+        <![CDATA[The Net as one big gaslight Joan Westenberg: The Discourse is a Distributed Denial-of-Service Attack. Just one worthy pullquote: &#34;The problem is structural. The total volume of things-you-should-have-an-opinion-about has exceeded our cognitive bandwidth so thoroughly that having careful opinions about anything has become damned-near impossible. Your attention is a finite resource being strip-mined by an infinite [&#8230;]]]>
+      </description>
+      <source:markdown>The Net as one big gaslight Joan Westenberg: The Discourse is a Distributed Denial-of-Service Attack. Just one worthy pullquote: &#34;The problem is structural. The total volume of things-you-should-have-an-opinion-about has exceeded our cognitive bandwidth so thoroughly that having careful opinions about anything has become damned-near impossible. Your attention is a finite resource being strip-mined by an infinite \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/01/17/discourse-datcourse/</guid>
+    </item>    <item>
+      <title>Weekly Bookmarks</title>
+      <link>https://inkdroid.org/2026/01/18/bookmarks/</link>
+      <description>
+        <![CDATA[<p>
+        These are some things I’ve wandered across on the web this week.
+        </p>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://brewing.permacomputing.net/"> How To
+        Start a Permacomputing Collective </a>
+        </h2>
+        <section class="p-summary">
+        This is a guide brewed from conversations with initiatives in London
+        (UK), Berlin (DE), Prague (CZ), Philadelphia (USA), Rotterdam (NL),
+        Vienna (AT), Lutruwtia (Tas/AU), County Mayo (IE) and a community from
+        Middle America gathering on servers. This text can support you when
+        starting a permacomputing collective. We use fermenting as a metaphor.
+        It isn’t a strict recipe but more of a loose framework that can be
+        freely modified to suit local tastes and conditions. Many actions are
+        cyclical and can be seen as opportunities to revisit or re-purpose
+        later.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.libraryfriends.info/bookcorner">
+        Bookcorner </a>
+        </h2>
+        <section class="p-summary">
+        located at 311 North 20th Street (at Wood Street), one block north of
+        the Ben Franklin Parkway, directly behind the Central Library on Logan
+        Square and just five minutes from Routes 95 and 76 - is a used bookstore
+        staffed by a team of paid and volunteer booksellers that offers gently
+        used, publicly donated books, records, CDs at reduced prices. Now the
+        new home of Chris’ Kids Corner for children’s books and story hours,
+        they also feature an eclectic stock of fiction, non-fiction,
+        contemporary, classics, out of print, first editions, art, architecture
+        and crafts.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://theconversation.com/comment-le-discours-mediatique-sur-lia-empeche-denvisager-dautres-possibles-211766">
+        Comment le discours médiatique sur l’IA empêche d’envisager d’autres
+        possibles </a>
+        </h2>
+        <section class="p-summary">
+        Le Sommet pour l’action sur l’intelligence artificielle se tient à Paris
+        du 6 au 11 février 2025. C’est l’occasion de rappeler l’existence d’une
+        boîte à outils pour révéler les angles morts des discours sur le
+        numérique. Autour du concept d’« impensé numérique », ces outils de
+        compréhension sont précieux pour garder la tête froide face à
+        l’irruption de l’IA générative dans notre quotidien.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://youtu.be/bDNv36BJeN0"> Charlie’s
+        Dorot Fellowship Video </a>
+        </h2>
+        <section class="p-summary">
+        Enjoy the videos and music you love, upload original content, and share
+        it all with friends, family, and the world on YouTube.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report">
+        Our new report: AI code creates 1.7x more problems </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        We analyzed 470 open-source GitHub pull requests, including 320
+        AI-co-authored PRs and 150 human-only PRs, using CodeRabbit’s structured
+        issue taxonomy. Every finding was normalized to issues per 100 PRs and
+        we used statistical rate ratios to compare how often different types of
+        problems appeared in each group.
+        </p>
+        The results? Clear, measurable, and consistent with what many developers
+        have been feeling intuitively: AI accelerates output, but it also
+        amplifies certain categories of mistakes.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://en.wikipedia.org/wiki/Father_Mother_Sister_Brother">
+        Father Mother Sister Brother </a>
+        </h2>
+        <section class="p-summary">
+        Father Mother Sister Brother is a 2025 comedy-drama anthology film
+        written and directed by Jim Jarmusch. It follows three estranged family
+        relationships in three different countries around the world, starring an
+        ensemble cast that includes Tom Waits, Adam Driver, Mayim Bialik,
+        Charlotte Rampling, Cate Blanchett, Vicky Krieps, Sarah Greene, Indya
+        Moore, and Luka Sabbat.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://copterspotter.com/"> Copterspotter
+        </a>
+        </h2>
+        <section class="p-summary">
+        You know, a map for spotting helicopters. Of course!
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://rnsaffn.com/poison3/"> Poison
+        Fountain </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        Poison Fountain Purpose
+        </p>
+        <ul>
+        <li>
+        We agree with Geoffrey Hinton: machine intelligence is a threat to the
+        human species.
+        </li>
+        <li>
+        In response to this threat we want to inflict damage on machine
+        intelligence systems.
+        </li>
+        <li>
+        Small quantities of poisoned training data can significantly damage a
+        language model.
+        </li>
+        <li>
+        The URLs listed above provide a practically endless stream of poisoned
+        training data.
+        </li>
+        <li>
+        Assist the war effort by caching and retransmitting this poisoned
+        training data.
+        </li>
+        <li>
+        Assist the war effort by feeding this poisoned training data to web
+        crawlers.
+        </section>
+        </article>
+        </li>
+        </ul>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf">
+        F3: The Open-Source Data File Format for the Future </a>
+        </h2>
+        <section class="p-summary">
+        Columnar storage formats are the foundation for modern data analytics
+        systems. The proliferation of open- source file formats (i.e., Parquet,
+        ORC) allows seamless data sharing across disparate platforms. However,
+        these formats were created over a decade ago for hardware and workload
+        environments that are much different from today. Although these formats
+        have incorporated some updates to their specification to adapt to these
+        changes, not all deployments support those modifications, and too often
+        systems cannot overcome the formats’ deficiencies and limitations
+        without a rewrite. In this paper, we present the F uture-proof F ile
+        Format (F3) project. It is a next-generation open-source file format
+        with interoperability, extensibility, and efficiency as its core design
+        principles. F3 obviates the need to create a new format every time a
+        shift occurs in data processing and computing by providing a data
+        organization structure and a general-purpose API to allow developers to
+        add new encoding schemes easily. Each self-describing F3 file includes
+        both the data and meta-data, as well as WebAssembly (Wasm) binaries to
+        decode the data. Embedding the decoders in each file requires minimal
+        storage (kilobytes) and ensures compatibility on any platform in case
+        native decoders are unavailable. To evaluate F3, we compared it against
+        legacy and state-of-the-art open-source file formats. Our evaluations
+        demonstrate the efficacy of F3’s storage layout and the benefits of
+        Wasm-driven decoding.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://nieuweinstituut.nl/en/projects/fungi-anarchistische-ontwerpers">
+        FUNGI: Anarchist Designers </a>
+        </h2>
+        <section class="p-summary">
+        Tsing and Zhou instead prefer to describe FUNGI: Anarchist Designers as
+        an exhibition of ‘anti-design’. In this show, fungi are not passive
+        building materials, but rather anarchic co-designers – unconscious and
+        uncontrollable – of a world that can only exist through alliances
+        between humans and other living things. The exhibition reveals how fungi
+        manifest themselves at different scales, from sick frogs and the
+        dishwasher in your kitchen, to hospital beds, termite mounds, the human
+        digestive system, coffee, banana and conifer plantations, and the
+        jungle.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://philippdubach.com/posts/beyond-vector-search-why-llms-need-episodic-memory/">
+        Beyond Vector Search: Why LLMs Need Episodic Memory </a>
+        </h2>
+        <section class="p-summary">
+        Here’s what I keep coming back to: in any mature system, most of the
+        graph will be memories of memories. You ask me my favorite restaurants,
+        I think about it, answer, and now “that list I made” becomes its own
+        retrievable thing. Next time someone asks about dinner plans, I don’t
+        re-derive preferences from first principles. I remember what I concluded
+        last time. Psychologists say this is how human recall actually works;
+        you’re not accessing the original, you’re accessing the last retrieval.
+        Gets a little distorted each time.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://taiwaninsight.org/2024/05/03/digital-archiving-for-just-transitions/">
+        Digital Archiving for Just Transitions </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        In 2023, I returned to Taiwan for further social science research
+        focused on environmental activism in response to the pollution caused by
+        Formosa Plastics, one of the biggest plastics companies in the world,
+        headquartered in Taiwan. One thread of research upon my return extended
+        an initiative that I’ve come to call “Archiving Formosa Plastics”,
+        designed to study environmental justice and governance issues related to
+        the company across diverse settings, supporting various research,
+        advocacy, and teaching endeavours.
+        </p>
+        The project started after getting to know an anti-Formosa activist in
+        Texas named Diane Wilson. Since the Texas Formosa Plant started
+        operations in the late 1980s, Wilson has collected many kinds of
+        documents about the plant, eventually needing a large barn to store them
+        all. I had many questions about these documents: When and how did these
+        various documents gain and lose political value? Who would take care of
+        and steward these documents into the future
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://dustycloud.org/blog/on-standards-divisions-collaboration/">
+        blogcontact On standards divisions and collaboration (or: Why can’t the
+        decentralized social web people just get along?) </a>
+        </h2>
+        <section class="p-summary">
+        A couple of days ago I wrote about ActivityPub becoming a W3C
+        Recommendation. This was one output of the Social Working Group, and the
+        blogpost was about my experiences, and most of my experiences were on my
+        direct work on ActivityPub. But the Social Working Group did more than
+        ActivityPub; it also on the same day published WebSub, a useful piece of
+        technology in its own right which amongst other things also plays a
+        significant historical role in what is even ActivityPub’s history (but
+        is not used by ActivityPub itself), and it has also published several
+        documents which are not compatible with ActivityPub at all, and appear
+        to play the same role. This, to outsiders, may appear confusing, but
+        there are reasons which I will go into in this post
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://fedify.dev/"> Fedify </a>
+        </h2>
+        <section class="p-summary">
+        A TypeScript library for building federated server apps powered by
+        ActivityPub and other standards, so-called fediverse What’s Fedify?
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://news.mongabay.com/2026/01/ai-centered-conservation-efforts-can-only-be-ethical-if-indigenous-people-help-lead-them-commentary/">
+        AI-centered conservation efforts can only be ethical if Indigenous
+        people help lead them (commentary) </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        We are part of a growing global effort to ensure innovative technologies
+        serve Indigenous communities and their environmental priorities. As AI
+        rapidly becomes even more ubiquitous, Western science should look to
+        Indigenous experts to guide the development of ethical AI tools for
+        conservation in ways that assert their own goals, priorities and
+        cautions.
+        </p>
+        Responsible AI that benefits Indigenous communities and conservation
+        must implement Indigenous data sovereignty principles, and determine how
+        and if Indigenous traditional ecological knowledge should be
+        incorporated into these systems. AI that is co-designed with Indigenous
+        partners, rather than for them, can make these technologies more
+        accessible, culturally appropriate and aligned with community goals
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://animikii.com/databack/understanding-and-resisting-generative-ai">
+        #DataBack Vol 2: Truth Before “Indigenous AI” </a>
+        </h2>
+        <section class="p-summary">
+        A critical review of Generative AI for Indigenous-focused organizations,
+        governments, and anyone who wants to better understand and protect their
+        rights and privacy.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://tramas.digital/en/"> TRAMAS </a>
+        </h2>
+        <section class="p-summary">
+        Tramas is an action-oriented research project of the Decolonial Feminist
+        Coalition for Digital and Environmental Justice. By examining case
+        studies and testimonies of resistance across Latin America, we aim to
+        show how the digital technology production chain has a wide range of
+        socio-environmental impacts on communities and their territories.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/">
+        The rise (and future fall) of Discord </a>
+        </h2>
+        <section class="p-summary">
+        All the “Discord-only” communities that currently exist will likely
+        disappear, however. And unlike all the dead phpBB forums that nobody
+        uses anymore but are still up for now, dead Discord communities will
+        never appear on the Wayback Machine. A decade or more of the internet’s
+        history gone. Sure, you can’t easily google search the Wayback Machine,
+        but at least it still exists somewhere. Discords? Truly lost forever.
+        Entire hobby communities that spent years of work discussing things,
+        answering questions, a wealth of information… gone.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://buttondown.com/ai-skeptics-reading-group">
+        AI Skeptics Reading Group </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        A reading group for AI skeptics
+        </p>
+        It’s exactly what it sounds like!
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.antirez.com/news/158"> Don’t fall
+        into the anti-AI hype </a>
+        </h2>
+        <section class="p-summary">
+        (I left a comment saying why I didn’t agree with the tone of this.)
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16188784">
+        Why spirituality is central to Indigenous mathematics </a>
+        </h2>
+        <section class="p-summary">
+        Indigenous math isn’t just about numbers and equations, it involves
+        culture, spirituality and more. Math professor Edward Doolittle, a
+        Mohawk from Six Nations in Ontario, sees math as something embedded in
+        Creation itself. In his Hagey Lecture at the University of Waterloo, he
+        describes Indigenous mathematics as being grounded in cognition,
+        emotion, the physical world and community. Indigenizing math, Doolittle
+        hopes, will make it more approachable and meaningful to Indigenous
+        students — show them how entwined it is with everyday life and something
+        much bigger than ourselves
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity">
+        The Man Who Knew Infinity </a>
+        </h2>
+        <section class="p-summary">
+        The Man Who Knew Infinity is a 2015 British biographical drama film
+        about the Indian mathematician Srinivasa Ramanujan, based on the 1991
+        book of the same name by Robert Kanigel.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://analognowhere.com/unix_surrealism/">
+        #unix_surrealism irc.libera.chat </a>
+        </h2>
+        <section class="p-summary">
+        This is not surrealism btw 2025-12-16
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what">
+        When AI writes almost all code, what happens to software engineering?
+        </a>
+        </h2>
+        <section class="p-summary">
+        While AI is undeniably good at writing code, it remains poor at
+        architecting maintainable, distributable, and scalable systems. This is
+        where non-technical leaders who think they can fire their development
+        teams are making a significant mistake. Until we see the arrival of an
+        artificial intelligence that renders this entire discussion moot,
+        believing that technical expertise can be replaced by a prompt is a
+        strategic error. Building robust software still requires a human who
+        understands the underlying principles of the craft.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://sympathetic.ink/2025/12/11/Column-Storage-for-the-AI-era.html">
+        Column Storage for the AI Era </a>
+        </h2>
+        <section class="p-summary">
+        Now we are faced with the conundrum of figuring out which ones will
+        manage to reach broad adoption in the ecosystem. From where I’m standing
+        it seems easier to contribute the missing bits to Parquet and build
+        those systems on top. These formats prove that these techniques work. We
+        can get much better performance by applying new approaches. As a
+        community, we should take a hint and evolve what we have
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/dbreunig/whenwords">
+        whenwords: An Open Source Library Without Code </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        But like said: the whenwords library contains no code. Instead,
+        whenwords contains specs and tests, specifically:
+        </p>
+        SPEC.md: A detailed description of how the library should behave and how
+        it should be implemented. tests.yaml: A list of language-agnostic test
+        cases, defined as input/output pairs, that any implementation must pass.
+        INSTALL.md: Instructions for building whenwords, for you, the human.
+        </section>
+        </article>]]>
+      </description>
+      <source:markdown>These are some things I’ve wandered across on the web this week.
+
+## 🔖 [How To\ Start a Permacomputing Collective](https://brewing.permacomputing.net/)
+
+This is a guide brewed from conversations with initiatives in London
+(UK), Berlin (DE), Prague (CZ), Philadelphia (USA), Rotterdam (NL),
+Vienna (AT), Lutruwtia (Tas/AU), County Mayo (IE) and a community from
+Middle America gathering on servers. This text can support you when
+starting a permacomputing collective. We use fermenting as a metaphor.
+It isn’t a strict recipe but more of a loose framework that can be
+freely modified to suit local tastes and conditions. Many actions are
+cyclical and can be seen as opportunities to revisit or re-purpose
+later.
+
+## 🔖 [Bookcorner](https://www.libraryfriends.info/bookcorner)
+
+located at 311 North 20th Street (at Wood Street), one block north of
+the Ben Franklin Parkway, directly behind the Central Library on Logan
+Square and just five minutes from Routes 95 and 76 - is a used bookstore
+staffed by a team of paid and volunteer booksellers that offers gently
+used, publicly donated books, records, CDs at reduced prices. Now the
+new home of Chris’ Kids Corner for children’s books and story hours,
+they also feature an eclectic stock of fiction, non-fiction,
+contemporary, classics, out of print, first editions, art, architecture
+and crafts.
+
+## 🔖 [Comment le discours médiatique sur l’IA empêche d’envisager d’autres\ possibles](https://theconversation.com/comment-le-discours-mediatique-sur-lia-empeche-denvisager-dautres-possibles-211766)
+
+Le Sommet pour l’action sur l’intelligence artificielle se tient à Paris
+du 6 au 11 février 2025. C’est l’occasion de rappeler l’existence d’une
+boîte à outils pour révéler les angles morts des discours sur le
+numérique. Autour du concept d’« impensé numérique », ces outils de
+compréhension sont précieux pour garder la tête froide face à
+l’irruption de l’IA générative dans notre quotidien.
+
+## 🔖 [Charlie’s\ Dorot Fellowship Video](https://youtu.be/bDNv36BJeN0)
+
+Enjoy the videos and music you love, upload original content, and share
+it all with friends, family, and the world on YouTube.
+
+## 🔖 [Our new report: AI code creates 1.7x more problems](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+
+We analyzed 470 open-source GitHub pull requests, including 320
+AI-co-authored PRs and 150 human-only PRs, using CodeRabbit’s structured
+issue taxonomy. Every finding was normalized to issues per 100 PRs and
+we used statistical rate ratios to compare how often different types of
+problems appeared in each group.
+
+The results? Clear, measurable, and consistent with what many developers
+have been feeling intuitively: AI accelerates output, but it also
+amplifies certain categories of mistakes.
+
+## 🔖 [Father Mother Sister Brother](https://en.wikipedia.org/wiki/Father_Mother_Sister_Brother)
+
+Father Mother Sister Brother is a 2025 comedy-drama anthology film
+written and directed by Jim Jarmusch. It follows three estranged family
+relationships in three different countries around the world, starring an
+ensemble cast that includes Tom Waits, Adam Driver, Mayim Bialik,
+Charlotte Rampling, Cate Blanchett, Vicky Krieps, Sarah Greene, Indya
+Moore, and Luka Sabbat.
+
+## 🔖 [Copterspotter](https://copterspotter.com/)
+
+You know, a map for spotting helicopters. Of course!
+
+## 🔖 [Poison\ Fountain](https://rnsaffn.com/poison3/)
+
+Poison Fountain Purpose
+
+- We agree with Geoffrey Hinton: machine intelligence is a threat to the
+  human species.
+
+- In response to this threat we want to inflict damage on machine
+  intelligence systems.
+
+- Small quantities of poisoned training data can significantly damage a
+  language model.
+
+- The URLs listed above provide a practically endless stream of poisoned
+  training data.
+
+- Assist the war effort by caching and retransmitting this poisoned
+  training data.
+
+- Assist the war effort by feeding this poisoned training data to web
+  crawlers.
+
+
+## 🔖 [F3: The Open-Source Data File Format for the Future](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
+
+Columnar storage formats are the foundation for modern data analytics
+systems. The proliferation of open- source file formats (i.e., Parquet,
+ORC) allows seamless data sharing across disparate platforms. However,
+these formats were created over a decade ago for hardware and workload
+environments that are much different from today. Although these formats
+have incorporated some updates to their specification to adapt to these
+changes, not all deployments support those modifications, and too often
+systems cannot overcome the formats’ deficiencies and limitations
+without a rewrite. In this paper, we present the F uture-proof F ile
+Format (F3) project. It is a next-generation open-source file format
+with interoperability, extensibility, and efficiency as its core design
+principles. F3 obviates the need to create a new format every time a
+shift occurs in data processing and computing by providing a data
+organization structure and a general-purpose API to allow developers to
+add new encoding schemes easily. Each self-describing F3 file includes
+both the data and meta-data, as well as WebAssembly (Wasm) binaries to
+decode the data. Embedding the decoders in each file requires minimal
+storage (kilobytes) and ensures compatibility on any platform in case
+native decoders are unavailable. To evaluate F3, we compared it against
+legacy and state-of-the-art open-source file formats. Our evaluations
+demonstrate the efficacy of F3’s storage layout and the benefits of
+Wasm-driven decoding.
+
+## 🔖 [FUNGI: Anarchist Designers](https://nieuweinstituut.nl/en/projects/fungi-anarchistische-ontwerpers)
+
+Tsing and Zhou instead prefer to describe FUNGI: Anarchist Designers as
+an exhibition of ‘anti-design’. In this show, fungi are not passive
+building materials, but rather anarchic co-designers – unconscious and
+uncontrollable – of a world that can only exist through alliances
+between humans and other living things. The exhibition reveals how fungi
+manifest themselves at different scales, from sick frogs and the
+dishwasher in your kitchen, to hospital beds, termite mounds, the human
+digestive system, coffee, banana and conifer plantations, and the
+jungle.
+
+## 🔖 [Beyond Vector Search: Why LLMs Need Episodic Memory](https://philippdubach.com/posts/beyond-vector-search-why-llms-need-episodic-memory/)
+
+Here’s what I keep coming back to: in any mature system, most of the
+graph will be memories of memories. You ask me my favorite restaurants,
+I think about it, answer, and now “that list I made” becomes its own
+retrievable thing. Next time someone asks about dinner plans, I don’t
+re-derive preferences from first principles. I remember what I concluded
+last time. Psychologists say this is how human recall actually works;
+you’re not accessing the original, you’re accessing the last retrieval.
+Gets a little distorted each time.
+
+## 🔖 [Digital Archiving for Just Transitions](https://taiwaninsight.org/2024/05/03/digital-archiving-for-just-transitions/)
+
+In 2023, I returned to Taiwan for further social science research
+focused on environmental activism in response to the pollution caused by
+Formosa Plastics, one of the biggest plastics companies in the world,
+headquartered in Taiwan. One thread of research upon my return extended
+an initiative that I’ve come to call “Archiving Formosa Plastics”,
+designed to study environmental justice and governance issues related to
+the company across diverse settings, supporting various research,
+advocacy, and teaching endeavours.
+
+The project started after getting to know an anti-Formosa activist in
+Texas named Diane Wilson. Since the Texas Formosa Plant started
+operations in the late 1980s, Wilson has collected many kinds of
+documents about the plant, eventually needing a large barn to store them
+all. I had many questions about these documents: When and how did these
+various documents gain and lose political value? Who would take care of
+and steward these documents into the future
+
+## 🔖 [blogcontact On standards divisions and collaboration (or: Why can’t the\ decentralized social web people just get along?)](https://dustycloud.org/blog/on-standards-divisions-collaboration/)
+
+A couple of days ago I wrote about ActivityPub becoming a W3C
+Recommendation. This was one output of the Social Working Group, and the
+blogpost was about my experiences, and most of my experiences were on my
+direct work on ActivityPub. But the Social Working Group did more than
+ActivityPub; it also on the same day published WebSub, a useful piece of
+technology in its own right which amongst other things also plays a
+significant historical role in what is even ActivityPub’s history (but
+is not used by ActivityPub itself), and it has also published several
+documents which are not compatible with ActivityPub at all, and appear
+to play the same role. This, to outsiders, may appear confusing, but
+there are reasons which I will go into in this post
+
+## 🔖 [Fedify](https://fedify.dev/)
+
+A TypeScript library for building federated server apps powered by
+ActivityPub and other standards, so-called fediverse What’s Fedify?
+
+## 🔖 [AI-centered conservation efforts can only be ethical if Indigenous\ people help lead them (commentary)](https://news.mongabay.com/2026/01/ai-centered-conservation-efforts-can-only-be-ethical-if-indigenous-people-help-lead-them-commentary/)
+
+We are part of a growing global effort to ensure innovative technologies
+serve Indigenous communities and their environmental priorities. As AI
+rapidly becomes even more ubiquitous, Western science should look to
+Indigenous experts to guide the development of ethical AI tools for
+conservation in ways that assert their own goals, priorities and
+cautions.
+
+Responsible AI that benefits Indigenous communities and conservation
+must implement Indigenous data sovereignty principles, and determine how
+and if Indigenous traditional ecological knowledge should be
+incorporated into these systems. AI that is co-designed with Indigenous
+partners, rather than for them, can make these technologies more
+accessible, culturally appropriate and aligned with community goals
+
+## 🔖 [\#DataBack Vol 2: Truth Before “Indigenous AI”](https://animikii.com/databack/understanding-and-resisting-generative-ai)
+
+A critical review of Generative AI for Indigenous-focused organizations,
+governments, and anyone who wants to better understand and protect their
+rights and privacy.
+
+## 🔖 [TRAMAS](https://tramas.digital/en/)
+
+Tramas is an action-oriented research project of the Decolonial Feminist
+Coalition for Digital and Environmental Justice. By examining case
+studies and testimonies of resistance across Latin America, we aim to
+show how the digital technology production chain has a wide range of
+socio-environmental impacts on communities and their territories.
+
+## 🔖 [The rise (and future fall) of Discord](https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/)
+
+All the “Discord-only” communities that currently exist will likely
+disappear, however. And unlike all the dead phpBB forums that nobody
+uses anymore but are still up for now, dead Discord communities will
+never appear on the Wayback Machine. A decade or more of the internet’s
+history gone. Sure, you can’t easily google search the Wayback Machine,
+but at least it still exists somewhere. Discords? Truly lost forever.
+Entire hobby communities that spent years of work discussing things,
+answering questions, a wealth of information… gone.
+
+## 🔖 [AI Skeptics Reading Group](https://buttondown.com/ai-skeptics-reading-group)
+
+A reading group for AI skeptics
+
+It’s exactly what it sounds like!
+
+## 🔖 [Don’t fall\ into the anti-AI hype](https://www.antirez.com/news/158)
+
+(I left a comment saying why I didn’t agree with the tone of this.)
+
+## 🔖 [Why spirituality is central to Indigenous mathematics](https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16188784)
+
+Indigenous math isn’t just about numbers and equations, it involves
+culture, spirituality and more. Math professor Edward Doolittle, a
+Mohawk from Six Nations in Ontario, sees math as something embedded in
+Creation itself. In his Hagey Lecture at the University of Waterloo, he
+describes Indigenous mathematics as being grounded in cognition,
+emotion, the physical world and community. Indigenizing math, Doolittle
+hopes, will make it more approachable and meaningful to Indigenous
+students — show them how entwined it is with everyday life and something
+much bigger than ourselves
+
+## 🔖 [The Man Who Knew Infinity](https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity)
+
+The Man Who Knew Infinity is a 2015 British biographical drama film
+about the Indian mathematician Srinivasa Ramanujan, based on the 1991
+book of the same name by Robert Kanigel.
+
+## 🔖 [\#unix\_surrealism irc.libera.chat](https://analognowhere.com/unix_surrealism/)
+
+This is not surrealism btw 2025-12-16
+
+## 🔖 [When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
+
+While AI is undeniably good at writing code, it remains poor at
+architecting maintainable, distributable, and scalable systems. This is
+where non-technical leaders who think they can fire their development
+teams are making a significant mistake. Until we see the arrival of an
+artificial intelligence that renders this entire discussion moot,
+believing that technical expertise can be replaced by a prompt is a
+strategic error. Building robust software still requires a human who
+understands the underlying principles of the craft.
+
+## 🔖 [Column Storage for the AI Era](https://sympathetic.ink/2025/12/11/Column-Storage-for-the-AI-era.html)
+
+Now we are faced with the conundrum of figuring out which ones will
+manage to reach broad adoption in the ecosystem. From where I’m standing
+it seems easier to contribute the missing bits to Parquet and build
+those systems on top. These formats prove that these techniques work. We
+can get much better performance by applying new approaches. As a
+community, we should take a hint and evolve what we have
+
+## 🔖 [whenwords: An Open Source Library Without Code](https://github.com/dbreunig/whenwords)
+
+But like said: the whenwords library contains no code. Instead,
+whenwords contains specs and tests, specifically:
+
+SPEC.md: A detailed description of how the library should behave and how
+it should be implemented. tests.yaml: A list of language-agnostic test
+cases, defined as input/output pairs, that any implementation must pass.
+INSTALL.md: Instructions for building whenwords, for you, the human.</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/01/18/bookmarks/</guid>
+    </item>    <item>
+      <title>A sunny day in the winter garden (photos)</title>
+      <link>https://tracydurnell.com/2026/01/17/sunny-day-winter-garden/</link>
+      <description>
+        <![CDATA[After posting a somewhat lackluster cellphone photo of my witch hazel yesterday, I felt I hadn&#8217;t done it justice and pulled out my trusty ancient dSLR to take some better photos. (Its focus is not super sharp, nor is the autofocus very good, but I find focusing with my glasses challenging through the viewfinder.) Then [&#8230;]]]>
+      </description>
+      <source:markdown>After posting a somewhat lackluster cellphone photo of my witch hazel yesterday, I felt I hadn’t done it justice and pulled out my trusty ancient dSLR to take some better photos. (Its focus is not super sharp, nor is the autofocus very good, but I find focusing with my glasses challenging through the viewfinder.) Then \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=33871</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/dave.linkblog.org</link>
+      <description>
+        <![CDATA[<p>My linkblog is an RSS feed, of course. But you can also subscribe to it on Bluesky.</p>]]>
+      </description>
+      <source:markdown>My linkblog is an RSS feed, of course. But you can also subscribe to it on Bluesky.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/17/2520/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Gargron/115912977448929626</link>
+      <description>
+        <![CDATA[<p>Eugen Rochko, the top guy on Mastodon, is turning off the bridge from his account to Bluesky.</p>]]>
+      </description>
+      <source:markdown>Eugen Rochko, the top guy on Mastodon, is turning off the bridge from his account to Bluesky.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/17/2518/</guid>
+    </item>    <item>
+      <link>https://www.cbsnews.com/minnesota/live-updates/minnesota-protests-ice-shooting-law-enforcement/</link>
+      <description>
+        <![CDATA[<p>Minnesota National Guard mobilized; protesters clash in downtown Minneapolis.</p>]]>
+      </description>
+      <source:markdown>Minnesota National Guard mobilized; protesters clash in downtown Minneapolis.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/17/2516/</guid>
+    </item>    <item>
+      <title>The Discourse is a Distributed Denial-of-Service Attack</title>
+      <link>https://www.joanwestenberg.com/the-discourse-is-a-distributed-denial-of-service-attack/</link>
+      <description>
+        <![CDATA[<p>In September 2016, the security journalist Brian Krebs had his website knocked offline by a botnet called Mirai. Hundreds of thousands of compromised devices, mostly cheap webcams and DVRs manufactured with default passwords that nobody ever changed, all simultaneously requesting his homepage. No single request was malicious. Each packet was</p>]]>
+      </description>
+      <source:markdown>In September 2016, the security journalist Brian Krebs had his website knocked offline by a botnet called Mirai. Hundreds of thousands of compromised devices, mostly cheap webcams and DVRs manufactured with default passwords that nobody ever changed, all simultaneously requesting his homepage. No single request was malicious. Each packet was</source:markdown>
+      <guid>cid://696c1a55141f770001461a9f</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mcnozex77k2r</link>
+      <description>
+        <![CDATA[Solvang could become the capital 😉
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Solvang could become the capital 😉
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mcnozex77k2r</guid>
+    </item>    <item>
+      <title>My first 20,000 curl commits</title>
+      <link>https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/</link>
+      <description>
+        <![CDATA[Some of you may of course think what, only 20,000 commits after almost thirty years in the project, what kind of slacker is that guy? But yes, today I merged my 20,000th commit into the curl repository &#8211; out of a total of 37,604 commits (53%). Not that anyone is counting. 20,000 &#8211; Today, January &#8230; <a href="https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/" class="more-link">Continue reading <span class="screen-reader-text">My first 20,000 curl commits</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Some of you may of course think what, only 20,000 commits after almost thirty years in the project, what kind of slacker is that guy? But yes, today I merged my 20,000th commit into the curl repository – out of a total of 37,604 commits (53%). Not that anyone is counting. 20,000 – Today, January … [Continue reading My first 20,000 curl commits→](https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/)</source:markdown>
+      <guid>cid://https://daniel.haxx.se/blog/?p=28546</guid>
+    </item>    <item>
+      <link>https://www.motortrend.com/features/top-10-greatest-american-cars-of-all-time?utm_source=facebook&#38;utm_medium=cpm&#38;utm_campaign=dda_fb_mt_d_i_C6561706256963&#38;utm_id=6846888744436&#38;utm_content=6846888744836&#38;utm_term=6846888744236&#38;fbclid=IwY2xjawPY6HtleHRuA2FlbQEwAGFkaWQAAAY6Knhk3HNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7ifJxiNaY49ZCzHDjR9etQ6fTvUjzKyHeld77V8KYn80U8sBigdsWlb0RPhw_aem_0YRgUJ1RifJjFUPqi8VgOQ</link>
+      <description>
+        <![CDATA[<p>Top 10 Greatest American Cars of All Time.</p>]]>
+      </description>
+      <source:markdown>Top 10 Greatest American Cars of All Time.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/17/2514/</guid>
+    </item>    <item>
+      <title>More HTTP/3 focus, one backend less</title>
+      <link>https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/</link>
+      <description>
+        <![CDATA[In the curl project we have a long tradition of offering multiple optional backends for specific protocols. In this spirit we have added experimental support for a number of different HTTP/3 + QUIC backends over time. A while ago we dropped one of those experiments, the msh3 backend. Today we cleanup even more and remove &#8230; <a href="https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/" class="more-link">Continue reading <span class="screen-reader-text">More HTTP/3 focus, one backend less</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>In the curl project we have a long tradition of offering multiple optional backends for specific protocols. In this spirit we have added experimental support for a number of different HTTP/3 + QUIC backends over time. A while ago we dropped one of those experiments, the msh3 backend. Today we cleanup even more and remove … [Continue reading More HTTP/3 focus, one backend less→](https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/)</source:markdown>
+      <guid>cid://https://daniel.haxx.se/blog/?p=28776</guid>
+    </item>    <item>
+      <title>★ Thoughts and Observations Regarding Apple Creator Studio</title>
+      <link>https://daringfireball.net/2026/01/thoughts_and_observations_regarding_apple_creator_studio</link>
+      <description>
+        <![CDATA[Starting with a few words on the new app icons.]]>
+      </description>
+      <source:markdown>Starting with a few words on the new app icons.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2026://1.42574</guid>
+    </item>    <item>
+      <link>https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/?fbclid=IwY2xjawPYuqlleHRuA2FlbQIxMABicmlkETFMVkFZMHA4bU0xNWdKekw2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHugFbBKjeeX_sHSbS5_l1qM9BnkGQfm0dDN6zcTNZm4ICfGw11X_7wctA9kU_aem_8uaQ_a0duDxiibgCnLUXwg</link>
+      <description>
+        <![CDATA[<p>Rackspace customers grapple with “devastating” email hosting price hike.</p>]]>
+      </description>
+      <source:markdown>Rackspace customers grapple with “devastating” email hosting price hike.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/17/2512/</guid>
+    </item>    <item>
+      <title>Saturday afternoon kitchen session</title>
+      <link>https://adactio.com/notes/22359</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22359/small.jpg" srcset="https://adactio.com/images/uploaded/22359/medium.jpg 1.5x, https://adactio.com/images/uploaded/22359/large.jpg 2.5x" alt="Saturday afternoon kitchen session" />
+        <p>Saturday afternoon kitchen session</p>]]>
+      </description>
+      <source:markdown>![Saturday afternoon kitchen session](https://adactio.com/images/uploaded/22359/small.jpg)
+
+Saturday afternoon kitchen session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22359</guid>
+    </item>    <item>
+      <link>https://ctmirror.org/2026/01/16/ice-opening-huge-lockup-50-miles-north-of-new-york-city/</link>
+      <description>
+        <![CDATA[<p>ICE opening huge lockup 50 miles north of New York City.</p>]]>
+      </description>
+      <source:markdown>ICE opening huge lockup 50 miles north of New York City.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/17/2510/</guid>
+    </item>    <item>
+      <link>https://www.wired.com/story/openai-testing-ads-us/?_sp=269db7fa-d5b5-4bcd-92dc-c932231b57d4.1768674592526</link>
+      <description>
+        <![CDATA[<p>Ads Are Coming to ChatGPT. Here’s How They’ll Work.</p>]]>
+      </description>
+      <source:markdown>Ads Are Coming to ChatGPT. Here’s How They’ll Work.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/01/17/2508/</guid>
+    </item>    <item>
+      <title>The Stupidest Trump Move So Far</title>
+      <link>https://paulkrugman.substack.com/p/the-stupidest-trump-move-so-far</link>
+      <description>
+        <![CDATA[Just kill me now. Or tariff me. Whatever.]]>
+      </description>
+      <source:markdown>Just kill me now. Or tariff me. Whatever.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!4MxA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fceb420a2-3bbf-497d-93a2-4bd998e655fc_1432x1007.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-stupidest-trump-move-so-far</guid>
+    </item>    <item>
+      <title>Quoting Jeremy Daer</title>
+      <link>https://simonwillison.net/2026/Jan/17/jeremy-daer/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://twitter.com/dhh/status/2012543705161326941"><p><em>[On agents using CLI tools in place of REST APIs]</em> To save on context window, yes, but moreso to improve accuracy and success rate when multiple tool calls are involved, particularly when calls must be correctly chained e.g. for pagination, rate-limit backoff, and recognizing authentication failures.</p>
+        <p>Other major factor: which models can wield the skill? Using the CLI lowers the bar so cheap, fast models (gpt-5-nano, haiku-4.5) can reliably succeed. Using the raw APl is something only the costly "strong" models (gpt-5.2, opus-4.5) can manage, and it squeezes a ton of thinking/reasoning out of them, which means multiple turns/iterations, which means accumulating a ton of context, which means burning loads of expensive tokens. For one-off API requests and ad hoc usage driven by a developer, this is reasonable and even helpful, but for an autonomous agent doing repetitive work, it's a disaster.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://twitter.com/dhh/status/2012543705161326941">Jeremy Daer</a>, 37signals</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/skills">skills</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/37-signals">37-signals</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
+      </description>
+      <source:markdown>&#62; _\[On agents using CLI tools in place of REST APIs\]_ To save on context window, yes, but moreso to improve accuracy and success rate when multiple tool calls are involved, particularly when calls must be correctly chained e.g. for pagination, rate-limit backoff, and recognizing authentication failures.
+&#62;
+&#62; Other major factor: which models can wield the skill? Using the CLI lowers the bar so cheap, fast models (gpt-5-nano, haiku-4.5) can reliably succeed. Using the raw APl is something only the costly &#34;strong&#34; models (gpt-5.2, opus-4.5) can manage, and it squeezes a ton of thinking/reasoning out of them, which means multiple turns/iterations, which means accumulating a ton of context, which means burning loads of expensive tokens. For one-off API requests and ad hoc usage driven by a developer, this is reasonable and even helpful, but for an autonomous agent doing repetitive work, it&#39;s a disaster.
+
+— [Jeremy Daer](https://twitter.com/dhh/status/2012543705161326941), 37signals
+
+Tags: [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [skills](https://simonwillison.net/tags/skills), [generative-ai](https://simonwillison.net/tags/generative-ai), [37-signals](https://simonwillison.net/tags/37-signals), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
+      <guid>cid://https://simonwillison.net/2026/Jan/17/jeremy-daer/#atom-everything</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/01/17.html#a162746</link>
+      <description>
+        <![CDATA[A brief <a href="https://shownotes.scripting.com/scripting/2026/01/17/howXmlrpcStartedUp.html">podcast</a> with the fascinating story of how XML-RPC came together in 1998.]]>
+      </description>
+      <source:markdown>A brief [podcast](https://shownotes.scripting.com/scripting/2026/01/17/howXmlrpcStartedUp.html) with the fascinating story of how XML-RPC came together in 1998.</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/17.html#a162746</guid>
     </item>    <item>
       <title>Pluralistic: The world needs an Ireland for disenshittification (17 Jan 2026)</title>
       <link>https://pluralistic.net/2026/01/17/erin-lets-go/</link>
@@ -120,9 +1430,9 @@ Standard</source:markdown>
       <title>Who New?</title>
       <link>https://doc.searls.com/2026/01/16/who-new-3/</link>
       <description>
-        <![CDATA[Air in LA Two pieces of interesting info from this clip on Reddit: 1) Don&#39;t have any plane, much less another gigantic A380, take off after another one like it. 2) LA Flights is an online YouTube channel doing live reporting of flights in and out of LAX. From bad to wurst Fortune: Americans making more [&#8230;]]]>
+        <![CDATA[Might be Winter Every day it snows a little here. Required reading. Seriously. Adrian Gropper: Taking Control of Your Healthcare is More Important Than Ever—Get help from a private AI that works for you &#8211; and only you. Announcing the North Atlantic Takeover Organization I avoid politics here, but it&#8217;s hard not to hear echoes [&#8230;]]]>
       </description>
-      <source:markdown>Air in LA Two pieces of interesting info from this clip on Reddit: 1) Don&#39;t have any plane, much less another gigantic A380, take off after another one like it. 2) LA Flights is an online YouTube channel doing live reporting of flights in and out of LAX. From bad to wurst Fortune: Americans making more \[…\]</source:markdown>
+      <source:markdown>Might be Winter Every day it snows a little here. Required reading. Seriously. Adrian Gropper: Taking Control of Your Healthcare is More Important Than Ever—Get help from a private AI that works for you – and only you. Announcing the North Atlantic Takeover Organization I avoid politics here, but it’s hard not to hear echoes \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2026/01/16/who-new-3/</guid>
     </item>    <item>
       <title>How to Be Old, Lesson 1</title>
@@ -175,6 +1485,13 @@ Standard</source:markdown>
 I like these words that capture complex feelings. When I was in high school, Wittgenstein made a lasting impression on my very naive mind. He argued that language can only picture facts about the world, and that ethics, aesthetics, and the mystical lie beyond what language can express. I think this is fascinatingly true. I’m convinced that a share of our daily sorrows come from our inability to put them in words. It reassures me when I stumble on a word that expresses a feeling I can’t explain.</source:markdown>
       <author>maxhalford25@gmail.com (Max Halford)</author>
       <guid>cid://https://maxhalford.github.io/blog/anemoia/</guid>
+    </item>    <item>
+      <title>Mastodon follower analytics</title>
+      <link>https://buttondown.com/blog/2026-01-17-mastodon-analytics</link>
+      <description>
+        <![CDATA[Track your Mastodon follower count over time]]>
+      </description>
+      <source:markdown>Track your Mastodon follower count over time</source:markdown>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115907429984561050</link>
       <description>
@@ -7568,7 +8885,13 @@ I responded: &#34;Or it&#39;s a test of it. The guy wasn&#39;t very well disguis
         <p>By October, Gemini had more than 650 million monthly users, up from 450 million in July.</p>
         </blockquote>
         <p>The LLM usage number I see cited most often is OpenAI's 800 million weekly active users for ChatGPT. That's from October 6th at OpenAI DevDay so it's comparable to these Gemini numbers, albeit not directly since it's weekly rather than monthly actives.</p>
-        <p>I'm also never sure what counts as a "Gemini user" - does interacting via Google Docs or Gmail count or do you need to be using a Gemini chat interface directly?
+        <p>I'm also never sure what counts as a "Gemini user" - does interacting via Google Docs or Gmail count or do you need to be using a Gemini chat interface directly?</p>
+        <p><strong>Update 17th January 2025</strong>: <a href="https://twitter.com/lunixa380/status/2012610344741412909">@LunixA380 pointed out</a> that this 650m user figure comes from the <a href="https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Third-Quarter-2025-Results-2025-mIRgD3AI4A/default.aspx">Alphabet 2025 Q3 earnings report</a> which says this (emphasis mine):</p>
+        <blockquote>
+        <p>"Alphabet had a terrific quarter, with double-digit growth across every major part of our business. We delivered our first-ever $100 billion quarter," said Sundar Pichai, CEO of Alphabet and Google.</p>
+        <p>"[...] In addition to topping leaderboards, our first party models, like Gemini, now process 7 billion tokens per minute, via direct API use by our customers. <strong>The Gemini App now has over 650 million monthly active users</strong>.</p>
+        </blockquote>
+        <p>Presumably the "Gemini App" encompasses the Android and iPhone apps as well as direct visits to <a href="https://gemini.google.com/">gemini.google.com</a> - that seems to be the indication from Google's <a href="https://blog.google/products-and-platforms/products/gemini/gemini-3/">November 18th blog post</a> that also mentioned the 650m number.
         
             <p><small></small>Via <a href="https://news.ycombinator.com/item?id=46528389">Hacker News</a></small></p>
         
@@ -7596,6 +8919,14 @@ And we get some rare concrete user numbers:
 The LLM usage number I see cited most often is OpenAI&#39;s 800 million weekly active users for ChatGPT. That&#39;s from October 6th at OpenAI DevDay so it&#39;s comparable to these Gemini numbers, albeit not directly since it&#39;s weekly rather than monthly actives.
 
 I&#39;m also never sure what counts as a &#34;Gemini user&#34; - does interacting via Google Docs or Gmail count or do you need to be using a Gemini chat interface directly?
+
+**Update 17th January 2025**: [@LunixA380 pointed out](https://twitter.com/lunixa380/status/2012610344741412909) that this 650m user figure comes from the [Alphabet 2025 Q3 earnings report](https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Third-Quarter-2025-Results-2025-mIRgD3AI4A/default.aspx) which says this (emphasis mine):
+
+&#62; &#34;Alphabet had a terrific quarter, with double-digit growth across every major part of our business. We delivered our first-ever $100 billion quarter,&#34; said Sundar Pichai, CEO of Alphabet and Google.
+&#62;
+&#62; &#34;\[...\] In addition to topping leaderboards, our first party models, like Gemini, now process 7 billion tokens per minute, via direct API use by our customers. **The Gemini App now has over 650 million monthly active users**.
+
+Presumably the &#34;Gemini App&#34; encompasses the Android and iPhone apps as well as direct visits to [gemini.google.com](https://gemini.google.com/) \- that seems to be the indication from Google&#39;s [November 18th blog post](https://blog.google/products-and-platforms/products/gemini/gemini-3/) that also mentioned the 650m number.
 
 
 
@@ -18048,849 +19379,6 @@ Tags: [sql-injection](https://simonwillison.net/tags/sql-injection), [security](
       </description>
       <source:markdown>I had ChatGPT put together a list of NBA feeds that don’t use paywalls. It’s been running a few days and the results are impressive. I’ll do a writeup of the list in next few days.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/12/27/2314/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115794192162272588</link>
-      <description>
-        <![CDATA[<p>I watched Slack’s Liquid Glass presentation and got excited about adopting the new tab navigation.  I wired up the search to the built-in command palette and it is quite nice.</p><p>Some polish is still necessary here and there.</p>]]>
-      </description>
-      <source:markdown>I watched Slack’s Liquid Glass presentation and got excited about adopting the new tab navigation. I wired up the search to the built-in command palette and it is quite nice.
-
-Some polish is still necessary here and there.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115794192162272588</guid>
-    </item>    <item>
-      <title>Stephen Miller’s new bullshit about immigrants</title>
-      <link>https://robertreich.substack.com/p/stephen-millers-latest-bigoted-bullshit</link>
-      <description>
-        <![CDATA[Miller and his boss are now targeting Minnesota&#8217;s Somali community]]>
-      </description>
-      <source:markdown>Miller and his boss are now targeting Minnesota’s Somali community</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!qSxx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c021ad5-e7ef-420e-8ac4-2a6faf4d858e_1456x1496.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/stephen-millers-latest-bigoted-bullshit</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/12/27.html#a205835</link>
-      <description>
-        <![CDATA[When you're buying a house, the most important thing to check is the roof. Get two inspections. Get three. A house with a good roof will keep you dry. A house with a shitty roof isn't really a house is it?]]>
-      </description>
-      <source:markdown>When you&#39;re buying a house, the most important thing to check is the roof. Get two inspections. Get three. A house with a good roof will keep you dry. A house with a shitty roof isn&#39;t really a house is it?</source:markdown>
-      <guid>cid://http://scripting.com/2025/12/27.html#a205835</guid>
-    </item>    <item>
-      <title>A Positive Sign for Flying in the Future...</title>
-      <link>https://fallows.substack.com/p/a-positive-sign-for-flying-in-the</link>
-      <description>
-        <![CDATA[... and a cautionary one about aviation right now.]]>
-      </description>
-      <source:markdown>... and a cautionary one about aviation right now.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Nfof!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07219a66-7135-421d-9c54-5b377efa6994_2291x1280.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://fallows.substack.com/p/a-positive-sign-for-flying-in-the</guid>
-    </item>    <item>
-      <title>2025-12-27 Fascination 2d6</title>
-      <link>https://alexschroeder.ch/view/2025-12-27-fascination-2d6</link>
-      <description>
-        <![CDATA[<h1 id="2025-12-27-fascination-2d6">2025-12-27 Fascination 2d6</h1>
-        
-        <p>Sometimes I wonder: Why am I so enamoured with 2d6 systems when most
-        of the games I run use AD&amp;D 1st edition, which I do not like at all?
-        I mean, I use AD&amp;D 1st edition because that&rsquo;s what the Wilde Gestade
-        multi-referee game in Greyhawk uses. And it&rsquo;s the system Arden Vul
-        uses. So this is why I use AD&amp;D 1st edition.</p>
-        
-        <p>But why do I want to run 2d6 systems? I don&rsquo;t mean any system that
-        uses 2d6, of course. I mean the peculiar, Traveller-like games I&rsquo;ve
-        been writing about: <a href="Halberts">Halberts</a> and <a href="Kinetic_Energy">Kinetic Energy</a>.
-        I wrote introductions to both games that highlight what I think is
-        important to me:</p>
-        
-        <ul>
-        <li><a href="A_short_introduction_to_Halberts">A short introduction to Halberts</a></li>
-        <li><a href="kinetic-energy-intro">A short introduction to Kinetic Energy</a></li>
-        </ul>
-        
-        <p>These games offer some benefits that every Traveller player
-        recognises.</p>
-        
-        <p>The games don’t have experience levels. The characters don’t grow in
-        power. The numbers don’t go up. This does away with the whole question
-        of incentives. Perhaps that also does away with the notion that the
-        thing is a game? There’s no pressure to kill monsters or to take their
-        stuff.</p>
-        
-        <p>Character creation involves rolling on tables that tell you something
-        about the character&rsquo;s history and skills. There&rsquo;s a risk associated
-        with rolling for more skills so &ldquo;gaining experience&rdquo; during character
-        creation can be a kind of bet. The people at the table are free to
-        self-impose a limit, however. Just limit characters to one term, two
-        terms, three terms. The benefit is that players quickly get a
-        character with a very rough history, possibly rivals or enemies,
-        allies, friends, memberships without having to effectively choose
-        much.</p>
-        
-        <p>The skills provided during character creation are also determined
-        randomly. Thus, during character creation, players can influence where
-        their characters are going by choosing appropriate careers and
-        specialisations. The skills gained might not be the skills the players
-        wanted to get for their character, however. This again messes with our
-        ability to optimise a character and frees players from having to
-        optimise their character &ldquo;build&rdquo;.</p>
-        
-        <p>Combat is usually short because the physical attributes are used as
-        hit-points. Each has a value of 2d6. All weapons do at least 2d6
-        points of damage. On the first round, the damage is dealt to a random
-        physical attribute. On subsequent rounds, damage dies can be
-        distributed by the player of the targetted character. When one
-        attribute falls to zero, the character faints. When two attributes
-        fall to zero, the character might very likely die.</p>
-        
-        <p>For my own games, there&rsquo;s an additional idea I picked up from Burning
-        Wheel and Powered by the Apocalypse games. These games don’t have
-        money. There is no pouring over equipment lists, trying to optimise
-        this or that. The whole mini-game of &ldquo;shopping&rdquo; falls away. Of course
-        there are still things of value, including weapons or spaceships, but
-        these cannot be bought at character creation and they can&rsquo;t be traded
-        fairly. There might be barter but from a referee perspective, there is
-        only a gift-economy: get a thing in recognition of services rendered.</p>
-        
-        <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%232d6">#2d6</a></p>]]>
-      </description>
-      <source:markdown># 2025-12-27 Fascination 2d6
-
-Sometimes I wonder: Why am I so enamoured with 2d6 systems when most
-of the games I run use AD&#38;D 1st edition, which I do not like at all?
-I mean, I use AD&#38;D 1st edition because that’s what the Wilde Gestade
-multi-referee game in Greyhawk uses. And it’s the system Arden Vul
-uses. So this is why I use AD&#38;D 1st edition.
-
-But why do I want to run 2d6 systems? I don’t mean any system that
-uses 2d6, of course. I mean the peculiar, Traveller-like games I’ve
-been writing about: [Halberts](Halberts) and [Kinetic Energy](Kinetic_Energy).
-I wrote introductions to both games that highlight what I think is
-important to me:
-
-- [A short introduction to Halberts](A_short_introduction_to_Halberts)
-- [A short introduction to Kinetic Energy](kinetic-energy-intro)
-
-These games offer some benefits that every Traveller player
-recognises.
-
-The games don’t have experience levels. The characters don’t grow in
-power. The numbers don’t go up. This does away with the whole question
-of incentives. Perhaps that also does away with the notion that the
-thing is a game? There’s no pressure to kill monsters or to take their
-stuff.
-
-Character creation involves rolling on tables that tell you something
-about the character’s history and skills. There’s a risk associated
-with rolling for more skills so “gaining experience” during character
-creation can be a kind of bet. The people at the table are free to
-self-impose a limit, however. Just limit characters to one term, two
-terms, three terms. The benefit is that players quickly get a
-character with a very rough history, possibly rivals or enemies,
-allies, friends, memberships without having to effectively choose
-much.
-
-The skills provided during character creation are also determined
-randomly. Thus, during character creation, players can influence where
-their characters are going by choosing appropriate careers and
-specialisations. The skills gained might not be the skills the players
-wanted to get for their character, however. This again messes with our
-ability to optimise a character and frees players from having to
-optimise their character “build”.
-
-Combat is usually short because the physical attributes are used as
-hit-points. Each has a value of 2d6. All weapons do at least 2d6
-points of damage. On the first round, the damage is dealt to a random
-physical attribute. On subsequent rounds, damage dies can be
-distributed by the player of the targetted character. When one
-attribute falls to zero, the character faints. When two attributes
-fall to zero, the character might very likely die.
-
-For my own games, there’s an additional idea I picked up from Burning
-Wheel and Powered by the Apocalypse games. These games don’t have
-money. There is no pouring over equipment lists, trying to optimise
-this or that. The whole mini-game of “shopping” falls away. Of course
-there are still things of value, including weapons or spaceships, but
-these cannot be bought at character creation and they can’t be traded
-fairly. There might be barter but from a referee perspective, there is
-only a gift-economy: get a thing in recognition of services rendered.
-
-[#RPG](/search/?q=%23RPG) [#2d6](/search/?q=%232d6)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2025-12-27-fascination-2d6</guid>
-    </item>    <item>
-      <link>https://x.com/RepAOC/status/2001038754920677423?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2001038754920677423%7Ctwgr%5Eb5c1f05ac45221ac51da147dc973681ccecc4e43%7Ctwcon%5Es1_&#38;ref_url=https%3A%2F%2Fwww.webull.com%2Fnews%2F14040896704496640</link>
-      <description>
-        <![CDATA[<p>AOC: Trump ran on a promise that ICE would go after the “worst" criminals. But the real crime is in oligarchs taking $170b from your healthcare and food assistance to form a secret police force.</p>]]>
-      </description>
-      <source:markdown>AOC: Trump ran on a promise that ICE would go after the “worst&#34; criminals. But the real crime is in oligarchs taking $170b from your healthcare and food assistance to form a secret police force.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/27/2312/</guid>
-    </item>    <item>
-      <title>Discoveries</title>
-      <link>https://doc.searls.com/2025/12/27/discoveries/</link>
-      <description>
-        <![CDATA[Overheard &#34;This TV isn&#39;t just HD. It&#39;s ADHD.&#34; &#34;What does the AD stand for?&#34; &#34;Advanced Digital, I think.&#34; How about Water Stain? I still hate Liquid Glass. As a design language it mumbles. I&#39;m especially turned off by semi-transparent type that makes stuff such as the time on my phone semi-readable. Let&#39;s give it a better [&#8230;]]]>
-      </description>
-      <source:markdown>Overheard &#34;This TV isn&#39;t just HD. It&#39;s ADHD.&#34; &#34;What does the AD stand for?&#34; &#34;Advanced Digital, I think.&#34; How about Water Stain? I still hate Liquid Glass. As a design language it mumbles. I&#39;m especially turned off by semi-transparent type that makes stuff such as the time on my phone semi-readable. Let&#39;s give it a better \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2025/12/27/discoveries/</guid>
-    </item>    <item>
-      <title>Books I read in 2025</title>
-      <link>https://adactio.com/journal/22322</link>
-      <description>
-        <![CDATA[<p><a href="https://adactio.com/notes/reading/2025">I read 28 books in 2025</a>. Looking back over that list, there are a few recurring themes…</p>
-        
-        <p>I read less of the Greek mythology retellings than <a href="https://adactio.com/journal/tags/books,2024">last year</a> but I seem to have developed a taste for medieval stories like <a href="https://uk.bookshop.org/a/980/9781529157864"><cite>Matrix</cite></a>, <a href="https://uk.bookshop.org/a/980/9781529329810"><cite>Nobber</cite></a>, and <a href="https://uk.bookshop.org/a/980/9781529091168"><cite>Haven</cite></a>.</p>
-        
-        <p>I finally got &#8216;round to reading some classics of post-apocalypse fiction like <a href="https://uk.bookshop.org/a/980/9781857988215"><cite>Earth Abides</cite></a> and <a href="https://uk.bookshop.org/a/980/9781399607735"><cite>I Am Legend</cite></a>.</p>
-        
-        <p>I read lots of short story collections: <a href="https://uk.bookshop.org/a/980/9781529012590"><cite>Salt Slow</cite></a>, <a href="https://uk.bookshop.org/a/980/9781583226988"><cite>Bloodchild And Other Stories</cite></a>, <a href="https://uk.bookshop.org/a/980/9780099588115"><cite>The Bloody Chamber And Other Stories</cite></a>, <a href="https://uk.bookshop.org/a/980/9781408884317"><cite>Folk</cite></a>, and <a href="https://uk.bookshop.org/a/980/9781526623317"><cite>The End of the World is a Cul de Sac</cite></a>. There&#8217;s quite a dollop of horror in some of those.</p>
-        
-        <p>I&#8217;m clearly hankering for the homeland because I read a lot of books set in Ireland: <a href="https://uk.bookshop.org/a/980/9780571396665"><cite>The Country Girls</cite></a>, <a href="https://uk.bookshop.org/a/980/9781529091168"><cite>Haven</cite></a>, <a href="https://uk.bookshop.org/a/980/9780861545896"><cite>Prophet Song</cite></a>, <a href="https://uk.bookshop.org/a/980/9781526623317"><cite>The End of the World is a Cul de Sac</cite></a>, and <a href="https://uk.bookshop.org/a/980/9781529329810"><cite>Nobber</cite></a>.</p>
-        
-        <p>And there&#8217;s the usual smattering of sci-fi from the likes of Nnedi Okorafor, Adrian Tchaikovsky, Arkady Martine, Becky Chambers, and Emily St. John Mandel.</p>
-        
-        <p>Here&#8217;s what I thought of these 28 books, <a href="https://adactio.com/journal/22317">without any star ratings</a>…</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781857988215">Earth Abides</a></cite> by George R. Stewart</h3>
-        
-        <p>I started this one in 2024 and finished it in the first few weeks of 2025. It&#8217;s a classic piece of post-apocalypse fiction from 1949. It&#8217;s vivid and rich in detail, but there are some odd ideas that flirt with eugenics. There&#8217;s a really strange passage where the narrator skirts around describing the skin colour of his new-found love interest. I get the feeling that this was very transgressive at the time, but it&#8217;s just a bit weird now.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9780356516110">The Last Song Of Penelope</a></cite> by Claire North</h3>
-        
-        <p>The final book in Claire North&#8217;s Songs Of Penelope trilogy is the one that intersects the most with The Odyssey. There&#8217;s a looming sense of impending tragedy because of that; we&#8217;ve spent the last two books getting to know the handmaids of Ithica and now here comes Odysseus to fuck things up. I enjoyed the whole trilogy immensely.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529377200">Short Stories In Irish</a></cite> by Olly Richards</h3>
-        
-        <p>This is a great way to get used to reading in Irish. The stories start very simple and get slightly more complex as throughout the book. None of the stories are going to win any prizes for storytelling, but that&#8217;s not the point. If you&#8217;re learning Irish, I think this book is a great tool to augment your lessons.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529083514">Sea Of Tranquility</a></cite> by Emily St. John Mandel</h3>
-        
-        <p>Nothing will ever top the brilliance of Station Eleven but I still enjoyed this time-travel tale set in the interconnected Emily St. John Mandel cinematic universe.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781805302117">The Heart In Winter</a></cite> by Kevin Barry</h3>
-        
-        <p>A very Irish western. The language is never dull and the characters are almost mythological in personality. </p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529157864">Matrix</a></cite> by Lauren Groff</h3>
-        
-        <p>One woman&#8217;s life in a medieval convent. What&#8217;s really engrossing is not just the changes to the protaganist over her lifetime but the changes she makes to the community.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781472292209">Hera</a></cite> by Jennifer Saint</h3>
-        
-        <p>I didn&#8217;t enjoy this quite as much as Jennifer Saint&#8217;s previous books. Maybe that&#8217;s because this is set almost entirely in the milieu of gods rather than mortals.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781250236210">A Psalm For The Wild-Built</a></cite> by Becky Chambers</h3>
-        
-        <p>A short book about a tea-making monk meeting a long-lost robot and going on a road trip together. It&#8217;s all quite lovely.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781583226988">Bloodchild And Other Stories</a></cite> by Octavia Butler</h3>
-        
-        <p>A superb collection of short stories. Bloodchild itself is a classic, but every one of the stories in this collection is top notch. Some genuinely shudder-inducing moments.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529012590">Salt Slow</a></cite> by Julia Armfield</h3>
-        
-        <p>Staying with short story collections, this one is all killer, no filler. Julia Armfield knows how to grab you with a perfect opening line. Any one of these stories could be the basis for a whole novel. Or a David Cronenberg film.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9780241995679">The Voyage Home</a></cite> by Pat Barker</h3>
-        
-        <p>The third book in Pat Barker&#8217;s retelling of the aftermath of the Trojan war is just as gritty as the first two, but this one has more overt supernatural elements. A grimly satisfying conclusion.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781408884317">Folk</a></cite> by Zoe Gilbert</h3>
-        
-        <p>A collection of loosely-connected short stories dripping with English supernatural folk horror. The world-building is impressive and the cumulative effect really gets under your skin.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781399622950">Death of the Author</a></cite> by Nnedi Okorafor</h3>
-        
-        <p>The description of the Nigerian diaspora in America is the strongest part of this book. But I found it hard to get very involved with the main character&#8217;s narrative.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781800241565">Bear Head</a></cite> by Adrian Tchaikovsky</h3>
-        
-        <p>The sequel to <cite>Dogs Of War</cite> and just as good. On the one hand, it&#8217;s a rip-roaring action story. On the other hand, it&#8217;s a genuinely thought-provoking examination of free will.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781911479185">A History Of Ireland in 100 Words</a></cite> by Sharon Arbuthnot, Máire Ní Mhaonaigh, and Gregory Toner</h3>
-        
-        <p>Every attendee at Oideas Gael in Glencolmcille received a free copy of this book. I kept it on the coffee table and dipped into it every now and then over the course of the year. There are plenty of fascinating tidbits in here about old Irish.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529091168">Haven</a></cite> by Emma Donoghue</h3>
-        
-        <p>Medieval monks travel to the most inhospitable rock off the coast of Kerry and start building the beehive huts you can still see on Skellig Michael today. Strong on atmosphere but quite light on plot.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9780008313401">Doggerland</a></cite> by Ben Smith</h3>
-        
-        <p>Fairly dripping with damp atmosphere, this book has three characters off the coast of a  near-future Britain. The world-building is vivid and bleak. Like <cite>The Sunken Land Begins to Rise Again</cite> by M. John Harrison, it&#8217;s got a brexity vibe to the climate crisis.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781035901456">Bee Speaker</a></cite> by Adrian Tchaikovsky</h3>
-        
-        <p>I found this third book in the <cite>Dogs Of War</cite> series to be pretty disappointing. Plenty of action, but not much in the way of subtext this time.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9780008532819">Yellowface</a></cite> by Rebecca F Kuang</h3>
-        
-        <p>Surprisingly schlocky. Kind of good fun for a while but it overstays its welcome.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529329810">Nobber</a></cite> by Oisín Fagan</h3>
-        
-        <p>Gory goings-on in a medieval village in county Meath. For once, this is a medieval tale set in harsh sunlight rather than mist-covered moors. By the end, it&#8217;s almost Tarantino-like in its body count.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529922936">Orbital</a></cite> by Samantha Harvey</h3>
-        
-        <p>A fairly light book where nothing much happens, but that nothing much is happening on the International Space Station. I liked the way it managed to balance the mundane details of day-to-day life with the utterly mind-blowing perspective of being in low Earth orbit. <a href="https://adactio.com/journal/22157">Pairs nicely with side two of <cite>Hounds Of Love</cite></a>.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781526623317">The End of the World is a Cul de Sac</a></cite> by Louise Kennedy</h3>
-        
-        <p>Louise Kennedy is rightly getting a lot of praise for her novel <cite>Trespasses</cite>, but her first book of short stories is equally impressive. Every one feels rooted in reality and the writing is never less than brilliant.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781250236234">A Prayer for the Crown-Shy</a></cite> by Becky Chambers</h3>
-        
-        <p>The second short book in the <cite>Monk and Robot</cite> solarpunk series. It&#8217;s all quite cozy and pleasant.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781529017250">Our Wives Under The Sea</a></cite> by Julia Armfield</h3>
-        
-        <p>I said that each short story in Julia Armfield&#8217;s <cite>Salt Slow</cite> could be a full-length novel, but reading her full-length novel I thought it would&#8217;ve been better as a short story. It&#8217;s strong on atmosphere, but it&#8217;s dragged out for too long.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781399607735">I Am Legend</a></cite> by Richard Matheson</h3>
-        
-        <p>Another classic of post-apocalyptic fiction that looks for a scientific basis for vampirism. It&#8217;s a grim story that Richard Matheson tells in his typically excellent style.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9780571396665">The Country Girls</a></cite> by Edna O’Brien</h3>
-        
-        <p>Reading this book today it&#8217;s hard to understand how it caused such a stir when it was first published. But leaving that aside, it&#8217;s a superb piece of writing where every character feels real and whole.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9780099588115">The Bloody Chamber And Other Stories</a></cite> by Angela Carter</h3>
-        
-        <p>If I&#8217;m going to read classic short horror stories, then I&#8217;ve got to read this. Twisted fairy tales told in florid gothic style.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9781035065653">Rose/House</a></cite> by Arkady Martine</h3>
-        
-        <p>An entertaining novella that&#8217;s a whodunnit in a haunted house, except the haunting is by an Artificial Intelligence. The setting feels like a character, and I don&#8217;t just mean the house—this near-future New Mexico is tactile and real.</p>
-        
-        <h3><cite><a href="https://uk.bookshop.org/a/980/9780861545896">Prophet Song</a></cite> by Paul Lynch</h3>
-        
-        <p>I haven&#8217;t finished this just yet, but I think I can confidentally pass judgement. And my judgement is: wow! Just an astonishing piece of work. An incredible depiction of life under an increasing totalitarian regime. The fact that it&#8217;s set in Ireland makes it feel even more urgent. George Orwell meets Roddy Doyle. And the centre of it all is a central character who could step right off the page.</p>
-        
-        <p>There you have it. A year of books. I didn&#8217;t make a concious decision to avoid non-fiction, but perhaps in 2026 I should redress the imbalance.</p>
-        
-        <p>If I had to pick a favourite novel from the year, it would probably be <a href="https://uk.bookshop.org/a/980/9780861545896"><cite>Prophet Song</cite></a>. But that might just be the recency bias speaking.</p>
-        
-        <p>If you&#8217;re looking for some excellent short stories, I highly recommend <a href="https://uk.bookshop.org/a/980/9781529012590"><cite>Salt Slow</cite></a> and <a href="https://uk.bookshop.org/a/980/9781526623317"><cite>The End of the World is a Cul de Sac</cite></a>.</p>
-        
-        <p>About half of the 28 books I read this year came from the local library. What an incredible place! I aim to continue making full use of it in 2026. You should do the same.</p>]]>
-      </description>
-      <source:markdown>[I read 28 books in 2025](https://adactio.com/notes/reading/2025). Looking back over that list, there are a few recurring themes…
-
-I read less of the Greek mythology retellings than [last year](https://adactio.com/journal/tags/books,2024) but I seem to have developed a taste for medieval stories like [Matrix](https://uk.bookshop.org/a/980/9781529157864), [Nobber](https://uk.bookshop.org/a/980/9781529329810), and [Haven](https://uk.bookshop.org/a/980/9781529091168).
-
-I finally got ‘round to reading some classics of post-apocalypse fiction like [Earth Abides](https://uk.bookshop.org/a/980/9781857988215) and [I Am Legend](https://uk.bookshop.org/a/980/9781399607735).
-
-I read lots of short story collections: [Salt Slow](https://uk.bookshop.org/a/980/9781529012590), [Bloodchild And Other Stories](https://uk.bookshop.org/a/980/9781583226988), [The Bloody Chamber And Other Stories](https://uk.bookshop.org/a/980/9780099588115), [Folk](https://uk.bookshop.org/a/980/9781408884317), and [The End of the World is a Cul de Sac](https://uk.bookshop.org/a/980/9781526623317). There’s quite a dollop of horror in some of those.
-
-I’m clearly hankering for the homeland because I read a lot of books set in Ireland: [The Country Girls](https://uk.bookshop.org/a/980/9780571396665), [Haven](https://uk.bookshop.org/a/980/9781529091168), [Prophet Song](https://uk.bookshop.org/a/980/9780861545896), [The End of the World is a Cul de Sac](https://uk.bookshop.org/a/980/9781526623317), and [Nobber](https://uk.bookshop.org/a/980/9781529329810).
-
-And there’s the usual smattering of sci-fi from the likes of Nnedi Okorafor, Adrian Tchaikovsky, Arkady Martine, Becky Chambers, and Emily St. John Mandel.
-
-Here’s what I thought of these 28 books, [without any star ratings](https://adactio.com/journal/22317)…
-
-### [Earth Abides](https://uk.bookshop.org/a/980/9781857988215) by George R. Stewart
-
-I started this one in 2024 and finished it in the first few weeks of 2025. It’s a classic piece of post-apocalypse fiction from 1949. It’s vivid and rich in detail, but there are some odd ideas that flirt with eugenics. There’s a really strange passage where the narrator skirts around describing the skin colour of his new-found love interest. I get the feeling that this was very transgressive at the time, but it’s just a bit weird now.
-
-### [The Last Song Of Penelope](https://uk.bookshop.org/a/980/9780356516110) by Claire North
-
-The final book in Claire North’s Songs Of Penelope trilogy is the one that intersects the most with The Odyssey. There’s a looming sense of impending tragedy because of that; we’ve spent the last two books getting to know the handmaids of Ithica and now here comes Odysseus to fuck things up. I enjoyed the whole trilogy immensely.
-
-### [Short Stories In Irish](https://uk.bookshop.org/a/980/9781529377200) by Olly Richards
-
-This is a great way to get used to reading in Irish. The stories start very simple and get slightly more complex as throughout the book. None of the stories are going to win any prizes for storytelling, but that’s not the point. If you’re learning Irish, I think this book is a great tool to augment your lessons.
-
-### [Sea Of Tranquility](https://uk.bookshop.org/a/980/9781529083514) by Emily St. John Mandel
-
-Nothing will ever top the brilliance of Station Eleven but I still enjoyed this time-travel tale set in the interconnected Emily St. John Mandel cinematic universe.
-
-### [The Heart In Winter](https://uk.bookshop.org/a/980/9781805302117) by Kevin Barry
-
-A very Irish western. The language is never dull and the characters are almost mythological in personality.
-
-### [Matrix](https://uk.bookshop.org/a/980/9781529157864) by Lauren Groff
-
-One woman’s life in a medieval convent. What’s really engrossing is not just the changes to the protaganist over her lifetime but the changes she makes to the community.
-
-### [Hera](https://uk.bookshop.org/a/980/9781472292209) by Jennifer Saint
-
-I didn’t enjoy this quite as much as Jennifer Saint’s previous books. Maybe that’s because this is set almost entirely in the milieu of gods rather than mortals.
-
-### [A Psalm For The Wild-Built](https://uk.bookshop.org/a/980/9781250236210) by Becky Chambers
-
-A short book about a tea-making monk meeting a long-lost robot and going on a road trip together. It’s all quite lovely.
-
-### [Bloodchild And Other Stories](https://uk.bookshop.org/a/980/9781583226988) by Octavia Butler
-
-A superb collection of short stories. Bloodchild itself is a classic, but every one of the stories in this collection is top notch. Some genuinely shudder-inducing moments.
-
-### [Salt Slow](https://uk.bookshop.org/a/980/9781529012590) by Julia Armfield
-
-Staying with short story collections, this one is all killer, no filler. Julia Armfield knows how to grab you with a perfect opening line. Any one of these stories could be the basis for a whole novel. Or a David Cronenberg film.
-
-### [The Voyage Home](https://uk.bookshop.org/a/980/9780241995679) by Pat Barker
-
-The third book in Pat Barker’s retelling of the aftermath of the Trojan war is just as gritty as the first two, but this one has more overt supernatural elements. A grimly satisfying conclusion.
-
-### [Folk](https://uk.bookshop.org/a/980/9781408884317) by Zoe Gilbert
-
-A collection of loosely-connected short stories dripping with English supernatural folk horror. The world-building is impressive and the cumulative effect really gets under your skin.
-
-### [Death of the Author](https://uk.bookshop.org/a/980/9781399622950) by Nnedi Okorafor
-
-The description of the Nigerian diaspora in America is the strongest part of this book. But I found it hard to get very involved with the main character’s narrative.
-
-### [Bear Head](https://uk.bookshop.org/a/980/9781800241565) by Adrian Tchaikovsky
-
-The sequel to Dogs Of War and just as good. On the one hand, it’s a rip-roaring action story. On the other hand, it’s a genuinely thought-provoking examination of free will.
-
-### [A History Of Ireland in 100 Words](https://uk.bookshop.org/a/980/9781911479185) by Sharon Arbuthnot, Máire Ní Mhaonaigh, and Gregory Toner
-
-Every attendee at Oideas Gael in Glencolmcille received a free copy of this book. I kept it on the coffee table and dipped into it every now and then over the course of the year. There are plenty of fascinating tidbits in here about old Irish.
-
-### [Haven](https://uk.bookshop.org/a/980/9781529091168) by Emma Donoghue
-
-Medieval monks travel to the most inhospitable rock off the coast of Kerry and start building the beehive huts you can still see on Skellig Michael today. Strong on atmosphere but quite light on plot.
-
-### [Doggerland](https://uk.bookshop.org/a/980/9780008313401) by Ben Smith
-
-Fairly dripping with damp atmosphere, this book has three characters off the coast of a near-future Britain. The world-building is vivid and bleak. Like The Sunken Land Begins to Rise Again by M. John Harrison, it’s got a brexity vibe to the climate crisis.
-
-### [Bee Speaker](https://uk.bookshop.org/a/980/9781035901456) by Adrian Tchaikovsky
-
-I found this third book in the Dogs Of War series to be pretty disappointing. Plenty of action, but not much in the way of subtext this time.
-
-### [Yellowface](https://uk.bookshop.org/a/980/9780008532819) by Rebecca F Kuang
-
-Surprisingly schlocky. Kind of good fun for a while but it overstays its welcome.
-
-### [Nobber](https://uk.bookshop.org/a/980/9781529329810) by Oisín Fagan
-
-Gory goings-on in a medieval village in county Meath. For once, this is a medieval tale set in harsh sunlight rather than mist-covered moors. By the end, it’s almost Tarantino-like in its body count.
-
-### [Orbital](https://uk.bookshop.org/a/980/9781529922936) by Samantha Harvey
-
-A fairly light book where nothing much happens, but that nothing much is happening on the International Space Station. I liked the way it managed to balance the mundane details of day-to-day life with the utterly mind-blowing perspective of being in low Earth orbit. [Pairs nicely with side two of Hounds Of Love](https://adactio.com/journal/22157).
-
-### [The End of the World is a Cul de Sac](https://uk.bookshop.org/a/980/9781526623317) by Louise Kennedy
-
-Louise Kennedy is rightly getting a lot of praise for her novel Trespasses, but her first book of short stories is equally impressive. Every one feels rooted in reality and the writing is never less than brilliant.
-
-### [A Prayer for the Crown-Shy](https://uk.bookshop.org/a/980/9781250236234) by Becky Chambers
-
-The second short book in the Monk and Robot solarpunk series. It’s all quite cozy and pleasant.
-
-### [Our Wives Under The Sea](https://uk.bookshop.org/a/980/9781529017250) by Julia Armfield
-
-I said that each short story in Julia Armfield’s Salt Slow could be a full-length novel, but reading her full-length novel I thought it would’ve been better as a short story. It’s strong on atmosphere, but it’s dragged out for too long.
-
-### [I Am Legend](https://uk.bookshop.org/a/980/9781399607735) by Richard Matheson
-
-Another classic of post-apocalyptic fiction that looks for a scientific basis for vampirism. It’s a grim story that Richard Matheson tells in his typically excellent style.
-
-### [The Country Girls](https://uk.bookshop.org/a/980/9780571396665) by Edna O’Brien
-
-Reading this book today it’s hard to understand how it caused such a stir when it was first published. But leaving that aside, it’s a superb piece of writing where every character feels real and whole.
-
-### [The Bloody Chamber And Other Stories](https://uk.bookshop.org/a/980/9780099588115) by Angela Carter
-
-If I’m going to read classic short horror stories, then I’ve got to read this. Twisted fairy tales told in florid gothic style.
-
-### [Rose/House](https://uk.bookshop.org/a/980/9781035065653) by Arkady Martine
-
-An entertaining novella that’s a whodunnit in a haunted house, except the haunting is by an Artificial Intelligence. The setting feels like a character, and I don’t just mean the house—this near-future New Mexico is tactile and real.
-
-### [Prophet Song](https://uk.bookshop.org/a/980/9780861545896) by Paul Lynch
-
-I haven’t finished this just yet, but I think I can confidentally pass judgement. And my judgement is: wow! Just an astonishing piece of work. An incredible depiction of life under an increasing totalitarian regime. The fact that it’s set in Ireland makes it feel even more urgent. George Orwell meets Roddy Doyle. And the centre of it all is a central character who could step right off the page.
-
-There you have it. A year of books. I didn’t make a concious decision to avoid non-fiction, but perhaps in 2026 I should redress the imbalance.
-
-If I had to pick a favourite novel from the year, it would probably be [Prophet Song](https://uk.bookshop.org/a/980/9780861545896). But that might just be the recency bias speaking.
-
-If you’re looking for some excellent short stories, I highly recommend [Salt Slow](https://uk.bookshop.org/a/980/9781529012590) and [The End of the World is a Cul de Sac](https://uk.bookshop.org/a/980/9781526623317).
-
-About half of the 28 books I read this year came from the local library. What an incredible place! I aim to continue making full use of it in 2026. You should do the same.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22322</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/12/27/145814.html</link>
-      <description>
-        <![CDATA[I'm going to try commenting on other old school blogs more here on my blog. Want to see if we can reboot the original sphere as a way of priming the new one.]]>
-      </description>
-      <source:markdown>I&#39;m going to try commenting on other old school blogs more here on my blog. Want to see if we can reboot the original sphere as a way of priming the new one.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/27/2310/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115792337027014791</link>
-      <description>
-        <![CDATA[<p>Huevos a la mexicana</p>]]>
-      </description>
-      <source:markdown>Huevos a la mexicana</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115792337027014791</guid>
-    </item>    <item>
-      <title>Pluribus training data</title>
-      <link>https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything</link>
-      <description>
-        <![CDATA[<p>In advocating for LLMs as useful and important technology despite how they're trained I'm beginning to feel a little bit like John Cena in <a href="https://m.imdb.com/title/tt22202452/">Pluribus</a>.</p>
-        <details style="margin-bottom: 1em"><summary>Pluribus spoiler (episode 6)</summary>
-        
-        <blockquote>Given our druthers, would we choose to consume HDP? No. Throughout history, most cultures, though not all, have taken a dim view of anthropophagy. Honestly, we're not that keen on it ourselves. But we're left with little choice.</blockquore>
-        
-        </details>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/tv">tv</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
-      </description>
-      <source:markdown>In advocating for LLMs as useful and important technology despite how they&#39;re trained I&#39;m beginning to feel a little bit like John Cena in [Pluribus](https://m.imdb.com/title/tt22202452/).
-
-Pluribus spoiler (episode 6)
-
-&#62; Given our druthers, would we choose to consume HDP? No. Throughout history, most cultures, though not all, have taken a dim view of anthropophagy. Honestly, we&#39;re not that keen on it ourselves. But we&#39;re left with little choice.
-
-Tags: [ai-ethics](https://simonwillison.net/tags/ai-ethics), [generative-ai](https://simonwillison.net/tags/generative-ai), [tv](https://simonwillison.net/tags/tv), [training-data](https://simonwillison.net/tags/training-data), [ai](https://simonwillison.net/tags/ai), [llms](https://simonwillison.net/tags/llms)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything</guid>
-    </item>    <item>
-      <title>Stop Calculating and Do What&#39;s Right</title>
-      <link>https://www.notesfromthecircus.com/p/stop-calculating-and-do-whats-right</link>
-      <description>
-        <![CDATA[History's moral dimensions, Trump's abandonment of democratic alliances, and the fight ahead]]>
-      </description>
-      <source:markdown>History&#39;s moral dimensions, Trump&#39;s abandonment of democratic alliances, and the fight ahead</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/182672038/b5b48797221bde8b80efb6e66f6ab9d4.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.notesfromthecircus.com/p/stop-calculating-and-do-whats-right</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/12/27.html#a151350</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/03/rabbit.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The biggest contribution ChatGPT et al could make to software development, beyond what it has already done, which is enormous -- is help us come up with a new general purpose programming language which is a lot easier for human programmers to work with, esp over time. I work in one of the most complex environments imaginable -- browser apps talking to server apps in JavaScript. We could do so much better. And now we have a partner that knows all about all our languages, unlike any human being. Instead of having a lot of disconnected bubbles, it would be great if programmers could come together on a new language that make it easier for us to manage lots of software projects.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2025/05/03/rabbit.png)The biggest contribution ChatGPT et al could make to software development, beyond what it has already done, which is enormous -- is help us come up with a new general purpose programming language which is a lot easier for human programmers to work with, esp over time. I work in one of the most complex environments imaginable -- browser apps talking to server apps in JavaScript. We could do so much better. And now we have a partner that knows all about all our languages, unlike any human being. Instead of having a lot of disconnected bubbles, it would be great if programmers could come together on a new language that make it easier for us to manage lots of software projects.</source:markdown>
-      <guid>cid://http://scripting.com/2025/12/27.html#a151350</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/12/27.html#a150051</link>
-      <description>
-        <![CDATA[I rated <a href="https://tv.bingeworthy.org/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fcommon-side-effects%2F">Common Side Effects</a> as <i>Loved,</i> the second highest rating on Bingeworthy.]]>
-      </description>
-      <source:markdown>I rated [Common Side Effects](https://tv.bingeworthy.org/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fcommon-side-effects%2F) as _Loved,_ the second highest rating on Bingeworthy.</source:markdown>
-      <guid>cid://http://scripting.com/2025/12/27.html#a150051</guid>
-    </item>    <item>
-      <title>Why we love Pluribus</title>
-      <link>http://scripting.com/2025/12/27/145814.html?title=whyWeLovePluribus</link>
-      <description>
-        <![CDATA[<p>We love <a href="https://daytona.scripting.com/search?q=pluribus">Pluribus</a> because it has the features we find irresistible. </p>
-        <ol>
-        <li>AppleTV.</li>
-        <li>The makers of two <a href="https://en.wikipedia.org/wiki/Breaking_Bad">previous</a> huge <a href="https://en.wikipedia.org/wiki/Better_Call_Saul">hits</a>.</li>
-        <li>An unsung and much loved <a href="https://en.wikipedia.org/wiki/Rhea_Seehorn">star</a> in the last hit.</li>
-        <li>An intriguing sci-fi <a href="https://daytona.scripting.com/search?q=pluribus">plot</a>.</li>
-        <li>It’s pretty good adventure type thriller in the first episodes then settles into a slower sexy love story, where the lead character takes us through the mind of someone falling in love and trying to figure out if the other person is worth it.</li>
-        <li>A clever final scene in the <a href="https://people.com/pluribus-season-1-finale-ending-explained-11873581">final episode</a>.</li>
-        <li>A typical long wait for the <a href="https://ew.com/pluribus-season-2-release-will-take-a-while-vince-gilligan-11873854">next season</a> that we knew was coming.</li>
-        </ol>
-        <p>But all this is incidental, what really matters is that we’re all involved, have opinions, and thank goodness it doesn’t actually matter like the other stuff we debate.</p>
-        <p><i>This came up on <a href="https://kottke.org/25/12/are-we-still-loving-pluribus">Kottke</a>. I'm going to try commenting on other old school blogs more here on my blog. Want to see if we can reboot the original sphere as a way of priming a new one. </i></p>]]>
-      </description>
-      <source:markdown>We love [Pluribus](https://daytona.scripting.com/search?q=pluribus) because it has the features we find irresistible.
-
-1.  AppleTV.
-2.  The makers of two [previous](https://en.wikipedia.org/wiki/Breaking_Bad) huge [hits](https://en.wikipedia.org/wiki/Better_Call_Saul).
-3.  An unsung and much loved [star](https://en.wikipedia.org/wiki/Rhea_Seehorn) in the last hit.
-4.  An intriguing sci-fi [plot](https://daytona.scripting.com/search?q=pluribus).
-5.  It’s pretty good adventure type thriller in the first episodes then settles into a slower sexy love story, where the lead character takes us through the mind of someone falling in love and trying to figure out if the other person is worth it.
-6.  A clever final scene in the [final episode](https://people.com/pluribus-season-1-finale-ending-explained-11873581).
-7.  A typical long wait for the [next season](https://ew.com/pluribus-season-2-release-will-take-a-while-vince-gilligan-11873854) that we knew was coming.
-
-But all this is incidental, what really matters is that we’re all involved, have opinions, and thank goodness it doesn’t actually matter like the other stuff we debate.
-
-_This came up on [Kottke](https://kottke.org/25/12/are-we-still-loving-pluribus). I&#39;m going to try commenting on other old school blogs more here on my blog. Want to see if we can reboot the original sphere as a way of priming a new one._</source:markdown>
-      <guid>cid://http://scripting.com/2025/12/27/145814.html</guid>
-    </item>    <item>
-      <title>rss</title>
-      <link>http://toolkit.wellgedacht.org/doku.php?id=guides:rss&#38;rev=1766846476&#38;do=diff</link>
-      <description>
-        <![CDATA[What is RSS?
-        
-          RSS stands for “Really Simple Syndication.”
-        
-        
-        
-        Why use RSS, rather than social media platforms, to follow articles, podcasts, news, and opinion pieces?  
-        
-        RSS Feed doesn’t have an algorithm; it doesn’t prioritize any specific feed and does not show them in a specific order other than the date, so you don’t have to adjust your “content” in a way that is optimized for the algorithm. It is a very direct way to receive information in the form of a vertical list. It ends once you’ve r…]]>
-      </description>
-      <source:markdown>What is RSS?
-
- RSS stands for “Really Simple Syndication.”
-
-Why use RSS, rather than social media platforms, to follow articles, podcasts, news, and opinion pieces?
-
-RSS Feed doesn’t have an algorithm; it doesn’t prioritize any specific feed and does not show them in a specific order other than the date, so you don’t have to adjust your “content” in a way that is optimized for the algorithm. It is a very direct way to receive information in the form of a vertical list. It ends once you’ve r…</source:markdown>
-      <author>wgp@undisclosed.example.com (wgp)</author>
-    </item>    <item>
-      <title>Quoting Boris Cherny</title>
-      <link>https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything</link>
-      <description>
-        <![CDATA[<blockquote cite="https://twitter.com/bcherny/status/2004887829252317325"><p>A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time. We saw early signs that it may become broadly useful for coding one day.</p>
-        <p>Fast forward to today. In the last thirty days, I landed 259 PRs -- 497 commits, 40k lines added, 38k lines removed. Every single line was written by Claude Code + Opus 4.5.</p></blockquote>
-        <p class="cite">&mdash; <a href="https://twitter.com/bcherny/status/2004887829252317325">Boris Cherny</a>, creator of Claude Code</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
-      </description>
-      <source:markdown>&#62; A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time. We saw early signs that it may become broadly useful for coding one day.
-&#62;
-&#62; Fast forward to today. In the last thirty days, I landed 259 PRs -- 497 commits, 40k lines added, 38k lines removed. Every single line was written by Claude Code + Opus 4.5.
-
-— [Boris Cherny](https://twitter.com/bcherny/status/2004887829252317325), creator of Claude Code
-
-Tags: [anthropic](https://simonwillison.net/tags/anthropic), [claude](https://simonwillison.net/tags/claude), [ai](https://simonwillison.net/tags/ai), [claude-code](https://simonwillison.net/tags/claude-code), [llms](https://simonwillison.net/tags/llms), [coding-agents](https://simonwillison.net/tags/coding-agents), [ai-assisted-programming](https://simonwillison.net/tags/ai-assisted-programming), [generative-ai](https://simonwillison.net/tags/generative-ai)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything</guid>
-    </item>    <item>
-      <title>#18 &#38; AI: 2025 Reading List</title>
-      <link>https://om.co/2025/12/27/18-ai-2025-reading-list/</link>
-      <description>
-        <![CDATA[If&#160;you’re&#160;new around here,&#160;hi!&#160;I’m&#160;Om, and&#160;this is my&#160;occasional&#160;letter where I share what’s on my mind, my latest writings, articles worth reading from around the web, my&#160;recommendations, and&#160;some of my&#160;photography. Holidays&#160;often&#160;signal the&#160;looming end&#160;of&#160;the year. They&#160;give&#160;all&#160;of us&#160;a reason&#160;to pause, slowdown, reflect, and spend time with people we appreciate.&#160;In our increasingly fast, networked world, it’s&#160;hard to&#160;overstate&#160;the need to lower&#160;life’s tempo.&#160;For &#8230;]]>
-      </description>
-      <source:markdown>If you’re new around here, hi! I’m Om, and this is my occasional letter where I share what’s on my mind, my latest writings, articles worth reading from around the web, my recommendations, and some of my photography. Holidays often signal the looming end of the year. They give all of us a reason to pause, slowdown, reflect, and spend time with people we appreciate. In our increasingly fast, networked world, it’s hard to overstate the need to lower life’s tempo. For …</source:markdown>
-      <guid>cid://https://om.co/?p=947933</guid>
-    </item>    <item>
-      <title>Repost With Transcript: Heather Cox Richardson</title>
-      <link>https://paulkrugman.substack.com/p/repost-with-transcript-heather-cox</link>
-      <description>
-        <![CDATA[In case you missed it]]>
-      </description>
-      <source:markdown>In case you missed it</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/61lcsgZfres" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/repost-with-transcript-heather-cox</guid>
-    </item>    <item>
-      <title>CCC unterstützt den monatlichen Digital Independence Day</title>
-      <link>https://www.ccc.de/de/updates/2025/ccc-unterstutzt-den-monatlichen-digital-independence-day</link>
-      <description>
-        <![CDATA[Zusammen mit vielen weiteren Organisationen ruft der Chaos Computer Club zum Digital Independence Day auf:
-        An jedem ersten Sonntag im Monat wechseln wir von Big-Tech-Plattformen zu freien, lokalen oder auch einfach nur weniger problematischen Alternativen.
-        In vielen Städten unterstützen Ehrenamtliche des CCC mit Rat und Tat.]]>
-      </description>
-      <source:markdown>Zusammen mit vielen weiteren Organisationen ruft der Chaos Computer Club zum Digital Independence Day auf:
-An jedem ersten Sonntag im Monat wechseln wir von Big-Tech-Plattformen zu freien, lokalen oder auch einfach nur weniger problematischen Alternativen.
-In vielen Städten unterstützen Ehrenamtliche des CCC mit Rat und Tat.</source:markdown>
-      <guid>cid://https://www.ccc.de/de/996</guid>
-    </item>    <item>
-      <title>The Big Lesson from 2025? | The Coffee Klatch for Saturday, December 27, 2025</title>
-      <link>https://robertreich.substack.com/p/the-big-lesson-from-2025-the-coffee</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/182376387/cfc314f1b87f7ac6fcf41418159c66c9.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-big-lesson-from-2025-the-coffee</guid>
-    </item>    <item>
-      <title>Weeknotes: Dec. 20-26, 2025</title>
-      <link>https://tracydurnell.com/2025/12/26/weeknotes-dec-20-26-2025/</link>
-      <description>
-        <![CDATA[Highlight of the week: husband surprised me with weekend morning donuts! 🍩 the benefits of a partner who wakes up two hours earlier 😂 Looking forward to: reading a ton of fun books over the next week of vacation 📚 Stuff I did: Between wrapping up client work at the start of the month, putting my [&#8230;]]]>
-      </description>
-      <source:markdown>Highlight of the week: husband surprised me with weekend morning donuts! 🍩 the benefits of a partner who wakes up two hours earlier 😂 Looking forward to: reading a ton of fun books over the next week of vacation 📚 Stuff I did: Between wrapping up client work at the start of the month, putting my \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=32719</guid>
-    </item>    <item>
-      <title>December 26, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/december-26-2025</link>
-      <description>
-        <![CDATA[On Tuesday, December 23, the U.S.]]>
-      </description>
-      <source:markdown>On Tuesday, December 23, the U.S.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/december-26-2025</guid>
-    </item>    <item>
-      <title>Painting heaven and hell</title>
-      <link>https://adactio.com/notes/22321</link>
-      <description>
-        <![CDATA[<p>Painting heaven and hell</p>]]>
-      </description>
-      <source:markdown>Painting heaven and hell</source:markdown>
-      <guid>cid://https://adactio.com/notes/22321</guid>
-    </item>    <item>
-      <title>textarea.my on GitHub</title>
-      <link>https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://github.com/antonmedv/textarea">textarea.my on GitHub</a></strong></p>
-        Anton Medvedev built <a href="https://textarea.my/">textarea.my</a>, which he describes as:</p>
-        <blockquote>
-        <p>A <em>minimalist</em> text editor that lives entirely in your browser and stores everything in the URL hash.</p>
-        </blockquote>
-        <p>It's ~160 lines of HTML, CSS and JavaScript and it's worth reading the whole thing. I picked up a bunch of neat tricks from this!</p>
-        <ul>
-        <li><code>&lt;article contenteditable="plaintext-only"&gt;</code> - I did not know about the <code>plaintext-only</code> value, supported across <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/contentEditable">all the modern browsers</a>.</li>
-        <li>It uses <code>new CompressionStream('deflate-raw')</code> to compress the editor state so it can fit in a shorter fragment URL.</li>
-        <li>It has a neat custom save option which triggers if you hit <code>((e.metaKey || e.ctrlKey) &amp;&amp; e.key === 's')</code> - on <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/showSaveFilePicker">browsers that support it</a> (mainly Chrome variants) this uses <code>window.showSaveFilePicker()</code>, other browsers get a straight download - in both cases generated using <code>URL.createObjectURL(new Blob([html], {type: 'text/html'}))</code></li>
-        </ul>
-        <p>The <code>debounce()</code> function it uses deserves a special note:</p>
-        <pre><span class="pl-k">function</span> <span class="pl-en">debounce</span><span class="pl-kos">(</span><span class="pl-s1">ms</span><span class="pl-kos">,</span> <span class="pl-s1">fn</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
-          <span class="pl-k">let</span> <span class="pl-s1">timer</span>
-          <span class="pl-k">return</span> <span class="pl-kos">(</span>...<span class="pl-s1">args</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
-            <span class="pl-en">clearTimeout</span><span class="pl-kos">(</span><span class="pl-s1">timer</span><span class="pl-kos">)</span>
-            <span class="pl-s1">timer</span> <span class="pl-c1">=</span> <span class="pl-en">setTimeout</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-s1">fn</span><span class="pl-kos">(</span>...<span class="pl-s1">args</span><span class="pl-kos">)</span><span class="pl-kos">,</span> <span class="pl-s1">ms</span><span class="pl-kos">)</span>
-          <span class="pl-kos">}</span>
-        <span class="pl-kos">}</span></pre>
-        
-        <p>That's really elegant. The goal of <code>debounce(ms, fn)</code> is to take a function and a timeout (e.g. 100ms) and ensure that the function runs at most once every 100ms.</p>
-        <p>This one works using a closure variable <code>timer</code> to capture the <code>setTimeout</code> time ID. On subsequent calls that timer is cancelled and a new one is created - so if you call the function five times in quick succession it will execute just once, 100ms after the last of that sequence of calls.
-        
-            <p><small></small>Via <a href="https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111">lobste.rs</a></small></p>
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/javascript">javascript</a></p>]]>
-      </description>
-      <source:markdown>**[textarea.my on GitHub](https://github.com/antonmedv/textarea)**
-
-Anton Medvedev built [textarea.my](https://textarea.my/), which he describes as:
-
-&#62; A _minimalist_ text editor that lives entirely in your browser and stores everything in the URL hash.
-
-It&#39;s ~160 lines of HTML, CSS and JavaScript and it&#39;s worth reading the whole thing. I picked up a bunch of neat tricks from this!
-
-- `&#60;article contenteditable=&#34;plaintext-only&#34;&#62;` \- I did not know about the `plaintext-only` value, supported across [all the modern browsers](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/contentEditable).
-- It uses `new CompressionStream(&#39;deflate-raw&#39;)` to compress the editor state so it can fit in a shorter fragment URL.
-- It has a neat custom save option which triggers if you hit `((e.metaKey || e.ctrlKey) &#38;&#38; e.key === &#39;s&#39;)` \- on [browsers that support it](https://developer.mozilla.org/en-US/docs/Web/API/Window/showSaveFilePicker) (mainly Chrome variants) this uses `window.showSaveFilePicker()`, other browsers get a straight download - in both cases generated using `URL.createObjectURL(new Blob([html], {type: &#39;text/html&#39;}))`
-
-The `debounce()` function it uses deserves a special note:
-
-```
-function debounce(ms, fn) {
-  let timer
-  return (...args) =&#62; {
-    clearTimeout(timer)
-    timer = setTimeout(() =&#62; fn(...args), ms)
-  }
-}
-```
-
-That&#39;s really elegant. The goal of `debounce(ms, fn)` is to take a function and a timeout (e.g. 100ms) and ensure that the function runs at most once every 100ms.
-
-This one works using a closure variable `timer` to capture the `setTimeout` time ID. On subsequent calls that timer is cancelled and a new one is created - so if you call the function five times in quick succession it will execute just once, 100ms after the last of that sequence of calls.
-
-
-
-Via [lobste.rs](https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111)
-
-Tags: [javascript](https://simonwillison.net/tags/javascript)</source:markdown>
-      <guid>cid://https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything</guid>
-    </item>    <item>
-      <link>https://www.metacritic.com/tv/common-side-effects/#google_vignette</link>
-      <description>
-        <![CDATA[<p>Common Side Effects  on HBO is a pretty good anime style story.</p>]]>
-      </description>
-      <source:markdown>Common Side Effects  on HBO is a pretty good anime style story.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/26/2308/</guid>
-    </item>    <item>
-      <link>https://electrek.co/2025/12/26/elon-musk-drops-sustainable-teslas-mission-completes-villain-arc/</link>
-      <description>
-        <![CDATA[Elon Musk drops 'sustainable' from Tesla's mission as he completes his villain arc | Electrek]]>
-      </description>
-      <source:markdown>Elon Musk drops &#39;sustainable&#39; from Tesla&#39;s mission as he completes his villain arc | Electrek</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/12/26/2306/</guid>
-    </item>    <item>
-      <title>On the road in Arizona.</title>
-      <link>https://adactio.com/notes/22320</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22320/small.jpg" srcset="https://adactio.com/images/uploaded/22320/medium.jpg 1.5x, https://adactio.com/images/uploaded/22320/large.jpg 2.5x" alt="On the road in Arizona." />
-        <p>On the road in Arizona.</p>]]>
-      </description>
-      <source:markdown>![On the road in Arizona.](https://adactio.com/images/uploaded/22320/small.jpg)
-
-On the road in Arizona.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22320</guid>
-    </item>    <item>
-      <title>GHC 9.12.3 is now available</title>
-      <link>http://haskell.org/ghc/blog/20251227-ghc-9.12.3-released.html</link>
-      <description>
-        <![CDATA[<h1>GHC 9.12.3 is now available</h1>
-        <h4 class="text-muted">zubin - 2025-12-27</h4>
-        
-        <p>The GHC developers are very pleased to announce the release of GHC 9.12.3.
-        Binary distributions, source distributions, and documentation are available at
-        <a href="https://downloads.haskell.org/ghc/9.12.3">downloads.haskell.org</a>.</p>
-        <p>GHC 9.12.3 is a bug-fix release fixing many issues of a variety of
-        severities and scopes, including:</p>
-        <ul>
-        <li>Fix a number of crashes and miscompilations in the compiler frontend (<a href="https://gitlab.haskell.org/ghc/ghc/issues/25004">#25004</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/25960">#25960</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/26256">#26256</a>)</li>
-        <li>Improvements to efficiency of the runtime linker (<a href="https://gitlab.haskell.org/ghc/ghc/issues/26009">#26009</a>)</li>
-        <li>Fixes for several bugs in bytecode generation and the bytecode interpreter (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23210">#23210</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/25975">#25975</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/25750">#25750</a>)</li>
-        <li>Fixes for bugs in the handling of WHITEHOLEs in the RTS (<a href="https://gitlab.haskell.org/ghc/ghc/issues/26204">#26204</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/26205">#26205</a>)</li>
-        <li>Fix incorrect code generation for SSE vector operations (<a href="https://gitlab.haskell.org/ghc/ghc/issues/25859">#25859</a>)</li>
-        <li>Fix a use-after-free in the Windows runtime linker (<a href="https://gitlab.haskell.org/ghc/ghc/issues/26613">#26613</a>)</li>
-        <li>Support for synchronous JSFFI exports for the wasm backend</li>
-        <li>And many more!</li>
-        </ul>
-        <p>A full accounting of these fixes can be found in the
-        <a href="https://downloads.haskell.org/~ghc/9.12.3/docs/users_guide/9.12.3-notes.html">release notes</a>. As always, GHC’s release status, including planned future
-        releases, can be found on the GHC Wiki <a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.</p>
-        <p>GHC development is sponsored by:</p>
-        <ul>
-        <li><a href="https://juspay.com/">Juspay</a></li>
-        <li><a href="https://qbaylogic.com/">QBayLogic</a></li>
-        <li><a href="https://www.channable.com/">Channable</a></li>
-        <li><a href="https://haskell.foundation/">Haskell Foundation</a></li>
-        <li><a href="https://serokell.io/">Serokell</a></li>
-        <li><a href="https://well-typed.com/">Well-Typed</a></li>
-        <li><a href="https://www.tweag.io/">Tweag</a></li>
-        <li><a href="https://www.dotcom-monitor.com/">Dotcom-Monitor</a></li>
-        <li><a href="https://www.loadview-testing.com/">LoadView</a></li>
-        <li><a href="https://webhostingbuddy.com/">Web Hosting Buddy</a></li>
-        <li><a href="https://www.findmyelectric.com/">Find My Electric</a></li>
-        <li><a href="https://www.sc.com">Standard Chartered</a></li>
-        <li><a href="https://upcloud.com">UpCloud</a></li>
-        <li><a href="https://mercury.com">Mercury</a></li>
-        </ul>
-        <p>We would like to thank these sponsors and other anonymous contributors
-        whose on-going financial and in-kind support has facilitated GHC maintenance
-        and release management over the years. Finally, this release would not have
-        been possible without the hundreds of open-source contributors whose work
-        comprise this release.</p>
-        <p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
-        anything amiss.</p>]]>
-      </description>
-      <source:markdown># GHC 9.12.3 is now available
-
-#### zubin - 2025-12-27
-
-The GHC developers are very pleased to announce the release of GHC 9.12.3.
-Binary distributions, source distributions, and documentation are available at
-[downloads.haskell.org](https://downloads.haskell.org/ghc/9.12.3).
-
-GHC 9.12.3 is a bug-fix release fixing many issues of a variety of
-severities and scopes, including:
-
-- Fix a number of crashes and miscompilations in the compiler frontend ( [#25004](https://gitlab.haskell.org/ghc/ghc/issues/25004), [#25960](https://gitlab.haskell.org/ghc/ghc/issues/25960), [#26256](https://gitlab.haskell.org/ghc/ghc/issues/26256))
-- Improvements to efficiency of the runtime linker ( [#26009](https://gitlab.haskell.org/ghc/ghc/issues/26009))
-- Fixes for several bugs in bytecode generation and the bytecode interpreter ( [#23210](https://gitlab.haskell.org/ghc/ghc/issues/23210), [#25975](https://gitlab.haskell.org/ghc/ghc/issues/25975), [#25750](https://gitlab.haskell.org/ghc/ghc/issues/25750))
-- Fixes for bugs in the handling of WHITEHOLEs in the RTS ( [#26204](https://gitlab.haskell.org/ghc/ghc/issues/26204), [#26205](https://gitlab.haskell.org/ghc/ghc/issues/26205))
-- Fix incorrect code generation for SSE vector operations ( [#25859](https://gitlab.haskell.org/ghc/ghc/issues/25859))
-- Fix a use-after-free in the Windows runtime linker ( [#26613](https://gitlab.haskell.org/ghc/ghc/issues/26613))
-- Support for synchronous JSFFI exports for the wasm backend
-- And many more!
-
-A full accounting of these fixes can be found in the
-[release notes](https://downloads.haskell.org/~ghc/9.12.3/docs/users_guide/9.12.3-notes.html). As always, GHC’s release status, including planned future
-releases, can be found on the GHC Wiki [status](https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status).
-
-GHC development is sponsored by:
-
-- [Juspay](https://juspay.com/)
-- [QBayLogic](https://qbaylogic.com/)
-- [Channable](https://www.channable.com/)
-- [Haskell Foundation](https://haskell.foundation/)
-- [Serokell](https://serokell.io/)
-- [Well-Typed](https://well-typed.com/)
-- [Tweag](https://www.tweag.io/)
-- [Dotcom-Monitor](https://www.dotcom-monitor.com/)
-- [LoadView](https://www.loadview-testing.com/)
-- [Web Hosting Buddy](https://webhostingbuddy.com/)
-- [Find My Electric](https://www.findmyelectric.com/)
-- [Standard Chartered](https://www.sc.com)
-- [UpCloud](https://upcloud.com)
-- [Mercury](https://mercury.com)
-
-We would like to thank these sponsors and other anonymous contributors
-whose on-going financial and in-kind support has facilitated GHC maintenance
-and release management over the years. Finally, this release would not have
-been possible without the hundreds of open-source contributors whose work
-comprise this release.
-
-As always, do give this release a try and open a [ticket](https://gitlab.haskell.org/ghc/ghc/-/issues/new) if you see
-anything amiss.</source:markdown>
-      <guid>cid://http://haskell.org/ghc/blog/20251227-ghc-9.12.3-released.html</guid>
     </item>
   </channel>
 </rss>
