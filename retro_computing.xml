@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>18 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Which transisors are used in the KIM-1?</title>
+      <link>http://retro.hansotten.nl/which-transisors-are-used-in-the-kim-1/</link>
+      <description>
+        <![CDATA[Even a microprocessor based computer as the KIM-1 required some simple transistors. To drive the LEDs some extra current is needed, so there are 6 PNP transistors there. And in the serial circuit an NPN transistor is used. I investigated which types are used in my KIM-1s and clones. See also:KIM-1 connectors: beware the Chinese [&#8230;]]]>
+      </description>
+      <source:markdown>Even a microprocessor based computer as the KIM-1 required some simple transistors. To drive the LEDs some extra current is needed, so there are 6 PNP transistors there. And in the serial circuit an NPN transistor is used. I investigated which types are used in my KIM-1s and clones. See also:KIM-1 connectors: beware the Chinese \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19851</guid>
+    </item>    <item>
       <title>b.log 2026/01/16 - From DIP Switches to DRM: How Printers Never Got Better.</title>
       <link>https://heyrick.eu/blog/entry/20260116</link>
       <description>
@@ -53,9 +61,9 @@
       <title>Time to express an interest in the official Acorn biography</title>
       <link>https://www.riscository.com/2026/acorn-biography-express-an-interest/</link>
       <description>
-        <![CDATA[December&#8217;s RISC OS User Group of London (ROUGOL) meeting featured Rob Napier as the guest speaker, on the subject of the book he has been working on. Titled &#8220;Voices from a Future Passed&#8221;, the book is the official biography of Acorn Computers, and Rob went over various aspects of the book and that biography at the meeting. The book is planned for release as a paperback at the start of March, with an expected price of $19.95 in the UK, and corresponding amounts in other currencies/parts of the world. It&#8230;]]>
+        <![CDATA[December&#8217;s RISC OS User Group of London (ROUGOL) meeting featured Rob Napier as the guest speaker, on the subject of the book he has been working on. Titled &#8220;Voices from a Future Passed&#8221;, the book is the official biography of Acorn Computers, and Rob went over various aspects of the book and that biography at the meeting. The book is planned for release as a paperback at the start of March, with an expected price of £19.95 in the UK, and corresponding amounts in other currencies/parts of the world. It&#8230;]]>
       </description>
-      <source:markdown>December’s RISC OS User Group of London (ROUGOL) meeting featured Rob Napier as the guest speaker, on the subject of the book he has been working on. Titled “Voices from a Future Passed”, the book is the official biography of Acorn Computers, and Rob went over various aspects of the book and that biography at the meeting. The book is planned for release as a paperback at the start of March, with an expected price of $19.95 in the UK, and corresponding amounts in other currencies/parts of the world. It…</source:markdown>
+      <source:markdown>December’s RISC OS User Group of London (ROUGOL) meeting featured Rob Napier as the guest speaker, on the subject of the book he has been working on. Titled “Voices from a Future Passed”, the book is the official biography of Acorn Computers, and Rob went over various aspects of the book and that biography at the meeting. The book is planned for release as a paperback at the start of March, with an expected price of £19.95 in the UK, and corresponding amounts in other currencies/parts of the world. It…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10849</guid>
     </item>    <item>
       <title>Rougol January 2026 meeting on monday - Chris Hall and his multiple heads</title>
@@ -353,14 +361,6 @@ You may also be interested in this weeklong &#34;DOScember&#34; article series a
       </description>
       <source:markdown>Downloading video that&#39;s a TS (m3u8), Electricity is coming down in price?, Stranger Things.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20251228</guid>
-    </item>    <item>
-      <title>RIOT 6530-005 mystery solved!</title>
-      <link>http://retro.hansotten.nl/riot-6530-005-mystery-solved/</link>
-      <description>
-        <![CDATA[The MCS6530-005 was known to me only by some lines in MOS pricelist and a remark in an OSI appnote as a 6530 without ROM. It is therefore no RRIOT but a RIOT (RAM I/O Timer). I have acquired several MCS6530-005 ICs and tested with the Backbit Pro Chiptester V2 and indeed it passes all [&#8230;]]]>
-      </description>
-      <source:markdown>The MCS6530-005 was known to me only by some lines in MOS pricelist and a remark in an OSI appnote as a 6530 without ROM. It is therefore no RRIOT but a RIOT (RAM I/O Timer). I have acquired several MCS6530-005 ICs and tested with the Backbit Pro Chiptester V2 and indeed it passes all \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=19696</guid>
     </item>
   </channel>
 </rss>

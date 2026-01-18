@@ -7,17 +7,60 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>17 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>18 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Activists are using a tiny tool to keep the community safe during ICE raids: Whistles</title>
-      <link>https://laist.com/news/los-angeles-activities/whistle-workshop-ice-raids</link>
+      <title>At Backyard Party, young musicians who survived a pandemic and firestorm are making a scene</title>
+      <link>https://laist.com/news/los-angeles-activities/at-backyard-party-young-musicians-who-survived-a-pandemic-and-firestorm-are-making-a-scene</link>
       <description>
-        <![CDATA[A workshop — already at capacity — is held today to show participants why the humble but mighty whistle is such a powerful tool.]]>
+        <![CDATA[Teens who lost garages and backyards in the Eaton Fire have a new place to play loud, mosh and make some cash.]]>
       </description>
-      <source:markdown>A workshop — already at capacity — is held today to show participants why the humble but mighty whistle is such a powerful tool.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-c7ff-dace-a9fb-e7ff41240000</guid>
+      <source:markdown>Teens who lost garages and backyards in the Eaton Fire have a new place to play loud, mosh and make some cash.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-c3ed-de08-ad9f-f7efdefe0000</guid>
+    </item>    <item>
+      <title>SoCal Edison files suits against LA County and others over Eaton Fire</title>
+      <link>https://laist.com/news/socal-edison-files-suits-against-la-county-and-others-over-eaton-fire</link>
+      <description>
+        <![CDATA[SoCalGas and nearly a dozen other agencies were among those named in a lawsuit.]]>
+      </description>
+      <source:markdown>SoCalGas and nearly a dozen other agencies were among those named in a lawsuit.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-cd87-d3cf-a9db-fde771490000</guid>
+    </item>    <item>
+      <title>‘Happy place for everyone’: Koreatown’s Aladdin Used Books prepares to close</title>
+      <link>https://laist.com/news/los-angeles-activities/happy-place-for-everyone-koreatowns-aladdin-used-books-prepares-to-close</link>
+      <description>
+        <![CDATA[Customers paid their last respects to the bookstore which carried books, CDs and other media in both Korean and English.]]>
+      </description>
+      <source:markdown>Customers paid their last respects to the bookstore which carried books, CDs and other media in both Korean and English.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-cd28-df90-a1ff-dd6dc9240000</guid>
+    </item>    <item>
+      <title>Officials say South LA, but for many, it’ll always be South Central</title>
+      <link>https://laist.com/news/los-angeles-activities/officials-say-south-la-but-for-many-itll-always-be-south-central-what-do-you-call-it</link>
+      <description>
+        <![CDATA[A campaign in the early 2000s rebranded the neighborhoods south of the 10 freeway, but today, the South Central name means history, culture and resilience to some locals.]]>
+      </description>
+      <source:markdown>A campaign in the early 2000s rebranded the neighborhoods south of the 10 freeway, but today, the South Central name means history, culture and resilience to some locals.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-cd1c-dace-a9fb-ed9eb6760000</guid>
+    </item>    <item>
+      <title>New Year, Looking Forward to New Connections at Camp Clarita</title>
+      <link>https://santaclarita.gov/blog/2026/01/17/new-year-looking-forward-to-new-connections-at-camp-clarita/</link>
+      <description>
+        <![CDATA[<p>By City Manager Ken Striplin Santa Clarita is a community that values connection, learning and opportunities for families to grow together. From year-round programs to seasonal events, the City works to create experiences that strengthen that sense of belonging. Although we are just entering 2026, many parents already have summer on their minds and are [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/01/17/new-year-looking-forward-to-new-connections-at-camp-clarita/">New Year, Looking Forward to New Connections at Camp Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>By City Manager Ken Striplin Santa Clarita is a community that values connection, learning and opportunities for families to grow together. From year-round programs to seasonal events, the City works to create experiences that strengthen that sense of belonging. Although we are just entering 2026, many parents already have summer on their minds and are \[…\]
+
+The post [New Year, Looking Forward to New Connections at Camp Clarita](https://santaclarita.gov/blog/2026/01/17/new-year-looking-forward-to-new-connections-at-camp-clarita/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=7394</guid>
+    </item>    <item>
+      <title>Rick Caruso says he&#39;s not running for public office &#39;at this time&#39;</title>
+      <link>https://laist.com/news/rick-caruso-says-hes-not-running-for-public-office-at-this-time</link>
+      <description>
+        <![CDATA[The billionaire real estate mogul has long been rumored to be eyeing a run to be California's next governor.]]>
+      </description>
+      <source:markdown>The billionaire real estate mogul has long been rumored to be eyeing a run to be California&#39;s next governor.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-ccad-dace-a9fb-ecaf96270000</guid>
     </item>    <item>
       <title>A place to sit in LA: Inside a guerilla campaign for public benches</title>
       <link>https://laist.com/news/los-angeles-activities/diy-public-benches-jonthan-hale</link>
@@ -26,6 +69,14 @@
       </description>
       <source:markdown>Across the country, residents are creating DIY seating without government permission.</source:markdown>
       <guid>cid://urn:uuid:0000019b-c7e6-dace-a9fb-e7ee27b40000</guid>
+    </item>    <item>
+      <title>Activists are using a tiny tool to keep the community safe during ICE raids: Whistles</title>
+      <link>https://laist.com/news/los-angeles-activities/whistle-workshop-ice-raids</link>
+      <description>
+        <![CDATA[A workshop — already at capacity — is held today to show participants why the humble but mighty whistle is such a powerful tool.]]>
+      </description>
+      <source:markdown>A workshop — already at capacity — is held today to show participants why the humble but mighty whistle is such a powerful tool.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-c7ff-dace-a9fb-e7ff41240000</guid>
     </item>    <item>
       <title>DAILY MEMO: Ten-Year-Old Child, Gardeners, and Vendors, Among the More Than 88 Kidnapped in SoCal This Week</title>
       <link>https://lataco.com/daily-memo-ten-year-old-child-gardeners-and-vendors-among-the-more-than-88-kidnapped-in-socal-this-week</link>
@@ -2185,58 +2236,6 @@ The post [Sunday Taquitos #8: Never Wrong](https://lataco.com/sunday-taquitos-8-
       </description>
       <source:markdown>We&#39;ve handpicked these libraries to visit — for you to find peace and beauty.</source:markdown>
       <guid>cid://urn:uuid:0000019b-2d5b-dbc0-ab9f-7f5bf0930000</guid>
-    </item>    <item>
-      <title>Space Force Officer Leads DAF Women’s Rugby Team to Historic Championship Victory</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4367705/space-force-officer-leads-daf-womens-rugby-team-to-historic-championship-victory/</link>
-      <description>
-        <![CDATA[U.S. Space Force Maj. Adekunbi Adewunmi, stationed at Vandenberg Space Force Base, Calif., made history by coaching the Department of the Air Force (DAF) women’s rugby team to their first-ever championship victory at the Royal Australian Air Force, Royal New Zealand Air Force, and U.S. Department of the Air Force (ANZUS) Shield tournament at Whenuapai Air Base, New Zealand, Oct. 9-11.<br/> 
-        <img src='https://media.defense.gov/2025/Dec/27/2003849171/300/300/0/251011-F-LV958-2026.JPG' alt='U.S. Space Force Maj. Adekunbi Adewunmi, second from left, stands with the Department of the Air Force (DAF) women’s rugby team during the playing of the U.S. National Anthem at the Royal Australian Air Force, Royal New Zealand Air Force, and U.S. Department of the Air Force (ANZUS) Shield tournament held at Whenuapai Air Base, New Zealand, Oct. 9-11. Adewunmi, stationed at Vandenberg Space Force Base, Calif., made history by coaching the DAF team to their first-ever championship victory at the tournament.  (U.S. Air Force photo by 1st Lt. Kate Anderson)' /> <br />]]>
-      </description>
-      <source:markdown>U.S. Space Force Maj. Adekunbi Adewunmi, stationed at Vandenberg Space Force Base, Calif., made history by coaching the Department of the Air Force (DAF) women’s rugby team to their first-ever championship victory at the Royal Australian Air Force, Royal New Zealand Air Force, and U.S. Department of the Air Force (ANZUS) Shield tournament at Whenuapai Air Base, New Zealand, Oct. 9-11.
-
-![U.S. Space Force Maj. Adekunbi Adewunmi, second from left, stands with the Department of the Air Force (DAF) women’s rugby team during the playing of the U.S. National Anthem at the Royal Australian Air Force, Royal New Zealand Air Force, and U.S. Department of the Air Force (ANZUS) Shield tournament held at Whenuapai Air Base, New Zealand, Oct. 9-11. Adewunmi, stationed at Vandenberg Space Force Base, Calif., made history by coaching the DAF team to their first-ever championship victory at the tournament.  (U.S. Air Force photo by 1st Lt. Kate Anderson)](https://media.defense.gov/2025/Dec/27/2003849171/300/300/0/251011-F-LV958-2026.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2025/Dec/27/2003849171/700/700/0/251011-F-LV958-2026.JPG" length="" type="image/jpeg" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4367705/space-force-officer-leads-daf-womens-rugby-team-to-historic-championship-victory/</guid>
-    </item>    <item>
-      <title>Federal cuts and reversals upend California health care in 2025</title>
-      <link>https://laist.com/news/health/federal-cuts-reversals-upend-california-health-care-in-2025</link>
-      <description>
-        <![CDATA[California health care was hit hard in 2025: more than 3 million may lose Medicaid, Covered California subsidies at risk.]]>
-      </description>
-      <source:markdown>California health care was hit hard in 2025: more than 3 million may lose Medicaid, Covered California subsidies at risk.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5cb3-ddcc-a9db-fcbb7a3b0000</guid>
-    </item>    <item>
-      <title>We had so much fun exploring LA in 2025. Here are our favorite stories</title>
-      <link>https://laist.com/news/los-angeles-activities/favorite-stories-exploring-los-angeles-2025-new-year</link>
-      <description>
-        <![CDATA[LAist's Explore L.A. team choose our favorite stories from 2025.]]>
-      </description>
-      <source:markdown>LAist&#39;s Explore L.A. team choose our favorite stories from 2025.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-0ab9-dfc4-addb-8eb991990000</guid>
-    </item>    <item>
-      <title>Worried about health insurance costs? There may be cheaper options — but with trade-offs</title>
-      <link>https://laist.com/news/health/health-insurance-costs-cheaper-options-trade-offs</link>
-      <description>
-        <![CDATA[There's still time to enroll for health insurance coverage for 2026.]]>
-      </description>
-      <source:markdown>There&#39;s still time to enroll for health insurance coverage for 2026.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-476a-de6b-ad9f-efefd8580000</guid>
-    </item>    <item>
-      <title>Advocates for renters and unhoused Angelenos want LA to hit the brakes on RV impound law</title>
-      <link>https://laist.com/news/housing-homelessness/mayor-bass-rv-impound-law-encampment-clearing-threshold-city-attorney-hydee-feldstein-soto-assembly-bill</link>
-      <description>
-        <![CDATA[A new law that goes into effect Jan. 1 allows local authorities to dispose of abandoned or inoperable RVs that have an estimated value of $4,000 or less.]]>
-      </description>
-      <source:markdown>A new law that goes into effect Jan. 1 allows local authorities to dispose of abandoned or inoperable RVs that have an estimated value of $4,000 or less.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5d10-d6b4-a1fb-7d1756860000</guid>
-    </item>    <item>
-      <title>Marijuana rescheduling would bring some immediate changes, but others will take time</title>
-      <link>https://laist.com/news/health/marijuana-rescheduling-would-bring-some-immediate-changes-but-others-will-take-time</link>
-      <description>
-        <![CDATA[Trump's order doesn't automatically revoke laws targeting marijuana, which remains illegal to transport over state lines.]]>
-      </description>
-      <source:markdown>Trump&#39;s order doesn&#39;t automatically revoke laws targeting marijuana, which remains illegal to transport over state lines.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-5c9f-dfab-a59f-7fbf7f5c0000</guid>
     </item>
   </channel>
 </rss>
