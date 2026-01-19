@@ -4,24 +4,414 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>18 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>19 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Drone strikes cut power to Ukraine&#39;s Zaporizhzhia region</title>
+      <title>Harris urges calm as Opposition suggest tariffs on US</title>
+      <link>https://www.rte.ie/news/2026/0119/1553940-greenland-irish-reaction/</link>
+      <description>
+        <![CDATA[Tánaiste and Minister for Finance Simon Harris has said that while the European Union should try to use the "brief window" open to resolve the US tariffs crisis, member states must be ready for "all eventualities".]]>
+      </description>
+      <source:markdown>Tánaiste and Minister for Finance Simon Harris has said that while the European Union should try to use the &#34;brief window&#34; open to resolve the US tariffs crisis, member states must be ready for &#34;all eventualities&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553940-greenland-irish-reaction/</guid>
+    </item>    <item>
+      <title>Irish oarsman describes &#39;amazing&#39; cruise ship encounter</title>
+      <link>https://www.rte.ie/news/2026/0119/1553928-irish-oarsman-describes-amazing-cruise-ship-encounter/</link>
+      <description>
+        <![CDATA[An Irishman who is leading the solo class in the World's Toughest Row – a gruelling 4,800km journey across the Atlantic - has described the 'amazing' moment he was cheered on by passengers of a passing cruise ship.]]>
+      </description>
+      <source:markdown>An Irishman who is leading the solo class in the World&#39;s Toughest Row – a gruelling 4,800km journey across the Atlantic - has described the &#39;amazing&#39; moment he was cheered on by passengers of a passing cruise ship.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553928-irish-oarsman-describes-amazing-cruise-ship-encounter/</guid>
+    </item>    <item>
+      <title>Garda to be sentenced in May over fatal hit and run</title>
+      <link>https://www.rte.ie/news/ireland/2026/0119/1553930-drogheda-hit-and-run/</link>
+      <description>
+        <![CDATA[A Garda has appeared before Dundalk Circuit Court to affirm guilty pleas in relation to a fatal hit and run in which a 42-year-old man was killed.]]>
+      </description>
+      <source:markdown>A Garda has appeared before Dundalk Circuit Court to affirm guilty pleas in relation to a fatal hit and run in which a 42-year-old man was killed.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0119/1553930-drogheda-hit-and-run/</guid>
+    </item>    <item>
+      <title>Firefighters recover remains from Karachi mall</title>
+      <link>https://www.rte.ie/news/world/2026/0119/1553926-firefighters-recover-remains-from-karachi-mall/</link>
+      <description>
+        <![CDATA[Emergency workers have begun recovering remains after a fire in a Pakistani shopping mall killed at least 21.]]>
+      </description>
+      <source:markdown>Emergency workers have begun recovering remains after a fire in a Pakistani shopping mall killed at least 21.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0119/1553926-firefighters-recover-remains-from-karachi-mall/</guid>
+    </item>    <item>
+      <title>Planned review of Boy B sentence did not take place</title>
+      <link>https://www.rte.ie/news/courts/2026/0119/1553933-boy-b-case/</link>
+      <description>
+        <![CDATA[A planned review of the sentence of one of the two boys convicted of the murder of school girl Ana Kriégel in 2018 did not take place as planned, due to a Supreme Court decision handed down since his conviction.]]>
+      </description>
+      <source:markdown>A planned review of the sentence of one of the two boys convicted of the murder of school girl Ana Kriégel in 2018 did not take place as planned, due to a Supreme Court decision handed down since his conviction.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2026/0119/1553933-boy-b-case/</guid>
+    </item>    <item>
+      <title>Seven men to be sentenced over conspiracy to import drugs</title>
+      <link>https://www.rte.ie/news/2026/0119/1553932-kerry-drugs-court/</link>
+      <description>
+        <![CDATA[Seven men who conspired to import over 600kg of cocaine worth an estimated €42m into Ireland will be sentenced in two months by the Special Criminal Court.]]>
+      </description>
+      <source:markdown>Seven men who conspired to import over 600kg of cocaine worth an estimated €42m into Ireland will be sentenced in two months by the Special Criminal Court.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553932-kerry-drugs-court/</guid>
+    </item>    <item>
+      <title>Supt did not have power to cancel penalty points - court</title>
+      <link>https://www.rte.ie/news/courts/2026/0119/1553920-penalty-points-limerick/</link>
+      <description>
+        <![CDATA[A former head of the Limerick Garda Division has conceded that a retired superintendent, who is charged with perverting the course of justice by interfering in road traffic prosecutions, did not have the power to cancel penalty points at the time of the alleged offences.]]>
+      </description>
+      <source:markdown>A former head of the Limerick Garda Division has conceded that a retired superintendent, who is charged with perverting the course of justice by interfering in road traffic prosecutions, did not have the power to cancel penalty points at the time of the alleged offences.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/courts/2026/0119/1553920-penalty-points-limerick/</guid>
+    </item>    <item>
+      <title>&#39;Family destroyed&#39; says mother of murdered teenager</title>
+      <link>https://www.rte.ie/news/ireland/2026/0119/1553919-mulready-woods/</link>
+      <description>
+        <![CDATA[The mother of murdered teenager Keane Mulready-Woods, whose dismembered remains were found in Dublin and Drogheda, has told the Special Criminal Court that her son deserved to be treated as a human being, not something to be discarded.]]>
+      </description>
+      <source:markdown>The mother of murdered teenager Keane Mulready-Woods, whose dismembered remains were found in Dublin and Drogheda, has told the Special Criminal Court that her son deserved to be treated as a human being, not something to be discarded.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0119/1553919-mulready-woods/</guid>
+    </item>    <item>
+      <title>Iran using executions for &#39;state intimidation&#39; - UN</title>
+      <link>https://www.rte.ie/news/world/2026/0119/1553913-iran-using-executions-for-state-intimidation-un/</link>
+      <description>
+        <![CDATA[The UN has warned that Iran appears to be using executions "as a tool of state intimidation".]]>
+      </description>
+      <source:markdown>The UN has warned that Iran appears to be using executions &#34;as a tool of state intimidation&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0119/1553913-iran-using-executions-for-state-intimidation-un/</guid>
+    </item>    <item>
+      <title>Three US Cardinals: Foreign policy must respect human dignity, religious liberty</title>
+      <link>https://www.vaticannews.va/en/church/news/2026-01/united-states-cardinals-cupich-mcelroy-tobin-foreign-policy.html</link>
+      <description>
+        <![CDATA[<p>Ten days after Pope Leo XIV’s ‘State of the World’ address, American Cardinals Cupich, McElroy, and Tobin release a joint statement renouncing war and calling for US foreign policy to be based on peace and respect for human dignity and religious liberty.</p>
+                            <p><a href="https://www.vaticannews.va/en/church/news/2026-01/united-states-cardinals-cupich-mcelroy-tobin-foreign-policy.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Ten days after Pope Leo XIV’s ‘State of the World’ address, American Cardinals Cupich, McElroy, and Tobin release a joint statement renouncing war and calling for US foreign policy to be based on peace and respect for human dignity and religious liberty.
+
+[Read all](https://www.vaticannews.va/en/church/news/2026-01/united-states-cardinals-cupich-mcelroy-tobin-foreign-policy.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/church/news/2026-01/united-states-cardinals-cupich-mcelroy-tobin-foreign-policy.html</guid>
+    </item>    <item>
+      <title>Yemen humanitarian crisis set to worsen in 2026 - UN</title>
+      <link>https://www.rte.ie/news/world/2026/0119/1553911-yemen-crisis/</link>
+      <description>
+        <![CDATA[The humanitarian crisis in Yemen is set to get much worse in 2026 as food insecurity increases and international aid evaporates, the United Nations has warned.]]>
+      </description>
+      <source:markdown>The humanitarian crisis in Yemen is set to get much worse in 2026 as food insecurity increases and international aid evaporates, the United Nations has warned.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0119/1553911-yemen-crisis/</guid>
+    </item>    <item>
+      <title>MLK Day Special: Dr. Martin Luther King Jr. in His Own Words</title>
+      <link>http://www.democracynow.org/2026/1/19/mlk_day_special_dr_martin_luther</link>
+      <description>
+        <![CDATA[Today is the federal holiday that honors Dr. Martin Luther King Jr. He was born January 15, 1929. He was assassinated April 4, 1968, at the Lorraine Motel in Memphis, Tennessee. He was just 39 years old. While Dr. King is primarily remembered as a civil rights leader, he also championed the cause of the poor and organized the Poor People&#8217;s Campaign to address issues of economic justice. Dr. King was also a fierce critic of U.S. foreign policy and the Vietnam War. We play his &#8220;Beyond Vietnam&#8221; speech, which he delivered at New York City’s Riverside Church on April 4, 1967, as well as his last speech, &#8220;I&#8217;ve Been to the Mountaintop,&#8221; that he gave on April 3, 1968, the night before he was assassinated.]]>
+      </description>
+      <source:markdown>Today is the federal holiday that honors Dr. Martin Luther King Jr. He was born January 15, 1929. He was assassinated April 4, 1968, at the Lorraine Motel in Memphis, Tennessee. He was just 39 years old. While Dr. King is primarily remembered as a civil rights leader, he also championed the cause of the poor and organized the Poor People’s Campaign to address issues of economic justice. Dr. King was also a fierce critic of U.S. foreign policy and the Vietnam War. We play his “Beyond Vietnam” speech, which he delivered at New York City’s Riverside Church on April 4, 1967, as well as his last speech, “I’ve Been to the Mountaintop,” that he gave on April 3, 1968, the night before he was assassinated.</source:markdown>
+      <author>webdev@democracynow.org (Democracy Now!)</author>
+      <guid>cid://tag:democracynow.org,2026-01-19:en/story/f1e88b</guid>
+    </item>    <item>
+      <title>Trump not thinking &#39;purely of peace&#39; after Nobel snub</title>
+      <link>https://www.rte.ie/news/2026/0119/1553902-trump-us-norway-note/</link>
+      <description>
+        <![CDATA[US President Donald Trump told Norway's prime minister he no longer needed to think "purely of peace" after failing to win the Nobel Peace Prize, in a message published Monday.]]>
+      </description>
+      <source:markdown>US President Donald Trump told Norway&#39;s prime minister he no longer needed to think &#34;purely of peace&#34; after failing to win the Nobel Peace Prize, in a message published Monday.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553902-trump-us-norway-note/</guid>
+    </item>    <item>
+      <title>Pope Leo XIV meets the President of the Czech Republic</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-meets-president-of-czech-republic.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV receives the President of the Czech Republic, Mr. Petr Pavel, in the Vatican on Monday.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-meets-president-of-czech-republic.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV receives the President of the Czech Republic, Mr. Petr Pavel, in the Vatican on Monday.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-meets-president-of-czech-republic.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-meets-president-of-czech-republic.html</guid>
+    </item>    <item>
+      <title>Yemen: Children are dying and it’s going to get worse, warns aid veteran</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166786</link>
+      <description>
+        <![CDATA[In Yemen, renewed political instability and economic woes linked to the war threaten to complicate the already difficult task of helping vulnerable people suffering from deepening hunger, illness and displacement, the UN’s top aid official there said on Monday.&nbsp;]]>
+      </description>
+      <source:markdown>In Yemen, renewed political instability and economic woes linked to the war threaten to complicate the already difficult task of helping vulnerable people suffering from deepening hunger, illness and displacement, the UN’s top aid official there said on Monday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-03-2025_IOM_Yemen-01.jpg/image560x340cropped.jpg" length="37633" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166786</guid>
+    </item>    <item>
+      <title>Pope sends prayers and condolences for victims of Spain train accident</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-telegram-spain-train-accident-condolences.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV expresses his closeness to victims of a train accident in southern Spain on Sunday, which left at least 39 dead and many more injured. </p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-telegram-spain-train-accident-condolences.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV expresses his closeness to victims of a train accident in southern Spain on Sunday, which left at least 39 dead and many more injured.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-telegram-spain-train-accident-condolences.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-telegram-spain-train-accident-condolences.html</guid>
+    </item>    <item>
+      <title>Pope to Neocatechumenal Way: Be builders and witnesses of communion</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-neocatechumenal-way-mission-unity-gospel-evangelization.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV meets with members and leaders of the Neocatechumenal Way, and encourages their mission while urging them to be witnesses of unity in the Church.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-neocatechumenal-way-mission-unity-gospel-evangelization.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV meets with members and leaders of the Neocatechumenal Way, and encourages their mission while urging them to be witnesses of unity in the Church.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-neocatechumenal-way-mission-unity-gospel-evangelization.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-neocatechumenal-way-mission-unity-gospel-evangelization.html</guid>
+    </item>    <item>
+      <title>Pope expresses gratitude to Inspectorate for Public Security for Vatican City</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-inspectorate-for-public-security-vatican-police-italy.html</link>
+      <description>
+        <![CDATA[<p>Pope Leo XIV thanks directors and police officers of Italy’s Inspectorate for Public Safety for Vatican City for their work to ensure the safety of the faithful and pilgrims around Vatican City, especially during such an intense year, which saw the Jubilee, the funeral of Pope Francis, and the Conclave.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-inspectorate-for-public-security-vatican-police-italy.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Pope Leo XIV thanks directors and police officers of Italy’s Inspectorate for Public Safety for Vatican City for their work to ensure the safety of the faithful and pilgrims around Vatican City, especially during such an intense year, which saw the Jubilee, the funeral of Pope Francis, and the Conclave.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-inspectorate-for-public-security-vatican-police-italy.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-inspectorate-for-public-security-vatican-police-italy.html</guid>
+    </item>    <item>
+      <title>Armenia–Azerbaijan peace agreement wins 2026 Zayed Award</title>
+      <link>https://www.vaticannews.va/en/world/news/2026-01/zayed-award-for-human-fraternity-names-2026-honourees.html</link>
+      <description>
+        <![CDATA[<p>The International Zayed Award for Human Fraternity 2026 has been awarded to the peace agreement between Armenia and Azerbaijan and to Afghan education advocate Zarqa Yaftali.</p>
+                            <p><a href="https://www.vaticannews.va/en/world/news/2026-01/zayed-award-for-human-fraternity-names-2026-honourees.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>The International Zayed Award for Human Fraternity 2026 has been awarded to the peace agreement between Armenia and Azerbaijan and to Afghan education advocate Zarqa Yaftali.
+
+[Read all](https://www.vaticannews.va/en/world/news/2026-01/zayed-award-for-human-fraternity-names-2026-honourees.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/world/news/2026-01/zayed-award-for-human-fraternity-names-2026-honourees.html</guid>
+    </item>    <item>
+      <title>Shark mauls surfer in Sydney, third attack in two days</title>
+      <link>https://www.rte.ie/news/world/2026/0119/1553875-australia-shark-attacks/</link>
+      <description>
+        <![CDATA[A shark mauled a surfer off an ocean beach in Sydney in the Australian city's third shark attack in two days, authorities have said.]]>
+      </description>
+      <source:markdown>A shark mauled a surfer off an ocean beach in Sydney in the Australian city&#39;s third shark attack in two days, authorities have said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0119/1553875-australia-shark-attacks/</guid>
+    </item>    <item>
+      <title>Enoch Burke returned to jail for breaching court orders</title>
+      <link>https://www.rte.ie/news/ireland/2026/0119/1553865-enoch-burke/</link>
+      <description>
+        <![CDATA[Enoch Burke has been returned to Mountjoy Prison after the High Court found him in breach of a court order not to trespass at Wilson's Hospital School in Co Westmeath.]]>
+      </description>
+      <source:markdown>Enoch Burke has been returned to Mountjoy Prison after the High Court found him in breach of a court order not to trespass at Wilson&#39;s Hospital School in Co Westmeath.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0119/1553865-enoch-burke/</guid>
+    </item>    <item>
+      <title>Trump to charge $1bn for &#39;peace board&#39; membership</title>
+      <link>https://www.rte.ie/news/world/2026/0119/1553868-board-of-peace/</link>
+      <description>
+        <![CDATA[US President Donald Trump's government has asked countries to pay $1bn for a permanent spot on his "Board of Peace" aimed at resolving conflicts, according to its charter, seen today by AFP.]]>
+      </description>
+      <source:markdown>US President Donald Trump&#39;s government has asked countries to pay $1bn for a permanent spot on his &#34;Board of Peace&#34; aimed at resolving conflicts, according to its charter, seen today by AFP.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0119/1553868-board-of-peace/</guid>
+    </item>    <item>
+      <title>Prince Harry says paper&#39;s actions &#39;deeply troubling&#39;</title>
+      <link>https://www.rte.ie/news/uk/2026/0119/1553862-prince-harry-daily-mail/</link>
+      <description>
+        <![CDATA[Britain's Prince Harry has arrived for the start of the trial of his claim against the Daily Mail's publisher over allegations of unlawful information gathering.]]>
+      </description>
+      <source:markdown>Britain&#39;s Prince Harry has arrived for the start of the trial of his claim against the Daily Mail&#39;s publisher over allegations of unlawful information gathering.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/uk/2026/0119/1553862-prince-harry-daily-mail/</guid>
+    </item>    <item>
+      <title>What is the EU&#39;s anti-coercion &#39;bazooka&#39;?</title>
+      <link>https://www.rte.ie/news/world/2026/0119/1553845-eu-us-greenland/</link>
+      <description>
+        <![CDATA[Calls are growing louder for the European Union to deploy its powerful "anti-coercion instrument" in response to US President Donald Trump's threats to impose tariffs in the standoff over Greenland.]]>
+      </description>
+      <source:markdown>Calls are growing louder for the European Union to deploy its powerful &#34;anti-coercion instrument&#34; in response to US President Donald Trump&#39;s threats to impose tariffs in the standoff over Greenland.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0119/1553845-eu-us-greenland/</guid>
+    </item>    <item>
+      <title>Morocco to pursue legal action after AFCON final drama</title>
+      <link>https://www.rte.ie/sport/soccer/2026/0119/1553842-senegal-coach-jeered-by-journalists-after-afcon-drama/</link>
+      <description>
+        <![CDATA[Morocco have announced that they will pursue legal action after their chaotic Africa Cup of Nations final loss to Senegal.]]>
+      </description>
+      <source:markdown>Morocco have announced that they will pursue legal action after their chaotic Africa Cup of Nations final loss to Senegal.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/soccer/2026/0119/1553842-senegal-coach-jeered-by-journalists-after-afcon-drama/</guid>
+    </item>    <item>
+      <title>Pope: Finland offers example of ecumenical cooperation grounded in hope</title>
+      <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-address-finnish-ecumenical-delegation.html</link>
+      <description>
+        <![CDATA[<p>On the second day of the Week of Prayer for Christian Unity, Pope Leo XIV meets with a Finnish ecumenical delegation and praises the long-standing cooperation between Lutheran, Orthodox, and Catholic communities in Finland.</p>
+                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-address-finnish-ecumenical-delegation.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>On the second day of the Week of Prayer for Christian Unity, Pope Leo XIV meets with a Finnish ecumenical delegation and praises the long-standing cooperation between Lutheran, Orthodox, and Catholic communities in Finland.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-address-finnish-ecumenical-delegation.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-address-finnish-ecumenical-delegation.html</guid>
+    </item>    <item>
+      <title>Timeline: Major developments in Donald Trump&#39;s trade war</title>
+      <link>https://www.rte.ie/news/2026/0119/1553840-trump-trade-tariffs/</link>
+      <description>
+        <![CDATA[US President Donald Trump's tariff decisions since he took office in January 2025 have shocked financial markets and sent a wave of uncertainty through the global economy.]]>
+      </description>
+      <source:markdown>US President Donald Trump&#39;s tariff decisions since he took office in January 2025 have shocked financial markets and sent a wave of uncertainty through the global economy.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553840-trump-trade-tariffs/</guid>
+    </item>    <item>
+      <title>China&#39;s birth rate falls to lowest on record</title>
+      <link>https://www.rte.ie/news/2026/0119/1553829-china-birth-rate/</link>
+      <description>
+        <![CDATA[China's birth rate plunged last year to its lowest level on record, official data showed, as its population shrank for a fourth straight year despite efforts to curb the decline.]]>
+      </description>
+      <source:markdown>China&#39;s birth rate plunged last year to its lowest level on record, official data showed, as its population shrank for a fourth straight year despite efforts to curb the decline.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553829-china-birth-rate/</guid>
+    </item>    <item>
+      <title>World &#39;not secure&#39; unless US has Greenland, says Trump</title>
+      <link>https://www.rte.ie/news/2026/0119/1553825-greenland-trump/</link>
+      <description>
+        <![CDATA[Follow live developments as EU finance ministers are to meet in Brussels where the threat of tariffs on countries opposed to Donald Trump's plans for Greenland looms large.]]>
+      </description>
+      <source:markdown>Follow live developments as EU finance ministers are to meet in Brussels where the threat of tariffs on countries opposed to Donald Trump&#39;s plans for Greenland looms large.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553825-greenland-trump/</guid>
+    </item>    <item>
+      <title>Collective wealth of billionaires rises by $2.5 trillion</title>
+      <link>https://www.rte.ie/news/business/2026/0119/1553817-oxfam-billionaires-report/</link>
+      <description>
+        <![CDATA[Ireland's 11 billionaires are wealthier than 66% of the country's population, according to a new study from Oxfam.]]>
+      </description>
+      <source:markdown>Ireland&#39;s 11 billionaires are wealthier than 66% of the country&#39;s population, according to a new study from Oxfam.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/business/2026/0119/1553817-oxfam-billionaires-report/</guid>
+    </item>    <item>
+      <title>Lung health programme leads to several curative surgeries</title>
+      <link>https://www.rte.ie/news/health/2026/0119/1553788-lung-health-check/</link>
+      <description>
+        <![CDATA[Seven people have had curative surgery as part of the first pilot Lung Health Check Programme of its kind, funded by the Irish Cancer Society (ICS), with another seven patients due to have surgery in the next month.]]>
+      </description>
+      <source:markdown>Seven people have had curative surgery as part of the first pilot Lung Health Check Programme of its kind, funded by the Irish Cancer Society (ICS), with another seven patients due to have surgery in the next month.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/health/2026/0119/1553788-lung-health-check/</guid>
+    </item>    <item>
+      <title>Older adults becoming homeless a &#39;growing crisis&#39;</title>
+      <link>https://www.rte.ie/news/2026/0119/1553753-older-people-homelessness/</link>
+      <description>
+        <![CDATA[A report by the Simon Community has highlighted what it calls the "growing crisis" in the number of older adults becoming homeless.]]>
+      </description>
+      <source:markdown>A report by the Simon Community has highlighted what it calls the &#34;growing crisis&#34; in the number of older adults becoming homeless.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553753-older-people-homelessness/</guid>
+    </item>    <item>
+      <title>EU says &#39;priority is to engage not escalate&#39;</title>
+      <link>https://www.rte.ie/news/world/2026/0119/1553807-world-greenland/</link>
+      <description>
+        <![CDATA[The EU executive says it wants to engage with the US after President Donald Trump threatened tariffs on European countries in the standoff over Greenland, but was ready to act if needed.]]>
+      </description>
+      <source:markdown>The EU executive says it wants to engage with the US after President Donald Trump threatened tariffs on European countries in the standoff over Greenland, but was ready to act if needed.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0119/1553807-world-greenland/</guid>
+    </item>    <item>
+      <title>Govt to announce call for housing infrastructure projects</title>
+      <link>https://www.rte.ie/news/politics/2026/0119/1553804-housing-infrastructure-fund/</link>
+      <description>
+        <![CDATA[Minister for Housing James Browne will this week announce the first call for projects under the Government's new Housing Infrastructure Investment Fund.]]>
+      </description>
+      <source:markdown>Minister for Housing James Browne will this week announce the first call for projects under the Government&#39;s new Housing Infrastructure Investment Fund.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/politics/2026/0119/1553804-housing-infrastructure-fund/</guid>
+    </item>    <item>
+      <title>Death toll in Spanish train collision rises to 39</title>
+      <link>https://www.rte.ie/news/europe/2026/0119/1553800-spain-train-collision/</link>
+      <description>
+        <![CDATA[At least 39 people were killed ⁠after a high-speed train derailed and collided with an oncoming one in southern Spain last night, marking the worst railway accident in the country since 2013.]]>
+      </description>
+      <source:markdown>At least 39 people were killed ⁠after a high-speed train derailed and collided with an oncoming one in southern Spain last night, marking the worst railway accident in the country since 2013.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/europe/2026/0119/1553800-spain-train-collision/</guid>
+    </item>    <item>
+      <title>Humane asylum process for Ireland needed - review</title>
+      <link>https://www.rte.ie/news/2026/0119/1553785-review-international-protection/</link>
+      <description>
+        <![CDATA[A review of the International Protection system by NGOs, academics, migrant representatives and the think-tank Social Justice Ireland has stated that a fair, timely and humane asylum process is essential.]]>
+      </description>
+      <source:markdown>A review of the International Protection system by NGOs, academics, migrant representatives and the think-tank Social Justice Ireland has stated that a fair, timely and humane asylum process is essential.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0119/1553785-review-international-protection/</guid>
+    </item>    <item>
+      <title>Serious concerns raised over Ireland&#39;s childcare system</title>
+      <link>https://www.rte.ie/news/ireland/2026/0119/1553794-child-law-project/</link>
+      <description>
+        <![CDATA[Serious concerns have been raised about Ireland's childcare system, with severe shortages of social workers and vulnerable children being left in unsuitable accommodation among the issues cited by the Child Law Project.]]>
+      </description>
+      <source:markdown>Serious concerns have been raised about Ireland&#39;s childcare system, with severe shortages of social workers and vulnerable children being left in unsuitable accommodation among the issues cited by the Child Law Project.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0119/1553794-child-law-project/</guid>
+    </item>    <item>
+      <title>AI adoption reshaping hiring - Morgan McKinley</title>
+      <link>https://www.rte.ie/news/ireland/2026/0119/1553786-ai-adoption-hiring/</link>
+      <description>
+        <![CDATA[The adoption of artificial intelligence (AI) by employers is reshaping jobs rather than removing them outright, according to a report from recruitment firm Morgan McKinley Ireland.]]>
+      </description>
+      <source:markdown>The adoption of artificial intelligence (AI) by employers is reshaping jobs rather than removing them outright, according to a report from recruitment firm Morgan McKinley Ireland.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0119/1553786-ai-adoption-hiring/</guid>
+    </item>    <item>
+      <title>Government to meet over Grok sexual abuse images</title>
+      <link>https://www.rte.ie/news/ireland/2026/0119/1553787-government-grok-meeting/</link>
+      <description>
+        <![CDATA[The Taoiseach, Tánaiste and Attorney General, as well as the Ministers for AI, Justice and Communications will meet today to discuss existing laws relating to the generation and sharing of sexual abuse images.]]>
+      </description>
+      <source:markdown>The Taoiseach, Tánaiste and Attorney General, as well as the Ministers for AI, Justice and Communications will meet today to discuss existing laws relating to the generation and sharing of sexual abuse images.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0119/1553787-government-grok-meeting/</guid>
+    </item>    <item>
+      <title>EU expected to act on Grok concerns in &#39;near future&#39;</title>
+      <link>https://www.rte.ie/news/ireland/2026/0119/1553787-grok-x/</link>
+      <description>
+        <![CDATA[A European Commission spokesperson has said it is analysing the Grok AI issue and there could be some movement on it "in the near future".]]>
+      </description>
+      <source:markdown>A European Commission spokesperson has said it is analysing the Grok AI issue and there could be some movement on it &#34;in the near future&#34;.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0119/1553787-grok-x/</guid>
+    </item>    <item>
+      <title>At least ten people dead after trains derail in Spain</title>
+      <link>https://www.rte.ie/news/world/2026/0118/1553790-spain-trains-derail/</link>
+      <description>
+        <![CDATA[At least 10 people have been killed and several injured after two trains collided in southern Spain, the emergency services said.]]>
+      </description>
+      <source:markdown>At least 10 people have been killed and several injured after two trains collided in southern Spain, the emergency services said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0118/1553790-spain-trains-derail/</guid>
+    </item>    <item>
+      <title>Man charged, another arrested over Derry murder</title>
+      <link>https://www.rte.ie/news/ulster/2026/0118/1553771-wayne-reid-court/</link>
+      <description>
+        <![CDATA[A 33-year-old man is due to appear before Coleraine Magistrate's Court tomorrow charged with the murder of Wayne Reid in Co Derry.]]>
+      </description>
+      <source:markdown>A 33-year-old man is due to appear before Coleraine Magistrate&#39;s Court tomorrow charged with the murder of Wayne Reid in Co Derry.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ulster/2026/0118/1553771-wayne-reid-court/</guid>
+    </item>    <item>
+      <title>Irish citizen detained in Russia over phone messages</title>
+      <link>https://www.rte.ie/news/ireland/2026/0118/1553763-irish-citizen-detained/</link>
+      <description>
+        <![CDATA[An Irish citizen has been detained by Russian authorities due to messages on his phone which expressed anti-Russian sentiment, according to his Ukrainian wife.]]>
+      </description>
+      <source:markdown>An Irish citizen has been detained by Russian authorities due to messages on his phone which expressed anti-Russian sentiment, according to his Ukrainian wife.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0118/1553763-irish-citizen-detained/</guid>
+    </item>    <item>
+      <title>English breaks Irish 800m indoor record in Luxembourg</title>
+      <link>https://www.rte.ie/sport/athletics/2026/0118/1553762-english-breaks-irish-800m-indoor-record-in-luxembourg/</link>
+      <description>
+        <![CDATA[Mark English made a flying start to the year by breaking his own national 800m indoor record in Luxembourg on Sunday.]]>
+      </description>
+      <source:markdown>Mark English made a flying start to the year by breaking his own national 800m indoor record in Luxembourg on Sunday.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/athletics/2026/0118/1553762-english-breaks-irish-800m-indoor-record-in-luxembourg/</guid>
+    </item>    <item>
+      <title>1,500 troops readied for potential Minnesota deployment</title>
+      <link>https://www.rte.ie/news/world/2026/0118/1553761-minnesota-troops-us/</link>
+      <description>
+        <![CDATA[The Pentagon has ordered about 1,500 active-duty soldiers in Alaska to prepare for a possible deployment to Minnesota, the site of large protests against the government's deportation drive, two US officials said.]]>
+      </description>
+      <source:markdown>The Pentagon has ordered about 1,500 active-duty soldiers in Alaska to prepare for a possible deployment to Minnesota, the site of large protests against the government&#39;s deportation drive, two US officials said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0118/1553761-minnesota-troops-us/</guid>
+    </item>    <item>
+      <title>Ukraine says held &#39;substantive&#39; talks with US</title>
       <link>https://www.rte.ie/news/2026/0118/1553750-ukraine-russia-strikes/</link>
       <description>
-        <![CDATA[More than 200,000 consumers in the Russian-held part of Ukraine's Zaporizhzhia region have been left without electricity, the Moscow-installed regional governor said, after a Ukrainian drone strike yesterday.]]>
+        <![CDATA[Ukraine has held "substantive" talks with US President Donald Trump's son-in-law Jared Kushner and envoy Steve Witkoff, with discussions expected to continue in Davos next week, Ukraine's security chief said.]]>
       </description>
-      <source:markdown>More than 200,000 consumers in the Russian-held part of Ukraine&#39;s Zaporizhzhia region have been left without electricity, the Moscow-installed regional governor said, after a Ukrainian drone strike yesterday.</source:markdown>
+      <source:markdown>Ukraine has held &#34;substantive&#34; talks with US President Donald Trump&#39;s son-in-law Jared Kushner and envoy Steve Witkoff, with discussions expected to continue in Davos next week, Ukraine&#39;s security chief said.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2026/0118/1553750-ukraine-russia-strikes/</guid>
     </item>    <item>
-      <title>Chile wildfires kill 16, tens of thousands evacuated</title>
+      <title>Chile wildfires kill 18, tens of thousands evacuated</title>
       <link>https://www.rte.ie/news/world/2026/0118/1553751-wilfires-chile-evacuations/</link>
       <description>
-        <![CDATA[Chilean President Gabriel Boric announced a state of catastrophe in two regions in the south of the country as wildfires forced at least 20,000 people to evacuate and left at least 16 people dead.]]>
+        <![CDATA[Chilean President Gabriel Boric announced a state of catastrophe in two regions in the south of the country as wildfires forced at least 20,000 people to evacuate and left at least 18 people dead.]]>
       </description>
-      <source:markdown>Chilean President Gabriel Boric announced a state of catastrophe in two regions in the south of the country as wildfires forced at least 20,000 people to evacuate and left at least 16 people dead.</source:markdown>
+      <source:markdown>Chilean President Gabriel Boric announced a state of catastrophe in two regions in the south of the country as wildfires forced at least 20,000 people to evacuate and left at least 18 people dead.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0118/1553751-wilfires-chile-evacuations/</guid>
     </item>    <item>
       <title>Decline in number and quality of saltmarshes in Ireland</title>
@@ -32,6 +422,30 @@
       <source:markdown>Saltmarshes are in decline all over the world, including in Ireland, which is seeing the size of its wetlands decreasing as well as a significant decline in the quality of the ecosystems.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2026/0118/1553746-saltmarshes-ireland/</guid>
     </item>    <item>
+      <title>Piers Morgan has hip replacement after fall in London</title>
+      <link>https://www.rte.ie/entertainment/2026/0118/1553748-piers-morgan-has-hip-replacement-after-fall-in-london/</link>
+      <description>
+        <![CDATA[TV presenter and journalist Piers Morgan is recovering from hip replacement surgery after he tripped on "a small step" in a London hotel restaurant.]]>
+      </description>
+      <source:markdown>TV presenter and journalist Piers Morgan is recovering from hip replacement surgery after he tripped on &#34;a small step&#34; in a London hotel restaurant.</source:markdown>
+      <guid>cid://https://www.rte.ie/entertainment/2026/0118/1553748-piers-morgan-has-hip-replacement-after-fall-in-london/</guid>
+    </item>    <item>
+      <title>Tributes after death of woman sleeping rough in Dublin</title>
+      <link>https://www.rte.ie/news/dublin/2026/0118/1553747-women-death-dublin/</link>
+      <description>
+        <![CDATA[The Dublin coroner has been informed after a woman in her 40s who had been sleeping rough in Dublin's city centre died on Friday.]]>
+      </description>
+      <source:markdown>The Dublin coroner has been informed after a woman in her 40s who had been sleeping rough in Dublin&#39;s city centre died on Friday.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/dublin/2026/0118/1553747-women-death-dublin/</guid>
+    </item>    <item>
+      <title>Tributes after death of woman sleeping rough in Dublin</title>
+      <link>https://www.rte.ie/news/2026/0118/1553747-women-death-dublin/</link>
+      <description>
+        <![CDATA[Tributes have been paid to a woman in her 40s who had been sleeping rough in Dublin city centre, who died on Friday.]]>
+      </description>
+      <source:markdown>Tributes have been paid to a woman in her 40s who had been sleeping rough in Dublin city centre, who died on Friday.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0118/1553747-women-death-dublin/</guid>
+    </item>    <item>
       <title>Ballygunner see off Loughrea to claim All-Ireland crown</title>
       <link>https://www.rte.ie/sport/hurling/2026/0118/1553704-ballygunner-see-off-loughrea-to-claim-all-ireland-crown/</link>
       <description>
@@ -40,13 +454,21 @@
       <source:markdown>There were no Harry Ruddle-style heroics required this time from Ballygunner, who ground Loughrea down with a powerful second-half display to regain the AIB All-Ireland club SHC title after a 1-20 to 1-14 victory at Croke Park.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/hurling/2026/0118/1553704-ballygunner-see-off-loughrea-to-claim-all-ireland-crown/</guid>
     </item>    <item>
-      <title>SFC club final: Daingean Uí Chúis v St Brigid&#39;s updates</title>
+      <title>Daingean Uí Chúis 0-23 St Brigid&#39;s 1-19 AET recap</title>
       <link>https://www.rte.ie/sport/football/2026/0118/1553712-sfc-club-final-daingean-ui-chuis-v-st-brigids-updates/</link>
       <description>
-        <![CDATA[Follow what happens as the Munster and Connacht champions battle it out for the Andy Merrigan Cup.]]>
+        <![CDATA[Read how it all unfolded as Daingean Uí Chúis are crowned All-Ireland champions for the first time.]]>
       </description>
-      <source:markdown>Follow what happens as the Munster and Connacht champions battle it out for the Andy Merrigan Cup.</source:markdown>
+      <source:markdown>Read how it all unfolded as Daingean Uí Chúis are crowned All-Ireland champions for the first time.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/football/2026/0118/1553712-sfc-club-final-daingean-ui-chuis-v-st-brigids-updates/</guid>
+    </item>    <item>
+      <title>Boy critically injured in Sydney Harbour shark attack</title>
+      <link>https://www.rte.ie/news/2026/0118/1553740-shark-attack-sydney/</link>
+      <description>
+        <![CDATA[A teenage boy was critically injured after being attacked by a shark while swimming in Sydney Harbour, leaving him with serious leg injuries, authorities said.]]>
+      </description>
+      <source:markdown>A teenage boy was critically injured after being attacked by a shark while swimming in Sydney Harbour, leaving him with serious leg injuries, authorities said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0118/1553740-shark-attack-sydney/</guid>
     </item>    <item>
       <title>Club hurling recap: Ballygunner 1-20 Loughrea 1-14</title>
       <link>https://www.rte.ie/sport/hurling/2026/0118/1553710-club-hurling-final-ballygunner-v-loughrea-updates/</link>
@@ -56,12 +478,12 @@
       <source:markdown>Relive the action as Ballygunner landed their second All-Ireland club hurling title, seeing off Loughrea at Croke Park.</source:markdown>
       <guid>cid://https://www.rte.ie/sport/hurling/2026/0118/1553710-club-hurling-final-ballygunner-v-loughrea-updates/</guid>
     </item>    <item>
-      <title>Eight European nations back Greenland, Denmark</title>
+      <title>As it happened: US criticises European &#39;weakness&#39;</title>
       <link>https://www.rte.ie/news/2026/0118/1553723-europe-us-tariffs-live-blog/</link>
       <description>
-        <![CDATA[Keep up to date with the latest developments and reactions after Donald Trump stepped up threats of taking over Greenland and announced a series of tariffs against European countries]]>
+        <![CDATA[Look back on developments and reactions after Donald Trump stepped up threats of taking over Greenland and announced a series of tariffs against European countries.]]>
       </description>
-      <source:markdown>Keep up to date with the latest developments and reactions after Donald Trump stepped up threats of taking over Greenland and announced a series of tariffs against European countries</source:markdown>
+      <source:markdown>Look back on developments and reactions after Donald Trump stepped up threats of taking over Greenland and announced a series of tariffs against European countries.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2026/0118/1553723-europe-us-tariffs-live-blog/</guid>
     </item>    <item>
       <title>More than 600 gardaí injured in line of duty last year</title>
@@ -71,6 +493,15 @@
       </description>
       <source:markdown>More than 600 gardaí were injured in the line of duty last year with more than half sustaining an injury as a result of an assault.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2026/0118/1553724-garda-injuries/</guid>
+    </item>    <item>
+      <title>UN rights chief bears witness to trauma and resilience in Sudan</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166785</link>
+      <description>
+        <![CDATA[Nearly three years of war have plunged Sudan “into an abyss of unimaginable dimensions” and human rights must be at the centre of efforts to end the fighting and build lasting peace, the UN High Commissioner for Human Rights said on Sunday in Nairobi.]]>
+      </description>
+      <source:markdown>Nearly three years of war have plunged Sudan “into an abyss of unimaginable dimensions” and human rights must be at the centre of efforts to end the fighting and build lasting peace, the UN High Commissioner for Human Rights said on Sunday in Nairobi.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/07-08-2025-UN-Women-Sudan2.jpg/image560x340cropped.jpg" length="49324" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166785</guid>
     </item>    <item>
       <title>Pope: Let us intensify prayer for the full unity of Christians</title>
       <link>https://www.vaticannews.va/en/pope/news/2026-01/pope-let-us-intensify-prayer-for-the-full-unity-of-christians.html</link>
@@ -132,6 +563,14 @@
       <source:markdown>A man aged in his late teens has died following a single-vehicle road crash in Loughrea, Co Galway.</source:markdown>
       <guid>cid://https://www.rte.ie/news/connacht/2026/0118/1553695-fatal-collision-galway/</guid>
     </item>    <item>
+      <title>Teenager dies in single-vehicle road crash in Co Galway</title>
+      <link>https://www.rte.ie/news/connacht/2026/0118/1553695-loughrea-galway-rtc/</link>
+      <description>
+        <![CDATA[A man in his late teens has died following a single-vehicle road crash in Loughrea, Co Galway.]]>
+      </description>
+      <source:markdown>A man in his late teens has died following a single-vehicle road crash in Loughrea, Co Galway.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/connacht/2026/0118/1553695-loughrea-galway-rtc/</guid>
+    </item>    <item>
       <title>Why Grok restrictions won&#39;t stop society&#39;s latest AI scourge</title>
       <link>https://www.rte.ie/news/primetime/2026/0118/1553516-grok-restrictions/</link>
       <description>
@@ -148,12 +587,12 @@
       <source:markdown>The Government is adamant that the one-off payments are consigned to history. It is now an almost sacred policy point that is not up for negotiation, writes Mícheál Lehane.</source:markdown>
       <guid>cid://https://www.rte.ie/news/analysis-and-comment/2026/0118/1553667-analysis-government-payments/</guid>
     </item>    <item>
-      <title>Countries targeted by US tariff threats to &#39;stand united&#39;</title>
+      <title>EU states hold off on retaliatory measures against US</title>
       <link>https://www.rte.ie/news/europe/2026/0118/1553697-eu-envoys-trump/</link>
       <description>
-        <![CDATA[The countries targeted by US President Donald Trump's threat of tariffs over their opposition to his designs on Greenland will "stand united" in their response, they said in a joint statement.]]>
+        <![CDATA[EU member states have held off imposing immediate retaliatory trade measures against the United States, including the use of the EU's toughest response weapon, known as the Anti Coercion Instrument (ACI), according to an EU diplomat.]]>
       </description>
-      <source:markdown>The countries targeted by US President Donald Trump&#39;s threat of tariffs over their opposition to his designs on Greenland will &#34;stand united&#34; in their response, they said in a joint statement.</source:markdown>
+      <source:markdown>EU member states have held off imposing immediate retaliatory trade measures against the United States, including the use of the EU&#39;s toughest response weapon, known as the Anti Coercion Instrument (ACI), according to an EU diplomat.</source:markdown>
       <guid>cid://https://www.rte.ie/news/europe/2026/0118/1553697-eu-envoys-trump/</guid>
     </item>    <item>
       <title>Watch: Panto dame leaving Gaiety behind after 34 years</title>
@@ -172,12 +611,12 @@
       <source:markdown>Poland&#39;s government is currently posting 17 million copies of a &#39;Safety Guide&#39; to every household in the country, explaining how to prepare for times of conflict and crisis. RTÉ News&#39; Eastern Europe Reporter Liam Nolan asked people in Warsaw what they thought about the booklet.</source:markdown>
       <guid>cid://https://www.rte.ie/news/europe/2026/0118/1553662-what-is-inside-polands-new-safety-guide/</guid>
     </item>    <item>
-      <title>Syrian Government, SDF agree immediate ceasefire</title>
+      <title>Syrian government, SDF agree immediate ceasefire</title>
       <link>https://www.rte.ie/news/world/2026/0118/1553690-syria-army/</link>
       <description>
-        <![CDATA[The Syrian Government and US-backed Syrian Defence Forces have agreed an immediate ceasefire on all fronts, Syrian state media has reported.]]>
+        <![CDATA[The Syrian government and US-backed Syrian Defence Forces have agreed an immediate ceasefire on all fronts, Syrian state media has reported.]]>
       </description>
-      <source:markdown>The Syrian Government and US-backed Syrian Defence Forces have agreed an immediate ceasefire on all fronts, Syrian state media has reported.</source:markdown>
+      <source:markdown>The Syrian government and US-backed Syrian Defence Forces have agreed an immediate ceasefire on all fronts, Syrian state media has reported.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0118/1553690-syria-army/</guid>
     </item>    <item>
       <title>Europe will remain united - EU chief on Greenland tariffs</title>
@@ -8765,408 +9204,6 @@ China&#39;s military on Monday dispatched air, navy and rocket troops to conduct
       </description>
       <source:markdown>Almost half a century ago, overcrowding and a lack of bed capacity was identified as a major issue at University Hospital Limerick, a new document released under the State Papers shows.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ireland/2025/1229/1550488-state-papers-uhl/</guid>
-    </item>    <item>
-      <title>North Korea test-fires long-range cruise missiles</title>
-      <link>https://www.rte.ie/news/2025/1228/1550763-north-korea-missile/</link>
-      <description>
-        <![CDATA[North Korea has test-fired two strategic long-range cruise missiles into the sea according to state media.]]>
-      </description>
-      <source:markdown>North Korea has test-fired two strategic long-range cruise missiles into the sea according to state media.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1228/1550763-north-korea-missile/</guid>
-    </item>    <item>
-      <title>Smyth instrumental as Saints turn over Titans</title>
-      <link>https://www.rte.ie/sport/us-sport/2025/1228/1550753-smyth-instrumental-as-saints-turn-over-titans/</link>
-      <description>
-        <![CDATA[Charlie Smyth kicked two field goals and four extra points as the New Orleans Saints won their fourth consecutive game, defeating the Tennessee Titans 34-26 in Nashville.]]>
-      </description>
-      <source:markdown>Charlie Smyth kicked two field goals and four extra points as the New Orleans Saints won their fourth consecutive game, defeating the Tennessee Titans 34-26 in Nashville.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/us-sport/2025/1228/1550753-smyth-instrumental-as-saints-turn-over-titans/</guid>
-    </item>    <item>
-      <title>At least 13 killed after train derails in southern Mexico</title>
-      <link>https://www.cbc.ca/news/world/mexico-trail-derailment-9.7028963?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/15e5bd62-18ae-4975-a418-58558a0ec0d9,1766975583020/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C198%2C3800%2C2137%29%3BResize%3D%28620%29' alt='Emergency responders help passengers off a train.' width='620' height='349' title='Mexican Army soldiers and Civil Protection members rescue passengers from the Interoceanic train that derailed in Nizanda, Oaxaca state, on the route to Coatzacoalcos, Mexico, on December 28, 2025. At least 20 people were injured on December 28, 2025, after a train crashed in the southern Mexican state of Oaxaca, authorities said. (Photo by Rusvel RASGADO / AFP via Getty Images)'/><p>The governor of Oaxaca, Salomon Jara Cruz, expressed condolences to the families of those killed in the accident and said state authorities were co-ordinating with federal agencies to assist those affected.</p>]]>
-      </description>
-      <source:markdown>![Emergency responders help passengers off a train.](https://i.cbc.ca/ais/15e5bd62-18ae-4975-a418-58558a0ec0d9,1766975583020/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C198%2C3800%2C2137%29%3BResize%3D%28620%29)
-
-The governor of Oaxaca, Salomon Jara Cruz, expressed condolences to the families of those killed in the accident and said state authorities were co-ordinating with federal agencies to assist those affected.</source:markdown>
-      <guid>cid://9.7028963</guid>
-    </item>    <item>
-      <title>Watch: Coca-Cola Christmas advert recreated in Conamara</title>
-      <link>https://www.rte.ie/news/regional/2025/1228/1550741-coca-cola-truck-run/</link>
-      <description>
-        <![CDATA[More than 100 illuminated trucks have recreated the iconic Coca-Cola Christmas truck advert in a local charity drive in Co Galway.]]>
-      </description>
-      <source:markdown>More than 100 illuminated trucks have recreated the iconic Coca-Cola Christmas truck advert in a local charity drive in Co Galway.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/regional/2025/1228/1550741-coca-cola-truck-run/</guid>
-    </item>    <item>
-      <title>Kyrgios beats Sabalenka in &#39;Battle of the Sexes&#39; match</title>
-      <link>https://www.rte.ie/sport/tennis/2025/1228/1550689-kyrgios-beats-sabalenka-in-battle-of-the-sexes-match/</link>
-      <description>
-        <![CDATA[Nick Kyrgios beat Aryna Sabalenka 6‑3 6‑3 in a "Battle of the Sexes" exhibition match in Dubai's Coca-Cola Arena.]]>
-      </description>
-      <source:markdown>Nick Kyrgios beat Aryna Sabalenka 6‑3 6‑3 in a &#34;Battle of the Sexes&#34; exhibition match in Dubai&#39;s Coca-Cola Arena.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/tennis/2025/1228/1550689-kyrgios-beats-sabalenka-in-battle-of-the-sexes-match/</guid>
-    </item>    <item>
-      <title>As it happened: Trump, Zelensky talks in Florida</title>
-      <link>https://www.rte.ie/news/2025/1228/1550743-trump-zelensky-meeting/</link>
-      <description>
-        <![CDATA[Follow live updates as US President Donald Trump meets Ukrainian President Volodymyr Zelensky in Florida.]]>
-      </description>
-      <source:markdown>Follow live updates as US President Donald Trump meets Ukrainian President Volodymyr Zelensky in Florida.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1228/1550743-trump-zelensky-meeting/</guid>
-    </item>    <item>
-      <title>Paraglider rescued from hotel roof in Co Fermanagh</title>
-      <link>https://www.rte.ie/news/regional/2025/1228/1550744-paraglider-rescue-hotel/</link>
-      <description>
-        <![CDATA[Fire crews have rescued a paraglider who crashed into the roof of a Co Fermanagh hotel.]]>
-      </description>
-      <source:markdown>Fire crews have rescued a paraglider who crashed into the roof of a Co Fermanagh hotel.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/regional/2025/1228/1550744-paraglider-rescue-hotel/</guid>
-    </item>    <item>
-      <title>Two men in 80s die after house fire in Easkey, Co Sligo</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1550733-two-men-in-80s-die-after-house-fire-in-easkey-co-sligo/</link>
-      <description>
-        <![CDATA[Two men in their 80s have died following a house fire near Easkey, Co Sligo.]]>
-      </description>
-      <source:markdown>Two men in their 80s have died following a house fire near Easkey, Co Sligo.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1550733-two-men-in-80s-die-after-house-fire-in-easkey-co-sligo/</guid>
-    </item>    <item>
-      <title>Brothers in their 80s die after house fire in Co Sligo</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1550733-house-fire-sligo/</link>
-      <description>
-        <![CDATA[Two men in their 80s have died following a house fire near Easkey, Co Sligo.]]>
-      </description>
-      <source:markdown>Two men in their 80s have died following a house fire near Easkey, Co Sligo.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1550733-house-fire-sligo/</guid>
-    </item>    <item>
-      <title>Extreme weather events to become more frequent in Ireland</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1550730-global-warming-levels/</link>
-      <description>
-        <![CDATA[2025 was the year climate scientists agreed it would be impossible to limit global warming to 1.5C above pre-industrial levels.]]>
-      </description>
-      <source:markdown>2025 was the year climate scientists agreed it would be impossible to limit global warming to 1.5C above pre-industrial levels.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1550730-global-warming-levels/</guid>
-    </item>    <item>
-      <title>Zelenskyy seeks security guarantees as peace talks continue</title>
-      <link>https://www.vaticannews.va/en/world/news/2025-12/zelenskyy-seeks-security-guarantees-as-peace-talks-continue.html</link>
-      <description>
-        <![CDATA[<p>Ukrainian President Volodymyr Zelensky is holding talks with former U.S. President Donald Trump at his Florida residence, as part of renewed efforts to end Russia’s war against Ukraine. </p>
-                            <p><a href="https://www.vaticannews.va/en/world/news/2025-12/zelenskyy-seeks-security-guarantees-as-peace-talks-continue.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Ukrainian President Volodymyr Zelensky is holding talks with former U.S. President Donald Trump at his Florida residence, as part of renewed efforts to end Russia’s war against Ukraine.
-
-[Read all](https://www.vaticannews.va/en/world/news/2025-12/zelenskyy-seeks-security-guarantees-as-peace-talks-continue.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/world/news/2025-12/zelenskyy-seeks-security-guarantees-as-peace-talks-continue.html</guid>
-    </item>    <item>
-      <title>Watch: Skiers glide down slopes as Mount Etna erupts</title>
-      <link>https://www.rte.ie/news/world/2025/1228/1550727-mount-etna/</link>
-      <description>
-        <![CDATA[Skiers took advantage of the Christmas holiday season by ski mountaineering on the slopes of Mount Etna, while Italy's most active volcano continued to erupt unabated.]]>
-      </description>
-      <source:markdown>Skiers took advantage of the Christmas holiday season by ski mountaineering on the slopes of Mount Etna, while Italy&#39;s most active volcano continued to erupt unabated.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1228/1550727-mount-etna/</guid>
-    </item>    <item>
-      <title>Pilots killed after 2 helicopters collide mid-air in New Jersey</title>
-      <link>https://www.cbc.ca/news/world/helicopter-collision-new-jersey-9.7028850?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/655daf9e-fd0e-4197-b18d-1ee5438678c3,1766949650260/full/max/0/default.jpg?im=Crop%2Crect%3D%2825%2C0%2C2974%2C1672%29%3BResize%3D%28620%29' alt='An aerial view shows people standing near a crashed and damaged helicopter.' width='620' height='349' title='Authorities look over the scene after two helicopters crashed in Hammonton, N.J., on Sunday, Dec. 28, 2025. (WPVI-TV/6ABC via AP)'/><p>The U.S. Federal Aviation Administration (FAA) described the crash as a mid-air collision between an Enstrom F-28A helicopter and Enstrom 280C helicopter over Hammonton Municipal Airport. Only the pilots were on board each aircraft.</p>]]>
-      </description>
-      <source:markdown>![An aerial view shows people standing near a crashed and damaged helicopter.](https://i.cbc.ca/ais/655daf9e-fd0e-4197-b18d-1ee5438678c3,1766949650260/full/max/0/default.jpg?im=Crop%2Crect%3D%2825%2C0%2C2974%2C1672%29%3BResize%3D%28620%29)
-
-The U.S. Federal Aviation Administration (FAA) described the crash as a mid-air collision between an Enstrom F-28A helicopter and Enstrom 280C helicopter over Hammonton Municipal Airport. Only the pilots were on board each aircraft.</source:markdown>
-      <guid>cid://9.7028850</guid>
-    </item>    <item>
-      <title>Central African Republic votes amid term limit controversy</title>
-      <link>https://www.vaticannews.va/en/world/news/2025-12/central-african-republic-votes-amid-term-limit-controversy.html</link>
-      <description>
-        <![CDATA[<p>Citizens in the Central African Republic are choosing representatives at the presidential, legislative, regional, and municipal levels in an election marked by controversy.</p>
-                            <p><a href="https://www.vaticannews.va/en/world/news/2025-12/central-african-republic-votes-amid-term-limit-controversy.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Citizens in the Central African Republic are choosing representatives at the presidential, legislative, regional, and municipal levels in an election marked by controversy.
-
-[Read all](https://www.vaticannews.va/en/world/news/2025-12/central-african-republic-votes-amid-term-limit-controversy.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/world/news/2025-12/central-african-republic-votes-amid-term-limit-controversy.html</guid>
-    </item>    <item>
-      <title>Somalia criticises Israeli recognition of Somaliland</title>
-      <link>https://www.rte.ie/news/world/2025/1228/1550719-somalia-criticises-israeli-recognition-of-somaliland/</link>
-      <description>
-        <![CDATA[Israel's recognition of the breakaway region of Somaliland "is (a) threat to the security and stability of the world and the region," Somali President Hassan Sheikh Mohamud has told an emergency parliamentary session.]]>
-      </description>
-      <source:markdown>Israel&#39;s recognition of the breakaway region of Somaliland &#34;is (a) threat to the security and stability of the world and the region,&#34; Somali President Hassan Sheikh Mohamud has told an emergency parliamentary session.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1228/1550719-somalia-criticises-israeli-recognition-of-somaliland/</guid>
-    </item>    <item>
-      <title>In Bethlehem, a religious orphanage gives love to children without families</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-12/bethlehem-orphanage-charity-religious-sisters-hope.html</link>
-      <description>
-        <![CDATA[<p>The Daughters of Charity of St. Vincent de Paul run the Orphanage of the Holy Family in Bethlehem, where children up to the age of 6 who have been orphaned or abandoned are welcomed. “Here we celebrate the living Jesus every day. We welcome Christ into our arms, because these children have been rejected by society,” says one of the sisters </p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-12/bethlehem-orphanage-charity-religious-sisters-hope.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>The Daughters of Charity of St. Vincent de Paul run the Orphanage of the Holy Family in Bethlehem, where children up to the age of 6 who have been orphaned or abandoned are welcomed. “Here we celebrate the living Jesus every day. We welcome Christ into our arms, because these children have been rejected by society,” says one of the sisters
-
-[Read all](https://www.vaticannews.va/en/church/news/2025-12/bethlehem-orphanage-charity-religious-sisters-hope.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-12/bethlehem-orphanage-charity-religious-sisters-hope.html</guid>
-    </item>    <item>
-      <title>5 things we learned from Day 2 of the State Papers</title>
-      <link>https://www.rte.ie/news/2025/1228/1550094-state-papers-today/</link>
-      <description>
-        <![CDATA[Here are five things we learned from Day 2 of this year's State Papers.]]>
-      </description>
-      <source:markdown>Here are five things we learned from Day 2 of this year&#39;s State Papers.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1228/1550094-state-papers-today/</guid>
-    </item>    <item>
-      <title>Cardinal Harvey closes Holy Door at St Paul&#39;s Outside the Walls</title>
-      <link>https://www.vaticannews.va/en/vatican-city/news/2025-12/cardinal-harvey-closes-holy-door-at-st-paul-s-outside-the-walls.html</link>
-      <description>
-        <![CDATA[<p>In his homily during Mass in the papal basilica of St Paul’s Outside the Walls, Cardinal James Harvey reaffirms the central theme of the Jubilee: a trusting confidence capable of passing through history without succumbing to “naïve optimism.”</p>
-                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-12/cardinal-harvey-closes-holy-door-at-st-paul-s-outside-the-walls.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>In his homily during Mass in the papal basilica of St Paul’s Outside the Walls, Cardinal James Harvey reaffirms the central theme of the Jubilee: a trusting confidence capable of passing through history without succumbing to “naïve optimism.”
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2025-12/cardinal-harvey-closes-holy-door-at-st-paul-s-outside-the-walls.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2025-12/cardinal-harvey-closes-holy-door-at-st-paul-s-outside-the-walls.html</guid>
-    </item>    <item>
-      <title>The 20-point proposal Zelensky will discuss with Trump</title>
-      <link>https://www.rte.ie/news/ukraine/2025/1228/1550699-ukraine-peace-proposal/</link>
-      <description>
-        <![CDATA[A draft 20-point framework peace proposal is expected to be at the centre of talks between Ukrainian President Volodymyr Zelensky and US President Donald Trump in Florida.]]>
-      </description>
-      <source:markdown>A draft 20-point framework peace proposal is expected to be at the centre of talks between Ukrainian President Volodymyr Zelensky and US President Donald Trump in Florida.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ukraine/2025/1228/1550699-ukraine-peace-proposal/</guid>
-    </item>    <item>
-      <title>Pope Leo at Angelus: Pray for peace and for families suffering due to war</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-12/pope-angelus-holy-family-egypt-light-hope.html</link>
-      <description>
-        <![CDATA[<p>During the Angelus on the Feast of the Holy Family of Jesus, Mary, and Joseph, Pope Leo reflects on how families can be a light in a society often marked by loneliness, despair, divisions, and conflicts. </p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-12/pope-angelus-holy-family-egypt-light-hope.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>During the Angelus on the Feast of the Holy Family of Jesus, Mary, and Joseph, Pope Leo reflects on how families can be a light in a society often marked by loneliness, despair, divisions, and conflicts.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2025-12/pope-angelus-holy-family-egypt-light-hope.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-12/pope-angelus-holy-family-egypt-light-hope.html</guid>
-    </item>    <item>
-      <title>Tepid early turnout in Myanmar election</title>
-      <link>https://www.rte.ie/news/world/2025/1228/1550695-myanmar-elections/</link>
-      <description>
-        <![CDATA[Voters in Myanmar cast their ballots in apparently low numbers in a general election, the first since a military coup toppled the last civilian government in 2021.]]>
-      </description>
-      <source:markdown>Voters in Myanmar cast their ballots in apparently low numbers in a general election, the first since a military coup toppled the last civilian government in 2021.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1228/1550695-myanmar-elections/</guid>
-    </item>    <item>
-      <title>Trump says Russia-Ukraine peace deal &#39;closer than ever&#39; but adds talks could &#39;also go poorly&#39;</title>
-      <link>https://www.cbc.ca/news/world/zelenskyy-hopes-trump-meeting-florida-9.7028757?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/95b13f05-41d3-466f-b94a-d596d68f8a81,1766965307978/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C3585%2C2016%29%3BResize%3D%28620%29' alt='Two people shake hands while standing at lecterns.' width='620' height='349' title='President Donald Trump and Ukraine&apos;s President Volodymyr Zelenskyy shake hands at the start of a joint news conference following a meeting at Trump&apos;s Mar-a-Lago club, Sunday, Dec. 28, 2025, in Palm Beach, Fla. (AP Photo/Alex Brandon)'/><p>U.S. President Donald Trump on Sunday insisted Ukraine and Russia are "closer than ever before" to a peace deal as he hosted Ukrainian President Volodymyr Zelenskyy at his Florida resort, but he acknowledged that negotiations could still break down and leave the war dragging on for years.
-        </p>]]>
-      </description>
-      <source:markdown>![Two people shake hands while standing at lecterns.](https://i.cbc.ca/ais/95b13f05-41d3-466f-b94a-d596d68f8a81,1766965307978/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C3585%2C2016%29%3BResize%3D%28620%29)
-
-U.S. President Donald Trump on Sunday insisted Ukraine and Russia are &#34;closer than ever before&#34; to a peace deal as he hosted Ukrainian President Volodymyr Zelenskyy at his Florida resort, but he acknowledged that negotiations could still break down and leave the war dragging on for years.</source:markdown>
-      <guid>cid://9.7028757</guid>
-    </item>    <item>
-      <title>French actress Brigitte Bardot dies aged 91</title>
-      <link>https://www.rte.ie/entertainment/2025/1228/1550690-brigitte-bardot/</link>
-      <description>
-        <![CDATA[French actress and model Brigitte Bardot has died at 91, her foundation has said.]]>
-      </description>
-      <source:markdown>French actress and model Brigitte Bardot has died at 91, her foundation has said.</source:markdown>
-      <guid>cid://https://www.rte.ie/entertainment/2025/1228/1550690-brigitte-bardot/</guid>
-    </item>    <item>
-      <title>Brigitte Bardot, icon of French cinema turned animal rights activist, dead at 91</title>
-      <link>https://www.cbc.ca/news/entertainment/brigitte-bardot-icon-french-cinema-dies-91-9.7028736?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/9484b138-bd9d-4e7f-9d54-db57f97939f4,1766930859235/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C2409%2C1355%29%3BResize%3D%28620%29' alt='A blonde woman is photographed in black and white wearing a large hat and holding the brim with both hands.' width='620' height='349' title=' French actress Brigitte Bardot poses with a huge sombrero she brought back from Mexico, as she arrives at Orly Airport in Paris, France, on May 27, 1965.'/><p>Brigitte Bardot, the French 1960s actress who became one of the greatest screen sirens of the 20th century and later an animal rights activist and far-right supporter, has died. She was 91.</p>]]>
-      </description>
-      <source:markdown>![A blonde woman is photographed in black and white wearing a large hat and holding the brim with both hands.](https://i.cbc.ca/ais/9484b138-bd9d-4e7f-9d54-db57f97939f4,1766930859235/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C2409%2C1355%29%3BResize%3D%28620%29)
-
-Brigitte Bardot, the French 1960s actress who became one of the greatest screen sirens of the 20th century and later an animal rights activist and far-right supporter, has died. She was 91.</source:markdown>
-      <guid>cid://9.7028736</guid>
-    </item>    <item>
-      <title>Jubilee Year concludes in particular Churches</title>
-      <link>https://www.vaticannews.va/en/vatican-city/news/2025-12/jubilee-year-concludes-in-particular-churches.html</link>
-      <description>
-        <![CDATA[<p>The Holy Year concludes on Sunday, 28 December – the Feast of the Holy Family – in accordance with "Spes non confundit," the Bull of the Indiction of the 2025 Jubilee. </p>
-                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-12/jubilee-year-concludes-in-particular-churches.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>The Holy Year concludes on Sunday, 28 December – the Feast of the Holy Family – in accordance with &#34;Spes non confundit,&#34; the Bull of the Indiction of the 2025 Jubilee.
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2025-12/jubilee-year-concludes-in-particular-churches.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2025-12/jubilee-year-concludes-in-particular-churches.html</guid>
-    </item>    <item>
-      <title>Kosovo votes in bid to end year-long political impasse</title>
-      <link>https://www.rte.ie/news/world/2025/1228/1550680-kosovo-election/</link>
-      <description>
-        <![CDATA[Polling is under way in Kosovo, with nationalist Prime Minister Albin Kurti's party seeking a majority to end a year-long political deadlock that has paralysed parliament and delayed international funding for Europe's youngest nation.]]>
-      </description>
-      <source:markdown>Polling is under way in Kosovo, with nationalist Prime Minister Albin Kurti&#39;s party seeking a majority to end a year-long political deadlock that has paralysed parliament and delayed international funding for Europe&#39;s youngest nation.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1228/1550680-kosovo-election/</guid>
-    </item>    <item>
-      <title>Bishop grants dispensation from Mass for faithful fearing immigration detention</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-12/bishop-grants-dispensation-from-mass-for-faithful-fearing-immigr.html</link>
-      <description>
-        <![CDATA[<p>The Bishop of the Diocese of Columbus, Ohio, USA, grants a dispensation to members of the faithful "who reasonably fear being detained" due to increased immigration enforcement activities in the area.</p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-12/bishop-grants-dispensation-from-mass-for-faithful-fearing-immigr.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>The Bishop of the Diocese of Columbus, Ohio, USA, grants a dispensation to members of the faithful &#34;who reasonably fear being detained&#34; due to increased immigration enforcement activities in the area.
-
-[Read all](https://www.vaticannews.va/en/church/news/2025-12/bishop-grants-dispensation-from-mass-for-faithful-fearing-immigr.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-12/bishop-grants-dispensation-from-mass-for-faithful-fearing-immigr.html</guid>
-    </item>    <item>
-      <title>Para push continues but much road left to travel</title>
-      <link>https://www.rte.ie/sport/paralympics/2025/1228/1549564-para-push-continues-but-much-road-left-to-travel/</link>
-      <description>
-        <![CDATA[Ireland's most decorated Paralympian Katie-George Dunlevy, retired Paralympic archer Kerrie Leonard and Paralympics Ireland CEO Stephen McNamara on where the Irish Paralympic movement stands in 2025.]]>
-      </description>
-      <source:markdown>Ireland&#39;s most decorated Paralympian Katie-George Dunlevy, retired Paralympic archer Kerrie Leonard and Paralympics Ireland CEO Stephen McNamara on where the Irish Paralympic movement stands in 2025.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/paralympics/2025/1228/1549564-para-push-continues-but-much-road-left-to-travel/</guid>
-    </item>    <item>
-      <title>Bulgaria adopts euro amid fear and uncertainty</title>
-      <link>https://www.rte.ie/news/world/2025/1228/1550678-bulgaria-euro-coins/</link>
-      <description>
-        <![CDATA[Bulgaria will become the 21st country to adopt the euro, but some believe the move could bring higher prices and add to instability in the European Union's poorest country.]]>
-      </description>
-      <source:markdown>Bulgaria will become the 21st country to adopt the euro, but some believe the move could bring higher prices and add to instability in the European Union&#39;s poorest country.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1228/1550678-bulgaria-euro-coins/</guid>
-    </item>    <item>
-      <title>The most-read sports stories of 2025</title>
-      <link>https://www.rte.ie/sport/soccer/2025/1228/1549285-the-most-read-sports-stories-of-2025/</link>
-      <description>
-        <![CDATA[As is now tradition, we have captured the top 10 stories on RTÉ.ie and the RTÉ News app for each month, to give you a sense of what made you click this year.]]>
-      </description>
-      <source:markdown>As is now tradition, we have captured the top 10 stories on RTÉ.ie and the RTÉ News app for each month, to give you a sense of what made you click this year.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/soccer/2025/1228/1549285-the-most-read-sports-stories-of-2025/</guid>
-    </item>    <item>
-      <title>What&#39;s on? TV and streaming tips for Sunday</title>
-      <link>https://www.rte.ie/entertainment/2025/1228/1550654-whats-on-tv-and-streaming-tips-for-sunday/</link>
-      <description>
-        <![CDATA[The road trip of a lifetime for Patrick Duffy, a tribute to the late Mary O'Rourke, and two must-see films are among the recommendations for tonight.]]>
-      </description>
-      <source:markdown>The road trip of a lifetime for Patrick Duffy, a tribute to the late Mary O&#39;Rourke, and two must-see films are among the recommendations for tonight.</source:markdown>
-      <guid>cid://https://www.rte.ie/entertainment/2025/1228/1550654-whats-on-tv-and-streaming-tips-for-sunday/</guid>
-    </item>    <item>
-      <title>&#39;Hope feels dangerous&#39; - mixed emotions for Gazan student</title>
-      <link>https://www.rte.ie/news/world/2025/1228/1550638-ghada-ashour-dcu/</link>
-      <description>
-        <![CDATA[Gratitude, fear and guilt - these are the three words Ghada Ashour chose to sum up how she felt about leaving Gaza in August this year.]]>
-      </description>
-      <source:markdown>Gratitude, fear and guilt - these are the three words Ghada Ashour chose to sum up how she felt about leaving Gaza in August this year.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2025/1228/1550638-ghada-ashour-dcu/</guid>
-    </item>    <item>
-      <title>Persisting issues in health among the year&#39;s big stories</title>
-      <link>https://www.rte.ie/news/2025/1228/1550172-health-challenges-issues-2025/</link>
-      <description>
-        <![CDATA[Many of the big health issues that dominated this year have been with us for some considerable time.]]>
-      </description>
-      <source:markdown>Many of the big health issues that dominated this year have been with us for some considerable time.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1228/1550172-health-challenges-issues-2025/</guid>
-    </item>    <item>
-      <title>Galway West set for captivating 2026 by-election battle</title>
-      <link>https://www.rte.ie/news/2025/1228/1550481-galway-west-by-election/</link>
-      <description>
-        <![CDATA[Next year's Galway West by-election should give an interesting snapshot of how a broad range of parties and individuals might be able to combine forces ahead of the next general election.]]>
-      </description>
-      <source:markdown>Next year&#39;s Galway West by-election should give an interesting snapshot of how a broad range of parties and individuals might be able to combine forces ahead of the next general election.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1228/1550481-galway-west-by-election/</guid>
-    </item>    <item>
-      <title>Bricked up: Could your smart home device stop working?</title>
-      <link>https://www.rte.ie/news/business/2025/1228/1550424-smart-home/</link>
-      <description>
-        <![CDATA[Santa might have bought you that smart device you've been wanting all year, but there's no guarantee it will last you all that long, writes Adam Maguire.]]>
-      </description>
-      <source:markdown>Santa might have bought you that smart device you&#39;ve been wanting all year, but there&#39;s no guarantee it will last you all that long, writes Adam Maguire.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/business/2025/1228/1550424-smart-home/</guid>
-    </item>    <item>
-      <title>Lord&#39;s Day Reflection: The blessings of family life</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-12/gospel-reflection-fr-luke-28-decemnber-family.html</link>
-      <description>
-        <![CDATA[<p>As the Church marks the Feast of the Holy Family, Fr Luke Gregory reflects on how divine guidance shepherds families through challenges.
-        </p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-12/gospel-reflection-fr-luke-28-decemnber-family.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>As the Church marks the Feast of the Holy Family, Fr Luke Gregory reflects on how divine guidance shepherds families through challenges.
-
-[Read all](https://www.vaticannews.va/en/church/news/2025-12/gospel-reflection-fr-luke-28-decemnber-family.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-12/gospel-reflection-fr-luke-28-decemnber-family.html</guid>
-    </item>    <item>
-      <title>&#39;One or two thorny issues&#39; remain in Ukraine talks</title>
-      <link>https://www.rte.ie/news/ukraine/2025/1228/1550673-ukraine-russia/</link>
-      <description>
-        <![CDATA[US President Donald Trump said "a lot of progress" was made during talks with Ukrainian President Volodymyr Zelensky at his Mar-a-Lago estate in Florida today. However, "one or two thorny issues" remain.]]>
-      </description>
-      <source:markdown>US President Donald Trump said &#34;a lot of progress&#34; was made during talks with Ukrainian President Volodymyr Zelensky at his Mar-a-Lago estate in Florida today. However, &#34;one or two thorny issues&#34; remain.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ukraine/2025/1228/1550673-ukraine-russia/</guid>
-    </item>    <item>
-      <title>How to explain the 1995 divorce referendum to Vatican?</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1549798-state-papers-divorce/</link>
-      <description>
-        <![CDATA[Ireland's ambassador to the Holy See was given a specific briefing on how to explain the reasons for the 1995 divorce referendum to the Vatican.]]>
-      </description>
-      <source:markdown>Ireland&#39;s ambassador to the Holy See was given a specific briefing on how to explain the reasons for the 1995 divorce referendum to the Vatican.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1549798-state-papers-divorce/</guid>
-    </item>    <item>
-      <title>Chinese panda&#39;s Dublin trip may have led to its death</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1549849-state-papers-pandas/</link>
-      <description>
-        <![CDATA[Chinese officials suggested that a trip by a giant panda to Dublin Zoo may have contributed to its death, according to a new file released under the State Papers.]]>
-      </description>
-      <source:markdown>Chinese officials suggested that a trip by a giant panda to Dublin Zoo may have contributed to its death, according to a new file released under the State Papers.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1549849-state-papers-pandas/</guid>
-    </item>    <item>
-      <title>Telecom companies opposed govt plan to shut down networks</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1549826-state-papers-telecom/</link>
-      <description>
-        <![CDATA[Government plans to temporarily block mobile phone networks to prevent a bomb being set off in Northern Ireland by a call or text message in the Republic were opposed by some telecom companies due to the impact on customers and potential technology costs involved.]]>
-      </description>
-      <source:markdown>Government plans to temporarily block mobile phone networks to prevent a bomb being set off in Northern Ireland by a call or text message in the Republic were opposed by some telecom companies due to the impact on customers and potential technology costs involved.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1549826-state-papers-telecom/</guid>
-    </item>    <item>
-      <title>Republicans tried to create &#39;no-go&#39; areas for Protestants</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1550104-state-papers-loyalist-commission/</link>
-      <description>
-        <![CDATA[Republicans in rural parts of Northern Ireland tried to create "no-go" areas for Protestants, according to new files released to the National Archive as part of the State Papers.]]>
-      </description>
-      <source:markdown>Republicans in rural parts of Northern Ireland tried to create &#34;no-go&#34; areas for Protestants, according to new files released to the National Archive as part of the State Papers.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1550104-state-papers-loyalist-commission/</guid>
-    </item>    <item>
-      <title>Concern for NI peace process after 9/11 attacks</title>
-      <link>https://www.rte.ie/news/politics/2025/1228/1549819-state-papers-peace-process/</link>
-      <description>
-        <![CDATA[How US politicians viewed the Northern Ireland peace process following the September 11 attacks in 2001 was a matter of concern for Irish officials, according to a new file released under the State Papers.]]>
-      </description>
-      <source:markdown>How US politicians viewed the Northern Ireland peace process following the September 11 attacks in 2001 was a matter of concern for Irish officials, according to a new file released under the State Papers.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/politics/2025/1228/1549819-state-papers-peace-process/</guid>
-    </item>    <item>
-      <title>1995 Jewish cemetery attack caused govt serious concern</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1549842-jewish-museum-limerick/</link>
-      <description>
-        <![CDATA[International coverage of an attack on a Jewish cemetery in Co Limerick where a blue swastika was painted on a gate was a matter of serious concern for government in September 1995, new State Papers reveal.]]>
-      </description>
-      <source:markdown>International coverage of an attack on a Jewish cemetery in Co Limerick where a blue swastika was painted on a gate was a matter of serious concern for government in September 1995, new State Papers reveal.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1549842-jewish-museum-limerick/</guid>
-    </item>    <item>
-      <title>1995 Jewish cemetery attack caused govt serious concern</title>
-      <link>https://www.rte.ie/news/ireland/2025/1228/1549842-state-papers-jewish-museum-limerick/</link>
-      <description>
-        <![CDATA[International coverage of an attack on a Jewish cemetery in Co Limerick, where a blue swastika was painted on a gate, was a matter of serious concern for the government in September 1995, new State Papers reveal.]]>
-      </description>
-      <source:markdown>International coverage of an attack on a Jewish cemetery in Co Limerick, where a blue swastika was painted on a gate, was a matter of serious concern for the government in September 1995, new State Papers reveal.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2025/1228/1549842-state-papers-jewish-museum-limerick/</guid>
-    </item>    <item>
-      <title>Explainer: What are the State Papers?</title>
-      <link>https://www.rte.ie/news/2025/1228/1550670-papers-explainer-update/</link>
-      <description>
-        <![CDATA[The State Papers include letters, communications, private briefing notes, secret government documents, fax messages and e-mails relating to stories from the past.]]>
-      </description>
-      <source:markdown>The State Papers include letters, communications, private briefing notes, secret government documents, fax messages and e-mails relating to stories from the past.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2025/1228/1550670-papers-explainer-update/</guid>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,45 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>18 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>19 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best things to do this week in LA and SoCal: Jan. 19-22</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-events-weekly-los-angeles-southern-california-january-19-22</link>
+      <description>
+        <![CDATA[Patrick Page takes on Shakespeare’s villains, a rock & roll sleaze show, The Puffy Chair and more of the best things to do this week.]]>
+      </description>
+      <source:markdown>Patrick Page takes on Shakespeare’s villains, a rock &#38; roll sleaze show, The Puffy Chair and more of the best things to do this week.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-d23a-d3cf-a9db-f6fa7dea0000</guid>
+    </item>    <item>
+      <title>The state cut a program that supports people with disabilities in disasters. Advocates are alarmed</title>
+      <link>https://laist.com/news/climate-environment/state-cuts-program-for-people-with-disabilities-in-disasters-advocates-alarmed</link>
+      <description>
+        <![CDATA[Disability advocates say the Disability Disaster Access and Resources program, also known as DDAR, should be expanded, not cut.]]>
+      </description>
+      <source:markdown>Disability advocates say the Disability Disaster Access and Resources program, also known as DDAR, should be expanded, not cut.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-c859-d3cf-a9db-fcfb89720000</guid>
+    </item>    <item>
+      <title>Sunday Taquitos #11: Rock Bottom (?)</title>
+      <link>https://lataco.com/sunday-taquitos-11-rock-bottom</link>
+      <description>
+        <![CDATA[<p>It’s a good question. Sunday Taquitos! Art by Ivan Ehlers.</p>
+        <p>The post <a href="https://lataco.com/sunday-taquitos-11-rock-bottom">Sunday Taquitos #11: Rock Bottom (?)</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>It’s a good question. Sunday Taquitos! Art by Ivan Ehlers.
+
+The post [Sunday Taquitos #11: Rock Bottom (?)](https://lataco.com/sunday-taquitos-11-rock-bottom) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=175242</guid>
+    </item>    <item>
+      <title>Trump is threatening to cut funding from sanctuary cities. Here&#39;s what to know</title>
+      <link>https://laist.com/news/politics/trump-is-threatening-to-cut-funding-from-sanctuary-cities-heres-what-to-know</link>
+      <description>
+        <![CDATA[President Trump says he's cutting federal money to sanctuary cities. But courts have blocked similar moves.]]>
+      </description>
+      <source:markdown>President Trump says he&#39;s cutting federal money to sanctuary cities. But courts have blocked similar moves.</source:markdown>
+      <guid>cid://urn:uuid:0000019b-d1d3-d3cf-a9db-f5f3dbd80000</guid>
+    </item>    <item>
       <title>At Backyard Party, young musicians who survived a pandemic and firestorm are making a scene</title>
       <link>https://laist.com/news/los-angeles-activities/at-backyard-party-young-musicians-who-survived-a-pandemic-and-firestorm-are-making-a-scene</link>
       <description>
@@ -2209,33 +2244,6 @@ The post [L.A. TACO’s Most-Read Investigations and News Stories of 2025](https
       </description>
       <source:markdown>L.A. Community College District launched a guaranteed basic income program in 2024. LAist checked in to see how students are doing and what they’re planning for the future.</source:markdown>
       <guid>cid://urn:uuid:0000019b-5cc1-de6b-ad9f-ffcf2d7e0000</guid>
-    </item>    <item>
-      <title>Sunday Taquitos #8: Never Wrong</title>
-      <link>https://lataco.com/sunday-taquitos-8-never-wrong</link>
-      <description>
-        <![CDATA[<p>You know WHO ELSE never admits to being wrong? Sunday Taquitos! Art by Ivan Ehlers.</p>
-        <p>The post <a href="https://lataco.com/sunday-taquitos-8-never-wrong">Sunday Taquitos #8: Never Wrong</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>You know WHO ELSE never admits to being wrong? Sunday Taquitos! Art by Ivan Ehlers.
-
-The post [Sunday Taquitos #8: Never Wrong](https://lataco.com/sunday-taquitos-8-never-wrong) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=174707</guid>
-    </item>    <item>
-      <title>Judge to hold hearing on whether Kilmar Abrego Garcia is being vindictively prosecuted</title>
-      <link>https://laist.com/news/judge-to-hold-hearing-on-whether-kilmar-abrego-garcia-is-being-vindictively-prosecuted</link>
-      <description>
-        <![CDATA[A federal judge this week canceled the trial of Kilmar Abrego Garcia, and scheduled a hearing on whether the prosecution is being vindictive.]]>
-      </description>
-      <source:markdown>A federal judge this week canceled the trial of Kilmar Abrego Garcia, and scheduled a hearing on whether the prosecution is being vindictive.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-660b-de6b-ad9f-ef8fecdc0000</guid>
-    </item>    <item>
-      <title>Find tranquility, beauty — and books — at these SoCal public libraries</title>
-      <link>https://laist.com/news/los-angeles-activities/best-socal-libraries-most-fun</link>
-      <description>
-        <![CDATA[We've handpicked these libraries to visit — for you to find peace and beauty.]]>
-      </description>
-      <source:markdown>We&#39;ve handpicked these libraries to visit — for you to find peace and beauty.</source:markdown>
-      <guid>cid://urn:uuid:0000019b-2d5b-dbc0-ab9f-7f5bf0930000</guid>
     </item>
   </channel>
 </rss>
