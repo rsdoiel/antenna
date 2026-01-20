@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>19 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>20 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Amazing it works: transistors placed wrong and they still work in th KIM-1</title>
+      <link>http://retro.hansotten.nl/amazing-it-works-transistors-placed-wrong-and-they-still-work-in-th-kim-1/</link>
+      <description>
+        <![CDATA[After publishing the photos of the transistors used in the KIM-1 a discussion started on forum64.de in the &#8216;Instandsetzung und Nachbau eines Kim-1&#8217; thread that some transistors were placed wrong. The User manual states: which are quite generic general purpose transistors. For Q7 I found: Rev D 2N3904 Rev E 2N3904 Rev F BC239C (my [&#8230;]]]>
+      </description>
+      <source:markdown>After publishing the photos of the transistors used in the KIM-1 a discussion started on forum64.de in the ‘Instandsetzung und Nachbau eines Kim-1’ thread that some transistors were placed wrong. The User manual states: which are quite generic general purpose transistors. For Q7 I found: Rev D 2N3904 Rev E 2N3904 Rev F BC239C (my \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19856</guid>
+    </item>    <item>
+      <title>Amazing it works: transistors placed wrong and they still work in the KIM-1</title>
+      <link>http://retro.hansotten.nl/amazing-it-works-transistors-placed-wrong-and-they-still-work-in-the-kim-1/</link>
+      <description>
+        <![CDATA[After publishing the photos of the transistors used in the KIM-1 a discussion started on forum64.de in the &#8216;Instandsetzung und Nachbau eines Kim-1&#8217; thread about some transistors were placed wrong in later revisions. And the KIM-1 involved functions well. The User manual states: which are quite generic general purpose transistors. MOS Technology used those parts [&#8230;]]]>
+      </description>
+      <source:markdown>After publishing the photos of the transistors used in the KIM-1 a discussion started on forum64.de in the ‘Instandsetzung und Nachbau eines Kim-1’ thread about some transistors were placed wrong in later revisions. And the KIM-1 involved functions well. The User manual states: which are quite generic general purpose transistors. MOS Technology used those parts \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=19856</guid>
+    </item>    <item>
       <title>b.log 2026/01/18 - Bugs bugs bugs!, Easy brochure printing, My CD compilation, Shein is back in France.</title>
       <link>https://heyrick.eu/blog/entry/20260118</link>
       <description>
@@ -142,9 +158,9 @@
       <title>10 PRINT for KIM-1 and AIM 65</title>
       <link>http://retro.hansotten.nl/10-print-for-kim-1-and-aim-65/</link>
       <description>
-        <![CDATA[Michael Doornbos (of https://imapenguin.com/) posted two &#8220;10 PRINT&#8221; articles for our beloved small 6502 SBC&#8217;s. The KIM-1 version displays on the seven segment LED displays. The AIM 65 prints it on the thermal printer. KIM-1 version of 10 PRINT in BASIC and assember AIM 65 version in BASIC that print random &#8216;/&#8217; or &#8216;\&#8217; See [&#8230;]]]>
+        <![CDATA[Michael Doornbos (of https://imapenguin.com/) posted two &#8220;10 PRINT&#8221; articles for our beloved small 6502 SBC&#8217;s. The KIM-1 version displays on the seven segment LED displays. The AIM 65 prints it on the thermal printer. KIM-1 version of 10 PRINT in BASIC and assember 10 PRINT CHR$(47+INT(RND(0)*2)*45);:GOTO 10 ; BY MICHAEL DOORNBOS MIKE@IMAPENGUIN.COM; 2025 ; SOFT [&#8230;]]]>
       </description>
-      <source:markdown>Michael Doornbos (of https://imapenguin.com/) posted two “10 PRINT” articles for our beloved small 6502 SBC’s. The KIM-1 version displays on the seven segment LED displays. The AIM 65 prints it on the thermal printer. KIM-1 version of 10 PRINT in BASIC and assember AIM 65 version in BASIC that print random ‘/’ or ‘\\’ See \[…\]</source:markdown>
+      <source:markdown>Michael Doornbos (of https://imapenguin.com/) posted two “10 PRINT” articles for our beloved small 6502 SBC’s. The KIM-1 version displays on the seven segment LED displays. The AIM 65 prints it on the thermal printer. KIM-1 version of 10 PRINT in BASIC and assember 10 PRINT CHR$(47+INT(RND(0)\*2)\*45);:GOTO 10 ; BY MICHAEL DOORNBOS MIKE@IMAPENGUIN.COM; 2025 ; SOFT \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=19786</guid>
     </item>    <item>
       <title>b.log 2026/01/10 - Storm Goretti, And... not at work?, Linky TIC, Bloody bots.</title>
@@ -334,33 +350,6 @@
       </description>
       <source:markdown>Distance anxiety, Car woes, Commercial birthday presents, Hostile douchery, Delayed parcels are greener, American pasta.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20251230</guid>
-    </item>    <item>
-      <title>Highlighting DOS in #DOScember</title>
-      <link>https://sourceforge.net/p/freedos/news/2025/12/highlighting-dos-in-doscember/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>As part of the month of "DOScember" Jim celebrated FreeDOS by sharing several articles online. These are great starting points if you want to get into retrocomputing with FreeDOS! Check out this series of articles at All Things Open: - <a class="" href="https://allthingsopen.org/articles/why-freedos-is-modern-dos" rel="nofollow">Why FreeDOS is a modern DOS</a> - <a class="" href="https://allthingsopen.org/articles/turn-off-acceleration-authentic-retrocomputing-experience" rel="nofollow">Turn off acceleration for the 'retrocomputing' experience</a> - <a class="" href="https://allthingsopen.org/articles/26-essential-freedos-commands-az-guide" rel="nofollow">26 essential FreeDOS commands, A to Z</a> - <a class="" href="https://allthingsopen.org/articles/edlin-freedos-simple-line-editor-tutorial" rel="nofollow">Getting started with Edlin on FreeDOS</a> - <a class="" href="https://allthingsopen.org/articles/tiny-programming-freedos-minimal-environment" rel="nofollow">Tiny programming on FreeDOS with a kernel, shell, editor, and compiler</a>.</p>
-        <p>You may also be interested in this weeklong "DOScember" article series at Both.org: - <a class="" href="https://www.both.org/?p=12944" rel="nofollow">4 cool facts about FreeDOS</a> - <a class="" href="https://www.both.org/?p=12955" rel="nofollow">FreeDOS Edit makes it easy</a> - <a class="" href="https://www.both.org/?p=12967" rel="nofollow">How to add and remove packages in FreeDOS</a> - <a class="" href="https://www.both.org/?p=12971" rel="nofollow">Old-school programming with BW BASIC</a> - <a class="" href="https://www.both.org/?p=12976" rel="nofollow">2 ways to listen to music on FreeDOS</a> - <a class="" href="https://www.both.org/?p=12978" rel="nofollow">Automate tasks with BAT files</a> - <a class="" href="https://www.both.org/?p=12986" rel="nofollow">Edit text with this Emacs-like editor</a></p></div>]]>
-      </description>
-      <source:markdown>As part of the month of &#34;DOScember&#34; Jim celebrated FreeDOS by sharing several articles online. These are great starting points if you want to get into retrocomputing with FreeDOS! Check out this series of articles at All Things Open: - [Why FreeDOS is a modern DOS](https://allthingsopen.org/articles/why-freedos-is-modern-dos) \- [Turn off acceleration for the &#39;retrocomputing&#39; experience](https://allthingsopen.org/articles/turn-off-acceleration-authentic-retrocomputing-experience) \- [26 essential FreeDOS commands, A to Z](https://allthingsopen.org/articles/26-essential-freedos-commands-az-guide) \- [Getting started with Edlin on FreeDOS](https://allthingsopen.org/articles/edlin-freedos-simple-line-editor-tutorial) \- [Tiny programming on FreeDOS with a kernel, shell, editor, and compiler](https://allthingsopen.org/articles/tiny-programming-freedos-minimal-environment).
-
-You may also be interested in this weeklong &#34;DOScember&#34; article series at Both.org: - [4 cool facts about FreeDOS](https://www.both.org/?p=12944) \- [FreeDOS Edit makes it easy](https://www.both.org/?p=12955) \- [How to add and remove packages in FreeDOS](https://www.both.org/?p=12967) \- [Old-school programming with BW BASIC](https://www.both.org/?p=12971) \- [2 ways to listen to music on FreeDOS](https://www.both.org/?p=12976) \- [Automate tasks with BAT files](https://www.both.org/?p=12978) \- [Edit text with this Emacs-like editor](https://www.both.org/?p=12986)</source:markdown>
-      <guid>cid://https://sourceforge.net86922ff3f861acb0112d6293ce7200dd5185b30f</guid>
-    </item>    <item>
-      <title>Transform a Commodore 1541 into a KIM-1</title>
-      <link>http://retro.hansotten.nl/transform-a-commodore-1541-into-a-kim-1/</link>
-      <description>
-        <![CDATA[By replacing the ROM(s) of a Commodore 1541 disk drive it can be made in a KIM-1. Well, it runs the KIM-1 ROM modified to use the 6522 driving the IEC bus as TTY serial input/output. The ROM is also moved to E000 for obvious reasons (the 1541 is unchanged!). Only serial TTY, no LED, [&#8230;]]]>
-      </description>
-      <source:markdown>By replacing the ROM(s) of a Commodore 1541 disk drive it can be made in a KIM-1. Well, it runs the KIM-1 ROM modified to use the 6522 driving the IEC bus as TTY serial input/output. The ROM is also moved to E000 for obvious reasons (the 1541 is unchanged!). Only serial TTY, no LED, \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=19704</guid>
-    </item>    <item>
-      <title>RISC OS &#39;Advent&#39; Calendar 2025 R-Comp&#39;s new USB charging software</title>
-      <link>http://www.iconbar.com/comments/rss/news2291.html</link>
-      <description>
-        <![CDATA[Many thanks to Andrew for sharing the latest software release with us]]>
-      </description>
-      <source:markdown>Many thanks to Andrew for sharing the latest software release with us</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2291.html</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,273 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>20 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>“Light mode” should be “grey mode”</title>
+      <link>https://www.osnews.com/story/144226/light-mode-should-be-grey-mode/</link>
+      <description>
+        <![CDATA[Have you noticed how it seems like how the &#8220;light mode&#8221; of your graphical user interface of choice is getting lighter over time? It turns out you&#8217;re not crazy, and at least for macOS, light mode has indeed been getting lighter. You can clearly see that the brightness of the UI has been steadily increasing for the last 16 years. The upper line is the default mode/light mode, the lower line is dark mode. When I started using MacOS in 2012, I was running Snow Leopard, the windows had an average brightness of 71%. Since then they’ve steadily increased so that in MacOS Tahoe, they’re at a full 100%. ↫ Will Richardson While this particular post only covers macOS, I wouldn&#8217;t be surprised to discover similar findings in Windows, GNOME, and KDE. The benefit of using KDE is that it&#8217;s at least relatively easy to switch colour schemes or themes, but changing colours in Windows is becoming a hidden feature, and GNOME doesn&#8217;t support it out of the box at all, and let&#8217;s not even get started about macOS. I think &#8220;light mode&#8221; should be &#8220;grey mode&#8221;, and definitely lament the lack of supported, maintained &#8220;grey modes&#8221; in both KDE and GNOME. There&#8217;s a reason that graphical user interfaces in the era of extensive science-based human-computer interaction research opted for soft, gentle greys (ooh, aah, mmm), and I&#8217;m convinced we need to bring it back. The glaring whites we use today are cold and clinical, and feel unpleasant to the point where I turn down the brightness of my monitor in a way that makes other colours feel too muted. Or perhaps I&#8217;m out of touch.]]>
+      </description>
+      <source:markdown>Have you noticed how it seems like how the “light mode” of your graphical user interface of choice is getting lighter over time? It turns out you’re not crazy, and at least for macOS, light mode has indeed been getting lighter. You can clearly see that the brightness of the UI has been steadily increasing for the last 16 years. The upper line is the default mode/light mode, the lower line is dark mode. When I started using MacOS in 2012, I was running Snow Leopard, the windows had an average brightness of 71%. Since then they’ve steadily increased so that in MacOS Tahoe, they’re at a full 100%. ↫ Will Richardson While this particular post only covers macOS, I wouldn’t be surprised to discover similar findings in Windows, GNOME, and KDE. The benefit of using KDE is that it’s at least relatively easy to switch colour schemes or themes, but changing colours in Windows is becoming a hidden feature, and GNOME doesn’t support it out of the box at all, and let’s not even get started about macOS. I think “light mode” should be “grey mode”, and definitely lament the lack of supported, maintained “grey modes” in both KDE and GNOME. There’s a reason that graphical user interfaces in the era of extensive science-based human-computer interaction research opted for soft, gentle greys (ooh, aah, mmm), and I’m convinced we need to bring it back. The glaring whites we use today are cold and clinical, and feel unpleasant to the point where I turn down the brightness of my monitor in a way that makes other colours feel too muted. Or perhaps I’m out of touch.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144226</guid>
+    </item>    <item>
+      <title>Hubble Nets Menagerie of Young Stellar Objects</title>
+      <link>https://www.nasa.gov/image-article/hubble-nets-menagerie-of-young-stellar-objects/</link>
+      <description>
+        <![CDATA[A disparate collection of young stellar objects bejewels a cosmic panorama in the star-forming region NGC 1333 in this new image from NASA’s&#160;Hubble Space Telescope. To the left, an actively forming star called a protostar casts its glow on the surrounding gas and dust, creating a reflection nebula. Two dark stripes on opposite sides of [&#8230;]]]>
+      </description>
+      <source:markdown>A disparate collection of young stellar objects bejewels a cosmic panorama in the star-forming region NGC 1333 in this new image from NASA’s Hubble Space Telescope. To the left, an actively forming star called a protostar casts its glow on the surrounding gas and dust, creating a reflection nebula. Two dark stripes on opposite sides of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=945377</guid>
+    </item>    <item>
+      <title>The incredible overcomplexity of the Shadcn radio button</title>
+      <link>https://www.osnews.com/story/144222/the-incredible-overcomplexity-of-the-shadcn-radio-button/</link>
+      <description>
+        <![CDATA[If only it was that simple &#8211; cue the rollercoaster ride. What an absolutely garish state of affairs lies behind this simple radio button on a website. I&#8217;m also well aware OSNews has a certain amount of complexity it might not need, and while I can&#8217;t fix that, I am at least working on a potential solution.]]>
+      </description>
+      <source:markdown>If only it was that simple – cue the rollercoaster ride. What an absolutely garish state of affairs lies behind this simple radio button on a website. I’m also well aware OSNews has a certain amount of complexity it might not need, and while I can’t fix that, I am at least working on a potential solution.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144222</guid>
+    </item>    <item>
+      <title>A lament for Aperture</title>
+      <link>https://www.osnews.com/story/144219/a-lament-for-aperture/</link>
+      <description>
+        <![CDATA[I&#8217;m not particularly interested in photo editing or management, professional or not, but one thing I do know is that many people who are miss one application in particular: Aperture. Discontinued over a decade ago, people still lament its loss, and Daniel Kennett explains to us layman why that&#8217;s the case. Aperture’s technical brilliance is remarkable in how quiet it is. There’s no BEHOLD RAINBOW SPARKLE ANIMATIONS WHILE THE AI MAKES AUNT JANICE LOOK LIKE AN ANTHROPOMORPHISED CARROT, just an understated dedication to making the tool you’re using work for you in exactly the way you want to work. It’s the kind of monumental engineering effort that the user is unlikely to ever notice, simply because of how obvious it is to use — if I want to zoom in to this photo, I point at it with the zoom thing. Duh. Sure, it’s a tiny thumbnail inside a small thumbnail of a page in a book… but how else would it work? And that is why Aperture was so special. It was powered by some of the most impressive technology around at the time, but you’d never even know it because you were too busy getting shit done. ↫ Daniel Kennett I half-expected to get some wishy-washy vibes-based article about some professional photo management tool, but instead, I came away easily and clearly understanding what made Aperture such a great tool. Beng able to access any set of tools wherever you are, without having to take a photo to a certain specific place in the user interface makes perfect sense to me, and the given counterexample from the modern Photos application instantly feels cumbersome and grating. At this point it&#8217;s clear Aperture&#8217;s never coming back, but I&#8217;m rather surprised nobody seems to have taken the effort to clone it. It seems there&#8217;s a market out there for something like this, but from what I gather Lightroom isn&#8217;t what Aperture fans are looking for, and any other alternatives are simply too limited or unpolished. There&#8217;s a market here, for sure. What other alternatives to Aperture exist today?]]>
+      </description>
+      <source:markdown>I’m not particularly interested in photo editing or management, professional or not, but one thing I do know is that many people who are miss one application in particular: Aperture. Discontinued over a decade ago, people still lament its loss, and Daniel Kennett explains to us layman why that’s the case. Aperture’s technical brilliance is remarkable in how quiet it is. There’s no BEHOLD RAINBOW SPARKLE ANIMATIONS WHILE THE AI MAKES AUNT JANICE LOOK LIKE AN ANTHROPOMORPHISED CARROT, just an understated dedication to making the tool you’re using work for you in exactly the way you want to work. It’s the kind of monumental engineering effort that the user is unlikely to ever notice, simply because of how obvious it is to use — if I want to zoom in to this photo, I point at it with the zoom thing. Duh. Sure, it’s a tiny thumbnail inside a small thumbnail of a page in a book… but how else would it work? And that is why Aperture was so special. It was powered by some of the most impressive technology around at the time, but you’d never even know it because you were too busy getting shit done. ↫ Daniel Kennett I half-expected to get some wishy-washy vibes-based article about some professional photo management tool, but instead, I came away easily and clearly understanding what made Aperture such a great tool. Beng able to access any set of tools wherever you are, without having to take a photo to a certain specific place in the user interface makes perfect sense to me, and the given counterexample from the modern Photos application instantly feels cumbersome and grating. At this point it’s clear Aperture’s never coming back, but I’m rather surprised nobody seems to have taken the effort to clone it. It seems there’s a market out there for something like this, but from what I gather Lightroom isn’t what Aperture fans are looking for, and any other alternatives are simply too limited or unpolished. There’s a market here, for sure. What other alternatives to Aperture exist today?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144219</guid>
+    </item>    <item>
+      <title>Rackspace tests customer loyalty with brutal email price hike</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/rackspace_price_changes/</link>
+      <description>
+        <![CDATA[<h4>Mailbox costs leap overnight as longtime users vent their frustration</h4> <p>Rackspace is giving a masterclass in how to annoy customers after an eye-watering price hike for email hosting.…</p>]]>
+      </description>
+      <source:markdown>#### Mailbox costs leap overnight as longtime users vent their frustration
+
+Rackspace is giving a masterclass in how to annoy customers after an eye-watering price hike for email hosting.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244059</guid>
+    </item>    <item>
+      <title>Intricacies of Helix Nebula Revealed With NASA’s Webb</title>
+      <link>https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/</link>
+      <description>
+        <![CDATA[NASA’s James Webb Space Telescope has zoomed into the Helix Nebula to give an up-close view of the possible eventual fate of our own Sun and planetary system. In Webb’s high-resolution look, the structure of the gas being shed off by a dying star comes into full focus. The image reveals how stars recycle their […]]]>
+      </description>
+      <source:markdown>NASA’s James Webb Space Telescope has zoomed into the Helix Nebula to give an up-close view of the possible eventual fate of our own Sun and planetary system. In Webb’s high-resolution look, the structure of the gas being shed off by a dying star comes into full focus. The image reveals how stars recycle their \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/</guid>
+    </item>    <item>
+      <title>These Baffling Bone Artifacts Discovered by an Amateur Archaeologist May Be the World&#39;s Oldest Whale Harpoons</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-baffling-bone-artifacts-discovered-by-an-amateur-archaeologist-may-be-the-worlds-oldest-whale-harpoons-180988025/</link>
+      <description>
+        <![CDATA[After revisiting items from a Brazilian museum, researchers think humans may have been hunting whales 5,000 years ago, a millennium earlier than previously thought]]>
+      </description>
+      <source:markdown>After revisiting items from a Brazilian museum, researchers think humans may have been hunting whales 5,000 years ago, a millennium earlier than previously thought</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7SV5GSN0h1O48PPq9QTOhtlurj4=/420x240/filters:focal(925x625:926x626)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/e8/5be846b3-905c-46c4-a6fd-6ade03fe3876/indigenous_communities_hunting_cetaceans_5000_years_ago_author-_patricia_del_amo_martin.jpeg" length="" type="" />
+    </item>    <item>
+      <title>OpenAI is still figuring out how to make money, but wants you to believe in it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/openai_money/</link>
+      <description>
+        <![CDATA[<h4>And the world economy might depend on it finding an answer</h4> <p>This week, OpenAI CFO Sarah Friar <a target="_blank" href="https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/">took to the internet</a> to make a bold pitch for the company&#39;s future, which she claims is bright, despite what the current numbers say.…</p>]]>
+      </description>
+      <source:markdown>#### And the world economy might depend on it finding an answer
+
+This week, OpenAI CFO Sarah Friar [took to the internet](https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/) to make a bold pitch for the company&#39;s future, which she claims is bright, despite what the current numbers say.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244057</guid>
+    </item>    <item>
+      <title>Majority of CEOs report zero payoff from AI splurge</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/pwc_ai_ceo_survey/</link>
+      <description>
+        <![CDATA[<h4>PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings</h4> <p>More than half of CEOs report seeing neither increased revenue nor decreased costs from AI, despite massive investments in the technology, according to a PwC survey of 4,454 business leaders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### PwC survey finds more than half of 4,500+ biz leaders see no revenue growth nor cost savings
+
+More than half of CEOs report seeing neither increased revenue nor decreased costs from AI, despite massive investments in the technology, according to a PwC survey of 4,454 business leaders.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244055</guid>
+    </item>    <item>
+      <title>2025 NESC Technical Update</title>
+      <link>https://www.nasa.gov/centers-and-facilities/nesc/2025-nesc-technical-update/</link>
+      <description>
+        <![CDATA[Annual Report of NESC Technical Activities On behalf of the NASA Engineering and Safety Center (NESC), I am pleased to provide you with the 2025 NESC Technical Update. This annual report summarizes the technical work, engineering advancements, and knowledge capture efforts we made in FY25. With support provided by members of our NASA community from [&#8230;]]]>
+      </description>
+      <source:markdown>Annual Report of NESC Technical Activities On behalf of the NASA Engineering and Safety Center (NESC), I am pleased to provide you with the 2025 NESC Technical Update. This annual report summarizes the technical work, engineering advancements, and knowledge capture efforts we made in FY25. With support provided by members of our NASA community from \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=946042</guid>
+    </item>    <item>
+      <title>AI framework flaws put enterprise clouds at risk of takeover</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/ai_framework_flaws_enterprise_clouds/</link>
+      <description>
+        <![CDATA[<h4>Update Chainlit to the latest version ASAP</h4> <p>Two &#34;easy-to-exploit&#34; vulnerabilities in the popular open-source AI framework Chainlit put major enterprises&#39; cloud environments at risk of leaking data or even full takeover, according to cyber-threat exposure startup Zafran.…</p>]]>
+      </description>
+      <source:markdown>#### Update Chainlit to the latest version ASAP
+
+Two &#34;easy-to-exploit&#34; vulnerabilities in the popular open-source AI framework Chainlit put major enterprises&#39; cloud environments at risk of leaking data or even full takeover, according to cyber-threat exposure startup Zafran.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244021</guid>
+    </item>    <item>
+      <title>Ötzi the Iceman May Have Carried a Cancer-Causing Strain of HPV, a Common Virus Still Plaguing Humans Today</title>
+      <link>https://www.smithsonianmag.com/smart-news/otzi-the-iceman-may-have-carried-a-cancer-causing-strain-of-hpv-a-common-virus-still-plaguing-humans-today-180988024/</link>
+      <description>
+        <![CDATA[A new study, which also found evidence of the high-risk strain in 45,000-year-old remains, suggests HPV has evolved alongside humans for many millennia]]>
+      </description>
+      <source:markdown>A new study, which also found evidence of the high-risk strain in 45,000-year-old remains, suggests HPV has evolved alongside humans for many millennia</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HvTggZFm8VMwgHmSK0ZvbVXFkqQ=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/7e/187edfb3-38d5-411b-b450-6f11430c3c0e/befeuchtung_inumidificazione_medium55112da0.jpg" length="" type="" />
+    </item>    <item>
+      <title>Windows 11, not AI, kick-started the PC upgrade cycle</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/windows_11_pc_refresh/</link>
+      <description>
+        <![CDATA[<h4>Corporate IT refreshed hardware to stay supported, not chase new features</h4> <p>If 2025 proved anything about PCs, it&#39;s that corporate IT will upgrade hardware out of necessity long before it does so out of AI-fueled excitement.…</p>]]>
+      </description>
+      <source:markdown>#### Corporate IT refreshed hardware to stay supported, not chase new features
+
+If 2025 proved anything about PCs, it&#39;s that corporate IT will upgrade hardware out of necessity long before it does so out of AI-fueled excitement.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244056</guid>
+    </item>    <item>
+      <title>Anthropic quietly fixed flaws in its Git MCP server that allowed for remote code execution</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/anthropic_prompt_injection_flaws/</link>
+      <description>
+        <![CDATA[<h4>Prompt injection for the win</h4> <p>Anthropic has fixed three bugs in its official Git MCP server that researchers say can be chained with other MCP tools to remotely execute malicious code or overwrite files via prompt injection.…</p>]]>
+      </description>
+      <source:markdown>#### Prompt injection for the win
+
+Anthropic has fixed three bugs in its official Git MCP server that researchers say can be chained with other MCP tools to remotely execute malicious code or overwrite files via prompt injection.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244017</guid>
+    </item>    <item>
+      <title>For the price of Netflix, crooks can now rent AI to run cybercrime</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/group_ib_ai_cycercrime_subscriptions/</link>
+      <description>
+        <![CDATA[<h4>Group-IB says crims forking out for Dark LLMs, deepfakes, and more at subscription prices</h4> <p>Cybercrime has entered its AI era, with criminals now using weaponized language models and deepfakes as cheap, off-the-shelf infrastructure rather than experimental tools, according to researchers at Group-IB.…</p>]]>
+      </description>
+      <source:markdown>#### Group-IB says crims forking out for Dark LLMs, deepfakes, and more at subscription prices
+
+Cybercrime has entered its AI era, with criminals now using weaponized language models and deepfakes as cheap, off-the-shelf infrastructure rather than experimental tools, according to researchers at Group-IB.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244054</guid>
+    </item>    <item>
+      <title>Microsoft veteran explains the one weird trick that made Windows 95 restart faster</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/chen_shift_reboot_windows/</link>
+      <description>
+        <![CDATA[<h4>Hold down Shift to make the magic happen (or not, as the case might be)</h4> <p>Microsoft&#39;s Raymond Chen has explained why holding down Shift during a Windows 95 restart would get the system up and running again far faster than a full reboot.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Hold down Shift to make the magic happen (or not, as the case might be)
+
+Microsoft&#39;s Raymond Chen has explained why holding down Shift during a Windows 95 restart would get the system up and running again far faster than a full reboot.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244053</guid>
+    </item>    <item>
+      <title>Global economy shrugs off US tariff shock, tech spending does heavy lifting</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/global_economy_shrugs_off_us/</link>
+      <description>
+        <![CDATA[<h4>Wave of American-imposed tariffs failed to derail global growth, according to the IMF</h4> <p>The global economy has proved more resilient than many expected in the wake of <a href="https://www.theregister.com/2025/09/17/tariffs_us_pc_market/">US tariff shocks</a>, with the International Monetary Fund now projecting worldwide growth of 3.3 percent in 2026 as a surge in AI investment helps offset trade disruption.…</p>]]>
+      </description>
+      <source:markdown>#### Wave of American-imposed tariffs failed to derail global growth, according to the IMF
+
+The global economy has proved more resilient than many expected in the wake of [US tariff shocks](https://www.theregister.com/2025/09/17/tariffs_us_pc_market/), with the International Monetary Fund now projecting worldwide growth of 3.3 percent in 2026 as a surge in AI investment helps offset trade disruption.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244045</guid>
+    </item>    <item>
+      <title>Manchester ATM ups PIN requirement to full Windows login</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/manchester_atm_bork/</link>
+      <description>
+        <![CDATA[<h4>Definitely Maybe running Windows 7?</h4> <p><strong>Bork!Bork!Bork!</strong>  Just because Microsoft has ended support doesn&#39;t mean an operating system will suddenly disappear. Take this crusty ATM running Windows 7 in the fair city of Manchester, England.…</p>]]>
+      </description>
+      <source:markdown>#### Definitely Maybe running Windows 7?
+
+**Bork!Bork!Bork!**  Just because Microsoft has ended support doesn&#39;t mean an operating system will suddenly disappear. Take this crusty ATM running Windows 7 in the fair city of Manchester, England.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244028</guid>
+    </item>    <item>
+      <title>MPs ask who&#39;s responsible when AI crashes the UK finance system</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/treasury_committee_ai/</link>
+      <description>
+        <![CDATA[<h4>Committee says watchdogs lack urgency as accountability for automated decisions remains unresolved</h4> <p>UK financial regulators must conduct stress testing to ensure businesses are ready for AI-driven market shocks, MPs have warned.…</p>]]>
+      </description>
+      <source:markdown>#### Committee says watchdogs lack urgency as accountability for automated decisions remains unresolved
+
+UK financial regulators must conduct stress testing to ensure businesses are ready for AI-driven market shocks, MPs have warned.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244046</guid>
+    </item>    <item>
+      <title>England&#39;s Department of Health and Social Care offering £285k for new tech director</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/dhsc_recruits_new_tech_director/</link>
+      <description>
+        <![CDATA[<h4>Fancy it? As national health tech boss, you&#39;d be one of the highest paid in the team</h4> <p>England&#39;s Department of Health and Social Care is recruiting a head of technology, digital and data at a maximum salary of up to £285,000 a year, well above that most recently advertised for the department&#39;s boss.…</p>]]>
+      </description>
+      <source:markdown>#### Fancy it? As national health tech boss, you&#39;d be one of the highest paid in the team
+
+England&#39;s Department of Health and Social Care is recruiting a head of technology, digital and data at a maximum salary of up to £285,000 a year, well above that most recently advertised for the department&#39;s boss.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244052</guid>
+    </item>    <item>
+      <title>£45B savings remain theoretical as UK digital roadmap delayed again</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/ukgov_digital_roadmap_delay/</link>
+      <description>
+        <![CDATA[<h4>Promised plan keeps slipping as ministers talk up future efficiency</h4> <p>The UK government has delayed publication of its long-promised digital roadmap, a plan it says could eventually help save up to <a target="_blank" href="https://www.gov.uk/government/news/archaic-tech-sees-public-sector-miss-45-billion-annual-savings">£45 billion of taxpayers&#39; money</a> by modernizing creaking public sector IT.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Promised plan keeps slipping as ministers talk up future efficiency
+
+The UK government has delayed publication of its long-promised digital roadmap, a plan it says could eventually help save up to [£45 billion of taxpayers&#39; money](https://www.gov.uk/government/news/archaic-tech-sees-public-sector-miss-45-billion-annual-savings) by modernizing creaking public sector IT.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244029</guid>
+    </item>    <item>
+      <title>Is ‘The Pitt’ accurate? Medical experts weigh in</title>
+      <link>https://www.npr.org/2026/01/20/nx-s1-5672512/tv-medicine-doctors-the-pitt-emergency-room</link>
+      <description>
+        <![CDATA[Medical drama <a href="https://www.imdb.com/title/tt31938062/"target="_blank"   >The Pitt</a> is winning Golden Globes… and health care workers’ hearts. Medical experts say the show, which chronicles a fictional Pittsburgh hospital emergency department, is perhaps the most medically accurate show that’s ever been created. But what about The Pitt makes it so accurate… and does the second season hold up as well as the first? Stanford Global Health Media Fellow (and fourth-year medical school student) <a href="https://www.npr.org/people/g-s1-75872/michal-ruprecht"target="_blank"   >Michal Ruprecht</a> joins Short Wave to discuss.<br/><br/><em>Have a question about YOUR favorite show and whether science supports it? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><br><em>This episode was produced by Hannah Chinn. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Maggie Luthar.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Medical drama [The Pitt](https://www.imdb.com/title/tt31938062/) is winning Golden Globes… and health care workers’ hearts. Medical experts say the show, which chronicles a fictional Pittsburgh hospital emergency department, is perhaps the most medically accurate show that’s ever been created. But what about The Pitt makes it so accurate… and does the second season hold up as well as the first? Stanford Global Health Media Fellow (and fourth-year medical school student) [Michal Ruprecht](https://www.npr.org/people/g-s1-75872/michal-ruprecht) joins Short Wave to discuss.
+
+_Have a question about YOUR favorite show and whether science supports it? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+_This episode was produced by Hannah Chinn. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Maggie Luthar._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1630900360.mp3?t=podcast&e=nx-s1-5672512&p=510351&d=827&size=13236812" length="13236812" type="audio/mpeg" />
+      <guid>cid://9107a530-927b-4cc5-9257-09d362395074</guid>
+    </item>    <item>
+      <title>UK gambling regulator accuses Meta of lying about its struggle to spot illegal ads</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/uk_gambling_comission_criticizes_meta/</link>
+      <description>
+        <![CDATA[<h4>Labels Zuck’s ad library ‘a window into criminality’ and the Social Network as ‘happy to turn a blind eye’</h4> <p>The head of the UK’s Gambling Commission has accused social media giant Meta of lying about its ability to proactively detect operators of illegal casinos advertising on its services.…</p>]]>
+      </description>
+      <source:markdown>#### Labels Zuck’s ad library ‘a window into criminality’ and the Social Network as ‘happy to turn a blind eye’
+
+The head of the UK’s Gambling Commission has accused social media giant Meta of lying about its ability to proactively detect operators of illegal casinos advertising on its services.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244050</guid>
+    </item>    <item>
+      <title>Akamai CEO wants help to defeat piracy, reckons he can handle edge AI alone</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/akamai_ceo_tom_leighton_piracy_interview/</link>
+      <description>
+        <![CDATA[<h4>OG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech</h4> <p><strong>Interview</strong>  After Cloudflare CEO Matthew Prince recently <a target="_blank" href="https://www.theregister.com/2026/01/12/cloudflare_vs_italy/">threatened</a> to disrupt the Winter Olympics to protect free speech after Italian authorities fined his company for not disrupting pirate video streams, rival CDN provider Akamai’s CEO Dr. Tom Leighton fired back with what reads a lot like thinly veiled criticism.…</p>]]>
+      </description>
+      <source:markdown>#### OG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech
+
+**Interview**  After Cloudflare CEO Matthew Prince recently [threatened](https://www.theregister.com/2026/01/12/cloudflare_vs_italy/) to disrupt the Winter Olympics to protect free speech after Italian authorities fined his company for not disrupting pirate video streams, rival CDN provider Akamai’s CEO Dr. Tom Leighton fired back with what reads a lot like thinly veiled criticism.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244049</guid>
+    </item>    <item>
+      <title>Micron finds a way to make more DRAM with $1.8bn chip plant purchase</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/20/micron_powerchip_fab_acquisition/</link>
+      <description>
+        <![CDATA[<h4>Taiwan’s Powerchip sells legacy fab it opened just 19 months ago after spending $9.5 billion</h4> <p>Micron has found a way to add new DRAM manufacturing capacity in a hurry by acquiring a chipmaking campus from Taiwanese outfit Powerchip Semiconductor Manufacturing Corporation (PSMC).…</p>]]>
+      </description>
+      <source:markdown>#### Taiwan’s Powerchip sells legacy fab it opened just 19 months ago after spending $9.5 billion
+
+Micron has found a way to add new DRAM manufacturing capacity in a hurry by acquiring a chipmaking campus from Taiwanese outfit Powerchip Semiconductor Manufacturing Corporation (PSMC).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244047</guid>
+    </item>    <item>
+      <title>ERP isn&#39;t dead yet – but most execs are planning the wake</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/19/erp_survey_rimini_street/</link>
+      <description>
+        <![CDATA[<h4>7 out of 10 C-suite cats reckon software category&#39;s best days are behind it, but can&#39;t agree what&#39;s next</h4> <p>Seven out of ten C-suite leaders see a life beyond ERP as businesses have come to know it, but are divided on what the future holds for this big-ticket item critical to organizational performance.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### 7 out of 10 C-suite cats reckon software category&#39;s best days are behind it, but can&#39;t agree what&#39;s next
+
+Seven out of ten C-suite leaders see a life beyond ERP as businesses have come to know it, but are divided on what the future holds for this big-ticket item critical to organizational performance.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244042</guid>
+    </item>    <item>
+      <title>Broker who sold malware to the FBI set for sentencing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/19/iab_sentencing/</link>
+      <description>
+        <![CDATA[<h4>Feras Albashiti faces 10 years after $20,000 in sales to undercover agent exposed ransomware ties</h4> <p>A Jordanian national faces sentencing in the US after pleading guilty to acting as an initial access broker (IAB) for various cyberattacks.…</p>]]>
+      </description>
+      <source:markdown>#### Feras Albashiti faces 10 years after $20,000 in sales to undercover agent exposed ransomware ties
+
+A Jordanian national faces sentencing in the US after pleading guilty to acting as an initial access broker (IAB) for various cyberattacks.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244041</guid>
+    </item>    <item>
       <title>Just the Browser claims to tame the bloat without forking</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/19/just_the_browser/</link>
       <description>
@@ -165,6 +428,14 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
 India’s big four outsourcers – HCL, Infosys, TCS and Wipro – have essentially stopped hiring, perhaps coinciding with their increased use of AI to power their practices.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244026</guid>
     </item>    <item>
+      <title>How Long, Not Long</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/how-long-not-long/</link>
+      <description>
+        <![CDATA[After marching from Selma, Martin Luther King Jr. stood on the steps of the state capitol in Montgomery, Alabama, and called for nonviolence in the fight for equality and justice for all Americans.]]>
+      </description>
+      <source:markdown>After marching from Selma, Martin Luther King Jr. stood on the steps of the state capitol in Montgomery, Alabama, and called for nonviolence in the fight for equality and justice for all Americans.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/how-long-not-long/</guid>
+    </item>    <item>
       <title>Microsoft hiring energy strategists to power its Asian datacenters</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/19/asia_tech_news_roundup/</link>
       <description>
@@ -178,9 +449,9 @@ India’s big four outsourcers – HCL, Infosys, TCS and Wipro – have essentia
       <title>Mandiant releases quick credential cracker, to hasten the death of a bad protocol</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/18/infosec_news_in_brief/</link>
       <description>
-        <![CDATA[<h4>PLUS: Navy spy sent to brig for 200 months in brig; Black Axe busted again; Bill aims to crimp ICE apps; and more</h4> <p><strong>Infosec In Brief</strong>  PLUS: Google’s security outfit Mandiant last week released tools that can crack credentials in 12 hours, in the hope that doing so will accelerate the death of an ancient Microsoft security protocol.…</p>]]>
+        <![CDATA[<h4>PLUS: Navy spy sent to brig for 200 months; Black Axe busted again; Bill aims to crimp ICE apps; and more</h4> <p><strong>Infosec In Brief</strong>  PLUS: Google’s security outfit Mandiant last week released tools that can crack credentials in 12 hours, in the hope that doing so will accelerate the death of an ancient Microsoft security protocol.…</p>]]>
       </description>
-      <source:markdown>#### PLUS: Navy spy sent to brig for 200 months in brig; Black Axe busted again; Bill aims to crimp ICE apps; and more
+      <source:markdown>#### PLUS: Navy spy sent to brig for 200 months; Black Axe busted again; Bill aims to crimp ICE apps; and more
 
 **Infosec In Brief**  PLUS: Google’s security outfit Mandiant last week released tools that can crack credentials in 12 hours, in the hope that doing so will accelerate the death of an ancient Microsoft security protocol.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243989</guid>
@@ -4709,221 +4980,6 @@ South Korea’s Ministry of Science and ICT has found that local carrier Korea T
 
 **UPDATED**  Meta will acquire made-in-China AI outfit Manus and harness its “general agent” technology across its products.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243749</guid>
-    </item>    <item>
-      <title>The Earth Observer: Offering Perspectives from Space through Time</title>
-      <link>https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/</link>
-      <description>
-        <![CDATA[An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for nearly 37 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth Observer prepares […]]]>
-      </description>
-      <source:markdown>An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for nearly 37 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth Observer prepares \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/</guid>
-    </item>    <item>
-      <title>Nvidia spends $5B on Intel bailout, instantly gets $2.5B richer</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/nvidia_intel_5_billion/</link>
-      <description>
-        <![CDATA[<h4>The deal negotiated in September locked Nvidia into a purchase price of $23 per share. Intel shares traded at $36 on Monday</h4> <p>Nvidia’s $5 billion Intel stock purchase is already worth $7.58 billion, turning the recently approved bailout of its rival into a shrewd financial play.…</p>]]>
-      </description>
-      <source:markdown>#### The deal negotiated in September locked Nvidia into a purchase price of $23 per share. Intel shares traded at $36 on Monday
-
-Nvidia’s $5 billion Intel stock purchase is already worth $7.58 billion, turning the recently approved bailout of its rival into a shrewd financial play.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243747</guid>
-    </item>    <item>
-      <title>Terra: The End of An Era</title>
-      <link>https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/</link>
-      <description>
-        <![CDATA[Introduction Launched into the night sky more than 26 years ago, on Dec. 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations […]]]>
-      </description>
-      <source:markdown>Introduction Launched into the night sky more than 26 years ago, on Dec. 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/</guid>
-    </item>    <item>
-      <title>The Final Earth Observer Editor’s Corner: October–December 2025</title>
-      <link>https://science.nasa.gov/science-research/earth-science/the-final-earth-observer-editors-corner-october-december-2025/</link>
-      <description>
-        <![CDATA[It is with a heavy heart that I announce that NASA Earth Science Communications has directed The Earth Observer to conduct an orderly shutdown of the publication. No new content will be published after Dec. 31, 2025. While the sunset of The Earth Observer is bittersweet for our team, the good news is that all […]]]>
-      </description>
-      <source:markdown>It is with a heavy heart that I announce that NASA Earth Science Communications has directed The Earth Observer to conduct an orderly shutdown of the publication. No new content will be published after Dec. 31, 2025. While the sunset of The Earth Observer is bittersweet for our team, the good news is that all \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/the-final-earth-observer-editors-corner-october-december-2025/</guid>
-    </item>    <item>
-      <title>The State of CERES: Updates and Highlights</title>
-      <link>https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/</link>
-      <description>
-        <![CDATA[Introduction The Clouds and the Earth’s Radiant Energy System (CERES) was initially designed in the late-1980s and early-1990s as a facility instrument for NASA’s Earth Observing System (EOS). Since its inception, NASA’s Langley Research Center (LaRC) has led this effort. CERES has a long history with seven different instruments flying on five different missions since […]]]>
-      </description>
-      <source:markdown>Introduction The Clouds and the Earth’s Radiant Energy System (CERES) was initially designed in the late-1980s and early-1990s as a facility instrument for NASA’s Earth Observing System (EOS). Since its inception, NASA’s Langley Research Center (LaRC) has led this effort. CERES has a long history with seven different instruments flying on five different missions since \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/</guid>
-    </item>    <item>
-      <title>Indian cops cuff ex-Coinbase rep over selling customer info to crims</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/</link>
-      <description>
-        <![CDATA[<h4>There&#39;s more where that came from, CEO says</h4> <p>Rogue insiders suspected of taking bribes to hand over Coinbase customer records to criminals are beginning to face justice, according to CEO Brian Armstrong.…</p>]]>
-      </description>
-      <source:markdown>#### There&#39;s more where that came from, CEO says
-
-Rogue insiders suspected of taking bribes to hand over Coinbase customer records to criminals are beginning to face justice, according to CEO Brian Armstrong.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243746</guid>
-    </item>    <item>
-      <title>These Urban Birds Evolved Longer Beaks During Covid-19 Lockdowns. Then, They Changed Back</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-urban-birds-evolved-longer-beaks-during-covid-19-lockdowns-then-they-changed-back-180987923/</link>
-      <description>
-        <![CDATA[Researchers suspect that dark-eyed juncos living in Los Angeles adapted based on the availability of food scraps tossed by humans]]>
-      </description>
-      <source:markdown>Researchers suspect that dark-eyed juncos living in Los Angeles adapted based on the availability of food scraps tossed by humans</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/X3e8U_RdKlwCl2g1l8eiKCDn29E=/420x240/filters:focal(1024x756:1025x757)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/b4/ddb42580-f8bf-434b-8f59-25e43bb46e02/2048px-dark-eyed_junco_21840.jpg" length="" type="" />
-    </item>    <item>
-      <title>Crims disconnect Wired subscribers from their privacy, publish deets online</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/wired_hack_subscriber_info_leaked/</link>
-      <description>
-        <![CDATA[<h4>Extortion group Lovely claims to have stolen 40 million pieces of info from publisher Conde Nast</h4> <p>A criminal group is beating Conde Nast over the head for not responding sooner to its extortion attempt by posting stolen subscribers&#39; email and home addresses and warning the publisher of Wired, The New Yorker, Vanity Fair, and Teen Vogue that it has 40 million more entries.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Extortion group Lovely claims to have stolen 40 million pieces of info from publisher Conde Nast
-
-A criminal group is beating Conde Nast over the head for not responding sooner to its extortion attempt by posting stolen subscribers&#39; email and home addresses and warning the publisher of Wired, The New Yorker, Vanity Fair, and Teen Vogue that it has 40 million more entries.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243745</guid>
-    </item>    <item>
-      <title>2025 Space Station Science Snapshots</title>
-      <link>https://www.nasa.gov/image-article/2025-space-station-science-snapshots/</link>
-      <description>
-        <![CDATA[2025 marks another year pushing the boundaries of scientific research aboard the International Space Station. This past year, over 750 investigations were conducted aboard the space station, supported by crewed missions and resupply vehicles delivering essential cargo and experiments to the orbiting laboratory. This year’s research included testing DNA’s ability to store data, producing vital [&#8230;]]]>
-      </description>
-      <source:markdown>2025 marks another year pushing the boundaries of scientific research aboard the International Space Station. This past year, over 750 investigations were conducted aboard the space station, supported by crewed missions and resupply vehicles delivering essential cargo and experiments to the orbiting laboratory. This year’s research included testing DNA’s ability to store data, producing vital \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=940423</guid>
-    </item>    <item>
-      <title>Archaeologists Are Using Lasers to Clean Decades of Grime Off a Towering 1,800-Year-Old Marble Column in Rome</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-are-using-lasers-to-clean-decades-of-grime-off-a-towering-1800-year-old-marble-column-in-rome-180987926/</link>
-      <description>
-        <![CDATA[Standing 154 feet tall, the column of Marcus Aurelius is located in the Piazza Colonna and intricately decorated with gruesome scenes of warfare]]>
-      </description>
-      <source:markdown>Standing 154 feet tall, the column of Marcus Aurelius is located in the Piazza Colonna and intricately decorated with gruesome scenes of warfare</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/U8ewWcAv8FJBhXRud7SWMJL34nc=/420x240/filters:focal(2591x1752:2592x1753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6b/f7/6bf72d09-4281-4614-93f6-e0b52407ad6c/gettyimages-2155426985.jpg" length="" type="" />
-    </item>    <item>
-      <title>Sam Altman is willing to pay somebody $555,000 a year to keep ChatGPT in line</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/openai_safety_chief/</link>
-      <description>
-        <![CDATA[<h4>There’s a big salary up for grabs if you can handle a high-stress role with a track record of turnover</h4> <p>How’d you like to earn more than half a million dollars working for one of the world’s fastest-growing tech companies? The catch: the job is stressful, and the last few people tasked with it didn’t stick around. Over the weekend, OpenAI boss Sam Altman went public with a search for a new Head of Preparedness, saying rapidly improving AI models are creating new risks that need closer oversight.…</p>]]>
-      </description>
-      <source:markdown>#### There’s a big salary up for grabs if you can handle a high-stress role with a track record of turnover
-
-How’d you like to earn more than half a million dollars working for one of the world’s fastest-growing tech companies? The catch: the job is stressful, and the last few people tasked with it didn’t stick around. Over the weekend, OpenAI boss Sam Altman went public with a search for a new Head of Preparedness, saying rapidly improving AI models are creating new risks that need closer oversight.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243744</guid>
-    </item>    <item>
-      <title>NASA to Preview US Spacewalks at Space Station in January</title>
-      <link>https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/</link>
-      <description>
-        <![CDATA[NASA astronauts will conduct a pair of spacewalks in January outside of the International Space Station to prepare for the installation of a roll-out solar array and complete other tasks. Experts from NASA will preview the spacewalks in a briefing at 2 p.m. EST Tuesday, Jan. 6, at NASA’s Johnson Space Center in Houston. Watch [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronauts will conduct a pair of spacewalks in January outside of the International Space Station to prepare for the installation of a roll-out solar array and complete other tasks. Experts from NASA will preview the spacewalks in a briefing at 2 p.m. EST Tuesday, Jan. 6, at NASA’s Johnson Space Center in Houston. Watch \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=940674</guid>
-    </item>    <item>
-      <title>Imagine there&#39;s no AI. It&#39;s easy if you try</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/four_tech_trends_2025/</link>
-      <description>
-        <![CDATA[<h4>Four completely non-AI-related trends that will shape the future</h4> <p>The oxygen of publicity this year has mostly been consumed by our two-lettered friend, AI. There&#39;s no reason to think this will change in 2026. However, through the magic of journalism, here&#39;s a world where that&#39;s not true, a world where other things are happening that will shape the future. We like to call it the real world, and here&#39;s what&#39;s happening there and why it matters.…</p>]]>
-      </description>
-      <source:markdown>#### Four completely non-AI-related trends that will shape the future
-
-The oxygen of publicity this year has mostly been consumed by our two-lettered friend, AI. There&#39;s no reason to think this will change in 2026. However, through the magic of journalism, here&#39;s a world where that&#39;s not true, a world where other things are happening that will shape the future. We like to call it the real world, and here&#39;s what&#39;s happening there and why it matters.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243666</guid>
-    </item>    <item>
-      <title>Some Ants Sacrifice Stronger Exoskeletons for Larger Colonies, Which May Help Them Take Over New Environments</title>
-      <link>https://www.smithsonianmag.com/smart-news/some-ants-sacrifice-stronger-exoskeletons-for-larger-colonies-which-may-help-them-take-over-new-environments-180987924/</link>
-      <description>
-        <![CDATA[Species with thinner protective barriers may need fewer resources and tend to have a greater ability to adapt to new habitats, a study suggests]]>
-      </description>
-      <source:markdown>Species with thinner protective barriers may need fewer resources and tend to have a greater ability to adapt to new habitats, a study suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uOjpSbFe2PtTtKp3cs0_cF1HdiY=/420x240/filters:focal(350x197:351x198)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/12/7312f7c6-0129-4137-a94f-fd740918c3d2/low-res_myrmoteras_05.jpg" length="" type="" />
-    </item>    <item>
-      <title>A Galactic Embrace</title>
-      <link>https://www.nasa.gov/image-article/a-galactic-embrace/</link>
-      <description>
-        <![CDATA[Mid-infrared data from NASA’s James Webb Space Telescope (in white, gray, and red) and X-ray data from NASA’s Chandra X-ray Observatory (in blue) come together in this photo of colliding spiral galaxies released on Dec. 1, 2025. The pair grazed one another millions of years ago; billions of years in the future, they will merge [&#8230;]]]>
-      </description>
-      <source:markdown>Mid-infrared data from NASA’s James Webb Space Telescope (in white, gray, and red) and X-ray data from NASA’s Chandra X-ray Observatory (in blue) come together in this photo of colliding spiral galaxies released on Dec. 1, 2025. The pair grazed one another millions of years ago; billions of years in the future, they will merge \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=940259</guid>
-    </item>    <item>
-      <title>I Am Artemis: Jen Madsen and Trey Perryman</title>
-      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jen-madsen-and-trey-perryman/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Jen Madsen and Trey Perryman, leads of the Orion Mission Evaluation Room for the Artemis II mission: During NASA’s Artemis II mission, Jen Madsen and Trey Perryman will be leading a team monitoring the Orion spacecraft as it carries four astronauts around the Moon. The team works in the [&#8230;]]]>
-      </description>
-      <source:markdown>Listen to this audio excerpt from Jen Madsen and Trey Perryman, leads of the Orion Mission Evaluation Room for the Artemis II mission: During NASA’s Artemis II mission, Jen Madsen and Trey Perryman will be leading a team monitoring the Orion spacecraft as it carries four astronauts around the Moon. The team works in the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=923879</guid>
-    </item>    <item>
-      <title>How California built one of the world&#39;s biggest public-sector IT systems</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/fiscal_peoplesoft_california/</link>
-      <description>
-        <![CDATA[<h4>20 years, multiple delays, and millions of dollars later, FI$Cal is live – mostly</h4> <p>Since 2005, YouTube has gone from <a target="_blank" href="https://web.archive.org/web/20120706134045/http://www.usatoday.com/tech/news/techinnovations/2005-11-21-video-websites_x.htm">launching its first website</a> to serving up more than 100,000 years&#39; worth of video content every day. During the same period, the State of California has gone from the idea of adopting a single ERP, HCM, and procurement platform to getting nearly all of its departments on board – although there are still a few stragglers.…</p>]]>
-      </description>
-      <source:markdown>#### 20 years, multiple delays, and millions of dollars later, FI$Cal is live – mostly
-
-Since 2005, YouTube has gone from [launching its first website](https://web.archive.org/web/20120706134045/http://www.usatoday.com/tech/news/techinnovations/2005-11-21-video-websites_x.htm) to serving up more than 100,000 years&#39; worth of video content every day. During the same period, the State of California has gone from the idea of adopting a single ERP, HCM, and procurement platform to getting nearly all of its departments on board – although there are still a few stragglers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243652</guid>
-    </item>    <item>
-      <title>Europe&#39;s cloud challenge: Building an Airbus for the digital age</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/europes_cloud_challenge_building_an/</link>
-      <description>
-        <![CDATA[<h4>Countries that banded together to challenge Boeing in the air try to do the same to AWS, Microsoft, and Google on the ground</h4> <p><strong>Feature</strong>  More than half a century ago, a consortium of European aerospace businesses from the UK, France, Germany and Spain joined forces to take on America&#39;s Boeing. Fast forward to the 21st century and the countries are applying the same model needs to the world of cloud computing, giving the continent a fighting chance to reduce the digital domination of Big Tech.…</p>]]>
-      </description>
-      <source:markdown>#### Countries that banded together to challenge Boeing in the air try to do the same to AWS, Microsoft, and Google on the ground
-
-**Feature**  More than half a century ago, a consortium of European aerospace businesses from the UK, France, Germany and Spain joined forces to take on America&#39;s Boeing. Fast forward to the 21st century and the countries are applying the same model needs to the world of cloud computing, giving the continent a fighting chance to reduce the digital domination of Big Tech.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243627</guid>
-    </item>    <item>
-      <title>Why Kratom Is At The Heart Of A Big Public Health Debate</title>
-      <link>https://www.npr.org/2025/12/29/nx-s1-5633323/kratom-fda-drug-addictive-opioids</link>
-      <description>
-        <![CDATA[Kratom and 7-OH products are available in many smoke shops. But earlier this year, the FDA recommended certain 7-OH products be scheduled alongside opioids. This isn’t the first time kratom has come under scrutiny. Nearly a decade ago, the DEA wanted to make certain active ingredients in kratom controlled substances. Meaning products would go from being widely available to highly restricted. After a massive wave of protest, the DEA decided not to move forward. Producer <a href="https://www.npr.org/people/1112796909/rachel-carlson"target="_blank"   >Rachel Carlson</a> joins host <a href="https://www.npr.org/people/767284140/emily-kwong"target="_blank"   >Emily Kwong</a> to talk about what could happen this time around, and what scientists know – and don’t know – about kratom and 7-OH. <br/><br/><br><em>Interested in more of the science behind drugs and supplements? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Kratom and 7-OH products are available in many smoke shops. But earlier this year, the FDA recommended certain 7-OH products be scheduled alongside opioids. This isn’t the first time kratom has come under scrutiny. Nearly a decade ago, the DEA wanted to make certain active ingredients in kratom controlled substances. Meaning products would go from being widely available to highly restricted. After a massive wave of protest, the DEA decided not to move forward. Producer [Rachel Carlson](https://www.npr.org/people/1112796909/rachel-carlson) joins host [Emily Kwong](https://www.npr.org/people/767284140/emily-kwong) to talk about what could happen this time around, and what scientists know – and don’t know – about kratom and 7-OH.
-
-_Interested in more of the science behind drugs and supplements? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR2297209516.mp3?t=podcast&e=nx-s1-5633323&p=510351&d=773&size=12374144" length="12374144" type="audio/mpeg" />
-      <guid>cid://d1c2577b-b324-4fe7-8d0c-35754f258e91</guid>
-    </item>    <item>
-      <title>When the lights went out, and the shooting started, Y2K started to feel all too real</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/on_call/</link>
-      <description>
-        <![CDATA[<h4>More millennial tech support tales from your fellow readers</h4> <p><strong>On Call Y2K</strong>  Welcome to a special festive season edition of On Call, in which we share readers&#39; stories of working on the 31st of December 1999 – the moment the tech world held its breath and hoped years of Year 2000 bug remediation efforts would work.…</p>]]>
-      </description>
-      <source:markdown>#### More millennial tech support tales from your fellow readers
-
-**On Call Y2K**  Welcome to a special festive season edition of On Call, in which we share readers&#39; stories of working on the 31st of December 1999 – the moment the tech world held its breath and hoped years of Year 2000 bug remediation efforts would work.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243715</guid>
-    </item>    <item>
-      <title>Former IBM CEO Lou Gerstner passes, aged 83</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/lou_gerstner/</link>
-      <description>
-        <![CDATA[<h4>Oversaw a significant resurgence in Big Blue’s fortunes during the dotcom era</h4> <p>IBM has announced the death of its former CEO Lou Gerstner, who passed away on Saturday, aged 83.…</p>]]>
-      </description>
-      <source:markdown>#### Oversaw a significant resurgence in Big Blue’s fortunes during the dotcom era
-
-IBM has announced the death of its former CEO Lou Gerstner, who passed away on Saturday, aged 83.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243742</guid>
-    </item>    <item>
-      <title>Accused data thief threw MacBook into a river to destroy evidence</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/coupang_perpetrator_theft_details/</link>
-      <description>
-        <![CDATA[<h4>Former staffer of Korean e-tailer Coupang accessed 33 million records but may have done less damage than feared</h4> <p>Korean e-tailer Coupang claims a former employee has admitted to improperly <a target="_blank" href="https://www.theregister.com/2025/12/01/coupang_breach/">accessing</a> data describing 33 million of its customers, but says the accused deleted the stolen data.…</p>]]>
-      </description>
-      <source:markdown>#### Former staffer of Korean e-tailer Coupang accessed 33 million records but may have done less damage than feared
-
-Korean e-tailer Coupang claims a former employee has admitted to improperly [accessing](https://www.theregister.com/2025/12/01/coupang_breach/) data describing 33 million of its customers, but says the accused deleted the stolen data.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243741</guid>
-    </item>    <item>
-      <title>China wants to ban making yourself into an AI to keep aged relatives company</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/12/29/asia_tech_news_roundup/</link>
-      <description>
-        <![CDATA[<h4>PLUS: Australia buys air-gapped Google Cloud; Huawei triples use of home-built components; JAXA blames low pressure for rocket crash; And more</h4> <p><strong>Asia In Brief</strong>  China’s Cyberspace Administration on Saturday <a target="_blank" href="https://www.cac.gov.cn/2025-12/27/c_1768571207311996.htm">posted</a> draft rules governing the behaviour of AI companions that prohibit using them to serve as friends for the elderly.…</p>]]>
-      </description>
-      <source:markdown>#### PLUS: Australia buys air-gapped Google Cloud; Huawei triples use of home-built components; JAXA blames low pressure for rocket crash; And more
-
-**Asia In Brief**  China’s Cyberspace Administration on Saturday [posted](https://www.cac.gov.cn/2025-12/27/c_1768571207311996.htm) draft rules governing the behaviour of AI companions that prohibit using them to serve as friends for the elderly.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243740</guid>
     </item>
   </channel>
 </rss>
