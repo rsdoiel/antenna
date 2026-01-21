@@ -29,6 +29,7 @@ title: North America
 - [NPR Economic](https://feeds.npr.org/1017/rss.xml)
 - [Floodlight](https://floodlightnews.org/rss/)
 - [Current, News for Public Media Orgs](https://current.org/feed/)
+- [RAND, Policy Minded podcast](https://feeds.libsyn.com/131994/feed)
 
 # Magazines
 
