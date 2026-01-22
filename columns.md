@@ -363,3 +363,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Hopium Chronicles blog](https://www.hopiumchronicles.com/feed/)
 - [Public Notice blog](https://www.publicnotice.co/feed/)
 - [Shannon Laio blog](https://shannonliao.substack.com/feed/)
+- [Dead Simple Tech blog](https://deadsimpletech.com/rss)
+
