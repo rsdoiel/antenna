@@ -4,10 +4,61 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>22 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>23 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Great News From GDELT Project: “A Transformative New Chapter: Translating The Entire Quarter-Century TV News Archive Through Gemini For Just $54K + All Channels Now Translated”</title>
+      <link>https://www.infodocket.com/2026/01/23/great-news-from-gdelt-project-a-transformative-new-chapter-translating-the-entire-quarter-century-tv-news-archive-through-gemini-for-just-54k-all-channels-now-translated/</link>
+      <description>
+        <![CDATA[From a GDELT Project Post: Today we are announcing a transformative new chapter in planetary-scale translation and towards our vision of making it possible to see the world through others&#8217; eyes. In collaboration with the Internet Archive&#8217;s Television News Archive, we have completed the Gemini-powered machine translation of the Archive&#8217;s entire quarter-century archive of more [&#8230;]]]>
+      </description>
+      <source:markdown>From a GDELT Project Post: Today we are announcing a transformative new chapter in planetary-scale translation and towards our vision of making it possible to see the world through others’ eyes. In collaboration with the Internet Archive’s Television News Archive, we have completed the Gemini-powered machine translation of the Archive’s entire quarter-century archive of more \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167575</guid>
+    </item>    <item>
+      <title>Guest Post – The Next Era of Reference Management: An Interview with William Gunn</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/01/23/guest-post-the-next-era-of-reference-management-an-interview-with-william-gunn/</link>
+      <description>
+        <![CDATA[<p>Today's guest post features an interview with William Gunn discussing how AI will (or won't!) change the future of reference management tools.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/01/23/guest-post-the-next-era-of-reference-management-an-interview-with-william-gunn/">Guest Post – The Next Era of Reference Management: An Interview with William Gunn</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s guest post features an interview with William Gunn discussing how AI will (or won&#39;t!) change the future of reference management tools.
+
+The post [Guest Post – The Next Era of Reference Management: An Interview with William Gunn](https://scholarlykitchen.sspnet.org/2026/01/23/guest-post-the-next-era-of-reference-management-an-interview-with-william-gunn/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61478</guid>
+    </item>    <item>
+      <title>siegfried 1.11.4 released</title>
+      <link>https://www.itforarchivists.com/post/sf1114/</link>
+      <description>
+        <![CDATA[<p>Version 1.11.4 of siegfried is now available. Get it <a href="https://www.itforarchivists.com/siegfried">here</a>.</p>
+        <h3 id="changelog-v1114-2026-01-23">CHANGELOG v1.11.4 (2026-01-23)</h3>
+        <ul>
+        <li>update go version to 1.24.0</li>
+        <li>Roy speed-up by avoiding function calls in loops. Fixes #148. Implemented by Ross Spencer</li>
+        <li>update PRONOM to v122</li>
+        <li>update LOC to 2025-12-09</li>
+        <li>update TIKA to v3.2.3</li>
+        </ul>]]>
+      </description>
+      <source:markdown>Version 1.11.4 of siegfried is now available. Get it [here](https://www.itforarchivists.com/siegfried).
+
+### CHANGELOG v1.11.4 (2026-01-23)
+
+- update go version to 1.24.0
+- Roy speed-up by avoiding function calls in loops. Fixes #148. Implemented by Ross Spencer
+- update PRONOM to v122
+- update LOC to 2025-12-09
+- update TIKA to v3.2.3</source:markdown>
+      <guid>cid://https://www.itforarchivists.com/post/sf1114/</guid>
+    </item>    <item>
+      <title>The Atlantic: “Science is Drowning in AI Slop”</title>
+      <link>https://www.infodocket.com/2026/01/22/the-atlantic-science-is-drowning-in-ai-slop/</link>
+      <description>
+        <![CDATA[From The Atlantic. (via MSN): Scientific publishing has always had its plumbing problems. Even before ChatGPT, journal editors struggled to control the quantity and quality of submitted work. Alex Csiszar, a historian of science at Harvard, told me that he has found letters from editors going all the way back to the early 19th century [&#8230;]]]>
+      </description>
+      <source:markdown>From The Atlantic. (via MSN): Scientific publishing has always had its plumbing problems. Even before ChatGPT, journal editors struggled to control the quantity and quality of submitted work. Alex Csiszar, a historian of science at Harvard, told me that he has found letters from editors going all the way back to the early 19th century \[…\]</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167573</guid>
+    </item>    <item>
       <title>Guest Post — The Ghost in the Machine: Why Generative AI is a Crisis of Authorship, Not Just a Tool</title>
       <link>https://scholarlykitchen.sspnet.org/2026/01/22/guest-post-the-ghost-in-the-machine-why-generative-ai-is-a-crisis-of-authorship-not-just-a-tool/</link>
       <description>
@@ -500,10 +551,10 @@ The post [Guest Post — AI Isn’t Going to Pay for Content … At Least Not Ho
       <title>ARL Daily Intelligence (January 20–22)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-january-20-22/</link>
       <description>
-        <![CDATA[<p>Last Updated on January 21, 2026, 3:55 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday,...</p>
+        <![CDATA[<p>Last Updated on January 22, 2026, 1:13 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday,...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-january-20-22/">ARL Daily Intelligence (January 20–22)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on January 21, 2026, 3:55 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday,...
+      <source:markdown>Last Updated on January 22, 2026, 1:13 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday,...
 
 The post [ARL Daily Intelligence (January 20–22)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-january-20-22/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=47146</guid>
@@ -710,7 +761,7 @@ The post [Guest Post — Open Scholarship is Poised to Create More Value than Ev
         <![CDATA[Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.]]>
       </description>
       <source:markdown>Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/josiah-henson_father-hensons-story-of-his-own-life.epub?source=feed" length="587563" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/josiah-henson_father-hensons-story-of-his-own-life.epub?source=feed" length="587614" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life</guid>
     </item>    <item>
       <title>Online Event: University of Kansas Libraries Launches Global Speaker Series on Librarianship</title>
@@ -1507,168 +1558,6 @@ The post [The Year in Review: 2025 in The Scholarly Kitchen](https://scholarlyki
       </description>
       <source:markdown>Preprints for all articles found in in portal: Libraries and the Academy  (Vol 26, No 1) are now available online. Links below. From the ICU to Academia: A conversation with Maribeth Slebodnik (Editorial) Author(s): Ellysa Stern Cahoy, Maribeth Slebodnik Insights from a Burnout Debate: Occupational Health Psychology for Academic Librarianship (Worth Noting) Author(s): Matthew Weirick \[…\]</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=167462</guid>
-    </item>    <item>
-      <title>As I Lay Dying, by William Faulkner</title>
-      <link>https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying</link>
-      <description>
-        <![CDATA[After a woman in rural Mississippi dies, her husband and five children begin an arduous journey to convey her coffin back to her hometown.]]>
-      </description>
-      <source:markdown>After a woman in rural Mississippi dies, her husband and five children begin an arduous journey to convey her coffin back to her hometown.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying/downloads/william-faulkner_as-i-lay-dying.epub?source=feed" length="537998" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/william-faulkner/as-i-lay-dying</guid>
-    </item>    <item>
-      <title>The Faraway Bride, by Stella Benson</title>
-      <link>https://standardebooks.org/ebooks/stella-benson/the-faraway-bride</link>
-      <description>
-        <![CDATA[A young Russian man walks from Manchuria to Seoul to reclaim an old debt.]]>
-      </description>
-      <source:markdown>A young Russian man walks from Manchuria to Seoul to reclaim an old debt.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/stella-benson/the-faraway-bride/downloads/stella-benson_the-faraway-bride.epub?source=feed" length="673663" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/stella-benson/the-faraway-bride</guid>
-    </item>    <item>
-      <title>Years of Grace, by Margaret Ayer Barnes</title>
-      <link>https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace</link>
-      <description>
-        <![CDATA[A young woman comes of age in the American Midwest at the turn of the 20th century.]]>
-      </description>
-      <source:markdown>A young woman comes of age in the American Midwest at the turn of the 20th century.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace/downloads/margaret-ayer-barnes_years-of-grace.epub?source=feed" length="1098366" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace</guid>
-    </item>    <item>
-      <title>Not Without Laughter, by Langston Hughes</title>
-      <link>https://standardebooks.org/ebooks/langston-hughes/not-without-laughter</link>
-      <description>
-        <![CDATA[An African-American boy comes of age in a small town in Kansas.]]>
-      </description>
-      <source:markdown>An African-American boy comes of age in a small town in Kansas.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/langston-hughes/not-without-laughter/downloads/langston-hughes_not-without-laughter.epub?source=feed" length="443100" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/langston-hughes/not-without-laughter</guid>
-    </item>    <item>
-      <title>The End of the World, by Geoffrey Dennis</title>
-      <link>https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world</link>
-      <description>
-        <![CDATA[A philosophical reflection on how the end of the world would unfold based on hypothetical variables and relevant knowledge and historical context.]]>
-      </description>
-      <source:markdown>A philosophical reflection on how the end of the world would unfold based on hypothetical variables and relevant knowledge and historical context.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world/downloads/geoffrey-dennis_the-end-of-the-world.epub?source=feed" length="532439" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/geoffrey-dennis/the-end-of-the-world</guid>
-    </item>    <item>
-      <title>The Castle, by Franz Kafka</title>
-      <link>https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir</link>
-      <description>
-        <![CDATA[A land surveyor accepts an appointment in a distant town, but is surprised to find that he is unwanted there.]]>
-      </description>
-      <source:markdown>A land surveyor accepts an appointment in a distant town, but is surprised to find that he is unwanted there.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir/downloads/franz-kafka_the-castle_willa-muir-edwin-muir.epub?source=feed" length="932119" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir</guid>
-    </item>    <item>
-      <title>Vile Bodies, by Evelyn Waugh</title>
-      <link>https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies</link>
-      <description>
-        <![CDATA[A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.]]>
-      </description>
-      <source:markdown>A young man in Roaring Twenties London endures ups and downs in varied situations and relationships.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies/downloads/evelyn-waugh_vile-bodies.epub?source=feed" length="713210" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/evelyn-waugh/vile-bodies</guid>
-    </item>    <item>
-      <title>Miss Mole, by E. H. Young</title>
-      <link>https://standardebooks.org/ebooks/e-h-young/miss-mole</link>
-      <description>
-        <![CDATA[A middle-aged governess tries to find her purpose in life.]]>
-      </description>
-      <source:markdown>A middle-aged governess tries to find her purpose in life.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/e-h-young/miss-mole/downloads/e-h-young_miss-mole.epub?source=feed" length="1192504" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/e-h-young/miss-mole</guid>
-    </item>    <item>
-      <title>Cimarron, by Edna Ferber</title>
-      <link>https://standardebooks.org/ebooks/edna-ferber/cimarron</link>
-      <description>
-        <![CDATA[A colorful frontiersman and his southern belle wife migrate to Oklahoma during the 1889 land rush to start a new life.]]>
-      </description>
-      <source:markdown>A colorful frontiersman and his southern belle wife migrate to Oklahoma during the 1889 land rush to start a new life.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/edna-ferber/cimarron/downloads/edna-ferber_cimarron.epub?source=feed" length="711402" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/edna-ferber/cimarron</guid>
-    </item>    <item>
-      <title>Strong Poison, by Dorothy L. Sayers</title>
-      <link>https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison</link>
-      <description>
-        <![CDATA[A gentleman detective works to exonerate a woman accused of poisoning her ex-lover.]]>
-      </description>
-      <source:markdown>A gentleman detective works to exonerate a woman accused of poisoning her ex-lover.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison/downloads/dorothy-l-sayers_strong-poison.epub?source=feed" length="641355" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/dorothy-l-sayers/strong-poison</guid>
-    </item>    <item>
-      <title>The Maltese Falcon, by Dashiell Hammett</title>
-      <link>https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon</link>
-      <description>
-        <![CDATA[A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.]]>
-      </description>
-      <source:markdown>A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon/downloads/dashiell-hammett_the-maltese-falcon.epub?source=feed" length="1006533" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon</guid>
-    </item>    <item>
-      <title>Short Fiction, by Daphne du Maurier</title>
-      <link>https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction</link>
-      <description>
-        <![CDATA[A collection of short stories by Daphne du Maurier.]]>
-      </description>
-      <source:markdown>A collection of short stories by Daphne du Maurier.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction/downloads/daphne-du-maurier_short-fiction.epub?source=feed" length="285848" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction</guid>
-    </item>    <item>
-      <title>The Secret of the Old Clock, by Carolyn Keene</title>
-      <link>https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock</link>
-      <description>
-        <![CDATA[The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.]]>
-      </description>
-      <source:markdown>The sixteen-year-old daughter of a prominent attorney undertakes an investigation to search for a missing will.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock/downloads/carolyn-keene_the-secret-of-the-old-clock.epub?source=feed" length="448127" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/carolyn-keene/the-secret-of-the-old-clock</guid>
-    </item>    <item>
-      <title>The Mystery at Lilac Inn, by Carolyn Keene</title>
-      <link>https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn</link>
-      <description>
-        <![CDATA[A young amateur detective attempts to recover her friend’s stolen diamonds.]]>
-      </description>
-      <source:markdown>A young amateur detective attempts to recover her friend’s stolen diamonds.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn/downloads/carolyn-keene_the-mystery-at-lilac-inn.epub?source=feed" length="654134" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/carolyn-keene/the-mystery-at-lilac-inn</guid>
-    </item>    <item>
-      <title>The Hidden Staircase, by Carolyn Keene</title>
-      <link>https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase</link>
-      <description>
-        <![CDATA[A young amateur detective investigates a supposed haunting.]]>
-      </description>
-      <source:markdown>A young amateur detective investigates a supposed haunting.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase/downloads/carolyn-keene_the-hidden-staircase.epub?source=feed" length="650699" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/carolyn-keene/the-hidden-staircase</guid>
-    </item>    <item>
-      <title>Giant’s Bread, by Agatha Christie</title>
-      <link>https://standardebooks.org/ebooks/agatha-christie/giants-bread</link>
-      <description>
-        <![CDATA[The genesis of a monumental piece of music is described in the life of its composer.]]>
-      </description>
-      <source:markdown>The genesis of a monumental piece of music is described in the life of its composer.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/giants-bread/downloads/agatha-christie_giants-bread.epub?source=feed" length="671950" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/agatha-christie/giants-bread</guid>
-    </item>    <item>
-      <title>Welcome to the Public Domain in 2026</title>
-      <link>https://blog.archive.org/2026/01/01/welcome-to-the-public-domain-in-2026/</link>
-      <description>
-        <![CDATA[Celebrate the public domain with the Internet Archive in the following ways: On January 1, 2026, we celebrate published works from 1930 and published sound recordings from 1925 entering the [&#8230;]]]>
-      </description>
-      <source:markdown>Celebrate the public domain with the Internet Archive in the following ways: On January 1, 2026, we celebrate published works from 1930 and published sound recordings from 1925 entering the \[…\]</source:markdown>
-      <enclosure url="https://ia801501.us.archive.org/16/items/marx_brothers_202101/Marx%20Brothers/Marx%20Brothers%20%5B1930%5D%20Animal%20Crackers.mp4" length="556330698" type="video/mp4" />
-      <enclosure url="https://dn720209.ca.archive.org/0/items/the_three_stooges_specials/The%20Three%20Stooges%20-%200x001%20-%20Soup%20to%20Nuts%20%281930%29.mp4" length="446444421" type="video/mp4" />
-      <guid>cid://https://blog.archive.org/?p=29835</guid>
-    </item>    <item>
-      <title>NY Times: “NASA’s Largest Library is Closing Amid Staff and Lab Cuts”</title>
-      <link>https://www.infodocket.com/2025/12/31/ny-times-nasas-largest-library-is-closing-amid-staff-and-lab-cuts/</link>
-      <description>
-        <![CDATA[A new NY Times article about the closing of the Goddard Space Flight Center Library closing. From the Article: The Trump administration is closing NASA’s largest research library on Friday, a facility that houses tens of thousands of books, documents and journals — many of them not digitized or available anywhere else. Jacob Richmond, a [&#8230;]]]>
-      </description>
-      <source:markdown>A new NY Times article about the closing of the Goddard Space Flight Center Library closing. From the Article: The Trump administration is closing NASA’s largest research library on Friday, a facility that houses tens of thousands of books, documents and journals — many of them not digitized or available anywhere else. Jacob Richmond, a \[…\]</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167459</guid>
     </item>
   </channel>
 </rss>
