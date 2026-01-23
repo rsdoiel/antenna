@@ -4,10 +4,414 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>23 Jan 26 08:14 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Against Markdown</title>
+      <link>https://www.osnews.com/story/144253/against-markdown/</link>
+      <description>
+        <![CDATA[So Markdown is this Lightweight Markup Language. Everyone (relative; among programmers, writers, and other “power-users”) uses it. LLMs use it. So it’s destined to eat the world. But it doesn’t mean Markdown is good. ↫ Artyom Bologov We have these crazy fast and complex computers, but I&#8217;m still supposed to style text with obscure, arbitrary symbols, like an animal? We invented WYSIWYG decades ago, and our computers should be able to figure out how to properly share styled/unstyled text without us users having to learn markup languages using arcane symbols that require weird claw grips to type. The widespread use of Markdown is not indicative of its merits; it merely underlines the utter failure of the computing industry to fix basic problems.]]>
+      </description>
+      <source:markdown>So Markdown is this Lightweight Markup Language. Everyone (relative; among programmers, writers, and other “power-users”) uses it. LLMs use it. So it’s destined to eat the world. But it doesn’t mean Markdown is good. ↫ Artyom Bologov We have these crazy fast and complex computers, but I’m still supposed to style text with obscure, arbitrary symbols, like an animal? We invented WYSIWYG decades ago, and our computers should be able to figure out how to properly share styled/unstyled text without us users having to learn markup languages using arcane symbols that require weird claw grips to type. The widespread use of Markdown is not indicative of its merits; it merely underlines the utter failure of the computing industry to fix basic problems.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144253</guid>
+    </item>    <item>
+      <title>AMS 2025 Hyperwall Schedule</title>
+      <link>https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/</link>
+      <description>
+        <![CDATA[106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable […]]]>
+      </description>
+      <source:markdown>106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/</guid>
+    </item>    <item>
+      <title>Monster Neutrino Could Be a Messenger of Ancient Black Holes</title>
+      <link>https://www.quantamagazine.org/monster-neutrino-could-be-a-messenger-of-ancient-black-holes-20260123/</link>
+      <description>
+        <![CDATA[Primordial black holes could rewrite our understanding of dark matter and the early universe. A record-breaking detection at the bottom of the Mediterranean Sea has some physicists wondering if we just spotted one.            <p>The post <a href="https://www.quantamagazine.org/monster-neutrino-could-be-a-messenger-of-ancient-black-holes-20260123/" target="_blank">Monster Neutrino Could Be a Messenger of Ancient Black Holes</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Primordial black holes could rewrite our understanding of dark matter and the early universe. A record-breaking detection at the bottom of the Mediterranean Sea has some physicists wondering if we just spotted one.
+
+The post [Monster Neutrino Could Be a Messenger of Ancient Black Holes](https://www.quantamagazine.org/monster-neutrino-could-be-a-messenger-of-ancient-black-holes-20260123/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=158286</guid>
+    </item>    <item>
+      <title>Journey to Center of Milky Way With Upcoming NASA Roman Core Survey</title>
+      <link>https://www.nasa.gov/missions/roman-space-telescope/journey-to-center-of-milky-way-with-upcoming-nasa-roman-core-survey/</link>
+      <description>
+        <![CDATA[At the heart of our own galaxy, there is a dense thicket of stars with a supermassive black hole at the very center. NASA’s Nancy Grace Roman Space Telescope will provide the deepest-ever view of this zone, revealing stars, planets, and unique objects that resist definition. Based on the input of astronomers from across the [&#8230;]]]>
+      </description>
+      <source:markdown>At the heart of our own galaxy, there is a dense thicket of stars with a supermassive black hole at the very center. NASA’s Nancy Grace Roman Space Telescope will provide the deepest-ever view of this zone, revealing stars, planets, and unique objects that resist definition. Based on the input of astronomers from across the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=946704</guid>
+    </item>    <item>
+      <title>United Nations Declares That the World Has Entered an Era of &#39;Global Water Bankruptcy&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/</link>
+      <description>
+        <![CDATA[We're living beyond our hydrological means and need to focus on long-term recovery, according to a new report]]>
+      </description>
+      <source:markdown>We&#39;re living beyond our hydrological means and need to focus on long-term recovery, according to a new report</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hScD5PEmiPJFMREBa0ag_fWid7Q=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/2f/db2fa825-4b97-4c35-873a-1638c8ce6d54/gettyimages-1980962632.jpg" length="26958790" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/</guid>
+    </item>    <item>
+      <title>NASA Conducts Hot Fire of RS-25 Engine</title>
+      <link>https://www.nasa.gov/image-article/hot-fire-of-rs25-engine/</link>
+      <description>
+        <![CDATA[NASA successfully conducted a hot fire of RS-25 engine No. 2063 on Jan. 22 at the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, clearing the way for the engine to be installed for the agency’s Artemis IV mission. &#160; The RS-25 engines help power NASA’s SLS (Space Launch [&#8230;]]]>
+      </description>
+      <source:markdown>NASA successfully conducted a hot fire of RS-25 engine No. 2063 on Jan. 22 at the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, clearing the way for the engine to be installed for the agency’s Artemis IV mission.   The RS-25 engines help power NASA’s SLS (Space Launch \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=947696</guid>
+    </item>    <item>
+      <title>TESS Status Updates</title>
+      <link>https://science.nasa.gov/missions/tess/tess-status-update/</link>
+      <description>
+        <![CDATA[Jan. 23, 2026 NASA’s TESS Returns to Science Observations NASA’s TESS (Transiting Exoplanet Survey Satellite) entered safe mode Jan. 15 and returned to normal science operations Jan. 18.  The operations team determined the issue arose when TESS slewed to point at a target, but its solar panels did not rotate to remain pointed at the […]]]>
+      </description>
+      <source:markdown>Jan. 23, 2026 NASA’s TESS Returns to Science Observations NASA’s TESS (Transiting Exoplanet Survey Satellite) entered safe mode Jan. 15 and returned to normal science operations Jan. 18.  The operations team determined the issue arose when TESS slewed to point at a target, but its solar panels did not rotate to remain pointed at the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/tess/nasas-tess-temporarily-pauses-science-observations/</guid>
+    </item>    <item>
+      <title>Tesla Full Self Driving subscription to rise alongside its capabilities</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/tesla_full_self_driving_subscription/</link>
+      <description>
+        <![CDATA[<h4>One-time FSD purchase no longer available as Elon Musk talks up future where drivers can be asleep at the wheel</h4> <p>Having confirmed Tesla will start charging $99 a month for supervised Full Self-Driving (FSD), CEO Elon Musk has told the faithful that the cost will rise &#34;as FSD&#39;s capabilities improve.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### One-time FSD purchase no longer available as Elon Musk talks up future where drivers can be asleep at the wheel
+
+Having confirmed Tesla will start charging $99 a month for supervised Full Self-Driving (FSD), CEO Elon Musk has told the faithful that the cost will rise &#34;as FSD&#39;s capabilities improve.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244145</guid>
+    </item>    <item>
+      <title>Devs begin to assess options for MySQL&#39;s future beyond Oracle</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/mysql_post_oracle/</link>
+      <description>
+        <![CDATA[<h4>As Big Red&#39;s governance of the popular database comes into question, contributors to MySQL consider wresting control</h4> <p>Developers in the MySQL community are working together to challenge Oracle to improve transparency and commitment in its handling of the popular open source database, while considering other options, including forking the code.…</p>]]>
+      </description>
+      <source:markdown>#### As Big Red&#39;s governance of the popular database comes into question, contributors to MySQL consider wresting control
+
+Developers in the MySQL community are working together to challenge Oracle to improve transparency and commitment in its handling of the popular open source database, while considering other options, including forking the code.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244115</guid>
+    </item>    <item>
+      <title>Fortinet admits FortiGate SSO bug still exploitable despite December patch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/fortinet_fortigate_patch/</link>
+      <description>
+        <![CDATA[<h4>Fix didn&#39;t quite do the job – attackers spotted logging in</h4> <p>Fortinet has confirmed that attackers are actively bypassing a December patch for a critical FortiCloud single sign-on (SSO) authentication flaw after customers reported suspicious logins on devices supposedly fully up to date.…</p>]]>
+      </description>
+      <source:markdown>#### Fix didn&#39;t quite do the job – attackers spotted logging in
+
+Fortinet has confirmed that attackers are actively bypassing a December patch for a critical FortiCloud single sign-on (SSO) authentication flaw after customers reported suspicious logins on devices supposedly fully up to date.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244144</guid>
+    </item>    <item>
+      <title>Qualcomm CEO pockets 15% pay rise as profits fall 45%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/qualcomm_ceo_pay/</link>
+      <description>
+        <![CDATA[<h4>Cristiano Amon took home almost $30M in 2025 as the chipmaker booked higher revenues despite earnings slide</h4> <p>Qualcomm CEO Cristiano Amon saw his pay packet swell to $29.7 million in fiscal 2025, up from $25.91 million the year before, even as Qualcomm&#39;s full-year net income fell 45 percent.…</p>]]>
+      </description>
+      <source:markdown>#### Cristiano Amon took home almost $30M in 2025 as the chipmaker booked higher revenues despite earnings slide
+
+Qualcomm CEO Cristiano Amon saw his pay packet swell to $29.7 million in fiscal 2025, up from $25.91 million the year before, even as Qualcomm&#39;s full-year net income fell 45 percent.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244143</guid>
+    </item>    <item>
+      <title>Microsoft 365 outage drags on for nearly 10 hours during bad night for North American infra</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/microsoft_365_outage/</link>
+      <description>
+        <![CDATA[<h4>Down to 364.5 already: Redmond&#39;s crappy 2026 continues</h4> <p>Microsoft 365 suffered a widespread outage last night affecting multiple services including Outlook – adding to the megacorp&#39;s troubled start to 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Down to 364.5 already: Redmond&#39;s crappy 2026 continues
+
+Microsoft 365 suffered a widespread outage last night affecting multiple services including Outlook – adding to the megacorp&#39;s troubled start to 2026.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244141</guid>
+    </item>    <item>
+      <title>British government caves on datacenter approval after legal challenge</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/uk_gov_dc/</link>
+      <description>
+        <![CDATA[<h4>Ministry admits greenlighting London-based megabit barn without proper environmental safeguards</h4> <p>The British government has conceded it should not have approved a campus near London&#39;s M25 orbital motorway and that the decision should be quashed, following a legal challenge by campaign group Foxglove.…</p>]]>
+      </description>
+      <source:markdown>#### Ministry admits greenlighting London-based megabit barn without proper environmental safeguards
+
+The British government has conceded it should not have approved a campus near London&#39;s M25 orbital motorway and that the decision should be quashed, following a legal challenge by campaign group Foxglove.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244120</guid>
+    </item>    <item>
+      <title>London boroughs limping back online months after cyberattack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/landmark_milestone_as_hammersmith_fulham/</link>
+      <description>
+        <![CDATA[<h4>Direct debits? Maybe February. Birth certificates? Dream on. Council tax bills? Oh, those are coming</h4> <p>Hammersmith &amp; Fulham Council says payments are now being processed as usual, two months after a cyberattack that affected multiple boroughs in the UK&#39;s capital city.…</p>]]>
+      </description>
+      <source:markdown>#### Direct debits? Maybe February. Birth certificates? Dream on. Council tax bills? Oh, those are coming
+
+Hammersmith &#38; Fulham Council says payments are now being processed as usual, two months after a cyberattack that affected multiple boroughs in the UK&#39;s capital city.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244140</guid>
+    </item>    <item>
+      <title>UK trade department put civil servants&#39; feelings first during Windows 11 migration</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/uk_dbt_windows_11/</link>
+      <description>
+        <![CDATA[<h4>Is that the cloud? No, it&#39;s incense wafting through Whitehall</h4> <p>There was a time when an operating system upgrade meant wailing, gnashing of teeth, and a dive in productivity as computers and staffers stopped working for... well, as long as it took.…</p>]]>
+      </description>
+      <source:markdown>#### Is that the cloud? No, it&#39;s incense wafting through Whitehall
+
+There was a time when an operating system upgrade meant wailing, gnashing of teeth, and a dive in productivity as computers and staffers stopped working for... well, as long as it took.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244123</guid>
+    </item>    <item>
+      <title>Marching orders delayed: Veterans&#39; Digital ID off to a slow start</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/slow_start_for_veterans_digital/</link>
+      <description>
+        <![CDATA[<h4>Much owed to the few, but takeup is under 1%</h4> <p>More than 15,000 former members of the UK&#39;s armed forces have successfully applied for a digital version of their veterans ID card since its launch in October, according to the Government Digital Service (GDS). …</p>]]>
+      </description>
+      <source:markdown>#### Much owed to the few, but takeup is under 1%
+
+More than 15,000 former members of the UK&#39;s armed forces have successfully applied for a digital version of their veterans ID card since its launch in October, according to the Government Digital Service (GDS). …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244116</guid>
+    </item>    <item>
+      <title>The plight of penguins in Antarctica</title>
+      <link>https://www.npr.org/2026/01/23/nx-s1-5678631/climate-species-penguins-antarctica-breeding-season</link>
+      <description>
+        <![CDATA[A new study shows penguins are <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70201"target="_blank"   >breeding earlier than ever</a> in the Antarctic Peninsula. This region is one of the fastest-warming areas of the world due to climate change, and penguins time their breeding period to environmental conditions. That’s everything from the temperature outside and whether there’s ice on the ground to what food is available. Changes in those conditions could contribute to mating changes. Plus, answers to a debate about how ice melts and how dirty diapers train parents in the art of disgust. <br/><br/><br><em>Have a scientific question you want us to answer? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><br><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>. </em><br/><br/><br><em>This episode was produced by Jason Fuller and Rachel Carlson. It was edited by Rebecca Ramirez and Christopher Intagliata. Tyler Jones checked the facts. The audio engineers were Kwesi Lee and Hannah Gluvna.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>A new study shows penguins are [breeding earlier than ever](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70201) in the Antarctic Peninsula. This region is one of the fastest-warming areas of the world due to climate change, and penguins time their breeding period to environmental conditions. That’s everything from the temperature outside and whether there’s ice on the ground to what food is available. Changes in those conditions could contribute to mating changes. Plus, answers to a debate about how ice melts and how dirty diapers train parents in the art of disgust.
+
+_Have a scientific question you want us to answer? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+_Listen to Short Wave on_ [_Spotify_](https://n.pr/3HOQKeK) _and_ [_Apple Podcasts_](https://n.pr/3WA9vqh) _._
+
+_This episode was produced by Jason Fuller and Rachel Carlson. It was edited by Rebecca Ramirez and Christopher Intagliata. Tyler Jones checked the facts. The audio engineers were Kwesi Lee and Hannah Gluvna._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR7487274387.mp3?t=podcast&e=nx-s1-5678631&p=510351&d=512&size=8199568" length="8199568" type="audio/mpeg" />
+      <guid>cid://a4be0893-b7c6-40fd-aba3-882d8417afb5</guid>
+    </item>    <item>
+      <title>Tech support detective solved PC crime by looking in the carpark</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/on_call/</link>
+      <description>
+        <![CDATA[<h4>Overnight action made for a sticky situation in the candy factory</h4> <p><strong>On Call</strong>  Some tech support jobs are sweet, and others go sour. Whatever taste they leave in your mouth, <em>The Register</em> celebrates them all each week in On Call – the reader-contributed column that shares your support experiences.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Overnight action made for a sticky situation in the candy factory
+
+**On Call**  Some tech support jobs are sweet, and others go sour. Whatever taste they leave in your mouth, _The Register_ celebrates them all each week in On Call – the reader-contributed column that shares your support experiences.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244027</guid>
+    </item>    <item>
+      <title>Winter Grips the Michigan Mitten</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/winter-grips-the-michigan-mitten/</link>
+      <description>
+        <![CDATA[A blanket of snow spanned Michigan and much of the Great Lakes region following a potent cold snap.]]>
+      </description>
+      <source:markdown>A blanket of snow spanned Michigan and much of the Great Lakes region following a potent cold snap.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/winter-grips-the-michigan-mitten/</guid>
+    </item>    <item>
+      <title>Oracle, Michael Dell, named as investors in JV that will run TikTok&#39;s US operations</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/jv_announces_tiktok_us_acquisition/</link>
+      <description>
+        <![CDATA[<h4>Big Red gets to store data, advise on security, and store the &#39;I&#39;ll watch just one more video&#39; algo</h4> <p>Made-in-China social network TikTok has announced the formation of a joint venture that will run its US operations, the condition lawmakers required for its flagship app to continue operating in America.…</p>]]>
+      </description>
+      <source:markdown>#### Big Red gets to store data, advise on security, and store the &#39;I&#39;ll watch just one more video&#39; algo
+
+Made-in-China social network TikTok has announced the formation of a joint venture that will run its US operations, the condition lawmakers required for its flagship app to continue operating in America.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244136</guid>
+    </item>    <item>
+      <title>Intel puts consumer chip production on back burner as datacenters make a run on Xeons</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/intel_earnings_q4_2025/</link>
+      <description>
+        <![CDATA[<h4>CFO David Zinsner says foundry capacity should improve starting in Q2</h4> <p>If you notice PC prices creeping up over the next few months, the rising cost of memory won’t be the only reason, because on Thursday Intel said it is reallocating foundry capacity from client chips to meet surging demand for Xeon processors used in AI servers.…</p>]]>
+      </description>
+      <source:markdown>#### CFO David Zinsner says foundry capacity should improve starting in Q2
+
+If you notice PC prices creeping up over the next few months, the rising cost of memory won’t be the only reason, because on Thursday Intel said it is reallocating foundry capacity from client chips to meet surging demand for Xeon processors used in AI servers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244135</guid>
+    </item>    <item>
+      <title>Former crypto-mining company building 430 MW datacenter in secret location for secret client</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/applied_digital_secret_datacenter/</link>
+      <description>
+        <![CDATA[<h4>Keeps location under wraps after communities opposed past projects</h4> <p>Crypto miner turned AI infrastructure provider Applied Digital announced it has broken ground on a 430 MW data center somewhere in the southern US, but it isn’t yet ready to reveal the location of its new facility.…</p>]]>
+      </description>
+      <source:markdown>#### Keeps location under wraps after communities opposed past projects
+
+Crypto miner turned AI infrastructure provider Applied Digital announced it has broken ground on a 430 MW data center somewhere in the southern US, but it isn’t yet ready to reveal the location of its new facility.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244129</guid>
+    </item>    <item>
+      <title>Crims hit the easy button for Scattered-Spider style helpdesk scams</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_sell_voice_phishing_kits/</link>
+      <description>
+        <![CDATA[<h4>Teach a crook to phish…</h4> <p>Criminals can more easily pull off social engineering scams and other forms of identity fraud thanks to custom voice-phishing kits being sold on dark web forums and messaging platforms.…</p>]]>
+      </description>
+      <source:markdown>#### Teach a crook to phish…
+
+Criminals can more easily pull off social engineering scams and other forms of identity fraud thanks to custom voice-phishing kits being sold on dark web forums and messaging platforms.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244131</guid>
+    </item>    <item>
+      <title>NASA’s Day of Remembrance 2026</title>
+      <link>https://www.nasa.gov/image-article/nasas-day-of-remembrance-2026/</link>
+      <description>
+        <![CDATA[The Space Shuttle Challenger Memorial is seen during a wreath laying ceremony that was part of NASA&#8217;s Day of Remembrance, Thursday, Jan. 22, 2026, at Arlington National Cemetery in Arlington, Va. Wreaths were laid in memory of those men and women who lost their lives in the quest for space exploration. Each January, NASA pauses [&#8230;]]]>
+      </description>
+      <source:markdown>The Space Shuttle Challenger Memorial is seen during a wreath laying ceremony that was part of NASA’s Day of Remembrance, Thursday, Jan. 22, 2026, at Arlington National Cemetery in Arlington, Va. Wreaths were laid in memory of those men and women who lost their lives in the quest for space exploration. Each January, NASA pauses \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=947642</guid>
+    </item>    <item>
+      <title>Approval to Exceed GSA Lodging for LPSC 2026</title>
+      <link>https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2026/</link>
+      <description>
+        <![CDATA[This letter from SARA is to issue a waiver for NASA grantees attending LPSC2026, allowing them to be reimbursed out of their grants for their actual lodging, although it’s expected to be above the approved GSA amount. This waiver does not supersede the travel policy of your institution if it is more restrictive. Note: I have […]]]>
+      </description>
+      <source:markdown>This letter from SARA is to issue a waiver for NASA grantees attending LPSC2026, allowing them to be reimbursed out of their grants for their actual lodging, although it’s expected to be above the approved GSA amount. This waiver does not supersede the travel policy of your institution if it is more restrictive. Note: I have \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2026/</guid>
+    </item>    <item>
+      <title>Trump says he got a deal for rare earths in Greenland, but they won&#39;t come easy</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/trump_greenland_rare_earths_hard/</link>
+      <description>
+        <![CDATA[<h4>You can&#39;t just grab &#39;em by the mine shafts - there aren&#39;t any</h4> <p>The US invasion of Greenland might be off the table for now, but the Trump administration won&#39;t have an easy time using the rare earth elements and critical minerals it claims it&#39;s getting access to as part of a deal with NATO. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### You can&#39;t just grab &#39;em by the mine shafts - there aren&#39;t any
+
+The US invasion of Greenland might be off the table for now, but the Trump administration won&#39;t have an easy time using the rare earth elements and critical minerals it claims it&#39;s getting access to as part of a deal with NATO. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244128</guid>
+    </item>    <item>
+      <title>Rare Twin Mountain Gorillas Born in the Congo, Giving Hope to Those Working to Conserve the Endangered Animals</title>
+      <link>https://www.smithsonianmag.com/smart-news/rare-twin-mountain-gorillas-born-in-the-congo-giving-hope-to-those-working-to-conserve-the-endangered-animals-180988047/</link>
+      <description>
+        <![CDATA[While the birth is sparking joy, infant mountain gorillas are vulnerable, and twins can be twice as hard for a mother to take care of]]>
+      </description>
+      <source:markdown>While the birth is sparking joy, infant mountain gorillas are vulnerable, and twins can be twice as hard for a mother to take care of</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pan0aVxLkrvxYZuqDRJOVVlsj2U=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f3/99/f399b6e6-4496-4e30-9e88-c58525179c67/smithsonian_feature_images_12.png" length="2324620" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/rare-twin-mountain-gorillas-born-in-the-congo-giving-hope-to-those-working-to-conserve-the-endangered-animals-180988047/</guid>
+    </item>    <item>
+      <title>AI conference&#39;s papers contaminated by AI hallucinations</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/neurips_papers_contaiminated_ai_hallucinations/</link>
+      <description>
+        <![CDATA[<h4>100 vibe citations spotted in 51 NeurIPS papers show vetting efforts have room for improvement</h4> <p>GPTZero, a detector of AI output, has found yet again that scientists are undermining their credibility by relying on unreliable AI assistance.…</p>]]>
+      </description>
+      <source:markdown>#### 100 vibe citations spotted in 51 NeurIPS papers show vetting efforts have room for improvement
+
+GPTZero, a detector of AI output, has found yet again that scientists are undermining their credibility by relying on unreliable AI assistance.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244130</guid>
+    </item>    <item>
+      <title>ReactOS turns 30</title>
+      <link>https://www.osnews.com/story/144248/reactos-turns-30/</link>
+      <description>
+        <![CDATA[ReactOS is celebrating its 30th birthday. Happy Birthday ReactOS! Today marks 30 years since the first commit to the ReactOS source tree. It’s been such a long journey that many of our contributors today, including myself, were not alive during this event. Yet our mission to deliver “your favorite Windows apps and drivers in an open-source environment you can trust” continues to bring people together. Let’s take a brief look at some of the high and low points throughout our history. ↫ Carl Bialorucki at the ReactOS website OSNews has been following ReactOS since about 2002 or so (the oldest reference I could find, but note that our 1997-2001 content isn&#8217;t available online, so we may have mentioned it earlier), so you can definitely say we all grew up alongside ReactOS&#8217; growth and development. All of the events the team mentions in their retrospective on 30 years of ReactOS were covered here on OSNews as well, which is wild to think about. Personally, I don&#8217;t really know how to feel about the project. On the one hand, I absolutely adore that dedicated, skilled, and talented individuals dedicate their precious free time to something as ambitious as creating a Windows NT-compatible operating system, and there&#8217;s no denying they&#8217;ve achieved incredible feats of engineering few people in the world are capable of. ReactOS is a hobby operating system that survived the test of time where few others have &#8211; AtheOS, Syllable, SkyOS , and so many others mentioned in that oldest reference I linked to are long dead and gone &#8211; and that alone makes it a massively successful project. On the other hand, its sheer ambition is also what holds the project down. If you say you&#8217;re going to offer a Windows NT-compatible operating system, you set expectations so insanely high you&#8217;ll never even come close to meeting them. Every time I&#8217;ve seen someone try ReactOS, either in writing or on YouTube, they always seem to come away disappointed &#8211; not because ReactOS isn&#8217;t impressive, but because it&#8217;s inevitably so far removed from its ambitious goals. And that&#8217;s a real shame. If you take away that ambitious goal of being Windows NT-compatible, and just focus on what they&#8217;ve already achieved as it stands now, there&#8217;s a really impressive and fun alternative operating system here. I really hope the next 30 years will be kind to ReactOS.]]>
+      </description>
+      <source:markdown>ReactOS is celebrating its 30th birthday. Happy Birthday ReactOS! Today marks 30 years since the first commit to the ReactOS source tree. It’s been such a long journey that many of our contributors today, including myself, were not alive during this event. Yet our mission to deliver “your favorite Windows apps and drivers in an open-source environment you can trust” continues to bring people together. Let’s take a brief look at some of the high and low points throughout our history. ↫ Carl Bialorucki at the ReactOS website OSNews has been following ReactOS since about 2002 or so (the oldest reference I could find, but note that our 1997-2001 content isn’t available online, so we may have mentioned it earlier), so you can definitely say we all grew up alongside ReactOS’ growth and development. All of the events the team mentions in their retrospective on 30 years of ReactOS were covered here on OSNews as well, which is wild to think about. Personally, I don’t really know how to feel about the project. On the one hand, I absolutely adore that dedicated, skilled, and talented individuals dedicate their precious free time to something as ambitious as creating a Windows NT-compatible operating system, and there’s no denying they’ve achieved incredible feats of engineering few people in the world are capable of. ReactOS is a hobby operating system that survived the test of time where few others have – AtheOS, Syllable, SkyOS , and so many others mentioned in that oldest reference I linked to are long dead and gone – and that alone makes it a massively successful project. On the other hand, its sheer ambition is also what holds the project down. If you say you’re going to offer a Windows NT-compatible operating system, you set expectations so insanely high you’ll never even come close to meeting them. Every time I’ve seen someone try ReactOS, either in writing or on YouTube, they always seem to come away disappointed – not because ReactOS isn’t impressive, but because it’s inevitably so far removed from its ambitious goals. And that’s a real shame. If you take away that ambitious goal of being Windows NT-compatible, and just focus on what they’ve already achieved as it stands now, there’s a really impressive and fun alternative operating system here. I really hope the next 30 years will be kind to ReactOS.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144248</guid>
+    </item>    <item>
+      <title>See How These Wristwatches Reimagine Famous Masterpieces by Claude Monet, Jackson Pollock, Edgar Degas and Paul Klee</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-how-these-wristwatches-reimagine-famous-masterpieces-by-claude-monet-jackson-pollock-edgar-degas-and-paul-klee-180988030/</link>
+      <description>
+        <![CDATA[The Swiss watchmaker Swatch has partnered with the Guggenheim to create a collection inspired by 20th-century artworks from the Impressionist and Abstract Expressionist movements]]>
+      </description>
+      <source:markdown>The Swiss watchmaker Swatch has partnered with the Guggenheim to create a collection inspired by 20th-century artworks from the Impressionist and Abstract Expressionist movements</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-JGjQBvbPh3ohpv3CvJDE-PdzAY=/420x240/filters:focal(768x965:769x966)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/57/ab57c831-b5ef-4d54-99b3-7e53c657a211/sc01_26_guggenheim_group1_grad_blue_web_4x5.jpg" length="1965709" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-how-these-wristwatches-reimagine-famous-masterpieces-by-claude-monet-jackson-pollock-edgar-degas-and-paul-klee-180988030/</guid>
+    </item>    <item>
+      <title>Raspberry Pi flashes new branded USB drives that promise speedy performance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/raspberry_pi_usb_drive/</link>
+      <description>
+        <![CDATA[<h4>The aluminum sticks come in 128GB and 256GB variants</h4> <p>Over the past few years, Raspberry Pi has released a slew of peripherals and accessories that offer great build quality and premium features, whether you’re using them with everyone’s favorite single-board computer or not. Today’s entry: a USB flash drive that promises high speeds, good looks, and strong durability.…</p>]]>
+      </description>
+      <source:markdown>#### The aluminum sticks come in 128GB and 256GB variants
+
+Over the past few years, Raspberry Pi has released a slew of peripherals and accessories that offer great build quality and premium features, whether you’re using them with everyone’s favorite single-board computer or not. Today’s entry: a USB flash drive that promises high speeds, good looks, and strong durability.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244127</guid>
+    </item>    <item>
+      <title>Widely Attended Gatherings (WAGs) Determinations</title>
+      <link>https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/</link>
+      <description>
+        <![CDATA[2026 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis II Rollout Reception 1.14.26 Maryland Space Business Roundtable 1.14.26 2025 Commercial Space Federation 12.9.25 Ansys Government Initiatives (AGI) 12.16.25 Maryland Space Business Roundtable (MSBR) 12.10.25 Women in Aerospace 12.11.25 Umbra Lab Inc 12.3.25 Space Policy Institute 10.21.2025 MSBR Space Business Roundtable 10.15.2025 76th [&#8230;]]]>
+      </description>
+      <source:markdown>2026 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis II Rollout Reception 1.14.26 Maryland Space Business Roundtable 1.14.26 2025 Commercial Space Federation 12.9.25 Ansys Government Initiatives (AGI) 12.16.25 Maryland Space Business Roundtable (MSBR) 12.10.25 Women in Aerospace 12.11.25 Umbra Lab Inc 12.3.25 Space Policy Institute 10.21.2025 MSBR Space Business Roundtable 10.15.2025 76th \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?migration=converted-node-367636</guid>
+    </item>    <item>
+      <title>Archaeologists Say They&#39;ve Finally Found a Long-Lost Basilica That Matches the Description the Architect Wrote 2,000 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-finally-found-a-long-lost-basilica-that-matches-the-description-the-architect-wrote-2000-years-ago-180988038/</link>
+      <description>
+        <![CDATA[The structure is the first known evidence of a building attributed to Vitruvius, the author of an architectural treatise that influenced thinkers like Leonardo da Vinci]]>
+      </description>
+      <source:markdown>The structure is the first known evidence of a building attributed to Vitruvius, the author of an architectural treatise that influenced thinkers like Leonardo da Vinci</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/erQsuVxHksOHtIfmP4prThjxX9U=/420x240/filters:focal(900x600:901x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/3d/973dfa1a-c1c9-4583-bf93-0e13734cfe01/fanovitruvio_3.jpg" length="1012185" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-finally-found-a-long-lost-basilica-that-matches-the-description-the-architect-wrote-2000-years-ago-180988038/</guid>
+    </item>    <item>
+      <title>Crims compromised energy firms&#39; Microsoft accounts, sent 600 phishing emails</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_compromised_energy_firms_microsoft/</link>
+      <description>
+        <![CDATA[<h4>Logging in, not breaking in</h4> <p>Unknown attackers are abusing Microsoft SharePoint file-sharing services to target multiple energy-sector organizations, harvest user credentials, take over corporate inboxes, and then send hundreds of phishing emails from compromised accounts to contacts inside and outside those organizations.…</p>]]>
+      </description>
+      <source:markdown>#### Logging in, not breaking in
+
+Unknown attackers are abusing Microsoft SharePoint file-sharing services to target multiple energy-sector organizations, harvest user credentials, take over corporate inboxes, and then send hundreds of phishing emails from compromised accounts to contacts inside and outside those organizations.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244126</guid>
+    </item>    <item>
+      <title>Female-dominated careers among most exposed to AI disruption</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/female_dominated_careers_ai_disruption/</link>
+      <description>
+        <![CDATA[<h4>Dentists least likely to get an LLM kick in the teeth</h4> <p>Most US workers in jobs exposed to AI are also relatively well placed to adapt if disruption leads to displacement, according to research summarized by the Brookings Institution. However, there are some careers with high percentages of female workers that are in a bad position.…</p>]]>
+      </description>
+      <source:markdown>#### Dentists least likely to get an LLM kick in the teeth
+
+Most US workers in jobs exposed to AI are also relatively well placed to adapt if disruption leads to displacement, according to research summarized by the Brookings Institution. However, there are some careers with high percentages of female workers that are in a bad position.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244125</guid>
+    </item>    <item>
+      <title>Windows fails to tip the scales in grocery store deployment</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/windows_grocery_store_scale/</link>
+      <description>
+        <![CDATA[<h4>Recovery from an excess of sprouts, or something else?</h4> <p><strong>Bork!Bork!Bork!</strong>  Microsoft&#39;s flagship OS can power everything from a mini PC to a giant workstation or even a server. But using it for a grocery-store scale might just be overkill.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Recovery from an excess of sprouts, or something else?
+
+**Bork!Bork!Bork!**  Microsoft&#39;s flagship OS can power everything from a mini PC to a giant workstation or even a server. But using it for a grocery-store scale might just be overkill.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244124</guid>
+    </item>    <item>
+      <title>Palantir helps Ukraine train interceptor drone brains</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/ukraine_interceptor_drone_palantir/</link>
+      <description>
+        <![CDATA[<h4>Beleaguered country, unfortunately, has plenty of data from its conflict</h4> <p>Ukraine is getting a little AI help with its war against Russia. The country is giving Palantir a new level of access to critical warfighting data so its interceptor drones can become more autonomous. …</p>]]>
+      </description>
+      <source:markdown>#### Beleaguered country, unfortunately, has plenty of data from its conflict
+
+Ukraine is getting a little AI help with its war against Russia. The country is giving Palantir a new level of access to critical warfighting data so its interceptor drones can become more autonomous. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244121</guid>
+    </item>    <item>
+      <title>PowerShell architect retires after decades at the prompt</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/powershell_snover_retires/</link>
+      <description>
+        <![CDATA[<h4>After Microsoft, Google, and a long fight for automation, Jeffrey Snover hangs up his keyboard</h4> <p>A really important window is closing. Jeffrey Snover, chief PowerShell boffin and hero of Windows administrators around the world, has retired.…</p>]]>
+      </description>
+      <source:markdown>#### After Microsoft, Google, and a long fight for automation, Jeffrey Snover hangs up his keyboard
+
+A really important window is closing. Jeffrey Snover, chief PowerShell boffin and hero of Windows administrators around the world, has retired.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244118</guid>
+    </item>    <item>
+      <title>This Detachable Robotic Hand Can Scurry Around and Grasp Objects Just Like Thing From the Addams Family</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-detachable-robotic-hand-can-scurry-around-and-grasp-objects-just-like-thing-from-the-addams-family-180988041/</link>
+      <description>
+        <![CDATA[With up to six fingers that can bend in multiple directions, the innovative tool could one day be used to carry out tasks in tight spaces]]>
+      </description>
+      <source:markdown>With up to six fingers that can bend in multiple directions, the innovative tool could one day be used to carry out tasks in tight spaces</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ypsZz3yBeT7GrN2__wIRpmuT_HU=/420x240/filters:focal(1088x715:1089x716)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/0d/210dc350-939b-4d31-84e2-1b6c4dd1fdc0/screenshot_2026-01-21_at_125008pm.png" length="1194713" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-detachable-robotic-hand-can-scurry-around-and-grasp-objects-just-like-thing-from-the-addams-family-180988041/</guid>
+    </item>    <item>
+      <title>Cursor used agents to write a browser, proving AI can write shoddy code at scale</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/cursor_ai_wrote_a_browser/</link>
+      <description>
+        <![CDATA[<h4>Project kind-of worked but left a lot of messes for humans to clean up</h4> <p>A week ago, Cursor CEO Michael Truell celebrated what sounded like a remarkable event.…</p>]]>
+      </description>
+      <source:markdown>#### Project kind-of worked but left a lot of messes for humans to clean up
+
+A week ago, Cursor CEO Michael Truell celebrated what sounded like a remarkable event.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244101</guid>
+    </item>    <item>
+      <title>Nekoware resurrected: freeware and open source repository for IRIX</title>
+      <link>https://www.osnews.com/story/144246/nekoware-resurrected-freeware-and-open-source-repository-for-irix/</link>
+      <description>
+        <![CDATA[If you have any interest in SGI&#8217;s IRIX or used IRIX back when it was still current, you&#8217;re undoubtedly aware of Nekoware, a collection of freeware for IRIX, maintained and kept up-to-date as much as possible. After stagnating in 2015 and a few failed restarts and some infighting (apparently), the project finally relaunched somewhere last year, and a new quarterly release was pushed out. Nekoware 2025Q4 is a clean break from previous releases, and requires that users fully remove any traces of previous installations. It contains the kinds of packages these freeware/open source collections for classic UNIX tended to contain: tons of common open source libraries, command-line tools, and more, including a few emulators. You&#8217;ll need IRIX 6.5.21 or newer, running on at least a MIPS R5000 processor-equipped SGI machine. Planning for and work on the next release is already underway, and a brand new Nekoware SDK has been released as well, which provides bootstrap functionality and addresses the problem of having to build Nekoware on unstable IRIX environments. Seeing Nekoware resurrected is great news for the surprisingly active IRIX community. As a HP-UX user, I feel some envy.]]>
+      </description>
+      <source:markdown>If you have any interest in SGI’s IRIX or used IRIX back when it was still current, you’re undoubtedly aware of Nekoware, a collection of freeware for IRIX, maintained and kept up-to-date as much as possible. After stagnating in 2015 and a few failed restarts and some infighting (apparently), the project finally relaunched somewhere last year, and a new quarterly release was pushed out. Nekoware 2025Q4 is a clean break from previous releases, and requires that users fully remove any traces of previous installations. It contains the kinds of packages these freeware/open source collections for classic UNIX tended to contain: tons of common open source libraries, command-line tools, and more, including a few emulators. You’ll need IRIX 6.5.21 or newer, running on at least a MIPS R5000 processor-equipped SGI machine. Planning for and work on the next release is already underway, and a brand new Nekoware SDK has been released as well, which provides bootstrap functionality and addresses the problem of having to build Nekoware on unstable IRIX environments. Seeing Nekoware resurrected is great news for the surprisingly active IRIX community. As a HP-UX user, I feel some envy.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144246</guid>
+    </item>    <item>
+      <title>FortiGate firewalls hit by silent SSO intrusions and config theft</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/fortigate_firewalls_hit_by_silent/</link>
+      <description>
+        <![CDATA[<h4>Admins say attackers are still getting in despite recent patches</h4> <p>FortiGate firewalls are getting quietly reconfigured and stripped down by miscreants who&#39;ve figured out how to sidestep SSO protections and grab sensitive settings right out of the box.…</p>]]>
+      </description>
+      <source:markdown>#### Admins say attackers are still getting in despite recent patches
+
+FortiGate firewalls are getting quietly reconfigured and stripped down by miscreants who&#39;ve figured out how to sidestep SSO protections and grab sensitive settings right out of the box.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244119</guid>
+    </item>    <item>
       <title>KIM-1 turns 50</title>
       <link>https://www.osnews.com/story/144242/kim-1-turns-50/</link>
       <description>
@@ -25,12 +429,12 @@
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nIDp_kmrEHLHbGlC0tYvVuP2bAo=/420x240/filters:focal(500x376:501x377)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/9d/0d9d9516-e42d-4968-9628-c179c854e19c/sizewell-c-archaeology-horse-burialxcd7f868a.webp" length="152602" type="image/webp" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/these-high-status-individuals-were-given-a-princely-burial-alongside-a-fully-harnessed-horse-in-an-early-medieval-cemetery-180988027/</guid>
     </item>    <item>
-      <title>Humpback Whales Are Probably Learning How to Catch Prey With Bubble Nets By Watching Each Other</title>
+      <title>Humpback Whales Are Probably Learning How to Catch Prey With Bubble Nets by Watching One Another</title>
       <link>https://www.smithsonianmag.com/smart-news/humpback-whales-are-probably-learning-how-to-catch-prey-with-bubble-nets-by-watching-each-other-180988039/</link>
       <description>
-        <![CDATA[The foraging strategy may help humpbacks be more resilient to food scarcity, emphasizing the importance of preserving their cultural knowledge, a study suggests]]>
+        <![CDATA[The foraging strategy may help make humpbacks more resilient to food scarcity, emphasizing the importance of preserving their cultural knowledge, a study suggests]]>
       </description>
-      <source:markdown>The foraging strategy may help humpbacks be more resilient to food scarcity, emphasizing the importance of preserving their cultural knowledge, a study suggests</source:markdown>
+      <source:markdown>The foraging strategy may help make humpbacks more resilient to food scarcity, emphasizing the importance of preserving their cultural knowledge, a study suggests</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/sMx3p8J4OBf9gqcH_p4rh-xrBak=/420x240/filters:focal(2080x1387:2081x1388)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/01/0b01ca13-21ab-4c6a-aa4f-8790d8f6c406/humpback-bubble-net.jpg" length="6691411" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/humpback-whales-are-probably-learning-how-to-catch-prey-with-bubble-nets-by-watching-each-other-180988039/</guid>
     </item>    <item>
@@ -182,7 +586,7 @@ The UK government is investing in a defense-focused degree course to train both 
 **Bork!Bork!Bork!**  There&#39;s no keeping an obsolete operating system down, although keeping it operational can sometimes be a challenge, if public terminals are any indication. Today&#39;s bork uses an OS that dates back 26 years, but is still serving up train tickets.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244089</guid>
     </item>    <item>
-      <title>Anthropic writes Constitution for Claude it thinks will soon be proven ‘misguided’</title>
+      <title>Anthropic writes 23,000-word &#39;constitution&#39; for Claude, suggests it may have feelings</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/22/anthropic_claude_constitution/</link>
       <description>
         <![CDATA[<h4>Describes its LLMs as an ‘entity’ that probably has something like emotions</h4> <p>The Constitution of the United States of America is about 7,500 words long, a factoid <i>The Register</i> mentions because on Wednesday AI company Anthropic delivered an updated 23,000-word constitution for its Claude family of AI models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
@@ -251,9 +655,9 @@ AI agents arrived in Davos this week with the question of how to secure them - a
       <title>A Stunning Stretch of California&#39;s Rugged Coastline Is Now Open to the Public for the First Time in a Century</title>
       <link>https://www.smithsonianmag.com/smart-news/a-stunning-stretch-of-californias-rugged-coastline-is-now-open-to-the-public-for-the-first-time-in-a-century-180988035/</link>
       <description>
-        <![CDATA[Privately owned until 2015, the 547-acre Estero Americano Coast Preserve is welcoming hikers, birdwatchers, wildflower lovers and other outdoor adventurers]]>
+        <![CDATA[Privately owned until 2015, the 547-acre Estero Americano Coast Preserve is welcoming hikers, bird-watchers, wildflower lovers and other outdoor adventurers]]>
       </description>
-      <source:markdown>Privately owned until 2015, the 547-acre Estero Americano Coast Preserve is welcoming hikers, birdwatchers, wildflower lovers and other outdoor adventurers</source:markdown>
+      <source:markdown>Privately owned until 2015, the 547-acre Estero Americano Coast Preserve is welcoming hikers, bird-watchers, wildflower lovers and other outdoor adventurers</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aui6h7Y8zZNxDGkdWDxfMw8g6Mw=/420x240/filters:focal(600x451:601x452)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/33/f1/33f1a755-2013-47c1-807e-ad6482c9b647/img_7749-1200x900.jpeg" length="197931" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/a-stunning-stretch-of-californias-rugged-coastline-is-now-open-to-the-public-for-the-first-time-in-a-century-180988035/</guid>
     </item>    <item>
@@ -348,11 +752,11 @@ President Trump&#39;s decision to green-light the sale of Nvidia H200 GPUs to Ch
       <title>Don&#39;t click on the LastPass &#39;create backup&#39; link - it&#39;s a scam</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/21/lastpass_backup_phishing_campaign/</link>
       <description>
-        <![CDATA[<h4>Phishing campaign tries to reel in master passwords</h4> <p>Password managers make great targets for attackers because they can hold many of the keys to your kingdom. Now, LastPass has warned customers about phishing emails claiming that action is required ahead of scheduled maintenance and told them not to fall for the scam. …</p>]]>
+        <![CDATA[<h4>Phishing campaign tries to reel in master passwords</h4> <p><strong>updated</strong>  Password managers make great targets for attackers because they can hold many of the keys to your kingdom. Now, LastPass has warned customers about phishing emails claiming that action is required ahead of scheduled maintenance and told them not to fall for the scam. …</p>]]>
       </description>
       <source:markdown>#### Phishing campaign tries to reel in master passwords
 
-Password managers make great targets for attackers because they can hold many of the keys to your kingdom. Now, LastPass has warned customers about phishing emails claiming that action is required ahead of scheduled maintenance and told them not to fall for the scam. …</source:markdown>
+**updated**  Password managers make great targets for attackers because they can hold many of the keys to your kingdom. Now, LastPass has warned customers about phishing emails claiming that action is required ahead of scheduled maintenance and told them not to fall for the scam. …</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244093</guid>
     </item>    <item>
       <title>Trump promises nuclear datacenter permits in 3 weeks, calls Greenland &#39;big beautiful ice&#39;</title>
@@ -5494,44 +5898,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
 
 **ON CALL Y2K**  Welcome to another edition of On Call, _The Register_’s Friday column that shares your tech support stories. Over the holiday season we’re telling tales of the Y2K bug, and readers who spent December 31, 1999 on call in case the world’s computers caused calamities.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243751</guid>
-    </item>    <item>
-      <title>Haiku gets accelerated NVIDIA graphics driver</title>
-      <link>https://www.osnews.com/story/144097/haiku-gets-accelerated-nvidia-graphics-driver/</link>
-      <description>
-        <![CDATA[The new year isn&#8217;t even a day old, and Haiku developer X512 dropped something major in Haiku users&#8217; laps: the first alpha version of an accelerated NVIDIA graphics drivers for Haiku. Supporting at least NVIDIA Turing and Ampere GPUs, it&#8217;s very much in alpha state, but does allow for proper GPU acceleration, with the code surely making its way to Haiku builds in the near future. Don&#8217;t expect a flawless experience &#8211; this is alpha software &#8211; but even then, this is a major milestone for Haiku.]]>
-      </description>
-      <source:markdown>The new year isn’t even a day old, and Haiku developer X512 dropped something major in Haiku users’ laps: the first alpha version of an accelerated NVIDIA graphics drivers for Haiku. Supporting at least NVIDIA Turing and Ampere GPUs, it’s very much in alpha state, but does allow for proper GPU acceleration, with the code surely making its way to Haiku builds in the near future. Don’t expect a flawless experience – this is alpha software – but even then, this is a major milestone for Haiku.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144097</guid>
-    </item>    <item>
-      <title>Satellite radio transmissions are jamming telescopes and driving astronomers batty</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/01/mitgating_pollution_from_satellite_rf/</link>
-      <description>
-        <![CDATA[<h4>&#39;What do we need to do better?&#39; El Reg talks to comms boss about the problem</h4> <p><strong>Interview</strong>  Scientists and engineers have been taken aback by the amount of radio interference generated by satellite constellations, and many are calling on standards bodies to improve operator performance.…</p>]]>
-      </description>
-      <source:markdown>#### &#39;What do we need to do better?&#39; El Reg talks to comms boss about the problem
-
-**Interview**  Scientists and engineers have been taken aback by the amount of radio interference generated by satellite constellations, and many are calling on standards bodies to improve operator performance.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243735</guid>
-    </item>    <item>
-      <title>Welcome to Wendy&#39;s! Before your order can be taken, you must first reset this kiosk</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/01/bork_wendys_kiosk/</link>
-      <description>
-        <![CDATA[<h4>Do you want bork with that?</h4> <p><strong>Bork!Bork!Bork!</strong>  Today&#39;s example of bork-in-the-wild shows that Microsoft is not the only game in town when it comes to screens having an IT moment in public. No, there will be no orders on this Firefox-based drive-thru kiosk at Wendy&#39;s.…</p>]]>
-      </description>
-      <source:markdown>#### Do you want bork with that?
-
-**Bork!Bork!Bork!**  Today&#39;s example of bork-in-the-wild shows that Microsoft is not the only game in town when it comes to screens having an IT moment in public. No, there will be no orders on this Firefox-based drive-thru kiosk at Wendy&#39;s.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243550</guid>
-    </item>    <item>
-      <title>How Microsoft gave customers what they wanted: An audience with Bill Gates</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/01/microsofts_approach_to_customer_service/</link>
-      <description>
-        <![CDATA[<h4>Well kinda... Your call will be transferred to the next available assistant</h4> <p>Microsoft had a special way of dealing with customers demanding to speak to its CEO. One that kept the customer happy without necessarily bothering His Billness.…</p>]]>
-      </description>
-      <source:markdown>#### Well kinda... Your call will be transferred to the next available assistant
-
-Microsoft had a special way of dealing with customers demanding to speak to its CEO. One that kept the customer happy without necessarily bothering His Billness.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243734</guid>
     </item>
   </channel>
 </rss>

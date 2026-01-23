@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>22 Jan 26 08:11 -0800</dateCreated>
+        <dateCreated>23 Jan 26 08:14 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -318,7 +318,7 @@
         <outline text="Tink&#39;s blog" type="atom" xmlUrl="https://tink.uk/feed.xml" htmlUrl="https://tink.uk/feed.xml,https://tink.uk/" description="A feed of the latest posts from the blog." url="https://tink.uk/feed.xml"></outline>
         <outline text="Tom Kellog blog" type="atom" xmlUrl="https://timkellogg.me/blog/atom.xml" htmlUrl="https://timkellogg.me/blog/atom.xml,https://timkellogg.me/" url="https://timkellogg.me/blog/atom.xml"></outline>
         <outline text="Tomosino&#39;s Mastodon feed" type="rss" xmlUrl="https://tilde.zone/@tomasino.rss" htmlUrl="https://tilde.zone/@tomasino" description="Public posts from @tomasino@tilde.zone"></outline>
-        <outline text="Tracy Durnell Blog" type="rss" xmlUrl="https://tracydurnell.com/feed/" htmlUrl="https://tracydurnell.com,https://tracydurnell.com/feed/" description="Thinking and Learning In Public" url="https://tracydurnell.com/feed/"></outline>
+        <outline text="Tracy Durnell Blog" type="rss" xmlUrl="https://tracydurnell.com/feed/" htmlUrl="https://tracydurnell.com,https://tracydurnell.com/feed/,https://tracydurnell.com/feed/" description="Thinking and Learning In Public" url="https://tracydurnell.com/feed/"></outline>
         <outline text="Typeclasses Haskell Blog" type="rss" xmlUrl="https://typeclasses.substack.com/feed" htmlUrl="https://typeclasses.substack.com,https://typeclasses.substack.com/feed" description="Haskell examples, guides, news, and recommendations" url="https://typeclasses.substack.com/feed"></outline>
         <outline text="USDA Rural Information Center News" type="rss" xmlUrl="https://feed.informer.com/digests/V09HBAO55W/feeder.rss" htmlUrl="http://feed.informer.com/digests/V09HBAO55W/feeder,http://feed.informer.com/digests/V09HBAO55W/feeder" description="Rural News Feed" url="http://feed.informer.com/digests/V09HBAO55W/feeder"></outline>
         <outline text="Ultibo News" type="rss" xmlUrl="https://ultibo.org/feed/" htmlUrl="https://ultibo.org,https://ultibo.org/feed/" description="Make something amazing" url="https://ultibo.org/feed/"></outline>
