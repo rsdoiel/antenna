@@ -4,10 +4,265 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>24 Jan 26 08:10 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How an experienced developer teamed up with Claude to create Elo programming language</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/24/human_ai_pair_programming_elo/</link>
+      <description>
+        <![CDATA[<h4>Bernand Lambeau, the human half of a pair programming team, explains how he&#39;s using AI</h4> <p><strong>feature</strong>  Bernard Lambeau, a Belgium-based software developer and founder of several technology companies, created a programming language called Elo with the help of Anthropic&#39;s Claude Code.…</p>]]>
+      </description>
+      <source:markdown>#### Bernand Lambeau, the human half of a pair programming team, explains how he&#39;s using AI
+
+**feature**  Bernard Lambeau, a Belgium-based software developer and founder of several technology companies, created a programming language called Elo with the help of Anthropic&#39;s Claude Code.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244134</guid>
+    </item>    <item>
+      <title>Bill Gates-backed startup aims to revive Moore&#39;s Law with optical transistors</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/24/neurophos_hopes_to_revive_moores_law/</link>
+      <description>
+        <![CDATA[<h4>Neurophos is developing a massive optical systolic array clocked at 56GHz good for 470 petaFLOPS of FP4 compute</h4> <p>As Moore&#39;s Law slows to a crawl and the amount of energy required to deliver generational performance gains grows, some chip designers are looking to alternative architectures for salvation.…</p>]]>
+      </description>
+      <source:markdown>#### Neurophos is developing a massive optical systolic array clocked at 56GHz good for 470 petaFLOPS of FP4 compute
+
+As Moore&#39;s Law slows to a crawl and the amount of energy required to deliver generational performance gains grows, some chip designers are looking to alternative architectures for salvation.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244157</guid>
+    </item>    <item>
+      <title>UK border tech budget swells by £100M as Home Office targets small boat crossings</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/24/home_office_small_boats/</link>
+      <description>
+        <![CDATA[<h4>Drone, satellite, and other data combined to monitor unwanted vessels</h4> <p>The UK Home Office is spending up to £100 million on intelligence tech in part to tackle the so-called &#34;small boats&#34; issue of refugees and irregular immigrants coming across the English Channel.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Drone, satellite, and other data combined to monitor unwanted vessels
+
+The UK Home Office is spending up to £100 million on intelligence tech in part to tackle the so-called &#34;small boats&#34; issue of refugees and irregular immigrants coming across the English Channel.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244139</guid>
+    </item>    <item>
+      <title>CISA won&#39;t attend infosec industry&#39;s biggest conference this year</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/24/cisa_skipping_rsa_exclusive/</link>
+      <description>
+        <![CDATA[<h4>But ex-CISA boss and new RSAC CEO Jen Easterly will be there</h4> <p><strong>exclusive</strong>  The US Cybersecurity and Infrastructure Security Agency won&#39;t attend the annual RSA Conference in March, an agency spokesperson confirmed to <em>The Register</em>.…</p>]]>
+      </description>
+      <source:markdown>#### But ex-CISA boss and new RSAC CEO Jen Easterly will be there
+
+**exclusive**  The US Cybersecurity and Infrastructure Security Agency won&#39;t attend the annual RSA Conference in March, an agency spokesperson confirmed to _The Register_.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244159</guid>
+    </item>    <item>
+      <title>Microsoft gave FBI BitLocker keys to unlock encrypted data, because of course they did</title>
+      <link>https://www.osnews.com/story/144265/microsoft-gave-fbi-bitlocker-keys-to-unlock-encrypted-data-because-of-course-they-did/</link>
+      <description>
+        <![CDATA[Encrypting the data stored locally on your hard drives is generally a good idea, specifically if you have use a laptop and take it with you a lot and thieves might get a hold of it. This issue becomes even more pressing if you carry sensitive data as a dissident or whistleblower and have to deal with law enforcement. Or, you know, if you&#8217;re an American citizen fascist paramilitary groups like ICE doesn&#8217;t like because your skin colour is too brown or whatever. Windows offers local disk encryption too, in the form of its BitLocker feature, and Microsoft suggests users store their encryption keys on Microsoft&#8217;s servers. However, when you do so, these keys will be stored unencrypted, and it turns out Microsoft will happily hand them over to law enforcement. “This is private data on a private computer and they made the architectural choice to hold access to that data. They absolutely should be treating it like something that belongs to the user,” said Matt Green, cryptography expert and associate professor at the Johns Hopkins University Information Security Institute. “If Apple can do it, if Google can do it, then Microsoft can do it. Microsoft is the only company that&#8217;s not doing this,” he added. “It&#8217;s a little weird… The lesson here is that if you have access to keys, eventually law enforcement is going to come.” ↫ Thomas Brewster Microsoft is choosing to store these keys in unencrypted fashion, and that of course means law enforcement is going to come knocking. With everything that&#8217;s happening in the United States at the moment, the platitude of &#8220;I have nothing to hide&#8221; has lost even more of its meaning, as people &#8211; even toddlers &#8211; are being snatched from the streets and out of their homes on a daily basis by fascist paramilitaries. Even if times were better, though, Microsoft should still refrain from storing these keys unencrypted. It is entirely possible, nay, trivial to address this shortcoming, but the odds of the company fixing this while trying to suck up to the current US regime seem small. Everybody, but especially those living under totalitarian(-esque) regimes, should be taking extra care to make sure their data isn&#8217;t just encrypted, but that the keys are safe as well.]]>
+      </description>
+      <source:markdown>Encrypting the data stored locally on your hard drives is generally a good idea, specifically if you have use a laptop and take it with you a lot and thieves might get a hold of it. This issue becomes even more pressing if you carry sensitive data as a dissident or whistleblower and have to deal with law enforcement. Or, you know, if you’re an American citizen fascist paramilitary groups like ICE doesn’t like because your skin colour is too brown or whatever. Windows offers local disk encryption too, in the form of its BitLocker feature, and Microsoft suggests users store their encryption keys on Microsoft’s servers. However, when you do so, these keys will be stored unencrypted, and it turns out Microsoft will happily hand them over to law enforcement. “This is private data on a private computer and they made the architectural choice to hold access to that data. They absolutely should be treating it like something that belongs to the user,” said Matt Green, cryptography expert and associate professor at the Johns Hopkins University Information Security Institute. “If Apple can do it, if Google can do it, then Microsoft can do it. Microsoft is the only company that’s not doing this,” he added. “It’s a little weird… The lesson here is that if you have access to keys, eventually law enforcement is going to come.” ↫ Thomas Brewster Microsoft is choosing to store these keys in unencrypted fashion, and that of course means law enforcement is going to come knocking. With everything that’s happening in the United States at the moment, the platitude of “I have nothing to hide” has lost even more of its meaning, as people – even toddlers – are being snatched from the streets and out of their homes on a daily basis by fascist paramilitaries. Even if times were better, though, Microsoft should still refrain from storing these keys unencrypted. It is entirely possible, nay, trivial to address this shortcoming, but the odds of the company fixing this while trying to suck up to the current US regime seem small. Everybody, but especially those living under totalitarian(-esque) regimes, should be taking extra care to make sure their data isn’t just encrypted, but that the keys are safe as well.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144265</guid>
+    </item>    <item>
+      <title>Firefox on Linux in 2025</title>
+      <link>https://www.osnews.com/story/144263/firefox-on-linux-in-2025/</link>
+      <description>
+        <![CDATA[Last year brought a wealth of new features and fixes to Firefox on Linux. Besides numerous improvements and bug fixes, I want to highlight some major achievements: HDR video playback support, reworked rendering for fractionally scaled displays, and asynchronous rendering implementation. All this progress was enabled by advances in the Wayland compositor ecosystem, with new features implemented by Mutter and KWin. ↫ Martin Stransky It&#8217;s amazing how the adoption of Wayland is making it so much easier for application developers to support modern features like these. Instead of having to settle for whatever roadblocks and limitations thrown up by legacy X11 cruft, the Linux desktop can now enjoy modern features like HDR, and much more easily support features like fractional scaling. The move to Wayland, as long as it may have taken, has catapulted the Linux desktop from its &#8217;90s roots right into the modern era. It&#8217;s great to see Firefox implementing improvements like these for Linux users, but of course, they come with Mozilla&#8217;s push to make Firefox an &#8220;AI&#8221; browser, something few Firefox users seem to want. Luckily, the various Firefox variants like Librewolf and Waterfox will get these same features while removing all the &#8220;AI&#8221; bloat, so as long as Mozilla remains committed to Firefox for Linux &#8211; or Firefox in general &#8211; Linux users can rest safe. Sadly, I&#8217;m afraid Mozilla&#8217;s massive pivot to &#8220;AI&#8221; isn&#8217;t going to work out, so I have no idea how long Mozilla will be able to afford Firefox on Linux development specifically, and Firefox development generally.]]>
+      </description>
+      <source:markdown>Last year brought a wealth of new features and fixes to Firefox on Linux. Besides numerous improvements and bug fixes, I want to highlight some major achievements: HDR video playback support, reworked rendering for fractionally scaled displays, and asynchronous rendering implementation. All this progress was enabled by advances in the Wayland compositor ecosystem, with new features implemented by Mutter and KWin. ↫ Martin Stransky It’s amazing how the adoption of Wayland is making it so much easier for application developers to support modern features like these. Instead of having to settle for whatever roadblocks and limitations thrown up by legacy X11 cruft, the Linux desktop can now enjoy modern features like HDR, and much more easily support features like fractional scaling. The move to Wayland, as long as it may have taken, has catapulted the Linux desktop from its ’90s roots right into the modern era. It’s great to see Firefox implementing improvements like these for Linux users, but of course, they come with Mozilla’s push to make Firefox an “AI” browser, something few Firefox users seem to want. Luckily, the various Firefox variants like Librewolf and Waterfox will get these same features while removing all the “AI” bloat, so as long as Mozilla remains committed to Firefox for Linux – or Firefox in general – Linux users can rest safe. Sadly, I’m afraid Mozilla’s massive pivot to “AI” isn’t going to work out, so I have no idea how long Mozilla will be able to afford Firefox on Linux development specifically, and Firefox development generally.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144263</guid>
+    </item>    <item>
+      <title>NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/</link>
+      <description>
+        <![CDATA[NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Friday, Jan. 30, from the agency’s Johnson Space Center in Houston. At 11 a.m. EST, mission leadership will discuss final launch and mission preparations in a news conference that will stream on the [&#8230;]]]>
+      </description>
+      <source:markdown>NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Friday, Jan. 30, from the agency’s Johnson Space Center in Houston. At 11 a.m. EST, mission leadership will discuss final launch and mission preparations in a news conference that will stream on the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=948131</guid>
+    </item>    <item>
+      <title>Ofcom probes Meta over WhatsApp info it was legally required to provide</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/ofcom_probe_whatsapp/</link>
+      <description>
+        <![CDATA[<h4>UK watchdog investigates accuracy of data handed over for SMS market review</h4> <p>Ofcom is formally investigating whether Meta complied with legally binding information requests regarding WhatsApp&#39;s role in the UK business messaging ecosystem.…</p>]]>
+      </description>
+      <source:markdown>#### UK watchdog investigates accuracy of data handed over for SMS market review
+
+Ofcom is formally investigating whether Meta complied with legally binding information requests regarding WhatsApp&#39;s role in the UK business messaging ecosystem.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244146</guid>
+    </item>    <item>
+      <title>Patch or die: VMware vCenter Server bug fixed in 2024 under attack today</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/critical_vmware_vcenter_server_bug/</link>
+      <description>
+        <![CDATA[<h4>If you skipped it back then, now’s a very good time</h4> <p>You&#39;ve got to keep your software updated. Some unknown miscreants are exploiting a critical VMware vCenter Server bug more than a year after Broadcom patched the flaw.…</p>]]>
+      </description>
+      <source:markdown>#### If you skipped it back then, now’s a very good time
+
+You&#39;ve got to keep your software updated. Some unknown miscreants are exploiting a critical VMware vCenter Server bug more than a year after Broadcom patched the flaw.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244156</guid>
+    </item>    <item>
+      <title>NASA Awards Global Modeling, Assimilation Support Contract</title>
+      <link>https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/</link>
+      <description>
+        <![CDATA[NASA has selected ADNET Systems, Inc. of Bethesda, Maryland, to provide global modeling and data assimilation support at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. The Global Modeling and Assimilation Support contract is a single-award, cost-plus-fixed-fee, indefinite-delivery/indefinite-quantity contract with a maximum ordering value of approximately $84 million with a five-year period of performance [&#8230;]]]>
+      </description>
+      <source:markdown>NASA has selected ADNET Systems, Inc. of Bethesda, Maryland, to provide global modeling and data assimilation support at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. The Global Modeling and Assimilation Support contract is a single-award, cost-plus-fixed-fee, indefinite-delivery/indefinite-quantity contract with a maximum ordering value of approximately $84 million with a five-year period of performance \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=948105</guid>
+    </item>    <item>
+      <title>NASA Selects Participants to Track Artemis II Mission</title>
+      <link>https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/</link>
+      <description>
+        <![CDATA[NASA has selected 34 global volunteers to track the Orion spacecraft during the crewed Artemis II mission’s journey around the Moon. The Artemis II test flight will launch NASA’s Space Launch System (SLS) rocket, carrying the Orion spacecraft and a crew of four astronauts, on a mission into deep space. The agency’s second mission in [&#8230;]]]>
+      </description>
+      <source:markdown>NASA has selected 34 global volunteers to track the Orion spacecraft during the crewed Artemis II mission’s journey around the Moon. The Artemis II test flight will launch NASA’s Space Launch System (SLS) rocket, carrying the Orion spacecraft and a crew of four astronauts, on a mission into deep space. The agency’s second mission in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=937421</guid>
+    </item>    <item>
+      <title>Surrender as a service: Microsoft unlocks BitLocker for feds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/</link>
+      <description>
+        <![CDATA[<h4>If you&#39;re serious about encryption, keep control of your encryption keys</h4> <p><strong>updated</strong>  If you think using Microsoft&#39;s BitLocker encryption will keep your data 100 percent safe, think again. Last year, Redmond reportedly provided the FBI with encryption keys to unlock the laptops of Windows users charged in a fraud indictment.…</p>]]>
+      </description>
+      <source:markdown>#### If you&#39;re serious about encryption, keep control of your encryption keys
+
+**updated**  If you think using Microsoft&#39;s BitLocker encryption will keep your data 100 percent safe, think again. Last year, Redmond reportedly provided the FBI with encryption keys to unlock the laptops of Windows users charged in a fraud indictment.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244155</guid>
+    </item>    <item>
+      <title>Frida Kahlo&#39;s Image Is on Paintings, Posters, Socks and Sanitary Pads. How Did Fridamania Come to Dominate Popular Culture?</title>
+      <link>https://www.smithsonianmag.com/smart-news/frida-kahlos-image-is-on-paintings-posters-socks-and-sanitary-pads-how-did-fridamania-come-to-dominate-popular-culture-180988042/</link>
+      <description>
+        <![CDATA[An exhibition at the Museum of Fine Arts, Houston features paintings by Kahlo, works by artists she inspired and consumer products featuring her self-portraits]]>
+      </description>
+      <source:markdown>An exhibition at the Museum of Fine Arts, Houston features paintings by Kahlo, works by artists she inspired and consumer products featuring her self-portraits</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JfoLU_Xpp_ZHq5ypNQtWLrVMLo0=/420x240/filters:focal(2018x1365:2019x1366)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/65/cb65960d-252e-4bcc-80a1-67a3f7d59a4c/screenshot_2026-01-21_at_122839pm.jpeg" length="2914836" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/frida-kahlos-image-is-on-paintings-posters-socks-and-sanitary-pads-how-did-fridamania-come-to-dominate-popular-culture-180988042/</guid>
+    </item>    <item>
+      <title>Positive Thinking Might Boost Your Immune System&#39;s Responses to Vaccines, New Research Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/positive-thinking-might-boost-your-immune-systems-responses-to-vaccines-new-research-suggests-180988056/</link>
+      <description>
+        <![CDATA[Researchers found an association between increased activity in a reward region of the brain—primarily stimulated by hopeful thinking—and heightened levels of protective antibodies after receiving a vaccine]]>
+      </description>
+      <source:markdown>Researchers found an association between increased activity in a reward region of the brain—primarily stimulated by hopeful thinking—and heightened levels of protective antibodies after receiving a vaccine</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3bGwmMQX7sDkfbtn20neyrcQwAI=/420x240/filters:focal(3976x2689:3977x2690)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/43/8543b263-7d4e-4321-ba80-b8819cf6c9a2/vaccine-positive-thinking.jpg" length="21253777" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/positive-thinking-might-boost-your-immune-systems-responses-to-vaccines-new-research-suggests-180988056/</guid>
+    </item>    <item>
+      <title>A Smaller Version of the Las Vegas Sphere May Be Coming to the Washington, D.C. Area</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-smaller-version-of-the-las-vegas-sphere-may-be-coming-to-the-washington-dc-area-180988048/</link>
+      <description>
+        <![CDATA[Officials have proposed building a mini-Sphere in Maryland's National Harbor. One-third the size of the original, the structure would cost about $1 billion]]>
+      </description>
+      <source:markdown>Officials have proposed building a mini-Sphere in Maryland&#39;s National Harbor. One-third the size of the original, the structure would cost about $1 billion</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4Akc5pUlyPFEuDibWYZBBMQLWdk=/420x240/filters:focal(510x374:511x375)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b3/0f/b30fa7e5-7726-45e0-b0c6-5f7758ed64ea/sphere_national_harbor_1_credit_-_sphere_entertainment_and_peterson_companies.png" length="1620420" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-smaller-version-of-the-las-vegas-sphere-may-be-coming-to-the-washington-dc-area-180988048/</guid>
+    </item>    <item>
+      <title>I Am Artemis: Dustin Gohmert</title>
+      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dustin-gohmert/</link>
+      <description>
+        <![CDATA[Listen to this audio excerpt from Dustin Gohmert, Orion Crew Survival System (OCSS) manager: During NASA’s Artemis II mission around the Moon, the astronauts inside the Orion spacecraft will be wearing specialized pressure suits designed to protect them throughout their journey. At NASA’s Johnson Space Center in Houston, Dustin Gohmert leads the team responsible for [&#8230;]]]>
+      </description>
+      <source:markdown>Listen to this audio excerpt from Dustin Gohmert, Orion Crew Survival System (OCSS) manager: During NASA’s Artemis II mission around the Moon, the astronauts inside the Orion spacecraft will be wearing specialized pressure suits designed to protect them throughout their journey. At NASA’s Johnson Space Center in Houston, Dustin Gohmert leads the team responsible for \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=939018</guid>
+    </item>    <item>
+      <title>Red, Green Light Show</title>
+      <link>https://www.nasa.gov/image-article/red-green-light-show/</link>
+      <description>
+        <![CDATA[A green and red aurora streams across Earth’s horizon above the city lights of Europe in this Jan. 19, 2026, photograph, which looks north across Italy toward Germany. The International Space Station was orbiting 262 miles above the Mediterranean Sea at approximately 10:02 p.m. local time when the image was captured. Also known as the [&#8230;]]]>
+      </description>
+      <source:markdown>A green and red aurora streams across Earth’s horizon above the city lights of Europe in this Jan. 19, 2026, photograph, which looks north across Italy toward Germany. The International Space Station was orbiting 262 miles above the Mediterranean Sea at approximately 10:02 p.m. local time when the image was captured. Also known as the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=947861</guid>
+    </item>    <item>
+      <title>ShinyHunters claims Okta customer breaches, leaks data belonging to 3 orgs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/shinyhunters_claims_okta_customer_breaches/</link>
+      <description>
+        <![CDATA[<h4>&#39;A lot more&#39; victims to come, we&#39;re told</h4> <p>ShinyHunters has claimed responsibility for an Okta voice-phishing campaign during which the extortionist crew allegedly gained access to Crunchbase and Betterment.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### &#39;A lot more&#39; victims to come, we&#39;re told
+
+ShinyHunters has claimed responsibility for an Okta voice-phishing campaign during which the extortionist crew allegedly gained access to Crunchbase and Betterment.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244153</guid>
+    </item>    <item>
+      <title>NASA Finds Lunar Regolith Limits Meteorites as Source of Earth’s Water</title>
+      <link>https://science.nasa.gov/science-research/astromaterials/nasa-finds-lunar-regolith-limits-meteorites-as-source-of-earths-water/</link>
+      <description>
+        <![CDATA[A new NASA study of its Apollo lunar soils clarifies the Moon’s record of meteorite impacts and timing of water delivery. These findings place upper bounds on how much water meteorites could have supplied later in Earth’s history. Research has previously shown that meteorites may have been a significant source of Earth’s water as they […]]]>
+      </description>
+      <source:markdown>A new NASA study of its Apollo lunar soils clarifies the Moon’s record of meteorite impacts and timing of water delivery. These findings place upper bounds on how much water meteorites could have supplied later in Earth’s history. Research has previously shown that meteorites may have been a significant source of Earth’s water as they \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/astromaterials/nasa-finds-lunar-regolith-limits-meteorites-as-source-of-earths-water/</guid>
+    </item>    <item>
+      <title>China’s Deepin Linux gets a slick desktop - and, yes, built-in AI</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/deepin_25010/</link>
+      <description>
+        <![CDATA[<h4>Where FOSS desktop OSes meet geopolitics</h4> <p><strong>Hands On</strong>  Uniontech&#39;s Deepin 25.0.10 release shows that the Chinese desktop world isn&#39;t waiting on Western tech. It&#39;s modern and good-looking, and (pausing only to sigh deeply) has built-in &#34;AI&#34;.…</p>]]>
+      </description>
+      <source:markdown>#### Where FOSS desktop OSes meet geopolitics
+
+**Hands On**  Uniontech&#39;s Deepin 25.0.10 release shows that the Chinese desktop world isn&#39;t waiting on Western tech. It&#39;s modern and good-looking, and (pausing only to sigh deeply) has built-in &#34;AI&#34;.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244151</guid>
+    </item>    <item>
+      <title>NASA’s Chandra Releases Deep Cut From Catalog of Cosmic Recordings</title>
+      <link>https://www.nasa.gov/missions/chandra/nasas-chandra-releases-deep-cut-from-catalog-of-cosmic-recordings/</link>
+      <description>
+        <![CDATA[Like a recording artist who has had a long career,&#160;NASA’s Chandra X-ray Observatory&#160;has a “back catalog” of cosmic recordings that is impossible to replicate. To access these X-ray tracks, or observations, the ultimate compendium has been developed: the&#160;Chandra Source Catalog&#160;(CSC). The CSC contains the&#160;X-ray&#160;data detected up to the end of 2020 by Chandra, the world’s [&#8230;]]]>
+      </description>
+      <source:markdown>Like a recording artist who has had a long career, NASA’s Chandra X-ray Observatory has a “back catalog” of cosmic recordings that is impossible to replicate. To access these X-ray tracks, or observations, the ultimate compendium has been developed: the Chandra Source Catalog (CSC). The CSC contains the X-ray data detected up to the end of 2020 by Chandra, the world’s \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=947783</guid>
+    </item>    <item>
+      <title>Hacker taps Raspberry Pi to turn Wi-Fi signals into wall art</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/raspberry_pi_wifi_wall_art/</link>
+      <description>
+        <![CDATA[<h4>Pipe local wireless noise through an SDR into an RPi, and 64 LED filaments do the rest</h4> <p>Unless you live in a Faraday cage, you&#39;re surrounded at all times by invisible radio signals, from Bluetooth and Wi-Fi to cellular traffic. French artist Théo Champion has found a way to make that wireless noise visible, with an intense piece of Raspberry Pi-driven art that turns nearby radio activity into light.…</p>]]>
+      </description>
+      <source:markdown>#### Pipe local wireless noise through an SDR into an RPi, and 64 LED filaments do the rest
+
+Unless you live in a Faraday cage, you&#39;re surrounded at all times by invisible radio signals, from Bluetooth and Wi-Fi to cellular traffic. French artist Théo Champion has found a way to make that wireless noise visible, with an intense piece of Raspberry Pi-driven art that turns nearby radio activity into light.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244152</guid>
+    </item>    <item>
+      <title>NASA planet hunter resumes operations after low power incident</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/nasa_planet_hunter_resumes_operations/</link>
+      <description>
+        <![CDATA[<h4>Pointing problem left TESS in the dark</h4> <p>Good news for planet hunters – NASA&#39;s Transiting Exoplanet Survey Satellite (TESS) is back online after a short flirtation with safe mode.…</p>]]>
+      </description>
+      <source:markdown>#### Pointing problem left TESS in the dark
+
+Good news for planet hunters – NASA&#39;s Transiting Exoplanet Survey Satellite (TESS) is back online after a short flirtation with safe mode.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244149</guid>
+    </item>    <item>
+      <title>AI-powered cyberattack kits are &#39;just a matter of time,&#39; warns Google exec</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/ai_cyberattack_google_security/</link>
+      <description>
+        <![CDATA[<h4>Security chief says criminals are already automating workflows, with full end-to-end tools likely within years</h4> <p>CISOs must prepare for &#34;a really different world&#34; where cybercriminals can reliably automate cyberattacks at scale, according to a senior Googler.…</p>]]>
+      </description>
+      <source:markdown>#### Security chief says criminals are already automating workflows, with full end-to-end tools likely within years
+
+CISOs must prepare for &#34;a really different world&#34; where cybercriminals can reliably automate cyberattacks at scale, according to a senior Googler.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244150</guid>
+    </item>    <item>
+      <title>This Mysterious 407-Million-Year-Old Fossil May Represent a Previously Unknown Branch of Life</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-mysterious-407-million-year-old-fossil-may-represent-a-previously-unknown-branch-of-life-180988052/</link>
+      <description>
+        <![CDATA[Earth's first large land organisms—tree trunk-like beings that stood up to 26 feet tall—weren't early fungi but, rather, something else entirely, a study suggests]]>
+      </description>
+      <source:markdown>Earth&#39;s first large land organisms—tree trunk-like beings that stood up to 26 feet tall—weren&#39;t early fungi but, rather, something else entirely, a study suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xqLTbuQHv40UIEYAJcJK58BdmM4=/420x240/filters:focal(3840x2158:3841x2159)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/eb/ceebe63b-f12f-49b0-a9eb-dadbedcdf041/prototaxites.jpg" length="3375418" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-mysterious-407-million-year-old-fossil-may-represent-a-previously-unknown-branch-of-life-180988052/</guid>
+    </item>    <item>
+      <title>Can You See the Faded Outline of a Hand? Archaeologists Say This 67,800-Year-Old Stencil May Be the World&#39;s Oldest Known Rock Art</title>
+      <link>https://www.smithsonianmag.com/smart-news/can-you-see-the-faded-outline-of-a-hand-archaeologists-say-this-67800-year-old-stencil-may-be-the-worlds-oldest-known-rock-art-180988054/</link>
+      <description>
+        <![CDATA[The prehistoric artist likely created the image by spraying ochre mixed with water over a hand flattened on the wall of a cave in Indonesia]]>
+      </description>
+      <source:markdown>The prehistoric artist likely created the image by spraying ochre mixed with water over a hand flattened on the wall of a cave in Indonesia</source:markdown>
+      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/35/4e351bd2-36c6-4abb-a842-1eb77a4373b1/67800_yr_old_hand_stencil_3.jpg" length="9926192" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/can-you-see-the-faded-outline-of-a-hand-archaeologists-say-this-67800-year-old-stencil-may-be-the-worlds-oldest-known-rock-art-180988054/</guid>
+    </item>    <item>
+      <title>Microsoft shifting to cloud management software brings possibility of it peeking into your estate</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/microsoft_shifting_to_cloud_management/</link>
+      <description>
+        <![CDATA[<h4>Deprecation of popular management tool requires a new look at Azure-based system</h4> <p>Microsoft recently announced it will <a target="_blank" href="https://techcommunity.microsoft.com/blog/sqlserver/deprecation-announcement-ssrspbirs-and-ssas-management-packs-for-scom/4486497">deprecate</a> System Center Operations Manager (SCOM) Management Packs (MPs) for SQL Server Reporting Services, Power BI Report Server,and SQL Server Analysis Services.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Deprecation of popular management tool requires a new look at Azure-based system
+
+Microsoft recently announced it will [deprecate](https://techcommunity.microsoft.com/blog/sqlserver/deprecation-announcement-ssrspbirs-and-ssas-management-packs-for-scom/4486497) System Center Operations Manager (SCOM) Management Packs (MPs) for SQL Server Reporting Services, Power BI Report Server,and SQL Server Analysis Services.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244148</guid>
+    </item>    <item>
+      <title>Microsoft announces winapp to simplify Windows application development</title>
+      <link>https://www.osnews.com/story/144255/microsoft-announces-winapp-to-simplify-windows-application-development/</link>
+      <description>
+        <![CDATA[Developing for Windows seems to be a bit of a nightmare, at least according to Microsoft, so they&#8217;re trying to make the lives of developers easier with a new tool called winapp. The winapp CLI is specifically tailored for cross-platform frameworks and developers working outside of Visual Studio or MSBuild. Whether you are a web developer building with Electron, a C++ veteran using CMake, or a .NET, &#160;Rust or Dart developer building apps for Windows, the CLI can streamline the complexities of Windows development – from setting up your environment to packaging for distribution. This makes it significantly easier to access modern APIs – including Windows AI APIs, security features and shell integrations – directly from any toolchain. Windows development often involves managing multiple SDKs, creating and editing multiple manifests, generating certificates and navigating intricate packaging requirements. The goal of this project is to unify these tasks into a single CLI, letting you focus on building great apps rather than fighting with configuration. While the CLI is still in its early days, and there are many Windows development scenarios still in the works, we’re sharing this public preview now to learn from real usage, gather feedback and feature requests, and focus our investments on the areas that matter most to developers. ↫ Nikola Metulev at the Windows Blogs For instance, run the command winapp init at the root of your project, and winapp will download the proper SDKs, create manifest files, etc., all automatically. You can also generate the correct certificates, easily create MSIX packages, and more. The tool is available through winget and npm (for Electron projects), but is still in preview, with the code available on GitHub.]]>
+      </description>
+      <source:markdown>Developing for Windows seems to be a bit of a nightmare, at least according to Microsoft, so they’re trying to make the lives of developers easier with a new tool called winapp. The winapp CLI is specifically tailored for cross-platform frameworks and developers working outside of Visual Studio or MSBuild. Whether you are a web developer building with Electron, a C++ veteran using CMake, or a .NET,  Rust or Dart developer building apps for Windows, the CLI can streamline the complexities of Windows development – from setting up your environment to packaging for distribution. This makes it significantly easier to access modern APIs – including Windows AI APIs, security features and shell integrations – directly from any toolchain. Windows development often involves managing multiple SDKs, creating and editing multiple manifests, generating certificates and navigating intricate packaging requirements. The goal of this project is to unify these tasks into a single CLI, letting you focus on building great apps rather than fighting with configuration. While the CLI is still in its early days, and there are many Windows development scenarios still in the works, we’re sharing this public preview now to learn from real usage, gather feedback and feature requests, and focus our investments on the areas that matter most to developers. ↫ Nikola Metulev at the Windows Blogs For instance, run the command winapp init at the root of your project, and winapp will download the proper SDKs, create manifest files, etc., all automatically. You can also generate the correct certificates, easily create MSIX packages, and more. The tool is available through winget and npm (for Electron projects), but is still in preview, with the code available on GitHub.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144255</guid>
+    </item>    <item>
       <title>Against Markdown</title>
       <link>https://www.osnews.com/story/144253/against-markdown/</link>
       <description>
@@ -18,6 +273,14 @@
     </item>    <item>
       <title>AMS 2025 Hyperwall Schedule</title>
       <link>https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/</link>
+      <description>
+        <![CDATA[106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable […]]]>
+      </description>
+      <source:markdown>106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/</guid>
+    </item>    <item>
+      <title>AMS 2026 Hyperwall Schedule</title>
+      <link>https://science.nasa.gov/uncategorized/ams-2026-hyperwall-schedule/</link>
       <description>
         <![CDATA[106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable […]]]>
       </description>
@@ -77,7 +340,7 @@ The post [Monster Neutrino Could Be a Messenger of Ancient Black Holes](https://
 Having confirmed Tesla will start charging $99 a month for supervised Full Self-Driving (FSD), CEO Elon Musk has told the faithful that the cost will rise &#34;as FSD&#39;s capabilities improve.&#34;…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244145</guid>
     </item>    <item>
-      <title>Devs begin to assess options for MySQL&#39;s future beyond Oracle</title>
+      <title>As Oracle loses interest in MySQL, devs mull future options</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/23/mysql_post_oracle/</link>
       <description>
         <![CDATA[<h4>As Big Red&#39;s governance of the popular database comes into question, contributors to MySQL consider wresting control</h4> <p>Developers in the MySQL community are working together to challenge Oracle to improve transparency and commitment in its handling of the popular open source database, while considering other options, including forking the code.…</p>]]>
@@ -2658,9 +2921,9 @@ A fraud-detection AI model trained on COVID-19 loan data could have flagged pote
       <title>Astronomers Find an Odd Space Cloud, Like a Galaxy Without Stars, That Could Shed Light on the Secrets of Dark Matter</title>
       <link>https://www.smithsonianmag.com/smart-news/astronomers-find-an-odd-space-cloud-like-a-galaxy-without-stars-that-could-shed-light-on-the-secrets-of-dark-matter-180987990/</link>
       <description>
-        <![CDATA[Named “Cloud-9,” the discovery is a new type of celestial object known as a RELHIC, that is unlike anything scientists have ever observed]]>
+        <![CDATA[Named “Cloud-9,” the discovery is a new type of celestial object known as a RELHIC, which is unlike anything scientists have ever observed]]>
       </description>
-      <source:markdown>Named “Cloud-9,” the discovery is a new type of celestial object known as a RELHIC, that is unlike anything scientists have ever observed</source:markdown>
+      <source:markdown>Named “Cloud-9,” the discovery is a new type of celestial object known as a RELHIC, which is unlike anything scientists have ever observed</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SDi_ELta3-xB7WJmiWs_55mk7Po=/420x240/filters:focal(1000x610:1001x611)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/bd/4fbd55b8-9a17-468c-a32d-4d8699cac609/stsci-01k7q4g9nw9tw4f0s95st16e5m.jpg" length="220018" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/astronomers-find-an-odd-space-cloud-like-a-galaxy-without-stars-that-could-shed-light-on-the-secrets-of-dark-matter-180987990/</guid>
     </item>    <item>
@@ -5713,191 +5976,6 @@ Naming a new programming language &#34;Rue&#34; sounds like an acknowledgment of
 
 Grok, the AI chatbot owned and operated by Elon Musk&#39;s xAI, is facing a firestorm of outrage after users prompted it to create images of naked and scantily clad people from real photographs, some of whom are underage.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story243783</guid>
-    </item>    <item>
-      <title>Headset hype meets harsh reality as Apple and Meta VR shipments fizzle in 2025</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/apple_vision_pro_meta_quest_sales_drop/</link>
-      <description>
-        <![CDATA[<h4>But how about some smart glasses instead?</h4> <p>Apple’s pricey Vision Pro VR headset had a tough 2025.…</p>]]>
-      </description>
-      <source:markdown>#### But how about some smart glasses instead?
-
-Apple’s pricey Vision Pro VR headset had a tough 2025.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243779</guid>
-    </item>    <item>
-      <title>Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/</link>
-      <description>
-        <![CDATA[<h4>Exec argues we need a new metaphor focused on AI as a lever rather than a job killer</h4> <p>Microsoft CEO and head AI peddler Satya Nadella wants you to know that it&#39;s time for the next phase of AI acceptance, where we focus on how humans are empowered by tools and agents and how we deploy resources to support this growth.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Exec argues we need a new metaphor focused on AI as a lever rather than a job killer
-
-Microsoft CEO and head AI peddler Satya Nadella wants you to know that it&#39;s time for the next phase of AI acceptance, where we focus on how humans are empowered by tools and agents and how we deploy resources to support this growth.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243776</guid>
-    </item>    <item>
-      <title>Bitfinex crypto thief who was serving five years thanks Trump for early release</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/</link>
-      <description>
-        <![CDATA[<h4>Netflix documentary part 2 in the works?</h4> <p>Ilya Lichtenstein, who pleaded guilty to money-laundering charges tied to the 2016 theft of about 120,000 bitcoins from the Bitfinex exchange and was sentenced to five years in prison, has been released after roughly 14 months in the slammer.…</p>]]>
-      </description>
-      <source:markdown>#### Netflix documentary part 2 in the works?
-
-Ilya Lichtenstein, who pleaded guilty to money-laundering charges tied to the 2016 theft of about 120,000 bitcoins from the Bitfinex exchange and was sentenced to five years in prison, has been released after roughly 14 months in the slammer.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243777</guid>
-    </item>    <item>
-      <title>The Year&#39;s First Bright Supermoon and the Colorful Quadrantid Meteor Shower Coincide This Weekend</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-years-first-bright-supermoon-and-the-colorful-quadrantid-meteor-shower-coincide-this-weekend-180987939/</link>
-      <description>
-        <![CDATA[The dual celestial events will ring in the new year, although the luminous "wolf" supermoon may hamper skywatchers' view of the shooting stars]]>
-      </description>
-      <source:markdown>The dual celestial events will ring in the new year, although the luminous &#34;wolf&#34; supermoon may hamper skywatchers&#39; view of the shooting stars</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bgQKmkaDjrswzfjyx3ZPWoZFzPU=/420x240/filters:focal(1024x507:1025x508)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/69/07692fee-b090-40f4-a264-726bb46e0445/38158237574_2636cfbc11_k.jpg" length="374048" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-years-first-bright-supermoon-and-the-colorful-quadrantid-meteor-shower-coincide-this-weekend-180987939/</guid>
-    </item>    <item>
-      <title>Cybercrook claims to be selling infrastructure info about three major US utilities</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/critical_utility_files_for_sale/</link>
-      <description>
-        <![CDATA[<h4>For the bargain price of 6.5 bitcoin</h4> <p>A cybercrook claims to have breached Pickett and Associates, a Florida-based engineering firm whose clients include major US utilities, and is selling what they claim to be about 139 GB of engineering data about Tampa Electric Company, Duke Energy Florida, and American Electric Power. The price is 6.5 bitcoin, which amounts to about $585,000.…</p>]]>
-      </description>
-      <source:markdown>#### For the bargain price of 6.5 bitcoin
-
-A cybercrook claims to have breached Pickett and Associates, a Florida-based engineering firm whose clients include major US utilities, and is selling what they claim to be about 139 GB of engineering data about Tampa Electric Company, Duke Energy Florida, and American Electric Power. The price is 6.5 bitcoin, which amounts to about $585,000.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243775</guid>
-    </item>    <item>
-      <title>Finnish cops grill crew of ship suspected of undersea cable sabotage</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/finnish_cops_interviewing_fitburg_crew/</link>
-      <description>
-        <![CDATA[<h4>EU &#39;closely monitoring&#39; along with NATO as state action suspected but not confirmed</h4> <p>Finnish police have arrested and are interviewing two crew members from a class A cargo ship sailing from Russia after suspected cable sabotage in the Baltic Sea.…</p>]]>
-      </description>
-      <source:markdown>#### EU &#39;closely monitoring&#39; along with NATO as state action suspected but not confirmed
-
-Finnish police have arrested and are interviewing two crew members from a class A cargo ship sailing from Russia after suspected cable sabotage in the Baltic Sea.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243769</guid>
-    </item>    <item>
-      <title>Finally - a terminal solution to the browser wars</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/brow6el_browser_terminal/</link>
-      <description>
-        <![CDATA[<h4>A full-featured, Sixel-capable terminal browser for those who’d rather skip AI assistants</h4> <p>Old-time web users will fondly remember Lynx, a text-only browser that ran from the terminal. Now, there&#39;s a Sixel-compatible web browser that runs completely from the terminal, and has all the graphics and modern features you&#39;d expect. …</p>]]>
-      </description>
-      <source:markdown>#### A full-featured, Sixel-capable terminal browser for those who’d rather skip AI assistants
-
-Old-time web users will fondly remember Lynx, a text-only browser that ran from the terminal. Now, there&#39;s a Sixel-compatible web browser that runs completely from the terminal, and has all the graphics and modern features you&#39;d expect. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243773</guid>
-    </item>    <item>
-      <title>Elusive, Critically Endangered Bird—and One of the Closest Living Relatives of Dodos—Was Spotted for the First Time in Five Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/elusive-critically-endangered-bird-and-one-of-the-closest-living-relatives-of-dodos-was-spotted-for-the-first-time-in-five-years-180987933/</link>
-      <description>
-        <![CDATA[Conservationists are racing to save the manumea, a chicken-sized bird that lives only on two Samoan islands, from extinction]]>
-      </description>
-      <source:markdown>Conservationists are racing to save the manumea, a chicken-sized bird that lives only on two Samoan islands, from extinction</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2kLrtiy1FtsTlgnVEPNQKc8DF2E=/420x240/filters:focal(1024x809:1025x810)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/94/52/94526c09-0b4e-4d3b-982f-43d62d489e03/107512208_10157557774976984_7275683476884514339_n.jpg" length="1106706" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/elusive-critically-endangered-bird-and-one-of-the-closest-living-relatives-of-dodos-was-spotted-for-the-first-time-in-five-years-180987933/</guid>
-    </item>    <item>
-      <title>Google snaps up datacenter power biz Intersect while xAI plans more capacity</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/google_intersect_acquisition/</link>
-      <description>
-        <![CDATA[<h4>The AI era needs more juice</h4> <p>The AI-fueled datacenter boom continues apace, with Google parent Alphabet moving to acquire energy and infrastructure biz Intersect, while Elon Musk&#39;s xAI is reportedly planning to expand beyond its already huge complex in Tennessee.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### The AI era needs more juice
-
-The AI-fueled datacenter boom continues apace, with Google parent Alphabet moving to acquire energy and infrastructure biz Intersect, while Elon Musk&#39;s xAI is reportedly planning to expand beyond its already huge complex in Tennessee.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243771</guid>
-    </item>    <item>
-      <title>When the Bayeaux Tapestry Makes Its Historic Return to England, the British Government Will Insure It for More Than $1 Billion</title>
-      <link>https://www.smithsonianmag.com/smart-news/when-the-bayeaux-tapestry-makes-its-historic-return-to-england-the-british-government-will-insure-it-for-more-than-1-billion-180987938/</link>
-      <description>
-        <![CDATA[Created in the 11th century, the delicate, 230-foot-long embroidered textile has been in France since 1077]]>
-      </description>
-      <source:markdown>Created in the 11th century, the delicate, 230-foot-long embroidered textile has been in France since 1077</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_ep2bjEJ4Wrr-fuf35yUL1iKpDs=/420x240/filters:focal(2500x1667:2501x1668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/06/4306e285-d425-496b-9a0b-896ccc395a46/gettyimages-2236196280.jpg" length="11286967" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/when-the-bayeaux-tapestry-makes-its-historic-return-to-england-the-british-government-will-insure-it-for-more-than-1-billion-180987938/</guid>
-    </item>    <item>
-      <title>Honey-Making Stingless Bees in the Peruvian Amazon Become the First Insects to Gain Legal Rights</title>
-      <link>https://www.smithsonianmag.com/smart-news/honey-making-stingless-bees-in-the-peruvian-amazon-become-the-first-insects-to-gain-legal-rights-180987937/</link>
-      <description>
-        <![CDATA[Two local ordinances granted rights to at least 175 stingless bee species in Peru, which are culturally and spiritually significant to Indigenous peoples and help maintain a healthy rainforest ecosystem]]>
-      </description>
-      <source:markdown>Two local ordinances granted rights to at least 175 stingless bee species in Peru, which are culturally and spiritually significant to Indigenous peoples and help maintain a healthy rainforest ecosystem</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DueB7YjrEkkdg26U8wppOQGn_7w=/420x240/filters:focal(3480x2320:3481x2321)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/66/a3/66a36a08-c7e8-428d-ae0d-52336e8f7343/img_7318.jpg" length="3890179" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/honey-making-stingless-bees-in-the-peruvian-amazon-become-the-first-insects-to-gain-legal-rights-180987937/</guid>
-    </item>    <item>
-      <title>Brit lands invite-only Aussie visa after uncovering vuln in government systems</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/brit_security_australia_visa/</link>
-      <description>
-        <![CDATA[<h4>Jacob Riggs is set to swap London for Sydney some time in the next year</h4> <p>A British security researcher has secured Australia&#39;s strictest, invite-only visa after discovering a critical vulnerability in a government system.…</p>]]>
-      </description>
-      <source:markdown>#### Jacob Riggs is set to swap London for Sydney some time in the next year
-
-A British security researcher has secured Australia&#39;s strictest, invite-only visa after discovering a critical vulnerability in a government system.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243772</guid>
-    </item>    <item>
-      <title>Hubble Glimpses Galactic Gas Making a Getaway</title>
-      <link>https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/</link>
-      <description>
-        <![CDATA[A sideways spiral galaxy shines in this NASA/ESA&#160;Hubble Space Telescope&#160;image. Located about 60 million light-years away in the constellation Virgo (the Maiden), NGC 4388 is a resident of the Virgo galaxy cluster. This enormous cluster of galaxies contains more than a thousand members and is the nearest large galaxy cluster to the Milky Way. NGC [&#8230;]]]>
-      </description>
-      <source:markdown>A sideways spiral galaxy shines in this NASA/ESA Hubble Space Telescope image. Located about 60 million light-years away in the constellation Virgo (the Maiden), NGC 4388 is a resident of the Virgo galaxy cluster. This enormous cluster of galaxies contains more than a thousand members and is the nearest large galaxy cluster to the Milky Way. NGC \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=940719</guid>
-    </item>    <item>
-      <title>Starlink to lower orbits of thousands of satellites over safety concerns</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/starlink_lower_orbits/</link>
-      <description>
-        <![CDATA[<h4>Move will see spacecraft shift from 550 km to 480 km as collision risks rise</h4> <p>Starlink is to lower the orbits of about half its satellite constellation over the course of this year, citing safety concerns.…</p>]]>
-      </description>
-      <source:markdown>#### Move will see spacecraft shift from 550 km to 480 km as collision risks rise
-
-Starlink is to lower the orbits of about half its satellite constellation over the course of this year, citing safety concerns.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243768</guid>
-    </item>    <item>
-      <title>LockBit takedown architect gets New Year award from King Charles</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/nca_new_year_honours/</link>
-      <description>
-        <![CDATA[<h4>Gavin Webb orchestrated Operation Cronos as it pulled off the legendary disruption sting</h4> <p>A senior British crimefighter has been awarded one of the country&#39;s highest tributes for public service for his role in the 2024 LockBit ransomware takedown.…</p>]]>
-      </description>
-      <source:markdown>#### Gavin Webb orchestrated Operation Cronos as it pulled off the legendary disruption sting
-
-A senior British crimefighter has been awarded one of the country&#39;s highest tributes for public service for his role in the 2024 LockBit ransomware takedown.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243767</guid>
-    </item>    <item>
-      <title>Safe CEO: AI is an assistant, not a replacement</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/safe_ceo_interview/</link>
-      <description>
-        <![CDATA[<h4>There is no automated substitute for experienced staff, and &#39;if there&#39;s one thing AI has a never-ending thirst for ... it&#39;s data&#39;</h4> <p><strong>Interview</strong>  If AI can take on the role of a junior programmer, what happens when senior staff start retiring? Industry veteran and CEO of Safe Software, Don Murray, reckons the technology is becoming indispensable, but the human can never be removed from the loop.…</p>]]>
-      </description>
-      <source:markdown>#### There is no automated substitute for experienced staff, and &#39;if there&#39;s one thing AI has a never-ending thirst for ... it&#39;s data&#39;
-
-**Interview**  If AI can take on the role of a junior programmer, what happens when senior staff start retiring? Industry veteran and CEO of Safe Software, Don Murray, reckons the technology is becoming indispensable, but the human can never be removed from the loop.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243732</guid>
-    </item>    <item>
-      <title>The trouble of zero</title>
-      <link>https://www.npr.org/2026/01/02/nx-s1-5649801/number-zero-trouble-human-brain</link>
-      <description>
-        <![CDATA[What better time to contemplate the conundrum that is zero than the start of a new year? Zero is a fairly new concept in human history and even more recent as a number. It wasn't until around the 7th century that zero was used as a number. That's when it showed up in the records of Indian mathematicians. Since then, zero has, at times, been met with some fear — at one point the city of Florence, Italy banned the number.<br/><br/>Today, scientists seek to understand how much humans truly comprehend zero — and why it seems to be different from other numbers. That's how we ended up talking to science writer <a href="https://www.yaseminsaplakoglu.com/"target="_blank"   >Yasemin Saplakoglu</a> in this encore episode about the neuroscience of this number that means nothing.<br/><br/><br><a href="https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/"target="_blank"   ><strong>Read more</strong></a><strong> of Yasemin's reporting on zero for Quanta Magazine. Plus, </strong><a href="https://www.npr.org/2024/01/03/1198909057/brain-struggles-big-numbers-neuroscience"target="_blank"   ><strong>check out</strong></a><strong> our episode on why big numbers break our brains.</strong><br><em>Interested in more math episodes? Let us know what kind of stories you want to hear from us in 2026 by emailing </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>!</em><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>What better time to contemplate the conundrum that is zero than the start of a new year? Zero is a fairly new concept in human history and even more recent as a number. It wasn&#39;t until around the 7th century that zero was used as a number. That&#39;s when it showed up in the records of Indian mathematicians. Since then, zero has, at times, been met with some fear — at one point the city of Florence, Italy banned the number.
-
-Today, scientists seek to understand how much humans truly comprehend zero — and why it seems to be different from other numbers. That&#39;s how we ended up talking to science writer [Yasemin Saplakoglu](https://www.yaseminsaplakoglu.com/) in this encore episode about the neuroscience of this number that means nothing.
-
-[**Read more**](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/) **of Yasemin&#39;s reporting on zero for Quanta Magazine. Plus,** [**check out**](https://www.npr.org/2024/01/03/1198909057/brain-struggles-big-numbers-neuroscience) **our episode on why big numbers break our brains.**
-
-_Interested in more math episodes? Let us know what kind of stories you want to hear from us in 2026 by emailing_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _!_
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR2357350723.mp3?t=podcast&e=nx-s1-5649801&p=510351&d=735&size=11773537" length="11773537" type="audio/mpeg" />
-      <guid>cid://dbb8d617-d7bc-4caa-8695-9c2d73756cc3</guid>
-    </item>    <item>
-      <title>The Y2K bug delayed my honeymoon … by 17 years!</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/02/on_call/</link>
-      <description>
-        <![CDATA[<h4>More tales of apocalypse avoided - including in an animal testing lab - and the hard work that made that possible</h4> <p><strong>ON CALL Y2K</strong>  Welcome to another edition of On Call, <i>The Register</i>’s Friday column that shares your tech support stories. Over the holiday season we’re telling tales of the Y2K bug, and readers who spent December 31, 1999 on call in case the world’s computers caused calamities.…</p>]]>
-      </description>
-      <source:markdown>#### More tales of apocalypse avoided - including in an animal testing lab - and the hard work that made that possible
-
-**ON CALL Y2K**  Welcome to another edition of On Call, _The Register_’s Friday column that shares your tech support stories. Over the holiday season we’re telling tales of the Y2K bug, and readers who spent December 31, 1999 on call in case the world’s computers caused calamities.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243751</guid>
     </item>
   </channel>
 </rss>
