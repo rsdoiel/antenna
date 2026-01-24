@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Jan 26 08:14 -0800</lastBuildDate>
+    <lastBuildDate>24 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Calvin 2.4</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/01/calvin-24/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Calvin is a very small and fast version of the vi editor for 16-bit DOS. Ben Collver has compiled Calvin 2.4 and made it available. From Ben's note: "There is really only one change in this release: the status message from ^G now prints the current column as well as the line. The only real reason for this release is to port the source code from Borland Turbo-C and A86 to the free Watcom compiler toolchain, which is shipped with FreeDOS." Get the new version <a class="" href="https://archive.org/details/calvin24" rel="nofollow">from Archive.org</a></p></div>]]>
+      </description>
+      <source:markdown>Calvin is a very small and fast version of the vi editor for 16-bit DOS. Ben Collver has compiled Calvin 2.4 and made it available. From Ben&#39;s note: &#34;There is really only one change in this release: the status message from ^G now prints the current column as well as the line. The only real reason for this release is to port the source code from Borland Turbo-C and A86 to the free Watcom compiler toolchain, which is shipped with FreeDOS.&#34; Get the new version [from Archive.org](https://archive.org/details/calvin24)</source:markdown>
+      <guid>cid://https://sourceforge.net02c25f2185ac6cc1c318111377ab29c8404cf522</guid>
+    </item>    <item>
+      <title>Experimental GCC toolchain</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/01/experimental-gcc-toolchain/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Developer tkchia has shared a GCC toolchain which produces code for the (partly deprecated) x86-32 IAMCU ABI. The ABI uses registers to pass parameters to functions, and was apparently intended for use with embedded devices running on Intel Quark processors. This is currently just the GCC compiler and binutils, but not a C library runtime, so it's more of an experiment. You can find it at <a class="" href="https://codeberg.org/tkchia/gcc-iamcu" rel="nofollow">tkchia's codeberg site</a>.</p></div>]]>
+      </description>
+      <source:markdown>Developer tkchia has shared a GCC toolchain which produces code for the (partly deprecated) x86-32 IAMCU ABI. The ABI uses registers to pass parameters to functions, and was apparently intended for use with embedded devices running on Intel Quark processors. This is currently just the GCC compiler and binutils, but not a C library runtime, so it&#39;s more of an experiment. You can find it at [tkchia&#39;s codeberg site](https://codeberg.org/tkchia/gcc-iamcu).</source:markdown>
+      <guid>cid://https://sourceforge.net1e5fcf276ac9ecca18786b3291c67a1e6d8a70a3</guid>
+    </item>    <item>
+      <title>Omikron: The Nomad Soul</title>
+      <link>https://www.filfre.net/2026/01/omikron-the-nomad-soul/</link>
+      <description>
+        <![CDATA[The idea of being in the body of a guy and making love to his wife &#8212; when she believes you&#8217;re her husband, even though you&#8217;re not &#8212; was a very strange position to be in. That&#8217;s exactly the kind of thing I try to explore in all my games today. &#8212; David Cage, speaking [&#8230;]]]>
+      </description>
+      <source:markdown>The idea of being in the body of a guy and making love to his wife — when she believes you’re her husband, even though you’re not — was a very strange position to be in. That’s exactly the kind of thing I try to explore in all my games today. — David Cage, speaking \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6616</guid>
+    </item>    <item>
       <title>b.log 2026/01/21 - Car repair, How about a nice game of chess?, Crisps, Picard and the free food, Linux and the heartless hub.</title>
       <link>https://heyrick.eu/blog/entry/20260121</link>
       <description>
@@ -312,22 +336,6 @@ What is Git</source:markdown>
       </description>
       <source:markdown>Holiday recap, Precedent, Sewing, &#39;Painting&#39; by plastic dots, Another Picard order, Mamie v0.36L, Fray Bentos.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260104</guid>
-    </item>    <item>
-      <title>Homeworld</title>
-      <link>https://www.filfre.net/2026/01/homeworld/</link>
-      <description>
-        <![CDATA[This article tells part of the story of real-time strategy. The first-person shooter and the real-time-strategy game, those two genres that had come to absolutely dominate mainstream computer gaming by the end of the 1990s, were surprisingly different in their core technologies. The FPS was all about 3D graphics, as aided and abetted by the [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of real-time strategy. The first-person shooter and the real-time-strategy game, those two genres that had come to absolutely dominate mainstream computer gaming by the end of the 1990s, were surprisingly different in their core technologies. The FPS was all about 3D graphics, as aided and abetted by the \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6590</guid>
-    </item>    <item>
-      <title>FlagQuiz 1.02 released</title>
-      <link>https://www.riscository.com/2026/flagquiz-1-02/</link>
-      <description>
-        <![CDATA[Kevin Wells has released another new version of FlagQuiz, his application that allows users to test their knowledge and recognition of national flags. Version 1.02 addresses a fairly basic issue in the program, whereby the sprites file containing the various flags used by the program were loaded into the WIMP sprite pool. Unless a program specifically needs its sprites held there, this is bad practice because it risks an application&#8217;s sprites being used in place of ones used by the system. Kevin has therefore updated FlagQuiz to store its sprites&#8230;]]>
-      </description>
-      <source:markdown>Kevin Wells has released another new version of FlagQuiz, his application that allows users to test their knowledge and recognition of national flags. Version 1.02 addresses a fairly basic issue in the program, whereby the sprites file containing the various flags used by the program were loaded into the WIMP sprite pool. Unless a program specifically needs its sprites held there, this is bad practice because it risks an application’s sprites being used in place of ones used by the system. Kevin has therefore updated FlagQuiz to store its sprites…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10839</guid>
     </item>
   </channel>
 </rss>

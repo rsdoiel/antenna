@@ -4,10 +4,55 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Jan 26 08:14 -0800</lastBuildDate>
+    <lastBuildDate>24 Jan 26 08:11 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Jibby Jones, by Ellis Parker Butler</title>
+      <link>https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones</link>
+      <description>
+        <![CDATA[Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.]]>
+      </description>
+      <source:markdown>Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones/downloads/ellis-parker-butler_jibby-jones.epub?source=feed" length="687636" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones</guid>
+    </item>    <item>
+      <title>Recordings From Our Public Domain Day Celebrations are Now Available</title>
+      <link>https://blog.archive.org/2026/01/23/recordings-from-our-public-domain-day-celebrations-are-now-available/</link>
+      <description>
+        <![CDATA[This week, Internet Archive celebrated Public Domain Day with a lively mix of ideas, art, and community. Session recordings are now available to revisit or discover the highlights. In our daytime virtual session, we [&#8230;]]]>
+      </description>
+      <source:markdown>This week, Internet Archive celebrated Public Domain Day with a lively mix of ideas, art, and community. Session recordings are now available to revisit or discover the highlights. In our daytime virtual session, we \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30020</guid>
+    </item>    <item>
+      <title>SPARC and Curationist Join Widening Effort to Protect Our Future Memory</title>
+      <link>https://blog.archive.org/2026/01/23/sparc-and-curationist-join-widening-effort-to-protect-our-future-memory/</link>
+      <description>
+        <![CDATA[Two more organizations—SPARC and Curationist—have decided to sign the Statement on Four Digital Rights for Memory Institutions Online, demonstrating its broad appeal to memory institutions of different stripes. SPARC and [&#8230;]]]>
+      </description>
+      <source:markdown>Two more organizations—SPARC and Curationist—have decided to sign the Statement on Four Digital Rights for Memory Institutions Online, demonstrating its broad appeal to memory institutions of different stripes. SPARC and \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30011</guid>
+    </item>    <item>
+      <title>The rise of ‘predatory’ publishing</title>
+      <link>https://blog.scielo.org/en/2026/01/23/the-rise-of-predatory-publishing/</link>
+      <description>
+        <![CDATA[<p>Over the past two decades, scientific publishing has undergone a technological and economic transformation that has opened the door to more unorthodox models and, unfortunately, predatory practices. Predatory publishing refers to journals and publishers that charge authors (very high fees) to publish, claim peer review and indexing practices that do not exist or are fraudulent, and prioritize quick revenue over scientific quality.  <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2026/01/23/the-rise-of-predatory-publishing/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+        <p>The post <a href="https://blog.scielo.org/en/2026/01/23/the-rise-of-predatory-publishing/">The rise of ‘predatory’ publishing</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
+      </description>
+      <source:markdown>Over the past two decades, scientific publishing has undergone a technological and economic transformation that has opened the door to more unorthodox models and, unfortunately, predatory practices. Predatory publishing refers to journals and publishers that charge authors (very high fees) to publish, claim peer review and indexing practices that do not exist or are fraudulent, and prioritize quick revenue over scientific quality. …[Read More →](https://blog.scielo.org/en/2026/01/23/the-rise-of-predatory-publishing/)
+
+The post [The rise of ‘predatory’ publishing](https://blog.scielo.org/en/2026/01/23/the-rise-of-predatory-publishing/) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
+      <guid>cid://https://blog.scielo.org/en/?p=5825</guid>
+    </item>    <item>
+      <title>The Ladies Lindores, by Margaret Oliphant</title>
+      <link>https://standardebooks.org/ebooks/margaret-oliphant/the-ladies-lindores</link>
+      <description>
+        <![CDATA[The lives of three families of the Scottish gentry intertwine through love and conflict.]]>
+      </description>
+      <source:markdown>The lives of three families of the Scottish gentry intertwine through love and conflict.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/margaret-oliphant/the-ladies-lindores/downloads/margaret-oliphant_the-ladies-lindores.epub?source=feed" length="804433" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/margaret-oliphant/the-ladies-lindores</guid>
+    </item>    <item>
       <title>Great News From GDELT Project: “A Transformative New Chapter: Translating The Entire Quarter-Century TV News Archive Through Gemini For Just $54K + All Channels Now Translated”</title>
       <link>https://www.infodocket.com/2026/01/23/great-news-from-gdelt-project-a-transformative-new-chapter-translating-the-entire-quarter-century-tv-news-archive-through-gemini-for-just-54k-all-channels-now-translated/</link>
       <description>
@@ -493,7 +538,7 @@ The post [How Congress Can Improve Accessibility and Digital Access](https://www
         <![CDATA[A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.]]>
       </description>
       <source:markdown>A wealthy widow is murdered at her villa in Aix-les-Bains, and her companion is missing.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose/downloads/a-e-w-mason_at-the-villa-rose.epub?source=feed" length="466484" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose/downloads/a-e-w-mason_at-the-villa-rose.epub?source=feed" length="466477" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose</guid>
     </item>    <item>
       <title>New Data From OverDrive: Libraries Break Digital Lending Records in 2025 with Over 820 Million Checkouts and Over 1 Billion Minutes Streamed</title>
@@ -621,7 +666,7 @@ The post [Creating a Culture of Diversity and Inclusion Revisited: An Interview 
         <![CDATA[A young Russian woman falls in love with a Bulgarian patriot on the eve of the Crimean War.]]>
       </description>
       <source:markdown>A young Russian woman falls in love with a Bulgarian patriot on the eve of the Crimean War.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ivan-turgenev/on-the-eve/constance-garnett/downloads/ivan-turgenev_on-the-eve_constance-garnett.epub?source=feed" length="413349" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ivan-turgenev/on-the-eve/constance-garnett/downloads/ivan-turgenev_on-the-eve_constance-garnett.epub?source=feed" length="413348" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ivan-turgenev/on-the-eve/constance-garnett</guid>
     </item>    <item>
       <title>University of Missouri Libraries Adds Collection of World War II Posters to Digital Library</title>
@@ -743,7 +788,7 @@ The post [Guest Post — Open Scholarship is Poised to Create More Value than Ev
         <![CDATA[A young Briton, learned in Roman ways, becomes their chief adversary.]]>
       </description>
       <source:markdown>A young Briton, learned in Roman ways, becomes their chief adversary.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/g-a-henty/beric-the-briton/downloads/g-a-henty_beric-the-briton.epub?source=feed" length="705711" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/g-a-henty/beric-the-briton/downloads/g-a-henty_beric-the-briton.epub?source=feed" length="705710" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/g-a-henty/beric-the-briton</guid>
     </item>    <item>
       <title>Tragedy at Ravensthorpe, by J. J. Connington</title>
@@ -752,7 +797,7 @@ The post [Guest Post — Open Scholarship is Poised to Create More Value than Ev
         <![CDATA[Chief Constable Sir Clinton Driffield investigates the theft of valuables from a country estate after a masquerade ball.]]>
       </description>
       <source:markdown>Chief Constable Sir Clinton Driffield investigates the theft of valuables from a country estate after a masquerade ball.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe/downloads/j-j-connington_tragedy-at-ravensthorpe.epub?source=feed" length="338937" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe/downloads/j-j-connington_tragedy-at-ravensthorpe.epub?source=feed" length="338938" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe</guid>
     </item>    <item>
       <title>Father Henson’s Story of His Own Life, by Josiah Henson</title>
@@ -761,7 +806,7 @@ The post [Guest Post — Open Scholarship is Poised to Create More Value than Ev
         <![CDATA[Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.]]>
       </description>
       <source:markdown>Josiah Henson’s autobiography recounts his life in slavery and his escape to freedom in Canada.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/josiah-henson_father-hensons-story-of-his-own-life.epub?source=feed" length="587614" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life/downloads/josiah-henson_father-hensons-story-of-his-own-life.epub?source=feed" length="587613" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/josiah-henson/father-hensons-story-of-his-own-life</guid>
     </item>    <item>
       <title>Online Event: University of Kansas Libraries Launches Global Speaker Series on Librarianship</title>
@@ -1199,7 +1244,7 @@ The post [Guest Post — What is The ‘Right’ Way to Make Tea? Why Internatio
         <![CDATA[A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.]]>
       </description>
       <source:markdown>A kindhearted doctor who can speak the language of animals embarks on a whimsical adventure to Africa.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/hugh-lofting_the-story-of-doctor-dolittle.epub?source=feed" length="483272" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle/downloads/hugh-lofting_the-story-of-doctor-dolittle.epub?source=feed" length="483275" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/hugh-lofting/the-story-of-doctor-dolittle</guid>
     </item>    <item>
       <title>Journal Article: Generative AI in Higher Education: A Bibliometric Review of Emerging Trends, Power Dynamics, and Global Research Landscapes</title>
@@ -1396,7 +1441,7 @@ The post [Kitchen Essentials: An Interview with Tanja Niemann of Érudit / Une E
         <![CDATA[The death in Venice of a wealthy man under very mysterious circumstances leads to suspicions of a supernatural cause.]]>
       </description>
       <source:markdown>The death in Venice of a wealthy man under very mysterious circumstances leads to suspicions of a supernatural cause.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/wilkie-collins/the-haunted-hotel/downloads/wilkie-collins_the-haunted-hotel.epub?source=feed" length="724086" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/wilkie-collins/the-haunted-hotel/downloads/wilkie-collins_the-haunted-hotel.epub?source=feed" length="724085" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/wilkie-collins/the-haunted-hotel</guid>
     </item>    <item>
       <title>The Brooklyn Murders, by G. D. H. Cole</title>
