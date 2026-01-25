@@ -4,10 +4,46 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Jan 26 20:53 -0800</lastBuildDate>
+    <lastBuildDate>25 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Emmabuntüs DE 6: A newbie-friendly Linux to help those in need</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/</link>
+      <description>
+        <![CDATA[<h4>A distro aimed at helping people, reducing e-waste – and helping a charity, too</h4> <p>Emmabuntüs is just another Linux distro, but it&#39;s one guided by ethics more than tech. With exceptional help, documentation, beginner-friendly tooling and accessibility, there&#39;s a lot to like.…</p>]]>
+      </description>
+      <source:markdown>#### A distro aimed at helping people, reducing e-waste – and helping a charity, too
+
+Emmabuntüs is just another Linux distro, but it&#39;s one guided by ethics more than tech. With exceptional help, documentation, beginner-friendly tooling and accessibility, there&#39;s a lot to like.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244122</guid>
+    </item>    <item>
+      <title>Future of UK&#39;s multibillion Ajax armored vehicle program looks shaky</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/25/uk_defence_grapples_with_ajax/</link>
+      <description>
+        <![CDATA[<h4>Noise and vibration keeps sending soldiers to the medics</h4> <p>The future of the British Army&#39;s troublesome Ajax armored vehicle program has again been called into question after the official in charge was removed and use of Ajax halted over its effects on personnel.…</p>]]>
+      </description>
+      <source:markdown>#### Noise and vibration keeps sending soldiers to the medics
+
+The future of the British Army&#39;s troublesome Ajax armored vehicle program has again been called into question after the official in charge was removed and use of Ajax halted over its effects on personnel.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244147</guid>
+    </item>    <item>
+      <title>9front GEFS SERVICE PACK 1 released</title>
+      <link>https://www.osnews.com/story/144278/9front-gefs-service-pack-1-released/</link>
+      <description>
+        <![CDATA[9front, by far the best operating system in the whole world, pushed out a new release, titled &#8220;GEFS SERVICE PACK 1&#8220;. Even with only a few changes, this is still, as always, a more monumental, important, and groundbreaking release than any other operating system release in history. Everything changes, today, because exec() now supports shell-scripts as interpreter in #!, improved sam scrolling, TLS by default in ircrc, and more. You&#8217;re already running 9front, of course, but if you&#8217;re one of the few holdouts still using something else, download GEFS SERVICE PACK 1 and install it.]]>
+      </description>
+      <source:markdown>9front, by far the best operating system in the whole world, pushed out a new release, titled “GEFS SERVICE PACK 1“. Even with only a few changes, this is still, as always, a more monumental, important, and groundbreaking release than any other operating system release in history. Everything changes, today, because exec() now supports shell-scripts as interpreter in #!, improved sam scrolling, TLS by default in ircrc, and more. You’re already running 9front, of course, but if you’re one of the few holdouts still using something else, download GEFS SERVICE PACK 1 and install it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144278</guid>
+    </item>    <item>
+      <title>Remotely unlocking an encrypted hard disk</title>
+      <link>https://www.osnews.com/story/144275/remotely-unlocking-an-encrypted-hard-disk/</link>
+      <description>
+        <![CDATA[Your mission, should you choose to accept it, is to sneak into the earliest parts of the boot process, swap the startup config without breaking anything, and leave without a trace. Are you ready? Let&#8217;s begin. ↫ Jynn Nelson Genius.]]>
+      </description>
+      <source:markdown>Your mission, should you choose to accept it, is to sneak into the earliest parts of the boot process, swap the startup config without breaking anything, and leave without a trace. Are you ready? Let’s begin. ↫ Jynn Nelson Genius.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144275</guid>
+    </item>    <item>
       <title>How an experienced developer teamed up with Claude to create Elo programming language</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/24/human_ai_pair_programming_elo/</link>
       <description>
