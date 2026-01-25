@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Jan 26 08:10 -0800</lastBuildDate>
+    <lastBuildDate>24 Jan 26 20:53 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/01/24 - More on that hub, Fixing a FAT drive under Linux, Continuity error in Patience!, Plugs, Deneigement.</title>
+      <link>https://heyrick.eu/blog/entry/20260124</link>
+      <description>
+        <![CDATA[More on that hub, Fixing a FAT drive under Linux, Continuity error in Patience!, Plugs, Deneigement.]]>
+      </description>
+      <source:markdown>More on that hub, Fixing a FAT drive under Linux, Continuity error in Patience!, Plugs, Deneigement.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260124</guid>
+    </item>    <item>
       <title>Calvin 2.4</title>
       <link>https://sourceforge.net/p/freedos/news/2026/01/calvin-24/</link>
       <description>
