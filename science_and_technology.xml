@@ -4,16 +4,16 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>24 Jan 26 20:53 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>How an experienced developer teamed up with Claude to create Elo programming language</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/24/human_ai_pair_programming_elo/</link>
       <description>
-        <![CDATA[<h4>Bernand Lambeau, the human half of a pair programming team, explains how he&#39;s using AI</h4> <p><strong>feature</strong>  Bernard Lambeau, a Belgium-based software developer and founder of several technology companies, created a programming language called Elo with the help of Anthropic&#39;s Claude Code.…</p>]]>
+        <![CDATA[<h4>Bernard Lambeau, the human half of a pair programming team, explains how he&#39;s using AI</h4> <p><strong>feature</strong>  Bernard Lambeau, a Belgium-based software developer and founder of several technology companies, created a programming language called Elo with the help of Anthropic&#39;s Claude Code.…</p>]]>
       </description>
-      <source:markdown>#### Bernand Lambeau, the human half of a pair programming team, explains how he&#39;s using AI
+      <source:markdown>#### Bernard Lambeau, the human half of a pair programming team, explains how he&#39;s using AI
 
 **feature**  Bernard Lambeau, a Belgium-based software developer and founder of several technology companies, created a programming language called Elo with the help of Anthropic&#39;s Claude Code.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244134</guid>
@@ -5948,34 +5948,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
       </description>
       <source:markdown>It shouldn’t be surprising that the HP-UX FAQ eventually grew an entry for “how can I make a 712 run headless”. It was possible, and to do it you had to change the firmware “console” path. The 712 firmware would not allow you to do this, to keep you locked to a keyboard and frame buffer console, but some of the HP-UX standalone tools could be used to change this without the firmware getting in the way, so the FAQ recipe was roughly “abort the boot sequence, at the BOOT\_ADMIN&#62; prompt, do not start the HP-UX kernel but some diagnostic tool, and then at the tools prompt, type a magic sequence without any mistake or you’ll be very, very, very sorry”. There was no exaggeration in these words: the magic sequence is conspath 2/0/4.0x283, which is everything but intuitive and easy to remember. ↫ Miod Vallat What a great story.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=144107</guid>
-    </item>    <item>
-      <title>IceWM 4.0.0 brings alt+tab improvements</title>
-      <link>https://www.osnews.com/story/144105/icewm-4-0-0-brings-alttab-improvements/</link>
-      <description>
-        <![CDATA[IceWM, the venerable X11 window manager, has released a new version, bumping the version number to 4.0.0. This release brings a big update to the alt+tab feature. The Alt+Tab window switcher can now handle large numbers of application windows in both horizontal and in vertical mode. Type the first letter of an application class name in Alt+Tab, to select the next instance window of that application class. Select an application by pressing one of the number keys. Select an application by mouse in Alt+Tab in horizontal mode. Support navigating the quick switch with all navigation keys. Press the menu button on Alt+Tab to open the system menu. QuickSwitchPreview is a new mode to preview applications. These previews are updated while the quick switch is active. ↫ IceWM 4.0 release notes On top of this major set of improvements to alt+tab, there&#8217;s the usual list of bug fixes and small changes, as well as a bunch if updated translations.]]>
-      </description>
-      <source:markdown>IceWM, the venerable X11 window manager, has released a new version, bumping the version number to 4.0.0. This release brings a big update to the alt+tab feature. The Alt+Tab window switcher can now handle large numbers of application windows in both horizontal and in vertical mode. Type the first letter of an application class name in Alt+Tab, to select the next instance window of that application class. Select an application by pressing one of the number keys. Select an application by mouse in Alt+Tab in horizontal mode. Support navigating the quick switch with all navigation keys. Press the menu button on Alt+Tab to open the system menu. QuickSwitchPreview is a new mode to preview applications. These previews are updated while the quick switch is active. ↫ IceWM 4.0 release notes On top of this major set of improvements to alt+tab, there’s the usual list of bug fixes and small changes, as well as a bunch if updated translations.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144105</guid>
-    </item>    <item>
-      <title>Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/</link>
-      <description>
-        <![CDATA[<h4>Rust veteran Steve Klabnik is using an LLM to explore memory safety without garbage collection</h4> <p>Naming a new programming language &#34;Rue&#34; sounds like an acknowledgment of doubt about the project&#39;s prospects, if you take &#34;Rue&#34; to mean &#34;regret.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### Rust veteran Steve Klabnik is using an LLM to explore memory safety without garbage collection
-
-Naming a new programming language &#34;Rue&#34; sounds like an acknowledgment of doubt about the project&#39;s prospects, if you take &#34;Rue&#34; to mean &#34;regret.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243781</guid>
-    </item>    <item>
-      <title>Users prompt Elon Musk&#39;s Grok AI chatbot to remove clothes in photos then &#39;apologize&#39; for it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/03/elon_musk_grok_scandal_underwear_strippers_gross/</link>
-      <description>
-        <![CDATA[<h4>Repeat after me: Chatbots are not sentient and have no agency</h4> <p>Grok, the AI chatbot owned and operated by Elon Musk&#39;s xAI, is facing a firestorm of outrage after users prompted it to create images of naked and scantily clad people from real photographs, some of whom are underage.…</p>]]>
-      </description>
-      <source:markdown>#### Repeat after me: Chatbots are not sentient and have no agency
-
-Grok, the AI chatbot owned and operated by Elon Musk&#39;s xAI, is facing a firestorm of outrage after users prompted it to create images of naked and scantily clad people from real photographs, some of whom are underage.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243783</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,86 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>24 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>24 Jan 26 20:53 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>New Bishop of Raphoe to be installed</title>
+      <link>https://www.rte.ie/news/ulster/2026/0125/1554933-raphoe-bishop-install/</link>
+      <description>
+        <![CDATA[The new Bishop of Raphoe Niall Coll will be installed this afternoon in St Eunan's Cathedral, Letterkenny.]]>
+      </description>
+      <source:markdown>The new Bishop of Raphoe Niall Coll will be installed this afternoon in St Eunan&#39;s Cathedral, Letterkenny.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ulster/2026/0125/1554933-raphoe-bishop-install/</guid>
+    </item>    <item>
+      <title>Three people rescued by coastguard in Belfast Lough</title>
+      <link>https://www.rte.ie/news/ulster/2026/0125/1554932-belfast-lough-rescue/</link>
+      <description>
+        <![CDATA[Three people have been taken to hospital after getting into difficulty at Helens Bay Beach, Belfast Coastguard has said.]]>
+      </description>
+      <source:markdown>Three people have been taken to hospital after getting into difficulty at Helens Bay Beach, Belfast Coastguard has said.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ulster/2026/0125/1554932-belfast-lough-rescue/</guid>
+    </item>    <item>
+      <title>Impact of bluetongue case for second emergency meeting</title>
+      <link>https://www.rte.ie/news/ireland/2026/0125/1554930-bluetonge-emergency-meeting/</link>
+      <description>
+        <![CDATA[A second emergency meeting is to be held by the Department of Agriculture to discuss the first detected case of the animal virus bluetongue in the Republic.]]>
+      </description>
+      <source:markdown>A second emergency meeting is to be held by the Department of Agriculture to discuss the first detected case of the animal virus bluetongue in the Republic.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/ireland/2026/0125/1554930-bluetonge-emergency-meeting/</guid>
+    </item>    <item>
+      <title>Competing claims on shooting by US immigration agents</title>
+      <link>https://www.rte.ie/news/world/2026/0125/1554928-minneapolis-shooting-pretti/</link>
+      <description>
+        <![CDATA[United States immigration agents shot and killed a US citizen in Minneapolis, officials said, sparking fierce protests and condemnations from local leaders.]]>
+      </description>
+      <source:markdown>United States immigration agents shot and killed a US citizen in Minneapolis, officials said, sparking fierce protests and condemnations from local leaders.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0125/1554928-minneapolis-shooting-pretti/</guid>
+    </item>    <item>
+      <title>Syria and Kurds extend truce for IS detainee transfer</title>
+      <link>https://www.rte.ie/news/world/2026/0125/1554927-syria-kurdish-ceasefire/</link>
+      <description>
+        <![CDATA[Syria's government and Kurdish forces have extended their truce by 15 days, with Damascus saying it was to support the US transfer of Islamic State group detainees from Syria to Iraq.]]>
+      </description>
+      <source:markdown>Syria&#39;s government and Kurdish forces have extended their truce by 15 days, with Damascus saying it was to support the US transfer of Islamic State group detainees from Syria to Iraq.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/world/2026/0125/1554927-syria-kurdish-ceasefire/</guid>
+    </item>    <item>
+      <title>Leinster spoil Connacht&#39;s party in thrilling interpro</title>
+      <link>https://www.rte.ie/sport/united-rugby-championship/2026/0124/1554857-leinster-spoil-connachts-party-in-thrilling-interpro/</link>
+      <description>
+        <![CDATA[It was meant to be a famous night for Connacht, but Leinster didn't get the memo and recorded a bonus-point 34-23 URC victory at the new Dexcom Stadium.]]>
+      </description>
+      <source:markdown>It was meant to be a famous night for Connacht, but Leinster didn&#39;t get the memo and recorded a bonus-point 34-23 URC victory at the new Dexcom Stadium.</source:markdown>
+      <guid>cid://https://www.rte.ie/sport/united-rugby-championship/2026/0124/1554857-leinster-spoil-connachts-party-in-thrilling-interpro/</guid>
+    </item>    <item>
+      <title>As it happened: Federal agents shoot man in Minneapolis</title>
+      <link>https://www.rte.ie/news/2026/0124/1554902-minnesota-shooting/</link>
+      <description>
+        <![CDATA[Follow live updates after federal agents in Minnesota shot a person in the city of Minneapolis, with the city's mayor calling for ICE agents to be removed from the state.]]>
+      </description>
+      <source:markdown>Follow live updates after federal agents in Minnesota shot a person in the city of Minneapolis, with the city&#39;s mayor calling for ICE agents to be removed from the state.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0124/1554902-minnesota-shooting/</guid>
+    </item>    <item>
+      <title>Households to receive emergency preparedness booklet</title>
+      <link>https://www.rte.ie/news/2026/0124/1554901-emergency-preparedness-booklet/</link>
+      <description>
+        <![CDATA[A booklet on emergency preparedness will be sent to every household in the State in the coming weeks.]]>
+      </description>
+      <source:markdown>A booklet on emergency preparedness will be sent to every household in the State in the coming weeks.</source:markdown>
+      <guid>cid://https://www.rte.ie/news/2026/0124/1554901-emergency-preparedness-booklet/</guid>
+    </item>    <item>
+      <title>UN rights chief on migrants in US: Where is concern for their dignity?</title>
+      <link>https://www.vaticannews.va/en/world/news/2026-01/un-rights-chief-migrants-us-where-is-concern-for-their-dignity.html</link>
+      <description>
+        <![CDATA[<p>After the number of people detained by the U.S.’ immigration enforcement agency hits record high, U.N. High Commissioner Volker Türk says "demonizing migrants and refugees collectively as criminals, threats, or burdens on society – based on their origin, nationality or migration status – inhuman, wrong".</p>
+                            <p><a href="https://www.vaticannews.va/en/world/news/2026-01/un-rights-chief-migrants-us-where-is-concern-for-their-dignity.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>After the number of people detained by the U.S.’ immigration enforcement agency hits record high, U.N. High Commissioner Volker Türk says &#34;demonizing migrants and refugees collectively as criminals, threats, or burdens on society – based on their origin, nationality or migration status – inhuman, wrong&#34;.
+
+[Read all](https://www.vaticannews.va/en/world/news/2026-01/un-rights-chief-migrants-us-where-is-concern-for-their-dignity.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/world/news/2026-01/un-rights-chief-migrants-us-where-is-concern-for-their-dignity.html</guid>
+    </item>    <item>
       <title>Trump threatens Canada with 100% tariff over China trade</title>
       <link>https://www.rte.ie/news/world/2026/0124/1554883-trump-canada/</link>
       <description>
@@ -15,6 +91,18 @@
       </description>
       <source:markdown>US President Donald Trump has said he would impose a 100% tariff on Canada if it makes a trade deal with China and warned Canadian Prime Minister Mark Carney that a deal would endanger his country.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0124/1554883-trump-canada/</guid>
+    </item>    <item>
+      <title>Ukrainians freezing in the dark as Russia targets power grid</title>
+      <link>https://www.vaticannews.va/en/world/news/2026-01/ukrainians-freezing-dark-russia-targets-power-grid.html</link>
+      <description>
+        <![CDATA[<p>The constant strikes on the energy distribution network have caused operational damage far worse than expected, leaving thousands of households without heating or electricity.</p>
+                            <p><a href="https://www.vaticannews.va/en/world/news/2026-01/ukrainians-freezing-dark-russia-targets-power-grid.html">Read all</a></p>
+                            <p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>The constant strikes on the energy distribution network have caused operational damage far worse than expected, leaving thousands of households without heating or electricity.
+
+[Read all](https://www.vaticannews.va/en/world/news/2026-01/ukrainians-freezing-dark-russia-targets-power-grid.html)</source:markdown>
+      <guid>cid://https://www.vaticannews.va/en/world/news/2026-01/ukrainians-freezing-dark-russia-targets-power-grid.html</guid>
     </item>    <item>
       <title>Australian 12-year-old bitten by shark dies</title>
       <link>https://www.rte.ie/news/world/2026/0124/1554870-shark-attack/</link>
@@ -36,6 +124,15 @@
 [Read all](https://www.vaticannews.va/en/church/news/2026-01/gospel-reflection-third-sunday-ordinary-time-capernaum.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/church/news/2026-01/gospel-reflection-third-sunday-ordinary-time-capernaum.html</guid>
     </item>    <item>
+      <title>‘Cycle of attacks must end’: Lead UN official in Ukraine</title>
+      <link>https://news.un.org/feed/view/en/story/2026/01/1166825</link>
+      <description>
+        <![CDATA[The senior UN official in Ukraine, Matthias Schmale, has issued a condemnation of the massive overnight Russian drone and missile strike on several major Ukrainian cities, killing and injuring civilians, and knocking out energy infrastructure amid sub-zero temperatures.]]>
+      </description>
+      <source:markdown>The senior UN official in Ukraine, Matthias Schmale, has issued a condemnation of the massive overnight Russian drone and missile strike on several major Ukrainian cities, killing and injuring civilians, and knocking out energy infrastructure amid sub-zero temperatures.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-01-2026-UNHCR-Ukraine-01.jpg/image560x340cropped.jpg" length="31022" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2026/01/1166825</guid>
+    </item>    <item>
       <title>Taoiseach pays tribute to journalist Paddy Clancy</title>
       <link>https://www.rte.ie/news/ireland/2026/0124/1554868-paddy-clancy/</link>
       <description>
@@ -56,12 +153,12 @@
 [Read all](https://www.vaticannews.va/en/pope/news/2026-01/pope-meets-energy-mineral-leaders-from-latin-america-caribbean.html)</source:markdown>
       <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/pope-meets-energy-mineral-leaders-from-latin-america-caribbean.html</guid>
     </item>    <item>
-      <title>Labour MPs to gather amid Starmer rival by-election bid</title>
+      <title>Starmer rival announces he will stand in by-election</title>
       <link>https://www.rte.ie/news/uk/2026/0124/1554865-bunham-election/</link>
       <description>
-        <![CDATA[UK Labour MPs will gather amid speculation that Andy Burnham could seek to stand for a Westminster by-election and challenge the Prime Minister's authority.]]>
+        <![CDATA[Greater Manchester Mayor Andy Burnham has announced that he intends to stand in the Gorton and Denton by-election, setting up a potential return to Westminster.]]>
       </description>
-      <source:markdown>UK Labour MPs will gather amid speculation that Andy Burnham could seek to stand for a Westminster by-election and challenge the Prime Minister&#39;s authority.</source:markdown>
+      <source:markdown>Greater Manchester Mayor Andy Burnham has announced that he intends to stand in the Gorton and Denton by-election, setting up a potential return to Westminster.</source:markdown>
       <guid>cid://https://www.rte.ie/news/uk/2026/0124/1554865-bunham-election/</guid>
     </item>    <item>
       <title>Pope Leo: Technology must serve the human person, not replace it</title>
@@ -104,12 +201,12 @@
       <source:markdown>Ukraine has accused Russian President Vladimir Putin of &#34;cynically&#34; ordering massive missile strikes as negotiators from Russia, Ukraine and the US meet to discuss a plan to end the almost four-year-long war.</source:markdown>
       <guid>cid://https://www.rte.ie/news/ukraine/2026/0124/1554844-ukraine-russia/</guid>
     </item>    <item>
-      <title>Thousands braved cold to demand ICE leave Minneapolis</title>
+      <title>US federal agents shoot dead second person in Minneapolis</title>
       <link>https://www.rte.ie/news/us/2026/0124/1554830-minnesota-protests/</link>
       <description>
-        <![CDATA[Thousands of demonstrators braved bitter cold to march through the streets of Minneapolis and demand an end to President Donald Trump's immigration crackdown in their city]]>
+        <![CDATA[US federal agents have shot and killed a man in Minneapolis, local and federal officials said, the second fatal shooting involving federal agents this month during a surge in immigration enforcement in the northern US city.]]>
       </description>
-      <source:markdown>Thousands of demonstrators braved bitter cold to march through the streets of Minneapolis and demand an end to President Donald Trump&#39;s immigration crackdown in their city</source:markdown>
+      <source:markdown>US federal agents have shot and killed a man in Minneapolis, local and federal officials said, the second fatal shooting involving federal agents this month during a surge in immigration enforcement in the northern US city.</source:markdown>
       <guid>cid://https://www.rte.ie/news/us/2026/0124/1554830-minnesota-protests/</guid>
     </item>    <item>
       <title>How Trump blindsided Davos and shattered Western alliance</title>
@@ -171,9 +268,9 @@
       <title>Winter storm, sub-freezing cold descend on US</title>
       <link>https://www.rte.ie/news/2026/0124/1554826-us-winter-storm/</link>
       <description>
-        <![CDATA[Snow has fallen over parts of Texas, Oklahoma and Kansas in a frosty prelude to a winter storm that is expected to converge with bitter Arctic cold and engulf much of the United States over the weekend.]]>
+        <![CDATA[A massive winter storm has dumped snow and freezing rain on New Mexico and Texas as it spread across the United States towards the northeast, threatening tens of millions of Americans with blackouts, transportation chaos and bone-chilling cold.]]>
       </description>
-      <source:markdown>Snow has fallen over parts of Texas, Oklahoma and Kansas in a frosty prelude to a winter storm that is expected to converge with bitter Arctic cold and engulf much of the United States over the weekend.</source:markdown>
+      <source:markdown>A massive winter storm has dumped snow and freezing rain on New Mexico and Texas as it spread across the United States towards the northeast, threatening tens of millions of Americans with blackouts, transportation chaos and bone-chilling cold.</source:markdown>
       <guid>cid://https://www.rte.ie/news/2026/0124/1554826-us-winter-storm/</guid>
     </item>    <item>
       <title>Survivors unlikely in New Zealand landslide, police say</title>
@@ -9694,257 +9791,6 @@ Velasco also comments on Marco Rubio, a central figure in the U.S. campaign agai
       </description>
       <source:markdown>A top Venezuelan official declared that the country&#39;s government would stay unified behind President Nicolas Maduro, whose capture by the United States has sparked deep uncertainty about what is next for the oil-rich South American nation.</source:markdown>
       <guid>cid://https://www.rte.ie/news/world/2026/0104/1551369-venezuela-us-maduro/</guid>
-    </item>    <item>
-      <title>Pope dedicates Sistine Chapel Christmas Concert to children without peace</title>
-      <link>https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html</link>
-      <description>
-        <![CDATA[<p>The Sistine Chapel Choir performs a Christmas Concert in the presence of Pope Leo, who recalls the angels of Bethlehem and entrusts the world’s children to the prayer of song.</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>The Sistine Chapel Choir performs a Christmas Concert in the presence of Pope Leo, who recalls the angels of Bethlehem and entrusts the world’s children to the prayer of song.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2026-01/sistine-chapel-choir-concert-pope-leo-xiv-christmas-3-january.html</guid>
-    </item>    <item>
-      <title>Broadcaster and author John Quinn dies aged 84</title>
-      <link>https://www.rte.ie/news/2026/0103/1551347-john-quinn-death/</link>
-      <description>
-        <![CDATA[The broadcaster and programme maker John Quinn has died. He was 84.]]>
-      </description>
-      <source:markdown>The broadcaster and programme maker John Quinn has died. He was 84.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2026/0103/1551347-john-quinn-death/</guid>
-    </item>    <item>
-      <title>All you need to know about the wolf supermoon</title>
-      <link>https://www.rte.ie/brainstorm/2026/0103/1397562-supermoon-explainer/</link>
-      <description>
-        <![CDATA[The wolf supermoon is the first of 13 full moons we will get to enjoy in Irish skies this year]]>
-      </description>
-      <source:markdown>The wolf supermoon is the first of 13 full moons we will get to enjoy in Irish skies this year</source:markdown>
-      <guid>cid://https://www.rte.ie/brainstorm/2026/0103/1397562-supermoon-explainer/</guid>
-    </item>    <item>
-      <title>Just possibly it&#39;s the oil?</title>
-      <link>https://billmckibben.substack.com/p/just-possibly-its-the-oil</link>
-      <description>
-        <![CDATA[A solar panel is the new peace sign]]>
-      </description>
-      <source:markdown>A solar panel is the new peace sign</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!zawO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F906df4ea-e190-486e-abed-500a15f6049b_790x1000.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://billmckibben.substack.com/p/just-possibly-its-the-oil</guid>
-    </item>    <item>
-      <title>Maduro&#39;s rule in Venezuela is finally ended by Trump</title>
-      <link>https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump/</link>
-      <description>
-        <![CDATA[Nicolas Maduro ruled Venezuela with a heavy hand for more than 12 years, presiding over deep economic and social crises and resisting pressure from domestic opponents and foreign governments for political change.]]>
-      </description>
-      <source:markdown>Nicolas Maduro ruled Venezuela with a heavy hand for more than 12 years, presiding over deep economic and social crises and resisting pressure from domestic opponents and foreign governments for political change.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump/</guid>
-    </item>    <item>
-      <title>Nicolas Maduro&#39;s rule in Venezuela ended by Trump</title>
-      <link>https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump-venezuela/</link>
-      <description>
-        <![CDATA[Nicolas Maduro ruled Venezuela for more than 12 years, presiding over deep economic and social crises and resisting pressure from domestic opponents and foreign governments for political change.]]>
-      </description>
-      <source:markdown>Nicolas Maduro ruled Venezuela for more than 12 years, presiding over deep economic and social crises and resisting pressure from domestic opponents and foreign governments for political change.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2026/0103/1551339-maduro-trump-venezuela/</guid>
-    </item>    <item>
-      <title>Ballyboden St Enda&#39;s 1-24 Daingean Uí Chúis 1-26 recap</title>
-      <link>https://www.rte.ie/sport/football/2026/0103/1551296-ballyboden-st-endas-v-daingean-ui-chuis-updates/</link>
-      <description>
-        <![CDATA[Daingean Uí Chúis have defeated Ballyboden St Enda's at Páirc Uí Chaoimh in a pulsating All-Ireland club football semi-final. Read back on it here.]]>
-      </description>
-      <source:markdown>Daingean Uí Chúis have defeated Ballyboden St Enda&#39;s at Páirc Uí Chaoimh in a pulsating All-Ireland club football semi-final. Read back on it here.</source:markdown>
-      <guid>cid://https://www.rte.ie/sport/football/2026/0103/1551296-ballyboden-st-endas-v-daingean-ui-chuis-updates/</guid>
-    </item>    <item>
-      <title>Vatican Governorate releases new app dedicated to St. Carlo Acutis</title>
-      <link>https://www.vaticannews.va/en/vatican-city/news/2026-01/new-app-from-vatican-governorate-dedicated-to-st-carlo-acutis.html</link>
-      <description>
-        <![CDATA[<p>The Vatican Governatorate releases a new app offering the contents of its official website in a quick and intuitive way, making it possible to consult news, announcements, and official communications.</p>
-                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2026-01/new-app-from-vatican-governorate-dedicated-to-st-carlo-acutis.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>The Vatican Governatorate releases a new app offering the contents of its official website in a quick and intuitive way, making it possible to consult news, announcements, and official communications.
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-01/new-app-from-vatican-governorate-dedicated-to-st-carlo-acutis.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2026-01/new-app-from-vatican-governorate-dedicated-to-st-carlo-acutis.html</guid>
-    </item>    <item>
-      <title>Gaza: Caritas Italy offers full support to Caritas Jerusalem</title>
-      <link>https://www.vaticannews.va/en/vatican-city/news/2026-01/gaza-caritas-italy-jerusalem-support-humanitarian-agencies.html</link>
-      <description>
-        <![CDATA[<p>As Israel announces measures that could restrict Caritas Jerusalem’s ability to provide humanitarian aid, Caritas Italy’s deputy director expresses the Catholic aid agency’s support for the life-saving programs carried out by the Caritas network in Gaza and the West Bank.</p>
-                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2026-01/gaza-caritas-italy-jerusalem-support-humanitarian-agencies.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>As Israel announces measures that could restrict Caritas Jerusalem’s ability to provide humanitarian aid, Caritas Italy’s deputy director expresses the Catholic aid agency’s support for the life-saving programs carried out by the Caritas network in Gaza and the West Bank.
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-01/gaza-caritas-italy-jerusalem-support-humanitarian-agencies.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2026-01/gaza-caritas-italy-jerusalem-support-humanitarian-agencies.html</guid>
-    </item>    <item>
-      <title>‘Do not give up on children’: Displaced by violence, a Haitian girl finds hope at school</title>
-      <link>https://news.un.org/feed/view/en/story/2026/01/1166695</link>
-      <description>
-        <![CDATA[A teenage Haitian girl who was forced to flee her home in Haiti’s capital, Port-au-Prince, due to gang violence has urged adults not to “give up on children.”&nbsp;&nbsp;]]>
-      </description>
-      <source:markdown>A teenage Haitian girl who was forced to flee her home in Haiti’s capital, Port-au-Prince, due to gang violence has urged adults not to “give up on children.”</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-01-2026_UNICEF_Haiti.jpg/image560x340cropped.jpg" length="30543" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2026/01/1166695</guid>
-    </item>    <item>
-      <title>US actions in Venezuela ‘constitute a dangerous precedent’: Guterres</title>
-      <link>https://news.un.org/feed/view/en/story/2026/01/1166698</link>
-      <description>
-        <![CDATA[The UN Secretary-General António Guterres has said he is “deeply alarmed” over the standoff between the United States and Venezuela in recent months, which culminated on Saturday morning in the capture of President Nicolás Maduro by US special forces.]]>
-      </description>
-      <source:markdown>The UN Secretary-General António Guterres has said he is “deeply alarmed” over the standoff between the United States and Venezuela in recent months, which culminated on Saturday morning in the capture of President Nicolás Maduro by US special forces.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-12-2025_Wiki_Caracas.jpg/image560x340cropped.jpg" length="52795" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2026/01/1166698</guid>
-    </item>    <item>
-      <title>Managers under criminal investigation over fatal bar fire</title>
-      <link>https://www.rte.ie/news/2026/0103/1551323-switzerland-fire-crans-montana/</link>
-      <description>
-        <![CDATA[Swiss prosecutors have ⁠said they have placed under criminal investigation ‍the two managers of a bar where a blaze on New Year's Day killed at least 40 people.]]>
-      </description>
-      <source:markdown>Swiss prosecutors have ⁠said they have placed under criminal investigation ‍the two managers of a bar where a blaze on New Year&#39;s Day killed at least 40 people.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2026/0103/1551323-switzerland-fire-crans-montana/</guid>
-    </item>    <item>
-      <title>Bombs away for Trump, self-proclaimed peace president</title>
-      <link>https://www.rte.ie/news/2026/0103/1551321-donald-trump-wars/</link>
-      <description>
-        <![CDATA[Donald Trump returned to office vowing to be the peace president. Nearly a year later, he is embracing war on multiple fronts.]]>
-      </description>
-      <source:markdown>Donald Trump returned to office vowing to be the peace president. Nearly a year later, he is embracing war on multiple fronts.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2026/0103/1551321-donald-trump-wars/</guid>
-    </item>    <item>
-      <title>Bombs away for Trump, self-proclaimed peace president</title>
-      <link>https://www.rte.ie/news/us/2026/0103/1551321-donald-trump-wars/</link>
-      <description>
-        <![CDATA[Donald Trump returned to office vowing to be the peace president. Nearly a year later, he is embracing war on multiple fronts.]]>
-      </description>
-      <source:markdown>Donald Trump returned to office vowing to be the peace president. Nearly a year later, he is embracing war on multiple fronts.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/us/2026/0103/1551321-donald-trump-wars/</guid>
-    </item>    <item>
-      <title>As it happened: Maduro flown to NY to face charges</title>
-      <link>https://www.rte.ie/news/world/2026/0103/1551313-venezuela-live-blog/</link>
-      <description>
-        <![CDATA[Look back on developments after the US struck Venezuela and captured its long-serving President Nicolas Maduro.]]>
-      </description>
-      <source:markdown>Look back on developments after the US struck Venezuela and captured its long-serving President Nicolas Maduro.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2026/0103/1551313-venezuela-live-blog/</guid>
-    </item>    <item>
-      <title>Venezuela: Strong explosions in Caracas, President Maduro captured</title>
-      <link>https://www.vaticannews.va/en/world/news/2026-01/venezuela-strong-explosions-caracas-president-maduro-captured.html</link>
-      <description>
-        <![CDATA[<p>The capital of the Latin American country has been hit by a series of attacks that Venezuelan authorities have described as a “U.S. aggression.” US President Trump says President Nicolas Maduro has been captured together with his wife and flown out of the country.</p>
-                            <p><a href="https://www.vaticannews.va/en/world/news/2026-01/venezuela-strong-explosions-caracas-president-maduro-captured.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>The capital of the Latin American country has been hit by a series of attacks that Venezuelan authorities have described as a “U.S. aggression.” US President Trump says President Nicolas Maduro has been captured together with his wife and flown out of the country.
-
-[Read all](https://www.vaticannews.va/en/world/news/2026-01/venezuela-strong-explosions-caracas-president-maduro-captured.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/world/news/2026-01/venezuela-strong-explosions-caracas-president-maduro-captured.html</guid>
-    </item>    <item>
-      <title>Swiss Bishop: The Church is close to the families of the Crans-Montana victims</title>
-      <link>https://www.vaticannews.va/en/church/news/2026-01/swiss-bishop-the-church-is-at-the-side-of-the-victims-families.html</link>
-      <description>
-        <![CDATA[<p>Bishop Jean-Marie Lovey of Sion, Switzerland, discusses the fire that broke out on the night of January 1 and caused more than 40 deaths and hundreds of injuries, emphasizing, “The Church is called to share the pain and to make itself present: families must believe in the possibility of light.”</p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2026-01/swiss-bishop-the-church-is-at-the-side-of-the-victims-families.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Bishop Jean-Marie Lovey of Sion, Switzerland, discusses the fire that broke out on the night of January 1 and caused more than 40 deaths and hundreds of injuries, emphasizing, “The Church is called to share the pain and to make itself present: families must believe in the possibility of light.”
-
-[Read all](https://www.vaticannews.va/en/church/news/2026-01/swiss-bishop-the-church-is-at-the-side-of-the-victims-families.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2026-01/swiss-bishop-the-church-is-at-the-side-of-the-victims-families.html</guid>
-    </item>    <item>
-      <title>Riyadh urges dialogue between Yemeni factions</title>
-      <link>https://www.rte.ie/news/2026/0103/1551295-yemen/</link>
-      <description>
-        <![CDATA[Saudi Arabia has called for dialogue between factions in southern Yemen amid clashes in resource-rich Hadramawt province, where the UAE-backed Southern Transitional Council (STC) seized vast swathes of territory in recent weeks.]]>
-      </description>
-      <source:markdown>Saudi Arabia has called for dialogue between factions in southern Yemen amid clashes in resource-rich Hadramawt province, where the UAE-backed Southern Transitional Council (STC) seized vast swathes of territory in recent weeks.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2026/0103/1551295-yemen/</guid>
-    </item>    <item>
-      <title>Lord&#39;s Day Reflection: New Year, Same Star</title>
-      <link>https://www.vaticannews.va/en/church/news/2026-01/lords-day-reflection-new-year-same-star.html</link>
-      <description>
-        <![CDATA[<p>As the Church celebrates the Second Sunday of Christmas, Jenny Kraska offers her thoughts on the day's Gospel reading.</p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2026-01/lords-day-reflection-new-year-same-star.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>As the Church celebrates the Second Sunday of Christmas, Jenny Kraska offers her thoughts on the day&#39;s Gospel reading.
-
-[Read all](https://www.vaticannews.va/en/church/news/2026-01/lords-day-reflection-new-year-same-star.html)</source:markdown>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2026-01/lords-day-reflection-new-year-same-star.html</guid>
-    </item>    <item>
-      <title>Our Vantage Point in the Universe</title>
-      <link>https://www.vaticanobservatory.org/sacred-space-astronomy/our-vantage-point-in-the-universe/</link>
-      <description>
-        <![CDATA[Anyone living in our Universe, at any location, would see almost exactly the same thing as we see from our vantage point ... of Earth.]]>
-      </description>
-      <source:markdown>Anyone living in our Universe, at any location, would see almost exactly the same thing as we see from our vantage point ... of Earth.</source:markdown>
-      <guid>cid://https://www.vaticanobservatory.org/?p=220824</guid>
-    </item>    <item>
-      <title>Taoiseach to visit China as Beijing shores up EU ties</title>
-      <link>https://www.rte.ie/news/asia/2026/0103/1551289-china-ireland/</link>
-      <description>
-        <![CDATA[Taoiseach Micheál Martin will visit China from ⁠tomorrow, the first such trip by a Taoiseach ‍since 2012 as Beijing shores up ties with individual members of the European Union bloc]]>
-      </description>
-      <source:markdown>Taoiseach Micheál Martin will visit China from ⁠tomorrow, the first such trip by a Taoiseach ‍since 2012 as Beijing shores up ties with individual members of the European Union bloc</source:markdown>
-      <guid>cid://https://www.rte.ie/news/asia/2026/0103/1551289-china-ireland/</guid>
-    </item>    <item>
-      <title>US captures Venezuelan strongman Maduro after strikes</title>
-      <link>https://www.rte.ie/news/world/2026/0103/1551288-venezuela/</link>
-      <description>
-        <![CDATA[The US attacked Venezuela and deposed its long-serving autocratic President Nicolas Maduro, President Donald Trump said, in Washington's most direct intervention in Latin America since the 1989 invasion of Panama.]]>
-      </description>
-      <source:markdown>The US attacked Venezuela and deposed its long-serving autocratic President Nicolas Maduro, President Donald Trump said, in Washington&#39;s most direct intervention in Latin America since the 1989 invasion of Panama.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2026/0103/1551288-venezuela/</guid>
-    </item>    <item>
-      <title>US captures Maduro, Trump says US will run Venezuela</title>
-      <link>https://www.rte.ie/news/world/2026/0103/1551288-venezuela-trump/</link>
-      <description>
-        <![CDATA[The United States attacked Venezuela and captured its long-serving President Nicolas Maduro in an overnight operation today, ⁠US President Donald Trump said, promising to put the country under American control for now, including by deploying US forces if necessary.]]>
-      </description>
-      <source:markdown>The United States attacked Venezuela and captured its long-serving President Nicolas Maduro in an overnight operation today, ⁠US President Donald Trump said, promising to put the country under American control for now, including by deploying US forces if necessary.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/world/2026/0103/1551288-venezuela-trump/</guid>
-    </item>    <item>
-      <title>Renewed appeal for woman missing for 32 years</title>
-      <link>https://www.rte.ie/news/2026/0103/1551287-imelda-keenan-missing/</link>
-      <description>
-        <![CDATA[A renewed appeal for information has been issued in relation to a woman who has been missing for 32 years.]]>
-      </description>
-      <source:markdown>A renewed appeal for information has been issued in relation to a woman who has been missing for 32 years.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/2026/0103/1551287-imelda-keenan-missing/</guid>
-    </item>    <item>
-      <title>&#39;Irish is becoming so trendy&#39; - Gaeilge movement growing</title>
-      <link>https://www.rte.ie/news/ireland/2026/0103/1551262-gaeilge-revival/</link>
-      <description>
-        <![CDATA[A grassroots Gaeilge movement is growing around Ireland and a revival of sorts is happening in our towns and villages.]]>
-      </description>
-      <source:markdown>A grassroots Gaeilge movement is growing around Ireland and a revival of sorts is happening in our towns and villages.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2026/0103/1551262-gaeilge-revival/</guid>
-    </item>    <item>
-      <title>Rows, talks and a presidency - an eventful political year</title>
-      <link>https://www.rte.ie/news/politics/2026/0103/1551184-politics-in-review/</link>
-      <description>
-        <![CDATA[Politics in 2025 began with the machinations of government formation and ended with a messy internal wrangle in Fianna Fáil.]]>
-      </description>
-      <source:markdown>Politics in 2025 began with the machinations of government formation and ended with a messy internal wrangle in Fianna Fáil.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/politics/2026/0103/1551184-politics-in-review/</guid>
-    </item>    <item>
-      <title>Ukraine&#39;s allies in Kyiv for talks on plan to end war</title>
-      <link>https://www.rte.ie/news/ukraine/2026/0103/1551285-ukraine-russia/</link>
-      <description>
-        <![CDATA[Security advisers from Ukraine's top allies met in Kyiv today for talks on a US-brokered plan to end the war with Russia, days after Kyiv announced a deal was "90%" ready.]]>
-      </description>
-      <source:markdown>Security advisers from Ukraine&#39;s top allies met in Kyiv today for talks on a US-brokered plan to end the war with Russia, days after Kyiv announced a deal was &#34;90%&#34; ready.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ukraine/2026/0103/1551285-ukraine-russia/</guid>
-    </item>    <item>
-      <title>Snow and ice alerts in place as temperatures drop</title>
-      <link>https://www.rte.ie/news/ireland/2026/0103/1551284-weather-warning/</link>
-      <description>
-        <![CDATA[A Status Yellow low temperature and ice warning has been issued for counties Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Meath, Offaly, Westmeath, Wexford and Wicklow in conjunction with Munster.]]>
-      </description>
-      <source:markdown>A Status Yellow low temperature and ice warning has been issued for counties Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Meath, Offaly, Westmeath, Wexford and Wicklow in conjunction with Munster.</source:markdown>
-      <guid>cid://https://www.rte.ie/news/ireland/2026/0103/1551284-weather-warning/</guid>
     </item>
   </channel>
 </rss>
