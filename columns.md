@@ -364,4 +364,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Public Notice blog](https://www.publicnotice.co/feed/)
 - [Shannon Laio blog](https://shannonliao.substack.com/feed/)
 - [Dead Simple Tech blog](https://deadsimpletech.com/rss)
+- [Phillip Ball](https://philipball86.substack.com/feed/)
+
 
