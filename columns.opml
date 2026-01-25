@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>25 Jan 26 08:11 -0800</dateCreated>
+        <dateCreated>25 Jan 26 10:08 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -61,6 +61,7 @@
         <outline text="Cornell Controlled Environment Agriculture" type="rss" xmlUrl="https://cea.cals.cornell.edu/feed/" htmlUrl="https://cea.cals.cornell.edu,https://cea.cals.cornell.edu/feed/" url="https://cea.cals.cornell.edu/feed/"></outline>
         <outline text="Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net,https://pluralistic.net/feed/" description="No trackers, no ads. Black type, white background. Privacy policy: we don&#39;t collect or retain any data at all ever period." url="https://pluralistic.net/feed/"></outline>
         <outline text="Creations Blog by Kyle Gabriel" type="rss" xmlUrl="https://kylegabriel.com/projects/feed" htmlUrl="https://kylegabriel.com/projects,https://kylegabriel.com/projects/feed" url="https://kylegabriel.com/projects/feed"></outline>
+        <outline text="Crometh  Inc" type="atom" xmlUrl="https://crimethinc.com/feed" htmlUrl="https://crimethinc.com,https://crimethinc.com/feed,./," description="CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge" url="https://crimethinc.com/feed"></outline>
         <outline text="Curious about everything blog" type="rss" xmlUrl="https://jodiettenberg.substack.com/feed" htmlUrl="https://jodiettenberg.substack.com,https://jodiettenberg.substack.com/feed" description="A monthly roundup of the most interesting writing from around the web" url="https://jodiettenberg.substack.com/feed"></outline>
         <outline text="CutiePi Blog" type="rss" xmlUrl="https://medium.com/feed/cutiepi" htmlUrl="https://medium.com/cutiepi?source=rss----ca892aa3ed33---4,https://medium.com/feed/cutiepi" description="News and updates about cutiepi.io - Medium" url="https://medium.com/feed/cutiepi"></outline>
         <outline text="Cynthia Kiser&#39;s blog" type="atom" xmlUrl="http://cynthiakiser.com/feed.xml" htmlUrl="/feed.xml,/" description="Coding &amp; sysadmin snippets" url="/feed.xml"></outline>

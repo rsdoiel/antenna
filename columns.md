@@ -365,5 +365,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Shannon Laio blog](https://shannonliao.substack.com/feed/)
 - [Dead Simple Tech blog](https://deadsimpletech.com/rss)
 - [Phillip Ball](https://philipball86.substack.com/feed/)
+- [Crometh  Inc](https://crimethinc.com/feed)
 
 

@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>25 Jan 26 08:11 -0800</lastBuildDate>
+    <lastBuildDate>25 Jan 26 10:08 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,142 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115957027646201133</link>
+      <description>
+        <![CDATA[<p>Ok, time to spend quality time with the family:</p>]]>
+      </description>
+      <source:markdown>Ok, time to spend quality time with the family:</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115957027646201133</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3mdbbk4lfpk2b</link>
+      <description>
+        <![CDATA[The killing of Alex Pretti is a heartbreaking tragedy. It should also be a wake-up call to every American, regardless of party, that many of our core values as a nation are increasingly under assault.]]>
+      </description>
+      <source:markdown>The killing of Alex Pretti is a heartbreaking tragedy. It should also be a wake-up call to every American, regardless of party, that many of our core values as a nation are increasingly under assault.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3mdbbk4lfpk2b</guid>
+    </item>    <item>
+      <title>Should comparative economics still exist?</title>
+      <link>https://branko2f7.substack.com/p/should-comparative-economics-still</link>
+      <description>
+        <![CDATA[How to teach economics of income distribution]]>
+      </description>
+      <source:markdown>How to teach economics of income distribution</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/4c32becc-15be-496a-8c28-c4873455e765_496x310.png" length="0" type="image/jpeg" />
+      <guid>cid://https://branko2f7.substack.com/p/should-comparative-economics-still</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mdb7rl46fc2b</link>
+      <description>
+        <![CDATA[Something to known
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>Something to known
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mdb7rl46fc2b</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/01/25.html#a165057</link>
+      <description>
+        <![CDATA[Michelle Obama was <a href="https://www.politico.com/news/2024/08/21/michelle-obama-dnc-speech-chicago-2024-00175324">wrong</a> when she said "when they go low we go high." There is a difference. We always try to tell the truth. And sometimes the truth is pretty damn low.]]>
+      </description>
+      <source:markdown>Michelle Obama was [wrong](https://www.politico.com/news/2024/08/21/michelle-obama-dnc-speech-chicago-2024-00175324) when she said &#34;when they go low we go high.&#34; There is a difference. We always try to tell the truth. And sometimes the truth is pretty damn low.</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/25.html#a165057</guid>
+    </item>    <item>
+      <title>Emoji form field creation and validation in Filament and Laravel</title>
+      <link>https://tech.chrishardie.com/2026/emoji-form-field-filament-laravel/</link>
+      <description>
+        <![CDATA[<p>If you need a form field for picking an emoji to save as a resource/model attribute in Filament and Laravel, here&#8217;s how I did it: First, install a few packages: Set up your form field: And then profit! That&#8217;s pretty much it. Things I tried that didn&#8217;t work: Thank you to Javan Eskander for php-emoji-detector &#8230; <a href="https://tech.chrishardie.com/2026/emoji-form-field-filament-laravel/" class="more-link">Continue reading <span class="screen-reader-text">Emoji form field creation and validation in Filament and Laravel</span></a></p>
+        <p>The post <a href="https://tech.chrishardie.com/2026/emoji-form-field-filament-laravel/">Emoji form field creation and validation in Filament and Laravel</a> appeared first on <a href="https://tech.chrishardie.com">Chris Hardie&#039;s Tech and Software Blog</a>.</p>]]>
+      </description>
+      <source:markdown>If you need a form field for picking an emoji to save as a resource/model attribute in Filament and Laravel, here’s how I did it: First, install a few packages: Set up your form field: And then profit! That’s pretty much it. Things I tried that didn’t work: Thank you to Javan Eskander for php-emoji-detector … [Continue reading Emoji form field creation and validation in Filament and Laravel](https://tech.chrishardie.com/2026/emoji-form-field-filament-laravel/)
+
+The post [Emoji form field creation and validation in Filament and Laravel](https://tech.chrishardie.com/2026/emoji-form-field-filament-laravel/) appeared first on [Chris Hardie&#39;s Tech and Software Blog](https://tech.chrishardie.com).</source:markdown>
+      <guid>cid://https://tech.chrishardie.com/?p=596</guid>
+    </item>    <item>
+      <title>BigCo companies and countries</title>
+      <link>http://scripting.com/2026/01/25/163331.html?title=bigcoCompaniesAndCountries</link>
+      <description>
+        <![CDATA[<p>Random ramblings with past experience dealing with tech power.</p>
+        <p>As I think about next steps for building out from WordPress to create a network of users and their writing, I wanted to review how <a href="http://xmlrpc.com/">XML-RPC</a> came to be, when I did a <a href="https://shownotes.scripting.com/scripting/2026/01/17/howXmlrpcStartedUp.html">podcast</a>, I found real gaps in my memory. </p>
+        <p>Then just a minute ago as I was browsing around the <a href="https://discuss.userland.com/">discuss.userland.com</a> archive I came across this post entitled
+        <a href="https://discuss.userland.com/msg000280.html">How XML-RPC will Evolve</a>. This was in November 1998, five months after <a href="http://scripting.com/davenet/1998/07/14/xmlRpcForNewbies.html">XML-RPC for Newbies</a> and the Frontier implementation were released. </p>
+        <p>It was a few years before the W3C came out with their equivalent of XML-RPC, and as promised, Frontier supported it. </p>
+        <p>In fact, what a coincidence -- I worked on that <a href="http://soap.weblogs.com/">project</a> with Jake Savin, and we're once again working together on a project that's related to what we were doing then. It's also interesting that there are people to play the role that the three Microsoft people played, inside the WordPress community. And there is no one that can make them wait, as the Microsoft team in 1998 was stopped by their huge organization. But they were lucky to have me, someone completely outside their management structure, to decide to go ahead and release it.</p>
+        <p>One thing you can be sure of is it'll take  more time for them than it did for you. Also it'll be more complex, and take  more work to support. And you never will be able to fully support what they come up with, by design. So you just say Yeah! Let's do it, and in the meantime go ahead and develop the market. When people ask about the threat, we're on board. I had learned this from the experience with Apple and AppleScript. Take it in stride, don't assume they win just because they're large. Just take the bullet. And know that even if you do everything as best as you can, there is a cloud over your future. </p>
+        <p>Matt once said to me it was political, referring to RSS. Yes it was, everything about cooperation is political. Even if everything goes smoothly as it did with XML-RPC, it's all still political. Yes, I really liked working with the Microsoft people, and I would have worked with them no matter where they came from. But it really helped with my confidence to know it came from inside the biggest most dominant tech company at the time. Just like going to Harvard was political. Same thing, I would have done all the same work if I were at a smaller school without such a strong rep, but we were able to get more done because we were based there. </p>
+        <p>And btw, <a href="https://www.youtube.com/watch?v=btqHDhO4h10">Carney's story</a> at Davos about dealing with the <a href="https://en.wikipedia.org/wiki/United_States">BigCo country</a> follows exactly the same pattern. We didn't give Apple or the W3C awards, but net-net they were about as impetuous as the country Carney was talking about. What he said there could have been a Davenet post from the 1990s.</p>
+        <p>PS: I think perhaps just for fun we should create an XML-RPC implementation of the wpcom API. I have just <a href="https://github.com/scripting/wpIdentity/blob/main/client/api2.js">the thing</a> to base it on. </p>
+        <p>PPS: At some point we're going to want to make it as easy to set up a WordPress site as it is to create a new Bluesky account, because the two things will be basically the same thing. Either one will get you access to a network of bloggers. </p>]]>
+      </description>
+      <source:markdown>Random ramblings with past experience dealing with tech power.
+
+As I think about next steps for building out from WordPress to create a network of users and their writing, I wanted to review how [XML-RPC](http://xmlrpc.com/) came to be, when I did a [podcast](https://shownotes.scripting.com/scripting/2026/01/17/howXmlrpcStartedUp.html), I found real gaps in my memory.
+
+Then just a minute ago as I was browsing around the [discuss.userland.com](https://discuss.userland.com/) archive I came across this post entitled [How XML-RPC will Evolve](https://discuss.userland.com/msg000280.html). This was in November 1998, five months after [XML-RPC for Newbies](http://scripting.com/davenet/1998/07/14/xmlRpcForNewbies.html) and the Frontier implementation were released.
+
+It was a few years before the W3C came out with their equivalent of XML-RPC, and as promised, Frontier supported it.
+
+In fact, what a coincidence -- I worked on that [project](http://soap.weblogs.com/) with Jake Savin, and we&#39;re once again working together on a project that&#39;s related to what we were doing then. It&#39;s also interesting that there are people to play the role that the three Microsoft people played, inside the WordPress community. And there is no one that can make them wait, as the Microsoft team in 1998 was stopped by their huge organization. But they were lucky to have me, someone completely outside their management structure, to decide to go ahead and release it.
+
+One thing you can be sure of is it&#39;ll take more time for them than it did for you. Also it&#39;ll be more complex, and take more work to support. And you never will be able to fully support what they come up with, by design. So you just say Yeah! Let&#39;s do it, and in the meantime go ahead and develop the market. When people ask about the threat, we&#39;re on board. I had learned this from the experience with Apple and AppleScript. Take it in stride, don&#39;t assume they win just because they&#39;re large. Just take the bullet. And know that even if you do everything as best as you can, there is a cloud over your future.
+
+Matt once said to me it was political, referring to RSS. Yes it was, everything about cooperation is political. Even if everything goes smoothly as it did with XML-RPC, it&#39;s all still political. Yes, I really liked working with the Microsoft people, and I would have worked with them no matter where they came from. But it really helped with my confidence to know it came from inside the biggest most dominant tech company at the time. Just like going to Harvard was political. Same thing, I would have done all the same work if I were at a smaller school without such a strong rep, but we were able to get more done because we were based there.
+
+And btw, [Carney&#39;s story](https://www.youtube.com/watch?v=btqHDhO4h10) at Davos about dealing with the [BigCo country](https://en.wikipedia.org/wiki/United_States) follows exactly the same pattern. We didn&#39;t give Apple or the W3C awards, but net-net they were about as impetuous as the country Carney was talking about. What he said there could have been a Davenet post from the 1990s.
+
+PS: I think perhaps just for fun we should create an XML-RPC implementation of the wpcom API. I have just [the thing](https://github.com/scripting/wpIdentity/blob/main/client/api2.js) to base it on.
+
+PPS: At some point we&#39;re going to want to make it as easy to set up a WordPress site as it is to create a new Bluesky account, because the two things will be basically the same thing. Either one will get you access to a network of bloggers.</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/25/163331.html</guid>
+    </item>    <item>
+      <title>Best Picture nominees</title>
+      <link>http://scripting.com/2026/01/25/163204.html?title=bestPictureNominees</link>
+      <description>
+        <![CDATA[<p>Nominated for best picture of 2025, ranked by Metacritic rating.</p>
+        <ul>
+        <li><a href="https://www.metacritic.com/movie/one-battle-after-another/">One Battle After Another</a>. 95 </li>
+        <li><a href="https://www.metacritic.com/movie/the-secret-agent-2025/">The Secret Agent</a>. 91</li>
+        <li><a href="https://www.metacritic.com/movie/marty-supreme/">Marty Supreme</a>. 89</li>
+        <li><a href="https://www.metacritic.com/movie/train-dreams/">Train Dreams</a>. 88</li>
+        <li><a href="https://www.metacritic.com/movie/sentimental-value/">Sentimental Value</a>. 86 </li>
+        <li><a href="https://www.metacritic.com/movie/hamnet/">Hamnet</a>. 84</li>
+        <li><a href="https://www.metacritic.com/movie/sinners/">Sinners</a>. 84</li>
+        <li><a href="https://www.metacritic.com/movie/frankenstein-2025/">Frankenstein</a>. 78</li>
+        <li><a href="https://www.metacritic.com/movie/bugonia/">Bugonia</a>. 72</li>
+        <li><a href="https://www.metacritic.com/movie/f1-the-movie/">F1: The Movie</a>. 68</li>
+        </ul>]]>
+      </description>
+      <source:markdown>Nominated for best picture of 2025, ranked by Metacritic rating.
+
+*   [One Battle After Another](https://www.metacritic.com/movie/one-battle-after-another/). 95
+*   [The Secret Agent](https://www.metacritic.com/movie/the-secret-agent-2025/). 91
+*   [Marty Supreme](https://www.metacritic.com/movie/marty-supreme/). 89
+*   [Train Dreams](https://www.metacritic.com/movie/train-dreams/). 88
+*   [Sentimental Value](https://www.metacritic.com/movie/sentimental-value/). 86
+*   [Hamnet](https://www.metacritic.com/movie/hamnet/). 84
+*   [Sinners](https://www.metacritic.com/movie/sinners/). 84
+*   [Frankenstein](https://www.metacritic.com/movie/frankenstein-2025/). 78
+*   [Bugonia](https://www.metacritic.com/movie/bugonia/). 72
+*   [F1: The Movie](https://www.metacritic.com/movie/f1-the-movie/). 68</source:markdown>
+      <guid>cid://http://scripting.com/2026/01/25/163204.html</guid>
+    </item>    <item>
+      <title>Chandler Dean On Persuasive Humor</title>
+      <link>https://buttondown.com/humorouswriting/archive/chandler-dean-on-persuasive-humor/</link>
+      <description>
+        <![CDATA[<h3 data-pm-slice="1 1 []"><strong><em>Welcome to the Subscription Edition of A Newsletter of Humorous Writing. Our paid subscribers keep the weekly newsletter running, and we’re deeply grateful for your support. (And if you’re not already subscribed,</em></strong> <a href="https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=chandler-dean-on-persuasive-humor" rel="noopener noreferrer nofollow" target="_blank"><strong><em>you can sign up here</em></strong></a><strong><em>.)</em></strong></h3>
+        <p><em>This week we’re turning off the paywall and turning things over to Friend of the Newsletter </em><a href="https://www.chndlr.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=chandler-dean-on-persuasive-humor" rel="noopener noreferrer nofollow" target="_blank"><em>Chandler Dean.</em></a><em> Chandler is the writer, comedian, and speechwriter behind the comedy debate show </em><a href="https://nebula.tv/abolish?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=chandler-dean-on-persuasive-humor" rel="noopener noreferrer nofollow" target="_blank"><em>Abolish Everything!</em></a><em>, which has a new season out on January 29th on Nebula. He’s written short humor for all the cool places, performed at UCB, and leads the humor practice at West Wing Writers. And he’s guest-writing this edition to talk about persuasive humor and how it works.</em></p>
+        <p><em>After that, we’ve got a couple of recommendations of things we’ve been into lately: A daily trivia game and an archive at the intersection of punk and technology.</em></p>
+        <hr/>]]>
+      </description>
+      <source:markdown>### **_Welcome to the Subscription Edition of A Newsletter of Humorous Writing. Our paid subscribers keep the weekly newsletter running, and we’re deeply grateful for your support. (And if you’re not already subscribed,_** [**_you can sign up here_**](https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=chandler-dean-on-persuasive-humor) **_.)_**
+
+_This week we’re turning off the paywall and turning things over to Friend of the Newsletter_ [_Chandler Dean._](https://www.chndlr.com/?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=chandler-dean-on-persuasive-humor) _Chandler is the writer, comedian, and speechwriter behind the comedy debate show_ [_Abolish Everything!_](https://nebula.tv/abolish?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=chandler-dean-on-persuasive-humor) _, which has a new season out on January 29th on Nebula. He’s written short humor for all the cool places, performed at UCB, and leads the humor practice at West Wing Writers. And he’s guest-writing this edition to talk about persuasive humor and how it works._
+
+_After that, we’ve got a couple of recommendations of things we’ve been into lately: A daily trivia game and an archive at the intersection of punk and technology._
+
+* * *</source:markdown>
+      <guid>cid://https://buttondown.com/humorouswriting/archive/chandler-dean-on-persuasive-humor/</guid>
     </item>    <item>
       <title>The Joy of Neo-noir</title>
       <link>https://om.co/2026/01/25/neo-noir/</link>
@@ -191,6 +327,14 @@ Emmabuntüs is just another Linux distro, but it&#39;s one guided by ethics more
       <source:markdown>&#34;It burns your eyes, it burns your mouth. For some people, it causes nausea and burning on the skin. Another local reporter told me his neck was burning and he had to use a decon wipe.&#34;
 https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing</source:markdown>
       <guid>cid://at://did:plc:42n7zwgawer2whfwg3igqwrd/app.bsky.feed.post/3md7xkeazok2f</guid>
+    </item>    <item>
+      <title>Minneapolis Responds to the Murder of Alex Pretti : An Eyewitness Account</title>
+      <link>https://crimethinc.com/2026/01/25/minneapolis-responds-to-the-murder-of-alex-pretti-an-eyewitness-account</link>
+      <description>
+        <![CDATA[On Saturday, January 24, an ICE agent murdered Alex Pretti in Minneapolis. In response, people drove ICE and Minneapolis police out of the neighborhood.]]>
+      </description>
+      <source:markdown>On Saturday, January 24, an ICE agent murdered Alex Pretti in Minneapolis. In response, people drove ICE and Minneapolis police out of the neighborhood.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/25/minneapolis-responds-to-the-murder-of-alex-pretti-an-eyewitness-account</guid>
     </item>    <item>
       <title>Weekly Bookmarks</title>
       <link>https://inkdroid.org/2026/01/25/bookmarks/</link>
@@ -1082,6 +1226,14 @@ Give me a sign....</source:markdown>
       </description>
       <source:markdown>Win of the week: in 2022, I wrote 75k of an indirect sequel to the novel I’m quitting — I reread the draft for the first time since and it’s pretty good! Not sure whether I’ll do something with it but I think it’s an option — it doesn’t actually rely on the other story being \[…\]</source:markdown>
       <guid>cid://https://tracydurnell.com/?p=33864</guid>
+    </item>    <item>
+      <title>Protesters Blockade ICE Headquarters in Fort Snelling, Minnesota : Report from an Action during the General Strike in the Twin Cities</title>
+      <link>https://crimethinc.com/2026/01/24/protesters-blockade-ice-headquarters-in-fort-snelling-minnesota-report-from-an-action-during-the-general-strike-in-the-twin-cities</link>
+      <description>
+        <![CDATA[A report from an action during the general strike of January 23 in the Twin Cities.]]>
+      </description>
+      <source:markdown>A report from an action during the general strike of January 23 in the Twin Cities.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/24/protesters-blockade-ice-headquarters-in-fort-snelling-minnesota-report-from-an-action-during-the-general-strike-in-the-twin-cities</guid>
     </item>    <item>
       <title>★ Tahoe Added a Finder Option to Resize Columns to Fit Filenames</title>
       <link>https://daringfireball.net/2026/01/resize_columns_to_fit_filenames</link>
@@ -4034,6 +4186,14 @@ Tags: [ai](https://simonwillison.net/tags/ai), [generative-ai](https://simonwill
       <source:markdown>In December, I confessed to a friend that working on my novel the past year has been misery. I seem trapped in a doldrums of work that feels designed for my particular weaknesses: choosing between equally good options, and trusting my decisions. I’ve lost the magic of the story, and the play in the work. \[…\]</source:markdown>
       <guid>cid://https://tracydurnell.com/?p=33982</guid>
     </item>    <item>
+      <title>From Rapid Response to Revolutionary Social Change : The Potential of the Rapid Response Networks</title>
+      <link>https://crimethinc.com/2026/01/21/from-rapid-response-to-revolutionary-social-change-the-potential-of-the-rapid-response-networks</link>
+      <description>
+        <![CDATA[Participants in the rapid response networks in the Twin Cities describe their experiences and reflect on how these neworks could contribute to revolutionary social change.]]>
+      </description>
+      <source:markdown>Participants in the rapid response networks in the Twin Cities describe their experiences and reflect on how these neworks could contribute to revolutionary social change.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/21/from-rapid-response-to-revolutionary-social-change-the-potential-of-the-rapid-response-networks</guid>
+    </item>    <item>
       <title>Wednesday session</title>
       <link>https://adactio.com/notes/22368</link>
       <description>
@@ -4667,6 +4827,14 @@ What&#39;s old is new, as this blog was _originally_ built with [Thingamablog](h
 The main reason I moved from an SSG to Drupal was to add _comments_. I wanted my blog to have the same level of interactivity I had pre-Thingamablog, when I was (briefly) on Xanga.com.</source:markdown>
       <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
       <guid>cid://https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/</guid>
+    </item>    <item>
+      <title>Being “Peaceful” and “Law-Abiding” Will Not Stop Authoritarianism : A Message from Germany</title>
+      <link>https://crimethinc.com/2026/01/21/being-peaceful-and-law-abiding-will-not-stop-authoritarianism-a-message-from-germany</link>
+      <description>
+        <![CDATA[Anarchists from Germany explore how events in German history should inform those who are resisting the consolidation of authoritarian power in the US today.]]>
+      </description>
+      <source:markdown>Anarchists from Germany explore how events in German history should inform those who are resisting the consolidation of authoritarian power in the US today.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/21/being-peaceful-and-law-abiding-will-not-stop-authoritarianism-a-message-from-germany</guid>
     </item>    <item>
       <title>Now the Future Can Start</title>
       <link>https://doc.searls.com/2026/01/20/now-the-future-can-start/</link>
@@ -8386,6 +8554,14 @@ Tags: [prompt-engineering](https://simonwillison.net/tags/prompt-engineering), [
       <source:markdown>“There were other loves in Alexander’s life, but none who meant so much to him as Hephaestion.” On Alexander the Great and Hellenistic homophobia. \| Lit Hub History “‘Can you be a good writer and a good person?’ he muses</source:markdown>
       <guid>cid://https://lithub.com/?p=265658</guid>
     </item>    <item>
+      <title>Demonstrators Mark the Oakland Federal Building as a Site of ICE Operations</title>
+      <link>https://crimethinc.com/2026/01/17/demonstrators-mark-the-oakland-federal-building-as-a-site-of-ice-operations</link>
+      <description>
+        <![CDATA[A report from a march that smashed 47 windows at the federal building in Oakland and covered it with spray paint in order to identify it as a base of ICE operations.]]>
+      </description>
+      <source:markdown>A report from a march that smashed 47 windows at the federal building in Oakland and covered it with spray paint in order to identify it as a base of ICE operations.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/17/demonstrators-mark-the-oakland-federal-building-as-a-site-of-ice-operations</guid>
+    </item>    <item>
       <title>don’t waste your back pressure</title>
       <link>https://ghuntley.com/pressure/</link>
       <description>
@@ -9162,6 +9338,14 @@ Thursday session</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!FsUN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ff7ab2-bf85-48d7-a744-d8baf1eedf7d_793x411.webp" length="0" type="image/jpeg" />
       <guid>cid://https://davekarpf.substack.com/p/what-comes-next-if-claude-code-is</guid>
     </item>    <item>
+      <title>Rapid Response Networks in the Twin Cities : A Guide to an Updated Model</title>
+      <link>https://crimethinc.com/2026/01/15/rapid-response-networks-in-the-twin-cities-a-guide-to-an-updated-model</link>
+      <description>
+        <![CDATA[The rapid response networks people organize to defend their communities have undergone a whirlwind evolution to keep up with ever-shifting ICE tactics.]]>
+      </description>
+      <source:markdown>The rapid response networks people organize to defend their communities have undergone a whirlwind evolution to keep up with ever-shifting ICE tactics.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/15/rapid-response-networks-in-the-twin-cities-a-guide-to-an-updated-model</guid>
+    </item>    <item>
       <title>Eugene Lim has won the 2025 John Dos Passos Prize.</title>
       <link>https://lithub.com/eugene-lim-has-won-the-2025-john-dos-passos-prize/</link>
       <description>
@@ -9843,6 +10027,14 @@ workaround: fixed issue with pack/unpack real values</source:markdown>
       </description>
       <source:markdown>Alright, let’s have a chat. Sit. You have to be strong, because you’re all grown up now, right? Yes, yes you are. I’m going to leave and you two are going to stay, but it won’t be forever. Nothing is</source:markdown>
       <guid>cid://https://lithub.com/?p=264876</guid>
+    </item>    <item>
+      <title>North Minneapolis Chases Out ICE : A Firsthand Account of the Response to Another ICE Shooting</title>
+      <link>https://crimethinc.com/2026/01/15/north-minneapolis-chases-out-ice-a-firsthand-account-of-the-response-to-another-ice-shooting</link>
+      <description>
+        <![CDATA[After ICE carried out yet another shooting in Minneapolis, a crowd chased them away and gained control of their vehicles. A firsthand account.]]>
+      </description>
+      <source:markdown>After ICE carried out yet another shooting in Minneapolis, a crowd chased them away and gained control of their vehicles. A firsthand account.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/15/north-minneapolis-chases-out-ice-a-firsthand-account-of-the-response-to-another-ice-shooting</guid>
     </item>    <item>
       <title>How To Mobilize America Against Fascism</title>
       <link>https://robertreich.substack.com/p/mobilizing-america</link>
@@ -15321,6 +15513,14 @@ even the biosphere.</source:markdown>
       <source:markdown>Renee Nicole Good shooting: ICE agent identified.</source:markdown>
       <guid>cid://https://links.daveverse.org/2026/01/08/2426/</guid>
     </item>    <item>
+      <title>Minneapolis Responds to ICE Committing Murder : An Account from the Streets</title>
+      <link>https://crimethinc.com/2026/01/08/minneapolis-responds-to-ice-committing-murder-an-account-from-the-streets</link>
+      <description>
+        <![CDATA[On January 7, 2026, an ICE agent murdered Renee Good. This is an account from a participant in the protests that broke out on scene of the murder.]]>
+      </description>
+      <source:markdown>On January 7, 2026, an ICE agent murdered Renee Good. This is an account from a participant in the protests that broke out on scene of the murder.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/08/minneapolis-responds-to-ice-committing-murder-an-account-from-the-streets</guid>
+    </item>    <item>
       <title>★ Let’s Call a Murder a Murder</title>
       <link>https://daringfireball.net/2026/01/lets_call_a_murder_a_murder</link>
       <description>
@@ -17924,6 +18124,14 @@ The post [Hundreds of products now powered by Raspberry Pi](https://www.raspberr
       <source:markdown>The Moment We Lost The Plot.</source:markdown>
       <guid>cid://https://links.daveverse.org/2026/01/07/2396/</guid>
     </item>    <item>
+      <title>Iran: An Uprising Besieged from Within and Without : Three Perspectives</title>
+      <link>https://crimethinc.com/2026/01/07/iran-an-uprising-besieged-from-within-and-without-three-perspectives</link>
+      <description>
+        <![CDATA[Three perspectives on the uprising that began in Iran on December 29, 2025, and the forces that threaten it from within and without.]]>
+      </description>
+      <source:markdown>Three perspectives on the uprising that began in Iran on December 29, 2025, and the forces that threaten it from within and without.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/07/iran-an-uprising-besieged-from-within-and-without-three-perspectives</guid>
+    </item>    <item>
       <title>Remembrance of the 5th anniversary of the January 6th Insurrection</title>
       <link>https://andysylvester.com/2026/01/06/remembrance-of-the-5th-anniversary-of-the-january-6th-insurrection/</link>
       <description>
@@ -18574,6 +18782,14 @@ I may have found my people.</source:markdown>
       </description>
       <source:markdown>Think about all the things that give you global scale online: Now think about what traps you: And now think about how much business the latter system prevents rather than enables. Such as having your own VRM tools for working with all the world’s CRM systems. Among other graces, VRM+CRM would give both customers and \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/?p=20135</guid>
+    </item>    <item>
+      <title>“A World Governed by Force” : The Attack on Venezuela and the Conflicts to Come</title>
+      <link>https://crimethinc.com/2026/01/06/a-world-governed-by-force-the-attack-on-venezuela-and-the-conflicts-to-come</link>
+      <description>
+        <![CDATA[The attack on Venezuela and the conflicts to come: how to understand the imperialist objectives of the Trump administration and identify ways to resist.]]>
+      </description>
+      <source:markdown>The attack on Venezuela and the conflicts to come: how to understand the imperialist objectives of the Trump administration and identify ways to resist.</source:markdown>
+      <guid>cid://https://crimethinc.com/2026/01/06/a-world-governed-by-force-the-attack-on-venezuela-and-the-conflicts-to-come</guid>
     </item>    <item>
       <title>R the Software Engineering Way: Chapter 2</title>
       <link>https://deadsimpletech.com/blog/r_the_software_way_2</link>
