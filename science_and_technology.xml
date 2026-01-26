@@ -4,10 +4,253 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Jan 26 10:08 -0800</lastBuildDate>
+    <lastBuildDate>26 Jan 26 08:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA Reveals New Details About Dark Matter’s Influence on Universe</title>
+      <link>https://www.nasa.gov/missions/webb/nasa-reveals-new-details-about-dark-matters-influence-on-universe/</link>
+      <description>
+        <![CDATA[With the Webb telescope’s unprecedented sensitivity, scientists are learning more about dark matter’s influence on stars, galaxies, and even planets like Earth. Scientists using data from NASA’s James Webb Space Telescope have made one of the most detailed, high-resolution maps of dark matter ever produced. It shows how the invisible, ghostly material overlaps and intertwines [&#8230;]]]>
+      </description>
+      <source:markdown>With the Webb telescope’s unprecedented sensitivity, scientists are learning more about dark matter’s influence on stars, galaxies, and even planets like Earth. Scientists using data from NASA’s James Webb Space Telescope have made one of the most detailed, high-resolution maps of dark matter ever produced. It shows how the invisible, ghostly material overlaps and intertwines \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=947685</guid>
+    </item>    <item>
+      <title>Internet spent Q4 &#39;25 losing fights with cables, power, and itself</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/the_internet_spent_q4_2025/</link>
+      <description>
+        <![CDATA[<h4>Latest data from Cloudflare shows cable cuts, power failures, and network faults drive steady run of internet outages</h4> <p>The internet spent the closing months of 2025 being knocked over by cut cables, broken power grids, bad weather, military strikes, and the occasional self-inflicted technical wound, according to Cloudflare&#39;s latest global traffic data.…</p>]]>
+      </description>
+      <source:markdown>#### Latest data from Cloudflare shows cable cuts, power failures, and network faults drive steady run of internet outages
+
+The internet spent the closing months of 2025 being knocked over by cut cables, broken power grids, bad weather, military strikes, and the occasional self-inflicted technical wound, according to Cloudflare&#39;s latest global traffic data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244168</guid>
+    </item>    <item>
+      <title>KDE Plasma 6.6 beta ships a login manager that won&#39;t log in without systemd</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/plasma_6_6_systemd_login/</link>
+      <description>
+        <![CDATA[<h4>Bad luck, BSDs – although alternatives still work</h4> <p>KDE Plasma 6.6 is approaching, and one of its more controversial changes is a new login screen that depends on systemd – meaning that it won&#39;t work on the non-Linux operating systems KDE still nominally supports.…</p>]]>
+      </description>
+      <source:markdown>#### Bad luck, BSDs – although alternatives still work
+
+KDE Plasma 6.6 is approaching, and one of its more controversial changes is a new login screen that depends on systemd – meaning that it won&#39;t work on the non-Linux operating systems KDE still nominally supports.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244169</guid>
+    </item>    <item>
+      <title>Is Particle Physics Dead, Dying, or Just Hard?</title>
+      <link>https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/</link>
+      <description>
+        <![CDATA[Columnist Natalie Wolchover checks in with particle physicists more than a decade after the field entered a profound crisis.             <p>The post <a href="https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/" target="_blank">Is Particle Physics Dead, Dying, or Just Hard?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Columnist Natalie Wolchover checks in with particle physicists more than a decade after the field entered a profound crisis.
+
+The post [Is Particle Physics Dead, Dying, or Just Hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=158323</guid>
+    </item>    <item>
+      <title>Three is the magic number for Alaska Airlines: triple redundancy</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/three_is_the_magic_number/</link>
+      <description>
+        <![CDATA[<h4>Thankfully they only sufffered two outages in 2025. And now it has flown in experts to play with configurations</h4> <p>Alaska Air&#39;s CEO says IT outages last year damaged the company on multiple fronts despite &#34;triple redundancies&#34; built into its disaster recovery plan.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Thankfully they only sufffered two outages in 2025. And now it has flown in experts to play with configurations
+
+Alaska Air&#39;s CEO says IT outages last year damaged the company on multiple fronts despite &#34;triple redundancies&#34; built into its disaster recovery plan.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244170</guid>
+    </item>    <item>
+      <title>Giant Kangaroos That Lived During the Ice Age May Have Hopped—Despite Weighing Up to 550 Pounds</title>
+      <link>https://www.smithsonianmag.com/smart-news/giant-kangaroos-that-lived-during-the-ice-age-may-have-hopped-despite-weighing-up-to-550-pounds-180988060/</link>
+      <description>
+        <![CDATA[The extinct animals may have bounced from scary situations, such as coming face-to-face with hungry predators]]>
+      </description>
+      <source:markdown>The extinct animals may have bounced from scary situations, such as coming face-to-face with hungry predators</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qviEgBdo9OvwJCZAr91ummMfV-8=/420x240/filters:focal(385x220:386x221)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/fd/6cfdf903-e896-4ef8-b13d-9ea82c5b34a6/procoptodon_bw.jpg" length="113460" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/giant-kangaroos-that-lived-during-the-ice-age-may-have-hopped-despite-weighing-up-to-550-pounds-180988060/</guid>
+    </item>    <item>
+      <title>Knee-Deep in the CAD: Boffin gets Doom running inside a design modeler</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/openscad_doom/</link>
+      <description>
+        <![CDATA[<h4>The seminal shooter finds yet another unlikely home</h4> <p>Not content with rendering Doom in PCB design software or playing it on an oscilloscope, engineer Mike Ayles has got the 1990s shooter running in a computer-aided design (CAD) modeler.…</p>]]>
+      </description>
+      <source:markdown>#### The seminal shooter finds yet another unlikely home
+
+Not content with rendering Doom in PCB design software or playing it on an oscilloscope, engineer Mike Ayles has got the 1990s shooter running in a computer-aided design (CAD) modeler.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244166</guid>
+    </item>    <item>
+      <title>Sandia boffins let three AI agents loose in the lab. Science, not chaos, ensued</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/sandia_ai_agents_feature/</link>
+      <description>
+        <![CDATA[<h4>Researchers demonstrate fourfold improvement to LED steering results after enlisting the help of some good old-fashion AI</h4> <p>Boffins at the Department of Energy&#39;s Sandia National Labs are working to develop cheap and power efficient LEDs to replace lasers. One day, they let a trio of AI assistants loose in their lab.…</p>]]>
+      </description>
+      <source:markdown>#### Researchers demonstrate fourfold improvement to LED steering results after enlisting the help of some good old-fashion AI
+
+Boffins at the Department of Energy&#39;s Sandia National Labs are working to develop cheap and power efficient LEDs to replace lasers. One day, they let a trio of AI assistants loose in their lab.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244073</guid>
+    </item>    <item>
+      <title>Why Do These Tudor-Era Portraits of Anne Boleyn and Elizabeth I Look So Strikingly Similar?</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-do-these-tudor-era-portraits-of-anne-boleyn-and-elizabeth-i-look-so-strikingly-similar-180988051/</link>
+      <description>
+        <![CDATA[The artist behind the works may have used Elizabeth's likeness as a template in other royal portraits to visually emphasize her resemblance to previous monarchs and reinforce her status as the legitimate Tudor heir]]>
+      </description>
+      <source:markdown>The artist behind the works may have used Elizabeth&#39;s likeness as a template in other royal portraits to visually emphasize her resemblance to previous monarchs and reinforce her status as the legitimate Tudor heir</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xA6f0bNTGWBgUXMvTPel97-UBSU=/420x240/filters:focal(729x400:730x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5e/a5/5ea5d2fd-7f13-4573-abac-0989b19e6457/elizabeth-and-anne.png" length="2457614" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-do-these-tudor-era-portraits-of-anne-boleyn-and-elizabeth-i-look-so-strikingly-similar-180988051/</guid>
+    </item>    <item>
+      <title>A Little Boy’s Library Book Was Due in 1989. Thirty-Six Years Later, He Realized His Parents Had Never Returned It</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-little-boys-library-book-was-due-in-1989-thirty-six-years-later-he-realized-his-parents-had-never-returned-it-180988046/</link>
+      <description>
+        <![CDATA[After finding "Harry and the Dirty Dog" at his dad's home in Greece, Dimitris Economou brought it back to the library in Virginia where his family had checked it out more than three decades earlier]]>
+      </description>
+      <source:markdown>After finding &#34;Harry and the Dirty Dog&#34; at his dad&#39;s home in Greece, Dimitris Economou brought it back to the library in Virginia where his family had checked it out more than three decades earlier</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DGaY2mv9HabFfqNRcK7BBT8bHyk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/31/8e/318ef4aa-68cc-48e7-8e7f-647fa920a6d7/harry.jpg" length="231932" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-little-boys-library-book-was-due-in-1989-thirty-six-years-later-he-realized-his-parents-had-never-returned-it-180988046/</guid>
+    </item>    <item>
+      <title>EU looking into Elon Musk&#39;s X after Grok produces deepfake sex images</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/ec_open_new_investigation_into/</link>
+      <description>
+        <![CDATA[<h4>Probe follows outcry over use of creepy image generation tool</h4> <p>The European Commission has launched an investigation into X amid concerns that its GenAI model Grok offered users the ability to generate sexually explicit imagery, including sexualized images of children.…</p>]]>
+      </description>
+      <source:markdown>#### Probe follows outcry over use of creepy image generation tool
+
+The European Commission has launched an investigation into X amid concerns that its GenAI model Grok offered users the ability to generate sexually explicit imagery, including sexualized images of children.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244167</guid>
+    </item>    <item>
+      <title>Data thieves borrow Nike&#39;s &#39;Just Do It&#39; mantra, claim they ran off with 1.4TB</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/data_thieves_claim_nike_data_haul/</link>
+      <description>
+        <![CDATA[<h4>US sports brand launches probe after extortion crew WorldLeaks claims it stole huge dataset</h4> <p>Nike says it is probing a possible breach after extortion crew WorldLeaks claimed to have lifted 1.4TB of internal data from the sportswear giant and posted samples on its leak site.…</p>]]>
+      </description>
+      <source:markdown>#### US sports brand launches probe after extortion crew WorldLeaks claims it stole huge dataset
+
+Nike says it is probing a possible breach after extortion crew WorldLeaks claimed to have lifted 1.4TB of internal data from the sportswear giant and posted samples on its leak site.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244165</guid>
+    </item>    <item>
+      <title>Microsoft probes Windows 11 boot failures tied to January security updates</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/microsoft_probes_windows_11_boot/</link>
+      <description>
+        <![CDATA[<h4>Some machines are failing to start after security updates, prompting yet another Microsoft investigation</h4> <p>Microsoft is investigating reports that its January 2026 security updates are leaving some Windows 11 machines stuck in a boot loop, adding another entry to this month&#39;s bumper post–Patch Tuesday borkage list.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Some machines are failing to start after security updates, prompting yet another Microsoft investigation
+
+Microsoft is investigating reports that its January 2026 security updates are leaving some Windows 11 machines stuck in a boot loop, adding another entry to this month&#39;s bumper post–Patch Tuesday borkage list.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244163</guid>
+    </item>    <item>
+      <title>When AI &#39;builds a browser,&#39; check the repo before believing the hype</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/cursor_opinion/</link>
+      <description>
+        <![CDATA[<h4>Autonomous agents may generate millions of lines of code, but shipping software is another matter</h4> <p><strong>Opinion</strong>  AI-integrated development environment (IDE) company Cursor recently <a target="_blank" rel="nofollow" href="https://cursor.com/blog/scaling-agents">implied</a> it had built a working web browser almost entirely with its AI agents. I won&#39;t say they lied, but CEO Michael Truell certainly <a target="_blank" rel="nofollow" href="https://x.com/mntruell/status/2011562190286045552">tweeted</a>: &#34;We built a browser with GPT-5.2 in Cursor.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Autonomous agents may generate millions of lines of code, but shipping software is another matter
+
+**Opinion**  AI-integrated development environment (IDE) company Cursor recently [implied](https://cursor.com/blog/scaling-agents) it had built a working web browser almost entirely with its AI agents. I won&#39;t say they lied, but CEO Michael Truell certainly [tweeted](https://x.com/mntruell/status/2011562190286045552): &#34;We built a browser with GPT-5.2 in Cursor.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244117</guid>
+    </item>    <item>
+      <title>Moscow likely behind wiper attack on Poland’s power grid, experts say</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/moscow_likely_behind_wiper_attack/</link>
+      <description>
+        <![CDATA[<h4>Cyber sleuths believe Sandworm up to its old tricks with a brand-new sabotage toy</h4> <p>Russia was probably behind the failed attempts to compromise the systems of Poland&#39;s power companies in December, cybersecurity researchers claim.…</p>]]>
+      </description>
+      <source:markdown>#### Cyber sleuths believe Sandworm up to its old tricks with a brand-new sabotage toy
+
+Russia was probably behind the failed attempts to compromise the systems of Poland&#39;s power companies in December, cybersecurity researchers claim.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244164</guid>
+    </item>    <item>
+      <title>Just the Browser is just the beginning: Why breaking free means building small</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/just_the_browser_opinion/</link>
+      <description>
+        <![CDATA[<h4>Privacy tools are a start, but real freedom lives in the digital outskirts of the web</h4> <p><strong>Opinion</strong>  The Net is born free, but everywhere is in chains. This is a parody of Jean-Jacques Rousseau&#39;s 1762 book <em>The Social Contract</em> where he said the same about humans, but it&#39;s nonetheless true. The Net is built out of open, free protocols and open, free code. Yet it and we are bound by the rulemakers who build the services and set the laws of the places we go and the things that we do, not to our advantage.…</p>]]>
+      </description>
+      <source:markdown>#### Privacy tools are a start, but real freedom lives in the digital outskirts of the web
+
+**Opinion**  The Net is born free, but everywhere is in chains. This is a parody of Jean-Jacques Rousseau&#39;s 1762 book _The Social Contract_ where he said the same about humans, but it&#39;s nonetheless true. The Net is built out of open, free protocols and open, free code. Yet it and we are bound by the rulemakers who build the services and set the laws of the places we go and the things that we do, not to our advantage.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244132</guid>
+    </item>    <item>
+      <title>Microsoft rushes out another fix for cloud storage after January update</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/microsoft_outofband_patch/</link>
+      <description>
+        <![CDATA[<h4>2026 is shaping up to be a bumper year for patch management</h4> <p>Microsoft dropped a weekend treat for administrators with yet another out-of-band update to deal with Outlook freezes and broken cloud storage.…</p>]]>
+      </description>
+      <source:markdown>#### 2026 is shaping up to be a bumper year for patch management
+
+Microsoft dropped a weekend treat for administrators with yet another out-of-band update to deal with Outlook freezes and broken cloud storage.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244162</guid>
+    </item>    <item>
+      <title>Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/royal_navy_oracle_ai/</link>
+      <description>
+        <![CDATA[<h4>Big Red says &#39;sovereign&#39; platform supports decision-making and operational learning at sea</h4> <p>Britain&#39;s Royal Navy is using Oracle Cloud edge infrastructure to operate AI-driven defenses on the aircraft carrier HMS Prince of Wales.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Big Red says &#39;sovereign&#39; platform supports decision-making and operational learning at sea
+
+Britain&#39;s Royal Navy is using Oracle Cloud edge infrastructure to operate AI-driven defenses on the aircraft carrier HMS Prince of Wales.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244142</guid>
+    </item>    <item>
+      <title>UK digital ID goes in-house, government swears it isn&#39;t an ID card</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/digital_id_costs/</link>
+      <description>
+        <![CDATA[<h4>Minister dodges cost questions while promising smartphone-free access and &#39;robust&#39; verification</h4> <p>The UK government has revealed some thinking about digital identity in response to written questions from MPs, while continuing to say next to nothing about the scheme&#39;s cost.…</p>]]>
+      </description>
+      <source:markdown>#### Minister dodges cost questions while promising smartphone-free access and &#39;robust&#39; verification
+
+The UK government has revealed some thinking about digital identity in response to written questions from MPs, while continuing to say next to nothing about the scheme&#39;s cost.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244133</guid>
+    </item>    <item>
+      <title>Iran offline: How a government can turn off the internet</title>
+      <link>https://www.npr.org/2026/01/26/nx-s1-5684190/news-iran-protests-internet</link>
+      <description>
+        <![CDATA[There’s an ongoing, near-total blackout of the internet in Iran. The shutdown is part of a response by the government to ongoing protests against rising inflation and the value of the nation’s currency plummeting. Since protests began more than two weeks ago, only an estimated 3% of Iranians have stayed online through the satellite internet system Starlink. Doing so is a crime. So, today on the show: Iran offline. We get into how the internet works, how a government can shut it down and how scientists are monitoring the nation’s connectivity from afar. 
+        <br/><br/><strong>Check out more of NPR's coverage of Iran: </strong><br/><br/>- <a href="https://www.npr.org/2026/01/22/nx-s1-5684033/iran-2026-protests"target="_blank"   >Iran Protests Explained</a><br/><br/>- <a href="https://www.npr.org/2026/01/15/nx-s1-5678567/iran-internet-blackout-starlink"target="_blank"   >There's an internet blackout in Iran. How are videos and images getting out?</a><br/><br/>- <a href="https://www.npr.org/2026/01/22/nx-s1-5680784/iran-blocked-the-internet-amid-deadly-protests-some-voices-are-still-getting-through"target="_blank"   >Iran blocked the internet amid deadly protests. Some voices are still getting through</a><br/><br/><em>Interested in more science behind the headlines? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em> – we may tackle it in a future episode!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><em>This episode was produced by Berly McCoy, edited by Rebecca Ramirez and fact checked by Tyler Jones. Robert Rodriguez was the audio engineer.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>There’s an ongoing, near-total blackout of the internet in Iran. The shutdown is part of a response by the government to ongoing protests against rising inflation and the value of the nation’s currency plummeting. Since protests began more than two weeks ago, only an estimated 3% of Iranians have stayed online through the satellite internet system Starlink. Doing so is a crime. So, today on the show: Iran offline. We get into how the internet works, how a government can shut it down and how scientists are monitoring the nation’s connectivity from afar.
+
+**Check out more of NPR&#39;s coverage of Iran:**
+
+- [Iran Protests Explained](https://www.npr.org/2026/01/22/nx-s1-5684033/iran-2026-protests)
+
+- [There&#39;s an internet blackout in Iran. How are videos and images getting out?](https://www.npr.org/2026/01/15/nx-s1-5678567/iran-internet-blackout-starlink)
+
+- [Iran blocked the internet amid deadly protests. Some voices are still getting through](https://www.npr.org/2026/01/22/nx-s1-5680784/iran-blocked-the-internet-amid-deadly-protests-some-voices-are-still-getting-through)
+
+_Interested in more science behind the headlines? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _– we may tackle it in a future episode!_
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+_This episode was produced by Berly McCoy, edited by Rebecca Ramirez and fact checked by Tyler Jones. Robert Rodriguez was the audio engineer._
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR6166206050.mp3?t=podcast&e=nx-s1-5684190&p=510351&d=797&size=12755323" length="12755323" type="audio/mpeg" />
+      <guid>cid://7146ce05-fb23-4761-bfd4-8689154b1c12</guid>
+    </item>    <item>
+      <title>Marketing &#39;genius&#39; destroyed a printer by trying to fix a paper jam</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/26/who_me/</link>
+      <description>
+        <![CDATA[<h4>This story starts with the worst mistake of them all – loaning a tool</h4> <p><strong>Who, Me?</strong>  Everyone makes mistakes, but only <i>The Register</i> celebrates them every week in &#34;Who, Me?&#34; – the reader-contributed column that shares your worst workplace moments then records how you bounced back.…</p>]]>
+      </description>
+      <source:markdown>#### This story starts with the worst mistake of them all – loaning a tool
+
+**Who, Me?**  Everyone makes mistakes, but only _The Register_ celebrates them every week in &#34;Who, Me?&#34; – the reader-contributed column that shares your worst workplace moments then records how you bounced back.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244051</guid>
+    </item>    <item>
+      <title>Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/25/pwn2own_automotive_2026_identifies_76_0days/</link>
+      <description>
+        <![CDATA[<h4>Also, cybercriminals get breached, Gemini spills the calendar beans, and more</h4> <p><strong>infosec in brief</strong>  T&#39;was a dark few days for automotive software systems last week, as the third annual Pwn2Own Automotive competition uncovered 76 unique zero-day vulnerabilities in targets ranging from Tesla infotainment to EV chargers.…</p>]]>
+      </description>
+      <source:markdown>#### Also, cybercriminals get breached, Gemini spills the calendar beans, and more
+
+**infosec in brief**  T&#39;was a dark few days for automotive software systems last week, as the third annual Pwn2Own Automotive competition uncovered 76 unique zero-day vulnerabilities in targets ranging from Tesla infotainment to EV chargers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244154</guid>
+    </item>    <item>
+      <title>No one talking about a datacenter could be a sign one is coming</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/25/datacenters_nda/</link>
+      <description>
+        <![CDATA[<h4>Balancing the need to know with the need to get shovels in the ground is causing friction in communities across the US</h4> <p><strong>feature</strong>  Applied Digital CEO Wes Cummins said when his company decides on a location for a datacenter, he asks town officials to sign non-disclosure agreements to stop politicians from leaking insider information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Balancing the need to know with the need to get shovels in the ground is causing friction in communities across the US
+
+**feature**  Applied Digital CEO Wes Cummins said when his company decides on a location for a datacenter, he asks town officials to sign non-disclosure agreements to stop politicians from leaking insider information.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244158</guid>
+    </item>    <item>
       <title>Emmabuntüs DE 6: A newbie-friendly Linux to help those in need</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/</link>
       <description>
@@ -103,9 +346,9 @@ The UK Home Office is spending up to £100 million on intelligence tech in part 
       <title>NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station</title>
       <link>https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/</link>
       <description>
-        <![CDATA[NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Friday, Jan. 30, from the agency’s Johnson Space Center in Houston. At 11 a.m. EST, mission leadership will discuss final launch and mission preparations in a news conference that will stream on the [&#8230;]]]>
+        <![CDATA[NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Friday, Jan. 30, from the agency’s Johnson Space Center in Houston.At 11 a.m. EST, mission leadership will discuss final launch and mission preparations in a news conference that will stream on the agency’s [&#8230;]]]>
       </description>
-      <source:markdown>NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Friday, Jan. 30, from the agency’s Johnson Space Center in Houston. At 11 a.m. EST, mission leadership will discuss final launch and mission preparations in a news conference that will stream on the \[…\]</source:markdown>
+      <source:markdown>NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Friday, Jan. 30, from the agency’s Johnson Space Center in Houston.At 11 a.m. EST, mission leadership will discuss final launch and mission preparations in a news conference that will stream on the agency’s \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=948131</guid>
     </item>    <item>
       <title>Ofcom probes Meta over WhatsApp info it was legally required to provide</title>
@@ -318,9 +561,9 @@ Microsoft recently announced it will [deprecate](https://techcommunity.microsoft
       <title>AMS 2026 Hyperwall Schedule</title>
       <link>https://science.nasa.gov/uncategorized/ams-2026-hyperwall-schedule/</link>
       <description>
-        <![CDATA[106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable […]]]>
+        <![CDATA[106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 p.m.Expanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable […]]]>
       </description>
-      <source:markdown>106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable \[…\]</source:markdown>
+      <source:markdown>106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 p.m.Expanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/</guid>
     </item>    <item>
       <title>Monster Neutrino Could Be a Messenger of Ancient Black Holes</title>
@@ -5940,50 +6183,6 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
       </description>
       <source:markdown>The colorful formations found in this bowl-shaped escarpment in southwestern Utah are the centerpiece of Cedar Breaks National Monument.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/an-amphitheater-of-rock-at-cedar-breaks/</guid>
-    </item>    <item>
-      <title>Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/</link>
-      <description>
-        <![CDATA[<h4>Also, Korean Air hacked, EmEditor installer hijacked, a perfect 10 router RCE vuln, and more</h4> <p><strong>infosec in brief</strong>  The Trump administration has cleared a trio of individuals sanctioned by the Biden administration for involvement with the Intellexa spyware consortium behind the Predator surveillance tool, removing restrictions that had barred them from doing business with the US.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Also, Korean Air hacked, EmEditor installer hijacked, a perfect 10 router RCE vuln, and more
-
-**infosec in brief**  The Trump administration has cleared a trio of individuals sanctioned by the Biden administration for involvement with the Intellexa spyware consortium behind the Predator surveillance tool, removing restrictions that had barred them from doing business with the US.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243778</guid>
-    </item>    <item>
-      <title>Desktop Classic System wants to bring some classic Mac OS to MATE and Debian</title>
-      <link>https://www.osnews.com/story/144111/desktop-classic-system-wants-to-bring-some-classic-mac-os-to-mate-and-debian/</link>
-      <description>
-        <![CDATA[Desktop Classic System is an operating system based on Debian and a customized version of the MATE Desktop Environment that hearkens back to, but is not a direct copy of, the classic Mac OS. DCS seeks to provide and sometimes even improve upon the conceptual simplicity offered by the old Macintosh. ↫ Desktop Classic System website I&#8217;m usually not particularly interested in reporting on random Linux distributions, but any one of them that defaults to a proper spatial file manager is one that I will highlight. I&#8217;m not entirely sure if this is just a supported feature of MATE&#8217;s file manager, or something more custom &#8211; there are some patches to Caja here, as mentioned &#8211; but spatial file managers are a dying breed and that&#8217;s a shame. They&#8217;re hard to implement and even harder to get right, which is probably why few people take on the challenge. Other than that, DCS isn&#8217;t particularly revolutionary or special, but I&#8217;d love for more Linux distributions to look back at what we&#8217;ve lost, and see if we can bring those things back.]]>
-      </description>
-      <source:markdown>Desktop Classic System is an operating system based on Debian and a customized version of the MATE Desktop Environment that hearkens back to, but is not a direct copy of, the classic Mac OS. DCS seeks to provide and sometimes even improve upon the conceptual simplicity offered by the old Macintosh. ↫ Desktop Classic System website I’m usually not particularly interested in reporting on random Linux distributions, but any one of them that defaults to a proper spatial file manager is one that I will highlight. I’m not entirely sure if this is just a supported feature of MATE’s file manager, or something more custom – there are some patches to Caja here, as mentioned – but spatial file managers are a dying breed and that’s a shame. They’re hard to implement and even harder to get right, which is probably why few people take on the challenge. Other than that, DCS isn’t particularly revolutionary or special, but I’d love for more Linux distributions to look back at what we’ve lost, and see if we can bring those things back.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144111</guid>
-    </item>    <item>
-      <title>KDE developer onboarding is good now</title>
-      <link>https://www.osnews.com/story/144109/kde-developer-onboarding-is-good-now/</link>
-      <description>
-        <![CDATA[KDE developer Herz published a detailed look at the immense amount of work they&#8217;ve done cleaning up the developer onboarding documentation for KDE. All that just to say that I’m finally content with the state of beginner onboarding docs in our KDE Developer Platform. That is to say, all the beginner docs fixes I wanted to add to Develop are either already there or have merge requests ready or almost ready. ↫ Herz at rabbitictranslator.com Judging by the article, KDE&#8217;s developer documentation really were in need of major work, and it&#8217;s great to see that thankless task being done. One of the areas where KDE lags behind GNOME is that the latter has a more vibrant application ecosystem, with tons of great GNOME applications under active development. Now, I&#8217;m not saying it&#8217;s the state of KDE&#8217;s documentation is the sole reason for this, but I&#8217;m sure it wasn&#8217;t helping either. Improving documentation is not a particularly glamorous task, but it&#8217;s vitally important nonetheless.]]>
-      </description>
-      <source:markdown>KDE developer Herz published a detailed look at the immense amount of work they’ve done cleaning up the developer onboarding documentation for KDE. All that just to say that I’m finally content with the state of beginner onboarding docs in our KDE Developer Platform. That is to say, all the beginner docs fixes I wanted to add to Develop are either already there or have merge requests ready or almost ready. ↫ Herz at rabbitictranslator.com Judging by the article, KDE’s developer documentation really were in need of major work, and it’s great to see that thankless task being done. One of the areas where KDE lags behind GNOME is that the latter has a more vibrant application ecosystem, with tons of great GNOME applications under active development. Now, I’m not saying it’s the state of KDE’s documentation is the sole reason for this, but I’m sure it wasn’t helping either. Improving documentation is not a particularly glamorous task, but it’s vitally important nonetheless.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144109</guid>
-    </item>    <item>
-      <title>Palo Alto Networks security-intel boss calls AI agents 2026&#39;s biggest insider threat</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/</link>
-      <description>
-        <![CDATA[<h4>Lock &#39;em down</h4> <p><strong>interview</strong>  AI agents represent the new insider threat to companies in 2026, according to Palo Alto Networks Chief Security Intel Officer Wendi Whitmore, and this poses several challenges to executives tasked with securing the expected surge in autonomous agents.…</p>]]>
-      </description>
-      <source:markdown>#### Lock &#39;em down
-
-**interview**  AI agents represent the new insider threat to companies in 2026, according to Palo Alto Networks Chief Security Intel Officer Wendi Whitmore, and this poses several challenges to executives tasked with securing the expected surge in autonomous agents.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243782</guid>
-    </item>    <item>
-      <title>The scariest boot loader code</title>
-      <link>https://www.osnews.com/story/144107/the-scariest-boot-loader-code/</link>
-      <description>
-        <![CDATA[It shouldn&#8217;t be surprising that the HP-UX FAQ eventually grew an entry for &#8220;how can I make a 712 run headless&#8221;. It was possible, and to do it you had to change the firmware &#8220;console&#8221; path. The 712 firmware would not allow you to do this, to keep you locked to a keyboard and frame buffer console, but some of the HP-UX standalone tools could be used to change this without the firmware getting in the way, so the FAQ recipe was roughly &#8220;abort the boot sequence, at the BOOT_ADMIN&#62; prompt, do not start the HP-UX kernel but some diagnostic tool, and then at the tools prompt, type a magic sequence without any mistake or you&#8217;ll be very, very, very sorry&#8221;. There was no exaggeration in these words: the magic sequence is conspath 2/0/4.0x283, which is everything but intuitive and easy to remember. ↫ Miod Vallat What a great story.]]>
-      </description>
-      <source:markdown>It shouldn’t be surprising that the HP-UX FAQ eventually grew an entry for “how can I make a 712 run headless”. It was possible, and to do it you had to change the firmware “console” path. The 712 firmware would not allow you to do this, to keep you locked to a keyboard and frame buffer console, but some of the HP-UX standalone tools could be used to change this without the firmware getting in the way, so the FAQ recipe was roughly “abort the boot sequence, at the BOOT\_ADMIN&#62; prompt, do not start the HP-UX kernel but some diagnostic tool, and then at the tools prompt, type a magic sequence without any mistake or you’ll be very, very, very sorry”. There was no exaggeration in these words: the magic sequence is conspath 2/0/4.0x283, which is everything but intuitive and easy to remember. ↫ Miod Vallat What a great story.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144107</guid>
     </item>
   </channel>
 </rss>
