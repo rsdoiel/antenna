@@ -23,7 +23,7 @@ title: Planet News
 
 # BBC World service for North America
 
-- [BBC, US & Canada](http://feeds.bbci.co.uk/news/rss.xml)
+- [BBC, US & Canada](https://feeds.bbci.co.uk/news/rss.xml)
 
 # RTÉ, Raidió Teilifís Éireann (the Irish public broadcasting organization)
 
@@ -35,6 +35,10 @@ title: Planet News
 
 # European Union
 
+## Ireland
+
+- [Kilkenney People, local news](https://www.kilkennypeople.ie/rss.jsp?sezione=115)
+- [Kilkenney People, national news](https://www.kilkennypeople.ie/rss.jsp?sezione=359)
 
 # Vatican
 
