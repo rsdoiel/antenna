@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>27 Jan 26 08:11 -0800</dateCreated>
+        <dateCreated>28 Jan 26 08:11 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -14,7 +14,7 @@
         <outline text="Alex Russel&#39;s blog" type="atom" xmlUrl="https://infrequently.org/feed/" htmlUrl="https://infrequently.org/feed/feed.xml,https://infrequently.org/" description="Alex Russell on browsers, standards, and the process of progress." url="https://infrequently.org/feed/feed.xml"></outline>
         <outline text="Alex Schroeder&#39;s Blog" type="rss" xmlUrl="https://alexschroeder.ch/view/index.rss" htmlUrl="https://alexschroeder.ch/,https://alexschroeder.ch/view/index.rss" description="This is the digital garden of Alex Schroeder." url="https://alexschroeder.ch/view/index.rss"></outline>
         <outline text="Alluring Artic blog" type="rss" xmlUrl="https://alluringarctic.com/feed/" htmlUrl="https://alluringarctic.com,https://alluringarctic.com/feed/" description="Sailing the Northwest Passage" url="https://alluringarctic.com/feed/"></outline>
-        <outline text="Andy Bell Blog" type="atom" xmlUrl="https://bell.bz/feed.xml" htmlUrl="https://bell.bz/feed.xml,https://bell.bz/" url="https://bell.bz/feed.xml"></outline>
+        <outline text="Andy Bell Blog" type="rss" xmlUrl="https://bell.bz/feed.xml" htmlUrl="https://bell.bz/,https://bell.bz/rss.xml" description="Get my posts as soon as they go live!" url="https://bell.bz/rss.xml"></outline>
         <outline text="Andy Sylvester&#39;s River of News" type="rss" xmlUrl="https://andysylvester.com/feed/" htmlUrl="https://andysylvester.com,https://andysylvester.com/feed/" description="Software development, music, and the World Wide Web" url="https://andysylvester.com/feed/"></outline>
         <outline text="Anil Dash blog" type="atom" xmlUrl="https://www.dashes.com/feed.xml" htmlUrl="https://anildash.com/feed.xml,https://anildash.com/" description="A blog about making culture. Since 1999." url="https://anildash.com/feed.xml"></outline>
         <outline text="Anthony Bucci blog" type="atom" xmlUrl="https://bucci.onl/feed.xml" htmlUrl="https://bucci.onl/feed.xml,https://bucci.onl/" description="Anthony Bucci&#39;s personal web site" url="https://bucci.onl/feed.xml"></outline>
