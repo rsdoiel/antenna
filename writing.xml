@@ -4,10 +4,21 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>27 Jan 26 08:13 -0800</lastBuildDate>
+    <lastBuildDate>28 Jan 26 08:12 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Orality, or Writing to be Spoken</title>
+      <link>https://johnaugust.com/2026/orality-or-writing-to-be-spoken</link>
+      <description>
+        <![CDATA[<p>John and Craig ask, are screenwriters just oral storytellers who happen to write things down? They compare the literate and oral markers of the medium, how it separates screenplays from other literary forms, and consider whether screenplays are just one long pitch. We also look at the upcoming WGA member meetings, follow up on having [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/orality-or-writing-to-be-spoken">Orality, or Writing to be Spoken</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>John and Craig ask, are screenwriters just oral storytellers who happen to write things down? They compare the literate and oral markers of the medium, how it separates screenplays from other literary forms, and consider whether screenplays are just one long pitch. We also look at the upcoming WGA member meetings, follow up on having \[…\]
+
+The post [Orality, or Writing to be Spoken](https://johnaugust.com/2026/orality-or-writing-to-be-spoken) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=23752</guid>
+    </item>    <item>
       <title>AI Class Action Litigation Update (Books): Where things stand in early 2026</title>
       <link>https://www.authorsalliance.org/2026/01/27/ai-class-action-litigation-update-books-where-things-stand-in-early-2026/</link>
       <description>
@@ -119,18 +130,6 @@ First, the plaintiffs and Anthropic jointly stipulated to an extension of the op
       </description>
       <source:markdown>In the webscraping cases now pending, courts should focus their analysis on whether there has been actual harm to the plaintiffs’ web infrastructures, instead of allowing digital platforms absolute control via ToS or TPMs.</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12481</guid>
-    </item>    <item>
-      <title>When Good Enough Isn’t Enough</title>
-      <link>https://johnaugust.com/2026/when-good-enough-isnt-enough</link>
-      <description>
-        <![CDATA[<p>John and Craig consider all the words they have to write and ask, how do you know when something deserves your best effort? They offer a useful rubric for deciding when something is worth perfecting, and when over-optimization is a waste of time. We also follow up on compulsive writing habits, industry euphemisms, back issues, [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/when-good-enough-isnt-enough">When Good Enough Isn’t Enough</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John and Craig consider all the words they have to write and ask, how do you know when something deserves your best effort? They offer a useful rubric for deciding when something is worth perfecting, and when over-optimization is a waste of time. We also follow up on compulsive writing habits, industry euphemisms, back issues, \[…\]
-
-The post [When Good Enough Isn’t Enough](https://johnaugust.com/2026/when-good-enough-isnt-enough) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/719standardV3.mp3" length="67257753" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23723</guid>
     </item>
   </channel>
 </rss>
