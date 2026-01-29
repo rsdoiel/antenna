@@ -4,10 +4,166 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>28 Jan 26 08:12 -0800</lastBuildDate>
+    <lastBuildDate>28 Jan 26 16:13 -0800</lastBuildDate>
     <generator>antenna/0.0.18</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ServiceNow boasts about years of sweat equity that went into making its AI agents smarter</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/servicenow_ai_agents/</link>
+      <description>
+        <![CDATA[<h4>80 billion workflows makes a difference</h4> <p>Though some recent studies cast doubt on the ability of AI agents to complete complex tasks, ServiceNow boasts that its bots are better, because they can rely on 20 years and 80 billion workflows worth of experience. The underlying model, they say, is just a small part of the product.…</p>]]>
+      </description>
+      <source:markdown>#### 80 billion workflows makes a difference
+
+Though some recent studies cast doubt on the ability of AI agents to complete complex tasks, ServiceNow boasts that its bots are better, because they can rely on 20 years and 80 billion workflows worth of experience. The underlying model, they say, is just a small part of the product.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244225</guid>
+    </item>    <item>
+      <title>How Do Menopause and a Treatment to Manage Its Symptoms Affect the Brain and Mental Health?</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-do-menopause-and-a-treatment-to-manage-its-symptoms-affect-the-brain-and-mental-health-180988085/</link>
+      <description>
+        <![CDATA[New research suggests an association between menopause and anxiety, depression and shrinkage in certain brain regions—which hormone replacement therapy might not mitigate]]>
+      </description>
+      <source:markdown>New research suggests an association between menopause and anxiety, depression and shrinkage in certain brain regions—which hormone replacement therapy might not mitigate</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/o7Ti9zSQ8olekfODV0np-vE_eGQ=/420x240/filters:focal(2952x1968:2953x1969)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/b1/9ab125d1-7f5e-44f6-b729-bc01f9bbb563/back-view-mother-daughter-walking-beach.jpg" length="1239011" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/how-do-menopause-and-a-treatment-to-manage-its-symptoms-affect-the-brain-and-mental-health-180988085/</guid>
+    </item>    <item>
+      <title>You Can Buy This 438-Year-Old Mill in Wales That Inspired a Stunning J.M.W. Turner Painting</title>
+      <link>https://www.smithsonianmag.com/smart-news/you-can-buy-this-438-year-old-mill-in-wales-that-inspired-a-stunning-jmw-turner-painting-180988074/</link>
+      <description>
+        <![CDATA[Rossett Mill was the subject of a landscape by the Romantic painter around 1795. Now, the property is listed at a little over $2 million]]>
+      </description>
+      <source:markdown>Rossett Mill was the subject of a landscape by the Romantic painter around 1795. Now, the property is listed at a little over $2 million</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WCzyo58rAhnIDIc14oKq7mWzSqA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2f/95/2f955177-7a47-4bf7-b1f0-ac2ad989b3e0/rossett-mill.jpg" length="430172" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/you-can-buy-this-438-year-old-mill-in-wales-that-inspired-a-stunning-jmw-turner-painting-180988074/</guid>
+    </item>    <item>
+      <title>Ransomware crims forced to take off-RAMP as FBI seizes forum</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/fbi_seizes_ramp_forum/</link>
+      <description>
+        <![CDATA[<h4>Cybercrime solved. The end</h4> <p>Ransomware crims have just lost one of their best business platforms. US law enforcement has seized the notorious RAMP cybercrime forum&#39;s dark web and clearnet domains.…</p>]]>
+      </description>
+      <source:markdown>#### Cybercrime solved. The end
+
+Ransomware crims have just lost one of their best business platforms. US law enforcement has seized the notorious RAMP cybercrime forum&#39;s dark web and clearnet domains.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244224</guid>
+    </item>    <item>
+      <title>What is going on with Windows 11?</title>
+      <link>https://www.osnews.com/story/144292/what-is-going-on-with-windows-11/</link>
+      <description>
+        <![CDATA[Since I have no qualms about kicking a proprietary software product while it&#8217;s down, let&#8217;s now switch to NTDEV&#8216;s thoughts on the state of Windows 11. Unfortunately, the issue that plagued Windows since the dawn of time has only aggravated recently. Windows 11 is a mixture of old and new technologies that are glued together, with decades of legacy code that simply refuses to die (because if it did a lot of corporate costumers would complain, and whether we like it or not they are paying big cash for support to Microsoft). Also, it tries to have a “modern” UI that unfortunately not only is inconsistent, but also it’s too heavy for its own good, being just a lipstick on a bloated old pig. Last, but certainly not least, it is full of AI features that most people didn’t ask for, some are even actively feared (see Recall) and are also quite lacking in polish and usefulness.  Until Microsoft stops treating Windows as an “AI innovation platform” of sorts and starts treating it as the stable, reliable tool it was always meant to be, the user experience will continue to feel like a battle between the person sitting at the desk and the company that built the desk. ↫ NETDEV When even some of the most knowledgeable and respected Windows/Windows NT developers and experts are this down on the current state of Windows, you know things are way worse than we even know from just following the news and our own experiences. Back in 2024, I stated that I firmly believe we will see Windows &#8211; or at least, huge, crucial chunks of it &#8211; shift to an open source development model, as it&#8217;s the only way for Windows to move forward without crumbling into itself. It would also be a massive cost-cutting and personnel-culling step for Microsoft, something that seems to become ever more relevant now that the company bet massively on &#8220;AI&#8221;, without any of it paying off. They&#8217;re going to need to do some serious cost-cutting once the &#8220;AI&#8221; bubble bursts, and Windows will definitely be the first on the chopping block. As a side note, the step to release Windows as open source won&#8217;t be nearly as difficult or problematic as people think. In fact, Microsoft has provided access to the source code behind Windows and various other products for decades, and countless governments and organisations have access to said source code. On top of that, the source code to Windows XP and Server 2003 is out there, hosted on GitHub, and various other leaks have occurred as well over the years. While I&#8217;m sure a large clean-up effort would still be required, and while it surely will be a big engineering effort, if there were any truly shocking things in the code Microsoft wouldn&#8217;t want the world to see we&#8217;d already know by now. I&#8217;m getting the strong feeling Microsoft is trying to squeeze every last drop of revenue out of Windows before it ends up on the chopping block. Windows will definitely not be axed, but cost-cutting is inevitable.]]>
+      </description>
+      <source:markdown>Since I have no qualms about kicking a proprietary software product while it’s down, let’s now switch to NTDEV‘s thoughts on the state of Windows 11. Unfortunately, the issue that plagued Windows since the dawn of time has only aggravated recently. Windows 11 is a mixture of old and new technologies that are glued together, with decades of legacy code that simply refuses to die (because if it did a lot of corporate costumers would complain, and whether we like it or not they are paying big cash for support to Microsoft). Also, it tries to have a “modern” UI that unfortunately not only is inconsistent, but also it’s too heavy for its own good, being just a lipstick on a bloated old pig. Last, but certainly not least, it is full of AI features that most people didn’t ask for, some are even actively feared (see Recall) and are also quite lacking in polish and usefulness. Until Microsoft stops treating Windows as an “AI innovation platform” of sorts and starts treating it as the stable, reliable tool it was always meant to be, the user experience will continue to feel like a battle between the person sitting at the desk and the company that built the desk. ↫ NETDEV When even some of the most knowledgeable and respected Windows/Windows NT developers and experts are this down on the current state of Windows, you know things are way worse than we even know from just following the news and our own experiences. Back in 2024, I stated that I firmly believe we will see Windows – or at least, huge, crucial chunks of it – shift to an open source development model, as it’s the only way for Windows to move forward without crumbling into itself. It would also be a massive cost-cutting and personnel-culling step for Microsoft, something that seems to become ever more relevant now that the company bet massively on “AI”, without any of it paying off. They’re going to need to do some serious cost-cutting once the “AI” bubble bursts, and Windows will definitely be the first on the chopping block. As a side note, the step to release Windows as open source won’t be nearly as difficult or problematic as people think. In fact, Microsoft has provided access to the source code behind Windows and various other products for decades, and countless governments and organisations have access to said source code. On top of that, the source code to Windows XP and Server 2003 is out there, hosted on GitHub, and various other leaks have occurred as well over the years. While I’m sure a large clean-up effort would still be required, and while it surely will be a big engineering effort, if there were any truly shocking things in the code Microsoft wouldn’t want the world to see we’d already know by now. I’m getting the strong feeling Microsoft is trying to squeeze every last drop of revenue out of Windows before it ends up on the chopping block. Windows will definitely not be axed, but cost-cutting is inevitable.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144292</guid>
+    </item>    <item>
+      <title>Claude Code&#39;s prying AIs read off-limits secret files</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/claude_code_ai_secrets_files/</link>
+      <description>
+        <![CDATA[<h4>Developers remain unsure how to prevent access to sensitive data</h4> <p>Don&#39;t you hate it when machines can&#39;t follow simple instructions? Anthropic&#39;s Claude Code can&#39;t take &#34;ignore&#34; for an answer and continues to read passwords and API keys, even when your secrets file is supposed to be blocked.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Developers remain unsure how to prevent access to sensitive data
+
+Don&#39;t you hate it when machines can&#39;t follow simple instructions? Anthropic&#39;s Claude Code can&#39;t take &#34;ignore&#34; for an answer and continues to read passwords and API keys, even when your secrets file is supposed to be blocked.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244223</guid>
+    </item>    <item>
+      <title>I don’t want using my computer to be like a game of Russian roulette</title>
+      <link>https://www.osnews.com/story/144290/i-dont-want-using-my-computer-to-be-like-a-game-of-russian-roulette/</link>
+      <description>
+        <![CDATA[I&#8217;ve been terribly sick for a few days so we&#8217;ve got some catching up to. Let&#8217;s first take a look at how Windows is doing. People often say Linux is &#8220;too much work.&#8221; And I agree. They&#8217;re completely justified to complain. There&#8217;s the documentation page diving, the forums, the reddit threads. And, most importantly, you have to basically rewire your brain and stop expecting it to behave like Windows used to. But I looked at the list above and realized: Windows is now also too much work. And the difference with Windows is that you&#8217;re going to do all that work while actively fighting your computer only for it to be undone when the next surprise update comes and ruins everything. You might be thinking &#8220;just disable updates, man&#8221; or &#8220;just install LTSC&#8221;, or &#8220;just run some random debloat script off of GitHub&#8221;. Why? Why would I jump through all these hoops? I&#8217;d rather put in the effort for an OS that knows what consent is and respects me as a user. ↫ Bogdan-Mihai Mosteanu You know how in most theme parks they have various different rides for all kinds of people? There&#8217;s the wild and crazy over-the-top deathcoasters for the ultimate thrill seekers, the more gentle wooden coasters for those who like a thrill, but not over-the-top. There&#8217;s the swinging ship-type things for thrill-seeking accountants who seek their thrills predictably. There&#8217;s a game of Russian roulette played in the backlot. For the kids, there&#8217;s the classic spinning tea cups. And then there&#8217;s the public transport service dressed up as an old-timey steam train that just brings you to your destination without any issue, silently doing its thing, the unsung backbone of park logistics. Commercial operating systems like Windows and macOS are the games of Russian roulette, predictably unexpectedly shooting you in the face every sixth time you pull the trigger. That&#8217;s not my vibe. I want my operating system to be that steam train, and desktop Linux is the only thing that fits that bill &#8211; and it&#8217;s very clear more and more people are discovering that too.]]>
+      </description>
+      <source:markdown>I’ve been terribly sick for a few days so we’ve got some catching up to. Let’s first take a look at how Windows is doing. People often say Linux is “too much work.” And I agree. They’re completely justified to complain. There’s the documentation page diving, the forums, the reddit threads. And, most importantly, you have to basically rewire your brain and stop expecting it to behave like Windows used to. But I looked at the list above and realized: Windows is now also too much work. And the difference with Windows is that you’re going to do all that work while actively fighting your computer only for it to be undone when the next surprise update comes and ruins everything. You might be thinking “just disable updates, man” or “just install LTSC”, or “just run some random debloat script off of GitHub”. Why? Why would I jump through all these hoops? I’d rather put in the effort for an OS that knows what consent is and respects me as a user. ↫ Bogdan-Mihai Mosteanu You know how in most theme parks they have various different rides for all kinds of people? There’s the wild and crazy over-the-top deathcoasters for the ultimate thrill seekers, the more gentle wooden coasters for those who like a thrill, but not over-the-top. There’s the swinging ship-type things for thrill-seeking accountants who seek their thrills predictably. There’s a game of Russian roulette played in the backlot. For the kids, there’s the classic spinning tea cups. And then there’s the public transport service dressed up as an old-timey steam train that just brings you to your destination without any issue, silently doing its thing, the unsung backbone of park logistics. Commercial operating systems like Windows and macOS are the games of Russian roulette, predictably unexpectedly shooting you in the face every sixth time you pull the trigger. That’s not my vibe. I want my operating system to be that steam train, and desktop Linux is the only thing that fits that bill – and it’s very clear more and more people are discovering that too.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144290</guid>
+    </item>    <item>
+      <title>Everybody is WinRAR phishing, dropping RATs as fast as lightning</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/winrar_bug_under_attack/</link>
+      <description>
+        <![CDATA[<h4>Russians, Chinese spies, run-of-the-mill crims …</h4> <p>Come one, come all. Everyone from Russian and Chinese government goons to financially motivated miscreants is exploiting a long-since-patched WinRAR vuln to bring you infostealers and Remote Access Trojans (RATs).…</p>]]>
+      </description>
+      <source:markdown>#### Russians, Chinese spies, run-of-the-mill crims …
+
+Come one, come all. Everyone from Russian and Chinese government goons to financially motivated miscreants is exploiting a long-since-patched WinRAR vuln to bring you infostealers and Remote Access Trojans (RATs).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244222</guid>
+    </item>    <item>
+      <title>The Mystery of the Missing Robert Burns Painting Has Finally Been Solved—After 200 Years of Searches and Seances</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-mystery-of-the-missing-robert-burns-painting-has-finally-been-solved-after-200-years-of-searches-and-seances-180988068/</link>
+      <description>
+        <![CDATA[The portrait of the renowned Scottish poet vanished without a trace in 1840. Since then, scholars and sleuths alike have been strategizing about how to get it back]]>
+      </description>
+      <source:markdown>The portrait of the renowned Scottish poet vanished without a trace in 1840. Since then, scholars and sleuths alike have been strategizing about how to get it back</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZKUV-qPkFfFgdynde3KHfjJ9jSs=/420x240/filters:focal(2828x1912:2829x1913)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/56/fc56e558-3c22-4d48-b776-43a7b1960f3e/gettyimages-2256966828.jpg" length="27011490" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-mystery-of-the-missing-robert-burns-painting-has-finally-been-solved-after-200-years-of-searches-and-seances-180988068/</guid>
+    </item>    <item>
+      <title>Microsoft plans more server farms, despite water worries</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/microsoft_more_server_farms/</link>
+      <description>
+        <![CDATA[<h4>Redmond has pledged to be carbon-negative by 2030</h4> <p>It&#39;s no secret that datacenters use a ton of water for cooling, a demand that can strain local supplies. Despite reported internal forecasts showing sharply higher water use by 2030, Microsoft continues to splash cash on new AI bit barns.…</p>]]>
+      </description>
+      <source:markdown>#### Redmond has pledged to be carbon-negative by 2030
+
+It&#39;s no secret that datacenters use a ton of water for cooling, a demand that can strain local supplies. Despite reported internal forecasts showing sharply higher water use by 2030, Microsoft continues to splash cash on new AI bit barns.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244219</guid>
+    </item>    <item>
+      <title>Networks Keeping NASA’s Artemis II Mission Connected</title>
+      <link>https://www.nasa.gov/missions/artemis/networks-keeping-nasas-artemis-ii-mission-connected/</link>
+      <description>
+        <![CDATA[NASA’s Artemis II mission will transport four astronauts around the Moon, bringing the agency one step closer to sending the first astronauts to Mars. Throughout Artemis II, astronaut voice, images, video, and vital mission data must traverse thousands of miles, carried on signals from NASA’s communications systems. Through Artemis, NASA is establishing an enduring presence [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Artemis II mission will transport four astronauts around the Moon, bringing the agency one step closer to sending the first astronauts to Mars. Throughout Artemis II, astronaut voice, images, video, and vital mission data must traverse thousands of miles, carried on signals from NASA’s communications systems. Through Artemis, NASA is establishing an enduring presence \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=944252</guid>
+    </item>    <item>
+      <title>See the Most Detailed Map of Dark Matter Ever Made, Bringing Astronomers a Step Closer to Unraveling Its Mysterious Nature</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-most-detailed-map-of-dark-matter-ever-made-bringing-astronomers-a-step-closer-to-unraveling-its-mysterious-nature-180988076/</link>
+      <description>
+        <![CDATA[The invisible stuff makes up about 85 percent of all matter in the universe, but researchers know little about it]]>
+      </description>
+      <source:markdown>The invisible stuff makes up about 85 percent of all matter in the universe, but researchers know little about it</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/f54kycqaHKNzivzn1PxNgfm68mA=/420x240/filters:focal(2643x2945:2644x2946)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/af/08af1392-532d-4183-a832-7a14d0e1fcdb/1-pia26702.jpg" length="16551290" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-most-detailed-map-of-dark-matter-ever-made-bringing-astronomers-a-step-closer-to-unraveling-its-mysterious-nature-180988076/</guid>
+    </item>    <item>
+      <title>Yes, you can build an AI agent - here’s how, using LangFlow</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/a_beginners_guide_to_ai_agents/</link>
+      <description>
+        <![CDATA[<h4>AI automation, now as simple as point, click, drag, and drop</h4> <p><strong>Hands On</strong>  For all the buzz surrounding them, AI agents are simply another form of automation that can perform tasks using the tools you&#39;ve provided. Think of them as smart macros that make decisions and go beyond simple if/then rules to handle edge cases in input data. Fortunately, it&#39;s easy enough to code your own agents and below we&#39;ll show you how.…</p>]]>
+      </description>
+      <source:markdown>#### AI automation, now as simple as point, click, drag, and drop
+
+**Hands On**  For all the buzz surrounding them, AI agents are simply another form of automation that can perform tasks using the tools you&#39;ve provided. Think of them as smart macros that make decisions and go beyond simple if/then rules to handle edge cases in input data. Fortunately, it&#39;s easy enough to code your own agents and below we&#39;ll show you how.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244208</guid>
+    </item>    <item>
+      <title>NASA Telescopes Spot Surprisingly Mature Cluster in Early Universe</title>
+      <link>https://www.nasa.gov/missions/chandra/nasa-telescopes-spot-surprisingly-mature-cluster-in-early-universe/</link>
+      <description>
+        <![CDATA[A new discovery captures the cosmic moment when a galaxy cluster – among the largest structures in the universe – started to assemble only about a billion years after the big bang, one or two billion years earlier than previously thought. This result, made using NASA’s Chandra X-ray Observatory and James Webb Space Telescope, will [&#8230;]]]>
+      </description>
+      <source:markdown>A new discovery captures the cosmic moment when a galaxy cluster – among the largest structures in the universe – started to assemble only about a billion years after the big bang, one or two billion years earlier than previously thought. This result, made using NASA’s Chandra X-ray Observatory and James Webb Space Telescope, will \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=949295</guid>
+    </item>    <item>
+      <title>Fortinet unearths another critical bug as SSO accounts borked post-patch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/fortinet_forticloud_vuln/</link>
+      <description>
+        <![CDATA[<h4>More work for admins on the cards as they await a full dump of fixes</h4> <p>Things aren&#39;t over yet for Fortinet customers – the security shop has disclosed yet another critical FortiCloud SSO vulnerability.…</p>]]>
+      </description>
+      <source:markdown>#### More work for admins on the cards as they await a full dump of fixes
+
+Things aren&#39;t over yet for Fortinet customers – the security shop has disclosed yet another critical FortiCloud SSO vulnerability.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244217</guid>
+    </item>    <item>
+      <title>Chandra, Webb Catch Twinkling Lights</title>
+      <link>https://www.nasa.gov/image-article/chandra-webb-catch-twinkling-lights/</link>
+      <description>
+        <![CDATA[Data from Chandra adds red, green, and blue twinkling lights in this Dec. 22, 2025, image of Pismis 24 from NASA’s James Webb Space Telescope. Pismis 24 is a young cluster of stars&#160;in the core of the nearby Lobster Nebula, approximately 5,500 light-years from Earth in the constellation Scorpius. Home to a vibrant stellar nursery [&#8230;]]]>
+      </description>
+      <source:markdown>Data from Chandra adds red, green, and blue twinkling lights in this Dec. 22, 2025, image of Pismis 24 from NASA’s James Webb Space Telescope. Pismis 24 is a young cluster of stars in the core of the nearby Lobster Nebula, approximately 5,500 light-years from Earth in the constellation Scorpius. Home to a vibrant stellar nursery \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=948733</guid>
+    </item>    <item>
+      <title>AI agent hype cools as enterprises struggle to get into production</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/ai_agents_redis/</link>
+      <description>
+        <![CDATA[<h4>Only the biggest businesses are up to the challenge, says Redis CEO</h4> <p>Anyone scanning the news might think it&#39;s pedal to the metal as far as AI agent implementations go, but there is a slump in rollouts as many organizations figure out what to do next, Redis CEO Rowan Trollope told <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Only the biggest businesses are up to the challenge, says Redis CEO
+
+Anyone scanning the news might think it&#39;s pedal to the metal as far as AI agent implementations go, but there is a slump in rollouts as many organizations figure out what to do next, Redis CEO Rowan Trollope told _The Register_.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story244216</guid>
+    </item>    <item>
       <title>Networks Hold the Key to a Decades-Old Problem About Waves</title>
       <link>https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/</link>
       <description>
@@ -35,13 +191,13 @@ The post [Networks Hold the Key to a Decades-Old Problem About Waves](https://ww
       <source:markdown>NASA’s James Webb Space Telescope has topped itself once again, delivering on its promise to push the boundaries of the observable universe closer to cosmic dawn with the confirmation of a bright galaxy that existed 280 million years after the big bang. By now Webb has established that it will eventually surpass virtually every benchmark \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/</guid>
     </item>    <item>
-      <title>Mummified Cheetahs Discovered in Caves Could Help Saudi Arabia Bring the Wild Cat Back to Its Historic Range</title>
+      <title>Mummified Cheetahs Discovered in Caves Could Help Saudi Arabia Bring the Wild Cat Back to Its Historical Range</title>
       <link>https://www.smithsonianmag.com/smart-news/mummified-cheetahs-discovered-in-caves-could-help-saudi-arabia-bring-the-wild-cat-back-to-its-historic-range-180988075/</link>
       <description>
         <![CDATA[Researchers thought that just one subspecies of cheetah lived in Saudi Arabia long ago. But an unexpected discovery seems to broaden the gene pool]]>
       </description>
       <source:markdown>Researchers thought that just one subspecies of cheetah lived in Saudi Arabia long ago. But an unexpected discovery seems to broaden the gene pool</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Dj7-7dPaIGEEQqhF8X2EJdEr85A=/420x240/filters:focal(544x370:545x371)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/27/a427f684-7959-4e07-96e8-8dafb54ab7b3/screenshot_2026-01-27_at_51328pm.png" length="962240" type="image/png" />
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/h6hHwjLZ4RhGrfy-kvxw7jm1iEk=/420x240/filters:focal(544x368:545x369)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/27/a427f684-7959-4e07-96e8-8dafb54ab7b3/screenshot_2026-01-27_at_51328pm.png" length="962240" type="image/png" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/mummified-cheetahs-discovered-in-caves-could-help-saudi-arabia-bring-the-wild-cat-back-to-its-historic-range-180988075/</guid>
     </item>    <item>
       <title>Flush with cash, SK hynix spawns mysteriously named &#39;AI Co.&#39;</title>
@@ -137,11 +293,11 @@ Microsoft Azure, or at least the part of it that handles the OpenAI service in t
       <title>UK tax collector plans £2B tech binge as legacy systems refuse to die</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/01/28/hmrc_tech_pipeline/</link>
       <description>
-        <![CDATA[<h4>AWS and Capgemini loom large in HMRC&#39;s procurement pipeline</h4> <p>The UK&#39;s tax collector is budgeting to spend more than £2 billion on new tech deals in the next couple of years, including a contract set for AWS and another for Capgemini to be awarded without competition.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>AWS and Capgemini loom large in HMRC&#39;s procurement pipeline</h4> <p><strong>Updated</strong>  The UK&#39;s tax collector is budgeting to spend more than £2 billion on new tech deals in the next couple of years, including a contract set for AWS and another for Capgemini to be awarded without competition.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <source:markdown>#### AWS and Capgemini loom large in HMRC&#39;s procurement pipeline
 
-The UK&#39;s tax collector is budgeting to spend more than £2 billion on new tech deals in the next couple of years, including a contract set for AWS and another for Capgemini to be awarded without competition.…</source:markdown>
+**Updated**  The UK&#39;s tax collector is budgeting to spend more than £2 billion on new tech deals in the next couple of years, including a contract set for AWS and another for Capgemini to be awarded without competition.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244198</guid>
     </item>    <item>
       <title>Britain&#39;s Ministry of Defence signs on the dotted line with Palantir</title>
@@ -198,9 +354,9 @@ Learn more about sponsor message choices: [podcastchoices.com/adchoices](https:/
       <title>NASA Testing Advances Space Nuclear Propulsion Capabilities</title>
       <link>https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-testing-advances-space-nuclear-propulsion-capabilities/</link>
       <description>
-        <![CDATA[Written by Daniel Boyette Nuclear propulsion and power technologies could unlock new frontiers in missions to the Moon, Mars, and beyond. NASA has reached an important milestone advancing nuclear propulsion that could benefit future deep space missions by completing a cold-flow test campaign of the first flight reactor engineering development unit since the 1960s. “Nuclear [&#8230;]]]>
+        <![CDATA[Nuclear propulsion and power technologies could unlock new frontiers in missions to the Moon, Mars, and beyond. NASA has reached an important milestone advancing nuclear propulsion that could benefit future deep space missions by completing a cold-flow test campaign of the first flight reactor engineering development unit since the 1960s. “Nuclear propulsion has multiple benefits [&#8230;]]]>
       </description>
-      <source:markdown>Written by Daniel Boyette Nuclear propulsion and power technologies could unlock new frontiers in missions to the Moon, Mars, and beyond. NASA has reached an important milestone advancing nuclear propulsion that could benefit future deep space missions by completing a cold-flow test campaign of the first flight reactor engineering development unit since the 1960s. “Nuclear \[…\]</source:markdown>
+      <source:markdown>Nuclear propulsion and power technologies could unlock new frontiers in missions to the Moon, Mars, and beyond. NASA has reached an important milestone advancing nuclear propulsion that could benefit future deep space missions by completing a cold-flow test campaign of the first flight reactor engineering development unit since the 1960s. “Nuclear propulsion has multiple benefits \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?p=949054</guid>
     </item>    <item>
       <title>Discovery Alert: An Ice-Cold Earth?</title>
@@ -269,9 +425,9 @@ The mobile app emperors have no clothes. Apple and Google have made millions of 
       <title>Widely Attended Gatherings (WAGs) Determinations</title>
       <link>https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/</link>
       <description>
-        <![CDATA[2026 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis II Rollout Reception 1.14.26 Maryland Space Business Roundtable 1.14.26 2025 Commercial Space Federation 12.9.25 Ansys Government Initiatives (AGI) 12.16.25 Maryland Space Business Roundtable (MSBR) 12.10.25 Women [&#8230;]]]>
+        <![CDATA[2026 Cheniere Energy at the National Portrait Gallery 1.28.26 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis II Rollout Reception 1.14.26 Maryland Space Business Roundtable 1.14.26 2025 Commercial Space Federation 12.9.25 Ansys Government Initiatives (AGI) [&#8230;]]]>
       </description>
-      <source:markdown>2026 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis II Rollout Reception 1.14.26 Maryland Space Business Roundtable 1.14.26 2025 Commercial Space Federation 12.9.25 Ansys Government Initiatives (AGI) 12.16.25 Maryland Space Business Roundtable (MSBR) 12.10.25 Women \[…\]</source:markdown>
+      <source:markdown>2026 Cheniere Energy at the National Portrait Gallery 1.28.26 Leaders for a Better Louisiana at Adams and Reese 1.28.26 California Manufacturers and Technology Association Reception 1.23.26 Goddard Memorial Dinner 3.13.26 ISS 25th Anniversary 1.19.26 2026 Amentum Artemis II Rollout Reception 1.14.26 Maryland Space Business Roundtable 1.14.26 2025 Commercial Space Federation 12.9.25 Ansys Government Initiatives (AGI) \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?migration=converted-node-367636</guid>
     </item>    <item>
       <title>Archaeologists Unearthed a 430,000-Year-Old Stick. After Careful Analysis, They Say It Could Be the Oldest Wooden Tool Ever Discovered</title>
@@ -5847,347 +6003,6 @@ Cloudflare has poured cold water on a theory that the USA’s incursion into Ven
         <![CDATA[After a four-decade run, the massive, waterlogged berg is leaking meltwater and on the verge of disintegrating.]]>
       </description>
       <source:markdown>After a four-decade run, the massive, waterlogged berg is leaking meltwater and on the verge of disintegrating.</source:markdown>
-    </item>    <item>
-      <title>AMD threatens to go medieval on Nvidia with Epyc and Instinct: What we know so far</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/mi500x_amd_ai/</link>
-      <description>
-        <![CDATA[<h4>AMD boasts 1000x higher AI perf by 2027 and pulls the lid off Helios compute tray ahead of 2H 2026 launch</h4> <p>AMD teased its next-generation of AI accelerators at CES 2026, with CEO Lisa Su boasting the the MI500-series will deliver a 1,000x uplift in performance over its two-year-old MI300X GPUs.…</p>]]>
-      </description>
-      <source:markdown>#### AMD boasts 1000x higher AI perf by 2027 and pulls the lid off Helios compute tray ahead of 2H 2026 launch
-
-AMD teased its next-generation of AI accelerators at CES 2026, with CEO Lisa Su boasting the the MI500-series will deliver a 1,000x uplift in performance over its two-year-old MI300X GPUs.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243845</guid>
-    </item>    <item>
-      <title>NASA Celebrates Artemis II During Houston Texans Space City Day</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-artemis-ii-during-houston-texans-space-city-day/</link>
-      <description>
-        <![CDATA[NASA’s Johnson Space Center&#160;was front and center&#160;Jan. 4, 2026, as the Houston Texans&#160;faced&#160;the Indianapolis Colts&#160;during&#160;Space City Day at&#160;NRG Stadium.&#160;Fans watched&#160;the&#160;Texans win&#160;while getting a close look at NASA’s&#160;Artemis II mission, the first crewed&#160;flight&#160;of the Artemis campaign.&#160; The Artemis II mission will send four astronauts—NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Johnson Space Center was front and center Jan. 4, 2026, as the Houston Texans faced the Indianapolis Colts during Space City Day at NRG Stadium. Fans watched the Texans win while getting a close look at NASA’s Artemis II mission, the first crewed flight of the Artemis campaign.  The Artemis II mission will send four astronauts—NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=942629</guid>
-    </item>    <item>
-      <title>IBM&#39;s AI agent Bob easily duped to run malware, researchers show</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/ibm_bob_vulnerability/</link>
-      <description>
-        <![CDATA[<h4>Prompt injection lets risky commands slip past guardrails</h4> <p>IBM describes its coding agent thus: &#34;Bob is your AI software development partner that understands your intent, repo, and security standards.&#34; Unfortunately, Bob doesn&#39;t always follow those security standards.…</p>]]>
-      </description>
-      <source:markdown>#### Prompt injection lets risky commands slip past guardrails
-
-IBM describes its coding agent thus: &#34;Bob is your AI software development partner that understands your intent, repo, and security standards.&#34; Unfortunately, Bob doesn&#39;t always follow those security standards.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243843</guid>
-    </item>    <item>
-      <title>Earthquakes Deep Below Antarctic Waters Seem to Have Surprising Effects on Life at the Surface</title>
-      <link>https://www.smithsonianmag.com/smart-news/earthquakes-deep-below-antarctic-waters-seem-to-have-surprising-effects-on-life-at-the-surface-180987965/</link>
-      <description>
-        <![CDATA[Quakes may cause ocean floor vents to release more nutrients, triggering blooms in plantlike organisms called phytoplankton in the Southern Ocean]]>
-      </description>
-      <source:markdown>Quakes may cause ocean floor vents to release more nutrients, triggering blooms in plantlike organisms called phytoplankton in the Southern Ocean</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Z5UwQj8YCGASjZuibHVdO8if4KU=/420x240/filters:focal(421x300:422x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/96/1f966e8c-d14a-4d67-88ae-d38f45396042/nasa_satellite_view_of_southern_ocean_phytoplankton_bloom_crop.jpg" length="619889" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/earthquakes-deep-below-antarctic-waters-seem-to-have-surprising-effects-on-life-at-the-surface-180987965/</guid>
-    </item>    <item>
-      <title>This Is the Only Museum Dedicated to Weather Artifacts in America. It May Shut Down Due to Funding Shortages</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-is-the-only-museum-dedicated-to-weather-artifacts-in-america-it-may-shut-down-due-to-funding-shortages-180987962/</link>
-      <description>
-        <![CDATA[The Oklahoma institution, which preserves and displays historic weather-related objects, is asking for donations from the public]]>
-      </description>
-      <source:markdown>The Oklahoma institution, which preserves and displays historic weather-related objects, is asking for donations from the public</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1gdsCfvi0O_oWn16Ky9Ivdo_Lbw=/420x240/filters:focal(1960x1400:1961x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/66/cb66290d-3950-4df4-a5cd-2561e7b17ac8/54213853757_7beee669d7_o.jpg" length="2824525" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-is-the-only-museum-dedicated-to-weather-artifacts-in-america-it-may-shut-down-due-to-funding-shortages-180987962/</guid>
-    </item>    <item>
-      <title>25 Years in Orbit: Science, Innovation, and the Future of Exploration</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/25-years-in-orbit-science-innovation-and-the-future-of-exploration/</link>
-      <description>
-        <![CDATA[NASA and its partners have supported humans continuously living and working in space since November 2000. A truly global endeavor, the International Space Station has been visited by more than 290 people from 26 countries and a variety of international and commercial spacecraft. The unique microgravity laboratory has hosted more than 4,000 experiments from over [&#8230;]]]>
-      </description>
-      <source:markdown>NASA and its partners have supported humans continuously living and working in space since November 2000. A truly global endeavor, the International Space Station has been visited by more than 290 people from 26 countries and a variety of international and commercial spacecraft. The unique microgravity laboratory has hosted more than 4,000 experiments from over \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=931020</guid>
-    </item>    <item>
-      <title>New carbon capture tech could save us from datacenter doom</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/new_carbon_capture_tech/</link>
-      <description>
-        <![CDATA[<h4>Maybe our AI overlords, hell-bent on securing power any way they can, should invest in getting this to market</h4> <p>Researchers in Finland have found a new way to capture carbon dioxide from ambient air that they say is more efficient than existing methods, cheap to produce, reusable, and allows for easy recycling of captured CO₂. …</p>]]>
-      </description>
-      <source:markdown>#### Maybe our AI overlords, hell-bent on securing power any way they can, should invest in getting this to market
-
-Researchers in Finland have found a new way to capture carbon dioxide from ambient air that they say is more efficient than existing methods, cheap to produce, reusable, and allows for easy recycling of captured CO₂. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243844</guid>
-    </item>    <item>
-      <title>British Palantir rival, whose founder touted UK tech sovereignty, sells to Accenture</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/accenture_acquires_palantir_uk_rival_faculty/</link>
-      <description>
-        <![CDATA[<h4>Let the co-opetition commence</h4> <p>Accenture plans to buy UK-based AI firm Faculty, a Palantir competitor, and onboard the company’s CEO as Accenture’s new chief technology officer. The move suggests the two companies, while partners today, could start taking each others&#39; business.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Let the co-opetition commence
-
-Accenture plans to buy UK-based AI firm Faculty, a Palantir competitor, and onboard the company’s CEO as Accenture’s new chief technology officer. The move suggests the two companies, while partners today, could start taking each others&#39; business.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243842</guid>
-    </item>    <item>
-      <title>SanDisk heals WD Black and Blues, rebrands beloved client SSDs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/sandisk_heals_wds_black_and_blues/</link>
-      <description>
-        <![CDATA[<h4>NVMe drives to live on under the Optimus banner</h4> <p>WD Black and Blue SSDs are some of the most widely recognized client drives on the market, but their branding is about to disappear. Following Western Digital&#39;s flash-business spinoff, SanDisk announced it was retiring the beloved names and rebranding its NVMe lineup under the SANDISK Optimus banner.…</p>]]>
-      </description>
-      <source:markdown>#### NVMe drives to live on under the Optimus banner
-
-WD Black and Blue SSDs are some of the most widely recognized client drives on the market, but their branding is about to disappear. Following Western Digital&#39;s flash-business spinoff, SanDisk announced it was retiring the beloved names and rebranding its NVMe lineup under the SANDISK Optimus banner.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243840</guid>
-    </item>    <item>
-      <title>The British Museum Plans to Hire a Treasure Hunter. Duties Include Recovering Missing Artifacts Before They&#39;re Lost to History</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-british-museum-plans-to-hire-a-treasure-hunter-duties-include-recovering-missing-artifacts-before-theyre-lost-to-history-180987954/</link>
-      <description>
-        <![CDATA[The museum announced in 2023 that 1,500 items were missing. More than 600 have since been found, and officials are now hoping to expand the recovery effort]]>
-      </description>
-      <source:markdown>The museum announced in 2023 that 1,500 items were missing. More than 600 have since been found, and officials are now hoping to expand the recovery effort</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/87Q1_aOzRcoCWwd5pFzuNk9neGg=/420x240/filters:focal(500x386:501x387)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/79/5679eed5-439c-4db4-9d71-afa236373e04/1276427001.jpg" length="205275" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-british-museum-plans-to-hire-a-treasure-hunter-duties-include-recovering-missing-artifacts-before-theyre-lost-to-history-180987954/</guid>
-    </item>    <item>
-      <title>ESA calls cops as crims lift off 500 GB of files, say security black hole still open</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/european_space_agency_breach_criminal_probe/</link>
-      <description>
-        <![CDATA[<h4>Two weeks, two major data leaks … not a good look for the European Space Agency</h4> <p><strong>exclusive</strong>  The European Space Agency on Wednesday confirmed yet another massive security breach, and told <em>The Register</em> that the data thieves responsible will be subject to a criminal investigation. And this could be a biggie.…</p>]]>
-      </description>
-      <source:markdown>#### Two weeks, two major data leaks … not a good look for the European Space Agency
-
-**exclusive**  The European Space Agency on Wednesday confirmed yet another massive security breach, and told _The Register_ that the data thieves responsible will be subject to a criminal investigation. And this could be a biggie.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243839</guid>
-    </item>    <item>
-      <title>Stalkerware slinger pleads guilty for selling snooper software to suspicious spouses</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/stalkerware_slinger_pleads_guilty/</link>
-      <description>
-        <![CDATA[<h4>pcTattletale boss Bryan Fleming faces up to 15 years in prison when sentenced later this year</h4> <p>The US government has secured a guilty plea from a stalkerware maker in federal court, marking just the second time in more than a decade that the US has managed to prosecute a consumer spyware vendor successfully. …</p>]]>
-      </description>
-      <source:markdown>#### pcTattletale boss Bryan Fleming faces up to 15 years in prison when sentenced later this year
-
-The US government has secured a guilty plea from a stalkerware maker in federal court, marking just the second time in more than a decade that the US has managed to prosecute a consumer spyware vendor successfully. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243837</guid>
-    </item>    <item>
-      <title>FAA signs radar deals to drag US air traffic control out of the 1980s</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/faa_radar_atc_deals/</link>
-      <description>
-        <![CDATA[<h4>RTX and Indra land contracts as long-delayed overhaul moves ahead</h4> <p>The US government has announced contracts for new radar infrastructure as part of its long-running effort to replace the country&#39;s aging air traffic control system.…</p>]]>
-      </description>
-      <source:markdown>#### RTX and Indra land contracts as long-delayed overhaul moves ahead
-
-The US government has announced contracts for new radar infrastructure as part of its long-running effort to replace the country&#39;s aging air traffic control system.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243836</guid>
-    </item>    <item>
-      <title>Historic NASA test towers face their final countdown</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/nasa_test_stand_demolition/</link>
-      <description>
-        <![CDATA[<h4>Apollo-era Saturn V and Shuttle stands set for controlled demolition as Artemis ramps up</h4> <p>With less than a month to go until NASA attempts to send astronauts around the Moon, the agency is demolishing facilities that got it there the first time around.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Apollo-era Saturn V and Shuttle stands set for controlled demolition as Artemis ramps up
-
-With less than a month to go until NASA attempts to send astronauts around the Moon, the agency is demolishing facilities that got it there the first time around.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243834</guid>
-    </item>    <item>
-      <title>Firefox on POWER9: the JIT of it</title>
-      <link>https://www.osnews.com/story/144144/firefox-on-power9-the-jit-of-it/</link>
-      <description>
-        <![CDATA[Four years ago, I reviewed a truly fully open source desktop computer, from operating system down to firmware: the Raptor Blackbird, built entirely around IBM&#8217;s POWER9 processor. The overall conclusion was that using was mostly an entirely boring experience, which was a very good thing &#8211; usually ideologically-fueled computers come with a ton of downsides and limitations for average users, but Raptor&#8217;s POWER9 machines bucked this trend by presenting a bog-standard, run-of-the-mill desktop Linux experience, almost indistinguishable from using an x86 machine. Almost indistinguishable. The one thing that was missing from using desktop Linux on POWER9 was Firefox&#8217; JIT, which meant that many websites, especially more complex ones, would bring the browsing experience down to a crawl. One area where this affected me quite a bit was our own WordPress backend, which is effectively unusable on Firefox without its JIT. The only other option was to use Chromium, which was fully ported to POWER9 &#8211; but I don&#8217;t like Chromium, and want to use Firefox to be able to share tabs, history, passwords, and so on. Since then, back in 2021, things have improved. The ongoing effort to port Firefox&#8217; JIT to POWER9, led by Cameron Kaiser, made a ton of progress, to the point where community Firefox builds with Kaiser&#8217;s JIT integrated became available through a dedicated Fedora copr. Sadly, the last build is from four months ago, and covers Firefox 128.14.0-1, an old ESR release. Since I recently set up the other machine Raptor sent to me &#8211; a Talos II workstation with two POWER9 processors &#8211; I was curious what the state of the POWER9 JIT effort was, so I inquired on the related bug report for Firefox. Kaiser replied, and explained that due to a critical error with wasm against later versions of the JIT, as well as a change in his personal circumstances forcing him to work on this effort remotely &#8211; obviously not great for a client application like Firefox &#8211; there simply hasn&#8217;t been much progress, until last week (what a coincidence!). Last week I took some time off work and dragged the JIT up to the current ESR. This compiles and links. However, although it passes the majority of the test suite, there are still too many serious failures to make it useable. I&#8217;m continuing work on this in whatever free time I actually have on my workstation. If I can restore test compliance in Baseline mode, this would suffice for a community third-party build like what Dan Horak generates now, since that is what is in 128. To get it in tree, however, I would also need to solve that critical wasm fault which manifested in the interim and fix the remaining gaps in the CodeGenerator to get it to a point of sufficient quality. ↫ Cameron Kaiser There are two main problems at the moment that make it harder than it needs to be to work on this effort. First, the state of debugging tools on ppc64le &#8211; to which POWER9 belongs &#8211; is apparently not great, requiring Kaiser to step through thousands of instructions manually using gdb just to fix the last bug he discovered. That&#8217;s clearly deeply suboptimal, not fun, and not something somebody should spend their precious free time on. At this point in the discussion, Raptor&#8217;s Timothy Pearson jumped in and noted that getting rr-debugger to work on POWER9 is something Raptor would be interested in, but it wouldn&#8217;t be cheap: On the topic of the debugger (rr-debugger), while this isn&#8217;t on our internal roadmap at the moment it is something that Raptor could do under a development contract. The main question is whether there is enough interest to make that viable; the work is significant so the cost would probably be in the mid to upper 5 figures range (USD), assuming no major roadblocks are discovered. When I was looking into it before I was fairly certain the PMU on POWER9 supports the overall structure of rr-debugger&#8217;s methods, and that our load-store idioms are generally compatible. The former is what stops it working on most arm64 devices IIRC, and the latter is relevant mainly to non-POWER RISC architectures. ↫ Timothy Pearson Kaiser noted that while having rr-debugger available wouldn&#8217;t be a magic bullet, it would make the whole process a lot easier. The second major issue is, of course, the same one as it always is for such niche efforts: a lack of manpower. According to Kaiser, there&#8217;s enough interest and awareness in getting Firefox&#8217; JIT ported to POWER9, with the real problem being that there simply aren&#8217;t a lot of people with enough knowledge of both Firefox&#8217; JIT and the modern ppc64le ISA. Understandably, Kaiser would like to avoid having to deal with people who are well-intentioned but don&#8217;t fully grasp the complexity of the undertaking at hand. This is not exactly an easy effort, and it&#8217;s honestly downright amazing how far along the project already is. Even if it&#8217;s an older version, being able to run Firefox 128ESR on POWER9 with a working JIT makes such a huge difference to the overall desktop user experience, and I&#8217;m sure I speak for the entire POWER9 community when I say I&#8217;m incredibly grateful for it. Still, it would be amazing if we could find someone with just the right skillset to help Kaiser out, to be able to get the JIT stable enough again for community Firefox builds &#8211; and perhaps even look at what lies beyond: getting it upstreamed into Firefox as a whole. The odds of finding that person are slim &#8211; if you&#8217;re into this sort of stuff, you&#8217;re most likely already aware of the POWER9 JIT effort &#8211; but who knows, maybe shining some renewed light on this task will make a difference. If you happen to have the right skillset and appreciate the complexities involved in this effort, you might want to reach out.]]>
-      </description>
-      <source:markdown>Four years ago, I reviewed a truly fully open source desktop computer, from operating system down to firmware: the Raptor Blackbird, built entirely around IBM’s POWER9 processor. The overall conclusion was that using was mostly an entirely boring experience, which was a very good thing – usually ideologically-fueled computers come with a ton of downsides and limitations for average users, but Raptor’s POWER9 machines bucked this trend by presenting a bog-standard, run-of-the-mill desktop Linux experience, almost indistinguishable from using an x86 machine. Almost indistinguishable. The one thing that was missing from using desktop Linux on POWER9 was Firefox’ JIT, which meant that many websites, especially more complex ones, would bring the browsing experience down to a crawl. One area where this affected me quite a bit was our own WordPress backend, which is effectively unusable on Firefox without its JIT. The only other option was to use Chromium, which was fully ported to POWER9 – but I don’t like Chromium, and want to use Firefox to be able to share tabs, history, passwords, and so on. Since then, back in 2021, things have improved. The ongoing effort to port Firefox’ JIT to POWER9, led by Cameron Kaiser, made a ton of progress, to the point where community Firefox builds with Kaiser’s JIT integrated became available through a dedicated Fedora copr. Sadly, the last build is from four months ago, and covers Firefox 128.14.0-1, an old ESR release. Since I recently set up the other machine Raptor sent to me – a Talos II workstation with two POWER9 processors – I was curious what the state of the POWER9 JIT effort was, so I inquired on the related bug report for Firefox. Kaiser replied, and explained that due to a critical error with wasm against later versions of the JIT, as well as a change in his personal circumstances forcing him to work on this effort remotely – obviously not great for a client application like Firefox – there simply hasn’t been much progress, until last week (what a coincidence!). Last week I took some time off work and dragged the JIT up to the current ESR. This compiles and links. However, although it passes the majority of the test suite, there are still too many serious failures to make it useable. I’m continuing work on this in whatever free time I actually have on my workstation. If I can restore test compliance in Baseline mode, this would suffice for a community third-party build like what Dan Horak generates now, since that is what is in 128. To get it in tree, however, I would also need to solve that critical wasm fault which manifested in the interim and fix the remaining gaps in the CodeGenerator to get it to a point of sufficient quality. ↫ Cameron Kaiser There are two main problems at the moment that make it harder than it needs to be to work on this effort. First, the state of debugging tools on ppc64le – to which POWER9 belongs – is apparently not great, requiring Kaiser to step through thousands of instructions manually using gdb just to fix the last bug he discovered. That’s clearly deeply suboptimal, not fun, and not something somebody should spend their precious free time on. At this point in the discussion, Raptor’s Timothy Pearson jumped in and noted that getting rr-debugger to work on POWER9 is something Raptor would be interested in, but it wouldn’t be cheap: On the topic of the debugger (rr-debugger), while this isn’t on our internal roadmap at the moment it is something that Raptor could do under a development contract. The main question is whether there is enough interest to make that viable; the work is significant so the cost would probably be in the mid to upper 5 figures range (USD), assuming no major roadblocks are discovered. When I was looking into it before I was fairly certain the PMU on POWER9 supports the overall structure of rr-debugger’s methods, and that our load-store idioms are generally compatible. The former is what stops it working on most arm64 devices IIRC, and the latter is relevant mainly to non-POWER RISC architectures. ↫ Timothy Pearson Kaiser noted that while having rr-debugger available wouldn’t be a magic bullet, it would make the whole process a lot easier. The second major issue is, of course, the same one as it always is for such niche efforts: a lack of manpower. According to Kaiser, there’s enough interest and awareness in getting Firefox’ JIT ported to POWER9, with the real problem being that there simply aren’t a lot of people with enough knowledge of both Firefox’ JIT and the modern ppc64le ISA. Understandably, Kaiser would like to avoid having to deal with people who are well-intentioned but don’t fully grasp the complexity of the undertaking at hand. This is not exactly an easy effort, and it’s honestly downright amazing how far along the project already is. Even if it’s an older version, being able to run Firefox 128ESR on POWER9 with a working JIT makes such a huge difference to the overall desktop user experience, and I’m sure I speak for the entire POWER9 community when I say I’m incredibly grateful for it. Still, it would be amazing if we could find someone with just the right skillset to help Kaiser out, to be able to get the JIT stable enough again for community Firefox builds – and perhaps even look at what lies beyond: getting it upstreamed into Firefox as a whole. The odds of finding that person are slim – if you’re into this sort of stuff, you’re most likely already aware of the POWER9 JIT effort – but who knows, maybe shining some renewed light on this task will make a difference. If you happen to have the right skillset and appreciate the complexities involved in this effort, you might want to reach out.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144144</guid>
-    </item>    <item>
-      <title>Lightning from Above</title>
-      <link>https://www.nasa.gov/image-article/lightning-from-above/</link>
-      <description>
-        <![CDATA[NASA astronaut Nichole Ayers captured this image of lightning while orbiting aboard the International Space Station more than 250 miles above Milan, Italy on July 1, 2025. Storm observations from space station help scientists study Earth’s upper atmosphere, which can improve weather models and protect communication systems and aircraft. Space station crew take photographs of [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Nichole Ayers captured this image of lightning while orbiting aboard the International Space Station more than 250 miles above Milan, Italy on July 1, 2025. Storm observations from space station help scientists study Earth’s upper atmosphere, which can improve weather models and protect communication systems and aircraft. Space station crew take photographs of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=941591</guid>
-    </item>    <item>
-      <title>Luggable datacenter: startup straps handles to server with 4 H200 GPUs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/what_do_you_call_4/</link>
-      <description>
-        <![CDATA[<h4>Who can lift a 77-pound box into the overhead?</h4> <p>Fancy having an AI system packed with Nvidia H200 GPUs that you can take with you from place to place? According to hardware maker Odinn, now you can, so long as you don&#39;t mind carrying a 77-pound (35 kg) box around.…</p>]]>
-      </description>
-      <source:markdown>#### Who can lift a 77-pound box into the overhead?
-
-Fancy having an AI system packed with Nvidia H200 GPUs that you can take with you from place to place? According to hardware maker Odinn, now you can, so long as you don&#39;t mind carrying a 77-pound (35 kg) box around.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243815</guid>
-    </item>    <item>
-      <title>When Male Deer Mark Trees, Those Spots May Glow Like Neon Lights at Dusk and Dawn, Though Humans Usually Can&#39;t See Them</title>
-      <link>https://www.smithsonianmag.com/smart-news/when-male-deer-mark-trees-those-spots-may-glow-like-neon-lights-at-dusk-and-dawn-though-humans-usually-cant-see-them-180987949/</link>
-      <description>
-        <![CDATA[During the breeding season, white-tailed deer might use their eyes and noses to navigate signs—forehead secretions on trees and urine on the ground—left by males of their species, a study suggests]]>
-      </description>
-      <source:markdown>During the breeding season, white-tailed deer might use their eyes and noses to navigate signs—forehead secretions on trees and urine on the ground—left by males of their species, a study suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RZNJm-a5c3DjqAxn-NMwoGNCb_I=/420x240/filters:focal(3680x2488:3681x2489)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/e0/14e05ef4-8cda-4d65-82c9-ef005785c1c3/buck-rub.jpg" length="30637835" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/when-male-deer-mark-trees-those-spots-may-glow-like-neon-lights-at-dusk-and-dawn-though-humans-usually-cant-see-them-180987949/</guid>
-    </item>    <item>
-      <title>Microsoft scraps Exchange Online spam clamp after customers cry foul</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/exchange_online_recipient_rate/</link>
-      <description>
-        <![CDATA[<h4>Negative feedback sinks Redmond&#39;s plan to cap outbound email recipients</h4> <p>Microsoft has backed away from planned changes to Exchange Online after customers objected to limits designed to curb outbound email abuse.…</p>]]>
-      </description>
-      <source:markdown>#### Negative feedback sinks Redmond&#39;s plan to cap outbound email recipients
-
-Microsoft has backed away from planned changes to Exchange Online after customers objected to limits designed to curb outbound email abuse.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243833</guid>
-    </item>    <item>
-      <title>This Early-Universe Cluster of Galaxies Is Way Hotter Than It Should Be</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-early-universe-cluster-of-galaxies-is-way-hotter-than-it-should-be-180987956/</link>
-      <description>
-        <![CDATA[Gas within the cluster, which existed merely 1.4 billion years after the Big Bang, is at least five times hotter than computer simulations predict it should be, a study suggests]]>
-      </description>
-      <source:markdown>Gas within the cluster, which existed merely 1.4 billion years after the Big Bang, is at least five times hotter than computer simulations predict it should be, a study suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OPwsQSMfboRIFYN7ooTWFDh2Hgs=/420x240/filters:focal(960x695:961x696)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/72/1b72f00b-0303-4707-9710-d410cb647057/galaxy_cluster.jpg" length="362207" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-early-universe-cluster-of-galaxies-is-way-hotter-than-it-should-be-180987956/</guid>
-    </item>    <item>
-      <title>Distinct AI Models Seem To Converge On How They Encode Reality</title>
-      <link>https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/</link>
-      <description>
-        <![CDATA[Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.            <p>The post <a href="https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/" target="_blank">Distinct AI Models Seem To Converge On How They Encode Reality</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
-
-The post [Distinct AI Models Seem To Converge On How They Encode Reality](https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=157734</guid>
-    </item>    <item>
-      <title>See the New Coins Celebrating the Legacies of Elizabeth II, Charles Darwin and the British Grand Prix</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-new-coins-celebrating-the-legacies-of-elizabeth-ii-charles-darwin-and-the-british-grand-prix-180987944/</link>
-      <description>
-        <![CDATA[Released by the Royal Mint, the designs from this year's commemorative coin set also honor anniversaries connected to the King's Trust and the Zoological Society of London]]>
-      </description>
-      <source:markdown>Released by the Royal Mint, the designs from this year&#39;s commemorative coin set also honor anniversaries connected to the King&#39;s Trust and the Zoological Society of London</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6bf3Mh3x1FuhZ6EneeoW96LpYCo=/420x240/filters:focal(3962x2642:3963x2643)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/64/7f64ad79-1ea8-4e1a-b87a-5d6706c971fa/annual_sets_2026_ccps_pr_lifestyle_-_01.jpg" length="19628377" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-new-coins-celebrating-the-legacies-of-elizabeth-ii-charles-darwin-and-the-british-grand-prix-180987944/</guid>
-    </item>    <item>
-      <title>Virginia&#39;s datacenter tax breaks cost state $1.6B in 2025</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/datacenter_tax_breaks_virginia/</link>
-      <description>
-        <![CDATA[<h4>Trillion-dollar internet giants don&#39;t need freebies, watchdog warns, as giveaways double in a year</h4> <p>The US state of Virginia forfeited $1.6 billion in tax revenue through datacenter exemptions in fiscal 2025 – up 118 percent on the prior year – as the AI-driven construction boom accelerates.…</p>]]>
-      </description>
-      <source:markdown>#### Trillion-dollar internet giants don&#39;t need freebies, watchdog warns, as giveaways double in a year
-
-The US state of Virginia forfeited $1.6 billion in tax revenue through datacenter exemptions in fiscal 2025 – up 118 percent on the prior year – as the AI-driven construction boom accelerates.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243831</guid>
-    </item>    <item>
-      <title>GNOME dev gives fans of Linux&#39;s middle-click paste the middle finger</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/gnome_middle_click_paste/</link>
-      <description>
-        <![CDATA[<h4>Proposal targets long-standing behavior as &#39;an X11ism&#39;</h4> <p><strong>Opinion</strong>  Ever since Linux got a graphical desktop, you could middle-click to paste – but if GNOME gets its way, that&#39;s going away soon, and from Firefox too.…</p>]]>
-      </description>
-      <source:markdown>#### Proposal targets long-standing behavior as &#39;an X11ism&#39;
-
-**Opinion**  Ever since Linux got a graphical desktop, you could middle-click to paste – but if GNOME gets its way, that&#39;s going away soon, and from Firefox too.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243827</guid>
-    </item>    <item>
-      <title>Earlier Horizon rollout could widen net for quashed Post Office convictions</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/post_office_horizon_rollout/</link>
-      <description>
-        <![CDATA[<h4>Committee told shifting timelines could alter automatic reversals in UK&#39;s historic Fujitsu computing scandal</h4> <p>The Post Office&#39;s Horizon computer system may have been deployed earlier than thought, potentially affecting which convictions get automatically quashed under legislation introduced to speed up justice in one of the biggest scandals in recent British history, MPs heard yesterday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Committee told shifting timelines could alter automatic reversals in UK&#39;s historic Fujitsu computing scandal
-
-The Post Office&#39;s Horizon computer system may have been deployed earlier than thought, potentially affecting which convictions get automatically quashed under legislation introduced to speed up justice in one of the biggest scandals in recent British history, MPs heard yesterday.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243829</guid>
-    </item>    <item>
-      <title>Ministry of Justice splurged £50M on security – still missed Legal Aid Agency cyberattack</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/legal_aid_agency_attack/</link>
-      <description>
-        <![CDATA[<h4>High-risk system compromised long before intrusion was finally spotted</h4> <p><strong>Updated</strong>  The UK&#39;s Ministry of Justice spent £50 million ($67 million) on cybersecurity improvements at the Legal Aid Agency (LAA) before the high-profile cyberattack it disclosed last year.…</p>]]>
-      </description>
-      <source:markdown>#### High-risk system compromised long before intrusion was finally spotted
-
-**Updated**  The UK&#39;s Ministry of Justice spent £50 million ($67 million) on cybersecurity improvements at the Legal Aid Agency (LAA) before the high-profile cyberattack it disclosed last year.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243830</guid>
-    </item>    <item>
-      <title>Jaguar Land Rover wholesale volumes plummet 43% in cyberattack aftermath</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/jlr_wholesale_volumes/</link>
-      <description>
-        <![CDATA[<h4>Production halts and supply-chain disruption left luxury automaker reeling in fiscal Q3</h4> <p>Brit luxury automaker Jaguar Land Rover has reported devastating preliminary Q3 results that lay bare the cascading consequences of a crippling cyberattack, revealing wholesale volumes collapsed more than two-fifths year-on-year.…</p>]]>
-      </description>
-      <source:markdown>#### Production halts and supply-chain disruption left luxury automaker reeling in fiscal Q3
-
-Brit luxury automaker Jaguar Land Rover has reported devastating preliminary Q3 results that lay bare the cascading consequences of a crippling cyberattack, revealing wholesale volumes collapsed more than two-fifths year-on-year.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243828</guid>
-    </item>    <item>
-      <title>Recline of the machines: Terminator felled by dodgy battery</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/terminator_felled_by_dodgy_battery/</link>
-      <description>
-        <![CDATA[<h4>The rise will be postponed until you hit F1 to continue</h4> <p><strong>Bork!Bork!Bork!</strong>  The baddest of AI bad guys, the Terminator, has confirmed what the vast majority of IT professionals already know. The machines are not about to rise, not until they can deal with that pesky battery voltage.…</p>]]>
-      </description>
-      <source:markdown>#### The rise will be postponed until you hit F1 to continue
-
-**Bork!Bork!Bork!**  The baddest of AI bad guys, the Terminator, has confirmed what the vast majority of IT professionals already know. The machines are not about to rise, not until they can deal with that pesky battery voltage.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243816</guid>
-    </item>    <item>
-      <title>HSBC app takes a dim view of sideloaded Bitwarden installations</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/hsbc_bitwarden_sideloaded/</link>
-      <description>
-        <![CDATA[<h4>Customers report being locked out after grabbing the password manager via F-Droid</h4> <p>Some HSBC mobile banking customers in the UK report being locked out of the bank&#39;s app after installing the Bitwarden password manager via an open source app catalog.…</p>]]>
-      </description>
-      <source:markdown>#### Customers report being locked out after grabbing the password manager via F-Droid
-
-Some HSBC mobile banking customers in the UK report being locked out of the bank&#39;s app after installing the Bitwarden password manager via an open source app catalog.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243788</guid>
-    </item>    <item>
-      <title>UK to spend £23M on AI to tell benefit claimants where to go</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/dwp_ai_call_handling/</link>
-      <description>
-        <![CDATA[<h4>Department for Work and Pensions lines up bot bouncers for one of Europe&#39;s largest call-handling systems</h4> <p>The UK&#39;s Department for Work and Pensions (DWP) is set to introduce a conversational AI platform it hopes will steer calls from citizens with queries about their benefits. The contract is worth up to £23 million.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Department for Work and Pensions lines up bot bouncers for one of Europe&#39;s largest call-handling systems
-
-The UK&#39;s Department for Work and Pensions (DWP) is set to introduce a conversational AI platform it hopes will steer calls from citizens with queries about their benefits. The contract is worth up to £23 million.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243807</guid>
-    </item>    <item>
-      <title>Micro forests: an emerging climate hero?</title>
-      <link>https://www.npr.org/2026/01/07/nx-s1-5625056/forest-nature-climate-change-los-angeles</link>
-      <description>
-        <![CDATA[Healthy forests help combat climate change, provide humans with drinking water and even improve mental and physical health. But it’s hard to imagine an entire forest in the middle of a big city. That’s where micro-forests come into play — public forests on a smaller scale, filled with native plants. They exist around the world, and producer <a href="https://www.npr.org/people/1112796909/rachel-carlson"target="_blank"   >Rachel Carlson</a> went to visit the largest micro-forest in California. She joins host <a href="https://www.npr.org/people/767284140/emily-kwong"target="_blank"   >Emily Kwong</a> to chat about what she saw. <br/><br/><em>Interested in more of the science behind urban nature? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Healthy forests help combat climate change, provide humans with drinking water and even improve mental and physical health. But it’s hard to imagine an entire forest in the middle of a big city. That’s where micro-forests come into play — public forests on a smaller scale, filled with native plants. They exist around the world, and producer [Rachel Carlson](https://www.npr.org/people/1112796909/rachel-carlson) went to visit the largest micro-forest in California. She joins host [Emily Kwong](https://www.npr.org/people/767284140/emily-kwong) to chat about what she saw.
-
-_Interested in more of the science behind urban nature? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/traffic.megaphone.fm/NPR1087720900.mp3?t=podcast&e=nx-s1-5625056&p=510351&d=741&size=11863398" length="11863398" type="audio/mpeg" />
-      <guid>cid://d0a16cb3-88e2-4f7b-a4a5-be440f40a0be</guid>
-    </item>    <item>
-      <title>Algae Swirls Across a South African Reservoir</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/</link>
-      <description>
-        <![CDATA[Vivid green blooms form, drift, and fade in Hartbeespoortdam reservoir over the course of a year.]]>
-      </description>
-      <source:markdown>Vivid green blooms form, drift, and fade in Hartbeespoortdam reservoir over the course of a year.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/</guid>
-    </item>    <item>
-      <title>Lenovo shows off new laptops that twist and roll</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/lenovo_rollable_thinkpad/</link>
-      <description>
-        <![CDATA[<h4>The company has also redesigned the X1 Carbon’s internals for easier repairs</h4> <p>If there was a kingdom of laptop screen flexibility, Lenovo would take the crown. Last year, the company released the ThinkBook Plus Gen 6, with a mechanical screen that could roll out to increase its size from 14 to 16.7 inches. Now, it’s back with the ThinkPad Rollable XD concept laptop that expands from 13.3 to 16 inches at the touch of a button or a swipe, along with the ThinkBook Plus Gen 7 Auto Twist, which uses a motor to rotate its screen and follow you around the room.…</p>]]>
-      </description>
-      <source:markdown>#### The company has also redesigned the X1 Carbon’s internals for easier repairs
-
-If there was a kingdom of laptop screen flexibility, Lenovo would take the crown. Last year, the company released the ThinkBook Plus Gen 6, with a mechanical screen that could roll out to increase its size from 14 to 16.7 inches. Now, it’s back with the ThinkPad Rollable XD concept laptop that expands from 13.3 to 16 inches at the touch of a button or a swipe, along with the ThinkBook Plus Gen 7 Auto Twist, which uses a motor to rotate its screen and follow you around the room.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243823</guid>
-    </item>    <item>
-      <title>Ring embraces the end of the world, starts using home cameras to track wildfires</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/ring_cameras_wildfire/</link>
-      <description>
-        <![CDATA[<h4>Amazon&#39;s community surveillance biz bets on AI to recognize danger</h4> <p>A year after a series of fires obliterated communities in Los Angeles, Amazon&#39;s Ring security service has announced a feature called Fire Watch intended to mitigate future wildfire risk.…</p>]]>
-      </description>
-      <source:markdown>#### Amazon&#39;s community surveillance biz bets on AI to recognize danger
-
-A year after a series of fires obliterated communities in Los Angeles, Amazon&#39;s Ring security service has announced a feature called Fire Watch intended to mitigate future wildfire risk.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243825</guid>
-    </item>    <item>
-      <title>HackerOne &#39;ghosted&#39; me for months over $8,500 bug bounty, says researcher</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/01/07/hackerone_ghosted_researcher/</link>
-      <description>
-        <![CDATA[<h4>Long after CVEs issued and open source flaws fixed</h4> <p>Last fall, Jakub Ciolek reported two denial-of-service bugs in Argo CD, a popular Kubernetes controller, via HackerOne&#39;s Internet Bug Bounty (IBB) program. Both were assigned CVEs and have since been fixed. But instead of receiving an $8,500 reward for the two flaws, Ciolek says, HackerOne ghosted him for months.…</p>]]>
-      </description>
-      <source:markdown>#### Long after CVEs issued and open source flaws fixed
-
-Last fall, Jakub Ciolek reported two denial-of-service bugs in Argo CD, a popular Kubernetes controller, via HackerOne&#39;s Internet Bug Bounty (IBB) program. Both were assigned CVEs and have since been fixed. But instead of receiving an $8,500 reward for the two flaws, Ciolek says, HackerOne ghosted him for months.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story243824</guid>
     </item>
   </channel>
 </rss>
