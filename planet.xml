@@ -4,7 +4,7 @@
   <channel>
     <title>Planet News</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>21 Mar 26 13:44 -0700</lastBuildDate>
+    <lastBuildDate>21 Mar 26 14:04 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -103,6 +103,14 @@
       </description>
       <source:markdown>A number of organisations and community groups have marched in Galway city to stand together on International Day for the Elimination of Racial Discrimination.</source:markdown>
       <guid>cid://https://www.rte.ie/news/connacht/2026/0321/1564559-rally-galway-racial-discrimination/</guid>
+    </item>    <item>
+      <title>Robert Mueller, 9/11-era FBI chief who later probed alleged Trump-Russia ties, dead at 81</title>
+      <link>https://www.cbc.ca/news/world/robert-mueller-obit-9.7137425?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/1f2353b3-c330-4f4c-87e2-23ca4251b154,1774126011746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3300%2C1856%29%3BResize%3D%28620%29' alt='FILE PHOTO: Outgoing FBI Director Robert Mueller reacts to applause from the audience during his farewell ceremony at the Justice Department in Washington, August 1, 2013. REUTERS/Jonathan Ernst/File Photo' width='620' height='349' title='FILE PHOTO: Outgoing FBI Director Robert Mueller reacts to applause from the audience during his farewell ceremony at the Justice Department in Washington, August 1, 2013. REUTERS/Jonathan Ernst/File Photo'/><p></p>]]>
+      </description>
+      <source:markdown>![FILE PHOTO: Outgoing FBI Director Robert Mueller reacts to applause from the audience during his farewell ceremony at the Justice Department in Washington, August 1, 2013. REUTERS/Jonathan Ernst/File Photo](https://i.cbc.ca/ais/1f2353b3-c330-4f4c-87e2-23ca4251b154,1774126011746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3300%2C1856%29%3BResize%3D%28620%29)</source:markdown>
+      <guid>cid://9.7137558</guid>
     </item>    <item>
       <title>Shaw hat-trick heroics &#39;like watching video game&#39;</title>
       <link>https://www.bbc.com/sport/football/articles/cpqxzl5j1xgo?at_medium=RSS&#38;at_campaign=rss</link>
@@ -220,16 +228,6 @@ Ottawa ski cross siblings Hannah and Jared Schmidt each earned silver at the pen
       </description>
       <source:markdown>South Korean megastars BTS reunited for their first show in nearly four years in front of enormous crowds in Seoul for a K-pop extravaganza livestreamed to millions more worldwide.</source:markdown>
       <guid>cid://https://www.rte.ie/entertainment/2026/0321/1564536-bts-returns-with-comeback-concert-in-seoul-after-hiatus/</guid>
-    </item>    <item>
-      <title>Robert Mueller, 9/11-era FBI chief who later probed alleged Trump-Russia ties, dead at 81</title>
-      <link>https://www.cbc.ca/news/world/robert-mueller-obit-9.7137425?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/afce053d-f16d-46ec-af3a-bffac518d5f9,1774113415609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4368%2C2457%29%3BResize%3D%28620%29' alt='A person speaks at a lectern.' width='620' height='349' title='WASHINGTON, DC - MAY 29: Special Counsel Robert Mueller makes a statement about the Russia investigation on May 29, 2019 at the Justice Department in Washington, DC. (Photo by Chip Somodevilla/Getty Images)'/><p>Robert Mueller, the FBI director who transformed the agency into a terrorism-fighting force after the Sept. 11, 2001, attacks and who later became special counsel in charge of investigating ties between Russia and Donald Trump's presidential campaign, has died at 81.</p>]]>
-      </description>
-      <source:markdown>![A person speaks at a lectern.](https://i.cbc.ca/ais/afce053d-f16d-46ec-af3a-bffac518d5f9,1774113415609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4368%2C2457%29%3BResize%3D%28620%29)
-
-Robert Mueller, the FBI director who transformed the agency into a terrorism-fighting force after the Sept. 11, 2001, attacks and who later became special counsel in charge of investigating ties between Russia and Donald Trump&#39;s presidential campaign, has died at 81.</source:markdown>
-      <guid>cid://9.7137425</guid>
     </item>    <item>
       <title>BTS make live return in front of huge crowd</title>
       <link>https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&#38;at_campaign=rss</link>
