@@ -11,7 +11,7 @@ authors:
 
 
 repository_code: git+https://github.com/rsdoiel/antenna
-version: 0.0.10
+version: 0.1.0
 license_url: https://www.gnu.org/licenses/agpl-3.0.txt
 
 programming_language:
@@ -27,15 +27,15 @@ keywords:
   - website
   - static
 
-date_released: 2025-12-02
+date_released: 2026-03-21
 ---
 
 About this software
 ===================
 
-## antenna 0.0.10
+## antenna 0.1.0
 
-Now curated with antennaApp v0.0.16
+Now curated with antennaApp v0.0.23
 
 ### Authors
 
@@ -66,7 +66,7 @@ and either Bash or PowerShell.
 
 ### Software Requirements
 
-- antennaApp >= 0.0.16
+- antennaApp >= 0.0.23
 - Bash or Powershell (Windows)
 
 
