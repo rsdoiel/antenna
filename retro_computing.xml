@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
+  <atom:link href="https://rsdoiel.github.io/antenna/retro_computing.xml" rel="self" type="application/rss+xml" />
+  <channel>
+    <title>Retro Computing News</title>
+    <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
+    <lastBuildDate>21 Mar 26 13:44 -0700</lastBuildDate>
+    <generator>antenna/0.0.23b</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <item>
+      <title>b.log 2026/03/21 - Once upon a time, Starting the day right, Woe is bramble, Almost Sakura!, And finally...</title>
+      <link>https://heyrick.eu/blog/entry/20260321</link>
+      <description>
+        <![CDATA[Once upon a time, Starting the day right, Woe is bramble, Almost Sakura!, And finally...]]>
+      </description>
+      <source:markdown>Once upon a time, Starting the day right, Woe is bramble, Almost Sakura!, And finally...</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260321</guid>
+    </item>    <item>
+      <title>KIM-1 replica keypad</title>
+      <link>http://retro.hansotten.nl/kim-1-replica-keypad/</link>
+      <description>
+        <![CDATA[A spare KIM-1 keypad is even rarer than a KIM-1 itself. With this guide you can build a reasonable replica of the keypad. Thanks to the work of Eduardo Casino (the PCB) and Pete (peo2000 on forum64.org) I have published a DIY guide for a good looking KIM-1 keypad replica. See also:KIM-1 connectors: beware the [&#8230;]]]>
+      </description>
+      <source:markdown>A spare KIM-1 keypad is even rarer than a KIM-1 itself. With this guide you can build a reasonable replica of the keypad. Thanks to the work of Eduardo Casino (the PCB) and Pete (peo2000 on forum64.org) I have published a DIY guide for a good looking KIM-1 keypad replica. See also:KIM-1 connectors: beware the \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20289</guid>
+    </item>    <item>
+      <title>RISC OS North Show 2026 - pictures</title>
+      <link>http://www.iconbar.com/comments/rss/news2314.html</link>
+      <description>
+        <![CDATA[Here is a selection of pictures to show you what this years event was like.....]]>
+      </description>
+      <source:markdown>Here is a selection of pictures to show you what this years event was like.....</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2314.html</guid>
+    </item>    <item>
+      <title>R-Comp powers up printing at RISC OS North</title>
+      <link>https://www.riscository.com/2026/r-comp-powers-up-printing/</link>
+      <description>
+        <![CDATA[Today is RISC OS show-eve, which means tomorrow is RISC OS show-day &#8211; and the show in question is RISC OS North &#8211; and as ever, exhibitors have been beavering away to bring get updates and/or new products ready. In the case of R-Comp, there is always a wide range of goodies, but in particular Andrew Rawnsley has announced some new software: R-Comp is pleased to announce a new program for RISC OS to enable printing to many modern inkjet printers direct from RISC OS. The new software is called&#8230;]]>
+      </description>
+      <source:markdown>Today is RISC OS show-eve, which means tomorrow is RISC OS show-day – and the show in question is RISC OS North – and as ever, exhibitors have been beavering away to bring get updates and/or new products ready. In the case of R-Comp, there is always a wide range of goodies, but in particular Andrew Rawnsley has announced some new software: R-Comp is pleased to announce a new program for RISC OS to enable printing to many modern inkjet printers direct from RISC OS. The new software is called…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10910</guid>
+    </item>    <item>
+      <title>b.log 2026/03/20 - Holiday and Spring, Meningitis, So close!, Being prepared.</title>
+      <link>https://heyrick.eu/blog/entry/20260320</link>
+      <description>
+        <![CDATA[Holiday and Spring, Meningitis, So close!, Being prepared.]]>
+      </description>
+      <source:markdown>Holiday and Spring, Meningitis, So close!, Being prepared.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260320</guid>
+    </item>    <item>
+      <title>The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages</title>
+      <link>https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/</link>
+      <description>
+        <![CDATA[This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Rennes-le-Château enjoyed its first watershed moment as a media phenomenon when Albert Salamon wrote his newspaper articles in 1956. Its second came when a documentary about the village was aired on French [&#8230;]]]>
+      </description>
+      <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Rennes-le-Château enjoyed its first watershed moment as a media phenomenon when Albert Salamon wrote his newspaper articles in 1956. Its second came when a documentary about the village was aired on French \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6696</guid>
+    </item>    <item>
+      <title>b.log 2026/03/19 - What sort of world do you want to live in?</title>
+      <link>https://heyrick.eu/blog/entry/20260319</link>
+      <description>
+        <![CDATA[What sort of world do you want to live in?]]>
+      </description>
+      <source:markdown>What sort of world do you want to live in?</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260319</guid>
+    </item>    <item>
+      <title>The K3 Keyboard Screen</title>
+      <link>https://riscosbits.blog/2026/03/19/the-k3-keyboard-screen/</link>
+      <description>
+        <![CDATA[A Quick RISC OS Perspective If you&#8217;re likely to attend the upcoming (at the time of posting) RISC OS North 2026 Show, you may spot an odd looking device on the RISCOSbits stand. At first glance it looks like a &#8230; <a href="https://riscosbits.blog/2026/03/19/the-k3-keyboard-screen/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>A Quick RISC OS Perspective If you’re likely to attend the upcoming (at the time of posting) RISC OS North 2026 Show, you may spot an odd looking device on the RISCOSbits stand. At first glance it looks like a … [Continue reading →](https://riscosbits.blog/2026/03/19/the-k3-keyboard-screen/)</source:markdown>
+      <guid>cid://http://riscosbits.blog/?p=4034</guid>
+    </item>    <item>
+      <title>What’s on the RISCOSbits RISC OS North RISC OS menu?</title>
+      <link>https://www.riscository.com/2026/riscosbits-north-menu/</link>
+      <description>
+        <![CDATA[The RISC OS North show now only two (count &#8217;em) days away, and another announcement has bounced into the RISCOSitory inbox from RISCOSbits: Visitors to the RISC OS North Show on 21st March will find the RISCOSbits stand packed with hardware options for almost every kind of RISC OS user – from powerful desktop machines to compact modular systems and flexible DIY kits. Whether you’re looking for performance, expandability, or a hands-on project, there will be plenty to explore. Performance Systems: FAST Range At the high-performance end of the range&#8230;]]>
+      </description>
+      <source:markdown>The RISC OS North show now only two (count ’em) days away, and another announcement has bounced into the RISCOSitory inbox from RISCOSbits: Visitors to the RISC OS North Show on 21st March will find the RISCOSbits stand packed with hardware options for almost every kind of RISC OS user – from powerful desktop machines to compact modular systems and flexible DIY kits. Whether you’re looking for performance, expandability, or a hands-on project, there will be plenty to explore. Performance Systems: FAST Range At the high-performance end of the range…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10907</guid>
+    </item>    <item>
+      <title>Spring starts at Warrington</title>
+      <link>https://www.riscosopen.org/news/articles/2026/03/18/spring-starts-at-warrington</link>
+      <description>
+        <![CDATA[<p>No sooner has the sun made it all the way to the equator, marking the spring equinox, then it&#8217;s time for the first show of the year: <a href="https://www.riscosnorth.uk/"><span class="caps">RISC</span> OS North</a>, in conjunction with the <a href="https://www.wrocc.org.uk/"><span class="caps">WROCC</span></a> user group. Align your chronometer for Saturday, 21th March, 2026.</p>
+        <p><img src="/images/risc_os_open/shows/warrington2026.png" title="Show banner" alt="Show banner" /></p>]]>
+      </description>
+      <source:markdown>No sooner has the sun made it all the way to the equator, marking the spring equinox, then it’s time for the first show of the year: [RISC OS North](https://www.riscosnorth.uk/), in conjunction with the [WROCC](https://www.wrocc.org.uk/) user group. Align your chronometer for Saturday, 21th March, 2026.
+
+![Show banner](/images/risc_os_open/shows/warrington2026.png)</source:markdown>
+      <guid>cid://urn:uuid:697b57a8-d7e2-45e4-9699-b31ee27b038d</guid>
+    </item>    <item>
+      <title>b.log 2026/03/18 - Does your lightbulb need an update?</title>
+      <link>https://heyrick.eu/blog/entry/20260318</link>
+      <description>
+        <![CDATA[Does your lightbulb need an update?]]>
+      </description>
+      <source:markdown>Does your lightbulb need an update?</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260318</guid>
+    </item>    <item>
+      <title>RISC OS North is THIS WEEKEND!</title>
+      <link>https://www.riscository.com/2026/risc-os-north-this-weekend/</link>
+      <description>
+        <![CDATA[With RISC OS show-eve almost upon us (that&#8217;ll be Friday, folks &#8211; the day before the show), Andrew Rawnsley and Richard Brown, who jointly organise the RISC OS North shows, have sent out an announcement/reminder about the upcoming event: We&#8217;re now only a few days away from the first big RISC OS event of 2026 &#8211; the RISC OS North Show in Warrington, Saturday 21st March 2026. The show takes place at the Village Hotel in Warrington, from 10.30am &#8217;til 4.30pm. The hotel has food and drink available from its&#8230;]]>
+      </description>
+      <source:markdown>With RISC OS show-eve almost upon us (that’ll be Friday, folks – the day before the show), Andrew Rawnsley and Richard Brown, who jointly organise the RISC OS North shows, have sent out an announcement/reminder about the upcoming event: We’re now only a few days away from the first big RISC OS event of 2026 – the RISC OS North Show in Warrington, Saturday 21st March 2026. The show takes place at the Village Hotel in Warrington, from 10.30am ’til 4.30pm. The hotel has food and drink available from its…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10902</guid>
+    </item>    <item>
+      <title>NEOS Mouse: Reborn</title>
+      <link>https://www.c64os.com/post/neosreborn</link>
+      <description>
+        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/neosreborn/icon-neosmouse.jpg'> Have you ever heard of the NEOS mouse? You've probably heard that it sucks. And that impression is well earned. But there is a good reason for this, so let me explain exactly why it sucks and what we can do to make it useful again and give it a fresh breath of air. For some context, the standard mouse on the C64, C128, and compatible computers is the Commodore 1351 mouse. You're probably familiar with this one. Many people think of it as a "GEOS" mouse, because it shipped concurrently with the introduction of GEOS. And of course, using a real mouse with a graphical user interface is a huge step up in ease and productivity. Here's what the 1351 looks like: Commodore 1351 Mouse If you've been around the block, you have probably also heard that you should steer clear of the infamous Commodore 1350 mouse. (Beware that little "0" rather than a "1".) The 1350 mouse is a joystick in mouse clothing and it totally stinks. To use a 1350, you have to continually roll the ball in a given direction. . .]]>
+      </description>
+      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/neosreborn/icon-neosmouse.jpg) Have you ever heard of the NEOS mouse? You&#39;ve probably heard that it sucks. And that impression is well earned. But there is a good reason for this, so let me explain exactly why it sucks and what we can do to make it useful again and give it a fresh breath of air. For some context, the standard mouse on the C64, C128, and compatible computers is the Commodore 1351 mouse. You&#39;re probably familiar with this one. Many people think of it as a &#34;GEOS&#34; mouse, because it shipped concurrently with the introduction of GEOS. And of course, using a real mouse with a graphical user interface is a huge step up in ease and productivity. Here&#39;s what the 1351 looks like: Commodore 1351 Mouse If you&#39;ve been around the block, you have probably also heard that you should steer clear of the infamous Commodore 1350 mouse. (Beware that little &#34;0&#34; rather than a &#34;1&#34;.) The 1350 mouse is a joystick in mouse clothing and it totally stinks. To use a 1350, you have to continually roll the ball in a given direction. . .</source:markdown>
+      <author>gregorynacu@me.com (Gregory Nacu)</author>
+      <guid>cid://https://www.c64os.com/post?p=134</guid>
+    </item>    <item>
+      <title>UN Creates Open Source Portal</title>
+      <link>http://www.linux-magazine.com/Online/News/UN-Creates-Open-Source-Portal</link>
+      <description>
+        <![CDATA[<p>In a quest to strengthen open source collaboration, the United Nations Office of Information and Communications Technology has created a new portal.</p>]]>
+      </description>
+      <source:markdown>In a quest to strengthen open source collaboration, the United Nations Office of Information and Communications Technology has created a new portal.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://7d088bf9af57eace7b0054baa92d729d</guid>
+    </item>    <item>
+      <title>RISC OS North Show 2026 preview</title>
+      <link>http://www.iconbar.com/comments/rss/news2308.html</link>
+      <description>
+        <![CDATA[The RISC OS North show takes place this Saturday (21st March 2026) at Village Hotel (Warrington) from 10:30am-4:30pm]]>
+      </description>
+      <source:markdown>The RISC OS North show takes place this Saturday (21st March 2026) at Village Hotel (Warrington) from 10:30am-4:30pm</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2308.html</guid>
+    </item>    <item>
+      <title>Hedley Davis has died</title>
+      <link>https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html</link>
+      <description>
+        <![CDATA[A more obscure Commodore employee (where he apparently met his wife), but still quite influential during the Amiga era. Along with more pedestrian units such as the Amiga 3000 and the monochrome Amiga 2024 monitor, my favourite device he worked on was the 1987 <a href="http://www.floodgap.com/retrobits/ckb/secret/exec.html">prototype SX-500</a>. That's exactly what it sounds like: an Amiga 500 crammed into <a href="/2020/12/unboxing-best-gift-of-1983-commodore-sx.html">a portable SX-64</a> case, even keeping the same 5" colour screen and basic keyboard layout. The picture here is a bad scan of a bad film picture I took at VCF 5.0 and I need to figure out where those original photos went. Dale Luck has this unit and hopefully it still works, but neither Thomas Rattigan nor Irving Gould would have ever released an adventurous product like this, and perhaps it was just as well. Later he worked on the Xbox and, my favourite console of its generation, the Xbox 360 (PowerPC for the win), on which my wife is slowly learning to play Portal and getting abused by GLaDOS on a regular basis, and in retirement taught at the University of Delaware. He passed away last week <a href="https://www.daniels-hutchison.com/obituaries/Hedley-Combs-Davis?obId=47519295">at the age of 68</a>. Rest in peace.
+        
+        <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s1024/cbm-sx500-portrait.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="932" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s320/cbm-sx500-portrait.jpg"/></a></div>]]>
+      </description>
+      <source:markdown>A more obscure Commodore employee (where he apparently met his wife), but still quite influential during the Amiga era. Along with more pedestrian units such as the Amiga 3000 and the monochrome Amiga 2024 monitor, my favourite device he worked on was the 1987 [prototype SX-500](http://www.floodgap.com/retrobits/ckb/secret/exec.html). That&#39;s exactly what it sounds like: an Amiga 500 crammed into [a portable SX-64](/2020/12/unboxing-best-gift-of-1983-commodore-sx.html) case, even keeping the same 5&#34; colour screen and basic keyboard layout. The picture here is a bad scan of a bad film picture I took at VCF 5.0 and I need to figure out where those original photos went. Dale Luck has this unit and hopefully it still works, but neither Thomas Rattigan nor Irving Gould would have ever released an adventurous product like this, and perhaps it was just as well. Later he worked on the Xbox and, my favourite console of its generation, the Xbox 360 (PowerPC for the win), on which my wife is slowly learning to play Portal and getting abused by GLaDOS on a regular basis, and in retirement taught at the University of Delaware. He passed away last week [at the age of 68](https://www.daniels-hutchison.com/obituaries/Hedley-Combs-Davis?obId=47519295). Rest in peace.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s320/cbm-sx500-portrait.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s1024/cbm-sx500-portrait.jpg)</source:markdown>
+      <author>noreply@blogger.com (ClassicHasClass)</author>
+      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-2966076472250111640</guid>
+    </item>    <item>
+      <title>Latest Linux Kernel RC Contains Changes Galore</title>
+      <link>http://www.linux-magazine.com/Online/News/Latest-Linux-Kernel-RC-Contains-Changes-Galore</link>
+      <description>
+        <![CDATA[<p>Linux kernel 7.0-rc3 includes more changes than have been made in a single release in recent history.</p>]]>
+      </description>
+      <source:markdown>Linux kernel 7.0-rc3 includes more changes than have been made in a single release in recent history.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://185b08f8d90c6aebfbee40a725d6d150</guid>
+    </item>    <item>
+      <title>b.log 2026/03/16 - Setting the RISC OS Econet Station ID.</title>
+      <link>https://heyrick.eu/blog/entry/20260316</link>
+      <description>
+        <![CDATA[Setting the RISC OS Econet Station ID.]]>
+      </description>
+      <source:markdown>Setting the RISC OS Econet Station ID.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260316</guid>
+    </item>    <item>
+      <title>A-ONE Apple 1 replica family 2025</title>
+      <link>http://retro.hansotten.nl/a-one-apple-1-replica-family-2025/</link>
+      <description>
+        <![CDATA[In 2025 Franz Achatz revived the A-ONE Apple 1 replica. The excellent design is refreshed, a new family member added: the A-ONE PLUS. I now have the 2025 standard board, the 2025 PLUS and the 2006 EXTENDED. With the prototype boards with and without breadboard and the 2025 cassette interface. Read all about the A-ONE [&#8230;]]]>
+      </description>
+      <source:markdown>In 2025 Franz Achatz revived the A-ONE Apple 1 replica. The excellent design is refreshed, a new family member added: the A-ONE PLUS. I now have the 2025 standard board, the 2025 PLUS and the 2006 EXTENDED. With the prototype boards with and without breadboard and the 2025 cassette interface. Read all about the A-ONE \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20230</guid>
+    </item>    <item>
+      <title>Discover your &#39;Dark side&#39; at RISC OS North Show</title>
+      <link>http://www.iconbar.com/comments/rss/news2311.html</link>
+      <description>
+        <![CDATA[Martin Eastwood will be at RISC OS North to showcase his new Frosted Theme.]]>
+      </description>
+      <source:markdown>Martin Eastwood will be at RISC OS North to showcase his new Frosted Theme.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2311.html</guid>
+    </item>    <item>
+      <title>b.log 2026/03/15 - Brrr!, AI songs (3 songs).</title>
+      <link>https://heyrick.eu/blog/entry/20260315</link>
+      <description>
+        <![CDATA[Brrr!, AI songs (3 songs).]]>
+      </description>
+      <source:markdown>Brrr!, AI songs (3 songs).</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260315</guid>
+    </item>    <item>
+      <title>Matt Godbolt talks JSbeeb, Compiler Explorer, and more at ROUGOL – 16th March</title>
+      <link>https://www.riscository.com/2026/matt-godbolt-talks-jsbeeb-compiler-explorer-and-more-at-rougol-16th-march/</link>
+      <description>
+        <![CDATA[The next meeting of the RISC OS User Group of London (ROUGOL) takes place on Monday, 16th March (tomorrow), and the guest speaker is Matt Godbolt, who is fitting the group in during a visit to London from his home in Chicago. Matt started out programming on a Sinclair Spectrum before shifting to the much more powerful (and more relevant to Acorn and RISC OS folk) BBC Master, then the even more powerful Archimedes. He has written for Acorn User magazine, produced games for the BBC, as well as software&#8230;]]>
+      </description>
+      <source:markdown>The next meeting of the RISC OS User Group of London (ROUGOL) takes place on Monday, 16th March (tomorrow), and the guest speaker is Matt Godbolt, who is fitting the group in during a visit to London from his home in Chicago. Matt started out programming on a Sinclair Spectrum before shifting to the much more powerful (and more relevant to Acorn and RISC OS folk) BBC Master, then the even more powerful Archimedes. He has written for Acorn User magazine, produced games for the BBC, as well as software…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10899</guid>
+    </item>    <item>
+      <title>RISCOSbits introduces a slimmed-down Chimera for RISC OS North</title>
+      <link>https://www.riscository.com/2026/riscosbits-chimera-lite-riscos-north/</link>
+      <description>
+        <![CDATA[It&#8217;s now less than a week until RISC OS North, which takes place on Saturday, 21st March, and another announcement from RISCOSbits has landed in the bunker: On the back of the hugely popular Christmas Cracker, RISCOSbits is pleased to introduce Chimera Lite, a streamlined and highly accessible version of the popular Chimera system, making its debut at the RISC OS North Show. Chimera Lite has been designed for users who want a fast, modern RISC OS machine in a simple, ready-to-go configuration, while still retaining the flexibility that has&#8230;]]>
+      </description>
+      <source:markdown>It’s now less than a week until RISC OS North, which takes place on Saturday, 21st March, and another announcement from RISCOSbits has landed in the bunker: On the back of the hugely popular Christmas Cracker, RISCOSbits is pleased to introduce Chimera Lite, a streamlined and highly accessible version of the popular Chimera system, making its debut at the RISC OS North Show. Chimera Lite has been designed for users who want a fast, modern RISC OS machine in a simple, ready-to-go configuration, while still retaining the flexibility that has…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10897</guid>
+    </item>    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Chapter 15: The Trial of Galileo]]>
+      </description>
+      <source:markdown>Chapter 15: The Trial of Galileo</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6715</guid>
+    </item>    <item>
+      <title>Rougol March 2026 meeting on monday - Matt Godbolt</title>
+      <link>http://www.iconbar.com/comments/rss/news2304.html</link>
+      <description>
+        <![CDATA[The March 2026 Rougol meeting is on Monday and has an international flavour]]>
+      </description>
+      <source:markdown>The March 2026 Rougol meeting is on Monday and has an international flavour</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2304.html</guid>
+    </item>    <item>
+      <title>b.log 2026/03/12 - Happy Birthday Mom.</title>
+      <link>https://heyrick.eu/blog/entry/20260312</link>
+      <description>
+        <![CDATA[Happy Birthday Mom.]]>
+      </description>
+      <source:markdown>Happy Birthday Mom.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260312</guid>
+    </item>    <item>
+      <title>ShareFS goes cross platform</title>
+      <link>http://www.iconbar.com/comments/rss/news2309.html</link>
+      <description>
+        <![CDATA[ShareFS has been a key technology for RISC OS users for as long as I can remember.]]>
+      </description>
+      <source:markdown>ShareFS has been a key technology for RISC OS users for as long as I can remember.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2309.html</guid>
+    </item>    <item>
+      <title>RISCOSbits preview for the North show</title>
+      <link>https://www.riscository.com/2026/riscosbits-preview-north/</link>
+      <description>
+        <![CDATA[You know it&#8217;s the final countdown to a RISC OS show when the announcements from individual exhibitors begin to land &#8211; and so it has begun; the first announcement regarding RISC OS North has come from RISCOSbits. Here&#8217;s what Andy Marks had to say: With just under two weeks to go, RISCOSbits are pleased to be able to attend, and briefly wanted to preview just a fraction of our offer for, the upcoming RISC OS North Show. Evolutions We’ll hopefully be demonstrating an update to our FAST SATA-based RISC OS&#8230;]]>
+      </description>
+      <source:markdown>You know it’s the final countdown to a RISC OS show when the announcements from individual exhibitors begin to land – and so it has begun; the first announcement regarding RISC OS North has come from RISCOSbits. Here’s what Andy Marks had to say: With just under two weeks to go, RISCOSbits are pleased to be able to attend, and briefly wanted to preview just a fraction of our offer for, the upcoming RISC OS North Show. Evolutions We’ll hopefully be demonstrating an update to our FAST SATA-based RISC OS…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10894</guid>
+    </item>    <item>
+      <title>Show time looms – RISC OS North, 21st March</title>
+      <link>https://www.riscository.com/2026/preview-risc-os-north-21st-march/</link>
+      <description>
+        <![CDATA[Two weeks from now, it&#8217;ll all be over. By this time on Sunday, 22nd March, I&#8217;ll probably be either home or possibly driving back towards the bunker, having enjoyed the previous day. But what about you? Will you have been there, or will you have missed it? I am of course talking about the second RISC OS North event, which will take place on Saturday, 21st March, at the Village Hotel Warrington. As ever for a RISC OS show, the main hall will be filled with a wide range of&#8230;]]>
+      </description>
+      <source:markdown>Two weeks from now, it’ll all be over. By this time on Sunday, 22nd March, I’ll probably be either home or possibly driving back towards the bunker, having enjoyed the previous day. But what about you? Will you have been there, or will you have missed it? I am of course talking about the second RISC OS North event, which will take place on Saturday, 21st March, at the Village Hotel Warrington. As ever for a RISC OS show, the main hall will be filled with a wide range of…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10890</guid>
+    </item>    <item>
+      <title>b.log 2026/03/08 - ShareFS for Linux (and Mac, and Windows).</title>
+      <link>https://heyrick.eu/blog/entry/20260308</link>
+      <description>
+        <![CDATA[ShareFS for Linux (and Mac, and Windows).]]>
+      </description>
+      <source:markdown>ShareFS for Linux (and Mac, and Windows).</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260308</guid>
+    </item>    <item>
+      <title>RISC OS North show is less than 2 weeks away</title>
+      <link>http://www.iconbar.com/comments/rss/news2307.html</link>
+      <description>
+        <![CDATA[The RISC OS North show 2026 is taking place on Saturday 21st March, which is less than 2 weeks away.]]>
+      </description>
+      <source:markdown>The RISC OS North show 2026 is taking place on Saturday 21st March, which is less than 2 weeks away.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2307.html</guid>
+    </item>    <item>
+      <title>Try the FreeDOS Monthly Test Release</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/03/try-the-freedos-monthly-test-release/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p><strong>You can help test FreeDOS by downloading the monthly test release.</strong> This is a "preview" or "test" version of the FreeDOS distribution that we release every month (thanks to Jerome for making the distributions!) The monthly test releases are named like <code>Tyymm</code>, like <code>T2603</code> for "March 2026," and contain <em>all of the latest updates</em> so you can see how things work together. Read the "changes.log" file to see what's changed in each test release. The big changes in T2603 include: new versions of fdnpkg16, country.sys, ldebug .. and notably, the new FreeDOS Kernel with support to run Windows 3.x. We've updated the <a href="https://www.freedos.org/download/" rel="nofollow">FreeDOS Download</a> page with a link to get the monthly test release.</p></div>]]>
+      </description>
+      <source:markdown>**You can help test FreeDOS by downloading the monthly test release.** This is a &#34;preview&#34; or &#34;test&#34; version of the FreeDOS distribution that we release every month (thanks to Jerome for making the distributions!) The monthly test releases are named like `Tyymm`, like `T2603` for &#34;March 2026,&#34; and contain _all of the latest updates_ so you can see how things work together. Read the &#34;changes.log&#34; file to see what&#39;s changed in each test release. The big changes in T2603 include: new versions of fdnpkg16, country.sys, ldebug .. and notably, the new FreeDOS Kernel with support to run Windows 3.x. We&#39;ve updated the [FreeDOS Download](https://www.freedos.org/download/) page with a link to get the monthly test release.</source:markdown>
+      <guid>cid://https://sourceforge.netec6aae5f1ac257eb9eed94caa2fa7d9e3704b416</guid>
+    </item>    <item>
+      <title>b.log 2026/03/06 - Is this really the best we can do?, Goodbye America.</title>
+      <link>https://heyrick.eu/blog/entry/20260306</link>
+      <description>
+        <![CDATA[Is this really the best we can do?, Goodbye America.]]>
+      </description>
+      <source:markdown>Is this really the best we can do?, Goodbye America.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260306</guid>
+    </item>    <item>
+      <title>Nitrux 6.0 Now Ready to Rock Your World</title>
+      <link>http://www.linux-magazine.com/Online/News/Nitrux-6.0-Now-Ready-to-Rock-Your-World</link>
+      <description>
+        <![CDATA[<p>The latest iteration of the Debian-based distribution includes all kinds of newness.</p>]]>
+      </description>
+      <source:markdown>The latest iteration of the Debian-based distribution includes all kinds of newness.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://7b7fcfb1ef48b39af1fc16c335763810</guid>
+    </item>    <item>
+      <title>The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure</title>
+      <link>https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/</link>
+      <description>
+        <![CDATA[This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Believe that there is a secret and you will feel an initiate. It doesn&#8217;t cost a thing. Create an enormous hope that can never be eradicated because there is no root. Ancestors [&#8230;]]]>
+      </description>
+      <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Believe that there is a secret and you will feel an initiate. It doesn’t cost a thing. Create an enormous hope that can never be eradicated because there is no root. Ancestors \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6680</guid>
+    </item>    <item>
+      <title>Proton Electronics</title>
+      <link>http://retro.hansotten.nl/proton-electronics/</link>
+      <description>
+        <![CDATA[The Dutch based firm Post Electronics produced and sold lots of electronic components and computer systems. Like the 6502 based PC-1, PC-2, PC-3, and PIM-1 and the Z80 based CB80. They also created Ultiboard, the PCB design software that became their future in the USA. On the PROTON pages you find images, scans and software [&#8230;]]]>
+      </description>
+      <source:markdown>The Dutch based firm Post Electronics produced and sold lots of electronic components and computer systems. Like the 6502 based PC-1, PC-2, PC-3, and PIM-1 and the Z80 based CB80. They also created Ultiboard, the PCB design software that became their future in the USA. On the PROTON pages you find images, scans and software \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20124</guid>
+    </item>    <item>
+      <title>b.log 2026/03/05 - The Petrol Pump Paradox.</title>
+      <link>https://heyrick.eu/blog/entry/20260305</link>
+      <description>
+        <![CDATA[The Petrol Pump Paradox.]]>
+      </description>
+      <source:markdown>The Petrol Pump Paradox.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260305</guid>
+    </item>    <item>
+      <title>Linux Foundation Reports that Open Source Delivers Better ROI</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-Foundation-Reports-that-Open-Source-Delivers-Better-ROI</link>
+      <description>
+        <![CDATA[<p>In a report that may surprise no one in the Linux community, the Linux Foundation found that businesses are finding a 5X return on investment with open source software.</p>]]>
+      </description>
+      <source:markdown>In a report that may surprise no one in the Linux community, the Linux Foundation found that businesses are finding a 5X return on investment with open source software.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://678276684b87f18c33d7652324bd1f88</guid>
+    </item>    <item>
+      <title>PIM-1 Proton 6502 system</title>
+      <link>http://retro.hansotten.nl/pim-1-proton-6502-system/</link>
+      <description>
+        <![CDATA[Gerben Voort acquired a microprocessor development system PIM-1 developed by Proton, of PC-1 fame. Here his photos of the system after the cleanup, operational again. In the future I hope to scan the documentation. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm [&#8230;]]]>
+      </description>
+      <source:markdown>Gerben Voort acquired a microprocessor development system PIM-1 developed by Proton, of PC-1 fame. Here his photos of the system after the cleanup, operational again. In the future I hope to scan the documentation. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20063</guid>
+    </item>    <item>
+      <title>KEMPAC system eurocards and microcomputers</title>
+      <link>http://retro.hansotten.nl/kempac-system-eurocards-and-microcomputers/</link>
+      <description>
+        <![CDATA[Under the name KEMPAC SYSTEM Eurocards and Microcomputers for Industrial Automation a 19 inch rack system was developed in the 80ties around the 6502 by the (of TMX fame) Kuipers Electronic Engineering B.V., Zwijndrecht Gerben Voort has acquired such a system and has shared the se photos. In the future I hope to scan the [&#8230;]]]>
+      </description>
+      <source:markdown>Under the name KEMPAC SYSTEM Eurocards and Microcomputers for Industrial Automation a 19 inch rack system was developed in the 80ties around the 6502 by the (of TMX fame) Kuipers Electronic Engineering B.V., Zwijndrecht Gerben Voort has acquired such a system and has shared the se photos. In the future I hope to scan the \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20054</guid>
+    </item>    <item>
+      <title>b.log 2026/03/03 - On typing.</title>
+      <link>https://heyrick.eu/blog/entry/20260303</link>
+      <description>
+        <![CDATA[On typing.]]>
+      </description>
+      <source:markdown>On typing.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260303</guid>
+    </item>    <item>
+      <title>Keep Android Open</title>
+      <link>http://www.linux-magazine.com/Online/News/Keep-Android-Open</link>
+      <description>
+        <![CDATA[<p>Google has announced that, soon, anyone looking to develop Android apps will have to first register centrally with Google.</p>]]>
+      </description>
+      <source:markdown>Google has announced that, soon, anyone looking to develop Android apps will have to first register centrally with Google.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://0f5a88104b033ac9fb9a2cbad77415e3</guid>
+    </item>    <item>
+      <title>Kernel 7.0 Now in Testing</title>
+      <link>http://www.linux-magazine.com/Online/News/Kernel-7.0-Now-in-Testing</link>
+      <description>
+        <![CDATA[<p>Linus Torvalds has announced the first Release Candidate (RC) for the 7.x kernel is available for those who want to test it.</p>]]>
+      </description>
+      <source:markdown>Linus Torvalds has announced the first Release Candidate (RC) for the 7.x kernel is available for those who want to test it.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://6c9649742c6643cad49a38c6a98e96c1</guid>
+    </item>    <item>
+      <title>dev86 BCC 0.16.21 and 1.0.1</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/03/dev86-bcc-01621-and-101/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Ben Collver has been working to compile the BCC compiler in 16-bit DOS. BCC is "Bruce's C Compiler," an old "barely ANSI" C compiler that produces 8086 assembler for tiny/small models. Ben recently shared versions for testing. He adds: "The 32-bit version requires HXRT to run on DOS" and "0.6.21 and 1.0.1 are both OpenWatcom builds. The compiler is too large to compile itself." Version 0.16.21 is probably the one to try, as Ben notes that "1.0.1 has a bunch of changes, some good, and others i don't trust yet. So i am keeping both copies around for now." You can find it at <a href="https://gopher.tildeverse.org/tilde.pink/1/~bencollver/files/dos/devel/bcc/" rel="nofollow">Ben's BCC page</a>. We've also mirrored it on the FreeDOS Files Archive at Ibiblio under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/c/bcc" rel="nofollow">files/devel/c/bcc</a>. <em>Note: Ibiblio is currently running very slow.</em></p></div>]]>
+      </description>
+      <source:markdown>Ben Collver has been working to compile the BCC compiler in 16-bit DOS. BCC is &#34;Bruce&#39;s C Compiler,&#34; an old &#34;barely ANSI&#34; C compiler that produces 8086 assembler for tiny/small models. Ben recently shared versions for testing. He adds: &#34;The 32-bit version requires HXRT to run on DOS&#34; and &#34;0.6.21 and 1.0.1 are both OpenWatcom builds. The compiler is too large to compile itself.&#34; Version 0.16.21 is probably the one to try, as Ben notes that &#34;1.0.1 has a bunch of changes, some good, and others i don&#39;t trust yet. So i am keeping both copies around for now.&#34; You can find it at [Ben&#39;s BCC page](https://gopher.tildeverse.org/tilde.pink/1/~bencollver/files/dos/devel/bcc/). We&#39;ve also mirrored it on the FreeDOS Files Archive at Ibiblio under [files/devel/c/bcc](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/c/bcc). _Note: Ibiblio is currently running very slow._</source:markdown>
+      <guid>cid://https://sourceforge.net55bc275f127392873aed092a4c8576559d85e746</guid>
+    </item>    <item>
+      <title>Setting up and Using Messenger for email – WROCC, 4th March</title>
+      <link>https://www.riscository.com/2026/messenger-for-email-wrocc-4th-march/</link>
+      <description>
+        <![CDATA[The next meeting of the Wakefield RISC OS Computer Club (WROCC) will take place on Wednesday 4th, March, at which the club&#8217;s own Chris Hughes will be delivering a talk on email and usenet access. More specifically, this is a follow-up talk to the one given by Martin Avison back in November, showing how to set up Pluto and Anti-Spam for accessing email. Chris will therefore be showing how to do the same using the commercial software available from R-Comp &#8211; Messenger Pro and Netfetch/Hermes. He will cover its set&#8230;]]>
+      </description>
+      <source:markdown>The next meeting of the Wakefield RISC OS Computer Club (WROCC) will take place on Wednesday 4th, March, at which the club’s own Chris Hughes will be delivering a talk on email and usenet access. More specifically, this is a follow-up talk to the one given by Martin Avison back in November, showing how to set up Pluto and Anti-Spam for accessing email. Chris will therefore be showing how to do the same using the commercial software available from R-Comp – Messenger Pro and Netfetch/Hermes. He will cover its set…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10887</guid>
+    </item>    <item>
+      <title>WROCC March 2026 talk on Wednesday - Setting up Messenger Pro and NetFetch/Hermes</title>
+      <link>http://www.iconbar.com/comments/rss/news2297.html</link>
+      <description>
+        <![CDATA[The March 2026 WROCC talk is on Wednesday 4th March and starts at 7.45pm on Zoom. After last month's AGM we are back to the usual format/link.]]>
+      </description>
+      <source:markdown>The March 2026 WROCC talk is on Wednesday 4th March and starts at 7.45pm on Zoom. After last month&#39;s AGM we are back to the usual format/link.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2297.html</guid>
+    </item>    <item>
+      <title>Rob Napier&#39;s book on Acorn published</title>
+      <link>http://www.iconbar.com/comments/rss/news2306.html</link>
+      <description>
+        <![CDATA[Rob gave a preview of his book at the Decemeber Rougol meeting.]]>
+      </description>
+      <source:markdown>Rob gave a preview of his book at the Decemeber Rougol meeting.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2306.html</guid>
+    </item>    <item>
+      <title>Putting the &#38;#39;C&#38;#39; into bee-bee-cee BASIC</title>
+      <link>https://www.riscosopen.org/news/articles/2026/03/01/putting-the-c-into-bee-bee-cee-basic</link>
+      <description>
+        <![CDATA[<p>An important first exploratory step to the moon is underway &#8211; creating a whole new <span class="caps">BASIC</span> interpreter, this time written in the high level language &#8216;C&#8217;. <span class="caps">BASIC</span> has been identified as one of nine significant parts of <span class="caps">RISC</span> OS which will need addressing for a <a href="/content/documents/risc-os-moonshots">future 64 bit</a> world, and what a historic place to get started!</p>
+        <h3>Why choose this approach?</h3>
+        <p>We took a long hard look at the 24,000+ lines of carefully tuned Arm assembler and decided that a literal translation, function by function, was not appropriate in this instance &#8211; the results would be just as difficult to understand and maintain. A survey of other implementations of <span class="caps">BASIC</span> (such as <a href="https://jaguar.orpheusweb.co.uk/branpage.html">Brandy <span class="caps">BASIC</span></a> and <a href="https://www.bbcbasic.net/bbcsdl/"><span class="caps">BBC</span> <span class="caps">BASIC</span> <span class="caps">SDL</span></a>) also ruled those out on licensing or compatibility grounds &#8211; a great deal of care and attention is needed to match the subtleties of the <span class="caps">RISC</span> OS Arm <span class="caps">BBC</span> <span class="caps">BASIC</span> interpreter &#8211; with a back catalogue of tokenised programs as far back as 1981&#8217;s seminal <code>BASIC I</code> the aim is to match nuances to the maximum extent possible.</p>
+        <p>The opportunity has also been taken to consolidate what are currently three separate copies of the interpreter in <span class="caps">RISC</span> OS 5 (<span class="caps">BASIC</span>, <span class="caps">BASICFPA</span>, <span class="caps">BASICVFP</span>) into a single module, reducing code duplication and wasted space.</p>]]>
+      </description>
+      <source:markdown>An important first exploratory step to the moon is underway – creating a whole new BASIC interpreter, this time written in the high level language ‘C’. BASIC has been identified as one of nine significant parts of RISC OS which will need addressing for a [future 64 bit](/content/documents/risc-os-moonshots) world, and what a historic place to get started!
+
+### Why choose this approach?
+
+We took a long hard look at the 24,000+ lines of carefully tuned Arm assembler and decided that a literal translation, function by function, was not appropriate in this instance – the results would be just as difficult to understand and maintain. A survey of other implementations of BASIC (such as [Brandy BASIC](https://jaguar.orpheusweb.co.uk/branpage.html) and [BBCBASICSDL](https://www.bbcbasic.net/bbcsdl/)) also ruled those out on licensing or compatibility grounds – a great deal of care and attention is needed to match the subtleties of the RISC OS Arm BBCBASIC interpreter – with a back catalogue of tokenised programs as far back as 1981’s seminal `BASIC I` the aim is to match nuances to the maximum extent possible.
+
+The opportunity has also been taken to consolidate what are currently three separate copies of the interpreter in RISC OS 5 (BASIC, BASICFPA, BASICVFP) into a single module, reducing code duplication and wasted space.</source:markdown>
+      <guid>cid://urn:uuid:f9216d5d-420e-4733-a165-5f4a7a225da4</guid>
+    </item>    <item>
+      <title>CSMwrap 2.0.0</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/03/csmwrap-200/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>CSMWrap is an EFI application designed to be a drop-in solution to enable legacy BIOS booting on modern UEFI-only (class 3) systems. "It achieves this by wrapping a Compatibility Support Module (CSM) build of the SeaBIOS project as an out-of-firmware EFI application, effectively creating a compatibility layer for traditional PC BIOS." That means you can boot classic operating like FreeDOS directly on newer EFI-only laptops and PCs. The developers "highly recommended that the partition table used is MBR" for compatibility. Find it at <a href="https://github.com/FlyGoat/CSMWrap" rel="nofollow">CSMwrap on GitHub</a>. Version 2.0.0 was released in February.</p></div>]]>
+      </description>
+      <source:markdown>CSMWrap is an EFI application designed to be a drop-in solution to enable legacy BIOS booting on modern UEFI-only (class 3) systems. &#34;It achieves this by wrapping a Compatibility Support Module (CSM) build of the SeaBIOS project as an out-of-firmware EFI application, effectively creating a compatibility layer for traditional PC BIOS.&#34; That means you can boot classic operating like FreeDOS directly on newer EFI-only laptops and PCs. The developers &#34;highly recommended that the partition table used is MBR&#34; for compatibility. Find it at [CSMwrap on GitHub](https://github.com/FlyGoat/CSMWrap). Version 2.0.0 was released in February.</source:markdown>
+      <guid>cid://https://sourceforge.netf0cc1af893d69e8cc675e7877ae052c253b44869</guid>
+    </item>    <item>
+      <title>LABEL 1.6</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/03/label-16/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>The LABEL command creates, changes or deletes the volume label of a disk. Version 1.6 is a release of changes from Andrew Bird from a few years ago.  It adds support in the CATS enabled version to use language specific response characters for Yes and No. Functionally it is otherwise the same as v1.5, only Open Watcom build is provided, but it still supports all previously supported compilers. You can find it at <a href="https://github.com/FDOS/label" rel="nofollow">LABEL on GitHub</a>, and the new version is the <a href="https://github.com/FDOS/label/releases/tag/v1.6" rel="nofollow">LABEL 1.6 release tag</a>.</p></div>]]>
+      </description>
+      <source:markdown>The LABEL command creates, changes or deletes the volume label of a disk. Version 1.6 is a release of changes from Andrew Bird from a few years ago. It adds support in the CATS enabled version to use language specific response characters for Yes and No. Functionally it is otherwise the same as v1.5, only Open Watcom build is provided, but it still supports all previously supported compilers. You can find it at [LABEL on GitHub](https://github.com/FDOS/label), and the new version is the [LABEL 1.6 release tag](https://github.com/FDOS/label/releases/tag/v1.6).</source:markdown>
+      <guid>cid://https://sourceforge.net9db669d4b6a8474530cde6257de798963d47246a</guid>
+    </item>    <item>
+      <title>FDNPKG16 version 0.99.8253c</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/03/fdnpkg16-version-0998253c/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Victoria Crenshaw has been working on updates to FDNPKG16, a network-aware package manager for FreeDOS.  Version 0.99.8253c was released last week with fixes and updates: * Updated translations. * Polished some things with the code. * Functionally should be the same as previous minor version. You can download it from the <a href="https://4ch.mooo.com/freedos/repos/1.4/html/en/net/fdnpkg16/" rel="nofollow">Package FDNPKG16</a> page on Victoria's server.</p></div>]]>
+      </description>
+      <source:markdown>Victoria Crenshaw has been working on updates to FDNPKG16, a network-aware package manager for FreeDOS. Version 0.99.8253c was released last week with fixes and updates: \* Updated translations. \* Polished some things with the code. \* Functionally should be the same as previous minor version. You can download it from the [Package FDNPKG16](https://4ch.mooo.com/freedos/repos/1.4/html/en/net/fdnpkg16/) page on Victoria&#39;s server.</source:markdown>
+      <guid>cid://https://sourceforge.net447a92fc3dbc0b426279f89f7e58ecd06efc2e16</guid>
+    </item>    <item>
+      <title>DUGL Player 1.0 Alpha 1</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/03/dugl-player-10-alpha-1/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>DUGL Player is a GUI video player for DOS systems, released by developer 'ffk' on February 28. The player uses external libraries LibOGG, LibVorbis and LibTheora, and supports WEBM and MPEG4. It's still in "alpha" status, and is missing several features including video sound, video seeking, detecting and handling orientation, and aspect ratio. You can find it at <a href="https://github.com/FFK77/DOS-DUGL/tree/main/duglproj/apps/DUGLPLAY" rel="nofollow">DOS-DUGL on GitHub</a>.</p></div>]]>
+      </description>
+      <source:markdown>DUGL Player is a GUI video player for DOS systems, released by developer &#39;ffk&#39; on February 28. The player uses external libraries LibOGG, LibVorbis and LibTheora, and supports WEBM and MPEG4. It&#39;s still in &#34;alpha&#34; status, and is missing several features including video sound, video seeking, detecting and handling orientation, and aspect ratio. You can find it at [DOS-DUGL on GitHub](https://github.com/FFK77/DOS-DUGL/tree/main/duglproj/apps/DUGLPLAY).</source:markdown>
+      <guid>cid://https://sourceforge.net22c86369654ea4c5f0c5968202e58d6fc2bcf168</guid>
+    </item>    <item>
+      <title>b.log 2026/03/01 - Being fifty is better - and no I&#39;m not sorry.</title>
+      <link>https://heyrick.eu/blog/entry/20260301</link>
+      <description>
+        <![CDATA[Being fifty is better - and no I'm not sorry.]]>
+      </description>
+      <source:markdown>Being fifty is better - and no I&#39;m not sorry.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260301</guid>
+    </item>    <item>
+      <title>b.log 2026/02/28 - Going shopping, Adventures in woodworking, Here comes the cavalry?, And so went the day.</title>
+      <link>https://heyrick.eu/blog/entry/20260228</link>
+      <description>
+        <![CDATA[Going shopping, Adventures in woodworking, Here comes the cavalry?, And so went the day.]]>
+      </description>
+      <source:markdown>Going shopping, Adventures in woodworking, Here comes the cavalry?, And so went the day.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260228</guid>
+    </item>    <item>
+      <title>Kevsoft’s Quiz creator released</title>
+      <link>https://www.riscository.com/2026/kevsoft-quiz-engine-released/</link>
+      <description>
+        <![CDATA[When Kevin Wells released FlagQuiz in late 2025, along with a couple of subsequent updates, he said that his plan was to make it possible for people to create their own quizzes using the software &#8211; and he has now met that goal with the release of The Kevsoft Quiz Engine. As well as two files that can be downloaded (although it appears only one &#8211; the skeleton &#8216;MyQuiz&#8217; is needed until and unless the Quiz Engine itself &#8211; which is currently at version 1.02 &#8211; is updated), the page&#8230;]]>
+      </description>
+      <source:markdown>When Kevin Wells released FlagQuiz in late 2025, along with a couple of subsequent updates, he said that his plan was to make it possible for people to create their own quizzes using the software – and he has now met that goal with the release of The Kevsoft Quiz Engine. As well as two files that can be downloaded (although it appears only one – the skeleton ‘MyQuiz’ is needed until and unless the Quiz Engine itself – which is currently at version 1.02 – is updated), the page…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10884</guid>
+    </item>
+  </channel>
+</rss>

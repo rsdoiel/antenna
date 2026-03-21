@@ -1,0 +1,67 @@
+#
+# A simple for packaging the Antenna project.
+#
+PROJECT = Antenna
+
+VERSION = $(shell grep '"version":' codemeta.json | cut -d\"  -f 4)
+
+build: CITATION.cff about.md check_for_software website
+
+check_for_software: .FORCE
+	./check_for_software.bash
+
+harvest: .FORCE
+	antenna harvest
+
+website: .FORCE
+	./website.bash
+
+pagefind: .FORCE
+	rm -fR pagefind
+	pagefind --verbose --force-language en
+	git add pagefind
+
+clean: .FORCE
+	-rm *.html 2>/dev/null
+
+about.md: .FORCE
+	@cmt codemeta.json about.md
+
+CITATION.cff: .FORCE
+	@cmt codemeta.json CITATION.cff
+	
+status:
+	git status
+
+save:
+	@if [ "$(msg)" != "" ]; then git commit -am "$(msg)"; else git commit -am "Quick Save"; fi
+	git push origin $(BRANCH)
+
+refresh:
+	git fetch origin
+	git pull origin $(BRANCH)
+
+publish: .FORCE
+	./publish.bash
+
+release: .FORCE
+	cmt codemeta.json CITATION.cff about.md
+	-rm -fR dist/* 2>/dev/null
+	mkdir -p dist
+	cp -v LICENSE dist/
+	cp -vR css dist/
+	cp -vR modules dist/
+	cp -vR media dist/
+	cp -v *.md dist/
+	cp -v *.tmpl dist/
+	cp -v *.lua dist/
+	cp -v check_for_software.* dist/
+	cp -v harvest.* dist/
+	cp -v website.* dist/
+	cp -v front_page.yaml dist/
+	cp -v other_reading.yaml dist/
+	cp -v pagefind.yaml dist/
+	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.yaml *.bash *.ps1 *.tmpl *.lua css modules media
+	printf "\nready to run\n\n\trelease.bash\n\n"
+
+.FORCE:

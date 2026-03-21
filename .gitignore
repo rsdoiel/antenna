@@ -1,0 +1,17 @@
+\.DS_Store
+\._*
+*~
+*.swp
+*.tmp
+*.bak
+# Project ignores
+*.log
+*.skim
+*.sql
+_*
+*.sql.gz
+*.ts
+*.db
+*-journal
+deno.*
+dist/*
