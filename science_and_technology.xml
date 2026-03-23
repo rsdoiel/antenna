@@ -4,10 +4,205 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Mar 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>23 Mar 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Intel&#39;s Core Ultra 270K, 250K Plus are an appeal to cash-strapped PC enthusiasts</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/intel_arrow_lake_refresh_review/</link>
+      <description>
+        <![CDATA[<h4>More cores, higher clocks, <em>and</em> lower prices? What&#39;s not to like?</h4> <p><strong>Review</strong>  It&#39;s a tough time to be a PC enthusiast. Between the memory crunch and the AI boom driving up prices on storage, DDR5, and GPUs, it&#39;s gotten prohibitively expensive to build a PC.…</p>]]>
+      </description>
+      <source:markdown>#### More cores, higher clocks, _and_ lower prices? What&#39;s not to like?
+
+**Review**  It&#39;s a tough time to be a PC enthusiast. Between the memory crunch and the AI boom driving up prices on storage, DDR5, and GPUs, it&#39;s gotten prohibitively expensive to build a PC.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245245</guid>
+    </item>    <item>
+      <title>Humans and Animals Often Like the Same Mating Calls, Supporting a 150-Year-Old Observation by Charles Darwin</title>
+      <link>https://www.smithsonianmag.com/smart-news/humans-and-animals-often-like-the-same-mating-calls-supporting-a-150-year-old-observation-by-charles-darwin-180988392/</link>
+      <description>
+        <![CDATA[New research by Smithsonian scientists suggests that preferences for certain sounds might be evolutionarily conserved]]>
+      </description>
+      <source:markdown>New research by Smithsonian scientists suggests that preferences for certain sounds might be evolutionarily conserved</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/d2irquneoSAlxRw0ib5U2gaZ_zk=/420x240/filters:focal(1431x947:1432x948)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/34/d234c056-97ca-44fa-83e1-073976fd6f96/green_treefrog_male_by_ryan_taylor.jpg" length="1706715" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/humans-and-animals-often-like-the-same-mating-calls-supporting-a-150-year-old-observation-by-charles-darwin-180988392/</guid>
+    </item>    <item>
+      <title>US chip testing firm shrugged off ransomware hit as minor - then came the data leak</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/us_chip_testing_firm_shrugged/</link>
+      <description>
+        <![CDATA[<h4>Trio-Tech International initially said hack wasn’t &#39;material,&#39; but then stolen data was published</h4> <p>Trio-Tech International initially shrugged off a ransomware attack at a Singapore subsidiary as immaterial, only to reverse course days later after discovering stolen data had been disclosed.…</p>]]>
+      </description>
+      <source:markdown>#### Trio-Tech International initially said hack wasn’t &#39;material,&#39; but then stolen data was published
+
+Trio-Tech International initially shrugged off a ransomware attack at a Singapore subsidiary as immaterial, only to reverse course days later after discovering stolen data had been disclosed.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245253</guid>
+    </item>    <item>
+      <title>RSAC 2026: Uncle Sam backs out, and AI agents are everywhere</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/</link>
+      <description>
+        <![CDATA[<h4>Infosec pros descend on San Francisco</h4> <p><strong>kettle</strong>  When El Reg cybersecurity editor Jessica Lyons joins infosec industry colleagues in San Francisco for RSAC 2026 this week, she&#39;s expecting agentic AI to be on everyone&#39;s lips - at least those who aren&#39;t busy gossiping about the lack of presence from any representatives of the US federal government.…</p>]]>
+      </description>
+      <source:markdown>#### Infosec pros descend on San Francisco
+
+**kettle**  When El Reg cybersecurity editor Jessica Lyons joins infosec industry colleagues in San Francisco for RSAC 2026 this week, she&#39;s expecting agentic AI to be on everyone&#39;s lips - at least those who aren&#39;t busy gossiping about the lack of presence from any representatives of the US federal government.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245233</guid>
+    </item>    <item>
+      <title>Microsoft fixes broken Windows update days after vowing fewer broken updates</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/emergency_fix_windows_11/</link>
+      <description>
+        <![CDATA[<h4>The era of reliability begins... right after this out-of-band patch</h4> <p>Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### The era of reliability begins... right after this out-of-band patch
+
+Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245250</guid>
+    </item>    <item>
+      <title>NASA sets &#39;impossible&#39; ground rules for relocation of &#39;flown space vehicle&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/nasa_rfp_shuttle_relocation/</link>
+      <description>
+        <![CDATA[<h4>Draft Request for Proposals says you can move shuttle orbiter but you cannot break it</h4> <p>NASA has issued a <a target="_blank" rel="nofollow" href="https://sam.gov/workspace/contract/opp/57ca8b9cc3934dfcac19e1a8d87d3778/view">draft Request for Proposals</a> to move a flown space vehicle, a step some lawmakers see as progress toward relocating Space Shuttle Discovery from the Smithsonian Museum in Virginia to Houston, Texas.…</p>]]>
+      </description>
+      <source:markdown>#### Draft Request for Proposals says you can move shuttle orbiter but you cannot break it
+
+NASA has issued a [draft Request for Proposals](https://sam.gov/workspace/contract/opp/57ca8b9cc3934dfcac19e1a8d87d3778/view) to move a flown space vehicle, a step some lawmakers see as progress toward relocating Space Shuttle Discovery from the Smithsonian Museum in Virginia to Houston, Texas.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245242</guid>
+    </item>    <item>
+      <title>These Historic Snuffboxes Associated With 18th-Century Monarchs Were Stolen in a Shocking Heist. Now, They&#39;re Back on Public Display</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-historic-snuffboxes-associated-with-18th-century-monarchs-were-stolen-in-a-shocking-heist-now-theyre-back-on-public-display-180988366/</link>
+      <description>
+        <![CDATA[In 2024, thieves made away with the intricately decorated boxes, which had been on display in Paris. Two of the boxes, which were later recovered, are now on view at the Victoria & Albert Museum in London]]>
+      </description>
+      <source:markdown>In 2024, thieves made away with the intricately decorated boxes, which had been on display in Paris. Two of the boxes, which were later recovered, are now on view at the Victoria &#38; Albert Museum in London</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gDs-8wqiWclSJvFeKlVEHT2o4h0=/420x240/filters:focal(696x464:697x465)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/49/d1/49d1d66e-9901-446c-9815-36e49b23369b/chrysoprase_snuffbox_berlin_circa_1760_loan-gilbert412-2008.jpeg" length="642954" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-historic-snuffboxes-associated-with-18th-century-monarchs-were-stolen-in-a-shocking-heist-now-theyre-back-on-public-display-180988366/</guid>
+    </item>    <item>
+      <title>The drone swarm is coming, and NATO air defenses are too expensive to cope</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/nato_air_defenses/</link>
+      <description>
+        <![CDATA[<h4>Ukraine&#39;s battlefield lessons show quantity and affordability now trump exquisite hardware</h4> <p>NATO is unprepared to deal with attacks by cheap, mass-produced drones and urgently needs layered, affordable air defense systems to counter the threat, taking a cue from the experience gained by Ukrainian forces over the past four years.…</p>]]>
+      </description>
+      <source:markdown>#### Ukraine&#39;s battlefield lessons show quantity and affordability now trump exquisite hardware
+
+NATO is unprepared to deal with attacks by cheap, mass-produced drones and urgently needs layered, affordable air defense systems to counter the threat, taking a cue from the experience gained by Ukrainian forces over the past four years.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245231</guid>
+    </item>    <item>
+      <title>CMA dithers on cloud probe as Microsoft&#39;s meter runs on taxpayer dime</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/the_cost_of_inaction_how/</link>
+      <description>
+        <![CDATA[<h4>Every month of &#39;careful consideration&#39; is another month Redmond laughs all the way to the bank</h4> <p>Here&#39;s the uncomfortable truth: every week the UK&#39;s Competition and Markets Authority (CMA) hesitates on its decision on the outcome of its public cloud services market investigation, the meter keeps running and taxpayers continue to foot the bill.…</p>]]>
+      </description>
+      <source:markdown>#### Every month of &#39;careful consideration&#39; is another month Redmond laughs all the way to the bank
+
+Here&#39;s the uncomfortable truth: every week the UK&#39;s Competition and Markets Authority (CMA) hesitates on its decision on the outcome of its public cloud services market investigation, the meter keeps running and taxpayers continue to foot the bill.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245219</guid>
+    </item>    <item>
+      <title>Calling out corporate BS? There&#39;s a steaming pile to aim for</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/corporate_bs_opinion/</link>
+      <description>
+        <![CDATA[<h4>Your instinctive revulsion is spot on. Follow your nose</h4> <p><strong>Opinion</strong>  Science is at its best when it makes manifest radical ideas that change our worldview. This is the flag all sane people salute, under which we march to war. Yet in our hearts, we know that the very tastiest science is that which confirms our prejudices and validates what we&#39;ve known all along. Cornell University has just served up a plate of the finest yet. Tuck in.…</p>]]>
+      </description>
+      <source:markdown>#### Your instinctive revulsion is spot on. Follow your nose
+
+**Opinion**  Science is at its best when it makes manifest radical ideas that change our worldview. This is the flag all sane people salute, under which we march to war. Yet in our hearts, we know that the very tastiest science is that which confirms our prejudices and validates what we&#39;ve known all along. Cornell University has just served up a plate of the finest yet. Tuck in.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245220</guid>
+    </item>    <item>
+      <title>When it comes to catastrophic space weather, the UK is holding a cocktail umbrella</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/nao_uk_space_weather/</link>
+      <description>
+        <![CDATA[<h4>National Audit Office warns government has little idea of how to respond in the event of a major solar storm</h4> <p>The UK&#39;s National Audit Office (NAO) has warned the country is underprepared for a severe space weather event.…</p>]]>
+      </description>
+      <source:markdown>#### National Audit Office warns government has little idea of how to respond in the event of a major solar storm
+
+The UK&#39;s National Audit Office (NAO) has warned the country is underprepared for a severe space weather event.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245221</guid>
+    </item>    <item>
+      <title>Junior disobeyed orders and tried untested feature during a live robot demo</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/who_me/</link>
+      <description>
+        <![CDATA[<h4>First came the facepalm, then the faceplant, then the loss of face</h4> <p><strong>Who, Me?</strong>  Monday is upon us, but before you use the new week to explore opportunity and adventure, <i>The Register</i> presents a new installment of Who, Me? It&#39;s our weekly reader-contributed column that shares your stories of flops, failures, and foul-ups.…</p>]]>
+      </description>
+      <source:markdown>#### First came the facepalm, then the faceplant, then the loss of face
+
+**Who, Me?**  Monday is upon us, but before you use the new week to explore opportunity and adventure, _The Register_ presents a new installment of Who, Me? It&#39;s our weekly reader-contributed column that shares your stories of flops, failures, and foul-ups.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245217</guid>
+    </item>    <item>
+      <title>Day Zero: When the wells run dry</title>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5698146/water-crisis-dry-drinking</link>
+      <description>
+        <![CDATA[In honor of World Water Day, Short Wave is exploring the ways water touches our lives. From increasing water shortages around the world, to how it’s affecting agriculture and aquifers. We’re starting with “day zero”: the day a city or place runs out of water. Cape Town, Mexico City, Chennai in India are just a few places that have come close to day zero events. Today, we talk to experts and hear from someone who lived in Cape Town during the crisis about why we’re overdue for rethinking our relationship to water. <br/><br/><em>Interested in more science behind current events? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>In honor of World Water Day, Short Wave is exploring the ways water touches our lives. From increasing water shortages around the world, to how it’s affecting agriculture and aquifers. We’re starting with “day zero”: the day a city or place runs out of water. Cape Town, Mexico City, Chennai in India are just a few places that have come close to day zero events. Today, we talk to experts and hear from someone who lived in Cape Town during the crisis about why we’re overdue for rethinking our relationship to water.
+
+_Interested in more science behind current events? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+To manage podcast ad preferences, review the links below:
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/63da9eea-167f-47eb-b2d8-2a1318a92076/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=63da9eea-167f-47eb-b2d8-2a1318a92076&feed=F0qJcgXZ&t=podcast&e=nx-s1-5698146&p=510351&d=713&size=11418689" length="11418689" type="audio/mpeg" />
+      <guid>cid://9cfd322d-18b3-483b-8f39-f9752077c520</guid>
+    </item>    <item>
+      <title>Elon Musk wants to build 50 times more chips than the world currently produces, using &#39;new physics&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/musk_terafab/</link>
+      <description>
+        <![CDATA[<h4>Like his promise to get a million robocabs on the road, this doesn&#39;t add up</h4> <p>Elon Musk has put Tesla, SpaceX, and xAI in harness to build a chip fabrication outfit called &#34;Terafab&#34; capable of producing a terawatt&#39;s worth of computing power each year, then send most of it into space.…</p>]]>
+      </description>
+      <source:markdown>#### Like his promise to get a million robocabs on the road, this doesn&#39;t add up
+
+Elon Musk has put Tesla, SpaceX, and xAI in harness to build a chip fabrication outfit called &#34;Terafab&#34; capable of producing a terawatt&#39;s worth of computing power each year, then send most of it into space.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245249</guid>
+    </item>    <item>
+      <title>A Fault Line in Full Bloom</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/</link>
+      <description>
+        <![CDATA[Plains around the San Andreas Fault and across Carrizo Plain National Monument are awash with yellow as wildflowers bloom.]]>
+      </description>
+      <source:markdown>Plains around the San Andreas Fault and across Carrizo Plain National Monument are awash with yellow as wildflowers bloom.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/</guid>
+    </item>    <item>
+      <title>Microsoft: Removing some Copilots will improve Windows 11</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/windows_quality_commitment/</link>
+      <description>
+        <![CDATA[<h4>&#39;Doze boss admits quality is down, promises smaller memory footprint and fixes for many well-known issues</h4> <p>Microsoft has acknowledged that it needs to improve the quality of Windows 11 and outlined its plan to get the job done.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### &#39;Doze boss admits quality is down, promises smaller memory footprint and fixes for many well-known issues
+
+Microsoft has acknowledged that it needs to improve the quality of Windows 11 and outlined its plan to get the job done.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245248</guid>
+    </item>    <item>
+      <title>Australia to datacenter operators: BYO energy, pay your way, build green, or stay home</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/23/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Singtel’s triple outage; 17,000 counterfeit hard drives seized; Tech wages shift across Asia; And more!</h4> <p><strong>Asia In Brief</strong>  Australia’s government on Monday <a target="_blank" rel="nofollow" href="https://www.industry.gov.au/news/new-data-centre-expectations-help-bring-benefit-ai-all-australians">announced</a> a set of datacenter “expectations” to guide would-be bit barn builders who contemplate breaking ground down under.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: Singtel’s triple outage; 17,000 counterfeit hard drives seized; Tech wages shift across Asia; And more!
+
+**Asia In Brief**  Australia’s government on Monday [announced](https://www.industry.gov.au/news/new-data-centre-expectations-help-bring-benefit-ai-all-australians) a set of datacenter “expectations” to guide would-be bit barn builders who contemplate breaking ground down under.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245246</guid>
+    </item>    <item>
+      <title>Russians are posing as Signal support to launch phishing attacks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/22/russian_messaging_support_phishing_scam/</link>
+      <description>
+        <![CDATA[<h4>PLUS: US takes down Iranian propaganda sites; Marketing company asks &#39;Why Do We Have Your Information?&#39; And more!</h4> <p><strong>Infosec In Brief</strong>  Russian intelligence-affiliated parties are posing as customer support services on commercial messaging applications such as Signal to compromise accounts and conduct phishing attacks, the FBI and Cybersecurity and Infrastructure Security Agency (CISA) warned last Friday.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: US takes down Iranian propaganda sites; Marketing company asks &#39;Why Do We Have Your Information?&#39; And more!
+
+**Infosec In Brief**  Russian intelligence-affiliated parties are posing as customer support services on commercial messaging applications such as Signal to compromise accounts and conduct phishing attacks, the FBI and Cybersecurity and Infrastructure Security Agency (CISA) warned last Friday.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245235</guid>
+    </item>    <item>
+      <title>Transformational Tools and Technologies Resources</title>
+      <link>https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/</link>
+      <description>
+        <![CDATA[Vision Studies, Analysis of Alternatives (AoA) Studies, and White Papers]]>
+      </description>
+      <source:markdown>Vision Studies, Analysis of Alternatives (AoA) Studies, and White Papers</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=976269</guid>
+    </item>    <item>
       <title>CERN eggheads burn AI into silicon to stem data deluge</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/</link>
       <description>
@@ -208,14 +403,6 @@ NASA is reportedly considering using SpaceX&#39;s Starship to transport the Orio
 The post [The Jellies That Evolved a Different Way To Keep Time](https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
       <guid>cid://https://www.quantamagazine.org/?p=160099</guid>
     </item>    <item>
-      <title>NASA Simulations Improve Artemis II Launch Environment</title>
-      <link>https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/</link>
-      <description>
-        <![CDATA[Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which&#160;is&#160;why NASA used advanced simulations to provide&#160;the best possible launch conditions&#160;for&#160;the&#160;Artemis II&#160;test flight around the Moon.&#160; To better understand the&#160;Artemis&#160;Space Launch System (SLS) rocket’s flight environment, engineers turned&#160;to a NASA-developed tool called the Launch, Ascent, and&#160;Vehicle Aerodynamics [&#8230;]]]>
-      </description>
-      <source:markdown>Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which is why NASA used advanced simulations to provide the best possible launch conditions for the Artemis II test flight around the Moon.  To better understand the Artemis Space Launch System (SLS) rocket’s flight environment, engineers turned to a NASA-developed tool called the Launch, Ascent, and Vehicle Aerodynamics \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=975372</guid>
-    </item>    <item>
       <title>European Hedgehogs&#39; Hearing Might Be Attuned to Ultrasonic Sounds. The Discovery Could Help Scientists Save the Declining Species</title>
       <link>https://www.smithsonianmag.com/smart-news/european-hedgehogs-hearing-might-be-attuned-to-ultrasonic-sounds-the-discovery-could-help-scientists-save-the-declining-species-180988383/</link>
       <description>
@@ -224,6 +411,14 @@ The post [The Jellies That Evolved a Different Way To Keep Time](https://www.qua
       <source:markdown>Sound-based deterrents could help keep the animals away from fast-moving cars and dangerous landscaping equipment</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/U7lOLqnsdhY4AKuCTXVWI3S_s2Q=/420x240/filters:focal(1229x609:1230x610)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/50/c2/50c2b59f-5724-483c-854e-1f7005929e57/european_hedgehog_listening_credits_tine_reinholt_jensen.jpg" length="1674194" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/european-hedgehogs-hearing-might-be-attuned-to-ultrasonic-sounds-the-discovery-could-help-scientists-save-the-declining-species-180988383/</guid>
+    </item>    <item>
+      <title>NASA Simulations Improve Artemis II Launch Environment</title>
+      <link>https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/</link>
+      <description>
+        <![CDATA[Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which&#160;is&#160;why NASA used advanced simulations to provide&#160;the best possible launch conditions&#160;for&#160;the&#160;Artemis II&#160;test flight around the Moon.&#160; To better understand the&#160;Artemis&#160;Space Launch System (SLS) rocket’s flight environment, engineers turned&#160;to a NASA-developed tool called the Launch, Ascent, and&#160;Vehicle Aerodynamics [&#8230;]]]>
+      </description>
+      <source:markdown>Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which is why NASA used advanced simulations to provide the best possible launch conditions for the Artemis II test flight around the Moon.  To better understand the Artemis Space Launch System (SLS) rocket’s flight environment, engineers turned to a NASA-developed tool called the Launch, Ascent, and Vehicle Aerodynamics \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=975372</guid>
     </item>    <item>
       <title>Microsoft breaks Microsoft account sign-ins in Windows 11 with latest update</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/microsoft_account_not_working_have/</link>
@@ -6276,54 +6471,6 @@ OpenAI has signed a deal with the United States Department of War (DoW) that all
 
 South Korea’s National Tax Service has apologized after it leaked passwords to a stash of stolen crypto, which parties unknown used to make off with the digi-cash.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244805</guid>
-    </item>    <item>
-      <title>Lenovo shows off snap-together laptop with removable keyboard, screen, and ports</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/01/lenovo_shows_off_modular_laptop/</link>
-      <description>
-        <![CDATA[<h4>New ThinkPads also come in blue, get perfect fixability score</h4> <p>If you own a desktop computer, you&#39;re used to swapping parts and peripherals around, but most laptops are closed boxes with few ways to modify them. Lenovo&#39;s new ThinkBook Modular AI PC concept shows what happens when you can remove a screen, a keyboard, and even blocks of ports from a mobile PC.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### New ThinkPads also come in blue, get perfect fixability score
-
-If you own a desktop computer, you&#39;re used to swapping parts and peripherals around, but most laptops are closed boxes with few ways to modify them. Lenovo&#39;s new ThinkBook Modular AI PC concept shows what happens when you can remove a screen, a keyboard, and even blocks of ports from a mobile PC.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244798</guid>
-    </item>    <item>
-      <title>AWS Middle East disrupted after ‘objects struck datacenter’ amid Iran war</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/01/asia_tech_news_roundup/</link>
-      <description>
-        <![CDATA[<h4>PLUS: AI claims 2,000 jobs at Australia’s WiseTech; Samsung wants humanoid robots for autonomous factories; Micron opens India plant; And more!</h4> <p><strong>Asia In brief</strong>  One of Amazon Web Services’ availability zones in the United Arab Emirates is offline after the facility was hit by unknown objects.…</p>]]>
-      </description>
-      <source:markdown>#### PLUS: AI claims 2,000 jobs at Australia’s WiseTech; Samsung wants humanoid robots for autonomous factories; Micron opens India plant; And more!
-
-**Asia In brief**  One of Amazon Web Services’ availability zones in the United Arab Emirates is offline after the facility was hit by unknown objects.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244804</guid>
-    </item>    <item>
-      <title>You can use newline characters in URLs</title>
-      <link>https://www.osnews.com/story/144513/you-can-use-newline-characters-in-urls/</link>
-      <description>
-        <![CDATA[I had no idea, but apparently, you can just use newline characters and tabs in URLs without any issues. Notice how it reports an error if there is a tab or newline character, but continues anyway? The specification says that A validation error does not mean that the parser terminates and it encourages systems to report errors somewhere. Effectively, the error is ignored although it might be logged. Thus our HTML is fine in practice. ↫ Daniel Lemire This reminds me of the &#8220;Email is easy&#8221; quiz.]]>
-      </description>
-      <source:markdown>I had no idea, but apparently, you can just use newline characters and tabs in URLs without any issues. Notice how it reports an error if there is a tab or newline character, but continues anyway? The specification says that A validation error does not mean that the parser terminates and it encourages systems to report errors somewhere. Effectively, the error is ignored although it might be logged. Thus our HTML is fine in practice. ↫ Daniel Lemire This reminds me of the “Email is easy” quiz.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144513</guid>
-    </item>    <item>
-      <title>OpenClaw, but in containers: Meet NanoClaw</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/01/nanoclaw_container_openclaw/</link>
-      <description>
-        <![CDATA[<h4>A smaller, security-conscious take on the viral AI agent platform</h4> <p><strong>Interview</strong>  Ideally, you shouldn&#39;t have to defend yourself against your own AI agent. But we don&#39;t live in an ideal world and an unrestrained agent can cause a ton of damage.…</p>]]>
-      </description>
-      <source:markdown>#### A smaller, security-conscious take on the viral AI agent platform
-
-**Interview**  Ideally, you shouldn&#39;t have to defend yourself against your own AI agent. But we don&#39;t live in an ideal world and an unrestrained agent can cause a ton of damage.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244799</guid>
-    </item>    <item>
-      <title>SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/01/saaspocalypse_opinion/</link>
-      <description>
-        <![CDATA[<h4>Lost among the investor froth, someone has to do all the boring stuff. And they&#39;ll probably be around for the next spin of the hype cycle</h4> <p><strong>Opinion</strong>  Say goodbye to the SaaS-pocalypse theory, which posits that advances in AI will bring the software-as-a-service market to its knees. Say hello to &#34;a feedback loop with no natural brake.&#34; Or doomster porn, as others would have it.…</p>]]>
-      </description>
-      <source:markdown>#### Lost among the investor froth, someone has to do all the boring stuff. And they&#39;ll probably be around for the next spin of the hype cycle
-
-**Opinion**  Say goodbye to the SaaS-pocalypse theory, which posits that advances in AI will bring the software-as-a-service market to its knees. Say hello to &#34;a feedback loop with no natural brake.&#34; Or doomster porn, as others would have it.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244788</guid>
     </item>
   </channel>
 </rss>

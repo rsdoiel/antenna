@@ -4,10 +4,47 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>22 Mar 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>23 Mar 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What’s New Online at the Library of Congress: March 2026</title>
+      <link>https://blogs.loc.gov/thesignal/2026/03/new-loc-march-2026/</link>
+      <description>
+        <![CDATA[In our Spring 2026 edition of "What’s New Online at the Library of Congress," we share updates to the Library's digital collections, web archives, datasets, and more. Click through to read all about it!]]>
+      </description>
+      <source:markdown>In our Spring 2026 edition of &#34;What’s New Online at the Library of Congress,&#34; we share updates to the Library&#39;s digital collections, web archives, datasets, and more. Click through to read all about it!</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=37027</guid>
+    </item>    <item>
+      <title>The Role of Gossip in Scholarly Publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/03/23/the-role-of-gossip-in-scholarly-publishing/</link>
+      <description>
+        <![CDATA[<p>Let’s say the quiet part out loud: gossip plays an important role in scholarly publishing. But is that a bad thing?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/03/23/the-role-of-gossip-in-scholarly-publishing/">The Role of Gossip in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Let’s say the quiet part out loud: gossip plays an important role in scholarly publishing. But is that a bad thing?
+
+The post [The Role of Gossip in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/03/23/the-role-of-gossip-in-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61750</guid>
+    </item>    <item>
+      <title>Chance, by Joseph Conrad</title>
+      <link>https://standardebooks.org/ebooks/joseph-conrad/chance</link>
+      <description>
+        <![CDATA[The daughter of a banker jailed for fraud spontanously decides to marry a sea captain after a brief encounter.]]>
+      </description>
+      <source:markdown>The daughter of a banker jailed for fraud spontanously decides to marry a sea captain after a brief encounter.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/chance/downloads/joseph-conrad_chance.epub?source=feed" length="675610" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/chance</guid>
+    </item>    <item>
+      <title>The Experiences of Loveday Brooke, Lady Detective, by Catherine Louisa Pirkis</title>
+      <link>https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective</link>
+      <description>
+        <![CDATA[A female private investigator solves crimes in late-Victorian England.]]>
+      </description>
+      <source:markdown>A female private investigator solves crimes in late-Victorian England.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective/downloads/catherine-louisa-pirkis_the-experiences-of-loveday-brooke-lady-detective.epub?source=feed" length="770226" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective</guid>
+    </item>    <item>
       <title>The Hoosier Schoolmaster, by Edward Eggleston</title>
       <link>https://standardebooks.org/ebooks/edward-eggleston/the-hoosier-schoolmaster</link>
       <description>
@@ -99,7 +136,7 @@ The post [STM Plants a Flag About Responsible Use of Research Content in GenAI](
         <p>Crossref, as the earliest adopter of DOIs specialising in scholarly research, became synonymous with DOIs in this community. However, not everyone realises that DOIs can be registered with any one of nine different agencies, which are all separate organisations with entirely separate systems that do not at present integrate or connect. And what’s more – there isn’t a central or shared “DOI schema” – each agency develops the metadata for the purposes of their organisation or community. In Crossref’s case, with our vision to create the research nexus as a complete and robust network of relationships between objects, people, and institutions of scholarship – that community encompasses the whole of the research enterprise.</p>
         <p>The immense 180 million records of research outputs in Crossref are maintained in a system that 24,000 member organisations have already invested in. Those records benefit from rich and format-appropriate metadata schema, developed in close collaboration with the community, which makes it possible for our members to offer contextual information about each object they register. We have a <a href="https://www.canva.com/design/DAG7wb4NXhc/uC4PVxNEY7alr3x16gscSQ/watch" target="_blank">long history</a> of working with our members on recording that context, creating tools, and providing support to adopt standard metadata, enriching the context for the benefit of the scholarly community, and society at large.</p>
         <p>Of course, those metadata records are not perfect, both in terms of quality and completeness, and the frustration around gaps in metadata is particularly strong. We are working to improve the quality and completeness of the metadata from many angles: by working with the community to understand their needs and obstacles, by identifying and analysing potential sources for additional metadata, by maintaining and adopting the existing system to changing environment, and by planning a new flexible system that will allow third-party assertions and automated enrichment workflows.</p>
-        <p>In 2020, we published a paper for the inaugural issue of Qualitative Science Studies on <a href="https://doi.org/10.1162/qss_a_00022" target="_blank">Crossref: The Sustainable Source of Community-Owned Scholarly Metadata</a> and blogged an introduction to it under <a href="https://doi.org/10.64000/3gpwy-1qd71" target="_blank">Crossref Metadata for Bibliometrics</a>. One of the things our analyses in 2019 showed was that over 80% of records between 2013-2016 had been updated. Reviewing the numbers recently, we continue to see this stewardship and maintenance of metadata, amounting to almost 70% of records from the past decade being updated at least once. On the dawn of reaching 2 billion citation links, we’d like to share our experience, plans, and views on this ubiquitous activity of updating and connecting metadata – by our members and by automations built into the system by us. Altogether, these constitute the enrichment process to improve the usability of the information for the community.</p>
+        <p>In 2020, we published a paper for the inaugural issue of Quantitative Science Studies on <a href="https://doi.org/10.1162/qss_a_00022" target="_blank">Crossref: The Sustainable Source of Community-Owned Scholarly Metadata</a> and blogged an introduction to it under <a href="https://doi.org/10.64000/3gpwy-1qd71" target="_blank">Crossref Metadata for Bibliometrics</a>. One of the things our analyses in 2019 showed was that over 80% of records between 2013-2016 had been updated. Reviewing the numbers recently, we continue to see this stewardship and maintenance of metadata, amounting to almost 70% of records from the past decade being updated at least once. On the dawn of reaching 2 billion citation links, we’d like to share our experience, plans, and views on this ubiquitous activity of updating and connecting metadata – by our members and by automations built into the system by us. Altogether, these constitute the enrichment process to improve the usability of the information for the community.</p>
         <h2 id="metadata-available-through-crossref">Metadata available through Crossref</h2>
         <p>Crossref collects, processes, stores, and shares metadata records for a wide range of research outputs. While each record describes an individual research output, it also mentions other entities and their attributes - and, most importantly, the relationships between them. Two works identified by DOIs, for example, may be linked by a citation relationship. A person identified by an ORCID may be connected to an institution identified by a ROR ID through an affiliation relationship. A preprint and its corresponding journal article, each with its own DOI, can be linked by an “is preprint of” relationship. A research output may be associated with a grant through a “financed by” relationship. Together, these entities and relationships form the foundational building blocks of the research nexus.</p>
         <p>As of March 14, 2026, the Crossref database contains 180,034,490 metadata records describing research outputs. You can download all the records and examine them yourself in the <a href="https://doi.org/10.64000/7s70g-drz77" target="_blank">latest public data file</a>. The plot below illustrates how the number of works has changed over time, showing that the rate of growth is accelerating.</p>
@@ -217,7 +254,7 @@ The immense 180 million records of research outputs in Crossref are maintained i
 
 Of course, those metadata records are not perfect, both in terms of quality and completeness, and the frustration around gaps in metadata is particularly strong. We are working to improve the quality and completeness of the metadata from many angles: by working with the community to understand their needs and obstacles, by identifying and analysing potential sources for additional metadata, by maintaining and adopting the existing system to changing environment, and by planning a new flexible system that will allow third-party assertions and automated enrichment workflows.
 
-In 2020, we published a paper for the inaugural issue of Qualitative Science Studies on [Crossref: The Sustainable Source of Community-Owned Scholarly Metadata](https://doi.org/10.1162/qss_a_00022) and blogged an introduction to it under [Crossref Metadata for Bibliometrics](https://doi.org/10.64000/3gpwy-1qd71). One of the things our analyses in 2019 showed was that over 80% of records between 2013-2016 had been updated. Reviewing the numbers recently, we continue to see this stewardship and maintenance of metadata, amounting to almost 70% of records from the past decade being updated at least once. On the dawn of reaching 2 billion citation links, we’d like to share our experience, plans, and views on this ubiquitous activity of updating and connecting metadata – by our members and by automations built into the system by us. Altogether, these constitute the enrichment process to improve the usability of the information for the community.
+In 2020, we published a paper for the inaugural issue of Quantitative Science Studies on [Crossref: The Sustainable Source of Community-Owned Scholarly Metadata](https://doi.org/10.1162/qss_a_00022) and blogged an introduction to it under [Crossref Metadata for Bibliometrics](https://doi.org/10.64000/3gpwy-1qd71). One of the things our analyses in 2019 showed was that over 80% of records between 2013-2016 had been updated. Reviewing the numbers recently, we continue to see this stewardship and maintenance of metadata, amounting to almost 70% of records from the past decade being updated at least once. On the dawn of reaching 2 billion citation links, we’d like to share our experience, plans, and views on this ubiquitous activity of updating and connecting metadata – by our members and by automations built into the system by us. Altogether, these constitute the enrichment process to improve the usability of the information for the community.
 
 ## Metadata available through Crossref
 
