@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Mar 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>24 Mar 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -3876,47 +3876,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       <source:markdown>Google has announced that, soon, anyone looking to develop Android apps will have to first register centrally with Google.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://0f5a88104b033ac9fb9a2cbad77415e3</guid>
-    </item>    <item>
-      <title>Kernel 7.0 Now in Testing</title>
-      <link>http://www.linux-magazine.com/Online/News/Kernel-7.0-Now-in-Testing</link>
-      <description>
-        <![CDATA[<p>Linus Torvalds has announced the first Release Candidate (RC) for the 7.x kernel is available for those who want to test it.</p>]]>
-      </description>
-      <source:markdown>Linus Torvalds has announced the first Release Candidate (RC) for the 7.x kernel is available for those who want to test it.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://6c9649742c6643cad49a38c6a98e96c1</guid>
-    </item>    <item>
-      <title>dev86 BCC 0.16.21 and 1.0.1</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/03/dev86-bcc-01621-and-101/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Ben Collver has been working to compile the BCC compiler in 16-bit DOS. BCC is "Bruce's C Compiler," an old "barely ANSI" C compiler that produces 8086 assembler for tiny/small models. Ben recently shared versions for testing. He adds: "The 32-bit version requires HXRT to run on DOS" and "0.6.21 and 1.0.1 are both OpenWatcom builds. The compiler is too large to compile itself." Version 0.16.21 is probably the one to try, as Ben notes that "1.0.1 has a bunch of changes, some good, and others i don't trust yet. So i am keeping both copies around for now." You can find it at <a href="https://gopher.tildeverse.org/tilde.pink/1/~bencollver/files/dos/devel/bcc/" rel="nofollow">Ben's BCC page</a>. We've also mirrored it on the FreeDOS Files Archive at Ibiblio under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/c/bcc" rel="nofollow">files/devel/c/bcc</a>. <em>Note: Ibiblio is currently running very slow.</em></p></div>]]>
-      </description>
-      <source:markdown>Ben Collver has been working to compile the BCC compiler in 16-bit DOS. BCC is &#34;Bruce&#39;s C Compiler,&#34; an old &#34;barely ANSI&#34; C compiler that produces 8086 assembler for tiny/small models. Ben recently shared versions for testing. He adds: &#34;The 32-bit version requires HXRT to run on DOS&#34; and &#34;0.6.21 and 1.0.1 are both OpenWatcom builds. The compiler is too large to compile itself.&#34; Version 0.16.21 is probably the one to try, as Ben notes that &#34;1.0.1 has a bunch of changes, some good, and others i don&#39;t trust yet. So i am keeping both copies around for now.&#34; You can find it at [Ben&#39;s BCC page](https://gopher.tildeverse.org/tilde.pink/1/~bencollver/files/dos/devel/bcc/). We&#39;ve also mirrored it on the FreeDOS Files Archive at Ibiblio under [files/devel/c/bcc](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/c/bcc). _Note: Ibiblio is currently running very slow._</source:markdown>
-      <guid>cid://https://sourceforge.net55bc275f127392873aed092a4c8576559d85e746</guid>
-    </item>    <item>
-      <title>Setting up and Using Messenger for email – WROCC, 4th March</title>
-      <link>https://www.riscository.com/2026/messenger-for-email-wrocc-4th-march/</link>
-      <description>
-        <![CDATA[The next meeting of the Wakefield RISC OS Computer Club (WROCC) will take place on Wednesday 4th, March, at which the club&#8217;s own Chris Hughes will be delivering a talk on email and usenet access. More specifically, this is a follow-up talk to the one given by Martin Avison back in November, showing how to set up Pluto and Anti-Spam for accessing email. Chris will therefore be showing how to do the same using the commercial software available from R-Comp &#8211; Messenger Pro and Netfetch/Hermes. He will cover its set&#8230;]]>
-      </description>
-      <source:markdown>The next meeting of the Wakefield RISC OS Computer Club (WROCC) will take place on Wednesday 4th, March, at which the club’s own Chris Hughes will be delivering a talk on email and usenet access. More specifically, this is a follow-up talk to the one given by Martin Avison back in November, showing how to set up Pluto and Anti-Spam for accessing email. Chris will therefore be showing how to do the same using the commercial software available from R-Comp – Messenger Pro and Netfetch/Hermes. He will cover its set…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10887</guid>
-    </item>    <item>
-      <title>WROCC March 2026 talk on Wednesday - Setting up Messenger Pro and NetFetch/Hermes</title>
-      <link>http://www.iconbar.com/comments/rss/news2297.html</link>
-      <description>
-        <![CDATA[The March 2026 WROCC talk is on Wednesday 4th March and starts at 7.45pm on Zoom. After last month's AGM we are back to the usual format/link.]]>
-      </description>
-      <source:markdown>The March 2026 WROCC talk is on Wednesday 4th March and starts at 7.45pm on Zoom. After last month&#39;s AGM we are back to the usual format/link.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2297.html</guid>
-    </item>    <item>
-      <title>Rob Napier&#39;s book on Acorn published</title>
-      <link>http://www.iconbar.com/comments/rss/news2306.html</link>
-      <description>
-        <![CDATA[Rob gave a preview of his book at the Decemeber Rougol meeting.]]>
-      </description>
-      <source:markdown>Rob gave a preview of his book at the Decemeber Rougol meeting.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2306.html</guid>
     </item>
   </channel>
 </rss>
