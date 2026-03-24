@@ -10,6 +10,7 @@ title: North America
 - [What A Day (crooked media)](https://crookedmedia.substack.com/feed)
 - [Federal News Network](https://federalnewsnetwork.com/feed/)
 - Saturday Evening Post, <https://www.saturdayeveningpost.com/feed/>
+- [The American Prospect](https://prospect.org/feed/)
 
 
 # Government News Sources
