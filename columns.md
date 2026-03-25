@@ -274,7 +274,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Aaron Bos blog](https://aaronbos.dev/feed.xml)
 - [Harry Scell's blog, (wrote hscells/doi)](https://scells.me/index.xml)
 - [Our Future.org](https://ourfuture.org/feed)
-- [Simon Willison’s Weblog](https://simonwillison.net/atom/everything/)
 - [Bacalhau Blog](https://blog.bacalhau.org/feed)
 - [Tina Brown](https://tinabrown.substack.com/feed)
 - This is history podcast, <https://therestishistory.com/feed/> RSS feed broken as of RSD 2026-02-24
@@ -360,7 +359,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Kettlekasten Blog](https://zettelkasten.de/feed.atom)
 - [Well Gedacht](https://blog.wellgedacht.org/wgp/feed/)
 - [BZ Blog](https://blogsystem5.substack.com/feed)
-- [Joan Westenberg Blog](https://www.joanwestenberg.com/rss/)
 - [Indivisble Team blog](https://indivisibleteam.substack.com/feed)
   - Old URL <https://indivisibleteam.substack.com/feed/>, RSD 2026-02-24
 - [Ivan Penchev blog](https://penchev.com/feed.xml)
