@@ -4,10 +4,36 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Mar 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Mar 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/03/24 - Serial data rate, Lyrics to &#39;The Beetle Song&#39;, Getting work done?, Tidying up the Abyss, One Piece.</title>
+      <link>https://heyrick.eu/blog/entry/20260324</link>
+      <description>
+        <![CDATA[Serial data rate, Lyrics to 'The Beetle Song', Getting work done?, Tidying up the Abyss, One Piece.]]>
+      </description>
+      <source:markdown>Serial data rate, Lyrics to &#39;The Beetle Song&#39;, Getting work done?, Tidying up the Abyss, One Piece.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260324</guid>
+    </item>    <item>
+      <title>System76 Retools Thelio Desktop</title>
+      <link>http://www.linux-magazine.com/Online/News/System76-Retools-Thelio-Desktop</link>
+      <description>
+        <![CDATA[<p>The new Thelio Mira has landed with improved performance, repairability, and front-facing ports alongside a high-quality tempered glass facade.</p>]]>
+      </description>
+      <source:markdown>The new Thelio Mira has landed with improved performance, repairability, and front-facing ports alongside a high-quality tempered glass facade.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://90ba5897fef3564efcd6ea456c85aad6</guid>
+    </item>    <item>
+      <title>Some Linux Distros Skirt Age Verification Laws</title>
+      <link>http://www.linux-magazine.com/Online/News/Some-Linux-Distros-Skirt-Age-Verification-Laws</link>
+      <description>
+        <![CDATA[<p>After California introduced an age verification law recently, open source operating system developers have had to get creative with how they deal with it.</p>]]>
+      </description>
+      <source:markdown>After California introduced an age verification law recently, open source operating system developers have had to get creative with how they deal with it.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://b2c79e77762049894907f5fc4f2de315</guid>
+    </item>    <item>
       <title>The White KIM-1</title>
       <link>http://retro.hansotten.nl/the-white-kim-1/</link>
       <description>
@@ -3859,23 +3885,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       </description>
       <source:markdown>Under the name KEMPAC SYSTEM Eurocards and Microcomputers for Industrial Automation a 19 inch rack system was developed in the 80ties around the 6502 by the (of TMX fame) Kuipers Electronic Engineering B.V., Zwijndrecht Gerben Voort has acquired such a system and has shared the se photos. In the future I hope to scan the \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20054</guid>
-    </item>    <item>
-      <title>b.log 2026/03/03 - On typing.</title>
-      <link>https://heyrick.eu/blog/entry/20260303</link>
-      <description>
-        <![CDATA[On typing.]]>
-      </description>
-      <source:markdown>On typing.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260303</guid>
-    </item>    <item>
-      <title>Keep Android Open</title>
-      <link>http://www.linux-magazine.com/Online/News/Keep-Android-Open</link>
-      <description>
-        <![CDATA[<p>Google has announced that, soon, anyone looking to develop Android apps will have to first register centrally with Google.</p>]]>
-      </description>
-      <source:markdown>Google has announced that, soon, anyone looking to develop Android apps will have to first register centrally with Google.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://0f5a88104b033ac9fb9a2cbad77415e3</guid>
     </item>
   </channel>
 </rss>
