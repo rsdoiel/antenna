@@ -7,6 +7,7 @@ description: Blogs, columns and snapshots from around the web.
 
 - [Dan Rather's Steady](https://steady.substack.com/feed)
 - [John Naughton's online diary](https://memex.naughtons.org/feed/)
+- [Niel Stephenson's blog](https://nealstephenson.substack.com/feed)
 - [Chris Heilmann's blog](https://christianheilmann.com/feed/)
 - [Doc Searls' doc.blog](http://doc.blog/rss.xml)
 - [David Rosenthal's blog](https://blog.dshr.org/feeds/posts/default?alt=rss)
@@ -365,7 +366,7 @@ description: Blogs, columns and snapshots from around the web.
 - [Marcus Oliveria blog](https://terminalroot.com/feed.xml)
 - [Hopium Chronicles blog](https://www.hopiumchronicles.com/feed)
 - [Public Notice blog](https://www.publicnotice.co/feed) 
-- [Shannon Laio blog](https://shannonliao.substack.com/feed/)
+- [Shannon Laio blog](https://shannonliao.substack.com/feed)
 - [Dead Simple Tech blog](https://deadsimpletech.com/rss)
 - [Phillip Ball](https://philipball86.substack.com/feed)
 - Crime Think, <https://crimethinc.com/feed>
