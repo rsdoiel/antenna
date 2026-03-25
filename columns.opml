@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>25 Mar 26 06:43 -0700</dateCreated>
+        <dateCreated>25 Mar 26 10:17 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -240,6 +240,7 @@
         <outline text="Newsboat News" type="atom" xmlUrl="https://newsboat.org/news.atom" htmlUrl="https://newsboat.org/news.atom,https://newsboat.org" url="https://newsboat.org/news.atom"></outline>
         <outline text="Nick Bradbury" type="rss" xmlUrl="https://nickbradbury.com/feed/" htmlUrl="https://nickbradbury.com,https://nickbradbury.com/feed/" description="I develop Android apps. In a previous life I created HomeSite, TopStyle and FeedDemon for Windows." url="https://nickbradbury.com/feed/"></outline>
         <outline text="Nicolas Hoizey blog" type="atom" xmlUrl="https://nicolas-hoizey.com/feeds/articles.xml" htmlUrl="https://nicolas-hoizey.com/feeds/articles.xml,https://nicolas-hoizey.com/articles/" url="https://nicolas-hoizey.com/feeds/articles.xml"></outline>
+        <outline text="Niel Stephenson&#39;s blog" type="rss" xmlUrl="https://nealstephenson.substack.com/feed" htmlUrl="https://nealstephenson.substack.com,https://nealstephenson.substack.com/feed" description="Neal Stephenson&#39;s Substack. Mostly about the intersection of tech and art, with some excursions, digressions, and tangents. I will talk about projects I&#39;m actively working on. I have a personal financial interest in some of those." url="https://nealstephenson.substack.com/feed"></outline>
         <outline text="Nora Tindall&#39;s blog" type="rss" xmlUrl="https://nora.codes/index.xml" htmlUrl="https://nora.codes/,https://nora.codes/index.xml" description="Recent content in Leonora Tindall on Nora Codes" url="https://nora.codes/index.xml"></outline>
         <outline text="Notes by Peter Baumgartner" type="rss" xmlUrl="https://notes.peter-baumgartner.net/index.xml" htmlUrl="https://notes.peter-baumgartner.net/,https://notes.peter-baumgartner.net/index.xml" description="Thought Splinters" url="https://notes.peter-baumgartner.net/index.xml"></outline>
         <outline text="Notes from the circus" type="rss" xmlUrl="https://www.notesfromthecircus.com/feed" htmlUrl="https://www.notesfromthecircus.com,https://www.notesfromthecircus.com/feed" description="Standing somewhere. A circus, perhaps. From here, this is what I see. " url="https://www.notesfromthecircus.com/feed"></outline>
