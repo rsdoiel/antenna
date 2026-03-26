@@ -4,10 +4,51 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>25 Mar 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>26 Mar 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Developers’ fireside chat – 28th March</title>
+      <link>https://www.riscository.com/2026/developers-fireside-chat-28th-march/</link>
+      <description>
+        <![CDATA[If you have any interest in programming on or for RISC OS, and would like to chat to other developers, then the next &#8216;friendly fireside chat&#8217; &#8211; held online, with actual fires entirely optional &#8211; will take place on Saturday, 28th March. These meetings, which take place roughly every four to six weeks, provide an ideal opportunity for developers of every level to get together and discuss anything related to the topic of RISC OS programming. That could include problems they have encountered and with which they need help, or&#8230;]]>
+      </description>
+      <source:markdown>If you have any interest in programming on or for RISC OS, and would like to chat to other developers, then the next ‘friendly fireside chat’ – held online, with actual fires entirely optional – will take place on Saturday, 28th March. These meetings, which take place roughly every four to six weeks, provide an ideal opportunity for developers of every level to get together and discuss anything related to the topic of RISC OS programming. That could include problems they have encountered and with which they need help, or…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10915</guid>
+    </item>    <item>
+      <title>Brush up on your Morse code</title>
+      <link>https://www.riscository.com/2026/morsequiz-released/</link>
+      <description>
+        <![CDATA[Following his FlagQuiz and Quiz Engine releases, Kevin Wells has now made another quiz available, this time to allow people to test their knowledge of Morse code. The application, MorseQuiz presents the user with a series of ten multiple choice questions, each of which has four possible answers. The program comes equipped with English, Dutch, French, German, and Italian translations of all its messages, etc., and supports the interactive help system. The source for the Morse (!) used by the program was a website called Morse Code Translator, and Kevin&#8230;]]>
+      </description>
+      <source:markdown>Following his FlagQuiz and Quiz Engine releases, Kevin Wells has now made another quiz available, this time to allow people to test their knowledge of Morse code. The application, MorseQuiz presents the user with a series of ten multiple choice questions, each of which has four possible answers. The program comes equipped with English, Dutch, French, German, and Italian translations of all its messages, etc., and supports the interactive help system. The source for the Morse (!) used by the program was a website called Morse Code Translator, and Kevin…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10913</guid>
+    </item>    <item>
+      <title>XKIM on the KIM-1 Simulator</title>
+      <link>http://retro.hansotten.nl/xkim-on-the-kim-1-simulator/</link>
+      <description>
+        <![CDATA[XKIM is developed by Bob Applegate to support his SD-Shield. By adding SD-Shield support to the KIM-1 Simulator by Eduardo Casino we can run XKIM there now! See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! [&#8230;]]]>
+      </description>
+      <source:markdown>XKIM is developed by Bob Applegate to support his SD-Shield. By adding SD-Shield support to the KIM-1 Simulator by Eduardo Casino we can run XKIM there now! See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20355</guid>
+    </item>    <item>
+      <title>CP/M-65 on the KIM-1 and KIM-1 Simulator</title>
+      <link>http://retro.hansotten.nl/cp-m-65-on-the-kim-1-and-kim-1-simulator/</link>
+      <description>
+        <![CDATA[Thanks to the work of David Given (who developed CP/M-65) and Eduardo Casino (who ported CP/M-65 to the KIM-1 with the SD-Shield (developed by Bob Applegate of Corsham Technology) and the addition of the SD-Shield simulation to the KIM-1 Simulator by Eduardo Casino I can run my Pascal-M compiler (written by Mark Rustad in 1977 [&#8230;]]]>
+      </description>
+      <source:markdown>Thanks to the work of David Given (who developed CP/M-65) and Eduardo Casino (who ported CP/M-65 to the KIM-1 with the SD-Shield (developed by Bob Applegate of Corsham Technology) and the addition of the SD-Shield simulation to the KIM-1 Simulator by Eduardo Casino I can run my Pascal-M compiler (written by Mark Rustad in 1977 \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20344</guid>
+    </item>    <item>
+      <title>Gnome 50 Smooths Out NVIDIA GPU Issues</title>
+      <link>http://www.linux-magazine.com/Online/News/Gnome-50-Smooths-Out-NVIDIA-GPU-Issues</link>
+      <description>
+        <![CDATA[<p>Gamers rejoice, your favorite pastime just got better with Gnome 50 and NVIDIA GPUs.</p>]]>
+      </description>
+      <source:markdown>Gamers rejoice, your favorite pastime just got better with Gnome 50 and NVIDIA GPUs.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://a36ca704293384b4f4eca24513e4ae31</guid>
+    </item>    <item>
       <title>b.log 2026/03/24 - Serial data rate, Lyrics to &#39;The Beetle Song&#39;, Getting work done?, Tidying up the Abyss, One Piece.</title>
       <link>https://heyrick.eu/blog/entry/20260324</link>
       <description>
@@ -3564,9 +3605,9 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       <title>KIM-1 replica keypad</title>
       <link>http://retro.hansotten.nl/kim-1-replica-keypad/</link>
       <description>
-        <![CDATA[A spare KIM-1 keypad is even rarer than a KIM-1 itself. With this guide you can build a reasonable replica of the keypad. Thanks to the work of Eduardo Casino (the PCB) and Pete (peo2000 on forum64.org) I have published a DIY guide for a good looking KIM-1 keypad replica. See also:KIM-1 connectors: beware the [&#8230;]]]>
+        <![CDATA[A spare KIM-1 keypad is even rarer than a KIM-1 itself. With this guide you can build a reasonable replica of the keypad. Thanks to the work of Eduardo Casino (the PCB) and Pete (peo2000 on forum64.org) I have published a DIY guide for a good looking KIM-1 keypad replica. See also:XKIM on the KIM-1 [&#8230;]]]>
       </description>
-      <source:markdown>A spare KIM-1 keypad is even rarer than a KIM-1 itself. With this guide you can build a reasonable replica of the keypad. Thanks to the work of Eduardo Casino (the PCB) and Pete (peo2000 on forum64.org) I have published a DIY guide for a good looking KIM-1 keypad replica. See also:KIM-1 connectors: beware the \[…\]</source:markdown>
+      <source:markdown>A spare KIM-1 keypad is even rarer than a KIM-1 itself. With this guide you can build a reasonable replica of the keypad. Thanks to the work of Eduardo Casino (the PCB) and Pete (peo2000 on forum64.org) I have published a DIY guide for a good looking KIM-1 keypad replica. See also:XKIM on the KIM-1 \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20289</guid>
     </item>    <item>
       <title>RISC OS North Show 2026 - pictures</title>
@@ -3869,22 +3910,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       <source:markdown>In a report that may surprise no one in the Linux community, the Linux Foundation found that businesses are finding a 5X return on investment with open source software.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://678276684b87f18c33d7652324bd1f88</guid>
-    </item>    <item>
-      <title>PIM-1 Proton 6502 system</title>
-      <link>http://retro.hansotten.nl/pim-1-proton-6502-system/</link>
-      <description>
-        <![CDATA[Gerben Voort acquired a microprocessor development system PIM-1 developed by Proton, of PC-1 fame. Here his photos of the system after the cleanup, operational again. In the future I hope to scan the documentation. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm [&#8230;]]]>
-      </description>
-      <source:markdown>Gerben Voort acquired a microprocessor development system PIM-1 developed by Proton, of PC-1 fame. Here his photos of the system after the cleanup, operational again. In the future I hope to scan the documentation. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20063</guid>
-    </item>    <item>
-      <title>KEMPAC system eurocards and microcomputers</title>
-      <link>http://retro.hansotten.nl/kempac-system-eurocards-and-microcomputers/</link>
-      <description>
-        <![CDATA[Under the name KEMPAC SYSTEM Eurocards and Microcomputers for Industrial Automation a 19 inch rack system was developed in the 80ties around the 6502 by the (of TMX fame) Kuipers Electronic Engineering B.V., Zwijndrecht Gerben Voort has acquired such a system and has shared the se photos. In the future I hope to scan the [&#8230;]]]>
-      </description>
-      <source:markdown>Under the name KEMPAC SYSTEM Eurocards and Microcomputers for Industrial Automation a 19 inch rack system was developed in the 80ties around the 6502 by the (of TMX fame) Kuipers Electronic Engineering B.V., Zwijndrecht Gerben Voort has acquired such a system and has shared the se photos. In the future I hope to scan the \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20054</guid>
     </item>
   </channel>
 </rss>
