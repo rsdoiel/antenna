@@ -4,10 +4,382 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Mar 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>27 Mar 26 06:52 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Commercial space pleads with NASA to stop moving the goalposts in orbit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/iss_rethink/</link>
+      <description>
+        <![CDATA[<h4>Private station hopefuls say ISS rethink is shaking confidence</h4> <p>NASA&#39;s new Moon plan isn&#39;t the only policy shift causing concern. Parts of the commercial space industry are also uneasy about the agency&#39;s latest change of direction.…</p>]]>
+      </description>
+      <source:markdown>#### Private station hopefuls say ISS rethink is shaking confidence
+
+NASA&#39;s new Moon plan isn&#39;t the only policy shift causing concern. Parts of the commercial space industry are also uneasy about the agency&#39;s latest change of direction.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245344</guid>
+    </item>    <item>
+      <title>AFC Ajax drops ball as flaws let hackers play admin with tickets and bans</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/afc_ajax_drops_ball_as/</link>
+      <description>
+        <![CDATA[<h4>Vulns in Dutch football club&#39;s systems didn&#39;t just expose data – they let outsiders play with accounts, and even lift stadium bans</h4> <p>Dutch football giant AFC Ajax has admitted to a data breach after an attacker gained access to its internal systems, in an incident that looks less like a stray pass and more like the gates left wide open.…</p>]]>
+      </description>
+      <source:markdown>#### Vulns in Dutch football club&#39;s systems didn&#39;t just expose data – they let outsiders play with accounts, and even lift stadium bans
+
+Dutch football giant AFC Ajax has admitted to a data breach after an attacker gained access to its internal systems, in an incident that looks less like a stray pass and more like the gates left wide open.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245345</guid>
+    </item>    <item>
+      <title>Iran war drives urgent need  to counter underwater attack drones</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/us_and_uk_forces_auv_tender/</link>
+      <description>
+        <![CDATA[<h4>US and UK forces seeking tech tender with an April 3 deadline</h4> <p>The UK and US are looking for technology to counter the threat posed by underwater drones to ships, harbors and other critical maritime infrastructure, and are asking industry for answers.…</p>]]>
+      </description>
+      <source:markdown>#### US and UK forces seeking tech tender with an April 3 deadline
+
+The UK and US are looking for technology to counter the threat posed by underwater drones to ships, harbors and other critical maritime infrastructure, and are asking industry for answers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245341</guid>
+    </item>    <item>
+      <title>&#39;The Sopranos&#39; Changed How Television Told Stories. These Scripts, Sketches and Set Designs Reveal What Made the Mob Drama So Thrilling</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-sopranos-changed-how-television-told-stories-these-scripts-sketches-and-set-designs-reveal-what-made-the-mob-drama-so-thrilling-180988432/</link>
+      <description>
+        <![CDATA[An exhibition at the Museum of the Moving Image in New York provides visitors with a behind-the-scenes look at the award-winning HBO show]]>
+      </description>
+      <source:markdown>An exhibition at the Museum of the Moving Image in New York provides visitors with a behind-the-scenes look at the award-winning HBO show</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pdmP1D7QTzPLWa1rwWQL2nUrci8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/d0/46d08264-6cb9-45ab-9027-d7172f2548f9/momi_sopranos_exhibit-32_web.jpeg" length="996232" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-sopranos-changed-how-television-told-stories-these-scripts-sketches-and-set-designs-reveal-what-made-the-mob-drama-so-thrilling-180988432/</guid>
+    </item>    <item>
+      <title>Lloyds app glitch turned transactions into shared experience for 447k users</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/lloyds_app_glitch_turned_transactions/</link>
+      <description>
+        <![CDATA[<h4>A botched update mixed up transaction data across accounts, with thousands now receiving goodwill payouts</h4> <p>A botched overnight software update at Lloyds Banking Group left up to 447,000 customers briefly seeing other people&#39;s transactions in its mobile apps, with the bank now acknowledging the scale of the incident and compensating affected users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### A botched update mixed up transaction data across accounts, with thousands now receiving goodwill payouts
+
+A botched overnight software update at Lloyds Banking Group left up to 447,000 customers briefly seeing other people&#39;s transactions in its mobile apps, with the bank now acknowledging the scale of the incident and compensating affected users.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245342</guid>
+    </item>    <item>
+      <title>UK government admits Capita pension portal was crapita at launch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/capita_pension_portal_pac/</link>
+      <description>
+        <![CDATA[<h4>PAC grilling reveals £239M bought a system that couldn&#39;t handle the work, the volumes, or placeholder text</h4> <p>A UK government official has admitted Capita did not reach the expected level of performance following the disastrous launch of the Civil Service Pension Scheme (CSPS) web portal late last year.…</p>]]>
+      </description>
+      <source:markdown>#### PAC grilling reveals £239M bought a system that couldn&#39;t handle the work, the volumes, or placeholder text
+
+A UK government official has admitted Capita did not reach the expected level of performance following the disastrous launch of the Civil Service Pension Scheme (CSPS) web portal late last year.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245325</guid>
+    </item>    <item>
+      <title>Engineer sabotaged hardware then complained when it didn&#39;t work</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/on_call/</link>
+      <description>
+        <![CDATA[<h4>The 600 km drive to fix the mess was a special treat</h4> <p><strong>On Call</strong>  Every week is special in its own way, and <i>The Register</i> celebrates that fact by using Friday mornings to deliver a fresh installment of On Call, our weekly reader-contributed column that shares your memories of managing IT messes someone else made.…</p>]]>
+      </description>
+      <source:markdown>#### The 600 km drive to fix the mess was a special treat
+
+**On Call**  Every week is special in its own way, and _The Register_ celebrates that fact by using Friday mornings to deliver a fresh installment of On Call, our weekly reader-contributed column that shares your memories of managing IT messes someone else made.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245318</guid>
+    </item>    <item>
+      <title>Security boffins scoured the web and found hundreds of valid API keys</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/security_boffins_harvest_bumper_crop/</link>
+      <description>
+        <![CDATA[<h4>Global bank&#39;s devs have some cleaning up to do after cloud creds found in website code</h4> <p>Computer security boffins have conducted an analysis of 10 million websites and found almost 2,000 API credentials strewn across 10,000 webpages.…</p>]]>
+      </description>
+      <source:markdown>#### Global bank&#39;s devs have some cleaning up to do after cloud creds found in website code
+
+Computer security boffins have conducted an analysis of 10 million websites and found almost 2,000 API credentials strewn across 10,000 webpages.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245336</guid>
+    </item>    <item>
+      <title>What&#39;s up with recycled wastewater&#39;s PR problem?</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5758081/water-waste-recycling-solution</link>
+      <description>
+        <![CDATA[Would you drink recycled wastewater? It could be a solution to the global water crisis. But not everyone is ready to jump onboard. They say it’s not technology that’s keeping more cities from recycling their wastewater, but <em>psychology</em>. Experts call this resistance “the yuck factor.” We chat with water journalist <a href="https://www.burkectr.org/peter-annin"target="_blank"   >Peter Annin</a> about some history behind water recycling – and why more cities could adopt the solution soon.<br/><br/><br><strong>This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:</strong><br><a href="http://lnk.to/Ty93au"target="_blank"   >Part 1</a>: When the wells run dry<br><a href="http://lnk.to/os7Fci"target="_blank"   >Part 2</a>: The world’s groundwater problem<br><a href="https://lnk.to/7Mz2Ng"target="_blank"   >Part 3</a>: Freshwater’s growing salt problem<br/><br/><br><em>Email us your questions about water, the wider environment – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><br><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><br><em>This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Aru Nair checked the facts. The audio engineer was Jimmy Keeley.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Would you drink recycled wastewater? It could be a solution to the global water crisis. But not everyone is ready to jump onboard. They say it’s not technology that’s keeping more cities from recycling their wastewater, but _psychology_. Experts call this resistance “the yuck factor.” We chat with water journalist [Peter Annin](https://www.burkectr.org/peter-annin) about some history behind water recycling – and why more cities could adopt the solution soon.
+
+**This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:**
+
+[Part 1](http://lnk.to/Ty93au): When the wells run dry
+
+[Part 2](http://lnk.to/os7Fci): The world’s groundwater problem
+
+[Part 3](https://lnk.to/7Mz2Ng): Freshwater’s growing salt problem
+
+_Email us your questions about water, the wider environment – or anything else to do with science at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We may turn it into an episode in the future!_
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+_Listen to Short Wave on_ [_Spotify_](https://n.pr/3HOQKeK) _and_ [_Apple Podcasts_](https://n.pr/3WA9vqh) _._
+
+_This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Aru Nair checked the facts. The audio engineer was Jimmy Keeley._
+
+To manage podcast ad preferences, review the links below:
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9ed3f4e2-bf28-4064-bd21-fc0f10f2288b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9ed3f4e2-bf28-4064-bd21-fc0f10f2288b&feed=F0qJcgXZ&t=podcast&e=nx-s1-5758081&p=510351&d=828&size=13264397" length="13264397" type="audio/mpeg" />
+      <guid>cid://7121d18b-682a-4c00-b75e-e8e26050ae8c</guid>
+    </item>    <item>
+      <title>India&#39;s space program can&#39;t spend money fast enough, putting missions in peril</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/india_space_program_report/</link>
+      <description>
+        <![CDATA[<h4>Satnav systems aren&#39;t well, IP is being sold too cheap, and thousands of roles remain open</h4> <p>India’s space program has thousands of vacant roles it’s struggled to fill, isn’t spending money fast enough to meet its mission timelines, and may be undervaluing intellectual property it sells to the private sector.…</p>]]>
+      </description>
+      <source:markdown>#### Satnav systems aren&#39;t well, IP is being sold too cheap, and thousands of roles remain open
+
+India’s space program has thousands of vacant roles it’s struggled to fill, isn’t spending money fast enough to meet its mission timelines, and may be undervaluing intellectual property it sells to the private sector.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245338</guid>
+    </item>    <item>
+      <title>Satellite Spots a Spawn</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/</link>
+      <description>
+        <![CDATA[The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space.]]>
+      </description>
+      <source:markdown>The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/</guid>
+    </item>    <item>
+      <title>China&#39;s not thrilled its AI experts want to leave the country</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/china_ai_regulation/</link>
+      <description>
+        <![CDATA[<h4>Urges scientists to avoid major conference, and looks unkindly on Meta&#39;s Manus acquisition</h4> <p>China appears to be unhappy about its brightest AI talent going offshore, either to visit or to sell their wares.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Urges scientists to avoid major conference, and looks unkindly on Meta&#39;s Manus acquisition
+
+China appears to be unhappy about its brightest AI talent going offshore, either to visit or to sell their wares.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245337</guid>
+    </item>    <item>
+      <title>Windows 95 defenses against installers that overwrite a file with an older version</title>
+      <link>https://www.osnews.com/story/144687/windows-95-defenses-against-installers-that-overwrite-a-file-with-an-older-version/</link>
+      <description>
+        <![CDATA[I&#8217;ll never grow tired of reading about the crazy tricks the Windows 95 development team employed to make the user experience as seamless as they could given the constraints they were dealing with. During the 16bit Windows days, application installers could replace system components with newer versions if such was necessary. Installers were supposed to do a version check, but many of them didn&#8217;t follow this guidance. When moving to Windows 95, this meant installers ended up replacing Windows 95 system components with Windows 3.x versions, which wasn&#8217;t exactly a goods thing. So, they came up with a solution. Windows 95 worked around this by keeping a backup copy of commonly-overwritten files in a hidden C:\Windows\SYSBCKUP directory. Whenever an installer finished, Windows went and checked whether any of these commonly-overwritten files had indeed been overwritten. If so, and the replacement has a higher version number than the one in the SYSBCKUP directory, then the replacement was copied into the SYSBCKUP directory for safekeeping. Conversely, if the replacement has a lower version number than the one in the SYSBCKUP directory, then the copy from SYSBCKUP was copied on top of the rogue replacement. ↫ Raymond Chen All of this happened entirely silently, and neither the installers nor the user had any idea this was happening. The Windows 95 team tried other solutions, like just making it impossible to replace system components with older versions entirely, but that caused many installers to break. Some installers apparently even went rogue and would create a batch file that would replace the system components upon a reboot, before Windows 95 could perform its silent fixes. Wild. I used Windows 95 extensively, and had no idea this was a thing.]]>
+      </description>
+      <source:markdown>I’ll never grow tired of reading about the crazy tricks the Windows 95 development team employed to make the user experience as seamless as they could given the constraints they were dealing with. During the 16bit Windows days, application installers could replace system components with newer versions if such was necessary. Installers were supposed to do a version check, but many of them didn’t follow this guidance. When moving to Windows 95, this meant installers ended up replacing Windows 95 system components with Windows 3.x versions, which wasn’t exactly a goods thing. So, they came up with a solution. Windows 95 worked around this by keeping a backup copy of commonly-overwritten files in a hidden C:\\Windows\\SYSBCKUP directory. Whenever an installer finished, Windows went and checked whether any of these commonly-overwritten files had indeed been overwritten. If so, and the replacement has a higher version number than the one in the SYSBCKUP directory, then the replacement was copied into the SYSBCKUP directory for safekeeping. Conversely, if the replacement has a lower version number than the one in the SYSBCKUP directory, then the copy from SYSBCKUP was copied on top of the rogue replacement. ↫ Raymond Chen All of this happened entirely silently, and neither the installers nor the user had any idea this was happening. The Windows 95 team tried other solutions, like just making it impossible to replace system components with older versions entirely, but that caused many installers to break. Some installers apparently even went rogue and would create a batch file that would replace the system components upon a reboot, before Windows 95 could perform its silent fixes. Wild. I used Windows 95 extensively, and had no idea this was a thing.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144687</guid>
+    </item>    <item>
+      <title>US regulator bans imports of new foreign-made routers, citing security concerns</title>
+      <link>https://www.osnews.com/story/144685/us-regulator-bans-imports-of-new-foreign-made-routers-citing-security-concerns/</link>
+      <description>
+        <![CDATA[The U.S. Federal Communications Commission said on Monday it was banning the import of all ​new foreign-made consumer routers, the latest crackdown on Chinese-made electronic gear over ‌security concerns. China is estimated to control at least 60% of the U.S. market for home routers, boxes that connect computers, phones, and smart devices to the internet. ↫ David Shepardson at Reuters I&#8217;m sure the American public will be thrilled to find out yet another necessity has drastically increased in price.]]>
+      </description>
+      <source:markdown>The U.S. Federal Communications Commission said on Monday it was banning the import of all ​new foreign-made consumer routers, the latest crackdown on Chinese-made electronic gear over ‌security concerns. China is estimated to control at least 60% of the U.S. market for home routers, boxes that connect computers, phones, and smart devices to the internet. ↫ David Shepardson at Reuters I’m sure the American public will be thrilled to find out yet another necessity has drastically increased in price.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144685</guid>
+    </item>    <item>
+      <title>Apple discontinues the Mac Pro with no plans for future hardware</title>
+      <link>https://www.osnews.com/story/144682/apple-discontinues-the-mac-pro-with-no-plans-for-future-hardware/</link>
+      <description>
+        <![CDATA[It’s the end of an era: Apple has confirmed to 9to5Mac that the Mac Pro is being discontinued. It has been removed from Apple’s website as of Thursday afternoon. The “buy” page on Apple’s website for the Mac Pro now redirects to the Mac’s homepage, where all references have been removed. Apple has also confirmed to 9to5Mac that it has no plans to offer future Mac Pro hardware. ↫ Chance Miller at 9To5Mac If a Mac Pro falls in the back of the Apple Store and there&#8217;s no one around to hear it, does it make a sound?]]>
+      </description>
+      <source:markdown>It’s the end of an era: Apple has confirmed to 9to5Mac that the Mac Pro is being discontinued. It has been removed from Apple’s website as of Thursday afternoon. The “buy” page on Apple’s website for the Mac Pro now redirects to the Mac’s homepage, where all references have been removed. Apple has also confirmed to 9to5Mac that it has no plans to offer future Mac Pro hardware. ↫ Chance Miller at 9To5Mac If a Mac Pro falls in the back of the Apple Store and there’s no one around to hear it, does it make a sound?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144682</guid>
+    </item>    <item>
+      <title>These Never-Before-Seen Photos Show Astronaut Neil Armstrong Relaxed and Smiling After He Almost Died in the Gemini 8 Emergency</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-never-before-seen-photos-show-astronaut-neil-armstrong-relaxed-and-smiling-after-he-almost-died-in-the-gemini-8-emergency-180988442/</link>
+      <description>
+        <![CDATA[Few members of the media were at the unexpected arrival site. Military police officer Ron McQueeney was one of the few photographers who documented the occasion]]>
+      </description>
+      <source:markdown>Few members of the media were at the unexpected arrival site. Military police officer Ron McQueeney was one of the few photographers who documented the occasion</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Y_bdgultdcthOzH6EpP45SAKQ70=/420x240/filters:focal(960x786:961x787)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/ed/c9edc70c-f0e4-4a9d-a1f0-31edf2e38bdd/armstrong_3.jpg" length="850392" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-never-before-seen-photos-show-astronaut-neil-armstrong-relaxed-and-smiling-after-he-almost-died-in-the-gemini-8-emergency-180988442/</guid>
+    </item>    <item>
+      <title>Anthropic tweaks timed usage limits to discourage Claude demand during peak hours</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/anthropic_tweaks_usage_limits/</link>
+      <description>
+        <![CDATA[<h4>AI biz makes some Claude conversations more costly to manage capacity</h4> <p>Anthropic on Wednesday adjusted its opaque usage limits for Claude customers by reducing the power of the services it delivers during times of peak demand, in an effort to balance demand with its capacity to deliver service.…</p>]]>
+      </description>
+      <source:markdown>#### AI biz makes some Claude conversations more costly to manage capacity
+
+Anthropic on Wednesday adjusted its opaque usage limits for Claude customers by reducing the power of the services it delivers during times of peak demand, in an effort to balance demand with its capacity to deliver service.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245335</guid>
+    </item>    <item>
+      <title>AI companies lick their chops as FCC proposes forcing call center onshoring</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_companies_lick_their_chops/</link>
+      <description>
+        <![CDATA[<h4>You actually think companies are going to pay Americans to take customer service calls in the AI age?</h4> <p>Uncle Sam is trying to make American call centers great again. The question is whether they will be great because they&#39;re filled with local workers or whether this will provide yet another excuse for companies to turn customer service jobs over to AI.…</p>]]>
+      </description>
+      <source:markdown>#### You actually think companies are going to pay Americans to take customer service calls in the AI age?
+
+Uncle Sam is trying to make American call centers great again. The question is whether they will be great because they&#39;re filled with local workers or whether this will provide yet another excuse for companies to turn customer service jobs over to AI.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245332</guid>
+    </item>    <item>
+      <title>AWS would prefer to forget March ever happened in its UAE region</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/aws_would_prefer_to_forget/</link>
+      <description>
+        <![CDATA[<h4>Cloud giant waives an entire month of charges, then erases the billing data. There is literally nothing to see here.</h4> <p>I received an email / billing notification from AWS this week that may be the most diplomatically crafted communication in the history of cloud computing. Here it is, stripped of the usual boilerplate around it:…</p>]]>
+      </description>
+      <source:markdown>#### Cloud giant waives an entire month of charges, then erases the billing data. There is literally nothing to see here.
+
+I received an email / billing notification from AWS this week that may be the most diplomatically crafted communication in the history of cloud computing. Here it is, stripped of the usual boilerplate around it:…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245334</guid>
+    </item>    <item>
+      <title>AMD&#39;s new desktop CPU oozes cache out of all 16 cores</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/amd_crams_208mb_of_cache/</link>
+      <description>
+        <![CDATA[<h4>Turns out massive caches are good for more than games. House of Zen boasts 5-13% perf boost over prior-gen part</h4> <p>AMD aims to extend its lead in desktop gaming with a new CPU, dubbed the Ryzen 9 9950X3D2 Dual Edition. This top-of-the-line part has 16 cores fed by an absolutely massive 208 MB pool of cache, with memory spread across both CCDs.…</p>]]>
+      </description>
+      <source:markdown>#### Turns out massive caches are good for more than games. House of Zen boasts 5-13% perf boost over prior-gen part
+
+AMD aims to extend its lead in desktop gaming with a new CPU, dubbed the Ryzen 9 9950X3D2 Dual Edition. This top-of-the-line part has 16 cores fed by an absolutely massive 208 MB pool of cache, with memory spread across both CCDs.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245330</guid>
+    </item>    <item>
+      <title>What’s Up: April 2026 Skywatching Tips from NASA</title>
+      <link>https://science.nasa.gov/solar-system/whats-up-april-2026-skywatching-tips-from-nasa/</link>
+      <description>
+        <![CDATA[Mercury shines at its brightest for the year, the Lyrid meteor shower peaks, and a bright new comet makes an appearance in April’s night sky.]]>
+      </description>
+      <source:markdown>Mercury shines at its brightest for the year, the Lyrid meteor shower peaks, and a bright new comet makes an appearance in April’s night sky.</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/whats-up-april-2026-skywatching-tips-from-nasa/</guid>
+    </item>    <item>
+      <title>La NASA presentará el telescopio Roman completo y ofrecerá una conferencia de prensa</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-presentara-el-telescopio-roman-completo-y-ofrecera-una-conferencia-de-prensa/</link>
+      <description>
+        <![CDATA[Se invita a los medios de comunicación el martes 21 de abril al Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, para conocer el telescopio espacial Nancy Grace Roman de la agencia, cuya construcción terminó recientemente y el cual se encuentra ultimando las pruebas previas a su lanzamiento. Esta será una de [&#8230;]]]>
+      </description>
+      <source:markdown>Se invita a los medios de comunicación el martes 21 de abril al Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, para conocer el telescopio espacial Nancy Grace Roman de la agencia, cuya construcción terminó recientemente y el cual se encuentra ultimando las pruebas previas a su lanzamiento. Esta será una de \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=978217</guid>
+    </item>    <item>
+      <title>&#39;Empathetic&#39; Salesforce bots to help those fired by uncaring humans</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/salesforce_bots_to_help_those/</link>
+      <description>
+        <![CDATA[<h4>I’m sorry, Dave. I can’t give you your job back, but here’s the form you fill out to collect benefits</h4> <p>There’s a joke in Boston that goes: the people in Southie will steal your wallet and help you look for it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### I’m sorry, Dave. I can’t give you your job back, but here’s the form you fill out to collect benefits
+
+There’s a joke in Boston that goes: the people in Southie will steal your wallet and help you look for it.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245331</guid>
+    </item>    <item>
+      <title>NASA to Unveil Complete Roman Telescope, Host Media Briefing</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-unveil-complete-roman-telescope-host-media-briefing/</link>
+      <description>
+        <![CDATA[Media are invited Tuesday, April 21, to NASA’s Goddard Space Flight Center in Greenbelt, Maryland, for a look at the agency’s Nancy Grace Roman Space Telescope, which recently completed construction and is wrapping up prelaunch testing. This will be one of the last opportunities to view the fully integrated flagship telescope before it ships to [&#8230;]]]>
+      </description>
+      <source:markdown>Media are invited Tuesday, April 21, to NASA’s Goddard Space Flight Center in Greenbelt, Maryland, for a look at the agency’s Nancy Grace Roman Space Telescope, which recently completed construction and is wrapping up prelaunch testing. This will be one of the last opportunities to view the fully integrated flagship telescope before it ships to \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=978196</guid>
+    </item>    <item>
+      <title>NASA Releases Artemis II Moon Mission Launch Countdown</title>
+      <link>https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/</link>
+      <description>
+        <![CDATA[Before NASA sends its astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen on their Artemis II mission around the Moon, the launch team at NASA’s Kennedy Space Center in Florida and teams across the country will begin counting down about two days before liftoff.&#160; A launch countdown contains [&#8230;]]]>
+      </description>
+      <source:markdown>Before NASA sends its astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen on their Artemis II mission around the Moon, the launch team at NASA’s Kennedy Space Center in Florida and teams across the country will begin counting down about two days before liftoff.  A launch countdown contains \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=978168</guid>
+    </item>    <item>
+      <title>Station Nation: Aaron Rose, Cold Stowage Mission Manager</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/station-nation-aaron-rose-cold-stowage-mission-manager/</link>
+      <description>
+        <![CDATA[As a member of the&#160;Crew and Thermal Systems Division,&#160;Aaron Rose supports critical cargo resupply missions to the International Space Station.&#160;In this role, he works with payload developers to safely transport&#160;temperature-controlled science experiments to and from&#160;station&#160;with portable coolers, freezers,&#160;and refrigerators.&#160; For the full flight cycle, Rose and his team&#160;members&#160;ensure all&#160;cold&#160;stowage hardware, operations, and personnel&#160;are coordinated to [&#8230;]]]>
+      </description>
+      <source:markdown>As a member of the Crew and Thermal Systems Division, Aaron Rose supports critical cargo resupply missions to the International Space Station. In this role, he works with payload developers to safely transport temperature-controlled science experiments to and from station with portable coolers, freezers, and refrigerators.  For the full flight cycle, Rose and his team members ensure all cold stowage hardware, operations, and personnel are coordinated to \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=978138</guid>
+    </item>    <item>
+      <title>Using AI to code does not mean your code is more secure</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_coding_assistant_not_more_secure/</link>
+      <description>
+        <![CDATA[<h4>Use of AI coding assistants has surged, but so has the number of vulnerabilities in AI-generated code</h4> <p>As more people use AI tools to write code, the tools themselves are introducing more vulnerabilities.…</p>]]>
+      </description>
+      <source:markdown>#### Use of AI coding assistants has surged, but so has the number of vulnerabilities in AI-generated code
+
+As more people use AI tools to write code, the tools themselves are introducing more vulnerabilities.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245328</guid>
+    </item>    <item>
+      <title>Scientists Say This 600-Year-Old Grape Seed Is &#39;Genetically Identical&#39; to Modern Varieties Used to Make Pinot Noir</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-say-this-600-year-old-grape-seed-is-genetically-identical-to-modern-varieties-used-to-make-pinot-noir-180988437/</link>
+      <description>
+        <![CDATA[Researchers analyzed grape seeds dating to between 2300 B.C.E. and 1500 C.E., including one particularly intriguing sample found in the toilet of a medieval hospital in France]]>
+      </description>
+      <source:markdown>Researchers analyzed grape seeds dating to between 2300 B.C.E. and 1500 C.E., including one particularly intriguing sample found in the toilet of a medieval hospital in France</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lwqniFdsTo7xNjYcmSJNiyT-zrE=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/97/2597c197-74b8-42f5-abcd-762fbfd3988f/gettyimages-2231530787.jpg" length="36398551" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-say-this-600-year-old-grape-seed-is-genetically-identical-to-modern-varieties-used-to-make-pinot-noir-180988437/</guid>
+    </item>    <item>
+      <title>Apple signs meaningless deal to make some less-important parts in America</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/apple_expands_list_of_bits/</link>
+      <description>
+        <![CDATA[<h4>Maybe that&#39;s why Tim didn&#39;t get an invitation to the President&#39;s tech bro club?</h4> <p>Apple&#39;s American Manufacturing Program (AMP) is expanding, with new suppliers signed on to produce iPhone components - though those parts will still be shipped overseas for final assembly. Tim Apple may continue avoiding tariffs but he probably won&#39;t win a lot of brownie points with President Trump.…</p>]]>
+      </description>
+      <source:markdown>#### Maybe that&#39;s why Tim didn&#39;t get an invitation to the President&#39;s tech bro club?
+
+Apple&#39;s American Manufacturing Program (AMP) is expanding, with new suppliers signed on to produce iPhone components - though those parts will still be shipped overseas for final assembly. Tim Apple may continue avoiding tariffs but he probably won&#39;t win a lot of brownie points with President Trump.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245324</guid>
+    </item>    <item>
+      <title>Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find</title>
+      <link>https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/</link>
+      <description>
+        <![CDATA[For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]]]>
+      </description>
+      <source:markdown>For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/</guid>
+    </item>    <item>
+      <title>NASA’s IXPE Gets Fresh Look at Supernova</title>
+      <link>https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova/</link>
+      <description>
+        <![CDATA[NASA’s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation helps fill in a fuller picture of what other telescopes have seen. The full image combines IXPE’s data with legacy observations from two other X-ray telescopes: [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, seen here in an image released on March 24, 2026. This observation helps fill in a fuller picture of what other telescopes have seen. The full image combines IXPE’s data with legacy observations from two other X-ray telescopes: \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=977970</guid>
+    </item>    <item>
+      <title>Staff too scared of the AI axe to pick it up, Forrester finds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/workplace_ai_forrester/</link>
+      <description>
+        <![CDATA[<h4>Your AI rollout isn&#39;t failing – your employees just hate it</h4> <p>If your company isn&#39;t seeing great returns from its investment in AI, you might want to look at the humans tasked with deploying it and how you can motivate them. Right now, many employees fear AI-driven job losses and aren&#39;t well trained to use the tech, according to Forrester.…</p>]]>
+      </description>
+      <source:markdown>#### Your AI rollout isn&#39;t failing – your employees just hate it
+
+If your company isn&#39;t seeing great returns from its investment in AI, you might want to look at the humans tasked with deploying it and how you can motivate them. Right now, many employees fear AI-driven job losses and aren&#39;t well trained to use the tech, according to Forrester.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245323</guid>
+    </item>    <item>
+      <title>In a First, the World&#39;s Most Expensive and Volatile Substance—Antimatter—Traveled by Truck</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-the-worlds-most-expensive-and-volatile-substance-antimatter-traveled-by-truck-180988431/</link>
+      <description>
+        <![CDATA[The work paves the way for longer-distance transport of the rare material so scientists can study it at other facilities]]>
+      </description>
+      <source:markdown>The work paves the way for longer-distance transport of the rare material so scientists can study it at other facilities</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZjoOTjpRA4dmlZRcZnFwaKT0VK8=/420x240/filters:focal(720x480:721x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/4d/3f4de6f7-5dd8-4680-b7d6-568389aba288/anitmatter.jpg" length="895780" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-the-worlds-most-expensive-and-volatile-substance-antimatter-traveled-by-truck-180988431/</guid>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain/</link>
+      <description>
+        <![CDATA[Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, March 20, 2026 Curiosity has just concluded a very intense week of science observations and engineering activities, as it wraps up its monthslong investigation of the Martian boxwork terrain. Three days of planning this week […]]]>
+      </description>
+      <source:markdown>Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, March 20, 2026 Curiosity has just concluded a very intense week of science observations and engineering activities, as it wraps up its monthslong investigation of the Martian boxwork terrain. Three days of planning this week \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain/</guid>
+    </item>    <item>
+      <title>La NASA anuncia la cobertura de la de la primera misión tripulada Artemis alrededor de la Luna</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-mision-tripulada-artemis-alrededor-de-la-luna/</link>
+      <description>
+        <![CDATA[Diversos eventos previos al lanzamiento, del lanzamiento y de la misión Artemis II de la NASA alrededor de la Luna se transmitirán en línea. La agencia tiene como fecha objetivo no antes del miércoles 1 de abril para este vuelo de prueba, con una ventana de lanzamiento de dos horas que se abre a las [&#8230;]]]>
+      </description>
+      <source:markdown>Diversos eventos previos al lanzamiento, del lanzamiento y de la misión Artemis II de la NASA alrededor de la Luna se transmitirán en línea. La agencia tiene como fecha objetivo no antes del miércoles 1 de abril para este vuelo de prueba, con una ventana de lanzamiento de dos horas que se abre a las \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=977944</guid>
+    </item>    <item>
+      <title>Linear moves sideways to agentic AI as CEO declares issue tracking dead</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/linear_agent/</link>
+      <description>
+        <![CDATA[<h4>Agent will capture issues and eventually debug code</h4> <p>The Linear cloudy issue tracker and project manager has introduced an AI agent and plans to add AI coding assistance, with CEO and co-founder Karri Saarinen declaring that &#34;issue tracking is dead.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Agent will capture issues and eventually debug code
+
+The Linear cloudy issue tracker and project manager has introduced an AI agent and plans to add AI coding assistance, with CEO and co-founder Karri Saarinen declaring that &#34;issue tracking is dead.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245321</guid>
+    </item>    <item>
+      <title>Vivid Dreams Might Be Key to Feeling Well Rested When You Wake Up, According to a New Study</title>
+      <link>https://www.smithsonianmag.com/smart-news/vivid-dreams-might-be-key-to-feeling-well-rested-when-you-wake-up-according-to-a-new-study-180988434/</link>
+      <description>
+        <![CDATA[The findings could help explain the purpose of dreams and help physicians better treat people with sleep disorders]]>
+      </description>
+      <source:markdown>The findings could help explain the purpose of dreams and help physicians better treat people with sleep disorders</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/l1icvzuOcoamAcxZumljEeY6_Io=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5c/58/5c58533c-6d1d-4280-8c62-cc12b13044cd/pexels-ekaterina-bolovtsova-7445175.jpg" length="805194" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/vivid-dreams-might-be-key-to-feeling-well-rested-when-you-wake-up-according-to-a-new-study-180988434/</guid>
+    </item>    <item>
+      <title>AI bug reports went from junk to legit overnight, says Linux kernel czar</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/</link>
+      <description>
+        <![CDATA[<h4>Greg Kroah-Hartman can&#39;t explain the inflection point, but it&#39;s not slowing down or going away</h4> <p><strong>Interview</strong>  I was at a press luncheon at KubeCon Europe this week when, to my surprise, who should sit down next to me but long-term Linux kernel maintainer Greg Kroah-Hartman. Greg, who lives in the Netherlands these days, was there to briefly comment on AI, Linux, and security. We spoke about how, over the last month, AI-driven activity around Linux security and code review has &#34;really jumped&#34; in a way no one in the open source world saw coming.…</p>]]>
+      </description>
+      <source:markdown>#### Greg Kroah-Hartman can&#39;t explain the inflection point, but it&#39;s not slowing down or going away
+
+**Interview**  I was at a press luncheon at KubeCon Europe this week when, to my surprise, who should sit down next to me but long-term Linux kernel maintainer Greg Kroah-Hartman. Greg, who lives in the Netherlands these days, was there to briefly comment on AI, Linux, and security. We spoke about how, over the last month, AI-driven activity around Linux security and code review has &#34;really jumped&#34; in a way no one in the open source world saw coming.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245298</guid>
+    </item>    <item>
       <title>Three more charged over alleged Nvidia GPU smuggling scheme to China</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/03/26/gpu_china_smuggling_charges/</link>
       <description>
@@ -471,11 +843,17 @@ End-user compute vendor Omnissa, the company formed by the spin-out of VMware’
       <title>The world’s freshwater is getting saltier. Why?</title>
       <link>https://www.npr.org/2026/03/25/nx-s1-5709052/water-lake-filter-science-salt-sodium</link>
       <description>
-        <![CDATA[Around the world, the planet’s freshwater is getting saltier. And it’s because of people. For decades, salting roads, fertilizer run-off and evaporation driven by human-caused climate change have upped the salinity of lakes, rivers and groundwater. All that salt is detrimental to a lot of aquatic life and can be problematic for drinking water, too. But there’s still time to reverse course. In fact, many people have already started to change their ways. Today, producer Berly McCoy is on the case to see what solutions exist. <br/><br/><strong>This is part of a whole series on the world’s dwindling water supply. Check out </strong><a href="https://open.spotify.com/episode/4td08QhjafDwUR1xeRsIAQ?si=69992763f6b04d2d"target="_blank"   ><strong>part one</strong></a><strong> and </strong><a href="https://open.spotify.com/episode/6UovZsufoNVJJfDpayLXut?si=e961070a8e774b40"target="_blank"   ><strong>part two</strong></a><strong> of this water series!</strong><br/><br/><em>Email us your questions about water, the wider environment – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Around the world, the planet’s freshwater is getting saltier. And it’s because of people. For decades, salting roads, fertilizer run-off and evaporation driven by human-caused climate change have upped the salinity of lakes, rivers and groundwater. All that salt is detrimental to a lot of aquatic life and can be problematic for drinking water, too. But there’s still time to reverse course. In fact, many people have already started to change their ways. Today, producer Berly McCoy is on the case to see what solutions exist. <br/><br/><strong>This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:</strong><br><a href="http://lnk.to/Ty93au"target="_blank"   >Part 1</a>: When the wells run dry<br><a href="http://lnk.to/os7Fci"target="_blank"   >Part 2</a>: The world’s groundwater problem<br><a href="https://lnk.to/7Mz2Ng"target="_blank"   >Part 3</a>: Freshwater’s growing salt problem<br/><br/><em>Email us your questions about water, the wider environment – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Around the world, the planet’s freshwater is getting saltier. And it’s because of people. For decades, salting roads, fertilizer run-off and evaporation driven by human-caused climate change have upped the salinity of lakes, rivers and groundwater. All that salt is detrimental to a lot of aquatic life and can be problematic for drinking water, too. But there’s still time to reverse course. In fact, many people have already started to change their ways. Today, producer Berly McCoy is on the case to see what solutions exist.
 
-**This is part of a whole series on the world’s dwindling water supply. Check out** [**part one**](https://open.spotify.com/episode/4td08QhjafDwUR1xeRsIAQ?si=69992763f6b04d2d) **and** [**part two**](https://open.spotify.com/episode/6UovZsufoNVJJfDpayLXut?si=e961070a8e774b40) **of this water series!**
+**This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:**
+
+[Part 1](http://lnk.to/Ty93au): When the wells run dry
+
+[Part 2](http://lnk.to/os7Fci): The world’s groundwater problem
+
+[Part 3](https://lnk.to/7Mz2Ng): Freshwater’s growing salt problem
 
 _Email us your questions about water, the wider environment – or anything else to do with science at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We may turn it into an episode in the future!_
 
@@ -1306,9 +1684,15 @@ The UK&#39;s National Audit Office (NAO) has warned the country is underprepared
       <title>Day Zero: When the wells run dry</title>
       <link>https://www.npr.org/2026/03/23/nx-s1-5698146/water-crisis-dry-drinking</link>
       <description>
-        <![CDATA[In honor of World Water Day, Short Wave is exploring the ways water touches our lives. From increasing water shortages around the world, to how it’s affecting agriculture and aquifers. We’re starting with “day zero”: the day a city or place runs out of water. Cape Town, Mexico City, Chennai in India are just a few places that have come close to day zero events. Today, we talk to experts and hear from someone who lived in Cape Town during the crisis about why we’re overdue for rethinking our relationship to water. <br/><br/><em>Interested in more science behind current events? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[In honor of World Water Day, Short Wave is exploring the ways water touches our lives. From increasing water shortages around the world, to how it’s affecting agriculture and aquifers. We’re starting with “day zero”: the day a city or place runs out of water. Cape Town, Mexico City, Chennai in India are just a few places that have come close to day zero events. Today, we talk to experts and hear from someone who lived in Cape Town during the crisis about why we’re overdue for rethinking our relationship to water. <br/><br/><strong>This is part of a whole series on the world's dwindling water supply. Check out the rest of the water series:</strong><br/><br/><ul class="edTag" style="box-sizing: border-box; margin: 0px auto; padding: 0px 15px 0px 60px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: NPRSerif, Georgia, serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; list-style: square; max-width: 680px; position: relative; width: auto; color: rgb(51, 51, 51); letter-spacing: 0.36px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><li><a href="http://lnk.to/Ty93au"target="_blank"   >Part 1</a>: When the wells run dry</li><li><a href="http://lnk.to/os7Fci"target="_blank"   >Part 2</a>: The world's groundwater problem</li><li><a href="https://lnk.to/7Mz2Ng"target="_blank"   >Part 3</a>: Freshwater's growing salt problem</li></ul><br><em>Interested in more science behind current events? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>In honor of World Water Day, Short Wave is exploring the ways water touches our lives. From increasing water shortages around the world, to how it’s affecting agriculture and aquifers. We’re starting with “day zero”: the day a city or place runs out of water. Cape Town, Mexico City, Chennai in India are just a few places that have come close to day zero events. Today, we talk to experts and hear from someone who lived in Cape Town during the crisis about why we’re overdue for rethinking our relationship to water.
+
+**This is part of a whole series on the world&#39;s dwindling water supply. Check out the rest of the water series:**
+
+- [Part 1](http://lnk.to/Ty93au): When the wells run dry
+- [Part 2](http://lnk.to/os7Fci): The world&#39;s groundwater problem
+- [Part 3](https://lnk.to/7Mz2Ng): Freshwater&#39;s growing salt problem
 
 _Interested in more science behind current events? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
@@ -6021,368 +6405,6 @@ China’s government has again made reducing reliance on imported digital techno
 
 Earlier this week, Dan Blanchard, maintainer of a Python character encoding detection library called chardet, released a new version of the library under a new software license.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244930</guid>
-    </item>    <item>
-      <title>Google says spyware makers and China-linked groups dominated zero-day attacks last year</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/zero_day_attacks_enterprise_tech_record/</link>
-      <description>
-        <![CDATA[<h4>Of the 90 zero-days GTIG tracked in 2025, 43 hit enterprise tech</h4> <p>Zero-day exploitation targeting enterprise tech products reached an all-time high last year, with China-linked cyber-espionage groups remaining the most prolific state-backed users, according to Google.…</p>]]>
-      </description>
-      <source:markdown>#### Of the 90 zero-days GTIG tracked in 2025, 43 hit enterprise tech
-
-Zero-day exploitation targeting enterprise tech products reached an all-time high last year, with China-linked cyber-espionage groups remaining the most prolific state-backed users, according to Google.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244929</guid>
-    </item>    <item>
-      <title>Hardware hotplug events on Linux, the gory details</title>
-      <link>https://www.osnews.com/story/144551/hardware-hotplug-events-on-linux-the-gory-details/</link>
-      <description>
-        <![CDATA[One day, I suddenly wondered how to detect when a USB device is plugged or unplugged from a computer running Linux. For most users, this would be solved by relying on libusb. However, the use case I was investigating might not actually want to do so, and so this led me down a poorly-documented rabbit hole. ↫ ArcaneNibble (or R) And ArcaneNibble (or R) is taking you down with them.]]>
-      </description>
-      <source:markdown>One day, I suddenly wondered how to detect when a USB device is plugged or unplugged from a computer running Linux. For most users, this would be solved by relying on libusb. However, the use case I was investigating might not actually want to do so, and so this led me down a poorly-documented rabbit hole. ↫ ArcaneNibble (or R) And ArcaneNibble (or R) is taking you down with them.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144551</guid>
-    </item>    <item>
-      <title>Okta CEO ‘paranoid’ as vibe coders stir SaaS-pocalypse fears</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/okta_ceo_paranoid_as_vibe/</link>
-      <description>
-        <![CDATA[<h4>It’s ok, Todd. You’re only paranoid if you’re wrong.</h4> <p>Okta chairman and CEO Todd McKinnon said he believes it would be difficult for an LLM alone to replicate the quality of SaaS applications his company provides, but that doesn’t stop him from worrying about competition from bots.…</p>]]>
-      </description>
-      <source:markdown>#### It’s ok, Todd. You’re only paranoid if you’re wrong.
-
-Okta chairman and CEO Todd McKinnon said he believes it would be difficult for an LLM alone to replicate the quality of SaaS applications his company provides, but that doesn’t stop him from worrying about competition from bots.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244928</guid>
-    </item>    <item>
-      <title>About Transformative Aeronautics Concepts Program (TACP)</title>
-      <link>https://www.nasa.gov/directorates/armd/tacp/about-tacp/</link>
-      <description>
-        <![CDATA[TACP Benefits Foundation for disruptive technologies: Placing emphasis on transformative concepts lays the groundwork for revolutionary advancements in aviation. Accelerated innovation in aerospace: Developing next-generation engineering methodologies and digital tools enables faster, more efficient design, testing, and certification processes. Strong collaborative ecosystem: TACP fosters partnerships among NASA, academia, industry, and government, creating a powerful network [&#8230;]]]>
-      </description>
-      <source:markdown>TACP Benefits Foundation for disruptive technologies: Placing emphasis on transformative concepts lays the groundwork for revolutionary advancements in aviation. Accelerated innovation in aerospace: Developing next-generation engineering methodologies and digital tools enables faster, more efficient design, testing, and certification processes. Strong collaborative ecosystem: TACP fosters partnerships among NASA, academia, industry, and government, creating a powerful network \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?migration=converted-node-388001</guid>
-    </item>    <item>
-      <title>New Oracle Solaris CBE release released</title>
-      <link>https://www.osnews.com/story/144549/new-oracle-solaris-cbe-release-released/</link>
-      <description>
-        <![CDATA[Oracle&#8217;s Solaris 11 basically comes in two different flavours: the SRU (Support Repository Update) releases for commercial Oracle customers, and the CBE (Common Build Environment) releases, available to everyone. We&#8217;ve covered the last few SRU releases, and now it&#8217;s time for a new CBE release. We first introduced the Oracle Solaris CBE in March 2022 and we released an updated version in May 2025. Now, as Oracle Solaris keeps on evolving, we’ve released the latest version of our CBE. With the previous release Alan and Jan had compiled a list to cover all the changes in the three years since the first CBE release. This time, because it’s relatively soon after the last release we are opting to just point you to the what’s new blogs on the feature release SRUs Oracle Solaris 11.4 SRU 84, Oracle Solaris 11.4 SRU 87, and Oracle Solaris 11.4 SRU 90. And of course you can always go to the blogs by Joerg Moellenkamp and Marcel Hofstetter who have excellent series of articles that show how you can use the Oracle Solaris features. ↫ Joost Pronk van Hoogeveen at the Oracle Solaris Blog You can update your existing installation with a pkg update, or do a fresh insrtall with the new CBE images.]]>
-      </description>
-      <source:markdown>Oracle’s Solaris 11 basically comes in two different flavours: the SRU (Support Repository Update) releases for commercial Oracle customers, and the CBE (Common Build Environment) releases, available to everyone. We’ve covered the last few SRU releases, and now it’s time for a new CBE release. We first introduced the Oracle Solaris CBE in March 2022 and we released an updated version in May 2025. Now, as Oracle Solaris keeps on evolving, we’ve released the latest version of our CBE. With the previous release Alan and Jan had compiled a list to cover all the changes in the three years since the first CBE release. This time, because it’s relatively soon after the last release we are opting to just point you to the what’s new blogs on the feature release SRUs Oracle Solaris 11.4 SRU 84, Oracle Solaris 11.4 SRU 87, and Oracle Solaris 11.4 SRU 90. And of course you can always go to the blogs by Joerg Moellenkamp and Marcel Hofstetter who have excellent series of articles that show how you can use the Oracle Solaris features. ↫ Joost Pronk van Hoogeveen at the Oracle Solaris Blog You can update your existing installation with a pkg update, or do a fresh insrtall with the new CBE images.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144549</guid>
-    </item>    <item>
-      <title>Thirty-Four Years Ago, a British Museum Staffer Stole More Than 300 Prints in Broad Daylight. A New Book Chronicles the Thefts and Their Fallout</title>
-      <link>https://www.smithsonianmag.com/smart-news/34-years-ago-a-british-museum-staffer-was-caught-stealing-prints-in-broad-daylight-a-new-book-chronicles-the-thefts-180988302/</link>
-      <description>
-        <![CDATA[While seemingly unreported at the time, the pilfering was uncovered by historian Barnaby Phillips as part of his research for a new book about African treasures]]>
-      </description>
-      <source:markdown>While seemingly unreported at the time, the pilfering was uncovered by historian Barnaby Phillips as part of his research for a new book about African treasures</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0cz3eNPcfMmkBdGKYPxN-2A32y0=/420x240/filters:focal(2500x1690:2501x1691)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/d1/3ad1c06c-aeec-42e3-b8dc-2b6ee4ab32d4/gettyimages-2154442250.jpg" length="4752644" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/34-years-ago-a-british-museum-staffer-was-caught-stealing-prints-in-broad-daylight-a-new-book-chronicles-the-thefts-180988302/</guid>
-    </item>    <item>
-      <title>The great license-washing has begun</title>
-      <link>https://www.osnews.com/story/144547/the-great-license-washing-has-begun/</link>
-      <description>
-        <![CDATA[In the world of open source, relicensing is notoriously difficult. It usually requires the unanimous consent of every person who has ever contributed a line of code, a feat nearly impossible for legacy projects. chardet, a Python character encoding detector used by requests and many others, has sat in that tension for years: as a port of Mozilla’s C++ code it was bound to the LGPL, making it a gray area for corporate users and a headache for its most famous consumer. Recently the maintainers used Claude Code to rewrite the whole codebase and release v7.0.0, relicensing from LGPL to MIT in the process. The original author, a2mark, saw this as a potential GPL violation. ↫ Tuan-Anh Tran Everything about this feels like a license violation, and in general a really shit thing to do. At the same time, though, the actual legal situation, what lawyers and judges care about, is entirely unsettled and incredibly unclear. I&#8217;ve been reading a ton of takes on what happened here, and it seems nobody has any conclusive answers, with seemingly valid arguments on both sides. Intuitively, this feels deeply and wholly wrong. This is the license-washing &#8220;AI&#8221; seems to be designed for, so that proprietary vendors can take code under copyleft licenses, feed it into their &#8220;AI&#8221; model, and tell it to regurgitate something that looks just different enough so a new, different license can be applied. Tim takes Jim&#8217;s homework. How many individual words does Tim need to change &#8211; without adding anything to Jim&#8217;s work &#8211; before it&#8217;s no longer plagiarism? I would argue that no matter how many synonyms and slight sentence structure changes Tim employs, it&#8217;s still a plagiarised work. However, what it feels like to me is entirely irrelevant when laws are involved, and even those laws are effectively irrelevant when so much money is riding on the answers to questions like these. The companies who desperately want this to be possible and legal are so wealthy, so powerful, and sucked up to the US government so hard, that whatever they say might very well just become law. &#8220;AI&#8221; is the single-greatest coordinated attack on open source in history, and the open source world would do well to realise that.]]>
-      </description>
-      <source:markdown>In the world of open source, relicensing is notoriously difficult. It usually requires the unanimous consent of every person who has ever contributed a line of code, a feat nearly impossible for legacy projects. chardet, a Python character encoding detector used by requests and many others, has sat in that tension for years: as a port of Mozilla’s C++ code it was bound to the LGPL, making it a gray area for corporate users and a headache for its most famous consumer. Recently the maintainers used Claude Code to rewrite the whole codebase and release v7.0.0, relicensing from LGPL to MIT in the process. The original author, a2mark, saw this as a potential GPL violation. ↫ Tuan-Anh Tran Everything about this feels like a license violation, and in general a really shit thing to do. At the same time, though, the actual legal situation, what lawyers and judges care about, is entirely unsettled and incredibly unclear. I’ve been reading a ton of takes on what happened here, and it seems nobody has any conclusive answers, with seemingly valid arguments on both sides. Intuitively, this feels deeply and wholly wrong. This is the license-washing “AI” seems to be designed for, so that proprietary vendors can take code under copyleft licenses, feed it into their “AI” model, and tell it to regurgitate something that looks just different enough so a new, different license can be applied. Tim takes Jim’s homework. How many individual words does Tim need to change – without adding anything to Jim’s work – before it’s no longer plagiarism? I would argue that no matter how many synonyms and slight sentence structure changes Tim employs, it’s still a plagiarised work. However, what it feels like to me is entirely irrelevant when laws are involved, and even those laws are effectively irrelevant when so much money is riding on the answers to questions like these. The companies who desperately want this to be possible and legal are so wealthy, so powerful, and sucked up to the US government so hard, that whatever they say might very well just become law. “AI” is the single-greatest coordinated attack on open source in history, and the open source world would do well to realise that.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144547</guid>
-    </item>    <item>
-      <title>TerraPower gets permission to build, not operate, sodium-cooled nuclear reactor</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/terrapower_sodium_cooled_nuclear_reactor/</link>
-      <description>
-        <![CDATA[<h4>Don&#39;t flip the switch until the NRC says you can, okay?</h4> <p>Bill Gates-backed nuclear outfit TerraPower finally has approval to build its Natrium reactor. However, it may still face issues finding a steady fuel supply. And, oh yeah, it hasn&#39;t built any reactors like this before.…</p>]]>
-      </description>
-      <source:markdown>#### Don&#39;t flip the switch until the NRC says you can, okay?
-
-Bill Gates-backed nuclear outfit TerraPower finally has approval to build its Natrium reactor. However, it may still face issues finding a steady fuel supply. And, oh yeah, it hasn&#39;t built any reactors like this before.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244926</guid>
-    </item>    <item>
-      <title>Most Insect Species Call the Tropics Home. But Climate Change Is Pushing Many of the Critters There to Their Heat Limits</title>
-      <link>https://www.smithsonianmag.com/smart-news/most-insect-species-call-the-tropics-home-but-climate-change-is-pushing-many-of-the-critters-there-to-their-heat-limits-180988304/</link>
-      <description>
-        <![CDATA[Insects in the lowlands will have an especially hard time with rising temperatures, a new study suggests]]>
-      </description>
-      <source:markdown>Insects in the lowlands will have an especially hard time with rising temperatures, a new study suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vgp4GYLoyHabKd8VEFp1UDKary4=/420x240/filters:focal(1588x1058:1589x1059)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ec/5e/ec5e1b52-d8c2-4e44-9534-6edc7487404b/blue_morpho.jpg" length="5229349" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/most-insect-species-call-the-tropics-home-but-climate-change-is-pushing-many-of-the-critters-there-to-their-heat-limits-180988304/</guid>
-    </item>    <item>
-      <title>About Airspace Operations and Safety Program (AOSP)</title>
-      <link>https://www.nasa.gov/directorates/armd/aosp/about-aosp/</link>
-      <description>
-        <![CDATA[The Airspace Operations and Safety Program (AOSP)&#160;accelerates&#160;the&#160;transformation&#160;of the National Airspace System (NAS) to meet the&#160;variety, density, and complexity of future&#160;airspace users. Our mission is to ensure that U.S. skies&#160;remain&#160;safe, innovative, and globally competitive while enabling&#160;Advanced&#160;Air&#160;Mobility and next-generation aviation technologies.&#160; &#160;AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of [&#8230;]]]>
-      </description>
-      <source:markdown>The Airspace Operations and Safety Program (AOSP) accelerates the transformation of the National Airspace System (NAS) to meet the variety, density, and complexity of future airspace users. Our mission is to ensure that U.S. skies remain safe, innovative, and globally competitive while enabling Advanced Air Mobility and next-generation aviation technologies.   AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=202953</guid>
-    </item>    <item>
-      <title>Anime, Manga and Traditional Japanese Art Come Together at an Upcoming Auction—From Hokusai&#39;s &#39;The Great Wave&#39; to Miyazaki&#39;s &#39;My Neighbor Totoro&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/anime-manga-and-traditional-japanese-art-come-together-at-an-upcoming-auction-from-hokusais-the-great-wave-to-miyazakis-my-neighbor-totoro-180988293/</link>
-      <description>
-        <![CDATA[The sale places pop culture artifacts in conversation with Japan's rich visual traditions. According to Christie's, these items "trace the enduring resonance of motifs, techniques and narratives rooted in Japan's past"]]>
-      </description>
-      <source:markdown>The sale places pop culture artifacts in conversation with Japan&#39;s rich visual traditions. According to Christie&#39;s, these items &#34;trace the enduring resonance of motifs, techniques and narratives rooted in Japan&#39;s past&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0wAepLPRqVUKTD1gMXA4biatHxo=/420x240/filters:focal(1491x994:1492x995)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3c/2c/3c2c924a-1e79-4d51-af7a-17a229d6d223/nausicaa_of_the_valley_of_the_wind_christies_anime_starts_here_march_26.jpeg" length="2759895" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/anime-manga-and-traditional-japanese-art-come-together-at-an-upcoming-auction-from-hokusais-the-great-wave-to-miyazakis-my-neighbor-totoro-180988293/</guid>
-    </item>    <item>
-      <title>System76 on Age Verification Laws</title>
-      <link>https://blog.system76.com/post/system76-on-age-verification</link>
-      <description>
-        <![CDATA[Liberty has costs, but it's worth it.]]>
-      </description>
-      <source:markdown>Liberty has costs, but it&#39;s worth it.</source:markdown>
-      <enclosure url="https://images.prismic.io/blog-system76/aanZaFxvIZEnjYa7_system76-on-age-verifcation-lawsRR.png" length="0" type="image/png" />
-      <guid>cid://https://blog.system76.com/post/system76-on-age-verification</guid>
-    </item>    <item>
-      <title>DOS memory management</title>
-      <link>https://www.osnews.com/story/144545/dos-memory-management/</link>
-      <description>
-        <![CDATA[The memory management in DOS is simple, but that simplicity may be deceptive. There are several rather interesting pitfalls that programming documentation often does not mention. ↫ Michal Necasek at the OS/2 Museum A must-read for people writing software for earlier DOS versions.]]>
-      </description>
-      <source:markdown>The memory management in DOS is simple, but that simplicity may be deceptive. There are several rather interesting pitfalls that programming documentation often does not mention. ↫ Michal Necasek at the OS/2 Museum A must-read for people writing software for earlier DOS versions.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144545</guid>
-    </item>    <item>
-      <title>Iran intelligence backdoored US bank, airport, software outfit networks</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/mudywater_backdoor_us_networks/</link>
-      <description>
-        <![CDATA[<h4>MOIS-linked MuddyWater crew has a new, custom implant</h4> <p>An Iranian cyber crew believed to be part of the Iranian Ministry of Intelligence and Security (MOIS) has been embedded in multiple US companies&#39; networks - including a bank, software firm, and airport, among others - since the beginning of February, with more activity in the days following the US and Israeli military strikes, according to security researchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### MOIS-linked MuddyWater crew has a new, custom implant
-
-An Iranian cyber crew believed to be part of the Iranian Ministry of Intelligence and Security (MOIS) has been embedded in multiple US companies&#39; networks - including a bank, software firm, and airport, among others - since the beginning of February, with more activity in the days following the US and Israeli military strikes, according to security researchers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244924</guid>
-    </item>    <item>
-      <title>Munificent 7 vow to spare US households from AI&#39;s rising energy costs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/munificent_7_pledge_on_energy/</link>
-      <description>
-        <![CDATA[<h4>Bit tricky enforcing this. What&#39;s the penalty if they go up anyway?</h4> <p>Seven of the top US AI companies and hyperscalers have officially agreed to protect American consumers from price hikes due to datacenter energy and infrastructure increases caused by the AI build boom.…</p>]]>
-      </description>
-      <source:markdown>#### Bit tricky enforcing this. What&#39;s the penalty if they go up anyway?
-
-Seven of the top US AI companies and hyperscalers have officially agreed to protect American consumers from price hikes due to datacenter energy and infrastructure increases caused by the AI build boom.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244922</guid>
-    </item>    <item>
-      <title>You can power a G-Wiz EV with 500 vapes, and this YouTuber proved it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/vape_powered_gwiz_ev/</link>
-      <description>
-        <![CDATA[<h4>You made a <s>time machine</s> vapemobile ... out of a <s>Delorean</s> G-Wiz?</h4> <p>The world would be a better place if all of us were as willing to upcycle as aggressively as YouTuber Chris Doel, who has demonstrated that batteries from 500 disposable vapes can actually power one of the UK&#39;s most famous electric vehicles. …</p>]]>
-      </description>
-      <source:markdown>#### You made a time machine vapemobile ... out of a Delorean G-Wiz?
-
-The world would be a better place if all of us were as willing to upcycle as aggressively as YouTuber Chris Doel, who has demonstrated that batteries from 500 disposable vapes can actually power one of the UK&#39;s most famous electric vehicles. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244923</guid>
-    </item>    <item>
-      <title>Document Foundation urges EU to ditch Excel lock-in for cybersecurity law consultation</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/document_foundation_excel/</link>
-      <description>
-        <![CDATA[<h4>LibreOffice steward says Commish undermines its own standards by asking for feedback via Excel spreadsheet</h4> <p>The Document Foundation has taken a swipe at the European Commission over its consultation on guidance for the <a href="https://www.theregister.com/2023/12/04/infosec_in_brief/">EU&#39;s Cyber Resilience Act</a> – because the feedback template is only available as a Microsoft Excel spreadsheet.…</p>]]>
-      </description>
-      <source:markdown>#### LibreOffice steward says Commish undermines its own standards by asking for feedback via Excel spreadsheet
-
-The Document Foundation has taken a swipe at the European Commission over its consultation on guidance for the [EU&#39;s Cyber Resilience Act](https://www.theregister.com/2023/12/04/infosec_in_brief/) – because the feedback template is only available as a Microsoft Excel spreadsheet.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244919</guid>
-    </item>    <item>
-      <title>Why Has Punch, an Adorable Baby Monkey, Struggled to Fit in With His Troop? Scientists Explain the Lives of Japanese Macaques</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-has-punch-an-adorable-baby-monkey-struggled-to-fit-in-with-his-troop-scientists-explain-the-lives-of-japanese-macaques-180988297/</link>
-      <description>
-        <![CDATA[Experts say the other monkeys' aggressive behaviors toward Punch are pretty normal]]>
-      </description>
-      <source:markdown>Experts say the other monkeys&#39; aggressive behaviors toward Punch are pretty normal</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZNSCPl70jLFRYRWkSgWrf-jTXHo=/420x240/filters:focal(2049x1385:2050x1386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/26/192600e6-27c3-4c20-be64-ad4815b98a6e/punch.jpg" length="2455633" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-has-punch-an-adorable-baby-monkey-struggled-to-fit-in-with-his-troop-scientists-explain-the-lives-of-japanese-macaques-180988297/</guid>
-    </item>    <item>
-      <title>NASA Wallops Supports First Rocket Lab HASTE Launch of 2026</title>
-      <link>https://www.nasa.gov/image-article/nasa-wallops-supports-first-rocket-lab-haste-launch-of-2026/</link>
-      <description>
-        <![CDATA[NASA&#8217;s Wallops Flight Facility supported a Rocket Lab HASTE suborbital launch from the company&#8217;s Launch Complex 2 in Virginia on Feb. 27, 2026. The mission, called Cassowary Vex, supported a&#160;flight of a hypersonic test platform&#160;for the Department of&#160;War’s&#160;Defense Innovation Unit.&#160; The NASA Wallops launch range&#160;supported by providing services such as tracking, telemetry, and range safety [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Wallops Flight Facility supported a Rocket Lab HASTE suborbital launch from the company’s Launch Complex 2 in Virginia on Feb. 27, 2026. The mission, called Cassowary Vex, supported a flight of a hypersonic test platform for the Department of War’s Defense Innovation Unit.  The NASA Wallops launch range supported by providing services such as tracking, telemetry, and range safety \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=970702</guid>
-    </item>    <item>
-      <title>Could Life on Earth Have Descended From Microbes That Traveled From Mars Long Ago?</title>
-      <link>https://www.smithsonianmag.com/smart-news/could-life-on-earth-have-descended-from-microbes-that-traveled-from-mars-long-ago-180988295/</link>
-      <description>
-        <![CDATA[Scientists demonstrated that an Earthly extremophile might withstand being ejected from the Red Planet on debris spewed into space due to an asteroid strike]]>
-      </description>
-      <source:markdown>Scientists demonstrated that an Earthly extremophile might withstand being ejected from the Red Planet on debris spewed into space due to an asteroid strike</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0jSezUJpmhk_epeJq1-mI3KozvI=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/42/86/4286a560-3fb0-4acc-884e-970d805822ca/generic_image_of_asteroid_in_the_solar_system.jpg" length="242740" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/could-life-on-earth-have-descended-from-microbes-that-traveled-from-mars-long-ago-180988295/</guid>
-    </item>    <item>
-      <title>Mosquitoes Have Been Biting Humans for More Than One Million Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/mosquitoes-have-been-biting-humans-for-more-than-one-million-years-180988286/</link>
-      <description>
-        <![CDATA[A new study suggests that the deadly insects evolved their taste for human blood much earlier than previously thought, around when Homo erectus migrated into Southeast Asia]]>
-      </description>
-      <source:markdown>A new study suggests that the deadly insects evolved their taste for human blood much earlier than previously thought, around when Homo erectus migrated into Southeast Asia</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/kBZlo3USB_6-KoKayfSJ7Tvt90c=/420x240/filters:focal(800x533:801x534)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/55/ca55fc03-57ea-4805-8060-6a8987032b0a/mosquito-human-asia-malaria-vector.webp" length="81868" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/mosquitoes-have-been-biting-humans-for-more-than-one-million-years-180988286/</guid>
-    </item>    <item>
-      <title>Total Lunar Eclipse</title>
-      <link>https://www.nasa.gov/image-article/total-lunar-eclipse/</link>
-      <description>
-        <![CDATA[The Moon appears red during a total lunar eclipse over New Orleans, home of NASA’s Michoud Assembly Facility, on March 3, 2026. This &#8220;blood moon&#8221; occurs during a total lunar eclipse, as Earth lines up between the Moon and the Sun. When this happens, the only light that reaches the Moon&#8217;s surface is from the edges [&#8230;]]]>
-      </description>
-      <source:markdown>The Moon appears red during a total lunar eclipse over New Orleans, home of NASA’s Michoud Assembly Facility, on March 3, 2026. This “blood moon” occurs during a total lunar eclipse, as Earth lines up between the Moon and the Sun. When this happens, the only light that reaches the Moon’s surface is from the edges \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=970259</guid>
-    </item>    <item>
-      <title>Congress puts the ISS on life support until 2032, orders Moon base plan</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/iss_extension/</link>
-      <description>
-        <![CDATA[<h4>Authorization Act seeks to keep lights on until commercial stations are ready</h4> <p>The <a target="_blank" rel="nofollow" href="https://www.commerce.senate.gov/2026/3/commerce-committee-advances-nasa-reauthorization-act-and-weather-act">NASA Authorization Act of 2026</a> has been approved, and alongside a directive for NASA to establish a permanent Moon base, the legislation includes language extending the International Space Station to 2032.…</p>]]>
-      </description>
-      <source:markdown>#### Authorization Act seeks to keep lights on until commercial stations are ready
-
-The [NASA Authorization Act of 2026](https://www.commerce.senate.gov/2026/3/commerce-committee-advances-nasa-reauthorization-act-and-weather-act) has been approved, and alongside a directive for NASA to establish a permanent Moon base, the legislation includes language extending the International Space Station to 2032.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244914</guid>
-    </item>    <item>
-      <title>See the New U.S. Postage Stamp Honoring the Bison, America&#39;s National Mammal</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-new-us-postage-stamp-honoring-the-bison-americas-national-mammal-180988292/</link>
-      <description>
-        <![CDATA[The stamp features a modern image by Montana-based wildlife photographer Tom Murphy alongside a historic bison stamp design from 1923]]>
-      </description>
-      <source:markdown>The stamp features a modern image by Montana-based wildlife photographer Tom Murphy alongside a historic bison stamp design from 1923</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4BKA5kAC1aFu-VEfwlYBDS2jyhY=/420x240/filters:focal(375x261:376x262)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/2d/dd2d176f-3cf4-4610-9f06-0aa3a8e285ac/murphy-stamp-ht-jt-260226_1772142630342_hpembed_23x16.png" length="782331" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-new-us-postage-stamp-honoring-the-bison-americas-national-mammal-180988292/</guid>
-    </item>    <item>
-      <title>Office EU waves sovereignty flag with a familiar stack under the bonnet</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/office_eu_suite/</link>
-      <description>
-        <![CDATA[<h4>Euro productivity suite appears to be hosted Nextcloud and Collabora Online</h4> <p>In the battle of the online office suites, a new contender has entered the ring... but under the wrestler&#39;s mask, we think there may be a familiar face.…</p>]]>
-      </description>
-      <source:markdown>#### Euro productivity suite appears to be hosted Nextcloud and Collabora Online
-
-In the battle of the online office suites, a new contender has entered the ring... but under the wrestler&#39;s mask, we think there may be a familiar face.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244909</guid>
-    </item>    <item>
-      <title>Trump administration spoiling for a fight over global satellite regulations</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/trump_administration_spoiling_for_a/</link>
-      <description>
-        <![CDATA[<h4>FCC not pleased about EU space tech reqs to enter Common market, among other things</h4> <p><strong>Updated</strong>  The US government is consulting with the telecoms industry about &#34;reciprocity&#34; in satellite services, in a move that could see another dispute erupt with the European Union over regulations.…</p>]]>
-      </description>
-      <source:markdown>#### FCC not pleased about EU space tech reqs to enter Common market, among other things
-
-**Updated**  The US government is consulting with the telecoms industry about &#34;reciprocity&#34; in satellite services, in a move that could see another dispute erupt with the European Union over regulations.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244908</guid>
-    </item>    <item>
-      <title>npmx package browser released as alpha to fix pain of using npmjs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/npmx_package_browser_released_as/</link>
-      <description>
-        <![CDATA[<h4>Project initiated by Nuxt lead Daniel Roe attracts wide support thanks to multiple issues with the official interface</h4> <p>A new browser for the npm registry has launched in alpha, following grassroots demand for an alternative to the official npmjs.com interface.…</p>]]>
-      </description>
-      <source:markdown>#### Project initiated by Nuxt lead Daniel Roe attracts wide support thanks to multiple issues with the official interface
-
-A new browser for the npm registry has launched in alpha, following grassroots demand for an alternative to the official npmjs.com interface.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244904</guid>
-    </item>    <item>
-      <title>Microsoft Copilot to hijack your browser... for your own convenience</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/microsoft_adds_a_sidepane_for/</link>
-      <description>
-        <![CDATA[<h4>Embeds Edge into AI assistant, ignores questions about opt-in</h4> <p>Microsoft is rolling out a Copilot update to Windows Insiders that embeds web browsing directly into the assistant, opening links in a side panel rather than launching your default browser.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Embeds Edge into AI assistant, ignores questions about opt-in
-
-Microsoft is rolling out a Copilot update to Windows Insiders that embeds web browsing directly into the assistant, opening links in a side panel rather than launching your default browser.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244907</guid>
-    </item>    <item>
-      <title>UK watchdog eyes Meta&#39;s smart glasses after workers say they &#39;see everything&#39;</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/ico_meta_glasses/</link>
-      <description>
-        <![CDATA[<h4>Contractors tasked with improving AI reportedly had access to intimate footage captured through wearables</h4> <p>Britain&#39;s privacy watchdog is asking questions about Meta&#39;s AI-powered smart glasses after reports that human contractors reviewing recordings from the devices were exposed to extremely private moments captured by unsuspecting users.…</p>]]>
-      </description>
-      <source:markdown>#### Contractors tasked with improving AI reportedly had access to intimate footage captured through wearables
-
-Britain&#39;s privacy watchdog is asking questions about Meta&#39;s AI-powered smart glasses after reports that human contractors reviewing recordings from the devices were exposed to extremely private moments captured by unsuspecting users.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244902</guid>
-    </item>    <item>
-      <title>Solar superstorm gave ESA&#39;s Mars orbiters a handy science opportunity</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/mars_spacecraft_solar_storm/</link>
-      <description>
-        <![CDATA[<h4>Veteran spacecraft overcome computer glitches as atmosphere &#39;flooded by electrons&#39;</h4> <p>Almost two years ago, a solar storm hit Earth, triggering auroras that were seen as far south as Mexico. The storm also reached Mars and was detected by a pair of ESA spacecraft, Mars Express and ExoMars Trace Gas Orbiter (TGO).…</p>]]>
-      </description>
-      <source:markdown>#### Veteran spacecraft overcome computer glitches as atmosphere &#39;flooded by electrons&#39;
-
-Almost two years ago, a solar storm hit Earth, triggering auroras that were seen as far south as Mexico. The storm also reached Mars and was detected by a pair of ESA spacecraft, Mars Express and ExoMars Trace Gas Orbiter (TGO).…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244903</guid>
-    </item>    <item>
-      <title>CERN sends AI-trained robot mice scurrying through LHC beam pipes</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/robot_mice_lhc/</link>
-      <description>
-        <![CDATA[<h4>Bots hunt deformed RF contacts inside the collider&#39;s 27 km vacuum tubes</h4> <p><strong>Updated</strong>  The UK Atomic Energy Authority (UKAEA) and CERN have jointly developed a &#34;mouse-sized robot&#34; to inspect parts of the Large Hadron Collider (LHC) that are out of reach to humans.…</p>]]>
-      </description>
-      <source:markdown>#### Bots hunt deformed RF contacts inside the collider&#39;s 27 km vacuum tubes
-
-**Updated**  The UK Atomic Energy Authority (UKAEA) and CERN have jointly developed a &#34;mouse-sized robot&#34; to inspect parts of the Large Hadron Collider (LHC) that are out of reach to humans.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244886</guid>
-    </item>    <item>
-      <title>MoJ puts Prisoner Telephony Service replacement on hold yet again</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/prisoner_telephony_service/</link>
-      <description>
-        <![CDATA[<h4>Project dialed back, BT asked to keep current system for another 54 months</h4> <p>The UK Ministry of Justice (MoJ) will pay telco BT £94.6 million plus VAT to keep its in-cell Prisoner Telephony Service (PTS) going for another 54 months after repeatedly pushing back procurement of its replacement.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Project dialed back, BT asked to keep current system for another 54 months
-
-The UK Ministry of Justice (MoJ) will pay telco BT £94.6 million plus VAT to keep its in-cell Prisoner Telephony Service (PTS) going for another 54 months after repeatedly pushing back procurement of its replacement.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244887</guid>
-    </item>    <item>
-      <title>UK still doodling digital pound while Brussels frets over payment sovereignty</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/uk_digital_currency/</link>
-      <description>
-        <![CDATA[<h4>Geopolitical tensions turn up the pressure for European legislators</h4> <p>The UK is still in the design phase of digital currency as the EU comes under political pressure to accelerate the development of a digital euro to bolster the bloc&#39;s sovereignty and resilience.…</p>]]>
-      </description>
-      <source:markdown>#### Geopolitical tensions turn up the pressure for European legislators
-
-The UK is still in the design phase of digital currency as the EU comes under political pressure to accelerate the development of a digital euro to bolster the bloc&#39;s sovereignty and resilience.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244855</guid>
-    </item>    <item>
-      <title>Supposedly big-brained execs are outsourcing decisionmaking to AI</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/execs_rely_on_ai/</link>
-      <description>
-        <![CDATA[<h4>Survey of UK bosses find 62 percent rely on LLMs for help</h4> <p>Most business leaders in the United Kingdom appear to have outsourced a lot of their decisionmaking to machine learning models, according to a survey of 200 suits published by data streaming tools vendor Confluent. /p&gt;…</p>]]>
-      </description>
-      <source:markdown>#### Survey of UK bosses find 62 percent rely on LLMs for help
-
-Most business leaders in the United Kingdom appear to have outsourced a lot of their decisionmaking to machine learning models, according to a survey of 200 suits published by data streaming tools vendor Confluent. /p&#62;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244894</guid>
-    </item>    <item>
-      <title>A Little Town with a Long Name</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/</link>
-      <description>
-        <![CDATA[A NASA luminary from the Apollo era grew up in Wales near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.]]>
-      </description>
-      <source:markdown>A NASA luminary from the Apollo era grew up in Wales near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/</guid>
-    </item>    <item>
-      <title>Google embraces third party app stores and payments to put Epic Games case behind it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/google_play_store_concessios/</link>
-      <description>
-        <![CDATA[<h4>Lower app store fees are on the way, plus an on-ramp for third party digital bazaars</h4> <p>Google has spelled out changes it will make to the fees it charges developers who use its app store and payment services, and says they represent the end of its long legal battle with Epic Games.…</p>]]>
-      </description>
-      <source:markdown>#### Lower app store fees are on the way, plus an on-ramp for third party digital bazaars
-
-Google has spelled out changes it will make to the fees it charges developers who use its app store and payment services, and says they represent the end of its long legal battle with Epic Games.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244897</guid>
-    </item>    <item>
-      <title>Broadcom says AI companies can’t make their own silicon any time soon</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/broadcom_q1_2026/</link>
-      <description>
-        <![CDATA[<h4>Offers booming customer accelerator biz as evidence, while VMware props up its software business</h4> <p>Broadcom will soon deploy multiple gigawatts worth of custom accelerators at Meta, OpenAI, and Anthropic, a feat it says shows AI companies and hyperscalers can’t successfully develop and deploy their own silicon any time soon.…</p>]]>
-      </description>
-      <source:markdown>#### Offers booming customer accelerator biz as evidence, while VMware props up its software business
-
-Broadcom will soon deploy multiple gigawatts worth of custom accelerators at Meta, OpenAI, and Anthropic, a feat it says shows AI companies and hyperscalers can’t successfully develop and deploy their own silicon any time soon.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244896</guid>
-    </item>    <item>
-      <title>Intel numbers boss swears big Foundry wins are coming soon</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/05/intel_advanced_packaging_wins/</link>
-      <description>
-        <![CDATA[<h4>Meanwhile Chipzilla&#39;s 18A process tech could see external deployment after all</h4> <p>Intel&#39;s Foundry division is near to sealing a deal for its advanced packaging technology that would contribute billions of dollars a year to the struggling chipmaker, CFO David Zinsner said on Wednesday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Meanwhile Chipzilla&#39;s 18A process tech could see external deployment after all
-
-Intel&#39;s Foundry division is near to sealing a deal for its advanced packaging technology that would contribute billions of dollars a year to the struggling chipmaker, CFO David Zinsner said on Wednesday.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244895</guid>
-    </item>    <item>
-      <title>High-Speed Flight Project Overview</title>
-      <link>https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/</link>
-      <description>
-        <![CDATA[What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today&#8217;s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing [&#8230;]]]>
-      </description>
-      <source:markdown>What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today’s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=918681</guid>
     </item>
   </channel>
 </rss>

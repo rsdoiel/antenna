@@ -4,10 +4,43 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Mar 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>27 Mar 26 06:51 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fireside developer chat on saturday night</title>
+      <link>http://www.iconbar.com/comments/rss/news2316.html</link>
+      <description>
+        <![CDATA[The next developer chat is on saturday night (27th March) for anyone interested in a very informal event online aimed at RISC OS developers.]]>
+      </description>
+      <source:markdown>The next developer chat is on saturday night (27th March) for anyone interested in a very informal event online aimed at RISC OS developers.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2316.html</guid>
+    </item>    <item>
+      <title>March 2026 News Summary</title>
+      <link>http://www.iconbar.com/comments/rss/news2305.html</link>
+      <description>
+        <![CDATA[Some things we noticed this month. What did you see?]]>
+      </description>
+      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2305.html</guid>
+    </item>    <item>
+      <title>b.log 2026/03/26 - Wasps, Oaks and bird cherry, Anna&#39;s vet visit, Google&#39;s crappy coding, Banger and mash, Weather, Night lights, Result!, A spot of mowing.</title>
+      <link>https://heyrick.eu/blog/entry/20260326</link>
+      <description>
+        <![CDATA[Wasps, Oaks and bird cherry, Anna's vet visit, Google's crappy coding, Banger and mash, Weather, Night lights, Result!, A spot of mowing.]]>
+      </description>
+      <source:markdown>Wasps, Oaks and bird cherry, Anna&#39;s vet visit, Google&#39;s crappy coding, Banger and mash, Weather, Night lights, Result!, A spot of mowing.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260326</guid>
+    </item>    <item>
+      <title>Kali Linux Waxes Nostalgic with BackTrack Mode</title>
+      <link>http://www.linux-magazine.com/Online/News/Kali-Linux-Waxes-Nostalgic-with-BackTrack-Mode</link>
+      <description>
+        <![CDATA[<p>For those who've used Kali Linux since its inception, the changes with the new release are sure to put a smile on your face.</p>]]>
+      </description>
+      <source:markdown>For those who&#39;ve used Kali Linux since its inception, the changes with the new release are sure to put a smile on your face.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://c5b75cf61eb816b08f4fdabf261bf8bf</guid>
+    </item>    <item>
       <title>Developers’ fireside chat – 28th March</title>
       <link>https://www.riscository.com/2026/developers-fireside-chat-28th-march/</link>
       <description>
@@ -3893,23 +3926,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       </description>
       <source:markdown>The Dutch based firm Post Electronics produced and sold lots of electronic components and computer systems. Like the 6502 based PC-1, PC-2, PC-3, and PIM-1 and the Z80 based CB80. They also created Ultiboard, the PCB design software that became their future in the USA. On the PROTON pages you find images, scans and software \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20124</guid>
-    </item>    <item>
-      <title>b.log 2026/03/05 - The Petrol Pump Paradox.</title>
-      <link>https://heyrick.eu/blog/entry/20260305</link>
-      <description>
-        <![CDATA[The Petrol Pump Paradox.]]>
-      </description>
-      <source:markdown>The Petrol Pump Paradox.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260305</guid>
-    </item>    <item>
-      <title>Linux Foundation Reports that Open Source Delivers Better ROI</title>
-      <link>http://www.linux-magazine.com/Online/News/Linux-Foundation-Reports-that-Open-Source-Delivers-Better-ROI</link>
-      <description>
-        <![CDATA[<p>In a report that may surprise no one in the Linux community, the Linux Foundation found that businesses are finding a 5X return on investment with open source software.</p>]]>
-      </description>
-      <source:markdown>In a report that may surprise no one in the Linux community, the Linux Foundation found that businesses are finding a 5X return on investment with open source software.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://678276684b87f18c33d7652324bd1f88</guid>
     </item>
   </channel>
 </rss>

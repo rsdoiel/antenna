@@ -394,5 +394,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer.rss)
 - [Thunderbird Pro blog](https://blog.thunderbird.net/feed/)
 - [Robin Sloan Blog](https://www.robinsloan.com/feed.xml)
-
+- [Jeena Paradies' Blog](https://jeena.net/all.atom)
 
