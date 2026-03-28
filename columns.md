@@ -395,4 +395,9 @@ description: Blogs, columns and snapshots from around the web.
 - [Thunderbird Pro blog](https://blog.thunderbird.net/feed/)
 - [Robin Sloan Blog](https://www.robinsloan.com/feed.xml)
 - [Jeena Paradies' Blog](https://jeena.net/all.atom)
+- [Kyla Scanlon Blog](https://kyla.substack.com/feed)
+- [Kevin Kelly, The Technium](https://feedpress.me/thetechnium)
+- [Kevin Kelly, Substack](https://kevinkelly.substack.com/feed)
+- [Daniel Barkhuff, Substack](https://dbarkhuff.substack.com/feed)
+
 
