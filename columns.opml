@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>27 Mar 26 06:52 -0700</dateCreated>
+        <dateCreated>28 Mar 26 06:44 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -76,6 +76,7 @@
         <outline text="Dalton Caldwell Blog" type="atom" xmlUrl="http://daltoncaldwell.com/feed" htmlUrl="http://daltoncaldwell.com,http://daltoncaldwell.com/feed" url="http://daltoncaldwell.com/feed"></outline>
         <outline text="Dan Rather&#39;s Steady" type="rss" xmlUrl="https://steady.substack.com/feed" htmlUrl="https://steady.substack.com,https://steady.substack.com/feed" description="Dan Rather&#39;s steady take on a complex and chaotic world. " url="https://steady.substack.com/feed"></outline>
         <outline text="Dan Sinker" type="atom" xmlUrl="https://dansinker.com/feed.xml" htmlUrl="https://dansinker.com/feed.xml,https://dansinker.com/" description="This is a blog by Dan Sinker." url="https://dansinker.com/feed.xml"></outline>
+        <outline text="Daniel Barkhuff, Substack" type="rss" xmlUrl="https://dbarkhuff.substack.com/feed" htmlUrl="https://dbarkhuff.substack.com,https://dbarkhuff.substack.com/feed" description="Husband, Dad, Emergency Medicine physician, Veteran." url="https://dbarkhuff.substack.com/feed"></outline>
         <outline text="Daniel Stenberg Blog" type="rss" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog,https://daniel.haxx.se/blog/feed/" description="curl, open source and networking" url="https://daniel.haxx.se/blog/feed/"></outline>
         <outline text="Daring Fireball" type="atom" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/,https://daringfireball.net/feeds/main" description="By John Gruber" url="https://daringfireball.net/feeds/main"></outline>
         <outline text="Dave Jarvis&#39; Blog" type="rss" xmlUrl="https://dave.autonoma.ca/dave/news/blog.rss" htmlUrl="https://dave.autonoma.ca,https://dave.autonoma.ca/dave/news/blog.rss" description="Practical software development" url="https://dave.autonoma.ca/dave/news/blog.rss"></outline>
@@ -176,9 +177,12 @@
         <outline text="Keiran Healy Blog" type="rss" xmlUrl="https://kieranhealy.org/blog/index.xml" htmlUrl="https://kieranhealy.org/blog/,https://kieranhealy.org/blog/index.xml" description="Recent content in Blogs on kieranhealy.org" url="https://kieranhealy.org/blog/index.xml"></outline>
         <outline text="Keith P&#39;s blog" type="rss" xmlUrl="https://keithp.com/blog/index.rss" htmlUrl="http://keithp.com/blog/,http://keithp.com/blog/index.rss" description="keithp.com" url="http://keithp.com/blog/index.rss"></outline>
         <outline text="Kettlekasten Blog" type="atom" xmlUrl="https://zettelkasten.de/feed.atom" htmlUrl="https://zettelkasten.de/,https://zettelkasten.de/feed.atom" url="https://zettelkasten.de/feed.atom"></outline>
+        <outline text="Kevin Kelly, Substack" type="rss" xmlUrl="https://kevinkelly.substack.com/feed" htmlUrl="https://kevinkelly.substack.com,https://kevinkelly.substack.com/feed" description="Kevin Kelly&#39;s works in progress" url="https://kevinkelly.substack.com/feed"></outline>
+        <outline text="Kevin Kelly, The Technium" type="rss" xmlUrl="https://feedpress.me/thetechnium" htmlUrl="https://kk.org/thetechnium,https://feedpress.me/TheTechnium" description="Making the Inevitable Obvious" url="https://feedpress.me/TheTechnium"></outline>
         <outline text="Kilian Valkhof&#39;s blog" type="rss" xmlUrl="http://feeds.feedburner.com/Kilianvalkhofcom" htmlUrl="https://kilianvalkhof.com,https://kilianvalkhof.com/feed/" description="Front-end &amp; user experience developer" url="https://kilianvalkhof.com/feed/"></outline>
         <outline text="Kilkenney People, local news" type="rss" xmlUrl="https://www.kilkennypeople.ie/rss.jsp?sezione=115" htmlUrl="https://www.kilkennypeople.ie,https://www.kilkennypeople.ie/rss.jsp?sezione=115" url="https://www.kilkennypeople.ie/rss.jsp?sezione=115"></outline>
         <outline text="Kilkenney People, national news" type="rss" xmlUrl="https://www.kilkennypeople.ie/rss.jsp?sezione=359" htmlUrl="https://www.kilkennypeople.ie,https://www.kilkennypeople.ie/rss.jsp?sezione=359" url="https://www.kilkennypeople.ie/rss.jsp?sezione=359"></outline>
+        <outline text="Kyla Scanlon Blog" type="rss" xmlUrl="https://kyla.substack.com/feed" htmlUrl="https://kyla.substack.com,https://kyla.substack.com/feed" description="human-centric economic analysis to help all of us understand the world better" url="https://kyla.substack.com/feed"></outline>
         <outline text="L.A.G.Q. news" type="rss" xmlUrl="https://www.lagq.com/news?format=RSS" htmlUrl="https://www.lagq.com/news/" description="&lt;p&gt;The latest news from LAGQ&lt;/p&gt;"></outline>
         <outline text="LLVM Blog" type="rss" xmlUrl="https://blog.llvm.org/index.xml" htmlUrl="https://blog.llvm.org/,https://blog.llvm.org/index.xml" description="Recent content on The LLVM Project Blog" url="https://blog.llvm.org/index.xml"></outline>
         <outline text="Laurie Voss blog" type="rss" xmlUrl="https://seldo.com/rss.xml" htmlUrl="https://seldo.com" description="Personal website of Laurie Voss"></outline>
