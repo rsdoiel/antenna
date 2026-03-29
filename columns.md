@@ -326,7 +326,7 @@ description: Blogs, columns and snapshots from around the web.
 - [W. Kamau Bell blog](https://www.noemamag.com/?feed=noemarss)
   - Old URL was <http://www.wkamaubell.com/blog?format=rss>, RSD 2026-02-24
 - [Neoma Magazine](https://www.noemamag.com/feed/)
-- [Notes from the circus](https://www.notesfromthecircus.com/feed)
+-  Notes from the circus, <https://www.notesfromthecircus.com/feed>
 - [Strength in Numbere](https://www.gelliottmorris.com/feed)
 - [Front Matter Blog (Martin Fenner)](https://blog.front-matter.de/atom/)
   - Old URL was <https://blog.front-matter.io/atom/>, RSD 2026-02-24
@@ -399,5 +399,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Kevin Kelly, The Technium](https://feedpress.me/thetechnium)
 - [Kevin Kelly, Substack](https://kevinkelly.substack.com/feed)
 - [Daniel Barkhuff, Substack](https://dbarkhuff.substack.com/feed)
-
+- [John Osterhout](http://johnosterhout.com/feed/)
 

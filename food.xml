@@ -4,10 +4,34 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>28 Mar 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>29 Mar 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Curated Selection Of Coffees From Our Friends At The Sprudge Roaster’s Village</title>
+      <link>https://sprudge.com/a-curated-selection-of-coffees-from-our-friends-at-the-sprudge-roasters-village-842513.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=842513</guid>
+    </item>    <item>
+      <title>37 Best Asparagus Recipes to Make This Spring (and Beyond)</title>
+      <link>https://www.bonappetit.com/gallery/asparagus-recipes</link>
+      <description>
+        <![CDATA[Shaved into a salad, roasted until crispy, or puréed into soup, our best asparagus recipes celebrate spring’s most iconic spears.]]>
+      </description>
+      <source:markdown>Shaved into a salad, roasted until crispy, or puréed into soup, our best asparagus recipes celebrate spring’s most iconic spears.</source:markdown>
+      <guid>cid://57e40602bf7e91497a10e760</guid>
+    </item>    <item>
+      <title>Ecotact Unveils Trace IQ: Coffee Industry’s First Real-Time Smart Monitoring Solution, Revolutionizing Coffee Preservation During Transit</title>
+      <link>https://sprudge.com/ecotact-unveils-trace-iq-coffee-industrys-first-real-time-smart-monitoring-solution-revolutionizing-coffee-preservation-during-transit-836805.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. New digital logging solution marks Ecotact’s expansion beyond packaging into data-driven supply chain monitoring.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. New digital logging solution marks Ecotact’s expansion beyond packaging into data-driven supply chain monitoring.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=836805</guid>
+    </item>    <item>
       <title>23 Salads With Chicken for Dinner Tonight</title>
       <link>https://www.bonappetit.com/gallery/salads-with-chicken</link>
       <description>
@@ -2872,22 +2896,6 @@ The post [St Patrick’s Day Recipes](https://www.closetcooking.com/17-st-patric
       </description>
       <source:markdown>Crispy on the outside with tender interiors, these sourdough waffles get their depth of flavor from a scoop of bubbly starter.</source:markdown>
       <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2214858</guid>
-    </item>    <item>
-      <title>41 Gluten-Free Desserts Everyone Will Love</title>
-      <link>https://www.bonappetit.com/gallery/gluten-free-desserts-recipes</link>
-      <description>
-        <![CDATA[Like almond-flour carrot cake and tiramisu panna cotta.]]>
-      </description>
-      <source:markdown>Like almond-flour carrot cake and tiramisu panna cotta.</source:markdown>
-      <guid>cid://57ed2e50b57053f5117fc0a2</guid>
-    </item>    <item>
-      <title>New Coffee Gear Is A Need Not A Want</title>
-      <link>https://sprudge.com/new-coffee-gear-is-a-need-not-a-want-793537.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=793537</guid>
     </item>
   </channel>
 </rss>

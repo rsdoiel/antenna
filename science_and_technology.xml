@@ -4,10 +4,40 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>28 Mar 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>29 Mar 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The first thing vibe coding builds is confidence it will help you succeed</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/29/secret_ceo_column_vibe_coding/</link>
+      <description>
+        <![CDATA[<h4>And developers should be confident it won&#39;t kill the craft</h4> <p><strong>Secret CEO</strong>  In 1991, when I was 16, a Norwegian Exchange student gave an inspirational performance of the Three Billy Goats Gruff, in the original Norwegian, at my high school talent night. She delivered this performance with such gusto that every word of her performance stuck in my mind and, to this day, I can recite the Three Billy Goats Gruff in Norwegian.…</p>]]>
+      </description>
+      <source:markdown>#### And developers should be confident it won&#39;t kill the craft
+
+**Secret CEO**  In 1991, when I was 16, a Norwegian Exchange student gave an inspirational performance of the Three Billy Goats Gruff, in the original Norwegian, at my high school talent night. She delivered this performance with such gusto that every word of her performance stuck in my mind and, to this day, I can recite the Three Billy Goats Gruff in Norwegian.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245340</guid>
+    </item>    <item>
+      <title>Bees and hummingbirds aren&#39;t just buzzing – they&#39;re sipping trace booze</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/29/bees_hummingbirds_alcohol/</link>
+      <description>
+        <![CDATA[<h4>Alcohol turns up in most floral nectar, meaning pollinators are drinking tiny cocktails without ever getting drunk</h4> <p>Bees and hummingbirds are effectively day-drinking on the job because their lunch is quietly fermenting.…</p>]]>
+      </description>
+      <source:markdown>#### Alcohol turns up in most floral nectar, meaning pollinators are drinking tiny cocktails without ever getting drunk
+
+Bees and hummingbirds are effectively day-drinking on the job because their lunch is quietly fermenting.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245347</guid>
+    </item>    <item>
+      <title>Anthropic struggling with Chinese competition, its own safety obsession</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/28/miss_anthropic_not_those_who/</link>
+      <description>
+        <![CDATA[<h4>The maker of Claude faces headwinds as it rushes to go public</h4> <p>Anthropic, riding a wave of goodwill after resisting demands from the US Defense Department to soften model safeguards, is reportedly planning to go public as soon as Q4 2026.…</p>]]>
+      </description>
+      <source:markdown>#### The maker of Claude faces headwinds as it rushes to go public
+
+Anthropic, riding a wave of goodwill after resisting demands from the US Defense Department to soften model safeguards, is reportedly planning to go public as soon as Q4 2026.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245357</guid>
+    </item>    <item>
       <title>To BSOD or not to BSOD? Only Microsoft knows the answer</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/03/28/rsac_bork/</link>
       <description>
@@ -6160,56 +6190,6 @@ China’s Ministry of Commerce has warned of further disruption to the global se
 
 A clump of living human brain cells wired into a silicon chip has answered the internet&#39;s most important computing question: yes, it can run Doom.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story244912</guid>
-    </item>    <item>
-      <title>Unpacking the deceptively simple science of tokenomics</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/07/ai_inference_economics/</link>
-      <description>
-        <![CDATA[<h4>Inference at scale is much more complex than more GPUs, more tokens, more profits</h4> <p><strong>feature</strong>  By now you&#39;ve probably heard AI datacenters called factories. It&#39;s an apt description: power goes in and tokens come out.…</p>]]>
-      </description>
-      <source:markdown>#### Inference at scale is much more complex than more GPUs, more tokens, more profits
-
-**feature**  By now you&#39;ve probably heard AI datacenters called factories. It&#39;s an apt description: power goes in and tokens come out.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244960</guid>
-    </item>    <item>
-      <title>Brits fear AI will strip the human touch from public services</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/07/ai_public_sector_poll/</link>
-      <description>
-        <![CDATA[<h4>&#39;There&#39;s a naive techno-utopianism in Whitehall&#39;</h4> <p>Brits are worried that AI will dehumanize public services, leading to less human contact and oversight as well as job losses, according to people questioned by pollster Ipsos.…</p>]]>
-      </description>
-      <source:markdown>#### &#39;There&#39;s a naive techno-utopianism in Whitehall&#39;
-
-Brits are worried that AI will dehumanize public services, leading to less human contact and oversight as well as job losses, according to people questioned by pollster Ipsos.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244899</guid>
-    </item>    <item>
-      <title>60 years since humanity first touched the surface of another planet</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/07/60_years_since_humanity_touched/</link>
-      <description>
-        <![CDATA[<h4>Remembering the day the Venera 3 impacted Venus</h4> <p>It is 60 years since humanity first got up close and personal with another planet, with the impact of the Soviet Union&#39;s Venera 3.…</p>]]>
-      </description>
-      <source:markdown>#### Remembering the day the Venera 3 impacted Venus
-
-It is 60 years since humanity first got up close and personal with another planet, with the impact of the Soviet Union&#39;s Venera 3.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244852</guid>
-    </item>    <item>
-      <title>Oracle and OpenAI&#39;s Texas Stargate datacenter expansion reportedly on the skids</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/07/openai_oracle_dc/</link>
-      <description>
-        <![CDATA[<h4>Meta supposedly considering untapped capacity in deal brokered by Nvidia</h4> <p>OpenAI and compute partner Oracle have reportedly abandoned a planned expansion of their flagship Stargate datacenter, after negotiations were stalled by financing and Sam Altman&#39;s apparent fear of commitment.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Meta supposedly considering untapped capacity in deal brokered by Nvidia
-
-OpenAI and compute partner Oracle have reportedly abandoned a planned expansion of their flagship Stargate datacenter, after negotiations were stalled by financing and Sam Altman&#39;s apparent fear of commitment.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244965</guid>
-    </item>    <item>
-      <title>Anthropic bods rework AI damage yardstick, find scant labor impact</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/07/anthropic_bods_rework_ai_damage/</link>
-      <description>
-        <![CDATA[<h4>It&#39;s the end of the world as we know it, and AI feels fine</h4> <p>Anthropic economists Maxim Massenkoff and Peter McCrory report that AI is not eliminating as many jobs as experts have predicted. …</p>]]>
-      </description>
-      <source:markdown>#### It&#39;s the end of the world as we know it, and AI feels fine
-
-Anthropic economists Maxim Massenkoff and Peter McCrory report that AI is not eliminating as many jobs as experts have predicted. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244964</guid>
     </item>
   </channel>
 </rss>
