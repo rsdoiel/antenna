@@ -4,10 +4,37 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>29 Mar 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>30 Mar 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>WROCC April 2026 talk on Wednesday</title>
+      <link>http://www.iconbar.com/comments/rss/news2310.html</link>
+      <description>
+        <![CDATA[The April 2026 WROCC talk is on Wednesday 1st April and starts at 7.45pm on Zoom.That's after 12 o'clock so no April fools....]]>
+      </description>
+      <source:markdown>The April 2026 WROCC talk is on Wednesday 1st April and starts at 7.45pm on Zoom.That&#39;s after 12 o&#39;clock so no April fools....</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2310.html</guid>
+    </item>    <item>
+      <title>Matching doubles up your moonshot contributions</title>
+      <link>https://www.riscosopen.org/news/articles/2026/03/30/matching-doubles-up-your-moonshot-contributions</link>
+      <description>
+        <![CDATA[<p>Announced at the recent <a href="/news/articles/2026/03/18/spring-starts-at-warrington"><span class="caps">RISC</span> OS North</a> show, money pledged to the Moonshot for a <a href="/bounty/polls/45">64-bit <span class="caps">RISC</span> OS</a> will be matched 1-to-1 until ROOL&#8217;s 20th birthday.</p>
+        <p><img src="/images/risc_os_open/moonshot-matching.png" title="Double boost" alt="Double boost" /></p>]]>
+      </description>
+      <source:markdown>Announced at the recent [RISC OS North](/news/articles/2026/03/18/spring-starts-at-warrington) show, money pledged to the Moonshot for a [64-bit RISC OS](/bounty/polls/45) will be matched 1-to-1 until ROOL’s 20th birthday.
+
+![Double boost](/images/risc_os_open/moonshot-matching.png)</source:markdown>
+      <guid>cid://urn:uuid:54423d65-62df-4354-9973-fa4458e3b5d0</guid>
+    </item>    <item>
+      <title>b.log 2026/03/29 - Gimp is an arse, Domestic bliss, The old well, The world is not The Apprentice, Lidl weather station.</title>
+      <link>https://heyrick.eu/blog/entry/20260329</link>
+      <description>
+        <![CDATA[Gimp is an arse, Domestic bliss, The old well, The world is not The Apprentice, Lidl weather station.]]>
+      </description>
+      <source:markdown>Gimp is an arse, Domestic bliss, The old well, The world is not The Apprentice, Lidl weather station.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260329</guid>
+    </item>    <item>
       <title>6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator</title>
       <link>https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</link>
       <description>
@@ -4323,30 +4350,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       </description>
       <source:markdown>You know it’s the final countdown to a RISC OS show when the announcements from individual exhibitors begin to land – and so it has begun; the first announcement regarding RISC OS North has come from RISCOSbits. Here’s what Andy Marks had to say: With just under two weeks to go, RISCOSbits are pleased to be able to attend, and briefly wanted to preview just a fraction of our offer for, the upcoming RISC OS North Show. Evolutions We’ll hopefully be demonstrating an update to our FAST SATA-based RISC OS…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10894</guid>
-    </item>    <item>
-      <title>Show time looms – RISC OS North, 21st March</title>
-      <link>https://www.riscository.com/2026/preview-risc-os-north-21st-march/</link>
-      <description>
-        <![CDATA[Two weeks from now, it&#8217;ll all be over. By this time on Sunday, 22nd March, I&#8217;ll probably be either home or possibly driving back towards the bunker, having enjoyed the previous day. But what about you? Will you have been there, or will you have missed it? I am of course talking about the second RISC OS North event, which will take place on Saturday, 21st March, at the Village Hotel Warrington. As ever for a RISC OS show, the main hall will be filled with a wide range of&#8230;]]>
-      </description>
-      <source:markdown>Two weeks from now, it’ll all be over. By this time on Sunday, 22nd March, I’ll probably be either home or possibly driving back towards the bunker, having enjoyed the previous day. But what about you? Will you have been there, or will you have missed it? I am of course talking about the second RISC OS North event, which will take place on Saturday, 21st March, at the Village Hotel Warrington. As ever for a RISC OS show, the main hall will be filled with a wide range of…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10890</guid>
-    </item>    <item>
-      <title>b.log 2026/03/08 - ShareFS for Linux (and Mac, and Windows).</title>
-      <link>https://heyrick.eu/blog/entry/20260308</link>
-      <description>
-        <![CDATA[ShareFS for Linux (and Mac, and Windows).]]>
-      </description>
-      <source:markdown>ShareFS for Linux (and Mac, and Windows).</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260308</guid>
-    </item>    <item>
-      <title>RISC OS North show is less than 2 weeks away</title>
-      <link>http://www.iconbar.com/comments/rss/news2307.html</link>
-      <description>
-        <![CDATA[The RISC OS North show 2026 is taking place on Saturday 21st March, which is less than 2 weeks away.]]>
-      </description>
-      <source:markdown>The RISC OS North show 2026 is taking place on Saturday 21st March, which is less than 2 weeks away.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2307.html</guid>
     </item>
   </channel>
 </rss>
