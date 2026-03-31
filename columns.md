@@ -400,4 +400,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Kevin Kelly, Substack](https://kevinkelly.substack.com/feed)
 - [Daniel Barkhuff, Substack](https://dbarkhuff.substack.com/feed)
 - [John Osterhout](http://johnosterhout.com/feed/)
+- [Thereallo Blog](https://blog.thereallo.dev/rss.xml)
 
