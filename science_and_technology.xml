@@ -4,10 +4,299 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>31 Mar 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>01 Apr 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>France buys nuclear supercomputing spinoff Bull from Atos for €404M</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/01/france_bull_purchase/</link>
+      <description>
+        <![CDATA[<h4>Paris makes sovereignty play as it becomes sole shareholder</h4> <p>The French government has finally closed a deal to purchase the Advanced Computing assets of tech giant Atos, leading to the re-emergence of an old industry name: <a target="_blank" href="https://www.bull.com">Bull</a>.…</p>]]>
+      </description>
+      <source:markdown>#### Paris makes sovereignty play as it becomes sole shareholder
+
+The French government has finally closed a deal to purchase the Advanced Computing assets of tech giant Atos, leading to the re-emergence of an old industry name: [Bull](https://www.bull.com).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245412</guid>
+    </item>    <item>
+      <title>Virgin Galactic reopens ticket sales with out-of-this-world price hikes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/01/virgin_galactic_ticket_sales/</link>
+      <description>
+        <![CDATA[<h4>Flights to resume in 2026 before space tourism biz runs out of cash</h4> <p>Virgin Galactic has reopened suborbital ticket sales with a price rise and a promise for commercial spaceflight operations in Q4 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Flights to resume in 2026 before space tourism biz runs out of cash
+
+Virgin Galactic has reopened suborbital ticket sales with a price rise and a promise for commercial spaceflight operations in Q4 2026.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245411</guid>
+    </item>    <item>
+      <title>Is This 1,800-Year-Old Mosaic the First Known Image of a Woman Fighting Wild Beasts in an Ancient Roman Arena?</title>
+      <link>https://www.smithsonianmag.com/smart-news/is-this-1800-year-old-mosaic-the-first-known-image-of-a-woman-fighting-wild-beasts-in-an-ancient-roman-arena-180988456/</link>
+      <description>
+        <![CDATA[The artwork was destroyed during World War I. But an archaeologist's sketch may reveal a female figure wielding a whip and facing off against a leopard, a new study suggests]]>
+      </description>
+      <source:markdown>The artwork was destroyed during World War I. But an archaeologist&#39;s sketch may reveal a female figure wielding a whip and facing off against a leopard, a new study suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8wiZFXNMHs6OEwajGcQHpYrsHbs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/b8/15b8a6c9-d6b9-48fb-acc6-c70119058ca0/female-hunter.jpg" length="309236" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/is-this-1800-year-old-mosaic-the-first-known-image-of-a-woman-fighting-wild-beasts-in-an-ancient-roman-arena-180988456/</guid>
+    </item>    <item>
+      <title>One in seven Americans are ready for an AI boss, but they might not trust it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/01/americans_ai_boss/</link>
+      <description>
+        <![CDATA[<h4>Poll finds 15% happy to take orders from a bot even as most question its output and fear job losses</h4> <p>Around 15 percent of Americans would be willing to work for an AI boss, according to a new poll that suggests while robots are not exactly welcome in the corner office, the idea no longer seems quite so far-fetched.…</p>]]>
+      </description>
+      <source:markdown>#### Poll finds 15% happy to take orders from a bot even as most question its output and fear job losses
+
+Around 15 percent of Americans would be willing to work for an AI boss, according to a new poll that suggests while robots are not exactly welcome in the corner office, the idea no longer seems quite so far-fetched.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245394</guid>
+    </item>    <item>
+      <title>AI server farms heat up the neighborhood for miles around, paper finds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/01/ai_datacenter_heat_islands/</link>
+      <description>
+        <![CDATA[<h4>Researchers say localized warming can extend well past site edges, raising concerns about community impact</h4> <p>Datacenters create heat islands that raise surrounding temperatures by several degrees at distances up to 10 km (over 6 miles), which could have an impact on surrounding communities.…</p>]]>
+      </description>
+      <source:markdown>#### Researchers say localized warming can extend well past site edges, raising concerns about community impact
+
+Datacenters create heat islands that raise surrounding temperatures by several degrees at distances up to 10 km (over 6 miles), which could have an impact on surrounding communities.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245391</guid>
+    </item>    <item>
+      <title>We know what day it is but these Raspberry Pi price hikes are no joke</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/01/raspberry_pi_price_hikes/</link>
+      <description>
+        <![CDATA[<h4>Hot DRAM! Who is going to drop nearly $400 on an underpowered Linux computer?</h4> <p>Raspberry Pi has introduced a 3 GB variant of the Pi 4 as soaring memory costs are passed on to customers.…</p>]]>
+      </description>
+      <source:markdown>#### Hot DRAM! Who is going to drop nearly $400 on an underpowered Linux computer?
+
+Raspberry Pi has introduced a 3 GB variant of the Pi 4 as soaring memory costs are passed on to customers.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245406</guid>
+    </item>    <item>
+      <title>UK manufacturers under cyber fire with 80% reporting attacks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/01/uk_manufacturer_cyberattacks/</link>
+      <description>
+        <![CDATA[<h4>ESET says factory outages, lost revenue, and supply chain disruption are becoming routine</h4> <p>Nearly 80 percent of British manufacturers say they&#39;ve been hit by a cyber incident in the past year, as new research suggests disruption on the factory floor is no longer an exception but business as usual.…</p>]]>
+      </description>
+      <source:markdown>#### ESET says factory outages, lost revenue, and supply chain disruption are becoming routine
+
+Nearly 80 percent of British manufacturers say they&#39;ve been hit by a cyber incident in the past year, as new research suggests disruption on the factory floor is no longer an exception but business as usual.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245396</guid>
+    </item>    <item>
+      <title>Claude Code source leak reveals how much info Anthropic can hoover up about you and your system</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/</link>
+      <description>
+        <![CDATA[<h4>If you loved the data retention of Microsoft Recall, you&#39;ll be thrilled with Claude Code</h4> <p>Anthropic&#39;s Claude Code lacks the persistent kernel access of a rootkit. But an analysis of its code shows that the agent can exercise far more control over people&#39;s computers than even the most clear-eyed reader of contractual terms might suspect. It retains lots of your data and is even willing to hide its authorship from open-source projects that reject AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### If you loved the data retention of Microsoft Recall, you&#39;ll be thrilled with Claude Code
+
+Anthropic&#39;s Claude Code lacks the persistent kernel access of a rootkit. But an analysis of its code shows that the agent can exercise far more control over people&#39;s computers than even the most clear-eyed reader of contractual terms might suspect. It retains lots of your data and is even willing to hide its authorship from open-source projects that reject AI.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245405</guid>
+    </item>    <item>
+      <title>Why is NASA going to the moon again?</title>
+      <link>https://www.npr.org/2026/04/01/nx-s1-5767087/space-moon-mission-launch-artemis</link>
+      <description>
+        <![CDATA[NASA’s Artemis II mission is set to launch this week, which could bring humanity close to the moon for the first time since 1972. It’s a mission that’s over twenty years in the making – and even though it’s not the first venture out to the moon, it still involves a lot of firsts. If all goes to plan, the mission will bring the first woman, person of color and non-American close to the moon. But why are we embarking on a sequel space mission to begin with? And while they’re up in space, what could scientists learn about the possibility of life in space for those of us still on Earth?<br/><br/><em>Interested in more science behind current events? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>NASA’s Artemis II mission is set to launch this week, which could bring humanity close to the moon for the first time since 1972. It’s a mission that’s over twenty years in the making – and even though it’s not the first venture out to the moon, it still involves a lot of firsts. If all goes to plan, the mission will bring the first woman, person of color and non-American close to the moon. But why are we embarking on a sequel space mission to begin with? And while they’re up in space, what could scientists learn about the possibility of life in space for those of us still on Earth?
+
+_Interested in more science behind current events? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+To manage podcast ad preferences, review the links below:
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e6e0b5ec-77b1-46f3-b1be-85266681c4a4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e6e0b5ec-77b1-46f3-b1be-85266681c4a4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5767087&p=510351&d=782&size=12527117" length="12527117" type="audio/mpeg" />
+      <guid>cid://ea225c32-91cc-4396-8d2e-df7be2a3eab9</guid>
+    </item>    <item>
+      <title>March of the Harmattan</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/</link>
+      <description>
+        <![CDATA[Strong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Islands, reducing visibility and prompting alerts.]]>
+      </description>
+      <source:markdown>Strong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Islands, reducing visibility and prompting alerts.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/</guid>
+    </item>    <item>
+      <title>Don&#39;t open that WhatsApp message, Microsoft warns</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/whatsapp_message_bad_msi_packages/</link>
+      <description>
+        <![CDATA[<h4>How to avoid social engineering attacks? Employee training tops the list</h4> <p>Be careful what you click on. Miscreants are abusing WhatsApp messages in a multi-stage attack that delivers malicious Microsoft Installer (MSI) packages, allowing criminals to control victims&#39; machines and access all of their data.…</p>]]>
+      </description>
+      <source:markdown>#### How to avoid social engineering attacks? Employee training tops the list
+
+Be careful what you click on. Miscreants are abusing WhatsApp messages in a multi-stage attack that delivers malicious Microsoft Installer (MSI) packages, allowing criminals to control victims&#39; machines and access all of their data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245403</guid>
+    </item>    <item>
+      <title>This C-3PO Head From &#39;The Empire Strikes Back&#39; Just Sold for More Than $1 Million at Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-c-3po-head-from-the-empire-strikes-back-just-sold-for-more-than-1-million-at-auction-180988460/</link>
+      <description>
+        <![CDATA[The 'Star Wars' prop was likely the only C-3PO head from the 1980 film to appear on the collector market. It features working light-up eyes, including one with the original wiring]]>
+      </description>
+      <source:markdown>The &#39;Star Wars&#39; prop was likely the only C-3PO head from the 1980 film to appear on the collector market. It features working light-up eyes, including one with the original wiring</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XOMuVCTu9oTQD50tbKlyQ6sYL28=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ad/b5/adb52442-9ff0-46c0-84b7-278213be522c/c3po.jpg" length="148080" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-c-3po-head-from-the-empire-strikes-back-just-sold-for-more-than-1-million-at-auction-180988460/</guid>
+    </item>    <item>
+      <title>Gmail celebrates 22 years by finally letting users change their addresses</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/gmail_change_account/</link>
+      <description>
+        <![CDATA[<h4>Congratulations, XxXh4xx0r420xXx, you can now use that account in your professional life, too</h4> <p>If you&#39;re embarrassed by your Gmail address but haven&#39;t wanted to start a new account for fear of losing messages, we have good news. Ahead of Gmail&#39;s 22nd anniversary on Wednesday, Google says it is now letting US users change their account username.…</p>]]>
+      </description>
+      <source:markdown>#### Congratulations, XxXh4xx0r420xXx, you can now use that account in your professional life, too
+
+If you&#39;re embarrassed by your Gmail address but haven&#39;t wanted to start a new account for fear of losing messages, we have good news. Ahead of Gmail&#39;s 22nd anniversary on Wednesday, Google says it is now letting US users change their account username.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245402</guid>
+    </item>    <item>
+      <title>The &#39;Cicada&#39; Variant of Covid-19 Is Spreading in the United States. Here&#39;s What You Need to Know</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-cicada-variant-of-covid-19-is-spreading-in-the-united-states-heres-what-you-need-to-know-180988462/</link>
+      <description>
+        <![CDATA[Infection levels are still low in the country, but the highly mutated variant might be able to evade your body’s immune defenses acquired via vaccine or past infection]]>
+      </description>
+      <source:markdown>Infection levels are still low in the country, but the highly mutated variant might be able to evade your body’s immune defenses acquired via vaccine or past infection</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZMJ6eK-iJv5tGIkSJq26odWh1ro=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/a8/5aa82375-e13e-4a83-9093-cfbd00976705/covid-test.jpg" length="29227592" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-cicada-variant-of-covid-19-is-spreading-in-the-united-states-heres-what-you-need-to-know-180988462/</guid>
+    </item>    <item>
+      <title>Iran targets M365 accounts with password-spraying attacks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/iran_password_spraying_m365/</link>
+      <description>
+        <![CDATA[<h4>Researchers say some targets correlate with cities hit by Iranian missile strikes</h4> <p>Suspected Iran-linked threat actors are conducting password-spraying attacks against hundreds of organizations, primarily Middle Eastern municipalities, in campaigns that security researchers believe may have been aimed at supporting bomb-damage assessment following missile strikes.…</p>]]>
+      </description>
+      <source:markdown>#### Researchers say some targets correlate with cities hit by Iranian missile strikes
+
+Suspected Iran-linked threat actors are conducting password-spraying attacks against hundreds of organizations, primarily Middle Eastern municipalities, in campaigns that security researchers believe may have been aimed at supporting bomb-damage assessment following missile strikes.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245401</guid>
+    </item>    <item>
+      <title>Art Thieves Steal Paintings by Renoir, Cézanne and Matisse Worth More Than $10 Million, Fleeing the Scene in Just Three Minutes</title>
+      <link>https://www.smithsonianmag.com/smart-news/art-thieves-steal-paintings-by-renoir-cezanne-and-matisse-worth-more-than-10-million-fleeing-the-scene-in-just-three-minutes-180988465/</link>
+      <description>
+        <![CDATA[The Magnani-Rocca Foundation in Italy was the target of a shocking art heist—only five months after a high-profile theft at the Louvre in Paris]]>
+      </description>
+      <source:markdown>The Magnani-Rocca Foundation in Italy was the target of a shocking art heist—only five months after a high-profile theft at the Louvre in Paris</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/w2_5EesCh8AEP8GKr8UYymS15LA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/05/af05fb49-a3be-4b3b-864b-8495d39141fa/renoir.jpg" length="297486" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/art-thieves-steal-paintings-by-renoir-cezanne-and-matisse-worth-more-than-10-million-fleeing-the-scene-in-just-three-minutes-180988465/</guid>
+    </item>    <item>
+      <title>Oracle cuts jobs across sales, engineering, security</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/oracle_cuts_jobs/</link>
+      <description>
+        <![CDATA[<h4>Big Red declines comment as reports point to layoffs in the thousands</h4> <p>Oracle laid off thousands of employees on Tuesday as it ramps spending on AI infrastructure projects internally and with major technology partners.…</p>]]>
+      </description>
+      <source:markdown>#### Big Red declines comment as reports point to layoffs in the thousands
+
+Oracle laid off thousands of employees on Tuesday as it ramps spending on AI infrastructure projects internally and with major technology partners.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245399</guid>
+    </item>    <item>
+      <title>Anthropic goes nude, exposes Claude Code source by accident</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/anthropic_claude_code_source_code/</link>
+      <description>
+        <![CDATA[<h4>Oopsy-doodle: Did someone forget to check their build pipeline?</h4> <p>Would you like a closer look at Claude? Someone at Anthropic has some explaining to do, as the official npm package for Claude Code shipped with a map file exposing what appears to be the popular AI coding tool&#39;s entire source code.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Oopsy-doodle: Did someone forget to check their build pipeline?
+
+Would you like a closer look at Claude? Someone at Anthropic has some explaining to do, as the official npm package for Claude Code shipped with a map file exposing what appears to be the popular AI coding tool&#39;s entire source code.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245398</guid>
+    </item>    <item>
+      <title>When Did the Earth&#39;s Crust Start to Shift? Scientists Uncover Evidence of Plate Tectonics Happening 3.48 Billion Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/when-did-the-earths-crust-start-to-shift-scientists-uncover-evidence-of-plate-tectonics-happening-3-48-billion-years-ago-180988399/</link>
+      <description>
+        <![CDATA[A new study provides the oldest direct evidence of tectonic plate movement ever recorded]]>
+      </description>
+      <source:markdown>A new study provides the oldest direct evidence of tectonic plate movement ever recorded</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xLLJJcf0dPyRD7rDBrx8Hbi_kb0=/420x240/filters:focal(2012x1514:2013x1515)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/87/4e879c48-5def-43a6-97ae-c10bc4a66195/earliest-plate-tectonics.jpg" length="11721650" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/when-did-the-earths-crust-start-to-shift-scientists-uncover-evidence-of-plate-tectonics-happening-3-48-billion-years-ago-180988399/</guid>
+    </item>    <item>
+      <title>Leaked memo suggests Red Hat&#39;s chugging the AI Kool-Aid</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/red_hat_ai_dev/</link>
+      <description>
+        <![CDATA[<h4>Sounds like an excellent time to start honing your Debian skills</h4> <p><strong>Exclusive</strong>  An internal memo dispatched by senior execs at Red Hat suggests the software biz is starting to push AI tooling within its Global Engineering department. RHEL may be about to get some Windows 11-style &#34;improvements.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Sounds like an excellent time to start honing your Debian skills
+
+**Exclusive**  An internal memo dispatched by senior execs at Red Hat suggests the software biz is starting to push AI tooling within its Global Engineering department. RHEL may be about to get some Windows 11-style &#34;improvements.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245327</guid>
+    </item>    <item>
+      <title>UK watchdog targets Microsoft licensing in cloud competition probe</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/microsoft_cma_probe/</link>
+      <description>
+        <![CDATA[<h4>CMA to assess whether the company&#39;s terms unfairly favor Azure over rival platforms</h4> <p>The UK&#39;s competition watchdog will investigate Microsoft&#39;s business software ecosystem over concerns that its licensing policies reduce competition in the cloud market.…</p>]]>
+      </description>
+      <source:markdown>#### CMA to assess whether the company&#39;s terms unfairly favor Azure over rival platforms
+
+The UK&#39;s competition watchdog will investigate Microsoft&#39;s business software ecosystem over concerns that its licensing policies reduce competition in the cloud market.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245397</guid>
+    </item>    <item>
+      <title>Godspeed, Artemis II!</title>
+      <link>https://www.nasa.gov/image-article/godspeed-artemis-ii/</link>
+      <description>
+        <![CDATA[NASA astronaut Jessica Meir took this photo of an Artemis program patch floating in the International Space Station&#8217;s cupola. She posted it on X on March 30, 2026, with the following caption: &#8220;Our work on the @Space_Station has provided the foundation to explore further, preparing us to return humans to the Moon this week. Stay [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut Jessica Meir took this photo of an Artemis program patch floating in the International Space Station’s cupola. She posted it on X on March 30, 2026, with the following caption: “Our work on the @Space\_Station has provided the foundation to explore further, preparing us to return humans to the Moon this week. Stay \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=979603</guid>
+    </item>    <item>
+      <title>Starlink sprays debris into orbit following another satellite &#39;anomaly&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/starlink_sprays_debris_into_orbit/</link>
+      <description>
+        <![CDATA[<h4>No risk to ISS or Artemis, but not ideal for operator peace of mind</h4> <p>Starlink satellite 34343 has suffered an &#34;anomaly on-orbit,&#34; spraying debris at an altitude of approximately 560 km above Earth.…</p>]]>
+      </description>
+      <source:markdown>#### No risk to ISS or Artemis, but not ideal for operator peace of mind
+
+Starlink satellite 34343 has suffered an &#34;anomaly on-orbit,&#34; spraying debris at an altitude of approximately 560 km above Earth.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245393</guid>
+    </item>    <item>
+      <title>Mars coughs up another maybe-life clue in the form of nickel compounds</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/nickel_found_on_mars/</link>
+      <description>
+        <![CDATA[<h4>Perseverance found the minerals in an ancient river channel, but researchers say geology may still beat biology</h4> <p>A team of scientists in the US have discovered nickel compounds in Martian rocks, in an arrangement similar to organic carbon compounds understood to be formed by living organisms on Earth.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Perseverance found the minerals in an ancient river channel, but researchers say geology may still beat biology
+
+A team of scientists in the US have discovered nickel compounds in Martian rocks, in an arrangement similar to organic carbon compounds understood to be formed by living organisms on Earth.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245392</guid>
+    </item>    <item>
+      <title>ServiceNow allegedly says salesman &#39;overachieved&#39; and is not entitled to comp</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/servicenow_says_salesman_overachieved_and/</link>
+      <description>
+        <![CDATA[<h4>The 13-year sales vet closed two deals worth $27 million, but ServiceNow has “nullified” his compensation saying he “overachieved” his quota.</h4> <p>ServiceNow is refusing to pay a salesman commissions on more than $27 million in sales, telling the 13-year veteran of the company that he &#34;overperformed&#34; his quota and insisting that instead he sign paperwork that retroactively reduces the commission amount, according to a federal lawsuit filed by the salesperson. ServiceNow has denied all his claims.…</p>]]>
+      </description>
+      <source:markdown>#### The 13-year sales vet closed two deals worth $27 million, but ServiceNow has “nullified” his compensation saying he “overachieved” his quota.
+
+ServiceNow is refusing to pay a salesman commissions on more than $27 million in sales, telling the 13-year veteran of the company that he &#34;overperformed&#34; his quota and insisting that instead he sign paperwork that retroactively reduces the commission amount, according to a federal lawsuit filed by the salesperson. ServiceNow has denied all his claims.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245379</guid>
+    </item>    <item>
+      <title>Landsat Reveals Reservoir Changes and Bathymetry</title>
+      <link>https://science.nasa.gov/missions/landsat/landsat-reveals-reservoir-changes-and-bathymetry/</link>
+      <description>
+        <![CDATA[In two recent studies, researchers used Landsat data to fill key gaps in our knowledge of reservoir structure and dynamics.]]>
+      </description>
+      <source:markdown>In two recent studies, researchers used Landsat data to fill key gaps in our knowledge of reservoir structure and dynamics.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/landsat/landsat-reveals-reservoir-changes-and-bathymetry/</guid>
+    </item>    <item>
+      <title>Microsoft reaches for yet another out-of-band patch to deal with latest update issue</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/microsoft_out_of_band/</link>
+      <description>
+        <![CDATA[<h4>Weren&#39;t these supposed to be &#39;atypical&#39;?</h4> <p>Microsoft is preparing another out-of-band update to address its latest problematic update following reports of installation errors.…</p>]]>
+      </description>
+      <source:markdown>#### Weren&#39;t these supposed to be &#39;atypical&#39;?
+
+Microsoft is preparing another out-of-band update to address its latest problematic update following reports of installation errors.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245395</guid>
+    </item>    <item>
+      <title>Watch Unprecedented Footage of Sperm Whales Helping a Newborn Calf Take Its First Breaths</title>
+      <link>https://www.smithsonianmag.com/smart-news/watch-unprecedented-footage-of-sperm-whales-helping-a-newborn-calf-take-its-first-breaths-180988450/</link>
+      <description>
+        <![CDATA[Unrelated animals worked with the mother and her relatives, marking the first known evidence of whales from multiple families assisting in a birth]]>
+      </description>
+      <source:markdown>Unrelated animals worked with the mother and her relatives, marking the first known evidence of whales from multiple families assisting in a birth</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AlCVrPY79ScG5k57KkL4N3QoQos=/420x240/filters:focal(808x585:809x586)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2f/95/2f95c9c9-9c5d-472d-836e-3ded41e64388/screenshot_2026-03-27_at_41323pm.png" length="3900580" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/watch-unprecedented-footage-of-sperm-whales-helping-a-newborn-calf-take-its-first-breaths-180988450/</guid>
+    </item>    <item>
+      <title>Raspberry Pi leans into semiconductors as sales climb – especially in US and China</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/raspberry_pi_fy_2025/</link>
+      <description>
+        <![CDATA[<h4>Chip shipments overtake boards and modules as industrial demand grows, raising questions about hobbyist roots</h4> <p>Raspberry Pi has reported impressive revenue and profit growth, but its hobbyist origins risk taking a backseat amid soaring semiconductor shipments.…</p>]]>
+      </description>
+      <source:markdown>#### Chip shipments overtake boards and modules as industrial demand grows, raising questions about hobbyist roots
+
+Raspberry Pi has reported impressive revenue and profit growth, but its hobbyist origins risk taking a backseat amid soaring semiconductor shipments.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245390</guid>
+    </item>    <item>
       <title>Arm says agentic AI needs a new kind of CPU. Intel&#39;s DC chief isn&#39;t buying it</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/intel_arm_agi_cpu/</link>
       <description>
@@ -71,11 +360,11 @@ Software companies are leaving money on the table because their core financial s
       <title>Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/03/31/axios_npm_backdoor_rat/</link>
       <description>
-        <![CDATA[<h4>Hijacked maintainer account let attackers slip cross-platform trojan into 100M-downloads-a-week Axios</h4> <p>One of npm&#39;s most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer&#39;s account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what&#39;s being <a target="_blank" href="https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat" rel="nofollow">described</a> as &#34;one of the most impactful npm supply chain attacks on record.&#34;…</p>]]>
+        <![CDATA[<h4>Hijacked maintainer account let attackers slip cross-platform trojan into 100M-downloads-a-week Axios</h4> <p><strong>Updated</strong>  One of npm&#39;s most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer&#39;s account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what&#39;s being <a target="_blank" href="https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat" rel="nofollow">described</a> as &#34;one of the most impactful npm supply chain attacks on record.&#34;…</p>]]>
       </description>
       <source:markdown>#### Hijacked maintainer account let attackers slip cross-platform trojan into 100M-downloads-a-week Axios
 
-One of npm&#39;s most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer&#39;s account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what&#39;s being [described](https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat) as &#34;one of the most impactful npm supply chain attacks on record.&#34;…</source:markdown>
+**Updated**  One of npm&#39;s most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer&#39;s account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what&#39;s being [described](https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat) as &#34;one of the most impactful npm supply chain attacks on record.&#34;…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245388</guid>
     </item>    <item>
       <title>Android keyboard ditches keys entirely, predicts what you mean</title>
@@ -5683,463 +5972,6 @@ Oracle says AI code generation tools have become so efficient, and it is so good
 
 The US government may be [ordering](https://www.theregister.com/2026/03/10/palantir_usda_seating_software/) staff back to the office, but governments across Asia have sent public sector workers back home to preserve fuel supplies due to supply chain disruptions caused by the war in Iran.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245025</guid>
-    </item>    <item>
-      <title>AIOps is so powerful, vendors are building tools to clean up after agents break your infrastructure</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/agentic_ai_rollback_recovery_cohesity/</link>
-      <description>
-        <![CDATA[<h4>Cohesity, ServiceNow and Datadog team on recoverability suite</h4> <p>Three more vendors have decided that the world needs tools to roll back mistakes made by AI, after Cohesity teamed with ServiceNow and Datadog on a recoverability service that will hunt down all the files and data corrupted by bad AI actors and restore systems to a “trusted state.”…</p>]]>
-      </description>
-      <source:markdown>#### Cohesity, ServiceNow and Datadog team on recoverability suite
-
-Three more vendors have decided that the world needs tools to roll back mistakes made by AI, after Cohesity teamed with ServiceNow and Datadog on a recoverability service that will hunt down all the files and data corrupted by bad AI actors and restore systems to a “trusted state.”…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245023</guid>
-    </item>    <item>
-      <title>You’re supposed to replace the stock photos in new picture frames</title>
-      <link>https://www.osnews.com/story/144576/youre-supposed-to-replace-the-stock-photos-in-new-picture-frames/</link>
-      <description>
-        <![CDATA[Back in 2023, John Earnest created a fun drawing application called WigglyPaint. The thing that makes WigglyPaint unique is that it automatically applies what artists call the line boil effect to anything you draw, making it seem as if everything is wiggling (hence the name). Even if you&#8217;re not aware of the line boil effect, you&#8217;ve surely encountered it several times in your life. The tool may seem simple at first glance, but as Earnest details, he&#8217;s put quite a lot of thought into the little tool. WigglyPaint was well-received, but mostly remained a curiosity &#8211; that is, until artists in Asia picked up on it, and the popularity of WigglyPaint positively exploded from a few hundred into the millions. The problem, though, is that basically nobody is actually using WigglyPaint: they&#8217;re all using slopcoded copycats. The sites are slop; slapdash imitations pieced together with the help of so-called “Large Language Models” (LLMs). The closer you look at them, the stranger they appear, full of vague, repetitive claims, outright false information, and plenty of unattributed (stolen) art. This is what LLMs are best at: quickly fabricating plausible simulacra of real objects to mislead the unwary. It is no surprise that the same people who have total contempt for authorship find LLMs useful; every LLM and generative model today is constructed by consuming almost unimaginably massive quantities of human creative work- writing, drawings, code, music- and then regurgitating them piecemeal without attribution, just different enough to hide where it came from (usually). LLMs are sharp tools in the hands of plagiarists, con-men, spammers, and everyone who believes that creative expression is worthless. People who extract from the world instead of contributing to it. It is humiliating and infuriating to see my work stolen by slop enthusiasts, and worse, used to mislead artists into paying scammers for something that ought to be free. ↫ John Earnest There&#8217;s a huge amount of slopcoded WrigglyPaint ripoffs out there, and it goes far beyond websites, too. People are putting slopcoded ripoffs in basic webviews, and uploading them en masse to the Play Store and App Store. None of these slopcoded ripoffs actually build upon WrigglyPaint with new ideas or approaches, there&#8217;s no creativity or innovation; it&#8217;s just trash barfed up by glorified autocomplete built upon mass plagiarism and theft, &#8220;made&#8221; by bottom feeders who despise creativity, art, and originality. You know how when you go to IKEA or whatever other similar store to buy picture frames, they have these stock photos of random people in them? I wonder if &#8220;AI&#8221; enthusiasts understand you&#8217;re supposed to replace those with pictures that actually have meaning to you.]]>
-      </description>
-      <source:markdown>Back in 2023, John Earnest created a fun drawing application called WigglyPaint. The thing that makes WigglyPaint unique is that it automatically applies what artists call the line boil effect to anything you draw, making it seem as if everything is wiggling (hence the name). Even if you’re not aware of the line boil effect, you’ve surely encountered it several times in your life. The tool may seem simple at first glance, but as Earnest details, he’s put quite a lot of thought into the little tool. WigglyPaint was well-received, but mostly remained a curiosity – that is, until artists in Asia picked up on it, and the popularity of WigglyPaint positively exploded from a few hundred into the millions. The problem, though, is that basically nobody is actually using WigglyPaint: they’re all using slopcoded copycats. The sites are slop; slapdash imitations pieced together with the help of so-called “Large Language Models” (LLMs). The closer you look at them, the stranger they appear, full of vague, repetitive claims, outright false information, and plenty of unattributed (stolen) art. This is what LLMs are best at: quickly fabricating plausible simulacra of real objects to mislead the unwary. It is no surprise that the same people who have total contempt for authorship find LLMs useful; every LLM and generative model today is constructed by consuming almost unimaginably massive quantities of human creative work- writing, drawings, code, music- and then regurgitating them piecemeal without attribution, just different enough to hide where it came from (usually). LLMs are sharp tools in the hands of plagiarists, con-men, spammers, and everyone who believes that creative expression is worthless. People who extract from the world instead of contributing to it. It is humiliating and infuriating to see my work stolen by slop enthusiasts, and worse, used to mislead artists into paying scammers for something that ought to be free. ↫ John Earnest There’s a huge amount of slopcoded WrigglyPaint ripoffs out there, and it goes far beyond websites, too. People are putting slopcoded ripoffs in basic webviews, and uploading them en masse to the Play Store and App Store. None of these slopcoded ripoffs actually build upon WrigglyPaint with new ideas or approaches, there’s no creativity or innovation; it’s just trash barfed up by glorified autocomplete built upon mass plagiarism and theft, “made” by bottom feeders who despise creativity, art, and originality. You know how when you go to IKEA or whatever other similar store to buy picture frames, they have these stock photos of random people in them? I wonder if “AI” enthusiasts understand you’re supposed to replace those with pictures that actually have meaning to you.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144576</guid>
-    </item>    <item>
-      <title>This Massive Mural Made From 100,000 Bottle Caps Is One Artist&#39;s Reinterpretation of &#39;The Mona Lisa&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-massive-mural-made-from-100000-bottle-caps-is-one-artists-reinterpretation-of-the-mona-list-180988324/</link>
-      <description>
-        <![CDATA[Óscar Olivares, who is known for working with recycled materials, completed the 43-foot-tall artwork in Zacamil, El Salvador, in February]]>
-      </description>
-      <source:markdown>Óscar Olivares, who is known for working with recycled materials, completed the 43-foot-tall artwork in Zacamil, El Salvador, in February</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WNYE1tz5AbJTLhxEXF-ZE9RSGLM=/420x240/filters:focal(3930x2956:3931x2957)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/fb/abfb2e1a-851b-4107-a458-0eb5bbfaf6d9/gettyimages-2262191384.jpg" length="19043090" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-massive-mural-made-from-100000-bottle-caps-is-one-artists-reinterpretation-of-the-mona-list-180988324/</guid>
-    </item>    <item>
-      <title>Redox bans code regurgitated by “AI”</title>
-      <link>https://www.osnews.com/story/144574/redox-bans-code-regurgitated-by-ai/</link>
-      <description>
-        <![CDATA[Redox, the rapidly improving general purpose operating system written in Rust, has amended its contribution policy to explicitly ban code regurgitated by &#8220;AI&#8221;. Redox OS does not accept contributions generated by LLMs (Large Language Models), sometimes also referred to as &#8220;AI&#8221;. This policy is not open to discussion, any content submitted that is clearly labelled as LLM-generated (including issues, merge requests, and merge request descriptions) will be immediately closed, and any attempt to bypass this policy will result in a ban from the project. ↫ Redox&#8217; contribution policy Excellent news.]]>
-      </description>
-      <source:markdown>Redox, the rapidly improving general purpose operating system written in Rust, has amended its contribution policy to explicitly ban code regurgitated by “AI”. Redox OS does not accept contributions generated by LLMs (Large Language Models), sometimes also referred to as “AI”. This policy is not open to discussion, any content submitted that is clearly labelled as LLM-generated (including issues, merge requests, and merge request descriptions) will be immediately closed, and any attempt to bypass this policy will result in a ban from the project. ↫ Redox’ contribution policy Excellent news.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144574</guid>
-    </item>    <item>
-      <title>Critical Microsoft Excel bug weaponizes Copilot Agent for zero-click information disclosure attack</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/zeroclick_microsoft_info_disclosure_bug/</link>
-      <description>
-        <![CDATA[<h4>Could steal sensitive personal and financial data</h4> <p>After a whopper of a <a target="_blank" href="https://www.theregister.com/2026/02/10/microsofts_valentines_gift_to_admins/">Patch Tuesday last month</a>, with six Microsoft flaws exploited as zero-days, March didn&#39;t exactly roar in like a lion. Just two of the 83 Microsoft CVEs released on Tuesday are listed as publicly known, and none is under active exploitation, which we&#39;re sure is a welcome change to sysadmins.…</p>]]>
-      </description>
-      <source:markdown>#### Could steal sensitive personal and financial data
-
-After a whopper of a [Patch Tuesday last month](https://www.theregister.com/2026/02/10/microsofts_valentines_gift_to_admins/), with six Microsoft flaws exploited as zero-days, March didn&#39;t exactly roar in like a lion. Just two of the 83 Microsoft CVEs released on Tuesday are listed as publicly known, and none is under active exploitation, which we&#39;re sure is a welcome change to sysadmins.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245021</guid>
-    </item>    <item>
-      <title>How a Tiny Clump of Moss Helped the FBI Solve a Grave-Robbing Case</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-a-tiny-clump-of-moss-helped-the-fbi-solve-a-grave-robbing-case-180988328/</link>
-      <description>
-        <![CDATA[Cemetery workers argued that the crimes happened before their employment. But a buried bit of moss told a different story]]>
-      </description>
-      <source:markdown>Cemetery workers argued that the crimes happened before their employment. But a buried bit of moss told a different story</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eSOR5rVHplT-aCKl5AhP8MCOLXU=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/91/c191bec9-6ab9-48b9-ad9d-9767e106361b/low-res_img_2698.jpeg" length="110757" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/how-a-tiny-clump-of-moss-helped-the-fbi-solve-a-grave-robbing-case-180988328/</guid>
-    </item>    <item>
-      <title>Amazon insists AI coding isn&#39;t source of outages</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/amazon_ai_coding_outages/</link>
-      <description>
-        <![CDATA[<h4>E-souk disputes report linking &#39;Gen-AI assisted changes&#39; to recent high-impact incidents</h4> <p>Amazon&#39;s weekly operations meeting today reportedly focused on recent service outages and on the role that code changes attributed to generative AI may have played. However, the company is downplaying the possibility of problems with AI.…</p>]]>
-      </description>
-      <source:markdown>#### E-souk disputes report linking &#39;Gen-AI assisted changes&#39; to recent high-impact incidents
-
-Amazon&#39;s weekly operations meeting today reportedly focused on recent service outages and on the role that code changes attributed to generative AI may have played. However, the company is downplaying the possibility of problems with AI.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245020</guid>
-    </item>    <item>
-      <title>Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/insights-into-spallation-mechanisms-of-thermal-protection-system-materials-from-mass-spectrometry-and-hymets-testing/</link>
-      <description>
-        <![CDATA[Download PDF: Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing An effort was undertaken to investigate the mechanisms responsible for internal pressure build up within thermal protection system (TPS) materials subjected to high-enthalpy environments. Understanding how gases evolve, migrate, and interact with the microstructure of a TPS is essential for [&#8230;]]]>
-      </description>
-      <source:markdown>Download PDF: Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing An effort was undertaken to investigate the mechanisms responsible for internal pressure build up within thermal protection system (TPS) materials subjected to high-enthalpy environments. Understanding how gases evolve, migrate, and interact with the microstructure of a TPS is essential for \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=972188</guid>
-    </item>    <item>
-      <title>AI nonsense finds new home as Meta acquires Moltbook</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/ai_nonsense_finds_new_home/</link>
-      <description>
-        <![CDATA[<h4>Think it&#39;s hard to tell bot from human on Facebook <i>now</i>?</h4> <p>The biggest generator of AI slop on the internet has a new home, as Meta has reportedly acquired Moltbook and hired the team behind the social network for AI agents.…</p>]]>
-      </description>
-      <source:markdown>#### Think it&#39;s hard to tell bot from human on Facebook _now_?
-
-The biggest generator of AI slop on the internet has a new home, as Meta has reportedly acquired Moltbook and hired the team behind the social network for AI agents.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245019</guid>
-    </item>    <item>
-      <title>March 2026 Satellite Puzzler</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/march-2026-satellite-puzzler/</link>
-      <description>
-        <![CDATA[Your challenge is to tell us the location of the satellite image and why it is interesting.]]>
-      </description>
-      <source:markdown>Your challenge is to tell us the location of the satellite image and why it is interesting.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/march-2026-satellite-puzzler/</guid>
-    </item>    <item>
-      <title>Computational Modeling of Failure at the Fabric Weave Level in Reentry Parachute Energy Modulators</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/computational-modeling-of-failure-at-the-fabric-weave-level-in-reentry-parachute-energy-modulators/</link>
-      <description>
-        <![CDATA[Download PDF: Computational Modeling of Failure at the Fabric Weave&#160;Level in Reentry Parachute Energy Modulators Energy modulators (EM) are textile mechanical devices designed to dissipate snatch loads that occur when parachutes&#160;are deployed. Although critical for mitigating shock loads, recent flight testing has shown increasing variability in EM behavior, raising concerns about their performance predictability and [&#8230;]]]>
-      </description>
-      <source:markdown>Download PDF: Computational Modeling of Failure at the Fabric Weave Level in Reentry Parachute Energy Modulators Energy modulators (EM) are textile mechanical devices designed to dissipate snatch loads that occur when parachutes are deployed. Although critical for mitigating shock loads, recent flight testing has shown increasing variability in EM behavior, raising concerns about their performance predictability and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=972116</guid>
-    </item>    <item>
-      <title>This Traveler From India Graffitied His Name on Five Ancient Tombs in Egypt&#39;s Valley of the Kings 2,000 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-traveler-from-india-graffitied-his-name-on-five-ancient-tombs-in-egypts-valley-of-the-kings-2000-years-ago-180988318/</link>
-      <description>
-        <![CDATA[Researchers have discovered 30 inscriptions written in Indian languages, which provide new evidence that visitors from India spent time in Egypt between the first and third centuries C.E.]]>
-      </description>
-      <source:markdown>Researchers have discovered 30 inscriptions written in Indian languages, which provide new evidence that visitors from India spent time in Egypt between the first and third centuries C.E.</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NpVWgRGe2l7S8yxNKyzTUZtpd4w=/420x240/filters:focal(2856x2149:2857x2150)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/b8/3fb8bf7b-59e9-4e04-9ea7-e6a5a1567e07/img_6519.jpeg" length="5006502" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-traveler-from-india-graffitied-his-name-on-five-ancient-tombs-in-egypts-valley-of-the-kings-2000-years-ago-180988318/</guid>
-    </item>    <item>
-      <title>Ice to Fuel: NASA Tests Technology for Refueling Landers</title>
-      <link>https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/</link>
-      <description>
-        <![CDATA[The farther the destination, the more&#160;fuel&#160;a&#160;rocket&#160;needs. The more fuel&#160;the rocket&#160;carries, the heavier the spacecraft. The heavier the spacecraft, the more fuel&#160;it&#160;requires to launch.&#160;Experts&#160;at NASA’s Glenn Research Center in Cleveland&#160;are&#160;testing technology&#160;that could solve this problem.&#160; The&#160;CryoFILL&#160;(Cryogenic Fluid In-Situ&#160;Liquefaction for Landers)&#160;project&#160;could transform the way&#160;NASA fuels&#160;future space exploration missions, reducing costs and extending the duration of&#160;planetary&#160;surface operations.&#160;&#160; “If [&#8230;]]]>
-      </description>
-      <source:markdown>The farther the destination, the more fuel a rocket needs. The more fuel the rocket carries, the heavier the spacecraft. The heavier the spacecraft, the more fuel it requires to launch. Experts at NASA’s Glenn Research Center in Cleveland are testing technology that could solve this problem.  The CryoFILL (Cryogenic Fluid In-Situ Liquefaction for Landers) project could transform the way NASA fuels future space exploration missions, reducing costs and extending the duration of planetary surface operations.   “If \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=971989</guid>
-    </item>    <item>
-      <title>Cybercrime isn&#39;t just a cover for Iran&#39;s government goons - it&#39;s a key part of their operations</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/cybercrime_iran_mois/</link>
-      <description>
-        <![CDATA[<h4>Ransomware, malware-as-a-service, infostealers benefit MOIS, too</h4> <p>Iranian government-backed snoops are increasingly using cybercrime malware and ransomware infrastructure in their operations - not just hiding behind criminal masks as a cover for destructive cyber activity, according to security researchers.…</p>]]>
-      </description>
-      <source:markdown>#### Ransomware, malware-as-a-service, infostealers benefit MOIS, too
-
-Iranian government-backed snoops are increasingly using cybercrime malware and ransomware infrastructure in their operations - not just hiding behind criminal masks as a cover for destructive cyber activity, according to security researchers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245017</guid>
-    </item>    <item>
-      <title>AI datacenters may gulp a New York City&#39;s worth of water on hot days</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/us_datacenters_water_consumption/</link>
-      <description>
-        <![CDATA[<h4>Study warns peak cooling demand could strain US water systems by 2030</h4> <p>Public water supplies in America will need billions invested to meet the peak requirements of datacenters during the hottest periods of the year, even if their overall annual consumption is relatively modest.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Study warns peak cooling demand could strain US water systems by 2030
-
-Public water supplies in America will need billions invested to meet the peak requirements of datacenters during the hottest periods of the year, even if their overall annual consumption is relatively modest.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245015</guid>
-    </item>    <item>
-      <title>Expanding the Human Factors Toolbox:  An Approach to Balancing Crew and Mission Design Parameters</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/expanding-the-human-factors-toolbox-an-approach-to-balancing-crew-and-mission-design-parameters/</link>
-      <description>
-        <![CDATA[This article is from the 2025 Technical Update. The human factors TDT looks for and creates opportunities to influence design to leverage human strengths and to protect people and missions. The human factors team has experts with knowledge of human performance in all aspects of NASA missions as well as from other safety-critical industries. The [&#8230;]]]>
-      </description>
-      <source:markdown>This article is from the 2025 Technical Update. The human factors TDT looks for and creates opportunities to influence design to leverage human strengths and to protect people and missions. The human factors team has experts with knowledge of human performance in all aspects of NASA missions as well as from other safety-critical industries. The \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=972006</guid>
-    </item>    <item>
-      <title>JetBrains launches AI agent IDE built on the corpse of abandoned Fleet</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/jetbrains_previews_air_proclaims_new/</link>
-      <description>
-        <![CDATA[<h4>Agentic &#39;Air&#39; lets multiple AI agents run tasks concurrently, while loyal IntelliJ users wonder what&#39;s in it for them</h4> <p>JetBrains has previewed Air, a tool for agentic AI development which it describes as a new wave of dev tooling.…</p>]]>
-      </description>
-      <source:markdown>#### Agentic &#39;Air&#39; lets multiple AI agents run tasks concurrently, while loyal IntelliJ users wonder what&#39;s in it for them
-
-JetBrains has previewed Air, a tool for agentic AI development which it describes as a new wave of dev tooling.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245014</guid>
-    </item>    <item>
-      <title>Crooks compromise WordPress sites to push infostealers via fake CAPTCHA prompts</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/crooks_hijack_wordpress_sites/</link>
-      <description>
-        <![CDATA[<h4>Rapid7 says crims broke into more than 250 sites globally, including a US Senate candidate’s campaign page</h4> <p>Cyber baddies quietly compromised legitimate WordPress websites, including the campaign site of a US Senate candidate, turning them into launchpads for a global infostealer operation.…</p>]]>
-      </description>
-      <source:markdown>#### Rapid7 says crims broke into more than 250 sites globally, including a US Senate candidate’s campaign page
-
-Cyber baddies quietly compromised legitimate WordPress websites, including the campaign site of a US Senate candidate, turning them into launchpads for a global infostealer operation.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245013</guid>
-    </item>    <item>
-      <title>Webinar 3/25: NASA CSDA Vendor Focus – Satellogic</title>
-      <link>https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/</link>
-      <description>
-        <![CDATA[Join us March 25 at 2:00 p.m. EDT to learn more about the data offered by CSDA program vendor Satellogic.]]>
-      </description>
-      <source:markdown>Join us March 25 at 2:00 p.m. EDT to learn more about the data offered by CSDA program vendor Satellogic.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/</guid>
-    </item>    <item>
-      <title>FreeBSD 14.4 released</title>
-      <link>https://www.osnews.com/story/144572/freebsd-14-4-released/</link>
-      <description>
-        <![CDATA[While FreeBSD 15.x may be getting all the attention, the FreeBSD 14.x branch continues to be updated for the more conservative users among us. FreeBSD 14.4 has been released today, and brings with it updated versions of OpenSSH, OpenZFS, and Bhyve virtual machines can now share files with their host over 9pfs &#8211; among other things, of course.]]>
-      </description>
-      <source:markdown>While FreeBSD 15.x may be getting all the attention, the FreeBSD 14.x branch continues to be updated for the more conservative users among us. FreeBSD 14.4 has been released today, and brings with it updated versions of OpenSSH, OpenZFS, and Bhyve virtual machines can now share files with their host over 9pfs – among other things, of course.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144572</guid>
-    </item>    <item>
-      <title>Flying cabs, next-gen aircraft cleared for takeoff in 26 states</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/evtol_pilot_26_states/</link>
-      <description>
-        <![CDATA[<h4>FAA launches pilot projects starting this summer</h4> <p>The skies over parts of the US could soon get busier, as the Federal Aviation Administration launches pilot projects spanning 26 states to test electric air taxis and other next-gen aircraft, with operations expected to begin by summer 2026.…</p>]]>
-      </description>
-      <source:markdown>#### FAA launches pilot projects starting this summer
-
-The skies over parts of the US could soon get busier, as the Federal Aviation Administration launches pilot projects spanning 26 states to test electric air taxis and other next-gen aircraft, with operations expected to begin by summer 2026.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245012</guid>
-    </item>    <item>
-      <title>COPV Damage Tolerance Life Demonstration Guidelines</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/copv-damage-tolerance-life-demonstration-guidelines/</link>
-      <description>
-        <![CDATA[This article is from the 2025 Technical Update. The NESC has invested significant time and resources to better&#160;understand composite overwrapped pressure vessels&#160;(COPV) performance and more importantly, how these complex, high-pressure storage systems can fail. These vessels, which store&#160;high pressure propulsion and life-support system fluids&#160;on launch vehicles and spacecraft, are ubiquitous at NASA, and failures have [&#8230;]]]>
-      </description>
-      <source:markdown>This article is from the 2025 Technical Update. The NESC has invested significant time and resources to better understand composite overwrapped pressure vessels (COPV) performance and more importantly, how these complex, high-pressure storage systems can fail. These vessels, which store high pressure propulsion and life-support system fluids on launch vehicles and spacecraft, are ubiquitous at NASA, and failures have \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=972001</guid>
-    </item>    <item>
-      <title>A Technical Resource for the Agency</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/a-technical-resource-for-the-agency/</link>
-      <description>
-        <![CDATA[This article is from the 2025 Technical Update. The NESC’s Thermal Control &#38; Protection Technical Discipline Team (TDT) is a resource providing subject matter expertise in active and passive thermal control as well as ascent and entry thermal protection across the spectrum of agency needs. TDT members led or supported a variety of key activities [&#8230;]]]>
-      </description>
-      <source:markdown>This article is from the 2025 Technical Update. The NESC’s Thermal Control &#38; Protection Technical Discipline Team (TDT) is a resource providing subject matter expertise in active and passive thermal control as well as ascent and entry thermal protection across the spectrum of agency needs. TDT members led or supported a variety of key activities \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=971974</guid>
-    </item>    <item>
-      <title>Celebrating NASA’s Mars Reconnaissance Orbiter’s 20th Anniversary: Crater Near Sirenum Fossae</title>
-      <link>https://www.nasa.gov/image-article/celebrating-nasas-mars-reconnaissance-orbiters-20th-anniversary-crater-near-sirenum-fossae/</link>
-      <description>
-        <![CDATA[NASA&#8217;s Mars Reconnaissance Orbiter (MRO) captures a detailed view of a relatively fresh crater in this image released on June 3, 2015. The crater has a sharp rim and well-preserved ejecta. The steep inner slopes are carved by gullies and include possible recurring slope lineae on the equator-facing slopes. This crater is monitored for changes [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Mars Reconnaissance Orbiter (MRO) captures a detailed view of a relatively fresh crater in this image released on June 3, 2015. The crater has a sharp rim and well-preserved ejecta. The steep inner slopes are carved by gullies and include possible recurring slope lineae on the equator-facing slopes. This crater is monitored for changes \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=971829</guid>
-    </item>    <item>
-      <title>See How Scientists Reconstructed the Face of Little Foot, a Human Ancestor Who Lived 3.67 Million Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-how-scientists-reconstructed-the-face-of-little-foot-a-human-ancestor-who-lived-3-67-million-years-ago-180988299/</link>
-      <description>
-        <![CDATA[For the first time, researchers have digitally reconstructed the facial fragments of the individual, who belonged to the Australopithecus genus]]>
-      </description>
-      <source:markdown>For the first time, researchers have digitally reconstructed the facial fragments of the individual, who belonged to the Australopithecus genus</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rjsWPF6s9mIt0Lg6qe27g1-JDd0=/420x240/filters:focal(841x408:842x409)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/d0/cfd0b437-3a0d-4777-9650-64e556020179/cnrs.jpg" length="339492" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-how-scientists-reconstructed-the-face-of-little-foot-a-human-ancestor-who-lived-3-67-million-years-ago-180988299/</guid>
-    </item>    <item>
-      <title>NASA Discovers Crash of Extreme Stars in Unexpected Site</title>
-      <link>https://www.nasa.gov/missions/chandra/nasa-discovers-crash-of-extreme-stars-in-unexpected-site/</link>
-      <description>
-        <![CDATA[A fleet of NASA missions has likely uncovered a collision between two ultradense stars in a tiny galaxy buried in a huge stream of gas. Astronomers have never seen this type of explosive event in an environment like this before — and it may help solve two outstanding cosmic mysteries. A paper describing these results [&#8230;]]]>
-      </description>
-      <source:markdown>A fleet of NASA missions has likely uncovered a collision between two ultradense stars in a tiny galaxy buried in a huge stream of gas. Astronomers have never seen this type of explosive event in an environment like this before — and it may help solve two outstanding cosmic mysteries. A paper describing these results \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=971920</guid>
-    </item>    <item>
-      <title>Musk admits Starship V3 launch date has slipped as Super Heavy booster rolls into place</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/spacex_gets_a_starship_booster/</link>
-      <description>
-        <![CDATA[<h4>Launch predictions continue to be optimistic as 2027 and Artemis III near</h4> <p>SpaceX has rolled another Starship super heavy booster to the launch pad as the company&#39;s boss, Elon Musk, admits the first launch of Starship V3 had slipped.…</p>]]>
-      </description>
-      <source:markdown>#### Launch predictions continue to be optimistic as 2027 and Artemis III near
-
-SpaceX has rolled another Starship super heavy booster to the launch pad as the company&#39;s boss, Elon Musk, admits the first launch of Starship V3 had slipped.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245011</guid>
-    </item>    <item>
-      <title>NASA&#39;s Asteroid-Smashing DART Mission Changed a Space Rock&#39;s Orbit Around the Sun, Marking a First for Humanity</title>
-      <link>https://www.smithsonianmag.com/smart-news/nasas-asteroid-smashing-dart-mission-changed-a-space-rocks-orbit-around-the-sun-marking-a-first-for-humanity-180988322/</link>
-      <description>
-        <![CDATA[Studying the 2022 collision's effects can help scientists protect the Earth from celestial objects that might head toward us]]>
-      </description>
-      <source:markdown>Studying the 2022 collision&#39;s effects can help scientists protect the Earth from celestial objects that might head toward us</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6wA3g6H_WyFfRi8VyBBMQ0rVFq0=/420x240/filters:focal(512x288:513x289)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e5/85/e585794a-2933-4e28-9d90-0555fb06b2d1/1-licia-cube-nasa.jpg" length="16516" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/nasas-asteroid-smashing-dart-mission-changed-a-space-rocks-orbit-around-the-sun-marking-a-first-for-humanity-180988322/</guid>
-    </item>    <item>
-      <title>Oracle moves to assure MySQL community it really does care</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/mysql_oracle_updates/</link>
-      <description>
-        <![CDATA[<h4>Big Red waves new features including vector support, while skeptics await concrete timescales</h4> <p>Oracle has proposed a more transparent approach to developing its open source database MySQL, including new features supporting vectors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Big Red waves new features including vector support, while skeptics await concrete timescales
-
-Oracle has proposed a more transparent approach to developing its open source database MySQL, including new features supporting vectors.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245009</guid>
-    </item>    <item>
-      <title>Sorry, kids. Memory crunch threatens to kneecap Chromebook shipments</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/memory_chromebooks_pcs/</link>
-      <description>
-        <![CDATA[<h4>Low-cost computers bashed by billion-dollar investment in AI infrastructure</h4> <p>Chromebooks, the low-cost computing option popular with education buyers, will be squeezed hardest this year as memory prices spiral out of control.…</p>]]>
-      </description>
-      <source:markdown>#### Low-cost computers bashed by billion-dollar investment in AI infrastructure
-
-Chromebooks, the low-cost computing option popular with education buyers, will be squeezed hardest this year as memory prices spiral out of control.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245006</guid>
-    </item>    <item>
-      <title>Linux PC vendor System76 tries to talk Colorado down over OS age checks</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/foss_age_verification_2/</link>
-      <description>
-        <![CDATA[<h4>Don&#39;t celebrate yet – more states are considering them</h4> <p>As more US states push to mandate OS-level age checks, System76 is taking its fight directly to lawmakers.…</p>]]>
-      </description>
-      <source:markdown>#### Don&#39;t celebrate yet – more states are considering them
-
-As more US states push to mandate OS-level age checks, System76 is taking its fight directly to lawmakers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245008</guid>
-    </item>    <item>
-      <title>Vibrant Wildflowers Are Blanketing Death Valley National Park, Resulting in the Most Breathtaking Bloom in a Decade</title>
-      <link>https://www.smithsonianmag.com/smart-news/vibrant-wildflowers-are-blanketing-death-valley-national-park-resulting-in-the-most-breathtaking-bloom-in-a-decade-180988321/</link>
-      <description>
-        <![CDATA[Parts of the park are awash in wildflowers, from the cheery yellow blooms of desert gold to the bright purple clusters of sand verbena, along with many other species]]>
-      </description>
-      <source:markdown>Parts of the park are awash in wildflowers, from the cheery yellow blooms of desert gold to the bright purple clusters of sand verbena, along with many other species</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WF-AYerj33nmp8x3cnt9re1nER8=/420x240/filters:focal(4720x2338:4721x2339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/23/732356db-d948-4cc5-a886-885c0a5e4742/dsc05032-3.jpg" length="39035525" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/vibrant-wildflowers-are-blanketing-death-valley-national-park-resulting-in-the-most-breathtaking-bloom-in-a-decade-180988321/</guid>
-    </item>    <item>
-      <title>Fake job applications pack malware that kills endpoint detection before stealing data</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/malware_targeting_hr/</link>
-      <description>
-        <![CDATA[<h4>Russian-speaking attackers lure HR staff into downloading ISO files that disable defenses</h4> <p>A Russian-speaking cyber criminal is targeting corporate HR teams with fake CVs that quietly install malware which can disable security tools before stealing data from infected machines.…</p>]]>
-      </description>
-      <source:markdown>#### Russian-speaking attackers lure HR staff into downloading ISO files that disable defenses
-
-A Russian-speaking cyber criminal is targeting corporate HR teams with fake CVs that quietly install malware which can disable security tools before stealing data from infected machines.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245003</guid>
-    </item>    <item>
-      <title>Microsoft Authenticator to nuke Entra creds on rooted and jailbroken phones</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/microsoft_authenticator_checks/</link>
-      <description>
-        <![CDATA[<h4>Warning, lockout, then wipe if your device trips detection</h4> <p>Microsoft is removing Entra credentials for school and work from jailbroken and rooted devices running iOS and Android.…</p>]]>
-      </description>
-      <source:markdown>#### Warning, lockout, then wipe if your device trips detection
-
-Microsoft is removing Entra credentials for school and work from jailbroken and rooted devices running iOS and Android.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245007</guid>
-    </item>    <item>
-      <title>Ericsson blames vendor vishing slip-up for breach exposing thousands of records</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/ericsson_blames_vendor_vishing_slipup/</link>
-      <description>
-        <![CDATA[<h4>Crooks used simple phone scam to compromise vendor account, spilling personal and financial data belonging to more than 15,000 people</h4> <p>A voice-phishing scam targeting one of Ericsson&#39;s service providers has exposed the personal data of more than 15,000 individuals after attackers sweet-talked an employee into handing over access.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Crooks used simple phone scam to compromise vendor account, spilling personal and financial data belonging to more than 15,000 people
-
-A voice-phishing scam targeting one of Ericsson&#39;s service providers has exposed the personal data of more than 15,000 individuals after attackers sweet-talked an employee into handing over access.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245005</guid>
-    </item>    <item>
-      <title>Protecting democracy means democratizing cybersecurity. Bring on the hackers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/democratizing_security_opinion/</link>
-      <description>
-        <![CDATA[<h4>Digital freedom needs a Kali Linux for the rest of us</h4> <p><strong>Opinion</strong>  The hacker mind is a curious way to be. To have it means to embody endless analytical curiosity, an awareness of any given rule set as just one system among many, and an ability to see any system in ways that its creators never expected. Combine this with a drive to find the bad and make things better, and you become one of the fundamental forces of the technological universe.…</p>]]>
-      </description>
-      <source:markdown>#### Digital freedom needs a Kali Linux for the rest of us
-
-**Opinion**  The hacker mind is a curious way to be. To have it means to embody endless analytical curiosity, an awareness of any given rule set as just one system among many, and an ability to see any system in ways that its creators never expected. Combine this with a drive to find the bad and make things better, and you become one of the fundamental forces of the technological universe.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244952</guid>
-    </item>    <item>
-      <title>NASA Invites Media to 63rd Annual Goddard Space Science Symposium</title>
-      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-63rd-annual-goddard-space-science-symposium/</link>
-      <description>
-        <![CDATA[Media are invited to attend the 63rd annual Goddard Space Science Symposium, taking place Thursday, March 12, and Friday, March 13, at the National Housing Center in Washington. The event also will be streamed online. Organized by the American Astronautical Society (AAS) in conjunction with NASA’s Goddard Space Flight Center in Greenbelt, Maryland, the symposium [&#8230;]]]>
-      </description>
-      <source:markdown>Media are invited to attend the 63rd annual Goddard Space Science Symposium, taking place Thursday, March 12, and Friday, March 13, at the National Housing Center in Washington. The event also will be streamed online. Organized by the American Astronautical Society (AAS) in conjunction with NASA’s Goddard Space Flight Center in Greenbelt, Maryland, the symposium \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=971414</guid>
-    </item>    <item>
-      <title>Polish cops bust alleged teen DDoS kit sellers – youngest just 12</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/poland_ddos_teens_bust/</link>
-      <description>
-        <![CDATA[<h4>Kids profited from tools used to attack popular websites, say officials</h4> <p>Polish police have referred seven suspected juvenile cybercriminals to family court over an alleged scheme to flog DDoS kits online.…</p>]]>
-      </description>
-      <source:markdown>#### Kids profited from tools used to attack popular websites, say officials
-
-Polish police have referred seven suspected juvenile cybercriminals to family court over an alleged scheme to flog DDoS kits online.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245004</guid>
-    </item>    <item>
-      <title>Retro tech fan views LaserDisc movie data with a budget microscope</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/laserdisc_microscope/</link>
-      <description>
-        <![CDATA[<h4>Analog video spied by looking really, really closely at tracks</h4> <p>A retro tech enthusiast has demonstrated that it is possible to view media on LaserDisc using a relatively inexpensive digital microscope.…</p>]]>
-      </description>
-      <source:markdown>#### Analog video spied by looking really, really closely at tracks
-
-A retro tech enthusiast has demonstrated that it is possible to view media on LaserDisc using a relatively inexpensive digital microscope.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244978</guid>
-    </item>    <item>
-      <title>Mystery outage behind US airline JetBlue asking FAA to ground its flights</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/mystery_system_outage_causes_jetblue/</link>
-      <description>
-        <![CDATA[<h4>Aircraft on the ground briefly halted until systems were up again</h4> <p>JetBlue took the unusual step of requesting a ground stop for all flights this morning, with the US airline resuming operations less than an hour later and blaming the stop on &#34;a brief system outage.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### Aircraft on the ground briefly halted until systems were up again
-
-JetBlue took the unusual step of requesting a ground stop for all flights this morning, with the US airline resuming operations less than an hour later and blaming the stop on &#34;a brief system outage.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245002</guid>
-    </item>    <item>
-      <title>Brit competition cops warn AI agents may not be &#39;faithful servants&#39; to consumers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/cma_ai_agents/</link>
-      <description>
-        <![CDATA[<h4>Autonomous assistants could manipulate choices, push pricier deals, and prioritize their creators</h4> <p>Britain&#39;s competition watchdog says the next wave of agentic AI assistants could end up nudging people toward worse deals, manipulating choices, or quietly prioritizing the interests of the companies behind them.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Autonomous assistants could manipulate choices, push pricier deals, and prioritize their creators
-
-Britain&#39;s competition watchdog says the next wave of agentic AI assistants could end up nudging people toward worse deals, manipulating choices, or quietly prioritizing the interests of the companies behind them.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244986</guid>
-    </item>    <item>
-      <title>Xen Project quietly announced five years of support for all releases</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/xen_project_support_xenserver_9/</link>
-      <description>
-        <![CDATA[<h4>As Citrix slips out a preview of Xen Server 9, the release that brings it back to the V12N mainstream</h4> <p>The Xen Project has decided to support all releases of its flagship hypervisor for five years, and one of the first beneficiaries of the change is Citrix, which has delivered a preview of XenServer 9 – the release that will take the product back into the mainstream virtualization market.…</p>]]>
-      </description>
-      <source:markdown>#### As Citrix slips out a preview of Xen Server 9, the release that brings it back to the V12N mainstream
-
-The Xen Project has decided to support all releases of its flagship hypervisor for five years, and one of the first beneficiaries of the change is Citrix, which has delivered a preview of XenServer 9 – the release that will take the product back into the mainstream virtualization market.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244999</guid>
-    </item>    <item>
-      <title>Sibling order may affect sexuality and identity</title>
-      <link>https://www.npr.org/2026/03/10/nx-s1-5742476/birth-order-gay-sexuality-identity</link>
-      <description>
-        <![CDATA[Today, guest host <a href="https://www.npr.org/people/349308023/selena-simmons-duffin"target="_blank"   >Selena Simmons-Duffin</a> is exploring a detail very personal to her: How the number of older brothers a person has can influence their sexuality.<br/><br/>Scientific research on sexuality has a dark history, with long-lasting harmful effects on queer communities. Much of the early research has also been debunked over time. But <em>not</em> this "fraternal birth order effect." The fact that a person's likelihood of being gay increases with each older brother has been found all over the world – from Turkey to North America, Brazil, the Netherlands and beyond. Today, Selena gets into all the details: What this effect is, how it's been studied and what it can (and can't) explain about sexuality.<br/><br/><br><strong>Interested in the science of our closest relatives? Check out more stories in NPR's series on </strong><a href="https://www.npr.org/series/1241438370/the-science-of-siblings"target="_blank"   ><strong>the Science of Siblings</strong></a><strong>.</strong><br/><br/><em>Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em> — we'd love to hear from you.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/>Learn more about sponsor message choices: <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a><br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Today, guest host [Selena Simmons-Duffin](https://www.npr.org/people/349308023/selena-simmons-duffin) is exploring a detail very personal to her: How the number of older brothers a person has can influence their sexuality.
-
-Scientific research on sexuality has a dark history, with long-lasting harmful effects on queer communities. Much of the early research has also been debunked over time. But _not_ this &#34;fraternal birth order effect.&#34; The fact that a person&#39;s likelihood of being gay increases with each older brother has been found all over the world – from Turkey to North America, Brazil, the Netherlands and beyond. Today, Selena gets into all the details: What this effect is, how it&#39;s been studied and what it can (and can&#39;t) explain about sexuality.
-
-**Interested in the science of our closest relatives? Check out more stories in NPR&#39;s series on** [**the Science of Siblings**](https://www.npr.org/series/1241438370/the-science-of-siblings) **.**
-
-_Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _— we&#39;d love to hear from you._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-Learn more about sponsor message choices: [podcastchoices.com/adchoices](https://podcastchoices.com/adchoices)
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/df2e2bc9-a74c-480e-9f46-8662a51254f3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=df2e2bc9-a74c-480e-9f46-8662a51254f3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5742476&p=510351&d=744&size=11913553" length="11913553" type="audio/mpeg" />
-      <guid>cid://51eb55de-757b-4a90-9095-35b18a6a8faf</guid>
-    </item>    <item>
-      <title>SETI admits its search for alien life may be too narrowly focussed</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/seti_admits_its_search_for/</link>
-      <description>
-        <![CDATA[<h4>Solar winds near aliens’ homes – and ours – might be blowing away signs of alien technosignatures by broadening signals</h4> <p>The SETI Institute, the nonprofit that conducts a search for extraterrestrial intelligence by examining radio waves for artefacts that are unlikely to be the result of natural processes, thinks it may have been going about it the wrong way.…</p>]]>
-      </description>
-      <source:markdown>#### Solar winds near aliens’ homes – and ours – might be blowing away signs of alien technosignatures by broadening signals
-
-The SETI Institute, the nonprofit that conducts a search for extraterrestrial intelligence by examining radio waves for artefacts that are unlikely to be the result of natural processes, thinks it may have been going about it the wrong way.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244998</guid>
-    </item>    <item>
-      <title>Shades of a Lunar Eclipse</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/</link>
-      <description>
-        <![CDATA[A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.]]>
-      </description>
-      <source:markdown>A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/</guid>
-    </item>    <item>
-      <title>HPE tweaks T&#38;amp;Cs so the price it quotes may not be the price you pay</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/hpe_q1_2026/</link>
-      <description>
-        <![CDATA[<h4>With memory and storage contributing over half the price of a server, Big Green needs to protect its margins</h4> <p>HPE has changed its terms and conditions in ways that allow it to change hardware prices after it’s issued a quote, due to rampant storage and memory price rises.…</p>]]>
-      </description>
-      <source:markdown>#### With memory and storage contributing over half the price of a server, Big Green needs to protect its margins
-
-HPE has changed its terms and conditions in ways that allow it to change hardware prices after it’s issued a quote, due to rampant storage and memory price rises.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244997</guid>
-    </item>    <item>
-      <title>Palantir’s lethal AI weaponry deployed to find chairs for US government staff</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/10/palantir_usda_seating_software/</link>
-      <description>
-        <![CDATA[<h4>As Department of Agriculture employees return to the office, it needs ‘real-time analytics to optimize employee seat assignments’</h4> <p>The U.S. Department of Agriculture is using Palantir to figure out where its staff should sit, after deciding only the colorful AI company can do the job.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### As Department of Agriculture employees return to the office, it needs ‘real-time analytics to optimize employee seat assignments’
-
-The U.S. Department of Agriculture is using Palantir to figure out where its staff should sit, after deciding only the colorful AI company can do the job.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story244996</guid>
-    </item>    <item>
-      <title>Forgejo monthly report - February 2026</title>
-      <link>https://forgejo.org/2026-02-monthly-report/</link>
-      <description>
-        <![CDATA[Forgejo was present at FOSDEM. The Forgejo runner received multiple bug fixes and new features. The helm chart received two minor changes. Improvements were made to the infrastructure.]]>
-      </description>
-      <source:markdown>Forgejo was present at FOSDEM. The Forgejo runner received multiple bug fixes and new features. The helm chart received two minor changes. Improvements were made to the infrastructure.</source:markdown>
-      <guid>cid://https://forgejo.org/2026-02-monthly-report/</guid>
     </item>
   </channel>
 </rss>
