@@ -4,10 +4,50 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>02 Apr 26 08:25 -0700</lastBuildDate>
+    <lastBuildDate>02 Apr 26 18:21 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Short Fiction, by Ring Lardner</title>
+      <link>https://standardebooks.org/ebooks/ring-lardner/short-fiction</link>
+      <description>
+        <![CDATA[A collection of short stories by Ring Lardner.]]>
+      </description>
+      <source:markdown>A collection of short stories by Ring Lardner.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/ring-lardner_short-fiction.epub?source=feed" length="1293996" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ring-lardner/short-fiction</guid>
+    </item>    <item>
+      <title>Blind Corner, by Dornford Yates</title>
+      <link>https://standardebooks.org/ebooks/dornford-yates/blind-corner</link>
+      <description>
+        <![CDATA[A chance overhearing of an argument leads to a race for long-lost treasure.]]>
+      </description>
+      <source:markdown>A chance overhearing of an argument leads to a race for long-lost treasure.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/dornford-yates/blind-corner/downloads/dornford-yates_blind-corner.epub?source=feed" length="830690" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/dornford-yates/blind-corner</guid>
+    </item>    <item>
+      <title>Most College Students Use AI, Even as Institutions Lag on Clear Policies (AI in Higher Education Widespread Use, Unclear Rules Report From Lumina Foundation-Gallup)</title>
+      <link>https://www.infodocket.com/2026/04/02/most-college-students-use-ai-even-as-institutions-lag-on-clear-policies-ai-in-higher-education-widespread-use-unclear-rules-report-from-lumina-foundation-gallup/</link>
+      <description>
+        <![CDATA[<p>From  Lumina Foundation-Gallup Artificial intelligence has become a routine part of college life, even as many institutions struggle to set clear rules for its use. New research from Lumina Foundation and Gallup finds that a majority of college students now use AI tools such as ChatGPT, Microsoft Copilot and Google Gemini for their coursework at [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/04/02/most-college-students-use-ai-even-as-institutions-lag-on-clear-policies-ai-in-higher-education-widespread-use-unclear-rules-report-from-lumina-foundation-gallup/">Most College Students Use AI, Even as Institutions Lag on Clear Policies (AI in Higher Education Widespread Use, Unclear Rules Report From Lumina Foundation-Gallup)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From  Lumina Foundation-Gallup Artificial intelligence has become a routine part of college life, even as many institutions struggle to set clear rules for its use. New research from Lumina Foundation and Gallup finds that a majority of college students now use AI tools such as ChatGPT, Microsoft Copilot and Google Gemini for their coursework at \[…\]
+
+The post [Most College Students Use AI, Even as Institutions Lag on Clear Policies (AI in Higher Education Widespread Use, Unclear Rules Report From Lumina Foundation-Gallup)](https://www.infodocket.com/2026/04/02/most-college-students-use-ai-even-as-institutions-lag-on-clear-policies-ai-in-higher-education-widespread-use-unclear-rules-report-from-lumina-foundation-gallup/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167898</guid>
+    </item>    <item>
+      <title>AI in Action</title>
+      <link>https://sr.ithaka.org/blog/ai-in-action/</link>
+      <description>
+        <![CDATA[<p>Our new initiative, AI in Action, will bring together 15-20 academic libraries starting this May for a 12-month, hands-on cohort to explore the potential for integrating AI into their own processes. The goal is to produce actionable, shared insights that strengthen the sector’s collective capacity for innovation, while staying aligned with library values.</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/ai-in-action/">AI in Action</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Our new initiative, AI in Action, will bring together 15-20 academic libraries starting this May for a 12-month, hands-on cohort to explore the potential for integrating AI into their own processes. The goal is to produce actionable, shared insights that strengthen the sector’s collective capacity for innovation, while staying aligned with library values.
+
+The post [AI in Action](https://sr.ithaka.org/blog/ai-in-action/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=325339</guid>
+    </item>    <item>
       <title>March 2026</title>
       <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/march-2026/</link>
       <description>
@@ -79,6 +119,185 @@ The post [New Report From California State University (CSU): “Ahead of the Cur
 The post [Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 1](https://scholarlykitchen.sspnet.org/2026/04/01/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-1/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61793</guid>
     </item>    <item>
+      <title>Reflections from Bangkok</title>
+      <link>https://www.crossref.org/blog/reflections-from-bangkok/</link>
+      <description>
+        <![CDATA[<p>Each organization in the global community of Crossref members (that’s currently over 24k organizations in 166 different countries) plays a key role in building the Research Nexus. Any opportunity we have to meet with our members in person is a highlight and a way for us to learn more from each other. The month of January saw three of us travel to Bangkok to attend the first-ever Charleston Conference organised in Asia and to meet with our growing community in Thailand.</p>
+        <p>The Charleston Conference is a meeting for librarians and publishers that is held annually in the USA. This year, <a href="https://www.charleston-hub.com/charleston-conference-asia/" target="_blank">the conference</a> was held for the first time in Asia, and attending the event allowed us to connect with the library publishing community from the region and others, who had travelled from around the world to meet in picturesque Bangkok. Half of Crossref members are now based in Asia, so visiting Thailand gave us a great opportunity to meet members and colleagues from the continent in person.</p>
+        <p>At the conference, Robbykha moderated a panel discussion on “the importance of metadata for Asian scholarship”, capturing voices from across Asia on how open metadata is being used for discoverability, integrity, and assessment by different scholarly communities in the region.</p>
+        <p>Our visit to Bangkok culminated with a one-day Crossref Bangkok event that we had organised to meet with Crossref members in Thailand. We were also able to visit The Thailand National Library, who are the Thai ISSN Centre and stewards of so much of Thailand’s cultural heritage.</p>
+        <p>We were very grateful to our colleagues in Thailand for their warm welcome, particularly during the official mourning period for Her Majesty Queen Sirikit The Queen Mother.</p>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2026/Bangkok-members-discussing-challenges-and-opportunities-for-Thai-scholarship.JPG"
+        alt="The photo on the left is of Crossref staff and speakers of the panel discussion moderated by Robbykha at Charleston Asia. The photo on the right is of attendees of Crossref Bangkok event sitting in a banquet style set-up." width="100%"><figcaption>
+        <p><em>Left hand photo: Madhura Amdekar (Crossref), Guo Xiaofeng (Crossref Ambassador and Crossref sponsors Sin-Chn Scientific Press Pte. Ltd (Singapore)), Robbykha Rosalien (Crossref), Mochammad Tanzil Multazam (Crossref sponsors Relawan Jurnal Indonesia), Prof. Dr. Namtip Wipawin (Sukhothai Thammathirat Open University and Crossref sponsors National Research Council of Thailand), Amanda Bartell (Crossref). Right hand photo: Members discussing challenges and opportunities for Thai scholarship.</em></p>
+        </figcaption>
+        </figure>
+        </div>
+        <h2 id="charleston-asia-conference---a-reminder-of-the-importance-of-infrastructure">Charleston Asia conference - a reminder of the importance of infrastructure</h2>
+        <p>The three-day Charleston Asia conference gave us a great opportunity to meet with members and colleagues based in Asia, and hear about areas of focus and concern. It was refreshing to hear about the global challenges of access to knowledge, AI, and preserving research integrity, within the context of Asia’s institutional, linguistic, and economic environment. And it was wonderful to hear about so many projects (many at national level) integrating Crossref data to lead their strategies and even shape policy decisions.</p>
+        <p>Three inspiring keynotes covered many of the challenges of scholarship in Asia, covering local, national, and regional approaches.</p>
+        <p>Distinguished Professor Joyashree Roy (Asian Institute of Technology) presented her work on the Intergovernmental Panel on Climate Change at the United Nations. She highlighted how those in Asia are the most likely to be impacted by climate change, but underrepresented in the research due to structural, linguistic, and financial barriers. She explained how publishers and librarians can remove some of these barriers.</p>
+        <p>Professor Devika Madalli (Director of INFLIBNET Centre) talked about the various services that her team has created at a national level in India to reduce country and institution-wide inequalities. INFLIBNET subscribes to Crossref’s Metadata Plus service, and it’s great to see our community’s metadata being part of such useful services.</p>
+        <p>Professor Bin Zhang (Library Director, Renmin University of China) talked about the challenges of access to scholarship across different regions in China, and how investment in infrastructure is making a difference here.</p>
+        <p>There were many other fascinating sessions during the three days, including our panel discussion, moderated by Robbykha Rosalien.</p>
+        <h3 id="the-importance-of-metadata-for-asian-scholarship---our-panel-at-charleston-asia">The importance of metadata for Asian scholarship - our panel at Charleston Asia</h3>
+        <p>Metadata isn’t just a technical detail—it’s the backbone of discoverability, credibility, trust, and impact in scholarly communication. In our panel session, we explored metadata trends across Asia and discussed how open metadata is shaping research visibility, integrity, and assessment in the region.
+        Our panel brought together diverse voices: Mochammad Tanzil Multazam from Relawan Jurnal Indonesia, Ms. Guo Xiaofeng, Crossref Ambassador in Asia and Director at Sin-Chn Scientific Press (Singapore), and Prof. Dr. Namtip Wipawin from the Department of Information Science, School of Liberal Arts, Sukhothai Thammathirat Open University in Thailand. Each shared experiences of challenges and solutions in adopting open metadata practices and leveraging metadata effectively.</p>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2026/Bangkok-panel-session.jpg"
+        alt="Ms. Guo Xiaofeng, Prof. Dr. Namtip Wipawin, and Mochammad Tanzil Multazam on the stage during their panel session" width="100%"><figcaption>
+        <p><em>Photo: panel session - Ms. Guo Xiaofeng, Prof. Dr. Namtip Wipawin, Mochammad Tanzil Multazam</em></p>
+        </figcaption>
+        </figure>
+        </div>
+        <p>The session opened with Robbykha presenting a striking graph: Crossref now has more than 14,000 members from Asia, representing over half of its global membership. As of January 19th, 2026, there are 13.8 million registered DOI records from Asia. Indonesia leads with 3.02 million registered DOIs, followed by Japan with 2.73 million, India with 2.52 million, South Korea with 1.28 million, and Türkiye rounding out the top five with 793,198. These numbers highlight Asia’s growing role in global scholarly communication.</p>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2026/Bangkok-Robbykha-presenting-the-Asian-metadata-coverage-from-Crossref-data.JPG"
+        alt="Robbykha presenting a slide to the audience that shows Asian metadata coverage in numbers" width="100%"><figcaption>
+        <p><em>Photo: Robbykha presenting the Asian metadata coverage from Crossref data</em></p>
+        </figcaption>
+        </figure>
+        </div>
+        <p>Mochammad Tanzil Multazam shared how government support for persistent identifiers and metadata in Indonesia has fueled one of the largest and fastest‑growing open‑access journal ecosystems worldwide. Of 27,807 national journals, nearly half already register DOIs and metadata records (<a href="https://sinta.kemdiktisaintek.go.id/" target="_blank">SINTA</a>, 13 January 2026). Prof. Dr. Namtip Wipawin provided an overview of the metadata landscape in Thai academia, highlighting both progress and ongoing challenges. Meanwhile, Ms. Guo Xiaofeng presented a case study on open metadata utilization across Asia, showing practical examples of how metadata strengthens discoverability and trust.</p>
+        <p>Participants emphasized the importance of metadata for Asian scholarship: enhancing discoverability, accessibility, and providing rich, accurate data. Yet challenges remain. One of the most pressing issues is multilingual content, and the best way to reflect this in the metadata. For our current advice on multilingual metadata, take a look at <a href="https://www.crossref.org/documentation/principles-practices/best-practices/multi-language/" target="_blank">our documentation</a> and this interesting <a href="https://community.crossref.org/t/multi-language-support/3054" target="_blank">discussion on our forum</a>. Our <a href="https://www.crossref.org/working-groups/metadata-advisory/" target="_blank">Metadata Advisory Group</a> currently has a working group of members and metadata users discussing this further, to help ensure our future schema updates help to accurately reflect multilingual metadata.</p>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2026/Bangkok-poll-results.jpg"
+        alt="A slide that shows the question “What are the key challenges to adoption of rich metadata in your country/institution” and a word cloud of answers from the panel audience" width="100%"><figcaption>
+        <p><em>Poll results from the panel audience on key challenges to the adoption of rich metadata</em></p>
+        </figcaption>
+        </figure>
+        </div>
+        <h2 id="crossref-bangkok---a-reminder-of-the-importance-of-visibility">Crossref Bangkok - a reminder of the importance of visibility</h2>
+        <p>The day after the Charleston Asia conference, around 75 attendees joined us for our Crossref Bangkok event. The event reinforced how valuable opportunities to interact directly with our members are for learning about the challenges that they face in scholarly publishing and to explore together how those can be overcome. We were supported during the event by our ambassadors Guo Xiaofeng, Amber Osman and Prof. MI Subhani, and by Prof. Dr. Namtip Wipawin and her team, who lead the sponsor organization from National Research Council of Thailand. We were also grateful to Mark Husskison from PKP for attending and helping attendees with some of their knottier OJS questions.</p>
+        <p>Most of the event attendees were from universities, which are our existing members in Thailand, and we were also joined by a team from the National Library of Thailand.</p>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2026/Bangkok-Crossref-Bangkok-group-photo.jpg"
+        alt="A group photo of participants at the Crossref Bangkok event" width="100%"><figcaption>
+        <p><em>Photo: Participants from across Thailand’s research and publishing landscape</em></p>
+        </figcaption>
+        </figure>
+        </div>
+        <p>We started the day by hearing more about who was in attendance, where they had travelled from, and what they hoped to get out of the day. We moved on to an introduction to Crossref and DOI metadata records, which provided a refresher on the benefits and obligations of Crossref membership and highlighted the importance of rich metadata for discoverability and research integrity. Next up, we split up into small groups to discuss and share the challenges and opportunities in scholarly publishing in Thailand. From across the discussion groups, there was one word that kept coming up again and again: visibility. Attendees shared how visibility is both a challenge and an opportunity. They appreciate that registering rich metadata records with Crossref - which are then shared with the global scholarly ecosystem - provides them with a way to make their content more visible, but agreed that this isn’t without challenges. Attendees welcomed the in-person meeting, and asked for more training and support from Crossref, particularly in registering content. (We shared details of our regular <a href="https://www.crossref.org/events/_getting-started-at-crossref" target="_blank">“Getting Started at Crossref”</a> webinars for new members, and our regular <a href="https://www.crossref.org/events/metadata-health-check-webinars" target="_blank">“Metadata Health Checks”</a> for longer term members, and we’ll be thinking about how to support members in Asia with more training).</p>
+        <p>During the afternoon, we heard more from Prof. Dr. Namtip Wipawin on the importance of metadata for raising the visibility of Thai research. We then ran a practical session, explaining how to add (and update) metadata records for those using our <a href="https://www.crossref.org/documentation/register-maintain-records/metadata-manager/" target="_blank">new Metadata Manager</a>, and those using the <a href="https://www.crossref.org/documentation/register-maintain-records/ojs-plugin/" target="_blank">OJS platform</a>. These were followed by a practical session, with participants exploring their own <a href="https://www.crossref.org/members/prep/" target="_blank">Participation Reports</a>, and discussing how to fill in any gaps in their metadata. The new CSV download for metadata gaps was particularly useful. It was great to support members in adding in their missing references through the OJS platform live, by properly activating the <a href="https://www.crossref.org/documentation/register-maintain-records/ojs-plugin/ojs-3.4/#00164" target="_blank">OJS references plugin</a>.</p>
+        <div class="quotecite">
+        <blockquote>
+        <p>Attending the Crossref Bangkok Workshop made it clear that being a part of Crossref goes far beyond simply assigning DOIs, it is about contributing to a global research community. The sessions highlighted how rich metadata, such as references, abstracts, ORCID iDs, and funding information, play a vital role in making Thai research more visible and accessible worldwide. There was also a strong emphasis on the importance of English metadata and standard identifiers in overcoming language and name-related challenges. Overall, the workshop showed how high-quality metadata can help bring Thai research onto the global stage and strengthen its international recognition.</p>
+        </blockquote>
+        <p><cite>&ndash; Prof. Dr. Namtip Wipawin on behalf of the National Research Council of Thailand.</cite></p>
+        </div>
+        <h2 id="visiting-the-national-library-of-thailand---a-reminder-of-the-importance-of-stewardship">Visiting the National Library of Thailand - a reminder of the importance of stewardship</h2>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2026/Bangkok-warm-welcome-from-National-Library-of-Thailand.jpg"
+        alt="A group photograph of Crossref staff and members of the National Library of Thailand team at the National Library of Thailand" width="100%"><figcaption>
+        <p><em>The warm welcome from National Library of Thailand team: Ms. Thanachcha Suwannavach (Librarian, Practitioner Level), Ms. Thitima Kumkhun (Librarian, Professional Level), Ms. Linda Puechsee (Librarian, Professional Level), Madhura Amdekar (Crossref), Robbykha Rosalien (Crossref), Amanda Bartell (Crossref), Ms. Bubphar Chuchat (Director of the National Library of Thailand), Dr. Prasittichai Lertratanakehakarn (Director of Information Resources Service Group), Ms. Rawiwan Putsorn (Director of Library Research and Development Group), Mrs. Atchara Jaruwan (Director of Information Resources Development Group), Mr. Jung Dippracone (Director of Manuscripts and Inscriptions Group), and Ms. Samachaya Dadrung (Librarian, Professional Level)</em></p>
+        </figcaption>
+        </figure>
+        </div>
+        <p>On our final day in Bangkok, we were lucky enough to visit with the team at the National Library of Thailand. They have a key role to play in scholarly publishing in Thailand as they run the National ISSN Centre. They are also stewards of much of Thailand’s cultural heritage, and we were honoured to view some of the artifacts that they look after.</p>
+        <div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2026/Bangkok-staff-showcasing-digitization-efforts-at-National-Library-of-Thailand.jpg"
+        alt="Staff of the National Library of Thailand pointing at a screen to show the digitization efforts at the National Library of Thailand" width="100%"><figcaption>
+        <p><em>Staff showcasing the digitization efforts at the National Library of Thailand — preserving knowledge and making it accessible for the future.</em></p>
+        </figcaption>
+        </figure>
+        </div>
+        <div class="quotecite">
+        <blockquote>
+        <p>The role of DOI metadata in enhancing the visibility and accessibility of digital resources is vital. This experience has provided the National Library with a clearer strategic roadmap for establishing a DOI Center dedicated to rare materials and digital ancient manuscripts. This initiative aims to broaden the reach of these invaluable heritage resources, ensuring they are easily discoverable and accessible to a global audience.</p>
+        </blockquote>
+        <p><cite>&ndash; Ms. Bubphar Chuchat, Director of the National Library of Thailand</cite></p>
+        </div>
+        <p>Wrapping up our visit, we left the National Library of Thailand feeling inspired. The team’s passion for preserving rare manuscripts while embracing digital tools shows how heritage and innovation can go hand in hand. It was a reminder that stewardship isn’t only about looking after the past; it’s about making sure knowledge and culture continue to thrive for the future.</p>]]>
+      </description>
+      <source:markdown>Each organization in the global community of Crossref members (that’s currently over 24k organizations in 166 different countries) plays a key role in building the Research Nexus. Any opportunity we have to meet with our members in person is a highlight and a way for us to learn more from each other. The month of January saw three of us travel to Bangkok to attend the first-ever Charleston Conference organised in Asia and to meet with our growing community in Thailand.
+
+The Charleston Conference is a meeting for librarians and publishers that is held annually in the USA. This year, [the conference](https://www.charleston-hub.com/charleston-conference-asia/) was held for the first time in Asia, and attending the event allowed us to connect with the library publishing community from the region and others, who had travelled from around the world to meet in picturesque Bangkok. Half of Crossref members are now based in Asia, so visiting Thailand gave us a great opportunity to meet members and colleagues from the continent in person.
+
+At the conference, Robbykha moderated a panel discussion on “the importance of metadata for Asian scholarship”, capturing voices from across Asia on how open metadata is being used for discoverability, integrity, and assessment by different scholarly communities in the region.
+
+Our visit to Bangkok culminated with a one-day Crossref Bangkok event that we had organised to meet with Crossref members in Thailand. We were also able to visit The Thailand National Library, who are the Thai ISSN Centre and stewards of so much of Thailand’s cultural heritage.
+
+We were very grateful to our colleagues in Thailand for their warm welcome, particularly during the official mourning period for Her Majesty Queen Sirikit The Queen Mother.
+
+![The photo on the left is of Crossref staff and speakers of the panel discussion moderated by Robbykha at Charleston Asia. The photo on the right is of attendees of Crossref Bangkok event sitting in a banquet style set-up.](https://www.crossref.org/images/blog/2026/Bangkok-members-discussing-challenges-and-opportunities-for-Thai-scholarship.JPG)
+
+_Left hand photo: Madhura Amdekar (Crossref), Guo Xiaofeng (Crossref Ambassador and Crossref sponsors Sin-Chn Scientific Press Pte. Ltd (Singapore)), Robbykha Rosalien (Crossref), Mochammad Tanzil Multazam (Crossref sponsors Relawan Jurnal Indonesia), Prof. Dr. Namtip Wipawin (Sukhothai Thammathirat Open University and Crossref sponsors National Research Council of Thailand), Amanda Bartell (Crossref). Right hand photo: Members discussing challenges and opportunities for Thai scholarship._
+
+## Charleston Asia conference - a reminder of the importance of infrastructure
+
+The three-day Charleston Asia conference gave us a great opportunity to meet with members and colleagues based in Asia, and hear about areas of focus and concern. It was refreshing to hear about the global challenges of access to knowledge, AI, and preserving research integrity, within the context of Asia’s institutional, linguistic, and economic environment. And it was wonderful to hear about so many projects (many at national level) integrating Crossref data to lead their strategies and even shape policy decisions.
+
+Three inspiring keynotes covered many of the challenges of scholarship in Asia, covering local, national, and regional approaches.
+
+Distinguished Professor Joyashree Roy (Asian Institute of Technology) presented her work on the Intergovernmental Panel on Climate Change at the United Nations. She highlighted how those in Asia are the most likely to be impacted by climate change, but underrepresented in the research due to structural, linguistic, and financial barriers. She explained how publishers and librarians can remove some of these barriers.
+
+Professor Devika Madalli (Director of INFLIBNET Centre) talked about the various services that her team has created at a national level in India to reduce country and institution-wide inequalities. INFLIBNET subscribes to Crossref’s Metadata Plus service, and it’s great to see our community’s metadata being part of such useful services.
+
+Professor Bin Zhang (Library Director, Renmin University of China) talked about the challenges of access to scholarship across different regions in China, and how investment in infrastructure is making a difference here.
+
+There were many other fascinating sessions during the three days, including our panel discussion, moderated by Robbykha Rosalien.
+
+### The importance of metadata for Asian scholarship - our panel at Charleston Asia
+
+Metadata isn’t just a technical detail—it’s the backbone of discoverability, credibility, trust, and impact in scholarly communication. In our panel session, we explored metadata trends across Asia and discussed how open metadata is shaping research visibility, integrity, and assessment in the region.
+Our panel brought together diverse voices: Mochammad Tanzil Multazam from Relawan Jurnal Indonesia, Ms. Guo Xiaofeng, Crossref Ambassador in Asia and Director at Sin-Chn Scientific Press (Singapore), and Prof. Dr. Namtip Wipawin from the Department of Information Science, School of Liberal Arts, Sukhothai Thammathirat Open University in Thailand. Each shared experiences of challenges and solutions in adopting open metadata practices and leveraging metadata effectively.
+
+![Ms. Guo Xiaofeng, Prof. Dr. Namtip Wipawin, and Mochammad Tanzil Multazam on the stage during their panel session](https://www.crossref.org/images/blog/2026/Bangkok-panel-session.jpg)
+
+_Photo: panel session - Ms. Guo Xiaofeng, Prof. Dr. Namtip Wipawin, Mochammad Tanzil Multazam_
+
+The session opened with Robbykha presenting a striking graph: Crossref now has more than 14,000 members from Asia, representing over half of its global membership. As of January 19th, 2026, there are 13.8 million registered DOI records from Asia. Indonesia leads with 3.02 million registered DOIs, followed by Japan with 2.73 million, India with 2.52 million, South Korea with 1.28 million, and Türkiye rounding out the top five with 793,198. These numbers highlight Asia’s growing role in global scholarly communication.
+
+![Robbykha presenting a slide to the audience that shows Asian metadata coverage in numbers](https://www.crossref.org/images/blog/2026/Bangkok-Robbykha-presenting-the-Asian-metadata-coverage-from-Crossref-data.JPG)
+
+_Photo: Robbykha presenting the Asian metadata coverage from Crossref data_
+
+Mochammad Tanzil Multazam shared how government support for persistent identifiers and metadata in Indonesia has fueled one of the largest and fastest‑growing open‑access journal ecosystems worldwide. Of 27,807 national journals, nearly half already register DOIs and metadata records ( [SINTA](https://sinta.kemdiktisaintek.go.id/), 13 January 2026). Prof. Dr. Namtip Wipawin provided an overview of the metadata landscape in Thai academia, highlighting both progress and ongoing challenges. Meanwhile, Ms. Guo Xiaofeng presented a case study on open metadata utilization across Asia, showing practical examples of how metadata strengthens discoverability and trust.
+
+Participants emphasized the importance of metadata for Asian scholarship: enhancing discoverability, accessibility, and providing rich, accurate data. Yet challenges remain. One of the most pressing issues is multilingual content, and the best way to reflect this in the metadata. For our current advice on multilingual metadata, take a look at [our documentation](https://www.crossref.org/documentation/principles-practices/best-practices/multi-language/) and this interesting [discussion on our forum](https://community.crossref.org/t/multi-language-support/3054). Our [Metadata Advisory Group](https://www.crossref.org/working-groups/metadata-advisory/) currently has a working group of members and metadata users discussing this further, to help ensure our future schema updates help to accurately reflect multilingual metadata.
+
+![A slide that shows the question “What are the key challenges to adoption of rich metadata in your country/institution” and a word cloud of answers from the panel audience](https://www.crossref.org/images/blog/2026/Bangkok-poll-results.jpg)
+
+_Poll results from the panel audience on key challenges to the adoption of rich metadata_
+
+## Crossref Bangkok - a reminder of the importance of visibility
+
+The day after the Charleston Asia conference, around 75 attendees joined us for our Crossref Bangkok event. The event reinforced how valuable opportunities to interact directly with our members are for learning about the challenges that they face in scholarly publishing and to explore together how those can be overcome. We were supported during the event by our ambassadors Guo Xiaofeng, Amber Osman and Prof. MI Subhani, and by Prof. Dr. Namtip Wipawin and her team, who lead the sponsor organization from National Research Council of Thailand. We were also grateful to Mark Husskison from PKP for attending and helping attendees with some of their knottier OJS questions.
+
+Most of the event attendees were from universities, which are our existing members in Thailand, and we were also joined by a team from the National Library of Thailand.
+
+![A group photo of participants at the Crossref Bangkok event](https://www.crossref.org/images/blog/2026/Bangkok-Crossref-Bangkok-group-photo.jpg)
+
+_Photo: Participants from across Thailand’s research and publishing landscape_
+
+We started the day by hearing more about who was in attendance, where they had travelled from, and what they hoped to get out of the day. We moved on to an introduction to Crossref and DOI metadata records, which provided a refresher on the benefits and obligations of Crossref membership and highlighted the importance of rich metadata for discoverability and research integrity. Next up, we split up into small groups to discuss and share the challenges and opportunities in scholarly publishing in Thailand. From across the discussion groups, there was one word that kept coming up again and again: visibility. Attendees shared how visibility is both a challenge and an opportunity. They appreciate that registering rich metadata records with Crossref - which are then shared with the global scholarly ecosystem - provides them with a way to make their content more visible, but agreed that this isn’t without challenges. Attendees welcomed the in-person meeting, and asked for more training and support from Crossref, particularly in registering content. (We shared details of our regular [“Getting Started at Crossref”](https://www.crossref.org/events/_getting-started-at-crossref) webinars for new members, and our regular [“Metadata Health Checks”](https://www.crossref.org/events/metadata-health-check-webinars) for longer term members, and we’ll be thinking about how to support members in Asia with more training).
+
+During the afternoon, we heard more from Prof. Dr. Namtip Wipawin on the importance of metadata for raising the visibility of Thai research. We then ran a practical session, explaining how to add (and update) metadata records for those using our [new Metadata Manager](https://www.crossref.org/documentation/register-maintain-records/metadata-manager/), and those using the [OJS platform](https://www.crossref.org/documentation/register-maintain-records/ojs-plugin/). These were followed by a practical session, with participants exploring their own [Participation Reports](https://www.crossref.org/members/prep/), and discussing how to fill in any gaps in their metadata. The new CSV download for metadata gaps was particularly useful. It was great to support members in adding in their missing references through the OJS platform live, by properly activating the [OJS references plugin](https://www.crossref.org/documentation/register-maintain-records/ojs-plugin/ojs-3.4/#00164).
+
+&#62; Attending the Crossref Bangkok Workshop made it clear that being a part of Crossref goes far beyond simply assigning DOIs, it is about contributing to a global research community. The sessions highlighted how rich metadata, such as references, abstracts, ORCID iDs, and funding information, play a vital role in making Thai research more visible and accessible worldwide. There was also a strong emphasis on the importance of English metadata and standard identifiers in overcoming language and name-related challenges. Overall, the workshop showed how high-quality metadata can help bring Thai research onto the global stage and strengthen its international recognition.
+
+– Prof. Dr. Namtip Wipawin on behalf of the National Research Council of Thailand.
+
+## Visiting the National Library of Thailand - a reminder of the importance of stewardship
+
+![A group photograph of Crossref staff and members of the National Library of Thailand team at the National Library of Thailand](https://www.crossref.org/images/blog/2026/Bangkok-warm-welcome-from-National-Library-of-Thailand.jpg)
+
+_The warm welcome from National Library of Thailand team: Ms. Thanachcha Suwannavach (Librarian, Practitioner Level), Ms. Thitima Kumkhun (Librarian, Professional Level), Ms. Linda Puechsee (Librarian, Professional Level), Madhura Amdekar (Crossref), Robbykha Rosalien (Crossref), Amanda Bartell (Crossref), Ms. Bubphar Chuchat (Director of the National Library of Thailand), Dr. Prasittichai Lertratanakehakarn (Director of Information Resources Service Group), Ms. Rawiwan Putsorn (Director of Library Research and Development Group), Mrs. Atchara Jaruwan (Director of Information Resources Development Group), Mr. Jung Dippracone (Director of Manuscripts and Inscriptions Group), and Ms. Samachaya Dadrung (Librarian, Professional Level)_
+
+On our final day in Bangkok, we were lucky enough to visit with the team at the National Library of Thailand. They have a key role to play in scholarly publishing in Thailand as they run the National ISSN Centre. They are also stewards of much of Thailand’s cultural heritage, and we were honoured to view some of the artifacts that they look after.
+
+![Staff of the National Library of Thailand pointing at a screen to show the digitization efforts at the National Library of Thailand](https://www.crossref.org/images/blog/2026/Bangkok-staff-showcasing-digitization-efforts-at-National-Library-of-Thailand.jpg)
+
+_Staff showcasing the digitization efforts at the National Library of Thailand — preserving knowledge and making it accessible for the future._
+
+&#62; The role of DOI metadata in enhancing the visibility and accessibility of digital resources is vital. This experience has provided the National Library with a clearer strategic roadmap for establishing a DOI Center dedicated to rare materials and digital ancient manuscripts. This initiative aims to broaden the reach of these invaluable heritage resources, ensuring they are easily discoverable and accessible to a global audience.
+
+– Ms. Bubphar Chuchat, Director of the National Library of Thailand
+
+Wrapping up our visit, we left the National Library of Thailand feeling inspired. The team’s passion for preserving rare manuscripts while embracing digital tools shows how heritage and innovation can go hand in hand. It was a reminder that stewardship isn’t only about looking after the past; it’s about making sure knowledge and culture continue to thrive for the future.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/reflections-from-bangkok/</guid>
+    </item>    <item>
       <title>Openly Licensed Works: CommonsDB Surpasses One Million Declarations</title>
       <link>https://www.infodocket.com/2026/03/31/openly-licensed-works-commonsdb-surpasses-one-million-declarations/</link>
       <description>
@@ -96,7 +315,7 @@ The post [Openly Licensed Works: CommonsDB Surpasses One Million Declarations](h
         <![CDATA[A human from the very distant future relates the whole history of mankind to a modern-day human.]]>
       </description>
       <source:markdown>A human from the very distant future relates the whole history of mankind to a modern-day human.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men/downloads/olaf-stapledon_last-and-first-men.epub?source=feed" length="636454" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men/downloads/olaf-stapledon_last-and-first-men.epub?source=feed" length="636476" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men</guid>
     </item>    <item>
       <title>Scaling Up Academic Open Source Program Offices</title>
@@ -467,10 +686,10 @@ The second Crossref Metadata Sprint in a nutshell</source:markdown>
       <title>ARL Daily Intelligence (March 30–April 2)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-march-30-april-2/</link>
       <description>
-        <![CDATA[<p>Last Updated on April 1, 2026, 12:34 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on April 2, 2026, 12:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-march-30-april-2/">ARL Daily Intelligence (March 30–April 2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on April 1, 2026, 12:34 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on April 2, 2026, 12:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (March 30–April 2)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-march-30-april-2/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=47950</guid>
@@ -955,10 +1174,10 @@ The post [Journal Article: “Evaluating Open Access Advantages for Citations an
       <title>Celebrating Women’s History Month 2026 in ARL Libraries</title>
       <link>https://www.arl.org/blog/celebrating-womens-history-month-2026-in-arl-libraries/</link>
       <description>
-        <![CDATA[<p>Last Updated on March 23, 2026, 1:23 pm ET Join ARL and our member libraries in celebrating women’s history during the month of March. Below is a roundup of events,...</p>
+        <![CDATA[<p>Last Updated on April 2, 2026, 3:47 pm ET Join ARL and our member libraries in celebrating women’s history during the month of March. Below is a roundup of events,...</p>
         <p>The post <a href="https://www.arl.org/blog/celebrating-womens-history-month-2026-in-arl-libraries/">Celebrating Women’s History Month 2026 in ARL Libraries</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on March 23, 2026, 1:23 pm ET Join ARL and our member libraries in celebrating women’s history during the month of March. Below is a roundup of events,...
+      <source:markdown>Last Updated on April 2, 2026, 3:47 pm ET Join ARL and our member libraries in celebrating women’s history during the month of March. Below is a roundup of events,...
 
 The post [Celebrating Women’s History Month 2026 in ARL Libraries](https://www.arl.org/blog/celebrating-womens-history-month-2026-in-arl-libraries/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=47840</guid>
@@ -1639,180 +1858,6 @@ The post [SSP’s Early Career Development Podcast Episode 23: Interview with SS
 
 The post [Conference Report: OA Publishing Negotiations &#38; Agreements Community Connection Roundtable](https://electroniclibrarian.org/conference-report-community-connection-roundtable-on-oa-publishing-negotiations-agreements/) first appeared on [Electronic Resources and Libraries](https://electroniclibrarian.org).</source:markdown>
       <guid>cid://https://electroniclibrarian.org/?p=31757</guid>
-    </item>    <item>
-      <title>Mary Olivier: A Life, by May Sinclair</title>
-      <link>https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life</link>
-      <description>
-        <![CDATA[A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.]]>
-      </description>
-      <source:markdown>A gifted young woman born into a strict upper middle class Victorian family struggles for decades to balance duty to her controlling mother with a driving need to learn and to create her art.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life/downloads/may-sinclair_mary-olivier-a-life.epub?source=feed" length="515005" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/may-sinclair/mary-olivier-a-life</guid>
-    </item>    <item>
-      <title>The Documents in the Case, by Dorothy L. Sayers and Robert Eustace</title>
-      <link>https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case</link>
-      <description>
-        <![CDATA[A man’s apparently accidental death soon arouses suspicions.]]>
-      </description>
-      <source:markdown>A man’s apparently accidental death soon arouses suspicions.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case/downloads/dorothy-l-sayers-robert-eustace_the-documents-in-the-case.epub?source=feed" length="574228" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case</guid>
-    </item>    <item>
-      <title>María, by Jorge Isaacs</title>
-      <link>https://standardebooks.org/ebooks/jorge-isaacs/maria/rollo-ogden</link>
-      <description>
-        <![CDATA[A young man and his distant cousin, who suffers from a mysterious affliction, fall in love in the idyllic Colombian countryside.]]>
-      </description>
-      <source:markdown>A young man and his distant cousin, who suffers from a mysterious affliction, fall in love in the idyllic Colombian countryside.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/jorge-isaacs/maria/rollo-ogden/downloads/jorge-isaacs_maria_rollo-ogden.epub?source=feed" length="705350" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/jorge-isaacs/maria/rollo-ogden</guid>
-    </item>    <item>
-      <title>The Princess and Curdie, by George MacDonald</title>
-      <link>https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie</link>
-      <description>
-        <![CDATA[A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.]]>
-      </description>
-      <source:markdown>A young miner accepts a mysterious commission that will test his faithfulness and restore justice to a faltering kingdom.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie/downloads/george-macdonald_the-princess-and-curdie.epub?source=feed" length="635639" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/george-macdonald/the-princess-and-curdie</guid>
-    </item>    <item>
-      <title>Aligning State Dollars with Workforce Opportunity</title>
-      <link>https://sr.ithaka.org/blog/aligning-state-dollars-with-workforce-opportunity/</link>
-      <description>
-        <![CDATA[<p>Much of the policy conversation about postsecondary-workforce alignment has focused on appropriations: how should state dollars be distributed across institutions, and can performance-based funding models incentivize credential production in priority fields? But state agencies also control a second major lever: student financial aid. Unlike appropriations, financial aid—and especially targeted aid—can influence students’ enrollment and program choices at the outset.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/aligning-state-dollars-with-workforce-opportunity/">Aligning State Dollars with Workforce Opportunity</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Much of the policy conversation about postsecondary-workforce alignment has focused on appropriations: how should state dollars be distributed across institutions, and can performance-based funding models incentivize credential production in priority fields? But state agencies also control a second major lever: student financial aid. Unlike appropriations, financial aid—and especially targeted aid—can influence students’ enrollment and program choices at the outset.
-
-The post [Aligning State Dollars with Workforce Opportunity](https://sr.ithaka.org/blog/aligning-state-dollars-with-workforce-opportunity/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325134</guid>
-    </item>    <item>
-      <title>Celebrating Seven Years of By the People</title>
-      <link>https://blogs.loc.gov/thesignal/2026/03/by-the-people-turns-7/</link>
-      <description>
-        <![CDATA[The ‘By the People’ crowdsourced transcription program recently turned 7. We’re celebrating this anniversary by marking another major occasion: our volunteers have officially completed over one million transcriptions! Click through to learn more about what the program has planned as we enter another exciting year.]]>
-      </description>
-      <source:markdown>The ‘By the People’ crowdsourced transcription program recently turned 7. We’re celebrating this anniversary by marking another major occasion: our volunteers have officially completed over one million transcriptions! Click through to learn more about what the program has planned as we enter another exciting year.</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=36975</guid>
-    </item>    <item>
-      <title>Guest Post — Gen Z and Academic Libraries: Reading, but Differently</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/03/12/guest-post-gen-z-and-academic-libraries-reading-but-differently/</link>
-      <description>
-        <![CDATA[<p>Today's guest blogger asks: How much do we read today? How do reading habits vary across generations? What should libraries and publishers do to encourage reading?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/03/12/guest-post-gen-z-and-academic-libraries-reading-but-differently/">Guest Post — Gen Z and Academic Libraries: Reading, but Differently</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest blogger asks: How much do we read today? How do reading habits vary across generations? What should libraries and publishers do to encourage reading?
-
-The post [Guest Post — Gen Z and Academic Libraries: Reading, but Differently](https://scholarlykitchen.sspnet.org/2026/03/12/guest-post-gen-z-and-academic-libraries-reading-but-differently/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61698</guid>
-    </item>    <item>
-      <title>The Varieties of Religious Experience, by William James</title>
-      <link>https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience</link>
-      <description>
-        <![CDATA[A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.]]>
-      </description>
-      <source:markdown>A philospher and psychologist surveys direct religious experiences, including healthy-mindedness, saintliness, conversion and mysticism.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience/downloads/william-james_the-varieties-of-religious-experience.epub?source=feed" length="876986" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/william-james/the-varieties-of-religious-experience</guid>
-    </item>    <item>
-      <title>Renewed partnership: DOAJ and Crossref focus on equitable scholarly metadata and global support</title>
-      <link>https://www.crossref.org/blog/renewed-partnership-doaj-and-crossref-focus-on-equitable-scholarly-metadata-and-global-support/</link>
-      <description>
-        <![CDATA[<p>We have <a href="https://www.crossref.org/pdfs/2026-03-12-Cooperation-agreement-2026-CROSSREF-DOAJFoundation-signed.pdf">renewed our partnership with DOAJ</a> to focus on a new set of objectives that reflect both organisations&rsquo; commitment to improving sustainable and equitable services and infrastructure. This renewed collaboration focuses on improving the quality of scholarly metadata while expanding support for journals in low- and middle income- countries.</p>
-        <p>We have worked together since 2021, primarily to encourage the dissemination and use of scholarly research using online technologies, and regional and international networks, partners and communities. This partnership has helped to build local institutional capacity and sustainability within the global scholarly communication ecosystem. A continued partnership also reflects that we have a shared community; currently almost 90% of DOAJ journals are represented in Crossref.</p>
-        <p><strong>Our renewed collaboration will support:</strong></p>
-        <p><strong>Article Metadata Enhancements:</strong> DOAJ will improve the ingestion, processing, storage, and display of article-level metadata. Improvements include:</p>
-        <ul>
-        <li>Author affiliations and persistent identifiers</li>
-        <li>Open references</li>
-        <li>Expanded metadata harvesting</li>
-        </ul>
-        <p>These enhancements are expected to benefit both direct users of DOAJ and downstream
-        discovery, aggregation, and research analytics services that rely on DOAJ metadata.</p>
-        <p><strong>Ambassador Programme:</strong> Our collaboration with DOAJ will support the continued development of DOAJ’s Ambassador programme. This global network of ambassadors primarily based in low- and middle-income countries:</p>
-        <ul>
-        <li>Support journal editors in understanding and applying good practices in open access
-        publishing</li>
-        <li>Organise and deliver workshops, webinars, and local events</li>
-        <li>Collaborate with regional partners and policymakers</li>
-        <li>Raise awareness of DOAJ and publishing standards within local scholarly
-        communities</li>
-        </ul>
-        <p>Crossref’s contribution will support ambassador travel and the organisation of workshops and events.</p>
-        <div class="quotecite">
-        <blockquote>
-        <p>We value our longstanding collaboration with Crossref. As fellow open scholarly infrastructures, we share a commitment to strengthening the systems that support trusted, global research discovery. This new partnership enables DOAJ to move forward with important work around interoperability. Improving how infrastructures connect and exchange information is a priority for us, and this support helps ensure we can continue to serve the community in line with the Principles of Open Scholarly Infrastructure—with openness, collaboration, and long-term sustainability at the centre.</p>
-        </blockquote>
-        <p><cite>&ndash; Joanna Ball, Managing Director of DOAJ</cite></p>
-        </div>
-        <div class="quotecite">
-        <blockquote>
-        <p>The collaborations with DOAJ so far only reaffirmed our shared goal to help make the global scholarly communications system more equitable wherever we can. Our joint projects aim to seek out and devise support for resource-constrained journals in multiple ways. DOAJ’s work is essential in helping journals to adopt good practice, while Crossref offers an open infrastructure to ensure all journals can be included and discoverable in the global scholarly record.</p>
-        </blockquote>
-        <p><cite>&ndash; Ginny Hendricks, Chief Program Officer at Crossref</cite></p>
-        </div>
-        <h3 id="about-doaj">About DOAJ</h3>
-        <p>DOAJ is a community-curated online directory that indexes and provides access to high quality, open access, peer reviewed journals. DOAJ deploys around one hundred carefully selected volunteers from the community of library and other academic disciplines to assist in curating open access journals. This independent database contains over 20,400 peer-reviewed open access journals covering all areas of science, technology, medicine, social sciences, arts and humanities. DOAJ is financially supported worldwide by libraries, publishers and other like-minded organizations. DOAJ services (including the evaluation of journals) are free for all, and all data provided by DOAJ are harvestable via OAI/PMH and the API. See <a href="https://doaj.org/" target="_blank">https://doaj.org/</a> for more information.</p>
-        <p><strong>Contact:</strong>
-        DOAJ - Joanna Ball, Managing Director - <a href="mailto:joanna@doaj.org">joanna@doaj.org</a>.</p>
-        <h3 id="about-crossref">About Crossref</h3>
-        <p>Crossref is a non-profit organisation that runs an open infrastructure to link research objects, entities, and actions, creating a lasting and reusable scholarly record that underpins open science. Together with their 24,000 members in 166 countries, Crossref drives metadata exchange and supports nearly 2 billion monthly API queries, facilitating global research communication, for the benefit of society.</p>
-        <p><strong>Contact:</strong>
-        Crossref - Kora Korzec, Director of Community – <a href="mailto:kkorzec@crossref.org">kkorzec@crossref.org</a>.</p>
-        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/crossref-doaj-partnership.svg"
-        alt="doaj 2026 partnership renewed" width="75%">
-        </figure>]]>
-      </description>
-      <source:markdown>We have [renewed our partnership with DOAJ](https://www.crossref.org/pdfs/2026-03-12-Cooperation-agreement-2026-CROSSREF-DOAJFoundation-signed.pdf) to focus on a new set of objectives that reflect both organisations’ commitment to improving sustainable and equitable services and infrastructure. This renewed collaboration focuses on improving the quality of scholarly metadata while expanding support for journals in low- and middle income- countries.
-
-We have worked together since 2021, primarily to encourage the dissemination and use of scholarly research using online technologies, and regional and international networks, partners and communities. This partnership has helped to build local institutional capacity and sustainability within the global scholarly communication ecosystem. A continued partnership also reflects that we have a shared community; currently almost 90% of DOAJ journals are represented in Crossref.
-
-**Our renewed collaboration will support:**
-
-**Article Metadata Enhancements:** DOAJ will improve the ingestion, processing, storage, and display of article-level metadata. Improvements include:
-
-- Author affiliations and persistent identifiers
-- Open references
-- Expanded metadata harvesting
-
-These enhancements are expected to benefit both direct users of DOAJ and downstream
-discovery, aggregation, and research analytics services that rely on DOAJ metadata.
-
-**Ambassador Programme:** Our collaboration with DOAJ will support the continued development of DOAJ’s Ambassador programme. This global network of ambassadors primarily based in low- and middle-income countries:
-
-- Support journal editors in understanding and applying good practices in open access
-  publishing
-- Organise and deliver workshops, webinars, and local events
-- Collaborate with regional partners and policymakers
-- Raise awareness of DOAJ and publishing standards within local scholarly
-  communities
-
-Crossref’s contribution will support ambassador travel and the organisation of workshops and events.
-
-&#62; We value our longstanding collaboration with Crossref. As fellow open scholarly infrastructures, we share a commitment to strengthening the systems that support trusted, global research discovery. This new partnership enables DOAJ to move forward with important work around interoperability. Improving how infrastructures connect and exchange information is a priority for us, and this support helps ensure we can continue to serve the community in line with the Principles of Open Scholarly Infrastructure—with openness, collaboration, and long-term sustainability at the centre.
-
-– Joanna Ball, Managing Director of DOAJ
-
-&#62; The collaborations with DOAJ so far only reaffirmed our shared goal to help make the global scholarly communications system more equitable wherever we can. Our joint projects aim to seek out and devise support for resource-constrained journals in multiple ways. DOAJ’s work is essential in helping journals to adopt good practice, while Crossref offers an open infrastructure to ensure all journals can be included and discoverable in the global scholarly record.
-
-– Ginny Hendricks, Chief Program Officer at Crossref
-
-### About DOAJ
-
-DOAJ is a community-curated online directory that indexes and provides access to high quality, open access, peer reviewed journals. DOAJ deploys around one hundred carefully selected volunteers from the community of library and other academic disciplines to assist in curating open access journals. This independent database contains over 20,400 peer-reviewed open access journals covering all areas of science, technology, medicine, social sciences, arts and humanities. DOAJ is financially supported worldwide by libraries, publishers and other like-minded organizations. DOAJ services (including the evaluation of journals) are free for all, and all data provided by DOAJ are harvestable via OAI/PMH and the API. See [https://doaj.org/](https://doaj.org/) for more information.
-
-**Contact:**
-DOAJ - Joanna Ball, Managing Director - [joanna@doaj.org](mailto:joanna@doaj.org).
-
-### About Crossref
-
-Crossref is a non-profit organisation that runs an open infrastructure to link research objects, entities, and actions, creating a lasting and reusable scholarly record that underpins open science. Together with their 24,000 members in 166 countries, Crossref drives metadata exchange and supports nearly 2 billion monthly API queries, facilitating global research communication, for the benefit of society.
-
-**Contact:**
-Crossref - Kora Korzec, Director of Community – [kkorzec@crossref.org](mailto:kkorzec@crossref.org).
-
-![doaj 2026 partnership renewed](https://www.crossref.org/images/blog/2026/crossref-doaj-partnership.svg)</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/renewed-partnership-doaj-and-crossref-focus-on-equitable-scholarly-metadata-and-global-support/</guid>
     </item>
   </channel>
 </rss>
