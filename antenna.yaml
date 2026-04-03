@@ -131,15 +131,6 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: pages.db
-    - title: Comics, Graphic Novels and serials
-      link: comics.xml
-      description: Commics and Graphic Novel sites on the web.
-      file: comics.md
-      generator: home_page.yaml
-      filters:
-        - UPDATE items SET status = 'review';
-        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
-      dbName: comics.db
     - title: sacbee.md
       link: sacbee.xml
       file: sacbee.md

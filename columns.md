@@ -401,4 +401,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Daniel Barkhuff, Substack](https://dbarkhuff.substack.com/feed)
 - [John Osterhout](http://johnosterhout.com/feed/)
 - [Thereallo Blog](https://blog.thereallo.dev/rss.xml)
-
+- [Linix Weekly News](https://lwn.net/headlines/rss)
