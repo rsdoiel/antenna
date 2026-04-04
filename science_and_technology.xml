@@ -4,10 +4,281 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>02 Apr 26 18:22 -0700</lastBuildDate>
+    <lastBuildDate>04 Apr 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/04/all_things_ai_conference/</link>
+      <description>
+        <![CDATA[<h4>Agents to check the work of the agents</h4> <p><strong>All Things AI</strong>  AI is easy to use, but not quite as easy as just barking &#34;Alexa! Make me an e-commerce site.&#34; And, no, adding &#34;DON&#39;T HALLUCINATE&#34; to the instruction loop won&#39;t help.…</p>]]>
+      </description>
+      <source:markdown>#### Agents to check the work of the agents
+
+**All Things AI**  AI is easy to use, but not quite as easy as just barking &#34;Alexa! Make me an e-commerce site.&#34; And, no, adding &#34;DON&#39;T HALLUCINATE&#34; to the instruction loop won&#39;t help.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245428</guid>
+    </item>    <item>
+      <title>Ex-Microsoft engineer believes Azure problems stem from talent exodus</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/04/azure_talent_exodus/</link>
+      <description>
+        <![CDATA[<h4>The cloud service&#39;s woes reflect a crisis made worse by AI – under-investment in people</h4> <p>In 2024, federal cybersecurity evaluators reportedly dismissed Microsoft 365 Government Community Cloud High (GCC High) as garbage, although they used a more colorful term. To understand why, it helps to consider the history of the underlying Azure infrastructure.…</p>]]>
+      </description>
+      <source:markdown>#### The cloud service&#39;s woes reflect a crisis made worse by AI – under-investment in people
+
+In 2024, federal cybersecurity evaluators reportedly dismissed Microsoft 365 Government Community Cloud High (GCC High) as garbage, although they used a more colorful term. To understand why, it helps to consider the history of the underlying Azure infrastructure.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245450</guid>
+    </item>    <item>
+      <title>PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/04/prismml_1bit_llm/</link>
+      <description>
+        <![CDATA[<h4>Bonasi 8B model is competitive with other 8B models but 14x smaller and 5x more energy efficient</h4> <p>PrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI efficiency and viability on mobile devices, among other applications.…</p>]]>
+      </description>
+      <source:markdown>#### Bonasi 8B model is competitive with other 8B models but 14x smaller and 5x more energy efficient
+
+PrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI efficiency and viability on mobile devices, among other applications.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245426</guid>
+    </item>    <item>
+      <title>TinyOS: ultra-lightweight RTOS for IoT devices</title>
+      <link>https://www.osnews.com/story/144735/tinyos-ultra-lightweight-rtos-for-iot-devices/</link>
+      <description>
+        <![CDATA[An ultra-lightweight real-time operating system for resource-constrained IoT and embedded devices. Kernel footprint under 10 KB, 2 KB minimum RAM, preemptive priority-based scheduling. ↫ TinyOS GitHub page Written in C, open source, and supports ARM and RISC-V.]]>
+      </description>
+      <source:markdown>An ultra-lightweight real-time operating system for resource-constrained IoT and embedded devices. Kernel footprint under 10 KB, 2 KB minimum RAM, preemptive priority-based scheduling. ↫ TinyOS GitHub page Written in C, open source, and supports ARM and RISC-V.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144735</guid>
+    </item>    <item>
+      <title>Redox gets new CPU scheduler</title>
+      <link>https://www.osnews.com/story/144733/redox-gets-new-cpu-scheduler/</link>
+      <description>
+        <![CDATA[Another major improvement in Redox: a brand new scheduler which improves performance under load considerably. We have replaced the legacy Round Robin scheduler with a Deficit Weighted Round Robin scheduler. Due to this, we finally have a way of assigning different priorities to our Process contexts. When running under light load, you may not notice any difference, but under heavy load the new scheduler outperforms the old one (eg. ~150 FPS gain in the pixelcannon 3D Redox demo, and ~1.5x gain in operations/sec for CPU bound tasks and a similar improvement in responsiveness too (measured through schedrs)). ↫ Akshit Gaur Work is far from over in this area, as they&#8217;re now moving on to &#8220;replacing the static queue logic with the dynamic lag-calculations of full EEVDF&#8220;.]]>
+      </description>
+      <source:markdown>Another major improvement in Redox: a brand new scheduler which improves performance under load considerably. We have replaced the legacy Round Robin scheduler with a Deficit Weighted Round Robin scheduler. Due to this, we finally have a way of assigning different priorities to our Process contexts. When running under light load, you may not notice any difference, but under heavy load the new scheduler outperforms the old one (eg. ~150 FPS gain in the pixelcannon 3D Redox demo, and ~1.5x gain in operations/sec for CPU bound tasks and a similar improvement in responsiveness too (measured through schedrs)). ↫ Akshit Gaur Work is far from over in this area, as they’re now moving on to “replacing the static queue logic with the dynamic lag-calculations of full EEVDF“.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144733</guid>
+    </item>    <item>
+      <title>Open source office suites erupt in forking and licensing drama</title>
+      <link>https://www.osnews.com/story/144731/open-source-office-suites-erupt-in-forking-and-licensing-drama/</link>
+      <description>
+        <![CDATA[You&#8217;d think if there was one corner of the open source world where you wouldn&#8217;t find drama it&#8217;d be open source office suites, but it turns out we could not have been more wrong. First, there&#8217;s The Document Foundation, stewards of LibreOffice, ejecting a ton of LibreOffice contributors. In the ongoing saga of The Document Foundation (TDF), their Membership Committee has decided to eject from membership all Collabora staff and partners. That includes over thirty people who have contributed faithfully to LibreOffice for many years. It is interesting to see a formal meritocracy eject so many, based on unproven legal concerns and guilt by association. This includes seven of the top ten core committers of all time (excluding release engineers) currently working for Collabora Productivity. The move is the culmination of TDF losing a large number of founders from membership over the last few years with: Thorsten Behrens, Jan ‘Kendy’ Holesovsky, Rene Engelhard, Caolan McNamara, Michael Meeks, Cor Nouws and Italo Vignoli no longer members. Of the remaining active founders, three of the last four are paid TDF staff (of whom none are programming on the core code). ↫ Micheal Meeks The end result seems to be that Collabora is effectively forking LibreOffice, which feels like we&#8217;re back where we were 15 years ago when LibreOffice forked from OpenOffice. There seems to be a ton of drama and infighting here that I&#8217;m not particularly interested in, but it&#8217;s sad to see such drama and infighting result in needless complications for developers, end users, and distributors alike. As if this wasn&#8217;t enough, there&#8217;s also forking drama in OnlyOffice land, the other open source office suite, licensed under the AGPL. This ope source office suite has been forked by Nextcloud and IONOS into Euro-Office, in pursuit of digital sovereignty in the EU. It&#8217;s also not an entirely unimportant detail that OnlyOffice is Russian, with most of its developers residing in Russia. Anyway, the OnlyOffice team has not taken this in stride, claiming there&#8217;s a violation of the AGPL license going on here, specifically because OnlyOffice adds contradictory attribution terms to the AGPL. It&#8217;s a complicated story, but it does seem most experts in this area seem to disagree with OnlyOffice&#8217;s interpretation. We&#8217;re in for another messy time.]]>
+      </description>
+      <source:markdown>You’d think if there was one corner of the open source world where you wouldn’t find drama it’d be open source office suites, but it turns out we could not have been more wrong. First, there’s The Document Foundation, stewards of LibreOffice, ejecting a ton of LibreOffice contributors. In the ongoing saga of The Document Foundation (TDF), their Membership Committee has decided to eject from membership all Collabora staff and partners. That includes over thirty people who have contributed faithfully to LibreOffice for many years. It is interesting to see a formal meritocracy eject so many, based on unproven legal concerns and guilt by association. This includes seven of the top ten core committers of all time (excluding release engineers) currently working for Collabora Productivity. The move is the culmination of TDF losing a large number of founders from membership over the last few years with: Thorsten Behrens, Jan ‘Kendy’ Holesovsky, Rene Engelhard, Caolan McNamara, Michael Meeks, Cor Nouws and Italo Vignoli no longer members. Of the remaining active founders, three of the last four are paid TDF staff (of whom none are programming on the core code). ↫ Micheal Meeks The end result seems to be that Collabora is effectively forking LibreOffice, which feels like we’re back where we were 15 years ago when LibreOffice forked from OpenOffice. There seems to be a ton of drama and infighting here that I’m not particularly interested in, but it’s sad to see such drama and infighting result in needless complications for developers, end users, and distributors alike. As if this wasn’t enough, there’s also forking drama in OnlyOffice land, the other open source office suite, licensed under the AGPL. This ope source office suite has been forked by Nextcloud and IONOS into Euro-Office, in pursuit of digital sovereignty in the EU. It’s also not an entirely unimportant detail that OnlyOffice is Russian, with most of its developers residing in Russia. Anyway, the OnlyOffice team has not taken this in stride, claiming there’s a violation of the AGPL license going on here, specifically because OnlyOffice adds contradictory attribution terms to the AGPL. It’s a complicated story, but it does seem most experts in this area seem to disagree with OnlyOffice’s interpretation. We’re in for another messy time.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144731</guid>
+    </item>    <item>
+      <title>How Microsoft vaporized a trillion dollars</title>
+      <link>https://www.osnews.com/story/144729/how-microsoft-vaporized-a-trillion-dollars/</link>
+      <description>
+        <![CDATA[This is the first of a series of articles in which you will learn about what may be one of the silliest, most preventable, and most costly mishaps of the 21st century, where Microsoft all but lost OpenAI, its largest customer, and the trust of the US government. ↫ Axel Rietschin It won&#8217;t take long into this series of articles before you start wondering how anyone manages to ship anything at Microsoft. If even half of this is accurate, this company should be placed under some sort of external oversight.]]>
+      </description>
+      <source:markdown>This is the first of a series of articles in which you will learn about what may be one of the silliest, most preventable, and most costly mishaps of the 21st century, where Microsoft all but lost OpenAI, its largest customer, and the trust of the US government. ↫ Axel Rietschin It won’t take long into this series of articles before you start wondering how anyone manages to ship anything at Microsoft. If even half of this is accurate, this company should be placed under some sort of external oversight.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144729</guid>
+    </item>    <item>
+      <title>Trump wants to take a battle axe to CISA again and slash $707M from budget</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/</link>
+      <description>
+        <![CDATA[<h4>Ex-CISA official tells The Reg: &#39;this would weaken the system for managing cyber risk&#39;</h4> <p>The US Cybersecurity and Infrastructure Security Agency&#39;s budget will see yet another deep cut if Congress approves President Trump&#39;s proposal to slash CISA&#39;s spending by $707 million in fiscal year 2027.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Ex-CISA official tells The Reg: &#39;this would weaken the system for managing cyber risk&#39;
+
+The US Cybersecurity and Infrastructure Security Agency&#39;s budget will see yet another deep cut if Congress approves President Trump&#39;s proposal to slash CISA&#39;s spending by $707 million in fiscal year 2027.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245448</guid>
+    </item>    <item>
+      <title>NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/</link>
+      <description>
+        <![CDATA[NASA, Northrop Grumman, and SpaceX are targeting no earlier than 8:49 a.m. EDT on Wednesday, April 8, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space [&#8230;]]]>
+      </description>
+      <source:markdown>NASA, Northrop Grumman, and SpaceX are targeting no earlier than 8:49 a.m. EDT on Wednesday, April 8, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=980794</guid>
+    </item>    <item>
+      <title>Netflix - yes Netflix - jumps on the AI bandwagon with video editor</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/netflix_video_ai/</link>
+      <description>
+        <![CDATA[<h4>Video-language model revises how objects interact when things get removed from a scene</h4> <p>A new Netflix model promises to rewrite the way we make movies. Just imagine this. As the director of the multi-million dollar epic Car Crash III: Suddenest Impact, you&#39;ve just finished filming the finale where your star, Cruz Control, drives straight into an onrushing semi.…</p>]]>
+      </description>
+      <source:markdown>#### Video-language model revises how objects interact when things get removed from a scene
+
+A new Netflix model promises to rewrite the way we make movies. Just imagine this. As the director of the multi-million dollar epic Car Crash III: Suddenest Impact, you&#39;ve just finished filming the finale where your star, Cruz Control, drives straight into an onrushing semi.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245447</guid>
+    </item>    <item>
+      <title>Artemis Astronauts Overcome Toilet Trouble and Officially Head Toward the Moon</title>
+      <link>https://www.smithsonianmag.com/smart-news/artemis-astronauts-overcome-toilet-trouble-and-officially-head-toward-the-moon-180988483/</link>
+      <description>
+        <![CDATA[Houston, we have a potty problem]]>
+      </description>
+      <source:markdown>Houston, we have a potty problem</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hMee6_rtAXH6ruop_LCIRFN9elc=/420x240/filters:focal(1920x1179:1921x1180)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/6f/ed6f5a1d-b1c7-429d-b1d2-5b94a12426bf/3840px-artemis_ii_launch_nhq202604010307.jpg" length="1125335" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/artemis-astronauts-overcome-toilet-trouble-and-officially-head-toward-the-moon-180988483/</guid>
+    </item>    <item>
+      <title>Big-endian testing with QEMU</title>
+      <link>https://www.osnews.com/story/144727/big-endian-testing-with-qemu/</link>
+      <description>
+        <![CDATA[I assume I don&#8217;t have to explain the difference between big-endian and little-endian systems to the average OSNews reader, and while most systems are either dual-endian or (most likely) little-endian, it&#8217;s still good practice to make sure your code works on both. If you don&#8217;t have a big-endian system, though, how do you do that? When programming, it is still important to write code that runs correctly on systems with either byte order (see for example The byte order fallacy). But without access to a big-endian machine, how does one test it? QEMU provides a convenient solution. With its user mode emulation we can easily run a binary on an emulated big-endian system, and we can use GCC to cross-compile to that system. ↫ Hans Wennborg If you want to make sure your code isn&#8217;t arbitrarily restricted to little-endian, running a few tests this way is worth it.]]>
+      </description>
+      <source:markdown>I assume I don’t have to explain the difference between big-endian and little-endian systems to the average OSNews reader, and while most systems are either dual-endian or (most likely) little-endian, it’s still good practice to make sure your code works on both. If you don’t have a big-endian system, though, how do you do that? When programming, it is still important to write code that runs correctly on systems with either byte order (see for example The byte order fallacy). But without access to a big-endian machine, how does one test it? QEMU provides a convenient solution. With its user mode emulation we can easily run a binary on an emulated big-endian system, and we can use GCC to cross-compile to that system. ↫ Hans Wennborg If you want to make sure your code isn’t arbitrarily restricted to little-endian, running a few tests this way is worth it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144727</guid>
+    </item>    <item>
+      <title>Despite Their Tiny Brains, Bumblebees Have a Surprising Sense of Rhythm, According to a New Study by Neuroscientists</title>
+      <link>https://www.smithsonianmag.com/smart-news/bumble-bees-have-a-surprising-sense-of-rhythm-despite-their-tiny-brains-180988481/</link>
+      <description>
+        <![CDATA[By speeding up the tempo of alternating flashing lights, the scientists were able to demonstrate yet another example of the small insect's remarkable mind]]>
+      </description>
+      <source:markdown>By speeding up the tempo of alternating flashing lights, the scientists were able to demonstrate yet another example of the small insect&#39;s remarkable mind</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-JmbVPO0BqjS9s3XCRr9tKQALlw=/420x240/filters:focal(400x310:401x311)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/62/63623770-2418-4dae-a0f7-c9713b343cc3/32539693186_7e27b3b732_c.jpg" length="173059" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/bumble-bees-have-a-surprising-sense-of-rhythm-despite-their-tiny-brains-180988481/</guid>
+    </item>    <item>
+      <title>The World&#39;s Longest Outdoor Escalator Just Opened in China. Riding the 3,000-Foot-Long System to the Top Takes More Than 20 Minutes</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-worlds-longest-outdoor-escalator-just-opened-in-china-riding-the-3000-foot-long-system-to-the-top-takes-more-than-20-minutes-180988468/</link>
+      <description>
+        <![CDATA[The new "Goddess" escalator in Wushan County features 21 individual escalators and 8 elevators. The modular design carries riders up 800 feet in elevation]]>
+      </description>
+      <source:markdown>The new &#34;Goddess&#34; escalator in Wushan County features 21 individual escalators and 8 elevators. The modular design carries riders up 800 feet in elevation</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2bTjYa6Hcr5NywHxicil1WkMjUQ=/420x240/filters:focal(2432x1644:2433x1645)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/7b/727bef6f-59bd-44dc-a2e6-b1dcd8b15d16/gettyimages-2261701300.jpeg" length="13900759" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-worlds-longest-outdoor-escalator-just-opened-in-china-riding-the-3000-foot-long-system-to-the-top-takes-more-than-20-minutes-180988468/</guid>
+    </item>    <item>
+      <title>Rock Art Suggests the Tasmanian Tiger May Have Survived on Mainland Australia Longer Than Previously Thought</title>
+      <link>https://www.smithsonianmag.com/smart-news/rock-art-suggests-the-tasmanian-tiger-may-have-survived-on-mainland-australia-longer-than-previously-thought-180988472/</link>
+      <description>
+        <![CDATA[Archaeologists think some of the paintings may be less than 1,000 years old, even though the animals were thought to have disappeared from the continent roughly 3,000 years ago]]>
+      </description>
+      <source:markdown>Archaeologists think some of the paintings may be less than 1,000 years old, even though the animals were thought to have disappeared from the continent roughly 3,000 years ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/952oSrJqKbKX8tQ2RiBM_eS68Fg=/420x240/filters:focal(2267x1447:2268x1448)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/63/44639f11-096b-401d-af4c-6fa6db0f4572/gettyimages-1753400523.jpg" length="4420045" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/rock-art-suggests-the-tasmanian-tiger-may-have-survived-on-mainland-australia-longer-than-previously-thought-180988472/</guid>
+    </item>    <item>
+      <title>Meet Domino, a Tiny, Bumpy Fish Making a Splash in Chicago</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-domino-a-tiny-bumpy-fish-making-a-splash-in-chicago-180988482/</link>
+      <description>
+        <![CDATA[The warty frogfish, also known as a clown anglerfish, is believed to be the first of its kind born and raised in captivity]]>
+      </description>
+      <source:markdown>The warty frogfish, also known as a clown anglerfish, is believed to be the first of its kind born and raised in captivity</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2YB10LAw99zN9cEqKN6e5aNPMsI=/420x240/filters:focal(1316x877:1317x878)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/f2/39f2e882-14d6-42ad-be11-39ea1cc2b84c/165a9147_hpr_1.jpg" length="358649" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-domino-a-tiny-bumpy-fish-making-a-splash-in-chicago-180988482/</guid>
+    </item>    <item>
+      <title>Meet NASA’s New Artemis II Science Officers</title>
+      <link>https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/</link>
+      <description>
+        <![CDATA[NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.]]>
+      </description>
+      <source:markdown>NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/</guid>
+    </item>    <item>
+      <title>The Titanic&#39;s Wealthiest Victim Was Carrying a Gold Pocket Watch When He Died. Now, It Could Sell for $500,000 at Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-titanics-wealthiest-victim-was-carrying-a-gold-pocket-watch-when-he-died-now-it-could-sell-for-500000-at-auction-180988475/</link>
+      <description>
+        <![CDATA[John Jacob Astor IV was returning from his honeymoon with his wife, who survived the 1912 disaster. His pocket watch and gold pencil case are going up for sale this month]]>
+      </description>
+      <source:markdown>John Jacob Astor IV was returning from his honeymoon with his wife, who survived the 1912 disaster. His pocket watch and gold pencil case are going up for sale this month</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R7th3t-PklEGuHeNbXQV4hjk_JQ=/420x240/filters:focal(1274x849:1275x850)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/3e/9c3e0e12-6b9d-4020-8a7b-4f5153405cbb/freeman_auction.jpeg" length="1003103" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-titanics-wealthiest-victim-was-carrying-a-gold-pocket-watch-when-he-died-now-it-could-sell-for-500000-at-auction-180988475/</guid>
+    </item>    <item>
+      <title>NHS staff resist using Palantir software</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/nhs_staff_against_palantir/</link>
+      <description>
+        <![CDATA[<h4>Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much</h4> <p>Palantir&#39;s software was brought in to help NHS England improve care and cut delays, but new reports suggest some staff are resisting using it over ethical, privacy, and trust concerns.…</p>]]>
+      </description>
+      <source:markdown>#### Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
+
+Palantir&#39;s software was brought in to help NHS England improve care and cut delays, but new reports suggest some staff are resisting using it over ethical, privacy, and trust concerns.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245445</guid>
+    </item>    <item>
+      <title>Virgil I. “Gus” Grissom</title>
+      <link>https://www.nasa.gov/image-article/virgil-i-gus-grissom/</link>
+      <description>
+        <![CDATA[Today marks the 100th anniversary of the birth of Virgil I. &#8220;Gus&#8221; Grissom, born April 3, 1926, in Mitchell, Indiana. As one of NASA&#8217;s first seven astronauts, he became America&#8217;s second astronaut to fly in space when he launched aboard the Liberty Bell 7 spacecraft on July 21, 1961, just weeks after Alan Shepard&#8217;s historic [&#8230;]]]>
+      </description>
+      <source:markdown>Today marks the 100th anniversary of the birth of Virgil I. “Gus” Grissom, born April 3, 1926, in Mitchell, Indiana. As one of NASA’s first seven astronauts, he became America’s second astronaut to fly in space when he launched aboard the Liberty Bell 7 spacecraft on July 21, 1961, just weeks after Alan Shepard’s historic \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=980684</guid>
+    </item>    <item>
+      <title>New Advances Bring the Era of Quantum Computers Closer Than Ever</title>
+      <link>https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/</link>
+      <description>
+        <![CDATA[Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.            <p>The post <a href="https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/" target="_blank">New Advances Bring the Era of Quantum Computers Closer Than Ever</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.
+
+The post [New Advances Bring the Era of Quantum Computers Closer Than Ever](https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=160668</guid>
+    </item>    <item>
+      <title>Are These the Earliest Known Dice in the World? Native Americans May Have Used Them to Play Games of Chance More Than 12,000 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/are-these-the-earliest-known-dice-in-the-world-native-americans-may-have-used-them-to-play-games-of-chance-more-than-12000-years-ago-180988479/</link>
+      <description>
+        <![CDATA[A new study suggests that humans were playing with probability during the Ice Age—and that dice were invented 6,000 years earlier than previously thought]]>
+      </description>
+      <source:markdown>A new study suggests that humans were playing with probability during the Ice Age—and that dice were invented 6,000 years earlier than previously thought</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4a2XSvi7NvHAhMpv9HIut-nPBDE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/8e/858e7b42-8c23-49e9-af0a-a56f193bafd4/dice.jpg" length="174845" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/are-these-the-earliest-known-dice-in-the-world-native-americans-may-have-used-them-to-play-games-of-chance-more-than-12000-years-ago-180988479/</guid>
+    </item>    <item>
+      <title>An Astronaut&#39;s Sudden Inability to Speak Prompted the ISS&#39;s First Medical Evacuation. Doctors Still Don&#39;t Know What Caused the Issue</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-astronauts-sudden-inability-to-speak-prompted-the-isss-first-medical-evacuation-doctors-still-dont-know-what-caused-the-issue-180988471/</link>
+      <description>
+        <![CDATA[The individual who fell ill, NASA's Mike Fincke, says the medical team is almost certain that the issue was related to being in space]]>
+      </description>
+      <source:markdown>The individual who fell ill, NASA&#39;s Mike Fincke, says the medical team is almost certain that the issue was related to being in space</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ICZrgrtl0Fx7Zeoa9iMwz2bZgsg=/420x240/filters:focal(960x603:961x604)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/e7/e3e7ed3e-ca57-4728-9d04-ee8a0d5b6d0f/nhq202601150003large.jpg" length="257115" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/an-astronauts-sudden-inability-to-speak-prompted-the-isss-first-medical-evacuation-doctors-still-dont-know-what-caused-the-issue-180988471/</guid>
+    </item>    <item>
+      <title>Hello, World</title>
+      <link>https://www.nasa.gov/image-article/hello-world/</link>
+      <description>
+        <![CDATA[NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft&#8217;s window after completing the translunar injection burn. There are two auroras (top right and bottom left) and zodiacal light (bottom right) is visible as the Earth eclipses the Sun. This and another photo of Earth are the first [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft’s window after completing the translunar injection burn. There are two auroras (top right and bottom left) and zodiacal light (bottom right) is visible as the Earth eclipses the Sun. This and another photo of Earth are the first \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=980637</guid>
+    </item>    <item>
+      <title>When a billboard survives the wind, but not the boot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/when_a_billboard_survives_the/</link>
+      <description>
+        <![CDATA[<h4>This GRUB is not an advert for some tasty fried food</h4> <p><strong>Bork!Bork!Bork!</strong>  It&#39;s one thing to bare your undercarriage in private. It&#39;s a whole other thing to do so on the side of a road, risking the possibility that passing drivers will question your Linux competence.…</p>]]>
+      </description>
+      <source:markdown>#### This GRUB is not an advert for some tasty fried food
+
+**Bork!Bork!Bork!**  It&#39;s one thing to bare your undercarriage in private. It&#39;s a whole other thing to do so on the side of a road, risking the possibility that passing drivers will question your Linux competence.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245376</guid>
+    </item>    <item>
+      <title>Never had the flu? Scientists may know why</title>
+      <link>https://www.npr.org/2026/04/03/nx-s1-5763891/flu-resistance-peptide-sick-antiviral</link>
+      <description>
+        <![CDATA[Scientists estimate somewhere between 5%-35% of people do not get sick from the flu despite being exposed to the virus that causes it. Now, researchers may have figured out why. The team looked at mouthwash samples from 19 healthcare workers who, despite frequent contact with infected patients, report never getting flu symptoms. Today on Short Wave, we talk about how what they found could help scientists develop treatments and strategies to protect people who do get the flu. <br/><br/><strong>If you liked this episode, check out our show on </strong><a href="https://lnk.to/lyKF9y"target="_blank"   ><strong>an effort to map the entire immune system</strong></a><strong>.</strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Scientists estimate somewhere between 5%-35% of people do not get sick from the flu despite being exposed to the virus that causes it. Now, researchers may have figured out why. The team looked at mouthwash samples from 19 healthcare workers who, despite frequent contact with infected patients, report never getting flu symptoms. Today on Short Wave, we talk about how what they found could help scientists develop treatments and strategies to protect people who do get the flu.
+
+**If you liked this episode, check out our show on** [**an effort to map the entire immune system**](https://lnk.to/lyKF9y) **.**
+
+_Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+To manage podcast ad preferences, review the links below:
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/bd5fdd0f-424d-4bb8-9cc0-9a568c66a8c4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=bd5fdd0f-424d-4bb8-9cc0-9a568c66a8c4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5763891&p=510351&d=613&size=9823339" length="9823339" type="audio/mpeg" />
+      <guid>cid://08d68c3d-89a7-45b4-a1e4-bfd0382ef647</guid>
+    </item>    <item>
+      <title>Contractor quaffed his way through Y2K compliance while the client scowled</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/on_call/</link>
+      <description>
+        <![CDATA[<h4>Discovered once last bug, and that briefcases can hold more beer than you might imagine</h4> <p><strong>On Call Y2k</strong>  Easter means today is a holiday in much of the <em>Reg</em>-reading world, but that won&#39;t stop us from delivering another instalment of On Call – the reader contributed column that shares your tech support stories.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Discovered once last bug, and that briefcases can hold more beer than you might imagine
+
+**On Call Y2k**  Easter means today is a holiday in much of the _Reg_-reading world, but that won&#39;t stop us from delivering another instalment of On Call – the reader contributed column that shares your tech support stories.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245386</guid>
+    </item>    <item>
+      <title>Barents Sea Tied to Low Arctic Sea Ice</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/</link>
+      <description>
+        <![CDATA[Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.]]>
+      </description>
+      <source:markdown>Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/</guid>
+    </item>    <item>
+      <title>NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon</title>
+      <link>https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/</link>
+      <description>
+        <![CDATA[For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection burn, Orion and its crew of [&#8230;]]]>
+      </description>
+      <source:markdown>For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection burn, Orion and its crew of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=980592</guid>
+    </item>    <item>
       <title>AI models will deceive you to save their own kind</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/02/ai_models_will_deceive_you/</link>
       <description>
@@ -5194,458 +5465,6 @@ Workers who believe &#34;leveraging cross-functional synergies&#34; sounds profo
 
 At the start of the working day at Cortical Labs’ datacenter in Melbourne, Australia, technicians top up the resident computers with a liquid modelled on the cerebrospinal fluid that surrounds the human brain.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245086</guid>
-    </item>    <item>
-      <title>Understanding SMF properties in Solaris-based operating systems</title>
-      <link>https://www.osnews.com/story/144594/understanding-smf-properties-in-solaris-based-operating-systems/</link>
-      <description>
-        <![CDATA[SMF is the illumos system for managing traditional Unix services (long-lived background processes, usually). It’s quite rich in order to correctly accommodate a lot of different use cases. But it sometimes exposes that complexity to users even when they’re trying to do something simple.  In this post, I’ll walk through an example using a demo service and the svcprop(1) tool to show the details. ↫ Dave Pacheco Soalris&#8217; system management facility or SMF is effectively Solaris&#8217; systemd, and this article provides a deeper insight into one of its features: properties. While using SMF and its suite of tools and commands for basic tasks is rather elementary and easy to get into &#8211; even I can do it &#8211; once you start to dive deeper into what is can do, things get complex and capable very fast.]]>
-      </description>
-      <source:markdown>SMF is the illumos system for managing traditional Unix services (long-lived background processes, usually). It’s quite rich in order to correctly accommodate a lot of different use cases. But it sometimes exposes that complexity to users even when they’re trying to do something simple. In this post, I’ll walk through an example using a demo service and the svcprop(1) tool to show the details. ↫ Dave Pacheco Soalris’ system management facility or SMF is effectively Solaris’ systemd, and this article provides a deeper insight into one of its features: properties. While using SMF and its suite of tools and commands for basic tasks is rather elementary and easy to get into – even I can do it – once you start to dive deeper into what is can do, things get complex and capable very fast.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144594</guid>
-    </item>    <item>
-      <title>Chrome comes to Linux on ARM64</title>
-      <link>https://www.osnews.com/story/144592/chrome-comes-to-linux-on-arm64/</link>
-      <description>
-        <![CDATA[Google has announced that it will release Chrome for Linux on ARM64 in the second quarter of this year. Launching Chrome for ARM64 Linux devices allows more users to enjoy the seamless integration of Google’s most helpful services into their browser. This move addresses the growing demand for a browsing experience that combines the benefits of the open-source Chromium project with the Google ecosystem of apps and features. This release represents a significant undertaking to ensure that ARM64 Linux users receive the same secure, stable, and rich Chrome experience found on other platforms. ↫ The Chromium Blog While the idea of running Linux on Arm, only to defile it with something as unpleasant as Chrome seem entirely foreign to me, most normal people do actually use Google&#8217;s browser. Having it available on Linux for Arm makes perfect sense, and might convince a few people to buy an Arm machine for Linux, assuming the platform can get its act together.]]>
-      </description>
-      <source:markdown>Google has announced that it will release Chrome for Linux on ARM64 in the second quarter of this year. Launching Chrome for ARM64 Linux devices allows more users to enjoy the seamless integration of Google’s most helpful services into their browser. This move addresses the growing demand for a browsing experience that combines the benefits of the open-source Chromium project with the Google ecosystem of apps and features. This release represents a significant undertaking to ensure that ARM64 Linux users receive the same secure, stable, and rich Chrome experience found on other platforms. ↫ The Chromium Blog While the idea of running Linux on Arm, only to defile it with something as unpleasant as Chrome seem entirely foreign to me, most normal people do actually use Google’s browser. Having it available on Linux for Arm makes perfect sense, and might convince a few people to buy an Arm machine for Linux, assuming the platform can get its act together.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144592</guid>
-    </item>    <item>
-      <title>Just try Plan 9 already</title>
-      <link>https://www.osnews.com/story/144590/just-try-plan-9-already/</link>
-      <description>
-        <![CDATA[I will not pass up an opportunity to make you talk about Plan 9, so let&#8217;s focus on Acme. Acme is remarkable for what it represents: a class of application that leverages a simple, text-based GUI to create a compelling model of interacting with all of the tools available in the Unix (or Plan 9) environment. Cox calls it an “integrating development environment,” distinguishing it from the more hermetic “integrated development environment” developers will be familiar with. The simplicity of its interface is important. It is what has allowed Acme to age gracefully over the past 30 or so years, without the constant churn of adding support for new languages, compilers, terminals, or color schemes. ↫ Daniel Moch While the article mentions you can use Acme on UNIX, to really appreciate it you have to use it on Plan 9, which today most likely means 9front. Now, I am not the kind of person who can live and breathe inside 9front &#8211; you need to be of a certain mindset to be able to do so &#8211; but even then I find that messing around with Plan 9 has given me a different outlook on UNIX. In fact, I think it has helped me understand UNIX and UNIX-like systems better and more thoroughly. If you&#8217;re not sure if Plan 9 is something that suits you, the only real way to find out is to just use it. Fire up a VM, read the excellent documentation at 9front, and just dive into it. Most of you will just end up confused and disoriented, but a small few of you will magically discover you possess the right mindset. Just do it.]]>
-      </description>
-      <source:markdown>I will not pass up an opportunity to make you talk about Plan 9, so let’s focus on Acme. Acme is remarkable for what it represents: a class of application that leverages a simple, text-based GUI to create a compelling model of interacting with all of the tools available in the Unix (or Plan 9) environment. Cox calls it an “integrating development environment,” distinguishing it from the more hermetic “integrated development environment” developers will be familiar with. The simplicity of its interface is important. It is what has allowed Acme to age gracefully over the past 30 or so years, without the constant churn of adding support for new languages, compilers, terminals, or color schemes. ↫ Daniel Moch While the article mentions you can use Acme on UNIX, to really appreciate it you have to use it on Plan 9, which today most likely means 9front. Now, I am not the kind of person who can live and breathe inside 9front – you need to be of a certain mindset to be able to do so – but even then I find that messing around with Plan 9 has given me a different outlook on UNIX. In fact, I think it has helped me understand UNIX and UNIX-like systems better and more thoroughly. If you’re not sure if Plan 9 is something that suits you, the only real way to find out is to just use it. Fire up a VM, read the excellent documentation at 9front, and just dive into it. Most of you will just end up confused and disoriented, but a small few of you will magically discover you possess the right mindset. Just do it.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144590</guid>
-    </item>    <item>
-      <title>Claude charts a new course with charts, of course</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/claude_charts_a_new_course/</link>
-      <description>
-        <![CDATA[<h4>Conversations with Anthropic&#39;s models may now be accompanied by interactive apps</h4> <p>Seeing is believing, or so it was said up until AI required questioning everything. But even when braced to resist the slop roulette of online interaction, pictures are worth a thousand tokens.…</p>]]>
-      </description>
-      <source:markdown>#### Conversations with Anthropic&#39;s models may now be accompanied by interactive apps
-
-Seeing is believing, or so it was said up until AI required questioning everything. But even when braced to resist the slop roulette of online interaction, pictures are worth a thousand tokens.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245111</guid>
-    </item>    <item>
-      <title>Volunteers Find Oddly High Solar Flare Rates</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/</link>
-      <description>
-        <![CDATA[Patches of the Sun’s surface often show strong magnetic fields. These fields can emerge within a matter of hours, and can decay slowly or quickly, sometimes over days, weeks, or even months. Thanks to a new study about these long-lived active regions, we now know much more about the patches where these strong magnetic fields […]]]>
-      </description>
-      <source:markdown>Patches of the Sun’s surface often show strong magnetic fields. These fields can emerge within a matter of hours, and can decay slowly or quickly, sometimes over days, weeks, or even months. Thanks to a new study about these long-lived active regions, we now know much more about the patches where these strong magnetic fields \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/</guid>
-    </item>    <item>
-      <title>Extra Extra! Extra Data Stream Added to the Daily Minor Planet!</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/</link>
-      <description>
-        <![CDATA[The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter telescope at Kitt Peak National Observatory. The Bok is a mighty telescope run by the University of Arizona’s Steward Observatory that is used to survey for new near-Earth objects (NEOs) – asteroids that cross Earth’s orbit.]]>
-      </description>
-      <source:markdown>The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter telescope at Kitt Peak National Observatory. The Bok is a mighty telescope run by the University of Arizona’s Steward Observatory that is used to survey for new near-Earth objects (NEOs) – asteroids that cross Earth’s orbit.</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/</guid>
-    </item>    <item>
-      <title>Hello, world! in Z80 assembly language</title>
-      <link>https://www.osnews.com/story/144588/hello-world-in-z80-assembly-language/</link>
-      <description>
-        <![CDATA[I&#8217;m feeling kind of nostalgic today so I thought I&#8217;d write Hello, world! in Z80 assembly for the ZX Spectrum! The last time I wrote any Z80 assembly was when I was 14 so around 36 years ago! I may be a little rusty! ↫ Old Man By the Sea It&#8217;s easy to tell the world hello in BASIC, but a bit more involved in Z80 assembly.]]>
-      </description>
-      <source:markdown>I’m feeling kind of nostalgic today so I thought I’d write Hello, world! in Z80 assembly for the ZX Spectrum! The last time I wrote any Z80 assembly was when I was 14 so around 36 years ago! I may be a little rusty! ↫ Old Man By the Sea It’s easy to tell the world hello in BASIC, but a bit more involved in Z80 assembly.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144588</guid>
-    </item>    <item>
-      <title>Specialists Carefully Defuse a 550-Pound Bomb in Dresden—Eight Decades After It Fell During World War II</title>
-      <link>https://www.smithsonianmag.com/smart-news/specialists-carefully-defuse-a-550-pound-bomb-in-dresden-eight-decades-after-it-fell-during-world-war-ii-180988342/</link>
-      <description>
-        <![CDATA[After the ordnance was discovered, 18,000 people were evacuated from the city. Experts worked for several hours to safely dispose of the device]]>
-      </description>
-      <source:markdown>After the ordnance was discovered, 18,000 people were evacuated from the city. Experts worked for several hours to safely dispose of the device</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_U7gcD9Nd9eaf5s_wGabhj7YLnI=/420x240/filters:focal(3000x2029:3001x2030)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/37/93372f16-aca8-4168-9811-dfb3fe15b4b2/gettyimages-2265428079.jpg" length="6218057" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/specialists-carefully-defuse-a-550-pound-bomb-in-dresden-eight-decades-after-it-fell-during-world-war-ii-180988342/</guid>
-    </item>    <item>
-      <title>Why Are So Many People Claiming They&#39;ve Discovered Long-Lost Michelangelos?</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-are-so-many-people-claiming-theyve-discovered-long-lost-michelangelos-180988333/</link>
-      <description>
-        <![CDATA[One researcher wrote a 600-page report attributing an obscure painting to the artist. Another argued that he'd sculpted a marble bust on display in a Roman church]]>
-      </description>
-      <source:markdown>One researcher wrote a 600-page report attributing an obscure painting to the artist. Another argued that he&#39;d sculpted a marble bust on display in a Roman church</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nPRKE8aESmCNNBVYvaZBI0nUHIE=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/b7/d4b79c27-adb9-4432-87ee-e15f1481f3b7/gettyimages-2264166810.jpeg" length="17974380" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-are-so-many-people-claiming-theyve-discovered-long-lost-michelangelos-180988333/</guid>
-    </item>    <item>
-      <title>How Do Cats Always Land on Their Feet? Researchers Examined Feline Spines to Find Out</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-do-cats-always-land-on-their-feet-researchers-examined-feline-spines-to-find-out-180988341/</link>
-      <description>
-        <![CDATA[Scientists determined that the upper part of a cat's spine is more flexible than the lower part]]>
-      </description>
-      <source:markdown>Scientists determined that the upper part of a cat&#39;s spine is more flexible than the lower part</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/f2IVRI0V4nSOXBLFII_Gt_vSJtE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8f/c3/8fc36422-0879-4d0a-92ff-09fecd1834a5/smithsonian_feature_images_18.png" length="1138543" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/how-do-cats-always-land-on-their-feet-researchers-examined-feline-spines-to-find-out-180988341/</guid>
-    </item>    <item>
-      <title>GitHub infuriates students by removing some models from free Copilot plan</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/microsoft_github_removes_models_student_plan/</link>
-      <description>
-        <![CDATA[<h4>Coding education may become a bit more challenging, but the economics lesson is free</h4> <p>You don&#39;t get what you don&#39;t pay for! Microsoft&#39;s GitHub is dialing back on expenses by removing several costly premium models from its free GitHub Copilot Student plan.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Coding education may become a bit more challenging, but the economics lesson is free
-
-You don&#39;t get what you don&#39;t pay for! Microsoft&#39;s GitHub is dialing back on expenses by removing several costly premium models from its free GitHub Copilot Student plan.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245109</guid>
-    </item>    <item>
-      <title>AFRINIC accuses litigant of trying to ‘paralyse’ it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/afrinic_strikes_back_at_litigant/</link>
-      <description>
-        <![CDATA[<h4>A &#39;web of litigation&#39;</h4> <p>The African Network Information Centre (AFRINIC) has accused one its members of trying to &#34;paralyse&#34; the organization.…</p>]]>
-      </description>
-      <source:markdown>#### A &#39;web of litigation&#39;
-
-The African Network Information Centre (AFRINIC) has accused one its members of trying to &#34;paralyse&#34; the organization.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245091</guid>
-    </item>    <item>
-      <title>&#39;Are you freaking crazy?&#39; Bot harasses woman, gets led away by cops</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/china_bot_berated_woman_freaking_crazy/</link>
-      <description>
-        <![CDATA[<h4>An incident in Macau</h4> <p>A 70-year old woman in China loudly shouted at a robot to leave her alone, but the bot instead stood its ground and did a “raise the roof” move when the woman called it “freaking crazy.”…</p>]]>
-      </description>
-      <source:markdown>#### An incident in Macau
-
-A 70-year old woman in China loudly shouted at a robot to leave her alone, but the bot instead stood its ground and did a “raise the roof” move when the woman called it “freaking crazy.”…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245108</guid>
-    </item>    <item>
-      <title>NASA Armstrong to Host Partnership Days April 15-16</title>
-      <link>https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/</link>
-      <description>
-        <![CDATA[NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership Days, scheduled for Wednesday and Thursday, April 15 and 16, at the center. The event offers a unique opportunity to explore collaboration with NASA on cutting-edge research and development in areas such as aerospace, autonomy, sustainability, and [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership Days, scheduled for Wednesday and Thursday, April 15 and 16, at the center. The event offers a unique opportunity to explore collaboration with NASA on cutting-edge research and development in areas such as aerospace, autonomy, sustainability, and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=973399</guid>
-    </item>    <item>
-      <title>Credential-stealing crew spoofs VPN clients from Cisco, Fortinet, and others</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/vpn_clients_spoofed/</link>
-      <description>
-        <![CDATA[<h4>And then they send victims to the legit VPN download to hide their tracks</h4> <p>A group of cybercriminals tracked as Storm-2561 is using fake enterprise VPN clients from CheckPoint, Cisco, Fortinet, Ivanti, and other vendors to steal users&#39; credentials, according to Microsoft.…</p>]]>
-      </description>
-      <source:markdown>#### And then they send victims to the legit VPN download to hide their tracks
-
-A group of cybercriminals tracked as Storm-2561 is using fake enterprise VPN clients from CheckPoint, Cisco, Fortinet, Ivanti, and other vendors to steal users&#39; credentials, according to Microsoft.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245106</guid>
-    </item>    <item>
-      <title>USBR Crack the Case Challenge</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/</link>
-      <description>
-        <![CDATA[NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. This three-phase challenge invites geophysicists, sensing specialists, nondestructive testing experts, and creative problem-solvers (including AI/ML practitioners) from [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. This three-phase challenge invites geophysicists, sensing specialists, nondestructive testing experts, and creative problem-solvers (including AI/ML practitioners) from \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=973450</guid>
-    </item>    <item>
-      <title>NASA Volunteers Study Biofilm Adaptability in Space</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/</link>
-      <description>
-        <![CDATA[Biofilms are communities of microorganisms that stick to one another and also adhere to a nearby surface. They are intricately associated with life on Earth, enabling functions essential to human and plant systems.]]>
-      </description>
-      <source:markdown>Biofilms are communities of microorganisms that stick to one another and also adhere to a nearby surface. They are intricately associated with life on Earth, enabling functions essential to human and plant systems.</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/</guid>
-    </item>    <item>
-      <title>USBR Halt the Hitchhiker: Invasive Species Challenge</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/</link>
-      <description>
-        <![CDATA[NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Bureau of Reclamation (Reclamation) is sponsoring a 3-phase prize challenge (managed by yet2) for innovative solutions [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Bureau of Reclamation (Reclamation) is sponsoring a 3-phase prize challenge (managed by yet2) for innovative solutions \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=973408</guid>
-    </item>    <item>
-      <title>North American Bird Losses Are Accelerating. New Research Suggests Fertilizers and Pesticides May Be to Blame</title>
-      <link>https://www.smithsonianmag.com/smart-news/north-american-bird-losses-are-accelerating-and-new-research-suggests-fertilizier-pesticide-may-be-to-blame-180988345/</link>
-      <description>
-        <![CDATA[Scientists found the severest changes in decline rates in places that include hallmarks of high-intensity agriculture]]>
-      </description>
-      <source:markdown>Scientists found the severest changes in decline rates in places that include hallmarks of high-intensity agriculture</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H3I4Esdtf5pWYqAtyjveWLEI3fI=/420x240/filters:focal(960x635:961x636)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/29/b6298556-42a6-4f91-85b0-8578b7931c95/georgeb2-finch-6148094_1920.jpg" length="338696" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/north-american-bird-losses-are-accelerating-and-new-research-suggests-fertilizier-pesticide-may-be-to-blame-180988345/</guid>
-    </item>    <item>
-      <title>Good Morning, Moon</title>
-      <link>https://www.nasa.gov/image-article/good-morning-moon/</link>
-      <description>
-        <![CDATA[Early morning sunlight illuminates the western wall of this unnamed crater, leaving deep shadows on the ground and in the interior. The image was taken on August 30, 2023, by LROC (Lunar Reconnaissance Orbiter Camera). LROC is a system of three cameras and one of the seven instruments aboard NASA’s LRO (Lunar Reconnaissance Orbiter) mission, [&#8230;]]]>
-      </description>
-      <source:markdown>Early morning sunlight illuminates the western wall of this unnamed crater, leaving deep shadows on the ground and in the interior. The image was taken on August 30, 2023, by LROC (Lunar Reconnaissance Orbiter Camera). LROC is a system of three cameras and one of the seven instruments aboard NASA’s LRO (Lunar Reconnaissance Orbiter) mission, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=973024</guid>
-    </item>    <item>
-      <title>Astronomers Witnessed the Birth of a Magnetar for the First Time. It Explains the Mysterious Flickering of an Ultrabright Supernova</title>
-      <link>https://www.smithsonianmag.com/smart-news/astronomers-witnessed-the-birth-of-a-magnetar-for-the-first-time-it-explains-the-mysterious-flickering-of-an-ultra-bright-supernova-180988343/</link>
-      <description>
-        <![CDATA[New research suggests that the highly magnetized remnants of stars are responsible for powering some of the universe’s most brilliant supernova explosions]]>
-      </description>
-      <source:markdown>New research suggests that the highly magnetized remnants of stars are responsible for powering some of the universe’s most brilliant supernova explosions</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/57On6oVQxg-KbiF0pWr7Be9vjks=/420x240/filters:focal(1280x744:1281x745)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/10/a010cb20-ff50-40d1-bd78-4bca77606fc1/magnetarlt_conception-crop-scaled.jpg" length="231111" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/astronomers-witnessed-the-birth-of-a-magnetar-for-the-first-time-it-explains-the-mysterious-flickering-of-an-ultra-bright-supernova-180988343/</guid>
-    </item>    <item>
-      <title>Agenda diaria de la misión a la Luna de Artemis II de la NASA</title>
-      <link>https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/</link>
-      <description>
-        <![CDATA[Read this web article in English&#160;here. Unos ocho minutos después del despegue de Artemis&#160;II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10&#160;días [&#8230;]]]>
-      </description>
-      <source:markdown>Read this web article in English here. Unos ocho minutos después del despegue de Artemis II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10 días \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=973330</guid>
-    </item>    <item>
-      <title>Scientists Discover Microscopic Traces of Leaves, Seeds and Toxic Berries on Pots Used by Stone Age Cooks Thousands of Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-discover-microscopic-traces-of-leaves-seeds-and-toxic-berries-on-pots-used-by-stone-age-cooks-thousands-of-years-ago-180988325/</link>
-      <description>
-        <![CDATA[Hunter-gatherers in Europe carefully selected ingredients and cooked complex foods, often pairing fish with specific plants, according to a new study]]>
-      </description>
-      <source:markdown>Hunter-gatherers in Europe carefully selected ingredients and cooked complex foods, often pairing fish with specific plants, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XQcZGiVhN3KJyWKRx-U_oTK6iHU=/420x240/filters:focal(1080x720:1081x721)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fe/a6/fea6386a-43d8-4bae-befc-82a12838a968/screenshot_2026-03-10_at_115716am.jpeg" length="1558461" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-discover-microscopic-traces-of-leaves-seeds-and-toxic-berries-on-pots-used-by-stone-age-cooks-thousands-of-years-ago-180988325/</guid>
-    </item>    <item>
-      <title>After years of being stood up, ARM64 Linux users finally get Chrome date</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/google_announces_chrome_for_arm64/</link>
-      <description>
-        <![CDATA[<h4>Someone, somewhere, ticked a box on a build farm. The wait is over</h4> <p>Chrome is finally coming to ARM64 Linux devices, years after it turned up on macOS and Windows on Arm.…</p>]]>
-      </description>
-      <source:markdown>#### Someone, somewhere, ticked a box on a build farm. The wait is over
-
-Chrome is finally coming to ARM64 Linux devices, years after it turned up on macOS and Windows on Arm.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245103</guid>
-    </item>    <item>
-      <title>NASA’s Artemis II Moon Mission Daily Agenda</title>
-      <link>https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/</link>
-      <description>
-        <![CDATA[About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, [&#8230;]]]>
-      </description>
-      <source:markdown>About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=973273</guid>
-    </item>    <item>
-      <title>Sea Levels Might Be Higher Than We Thought, Putting Millions of People in the Path of Coastal Flooding Sooner Than Expected</title>
-      <link>https://www.smithsonianmag.com/smart-news/sea-levels-might-be-higher-than-we-thought-putting-millions-of-people-in-the-path-of-coastal-flooding-sooner-than-expected-180988332/</link>
-      <description>
-        <![CDATA[A lot of past research has used flawed methodology to estimate current coastal water levels, according to a new study]]>
-      </description>
-      <source:markdown>A lot of past research has used flawed methodology to estimate current coastal water levels, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RLVyxlbcIXMS_MB06t5t8h86LfQ=/420x240/filters:focal(3976x2689:3977x2690)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/ae/1dae8217-404a-4e5c-9005-39afe370337c/sea-level.jpg" length="37815260" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/sea-levels-might-be-higher-than-we-thought-putting-millions-of-people-in-the-path-of-coastal-flooding-sooner-than-expected-180988332/</guid>
-    </item>    <item>
-      <title>Artifacts From NASA’s Webb, Parker Solar Probe on View at Smithsonian</title>
-      <link>https://science.nasa.gov/missions/webb/artifacts-from-nasas-webb-parker-solar-probe-on-view-at-smithsonian/</link>
-      <description>
-        <![CDATA[A testing replica of the “backbone” of NASA’s James Webb Space Telescope and a full-scale model of the agency’s Parker Solar Probe are now on permanent display at the Smithsonian’s National Air and Space Museum, Steven F. Udvar-Hazy Center in Chantilly, Virginia. “From touching the Sun with Parker Solar Probe to creating humanity’s most powerful […]]]>
-      </description>
-      <source:markdown>A testing replica of the “backbone” of NASA’s James Webb Space Telescope and a full-scale model of the agency’s Parker Solar Probe are now on permanent display at the Smithsonian’s National Air and Space Museum, Steven F. Udvar-Hazy Center in Chantilly, Virginia. “From touching the Sun with Parker Solar Probe to creating humanity’s most powerful \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/webb/artifacts-from-nasas-webb-parker-solar-probe-on-view-at-smithsonian/</guid>
-    </item>    <item>
-      <title>GVIS Virtual Systems Simulations</title>
-      <link>https://www.nasa.gov/centers-and-facilities/glenn/gvis-virtual-systems-simulations/</link>
-      <description>
-        <![CDATA[The Graphics and Visualization Lab (GVIS) at NASA Glenn Research Center creates a variety of immersive visualizations and simulations in support of NASA&#8217;s missions, projects, and future innovations. These visual tools help scientists, engineers, and researchers develop new solutions that bring their projects to life. Virtual System Simulations The GVIS Lab prides itself on creating [&#8230;]]]>
-      </description>
-      <source:markdown>The Graphics and Visualization Lab (GVIS) at NASA Glenn Research Center creates a variety of immersive visualizations and simulations in support of NASA’s missions, projects, and future innovations. These visual tools help scientists, engineers, and researchers develop new solutions that bring their projects to life. Virtual System Simulations The GVIS Lab prides itself on creating \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=961379</guid>
-    </item>    <item>
-      <title>Why Do Humanoid Robots Still Struggle With the Small Stuff?</title>
-      <link>https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/</link>
-      <description>
-        <![CDATA[The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.            <p>The post <a href="https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/" target="_blank">Why Do Humanoid Robots Still Struggle With the Small Stuff?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>The last decade has seen vast improvements in humanoid robots, but graduating to widespread use might require going back to the fundamentals.
-
-The post [Why Do Humanoid Robots Still Struggle With the Small Stuff?](https://www.quantamagazine.org/why-do-humanoid-robots-still-struggle-with-the-small-stuff-20260313/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=159948</guid>
-    </item>    <item>
-      <title>Watchdog boss calls Capita&#39;s £370M DWP win &#39;extraordinary&#39; amid pension portal dumpster fire</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/capita_contracts_questioned/</link>
-      <description>
-        <![CDATA[<h4>PAC chair asks Cabinet Office if anyone bothered telling dept about the shambles before handing over the keys</h4> <p>The chair of the UK Parliament&#39;s public spending watchdog has dubbed the Department for Work and Pensions&#39; (DWP) decision to award Capita a £370 million shared service contract &#34;extraordinary,&#34; given the outsourcing firm&#39;s &#34;failings&#34; in supporting the Civil Service Pension Scheme (CSPS).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### PAC chair asks Cabinet Office if anyone bothered telling dept about the shambles before handing over the keys
-
-The chair of the UK Parliament&#39;s public spending watchdog has dubbed the Department for Work and Pensions&#39; (DWP) decision to award Capita a £370 million shared service contract &#34;extraordinary,&#34; given the outsourcing firm&#39;s &#34;failings&#34; in supporting the Civil Service Pension Scheme (CSPS).…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245101</guid>
-    </item>    <item>
-      <title>Microsoft veteran Rajesh Jha prepares to retire, triggers yet another reorg</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/organizational_changes_at_microsoft_as/</link>
-      <description>
-        <![CDATA[<h4>35-year staffer comes from time before company&#39;s cloud and Copilot obsessions</h4> <p>Microsoft Executive Vice President (EVP) for Experiences and Devices, Rajesh Jha, is retiring from Microsoft after more than 35 years at the Redmond grindstone.…</p>]]>
-      </description>
-      <source:markdown>#### 35-year staffer comes from time before company&#39;s cloud and Copilot obsessions
-
-Microsoft Executive Vice President (EVP) for Experiences and Devices, Rajesh Jha, is retiring from Microsoft after more than 35 years at the Redmond grindstone.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245100</guid>
-    </item>    <item>
-      <title>Azure startup credits don&#39;t apply to Claude via Azure AI Foundry, reader finds – after $1,600 charge</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/a_cautionary_tale_azure_startup_credits/</link>
-      <description>
-        <![CDATA[<h4>Gets bounced between Microsoft and Anthropic like a support ticket nobody wants to own</h4> <p>Companies using credits bundled with Microsoft for Startups have found some unwelcome surprises on their credit card statements after deploying Anthropic&#39;s Claude via Azure AI Foundry.…</p>]]>
-      </description>
-      <source:markdown>#### Gets bounced between Microsoft and Anthropic like a support ticket nobody wants to own
-
-Companies using credits bundled with Microsoft for Startups have found some unwelcome surprises on their credit card statements after deploying Anthropic&#39;s Claude via Azure AI Foundry.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245093</guid>
-    </item>    <item>
-      <title>RAM is getting expensive, so squeeze the most from it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/zram_vs_zswap/</link>
-      <description>
-        <![CDATA[<h4>Zram versus zswap – two ways to get a quart into a pint pot</h4> <p>Linux has two ways to do memory compression – zram and zswap – but you rarely hear about the second. <em>The Register</em> compares and contrasts them.…</p>]]>
-      </description>
-      <source:markdown>#### Zram versus zswap – two ways to get a quart into a pint pot
-
-Linux has two ways to do memory compression – zram and zswap – but you rarely hear about the second. _The Register_ compares and contrasts them.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245094</guid>
-    </item>    <item>
-      <title>NASA pencils in fresh Artemis II Moon launch attempt for April 1</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/nasa_aims_for_an_april_artemis_ii_launch/</link>
-      <description>
-        <![CDATA[<h4>&#39;When we tank the vehicle ... I would like it to be on a day that we could actually launch&#39;</h4> <p>NASA has set April 1 for the Artemis II launch, with engineers preparing the Space Launch System (SLS) for a rollout to the pad on March 19.…</p>]]>
-      </description>
-      <source:markdown>#### &#39;When we tank the vehicle ... I would like it to be on a day that we could actually launch&#39;
-
-NASA has set April 1 for the Artemis II launch, with engineers preparing the Space Launch System (SLS) for a rollout to the pad on March 19.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245097</guid>
-    </item>    <item>
-      <title>Interpol cybercrime crackdown leads to 94 arrests, 45,000 IP takedowns</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/interpol_operation_synergia/</link>
-      <description>
-        <![CDATA[<h4>Operation Synergia&#39;s third season is the most productive to date</h4> <p>Ninety-four people were arrested as part of a global, multi-month cybercrime crackdown, Interpol revealed today.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Operation Synergia&#39;s third season is the most productive to date
-
-Ninety-four people were arrested as part of a global, multi-month cybercrime crackdown, Interpol revealed today.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245096</guid>
-    </item>    <item>
-      <title>Nanny state discovers Linux, demands it check kids&#39; IDs before booting</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/opinion_os_verification/</link>
-      <description>
-        <![CDATA[<h4>Age-verification laws target operating systems because apparently teenagers having root access is now a safeguarding crisis</h4> <p><strong>Opinion</strong>  A new wave of age verification laws requires kids and teenagers to register before they can use a computer.…</p>]]>
-      </description>
-      <source:markdown>#### Age-verification laws target operating systems because apparently teenagers having root access is now a safeguarding crisis
-
-**Opinion**  A new wave of age verification laws requires kids and teenagers to register before they can use a computer.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245080</guid>
-    </item>    <item>
-      <title>Atomic Britain: UK plans regulatory reset to boost nuclear power</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/uk_to_push_nuclear_reset/</link>
-      <description>
-        <![CDATA[<h4>It wants &#39;safe, cost effective, and rapid.&#39; We say: &#39;Good, fast, cheap – you can have 2&#39;</h4> <p>Britain&#39;s government is pushing ahead with nuclear planning and regulatory reforms, aiming to accelerate atomic projects that will power homes and datacenters.…</p>]]>
-      </description>
-      <source:markdown>#### It wants &#39;safe, cost effective, and rapid.&#39; We say: &#39;Good, fast, cheap – you can have 2&#39;
-
-Britain&#39;s government is pushing ahead with nuclear planning and regulatory reforms, aiming to accelerate atomic projects that will power homes and datacenters.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245099</guid>
-    </item>    <item>
-      <title>NanoClaw latches onto Docker Sandboxes for safer AI agents</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/nanoclaw_latches_onto_docker_sandboxes/</link>
-      <description>
-        <![CDATA[<h4>Take your YOLO and box it up</h4> <p><strong>exclusive</strong>  NanoClaw, an open source agent platform, can now run inside Docker Sandboxes, furthering the project&#39;s commitment to security.…</p>]]>
-      </description>
-      <source:markdown>#### Take your YOLO and box it up
-
-**exclusive**  NanoClaw, an open source agent platform, can now run inside Docker Sandboxes, furthering the project&#39;s commitment to security.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245088</guid>
-    </item>    <item>
-      <title>Google rushes Chrome update fixing two zero-days already under attack</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/google_zeroday_chrome_update/</link>
-      <description>
-        <![CDATA[<h4>Skia graphics lib and V8 JavaScript engine brings browser&#39;s tally of actively exploited bugs to three in 2026</h4> <p>Google has pushed out an emergency Chrome update to fix two previously unknown vulnerabilities that attackers were already exploiting before the patches landed.…</p>]]>
-      </description>
-      <source:markdown>#### Skia graphics lib and V8 JavaScript engine brings browser&#39;s tally of actively exploited bugs to three in 2026
-
-Google has pushed out an emergency Chrome update to fix two previously unknown vulnerabilities that attackers were already exploiting before the patches landed.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245095</guid>
-    </item>    <item>
-      <title>Windows pays tribute to Britain&#39;s creaking rail network with a BSOD</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/windows_railway_bork/</link>
-      <description>
-        <![CDATA[<h4>Grappling with UK trains will send humans into Recovery too sometimes</h4> <p><strong>Bork!Bork!Bork!</strong>  Today we visit the south of England, where Windows has fallen over, briefly granting unrestricted rail travel to one and all.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Grappling with UK trains will send humans into Recovery too sometimes
-
-**Bork!Bork!Bork!**  Today we visit the south of England, where Windows has fallen over, briefly granting unrestricted rail travel to one and all.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245051</guid>
-    </item>    <item>
-      <title>Openreach: Fiber can sniff out leaky water pipes – if anyone bothers fixing them</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/openreach_fiber_water_leaks/</link>
-      <description>
-        <![CDATA[<h4>Distributed Acoustic Sensing tech uses broadband cables to pinpoint plumbing faults</h4> <p>Openreach claims its fiber network infrastructure can detect leaks in nearby water supply pipes, which could save millions of liters of the precious fluid... if the water companies can be bothered to fix them.…</p>]]>
-      </description>
-      <source:markdown>#### Distributed Acoustic Sensing tech uses broadband cables to pinpoint plumbing faults
-
-Openreach claims its fiber network infrastructure can detect leaks in nearby water supply pipes, which could save millions of liters of the precious fluid... if the water companies can be bothered to fix them.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245079</guid>
-    </item>    <item>
-      <title>Blustering Blackbeard&#39;s PC was all at sea, sysadmin got him shipshape in seconds</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/on_call/</link>
-      <description>
-        <![CDATA[<h4>Have you tried turning it on, never mind off and on again?</h4> <p><strong>On Call</strong>  Arrr! How is it Friday already? <i>The Register</i> can&#39;t explain where the week went, but we can deliver a new installment of On Call, the reader-contributed column that shares your stories of tech support SNAFUs.…</p>]]>
-      </description>
-      <source:markdown>#### Have you tried turning it on, never mind off and on again?
-
-**On Call**  Arrr! How is it Friday already? _The Register_ can&#39;t explain where the week went, but we can deliver a new installment of On Call, the reader-contributed column that shares your stories of tech support SNAFUs.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245063</guid>
-    </item>    <item>
-      <title>An icy mystery: What are lake stars?</title>
-      <link>https://www.npr.org/2026/03/13/nx-s1-5712593/lake-star-ice-mystery-europa</link>
-      <description>
-        <![CDATA[When producer <a href="https://www.npr.org/people/985775371/berly-mccoy"target="_blank"   >Berly McCoy</a> was out on her local frozen lake, she saw something she'd never seen before. There were dark spidery, star-shaped patterns in the ice and they freaked her out. So, we called an expert to find out more about them. In today’s episode, geophysicist <a href="https://vivo.brown.edu/display/vtsai2"target="_blank"   >Victor Tsai</a> tells us about lake stars and how he became the first person to scientifically prove how they form. Plus, he explains how knowing more about lake stars can potentially give us clues about the presence of water on Europa, one of Jupiter’s icy moons.<br/><br/><strong>Read Victor Tsai’s </strong><a href="https://doi.org/10.1103/PhysRevE.75.066105"target="_blank"   ><strong>full paper on lake stars here</strong></a><strong>.</strong><br/><br/><em>Have a question about something in the environment? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>. </em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>When producer [Berly McCoy](https://www.npr.org/people/985775371/berly-mccoy) was out on her local frozen lake, she saw something she&#39;d never seen before. There were dark spidery, star-shaped patterns in the ice and they freaked her out. So, we called an expert to find out more about them. In today’s episode, geophysicist [Victor Tsai](https://vivo.brown.edu/display/vtsai2) tells us about lake stars and how he became the first person to scientifically prove how they form. Plus, he explains how knowing more about lake stars can potentially give us clues about the presence of water on Europa, one of Jupiter’s icy moons.
-
-**Read Victor Tsai’s** [**full paper on lake stars here**](https://doi.org/10.1103/PhysRevE.75.066105) **.**
-
-_Have a question about something in the environment? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/78d11d7a-3e84-4970-8482-de9cf4ec072e/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=78d11d7a-3e84-4970-8482-de9cf4ec072e&feed=F0qJcgXZ&t=podcast&e=nx-s1-5712593&p=510351&d=740&size=11845008" length="11845008" type="audio/mpeg" />
-      <guid>cid://0199d5f3-f97d-466f-9fc6-678a564ba64a</guid>
-    </item>    <item>
-      <title>AI Burning Man happens next week –what to expect at Nvidia GTC 2026</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register/</link>
-      <description>
-        <![CDATA[<h4>From Groq-ing about tokenomics to OpenClaw and the silicon that powers it, our predictions for the hottest ticket in town</h4> <p>Nvidia has a bit of a problem. Popular generative AI workloads like code assistants and agentic systems generate massive quantities of tokens and need to move them at speed. But the GPU giant&#39;s chips currently struggle to deliver.…</p>]]>
-      </description>
-      <source:markdown>#### From Groq-ing about tokenomics to OpenClaw and the silicon that powers it, our predictions for the hottest ticket in town
-
-Nvidia has a bit of a problem. Popular generative AI workloads like code assistants and agentic systems generate massive quantities of tokens and need to move them at speed. But the GPU giant&#39;s chips currently struggle to deliver.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245083</guid>
-    </item>    <item>
-      <title>Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/</link>
-      <description>
-        <![CDATA[<h4>Didn’t say why, but for once AI may not be the reason for a lost job</h4> <p>Adobe CEO Shantanu Narayen has announced he intends to depart the company after 18 years as the prince of PDFs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Didn’t say why, but for once AI may not be the reason for a lost job
-
-Adobe CEO Shantanu Narayen has announced he intends to depart the company after 18 years as the prince of PDFs.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245090</guid>
-    </item>    <item>
-      <title>Eruption at Mayon</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/</link>
-      <description>
-        <![CDATA[Activity at the volcano in the Philippines sent lava and pyroclastic flows down the volcano’s flanks and prompted evacuations in nearby communities.]]>
-      </description>
-      <source:markdown>Activity at the volcano in the Philippines sent lava and pyroclastic flows down the volcano’s flanks and prompted evacuations in nearby communities.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/</guid>
-    </item>    <item>
-      <title>Apple takes a bite out of app store fees in China</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/apple_china_appstore_commissions_fall/</link>
-      <description>
-        <![CDATA[<h4>Beijing hinted it wasn’t happy with Cupertino, which weeks later made a change</h4> <p>Apple has cut the fees it charges Chinese developers to sell their apps and other digital goodies.…</p>]]>
-      </description>
-      <source:markdown>#### Beijing hinted it wasn’t happy with Cupertino, which weeks later made a change
-
-Apple has cut the fees it charges Chinese developers to sell their apps and other digital goodies.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245089</guid>
-    </item>    <item>
-      <title>Pentagon AI chief praises Palantir tech for speeding battlefield strikes</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/</link>
-      <description>
-        <![CDATA[<h4>Going from eight systems to one means fewer people make decisions to unleash Epic Fury</h4> <p>As the US continues its strikes on Iran as part of Operation Epic Fury, speakers at Palantir&#39;s AIPCON event on Thursday said the company’s Maven Smart System product has shortened the time it takes the Department of Defense to select and hit targets on the battlefield during the conflict.…</p>]]>
-      </description>
-      <source:markdown>#### Going from eight systems to one means fewer people make decisions to unleash Epic Fury
-
-As the US continues its strikes on Iran as part of Operation Epic Fury, speakers at Palantir&#39;s AIPCON event on Thursday said the company’s Maven Smart System product has shortened the time it takes the Department of Defense to select and hit targets on the battlefield during the conflict.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245087</guid>
     </item>
   </channel>
 </rss>
