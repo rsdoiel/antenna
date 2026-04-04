@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Apr 26 18:23 -0700</lastBuildDate>
+    <lastBuildDate>04 Apr 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>B.E.M. photos made by Gerben Voort</title>
+      <link>http://retro.hansotten.nl/bem-photos-made-by-gerben-voort-added/</link>
+      <description>
+        <![CDATA[Brutech, a small Dutch company, made industrial quality microprocessor systems. 6502, 6809, process control. Gerben Voort acquired a 6502 system and made photos of the system. A backplane, the BEM bus, a 6502 based CPU card, a double VIA card, a battery backed up memory card. Read more about Brutech here. See also:KIM-1 connectors: beware [&#8230;]]]>
+      </description>
+      <source:markdown>Brutech, a small Dutch company, made industrial quality microprocessor systems. 6502, 6809, process control. Gerben Voort acquired a 6502 system and made photos of the system. A backplane, the BEM bus, a 6502 based CPU card, a double VIA card, a battery backed up memory card. Read more about Brutech here. See also:KIM-1 connectors: beware \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20562</guid>
+    </item>    <item>
+      <title>KIM-1, what changed in the Revisions?</title>
+      <link>http://retro.hansotten.nl/kim-1-what-changed-in-the-revisions/</link>
+      <description>
+        <![CDATA[I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS [&#8230;]]]>
+      </description>
+      <source:markdown>I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20553</guid>
+    </item>    <item>
       <title>The Beginning of Programming as We’ll Know It</title>
       <link>https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/</link>
       <description>
@@ -23,6 +39,14 @@
       </description>
       <source:markdown>April Fools, Back to work, Well well well, The icon bar has changed!, Batteries.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260401</guid>
+    </item>    <item>
+      <title>The Mystery of Rennes-le-Château, Part 3: A Secret History</title>
+      <link>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/</link>
+      <description>
+        <![CDATA[This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Henry Lincoln promised at the end of &#8220;The Priest, the Painter, and the Devil&#8221; that he would continue to investigate the case of François-Bérenger Saunière and Rennes-le-Château. He proved as good as [&#8230;]]]>
+      </description>
+      <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Henry Lincoln promised at the end of “The Priest, the Painter, and the Devil” that he would continue to investigate the case of François-Bérenger Saunière and Rennes-le-Château. He proved as good as \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6716</guid>
     </item>    <item>
       <title>Double your impact on the RISC OS &#39;Moon mission&#39;</title>
       <link>http://www.iconbar.com/comments/rss/news2319.html</link>
@@ -4509,22 +4533,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       </description>
       <source:markdown>It’s now less than a week until RISC OS North, which takes place on Saturday, 21st March, and another announcement from RISCOSbits has landed in the bunker: On the back of the hugely popular Christmas Cracker, RISCOSbits is pleased to introduce Chimera Lite, a streamlined and highly accessible version of the popular Chimera system, making its debut at the RISC OS North Show. Chimera Lite has been designed for users who want a fast, modern RISC OS machine in a simple, ready-to-go configuration, while still retaining the flexibility that has…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10897</guid>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Chapter 15: The Trial of Galileo]]>
-      </description>
-      <source:markdown>Chapter 15: The Trial of Galileo</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6715</guid>
-    </item>    <item>
-      <title>Rougol March 2026 meeting on monday - Matt Godbolt</title>
-      <link>http://www.iconbar.com/comments/rss/news2304.html</link>
-      <description>
-        <![CDATA[The March 2026 Rougol meeting is on Monday and has an international flavour]]>
-      </description>
-      <source:markdown>The March 2026 Rougol meeting is on Monday and has an international flavour</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2304.html</guid>
     </item>
   </channel>
 </rss>

@@ -2,11 +2,13 @@
 
 function harvest_active_lists() {
 	for LIST in socal_north.md north_america.md pacific.md planet.md columns.md science_and_technology.md retro_computing.md home.md food.md libraries.md small_papers.md journalism.html craft.md writing.md; do
+		echo ""
 		echo "Harvesting ${LIST}"
+		echo "----------------------------------------"
 		if ! antenna harvest "${LIST}"; then
 			echo "Failed to harvest ${LIST}"
-			exit 1
 		fi
+		echo ""
 	done
 }
 

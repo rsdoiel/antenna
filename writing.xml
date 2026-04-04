@@ -4,10 +4,18 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>02 Apr 26 18:23 -0700</lastBuildDate>
+    <lastBuildDate>04 Apr 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Ontology of Copyright (Sec. 106)</title>
+      <link>https://www.authorsalliance.org/2026/04/03/the-ontology-of-copyright-sec-106/</link>
+      <description>
+        <![CDATA[Today, we have discerned differences between rights and limitations, but have forgotten their essential wholeness. Fair use is not a carve-out—it never has been.  It is part of what Section 106 means.]]>
+      </description>
+      <source:markdown>Today, we have discerned differences between rights and limitations, but have forgotten their essential wholeness. Fair use is not a carve-out—it never has been.  It is part of what Section 106 means.</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12784</guid>
+    </item>    <item>
       <title>New White Paper on Institutional Copyright Policies and Article Versions</title>
       <link>https://www.authorsalliance.org/2026/04/02/new-white-paper-on-institutional-copyright-policies-and-article-versions/</link>
       <description>
@@ -137,14 +145,6 @@ The post [Scriptnotes, Episode 727: Free Work, Transcript](https://johnaugust.co
       </description>
       <source:markdown>This is the first in a series of essays about the choices that knowledge institutions face as AI reshapes how their collections and resources are used. The people on various sides of these debates are, for the most part, deeply committed to access to knowledge — the disagreement is about means. Some believe that the best way to protect access to knowledge is to impose new conditions on how AI can use it and for what purposes. I think that approach is more likely to undermine access than to save it. This post in particular is about the risk of libraries and archives reimagining themselves as gatekeepers of AI-era access. To help contain these essays, we will be posting them as a series titled “AI &#38; Access to Knowledge.”</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12716</guid>
-    </item>    <item>
-      <title>The Incredible Shrinking Public Domain: Section 104A</title>
-      <link>https://www.authorsalliance.org/2026/03/13/the-incredible-shrinking-public-domain-section-104a/</link>
-      <description>
-        <![CDATA[This is the latest in our series of posts marking the 50th anniversary of the Copyright Act of 1976. To [&#8230;]]]>
-      </description>
-      <source:markdown>This is the latest in our series of posts marking the 50th anniversary of the Copyright Act of 1976. To \[…\]</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12709</guid>
     </item>
   </channel>
 </rss>
