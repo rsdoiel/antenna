@@ -4,10 +4,56 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>04 Apr 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>05 Apr 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Researchers didn’t want to glamorize cybercrims. So they roasted them</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/05/trellix_john_fokker_roasting_crims/</link>
+      <description>
+        <![CDATA[<h4>True-crime tales of criminals making fools of themselves</h4> <p><strong>interview</strong>  Cybercrime crews have become almost mystical entities, with security vendors assigning them names like Wizard Spider and Velvet Tempest.…</p>]]>
+      </description>
+      <source:markdown>#### True-crime tales of criminals making fools of themselves
+
+**interview**  Cybercrime crews have become almost mystical entities, with security vendors assigning them names like Wizard Spider and Velvet Tempest.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245443</guid>
+    </item>    <item>
+      <title>AI agents promise to &#39;run the business,&#39; but who is liable if things go wrong?</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/05/ai_agents_liability/</link>
+      <description>
+        <![CDATA[<h4>Vendors tout the potential, but responsibility remains unclear</h4> <p><strong>Feature</strong>  &#34;You can&#39;t blame it on the box,&#34; says the boss of a UK financial regulator. What about the people who sold you the box? Good luck with that, says a global tech analyst.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Vendors tout the potential, but responsibility remains unclear
+
+**Feature**  &#34;You can&#39;t blame it on the box,&#34; says the boss of a UK financial regulator. What about the people who sold you the box? Good luck with that, says a global tech analyst.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245434</guid>
+    </item>    <item>
+      <title>How Nvidia learned to embrace the light in its quest for scale</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/05/nvidia_optical_scale_up/</link>
+      <description>
+        <![CDATA[<h4>The GPU king&#39;s move to optical scale-up was inevitable</h4> <p>If you thought Nvidia&#39;s GB200 rack systems were big, CEO Jensen Huang is just getting started. At GTC last month, the world&#39;s most valuable company revealed plans to use photonic interconnects to pack more than a thousand GPUs into a single mammoth system by 2028.…</p>]]>
+      </description>
+      <source:markdown>#### The GPU king&#39;s move to optical scale-up was inevitable
+
+If you thought Nvidia&#39;s GB200 rack systems were big, CEO Jensen Huang is just getting started. At GTC last month, the world&#39;s most valuable company revealed plans to use photonic interconnects to pack more than a thousand GPUs into a single mammoth system by 2028.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245449</guid>
+    </item>    <item>
+      <title>NASA Answers Your Most Pressing Artemis II Questions</title>
+      <link>https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/</link>
+      <description>
+        <![CDATA[The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard NASA’s Orion spacecraft around the Moon and back, as they test how the spacecraft’s systems operate in a deep space environment. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy [&#8230;]]]>
+      </description>
+      <source:markdown>The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard NASA’s Orion spacecraft around the Moon and back, as they test how the spacecraft’s systems operate in a deep space environment. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=981041</guid>
+    </item>    <item>
+      <title>Illuminated in Orion</title>
+      <link>https://www.nasa.gov/image-article/illuminated-in-orion/</link>
+      <description>
+        <![CDATA[NASA astronaut Christina Koch reads on a tablet in the dimly lit Orion crew capsule in this April 3, 2026, photo. To the right of the image&#8217;s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion&#8217;s windows. Lights are turned off to avoid glare on the [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut Christina Koch reads on a tablet in the dimly lit Orion crew capsule in this April 3, 2026, photo. To the right of the image’s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion’s windows. Lights are turned off to avoid glare on the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=980978</guid>
+    </item>    <item>
       <title>Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/04/all_things_ai_conference/</link>
       <description>
@@ -5447,24 +5493,6 @@ Three-quarters of the American public have heard of datacenters, but they haven&
 
 Workers who believe &#34;leveraging cross-functional synergies&#34; sounds profound may want to rethink their career trajectory because a new study suggests people who fall for corporate word salad also tend to perform worse at their jobs.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245102</guid>
-    </item>    <item>
-      <title>CSMWrap: make UEFI-only systems boot BIOS-based operating systems</title>
-      <link>https://www.osnews.com/story/144596/cwmwrap-make-uefi-only-systems-boot-bios-based-operating-systems/</link>
-      <description>
-        <![CDATA[What if you have a very modern machine that is entirely UEFI-only, meaning it has no compatibility support module and thus no way of enabling a legacy BIOS mode? Well, install a CSM as an EFI application, of course! CSMWrap is an EFI application designed to be a drop-in solution to enable legacy BIOS booting on modern UEFI-only (class 3) systems. It achieves this by wrapping a Compatibility Support Module (CSM) build of the SeaBIOS project as an out-of-firmware EFI application, effectively creating a compatibility layer for traditional PC BIOS operation. ↫ CSMWrap&#8217;s GitHub page The need for this may not be immediately obvious, but here&#8217;s the problem: if you want to run an older operating system that absolutely requires a traditional BIOS on a modern machine that only has UEFI without any CSM options (a class 3-machine), you won&#8217;t be able to boot said operating system. CSMWrap is a possible solution, as it leverages innate EFI capabilities to run a CSM as an EFI application, thereby adding the CSM functionality back in. All you need to do is drop CSMWrap into /efi/boot on the same drive the operating system that needs BIOS to boot is on, and UEFI will list it as a bootable operating system. It does come with some limitations, however. For instance, one logical core of your processor will be taken up by CSMWrap and will be entirely unavailable to the booted BIOS-based operating system. In other words, this means you&#8217;re going to need a processor with at least more than one logical processor (e.g., even a single-core machine with hyperthreading will work). It&#8217;s also suggested to add a legacy-capable video card if you&#8217;re using an operating system that doesn&#8217;t support VESA BIOS extensions (e.g. anything older than NT). This is an incredibly neat idea, and even comes with advantages over built-in CSMs, since many of those are untested and riddled with issues. CSMWrap uses SeaBIOS, which is properly tested and generally a much better BIOS than whatever native CSMs contain. All in all, a great project.]]>
-      </description>
-      <source:markdown>What if you have a very modern machine that is entirely UEFI-only, meaning it has no compatibility support module and thus no way of enabling a legacy BIOS mode? Well, install a CSM as an EFI application, of course! CSMWrap is an EFI application designed to be a drop-in solution to enable legacy BIOS booting on modern UEFI-only (class 3) systems. It achieves this by wrapping a Compatibility Support Module (CSM) build of the SeaBIOS project as an out-of-firmware EFI application, effectively creating a compatibility layer for traditional PC BIOS operation. ↫ CSMWrap’s GitHub page The need for this may not be immediately obvious, but here’s the problem: if you want to run an older operating system that absolutely requires a traditional BIOS on a modern machine that only has UEFI without any CSM options (a class 3-machine), you won’t be able to boot said operating system. CSMWrap is a possible solution, as it leverages innate EFI capabilities to run a CSM as an EFI application, thereby adding the CSM functionality back in. All you need to do is drop CSMWrap into /efi/boot on the same drive the operating system that needs BIOS to boot is on, and UEFI will list it as a bootable operating system. It does come with some limitations, however. For instance, one logical core of your processor will be taken up by CSMWrap and will be entirely unavailable to the booted BIOS-based operating system. In other words, this means you’re going to need a processor with at least more than one logical processor (e.g., even a single-core machine with hyperthreading will work). It’s also suggested to add a legacy-capable video card if you’re using an operating system that doesn’t support VESA BIOS extensions (e.g. anything older than NT). This is an incredibly neat idea, and even comes with advantages over built-in CSMs, since many of those are untested and riddled with issues. CSMWrap uses SeaBIOS, which is properly tested and generally a much better BIOS than whatever native CSMs contain. All in all, a great project.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144596</guid>
-    </item>    <item>
-      <title>Inside the datacenter where the day starts with topping up cerebrospinal fluid</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/14/cortical_labs_biological_cloud/</link>
-      <description>
-        <![CDATA[<h4>Biological computing is messy and gassy – It’s now cloudy, too</h4> <p>At the start of the working day at Cortical Labs’ datacenter in Melbourne, Australia, technicians top up the resident computers with a liquid modelled on the cerebrospinal fluid that surrounds the human brain.…</p>]]>
-      </description>
-      <source:markdown>#### Biological computing is messy and gassy – It’s now cloudy, too
-
-At the start of the working day at Cortical Labs’ datacenter in Melbourne, Australia, technicians top up the resident computers with a liquid modelled on the cerebrospinal fluid that surrounds the human brain.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245086</guid>
     </item>
   </channel>
 </rss>
