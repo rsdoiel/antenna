@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>04 Apr 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>05 Apr 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1804,15 +1804,6 @@ In 2025, Ambassadors delivered 43 activities, including training sessions, webin
 
 In 2026, the priority for the program includes strengthening regional and multilingual outreach, increasing visibility of the Ambassador role, expanding access to up-to-date resources and tools, and creating more opportunities to connect with Crossref staff.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/reflections-from-the-crossref-ambassador-community/</guid>
-    </item>    <item>
-      <title>Black No More, by George Schuyler</title>
-      <link>https://standardebooks.org/ebooks/george-schuyler/black-no-more</link>
-      <description>
-        <![CDATA[A medical process that makes black people look white revolutionizes American society.]]>
-      </description>
-      <source:markdown>A medical process that makes black people look white revolutionizes American society.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/george-schuyler/black-no-more/downloads/george-schuyler_black-no-more.epub?source=feed" length="396215" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/george-schuyler/black-no-more</guid>
     </item>
   </channel>
 </rss>

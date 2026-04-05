@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>04 Apr 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>05 Apr 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/04/05 - The Fairy and the Forest.</title>
+      <link>https://heyrick.eu/blog/entry/20260405</link>
+      <description>
+        <![CDATA[The Fairy and the Forest.]]>
+      </description>
+      <source:markdown>The Fairy and the Forest.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260405</guid>
+    </item>    <item>
+      <title>KIM-1 case</title>
+      <link>http://retro.hansotten.nl/kim-1-case/</link>
+      <description>
+        <![CDATA[The KIM-1 came from MOS Technology and Commodore without a case or power supply. So you either build your own housing or looked at what other firms sold for the KIM-1. There was a lot on offer, mostly targeted at system expansion with large cases. One of the cases you saw quite often was this [&#8230;]]]>
+      </description>
+      <source:markdown>The KIM-1 came from MOS Technology and Commodore without a case or power supply. So you either build your own housing or looked at what other firms sold for the KIM-1. There was a lot on offer, mostly targeted at system expansion with large cases. One of the cases you saw quite often was this \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20576</guid>
+    </item>    <item>
       <title>B.E.M. photos made by Gerben Voort</title>
       <link>http://retro.hansotten.nl/bem-photos-made-by-gerben-voort-added/</link>
       <description>

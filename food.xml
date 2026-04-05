@@ -4,10 +4,26 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>04 Apr 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>05 Apr 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Do You Want To Drink More Coffee? Sure, We All Do</title>
+      <link>https://sprudge.com/do-you-want-to-drink-more-coffee-sure-we-all-do-870186.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=870186</guid>
+    </item>    <item>
+      <title>7 Smart Ways Our Editors Use Up a Bag of Frozen Peas</title>
+      <link>https://www.bonappetit.com/story/meals-our-editors-make-with-frozen-peas</link>
+      <description>
+        <![CDATA[Like spring carbonara and samosa-dillas.]]>
+      </description>
+      <source:markdown>Like spring carbonara and samosa-dillas.</source:markdown>
+      <guid>cid://69cd66f1f87c492ff2ad80a1</guid>
+    </item>    <item>
       <title>I Love The Smell Of Coffee Gear In The Morning</title>
       <link>https://sprudge.com/i-love-the-smell-of-coffee-gear-in-the-morning-870280.html</link>
       <description>
@@ -2918,30 +2934,6 @@ A collection of the best shrimp recipes around! The tastiest ways to enjoy succu
 
 The post [Succulent Shrimp Recipes](https://www.closetcooking.com/succulent-shrimp-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2017/08/20/succulent-shrimp-recipes/</guid>
-    </item>    <item>
-      <title>Where to Stay in New York City If You Like to Eat</title>
-      <link>https://www.bonappetit.com/story/where-to-stay-new-york-city-food-lovers</link>
-      <description>
-        <![CDATA[To wine and dine your way through the city, a strategic home base is critical.]]>
-      </description>
-      <source:markdown>To wine and dine your way through the city, a strategic home base is critical.</source:markdown>
-      <guid>cid://69b4592c91af183d8b9a53fc</guid>
-    </item>    <item>
-      <title>31 Spring Side Dishes to Brighten Any Meal</title>
-      <link>https://www.bonappetit.com/gallery/spring-side-dishes-vegetable-recipes</link>
-      <description>
-        <![CDATA[Like blistered asparagus with harissa and pickled rhubarb salad.]]>
-      </description>
-      <source:markdown>Like blistered asparagus with harissa and pickled rhubarb salad.</source:markdown>
-      <guid>cid://57ed25198fb26d7d72d1d8e0</guid>
-    </item>    <item>
-      <title>Lentil Bolognese</title>
-      <link>https://www.tasteofhome.com/recipes/lentil-bolognese/</link>
-      <description>
-        <![CDATA[Cumin and nutmeg give this lentil Bolognese an unexpected warmth that sets it apart from other pasta sauces in your rotation.]]>
-      </description>
-      <source:markdown>Cumin and nutmeg give this lentil Bolognese an unexpected warmth that sets it apart from other pasta sauces in your rotation.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2189522</guid>
     </item>
   </channel>
 </rss>
