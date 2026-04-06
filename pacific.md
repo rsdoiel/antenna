@@ -8,7 +8,7 @@ title: Items of interest to the Pacific community and the Pacific RIM
 # Universities and Research Organizations
 
 - University of the South Pacific (Fiji) <https://www.usp.ac.fj/feed/>, RSS feed no longer works due to CloudFlare bot mitigations, 2026-02-24 RSD
-- [Pacific Center for Island Security](https://pacificcenterforislandsecurity.com/feed/)
+- [Pacific Center for Island Security](https://www.pacificcenterforislandsecurity.com/feed/) 
 - [Pacific Winds](https://pcisguam.substack.com/feed)
 
 # Guam and UOG
@@ -17,7 +17,7 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 # Commercial News Papers, Guam and the Northern Marianas, Republic of Belau
 
-- [Pacific Island Times](https://www.pacificislandtimes.com/blog-feed.xml)
+- [Pacific Island Times](https://www.pacificcenterforislandsecurity.com/feed/)
 - [Pacific Daily News @YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCS2nurz7ZrUYBG2pKf8e8JA)
 
 # From the Republic of Belau

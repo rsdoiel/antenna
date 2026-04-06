@@ -242,7 +242,8 @@ description: Blogs, columns and snapshots from around the web.
 - [WoLpH blog](https://w.wol.ph/feed/)
 - 404 Media Group <https://www.404media.co/rss/>, paywalled
 - [Marc André Tanner blog (creator of vis editor)](https://www.brain-dump.org/index.xml)
-- [Brett Brecker Blog (CS Prof. UCD Dublin)](https://www.brettbecker.com/feed/)
+- Brett Brecker Blog (CS Prof. UCD Dublin), <https://www.brettbecker.com/feed/> redirects to https://www.brettbecker.com/cgi-sys/suspendedpage.cgi, 2026-04-06 RSD
+  - Brett passed away in 2024. See https://www.ucd.ie/cs/news/drbrettbecker1976-2024/, dated 2024-10-06.
 - [Bunnie's Studio Blog](https://www.bunniestudios.com/blog/feed/)
 - [Chaos Computer Club Updates](https://www.ccc.de/de/rss/updates.xml)
 - [Digital Humanities Quarterly News](https://www.digitalrhetoriccollaborative.org/feed/)
@@ -380,7 +381,7 @@ description: Blogs, columns and snapshots from around the web.
 
 - [Mike Konczal](https://newsletter.mikekonczal.com/feed)
 - [Jasmine's Substack](https://jasmi.news/feed)
-- [Hunter Harris blog](https://hunterharris.substack.com)
+- [Hunter Harris blog](https://hunterharris.substack.com/feed/)
 - [The Sam Sanders Show}(https://feed.cdnstream1.com/zjb/feed/download/ac/28/59/ac28594c-e1d0-4231-8728-61865cdc80e8.xml)
 - [Assembly Required with Stacy Abrams](https://crooked.com/podcast-series/assemblyrequired/feed/)
 - [One Big Library](https://data.onebiglibrary.net/feeds/all.atom.xml)
