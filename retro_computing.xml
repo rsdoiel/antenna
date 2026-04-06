@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>05 Apr 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>06 Apr 26 07:06 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -4525,30 +4525,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       </description>
       <source:markdown>Martin Eastwood will be at RISC OS North to showcase his new Frosted Theme.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2311.html</guid>
-    </item>    <item>
-      <title>b.log 2026/03/15 - Brrr!, AI songs (3 songs).</title>
-      <link>https://heyrick.eu/blog/entry/20260315</link>
-      <description>
-        <![CDATA[Brrr!, AI songs (3 songs).]]>
-      </description>
-      <source:markdown>Brrr!, AI songs (3 songs).</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260315</guid>
-    </item>    <item>
-      <title>Matt Godbolt talks JSbeeb, Compiler Explorer, and more at ROUGOL – 16th March</title>
-      <link>https://www.riscository.com/2026/matt-godbolt-talks-jsbeeb-compiler-explorer-and-more-at-rougol-16th-march/</link>
-      <description>
-        <![CDATA[The next meeting of the RISC OS User Group of London (ROUGOL) takes place on Monday, 16th March (tomorrow), and the guest speaker is Matt Godbolt, who is fitting the group in during a visit to London from his home in Chicago. Matt started out programming on a Sinclair Spectrum before shifting to the much more powerful (and more relevant to Acorn and RISC OS folk) BBC Master, then the even more powerful Archimedes. He has written for Acorn User magazine, produced games for the BBC, as well as software&#8230;]]>
-      </description>
-      <source:markdown>The next meeting of the RISC OS User Group of London (ROUGOL) takes place on Monday, 16th March (tomorrow), and the guest speaker is Matt Godbolt, who is fitting the group in during a visit to London from his home in Chicago. Matt started out programming on a Sinclair Spectrum before shifting to the much more powerful (and more relevant to Acorn and RISC OS folk) BBC Master, then the even more powerful Archimedes. He has written for Acorn User magazine, produced games for the BBC, as well as software…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10899</guid>
-    </item>    <item>
-      <title>RISCOSbits introduces a slimmed-down Chimera for RISC OS North</title>
-      <link>https://www.riscository.com/2026/riscosbits-chimera-lite-riscos-north/</link>
-      <description>
-        <![CDATA[It&#8217;s now less than a week until RISC OS North, which takes place on Saturday, 21st March, and another announcement from RISCOSbits has landed in the bunker: On the back of the hugely popular Christmas Cracker, RISCOSbits is pleased to introduce Chimera Lite, a streamlined and highly accessible version of the popular Chimera system, making its debut at the RISC OS North Show. Chimera Lite has been designed for users who want a fast, modern RISC OS machine in a simple, ready-to-go configuration, while still retaining the flexibility that has&#8230;]]>
-      </description>
-      <source:markdown>It’s now less than a week until RISC OS North, which takes place on Saturday, 21st March, and another announcement from RISCOSbits has landed in the bunker: On the back of the hugely popular Christmas Cracker, RISCOSbits is pleased to introduce Chimera Lite, a streamlined and highly accessible version of the popular Chimera system, making its debut at the RISC OS North Show. Chimera Lite has been designed for users who want a fast, modern RISC OS machine in a simple, ready-to-go configuration, while still retaining the flexibility that has…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10897</guid>
     </item>
   </channel>
 </rss>
