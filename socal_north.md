@@ -20,7 +20,8 @@
 ## NGO and community sites
 
 - [L.A. Conservancy Blog](https://laconservancy.tumblr.com/rss)
-- [RSS for https://www.rand.org/pubs/podcasts/policy-minded.html](https://rss.libsyn.com/shows/131994/destinations/874184.xml)
+- [RAND Policy Minded podcast](https://rss.libsyn.com/shows/131994/destinations/874184.xml)
+  - RSS for <https://www.rand.org/pubs/podcasts/policy-minded.html> points to <https://rss.libsyn.com/shows/131994/destinations/874184.xml>, 2026-04-06 RSD
   - old URL <https://feeds.libsyn.com/131994/feed>, RSD 2026-02-24
 - [RAND press releases](https://www.rand.org/news/press.xml)
 - [Los Angeles World Affairs Council](https://lawac.org/feed/)

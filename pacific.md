@@ -4,12 +4,12 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 # Items of interest to the Pacific community and the Pacific RIM
 
-
 # Universities and Research Organizations
 
 - University of the South Pacific (Fiji) <https://www.usp.ac.fj/feed/>, RSS feed no longer works due to CloudFlare bot mitigations, 2026-02-24 RSD
-- [Pacific Center for Island Security](https://www.pacificcenterforislandsecurity.com/feed/) 
+- [Pacific Center for Island Security](https://pcisguam.substack.com/feed)
 - [Pacific Winds](https://pcisguam.substack.com/feed)
+- [US Navy Institute](https://news.usni.org/feed)
 
 # Guam and UOG
 
@@ -17,7 +17,7 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 # Commercial News Papers, Guam and the Northern Marianas, Republic of Belau
 
-- [Pacific Island Times](https://www.pacificcenterforislandsecurity.com/feed/)
+- [Pacific Island Times](https://www.pacificislandtimes.com/blog-feed.xml)
 - [Pacific Daily News @YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCS2nurz7ZrUYBG2pKf8e8JA)
 
 # From the Republic of Belau
@@ -55,6 +55,10 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 - [The Guardian, World/Micronesia](https://www.theguardian.com/world/micronesia/rss)
 
+# U.S. and Internation groups
+
+- [Navel News](https://www.navalnews.com/feed/)
+
 # FSM Gov
 
 - [FSM National Government](https://gov.fm/feed/)
@@ -64,11 +68,6 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 - [MERIP News, Marine Environment Ressearch Institute of Pohnpei](https://www.meripmicronesia.org/feed/)
 
-# New Zealand
-
-- [RNZ National News](https://www.rnz.co.nz/rss/national.xml)
-- [RNZ Pacific News](https://www.rnz.co.nz/rss/pacific.xml)
-- [RNZ Te Ao Māori](https://www.rnz.co.nz/rss/te-manu-korihi.xml)
 # Environmental
 
 - [Island Conservation News](https://www.islandconservation.org/feed/)
@@ -78,11 +77,23 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 - [FSM Development Bank News](http://www.fsmdb.fm/feed/)
 
-# Pacific Arts and Culture
+# Miconesian Substacks
 
 - [The Husk](https://thehusk.substack.com/feed)
+- [Patrick Pedrus, Micronesian Blog](https://patrickpedrus.substack.com/feed)
+- [CDR Salamander](https://cdrsalamander.substack.com/feed)
+
+
+# Pacific Arts and Culture
+
 - [‘Ōlelo Community Media](https://olelo.org/feed/)
 
+
+# Korean News
+
+- [Korea Herald](https://www.koreaherald.com/rss/newsAll)
+- [Korea Times](https://feed.koreatimes.co.kr/k/allnews.xml)
+- [Yonhap News](https://en.yna.co.kr/channel/index)
 
 # Philipines
 
@@ -96,3 +107,26 @@ title: Items of interest to the Pacific community and the Pacific RIM
   - They used to provide an atom feed via a search engine but that is
     now blocked via Cloudflare (AI bot abuse?)
 - Pacific Daily News does not provide a feed (not for a long time), <https://www.guampdn.com/>
+
+# Japan
+
+- [Japan Times](https://www.japantimes.co.jp/feed/)
+
+# Taiwan
+
+- [Taiwan News](https://taiwannews.tw/feed/)
+- [Taipei Times](https://www.taipeitimes.com/xml/index.rss)
+- [CNA](https://feeds.feedburner.com/rsscna/engnews/)
+
+# Vietnam
+
+-  Vietnam News, <https://vietnamnews.vn/rss> feeds failed on harvest, 2026-04-06 RSD
+-  Siagon Times, <https://english.thesaigontimes.vn/feed/> feeds failed on harvest, 2026-04-06 RSD
+
+
+# New Zealand
+
+- [RNZ National News](https://www.rnz.co.nz/rss/national.xml)
+- [RNZ Pacific News](https://www.rnz.co.nz/rss/pacific.xml)
+- [RNZ Te Ao Māori](https://www.rnz.co.nz/rss/te-manu-korihi.xml)
+

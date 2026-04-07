@@ -403,3 +403,4 @@ description: Blogs, columns and snapshots from around the web.
 - [John Osterhout](http://johnosterhout.com/feed/)
 - [Thereallo Blog](https://blog.thereallo.dev/rss.xml)
 - [Linix Weekly News](https://lwn.net/headlines/rss)
+- [Claire Berlinski, Substack (Cosmopolitan Globalist)](https://claireberlinski.substack.com/feed)

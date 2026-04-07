@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>06 Apr 26 07:06 -0700</dateCreated>
+        <dateCreated>07 Apr 26 06:40 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -58,6 +58,7 @@
         <outline text="Charlie Hardie blog" type="rss" xmlUrl="https://tech.chrishardie.com/feed/" htmlUrl="https://tech.chrishardie.com/,https://tech.chrishardie.com/feed/" description="WordPress and Laravel tips, code examples, hardware and software reviews, APIs and integrations, and more" url="https://tech.chrishardie.com/feed/"></outline>
         <outline text="Chris Heilmann&#39;s blog" type="rss" xmlUrl="https://christianheilmann.com/feed/" htmlUrl="https://christianheilmann.com,https://christianheilmann.com/feed/" description="For a better web with more professional jobs - can talk, will travel" url="https://christianheilmann.com/feed/"></outline>
         <outline text="Citation Needed News" type="rss" xmlUrl="https://www.citationneeded.news/rss/" htmlUrl="https://www.citationneeded.news/,https://www.citationneeded.news/rss/" description="A critical look at the cryptocurrency industry and the broader technology world." url="https://www.citationneeded.news/rss/"></outline>
+        <outline text="Claire Berlinski, Substack (Cosmopolitan Globalist)" type="rss" xmlUrl="https://claireberlinski.substack.com/feed" htmlUrl="https://claireberlinski.substack.com,https://claireberlinski.substack.com/feed" description="Edited by essayist Claire Berlinski, this is Substack&#39;s top forum for the discussion of international news among readers and writers, around the world, who are concerned about the future of liberal democracy and the gathering storm of global war." url="https://claireberlinski.substack.com/feed"></outline>
         <outline text="Climbing to the Stars blog" type="rss" xmlUrl="https://climbtothestars.org/feed/" htmlUrl="https://climbtothestars.org,https://climbtothestars.org/feed/" description="Stephanie Booth&#39;s online ramblings" url="https://climbtothestars.org/feed/"></outline>
         <outline text="Cloud Four" type="rss" xmlUrl="https://cloudfour.com/feed/" htmlUrl="https://cloudfour.com,https://cloudfour.com/feed/" description="Responsive web design and development, progressive web apps" url="https://cloudfour.com/feed/"></outline>
         <outline text="Cobel Sasser&#39;s blog" type="rss" xmlUrl="https://cabel.com/feed/" htmlUrl="https://cabel.com,https://cabel.com/feed/" description="A blog by Cabel Sasser" url="https://cabel.com/feed/"></outline>

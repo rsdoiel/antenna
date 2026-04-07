@@ -4,10 +4,35 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>06 Apr 26 07:06 -0700</lastBuildDate>
+    <lastBuildDate>07 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RISC OS Git client reaches release 0.12</title>
+      <link>http://www.iconbar.com/comments/rss/news2321.html</link>
+      <description>
+        <![CDATA[ROOL continues to make progress on its mission to bring modern source control to RISC OS with the release of 0.12 of the Git client]]>
+      </description>
+      <source:markdown>ROOL continues to make progress on its mission to bring modern source control to RISC OS with the release of 0.12 of the Git client</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2321.html</guid>
+    </item>    <item>
+      <title>Ubuntu MATE Dev Leaving After 12 years</title>
+      <link>http://www.linux-magazine.com/Online/News/Ubuntu-MATE-Dev-Leaving-After-12-years</link>
+      <description>
+        <![CDATA[<p>Martin Wimpress, the maintainer of Ubuntu MATE, is now searching for his successor. Are you the next in line?</p>]]>
+      </description>
+      <source:markdown>Martin Wimpress, the maintainer of Ubuntu MATE, is now searching for his successor. Are you the next in line?</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://cab8da80c83a7950522c593dee1b81e9</guid>
+    </item>    <item>
+      <title>b.log 2026/04/06 - Crisis averted!, Radio interference, DCF77?, Cute toy, Long weekend, Tablet, No love lost for Trump, Monday, Sakura!</title>
+      <link>https://heyrick.eu/blog/entry/20260406</link>
+      <description>
+        <![CDATA[Crisis averted!, Radio interference, DCF77?, Cute toy, Long weekend, Tablet, No love lost for Trump, Monday, Sakura!]]>
+      </description>
+      <source:markdown>Crisis averted!, Radio interference, DCF77?, Cute toy, Long weekend, Tablet, No love lost for Trump, Monday, Sakura!</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260406</guid>
+    </item>    <item>
       <title>b.log 2026/04/05 - The Fairy and the Forest.</title>
       <link>https://heyrick.eu/blog/entry/20260405</link>
       <description>
@@ -4492,39 +4517,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s320/cbm-sx500-portrait.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s1024/cbm-sx500-portrait.jpg)</source:markdown>
       <author>noreply@blogger.com (ClassicHasClass)</author>
       <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-2966076472250111640</guid>
-    </item>    <item>
-      <title>Latest Linux Kernel RC Contains Changes Galore</title>
-      <link>http://www.linux-magazine.com/Online/News/Latest-Linux-Kernel-RC-Contains-Changes-Galore</link>
-      <description>
-        <![CDATA[<p>Linux kernel 7.0-rc3 includes more changes than have been made in a single release in recent history.</p>]]>
-      </description>
-      <source:markdown>Linux kernel 7.0-rc3 includes more changes than have been made in a single release in recent history.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://185b08f8d90c6aebfbee40a725d6d150</guid>
-    </item>    <item>
-      <title>b.log 2026/03/16 - Setting the RISC OS Econet Station ID.</title>
-      <link>https://heyrick.eu/blog/entry/20260316</link>
-      <description>
-        <![CDATA[Setting the RISC OS Econet Station ID.]]>
-      </description>
-      <source:markdown>Setting the RISC OS Econet Station ID.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260316</guid>
-    </item>    <item>
-      <title>A-ONE Apple 1 replica family 2025</title>
-      <link>http://retro.hansotten.nl/a-one-apple-1-replica-family-2025/</link>
-      <description>
-        <![CDATA[In 2025 Franz Achatz revived the A-ONE Apple 1 replica. The excellent design is refreshed, a new family member added: the A-ONE PLUS. I now have the 2025 standard board, the 2025 PLUS and the 2006 EXTENDED. With the prototype boards with and without breadboard and the 2025 cassette interface. Read all about the A-ONE [&#8230;]]]>
-      </description>
-      <source:markdown>In 2025 Franz Achatz revived the A-ONE Apple 1 replica. The excellent design is refreshed, a new family member added: the A-ONE PLUS. I now have the 2025 standard board, the 2025 PLUS and the 2006 EXTENDED. With the prototype boards with and without breadboard and the 2025 cassette interface. Read all about the A-ONE \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20230</guid>
-    </item>    <item>
-      <title>Discover your &#39;Dark side&#39; at RISC OS North Show</title>
-      <link>http://www.iconbar.com/comments/rss/news2311.html</link>
-      <description>
-        <![CDATA[Martin Eastwood will be at RISC OS North to showcase his new Frosted Theme.]]>
-      </description>
-      <source:markdown>Martin Eastwood will be at RISC OS North to showcase his new Frosted Theme.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2311.html</guid>
     </item>
   </channel>
 </rss>
