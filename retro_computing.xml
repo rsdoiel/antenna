@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>08 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>09 Apr 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Archive Edition 28:02 reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2322.html</link>
+      <description>
+        <![CDATA[Archive Magazine 28:02 was released for the North West Show and subscribers should have received your copy in the post recently]]>
+      </description>
+      <source:markdown>Archive Magazine 28:02 was released for the North West Show and subscribers should have received your copy in the post recently</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2322.html</guid>
+    </item>    <item>
+      <title>b.log 2026/04/08 - The swallows have arrived!, Heat!, JD Vance is an arsehole, Tea v0.28.</title>
+      <link>https://heyrick.eu/blog/entry/20260408</link>
+      <description>
+        <![CDATA[The swallows have arrived!, Heat!, JD Vance is an arsehole, Tea v0.28.]]>
+      </description>
+      <source:markdown>The swallows have arrived!, Heat!, JD Vance is an arsehole, Tea v0.28.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260408</guid>
+    </item>    <item>
+      <title>DOS Ultimate Game Library (DUGL)</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/04/dos-ultimate-game-library-dugl/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>DUGL is a super fast, 32bits/DOS only/ C, Assembly Game library using software rasterizer. This project is an attempt to create a new version of DUGL that provides much of the same functionality as the Dust Ultimate Game library. DUGL version 1.0 alpha 3 was released last week with these features: - Add experimental sound decoding/support using Sound Blaster 16 driver - Improve config file with new sound audio paramters, true|false to enable/disable - Add reverting to 640x480 if selected config file video resolution isn't available - Keyboard 'P' now pause continue playing current video. Tested successfully with freedos/csmwrap/vsbhda. Download the new version from <a href="https://github.com/FFK77/DOS-DUGL/" rel="nofollow">DUGL on GitHub</a> or download directly as a <a href="https://github.com/FFK77/DOS-DUGL/blob/main/duglproj/apps/DUGLPLAY/Releases/DPL10A3.zip" rel="nofollow">zip file</a></p></div>]]>
+      </description>
+      <source:markdown>DUGL is a super fast, 32bits/DOS only/ C, Assembly Game library using software rasterizer. This project is an attempt to create a new version of DUGL that provides much of the same functionality as the Dust Ultimate Game library. DUGL version 1.0 alpha 3 was released last week with these features: - Add experimental sound decoding/support using Sound Blaster 16 driver - Improve config file with new sound audio paramters, true\|false to enable/disable - Add reverting to 640x480 if selected config file video resolution isn&#39;t available - Keyboard &#39;P&#39; now pause continue playing current video. Tested successfully with freedos/csmwrap/vsbhda. Download the new version from [DUGL on GitHub](https://github.com/FFK77/DOS-DUGL/) or download directly as a [zip file](https://github.com/FFK77/DOS-DUGL/blob/main/duglproj/apps/DUGLPLAY/Releases/DPL10A3.zip)</source:markdown>
+      <guid>cid://https://sourceforge.neta237bde8d1afa61800998174ad64232b5f269e55</guid>
+    </item>    <item>
       <title>Ubuntu 26.04 Beta Arrives with Some Surprises</title>
       <link>http://www.linux-magazine.com/Online/News/Ubuntu-26.04-Beta-Arrives-with-Some-Surprises</link>
       <description>
@@ -4460,42 +4484,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       </description>
       <source:markdown>The RISC OS North show now only two (count ’em) days away, and another announcement has bounced into the RISCOSitory inbox from RISCOSbits: Visitors to the RISC OS North Show on 21st March will find the RISCOSbits stand packed with hardware options for almost every kind of RISC OS user – from powerful desktop machines to compact modular systems and flexible DIY kits. Whether you’re looking for performance, expandability, or a hands-on project, there will be plenty to explore. Performance Systems: FAST Range At the high-performance end of the range…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10907</guid>
-    </item>    <item>
-      <title>Spring starts at Warrington</title>
-      <link>https://www.riscosopen.org/news/articles/2026/03/18/spring-starts-at-warrington</link>
-      <description>
-        <![CDATA[<p>No sooner has the sun made it all the way to the equator, marking the spring equinox, then it&#8217;s time for the first show of the year: <a href="https://www.riscosnorth.uk/"><span class="caps">RISC</span> OS North</a>, in conjunction with the <a href="https://www.wrocc.org.uk/"><span class="caps">WROCC</span></a> user group. Align your chronometer for Saturday, 21th March, 2026.</p>
-        <p><img src="/images/risc_os_open/shows/warrington2026.png" title="Show banner" alt="Show banner" /></p>]]>
-      </description>
-      <source:markdown>No sooner has the sun made it all the way to the equator, marking the spring equinox, then it’s time for the first show of the year: [RISC OS North](https://www.riscosnorth.uk/), in conjunction with the [WROCC](https://www.wrocc.org.uk/) user group. Align your chronometer for Saturday, 21th March, 2026.
-
-![Show banner](/images/risc_os_open/shows/warrington2026.png)</source:markdown>
-      <guid>cid://urn:uuid:697b57a8-d7e2-45e4-9699-b31ee27b038d</guid>
-    </item>    <item>
-      <title>b.log 2026/03/18 - Does your lightbulb need an update?</title>
-      <link>https://heyrick.eu/blog/entry/20260318</link>
-      <description>
-        <![CDATA[Does your lightbulb need an update?]]>
-      </description>
-      <source:markdown>Does your lightbulb need an update?</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260318</guid>
-    </item>    <item>
-      <title>RISC OS North is THIS WEEKEND!</title>
-      <link>https://www.riscository.com/2026/risc-os-north-this-weekend/</link>
-      <description>
-        <![CDATA[With RISC OS show-eve almost upon us (that&#8217;ll be Friday, folks &#8211; the day before the show), Andrew Rawnsley and Richard Brown, who jointly organise the RISC OS North shows, have sent out an announcement/reminder about the upcoming event: We&#8217;re now only a few days away from the first big RISC OS event of 2026 &#8211; the RISC OS North Show in Warrington, Saturday 21st March 2026. The show takes place at the Village Hotel in Warrington, from 10.30am &#8217;til 4.30pm. The hotel has food and drink available from its&#8230;]]>
-      </description>
-      <source:markdown>With RISC OS show-eve almost upon us (that’ll be Friday, folks – the day before the show), Andrew Rawnsley and Richard Brown, who jointly organise the RISC OS North shows, have sent out an announcement/reminder about the upcoming event: We’re now only a few days away from the first big RISC OS event of 2026 – the RISC OS North Show in Warrington, Saturday 21st March 2026. The show takes place at the Village Hotel in Warrington, from 10.30am ’til 4.30pm. The hotel has food and drink available from its…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10902</guid>
-    </item>    <item>
-      <title>NEOS Mouse: Reborn</title>
-      <link>https://www.c64os.com/post/neosreborn</link>
-      <description>
-        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/neosreborn/icon-neosmouse.jpg'> Have you ever heard of the NEOS mouse? You've probably heard that it sucks. And that impression is well earned. But there is a good reason for this, so let me explain exactly why it sucks and what we can do to make it useful again and give it a fresh breath of air. For some context, the standard mouse on the C64, C128, and compatible computers is the Commodore 1351 mouse. You're probably familiar with this one. Many people think of it as a "GEOS" mouse, because it shipped concurrently with the introduction of GEOS. And of course, using a real mouse with a graphical user interface is a huge step up in ease and productivity. Here's what the 1351 looks like: Commodore 1351 Mouse If you've been around the block, you have probably also heard that you should steer clear of the infamous Commodore 1350 mouse. (Beware that little "0" rather than a "1".) The 1350 mouse is a joystick in mouse clothing and it totally stinks. To use a 1350, you have to continually roll the ball in a given direction. . .]]>
-      </description>
-      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/neosreborn/icon-neosmouse.jpg) Have you ever heard of the NEOS mouse? You&#39;ve probably heard that it sucks. And that impression is well earned. But there is a good reason for this, so let me explain exactly why it sucks and what we can do to make it useful again and give it a fresh breath of air. For some context, the standard mouse on the C64, C128, and compatible computers is the Commodore 1351 mouse. You&#39;re probably familiar with this one. Many people think of it as a &#34;GEOS&#34; mouse, because it shipped concurrently with the introduction of GEOS. And of course, using a real mouse with a graphical user interface is a huge step up in ease and productivity. Here&#39;s what the 1351 looks like: Commodore 1351 Mouse If you&#39;ve been around the block, you have probably also heard that you should steer clear of the infamous Commodore 1350 mouse. (Beware that little &#34;0&#34; rather than a &#34;1&#34;.) The 1350 mouse is a joystick in mouse clothing and it totally stinks. To use a 1350, you have to continually roll the ball in a given direction. . .</source:markdown>
-      <author>gregorynacu@me.com (Gregory Nacu)</author>
-      <guid>cid://https://www.c64os.com/post?p=134</guid>
     </item>
   </channel>
 </rss>
