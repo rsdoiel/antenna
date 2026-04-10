@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Apr 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>10 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -493,7 +493,7 @@ Our books are also [available as epubs](https://payhip.com/LOWTECHMAGAZINE). How
         
         VA1 is 109 blocks long and intentionally uncompressed so that you can overwrite it in place with anything you load from disk. It provides an 8K RAM system; by default it comes with Integer BASIC in the high 4K RAM at virtual address $E000 and <a href="https://en.wikipedia.org/wiki/Hamurabi_%28video_game%29">Hamurabi</a> [sic] loaded into the low 4K RAM at virtual address $0000. If you type <tt>E2B3R</tt> to warm-start Integer BASIC and then type <tt>RUN</tt>, the game starts.
         <p>
-        Running BASIC programs is admittedly where the processor emulation drags noticeably. Simon's claim of 20% native for his SAM Coupe 6502 emulator is based on a processor that clock-for-clock (6MHz versus 1.0227<span STYLE="text-decoration:overline">27</span>MHz [NTSC] or 0.98524861<span STYLE="text-decoration:overline">1</span>MHz [PAL], but Z80 instructions on average take more clock cycles) is about two or three times faster than the C64's and has more registers, and is running a purpose-written emulator instead of the more generalized one here. While the harness and kernel in VA1 are very thin, they do add a non-trivial cost, and when no display output is being generated VA1 is probably around ten to twenty times slower than a real Apple-1 depending on the instruction mix. When emitting characters, however, both emulators run roughly at full speed because now the video hardware becomes the rate-limiting factor.
+        Running BASIC programs is admittedly where the processor emulation drags noticeably. Simon's claim of 20% native for his SAM Coupe 6502 emulator is based on a processor that clock-for-clock (6MHz versus 1.0227<span STYLE="text-decoration:overline">27</span>MHz [NTSC] or 0.98524861<span STYLE="text-decoration:overline">1</span>MHz [PAL], but Z80 instructions on average take more clock cycles) is about two or three times faster than the C64's and has more registers, and is running a purpose-written emulator instead of the more generalized one here. While the harness and kernel in VA1 are very thin, they do add a non-trivial cost, and when no display output is being generated VA1 is probably around twenty to thirty times slower than a real Apple-1 depending on the instruction mix. When emitting characters, however, both emulators run roughly at full speed because now the video hardware becomes the rate-limiting factor.
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNNCYHaUsvIK60UgxsrZiXpbsiak42q_LgByNXeOFhcJkAEO__P7gHjZyKC_1JefsitdPFwbXWxY5ljoaUTYuuXXX21TWCDGAZjZEUS6YbNU-XsiWl59wPvgUk5xU9JCNu3Ar7ppGhNnFUBChdQBxHQrkN2NuDFRC_VNOEvWGDfqzo4Rd0Q_uol1YLvXU/s1152/big-vice-screen-2026032719532604.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="988" data-original-width="1152" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNNCYHaUsvIK60UgxsrZiXpbsiak42q_LgByNXeOFhcJkAEO__P7gHjZyKC_1JefsitdPFwbXWxY5ljoaUTYuuXXX21TWCDGAZjZEUS6YbNU-XsiWl59wPvgUk5xU9JCNu3Ar7ppGhNnFUBChdQBxHQrkN2NuDFRC_VNOEvWGDfqzo4Rd0Q_uol1YLvXU/s320/big-vice-screen-2026032719532604.png"/></a></div>
         
@@ -702,7 +702,7 @@ VA1 has key equivalents for the Apple-1&#39;s special functions like other emula
 
 VA1 is 109 blocks long and intentionally uncompressed so that you can overwrite it in place with anything you load from disk. It provides an 8K RAM system; by default it comes with Integer BASIC in the high 4K RAM at virtual address $E000 and [Hamurabi](https://en.wikipedia.org/wiki/Hamurabi_%28video_game%29) \[sic\] loaded into the low 4K RAM at virtual address $0000. If you type `E2B3R` to warm-start Integer BASIC and then type `RUN`, the game starts.
 
-Running BASIC programs is admittedly where the processor emulation drags noticeably. Simon&#39;s claim of 20% native for his SAM Coupe 6502 emulator is based on a processor that clock-for-clock (6MHz versus 1.022727MHz \[NTSC\] or 0.985248611MHz \[PAL\], but Z80 instructions on average take more clock cycles) is about two or three times faster than the C64&#39;s and has more registers, and is running a purpose-written emulator instead of the more generalized one here. While the harness and kernel in VA1 are very thin, they do add a non-trivial cost, and when no display output is being generated VA1 is probably around ten to twenty times slower than a real Apple-1 depending on the instruction mix. When emitting characters, however, both emulators run roughly at full speed because now the video hardware becomes the rate-limiting factor.
+Running BASIC programs is admittedly where the processor emulation drags noticeably. Simon&#39;s claim of 20% native for his SAM Coupe 6502 emulator is based on a processor that clock-for-clock (6MHz versus 1.022727MHz \[NTSC\] or 0.985248611MHz \[PAL\], but Z80 instructions on average take more clock cycles) is about two or three times faster than the C64&#39;s and has more registers, and is running a purpose-written emulator instead of the more generalized one here. While the harness and kernel in VA1 are very thin, they do add a non-trivial cost, and when no display output is being generated VA1 is probably around twenty to thirty times slower than a real Apple-1 depending on the instruction mix. When emitting characters, however, both emulators run roughly at full speed because now the video hardware becomes the rate-limiting factor.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNNCYHaUsvIK60UgxsrZiXpbsiak42q_LgByNXeOFhcJkAEO__P7gHjZyKC_1JefsitdPFwbXWxY5ljoaUTYuuXXX21TWCDGAZjZEUS6YbNU-XsiWl59wPvgUk5xU9JCNu3Ar7ppGhNnFUBChdQBxHQrkN2NuDFRC_VNOEvWGDfqzo4Rd0Q_uol1YLvXU/s320/big-vice-screen-2026032719532604.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNNCYHaUsvIK60UgxsrZiXpbsiak42q_LgByNXeOFhcJkAEO__P7gHjZyKC_1JefsitdPFwbXWxY5ljoaUTYuuXXX21TWCDGAZjZEUS6YbNU-XsiWl59wPvgUk5xU9JCNu3Ar7ppGhNnFUBChdQBxHQrkN2NuDFRC_VNOEvWGDfqzo4Rd0Q_uol1YLvXU/s1152/big-vice-screen-2026032719532604.png)
 
@@ -4460,30 +4460,6 @@ It&#39;s a fitting happy ending for a warhorse poor man&#39;s minicomputer archi
       </description>
       <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Rennes-le-Château enjoyed its first watershed moment as a media phenomenon when Albert Salamon wrote his newspaper articles in 1956. Its second came when a documentary about the village was aired on French \[…\]</source:markdown>
       <guid>cid://https://www.filfre.net/?p=6696</guid>
-    </item>    <item>
-      <title>b.log 2026/03/19 - What sort of world do you want to live in?</title>
-      <link>https://heyrick.eu/blog/entry/20260319</link>
-      <description>
-        <![CDATA[What sort of world do you want to live in?]]>
-      </description>
-      <source:markdown>What sort of world do you want to live in?</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260319</guid>
-    </item>    <item>
-      <title>The K3 Keyboard Screen</title>
-      <link>https://riscosbits.blog/2026/03/19/the-k3-keyboard-screen/</link>
-      <description>
-        <![CDATA[A Quick RISC OS Perspective If you&#8217;re likely to attend the upcoming (at the time of posting) RISC OS North 2026 Show, you may spot an odd looking device on the RISCOSbits stand. At first glance it looks like a &#8230; <a href="https://riscosbits.blog/2026/03/19/the-k3-keyboard-screen/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>A Quick RISC OS Perspective If you’re likely to attend the upcoming (at the time of posting) RISC OS North 2026 Show, you may spot an odd looking device on the RISCOSbits stand. At first glance it looks like a … [Continue reading →](https://riscosbits.blog/2026/03/19/the-k3-keyboard-screen/)</source:markdown>
-      <guid>cid://http://riscosbits.blog/?p=4034</guid>
-    </item>    <item>
-      <title>What’s on the RISCOSbits RISC OS North RISC OS menu?</title>
-      <link>https://www.riscository.com/2026/riscosbits-north-menu/</link>
-      <description>
-        <![CDATA[The RISC OS North show now only two (count &#8217;em) days away, and another announcement has bounced into the RISCOSitory inbox from RISCOSbits: Visitors to the RISC OS North Show on 21st March will find the RISCOSbits stand packed with hardware options for almost every kind of RISC OS user – from powerful desktop machines to compact modular systems and flexible DIY kits. Whether you’re looking for performance, expandability, or a hands-on project, there will be plenty to explore. Performance Systems: FAST Range At the high-performance end of the range&#8230;]]>
-      </description>
-      <source:markdown>The RISC OS North show now only two (count ’em) days away, and another announcement has bounced into the RISCOSitory inbox from RISCOSbits: Visitors to the RISC OS North Show on 21st March will find the RISCOSbits stand packed with hardware options for almost every kind of RISC OS user – from powerful desktop machines to compact modular systems and flexible DIY kits. Whether you’re looking for performance, expandability, or a hands-on project, there will be plenty to explore. Performance Systems: FAST Range At the high-performance end of the range…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10907</guid>
     </item>
   </channel>
 </rss>
