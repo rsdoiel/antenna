@@ -4,10 +4,175 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>10 Apr 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>11 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/</link>
+      <description>
+        <![CDATA[<h4>Time to start dropping SBOMs</h4> <p><strong>FEATURE</strong>  Two supply chain attacks in March infected open source tools with malware and used this access to steal secrets from tens of thousands – if not more – organizations. We won&#39;t know the full blast radius for months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Time to start dropping SBOMs
+
+**FEATURE**  Two supply chain attacks in March infected open source tools with malware and used this access to steal secrets from tens of thousands – if not more – organizations. We won&#39;t know the full blast radius for months.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245556</guid>
+    </item>    <item>
+      <title>Artemis II Splashes Down</title>
+      <link>https://www.nasa.gov/image-article/artemis-ii-splashes-down/</link>
+      <description>
+        <![CDATA[This image from April 10, 2026, captures NASA&#8217;s Orion spacecraft, with its parachutes deployed, seconds before splashdown in the Pacific Ocean. The Artemis II crew accomplished many milestones on their nearly 10-day mission, surpassing the Apollo 13 record for farthest crewed spaceflight and capturing views of the far side of the Moon. Under Artemis, NASA [&#8230;]]]>
+      </description>
+      <source:markdown>This image from April 10, 2026, captures NASA’s Orion spacecraft, with its parachutes deployed, seconds before splashdown in the Pacific Ocean. The Artemis II crew accomplished many milestones on their nearly 10-day mission, surpassing the Apollo 13 record for farthest crewed spaceflight and capturing views of the far side of the Moon. Under Artemis, NASA \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=983357</guid>
+    </item>    <item>
+      <title>Hungarian government creds left in the safe hands of &#39;FrankLampard&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/</link>
+      <description>
+        <![CDATA[<h4>Nearly 800 state logins surfaced in breach data, including defense and NATO-linked accounts</h4> <p>Hungary&#39;s government has discovered the hard way that the biggest threat to national security might just be its own password choices.…</p>]]>
+      </description>
+      <source:markdown>#### Nearly 800 state logins surfaced in breach data, including defense and NATO-linked accounts
+
+Hungary&#39;s government has discovered the hard way that the biggest threat to national security might just be its own password choices.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245541</guid>
+    </item>    <item>
+      <title>NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth</title>
+      <link>https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/</link>
+      <description>
+        <![CDATA[The first astronauts to travel to the Moon in more than half a century are back on Earth after a record-setting mission aboard NASA’s Artemis II test flight. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen splashed down at 5:07 p.m. PDT Friday off the coast [&#8230;]]]>
+      </description>
+      <source:markdown>The first astronauts to travel to the Moon in more than half a century are back on Earth after a record-setting mission aboard NASA’s Artemis II test flight. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen splashed down at 5:07 p.m. PDT Friday off the coast \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=983177</guid>
+    </item>    <item>
+      <title>Artemis 2 Astronauts Successfully Return to Earth After Completing a Historic Mission Around the Moon</title>
+      <link>https://www.smithsonianmag.com/smart-news/artemis-2-astronauts-successfully-return-to-earth-after-completing-a-historic-mission-around-the-moon-180988513/</link>
+      <description>
+        <![CDATA[The crewmembers splashed down Friday after breaking a space-faring record and viewing lunar features never seen by human eyes during their ten-day trip. It marks the first time anyone has left Earth's orbit in more than 50 years]]>
+      </description>
+      <source:markdown>The crewmembers splashed down Friday after breaking a space-faring record and viewing lunar features never seen by human eyes during their ten-day trip. It marks the first time anyone has left Earth&#39;s orbit in more than 50 years</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5GtTPqhWenRoEMfTrBTZeiqtKoA=/420x240/filters:focal(1728x1119:1729x1120)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/c4/e3c4dc29-4225-43f0-8dba-934867e3d0e6/screenshot_2026-04-10_at_80802pm.png" length="1447904" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/artemis-2-astronauts-successfully-return-to-earth-after-completing-a-historic-mission-around-the-moon-180988513/</guid>
+    </item>    <item>
+      <title>Snowflake manager explains the &#39;Spider-Man&#39; theory of AI agent data access</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/10/ai_agents_spider_man_snowflake/</link>
+      <description>
+        <![CDATA[<h4>With access to great data comes great responsibility</h4> <p>Snowflake is betting that the biggest bottleneck to building more and better AI agents isn&#39;t the models themselves but whether the data those agents depend on is clean, accessible, and governed, Snowflake’s director of product management James Rowland-Jones told <em>The Register</em>.…</p>]]>
+      </description>
+      <source:markdown>#### With access to great data comes great responsibility
+
+Snowflake is betting that the biggest bottleneck to building more and better AI agents isn&#39;t the models themselves but whether the data those agents depend on is clean, accessible, and governed, Snowflake’s director of product management James Rowland-Jones told _The Register_.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245555</guid>
+    </item>    <item>
+      <title>Here&#39;s how to watch the Artemis II splashdown</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/10/watch_artemis_ii_splashdown/</link>
+      <description>
+        <![CDATA[<h4>Crew went farther from Earth than any humans we know about, now they’re coming back!</h4> <p>In a world wracked by wars, beset by difficult economic conditions, and struggling with exploding RAM costs, there&#39;s one piece of good news. NASA&#39;s Artemis II mission has been an unqualified success, having carried four astronauts farther from Earth than any humans before them.…</p>]]>
+      </description>
+      <source:markdown>#### Crew went farther from Earth than any humans we know about, now they’re coming back!
+
+In a world wracked by wars, beset by difficult economic conditions, and struggling with exploding RAM costs, there&#39;s one piece of good news. NASA&#39;s Artemis II mission has been an unqualified success, having carried four astronauts farther from Earth than any humans before them.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245554</guid>
+    </item>    <item>
+      <title>Red Hat RHELocates its Chinese engineering team to India</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/10/red_hat_ends_china_engineering/</link>
+      <description>
+        <![CDATA[<h4>Hundreds of layoffs, but this smells of geopolitics, not downsizing</h4> <p>Red Hat appears to have fired its entire engineering team in China, which it no longer thinks is a country it needs to prioritize. Most of the team will move to India.…</p>]]>
+      </description>
+      <source:markdown>#### Hundreds of layoffs, but this smells of geopolitics, not downsizing
+
+Red Hat appears to have fired its entire engineering team in China, which it no longer thinks is a country it needs to prioritize. Most of the team will move to India.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245553</guid>
+    </item>    <item>
+      <title>These Wild Chimps Have Been Fighting in a &#39;Civil War&#39; for Nearly a Decade. It&#39;s the Bloodiest Split Ever Seen Among Their Kind</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-wild-chimps-have-been-fighting-in-a-civil-war-for-nearly-a-decade-its-the-bloodiest-split-ever-seen-among-their-kind-180988527/</link>
+      <description>
+        <![CDATA[The Ngogo chimpanzees in Uganda have divided themselves into two main factions, and dozens of deaths have been recorded since the split in 2018. A new study details the unprecedented violence, which could shed light on the evolutionary underpinnings of human warfare]]>
+      </description>
+      <source:markdown>The Ngogo chimpanzees in Uganda have divided themselves into two main factions, and dozens of deaths have been recorded since the split in 2018. A new study details the unprecedented violence, which could shed light on the evolutionary underpinnings of human warfare</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FXa1l7L7d2Pr_VRUIE3buU_spyU=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/09/b8/09b866bd-6f8b-4d64-bf7d-04d3163a4767/western-males-attack-basie-in-2019-photo-by-aaron-sandel-scaled-1200x800-c-default.jpg" length="210401" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-wild-chimps-have-been-fighting-in-a-civil-war-for-nearly-a-decade-its-the-bloodiest-split-ever-seen-among-their-kind-180988527/</guid>
+    </item>    <item>
+      <title>The disturbing white paper Red Hat is trying to erase from the internet</title>
+      <link>https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/</link>
+      <description>
+        <![CDATA[It shouldn&#8217;t be a surprise that companies &#8211; and for our field, technology companies specifically &#8211; working with the defense industry tends to raise eyebrows. With things like the genocide in Gaza, the threats of genocide and war crimes against Iran, the mass murder in Lebanon, it&#8217;s no surprise that western companies working with the militaries and defense companies involved in these atrocities are receiving some serious backlash. With that in mind, it seems Red Hat, owned by IBM, is desperately trying to scrub a certain white paper from the internet. Titled &#8220;Compress the kill cycle with Red Hat Device Edge&#8221;, the 2024 white paper details how Red Hat&#8217;s products and technologies can make it easier and faster to, well, kill people. Links to the white paper throw up 404s now, but it can still easily be found on the Wayback Machine and other places. It&#8217;s got some disturbingly euphemistic content. The find, fix, track, target, engage, assess (F2T2EA) process requires ubiquitous access to data at the strategic, operational and tactical levels. Red Hat Device Edge embeds captured, analyzed, and federated data sets in a manner that positions the warfighter to use artificial intelligence and machine learning (AI/ML) to increase the accuracy of airborne targeting and mission-guidance systems.  Delivering near real-time data from sensor pods directly to airmen, accelerating the sensor-to-shooter cycle.  Sharing near real-time sensor fusion data with joint and multinational forces to increase awareness, survivability, and lethality.  The new software enabled the Stalker to deploy updated, AI-based automated target recognition capabilities.  If the target is an adversary tracked vehicle on the far side of a ridge, a UAS carrying a server running Red Hat Device Edge could transmit video and metadata directly to shooters. ↫ Red Hat white paper titled &#8220;Compress the kill cycle with Red Hat Device Edge&#8221; I don&#8217;t think there&#8217;s something inherently wrong with working together with your nation&#8217;s military or defense companies, but that all hinges on what, exactly, said military is doing and how those defense companies&#8217; products are being used. The focus should be on national defense, aid during disasters, and responding to the legitimate requests of sovereign, democratic nations to come to their defense (e.g. helping Ukraine fight off the Russian invasion). There&#8217;s always going to be difficult grey areas, but any military or defense company supporting the genocide in Gaza or supplying weapons to kill women and children in Iran is unequivocally wrong, morally reprehensible, and downright illegal on both an international and national level. It clearly seems someone at Red Hat feels the same way, as the company has been trying really hard to memory-hole this particular white paper, and considering its word choices and the state of the world today, it&#8217;s easy to see why. Of course, the internet never forgets, and I certainly don&#8217;t intend to let something like this slide. We all know companies like Microsoft, Oracle, and Google have no qualms about making a few bucks from a genocide or two, but it always feels a bit more traitorous to the cause when it&#8217;s an open source company doing the profiting. It feels like Red Hat is trying to have its cake and eat it too, by, as an IBM subsidiary, trying to both profit from the vast sums of money sloshing around in the US military industrial complex as well as maintain its image as a scrappy open source business success story shitting bunnies and rainbows. It&#8217;s a long time ago now that Red Hat felt like a genuine part of the open source community. Most of us &#8211; both outside and inside of Red Hat, I&#8217;m sure &#8211; have been well aware for a long time now that those days are well behind us, and I guess Red Hat doesn&#8217;t like seeing its kill cycle this compressed.]]>
+      </description>
+      <source:markdown>It shouldn’t be a surprise that companies – and for our field, technology companies specifically – working with the defense industry tends to raise eyebrows. With things like the genocide in Gaza, the threats of genocide and war crimes against Iran, the mass murder in Lebanon, it’s no surprise that western companies working with the militaries and defense companies involved in these atrocities are receiving some serious backlash. With that in mind, it seems Red Hat, owned by IBM, is desperately trying to scrub a certain white paper from the internet. Titled “Compress the kill cycle with Red Hat Device Edge”, the 2024 white paper details how Red Hat’s products and technologies can make it easier and faster to, well, kill people. Links to the white paper throw up 404s now, but it can still easily be found on the Wayback Machine and other places. It’s got some disturbingly euphemistic content. The find, fix, track, target, engage, assess (F2T2EA) process requires ubiquitous access to data at the strategic, operational and tactical levels. Red Hat Device Edge embeds captured, analyzed, and federated data sets in a manner that positions the warfighter to use artificial intelligence and machine learning (AI/ML) to increase the accuracy of airborne targeting and mission-guidance systems. Delivering near real-time data from sensor pods directly to airmen, accelerating the sensor-to-shooter cycle. Sharing near real-time sensor fusion data with joint and multinational forces to increase awareness, survivability, and lethality. The new software enabled the Stalker to deploy updated, AI-based automated target recognition capabilities. If the target is an adversary tracked vehicle on the far side of a ridge, a UAS carrying a server running Red Hat Device Edge could transmit video and metadata directly to shooters. ↫ Red Hat white paper titled “Compress the kill cycle with Red Hat Device Edge” I don’t think there’s something inherently wrong with working together with your nation’s military or defense companies, but that all hinges on what, exactly, said military is doing and how those defense companies’ products are being used. The focus should be on national defense, aid during disasters, and responding to the legitimate requests of sovereign, democratic nations to come to their defense (e.g. helping Ukraine fight off the Russian invasion). There’s always going to be difficult grey areas, but any military or defense company supporting the genocide in Gaza or supplying weapons to kill women and children in Iran is unequivocally wrong, morally reprehensible, and downright illegal on both an international and national level. It clearly seems someone at Red Hat feels the same way, as the company has been trying really hard to memory-hole this particular white paper, and considering its word choices and the state of the world today, it’s easy to see why. Of course, the internet never forgets, and I certainly don’t intend to let something like this slide. We all know companies like Microsoft, Oracle, and Google have no qualms about making a few bucks from a genocide or two, but it always feels a bit more traitorous to the cause when it’s an open source company doing the profiting. It feels like Red Hat is trying to have its cake and eat it too, by, as an IBM subsidiary, trying to both profit from the vast sums of money sloshing around in the US military industrial complex as well as maintain its image as a scrappy open source business success story shitting bunnies and rainbows. It’s a long time ago now that Red Hat felt like a genuine part of the open source community. Most of us – both outside and inside of Red Hat, I’m sure – have been well aware for a long time now that those days are well behind us, and I guess Red Hat doesn’t like seeing its kill cycle this compressed.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144776</guid>
+    </item>    <item>
+      <title>This Vincent van Gogh Painting Was Found Wrapped in an Ikea Bag and a Blood-Stained Pillow. Now, the Artwork Has Been Restored to Its Former Glory</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-was-found-wrapped-in-an-ikea-bag-and-a-blood-stained-pillow-now-the-artwork-has-been-restored-to-its-former-glory-180988530/</link>
+      <description>
+        <![CDATA[Art sleuth Arthur Brand recovered "The Parsonage Garden at Nuenen in Spring" in 2023, three years after it was stolen from a Dutch museum. Following careful restoration, the canvas is now back on display]]>
+      </description>
+      <source:markdown>Art sleuth Arthur Brand recovered &#34;The Parsonage Garden at Nuenen in Spring&#34; in 2023, three years after it was stolen from a Dutch museum. Following careful restoration, the canvas is now back on display</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Yb-9kbuHFQGw4dVJ3N6bh4EAo60=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/71/db/71db38bc-03fc-4780-803d-6466ac3e3083/gettyimages-1985998292.jpg" length="12502243" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-was-found-wrapped-in-an-ikea-bag-and-a-blood-stained-pillow-now-the-artwork-has-been-restored-to-its-former-glory-180988530/</guid>
+    </item>    <item>
+      <title>Microsoft&#39;s Copilot strategy is just more user abuse from Redmond, says Mozilla</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/10/mozilla_microsofts_copilot_strategy/</link>
+      <description>
+        <![CDATA[<h4>Firefox maker warns old web tactics are now shaping AI at the expense of user choice</h4> <p>Firefox-maker Mozilla is calling out Microsoft after Redmond said it would scale back some Copilot features in Windows, arguing the rollback shows the company pushed AI too far without enough regard for user choice.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Firefox maker warns old web tactics are now shaping AI at the expense of user choice
+
+Firefox-maker Mozilla is calling out Microsoft after Redmond said it would scale back some Copilot features in Windows, arguing the rollback shows the company pushed AI too far without enough regard for user choice.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245550</guid>
+    </item>    <item>
+      <title>New Perspective of Home</title>
+      <link>https://www.nasa.gov/image-article/new-perspective-of-home/</link>
+      <description>
+        <![CDATA[Seen during Artemis II&#8217;s lunar flyby on April 6, 2026, the Moon and Earth align in the same frame, each partially illuminated by the Sun. The Moon’s surface appears in sharp detail in the foreground, while Earth sits much farther away, smaller and softly lit in the background. A faint reflection in the spacecraft window [&#8230;]]]>
+      </description>
+      <source:markdown>Seen during Artemis II’s lunar flyby on April 6, 2026, the Moon and Earth align in the same frame, each partially illuminated by the Sun. The Moon’s surface appears in sharp detail in the foreground, while Earth sits much farther away, smaller and softly lit in the background. A faint reflection in the spacecraft window \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=982887</guid>
+    </item>    <item>
+      <title>After Nearly 80 Years of Doubt, Scientists Say a Spear Lodged Between Elephant Ribs Offers Evidence That Neanderthals Hunted Big Game</title>
+      <link>https://www.smithsonianmag.com/smart-news/after-nearly-80-years-of-doubt-scientists-say-a-spear-lodged-between-elephant-ribs-offers-evidence-that-neanderthals-hunted-big-game-180988522/</link>
+      <description>
+        <![CDATA[In 1948, amateur archaeologists unearthed the remains, which should have shifted researchers' views of Neanderthals. But poor documentation sowed skepticism in the scientific community]]>
+      </description>
+      <source:markdown>In 1948, amateur archaeologists unearthed the remains, which should have shifted researchers&#39; views of Neanderthals. But poor documentation sowed skepticism in the scientific community</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CO3cZEbAKijwvQHVmv8SKFI1sBc=/420x240/filters:focal(750x407:751x408)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/7a/7f7a0bfe-9c36-4a54-8177-d116b3330552/pic_f26dcc43bc20260326095725.jpg" length="255886" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/after-nearly-80-years-of-doubt-scientists-say-a-spear-lodged-between-elephant-ribs-offers-evidence-that-neanderthals-hunted-big-game-180988522/</guid>
+    </item>    <item>
+      <title>Electronics industry says FCC&#39;s foreign-made router policy is a bit of a mesh</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/10/gea_fcc_routers/</link>
+      <description>
+        <![CDATA[<h4>Trade group warns onshoring demands will leave Americans stuck with older gear</h4> <p>The Global Electronics Association (GEA) warns that the US ban on foreign-made network routers is impractical because few are made domestically, leaving consumers with little choice and delaying access to next-gen products, just as Wi-Fi 7 adoption should be ramping up.…</p>]]>
+      </description>
+      <source:markdown>#### Trade group warns onshoring demands will leave Americans stuck with older gear
+
+The Global Electronics Association (GEA) warns that the US ban on foreign-made network routers is impractical because few are made domestically, leaving consumers with little choice and delaying access to next-gen products, just as Wi-Fi 7 adoption should be ramping up.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245548</guid>
+    </item>    <item>
+      <title>FreeBSD works best on one of these laptops</title>
+      <link>https://www.osnews.com/story/144774/freebsd-works-best-on-one-of-these-laptops/</link>
+      <description>
+        <![CDATA[If you want to run FreeBSD on a laptop, you&#8217;re often yanked back to the Linux world of 20 years ago, with many components and parts not working and other issues such as sleep and wake problems. FreeBSD has been hard at work improving the experience of using FreeBSD on laptops, and now this has resulted in a list of laptops which work effortlessly with the venerable operating system. There&#8217;s only about 10 laptops on the list so far, but they do span a range of affordability and age, with some of them surely being quite decent bargains on eBay or whatever other used stuff marketplace you use. If you want to use FreeBSD on a laptop, but don&#8217;t want to face any surprises or do any difficult setup, get one of the laptops on this list &#8211; a list which will surely expand over time.]]>
+      </description>
+      <source:markdown>If you want to run FreeBSD on a laptop, you’re often yanked back to the Linux world of 20 years ago, with many components and parts not working and other issues such as sleep and wake problems. FreeBSD has been hard at work improving the experience of using FreeBSD on laptops, and now this has resulted in a list of laptops which work effortlessly with the venerable operating system. There’s only about 10 laptops on the list so far, but they do span a range of affordability and age, with some of them surely being quite decent bargains on eBay or whatever other used stuff marketplace you use. If you want to use FreeBSD on a laptop, but don’t want to face any surprises or do any difficult setup, get one of the laptops on this list – a list which will surely expand over time.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144774</guid>
+    </item>    <item>
+      <title>Why Do We Tell Ourselves Scary Stories About AI?</title>
+      <link>https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/</link>
+      <description>
+        <![CDATA[Our tales of AI developing the will to survive, commandeer resources, and manipulate people say more about us than they do about language models.             <p>The post <a href="https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/" target="_blank">Why Do We Tell Ourselves Scary Stories About AI?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Our tales of AI developing the will to survive, commandeer resources, and manipulate people say more about us than they do about language models.
+
+The post [Why Do We Tell Ourselves Scary Stories About AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=160892</guid>
+    </item>    <item>
+      <title>This Fashion Designer Collaborated With Salvador Dalí and Jean Cocteau to Imagine Fabulous Surrealist Ensembles</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-surrealism-inspired-fashions-of-elsa-schiaparelli-take-the-spotlight-in-london-180988503/</link>
+      <description>
+        <![CDATA[A new exhibition at the Victoria and Albert Museum lays out the history and legacy of the House of Schiaparelli, focusing on its founder’s unique creative processes]]>
+      </description>
+      <source:markdown>A new exhibition at the Victoria and Albert Museum lays out the history and legacy of the House of Schiaparelli, focusing on its founder’s unique creative processes</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vwxldy7x_BbatuRlk8Nn00KO5F0=/420x240/filters:focal(3595x2397:3596x2398)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/4c/a44cc27f-cd13-4bc8-96e0-c5bc8b6dc3c0/schiaparelli_fashion_becomes_art_at_va_south_kensington_photo_-_david_parry_pa_media_assignm.jpeg" length="14367279" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-surrealism-inspired-fashions-of-elsa-schiaparelli-take-the-spotlight-in-london-180988503/</guid>
+    </item>    <item>
       <title>Fixing AMDGPU’s VRAM management for low-end GPUs</title>
       <link>https://www.osnews.com/story/144770/fixing-amdgpus-vram-management-for-low-end-gpus/</link>
       <description>
@@ -186,6 +351,14 @@ Large language models can be very persuasive, and researchers say that&#39;s a p
       </description>
       <source:markdown>The months keep coming, and thus, the monthly progress reports keep coming, too, for Redox, the new general purpose operating system written in Rust. This past month, there’s been considerable graphics improvements, better deadlock detection in the kernel, improved Unicode support thanks to switching over to ncurses library variant with Unicode support, and much more. Alongside these, you’ll find the usual long list of kernel, driver, and relibc changes, bugfixes, and improvements. This month also covered three topics we’ve already discussed individually: Redox’ new no-“AI” code policy, capability-based security in Redox, and the brand-new CPU scheduler.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=144762</guid>
+    </item>    <item>
+      <title>Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)</title>
+      <link>https://www.nasa.gov/centers-and-facilities/ames/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/</link>
+      <description>
+        <![CDATA[Windshaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.&#160; The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.&#160; A companion WindProbe is also available for quick surveys of flows.&#160; The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the [&#8230;]]]>
+      </description>
+      <source:markdown>Windshaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.  The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.  A companion WindProbe is also available for quick surveys of flows.  The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=982802</guid>
     </item>    <item>
       <title>Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)</title>
       <link>https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/</link>
@@ -5035,365 +5208,6 @@ A decades-long study suggests that your daily caffeine fix might be doing more t
 
 The Free Software Foundation Europe says its electronic-payments provider Nexi Group unexpectedly &#34;cancelled&#34; its account – cutting the charity off from around 450 donors.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245208</guid>
-    </item>    <item>
-      <title>NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight</title>
-      <link>https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/</link>
-      <description>
-        <![CDATA[NASA&#8217;s quiet supersonic X-59 aircraft&#160;made&#160;its&#160;second flight on Friday, kicking off a&#160;series of dozens of&#160;test&#160;flights in&#160;2026.&#160; Although the flight duration was&#160;abbreviated&#160;due to a&#160;technical issue,&#160;the team was able to&#160;collect information that will inform&#160;future tests.&#160; “Despite the early landing, this is a good day for the team. We&#160;collected more&#160;data, and&#160;the pilot&#160;landed safely,”&#160;said Cathy Bahm, project&#160;manager for NASA’s Low-Boom [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s quiet supersonic X-59 aircraft made its second flight on Friday, kicking off a series of dozens of test flights in 2026.  Although the flight duration was abbreviated due to a technical issue, the team was able to collect information that will inform future tests.  “Despite the early landing, this is a good day for the team. We collected more data, and the pilot landed safely,” said Cathy Bahm, project manager for NASA’s Low-Boom \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=976213</guid>
-    </item>    <item>
-      <title>Microsoft finally makes a few concrete promises about Windows 11 improvements</title>
-      <link>https://www.osnews.com/story/144638/microsoft-finally-makes-a-few-concrete-promises-about-windows-11-improvements/</link>
-      <description>
-        <![CDATA[Earlier this year, Microsoft openly acknowledged the sorry state of Windows 11, and made vague promises about possible improvements somewhere in the near future, but stayed away from making any concrete promises. Today, the company published a blog post with some more details, including some actual concrete, tangible changes it&#8217;s going to implement over the coming two months. In coming builds, you&#8217;ll be able to move the taskbar to any side of the screen, instead of it being locked to the bottom, thereby reintroducing a feature present since Windows 95. They&#8217;re also scaling back their obsession with ramming &#8220;AI&#8221; in every corner of Windows, and will be removing Copilot integrations from Snipping Tool, Photos, Widgets, and Notepad. Furthermore, and this is a big one among Windows users I&#8217;m sure, Windows Update will be placed under user control once again, allowing them to ignore updates, postpone them indefinitely, reboot without applying updates, and so on. These are the tangible improvements we&#8217;ll be able to point to and say the company kept their word, and they all feel like welcome changes. There&#8217;s also a few promises that feel far more vague and less tangible, like the ever-present, long-running promise to &#8220;improve File Explorer&#8221;. I feel like Microsoft&#8217;s been promising to fix their horrible file manager for years now, without much to show for it, so I hope this time will be different. The company also wants to improve Widgets, the Windows Insider Program, and the Feedback Hub application. These all feel less tangible, and will be harder to quantify and benchmark. Beyond these first round of improvements that we&#8217;re supposed to be seeing over the coming two months, Microsoft also promises to implement wider improvements across the board, with the usual suspects like better performance, quicker application launches, improved reliability, lower memory usage, and so on. They also promise to move more core Windows user interface components to WinUI 3, including the Start menu, which is currently written in React. Windows Search is another common pain point among Windows users, and here, Microsoft promises to improve its performance and clearly separate local from online results (but no word on making search exclusively local). There&#8217;s some more details in the blog post, but overall, it sounds great. However, words without actions are about as meaningful as a White House statement on the war with Iran, so seeing is believing.]]>
-      </description>
-      <source:markdown>Earlier this year, Microsoft openly acknowledged the sorry state of Windows 11, and made vague promises about possible improvements somewhere in the near future, but stayed away from making any concrete promises. Today, the company published a blog post with some more details, including some actual concrete, tangible changes it’s going to implement over the coming two months. In coming builds, you’ll be able to move the taskbar to any side of the screen, instead of it being locked to the bottom, thereby reintroducing a feature present since Windows 95. They’re also scaling back their obsession with ramming “AI” in every corner of Windows, and will be removing Copilot integrations from Snipping Tool, Photos, Widgets, and Notepad. Furthermore, and this is a big one among Windows users I’m sure, Windows Update will be placed under user control once again, allowing them to ignore updates, postpone them indefinitely, reboot without applying updates, and so on. These are the tangible improvements we’ll be able to point to and say the company kept their word, and they all feel like welcome changes. There’s also a few promises that feel far more vague and less tangible, like the ever-present, long-running promise to “improve File Explorer”. I feel like Microsoft’s been promising to fix their horrible file manager for years now, without much to show for it, so I hope this time will be different. The company also wants to improve Widgets, the Windows Insider Program, and the Feedback Hub application. These all feel less tangible, and will be harder to quantify and benchmark. Beyond these first round of improvements that we’re supposed to be seeing over the coming two months, Microsoft also promises to implement wider improvements across the board, with the usual suspects like better performance, quicker application launches, improved reliability, lower memory usage, and so on. They also promise to move more core Windows user interface components to WinUI 3, including the Start menu, which is currently written in React. Windows Search is another common pain point among Windows users, and here, Microsoft promises to improve its performance and clearly separate local from online results (but no word on making search exclusively local). There’s some more details in the blog post, but overall, it sounds great. However, words without actions are about as meaningful as a White House statement on the war with Iran, so seeing is believing.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144638</guid>
-    </item>    <item>
-      <title>Cryptographers engage in war of words over RustSec bug reports and subsequent ban</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/</link>
-      <description>
-        <![CDATA[<h4>Rust security maintainers contend Nadim Kobeissi&#39;s vulnerability claims are too much</h4> <p>Since February, cryptographer Nadim Kobeissi has been trying to get code fixes applied to Rust cryptography libraries to address what he says are critical bugs. For his efforts, he&#39;s been dismissed, ignored, and banned from Rust security channels.…</p>]]>
-      </description>
-      <source:markdown>#### Rust security maintainers contend Nadim Kobeissi&#39;s vulnerability claims are too much
-
-Since February, cryptographer Nadim Kobeissi has been trying to get code fixes applied to Rust cryptography libraries to address what he says are critical bugs. For his efforts, he&#39;s been dismissed, ignored, and banned from Rust security channels.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245236</guid>
-    </item>    <item>
-      <title>Hangar One Restoration Project</title>
-      <link>https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/</link>
-      <description>
-        <![CDATA[Editor&#8217;s Note: This article was originally published on April 25, 2022 and has been updated to reflect changes including the completion of Hangar One&#8217;s restoration. Restoration has been completed on Hangar One, a historic landmark in the&#160;San Francisco&#160;Bay Area and a key part of the region’s&#160;early&#160;aviation history.&#160;&#160; In December 2025, Planetary Ventures completed restoration of [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s Note: This article was originally published on April 25, 2022 and has been updated to reflect changes including the completion of Hangar One’s restoration. Restoration has been completed on Hangar One, a historic landmark in the San Francisco Bay Area and a key part of the region’s early aviation history.   In December 2025, Planetary Ventures completed restoration of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?migration=converted-node-478972</guid>
-    </item>    <item>
-      <title>Contrary to Popular Belief, Some Doodle Crossbred Dogs May Have More Behavioral Problems Than Their Purebred Parents</title>
-      <link>https://www.smithsonianmag.com/smart-news/contrary-to-popular-belief-some-doodle-crossbred-dogs-may-have-more-behavioral-problems-than-their-purebred-parents-180988380/</link>
-      <description>
-        <![CDATA[Pet owners often pick "designer dogs" because they think they’ll be easier to train and friendlier with kids than purebreeds. A new study suggests that's not always the case]]>
-      </description>
-      <source:markdown>Pet owners often pick &#34;designer dogs&#34; because they think they’ll be easier to train and friendlier with kids than purebreeds. A new study suggests that&#39;s not always the case</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/llNR4CVhJq9lTB82V6JfAYhvX90=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5d/9e/5d9ecff1-92e8-44c8-95c7-69b3389ee37f/cockapoo_puppy_6_months.jpg" length="312494" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/contrary-to-popular-belief-some-doodle-crossbred-dogs-may-have-more-behavioral-problems-than-their-purebred-parents-180988380/</guid>
-    </item>    <item>
-      <title>Sorry, Amazon, you couldn&#39;t pick a worse time to bring a phone to market: IDC analyst</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/amazon_phone_worst_possible_time/</link>
-      <description>
-        <![CDATA[<h4>The market is contracting</h4> <p>Right product, wrong time? Amazon is reported to be developing a new smartphone, its first since 2014, and, according to industry tracker IDC, it will face entrenched competition with better products and a market that is expected to contract by double digits.…</p>]]>
-      </description>
-      <source:markdown>#### The market is contracting
-
-Right product, wrong time? Amazon is reported to be developing a new smartphone, its first since 2014, and, according to industry tracker IDC, it will face entrenched competition with better products and a market that is expected to contract by double digits.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245234</guid>
-    </item>    <item>
-      <title>Archaeologists Unearth Traces of a Mysterious Medieval City That Was Abandoned Under Puzzling Circumstances Hundreds of Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-traces-of-a-mysterious-medieval-city-that-was-abandoned-under-puzzling-circumstances-hundreds-of-years-ago-180988391/</link>
-      <description>
-        <![CDATA[Found in a Polish forest, the town of Stolzenberg appears to have been built around the turn of the 14th century. Surveys revealed evidence of a town square, a main street and a moat]]>
-      </description>
-      <source:markdown>Found in a Polish forest, the town of Stolzenberg appears to have been built around the turn of the 14th century. Surveys revealed evidence of a town square, a main street and a moat</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/y-mmcwzzegMa7wb2WQZetAm6p7Y=/420x240/filters:focal(895x605:896x606)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/1d/161d64cf-85a6-409b-b69f-f5c06be0ee20/592323049_1679038773414645_3852865209754894103_n.jpeg" length="2301377" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-unearth-traces-of-a-mysterious-medieval-city-that-was-abandoned-under-puzzling-circumstances-hundreds-of-years-ago-180988391/</guid>
-    </item>    <item>
-      <title>NASA Selects University Finalists for Technology Concepts Competition</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/</link>
-      <description>
-        <![CDATA[NASA selected 14 university teams from across the nation as finalists in the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) Competition. This NASA challenge tasks students to design innovative concepts that could further human life and work on the Moon, Mars, and beyond. The competition links academia and the aerospace community, fostering innovation, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA selected 14 university teams from across the nation as finalists in the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) Competition. This NASA challenge tasks students to design innovative concepts that could further human life and work on the Moon, Mars, and beyond. The competition links academia and the aerospace community, fostering innovation, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=975917</guid>
-    </item>    <item>
-      <title>How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries</title>
-      <link>https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/</link>
-      <description>
-        <![CDATA[The interstellar comet 3I/ATLAS will soon leave our solar system, never to return, but the observations of the comet will live on in NASA’s public data archives. More than a dozen NASA science missions turned their instruments to observe the comet, which is only the third identified object to be visiting our solar system from […]]]>
-      </description>
-      <source:markdown>The interstellar comet 3I/ATLAS will soon leave our solar system, never to return, but the observations of the comet will live on in NASA’s public data archives. More than a dozen NASA science missions turned their instruments to observe the comet, which is only the third identified object to be visiting our solar system from \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/</guid>
-    </item>    <item>
-      <title>See Ramses II&#39;s Intricately Decorated Coffin and Rare Treasures From His Reign at This New Immersive Exhibition</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-ramses-iis-intricately-decorated-coffin-and-rare-treasures-from-his-reign-at-this-new-immersive-exhibition-180988306/</link>
-      <description>
-        <![CDATA[Now on display in London, "Ramses and the Pharaohs' Gold" features 3,000-year-old artifacts alongside virtual reality experiences that transport museumgoers to the 13th century B.C.E.]]>
-      </description>
-      <source:markdown>Now on display in London, &#34;Ramses and the Pharaohs&#39; Gold&#34; features 3,000-year-old artifacts alongside virtual reality experiences that transport museumgoers to the 13th century B.C.E.</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OzceSUs8BglyLQBm7Pl4IT3eUiY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/5f/305ffebe-c863-4107-ac19-c7cd4d87bf89/ramses.jpg" length="283914" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-ramses-iis-intricately-decorated-coffin-and-rare-treasures-from-his-reign-at-this-new-immersive-exhibition-180988306/</guid>
-    </item>    <item>
-      <title>Smiles and Spacesuits</title>
-      <link>https://www.nasa.gov/image-article/smiles-and-spacesuits/</link>
-      <description>
-        <![CDATA[NASA astronaut Chris Williams smiles at the camera during a spacesuit fit verification on Jan. 2, 2026, inside the International Space Station’s Quest airlock. This procedure confirms that the spacesuit is airtight and properly configured, assesses comfort and mobility, and helps prevent potential safety risks. Williams and fellow NASA astronaut Jessica Meir completed an approximately [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Chris Williams smiles at the camera during a spacesuit fit verification on Jan. 2, 2026, inside the International Space Station’s Quest airlock. This procedure confirms that the spacesuit is airtight and properly configured, assesses comfort and mobility, and helps prevent potential safety risks. Williams and fellow NASA astronaut Jessica Meir completed an approximately \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=975677</guid>
-    </item>    <item>
-      <title>Salesforce snaps up the team who built calendar app Clockwise to work on Agentforce</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/salesforce_clockwise_team/</link>
-      <description>
-        <![CDATA[<h4>Just the team, not the tech</h4> <p>Salesforce&#39;s Agentforce team is getting an infusion of new talent by hiring the team behind Clockwise, a calendar scheduling app, but the app itself isn&#39;t sticking around.…</p>]]>
-      </description>
-      <source:markdown>#### Just the team, not the tech
-
-Salesforce&#39;s Agentforce team is getting an infusion of new talent by hiring the team behind Clockwise, a calendar scheduling app, but the app itself isn&#39;t sticking around.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245232</guid>
-    </item>    <item>
-      <title>NASA Exploration, Science Inspire “Project Hail Mary” Film</title>
-      <link>https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/</link>
-      <description>
-        <![CDATA[Real-life space exploration and big-screen science fiction will converge on Friday. As NASA prepares to launch Artemis II, the first crewed mission under the agency’s Artemis program and another step toward sending the first astronauts – Americans – to Mars, the fictional film “Project Hail Mary” premiere will take audiences on a journey into deep [&#8230;]]]>
-      </description>
-      <source:markdown>Real-life space exploration and big-screen science fiction will converge on Friday. As NASA prepares to launch Artemis II, the first crewed mission under the agency’s Artemis program and another step toward sending the first astronauts – Americans – to Mars, the fictional film “Project Hail Mary” premiere will take audiences on a journey into deep \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=975980</guid>
-    </item>    <item>
-      <title>See the 2,500-Pound Bronze Bison as They Arrive at Their New, Permanent Place at the Smithsonian’s National Museum of Natural History</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-2500-pound-bronze-bison-as-they-arrive-at-their-new-permanent-place-at-the-smithsonians-national-museum-of-natural-history-180988387/</link>
-      <description>
-        <![CDATA[More than a century ago, the massive mammals actually grazed beside the Smithsonian Castle. As of today, two large sculptures continue that legacy as they flank the museum’s main entrance]]>
-      </description>
-      <source:markdown>More than a century ago, the massive mammals actually grazed beside the Smithsonian Castle. As of today, two large sculptures continue that legacy as they flank the museum’s main entrance</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1SyPGs6n7qUw8UB_XX34G48Jtw0=/420x240/filters:focal(2808x1872:2809x1873)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/45/86/45865779-777e-476a-8a3d-158172cd53da/img_5994.jpg" length="6128513" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-2500-pound-bronze-bison-as-they-arrive-at-their-new-permanent-place-at-the-smithsonians-national-museum-of-natural-history-180988387/</guid>
-    </item>    <item>
-      <title>WSL graphics driver update brings better GPU support for Linux apps</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/linux_directx_and_opengl/</link>
-      <description>
-        <![CDATA[<h4>Meanwhile, WINE and OpenGL tweaks speed Windows apps on 64-bit hosts</h4> <p>Whatever OS you run, you have a better chance to run non-native apps. Running Linux virtualized on Windows is set to speed up slightly, and so is running Windows apps on top of 64-bit Linux and macOS.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Meanwhile, WINE and OpenGL tweaks speed Windows apps on 64-bit hosts
-
-Whatever OS you run, you have a better chance to run non-native apps. Running Linux virtualized on Windows is set to speed up slightly, and so is running Windows apps on top of 64-bit Linux and macOS.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245229</guid>
-    </item>    <item>
-      <title>Starship may chauffeur Orion to the Moon, as NASA mulls ditching SLS after Artemis V</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/nasa_pondering_orion_hitching_a/</link>
-      <description>
-        <![CDATA[<h4>SpaceX&#39;s still-not-quite-orbital rocket tapped as lunar taxi. Musk&#39;s minicab anyone?</h4> <p>NASA is reportedly considering using SpaceX&#39;s Starship to transport the Orion capsule to the Moon, with some sources calling it a done deal.…</p>]]>
-      </description>
-      <source:markdown>#### SpaceX&#39;s still-not-quite-orbital rocket tapped as lunar taxi. Musk&#39;s minicab anyone?
-
-NASA is reportedly considering using SpaceX&#39;s Starship to transport the Orion capsule to the Moon, with some sources calling it a done deal.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245230</guid>
-    </item>    <item>
-      <title>Humans May Have Transported Live Parrots Over the Andes Mountains Along Sophisticated Trade Routes Before the Rise of the Inca Empire</title>
-      <link>https://www.smithsonianmag.com/smart-news/humans-may-have-transported-live-parrots-over-the-andes-mountains-along-sophisticated-trade-routes-before-the-rise-of-the-inca-empire-180988377/</link>
-      <description>
-        <![CDATA[Archaeologists were puzzled when they found parrot feathers in a pre-Inca burial in coastal Peru. A new study suggests that the birds were captured in the wild and kept alive over lengthy journeys]]>
-      </description>
-      <source:markdown>Archaeologists were puzzled when they found parrot feathers in a pre-Inca burial in coastal Peru. A new study suggests that the birds were captured in the wild and kept alive over lengthy journeys</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UlP602e7L1asEoWJKSC28EBuMoI=/420x240/filters:focal(2000x1505:2001x1506)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a3/78/a3788345-1912-4e1e-a10a-eefd671b2263/image_four.jpeg" length="2042495" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/humans-may-have-transported-live-parrots-over-the-andes-mountains-along-sophisticated-trade-routes-before-the-rise-of-the-inca-empire-180988377/</guid>
-    </item>    <item>
-      <title>Scientists Make a Major Breakthrough in Solving a Hair-Raising Mystery About Static Electricity</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-make-a-major-breakthrough-in-solving-a-hair-raising-mystery-about-static-electricity-180988382/</link>
-      <description>
-        <![CDATA[The findings can help explain the physics behind phenomena like volcanic lightning]]>
-      </description>
-      <source:markdown>The findings can help explain the physics behind phenomena like volcanic lightning</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/a_Aei7Or8rMiZF62sD84GK22DNc=/420x240/filters:focal(1440x967:1441x968)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/db/10db9f33-cb25-4fd6-b1ba-336c517abcfc/colliding-dust-and-the.jpg" length="495818" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-make-a-major-breakthrough-in-solving-a-hair-raising-mystery-about-static-electricity-180988382/</guid>
-    </item>    <item>
-      <title>The Jellies That Evolved a Different Way To Keep Time</title>
-      <link>https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/</link>
-      <description>
-        <![CDATA[Off the coast of Japan, biologists netted a pea-size jellyfish with an unusual circadian clock — a chance finding that suggests there are likely more overlooked biological timekeeping mechanisms to be discovered.            <p>The post <a href="https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/" target="_blank">The Jellies That Evolved a Different Way To Keep Time</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Off the coast of Japan, biologists netted a pea-size jellyfish with an unusual circadian clock — a chance finding that suggests there are likely more overlooked biological timekeeping mechanisms to be discovered.
-
-The post [The Jellies That Evolved a Different Way To Keep Time](https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=160099</guid>
-    </item>    <item>
-      <title>European Hedgehogs&#39; Hearing Might Be Attuned to Ultrasonic Sounds. The Discovery Could Help Scientists Save the Declining Species</title>
-      <link>https://www.smithsonianmag.com/smart-news/european-hedgehogs-hearing-might-be-attuned-to-ultrasonic-sounds-the-discovery-could-help-scientists-save-the-declining-species-180988383/</link>
-      <description>
-        <![CDATA[Sound-based deterrents could help keep the animals away from fast-moving cars and dangerous landscaping equipment]]>
-      </description>
-      <source:markdown>Sound-based deterrents could help keep the animals away from fast-moving cars and dangerous landscaping equipment</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/U7lOLqnsdhY4AKuCTXVWI3S_s2Q=/420x240/filters:focal(1229x609:1230x610)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/50/c2/50c2b59f-5724-483c-854e-1f7005929e57/european_hedgehog_listening_credits_tine_reinholt_jensen.jpg" length="1674194" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/european-hedgehogs-hearing-might-be-attuned-to-ultrasonic-sounds-the-discovery-could-help-scientists-save-the-declining-species-180988383/</guid>
-    </item>    <item>
-      <title>NASA Simulations Improve Artemis II Launch Environment</title>
-      <link>https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/</link>
-      <description>
-        <![CDATA[Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which&#160;is&#160;why NASA used advanced simulations to provide&#160;the best possible launch conditions&#160;for&#160;the&#160;Artemis II&#160;test flight around the Moon.&#160; To better understand the&#160;Artemis&#160;Space Launch System (SLS) rocket’s flight environment, engineers turned&#160;to a NASA-developed tool called the Launch, Ascent, and&#160;Vehicle Aerodynamics [&#8230;]]]>
-      </description>
-      <source:markdown>Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which is why NASA used advanced simulations to provide the best possible launch conditions for the Artemis II test flight around the Moon.  To better understand the Artemis Space Launch System (SLS) rocket’s flight environment, engineers turned to a NASA-developed tool called the Launch, Ascent, and Vehicle Aerodynamics \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=975372</guid>
-    </item>    <item>
-      <title>Microsoft breaks Microsoft account sign-ins in Windows 11 with latest update</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/microsoft_account_not_working_have/</link>
-      <description>
-        <![CDATA[<h4>OneDrive, Office, Teams Free users greeted with phantom &#39;no internet&#39; errors, restart may help if you&#39;re lucky</h4> <p>Microsoft has broken account sign-ins in Windows 11 25H2 and 24H2 with a recent update, causing error messages in apps like OneDrive and Office.…</p>]]>
-      </description>
-      <source:markdown>#### OneDrive, Office, Teams Free users greeted with phantom &#39;no internet&#39; errors, restart may help if you&#39;re lucky
-
-Microsoft has broken account sign-ins in Windows 11 25H2 and 24H2 with a recent update, causing error messages in apps like OneDrive and Office.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245227</guid>
-    </item>    <item>
-      <title>UK police force presses pause on live facial recognition after study finds racial bias</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/uk_police_force_suspend_live_faical_recog_racial_bias/</link>
-      <description>
-        <![CDATA[<h4>Cams statistically more likely to ID Black people, says new research</h4> <p>A UK police force has suspended its deployment of live facial recognition (LFR) technology after a study revealed it was statistically more likely to identify Black people on a watchlist database.…</p>]]>
-      </description>
-      <source:markdown>#### Cams statistically more likely to ID Black people, says new research
-
-A UK police force has suspended its deployment of live facial recognition (LFR) technology after a study revealed it was statistically more likely to identify Black people on a watchlist database.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245226</guid>
-    </item>    <item>
-      <title>Feds disrupt monster IoT botnets behind record-breaking DDoS attacks</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/botnet_disruption/</link>
-      <description>
-        <![CDATA[<h4>Millions of hijacked devices powered traffic floods targeting defense systems and beyond</h4> <p>The US government has moved to disrupt a cluster of IoT botnets behind some of the largest DDoS attacks ever recorded, including traffic bursts topping 30 terabits per second.…</p>]]>
-      </description>
-      <source:markdown>#### Millions of hijacked devices powered traffic floods targeting defense systems and beyond
-
-The US government has moved to disrupt a cluster of IoT botnets behind some of the largest DDoS attacks ever recorded, including traffic bursts topping 30 terabits per second.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245225</guid>
-    </item>    <item>
-      <title>NASA Glenn Opens Applications for Free Summer Engineering Institute</title>
-      <link>https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/</link>
-      <description>
-        <![CDATA[NASA’s Glenn Research Center in Cleveland is&#160;hosting&#160;the&#160;2026&#160;NASA Glenn High School Engineering Institute&#160;this&#160;July.&#160;The&#160;hands-on&#160;learning experience&#160;is designed&#160;to help high school&#160;students&#160;prepare for a future in the aerospace workforce.&#160;&#160; Rising high school juniors and seniors can submit applications for this summer program beginning Friday, March 20, through Friday, May 1.  The&#160;institute will immerse students in NASA’s work while providing essential career readiness tools to help them in future&#160;science, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Glenn Research Center in Cleveland is hosting the 2026 NASA Glenn High School Engineering Institute this July. The hands-on learning experience is designed to help high school students prepare for a future in the aerospace workforce.   Rising high school juniors and seniors can submit applications for this summer program beginning Friday, March 20, through Friday, May 1.  The institute will immerse students in NASA’s work while providing essential career readiness tools to help them in future science, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=975523</guid>
-    </item>    <item>
-      <title>Jaguar Land Rover&#39;s cyber bailout sets worrying precedent, watchdog warns</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/jlr_bailout_cmc/</link>
-      <description>
-        <![CDATA[<h4>Lack of clear criteria risks encouraging firms to lean on state support instead of worrying about insurance</h4> <p>The UK&#39;s cyber watchdog has warned that the government&#39;s £1.5 billion bailout of Jaguar Land Rover (JLR) risks setting a troubling precedent for how Britain handles major cyber crises.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Lack of clear criteria risks encouraging firms to lean on state support instead of worrying about insurance
-
-The UK&#39;s cyber watchdog has warned that the government&#39;s £1.5 billion bailout of Jaguar Land Rover (JLR) risks setting a troubling precedent for how Britain handles major cyber crises.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245222</guid>
-    </item>    <item>
-      <title>Supermicro co-founder arrested, charged over $2.5B Nvidia GPU sales to China</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/supermicro_nvidia_gpu_charges/</link>
-      <description>
-        <![CDATA[<h4>Indictment claims dummy servers and bogus docs used to slip past US export controls</h4> <p>A co-founder of Supermicro is among three people charged with diverting servers fitted with Nvidia GPUs worth $2.5 billion to Chinese customers in violation of US export controls.…</p>]]>
-      </description>
-      <source:markdown>#### Indictment claims dummy servers and bogus docs used to slip past US export controls
-
-A co-founder of Supermicro is among three people charged with diverting servers fitted with Nvidia GPUs worth $2.5 billion to Chinese customers in violation of US export controls.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245224</guid>
-    </item>    <item>
-      <title>UK to rethink tech buying after Palantir contracts</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/uk_palantir_contracts/</link>
-      <description>
-        <![CDATA[<h4>Government looks for sovereign tech as NHS deal nears break clause</h4> <p>The UK government has promised a different approach to tech procurement following the award of controversial contracts to Palantir.…</p>]]>
-      </description>
-      <source:markdown>#### Government looks for sovereign tech as NHS deal nears break clause
-
-The UK government has promised a different approach to tech procurement following the award of controversial contracts to Palantir.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245218</guid>
-    </item>    <item>
-      <title>At the Colosseum, New Marble Slabs Mark Where Towering Columns Stood Thousands of Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/at-the-colosseum-new-marble-slabs-mark-where-towering-columns-stood-thousands-of-years-ago-180988378/</link>
-      <description>
-        <![CDATA[Crowds once mingled below two tall arcades supported by 164-foot-tall columns. But due to earthquakes and unstable foundations, these architectural elements collapsed long ago]]>
-      </description>
-      <source:markdown>Crowds once mingled below two tall arcades supported by 164-foot-tall columns. But due to earthquakes and unstable foundations, these architectural elements collapsed long ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ExhyT58dfC-z-hKQZThwGwq_v0Q=/420x240/filters:focal(1280x853:1281x854)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/49/d1/49d1ea7d-f187-476b-9492-bb5e02c3e686/ambulacri-meridionali-del-colosseo-simona-murrone_parco-archeologico-del-colosseo_9-scaled.jpg" length="837699" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/at-the-colosseum-new-marble-slabs-mark-where-towering-columns-stood-thousands-of-years-ago-180988378/</guid>
-    </item>    <item>
-      <title>Starmer&#39;s digital ID reboot raises same old questions as its Blair-era ancestor</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/digital_id_consultation/</link>
-      <description>
-        <![CDATA[<h4>Audit trails aplenty, but no price tag – and no clue how long your data sticks around</h4> <p><strong>Opinion</strong>  Last week&#39;s UK government consultation on its plans for digital identity had quite a few things missing. It did not include a <a target="_blank" href="https://www.theregister.com/2026/03/11/digital_id_cost/">price estimate</a> - something it said was due to decisions yet to be taken on the scheme&#39;s scope - or how long the government would keep &#34;audit trail&#34; records of ID checks.…</p>]]>
-      </description>
-      <source:markdown>#### Audit trails aplenty, but no price tag – and no clue how long your data sticks around
-
-**Opinion**  Last week&#39;s UK government consultation on its plans for digital identity had quite a few things missing. It did not include a [price estimate](https://www.theregister.com/2026/03/11/digital_id_cost/) \- something it said was due to decisions yet to be taken on the scheme&#39;s scope - or how long the government would keep &#34;audit trail&#34; records of ID checks.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245195</guid>
-    </item>    <item>
-      <title>Sashiko: AI code review system for the Linux kernel spots bugs humans miss</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/sashiko_code_review_linux/</link>
-      <description>
-        <![CDATA[<h4>Beats getting roasted on the mailing list</h4> <p>AI is coming to the Linux kernel in the form of a code review system - not code submissions.…</p>]]>
-      </description>
-      <source:markdown>#### Beats getting roasted on the mailing list
-
-AI is coming to the Linux kernel in the form of a code review system - not code submissions.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245201</guid>
-    </item>    <item>
-      <title>While you&#39;re here, could you go out of your way to do an impossible job?</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/on_call/</link>
-      <description>
-        <![CDATA[<h4>He would have gotten away with it too, if it weren&#39;t for a meddling security team&#39;s fear of USB</h4> <p><strong>On Call</strong>  Each Friday <i>The Register</i> offers a fresh installment of On Call, the reader-contributed column that celebrates the fine art of tech support.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### He would have gotten away with it too, if it weren&#39;t for a meddling security team&#39;s fear of USB
-
-**On Call**  Each Friday _The Register_ offers a fresh installment of On Call, the reader-contributed column that celebrates the fine art of tech support.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245193</guid>
-    </item>    <item>
-      <title>How did these flowers evolve to survive a megadrought?</title>
-      <link>https://www.npr.org/2026/03/20/nx-s1-5753971/flower-evolution-science-drought</link>
-      <description>
-        <![CDATA[A multi-year megadrought in the Western U.S. has claimed untold populations of wild plants. Amid the conditions, some have survived. Scientists have produced a stunningly complete picture about how populations of one particular flower – the scarlet monkeyflower – made it through. <br/><br/><a href="https://www.science.org/doi/10.1126/science.adu0995"target="_blank"   >In a new study published in the journal Science</a>, a team of scientists spent decades studying and sampling select populations of scarlet monkeyflowers in California and Oregon. Through genetic sequencing, the team discovered that the populations that did best went through genetic changes in a short time period. This is known as rapid evolution. <br/><br/>The team found that three of the populations that recovered the BEST adapted their stomata to open less, so they could conserve more water. Stomata act like a plant’s pores, managing gas exchange and water loss. This allowed the scarlet monkeyflowers to hunker down in the drought and survive. <br/><br/><em>Interested in more stories about rapid evolution? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><em>This episode was produced by Jeffrey Pierre, Rachel Carlson and Hannah Chinn. It was edited by Christopher Intagliata and Rebecca Ramirez. Aru Nair checked the facts. The audio engineers were Becky Brown and Robert Rodriguez.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>A multi-year megadrought in the Western U.S. has claimed untold populations of wild plants. Amid the conditions, some have survived. Scientists have produced a stunningly complete picture about how populations of one particular flower – the scarlet monkeyflower – made it through.
-
-[In a new study published in the journal Science](https://www.science.org/doi/10.1126/science.adu0995), a team of scientists spent decades studying and sampling select populations of scarlet monkeyflowers in California and Oregon. Through genetic sequencing, the team discovered that the populations that did best went through genetic changes in a short time period. This is known as rapid evolution.
-
-The team found that three of the populations that recovered the BEST adapted their stomata to open less, so they could conserve more water. Stomata act like a plant’s pores, managing gas exchange and water loss. This allowed the scarlet monkeyflowers to hunker down in the drought and survive.
-
-_Interested in more stories about rapid evolution? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-_Listen to Short Wave on_ [_Spotify_](https://n.pr/3HOQKeK) _and_ [_Apple Podcasts_](https://n.pr/3WA9vqh) _._
-
-_This episode was produced by Jeffrey Pierre, Rachel Carlson and Hannah Chinn. It was edited by Christopher Intagliata and Rebecca Ramirez. Aru Nair checked the facts. The audio engineers were Becky Brown and Robert Rodriguez._
-
-To manage podcast ad preferences, review the links below:
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d79b0b52-f39a-4f51-9023-efbf91b03d84/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d79b0b52-f39a-4f51-9023-efbf91b03d84&feed=F0qJcgXZ&t=podcast&e=nx-s1-5753971&p=510351&d=499&size=7988916" length="7988916" type="audio/mpeg" />
-      <guid>cid://00e22d06-1ec6-47df-bc46-d3eeb2618225</guid>
-    </item>    <item>
-      <title>Jeff Bezos&#39; rocket company Blue Origin applies to launch 51,000 datacenter satellites</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/blue_origin_project_sunrise_orbital_datacenter/</link>
-      <description>
-        <![CDATA[<h4>‘Project Sunrise’ needs a network that doesn’t exist, a rocket that’s hardly flown, and FCC approval</h4> <p>Jeff Bezos’ space company Blue Origin has applied to launch up to 51,600 datacenter satellites.…</p>]]>
-      </description>
-      <source:markdown>#### ‘Project Sunrise’ needs a network that doesn’t exist, a rocket that’s hardly flown, and FCC approval
-
-Jeff Bezos’ space company Blue Origin has applied to launch up to 51,600 datacenter satellites.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245216</guid>
-    </item>    <item>
-      <title>Meta’s latest AI improves its terrible content moderation, just a little</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/meta_ai_content_moderation/</link>
-      <description>
-        <![CDATA[<h4>Enterprise tools have detected impossible logins for years. Zuck’s human mods couldn’t join the dots</h4> <p>Meta has revealed it’s tested using AI for content moderation chores and found it does better than humans.…</p>]]>
-      </description>
-      <source:markdown>#### Enterprise tools have detected impossible logins for years. Zuck’s human mods couldn’t join the dots
-
-Meta has revealed it’s tested using AI for content moderation chores and found it does better than humans.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245215</guid>
-    </item>    <item>
-      <title>Restless Kīlauea Launches Lava and Ash</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/</link>
-      <description>
-        <![CDATA[Episode 43 of the Hawaiian volcano’s current eruption was marked by high lava fountains and widespread ash dispersal.]]>
-      </description>
-      <source:markdown>Episode 43 of the Hawaiian volcano’s current eruption was marked by high lava fountains and widespread ash dispersal.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/</guid>
-    </item>    <item>
-      <title>Alibaba has made 470,000 AI chips, admits they’re inferior and may always be</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/20/alibaba_q3_2025/</link>
-      <description>
-        <![CDATA[<h4>Sees optimizing its entire cloud around homebrew silicon as the way to compete</h4> <p>Chinese web giant Alibaba has revealed its T-Head chipmaking business has shipped 470,000 AI chips, and admitted they are currently inferior to rival products, but believes it can build a mutually optimized stack that makes performance gaps moot.…</p>]]>
-      </description>
-      <source:markdown>#### Sees optimizing its entire cloud around homebrew silicon as the way to compete
-
-Chinese web giant Alibaba has revealed its T-Head chipmaking business has shipped 470,000 AI chips, and admitted they are currently inferior to rival products, but believes it can build a mutually optimized stack that makes performance gaps moot.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245214</guid>
     </item>
   </channel>
 </rss>
