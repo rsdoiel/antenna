@@ -4,10 +4,56 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>12 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Growing void between enterprise and frontier AI puts open weights models in the spotlight</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/12/ai_open_weights_models/</link>
+      <description>
+        <![CDATA[<h4>Most customers don&#39;t need the biggest baddest models, just ones that work, are cheap, and won&#39;t pirate their proprietary data</h4> <p><strong>FEATURE</strong>  Spring has sprung and that means another wave of open weights AI models from the likes of Google, Microsoft, Alibaba, and Nvidia. But this time feels a bit different.…</p>]]>
+      </description>
+      <source:markdown>#### Most customers don&#39;t need the biggest baddest models, just ones that work, are cheap, and won&#39;t pirate their proprietary data
+
+**FEATURE**  Spring has sprung and that means another wave of open weights AI models from the likes of Google, Microsoft, Alibaba, and Nvidia. But this time feels a bit different.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245552</guid>
+    </item>    <item>
+      <title>Apple update looks like Czech mate for locked-out iPhone user</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/12/ios_passcode_bug/</link>
+      <description>
+        <![CDATA[<h4>Lock-screen keyboard no longer accepts háček in student&#39;s alphanumeric passcode</h4> <p>A university student in the US is in data limbo after Apple removed a character from its Czech keyboard, preventing him from entering his iPhone passcode.…</p>]]>
+      </description>
+      <source:markdown>#### Lock-screen keyboard no longer accepts háček in student&#39;s alphanumeric passcode
+
+A university student in the US is in data limbo after Apple removed a character from its Czech keyboard, preventing him from entering his iPhone passcode.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245547</guid>
+    </item>    <item>
+      <title>La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/</link>
+      <description>
+        <![CDATA[Los primeros astronautas en viajar a la Luna en más de medio siglo han regresado a la Tierra tras una misión que ha establecido nuevos récords a bordo del vuelo de prueba Artemis&#160;II de la NASA. Los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, y el astronauta Jeremy Hansen de la [&#8230;]]]>
+      </description>
+      <source:markdown>Los primeros astronautas en viajar a la Luna en más de medio siglo han regresado a la Tierra tras una misión que ha establecido nuevos récords a bordo del vuelo de prueba Artemis II de la NASA. Los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, y el astronauta Jeremy Hansen de la \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=983384</guid>
+    </item>    <item>
+      <title>How Salesforce and ServiceNow are squaring off in the battle for the helpdesk</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/11/salesforce_vs_servicenow_itsm_battle/</link>
+      <description>
+        <![CDATA[<h4>Benioff banks on user engagement while McDermott wants to govern AI agents</h4> <p><strong>FEATURE</strong>  Salesforce CEO and chief “SaaSquatch” Mark Benioff boasted about the wins his company&#39;s ITSM product had last quarter in the terms a proud dad uses to talk about the art work his kids taped to the refrigerator.…</p>]]>
+      </description>
+      <source:markdown>#### Benioff banks on user engagement while McDermott wants to govern AI agents
+
+**FEATURE**  Salesforce CEO and chief “SaaSquatch” Mark Benioff boasted about the wins his company&#39;s ITSM product had last quarter in the terms a proud dad uses to talk about the art work his kids taped to the refrigerator.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245549</guid>
+    </item>    <item>
+      <title>NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24</title>
+      <link>https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/</link>
+      <description>
+        <![CDATA[NASA is sending more science, technology demonstrations, and crew supplies to the International Space Station following the successful launch of the agency’s Northrop Grumman Commercial Resupply Services 24 mission, or Northrop Grumman CRS-24. Northrop Grumman’s Cygnus XL spacecraft, carrying approximately 11,000 pounds of cargo to the orbiting laboratory, lifted off at 7:41 a.m. EDT Saturday [&#8230;]]]>
+      </description>
+      <source:markdown>NASA is sending more science, technology demonstrations, and crew supplies to the International Space Station following the successful launch of the agency’s Northrop Grumman Commercial Resupply Services 24 mission, or Northrop Grumman CRS-24. Northrop Grumman’s Cygnus XL spacecraft, carrying approximately 11,000 pounds of cargo to the orbiting laboratory, lifted off at 7:41 a.m. EDT Saturday \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=983366</guid>
+    </item>    <item>
       <title>Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/</link>
       <description>
@@ -5188,26 +5234,6 @@ Microsoft has acknowledged that it needs to improve the quality of Windows 11 an
 
 **feature**  CERN is nothing like today&#39;s agentic AI jockeys, who mostly rely on pre-set weights and generic TPUs and GPUs to generate their slop. CERN burns custom nanosecond-speed AI into the silicon itself just to eliminate excess data.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245237</guid>
-    </item>    <item>
-      <title>Turns out your coffee addiction may be doing your brain a favor</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/</link>
-      <description>
-        <![CDATA[<h4>Decades of data suggest people who stick to a couple of brews fare better in terms of gray matter</h4> <p>A decades-long study suggests that your daily caffeine fix might be doing more than jolting you through morning meetings – it could also be quietly helping your brain hold it together.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Decades of data suggest people who stick to a couple of brews fare better in terms of gray matter
-
-A decades-long study suggests that your daily caffeine fix might be doing more than jolting you through morning meetings – it could also be quietly helping your brain hold it together.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245228</guid>
-    </item>    <item>
-      <title>Payment biz pulls plug on open source charity after KYC spat</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/21/fsfe_dropped_by_its_payments/</link>
-      <description>
-        <![CDATA[<h4>Free Software Foundation Europe says it was asked for supporters&#39; passwords; Nexi insists it only wanted test credentials to check cancellation flows</h4> <p>The Free Software Foundation Europe says its electronic-payments provider Nexi Group unexpectedly &#34;cancelled&#34; its account – cutting the charity off from around 450 donors.…</p>]]>
-      </description>
-      <source:markdown>#### Free Software Foundation Europe says it was asked for supporters&#39; passwords; Nexi insists it only wanted test credentials to check cancellation flows
-
-The Free Software Foundation Europe says its electronic-payments provider Nexi Group unexpectedly &#34;cancelled&#34; its account – cutting the charity off from around 450 donors.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245208</guid>
     </item>
   </channel>
 </rss>

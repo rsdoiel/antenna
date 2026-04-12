@@ -4,10 +4,34 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>11 Apr 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>12 Apr 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>To Those About To WoC, We Salute You (With Piping Fresh Coffee From The Sprudge Roaster’s Village)</title>
+      <link>https://sprudge.com/to-those-about-to-woc-we-salute-you-with-piping-fresh-coffee-from-the-sprudge-roasters-village-893613.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=893613</guid>
+    </item>    <item>
+      <title>Smashed Asparagus Salad</title>
+      <link>https://www.bonappetit.com/recipe/smashed-asparagus-salad</link>
+      <description>
+        <![CDATA[Whack raw asparagus with a rolling pin, then douse it in a lemony vinaigrette.]]>
+      </description>
+      <source:markdown>Whack raw asparagus with a rolling pin, then douse it in a lemony vinaigrette.</source:markdown>
+      <guid>cid://69d518b32eeda11e17f386b1</guid>
+    </item>    <item>
+      <title>Can Raw Asparagus Be Delicious? Apparently Yes</title>
+      <link>https://www.bonappetit.com/story/a-delicious-raw-asparagus-salad</link>
+      <description>
+        <![CDATA[This fibrous vegetable becomes tender and juicy after a little whacking.]]>
+      </description>
+      <source:markdown>This fibrous vegetable becomes tender and juicy after a little whacking.</source:markdown>
+      <guid>cid://69cadd216d8944bb3f97514d</guid>
+    </item>    <item>
       <title>23 Fresh Pea Recipes for Sugar Snaps, Snow Peas, and More</title>
       <link>https://www.bonappetit.com/gallery/green-peas-recipes</link>
       <description>
@@ -2885,22 +2909,6 @@ The post [30 Minute Meals](https://www.closetcooking.com/30-minute-meals/) appea
       </description>
       <source:markdown>Even friends with the most discerning of tastes will do a double-take when they see this lentil caviar on your next party spread.</source:markdown>
       <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2227850</guid>
-    </item>    <item>
-      <title>23 Radish Recipes for Salads, Pickles, and More</title>
-      <link>https://www.bonappetit.com/gallery/best-radish-recipes</link>
-      <description>
-        <![CDATA[Like fried lemon and radish salad and farmers market farro bowls.]]>
-      </description>
-      <source:markdown>Like fried lemon and radish salad and farmers market farro bowls.</source:markdown>
-      <guid>cid://57e055bc5a14a530086efc11</guid>
-    </item>    <item>
-      <title>Spring Clean Your Coffee Cabinet To Make Room For New Gear!</title>
-      <link>https://sprudge.com/spring-clean-your-coffee-cabinet-to-make-room-for-new-gear-828302.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=828302</guid>
     </item>
   </channel>
 </rss>
