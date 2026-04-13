@@ -4,10 +4,213 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>12 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>13 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Veterans Affairs has lost track of software licenses amid $985M bill</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/va_software_licensing_gao/</link>
+      <description>
+        <![CDATA[<h4>Department putting systems in place to manage &#39;restrictive licensing practices&#39;</h4> <p>A federal spending watchdog has found the Department of Veterans Affairs (VA) faced &#34;challenges&#34; in understanding the correct number of licenses it should hold for the top five vendors in its $985 million annual software expenditure.…</p>]]>
+      </description>
+      <source:markdown>#### Department putting systems in place to manage &#39;restrictive licensing practices&#39;
+
+A federal spending watchdog has found the Department of Veterans Affairs (VA) faced &#34;challenges&#34; in understanding the correct number of licenses it should hold for the top five vendors in its $985 million annual software expenditure.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245545</guid>
+    </item>    <item>
+      <title>Scientists invented an obviously fake illness, and “AI” spread it like truth within weeks</title>
+      <link>https://www.osnews.com/story/144787/scientists-invented-an-obviously-fake-illness-and-ai-spread-it-like-truth-within-weeks/</link>
+      <description>
+        <![CDATA[Ever heard of a condition called bixonimania? Did you search the internet or ask your &#8220;AI&#8221; girlfriend about some symptoms you were experiencing, and this was its answer? Well&#8230; The condition doesn’t appear in the standard medical literature — because it doesn’t exist. It’s the invention of a team led by Almira Osmanovic Thunström, a medical researcher at the University of Gothenburg, Sweden, who dreamt up the skin condition and then uploaded two fake studies about it to a preprint server in early 2024. Osmanovic Thunström carried out this unusual experiment to test whether large language models (LLMs) would swallow the misinformation and then spit it out as reputable health advice. “I wanted to see if I can create a medical condition that did not exist in the database,” she says. ↫ Chris Stokel-Walker at Nature And &#8220;AI&#8221; ate it up like quality chocolate. It started appearing in the answers from all the popular &#8220;AI&#8221; tools within weeks, and later even started showing up as references in published literature, indicating that scientists copy/paste references without actually reading them. This is clearly a deeply concerning experiment, and highlights there may be many, many more nonsensical, fake studies being picked up by &#8220;AI&#8221; tools. Of course, I hear you say, it&#8217;s not like propagating fake or terrible studies is the sole domain of &#8220;AI&#8221;, as there are countless cases of this happening among actual real researchers and scientists, too. The issue, though, is that the fake studies concerning &#8220;bixonimania&#8221; were intentionally made to be as silly and obviously ridiculous as possible. It references Starfleet Acadamy, the lab aboard the Enterprise, the University of Fellowship of the Ring, and many other fake references instantly recognisable as such by real humans. In fact, the studies even specifically mention that &#8220;this entire paper is made up” and “fifty made-up individuals aged between 20 and 50 years were recruited for the exposure group&#8221;. It would take any human only a few seconds after opening one of these papers to realise they&#8217;re entirely fake &#8211; yet, the world&#8217;s most advanced &#8220;AI&#8221; tools gobbled them up and spit them back out as pure fact within mere weeks of their publication This shouldn&#8217;t come as a surprise. After all, &#8220;AI&#8221; tools have no understanding, no intelligence, no context, and they can&#8217;t actually make sense of anything. They are glorified pachinko machines with the output &#8211; the ball &#8211; tumbling down the most likely path between the pins based on nothing but chance and which pins it has already hit. &#8220;AI&#8221; output understands the world about as much as the pachinko ball does, and as such, can&#8217;t pick up on even the most obvious of cues that something is a fake or a forgery. It won&#8217;t be long before truly nefarious forces start doing this very same thing. Why build, staff, and maintain a troll farm when you can just have &#8220;AI&#8221; generate intentional misinformation which will then be spread and pushed by even more &#8220;AI&#8221;? Remember, it took one malicious asshole just one long since retracted fake paper to convince millions that vaccines cause autism. I shudder to think how many people are accepting anything &#8220;AI&#8221; says as gospel.]]>
+      </description>
+      <source:markdown>Ever heard of a condition called bixonimania? Did you search the internet or ask your “AI” girlfriend about some symptoms you were experiencing, and this was its answer? Well… The condition doesn’t appear in the standard medical literature — because it doesn’t exist. It’s the invention of a team led by Almira Osmanovic Thunström, a medical researcher at the University of Gothenburg, Sweden, who dreamt up the skin condition and then uploaded two fake studies about it to a preprint server in early 2024. Osmanovic Thunström carried out this unusual experiment to test whether large language models (LLMs) would swallow the misinformation and then spit it out as reputable health advice. “I wanted to see if I can create a medical condition that did not exist in the database,” she says. ↫ Chris Stokel-Walker at Nature And “AI” ate it up like quality chocolate. It started appearing in the answers from all the popular “AI” tools within weeks, and later even started showing up as references in published literature, indicating that scientists copy/paste references without actually reading them. This is clearly a deeply concerning experiment, and highlights there may be many, many more nonsensical, fake studies being picked up by “AI” tools. Of course, I hear you say, it’s not like propagating fake or terrible studies is the sole domain of “AI”, as there are countless cases of this happening among actual real researchers and scientists, too. The issue, though, is that the fake studies concerning “bixonimania” were intentionally made to be as silly and obviously ridiculous as possible. It references Starfleet Acadamy, the lab aboard the Enterprise, the University of Fellowship of the Ring, and many other fake references instantly recognisable as such by real humans. In fact, the studies even specifically mention that “this entire paper is made up” and “fifty made-up individuals aged between 20 and 50 years were recruited for the exposure group”. It would take any human only a few seconds after opening one of these papers to realise they’re entirely fake – yet, the world’s most advanced “AI” tools gobbled them up and spit them back out as pure fact within mere weeks of their publication This shouldn’t come as a surprise. After all, “AI” tools have no understanding, no intelligence, no context, and they can’t actually make sense of anything. They are glorified pachinko machines with the output – the ball – tumbling down the most likely path between the pins based on nothing but chance and which pins it has already hit. “AI” output understands the world about as much as the pachinko ball does, and as such, can’t pick up on even the most obvious of cues that something is a fake or a forgery. It won’t be long before truly nefarious forces start doing this very same thing. Why build, staff, and maintain a troll farm when you can just have “AI” generate intentional misinformation which will then be spread and pushed by even more “AI”? Remember, it took one malicious asshole just one long since retracted fake paper to convince millions that vaccines cause autism. I shudder to think how many people are accepting anything “AI” says as gospel.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144787</guid>
+    </item>    <item>
+      <title>UK defense startup to supply drone interceptors for Britain and allies</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/cambridge_aerospace_skyhammer_interceptor/</link>
+      <description>
+        <![CDATA[<h4>MoD plans rapid procurement of Cambridge Aerospace&#39;s Skyhammer system at home and abroad</h4> <p>Britain is set to buy interceptors from a homegrown startup to counter Iranian Shahed-style attack drones, equipping both its own armed forces and allies in the Persian Gulf region.…</p>]]>
+      </description>
+      <source:markdown>#### MoD plans rapid procurement of Cambridge Aerospace&#39;s Skyhammer system at home and abroad
+
+Britain is set to buy interceptors from a homegrown startup to counter Iranian Shahed-style attack drones, equipping both its own armed forces and allies in the Persian Gulf region.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245567</guid>
+    </item>    <item>
+      <title>Hubble Spies an Active Spiral</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-spies-an-active-spiral/</link>
+      <description>
+        <![CDATA[A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this new NASA Hubble Space Telescope image. IC 486 lies right on the edge of the constellation Gemini (the Twins), around 380 million light-years from Earth. Classified as a barred spiral galaxy, […]]]>
+      </description>
+      <source:markdown>A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this new NASA Hubble Space Telescope image. IC 486 lies right on the edge of the constellation Gemini (the Twins), around 380 million light-years from Earth. Classified as a barred spiral galaxy, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-spies-an-active-spiral/</guid>
+    </item>    <item>
+      <title>Linux 7.0 released</title>
+      <link>https://www.osnews.com/story/144785/linux-7-0-released/</link>
+      <description>
+        <![CDATA[Version 7.0 of the Linux kernel has been released, marking the arbitrary end of the 6.x series. Significant changes in this release include the removal of the &#8220;experimental&#8221; status for Rust code, a new filtering mechanism for io_uring operations, a switch to lazy preemption by default in the CPU scheduler, support for time-slice extension, the nullfs filesystem, self-healing support for the XFS filesystem, a number of improvements to the swap subsystem (described in this article and this one), general support for AccECN congestion notification, and more. See the LWN merge-window summaries (part 1, part 2) and the KernelNewbies 7.0 page for more details. ↫ corbet at LWN.net You can compile the kernel yourself, or just wait until it hits your distribution&#8217;s repositories.]]>
+      </description>
+      <source:markdown>Version 7.0 of the Linux kernel has been released, marking the arbitrary end of the 6.x series. Significant changes in this release include the removal of the “experimental” status for Rust code, a new filtering mechanism for io\_uring operations, a switch to lazy preemption by default in the CPU scheduler, support for time-slice extension, the nullfs filesystem, self-healing support for the XFS filesystem, a number of improvements to the swap subsystem (described in this article and this one), general support for AccECN congestion notification, and more. See the LWN merge-window summaries (part 1, part 2) and the KernelNewbies 7.0 page for more details. ↫ corbet at LWN.net You can compile the kernel yourself, or just wait until it hits your distribution’s repositories.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144785</guid>
+    </item>    <item>
+      <title>Adobe finally patches PDF pest after months of abuse</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/adobe_reader_zeroday/</link>
+      <description>
+        <![CDATA[<h4>Reader and Acrobat flaw let booby-trapped documents profile targets and hijack machines</h4> <p>Adobe has released a fix for an Acrobat and Reader zero-day that <a target="_blank" href="https://www.theregister.com/2026/04/09/monthsold_adobe_reader_zeroday_uses/">attackers had been exploiting for months</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Reader and Acrobat flaw let booby-trapped documents profile targets and hijack machines
+
+Adobe has released a fix for an Acrobat and Reader zero-day that [attackers had been exploiting for months](https://www.theregister.com/2026/04/09/monthsold_adobe_reader_zeroday_uses/).…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245565</guid>
+    </item>    <item>
+      <title>Where Does This Anti-War Masterpiece Belong? In Spain, a Request to Borrow Picasso’s ‘Guernica’ Sparks a Bitter Debate</title>
+      <link>https://www.smithsonianmag.com/smart-news/where-does-this-anti-war-masterpiece-belong-in-spain-a-request-to-borrow-picassos-guernica-sparks-a-bitter-debate-180988533/</link>
+      <description>
+        <![CDATA[The artwork depicts the bombing of a Basque village in 1937. Now, the relocation debate is raising questions about how to balance the painting’s cultural significance with conservation needs]]>
+      </description>
+      <source:markdown>The artwork depicts the bombing of a Basque village in 1937. Now, the relocation debate is raising questions about how to balance the painting’s cultural significance with conservation needs</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H7VBrk9FUg8f7usJX0wOaga49Kk=/420x240/filters:focal(2790x1873:2791x1874)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/0e/c60edfb0-a70c-43eb-9b8d-55184cb7dd7c/picasso_mural.jpg" length="5056598" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/where-does-this-anti-war-masterpiece-belong-in-spain-a-request-to-borrow-picassos-guernica-sparks-a-bitter-debate-180988533/</guid>
+    </item>    <item>
+      <title>Gym giant Basic-Fit confirms data on a million members stolen in cyberattack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/basicfit_breach/</link>
+      <description>
+        <![CDATA[<h4>Names, addresses, dates of birth, and bank details accessed, though not passwords</h4> <p>Basic-Fit, Europe&#39;s largest gym chain, has confirmed data including the bank details of around a million customers was stolen from its systems.…</p>]]>
+      </description>
+      <source:markdown>#### Names, addresses, dates of birth, and bank details accessed, though not passwords
+
+Basic-Fit, Europe&#39;s largest gym chain, has confirmed data including the bank details of around a million customers was stolen from its systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245563</guid>
+    </item>    <item>
+      <title>Rockstar Games gets a taste of grand theft data amid ShinyHunters threat of &#39;Pay or leak&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/shinyhunters_rockstar_breach/</link>
+      <description>
+        <![CDATA[<h4>Gang claims it accessed Snowflake metrics via third-party tool</h4> <p>ShinyHunters is back, this time pinning Rockstar Games to its leak site and claiming it didn&#39;t so much hack its way in as walk through a door someone else left wide open.…</p>]]>
+      </description>
+      <source:markdown>#### Gang claims it accessed Snowflake metrics via third-party tool
+
+ShinyHunters is back, this time pinning Rockstar Games to its leak site and claiming it didn&#39;t so much hack its way in as walk through a door someone else left wide open.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245562</guid>
+    </item>    <item>
+      <title>Enslaved and Free Workers Built Thomas Jefferson&#39;s Monticello Brick by Brick. Archaeologists Just Discovered One of the Kilns They Used</title>
+      <link>https://www.smithsonianmag.com/smart-news/workers-built-thomas-jeffersons-monticello-brick-by-brick-archaeologists-just-discovered-one-of-the-kilns-they-used-180988525/</link>
+      <description>
+        <![CDATA[Researchers think the newly unearthed structure was used to fire and cure bricks during construction of the site’s original mansion in the early 1770s]]>
+      </description>
+      <source:markdown>Researchers think the newly unearthed structure was used to fire and cure bricks during construction of the site’s original mansion in the early 1770s</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BHoat8cgY3Rt0L8w8zG-C78jqkk=/420x240/filters:focal(720x480:721x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/38/ba38a48f-9edc-4c2b-8ba8-ae67d197e6d7/bricks_1.jpeg" length="557544" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/workers-built-thomas-jeffersons-monticello-brick-by-brick-archaeologists-just-discovered-one-of-the-kilns-they-used-180988525/</guid>
+    </item>    <item>
+      <title>Digital sovereignty isn&#39;t just a buzzword – it&#39;s the future</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/digital_sovereignty/</link>
+      <description>
+        <![CDATA[<h4>Linux Foundation Europe boss predicts EU will run as fast as it can from US tech companies</h4> <p><strong>Opinion</strong>  You want to know who&#39;s even sicker of President Donald Trump than American liberals? European governments and companies who are realizing that putting all their eggs in one US basket was a stupid move.…</p>]]>
+      </description>
+      <source:markdown>#### Linux Foundation Europe boss predicts EU will run as fast as it can from US tech companies
+
+**Opinion**  You want to know who&#39;s even sicker of President Donald Trump than American liberals? European governments and companies who are realizing that putting all their eggs in one US basket was a stupid move.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245387</guid>
+    </item>    <item>
+      <title>NHS pays £46K to prep next Microsoft licensing round</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/nhs_benchmarking_microsoft/</link>
+      <description>
+        <![CDATA[<h4>Benchmarking contract lays groundwork for renegotiating £774M software agreement</h4> <p>NHS England is spending £46,000 on &#34;benchmarking&#34; as it gears up for what looks like the next round of negotiations behind one of the UK public sector&#39;s biggest software deals.…</p>]]>
+      </description>
+      <source:markdown>#### Benchmarking contract lays groundwork for renegotiating £774M software agreement
+
+NHS England is spending £46,000 on &#34;benchmarking&#34; as it gears up for what looks like the next round of negotiations behind one of the UK public sector&#39;s biggest software deals.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245546</guid>
+    </item>    <item>
+      <title>AI went viral among attorneys. We have the numbers on what happened next</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/ai_attorneys/</link>
+      <description>
+        <![CDATA[<h4>Not viral as in cat videos. Viral as in we need a vaccine</h4> <p><strong>Opinion</strong>  For a sector at the heart of US economic growth, AI claims and counter-claims remain curiously hard to reconcile. Models are improving at the speed of light, AI firms claim, yet the message from the codeface remains that benefits are still more than balanced by the downsides.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Not viral as in cat videos. Viral as in we need a vaccine
+
+**Opinion**  For a sector at the heart of US economic growth, AI claims and counter-claims remain curiously hard to reconcile. Models are improving at the speed of light, AI firms claim, yet the message from the codeface remains that benefits are still more than balanced by the downsides.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245539</guid>
+    </item>    <item>
+      <title>France’s digital directorate dumping Windows desktops, adopting Linux instead</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/france_tech_sovereignty_plan/</link>
+      <description>
+        <![CDATA[<h4>Après ça, le déluge, as plans call for move away from plenty more American software and hardware</h4> <p>France’s Interministerial Directorate for Digital Affairs (DINUM) will drop Windows desktops, and adopt Linux instead.…</p>]]>
+      </description>
+      <source:markdown>#### Après ça, le déluge, as plans call for move away from plenty more American software and hardware
+
+France’s Interministerial Directorate for Digital Affairs (DINUM) will drop Windows desktops, and adopt Linux instead.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245561</guid>
+    </item>    <item>
+      <title>IT manager approved downtime over lunch, but made a meal of it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/who_me/</link>
+      <description>
+        <![CDATA[<h4>Optimism is always risky, and defective hardware makes it indigestible</h4> <p><strong>Who, Me?</strong>  The best part of the working day is lunchtime, but <i>The Register</i> tries to start Mondays in a pleasant fashion by bringing you a new installment of &#34;Who, Me?&#34; – the reader-contributed column in which you admit to your mistakes and detail your escapes.…</p>]]>
+      </description>
+      <source:markdown>#### Optimism is always risky, and defective hardware makes it indigestible
+
+**Who, Me?**  The best part of the working day is lunchtime, but _The Register_ tries to start Mondays in a pleasant fashion by bringing you a new installment of &#34;Who, Me?&#34; – the reader-contributed column in which you admit to your mistakes and detail your escapes.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245538</guid>
+    </item>    <item>
+      <title>Are you pooping all wrong?</title>
+      <link>https://www.npr.org/2026/04/13/nx-s1-5770397/poop-wrong-bathroom-fiber</link>
+      <description>
+        <![CDATA[Talking about poop can be taboo, and this social norm may be hurting our health. <a href="https://www.trishapasricha.com/#dataItem-irq95dvw"target="_blank"   >Dr. Trisha Pasricha</a> says around 40% of people in the U.S. have bathroom issues so bad it affects their daily lives. Pasricha, a gastroenterologist, says her patients' bathroom and bowel education ends during potty training and doesn’t continue into adulthood. This is why she wrote the book <a href="https://www.trishapasricha.com/youvebeenpoopingallwrong"target="_blank"   ><em>You’ve Been Pooping All Wrong</em></a>. In this episode, Pasricha speaks with host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber </a>about the three P’s of pooping: pliability, propulsion and pelvic floor. They address whether to squat and whether certain fiber is the answer to better bathroom breaks.<br/><br/><strong>If you liked this episode, check out our episodes on </strong><a href="http://lnk.to/pj4jSn"target="_blank"   ><strong>urine myths</strong></a><strong> and </strong><a href="http://lnk.to/QnCc1F"target="_blank"   ><strong>recurring UTIs</strong></a><strong>.</strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of </em>Short Wave<em> sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Talking about poop can be taboo, and this social norm may be hurting our health. [Dr. Trisha Pasricha](https://www.trishapasricha.com/#dataItem-irq95dvw) says around 40% of people in the U.S. have bathroom issues so bad it affects their daily lives. Pasricha, a gastroenterologist, says her patients&#39; bathroom and bowel education ends during potty training and doesn’t continue into adulthood. This is why she wrote the book [_You’ve Been Pooping All Wrong_](https://www.trishapasricha.com/youvebeenpoopingallwrong). In this episode, Pasricha speaks with host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) about the three P’s of pooping: pliability, propulsion and pelvic floor. They address whether to squat and whether certain fiber is the answer to better bathroom breaks.
+
+**If you liked this episode, check out our episodes on** [**urine myths**](http://lnk.to/pj4jSn) **and** [**recurring UTIs**](http://lnk.to/QnCc1F) **.**
+
+_Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of_ Short Wave _sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+To manage podcast ad preferences, review the links below:
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/896e1489-2e7f-4cc7-b5d5-f85e82945275/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=896e1489-2e7f-4cc7-b5d5-f85e82945275&feed=F0qJcgXZ&t=podcast&e=nx-s1-5770397&p=510351&d=798&size=12777893" length="12777893" type="audio/mpeg" />
+      <guid>cid://20962089-0fc7-4314-a252-149edf835e85</guid>
+    </item>    <item>
+      <title>China wants AI to prepare school lessons and mark homework</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Toyota wheels out basketball bot; Arm scores AI server win with SK Telecom; India ponders payment pauses to foil fraudsters; And more!</h4> <p><strong>Asia In Brief</strong>  China’s National Data Administration last Friday <a target="_blank" href="https://www.nda.gov.cn/sjj/zwgk/tzgg/0410/20260410162428109058250_pc.html">published</a> its action plan for AI in education which calls for upskilling of the nation’s citizens to ensure they can put the technology to work.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: Toyota wheels out basketball bot; Arm scores AI server win with SK Telecom; India ponders payment pauses to foil fraudsters; And more!
+
+**Asia In Brief**  China’s National Data Administration last Friday [published](https://www.nda.gov.cn/sjj/zwgk/tzgg/0410/20260410162428109058250_pc.html) its action plan for AI in education which calls for upskilling of the nation’s citizens to ensure they can put the technology to work.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245560</guid>
+    </item>    <item>
+      <title>Linux 7.0 debuts as Linus Torvalds ponders AI&#39;s bug-finding powers and their impact on release process</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/13/linux_kernel_7_releaseed/</link>
+      <description>
+        <![CDATA[<h4>Makes Rust support official, adds code for ancient Alpha and SPARC CPUs</h4> <p>Linus Torvalds has released version 7.0 of the Linux kernel.…</p>]]>
+      </description>
+      <source:markdown>#### Makes Rust support official, adds code for ancient Alpha and SPARC CPUs
+
+Linus Torvalds has released version 7.0 of the Linux kernel.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245559</guid>
+    </item>    <item>
+      <title>Anthropic&#39;s mysterious Mythos AI threatens to upend the infosec world</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/12/anthropic_mythos_kettle_podcast/</link>
+      <description>
+        <![CDATA[<h4>Or it&#39;s a bunch of pre-IPO hype. Either way, we&#39;re giving it the once-over on this week&#39;s episode</h4> <p><strong>Kettle</strong>  Anthropic dropped a doozy on us this week with the launch of Mythos, an AI model it says is able to find and exploit zero-day vulnerabilities with a shocking level of ability. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Or it&#39;s a bunch of pre-IPO hype. Either way, we&#39;re giving it the once-over on this week&#39;s episode
+
+**Kettle**  Anthropic dropped a doozy on us this week with the launch of Mythos, an AI model it says is able to find and exploit zero-day vulnerabilities with a shocking level of ability. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245551</guid>
+    </item>    <item>
+      <title>I vibe coded a feed reading web app. It was enlightening and uncomfortable</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/12/vibe_coding_works/</link>
+      <description>
+        <![CDATA[<h4>AI-assisted software development is transforming the industry, but you already knew that</h4> <p>Vibe coding works. I wish it didn&#39;t. But it does, well enough. And barring some revolution that overturns the new world disorder, machine learning cannot be undone.…</p>]]>
+      </description>
+      <source:markdown>#### AI-assisted software development is transforming the industry, but you already knew that
+
+Vibe coding works. I wish it didn&#39;t. But it does, well enough. And barring some revolution that overturns the new world disorder, machine learning cannot be undone.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245557</guid>
+    </item>    <item>
       <title>Growing void between enterprise and frontier AI puts open weights models in the spotlight</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/12/ai_open_weights_models/</link>
       <description>
@@ -27,6 +230,14 @@
 
 A university student in the US is in data limbo after Apple removed a character from its Czech keyboard, preventing him from entering his iPhone passcode.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245547</guid>
+    </item>    <item>
+      <title>Forgejo monthly report - March 2026</title>
+      <link>https://forgejo.org/2026-03-monthly-report/</link>
+      <description>
+        <![CDATA[The Forgejo v15.0 branch has been cut and the release is scheduled for April 16. Security releases for Forgejo were published. The AI-Agreement was updated. code.forgejo.org is not a free public git hosting.]]>
+      </description>
+      <source:markdown>The Forgejo v15.0 branch has been cut and the release is scheduled for April 16. Security releases for Forgejo were published. The AI-Agreement was updated. code.forgejo.org is not a free public git hosting.</source:markdown>
+      <guid>cid://https://forgejo.org/2026-03-monthly-report/</guid>
     </item>    <item>
       <title>La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords</title>
       <link>https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/</link>
@@ -5206,34 +5417,6 @@ Microsoft has acknowledged that it needs to improve the quality of Windows 11 an
 
 **Asia In Brief**  Australia’s government on Monday [announced](https://www.industry.gov.au/news/new-data-centre-expectations-help-bring-benefit-ai-all-australians) a set of datacenter “expectations” to guide would-be bit barn builders who contemplate breaking ground down under.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245246</guid>
-    </item>    <item>
-      <title>Russians are posing as Signal support to launch phishing attacks</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/22/russian_messaging_support_phishing_scam/</link>
-      <description>
-        <![CDATA[<h4>PLUS: US takes down Iranian propaganda sites; Marketing company asks &#39;Why Do We Have Your Information?&#39; And more!</h4> <p><strong>Infosec In Brief</strong>  Russian intelligence-affiliated parties are posing as customer support services on commercial messaging applications such as Signal to compromise accounts and conduct phishing attacks, the FBI and Cybersecurity and Infrastructure Security Agency (CISA) warned last Friday.…</p>]]>
-      </description>
-      <source:markdown>#### PLUS: US takes down Iranian propaganda sites; Marketing company asks &#39;Why Do We Have Your Information?&#39; And more!
-
-**Infosec In Brief**  Russian intelligence-affiliated parties are posing as customer support services on commercial messaging applications such as Signal to compromise accounts and conduct phishing attacks, the FBI and Cybersecurity and Infrastructure Security Agency (CISA) warned last Friday.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245235</guid>
-    </item>    <item>
-      <title>Transformational Tools and Technologies Resources</title>
-      <link>https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/</link>
-      <description>
-        <![CDATA[Vision Studies, Analysis of Alternatives (AoA) Studies, and White Papers]]>
-      </description>
-      <source:markdown>Vision Studies, Analysis of Alternatives (AoA) Studies, and White Papers</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=976269</guid>
-    </item>    <item>
-      <title>CERN eggheads burn AI into silicon to stem data deluge</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/</link>
-      <description>
-        <![CDATA[<h4>The operating system of the universe isn’t going to debug itself</h4> <p><strong>feature</strong>  CERN is nothing like today&#39;s agentic AI jockeys, who mostly rely on pre-set weights and generic TPUs and GPUs to generate their slop. CERN burns custom nanosecond-speed AI into the silicon itself just to eliminate excess data.…</p>]]>
-      </description>
-      <source:markdown>#### The operating system of the universe isn’t going to debug itself
-
-**feature**  CERN is nothing like today&#39;s agentic AI jockeys, who mostly rely on pre-set weights and generic TPUs and GPUs to generate their slop. CERN burns custom nanosecond-speed AI into the silicon itself just to eliminate excess data.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245237</guid>
     </item>
   </channel>
 </rss>
