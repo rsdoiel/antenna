@@ -4,10 +4,396 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>16 Apr 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Glowing Sphere Towering Over Utah Sent an Urgent Artistic Message: The Great Salt Lake Is Drying Up</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-glowing-sphere-towering-over-utah-sent-an-urgent-artistic-message-the-great-salt-lake-is-drying-up-180988553/</link>
+      <description>
+        <![CDATA[Olafur Eliasson's latest installation married visuals with a soundscape to draw the public's attention to the plight of the important ecosystem]]>
+      </description>
+      <source:markdown>Olafur Eliasson&#39;s latest installation married visuals with a soundscape to draw the public&#39;s attention to the plight of the important ecosystem</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j5ULy4brpRNGnKoMMzFX1S0QHJg=/420x240/filters:focal(1917x1278:1918x1279)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/f5/43f543b7-d37a-4a14-aaca-c59de8e3aaa8/a_symphony_of_disappearing_sounds_for_the_great_salt_lake_2026_1.jpeg" length="6349336" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-glowing-sphere-towering-over-utah-sent-an-urgent-artistic-message-the-great-salt-lake-is-drying-up-180988553/</guid>
+    </item>    <item>
+      <title>Git identity spoof fools Claude into giving bad code the nod</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/git_identity_spoof_claude/</link>
+      <description>
+        <![CDATA[<h4>Forged metadata made AI reviewer treat hostile changes as though they came from known maintainer</h4> <p>Security boffins say Anthropic&#39;s Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer&#39;s identity.…</p>]]>
+      </description>
+      <source:markdown>#### Forged metadata made AI reviewer treat hostile changes as though they came from known maintainer
+
+Security boffins say Anthropic&#39;s Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer&#39;s identity.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245642</guid>
+    </item>    <item>
+      <title>Textbook titan McGraw Hill on ransomware crew&#39;s reading list after 13.5M records exposed</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/mcgraw_hill_salesforce/</link>
+      <description>
+        <![CDATA[<h4>Publisher claims misconfigured Salesforce-hosted page leaked data</h4> <p>Textbook giant McGraw Hill has landed on a ransomware crew&#39;s leak site after an alleged Salesforce-linked misconfiguration spilled 13.5 million records into the wild.…</p>]]>
+      </description>
+      <source:markdown>#### Publisher claims misconfigured Salesforce-hosted page leaked data
+
+Textbook giant McGraw Hill has landed on a ransomware crew&#39;s leak site after an alleged Salesforce-linked misconfiguration spilled 13.5 million records into the wild.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245639</guid>
+    </item>    <item>
+      <title>Swarm welcome: Britain lines up 120,000 drones for Ukraine</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/uk_ukraine_drone_package/</link>
+      <description>
+        <![CDATA[<h4>Giant UAV package will include strike, recon, logistics, and maritime systems</h4> <p>The UK government says it will deliver at least 120,000 drones to Ukraine this year to help it fight against Russia.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Giant UAV package will include strike, recon, logistics, and maritime systems
+
+The UK government says it will deliver at least 120,000 drones to Ukraine this year to help it fight against Russia.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245626</guid>
+    </item>    <item>
+      <title>Microsoft announces product it doesn&#39;t want you to buy: Extended security updates for old Exchange, and Skype for Biz</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/microsoft_exchange_skype/</link>
+      <description>
+        <![CDATA[<h4>Just migrate already, would you? But if you can&#39;t, Redmond will take your cash</h4> <p>Microsoft will keep delivering security updates for old versions of Exchange Server and Skype for Business Server, after admitting that some customers aren&#39;t ready to make the move to newer products.…</p>]]>
+      </description>
+      <source:markdown>#### Just migrate already, would you? But if you can&#39;t, Redmond will take your cash
+
+Microsoft will keep delivering security updates for old versions of Exchange Server and Skype for Business Server, after admitting that some customers aren&#39;t ready to make the move to newer products.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245633</guid>
+    </item>    <item>
+      <title>Obsolete Google nag drowns out vital bar information at Swedish concert hall</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_sweden_bork/</link>
+      <description>
+        <![CDATA[<h4>Backup and Sync may be dead, but it still knows how to kill the buzz before the ukuleles start</h4> <p><strong>Bork!Bork!Bork!</strong>  Sweden is arguably the home of bork – think the Swedish Chef from The Muppets – so we are delighted to note an example of the breed turning up north of Stockholm.…</p>]]>
+      </description>
+      <source:markdown>#### Backup and Sync may be dead, but it still knows how to kill the buzz before the ukuleles start
+
+**Bork!Bork!Bork!**  Sweden is arguably the home of bork – think the Swedish Chef from The Muppets – so we are delighted to note an example of the breed turning up north of Stockholm.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245600</guid>
+    </item>    <item>
+      <title>Cops hand Motorola £25M no-bid deal to keep 2000-era radios alive</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/motorola_airwave/</link>
+      <description>
+        <![CDATA[<h4>Biz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget</h4> <p>UK police tech buyers have awarded a £25 million no-competition contract for communications technology first commissioned in 2000, with the replacement project 12 years behind schedule and £3 billion over budget.…</p>]]>
+      </description>
+      <source:markdown>#### Biz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget
+
+UK police tech buyers have awarded a £25 million no-competition contract for communications technology first commissioned in 2000, with the replacement project 12 years behind schedule and £3 billion over budget.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245620</guid>
+    </item>    <item>
+      <title>Server-room lock was nothing but a crock</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/pwned_server_room_lock_lol/</link>
+      <description>
+        <![CDATA[<h4>Your cybersecurity is only as good as the physical security of the servers</h4> <p><strong>PWNED</strong>  Welcome back to Pwned, the column where we immortalize the worst vulns that organizations opened up for themselves. If you’re the kind of person who leaves your car doors unlocked with a pile of cash in the center console, this week’s story is for you.…</p>]]>
+      </description>
+      <source:markdown>#### Your cybersecurity is only as good as the physical security of the servers
+
+**PWNED**  Welcome back to Pwned, the column where we immortalize the worst vulns that organizations opened up for themselves. If you’re the kind of person who leaves your car doors unlocked with a pile of cash in the center console, this week’s story is for you.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245628</guid>
+    </item>    <item>
+      <title>QUIC will soon be as important as TCP – but it&#39;s vastly different</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/quic_explained/</link>
+      <description>
+        <![CDATA[<h4>Deciphering the third transport protocol&#39;s four RFCs is a task to rival the proverbial blind man trying to understand an elephant</h4> <p>While Larry was producing most of the content for the &#34;Request/Reponse&#34; chapter for the next edition of our book, I took the lead on writing a section on QUIC, since I have closely followed its development.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Deciphering the third transport protocol&#39;s four RFCs is a task to rival the proverbial blind man trying to understand an elephant
+
+While Larry was producing most of the content for the &#34;Request/Reponse&#34; chapter for the next edition of our book, I took the lead on writing a section on QUIC, since I have closely followed its development.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245612</guid>
+    </item>    <item>
+      <title>Bullet train upgrade brings 5G windows and noise-cancelling cabins to Japan</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/jr_central_shinkansen_tech/</link>
+      <description>
+        <![CDATA[<h4>Private Shinkansen suites are pulling up to the station in October</h4> <p>Some Japanese bullet trains will soon be equipped with private suites that include windows with embedded 5G antennas and noise-cancelling technology that envelops passengers in a bubble of quiet.…</p>]]>
+      </description>
+      <source:markdown>#### Private Shinkansen suites are pulling up to the station in October
+
+Some Japanese bullet trains will soon be equipped with private suites that include windows with embedded 5G antennas and noise-cancelling technology that envelops passengers in a bubble of quiet.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245637</guid>
+    </item>    <item>
+      <title>Eyeing the Richat Structure</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/</link>
+      <description>
+        <![CDATA[The circular geologic feature in northwestern Africa can be hard to recognize from the ground, but it is obvious when viewed from space.]]>
+      </description>
+      <source:markdown>The circular geologic feature in northwestern Africa can be hard to recognize from the ground, but it is obvious when viewed from space.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/</guid>
+    </item>    <item>
+      <title>Indian government investigating TCS after police sting finds sexual harassment</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/tcs_india_harassment_allegations/</link>
+      <description>
+        <![CDATA[<h4>Services giant’s staff accused of assaults, inappropriate religious practices</h4> <p>Police in the Indian city of Nashik conducted a sting operation at Tata Consultancy Services and allegedly found instances of sexual harassment and other revolting behavior.…</p>]]>
+      </description>
+      <source:markdown>#### Services giant’s staff accused of assaults, inappropriate religious practices
+
+Police in the Indian city of Nashik conducted a sting operation at Tata Consultancy Services and allegedly found instances of sexual harassment and other revolting behavior.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245636</guid>
+    </item>    <item>
+      <title>Google Chrome lacks protection against one of the most basic and common ways to track users online</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_chrome_lacks_browser_fingerprinting/</link>
+      <description>
+        <![CDATA[<h4>Browser fingerprinting is everywhere</h4> <p>Google markets its Chrome browser by citing its superior safety features, but according to privacy consultant Alexander Hanff, Chrome does not protect against browser fingerprinting – a method of tracking people online by capturing technical details about their browser.…</p>]]>
+      </description>
+      <source:markdown>#### Browser fingerprinting is everywhere
+
+Google markets its Chrome browser by citing its superior safety features, but according to privacy consultant Alexander Hanff, Chrome does not protect against browser fingerprinting – a method of tracking people online by capturing technical details about their browser.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245635</guid>
+    </item>    <item>
+      <title>Forgejo v15.0 is available</title>
+      <link>https://forgejo.org/2026-04-release-v15-0/</link>
+      <description>
+        <![CDATA[Forgejo v15.0 is available. Access tokens can now be restricted to specific repos. New containers are now auto-linked if possible. Responsiveness and accessibility of the UI were improved. Forgejo actions gained multiple new features. As an LTS version, it will be supported until 15 July 2027.]]>
+      </description>
+      <source:markdown>Forgejo v15.0 is available. Access tokens can now be restricted to specific repos. New containers are now auto-linked if possible. Responsiveness and accessibility of the UI were improved. Forgejo actions gained multiple new features. As an LTS version, it will be supported until 15 July 2027.</source:markdown>
+      <guid>cid://https://forgejo.org/2026-04-release-v15-0/</guid>
+    </item>    <item>
+      <title>Anthropic&#39;s Project Glasswing CVE tally is still anyone&#39;s guess</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/project_glasswing_cves/</link>
+      <description>
+        <![CDATA[<h4>Like the majority of the companies participating, it remains a mystery</h4> <p>Last week, Anthropic surprised the world by declaring that its latest model, Mythos, is so good at finding vulns that it would create chaos if released. Now, under the title of Project Glasswing, over 50 selected companies and orgs are allowed to test the hyped up LLM to find security holes in their own products. But just how many problems have they really discovered?…</p>]]>
+      </description>
+      <source:markdown>#### Like the majority of the companies participating, it remains a mystery
+
+Last week, Anthropic surprised the world by declaring that its latest model, Mythos, is so good at finding vulns that it would create chaos if released. Now, under the title of Project Glasswing, over 50 selected companies and orgs are allowed to test the hyped up LLM to find security holes in their own products. But just how many problems have they really discovered?…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245632</guid>
+    </item>    <item>
+      <title>Don&#39;t let the bot play doctor! AI gets early diagnoses wrong 80% of the time</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/ai_gets_early_medical_diagnosis/</link>
+      <description>
+        <![CDATA[<h4>&#39;LLMs should not be trusted for patient-facing diagnostic reasoning,&#39; boffins advise</h4> <p>People ask AI for all kinds of advice, including the kind of questions you&#39;d ask a physician. However, the next time you&#39;re tempted to query ChatGPT if that growth on your face is skin cancer, consider this: research shows today&#39;s leading AI models fail at early differential diagnosis in more than 8 out of 10 cases.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### &#39;LLMs should not be trusted for patient-facing diagnostic reasoning,&#39; boffins advise
+
+People ask AI for all kinds of advice, including the kind of questions you&#39;d ask a physician. However, the next time you&#39;re tempted to query ChatGPT if that growth on your face is skin cancer, consider this: research shows today&#39;s leading AI models fail at early differential diagnosis in more than 8 out of 10 cases.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245631</guid>
+    </item>    <item>
+      <title>I Am Artemis: Rebekah Tolatovicz</title>
+      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-rebekah-tolatovicz/</link>
+      <description>
+        <![CDATA[Listen to this audio excerpt from Rebekah Tolatovicz, a mechanical technician lead supporting the Orion spacecraft’s main contractor Lockheed Martin: At NASA’s Kennedy Space Center in Florida, there is a fleet of Orion spacecraft in work, and Rebekah Tolatovicz’s hands have helped build each one. Tolatovicz works to build, integrate, and test the spacecraft used [&#8230;]]]>
+      </description>
+      <source:markdown>Listen to this audio excerpt from Rebekah Tolatovicz, a mechanical technician lead supporting the Orion spacecraft’s main contractor Lockheed Martin: At NASA’s Kennedy Space Center in Florida, there is a fleet of Orion spacecraft in work, and Rebekah Tolatovicz’s hands have helped build each one. Tolatovicz works to build, integrate, and test the spacecraft used \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=971343</guid>
+    </item>    <item>
+      <title>NASA Selects Voyager for Seventh Private Mission to Space Station</title>
+      <link>https://www.nasa.gov/news-release/nasa-selects-voyager-for-seventh-private-mission-to-space-station/</link>
+      <description>
+        <![CDATA[NASA and Voyager Technologies have signed an order for the seventh private astronaut mission to the International Space Station, targeted to launch no earlier than 2028 from Florida. This is the company&#8217;s first selection for a private astronaut mission to the orbiting laboratory, underscoring NASA’s ongoing investment in fostering a commercial space economy and expanding [&#8230;]]]>
+      </description>
+      <source:markdown>NASA and Voyager Technologies have signed an order for the seventh private astronaut mission to the International Space Station, targeted to launch no earlier than 2028 from Florida. This is the company’s first selection for a private astronaut mission to the orbiting laboratory, underscoring NASA’s ongoing investment in fostering a commercial space economy and expanding \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=984685</guid>
+    </item>    <item>
+      <title>NASA Launches Six CubeSats to International Space Station</title>
+      <link>https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/</link>
+      <description>
+        <![CDATA[Experiments and supplies bound for the International Space Station launched on April 11 as part of the agency&#8217;s Northrop Grumman Commercial Resupply Services 24 mission. As part of the approximately 11,000 pounds cargo that lifted off inside the company’s Cygnus XL spacecraft, NASA’s CubeSat Launch Initiative (CSLI) launched six CubeSats built by U.S. educational institutions [&#8230;]]]>
+      </description>
+      <source:markdown>Experiments and supplies bound for the International Space Station launched on April 11 as part of the agency’s Northrop Grumman Commercial Resupply Services 24 mission. As part of the approximately 11,000 pounds cargo that lifted off inside the company’s Cygnus XL spacecraft, NASA’s CubeSat Launch Initiative (CSLI) launched six CubeSats built by U.S. educational institutions \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=984268</guid>
+    </item>    <item>
+      <title>Customers revolt as GitHub Copilot &#39;fixes&#39; rate limits</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/github_copilot_rate_limiting_bug/</link>
+      <description>
+        <![CDATA[<h4>Repair of bug that undercounted token usage leads to rapid exhaustion of subscription allowance</h4> <p>Microsoft&#39;s GitHub last week told Copilot customers that they&#39;d have to reduce their use of the AI service to ease the strain on company servers. This follows the company&#39;s discovery last month of a token counting bug that appears to have broken the company&#39;s pricing model.…</p>]]>
+      </description>
+      <source:markdown>#### Repair of bug that undercounted token usage leads to rapid exhaustion of subscription allowance
+
+Microsoft&#39;s GitHub last week told Copilot customers that they&#39;d have to reduce their use of the AI service to ease the strain on company servers. This follows the company&#39;s discovery last month of a token counting bug that appears to have broken the company&#39;s pricing model.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245630</guid>
+    </item>    <item>
+      <title>Tribblix m34 for SPARC released</title>
+      <link>https://www.osnews.com/story/144801/tribblix-m34-for-sparc-released/</link>
+      <description>
+        <![CDATA[Tribblix, the Illumos distribution focused on giving you a classic UNIX-style experience, doesn&#8217;t only support x86. It also has a branch for SPARC, which tends to run behind its x86 counterpart a little bit and has a few other limitations related to the fact SPARC is effectively no longer being developed. The Tribblix SPARC branch has been updated, and now roughly matches the latest x86 release from a few weeks ago. The graphical libraries libtiff and OpenEXR have been updated, retaining the old shared library versions for now. OpenSSL is now from the 3.5 series with the 3.0 api by default. Bind is now from the 9.20 series. OpenSSH is now 10.2, and you may get a Post-Quantum Cryptography warning if connecting to older SSH servers. &#8216;zap install&#8217; now installs dependencies by default. &#8216;zap create-user&#8217; will now restrict new home directories to mode 0700 by default; use the -M flag to choose different permissions. Support for UFS quotas has been removed. ↫ Tribblix release notes There&#8217;s no new ISO yet, so to get to this new m34 release for SPARC you&#8217;re going to have to install from an older ISO and update from there.]]>
+      </description>
+      <source:markdown>Tribblix, the Illumos distribution focused on giving you a classic UNIX-style experience, doesn’t only support x86. It also has a branch for SPARC, which tends to run behind its x86 counterpart a little bit and has a few other limitations related to the fact SPARC is effectively no longer being developed. The Tribblix SPARC branch has been updated, and now roughly matches the latest x86 release from a few weeks ago. The graphical libraries libtiff and OpenEXR have been updated, retaining the old shared library versions for now. OpenSSL is now from the 3.5 series with the 3.0 api by default. Bind is now from the 9.20 series. OpenSSH is now 10.2, and you may get a Post-Quantum Cryptography warning if connecting to older SSH servers. ‘zap install’ now installs dependencies by default. ‘zap create-user’ will now restrict new home directories to mode 0700 by default; use the -M flag to choose different permissions. Support for UFS quotas has been removed. ↫ Tribblix release notes There’s no new ISO yet, so to get to this new m34 release for SPARC you’re going to have to install from an older ISO and update from there.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144801</guid>
+    </item>    <item>
+      <title>Shoe company says it&#39;s getting into AI infrastructure and yes this is the top</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/allbirds_ai_longislandicedtea_blockchain_lolol/</link>
+      <description>
+        <![CDATA[<h4>Following in the footsteps of Long Island Iced Tea</h4> <p><strong>OPINION</strong>  Back in December 2017, an obscure American soft drinks company changed its name from Long Island Iced Tea to Long Blockchain.…</p>]]>
+      </description>
+      <source:markdown>#### Following in the footsteps of Long Island Iced Tea
+
+**OPINION**  Back in December 2017, an obscure American soft drinks company changed its name from Long Island Iced Tea to Long Blockchain.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245629</guid>
+    </item>    <item>
+      <title>Why Does This Newly Discovered 2,000-Year-Old Stone Slab Depict a Roman Emperor as an Egyptian Pharaoh?</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-does-this-newly-discovered-2000-year-old-stone-slab-depict-a-roman-emperor-as-an-egyptian-pharaoh-180988549/</link>
+      <description>
+        <![CDATA[The sandstone monument shows Tiberius standing next to a family of local gods. Archaeologists say the scene illustrates the ruler's role as a leader who upheld cosmic order in Egyptian society]]>
+      </description>
+      <source:markdown>The sandstone monument shows Tiberius standing next to a family of local gods. Archaeologists say the scene illustrates the ruler&#39;s role as a leader who upheld cosmic order in Egyptian society</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fTmxPtlIry3kZvtUCgBODQq9Ay8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c8/04/c8043d96-13cd-4be6-8791-c725425c87f2/stone-stele.png" length="1678948" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-does-this-newly-discovered-2000-year-old-stone-slab-depict-a-roman-emperor-as-an-egyptian-pharaoh-180988549/</guid>
+    </item>    <item>
+      <title>Patch these critical Fortinet sandbox bugs that let attackers bypass login, run commands over HTTP</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/critical_fortinet_sandbox_bugs/</link>
+      <description>
+        <![CDATA[<h4>No reports of active exploitation (yet)</h4> <p>Watch out for more Fortinet vulns! Two critical bugs in Fortinet&#39;s sandbox could allow unauthenticated attackers to bypass authentication or execute unauthorized code on vulnerable systems.…</p>]]>
+      </description>
+      <source:markdown>#### No reports of active exploitation (yet)
+
+Watch out for more Fortinet vulns! Two critical bugs in Fortinet&#39;s sandbox could allow unauthenticated attackers to bypass authentication or execute unauthorized code on vulnerable systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245627</guid>
+    </item>    <item>
+      <title>Decades-old Linux UI bug fixed by dev younger than the window manager</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/enlightenment_e16_bug_patched/</link>
+      <description>
+        <![CDATA[<h4>Kamila Szewczyk prefers old software, as back then people understood something could actually be finished</h4> <p>No one can tell software developer Kamila Szewczyk that newer is better: She just fixed a 20-year-old bug in Enlightenment E16, the old-school Linux window manager she favors partly because, she tells us, it is actually finished software.…</p>]]>
+      </description>
+      <source:markdown>#### Kamila Szewczyk prefers old software, as back then people understood something could actually be finished
+
+No one can tell software developer Kamila Szewczyk that newer is better: She just fixed a 20-year-old bug in Enlightenment E16, the old-school Linux window manager she favors partly because, she tells us, it is actually finished software.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245624</guid>
+    </item>    <item>
+      <title>How Do Different Psychedelics Affect the Brain? Scientists Analyzed More Than 500 Neural Scans to Find Out</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-do-different-psychedelics-affect-the-brain-scientists-analyzed-more-than-500-neural-scans-to-find-out-180988534/</link>
+      <description>
+        <![CDATA[A new study suggests that four psychoactive compounds work in surprisingly similar ways, and that they break down the separation between how we think internally and how we perceive the outside world]]>
+      </description>
+      <source:markdown>A new study suggests that four psychoactive compounds work in surprisingly similar ways, and that they break down the separation between how we think internally and how we perceive the outside world</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R1p8jsC2gmtpQYeJohVHQ8QYYjs=/420x240/filters:focal(1408x1059:1409x1060)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/5f/635f5949-f772-4b8b-8e0d-6679086d1a14/psilocybe_pelliculosa_122504.jpg" length="1157036" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/how-do-different-psychedelics-affect-the-brain-scientists-analyzed-more-than-500-neural-scans-to-find-out-180988534/</guid>
+    </item>    <item>
+      <title>Bad teacher bots can leave hidden marks on model students</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/llms_inherit_bad_traits/</link>
+      <description>
+        <![CDATA[<h4>Study finds LLMs will smuggle biases into others even if they&#39;re scrubbed from training data</h4> <p>New research warns about the dangers of teaching LLMs on the output of other models, showing that undesirable traits can be transmitted &#34;subliminally&#34; from teacher to student, even when they are scrubbed from training data.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Study finds LLMs will smuggle biases into others even if they&#39;re scrubbed from training data
+
+New research warns about the dangers of teaching LLMs on the output of other models, showing that undesirable traits can be transmitted &#34;subliminally&#34; from teacher to student, even when they are scrubbed from training data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245622</guid>
+    </item>    <item>
+      <title>Automotive data biz Autovista blames ransomware for service disruption</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/automotive_data_biz_autovista_ransomware/</link>
+      <description>
+        <![CDATA[<h4>Some customer orgs tell staff to block inbound email from the provider</h4> <p>Autovista confirms that it called in outside support to help clean up a ransomware infection currently affecting systems in Europe and Australia.…</p>]]>
+      </description>
+      <source:markdown>#### Some customer orgs tell staff to block inbound email from the provider
+
+Autovista confirms that it called in outside support to help clean up a ransomware infection currently affecting systems in Europe and Australia.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245623</guid>
+    </item>    <item>
+      <title>Does Your Cat Always Leave Behind a Half-Full Bowl of Food? New Research Points to Why Our Furry Friends Can Be Such Picky Eaters</title>
+      <link>https://www.smithsonianmag.com/smart-news/does-your-cat-always-leave-behind-a-half-full-bowl-of-food-new-research-points-to-why-our-furry-friends-can-be-such-picky-eaters-180988540/</link>
+      <description>
+        <![CDATA[A new study suggests that domestic cats get bored of monotonous meals. Switching up their food—or even just nearby scents—could help them join the clean plate club]]>
+      </description>
+      <source:markdown>A new study suggests that domestic cats get bored of monotonous meals. Switching up their food—or even just nearby scents—could help them join the clean plate club</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/p_tC151uz1BXj7bi15_AUYteU9Y=/420x240/filters:focal(2126x1427:2127x1428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/fc/77fc64e3-3768-43a8-9c1a-96a395024750/cat-food.jpg" length="2851886" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/does-your-cat-always-leave-behind-a-half-full-bowl-of-food-new-research-points-to-why-our-furry-friends-can-be-such-picky-eaters-180988540/</guid>
+    </item>    <item>
+      <title>2026 NSTA Hyperwall Schedule</title>
+      <link>https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/</link>
+      <description>
+        <![CDATA[NASA Science at NSTA Hyperwall Schedule, April 16-18, 2026 Join NASA in the Exhibit Hall (Booth #1265) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. THURSDAY, APRIL 16 11:00 AMTeaching Space Weather in the Artemis Mission EraChristina Milotte11:15 AM5E StoryMaps using NASA ResourcesTina HarteBallinger11:30 AMGrowing Beyond Earth: A Partnership BetweenFairchild Tropical Botanic Garden […]]]>
+      </description>
+      <source:markdown>NASA Science at NSTA Hyperwall Schedule, April 16-18, 2026 Join NASA in the Exhibit Hall (Booth #1265) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. THURSDAY, APRIL 16 11:00 AMTeaching Space Weather in the Artemis Mission EraChristina Milotte11:15 AM5E StoryMaps using NASA ResourcesTina HarteBallinger11:30 AMGrowing Beyond Earth: A Partnership BetweenFairchild Tropical Botanic Garden \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/</guid>
+    </item>    <item>
+      <title>Not all networks can handle AI traffic – and experts are sounding alarms</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/networks_not_ready_for_ai_challenges/</link>
+      <description>
+        <![CDATA[<h4>Y&#39;all been focusing on compute and forgot about how the data moves around</h4> <p>AI is reshaping the demands on network infrastructure, and many organizations are not prepared – including some of the so-called neocloud providers offering AI services.…</p>]]>
+      </description>
+      <source:markdown>#### Y&#39;all been focusing on compute and forgot about how the data moves around
+
+AI is reshaping the demands on network infrastructure, and many organizations are not prepared – including some of the so-called neocloud providers offering AI services.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245621</guid>
+    </item>    <item>
+      <title>Windows takes a crash dump after one McDonald&#39;s order too many</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/windows_mcdonalds_bork/</link>
+      <description>
+        <![CDATA[<h4>We&#39;ve all been there</h4> <p><strong>Bork!Bork!Bork!</strong>  Windows is doing what it does best in California, with a Blue Screen of Death on the wall of a fast food restaurant where order progress is supposed to be.…</p>]]>
+      </description>
+      <source:markdown>#### We&#39;ve all been there
+
+**Bork!Bork!Bork!**  Windows is doing what it does best in California, with a Blue Screen of Death on the wall of a fast food restaurant where order progress is supposed to be.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245617</guid>
+    </item>    <item>
+      <title>Haiku on ARM64 boots to desktop in QEMU</title>
+      <link>https://www.osnews.com/story/144799/haiku-on-arm64-boots-to-desktop-in-qemu/</link>
+      <description>
+        <![CDATA[Another Haiku monthly activity report, but this time around, there&#8217;s actually a big ticket item. Haiku has been in a pretty solid and stable state for a while now, so the activity reports have been dominated by fairly small, obscure changes, but during March a major milestone was reached for the ARM64 port. smrobtzz contributed the bulk of the work, including fixes for building on macOS on ARM64, drivers for the Apple S5L UART, fixes to the kernel base address, clearing the frame pointer before entering the kernel, mapping physical memory correctly, the basics for userland, and more. SED4906 contributed some fixes to the bootloader page mapping, and runtime_loader’s page-size checks. Combined, these changes allow the ARM64 port to get to the desktop in QEMU. There’s a forum thread, complete with screenshots, for anyone interested in following along. ↫ waddlesplash While it&#8217;s only in QEMU, this is still a major achievement and paves the way for more people to work on the ARM64 port, possibly increasing its health. There&#8217;s tons of smaller changes and fixes all over the place, too, as usual, and the team mentions beta 6 isn&#8217;t quite ready yet, still. Don&#8217;t let that stop you from just downloading the latest nightly, though &#8211; Haiku is mature enough to use it.]]>
+      </description>
+      <source:markdown>Another Haiku monthly activity report, but this time around, there’s actually a big ticket item. Haiku has been in a pretty solid and stable state for a while now, so the activity reports have been dominated by fairly small, obscure changes, but during March a major milestone was reached for the ARM64 port. smrobtzz contributed the bulk of the work, including fixes for building on macOS on ARM64, drivers for the Apple S5L UART, fixes to the kernel base address, clearing the frame pointer before entering the kernel, mapping physical memory correctly, the basics for userland, and more. SED4906 contributed some fixes to the bootloader page mapping, and runtime\_loader’s page-size checks. Combined, these changes allow the ARM64 port to get to the desktop in QEMU. There’s a forum thread, complete with screenshots, for anyone interested in following along. ↫ waddlesplash While it’s only in QEMU, this is still a major achievement and paves the way for more people to work on the ARM64 port, possibly increasing its health. There’s tons of smaller changes and fixes all over the place, too, as usual, and the team mentions beta 6 isn’t quite ready yet, still. Don’t let that stop you from just downloading the latest nightly, though – Haiku is mature enough to use it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144799</guid>
+    </item>    <item>
+      <title>NASA’s SPHEREx Mission Maps Water Ice Throughout Cygnus X</title>
+      <link>https://science.nasa.gov/photojournal/nasas-spherex-mission-maps-water-ice-throughout-cygnus-x/</link>
+      <description>
+        <![CDATA[Description An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. One […]]]>
+      </description>
+      <source:markdown>Description An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. One \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nasas-spherex-mission-maps-water-ice-throughout-cygnus-x/</guid>
+    </item>    <item>
+      <title>‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions</title>
+      <link>https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/</link>
+      <description>
+        <![CDATA[NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds — vast regions of gas and dust where dense clumps of [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds — vast regions of gas and dust where dense clumps of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=984222</guid>
+    </item>    <item>
+      <title>The Ancient Weapons Active in Your Immune System Today</title>
+      <link>https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/</link>
+      <description>
+        <![CDATA[Dozens of new discoveries reveal that defenses evolved by bacteria and viruses billions of years ago still define our own innate immune system.            <p>The post <a href="https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/" target="_blank">The Ancient Weapons Active in Your Immune System Today</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Dozens of new discoveries reveal that defenses evolved by bacteria and viruses billions of years ago still define our own innate immune system.
+
+The post [The Ancient Weapons Active in Your Immune System Today](https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=160935</guid>
+    </item>    <item>
+      <title>Turtles May Have Been Tasty Snacks for Neanderthals 125,000 Years Ago. But Their Shells Were Probably the Real Prize</title>
+      <link>https://www.smithsonianmag.com/smart-news/turtles-may-have-been-tasty-snacks-for-neanderthals-125000-years-ago-but-their-shells-were-probably-the-real-prize-180988550/</link>
+      <description>
+        <![CDATA[New research based on fragments discovered at the Neumark-Nord site in Germany suggests Neanderthals may have transformed the shells into tools]]>
+      </description>
+      <source:markdown>New research based on fragments discovered at the Neumark-Nord site in Germany suggests Neanderthals may have transformed the shells into tools</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/C-eyRIgBsrbwomIW76o2FgNgqco=/420x240/filters:focal(1978x1272:1979x1273)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b1/f9/b1f9c982-f8fa-4b76-9201-1746f1a66587/07_vor-_und_fruehgeschichte_neandertaler_schildkroeten.jpg" length="9027703" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/turtles-may-have-been-tasty-snacks-for-neanderthals-125000-years-ago-but-their-shells-were-probably-the-real-prize-180988550/</guid>
+    </item>    <item>
+      <title>Artemis II Crew Returns to Houston</title>
+      <link>https://www.nasa.gov/image-article/artemis-ii-crew-returns-to-houston/</link>
+      <description>
+        <![CDATA[NASA’s Artemis II crew – NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen – smile at friends, family, and colleagues. They shared brief remarks with the crowd after landing at Ellington Airport near NASA’s Johnson Space Center in Houston on Saturday, April 11, 2026, after a [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Artemis II crew – NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen – smile at friends, family, and colleagues. They shared brief remarks with the crowd after landing at Ellington Airport near NASA’s Johnson Space Center in Houston on Saturday, April 11, 2026, after a \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=984056</guid>
+    </item>    <item>
+      <title>Fixing a 20-year-old bug in Enlightenment E16</title>
+      <link>https://www.osnews.com/story/144797/fixing-a-20-year-old-bug-in-enlightenment-e16/</link>
+      <description>
+        <![CDATA[The editor in chief of this blog was born in 2004. She uses the 1997 window manager, Enlightenment E16, daily. In this article, I describe the process of fixing a show-stopping, rare bug that dates back to 2006 in the codebase. Surprisingly, the issue has roots in a faulty implementation of Newton’s algorithm. ↫ Kamila Szewczyk I&#8217;m not going to pretend to understand any of this, but I know you people do. Enjoy.]]>
+      </description>
+      <source:markdown>The editor in chief of this blog was born in 2004. She uses the 1997 window manager, Enlightenment E16, daily. In this article, I describe the process of fixing a show-stopping, rare bug that dates back to 2006 in the codebase. Surprisingly, the issue has roots in a faulty implementation of Newton’s algorithm. ↫ Kamila Szewczyk I’m not going to pretend to understand any of this, but I know you people do. Enjoy.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144797</guid>
+    </item>    <item>
+      <title>Scientists Just Made the Most Complete Map of the Clitoris&#39;s Sensory Nerve Network. Here&#39;s What They Found</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-just-made-the-most-complete-map-of-the-clitoris-sensory-nerve-network-heres-what-found-180988463/</link>
+      <description>
+        <![CDATA[Cultural taboos around female sexuality have hindered research on the organ. But a new study provides pivotal insights that can inform important surgeries and health care]]>
+      </description>
+      <source:markdown>Cultural taboos around female sexuality have hindered research on the organ. But a new study provides pivotal insights that can inform important surgeries and health care</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/yM7KDT3VwUsHAp-WDowQ7boEhJo=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/26/47/26473c59-4662-411e-8ec8-ee32b9db206d/clitoris.jpg" length="914677" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-just-made-the-most-complete-map-of-the-clitoris-sensory-nerve-network-heres-what-found-180988463/</guid>
+    </item>    <item>
+      <title>Honoring Alex Goetz, a Landsat Legend</title>
+      <link>https://science.nasa.gov/missions/landsat/honoring-alex-goetz-a-landsat-legend/</link>
+      <description>
+        <![CDATA[Dr. Alex Goetz, who passed away in 2025, was a member of the Landsat 7 Science Team and a key figure in the history of Landsat science.]]>
+      </description>
+      <source:markdown>Dr. Alex Goetz, who passed away in 2025, was a member of the Landsat 7 Science Team and a key figure in the history of Landsat science.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/landsat/honoring-alex-goetz-a-landsat-legend/</guid>
+    </item>    <item>
+      <title>Let sleeping CPUs lie — S0ix</title>
+      <link>https://www.osnews.com/story/144795/let-sleeping-cpus-lie-s0ix/</link>
+      <description>
+        <![CDATA[Modern laptops promise a kind of magic. Shut the lid or press the sleep button, toss it in a backpack, and hours, days, or weeks later, it should wake up as if nothing happened with little to no battery drain. This sounds like a fairly trivial operation — y’know, you’re literally just asking for the computer to do nothing — but in that quiet moment when the fans whir down, the screen turns dark, and your reflection stares back at you, your computer and all its little components are actually hard at work doing their bedtime routine. ↫ Aymeric Wibo at the FreeBSD Foundation A look at how suspend and resume works in practice, from the perspective of FreeBSD. Considering FreeBSD&#8217;s laptop focus in recent times, not an unimportant subject.]]>
+      </description>
+      <source:markdown>Modern laptops promise a kind of magic. Shut the lid or press the sleep button, toss it in a backpack, and hours, days, or weeks later, it should wake up as if nothing happened with little to no battery drain. This sounds like a fairly trivial operation — y’know, you’re literally just asking for the computer to do nothing — but in that quiet moment when the fans whir down, the screen turns dark, and your reflection stares back at you, your computer and all its little components are actually hard at work doing their bedtime routine. ↫ Aymeric Wibo at the FreeBSD Foundation A look at how suspend and resume works in practice, from the perspective of FreeBSD. Considering FreeBSD’s laptop focus in recent times, not an unimportant subject.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144795</guid>
+    </item>    <item>
       <title>Metrics</title>
       <link>https://www.nasa.gov/centers-and-facilities/nssc/metrics/</link>
       <description>
@@ -38,9 +424,9 @@ A mother and her ten-year-old son are now free after being kidnapped for around 
       <title>US states can&#39;t account for datacenter tax breaks. Literally</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/15/us_states_gaap_datacenters/</link>
       <description>
-        <![CDATA[<h4>Report says authorities are flouting accounting rules by failing to disclose revenue lost to server farm subsidies</h4> <p>Many US states and local authorities are violating generally accepted accounting principles (GAAP) by failing to disclose revenue lost to datacenter tax subsidy schemes, according to Good Jobs First.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Report says authorities are flouting rules by failing to disclose revenue lost to server farm subsidies</h4> <p>Many US states and local authorities are violating generally accepted accounting principles (GAAP) by failing to disclose revenue lost to datacenter tax subsidy schemes, according to Good Jobs First.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <source:markdown>#### Report says authorities are flouting accounting rules by failing to disclose revenue lost to server farm subsidies
+      <source:markdown>#### Report says authorities are flouting rules by failing to disclose revenue lost to server farm subsidies
 
 Many US states and local authorities are violating generally accepted accounting principles (GAAP) by failing to disclose revenue lost to datacenter tax subsidy schemes, according to Good Jobs First.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245616</guid>
@@ -148,15 +534,13 @@ A startup called Orbital has revealed a plan to build a 10,000-satellite neoclou
       <title>A new approach to brain health, one neuron at a time</title>
       <link>https://www.npr.org/2026/04/15/nx-s1-5744990/brain-motion-stroke-paralysis</link>
       <description>
-        <![CDATA[Neuroscientist <a href="https://bil.stanford.edu/paul-nuyujukian"target="_blank"   >Paul Nuyujukian</a> likens the brain to a stadium full of people. To eavesdrop on the crowd you <em>could </em>put a microphone in the middle of the stadium. But to understand the conversations you need to record individual people. He thinks about the brain the same way. To understand brain disease, he studies neurons—one at a time. And his insights are shedding light on a big global issue—stroke. The World Health Organization predicts <a href="https://www.who.int/news-room/fact-sheets/detail/stroke"target="_blank"   >one in four adults</a> will have a stroke in their lifetime. Strokes can cause death, or lead to paralysis or speech problems. But there’s still a lot researchers don’t know about how the brain recovers from an event like a stroke. Nuyujukian directs a lab at Stanford University that studies how the brain controls movement, including after neurological events like stroke. We get into how he does this, and why he hopes his research could eventually help people who’ve been paralyzed. <br/><br/><em>Email us your questions about the brain – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Neuroscientist <a href="https://bil.stanford.edu/paul-nuyujukian"target="_blank"   >Paul Nuyujukian</a> likens the brain to a stadium full of people. To eavesdrop on the crowd you <em>could </em>put a microphone in the middle of the stadium. But to understand the conversations you need to record individual people. He thinks about the brain the same way. To understand brain disease, he studies neurons—one at a time. And his insights are shedding light on a big global issue—stroke. The World Health Organization predicts <a href="https://www.who.int/news-room/fact-sheets/detail/stroke"target="_blank"   >one in four adults</a> will have a stroke in their lifetime. Strokes can cause death, or lead to paralysis or speech problems. But there’s still a lot researchers don’t know about how the brain recovers from an event like a stroke. Nuyujukian directs a lab at Stanford University that studies how the brain controls movement, including after neurological events like stroke. We get into how he does this, and why he hopes his research could eventually help people who’ve been paralyzed. <br/><br/><em>Email us your questions about the brain – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Neuroscientist [Paul Nuyujukian](https://bil.stanford.edu/paul-nuyujukian) likens the brain to a stadium full of people. To eavesdrop on the crowd you _could_ put a microphone in the middle of the stadium. But to understand the conversations you need to record individual people. He thinks about the brain the same way. To understand brain disease, he studies neurons—one at a time. And his insights are shedding light on a big global issue—stroke. The World Health Organization predicts [one in four adults](https://www.who.int/news-room/fact-sheets/detail/stroke) will have a stroke in their lifetime. Strokes can cause death, or lead to paralysis or speech problems. But there’s still a lot researchers don’t know about how the brain recovers from an event like a stroke. Nuyujukian directs a lab at Stanford University that studies how the brain controls movement, including after neurological events like stroke. We get into how he does this, and why he hopes his research could eventually help people who’ve been paralyzed.
 
 _Email us your questions about the brain – or anything else to do with science at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We may turn it into an episode in the future!_
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -199,6 +583,14 @@ Most mainframe users who turn to AI for help migrating legacy code to alternativ
       </description>
       <source:markdown>Written by Abigail Fraeman, Deputy Project Scientist at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, April 10, 2026 Curiosity spent the past week driving towards a small crater, about 10 meters (32 feet) in diameter. Today the team informally named this crater “Antofagasta,” after a region and major city in Chile next to the \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4859-4866-one-small-crater-and-thousands-of-polygons/</guid>
+    </item>    <item>
+      <title>Early Indicators of Reward Hacking via Reasoning Interpolation</title>
+      <link>https://blog.eleuther.ai/reward-hacking-indicators/</link>
+      <description>
+        <![CDATA[Using importance sampling with fine-tuned donor prefills to predict reward hacking emergence during training]]>
+      </description>
+      <source:markdown>Using importance sampling with fine-tuned donor prefills to predict reward hacking emergence during training</source:markdown>
+      <guid>cid://https://blog.eleuther.ai/reward-hacking-indicators/</guid>
     </item>    <item>
       <title>Claude Code routines promise mildly clever cron jobs</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/14/claude_code_routines/</link>
@@ -548,7 +940,7 @@ When IBM PCs set the standard for personal computing and Madonna topped the char
       <title>Is there still a gender gap in medical research?</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5752275/women-men-sex-treatment-doctor-medicine</link>
       <description>
-        <![CDATA[When you go to the doctor’s office, your doctor has to figure out which treatment is best for you. Physicians rely on medical research and clinical trials to make sure those treatments are safe and effective. But that research has not always been inclusive, which impacts patient care. Women and people of color were only required to be included in medical trials funded by the NIH starting in 1993. Now, studies are more inclusive – but <em>how </em>we study sex and gender in research is still controversial. In this episode, we unpack how medicine sorts the sexes – and why it’s not as simple as it seems.<br/><br/><strong>If you liked this episode, check out our previous one </strong><a href="https://lnk.to/yirSfo"target="_blank"   ><strong>unpacking biological sex</strong></a><strong>. </strong><br/><br/><em>Interested in more science behind medicine? Email us your questions at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. </em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><em>This episode was produced by Hannah Chinn. It was edited by our showrunner, Rebecca Ramirez. Tyler Jones checked the facts. Kwesi Lee was the audio engineer.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[When you go to the doctor’s office, your doctor has to figure out which treatment is best for you. Physicians rely on medical research and clinical trials to make sure those treatments are safe and effective. But that research has not always been inclusive, which impacts patient care. Women and people of color were only required to be included in medical trials funded by the NIH starting in 1993. Now, studies are more inclusive – but <em>how </em>we study sex and gender in research is still controversial. In this episode, we unpack how medicine sorts the sexes – and why it’s not as simple as it seems.<br/><br/><strong>If you liked this episode, check out our previous one </strong><a href="https://lnk.to/yirSfo"target="_blank"   ><strong>unpacking biological sex</strong></a><strong>. </strong><br/><br/><em>Interested in more science behind medicine? Email us your questions at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. </em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><em>This episode was produced by Hannah Chinn. It was edited by our showrunner, Rebecca Ramirez. Tyler Jones checked the facts. Kwesi Lee was the audio engineer.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>When you go to the doctor’s office, your doctor has to figure out which treatment is best for you. Physicians rely on medical research and clinical trials to make sure those treatments are safe and effective. But that research has not always been inclusive, which impacts patient care. Women and people of color were only required to be included in medical trials funded by the NIH starting in 1993. Now, studies are more inclusive – but _how_ we study sex and gender in research is still controversial. In this episode, we unpack how medicine sorts the sexes – and why it’s not as simple as it seems.
 
@@ -561,8 +953,6 @@ _Listen to every episode of Short Wave sponsor-free and support our work at NPR 
 _Listen to Short Wave on_ [_Spotify_](https://n.pr/3HOQKeK) _and_ [_Apple Podcasts_](https://n.pr/3WA9vqh) _._
 
 _This episode was produced by Hannah Chinn. It was edited by our showrunner, Rebecca Ramirez. Tyler Jones checked the facts. Kwesi Lee was the audio engineer._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -972,7 +1362,7 @@ France’s Interministerial Directorate for Digital Affairs (DINUM) will drop Wi
       <title>Are you pooping all wrong?</title>
       <link>https://www.npr.org/2026/04/13/nx-s1-5770397/poop-wrong-bathroom-fiber</link>
       <description>
-        <![CDATA[Talking about poop can be taboo, and this social norm may be hurting our health. <a href="https://www.trishapasricha.com/#dataItem-irq95dvw"target="_blank"   >Dr. Trisha Pasricha</a> says around 40% of people in the U.S. have bathroom issues so bad it affects their daily lives. Pasricha, a gastroenterologist, says her patients' bathroom and bowel education ends during potty training and doesn’t continue into adulthood. This is why she wrote the book <a href="https://www.trishapasricha.com/youvebeenpoopingallwrong"target="_blank"   ><em>You’ve Been Pooping All Wrong</em></a>. In this episode, Pasricha speaks with host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber </a>about the three P’s of pooping: pliability, propulsion and pelvic floor. They address whether to squat and whether certain fiber is the answer to better bathroom breaks.<br/><br/><strong>If you liked this episode, check out our episodes on </strong><a href="http://lnk.to/pj4jSn"target="_blank"   ><strong>urine myths</strong></a><strong> and </strong><a href="http://lnk.to/QnCc1F"target="_blank"   ><strong>recurring UTIs</strong></a><strong>.</strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of </em>Short Wave<em> sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Talking about poop can be taboo, and this social norm may be hurting our health. <a href="https://www.trishapasricha.com/#dataItem-irq95dvw"target="_blank"   >Dr. Trisha Pasricha</a> says around 40% of people in the U.S. have bathroom issues so bad it affects their daily lives. Pasricha, a gastroenterologist, says her patients' bathroom and bowel education ends during potty training and doesn’t continue into adulthood. This is why she wrote the book <a href="https://www.trishapasricha.com/youvebeenpoopingallwrong"target="_blank"   ><em>You’ve Been Pooping All Wrong</em></a>. In this episode, Pasricha speaks with host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber </a>about the three P’s of pooping: pliability, propulsion and pelvic floor. They address whether to squat and whether certain fiber is the answer to better bathroom breaks.<br/><br/><strong>If you liked this episode, check out our episodes on </strong><a href="http://lnk.to/pj4jSn"target="_blank"   ><strong>urine myths</strong></a><strong> and </strong><a href="http://lnk.to/QnCc1F"target="_blank"   ><strong>recurring UTIs</strong></a><strong>.</strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of </em>Short Wave<em> sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Talking about poop can be taboo, and this social norm may be hurting our health. [Dr. Trisha Pasricha](https://www.trishapasricha.com/#dataItem-irq95dvw) says around 40% of people in the U.S. have bathroom issues so bad it affects their daily lives. Pasricha, a gastroenterologist, says her patients&#39; bathroom and bowel education ends during potty training and doesn’t continue into adulthood. This is why she wrote the book [_You’ve Been Pooping All Wrong_](https://www.trishapasricha.com/youvebeenpoopingallwrong). In this episode, Pasricha speaks with host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) about the three P’s of pooping: pliability, propulsion and pelvic floor. They address whether to squat and whether certain fiber is the answer to better bathroom breaks.
 
@@ -981,8 +1371,6 @@ France’s Interministerial Directorate for Digital Affairs (DINUM) will drop Wi
 _Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
 _Listen to every episode of_ Short Wave _sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -1340,15 +1728,13 @@ Fewer than three-tenths of those required to sign up for quarterly software-base
       <title>Who&#39;s to blame for all this plastic?</title>
       <link>https://www.npr.org/2026/04/10/nx-s1-5742774/plastic-recycling-waste-oil-gas</link>
       <description>
-        <![CDATA[How did plastic become so ubiquitous? The answer lies deep beneath the surface of the earth. In her new book <a href="https://www.penguinrandomhouse.com/books/747797/plastic-inc-by-beth-gardiner/"target="_blank"   ><em>Plastic Inc.</em></a>, environmental journalist <a href="https://www.bethgardiner.com/bio"target="_blank"   >Beth Gardiner</a> lays bare the key connection between plastics and the fossil fuel companies behind them. Today, we dive into the history of the multi-billion dollar industry that brought us plastic, their plans to create even more and what could be done to turn the plastic tide.<br/><br/><em>Interested in more stories about the materials that make up our world? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[How did plastic become so ubiquitous? The answer lies deep beneath the surface of the earth. In her new book <a href="https://www.penguinrandomhouse.com/books/747797/plastic-inc-by-beth-gardiner/"target="_blank"   ><em>Plastic Inc.</em></a>, environmental journalist <a href="https://www.bethgardiner.com/bio"target="_blank"   >Beth Gardiner</a> lays bare the key connection between plastics and the fossil fuel companies behind them. Today, we dive into the history of the multi-billion dollar industry that brought us plastic, their plans to create even more and what could be done to turn the plastic tide.<br/><br/><em>Interested in more stories about the materials that make up our world? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>How did plastic become so ubiquitous? The answer lies deep beneath the surface of the earth. In her new book [_Plastic Inc._](https://www.penguinrandomhouse.com/books/747797/plastic-inc-by-beth-gardiner/), environmental journalist [Beth Gardiner](https://www.bethgardiner.com/bio) lays bare the key connection between plastics and the fossil fuel companies behind them. Today, we dive into the history of the multi-billion dollar industry that brought us plastic, their plans to create even more and what could be done to turn the plastic tide.
 
 _Interested in more stories about the materials that make up our world? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -2119,7 +2505,7 @@ The UK&#39;s hopes of fueling cutting-edge AI development and applications with 
       <title>Quantum physics is for everybody</title>
       <link>https://www.npr.org/2026/04/08/nx-s1-5642943/star-trek-space-time-quantum-physics</link>
       <description>
-        <![CDATA[Subatomic particles, gravity wells and the beginning of the universe – these are difficult and mysterious concepts that are better understood with storytelling and metaphor. That’s exactly theoretical physicist <a href="https://chanda.science/"target="_blank"   >Chanda Prescod-Weinstein</a>’s tack in the new book <a href="https://www.penguinrandomhouse.com/books/746817/the-edge-of-space-time-by-chanda-prescod-weinstein/"target="_blank"   ><em>The Edge of Space-Time</em></a>: use metaphor and wonder to bridge the gap between people’s confusion and excitement with quantum physics.<br/><br/>In this episode we talk about Star Trek, how first year physics students are taught and how theoretical physics affects your everyday life.<br/><br/><em>Interested in more space science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><em>This episode was produced by Hannah Chinn. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Jimmy Keeley.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Subatomic particles, gravity wells and the beginning of the universe – these are difficult and mysterious concepts that are better understood with storytelling and metaphor. That’s exactly theoretical physicist <a href="https://chanda.science/"target="_blank"   >Chanda Prescod-Weinstein</a>’s tack in the new book <a href="https://www.penguinrandomhouse.com/books/746817/the-edge-of-space-time-by-chanda-prescod-weinstein/"target="_blank"   ><em>The Edge of Space-Time</em></a>: use metaphor and wonder to bridge the gap between people’s confusion and excitement with quantum physics.<br/><br/>In this episode we talk about Star Trek, how first year physics students are taught and how theoretical physics affects your everyday life.<br/><br/><em>Interested in more space science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><em>This episode was produced by Hannah Chinn. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Jimmy Keeley.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Subatomic particles, gravity wells and the beginning of the universe – these are difficult and mysterious concepts that are better understood with storytelling and metaphor. That’s exactly theoretical physicist [Chanda Prescod-Weinstein](https://chanda.science/)’s tack in the new book [_The Edge of Space-Time_](https://www.penguinrandomhouse.com/books/746817/the-edge-of-space-time-by-chanda-prescod-weinstein/): use metaphor and wonder to bridge the gap between people’s confusion and excitement with quantum physics.
 
@@ -2132,8 +2518,6 @@ _Listen to every episode of Short Wave sponsor-free and support our work at NPR 
 _Listen to Short Wave on_ [_Spotify_](https://n.pr/3HOQKeK) _and_ [_Apple Podcasts_](https://n.pr/3WA9vqh) _._
 
 _This episode was produced by Hannah Chinn. It was edited by Rebecca Ramirez. Tyler Jones checked the facts. The audio engineer was Jimmy Keeley._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -2490,15 +2874,13 @@ British adults are now less active on social media, according to Ofcom, with jus
       <title>Why are bees special? We get inside a hive to find out</title>
       <link>https://www.npr.org/2026/04/07/nx-s1-5757918/honey-bees-play-behavior-intelligence-hive</link>
       <description>
-        <![CDATA[In a new National Geographic docuseries, viewers get a look inside a bee hive. The series is called <a href="https://www.nationalgeographic.com/tv/show/99802a2f-9b71-40fe-b3e0-39042897fa26"target="_blank"   ><em>Secrets of the Bees</em></a> — and since there’s nobody we know who loves bees more than entomologist <a href="https://www.colorado.edu/biofrontiers/samuel-ramsey"target="_blank"   >Sammy Ramsey</a>, we brought him on the show to share some of these secrets. We cover how bees play together (yes, play!), their ability to fend off predators four-times their size and a mite wreaking havoc on honeybees everywhere. <br/><br/><strong>If you liked this episode check out past episodes on liquid gold (a.k.a </strong><a href="https://lnk.to/IhO5gK"target="_blank"   ><strong>honey</strong></a><strong>), and </strong><a href="https://lnk.to/Jalfwx"target="_blank"   ><strong>honeybees</strong></a><strong>. </strong><br/><br/><em>Email us your questions about insects, critters – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[In a new National Geographic docuseries, viewers get a look inside a bee hive. The series is called <a href="https://www.nationalgeographic.com/tv/show/99802a2f-9b71-40fe-b3e0-39042897fa26"target="_blank"   ><em>Secrets of the Bees</em></a> — and since there’s nobody we know who loves bees more than entomologist <a href="https://www.colorado.edu/biofrontiers/samuel-ramsey"target="_blank"   >Sammy Ramsey</a>, we brought him on the show to share some of these secrets. We cover how bees play together (yes, play!), their ability to fend off predators four-times their size and a mite wreaking havoc on honeybees everywhere. <br/><br/><strong>If you liked this episode check out past episodes on liquid gold (a.k.a </strong><a href="https://lnk.to/IhO5gK"target="_blank"   ><strong>honey</strong></a><strong>), and </strong><a href="https://lnk.to/Jalfwx"target="_blank"   ><strong>honeybees</strong></a><strong>. </strong><br/><br/><em>Email us your questions about insects, critters – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>In a new National Geographic docuseries, viewers get a look inside a bee hive. The series is called [_Secrets of the Bees_](https://www.nationalgeographic.com/tv/show/99802a2f-9b71-40fe-b3e0-39042897fa26) — and since there’s nobody we know who loves bees more than entomologist [Sammy Ramsey](https://www.colorado.edu/biofrontiers/samuel-ramsey), we brought him on the show to share some of these secrets. We cover how bees play together (yes, play!), their ability to fend off predators four-times their size and a mite wreaking havoc on honeybees everywhere.
 
 **If you liked this episode check out past episodes on liquid gold (a.k.a** [**honey**](https://lnk.to/IhO5gK) **), and** [**honeybees**](https://lnk.to/Jalfwx) **.**
 
 _Email us your questions about insects, critters – or anything else to do with science at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We may turn it into an episode in the future!_
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -2718,7 +3100,7 @@ The post [An Arctic Road Trip Brings Vital Underground Networks into View](https
       <title>The world is running out of helium — again</title>
       <link>https://www.npr.org/2026/04/06/nx-s1-5770505/helium-shortage-iran-war</link>
       <description>
-        <![CDATA[Lots of people count on helium. From MRI machines and semiconductor manufacturing to pressurizing rockets and detecting leaks, helium is used globally for much more than party balloons. So when there’s a shortage, like right now, the effect is far-reaching. But before the current shortage started, there was already a finite supply on Earth. So, today on Short Wave, we revisit our episode on the history of helium and how the world uses it today. <br/><br/><strong>If you liked this episode, check out our episode on </strong><a href="https://lnk.to/cb36P9"target="_blank"   ><strong>aluminum's strange journey from precious metal to beer can</strong></a>.<br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Lots of people count on helium. From MRI machines and semiconductor manufacturing to pressurizing rockets and detecting leaks, helium is used globally for much more than party balloons. So when there’s a shortage, like right now, the effect is far-reaching. But before the current shortage started, there was already a finite supply on Earth. So, today on Short Wave, we revisit our episode on the history of helium and how the world uses it today. <br/><br/><strong>If you liked this episode, check out our episode on </strong><a href="https://lnk.to/cb36P9"target="_blank"   ><strong>aluminum's strange journey from precious metal to beer can</strong></a>.<br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Lots of people count on helium. From MRI machines and semiconductor manufacturing to pressurizing rockets and detecting leaks, helium is used globally for much more than party balloons. So when there’s a shortage, like right now, the effect is far-reaching. But before the current shortage started, there was already a finite supply on Earth. So, today on Short Wave, we revisit our episode on the history of helium and how the world uses it today.
 
@@ -2727,8 +3109,6 @@ The post [An Arctic Road Trip Brings Vital Underground Networks into View](https
 _Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -3045,7 +3425,7 @@ The post [New Advances Bring the Era of Quantum Computers Closer Than Ever](http
       <title>Never had the flu? Scientists may know why</title>
       <link>https://www.npr.org/2026/04/03/nx-s1-5763891/flu-resistance-peptide-sick-antiviral</link>
       <description>
-        <![CDATA[Scientists estimate somewhere between 5%-35% of people do not get sick from the flu despite being exposed to the virus that causes it. Now, researchers may have figured out why. The team looked at mouthwash samples from 19 healthcare workers who, despite frequent contact with infected patients, report never getting flu symptoms. Today on Short Wave, we talk about how what they found could help scientists develop treatments and strategies to protect people who do get the flu. <br/><br/><strong>If you liked this episode, check out our show on </strong><a href="https://lnk.to/lyKF9y"target="_blank"   ><strong>an effort to map the entire immune system</strong></a><strong>.</strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Scientists estimate somewhere between 5%-35% of people do not get sick from the flu despite being exposed to the virus that causes it. Now, researchers may have figured out why. The team looked at mouthwash samples from 19 healthcare workers who, despite frequent contact with infected patients, report never getting flu symptoms. Today on Short Wave, we talk about how what they found could help scientists develop treatments and strategies to protect people who do get the flu. <br/><br/><strong>If you liked this episode, check out our show on </strong><a href="https://lnk.to/lyKF9y"target="_blank"   ><strong>an effort to map the entire immune system</strong></a><strong>.</strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Scientists estimate somewhere between 5%-35% of people do not get sick from the flu despite being exposed to the virus that causes it. Now, researchers may have figured out why. The team looked at mouthwash samples from 19 healthcare workers who, despite frequent contact with infected patients, report never getting flu symptoms. Today on Short Wave, we talk about how what they found could help scientists develop treatments and strategies to protect people who do get the flu.
 
@@ -3054,8 +3434,6 @@ The post [New Advances Bring the Era of Quantum Computers Closer Than Ever](http
 _Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -3601,15 +3979,13 @@ Anthropic&#39;s Claude Code lacks the persistent kernel access of a rootkit. But
       <title>Why is NASA going to the moon again?</title>
       <link>https://www.npr.org/2026/04/01/nx-s1-5767087/space-moon-mission-launch-artemis</link>
       <description>
-        <![CDATA[NASA’s Artemis II mission is set to launch this week, which could bring humanity close to the moon for the first time since 1972. It’s a mission that’s over twenty years in the making – and even though it’s not the first venture out to the moon, it still involves a lot of firsts. If all goes to plan, the mission will bring the first woman, person of color and non-American close to the moon. But why are we embarking on a sequel space mission to begin with? And while they’re up in space, what could scientists learn about the possibility of life in space for those of us still on Earth?<br/><br/><em>Interested in more science behind current events? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[NASA’s Artemis II mission is set to launch this week, which could bring humanity close to the moon for the first time since 1972. It’s a mission that’s over twenty years in the making – and even though it’s not the first venture out to the moon, it still involves a lot of firsts. If all goes to plan, the mission will bring the first woman, person of color and non-American close to the moon. But why are we embarking on a sequel space mission to begin with? And while they’re up in space, what could scientists learn about the possibility of life in space for those of us still on Earth?<br/><br/><em>Interested in more science behind current events? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>NASA’s Artemis II mission is set to launch this week, which could bring humanity close to the moon for the first time since 1972. It’s a mission that’s over twenty years in the making – and even though it’s not the first venture out to the moon, it still involves a lot of firsts. If all goes to plan, the mission will bring the first woman, person of color and non-American close to the moon. But why are we embarking on a sequel space mission to begin with? And while they’re up in space, what could scientists learn about the possibility of life in space for those of us still on Earth?
 
 _Interested in more science behind current events? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -3899,7 +4275,7 @@ The ISO C++ committee (WG21) has approved the C++26 standard, described by commi
       <title>Predicting spring bloom is an art and a science</title>
       <link>https://www.npr.org/2026/03/31/nx-s1-5736225/spring-tree-dc-flower-festival-cherry</link>
       <description>
-        <![CDATA[Do you ever wish you could predict the future? The National Park Service in Washington D.C. does it every year when they forecast when the Capitol’s cherry blossoms will reach peak bloom. People travel from all over the world to enjoy the annual National Cherry Blossom Festival and to glimpse these fragile flowers before they are gone. On this month’s Nature Quest, we learn the ins and outs of cherry tree blossoms, how scientists make that big prediction every year — and why all this focus on blooms can help scientists better understand climate change. <br/><br/><strong>This episode is part of Nature Quest, our monthly segment from listeners noticing a change in the world around them. To participate, send a voice memo to </strong><a href="mailto:shortwave@npr.org"target="_blank"   ><strong>shortwave@npr.org</strong></a><strong> with your name, location and your question about a change you're seeing in nature!</strong><br/><br/><em>Want to learn more about nature’s calendar? Check out our first Nature Quest episode on </em><a href="https://lnk.to/RwKnWs"target="_blank"   ><em>whether flowers are blooming early</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Do you ever wish you could predict the future? The National Park Service in Washington D.C. does it every year when they forecast when the Capitol’s cherry blossoms will reach peak bloom. People travel from all over the world to enjoy the annual National Cherry Blossom Festival and to glimpse these fragile flowers before they are gone. On this month’s Nature Quest, we learn the ins and outs of cherry tree blossoms, how scientists make that big prediction every year — and why all this focus on blooms can help scientists better understand climate change. <br/><br/><strong>This episode is part of Nature Quest, our monthly segment from listeners noticing a change in the world around them. To participate, send a voice memo to </strong><a href="mailto:shortwave@npr.org"target="_blank"   ><strong>shortwave@npr.org</strong></a><strong> with your name, location and your question about a change you're seeing in nature!</strong><br/><br/><em>Want to learn more about nature’s calendar? Check out our first Nature Quest episode on </em><a href="https://lnk.to/RwKnWs"target="_blank"   ><em>whether flowers are blooming early</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Do you ever wish you could predict the future? The National Park Service in Washington D.C. does it every year when they forecast when the Capitol’s cherry blossoms will reach peak bloom. People travel from all over the world to enjoy the annual National Cherry Blossom Festival and to glimpse these fragile flowers before they are gone. On this month’s Nature Quest, we learn the ins and outs of cherry tree blossoms, how scientists make that big prediction every year — and why all this focus on blooms can help scientists better understand climate change.
 
@@ -3908,8 +4284,6 @@ The ISO C++ committee (WG21) has approved the C++26 standard, described by commi
 _Want to learn more about nature’s calendar? Check out our first Nature Quest episode on_ [_whether flowers are blooming early_](https://lnk.to/RwKnWs) _._
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -4204,15 +4578,13 @@ The European Commission has admitted that attackers broke into its public-facing
       <title>Space news: Project Hail Mary, Artemis, data centers</title>
       <link>https://www.npr.org/2026/03/30/nx-s1-5763814/science-space-project-hail-mary</link>
       <description>
-        <![CDATA[Short Wavers, we hear your requests. You want MORE! SPACE! So this is the first installment of a new segment<em> </em>focusing <em>only </em>on space news. First, we talk about the new sci-fi film <em>Project Hail Mary</em> and the accuracy of the science in the movie. Then, we move on to data centers in orbit, if they are better for the environment and why even send them up into space. Finally, we round out the conversation with a quick update about the upcoming Artemis II launch. The space nerds assembled for this conversation are host and astrophysicist <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G Barber</a>, known space enthusiast and host of<em> All Things Considered </em><a href="https://www.npr.org/people/444796749/scott-detrow"target="_blank"   >Scott Detrow</a> and NPR science correspondent <a href="https://www.npr.org/people/279612138/geoff-brumfiel"target="_blank"   >Geoff Brumfiel</a>. <br/><br/><em>Interested in more on space? Check out our whole summer series, </em><a href="https://www.npr.org/series/g-s1-3299/short-wave-space-camp"target="_blank"   ><em>Space Camp</em></a><em>. Or email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Short Wavers, we hear your requests. You want MORE! SPACE! So this is the first installment of a new segment<em> </em>focusing <em>only </em>on space news. First, we talk about the new sci-fi film <em>Project Hail Mary</em> and the accuracy of the science in the movie. Then, we move on to data centers in orbit, if they are better for the environment and why even send them up into space. Finally, we round out the conversation with a quick update about the upcoming Artemis II launch. The space nerds assembled for this conversation are host and astrophysicist <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G Barber</a>, known space enthusiast and host of<em> All Things Considered </em><a href="https://www.npr.org/people/444796749/scott-detrow"target="_blank"   >Scott Detrow</a> and NPR science correspondent <a href="https://www.npr.org/people/279612138/geoff-brumfiel"target="_blank"   >Geoff Brumfiel</a>. <br/><br/><em>Interested in more on space? Check out our whole summer series, </em><a href="https://www.npr.org/series/g-s1-3299/short-wave-space-camp"target="_blank"   ><em>Space Camp</em></a><em>. Or email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Short Wavers, we hear your requests. You want MORE! SPACE! So this is the first installment of a new segmentfocusing _only_ on space news. First, we talk about the new sci-fi film _Project Hail Mary_ and the accuracy of the science in the movie. Then, we move on to data centers in orbit, if they are better for the environment and why even send them up into space. Finally, we round out the conversation with a quick update about the upcoming Artemis II launch. The space nerds assembled for this conversation are host and astrophysicist [Regina G Barber](https://www.npr.org/people/1082526815/regina-g-barber), known space enthusiast and host of _All Things Considered_ [Scott Detrow](https://www.npr.org/people/444796749/scott-detrow) and NPR science correspondent [Geoff Brumfiel](https://www.npr.org/people/279612138/geoff-brumfiel).
 
 _Interested in more on space? Check out our whole summer series,_ [_Space Camp_](https://www.npr.org/series/g-s1-3299/short-wave-space-camp) _. Or email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -4589,7 +4961,7 @@ Computer security boffins have conducted an analysis of 10 million websites and 
       <title>What&#39;s up with recycled wastewater&#39;s PR problem?</title>
       <link>https://www.npr.org/2026/03/27/nx-s1-5758081/water-waste-recycling-solution</link>
       <description>
-        <![CDATA[Would you drink recycled wastewater? It could be a solution to the global water crisis. But not everyone is ready to jump onboard. They say it’s not technology that’s keeping more cities from recycling their wastewater, but <em>psychology</em>. Experts call this resistance “the yuck factor.” We chat with water journalist <a href="https://www.burkectr.org/peter-annin"target="_blank"   >Peter Annin</a> about some history behind water recycling – and why more cities could adopt the solution soon.<br/><br/><br><strong>This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:</strong><br><a href="http://lnk.to/Ty93au"target="_blank"   >Part 1</a>: When the wells run dry<br><a href="http://lnk.to/os7Fci"target="_blank"   >Part 2</a>: The world’s groundwater problem<br><a href="https://lnk.to/7Mz2Ng"target="_blank"   >Part 3</a>: Freshwater’s growing salt problem<br/><br/><br><em>Email us your questions about water, the wider environment – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><br><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><br><em>This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Aru Nair checked the facts. The audio engineer was Jimmy Keeley.</em><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Would you drink recycled wastewater? It could be a solution to the global water crisis. But not everyone is ready to jump onboard. They say it’s not technology that’s keeping more cities from recycling their wastewater, but <em>psychology</em>. Experts call this resistance “the yuck factor.” We chat with water journalist <a href="https://www.burkectr.org/peter-annin"target="_blank"   >Peter Annin</a> about some history behind water recycling – and why more cities could adopt the solution soon.<br/><br/><br><strong>This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:</strong><br><a href="http://lnk.to/Ty93au"target="_blank"   >Part 1</a>: When the wells run dry<br><a href="http://lnk.to/os7Fci"target="_blank"   >Part 2</a>: The world’s groundwater problem<br><a href="https://lnk.to/7Mz2Ng"target="_blank"   >Part 3</a>: Freshwater’s growing salt problem<br/><br/><br><em>Email us your questions about water, the wider environment – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><br><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><br><em>This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Aru Nair checked the facts. The audio engineer was Jimmy Keeley.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>Would you drink recycled wastewater? It could be a solution to the global water crisis. But not everyone is ready to jump onboard. They say it’s not technology that’s keeping more cities from recycling their wastewater, but _psychology_. Experts call this resistance “the yuck factor.” We chat with water journalist [Peter Annin](https://www.burkectr.org/peter-annin) about some history behind water recycling – and why more cities could adopt the solution soon.
 
@@ -4608,8 +4980,6 @@ _Listen to every episode of Short Wave sponsor-free and support our work at NPR 
 _Listen to Short Wave on_ [_Spotify_](https://n.pr/3HOQKeK) _and_ [_Apple Podcasts_](https://n.pr/3WA9vqh) _._
 
 _This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Aru Nair checked the facts. The audio engineer was Jimmy Keeley._
-
-To manage podcast ad preferences, review the links below:
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -4983,416 +5353,6 @@ Major memory makers have already sold all the kit they can make this year, creat
 
 Microsoft&#39;s GitHub next month plans to begin using customer interaction data – &#34;specifically inputs, outputs, code snippets, and associated context&#34; – to train its AI models.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245314</guid>
-    </item>    <item>
-      <title>La NASA anuncia la cobertura de la misión lunar Artemis II</title>
-      <link>https://www.nasa.gov/es/la-nasa-anuncia-la-cobertura-de-la-mision-lunar-artemis-ii/</link>
-      <description>
-        <![CDATA[Nota del editor: La NASA actualizará continuamente esta página de sesiones informativas y eventos de la misión Artemis II a lo largo de las actividades previas al lanzamiento, el lanzamiento y las operaciones de la misión. La NASA ofrecerá cobertura en vivo de los eventos previos al lanzamiento, el lanzamiento y las actividades de la [&#8230;]]]>
-      </description>
-      <source:markdown>Nota del editor: La NASA actualizará continuamente esta página de sesiones informativas y eventos de la misión Artemis II a lo largo de las actividades previas al lanzamiento, el lanzamiento y las operaciones de la misión. La NASA ofrecerá cobertura en vivo de los eventos previos al lanzamiento, el lanzamiento y las actividades de la \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=977853</guid>
-    </item>    <item>
-      <title>NASA Ames Experts Available for Artemis II Flight Test Interviews</title>
-      <link>https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/</link>
-      <description>
-        <![CDATA[NASA’s Ames Research Center in Silicon Valley invites media to interview local subject matter experts on Friday, March 27 from 10 a.m. to 2 p.m. ahead of the agency sending astronauts around the Moon for the first time in more than 50 years with the Artemis II flight test. NASA teams are gearing up for [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Ames Research Center in Silicon Valley invites media to interview local subject matter experts on Friday, March 27 from 10 a.m. to 2 p.m. ahead of the agency sending astronauts around the Moon for the first time in more than 50 years with the Artemis II flight test. NASA teams are gearing up for \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=977816</guid>
-    </item>    <item>
-      <title>NASA Sets Coverage for First Artemis Crewed Mission Around Moon</title>
-      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/</link>
-      <description>
-        <![CDATA[A variety of prelaunch, launch, and mission events for NASA’s Artemis II mission around the Moon will stream online. The agency is targeting no earlier than Wednesday, April 1, for the test flight during a two-hour window that opens at 6:24 p.m. EDT, with additional launch opportunities through Monday, April 6. Artemis II is NASA’s [&#8230;]]]>
-      </description>
-      <source:markdown>A variety of prelaunch, launch, and mission events for NASA’s Artemis II mission around the Moon will stream online. The agency is targeting no earlier than Wednesday, April 1, for the test flight during a two-hour window that opens at 6:24 p.m. EDT, with additional launch opportunities through Monday, April 6. Artemis II is NASA’s \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=977814</guid>
-    </item>    <item>
-      <title>NASA Sets Coverage for Artemis II Moon Mission</title>
-      <link>https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/</link>
-      <description>
-        <![CDATA[Editor’s note: NASA will continuously update this Artemis II briefings and mission events page throughout prelaunch, launch, and mission activities. NASA will provide live coverage of prelaunch, launch, and mission events for the agency’s upcoming Artemis II crewed test flight around the Moon. Launch is targeted for no earlier than 6:24 p.m. EDT Wednesday, April [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s note: NASA will continuously update this Artemis II briefings and mission events page throughout prelaunch, launch, and mission activities. NASA will provide live coverage of prelaunch, launch, and mission events for the agency’s upcoming Artemis II crewed test flight around the Moon. Launch is targeted for no earlier than 6:24 p.m. EDT Wednesday, April \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=976341</guid>
-    </item>    <item>
-      <title>Artemis Moon Tree Dedicated in Honor of Mary W. Jackson</title>
-      <link>https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/</link>
-      <description>
-        <![CDATA[On March 18, 2026, students, staff, and members of NASA’s Langley Research Center gathered at Mary W. Jackson Elementary School in Hampton to celebrate the dedication of a remarkable addition to the campus – an Artemis Moon Tree. Although formally dedicated on this day, the loblolly pine had already taken root months earlier, having been […]]]>
-      </description>
-      <source:markdown>On March 18, 2026, students, staff, and members of NASA’s Langley Research Center gathered at Mary W. Jackson Elementary School in Hampton to celebrate the dedication of a remarkable addition to the campus – an Artemis Moon Tree. Although formally dedicated on this day, the loblolly pine had already taken root months earlier, having been \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/</guid>
-    </item>    <item>
-      <title>The reports of age verification in Linux are greatly exaggerated, for now</title>
-      <link>https://www.osnews.com/story/144653/the-reports-of-age-verification-in-linux-are-greatly-exaggerated-for-now/</link>
-      <description>
-        <![CDATA[Several US states, the country of Brazil, and I&#8217;m sure other places in the world have enacted or are planning to enact laws that would place the burden of age verification of users on the shoulders of operating system makers. The legal landscape is quite fragmented at this point, and there&#8217;s no way to tell which way these laws will go, with tons of uncertainties around to whom these laws would apply, if it targets accounts for application store access or the operating system as a whole, what constitutes an operating system in the first place, and many more. Still, these laws are already forcing major players like Apple to implement sharing self-reported age brackets with application developers (at least in iOS), so there&#8217;s definitely something happening here. In recent weeks, the open source world has also been confronted with the first consequences of these laws, as both systemd and xdg-desktop-portal have responded to operating system-level age verification laws in, among other places, California and Colorado, by adding birthDate to userdb (on systemd&#8217;s side) and developing an age verification portal (on xdg-desktop-portal&#8217;s side) for use by Flatpaks. The age verification portal would then use the value set in usrdb&#8217;s birthDate as its data source. The value in birthDate would only be modifiable by an administrator, but can be read by users, applications, and so on. Crucially, this field is entirely optional, and distributions, desktop environments, and users are under zero obligation to use it or to enter a truthful value. In fact, contrary to countless news items and comments about these additions, nothing about this even remotely constitutes as &#8220;age verification&#8221;, as nothing &#8211; not the government, not the distribution or desktop environments, not the user &#8211; has to or even can verify anything. If these changes make it to your distribution, you don&#8217;t have to suddenly show your government ID, scan your face, or link your computer to some government-run verification service, or even enter anything anywhere in the first place. Furthermore, while the xdg-desktop-portal&#8217;s proposals are still fluid and subject to change, consensus seems to be to only share age brackets with applications, instead of full birth dates or specific ages &#8211; assuming anything has even been entered in the birthDate field in the first place. Even if your Linux distribution and/or desktop environment implements everything needed to support these changes and expose them to you in a nice user interface, everything about it is optional and under your full control. The field is of the same type as the existing fields emailAddress, realName, and location, which are similarly entirely optional and can be left empty if desired. Taken in isolation, then, as it currently stands, there&#8217;s really not much meat to these changes at all. The primary reason to implement these changes is to minimally comply with the new laws in California, Colorado, Brazil, and other places, and it&#8217;s understandable why the people involved would want to do so. If they do not, they could face lawsuits, fines, or worse, and I don&#8217;t know about you, but I wouldn&#8217;t want to be on the receiving end of the western world&#8217;s most incompetent justice system. Aside from that, these changes make it possible to build robust parental controls, which isn&#8217;t mentioned in the original commits to systemd, but is clearly the main focal point of xdg-desktop-portal&#8217;s proposal. This all seems well and good, but given today&#8217;s political climate in the United States, as well as the course of history, that &#8220;as it currently stands&#8221; is doing a lot of heavy lifting. Rightfully so, a lot of people are worried about where this could lead. Sure, today these are just inconsequential, optional changes in response to what seems to be misguided legislation, but what happens once these laws are tightened, become more demanding, and start requiring a lot more than just a self-reported age bracket? In Texas, for instance, H.B. 1131 requires any commercial entity, including websites, that contains more than one-third &#8220;sexual material harmful to minors&#8221; to implement age verification tools using things like government-issued IDs or bank transaction data to verify visitors&#8217; ages before allowing them in. The UK has a similar law on the books, too. It&#8217;s not difficult to imagine how some other law will eventually shift this much stricter, actual age verification from websites and applications into operating systems instead. What will systemd&#8217;s and xdg-desktop-portal&#8217;s developers do, then? Will they comply as readily then as they do now? This is a genuine worry, especially if you already belong to a group targeted by the current US administration, or were face-scanned by ICE at a protest. Large groups of especially religious extremists consider anything that&#8217;s LGBTQ+ to be &#8220;sexual material harmful to minors&#8221;, even if it&#8217;s just something normal like a gay character in a TV show. It&#8217;s not hard to imagine how age verification laws, especially if they force age verification at the operating system level, can become weaponised to target the LGBTQ+ community, other minorities, and people protesting the Trump regime. You may think this won&#8217;t affect you, since you&#8217;re using an open source operating system like desktop Linux or one of the BSDs, and surely they are principled enough to ignore such dangerous laws and simply not comply at all, right? Sadly, here&#8217;s where the idealism and principles of the open source world are going to meet the harsh boot of reality; while open source software has a picturesque image of talented youngsters hacking away in their bedrooms, the reality is that most of the popular open source operating systems are actually hugely complex operations that require a ton of funding, and that funding is often managed by foundations. And guess where most popular Linux distributions&#8217; and BSD variants&#8217; foundations are located? Developers from all over the world may contribute to Debian, but all of its financials and trademarks are managed by Software in the Public Interest, domiciled in New York State. Fedora is part of Red Hat, owned by IBM, and]]>
-      </description>
-      <source:markdown>Several US states, the country of Brazil, and I’m sure other places in the world have enacted or are planning to enact laws that would place the burden of age verification of users on the shoulders of operating system makers. The legal landscape is quite fragmented at this point, and there’s no way to tell which way these laws will go, with tons of uncertainties around to whom these laws would apply, if it targets accounts for application store access or the operating system as a whole, what constitutes an operating system in the first place, and many more. Still, these laws are already forcing major players like Apple to implement sharing self-reported age brackets with application developers (at least in iOS), so there’s definitely something happening here. In recent weeks, the open source world has also been confronted with the first consequences of these laws, as both systemd and xdg-desktop-portal have responded to operating system-level age verification laws in, among other places, California and Colorado, by adding birthDate to userdb (on systemd’s side) and developing an age verification portal (on xdg-desktop-portal’s side) for use by Flatpaks. The age verification portal would then use the value set in usrdb’s birthDate as its data source. The value in birthDate would only be modifiable by an administrator, but can be read by users, applications, and so on. Crucially, this field is entirely optional, and distributions, desktop environments, and users are under zero obligation to use it or to enter a truthful value. In fact, contrary to countless news items and comments about these additions, nothing about this even remotely constitutes as “age verification”, as nothing – not the government, not the distribution or desktop environments, not the user – has to or even can verify anything. If these changes make it to your distribution, you don’t have to suddenly show your government ID, scan your face, or link your computer to some government-run verification service, or even enter anything anywhere in the first place. Furthermore, while the xdg-desktop-portal’s proposals are still fluid and subject to change, consensus seems to be to only share age brackets with applications, instead of full birth dates or specific ages – assuming anything has even been entered in the birthDate field in the first place. Even if your Linux distribution and/or desktop environment implements everything needed to support these changes and expose them to you in a nice user interface, everything about it is optional and under your full control. The field is of the same type as the existing fields emailAddress, realName, and location, which are similarly entirely optional and can be left empty if desired. Taken in isolation, then, as it currently stands, there’s really not much meat to these changes at all. The primary reason to implement these changes is to minimally comply with the new laws in California, Colorado, Brazil, and other places, and it’s understandable why the people involved would want to do so. If they do not, they could face lawsuits, fines, or worse, and I don’t know about you, but I wouldn’t want to be on the receiving end of the western world’s most incompetent justice system. Aside from that, these changes make it possible to build robust parental controls, which isn’t mentioned in the original commits to systemd, but is clearly the main focal point of xdg-desktop-portal’s proposal. This all seems well and good, but given today’s political climate in the United States, as well as the course of history, that “as it currently stands” is doing a lot of heavy lifting. Rightfully so, a lot of people are worried about where this could lead. Sure, today these are just inconsequential, optional changes in response to what seems to be misguided legislation, but what happens once these laws are tightened, become more demanding, and start requiring a lot more than just a self-reported age bracket? In Texas, for instance, H.B. 1131 requires any commercial entity, including websites, that contains more than one-third “sexual material harmful to minors” to implement age verification tools using things like government-issued IDs or bank transaction data to verify visitors’ ages before allowing them in. The UK has a similar law on the books, too. It’s not difficult to imagine how some other law will eventually shift this much stricter, actual age verification from websites and applications into operating systems instead. What will systemd’s and xdg-desktop-portal’s developers do, then? Will they comply as readily then as they do now? This is a genuine worry, especially if you already belong to a group targeted by the current US administration, or were face-scanned by ICE at a protest. Large groups of especially religious extremists consider anything that’s LGBTQ+ to be “sexual material harmful to minors”, even if it’s just something normal like a gay character in a TV show. It’s not hard to imagine how age verification laws, especially if they force age verification at the operating system level, can become weaponised to target the LGBTQ+ community, other minorities, and people protesting the Trump regime. You may think this won’t affect you, since you’re using an open source operating system like desktop Linux or one of the BSDs, and surely they are principled enough to ignore such dangerous laws and simply not comply at all, right? Sadly, here’s where the idealism and principles of the open source world are going to meet the harsh boot of reality; while open source software has a picturesque image of talented youngsters hacking away in their bedrooms, the reality is that most of the popular open source operating systems are actually hugely complex operations that require a ton of funding, and that funding is often managed by foundations. And guess where most popular Linux distributions’ and BSD variants’ foundations are located? Developers from all over the world may contribute to Debian, but all of its financials and trademarks are managed by Software in the Public Interest, domiciled in New York State. Fedora is part of Red Hat, owned by IBM, and</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144653</guid>
-    </item>    <item>
-      <title>AI supply chain attacks don’t even require malware…just post poisoned documentation</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/</link>
-      <description>
-        <![CDATA[<h4>A proof-of-concept attack on Context Hub suggests there&#39;s not much content santization</h4> <p>A new service that helps coding agents stay up to date on their API calls could be dialing in a massive supply chain vulnerability.…</p>]]>
-      </description>
-      <source:markdown>#### A proof-of-concept attack on Context Hub suggests there&#39;s not much content santization
-
-A new service that helps coding agents stay up to date on their API calls could be dialing in a massive supply chain vulnerability.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245313</guid>
-    </item>    <item>
-      <title>Scammers have virtual smartphones on speed dial for fraud</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/virtual_smartphones_fraud/</link>
-      <description>
-        <![CDATA[<h4>They cleverly mimic most traits of a real phone</h4> <p>Smartphones have fast become the basis of our digital identities, securing payment systems and bank accounts. Now virtual devices that pretend to be real handsets have become a key tool for financial scammers, according to one company. …</p>]]>
-      </description>
-      <source:markdown>#### They cleverly mimic most traits of a real phone
-
-Smartphones have fast become the basis of our digital identities, securing payment systems and bank accounts. Now virtual devices that pretend to be real handsets have become a key tool for financial scammers, according to one company. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245312</guid>
-    </item>    <item>
-      <title>NASA Names Jennifer Lyons Acting Launch Services Program Manager</title>
-      <link>https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/</link>
-      <description>
-        <![CDATA[NASA has selected Jennifer Lyons as acting program manager for the agency’s Launch Services Program (LSP) based at Kennedy Space Center in Florida. In this role, Lyons will lead NASA’s acquisition and management of domestic commercial launch services for science and robotic exploration missions beginning Wednesday, April 1. Lyons will oversee mission planning, launch vehicle [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has selected Jennifer Lyons as acting program manager for the agency’s Launch Services Program (LSP) based at Kennedy Space Center in Florida. In this role, Lyons will lead NASA’s acquisition and management of domestic commercial launch services for science and robotic exploration missions beginning Wednesday, April 1. Lyons will oversee mission planning, launch vehicle \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=977718</guid>
-    </item>    <item>
-      <title>NASA Aims to Launch the World&#39;s First Planet-Hopping Spacecraft Powered by Nuclear Fission</title>
-      <link>https://www.smithsonianmag.com/smart-news/nasa-aims-to-launch-the-worlds-first-planet-hopping-spacecraft-powered-by-nuclear-fission-180988433/</link>
-      <description>
-        <![CDATA[The agency wants the mission to head to Mars by the end of 2028]]>
-      </description>
-      <source:markdown>The agency wants the mission to head to Mars by the end of 2028</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JqGWV4xdCrOPc48zrLpqWHwGp0s=/420x240/filters:focal(600x446:601x447)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/16/1b1675b8-d8d6-4a1e-aa02-92c302d37db9/27901_pia26242-web.jpg" length="176139" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/nasa-aims-to-launch-the-worlds-first-planet-hopping-spacecraft-powered-by-nuclear-fission-180988433/</guid>
-    </item>    <item>
-      <title>See the Stunning 171-Year-Old Sketch That Helped Put Yosemite on the Map</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-stunning-171-year-old-sketch-that-helped-put-yosemite-on-the-map-180988385/</link>
-      <description>
-        <![CDATA[The Library of Congress has acquired a drawing and accompanying lithograph of Yosemite Falls created by Gold Rush-era artist Thomas Almond Ayres in 1855]]>
-      </description>
-      <source:markdown>The Library of Congress has acquired a drawing and accompanying lithograph of Yosemite Falls created by Gold Rush-era artist Thomas Almond Ayres in 1855</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/B7MSi1isSeZoCwc2HGsRvLxHzzE=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/a0/59a0f57c-687e-45f3-991b-a2d9f44f63ff/714129.jpg" length="8514193" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-stunning-171-year-old-sketch-that-helped-put-yosemite-on-the-map-180988385/</guid>
-    </item>    <item>
-      <title>Jen Easterly, cybersecurity&#39;s &#39;relentless optimist,&#39; hopes feds come back to RSAC next year</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/jen_easterly_interview/</link>
-      <description>
-        <![CDATA[<h4>Ex-CISA boss also says no reason to panic about AI and security</h4> <p><strong>RSAC 2026</strong>  &#34;Everybody feels massive FOMO if they don&#39;t get to RSAC,&#34; Jen Easterly says.…</p>]]>
-      </description>
-      <source:markdown>#### Ex-CISA boss also says no reason to panic about AI and security
-
-**RSAC 2026**  &#34;Everybody feels massive FOMO if they don&#39;t get to RSAC,&#34; Jen Easterly says.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245311</guid>
-    </item>    <item>
-      <title>Only Trump can decide when cyberwar turns into real war</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/whats_scarier_than_a_swarm/</link>
-      <description>
-        <![CDATA[<h4>Four former NSA bosses walk onto the stage at RSAC…</h4> <p><strong>rsac 2026</strong>  There&#39;s a theoretical red line with cyber warfare. Cross it, and the US will respond with a physical attack like missile strikes. And that line &#34;is whatever the President says it is,&#34; according to former NSA boss retired General Paul Nakasone.…</p>]]>
-      </description>
-      <source:markdown>#### Four former NSA bosses walk onto the stage at RSAC…
-
-**rsac 2026**  There&#39;s a theoretical red line with cyber warfare. Cross it, and the US will respond with a physical attack like missile strikes. And that line &#34;is whatever the President says it is,&#34; according to former NSA boss retired General Paul Nakasone.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245308</guid>
-    </item>    <item>
-      <title>Webb Captures Saturn in Infrared</title>
-      <link>https://www.nasa.gov/image-article/webb-captures-saturn-in-infrared/</link>
-      <description>
-        <![CDATA[Saturn&#8217;s icy rings glow in this infrared view from NASA&#8217;s James Webb Space Telescope released on March 25, 2026. Combining this image with another that NASA&#8217;s Hubble Space Telescope captured – also released on the same day – provides scientists with a richer, more layered understanding of the gas giant&#8217;s atmosphere. In Webb&#8217;s infrared image, [&#8230;]]]>
-      </description>
-      <source:markdown>Saturn’s icy rings glow in this infrared view from NASA’s James Webb Space Telescope released on March 25, 2026. Combining this image with another that NASA’s Hubble Space Telescope captured – also released on the same day – provides scientists with a richer, more layered understanding of the gas giant’s atmosphere. In Webb’s infrared image, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=977637</guid>
-    </item>    <item>
-      <title>Archaeologists Discover an Intact Cannonball From the Battle of the Alamo—One Day Before the Pivotal Conflict&#39;s 190th Anniversary</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-an-intact-cannonball-from-the-battle-of-the-alamo-one-day-before-the-pivotal-conflicts-190th-anniversary-180988402/</link>
-      <description>
-        <![CDATA[The projectile is made of bronze, which suggests it was fired by the Mexican Army during the siege leading up to the 1836 battle]]>
-      </description>
-      <source:markdown>The projectile is made of bronze, which suggests it was fired by the Mexican Army during the siege leading up to the 1836 battle</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/K9R9WveHnLAYp7ozQWnZcufUcyY=/420x240/filters:focal(530x358:531x359)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8a/78/8a78f65f-a155-402b-8d44-7a718fb8bbe6/csm_cannonball_intact_3fd21b0923.jpg" length="52770" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-discover-an-intact-cannonball-from-the-battle-of-the-alamo-one-day-before-the-pivotal-conflicts-190th-anniversary-180988402/</guid>
-    </item>    <item>
-      <title>Meta cuts about 700 jobs as it shifts spending to AI</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/meta_cuts_700/</link>
-      <description>
-        <![CDATA[<h4>Forget the metaverse</h4> <p>Meta has begun laying off employees as it focuses more of its cash on building out datacenters, training its own large language models, and recruiting talent for AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Forget the metaverse
-
-Meta has begun laying off employees as it focuses more of its cash on building out datacenters, training its own large language models, and recruiting talent for AI.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245310</guid>
-    </item>    <item>
-      <title>NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date</title>
-      <link>https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/</link>
-      <description>
-        <![CDATA[NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded […]]]>
-      </description>
-      <source:markdown>NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded \[…\]</source:markdown>
-    </item>    <item>
-      <title>Oracle: AI agents can reason, decide and act - liability question remains</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/oracles_apps_and_agents_push/</link>
-      <description>
-        <![CDATA[<h4>Fusion Agentic Applications promise autonomous enterprise decisions. Gartner urges caution</h4> <p>Oracle says it&#39;s building a suite of AI agents into its cloud-based enterprise applications, claiming they can make and execute decisions autonmomously within business processes. But analysts are urging caution given unresolved questions around data integration and liability.…</p>]]>
-      </description>
-      <source:markdown>#### Fusion Agentic Applications promise autonomous enterprise decisions. Gartner urges caution
-
-Oracle says it&#39;s building a suite of AI agents into its cloud-based enterprise applications, claiming they can make and execute decisions autonmomously within business processes. But analysts are urging caution given unresolved questions around data integration and liability.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245305</guid>
-    </item>    <item>
-      <title>Trump remembers to appoint science panel, fills it mostly with tech bros</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/trump_science_tech_panel/</link>
-      <description>
-        <![CDATA[<h4>Plus one actual physicist</h4> <p>Donald Trump has named the first members of his President&#39;s Council of Advisors on Science and Technology (PCAST), largely comprising Trump allies in the tech industry and one actual scientist.…</p>]]>
-      </description>
-      <source:markdown>#### Plus one actual physicist
-
-Donald Trump has named the first members of his President&#39;s Council of Advisors on Science and Technology (PCAST), largely comprising Trump allies in the tech industry and one actual scientist.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245306</guid>
-    </item>    <item>
-      <title>Scientists Capture the First Known Footage of Sperm Whales Headbutting, a Long-Debated Behavior That Inspired &#39;Moby-Dick&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-capture-the-first-known-footage-of-sperm-whales-headbutting-a-long-debated-behavior-that-inspired-moby-dick-180988411/</link>
-      <description>
-        <![CDATA[Engaging in "rough play" might help young males practice for future headbutting contests in which they compete for mates]]>
-      </description>
-      <source:markdown>Engaging in &#34;rough play&#34; might help young males practice for future headbutting contests in which they compete for mates</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Nj1lijzZP_JMdwr0Vp6Mtl2gaOY=/420x240/filters:focal(2808x1872:2809x1873)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/3d/bb3d51a1-0040-4e56-9b5b-0a9dc69dd654/sperm-whale.jpg" length="11134378" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-capture-the-first-known-footage-of-sperm-whales-headbutting-a-long-debated-behavior-that-inspired-moby-dick-180988411/</guid>
-    </item>    <item>
-      <title>OpenAI now gets to decide which type of product assassin it will become</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/openai_kills_sora_product_assassin/</link>
-      <description>
-        <![CDATA[<h4>AWS, Google, Broadcom, or Netscape?</h4> <p>OpenAI on Wednesday announced the death of its controversial Sora video creation tool, just two days after publishing a guide on how to use it well.…</p>]]>
-      </description>
-      <source:markdown>#### AWS, Google, Broadcom, or Netscape?
-
-OpenAI on Wednesday announced the death of its controversial Sora video creation tool, just two days after publishing a guide on how to use it well.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245294</guid>
-    </item>    <item>
-      <title>Firefox 149 adds a free VPN and finally plays nice with Linux dialogs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/firefox_149/</link>
-      <description>
-        <![CDATA[<h4>In other browser news, Opera now caters to penguinista gamers</h4> <p><a target="_blank" href="https://www.firefox.com/en-US/firefox/149.0/releasenotes/" rel="nofollow">Firefox 149</a> is here, and although we&#39;ve already talked about one of the big new features on the way, the release version has some others that will be very welcome.…</p>]]>
-      </description>
-      <source:markdown>#### In other browser news, Opera now caters to penguinista gamers
-
-[Firefox 149](https://www.firefox.com/en-US/firefox/149.0/releasenotes/) is here, and although we&#39;ve already talked about one of the big new features on the way, the release version has some others that will be very welcome.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245303</guid>
-    </item>    <item>
-      <title>In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?</title>
-      <link>https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/</link>
-      <description>
-        <![CDATA[The quest to make mathematics rigorous has a long and spotty history — one mathematicians can learn from as they push to formalize everything in the computer program Lean.            <p>The post <a href="https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/" target="_blank">In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>The quest to make mathematics rigorous has a long and spotty history — one mathematicians can learn from as they push to formalize everything in the computer program Lean.
-
-The post [In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=160228</guid>
-    </item>    <item>
-      <title>How Writing Changes Mathematical Thought</title>
-      <link>https://www.quantamagazine.org/how-writing-changes-mathematical-thought-20260325/</link>
-      <description>
-        <![CDATA[David E. Dunning explores how mathematical notation is a social, world-building technology.            <p>The post <a href="https://www.quantamagazine.org/how-writing-changes-mathematical-thought-20260325/" target="_blank">How Writing Changes Mathematical Thought</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>David E. Dunning explores how mathematical notation is a social, world-building technology.
-
-The post [How Writing Changes Mathematical Thought](https://www.quantamagazine.org/how-writing-changes-mathematical-thought-20260325/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=160323</guid>
-    </item>    <item>
-      <title>Microsoft and Nvidia claim AI can speed approval of new atomic plants</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/microsoft_nvidia_ai_nuclear/</link>
-      <description>
-        <![CDATA[<h4>Effort includes permitting and planning</h4> <p>Microsoft is working with Nvidia on nuclear power. Not to build it, but to offer AI-driven tools to deal with all the red tape, help with the design work, and optimize operations for nuclear projects.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Effort includes permitting and planning
-
-Microsoft is working with Nvidia on nuclear power. Not to build it, but to offer AI-driven tools to deal with all the red tape, help with the design work, and optimize operations for nuclear projects.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245302</guid>
-    </item>    <item>
-      <title>NASA&#39;s lunar reboot is long on ambition, short on answers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/nasa_gateway_opinion/</link>
-      <description>
-        <![CDATA[<h4>Exactly how will astronauts get to and from that moonbase?</h4> <p><strong>Opinion</strong>  NASA&#39;s Ignition presentation was heavy on space hardware, but light on details. Not least of which was how astronauts are supposed to get from Earth to its moonbase and back.…</p>]]>
-      </description>
-      <source:markdown>#### Exactly how will astronauts get to and from that moonbase?
-
-**Opinion**  NASA&#39;s Ignition presentation was heavy on space hardware, but light on details. Not least of which was how astronauts are supposed to get from Earth to its moonbase and back.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245301</guid>
-    </item>    <item>
-      <title>A New Nail Polish Might Someday Solve Touch Screen Struggles for Users With Long Fingernails</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-new-nail-polish-might-someday-solve-touch-screen-struggles-for-users-with-long-fingernails-180988418/</link>
-      <description>
-        <![CDATA[The experimental coating could effectively transform fingernails into touch screen-compatible styluses]]>
-      </description>
-      <source:markdown>The experimental coating could effectively transform fingernails into touch screen-compatible styluses</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1Oibc_1Me1sSlE7ZUKH9ntavrS0=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/5f/375f6455-57e4-4bec-a6f5-774330d60e9e/nail-polish.jpg" length="16906112" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-nail-polish-might-someday-solve-touch-screen-struggles-for-users-with-long-fingernails-180988418/</guid>
-    </item>    <item>
-      <title>JetBrains shifts to agentic dev with Central, retires pair programming</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/jetbrains_central/</link>
-      <description>
-        <![CDATA[<h4>Bye-bye Code With Me as company focuses on other areas</h4> <p>Dev tooling biz JetBrains has previewed Central for agentic AI software development but will retire the Code With Me human pair programming feature.…</p>]]>
-      </description>
-      <source:markdown>#### Bye-bye Code With Me as company focuses on other areas
-
-Dev tooling biz JetBrains has previewed Central for agentic AI software development but will retire the Code With Me human pair programming feature.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245299</guid>
-    </item>    <item>
-      <title>Dell slims down business laptops, fattens up cooling and battery life</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/dell_business_laptops/</link>
-      <description>
-        <![CDATA[<h4>Pro line gets new naming convention and some serious upgrades</h4> <p>Dell&#39;s upcoming 2026 commercial laptops won&#39;t leave recent buyers kicking themselves - but they do bring meaningful upgrades, including a thinner Pro 7, larger batteries, and improved thermals.…</p>]]>
-      </description>
-      <source:markdown>#### Pro line gets new naming convention and some serious upgrades
-
-Dell&#39;s upcoming 2026 commercial laptops won&#39;t leave recent buyers kicking themselves - but they do bring meaningful upgrades, including a thinner Pro 7, larger batteries, and improved thermals.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245292</guid>
-    </item>    <item>
-      <title>Windows 95 let installers trash its files then fixed the mess behind their backs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/windows_95_installers_chen/</link>
-      <description>
-        <![CDATA[<h4>I&#39;ll just clear up that up, shall I?</h4> <p>Microsoft veteran Raymond Chen has shared another nugget of Windows lore – what Windows 95 did when installers stomped on its system files.…</p>]]>
-      </description>
-      <source:markdown>#### I&#39;ll just clear up that up, shall I?
-
-Microsoft veteran Raymond Chen has shared another nugget of Windows lore – what Windows 95 did when installers stomped on its system files.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245297</guid>
-    </item>    <item>
-      <title>HMRC hands £473M Fujitsu migration deal to AWS after competition melts away</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/hmrc_fujitsu_contract_aws/</link>
-      <description>
-        <![CDATA[<h4>Insiders say single-bidder process left little room for negotiation</h4> <p>The UK&#39;s tax collection agency has awarded Amazon Web Services – the only remaining bidder – a contract worth nearly £500 million to migrate services from three Fujitsu-run datacenters and host them for up to a decade.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Insiders say single-bidder process left little room for negotiation
-
-The UK&#39;s tax collection agency has awarded Amazon Web Services – the only remaining bidder – a contract worth nearly £500 million to migrate services from three Fujitsu-run datacenters and host them for up to a decade.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245300</guid>
-    </item>    <item>
-      <title>Samsung still glued to its bad habits with Galaxy S26 Ultra</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/galaxy_s26_ultra_ifixit/</link>
-      <description>
-        <![CDATA[<h4>Flagship phone scores 5/10 from iFixit as the parts that break most often remain firmly out of reach</h4> <p>Samsung&#39;s Galaxy S26 Ultra has once again scored a middling 5/10 from iFixit, suggesting that while the company knows how to build a repairable phone, it still won&#39;t quite follow through.…</p>]]>
-      </description>
-      <source:markdown>#### Flagship phone scores 5/10 from iFixit as the parts that break most often remain firmly out of reach
-
-Samsung&#39;s Galaxy S26 Ultra has once again scored a middling 5/10 from iFixit, suggesting that while the company knows how to build a repairable phone, it still won&#39;t quite follow through.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245296</guid>
-    </item>    <item>
-      <title>Archaeologists Are Mystified by These 2,000-Year-Old Bodies Found Seated Upright and Facing West in France</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-are-mystified-by-these-2000-year-old-bodies-found-seated-upright-and-facing-west-in-france-180988425/</link>
-      <description>
-        <![CDATA[Researchers previously discovered 13 sets of human remains buried in a similar manner at the same grave site in Dijon]]>
-      </description>
-      <source:markdown>Researchers previously discovered 13 sets of human remains buried in a similar manner at the same grave site in Dijon</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q3y528ArsiDVYLS-OGw3h0h9caw=/420x240/filters:focal(960x649:961x650)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/46/3a465cf0-7151-456b-8769-febfad3f06a7/2026_c_christophe_fouquin_inrap_2026_8.jpg" length="621843" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-are-mystified-by-these-2000-year-old-bodies-found-seated-upright-and-facing-west-in-france-180988425/</guid>
-    </item>    <item>
-      <title>Open source isn&#39;t a tip jar – it&#39;s time to charge for access</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/open_source_bill_opinion/</link>
-      <description>
-        <![CDATA[<h4>A handful thrive, most scrape by as companies make billions off their code</h4> <p><strong>Opinion</strong>  Time and again, I see people begging for companies with deep pockets to fund open source projects. I mean, after all, they&#39;ve made billions from this code. You&#39;d think they could support the code&#39;s creators and maintainers. It would be only fair, right?…</p>]]>
-      </description>
-      <source:markdown>#### A handful thrive, most scrape by as companies make billions off their code
-
-**Opinion**  Time and again, I see people begging for companies with deep pockets to fund open source projects. I mean, after all, they&#39;ve made billions from this code. You&#39;d think they could support the code&#39;s creators and maintainers. It would be only fair, right?…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245256</guid>
-    </item>    <item>
-      <title>YouTuber lands on Moon using a ZX Spectrum. Conditions apply</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/landing_on_the_moon_with_zx_spectrum/</link>
-      <description>
-        <![CDATA[<h4>BASIC and bit-banging used to guide a simulated lander down to a virtual lunar touchdown</h4> <p>Could Sinclair&#39;s 48k Sinclair ZX Spectrum land a spacecraft on the Moon? YouTuber Scott Manley decided to find out, and the answer is… kind of.…</p>]]>
-      </description>
-      <source:markdown>#### BASIC and bit-banging used to guide a simulated lander down to a virtual lunar touchdown
-
-Could Sinclair&#39;s 48k Sinclair ZX Spectrum land a spacecraft on the Moon? YouTuber Scott Manley decided to find out, and the answer is… kind of.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245252</guid>
-    </item>    <item>
-      <title>Nothing screams casual career pivot like joining the UK Ministry of Defence for a cool £162K</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/uk_defense_ministry_digi_officer/</link>
-      <description>
-        <![CDATA[<h4>AI and quantum on to-do list for Chief Digital Technology Officer in charge of £140.7M budget. Fancy it?</h4> <p>The UK&#39;s Ministry of Defence is looking for a new Chief Digital Technology Officer (CDTO) to take responsibility for a budget of £140.7 million ($188 million) and 400 staff.…</p>]]>
-      </description>
-      <source:markdown>#### AI and quantum on to-do list for Chief Digital Technology Officer in charge of £140.7M budget. Fancy it?
-
-The UK&#39;s Ministry of Defence is looking for a new Chief Digital Technology Officer (CDTO) to take responsibility for a budget of £140.7 million ($188 million) and 400 staff.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245276</guid>
-    </item>    <item>
-      <title>Enterprise PCs are unreliable, unpatched, and unloved compared to Macs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/omnissa_digital_workspace_report/</link>
-      <description>
-        <![CDATA[<h4>Omnissa telemetry suggests business buyers are loving Apple and Google</h4> <p>End-user compute vendor Omnissa, the company formed by the spin-out of VMware’s virtual desktops, applications, and device management biz, has dug into the telemetry it collects from customers and painted a picture of the world’s enterprise hardware fleet – and the news is better for Google and Apple than it is for Microsoft.…</p>]]>
-      </description>
-      <source:markdown>#### Omnissa telemetry suggests business buyers are loving Apple and Google
-
-End-user compute vendor Omnissa, the company formed by the spin-out of VMware’s virtual desktops, applications, and device management biz, has dug into the telemetry it collects from customers and painted a picture of the world’s enterprise hardware fleet – and the news is better for Google and Apple than it is for Microsoft.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245295</guid>
-    </item>    <item>
-      <title>The world’s freshwater is getting saltier. Why?</title>
-      <link>https://www.npr.org/2026/03/25/nx-s1-5709052/water-lake-filter-science-salt-sodium</link>
-      <description>
-        <![CDATA[Around the world, the planet’s freshwater is getting saltier. And it’s because of people. For decades, salting roads, fertilizer run-off and evaporation driven by human-caused climate change have upped the salinity of lakes, rivers and groundwater. All that salt is detrimental to a lot of aquatic life and can be problematic for drinking water, too. But there’s still time to reverse course. In fact, many people have already started to change their ways. Today, producer Berly McCoy is on the case to see what solutions exist. <br/><br/><strong>This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:</strong><br><a href="http://lnk.to/Ty93au"target="_blank"   >Part 1</a>: When the wells run dry<br><a href="http://lnk.to/os7Fci"target="_blank"   >Part 2</a>: The world’s groundwater problem<br><a href="https://lnk.to/7Mz2Ng"target="_blank"   >Part 3</a>: Freshwater’s growing salt problem<br/><br/><em>Email us your questions about water, the wider environment – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>To manage podcast ad preferences, review the links below:<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Around the world, the planet’s freshwater is getting saltier. And it’s because of people. For decades, salting roads, fertilizer run-off and evaporation driven by human-caused climate change have upped the salinity of lakes, rivers and groundwater. All that salt is detrimental to a lot of aquatic life and can be problematic for drinking water, too. But there’s still time to reverse course. In fact, many people have already started to change their ways. Today, producer Berly McCoy is on the case to see what solutions exist.
-
-**This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:**
-
-[Part 1](http://lnk.to/Ty93au): When the wells run dry
-
-[Part 2](http://lnk.to/os7Fci): The world’s groundwater problem
-
-[Part 3](https://lnk.to/7Mz2Ng): Freshwater’s growing salt problem
-
-_Email us your questions about water, the wider environment – or anything else to do with science at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We may turn it into an episode in the future!_
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-To manage podcast ad preferences, review the links below:
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4a00ef87-237b-4186-bb95-3d146cb12c22/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4a00ef87-237b-4186-bb95-3d146cb12c22&feed=F0qJcgXZ&t=podcast&e=nx-s1-5709052&p=510351&d=745&size=11927346" length="11927346" type="audio/mpeg" />
-      <guid>cid://1119b235-e417-4348-96b0-09e849104ceb</guid>
-    </item>    <item>
-      <title>Apple pushes Maps ads in free training-wheels business bundle</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/apple_business_free_advertising_maps/</link>
-      <description>
-        <![CDATA[<h4>Apple Business combines corporate device management offerings and a way to buy ads</h4> <p>Apple has simplified its business services by combining and rebranding them, and is giving away the reformulated enterprise offering for free.…</p>]]>
-      </description>
-      <source:markdown>#### Apple Business combines corporate device management offerings and a way to buy ads
-
-Apple has simplified its business services by combining and rebranding them, and is giving away the reformulated enterprise offering for free.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245290</guid>
-    </item>    <item>
-      <title>Kona Storms Flood Oʻahu</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/</link>
-      <description>
-        <![CDATA[Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.]]>
-      </description>
-      <source:markdown>Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/</guid>
-    </item>    <item>
-      <title>Alibaba delivers RISC-V server chip optimized to run China’s top AI models</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/</link>
-      <description>
-        <![CDATA[<h4>Claims its set performance records but looks to be years behind western fare</h4> <p>Alibaba has revealed a new server chip that it says is the most powerful processor ever to use the RISC-V instruction set.…</p>]]>
-      </description>
-      <source:markdown>#### Claims its set performance records but looks to be years behind western fare
-
-Alibaba has revealed a new server chip that it says is the most powerful processor ever to use the RISC-V instruction set.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245293</guid>
-    </item>    <item>
-      <title>HP stuffs OpenAI LLM into new laptops in bid for small biz</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/25/hp_iq_laptop_ai/</link>
-      <description>
-        <![CDATA[<h4>HP IQ can chat, share files, and break down everything people said in the conference room.</h4> <p>You’ve heard the call of Apple Intelligence, jumped for joy over Google Gemini, and cuddled up with Microsoft Copilot. Now, get ready for HP IQ, a local AI and collaboration application HP Inc. hopes will make its business laptops stand apart. Also, get ready for your boss to start recording in-person meetings.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### HP IQ can chat, share files, and break down everything people said in the conference room.
-
-You’ve heard the call of Apple Intelligence, jumped for joy over Google Gemini, and cuddled up with Microsoft Copilot. Now, get ready for HP IQ, a local AI and collaboration application HP Inc. hopes will make its business laptops stand apart. Also, get ready for your boss to start recording in-person meetings.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245291</guid>
     </item>
   </channel>
 </rss>
