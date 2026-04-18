@@ -4,10 +4,58 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>17 Apr 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>18 Apr 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>DLARC Adds New Radio Resources to Celebrate World Amateur Radio Day</title>
+      <link>https://blog.archive.org/2026/04/18/dlarc-adds-new-radio-resources-to-celebrate-world-amateur-radio-day/</link>
+      <description>
+        <![CDATA[Internet Archive’s Digital Library of Amateur Radio &#38; Communications, a library devoted to ham radio, shortwave, and related topics, announces a number of new collections to mark World Amateur Radio [&#8230;]]]>
+      </description>
+      <source:markdown>Internet Archive’s Digital Library of Amateur Radio &#38; Communications, a library devoted to ham radio, shortwave, and related topics, announces a number of new collections to mark World Amateur Radio \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30343</guid>
+    </item>    <item>
+      <title>Lady Rose’s Daughter, by Mary Augusta Ward</title>
+      <link>https://standardebooks.org/ebooks/mary-augusta-ward/lady-roses-daughter</link>
+      <description>
+        <![CDATA[A scheming woman seeks to advance the career of a soldier she loves, while refusing marriage to an aristocrat who could improve her situation.]]>
+      </description>
+      <source:markdown>A scheming woman seeks to advance the career of a soldier she loves, while refusing marriage to an aristocrat who could improve her situation.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/mary-augusta-ward/lady-roses-daughter/downloads/mary-augusta-ward_lady-roses-daughter.epub?source=feed" length="633937" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/mary-augusta-ward/lady-roses-daughter</guid>
+    </item>    <item>
+      <title>The Pearl, by Anonymous</title>
+      <link>https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett</link>
+      <description>
+        <![CDATA[A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back.]]>
+      </description>
+      <source:markdown>A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett/downloads/anonymous_the-pearl_sophie-jewett.epub?source=feed" length="532785" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett</guid>
+    </item>    <item>
+      <title>University of Virginia Library: New ‘AI Literacy and Action Lab’ Creates Pathway For Understanding, Judgment, and Experimentation</title>
+      <link>https://www.infodocket.com/2026/04/17/university-of-virginia-new-ai-literacy-and-action-lab-creates-pathway-for-understanding-judgment-and-experimentation/</link>
+      <description>
+        <![CDATA[<p>From the University of Virginia Library: On April 17, 2026, the Library and the College and Graduate School of Arts &#38; Sciences announced the creation of the AI Literacy and Action Lab, a program meant to consider the complexities of AI in higher education head-on. With four pilot projects launching in spring and summer 2026, and [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/04/17/university-of-virginia-new-ai-literacy-and-action-lab-creates-pathway-for-understanding-judgment-and-experimentation/">University of Virginia Library: New &#8216;AI Literacy and Action Lab&#8217; Creates Pathway For Understanding, Judgment, and Experimentation</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From the University of Virginia Library: On April 17, 2026, the Library and the College and Graduate School of Arts &#38; Sciences announced the creation of the AI Literacy and Action Lab, a program meant to consider the complexities of AI in higher education head-on. With four pilot projects launching in spring and summer 2026, and \[…\]
+
+The post [University of Virginia Library: New ‘AI Literacy and Action Lab’ Creates Pathway For Understanding, Judgment, and Experimentation](https://www.infodocket.com/2026/04/17/university-of-virginia-new-ai-literacy-and-action-lab-creates-pathway-for-understanding-judgment-and-experimentation/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167943</guid>
+    </item>    <item>
+      <title>Uncovering How Instructors Define and Teach AI Skills</title>
+      <link>https://sr.ithaka.org/blog/uncovering-how-instructors-define-and-teach-ai-skills/</link>
+      <description>
+        <![CDATA[<p>Higher education institutions and employers alike tout the priority they place on AI skills, but rarely do they describe what ‘AI skills’ actually mean. While there are many models of AI literacy in both educational and employment settings, there are remarkably few frameworks that identify the specific skills that make that literacy applicable in either setting. To help bridge that gap, Ithaka S+R is undertaking a new, national study to better understand what specific AI skills instructors think are important for college graduates and if they are currently teaching those skills in their classes.</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/uncovering-how-instructors-define-and-teach-ai-skills/">Uncovering How Instructors Define and Teach AI Skills</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Higher education institutions and employers alike tout the priority they place on AI skills, but rarely do they describe what ‘AI skills’ actually mean. While there are many models of AI literacy in both educational and employment settings, there are remarkably few frameworks that identify the specific skills that make that literacy applicable in either setting. To help bridge that gap, Ithaka S+R is undertaking a new, national study to better understand what specific AI skills instructors think are important for college graduates and if they are currently teaching those skills in their classes.
+
+The post [Uncovering How Instructors Define and Teach AI Skills](https://sr.ithaka.org/blog/uncovering-how-instructors-define-and-teach-ai-skills/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=325478</guid>
+    </item>    <item>
       <title>Guest Post — Exploring Data Spaces in Scholarly Communications</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/17/guest-post-exploring-data-spaces-in-scholarly-communications/</link>
       <description>
@@ -1399,56 +1447,6 @@ If you have any questions, [we are always happy to hear from you](mailto:support
 
 You can stay informed about the status of our services by subscribing to updates at [status.crossref.org](https://status.crossref.org/)</source:markdown>
       <guid>cid://https://www.crossref.org/blog/doi-resolution-and-deposit-outage-on-17-march-2026/</guid>
-    </item>    <item>
-      <title>Funding: “Sustainable Libraries Initiative Awarded $175,000 for Operationalizing Community Resilience: Creating a Training and Partnership Model for Libraries”</title>
-      <link>https://www.infodocket.com/2026/03/27/funding-sustainable-libraries-initiative-awarded-175000-for-operationalizing-community-resilience-creating-a-training-and-partnership-model-for-libraries/</link>
-      <description>
-        <![CDATA[<p>From SLI: The Sustainable Libraries Initiative (SLI) has been awarded a $175,000 grant from the Mellon Foundation’s Public Knowledge program to lead a 15-month project titled Operationalizing Community Resilience: Creating a Training and Partnership Model for Libraries. The grant will be administered by Educopia, SLI’s fiscal sponsor. The Sustainable Libraries Initiative (founded in 2015 and now [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/03/27/funding-sustainable-libraries-initiative-awarded-175000-for-operationalizing-community-resilience-creating-a-training-and-partnership-model-for-libraries/">Funding: &#8220;Sustainable Libraries Initiative Awarded $175,000 for Operationalizing Community Resilience: Creating a Training and Partnership Model for Libraries&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From SLI: The Sustainable Libraries Initiative (SLI) has been awarded a $175,000 grant from the Mellon Foundation’s Public Knowledge program to lead a 15-month project titled Operationalizing Community Resilience: Creating a Training and Partnership Model for Libraries. The grant will be administered by Educopia, SLI’s fiscal sponsor. The Sustainable Libraries Initiative (founded in 2015 and now \[…\]
-
-The post [Funding: “Sustainable Libraries Initiative Awarded $175,000 for Operationalizing Community Resilience: Creating a Training and Partnership Model for Libraries”](https://www.infodocket.com/2026/03/27/funding-sustainable-libraries-initiative-awarded-175000-for-operationalizing-community-resilience-creating-a-training-and-partnership-model-for-libraries/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167877</guid>
-    </item>    <item>
-      <title>Evaluating the Student Emergency Grant Fund at CUNY</title>
-      <link>https://sr.ithaka.org/blog/evaluating-the-student-emergency-grant-fund-at-cuny/</link>
-      <description>
-        <![CDATA[<p>In 2022, Ithaka S+R conducted a study on Georgia State University’s Panther Retention Grant program, a type of microgrant or emergency aid initiative designed to support students with immediate financial need. Through our evaluation, we found that receiving a grant reduced time to degree across student types, including for Pell recipients and students from underrepresented [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/evaluating-the-student-emergency-grant-fund-at-cuny/">Evaluating the Student Emergency Grant Fund at CUNY</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>In 2022, Ithaka S+R conducted a study on Georgia State University’s Panther Retention Grant program, a type of microgrant or emergency aid initiative designed to support students with immediate financial need. Through our evaluation, we found that receiving a grant reduced time to degree across student types, including for Pell recipients and students from underrepresented \[…\]
-
-The post [Evaluating the Student Emergency Grant Fund at CUNY](https://sr.ithaka.org/blog/evaluating-the-student-emergency-grant-fund-at-cuny/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325276</guid>
-    </item>    <item>
-      <title>The Four Feathers, by A. E. W. Mason</title>
-      <link>https://standardebooks.org/ebooks/a-e-w-mason/the-four-feathers</link>
-      <description>
-        <![CDATA[A young man sets off to regain his honor after his resignation from the military on the eve of deployment brands him a coward.]]>
-      </description>
-      <source:markdown>A young man sets off to regain his honor after his resignation from the military on the eve of deployment brands him a coward.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/a-e-w-mason/the-four-feathers/downloads/a-e-w-mason_the-four-feathers.epub?source=feed" length="653016" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/a-e-w-mason/the-four-feathers</guid>
-    </item>    <item>
-      <title>Key Takeaways from the 2025 SSP Compensation and Benefits Study</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/03/27/key-takeaways-from-the-2025-ssp-compensation-and-benefits-study/</link>
-      <description>
-        <![CDATA[<p>A look at the data from the second year of the SSP Compensation and Benefits Benchmarking Study.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/03/27/key-takeaways-from-the-2025-ssp-compensation-and-benefits-study/">Key Takeaways from the 2025 SSP Compensation and Benefits Study</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>A look at the data from the second year of the SSP Compensation and Benefits Benchmarking Study.
-
-The post [Key Takeaways from the 2025 SSP Compensation and Benefits Study](https://scholarlykitchen.sspnet.org/2026/03/27/key-takeaways-from-the-2025-ssp-compensation-and-benefits-study/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61764</guid>
-    </item>    <item>
-      <title>Strengthening ROR’s Commitment to the Principles of Open Scholarly Infrastructure</title>
-      <link>https://ror.org/blog/2026-03-27-strengthening-commitment-to-posi/</link>
-      <description>
-        <![CDATA[With the release of v2 of the Principles of Open Scholarly Infrastructure (POSI), we take this opportunity to reflect on ROR’s alignment with the POSI framework and re-assert our commitment to providing open scholarly infrastructure for the global community.]]>
-      </description>
-      <source:markdown>With the release of v2 of the Principles of Open Scholarly Infrastructure (POSI), we take this opportunity to reflect on ROR’s alignment with the POSI framework and re-assert our commitment to providing open scholarly infrastructure for the global community.</source:markdown>
-      <guid>cid://https://doi.org/10.71938/2xy9-em92</guid>
     </item>
   </channel>
 </rss>

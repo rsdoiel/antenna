@@ -4,10 +4,42 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Apr 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>18 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/04/17 - Science and Sprituality.</title>
+      <link>https://heyrick.eu/blog/entry/20260417</link>
+      <description>
+        <![CDATA[Science and Sprituality.]]>
+      </description>
+      <source:markdown>Science and Sprituality.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260417</guid>
+    </item>    <item>
+      <title>The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction</title>
+      <link>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/</link>
+      <description>
+        <![CDATA[This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. The Holy Blood and the Holy Grail was published by Jonathan Cape in Britain on January 18, 1982. Delacorte released an American edition five weeks later, under the punchier title of simply [&#8230;]]]>
+      </description>
+      <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. The Holy Blood and the Holy Grail was published by Jonathan Cape in Britain on January 18, 1982. Delacorte released an American edition five weeks later, under the punchier title of simply \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6734</guid>
+    </item>    <item>
+      <title>Rougol April 2026 meeting on monday - Desktop themes</title>
+      <link>http://www.iconbar.com/comments/rss/news2312.html</link>
+      <description>
+        <![CDATA[The April 2026 Rougol meeting is on Monday and brings together current desktop theme developments]]>
+      </description>
+      <source:markdown>The April 2026 Rougol meeting is on Monday and brings together current desktop theme developments</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2312.html</guid>
+    </item>    <item>
+      <title>MTU K-1013 FDC with CODOS emulation added to the KIM-1 Simulator.</title>
+      <link>http://retro.hansotten.nl/mtu-k-1013-fdc-with-codos-emulation-added-to-the-kim-1-simulator/</link>
+      <description>
+        <![CDATA[MTU K-1013 FDC emulation added to the KIM-1 Simulator. Eduardo Casino added the FDC support. Now not only the SD Shield but also the upd765 based FDC support allows to run CP/M-65 and the native CODOS for KIM-1 operating systems. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications [&#8230;]]]>
+      </description>
+      <source:markdown>MTU K-1013 FDC emulation added to the KIM-1 Simulator. Eduardo Casino added the FDC support. Now not only the SD Shield but also the upd765 based FDC support allows to run CP/M-65 and the native CODOS for KIM-1 operating systems. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20641</guid>
+    </item>    <item>
       <title>Redecorating the desktop – ROUGOL meeting, 20th April</title>
       <link>https://www.riscository.com/2026/redecorating-the-desktop-rougol-meeting-20th-april/</link>
       <description>
@@ -867,46 +899,6 @@ Additionally, the Incredible KIMplement — the original KIM-1 emulator on the C
       </description>
       <source:markdown>Eduardo Casino has created a faithful replica of the Jolt single board computer. Tested! Working! The replica design is available on GitHub, A faithful reproduction of the JOLT More on the Jolt here. A faithful replica of the Microcomputer Associates Inc. JOLT computer, based on photos and information gathered from various sources on the internet. \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20508</guid>
-    </item>    <item>
-      <title>b.log 2026/03/27 - The &#39;algorithm&#39; was never for you, Things aren&#39;t much better without an algorithm, My new watch, My dot matrix is faulty.</title>
-      <link>https://heyrick.eu/blog/entry/20260327</link>
-      <description>
-        <![CDATA[The 'algorithm' was never for you, Things aren't much better without an algorithm, My new watch, My dot matrix is faulty.]]>
-      </description>
-      <source:markdown>The &#39;algorithm&#39; was never for you, Things aren&#39;t much better without an algorithm, My new watch, My dot matrix is faulty.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260327</guid>
-    </item>    <item>
-      <title>New versions of KIM-1 Simulator V2.0.0  and TIM Simulator V0.9</title>
-      <link>http://retro.hansotten.nl/new-versions-of-kim-1-simulator-v2-0-0-and-tim-simulator-v0-9/</link>
-      <description>
-        <![CDATA[The KIM-1 Simulator has seen a large update. A new piece of hardware is added, the SD Card/RTC Shield by Corsham Technology. This addition has been written by Eduardo Casino. Lots of code contributed, thanks Eduardo! He also added support for two operating systems using the SD Shield, xKIM by Bob Applegate and CP/M-65 by [&#8230;]]]>
-      </description>
-      <source:markdown>The KIM-1 Simulator has seen a large update. A new piece of hardware is added, the SD Card/RTC Shield by Corsham Technology. This addition has been written by Eduardo Casino. Lots of code contributed, thanks Eduardo! He also added support for two operating systems using the SD Shield, xKIM by Bob Applegate and CP/M-65 by \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20485</guid>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/</link>
-      <description>
-        <![CDATA[Epilogue: Infinity Embraced]]>
-      </description>
-      <source:markdown>Epilogue: Infinity Embraced</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6732</guid>
-    </item>    <item>
-      <title>Fireside developer chat on saturday night</title>
-      <link>http://www.iconbar.com/comments/rss/news2316.html</link>
-      <description>
-        <![CDATA[The next developer chat is on saturday night (27th March) for anyone interested in a very informal event online aimed at RISC OS developers.]]>
-      </description>
-      <source:markdown>The next developer chat is on saturday night (27th March) for anyone interested in a very informal event online aimed at RISC OS developers.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2316.html</guid>
-    </item>    <item>
-      <title>March 2026 News Summary</title>
-      <link>http://www.iconbar.com/comments/rss/news2305.html</link>
-      <description>
-        <![CDATA[Some things we noticed this month. What did you see?]]>
-      </description>
-      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2305.html</guid>
     </item>
   </channel>
 </rss>

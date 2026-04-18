@@ -4,10 +4,210 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Apr 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>18 Apr 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cloudflare can remember it for you wholesale</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/</link>
+      <description>
+        <![CDATA[<h4>Agent Memory stores AI chat scraps off to the side and recalls them when needed</h4> <p>Not only is hardware memory scarce these days, but context memory, the conversational data exchanged with AI models, can be an issue too.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Agent Memory stores AI chat scraps off to the side and recalls them when needed
+
+Not only is hardware memory scarce these days, but context memory, the conversational data exchanged with AI models, can be an issue too.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245680</guid>
+    </item>    <item>
+      <title>Atlassian’s new data collection policy protects rich customers while AI eats the rest</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/</link>
+      <description>
+        <![CDATA[<h4>From August 17, the outfit will collect customer metadata by default unless you pay for the top tier</h4> <p>Unless a customer pays for the most expensive enterprise license, or the law forbids it, Atlassian is going to collect their data to train its AI models. And you can&#39;t fully opt out.…</p>]]>
+      </description>
+      <source:markdown>#### From August 17, the outfit will collect customer metadata by default unless you pay for the top tier
+
+Unless a customer pays for the most expensive enterprise license, or the law forbids it, Atlassian is going to collect their data to train its AI models. And you can&#39;t fully opt out.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245678</guid>
+    </item>    <item>
+      <title>Intel eases reliance on TSMC with &#39;Merica-made Core Series 3 processors</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/</link>
+      <description>
+        <![CDATA[<h4>Stripped-down Ultra for laptops and low-power edge boxes</h4> <p>Intel brought a few more chips home from Taiwan this week, with a new round of budget-oriented Core Series 3 processors fabbed right in the US-of-A.…</p>]]>
+      </description>
+      <source:markdown>#### Stripped-down Ultra for laptops and low-power edge boxes
+
+Intel brought a few more chips home from Taiwan this week, with a new round of budget-oriented Core Series 3 processors fabbed right in the US-of-A.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245679</guid>
+    </item>    <item>
+      <title>CSDA Quality Assessment Report Evaluates Satellogic NewSat Data</title>
+      <link>https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/</link>
+      <description>
+        <![CDATA[The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.]]>
+      </description>
+      <source:markdown>The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.</source:markdown>
+    </item>    <item>
+      <title>PureOS Crimson Development Report: March 2026</title>
+      <link>https://puri.sm/posts/pureos-crimson-development-report-march-2026/</link>
+      <description>
+        <![CDATA[<p>Following the PureOS Crimson beta release in our last post, we are eagerly looking forward to the general release.  We received a lot of constructive feedback about the beta, and with only a few blockers left, we are taking the opportunity to make this the best PureOS release yet.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-march-2026/">PureOS Crimson Development Report: March 2026</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>Following the PureOS Crimson beta release in our last post, we are eagerly looking forward to the general release. We received a lot of constructive feedback about the beta, and with only a few blockers left, we are taking the opportunity to make this the best PureOS release yet.
+
+The post [PureOS Crimson Development Report: March 2026](https://puri.sm/posts/pureos-crimson-development-report-march-2026/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=85379</guid>
+    </item>    <item>
+      <title>Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/anthropic_debuts_claude_design/</link>
+      <description>
+        <![CDATA[<h4>The bar for creating visual assets has been lowered to the ability to converse with a model</h4> <p>Anthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called Claude Design that creates visual assets, potentially putting some folks out of work.…</p>]]>
+      </description>
+      <source:markdown>#### The bar for creating visual assets has been lowered to the ability to converse with a model
+
+Anthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called Claude Design that creates visual assets, potentially putting some folks out of work.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245676</guid>
+    </item>    <item>
+      <title>Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space</title>
+      <link>https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/</link>
+      <description>
+        <![CDATA[Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.]]>
+      </description>
+      <source:markdown>Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/</guid>
+    </item>    <item>
+      <title>Scientists Still Don&#39;t Know How or When the Grand Canyon Formed. New Research May Hint at Its Ancient Origins</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-still-dont-know-how-or-when-the-grand-canyon-formed-new-research-may-hint-at-its-ancient-origins-180988570/</link>
+      <description>
+        <![CDATA[Researchers say the ancestral Colorado River formed an ancient lake in northern Arizona roughly 6.6 million years ago that spilled out westward onto the landscape that would eventually become the Grand Canyon]]>
+      </description>
+      <source:markdown>Researchers say the ancestral Colorado River formed an ancient lake in northern Arizona roughly 6.6 million years ago that spilled out westward onto the landscape that would eventually become the Grand Canyon</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wH2TdauR8zGJyuqx_yH0GEl7Jxg=/420x240/filters:focal(1500x1279:1501x1280)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/ba/b9ba262b-52e7-4aa7-ac9b-a7dd749d5a9a/47006412314_a98ecd3fa3_o.jpg" length="2787127" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-still-dont-know-how-or-when-the-grand-canyon-formed-new-research-may-hint-at-its-ancient-origins-180988570/</guid>
+    </item>    <item>
+      <title>Shakespeare&#39;s House in London Was Lost to History. A Scholar Discovered a Map in the Archives That Revealed Its Exact Location</title>
+      <link>https://www.smithsonianmag.com/smart-news/shakespeares-house-in-london-was-lost-to-history-a-scholar-discovered-a-map-in-the-archives-that-revealed-its-exact-location-180988566/</link>
+      <description>
+        <![CDATA[The Bard purchased the property three years before his death in 1616. Had he hoped to spend more time in the city where he wrote his best-known plays?]]>
+      </description>
+      <source:markdown>The Bard purchased the property three years before his death in 1616. Had he hoped to spend more time in the city where he wrote his best-known plays?</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OVz6CyM6aLKZdn5L4_dT3BTP0AI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/1c/ca1c33e9-d1f7-4a3f-9d03-5bdb429fb22e/map.jpg" length="285038" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/shakespeares-house-in-london-was-lost-to-history-a-scholar-discovered-a-map-in-the-archives-that-revealed-its-exact-location-180988566/</guid>
+    </item>    <item>
+      <title>NASA Artemis II Human Research Data Methodology Challenge</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/</link>
+      <description>
+        <![CDATA[NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s&#160;Artemis II&#160;mission&#160;was&#160;the first [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s Artemis II mission was the first \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=982942</guid>
+    </item>    <item>
+      <title>The First LSD Trip Was a Literal Bicycle Ride 83 Years Ago. Fans of the Psychedelic Celebrate the Occasion Every April 19</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-first-lsd-trip-was-a-literal-bicycle-ride-83-years-ago-fans-of-the-psychedelic-celebrate-the-occasion-every-april-19-180988564/</link>
+      <description>
+        <![CDATA[In 1943, a chemist in Switzerland synthesized a drug that alters consciousness. His discovery changed the study of medicine, psychiatry and biology—and became a central component of the counterculture movement]]>
+      </description>
+      <source:markdown>In 1943, a chemist in Switzerland synthesized a drug that alters consciousness. His discovery changed the study of medicine, psychiatry and biology—and became a central component of the counterculture movement</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jeluUHR3pJSgylF3sNf7vMvUCbY=/420x240/filters:focal(2661x1800:2662x1801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/ed/93ed034a-62bf-42fb-a040-6b654ba67210/lsd_chapel.jpg" length="11673581" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-first-lsd-trip-was-a-literal-bicycle-ride-83-years-ago-fans-of-the-psychedelic-celebrate-the-occasion-every-april-19-180988564/</guid>
+    </item>    <item>
+      <title>Hundreds of Spanish Settlers Died at the &#39;Port of Famine.&#39; This Newly Discovered Silver Coin Reveals Where the Doomed Colony Was Founded 400 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/hundreds-of-spanish-settlers-died-at-the-port-of-famine-this-newly-discovered-silver-coin-reveals-where-the-doomed-colony-was-founded-400-years-ago-180988519/</link>
+      <description>
+        <![CDATA[Ciudad del Rey Don Felipe was established on the north shore of Chile's Strait of Magellan in 1584. When an English navigator came across it several years later, few survivors remained]]>
+      </description>
+      <source:markdown>Ciudad del Rey Don Felipe was established on the north shore of Chile&#39;s Strait of Magellan in 1584. When an English navigator came across it several years later, few survivors remained</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9E7K3XCnkqZhQaKWrFkokPZCYpQ=/420x240/filters:focal(675x540:676x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/0b/4b0b4057-b31b-44e7-a9c3-d6941c0370f7/651886194_18344737438242014_8401832748140664513_n.jpg" length="501753" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/hundreds-of-spanish-settlers-died-at-the-port-of-famine-this-newly-discovered-silver-coin-reveals-where-the-doomed-colony-was-founded-400-years-ago-180988519/</guid>
+    </item>    <item>
+      <title>CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/</link>
+      <description>
+        <![CDATA[<h4>Bug hiding in plain sight for over a decade lands on KEV list</h4> <p>CISA is sounding the alarm on a newly-exploited Apache ActiveMQ bug, ordering federal agencies to patch within two weeks as attackers circle a flaw that&#39;s been quietly lurking for more than a decade.…</p>]]>
+      </description>
+      <source:markdown>#### Bug hiding in plain sight for over a decade lands on KEV list
+
+CISA is sounding the alarm on a newly-exploited Apache ActiveMQ bug, ordering federal agencies to patch within two weeks as attackers circle a flaw that&#39;s been quietly lurking for more than a decade.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245673</guid>
+    </item>    <item>
+      <title>NASA, OPM Announce New NASA Force Website, Open Job Applications</title>
+      <link>https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/</link>
+      <description>
+        <![CDATA[NASA and the U.S. Office of Personnel Management (OPM)&#160;launched&#160;the&#160;NASA Force&#160;website&#160;on Friday, opening applications for roles&#160;aimed at recruiting the nation’s top engineers and technologists to support America’s&#160;air and&#160;space program.&#160; NASA Force, a new hiring initiative developed in partnership with OPM,&#160;will&#160;recruit and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, research, and advanced technology priorities, [&#8230;]]]>
+      </description>
+      <source:markdown>NASA and the U.S. Office of Personnel Management (OPM) launched the NASA Force website on Friday, opening applications for roles aimed at recruiting the nation’s top engineers and technologists to support America’s air and space program.  NASA Force, a new hiring initiative developed in partnership with OPM, will recruit and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, research, and advanced technology priorities, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=985335</guid>
+    </item>    <item>
+      <title>Opsec oopsie: Dutch navy frigate location outed by mailing it a Bluetooth tracker</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/dutch_navy_frigate_tracked/</link>
+      <description>
+        <![CDATA[<h4>Or, how public information and a €5 tracker exposed an avoidable opsec lapse</h4> <p>Militaries around the world spend countless hours training, developing policies, and implementing best operational security practices, so imagine the size of the egg on the face of the Dutch navy when journalists managed to track one of its warships for less than the cost of some hagelslag and a coffee.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Or, how public information and a €5 tracker exposed an avoidable opsec lapse
+
+Militaries around the world spend countless hours training, developing policies, and implementing best operational security practices, so imagine the size of the egg on the face of the Dutch navy when journalists managed to track one of its warships for less than the cost of some hagelslag and a coffee.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245671</guid>
+    </item>    <item>
+      <title>Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data</title>
+      <link>https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/</link>
+      <description>
+        <![CDATA[The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.]]>
+      </description>
+      <source:markdown>The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/</guid>
+    </item>    <item>
+      <title>Volunteers Discover Rare Space Weather Events Using Their Ears</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/</link>
+      <description>
+        <![CDATA[Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.]]>
+      </description>
+      <source:markdown>Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/</guid>
+    </item>    <item>
+      <title>After Rounding the Moon, Artemis 2 Astronauts Reflect on the Enormity of the Experience: &#39;We as Countries and as Humans Did This&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/after-rounding-the-moon-artemis-2-astronauts-reflect-on-the-enormity-of-the-experience-we-as-countries-and-as-humans-did-this-180988568/</link>
+      <description>
+        <![CDATA[In their first press conference since returning from space, the four-person crew described feeling small but united with people on Earth and said the mission was an achievement by all of humanity]]>
+      </description>
+      <source:markdown>In their first press conference since returning from space, the four-person crew described feeling small but united with people on Earth and said the mission was an achievement by all of humanity</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q_6nxKc6Jh_UBeUPfnYhn_ENaB0=/420x240/filters:focal(2450x1657:2451x1658)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b1/0a/b10ac134-2600-4634-9053-872a6b1d7f4a/gettyimages-2271711331.jpg" length="1831081" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/after-rounding-the-moon-artemis-2-astronauts-reflect-on-the-enormity-of-the-experience-we-as-countries-and-as-humans-did-this-180988568/</guid>
+    </item>    <item>
+      <title>Users complain that UK Azure is having capacity problems</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/users_complain_of_uk_azure/</link>
+      <description>
+        <![CDATA[<h4>We hear Sweden is lovely place for workloads to visit</h4> <p>Microsoft Azure capacity woes are back, and worse than ever, judging by the complaints of UK users.…</p>]]>
+      </description>
+      <source:markdown>#### We hear Sweden is lovely place for workloads to visit
+
+Microsoft Azure capacity woes are back, and worse than ever, judging by the complaints of UK users.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245669</guid>
+    </item>    <item>
+      <title>Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature</title>
+      <link>https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/</link>
+      <description>
+        <![CDATA[Some quantum cryptographers want to find ways to keep messages secret even if the rules of quantum mechanics don’t hold. The recently rediscovered idea of quantum jamming complicates things.            <p>The post <a href="https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/" target="_blank">Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Some quantum cryptographers want to find ways to keep messages secret even if the rules of quantum mechanics don’t hold. The recently rediscovered idea of quantum jamming complicates things.
+
+The post [Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature](https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=161067</guid>
+    </item>    <item>
+      <title>NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way</title>
+      <link>https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/</link>
+      <description>
+        <![CDATA[An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The [&#8230;]]]>
+      </description>
+      <source:markdown>An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=984866</guid>
+    </item>    <item>
+      <title>A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-bountiful-berry-harvest-put-these-chunky-endangered-parrots-in-the-mood-now-scientists-are-celebrating-a-breeding-bonanza-180988510/</link>
+      <description>
+        <![CDATA[New Zealand's kakapo have laid 256 eggs, and around 100 of them have hatched, providing a bright spot in a decades-long conservation effort. The official chick count won't be confirmed until the youngest birds are about five months old]]>
+      </description>
+      <source:markdown>New Zealand&#39;s kakapo have laid 256 eggs, and around 100 of them have hatched, providing a bright spot in a decades-long conservation effort. The official chick count won&#39;t be confirmed until the youngest birds are about five months old</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iHS5J9Lxh4FY2pg4pQkxtmBfHdI=/420x240/filters:focal(1620x1080:1621x1081)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/78/7e/787e3bc4-594a-407f-9310-9ab8e4bd8af3/2601_sinbad_on_whenua_hou_2.jpg" length="9669954" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-bountiful-berry-harvest-put-these-chunky-endangered-parrots-in-the-mood-now-scientists-are-celebrating-a-breeding-bonanza-180988510/</guid>
+    </item>    <item>
       <title>Microsoft closes book on rogue Windows Server 2025 upgrades</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/microsoft_windows_server_2025/</link>
       <description>
@@ -5011,351 +5211,6 @@ Anthropic, riding a wave of goodwill after resisting demands from the US Defense
 
 **Bork!Bork!Bork!**  When is a bork not a bork? Perhaps when it&#39;s on a Microsoft stand at a US security conference.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245351</guid>
-    </item>    <item>
-      <title>Does This Skeleton Found Beneath a Dutch Church Belong to D&#39;Artagnan, the Man Who Inspired &#39;The Three Musketeers&#39;?</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-skeleton-found-beneath-the-floor-of-a-dutch-church-may-belong-to-dartagnan-the-fourth-musketeer-180988448/</link>
-      <description>
-        <![CDATA[Workers discovered the skeleton during recent repair work at the church in Maastricht. D'Artagnan died during the siege of the city in 1673]]>
-      </description>
-      <source:markdown>Workers discovered the skeleton during recent repair work at the church in Maastricht. D&#39;Artagnan died during the siege of the city in 1673</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/k8K6DYNu27QYMn_ORfKRV16fAQI=/420x240/filters:focal(3925x2635:3926x2636)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/13/b1/13b15b90-6e6f-49a6-9363-b81f1bd963cb/gettyimages-1768486834.jpg" length="2572633" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-skeleton-found-beneath-the-floor-of-a-dutch-church-may-belong-to-dartagnan-the-fourth-musketeer-180988448/</guid>
-    </item>    <item>
-      <title>I Am Artemis: Erik Richards</title>
-      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting&#160;NASA’s&#160;first crewed Artemis&#160;mission&#160;to the Moon and back&#160;is the culmination of a career spent helping spacecraft communicate&#160;with Earth.&#160; Like many kids who grew up at the height of the Space Shuttle&#160;Program, Richards dreamed of spaceflight&#160;— a&#160;dream&#160;that&#160;eventually&#160;took him&#160;from&#160;the&#160;remote&#160;McMurdo Station&#160;in Antarctica to [&#8230;]]]>
-      </description>
-      <source:markdown>Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting NASA’s first crewed Artemis mission to the Moon and back is the culmination of a career spent helping spacecraft communicate with Earth.  Like many kids who grew up at the height of the Space Shuttle Program, Richards dreamed of spaceflight — a dream that eventually took him from the remote McMurdo Station in Antarctica to \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=961062</guid>
-    </item>    <item>
-      <title>NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon</title>
-      <link>https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/</link>
-      <description>
-        <![CDATA[NASA has awarded Intuitive Machines of Houston, $180.4 million to deliver NASA-funded science and technology to the lunar surface as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis program. This lunar delivery, which includes seven payloads — five of them NASA’s — is expected to increase understanding of the chemical composition [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has awarded Intuitive Machines of Houston, $180.4 million to deliver NASA-funded science and technology to the lunar surface as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis program. This lunar delivery, which includes seven payloads — five of them NASA’s — is expected to increase understanding of the chemical composition \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=978626</guid>
-    </item>    <item>
-      <title>Microsoft takes up residence next to OpenAI, Oracle at Crusoe&#39;s 900 MW Texas datacenter expansion</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_ai_crusoe/</link>
-      <description>
-        <![CDATA[<h4>New campus to include on-site power generation</h4> <p>Bitcoin farmer turned bit barn builder Crusoe revealed plans to add 900 megawatts of capacity to its Abilene Texas datacenter campus on Friday to support Microsoft&#39;s AI ambitions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### New campus to include on-site power generation
-
-Bitcoin farmer turned bit barn builder Crusoe revealed plans to add 900 megawatts of capacity to its Abilene Texas datacenter campus on Friday to support Microsoft&#39;s AI ambitions.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245355</guid>
-    </item>    <item>
-      <title>A Clump of Human Brain Cells on a Computer Chip Learned to Play the Nostalgic Video Game &#39;Doom&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-clump-of-human-brain-cells-on-a-computer-chip-learned-to-play-the-nostalgic-video-game-doom-180988447/</link>
-      <description>
-        <![CDATA[The technology could one day help researchers develop drugs and tailor treatments to individual patients]]>
-      </description>
-      <source:markdown>The technology could one day help researchers develop drugs and tailor treatments to individual patients</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VhXkhMj3pEnl5rrjZgS1pJ_us_s=/420x240/filters:focal(1934x809:1935x810)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/17/f817b98b-8998-4fcb-ba06-6aba5eab7dc0/screenshot_2026-03-27_at_122545pm.png" length="4359041" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-clump-of-human-brain-cells-on-a-computer-chip-learned-to-play-the-nostalgic-video-game-doom-180988447/</guid>
-    </item>    <item>
-      <title>Running a Plan 9 network on OpenBSD</title>
-      <link>https://www.osnews.com/story/144695/running-a-plan-9-network-on-openbsd/</link>
-      <description>
-        <![CDATA[This guide describes how you can install a Plan 9 network on an OpenBSD machine (it will probably work on any unix machine though). The authentication service (called &#8220;authsrv&#8221; on Plan 9) is provided by a unix version: authsrv9. The file service is provided by a program called &#8220;u9fs&#8221;. It comes with Plan 9. Both run from inetd. The (diskless) cpu server is provided by running qemu, booted from only a floppy (so without local storage). Finally, the terminal is provided by the program drawterm. The nice thing about this approach is that you can use all your familiar unix tools to get started with Plan 9 (e.g. you can edit the Plan 9 files with your favorite unix editor). I&#8217;m assuming you have read at least something about Plan 9, for example the introduction paper Plan 9 from Bell Labs. ↫ Mechiel Lukkien If you&#8217;re running OpenBSD, you&#8217;re already doing something better than everyone else, and if you want to ascend to the next level, this is a great place to start. Of course, the final level, where you leave your earthly roots behind and become a being of pure enlightened energy, is running Plan 9 on real hardware as the universe intended, but let&#8217;s not put the cart before the horse. One day, all of humanity will just be an endless collection of interconnected cosmic Plan 9 servers, more plentiful than the stars in the known universe.]]>
-      </description>
-      <source:markdown>This guide describes how you can install a Plan 9 network on an OpenBSD machine (it will probably work on any unix machine though). The authentication service (called “authsrv” on Plan 9) is provided by a unix version: authsrv9. The file service is provided by a program called “u9fs”. It comes with Plan 9. Both run from inetd. The (diskless) cpu server is provided by running qemu, booted from only a floppy (so without local storage). Finally, the terminal is provided by the program drawterm. The nice thing about this approach is that you can use all your familiar unix tools to get started with Plan 9 (e.g. you can edit the Plan 9 files with your favorite unix editor). I’m assuming you have read at least something about Plan 9, for example the introduction paper Plan 9 from Bell Labs. ↫ Mechiel Lukkien If you’re running OpenBSD, you’re already doing something better than everyone else, and if you want to ascend to the next level, this is a great place to start. Of course, the final level, where you leave your earthly roots behind and become a being of pure enlightened energy, is running Plan 9 on real hardware as the universe intended, but let’s not put the cart before the horse. One day, all of humanity will just be an endless collection of interconnected cosmic Plan 9 servers, more plentiful than the stars in the known universe.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144695</guid>
-    </item>    <item>
-      <title>Will “AI” chatbots be the tobacco of the future?</title>
-      <link>https://www.osnews.com/story/144693/will-ai-chatbots-be-the-tobacco-of-the-future/</link>
-      <description>
-        <![CDATA[Towards the end of 2024, Dennis Biesma decided to check out ChatGPT. The Amsterdam-based IT consultant had just ended a contract early. “I had some time, so I thought: let’s have a look at this new technology everyone is talking about,” he says. “Very quickly, I became fascinated.” Biesma has asked himself why he was vulnerable to what came next. He was nearing 50. His adult daughter had left home, his wife went out to work and, in his field, the shift since Covid to working from home had left him feeling “a&#160;little isolated”. He smoked a bit of cannabis some evenings to “chill”, but had done so for years with no ill effects. He had never experienced a mental illness. Yet within months of downloading ChatGPT, Biesma had sunk €100,000 (about £83,000) into a business startup based on a delusion, been hospitalised three times and tried to kill himself. ↫ Anna Moore at The Guardian These stories are absolutely heart-wrenching, and it doesn&#8217;t just happen to people who have had a history of mental illness or other things you might associate with priming someone for &#8220;falling for&#8221; an &#8220;AI&#8221; chatbot. Just a few years in, and it&#8217;s already clear that these tools pose a real danger to a group of people of indeterminate size, and proper research into the causes is absolutely warranted and needed. On top of that, if there&#8217;s any evidence of wrongdoing from the companies behind these chatbots &#8211; intentionally making them more addictive, luring people in, ignoring established dangers, covering up addiction cases, etc. &#8211; lawsuits and regulation are definitely in order. Only yesterday, Facebook and Google lost a landmark trial in the US, ruling the companies intentionally made social media as addictive as possible, thereby destroying a person&#8217;s life in the process. Countless similar lawsuits are underway all over the world, and I have a feeling that in a few years to decades, we&#8217;ll look at unregulated, rampant social media the same way we look at tobacco now. Perhaps &#8220;AI&#8221; chatbots will join their ranks, too.]]>
-      </description>
-      <source:markdown>Towards the end of 2024, Dennis Biesma decided to check out ChatGPT. The Amsterdam-based IT consultant had just ended a contract early. “I had some time, so I thought: let’s have a look at this new technology everyone is talking about,” he says. “Very quickly, I became fascinated.” Biesma has asked himself why he was vulnerable to what came next. He was nearing 50. His adult daughter had left home, his wife went out to work and, in his field, the shift since Covid to working from home had left him feeling “a little isolated”. He smoked a bit of cannabis some evenings to “chill”, but had done so for years with no ill effects. He had never experienced a mental illness. Yet within months of downloading ChatGPT, Biesma had sunk €100,000 (about £83,000) into a business startup based on a delusion, been hospitalised three times and tried to kill himself. ↫ Anna Moore at The Guardian These stories are absolutely heart-wrenching, and it doesn’t just happen to people who have had a history of mental illness or other things you might associate with priming someone for “falling for” an “AI” chatbot. Just a few years in, and it’s already clear that these tools pose a real danger to a group of people of indeterminate size, and proper research into the causes is absolutely warranted and needed. On top of that, if there’s any evidence of wrongdoing from the companies behind these chatbots – intentionally making them more addictive, luring people in, ignoring established dangers, covering up addiction cases, etc. – lawsuits and regulation are definitely in order. Only yesterday, Facebook and Google lost a landmark trial in the US, ruling the companies intentionally made social media as addictive as possible, thereby destroying a person’s life in the process. Countless similar lawsuits are underway all over the world, and I have a feeling that in a few years to decades, we’ll look at unregulated, rampant social media the same way we look at tobacco now. Perhaps “AI” chatbots will join their ranks, too.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144693</guid>
-    </item>    <item>
-      <title>NASA’s Environment and Energy “Blue Marble” Awards Categories</title>
-      <link>https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/</link>
-      <description>
-        <![CDATA[Category I: NASA Environmental Quality Award Recognizes excellence in environmental management and planning, including stewardship of natural and cultural resources. This category highlights achievements in compliance, conservation, remediation, communication, and environmental information management, and the development of strong stakeholder partnerships. Category II: NASA Award for Excellence in Project or Program Execution Honors efforts that reduce [&#8230;]]]>
-      </description>
-      <source:markdown>Category I: NASA Environmental Quality Award Recognizes excellence in environmental management and planning, including stewardship of natural and cultural resources. This category highlights achievements in compliance, conservation, remediation, communication, and environmental information management, and the development of strong stakeholder partnerships. Category II: NASA Award for Excellence in Project or Program Execution Honors efforts that reduce \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=978681</guid>
-    </item>    <item>
-      <title>Why Was This 2,000-Year-Old Sling Bullet Inscribed With the Word &#39;Learn&#39;?</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-was-this-2000-year-old-sling-bullet-inscribed-with-the-word-learn-180988449/</link>
-      <description>
-        <![CDATA[The artifact is the first sling bullet of its kind unearthed at the ancient city of Hippos, though archaeologists have found dozens of other examples without inscriptions at the site]]>
-      </description>
-      <source:markdown>The artifact is the first sling bullet of its kind unearthed at the ancient city of Hippos, though archaeologists have found dozens of other examples without inscriptions at the site</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/C48zac-3hRGBkgJ3OiOLkZjGXCY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/78/7778897e-1861-44d2-ba15-41c4e7450e02/sling-bullet.jpg" length="389125" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-was-this-2000-year-old-sling-bullet-inscribed-with-the-word-learn-180988449/</guid>
-    </item>    <item>
-      <title>Microsoft removes trust for drivers signed with the cross-signed driver program</title>
-      <link>https://www.osnews.com/story/144691/microsoft-removes-trust-for-drivers-signed-with-the-cross-signed-driver-program/</link>
-      <description>
-        <![CDATA[Today, we’re excited to announce a significant step forward in our ongoing commitment to Windows security and system reliability: the removal of trust for all kernel drivers signed by the deprecated cross-signed root program. This update will help protect our customers by ensuring that only kernel drivers that the Windows Hardware Compatibility Program (WHCP) have passed and been signed can be loaded by default. To raise the bar for platform security, Microsoft will maintain an explicit allow list of reputable drivers signed by the cross-signed program. The allow list ensures a secure and compatible experience for a limited number of widely used, and reputable cross-signed drivers. This new kernel trust policy applies to systems running Windows 11 24H2, Windows 11 25H2, Windows 11 26H1, and Windows Server 2025 in the April 2026 Windows update. All future versions of Windows 11 and Windows Server will enforce the new kernel trust policy. ↫ Peter Waxman at the Windows IT Pro Blog The cross-signed root program was discontinued in 2021, and ran since the early 2000s, so I think it&#8217;s fair to no longer automatically assume such possibly old and outdated drivers are still to be trusted.]]>
-      </description>
-      <source:markdown>Today, we’re excited to announce a significant step forward in our ongoing commitment to Windows security and system reliability: the removal of trust for all kernel drivers signed by the deprecated cross-signed root program. This update will help protect our customers by ensuring that only kernel drivers that the Windows Hardware Compatibility Program (WHCP) have passed and been signed can be loaded by default. To raise the bar for platform security, Microsoft will maintain an explicit allow list of reputable drivers signed by the cross-signed program. The allow list ensures a secure and compatible experience for a limited number of widely used, and reputable cross-signed drivers. This new kernel trust policy applies to systems running Windows 11 24H2, Windows 11 25H2, Windows 11 26H1, and Windows Server 2025 in the April 2026 Windows update. All future versions of Windows 11 and Windows Server will enforce the new kernel trust policy. ↫ Peter Waxman at the Windows IT Pro Blog The cross-signed root program was discontinued in 2021, and ran since the early 2000s, so I think it’s fair to no longer automatically assume such possibly old and outdated drivers are still to be trusted.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144691</guid>
-    </item>    <item>
-      <title>NISAR’s View of Mount Rainier</title>
-      <link>https://science.nasa.gov/photojournal/nisars-view-of-mount-rainier/</link>
-      <description>
-        <![CDATA[Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount Rainier. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from the […]]]>
-      </description>
-      <source:markdown>Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount Rainier. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from the \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/nisars-view-of-mount-rainier/</guid>
-    </item>    <item>
-      <title>NISAR Views Mount St. Helens</title>
-      <link>https://science.nasa.gov/photojournal/nisar-views-mount-st-helens/</link>
-      <description>
-        <![CDATA[Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount St. Helens. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from […]]]>
-      </description>
-      <source:markdown>Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount St. Helens. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/nisar-views-mount-st-helens/</guid>
-    </item>    <item>
-      <title>Folk are getting dangerously attached to AI that always tells them they&#39;re right</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/sycophantic_ai_risks/</link>
-      <description>
-        <![CDATA[<h4>Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it</h4> <p>AI can lead mentally unwell people to some pretty dark places, as a number of recent news stories have taught us. Now researchers think sycophantic AI is actually having a harmful effect on everyone.…</p>]]>
-      </description>
-      <source:markdown>#### Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
-
-AI can lead mentally unwell people to some pretty dark places, as a number of recent news stories have taught us. Now researchers think sycophantic AI is actually having a harmful effect on everyone.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245350</guid>
-    </item>    <item>
-      <title>NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch</title>
-      <link>https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/</link>
-      <description>
-        <![CDATA[Technology and science demonstrations, supported by various NASA industry collaborations and agency developments, are set to launch to low Earth orbit aboard a SpaceX Falcon 9 rocket as part of the company’s Transporter-16 commercial rideshare mission. These demonstrations will test thermal protection systems, advance in-space communications, deepen our understanding of Earth&#8217;s atmosphere, and foster capabilities [&#8230;]]]>
-      </description>
-      <source:markdown>Technology and science demonstrations, supported by various NASA industry collaborations and agency developments, are set to launch to low Earth orbit aboard a SpaceX Falcon 9 rocket as part of the company’s Transporter-16 commercial rideshare mission. These demonstrations will test thermal protection systems, advance in-space communications, deepen our understanding of Earth’s atmosphere, and foster capabilities \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=978079</guid>
-    </item>    <item>
-      <title>NASA Names Scientists to Support Lunar South Pole Science</title>
-      <link>https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/</link>
-      <description>
-        <![CDATA[NASA has selected 10 participating scientists to help shape a science plan for astronauts to complete on the lunar surface under the Artemis program – including deploying scientific instruments, making critical observations of the landing site, and collecting Moon rocks. “Congratulations to the scientists selected to participate in this important Artemis lunar surface science team,” […]]]>
-      </description>
-      <source:markdown>NASA has selected 10 participating scientists to help shape a science plan for astronauts to complete on the lunar surface under the Artemis program – including deploying scientific instruments, making critical observations of the landing site, and collecting Moon rocks. “Congratulations to the scientists selected to participate in this important Artemis lunar surface science team,” \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/</guid>
-    </item>    <item>
-      <title>Scientists Identify the World&#39;s First Known Dog, Which Pushes Back the Animals&#39; Genetic Record by About 5,000 Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-identify-the-worlds-first-known-dog-which-pushes-back-the-animals-genetic-record-by-about-5000-years-180988444/</link>
-      <description>
-        <![CDATA[Two new ancient DNA studies suggest that domesticated dogs were widespread in western Eurasia more than 14,000 years ago]]>
-      </description>
-      <source:markdown>Two new ancient DNA studies suggest that domesticated dogs were widespread in western Eurasia more than 14,000 years ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IaphHUXFZQmbfqT4gRP9mqsZdm8=/420x240/filters:focal(600x349:601x350)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/52/93525b4b-98c2-4082-99e2-af7683e4680f/palaeolithic-dog-illustration-two-columnjpgthumb19201920.png" length="167967" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-identify-the-worlds-first-known-dog-which-pushes-back-the-animals-genetic-record-by-about-5000-years-180988444/</guid>
-    </item>    <item>
-      <title>I Am Artemis: Michael Guzman</title>
-      <link>https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-michael-guzman/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Michael Guzman, Artemis II main propulsion systems engineer: A clue to what Mike Guzman, main propulsion systems engineer at NASA’s Kennedy Space Center in Florida, loves most can be found in the signature of his work email: a complex string of equations for rocket thrust, specific impulse, and the [&#8230;]]]>
-      </description>
-      <source:markdown>Listen to this audio excerpt from Michael Guzman, Artemis II main propulsion systems engineer: A clue to what Mike Guzman, main propulsion systems engineer at NASA’s Kennedy Space Center in Florida, loves most can be found in the signature of his work email: a complex string of equations for rocket thrust, specific impulse, and the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=977986</guid>
-    </item>    <item>
-      <title>Apple&#39;s last tower topples… and the others will follow</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/apples_last_tower_topples/</link>
-      <description>
-        <![CDATA[<h4>Farewell, Mac Pro: Increasing integration means the end of expandable computers</h4> <p>Apple has discontinued the Mac Pro – but it&#39;s just the first of the tower computers to go. The rest will follow soon.…</p>]]>
-      </description>
-      <source:markdown>#### Farewell, Mac Pro: Increasing integration means the end of expandable computers
-
-Apple has discontinued the Mac Pro – but it&#39;s just the first of the tower computers to go. The rest will follow soon.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245349</guid>
-    </item>    <item>
-      <title>NextSTEP-3 E: Network Extension for User Continuity and Sustainability (NEXUS) Ka-Band Backward-Compatible Relay</title>
-      <link>https://www.nasa.gov/general/nextstep-3-e-network-extension-for-user-continuity-and-sustainability-nexus-ka-band-backward-compatible-relay-broad/</link>
-      <description>
-        <![CDATA[Synopsis &#124; 03/23/26 https://sam.gov/workspace/contract/opp/e33cd0cc61064a6497a55fca8e9b30c6/view NASA intends to release a BAA under Next Space Technologies for Exploration Partnerships (NextSTEP-3), Appendix E, for Project NEXUS, Ka-band Backward- Compatible Relay. As the aging Tracking and Data Relay Satellite System (TDRS) declines, NASA’s objective is to acquire an end-to-end Ka-band relay service, including space, ground, launch, integration, and operations [&#8230;]]]>
-      </description>
-      <source:markdown>Synopsis \| 03/23/26 https://sam.gov/workspace/contract/opp/e33cd0cc61064a6497a55fca8e9b30c6/view NASA intends to release a BAA under Next Space Technologies for Exploration Partnerships (NextSTEP-3), Appendix E, for Project NEXUS, Ka-band Backward- Compatible Relay. As the aging Tracking and Data Relay Satellite System (TDRS) declines, NASA’s objective is to acquire an end-to-end Ka-band relay service, including space, ground, launch, integration, and operations \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=978564</guid>
-    </item>    <item>
-      <title>Senators want datacenters to come clean on power consumption</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/senators_datacenter_power_consumption/</link>
-      <description>
-        <![CDATA[<h4>Ratepayer Protection Pledge is unenforceable without hard numbers, Warren and Hawley argue</h4> <p>US senators are pushing to require datacenters and other large energy customers to report consumption, arguing the data is essential to hold them accountable to local communities.…</p>]]>
-      </description>
-      <source:markdown>#### Ratepayer Protection Pledge is unenforceable without hard numbers, Warren and Hawley argue
-
-US senators are pushing to require datacenters and other large energy customers to report consumption, arguing the data is essential to hold them accountable to local communities.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245348</guid>
-    </item>    <item>
-      <title>Artemis II Crew’s Suits</title>
-      <link>https://www.nasa.gov/image-article/artemis-ii-crews-suits/</link>
-      <description>
-        <![CDATA[The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, [&#8230;]]]>
-      </description>
-      <source:markdown>The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=960604</guid>
-    </item>    <item>
-      <title>Microsoft tells crusty old kernel drivers to get with the Windows Hardware Compatibility Program</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_kernel_trust/</link>
-      <description>
-        <![CDATA[<h4>Cross-signed code gets the cold shoulder as Redmond tightens trust</h4> <p>Microsoft is removing trust for kernel drivers that haven&#39;t been through the Windows Hardware Compatibility Program (WHCP) in a bid to further secure the Windows kernel.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Cross-signed code gets the cold shoulder as Redmond tightens trust
-
-Microsoft is removing trust for kernel drivers that haven&#39;t been through the Windows Hardware Compatibility Program (WHCP) in a bid to further secure the Windows kernel.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245346</guid>
-    </item>    <item>
-      <title>When Coupled Volcanoes Talk, These Researchers Listen</title>
-      <link>https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/</link>
-      <description>
-        <![CDATA[Around the world, volcanologists are following the path of magma as it travels between connected volcanoes, in an effort that could lead to improved eruption forecasts.            <p>The post <a href="https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/" target="_blank">When Coupled Volcanoes Talk, These Researchers Listen</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Around the world, volcanologists are following the path of magma as it travels between connected volcanoes, in an effort that could lead to improved eruption forecasts.
-
-The post [When Coupled Volcanoes Talk, These Researchers Listen](https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=160454</guid>
-    </item>    <item>
-      <title>Two Green &#39;Fireballs&#39; Streaked Across the West Coast Sky, Some of the Latest in a String of Dazzling Meteors Above the U.S.</title>
-      <link>https://www.smithsonianmag.com/smart-news/two-green-fireballs-streaked-across-the-west-coast-sky-some-of-the-latest-in-a-string-of-dazzling-meteors-above-the-us-180988441/</link>
-      <description>
-        <![CDATA[Some of the space rocks exploded, causing loud booms, and a piece of one may have crashed into a house]]>
-      </description>
-      <source:markdown>Some of the space rocks exploded, causing loud booms, and a piece of one may have crashed into a house</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vpo42AopHEuDnfA-BbCCl4C34yk=/420x240/filters:focal(960x544:961x545)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/6e/fc6e7341-9041-4b78-878b-2becb82e6f0b/ams143_2026_03_23_03_18_00_000_011431-trim-441-hd-meteor-wm-stacked.jpg" length="261079" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/two-green-fireballs-streaked-across-the-west-coast-sky-some-of-the-latest-in-a-string-of-dazzling-meteors-above-the-us-180988441/</guid>
-    </item>    <item>
-      <title>Commercial space pleads with NASA to stop moving the goalposts in orbit</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/iss_rethink/</link>
-      <description>
-        <![CDATA[<h4>Private station hopefuls say ISS rethink is shaking confidence</h4> <p>NASA&#39;s new Moon plan isn&#39;t the only policy shift causing concern. Parts of the commercial space industry are also uneasy about the agency&#39;s latest change of direction.…</p>]]>
-      </description>
-      <source:markdown>#### Private station hopefuls say ISS rethink is shaking confidence
-
-NASA&#39;s new Moon plan isn&#39;t the only policy shift causing concern. Parts of the commercial space industry are also uneasy about the agency&#39;s latest change of direction.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245344</guid>
-    </item>    <item>
-      <title>AFC Ajax drops ball as flaws let hackers play admin with tickets and bans</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/afc_ajax_drops_ball_as/</link>
-      <description>
-        <![CDATA[<h4>Vulns in Dutch football club&#39;s systems didn&#39;t just expose data – they let outsiders play with accounts, and even lift stadium bans</h4> <p>Dutch football giant AFC Ajax has admitted to a data breach after an attacker gained access to its internal systems, in an incident that looks less like a stray pass and more like the gates left wide open.…</p>]]>
-      </description>
-      <source:markdown>#### Vulns in Dutch football club&#39;s systems didn&#39;t just expose data – they let outsiders play with accounts, and even lift stadium bans
-
-Dutch football giant AFC Ajax has admitted to a data breach after an attacker gained access to its internal systems, in an incident that looks less like a stray pass and more like the gates left wide open.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245345</guid>
-    </item>    <item>
-      <title>Iran war drives urgent need to counter underwater attack drones</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/us_and_uk_forces_auv_tender/</link>
-      <description>
-        <![CDATA[<h4>US and UK forces seeking tech tender with an April 3 deadline</h4> <p>The UK and US are looking for technology to counter the threat posed by underwater drones to ships, harbors and other critical maritime infrastructure, and are asking industry for answers.…</p>]]>
-      </description>
-      <source:markdown>#### US and UK forces seeking tech tender with an April 3 deadline
-
-The UK and US are looking for technology to counter the threat posed by underwater drones to ships, harbors and other critical maritime infrastructure, and are asking industry for answers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245341</guid>
-    </item>    <item>
-      <title>&#39;The Sopranos&#39; Changed How Television Told Stories. These Scripts, Sketches and Set Designs Reveal What Made the Mob Drama So Thrilling</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-sopranos-changed-how-television-told-stories-these-scripts-sketches-and-set-designs-reveal-what-made-the-mob-drama-so-thrilling-180988432/</link>
-      <description>
-        <![CDATA[An exhibition at the Museum of the Moving Image in New York provides visitors with a behind-the-scenes look at the award-winning HBO show]]>
-      </description>
-      <source:markdown>An exhibition at the Museum of the Moving Image in New York provides visitors with a behind-the-scenes look at the award-winning HBO show</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pdmP1D7QTzPLWa1rwWQL2nUrci8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/d0/46d08264-6cb9-45ab-9027-d7172f2548f9/momi_sopranos_exhibit-32_web.jpeg" length="996232" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-sopranos-changed-how-television-told-stories-these-scripts-sketches-and-set-designs-reveal-what-made-the-mob-drama-so-thrilling-180988432/</guid>
-    </item>    <item>
-      <title>Lloyds app glitch turned transactions into shared experience for 447k users</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/lloyds_app_glitch_turned_transactions/</link>
-      <description>
-        <![CDATA[<h4>A botched update mixed up transaction data across accounts, with thousands now receiving goodwill payouts</h4> <p>A botched overnight software update at Lloyds Banking Group left up to 447,000 customers briefly seeing other people&#39;s transactions in its mobile apps, with the bank now acknowledging the scale of the incident and compensating affected users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### A botched update mixed up transaction data across accounts, with thousands now receiving goodwill payouts
-
-A botched overnight software update at Lloyds Banking Group left up to 447,000 customers briefly seeing other people&#39;s transactions in its mobile apps, with the bank now acknowledging the scale of the incident and compensating affected users.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245342</guid>
-    </item>    <item>
-      <title>UK government admits Capita pension portal was crapita at launch</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/capita_pension_portal_pac/</link>
-      <description>
-        <![CDATA[<h4>PAC grilling reveals £239M bought a system that couldn&#39;t handle the work, the volumes, or placeholder text</h4> <p>A UK government official has admitted Capita did not reach the expected level of performance following the disastrous launch of the Civil Service Pension Scheme (CSPS) web portal late last year.…</p>]]>
-      </description>
-      <source:markdown>#### PAC grilling reveals £239M bought a system that couldn&#39;t handle the work, the volumes, or placeholder text
-
-A UK government official has admitted Capita did not reach the expected level of performance following the disastrous launch of the Civil Service Pension Scheme (CSPS) web portal late last year.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245325</guid>
-    </item>    <item>
-      <title>Engineer sabotaged hardware then complained when it didn&#39;t work</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/on_call/</link>
-      <description>
-        <![CDATA[<h4>The 600 km drive to fix the mess was a special treat</h4> <p><strong>On Call</strong>  Every week is special in its own way, and <i>The Register</i> celebrates that fact by using Friday mornings to deliver a fresh installment of On Call, our weekly reader-contributed column that shares your memories of managing IT messes someone else made.…</p>]]>
-      </description>
-      <source:markdown>#### The 600 km drive to fix the mess was a special treat
-
-**On Call**  Every week is special in its own way, and _The Register_ celebrates that fact by using Friday mornings to deliver a fresh installment of On Call, our weekly reader-contributed column that shares your memories of managing IT messes someone else made.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245318</guid>
-    </item>    <item>
-      <title>Security boffins scoured the web and found hundreds of valid API keys</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/security_boffins_harvest_bumper_crop/</link>
-      <description>
-        <![CDATA[<h4>Global bank&#39;s devs have some cleaning up to do after cloud creds found in website code</h4> <p>Computer security boffins have conducted an analysis of 10 million websites and found almost 2,000 API credentials strewn across 10,000 webpages.…</p>]]>
-      </description>
-      <source:markdown>#### Global bank&#39;s devs have some cleaning up to do after cloud creds found in website code
-
-Computer security boffins have conducted an analysis of 10 million websites and found almost 2,000 API credentials strewn across 10,000 webpages.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245336</guid>
-    </item>    <item>
-      <title>What&#39;s up with recycled wastewater&#39;s PR problem?</title>
-      <link>https://www.npr.org/2026/03/27/nx-s1-5758081/water-waste-recycling-solution</link>
-      <description>
-        <![CDATA[Would you drink recycled wastewater? It could be a solution to the global water crisis. But not everyone is ready to jump onboard. They say it’s not technology that’s keeping more cities from recycling their wastewater, but <em>psychology</em>. Experts call this resistance “the yuck factor.” We chat with water journalist <a href="https://www.burkectr.org/peter-annin"target="_blank"   >Peter Annin</a> about some history behind water recycling – and why more cities could adopt the solution soon.<br/><br/><br><strong>This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:</strong><br><a href="http://lnk.to/Ty93au"target="_blank"   >Part 1</a>: When the wells run dry<br><a href="http://lnk.to/os7Fci"target="_blank"   >Part 2</a>: The world’s groundwater problem<br><a href="https://lnk.to/7Mz2Ng"target="_blank"   >Part 3</a>: Freshwater’s growing salt problem<br/><br/><br><em>Email us your questions about water, the wider environment – or anything else to do with science at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We may turn it into an episode in the future!</em><br/><br/><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/><br><em>Listen to Short Wave on </em><a href="https://n.pr/3HOQKeK"target="_blank"   ><em>Spotify</em></a><em> and </em><a href="https://n.pr/3WA9vqh"target="_blank"   ><em>Apple Podcasts</em></a><em>.</em><br/><br/><br><em>This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Aru Nair checked the facts. The audio engineer was Jimmy Keeley.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Would you drink recycled wastewater? It could be a solution to the global water crisis. But not everyone is ready to jump onboard. They say it’s not technology that’s keeping more cities from recycling their wastewater, but _psychology_. Experts call this resistance “the yuck factor.” We chat with water journalist [Peter Annin](https://www.burkectr.org/peter-annin) about some history behind water recycling – and why more cities could adopt the solution soon.
-
-**This is part of a whole series on the world’s dwindling water supply. Check out the rest of the water series:**
-
-[Part 1](http://lnk.to/Ty93au): When the wells run dry
-
-[Part 2](http://lnk.to/os7Fci): The world’s groundwater problem
-
-[Part 3](https://lnk.to/7Mz2Ng): Freshwater’s growing salt problem
-
-_Email us your questions about water, the wider environment – or anything else to do with science at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We may turn it into an episode in the future!_
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-_Listen to Short Wave on_ [_Spotify_](https://n.pr/3HOQKeK) _and_ [_Apple Podcasts_](https://n.pr/3WA9vqh) _._
-
-_This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. Aru Nair checked the facts. The audio engineer was Jimmy Keeley._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9ed3f4e2-bf28-4064-bd21-fc0f10f2288b/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9ed3f4e2-bf28-4064-bd21-fc0f10f2288b&feed=F0qJcgXZ&t=podcast&e=nx-s1-5758081&p=510351&d=828&size=13264397" length="13264397" type="audio/mpeg" />
-      <guid>cid://7121d18b-682a-4c00-b75e-e8e26050ae8c</guid>
-    </item>    <item>
-      <title>India&#39;s space program can&#39;t spend money fast enough, putting missions in peril</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/india_space_program_report/</link>
-      <description>
-        <![CDATA[<h4>Satnav systems aren&#39;t well, IP is being sold too cheap, and thousands of roles remain open</h4> <p>India’s space program has thousands of vacant roles it’s struggled to fill, isn’t spending money fast enough to meet its mission timelines, and may be undervaluing intellectual property it sells to the private sector.…</p>]]>
-      </description>
-      <source:markdown>#### Satnav systems aren&#39;t well, IP is being sold too cheap, and thousands of roles remain open
-
-India’s space program has thousands of vacant roles it’s struggled to fill, isn’t spending money fast enough to meet its mission timelines, and may be undervaluing intellectual property it sells to the private sector.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245338</guid>
-    </item>    <item>
-      <title>Satellite Spots a Spawn</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/</link>
-      <description>
-        <![CDATA[The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space.]]>
-      </description>
-      <source:markdown>The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/</guid>
-    </item>    <item>
-      <title>China&#39;s not thrilled its AI experts want to leave the country</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/27/china_ai_regulation/</link>
-      <description>
-        <![CDATA[<h4>Urges scientists to avoid major conference, and looks unkindly on Meta&#39;s Manus acquisition</h4> <p>China appears to be unhappy about its brightest AI talent going offshore, either to visit or to sell their wares.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Urges scientists to avoid major conference, and looks unkindly on Meta&#39;s Manus acquisition
-
-China appears to be unhappy about its brightest AI talent going offshore, either to visit or to sell their wares.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245337</guid>
     </item>
   </channel>
 </rss>
