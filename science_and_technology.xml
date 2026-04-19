@@ -4,10 +4,30 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Apr 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>19 Apr 26 06:40 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>I meant to do that! AI vendors shrug off responsibility for vulns</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/ai_vendors_response_to_security/</link>
+      <description>
+        <![CDATA[<h4>Passing the buck, and the blame, down the road shows lack of AI companies&#39; maturity</h4> <p><strong>OPINION</strong>  AI vendors: &#34;You need to use AI to fight AI threats (and do everything else in your corporate IT environment).&#34; Also AI vendors: &#34;That&#39;s not a security flaw; it&#39;s working as intended.&#34;…</p>]]>
+      </description>
+      <source:markdown>#### Passing the buck, and the blame, down the road shows lack of AI companies&#39; maturity
+
+**OPINION**  AI vendors: &#34;You need to use AI to fight AI threats (and do everything else in your corporate IT environment).&#34; Also AI vendors: &#34;That&#39;s not a security flaw; it&#39;s working as intended.&#34;…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245677</guid>
+    </item>    <item>
+      <title>Ruby Central in &#39;real financial jeopardy&#39; following RubyGems maintainer ruckus</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/rubygems_nonprofit_in_real_financial/</link>
+      <description>
+        <![CDATA[<h4>Non profit loses several staffers including its executive director</h4> <p>Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, in is &#34;real financial jeopardy,&#34; according to a missive from its board members.…</p>]]>
+      </description>
+      <source:markdown>#### Non profit loses several staffers including its executive director
+
+Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, in is &#34;real financial jeopardy,&#34; according to a missive from its board members.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245670</guid>
+    </item>    <item>
       <title>Cloudflare can remember it for you wholesale</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/</link>
       <description>
@@ -5191,26 +5211,6 @@ The United States’ ban on foreign-made SOHO routers won’t improve security, 
 
 Bees and hummingbirds are effectively day-drinking on the job because their lunch is quietly fermenting.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245347</guid>
-    </item>    <item>
-      <title>Anthropic struggling with Chinese competition, its own safety obsession</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/28/miss_anthropic_not_those_who/</link>
-      <description>
-        <![CDATA[<h4>The maker of Claude faces headwinds as it rushes to go public</h4> <p>Anthropic, riding a wave of goodwill after resisting demands from the US Defense Department to soften model safeguards, is reportedly planning to go public as soon as Q4 2026.…</p>]]>
-      </description>
-      <source:markdown>#### The maker of Claude faces headwinds as it rushes to go public
-
-Anthropic, riding a wave of goodwill after resisting demands from the US Defense Department to soften model safeguards, is reportedly planning to go public as soon as Q4 2026.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245357</guid>
-    </item>    <item>
-      <title>To BSOD or not to BSOD? Only Microsoft knows the answer</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/28/rsac_bork/</link>
-      <description>
-        <![CDATA[<h4>Famous blue screens remind conference of security pros that this OS sometimes has bad days</h4> <p><strong>Bork!Bork!Bork!</strong>  When is a bork not a bork? Perhaps when it&#39;s on a Microsoft stand at a US security conference.…</p>]]>
-      </description>
-      <source:markdown>#### Famous blue screens remind conference of security pros that this OS sometimes has bad days
-
-**Bork!Bork!Bork!**  When is a bork not a bork? Perhaps when it&#39;s on a Microsoft stand at a US security conference.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245351</guid>
     </item>
   </channel>
 </rss>
