@@ -4,10 +4,183 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Apr 26 06:40 -0700</lastBuildDate>
+    <lastBuildDate>20 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Microsoft releases Windows Server update fix to fix its April update fixes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/microsoft_releases_a_windows_server_update_fix/</link>
+      <description>
+        <![CDATA[<h4>Out-of-band or out of control?</h4> <p>Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.…</p>]]>
+      </description>
+      <source:markdown>#### Out-of-band or out of control?
+
+Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245689</guid>
+    </item>    <item>
+      <title>AI is reshaping Britain&#39;s datacenter map away from London</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/ai_is_reshaping_britains_datacenter/</link>
+      <description>
+        <![CDATA[<h4>Bit barns need to worry more about space, access to grid – overstuffed center no longer a must, say experts</h4> <p>UK AI datacenter capacity could migrate away from London as power shortages, planning constraints and reduced reliance on low-latency connections to financial firms make other locations more attractive.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Bit barns need to worry more about space, access to grid – overstuffed center no longer a must, say experts
+
+UK AI datacenter capacity could migrate away from London as power shortages, planning constraints and reduced reliance on low-latency connections to financial firms make other locations more attractive.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245688</guid>
+    </item>    <item>
+      <title>UK.gov kicks off half-a-billion quid sovereign AI venture with £80M invite</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/ukgov_kicks_off_500m_ai/</link>
+      <description>
+        <![CDATA[<h4>Companies get to keep IP developed for government projects</h4> <p>The UK government is opening £80 million in AI procurement talks with tech firms, drawing on its £500 million sovereign capability fund.…</p>]]>
+      </description>
+      <source:markdown>#### Companies get to keep IP developed for government projects
+
+The UK government is opening £80 million in AI procurement talks with tech firms, drawing on its £500 million sovereign capability fund.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245687</guid>
+    </item>    <item>
+      <title>The Spice Girls Changed Pop Forever in 1996. Thirty Years Later, Their Iconic Outfits Are on Display in a New Exhibition in London</title>
+      <link>https://www.smithsonianmag.com/smart-news/spice-girls-changed-pop-forever-in-1996-thirty-years-later-their-iconic-outfits-are-on-display-in-a-new-exhibition-in-london-180988569/</link>
+      <description>
+        <![CDATA[The Barbican Music Library is celebrating British pop culture with a show that features Mel B's leopard catsuit, Emma Bunton's blue dress and Geri Halliwell's Union Jack boots]]>
+      </description>
+      <source:markdown>The Barbican Music Library is celebrating British pop culture with a show that features Mel B&#39;s leopard catsuit, Emma Bunton&#39;s blue dress and Geri Halliwell&#39;s Union Jack boots</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FtWfqM9Nso619ykmwoj0tyQKVD4=/420x240/filters:focal(1594x1101:1595x1102)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/f1/dbf18030-84f8-4d37-a2b1-d7893625c6ea/spice.jpg" length="1525406" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/spice-girls-changed-pop-forever-in-1996-thirty-years-later-their-iconic-outfits-are-on-display-in-a-new-exhibition-in-london-180988569/</guid>
+    </item>    <item>
+      <title>HP&#39;s remote desktop push retreats as Anyware heads for end of life</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/hp_anyware_eol/</link>
+      <description>
+        <![CDATA[<h4>Workstations that made distant desktops feel local is headed for a slow shutdown</h4> <p>HP is quietly pulling the plug on its Teradici-derived remote desktop business, shelving HP Anyware and its zero client hardware barely a few years after betting big on the tech as the backbone of its hybrid work push.…</p>]]>
+      </description>
+      <source:markdown>#### Workstations that made distant desktops feel local is headed for a slow shutdown
+
+HP is quietly pulling the plug on its Teradici-derived remote desktop business, shelving HP Anyware and its zero client hardware barely a few years after betting big on the tech as the backbone of its hybrid work push.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245685</guid>
+    </item>    <item>
+      <title>In Times of Trouble, the Maya Rejected Divine Kingship. This Newly Discovered Public Building Reveals How the Transition to Shared Power Unfolded</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-times-trouble-maya-rejected-divine-kingship-newly-discovered-public-building-reveals-how-the-transition-to-shared-power-unfolded-180988567/</link>
+      <description>
+        <![CDATA[Archaeologists in northern Guatemala unearthed a colonnaded open hall that may have served as a council house, where local leaders and everyday people met to discuss political issues]]>
+      </description>
+      <source:markdown>Archaeologists in northern Guatemala unearthed a colonnaded open hall that may have served as a council house, where local leaders and everyday people met to discuss political issues</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1YnLHB2LMIYr2dCgm4YJTbwXDsU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/3b/c63b7f59-57aa-4294-953b-ec5f68e5cb54/council-house.jpg" length="312277" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-times-trouble-maya-rejected-divine-kingship-newly-discovered-public-building-reveals-how-the-transition-to-shared-power-unfolded-180988567/</guid>
+    </item>    <item>
+      <title>Blue Origin nails the landing, but puts the payload satellite in the wrong orbit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/blue_origin_nails_the_landing/</link>
+      <description>
+        <![CDATA[<h4>Wouldn&#39;t be the first time a Jeff Bezos company left a package in the wrong place</h4> <p>Blue Origin&#39;s New Glenn rocket nailed the landing this weekend, but failed at the crucial part of delivering a satellite to a usable orbit.…</p>]]>
+      </description>
+      <source:markdown>#### Wouldn&#39;t be the first time a Jeff Bezos company left a package in the wrong place
+
+Blue Origin&#39;s New Glenn rocket nailed the landing this weekend, but failed at the crucial part of delivering a satellite to a usable orbit.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245684</guid>
+    </item>    <item>
+      <title>Palantir&#39;s NHS future in doubt as ministers eye contract break</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/palantir_nhs_break_clause/</link>
+      <description>
+        <![CDATA[<h4>£330M deal leaves service with no ownership of software built to connect trusts to the platform</h4> <p>The UK government is considering ending Palantir&#39;s involvement in a central NHS data platform after coming under fire from MPs, unions, and campaigners.…</p>]]>
+      </description>
+      <source:markdown>#### £330M deal leaves service with no ownership of software built to connect trusts to the platform
+
+The UK government is considering ending Palantir&#39;s involvement in a central NHS data platform after coming under fire from MPs, unions, and campaigners.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245668</guid>
+    </item>    <item>
+      <title>Growing AI power slurpage prompts MPs to examine low-energy computing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/mps_probe_low_energy_computing/</link>
+      <description>
+        <![CDATA[<h4>Committee launches inquiry into emerging chip designs to curb datacenter energy use</h4> <p>MPs are probing whether radically different, low-energy chip designs can stop AI from turning the UK&#39;s power grid into a bottleneck.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Committee launches inquiry into emerging chip designs to curb datacenter energy use
+
+MPs are probing whether radically different, low-energy chip designs can stop AI from turning the UK&#39;s power grid into a bottleneck.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245661</guid>
+    </item>    <item>
+      <title>AI quota inflation is no token effort. It&#39;s baked in</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/inflation_ai_quota/</link>
+      <description>
+        <![CDATA[<h4>We&#39;ve been here before. This time, we may not get out</h4> <p><strong>Opinion</strong>  Fans of the creative arts often find out where creators gather to talk among themselves, then sneak in to eavesdrop on what those masters of the art talk about. Golden insights, daring concepts, cutting-edge thinking? Not a bit. Gossip, if you&#39;re lucky. Travel miseries, if you&#39;re not. Mostly, they talk about money.…</p>]]>
+      </description>
+      <source:markdown>#### We&#39;ve been here before. This time, we may not get out
+
+**Opinion**  Fans of the creative arts often find out where creators gather to talk among themselves, then sneak in to eavesdrop on what those masters of the art talk about. Golden insights, daring concepts, cutting-edge thinking? Not a bit. Gossip, if you&#39;re lucky. Travel miseries, if you&#39;re not. Mostly, they talk about money.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245662</guid>
+    </item>    <item>
+      <title>Next.js developer Vercel warns of customer credential compromise</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/</link>
+      <description>
+        <![CDATA[<h4>Blames outfit called Context.ai, which reckons an agentic OAuth tangle caused the incident</h4> <p>Vercel, the company that created the open source Next.js web development framework, has a data leak that led to compromise of some customer credentials, and blamed an outfit called Context.ai for the mess.…</p>]]>
+      </description>
+      <source:markdown>#### Blames outfit called Context.ai, which reckons an agentic OAuth tangle caused the incident
+
+Vercel, the company that created the open source Next.js web development framework, has a data leak that led to compromise of some customer credentials, and blamed an outfit called Context.ai for the mess.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245683</guid>
+    </item>    <item>
+      <title>&#39;Invisible mouse&#39; made a mess of PC rebuild</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/who_me/</link>
+      <description>
+        <![CDATA[<h4>You can&#39;t fix what you can&#39;t see – especially when your workspace is a maelstrom</h4> <p><strong>Who, Me?</strong>  Welcome to yet another Monday, and therefore to this week&#39;s edition of Who, Me? For those unfamiliar, it&#39;s <i>The Register</i>&#39;s reader-contributed column that shares your stories of workplace messes, and how you tried to clean them up without dirtying your career prospects.…</p>]]>
+      </description>
+      <source:markdown>#### You can&#39;t fix what you can&#39;t see – especially when your workspace is a maelstrom
+
+**Who, Me?**  Welcome to yet another Monday, and therefore to this week&#39;s edition of Who, Me? For those unfamiliar, it&#39;s _The Register_&#39;s reader-contributed column that shares your stories of workplace messes, and how you tried to clean them up without dirtying your career prospects.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245660</guid>
+    </item>    <item>
+      <title>These voicemails save lives</title>
+      <link>https://www.npr.org/2026/04/20/nx-s1-5711457/flood-weather-warning-climate-change</link>
+      <description>
+        <![CDATA[For residents of Prek Touch, Cambodia — right on the banks of the Mekong River — flooding is a regular part of life. But as those floods worsen due to climate change, it’s getting harder to adapt. Along with other flood-prone regions throughout Southeast Asia, government officials are facing an issue: how to deliver widespread weather warnings in a timely, effective way. One solution that’s working for Prek Touch? Voicemails. Today on the show, NPR climate correspondent <a href="https://www.npr.org/people/384067907/rebecca-hersher"target="_blank"   >Rebecca Hersher</a> explains how a simple phone alert can prompt preparation, increase evacuation, and save lives.<br/><br/><em>Interested in more stories about natural disaster preparedness? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>For residents of Prek Touch, Cambodia — right on the banks of the Mekong River — flooding is a regular part of life. But as those floods worsen due to climate change, it’s getting harder to adapt. Along with other flood-prone regions throughout Southeast Asia, government officials are facing an issue: how to deliver widespread weather warnings in a timely, effective way. One solution that’s working for Prek Touch? Voicemails. Today on the show, NPR climate correspondent [Rebecca Hersher](https://www.npr.org/people/384067907/rebecca-hersher) explains how a simple phone alert can prompt preparation, increase evacuation, and save lives.
+
+_Interested in more stories about natural disaster preparedness? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/6075f6c9-eb20-427f-8fe3-7da7a1f45f16/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=6075f6c9-eb20-427f-8fe3-7da7a1f45f16&feed=F0qJcgXZ&t=podcast&e=nx-s1-5711457&p=510351&d=835&size=13374320" length="13374320" type="audio/mpeg" />
+      <guid>cid://fd7a34fb-31e7-44de-83d0-6c2bd5bbd801</guid>
+    </item>    <item>
+      <title>NASA working on ‘Big Bang’ upgrade to keep the Voyagers alive for longer</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/voyager_big_bang_upgrades/</link>
+      <description>
+        <![CDATA[<h4>Tests scheduled for May can’t come soon enough after VGER 1 power glitch led to instrument shutdown</h4> <p>NASA has revealed it’s working on a plan called “The Big Bang” that it hopes will extend the working lives of the Voyager probes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Tests scheduled for May can’t come soon enough after VGER 1 power glitch led to instrument shutdown
+
+NASA has revealed it’s working on a plan called “The Big Bang” that it hopes will extend the working lives of the Voyager probes.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245682</guid>
+    </item>    <item>
+      <title>Thailand’s Krabi Coast</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/</link>
+      <description>
+        <![CDATA[The coastal province features striking tropical karst landscapes and sandy beaches alongside a mix of natural land cover and developed areas.]]>
+      </description>
+      <source:markdown>The coastal province features striking tropical karst landscapes and sandy beaches alongside a mix of natural land cover and developed areas.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/</guid>
+    </item>    <item>
+      <title>Indonesia’s game rating system paused amid claims it leaked developer creds and glimpses of major new titles</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/20/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: India bins ID app pre-install plan; Robot wins Beijing half-marathon; AI writing Manga speech bubbles; and more!</h4> <p><strong>Asia In Brief</strong>  Indonesia’s Ministry of Communication and Digital Affairs has suspended the nation’s game rating system (IGRS) after claims the service leaked developer creds and video of unreleased games.…</p>]]>
+      </description>
+      <source:markdown>#### PLUS: India bins ID app pre-install plan; Robot wins Beijing half-marathon; AI writing Manga speech bubbles; and more!
+
+**Asia In Brief**  Indonesia’s Ministry of Communication and Digital Affairs has suspended the nation’s game rating system (IGRS) after claims the service leaked developer creds and video of unreleased games.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245681</guid>
+    </item>    <item>
+      <title>Just like phishing for gullible humans, prompt injecting AIs is here to stay</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/just_like_phishing_for_gullible/</link>
+      <description>
+        <![CDATA[<h4>Aren&#39;t we all just prompting tokens of linguistic meaning and hoping the other person isn&#39;t bullshitting us?</h4> <p><strong>kettle</strong>  It&#39;s a week of the year, which means there&#39;s been the discovery of yet another prompt injection attack that will force supposedly well-guarded AI bots to spill secrets by asking the right way. …</p>]]>
+      </description>
+      <source:markdown>#### Aren&#39;t we all just prompting tokens of linguistic meaning and hoping the other person isn&#39;t bullshitting us?
+
+**kettle**  It&#39;s a week of the year, which means there&#39;s been the discovery of yet another prompt injection attack that will force supposedly well-guarded AI bots to spill secrets by asking the right way. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245674</guid>
+    </item>    <item>
       <title>I meant to do that! AI vendors shrug off responsibility for vulns</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/ai_vendors_response_to_security/</link>
       <description>
@@ -21,11 +194,11 @@
       <title>Ruby Central in &#39;real financial jeopardy&#39; following RubyGems maintainer ruckus</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/rubygems_nonprofit_in_real_financial/</link>
       <description>
-        <![CDATA[<h4>Non profit loses several staffers including its executive director</h4> <p>Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, in is &#34;real financial jeopardy,&#34; according to a missive from its board members.…</p>]]>
+        <![CDATA[<h4>Non profit loses several staffers including its executive director</h4> <p>Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, is in &#34;real financial jeopardy,&#34; according to a missive from its board members.…</p>]]>
       </description>
       <source:markdown>#### Non profit loses several staffers including its executive director
 
-Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, in is &#34;real financial jeopardy,&#34; according to a missive from its board members.…</source:markdown>
+Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, is in &#34;real financial jeopardy,&#34; according to a missive from its board members.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245670</guid>
     </item>    <item>
       <title>Cloudflare can remember it for you wholesale</title>
@@ -5181,36 +5354,6 @@ The United States’ ban on foreign-made SOHO routers won’t improve security, 
 
 **Asia In Brief**  Staff at services giant DXC’s Australian outpost will go on strike this week after 14 months of negotiations over a new pay agreement failed.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245358</guid>
-    </item>    <item>
-      <title>AI will write code, but prepare to babysit it – and be sure you speak its language</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/29/ai_will_write_code_but/</link>
-      <description>
-        <![CDATA[<h4>This week on the Kettle, we predict that AI software development won&#39;t make you want to fire your devs anytime soon</h4> <p><strong>kettle</strong>  Tell an AI to write you a poem and it&#39;ll do it, just in a way that requires a human touch to perfect; the same goes for writing code.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### This week on the Kettle, we predict that AI software development won&#39;t make you want to fire your devs anytime soon
-
-**kettle**  Tell an AI to write you a poem and it&#39;ll do it, just in a way that requires a human touch to perfect; the same goes for writing code.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245353</guid>
-    </item>    <item>
-      <title>The first thing vibe coding builds is confidence it will help you succeed</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/29/secret_ceo_column_vibe_coding/</link>
-      <description>
-        <![CDATA[<h4>And developers should be confident it won&#39;t kill the craft</h4> <p><strong>Secret CEO</strong>  In 1991, when I was 16, a Norwegian Exchange student gave an inspirational performance of the Three Billy Goats Gruff, in the original Norwegian, at my high school talent night. She delivered this performance with such gusto that every word of her performance stuck in my mind and, to this day, I can recite the Three Billy Goats Gruff in Norwegian.…</p>]]>
-      </description>
-      <source:markdown>#### And developers should be confident it won&#39;t kill the craft
-
-**Secret CEO**  In 1991, when I was 16, a Norwegian Exchange student gave an inspirational performance of the Three Billy Goats Gruff, in the original Norwegian, at my high school talent night. She delivered this performance with such gusto that every word of her performance stuck in my mind and, to this day, I can recite the Three Billy Goats Gruff in Norwegian.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245340</guid>
-    </item>    <item>
-      <title>Bees and hummingbirds aren&#39;t just buzzing – they&#39;re sipping trace booze</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/03/29/bees_hummingbirds_alcohol/</link>
-      <description>
-        <![CDATA[<h4>Alcohol turns up in most floral nectar, meaning pollinators are drinking tiny cocktails without ever getting drunk</h4> <p>Bees and hummingbirds are effectively day-drinking on the job because their lunch is quietly fermenting.…</p>]]>
-      </description>
-      <source:markdown>#### Alcohol turns up in most floral nectar, meaning pollinators are drinking tiny cocktails without ever getting drunk
-
-Bees and hummingbirds are effectively day-drinking on the job because their lunch is quietly fermenting.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245347</guid>
     </item>
   </channel>
 </rss>
