@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>20 Apr 26 06:41 -0700</dateCreated>
+        <dateCreated>21 Apr 26 06:41 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -97,7 +97,7 @@
         <outline text="Doc Searls (at Harvard), New Old Blog" type="rss" xmlUrl="https://doc.searls.com/feed/" htmlUrl="https://doc.searls.com,https://doc.searls.com/feed/" description="Just trying to make stuff happen" url="https://doc.searls.com/feed/"></outline>
         <outline text="Doc Searls on Medium" type="rss" xmlUrl="https://medium.com/feed/@dsearls" htmlUrl="https://medium.com/@dsearls?source=rss-c021b6737f47------2,https://medium.com/@dsearls/feed" description="Stories by Doc Searls on Medium" url="https://medium.com/@dsearls/feed"></outline>
         <outline text="Doc Searls&#39; doc.blog" type="rss" xmlUrl="http://doc.blog/rss.xml" htmlUrl="http://my.1999.io/users/dsearls/"></outline>
-        <outline text="Dr. Steven Hassan, Free the Mind" type="rss" xmlUrl="https://stevenhassan.substack.com/feed" htmlUrl="https://stevenhassan.substack.com,https://stevenhassan.substack.com/feed" description="Dr. Steven Hassan is an internationally renowned expert on deradicalization, cults, hypnosis, the Influence Continuum, and the BITE Model of Authoritarian Control. TEDx speaker, author of 5 books, mental health professional, and researcher." url="https://stevenhassan.substack.com/feed"></outline>
+        <outline text="Dr. Steven Hassan, Free the Mind" type="rss" xmlUrl="https://stevenhassan.substack.com/feed" htmlUrl="https://stevenhassan.substack.com,https://stevenhassan.substack.com/feed" description="Dr. Steven Hassan on cults, extremism, and recovery." url="https://stevenhassan.substack.com/feed"></outline>
         <outline text="Economics from the Top-Down" type="rss" xmlUrl="https://economicsfromthetopdown.com/feed/" htmlUrl="https://economicsfromthetopdown.com/,https://economicsfromthetopdown.com/feed/" description="New ideas in economics and the social sciences" url="https://economicsfromthetopdown.com/feed/"></outline>
         <outline text="Ed Summers blog, Inkdroid" type="rss" xmlUrl="https://inkdroid.org/feed.xml" htmlUrl="https://inkdroid.org/,https://inkdroid.org/feed.xml" description="Paper or Plastic" url="https://inkdroid.org/feed.xml"></outline>
         <outline text="Educated Guesswork blog" type="atom" xmlUrl="https://educatedguesswork.org/feed/feed.xml" htmlUrl="https://educatedguesswork.org/feed/feed.xml,https://educatedguesswork.org" url="https://educatedguesswork.org/feed/feed.xml"></outline>
