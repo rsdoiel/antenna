@@ -13,7 +13,7 @@ title: Library and Archives organizations
 - [Jonny Saunders blog](https://jon-e.net/blog/feed.xml)
 - [Standard Ebooks, new releaases](https://standardebooks.org/feeds/rss/new-releases)
 - [Collections Data blog](https://collectionsasdata.github.io/atom.xml)
-
+- [Project Gutenberg (New Books)](https://www.gutenberg.org/cache/epub/feeds/today.rss)
 
 
 # Research Libraries

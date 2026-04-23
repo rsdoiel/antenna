@@ -4,10 +4,21 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>22 Apr 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>23 Apr 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What I learned from a year of Highland Pro</title>
+      <link>https://johnaugust.com/2026/what-i-learned-from-a-year-of-highland-pro</link>
+      <description>
+        <![CDATA[<p>One year ago, we launched Highland Pro. I was confident in the app itself, having put it through its paces over its multi-year development journey. I’d written dozens of scripts and novels in Highland over the years, and knew that Highland Pro was the best version we’d ever made. Our beta testers loved it, too. [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/what-i-learned-from-a-year-of-highland-pro">What I learned from a year of Highland Pro</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>One year ago, we launched Highland Pro. I was confident in the app itself, having put it through its paces over its multi-year development journey. I’d written dozens of scripts and novels in Highland over the years, and knew that Highland Pro was the best version we’d ever made. Our beta testers loved it, too. \[…\]
+
+The post [What I learned from a year of Highland Pro](https://johnaugust.com/2026/what-i-learned-from-a-year-of-highland-pro) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=23888</guid>
+    </item>    <item>
       <title>Something Very Bad is Going to Happen</title>
       <link>https://johnaugust.com/2026/something-very-bad-is-going-to-happen</link>
       <description>
@@ -2763,14 +2774,6 @@ The post [Writing effective transitions (Encore)](https://johnaugust.com/2026/wr
       </description>
       <source:markdown>Authors Alliance and SPARC are pleased to announce the publication of a new white paper addressing the legal uncertainties surrounding article versions and institutional copyright policies.</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12779</guid>
-    </item>    <item>
-      <title>Enacting the AUTHOR (Authors’ Universal Termination and Hassle-free Ownership Reclamation) Act</title>
-      <link>https://www.authorsalliance.org/2026/04/01/enacting-the-author-authors-universal-termination-and-hassle-free-ownership-reclamation-act/</link>
-      <description>
-        <![CDATA[Today, Congress enacted an unprecedented yet long-overdue law granting authors automatic termination of copyright transfers five years after they are granted, with a six-month notice period during which the original grantee may notify the author that the transfer is about to end and indicate whether they wish to renegotiate the agreement. This law supersedes the previous Section 203 of the 1976 Copyright Act. The new law is aptly titled the AUTHOR (Authors’ Universal Termination and Hassle-free Ownership Reclamation) Act, reflecting its Damascene conversion for an unprecedented empowerment of authors.]]>
-      </description>
-      <source:markdown>Today, Congress enacted an unprecedented yet long-overdue law granting authors automatic termination of copyright transfers five years after they are granted, with a six-month notice period during which the original grantee may notify the author that the transfer is about to end and indicate whether they wish to renegotiate the agreement. This law supersedes the previous Section 203 of the 1976 Copyright Act. The new law is aptly titled the AUTHOR (Authors’ Universal Termination and Hassle-free Ownership Reclamation) Act, reflecting its Damascene conversion for an unprecedented empowerment of authors.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12770</guid>
     </item>
   </channel>
 </rss>

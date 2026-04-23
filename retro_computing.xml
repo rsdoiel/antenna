@@ -4,10 +4,35 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>22 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>23 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fireside developer chat on saturday night</title>
+      <link>http://www.iconbar.com/comments/rss/news2318.html</link>
+      <description>
+        <![CDATA[There is another developer chat is on saturday night (25th April) for anyone interested in a very informal event online aimed at RISC OS developers of all levels.]]>
+      </description>
+      <source:markdown>There is another developer chat is on saturday night (25th April) for anyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2318.html</guid>
+    </item>    <item>
+      <title>The Latest CachyOS Features Supercharged Kernel</title>
+      <link>http://www.linux-magazine.com/Online/News/The-Latest-CachyOS-Features-Supercharged-Kernel</link>
+      <description>
+        <![CDATA[<p>The latest release of CachyOS brings with it an enhanced version of the latest Linux kernel.</p>]]>
+      </description>
+      <source:markdown>The latest release of CachyOS brings with it an enhanced version of the latest Linux kernel.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://d9c3bdd5d15a093cdc517cafd5392abe</guid>
+    </item>    <item>
+      <title>Developers’ fireside chat – 25th April</title>
+      <link>https://www.riscository.com/2026/developers-fireside-chat-25th-april/</link>
+      <description>
+        <![CDATA[The next online meeting for anyone who is interested in the topic of developing on or for RISC OS will take place online on Saturday, 25th April. As ever, these friendly fireside chats are an informal way for developers and those with a passing interest to get together and discuss the issues that affect them or they feel are relevant. There is no set agenda, so the areas covered by the meeting are steered by those present &#8211; meaning you can bring up a burning issue, pose a problem to&#8230;]]>
+      </description>
+      <source:markdown>The next online meeting for anyone who is interested in the topic of developing on or for RISC OS will take place online on Saturday, 25th April. As ever, these friendly fireside chats are an informal way for developers and those with a passing interest to get together and discuss the issues that affect them or they feel are relevant. There is no set agenda, so the areas covered by the meeting are steered by those present – meaning you can bring up a burning issue, pose a problem to…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10936</guid>
+    </item>    <item>
       <title>Rediscovering the Handcart</title>
       <link>https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/</link>
       <description>
@@ -175,9 +200,9 @@
         <p>Barcelona has very wide sidewalks in most of the city. We rarely have to share the road with cars or cyclists. Of course, that&rsquo;s not the case in every city, and then the use of a handcart becomes less attractive. Using a handcart on the road or cyclepath is rather dangerous because other vehicles are much faster.</p>
         <div class="article-img ">
         <figure data-imgstate="dither">
-        <img src="https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/cart-masnou3_dithered.png" alt='Image: Pushing the handcart through a narrow walkway. Photo by Kris De Decker.' loading="lazy"/></figure>
+        <img src="https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/cart-masnou3_dithered.png" alt='Image: Kozimo pushes the handcart through a narrow walkway. Photo by Kris De Decker.' loading="lazy"/></figure>
         <figcaption class="caption">
-         Image: Pushing the handcart through a narrow walkway. Photo by Kris De Decker. 
+         Image: Kozimo pushes the handcart through a narrow walkway. Photo by Kris De Decker. 
         </figcaption>
         </div>
         </div>
@@ -219,9 +244,9 @@
         <p>Driving a handcart feels entirely different from using any other mode of transport. When people are walking, they usually cannot carry much with them, either in terms of weight or volume. In contrast, the handcart allows you to walk with a lot of stuff close at hand: drinks, food, a sound system, books, extra clothes. Furthermore, you have a large platform, which allows you to rest and invite others to do the same. It becomes a vehicle for wandering and roaming, and for connecting to other people.</p>
         <div class="article-img ">
         <figure data-imgstate="dither">
-        <img src="https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/IMG_2931_dithered.png" alt='Image: It&amp;rsquo;s a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Photo by Kris De Decker.' loading="lazy"/></figure>
+        <img src="https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/IMG_2931_dithered.png" alt='Image: It&amp;rsquo;s a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Model: Rocío Sánchez. Photo by Kris De Decker.' loading="lazy"/></figure>
         <figcaption class="caption">
-         Image: It's a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Photo by Kris De Decker. 
+         Image: It's a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Model: Rocío Sánchez. Photo by Kris De Decker. 
         </figcaption>
         </div>
         </div>
@@ -261,7 +286,7 @@
         </div>
         <div class="article-img ">
         <figure data-imgstate="dither">
-        <img src="https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/Bildschirmfoto_2026-04-22_um_12.03.02_dithered.png" alt='Images: Carrying the handcart over the rocks. Photos by Linda Osusky.' loading="lazy"/></figure>
+        <img src="https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/rocks1_dithered.png" alt='Images: Carrying the handcart over the rocks. Photos by Linda Osusky.' loading="lazy"/></figure>
         <figcaption class="caption">
          Images: Carrying the handcart over the rocks. Photos by Linda Osusky. 
         </figcaption>
@@ -340,7 +365,7 @@
         <ul>
         <li>Handcart design and construction: Kozimo, Guilhem Senges.</li>
         <li>Photos: Kris De Decker, Linda Osusky, Guillaume Lion.</li>
-        <li>Special thanks to: <a href="https://akasha.barcelona/en/">AkashaHub Barcelona</a>, Carmen Tanaka, Gaston Quispe Castros, <a href="https://www.documentary-campus.com/p/linda-osusky">Linda Osusky</a>, <a href="https://www.guillaumelion.be/english.html">Guillaume Lion</a>, Rocio Sanchez, Iris De Decker, Lili-Roos Noeyens, <a href="https://www.juliasteketee.com/the-bagaceira-project">Julia Steketee</a>, Tim Rudolph, Guilherme Maglio, <a href="https://www.selcenkucukustel.com">Selcen Küçüküstel</a>.</li>
+        <li>Special thanks to: <a href="https://akasha.barcelona/en/">AkashaHub Barcelona</a>, Carmen Tanaka, Gaston Quispe Castros, <a href="https://dok.at/person/linda-osusky/">Linda Osusky</a>, <a href="https://www.guillaumelion.be/english.html">Guillaume Lion</a>, Rocío Sánchez, Iris De Decker, Lili-Roos Noeyens, <a href="https://www.juliasteketee.com/the-bagaceira-project">Julia Steketee</a>, Tim Rudolph, Guilherme Maglio, <a href="https://www.selcenkucukustel.com">Selcen Küçüküstel</a>.</li>
         <li>Marie Verdeil and Roel Roscam Abbing contributed to the selection of images.</li>
         </ul>
         <div class="footnotes" role="doc-endnotes">
@@ -483,8 +508,8 @@ We could find no traffic laws that limit the size of a handcart, at least not in
 
 Barcelona has very wide sidewalks in most of the city. We rarely have to share the road with cars or cyclists. Of course, that’s not the case in every city, and then the use of a handcart becomes less attractive. Using a handcart on the road or cyclepath is rather dangerous because other vehicles are much faster.
 
-![Image: Pushing the handcart through a narrow walkway. Photo by Kris De Decker.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/cart-masnou3_dithered.png)
-Image: Pushing the handcart through a narrow walkway. Photo by Kris De Decker.
+![Image: Kozimo pushes the handcart through a narrow walkway. Photo by Kris De Decker.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/cart-masnou3_dithered.png)
+Image: Kozimo pushes the handcart through a narrow walkway. Photo by Kris De Decker.
 
 ## Respecting other pedestrians
 
@@ -524,8 +549,8 @@ To many people, walking a handcart seems like a waste of time, but our experienc
 
 Driving a handcart feels entirely different from using any other mode of transport. When people are walking, they usually cannot carry much with them, either in terms of weight or volume. In contrast, the handcart allows you to walk with a lot of stuff close at hand: drinks, food, a sound system, books, extra clothes. Furthermore, you have a large platform, which allows you to rest and invite others to do the same. It becomes a vehicle for wandering and roaming, and for connecting to other people.
 
-![Image: It&#38;rsquo;s a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Photo by Kris De Decker.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/IMG_2931_dithered.png)
-Image: It&#39;s a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Photo by Kris De Decker.
+![Image: It&#38;rsquo;s a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Model: Rocío Sánchez. Photo by Kris De Decker.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/IMG_2931_dithered.png)
+Image: It&#39;s a pleasure to drive the vehicle, more like steering a boat than driving a land vehicle. Model: Rocío Sánchez. Photo by Kris De Decker.
 
 ![Image: The handcart with rain protection. Photo by Kris De Decker.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/IMG_2127_dithered.png)
 Image: The handcart with rain protection. Photo by Kris De Decker.
@@ -552,7 +577,7 @@ Image: A foldable seat on the slatted platform. Photo by Kris De Decker.
 ![Image: Kozimo drives the handcart along the coast. Linda Osusky is filming while resting in the seat. Photo by Kris De Decker.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/cart-masnou1_dithered.png)
 Image: Kozimo drives the handcart along the coast. Linda Osusky is filming while resting in the seat. Photo by Kris De Decker.
 
-![Images: Carrying the handcart over the rocks. Photos by Linda Osusky.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/Bildschirmfoto_2026-04-22_um_12.03.02_dithered.png)
+![Images: Carrying the handcart over the rocks. Photos by Linda Osusky.](https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/images/dithers/rocks1_dithered.png)
 Images: Carrying the handcart over the rocks. Photos by Linda Osusky.
 
 ## Digital nomad office
@@ -606,7 +631,7 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
 
 - Handcart design and construction: Kozimo, Guilhem Senges.
 - Photos: Kris De Decker, Linda Osusky, Guillaume Lion.
-- Special thanks to: [AkashaHub Barcelona](https://akasha.barcelona/en/), Carmen Tanaka, Gaston Quispe Castros, [Linda Osusky](https://www.documentary-campus.com/p/linda-osusky), [Guillaume Lion](https://www.guillaumelion.be/english.html), Rocio Sanchez, Iris De Decker, Lili-Roos Noeyens, [Julia Steketee](https://www.juliasteketee.com/the-bagaceira-project), Tim Rudolph, Guilherme Maglio, [Selcen Küçüküstel](https://www.selcenkucukustel.com).
+- Special thanks to: [AkashaHub Barcelona](https://akasha.barcelona/en/), Carmen Tanaka, Gaston Quispe Castros, [Linda Osusky](https://dok.at/person/linda-osusky/), [Guillaume Lion](https://www.guillaumelion.be/english.html), Rocío Sánchez, Iris De Decker, Lili-Roos Noeyens, [Julia Steketee](https://www.juliasteketee.com/the-bagaceira-project), Tim Rudolph, Guilherme Maglio, [Selcen Küçüküstel](https://www.selcenkucukustel.com).
 - Marie Verdeil and Roel Roscam Abbing contributed to the selection of images.
 
 * * *
@@ -657,7 +682,7 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       <source:markdown>The DIY KIM-1 keypad case and button 3D designs have been slightly improved: The case has a small cutout around the top edges as the original. The button has some ribbles as the original has. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20668</guid>
     </item>    <item>
-      <title>A second white KIM-1 enetrs the collection</title>
+      <title>A second white KIM-1 enters the collection</title>
       <link>http://retro.hansotten.nl/a-second-white-kim-1-enetrs-the-collection/</link>
       <description>
         <![CDATA[After cleaning up and repairing the keyboard of a white KIM-1 Rev D I found a second one, as new! See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages om Magazines had [&#8230;]]]>
@@ -908,72 +933,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20553</guid>
-    </item>    <item>
-      <title>The Beginning of Programming as We’ll Know It</title>
-      <link>https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/</link>
-      <description>
-        <![CDATA[In the wake of AI coding assistants like Claude and Codex, which can seemingly perform the equivalent of a day&#8217;s work in a matter of minutes, many of us are wondering if the human role of &#8220;computer programmer&#8221; is coming to an end. Will the AI bots one day do all the programming for us? [&#8230;]]]>
-      </description>
-      <source:markdown>In the wake of AI coding assistants like Claude and Codex, which can seemingly perform the equivalent of a day’s work in a matter of minutes, many of us are wondering if the human role of “computer programmer” is coming to an end. Will the AI bots one day do all the programming for us? \[…\]</source:markdown>
-      <guid>cid://https://bitsplitting.org/?p=1484</guid>
-    </item>    <item>
-      <title>b.log 2026/04/01 - April Fools, Back to work, Well well well, The icon bar has changed!, Batteries.</title>
-      <link>https://heyrick.eu/blog/entry/20260401</link>
-      <description>
-        <![CDATA[April Fools, Back to work, Well well well, The icon bar has changed!, Batteries.]]>
-      </description>
-      <source:markdown>April Fools, Back to work, Well well well, The icon bar has changed!, Batteries.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260401</guid>
-    </item>    <item>
-      <title>The Mystery of Rennes-le-Château, Part 3: A Secret History</title>
-      <link>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/</link>
-      <description>
-        <![CDATA[This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Henry Lincoln promised at the end of &#8220;The Priest, the Painter, and the Devil&#8221; that he would continue to investigate the case of François-Bérenger Saunière and Rennes-le-Château. He proved as good as [&#8230;]]]>
-      </description>
-      <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. Henry Lincoln promised at the end of “The Priest, the Painter, and the Devil” that he would continue to investigate the case of François-Bérenger Saunière and Rennes-le-Château. He proved as good as \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6716</guid>
-    </item>    <item>
-      <title>Double your impact on the RISC OS &#39;Moon mission&#39;</title>
-      <link>http://www.iconbar.com/comments/rss/news2319.html</link>
-      <description>
-        <![CDATA[ROOL (RISC OS Open Limited) is working on its most ambitious project to date: moving RISC OS to a 64-bit architecture. It's a major undertaking, and right now your donation goes twice as far.]]>
-      </description>
-      <source:markdown>ROOL (RISC OS Open Limited) is working on its most ambitious project to date: moving RISC OS to a 64-bit architecture. It&#39;s a major undertaking, and right now your donation goes twice as far.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2319.html</guid>
-    </item>    <item>
-      <title>Mini-review: David Pogue&#39;s Apple: The First 50 Years</title>
-      <link>https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html</link>
-      <description>
-        <![CDATA[<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IXzlgf89iFI9iy4JUTSCV19PGYb3ov76JJe811FyA21qYXMwNDOzUsOrR6xBFNa-LtmMpMfNDY1m70rR7OryuBO6jTpQCVi9TRG3-TQygToDzV2-gG-ERlxFpU3DnN0gZGkZel7_w0vk2sz8nKyalmBmuJSUEdXRE416HgteLDbqQVAWo9iF4zkclSU/s1362/Apple+Book+Render.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="1362" data-original-width="1012" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IXzlgf89iFI9iy4JUTSCV19PGYb3ov76JJe811FyA21qYXMwNDOzUsOrR6xBFNa-LtmMpMfNDY1m70rR7OryuBO6jTpQCVi9TRG3-TQygToDzV2-gG-ERlxFpU3DnN0gZGkZel7_w0vk2sz8nKyalmBmuJSUEdXRE416HgteLDbqQVAWo9iF4zkclSU/s320/Apple+Book+Render.png"/></a></div>
-        
-        I almost never buy e-books, but I decided to spring for an electronic copy of David Pogue's <a href="https://www.applefirst50.com/"><i>Apple: The First 50 Years</i></a> to see if I even wanted to bother with the hardcover. Previously the essential tome on Apple (and especially Mac) history was Owen Linzmeyer's <i>Apple Confidential</i>, still on my shelf in the well-thumbed 2.0 paperback. I was prepared to find this book lightweight on the technical side and I expected that it would concentrate far more on Apple the electronics company than Apple the computer company (after all, the cover's a big flippin' clickwheel). I was pleasantly surprised to be wrong. While I'm much less interested in the history of Apple after, say, the Intel transition (because I'm still bitter), over half the book's 540-odd content pages are dedicated to Apple <em>prior</em> to Jobs' 1997 return.
-        <p>
-        For example, relevant to <a href="/2026/03/6o6-v11-faster-6502-on-6502.html">our recent article</a>, Pogue provides a solid discussion of the Apple-1 (including the little-known Computer Conversor 4000) and a lot of nice period photographs of Jobs and Woz working on it. The Apple III segment is extremely well-written, with even a thermal photo of just how hot that darn thing ran, plus a complex discussion of the Lisa and of course many pages on <a href="https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/">Jef Raskin and the early Macintosh</a>. Later on, there's a decent section on Copland and its technical aspects that isn't just a rehash of the Wikipedia article, whereas Linzmeyer mostly considers it from the perspective of the events leading to Jobs' return, and Pogue also gives a small but pithy ELI5 <a href="/2023/10/teaching-apple-cyberdog-10-new-tricks.html">on OpenDoc</a> as well. Pogue even has a picture of the <i>iguana iguana powersurgius</i> image embedded in the PowerSurge and <a href="/2023/12/when-power-macintosh-ran-netware.html">Apple Network Server ROMs</a>, and some interesting photographs of early design prototypes of Spartacus, or what would become the Twentieth Anniversary Macintosh. While Pogue doesn't speak much about the <a href="/search/label/ans">Apple Network Server</a>, our favourite Apple system here at Floodgap (because one of them used to <em>serve</em> Floodgap), he at least namedrops it along with the cancelled Power Mac 9700, though oddly he completely omits any mention of the Workgroup Servers (on the other hand, while Linzmeyer provides the codenames for these systems, neither the 9700 nor "Power Express" appear in the earlier text).
-        <p>
-        Another notable chapter is "Moonshots" (chapter 21). This is aggravatingly brief, but if you ever wanted to see the Cray that John Sculley bought to design the <a href="https://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html">Aquarius RISC chip</a>, you can see it there (love the purple), along with a nice picture of the Jaguar mockup. Kaleida and Taligent get short perfunctory mentions, but they didn't get a lot of print in Owen's text either, and of course Star Trek gets a decent sidebar. The prototype photographs, in fact, are probably the best reason to buy the book. There's a nice photo of the TIM mockup (a corruption of "Time To Market") which used a <a href="/2023/06/new-ram-card-prototype-mac-portable.html">Macintosh Portable</a> to run the show, but was in fact the design prototype for the PowerBook 100.  On the other hand, Pogue calls Gary Davidian's early 68K emulator Cognac, but I don't think this is correct: the emulator was part of the RLC ("RISC LC") project, and <em>that</em> was codenamed Cognac, the renegade group in Apple led by Jack McHenry. Pogue also doesn't mention McHenry nor the RLC's architecture (originally the doomed Motorola 88100, the "other white meat"), nor that there were other RLC-like systems based on MIPS and ARM, though I don't know if Davidian's emulator actually ever ran on those. For his part Linzmeyer has a single mention of Cognac, which he lists as the codename for the "Power Mac project."
-        <p>
-        Other landmarks abound. There is an entire chapter on Newton as well, including a picture of the Cadillac prototype (hi Greg!) with its diffuse infrared system for room-wide data transfer, and which the earlier book doesn't even mention. Pogue also includes the <a href="/2023/07/apples-interactive-television-box.html">Interactive Television Box</a>, albeit briefly, and a longer bit on the PenLite, two oddball projects similarly missing from Owen's text. In fact, the book even talks about the Swatch project, reportedly based on the Sony PTC-300 PDA and effectively a Mac in a Newton-sized form factor, with colour pictures. The Apple clone manufacturers get their own special section; while Linzmeyer has a more detailed chapter "The Clone Quandary," Pogue's "Clones" is pithier and easier to follow. Apple 1990's gadget hounds will like the QuickTake section and pictures of the PowerCD, AppleDesign Powered Speakers (I still use a set with my 7300) and even the Apple combo Mac/fax. There's a nice colour screenshot of eWorld, though Owen's coverage is better, a sidebar on <a href="/search/label/magic%20cap">Magic Cap</a>, though I also favour Owen's, and a portion on the Pippin.
-        <p>
-        When Jobs came back, the book got less interesting for me, and I sort of idly paged my way to the end. I don't think there's a lot there people haven't seen, and I was surprised that the famous picture of the <a href="https://www.engadget.com/2014-03-26-heres-what-apples-first-hacked-together-iphone-looked-like-an.html">Yosemite G3 acting as an iPhone prototype</a> wasn't in the book. He has so many other great pictures you'd think he could manage that one (there is an interesting picture of the creeptastic Face Lab, though). The last couple chapters of the book are so speculative as to be almost useless, which Linzmeyer to his credit didn't even try to address, knowing that the company's history was far from settled.
-        <p> 
-        Still, having gone over it electronically, I think I want this in my bookshelf too and I'm going to pick up the hardcover after all. I see some names in the back who have been good friends of this blog in the past and I think that in general is a good testimony of its accuracy and relevance (my brief quibbles above notwithstanding), and as far as the writing style goes, Pogue has always been able to spin a good tech yarn. If he ever decides to do a more detailed dive into it, I'd probably pay decent money since he knows the right people to talk to &mdash; I don't know if it would sell but if it's on the order of the quality here, he'd get my bread in a minute. Until that happens, check this one out and see if you agree.]]>
-      </description>
-      <source:markdown>[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IXzlgf89iFI9iy4JUTSCV19PGYb3ov76JJe811FyA21qYXMwNDOzUsOrR6xBFNa-LtmMpMfNDY1m70rR7OryuBO6jTpQCVi9TRG3-TQygToDzV2-gG-ERlxFpU3DnN0gZGkZel7_w0vk2sz8nKyalmBmuJSUEdXRE416HgteLDbqQVAWo9iF4zkclSU/s320/Apple+Book+Render.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IXzlgf89iFI9iy4JUTSCV19PGYb3ov76JJe811FyA21qYXMwNDOzUsOrR6xBFNa-LtmMpMfNDY1m70rR7OryuBO6jTpQCVi9TRG3-TQygToDzV2-gG-ERlxFpU3DnN0gZGkZel7_w0vk2sz8nKyalmBmuJSUEdXRE416HgteLDbqQVAWo9iF4zkclSU/s1362/Apple+Book+Render.png)
-
-I almost never buy e-books, but I decided to spring for an electronic copy of David Pogue&#39;s [_Apple: The First 50 Years_](https://www.applefirst50.com/) to see if I even wanted to bother with the hardcover. Previously the essential tome on Apple (and especially Mac) history was Owen Linzmeyer&#39;s _Apple Confidential_, still on my shelf in the well-thumbed 2.0 paperback. I was prepared to find this book lightweight on the technical side and I expected that it would concentrate far more on Apple the electronics company than Apple the computer company (after all, the cover&#39;s a big flippin&#39; clickwheel). I was pleasantly surprised to be wrong. While I&#39;m much less interested in the history of Apple after, say, the Intel transition (because I&#39;m still bitter), over half the book&#39;s 540-odd content pages are dedicated to Apple _prior_ to Jobs&#39; 1997 return.
-
-For example, relevant to [our recent article](/2026/03/6o6-v11-faster-6502-on-6502.html), Pogue provides a solid discussion of the Apple-1 (including the little-known Computer Conversor 4000) and a lot of nice period photographs of Jobs and Woz working on it. The Apple III segment is extremely well-written, with even a thermal photo of just how hot that darn thing ran, plus a complex discussion of the Lisa and of course many pages on [Jef Raskin and the early Macintosh](https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/). Later on, there&#39;s a decent section on Copland and its technical aspects that isn&#39;t just a rehash of the Wikipedia article, whereas Linzmeyer mostly considers it from the perspective of the events leading to Jobs&#39; return, and Pogue also gives a small but pithy ELI5 [on OpenDoc](/2023/10/teaching-apple-cyberdog-10-new-tricks.html) as well. Pogue even has a picture of the _iguana iguana powersurgius_ image embedded in the PowerSurge and [Apple Network Server ROMs](/2023/12/when-power-macintosh-ran-netware.html), and some interesting photographs of early design prototypes of Spartacus, or what would become the Twentieth Anniversary Macintosh. While Pogue doesn&#39;t speak much about the [Apple Network Server](/search/label/ans), our favourite Apple system here at Floodgap (because one of them used to _serve_ Floodgap), he at least namedrops it along with the cancelled Power Mac 9700, though oddly he completely omits any mention of the Workgroup Servers (on the other hand, while Linzmeyer provides the codenames for these systems, neither the 9700 nor &#34;Power Express&#34; appear in the earlier text).
-
-Another notable chapter is &#34;Moonshots&#34; (chapter 21). This is aggravatingly brief, but if you ever wanted to see the Cray that John Sculley bought to design the [Aquarius RISC chip](https://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html), you can see it there (love the purple), along with a nice picture of the Jaguar mockup. Kaleida and Taligent get short perfunctory mentions, but they didn&#39;t get a lot of print in Owen&#39;s text either, and of course Star Trek gets a decent sidebar. The prototype photographs, in fact, are probably the best reason to buy the book. There&#39;s a nice photo of the TIM mockup (a corruption of &#34;Time To Market&#34;) which used a [Macintosh Portable](/2023/06/new-ram-card-prototype-mac-portable.html) to run the show, but was in fact the design prototype for the PowerBook 100. On the other hand, Pogue calls Gary Davidian&#39;s early 68K emulator Cognac, but I don&#39;t think this is correct: the emulator was part of the RLC (&#34;RISC LC&#34;) project, and _that_ was codenamed Cognac, the renegade group in Apple led by Jack McHenry. Pogue also doesn&#39;t mention McHenry nor the RLC&#39;s architecture (originally the doomed Motorola 88100, the &#34;other white meat&#34;), nor that there were other RLC-like systems based on MIPS and ARM, though I don&#39;t know if Davidian&#39;s emulator actually ever ran on those. For his part Linzmeyer has a single mention of Cognac, which he lists as the codename for the &#34;Power Mac project.&#34;
-
-Other landmarks abound. There is an entire chapter on Newton as well, including a picture of the Cadillac prototype (hi Greg!) with its diffuse infrared system for room-wide data transfer, and which the earlier book doesn&#39;t even mention. Pogue also includes the [Interactive Television Box](/2023/07/apples-interactive-television-box.html), albeit briefly, and a longer bit on the PenLite, two oddball projects similarly missing from Owen&#39;s text. In fact, the book even talks about the Swatch project, reportedly based on the Sony PTC-300 PDA and effectively a Mac in a Newton-sized form factor, with colour pictures. The Apple clone manufacturers get their own special section; while Linzmeyer has a more detailed chapter &#34;The Clone Quandary,&#34; Pogue&#39;s &#34;Clones&#34; is pithier and easier to follow. Apple 1990&#39;s gadget hounds will like the QuickTake section and pictures of the PowerCD, AppleDesign Powered Speakers (I still use a set with my 7300) and even the Apple combo Mac/fax. There&#39;s a nice colour screenshot of eWorld, though Owen&#39;s coverage is better, a sidebar on [Magic Cap](/search/label/magic%20cap), though I also favour Owen&#39;s, and a portion on the Pippin.
-
-When Jobs came back, the book got less interesting for me, and I sort of idly paged my way to the end. I don&#39;t think there&#39;s a lot there people haven&#39;t seen, and I was surprised that the famous picture of the [Yosemite G3 acting as an iPhone prototype](https://www.engadget.com/2014-03-26-heres-what-apples-first-hacked-together-iphone-looked-like-an.html) wasn&#39;t in the book. He has so many other great pictures you&#39;d think he could manage that one (there is an interesting picture of the creeptastic Face Lab, though). The last couple chapters of the book are so speculative as to be almost useless, which Linzmeyer to his credit didn&#39;t even try to address, knowing that the company&#39;s history was far from settled.
-
-
-Still, having gone over it electronically, I think I want this in my bookshelf too and I&#39;m going to pick up the hardcover after all. I see some names in the back who have been good friends of this blog in the past and I think that in general is a good testimony of its accuracy and relevance (my brief quibbles above notwithstanding), and as far as the writing style goes, Pogue has always been able to spin a good tech yarn. If he ever decides to do a more detailed dive into it, I&#39;d probably pay decent money since he knows the right people to talk to — I don&#39;t know if it would sell but if it&#39;s on the order of the quality here, he&#39;d get my bread in a minute. Until that happens, check this one out and see if you agree.</source:markdown>
-      <author>noreply@blogger.com (ClassicHasClass)</author>
-      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-2653444124126007610</guid>
     </item>
   </channel>
 </rss>
