@@ -34,7 +34,7 @@ export PATH
 echo "$PATH"
 build_site
 if [ "$1" = "publish" ]; then
-  ./publish.bash
+	make save
 fi
 
 #comics.md
