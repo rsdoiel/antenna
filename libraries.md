@@ -38,3 +38,5 @@ title: Library and Archives organizations
 - [The Distant Librarian}(https://distlib.pival.me/feed/)
 - [Library Jounral](https://www.infodocket.com/feed/)
 - [Electronic Librarian Org.](https://electroniclibrarian.org/feed/)
+- [Invenio RDM Blog](https://inveniosoftware.org/feed.xml)
+
