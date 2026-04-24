@@ -4,10 +4,156 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Apr 26 22:26 -0700</lastBuildDate>
+    <lastBuildDate>24 Apr 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Microsoft tackles quality control issues. Just kidding, it&#39;s encouraging experienced workers to leave</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/microsoft_seeks_quality_improvements_by/</link>
+      <description>
+        <![CDATA[<h4>Windows giant offers buyouts to eligible staffers willing to walk</h4> <p>Microsoft has committed to improving the quality and reliability of Windows, and a step on the path to that goal is… encouraging a chunk of its US staff to leave the company.…</p>]]>
+      </description>
+      <source:markdown>#### Windows giant offers buyouts to eligible staffers willing to walk
+
+Microsoft has committed to improving the quality and reliability of Windows, and a step on the path to that goal is… encouraging a chunk of its US staff to leave the company.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245798</guid>
+    </item>    <item>
+      <title>NASA Celebrates Decade of University Innovation in Aeronautics</title>
+      <link>https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/</link>
+      <description>
+        <![CDATA[For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the&#160;University Leadership Initiative&#160;(ULI) is still flying high, making awards with the potential to change 21st century air travel.&#160; Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them [&#8230;]]]>
+      </description>
+      <source:markdown>For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the University Leadership Initiative (ULI) is still flying high, making awards with the potential to change 21st century air travel.  Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=988995</guid>
+    </item>    <item>
+      <title>Intel bets the farm on AI inference to drag CPU back to the top table</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/intel_expects_ai_inference_to/</link>
+      <description>
+        <![CDATA[<h4>Chipzilla hopes agents, robots, and edge devices make CPUs cool again... now it has to build the chips</h4> <p>Intel is betting on AI to reverse its fortunes, wagering that inference and agentic workloads will restore the CPU to the center of compute - even as its chip manufacturing struggles persist.…</p>]]>
+      </description>
+      <source:markdown>#### Chipzilla hopes agents, robots, and edge devices make CPUs cool again... now it has to build the chips
+
+Intel is betting on AI to reverse its fortunes, wagering that inference and agentic workloads will restore the CPU to the center of compute - even as its chip manufacturing struggles persist.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245799</guid>
+    </item>    <item>
+      <title>Meta Arms itself to the teeth by signing for &#39;tens of millions&#39; of AWS Graviton cores</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/meta_aws_cpu/</link>
+      <description>
+        <![CDATA[<h4>After flubbing the Metaverse, Zuck embraces the Neoverse</h4> <p>Meta plans to deploy tens of millions of Amazon Web Services&#39; Graviton 5 CPU cores as part of a multi-year collaboration that will make the social network among the largest-ever consumers of the cloud giant’s homegrown silicon.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### After flubbing the Metaverse, Zuck embraces the Neoverse
+
+Meta plans to deploy tens of millions of Amazon Web Services&#39; Graviton 5 CPU cores as part of a multi-year collaboration that will make the social network among the largest-ever consumers of the cloud giant’s homegrown silicon.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245788</guid>
+    </item>    <item>
+      <title>Microsoft beefs up Remote Desktop security with ... hard-to-read messages</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/remote_desktop_security_beefed_up/</link>
+      <description>
+        <![CDATA[<h4>Ailing scaling blamed by Windows-maker for unreadable missives</h4> <p>Microsoft&#39;s update to harden Remote Desktop against phishing attacks has arrived. When users open a Remote Desktop (.rdp) file, they should now see a warning listing all requested connection settings - or they would if it was displaying correctly.…</p>]]>
+      </description>
+      <source:markdown>#### Ailing scaling blamed by Windows-maker for unreadable missives
+
+Microsoft&#39;s update to harden Remote Desktop against phishing attacks has arrived. When users open a Remote Desktop (.rdp) file, they should now see a warning listing all requested connection settings - or they would if it was displaying correctly.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245795</guid>
+    </item>    <item>
+      <title>It&#39;s a myth that you need Mythos to find bugs: Open source models can do it just as well</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/</link>
+      <description>
+        <![CDATA[<h4>OpenAI&#39;s first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs</h4> <p><strong>Black Hat Asia</strong>  Open source models can find bugs as effectively as Anthropic&#39;s Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI&#39;s first security hire.…</p>]]>
+      </description>
+      <source:markdown>#### OpenAI&#39;s first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs
+
+**Black Hat Asia**  Open source models can find bugs as effectively as Anthropic&#39;s Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI&#39;s first security hire.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245792</guid>
+    </item>    <item>
+      <title>Trump to UK: Stop taxing our big beautiful tech corps or face tariff tsunami</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/trump_threatens_big_tariff_on/</link>
+      <description>
+        <![CDATA[<h4>Oval Office resident rants about Blighty&#39;s Digital Services Tax with threats that don’t quite add up</h4> <p>Donald Trump has threatened to whack the UK with a &#34;big tariff&#34; if it doesn&#39;t scrap its tax on large US tech firms, reviving a long-running spat over who gets to skim the proceeds from Silicon Valley&#39;s global empire.…</p>]]>
+      </description>
+      <source:markdown>#### Oval Office resident rants about Blighty&#39;s Digital Services Tax with threats that don’t quite add up
+
+Donald Trump has threatened to whack the UK with a &#34;big tariff&#34; if it doesn&#39;t scrap its tax on large US tech firms, reviving a long-running spat over who gets to skim the proceeds from Silicon Valley&#39;s global empire.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245797</guid>
+    </item>    <item>
+      <title>In a Graveyard of Shipwrecks Between Europe and Africa, Archaeologists Discovered Vessels Doomed Over Thousands of Years</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-graveyard-of-shipwrecks-between-europe-and-africa-archaeologists-discovered-vessels-doomed-over-thousands-of-years-180988605/</link>
+      <description>
+        <![CDATA[The "harbor" of the Strait of Gibraltar is the final resting place for shipwrecks from Ancient Rome, the Medieval era and World War II, according to a new archaeological survey]]>
+      </description>
+      <source:markdown>The &#34;harbor&#34; of the Strait of Gibraltar is the final resting place for shipwrecks from Ancient Rome, the Medieval era and World War II, according to a new archaeological survey</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5FSLFKG1P_RHpJ58lzCKde7KbG0=/420x240/filters:focal(2885x1896:2886x1897)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/52/a7/52a7674a-5edb-4f0e-9c4b-646dfd41aad6/gibraltar_ships_next_to_the_west_coast_seen_from_the_top_station_of_cable_car_2.jpg" length="14562850" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-graveyard-of-shipwrecks-between-europe-and-africa-archaeologists-discovered-vessels-doomed-over-thousands-of-years-180988605/</guid>
+    </item>    <item>
+      <title>Greece relaxes Euro biometric border entry rules amid airport chaos</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/greece_ees_rules/</link>
+      <description>
+        <![CDATA[<h4>Missed flights and more means something has got to give at the border</h4> <p>Greece is taking a flexible approach to introducing the European Union&#39;s biometric Entry/Exit System (EES), after some British passport holders missed flights home following the system&#39;s implementation on 10 April.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Missed flights and more means something has got to give at the border
+
+Greece is taking a flexible approach to introducing the European Union&#39;s biometric Entry/Exit System (EES), after some British passport holders missed flights home following the system&#39;s implementation on 10 April.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245771</guid>
+    </item>    <item>
+      <title>UK gov pays public £550 to discuss Digital ID – then bans journalists from the room</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/digital_it_consult/</link>
+      <description>
+        <![CDATA[<h4>Nothing says &#39;We want honest opinions&#39; like a 36,000-letter mailshot with no awkward questions allowed</h4> <p>Members of the UK government’s People’s Panel on Digital ID will spend two weekends in Birmingham and three evenings on Zoom discussing how Britain should build a national digital identity system, earning £550 plus expenses for their trouble.…</p>]]>
+      </description>
+      <source:markdown>#### Nothing says &#39;We want honest opinions&#39; like a 36,000-letter mailshot with no awkward questions allowed
+
+Members of the UK government’s People’s Panel on Digital ID will spend two weekends in Birmingham and three evenings on Zoom discussing how Britain should build a national digital identity system, earning £550 plus expenses for their trouble.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245773</guid>
+    </item>    <item>
+      <title>Betting shop bug ends in kidnap plot as staff turn ransom artists</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/betting_shop_computer_glitch_sees/</link>
+      <description>
+        <![CDATA[<h4>Computer glitch spawns duplicate jackpots, disgruntled punters, and one very bad career choice</h4> <p>A computer glitch in a Spanish betting shop triggered a chain of events that ended with the store manager being kidnapped and held for €50,000 ($58,000) in ransom, allegedly by one of the shop&#39;s own employees.…</p>]]>
+      </description>
+      <source:markdown>#### Computer glitch spawns duplicate jackpots, disgruntled punters, and one very bad career choice
+
+A computer glitch in a Spanish betting shop triggered a chain of events that ended with the store manager being kidnapped and held for €50,000 ($58,000) in ransom, allegedly by one of the shop&#39;s own employees.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245768</guid>
+    </item>    <item>
+      <title>To fix this Wi-Fi network, we&#39;ll need a crane</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/on_call/</link>
+      <description>
+        <![CDATA[<h4>Won&#39;t somebody think of the children not being hit by a load of building materials?</h4> <p><strong>On Call</strong>  Delivering excellent tech support can sometimes require heavy lifting, a feat <em>The Register</em> celebrates each Friday with a new instalment of On Call – the reader-contributed column that shares your stories of hoisting glitchy tech back to full function.…</p>]]>
+      </description>
+      <source:markdown>#### Won&#39;t somebody think of the children not being hit by a load of building materials?
+
+**On Call**  Delivering excellent tech support can sometimes require heavy lifting, a feat _The Register_ celebrates each Friday with a new instalment of On Call – the reader-contributed column that shares your stories of hoisting glitchy tech back to full function.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245736</guid>
+    </item>    <item>
+      <title>Why a chimp &#39;civil war&#39; shows how societies collapse</title>
+      <link>https://www.npr.org/2026/04/24/nx-s1-5783950/civil-war-science-chimpanzee-primate-conflict</link>
+      <description>
+        <![CDATA[In the mid-1970s, primatologist Jane Goodall witnessed something that changed her opinion of chimpanzees forever: A four-year conflict amongst the chimpanzees she was studying in Tanzania. Chimpanzees that knew each other started killing each other. It was essentially the primate equivalent of a civil war. And now, it’s happening again: Fighting <em>within </em>the largest known community of chimpanzees. NPR science correspondent <a href="https://www.npr.org/people/348779465/nathan-rott"target="_blank"   >Nate Rott</a> helps us break down what’s going on and what it could tell us about how human communities can fall apart. <br/><br/><strong>Read all of Nate’s story </strong><a href="https://www.npr.org/2026/04/13/nx-s1-5781149/chimpanzee-civil-war-primate-conflict-anthropology"target="_blank"   ><strong>here</strong></a><strong>. </strong><br/><br/><em>Interested in more science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>In the mid-1970s, primatologist Jane Goodall witnessed something that changed her opinion of chimpanzees forever: A four-year conflict amongst the chimpanzees she was studying in Tanzania. Chimpanzees that knew each other started killing each other. It was essentially the primate equivalent of a civil war. And now, it’s happening again: Fighting _within_ the largest known community of chimpanzees. NPR science correspondent [Nate Rott](https://www.npr.org/people/348779465/nathan-rott) helps us break down what’s going on and what it could tell us about how human communities can fall apart.
+
+**Read all of Nate’s story** [**here**](https://www.npr.org/2026/04/13/nx-s1-5781149/chimpanzee-civil-war-primate-conflict-anthropology) **.**
+
+_Interested in more science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9e1b3ff2-9cb5-433d-9a51-e89e1d750764/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9e1b3ff2-9cb5-433d-9a51-e89e1d750764&feed=F0qJcgXZ&t=podcast&e=nx-s1-5783950&p=510351&d=831&size=13302014" length="13302014" type="audio/mpeg" />
+      <guid>cid://53781fad-a85e-4cef-b678-59e5645d1d25</guid>
+    </item>    <item>
+      <title>Researchers find cyber-sabotage malware that may predate Stuxnet by five years</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/fast16_sabotage_malware/</link>
+      <description>
+        <![CDATA[<h4>FAST16 could be the first cyberweapon, and its effects could be with us today</h4> <p><strong>Black Hat Asia</strong>  Infosec outfit SentinelOne found malware that tries to induce errors in engineering and physics simulation software and therefore represents an attempt at sabotage, and suggests it was created years before the Stuxnet worm that aimed to destroy Iran’s uranium enrichment centrifuges.…</p>]]>
+      </description>
+      <source:markdown>#### FAST16 could be the first cyberweapon, and its effects could be with us today
+
+**Black Hat Asia**  Infosec outfit SentinelOne found malware that tries to induce errors in engineering and physics simulation software and therefore represents an attempt at sabotage, and suggests it was created years before the Stuxnet worm that aimed to destroy Iran’s uranium enrichment centrifuges.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245793</guid>
+    </item>    <item>
       <title>Weak security means attackers could disable all of a city&#39;s public EV chargers</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/rentable_iot_security_flaws/</link>
       <description>

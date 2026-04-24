@@ -4,10 +4,17 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Apr 26 22:27 -0700</lastBuildDate>
+    <lastBuildDate>24 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <link>http://retro.hansotten.nl/20787-2/</link>
+      <description>
+        <![CDATA[R65 &#8211; A late seventies computer built with a KIM-1 by Rene Richarz. An amazing showcase of how far a KIM-1 and Pascal as programming language can go! All information on the R65 and the emulator of this computer on the github archive of Rene Richarz, a work in progress! Including sources and full documentation. [&#8230;]]]>
+      </description>
+      <source:markdown>R65 – A late seventies computer built with a KIM-1 by Rene Richarz. An amazing showcase of how far a KIM-1 and Pascal as programming language can go! All information on the R65 and the emulator of this computer on the github archive of Rene Richarz, a work in progress! Including sources and full documentation. \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20787</guid>
+    </item>    <item>
       <title>Framework Laptop 13 Pro Competes with the Best</title>
       <link>http://www.linux-magazine.com/Online/News/Framework-Laptop-13-Pro-Competes-with-the-Best</link>
       <description>

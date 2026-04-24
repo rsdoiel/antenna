@@ -4,52 +4,10 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Apr 26 22:28 -0700</lastBuildDate>
+    <lastBuildDate>24 Apr 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Doble error : by Prosper Mérimée</title>
-      <link>https://www.gutenberg.org/ebooks/78521</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
-    </item>    <item>
-      <title>Samhain, Issue 1, October 1901</title>
-      <link>https://www.gutenberg.org/ebooks/78522</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Yellow gentians and blue by Zona Gale</title>
-      <link>https://www.gutenberg.org/ebooks/78523</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nina&#39;s peril : by Mrs. Alex. McVeigh Miller</title>
-      <link>https://www.gutenberg.org/ebooks/78525</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Jay Bird&#39;s judgement by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78524</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The rise of a star by Edith Ayrton Zangwill</title>
-      <link>https://www.gutenberg.org/ebooks/78520</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>The Isle Of Pines (1668) by Henry Neville</title>
       <link>https://www.gutenberg.org/ebooks/21410</link>
       <description>
@@ -136,6 +94,74 @@
     </item>    <item>
       <title>Keeping the lawn by Leonard Barron</title>
       <link>https://www.gutenberg.org/ebooks/78534</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The trey of spades by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78538</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Evidence Isn’t Just for Research</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/04/24/evidence-isnt-just-for-research/</link>
+      <description>
+        <![CDATA[<p>This Friday, we offer a humorous take on the importance of empirical evidence in this era of fraud and mis/disinformation.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/24/evidence-isnt-just-for-research/">Evidence Isn&#8217;t Just for Research</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>This Friday, we offer a humorous take on the importance of empirical evidence in this era of fraud and mis/disinformation.
+
+The post [Evidence Isn’t Just for Research](https://scholarlykitchen.sspnet.org/2026/04/24/evidence-isnt-just-for-research/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61715</guid>
+    </item>    <item>
+      <title>OpenCitations’ renewed compliance with the Principles of Open Scholarly Infrastructure (April 2026)</title>
+      <link>https://opencitations.hypotheses.org/4260</link>
+      <description>
+        <![CDATA[OpenCitations has embraced the Principles of Open Scholarly Infrastructure (POSI) since their first codification in 2020, and conducted a self-assessment in January 2021. At that time, we had only recently been included in the SCOSS funding round and, although we had a clear vision of what we wanted to build and the role we wanted to play within the Open Science ecosystem, both our financial and human resources were still very limited. For this reason, the POSI self-assessment proved to be an important exercise, &#8230; <a href="https://opencitations.hypotheses.org/4260" class="more-link">Continue reading <span class="screen-reader-text">OpenCitations’ renewed compliance with the Principles of Open Scholarly Infrastructure (April 2026)</span></a>]]>
+      </description>
+      <source:markdown>OpenCitations has embraced the Principles of Open Scholarly Infrastructure (POSI) since their first codification in 2020, and conducted a self-assessment in January 2021. At that time, we had only recently been included in the SCOSS funding round and, although we had a clear vision of what we wanted to build and the role we wanted to play within the Open Science ecosystem, both our financial and human resources were still very limited. For this reason, the POSI self-assessment proved to be an important exercise, … [Continue reading OpenCitations’ renewed compliance with the Principles of Open Scholarly Infrastructure (April 2026)](https://opencitations.hypotheses.org/4260)</source:markdown>
+      <guid>cid://https://opencitations.hypotheses.org/?p=4260</guid>
+    </item>    <item>
+      <title>Doble error : by Prosper Mérimée</title>
+      <link>https://www.gutenberg.org/ebooks/78521</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Samhain, Issue 1, October 1901</title>
+      <link>https://www.gutenberg.org/ebooks/78522</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Yellow gentians and blue by Zona Gale</title>
+      <link>https://www.gutenberg.org/ebooks/78523</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nina&#39;s peril : by Mrs. Alex. McVeigh Miller</title>
+      <link>https://www.gutenberg.org/ebooks/78525</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jay Bird&#39;s judgement by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78524</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The rise of a star by Edith Ayrton Zangwill</title>
+      <link>https://www.gutenberg.org/ebooks/78520</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
