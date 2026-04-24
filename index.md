@@ -32,4 +32,4 @@ title: An Antenna
 | [Craft](craft.html)                               | Craft and Design                                               | [RSS](craft.xml), [OPML](craft.opml) |
 | [Writing](writing.html)                           | Writing and Writing Tools                                      | [RSS](writing.xml), [OPML](writing.opml) |
 
-To read more about this experiment in the [README](README.md) file.
+To read more about this experiment in the [README](README.html) file.
