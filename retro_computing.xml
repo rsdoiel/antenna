@@ -4,10 +4,19 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Apr 26 09:23 -0700</lastBuildDate>
+    <lastBuildDate>23 Apr 26 22:27 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Framework Laptop 13 Pro Competes with the Best</title>
+      <link>http://www.linux-magazine.com/Online/News/Framework-Laptop-13-Pro-Competes-with-the-Best</link>
+      <description>
+        <![CDATA[<p>Framework has released what might be considered the MacBook of Linux devices.</p>]]>
+      </description>
+      <source:markdown>Framework has released what might be considered the MacBook of Linux devices.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://35090e5d23e1a9590d60246a0e353a22</guid>
+    </item>    <item>
       <title>Fireside developer chat on saturday night</title>
       <link>http://www.iconbar.com/comments/rss/news2318.html</link>
       <description>

@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Apr 26 09:23 -0700</lastBuildDate>
+    <lastBuildDate>23 Apr 26 22:28 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -57,13 +57,97 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
+      <title>A little girl in tears by Ellis Parker Butler</title>
+      <link>https://www.gutenberg.org/ebooks/78529</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The paper dragon: a Raggedy Ann adventure by Johnny Gruelle</title>
+      <link>https://www.gutenberg.org/ebooks/78535</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Love&#39;s crucifix : by Francesco Petrarca</title>
+      <link>https://www.gutenberg.org/ebooks/78533</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0338: De brand in de chemische fabriek by Blankensee and Hageman and Matull</title>
+      <link>https://www.gutenberg.org/ebooks/78531</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0344: Het raadsel van Harrow Road by Blankensee and Hageman and Matull</title>
+      <link>https://www.gutenberg.org/ebooks/78532</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>I buy me couple horses by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78530</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The adventures of Andolocia : by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/78536</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>From the Hebrides to the Himalayas by C. F.  Gordon Cumming</title>
+      <link>https://www.gutenberg.org/ebooks/78537</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Incidents on a journey through Nubia to Darfoor by F. Sidney Ensor</title>
+      <link>https://www.gutenberg.org/ebooks/78526</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Quer durch Uganda : by Rudolf Kmunke</title>
+      <link>https://www.gutenberg.org/ebooks/78527</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The devil in a nunnery, and other mediaeval tales by Francis Oscar Mann</title>
+      <link>https://www.gutenberg.org/ebooks/78528</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Keeping the lawn by Leonard Barron</title>
+      <link>https://www.gutenberg.org/ebooks/78534</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>ARL Libraries Celebrate National Library Week 2026</title>
       <link>https://www.arl.org/blog/arl-libraries-celebrate-national-library-week-2026/</link>
       <description>
-        <![CDATA[<p>Last Updated on April 23, 2026, 10:46 am ET National Library Week—April 19–25 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...</p>
+        <![CDATA[<p>Last Updated on April 23, 2026, 5:38 pm ET National Library Week—April 19–25 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...</p>
         <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-national-library-week-2026/">ARL Libraries Celebrate National Library Week 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on April 23, 2026, 10:46 am ET National Library Week—April 19–25 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...
+      <source:markdown>Last Updated on April 23, 2026, 5:38 pm ET National Library Week—April 19–25 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...
 
 The post [ARL Libraries Celebrate National Library Week 2026](https://www.arl.org/blog/arl-libraries-celebrate-national-library-week-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48219</guid>
@@ -231,10 +315,10 @@ The post [Guest Post — Moving from Identifier to Identity for Researchers](htt
       <title>ARL Daily Intelligence (April 20–23)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-april-20-23/</link>
       <description>
-        <![CDATA[<p>Last Updated on April 22, 2026, 12:45 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on April 23, 2026, 3:02 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-april-20-23/">ARL Daily Intelligence (April 20–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on April 22, 2026, 12:45 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on April 23, 2026, 3:02 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (April 20–23)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-april-20-23/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48171</guid>
@@ -387,6 +471,14 @@ The post [Research Library Collections and AI](https://www.arl.org/blog/research
 
 The post [Free Law Project is Scanning America’s Case Law; Goal is to Scan 2.5 Million Pages by the Fall](https://www.infodocket.com/2026/04/16/research-tools-free-law-project-is-scanning-americas-case-law-goal-is-to-scan-2-5-million-pages-by-the-fall/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=167934</guid>
+    </item>    <item>
+      <title>Rogue Scholar starts to register blog DOIs</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-starts-to-register-blog-dois/</link>
+      <description>
+        <![CDATA[This week the Rogue Scholar science blog archive started registering DOIs for blogs, in addition to the DOIs for blog posts it registers since 2023.]]>
+      </description>
+      <source:markdown>This week the Rogue Scholar science blog archive started registering DOIs for blogs, in addition to the DOIs for blog posts it registers since 2023.</source:markdown>
+      <guid>cid://69e09998f92a4a0001295283</guid>
     </item>    <item>
       <title>Guest Post — Call to Action: Shaping Our Collective Voice Through Advocacy</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/16/guest-post-call-to-action-shaping-our-collective-voice-through-advocacy/</link>
@@ -898,6 +990,14 @@ The post [Understanding the Changing Terms of US–Sino Research Collaboration](
 The post [Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 3](https://scholarlykitchen.sspnet.org/2026/04/07/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-3/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61809</guid>
     </item>    <item>
+      <title>Rogue Scholar launches a Featured Posts Newsletter</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-launches-a-featured-posts-newsletter/</link>
+      <description>
+        <![CDATA[This week the Rogue Scholar science blog archive is launching a weekly newsletter of featured English-language posts, joining the weekly newsletters of all posts written in German, Spanish or French.]]>
+      </description>
+      <source:markdown>This week the Rogue Scholar science blog archive is launching a weekly newsletter of featured English-language posts, joining the weekly newsletters of all posts written in German, Spanish or French.</source:markdown>
+      <guid>cid://69d4ab71eca1e2000146f3a6</guid>
+    </item>    <item>
       <title>Barnaby Rudge, by Charles Dickens</title>
       <link>https://standardebooks.org/ebooks/charles-dickens/barnaby-rudge</link>
       <description>
@@ -950,84 +1050,6 @@ The post [Guest Post — Knowledge as Civic Infrastructure: A Conversation with 
 
 The post [Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 2](https://scholarlykitchen.sspnet.org/2026/04/03/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-2/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61804</guid>
-    </item>    <item>
-      <title>Short Fiction, by Ring Lardner</title>
-      <link>https://standardebooks.org/ebooks/ring-lardner/short-fiction</link>
-      <description>
-        <![CDATA[A collection of short stories by Ring Lardner.]]>
-      </description>
-      <source:markdown>A collection of short stories by Ring Lardner.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/short-fiction/downloads/ring-lardner_short-fiction.epub?source=feed" length="1293996" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ring-lardner/short-fiction</guid>
-    </item>    <item>
-      <title>Blind Corner, by Dornford Yates</title>
-      <link>https://standardebooks.org/ebooks/dornford-yates/blind-corner</link>
-      <description>
-        <![CDATA[A chance overhearing of an argument leads to a race for long-lost treasure.]]>
-      </description>
-      <source:markdown>A chance overhearing of an argument leads to a race for long-lost treasure.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dornford-yates/blind-corner/downloads/dornford-yates_blind-corner.epub?source=feed" length="830724" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/dornford-yates/blind-corner</guid>
-    </item>    <item>
-      <title>Most College Students Use AI, Even as Institutions Lag on Clear Policies (AI in Higher Education Widespread Use, Unclear Rules Report From Lumina Foundation-Gallup)</title>
-      <link>https://www.infodocket.com/2026/04/02/most-college-students-use-ai-even-as-institutions-lag-on-clear-policies-ai-in-higher-education-widespread-use-unclear-rules-report-from-lumina-foundation-gallup/</link>
-      <description>
-        <![CDATA[<p>From  Lumina Foundation-Gallup Artificial intelligence has become a routine part of college life, even as many institutions struggle to set clear rules for its use. New research from Lumina Foundation and Gallup finds that a majority of college students now use AI tools such as ChatGPT, Microsoft Copilot and Google Gemini for their coursework at [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/04/02/most-college-students-use-ai-even-as-institutions-lag-on-clear-policies-ai-in-higher-education-widespread-use-unclear-rules-report-from-lumina-foundation-gallup/">Most College Students Use AI, Even as Institutions Lag on Clear Policies (AI in Higher Education Widespread Use, Unclear Rules Report From Lumina Foundation-Gallup)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From  Lumina Foundation-Gallup Artificial intelligence has become a routine part of college life, even as many institutions struggle to set clear rules for its use. New research from Lumina Foundation and Gallup finds that a majority of college students now use AI tools such as ChatGPT, Microsoft Copilot and Google Gemini for their coursework at \[…\]
-
-The post [Most College Students Use AI, Even as Institutions Lag on Clear Policies (AI in Higher Education Widespread Use, Unclear Rules Report From Lumina Foundation-Gallup)](https://www.infodocket.com/2026/04/02/most-college-students-use-ai-even-as-institutions-lag-on-clear-policies-ai-in-higher-education-widespread-use-unclear-rules-report-from-lumina-foundation-gallup/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167898</guid>
-    </item>    <item>
-      <title>AI in Action</title>
-      <link>https://sr.ithaka.org/blog/ai-in-action/</link>
-      <description>
-        <![CDATA[<p>Our new initiative, AI in Action, will bring together 15-20 academic libraries starting this May for a 12-month, hands-on cohort to explore the potential for integrating AI into their own processes. The goal is to produce actionable, shared insights that strengthen the sector’s collective capacity for innovation, while staying aligned with library values.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/ai-in-action/">AI in Action</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Our new initiative, AI in Action, will bring together 15-20 academic libraries starting this May for a 12-month, hands-on cohort to explore the potential for integrating AI into their own processes. The goal is to produce actionable, shared insights that strengthen the sector’s collective capacity for innovation, while staying aligned with library values.
-
-The post [AI in Action](https://sr.ithaka.org/blog/ai-in-action/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325339</guid>
-    </item>    <item>
-      <title>March 2026</title>
-      <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/march-2026/</link>
-      <description>
-        <![CDATA[<p>Last Updated on April 2, 2026, 10:48 am ET ARL Public Policy Briefing (March 2026) This month, the US Supreme Court ruled in favor of internet service provider Cox in Cox v....</p>
-        <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/march-2026/">March 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on April 2, 2026, 10:48 am ET ARL Public Policy Briefing (March 2026) This month, the US Supreme Court ruled in favor of internet service provider Cox in Cox v....
-
-The post [March 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/march-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=47991</guid>
-    </item>    <item>
-      <title>Thalia Lightstone: Reflections on Being a Librarian-in-Residence</title>
-      <link>https://blogs.loc.gov/thesignal/2026/04/lightstone-reflections/</link>
-      <description>
-        <![CDATA[Thalia Lightstone joined the Digital Content Processing Section last year as a 2025-26 Librarian-in-Residence. As she wraps up her time at the Library of Congress, Thalia shares about her experiences in Washington, D.C., reflects on lessons learned, and looks forward to the next steps in her career.]]>
-      </description>
-      <source:markdown>Thalia Lightstone joined the Digital Content Processing Section last year as a 2025-26 Librarian-in-Residence. As she wraps up her time at the Library of Congress, Thalia shares about her experiences in Washington, D.C., reflects on lessons learned, and looks forward to the next steps in her career.</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=37203</guid>
-    </item>    <item>
-      <title>Guest Post — Diamond Open Access: A Lifeline for the Monograph?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/04/02/guest-post-diamond-open-access-a-lifeline-for-the-monograph/</link>
-      <description>
-        <![CDATA[<p>Today's guest bloggers ask: Can Diamond OA serve as a genuine lifeline for the scholarly monograph?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/02/guest-post-diamond-open-access-a-lifeline-for-the-monograph/">Guest Post — Diamond Open Access: A Lifeline for the Monograph?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest bloggers ask: Can Diamond OA serve as a genuine lifeline for the scholarly monograph?
-
-The post [Guest Post — Diamond Open Access: A Lifeline for the Monograph?](https://scholarlykitchen.sspnet.org/2026/04/02/guest-post-diamond-open-access-a-lifeline-for-the-monograph/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61784</guid>
-    </item>    <item>
-      <title>How DWeb Camp is Being Built in Berlin</title>
-      <link>https://blog.archive.org/2026/04/02/how-dweb-camp-is-being-built-in-berlin/</link>
-      <description>
-        <![CDATA[At the legendary c-base, technologists, activists, and artists gathered to shape the next chapter of the decentralized web. On a gray February morning in Berlin, people wandered down a dark [&#8230;]]]>
-      </description>
-      <source:markdown>At the legendary c-base, technologists, activists, and artists gathered to shape the next chapter of the decentralized web. On a gray February morning in Berlin, people wandered down a dark \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30234</guid>
     </item>
   </channel>
 </rss>
