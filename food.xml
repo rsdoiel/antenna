@@ -4,10 +4,42 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>24 Apr 26 17:46 -0700</lastBuildDate>
+    <lastBuildDate>25 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>37 Memorial Day Recipes (Mains, Sides, Desserts, and Drinks)</title>
+      <link>https://www.bonappetit.com/gallery/memorial-day-recipes</link>
+      <description>
+        <![CDATA[Like smash burgers, sesame pasta slaw, strawberry roll cake, and more.]]>
+      </description>
+      <source:markdown>Like smash burgers, sesame pasta slaw, strawberry roll cake, and more.</source:markdown>
+      <guid>cid://59233d31b9d2a47ca84421a7</guid>
+    </item>    <item>
+      <title>A Fresh Bouquet Of Coffees Coming In Hot</title>
+      <link>https://sprudge.com/a-fresh-bouquet-of-coffees-coming-in-hot-937758.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=937758</guid>
+    </item>    <item>
+      <title>12 Food Moments to Celebrate The Devil Wears Prada</title>
+      <link>https://www.bonappetit.com/gallery/devil-wears-prada-food-moments-recipes</link>
+      <description>
+        <![CDATA[The devil wears Prada and absolutely does not eat onion bagels.]]>
+      </description>
+      <source:markdown>The devil wears Prada and absolutely does not eat onion bagels.</source:markdown>
+      <guid>cid://69e63ba2ede853199f77c2b6</guid>
+    </item>    <item>
+      <title>The Best New Products at Trader Joe’s: Spring 2026</title>
+      <link>https://www.bonappetit.com/story/trader-joes-new-products-review</link>
+      <description>
+        <![CDATA[Jambalaya, Greek chicken salad, salted caramel mochi, and beyond.]]>
+      </description>
+      <source:markdown>Jambalaya, Greek chicken salad, salted caramel mochi, and beyond.</source:markdown>
+      <guid>cid://69ebd3cacb7cab23d187f8ca</guid>
+    </item>    <item>
       <title>We Tried 7 Brands of Hot Honey and This Is the Swiciest</title>
       <link>https://www.tasteofhome.com/article/best-hot-honey-brands/</link>
       <description>

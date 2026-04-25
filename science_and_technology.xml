@@ -4,10 +4,30 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Apr 26 17:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Apr 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ex-AWS legend explains what enterprises need to make AI actually work</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/</link>
+      <description>
+        <![CDATA[<h4>AI transformation is about people and organization, not technology</h4> <p>Enterprise AI projects go off the rails when companies focus on the technology instead of the people.…</p>]]>
+      </description>
+      <source:markdown>#### AI transformation is about people and organization, not technology
+
+Enterprise AI projects go off the rails when companies focus on the technology instead of the people.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245758</guid>
+    </item>    <item>
+      <title>Crime crew impersonates help desk, abuses Microsoft Teams to steal your data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/</link>
+      <description>
+        <![CDATA[<h4>Coming in cold with custom Snow malware</h4> <p>A previously unknown threat group using tried-and-tested social engineering tactics - Microsoft Teams chat invitations and helpdesk staff impersonation - is also using custom malware in its data-stealing attacks, according to Google&#39;s Threat Intelligence Group.…</p>]]>
+      </description>
+      <source:markdown>#### Coming in cold with custom Snow malware
+
+A previously unknown threat group using tried-and-tested social engineering tactics - Microsoft Teams chat invitations and helpdesk staff impersonation - is also using custom malware in its data-stealing attacks, according to Google&#39;s Threat Intelligence Group.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245809</guid>
+    </item>    <item>
       <title>If 64bit Windows 11 contains a copy of 32bit explorer.exe, could you run it as its shell?</title>
       <link>https://www.osnews.com/story/144829/if-64bit-windows-11-contains-a-copy-of-32bit-explorer-exe-could-you-run-it-as-its-shell/</link>
       <description>
