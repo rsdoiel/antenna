@@ -23,6 +23,7 @@ title: An Antenna
 
 | Collection                                        | Description of Posts                                           | |
 | ---------------------------------                 | -------------------------------------------------------------- | -------------------------------- |
+| [New eBooks Releases](ebooks.html) | New eBooks releases                                       | [RSS](ebooks.xml), [OPML](ebooks.opml) |
 | [Science & Technology](science_and_technology.html) | Science and Technology                                       | [RSS](science_and_technology.xml), [OPML](science_and_technology.opml) |
 | [Retro Computing](retro_computing.html)           | Computer history and systems                                   | [RSS](retro_computing.xml), [OPML](retro_computing.opml) |
 | [Home, Garden & Urban Farm](home.html)            | Home, Garden & Urban blogs and news                            | [RSS](home.xml), [OPML](home.opml) |

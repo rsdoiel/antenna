@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <head>
+        <title>ebooks.md</title>
+        <dateCreated>24 Apr 26 17:55 -0700</dateCreated>
+    </head>
+    <body>
+        <outline text="Project Gutenberg (New Books)" type="rss" xmlUrl="https://www.gutenberg.org/cache/epub/feeds/today.rss" htmlUrl="https://www.gutenberg.org" description="EBooks posted or updated today on Project Gutenberg.&#xA;       This feed is regenerated every night."></outline>
+        <outline text="Standard Books" type="rss" xmlUrl="https://standardebooks.org/feeds/rss/new-releases" htmlUrl="https://standardebooks.org/feeds/rss/new-releases,https://standardebooks.org/feeds/rss/new-releases" description="The 15 latest Standard Ebooks, most-recently-released first." url="https://standardebooks.org/feeds/rss/new-releases"></outline>
+    </body>
+</opml>

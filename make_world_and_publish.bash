@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function build_site() {
-	for LIST in socal_north.md north_america.md pacific.md planet.md columns.md science_and_technology.md retro_computing.md home.md food.md libraries.md small_papers.md journalism.html craft.md writing.md; do
+	for LIST in socal_north.md north_america.md pacific.md planet.md columns.md science_and_technology.md retro_computing.md home.md food.md libraries.md ebooks.md small_papers.md journalism.html craft.md writing.md; do
 		echo ""
 		echo "Harvesting and rendering ${LIST}"
 		echo "----------------------------------------"

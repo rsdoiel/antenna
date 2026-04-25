@@ -11,10 +11,12 @@ title: Library and Archives organizations
 - [SciELO in Perspective](https://blog.scielo.org/en/feed/)
 -  ETH Zurich Research Archives, <https://rc-blog.ethz.ch/en/feed/>, feed no longer available 2025-09-30 RSD (probably the bot abuse we experienced)
 - [Jonny Saunders blog](https://jon-e.net/blog/feed.xml)
-- [Standard Ebooks, new releaases](https://standardebooks.org/feeds/rss/new-releases)
 - [Collections Data blog](https://collectionsasdata.github.io/atom.xml)
-- [Project Gutenberg (New Books)](https://www.gutenberg.org/cache/epub/feeds/today.rss)
+- [Open Library (blog)](https://blog.openlibrary.org/feed/)
 
+# eBooks publishers
+
+- [Standard eBooks blog](https://standardebooks.org/feeds/rss/blog)
 
 # Research Libraries
 

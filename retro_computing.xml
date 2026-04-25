@@ -4,10 +4,19 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>24 Apr 26 17:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Introduction: At Long Last, the Bard]]>
+      </description>
+      <source:markdown>Introduction: At Long Last, the Bard</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6763</guid>
+    </item>    <item>
+      <title>R65 – A late seventies computer built with a KIM-1</title>
       <link>http://retro.hansotten.nl/20787-2/</link>
       <description>
         <![CDATA[R65 &#8211; A late seventies computer built with a KIM-1 by Rene Richarz. An amazing showcase of how far a KIM-1 and Pascal as programming language can go! All information on the R65 and the emulator of this computer on the github archive of Rene Richarz, a work in progress! Including sources and full documentation. [&#8230;]]]>
@@ -941,14 +950,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Brutech, a small Dutch company, made industrial quality microprocessor systems. 6502, 6809, process control. Gerben Voort acquired a 6502 system and made photos of the system. A backplane, the BEM bus, a 6502 based CPU card, a double VIA card, a battery backed up memory card. Read more about Brutech here. See also:KIM-1 connectors: beware \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20562</guid>
-    </item>    <item>
-      <title>KIM-1, what changed in the Revisions?</title>
-      <link>http://retro.hansotten.nl/kim-1-what-changed-in-the-revisions/</link>
-      <description>
-        <![CDATA[I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS [&#8230;]]]>
-      </description>
-      <source:markdown>I know of seven KIM-1 revisions, labeled Rev A-G and the first one unlabeled. Rev C is unknown! What changed between these revisions? Not much. The PCB underwent several changes around the logo area, from KIM-1 MOS to Commodore C-MOS. That happened from Rev A to Rev D, indicating the takeover by Commodore of MOS \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20553</guid>
     </item>
   </channel>
 </rss>

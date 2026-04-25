@@ -4,10 +4,210 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Apr 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>24 Apr 26 17:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>If 64bit Windows 11 contains a copy of 32bit explorer.exe, could you run it as its shell?</title>
+      <link>https://www.osnews.com/story/144829/if-64bit-windows-11-contains-a-copy-of-32bit-explorer-exe-could-you-run-it-as-its-shell/</link>
+      <description>
+        <![CDATA[Raymond Chen published a blog post about how a crappy uninstaller on Windows caused a mysterious spike in the number of Explorer (Windows&#8217; graphical shell) crashes. It turns out the buggy uninstaller caused repeated crashes in the 32bit version of Explorer on 64bit systems, and &#8211; hold on a minute. The how many bits on the what now? The 32-bit version of Explorer exists for backward compatibility with 32-bit programs. This is not the copy of Explorer that is handling your taskbar or desktop or File Explorer windows. So if the 32-bit Explorer is running on a 64-bit system, it’s because some other program is using it to do some dirty work. ↫ Raymond Chen at The Old New Thing So I had no idea that 64bit Windows included a copy of the 32bit Explorer for backwards compatibility. It obviously makes sense, but I just never stopped to think about it. This made me wonder though if you could go nuts and do something really dumb: could you somehow trick 64bit Windows into running this 32bit copy of Explorer as its shell? You&#8217;d be running 32bit Explorer on 64bit Windows using the 32bit WoW64 binaries where you just pulled the 32bit Explorer binary from, which seems like a really nonsensical thing to do. Since there&#8217;s no longer any 32bit builds of Windows 11, you also can&#8217;t just copy over the 32bit Explorer from a 32bit Windows 11 build and achieve the same goal that way, so you&#8217;d really have to go digging around in WoW64 to get 32bit versions. I guess the answer to this question depends on just how complete this copy of 32bit Explorer really is, and if Windows has any defenses or triggers in place to prevent someone from doing something this uselessly stupid. Of course, there&#8217;s no practical reason to do any of this and it makes very little sense, but it might be a fun hacking project. Most likely the Windows experts among you are wondering what kind of utterly deranged new designer drug I&#8217;m on, but I was always told that sometimes, the dumbest questions can lead to the most interesting answers, so here we are.]]>
+      </description>
+      <source:markdown>Raymond Chen published a blog post about how a crappy uninstaller on Windows caused a mysterious spike in the number of Explorer (Windows’ graphical shell) crashes. It turns out the buggy uninstaller caused repeated crashes in the 32bit version of Explorer on 64bit systems, and – hold on a minute. The how many bits on the what now? The 32-bit version of Explorer exists for backward compatibility with 32-bit programs. This is not the copy of Explorer that is handling your taskbar or desktop or File Explorer windows. So if the 32-bit Explorer is running on a 64-bit system, it’s because some other program is using it to do some dirty work. ↫ Raymond Chen at The Old New Thing So I had no idea that 64bit Windows included a copy of the 32bit Explorer for backwards compatibility. It obviously makes sense, but I just never stopped to think about it. This made me wonder though if you could go nuts and do something really dumb: could you somehow trick 64bit Windows into running this 32bit copy of Explorer as its shell? You’d be running 32bit Explorer on 64bit Windows using the 32bit WoW64 binaries where you just pulled the 32bit Explorer binary from, which seems like a really nonsensical thing to do. Since there’s no longer any 32bit builds of Windows 11, you also can’t just copy over the 32bit Explorer from a 32bit Windows 11 build and achieve the same goal that way, so you’d really have to go digging around in WoW64 to get 32bit versions. I guess the answer to this question depends on just how complete this copy of 32bit Explorer really is, and if Windows has any defenses or triggers in place to prevent someone from doing something this uselessly stupid. Of course, there’s no practical reason to do any of this and it makes very little sense, but it might be a fun hacking project. Most likely the Windows experts among you are wondering what kind of utterly deranged new designer drug I’m on, but I was always told that sometimes, the dumbest questions can lead to the most interesting answers, so here we are.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144829</guid>
+    </item>    <item>
+      <title>8087 emulation on 8086 systems</title>
+      <link>https://www.osnews.com/story/144827/8087-emulation-on-8086-systems/</link>
+      <description>
+        <![CDATA[Not too long ago I had a need and an opportunity to re-acquaint myself with the mechanism used for software emulation of the 8087 FPU on 8086/8088 machines. ↫ Michal Necasek Look, when a Michal Necasek article starts out like this, you know you&#8217;re in for a learnin&#8217; ol&#8217; time. The 8087 was a floating-point coprocessor for the 8086 and 8088 processors, since back in those early days, processors did not include an integrated floating-point unit. It wouldn&#8217;t be until the release of the 486DX, in 1989, that Intel would integrate an FPU inside the processor itself, negating the need for a separate chip and socket. Interestingly enough, Intel also released a cut-down version of the 486 with the FPU removed, the 486SX, for which an optional external FPU did exist.]]>
+      </description>
+      <source:markdown>Not too long ago I had a need and an opportunity to re-acquaint myself with the mechanism used for software emulation of the 8087 FPU on 8086/8088 machines. ↫ Michal Necasek Look, when a Michal Necasek article starts out like this, you know you’re in for a learnin’ ol’ time. The 8087 was a floating-point coprocessor for the 8086 and 8088 processors, since back in those early days, processors did not include an integrated floating-point unit. It wouldn’t be until the release of the 486DX, in 1989, that Intel would integrate an FPU inside the processor itself, negating the need for a separate chip and socket. Interestingly enough, Intel also released a cut-down version of the 486 with the FPU removed, the 486SX, for which an optional external FPU did exist.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144827</guid>
+    </item>    <item>
+      <title>DeepSeek&#39;s new models are so efficient they&#39;ll run on a toaster ... by which we mean Huawei&#39;s NPUs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/</link>
+      <description>
+        <![CDATA[<h4>Now available in preview, DeepSeek V4 cuts inference costs to a fraction of R1</h4> <p>Chinese AI darling DeepSeek is back with a new open weights large language model that promises performance to rival the best proprietary American LLMs. Perhaps more importantly, it claims to dramatically reduce inference costs and it extends support for Huawei&#39;s Ascend family of AI accelerators.…</p>]]>
+      </description>
+      <source:markdown>#### Now available in preview, DeepSeek V4 cuts inference costs to a fraction of R1
+
+Chinese AI darling DeepSeek is back with a new open weights large language model that promises performance to rival the best proprietary American LLMs. Perhaps more importantly, it claims to dramatically reduce inference costs and it extends support for Huawei&#39;s Ascend family of AI accelerators.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245808</guid>
+    </item>    <item>
+      <title>State-Licensed Medical Marijuana Has Been Reclassified as a Less-Dangerous Drug. Here&#39;s What That Means</title>
+      <link>https://www.smithsonianmag.com/smart-news/state-licensed-medical-marijuana-has-been-reclassified-as-a-less-dangerous-drug-heres-what-that-means-180988617/</link>
+      <description>
+        <![CDATA[The move should make it easier for researchers to study the substance and give tax breaks to licensed medical marijuana dealers]]>
+      </description>
+      <source:markdown>The move should make it easier for researchers to study the substance and give tax breaks to licensed medical marijuana dealers</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Wm7FKF5aFQVieJ34pWzFqXiyEIo=/420x240/filters:focal(2510x1673:2511x1674)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/70/54701503-e457-4aae-80c8-d76e86942870/marijuana.jpg" length="7626633" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/state-licensed-medical-marijuana-has-been-reclassified-as-a-less-dangerous-drug-heres-what-that-means-180988617/</guid>
+    </item>    <item>
+      <title>The World&#39;s First Museum of A.I. Art Will Open in Los Angeles as the Art World Ponders Questions of Ethics and Sustainability</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-worlds-first-museum-of-ai-art-will-open-in-los-angeles-as-the-art-world-ponders-questions-of-ethics-and-sustainability-180988613/</link>
+      <description>
+        <![CDATA[Dataland's immersive exhibitions, generated with artificial intelligence, will debut to the public on June 20, with an inaugural show about rainforests trained on millions of images of nature]]>
+      </description>
+      <source:markdown>Dataland&#39;s immersive exhibitions, generated with artificial intelligence, will debut to the public on June 20, with an inaugural show about rainforests trained on millions of images of nature</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/S1u3f8VIQum25Jx6gbHMQVvP4YM=/420x240/filters:focal(960x704:961x705)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/8b/eb8b1fbe-966d-4e6c-b4df-145e468ea7aa/building_hero_1-1.jpg" length="1629528" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-worlds-first-museum-of-ai-art-will-open-in-los-angeles-as-the-art-world-ponders-questions-of-ethics-and-sustainability-180988613/</guid>
+    </item>    <item>
+      <title>How hard is it to open a file?</title>
+      <link>https://www.osnews.com/story/144825/how-hard-is-it-to-open-a-file/</link>
+      <description>
+        <![CDATA[Sebastian Wick has a great explanation of why opening files &#8211; programmatically &#8211; is a lot more complex and fraught with dangers than you might think it is. This issue was relevant for Wick as he is one of the lead developers of Flatpak, for which a number of security issues have recently been discovered, and it just so happens that many of these issues dealt with this very topic. The biggest security issue found was a complete sandbox escape, originating from the fact that flatpak run, the command-line tool to start a Flatpak application, accepted path strings, since flatpak run is assumed to be run by a trusted user. The problem lay in a D-Bus service sandboxed applications could use to create subsandboxes, and this service was built around, you guessed it, flatpak run. The issues in question, including this complete sandbox escape, have been addressed and fixed, but they highlight exactly the dangers that can come from opening files. This subsandboxing approach in Flatpak is built on assumptions from fifteen years ago, and times have changed since then. If you&#8217;re a programmer who deals with opening files, you might want to take a look at your own code to see if similar issues exist.]]>
+      </description>
+      <source:markdown>Sebastian Wick has a great explanation of why opening files – programmatically – is a lot more complex and fraught with dangers than you might think it is. This issue was relevant for Wick as he is one of the lead developers of Flatpak, for which a number of security issues have recently been discovered, and it just so happens that many of these issues dealt with this very topic. The biggest security issue found was a complete sandbox escape, originating from the fact that flatpak run, the command-line tool to start a Flatpak application, accepted path strings, since flatpak run is assumed to be run by a trusted user. The problem lay in a D-Bus service sandboxed applications could use to create subsandboxes, and this service was built around, you guessed it, flatpak run. The issues in question, including this complete sandbox escape, have been addressed and fixed, but they highlight exactly the dangers that can come from opening files. This subsandboxing approach in Flatpak is built on assumptions from fifteen years ago, and times have changed since then. If you’re a programmer who deals with opening files, you might want to take a look at your own code to see if similar issues exist.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144825</guid>
+    </item>    <item>
+      <title>AI as a fascist artifact</title>
+      <link>https://www.osnews.com/story/144823/ai-as-a-fascist-artifact/</link>
+      <description>
+        <![CDATA[In that reading „AI“ is a machine for the creation of epistemic injustice and the replacement of truth with what a tech elite wants it to be in order to control the population. This is a Fascist project that not so subtly aligns with Fascism’s totalitarian will to power and control as well as its reliance in replacing reasoning and debate with belief in power and the leader. ↫ Jürgen Geute The purpose of a system is what it does, and what &#8220;AI&#8221; does is stunt users&#8217; own abilities and development and concentrate power and wealth even further in the hands of a very small privileged few &#8211; a privileged few who consistently espouse fascist ideology and promote and implement fascist ideas. Jürgen Geute lays it out in much more detail backed by solid references and concrete examples, but the conclusion is clear. And uncomfortable to many, as such conclusions always are.]]>
+      </description>
+      <source:markdown>In that reading „AI“ is a machine for the creation of epistemic injustice and the replacement of truth with what a tech elite wants it to be in order to control the population. This is a Fascist project that not so subtly aligns with Fascism’s totalitarian will to power and control as well as its reliance in replacing reasoning and debate with belief in power and the leader. ↫ Jürgen Geute The purpose of a system is what it does, and what “AI” does is stunt users’ own abilities and development and concentrate power and wealth even further in the hands of a very small privileged few – a privileged few who consistently espouse fascist ideology and promote and implement fascist ideas. Jürgen Geute lays it out in much more detail backed by solid references and concrete examples, but the conclusion is clear. And uncomfortable to many, as such conclusions always are.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144823</guid>
+    </item>    <item>
+      <title>To Keep the Voyager 1 Spacecraft on Its Interstellar Journey, NASA Turned Off One of Its Few Remaining Instruments</title>
+      <link>https://www.smithsonianmag.com/smart-news/to-keep-the-voyager-1-spacecraft-on-its-interstellar-journey-nasa-turned-off-one-of-its-few-remaining-instruments-180988608/</link>
+      <description>
+        <![CDATA[The probe launched almost 50 years ago and is the farthest human-made object from Earth. Shutting down one of its scientific devices will help it conserve energy and continue traveling toward the edge of the solar system]]>
+      </description>
+      <source:markdown>The probe launched almost 50 years ago and is the farthest human-made object from Earth. Shutting down one of its scientific devices will help it conserve energy and continue traveling toward the edge of the solar system</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PwLP2et_O4UBjgY4lfM_fPLHP-8=/420x240/filters:focal(4000x2286:4001x2287)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/ff/ddfff61b-93b0-41c8-8ea7-d1adc2231888/1_voyager_artist_concept.jpg" length="2113278" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/to-keep-the-voyager-1-spacecraft-on-its-interstellar-journey-nasa-turned-off-one-of-its-few-remaining-instruments-180988608/</guid>
+    </item>    <item>
+      <title>Why Do We Love Movies? This New &#39;Smart&#39; Movie Theater Tracks Viewers&#39; Brain Waves and Heart Rates to Find Out</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-new-smart-movie-theatre-is-tracking-audiences-brain-waves-and-heart-rates-to-create-more-engaging-films-180988614/</link>
+      <description>
+        <![CDATA[Researchers at the University of Bristol are studying the appeal of the cinema-watching experience by turning one theater into a biometric laboratory]]>
+      </description>
+      <source:markdown>Researchers at the University of Bristol are studying the appeal of the cinema-watching experience by turning one theater into a biometric laboratory</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Lhl4eKc6_xizcjZtSmlH3Lhtawk=/420x240/filters:focal(1750x1167:1751x1168)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/d5/23d59582-792e-4521-9c30-401ffb5ab688/smart_cinema_-_audience_2.jpg" length="2131455" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-new-smart-movie-theatre-is-tracking-audiences-brain-waves-and-heart-rates-to-create-more-engaging-films-180988614/</guid>
+    </item>    <item>
+      <title>Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/</link>
+      <description>
+        <![CDATA[<h4>New LTS is here, with more tooling for GPGPU and AI workloads</h4> <p>Ubuntu 26.04 &#34;Resolute Raccoon,&#34; the latest LTS release from Canonical, arrives with GNOME 50, Linux kernel 7.0, and drops the Xorg option from Ubuntu Desktop while still running X11 applications through Xwayland.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### New LTS is here, with more tooling for GPGPU and AI workloads
+
+Ubuntu 26.04 &#34;Resolute Raccoon,&#34; the latest LTS release from Canonical, arrives with GNOME 50, Linux kernel 7.0, and drops the Xorg option from Ubuntu Desktop while still running X11 applications through Xwayland.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245805</guid>
+    </item>    <item>
+      <title>Pentagon wants to water down drone program with autonomous subs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/pentagons_deep_sea_drones/</link>
+      <description>
+        <![CDATA[<h4>What, you didn&#39;t expect autonomous military craft to stay in the sky forever?</h4> <p>Drones: they&#39;re not just for the sky anymore. DARPA is seeking compact deep-ocean autonomous craft developed faster, smaller, and cheaper than today&#39;s full-ocean-depth AUV systems.…</p>]]>
+      </description>
+      <source:markdown>#### What, you didn&#39;t expect autonomous military craft to stay in the sky forever?
+
+Drones: they&#39;re not just for the sky anymore. DARPA is seeking compact deep-ocean autonomous craft developed faster, smaller, and cheaper than today&#39;s full-ocean-depth AUV systems.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245806</guid>
+    </item>    <item>
+      <title>I Am Artemis: Peter Rossoni</title>
+      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/</link>
+      <description>
+        <![CDATA[Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began [&#8230;]]]>
+      </description>
+      <source:markdown>Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=989893</guid>
+    </item>    <item>
+      <title>US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/</link>
+      <description>
+        <![CDATA[<h4>Silicon often from US, but the kit from APAC and elsewhere</h4> <p>America&#39;s telco regulator has clarified its ban on foreign-made routers also includes mobile hotspots and domestic routers that use a 5G cellular connection to the internet.…</p>]]>
+      </description>
+      <source:markdown>#### Silicon often from US, but the kit from APAC and elsewhere
+
+America&#39;s telco regulator has clarified its ban on foreign-made routers also includes mobile hotspots and domestic routers that use a 5G cellular connection to the internet.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245804</guid>
+    </item>    <item>
+      <title>ShinyHunters claim they have cruise giant Carnival&#39;s booty as 7.5M emails surface</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/shinyhunters_claim_cruise_giant_carnivals/</link>
+      <description>
+        <![CDATA[<h4>Leak-site bragging meets breach hunters as Have I Been Pwned flags millions of records</h4> <p>Carnival Corporation, the world&#39;s largest cruise company, is dealing with choppy waters after Have I Been Pwned flagged what it claimed were 7.5 million unique email addresses all allegedly tied to one of its subsidiaries. …</p>]]>
+      </description>
+      <source:markdown>#### Leak-site bragging meets breach hunters as Have I Been Pwned flags millions of records
+
+Carnival Corporation, the world&#39;s largest cruise company, is dealing with choppy waters after Have I Been Pwned flagged what it claimed were 7.5 million unique email addresses all allegedly tied to one of its subsidiaries. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245800</guid>
+    </item>    <item>
+      <title>The Day of the Trifid Nebula</title>
+      <link>https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/</link>
+      <description>
+        <![CDATA[This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s&#160;Hubble Space Telescope in an image released on April 20, 2026. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission&#8217;s&#160;launch&#160;on April 24, are reminiscent of an underwater [&#8230;]]]>
+      </description>
+      <source:markdown>This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s Hubble Space Telescope in an image released on April 20, 2026. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission’s launch on April 24, are reminiscent of an underwater \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=989964</guid>
+    </item>    <item>
+      <title>NASA Astronauts to Answer Questions from Missouri Students</title>
+      <link>https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/</link>
+      <description>
+        <![CDATA[Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 10:50 a.m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel. This [&#8230;]]]>
+      </description>
+      <source:markdown>Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 10:50 a.m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel. This \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=990178</guid>
+    </item>    <item>
+      <title>Governments on high alert after CISA snuffs out Firestarter backdoor on fed network</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/government_cni_on_high_alert/</link>
+      <description>
+        <![CDATA[<h4>Latest in long-running pwning of Cisco kit found in mystery Fed agency</h4> <p>A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts – neither of which disclosed the agency&#39;s name.…</p>]]>
+      </description>
+      <source:markdown>#### Latest in long-running pwning of Cisco kit found in mystery Fed agency
+
+A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts – neither of which disclosed the agency&#39;s name.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245796</guid>
+    </item>    <item>
+      <title>Beavers Are Ecosystem Engineers—and They Might Be Helpful Allies in the Fight Against Human-Caused Climate Change</title>
+      <link>https://www.smithsonianmag.com/smart-news/beavers-are-ecosystem-engineers-and-they-might-be-helpful-allies-in-the-fight-against-human-caused-climate-change-180988609/</link>
+      <description>
+        <![CDATA[New research suggests that wetlands created by the industrious rodents are carbon sinks, meaning they store a lot of heat-trapping carbon dioxide—the human-produced gas largely responsible for today's global warming]]>
+      </description>
+      <source:markdown>New research suggests that wetlands created by the industrious rodents are carbon sinks, meaning they store a lot of heat-trapping carbon dioxide—the human-produced gas largely responsible for today&#39;s global warming</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nadM9ILmV3qyixOdjbW475mJWHY=/420x240/filters:focal(1749x1216:1750x1217)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/a1/4ea1e962-53fb-4b95-aaf6-4b7c4f6088ae/beaver.jpg" length="5533089" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/beavers-are-ecosystem-engineers-and-they-might-be-helpful-allies-in-the-fight-against-human-caused-climate-change-180988609/</guid>
+    </item>    <item>
+      <title>A New Type of Neuroplasticity Rewires the Brain After a Single Experience</title>
+      <link>https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/</link>
+      <description>
+        <![CDATA[“Neurons that fire together, wire together” is not the full story. A novel mechanism explains how the brain can learn across longer timescales.            <p>The post <a href="https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/" target="_blank">A New Type of Neuroplasticity Rewires the Brain After a Single Experience</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>“Neurons that fire together, wire together” is not the full story. A novel mechanism explains how the brain can learn across longer timescales.
+
+The post [A New Type of Neuroplasticity Rewires the Brain After a Single Experience](https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=161225</guid>
+    </item>    <item>
+      <title>More ancient Linux device support faces the chop</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/ancient_linux_drivers_going/</link>
+      <description>
+        <![CDATA[<h4>One way to deal with bug hunting LLMs: ditch the old drivers</h4> <p>One tactic to deal with LLM-powered vulnerability detection is simple – just speed up the removal of old code. If it&#39;s gone, it no longer matters if it&#39;s buggy.…</p>]]>
+      </description>
+      <source:markdown>#### One way to deal with bug hunting LLMs: ditch the old drivers
+
+One tactic to deal with LLM-powered vulnerability detection is simple – just speed up the removal of old code. If it&#39;s gone, it no longer matters if it&#39;s buggy.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245769</guid>
+    </item>    <item>
+      <title>What Killed the Neanderthals? New Research Suggests a Lack of Genetic Diversity May Be Partially to Blame</title>
+      <link>https://www.smithsonianmag.com/smart-news/what-killed-the-neanderthals-new-research-suggests-a-lack-of-genetic-diversity-may-be-partially-to-blame-180988612/</link>
+      <description>
+        <![CDATA[When the climate cooled, the population of Neanderthals shrank. Most that lived between 60,000 and 40,000 years ago were descended from the same lineage and had very similar DNA]]>
+      </description>
+      <source:markdown>When the climate cooled, the population of Neanderthals shrank. Most that lived between 60,000 and 40,000 years ago were descended from the same lineage and had very similar DNA</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vLUmNHFjAwCXMTFeDawZikMgogE=/420x240/filters:focal(2561x1708:2562x1709)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/82/9282d6cf-08c2-454f-a303-3cf02c4eae6c/gettyimages-2017218126.jpg" length="4116462" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/what-killed-the-neanderthals-new-research-suggests-a-lack-of-genetic-diversity-may-be-partially-to-blame-180988612/</guid>
+    </item>    <item>
+      <title>Open Telemetry founder tools up for project graduation party</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/open_telemetry_founder_tools_up/</link>
+      <description>
+        <![CDATA[<h4>We gotta get boring to get graduated</h4> <p><strong>Grafanacon</strong>  The founder of the Open Telemetry project says its maintainers may need to turn to AI tools to get some elements robust enough for the project as a whole to graduate.…</p>]]>
+      </description>
+      <source:markdown>#### We gotta get boring to get graduated
+
+**Grafanacon**  The founder of the Open Telemetry project says its maintainers may need to turn to AI tools to get some elements robust enough for the project as a whole to graduate.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245790</guid>
+    </item>    <item>
       <title>Microsoft tackles quality control issues. Just kidding, it&#39;s encouraging experienced workers to leave</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/microsoft_seeks_quality_improvements_by/</link>
       <description>
@@ -79,9 +279,9 @@ Donald Trump has threatened to whack the UK with a &#34;big tariff&#34; if it do
       <title>In a Graveyard of Shipwrecks Between Europe and Africa, Archaeologists Discovered Vessels Doomed Over Thousands of Years</title>
       <link>https://www.smithsonianmag.com/smart-news/in-a-graveyard-of-shipwrecks-between-europe-and-africa-archaeologists-discovered-vessels-doomed-over-thousands-of-years-180988605/</link>
       <description>
-        <![CDATA[The "harbor" of the Strait of Gibraltar is the final resting place for shipwrecks from Ancient Rome, the Medieval era and World War II, according to a new archaeological survey]]>
+        <![CDATA[The "harbor" of the Strait of Gibraltar is the final resting place for shipwrecks from ancient Rome, the medieval era and World War II, according to a new archaeological survey]]>
       </description>
-      <source:markdown>The &#34;harbor&#34; of the Strait of Gibraltar is the final resting place for shipwrecks from Ancient Rome, the Medieval era and World War II, according to a new archaeological survey</source:markdown>
+      <source:markdown>The &#34;harbor&#34; of the Strait of Gibraltar is the final resting place for shipwrecks from ancient Rome, the medieval era and World War II, according to a new archaeological survey</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5FSLFKG1P_RHpJ58lzCKde7KbG0=/420x240/filters:focal(2885x1896:2886x1897)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/52/a7/52a7674a-5edb-4f0e-9c4b-646dfd41aad6/gibraltar_ships_next_to_the_west_coast_seen_from_the_top_station_of_cable_car_2.jpg" length="14562850" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-graveyard-of-shipwrecks-between-europe-and-africa-archaeologists-discovered-vessels-doomed-over-thousands-of-years-180988605/</guid>
     </item>    <item>
@@ -401,7 +601,7 @@ Datadog has added GPU monitoring to its observability stack, giving AI-hungry or
 The supply crunch gripping the storage market has pushed Everpure – the artist formerly known as Pure Storage – to reassure customers it won&#39;t make things worse.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245775</guid>
     </item>    <item>
-      <title>Cocaine Pollution Seems to Make Salmon Swim Faster and Farther Than Usual. Scientists Don&#39;t Know the Long-Term Consequences</title>
+      <title>Cocaine Pollution Seems to Make Salmon Swim Farther Than Usual. Scientists Don&#39;t Know the Long-Term Consequences</title>
       <link>https://www.smithsonianmag.com/smart-news/cocaine-pollution-seems-to-make-salmon-swim-faster-and-farther-than-usual-scientists-dont-know-the-long-term-consequences-180988600/</link>
       <description>
         <![CDATA[The illegal drug’s main byproduct, benzoylecgonine, caused more robust effects than cocaine itself. Wastewater treatment plants often don't fully process such metabolites, so they are frequently found in bodies of water at higher concentrations than their parent drugs]]>
@@ -928,15 +1128,19 @@ A day after the International Energy Agency (IEA) said the US/Israel/Iran war wa
       <title>Where did our moon come from?</title>
       <link>https://www.npr.org/2026/04/22/nx-s1-5766356/where-did-our-moon-come-from</link>
       <description>
-        <![CDATA[Earth didn’t always have a moon. In the beginning of the solar system, when the planets were still forming, something happened that would change Earth’s night sky forever: The Moon was created! How did it happen? This episode, co-host Regina G. Barber searches for answers with planetary scientists. With co-host Emily Kwong, they discuss how the moon was likely made, how scientists know and what that might mean for where Earth’s water came from.<br/><br/><strong>Check out Regina's reporting on </strong><a href="https://www.npr.org/2024/11/04/1211597144/life-space-moon-alien-oceans-hydrothermal-vents"target="_blank"   ><strong>hydrothermal vents</strong></a><strong>.</strong><br/><br/><em>Interested in more planetary science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Earth didn’t always have a moon. In the beginning of the solar system, when the planets were still forming, something happened that would change Earth’s night sky forever: The Moon was created! <br/><br/>How did it happen? This episode, co-host Regina G. Barber searches for answers with planetary scientists. With co-host Emily Kwong, they discuss how the moon was likely made, how scientists know and what that might mean for where Earth’s water came from.<br/><br/><strong>Check out Regina's reporting on </strong><a href="https://www.npr.org/2024/11/04/1211597144/life-space-moon-alien-oceans-hydrothermal-vents"target="_blank"   ><strong>hydrothermal vents</strong></a><strong>.</strong><br/><br/><em>Interested in more planetary science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>A previous version of this episode mischaracterized a scientific hypothesis. The episode incorrectly said the idea is that hydrothermal vents may have been the origin of water on Earth. In fact, the hypothesis is that life may have come from hydrothermal vents.<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
-      <source:markdown>Earth didn’t always have a moon. In the beginning of the solar system, when the planets were still forming, something happened that would change Earth’s night sky forever: The Moon was created! How did it happen? This episode, co-host Regina G. Barber searches for answers with planetary scientists. With co-host Emily Kwong, they discuss how the moon was likely made, how scientists know and what that might mean for where Earth’s water came from.
+      <source:markdown>Earth didn’t always have a moon. In the beginning of the solar system, when the planets were still forming, something happened that would change Earth’s night sky forever: The Moon was created!
+
+How did it happen? This episode, co-host Regina G. Barber searches for answers with planetary scientists. With co-host Emily Kwong, they discuss how the moon was likely made, how scientists know and what that might mean for where Earth’s water came from.
 
 **Check out Regina&#39;s reporting on** [**hydrothermal vents**](https://www.npr.org/2024/11/04/1211597144/life-space-moon-alien-oceans-hydrothermal-vents) **.**
 
 _Interested in more planetary science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
 _Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+A previous version of this episode mischaracterized a scientific hypothesis. The episode incorrectly said the idea is that hydrothermal vents may have been the origin of water on Earth. In fact, the hypothesis is that life may have come from hydrothermal vents.
 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
@@ -5629,213 +5833,6 @@ PrismML, an AI venture out of Caltech, has released a 1-bit large language model
       </description>
       <source:markdown>This is the first of a series of articles in which you will learn about what may be one of the silliest, most preventable, and most costly mishaps of the 21st century, where Microsoft all but lost OpenAI, its largest customer, and the trust of the US government. ↫ Axel Rietschin It won’t take long into this series of articles before you start wondering how anyone manages to ship anything at Microsoft. If even half of this is accurate, this company should be placed under some sort of external oversight.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=144729</guid>
-    </item>    <item>
-      <title>Trump wants to take a battle axe to CISA again and slash $707M from budget</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/</link>
-      <description>
-        <![CDATA[<h4>Ex-CISA official tells The Reg: &#39;this would weaken the system for managing cyber risk&#39;</h4> <p>The US Cybersecurity and Infrastructure Security Agency&#39;s budget will see yet another deep cut if Congress approves President Trump&#39;s proposal to slash CISA&#39;s spending by $707 million in fiscal year 2027.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Ex-CISA official tells The Reg: &#39;this would weaken the system for managing cyber risk&#39;
-
-The US Cybersecurity and Infrastructure Security Agency&#39;s budget will see yet another deep cut if Congress approves President Trump&#39;s proposal to slash CISA&#39;s spending by $707 million in fiscal year 2027.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245448</guid>
-    </item>    <item>
-      <title>NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch</title>
-      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/</link>
-      <description>
-        <![CDATA[NASA, Northrop Grumman, and SpaceX are targeting no earlier than 8:49 a.m. EDT on Wednesday, April 8, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space [&#8230;]]]>
-      </description>
-      <source:markdown>NASA, Northrop Grumman, and SpaceX are targeting no earlier than 8:49 a.m. EDT on Wednesday, April 8, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=980794</guid>
-    </item>    <item>
-      <title>Netflix – yes, Netflix – jumps on the AI bandwagon with video editor</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/netflix_video_ai/</link>
-      <description>
-        <![CDATA[<h4>Video-language model revises how objects interact when things get removed from a scene</h4> <p>A new Netflix model promises to rewrite the way we make movies. Just imagine this. As the director of the multi-million dollar epic Car Crash III: Suddenest Impact, you&#39;ve just finished filming the finale where your star, Cruz Control, drives straight into an onrushing semi.…</p>]]>
-      </description>
-      <source:markdown>#### Video-language model revises how objects interact when things get removed from a scene
-
-A new Netflix model promises to rewrite the way we make movies. Just imagine this. As the director of the multi-million dollar epic Car Crash III: Suddenest Impact, you&#39;ve just finished filming the finale where your star, Cruz Control, drives straight into an onrushing semi.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245447</guid>
-    </item>    <item>
-      <title>Artemis Astronauts Overcome Toilet Trouble and Officially Head Toward the Moon</title>
-      <link>https://www.smithsonianmag.com/smart-news/artemis-astronauts-overcome-toilet-trouble-and-officially-head-toward-the-moon-180988483/</link>
-      <description>
-        <![CDATA[Houston, we have a potty problem]]>
-      </description>
-      <source:markdown>Houston, we have a potty problem</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ajFDIax1aimZdqxfLCdK9gwWH8Q=/420x240/filters:focal(1920x1170:1921x1171)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/6f/ed6f5a1d-b1c7-429d-b1d2-5b94a12426bf/3840px-artemis_ii_launch_nhq202604010307.jpg" length="1125335" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/artemis-astronauts-overcome-toilet-trouble-and-officially-head-toward-the-moon-180988483/</guid>
-    </item>    <item>
-      <title>Big-endian testing with QEMU</title>
-      <link>https://www.osnews.com/story/144727/big-endian-testing-with-qemu/</link>
-      <description>
-        <![CDATA[I assume I don&#8217;t have to explain the difference between big-endian and little-endian systems to the average OSNews reader, and while most systems are either dual-endian or (most likely) little-endian, it&#8217;s still good practice to make sure your code works on both. If you don&#8217;t have a big-endian system, though, how do you do that? When programming, it is still important to write code that runs correctly on systems with either byte order (see for example The byte order fallacy). But without access to a big-endian machine, how does one test it? QEMU provides a convenient solution. With its user mode emulation we can easily run a binary on an emulated big-endian system, and we can use GCC to cross-compile to that system. ↫ Hans Wennborg If you want to make sure your code isn&#8217;t arbitrarily restricted to little-endian, running a few tests this way is worth it.]]>
-      </description>
-      <source:markdown>I assume I don’t have to explain the difference between big-endian and little-endian systems to the average OSNews reader, and while most systems are either dual-endian or (most likely) little-endian, it’s still good practice to make sure your code works on both. If you don’t have a big-endian system, though, how do you do that? When programming, it is still important to write code that runs correctly on systems with either byte order (see for example The byte order fallacy). But without access to a big-endian machine, how does one test it? QEMU provides a convenient solution. With its user mode emulation we can easily run a binary on an emulated big-endian system, and we can use GCC to cross-compile to that system. ↫ Hans Wennborg If you want to make sure your code isn’t arbitrarily restricted to little-endian, running a few tests this way is worth it.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144727</guid>
-    </item>    <item>
-      <title>Despite Their Tiny Brains, Bumblebees Have a Surprising Sense of Rhythm, According to a New Study by Neuroscientists</title>
-      <link>https://www.smithsonianmag.com/smart-news/bumble-bees-have-a-surprising-sense-of-rhythm-despite-their-tiny-brains-180988481/</link>
-      <description>
-        <![CDATA[By speeding up the tempo of alternating flashing lights, the scientists were able to demonstrate yet another example of the small insect's remarkable mind]]>
-      </description>
-      <source:markdown>By speeding up the tempo of alternating flashing lights, the scientists were able to demonstrate yet another example of the small insect&#39;s remarkable mind</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-JmbVPO0BqjS9s3XCRr9tKQALlw=/420x240/filters:focal(400x310:401x311)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/62/63623770-2418-4dae-a0f7-c9713b343cc3/32539693186_7e27b3b732_c.jpg" length="173059" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/bumble-bees-have-a-surprising-sense-of-rhythm-despite-their-tiny-brains-180988481/</guid>
-    </item>    <item>
-      <title>The World&#39;s Longest Outdoor Escalator Just Opened in China. Riding the 3,000-Foot-Long System to the Top Takes More Than 20 Minutes</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-worlds-longest-outdoor-escalator-just-opened-in-china-riding-the-3000-foot-long-system-to-the-top-takes-more-than-20-minutes-180988468/</link>
-      <description>
-        <![CDATA[The new "Goddess" escalator in Wushan County features 21 individual escalators and 8 elevators. The modular design carries riders up 800 feet in elevation]]>
-      </description>
-      <source:markdown>The new &#34;Goddess&#34; escalator in Wushan County features 21 individual escalators and 8 elevators. The modular design carries riders up 800 feet in elevation</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2bTjYa6Hcr5NywHxicil1WkMjUQ=/420x240/filters:focal(2432x1644:2433x1645)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/7b/727bef6f-59bd-44dc-a2e6-b1dcd8b15d16/gettyimages-2261701300.jpeg" length="13900759" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-worlds-longest-outdoor-escalator-just-opened-in-china-riding-the-3000-foot-long-system-to-the-top-takes-more-than-20-minutes-180988468/</guid>
-    </item>    <item>
-      <title>Rock Art Suggests the Tasmanian Tiger May Have Survived on Mainland Australia Longer Than Previously Thought</title>
-      <link>https://www.smithsonianmag.com/smart-news/rock-art-suggests-the-tasmanian-tiger-may-have-survived-on-mainland-australia-longer-than-previously-thought-180988472/</link>
-      <description>
-        <![CDATA[Archaeologists think some of the paintings may be less than 1,000 years old, even though the animals were thought to have disappeared from the continent roughly 3,000 years ago]]>
-      </description>
-      <source:markdown>Archaeologists think some of the paintings may be less than 1,000 years old, even though the animals were thought to have disappeared from the continent roughly 3,000 years ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/952oSrJqKbKX8tQ2RiBM_eS68Fg=/420x240/filters:focal(2267x1447:2268x1448)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/63/44639f11-096b-401d-af4c-6fa6db0f4572/gettyimages-1753400523.jpg" length="4420045" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/rock-art-suggests-the-tasmanian-tiger-may-have-survived-on-mainland-australia-longer-than-previously-thought-180988472/</guid>
-    </item>    <item>
-      <title>Meet Domino, a Tiny, Bumpy Fish Making a Splash in Chicago</title>
-      <link>https://www.smithsonianmag.com/smart-news/meet-domino-a-tiny-bumpy-fish-making-a-splash-in-chicago-180988482/</link>
-      <description>
-        <![CDATA[The warty frogfish, also known as a clown anglerfish, is believed to be the first of its kind born and raised in captivity]]>
-      </description>
-      <source:markdown>The warty frogfish, also known as a clown anglerfish, is believed to be the first of its kind born and raised in captivity</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2YB10LAw99zN9cEqKN6e5aNPMsI=/420x240/filters:focal(1316x877:1317x878)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/f2/39f2e882-14d6-42ad-be11-39ea1cc2b84c/165a9147_hpr_1.jpg" length="358649" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-domino-a-tiny-bumpy-fish-making-a-splash-in-chicago-180988482/</guid>
-    </item>    <item>
-      <title>Meet NASA’s New Artemis II Science Officers</title>
-      <link>https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/</link>
-      <description>
-        <![CDATA[NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.]]>
-      </description>
-      <source:markdown>NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/</guid>
-    </item>    <item>
-      <title>The Titanic&#39;s Wealthiest Victim Was Carrying a Gold Pocket Watch When He Died. Now, It Could Sell for $500,000 at Auction</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-titanics-wealthiest-victim-was-carrying-a-gold-pocket-watch-when-he-died-now-it-could-sell-for-500000-at-auction-180988475/</link>
-      <description>
-        <![CDATA[John Jacob Astor IV was returning from his honeymoon with his wife, who survived the 1912 disaster. His pocket watch and gold pencil case are going up for sale this month]]>
-      </description>
-      <source:markdown>John Jacob Astor IV was returning from his honeymoon with his wife, who survived the 1912 disaster. His pocket watch and gold pencil case are going up for sale this month</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R7th3t-PklEGuHeNbXQV4hjk_JQ=/420x240/filters:focal(1274x849:1275x850)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/3e/9c3e0e12-6b9d-4020-8a7b-4f5153405cbb/freeman_auction.jpeg" length="1003103" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-titanics-wealthiest-victim-was-carrying-a-gold-pocket-watch-when-he-died-now-it-could-sell-for-500000-at-auction-180988475/</guid>
-    </item>    <item>
-      <title>NHS staff resist using Palantir software</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/nhs_staff_against_palantir/</link>
-      <description>
-        <![CDATA[<h4>Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much</h4> <p>Palantir&#39;s software was brought in to help NHS England improve care and cut delays, but new reports suggest some staff are resisting using it over ethical, privacy, and trust concerns.…</p>]]>
-      </description>
-      <source:markdown>#### Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
-
-Palantir&#39;s software was brought in to help NHS England improve care and cut delays, but new reports suggest some staff are resisting using it over ethical, privacy, and trust concerns.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245445</guid>
-    </item>    <item>
-      <title>Virgil I. “Gus” Grissom</title>
-      <link>https://www.nasa.gov/image-article/virgil-i-gus-grissom/</link>
-      <description>
-        <![CDATA[Today marks the 100th anniversary of the birth of Virgil I. &#8220;Gus&#8221; Grissom, born April 3, 1926, in Mitchell, Indiana. As one of NASA&#8217;s first seven astronauts, he became America&#8217;s second astronaut to fly in space when he launched aboard the Liberty Bell 7 spacecraft on July 21, 1961, just weeks after Alan Shepard&#8217;s historic [&#8230;]]]>
-      </description>
-      <source:markdown>Today marks the 100th anniversary of the birth of Virgil I. “Gus” Grissom, born April 3, 1926, in Mitchell, Indiana. As one of NASA’s first seven astronauts, he became America’s second astronaut to fly in space when he launched aboard the Liberty Bell 7 spacecraft on July 21, 1961, just weeks after Alan Shepard’s historic \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=980684</guid>
-    </item>    <item>
-      <title>New Advances Bring the Era of Quantum Computers Closer Than Ever</title>
-      <link>https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/</link>
-      <description>
-        <![CDATA[Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.            <p>The post <a href="https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/" target="_blank">New Advances Bring the Era of Quantum Computers Closer Than Ever</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.
-
-The post [New Advances Bring the Era of Quantum Computers Closer Than Ever](https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=160668</guid>
-    </item>    <item>
-      <title>Are These the Earliest Known Dice in the World? Native Americans May Have Used Them to Play Games of Chance More Than 12,000 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/are-these-the-earliest-known-dice-in-the-world-native-americans-may-have-used-them-to-play-games-of-chance-more-than-12000-years-ago-180988479/</link>
-      <description>
-        <![CDATA[A new study suggests that humans were playing with probability during the Ice Age—and that dice were invented 6,000 years earlier than previously thought]]>
-      </description>
-      <source:markdown>A new study suggests that humans were playing with probability during the Ice Age—and that dice were invented 6,000 years earlier than previously thought</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4a2XSvi7NvHAhMpv9HIut-nPBDE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/8e/858e7b42-8c23-49e9-af0a-a56f193bafd4/dice.jpg" length="174845" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/are-these-the-earliest-known-dice-in-the-world-native-americans-may-have-used-them-to-play-games-of-chance-more-than-12000-years-ago-180988479/</guid>
-    </item>    <item>
-      <title>An Astronaut&#39;s Sudden Inability to Speak Prompted the ISS&#39;s First Medical Evacuation. Doctors Still Don&#39;t Know What Caused the Issue</title>
-      <link>https://www.smithsonianmag.com/smart-news/an-astronauts-sudden-inability-to-speak-prompted-the-isss-first-medical-evacuation-doctors-still-dont-know-what-caused-the-issue-180988471/</link>
-      <description>
-        <![CDATA[The individual who fell ill, NASA's Mike Fincke, says the medical team is almost certain that the issue was related to being in space]]>
-      </description>
-      <source:markdown>The individual who fell ill, NASA&#39;s Mike Fincke, says the medical team is almost certain that the issue was related to being in space</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ICZrgrtl0Fx7Zeoa9iMwz2bZgsg=/420x240/filters:focal(960x603:961x604)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/e7/e3e7ed3e-ca57-4728-9d04-ee8a0d5b6d0f/nhq202601150003large.jpg" length="257115" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/an-astronauts-sudden-inability-to-speak-prompted-the-isss-first-medical-evacuation-doctors-still-dont-know-what-caused-the-issue-180988471/</guid>
-    </item>    <item>
-      <title>Hello, World</title>
-      <link>https://www.nasa.gov/image-article/hello-world/</link>
-      <description>
-        <![CDATA[NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft&#8217;s window after completing the translunar injection burn. There are two auroras (top right and bottom left) and zodiacal light (bottom right) is visible as the Earth eclipses the Sun. This and another photo of Earth are the first [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft’s window after completing the translunar injection burn. There are two auroras (top right and bottom left) and zodiacal light (bottom right) is visible as the Earth eclipses the Sun. This and another photo of Earth are the first \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=980637</guid>
-    </item>    <item>
-      <title>When a billboard survives the wind, but not the boot</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/when_a_billboard_survives_the/</link>
-      <description>
-        <![CDATA[<h4>This GRUB is not an advert for some tasty fried food</h4> <p><strong>Bork!Bork!Bork!</strong>  It&#39;s one thing to bare your undercarriage in private. It&#39;s a whole other thing to do so on the side of a road, risking the possibility that passing drivers will question your Linux competence.…</p>]]>
-      </description>
-      <source:markdown>#### This GRUB is not an advert for some tasty fried food
-
-**Bork!Bork!Bork!**  It&#39;s one thing to bare your undercarriage in private. It&#39;s a whole other thing to do so on the side of a road, risking the possibility that passing drivers will question your Linux competence.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245376</guid>
-    </item>    <item>
-      <title>Never had the flu? Scientists may know why</title>
-      <link>https://www.npr.org/2026/04/03/nx-s1-5763891/flu-resistance-peptide-sick-antiviral</link>
-      <description>
-        <![CDATA[Scientists estimate somewhere between 5%-35% of people do not get sick from the flu despite being exposed to the virus that causes it. Now, researchers may have figured out why. The team looked at mouthwash samples from 19 healthcare workers who, despite frequent contact with infected patients, report never getting flu symptoms. Today on Short Wave, we talk about how what they found could help scientists develop treatments and strategies to protect people who do get the flu. <br/><br/><strong>If you liked this episode, check out our show on </strong><a href="https://lnk.to/lyKF9y"target="_blank"   ><strong>an effort to map the entire immune system</strong></a><strong>.</strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Scientists estimate somewhere between 5%-35% of people do not get sick from the flu despite being exposed to the virus that causes it. Now, researchers may have figured out why. The team looked at mouthwash samples from 19 healthcare workers who, despite frequent contact with infected patients, report never getting flu symptoms. Today on Short Wave, we talk about how what they found could help scientists develop treatments and strategies to protect people who do get the flu.
-
-**If you liked this episode, check out our show on** [**an effort to map the entire immune system**](https://lnk.to/lyKF9y) **.**
-
-_Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/bd5fdd0f-424d-4bb8-9cc0-9a568c66a8c4/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=bd5fdd0f-424d-4bb8-9cc0-9a568c66a8c4&feed=F0qJcgXZ&t=podcast&e=nx-s1-5763891&p=510351&d=613&size=9823339" length="9823339" type="audio/mpeg" />
-      <guid>cid://08d68c3d-89a7-45b4-a1e4-bfd0382ef647</guid>
-    </item>    <item>
-      <title>Contractor quaffed his way through Y2K compliance while the client scowled</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/03/on_call/</link>
-      <description>
-        <![CDATA[<h4>Discovered once last bug, and that briefcases can hold more beer than you might imagine</h4> <p><strong>On Call Y2k</strong>  Easter means today is a holiday in much of the <em>Reg</em>-reading world, but that won&#39;t stop us from delivering another instalment of On Call – the reader contributed column that shares your tech support stories.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Discovered once last bug, and that briefcases can hold more beer than you might imagine
-
-**On Call Y2k**  Easter means today is a holiday in much of the _Reg_-reading world, but that won&#39;t stop us from delivering another instalment of On Call – the reader contributed column that shares your tech support stories.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245386</guid>
-    </item>    <item>
-      <title>Barents Sea Tied to Low Arctic Sea Ice</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/</link>
-      <description>
-        <![CDATA[Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.]]>
-      </description>
-      <source:markdown>Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/</guid>
-    </item>    <item>
-      <title>NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon</title>
-      <link>https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/</link>
-      <description>
-        <![CDATA[For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection burn, Orion and its crew of [&#8230;]]]>
-      </description>
-      <source:markdown>For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection burn, Orion and its crew of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=980592</guid>
     </item>
   </channel>
 </rss>

@@ -139,6 +139,14 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: sacbee.db
+    - title: ebooks.md
+      link: ebooks.xml
+      file: ebooks.md
+      generator: home_page.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: ebooks.db
 chunksize: 0
 defaultfreq: ""
 defaultpri: ""
