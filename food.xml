@@ -4,10 +4,27 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>25 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>26 Apr 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cinco de Mayo Recipes</title>
+      <link>https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/05/Cinco-de-Mayo-Recipes.jpg"/></div>
+        <p>The definitive collection of the best Mexican style recipes to to celebrate Cinco de Mayo! Quick and easy Mexican recipes from appetizers to meals, breakfasts, desserts and everything in between, that can be made at home! Cinco de Mayo is right around the corner! Cinco de Mayo is a day celebrated in both the US...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/">Cinco de Mayo Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2018/05/Cinco-de-Mayo-Recipes.jpg)
+
+The definitive collection of the best Mexican style recipes to to celebrate Cinco de Mayo! Quick and easy Mexican recipes from appetizers to meals, breakfasts, desserts and everything in between, that can be made at home! Cinco de Mayo is right around the corner! Cinco de Mayo is a day celebrated in both the US...
+
+[Read On →](https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/)
+
+The post [Cinco de Mayo Recipes](https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/2018/05/01/41-recipes-for-cinco-de-mayo/</guid>
+    </item>    <item>
       <title>37 Memorial Day Recipes (Mains, Sides, Desserts, and Drinks)</title>
       <link>https://www.bonappetit.com/gallery/memorial-day-recipes</link>
       <description>
@@ -1880,14 +1897,6 @@ The post [The Best Coffee Subscriptions in 2026](https://www.tasteofhome.com/col
       <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
       <guid>cid://https://sprudge.com/?p=893613</guid>
     </item>    <item>
-      <title>Smashed Asparagus Salad</title>
-      <link>https://www.bonappetit.com/recipe/smashed-asparagus-salad</link>
-      <description>
-        <![CDATA[Whack raw asparagus with a rolling pin, then douse it in a lemony vinaigrette.]]>
-      </description>
-      <source:markdown>Whack raw asparagus with a rolling pin, then douse it in a lemony vinaigrette.</source:markdown>
-      <guid>cid://69d518b32eeda11e17f386b1</guid>
-    </item>    <item>
       <title>Quintessential Quinoa Recipes</title>
       <link>https://www.closetcooking.com/35-quinoa-recipes/</link>
       <description>
@@ -1904,6 +1913,14 @@ A collection of the most quintessential quinoa recipes! These quick and easy rec
 
 The post [Quintessential Quinoa Recipes](https://www.closetcooking.com/35-quinoa-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2018/03/04/35-quinoa-recipes/</guid>
+    </item>    <item>
+      <title>Smashed Asparagus Salad</title>
+      <link>https://www.bonappetit.com/recipe/smashed-asparagus-salad</link>
+      <description>
+        <![CDATA[Whack raw asparagus with a rolling pin, then douse it in a lemony vinaigrette.]]>
+      </description>
+      <source:markdown>Whack raw asparagus with a rolling pin, then douse it in a lemony vinaigrette.</source:markdown>
+      <guid>cid://69d518b32eeda11e17f386b1</guid>
     </item>    <item>
       <title>Can Raw Asparagus Be Delicious? Apparently Yes</title>
       <link>https://www.bonappetit.com/story/a-delicious-raw-asparagus-salad</link>
@@ -2857,14 +2874,6 @@ The post [Easter Leftovers Recipes](https://www.closetcooking.com/easter-leftove
       </description>
       <source:markdown>Like spring carbonara and samosa-dillas.</source:markdown>
       <guid>cid://69cd66f1f87c492ff2ad80a1</guid>
-    </item>    <item>
-      <title>I Love The Smell Of Coffee Gear In The Morning</title>
-      <link>https://sprudge.com/i-love-the-smell-of-coffee-gear-in-the-morning-870280.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=870280</guid>
     </item>
   </channel>
 </rss>

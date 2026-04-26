@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>25 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>26 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The King is in his counting house – in Silver River Kingdom</title>
+      <link>https://www.riscository.com/2026/silver-river-kingdom-released/</link>
+      <description>
+        <![CDATA[Initially released at the RISC OS North show last month, the latest title from AMCOG Games has now been made more widely available. Silver River Kingdom can now be purchased via !Store, priced at £14.99. Anyone who purchased the game at the show can &#8211; and should, to ensure they have the most up to date version &#8211; download the game free of charge from !Store, by using the download code found in the packaging; just input the code in the &#8220;Special instructions, promo code, etc.&#8221; field in the application.&#8230;]]>
+      </description>
+      <source:markdown>Initially released at the RISC OS North show last month, the latest title from AMCOG Games has now been made more widely available. Silver River Kingdom can now be purchased via !Store, priced at £14.99. Anyone who purchased the game at the show can – and should, to ensure they have the most up to date version – download the game free of charge from !Store, by using the download code found in the packaging; just input the code in the “Special instructions, promo code, etc.” field in the application.…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10940</guid>
+    </item>    <item>
+      <title>b.log 2026/04/25 - Pineapple does NOT belong on pizza, Stapler!, The fake 1MHz bus, The 6821 PIA - the fly in the ointment, Rogue state, Beads, Be nice to the fairies.</title>
+      <link>https://heyrick.eu/blog/entry/20260425</link>
+      <description>
+        <![CDATA[Pineapple does NOT belong on pizza, Stapler!, The fake 1MHz bus, The 6821 PIA - the fly in the ointment, Rogue state, Beads, Be nice to the fairies.]]>
+      </description>
+      <source:markdown>Pineapple does NOT belong on pizza, Stapler!, The fake 1MHz bus, The 6821 PIA - the fly in the ointment, Rogue state, Beads, Be nice to the fairies.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260425</guid>
+    </item>    <item>
       <title>This Week on The Analog Antiquarian</title>
       <link>https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</link>
       <description>
@@ -934,22 +950,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>The Fairy and the Forest.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260405</guid>
-    </item>    <item>
-      <title>KIM-1 case</title>
-      <link>http://retro.hansotten.nl/kim-1-case/</link>
-      <description>
-        <![CDATA[The KIM-1 came from MOS Technology and Commodore without a case or power supply. So you either build your own housing or looked at what other firms sold for the KIM-1. There was a lot on offer, mostly targeted at system expansion with large cases. One of the cases you saw quite often was this [&#8230;]]]>
-      </description>
-      <source:markdown>The KIM-1 came from MOS Technology and Commodore without a case or power supply. So you either build your own housing or looked at what other firms sold for the KIM-1. There was a lot on offer, mostly targeted at system expansion with large cases. One of the cases you saw quite often was this \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20576</guid>
-    </item>    <item>
-      <title>B.E.M. photos made by Gerben Voort</title>
-      <link>http://retro.hansotten.nl/bem-photos-made-by-gerben-voort-added/</link>
-      <description>
-        <![CDATA[Brutech, a small Dutch company, made industrial quality microprocessor systems. 6502, 6809, process control. Gerben Voort acquired a 6502 system and made photos of the system. A backplane, the BEM bus, a 6502 based CPU card, a double VIA card, a battery backed up memory card. Read more about Brutech here. See also:KIM-1 connectors: beware [&#8230;]]]>
-      </description>
-      <source:markdown>Brutech, a small Dutch company, made industrial quality microprocessor systems. 6502, 6809, process control. Gerben Voort acquired a 6502 system and made photos of the system. A backplane, the BEM bus, a 6502 based CPU card, a double VIA card, a battery backed up memory card. Read more about Brutech here. See also:KIM-1 connectors: beware \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20562</guid>
     </item>
   </channel>
 </rss>

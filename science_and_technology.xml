@@ -4,10 +4,30 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Apr 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>26 Apr 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Go straight to sell! Windows second-chance setup hawks Microsoft services at IT&#39;s expense</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/26/windows_second_chance_setup/</link>
+      <description>
+        <![CDATA[<h4>The OS trying to upsell you subscriptions is more than just an annoyance</h4> <p><strong>opinion</strong>  You’ve had your laptop for months, and you’ve always made sure it installed Microsoft updates. Then one day you boot up, and Windows 11 greets you with a confusing message: “You’re almost done setting up your PC.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### The OS trying to upsell you subscriptions is more than just an annoyance
+
+**opinion**  You’ve had your laptop for months, and you’ve always made sure it installed Microsoft updates. Then one day you boot up, and Windows 11 greets you with a confusing message: “You’re almost done setting up your PC.”…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245802</guid>
+    </item>    <item>
+      <title>Hot take: AI&#39;s not going to kill open source code security</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/</link>
+      <description>
+        <![CDATA[<h4>Cal.com considers AGPL a license to drill, but not everyone feels that way</h4> <p><strong>Opinion</strong>  Cal.com has closed its commercial codebase, abandoning years of AGPL-3.0 licensing in a move that has alarmed the developer community that helped build it and sent ripples through the broader open source world.…</p>]]>
+      </description>
+      <source:markdown>#### Cal.com considers AGPL a license to drill, but not everyone feels that way
+
+**Opinion**  Cal.com has closed its commercial codebase, abandoning years of AGPL-3.0 licensing in a move that has alarmed the developer community that helped build it and sent ripples through the broader open source world.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245672</guid>
+    </item>    <item>
       <title>Ex-AWS legend explains what enterprises need to make AI actually work</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/</link>
       <description>
@@ -5775,84 +5795,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 If you thought Nvidia&#39;s GB200 rack systems were big, CEO Jensen Huang is just getting started. At GTC last month, the world&#39;s most valuable company revealed plans to use photonic interconnects to pack more than a thousand GPUs into a single mammoth system by 2028.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245449</guid>
-    </item>    <item>
-      <title>NASA Answers Your Most Pressing Artemis II Questions</title>
-      <link>https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/</link>
-      <description>
-        <![CDATA[Editor&#8217;s Note: This article was updated at 5:50 p.m. EDT on Monday, April 6, 2026, to update the times for lunar flyby activities. Editor&#8217;s Note: This article was updated at 1:40 p.m. EDT on Sunday, April 5, 2026, to correct the time for the distance record, and adjust other times for lunar flyby activities. The [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s Note: This article was updated at 5:50 p.m. EDT on Monday, April 6, 2026, to update the times for lunar flyby activities. Editor’s Note: This article was updated at 1:40 p.m. EDT on Sunday, April 5, 2026, to correct the time for the distance record, and adjust other times for lunar flyby activities. The \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=981041</guid>
-    </item>    <item>
-      <title>Illuminated in Orion</title>
-      <link>https://www.nasa.gov/image-article/illuminated-in-orion/</link>
-      <description>
-        <![CDATA[NASA astronaut Christina Koch reads on a tablet in the dimly lit Orion crew capsule in this April 3, 2026, photo. To the right of the image&#8217;s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion&#8217;s windows. Lights are turned off to avoid glare on the [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Christina Koch reads on a tablet in the dimly lit Orion crew capsule in this April 3, 2026, photo. To the right of the image’s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion’s windows. Lights are turned off to avoid glare on the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=980978</guid>
-    </item>    <item>
-      <title>AI will make anyone a 10x programmer, but with 10x the cleanup</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/04/all_things_ai_conference/</link>
-      <description>
-        <![CDATA[<h4>Agents to check the work of the agents</h4> <p><strong>All Things AI</strong>  AI is easy to use, but not quite as easy as just barking &#34;Alexa! Make me an e-commerce site.&#34; And, no, adding &#34;DON&#39;T HALLUCINATE&#34; to the instruction loop won&#39;t help.…</p>]]>
-      </description>
-      <source:markdown>#### Agents to check the work of the agents
-
-**All Things AI**  AI is easy to use, but not quite as easy as just barking &#34;Alexa! Make me an e-commerce site.&#34; And, no, adding &#34;DON&#39;T HALLUCINATE&#34; to the instruction loop won&#39;t help.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245428</guid>
-    </item>    <item>
-      <title>Ex-Microsoft engineer believes Azure problems stem from talent exodus</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/04/azure_talent_exodus/</link>
-      <description>
-        <![CDATA[<h4>The cloud service&#39;s woes reflect a crisis made worse by AI – under-investment in people</h4> <p>In 2024, federal cybersecurity evaluators reportedly dismissed Microsoft 365 Government Community Cloud High (GCC High) as garbage, although they used a more colorful term. To understand why, it helps to consider the history of the underlying Azure infrastructure.…</p>]]>
-      </description>
-      <source:markdown>#### The cloud service&#39;s woes reflect a crisis made worse by AI – under-investment in people
-
-In 2024, federal cybersecurity evaluators reportedly dismissed Microsoft 365 Government Community Cloud High (GCC High) as garbage, although they used a more colorful term. To understand why, it helps to consider the history of the underlying Azure infrastructure.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245450</guid>
-    </item>    <item>
-      <title>PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/04/prismml_1bit_llm/</link>
-      <description>
-        <![CDATA[<h4>Bonsai 8B model is competitive with other 8B models but 14x smaller and 5x more energy efficient</h4> <p>PrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI efficiency and viability on mobile devices, among other applications.…</p>]]>
-      </description>
-      <source:markdown>#### Bonsai 8B model is competitive with other 8B models but 14x smaller and 5x more energy efficient
-
-PrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI efficiency and viability on mobile devices, among other applications.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245426</guid>
-    </item>    <item>
-      <title>TinyOS: ultra-lightweight RTOS for IoT devices</title>
-      <link>https://www.osnews.com/story/144735/tinyos-ultra-lightweight-rtos-for-iot-devices/</link>
-      <description>
-        <![CDATA[An ultra-lightweight real-time operating system for resource-constrained IoT and embedded devices. Kernel footprint under 10 KB, 2 KB minimum RAM, preemptive priority-based scheduling. ↫ TinyOS GitHub page Written in C, open source, and supports ARM and RISC-V.]]>
-      </description>
-      <source:markdown>An ultra-lightweight real-time operating system for resource-constrained IoT and embedded devices. Kernel footprint under 10 KB, 2 KB minimum RAM, preemptive priority-based scheduling. ↫ TinyOS GitHub page Written in C, open source, and supports ARM and RISC-V.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144735</guid>
-    </item>    <item>
-      <title>Redox gets new CPU scheduler</title>
-      <link>https://www.osnews.com/story/144733/redox-gets-new-cpu-scheduler/</link>
-      <description>
-        <![CDATA[Another major improvement in Redox: a brand new scheduler which improves performance under load considerably. We have replaced the legacy Round Robin scheduler with a Deficit Weighted Round Robin scheduler. Due to this, we finally have a way of assigning different priorities to our Process contexts. When running under light load, you may not notice any difference, but under heavy load the new scheduler outperforms the old one (eg. ~150 FPS gain in the pixelcannon 3D Redox demo, and ~1.5x gain in operations/sec for CPU bound tasks and a similar improvement in responsiveness too (measured through schedrs)). ↫ Akshit Gaur Work is far from over in this area, as they&#8217;re now moving on to &#8220;replacing the static queue logic with the dynamic lag-calculations of full EEVDF&#8220;.]]>
-      </description>
-      <source:markdown>Another major improvement in Redox: a brand new scheduler which improves performance under load considerably. We have replaced the legacy Round Robin scheduler with a Deficit Weighted Round Robin scheduler. Due to this, we finally have a way of assigning different priorities to our Process contexts. When running under light load, you may not notice any difference, but under heavy load the new scheduler outperforms the old one (eg. ~150 FPS gain in the pixelcannon 3D Redox demo, and ~1.5x gain in operations/sec for CPU bound tasks and a similar improvement in responsiveness too (measured through schedrs)). ↫ Akshit Gaur Work is far from over in this area, as they’re now moving on to “replacing the static queue logic with the dynamic lag-calculations of full EEVDF“.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144733</guid>
-    </item>    <item>
-      <title>Open source office suites erupt in forking and licensing drama</title>
-      <link>https://www.osnews.com/story/144731/open-source-office-suites-erupt-in-forking-and-licensing-drama/</link>
-      <description>
-        <![CDATA[You&#8217;d think if there was one corner of the open source world where you wouldn&#8217;t find drama it&#8217;d be open source office suites, but it turns out we could not have been more wrong. First, there&#8217;s The Document Foundation, stewards of LibreOffice, ejecting a ton of LibreOffice contributors. In the ongoing saga of The Document Foundation (TDF), their Membership Committee has decided to eject from membership all Collabora staff and partners. That includes over thirty people who have contributed faithfully to LibreOffice for many years. It is interesting to see a formal meritocracy eject so many, based on unproven legal concerns and guilt by association. This includes seven of the top ten core committers of all time (excluding release engineers) currently working for Collabora Productivity. The move is the culmination of TDF losing a large number of founders from membership over the last few years with: Thorsten Behrens, Jan ‘Kendy’ Holesovsky, Rene Engelhard, Caolan McNamara, Michael Meeks, Cor Nouws and Italo Vignoli no longer members. Of the remaining active founders, three of the last four are paid TDF staff (of whom none are programming on the core code). ↫ Micheal Meeks The end result seems to be that Collabora is effectively forking LibreOffice, which feels like we&#8217;re back where we were 15 years ago when LibreOffice forked from OpenOffice. There seems to be a ton of drama and infighting here that I&#8217;m not particularly interested in, but it&#8217;s sad to see such drama and infighting result in needless complications for developers, end users, and distributors alike. As if this wasn&#8217;t enough, there&#8217;s also forking drama in OnlyOffice land, the other open source office suite, licensed under the AGPL. This ope source office suite has been forked by Nextcloud and IONOS into Euro-Office, in pursuit of digital sovereignty in the EU. It&#8217;s also not an entirely unimportant detail that OnlyOffice is Russian, with most of its developers residing in Russia. Anyway, the OnlyOffice team has not taken this in stride, claiming there&#8217;s a violation of the AGPL license going on here, specifically because OnlyOffice adds contradictory attribution terms to the AGPL. It&#8217;s a complicated story, but it does seem most experts in this area seem to disagree with OnlyOffice&#8217;s interpretation. We&#8217;re in for another messy time.]]>
-      </description>
-      <source:markdown>You’d think if there was one corner of the open source world where you wouldn’t find drama it’d be open source office suites, but it turns out we could not have been more wrong. First, there’s The Document Foundation, stewards of LibreOffice, ejecting a ton of LibreOffice contributors. In the ongoing saga of The Document Foundation (TDF), their Membership Committee has decided to eject from membership all Collabora staff and partners. That includes over thirty people who have contributed faithfully to LibreOffice for many years. It is interesting to see a formal meritocracy eject so many, based on unproven legal concerns and guilt by association. This includes seven of the top ten core committers of all time (excluding release engineers) currently working for Collabora Productivity. The move is the culmination of TDF losing a large number of founders from membership over the last few years with: Thorsten Behrens, Jan ‘Kendy’ Holesovsky, Rene Engelhard, Caolan McNamara, Michael Meeks, Cor Nouws and Italo Vignoli no longer members. Of the remaining active founders, three of the last four are paid TDF staff (of whom none are programming on the core code). ↫ Micheal Meeks The end result seems to be that Collabora is effectively forking LibreOffice, which feels like we’re back where we were 15 years ago when LibreOffice forked from OpenOffice. There seems to be a ton of drama and infighting here that I’m not particularly interested in, but it’s sad to see such drama and infighting result in needless complications for developers, end users, and distributors alike. As if this wasn’t enough, there’s also forking drama in OnlyOffice land, the other open source office suite, licensed under the AGPL. This ope source office suite has been forked by Nextcloud and IONOS into Euro-Office, in pursuit of digital sovereignty in the EU. It’s also not an entirely unimportant detail that OnlyOffice is Russian, with most of its developers residing in Russia. Anyway, the OnlyOffice team has not taken this in stride, claiming there’s a violation of the AGPL license going on here, specifically because OnlyOffice adds contradictory attribution terms to the AGPL. It’s a complicated story, but it does seem most experts in this area seem to disagree with OnlyOffice’s interpretation. We’re in for another messy time.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144731</guid>
-    </item>    <item>
-      <title>How Microsoft vaporized a trillion dollars</title>
-      <link>https://www.osnews.com/story/144729/how-microsoft-vaporized-a-trillion-dollars/</link>
-      <description>
-        <![CDATA[This is the first of a series of articles in which you will learn about what may be one of the silliest, most preventable, and most costly mishaps of the 21st century, where Microsoft all but lost OpenAI, its largest customer, and the trust of the US government. ↫ Axel Rietschin It won&#8217;t take long into this series of articles before you start wondering how anyone manages to ship anything at Microsoft. If even half of this is accurate, this company should be placed under some sort of external oversight.]]>
-      </description>
-      <source:markdown>This is the first of a series of articles in which you will learn about what may be one of the silliest, most preventable, and most costly mishaps of the 21st century, where Microsoft all but lost OpenAI, its largest customer, and the trust of the US government. ↫ Axel Rietschin It won’t take long into this series of articles before you start wondering how anyone manages to ship anything at Microsoft. If even half of this is accurate, this company should be placed under some sort of external oversight.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144729</guid>
     </item>
   </channel>
 </rss>
