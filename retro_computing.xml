@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>27 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -942,14 +942,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Crisis averted!, Radio interference, DCF77?, Cute toy, Long weekend, Tablet, No love lost for Trump, Monday, Sakura!</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260406</guid>
-    </item>    <item>
-      <title>b.log 2026/04/05 - The Fairy and the Forest.</title>
-      <link>https://heyrick.eu/blog/entry/20260405</link>
-      <description>
-        <![CDATA[The Fairy and the Forest.]]>
-      </description>
-      <source:markdown>The Fairy and the Forest.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260405</guid>
     </item>
   </channel>
 </rss>
