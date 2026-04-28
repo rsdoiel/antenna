@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>27 Apr 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>28 Apr 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Iris updated to release 1.39</title>
+      <link>http://www.iconbar.com/comments/rss/news2327.html</link>
+      <description>
+        <![CDATA[The Iris web browser has been updated to version 1.39]]>
+      </description>
+      <source:markdown>The Iris web browser has been updated to version 1.39</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2327.html</guid>
+    </item>    <item>
+      <title>b.log 2026/04/27 - Why a 1MHz bus?, Poop test shenanigans.</title>
+      <link>https://heyrick.eu/blog/entry/20260427</link>
+      <description>
+        <![CDATA[Why a 1MHz bus?, Poop test shenanigans.]]>
+      </description>
+      <source:markdown>Why a 1MHz bus?, Poop test shenanigans.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260427</guid>
+    </item>    <item>
       <title>The King is in his counting house – in Silver River Kingdom</title>
       <link>https://www.riscository.com/2026/silver-river-kingdom-released/</link>
       <description>
@@ -925,23 +941,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>ROOL continues to make progress on its mission to bring modern source control to RISC OS with the release of 0.12 of the Git client</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2321.html</guid>
-    </item>    <item>
-      <title>Ubuntu MATE Dev Leaving After 12 years</title>
-      <link>http://www.linux-magazine.com/Online/News/Ubuntu-MATE-Dev-Leaving-After-12-years</link>
-      <description>
-        <![CDATA[<p>Martin Wimpress, the maintainer of Ubuntu MATE, is now searching for his successor. Are you the next in line?</p>]]>
-      </description>
-      <source:markdown>Martin Wimpress, the maintainer of Ubuntu MATE, is now searching for his successor. Are you the next in line?</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://cab8da80c83a7950522c593dee1b81e9</guid>
-    </item>    <item>
-      <title>b.log 2026/04/06 - Crisis averted!, Radio interference, DCF77?, Cute toy, Long weekend, Tablet, No love lost for Trump, Monday, Sakura!</title>
-      <link>https://heyrick.eu/blog/entry/20260406</link>
-      <description>
-        <![CDATA[Crisis averted!, Radio interference, DCF77?, Cute toy, Long weekend, Tablet, No love lost for Trump, Monday, Sakura!]]>
-      </description>
-      <source:markdown>Crisis averted!, Radio interference, DCF77?, Cute toy, Long weekend, Tablet, No love lost for Trump, Monday, Sakura!</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260406</guid>
     </item>
   </channel>
 </rss>

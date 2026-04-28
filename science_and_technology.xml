@@ -4,11 +4,408 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Apr 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>28 Apr 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Trump&#39;s Golden Dome gets $3.2BN of contractors and an AI sprinkle</title>
+      <title>Despite proposed science cuts, NASA boss says &#39;We haven&#39;t canceled anything yet&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/despite_proposed_science_cuts_nasa/</link>
+      <description>
+        <![CDATA[<h4>That &#39;yet&#39; is sure doing a lot of heavy lifting if the budget for science is slashed</h4> <p>NASA administrator Jared Isaacman has appeared before the US House Appropriations Committee to explain the proposed Trump administration plan to cut $5.6 billion from the space agency&#39;s budget.…</p>]]>
+      </description>
+      <source:markdown>#### That &#39;yet&#39; is sure doing a lot of heavy lifting if the budget for science is slashed
+
+NASA administrator Jared Isaacman has appeared before the US House Appropriations Committee to explain the proposed Trump administration plan to cut $5.6 billion from the space agency&#39;s budget.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245842</guid>
+    </item>    <item>
+      <title>Tenstorrent’s Galaxy Blackhole AI servers escape the event horizon</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/tenstorrent_galaxy_blackhole_ai_servers_ga/</link>
+      <description>
+        <![CDATA[<h4>RISC-V-based systems pack 32 Blackhole accelerators in a 6U, $110K chassis</h4> <p>Tenstorrent on Tuesday announced the general availability of its Galaxy Blackhole AI compute platform.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### RISC-V-based systems pack 32 Blackhole accelerators in a 6U, $110K chassis
+
+Tenstorrent on Tuesday announced the general availability of its Galaxy Blackhole AI compute platform.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245833</guid>
+    </item>    <item>
+      <title>Brussels orders Google to share Android&#39;s AI sandbox with the other kids</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/</link>
+      <description>
+        <![CDATA[<h4>DMA enforcers want rival assistants to get same deep device access as Gemini</h4> <p>Those pencil pushers at the European Commission are drawing up measures to ensure Google opens up its Android smartphone platform to something few users asked for – competing AI services.…</p>]]>
+      </description>
+      <source:markdown>#### DMA enforcers want rival assistants to get same deep device access as Gemini
+
+Those pencil pushers at the European Commission are drawing up measures to ensure Google opens up its Android smartphone platform to something few users asked for – competing AI services.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245841</guid>
+    </item>    <item>
+      <title>UK.gov&#39;s DCMS to new CDIO: migrate from Google to Microsoft, overhaul ERP, build a team</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/ukgov_seeks_cdio_to_lead/</link>
+      <description>
+        <![CDATA[<h4>£125k and a pension await whoever can herd 6 departments onto single platform without losing will to live</h4> <p>Later today, prospective candidates will log onto a UK government call to convince themselves that £125k a year is worth the trouble of tackling a technological landscape swamped by colliding projects.…</p>]]>
+      </description>
+      <source:markdown>#### £125k and a pension await whoever can herd 6 departments onto single platform without losing will to live
+
+Later today, prospective candidates will log onto a UK government call to convince themselves that £125k a year is worth the trouble of tackling a technological landscape swamped by colliding projects.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245840</guid>
+    </item>    <item>
+      <title>Two men charged over series of arson attacks on 5G masts</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/5g_belfast_arrests/</link>
+      <description>
+        <![CDATA[<h4>Pair accused of creating literal flame war as bonkers conspiracy theories grow</h4> <p>Two men face charges over a series of arson attacks on 5G masts spanning two years following a Police Service of Northern Ireland (PSNI) investigation.…</p>]]>
+      </description>
+      <source:markdown>#### Pair accused of creating literal flame war as bonkers conspiracy theories grow
+
+Two men face charges over a series of arson attacks on 5G masts spanning two years following a Police Service of Northern Ireland (PSNI) investigation.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245839</guid>
+    </item>    <item>
+      <title>A 13-Year-Old Boy Found This Bronze Coin in a Field. It Turned Out to Be the First Ancient Greek Artifact Discovered in Berlin</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-13-year-old-boy-found-this-bronze-coin-in-a-field-it-turned-out-to-be-the-first-ancient-greek-artifact-discovered-in-berlin-180988627/</link>
+      <description>
+        <![CDATA[Minted in Troy in the third century B.C.E., the object might have been buried as a gift to the dead. Archaeologists don't know exactly how it ended up in modern-day Germany]]>
+      </description>
+      <source:markdown>Minted in Troy in the third century B.C.E., the object might have been buried as a gift to the dead. Archaeologists don&#39;t know exactly how it ended up in modern-day Germany</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QgBZ_4VTdULwwkxSFjHMoZp4ImY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/ee/3bee4220-cf7d-4425-aa4c-42e7c6a5693a/coin.png" length="3086177" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-13-year-old-boy-found-this-bronze-coin-in-a-field-it-turned-out-to-be-the-first-ancient-greek-artifact-discovered-in-berlin-180988627/</guid>
+    </item>    <item>
+      <title>Microsoft Outlook for iOS still down and out for many after &#39;service change&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/a_service_change_takes_down/</link>
+      <description>
+        <![CDATA[<h4>Sign-in failures, unexpected sign-outs... just another day for users</h4> <p>Users of Microsoft Outlook on iOS are continuing to experience outages more than 24 hours after glitches first surfaced, despite Microsoft&#39;s assurances it rolled back the configuration change and restored services.…</p>]]>
+      </description>
+      <source:markdown>#### Sign-in failures, unexpected sign-outs... just another day for users
+
+Users of Microsoft Outlook on iOS are continuing to experience outages more than 24 hours after glitches first surfaced, despite Microsoft&#39;s assurances it rolled back the configuration change and restored services.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245838</guid>
+    </item>    <item>
+      <title>SUSE&#39;s sovereignty pitch meets an inconvenient $6 billion question</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/sovereignty_its_all_about_the/</link>
+      <description>
+        <![CDATA[<h4>Linux vendor touts European independence at SUSECON as majority stakeholder quietly explores its options</h4> <p>European-based SUSE devoted much of the annual SUSECON event to its sovereignty-focused pitch - even as reports swirl that its majority stakeholder is exploring a $6 billion sale which could land the Linux vendor in American hands.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Linux vendor touts European independence at SUSECON as majority stakeholder quietly explores its options
+
+European-based SUSE devoted much of the annual SUSECON event to its sovereignty-focused pitch - even as reports swirl that its majority stakeholder is exploring a $6 billion sale which could land the Linux vendor in American hands.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245812</guid>
+    </item>    <item>
+      <title>A New Big Database of DNA From Indigenous Americans Shakes Up Scientists&#39; Theories About Human Settlement of South America</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-new-big-database-of-dna-from-indigenous-americans-shakes-up-scientific-theories-about-human-settlement-of-south-america-180988628/</link>
+      <description>
+        <![CDATA[Genomic data provides evidence for a previously unknown wave of migration, with Indigenous groups living in central and southern Mexico spreading into South America and the Caribbean starting around 1,300 years ago]]>
+      </description>
+      <source:markdown>Genomic data provides evidence for a previously unknown wave of migration, with Indigenous groups living in central and southern Mexico spreading into South America and the Caribbean starting around 1,300 years ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ueUJ_gTkpLlFtoTAhBnCN348GsI=/420x240/filters:focal(4340x2439:4341x2440)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/a1/d2a1a486-d979-44f9-ac60-b13a4149bc4b/figura3.png" length="2917763" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-big-database-of-dna-from-indigenous-americans-shakes-up-scientific-theories-about-human-settlement-of-south-america-180988628/</guid>
+    </item>    <item>
+      <title>Locked, stocked, and losing budget: AI vendor lock-in bites back</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/locked_stocked_and_losing_budget/</link>
+      <description>
+        <![CDATA[<h4>Execs in the C-suite thought they could swap models in a week. They were hallucinating</h4> <p><strong>Opinion</strong>  The days when you could jump from one frontier AI model to another at the drop of a hat are going away as vendor lock-in starts to kick in, and prices increase.…</p>]]>
+      </description>
+      <source:markdown>#### Execs in the C-suite thought they could swap models in a week. They were hallucinating
+
+**Opinion**  The days when you could jump from one frontier AI model to another at the drop of a hat are going away as vendor lock-in starts to kick in, and prices increase.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245813</guid>
+    </item>    <item>
+      <title>UK govt dept sent a document &#39;in error.&#39; Now it&#39;s being used in a £370M contract lawsuit</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/dwp_sent_document_in_error/</link>
+      <description>
+        <![CDATA[<h4>Comparison between 2 vendors was never meant to be seen ... or made</h4> <p>The UK&#39;s pensions and welfare ministry has slammed its outsourcing provider, SSCL, for sharing a document the department says it &#34;inadvertently provided&#34;, a document that later surfaced in a legal dispute over a £370 million contract.…</p>]]>
+      </description>
+      <source:markdown>#### Comparison between 2 vendors was never meant to be seen ... or made
+
+The UK&#39;s pensions and welfare ministry has slammed its outsourcing provider, SSCL, for sharing a document the department says it &#34;inadvertently provided&#34;, a document that later surfaced in a legal dispute over a £370 million contract.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245816</guid>
+    </item>    <item>
+      <title>Australia threatens tech companies with 2.25 percent tax if they don’t pay publishers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/australia_news_bargaining_incentive/</link>
+      <description>
+        <![CDATA[<h4>Last time an idea like this came up, Meta packed up its toys and went home</h4> <p>Australia has come up with a new way to ensure social media and search companies pay to support journalism: a 2.25 percent tax on revenue that’s avoidable if companies instead do deals with local media.…</p>]]>
+      </description>
+      <source:markdown>#### Last time an idea like this came up, Meta packed up its toys and went home
+
+Australia has come up with a new way to ensure social media and search companies pay to support journalism: a 2.25 percent tax on revenue that’s avoidable if companies instead do deals with local media.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245837</guid>
+    </item>    <item>
+      <title>Set up solar, or save a tree? It’s complicated</title>
+      <link>https://www.npr.org/2026/04/28/nx-s1-5766393/solar-installation-trees-shade</link>
+      <description>
+        <![CDATA[To solar or not to solar? That is the question for this latest episode of our monthly series <em>Nature Quest.</em> For listener Darcey Hughes, installing solar panels isn’t just about keeping her utilities free of fossil fuels – it’s also a way to become fully self-reliant and save some money each month. But there’s a catch: She might have to chop down a large, shading cedar tree. Today, we investigate: When is solar worth it? And is it worth the price of an old, majestic tree? <br/><br/><em>Do YOU have a question you have about your local environment? Send us a voice memo telling us your name, where you live, and your dilemma… we may make it the next Nature Quest  We’re reachable at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>To solar or not to solar? That is the question for this latest episode of our monthly series _Nature Quest._ For listener Darcey Hughes, installing solar panels isn’t just about keeping her utilities free of fossil fuels – it’s also a way to become fully self-reliant and save some money each month. But there’s a catch: She might have to chop down a large, shading cedar tree. Today, we investigate: When is solar worth it? And is it worth the price of an old, majestic tree?
+
+_Do YOU have a question you have about your local environment? Send us a voice memo telling us your name, where you live, and your dilemma… we may make it the next Nature Quest  We’re reachable at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/79f2c2e2-ed2f-4056-8905-7371366b6fdf/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=79f2c2e2-ed2f-4056-8905-7371366b6fdf&feed=F0qJcgXZ&t=podcast&e=nx-s1-5766393&p=510351&d=746&size=11944482" length="11944482" type="audio/mpeg" />
+      <guid>cid://35dea1cc-6b52-4af6-ace7-505df958c007</guid>
+    </item>    <item>
+      <title>‘AI deflation’ comes to India’s tech services giants and puts downward pressure on revenue</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/tcs_infosys_wipro_hcl_fy26/</link>
+      <description>
+        <![CDATA[<h4>Headcounts, however, are mostly holding up</h4> <p>AI is beginning to make a dent in the business models of India’s big four technology services giants…</p>]]>
+      </description>
+      <source:markdown>#### Headcounts, however, are mostly holding up
+
+AI is beginning to make a dent in the business models of India’s big four technology services giants…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245836</guid>
+    </item>    <item>
+      <title>Fiery Fall Color in Southern Chile</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/</link>
+      <description>
+        <![CDATA[The beech forests of southern Patagonia put on vibrant autumn displays.]]>
+      </description>
+      <source:markdown>The beech forests of southern Patagonia put on vibrant autumn displays.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/</guid>
+    </item>    <item>
+      <title>China blocks Zuck’s acquisition of AI outfit Manus</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/</link>
+      <description>
+        <![CDATA[<h4>Back to the drawing board for Meta&#39;s AI ambitions</h4> <p>China has blocked Meta’s acquisition of AI upstart Manus.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Back to the drawing board for Meta&#39;s AI ambitions
+
+China has blocked Meta’s acquisition of AI upstart Manus.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245835</guid>
+    </item>    <item>
+      <title>Microsoft&#39;s GitHub shifts to metered AI billing amid cost crisis</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/</link>
+      <description>
+        <![CDATA[<h4>The all-you-can-eat AI buffet is coming to an end</h4> <p>Microsoft is closing the AI buffet offered to GitHub Copilot customers, acknowledging that it can’t sell AI like Red Lobster&#39;s Endless Shrimp.…</p>]]>
+      </description>
+      <source:markdown>#### The all-you-can-eat AI buffet is coming to an end
+
+Microsoft is closing the AI buffet offered to GitHub Copilot customers, acknowledging that it can’t sell AI like Red Lobster&#39;s Endless Shrimp.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245834</guid>
+    </item>    <item>
+      <title>Ongoing supply-chain attack &#39;explicitly targeting&#39; security, dev tools</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/supply_chain_campaign_targets_security/</link>
+      <description>
+        <![CDATA[<h4>Vendor confirms repo data exposure after Lapsus$ claims source code, secrets dump</h4> <p>Software security testing outfit Checkmarx has become the latest organization caught up in an ongoing attack on security-tool providers. The biz said data posted online appears to have come from one of its GitHub repositories after the Lapsus$ extortion crew claimed to have dumped the company’s source code, secrets, and other sensitive data.…</p>]]>
+      </description>
+      <source:markdown>#### Vendor confirms repo data exposure after Lapsus$ claims source code, secrets dump
+
+Software security testing outfit Checkmarx has become the latest organization caught up in an ongoing attack on security-tool providers. The biz said data posted online appears to have come from one of its GitHub repositories after the Lapsus$ extortion crew claimed to have dumped the company’s source code, secrets, and other sensitive data.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245832</guid>
+    </item>    <item>
+      <title>Dillo 3.3.0 released</title>
+      <link>https://www.osnews.com/story/144838/dillo-3-3-0-released/</link>
+      <description>
+        <![CDATA[Dillo is an amazing web browser for those of us who want their web browsing experience to be calmer and less flashing. Dillo also happens to be a very UNIX-y browser, and their latest release, 3.3.0, underlines that. A new dilloc program is now available to control Dillo from the command line or from a script. It searches for Dillo by the PID in the DILLO_PID environment variable or for a unique Dillo process if not set. ↫ Dillo 3.3.0 release notes You can use this program to control your Dillo instance, with basic commands like reloading the current URL, opening a new URL, and so on, but also things like dumping the current page&#8217;s contents. I have a feeling more commands and features will be added in future releases, but for now, even the current set of commands can be helpful for scripting purposes. I&#8217;m sure some of you who live and die in the terminal are already thinking of all the possibilities here. You can now also add page actions to the right-click context menu, so you can do things like reload a page with a Chrome curl impersonator to avoid certain JavaScript walls. This, too, is of course extensible. Dillo 3.3.0 also brings experimental support for building the browser with FLTK 1.4, and implemented a fix specifically to make OAuth work properly.]]>
+      </description>
+      <source:markdown>Dillo is an amazing web browser for those of us who want their web browsing experience to be calmer and less flashing. Dillo also happens to be a very UNIX-y browser, and their latest release, 3.3.0, underlines that. A new dilloc program is now available to control Dillo from the command line or from a script. It searches for Dillo by the PID in the DILLO\_PID environment variable or for a unique Dillo process if not set. ↫ Dillo 3.3.0 release notes You can use this program to control your Dillo instance, with basic commands like reloading the current URL, opening a new URL, and so on, but also things like dumping the current page’s contents. I have a feeling more commands and features will be added in future releases, but for now, even the current set of commands can be helpful for scripting purposes. I’m sure some of you who live and die in the terminal are already thinking of all the possibilities here. You can now also add page actions to the right-click context menu, so you can do things like reload a page with a Chrome curl impersonator to avoid certain JavaScript walls. This, too, is of course extensible. Dillo 3.3.0 also brings experimental support for building the browser with FLTK 1.4, and implemented a fix specifically to make OAuth work properly.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144838</guid>
+    </item>    <item>
+      <title>Ubuntu is going to integrate “AI”, but Canonical remains vague about the how and why</title>
+      <link>https://www.osnews.com/story/144833/ubuntu-is-going-to-integrate-ai-but-canonical-remains-vague-about-the-how-and-why/</link>
+      <description>
+        <![CDATA[Ubuntu, being one of the more commercial Linux distributions, was always going to jump on the &#8220;AI&#8221; bandwagon, and Jon Seager, Canonical&#8217;s VP Engineering, published a blog post with more details. Throughout 2026 we’ll be working on enabling access to frontier AI for Ubuntu users in a way that is deliberate, secure, and aligned with our open source values. By focusing on the combination of education for our engineers, our existing knowledge of building resilient systems and our strengthening silicon partnerships, we will deliver efficient local inference, powerful accessibility features, and a context-aware OS that makes Ubuntu meaningfully more capable for the people who rely on it Ubuntu is not becoming an AI product, but it can become stronger with thoughtful AI integration. ↫ Jon Seager at Ubuntu Discourse The problem with this entire post is that, much like all other corporate communications about &#8220;AI&#8221;, it&#8217;s all deceptively vague, open-ended, and weasely. Adjectives like &#8220;focused&#8221;, &#8220;principled&#8221;, &#8220;thoughtful&#8221;, and &#8220;tasteful&#8221; don&#8217;t really mean anything, and leave everything open for basically every type of slop &#8220;AI&#8221; feature under the sun. Their claims about open weights and open source models are also weakened by words like &#8220;favour&#8221; and &#8220;where possible&#8221;, again leaving the door wide open for basically any shady &#8220;AI&#8221; company&#8217;s models and features to find their way into your default Ubuntu installation. There&#8217;s also very little in terms of concrete plans and proposed features, leaving Ubuntu users in the dark about what, exactly, is going to be added to their operating system of choice during the remainder of the year. There&#8217;s mentions of improved text-to-speech/speech-to-text and text regurgitators, but that&#8217;s about it. None of it feels particularly inspired or ground-breaking, and the veneer of open source, ethical model creation, and so on, is particularly thin this time around, even for Canonical. I don&#8217;t really feel like I know a lot more about Canonical&#8217;s &#8220;AI&#8221; intentions for Ubuntu after reading this post than I did before, other than Ubuntu users might be able to generate text in their email client or whatever later this year. Is that really something anybody wants?]]>
+      </description>
+      <source:markdown>Ubuntu, being one of the more commercial Linux distributions, was always going to jump on the “AI” bandwagon, and Jon Seager, Canonical’s VP Engineering, published a blog post with more details. Throughout 2026 we’ll be working on enabling access to frontier AI for Ubuntu users in a way that is deliberate, secure, and aligned with our open source values. By focusing on the combination of education for our engineers, our existing knowledge of building resilient systems and our strengthening silicon partnerships, we will deliver efficient local inference, powerful accessibility features, and a context-aware OS that makes Ubuntu meaningfully more capable for the people who rely on it Ubuntu is not becoming an AI product, but it can become stronger with thoughtful AI integration. ↫ Jon Seager at Ubuntu Discourse The problem with this entire post is that, much like all other corporate communications about “AI”, it’s all deceptively vague, open-ended, and weasely. Adjectives like “focused”, “principled”, “thoughtful”, and “tasteful” don’t really mean anything, and leave everything open for basically every type of slop “AI” feature under the sun. Their claims about open weights and open source models are also weakened by words like “favour” and “where possible”, again leaving the door wide open for basically any shady “AI” company’s models and features to find their way into your default Ubuntu installation. There’s also very little in terms of concrete plans and proposed features, leaving Ubuntu users in the dark about what, exactly, is going to be added to their operating system of choice during the remainder of the year. There’s mentions of improved text-to-speech/speech-to-text and text regurgitators, but that’s about it. None of it feels particularly inspired or ground-breaking, and the veneer of open source, ethical model creation, and so on, is particularly thin this time around, even for Canonical. I don’t really feel like I know a lot more about Canonical’s “AI” intentions for Ubuntu after reading this post than I did before, other than Ubuntu users might be able to generate text in their email client or whatever later this year. Is that really something anybody wants?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144833</guid>
+    </item>    <item>
+      <title>Cursor-Opus agent snuffs out startup’s production database</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/</link>
+      <description>
+        <![CDATA[<h4>Relax, the data&#39;s been recovered. Continue with your vibe coding</h4> <p>Jer (Jeremy) Crane, the founder of automotive SaaS platform PocketOS, spent the weekend recovering from a data extinction event caused by the company&#39;s AI coding agent in less than 10 seconds. …</p>]]>
+      </description>
+      <source:markdown>#### Relax, the data&#39;s been recovered. Continue with your vibe coding
+
+Jer (Jeremy) Crane, the founder of automotive SaaS platform PocketOS, spent the weekend recovering from a data extinction event caused by the company&#39;s AI coding agent in less than 10 seconds. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245830</guid>
+    </item>    <item>
+      <title>The Navy&#39;s autonomous carrier-based refueling drone has finally flown</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/navys_autonomous_carrierlaunched_refueling_drones/</link>
+      <description>
+        <![CDATA[<h4>After missing its 2025 target, Boeing&#39;s MQ-25A Stingray is one step closer to a carrier deck</h4> <p>The US Navy’s current carrier-based refueling aircraft may soon be getting help, as Boeing has completed the first flight of its autonomous tanker drone designed for carrier operations.…</p>]]>
+      </description>
+      <source:markdown>#### After missing its 2025 target, Boeing&#39;s MQ-25A Stingray is one step closer to a carrier deck
+
+The US Navy’s current carrier-based refueling aircraft may soon be getting help, as Boeing has completed the first flight of its autonomous tanker drone designed for carrier operations.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245831</guid>
+    </item>    <item>
+      <title>Fires in Berlin Destroyed Hundreds of Paintings During World War II. Now, a Museum Will Publish Photo Archives of the Lost Artworks Online</title>
+      <link>https://www.smithsonianmag.com/smart-news/fires-in-berlin-destroyed-hundreds-of-paintings-during-world-war-ii-now-a-museum-will-publish-photo-archives-of-the-lost-artworks-online-180988621/</link>
+      <description>
+        <![CDATA[A proactive effort to document the collection of the Gemäldegalerie will pay off a century later as negatives of lost paintings by Rubens and Caravaggio are digitized and published online]]>
+      </description>
+      <source:markdown>A proactive effort to document the collection of the Gemäldegalerie will pay off a century later as negatives of lost paintings by Rubens and Caravaggio are digitized and published online</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LIfsJQ3KuDK5lohWTaDt6gLTYaU=/420x240/filters:focal(596x414:597x415)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/7f/f87fd070-14a4-4ac5-b0bf-f7ace46a10e5/screenshot_2026-04-27_104258.png" length="785011" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/fires-in-berlin-destroyed-hundreds-of-paintings-during-world-war-ii-now-a-museum-will-publish-photo-archives-of-the-lost-artworks-online-180988621/</guid>
+    </item>    <item>
+      <title>NASA’s X-59 Gets Freedom 250 Logo</title>
+      <link>https://www.nasa.gov/image-article/nasas-x-59-gets-freedom-250-logo/</link>
+      <description>
+        <![CDATA[NASA’s X-59 is helping the nation celebrate the 250th anniversary of its independence with an update to its livery – its official paint job and insignia. The one-of-a-kind research aircraft is the centerpiece of NASA’s Quesst mission to demonstrate technology to fly supersonic, or faster than the speed of sound, without generating loud sonic booms. [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s X-59 is helping the nation celebrate the 250th anniversary of its independence with an update to its livery – its official paint job and insignia. The one-of-a-kind research aircraft is the centerpiece of NASA’s Quesst mission to demonstrate technology to fly supersonic, or faster than the speed of sound, without generating loud sonic booms. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=990723</guid>
+    </item>    <item>
+      <title>Interstellar Comet 3I/ATLAS Came From an Extremely Cold, Lonely Region of the Milky Way Galaxy, New Research Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/interstellar-comet-3i-atlas-came-from-an-extremely-cold-lonely-region-of-the-milky-way-galaxy-new-research-suggests-180988625/</link>
+      <description>
+        <![CDATA[Astronomers analyzed the vapors coming off the comet when it neared the sun and found it had a lot of "heavy" water. That hints it grew up in a frigid planetary system, possibly before its home star formed]]>
+      </description>
+      <source:markdown>Astronomers analyzed the vapors coming off the comet when it neared the sun and found it had a lot of &#34;heavy&#34; water. That hints it grew up in a frigid planetary system, possibly before its home star formed</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ptVhNqIhoBAgvHslOwu3b40mzT8=/420x240/filters:focal(1000x752:1001x753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/45/db45118a-149a-444f-abcf-59fca14d4260/the-interstellar-comet-3i-atlas-was-born-somewhere-much-different-from-our-solar-system-3iatlas.jpg" length="466322" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/interstellar-comet-3i-atlas-came-from-an-extremely-cold-lonely-region-of-the-milky-way-galaxy-new-research-suggests-180988625/</guid>
+    </item>    <item>
+      <title>The crypto-to-AI bandwagon jumpers&#39; club just landed another member: Core Scientific</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/core_scientific_ai/</link>
+      <description>
+        <![CDATA[<h4>They were doing it in Texas...</h4> <p>Core Scientific is trading coins for tokens, revealing plans on Monday to convert a 300-megawatt bitcoin mining operation in Pecos, Texas, to an 1.5 gigawatt AI datacenter campus.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### They were doing it in Texas...
+
+Core Scientific is trading coins for tokens, revealing plans on Monday to convert a 300-megawatt bitcoin mining operation in Pecos, Texas, to an 1.5 gigawatt AI datacenter campus.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245829</guid>
+    </item>    <item>
+      <title>Medical and utility tech companies admit digital breakins</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/itron_medtronic_hacked/</link>
+      <description>
+        <![CDATA[<h4>Itron, Medtronic disclose breaches in Friday filings</h4> <p>Digital intruders recently broke into two major tech suppliers - utility-technology firm Itron and medical-device maker Medtronic - according to filings with federal regulators.…</p>]]>
+      </description>
+      <source:markdown>#### Itron, Medtronic disclose breaches in Friday filings
+
+Digital intruders recently broke into two major tech suppliers - utility-technology firm Itron and medical-device maker Medtronic - according to filings with federal regulators.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245827</guid>
+    </item>    <item>
+      <title>A Tourist Damaged Florence’s &#39;Fountain of Neptune&#39; While Attempting to Grope Its Marble Statue on a Dare</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-tourist-damaged-florences-fountain-of-neptune-while-attempting-to-grope-its-marble-statue-on-a-dare-180988623/</link>
+      <description>
+        <![CDATA[Fixing the fountain’s horse sculptures and frieze will cost nearly $6,000. The alleged offender is the latest tourist to harm artwork in response to peer pressure or in pursuit of social media clout]]>
+      </description>
+      <source:markdown>Fixing the fountain’s horse sculptures and frieze will cost nearly $6,000. The alleged offender is the latest tourist to harm artwork in response to peer pressure or in pursuit of social media clout</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/u1MBWBmkr6LbdLEZpQD1X88H1ak=/420x240/filters:focal(2340x1560:2341x1561)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/87/14/8714ad95-a064-499e-ab71-d841f8110786/firenze_fontana_del_nettuno_dopo_il_restauro_del_2020_di_giorno_01.jpeg" length="8182261" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-tourist-damaged-florences-fountain-of-neptune-while-attempting-to-grope-its-marble-statue-on-a-dare-180988623/</guid>
+    </item>    <item>
+      <title>South Africa yanks AI policy after AI-assisted drafting invents citations</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/south_africa_yanks_ai_policy/</link>
+      <description>
+        <![CDATA[<h4>Eish shame man! Maybe you shouldn&#39;t ask AI to set the rules for AI use?</h4> <p>South Africa has pulled its draft national AI policy after discovering that it was citing sources that exist only in the fertile imagination of a chatbot.…</p>]]>
+      </description>
+      <source:markdown>#### Eish shame man! Maybe you shouldn&#39;t ask AI to set the rules for AI use?
+
+South Africa has pulled its draft national AI policy after discovering that it was citing sources that exist only in the fertile imagination of a chatbot.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245823</guid>
+    </item>    <item>
+      <title>NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars</title>
+      <link>https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/</link>
+      <description>
+        <![CDATA[NASA’s Curiosity and Perseverance rovers have captured two 360-degree landscapes that highlight how the missions are revealing details of the Red Planet’s formation, watery past, and potential for life. Located 2,345 miles (3,775 kilometers) apart from each other on Mars — about the distance from Los Angeles to Washington, D.C. — both rovers are exploring [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Curiosity and Perseverance rovers have captured two 360-degree landscapes that highlight how the missions are revealing details of the Red Planet’s formation, watery past, and potential for life. Located 2,345 miles (3,775 kilometers) apart from each other on Mars — about the distance from Los Angeles to Washington, D.C. — both rovers are exploring \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=990706</guid>
+    </item>    <item>
+      <title>Friendster rises from the grave to make social media great again</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/friendster_rises_from_the_grave/</link>
+      <description>
+        <![CDATA[<h4>No ads, no algorithm, and you actually have to physically tap phones to add a friend</h4> <p>It&#39;s been more than a decade since social media platform Friendster went dark, but a new owner has brought it back from the dead - sort of - with the hope he can give exhausted users of modern platforms a reprieve. …</p>]]>
+      </description>
+      <source:markdown>#### No ads, no algorithm, and you actually have to physically tap phones to add a friend
+
+It&#39;s been more than a decade since social media platform Friendster went dark, but a new owner has brought it back from the dead - sort of - with the hope he can give exhausted users of modern platforms a reprieve. …</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245824</guid>
+    </item>    <item>
+      <title>AI reality check: Here&#39;s what three companies learned building wallets, homes, and games</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/ai_use_cases_citi_home_depot_capcom_google_cloud_next/</link>
+      <description>
+        <![CDATA[<h4>Executives from Citi, Home Depot, and Capcom describe early work with AI agents</h4> <p>While AI agents have moved from experimental tools to customer-facing workers in a matter of months, the next challenge is governance and reliability once those agents touch real money, real shoppers, and real creative output.…</p>]]>
+      </description>
+      <source:markdown>#### Executives from Citi, Home Depot, and Capcom describe early work with AI agents
+
+While AI agents have moved from experimental tools to customer-facing workers in a matter of months, the next challenge is governance and reliability once those agents touch real money, real shoppers, and real creative output.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245822</guid>
+    </item>    <item>
+      <title>This Bone-Crunching Octopus Was Nearly the Size of a Semitruck and May Have Feasted on Giant Reptiles 100 Million Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-bone-crunching-octopus-was-nearly-the-size-of-a-semitruck-and-may-have-feasted-on-giant-reptiles-100-million-years-ago-180988616/</link>
+      <description>
+        <![CDATA[The massive invertebrates may have been top predators, according to an analysis of their fossilized jaws. The work suggests that ancient oceans weren't completely ruled by spine-bearing creatures, as previously thought]]>
+      </description>
+      <source:markdown>The massive invertebrates may have been top predators, according to an analysis of their fossilized jaws. The work suggests that ancient oceans weren&#39;t completely ruled by spine-bearing creatures, as previously thought</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lZEPdjdwBXtUFFUaoELK0Dps34w=/420x240/filters:focal(1014x1284:1015x1285)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/ae/cfaed3d9-990a-41e9-9aac-5eef92bedee3/ancient-octopus.png" length="4869098" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-bone-crunching-octopus-was-nearly-the-size-of-a-semitruck-and-may-have-feasted-on-giant-reptiles-100-million-years-ago-180988616/</guid>
+    </item>    <item>
+      <title>You Can Help Humans Thrive in Space</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/</link>
+      <description>
+        <![CDATA[The second Artemis mission took four astronauts around the moon and back – the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space exploration story by doing NASA science!]]>
+      </description>
+      <source:markdown>The second Artemis mission took four astronauts around the moon and back – the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space exploration story by doing NASA science!</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/</guid>
+    </item>    <item>
+      <title>Meta to power its bit barns with energy from space</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/meta_wants_to_beam_solar/</link>
+      <description>
+        <![CDATA[<h4>Facebook provider also working with energy storage firm to keep 100 hours of juice on hand</h4> <p>With AI demand growing, Facebook parent Meta is looking for new ways to power its datacenters, with one ambitious project pledging to send solar power down from orbit. Another agreement offers Meta the opportunity to store enough power to keep its bit barns going, even when the grid is over capacity or down.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <source:markdown>#### Facebook provider also working with energy storage firm to keep 100 hours of juice on hand
+
+With AI demand growing, Facebook parent Meta is looking for new ways to power its datacenters, with one ambitious project pledging to send solar power down from orbit. Another agreement offers Meta the opportunity to store enough power to keep its bit barns going, even when the grid is over capacity or down.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245820</guid>
+    </item>    <item>
+      <title>Thunderbird Pro April 2026 Update</title>
+      <link>https://blog.thunderbird.net/2026/04/thunderbird-pro-april-2026-update/</link>
+      <description>
+        <![CDATA[<p>One of the most exciting aspects of bringing Thunderbird Pro to life is the opportunity to build an email service from Thunderbird together with our community, giving users the control and freedom they expect without relying on third party email service providers. Over the past few months, we’ve been checking in with our community through [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2026/04/thunderbird-pro-april-2026-update/">Thunderbird Pro April 2026 Update</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>One of the most exciting aspects of bringing Thunderbird Pro to life is the opportunity to build an email service from Thunderbird together with our community, giving users the control and freedom they expect without relying on third party email service providers. Over the past few months, we’ve been checking in with our community through \[…\]
+
+The post [Thunderbird Pro April 2026 Update](https://blog.thunderbird.net/2026/04/thunderbird-pro-april-2026-update/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4289</guid>
+    </item>    <item>
+      <title>Microsoft and OpenAI&#39;s open relationship is now official</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsofts_and_openai_change_relationship/</link>
+      <description>
+        <![CDATA[<h4>No. More. Exclusivity. Redmond keeps the ring until 2032, but OpenAI is free to see other clouds</h4> <p>Once tied tightly together, Microsoft and OpenAI have amended their agreement, making the Windows giant&#39;s license non-exclusive. In exchange, Microsoft will no longer owe OpenAI a revenue share.…</p>]]>
+      </description>
+      <source:markdown>#### No. More. Exclusivity. Redmond keeps the ring until 2032, but OpenAI is free to see other clouds
+
+Once tied tightly together, Microsoft and OpenAI have amended their agreement, making the Windows giant&#39;s license non-exclusive. In exchange, Microsoft will no longer owe OpenAI a revenue share.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245821</guid>
+    </item>    <item>
+      <title>Physicists Discover the Most Complex Forms of Ice Yet</title>
+      <link>https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/</link>
+      <description>
+        <![CDATA[Scientists keep detecting new forms of ice. According to simulations, there could be many more left to find.            <p>The post <a href="https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/" target="_blank">Physicists Discover the Most Complex Forms of Ice Yet</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Scientists keep detecting new forms of ice. According to simulations, there could be many more left to find.
+
+The post [Physicists Discover the Most Complex Forms of Ice Yet](https://www.quantamagazine.org/physicists-discover-the-most-complex-forms-of-ice-yet-20260427/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=161272</guid>
+    </item>    <item>
+      <title>Volunteers Help NASA Astronauts Record Lunar Flashes</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/</link>
+      <description>
+        <![CDATA[As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon with their own telescopes and sent their videos to scientists to share what they saw from Earth.]]>
+      </description>
+      <source:markdown>As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon with their own telescopes and sent their videos to scientists to share what they saw from Earth.</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/</guid>
+    </item>    <item>
+      <title>See the 1-in-50-Million Split-Color Lobster Caught Off the Coast of Massachusetts. It&#39;s Carrying Two Sets of Genetic Information</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-1-in-50-million-split-color-lobster-caught-off-the-coast-of-massachusetts-its-carrying-two-sets-of-genetic-information-180988615/</link>
+      <description>
+        <![CDATA[The unusual-looking crustacean is two-toned, with a line dividing its body into an orange side and a brown side. This can happen when two fertilized, unlaid lobster eggs touch—causing one to absorb the other]]>
+      </description>
+      <source:markdown>The unusual-looking crustacean is two-toned, with a line dividing its body into an orange side and a brown side. This can happen when two fertilized, unlaid lobster eggs touch—causing one to absorb the other</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VxC85Zbi4KPNnRqV-G2A5V-U620=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/62/146232e2-aad3-4188-aebc-9703eb870ca1/split-color-lobster-resize.png" length="1900424" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-1-in-50-million-split-color-lobster-caught-off-the-coast-of-massachusetts-its-carrying-two-sets-of-genetic-information-180988615/</guid>
+    </item>    <item>
+      <title>SpaceX dusts off Falcon Heavy for first flight in 18 months</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/spacex_readies_the_first_falcon/</link>
+      <description>
+        <![CDATA[<h4>Side boosters to make simultaneous touchdown while center core takes one for the team</h4> <p><strong>Updated</strong>  SpaceX is preparing to launch its Falcon Heavy rocket for the first time in more than 18 months, kicking off what could be a busy time for the vehicle.…</p>]]>
+      </description>
+      <source:markdown>#### Side boosters to make simultaneous touchdown while center core takes one for the team
+
+**Updated**  SpaceX is preparing to launch its Falcon Heavy rocket for the first time in more than 18 months, kicking off what could be a busy time for the vehicle.…</source:markdown>
+      <guid>cid://tag:theregister.com,2005:story245819</guid>
+    </item>    <item>
+      <title>Trump&#39;s Golden Dome gets $3.2B of contractors and an AI sprinkle</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/27/us_names_firms_to_develop/</link>
       <description>
         <![CDATA[<h4>Space Force awards 11 firms prototype deals to build orbital interceptors</h4> <p>The United States Space Force (USSF) has awarded eleven companies contracts to develop space-based interceptors for President Trump&#39;s Golden Dome program, in agreements worth up to $3.2 billion.…</p>]]>
@@ -58,7 +455,7 @@ Microsoft has devised a solution to the problem of Windows Updates that break cu
 **Bork!Bork!Bork!**  From the beginning of time, there has always been Bork. Lurking within the heart of this ancient rock is not a precious crystal or a rare fossil. No, it&#39;s a Raspberry Pi desktop and dialog.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245722</guid>
     </item>    <item>
-      <title>Did Neanderthals Have Language? New Research Suggests They Had the Genetic Hardware For It, Like Humans</title>
+      <title>Did Neanderthals Have Language? New Research Suggests They Had the Genetic Hardware for It, Like Humans</title>
       <link>https://www.smithsonianmag.com/smart-news/did-neanderthals-have-language-new-research-suggests-they-had-the-genetic-hardware-for-it-like-humans-180988620/</link>
       <description>
         <![CDATA[Specific genomic regions that seem to play a role in human language development evolved hundreds of thousands of years ago, before humans and Neanderthals diverged from a common ancestor, a new study finds]]>
@@ -376,14 +773,14 @@ One tactic to deal with LLM-powered vulnerability detection is simple – just s
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vLUmNHFjAwCXMTFeDawZikMgogE=/420x240/filters:focal(2561x1708:2562x1709)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/82/9282d6cf-08c2-454f-a303-3cf02c4eae6c/gettyimages-2017218126.jpg" length="4116462" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/what-killed-the-neanderthals-new-research-suggests-a-lack-of-genetic-diversity-may-be-partially-to-blame-180988612/</guid>
     </item>    <item>
-      <title>Open Telemetry founder tools up for project graduation party</title>
+      <title>OpenTelemetry co-founder tools up for project graduation party</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2026/04/24/open_telemetry_founder_tools_up/</link>
       <description>
-        <![CDATA[<h4>We gotta get boring to get graduated</h4> <p><strong>Grafanacon</strong>  The founder of the Open Telemetry project says its maintainers may need to turn to AI tools to get some elements robust enough for the project as a whole to graduate.…</p>]]>
+        <![CDATA[<h4>We gotta get boring to get graduated</h4> <p><strong>Grafanacon</strong>  The co-founder of the OpenTelemetry project says its maintainers may need to turn to AI tools to get some elements robust enough for the project as a whole to graduate.…</p>]]>
       </description>
       <source:markdown>#### We gotta get boring to get graduated
 
-**Grafanacon**  The founder of the Open Telemetry project says its maintainers may need to turn to AI tools to get some elements robust enough for the project as a whole to graduate.…</source:markdown>
+**Grafanacon**  The co-founder of the OpenTelemetry project says its maintainers may need to turn to AI tools to get some elements robust enough for the project as a whole to graduate.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245790</guid>
     </item>    <item>
       <title>Microsoft tackles quality control issues. Just kidding, it&#39;s encouraging experienced workers to leave</title>
@@ -5667,226 +6064,6 @@ LY Corporation, the Japanese web giant that dominates messaging, e-commerce and 
 
 Broadcom has announced that Google has asked it to build next-generation AI and datacenter networking chips, and that Anthropic plans to consume 3.5GW worth of the accelerators it delivers to the ads and search giant.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245459</guid>
-    </item>    <item>
-      <title>KDE is bringing back its classic Oxygen and Air themes</title>
-      <link>https://www.osnews.com/story/144745/kde-is-bringing-back-its-classic-oxygen-and-air-themes/</link>
-      <description>
-        <![CDATA[Anyone remember the KDE 4.0 themes Oxygen and Air? Well, several KDE developers have been working tirelessly to bring them back, which means they&#8217;re patching it up, fixing bugs, and generally making these classic themes work well in the current releases of KDE Plasma 6. The last post regarding work on fixing Oxygen was a month and a half ago. With all that’s happened in between, it feels like so much more time has actually passed. With this post, I’d like to do a sort of mid-term update summing up all of the improvements done so far. These improvements are not just my work, but also, as you’ll see, the work of the lead Oxygen designer Nuno Pinheiro, of several seasoned KDE developers, and of new contributors to Oxygen as well. ↫ Filip Fila The effort to bring these themes back go much beyond just making them nominally work; the developers and designers are also making sure the themes work properly with all the new features that have come to KDE since the 4.x and 5.x days, like adaptive and floating panels, various forms of blur, and a ton more &#8211; which includes making sure the themes are fully compatible with Wayland, which introduced a slew of new visual glitches and issues to these old themes in recent years. They are also working on improving, updating, and expanding the Oxygen icon set, which should surely bring back a ton of memories. This work involves not just designing new icons for applications and other things that didn&#8217;t exist back when Oxygen was current, but also fixing old icons that look blurry on modern setups, addressing cases where monochrome and colourful icons mismatch, and so on. They&#8217;re clearly taking this very seriously. It seems to be an organic effort more and more people got involved with as time passed, and they&#8217;re aiming to have these themes ready for Plasma 6.7, to be released in June of this year. You can already try the current versions today, but they do require the absolute latest version of KDE Plasma to work properly. More improvements are planned for the coming weeks. This whole thing brings a massive smile to my face, and is such a perfect illustration of why I love the KDE project and its approach and spirit. At this point in time, I personally can&#8217;t imagine using any other desktop environment.]]>
-      </description>
-      <source:markdown>Anyone remember the KDE 4.0 themes Oxygen and Air? Well, several KDE developers have been working tirelessly to bring them back, which means they’re patching it up, fixing bugs, and generally making these classic themes work well in the current releases of KDE Plasma 6. The last post regarding work on fixing Oxygen was a month and a half ago. With all that’s happened in between, it feels like so much more time has actually passed. With this post, I’d like to do a sort of mid-term update summing up all of the improvements done so far. These improvements are not just my work, but also, as you’ll see, the work of the lead Oxygen designer Nuno Pinheiro, of several seasoned KDE developers, and of new contributors to Oxygen as well. ↫ Filip Fila The effort to bring these themes back go much beyond just making them nominally work; the developers and designers are also making sure the themes work properly with all the new features that have come to KDE since the 4.x and 5.x days, like adaptive and floating panels, various forms of blur, and a ton more – which includes making sure the themes are fully compatible with Wayland, which introduced a slew of new visual glitches and issues to these old themes in recent years. They are also working on improving, updating, and expanding the Oxygen icon set, which should surely bring back a ton of memories. This work involves not just designing new icons for applications and other things that didn’t exist back when Oxygen was current, but also fixing old icons that look blurry on modern setups, addressing cases where monochrome and colourful icons mismatch, and so on. They’re clearly taking this very seriously. It seems to be an organic effort more and more people got involved with as time passed, and they’re aiming to have these themes ready for Plasma 6.7, to be released in June of this year. You can already try the current versions today, but they do require the absolute latest version of KDE Plasma to work properly. More improvements are planned for the coming weeks. This whole thing brings a massive smile to my face, and is such a perfect illustration of why I love the KDE project and its approach and spirit. At this point in time, I personally can’t imagine using any other desktop environment.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144745</guid>
-    </item>    <item>
-      <title>AI agents found vulns in this popular Linux and Unix print server</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/ai_agents_cups_server_rce/</link>
-      <description>
-        <![CDATA[<h4>CUPS server shown spilling out remote code execution and root access</h4> <p>In the latest chapter on leaky CUPS, a security researcher and his band of bug-hunting agents have found two flaws that can be chained to allow an unauthenticated attacker to remotely execute code and achieve root file overwrite on the network.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### CUPS server shown spilling out remote code execution and root access
-
-In the latest chapter on leaky CUPS, a security researcher and his band of bug-hunting agents have found two flaws that can be chained to allow an unauthenticated attacker to remotely execute code and achieve root file overwrite on the network.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245456</guid>
-    </item>    <item>
-      <title>AI slop got better, so now maintainers have more work</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/ai_coding_tools_more_work/</link>
-      <description>
-        <![CDATA[<h4>Once AI bug reports become plausible, someone still has to verify them</h4> <p>If AI does more of the work but humans still have to check it, you need more reviewers. Now that AI models have gotten better at writing and evaluating code, open-source projects find themselves overwhelmed with the too-good-to-ignore output.…</p>]]>
-      </description>
-      <source:markdown>#### Once AI bug reports become plausible, someone still has to verify them
-
-If AI does more of the work but humans still have to check it, you need more reviewers. Now that AI models have gotten better at writing and evaluating code, open-source projects find themselves overwhelmed with the too-good-to-ignore output.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245457</guid>
-    </item>    <item>
-      <title>AMD&#39;s AI director slams Claude Code for becoming dumber and lazier since last update</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/</link>
-      <description>
-        <![CDATA[<h4>&#39;Claude cannot be trusted to perform complex engineering tasks&#39; according to GitHub ticket</h4> <p>If you&#39;ve noticed Claude Code&#39;s performance degrading to the point where you find you don&#39;t trust it to handle complicated tasks anymore, you&#39;re not alone.…</p>]]>
-      </description>
-      <source:markdown>#### &#39;Claude cannot be trusted to perform complex engineering tasks&#39; according to GitHub ticket
-
-If you&#39;ve noticed Claude Code&#39;s performance degrading to the point where you find you don&#39;t trust it to handle complicated tasks anymore, you&#39;re not alone.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245455</guid>
-    </item>    <item>
-      <title>“I used AI. It worked. I hated it.”</title>
-      <link>https://www.osnews.com/story/144743/i-used-ai-it-worked-i-hated-it/</link>
-      <description>
-        <![CDATA[This is a great post, but obviously it hasn&#8217;t convinced me: The folks waving their arms and yelling about recent models&#8217; capabilities have a point: the thing works. This project finished in three weeks. Compare that to Ringspace, a similarly-sized project that took me about six months of nights and early mornings to complete, while not doing my day job or being Dad to an amazing, but demanding toddler. I simply could not have built this project as well or as quickly without help. And as other developers have noted, this is the help that&#8217;s showing up. I&#8217;m not entirely onboard with Mike Masnick&#8217;s optimistic view of this technology&#8217;s democratizing power. I don&#8217;t think it&#8217;s as easy to separate the tech from its provenance or corporate control. But CertGen, my certificate application, exists now. It didn&#8217;t and couldn&#8217;t without the help of a tool like Claude Code. Open source in particular needs to reckon with this, because the current situation of demanding developers starve and bleed themselves dry without support isn&#8217;t tenable. We need to grapple with this. I&#8217;m not yet sure how it all breaks down, and anyone who says they do is lying, foolish, or fanatical. ↫ Michael Taggart If you disregard that &#8220;AI&#8221; models are trained on stolen data, that such data was prepared by exploited workers, that &#8220;AI&#8221; data centres have a hugely negative impact on the environment, that &#8220;AI&#8221; data centers are distorting the entire computing market, that &#8220;AI&#8221; models they feed the endless firehose of intentional misinformation, that they are wreaking havoc in education, that they increase your reliance on American big tech companies, that you pay &#8220;AI&#8221; companies for taking your work, that &#8220;AI&#8221; models are a vital component in the technofascist wet dreams of their creators, that they are the cornerstone of politicians&#8217; dream of ending anonymity, and that they contribute to racist and abusive policing, then yes, sometimes, they produce code that works and isn&#8217;t total horseshit. It&#8217;s a deeply depressing reversed &#8220;what have the Romans ever done for us?&#8221; that makes me sad, more than anything. I&#8217;ve seen so many otherwise smart, caring, and genuine people just shove all of these massive downsides aside for the mere novelty, the peer pressure, the occasional sense that their &#8220;lines of code&#8221; metric is going up. It&#8217;s the digital equivalent of rolling coal.]]>
-      </description>
-      <source:markdown>This is a great post, but obviously it hasn’t convinced me: The folks waving their arms and yelling about recent models’ capabilities have a point: the thing works. This project finished in three weeks. Compare that to Ringspace, a similarly-sized project that took me about six months of nights and early mornings to complete, while not doing my day job or being Dad to an amazing, but demanding toddler. I simply could not have built this project as well or as quickly without help. And as other developers have noted, this is the help that’s showing up. I’m not entirely onboard with Mike Masnick’s optimistic view of this technology’s democratizing power. I don’t think it’s as easy to separate the tech from its provenance or corporate control. But CertGen, my certificate application, exists now. It didn’t and couldn’t without the help of a tool like Claude Code. Open source in particular needs to reckon with this, because the current situation of demanding developers starve and bleed themselves dry without support isn’t tenable. We need to grapple with this. I’m not yet sure how it all breaks down, and anyone who says they do is lying, foolish, or fanatical. ↫ Michael Taggart If you disregard that “AI” models are trained on stolen data, that such data was prepared by exploited workers, that “AI” data centres have a hugely negative impact on the environment, that “AI” data centers are distorting the entire computing market, that “AI” models they feed the endless firehose of intentional misinformation, that they are wreaking havoc in education, that they increase your reliance on American big tech companies, that you pay “AI” companies for taking your work, that “AI” models are a vital component in the technofascist wet dreams of their creators, that they are the cornerstone of politicians’ dream of ending anonymity, and that they contribute to racist and abusive policing, then yes, sometimes, they produce code that works and isn’t total horseshit. It’s a deeply depressing reversed “what have the Romans ever done for us?” that makes me sad, more than anything. I’ve seen so many otherwise smart, caring, and genuine people just shove all of these massive downsides aside for the mere novelty, the peer pressure, the occasional sense that their “lines of code” metric is going up. It’s the digital equivalent of rolling coal.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144743</guid>
-    </item>    <item>
-      <title>NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight</title>
-      <link>https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/</link>
-      <description>
-        <![CDATA[Editor&#8217;s note: This release was updated at 7:28 p.m. EDT on April 6, 2026, to reflect Orion&#8217;s final closest approach to the lunar surface from about 4,070 miles to about 4,067 miles. NASA also updated the farthest distance Orion will travel. Finally, NASA also made changes at 10 p.m. to the statements about crew firsts. [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s note: This release was updated at 7:28 p.m. EDT on April 6, 2026, to reflect Orion’s final closest approach to the lunar surface from about 4,070 miles to about 4,067 miles. NASA also updated the farthest distance Orion will travel. Finally, NASA also made changes at 10 p.m. to the statements about crew firsts. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=981479</guid>
-    </item>    <item>
-      <title>Anthropic closes door on subscription use of OpenClaw</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_closes_door_on_subscription/</link>
-      <description>
-        <![CDATA[<h4>The company is having trouble meeting user demand</h4> <p>OpenClaw is popular, but not with the people responsible for keeping Anthropic’s services online. The company has disallowed subscription-based pricing for users who use the open-source agentic tool with Claude to try to keep things moving.…</p>]]>
-      </description>
-      <source:markdown>#### The company is having trouble meeting user demand
-
-OpenClaw is popular, but not with the people responsible for keeping Anthropic’s services online. The company has disallowed subscription-based pricing for users who use the open-source agentic tool with Claude to try to keep things moving.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245453</guid>
-    </item>    <item>
-      <title>NASA’s Northrop Grumman CRS-24 Mission Overview</title>
-      <link>https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/</link>
-      <description>
-        <![CDATA[NASA’s Northrop Grumman Commercial Resupply Services 24 mission, or Northrop Grumman CRS-24, will deliver approximately 11,000 pounds of science and supplies to the International Space Station. This mission will be the second flight of the Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft.]]>
-      </description>
-      <source:markdown>NASA’s Northrop Grumman Commercial Resupply Services 24 mission, or Northrop Grumman CRS-24, will deliver approximately 11,000 pounds of science and supplies to the International Space Station. This mission will be the second flight of the Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft.</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=981472</guid>
-    </item>    <item>
-      <title>Lightning Strikes on Jupiter Are 100 Times as Powerful as Those on Earth, a New Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/lightning-strikes-on-jupiter-are-100-times-as-powerful-as-those-on-earth-a-new-study-suggests-180988455/</link>
-      <description>
-        <![CDATA[Scientists finally have a clearer picture of the gas giant's intense storms]]>
-      </description>
-      <source:markdown>Scientists finally have a clearer picture of the gas giant&#39;s intense storms</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KrxbvMqfwr8vHzX5JRmoLmdzPpA=/420x240/filters:focal(1059x1231:1060x1232)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/ff/7aff40c9-de68-4e0a-bdd1-7325a9cfbfe3/jupiter-storm.jpg" length="493543" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/lightning-strikes-on-jupiter-are-100-times-as-powerful-as-those-on-earth-a-new-study-suggests-180988455/</guid>
-    </item>    <item>
-      <title>Attackers exploited this critical FortiClient EMS bug as a 0-day</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/forticlient_ems_bug_exploited/</link>
-      <description>
-        <![CDATA[<h4>CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild</h4> <p>Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.…</p>]]>
-      </description>
-      <source:markdown>#### CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild
-
-Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245452</guid>
-    </item>    <item>
-      <title>This Soldier Died of Yellow Fever During a Hurricane 153 Years Ago. Archaeologists Just Found His Grave</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-soldier-died-of-yellow-fever-during-a-hurricane-153-years-ago-archaeologists-just-found-his-grave-180988484/</link>
-      <description>
-        <![CDATA[George Tupper, a 22-year-old from Massachusetts, was nearly a year into his military service when a yellow fever outbreak struck Fort Jefferson]]>
-      </description>
-      <source:markdown>George Tupper, a 22-year-old from Massachusetts, was nearly a year into his military service when a yellow fever outbreak struck Fort Jefferson</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/23RkZZEvOctDIMgTP1UmazDJOQE=/420x240/filters:focal(2048x1365:2049x1366)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/9f/559fd69b-6ad2-46d3-88f5-1b8608e927c5/51391513174_9579b4c250_4k.jpg" length="1778096" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-soldier-died-of-yellow-fever-during-a-hurricane-153-years-ago-archaeologists-just-found-his-grave-180988484/</guid>
-    </item>    <item>
-      <title>These Rotund and &#39;Charmingly Goofy&#39; Birds Are Delighting New Yorkers and Dancing on Social Media. What Is the American Woodcock?</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-rotund-and-charmingly-goofy-birds-are-delighting-new-yorkers-and-dancing-on-social-media-what-is-the-american-woodcock-180988486/</link>
-      <description>
-        <![CDATA[The endearing animals make a pit stop in Bryant Park during their migrations to northern breeding grounds, gathering fans and starring in viral videos]]>
-      </description>
-      <source:markdown>The endearing animals make a pit stop in Bryant Park during their migrations to northern breeding grounds, gathering fans and starring in viral videos</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4A3qfQGORs3bUpz3gbu6hNnLu0g=/420x240/filters:focal(2141x1550:2142x1551)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/fe/15fe1a3b-3f24-42f5-a878-0cd2177f4b36/american_woodcock_95252.jpg" length="10406132" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-rotund-and-charmingly-goofy-birds-are-delighting-new-yorkers-and-dancing-on-social-media-what-is-the-american-woodcock-180988486/</guid>
-    </item>    <item>
-      <title>Doctors Used &#39;Digital Twins&#39; of Patients&#39; Hearts to Fix Their Irregular Heartbeats</title>
-      <link>https://www.smithsonianmag.com/smart-news/doctors-used-digital-twins-of-patients-hearts-to-fix-their-irregular-heartbeats-180988476/</link>
-      <description>
-        <![CDATA[A small clinical trial suggests the technology can help physicians perform life-saving surgeries more efficiently and safely]]>
-      </description>
-      <source:markdown>A small clinical trial suggests the technology can help physicians perform life-saving surgeries more efficiently and safely</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ixyxWk-XywCK6nSosmnduj2EGjs=/420x240/filters:focal(642x483:643x484)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c2/8c/c28c89cd-b999-4cad-bc73-9402d735abb8/screenshot_2026-04-02_at_123331pm.png" length="714699" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/doctors-used-digital-twins-of-patients-hearts-to-fix-their-irregular-heartbeats-180988476/</guid>
-    </item>    <item>
-      <title>Patch to end i486 support hits Linux kernel merge queue</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/patch_to_end_i486_support/</link>
-      <description>
-        <![CDATA[<h4>After a year of patchwork, maintainers look ready to start retiring 486-class CPUs</h4> <p>It&#39;s taken nearly a full version number to get the pieces in order, but the long-awaited end of 486 chip support in the Linux kernel appears to be nigh with Linux 7.1&#39;s release later this year. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### After a year of patchwork, maintainers look ready to start retiring 486-class CPUs
-
-It&#39;s taken nearly a full version number to get the pieces in order, but the long-awaited end of 486 chip support in the Linux kernel appears to be nigh with Linux 7.1&#39;s release later this year. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245451</guid>
-    </item>    <item>
-      <title>Night Sky Network Celebrates Artemis II</title>
-      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/</link>
-      <description>
-        <![CDATA[On April 6, 2026, the crew of Artemis II reached a milestone, traveling farther than any humans in recorded history, as they orbited the far side of the Moon, roughly 4,000 miles above the lunar surface.  You can rewatch this historic broadcast on NASA’s YouTube channel or on NASA+. Be sure to celebrate with your communities with […]]]>
-      </description>
-      <source:markdown>On April 6, 2026, the crew of Artemis II reached a milestone, traveling farther than any humans in recorded history, as they orbited the far side of the Moon, roughly 4,000 miles above the lunar surface.  You can rewatch this historic broadcast on NASA’s YouTube channel or on NASA+. Be sure to celebrate with your communities with \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/</guid>
-    </item>    <item>
-      <title>Grants</title>
-      <link>https://www.nasa.gov/centers-and-facilities/grants-2/</link>
-      <description>
-        <![CDATA[Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the form. You will receive an automated email with the most commonly requested grant status information. Important Instructions: How to Fill Out the Form: Memorandum for NASA Grantee Community Guidance Regarding OMB Memorandum M-25-14 and Recent Temporary Restraining Orders Update [&#8230;]]]>
-      </description>
-      <source:markdown>Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the form. You will receive an automated email with the most commonly requested grant status information. Important Instructions: How to Fill Out the Form: Memorandum for NASA Grantee Community Guidance Regarding OMB Memorandum M-25-14 and Recent Temporary Restraining Orders Update \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=540748</guid>
-    </item>    <item>
-      <title>An Arctic Road Trip Brings Vital Underground Networks into View</title>
-      <link>https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/</link>
-      <description>
-        <![CDATA[A vast meshwork of soil-bound fungi governs life aboveground. In Alaska, and at field sites around the world, researchers are racing to understand exactly how, with essential stores of carbon at stake.            <p>The post <a href="https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/" target="_blank">An Arctic Road Trip Brings Vital Underground Networks into View</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>A vast meshwork of soil-bound fungi governs life aboveground. In Alaska, and at field sites around the world, researchers are racing to understand exactly how, with essential stores of carbon at stake.
-
-The post [An Arctic Road Trip Brings Vital Underground Networks into View](https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=160679</guid>
-    </item>    <item>
-      <title>The Near Side of the Moon</title>
-      <link>https://www.nasa.gov/image-article/the-near-side-of-the-moon/</link>
-      <description>
-        <![CDATA[The astronauts aboard NASA&#8217;s Orion spacecraft captured this photo of the Moon&#8217;s near side on April 4, 2026. The image features dark patches at center and right; these are ancient lava flows, which are unique to this side of the Moon. The Artemis II astronauts – astronauts Victor Glover, Reid Wiseman, and Christina Koch of [&#8230;]]]>
-      </description>
-      <source:markdown>The astronauts aboard NASA’s Orion spacecraft captured this photo of the Moon’s near side on April 4, 2026. The image features dark patches at center and right; these are ancient lava flows, which are unique to this side of the Moon. The Artemis II astronauts – astronauts Victor Glover, Reid Wiseman, and Christina Koch of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=981317</guid>
-    </item>    <item>
-      <title>Windows asks a networking question on a Stratford billboard</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/windows_asks_a_networking_question/</link>
-      <description>
-        <![CDATA[<h4>Glue and paper wouldn&#39;t have cared about discoverability</h4> <p><strong>Bork!Bork!Bork!</strong>  Today&#39;s entry in the pantheon of public whoopsies is not so much Windows falling over as someone sticking a network connection where it possibly doesn&#39;t belong.…</p>]]>
-      </description>
-      <source:markdown>#### Glue and paper wouldn&#39;t have cared about discoverability
-
-**Bork!Bork!Bork!**  Today&#39;s entry in the pantheon of public whoopsies is not so much Windows falling over as someone sticking a network connection where it possibly doesn&#39;t belong.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245433</guid>
-    </item>    <item>
-      <title>See a Colorful Wall of Vintage iMacs and a Re-creation of Steve Jobs&#39; Garage at a New Apple Museum in the Netherlands</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-a-colorful-wall-of-vintage-imacs-and-a-recreation-of-steve-jobs-garage-at-a-new-apple-museum-in-the-netherlands-180988485/</link>
-      <description>
-        <![CDATA[The tech world changed forever when two college dropouts founded Apple on April 1, 1976. Fifty years later, a museum dedicated to the company's history and evolution has opened in the city of Utrecht]]>
-      </description>
-      <source:markdown>The tech world changed forever when two college dropouts founded Apple on April 1, 1976. Fifty years later, a museum dedicated to the company&#39;s history and evolution has opened in the city of Utrecht</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bc0NGPH454sLjpRdWxHCaD_lS9Q=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/33/54/3354d48e-0495-442e-bc0e-d98bcbc90642/apple-i-replica.jpg" length="388129" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-a-colorful-wall-of-vintage-imacs-and-a-recreation-of-steve-jobs-garage-at-a-new-apple-museum-in-the-netherlands-180988485/</guid>
-    </item>    <item>
-      <title>The world is running out of helium — again</title>
-      <link>https://www.npr.org/2026/04/06/nx-s1-5770505/helium-shortage-iran-war</link>
-      <description>
-        <![CDATA[Lots of people count on helium. From MRI machines and semiconductor manufacturing to pressurizing rockets and detecting leaks, helium is used globally for much more than party balloons. So when there’s a shortage, like right now, the effect is far-reaching. But before the current shortage started, there was already a finite supply on Earth. So, today on Short Wave, we revisit our episode on the history of helium and how the world uses it today. <br/><br/><strong>If you liked this episode, check out our episode on </strong><a href="https://lnk.to/cb36P9"target="_blank"   ><strong>aluminum's strange journey from precious metal to beer can</strong></a>.<br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Lots of people count on helium. From MRI machines and semiconductor manufacturing to pressurizing rockets and detecting leaks, helium is used globally for much more than party balloons. So when there’s a shortage, like right now, the effect is far-reaching. But before the current shortage started, there was already a finite supply on Earth. So, today on Short Wave, we revisit our episode on the history of helium and how the world uses it today.
-
-**If you liked this episode, check out our episode on** [**aluminum&#39;s strange journey from precious metal to beer can**](https://lnk.to/cb36P9).
-
-_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c9a8c572-1db5-4950-8706-f164217bea77/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c9a8c572-1db5-4950-8706-f164217bea77&feed=F0qJcgXZ&t=podcast&e=nx-s1-5770505&p=510351&d=796&size=12746128" length="12746128" type="audio/mpeg" />
-      <guid>cid://3f3c9856-8b9b-4a2c-86d9-3d487314963d</guid>
-    </item>    <item>
-      <title>The developer who came in from the cold and melted a mainframe</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/who_me/</link>
-      <description>
-        <![CDATA[<h4>It&#39;s not just machines that need proper HVAC</h4> <p><strong>Who, Me?</strong>  The world is rapidly becoming a more uncertain place, but <em>The Register</em> tries to offer readers one small point of certainty by always delivering a fresh Monday morning instalment of &#34;Who, Me?&#34; – the reader-contributed column in which you admit to your errors and elucidate your escapes.…</p>]]>
-      </description>
-      <source:markdown>#### It&#39;s not just machines that need proper HVAC
-
-**Who, Me?**  The world is rapidly becoming a more uncertain place, but _The Register_ tries to offer readers one small point of certainty by always delivering a fresh Monday morning instalment of &#34;Who, Me?&#34; – the reader-contributed column in which you admit to your errors and elucidate your escapes.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245382</guid>
-    </item>    <item>
-      <title>Anthropic sure has a mess on its hands thanks to that Claude Code source leak</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast/</link>
-      <description>
-        <![CDATA[<h4>Pay no attention to that code behind the curtain, says Anthropic as it scrambles to defend its IPO</h4> <p><strong>Kettle</strong>  When it comes to circling up for this week&#39;s Kettle, what is there to discuss but Anthropic&#39;s accidental release of Claude Code&#39;s source code?…</p>]]>
-      </description>
-      <source:markdown>#### Pay no attention to that code behind the curtain, says Anthropic as it scrambles to defend its IPO
-
-**Kettle**  When it comes to circling up for this week&#39;s Kettle, what is there to discuss but Anthropic&#39;s accidental release of Claude Code&#39;s source code?…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245446</guid>
     </item>
   </channel>
 </rss>

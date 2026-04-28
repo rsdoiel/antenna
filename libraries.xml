@@ -4,10 +4,40 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>27 Apr 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>28 Apr 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — Develop to Delegate: How Investing in Early-Career Professionals Strengthens Organizations</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/04/28/guest-post-develop-to-delegate-how-investing-in-early-career-professionals-strengthens-organizations/</link>
+      <description>
+        <![CDATA[<p>Today's guest post advocates for investing in the development of early-career professionals to foster a healthy pipeline of emerging talent in scholarly publishing.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/28/guest-post-develop-to-delegate-how-investing-in-early-career-professionals-strengthens-organizations/">Guest Post — Develop to Delegate: How Investing in Early-Career Professionals Strengthens Organizations</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s guest post advocates for investing in the development of early-career professionals to foster a healthy pipeline of emerging talent in scholarly publishing.
+
+The post [Guest Post — Develop to Delegate: How Investing in Early-Career Professionals Strengthens Organizations](https://scholarlykitchen.sspnet.org/2026/04/28/guest-post-develop-to-delegate-how-investing-in-early-career-professionals-strengthens-organizations/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61883</guid>
+    </item>    <item>
+      <title>Information Stewardship Forum 2026: Creating Community and Purpose Around US Government Information</title>
+      <link>https://blog.archive.org/2026/04/28/information-stewardship-forum-2026-creating-community-and-purpose-around-us-government-information/</link>
+      <description>
+        <![CDATA[As soon as people started walking in the door, I breathed a sigh of relief. After months of careful (some might say obsessive) planning, we were kicking off the inaugural [&#8230;]]]>
+      </description>
+      <source:markdown>As soon as people started walking in the door, I breathed a sigh of relief. After months of careful (some might say obsessive) planning, we were kicking off the inaugural \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30372</guid>
+    </item>    <item>
+      <title>Report: Trump’s Proposed Budget Threatens NC Library Programs, Including Shared Books List”</title>
+      <link>https://www.infodocket.com/2026/04/27/report-trumps-proposed-budget-threatens-nc-library-programs-including-shared-books-list/</link>
+      <description>
+        <![CDATA[<p>From The Charlotte Observer: Advocates are warning the Trump administration’s proposed federal budget could leave libraries in North Carolina without longstanding funding that pays for services across the state. [Clip] “These dollars fund a lot of essential services, whether we talk about digital skills training for all North Carolinians or online professional development for library [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/04/27/report-trumps-proposed-budget-threatens-nc-library-programs-including-shared-books-list/">Report: Trump&#8217;s Proposed Budget Threatens NC Library Programs, Including Shared Books List&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From The Charlotte Observer: Advocates are warning the Trump administration’s proposed federal budget could leave libraries in North Carolina without longstanding funding that pays for services across the state. \[Clip\] “These dollars fund a lot of essential services, whether we talk about digital skills training for all North Carolinians or online professional development for library \[…\]
+
+The post [Report: Trump’s Proposed Budget Threatens NC Library Programs, Including Shared Books List”](https://www.infodocket.com/2026/04/27/report-trumps-proposed-budget-threatens-nc-library-programs-including-shared-books-list/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167979</guid>
+    </item>    <item>
       <title>Guest Post — Quality Over Quantity: Why Scholarly Publishing Needs Stronger Front-End Gatekeeping to Build Trust and Long-Term Value</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/27/guest-post-quality-over-quantity-why-scholarly-publishing-needs-stronger-front-end-gatekeeping-to-build-trust-and-long-term-value/</link>
       <description>
@@ -18,6 +48,184 @@
 
 The post [Guest Post — Quality Over Quantity: Why Scholarly Publishing Needs Stronger Front-End Gatekeeping to Build Trust and Long-Term Value](https://scholarlykitchen.sspnet.org/2026/04/27/guest-post-quality-over-quantity-why-scholarly-publishing-needs-stronger-front-end-gatekeeping-to-build-trust-and-long-term-value/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61888</guid>
+    </item>    <item>
+      <title>Matching funders in scholarly metadata: linking names to ROR IDs</title>
+      <link>https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/</link>
+      <description>
+        <![CDATA[<p>In April 2025, we launched the <a href="https://www.crossref.org/community/special-programs/metadata-matching/">metadata matching project</a>, in order to add missing relationships to the scholarly metadata. We will do this by consolidating all existing and planned matching workflows, which enrich member-deposited metadata in Crossref. This unified service will result in a more complete <a href="https://www.crossref.org/documentation/research-nexus/">research nexus</a>. In this blog post, we share our latest milestone: developing and evaluating a strategy for matching funder metadata to <a href="https://ror.org/" target="_blank">Research Organization Registry</a> (ROR) identifiers.</p>
+        <h3 id="key-takeaways">Key takeaways</h3>
+        <ul>
+        <li>Funder matching links funding organisation names to persistent identifiers, helping us understand how research outputs are funded and supported.</li>
+        <li>We built a new strategy to automatically match funder names in Crossref metadata to ROR identifiers.</li>
+        <li>Evaluated on a <a href="https://doi.org/10.13003/zmkagc4i" target="_blank">manually labeled dataset of 3,505 funder names</a>, the strategy achieves 99% precision and 81% recall.</li>
+        <li>This is the first production deployment of Crossref&rsquo;s new metadata matching framework, paving the way for future matching tasks across affiliations, references, grants, and more.</li>
+        </ul>
+        <p>You can join us at our <a href="https://www.crossref.org/events/crossref-community-update-2026">Community Update Call on 13th May</a> for a brief demonstration of the funder matching process.</p>
+        <h2 id="introduction">Introduction</h2>
+        <p>In <a href="https://doi.org/10.64000/h6w1v-r1017" target="_blank">our recent blog post on metadata enrichment</a>, we described the different ways that Crossref metadata can be enriched after its initial deposit, leading to a more complete research nexus. In this model, we can think of the metadata records served through the Crossref API as a result of several layers of enrichment applied on top of the initial deposit from a Crossref member. These layers may include member updates, community feedback, automated matching, and third-party datasets.</p>
+        <p>Metadata matching (layer 3) is when we use automated strategies to find missing relationships between entities within the scholarly record, such as relationships between research outputs, funding organisations, and grants, based on the unstructured information already present in the metadata. Our matching project aims to create a dedicated, consolidated metadata matching workflow that will eventually replace all existing production matching processes, with results made available through the REST API. We have identified the first six matching tasks that we’d like to tackle: funder name matching, bibliographic reference matching, preprint matching, affiliation matching, grant matching, and title matching.</p>
+        <p>Funder matching is a task of automatically finding an identifier of a funding organisation based on its name. Funder matching, when done well, improves the coverage and reliability of funding metadata, and the relationships between funding organisations and research outputs in particular. These relationships are critical for understanding how research is supported, tracking compliance with funder mandates, and enabling analyses of research investment.</p>
+        <p>Funder matching, as any type of matching, is not trivial because data can be noisy: the same organisation may appear under many variants, abbreviations, or translations, and some names are genuinely ambiguous. Our goal was to develop a matching strategy that results in a lot of additional identifiers while maintaining high quality of the results.</p>
+        <p>As part of this project, we will be switching the target identifier set for funder matching from the Funder Registry to the <a href="https://ror.org" target="_blank">ROR registry</a>, in line with our long-term <a href="https://doi.org/10.64000/v3429-p7810" target="_blank">plan to replace the Funder Registry with ROR</a>. ROR provides an open, community-governed identifier system that is already used for affiliations and research institutions. It has become a well curated and widely-trusted catalog of organisations around the world involved in research, and it is very well suited to be the primary identifier for funders in Crossref. We are taking this opportunity to make a major move toward using ROR IDs.</p>
+        <p>This blog post describes the funder matching strategy we’ve developed and presents an evaluation of its performance, along with a new evaluation data set.</p>
+        <h2 id="overview-of-the-funder-matching-strategy">Overview of the funder matching strategy</h2>
+        <p>At a high level, the funder matching strategy takes a funder name string from Crossref metadata as input and returns zero or one ROR IDs. While funder strings can occasionally map to more than one ROR ID, this strategy can only return at most one match per input string. Future versions of the strategy will allow for multiple matches.</p>
+        <p>The new matching strategy is based on the <a href="https://doi.org/10.71938/zz90-g810" target="_blank">“single search” strategy</a> previously developed at Crossref to match affiliation strings to ROR IDs, which is currently implemented in ROR’s API and which we plan to use to enrich affiliation metadata for works in Crossref. Funder matching and affiliation matching are similar tasks—they share the same target identifier set (ROR IDs), and they both use free-form text strings as their primary inputs. Most of these text strings are in English, so the strategy is optimized for English text; but the matching still works well on text in other languages, thanks in large part to ROR’s comprehensive catalog of multilingual alternate names.</p>
+        <p>However, there are also some differences in the way that these input strings tend to look across the two different tasks, so the strategy was adapted and refined specifically for funder matching. For example, affiliation strings are often much longer and contain information such as academic department and city/country in addition to the name of the institution; funder strings are usually more concise, which can often make it easy to identify an exact match in ROR, but requires more extensive exclusion criteria to prevent incorrect matches for generic names.</p>
+        <p>The flow chart diagram shows the basic steps that each funder name goes through when a match is attempted:</p>
+        <figure><img src="https://www.crossref.org/images/blog/2026/flow-chart-diagram-of-the-matching-strategy-steps.png"
+        alt="Flow chart diagram showing the matching strategy steps used to evaluate a funder name against potential ROR matches." width="100%"><figcaption>
+        <p><em>Flow chart diagram of the matching strategy’s steps to evaluate a funder name against potential ROR matches</em></p>
+        </figcaption>
+        </figure>
+        <p>After normalization, the name is compared to a list of country names and identifiers to identify if there is any country information. The name is then passed to a search engine—an indexed text-based search system such as Elasticsearch or OpenSearch—to retrieve a set of 15-20 possible candidates of ROR organisations with similar names. At this point, we use a set of filters to discard any name matches that are unlikely to be correct (i.e., they tend to produce false positives). Some examples include matches for very short names, or names that are very generic (think “Department of Education,” without any other indication of which larger entity it may be a department of).</p>
+        <p>At this point, we have a set of candidate ROR IDs, with a corresponding set of organization names that may match our funder name. We score these names by their similarity to the input name (using a fuzzy matching algorithm), then select the best candidate based on this score and a few other heuristic measures. As a final step, we ensure that, if we identified any country information in the early stages of the matching, the ROR ID that we matched is consistent—while developing the strategy, we learned that failure to do this would be a significant source of false positives.</p>
+        <p>A core principle of the matching strategy is that it is relatively conservative: at several points in the pipeline, the strategy can explicitly abstain and return no match. This prioritizes precision over recall; we consider incorrect matches to be more harmful than missing ones. Nevertheless, this strategy will be able to fill in large gaps in the funder data, and we can be confident that we will not be making widespread mistakes. To verify this, we use an evaluation dataset, which is described in the next section.</p>
+        <h2 id="evaluation-dataset-for-funder-matching">Evaluation dataset for funder matching</h2>
+        <p>To evaluate the funder matching strategy, we manually labeled an evaluation dataset that maps funder name strings from Crossref metadata to zero, one, or multiple ROR IDs. The funder names were extracted from a July 2025 snapshot of Crossref works metadata, which contains 25.7 million funder entries across 12.4 million works, representing just over 3 million unique funder name strings.</p>
+        <p>The distribution of funder names is highly skewed: a small number of names appear very frequently, while most appear only a handful of times. Because correct handling of common funders has a disproportionate impact on overall metadata quality, the evaluation dataset is a weighted sample, where each name is weighted by how often it appears without an asserted funder ID.</p>
+        <p>The <a href="https://doi.org/10.13003/zmkagc4i" target="_blank">final evaluation dataset</a> contains 3,505 funder names, with a total weight of just over 2.1 million funder entries. Each name was manually labeled against the ROR registry, resulting in at least one ROR match for 1,895 names. In addition, for some cases, alternate matches were recorded to support “relaxed” evaluation in ambiguous scenarios.</p>
+        <h2 id="evaluation-methodology">Evaluation methodology</h2>
+        <p>Evaluation is done by running the matching strategy on all names in the dataset and comparing the results to the manual annotations. The primary metrics are precision, recall, and the F0.5 score, which combines precision and recall while weighting precision more heavily. This reflects the project’s preference to avoid incorrect metadata assertions, even at the cost of lower recall.</p>
+        <p>In addition to standard (strict) evaluation, the framework supports relaxed evaluation using alternate matches. This is meant to address cases where funder strings might be ambiguous even for a human evaluator, or a matching strategy might identify a parent organisation of a target, which is not an entirely incorrect match.</p>
+        <p>Evaluation is performed along two independent dimensions. First, results can be calculated in an unweighted mode, where each funder name is treated as equally important, or in a weighted mode, where names are weighted by how frequently they appear without an asserted identifier in Crossref metadata. Second, evaluation can be strict or relaxed, depending on whether only the primary annotated ROR ID is considered correct or whether alternate, manually annotated matches are also accepted. Together, these dimensions produce four possible evaluation modes.</p>
+        <h2 id="results">Results</h2>
+        <p>Under relaxed, weighted evaluation, the funder matching strategy achieves a precision of 0.99, recall of 0.81, and an F0.5 score of 0.95.</p>
+        <p>The table below compares the performance of the matching strategy across four evaluation modes. The Relaxed Weighted mode represents the headline performance (Precision: 0.9897) as it accounts for both the frequency of names in the metadata (weighting) and valid metadata ambiguity (alternates). In practical terms, the results mean that when the strategy produces a match, it is correct (or acceptably close, in cases of genuine ambiguity) roughly 99% of the time.</p>
+        <table>
+        <thead>
+        <tr>
+        <th>Evaluation Mode</th>
+        <th style="text-align: right">Precision</th>
+        <th style="text-align: right">Recall</th>
+        <th style="text-align: right">F0.5 Score</th>
+        <th style="text-align: right">False Positives</th>
+        <th style="text-align: right">False Negatives</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td>Unweighted</td>
+        <td style="text-align: right">0.9365</td>
+        <td style="text-align: right">0.6024</td>
+        <td style="text-align: right">0.8430</td>
+        <td style="text-align: right">81</td>
+        <td style="text-align: right">788</td>
+        </tr>
+        <tr>
+        <td>Weighted</td>
+        <td style="text-align: right">0.9776</td>
+        <td style="text-align: right">0.7948</td>
+        <td style="text-align: right">0.9346</td>
+        <td style="text-align: right">81</td>
+        <td style="text-align: right">788</td>
+        </tr>
+        <tr>
+        <td>Relaxed Unweighted</td>
+        <td style="text-align: right">0.9707</td>
+        <td style="text-align: right">0.6445</td>
+        <td style="text-align: right">0.8815</td>
+        <td style="text-align: right">37</td>
+        <td style="text-align: right">675</td>
+        </tr>
+        <tr>
+        <td>Relaxed Weighted</td>
+        <td style="text-align: right">0.9897</td>
+        <td style="text-align: right">0.8094</td>
+        <td style="text-align: right">0.9475</td>
+        <td style="text-align: right">37</td>
+        <td style="text-align: right">675</td>
+        </tr>
+        </tbody>
+        </table>
+        <p>While precision and recall are essential for understanding matching performance, there are <a href="https://doi.org/10.13003/axeer1ee" target="_blank">other important considerations</a> that also matter in practice. This strategy also scores high marks in some of these other criteria that we’ve identified:</p>
+        <ul>
+        <li>Openness — The strategy is open source—<a href="https://gitlab.com/crossref/marple#strategies" target="_blank">source code here</a>—and built on open source methods, in accordance with our commitment to <a href="https://openscholarlyinfrastructure.org/" target="_blank">POSI</a>.</li>
+        <li>Explainability/Flexibility — This is not a black box machine-learning model; the steps, detailed in the overview I’ve given earlier, are fairly easy to understand, update, and apply to new data.</li>
+        <li>Resources/Speed — The strategy is very quick (averaging a matter of milliseconds per match), and does not require large amounts of intense computation or data storage.</li>
+        </ul>
+        <h2 id="from-evaluation-to-production">From evaluation to production</h2>
+        <p>This work represents more than an isolated matching experiment: it is intended to be the first production deployment of the new metadata matching framework. Bringing funder matching into production will involve not only implementing the strategy described here, but also standing up shared infrastructure for monitoring, iteration, and reuse across future matching tasks. Applying this new matching system across all of Crossref’s current and future funder data will be our next milestone in the project. Beyond that, we will move on to grants, affiliations, references, and more. The work we’re doing now of setting up infrastructure, refining evaluation methods, and working out any kinks as they arise, will all contribute to the momentum of the project. We’re very excited about all the enrichment of the research nexus that lies ahead!</p>]]>
+      </description>
+      <source:markdown>In April 2025, we launched the [metadata matching project](https://www.crossref.org/community/special-programs/metadata-matching/), in order to add missing relationships to the scholarly metadata. We will do this by consolidating all existing and planned matching workflows, which enrich member-deposited metadata in Crossref. This unified service will result in a more complete [research nexus](https://www.crossref.org/documentation/research-nexus/). In this blog post, we share our latest milestone: developing and evaluating a strategy for matching funder metadata to [Research Organization Registry](https://ror.org/) (ROR) identifiers.
+
+### Key takeaways
+
+- Funder matching links funding organisation names to persistent identifiers, helping us understand how research outputs are funded and supported.
+- We built a new strategy to automatically match funder names in Crossref metadata to ROR identifiers.
+- Evaluated on a [manually labeled dataset of 3,505 funder names](https://doi.org/10.13003/zmkagc4i), the strategy achieves 99% precision and 81% recall.
+- This is the first production deployment of Crossref’s new metadata matching framework, paving the way for future matching tasks across affiliations, references, grants, and more.
+
+You can join us at our [Community Update Call on 13th May](https://www.crossref.org/events/crossref-community-update-2026) for a brief demonstration of the funder matching process.
+
+## Introduction
+
+In [our recent blog post on metadata enrichment](https://doi.org/10.64000/h6w1v-r1017), we described the different ways that Crossref metadata can be enriched after its initial deposit, leading to a more complete research nexus. In this model, we can think of the metadata records served through the Crossref API as a result of several layers of enrichment applied on top of the initial deposit from a Crossref member. These layers may include member updates, community feedback, automated matching, and third-party datasets.
+
+Metadata matching (layer 3) is when we use automated strategies to find missing relationships between entities within the scholarly record, such as relationships between research outputs, funding organisations, and grants, based on the unstructured information already present in the metadata. Our matching project aims to create a dedicated, consolidated metadata matching workflow that will eventually replace all existing production matching processes, with results made available through the REST API. We have identified the first six matching tasks that we’d like to tackle: funder name matching, bibliographic reference matching, preprint matching, affiliation matching, grant matching, and title matching.
+
+Funder matching is a task of automatically finding an identifier of a funding organisation based on its name. Funder matching, when done well, improves the coverage and reliability of funding metadata, and the relationships between funding organisations and research outputs in particular. These relationships are critical for understanding how research is supported, tracking compliance with funder mandates, and enabling analyses of research investment.
+
+Funder matching, as any type of matching, is not trivial because data can be noisy: the same organisation may appear under many variants, abbreviations, or translations, and some names are genuinely ambiguous. Our goal was to develop a matching strategy that results in a lot of additional identifiers while maintaining high quality of the results.
+
+As part of this project, we will be switching the target identifier set for funder matching from the Funder Registry to the [ROR registry](https://ror.org), in line with our long-term [plan to replace the Funder Registry with ROR](https://doi.org/10.64000/v3429-p7810). ROR provides an open, community-governed identifier system that is already used for affiliations and research institutions. It has become a well curated and widely-trusted catalog of organisations around the world involved in research, and it is very well suited to be the primary identifier for funders in Crossref. We are taking this opportunity to make a major move toward using ROR IDs.
+
+This blog post describes the funder matching strategy we’ve developed and presents an evaluation of its performance, along with a new evaluation data set.
+
+## Overview of the funder matching strategy
+
+At a high level, the funder matching strategy takes a funder name string from Crossref metadata as input and returns zero or one ROR IDs. While funder strings can occasionally map to more than one ROR ID, this strategy can only return at most one match per input string. Future versions of the strategy will allow for multiple matches.
+
+The new matching strategy is based on the [“single search” strategy](https://doi.org/10.71938/zz90-g810) previously developed at Crossref to match affiliation strings to ROR IDs, which is currently implemented in ROR’s API and which we plan to use to enrich affiliation metadata for works in Crossref. Funder matching and affiliation matching are similar tasks—they share the same target identifier set (ROR IDs), and they both use free-form text strings as their primary inputs. Most of these text strings are in English, so the strategy is optimized for English text; but the matching still works well on text in other languages, thanks in large part to ROR’s comprehensive catalog of multilingual alternate names.
+
+However, there are also some differences in the way that these input strings tend to look across the two different tasks, so the strategy was adapted and refined specifically for funder matching. For example, affiliation strings are often much longer and contain information such as academic department and city/country in addition to the name of the institution; funder strings are usually more concise, which can often make it easy to identify an exact match in ROR, but requires more extensive exclusion criteria to prevent incorrect matches for generic names.
+
+The flow chart diagram shows the basic steps that each funder name goes through when a match is attempted:
+
+![Flow chart diagram showing the matching strategy steps used to evaluate a funder name against potential ROR matches.](https://www.crossref.org/images/blog/2026/flow-chart-diagram-of-the-matching-strategy-steps.png)
+
+_Flow chart diagram of the matching strategy’s steps to evaluate a funder name against potential ROR matches_
+
+After normalization, the name is compared to a list of country names and identifiers to identify if there is any country information. The name is then passed to a search engine—an indexed text-based search system such as Elasticsearch or OpenSearch—to retrieve a set of 15-20 possible candidates of ROR organisations with similar names. At this point, we use a set of filters to discard any name matches that are unlikely to be correct (i.e., they tend to produce false positives). Some examples include matches for very short names, or names that are very generic (think “Department of Education,” without any other indication of which larger entity it may be a department of).
+
+At this point, we have a set of candidate ROR IDs, with a corresponding set of organization names that may match our funder name. We score these names by their similarity to the input name (using a fuzzy matching algorithm), then select the best candidate based on this score and a few other heuristic measures. As a final step, we ensure that, if we identified any country information in the early stages of the matching, the ROR ID that we matched is consistent—while developing the strategy, we learned that failure to do this would be a significant source of false positives.
+
+A core principle of the matching strategy is that it is relatively conservative: at several points in the pipeline, the strategy can explicitly abstain and return no match. This prioritizes precision over recall; we consider incorrect matches to be more harmful than missing ones. Nevertheless, this strategy will be able to fill in large gaps in the funder data, and we can be confident that we will not be making widespread mistakes. To verify this, we use an evaluation dataset, which is described in the next section.
+
+## Evaluation dataset for funder matching
+
+To evaluate the funder matching strategy, we manually labeled an evaluation dataset that maps funder name strings from Crossref metadata to zero, one, or multiple ROR IDs. The funder names were extracted from a July 2025 snapshot of Crossref works metadata, which contains 25.7 million funder entries across 12.4 million works, representing just over 3 million unique funder name strings.
+
+The distribution of funder names is highly skewed: a small number of names appear very frequently, while most appear only a handful of times. Because correct handling of common funders has a disproportionate impact on overall metadata quality, the evaluation dataset is a weighted sample, where each name is weighted by how often it appears without an asserted funder ID.
+
+The [final evaluation dataset](https://doi.org/10.13003/zmkagc4i) contains 3,505 funder names, with a total weight of just over 2.1 million funder entries. Each name was manually labeled against the ROR registry, resulting in at least one ROR match for 1,895 names. In addition, for some cases, alternate matches were recorded to support “relaxed” evaluation in ambiguous scenarios.
+
+## Evaluation methodology
+
+Evaluation is done by running the matching strategy on all names in the dataset and comparing the results to the manual annotations. The primary metrics are precision, recall, and the F0.5 score, which combines precision and recall while weighting precision more heavily. This reflects the project’s preference to avoid incorrect metadata assertions, even at the cost of lower recall.
+
+In addition to standard (strict) evaluation, the framework supports relaxed evaluation using alternate matches. This is meant to address cases where funder strings might be ambiguous even for a human evaluator, or a matching strategy might identify a parent organisation of a target, which is not an entirely incorrect match.
+
+Evaluation is performed along two independent dimensions. First, results can be calculated in an unweighted mode, where each funder name is treated as equally important, or in a weighted mode, where names are weighted by how frequently they appear without an asserted identifier in Crossref metadata. Second, evaluation can be strict or relaxed, depending on whether only the primary annotated ROR ID is considered correct or whether alternate, manually annotated matches are also accepted. Together, these dimensions produce four possible evaluation modes.
+
+## Results
+
+Under relaxed, weighted evaluation, the funder matching strategy achieves a precision of 0.99, recall of 0.81, and an F0.5 score of 0.95.
+
+The table below compares the performance of the matching strategy across four evaluation modes. The Relaxed Weighted mode represents the headline performance (Precision: 0.9897) as it accounts for both the frequency of names in the metadata (weighting) and valid metadata ambiguity (alternates). In practical terms, the results mean that when the strategy produces a match, it is correct (or acceptably close, in cases of genuine ambiguity) roughly 99% of the time.
+
+Evaluation ModePrecisionRecallF0.5 ScoreFalse PositivesFalse NegativesUnweighted0.93650.60240.843081788Weighted0.97760.79480.934681788Relaxed Unweighted0.97070.64450.881537675Relaxed Weighted0.98970.80940.947537675
+
+While precision and recall are essential for understanding matching performance, there are [other important considerations](https://doi.org/10.13003/axeer1ee) that also matter in practice. This strategy also scores high marks in some of these other criteria that we’ve identified:
+
+- Openness — The strategy is open source— [source code here](https://gitlab.com/crossref/marple#strategies)—and built on open source methods, in accordance with our commitment to [POSI](https://openscholarlyinfrastructure.org/).
+- Explainability/Flexibility — This is not a black box machine-learning model; the steps, detailed in the overview I’ve given earlier, are fairly easy to understand, update, and apply to new data.
+- Resources/Speed — The strategy is very quick (averaging a matter of milliseconds per match), and does not require large amounts of intense computation or data storage.
+
+## From evaluation to production
+
+This work represents more than an isolated matching experiment: it is intended to be the first production deployment of the new metadata matching framework. Bringing funder matching into production will involve not only implementing the strategy described here, but also standing up shared infrastructure for monitoring, iteration, and reuse across future matching tasks. Applying this new matching system across all of Crossref’s current and future funder data will be our next milestone in the project. Beyond that, we will move on to grants, affiliations, references, and more. The work we’re doing now of setting up infrastructure, refining evaluation methods, and working out any kinks as they arise, will all contribute to the momentum of the project. We’re very excited about all the enrichment of the research nexus that lies ahead!</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/</guid>
     </item>    <item>
       <title>Something big is happening in the global scientific community, and Brazil seems to be left out again</title>
       <link>https://blog.scielo.org/blog/2026/04/24/algo-grande-esta-acontecendo-na-ciencia-mundial-e-o-brasil-parece-estar-de-fora-novamente#new_tab</link>
@@ -106,7 +314,7 @@ The post [The Opportunities and Perils of Discovery: STM Releases its Trends 203
       <description>
         <![CDATA[<p>Preserving the integrity of the scholarly record is an important component of the overall endeavour to protect research integrity. Open scholarly infrastructure enables persistent recording of research objects and associated metadata, which provides an evidence trail for these objects for all in the research community. <a href="https://crossref.org/" target="_blank">Crossref</a> and <a href="https://datacite.org/" target="_blank">DataCite</a> – as providers of essential infrastructure for preservation of the scholarly record – we share our joint expertise in the new guide on “Why metadata matters for research integrity and how to contribute”.</p>
         <p>Both our organisations enable our members to share metadata about the research outputs, resources, and activities that they produce and steward. That metadata about scholarly outputs provides important information about them, which can help evidence integrity. To highlight how and which elements in the Crossref and DataCite metadata schemas support this endeavour, we are excited to make our new guide, available at <a href="https://zenodo.org/records/19695957" target="_blank">https://doi.org/10.5281/zenodo19695957</a>.</p>
-        <p>This joint guide offers practical information for all stakeholders in the scholarly ecosystem about the different metadata elements supported by Crossref and DataCite that can help in assessing the integrity of the scholarly record. With growth in the type and complexity of research outputs over the years, there is also a growing need to be able to ascertain the trustworthiness of research outputs. Metadata directly supports this function. Creators and stewards of research outputs can provide metadata about the content that they produce, including information on who authored the work, who funded it, which other works it cites, whether it was updated after publication, how it relates to other items in the research ecosystem, and more. This guide lists out the metadata elements that capture this information in the Crossref and DataCite metadata schemas and the important role played by each of them in assessing integrity and rigour. We hope that by knowing more about the applications of metadata for preserving the integrity of the scholarly record, prospective authors, researchers, publishers, repositories, integrators, and funders will be encouraged to contribute rich and accurate metadata when registering DOI records.</p>
+        <p>This joint guide offers practical information for all stakeholders in the scholarly ecosystem about the different metadata elements supported by Crossref and DataCite that can help in assessing the integrity of the scholarly record. With growth in the type and complexity of research outputs over the years, there is also a growing need to be able to ascertain the trustworthiness of research outputs. Metadata directly supports this function. Creators and stewards of research outputs can provide metadata about the content that they produce, including information on who authored the work, who funded it, which other works it cites, whether it was updated after publication, how it relates to other items in the research ecosystem, and more. This guide lists the metadata elements that capture this information in the Crossref and DataCite metadata schemas and the important role played by each of them in assessing integrity and rigour. We hope that by knowing more about the applications of metadata for preserving the integrity of the scholarly record, prospective authors, researchers, publishers, repositories, integrators, and funders will be encouraged to contribute rich and accurate metadata when registering DOI records.</p>
         <p>This information can also be leveraged by researchers and users of metadata who are looking to incorporate open metadata into their tools and analyses. All of the metadata in Crossref and DataCite can be accessed via open APIs and public data files. This guide contains details of what each of the metadata elements can be used for, helping you to identify the right data that you need for your analyses of interest, such as looking at citation patterns, network analysis, and other research integrity trends.</p>
         <p>As you read through this guide, please share your feedback and any questions that you may have via <a href="https://community.crossref.org/" target="_blank">the Crossref community forum</a>.</p>]]>
       </description>
@@ -114,7 +322,7 @@ The post [The Opportunities and Perils of Discovery: STM Releases its Trends 203
 
 Both our organisations enable our members to share metadata about the research outputs, resources, and activities that they produce and steward. That metadata about scholarly outputs provides important information about them, which can help evidence integrity. To highlight how and which elements in the Crossref and DataCite metadata schemas support this endeavour, we are excited to make our new guide, available at [https://doi.org/10.5281/zenodo19695957](https://zenodo.org/records/19695957).
 
-This joint guide offers practical information for all stakeholders in the scholarly ecosystem about the different metadata elements supported by Crossref and DataCite that can help in assessing the integrity of the scholarly record. With growth in the type and complexity of research outputs over the years, there is also a growing need to be able to ascertain the trustworthiness of research outputs. Metadata directly supports this function. Creators and stewards of research outputs can provide metadata about the content that they produce, including information on who authored the work, who funded it, which other works it cites, whether it was updated after publication, how it relates to other items in the research ecosystem, and more. This guide lists out the metadata elements that capture this information in the Crossref and DataCite metadata schemas and the important role played by each of them in assessing integrity and rigour. We hope that by knowing more about the applications of metadata for preserving the integrity of the scholarly record, prospective authors, researchers, publishers, repositories, integrators, and funders will be encouraged to contribute rich and accurate metadata when registering DOI records.
+This joint guide offers practical information for all stakeholders in the scholarly ecosystem about the different metadata elements supported by Crossref and DataCite that can help in assessing the integrity of the scholarly record. With growth in the type and complexity of research outputs over the years, there is also a growing need to be able to ascertain the trustworthiness of research outputs. Metadata directly supports this function. Creators and stewards of research outputs can provide metadata about the content that they produce, including information on who authored the work, who funded it, which other works it cites, whether it was updated after publication, how it relates to other items in the research ecosystem, and more. This guide lists the metadata elements that capture this information in the Crossref and DataCite metadata schemas and the important role played by each of them in assessing integrity and rigour. We hope that by knowing more about the applications of metadata for preserving the integrity of the scholarly record, prospective authors, researchers, publishers, repositories, integrators, and funders will be encouraged to contribute rich and accurate metadata when registering DOI records.
 
 This information can also be leveraged by researchers and users of metadata who are looking to incorporate open metadata into their tools and analyses. All of the metadata in Crossref and DataCite can be accessed via open APIs and public data files. This guide contains details of what each of the metadata elements can be used for, helping you to identify the right data that you need for your analyses of interest, such as looking at citation patterns, network analysis, and other research integrity trends.
 
@@ -135,10 +343,10 @@ The post [Association of College and Research Libraries (ACRL) Publishes “The 
       <title>Library Copyright Alliance Testifies Against Pro Codes Act</title>
       <link>https://www.arl.org/blog/library-copyright-alliance-testifies-against-pro-codes-act/</link>
       <description>
-        <![CDATA[<p>Last Updated on April 22, 2026, 10:51 am ET In a hearing yesterday of the US House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet on the...</p>
+        <![CDATA[<p>Last Updated on April 27, 2026, 7:05 pm ET In a hearing yesterday of the US House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet on the...</p>
         <p>The post <a href="https://www.arl.org/blog/library-copyright-alliance-testifies-against-pro-codes-act/">Library Copyright Alliance Testifies Against Pro Codes Act</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on April 22, 2026, 10:51 am ET In a hearing yesterday of the US House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet on the...
+      <source:markdown>Last Updated on April 27, 2026, 7:05 pm ET In a hearing yesterday of the US House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet on the...
 
 The post [Library Copyright Alliance Testifies Against Pro Codes Act](https://www.arl.org/blog/library-copyright-alliance-testifies-against-pro-codes-act/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48202</guid>
@@ -852,39 +1060,6 @@ The post [Standing Up, Standing Proud, Standing Together: Inside the Pathways to
       </description>
       <source:markdown>This week the Rogue Scholar science blog archive is launching a weekly newsletter of featured English-language posts, joining the weekly newsletters of all posts written in German, Spanish or French.</source:markdown>
       <guid>cid://69d4ab71eca1e2000146f3a6</guid>
-    </item>    <item>
-      <title>ARL Daily Intelligence (April 6–9)</title>
-      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-april-6-9/</link>
-      <description>
-        <![CDATA[<p>Last Updated on April 9, 2026, 3:09 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
-        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-april-6-9/">ARL Daily Intelligence (April 6–9)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on April 9, 2026, 3:09 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
-
-The post [ARL Daily Intelligence (April 6–9)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-april-6-9/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=48013</guid>
-    </item>    <item>
-      <title>American Library Association (ALA) Announces Recipients of the I Love My Librarian Award For 2026</title>
-      <link>https://www.infodocket.com/2026/04/06/american-library-association-ala-announces-recipients-of-the-i-love-my-librarian-award-for-2026/</link>
-      <description>
-        <![CDATA[<p>From the American Library Association: The American Library Association (ALA) is thrilled to announce this year’s 10 recipients of the coveted I Love My Librarian Award. Serving communities across the nation, the 2026 honorees are exceptional librarians from academic, public, and school libraries who were nominated by community members for their expertise, dedication, and profound impact [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/04/06/american-library-association-ala-announces-recipients-of-the-i-love-my-librarian-award-for-2026/">American Library Association (ALA) Announces Recipients of the I Love My Librarian Award For 2026</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From the American Library Association: The American Library Association (ALA) is thrilled to announce this year’s 10 recipients of the coveted I Love My Librarian Award. Serving communities across the nation, the 2026 honorees are exceptional librarians from academic, public, and school libraries who were nominated by community members for their expertise, dedication, and profound impact \[…\]
-
-The post [American Library Association (ALA) Announces Recipients of the I Love My Librarian Award For 2026](https://www.infodocket.com/2026/04/06/american-library-association-ala-announces-recipients-of-the-i-love-my-librarian-award-for-2026/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167902</guid>
-    </item>    <item>
-      <title>Guest Post — Knowledge as Civic Infrastructure: A Conversation with Nadim Sadek</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/04/06/guest-post-knowledge-as-civic-infrastructure-a-conversation-with-nadim-sadek/</link>
-      <description>
-        <![CDATA[<p>Wendy Queen interviews Nadim Sadek. Nadim  is a creative strategist and founder of Shimmr AI, who argues that AI can strengthen human creativity rather than replace it.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/06/guest-post-knowledge-as-civic-infrastructure-a-conversation-with-nadim-sadek/">Guest Post — Knowledge as Civic Infrastructure: A Conversation with Nadim Sadek</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Wendy Queen interviews Nadim Sadek. Nadim is a creative strategist and founder of Shimmr AI, who argues that AI can strengthen human creativity rather than replace it.
-
-The post [Guest Post — Knowledge as Civic Infrastructure: A Conversation with Nadim Sadek](https://scholarlykitchen.sspnet.org/2026/04/06/guest-post-knowledge-as-civic-infrastructure-a-conversation-with-nadim-sadek/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61807</guid>
     </item>
   </channel>
 </rss>

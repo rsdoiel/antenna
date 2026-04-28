@@ -4,10 +4,59 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>27 Apr 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>28 Apr 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Wonders of physical science by E. E.  Fournier d&#39;Albe</title>
+      <link>https://www.gutenberg.org/ebooks/78559</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>An Englishwoman in a Turkish harem by Grace Ellison</title>
+      <link>https://www.gutenberg.org/ebooks/78562</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Beautiful Joe: An Autobiography by Marshall Saunders</title>
+      <link>https://www.gutenberg.org/ebooks/2818</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 4 of 5] : by John Gould</title>
+      <link>https://www.gutenberg.org/ebooks/78558</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The illustrated horse management : by Edward Mayhew</title>
+      <link>https://www.gutenberg.org/ebooks/78560</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sure-dart : by Frederick H. Costello</title>
+      <link>https://www.gutenberg.org/ebooks/78561</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Incomparable 29th and the &#34;River Clyde&#34; by George Davidson</title>
+      <link>https://www.gutenberg.org/ebooks/25342</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Bertha&#39;s engagement by Ann S.  Stephens</title>
       <link>https://www.gutenberg.org/ebooks/78552</link>
       <description>
@@ -345,15 +394,6 @@
       <source:markdown>After her wedding, a bride asks to visit her mother’s grave, and then disappears.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/catherine-louisa-pirkis/a-bride-of-a-summers-day/downloads/catherine-louisa-pirkis_a-bride-of-a-summers-day.epub?source=feed" length="661869" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/catherine-louisa-pirkis/a-bride-of-a-summers-day</guid>
-    </item>    <item>
-      <title>Barnaby Rudge, by Charles Dickens</title>
-      <link>https://standardebooks.org/ebooks/charles-dickens/barnaby-rudge</link>
-      <description>
-        <![CDATA[A simple-minded young man and his pet raven are swept up in the anti-Catholic Gordon Riots of 1780.]]>
-      </description>
-      <source:markdown>A simple-minded young man and his pet raven are swept up in the anti-Catholic Gordon Riots of 1780.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/charles-dickens/barnaby-rudge/downloads/charles-dickens_barnaby-rudge.epub?source=feed" length="1025044" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/charles-dickens/barnaby-rudge</guid>
     </item>
   </channel>
 </rss>
