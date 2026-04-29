@@ -4,10 +4,73 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>28 Apr 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>29 Apr 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/04/29/guest-post-when-thinking-is-outsourced-a-warning-from-a-scientist-trained-before-ai/</link>
+      <description>
+        <![CDATA[<p>Today's guest post sounds an alarm about the use of AI in research and warns that no amount of computational efficiency can compensate for the loss of our capacity for human thought.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/29/guest-post-when-thinking-is-outsourced-a-warning-from-a-scientist-trained-before-ai/">Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s guest post sounds an alarm about the use of AI in research and warns that no amount of computational efficiency can compensate for the loss of our capacity for human thought.
+
+The post [Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI](https://scholarlykitchen.sspnet.org/2026/04/29/guest-post-when-thinking-is-outsourced-a-warning-from-a-scientist-trained-before-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61886</guid>
+    </item>    <item>
+      <title>The May 2026 Issue of College and Research Libraries (C&#38;RL) is Now Available Online</title>
+      <link>https://www.infodocket.com/2026/04/28/the-may-2026-issue-of-college-and-research-libraries-crl-is-now-available-online/</link>
+      <description>
+        <![CDATA[<p>College and Research Libraries Vol. 87, No. 3 (May 2026) Table of Contents Download Full Issue (PDF) &#124; Source Articles Publish or Perish? A Content Analysis of Scholarship Criteria in R1 Academic Libraries&#8217; Promotion and Tenure Documentation [PDF] [HTML] Teresa Schultz, Emily E. Boss, Elena Azadbakht Not Just Monetary: Arts and Humanities Scholars&#8217; Perspectives on the Costs of [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/04/28/the-may-2026-issue-of-college-and-research-libraries-crl-is-now-available-online/">The May 2026 Issue of College and Research Libraries (C&amp;RL) is Now Available Online</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>College and Research Libraries Vol. 87, No. 3 (May 2026) Table of Contents Download Full Issue (PDF) \| Source Articles Publish or Perish? A Content Analysis of Scholarship Criteria in R1 Academic Libraries’ Promotion and Tenure Documentation \[PDF\] \[HTML\] Teresa Schultz, Emily E. Boss, Elena Azadbakht Not Just Monetary: Arts and Humanities Scholars’ Perspectives on the Costs of \[…\]
+
+The post [The May 2026 Issue of College and Research Libraries (C&#38;RL) is Now Available Online](https://www.infodocket.com/2026/04/28/the-may-2026-issue-of-college-and-research-libraries-crl-is-now-available-online/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167986</guid>
+    </item>    <item>
+      <title>Security Incident Disclosure</title>
+      <link>https://blog.openlibrary.org/2026/04/28/security-incident-disclosure-2024-04-28/</link>
+      <description>
+        <![CDATA[Early, around 7:30am Pacific, on Tuesday, April 28th, high database load was detected on OpenLibrary.org. Investigation revealed a set of at least 38,703 residential IP addresses performing a coordinated sqlinjection attack on a vulnerable openlibrary.org endpoint, resulting in exfiltration of emails and encrypted passwords of 175,080 legacy accounts, registered before March, 2011. This table has [&#8230;]]]>
+      </description>
+      <source:markdown>Early, around 7:30am Pacific, on Tuesday, April 28th, high database load was detected on OpenLibrary.org. Investigation revealed a set of at least 38,703 residential IP addresses performing a coordinated sqlinjection attack on a vulnerable openlibrary.org endpoint, resulting in exfiltration of emails and encrypted passwords of 175,080 legacy accounts, registered before March, 2011. This table has \[…\]</source:markdown>
+      <guid>cid://https://blog.openlibrary.org/?p=2676</guid>
+    </item>    <item>
+      <title>April 2026</title>
+      <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/april-2026/</link>
+      <description>
+        <![CDATA[<p>Last Updated on April 28, 2026, 12:15 pm ET ARL Public Policy Briefing (April 2026) This month, the Trump administration extended the compliance dates for web content and mobile app...</p>
+        <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/april-2026/">April 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on April 28, 2026, 12:15 pm ET ARL Public Policy Briefing (April 2026) This month, the Trump administration extended the compliance dates for web content and mobile app...
+
+The post [April 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/april-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=48263</guid>
+    </item>    <item>
+      <title>New Report: AI Use Across the North American Book Industry</title>
+      <link>https://www.infodocket.com/2026/04/28/new-report-ai-use-across-the-north-american-book-industry/</link>
+      <description>
+        <![CDATA[<p>From BookNet Canada and BISG: In the book industry, while some organizations have openly embraced AI, others have completely rejected it. Some are sitting on the sidelines, wondering if this is worth their time and attention, resources which are scarce and very valuable in an industry with thin margins such as this one In the [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/04/28/new-report-ai-use-across-the-north-american-book-industry/">New Report: AI Use Across the North American Book Industry </a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From BookNet Canada and BISG: In the book industry, while some organizations have openly embraced AI, others have completely rejected it. Some are sitting on the sidelines, wondering if this is worth their time and attention, resources which are scarce and very valuable in an industry with thin margins such as this one In the \[…\]
+
+The post [New Report: AI Use Across the North American Book Industry](https://www.infodocket.com/2026/04/28/new-report-ai-use-across-the-north-american-book-industry/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167983</guid>
+    </item>    <item>
+      <title>Conference Paper (preprint): “Your Students Don’t Use LLMs Like You Wish They Did”</title>
+      <link>https://www.infodocket.com/2026/04/28/conference-paper-preprint-your-students-dont-use-llms-like-you-wish-they-did/</link>
+      <description>
+        <![CDATA[<p>The preprint linked below will be presented at the 64th Annual Meeting of the Association for Computational Linguistics (ACL). Title Your Students Don&#8217;t Use LLMs Like You Wish They Did Authors Sebastian Kobler, Matthew Clemson, Angela Sun, Jonathan K. Kummerfeld Affiliation: The University of Sydney (All Authors) Source via arxiv DOI: 10.48550/arXiv.2604.23486 Abstract Educational NLP [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/04/28/conference-paper-preprint-your-students-dont-use-llms-like-you-wish-they-did/">Conference Paper (preprint): &#8220;Your Students Don&#8217;t Use LLMs Like You Wish They Did&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>The preprint linked below will be presented at the 64th Annual Meeting of the Association for Computational Linguistics (ACL). Title Your Students Don’t Use LLMs Like You Wish They Did Authors Sebastian Kobler, Matthew Clemson, Angela Sun, Jonathan K. Kummerfeld Affiliation: The University of Sydney (All Authors) Source via arxiv DOI: 10.48550/arXiv.2604.23486 Abstract Educational NLP \[…\]
+
+The post [Conference Paper (preprint): “Your Students Don’t Use LLMs Like You Wish They Did”](https://www.infodocket.com/2026/04/28/conference-paper-preprint-your-students-dont-use-llms-like-you-wish-they-did/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=167980</guid>
+    </item>    <item>
       <title>Guest Post — Develop to Delegate: How Investing in Early-Career Professionals Strengthens Organizations</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/28/guest-post-develop-to-delegate-how-investing-in-early-career-professionals-strengthens-organizations/</link>
       <description>
@@ -1011,55 +1074,6 @@ The post [Chicago Public Library, Chicago Public Schools Expand Automatic Librar
 
 The post [AI Rollout Is a People Problem: A Pulse on All Things AI, Part 2](https://scholarlykitchen.sspnet.org/2026/04/08/ai-rollout-is-a-people-problem-a-pulse-on-all-things-ai-part-2/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61815</guid>
-    </item>    <item>
-      <title>Statement From ALA: Trump Administration Withdraws Appeal, Securing Historic Victory For Libraries and IMLS</title>
-      <link>https://www.infodocket.com/2026/04/07/statement-from-ala-trump-administration-withdraws-appeal-securing-historic-victory-for-libraries-and-imls/</link>
-      <description>
-        <![CDATA[<p>Here&#8217;s the Full Text of an American Libraries Association (ALA) Statement: On April 6, a federal court granted the Trump Administration’s request to withdraw its appeal of a federal judge’s earlier ruling that struck down the Administration’s dismantling of the Institute of Museum and Library Services (IMLS)—the only federal agency dedicated to providing funding for [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/04/07/statement-from-ala-trump-administration-withdraws-appeal-securing-historic-victory-for-libraries-and-imls/">Statement From ALA: Trump Administration Withdraws Appeal, Securing Historic Victory For Libraries and IMLS</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>Here’s the Full Text of an American Libraries Association (ALA) Statement: On April 6, a federal court granted the Trump Administration’s request to withdraw its appeal of a federal judge’s earlier ruling that struck down the Administration’s dismantling of the Institute of Museum and Library Services (IMLS)—the only federal agency dedicated to providing funding for \[…\]
-
-The post [Statement From ALA: Trump Administration Withdraws Appeal, Securing Historic Victory For Libraries and IMLS](https://www.infodocket.com/2026/04/07/statement-from-ala-trump-administration-withdraws-appeal-securing-historic-victory-for-libraries-and-imls/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167906</guid>
-    </item>    <item>
-      <title>Anywhere Adventures Story Submission Extended!</title>
-      <link>https://blogs.loc.gov/thesignal/2026/04/anywhere-adventures-story-submission-extended/</link>
-      <description>
-        <![CDATA[Anywhere Adventures is a mobile-first website that brings local history to users through comics and travel logs. In the first year, 2025-2026 Innovator in Residence Vivian Li developed stories for three locations: Seattle, Washington, Chicago, Illinois, and Southeast Wyoming. She is now seeking story submissions from readers for two new locations: Pittsburgh, Pennsylvania and the &#8230;]]>
-      </description>
-      <source:markdown>Anywhere Adventures is a mobile-first website that brings local history to users through comics and travel logs. In the first year, 2025-2026 Innovator in Residence Vivian Li developed stories for three locations: Seattle, Washington, Chicago, Illinois, and Southeast Wyoming. She is now seeking story submissions from readers for two new locations: Pittsburgh, Pennsylvania and the …</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=37295</guid>
-    </item>    <item>
-      <title>Understanding the Changing Terms of US–Sino Research Collaboration</title>
-      <link>https://sr.ithaka.org/blog/understanding-the-changing-terms-of-us-sino-research-collaboration/</link>
-      <description>
-        <![CDATA[<p>Ithaka S+R is tracking federal policies in the United States that affect US–Sino academic collaboration as part of our Supporting International Values in the Research Enterprise project, funded by the Henry Luce Foundation. The tracker documents the developing rules, restrictions, and guidance that govern how scientific collaboration across borders can take place. Our aim for [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/understanding-the-changing-terms-of-us-sino-research-collaboration/">Understanding the Changing Terms of US–Sino Research Collaboration</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Ithaka S+R is tracking federal policies in the United States that affect US–Sino academic collaboration as part of our Supporting International Values in the Research Enterprise project, funded by the Henry Luce Foundation. The tracker documents the developing rules, restrictions, and guidance that govern how scientific collaboration across borders can take place. Our aim for \[…\]
-
-The post [Understanding the Changing Terms of US–Sino Research Collaboration](https://sr.ithaka.org/blog/understanding-the-changing-terms-of-us-sino-research-collaboration/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325356</guid>
-    </item>    <item>
-      <title>Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 3</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/04/07/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-3/</link>
-      <description>
-        <![CDATA[<p>Part 3 of a look at the American Society of Civil Engineers’ inaugural Pathways to Inclusive Publishing Summit, which brought together industry leaders, content creators, and allies to explore strategies for fostering inclusivity and accessibility within the publishing ecosystem.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/07/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-3/">Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 3</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Part 3 of a look at the American Society of Civil Engineers’ inaugural Pathways to Inclusive Publishing Summit, which brought together industry leaders, content creators, and allies to explore strategies for fostering inclusivity and accessibility within the publishing ecosystem.
-
-The post [Standing Up, Standing Proud, Standing Together: Inside the Pathways to Inclusive Publishing Summit and the Movement for Equity in Scholarly Publishing: Part 3](https://scholarlykitchen.sspnet.org/2026/04/07/standing-up-standing-proud-standing-together-inside-the-pathways-to-inclusive-publishing-summit-and-the-movement-for-equity-in-scholarly-publishing-part-3/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61809</guid>
-    </item>    <item>
-      <title>Rogue Scholar launches a Featured Posts Newsletter</title>
-      <link>https://blog.front-matter.de/posts/rogue-scholar-launches-a-featured-posts-newsletter/</link>
-      <description>
-        <![CDATA[This week the Rogue Scholar science blog archive is launching a weekly newsletter of featured English-language posts, joining the weekly newsletters of all posts written in German, Spanish or French.]]>
-      </description>
-      <source:markdown>This week the Rogue Scholar science blog archive is launching a weekly newsletter of featured English-language posts, joining the weekly newsletters of all posts written in German, Spanish or French.</source:markdown>
-      <guid>cid://69d4ab71eca1e2000146f3a6</guid>
     </item>
   </channel>
 </rss>

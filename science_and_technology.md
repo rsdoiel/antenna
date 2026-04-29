@@ -25,7 +25,9 @@ title: Science and Technology
 
 > - [System 76 Blog](https://blog.system76.com/rss.xml)
 > - [Purism News](https://puri.sm/feed/)
+- [NVidia blog](https://blogs.nvidia.com/feed/)
 
 # European Tech
 
 - [Codeberg.org](https://blog.codeberg.org/feeds/all.atom.xml)
+

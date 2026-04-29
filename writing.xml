@@ -4,10 +4,21 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>28 Apr 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>29 Apr 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Learning Comedy</title>
+      <link>https://johnaugust.com/2026/learning-comedy</link>
+      <description>
+        <![CDATA[<p>John welcomes five-time Emmy-winning writer Ali Barthwell (Last Week Tonight) to ask, can writers learn to be funny? Drawing from her time as a teacher at The Second City, they look at what writers can learn from sketch and improv, and how to reliably find ways to make an audience laugh. We also celebrate the [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/learning-comedy">Learning Comedy</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>John welcomes five-time Emmy-winning writer Ali Barthwell (Last Week Tonight) to ask, can writers learn to be funny? Drawing from her time as a teacher at The Second City, they look at what writers can learn from sketch and improv, and how to reliably find ways to make an audience laugh. We also celebrate the \[…\]
+
+The post [Learning Comedy](https://johnaugust.com/2026/learning-comedy) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=23905</guid>
+    </item>    <item>
       <title>I Made You a Mixtape (Secs. 1001–1010)</title>
       <link>https://www.authorsalliance.org/2026/04/24/i-made-you-a-mixtape-secs-1001-1010/</link>
       <description>
@@ -2770,25 +2781,6 @@ If you want, you can be a policeman. You can be a paramedic. You can even work a
 
 GTA: San Andreas has taken the series beyond the mirror: it is an otherworld. You can play it as a game, with missions to complete and secrets to catalog, but its true achievement is that you can be happy just playing, not worrying about points or progress. Just existing inside it is fascinating.</source:markdown>
       <guid>cid://https://chrisklimas.com/blog/2004-11-15-the-otherworld-of-grand-theft-auto-san-andreas</guid>
-    </item>    <item>
-      <title>Amicus Brief in the Salt-N-Pepa Case Asking the Second Circuit Court to Safeguard Authors’ Section 203 Termination Right</title>
-      <link>https://www.authorsalliance.org/2026/04/07/amicus-brief-in-the-salt-n-pepa-case-asking-the-second-circuit-court-to-safeguard-authors-section-203-termination-right/</link>
-      <description>
-        <![CDATA[With the generous help of the NYU's Technology Law &#038; Policy Clinic, we filed an amicus brief today in support of Salt-N-Pepa. The outcome of this case could significantly shape whether Section 203 termination right remains meaningful in practice, or becomes effectively hollow.]]>
-      </description>
-      <source:markdown>With the generous help of the NYU&#39;s Technology Law &#38; Policy Clinic, we filed an amicus brief today in support of Salt-N-Pepa. The outcome of this case could significantly shape whether Section 203 termination right remains meaningful in practice, or becomes effectively hollow.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12807</guid>
-    </item>    <item>
-      <title>Writing effective transitions (Encore)</title>
-      <link>https://johnaugust.com/2026/writing-effective-transitions-encore</link>
-      <description>
-        <![CDATA[<p>John and Craig connect the dots on transitions and how they can be just as important as the scenes themselves. They look at how to get your scenes flowing into one another, the many different types of transitions, when to use “CUT TO,” and how to use your cuts to tell your story. We also [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/writing-effective-transitions-encore">Writing effective transitions (Encore)</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John and Craig connect the dots on transitions and how they can be just as important as the scenes themselves. They look at how to get your scenes flowing into one another, the many different types of transitions, when to use “CUT TO,” and how to use your cuts to tell your story. We also \[…\]
-
-The post [Writing effective transitions (Encore)](https://johnaugust.com/2026/writing-effective-transitions-encore) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=23867</guid>
     </item>
   </channel>
 </rss>

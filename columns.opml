@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>28 Apr 26 06:41 -0700</dateCreated>
+        <dateCreated>29 Apr 26 06:44 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -105,6 +105,7 @@
         <outline text="Elevated Materials, upcycled carbon fiber" type="rss" xmlUrl="https://www.elevatedmaterials.com/feed/" htmlUrl="https://www.elevatedmaterials.com/,https://www.elevatedmaterials.com/feed/" description="Carbon Fiber Stock Material and Parts Manufacturing" url="https://www.elevatedmaterials.com/feed/"></outline>
         <outline text="Enlightenment Economics blog" type="rss" xmlUrl="http://www.enlightenmenteconomics.com/blog/index.php/feed/" htmlUrl="http://www.enlightenmenteconomics.com/blog,http://www.enlightenmenteconomics.com/blog/index.php/feed/" description="Economics and business books" url="http://www.enlightenmenteconomics.com/blog/index.php/feed/"></outline>
         <outline text="Eric Meyer blog" type="rss" xmlUrl="https://meyerweb.com/eric/thoughts/feed/" htmlUrl="https://meyerweb.com/eric/thoughts,https://meyerweb.com/eric/thoughts/feed/" description="Things that Eric A. Meyer, CSS expert, writes about on his personal Web site; it&#39;s largely Web standards and Web technology, but also various bits of culture, politics, personal observations, and other miscellaneous stuff" url="https://meyerweb.com/eric/thoughts/feed/"></outline>
+        <outline text="Eric Weber Blog" type="rss" xmlUrl="https://ericdataproduct.substack.com/feed" htmlUrl="https://ericdataproduct.substack.com,https://ericdataproduct.substack.com/feed" description="A place for insight about the intersection of data, product, and AI for data, engineering, and product leaders and practitioners." url="https://ericdataproduct.substack.com/feed"></outline>
         <outline text="Ethan Marcotte Blog" type="atom" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml" htmlUrl="https://ethanmarcotte.com/wrote/feed.xml,https://ethanmarcotte.com" description="Ethan Marcotte is an independent designer, speaker, and author, and the creator of “responsive web design.” This is his website." url="https://ethanmarcotte.com/wrote/feed.xml"></outline>
         <outline text="Experimental TV Center, Lanesville NY" type="rss" xmlUrl="https://www.experimentaltvcenter.org/feed/" htmlUrl="https://www.experimentaltvcenter.org,https://www.experimentaltvcenter.org/feed/" url="https://www.experimentaltvcenter.org/feed/"></outline>
         <outline text="Feed for Alt USDS" type="rss" xmlUrl="https://bsky.app/profile/did:plc:fuovrvjiloafdym65x3oloqc/rss" htmlUrl="https://bsky.app/profile/altusds.altgov.info" description="The official resistance team of the U.S. Digital Service. We are the Builders. #AltGov&#xA;&#xA;Send your stories: submissions@wethebuilders.org&#xA;&#xA;https://www.wethebuilders.org/&#xA;https://givebutter.com/WTB"></outline>
