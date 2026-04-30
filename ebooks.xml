@@ -4,10 +4,87 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>29 Apr 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>30 Apr 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 4 of 5] : by Leonard Jenyns</title>
+      <link>https://www.gutenberg.org/ebooks/78558</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The judgment of Johan Coull by Frederick Sleath</title>
+      <link>https://www.gutenberg.org/ebooks/78563</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Bible, Douay-Rheims, Complete</title>
+      <link>https://www.gutenberg.org/ebooks/8300</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
+      <link>https://www.gutenberg.org/ebooks/1067</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Musta kotka : by Bernt Lie</title>
+      <link>https://www.gutenberg.org/ebooks/78573</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Piilopirtissä : by John Bergh</title>
+      <link>https://www.gutenberg.org/ebooks/78568</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Woman&#39;s sexual life by William J.  Fielding</title>
+      <link>https://www.gutenberg.org/ebooks/78569</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A mission to Gelele, King of Dahome, Vol. 1 (of 2) by Sir Richard Francis Burton</title>
+      <link>https://www.gutenberg.org/ebooks/78570</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A mission to Gelele, King of Dahome, Vol. 2 (of 2) by Sir Richard Francis Burton</title>
+      <link>https://www.gutenberg.org/ebooks/78571</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Quartet by Jean Rhys</title>
+      <link>https://www.gutenberg.org/ebooks/78572</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ilman tietä by V. Veresajev</title>
+      <link>https://www.gutenberg.org/ebooks/78574</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
       <title>A mirror of Shalott : by Robert Hugh Benson</title>
       <link>https://www.gutenberg.org/ebooks/78565</link>
       <description>
@@ -28,13 +105,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The judgement of Johan Coull by Frederick Sleath</title>
-      <link>https://www.gutenberg.org/ebooks/78563</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Two ways of facing life by Florence E. Burch</title>
       <link>https://www.gutenberg.org/ebooks/78567</link>
@@ -59,13 +129,6 @@
     </item>    <item>
       <title>Beautiful Joe: An Autobiography by Marshall Saunders</title>
       <link>https://www.gutenberg.org/ebooks/2818</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 4 of 5] : by John Gould</title>
-      <link>https://www.gutenberg.org/ebooks/78558</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -411,15 +474,6 @@
       <source:markdown>A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett/downloads/anonymous_the-pearl_sophie-jewett.epub?source=feed" length="532785" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett</guid>
-    </item>    <item>
-      <title>With the Empress Dowager of China, by Katharine A. Carl</title>
-      <link>https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china</link>
-      <description>
-        <![CDATA[A female painter becomes the court artist of the Empress Dowager of China.]]>
-      </description>
-      <source:markdown>A female painter becomes the court artist of the Empress Dowager of China.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china/downloads/katharine-a-carl_with-the-empress-dowager-of-china.epub?source=feed" length="3721863" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/katharine-a-carl/with-the-empress-dowager-of-china</guid>
     </item>
   </channel>
 </rss>

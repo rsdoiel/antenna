@@ -4,10 +4,22 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>29 Apr 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>30 Apr 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Public Interest Corpus: Final Report and Path Forward</title>
+      <link>https://www.authorsalliance.org/2026/04/29/the-public-interest-corpus-final-report-and-path-forward/</link>
+      <description>
+        <![CDATA[We are releasing today the final report of the Public Interest Corpus project. A stable, citable version is here: The Public Interest Corpus: A Framework for Implementation. Because we want to encourage additional feedback, we’re also sharing a version here that allows you to comment. 
+        
+        The report is the product of more than a year of work supported by the Mellon Foundation, in which we asked how research libraries can make books data available for AI training and computational research in ways that serve the public interest, rather than reinforcing the existing concentration of access to texts among a small number of well-resourced commercial actors.]]>
+      </description>
+      <source:markdown>We are releasing today the final report of the Public Interest Corpus project. A stable, citable version is here: The Public Interest Corpus: A Framework for Implementation. Because we want to encourage additional feedback, we’re also sharing a version here that allows you to comment.
+
+The report is the product of more than a year of work supported by the Mellon Foundation, in which we asked how research libraries can make books data available for AI training and computational research in ways that serve the public interest, rather than reinforcing the existing concentration of access to texts among a small number of well-resourced commercial actors.</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12864</guid>
+    </item>    <item>
       <title>Learning Comedy</title>
       <link>https://johnaugust.com/2026/learning-comedy</link>
       <description>

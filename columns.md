@@ -412,3 +412,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Rachel Plotnick](https://bsky.app/profile/did:plc:7vysvq2krnl3epg643bg2445/rss)
 - [Jonathon Cheung](https://medium.com/feed/@jacheung415)
 - [Eric Weber Blog](https://ericdataproduct.substack.com/feed)
+- [Dani Smart Blog](https://danismart.substack.com/feed)
+- [Hitchhiker's Guide to AI, Software Architecture, and Everything Else](https://stal.blogspot.com/feeds/posts/default)

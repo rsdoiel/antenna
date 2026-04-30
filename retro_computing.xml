@@ -4,10 +4,35 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>29 Apr 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>30 Apr 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>April 2026 News Summary</title>
+      <link>http://www.iconbar.com/comments/rss/news2320.html</link>
+      <description>
+        <![CDATA[Some things we noticed this month. What did you see?]]>
+      </description>
+      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2320.html</guid>
+    </item>    <item>
+      <title>Is AI Coming to Your Ubuntu Desktop?</title>
+      <link>http://www.linux-magazine.com/Online/News/Is-AI-Coming-to-Your-Ubuntu-Desktop</link>
+      <description>
+        <![CDATA[<p>According to the VP of Engineering at Canonical, AI could soon be added to the Ubuntu desktop distribution.</p>]]>
+      </description>
+      <source:markdown>According to the VP of Engineering at Canonical, AI could soon be added to the Ubuntu desktop distribution.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://f17917534fd3062b26cd3ef9123046f9</guid>
+    </item>    <item>
+      <title>Jolt replica with ‘time period correct’ old parts</title>
+      <link>http://retro.hansotten.nl/jolt-replica-with-time-period-correct-old-parts/</link>
+      <description>
+        <![CDATA[Eduardo Casino has done a great job replicating the PCB of the Jolt. And he proved the PCB was OK by building a Jolt and setting it to work. I have populated a replica PCB with as much as I have in my junk boxes &#8216;time period correct&#8217; parts. It does look good compared to [&#8230;]]]>
+      </description>
+      <source:markdown>Eduardo Casino has done a great job replicating the PCB of the Jolt. And he proved the PCB was OK by building a Jolt and setting it to work. I have populated a replica PCB with as much as I have in my junk boxes ‘time period correct’ parts. It does look good compared to \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20801</guid>
+    </item>    <item>
       <title>Iris updated to release 1.39</title>
       <link>http://www.iconbar.com/comments/rss/news2327.html</link>
       <description>
@@ -908,22 +933,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Archive Magazine 28:02 was released for the North West Show and subscribers should have received your copy in the post recently</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2322.html</guid>
-    </item>    <item>
-      <title>b.log 2026/04/08 - The swallows have arrived!, Heat!, JD Vance is an arsehole, Tea v0.28.</title>
-      <link>https://heyrick.eu/blog/entry/20260408</link>
-      <description>
-        <![CDATA[The swallows have arrived!, Heat!, JD Vance is an arsehole, Tea v0.28.]]>
-      </description>
-      <source:markdown>The swallows have arrived!, Heat!, JD Vance is an arsehole, Tea v0.28.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260408</guid>
-    </item>    <item>
-      <title>DOS Ultimate Game Library (DUGL)</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/04/dos-ultimate-game-library-dugl/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>DUGL is a super fast, 32bits/DOS only/ C, Assembly Game library using software rasterizer. This project is an attempt to create a new version of DUGL that provides much of the same functionality as the Dust Ultimate Game library. DUGL version 1.0 alpha 3 was released last week with these features: - Add experimental sound decoding/support using Sound Blaster 16 driver - Improve config file with new sound audio paramters, true|false to enable/disable - Add reverting to 640x480 if selected config file video resolution isn't available - Keyboard 'P' now pause continue playing current video. Tested successfully with freedos/csmwrap/vsbhda. Download the new version from <a href="https://github.com/FFK77/DOS-DUGL/" rel="nofollow">DUGL on GitHub</a> or download directly as a <a href="https://github.com/FFK77/DOS-DUGL/blob/main/duglproj/apps/DUGLPLAY/Releases/DPL10A3.zip" rel="nofollow">zip file</a></p></div>]]>
-      </description>
-      <source:markdown>DUGL is a super fast, 32bits/DOS only/ C, Assembly Game library using software rasterizer. This project is an attempt to create a new version of DUGL that provides much of the same functionality as the Dust Ultimate Game library. DUGL version 1.0 alpha 3 was released last week with these features: - Add experimental sound decoding/support using Sound Blaster 16 driver - Improve config file with new sound audio paramters, true\|false to enable/disable - Add reverting to 640x480 if selected config file video resolution isn&#39;t available - Keyboard &#39;P&#39; now pause continue playing current video. Tested successfully with freedos/csmwrap/vsbhda. Download the new version from [DUGL on GitHub](https://github.com/FFK77/DOS-DUGL/) or download directly as a [zip file](https://github.com/FFK77/DOS-DUGL/blob/main/duglproj/apps/DUGLPLAY/Releases/DPL10A3.zip)</source:markdown>
-      <guid>cid://https://sourceforge.neta237bde8d1afa61800998174ad64232b5f269e55</guid>
     </item>
   </channel>
 </rss>
