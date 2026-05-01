@@ -36,6 +36,8 @@
 - [City of Santa Clarita](https://santaclarita.gov/feed/)
 - [Santa Clarita Public Library](https://library.santaclarita.gov/feed/)
   - old URL <https://www.santaclaritalibrary.com/feed/>, RSD 2026-02-24
+- [LACMTA Library News Feed](https://metroprimaryresources.info/feed/)
+- [The Source MTA blog](https://thesource.metro.net/feed/)
 
 ## Local Government
 
