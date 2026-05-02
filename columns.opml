@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>01 May 26 06:42 -0700</dateCreated>
+        <dateCreated>02 May 26 06:39 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -98,6 +98,7 @@
         <outline text="Doc Searls (at Harvard), New Old Blog" type="rss" xmlUrl="https://doc.searls.com/feed/" htmlUrl="https://doc.searls.com,https://doc.searls.com/feed/" description="Just trying to make stuff happen" url="https://doc.searls.com/feed/"></outline>
         <outline text="Doc Searls on Medium" type="rss" xmlUrl="https://medium.com/feed/@dsearls" htmlUrl="https://medium.com/@dsearls?source=rss-c021b6737f47------2,https://medium.com/@dsearls/feed" description="Stories by Doc Searls on Medium" url="https://medium.com/@dsearls/feed"></outline>
         <outline text="Doc Searls&#39; doc.blog" type="rss" xmlUrl="http://doc.blog/rss.xml" htmlUrl="http://my.1999.io/users/dsearls/"></outline>
+        <outline text="Dr. Nickolas Figay" type="rss" xmlUrl="https://medium.com/feed/@nfigay" htmlUrl="https://medium.com/@nfigay?source=rss-d0f89e746572------2,https://medium.com/@nfigay/feed" description="Stories by Dr Nicolas Figay on Medium" url="https://medium.com/@nfigay/feed"></outline>
         <outline text="Dr. Steven Hassan, Free the Mind" type="rss" xmlUrl="https://stevenhassan.substack.com/feed" htmlUrl="https://stevenhassan.substack.com,https://stevenhassan.substack.com/feed" description="Dr. Steven Hassan on cults, undue influence, extremism, and recovery." url="https://stevenhassan.substack.com/feed"></outline>
         <outline text="Economics from the Top-Down" type="rss" xmlUrl="https://economicsfromthetopdown.com/feed/" htmlUrl="https://economicsfromthetopdown.com/,https://economicsfromthetopdown.com/feed/" description="New ideas in economics and the social sciences" url="https://economicsfromthetopdown.com/feed/"></outline>
         <outline text="Ed Summers blog, Inkdroid" type="rss" xmlUrl="https://inkdroid.org/feed.xml" htmlUrl="https://inkdroid.org/,https://inkdroid.org/feed.xml" description="Paper or Plastic" url="https://inkdroid.org/feed.xml"></outline>
@@ -155,6 +156,7 @@
         <outline text="Ivan Enderlin&#39;s Medium Wasmer announcements" type="rss" xmlUrl="https://medium.com/feed/@hywan" htmlUrl="https://medium.com/@hywan?source=rss-d1a15a1c8914------2,https://medium.com/@hywan/feed" description="Stories by Ivan Enderlin on Medium" url="https://medium.com/@hywan/feed"></outline>
         <outline text="Ivan Penchev blog" type="atom" xmlUrl="https://penchev.com/feed.xml" htmlUrl="https://penchev.com/feed.xml,https://penchev.com/" description="Ivan Penchev (Иван Пенчев) Software Engineer, thoughts and aspirations about code." url="https://penchev.com/feed.xml"></outline>
         <outline text="Iván Paredes Reséndiz blog, Mexico&#39;s cinema" type="rss" xmlUrl="https://www.palomitademaiz.net/feed/" htmlUrl="https://www.palomitademaiz.net/,https://www.palomitademaiz.net/feed/" description="- Sitio independiente de cine y TV." url="https://www.palomitademaiz.net/feed/"></outline>
+        <outline text="J. Bittner&#39;s Substack" type="rss" xmlUrl="https://semanticallyspeaking.substack.com/feed" htmlUrl="https://semanticallyspeaking.substack.com,https://semanticallyspeaking.substack.com/feed" description="My personal Substack" url="https://semanticallyspeaking.substack.com/feed"></outline>
         <outline text="JCharisTech Innovations and Inspirations" type="rss" xmlUrl="https://jcharistech.wordpress.com/feed/" htmlUrl="https://jcharistech.wordpress.com,https://jcharistech.wordpress.com/feed/" description="Innovations and Inspirations" url="https://jcharistech.wordpress.com/feed/"></outline>
         <outline text="JSON Feed blog" type="rss" xmlUrl="https://www.jsonfeed.org/feed.xml" htmlUrl="https://www.jsonfeed.org/"></outline>
         <outline text="James Bottomley&#39;s blog" type="rss" xmlUrl="https://blog.hansenpartnership.com/feed/" htmlUrl="https://blog.hansenpartnership.com,https://blog.hansenpartnership.com/feed/" description="A collection of information" url="https://blog.hansenpartnership.com/feed/"></outline>

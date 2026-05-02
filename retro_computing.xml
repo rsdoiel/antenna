@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>01 May 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>02 May 26 06:40 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/05/01 - Not going out, My PIAs are talking!, Arduino memory optimisation, The poop drama continues, Epic slog.</title>
+      <link>https://heyrick.eu/blog/entry/20260501</link>
+      <description>
+        <![CDATA[Not going out, My PIAs are talking!, Arduino memory optimisation, The poop drama continues, Epic slog.]]>
+      </description>
+      <source:markdown>Not going out, My PIAs are talking!, Arduino memory optimisation, The poop drama continues, Epic slog.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260501</guid>
+    </item>    <item>
+      <title>The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain</title>
+      <link>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</link>
+      <description>
+        <![CDATA[This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. It is possible to trace the Plantard family tree a fair ways back without relying on the Lobineau dossier, but not as far back as the time when the Merovingian kings ruled [&#8230;]]]>
+      </description>
+      <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. It is possible to trace the Plantard family tree a fair ways back without relying on the Lobineau dossier, but not as far back as the time when the Merovingian kings ruled \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6748</guid>
+    </item>    <item>
       <title>THEC64 Handheld</title>
       <link>https://www.c64os.com/post/thec64handheld</link>
       <description>
@@ -926,14 +942,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Failing at debugging the tablet driver, UI nonsense, Luck only goes so far, One final cut, Sakura!</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260411</guid>
-    </item>    <item>
-      <title>b.log 2026/04/10 - Odometer, Lidl haul, Will I win the lottery tonight?, Anime Me.</title>
-      <link>https://heyrick.eu/blog/entry/20260410</link>
-      <description>
-        <![CDATA[Odometer, Lidl haul, Will I win the lottery tonight?, Anime Me.]]>
-      </description>
-      <source:markdown>Odometer, Lidl haul, Will I win the lottery tonight?, Anime Me.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260410</guid>
     </item>
   </channel>
 </rss>

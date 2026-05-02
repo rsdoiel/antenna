@@ -414,3 +414,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Eric Weber Blog](https://ericdataproduct.substack.com/feed)
 - [Dani Smart Blog](https://danismart.substack.com/feed)
 - [Hitchhiker's Guide to AI, Software Architecture, and Everything Else](https://stal.blogspot.com/feeds/posts/default)
+- [Dr. Nickolas Figay](https://medium.com/feed/@nfigay)
+- [J. Bittner's Substack](https://semanticallyspeaking.substack.com/feed)
