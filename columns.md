@@ -416,3 +416,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Hitchhiker's Guide to AI, Software Architecture, and Everything Else](https://stal.blogspot.com/feeds/posts/default)
 - [Dr. Nickolas Figay](https://medium.com/feed/@nfigay)
 - [J. Bittner's Substack](https://semanticallyspeaking.substack.com/feed)
+- [Mozilla AI Blog](https://blog.mozilla.ai/rss/)

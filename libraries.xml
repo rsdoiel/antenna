@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>02 May 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>03 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Journal Article: “User Perspectives on LINK: A Generative AI Chatbot for Academic Libraries”</title>
+      <link>https://www.infodocket.com/2026/05/02/journal-article-user-perspectives-on-link-a-generative-ai-chatbot-for-academic-libraries/</link>
+      <description>
+        <![CDATA[<p>The article linked below was recently published by The Journal of Academic Librarianship. Title User Perspectives on LINK: A Generative AI Chatbot for Academic Libraries Authors Evan Fruehauf University of South Florida LeEtta Schmidt University of South Florida Amanda Boczar University of South Florida Source The Journal of Academic Librarianship Volume 52, Issue 4, July [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/05/02/journal-article-user-perspectives-on-link-a-generative-ai-chatbot-for-academic-libraries/">Journal Article: &#8220;User Perspectives on LINK: A Generative AI Chatbot for Academic Libraries&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>The article linked below was recently published by The Journal of Academic Librarianship. Title User Perspectives on LINK: A Generative AI Chatbot for Academic Libraries Authors Evan Fruehauf University of South Florida LeEtta Schmidt University of South Florida Amanda Boczar University of South Florida Source The Journal of Academic Librarianship Volume 52, Issue 4, July \[…\]
+
+The post [Journal Article: “User Perspectives on LINK: A Generative AI Chatbot for Academic Libraries”](https://www.infodocket.com/2026/05/02/journal-article-user-perspectives-on-link-a-generative-ai-chatbot-for-academic-libraries/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168001</guid>
+    </item>    <item>
       <title>Journal Article: Publications Produced and Services Offered by Library Publishing Programs in the United States and Canada: A Data-Driven Analysis</title>
       <link>https://www.infodocket.com/2026/05/01/journal-article-publications-produced-and-services-offered-by-library-publishing-programs-in-the-united-states-and-canada-a-data-driven-analysis/</link>
       <description>
@@ -1003,17 +1014,6 @@ Esses eventos foram uma oportunidade para nos reconectarmos com a comunidade, co
 
 Agradecemos especialmente aos nossos anfitriões da Fundação Getúlio Vargas pelo generoso uso de suas instalações e pela equipe de apoio.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/strengthening-community-connections-in-s%C3%A3o-paulo/</guid>
-    </item>    <item>
-      <title>New Research: “The Impact of AI-Generated Text on the Internet”</title>
-      <link>https://www.infodocket.com/2026/04/11/new-research-the-impact-of-ai-generated-text-on-the-internet/</link>
-      <description>
-        <![CDATA[<p>The research linked below was recently posted on Github. Title The Impact of AI-Generated Text on the Internet Authors Jonas Dolezal Imperial College London Sawood Alam Internet Archive Mark Graham Internet Archive Maty Bohacek Stanford University Source via Github Abstract The proliferation of AI-generated and AI-assisted text on the internet is feared to contribute to [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/04/11/new-research-the-impact-of-ai-generated-text-on-the-internet/">New Research: &#8220;The Impact of AI-Generated Text on the Internet&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>The research linked below was recently posted on Github. Title The Impact of AI-Generated Text on the Internet Authors Jonas Dolezal Imperial College London Sawood Alam Internet Archive Mark Graham Internet Archive Maty Bohacek Stanford University Source via Github Abstract The proliferation of AI-generated and AI-assisted text on the internet is feared to contribute to \[…\]
-
-The post [New Research: “The Impact of AI-Generated Text on the Internet”](https://www.infodocket.com/2026/04/11/new-research-the-impact-of-ai-generated-text-on-the-internet/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167922</guid>
     </item>
   </channel>
 </rss>

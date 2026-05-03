@@ -4,12 +4,75 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>02 May 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>03 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The letters of Madame de Sévigné : by marquise de Marie de Rabutin-Chantal Sévigné</title>
       <link>https://www.gutenberg.org/ebooks/78579</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Murder by the clock by Rufus King</title>
+      <link>https://www.gutenberg.org/ebooks/75500</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Partners of the tide by Joseph Crosby Lincoln</title>
+      <link>https://www.gutenberg.org/ebooks/78581</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Adventures in Patagonia : by Titus Coan</title>
+      <link>https://www.gutenberg.org/ebooks/78582</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Vanha pappi : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78584</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Het intieme leven der vogels by Jac. P.  Thijsse</title>
+      <link>https://www.gutenberg.org/ebooks/78580</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>The medicine-man by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78587</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>50 years at ringside by Nat Fleischer</title>
+      <link>https://www.gutenberg.org/ebooks/78585</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Utopia yarn book : by Elsa Schappel Barsaloux</title>
+      <link>https://www.gutenberg.org/ebooks/78583</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Curiosa mathematica : by Charles L. Dodgson</title>
+      <link>https://www.gutenberg.org/ebooks/78586</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

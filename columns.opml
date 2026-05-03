@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>02 May 26 06:39 -0700</dateCreated>
+        <dateCreated>03 May 26 06:43 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -245,6 +245,7 @@
         <outline text="Modos Blog" type="rss" xmlUrl="https://www.modos.tech/blog/rss.xml" htmlUrl="https://www.modos.tech,https://www.modos.tech/blog/rss.xml" description="Discover all the latest about Modos on our official blog. Meet Modos. The World’s First E-ink Laptop Made For Reading, Writing and Thinking— Designed for a healthier relationship with technology." url="https://www.modos.tech/blog/rss.xml"></outline>
         <outline text="Molly White blogs" type="atom" xmlUrl="https://www.mollywhite.net/feed/feed.xml" htmlUrl="https://mollywhite.net/reading/feed/feed.xml,https://mollywhite.net/feed" url="https://mollywhite.net/reading/feed/feed.xml"></outline>
         <outline text="Motho Ke motho ka batho" type="rss" xmlUrl="https://kmandla.wordpress.com/feed/" htmlUrl="https://kmandla.wordpress.com,https://kmandla.wordpress.com/feed/" description="K.Mandla&#39;s blog of Linux experiences" url="https://kmandla.wordpress.com/feed/"></outline>
+        <outline text="Mozilla AI Blog" type="rss" xmlUrl="https://blog.mozilla.ai/rss/" htmlUrl="https://blog.mozilla.ai/,https://blog.mozilla.ai/rss/" description="We are building a future where AI works for you." url="https://blog.mozilla.ai/rss/"></outline>
         <outline text="Mozilla Developer Network blog" type="rss" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org/,https://hacks.mozilla.org/feed/" description="hacks.mozilla.org" url="https://hacks.mozilla.org/feed/"></outline>
         <outline text="Mystery AI Hype Theather" type="rss" category="ai, artificial intelligence, technology, hype, tech criticism,Technology,News,Tech News,Science" xmlUrl="https://rss.buzzsprout.com/2126417.rss" htmlUrl="https://pubsubhubbub.appspot.com/,https://dair-institute.org/maiht3k,https://rss.buzzsprout.com/2126417.rss" description="&lt;div&gt;Artificial Intelligence has too much hype. In this podcast, linguist Emily M. Bender and sociologist Alex Hanna break down the AI hype, separate fact from fiction, and science from bloviation. They&#39;re joined by special guests and talk about everything, from machine consciousness to science fiction, to political economy to art made by machines.&lt;/div&gt;" url="https://rss.buzzsprout.com/2126417.rss"></outline>
         <outline text="Nadia Asparouhova blog" type="atom" xmlUrl="https://nadia.xyz/feed.xml" htmlUrl="https://nadia.xyz/feed.xml,https://nadia.xyz/" description="Personal writing, links, and other things by Nadia Asparouhova." url="https://nadia.xyz/feed.xml"></outline>
