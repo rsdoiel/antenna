@@ -4,10 +4,112 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>03 May 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>04 May 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>W U R : by Karel Čapek</title>
+      <link>https://www.gutenberg.org/ebooks/78595</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Cream of the jug :</title>
+      <link>https://www.gutenberg.org/ebooks/78305</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Aamiaislehti by Burchard Jessen</title>
+      <link>https://www.gutenberg.org/ebooks/78593</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Punainen kukka : by Wsevolod Garshin</title>
+      <link>https://www.gutenberg.org/ebooks/78592</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Personal reminiscences of a great crusade by Josephine Elizabeth Grey Butler</title>
+      <link>https://www.gutenberg.org/ebooks/78588</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Korkokeinottelua by Matilde Serao</title>
+      <link>https://www.gutenberg.org/ebooks/78590</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Kaunis sepänemäntä : by Géza Gárdonyi</title>
+      <link>https://www.gutenberg.org/ebooks/78591</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Poison mysteries in history, romance and crime by C. J. S.  Thompson</title>
+      <link>https://www.gutenberg.org/ebooks/78589</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A fatal silence, vol. 2 (of 3) by Florence Marryat</title>
+      <link>https://www.gutenberg.org/ebooks/78596</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A fatal silence, vol. 3 (of 3) by Florence Marryat</title>
+      <link>https://www.gutenberg.org/ebooks/78598</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Von Hollas Rocken : by Eberhard König</title>
+      <link>https://www.gutenberg.org/ebooks/78594</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>La Sirena : by Josep Pin i Soler</title>
+      <link>https://www.gutenberg.org/ebooks/78597</link>
+      <description>
+        <![CDATA[Language: Catalan]]>
+      </description>
+      <source:markdown>Language: Catalan</source:markdown>
+    </item>    <item>
+      <title>Gullible’s Travels, by Ring Lardner</title>
+      <link>https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</link>
+      <description>
+        <![CDATA[An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.]]>
+      </description>
+      <source:markdown>An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/ring-lardner_gullibles-travels.epub?source=feed" length="580750" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</guid>
+    </item>    <item>
+      <title>The Adventures of Sally, by P. G. Wodehouse</title>
+      <link>https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally</link>
+      <description>
+        <![CDATA[A young woman comes into an inheritance, loses it all, and finds love along the way.]]>
+      </description>
+      <source:markdown>A young woman comes into an inheritance, loses it all, and finds love along the way.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally/downloads/p-g-wodehouse_the-adventures-of-sally.epub?source=feed" length="593330" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally</guid>
+    </item>    <item>
       <title>The letters of Madame de Sévigné : by marquise de Marie de Rabutin-Chantal Sévigné</title>
       <link>https://www.gutenberg.org/ebooks/78579</link>
       <description>

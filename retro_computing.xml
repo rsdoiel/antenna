@@ -4,16 +4,24 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>03 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>04 May 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/05/03 - One step forward one step back, And also...</title>
+      <link>https://heyrick.eu/blog/entry/20260503</link>
+      <description>
+        <![CDATA[One step forward one step back, And also...]]>
+      </description>
+      <source:markdown>One step forward one step back, And also...</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260503</guid>
+    </item>    <item>
       <title>MTU documentation and MTU-130 software update</title>
       <link>http://retro.hansotten.nl/mtu-documentation-and-mtu-130-software-update/</link>
       <description>
-        <![CDATA[Vintagetech (Dave Williams) has scanned and dumped more MTU material in 2026: MTU K-1008 Visable Memory KIM-1 Introduction MTU Catalog October 1978 A1 INSMUS-8 INSNOTRAN Music compiler Datamover-256 Hardware Manual 1982-06 Rev A MTU-130 MACASM Release 1.2 User Manual 1982-10 Preliminary KGP Doc Optional Software (added May 2026, thanks VintageTech again) Distribution Disk 1.4 1982 [&#8230;]]]>
+        <![CDATA[Vintagetech (Dave Williams) has scanned and dumped more MTU material in 2026: MTU K-1008 Visable Memory KIM-1 Introduction MTU Catalog October 1978 A1 INSMUS-8 INSNOTRAN Music compiler Datamover-256 Hardware Manual 1982-06 Rev A MTU-130 MACASM Release 1.2 User Manual 1982-10 Preliminary KGP Doc MTU K-1032 Banker RAM ROM manual Rev E Optional Software (added May [&#8230;]]]>
       </description>
-      <source:markdown>Vintagetech (Dave Williams) has scanned and dumped more MTU material in 2026: MTU K-1008 Visable Memory KIM-1 Introduction MTU Catalog October 1978 A1 INSMUS-8 INSNOTRAN Music compiler Datamover-256 Hardware Manual 1982-06 Rev A MTU-130 MACASM Release 1.2 User Manual 1982-10 Preliminary KGP Doc Optional Software (added May 2026, thanks VintageTech again) Distribution Disk 1.4 1982 \[…\]</source:markdown>
+      <source:markdown>Vintagetech (Dave Williams) has scanned and dumped more MTU material in 2026: MTU K-1008 Visable Memory KIM-1 Introduction MTU Catalog October 1978 A1 INSMUS-8 INSNOTRAN Music compiler Datamover-256 Hardware Manual 1982-06 Rev A MTU-130 MACASM Release 1.2 User Manual 1982-10 Preliminary KGP Doc MTU K-1032 Banker RAM ROM manual Rev E Optional Software (added May \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20808</guid>
     </item>    <item>
       <title>Testing MacOS on the Apple Network Server 2.0 ROMs</title>
@@ -1591,22 +1599,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Another day another cookie, What the hell?, Somebody is in big trouble, Afterword.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260413</guid>
-    </item>    <item>
-      <title>b.log 2026/04/12 - Are you a human?, The videos work once again, Tax time.</title>
-      <link>https://heyrick.eu/blog/entry/20260412</link>
-      <description>
-        <![CDATA[Are you a human?, The videos work once again, Tax time.]]>
-      </description>
-      <source:markdown>Are you a human?, The videos work once again, Tax time.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260412</guid>
-    </item>    <item>
-      <title>KevSoft Quiz Engine updated with release 2 of the skeleton app</title>
-      <link>https://www.riscository.com/2026/kevsoft-quiz-engine-skeleton-app-release-2/</link>
-      <description>
-        <![CDATA[Kevin Wells has issued a second release of his Quiz Engine, an application for creating multiple choice quizzes on RISC OS &#8211; and which forms the basis of his own two quiz releases, FlagQuiz and MorseQuiz. The main Quiz Engine program remains at version 1.02, with the &#8216;misc&#8217; file standing at 1.01, but the skeleton application is now at release 2. The main change in this version is that it if you don&#8217;t want to make your quizzes to support multiple languages, it&#8217;s now an easier goal to achieve. As&#8230;]]>
-      </description>
-      <source:markdown>Kevin Wells has issued a second release of his Quiz Engine, an application for creating multiple choice quizzes on RISC OS – and which forms the basis of his own two quiz releases, FlagQuiz and MorseQuiz. The main Quiz Engine program remains at version 1.02, with the ‘misc’ file standing at 1.01, but the skeleton application is now at release 2. The main change in this version is that it if you don’t want to make your quizzes to support multiple languages, it’s now an easier goal to achieve. As…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10924</guid>
     </item>
   </channel>
 </rss>

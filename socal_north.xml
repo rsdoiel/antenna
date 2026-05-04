@@ -7,10 +7,66 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>03 May 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>04 May 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best things to do this week in Los Angeles and Southern California: May 4-7</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-may-4-7</link>
+      <description>
+        <![CDATA[Spaceballs at Griffith Observatory, Netflix is a Joke kicks off, Trolls take over South Coast Botanical Garden and more of the best things to do.]]>
+      </description>
+      <source:markdown>Spaceballs at Griffith Observatory, Netflix is a Joke kicks off, Trolls take over South Coast Botanical Garden and more of the best things to do.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-e580-d89e-a3dd-f793e5b60000</guid>
+    </item>    <item>
+      <title>After criticism of how California rolls out education programs, a new bill would trigger evaluations</title>
+      <link>https://laist.com/news/education/early-childhood-education-pre-k/new-education-programs-transitional-kindergarten-evaluation-bill</link>
+      <description>
+        <![CDATA[An LAist story found that the state has spent billions on the implementation of a brand new grade, transitional kindergarten, without a formal mechanism to evaluate it.]]>
+      </description>
+      <source:markdown>An LAist story found that the state has spent billions on the implementation of a brand new grade, transitional kindergarten, without a formal mechanism to evaluate it.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-e5d5-dfbf-abfd-edff5c0f0000</guid>
+    </item>    <item>
+      <title>Arbitrator sides with union claiming LAX People Mover subcontractor owes workers back pay</title>
+      <link>https://laist.com/news/transportation/lax-people-mover-subcontractor-elevator-worker-back-pay</link>
+      <description>
+        <![CDATA[Union estimates the amount owed to 28 workers is in the millions.]]>
+      </description>
+      <source:markdown>Union estimates the amount owed to 28 workers is in the millions.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-e460-d89e-a3dd-f6733ca00000</guid>
+    </item>    <item>
+      <title>Cal State struck a deal with OpenAI. Some students and faculty refuse to use it</title>
+      <link>https://laist.com/news/education/cal-state-struck-a-deal-with-openai-some-students-and-faculty-refuse-to-use-it</link>
+      <description>
+        <![CDATA[California State University’s $17 million contract with ChatGPT’s maker OpenAI is up for renewal. The jury is still out on how useful is the technology.]]>
+      </description>
+      <source:markdown>California State University’s $17 million contract with ChatGPT’s maker OpenAI is up for renewal. The jury is still out on how useful is the technology.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-ee94-dfbf-abfd-eeff10ab0000</guid>
+    </item>    <item>
+      <title>OC mother charged with manslaughter after son’s fatal e-motorcycle crash</title>
+      <link>https://laist.com/news/oc-woman-whose-teenage-son-allegedly-killed-man-while-riding-an-e-motorcycle-is-charged-with-involuntary-manslaughter</link>
+      <description>
+        <![CDATA[The upgraded charge was filed after the death of the 81-year-old victim.]]>
+      </description>
+      <source:markdown>The upgraded charge was filed after the death of the 81-year-old victim.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-eeb0-d473-a3fd-eebec26b0000</guid>
+    </item>    <item>
+      <title>Hollywood actors reach tentative labor agreement with studios, streamers</title>
+      <link>https://laist.com/news/arts-and-entertainment/hollywood-actors-reach-tentative-labor-agreement-with-studios-streamers</link>
+      <description>
+        <![CDATA[The agreement still needs to be approved by the SAG-AFTRA National Board.]]>
+      </description>
+      <source:markdown>The agreement still needs to be approved by the SAG-AFTRA National Board.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-ee21-d89e-a3dd-fe3348a70000</guid>
+    </item>    <item>
+      <title>Go inside the ruins of a long-forgotten speakeasy near La Crescenta with a raucous history</title>
+      <link>https://laist.com/news/los-angeles-activities/go-inside-the-ruins-of-a-long-forgotten-speakeasy-near-la-crescenta</link>
+      <description>
+        <![CDATA[A century ago, the Verdugo Lodge was a hangout for revelers looking to dodge Prohibition laws.]]>
+      </description>
+      <source:markdown>A century ago, the Verdugo Lodge was a hangout for revelers looking to dodge Prohibition laws.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-dfa6-d4a9-a39f-ffe606090000</guid>
+    </item>    <item>
       <title>Meet the LA architect who made a virtual replica of the hotel from ‘The Shining’</title>
       <link>https://laist.com/news/los-angeles-activities/meet-the-la-architect-who-made-a-virtual-replica-of-the-hotel-from-the-shining</link>
       <description>
@@ -18,14 +74,6 @@
       </description>
       <source:markdown>Get lost in The Overlook Hotel with a new, downloadable 3D model of the iconic space from Stanley Kubrick’s 1980 film.</source:markdown>
       <guid>cid://urn:uuid:0000019d-e063-dfbf-abfd-ec6b3b8e0000</guid>
-    </item>    <item>
-      <title>Go inside the ruins of a long-forgotten speakeasy near La Crescenta</title>
-      <link>https://laist.com/news/los-angeles-activities/go-inside-the-ruins-of-a-long-forgotten-speakeasy-near-la-crescenta</link>
-      <description>
-        <![CDATA[A century ago, the Verdugo Lodge was a hangout for revelers looking to dodge Prohibition laws.]]>
-      </description>
-      <source:markdown>A century ago, the Verdugo Lodge was a hangout for revelers looking to dodge Prohibition laws.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-dfa6-d4a9-a39f-ffe606090000</guid>
     </item>    <item>
       <title>Spirit Airlines Has Canceled All Flights and Shut Down After 34 Years</title>
       <link>https://sanfernandosun.com/2026/05/02/spirit-airlines-has-canceled-all-flights-and-shut-down-after-34-years/</link>
@@ -68,6 +116,22 @@ The post [Spirit Airlines Has Canceled All Flights and Shut Down After 34 Years]
 The post [May the 4th Be With You, Santa Clarita](https://santaclarita.gov/blog/2026/05/02/may-the-4th-be-with-you-santa-clarita/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8149</guid>
     </item>    <item>
+      <title>Inside the art experiment taking over Snapchat&#39;s former Venice Boardwalk home</title>
+      <link>https://laist.com/news/los-angeles-activities/former-snapchat-hq-on-the-venice-boardwalk-is-now-a-giant-pop-up-art-space</link>
+      <description>
+        <![CDATA[New owner of the space said he wants to keep art — and artists — there, until a fulltime tenant takes over.]]>
+      </description>
+      <source:markdown>New owner of the space said he wants to keep art — and artists — there, until a fulltime tenant takes over.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-df7c-d6ab-a7dd-df7c0ac30000</guid>
+    </item>    <item>
+      <title>Why he builds benches that take the LA logo back from the Dodgers</title>
+      <link>https://laist.com/news/los-angeles-activities/la-bench-metal-civic-pride-maker</link>
+      <description>
+        <![CDATA[Second generation welder created “LA Bench” as a form of civic pride.]]>
+      </description>
+      <source:markdown>Second generation welder created “LA Bench” as a form of civic pride.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-e4ec-d0a2-a9fd-fcffa0840000</guid>
+    </item>    <item>
       <title>SGV residents rally against battery storage hub in City of Industry</title>
       <link>https://laist.com/news/san-gabriel-valley-sgv-rally-against-battery-storage-city-of-industry</link>
       <description>
@@ -75,22 +139,6 @@ The post [May the 4th Be With You, Santa Clarita](https://santaclarita.gov/blog/
       </description>
       <source:markdown>Locals worry about opening the door to even more industrial development, like data centers.</source:markdown>
       <guid>cid://urn:uuid:0000019d-e567-d89e-a3dd-f77783040000</guid>
-    </item>    <item>
-      <title>A giant art pop-up wants to revive the Venice Boardwalk after dark</title>
-      <link>https://laist.com/news/los-angeles-activities/former-snapchat-hq-on-the-venice-boardwalk-is-now-a-giant-pop-up-art-space</link>
-      <description>
-        <![CDATA[New owner of the space says he wants to keep art — and artists — there, until a fulltime tenant takes over.]]>
-      </description>
-      <source:markdown>New owner of the space says he wants to keep art — and artists — there, until a fulltime tenant takes over.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-df7c-d6ab-a7dd-df7c0ac30000</guid>
-    </item>    <item>
-      <title>His father welded window security bars. Now he’s making functional art with steel</title>
-      <link>https://laist.com/news/los-angeles-activities/la-bench-metal-civic-pride-maker</link>
-      <description>
-        <![CDATA[Second generation welder from created “LA Bench” as form of civic pride.]]>
-      </description>
-      <source:markdown>Second generation welder from created “LA Bench” as form of civic pride.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-e4ec-d0a2-a9fd-fcffa0840000</guid>
     </item>    <item>
       <title>Years in the making, a new trail across the beloved Elephant Hill in Northeast LA is here</title>
       <link>https://laist.com/news/los-angeles-activities/years-in-the-making-a-new-trail-across-the-beloved-elephant-hill-in-northeast-la-is-here</link>
@@ -139,6 +187,14 @@ The post [Daily Memo: 18th Death in ICE Detention Is Presumed a Suicide After An
       <source:markdown>Two pilot programs are trying to stem the tide of evictions by bringing renters and landlords together for mutually agreeable settlements.</source:markdown>
       <guid>cid://urn:uuid:0000019d-e519-d0a2-a9fd-fd3b74480000</guid>
     </item>    <item>
+      <title>How well can EVs handle the heat — and the cold? AAA put them to the test</title>
+      <link>https://laist.com/news/climate-environment/how-well-can-evs-handle-the-heat-and-the-cold-aaa-put-them-to-the-test</link>
+      <description>
+        <![CDATA[Electric vehicles lose some range in the winter — and, to a lesser degree, in the summer. But exactly how much? AAA has brand-new data.]]>
+      </description>
+      <source:markdown>Electric vehicles lose some range in the winter — and, to a lesser degree, in the summer. But exactly how much? AAA has brand-new data.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-e48e-dfbf-abfd-ecef615c0000</guid>
+    </item>    <item>
       <title>Here’s what those new signs on LA city property are all about</title>
       <link>https://laist.com/news/politics/what-those-new-signs-on-la-city-property-are-all-about</link>
       <description>
@@ -165,6 +221,14 @@ The post [Weekend Eats: You Can Now Eat These Egyptian Tacos Every Day In Lincol
       </description>
       <source:markdown>Organizers rallied at MacArthur Park and other events around Southern California under the banner, “Solo El Publo Shuts it Down.”</source:markdown>
       <guid>cid://urn:uuid:0000019d-e490-d6cd-adbd-eddb53700000</guid>
+    </item>    <item>
+      <title>Hello, Sandy and Luna! Big Bear’s bald eaglets have names</title>
+      <link>https://laist.com/news/climate-environment/sandy-luna-big-bear-bald-eaglets-names-jackie-shadow</link>
+      <description>
+        <![CDATA[Friends of Big Bear Valley, the nonprofit behind the popular nest livestream, announced the results of a public naming contest Friday.]]>
+      </description>
+      <source:markdown>Friends of Big Bear Valley, the nonprofit behind the popular nest livestream, announced the results of a public naming contest Friday.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-e469-d1fa-adfd-f7ebbeac0000</guid>
     </item>    <item>
       <title>Should a California union dictate how clinics spend money? Employers sue to block ballot measure</title>
       <link>https://laist.com/news/politics/should-a-california-union-dictate-how-clinics-spend-money-employers-sue-to-block-ballot-measure</link>
@@ -2895,60 +2959,6 @@ The post [Register Now to Volunteer at the 2026 Neighborhood Cleanup in Celebrat
       </description>
       <source:markdown>California Republicans embrace Trump at their convention while candidates in competitive races keep him at arm’s length to win over voters.</source:markdown>
       <guid>cid://urn:uuid:0000019d-845d-d111-a99d-d65f9d750000</guid>
-    </item>    <item>
-      <title>Trump claims US will close Strait of Hormuz after Iran peace talks collapse</title>
-      <link>https://laist.com/news/trump-claims-us-will-close-strait-of-hormuz-after-iran-peace-talks-collapse</link>
-      <description>
-        <![CDATA[After talks between the U.S. and Iran collapsed, President Trump said the U.S. will "blockade" the Strait of Hormuz. The U.S. military said it would blockade ships entering or exiting Iranian ports.]]>
-      </description>
-      <source:markdown>After talks between the U.S. and Iran collapsed, President Trump said the U.S. will &#34;blockade&#34; the Strait of Hormuz. The U.S. military said it would blockade ships entering or exiting Iranian ports.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-8315-d0aa-a9dd-cf9f354b0000</guid>
-    </item>    <item>
-      <title>Why did L.A. Public Library cancel its ‘Read Palestine Week’ talk?</title>
-      <link>https://lataco.com/lalp-cancel-read-palestine-week-talk</link>
-      <description>
-        <![CDATA[<p>The controversy over the cancellation has grown since December, with several national legal groups accusing library administrators of censorship. LAPL has also received more than 7,000 protest letters.</p>
-        <p>The post <a href="https://lataco.com/lalp-cancel-read-palestine-week-talk">Why did L.A. Public Library cancel its ‘Read Palestine Week’ talk?</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>The controversy over the cancellation has grown since December, with several national legal groups accusing library administrators of censorship. LAPL has also received more than 7,000 protest letters.
-
-The post [Why did L.A. Public Library cancel its ‘Read Palestine Week’ talk?](https://lataco.com/lalp-cancel-read-palestine-week-talk) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=178120</guid>
-    </item>    <item>
-      <title>Sunday Taquitos #23: Cold As ICE</title>
-      <link>https://lataco.com/sunday-taquitos-23-cold-as-ice</link>
-      <description>
-        <![CDATA[<p>Sunday Taquitos! Art by Ivan Ehlers.</p>
-        <p>The post <a href="https://lataco.com/sunday-taquitos-23-cold-as-ice">Sunday Taquitos #23: Cold As ICE</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Sunday Taquitos! Art by Ivan Ehlers.
-
-The post [Sunday Taquitos #23: Cold As ICE](https://lataco.com/sunday-taquitos-23-cold-as-ice) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=178239</guid>
-    </item>    <item>
-      <title>LAUSD reaches labor deals with teachers, principals. Why schools could still be closed Tuesday</title>
-      <link>https://laist.com/news/education/la-unified-school-district-reaches-tentative-labor-deal-with-teachers</link>
-      <description>
-        <![CDATA[Educators are expected to honor picket lines Tuesday if a deal can't be reached with the union that represents school support staff.]]>
-      </description>
-      <source:markdown>Educators are expected to honor picket lines Tuesday if a deal can&#39;t be reached with the union that represents school support staff.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-8214-dcab-a9fd-ae9f30a10000</guid>
-    </item>    <item>
-      <title>Inglewood plot of land will remain vacant after plans for more than 140 apartments fell through</title>
-      <link>https://laist.com/news/inglewood-plot-of-land-will-remain-vacant-after-plans-for-more-than-140-apartments-fell-through</link>
-      <description>
-        <![CDATA[Inglewood terminated an agreement that would have seen part of a large apartment complex and commercial development built on city-owned land.]]>
-      </description>
-      <source:markdown>Inglewood terminated an agreement that would have seen part of a large apartment complex and commercial development built on city-owned land.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-7da1-d207-a59d-fff733820000</guid>
-    </item>    <item>
-      <title>Route 66’s dark side: behind the myth of the iconic road trip</title>
-      <link>https://laist.com/news/transportation/california-route-66-centennial-black-travel</link>
-      <description>
-        <![CDATA[The 100-year-old route helped Black travelers to escape the Jim Crow South — but with sometimes deadly consequences.]]>
-      </description>
-      <source:markdown>The 100-year-old route helped Black travelers to escape the Jim Crow South — but with sometimes deadly consequences.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-784c-dee2-a9df-fcdd81230001</guid>
     </item>
   </channel>
 </rss>
