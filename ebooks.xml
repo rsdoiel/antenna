@@ -4,16 +4,16 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>04 May 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>05 May 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>W U R : by Karel Čapek</title>
-      <link>https://www.gutenberg.org/ebooks/78595</link>
+      <title>Curiosa mathematica, Part 1 : by Lewis Carroll</title>
+      <link>https://www.gutenberg.org/ebooks/78586</link>
       <description>
-        <![CDATA[Language: German]]>
+        <![CDATA[Language: English]]>
       </description>
-      <source:markdown>Language: German</source:markdown>
+      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Cream of the jug :</title>
       <link>https://www.gutenberg.org/ebooks/78305</link>
@@ -21,6 +21,113 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Merry Adventures of Robin Hood by Howard Pyle</title>
+      <link>https://www.gutenberg.org/ebooks/10148</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Wolf-Leader by Alexandre Dumas</title>
+      <link>https://www.gutenberg.org/ebooks/51054</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tales of the uneasy by Violet Hunt</title>
+      <link>https://www.gutenberg.org/ebooks/78605</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Carranza and Mexico by Carlo de Fornaro</title>
+      <link>https://www.gutenberg.org/ebooks/78600</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Chambers&#39;s Twentieth Century Dictionary (part 1 of 4: A-D)</title>
+      <link>https://www.gutenberg.org/ebooks/37683</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Chambers&#39;s Twentieth Century Dictionary (part 2 of 4: E-M)</title>
+      <link>https://www.gutenberg.org/ebooks/38538</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Chambers&#39;s Twentieth Century Dictionary (part 3 of 4: N-R)</title>
+      <link>https://www.gutenberg.org/ebooks/38699</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Chambers&#39;s Twentieth Century Dictionary (part 4 of 4: S-Z and supplements)</title>
+      <link>https://www.gutenberg.org/ebooks/38700</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The intelligence of invertebrate animals by Maynard Shipley</title>
+      <link>https://www.gutenberg.org/ebooks/78604</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nuoruuden muistoksi : by Alpo Noponen</title>
+      <link>https://www.gutenberg.org/ebooks/78601</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>A whizzer on Willer Crick by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78602</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The expulsion of the Jews from England in 1290 by Barnett Lionel Abrahams</title>
+      <link>https://www.gutenberg.org/ebooks/78599</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The harness makers&#39; illustrated manual by William N. Fitz-Gerald</title>
+      <link>https://www.gutenberg.org/ebooks/78603</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Wolf-Leader, by Alexandre Dumas</title>
+      <link>https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson</link>
+      <description>
+        <![CDATA[A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.]]>
+      </description>
+      <source:markdown>A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson/downloads/alexandre-dumas_the-wolf-leader_alfred-allinson.epub?source=feed" length="596004" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson</guid>
+    </item>    <item>
+      <title>W U R : by Karel Čapek</title>
+      <link>https://www.gutenberg.org/ebooks/78595</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
     </item>    <item>
       <title>Aamiaislehti by Burchard Jessen</title>
       <link>https://www.gutenberg.org/ebooks/78593</link>
@@ -168,13 +275,6 @@
     </item>    <item>
       <title>Utopia yarn book : by Elsa Schappel Barsaloux</title>
       <link>https://www.gutenberg.org/ebooks/78583</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Curiosa mathematica : by Charles L. Dodgson</title>
-      <link>https://www.gutenberg.org/ebooks/78586</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

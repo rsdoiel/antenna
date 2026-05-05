@@ -417,3 +417,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Dr. Nickolas Figay](https://medium.com/feed/@nfigay)
 - [J. Bittner's Substack](https://semanticallyspeaking.substack.com/feed)
 - [Mozilla AI Blog](https://blog.mozilla.ai/rss/)
+- [Dean Blundell Substack](https://deanblundell.substack.com/p/king-charles-takedown-of-trump-was)

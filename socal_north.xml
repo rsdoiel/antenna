@@ -7,17 +7,131 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>04 May 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>05 May 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Best things to do this week in Los Angeles and Southern California: May 4-7</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-may-4-7</link>
+      <title>Californians without health insurance could double, state analyst warns</title>
+      <link>https://laist.com/news/health/californians-uninsured-health-federal-cuts-medicaid-work-requirements-analyst-report</link>
       <description>
-        <![CDATA[Spaceballs at Griffith Observatory, Netflix is a Joke kicks off, Trolls take over South Coast Botanical Garden and more of the best things to do.]]>
+        <![CDATA[Hundreds of thousands of L.A. County residents are expected to lose Medicaid coverage under federal changes.]]>
       </description>
-      <source:markdown>Spaceballs at Griffith Observatory, Netflix is a Joke kicks off, Trolls take over South Coast Botanical Garden and more of the best things to do.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-e580-d89e-a3dd-f793e5b60000</guid>
+      <source:markdown>Hundreds of thousands of L.A. County residents are expected to lose Medicaid coverage under federal changes.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f532-dfbf-abfd-fd7b08f60000</guid>
+    </item>    <item>
+      <title>State Farm has mishandled wildfire claims, state regulators say</title>
+      <link>https://laist.com/news/housing-homelessness/state-farm-has-mishandled-wildfire-claims-state-regulators-say</link>
+      <description>
+        <![CDATA[The state took the first step towards a public hearing before a judge, but fire survivors say the action is far from enough.]]>
+      </description>
+      <source:markdown>The state took the first step towards a public hearing before a judge, but fire survivors say the action is far from enough.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f540-db3b-afdf-f5e277730000</guid>
+    </item>    <item>
+      <title>For asylum seekers, the path to a California education is costly</title>
+      <link>https://laist.com/news/education/for-asylum-seekers-the-path-to-a-california-education-is-costly</link>
+      <description>
+        <![CDATA[Asylum seekers going to college in California can pay much higher nonresident tuition and are often excluded from financial aid.]]>
+      </description>
+      <source:markdown>Asylum seekers going to college in California can pay much higher nonresident tuition and are often excluded from financial aid.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f42f-d89e-a3dd-f63f867e0000</guid>
+    </item>    <item>
+      <title>U.S. Space Forces - Space Commander and Vandenberg SFB Leadership Host Civic Leader Open House</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4477283/us-space-forces-space-commander-and-vandenberg-sfb-leadership-host-civic-leader/</link>
+      <description>
+        <![CDATA[Civic Leaders and Vandenberg Space Force Base leadership meet during a civic leader open house at Vandenberg Space Force Base, Calif., April 25, 2026.<br/> 
+        <img src='https://media.defense.gov/2026/May/04/2003923844/300/300/0/260425-X-DW038-1003.JPG' alt='People stand next to each other for a photo.' /> <br />]]>
+      </description>
+      <source:markdown>Civic Leaders and Vandenberg Space Force Base leadership meet during a civic leader open house at Vandenberg Space Force Base, Calif., April 25, 2026.
+
+![People stand next to each other for a photo.](https://media.defense.gov/2026/May/04/2003923844/300/300/0/260425-X-DW038-1003.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/May/04/2003923844/700/700/0/260425-X-DW038-1003.JPG" length="" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4477283/us-space-forces-space-commander-and-vandenberg-sfb-leadership-host-civic-leader/</guid>
+    </item>    <item>
+      <title>Los Dorados And Los Cholos Are The Big Winners At TACO MADNESS 2026</title>
+      <link>https://lataco.com/taco-madness-2026-big-winners-los-dorados-los-cholos</link>
+      <description>
+        <![CDATA[<p>Over 2,000 of you packed Gloria Molina Grand Park and completely sold out multiple taquerías.</p>
+        <p>The post <a href="https://lataco.com/taco-madness-2026-big-winners-los-dorados-los-cholos">Los Dorados And Los Cholos Are The Big Winners At TACO MADNESS 2026</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>Over 2,000 of you packed Gloria Molina Grand Park and completely sold out multiple taquerías.
+
+The post [Los Dorados And Los Cholos Are The Big Winners At TACO MADNESS 2026](https://lataco.com/taco-madness-2026-big-winners-los-dorados-los-cholos) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=178867</guid>
+    </item>    <item>
+      <title>The city of LA is hosting more than 100 free World Cup watch parties this summer</title>
+      <link>https://laist.com/news/los-angeles-activities/la-hosting-free-world-cup-watch-parties</link>
+      <description>
+        <![CDATA[The city launched its “Kick it in the Park” program to let fans celebrate the tournament for free.]]>
+      </description>
+      <source:markdown>The city launched its “Kick it in the Park” program to let fans celebrate the tournament for free.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f48d-d2c1-a1bd-fcbf06170000</guid>
+    </item>    <item>
+      <title>The US fights to reopen the Strait of Hormuz as UAE says it&#39;s attacked by Iran</title>
+      <link>https://laist.com/news/us-fights-to-reopen-the-strait-of-hormuz-as-uae-says-its-attacked-by-iran</link>
+      <description>
+        <![CDATA[The U.S. military said it battled Iranian forces and sank six small boats as it moved to reopen the Strait of Hormuz.]]>
+      </description>
+      <source:markdown>The U.S. military said it battled Iranian forces and sank six small boats as it moved to reopen the Strait of Hormuz.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f485-d2c1-a1bd-fcb760810000</guid>
+    </item>    <item>
+      <title>CA&#39;s June primary ballots are hitting mailboxes. Here&#39;s what voters need to know</title>
+      <link>https://laist.com/news/politics/2026-election-california-primary-county-ballot-deadline</link>
+      <description>
+        <![CDATA[Today is the deadline for counties to send primary ballots.]]>
+      </description>
+      <source:markdown>Today is the deadline for counties to send primary ballots.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f45a-d143-a1fd-f7df66b00001</guid>
+    </item>    <item>
+      <title>Turner’s Outdoorsman is linked to the largest share of guns traced to crimes in California</title>
+      <link>https://laist.com/news/turners-outdoorsman-is-linked-to-the-largest-share-of-guns-traced-to-crimes-in-california</link>
+      <description>
+        <![CDATA[The retailer also sold a shotgun to the White House Correspondents’ Dinner attacker.]]>
+      </description>
+      <source:markdown>The retailer also sold a shotgun to the White House Correspondents’ Dinner attacker.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f3b4-d2c1-a1bd-ffb690760000</guid>
+    </item>    <item>
+      <title>Tech regulation gets personal: How Tom Steyer’s brother could shape California’s AI future</title>
+      <link>https://laist.com/news/politics/tech-regulation-how-tom-steyer-brother-could-shape-california-ai-future</link>
+      <description>
+        <![CDATA[Tom Steyer’s arguably equally famous older brother Jim is a well known force in Sacramento working on tech regulations and protecting kids online.]]>
+      </description>
+      <source:markdown>Tom Steyer’s arguably equally famous older brother Jim is a well known force in Sacramento working on tech regulations and protecting kids online.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f3ba-d2c1-a1bd-ffba11120000</guid>
+    </item>    <item>
+      <title>May at The MAIN: The MAIN Presents a Month Full of Extraordinary Storytelling!</title>
+      <link>https://santaclarita.gov/blog/2026/05/04/may-at-the-main-the-main-presents-a-month-full-of-extraordinary-storytelling/</link>
+      <description>
+        <![CDATA[<p>Making plans for May? The MAIN has a variety of events and productions next month that we guarantee will make your month a little more exciting! Interrobang Sketch Comedy brings the humor to The MAIN! This is an in-person event where laughter takes center stage. Join us for a night full of witty sketches, hilarious [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/05/04/may-at-the-main-the-main-presents-a-month-full-of-extraordinary-storytelling/">May at The MAIN: The MAIN Presents a Month Full of Extraordinary Storytelling!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>Making plans for May? The MAIN has a variety of events and productions next month that we guarantee will make your month a little more exciting! Interrobang Sketch Comedy brings the humor to The MAIN! This is an in-person event where laughter takes center stage. Join us for a night full of witty sketches, hilarious \[…\]
+
+The post [May at The MAIN: The MAIN Presents a Month Full of Extraordinary Storytelling!](https://santaclarita.gov/blog/2026/05/04/may-at-the-main-the-main-presents-a-month-full-of-extraordinary-storytelling/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=8162</guid>
+    </item>    <item>
+      <title>Trump administration falls behind on wildfire prevention with risky fire season ahead</title>
+      <link>https://laist.com/news/climate-environment/trump-administration-falls-behind-on-wildfire-prevention-with-risky-fire-season-ahead</link>
+      <description>
+        <![CDATA[Under the Trump administration, work to reduce flammable vegetation fell by more than a million acres compared to previous years.]]>
+      </description>
+      <source:markdown>Under the Trump administration, work to reduce flammable vegetation fell by more than a million acres compared to previous years.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-f3a2-dfbf-abfd-ffebfce50000</guid>
+    </item>    <item>
+      <title>Bike Month is underway; here’s how to participate and cycle around town</title>
+      <link>https://thesource.metro.net/bike-month-is-underway-heres-how-to-participate-and-cycle-around-town/</link>
+      <description>
+        <![CDATA[<figure><img width="1200" height="839" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?fit=1200%2C839&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?w=2441&amp;ssl=1 2441w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?resize=400%2C280&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?resize=1200%2C839&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?resize=768%2C537&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?resize=1536%2C1074&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?resize=2048%2C1432&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?resize=1568%2C1097&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?fit=1200%2C839&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Bike Month kicks off in May, and our region is&#160;in for a month-long celebration of this fun, healthy and quick way to get around town!&#160; We have some exciting deals and promotions (with prizes!) happening this month. Keep reading to learn how you can participate and maybe win great prizes! Thursday, May 21, is Bike [&#8230;]]]>
+      </description>
+      <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/05/MNDD_SE_230817_1511_FINAL_RT-scaled-landscape-370abbdd4f6df1687e13a929612657fd-.jpg?fit=1200%2C839&#38;ssl=1)Bike Month kicks off in May, and our region is in for a month-long celebration of this fun, healthy and quick way to get around town!  We have some exciting deals and promotions (with prizes!) happening this month. Keep reading to learn how you can participate and maybe win great prizes! Thursday, May 21, is Bike \[…\]</source:markdown>
+      <guid>cid://https://thesource.metro.net/?p=146617</guid>
+    </item>    <item>
+      <title>Check out international beats across LA and get ready for a World Cup kind of summer</title>
+      <link>https://laist.com/sponsored/check-out-international-beats-across-la-and-get-ready-for-a-world-cup-kind-of-summer</link>
+      <description>
+        <![CDATA[Metro-accessible neighborhoods around the city come alive with music from Paraguay, Belgium, and many more countries.]]>
+      </description>
+      <source:markdown>Metro-accessible neighborhoods around the city come alive with music from Paraguay, Belgium, and many more countries.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-d0da-d901-a79f-f4dbd20a0000</guid>
     </item>    <item>
       <title>After criticism of how California rolls out education programs, a new bill would trigger evaluations</title>
       <link>https://laist.com/news/education/early-childhood-education-pre-k/new-education-programs-transitional-kindergarten-evaluation-bill</link>
@@ -26,6 +140,14 @@
       </description>
       <source:markdown>An LAist story found that the state has spent billions on the implementation of a brand new grade, transitional kindergarten, without a formal mechanism to evaluate it.</source:markdown>
       <guid>cid://urn:uuid:0000019d-e5d5-dfbf-abfd-edff5c0f0000</guid>
+    </item>    <item>
+      <title>Best things to do this week in Los Angeles and Southern California: May 4-7</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-may-4-7</link>
+      <description>
+        <![CDATA[Spaceballs at Griffith Observatory, Netflix is a Joke kicks off, Trolls take over South Coast Botanical Garden and more of the best things to do.]]>
+      </description>
+      <source:markdown>Spaceballs at Griffith Observatory, Netflix is a Joke kicks off, Trolls take over South Coast Botanical Garden and more of the best things to do.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-e580-d89e-a3dd-f793e5b60000</guid>
     </item>    <item>
       <title>Arbitrator sides with union claiming LAX People Mover subcontractor owes workers back pay</title>
       <link>https://laist.com/news/transportation/lax-people-mover-subcontractor-elevator-worker-back-pay</link>
@@ -116,14 +238,6 @@ The post [Spirit Airlines Has Canceled All Flights and Shut Down After 34 Years]
 The post [May the 4th Be With You, Santa Clarita](https://santaclarita.gov/blog/2026/05/02/may-the-4th-be-with-you-santa-clarita/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8149</guid>
     </item>    <item>
-      <title>Inside the art experiment taking over Snapchat&#39;s former Venice Boardwalk home</title>
-      <link>https://laist.com/news/los-angeles-activities/former-snapchat-hq-on-the-venice-boardwalk-is-now-a-giant-pop-up-art-space</link>
-      <description>
-        <![CDATA[New owner of the space said he wants to keep art — and artists — there, until a fulltime tenant takes over.]]>
-      </description>
-      <source:markdown>New owner of the space said he wants to keep art — and artists — there, until a fulltime tenant takes over.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-df7c-d6ab-a7dd-df7c0ac30000</guid>
-    </item>    <item>
       <title>Why he builds benches that take the LA logo back from the Dodgers</title>
       <link>https://laist.com/news/los-angeles-activities/la-bench-metal-civic-pride-maker</link>
       <description>
@@ -131,6 +245,14 @@ The post [May the 4th Be With You, Santa Clarita](https://santaclarita.gov/blog/
       </description>
       <source:markdown>Second generation welder created “LA Bench” as a form of civic pride.</source:markdown>
       <guid>cid://urn:uuid:0000019d-e4ec-d0a2-a9fd-fcffa0840000</guid>
+    </item>    <item>
+      <title>Inside the art experiment taking over Snapchat&#39;s former Venice Boardwalk home</title>
+      <link>https://laist.com/news/los-angeles-activities/former-snapchat-hq-on-the-venice-boardwalk-is-now-a-giant-pop-up-art-space</link>
+      <description>
+        <![CDATA[New owner of the space said he wants to keep art — and artists — there, until a fulltime tenant takes over.]]>
+      </description>
+      <source:markdown>New owner of the space said he wants to keep art — and artists — there, until a fulltime tenant takes over.</source:markdown>
+      <guid>cid://urn:uuid:0000019d-df7c-d6ab-a7dd-df7c0ac30000</guid>
     </item>    <item>
       <title>SGV residents rally against battery storage hub in City of Industry</title>
       <link>https://laist.com/news/san-gabriel-valley-sgv-rally-against-battery-storage-city-of-industry</link>
@@ -265,7 +387,7 @@ The post [Weekend Eats: You Can Now Eat These Egyptian Tacos Every Day In Lincol
       <title>Go Metro to the best May events in Los Angeles this weekend</title>
       <link>https://thesource.metro.net/go-metro-to-the-best-may-events-in-los-angeles-this-weekend/</link>
       <description>
-        <![CDATA[<figure><img width="1200" height="900" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?fit=1200%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?fit=1200%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>May is here and Los Angeles is packed with things to do this weekend as we celebrate the start of bike month. Jazz at LACMA kicks off its 35th season with a tribute to John Coltrane, Metro Art debuts Roots and Rails bluegrass at Union Station and the Pedal to the Playa Community Ride explores [&#8230;]]]>
+        <![CDATA[<figure><img width="1200" height="900" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?fit=1200%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?fit=1200%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>May is here and Los Angeles is packed with things to do this weekend as we celebrate the start of bike month. Jazz at LACMA kicks off its 35th season with a tribute to John Coltrane, Metro Art debuts Roots and Rails bluegrass at Union Station and the Pedal to the Playa Community Ride explores [&#8230;]]]>
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/04/Image-1-1-scaled.jpeg?fit=1200%2C900&#38;ssl=1)May is here and Los Angeles is packed with things to do this weekend as we celebrate the start of bike month. Jazz at LACMA kicks off its 35th season with a tribute to John Coltrane, Metro Art debuts Roots and Rails bluegrass at Union Station and the Pedal to the Playa Community Ride explores \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=146585</guid>
@@ -2856,109 +2978,6 @@ The post [How to Stop A Data Center in Your Backyard](https://lataco.com/stop-sg
       </description>
       <source:markdown>The rise is good news for U.S. business as the port generated more than $300 billion in trade in 2025.</source:markdown>
       <guid>cid://urn:uuid:0000019d-893c-dcd9-adfd-8f3cb5820000</guid>
-    </item>    <item>
-      <title>Register Now to Volunteer at the 2026 Neighborhood Cleanup in Celebration of Earth Day</title>
-      <link>https://santaclarita.gov/blog/2026/04/13/register-now-to-volunteer-at-the-2026-neighborhood-cleanup-in-celebration-of-earth-day/</link>
-      <description>
-        <![CDATA[<p>Registered Participants Pick Up Free Cleaning Supplies and Mulch Join us and pre-register for the annual Neighborhood Cleanup in celebration of Earth Day, scheduled for Saturday, April 25, where you’ll be able to help remove litter from neighborhoods and public spaces.Pre-registration is available by visiting GreenSantaClarita.com. This event is a valuable volunteer opportunity for residents [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/04/13/register-now-to-volunteer-at-the-2026-neighborhood-cleanup-in-celebration-of-earth-day/">Register Now to Volunteer at the 2026 Neighborhood Cleanup in Celebration of Earth Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>Registered Participants Pick Up Free Cleaning Supplies and Mulch Join us and pre-register for the annual Neighborhood Cleanup in celebration of Earth Day, scheduled for Saturday, April 25, where you’ll be able to help remove litter from neighborhoods and public spaces.Pre-registration is available by visiting GreenSantaClarita.com. This event is a valuable volunteer opportunity for residents \[…\]
-
-The post [Register Now to Volunteer at the 2026 Neighborhood Cleanup in Celebration of Earth Day](https://santaclarita.gov/blog/2026/04/13/register-now-to-volunteer-at-the-2026-neighborhood-cleanup-in-celebration-of-earth-day/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8006</guid>
-    </item>    <item>
-      <title>Bob Baker Marionette Theater is buying its home, because high LA rents also affect puppets</title>
-      <link>https://laist.com/news/arts-and-entertainment/bob-baker-marionette-theater-los-angeles-puppet-highland-park-building-purchase-rent</link>
-      <description>
-        <![CDATA[The beloved puppet theater has called L.A. home since 1963. Now, it’s cementing a deal to buy its Highland Park venue.]]>
-      </description>
-      <source:markdown>The beloved puppet theater has called L.A. home since 1963. Now, it’s cementing a deal to buy its Highland Park venue.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-88e6-d107-affd-8aeebea90000</guid>
-    </item>    <item>
-      <title>LA County CEO proposes $48.8 billion budget, warns of federal funding cuts</title>
-      <link>https://laist.com/news/politics/la-county-ceo-proposes-budget-warns-of-federal-funding-cuts</link>
-      <description>
-        <![CDATA[County officials warn cuts to Medi-Cal and CalFresh in the next fiscal year are expected to have a devastating effects on those programs.]]>
-      </description>
-      <source:markdown>County officials warn cuts to Medi-Cal and CalFresh in the next fiscal year are expected to have a devastating effects on those programs.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-88eb-d107-affd-8aeff39e0000</guid>
-    </item>    <item>
-      <title>Eric Swalwell to resign from Congress following sex assault allegations</title>
-      <link>https://laist.com/news/politics/eric-swalwell-to-resign-from-congress-following-sex-assault-allegations</link>
-      <description>
-        <![CDATA[Swalwell said he would step down from the office he’s held since 2013, but continued to deny the allegations against him by four separate women.]]>
-      </description>
-      <source:markdown>Swalwell said he would step down from the office he’s held since 2013, but continued to deny the allegations against him by four separate women.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-88da-d111-a99d-dadf8f150000</guid>
-    </item>    <item>
-      <title>LA28 wants to give 25% of Olympic contracts to small shops. Here&#39;s how to get in on the action</title>
-      <link>https://laist.com/news/la28-olympic-contracts-small-businesses</link>
-      <description>
-        <![CDATA[If you have a small business and want to get in on some of the LA28 action, here’s where local business leaders say to start.]]>
-      </description>
-      <source:markdown>If you have a small business and want to get in on some of the LA28 action, here’s where local business leaders say to start.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-8820-d843-ab9f-dae239af0000</guid>
-    </item>    <item>
-      <title>SLD 30 Leadership Visits 30th OSS Facilities During An Immersion Tour</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4458107/sld-30-leadership-visits-30th-oss-facilities-during-an-immersion-tour/</link>
-      <description>
-        <![CDATA[Space Launch Delta 30 leadership visited 30th Operations Support Squadron facilities at Vandenberg Space Force Base, Calif., April 6, 2026.<br/> 
-        <img src='https://media.defense.gov/2026/Apr/13/2003912018/300/300/0/260406-X-DW038-1085.JPG' alt='Space Launch Delta 30 leadership and 30th Operations Support Squadron personnel pose for a group photo.' /> <br />]]>
-      </description>
-      <source:markdown>Space Launch Delta 30 leadership visited 30th Operations Support Squadron facilities at Vandenberg Space Force Base, Calif., April 6, 2026.
-
-![Space Launch Delta 30 leadership and 30th Operations Support Squadron personnel pose for a group photo.](https://media.defense.gov/2026/Apr/13/2003912018/300/300/0/260406-X-DW038-1085.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Apr/13/2003912018/700/700/0/260406-X-DW038-1085.JPG" length="" type="image/jpeg" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4458107/sld-30-leadership-visits-30th-oss-facilities-during-an-immersion-tour/</guid>
-    </item>    <item>
-      <title>LAX people mover to begin reliability testing as dispute between city and contractor heats up</title>
-      <link>https://laist.com/news/transportation/lax-people-mover-testing-dispute</link>
-      <description>
-        <![CDATA[The goal of opening to the public in time for the World Cup likely won’t be reached.]]>
-      </description>
-      <source:markdown>The goal of opening to the public in time for the World Cup likely won’t be reached.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-879f-d111-a99d-d79f7dc50001</guid>
-    </item>    <item>
-      <title>Pope Leo brushes off Trump criticism amid growing Vatican–U.S. tensions over Iran war</title>
-      <link>https://laist.com/news/pope-leo-stands-firm-with-trump-as-vatican-washington-rift-deepens-over-iran-war</link>
-      <description>
-        <![CDATA[Pope Leo XIV says he will not be deterred by criticism from President Donald Trump, vowing to continue his calls for peace.]]>
-      </description>
-      <source:markdown>Pope Leo XIV says he will not be deterred by criticism from President Donald Trump, vowing to continue his calls for peace.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-878f-d905-a59f-87bf2a390000</guid>
-    </item>    <item>
-      <title>Stingrays are stinging more Southern Californians. Here’s why</title>
-      <link>https://laist.com/news/climate-environment/stingrays-stinging-more-southern-californians</link>
-      <description>
-        <![CDATA[Climate change and a historic lack of predators are the main culprits that have helped round stingray populations here.]]>
-      </description>
-      <source:markdown>Climate change and a historic lack of predators are the main culprits that have helped round stingray populations here.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-735d-dee2-a9df-ffddfbe10000</guid>
-    </item>    <item>
-      <title>Best things to do this week in LA and SoCal: April 13-16</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-april-13-16</link>
-      <description>
-        <![CDATA[John Waters turns 80, English at the Wallis, a punk panel for the ages and more of the best things to do this week.]]>
-      </description>
-      <source:markdown>John Waters turns 80, English at the Wallis, a punk panel for the ages and more of the best things to do this week.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-826d-d111-a99d-d26f6a5a0000</guid>
-    </item>    <item>
-      <title>Eric Swalwell ends California governor campaign after sexual assault allegations</title>
-      <link>https://laist.com/news/politics/eric-swalwell-ends-california-governor-campaign-after-sexual-assault-allegations</link>
-      <description>
-        <![CDATA[In the short statement posted on social media, Swalwell did not address whether he will remain in Congress.]]>
-      </description>
-      <source:markdown>In the short statement posted on social media, Swalwell did not address whether he will remain in Congress.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-8465-d111-a99d-d66784f40000</guid>
-    </item>    <item>
-      <title>California Republicans caught between Trump loyalty and winning swing districts</title>
-      <link>https://laist.com/news/politics/california-republicans-caught-between-trump-loyalty-and-winning-swing-districts</link>
-      <description>
-        <![CDATA[California Republicans embrace Trump at their convention while candidates in competitive races keep him at arm’s length to win over voters.]]>
-      </description>
-      <source:markdown>California Republicans embrace Trump at their convention while candidates in competitive races keep him at arm’s length to win over voters.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-845d-d111-a99d-d65f9d750000</guid>
     </item>
   </channel>
 </rss>
