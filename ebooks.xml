@@ -4,10 +4,87 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>05 May 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>06 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Wolf-Leader by Alexandre Dumas</title>
+      <link>https://www.gutenberg.org/ebooks/51054</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The tide by Mildred Cram</title>
+      <link>https://www.gutenberg.org/ebooks/78615</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>My days and dreams by Edward Carpenter</title>
+      <link>https://www.gutenberg.org/ebooks/78612</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Reflections on the motive power of heat : by Sadi Carnot and Baron William Thomson Kelvin</title>
+      <link>https://www.gutenberg.org/ebooks/78610</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Say it with bricks/Say it with oil : by Ring Lardner and Nina Wilcox Putnam</title>
+      <link>https://www.gutenberg.org/ebooks/78606</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Timbuctoo the mysterious by Felix Dubois</title>
+      <link>https://www.gutenberg.org/ebooks/78611</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cows is cows by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78614</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Journal de la société de 1789 - Nº III by Condorcet and La Rochefoucauld-Liancourt and Pange</title>
+      <link>https://www.gutenberg.org/ebooks/78607</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Elemente der Paläontologie</title>
+      <link>https://www.gutenberg.org/ebooks/78608</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The first Moroccan crisis, 1904-1906 by Eugene Newton Anderson</title>
+      <link>https://www.gutenberg.org/ebooks/78609</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cacaos and chocolates in the United States of America by Prof. Nemo</title>
+      <link>https://www.gutenberg.org/ebooks/78613</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Curiosa mathematica, Part 1 : by Lewis Carroll</title>
       <link>https://www.gutenberg.org/ebooks/78586</link>
       <description>
@@ -24,13 +101,6 @@
     </item>    <item>
       <title>The Merry Adventures of Robin Hood by Howard Pyle</title>
       <link>https://www.gutenberg.org/ebooks/10148</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Wolf-Leader by Alexandre Dumas</title>
-      <link>https://www.gutenberg.org/ebooks/51054</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

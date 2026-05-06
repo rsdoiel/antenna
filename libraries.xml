@@ -4,10 +4,37 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>05 May 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>06 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Internet Archive Switzerland: Expanding a Global Mission to Preserve Knowledge</title>
+      <link>https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/</link>
+      <description>
+        <![CDATA[Thirty years ago, Brewster Kahle founded the Internet Archive with an ambitious goal: Universal Access to All Knowledge. Today, that mission continues to grow with an exciting new chapter: the [&#8230;]]]>
+      </description>
+      <source:markdown>Thirty years ago, Brewster Kahle founded the Internet Archive with an ambitious goal: Universal Access to All Knowledge. Today, that mission continues to grow with an exciting new chapter: the \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30429</guid>
+    </item>    <item>
+      <title>Wayback Machine Director: We Are ‘Collateral Damage’ in the Fight Between AI Companies and Publishers</title>
+      <link>https://blog.archive.org/2026/05/06/wayback-machine-director-we-are-collateral-damage-in-the-fight-between-ai-companies-and-publishers/</link>
+      <description>
+        <![CDATA[In the latest episode of the Future Knowledge podcast, &#8220;Preserving the Web in the Age of AI,&#8221; Wayback Machine director Mark Graham, tech policy expert Mike Masnick, and media lawyer [&#8230;]]]>
+      </description>
+      <source:markdown>In the latest episode of the Future Knowledge podcast, “Preserving the Web in the Age of AI,” Wayback Machine director Mark Graham, tech policy expert Mike Masnick, and media lawyer \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30423</guid>
+    </item>    <item>
+      <title>Zero-Click Readership: Are AI Overviews Changing the Way We Discover Research</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/05/06/zero-click-readership-are-ai-overviews-changing-the-way-we-discover-research/</link>
+      <description>
+        <![CDATA[<p>Today's post asks: If research is increasingly accessed through AI-generated summaries rather than via primary sources, then what does it mean to “engage with research” at all?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/05/06/zero-click-readership-are-ai-overviews-changing-the-way-we-discover-research/">Zero-Click Readership: Are AI Overviews Changing the Way We Discover Research</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s post asks: If research is increasingly accessed through AI-generated summaries rather than via primary sources, then what does it mean to “engage with research” at all?
+
+The post [Zero-Click Readership: Are AI Overviews Changing the Way We Discover Research](https://scholarlykitchen.sspnet.org/2026/05/06/zero-click-readership-are-ai-overviews-changing-the-way-we-discover-research/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61923</guid>
+    </item>    <item>
       <title>Stronger Together: BioOne and Johns Hopkins University Press Join Forces</title>
       <link>https://scholarlykitchen.sspnet.org/2026/05/05/stronger-together-bioone-and-johns-hopkins-university-press-join-forces/</link>
       <description>
@@ -33,10 +60,10 @@ The post [Johns Hopkins University Press and BioOne Announce Landmark Nonprofit 
       <title>ARL Daily Intelligence (May 4–7)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-may-4-7/</link>
       <description>
-        <![CDATA[<p>Last Updated on May 4, 2026, 3:03 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on May 5, 2026, 3:39 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-may-4-7/">ARL Daily Intelligence (May 4–7)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on May 4, 2026, 3:03 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on May 5, 2026, 3:39 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (May 4–7)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-may-4-7/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48299</guid>
@@ -837,58 +864,6 @@ The post [The Journal Article Is Not the Job](https://scholarlykitchen.sspnet.or
 
 The post [Welcoming a New Chef in the Kitchen, Ashutosh Ghildiyal](https://scholarlykitchen.sspnet.org/2026/04/15/welcoming-a-new-chef-in-the-kitchen-ashutosh-ghildiyal/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61836</guid>
-    </item>    <item>
-      <title>Library Copyright Alliance Supports WIPO African Group Proposal on Copyright Limitations and Exceptions</title>
-      <link>https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/text-based-work-on-limitations-and-exceptions-in-sccr-48/</link>
-      <description>
-        <![CDATA[<p>Last Updated on April 15, 2026, 11:01 am ET The Library Copyright Alliance joined a letter to delegates of the World Intellectual Property Organization (WIPO) Standing Committee on Copyright and...</p>
-        <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/text-based-work-on-limitations-and-exceptions-in-sccr-48/">Library Copyright Alliance Supports WIPO African Group Proposal on Copyright Limitations and Exceptions</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on April 15, 2026, 11:01 am ET The Library Copyright Alliance joined a letter to delegates of the World Intellectual Property Organization (WIPO) Standing Committee on Copyright and...
-
-The post [Library Copyright Alliance Supports WIPO African Group Proposal on Copyright Limitations and Exceptions](https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/text-based-work-on-limitations-and-exceptions-in-sccr-48/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=48092</guid>
-    </item>    <item>
-      <title>Content Authenticity and Provenance in the Age of Artificial Intelligence: A Call to Action for the Libraries, Archives and Museums Community</title>
-      <link>https://blogs.loc.gov/thesignal/2026/04/content-authenticity-and-provenance-in-the-age-of-artificial-intelligence-a-call-to-action-for-the-libraries-archives-and-museums-community/</link>
-      <description>
-        <![CDATA[Today’s guest post is from Kate Murray of the Digital Collections Management &#38; Services Division and co-founder of the C2PA for G+LAM Community of Practice. Released in February 2026 as a product of the C2PA for G+LAM Community of Practice, the white paper &#8220;Content Authenticity and Provenance in the Age of Artificial Intelligence: A Call-to-Action &#8230;]]>
-      </description>
-      <source:markdown>Today’s guest post is from Kate Murray of the Digital Collections Management &#38; Services Division and co-founder of the C2PA for G+LAM Community of Practice. Released in February 2026 as a product of the C2PA for G+LAM Community of Practice, the white paper “Content Authenticity and Provenance in the Age of Artificial Intelligence: A Call-to-Action …</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=37349</guid>
-    </item>    <item>
-      <title>Making Credit Count</title>
-      <link>https://sr.ithaka.org/blog/making-credit-count/</link>
-      <description>
-        <![CDATA[<p>A new report from Ithaka S+R, Academic Momentum and Credit Mobility: Examining the Role of CUNY’s Transfer Explorer, explores how improving transparency around credit transfer can shape student outcomes. Drawing on administrative data from nearly 30,000 students across the CUNY system, the study offers new evidence on what it takes to support meaningful academic progress after transfer.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/making-credit-count/">Making Credit Count</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>A new report from Ithaka S+R, Academic Momentum and Credit Mobility: Examining the Role of CUNY’s Transfer Explorer, explores how improving transparency around credit transfer can shape student outcomes. Drawing on administrative data from nearly 30,000 students across the CUNY system, the study offers new evidence on what it takes to support meaningful academic progress after transfer.
-
-The post [Making Credit Count](https://sr.ithaka.org/blog/making-credit-count/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325450</guid>
-    </item>    <item>
-      <title>Funding: Light at the End of Tunnel For Connecticut Libraries Program May Come. It Costs $140,000</title>
-      <link>https://www.infodocket.com/2026/04/14/funding-light-at-the-end-of-tunnel-for-connecticut-libraries-program-may-come-it-costs-140000/</link>
-      <description>
-        <![CDATA[<p>From the Hartford Courant: A proposed 20% cut in a state program that lets library patrons check out books from public libraries beyond their own town or city has been restored by the General Assembly’s Appropriations Committee, an official of the Connecticut State Library said Monday. Dawn La Valle, the director of the Division of Library Development, [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/04/14/funding-light-at-the-end-of-tunnel-for-connecticut-libraries-program-may-come-it-costs-140000/">Funding: Light at the End of Tunnel For Connecticut Libraries Program May Come. It Costs $140,000</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From the Hartford Courant: A proposed 20% cut in a state program that lets library patrons check out books from public libraries beyond their own town or city has been restored by the General Assembly’s Appropriations Committee, an official of the Connecticut State Library said Monday. Dawn La Valle, the director of the Division of Library Development, \[…\]
-
-The post [Funding: Light at the End of Tunnel For Connecticut Libraries Program May Come. It Costs $140,000](https://www.infodocket.com/2026/04/14/funding-light-at-the-end-of-tunnel-for-connecticut-libraries-program-may-come-it-costs-140000/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=167931</guid>
-    </item>    <item>
-      <title>Guest Post — From Open Access to Preprints: Are We Repeating the Same Mistakes in Scholarly Publishing?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/04/14/guest-post-from-open-access-to-preprints-are-we-repeating-the-same-mistakes-in-scholarly-publishing/</link>
-      <description>
-        <![CDATA[<p>Guest blogger Jonny Coates looks at Richard Poynder's post-mortem on the Open Access movement, and uses it as a framework to ask questions about the future of preprints.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/14/guest-post-from-open-access-to-preprints-are-we-repeating-the-same-mistakes-in-scholarly-publishing/">Guest Post &#8212; From Open Access to Preprints: Are We Repeating the Same Mistakes in Scholarly Publishing?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Guest blogger Jonny Coates looks at Richard Poynder&#39;s post-mortem on the Open Access movement, and uses it as a framework to ask questions about the future of preprints.
-
-The post [Guest Post — From Open Access to Preprints: Are We Repeating the Same Mistakes in Scholarly Publishing?](https://scholarlykitchen.sspnet.org/2026/04/14/guest-post-from-open-access-to-preprints-are-we-repeating-the-same-mistakes-in-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61833</guid>
     </item>
   </channel>
 </rss>
