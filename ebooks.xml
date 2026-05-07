@@ -4,12 +4,12 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>06 May 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>07 May 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The Wolf-Leader by Alexandre Dumas</title>
-      <link>https://www.gutenberg.org/ebooks/51054</link>
+      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
+      <link>https://www.gutenberg.org/ebooks/1067</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -17,6 +17,148 @@
     </item>    <item>
       <title>The tide by Mildred Cram</title>
       <link>https://www.gutenberg.org/ebooks/78615</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cows is cows by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78614</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cacaos and chocolates in the United States of America by Professor Nemo</title>
+      <link>https://www.gutenberg.org/ebooks/78613</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Storia della città di Roma nel medio evo, vol. 5/8 : by Ferdinand Gregorovius</title>
+      <link>https://www.gutenberg.org/ebooks/78619</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>The works of Plato (Vol. 1 of 6) : by Plato</title>
+      <link>https://www.gutenberg.org/ebooks/78618</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Proceedings of the third National Conservation Congress at Kansas City, Missouri, September 25, 26 a</title>
+      <link>https://www.gutenberg.org/ebooks/78622</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>East of Siam : by Harry Alverson Franck</title>
+      <link>https://www.gutenberg.org/ebooks/78626</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Life-tangles: the journal of Rhoda Frith by Agnes Giberne</title>
+      <link>https://www.gutenberg.org/ebooks/78624</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Wuthering Heights by Emily Brontë</title>
+      <link>https://www.gutenberg.org/ebooks/768</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Serapion Brethren, Vol. II by E. T. A.  Hoffmann</title>
+      <link>https://www.gutenberg.org/ebooks/31668</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pajarin poika : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78621</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Puolan paanit : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78620</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Scarecrow of Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/957</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Wonderful Wizard of Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/21179</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Fifty-fifty with Bonnie by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78627</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dangerous trades :</title>
+      <link>https://www.gutenberg.org/ebooks/78617</link>
+      <description>
+        <![CDATA[Language:]]>
+      </description>
+      <source:markdown>Language:</source:markdown>
+    </item>    <item>
+      <title>The social basis of consciousness : by Trigant Burrow</title>
+      <link>https://www.gutenberg.org/ebooks/78616</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The history &#38; traditions of the Moorfields Eye Hospital : by Edward Treacher Collins</title>
+      <link>https://www.gutenberg.org/ebooks/78625</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Craft-guilds of the thirteenth century in Paris by Fred B.  Millett</title>
+      <link>https://www.gutenberg.org/ebooks/78623</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Walls of Jericho, by Rudolph Fisher</title>
+      <link>https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho</link>
+      <description>
+        <![CDATA[A black lawyer attempts to move into an exclusively white neighborhood.]]>
+      </description>
+      <source:markdown>A black lawyer attempts to move into an exclusively white neighborhood.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho/downloads/rudolph-fisher_the-walls-of-jericho.epub?source=feed" length="333805" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho</guid>
+    </item>    <item>
+      <title>The Wolf-Leader by Alexandre Dumas</title>
+      <link>https://www.gutenberg.org/ebooks/51054</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -50,13 +192,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Cows is cows by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78614</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Journal de la société de 1789 - Nº III by Condorcet and La Rochefoucauld-Liancourt and Pange</title>
       <link>https://www.gutenberg.org/ebooks/78607</link>
       <description>
@@ -73,13 +208,6 @@
     </item>    <item>
       <title>The first Moroccan crisis, 1904-1906 by Eugene Newton Anderson</title>
       <link>https://www.gutenberg.org/ebooks/78609</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cacaos and chocolates in the United States of America by Prof. Nemo</title>
-      <link>https://www.gutenberg.org/ebooks/78613</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -415,13 +543,6 @@
     </item>    <item>
       <title>The Bible, Douay-Rheims, Complete</title>
       <link>https://www.gutenberg.org/ebooks/8300</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/1067</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

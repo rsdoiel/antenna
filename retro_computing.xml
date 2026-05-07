@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>06 May 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>07 May 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>PROTON KB-2 keyboard</title>
+      <link>http://retro.hansotten.nl/proton-kb-2-keyboard/</link>
+      <description>
+        <![CDATA[Walter van Waard found a keyboard made by PROTON, a Dutch company from the 80ties that produced many 6502 and Z80 based computers and peripherals. It looks like an ASCII keyboard with more function keys (F1-F8) than usual. Production date is probably not before 1984 since the ICs have date codes from 1983. No documentation [&#8230;]]]>
+      </description>
+      <source:markdown>Walter van Waard found a keyboard made by PROTON, a Dutch company from the 80ties that produced many 6502 and Z80 based computers and peripherals. It looks like an ASCII keyboard with more function keys (F1-F8) than usual. Production date is probably not before 1984 since the ICs have date codes from 1983. No documentation \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20867</guid>
+    </item>    <item>
       <title>Continental RISC OS eXperience</title>
       <link>https://www.riscosopen.org/news/articles/2026/05/05/continental-risc-os-experience</link>
       <description>
@@ -91,7 +99,7 @@ Visitors can also use the shared tables to show off their own setups to one anot
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZIlwkgbzMDQSeO1eFvF63o9Urg8_VlObnVKcE_ovWUUC02CDFsUfKhmowIAYWznCYi9IJFXyj74dUdgXwT_W0ejYCHnfw5yuIhr6uM57YkaTqqdD9GhOuzlgbwgtaH3-mAUsPF3hK9kzAMjc47Xe5q2Dm0dP9Y7AFWMuwPUynDxycaF6KpjVrmQoI5Q/s4080/PXL_20260502_014328812.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZIlwkgbzMDQSeO1eFvF63o9Urg8_VlObnVKcE_ovWUUC02CDFsUfKhmowIAYWznCYi9IJFXyj74dUdgXwT_W0ejYCHnfw5yuIhr6uM57YkaTqqdD9GhOuzlgbwgtaH3-mAUsPF3hK9kzAMjc47Xe5q2Dm0dP9Y7AFWMuwPUynDxycaF6KpjVrmQoI5Q/s320/PXL_20260502_014328812.jpg"/></a></div>
         
-        Well, thanks to Jeff Walther who generously built a few replica ROM SIMMs for me to test, we can now try the "2.0" MacOS ROMs on <tt>holmstock</tt>, our hard-working Apple Network Server 700 test rig (<tt>stockholm</tt>, my original ANS 500, is still officially a production unit). And there are some interesting things to report, especially when we pit the preproduction ROMs and this set head-to-head in MacBench, and even try booting Rhapsody on it.
+        Well, thanks to Jeff Walther who generously built a few replica ROM DIMMs for me to test, we can now try the "2.0" MacOS ROMs on <tt>holmstock</tt>, our hard-working Apple Network Server 700 test rig (<tt>stockholm</tt>, my original ANS 500, is still officially a production unit). And there are some interesting things to report, especially when we pit the preproduction ROMs and this set head-to-head in MacBench, and even try booting Rhapsody on it.
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_8jv948YyBwKB0Vp-rxd18nP5HA-VkD9o1RcexrM0w7Oiov8rSg_JfdmoAOZiYsgIW6pWOJLMrayKyKU49EVbjhcuDTA61I4BDsOOQFx3HHl0iN1W33r8b78EenBoJc2dHfy8feZJ1-kXHpRXt4GKP9VBvNmmlZH8J2k9T2UW_y5qRGnjuXKy_rmYWXY/s4080/PXL_20260503_070151542.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="4080" data-original-width="3072" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_8jv948YyBwKB0Vp-rxd18nP5HA-VkD9o1RcexrM0w7Oiov8rSg_JfdmoAOZiYsgIW6pWOJLMrayKyKU49EVbjhcuDTA61I4BDsOOQFx3HHl0iN1W33r8b78EenBoJc2dHfy8feZJ1-kXHpRXt4GKP9VBvNmmlZH8J2k9T2UW_y5qRGnjuXKy_rmYWXY/s320/PXL_20260503_070151542.jpg"/></a></div>
         
@@ -302,7 +310,7 @@ Visitors can also use the shared tables to show off their own setups to one anot
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjvq-8pTqmXNtEmBxtA_UaeNTNiuEpkVyCAkc7nK7_N2_1zsoy9-UkbihKpbDzVwGPjLR-8dFFI6L99XR2sCg5McWaYPgmAtUK_vkSIQgk7bRgzW6DRR3BGs8BYrMi4AFANpwtLEKweCN7jdTRa8Meq-DfbMMvEtxxUkKMdWwVtvYXr3B7dACTlkVSZrw/s4080/PXL_20260503_040208778.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjvq-8pTqmXNtEmBxtA_UaeNTNiuEpkVyCAkc7nK7_N2_1zsoy9-UkbihKpbDzVwGPjLR-8dFFI6L99XR2sCg5McWaYPgmAtUK_vkSIQgk7bRgzW6DRR3BGs8BYrMi4AFANpwtLEKweCN7jdTRa8Meq-DfbMMvEtxxUkKMdWwVtvYXr3B7dACTlkVSZrw/s320/PXL_20260503_040208778.jpg"/></a></div>
         
-        The Network Server Diagnostic Utility (NSDU) shows other strange stuff. Because it never runs a Long RAM test, the RAM is never marked parity (even though it is; we labouriously dug out every parity FPM DIMM we had in stock to put in this thing). On ANS production ROMs (and the preproduction ROMs), the ROM will set the RAM timing to 70ns instead of 60ns if any stick of RAM is not parity, a rare case of where having parity memory <em>improves</em> performance. It's not clear what this ROM does in that instance, and in any case there are bigger problems such as the absolutely preposterous processor speed (this is a 150MHz PowerPC 604e). The L2 cache, at least, is correctly detected as the standard 700 1MB. We'll come back to this too.
+        The Network Server Diagnostic Utility (NSDU) shows other strange stuff. Because it never runs a Long RAM test, the RAM is never marked parity (even though it is; we labouriously dug out every parity FPM DIMM we had in stock to put in this thing). On ANS production ROMs (and the preproduction ROMs), the ROM will set the RAM timing to 70ns instead of 60ns if any stick of RAM is not parity, a rare case of where having parity memory <em>improves</em> performance. It's not clear what this ROM does in that instance, and in any case there are bigger problems such as the absolutely preposterous processor speed (this is a 150MHz PowerPC 604). The L2 cache, at least, is correctly detected as the standard 700 1MB. We'll come back to this too.
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillWvIJM-kBkOLHR_hWy3_Mc3HtRhpPwTVv5l3aF0HCkA1Eva-B-aV7n3cudfTEK6gQmVXR014Eg4QDIcZkCw6BRUFSRTCwLdxwDqgoET2wRQBFlVB5_MLeBu1UwEiF1gyPigAORUOtj_yG8YtstM5VUrx3Var9wgneH_FhtuWtZQPf2iELWrWRM9aDCU/s4080/PXL_20260503_034116048.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillWvIJM-kBkOLHR_hWy3_Mc3HtRhpPwTVv5l3aF0HCkA1Eva-B-aV7n3cudfTEK6gQmVXR014Eg4QDIcZkCw6BRUFSRTCwLdxwDqgoET2wRQBFlVB5_MLeBu1UwEiF1gyPigAORUOtj_yG8YtstM5VUrx3Var9wgneH_FhtuWtZQPf2iELWrWRM9aDCU/s320/PXL_20260503_034116048.jpg"/></a></div>
         
@@ -414,7 +422,7 @@ But they&#39;ve started to surface, first with an ex-Apple employee who had both
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZIlwkgbzMDQSeO1eFvF63o9Urg8_VlObnVKcE_ovWUUC02CDFsUfKhmowIAYWznCYi9IJFXyj74dUdgXwT_W0ejYCHnfw5yuIhr6uM57YkaTqqdD9GhOuzlgbwgtaH3-mAUsPF3hK9kzAMjc47Xe5q2Dm0dP9Y7AFWMuwPUynDxycaF6KpjVrmQoI5Q/s320/PXL_20260502_014328812.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZIlwkgbzMDQSeO1eFvF63o9Urg8_VlObnVKcE_ovWUUC02CDFsUfKhmowIAYWznCYi9IJFXyj74dUdgXwT_W0ejYCHnfw5yuIhr6uM57YkaTqqdD9GhOuzlgbwgtaH3-mAUsPF3hK9kzAMjc47Xe5q2Dm0dP9Y7AFWMuwPUynDxycaF6KpjVrmQoI5Q/s4080/PXL_20260502_014328812.jpg)
 
-Well, thanks to Jeff Walther who generously built a few replica ROM SIMMs for me to test, we can now try the &#34;2.0&#34; MacOS ROMs on `holmstock`, our hard-working Apple Network Server 700 test rig ( `stockholm`, my original ANS 500, is still officially a production unit). And there are some interesting things to report, especially when we pit the preproduction ROMs and this set head-to-head in MacBench, and even try booting Rhapsody on it.
+Well, thanks to Jeff Walther who generously built a few replica ROM DIMMs for me to test, we can now try the &#34;2.0&#34; MacOS ROMs on `holmstock`, our hard-working Apple Network Server 700 test rig ( `stockholm`, my original ANS 500, is still officially a production unit). And there are some interesting things to report, especially when we pit the preproduction ROMs and this set head-to-head in MacBench, and even try booting Rhapsody on it.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_8jv948YyBwKB0Vp-rxd18nP5HA-VkD9o1RcexrM0w7Oiov8rSg_JfdmoAOZiYsgIW6pWOJLMrayKyKU49EVbjhcuDTA61I4BDsOOQFx3HHl0iN1W33r8b78EenBoJc2dHfy8feZJ1-kXHpRXt4GKP9VBvNmmlZH8J2k9T2UW_y5qRGnjuXKy_rmYWXY/s320/PXL_20260503_070151542.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_8jv948YyBwKB0Vp-rxd18nP5HA-VkD9o1RcexrM0w7Oiov8rSg_JfdmoAOZiYsgIW6pWOJLMrayKyKU49EVbjhcuDTA61I4BDsOOQFx3HHl0iN1W33r8b78EenBoJc2dHfy8feZJ1-kXHpRXt4GKP9VBvNmmlZH8J2k9T2UW_y5qRGnjuXKy_rmYWXY/s4080/PXL_20260503_070151542.jpg)
 
@@ -631,7 +639,7 @@ Accordingly, a command like `boot disk0:aix` or `boot /bandit/53c825@11/sd@0,0:a
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjvq-8pTqmXNtEmBxtA_UaeNTNiuEpkVyCAkc7nK7_N2_1zsoy9-UkbihKpbDzVwGPjLR-8dFFI6L99XR2sCg5McWaYPgmAtUK_vkSIQgk7bRgzW6DRR3BGs8BYrMi4AFANpwtLEKweCN7jdTRa8Meq-DfbMMvEtxxUkKMdWwVtvYXr3B7dACTlkVSZrw/s320/PXL_20260503_040208778.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjvq-8pTqmXNtEmBxtA_UaeNTNiuEpkVyCAkc7nK7_N2_1zsoy9-UkbihKpbDzVwGPjLR-8dFFI6L99XR2sCg5McWaYPgmAtUK_vkSIQgk7bRgzW6DRR3BGs8BYrMi4AFANpwtLEKweCN7jdTRa8Meq-DfbMMvEtxxUkKMdWwVtvYXr3B7dACTlkVSZrw/s4080/PXL_20260503_040208778.jpg)
 
-The Network Server Diagnostic Utility (NSDU) shows other strange stuff. Because it never runs a Long RAM test, the RAM is never marked parity (even though it is; we labouriously dug out every parity FPM DIMM we had in stock to put in this thing). On ANS production ROMs (and the preproduction ROMs), the ROM will set the RAM timing to 70ns instead of 60ns if any stick of RAM is not parity, a rare case of where having parity memory _improves_ performance. It&#39;s not clear what this ROM does in that instance, and in any case there are bigger problems such as the absolutely preposterous processor speed (this is a 150MHz PowerPC 604e). The L2 cache, at least, is correctly detected as the standard 700 1MB. We&#39;ll come back to this too.
+The Network Server Diagnostic Utility (NSDU) shows other strange stuff. Because it never runs a Long RAM test, the RAM is never marked parity (even though it is; we labouriously dug out every parity FPM DIMM we had in stock to put in this thing). On ANS production ROMs (and the preproduction ROMs), the ROM will set the RAM timing to 70ns instead of 60ns if any stick of RAM is not parity, a rare case of where having parity memory _improves_ performance. It&#39;s not clear what this ROM does in that instance, and in any case there are bigger problems such as the absolutely preposterous processor speed (this is a 150MHz PowerPC 604). The L2 cache, at least, is correctly detected as the standard 700 1MB. We&#39;ll come back to this too.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillWvIJM-kBkOLHR_hWy3_Mc3HtRhpPwTVv5l3aF0HCkA1Eva-B-aV7n3cudfTEK6gQmVXR014Eg4QDIcZkCw6BRUFSRTCwLdxwDqgoET2wRQBFlVB5_MLeBu1UwEiF1gyPigAORUOtj_yG8YtstM5VUrx3Var9wgneH_FhtuWtZQPf2iELWrWRM9aDCU/s320/PXL_20260503_034116048.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillWvIJM-kBkOLHR_hWy3_Mc3HtRhpPwTVv5l3aF0HCkA1Eva-B-aV7n3cudfTEK6gQmVXR014Eg4QDIcZkCw6BRUFSRTCwLdxwDqgoET2wRQBFlVB5_MLeBu1UwEiF1gyPigAORUOtj_yG8YtstM5VUrx3Var9wgneH_FhtuWtZQPf2iELWrWRM9aDCU/s4080/PXL_20260503_034116048.jpg)
 
@@ -1607,32 +1615,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Tempting fate, Loads of nuggets, Still overthinking things, Singularity.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260416</guid>
-    </item>    <item>
-      <title>b.log 2026/04/15 - Arduino Leonardo, Heart attack symptoms?, Brexit - the gift that keeps on failing to deliver, Routes.</title>
-      <link>https://heyrick.eu/blog/entry/20260415</link>
-      <description>
-        <![CDATA[Arduino Leonardo, Heart attack symptoms?, Brexit - the gift that keeps on failing to deliver, Routes.]]>
-      </description>
-      <source:markdown>Arduino Leonardo, Heart attack symptoms?, Brexit - the gift that keeps on failing to deliver, Routes.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260415</guid>
-    </item>    <item>
-      <title>CIQ Releases Compatibility Catalog for Rocky Linux</title>
-      <link>http://www.linux-magazine.com/Online/News/CIQ-Releases-Compatibility-Catalog-for-Rocky-Linux</link>
-      <description>
-        <![CDATA[<p>The company behind Rocky Linux is making an open catalog available to developers, hobbyists, and other contributors, so they can verify and publish compatibility with the CIQ lineup.</p>]]>
-      </description>
-      <source:markdown>The company behind Rocky Linux is making an open catalog available to developers, hobbyists, and other contributors, so they can verify and publish compatibility with the CIQ lineup.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://5831b7d380f705ed7c918d685e2824cb</guid>
-    </item>    <item>
-      <title>KDE Gets Some Resuscitation</title>
-      <link>http://www.linux-magazine.com/Online/News/KDE-Gets-Some-Resuscitation</link>
-      <description>
-        <![CDATA[<p>KDE is bringing back two themes that vanished a few years ago, putting a bit more air under its wings.</p>]]>
-      </description>
-      <source:markdown>KDE is bringing back two themes that vanished a few years ago, putting a bit more air under its wings.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://a20179fac1c0f397c15a16c16746cc57</guid>
     </item>
   </channel>
 </rss>
