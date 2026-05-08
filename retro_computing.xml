@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>07 May 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>08 May 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1607,14 +1607,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>If you think your RISC OS desktop is looking a bit bland and in need of a lick of paint, Paolo Zaino has the tool to help with that task in the form of ExtTheme – and he’ll be presenting it to the RISC OS User Group of London (ROUGOL) at the group’s next meeting, on 20th April. A theme is a package of graphics and related items designed to give your desktop a particular appearance – and the ExtTheme application is intended make installing and switching between different themes…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10926</guid>
-    </item>    <item>
-      <title>b.log 2026/04/16 - Tempting fate, Loads of nuggets, Still overthinking things, Singularity.</title>
-      <link>https://heyrick.eu/blog/entry/20260416</link>
-      <description>
-        <![CDATA[Tempting fate, Loads of nuggets, Still overthinking things, Singularity.]]>
-      </description>
-      <source:markdown>Tempting fate, Loads of nuggets, Still overthinking things, Singularity.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260416</guid>
     </item>
   </channel>
 </rss>

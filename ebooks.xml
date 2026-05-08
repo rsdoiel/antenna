@@ -4,10 +4,61 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>07 May 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>08 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fifty-fifty with Bonnie by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78627</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Expelled : by Richard Marsh</title>
+      <link>https://www.gutenberg.org/ebooks/76920</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>According to Ng Loy by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78628</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Fires of fate by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78629</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tippecanoe and cougars two by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78631</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Locura y muerte de Nadie : by Benjamín Jarnés</title>
+      <link>https://www.gutenberg.org/ebooks/78630</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Hamilton, by Mary P. Hamlin and George Arliss</title>
+      <link>https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton</link>
+      <description>
+        <![CDATA[Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.]]>
+      </description>
+      <source:markdown>Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/mary-p-hamlin-george-arliss_hamilton.epub?source=feed" length="742213" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton</guid>
+    </item>    <item>
       <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
       <link>https://www.gutenberg.org/ebooks/1067</link>
       <description>
@@ -108,13 +159,6 @@
     </item>    <item>
       <title>The Wonderful Wizard of Oz by L. Frank  Baum</title>
       <link>https://www.gutenberg.org/ebooks/21179</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Fifty-fifty with Bonnie by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78627</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

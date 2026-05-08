@@ -4,10 +4,203 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>07 May 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>08 May 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Hantavirus: the risks, the science and what you need to know</title>
+      <link>https://www.npr.org/2026/05/08/nx-s1-5811917/hantavirus-andres-mvhondius-ship-rodents</link>
+      <description>
+        <![CDATA[On May 2, the World Health Organization got an alarming report: People aboard a ship in the Atlantic Ocean were falling ill. The culprit is now confirmed as hantavirus, a pathogen that some rodents carry that can infect humans in rare, but often deadly, instances. Multiple passengers have died, and more people are showing symptoms. So, we’re talking to <a href="https://medschool.umich.edu/profile/5829/emily-abdoler"target="_blank"   >Emily Abdoler</a>, an infectious disease doctor at the University of Michigan, about the news – how common is hantavirus in humans, what are the consequences of getting it, and how can at-risk people protect themselves from it? <br/><br/><strong>If you found this episode interesting, listen to our episode on </strong><a href="http://lnk.to/DyF2OA"target="_blank"   ><strong>Rocky Mountain spotted fever.</strong></a><br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>On May 2, the World Health Organization got an alarming report: People aboard a ship in the Atlantic Ocean were falling ill. The culprit is now confirmed as hantavirus, a pathogen that some rodents carry that can infect humans in rare, but often deadly, instances. Multiple passengers have died, and more people are showing symptoms. So, we’re talking to [Emily Abdoler](https://medschool.umich.edu/profile/5829/emily-abdoler), an infectious disease doctor at the University of Michigan, about the news – how common is hantavirus in humans, what are the consequences of getting it, and how can at-risk people protect themselves from it?
+
+**If you found this episode interesting, listen to our episode on** [**Rocky Mountain spotted fever.**](http://lnk.to/DyF2OA)
+
+_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a027747a-29bb-43d7-a492-6a75692f512c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a027747a-29bb-43d7-a492-6a75692f512c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5811917&p=510351&d=777&size=12441854" length="12441854" type="audio/mpeg" />
+      <guid>cid://7fa86f05-9f92-4184-a2bf-32dc826a82fa</guid>
+    </item>    <item>
+      <title>Tracy Arm’s Post-Tsunami Landscape</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/</link>
+      <description>
+        <![CDATA[A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.]]>
+      </description>
+      <source:markdown>A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/</guid>
+    </item>    <item>
+      <title>Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research</title>
+      <link>https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/</link>
+      <description>
+        <![CDATA[NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions – continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions – continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=994061</guid>
+    </item>    <item>
+      <title>Fedora Project Leader says he doesn’t care about the reputational damage from Fedora embracing “AI”</title>
+      <link>https://www.osnews.com/story/144894/fedora-project-leader-says-he-doesnt-care-about-the-reputational-damage-from-fedora-embracing-ai/</link>
+      <description>
+        <![CDATA[On the Fedora forums, there&#8217;s a long-running thread about a proposal for Fedora to build a variant of the distribution aimed specifically at &#8220;AI&#8221;. The &#8220;problem&#8221; identified in the proposal is that setting up the various parts that a developer in the &#8220;AI&#8221; space needs is currently quite difficult on Fedora, and as such, a bunch of technical steps need to be taken to make this easier. Setting aside the &#8220;AI&#8221; of the proposal and ensuing discussion, it&#8217;s actually a very interesting read, going deep into the weeds about consequential questions like building an LTS kernel on Fedora, support for out-of-tree kernel mods, and a lot more. To spoil the ending: the proposal has already been approved unanimously by the Fedora Council, meaning the efforts laid out in the proposal will be undertaken. This means that, depending on progress, we&#8217;ll see a Fedora &#8220;AI&#8221; Desktop or whatever it&#8217;s going to be called somewhere in the timeframe from Fedora 45 to Fedora 47. As a Fedora user on all my machines, I&#8217;m obviously not too happy about this, since I&#8217;d much rather the scarce resources of a project like Fedora goes towards things not as ethically bankrupt, environmentally destructive, and artistically deficient as &#8220;AI&#8221;, but in the end it&#8217;s a project owned and controlled by IBM, so it&#8217;s not exactly unexpected. What really surprised me in this entire discussion is a post by Fedora Project Leader Jef Spaleta, responding to worries people in the thread were having about such a big &#8220;AI&#8221; undertaking under the Fedora branding causing serious reputational damage to Fedora as a whole. These concerns are clearly valid, as people really fucking hate &#8220;AI&#8221;, doubly so in the open source community whose work especially &#8220;AI&#8221; coding tools are built on without any form of consent. As such, Fedora undertaking a big &#8220;AI&#8221; desktop project is bound to have a negative impact on Fedora&#8217;s image. Just look at what aggressively pushing Copilot has done to Windows 11&#8217;s already shit reputation. Spaleta, however, just doesn&#8217;t care. Literally. As the Fedora Project Leader, I am absolutely not concerned about the reputational damage to this project that comes with setting up an entirely new output attractive to developers who want to make use of Ai tools. ↫ Jef Spaleta I&#8217;ve been looking at this line on and off for a few days now, and I just can&#8217;t wrap my head around how the leader of an open source project built on and relying on the free labour of thousands of contributors says he doesn&#8217;t care about reputational damage to the project he&#8217;s leading. Effective and capable open source contributors are not exactly a commodity, and a lot of the decisions they make about what projects to donate their time to are based on vibes and personal convictions &#8211; you can&#8217;t really pay them to look the other way. Saying you don&#8217;t care about reputational damage to your huge open source project seems rather shortsighted, but of course, I don&#8217;t lead a huge open source project so what do I know? In the linked thread alone, one long-time Fedora contributor, Fernando Mancera, already decided to leave the project on the spot, and I have a sneaking suspicion he won&#8217;t be the last. &#8220;AI&#8221; is a deeply tainted hype on many levels, and the more you try to chase this dragon, the more capable people you&#8217;ll end up chasing away.]]>
+      </description>
+      <source:markdown>On the Fedora forums, there’s a long-running thread about a proposal for Fedora to build a variant of the distribution aimed specifically at “AI”. The “problem” identified in the proposal is that setting up the various parts that a developer in the “AI” space needs is currently quite difficult on Fedora, and as such, a bunch of technical steps need to be taken to make this easier. Setting aside the “AI” of the proposal and ensuing discussion, it’s actually a very interesting read, going deep into the weeds about consequential questions like building an LTS kernel on Fedora, support for out-of-tree kernel mods, and a lot more. To spoil the ending: the proposal has already been approved unanimously by the Fedora Council, meaning the efforts laid out in the proposal will be undertaken. This means that, depending on progress, we’ll see a Fedora “AI” Desktop or whatever it’s going to be called somewhere in the timeframe from Fedora 45 to Fedora 47. As a Fedora user on all my machines, I’m obviously not too happy about this, since I’d much rather the scarce resources of a project like Fedora goes towards things not as ethically bankrupt, environmentally destructive, and artistically deficient as “AI”, but in the end it’s a project owned and controlled by IBM, so it’s not exactly unexpected. What really surprised me in this entire discussion is a post by Fedora Project Leader Jef Spaleta, responding to worries people in the thread were having about such a big “AI” undertaking under the Fedora branding causing serious reputational damage to Fedora as a whole. These concerns are clearly valid, as people really fucking hate “AI”, doubly so in the open source community whose work especially “AI” coding tools are built on without any form of consent. As such, Fedora undertaking a big “AI” desktop project is bound to have a negative impact on Fedora’s image. Just look at what aggressively pushing Copilot has done to Windows 11’s already shit reputation. Spaleta, however, just doesn’t care. Literally. As the Fedora Project Leader, I am absolutely not concerned about the reputational damage to this project that comes with setting up an entirely new output attractive to developers who want to make use of Ai tools. ↫ Jef Spaleta I’ve been looking at this line on and off for a few days now, and I just can’t wrap my head around how the leader of an open source project built on and relying on the free labour of thousands of contributors says he doesn’t care about reputational damage to the project he’s leading. Effective and capable open source contributors are not exactly a commodity, and a lot of the decisions they make about what projects to donate their time to are based on vibes and personal convictions – you can’t really pay them to look the other way. Saying you don’t care about reputational damage to your huge open source project seems rather shortsighted, but of course, I don’t lead a huge open source project so what do I know? In the linked thread alone, one long-time Fedora contributor, Fernando Mancera, already decided to leave the project on the spot, and I have a sneaking suspicion he won’t be the last. “AI” is a deeply tainted hype on many levels, and the more you try to chase this dragon, the more capable people you’ll end up chasing away.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144894</guid>
+    </item>    <item>
+      <title>Meet &#39;Gabi,&#39; the Robot That Just Became a Monk at a Buddhist Temple in South Korea. It’s the Latest Robot to Take Up Religious Practice</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-gabi-the-new-robot-monk-at-a-buddhist-temple-in-south-korea-its-the-latest-robot-to-take-up-religious-practice-180988695/</link>
+      <description>
+        <![CDATA[The humanoid promised to obey humans, save energy and treat other robots peacefully. South Korean Buddhist leaders recently have started to embrace artificial intelligence]]>
+      </description>
+      <source:markdown>The humanoid promised to obey humans, save energy and treat other robots peacefully. South Korean Buddhist leaders recently have started to embrace artificial intelligence</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FWWM_pPuP0BINNKeelkhe4ggOWA=/420x240/filters:focal(3793x2529:3794x2530)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/ac/fbac2f50-d0d9-4fff-a844-d7e98c6cf9fd/ap_robot_monk.jpg" length="9636364" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-gabi-the-new-robot-monk-at-a-buddhist-temple-in-south-korea-its-the-latest-robot-to-take-up-religious-practice-180988695/</guid>
+    </item>    <item>
+      <title>NASA Welcomes Paraguay as 67th Artemis Accords Signatory</title>
+      <link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/</link>
+      <description>
+        <![CDATA[The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman. “They join an ever-growing coalition of [&#8230;]]]>
+      </description>
+      <source:markdown>The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman. “They join an ever-growing coalition of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=994044</guid>
+    </item>    <item>
+      <title>Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission</title>
+      <link>https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/</link>
+      <description>
+        <![CDATA[AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.” Their argument: American [&#8230;]]]>
+      </description>
+      <source:markdown>AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.” Their argument: American \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=92885</guid>
+    </item>    <item>
+      <title>Before ‘The Kiss,’ Gustav Klimt Got His First Big Art Assignment at This Austrian Theater. Now Visitors Can See His Ceiling Paintings Up Close for the First Time</title>
+      <link>https://www.smithsonianmag.com/smart-news/before-the-kiss-gustav-klimt-got-his-first-big-art-assignment-at-this-austrian-theater-now-visitors-can-see-his-ceiling-paintings-up-close-for-the-first-time-180988698/</link>
+      <description>
+        <![CDATA[As a young man, the artist who later became famous for working gold leaf into portraits earned a Golden Cross of Merit from an emperor for his contributions to Vienna’s Burgtheater]]>
+      </description>
+      <source:markdown>As a young man, the artist who later became famous for working gold leaf into portraits earned a Golden Cross of Merit from an emperor for his contributions to Vienna’s Burgtheater</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aKOlX7Vw4tFGHb0hTuAbbxNz-pg=/420x240/filters:focal(2067x1378:2068x1379)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fd/10/fd10439e-4fcf-4ca6-9613-e4fa89a4279d/wien_-_burgtheater_linke_feststiege.jpg" length="10576755" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/before-the-kiss-gustav-klimt-got-his-first-big-art-assignment-at-this-austrian-theater-now-visitors-can-see-his-ceiling-paintings-up-close-for-the-first-time-180988698/</guid>
+    </item>    <item>
+      <title>Redox gets partial window pixel updating, tmux, and more</title>
+      <link>https://www.osnews.com/story/144901/redox-gets-partial-window-pixel-updating-tmux-and-more/</link>
+      <description>
+        <![CDATA[Another month, another progress report, Redox, etc. etc., you know the drill by now. This past month Redox saw improved booting on real hardware by making sure the boot process continues even if certain drivers fail or become blocked. Thanks to some changes on the RISC-V side, running Redox on real RISC-V hardware has also improved. Furthermore, tmux has been ported to Redox, CPU time reporting has been improved, and Orbital, Redox&#8217; desktop environment, gianed support for partial window pixel updating, which should increase UI performance. On top of that, there&#8217;s a brand new web user interface to browse Redox packages (x86-64, i586, ARM64 (aarch64), and RISC-V (riscv64gc)), as well as the usual list of improvements to the kernel, drivers, relibc, and many more areas of the operating system.]]>
+      </description>
+      <source:markdown>Another month, another progress report, Redox, etc. etc., you know the drill by now. This past month Redox saw improved booting on real hardware by making sure the boot process continues even if certain drivers fail or become blocked. Thanks to some changes on the RISC-V side, running Redox on real RISC-V hardware has also improved. Furthermore, tmux has been ported to Redox, CPU time reporting has been improved, and Orbital, Redox’ desktop environment, gianed support for partial window pixel updating, which should increase UI performance. On top of that, there’s a brand new web user interface to browse Redox packages (x86-64, i586, ARM64 (aarch64), and RISC-V (riscv64gc)), as well as the usual list of improvements to the kernel, drivers, relibc, and many more areas of the operating system.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144901</guid>
+    </item>    <item>
+      <title>NASA Sends Mars Helicopter Blades Beyond Mach 1</title>
+      <link>https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/</link>
+      <description>
+        <![CDATA[Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The […]]]>
+      </description>
+      <source:markdown>Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/</guid>
+    </item>    <item>
+      <title>NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast</title>
+      <link>https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/</link>
+      <description>
+        <![CDATA[Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enabling […]]]>
+      </description>
+      <source:markdown>Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enabling \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/</guid>
+    </item>    <item>
+      <title>NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1</title>
+      <link>https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/</link>
+      <description>
+        <![CDATA[The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of [&#8230;]]]>
+      </description>
+      <source:markdown>The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=993874</guid>
+    </item>    <item>
+      <title>Industry Moon Lander Training Cabin Lands at NASA for Artemis</title>
+      <link>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/</link>
+      <description>
+        <![CDATA[A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in [&#8230;]]]>
+      </description>
+      <source:markdown>A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=993860</guid>
+    </item>    <item>
+      <title>Setting up a Sun Ray server on OpenIndiana Hipster 2025.10</title>
+      <link>https://www.osnews.com/story/144899/setting-up-a-sun-ray-server-on-openindiana-hipster-2025-10/</link>
+      <description>
+        <![CDATA[Time for another Sun Ray blog post! I&#8217;ve had a few people email me asking for help setting up a Sun Ray server over the last few months, and despite my attempts to help them get it going there&#8217;s been mixed results with running SRSS on OpenIndiana Hipster 2025.10. my Sun Ray server is still on an earlier OI snapshot, so I figured it was about time to try to actually follow the new guides myself. ↫ The Iris System Ever since my spiraling down the Sun rabbit hole late last year, I&#8217;ve tried for a few times now to get the x86 version of OpenIndiana and Oracle Solaris working on any of my machines, exactly for the purposes of setting up a modern Sun Ray server. Sadly, none of my machines are compatible with any illumos distribution or Oracle Solaris, so I&#8217;ve been shit out of luck trying to get this side project off the ground. My Ultra 45 is sadly also not supported by any SPARC version of illumos or Oracle Solaris, so unless I buy even more hardware, my dream of a modern Sun Ray setup will have to wait. Of course, virtualisation is an option for many, and that&#8217;s exactly what this particular guide is about: setting up OpenIndiana on a Proxmox virtual machine. I actually have a Proxmox machine up and running and could do this too, but I&#8217;m a sucker for running stuff like this on real hardware. Yes, that makes my life more complicated and difficult, and no, it&#8217;s not more noble or real or hardcore &#8211; it&#8217;s just a preference. Still, for normal people who pick up a Sun Ray or two on eBay for basically nothing, running OpenIndiana in a virtual machine is the smart, reasonable, and effective option.]]>
+      </description>
+      <source:markdown>Time for another Sun Ray blog post! I’ve had a few people email me asking for help setting up a Sun Ray server over the last few months, and despite my attempts to help them get it going there’s been mixed results with running SRSS on OpenIndiana Hipster 2025.10. my Sun Ray server is still on an earlier OI snapshot, so I figured it was about time to try to actually follow the new guides myself. ↫ The Iris System Ever since my spiraling down the Sun rabbit hole late last year, I’ve tried for a few times now to get the x86 version of OpenIndiana and Oracle Solaris working on any of my machines, exactly for the purposes of setting up a modern Sun Ray server. Sadly, none of my machines are compatible with any illumos distribution or Oracle Solaris, so I’ve been shit out of luck trying to get this side project off the ground. My Ultra 45 is sadly also not supported by any SPARC version of illumos or Oracle Solaris, so unless I buy even more hardware, my dream of a modern Sun Ray setup will have to wait. Of course, virtualisation is an option for many, and that’s exactly what this particular guide is about: setting up OpenIndiana on a Proxmox virtual machine. I actually have a Proxmox machine up and running and could do this too, but I’m a sucker for running stuff like this on real hardware. Yes, that makes my life more complicated and difficult, and no, it’s not more noble or real or hardcore – it’s just a preference. Still, for normal people who pick up a Sun Ray or two on eBay for basically nothing, running OpenIndiana in a virtual machine is the smart, reasonable, and effective option.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144899</guid>
+    </item>    <item>
+      <title>“My favorite device is a Chromebook, without ChromeOS”</title>
+      <link>https://www.osnews.com/story/144897/my-favorite-device-is-a-chromebook-without-chromeos/</link>
+      <description>
+        <![CDATA[If you&#8217;re sick of Chrome OS on your Chromebook, or can find a Chromebook for cheap somewhere but don&#8217;t actually want to use Chrome OS, have you considered postmarketOS? Since I was kind frustrated with ChromeOS, I decided to take a look at something that I knew supported my Lenovo Duet 3 for some time: postmarketOS. For those who don&#8217;t know, postmarketOS is an Alpine Linux based-distro focused in replacing the original OS from old phones (generally running Android) with a &#8220;true&#8221; Linux distro. They also seem to support some Chromebooks because of their unique architecture and, luckily, they support my device under the google-trogdor platform. ↫ kokada PostmarketOS is aimed at smartphones primarily, but supports other formfactors just fine as well. The Duet 3 is one of the tablet-like devices it supports, and it seems most things are working quite well. In fact, judging by the postmarketOS wiki, quite a few Chromebooks have good support, and with Chromebooks being cheap and dime-a-dozen on eBay and similar auction sites, it seems like a great way to get started with what is trying to become a true Linux for smartphones.]]>
+      </description>
+      <source:markdown>If you’re sick of Chrome OS on your Chromebook, or can find a Chromebook for cheap somewhere but don’t actually want to use Chrome OS, have you considered postmarketOS? Since I was kind frustrated with ChromeOS, I decided to take a look at something that I knew supported my Lenovo Duet 3 for some time: postmarketOS. For those who don’t know, postmarketOS is an Alpine Linux based-distro focused in replacing the original OS from old phones (generally running Android) with a “true” Linux distro. They also seem to support some Chromebooks because of their unique architecture and, luckily, they support my device under the google-trogdor platform. ↫ kokada PostmarketOS is aimed at smartphones primarily, but supports other formfactors just fine as well. The Duet 3 is one of the tablet-like devices it supports, and it seems most things are working quite well. In fact, judging by the postmarketOS wiki, quite a few Chromebooks have good support, and with Chromebooks being cheap and dime-a-dozen on eBay and similar auction sites, it seems like a great way to get started with what is trying to become a true Linux for smartphones.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144897</guid>
+    </item>    <item>
+      <title>FDA-Approved At-Home Brain Stimulation Device Aims to Treat Depression by Changing Patients’ Brain Excitability</title>
+      <link>https://www.smithsonianmag.com/smart-news/fda-approved-at-home-brain-stimulation-device-aims-to-treat-depression-by-changing-patients-brain-excitability-180988654/</link>
+      <description>
+        <![CDATA[The treatment consists of a Bluetooth headset that patients can connect to an app on their smartphones. It could mark a revolution in mental health medicine]]>
+      </description>
+      <source:markdown>The treatment consists of a Bluetooth headset that patients can connect to an app on their smartphones. It could mark a revolution in mental health medicine</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Sf58eMGUyKU8AkYvw5IbF5Ajv2g=/420x240/filters:focal(1024x527:1025x528)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c8/d6/c8d6699e-0188-4ee6-a654-f236f2780443/641631361_1226154729692759_7280491192302152950_n.jpg" length="114433" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/fda-approved-at-home-brain-stimulation-device-aims-to-treat-depression-by-changing-patients-brain-excitability-180988654/</guid>
+    </item>    <item>
+      <title>Chonkers the Massive Sea Lion Drew Crowds to San Francisco&#39;s Famed Pier 39. Then, a New Chunky Showstopper Stole His Identity</title>
+      <link>https://www.smithsonianmag.com/smart-news/chonkers-the-massive-sea-lion-drew-crowds-to-san-franciscos-famed-pier-39-then-a-new-chunky-showstopper-stole-his-identity-180988691/</link>
+      <description>
+        <![CDATA[The Steller sea lion was an unusual visitor to the pier, which typically hosts smaller California sea lions. However, he may have moved on days ago, during which time a humongous member of the area's more common species tricked onlookers]]>
+      </description>
+      <source:markdown>The Steller sea lion was an unusual visitor to the pier, which typically hosts smaller California sea lions. However, he may have moved on days ago, during which time a humongous member of the area&#39;s more common species tricked onlookers</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R9TD4mEoUD48dmsdHmJKHuSDvUE=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/7d/f47d0d63-560a-41fd-be7e-6aa65009bf34/chonkers-real.jpg" length="1453191" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/chonkers-the-massive-sea-lion-drew-crowds-to-san-franciscos-famed-pier-39-then-a-new-chunky-showstopper-stole-his-identity-180988691/</guid>
+    </item>    <item>
+      <title>A Light in the Dark</title>
+      <link>https://www.nasa.gov/image-article/a-light-in-the-dark/</link>
+      <description>
+        <![CDATA[A thin sliver of Earth&#8217;s edge is brightly illuminated against the vast darkness of space in this April 3, 2026, image taken during the Artemis II mission. Artemis II was the first crewed flight in a series of missions to test NASA’s human deep space capabilities, paving the way for future lunar surface missions. See [&#8230;]]]>
+      </description>
+      <source:markdown>A thin sliver of Earth’s edge is brightly illuminated against the vast darkness of space in this April 3, 2026, image taken during the Artemis II mission. Artemis II was the first crewed flight in a series of missions to test NASA’s human deep space capabilities, paving the way for future lunar surface missions. See \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=993526</guid>
+    </item>    <item>
+      <title>NASA-Supported Small Spacecraft Launches to Study Solar Particles</title>
+      <link>https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/</link>
+      <description>
+        <![CDATA[Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space [&#8230;]]]>
+      </description>
+      <source:markdown>Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=993676</guid>
+    </item>    <item>
+      <title>NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit</title>
+      <link>https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/</link>
+      <description>
+        <![CDATA[A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platforms.]]>
+      </description>
+      <source:markdown>A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platforms.</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/</guid>
+    </item>    <item>
+      <title>Urban Birds Seem to Be More Fearful of Women Than of Men—and Scientists Don&#39;t Know Why</title>
+      <link>https://www.smithsonianmag.com/smart-news/urban-birds-seem-to-be-more-fearful-of-women-than-men-and-scientists-dont-know-why-180988688/</link>
+      <description>
+        <![CDATA[The study examined 37 bird species in cities across five European countries. The animals allowed men to get about three feet closer than women, on average, before flying away]]>
+      </description>
+      <source:markdown>The study examined 37 bird species in cities across five European countries. The animals allowed men to get about three feet closer than women, on average, before flying away</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OO6fi9ZMYU2M8E3KRs5F6qannr0=/420x240/filters:focal(2054x1369:2055x1370)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/72/34720f6d-632b-4673-ae35-96cf3238fe89/green_woodpecker_franconville_2022_01_21_1-2.jpg" length="2763279" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/urban-birds-seem-to-be-more-fearful-of-women-than-men-and-scientists-dont-know-why-180988688/</guid>
+    </item>    <item>
+      <title>Before He Was a Founding Father, Benjamin Franklin Founded the Lending Library. Now His Belongings Are on Display There Before Heading to Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/before-benjamin-franklins-belongings-head-to-auction-they-go-on-display-at-a-place-he-loved-and-invented-a-library-in-philadelphia-180988692/</link>
+      <description>
+        <![CDATA[In 1731, book lover Franklin created the Library Company of Philadelphia, where this week visitors can see a collection of his papers worth an estimated $3 million to $4.5 million]]>
+      </description>
+      <source:markdown>In 1731, book lover Franklin created the Library Company of Philadelphia, where this week visitors can see a collection of his papers worth an estimated $3 million to $4.5 million</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NVTNsVHz0khyyBoVqqc4WKdDPuM=/420x240/filters:focal(2468x2350:2469x2351)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b4/39/b439a76c-975b-41f8-b104-355ca8bacb91/042826_books_n12191_03.jpg" length="7305316" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/before-benjamin-franklins-belongings-head-to-auction-they-go-on-display-at-a-place-he-loved-and-invented-a-library-in-philadelphia-180988692/</guid>
+    </item>    <item>
       <title>Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/</link>
       <description>
@@ -5319,357 +5512,6 @@ More than 230 different models of Cisco Wi-Fi access points may be writing 5MB a
 
 IPv6 carried half of global traffic for a single day in March, according to Google.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245657</guid>
-    </item>    <item>
-      <title>Anthropic won&#39;t own MCP &#39;design flaw&#39; putting 200K servers at risk, researchers say</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/</link>
-      <description>
-        <![CDATA[<h4>Bug or feature?</h4> <p>A design flaw – or expected behavior based on a bad design choice, depending on who is telling the story – baked into Anthropic&#39;s official Model Context Protocol (MCP) puts as many as 200,000 servers at risk of complete takeover, according to security researchers.…</p>]]>
-      </description>
-      <source:markdown>#### Bug or feature?
-
-A design flaw – or expected behavior based on a bad design choice, depending on who is telling the story – baked into Anthropic&#39;s official Model Context Protocol (MCP) puts as many as 200,000 servers at risk of complete takeover, according to security researchers.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245655</guid>
-    </item>    <item>
-      <title>Mozilla throws Thunderbolt at enterprise AI providers</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/mozilla_thunderbolt_enterprise_ai_client/</link>
-      <description>
-        <![CDATA[<h4>Client connects to deepset&#39;s Haystack platform</h4> <p>Mozilla has declared war on OpenAI, Microsoft, and other firms flogging enterprise AI platforms with an open-source alternative it says provides data privacy guarantees proprietary products never could. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Client connects to deepset&#39;s Haystack platform
-
-Mozilla has declared war on OpenAI, Microsoft, and other firms flogging enterprise AI platforms with an open-source alternative it says provides data privacy guarantees proprietary products never could. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245653</guid>
-    </item>    <item>
-      <title>NodeWeaver says its perpetual licensing beats VMware’s perpetual price hikes</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/nodeweaver_vs_vmware_at_edge/</link>
-      <description>
-        <![CDATA[<h4>&#39;I think you can run this thing on a potato,&#39; NodeWeaver CTO Alan Conboy said.</h4> <p>Broadcom&#39;s price increases and policy changes have led many VMware customers to look for other options. Nodeweaver is positioning itself as an alternative for customers running computing workloads in far-flung edge locations, from cruise ships to solar farms in Sub-Saharan Africa, and it is taking cost out of the hardware needed as well.…</p>]]>
-      </description>
-      <source:markdown>#### &#39;I think you can run this thing on a potato,&#39; NodeWeaver CTO Alan Conboy said.
-
-Broadcom&#39;s price increases and policy changes have led many VMware customers to look for other options. Nodeweaver is positioning itself as an alternative for customers running computing workloads in far-flung edge locations, from cruise ships to solar farms in Sub-Saharan Africa, and it is taking cost out of the hardware needed as well.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245654</guid>
-    </item>    <item>
-      <title>Anthropic squeezes enterprises by ejecting bundled tokens from seat deal</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_ejects_bundled_tokens_enterprise/</link>
-      <description>
-        <![CDATA[<h4>Large organizations pushed toward metered pricing</h4> <p><strong>UPDATED</strong>  More bad news for Claude users. Anthropic has revised its seat-based pricing for enterprise customers, shifting them to a new pricing plan upon contract renewal.…</p>]]>
-      </description>
-      <source:markdown>#### Large organizations pushed toward metered pricing
-
-**UPDATED**  More bad news for Claude users. Anthropic has revised its seat-based pricing for enterprise customers, shifting them to a new pricing plan upon contract renewal.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245652</guid>
-    </item>    <item>
-      <title>Nationwide bill to put age verification in operating systems introduced in the US</title>
-      <link>https://www.osnews.com/story/144803/nationwide-bill-to-put-age-verification-in-operating-systems-introduced-in-the-us/</link>
-      <description>
-        <![CDATA[The title of my article on age verification in Linux and other operating systems had a &#8220;for now&#8221; added for a reason, and here we are, with two members of the US Congress introducing a bill to add age verification to operating systems. The text of the proposed bill was only published today, and it&#8217;s incredibly vague and wishy-washy, without any clear definitions and ton of open-ended questions. Still, if passed, the bill would require actual age verification, instead of mere voluntary age reporting that current state-level bills cover. It also seems to eschew the concept of age brackets, giving application developers access to specific ages of users instead. It&#8217;s a vague mess of a bill that no sane person would ever want passed, but alas, sanity is a rare commodity these days, especially in US Congress. It&#8217;s introduced by Democrat Josh Gottheimer and Republican Elise M. Stefanik, so it has that bipartisan sheen to it, which could increase its odds of going anywhere. At the same time, though, US Congress is about as useful as a box of matches during a house fire, so for all we know, this will end up going nowhere as its members focus on doing absolutely nothing to reign in the flock of coked-up headless chickens passing for an executive branch over there. If something like this gets passed, every US-based operating system &#8211; which includes most open source operating systems and Linux distributions &#8211; will probably fall in line when faced with massive fines and legal pressure. This isn&#8217;t going to be pretty.]]>
-      </description>
-      <source:markdown>The title of my article on age verification in Linux and other operating systems had a “for now” added for a reason, and here we are, with two members of the US Congress introducing a bill to add age verification to operating systems. The text of the proposed bill was only published today, and it’s incredibly vague and wishy-washy, without any clear definitions and ton of open-ended questions. Still, if passed, the bill would require actual age verification, instead of mere voluntary age reporting that current state-level bills cover. It also seems to eschew the concept of age brackets, giving application developers access to specific ages of users instead. It’s a vague mess of a bill that no sane person would ever want passed, but alas, sanity is a rare commodity these days, especially in US Congress. It’s introduced by Democrat Josh Gottheimer and Republican Elise M. Stefanik, so it has that bipartisan sheen to it, which could increase its odds of going anywhere. At the same time, though, US Congress is about as useful as a box of matches during a house fire, so for all we know, this will end up going nowhere as its members focus on doing absolutely nothing to reign in the flock of coked-up headless chickens passing for an executive branch over there. If something like this gets passed, every US-based operating system – which includes most open source operating systems and Linux distributions – will probably fall in line when faced with massive fines and legal pressure. This isn’t going to be pretty.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144803</guid>
-    </item>    <item>
-      <title>Why Is a Cold War Bunker Buried Underneath This Medieval English Castle? In Case of Nuclear &#39;Armageddon&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-is-a-cold-war-bunker-buried-underneath-this-medieval-english-castle-in-case-of-nuclear-armageddon-180988561/</link>
-      <description>
-        <![CDATA[Archaeologists uncovered a relic of the 20th-century conflict beneath Scarborough Castle, decades after the bunker was sealed and its exact location was forgotten]]>
-      </description>
-      <source:markdown>Archaeologists uncovered a relic of the 20th-century conflict beneath Scarborough Castle, decades after the bunker was sealed and its exact location was forgotten</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pbp3i6qo30PDWMKaoyGYd6rI0XE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/32/5b32dcb5-8b51-458f-a8df-55d089643aa9/bunker.jpg" length="637005" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-is-a-cold-war-bunker-buried-underneath-this-medieval-english-castle-in-case-of-nuclear-armageddon-180988561/</guid>
-    </item>    <item>
-      <title>Loud, power hungry - opposition grows to datacenters as Maine passes bit barn ban</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/maine_pulls_bit_barn_brake/</link>
-      <description>
-        <![CDATA[<h4>If there&#39;s one thing folks want less than Copilot in their taskbar, it&#39;s a bit barn in their backyard</h4> <p>Loud, thirsty, power hungry, and intensely unpopular with neighboring residents: datacenters are becoming the new nuclear waste dump. And many localities are now saying &#34;not in my backyard.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### If there&#39;s one thing folks want less than Copilot in their taskbar, it&#39;s a bit barn in their backyard
-
-Loud, thirsty, power hungry, and intensely unpopular with neighboring residents: datacenters are becoming the new nuclear waste dump. And many localities are now saying &#34;not in my backyard.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245650</guid>
-    </item>    <item>
-      <title>North Korea targets macOS users in latest heist</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/north_korea_social_engineering_macos/</link>
-      <description>
-        <![CDATA[<h4>Social engineering: &#39;low-cost, hard to patch, and scales well&#39;</h4> <p>North Korean criminals set on stealing Apple users&#39; credentials and cryptocurrency are using a combination of social engineering and a fake Zoom software update to trick people into manually running malware on their own computers, according to Microsoft.…</p>]]>
-      </description>
-      <source:markdown>#### Social engineering: &#39;low-cost, hard to patch, and scales well&#39;
-
-North Korean criminals set on stealing Apple users&#39; credentials and cryptocurrency are using a combination of social engineering and a fake Zoom software update to trick people into manually running malware on their own computers, according to Microsoft.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245648</guid>
-    </item>    <item>
-      <title>These Tiny Ants Crawled All Over Larger Ants and Licked Them Clean. Scientists Aren&#39;t Sure How This Behavior Benefits Any of Them</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-tiny-ants-crawled-all-over-larger-ants-and-licked-them-clean-scientists-arent-sure-how-this-behavior-benefits-any-of-them-180988555/</link>
-      <description>
-        <![CDATA[After witnessing the interactions in an Arizona desert, a Smithsonian researcher suggests that the little ants picked off tasty treats and that the big ants got thoroughly groomed in hard-to-reach places]]>
-      </description>
-      <source:markdown>After witnessing the interactions in an Arizona desert, a Smithsonian researcher suggests that the little ants picked off tasty treats and that the big ants got thoroughly groomed in hard-to-reach places</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/I68imt7--sQHC9UAwqGzLvs9LVw=/420x240/filters:focal(3058x2067:3059x2068)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/de/1ede8f15-b944-4aa1-955b-fbf1980c1f86/cleaner_ants.jpg" length="30747320" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-tiny-ants-crawled-all-over-larger-ants-and-licked-them-clean-scientists-arent-sure-how-this-behavior-benefits-any-of-them-180988555/</guid>
-    </item>    <item>
-      <title>If you want into Anthropic&#39;s Claude club, you may have to show ID</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_claude_id_verification_persona/</link>
-      <description>
-        <![CDATA[<h4>Worse: Anthropic is using Persona, a privacy checker that rings alarm bells for the paranoids on Reddit</h4> <p>Anthropic may check your ID before letting you access certain Claude features, and the verification vendor it has picked is the same outfit that sparked controversy when Discord tested similar checks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Worse: Anthropic is using Persona, a privacy checker that rings alarm bells for the paranoids on Reddit
-
-Anthropic may check your ID before letting you access certain Claude features, and the verification vendor it has picked is the same outfit that sparked controversy when Discord tested similar checks.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245649</guid>
-    </item>    <item>
-      <title>NASA Invites Media to Latvia Artemis Accords Signing Ceremony</title>
-      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/</link>
-      <description>
-        <![CDATA[The Republic of Latvia will sign the Artemis Accords during a ceremony at 9 a.m. EDT Monday, April 20, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Dace Melbārde, Latvia’s minister for education and science; Jānis Beķeris, chargé d’affaires at the Embassy of the Republic of Latvia to the United States; and [&#8230;]]]>
-      </description>
-      <source:markdown>The Republic of Latvia will sign the Artemis Accords during a ceremony at 9 a.m. EDT Monday, April 20, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Dace Melbārde, Latvia’s minister for education and science; Jānis Beķeris, chargé d’affaires at the Embassy of the Republic of Latvia to the United States; and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=984892</guid>
-    </item>    <item>
-      <title>DuckDB uses RDBMS to attack classic &#39;small changes&#39; problem in lakehouses</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/duckdb_uses_rdbms_lakehouse/</link>
-      <description>
-        <![CDATA[<h4>Batching teensy changes in chunks creates massive performance boost, DuckDB Labs team claims</h4> <p>The team behind in-process OLAP database DuckDB has put forward a solution to the &#34;small changes&#34; problem that they say plagues lakehouse implementations of the kind based on technologies from Databricks, Snowflake, Google, and others.…</p>]]>
-      </description>
-      <source:markdown>#### Batching teensy changes in chunks creates massive performance boost, DuckDB Labs team claims
-
-The team behind in-process OLAP database DuckDB has put forward a solution to the &#34;small changes&#34; problem that they say plagues lakehouse implementations of the kind based on technologies from Databricks, Snowflake, Google, and others.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245647</guid>
-    </item>    <item>
-      <title>Large Invasive Rodents Are Wreaking Havoc in California. New Research Suggests Someone Deliberately Introduced Them</title>
-      <link>https://www.smithsonianmag.com/smart-news/large-invasive-rodents-are-wreaking-havoc-in-california-new-research-suggests-someone-deliberately-introduced-them-180988554/</link>
-      <description>
-        <![CDATA[Genetic testing revealed that nutria living in California since 2017 are most closely related to a population in central Oregon—too far for the creatures to have traveled on their own]]>
-      </description>
-      <source:markdown>Genetic testing revealed that nutria living in California since 2017 are most closely related to a population in central Oregon—too far for the creatures to have traveled on their own</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fVq91lyykwg17UYrvGp3ZTJP810=/420x240/filters:focal(2292x1714:2293x1715)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/38/f7/38f7f0dc-4998-44b1-9f9e-3cc6d8026303/nutria.jpg" length="5091383" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/large-invasive-rodents-are-wreaking-havoc-in-california-new-research-suggests-someone-deliberately-introduced-them-180988554/</guid>
-    </item>    <item>
-      <title>Iran has something America can only dream of: cheap broadband</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/iran_cheapest_broadband/</link>
-      <description>
-        <![CDATA[<h4>Shame about the internet blackouts and airstrikes</h4> <p>North America has some of the world&#39;s most expensive broadband, according to a new study, while Iran has the cheapest.…</p>]]>
-      </description>
-      <source:markdown>#### Shame about the internet blackouts and airstrikes
-
-North America has some of the world&#39;s most expensive broadband, according to a new study, while Iran has the cheapest.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245645</guid>
-    </item>    <item>
-      <title>In the 1990s, a Dog Taught Kids About Shakespeare and Homer. A New Documentary Tells the Tale of &#39;Wishbone&#39;—From His Backflips to His Historical Hats</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-the-1990s-a-dog-taught-kids-about-shakespeare-and-homer-a-new-documentary-tells-the-tale-of-wishbone-from-his-backflips-to-his-historical-hats-180988552/</link>
-      <description>
-        <![CDATA[The film reunites the human cast and crew who saw the potential of a Jack Russell terrier to bring classic literature to life on PBS]]>
-      </description>
-      <source:markdown>The film reunites the human cast and crew who saw the potential of a Jack Russell terrier to bring classic literature to life on PBS</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dUdDPEpeYote2GqY4j3kiVe03xo=/420x240/filters:focal(1733x1188:1734x1189)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/57/2a571e79-668d-4d9f-9934-55e281ace849/wishbone-hero-chair.jpeg" length="1875121" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-the-1990s-a-dog-taught-kids-about-shakespeare-and-homer-a-new-documentary-tells-the-tale-of-wishbone-from-his-backflips-to-his-historical-hats-180988552/</guid>
-    </item>    <item>
-      <title>Americans who masterminded Nork IT worker fraud sentenced to 200 months behind bars</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/nork_it_worker_scam_facilitators_sentenced_200_months/</link>
-      <description>
-        <![CDATA[<h4>Fortune 500 companies and one US defense contractor got taken for $5m in four-year scam</h4> <p>Two Americans have been jailed for a combined 200 months for helping North Korea generate $5 million through fraudulent IT worker schemes.…</p>]]>
-      </description>
-      <source:markdown>#### Fortune 500 companies and one US defense contractor got taken for $5m in four-year scam
-
-Two Americans have been jailed for a combined 200 months for helping North Korea generate $5 million through fraudulent IT worker schemes.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245646</guid>
-    </item>    <item>
-      <title>At the Edge of Light</title>
-      <link>https://www.nasa.gov/image-article/at-the-edge-of-light/</link>
-      <description>
-        <![CDATA[In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen along the terminator—the boundary between lunar day and night—where low-angle sunlight casts long shadows across the surface. A section of Orientale Basin is visible along the upper right portion of the lunar disk, its structure subtly revealed under [&#8230;]]]>
-      </description>
-      <source:markdown>In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen along the terminator—the boundary between lunar day and night—where low-angle sunlight casts long shadows across the surface. A section of Orientale Basin is visible along the upper right portion of the lunar disk, its structure subtly revealed under \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=984485</guid>
-    </item>    <item>
-      <title>Brussels tells Google to hand rivals its search crown jewels as privacy row brews</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/brussels_tells_google_to_open/</link>
-      <description>
-        <![CDATA[<h4>Includes a to-do list on search data sharing and platform access as DMA enforcement ramps up</h4> <p>Brussels has told Google to open up its search data and give rivals equal footing on its own platforms, sketching out how it expects the tech giant to comply with the bloc&#39;s competition rulebook.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Includes a to-do list on search data sharing and platform access as DMA enforcement ramps up
-
-Brussels has told Google to open up its search data and give rivals equal footing on its own platforms, sketching out how it expects the tech giant to comply with the bloc&#39;s competition rulebook.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245644</guid>
-    </item>    <item>
-      <title>Make crappy moves around AI and face voter backlash, govts warned</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/steer_ai_into_delivering_common_good_govts_told/</link>
-      <description>
-        <![CDATA[<h4>When the taxpayers are wondering whose side you are on...</h4> <p>Britain&#39;s government faces a public backlash against AI unless it can show ordinary people that they stand to benefit from its push to inject the technology into every area of the UK in the name of growth.…</p>]]>
-      </description>
-      <source:markdown>#### When the taxpayers are wondering whose side you are on...
-
-Britain&#39;s government faces a public backlash against AI unless it can show ordinary people that they stand to benefit from its push to inject the technology into every area of the UK in the name of growth.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245641</guid>
-    </item>    <item>
-      <title>Medieval Writings and Tree Rings Helped Researchers Track a Solar Storm From 800 Years Ago and Reconstruct Past Solar Cycles</title>
-      <link>https://www.smithsonianmag.com/smart-news/medieval-writings-and-tree-rings-helped-researchers-track-a-solar-storm-from-800-years-ago-and-reconstruct-past-solar-cycles-180988546/</link>
-      <description>
-        <![CDATA[Diary entries by the Japanese poet Fujiwara no Teika, along with other historical sources from across Asia and Europe, played pivotal roles in a new study]]>
-      </description>
-      <source:markdown>Diary entries by the Japanese poet Fujiwara no Teika, along with other historical sources from across Asia and Europe, played pivotal roles in a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2JcPV5ywPTYV8r6IE6uqJB_kQUQ=/420x240/filters:focal(768x432:769x433)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/96/d5968076-98f0-4a53-b755-c1bb754ee476/20260410-aurora_over_engaru_tomohiro_m_nakayama-cropped_cc-by-nc_1.jpg" length="331558" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/medieval-writings-and-tree-rings-helped-researchers-track-a-solar-storm-from-800-years-ago-and-reconstruct-past-solar-cycles-180988546/</guid>
-    </item>    <item>
-      <title>Visual Studio 18.5 lands with AI debugging at a price, devs still feeling blue</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/visual_studio_185/</link>
-      <description>
-        <![CDATA[<h4>Latest version points to a shift in how Microsoft thinks about IDEs</h4> <p>Visual Studio 2026 18.5 arrives with two headline changes – a smarter code suggestion system and an AI-powered debugger. Yet developer frustration over color contrast and forced updates continue to overshadow the improvements.…</p>]]>
-      </description>
-      <source:markdown>#### Latest version points to a shift in how Microsoft thinks about IDEs
-
-Visual Studio 2026 18.5 arrives with two headline changes – a smarter code suggestion system and an AI-powered debugger. Yet developer frustration over color contrast and forced updates continue to overshadow the improvements.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245643</guid>
-    </item>    <item>
-      <title>A Sudden Squall Doomed This Stone-Hauling Vessel in Lake Erie. More Than 150 Years Later, Divers Just Found the Shipwreck</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-sudden-squall-doomed-this-stone-hauling-vessel-in-lake-erie-divers-just-found-the-shipwreck-more-than-150-years-later-180988557/</link>
-      <description>
-        <![CDATA[The "Clough," a 125-foot-long bark, sank in September 1868 near Cleveland, with just one crew member surviving to explain what had happened]]>
-      </description>
-      <source:markdown>The &#34;Clough,&#34; a 125-foot-long bark, sank in September 1868 near Cleveland, with just one crew member surviving to explain what had happened</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UPNeMAouVJs7TDwQpqu5yuiWcOM=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/45/18450960-8ae6-45d7-a1ab-1be02cbc59b5/20240705-udr_2414-papes_2.jpg" length="25334730" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-sudden-squall-doomed-this-stone-hauling-vessel-in-lake-erie-divers-just-found-the-shipwreck-more-than-150-years-later-180988557/</guid>
-    </item>    <item>
-      <title>A Glowing Sphere Towering Over Utah Sent an Urgent Artistic Message: The Great Salt Lake Is Drying Up</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-glowing-sphere-towering-over-utah-sent-an-urgent-artistic-message-the-great-salt-lake-is-drying-up-180988553/</link>
-      <description>
-        <![CDATA[Olafur Eliasson's latest installation married visuals with a soundscape to draw the public's attention to the plight of the important ecosystem]]>
-      </description>
-      <source:markdown>Olafur Eliasson&#39;s latest installation married visuals with a soundscape to draw the public&#39;s attention to the plight of the important ecosystem</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j5ULy4brpRNGnKoMMzFX1S0QHJg=/420x240/filters:focal(1917x1278:1918x1279)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/f5/43f543b7-d37a-4a14-aaca-c59de8e3aaa8/a_symphony_of_disappearing_sounds_for_the_great_salt_lake_2026_1.jpeg" length="6349336" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-glowing-sphere-towering-over-utah-sent-an-urgent-artistic-message-the-great-salt-lake-is-drying-up-180988553/</guid>
-    </item>    <item>
-      <title>No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/</link>
-      <description>
-        <![CDATA[Head straight for orbit with GeForce NOW — no space helmet required.  PRAGMATA, Capcom’s long-awaited sci-fi action adventure, touches down on GeForce NOW the same day it launches worldwide. The futuristic journey through a cold lunar station in the near future can be streamed instantly from the cloud to almost any device, no console or [&#8230;]]]>
-      </description>
-      <source:markdown>Head straight for orbit with GeForce NOW — no space helmet required.  PRAGMATA, Capcom’s long-awaited sci-fi action adventure, touches down on GeForce NOW the same day it launches worldwide. The futuristic journey through a cold lunar station in the near future can be streamed instantly from the cloud to almost any device, no console or \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=92373</guid>
-    </item>    <item>
-      <title>Git identity spoof fools Claude into giving bad code the nod</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/git_identity_spoof_claude/</link>
-      <description>
-        <![CDATA[<h4>Forged metadata made AI reviewer treat hostile changes as though they came from known maintainer</h4> <p>Security boffins say Anthropic&#39;s Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer&#39;s identity.…</p>]]>
-      </description>
-      <source:markdown>#### Forged metadata made AI reviewer treat hostile changes as though they came from known maintainer
-
-Security boffins say Anthropic&#39;s Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer&#39;s identity.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245642</guid>
-    </item>    <item>
-      <title>Textbook titan McGraw Hill on ransomware crew&#39;s reading list after 13.5M records exposed</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/mcgraw_hill_salesforce/</link>
-      <description>
-        <![CDATA[<h4>Publisher claims misconfigured Salesforce-hosted page leaked data</h4> <p>Textbook giant McGraw Hill has landed on a ransomware crew&#39;s leak site after an alleged Salesforce-linked misconfiguration spilled 13.5 million records into the wild.…</p>]]>
-      </description>
-      <source:markdown>#### Publisher claims misconfigured Salesforce-hosted page leaked data
-
-Textbook giant McGraw Hill has landed on a ransomware crew&#39;s leak site after an alleged Salesforce-linked misconfiguration spilled 13.5 million records into the wild.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245639</guid>
-    </item>    <item>
-      <title>Swarm welcome: Britain lines up 120,000 drones for Ukraine</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/uk_ukraine_drone_package/</link>
-      <description>
-        <![CDATA[<h4>Giant UAV package will include strike, recon, logistics, and maritime systems</h4> <p>The UK government says it will deliver at least 120,000 drones to Ukraine this year to help it fight against Russia.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Giant UAV package will include strike, recon, logistics, and maritime systems
-
-The UK government says it will deliver at least 120,000 drones to Ukraine this year to help it fight against Russia.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245626</guid>
-    </item>    <item>
-      <title>Microsoft announces product it doesn&#39;t want anyone to buy</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/microsoft_exchange_skype/</link>
-      <description>
-        <![CDATA[<h4>Just migrate already, would you? But if you can&#39;t, Redmond will take your cash</h4> <p>Microsoft will keep delivering security updates for old versions of Exchange Server and Skype for Business Server, after admitting that some customers aren&#39;t ready to make the move to newer products.…</p>]]>
-      </description>
-      <source:markdown>#### Just migrate already, would you? But if you can&#39;t, Redmond will take your cash
-
-Microsoft will keep delivering security updates for old versions of Exchange Server and Skype for Business Server, after admitting that some customers aren&#39;t ready to make the move to newer products.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245633</guid>
-    </item>    <item>
-      <title>Obsolete Google nag drowns out vital bar information at Swedish concert hall</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_sweden_bork/</link>
-      <description>
-        <![CDATA[<h4>Backup and Sync may be dead, but it still knows how to kill the buzz before the ukuleles start</h4> <p><strong>Bork!Bork!Bork!</strong>  Sweden is arguably the home of bork – think the Swedish Chef from The Muppets – so we are delighted to note an example of the breed turning up north of Stockholm.…</p>]]>
-      </description>
-      <source:markdown>#### Backup and Sync may be dead, but it still knows how to kill the buzz before the ukuleles start
-
-**Bork!Bork!Bork!**  Sweden is arguably the home of bork – think the Swedish Chef from The Muppets – so we are delighted to note an example of the breed turning up north of Stockholm.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245600</guid>
-    </item>    <item>
-      <title>Cops hand Motorola £25M no-bid deal to keep 2000-era radios alive</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/motorola_airwave/</link>
-      <description>
-        <![CDATA[<h4>Biz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget</h4> <p>UK police tech buyers have awarded a £25 million no-competition contract for communications technology first commissioned in 2000, with the replacement project 12 years behind schedule and £3 billion over budget.…</p>]]>
-      </description>
-      <source:markdown>#### Biz as usual for Brit public sector: ESN replacement is 12 years late and £3B over budget
-
-UK police tech buyers have awarded a £25 million no-competition contract for communications technology first commissioned in 2000, with the replacement project 12 years behind schedule and £3 billion over budget.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245620</guid>
-    </item>    <item>
-      <title>Server-room lock was nothing but a crock</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/pwned_server_room_lock_lol/</link>
-      <description>
-        <![CDATA[<h4>Your cybersecurity is only as good as the physical security of the servers</h4> <p><strong>PWNED</strong>  Welcome back to Pwned, the column where we immortalize the worst vulns that organizations opened up for themselves. If you’re the kind of person who leaves your car doors unlocked with a pile of cash in the center console, this week’s story is for you.…</p>]]>
-      </description>
-      <source:markdown>#### Your cybersecurity is only as good as the physical security of the servers
-
-**PWNED**  Welcome back to Pwned, the column where we immortalize the worst vulns that organizations opened up for themselves. If you’re the kind of person who leaves your car doors unlocked with a pile of cash in the center console, this week’s story is for you.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245628</guid>
-    </item>    <item>
-      <title>QUIC will soon be as important as TCP – but it&#39;s vastly different</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/quic_explained/</link>
-      <description>
-        <![CDATA[<h4>Deciphering the third transport protocol&#39;s four RFCs is a task to rival the proverbial blind man trying to understand an elephant</h4> <p>While Larry was producing most of the content for the &#34;Request/Reponse&#34; chapter for the next edition of our book, I took the lead on writing a section on QUIC, since I have closely followed its development.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Deciphering the third transport protocol&#39;s four RFCs is a task to rival the proverbial blind man trying to understand an elephant
-
-While Larry was producing most of the content for the &#34;Request/Reponse&#34; chapter for the next edition of our book, I took the lead on writing a section on QUIC, since I have closely followed its development.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245612</guid>
-    </item>    <item>
-      <title>Bullet train upgrade brings 5G windows and noise-cancelling cabins to Japan</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/jr_central_shinkansen_tech/</link>
-      <description>
-        <![CDATA[<h4>Private Shinkansen suites are pulling up to the station in October</h4> <p>Some Japanese bullet trains will soon be equipped with private suites that include windows with embedded 5G antennas and noise-cancelling technology that envelops passengers in a bubble of quiet.…</p>]]>
-      </description>
-      <source:markdown>#### Private Shinkansen suites are pulling up to the station in October
-
-Some Japanese bullet trains will soon be equipped with private suites that include windows with embedded 5G antennas and noise-cancelling technology that envelops passengers in a bubble of quiet.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245637</guid>
-    </item>    <item>
-      <title>Eyeing the Richat Structure</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/</link>
-      <description>
-        <![CDATA[The circular geologic feature in northwestern Africa can be hard to recognize from the ground, but it is obvious when viewed from space.]]>
-      </description>
-      <source:markdown>The circular geologic feature in northwestern Africa can be hard to recognize from the ground, but it is obvious when viewed from space.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/</guid>
-    </item>    <item>
-      <title>Indian government investigating TCS after police sting finds sexual harassment</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/tcs_india_harassment_allegations/</link>
-      <description>
-        <![CDATA[<h4>Services giant’s staff accused of assaults, inappropriate religious practices</h4> <p>Police in the Indian city of Nashik conducted a sting operation at Tata Consultancy Services and allegedly found instances of sexual harassment and other revolting behavior.…</p>]]>
-      </description>
-      <source:markdown>#### Services giant’s staff accused of assaults, inappropriate religious practices
-
-Police in the Indian city of Nashik conducted a sting operation at Tata Consultancy Services and allegedly found instances of sexual harassment and other revolting behavior.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245636</guid>
-    </item>    <item>
-      <title>Google Chrome lacks protection against one of the most basic and common ways to track users online</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_chrome_lacks_browser_fingerprinting/</link>
-      <description>
-        <![CDATA[<h4>Browser fingerprinting is everywhere</h4> <p>Google markets its Chrome browser by citing its superior safety features, but according to privacy consultant Alexander Hanff, Chrome does not protect against browser fingerprinting – a method of tracking people online by capturing technical details about their browser.…</p>]]>
-      </description>
-      <source:markdown>#### Browser fingerprinting is everywhere
-
-Google markets its Chrome browser by citing its superior safety features, but according to privacy consultant Alexander Hanff, Chrome does not protect against browser fingerprinting – a method of tracking people online by capturing technical details about their browser.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245635</guid>
-    </item>    <item>
-      <title>Forgejo v15.0 is available</title>
-      <link>https://forgejo.org/2026-04-release-v15-0/</link>
-      <description>
-        <![CDATA[Forgejo v15.0 is available. Access tokens can now be restricted to specific repos. New containers are now auto-linked if possible. Responsiveness and accessibility of the UI were improved. Forgejo actions gained multiple new features. As an LTS version, it will be supported until 15 July 2027.]]>
-      </description>
-      <source:markdown>Forgejo v15.0 is available. Access tokens can now be restricted to specific repos. New containers are now auto-linked if possible. Responsiveness and accessibility of the UI were improved. Forgejo actions gained multiple new features. As an LTS version, it will be supported until 15 July 2027.</source:markdown>
-      <guid>cid://https://forgejo.org/2026-04-release-v15-0/</guid>
     </item>
   </channel>
 </rss>
