@@ -4,10 +4,87 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>08 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>09 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Yellow Knight of Oz by Ruth Plumly Thompson</title>
+      <link>https://www.gutenberg.org/ebooks/78637</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Roma nella cultura moderna : by Guglielmo Ferrero</title>
+      <link>https://www.gutenberg.org/ebooks/78636</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>Glinda of Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/961</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ozma of Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/486</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rinkitink in Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/958</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A bull movement in Yellow Horse by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78632</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The wisdom of the Ouija by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78633</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Opal: a novel by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/78640</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Catalog of Copyright Entries Third Series Vol 25 Pts 12-13 :</title>
+      <link>https://www.gutenberg.org/ebooks/78638</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Keväisiä lupauksia; Alikapteeni Kablukovin elämästä by Leonid Andreyev</title>
+      <link>https://www.gutenberg.org/ebooks/78635</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Propaganda by Edward L. Bernays</title>
+      <link>https://www.gutenberg.org/ebooks/78634</link>
+      <description>
+        <![CDATA[Language:]]>
+      </description>
+      <source:markdown>Language:</source:markdown>
+    </item>    <item>
       <title>Fifty-fifty with Bonnie by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78627</link>
       <description>
@@ -56,7 +133,7 @@
         <![CDATA[Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.]]>
       </description>
       <source:markdown>Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/mary-p-hamlin-george-arliss_hamilton.epub?source=feed" length="742213" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/mary-p-hamlin-george-arliss_hamilton.epub?source=feed" length="742231" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton</guid>
     </item>    <item>
       <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
@@ -1012,24 +1089,6 @@
       <source:markdown>A collection of hymns written by John Newton and William Cowper.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns/downloads/john-newton-william-cowper_olney-hymns.epub?source=feed" length="700037" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns</guid>
-    </item>    <item>
-      <title>Lady Rose’s Daughter, by Mary Augusta Ward</title>
-      <link>https://standardebooks.org/ebooks/mary-augusta-ward/lady-roses-daughter</link>
-      <description>
-        <![CDATA[A scheming woman seeks to advance the career of a soldier she loves, while refusing marriage to an aristocrat who could improve her situation.]]>
-      </description>
-      <source:markdown>A scheming woman seeks to advance the career of a soldier she loves, while refusing marriage to an aristocrat who could improve her situation.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/mary-augusta-ward/lady-roses-daughter/downloads/mary-augusta-ward_lady-roses-daughter.epub?source=feed" length="633937" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/mary-augusta-ward/lady-roses-daughter</guid>
-    </item>    <item>
-      <title>The Pearl, by Anonymous</title>
-      <link>https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett</link>
-      <description>
-        <![CDATA[A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back.]]>
-      </description>
-      <source:markdown>A father is heartbroken after losing his young daughter, whom he thinks of as a beautiful pearl he can never get back.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett/downloads/anonymous_the-pearl_sophie-jewett.epub?source=feed" length="532785" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/anonymous/the-pearl/sophie-jewett</guid>
     </item>
   </channel>
 </rss>

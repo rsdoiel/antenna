@@ -4,10 +4,183 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>08 May 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>09 May 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Google is tying reCAPTCHA to Google Play Services, screwing over de-Googled Android users</title>
+      <link>https://www.osnews.com/story/144909/google-is-tying-recaptcha-to-google-play-services-screwing-over-de-googled-android-users/</link>
+      <description>
+        <![CDATA[The ways in which Google can lock you into their ecosystem are often obvious, but sometimes, they&#8217;re incredibly sneaky and easily missed. CAPTCHA tests are annoying, but at the same time, they can help protect websites from bots. While these tests are already the bane of our internet existence, they are going to get worse for some Android users. A requirement for Google’s next-generation reCAPTCHA system will make it a lot harder for de-Googled phones to browse the web. A Reddit user has highlighted a seemingly innocuous support page for Google’s reCAPTCHA system. The page in question relates to troubleshooting reCAPTCHA verification on mobile. In the document, it says that you’ll need to use a compatible mobile device to complete verification. If you have an Android phone, then that means you’ll need to be running Google Play Services version 25.41.30 or higher. ↫ Ryan McNeal at Android Authority When was the last time you actively thought about reCAPTCHA being a Google property? Even then, when was the last time you imagined something as annoying but ultimately basic as a captcha prompt could be used to tie people to Google Play Services, and thus to &#8220;blessed&#8221; Android? Every time we manage to work around one of these asinine ties to Google Play Services, another one pops up to ruin our day. We&#8217;re so stupidly tied down to and entirely dependent on two very mid &#8211; at best &#8211; mobile operating systems, and it&#8217;s such a stupid own goal for especially everyone outside of the US to just sit there and do nothing about it. Worse yet, it seems we&#8217;re only tying ourselves down further, while paying for the privilege. At the very least we should be categorising certain services &#8211; government ID services, payment services, popular messaging platforms, and a few more &#8211; as vital infrastructure, and legally mandate these services have clearly defined and well-documented APIs so anyone is free to make alternative clients. The fact that many people are tied to either iOS or &#8220;blessed&#8221; Android because of something as stupid as what bank they use or the level of incompetency of their government ID service should be a major crisis in any country that isn&#8217;t the US. I don&#8217;t want to use iOS or Android, but nobody is leaving me any choice. It&#8217;s infuriating.]]>
+      </description>
+      <source:markdown>The ways in which Google can lock you into their ecosystem are often obvious, but sometimes, they’re incredibly sneaky and easily missed. CAPTCHA tests are annoying, but at the same time, they can help protect websites from bots. While these tests are already the bane of our internet existence, they are going to get worse for some Android users. A requirement for Google’s next-generation reCAPTCHA system will make it a lot harder for de-Googled phones to browse the web. A Reddit user has highlighted a seemingly innocuous support page for Google’s reCAPTCHA system. The page in question relates to troubleshooting reCAPTCHA verification on mobile. In the document, it says that you’ll need to use a compatible mobile device to complete verification. If you have an Android phone, then that means you’ll need to be running Google Play Services version 25.41.30 or higher. ↫ Ryan McNeal at Android Authority When was the last time you actively thought about reCAPTCHA being a Google property? Even then, when was the last time you imagined something as annoying but ultimately basic as a captcha prompt could be used to tie people to Google Play Services, and thus to “blessed” Android? Every time we manage to work around one of these asinine ties to Google Play Services, another one pops up to ruin our day. We’re so stupidly tied down to and entirely dependent on two very mid – at best – mobile operating systems, and it’s such a stupid own goal for especially everyone outside of the US to just sit there and do nothing about it. Worse yet, it seems we’re only tying ourselves down further, while paying for the privilege. At the very least we should be categorising certain services – government ID services, payment services, popular messaging platforms, and a few more – as vital infrastructure, and legally mandate these services have clearly defined and well-documented APIs so anyone is free to make alternative clients. The fact that many people are tied to either iOS or “blessed” Android because of something as stupid as what bank they use or the level of incompetency of their government ID service should be a major crisis in any country that isn’t the US. I don’t want to use iOS or Android, but nobody is leaving me any choice. It’s infuriating.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144909</guid>
+    </item>    <item>
+      <title>NASA’s SpaceX 34th Commercial Resupply Mission Overview</title>
+      <link>https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/</link>
+      <description>
+        <![CDATA[NASA and SpaceX are targeting&#160;a&#160;mid-May&#160;launch&#160;to deliver scientific investigations, supplies, and equipment to the International Space Station.&#160; Loaded&#160;with&#160;about 6,500&#160;pounds of supplies, the SpaceX Dragon spacecraft&#160;will lift off aboard&#160;the company’s Falcon 9 rocket&#160;from Launch Complex 40 at Cape Canaveral Space Force Station in Florida.&#160;Following its arrival to the&#160;orbital complex,&#160;Dragon will dock autonomously to the forward port of [&#8230;]]]>
+      </description>
+      <source:markdown>NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station.  Loaded with about 6,500 pounds of supplies, the SpaceX Dragon spacecraft will lift off aboard the company’s Falcon 9 rocket from Launch Complex 40 at Cape Canaveral Space Force Station in Florida. Following its arrival to the orbital complex, Dragon will dock autonomously to the forward port of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=994539</guid>
+    </item>    <item>
+      <title>Why Did This Wealthy Scotsman Pay a Jeweler to Wrap His Teeth in Gold Wire Hundreds of Years Ago?</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-did-this-wealthy-scotsman-pay-a-jeweler-to-wrap-his-teeth-in-gold-wire-hundreds-of-years-ago-180988709/</link>
+      <description>
+        <![CDATA[What an early example of a dental bridge reveals about health, wealth and social values in the late medieval and early modern world]]>
+      </description>
+      <source:markdown>What an early example of a dental bridge reveals about health, wealth and social values in the late medieval and early modern world</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NGAXQsdB6tY00BlNXoDfcDWOWzA=/420x240/filters:focal(583x389:584x390)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/0a/b70a6d21-a815-45a6-ac69-cd72058ea54b/41415_2025_9107_fig1_html_1.jpeg" length="481784" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-did-this-wealthy-scotsman-pay-a-jeweler-to-wrap-his-teeth-in-gold-wire-hundreds-of-years-ago-180988709/</guid>
+    </item>    <item>
+      <title>Why don’t lowercase letters come right after uppercase letters in ASCII?</title>
+      <link>https://www.osnews.com/story/144907/why-dont-lowercase-letters-come-right-after-uppercase-letters-in-ascii/</link>
+      <description>
+        <![CDATA[With that context, I always found it strange that the designers of ASCII included 6 characters after uppercase Z before starting the lowercase letters. Then it hit me: we have 26 letters in the English alphabet, plus 6 additional characters before lowercase starts: 26 + 6 = 32. If you know anything about computers, powers of 2 tend to stick out. Let’s take a look at the binary representations of some characters compared to their lowercase counterparts. ↫ Tyler Hillery I only have a middling understanding of the rest of the article and thus the ultimate reason why ASCII includes those six characters between Z and a, but I think it comes down to making certain operations on uppercase and lowercase letters specifically more elegant. In some deep crevices of my brain all of this makes sense, but I find it very difficult to truly understand and explain as someone who knows little about programming.]]>
+      </description>
+      <source:markdown>With that context, I always found it strange that the designers of ASCII included 6 characters after uppercase Z before starting the lowercase letters. Then it hit me: we have 26 letters in the English alphabet, plus 6 additional characters before lowercase starts: 26 + 6 = 32. If you know anything about computers, powers of 2 tend to stick out. Let’s take a look at the binary representations of some characters compared to their lowercase counterparts. ↫ Tyler Hillery I only have a middling understanding of the rest of the article and thus the ultimate reason why ASCII includes those six characters between Z and a, but I think it comes down to making certain operations on uppercase and lowercase letters specifically more elegant. In some deep crevices of my brain all of this makes sense, but I find it very difficult to truly understand and explain as someone who knows little about programming.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144907</guid>
+    </item>    <item>
+      <title>Detecting (or not) the use of -l and -c together in Bourne shells</title>
+      <link>https://www.osnews.com/story/144905/detecting-or-not-the-use-of-l-and-c-together-in-bourne-shells/</link>
+      <description>
+        <![CDATA[Many Bourne shells go slightly beyond the POSIX sh specification to also support a &#8216;-l&#8217; option that makes the shell act as a &#8216;login shell&#8217;. POSIX&#8217;s omission of -l isn&#8217;t only because it doesn&#8217;t really talk about login shells at all, it&#8217;s also because Unix has a special way of marking login shells that goes back very far in its history. The -l option isn&#8217;t necessarily what login and sshd and so on use, it&#8217;s something that you can use if you specifically want to get a login shell in an unusual circumstance. Bourne shells also have a &#8216;-c &#60;command string&#62;&#8217; option that causes the shell to execute the command string rather than be interactive (this is a long standing option that is in POSIX). It may surprise you to hear that most or all Bourne shells that support -l also allow you to use -l and -c together. Basically all Bourne shells interpret this as first executing your .profile and so on, then executing the command string instead of going interactive. One use for this is to non-interactively run a command line in the context of your fully set up shell, with $PATH and other environment variables ready for use. ↫ Chris Siebenmann Now, what if you want to detect the use of these two options combined, for instance to make it so certain parts of your .profile are ignored? It turns out very few Bourne shells actually support this, and that&#8217;s what Siebenmann&#8217;s latest post is about.]]>
+      </description>
+      <source:markdown>Many Bourne shells go slightly beyond the POSIX sh specification to also support a ‘-l’ option that makes the shell act as a ‘login shell’. POSIX’s omission of -l isn’t only because it doesn’t really talk about login shells at all, it’s also because Unix has a special way of marking login shells that goes back very far in its history. The -l option isn’t necessarily what login and sshd and so on use, it’s something that you can use if you specifically want to get a login shell in an unusual circumstance. Bourne shells also have a ‘-c &#60;command string&#62;’ option that causes the shell to execute the command string rather than be interactive (this is a long standing option that is in POSIX). It may surprise you to hear that most or all Bourne shells that support -l also allow you to use -l and -c together. Basically all Bourne shells interpret this as first executing your .profile and so on, then executing the command string instead of going interactive. One use for this is to non-interactively run a command line in the context of your fully set up shell, with $PATH and other environment variables ready for use. ↫ Chris Siebenmann Now, what if you want to detect the use of these two options combined, for instance to make it so certain parts of your .profile are ignored? It turns out very few Bourne shells actually support this, and that’s what Siebenmann’s latest post is about.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144905</guid>
+    </item>    <item>
+      <title>A Hiker in Norway Found an Elite Warrior’s Golden Sword Ornament. It Was Likely a Sacrifice to the Gods Made During a Time of Turmoil</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-hiker-in-norway-found-an-elite-warriors-golden-sword-ornament-it-was-likely-a-sacrifice-to-the-gods-made-during-a-time-of-turmoil-180988707/</link>
+      <description>
+        <![CDATA[Volcanic eruptions, climate change, crop failures, famine and plague all may have swept through Norway in the sixth century C.E., putting pressure on leaders and their communities]]>
+      </description>
+      <source:markdown>Volcanic eruptions, climate change, crop failures, famine and plague all may have swept through Norway in the sixth century C.E., putting pressure on leaders and their communities</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HjVtqUDH-LImCnj1HpaBLCvqoK8=/420x240/filters:focal(480x361:481x362)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/95/7a9596fe-af20-4bb7-b140-58d90344d167/ea605d01-7b8a-421c-a84b-888c8314c157-w_960.jpg" length="102354" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-hiker-in-norway-found-an-elite-warriors-golden-sword-ornament-it-was-likely-a-sacrifice-to-the-gods-made-during-a-time-of-turmoil-180988707/</guid>
+    </item>    <item>
+      <title>Community Office Hours: Contributor Spotlight on Bogomil Shopov</title>
+      <link>https://blog.thunderbird.net/2026/05/community-office-hours-contributor-spotlight-on-bogomil-shopov/</link>
+      <description>
+        <![CDATA[<p>If you have ever used Thunderbird in Bulgarian, the subject of this month&#8217;s office hours is one of the contributors who made that possible! Office Hours hosts Heather and Monica have been lucky enough to chat with long-time localizer Bogamil Shopov at conferences like FOSDEM. Now, they&#8217;re sitting down to talk to him about how [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2026/05/community-office-hours-contributor-spotlight-on-bogomil-shopov/">Community Office Hours: Contributor Spotlight on Bogomil Shopov</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>If you have ever used Thunderbird in Bulgarian, the subject of this month’s office hours is one of the contributors who made that possible! Office Hours hosts Heather and Monica have been lucky enough to chat with long-time localizer Bogamil Shopov at conferences like FOSDEM. Now, they’re sitting down to talk to him about how \[…\]
+
+The post [Community Office Hours: Contributor Spotlight on Bogomil Shopov](https://blog.thunderbird.net/2026/05/community-office-hours-contributor-spotlight-on-bogomil-shopov/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4303</guid>
+    </item>    <item>
+      <title>East Africa Might Break Off From the Continent Sooner Than Scientists Thought—and a New Ocean May Fill the Gap</title>
+      <link>https://www.smithsonianmag.com/smart-news/east-africa-might-break-off-from-the-continent-sooner-than-scientists-thought-and-a-new-ocean-may-fill-the-gap-180988659/</link>
+      <description>
+        <![CDATA[A new study suggests that a rift in Kenya and Ethiopia has reached a critical stage in the split-up process, and that water may flood it in a few million years]]>
+      </description>
+      <source:markdown>A new study suggests that a rift in Kenya and Ethiopia has reached a critical stage in the split-up process, and that water may flood it in a few million years</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1lXhtxK6-lFZ_ZKJ5wP9uCwBoz8=/420x240/filters:focal(1632x1228:1633x1229)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/f6/10f628fb-da94-4154-bf9f-23b023a5a08f/great_rift_valley_7513007728.jpg" length="2188545" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/east-africa-might-break-off-from-the-continent-sooner-than-scientists-thought-and-a-new-ocean-may-fill-the-gap-180988659/</guid>
+    </item>    <item>
+      <title>NASA’s Psyche Mission Captures Mars During Gravity Assist Approach</title>
+      <link>https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/</link>
+      <description>
+        <![CDATA[Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for […]]]>
+      </description>
+      <source:markdown>Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/</guid>
+    </item>    <item>
+      <title>Mysterious Green Rocks Discovered in a Remote Cave in Spain Might Be Signs of Prehistoric People Working With Copper</title>
+      <link>https://www.smithsonianmag.com/smart-news/mysterious-green-rocks-discovered-in-a-remote-cave-in-spain-might-be-signs-of-prehistoric-people-working-with-copper-180988706/</link>
+      <description>
+        <![CDATA[The find challenges assumptions that people in the region thousands of years ago did not spend much time at high altitudes]]>
+      </description>
+      <source:markdown>The find challenges assumptions that people in the region thousands of years ago did not spend much time at high altitudes</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4jUvLfYPGHa1rsuB1YzvykMe6nU=/420x240/filters:focal(456x304:457x305)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c0/e7/c0e753b1-0749-4eb9-8aa1-d5e9c21a523c/photo_6_2.webp" length="55952" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/mysterious-green-rocks-discovered-in-a-remote-cave-in-spain-might-be-signs-of-prehistoric-people-working-with-copper-180988706/</guid>
+    </item>    <item>
+      <title>I Am Artemis: Anton Kiriwas</title>
+      <link>https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/</link>
+      <description>
+        <![CDATA[Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no [&#8230;]]]>
+      </description>
+      <source:markdown>Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=994143</guid>
+    </item>    <item>
+      <title>NASA, Industry Advance High Performance Spaceflight Computing</title>
+      <link>https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/</link>
+      <description>
+        <![CDATA[For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon missions. For decades, radiation-hardened processors have been the backbone of the [&#8230;]]]>
+      </description>
+      <source:markdown>For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon missions. For decades, radiation-hardened processors have been the backbone of the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=994033</guid>
+    </item>    <item>
+      <title>This Sailor From the Franklin Expedition Died in the Arctic in a Uniform That Didn&#39;t Belong to Him. Now, DNA Has Revealed His Identity</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-franklin-expedition-officer-died-in-the-arctic-in-uniform-that-didnt-belong-to-him-now-dna-has-revealed-his-identity-180988702/</link>
+      <description>
+        <![CDATA[New research has identified four members of the doomed 1845 search for the Northwest Passage, including the owner of a paper-stuffed wallet that has long mystified historians]]>
+      </description>
+      <source:markdown>New research has identified four members of the doomed 1845 search for the Northwest Passage, including the owner of a paper-stuffed wallet that has long mystified historians</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SYRHm1Br0HambTqbvkpFdmvbiQg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/57/8657fc18-096f-4d55-93a8-576ab0657a58/erebus.png" length="2118751" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-franklin-expedition-officer-died-in-the-arctic-in-uniform-that-didnt-belong-to-him-now-dna-has-revealed-his-identity-180988702/</guid>
+    </item>    <item>
+      <title>The Fall of the Roman Empire Was Less a Clash of Civilizations and More an Opportunity to Mix and Mingle, a New Genetics Study Shows</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-fall-of-the-roman-empire-was-less-a-clash-of-civilizations-and-more-an-opportunity-to-mix-and-mingle-a-new-genetics-study-shows-180988699/</link>
+      <description>
+        <![CDATA[Researchers who analyzed genomes from early medieval graves in modern-day Germany hypothesize that people from the former Roman Empire formed families with Germanic people soon after the empire fell]]>
+      </description>
+      <source:markdown>Researchers who analyzed genomes from early medieval graves in modern-day Germany hypothesize that people from the former Roman Empire formed families with Germanic people soon after the empire fell</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/x-a_WcfjjBfaYf2p9Odzv3aKb6Y=/420x240/filters:focal(980x663:981x664)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/ac/77ac863b-8ffb-4699-88d4-20dc6b7206f0/on_for_anthropology_munich_sam_examines_the_skeleton_of_a_woman_who_lived_between_510_and_56.jpeg" length="542285" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-fall-of-the-roman-empire-was-less-a-clash-of-civilizations-and-more-an-opportunity-to-mix-and-mingle-a-new-genetics-study-shows-180988699/</guid>
+    </item>    <item>
+      <title>Wild Cockatoos Learn Which Snacks Are Safe to Eat by Copying Their Friends, New Research Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/wild-cockatoos-learn-which-snacks-are-safe-to-eat-by-copying-their-friends-new-research-suggests-180988696/</link>
+      <description>
+        <![CDATA[Munching on the wrong items can lead to illness, but social learning might help the birds avoid making a potentially deadly mistake. The phenomenon could help explain why certain cockatoos have fared so well in urban environments]]>
+      </description>
+      <source:markdown>Munching on the wrong items can lead to illness, but social learning might help the birds avoid making a potentially deadly mistake. The phenomenon could help explain why certain cockatoos have fared so well in urban environments</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eHBnmP-OQSVAhGs0HuM-Sw6-r0g=/420x240/filters:focal(350x217:351x218)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/ce/53ceea37-ab9a-4f4d-99bb-e1c6a4cd9716/low-res_cockatoo_-_in-text.jpg" length="26496" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/wild-cockatoos-learn-which-snacks-are-safe-to-eat-by-copying-their-friends-new-research-suggests-180988696/</guid>
+    </item>    <item>
+      <title>Glowing Views from the Space Station</title>
+      <link>https://www.nasa.gov/image-article/glowing-views-from-the-space-station/</link>
+      <description>
+        <![CDATA[NASA astronaut Chris Williams captured the Milky Way rising above Earth&#8217;s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. This atmospheric glow is also called airglow. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy. [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut Chris Williams captured the Milky Way rising above Earth’s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. This atmospheric glow is also called airglow. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=993906</guid>
+    </item>    <item>
+      <title>Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?</title>
+      <link>https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/</link>
+      <description>
+        <![CDATA[It should be possible, but getting there will require a greater understanding of subsurface physics.            <p>The post <a href="https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/" target="_blank">Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>It should be possible, but getting there will require a greater understanding of subsurface physics.
+
+The post [Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?](https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=161806</guid>
+    </item>    <item>
+      <title>NASA Names Brian Hughes to Launch Operations Role</title>
+      <link>https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/</link>
+      <description>
+        <![CDATA[NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA’s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for [&#8230;]]]>
+      </description>
+      <source:markdown>NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA’s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=994155</guid>
+    </item>    <item>
+      <title>NASA Fuel Cell Tests Pave Way for Energy Storage on Moon</title>
+      <link>https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/</link>
+      <description>
+        <![CDATA[With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]]]>
+      </description>
+      <source:markdown>With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=993809</guid>
+    </item>    <item>
+      <title>This Tiny Celestial Body Past Pluto Shouldn&#39;t Have an Atmosphere—but Astronomers Say They May Have Detected One</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-tiny-celestial-body-past-pluto-shouldnt-have-an-atmosphere-but-astronomers-say-they-may-have-detected-one-180988690/</link>
+      <description>
+        <![CDATA[Worlds this small and distant are thought to be too cold and have too little surface gravity to hold onto gases. But the findings suggest that icy, rocky objects in the solar system's outer reaches are more dynamic than we thought]]>
+      </description>
+      <source:markdown>Worlds this small and distant are thought to be too cold and have too little surface gravity to hold onto gases. But the findings suggest that icy, rocky objects in the solar system&#39;s outer reaches are more dynamic than we thought</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/h8_qsID56-_5oC4Ywg4I-bdQxWs=/420x240/filters:focal(640x482:641x483)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/e6/51e659c2-d7ff-4f82-9d48-25ebaea352d5/20260505-prc-fig.jpg" length="22670" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-tiny-celestial-body-past-pluto-shouldnt-have-an-atmosphere-but-astronomers-say-they-may-have-detected-one-180988690/</guid>
+    </item>    <item>
       <title>Hantavirus: the risks, the science and what you need to know</title>
       <link>https://www.npr.org/2026/05/08/nx-s1-5811917/hantavirus-andres-mvhondius-ship-rodents</link>
       <description>
@@ -54,9 +227,9 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <title>Meet &#39;Gabi,&#39; the Robot That Just Became a Monk at a Buddhist Temple in South Korea. It’s the Latest Robot to Take Up Religious Practice</title>
       <link>https://www.smithsonianmag.com/smart-news/meet-gabi-the-new-robot-monk-at-a-buddhist-temple-in-south-korea-its-the-latest-robot-to-take-up-religious-practice-180988695/</link>
       <description>
-        <![CDATA[The humanoid promised to obey humans, save energy and treat other robots peacefully. South Korean Buddhist leaders recently have started to embrace artificial intelligence]]>
+        <![CDATA[The humanoid promised to obey humans, save energy and treat other robots peacefully. South Korean Buddhist leaders have recently started to embrace artificial intelligence]]>
       </description>
-      <source:markdown>The humanoid promised to obey humans, save energy and treat other robots peacefully. South Korean Buddhist leaders recently have started to embrace artificial intelligence</source:markdown>
+      <source:markdown>The humanoid promised to obey humans, save energy and treat other robots peacefully. South Korean Buddhist leaders have recently started to embrace artificial intelligence</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FWWM_pPuP0BINNKeelkhe4ggOWA=/420x240/filters:focal(3793x2529:3794x2530)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/ac/fbac2f50-d0d9-4fff-a844-d7e98c6cf9fd/ap_robot_monk.jpg" length="9636364" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/meet-gabi-the-new-robot-monk-at-a-buddhist-temple-in-south-korea-its-the-latest-robot-to-take-up-religious-practice-180988695/</guid>
     </item>    <item>
@@ -5198,320 +5371,6 @@ Not only is hardware memory scarce these days, but context memory, the conversat
 
 Unless a customer pays for the most expensive enterprise license, or the law forbids it, Atlassian is going to collect their data to train its AI models. And you can&#39;t fully opt out.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245678</guid>
-    </item>    <item>
-      <title>Intel eases reliance on TSMC with &#39;Merica-made Core Series 3 processors</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/</link>
-      <description>
-        <![CDATA[<h4>Stripped-down Ultra for laptops and low-power edge boxes</h4> <p>Intel brought a few more chips home from Taiwan this week, with a new round of budget-oriented Core Series 3 processors fabbed right in the US-of-A.…</p>]]>
-      </description>
-      <source:markdown>#### Stripped-down Ultra for laptops and low-power edge boxes
-
-Intel brought a few more chips home from Taiwan this week, with a new round of budget-oriented Core Series 3 processors fabbed right in the US-of-A.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245679</guid>
-    </item>    <item>
-      <title>CSDA Quality Assessment Report Evaluates Satellogic NewSat Data</title>
-      <link>https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/</link>
-      <description>
-        <![CDATA[The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.]]>
-      </description>
-      <source:markdown>The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.</source:markdown>
-    </item>    <item>
-      <title>PureOS Crimson Development Report: March 2026</title>
-      <link>https://puri.sm/posts/pureos-crimson-development-report-march-2026/</link>
-      <description>
-        <![CDATA[<p>Following the PureOS Crimson beta release in our last post, we are eagerly looking forward to the general release.  We received a lot of constructive feedback about the beta, and with only a few blockers left, we are taking the opportunity to make this the best PureOS release yet.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-march-2026/">PureOS Crimson Development Report: March 2026</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Following the PureOS Crimson beta release in our last post, we are eagerly looking forward to the general release. We received a lot of constructive feedback about the beta, and with only a few blockers left, we are taking the opportunity to make this the best PureOS release yet.
-
-The post [PureOS Crimson Development Report: March 2026](https://puri.sm/posts/pureos-crimson-development-report-march-2026/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=85379</guid>
-    </item>    <item>
-      <title>Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/anthropic_debuts_claude_design/</link>
-      <description>
-        <![CDATA[<h4>The bar for creating visual assets has been lowered to the ability to converse with a model</h4> <p>Anthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called Claude Design that creates visual assets, potentially putting some folks out of work.…</p>]]>
-      </description>
-      <source:markdown>#### The bar for creating visual assets has been lowered to the ability to converse with a model
-
-Anthropic is known for its industry-leading Claude Code that writes programs, but why stop there? The company, on Friday, introduced a research preview service called Claude Design that creates visual assets, potentially putting some folks out of work.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245676</guid>
-    </item>    <item>
-      <title>Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space</title>
-      <link>https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/</link>
-      <description>
-        <![CDATA[Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.]]>
-      </description>
-      <source:markdown>Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/</guid>
-    </item>    <item>
-      <title>Scientists Still Don&#39;t Know How or When the Grand Canyon Formed. New Research May Hint at Its Ancient Origins</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-still-dont-know-how-or-when-the-grand-canyon-formed-new-research-may-hint-at-its-ancient-origins-180988570/</link>
-      <description>
-        <![CDATA[Researchers say the ancestral Colorado River formed an ancient lake in northern Arizona roughly 6.6 million years ago, which spilled out westward onto the landscape that would eventually become the Grand Canyon]]>
-      </description>
-      <source:markdown>Researchers say the ancestral Colorado River formed an ancient lake in northern Arizona roughly 6.6 million years ago, which spilled out westward onto the landscape that would eventually become the Grand Canyon</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wH2TdauR8zGJyuqx_yH0GEl7Jxg=/420x240/filters:focal(1500x1279:1501x1280)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/ba/b9ba262b-52e7-4aa7-ac9b-a7dd749d5a9a/47006412314_a98ecd3fa3_o.jpg" length="2787127" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-still-dont-know-how-or-when-the-grand-canyon-formed-new-research-may-hint-at-its-ancient-origins-180988570/</guid>
-    </item>    <item>
-      <title>Shakespeare&#39;s House in London Was Lost to History. A Scholar Discovered a Map in the Archives That Revealed Its Exact Location</title>
-      <link>https://www.smithsonianmag.com/smart-news/shakespeares-house-in-london-was-lost-to-history-a-scholar-discovered-a-map-in-the-archives-that-revealed-its-exact-location-180988566/</link>
-      <description>
-        <![CDATA[The Bard purchased the property three years before his death in 1616. Had he hoped to spend more time in the city where he wrote his best-known plays?]]>
-      </description>
-      <source:markdown>The Bard purchased the property three years before his death in 1616. Had he hoped to spend more time in the city where he wrote his best-known plays?</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OVz6CyM6aLKZdn5L4_dT3BTP0AI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/1c/ca1c33e9-d1f7-4a3f-9d03-5bdb429fb22e/map.jpg" length="285038" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/shakespeares-house-in-london-was-lost-to-history-a-scholar-discovered-a-map-in-the-archives-that-revealed-its-exact-location-180988566/</guid>
-    </item>    <item>
-      <title>NASA Artemis II Human Research Data Methodology Challenge</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/</link>
-      <description>
-        <![CDATA[NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s&#160;Artemis II&#160;mission&#160;was&#160;the first [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s Artemis II mission was the first \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=982942</guid>
-    </item>    <item>
-      <title>The First LSD Trip Was a Literal Bicycle Ride 83 Years Ago. Fans of the Psychedelic Celebrate the Occasion Every April 19</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-first-lsd-trip-was-a-literal-bicycle-ride-83-years-ago-fans-of-the-psychedelic-celebrate-the-occasion-every-april-19-180988564/</link>
-      <description>
-        <![CDATA[In 1943, a chemist in Switzerland synthesized a drug that alters consciousness. His discovery changed the study of medicine, psychiatry and biology—and became a central component of the counterculture movement]]>
-      </description>
-      <source:markdown>In 1943, a chemist in Switzerland synthesized a drug that alters consciousness. His discovery changed the study of medicine, psychiatry and biology—and became a central component of the counterculture movement</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jeluUHR3pJSgylF3sNf7vMvUCbY=/420x240/filters:focal(2661x1800:2662x1801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/ed/93ed034a-62bf-42fb-a040-6b654ba67210/lsd_chapel.jpg" length="11673581" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-first-lsd-trip-was-a-literal-bicycle-ride-83-years-ago-fans-of-the-psychedelic-celebrate-the-occasion-every-april-19-180988564/</guid>
-    </item>    <item>
-      <title>Hundreds of Spanish Settlers Died at the &#39;Port of Famine.&#39; This Newly Discovered Silver Coin Reveals Where the Doomed Colony Was Founded 400 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/hundreds-of-spanish-settlers-died-at-the-port-of-famine-this-newly-discovered-silver-coin-reveals-where-the-doomed-colony-was-founded-400-years-ago-180988519/</link>
-      <description>
-        <![CDATA[Ciudad del Rey Don Felipe was established on the north shore of Chile's Strait of Magellan in 1584. When an English navigator came across it several years later, few survivors remained]]>
-      </description>
-      <source:markdown>Ciudad del Rey Don Felipe was established on the north shore of Chile&#39;s Strait of Magellan in 1584. When an English navigator came across it several years later, few survivors remained</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9E7K3XCnkqZhQaKWrFkokPZCYpQ=/420x240/filters:focal(675x540:676x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/0b/4b0b4057-b31b-44e7-a9c3-d6941c0370f7/651886194_18344737438242014_8401832748140664513_n.jpg" length="501753" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/hundreds-of-spanish-settlers-died-at-the-port-of-famine-this-newly-discovered-silver-coin-reveals-where-the-doomed-colony-was-founded-400-years-ago-180988519/</guid>
-    </item>    <item>
-      <title>CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/</link>
-      <description>
-        <![CDATA[<h4>Bug hiding in plain sight for over a decade lands on KEV list</h4> <p>CISA is sounding the alarm on a newly-exploited Apache ActiveMQ bug, ordering federal agencies to patch within two weeks as attackers circle a flaw that&#39;s been quietly lurking for more than a decade.…</p>]]>
-      </description>
-      <source:markdown>#### Bug hiding in plain sight for over a decade lands on KEV list
-
-CISA is sounding the alarm on a newly-exploited Apache ActiveMQ bug, ordering federal agencies to patch within two weeks as attackers circle a flaw that&#39;s been quietly lurking for more than a decade.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245673</guid>
-    </item>    <item>
-      <title>NASA, OPM Announce New NASA Force Website, Open Job Applications</title>
-      <link>https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/</link>
-      <description>
-        <![CDATA[NASA and the U.S. Office of Personnel Management (OPM)&#160;launched&#160;the&#160;NASA Force&#160;website&#160;on Friday, opening applications for roles&#160;aimed at recruiting the nation’s top engineers and technologists to support America’s&#160;air and&#160;space program.&#160; NASA Force, a new hiring initiative developed in partnership with OPM,&#160;will&#160;recruit and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, research, and advanced technology priorities, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA and the U.S. Office of Personnel Management (OPM) launched the NASA Force website on Friday, opening applications for roles aimed at recruiting the nation’s top engineers and technologists to support America’s air and space program.  NASA Force, a new hiring initiative developed in partnership with OPM, will recruit and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, research, and advanced technology priorities, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=985335</guid>
-    </item>    <item>
-      <title>Opsec oopsie: Dutch navy frigate location outed by mailing it a Bluetooth tracker</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/dutch_navy_frigate_tracked/</link>
-      <description>
-        <![CDATA[<h4>Or, how public information and a €5 tracker exposed an avoidable opsec lapse</h4> <p>Militaries around the world spend countless hours training, developing policies, and implementing best operational security practices, so imagine the size of the egg on the face of the Dutch navy when journalists managed to track one of its warships for less than the cost of some hagelslag and a coffee.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Or, how public information and a €5 tracker exposed an avoidable opsec lapse
-
-Militaries around the world spend countless hours training, developing policies, and implementing best operational security practices, so imagine the size of the egg on the face of the Dutch navy when journalists managed to track one of its warships for less than the cost of some hagelslag and a coffee.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245671</guid>
-    </item>    <item>
-      <title>Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data</title>
-      <link>https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/</link>
-      <description>
-        <![CDATA[The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.]]>
-      </description>
-      <source:markdown>The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/</guid>
-    </item>    <item>
-      <title>Volunteers Discover Rare Space Weather Events Using Their Ears</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/</link>
-      <description>
-        <![CDATA[Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.]]>
-      </description>
-      <source:markdown>Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/</guid>
-    </item>    <item>
-      <title>After Rounding the Moon, Artemis 2 Astronauts Reflect on the Magnitude of the Experience: &#39;We as Countries and as Humans Did This&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/after-rounding-the-moon-artemis-2-astronauts-reflect-on-the-enormity-of-the-experience-we-as-countries-and-as-humans-did-this-180988568/</link>
-      <description>
-        <![CDATA[In their first press conference since returning from space, the four-person crew described feeling small but united with people on Earth and said the mission was an achievement by all of humanity]]>
-      </description>
-      <source:markdown>In their first press conference since returning from space, the four-person crew described feeling small but united with people on Earth and said the mission was an achievement by all of humanity</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q_6nxKc6Jh_UBeUPfnYhn_ENaB0=/420x240/filters:focal(2450x1657:2451x1658)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b1/0a/b10ac134-2600-4634-9053-872a6b1d7f4a/gettyimages-2271711331.jpg" length="1831081" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/after-rounding-the-moon-artemis-2-astronauts-reflect-on-the-enormity-of-the-experience-we-as-countries-and-as-humans-did-this-180988568/</guid>
-    </item>    <item>
-      <title>Users complain that UK Azure is having capacity problems</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/users_complain_of_uk_azure/</link>
-      <description>
-        <![CDATA[<h4>We hear Sweden is lovely place for workloads to visit</h4> <p>Microsoft Azure capacity woes are back, and worse than ever, judging by the complaints of UK users.…</p>]]>
-      </description>
-      <source:markdown>#### We hear Sweden is lovely place for workloads to visit
-
-Microsoft Azure capacity woes are back, and worse than ever, judging by the complaints of UK users.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245669</guid>
-    </item>    <item>
-      <title>Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature</title>
-      <link>https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/</link>
-      <description>
-        <![CDATA[Some quantum cryptographers want to find ways to keep messages secret even if the rules of quantum mechanics don’t hold. The recently rediscovered idea of quantum jamming complicates things.            <p>The post <a href="https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/" target="_blank">Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Some quantum cryptographers want to find ways to keep messages secret even if the rules of quantum mechanics don’t hold. The recently rediscovered idea of quantum jamming complicates things.
-
-The post [Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature](https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=161067</guid>
-    </item>    <item>
-      <title>NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way</title>
-      <link>https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/</link>
-      <description>
-        <![CDATA[An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The [&#8230;]]]>
-      </description>
-      <source:markdown>An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=984866</guid>
-    </item>    <item>
-      <title>A Bountiful Berry Harvest Put These Chunky, Endangered Parrots in the Mood. Now, Scientists Are Celebrating a Breeding Bonanza</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-bountiful-berry-harvest-put-these-chunky-endangered-parrots-in-the-mood-now-scientists-are-celebrating-a-breeding-bonanza-180988510/</link>
-      <description>
-        <![CDATA[New Zealand's kakapo have laid 256 eggs, and around 100 of them have hatched, providing a bright spot in a decades-long conservation effort. The official chick count won't be confirmed until the youngest birds are about 5 months old]]>
-      </description>
-      <source:markdown>New Zealand&#39;s kakapo have laid 256 eggs, and around 100 of them have hatched, providing a bright spot in a decades-long conservation effort. The official chick count won&#39;t be confirmed until the youngest birds are about 5 months old</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iHS5J9Lxh4FY2pg4pQkxtmBfHdI=/420x240/filters:focal(1620x1080:1621x1081)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/78/7e/787e3bc4-594a-407f-9310-9ab8e4bd8af3/2601_sinbad_on_whenua_hou_2.jpg" length="9669954" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-bountiful-berry-harvest-put-these-chunky-endangered-parrots-in-the-mood-now-scientists-are-celebrating-a-breeding-bonanza-180988510/</guid>
-    </item>    <item>
-      <title>Microsoft closes book on rogue Windows Server 2025 upgrades</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/microsoft_windows_server_2025/</link>
-      <description>
-        <![CDATA[<h4>Starts new one on boot loops</h4> <p>More than a year after giving administrators an unwelcome surprise with a security update that turned out to be a Windows Server 2025 upgrade, Microsoft has marked the incident as &#34;resolved.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### Starts new one on boot loops
-
-More than a year after giving administrators an unwelcome surprise with a security update that turned out to be a Windows Server 2025 upgrade, Microsoft has marked the incident as &#34;resolved.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245665</guid>
-    </item>    <item>
-      <title>NASA gets the ball rolling on its part in Europe&#39;s jinxed Mars rover mission</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/nasa_rosalind_franklin/</link>
-      <description>
-        <![CDATA[<h4>Rosalind Franklin moving again, though another budget cut looms</h4> <p>NASA is moving ahead with its contribution to the European Space Agency&#39;s (ESA) long-delayed Rosalind Franklin Mars rover despite another attempt by the Trump administration to cut funding for the effort.…</p>]]>
-      </description>
-      <source:markdown>#### Rosalind Franklin moving again, though another budget cut looms
-
-NASA is moving ahead with its contribution to the European Space Agency&#39;s (ESA) long-delayed Rosalind Franklin Mars rover despite another attempt by the Trump administration to cut funding for the effort.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245664</guid>
-    </item>    <item>
-      <title>Attention data hoarders: Alexa loses its Plex appeal as voice feature gets canned</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/alexa_loses_its_plex_appeal/</link>
-      <description>
-        <![CDATA[<h4>Users who stream their own media files ticked off as Plex warns Alexa skill will die on June 15</h4> <p>Plex is pulling the plug on its Alexa integration, leaving anyone who relied on voice commands to wrangle their media library out of luck.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Users who stream their own media files ticked off as Plex warns Alexa skill will die on June 15
-
-Plex is pulling the plug on its Alexa integration, leaving anyone who relied on voice commands to wrangle their media library out of luck.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245663</guid>
-    </item>    <item>
-      <title>Locked-out iPhone user tells The Reg that Apple is scrambling to fix character flaw passcode bug</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/iphone_keyboard_error_fix/</link>
-      <description>
-        <![CDATA[<h4>University student says he plans to move to Android, but concedes iOS engineers acting fast</h4> <p>Apple is finally working on a fix for a bug that has locked some users out of their iPhones for months, <em>The Register</em> understands.…</p>]]>
-      </description>
-      <source:markdown>#### University student says he plans to move to Android, but concedes iOS engineers acting fast
-
-Apple is finally working on a fix for a bug that has locked some users out of their iPhones for months, _The Register_ understands.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245638</guid>
-    </item>    <item>
-      <title>Would you like fries with that terminal?</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/bork_jack_in_the_box/</link>
-      <description>
-        <![CDATA[<h4>Jack might be on Track, but the order screen certainly isn&#39;t</h4> <p><strong>Bork!Bork!Bork!</strong>  It was not so much Jack in the Box as Bork on the Screen at a US drive-through fast food outlet the other day. Luckily, a <em>Reg</em> reader was there to take it all in.…</p>]]>
-      </description>
-      <source:markdown>#### Jack might be on Track, but the order screen certainly isn&#39;t
-
-**Bork!Bork!Bork!**  It was not so much Jack in the Box as Bork on the Screen at a US drive-through fast food outlet the other day. Luckily, a _Reg_ reader was there to take it all in.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245596</guid>
-    </item>    <item>
-      <title>Capita won disastrous UK pensions gig after acing performance checks</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/capita_csps/</link>
-      <description>
-        <![CDATA[<h4>Top civil servant tells MPs bid was strong on quality and value for money</h4> <p>The UK government awarded Capita a £239 million contract to run the Civil Service Pension Scheme (CSPS) after assessing its past performance, despite the rollout later leaving thousands of retirees waiting for payments, a senior civil servant has said.…</p>]]>
-      </description>
-      <source:markdown>#### Top civil servant tells MPs bid was strong on quality and value for money
-
-The UK government awarded Capita a £239 million contract to run the Civil Service Pension Scheme (CSPS) after assessing its past performance, despite the rollout later leaving thousands of retirees waiting for payments, a senior civil servant has said.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245640</guid>
-    </item>    <item>
-      <title>Support tech caught by &#39;Technician Aura&#39;: the bug that only hides when you&#39;re watching</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/on_call/</link>
-      <description>
-        <![CDATA[<h4>All that kit, and the fix was simply stepping aside</h4> <p><strong>On Call</strong>  Life is filled with random events, but <i>The Register</i> tries to make readers’ lives just a little more predictable by always using Friday morning to bring you a new instalment of On Call – the reader-contributed column that shares your tech support stories.…</p>]]>
-      </description>
-      <source:markdown>#### All that kit, and the fix was simply stepping aside
-
-**On Call**  Life is filled with random events, but _The Register_ tries to make readers’ lives just a little more predictable by always using Friday morning to bring you a new instalment of On Call – the reader-contributed column that shares your tech support stories.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245634</guid>
-    </item>    <item>
-      <title>Claude Opus wrote a Chrome exploit for $2,283</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/</link>
-      <description>
-        <![CDATA[<h4>Pause your Mythos panic because mainstream models anyone can use already pick holes in popular software</h4> <p>Anthropic withheld its <a target="_blank" href="https://www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/">Mythos</a> bug-finding model from public release due to concerns that it would enable attackers to find and exploit vulnerabilities before anyone could react.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Pause your Mythos panic because mainstream models anyone can use already pick holes in popular software
-
-Anthropic withheld its [Mythos](https://www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/) bug-finding model from public release due to concerns that it would enable attackers to find and exploit vulnerabilities before anyone could react.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245656</guid>
-    </item>    <item>
-      <title>The psychology behind why you dread small talk</title>
-      <link>https://www.npr.org/2026/04/17/nx-s1-5781226/science-small-talk-psychology-boring-conversations</link>
-      <description>
-        <![CDATA[Do you avoid small talk in the office, or with your neighbor in the elevator? If so, you might want to give it a chance. According to a study just published in the <a href="https://www.apa.org/pubs/journals/releases/psp-pspi0000521.pdf"target="_blank"   ><em>Journal of Personality and Social Psychology</em></a>, even when participants were primed that a conversation would be boring, it turned out to be more interesting than they anticipated. Today on the show, we get into that, plus why scientists gave lobsters painkillers, and a clue about the formation of the Grand Canyon. <br/><br/><em>Interested in more science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Do you avoid small talk in the office, or with your neighbor in the elevator? If so, you might want to give it a chance. According to a study just published in the [_Journal of Personality and Social Psychology_](https://www.apa.org/pubs/journals/releases/psp-pspi0000521.pdf), even when participants were primed that a conversation would be boring, it turned out to be more interesting than they anticipated. Today on the show, we get into that, plus why scientists gave lobsters painkillers, and a clue about the formation of the Grand Canyon.
-
-_Interested in more science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5a88d8ed-9d38-49a7-995b-3bfe99e98efa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5a88d8ed-9d38-49a7-995b-3bfe99e98efa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5781226&p=510351&d=596&size=9541217" length="9541217" type="audio/mpeg" />
-      <guid>cid://47b9598d-f966-445c-b7ed-c9179f987535</guid>
-    </item>    <item>
-      <title>IOWN Global Forum targets datacenter interconnects to scatter AI infrastructure</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/iown_use_cases/</link>
-      <description>
-        <![CDATA[<h4>Fast WAN consortium thinks neoclouds are ripe for hookups</h4> <p>The IOWN Global Forum will likely focus on datacenter interconnect use cases in the, to help diverse providers of AI infrastructure ply their trade.…</p>]]>
-      </description>
-      <source:markdown>#### Fast WAN consortium thinks neoclouds are ripe for hookups
-
-The IOWN Global Forum will likely focus on datacenter interconnect use cases in the, to help diverse providers of AI infrastructure ply their trade.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245659</guid>
-    </item>    <item>
-      <title>Cisco Wi-Fi boxes are filling their disks with 5MB of undeletable data every day</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisco_wifi_ap_useless_data/</link>
-      <description>
-        <![CDATA[<h4>Fix for critical flaw is an OS update you may not be able to make because the junk data uses all memory</h4> <p>More than 230 different models of Cisco Wi-Fi access points may be writing 5MB a day of nonessential data, filling their onboard flash memory to the point at which they lack space for future software updates.…</p>]]>
-      </description>
-      <source:markdown>#### Fix for critical flaw is an OS update you may not be able to make because the junk data uses all memory
-
-More than 230 different models of Cisco Wi-Fi access points may be writing 5MB a day of nonessential data, filling their onboard flash memory to the point at which they lack space for future software updates.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245658</guid>
-    </item>    <item>
-      <title>Spring Rains Saturate Michigan</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/</link>
-      <description>
-        <![CDATA[Above-normal precipitation has swollen rivers and damaged infrastructure statewide.]]>
-      </description>
-      <source:markdown>Above-normal precipitation has swollen rivers and damaged infrastructure statewide.</source:markdown>
-    </item>    <item>
-      <title>IPv6 carried half of internet traffic – for one day, according to Google</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/17/ipv6_50_percent_google/</link>
-      <description>
-        <![CDATA[<h4>We&#39;re not half way there, we&#39;re still livin&#39; on a prayer</h4> <p>IPv6 carried half of global traffic for a single day in March, according to Google.…</p>]]>
-      </description>
-      <source:markdown>#### We&#39;re not half way there, we&#39;re still livin&#39; on a prayer
-
-IPv6 carried half of global traffic for a single day in March, according to Google.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245657</guid>
     </item>
   </channel>
 </rss>
