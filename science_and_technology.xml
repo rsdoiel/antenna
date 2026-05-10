@@ -4,7 +4,7 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>09 May 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>10 May 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -5351,26 +5351,6 @@ NASA has revealed it’s working on a plan called “The Big Bang” that it hop
 
 Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, is in &#34;real financial jeopardy,&#34; according to a missive from its board members.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245670</guid>
-    </item>    <item>
-      <title>Cloudflare can remember it for you wholesale</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/</link>
-      <description>
-        <![CDATA[<h4>Agent Memory stores AI chat scraps off to the side and recalls them when needed</h4> <p>Not only is hardware memory scarce these days, but context memory, the conversational data exchanged with AI models, can be an issue too.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Agent Memory stores AI chat scraps off to the side and recalls them when needed
-
-Not only is hardware memory scarce these days, but context memory, the conversational data exchanged with AI models, can be an issue too.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245680</guid>
-    </item>    <item>
-      <title>Atlassian’s new data collection policy protects rich customers while AI eats the rest</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/</link>
-      <description>
-        <![CDATA[<h4>From August 17, the outfit will collect customer metadata by default unless you pay for the top tier</h4> <p>Unless a customer pays for the most expensive enterprise license, or the law forbids it, Atlassian is going to collect their data to train its AI models. And you can&#39;t fully opt out.…</p>]]>
-      </description>
-      <source:markdown>#### From August 17, the outfit will collect customer metadata by default unless you pay for the top tier
-
-Unless a customer pays for the most expensive enterprise license, or the law forbids it, Atlassian is going to collect their data to train its AI models. And you can&#39;t fully opt out.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245678</guid>
     </item>
   </channel>
 </rss>

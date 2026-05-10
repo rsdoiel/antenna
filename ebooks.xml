@@ -4,10 +4,105 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>09 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>10 May 26 06:50 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The opal : by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/78640</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Pilgrimage of Grace, 1536-1537, and the Exeter Conspiracy, 1538, Volume 2 (of 2) by Dodds</title>
+      <link>https://www.gutenberg.org/ebooks/78639</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Swift by Carl Van Doren</title>
+      <link>https://www.gutenberg.org/ebooks/78641</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Patchwork Girl of Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/32094</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Päivä Helsingissä : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78646</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The mirror of the months by Sheila Kaye-Smith</title>
+      <link>https://www.gutenberg.org/ebooks/78642</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dorothy and the Wizard in Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/19450</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Patchwork Girl of Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/955</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>&#34;Hashknife&#34;—philanthropist by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78644</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>John Winthrop, Jr., on Indian Corn by John Winthrop</title>
+      <link>https://www.gutenberg.org/ebooks/78645</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Thornley Colton : by Clinton H.  Stagg</title>
+      <link>https://www.gutenberg.org/ebooks/78643</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dr. Wortle’s School, by Anthony Trollope</title>
+      <link>https://standardebooks.org/ebooks/anthony-trollope/dr-wortles-school</link>
+      <description>
+        <![CDATA[A scandal that threatens the future of an exclusive boys’ school poses a moral dilemma for its headmaster.]]>
+      </description>
+      <source:markdown>A scandal that threatens the future of an exclusive boys’ school poses a moral dilemma for its headmaster.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/anthony-trollope/dr-wortles-school/downloads/anthony-trollope_dr-wortles-school.epub?source=feed" length="634294" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/anthony-trollope/dr-wortles-school</guid>
+    </item>    <item>
+      <title>The Nature of a Crime, by Joseph Conrad and Ford Madox Ford</title>
+      <link>https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime</link>
+      <description>
+        <![CDATA[After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.]]>
+      </description>
+      <source:markdown>After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime/downloads/joseph-conrad-ford-madox-ford_the-nature-of-a-crime.epub?source=feed" length="216752" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime</guid>
+    </item>    <item>
       <title>The Yellow Knight of Oz by Ruth Plumly Thompson</title>
       <link>https://www.gutenberg.org/ebooks/78637</link>
       <description>
@@ -52,13 +147,6 @@
     </item>    <item>
       <title>The wisdom of the Ouija by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78633</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Opal: a novel by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/78640</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -524,7 +612,7 @@
         <![CDATA[An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.]]>
       </description>
       <source:markdown>An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/ring-lardner_gullibles-travels.epub?source=feed" length="580750" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/ring-lardner_gullibles-travels.epub?source=feed" length="580776" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</guid>
     </item>    <item>
       <title>The Adventures of Sally, by P. G. Wodehouse</title>

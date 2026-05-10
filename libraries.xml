@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>09 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>10 May 26 06:50 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -900,14 +900,6 @@ The post [Can Peer Review Keep Up? Announcing the Theme for Peer Review Week 202
       </description>
       <source:markdown>Where do public monikers come from and what do they say about culture? One of the more eclectic titles to enter the public domain in 2026 was Universal’s King of \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=30230</guid>
-    </item>    <item>
-      <title>DLARC Adds New Radio Resources to Celebrate World Amateur Radio Day</title>
-      <link>https://blog.archive.org/2026/04/18/dlarc-adds-new-radio-resources-to-celebrate-world-amateur-radio-day/</link>
-      <description>
-        <![CDATA[Internet Archive’s Digital Library of Amateur Radio &#38; Communications, a library devoted to ham radio, shortwave, and related topics, announces a number of new collections to mark World Amateur Radio [&#8230;]]]>
-      </description>
-      <source:markdown>Internet Archive’s Digital Library of Amateur Radio &#38; Communications, a library devoted to ham radio, shortwave, and related topics, announces a number of new collections to mark World Amateur Radio \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30343</guid>
     </item>
   </channel>
 </rss>
