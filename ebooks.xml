@@ -4,10 +4,59 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>10 May 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>11 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Complete Grammar of Esperanto by Ivy Kellerman Reed</title>
+      <link>https://www.gutenberg.org/ebooks/7787</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nuorta lempeä : by Anna Baadsgaard</title>
+      <link>https://www.gutenberg.org/ebooks/78648</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The hen-punchers of Piperock by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78651</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Valkea maa : by Niilo Mantere</title>
+      <link>https://www.gutenberg.org/ebooks/78649</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>A fisher girl of France by Fernand Calmettes</title>
+      <link>https://www.gutenberg.org/ebooks/78652</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The framed fifty by Karl Decker</title>
+      <link>https://www.gutenberg.org/ebooks/78650</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mettisen sunnuntai : by Roine Bertel</title>
+      <link>https://www.gutenberg.org/ebooks/78647</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
       <title>The opal : by Anonymous</title>
       <link>https://www.gutenberg.org/ebooks/78640</link>
       <description>

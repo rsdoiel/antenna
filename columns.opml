@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>10 May 26 06:47 -0700</dateCreated>
+        <dateCreated>11 May 26 06:41 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -226,7 +226,7 @@
         <outline text="Matt Haughey blog" type="rss" xmlUrl="https://a.wholelottanothing.org/rss/" htmlUrl="https://a.wholelottanothing.org/,https://a.wholelottanothing.org/rss/" description="Matthew Haughey&#39;s personal blog" url="https://a.wholelottanothing.org/rss/"></outline>
         <outline text="Matt Jibson Mastodon Feed" type="rss" xmlUrl="https://hachyderm.io/@mjibson.rss" htmlUrl="https://hachyderm.io/@mjibson" description="Public posts from @mjibson@hachyderm.io"></outline>
         <outline text="Matt Might blog" type="rss" xmlUrl="https://matt.might.net/articles/feed.rss" htmlUrl="http://matt.might.net/" description="Matt Might&#39;s blog"></outline>
-        <outline text="Matt Sephton blog" type="rss" xmlUrl="https://blog.gingerbeardman.com/feed.xml" htmlUrl="https://blog.gingerbeardman.com/,https://blog.gingerbeardman.com/feed.xml" description="Blog of independent video game developer and digital media artist Matt Sephton. Featuring vintage Macintosh, game development, digital artwork, Japanese esoterica, video game reviews, hacks and tips, and much more." url="https://blog.gingerbeardman.com/feed.xml"></outline>
+        <outline text="Matt Sephton blog" type="rss" xmlUrl="https://blog.gingerbeardman.com/feed.xml" htmlUrl="https://blog.gingerbeardman.com/,https://blog.gingerbeardman.com/feed.xml" description="Blog of independent game and app developer Matt Sephton. Featuring vintage Macintosh, game development, digital artwork, Japanese esoterica, video game reviews, hacks and tips, and much more." url="https://blog.gingerbeardman.com/feed.xml"></outline>
         <outline text="Matt Weidner blog" type="atom" xmlUrl="https://mattweidner.com/feed.xml" htmlUrl="https://mattweidner.com//feed.xml,https://mattweidner.com//" description="Common Curriculum / CMU PhD student" url="https://mattweidner.com//feed.xml"></outline>
         <outline text="Matthew Lincoln Blog" type="rss" xmlUrl="https://matthewlincoln.net/feed.xml" htmlUrl="https://matthewlincoln.net,https://matthewlincoln.net/feed.xml" description="The personal blog of Matthew D. Lincoln, PhD, Collections Information Architect at Carnegie Mellon University." url="https://matthewlincoln.net/feed.xml"></outline>
         <outline text="Maurice Parker" type="rss" xmlUrl="https://vincode.io/feed.xml" htmlUrl="https://vincode.io/"></outline>

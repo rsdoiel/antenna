@@ -4,10 +4,77 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>10 May 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>11 May 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Debian embraces reproducible builds</title>
+      <link>https://www.osnews.com/story/144925/debian-embraces-reproducible-builds/</link>
+      <description>
+        <![CDATA[Big news from the Debian release team: Debian is going for reproducible package builds. Aided by the efforts of the Reproducible Builds project, we&#8217;ve decided it&#8217;s time to say that Debian must ship reproducible packages. Since yesterday, we have enabled our migration software to block migration of new packages that can&#8217;t be reproduced or existing packages (in testing) that regress in reproducibility. ↫ Paul Gevers Reproducible means, in short, that you can verify that the source code used to build a package is indeed that source code. This provides a layer of defense against people tampering with code or otherwise trying to fiddle with the process between source code and final package on your system. This effort constitutes a tremendous amount of work, but it&#8217;s massively important.]]>
+      </description>
+      <source:markdown>Big news from the Debian release team: Debian is going for reproducible package builds. Aided by the efforts of the Reproducible Builds project, we’ve decided it’s time to say that Debian must ship reproducible packages. Since yesterday, we have enabled our migration software to block migration of new packages that can’t be reproduced or existing packages (in testing) that regress in reproducibility. ↫ Paul Gevers Reproducible means, in short, that you can verify that the source code used to build a package is indeed that source code. This provides a layer of defense against people tampering with code or otherwise trying to fiddle with the process between source code and final package on your system. This effort constitutes a tremendous amount of work, but it’s massively important.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144925</guid>
+    </item>    <item>
+      <title>“Building a web server in aarch64 assembly to give my life (a lack of) meaning”</title>
+      <link>https://www.osnews.com/story/144923/building-a-web-server-in-aarch64-assembly-to-give-my-life-a-lack-of-meaning/</link>
+      <description>
+        <![CDATA[ymawky is a small, static http web server written entirely in aarch64 assembly for macos. it uses raw darwin syscalls with no libc wrappers, serves static files, supports GET, HEAD, PUT, OPTIONS, DELETE, byte ranges, directory listing, custom error pages, and tries to be as hardened as possible. why? why not? the dream of the 80s is alive in ymawky. everybody has nginx. having apache makes you a square. so why not strip every single convenience layer that computer science has given us since 1957? i wanted to understand how a web server actually works, something i know little about coming from a low-level/systems background. the risks that come up, the problems that need to be solved, the things you don’t think about when you’re writing python or c. this (probably) won’t replace nginx, but it is doing something in the most difficult way possible. ↫ Tony &#8220;imtomt&#8221; I love this.]]>
+      </description>
+      <source:markdown>ymawky is a small, static http web server written entirely in aarch64 assembly for macos. it uses raw darwin syscalls with no libc wrappers, serves static files, supports GET, HEAD, PUT, OPTIONS, DELETE, byte ranges, directory listing, custom error pages, and tries to be as hardened as possible. why? why not? the dream of the 80s is alive in ymawky. everybody has nginx. having apache makes you a square. so why not strip every single convenience layer that computer science has given us since 1957? i wanted to understand how a web server actually works, something i know little about coming from a low-level/systems background. the risks that come up, the problems that need to be solved, the things you don’t think about when you’re writing python or c. this (probably) won’t replace nginx, but it is doing something in the most difficult way possible. ↫ Tony “imtomt” I love this.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144923</guid>
+    </item>    <item>
+      <title>Object oriented programming in Ada</title>
+      <link>https://www.osnews.com/story/144921/object-oriented-programming-in-ada/</link>
+      <description>
+        <![CDATA[Ada is incredibly well designed. One way this shows is that it takes the big, monolithic features of other languages and breaks them down into their constituent parts, so we can choose which portions of those features we want. The example I often reach for to explain this is object-oriented programming. ↫ Christoffer Stjernlöf Exactly what it says on the tin.]]>
+      </description>
+      <source:markdown>Ada is incredibly well designed. One way this shows is that it takes the big, monolithic features of other languages and breaks them down into their constituent parts, so we can choose which portions of those features we want. The example I often reach for to explain this is object-oriented programming. ↫ Christoffer Stjernlöf Exactly what it says on the tin.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144921</guid>
+    </item>    <item>
+      <title>Without this pill, lots of people would be dead</title>
+      <link>https://www.npr.org/2026/05/11/nx-s1-5812534/gleevec-cancer-medicine-drug-treatment-research</link>
+      <description>
+        <![CDATA[25 years ago, the FDA approved a pill that would change the way scientists treat cancer … for good. The pill was called Gleevec; it was designed specifically to treat CML, chronic myeloid leukemia, and it was one of the first targeted cancer therapies available. A quarter century after approval, it’s still being prescribed, as are second, third and fourth-generation drugs that followed in its footsteps. What made it so special – and so effective? Pharmaceutical correspondent <a href="https://www.npr.org/people/825275572/sydney-lupkin"target="_blank"   >Sydney Lupkin</a> walks us through the history of the drug, and why it’s continued to change lives for decades.<br/><br/>If you liked this episode, check out our other episodes with Sydney on <a href="https://lnk.to/3hvV3G"target="_blank"   >accelerated drug approvals</a> and the <a href="https://lnk.to/IkOvWA"target="_blank"   >development of GLP-1 pills</a>.<br/><br/><em>Interested in more stories about medicine and medical treatment</em><em>?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>25 years ago, the FDA approved a pill that would change the way scientists treat cancer … for good. The pill was called Gleevec; it was designed specifically to treat CML, chronic myeloid leukemia, and it was one of the first targeted cancer therapies available. A quarter century after approval, it’s still being prescribed, as are second, third and fourth-generation drugs that followed in its footsteps. What made it so special – and so effective? Pharmaceutical correspondent [Sydney Lupkin](https://www.npr.org/people/825275572/sydney-lupkin) walks us through the history of the drug, and why it’s continued to change lives for decades.
+
+If you liked this episode, check out our other episodes with Sydney on [accelerated drug approvals](https://lnk.to/3hvV3G) and the [development of GLP-1 pills](https://lnk.to/IkOvWA).
+
+_Interested in more stories about medicine and medical treatment_ _?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/13593f12-f06c-4972-8b31-ef34e0f44738/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=13593f12-f06c-4972-8b31-ef34e0f44738&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812534&p=510351&d=867&size=13882977" length="13882977" type="audio/mpeg" />
+      <guid>cid://4c369977-2fcf-4373-b09a-bc8c618d4ca0</guid>
+    </item>    <item>
+      <title>Sculpt OS 26.04 released</title>
+      <link>https://www.osnews.com/story/144913/sculpt-os-26-04-released/</link>
+      <description>
+        <![CDATA[Sculpt OS, the operating system based on the various components that make up Genode, has seen a new release, 26.04. A lot of the new features and changes to Genode that we&#8217;ve been talking about for a while now are part of this release, most notably the new human-inclined data syntax that replaces XML as the configuration language for Genode. That&#8217;s not the only major improvement, though. Regarding technical advances of the new version and device support in particular, all Linux-based drivers have been updated to kernel version 6.18, making the system compatible with most modern Intel-PC hardware. Laptop users may appreciate the new USB networking option that is now offered by default. Software-wise, the new version comes with a longed-after update of Qt6 along with the Chromium-based Falkon browser, downloadable at the depot of cproc. In the same menu, one can find the experimental first version of the Goa SDK running natively on Sculpt OS without the need of a Linux VM. For the first time, Genode components can now be developed, compiled, and tested using Sculpt OS on its own. The amazement of walking without crutches. ↫ Sculpt OS 26.04 release notes This new release is available for common PC hardware, the PinePhone, and the MNT Reform.]]>
+      </description>
+      <source:markdown>Sculpt OS, the operating system based on the various components that make up Genode, has seen a new release, 26.04. A lot of the new features and changes to Genode that we’ve been talking about for a while now are part of this release, most notably the new human-inclined data syntax that replaces XML as the configuration language for Genode. That’s not the only major improvement, though. Regarding technical advances of the new version and device support in particular, all Linux-based drivers have been updated to kernel version 6.18, making the system compatible with most modern Intel-PC hardware. Laptop users may appreciate the new USB networking option that is now offered by default. Software-wise, the new version comes with a longed-after update of Qt6 along with the Chromium-based Falkon browser, downloadable at the depot of cproc. In the same menu, one can find the experimental first version of the Goa SDK running natively on Sculpt OS without the need of a Linux VM. For the first time, Genode components can now be developed, compiled, and tested using Sculpt OS on its own. The amazement of walking without crutches. ↫ Sculpt OS 26.04 release notes This new release is available for common PC hardware, the PinePhone, and the MNT Reform.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144913</guid>
+    </item>    <item>
+      <title>Sprite scaling on the Master System: building the new on the ruins of the old</title>
+      <link>https://www.osnews.com/story/144915/sprite-scaling-on-the-master-system-building-the-new-on-the-ruins-of-the-old/</link>
+      <description>
+        <![CDATA[Sprite scaling. It is the coolest effect of the 2D arcade era, a must-have for games from Space Harrier to Real Bout Fatal Fury Special. Home consoles pretty much lacked it– sorry, Nintendo, but Mode 7 only scales a background, not sprites. So therefore you might be surprised to hear that Sega’s plucky underdog Master System could do it. Well, don’t get your hopes up; this is far too limited– calling it scaling is overstating things. But let’s dig in anyway! ↫ Nicole Branagan Nicole Branagan has the best articles on obscure console features, and this one is no exception.]]>
+      </description>
+      <source:markdown>Sprite scaling. It is the coolest effect of the 2D arcade era, a must-have for games from Space Harrier to Real Bout Fatal Fury Special. Home consoles pretty much lacked it– sorry, Nintendo, but Mode 7 only scales a background, not sprites. So therefore you might be surprised to hear that Sega’s plucky underdog Master System could do it. Well, don’t get your hopes up; this is far too limited– calling it scaling is overstating things. But let’s dig in anyway! ↫ Nicole Branagan Nicole Branagan has the best articles on obscure console features, and this one is no exception.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=144915</guid>
+    </item>    <item>
+      <title>‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/</link>
+      <description>
+        <![CDATA[“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University&#8217;s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more [&#8230;]]]>
+      </description>
+      <source:markdown>“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=92900</guid>
+    </item>    <item>
       <title>Google is tying reCAPTCHA to Google Play Services, screwing over de-Googled Android users</title>
       <link>https://www.osnews.com/story/144909/google-is-tying-recaptcha-to-google-play-services-screwing-over-de-googled-android-users/</link>
       <description>
@@ -5321,36 +5388,6 @@ NASA has revealed it’s working on a plan called “The Big Bang” that it hop
 
 **Asia In Brief**  Indonesia’s Ministry of Communication and Digital Affairs has suspended the nation’s game rating system (IGRS) after claims the service leaked developer creds and video of unreleased games.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245681</guid>
-    </item>    <item>
-      <title>Just like phishing for gullible humans, prompt injecting AIs is here to stay</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/just_like_phishing_for_gullible/</link>
-      <description>
-        <![CDATA[<h4>Aren&#39;t we all just prompting tokens of linguistic meaning and hoping the other person isn&#39;t bullshitting us?</h4> <p><strong>kettle</strong>  It&#39;s a week of the year, which means there&#39;s been the discovery of yet another prompt injection attack that will force supposedly well-guarded AI bots to spill secrets by asking the right way. …</p>]]>
-      </description>
-      <source:markdown>#### Aren&#39;t we all just prompting tokens of linguistic meaning and hoping the other person isn&#39;t bullshitting us?
-
-**kettle**  It&#39;s a week of the year, which means there&#39;s been the discovery of yet another prompt injection attack that will force supposedly well-guarded AI bots to spill secrets by asking the right way. …</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245674</guid>
-    </item>    <item>
-      <title>I meant to do that! AI vendors shrug off responsibility for vulns</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/ai_vendors_response_to_security/</link>
-      <description>
-        <![CDATA[<h4>Passing the buck, and the blame, down the road shows lack of AI companies&#39; maturity</h4> <p><strong>OPINION</strong>  AI vendors: &#34;You need to use AI to fight AI threats (and do everything else in your corporate IT environment).&#34; Also AI vendors: &#34;That&#39;s not a security flaw; it&#39;s working as intended.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### Passing the buck, and the blame, down the road shows lack of AI companies&#39; maturity
-
-**OPINION**  AI vendors: &#34;You need to use AI to fight AI threats (and do everything else in your corporate IT environment).&#34; Also AI vendors: &#34;That&#39;s not a security flaw; it&#39;s working as intended.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245677</guid>
-    </item>    <item>
-      <title>Ruby Central in &#39;real financial jeopardy&#39; following RubyGems maintainer ruckus</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/19/rubygems_nonprofit_in_real_financial/</link>
-      <description>
-        <![CDATA[<h4>Non profit loses several staffers including its executive director</h4> <p>Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, is in &#34;real financial jeopardy,&#34; according to a missive from its board members.…</p>]]>
-      </description>
-      <source:markdown>#### Non profit loses several staffers including its executive director
-
-Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, is in &#34;real financial jeopardy,&#34; according to a missive from its board members.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245670</guid>
     </item>
   </channel>
 </rss>

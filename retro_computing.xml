@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>10 May 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>11 May 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/05/10 - Eurovision, Mowing, Lidl wheeled shelf, Reading from the EPROM programmer&#39;s SRAM!</title>
+      <link>https://heyrick.eu/blog/entry/20260510</link>
+      <description>
+        <![CDATA[Eurovision, Mowing, Lidl wheeled shelf, Reading from the EPROM programmer's SRAM!]]>
+      </description>
+      <source:markdown>Eurovision, Mowing, Lidl wheeled shelf, Reading from the EPROM programmer&#39;s SRAM!</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260510</guid>
+    </item>    <item>
       <title>b.log 2026/05/08 - &#39;I&#39;m not going to walk away&#39;, Holiday, Bread!, My 1MHz bus project, Anxiety, My Ghost Becomes.</title>
       <link>https://heyrick.eu/blog/entry/20260508</link>
       <description>
@@ -1575,14 +1583,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Ceiling fan.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260420</guid>
-    </item>    <item>
-      <title>b.log 2026/04/19 - First foray into Arduino, Weekend.</title>
-      <link>https://heyrick.eu/blog/entry/20260419</link>
-      <description>
-        <![CDATA[First foray into Arduino, Weekend.]]>
-      </description>
-      <source:markdown>First foray into Arduino, Weekend.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260419</guid>
     </item>
   </channel>
 </rss>
