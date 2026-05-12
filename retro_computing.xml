@@ -4,10 +4,35 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>11 May 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>12 May 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ROOL updates DDE to DDE32c</title>
+      <link>http://www.iconbar.com/comments/rss/news2325.html</link>
+      <description>
+        <![CDATA[The DDE toolset has been updated again to DDE32c.]]>
+      </description>
+      <source:markdown>The DDE toolset has been updated again to DDE32c.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2325.html</guid>
+    </item>    <item>
+      <title>b.log 2026/05/11 - Diagnosis of a problem, Satellite fan, Action!</title>
+      <link>https://heyrick.eu/blog/entry/20260511</link>
+      <description>
+        <![CDATA[Diagnosis of a problem, Satellite fan, Action!]]>
+      </description>
+      <source:markdown>Diagnosis of a problem, Satellite fan, Action!</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260511</guid>
+    </item>    <item>
+      <title>Manjaro 26.1 Preview Unveils New Features</title>
+      <link>http://www.linux-magazine.com/Online/News/Manjaro-26.1-Preview-Unveils-New-Features</link>
+      <description>
+        <![CDATA[<p>The latest Manjaro 26.1 preview has been released with new desktop versions, a new kernel, and more.</p>]]>
+      </description>
+      <source:markdown>The latest Manjaro 26.1 preview has been released with new desktop versions, a new kernel, and more.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://cfc3ee8aed9226f4c3e14cc54d99bb6d</guid>
+    </item>    <item>
       <title>b.log 2026/05/10 - Eurovision, Mowing, Lidl wheeled shelf, Reading from the EPROM programmer&#39;s SRAM!</title>
       <link>https://heyrick.eu/blog/entry/20260510</link>
       <description>
@@ -1575,14 +1600,6 @@ Images: Julia Steketee drives the handcart on online skates. Photos by Kris De D
       </description>
       <source:markdown>Rougols&#39;s April speaker was Paolo Fabio Zaino, introducing his new Theme Manager</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2326.html</guid>
-    </item>    <item>
-      <title>b.log 2026/04/20 - Ceiling fan.</title>
-      <link>https://heyrick.eu/blog/entry/20260420</link>
-      <description>
-        <![CDATA[Ceiling fan.]]>
-      </description>
-      <source:markdown>Ceiling fan.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260420</guid>
     </item>
   </channel>
 </rss>
