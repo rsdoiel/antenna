@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Items of interest to the Pacific community and the Pacific RIM</title>
-        <dateCreated>12 May 26 06:32 -0700</dateCreated>
+        <dateCreated>13 May 26 06:32 -0700</dateCreated>
     </head>
     <body>
         <outline text="CDR Salamander" type="rss" xmlUrl="https://cdrsalamander.substack.com/feed" htmlUrl="https://cdrsalamander.substack.com,https://cdrsalamander.substack.com/feed" description="National security, maritime challenges, naval issues with a flavoring of other things I find interesting. " url="https://cdrsalamander.substack.com/feed"></outline>
@@ -49,6 +49,6 @@
         <outline text="University of the South Pacific (Fiji)" type="rss" xmlUrl="https://www.usp.ac.fj/feed/" htmlUrl="https://www.usp.ac.fj/,https://www.usp.ac.fj/feed/" description="Shaping Pacific Futures" url="https://www.usp.ac.fj/feed/"></outline>
         <outline text="Yap State Government News" type="rss" xmlUrl="https://www.yapstate.gov.fm/blog-feed.xml" htmlUrl="https://www.yapstate.gov.fm/publicreleases,https://www.yapstate.gov.fm/blog-feed.xml" description="Yap State Government" url="https://www.yapstate.gov.fm/blog-feed.xml"></outline>
         <outline text="micronesian conservation" type="rss" xmlUrl="https://micronesianconservation.org/feed/" htmlUrl="https://micronesianconservation.org,https://micronesianconservation.org/feed/" description="Micronesian Conservation Coalition" url="https://micronesianconservation.org/feed/"></outline>
-        <outline text="‘Ōlelo Community Media" type="rss" xmlUrl="https://olelo.org/feed/" htmlUrl="https://olelo.org,https://olelo.org/feed/" description="Olelo Community Media" url="https://olelo.org/feed/"></outline>
+        <outline text="‘Ōlelo Community Media" type="rss" xmlUrl="https://olelo.org/feed/" htmlUrl="https://olelo.org/,https://olelo.org/feed/" description="Olelo Community Media" url="https://olelo.org/feed/"></outline>
     </body>
 </opml>

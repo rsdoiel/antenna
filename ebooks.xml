@@ -4,10 +4,143 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>12 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>13 May 26 06:49 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Knight-errant by Edna Lyall</title>
+      <link>https://www.gutenberg.org/ebooks/78660</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;Escalier d&#39;Or by Edmond Jaloux</title>
+      <link>https://www.gutenberg.org/ebooks/4933</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The misdeal by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78659</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Heather&#39;s mistress by Amy Le Feuvre</title>
+      <link>https://www.gutenberg.org/ebooks/78661</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pompeii by Richard Engelmann</title>
+      <link>https://www.gutenberg.org/ebooks/78658</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The type-writer girl by Grant Allen</title>
+      <link>https://www.gutenberg.org/ebooks/78662</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson</title>
+      <link>https://www.gutenberg.org/ebooks/43</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kulóskap the master, and other Algonkin poems</title>
+      <link>https://www.gutenberg.org/ebooks/78673</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The whistle : by Benjamin Franklin</title>
+      <link>https://www.gutenberg.org/ebooks/78663</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Memories of my life by Francis Galton</title>
+      <link>https://www.gutenberg.org/ebooks/78669</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tuomas Vitikka : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78667</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Gran Cañon : by Sven Anders Hedin</title>
+      <link>https://www.gutenberg.org/ebooks/78666</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Dorothy and the Wizard in Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/420</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Honest to Doughgod by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78672</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Structure de l&#39;Algérie by E. F.  Gautier</title>
+      <link>https://www.gutenberg.org/ebooks/78665</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>When Canada was New France by George H.  Locke</title>
+      <link>https://www.gutenberg.org/ebooks/78668</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The first philosophers of Greece : by Arthur Fairbanks</title>
+      <link>https://www.gutenberg.org/ebooks/78670</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Un bagne russe: l&#39;île de Sakhaline by Paul Labbé</title>
+      <link>https://www.gutenberg.org/ebooks/78671</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The adventures of Pony Dexter by Harriet A.  Cheever</title>
+      <link>https://www.gutenberg.org/ebooks/78664</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Personal Memoirs of U. S. Grant, Complete by Ulysses S.  Grant</title>
       <link>https://www.gutenberg.org/ebooks/4367</link>
       <description>
@@ -28,20 +161,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Knight-errant by Edna Lyall</title>
-      <link>https://www.gutenberg.org/ebooks/78660</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>L&#39;Escalier d&#39;Or by Edmond Jaloux</title>
-      <link>https://www.gutenberg.org/ebooks/4933</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>    <item>
       <title>The biography and typography of William Caxton, England&#39;s first printer by William Blades</title>
       <link>https://www.gutenberg.org/ebooks/78654</link>
@@ -64,13 +183,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The misdeal by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78659</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Nerves of iron by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78653</link>
       <description>
@@ -80,27 +192,6 @@
     </item>    <item>
       <title>The scarab murder case : by S. S. Van Dine</title>
       <link>https://www.gutenberg.org/ebooks/78655</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Heather&#39;s Mistress by Amy Le Feuvre</title>
-      <link>https://www.gutenberg.org/ebooks/78661</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pompeii by Richard Engelmann</title>
-      <link>https://www.gutenberg.org/ebooks/78658</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The type-writer girl by Olive Pratt Rayner</title>
-      <link>https://www.gutenberg.org/ebooks/78662</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1297,33 +1388,6 @@
       <source:markdown>The women of a 19th century family spend their lives hoping that the one male family member will achieve the social status they all desire.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor/downloads/anne-parrish_the-perennial-bachelor.epub?source=feed" length="531392" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor</guid>
-    </item>    <item>
-      <title>Martin Birck’s Youth, by Hjalmar Söderberg</title>
-      <link>https://standardebooks.org/ebooks/hjalmar-soderberg/martin-bircks-youth/charles-wharton-stork</link>
-      <description>
-        <![CDATA[A boy in Stockholm becomes progressively more disillusioned with life as he grows up.]]>
-      </description>
-      <source:markdown>A boy in Stockholm becomes progressively more disillusioned with life as he grows up.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/hjalmar-soderberg/martin-bircks-youth/charles-wharton-stork/downloads/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork.epub?source=feed" length="624943" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/hjalmar-soderberg/martin-bircks-youth/charles-wharton-stork</guid>
-    </item>    <item>
-      <title>The Arrow of Gold, by Joseph Conrad</title>
-      <link>https://standardebooks.org/ebooks/joseph-conrad/the-arrow-of-gold</link>
-      <description>
-        <![CDATA[A young man becomes involved in arms smuggling and falls in love with his benefactor.]]>
-      </description>
-      <source:markdown>A young man becomes involved in arms smuggling and falls in love with his benefactor.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-arrow-of-gold/downloads/joseph-conrad_the-arrow-of-gold.epub?source=feed" length="489720" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-arrow-of-gold</guid>
-    </item>    <item>
-      <title>Olney Hymns, by John Newton and William Cowper</title>
-      <link>https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns</link>
-      <description>
-        <![CDATA[A collection of hymns written by John Newton and William Cowper.]]>
-      </description>
-      <source:markdown>A collection of hymns written by John Newton and William Cowper.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns/downloads/john-newton-william-cowper_olney-hymns.epub?source=feed" length="700037" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns</guid>
     </item>
   </channel>
 </rss>
