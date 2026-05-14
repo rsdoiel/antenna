@@ -12,6 +12,7 @@ title: Science and Technology
 - [OS News](https://www.osnews.com/feed/)
 -  Caltech Magazine <https://magazine.caltech.edu/index?format=rss>, feed location unknown, RSD 2026-02-24
 - [NPR Short Wave](https://feeds.npr.org/510351/podcast.xml)
+- [Proceedings of Machine Learning Research](https://proceedings.mlr.press//v80/assets/rss/feed.xml)
 
 # Open Source Projects
 

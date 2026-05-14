@@ -4,10 +4,79 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>13 May 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>14 May 26 06:50 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The English works of Thomas Hobbes of Malmesbury, Volume 07 (of 11) by Thomas Hobbes</title>
+      <link>https://www.gutenberg.org/ebooks/78674</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Beauty: Illustrated Chiefly by an Analysis and Classification of Beauty in Woman by Alexander Walker</title>
+      <link>https://www.gutenberg.org/ebooks/35409</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Outline of a natural system of medical science : by Alexander Walker</title>
+      <link>https://www.gutenberg.org/ebooks/78678</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ike Harper&#39;s historical holiday by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78676</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Magpie—diplomat by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78677</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>&#34;Magyarland,&#34; volume 2 (of 2) : by Nina Elizabeth Mazuchelli</title>
+      <link>https://www.gutenberg.org/ebooks/78675</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Perishable Goods, by Dornford Yates</title>
+      <link>https://standardebooks.org/ebooks/dornford-yates/perishable-goods</link>
+      <description>
+        <![CDATA[A group of men hunt for the kidnappers of a friend’s wife.]]>
+      </description>
+      <source:markdown>A group of men hunt for the kidnappers of a friend’s wife.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/dornford-yates/perishable-goods/downloads/dornford-yates_perishable-goods.epub?source=feed" length="569159" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/dornford-yates/perishable-goods</guid>
+    </item>    <item>
+      <title>Sailing Alone Around the World, by Joshua Slocum</title>
+      <link>https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</link>
+      <description>
+        <![CDATA[A sailor gives his account how he completed the first solo sailing voyage around the world.]]>
+      </description>
+      <source:markdown>A sailor gives his account how he completed the first solo sailing voyage around the world.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/joshua-slocum_sailing-alone-around-the-world.epub?source=feed" length="3139191" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</guid>
+    </item>    <item>
+      <title>The Fifth Queen Crowned, by Ford Madox Ford</title>
+      <link>https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned</link>
+      <description>
+        <![CDATA[Katharine Howard, Queen of England, reaches the height of her power, only to find that idealism and integrity are fragile weapons against court intrigue and religious faction.]]>
+      </description>
+      <source:markdown>Katharine Howard, Queen of England, reaches the height of her power, only to find that idealism and integrity are fragile weapons against court intrigue and religious faction.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned/downloads/ford-madox-ford_the-fifth-queen-crowned.epub?source=feed" length="468061" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned</guid>
+    </item>    <item>
       <title>Knight-errant by Edna Lyall</title>
       <link>https://www.gutenberg.org/ebooks/78660</link>
       <description>
@@ -1379,15 +1448,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Perennial Bachelor, by Anne Parrish</title>
-      <link>https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor</link>
-      <description>
-        <![CDATA[The women of a 19th century family spend their lives hoping that the one male family member will achieve the social status they all desire.]]>
-      </description>
-      <source:markdown>The women of a 19th century family spend their lives hoping that the one male family member will achieve the social status they all desire.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor/downloads/anne-parrish_the-perennial-bachelor.epub?source=feed" length="531392" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor</guid>
     </item>
   </channel>
 </rss>
