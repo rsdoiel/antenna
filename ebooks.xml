@@ -4,19 +4,112 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>14 May 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>15 May 26 06:50 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The English works of Thomas Hobbes of Malmesbury, Volume 07 (of 11) by Thomas Hobbes</title>
-      <link>https://www.gutenberg.org/ebooks/78674</link>
+      <title>Beauty: Illustrated Chiefly by an Analysis and Classification of Beauty in Woman by Alexander Walker</title>
+      <link>https://www.gutenberg.org/ebooks/35409</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Beauty: Illustrated Chiefly by an Analysis and Classification of Beauty in Woman by Alexander Walker</title>
-      <link>https://www.gutenberg.org/ebooks/35409</link>
+      <title>Contemporary One-Act Plays</title>
+      <link>https://www.gutenberg.org/ebooks/37970</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jupiter Lights by Constance Fenimore Woolson</title>
+      <link>https://www.gutenberg.org/ebooks/34282</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nancy Pembroke in Nova Scotia</title>
+      <link>https://www.gutenberg.org/ebooks/48087</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ben-Hur: Een verhaal van den tijd van Jezus&#39; omwandeling op aarde by Lew Wallace</title>
+      <link>https://www.gutenberg.org/ebooks/16832</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Jack Brag, vol. 1 (of 3) by Theodore Edward Hook</title>
+      <link>https://www.gutenberg.org/ebooks/78686</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The thinking machine by Raymond F. Jones</title>
+      <link>https://www.gutenberg.org/ebooks/78681</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0046: Vereeniging ter bevordering der goede zeden by Blankensee and Matull</title>
+      <link>https://www.gutenberg.org/ebooks/78680</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0345: De bankroovers by Theo von Blankensee and Felix  Hageman and Kurt Matull</title>
+      <link>https://www.gutenberg.org/ebooks/78683</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Hashknife and the Fantom Riders by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78685</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The lily of Mordaunt by Mrs. Georgie Sheldon</title>
+      <link>https://www.gutenberg.org/ebooks/78682</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Some Nigerian fertility cults by Percy Amaury Talbot</title>
+      <link>https://www.gutenberg.org/ebooks/78684</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ejercicios by Benjamín Jarnés</title>
+      <link>https://www.gutenberg.org/ebooks/78679</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Saïd the Fisherman, by Marmaduke Pickthall</title>
+      <link>https://standardebooks.org/ebooks/marmaduke-pickthall/said-the-fisherman</link>
+      <description>
+        <![CDATA[A Syrian Arab’s fortunes rise and fall as he wanders away from his home by the sea.]]>
+      </description>
+      <source:markdown>A Syrian Arab’s fortunes rise and fall as he wanders away from his home by the sea.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/marmaduke-pickthall/said-the-fisherman/downloads/marmaduke-pickthall_said-the-fisherman.epub?source=feed" length="724476" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/marmaduke-pickthall/said-the-fisherman</guid>
+    </item>    <item>
+      <title>The English works of Thomas Hobbes of Malmesbury, Volume 07 (of 11) by Thomas Hobbes</title>
+      <link>https://www.gutenberg.org/ebooks/78674</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -919,7 +1012,7 @@
         <![CDATA[An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.]]>
       </description>
       <source:markdown>An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/ring-lardner_gullibles-travels.epub?source=feed" length="580776" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/ring-lardner_gullibles-travels.epub?source=feed" length="580774" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</guid>
     </item>    <item>
       <title>The Adventures of Sally, by P. G. Wodehouse</title>
