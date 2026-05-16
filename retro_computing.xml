@@ -4,10 +4,50 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 May 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>16 May 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A demo of the new facilities in the KIM-1 Simulator 2.20.</title>
+      <link>http://retro.hansotten.nl/kim-1-simulator-2-2-0/</link>
+      <description>
+        <![CDATA[A demo of the new facilities in the KIM-1 Simulator 2.20. Scroll, copy paste of the console. New versions of KIM-1 and TIM Simulator with thansk to Eduardo Casino. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, [&#8230;]]]>
+      </description>
+      <source:markdown>A demo of the new facilities in the KIM-1 Simulator 2.20. Scroll, copy paste of the console. New versions of KIM-1 and TIM Simulator with thansk to Eduardo Casino. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20969</guid>
+    </item>    <item>
+      <title>AI: AI Systems Are No Longer Just Models, and Runtime Verification Is Becoming the New Security Boundary</title>
+      <link>https://paolozaino.wordpress.com/2026/05/16/ai-ai-systems-are-no-longer-just-models-and-runtime-verification-is-becoming-the-new-security-boundary/</link>
+      <description>
+        <![CDATA[AI systems are increasingly being discussed as if the model were the system. That was never entirely true, but it is becoming dangerously misleading. Moreover, modern AI applications are not simply prompts sent to a model and responses returned to a user. They are pipelines, wrappers, agents, tools, APIs, third-party services, memory layers, orchestration logic, [&#8230;]]]>
+      </description>
+      <source:markdown>AI systems are increasingly being discussed as if the model were the system. That was never entirely true, but it is becoming dangerously misleading. Moreover, modern AI applications are not simply prompts sent to a model and responses returned to a user. They are pipelines, wrappers, agents, tools, APIs, third-party services, memory layers, orchestration logic, \[…\]</source:markdown>
+      <guid>cid://http://paolozaino.wordpress.com/?p=10127</guid>
+    </item>    <item>
+      <title>b.log 2026/05/15 - SRAM access timing - diving even deeper, Satellite fan, And also...</title>
+      <link>https://heyrick.eu/blog/entry/20260515</link>
+      <description>
+        <![CDATA[SRAM access timing - diving even deeper, Satellite fan, And also...]]>
+      </description>
+      <source:markdown>SRAM access timing - diving even deeper, Satellite fan, And also...</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260515</guid>
+    </item>    <item>
+      <title>Code the Classics Volume 2 for RISC OS - Kinetix release</title>
+      <link>http://www.iconbar.com/comments/rss/news2334.html</link>
+      <description>
+        <![CDATA[Jeroen has been continuing with his project to bring RISC OS versions of the games featured in the book Code the Classics Volume 2  to RISC OS and has now released Kinetix.]]>
+      </description>
+      <source:markdown>Jeroen has been continuing with his project to bring RISC OS versions of the games featured in the book Code the Classics Volume 2 to RISC OS and has now released Kinetix.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2334.html</guid>
+    </item>    <item>
+      <title>Code the Classics Volume 2 for RISC OS - Kinetix release</title>
+      <link>http://www.acornarcade.com/comments/rss/news2334.html</link>
+      <description>
+        <![CDATA[Jeroen has been continuing with his project to bring RISC OS versions of the games featured in the book Code the Classics Volume 2  to RISC OS and has now released Kinetix.]]>
+      </description>
+      <source:markdown>Jeroen has been continuing with his project to bring RISC OS versions of the games featured in the book Code the Classics Volume 2 to RISC OS and has now released Kinetix.</source:markdown>
+      <guid>cid://http://www.acornarcade.com/comments/rss/news2334.html</guid>
+    </item>    <item>
       <title>ARX: The OS we never got – ROUGOL meeting, 18th May</title>
       <link>https://www.riscository.com/2026/arx-at-rougol-18th-may/</link>
       <description>
@@ -169,9 +209,9 @@ Visitors can also use the shared tables to show off their own setups to one anot
       <title>c’T-Terminal</title>
       <link>http://retro.hansotten.nl/ct-terminal/</link>
       <description>
-        <![CDATA[A computer terminal based on the Rockwell 6511Q microprocessor. All scans, ROM dumps and circuit diagram thanks to Robert Offner! c&#8217;T 1983 Heft 12, 1984 Heft 1 See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! [&#8230;]]]>
+        <![CDATA[A computer terminal based on the Rockwell 6511Q microprocessor. All scans, ROM dumps and circuit diagram thanks to Robert Offner! c&#8217;T 1983 Heft 12, 1984 Heft 1 See also:A demo of the new facilities in the KIM-1 Simulator 2.20.A demo of the new facilities in the KIM-1 Simulator 2.20. Scroll, copy paste of the console. [&#8230;]]]>
       </description>
-      <source:markdown>A computer terminal based on the Rockwell 6511Q microprocessor. All scans, ROM dumps and circuit diagram thanks to Robert Offner! c’T 1983 Heft 12, 1984 Heft 1 See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! \[…\]</source:markdown>
+      <source:markdown>A computer terminal based on the Rockwell 6511Q microprocessor. All scans, ROM dumps and circuit diagram thanks to Robert Offner! c’T 1983 Heft 12, 1984 Heft 1 See also:A demo of the new facilities in the KIM-1 Simulator 2.20.A demo of the new facilities in the KIM-1 Simulator 2.20. Scroll, copy paste of the console. \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=20860</guid>
     </item>    <item>
       <title>ShareFSServer 0.4.0 released</title>
@@ -960,22 +1000,6 @@ Meanwhile, I&#39;m going to work on a patched version of Mac OS for this machine
       </description>
       <source:markdown>Pineapple does NOT belong on pizza, Stapler!, The fake 1MHz bus, The 6821 PIA - the fly in the ointment, Rogue state, Beads, Be nice to the fairies.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260425</guid>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Introduction: At Long Last, the Bard]]>
-      </description>
-      <source:markdown>Introduction: At Long Last, the Bard</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6763</guid>
-    </item>    <item>
-      <title>R65 – A late seventies computer built with a KIM-1</title>
-      <link>http://retro.hansotten.nl/20787-2/</link>
-      <description>
-        <![CDATA[R65 &#8211; A late seventies computer built with a KIM-1 by Rene Richarz. An amazing showcase of how far a KIM-1 and Pascal as programming language can go! All information on the R65 and the emulator of this computer on the github archive of Rene Richarz, a work in progress! Including sources and full documentation. [&#8230;]]]>
-      </description>
-      <source:markdown>R65 – A late seventies computer built with a KIM-1 by Rene Richarz. An amazing showcase of how far a KIM-1 and Pascal as programming language can go! All information on the R65 and the emulator of this computer on the github archive of Rene Richarz, a work in progress! Including sources and full documentation. \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20787</guid>
     </item>
   </channel>
 </rss>

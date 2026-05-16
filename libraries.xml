@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>15 May 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>16 May 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>US Copyright Register Perlmutter Addresses Law and Policy Issues During Oversight Hearing</title>
+      <link>https://www.arl.org/blog/us-copyright-register-perlmutter-addresses-law-and-policy-issues-during-oversight-hearing/</link>
+      <description>
+        <![CDATA[<p>Last Updated on May 15, 2026, 1:48 pm ET This week, Register of Copyrights and Director of the US Copyright Office Shira Perlmutter addressed several law and policy issues relevant...</p>
+        <p>The post <a href="https://www.arl.org/blog/us-copyright-register-perlmutter-addresses-law-and-policy-issues-during-oversight-hearing/">US Copyright Register Perlmutter Addresses Law and Policy Issues During Oversight Hearing</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on May 15, 2026, 1:48 pm ET This week, Register of Copyrights and Director of the US Copyright Office Shira Perlmutter addressed several law and policy issues relevant...
+
+The post [US Copyright Register Perlmutter Addresses Law and Policy Issues During Oversight Hearing](https://www.arl.org/blog/us-copyright-register-perlmutter-addresses-law-and-policy-issues-during-oversight-hearing/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=48444</guid>
+    </item>    <item>
       <title>OpenCitations has been awarded the Certificate of Excellence in Research Infrastructure Leadership</title>
       <link>https://opencitations.hypotheses.org/4334</link>
       <description>
@@ -869,39 +880,6 @@ While precision and recall are essential for understanding matching performance,
 
 This work represents more than an isolated matching experiment: it is intended to be the first production deployment of the new metadata matching framework. Bringing funder matching into production will involve not only implementing the strategy described here, but also standing up shared infrastructure for monitoring, iteration, and reuse across future matching tasks. Applying this new matching system across all of Crossref’s current and future funder data will be our next milestone in the project. Beyond that, we will move on to grants, affiliations, references, and more. The work we’re doing now of setting up infrastructure, refining evaluation methods, and working out any kinks as they arise, will all contribute to the momentum of the project. We’re very excited about all the enrichment of the research nexus that lies ahead!</source:markdown>
       <guid>cid://https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/</guid>
-    </item>    <item>
-      <title>Something big is happening in the global scientific community, and Brazil seems to be left out again</title>
-      <link>https://blog.scielo.org/blog/2026/04/24/algo-grande-esta-acontecendo-na-ciencia-mundial-e-o-brasil-parece-estar-de-fora-novamente#new_tab</link>
-      <description>
-        <![CDATA[<p>Recent advances in artificial intelligence are reshaping global scientific output, with significant gains in productivity and the automation of complex tasks. While researchers abroad are already experimenting and redefining their practices, Brazil continues to see little discussion, limited access, and an excessive focus on regulation. The result could be a deepening of scientific inequalities, requiring a rapid response based on experimentation, the dissemination of best practices, and access policies. Available only in Portuguese.</p>
-        <p> <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/blog/2026/04/24/algo-grande-esta-acontecendo-na-ciencia-mundial-e-o-brasil-parece-estar-de-fora-novamente#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
-        <p>The post <a href="https://blog.scielo.org/blog/2026/04/24/algo-grande-esta-acontecendo-na-ciencia-mundial-e-o-brasil-parece-estar-de-fora-novamente#new_tab">Something big is happening in the global scientific community, and Brazil seems to be left out again</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
-      </description>
-      <source:markdown>Recent advances in artificial intelligence are reshaping global scientific output, with significant gains in productivity and the automation of complex tasks. While researchers abroad are already experimenting and redefining their practices, Brazil continues to see little discussion, limited access, and an excessive focus on regulation. The result could be a deepening of scientific inequalities, requiring a rapid response based on experimentation, the dissemination of best practices, and access policies. Available only in Portuguese.
-
-…[Read More →](https://blog.scielo.org/blog/2026/04/24/algo-grande-esta-acontecendo-na-ciencia-mundial-e-o-brasil-parece-estar-de-fora-novamente#new_tab)
-
-The post [Something big is happening in the global scientific community, and Brazil seems to be left out again](https://blog.scielo.org/blog/2026/04/24/algo-grande-esta-acontecendo-na-ciencia-mundial-e-o-brasil-parece-estar-de-fora-novamente#new_tab) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
-      <guid>cid://https://blog.scielo.org/en/?p=5928</guid>
-    </item>    <item>
-      <title>Evidence Isn’t Just for Research</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/04/24/evidence-isnt-just-for-research/</link>
-      <description>
-        <![CDATA[<p>This Friday, we offer a humorous take on the importance of empirical evidence in this era of fraud and mis/disinformation.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/04/24/evidence-isnt-just-for-research/">Evidence Isn&#8217;t Just for Research</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>This Friday, we offer a humorous take on the importance of empirical evidence in this era of fraud and mis/disinformation.
-
-The post [Evidence Isn’t Just for Research](https://scholarlykitchen.sspnet.org/2026/04/24/evidence-isnt-just-for-research/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61715</guid>
-    </item>    <item>
-      <title>OpenCitations’ renewed compliance with the Principles of Open Scholarly Infrastructure (April 2026)</title>
-      <link>https://opencitations.hypotheses.org/4260</link>
-      <description>
-        <![CDATA[OpenCitations has formally adopted the Principles of Open Scholarly Infrastructure (POSI) since its first self-assessment in August 2021. At that time, we had only recently been included in the SCOSS funding round and, although we had a clear vision of what we wanted to build and the role we wanted to play within the Open Science ecosystem, both our financial and human resources were still very limited. For this reason, the POSI self-assessment proved to be an important exercise, since it allowed us to &#8230; <a href="https://opencitations.hypotheses.org/4260" class="more-link">Continue reading <span class="screen-reader-text">OpenCitations’ renewed compliance with the Principles of Open Scholarly Infrastructure (April 2026)</span></a>]]>
-      </description>
-      <source:markdown>OpenCitations has formally adopted the Principles of Open Scholarly Infrastructure (POSI) since its first self-assessment in August 2021. At that time, we had only recently been included in the SCOSS funding round and, although we had a clear vision of what we wanted to build and the role we wanted to play within the Open Science ecosystem, both our financial and human resources were still very limited. For this reason, the POSI self-assessment proved to be an important exercise, since it allowed us to … [Continue reading OpenCitations’ renewed compliance with the Principles of Open Scholarly Infrastructure (April 2026)](https://opencitations.hypotheses.org/4260)</source:markdown>
-      <guid>cid://https://opencitations.hypotheses.org/?p=4260</guid>
     </item>
   </channel>
 </rss>
