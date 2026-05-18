@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 May 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>18 May 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,636 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Triumph At The Games: ‘’84: The Summer Of Gold’ Shows How U.S. Men’s Gymnastics Team Made Olympic History – Cannes Market</title>
+      <link>https://deadline.com/2026/05/84-summer-of-gold-cannes-market-1236914366/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: The U.S. Men’s Gymnastics Team has only won gold once at the Olympics – in 1984. That moment of glory, coming after the U.S. boycott of the 1980 games in Moscow, is recaptured in the documentary ’84: The Summer of Gold. The film directed by 24-time Emmy-winner Nick Nanton is being presented at the [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: The U.S. Men’s Gymnastics Team has only won gold once at the Olympics – in 1984. That moment of glory, coming after the U.S. boycott of the 1980 games in Moscow, is recaptured in the documentary ’84: The Summer of Gold. The film directed by 24-time Emmy-winner Nick Nanton is being presented at the \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914366</guid>
+    </item>    <item>
+      <title>‘Colony’ Director Yeon Sang-ho Talks AI Impact, Korean Cinema Revival &#38; Working With Japan</title>
+      <link>https://deadline.com/2026/05/colony-cannes-yeon-sangho-showbox-ai-korea-box-office-japan-1236913577/</link>
+      <description>
+        <![CDATA[Korean filmmaker Yeon Sang-ho has been busy over the past few years. In addition to directing zombie thriller Colony – which premiered in Midnight Screenings here in Cannes – he directed two other movies last year, The Ugly and Revelations, and was a showrunner on a Japanese series that will soon drop on Netflix.  Colony, [&#8230;]]]>
+      </description>
+      <source:markdown>Korean filmmaker Yeon Sang-ho has been busy over the past few years. In addition to directing zombie thriller Colony – which premiered in Midnight Screenings here in Cannes – he directed two other movies last year, The Ugly and Revelations, and was a showrunner on a Japanese series that will soon drop on Netflix.  Colony, \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236913577</guid>
+    </item>    <item>
+      <title>Bobby Darin Jukebox Musical ‘Just In Time’ Recoups $12.5M Broadway Capitalization</title>
+      <link>https://deadline.com/2026/05/just-in-time-broadway-recoups-capitalization-1236906723/</link>
+      <description>
+        <![CDATA[Just In Time, the Broadway musical about &#8216;Mack the Knife&#8217; singer Bobby Darin currently starring Jeremy Jordan, has recouped its $12.5 million capitalization, producers announced today. The production becomes the first Broadway musical of the 2024-2025 season to recoup its investment, and just the fourth show to recoup this season (following the plays Every Brilliant [&#8230;]]]>
+      </description>
+      <source:markdown>Just In Time, the Broadway musical about ‘Mack the Knife’ singer Bobby Darin currently starring Jeremy Jordan, has recouped its $12.5 million capitalization, producers announced today. The production becomes the first Broadway musical of the 2024-2025 season to recoup its investment, and just the fourth show to recoup this season (following the plays Every Brilliant \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236906723</guid>
+    </item>    <item>
+      <title>Jafar Panahi Summoned For Court Hearing In Iran On May 20</title>
+      <link>https://deadline.com/2026/05/jafar-panahi-court-hearing-iran-may-20-1236914348/</link>
+      <description>
+        <![CDATA[Iranian director Jafar Panahi has been been summoned for a court hearing in Iran on May 20 as part of a retrial related to charges against him of “propaganda activity against the regime”, according to local media reports. The hearing will take place close to a year after Panahi was feted with the Cannes Palme [&#8230;]]]>
+      </description>
+      <source:markdown>Iranian director Jafar Panahi has been been summoned for a court hearing in Iran on May 20 as part of a retrial related to charges against him of “propaganda activity against the regime”, according to local media reports. The hearing will take place close to a year after Panahi was feted with the Cannes Palme \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914348</guid>
+    </item>    <item>
+      <title>[$] Swap tables, flash-friendly swap, swap_ops, and more</title>
+      <link>https://lwn.net/Articles/1072657/</link>
+      <description>
+        <![CDATA[The kernel's swap subsystem is charged with managing anonymous pages in
+        secondary storage when those pages are (hopefully) not being used and the
+        memory they occupy is needed elsewhere.  This long-unloved subsystem has
+        seen a resurgence of developer interest in recent times, so it is not
+        surprising that it was the topic of three separate sessions in the
+        memory-management track at the
+        2026 <a href="https://events.linuxfoundation.org/lsfmmbpf/">Linux Storage,
+        Filesystem, Memory Management, and BPF Summit</a>.  Two of those sessions
+        were concerned with improving the performance and maintainability of the
+        swap code, while one (shared with the storage track) was about how swapping
+        could be friendlier to solid-state storage devices.]]>
+      </description>
+      <source:markdown>The kernel&#39;s swap subsystem is charged with managing anonymous pages in
+secondary storage when those pages are (hopefully) not being used and the
+memory they occupy is needed elsewhere. This long-unloved subsystem has
+seen a resurgence of developer interest in recent times, so it is not
+surprising that it was the topic of three separate sessions in the
+memory-management track at the
+2026 [Linux Storage,\
+Filesystem, Memory Management, and BPF Summit](https://events.linuxfoundation.org/lsfmmbpf/). Two of those sessions
+were concerned with improving the performance and maintainability of the
+swap code, while one (shared with the storage track) was about how swapping
+could be friendlier to solid-state storage devices.</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1072657/</guid>
+    </item>    <item>
+      <title>Tracee Ellis Ross To Follow Mariska Hargitay In Broadway’s ‘Every Brilliant Thing’</title>
+      <link>https://deadline.com/2026/05/tracee-ellis-ross-every-brilliant-thing-broadwsay-1236914325/</link>
+      <description>
+        <![CDATA[Tracee Ellis Ross, of Blackish and Girlfriends, will take over the starring role of Broadway&#8217;s Every Brilliant Thing when Mariska Hargitay (Law &#38; Order: SVU, My Mom Jayne) ends her own run on Sunday, July 5. Hargitay, as previously announced joins the production on Tuesday, May 26, after original star Daniel Radcliffe concludes his February [&#8230;]]]>
+      </description>
+      <source:markdown>Tracee Ellis Ross, of Blackish and Girlfriends, will take over the starring role of Broadway’s Every Brilliant Thing when Mariska Hargitay (Law &#38; Order: SVU, My Mom Jayne) ends her own run on Sunday, July 5. Hargitay, as previously announced joins the production on Tuesday, May 26, after original star Daniel Radcliffe concludes his February \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914325</guid>
+    </item>    <item>
+      <title>Oscar-Shortlisted Film ‘Extremist’, About Life Under Putin, Getting Feature With ‘Leviathan’ and ‘Butterfly Jam’ Producer — Cannes Market</title>
+      <link>https://deadline.com/2026/05/extremist-life-under-putin-feature-alexander-rodnyansky-1236914335/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: Oscar shortlisted short film Extremist is getting the feature treatment, with the project boarded by arthouse stalwart Alexander Rodnyansky (Leviathan) and his production banner AR Content. Rodnyansky joins Alexander Molochnikov and Forma Pro films in producing The Extremists after the short premiered at the 2025 Telluride Film Festival and won the Live Action Award [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: Oscar shortlisted short film Extremist is getting the feature treatment, with the project boarded by arthouse stalwart Alexander Rodnyansky (Leviathan) and his production banner AR Content. Rodnyansky joins Alexander Molochnikov and Forma Pro films in producing The Extremists after the short premiered at the 2025 Telluride Film Festival and won the Live Action Award \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914335</guid>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/116595703249769784</link>
+      <description>
+        <![CDATA[<p>Export Updates 2026-05-18:<br />Pleiades gazetteer of ancient places</p><p>1 new and 53 updated places.</p><p>1. Downloads: <a href="https://pleiades.stoa.org/downloads" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">pleiades.stoa.org/downloads</span><span class="invisible"></span></a></p><p>2. pleiades.datasets: <a href="https://github.com/isawnyu/pleiades.datasets" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades.da</span><span class="invisible">tasets</span></a>:</p><p>&quot;main&quot; branch:</p><p>464c68c1 - updated json<br />c874dfcf - updated rdf/ttl<br />4fc65b7d - updated gis package<br />a45a177e - updated data quality<br />4e91c843 - updated bibliography<br />a064d6a0 - updated indexes<br />c3767498 - updated sidebar</p><p>3. pleiades-geojson: <a href="https://github.com/ryanfb/pleiades-geojson" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/ryanfb/pleiades-geo</span><span class="invisible">json</span></a>:</p><p>56d4c61f - updated geojson and names index</p><p>4. pleiades_wikidata: <a href="https://github.com/isawnyu/pleiades_wikidata/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades_wi</span><span class="invisible">kidata/</span></a>:</p><p>c1008230 - updated pleiades wikidata</p>]]>
+      </description>
+      <source:markdown>Export Updates 2026-05-18:
+
+Pleiades gazetteer of ancient places
+
+1 new and 53 updated places.
+
+1\. Downloads: [https://pleiades.stoa.org/downloads](https://pleiades.stoa.org/downloads)
+
+2\. pleiades.datasets: [https://github.com/isawnyu/pleiades.datasets](https://github.com/isawnyu/pleiades.datasets):
+
+&#34;main&#34; branch:
+
+464c68c1 - updated json
+
+c874dfcf - updated rdf/ttl
+
+4fc65b7d - updated gis package
+
+a45a177e - updated data quality
+
+4e91c843 - updated bibliography
+
+a064d6a0 - updated indexes
+
+c3767498 - updated sidebar
+
+3\. pleiades-geojson: [https://github.com/ryanfb/pleiades-geojson](https://github.com/ryanfb/pleiades-geojson):
+
+56d4c61f - updated geojson and names index
+
+4\. pleiades\_wikidata: [https://github.com/isawnyu/pleiades\_wikidata/](https://github.com/isawnyu/pleiades_wikidata/):
+
+c1008230 - updated pleiades wikidata</source:markdown>
+      <guid>cid://https://hcommons.social/@pleiades_gazetteer/116595703249769784</guid>
+    </item>    <item>
+      <title>The ‘Queen Of The Desert’ Actor Jay Abdo Reveals Why He Returned To Syria After Years In The U.S: “I Wasn’t Planning To Come Back”</title>
+      <link>https://deadline.com/2026/05/jay-abdo-syrian-film-business-1236882856/</link>
+      <description>
+        <![CDATA[Jay Abdo has a mission. “I want to show the world who Syrians really are; why they sometimes had to leave, and why they’re coming back,” says the Syrian American actor Jay Abdo in a Zoom call from Damascus in late March. Fifteen minutes in, the screen freezes. Abdo comes back on five minutes later [&#8230;]]]>
+      </description>
+      <source:markdown>Jay Abdo has a mission. “I want to show the world who Syrians really are; why they sometimes had to leave, and why they’re coming back,” says the Syrian American actor Jay Abdo in a Zoom call from Damascus in late March. Fifteen minutes in, the screen freezes. Abdo comes back on five minutes later \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236882856</guid>
+    </item>    <item>
+      <title>Fay Weldon’s Supernatural Novel ‘Puffball’ Being Developed For TV 20 Years After Nicolas Roeg Movie Starring Kelly Reilly &#38; Donald Sutherland</title>
+      <link>https://deadline.com/2026/05/fay-weldon-puffball-tv-series-firebird-movie-kelly-reilly-1236906341/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: Nearly 20 years after the Nicolas Roeg movie starring Kelly Reilly and Donald Sutherland, a small screen version of Fay Weldon’s supernatural novel Puffball is in development. Deadline understands Firebird Pictures has optioned the 1980 novel, with Morgan Lloyd Malcolm, an Olivier Award-winning playwright who penned Netflix thriller Obsession, attached to write. Fay Weldon&#8217;s [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: Nearly 20 years after the Nicolas Roeg movie starring Kelly Reilly and Donald Sutherland, a small screen version of Fay Weldon’s supernatural novel Puffball is in development. Deadline understands Firebird Pictures has optioned the 1980 novel, with Morgan Lloyd Malcolm, an Olivier Award-winning playwright who penned Netflix thriller Obsession, attached to write. Fay Weldon’s \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236906341</guid>
+    </item>    <item>
+      <title>Security updates for Monday</title>
+      <link>https://lwn.net/Articles/1073356/</link>
+      <description>
+        <![CDATA[Security updates have been issued by <b>AlmaLinux</b> (freerdp, gimp:2.8, jq, kernel, and rsync), <b>Debian</b> (chromium, ffmpeg, firewalld, kernel, nginx, openjpeg2, openssh, php7.4, and redis), <b>Fedora</b> (apptainer, chromium, coturn, dnsmasq, firefox, kernel, libgit2_1.8, libmetal, nginx, nginx-mod-brotli, nginx-mod-fancyindex, nginx-mod-headers-more, nginx-mod-js-challenge, nginx-mod-modsecurity, nginx-mod-naxsi, nginx-mod-vts, open-amp, perl-Net-CIDR-Lite, pgbouncer, pypy, python-jupytext, python-uv-build, rsync, rust-astral-tokio-tar, uriparser, uv, valkey, and yelp), <b>Mageia</b> (dpkg, firefox, thunderbird, golang, haproxy, and samba), <b>Slackware</b> (dnsmasq and kernel), and <b>SUSE</b> (apache-commons-configuration2, apache2, apptainer, chromedriver, cups-filters, curl, dnsmasq, expat, ffmpeg-4, ffmpeg-7, firebird, firewalld, flux2-cli, glibc, go1.25, go1.26, gosec, grub2, ImageMagick, java-11-openj9, java-17-openj9, java-1_8_0-openj9, java-1_8_0-openjdk, java-21-openj9, java-25-openj9, kdenlive, kernel, kernel-devel, keylime-config, krb5, libIex-3_4-33, mozjs115, mozjs78, nginx, openssh, openvswitch, ovmf, PackageKit, perl-Crypt-URandom, perl-CryptX, perl-libwww-perl, perl-Net-CIDR-Lite, perl-Text-CSV_XS, podman, postgresql17, postgresql18, python-pyOpenSSL, python310, rsync, sed, tekton-cli, valkey, xen, and zypper-docker).]]>
+      </description>
+      <source:markdown>Security updates have been issued by **AlmaLinux** (freerdp, gimp:2.8, jq, kernel, and rsync), **Debian** (chromium, ffmpeg, firewalld, kernel, nginx, openjpeg2, openssh, php7.4, and redis), **Fedora** (apptainer, chromium, coturn, dnsmasq, firefox, kernel, libgit2\_1.8, libmetal, nginx, nginx-mod-brotli, nginx-mod-fancyindex, nginx-mod-headers-more, nginx-mod-js-challenge, nginx-mod-modsecurity, nginx-mod-naxsi, nginx-mod-vts, open-amp, perl-Net-CIDR-Lite, pgbouncer, pypy, python-jupytext, python-uv-build, rsync, rust-astral-tokio-tar, uriparser, uv, valkey, and yelp), **Mageia** (dpkg, firefox, thunderbird, golang, haproxy, and samba), **Slackware** (dnsmasq and kernel), and **SUSE** (apache-commons-configuration2, apache2, apptainer, chromedriver, cups-filters, curl, dnsmasq, expat, ffmpeg-4, ffmpeg-7, firebird, firewalld, flux2-cli, glibc, go1.25, go1.26, gosec, grub2, ImageMagick, java-11-openj9, java-17-openj9, java-1\_8\_0-openj9, java-1\_8\_0-openjdk, java-21-openj9, java-25-openj9, kdenlive, kernel, kernel-devel, keylime-config, krb5, libIex-3\_4-33, mozjs115, mozjs78, nginx, openssh, openvswitch, ovmf, PackageKit, perl-Crypt-URandom, perl-CryptX, perl-libwww-perl, perl-Net-CIDR-Lite, perl-Text-CSV\_XS, podman, postgresql17, postgresql18, python-pyOpenSSL, python310, rsync, sed, tekton-cli, valkey, xen, and zypper-docker).</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1073356/</guid>
+    </item>    <item>
+      <title>‘Garance’ Review: Adèle Exarchopolous Steals The Limelight In A Lightweight Story Of Alcohol Addiction – Cannes Film Festival</title>
+      <link>https://deadline.com/2026/05/garance-review-adele-exarchopolous-jeanne-herry-cannes-1236914252/</link>
+      <description>
+        <![CDATA[This year’s Cannes Film Festival has been good for actresses across the board, and if the percentage of female directors doesn’t seem to be moving very far forward, the types of female-fronted story reaching the Competition are definitely progressing. Jeanne Herry’s Garance — also known by the rather less alluring title Another Day — gets [&#8230;]]]>
+      </description>
+      <source:markdown>This year’s Cannes Film Festival has been good for actresses across the board, and if the percentage of female directors doesn’t seem to be moving very far forward, the types of female-fronted story reaching the Competition are definitely progressing. Jeanne Herry’s Garance — also known by the rather less alluring title Another Day — gets \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914252</guid>
+    </item>    <item>
+      <title>Cate Blanchett’s Displacement Film Fund To Support Short Films By Mo Amer, Annemarie Jacir, Rithy Panh, Akuol de Mabior &#38; Bao Nguyen</title>
+      <link>https://deadline.com/2026/05/cate-blanchetts-displacement-film-fund-to-support-short-films-by-mo-amer-annemarie-jacir-rithy-panh-akuol-de-mabior-bao-nguyen-1236914277/</link>
+      <description>
+        <![CDATA[Cate Blanchett has announced that her Displacement Film Fund (DFF) will be getting behind short films by Mo Amer, Annemarie Jacir, Akuol de Mabior, Rithy Panh and Bao Nguyen in a press conference at the Cannes Film Festival Palestinian American comedian-writer-director Amer, who is best known for his Mo Amer Netflix shows as well as [&#8230;]]]>
+      </description>
+      <source:markdown>Cate Blanchett has announced that her Displacement Film Fund (DFF) will be getting behind short films by Mo Amer, Annemarie Jacir, Akuol de Mabior, Rithy Panh and Bao Nguyen in a press conference at the Cannes Film Festival Palestinian American comedian-writer-director Amer, who is best known for his Mo Amer Netflix shows as well as \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914277</guid>
+    </item>    <item>
+      <title>Owning the Machine Is Not Enough</title>
+      <link>https://semanticallyspeaking.substack.com/p/owning-the-machine-is-not-enough</link>
+      <description>
+        <![CDATA[Sovereign Artificial Intelligence, semantic infrastructure, and the map beneath the model]]>
+      </description>
+      <source:markdown>Sovereign Artificial Intelligence, semantic infrastructure, and the map beneath the model</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!4zf9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d3261db-963d-4e25-b0ea-4c5650c9cfc4_1672x941.png" length="0" type="image/jpeg" />
+      <guid>cid://https://semanticallyspeaking.substack.com/p/owning-the-machine-is-not-enough</guid>
+    </item>    <item>
+      <title>Italian Market MIA Sets Out 2026 Agenda With Animation Track &#38; European Financing Hub</title>
+      <link>https://deadline.com/2026/05/italian-market-2026-agenda-animation-european-financing-1236914295/</link>
+      <description>
+        <![CDATA[Italy&#8217;s MIA will this year include tracks on animation series and an international financing hub. The Rome market and conference, held this year on October 19-23, unveiled its highlights today at a press conference at the Cannes Film Festival, where minister Lucia Borgonzoni was among those speaking to delegates and press. New for this year&#8217;s [&#8230;]]]>
+      </description>
+      <source:markdown>Italy’s MIA will this year include tracks on animation series and an international financing hub. The Rome market and conference, held this year on October 19-23, unveiled its highlights today at a press conference at the Cannes Film Festival, where minister Lucia Borgonzoni was among those speaking to delegates and press. New for this year’s \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914295</guid>
+    </item>    <item>
+      <title>Korean Director Na Hong-Jin Hopes For ‘Hope’ Sequel – Cannes</title>
+      <link>https://deadline.com/2026/05/cannes-hope-sequel-1236914298/</link>
+      <description>
+        <![CDATA[&#8220;I will make a sequel when possible,&#8221; said Korean director Na Hong-Jin at this afternoon&#8217;s Cannes press conference for the film. The sci-fi action movie made its world premiere last night at the fest to a seven-minute standing ovation. While the three protagonists are played by Korean actors, the family of extraterrestrial bad guys are [&#8230;]]]>
+      </description>
+      <source:markdown>“I will make a sequel when possible,” said Korean director Na Hong-Jin at this afternoon’s Cannes press conference for the film. The sci-fi action movie made its world premiere last night at the fest to a seven-minute standing ovation. While the three protagonists are played by Korean actors, the family of extraterrestrial bad guys are \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236914298</guid>
+    </item>    <item>
+      <title>Zero-Day Exploit Against Windows BitLocker</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html</link>
+      <description>
+        <![CDATA[<p>It&#8217;s <a href="https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/">nasty</a>, but it requires physical access to the computer:</p>
+        <blockquote><p>The exploit, named YellowKey, was <a href="https://github.com/Nightmare-Eclipse/YellowKey">published</a> earlier this week by a researcher who goes by the alias Nightmare-Eclipse. It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption protection Microsoft provides to make disk contents off-limits to anyone without the decryption key, which is stored in a secured piece of hardware known as a trusted platform module (TPM). BitLocker is a mandatory protection for many organizations, including those that contract with governments...</p></blockquote>]]>
+      </description>
+      <source:markdown>It’s [nasty](https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/), but it requires physical access to the computer:
+
+&#62; The exploit, named YellowKey, was [published](https://github.com/Nightmare-Eclipse/YellowKey) earlier this week by a researcher who goes by the alias Nightmare-Eclipse. It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption protection Microsoft provides to make disk contents off-limits to anyone without the decryption key, which is stored in a secured piece of hardware known as a trusted platform module (TPM). BitLocker is a mandatory protection for many organizations, including those that contract with governments...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72063</guid>
+    </item>    <item>
+      <title>Xi and Putin Reach Agreement on Joint Ownership of Trump</title>
+      <link>https://www.borowitzreport.com/p/xi-and-putin-reach-agreement-on-joint</link>
+      <description>
+        <![CDATA[According to sources familiar with the deal, the two leaders struck a timeshare arrangement.]]>
+      </description>
+      <source:markdown>According to sources familiar with the deal, the two leaders struck a timeshare arrangement.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!TZ2-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F059bd4f8-bcdb-4378-bc5f-567b322810a0_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/xi-and-putin-reach-agreement-on-joint</guid>
+    </item>    <item>
+      <title>Something Old and Something New: International Law Under Trump 2.0</title>
+      <link>https://lpeproject.org/blog/something-old-and-something-new-international-law-under-trump-2-0/</link>
+      <description>
+        <![CDATA[The United States’ turn toward naked coercion and transactional deal-making represents both a genuine departure from its commitment to the liberal international legal order and the culmination of that order’s internal contradictions.]]>
+      </description>
+      <source:markdown>The United States’ turn toward naked coercion and transactional deal-making represents both a genuine departure from its commitment to the liberal international legal order and the culmination of that order’s internal contradictions.</source:markdown>
+      <guid>cid://https://lpeproject.org/?p=12340</guid>
+    </item>    <item>
+      <title>Your Most Improbable Life</title>
+      <link>https://kk.org/thetechnium/your-most-improbable-life/</link>
+      <description>
+        <![CDATA[Your life’s goal should be to become the most improbable person you can be. Your path, your character, your life, should be the most unlikely, the most unexpected, the least predictable version you can make. Improbable lives have fewer competitors, &#8230; <a href="https://kk.org/thetechnium/your-most-improbable-life/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Your life’s goal should be to become the most improbable person you can be. Your path, your character, your life, should be the most unlikely, the most unexpected, the least predictable version you can make. Improbable lives have fewer competitors, … [Continue reading →](https://kk.org/thetechnium/your-most-improbable-life/)</source:markdown>
+      <guid>cid://https://kk.org/thetechnium/?p=8139</guid>
+    </item>    <item>
+      <title>A Tale of Thucydides</title>
+      <link>https://paulkrugman.substack.com/p/a-tale-of-thucydides</link>
+      <description>
+        <![CDATA[China shouldn&#8217;t worry &#8212; Trump is too weak and unfocused to be a threat]]>
+      </description>
+      <source:markdown>China shouldn’t worry — Trump is too weak and unfocused to be a threat</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!GSbU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2c7c709-8935-40a2-9aa3-4243ec1be11c_709x473.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/a-tale-of-thucydides</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: May 18, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-may-18-2026/</link>
+      <description>
+        <![CDATA[Here are 15 great gifts for the graduating English major in your life. &#124; Lit Hub Katherine Kelaidis explains why you should be reading Russian dissident literature. &#124; Lit Hub Criticism How ’70’s soap opera Mary Hartman, Mary Hartman made]]>
+      </description>
+      <source:markdown>Here are 15 great gifts for the graduating English major in your life. \| Lit Hub Katherine Kelaidis explains why you should be reading Russian dissident literature. \| Lit Hub Criticism How ’70’s soap opera Mary Hartman, Mary Hartman made</source:markdown>
+      <guid>cid://https://lithub.com/?p=271599</guid>
+    </item>    <item>
+      <title>Trump goes to China, without any cards</title>
+      <link>https://www.publicnotice.co/p/trump-china-summit-failure</link>
+      <description>
+        <![CDATA[It's enough to make the Nixon era seem like the good old days.]]>
+      </description>
+      <source:markdown>It&#39;s enough to make the Nixon era seem like the good old days.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!G4Rb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77830658-a513-4646-b55e-c38583e23577_2800x1866.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/trump-china-summit-failure</guid>
+    </item>    <item>
+      <title>OVCS: Raspberry Pi–powered electric car</title>
+      <link>https://www.raspberrypi.com/news/ovcs-raspberry-pi-powered-electric-car/</link>
+      <description>
+        <![CDATA[<p>This Maker Monday, we've gone big with this Raspberry Pi–powered electric 'Frankencar' made up of different vendors' parts.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/ovcs-raspberry-pi-powered-electric-car/">OVCS: Raspberry Pi–powered electric car</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>This Maker Monday, we&#39;ve gone big with this Raspberry Pi–powered electric &#39;Frankencar&#39; made up of different vendors&#39; parts.
+
+The post [OVCS: Raspberry Pi–powered electric car](https://www.raspberrypi.com/news/ovcs-raspberry-pi-powered-electric-car/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=137209</guid>
+    </item>    <item>
+      <title>Web whetstones</title>
+      <link>https://dbushell.com/2026/05/18/web-whetstone/</link>
+      <description>
+        <![CDATA[How do you stay sharp as a web developer and/or designer? I’ll share my advice below. I’m also looking for front-end folk to advise me too. What are your whetstones? That is to say: sources of news and knowledge to level up professionally. Does that metaphor work? […]]]>
+      </description>
+      <source:markdown>How do you stay sharp as a web developer and/or designer? I’ll share my advice below. I’m also looking for front-end folk to advise me too. What are your whetstones? That is to say: sources of news and knowledge to level up professionally. Does that metaphor work? \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2026/05/18/web-whetstone/</guid>
+    </item>    <item>
+      <title>SHPILKES</title>
+      <link>https://jacobsonh.substack.com/p/shpilkes</link>
+      <description>
+        <![CDATA[BEING THE FIRST IN AN OCCASIONAL SERIES CELEBRATING THE MUSICAL AND PSYCHOLOGICAL APTNESS OF YIDDISH]]>
+      </description>
+      <source:markdown>BEING THE FIRST IN AN OCCASIONAL SERIES CELEBRATING THE MUSICAL AND PSYCHOLOGICAL APTNESS OF YIDDISH</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1621711678457-a314cede97d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2M3x8c2V3aW5nJTIwbmVlZGxlc3xlbnwwfHx8fDE3NzkwOTQ0NDN8MA&ixlib=rb-4.1.0&q=80&w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://jacobsonh.substack.com/p/shpilkes</guid>
+    </item>    <item>
+      <title>15 Graduation Gifts for English Majors</title>
+      <link>https://lithub.com/15-graduation-gifts-for-english-majors/</link>
+      <description>
+        <![CDATA[It&#8217;s graduation season. If you happen to have a favorite English major about to burst forth into the hard-scrabble, AI-invested, job-scarce media apocalypse, we salute you. But mostly them. If you&#8217;d like to celebrate their accomplishments and give them a]]>
+      </description>
+      <source:markdown>It’s graduation season. If you happen to have a favorite English major about to burst forth into the hard-scrabble, AI-invested, job-scarce media apocalypse, we salute you. But mostly them. If you’d like to celebrate their accomplishments and give them a</source:markdown>
+      <guid>cid://https://lithub.com/?p=271112</guid>
+    </item>    <item>
+      <title>Beyond Man U: One Man’s Journey Into the Depths of English Football’s Lower Divisions</title>
+      <link>https://lithub.com/beyond-man-u-one-mans-journey-into-the-depths-of-english-footballs-lower-divisions/</link>
+      <description>
+        <![CDATA[I was baptized into the sport of soccer during the raucous days of the North American Soccer League (NASL) when my dad, Gary Smith, was the head athletic trainer of the Minnesota Kicks. In the late seventies, the NASL was]]>
+      </description>
+      <source:markdown>I was baptized into the sport of soccer during the raucous days of the North American Soccer League (NASL) when my dad, Gary Smith, was the head athletic trainer of the Minnesota Kicks. In the late seventies, the NASL was</source:markdown>
+      <guid>cid://https://lithub.com/?p=271348</guid>
+    </item>    <item>
+      <title>Translator Beware: On the Myth of the Finicky English Reader</title>
+      <link>https://lithub.com/translator-beware-on-the-myth-of-the-finicky-english-reader/</link>
+      <description>
+        <![CDATA[When I started my career as a professional literary translator, I began coming up against a mysterious “English reader” whom academics and editors kept referring to when they looked over my work, leaving comments like, “the English reader will find]]>
+      </description>
+      <source:markdown>When I started my career as a professional literary translator, I began coming up against a mysterious “English reader” whom academics and editors kept referring to when they looked over my work, leaving comments like, “the English reader will find</source:markdown>
+      <guid>cid://https://lithub.com/?p=271379</guid>
+    </item>    <item>
+      <title>Writing in Exile: Why Russian Dissident Literature Demands Our Attention</title>
+      <link>https://lithub.com/writing-in-exile-why-russian-dissident-literature-demands-our-attention/</link>
+      <description>
+        <![CDATA[Recently, in a small bookshop in Paris (it is, in fact, called La Petite Librairie), I found my way to what was a shockingly wide selection of foreign books in French translation. I browsed through the titles by Spanish and]]>
+      </description>
+      <source:markdown>Recently, in a small bookshop in Paris (it is, in fact, called La Petite Librairie), I found my way to what was a shockingly wide selection of foreign books in French translation. I browsed through the titles by Spanish and</source:markdown>
+      <guid>cid://https://lithub.com/?p=271589</guid>
+    </item>    <item>
+      <title>How Mary Hartman, Mary Hartman Redefined Daytime Television</title>
+      <link>https://lithub.com/how-mary-hartman-mary-hartman-redefined-daytime-television/</link>
+      <description>
+        <![CDATA[It was a breakdown unlike any the soaps had seen. A housewife named Mary Hartman had accepted an invitation to appear on The David Susskind Show, a decision that she likely did not anticipate would end in disaster. A resident]]>
+      </description>
+      <source:markdown>It was a breakdown unlike any the soaps had seen. A housewife named Mary Hartman had accepted an invitation to appear on The David Susskind Show, a decision that she likely did not anticipate would end in disaster. A resident</source:markdown>
+      <guid>cid://https://lithub.com/?p=271336</guid>
+    </item>    <item>
+      <title>This Week in Literary History: James Joyce and Marcel Proust Meet for the First (and Only) Time</title>
+      <link>https://lithub.com/this-week-in-literary-history-james-joyce-and-marcel-proust-meet-for-the-first-and-only-time/</link>
+      <description>
+        <![CDATA[This first appeared in Lit Hub’s Literary History newsletter—sign up here. On May 18, 1922, the wealthy British art patrons Sydney and Violet Schiff hosted a dinner at the fashionable Hotel Majestic in Paris, ostensibly to celebrate Igor Stravinsky&#8217;s Renard, which had]]>
+      </description>
+      <source:markdown>This first appeared in Lit Hub’s Literary History newsletter—sign up here. On May 18, 1922, the wealthy British art patrons Sydney and Violet Schiff hosted a dinner at the fashionable Hotel Majestic in Paris, ostensibly to celebrate Igor Stravinsky’s Renard, which had</source:markdown>
+      <guid>cid://https://lithub.com/?p=271477</guid>
+    </item>    <item>
+      <title>What’s Next For Nation-States? On the Past, Present and Future of the World As We Know It</title>
+      <link>https://lithub.com/whats-next-for-nation-states-on-the-past-present-and-future-of-the-world-as-we-know-it/</link>
+      <description>
+        <![CDATA[“[Revolutionary tracts tend] to become mere annals of complaints about existing conditions&#8230;I thought, on the contrary, that a revolutionary paper must be&#8230;a record of those symptoms which everywhere announce the coming of a new era, the germination of new forms]]>
+      </description>
+      <source:markdown>“\[Revolutionary tracts tend\] to become mere annals of complaints about existing conditions…I thought, on the contrary, that a revolutionary paper must be…a record of those symptoms which everywhere announce the coming of a new era, the germination of new forms</source:markdown>
+      <guid>cid://https://lithub.com/?p=271344</guid>
+    </item>    <item>
+      <title>Navigating the Coming-of-Illness Narrative</title>
+      <link>https://lithub.com/navigating-the-coming-of-illness-narrative/</link>
+      <description>
+        <![CDATA[It can come on you suddenly or gradually: a tsunami or the slowly rising seas eating away at the shoreline till the topography is no longer recognizable. One day you simply wake up underwater, trying desperately not to drown. I]]>
+      </description>
+      <source:markdown>It can come on you suddenly or gradually: a tsunami or the slowly rising seas eating away at the shoreline till the topography is no longer recognizable. One day you simply wake up underwater, trying desperately not to drown. I</source:markdown>
+      <guid>cid://https://lithub.com/?p=271422</guid>
+    </item>    <item>
+      <title>Alice and Me: How My Struggle With Cancer Mirrored My Protagonist’s</title>
+      <link>https://lithub.com/alice-and-me-how-my-struggle-with-cancer-mirrored-my-protagonists/</link>
+      <description>
+        <![CDATA[I was supposed to have my mammogram months before. But I was writing a new novel—and so deeply steeped in it, gunning for my deadline, that I felt I couldn&#8217;t take the time for a routine screening. Then, in February,]]>
+      </description>
+      <source:markdown>I was supposed to have my mammogram months before. But I was writing a new novel—and so deeply steeped in it, gunning for my deadline, that I felt I couldn’t take the time for a routine screening. Then, in February,</source:markdown>
+      <guid>cid://https://lithub.com/?p=271340</guid>
+    </item>    <item>
+      <title>Has Trump&#39;s Republican Party Become a Criminal Enterprise?</title>
+      <link>https://robertreich.substack.com/p/is-trumps-republican-party-now-a</link>
+      <description>
+        <![CDATA[Trump's purge of all political opponents, including Senator Bill Cassidy, leaves it with no purpose other than helping Trump achieve his lawless goals]]>
+      </description>
+      <source:markdown>Trump&#39;s purge of all political opponents, including Senator Bill Cassidy, leaves it with no purpose other than helping Trump achieve his lawless goals</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!DALZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F878dc9ea-9ee3-4699-90a7-31ac836d18f6_1080x684.avif" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/is-trumps-republican-party-now-a</guid>
+    </item>    <item>
+      <title>May 17, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/may-17-2026</link>
+      <description>
+        <![CDATA[Thousands of people gathered today on the National Mall in Washington, D.C., to engage in an eight-hour taxpayer-funded evangelical worship event to &#8220;rededicate&#8221; the nation to Christianity.]]>
+      </description>
+      <source:markdown>Thousands of people gathered today on the National Mall in Washington, D.C., to engage in an eight-hour taxpayer-funded evangelical worship event to “rededicate” the nation to Christianity.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/may-17-2026</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3mm3nykbbpk2h</link>
+      <description>
+        <![CDATA[Yesterday, a new generation of civil rights activists marched from Selma to Montgomery to fight for voting rights. As states across the country try to make it harder for citizens to be heard, we need to learn the lessons of those who came before us and refuse to take our democracy for granted.
+        https://alabamareflector.com/2026/05/16/thousands-attend-protests-in-selma-and-montgomery-for-voting-rights/]]>
+      </description>
+      <source:markdown>Yesterday, a new generation of civil rights activists marched from Selma to Montgomery to fight for voting rights. As states across the country try to make it harder for citizens to be heard, we need to learn the lessons of those who came before us and refuse to take our democracy for granted.
+https://alabamareflector.com/2026/05/16/thousands-attend-protests-in-selma-and-montgomery-for-voting-rights/</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3mm3nykbbpk2h</guid>
+    </item>    <item>
+      <title>UnderPOWERed</title>
+      <link>http://jirka.1-2-8.net/20260518-0241_UnderPOWERed</link>
+      <description>
+        <![CDATA[Well, the upgrade  to Fedora 42 ppc64le failed on  my Blackbird. So I'm in the situation why  my system does not boot (at all).  I will have to open it, enable internal  VGA and see what I can  do. In meantimee, I'm on my MNT  notebooks (ARM/Linux). Not that bad unless  my Debian update failed today, too. I will see,...]]>
+      </description>
+      <source:markdown>Well, the upgrade to Fedora 42 ppc64le failed on my Blackbird. So I&#39;m in the situation why my system does not boot (at all). I will have to open it, enable internal VGA and see what I can do. In meantimee, I&#39;m on my MNT notebooks (ARM/Linux). Not that bad unless my Debian update failed today, too. I will see,...</source:markdown>
+      <guid>cid://4394842d4211eba6aaa04dc027c95ad3</guid>
+    </item>    <item>
+      <title>Playing with Tcl/Tk  (warning: AI)</title>
+      <link>http://jirka.1-2-8.net/20260518-0241_Playing_with_Tcl_Tk_warning_AI</link>
+      <description>
+        <![CDATA[Do you remember the Tcl/Tk  {sup}1{/sup}? It's a programming language (originally make as  a LISP which  does not  look as a  LISP so it  shouldn't scare people) and of course an interpreter.  It was very popular in late 1990 and early  2000s because it  have included on  only the "tclsh"  (a Tcl shell) but also the "wish" (Windowin Shell)  - a nice thing to make GUI in the  Linux easily (in  reality, it ahs  been ported and  used almost everywhere  including Windows,  classic and  modern Macintoshes  and so on). It  also was the  default GUI toolkit for  the Python (I  think it still is?).]]>
+      </description>
+      <source:markdown>Do you remember the Tcl/Tk {sup}1{/sup}? It&#39;s a programming language (originally make as a LISP which does not look as a LISP so it shouldn&#39;t scare people) and of course an interpreter. It was very popular in late 1990 and early 2000s because it have included on only the &#34;tclsh&#34; (a Tcl shell) but also the &#34;wish&#34; (Windowin Shell) - a nice thing to make GUI in the Linux easily (in reality, it ahs been ported and used almost everywhere including Windows, classic and modern Macintoshes and so on). It also was the default GUI toolkit for the Python (I think it still is?).</source:markdown>
+      <guid>cid://075cc1fe04bac50ca4a55d4b22cf8777</guid>
+    </item>    <item>
+      <title>Episode 182 - Spinning Memories</title>
+      <link>https://adventofcomputing.libsyn.com/episode-182-spinning-memories</link>
+      <description>
+        <![CDATA[<p>What connects IBM, the NSA, the Third Reich, and high fidelity recordings of symphonies? The answer is: magnetic drum memory. Join me as I lose all track of scope and plot to discovery just how and why magnetic drum memory was invented.</p> <p>Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: <a href= "https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC" target="_blank" rel="noopener">YouTube</a> <a href= "https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31" target= "_blank" rel="noopener">Spotify</a> <a href= "https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630" target="_blank" rel="noopener"><u>Apple Podcasts</u></a></p>]]>
+      </description>
+      <source:markdown>What connects IBM, the NSA, the Third Reich, and high fidelity recordings of symphonies? The answer is: magnetic drum memory. Join me as I lose all track of scope and plot to discovery just how and why magnetic drum memory was invented.
+
+Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: [YouTube](https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC) [Spotify](https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31) [Apple Podcasts](https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630)</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep182_spinning_memories.mp3?dest-id=1206722" length="56402360" type="audio/mpeg" />
+      <guid>cid://7e217443-360e-4d2d-9f9b-66cb5824c001</guid>
+    </item>    <item>
+      <title>Chairing the Closing Keynote at IIPC 2026</title>
+      <link>https://basilesimon.fr/blog/iipc-2026-closing-keynote?campaign=rss</link>
+      <description>
+        <![CDATA[<p>I had the privilege of chairing <a href="https://netpreserve.org/ga2026/keynotes/">the closing keynote</a> of the 2026 <a href="https://netpreserve.org/">IIPC Web Archiving Conference</a> in Brussels, hosted at the grand <a href="https://www.kbr.be/en/">KBR (Royal Library of Belgium)</a>.</p>
+        <p>The panel I convened brought a fresh angle to a community traditionally rooted in cultural heritage: using web archiving for open source investigations and accountability. It&rsquo;s a perspective that doesn&rsquo;t often share a stage with the librarians, curators, and archivists who form the backbone of IIPC — and that&rsquo;s exactly what made the conversation valuable.</p>]]>
+      </description>
+      <source:markdown>I had the privilege of chairing [the closing keynote](https://netpreserve.org/ga2026/keynotes/) of the 2026 [IIPC Web Archiving Conference](https://netpreserve.org/) in Brussels, hosted at the grand [KBR (Royal Library of Belgium)](https://www.kbr.be/en/).
+
+The panel I convened brought a fresh angle to a community traditionally rooted in cultural heritage: using web archiving for open source investigations and accountability. It’s a perspective that doesn’t often share a stage with the librarians, curators, and archivists who form the backbone of IIPC — and that’s exactly what made the conversation valuable.</source:markdown>
+      <guid>cid://https://basilesimon.fr/blog/iipc-2026-closing-keynote/</guid>
+    </item>    <item>
+      <title>On Graham Platner</title>
+      <link>https://dbarkhuff.substack.com/p/on-graham-platner</link>
+      <description>
+        <![CDATA[I drove eight hours round trip today to Maine to introduce Graham Platner for about ninety seconds.]]>
+      </description>
+      <source:markdown>I drove eight hours round trip today to Maine to introduce Graham Platner for about ninety seconds.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!tEtG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8943ada3-17de-4f5d-8155-f2bed47f9ad8_724x924.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/on-graham-platner</guid>
+    </item>    <item>
+      <title>Monday 18 May,2026</title>
+      <link>https://memex.naughtons.org/monday-18-may2026/42099/</link>
+      <description>
+        <![CDATA[Oi! Where’s our grub? We have a bird box in our garden which is used every year by Blue Tits. On Saturday I noticed that the fledglings were getting shirty about the Deliveroo service being provided by their (exhausted) parents. &#8230; <a href="https://memex.naughtons.org/monday-18-may2026/42099/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Oi! Where’s our grub? We have a bird box in our garden which is used every year by Blue Tits. On Saturday I noticed that the fledglings were getting shirty about the Deliveroo service being provided by their (exhausted) parents. … [Continue reading →](https://memex.naughtons.org/monday-18-may2026/42099/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=42099</guid>
+    </item>    <item>
+      <title>A Markdown-based test suite</title>
+      <link>https://blogsystem5.substack.com/p/markdown-based-test-suite</link>
+      <description>
+        <![CDATA[The background behind a new test suite for a compiler and a VM where test scenarios are all written in Markdown for both human and AI consumption]]>
+      </description>
+      <source:markdown>The background behind a new test suite for a compiler and a VM where test scenarios are all written in Markdown for both human and AI consumption</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!aFRI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d4e26f9-0dde-4faf-a5a3-30941f7885d5_1129x844.png" length="0" type="image/jpeg" />
+      <guid>cid://https://blogsystem5.substack.com/p/markdown-based-test-suite</guid>
+    </item>    <item>
+      <title>Kernel prepatch 7.1-rc4</title>
+      <link>https://lwn.net/Articles/1073193/</link>
+      <description>
+        <![CDATA[The <a href="https://lwn.net/Articles/1073192/">7.1-rc4</a> kernel prepatch is out for
+        testing.
+        <p>
+        <blockquote class="bq">
+        	Some of the documentation updates might be worth highlighting: the
+        	continued flood of AI reports has basically made the security list
+        	almost entirely unmanageable, with enormous duplication due to
+        	different people finding the same things with the same
+        	tools. People spend all their time just forwarding things to the
+        	right people or saying "that was already fixed a week/month ago"
+        	and pointing to the public discussion.
+        <p>
+        	Which is all entirely pointless churn, and we're making it clear
+        	that AI detected bugs are pretty much by definition not secret, and
+        	treating them on some private list is a waste of time for everybody
+        	involved - and only makes that duplication worse because the
+        	reporters can't even see each other's reports.
+        </blockquote>
+        <p>
+        (He is referring to <a href="https://lwn.net/ml/all/87lddksslx.fsf@trenco.lwn.net/">this
+        pull request</a> with patches from Willy Tarreau defining <a
+        href="https://lwn.net/ml/all/20260509094755.2838-3-w@1wt.eu/">what constitutes a security
+        bug</a> and <a href="https://lwn.net/ml/all/20260509094755.2838-4-w@1wt.eu/">responsible
+        ways to use AI to find bugs</a>).]]>
+      </description>
+      <source:markdown>The [7.1-rc4](https://lwn.net/Articles/1073192/) kernel prepatch is out for
+testing.
+
+&#62; Some of the documentation updates might be worth highlighting: the
+&#62;  continued flood of AI reports has basically made the security list
+&#62;  almost entirely unmanageable, with enormous duplication due to
+&#62;  different people finding the same things with the same
+&#62;  tools. People spend all their time just forwarding things to the
+&#62;  right people or saying &#34;that was already fixed a week/month ago&#34;
+&#62;  and pointing to the public discussion.
+&#62;
+&#62; Which is all entirely pointless churn, and we&#39;re making it clear
+&#62; that AI detected bugs are pretty much by definition not secret, and
+&#62; treating them on some private list is a waste of time for everybody
+&#62; involved - and only makes that duplication worse because the
+&#62; reporters can&#39;t even see each other&#39;s reports.
+
+(He is referring to [this\
+pull request](https://lwn.net/ml/all/87lddksslx.fsf@trenco.lwn.net/) with patches from Willy Tarreau defining [what constitutes a security\
+bug](https://lwn.net/ml/all/20260509094755.2838-3-w@1wt.eu/) and [responsible\
+ways to use AI to find bugs](https://lwn.net/ml/all/20260509094755.2838-4-w@1wt.eu/)).</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1073193/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/05/17.html#a210705</link>
+      <description>
+        <![CDATA[Jon Stewart is usually pretty good, but I think he got it wrong when he says the AI companies are stealing journalists' knowledge. Imho they don't create knowledge, they report it. The knowledge isn't theirs to own, and that is for the times there is actually any new stuff. They stick to a few main stories, and still insist that the upcoming election is about the economy. They talk about the $1.7 billion slush fund, but aren't reporting every day in every story how much money we've given ICE. That big funding is going to the concentration camps they're building, the people the incarcerate  we hear so little of. This is a government that shot two people in Minnesota, on camera, and shrugged it off. Imagine what horrors are going on out of site in the camps.]]>
+      </description>
+      <source:markdown>Jon Stewart is usually pretty good, but I think he got it wrong when he says the AI companies are stealing journalists&#39; knowledge. Imho they don&#39;t create knowledge, they report it. The knowledge isn&#39;t theirs to own, and that is for the times there is actually any new stuff. They stick to a few main stories, and still insist that the upcoming election is about the economy. They talk about the $1.7 billion slush fund, but aren&#39;t reporting every day in every story how much money we&#39;ve given ICE. That big funding is going to the concentration camps they&#39;re building, the people the incarcerate we hear so little of. This is a government that shot two people in Minnesota, on camera, and shrugged it off. Imagine what horrors are going on out of site in the camps.</source:markdown>
+      <guid>cid://http://scripting.com/2026/05/17.html#a210705</guid>
+    </item>    <item>
+      <title>Sunday caption contest: The Show</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-the-show</link>
+      <description>
+        <![CDATA[And last week's winner]]>
+      </description>
+      <source:markdown>And last week&#39;s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!sGjt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f6b04e2-8b08-4af9-a6a1-32cf48b514f4_2581x2155.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-the-show</guid>
+    </item>    <item>
+      <title>RIP Peter G. Neumann</title>
+      <link>https://lwn.net/Articles/1073186/</link>
+      <description>
+        <![CDATA[We have <a
+        href="https://lwn.net/ml/all/CAEoi9W7rpLzdJzYJ3-F0KVJo-wQXa7UawUYtUoUUYy36m5e_3Q@mail.gmail.com">received
+        word</a> that Peter G. Neumann, who, among many other things, ran the <a
+        href="https://catless.ncl.ac.uk/Risks/">RISKS Digest</a> for decades, has
+        passed away.  He will be much missed.
+        <p>
+        <b>Update</b>: the New York Times has published <a
+        href="https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html">an
+        obituary</a> of Dr. Neuman.]]>
+      </description>
+      <source:markdown>We have [received\
+word](https://lwn.net/ml/all/CAEoi9W7rpLzdJzYJ3-F0KVJo-wQXa7UawUYtUoUUYy36m5e_3Q@mail.gmail.com) that Peter G. Neumann, who, among many other things, ran the [RISKS Digest](https://catless.ncl.ac.uk/Risks/) for decades, has
+passed away. He will be much missed.
+
+**Update**: the New York Times has published [an\
+obituary](https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html) of Dr. Neuman.</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1073186/</guid>
+    </item>    <item>
+      <title>Seeking God in Science part 8: Caring</title>
+      <link>https://blog.rongarret.info/2026/05/seeking-god-in-science-part-8-caring.html</link>
+      <description>
+        <![CDATA[In the previous installment in this series&nbsp;I introduced the concept of information, which I defined as correlations between states.&nbsp; Commenter Samuel (whose&nbsp;profile says he is a Young Earth Creationist)&nbsp;pointed out that:Shannon entropy implicitly requires a mind to decide which distinct 
+        states will be recognized in order to assign a value to "n" (where n is 
+        the number of]]>
+      </description>
+      <source:markdown>In the previous installment in this series I introduced the concept of information, which I defined as correlations between states.  Commenter Samuel (whose profile says he is a Young Earth Creationist) pointed out that:Shannon entropy implicitly requires a mind to decide which distinct
+states will be recognized in order to assign a value to &#34;n&#34; (where n is
+the number of</source:markdown>
+      <author>noreply@blogger.com (Ron)</author>
+      <guid>cid://tag:blogger.com,1999:blog-5592542.post-3507734731526475786</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/116591330328141690</link>
+      <description>
+        <![CDATA[<p>Short documentary “The True Story of Israel&#39;s Creation: Debunking Israel&#39;s Foundational Lies from Their Leaders&#39; Mouths”</p><p><a href="https://www.youtube.com/watch?v=qk55AwbXDaw" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">youtube.com/watch?v=qk55AwbXDaw</span><span class="invisible"></span></a></p>]]>
+      </description>
+      <source:markdown>Short documentary “The True Story of Israel&#39;s Creation: Debunking Israel&#39;s Foundational Lies from Their Leaders&#39; Mouths”
+
+[https://www.youtube.com/watch?v=qk55AwbXDaw](https://www.youtube.com/watch?v=qk55AwbXDaw)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/116591330328141690</guid>
+    </item>    <item>
+      <title>Sunday session</title>
+      <link>https://adactio.com/notes/22570</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22570/small.jpg" srcset="https://adactio.com/images/uploaded/22570/medium.jpg 1.5x, https://adactio.com/images/uploaded/22570/large.jpg 2.5x" alt="Sunday session" />
+        <p>Sunday session</p>]]>
+      </description>
+      <source:markdown>![Sunday session](https://adactio.com/images/uploaded/22570/small.jpg)
+
+Sunday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22570</guid>
+    </item>    <item>
+      <link>https://gizmodo.com/ex-google-ceo-eric-schmidt-fails-to-read-room-on-ai-gets-booed-to-oblivion-2000759763</link>
+      <description>
+        <![CDATA[<p>Ex-Google CEO Eric Schmidt Fails to Read Room on AI.</p>]]>
+      </description>
+      <source:markdown>Ex-Google CEO Eric Schmidt Fails to Read Room on AI.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/05/17/3779/</guid>
+    </item>    <item>
+      <title>Some weekend stable kernel updates</title>
+      <link>https://lwn.net/Articles/1073161/</link>
+      <description>
+        <![CDATA[The <a href="https://lwn.net/Articles/1073162/">7.0.9</a>,
+        <a href="https://lwn.net/Articles/1073163/">6.18.32</a>,
+        <a href="https://lwn.net/Articles/1073164/">6.12.90</a>, and
+        <a href="https://lwn.net/Articles/1073165/">6.6.140</a> stable kernels have been released.
+        Each contains yet another set of important fixes.]]>
+      </description>
+      <source:markdown>The [7.0.9](https://lwn.net/Articles/1073162/),
+[6.18.32](https://lwn.net/Articles/1073163/),
+[6.12.90](https://lwn.net/Articles/1073164/), and
+[6.6.140](https://lwn.net/Articles/1073165/) stable kernels have been released.
+Each contains yet another set of important fixes.</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1073161/</guid>
+    </item>    <item>
+      <link>https://www.telegraph.co.uk/gift/f01767c70bfbbe51</link>
+      <description>
+        <![CDATA[<p>Ukraine launches biggest attack on Moscow in a year.</p>]]>
+      </description>
+      <source:markdown>Ukraine launches biggest attack on Moscow in a year.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/05/17/3777/</guid>
+    </item>    <item>
+      <title>SB Day</title>
+      <link>https://doc.searls.com/2026/05/17/sb-day/</link>
+      <description>
+        <![CDATA[Coasting I&#39;m in Santa Barbara now, and it is typically perfect outside. Love living here, even though I mostly don&#39;t. Talk about dumb Last Thursday&#39;s post, titled Person Networks, was occasioned by outreach by a friend who urged me by email to join Intelligence.com, a slick new-ish thing with LinkedIn-like ambitions. Since then, others in [&#8230;]]]>
+      </description>
+      <source:markdown>Coasting I&#39;m in Santa Barbara now, and it is typically perfect outside. Love living here, even though I mostly don&#39;t. Talk about dumb Last Thursday&#39;s post, titled Person Networks, was occasioned by outreach by a friend who urged me by email to join Intelligence.com, a slick new-ish thing with LinkedIn-like ambitions. Since then, others in \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/05/17/sb-day/</guid>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-may-17</link>
+      <description>
+        <![CDATA[Democratic leadership is delivering major wins.]]>
+      </description>
+      <source:markdown>Democratic leadership is delivering major wins.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/6bc7a9c3-076d-4e61-a8d4-5c27b2ccc9da_1188x702.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-may-17</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/05/17.html#a161916</link>
+      <description>
+        <![CDATA[Today Claude found a problem that would only be uncovered if you knew that assigning to location.href didn't happen immediately. If it decides to redirect and then do a bunch of other stuff including making network references, the whole thing could (and did) come crashing down. I would have found that problem, but the actual error message the browser emitted made me think the problem was on the server not the client. The most complicated code in an app is the stuff it runs at startup when it's constructing the world of all its different pieces creating the virtuality expected by the great mass of code. It's the part that once it's working you don't even want to look at it and if you decide to rewrite it you might as well start over, only slightly exaggerating.]]>
+      </description>
+      <source:markdown>Today Claude found a problem that would only be uncovered if you knew that assigning to location.href didn&#39;t happen immediately. If it decides to redirect and then do a bunch of other stuff including making network references, the whole thing could (and did) come crashing down. I would have found that problem, but the actual error message the browser emitted made me think the problem was on the server not the client. The most complicated code in an app is the stuff it runs at startup when it&#39;s constructing the world of all its different pieces creating the virtuality expected by the great mass of code. It&#39;s the part that once it&#39;s working you don&#39;t even want to look at it and if you decide to rewrite it you might as well start over, only slightly exaggerating.</source:markdown>
+      <guid>cid://http://scripting.com/2026/05/17.html#a161916</guid>
+    </item>    <item>
+      <title>Trump Gets A Brutal New CBS Poll, WHO Declares Global Health Emergency, New Intvs W/Gov. Shapiro and Ohio&#39;s Amy Acton</title>
+      <link>https://www.hopiumchronicles.com/p/who-declares-global-health-emergency</link>
+      <description>
+        <![CDATA[Two big things to work on this week - flipping 2 GA Supreme Court seats and passing HR 2913, The Ukraine Support Act]]>
+      </description>
+      <source:markdown>Two big things to work on this week - flipping 2 GA Supreme Court seats and passing HR 2913, The Ukraine Support Act</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/73587372-f7a9-440d-aaef-b8774ea150f2_481x423.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/who-declares-global-health-emergency</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/05/17.html#a141738</link>
+      <description>
+        <![CDATA[<a href="https://www.youtube.com/shorts/oNF8g-2NfuM">Timothy Snyder</a> made an important point. Trump sees his cause as a religion and sees himself as god. So when someone who is unfairly punished by Trump says they're still glad they voted for him, because (I guess) if god is on the ballot, you have to vote for him.]]>
+      </description>
+      <source:markdown>[Timothy Snyder](https://www.youtube.com/shorts/oNF8g-2NfuM) made an important point. Trump sees his cause as a religion and sees himself as god. So when someone who is unfairly punished by Trump says they&#39;re still glad they voted for him, because (I guess) if god is on the ballot, you have to vote for him.</source:markdown>
+      <guid>cid://http://scripting.com/2026/05/17.html#a141738</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/05/17.html#a135922</link>
+      <description>
+        <![CDATA[I envision a network of twitter-like systems built out of the components of the web and nothing more. Every part replaceable.]]>
+      </description>
+      <source:markdown>I envision a network of twitter-like systems built out of the components of the web and nothing more. Every part replaceable.</source:markdown>
+      <guid>cid://http://scripting.com/2026/05/17.html#a135922</guid>
     </item>    <item>
       <title>Japan’s K2 Pictures Unveils $33M Fund &#38; Slate Additions Including Takashi Miike’s Kabuki Documentary</title>
       <link>https://deadline.com/2026/05/japan-k2-pictures-takashi-miike-shunji-iwai-hiroya-oku-1236907901/</link>
@@ -179,22 +809,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>Seventy-two years ago tomorrow, on May 17, 1954, the Supreme Court unanimously decided Brown v.</source:markdown>
       <guid>cid://https://heathercoxrichardson.substack.com/p/may-16-2026</guid>
-    </item>    <item>
-      <title>‘Saturday Night Live’ Wraps Season 51 With No Cast Goodbyes In Finale, Leaving Changes For Offseason</title>
-      <link>https://deadline.com/2026/05/saturday-night-live-season-51-finale-leaving-52-cast-changes-1236907003/</link>
-      <description>
-        <![CDATA[The host of the Saturday Night Live&#8216;s Season 51 finale, Will Ferrell, exemplifies the typical trajectory of a successful SNL cast member: He spent seven seasons on the NBC late-night comedy program before embarking on a big Hollywood career. Things have changed over the past decade, with popular cast members staying longer than the standard [&#8230;]]]>
-      </description>
-      <source:markdown>The host of the Saturday Night Live‘s Season 51 finale, Will Ferrell, exemplifies the typical trajectory of a successful SNL cast member: He spent seven seasons on the NBC late-night comedy program before embarking on a big Hollywood career. Things have changed over the past decade, with popular cast members staying longer than the standard \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236907003</guid>
-    </item>    <item>
-      <title>Tarek Al Arian Hits Cannes With Project Inspired by High Society Killer Marguerite Alibert &#38; Sons of Rizk Prequel</title>
-      <link>https://deadline.com/2026/05/tarek-al-arian-marguerite-alibert-sons-of-rizk-prequel-1236907789/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Tarek Al Arian,  who is best known for Arabic-language The Ladder and The Snake and Sons of Rizk franchises, is developing a drama about infamous early 20th Century French courtesan Marguerite Alibert. Alibert gained notoriety for her affair with the Prince of Wales, later King Edward VIII and then Duke of Windsor, in 1917 [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Tarek Al Arian,  who is best known for Arabic-language The Ladder and The Snake and Sons of Rizk franchises, is developing a drama about infamous early 20th Century French courtesan Marguerite Alibert. Alibert gained notoriety for her affair with the Prince of Wales, later King Edward VIII and then Duke of Windsor, in 1917 \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236907789</guid>
     </item>    <item>
       <title>Weekly Bookmarks</title>
       <link>https://inkdroid.org/2026/05/17/bookmarks/</link>
@@ -390,6 +1004,74 @@ This is the park where John deployed his weather station.
 
 Penny’s new vet!</source:markdown>
       <guid>cid://https://inkdroid.org/2026/05/17/bookmarks/</guid>
+    </item>    <item>
+      <title>None</title>
+      <link>https://inkdroid.org/2026/05/17/no/</link>
+      <description>
+        <![CDATA[<p>
+        There is no wind<br /> blowing here<br /> on my face<br /> cool from the
+        faraway sea.
+        </p>
+        <p>
+        I don’t see that tree<br /> green against blue<br /> blue behind green.
+        </p>
+        <p>
+        Boarding a train<br /> leaving a train<br /> no train.
+        </p>]]>
+      </description>
+      <source:markdown>There is no wind
+
+blowing here
+
+on my face
+
+cool from the
+faraway sea.
+
+I don’t see that tree
+
+green against blue
+
+blue behind green.
+
+Boarding a train
+
+leaving a train
+
+no train.</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/05/17/no/</guid>
+    </item>    <item>
+      <title>‘Saturday Night Live’ Wraps Season 51 With No Cast Goodbyes In Finale, Leaving Changes For Offseason</title>
+      <link>https://deadline.com/2026/05/saturday-night-live-season-51-finale-leaving-52-cast-changes-1236907003/</link>
+      <description>
+        <![CDATA[The host of the Saturday Night Live&#8216;s Season 51 finale, Will Ferrell, exemplifies the typical trajectory of a successful SNL cast member: He spent seven seasons on the NBC late-night comedy program before embarking on a big Hollywood career. Things have changed over the past decade, with popular cast members staying longer than the standard [&#8230;]]]>
+      </description>
+      <source:markdown>The host of the Saturday Night Live‘s Season 51 finale, Will Ferrell, exemplifies the typical trajectory of a successful SNL cast member: He spent seven seasons on the NBC late-night comedy program before embarking on a big Hollywood career. Things have changed over the past decade, with popular cast members staying longer than the standard \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236907003</guid>
+    </item>    <item>
+      <title>Tarek Al Arian Hits Cannes With Project Inspired by High Society Killer Marguerite Alibert &#38; Sons of Rizk Prequel</title>
+      <link>https://deadline.com/2026/05/tarek-al-arian-marguerite-alibert-sons-of-rizk-prequel-1236907789/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: Tarek Al Arian,  who is best known for Arabic-language The Ladder and The Snake and Sons of Rizk franchises, is developing a drama about infamous early 20th Century French courtesan Marguerite Alibert. Alibert gained notoriety for her affair with the Prince of Wales, later King Edward VIII and then Duke of Windsor, in 1917 [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: Tarek Al Arian,  who is best known for Arabic-language The Ladder and The Snake and Sons of Rizk franchises, is developing a drama about infamous early 20th Century French courtesan Marguerite Alibert. Alibert gained notoriety for her affair with the Prince of Wales, later King Edward VIII and then Duke of Windsor, in 1917 \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236907789</guid>
+    </item>    <item>
+      <title>Ambient Associative Memory</title>
+      <link>https://timkellogg.me/blog/2026/05/17/ambient-memory</link>
+      <description>
+        <![CDATA[Most agent memory waits to be queried. Ambient memory runs on every tool call — past lessons surface on their own, no rules list required.]]>
+      </description>
+      <source:markdown>Most agent memory waits to be queried. Ambient memory runs on every tool call — past lessons surface on their own, no rules list required.</source:markdown>
+      <guid>cid://https://timkellogg.me/blog/2026/05/17/ambient-memory</guid>
+    </item>    <item>
+      <title>Season of change</title>
+      <link>https://www.robinsloan.com/newsletters/season-of-change/</link>
+      <description>
+        <![CDATA[<p>A burst of support; books about Apple. <a href="https://www.robinsloan.com/newsletters/season-of-change/">Read here.</a></p>]]>
+      </description>
+      <source:markdown>A burst of support; books about Apple. [Read here.](https://www.robinsloan.com/newsletters/season-of-change/)</source:markdown>
+      <guid>cid://https://www.robinsloan.com/newsletters/season-of-change/</guid>
     </item>    <item>
       <title>i stopped looking for the weird problem</title>
       <link>http://scripting.com/2026/05/16/223608.html?title=iStoppedLookingForTheWeirdProblem</link>
@@ -1183,7 +1865,7 @@ As you can see, each day at [UX London](https://2026.uxlondon.com/) is crafted t
 If you haven’t got a ticket yet, [grab one now](https://2026.uxlondon.com/tickets/) before the standard pricing ends at midnight. And don’t forget that you can use the discount code [JOIN\_JEREMY](https://ti.to/clearleft/ux-london-2026/discount/JOIN_JEREMY) to get a tasty 20% off.</source:markdown>
       <guid>cid://https://adactio.com/journal/22567</guid>
     </item>    <item>
-      <title>[$] Controlling memory-management with BPF</title>
+      <title>[$] Controlling memory management with BPF</title>
       <link>https://lwn.net/Articles/1072538/</link>
       <description>
         <![CDATA[Roman Gushchin began his session in the memory-management track of the
@@ -6473,14 +7155,6 @@ like they do.</source:markdown>
       <source:markdown>Death to #2 Dentistry numbers your teeth. Number one is the top right back tooth. If you’ve got one, that’s a wisdom tooth, one of the four that erupted last through your gums. Your other top wisdom tooth is number sixteen. Below it, your bottom left wisdom tooth is number seventeen. The numbers continue around \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2026/05/12/toothday/</guid>
     </item>    <item>
-      <title>‘Teenage Sex And Death At Camp Miasma’ Director Jane Schoenbrun On Horror, Body Image And Being Starstruck By Gillian Anderson: “I Was A Huge ‘X-Files’ Obsessive. It Was My Life”</title>
-      <link>https://deadline.com/2026/05/jane-schoenbrun-teenage-sex-death-cannes-interview-1236879913/</link>
-      <description>
-        <![CDATA[Jane Schoenbrun made a splash at Sundance in 2021 with We’re All Going to the World’s Fair, a creepy low-budget horror about a young girl drawn into a nihilistic and potentially deadly online game of dares. Next came I Saw the TV Glow, the trippy, neon-hued story of two young people who bond over the [&#8230;]]]>
-      </description>
-      <source:markdown>Jane Schoenbrun made a splash at Sundance in 2021 with We’re All Going to the World’s Fair, a creepy low-budget horror about a young girl drawn into a nihilistic and potentially deadly online game of dares. Next came I Saw the TV Glow, the trippy, neon-hued story of two young people who bond over the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236879913</guid>
-    </item>    <item>
       <title>Force Multipliers</title>
       <link>https://cate.blog/2026/05/12/force-multipliers/</link>
       <description>
@@ -6488,6 +7162,14 @@ like they do.</source:markdown>
       </description>
       <source:markdown>It’s harder than ever to be an engineering manager. Fewer resources, higher expectations, and a public conversation actively questioning whether the role should exist at all. Less support than ever, in a job that already often felt hard and lonely. That’s why Jean and I built the Engineering Manager Survival Guide – and I’m so \[…\]</source:markdown>
       <guid>cid://https://cate.blog/?p=62709</guid>
+    </item>    <item>
+      <title>‘Teenage Sex And Death At Camp Miasma’ Director Jane Schoenbrun On Horror, Body Image And Being Starstruck By Gillian Anderson: “I Was A Huge ‘X-Files’ Obsessive. It Was My Life”</title>
+      <link>https://deadline.com/2026/05/jane-schoenbrun-teenage-sex-death-cannes-interview-1236879913/</link>
+      <description>
+        <![CDATA[Jane Schoenbrun made a splash at Sundance in 2021 with We’re All Going to the World’s Fair, a creepy low-budget horror about a young girl drawn into a nihilistic and potentially deadly online game of dares. Next came I Saw the TV Glow, the trippy, neon-hued story of two young people who bond over the [&#8230;]]]>
+      </description>
+      <source:markdown>Jane Schoenbrun made a splash at Sundance in 2021 with We’re All Going to the World’s Fair, a creepy low-budget horror about a young girl drawn into a nihilistic and potentially deadly online game of dares. Next came I Saw the TV Glow, the trippy, neon-hued story of two young people who bond over the \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236879913</guid>
     </item>    <item>
       <title>This year’s U.S. House elections will be least competitive on record</title>
       <link>https://www.gelliottmorris.com/p/2026-05-12-uncompetitive-seats</link>
@@ -8052,38 +8734,6 @@ Presidents come and go. Senate and house seat elected officials come and go. But
       <source:markdown>The artistic director of Millennium Docs Against Gravity in Poland is offering a rebuttal to Wim Wenders after the German director said filmmakers should “stay out of politics.” “I’m not going to take issue with the person that said it, but with the sentiment,” Karol Piekarczyk said on the opening night of the international documentary \[…\]</source:markdown>
       <guid>cid://https://deadline.com/?p=1236889375</guid>
     </item>    <item>
-      <title>Letting things build</title>
-      <link>https://tracydurnell.com/2026/05/09/letting-things-build/</link>
-      <description>
-        <![CDATA[This week I put together a reading list for my digital aura series. I recall starting to write around Thanksgiving &#8212; but when I looked back at my reading, I&#8217;d started reading for it months earlier. (No wonder it&#8217;s felt like such a big endeavor!) I&#8217;ve been thinking about taste for a while now, but [&#8230;]]]>
-      </description>
-      <source:markdown>This week I put together a reading list for my digital aura series. I recall starting to write around Thanksgiving — but when I looked back at my reading, I’d started reading for it months earlier. (No wonder it’s felt like such a big endeavor!) I’ve been thinking about taste for a while now, but \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=37036</guid>
-    </item>    <item>
-      <title>Fromday</title>
-      <link>https://doc.searls.com/2026/05/09/fromday/</link>
-      <description>
-        <![CDATA[That number is way too low California AG Bob Bonta writes, &#8220;On Friday, we announced a historic $12.75 million settlement against General Motors for illegally retaining and selling hundreds of thousands of Californians’ location and driving data to data brokers.&#8221; It&#8217;s coming down There are three great teams left in the NBA playoffs. The Knicks [&#8230;]]]>
-      </description>
-      <source:markdown>That number is way too low California AG Bob Bonta writes, “On Friday, we announced a historic $12.75 million settlement against General Motors for illegally retaining and selling hundreds of thousands of Californians’ location and driving data to data brokers.” It’s coming down There are three great teams left in the NBA playoffs. The Knicks \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2026/05/09/fromday/</guid>
-    </item>    <item>
-      <title>‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day &#38; Marcello Hernández As Kamikaze Dolphins</title>
-      <link>https://deadline.com/2026/05/snl-weekend-update-jeremy-culhane-tucker-carlson-met-gala-1236889336/</link>
-      <description>
-        <![CDATA[That&#8217;s the rule, that&#8217;s the goal now. After hitting the jackpot with newcomer Jeremy Culhane&#8217;s spot-on Tucker Carlson impression a month ago, Saturday Night Live&#8216;s Weekend Update opted for a redux — this time featuring the infamous Fox News commentator&#8217;s less-than-complimentary takes on the Met Gala. Pitching his voice up ever so slightly and interspersing [&#8230;]]]>
-      </description>
-      <source:markdown>That’s the rule, that’s the goal now. After hitting the jackpot with newcomer Jeremy Culhane’s spot-on Tucker Carlson impression a month ago, Saturday Night Live‘s Weekend Update opted for a redux — this time featuring the infamous Fox News commentator’s less-than-complimentary takes on the Met Gala. Pitching his voice up ever so slightly and interspersing \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236889336</guid>
-    </item>    <item>
-      <title>May 9, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/may-9-2026</link>
-      <description>
-        <![CDATA[If you google the history of Mother&#8217;s Day, the internet will tell you that Mother&#8217;s Day began in 1908 when Anna Jarvis decided to honor her mother.]]>
-      </description>
-      <source:markdown>If you google the history of Mother’s Day, the internet will tell you that Mother’s Day began in 1908 when Anna Jarvis decided to honor her mother.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/may-9-2026</guid>
-    </item>    <item>
       <title>Weekly Bookmarks</title>
       <link>https://inkdroid.org/2026/05/10/bookmarks/</link>
       <description>
@@ -8243,6 +8893,38 @@ now, FOSS has been conducted as a conversation, humans responding to
 other humans in the formal languages of code and project management, but
 increasingly it’s a conversation conducted between chatbots.1</source:markdown>
       <guid>cid://https://inkdroid.org/2026/05/10/bookmarks/</guid>
+    </item>    <item>
+      <title>Letting things build</title>
+      <link>https://tracydurnell.com/2026/05/09/letting-things-build/</link>
+      <description>
+        <![CDATA[This week I put together a reading list for my digital aura series. I recall starting to write around Thanksgiving &#8212; but when I looked back at my reading, I&#8217;d started reading for it months earlier. (No wonder it&#8217;s felt like such a big endeavor!) I&#8217;ve been thinking about taste for a while now, but [&#8230;]]]>
+      </description>
+      <source:markdown>This week I put together a reading list for my digital aura series. I recall starting to write around Thanksgiving — but when I looked back at my reading, I’d started reading for it months earlier. (No wonder it’s felt like such a big endeavor!) I’ve been thinking about taste for a while now, but \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=37036</guid>
+    </item>    <item>
+      <title>Fromday</title>
+      <link>https://doc.searls.com/2026/05/09/fromday/</link>
+      <description>
+        <![CDATA[That number is way too low California AG Bob Bonta writes, &#8220;On Friday, we announced a historic $12.75 million settlement against General Motors for illegally retaining and selling hundreds of thousands of Californians’ location and driving data to data brokers.&#8221; It&#8217;s coming down There are three great teams left in the NBA playoffs. The Knicks [&#8230;]]]>
+      </description>
+      <source:markdown>That number is way too low California AG Bob Bonta writes, “On Friday, we announced a historic $12.75 million settlement against General Motors for illegally retaining and selling hundreds of thousands of Californians’ location and driving data to data brokers.” It’s coming down There are three great teams left in the NBA playoffs. The Knicks \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/05/09/fromday/</guid>
+    </item>    <item>
+      <title>‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day &#38; Marcello Hernández As Kamikaze Dolphins</title>
+      <link>https://deadline.com/2026/05/snl-weekend-update-jeremy-culhane-tucker-carlson-met-gala-1236889336/</link>
+      <description>
+        <![CDATA[That&#8217;s the rule, that&#8217;s the goal now. After hitting the jackpot with newcomer Jeremy Culhane&#8217;s spot-on Tucker Carlson impression a month ago, Saturday Night Live&#8216;s Weekend Update opted for a redux — this time featuring the infamous Fox News commentator&#8217;s less-than-complimentary takes on the Met Gala. Pitching his voice up ever so slightly and interspersing [&#8230;]]]>
+      </description>
+      <source:markdown>That’s the rule, that’s the goal now. After hitting the jackpot with newcomer Jeremy Culhane’s spot-on Tucker Carlson impression a month ago, Saturday Night Live‘s Weekend Update opted for a redux — this time featuring the infamous Fox News commentator’s less-than-complimentary takes on the Met Gala. Pitching his voice up ever so slightly and interspersing \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236889336</guid>
+    </item>    <item>
+      <title>May 9, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/may-9-2026</link>
+      <description>
+        <![CDATA[If you google the history of Mother&#8217;s Day, the internet will tell you that Mother&#8217;s Day began in 1908 when Anna Jarvis decided to honor her mother.]]>
+      </description>
+      <source:markdown>If you google the history of Mother’s Day, the internet will tell you that Mother’s Day began in 1908 when Anna Jarvis decided to honor her mother.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/may-9-2026</guid>
     </item>    <item>
       <title>‘Saturday Night Live’ Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town</title>
       <link>https://deadline.com/2026/05/saturday-night-live-matt-damon-brett-kavanaugh-hegseth-open-1236889333/</link>
@@ -17147,30 +17829,6 @@ Related posts linking here:
       <enclosure url="https://substackcdn.com/image/fetch/$s_!gdWl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe090717c-c4d6-4a00-89bf-46c4fc6aa410_504x590.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/sunday-thought-whats-being-born</guid>
     </item>    <item>
-      <title>Connor Storrie Stops By ‘SNL’ To Introduce Olivia Rodrigo As Double Duty Host Debuts Unreleased Track</title>
-      <link>https://deadline.com/2026/05/connor-storrie-snl-olivia-rodrigo-musical-performance-1236879255/</link>
-      <description>
-        <![CDATA[After Blondie&#8217;s Debbie Harry introduced Olivia Rodrigo&#8217;s first Saturday Night Live performance of the night, Connor Storrie also appeared in a surprise cameo to intro the artist&#8217;s second track — an unreleased one — during her double duty stint. Rodrigo seemed to perform a new song off of her upcoming album you seem pretty sad for a girl so in love, which [&#8230;]]]>
-      </description>
-      <source:markdown>After Blondie’s Debbie Harry introduced Olivia Rodrigo’s first Saturday Night Live performance of the night, Connor Storrie also appeared in a surprise cameo to intro the artist’s second track — an unreleased one — during her double duty stint. Rodrigo seemed to perform a new song off of her upcoming album you seem pretty sad for a girl so in love, which \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236879255</guid>
-    </item>    <item>
-      <title>Blondie’s Debbie Harry Intros Olivia Rodrigo’s Energetic Performance Of ‘Drop Dead’ On ‘SNL’</title>
-      <link>https://deadline.com/2026/05/blondie-debbie-harry-olivia-rodrigo-snl-song-surprise-1236879247/</link>
-      <description>
-        <![CDATA[If there was any doubt as to Olivia Rodrigo&#8217;s pop-rock bonafides, she got the co-sign tonight from Blondie&#8217;s lead vocalist Debbie Harry, who popped up in a surprise cameo on Saturday Night Live to introduce the singer. Rodrigo, in her first time pulling double duty, performed on the Studio 8H stage for the third time, [&#8230;]]]>
-      </description>
-      <source:markdown>If there was any doubt as to Olivia Rodrigo’s pop-rock bonafides, she got the co-sign tonight from Blondie’s lead vocalist Debbie Harry, who popped up in a surprise cameo on Saturday Night Live to introduce the singer. Rodrigo, in her first time pulling double duty, performed on the Studio 8H stage for the third time, \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236879247</guid>
-    </item>    <item>
-      <title>May 2, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/may-2-2026</link>
-      <description>
-        <![CDATA[Today was the 152nd running of the Kentucky Derby, which was launched in 1875 as horse racing&#8212;with its famous Black jockeys, who won more than half of the first 28 derbies&#8212;was gaining an audience in the U.S.]]>
-      </description>
-      <source:markdown>Today was the 152nd running of the Kentucky Derby, which was launched in 1875 as horse racing—with its famous Black jockeys, who won more than half of the first 28 derbies—was gaining an audience in the U.S.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/may-2-2026</guid>
-    </item>    <item>
       <title>Weekly Bookmarks</title>
       <link>https://inkdroid.org/2026/05/03/bookmarks/</link>
       <description>
@@ -17762,6 +18420,30 @@ process, leaving simpler systems behind; and (e) universal behaviors
 shared across systems and settings which clarify which phenomena call
 for explanation.</source:markdown>
       <guid>cid://https://inkdroid.org/2026/05/03/bookmarks/</guid>
+    </item>    <item>
+      <title>Connor Storrie Stops By ‘SNL’ To Introduce Olivia Rodrigo As Double Duty Host Debuts Unreleased Track</title>
+      <link>https://deadline.com/2026/05/connor-storrie-snl-olivia-rodrigo-musical-performance-1236879255/</link>
+      <description>
+        <![CDATA[After Blondie&#8217;s Debbie Harry introduced Olivia Rodrigo&#8217;s first Saturday Night Live performance of the night, Connor Storrie also appeared in a surprise cameo to intro the artist&#8217;s second track — an unreleased one — during her double duty stint. Rodrigo seemed to perform a new song off of her upcoming album you seem pretty sad for a girl so in love, which [&#8230;]]]>
+      </description>
+      <source:markdown>After Blondie’s Debbie Harry introduced Olivia Rodrigo’s first Saturday Night Live performance of the night, Connor Storrie also appeared in a surprise cameo to intro the artist’s second track — an unreleased one — during her double duty stint. Rodrigo seemed to perform a new song off of her upcoming album you seem pretty sad for a girl so in love, which \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236879255</guid>
+    </item>    <item>
+      <title>Blondie’s Debbie Harry Intros Olivia Rodrigo’s Energetic Performance Of ‘Drop Dead’ On ‘SNL’</title>
+      <link>https://deadline.com/2026/05/blondie-debbie-harry-olivia-rodrigo-snl-song-surprise-1236879247/</link>
+      <description>
+        <![CDATA[If there was any doubt as to Olivia Rodrigo&#8217;s pop-rock bonafides, she got the co-sign tonight from Blondie&#8217;s lead vocalist Debbie Harry, who popped up in a surprise cameo on Saturday Night Live to introduce the singer. Rodrigo, in her first time pulling double duty, performed on the Studio 8H stage for the third time, [&#8230;]]]>
+      </description>
+      <source:markdown>If there was any doubt as to Olivia Rodrigo’s pop-rock bonafides, she got the co-sign tonight from Blondie’s lead vocalist Debbie Harry, who popped up in a surprise cameo on Saturday Night Live to introduce the singer. Rodrigo, in her first time pulling double duty, performed on the Studio 8H stage for the third time, \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236879247</guid>
+    </item>    <item>
+      <title>May 2, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/may-2-2026</link>
+      <description>
+        <![CDATA[Today was the 152nd running of the Kentucky Derby, which was launched in 1875 as horse racing&#8212;with its famous Black jockeys, who won more than half of the first 28 derbies&#8212;was gaining an audience in the U.S.]]>
+      </description>
+      <source:markdown>Today was the 152nd running of the Kentucky Derby, which was launched in 1875 as horse racing—with its famous Black jockeys, who won more than half of the first 28 derbies—was gaining an audience in the U.S.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/may-2-2026</guid>
     </item>    <item>
       <title>Aziz Ansari On Fire As FBI Director Kash Patel In ‘SNL’ Cold Open: “Incapable &#38; Incompetent”</title>
       <link>https://deadline.com/2026/05/snl-aziz-ansari-kash-patel-cold-open-1236879222/</link>
@@ -23426,6 +24108,14 @@ La entrada [Emmys 2026: primer ranking de predicciones de serie limitada o pelí
       <source:markdown>Writing of lasting value</source:markdown>
       <guid>cid://69f0a4965a126c0001fbf3dc</guid>
     </item>    <item>
+      <title>Alternative thoughts</title>
+      <link>https://dbushell.com/2026/04/28/alternative-thoughts/</link>
+      <description>
+        <![CDATA[My regular schedule of CSS and HTML tips will return after this brief look at the sorry state of the web and tech industry. It’s grim. “Our press secretary, Sean Spicer, gave alternative facts to that… Alternative facts - Kellyanne Conway (Wikipedia)”Following the 2017 inauguration of Mr “grab ’em […]]]>
+      </description>
+      <source:markdown>My regular schedule of CSS and HTML tips will return after this brief look at the sorry state of the web and tech industry. It’s grim. “Our press secretary, Sean Spicer, gave alternative facts to that… Alternative facts - Kellyanne Conway (Wikipedia)”Following the 2017 inauguration of Mr “grab ’em \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2026/04/28/alternative-thoughts/</guid>
+    </item>    <item>
       <title>Dormant Digital Assets</title>
       <link>https://blog.dshr.org/2026/04/dormant-digital-assets.html</link>
       <description>
@@ -23668,14 +24358,6 @@ As regards Bitcoin, the authors recommend that governments establish a legal fra
 As regards Ethereum, the more sophisticated technology and governance, combined with the absolutely catastrophic effects a CRQC could have on the ecosystem, give some confidence that timely mitigations are possible.</source:markdown>
       <author>noreply@blogger.com (David.)</author>
       <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-2912404372607359123</guid>
-    </item>    <item>
-      <title>Alternative thoughts</title>
-      <link>https://dbushell.com/2026/04/28/alternative-thoughts/</link>
-      <description>
-        <![CDATA[My regular schedule of CSS and HTML tips will return after this brief look at the sorry state of the web and tech industry. It’s grim. “Our press secretary, Sean Spicer, gave alternative facts to that… Alternative facts - Kellyanne Conway (Wikipedia)”Following the 2017 inauguration of Mr “grab ’em […]]]>
-      </description>
-      <source:markdown>My regular schedule of CSS and HTML tips will return after this brief look at the sorry state of the web and tech industry. It’s grim. “Our press secretary, Sean Spicer, gave alternative facts to that… Alternative facts - Kellyanne Conway (Wikipedia)”Following the 2017 inauguration of Mr “grab ’em \[…\]</source:markdown>
-      <guid>cid://https://dbushell.com/2026/04/28/alternative-thoughts/</guid>
     </item>    <item>
       <title>Oil Tops $111 A Barrel, US Gas Prices Surge, Russia Is Failing In Ukraine, Senate And House Rs Are Fighting - Holy Trumpian Sh-tshow Batman!</title>
       <link>https://www.hopiumchronicles.com/p/oil-tops-111-a-barrel-us-gas-prices</link>
@@ -25228,1081 +25910,6 @@ Typst support in **knitr** is there if you want it, and I think Typst is a great
 
 Again, this doesn’t mean I’m abandoning my support for LaTeX. Actually I still work quite hard in this regard, as you can tell from some of [my](/en/2026/03/tinytex-macos-path/) [previous](/en/2026/03/tinytex-arm64/) [posts](/en/2026/03/tinytex-ctan-mirror/) this year.</source:markdown>
       <guid>cid://https://yihui.org/en/2026/04/knitr-typst/</guid>
-    </item>    <item>
-      <title>Monday 27 April, 2026</title>
-      <link>https://memex.naughtons.org/monday-27-april-2026/41920/</link>
-      <description>
-        <![CDATA[No mist without fire? I know, it looks like smoke, but it’s really an early morning mist. Quote of the Day ”I always want to say to people who want to be rich and famous: ‘Try being rich first.’ See &#8230; <a href="https://memex.naughtons.org/monday-27-april-2026/41920/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>No mist without fire? I know, it looks like smoke, but it’s really an early morning mist. Quote of the Day ”I always want to say to people who want to be rich and famous: ‘Try being rich first.’ See … [Continue reading →](https://memex.naughtons.org/monday-27-april-2026/41920/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=41920</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/04/26.html#a221131</link>
-      <description>
-        <![CDATA[I just said this to Claude: "I want to show people that RSS isn't just for news and podcasting. It can be for mindless social media rants too." ;-)]]>
-      </description>
-      <source:markdown>I just said this to Claude: &#34;I want to show people that RSS isn&#39;t just for news and podcasting. It can be for mindless social media rants too.&#34; ;-)</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/26.html#a221131</guid>
-    </item>    <item>
-      <title>Wine Under the Bridge, Protestant Revival Juju, How I Stay Clever, Nuts of Data, Global Institutions, the Trajectory of Democracy, the Cycles of History, the SPLC, and Cheese</title>
-      <link>https://claireberlinski.substack.com/p/wine-under-the-bridge-protestant</link>
-      <description>
-        <![CDATA[You asked. I answered.]]>
-      </description>
-      <source:markdown>You asked. I answered.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!cs_Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55799f30-35e2-4a14-9601-991cd1436563_300x300.gif" length="0" type="image/jpeg" />
-      <guid>cid://https://claireberlinski.substack.com/p/wine-under-the-bridge-protestant</guid>
-    </item>    <item>
-      <title>High Jet Fuel Cost Forces King to Visit US Remotely</title>
-      <link>https://www.borowitzreport.com/p/high-jet-fuel-cost-forces-king-to</link>
-      <description>
-        <![CDATA["Air travel has gotten too rich for my blood," the monarch said.]]>
-      </description>
-      <source:markdown>&#34;Air travel has gotten too rich for my blood,&#34; the monarch said.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nmKn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8a4c1fe-6f3c-4c44-a07e-aaa0cd58aa1d_1024x685.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/high-jet-fuel-cost-forces-king-to</guid>
-    </item>    <item>
-      <title>Sunday caption contest: Postponed</title>
-      <link>https://robertreich.substack.com/p/sunday-caption-contest-postponed</link>
-      <description>
-        <![CDATA[Last week's winner announced next Sunday]]>
-      </description>
-      <source:markdown>Last week&#39;s winner announced next Sunday</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!R6i0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe96db34a-397b-489e-93c1-20a16c14399c_552x552.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-postponed</guid>
-    </item>    <item>
-      <title>Life in Links 66</title>
-      <link>https://johnjohnston.info/blog/life-in-links-66/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="213" src="https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-620x213.png" class="attachment-medium size-medium u-featured wp-post-image" alt="Montage of screenshot of thewebpages linked to in the article. Own Your Web – Issue 18: Curators • Buttondown Own Your Web • Buttondown About - Link Punk: A Linkblog i.webthings hub Commonplace Puter" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-620x213.png 620w, https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-1024x352.png 1024w, https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-768x264.png 768w, https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-1536x528.png 1536w, https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-668x230.png 668w, https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800.png 1800w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="22096" data-permalink="https://johnjohnston.info/blog/life-in-links-66/2026-04-26-links-montage-1800/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800.png" data-orig-size="1800,619" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2026-04-26-links-montage-1800" data-image-description="" data-image-caption="" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-1024x352.png" /></div>I've not posted a set of links for a while, keep saving them, but retired life is busier than I thought it would be.]]>
-      </description>
-      <source:markdown>![Montage of screenshot of thewebpages linked to in the article. Own Your Web – Issue 18: Curators • Buttondown Own Your Web • Buttondown About - Link Punk: A Linkblog i.webthings hub Commonplace Puter](https://johnjohnston.info/blog/wp-content/uploads/2026/04/2026-04-26-links-montage-1800-620x213.png)
-
-I&#39;ve not posted a set of links for a while, keep saving them, but retired life is busier than I thought it would be.</source:markdown>
-      <enclosure url="https://buttondown.com/ownyourweb/rss" length="80201" type="application/rss+xml; charset=utf-8" />
-      <guid>cid://https://johnjohnston.info/blog/?p=22095</guid>
-    </item>    <item>
-      <title>★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous</title>
-      <link>https://daringfireball.net/2026/04/nyt_wrong_crossword_grid</link>
-      <description>
-        <![CDATA[Software brain says *Go faster; do more; the only mistake you can’t fix is having gone too slow.* Hardware brain says *Slow down; do less; focus; strive for perfection and never settle for less than excellence; mistakes are forever.*]]>
-      </description>
-      <source:markdown>Software brain says \*Go faster; do more; the only mistake you can’t fix is having gone too slow.\* Hardware brain says \*Slow down; do less; focus; strive for perfection and never settle for less than excellence; mistakes are forever.\*</source:markdown>
-      <guid>cid://tag:daringfireball.net,2026://1.42943</guid>
-    </item>    <item>
-      <link>https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html?unlocked_article_code=1.d1A.c69g.aXfqe5shNsbT&#38;smid=url-share</link>
-      <description>
-        <![CDATA[<p>Dwarkesh Patel’s Podcast Lets You Eavesdrop on the A.I. Elite.</p>]]>
-      </description>
-      <source:markdown>Dwarkesh Patel’s Podcast Lets You Eavesdrop on the A.I. Elite.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/26/3598/</guid>
-    </item>    <item>
-      <title>Collective Speed Is Not the Summation of Individual Speed</title>
-      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/</link>
-      <description>
-        <![CDATA[<p><a href="https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/" >I’ve been thinking about speed</a> which is why Chris Coyier caught my attention <a href="https://chriscoyier.net/2026/04/25/ai-alignment/" >in his latest piece</a> discussing how AI might be 10✕ing the speed with which we code, but it’s not making our software 10✕ better:</p>
-        <blockquote>
-        <p>Faster individuals don’t make a fast company</p>
-        </blockquote>
-        <p>My mind immediately went to the 4✕100 relay at the Olympics.</p>
-        <p>(Not sure which race that is? Watch <a href="https://www.youtube.com/watch?v=bQOw8LF5SM4" >the London 2012 one</a>.)</p>
-        <p>Imagine you were put in charge of winning the 4✕100 relay.</p>
-        <p>All you gotta do is find the four faster sprinters in your country — right?</p>
-        <p>I’m no track and field expert, but I doubt it’s that simple.</p>
-        <p>In a relay race, the baton is arguably the most critical element. Passing it cleanly is vital because if you fumble it you’re easily behind a few meters or maybe even disqualified.</p>
-        <p>So, one could argue, a sprinter’s ability to pass and receive the baton is more important than speed because all the speed in the world won’t help you overcome a dropped baton.</p>
-        <p>(There are other considerations too, like which leg each runner takes, which sequence works best given individual pairings and rapport, and whether a slower veteran might perform better in the heat of the moment.)</p>
-        <p>Faster runners won’t guarantee a faster team.</p>
-        <p>And faster coders won’t guarantee a faster company.</p>
-        <p>Like a relay race, it might be worth giving some thought to the relationships and interfaces between people.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>[I’ve been thinking about speed](https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/) which is why Chris Coyier caught my attention [in his latest piece](https://chriscoyier.net/2026/04/25/ai-alignment/) discussing how AI might be 10✕ing the speed with which we code, but it’s not making our software 10✕ better:
-
-&#62; Faster individuals don’t make a fast company
-
-My mind immediately went to the 4✕100 relay at the Olympics.
-
-(Not sure which race that is? Watch [the London 2012 one](https://www.youtube.com/watch?v=bQOw8LF5SM4).)
-
-Imagine you were put in charge of winning the 4✕100 relay.
-
-All you gotta do is find the four faster sprinters in your country — right?
-
-I’m no track and field expert, but I doubt it’s that simple.
-
-In a relay race, the baton is arguably the most critical element. Passing it cleanly is vital because if you fumble it you’re easily behind a few meters or maybe even disqualified.
-
-So, one could argue, a sprinter’s ability to pass and receive the baton is more important than speed because all the speed in the world won’t help you overcome a dropped baton.
-
-(There are other considerations too, like which leg each runner takes, which sequence works best given individual pairings and rapport, and whether a slower veteran might perform better in the heat of the moment.)
-
-Faster runners won’t guarantee a faster team.
-
-And faster coders won’t guarantee a faster company.
-
-Like a relay race, it might be worth giving some thought to the relationships and interfaces between people.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/</guid>
-    </item>    <item>
-      <title>Collective Speed Is Not the Summation of Individual Speed</title>
-      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</link>
-      <description>
-        <![CDATA[<p><a href="https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/" >I’ve been thinking about speed</a> which is why Chris Coyier caught my attention <a href="https://chriscoyier.net/2026/04/25/ai-alignment/" >in his latest piece</a> discussing how AI might be 10✕ing the speed with which we code, but it’s not making our software 10✕ better:</p>
-        <blockquote>
-        <p>Faster individuals don’t make a fast company</p>
-        </blockquote>
-        <p>My mind immediately went to the 4✕100 relay at the Olympics.</p>
-        <p>(Not sure which race that is? Watch <a href="https://www.youtube.com/watch?v=bQOw8LF5SM4" >the London 2012 one</a>.)</p>
-        <p>Imagine you were put in charge of winning the 4✕100 relay.</p>
-        <p>All you gotta do is find the four faster sprinters in your country — right?</p>
-        <p>I’m no track and field expert, but I doubt it’s that simple.</p>
-        <p>In a relay race, the baton is arguably the most critical element. Passing it cleanly is vital because if you fumble it you’re easily behind a few meters or maybe even disqualified.</p>
-        <p>So, one could argue, a sprinter’s ability to pass and receive the baton is more important than speed because all the speed in the world won’t help you overcome a dropped baton.</p>
-        <p>(There are other considerations too, like which leg each runner takes, which sequence works best given individual pairings and rapport, and whether a slower veteran might perform better in the heat of the moment.)</p>
-        <p>Faster runners won’t guarantee a faster team.</p>
-        <p>And faster coders won’t guarantee a faster company.</p>
-        <p>Like a relay race, it might be worth giving some thought to the relationships and interfaces between people.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>[I’ve been thinking about speed](https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/) which is why Chris Coyier caught my attention [in his latest piece](https://chriscoyier.net/2026/04/25/ai-alignment/) discussing how AI might be 10✕ing the speed with which we code, but it’s not making our software 10✕ better:
-
-&#62; Faster individuals don’t make a fast company
-
-My mind immediately went to the 4✕100 relay at the Olympics.
-
-(Not sure which race that is? Watch [the London 2012 one](https://www.youtube.com/watch?v=bQOw8LF5SM4).)
-
-Imagine you were put in charge of winning the 4✕100 relay.
-
-All you gotta do is find the four faster sprinters in your country — right?
-
-I’m no track and field expert, but I doubt it’s that simple.
-
-In a relay race, the baton is arguably the most critical element. Passing it cleanly is vital because if you fumble it you’re easily behind a few meters or maybe even disqualified.
-
-So, one could argue, a sprinter’s ability to pass and receive the baton is more important than speed because all the speed in the world won’t help you overcome a dropped baton.
-
-(There are other considerations too, like which leg each runner takes, which sequence works best given individual pairings and rapport, and whether a slower veteran might perform better in the heat of the moment.)
-
-Faster runners won’t guarantee a faster team.
-
-And faster coders won’t guarantee a faster company.
-
-Like a relay race, it might be worth giving some thought to the relationships and interfaces between people.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</guid>
-    </item>    <item>
-      <title>Offset (DJ mix)</title>
-      <link>https://blog.gingerbeardman.com/2026/04/26/offset-dj-mix/</link>
-      <description>
-        <![CDATA[<p>A mix of music with arpeggios in, just because I thought it would be an interesting constraint.</p>
-        
-        <p>🎛️🎚️🎛️</p>
-        
-        <p><a href="https://www.mixcloud.com/gingerbeardman/offset/">Listen on MixCloud</a>.</p>
-        
-        <hr />
-        
-        <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2Fgingerbeardman%2Foffset%2F" frameborder="0"></iframe>
-        
-        <div class="table-wrapper">
-          <table>
-            <thead>
-              <tr>
-                <th>Timestamp</th>
-                <th>Artist</th>
-                <th>Song (Link)</th>
-                <th>Year</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>00:00</td>
-                <td>Kasper Koman</td>
-                <td><a href="https://www.youtube.com/watch?v=fFrlg72ePhM">Loco Motif</a></td>
-                <td>2018</td>
-              </tr>
-              <tr>
-                <td>04:21</td>
-                <td>Fakear feat. Alex Metric</td>
-                <td><a href="https://www.youtube.com/watch?v=hswYmINegds">Carrie</a></td>
-                <td>2020</td>
-              </tr>
-              <tr>
-                <td>08:30</td>
-                <td>Nox Vahn</td>
-                <td><a href="https://www.youtube.com/watch?v=8D7nAC_-lzM">Walking with Giants</a></td>
-                <td>2019</td>
-              </tr>
-              <tr>
-                <td>10:55</td>
-                <td>Kiesza</td>
-                <td><a href="https://www.youtube.com/watch?v=tv_xfmTqESI">Hideaway (Zac Samuel Remix)</a></td>
-                <td>2014</td>
-              </tr>
-              <tr>
-                <td>14:21</td>
-                <td>Rhythim is Rhythim</td>
-                <td><a href="https://www.youtube.com/watch?v=rFQZndywOR4">Strings of Life</a></td>
-                <td>1987</td>
-              </tr>
-              <tr>
-                <td>21:07</td>
-                <td>KC Lights feat. Niki &amp; the Dove</td>
-                <td><a href="https://www.youtube.com/watch?v=ZjDL-2kpaEA">THIS IS FOR YOU</a></td>
-                <td>2025</td>
-              </tr>
-              <tr>
-                <td>24:18</td>
-                <td>The Chemical Brothers</td>
-                <td><a href="https://www.youtube.com/watch?v=0S43IwBF0uM">Star Guitar</a></td>
-                <td>2003</td>
-              </tr>
-              <tr>
-                <td>30:06</td>
-                <td>RONEeS</td>
-                <td><a href="https://www.youtube.com/watch?v=P-kkEjzp1Mk">Discrete</a></td>
-                <td>2022</td>
-              </tr>
-              <tr>
-                <td>31:48</td>
-                <td>Hyper Go Go</td>
-                <td><a href="https://www.youtube.com/watch?v=2LK_91rK4gM">High</a></td>
-                <td>1992</td>
-              </tr>
-              <tr>
-                <td>36:13</td>
-                <td>Sunareht</td>
-                <td><a href="https://www.youtube.com/watch?v=k2nGWuc1Qeo">Super Suna Odyssey</a></td>
-                <td>2018</td>
-              </tr>
-              <tr>
-                <td>39:17</td>
-                <td>Rhythim is Rhythim</td>
-                <td><a href="https://www.youtube.com/watch?v=vGFw2qeUp0s">Strings of Life (Relics Mix)</a></td>
-                <td>1992</td>
-              </tr>
-              <tr>
-                <td>42:31</td>
-                <td>Alex Metric &amp; Jacques Lu Cont</td>
-                <td><a href="https://www.youtube.com/watch?v=wkPTIti6J3g">Safe with You (feat. Malin)</a></td>
-                <td>2013</td>
-              </tr>
-              <tr>
-                <td>46:43</td>
-                <td>Lorenzo Senni</td>
-                <td><a href="https://www.youtube.com/watch?v=0UH2tqHTi_M">THINK BIG</a></td>
-                <td>2020</td>
-              </tr>
-              <tr>
-                <td>52:21</td>
-                <td>BT</td>
-                <td><a href="https://www.youtube.com/watch?v=doedi2MI-iM">Skylarking</a></td>
-                <td>2013</td>
-              </tr>
-              <tr>
-                <td>54:19</td>
-                <td>Orbital</td>
-                <td><a href="https://www.youtube.com/watch?v=AZzJxWlvlNg">Belfast</a></td>
-                <td>1991</td>
-              </tr>
-            </tbody>
-          </table>
-        
-        </div>
-        
-        <p>15 tracks with a duration of 61m35s. <a href="/tag/djmix//">As always</a>, this was produced using the DJ.Studio app.</p>
-        
-        <p>Let me know what you think of the tunes!</p>
-        
-        <ul>
-          <li><a href="https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ">Download</a></li>
-        </ul>
-        
-        <hr />
-        
-        <h2 id="discrete-by-ronees-2022">“Discrete” by RONEeS (2022)</h2>
-        
-        <p>If you want to listen to one track that gives the vibe of this mix try this one:</p>
-        
-        <lite-youtube style="aspect-ratio: 16/9;" videoid="P-kkEjzp1Mk" params="start=0&amp;modestbranding=2">
-        </lite-youtube>]]>
-      </description>
-      <source:markdown>A mix of music with arpeggios in, just because I thought it would be an interesting constraint.
-
-🎛️🎚️🎛️
-
-[Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/offset/).
-
-* * *
-
-TimestampArtistSong (Link)Year00:00Kasper Koman[Loco Motif](https://www.youtube.com/watch?v=fFrlg72ePhM)201804:21Fakear feat. Alex Metric[Carrie](https://www.youtube.com/watch?v=hswYmINegds)202008:30Nox Vahn[Walking with Giants](https://www.youtube.com/watch?v=8D7nAC_-lzM)201910:55Kiesza[Hideaway (Zac Samuel Remix)](https://www.youtube.com/watch?v=tv_xfmTqESI)201414:21Rhythim is Rhythim[Strings of Life](https://www.youtube.com/watch?v=rFQZndywOR4)198721:07KC Lights feat. Niki &#38; the Dove[THIS IS FOR YOU](https://www.youtube.com/watch?v=ZjDL-2kpaEA)202524:18The Chemical Brothers[Star Guitar](https://www.youtube.com/watch?v=0S43IwBF0uM)200330:06RONEeS[Discrete](https://www.youtube.com/watch?v=P-kkEjzp1Mk)202231:48Hyper Go Go[High](https://www.youtube.com/watch?v=2LK_91rK4gM)199236:13Sunareht[Super Suna Odyssey](https://www.youtube.com/watch?v=k2nGWuc1Qeo)201839:17Rhythim is Rhythim[Strings of Life (Relics Mix)](https://www.youtube.com/watch?v=vGFw2qeUp0s)199242:31Alex Metric &#38; Jacques Lu Cont[Safe with You (feat. Malin)](https://www.youtube.com/watch?v=wkPTIti6J3g)201346:43Lorenzo Senni[THINK BIG](https://www.youtube.com/watch?v=0UH2tqHTi_M)202052:21BT[Skylarking](https://www.youtube.com/watch?v=doedi2MI-iM)201354:19Orbital[Belfast](https://www.youtube.com/watch?v=AZzJxWlvlNg)1991
-
-15 tracks with a duration of 61m35s. [As always](/tag/djmix//), this was produced using the DJ.Studio app.
-
-Let me know what you think of the tunes!
-
-- [Download](https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ)
-
-* * *
-
-## “Discrete” by RONEeS (2022)
-
-If you want to listen to one track that gives the vibe of this mix try this one:</source:markdown>
-      <guid>cid://https://blog.gingerbeardman.com/2026/04/26/offset-dj-mix/</guid>
-    </item>    <item>
-      <title>Our Wins Of The Week</title>
-      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-april-26</link>
-      <description>
-        <![CDATA[Donald Trump&#8217;s approval ratings keep dropping to new lows as the country opens their eyes about the madman in the White House.]]>
-      </description>
-      <source:markdown>Donald Trump’s approval ratings keep dropping to new lows as the country opens their eyes about the madman in the White House.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/40899cca-5b98-4664-bce2-6e3942a1e59a_1176x678.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-april-26</guid>
-    </item>    <item>
-      <title>Uncloud Prometheus</title>
-      <link>https://miek.nl/2026/april/26/uncloud-prometheus/</link>
-      <description>
-        <![CDATA[<p><a href="https://github.com/psviderski/uncloud/pull/304">Prometheus metrics</a> are being worked on by
-        <a href="https://ratms.nl/projects/uncloud/">me</a>, and will hopefully soon be merged in <a href="https://uncloud.run">Uncloud</a>.</p>
-        <p>The <em>uncloudd</em> metrics endpoint is exposed into the cluster network, so this makes it possible for a
-        Prometheus service running inside the cluster to scrape it. For this it just needs to be able to access the API
-        to get all machines in the cluster. This can be done by mounting the uncloud socket inside the container, and
-        using <code>uc</code> with <a href="https://github.com/psviderski/uncloud/issues/335">structured output</a>.</p>]]>
-      </description>
-      <source:markdown>[Prometheus metrics](https://github.com/psviderski/uncloud/pull/304) are being worked on by
-[me](https://ratms.nl/projects/uncloud/), and will hopefully soon be merged in [Uncloud](https://uncloud.run).
-
-The _uncloudd_ metrics endpoint is exposed into the cluster network, so this makes it possible for a
-Prometheus service running inside the cluster to scrape it. For this it just needs to be able to access the API
-to get all machines in the cluster. This can be done by mounting the uncloud socket inside the container, and
-using `uc` with [structured output](https://github.com/psviderski/uncloud/issues/335).</source:markdown>
-      <guid>cid://https://miek.nl/2026/april/26/uncloud-prometheus/</guid>
-    </item>    <item>
-      <link>https://wp.feedland.org/</link>
-      <description>
-        <![CDATA[<p>I have to remember to check in with my WordPress news site. All of a sudden they&#39;re turning to RSS. Luckily I&#39;m spending more time on FeedLand. So we&#39;re in a position to do some work together if they&#39;re so inclined.</p>]]>
-      </description>
-      <source:markdown>I have to remember to check in with my WordPress news site. All of a sudden they&#39;re turning to RSS. Luckily I&#39;m spending more time on FeedLand. So we&#39;re in a position to do some work together if they&#39;re so inclined.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/26/3596/</guid>
-    </item>    <item>
-      <title>Grateful No One Was Seriously Injured Last Night</title>
-      <link>https://www.hopiumchronicles.com/p/grateful-no-one-was-seriously-injured</link>
-      <description>
-        <![CDATA[This country desperately needs a new and better path]]>
-      </description>
-      <source:markdown>This country desperately needs a new and better path</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/fade8485-d4de-402d-9765-ce428d2dc3d0_681x383.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/grateful-no-one-was-seriously-injured</guid>
-    </item>    <item>
-      <title>RSS Club #007: Running</title>
-      <link>https://dbushell.com/2026/04/26/RSS007/</link>
-      <description>
-        <![CDATA[Today Sabastian Sawe ran an historic sub-two-hour marathon in a competitive race. A marathon is around 42 kilometres, aka 26 miles in freedom units (we use miles in the UK too but not for running distances). I feel the record is a little unfair on Kipchoge who achieved the milestone first under […]]]>
-      </description>
-      <source:markdown>Today Sabastian Sawe ran an historic sub-two-hour marathon in a competitive race. A marathon is around 42 kilometres, aka 26 miles in freedom units (we use miles in the UK too but not for running distances). I feel the record is a little unfair on Kipchoge who achieved the milestone first under \[…\]</source:markdown>
-      <guid>cid://https://dbushell.com/2026/04/26/RSS007/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/04/26.html#a144410</link>
-      <description>
-        <![CDATA[Imagine you were putting up a skyscraper in Manhattan. I lived in an area of the city, called Billionaire's Row,  for nine years where I saw quite a few huge buildings go up from my living room window on the 50th floor. Now imagine you used a different plumbing system in every apartment, over 140 stories, with up to 15 residences per story. Different wiring. All the rooms are different shapes. How could you maintain such a building? I think ChatGPT might be able to do it but no human could. We need patterns to allow us to understand big things.]]>
-      </description>
-      <source:markdown>Imagine you were putting up a skyscraper in Manhattan. I lived in an area of the city, called Billionaire&#39;s Row, for nine years where I saw quite a few huge buildings go up from my living room window on the 50th floor. Now imagine you used a different plumbing system in every apartment, over 140 stories, with up to 15 residences per story. Different wiring. All the rooms are different shapes. How could you maintain such a building? I think ChatGPT might be able to do it but no human could. We need patterns to allow us to understand big things.</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/26.html#a144410</guid>
-    </item>    <item>
-      <title>Teaching Claude about humans</title>
-      <link>http://scripting.com/2026/04/26/142149.html?title=teachingClaudeAboutHumans</link>
-      <description>
-        <![CDATA[<p>What you don't hear about AI is that it doesn't know how human minds work, what our limits are, what we can do that they can't. It has no memory. This was hard to believe, but you have to tell it to keep things in some kind of memory, usually a Markdown file, then tell it to read it from another file. These are things humans just do. I may have to say it two or three times, but you will remember it if you're a normal human.</p>
-        <p>I know there are places you can leave an instruction to read it when it starts, but sometimes it doesn't do it. It could never, in its current state, figure out how to make a product that people want to use. Nor would a human be able to easily read the code it generates unless you work hard at teaching it how that works, and if you have to do that, you might as well do it yourself. </p>
-        <p>It never looks for prior art, in some contexts -- but in others, it's encyclopedic about prior art. You might find a function named returnError in one place that takes a string argument, where most of the other instances take an object that contains a string. How do I, as a human, work in an environment like that? </p>
-        <p>The users who vibe code who think they know how to make code people will want to use are making the same mistake student programmers make, they come out of school only having done student projects, which have very limited objectives. The real world is far more demanding. The real world populated by humans that is. Just some random thoughts as I try to create usable code working with Claude.</p>
-        <p>Perhaps what's needed is a <a href="https://this.how/phoenix/">Developing Better Developers</a> program for pseudo-humans. </p>]]>
-      </description>
-      <source:markdown>What you don&#39;t hear about AI is that it doesn&#39;t know how human minds work, what our limits are, what we can do that they can&#39;t. It has no memory. This was hard to believe, but you have to tell it to keep things in some kind of memory, usually a Markdown file, then tell it to read it from another file. These are things humans just do. I may have to say it two or three times, but you will remember it if you&#39;re a normal human.
-
-I know there are places you can leave an instruction to read it when it starts, but sometimes it doesn&#39;t do it. It could never, in its current state, figure out how to make a product that people want to use. Nor would a human be able to easily read the code it generates unless you work hard at teaching it how that works, and if you have to do that, you might as well do it yourself.
-
-It never looks for prior art, in some contexts -- but in others, it&#39;s encyclopedic about prior art. You might find a function named returnError in one place that takes a string argument, where most of the other instances take an object that contains a string. How do I, as a human, work in an environment like that?
-
-The users who vibe code who think they know how to make code people will want to use are making the same mistake student programmers make, they come out of school only having done student projects, which have very limited objectives. The real world is far more demanding. The real world populated by humans that is. Just some random thoughts as I try to create usable code working with Claude.
-
-Perhaps what&#39;s needed is a [Developing Better Developers](https://this.how/phoenix/) program for pseudo-humans.</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/26/142149.html</guid>
-    </item>    <item>
-      <title>April reads (yes, another month has flashed past)</title>
-      <link>http://www.enlightenmenteconomics.com/blog/index.php/2026/04/7935/</link>
-      <description>
-        <![CDATA[It&#8217;s been a busy, busy academic year so it seems I&#8217;m only managing monthly round-ups here at the moment. A little more though on two books i&#8217;ve read in the past few days. One was Mark Fabian&#8217;s Beyond Happy. Mark, &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2026/04/7935/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>It’s been a busy, busy academic year so it seems I’m only managing monthly round-ups here at the moment. A little more though on two books i’ve read in the past few days. One was Mark Fabian’s Beyond Happy. Mark, … [Continue reading →](http://www.enlightenmenteconomics.com/blog/index.php/2026/04/7935/)</source:markdown>
-      <guid>cid://http://www.enlightenmenteconomics.com/blog/?p=7935</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/04/26.html#a135857</link>
-      <description>
-        <![CDATA[<a href="https://bsky.app/">Bluesky</a> is having trouble keeping their network running. As a developer I empathize. As a user, it's beginning to be a problem. I am using it the way I used to use Twitter, taking notes for future blog posts, sharing a few linkblog feeds, DMing with people I work with, and want/need to keep going. I know about its lock-in problems, but at this time there's no open alternative that has the same collection of users who are easy enough to find. So if it stays unreliable I have to think about what to do about that. Every time I get a <a href="https://imgs.scripting.com/2026/04/26/403Forbidden.png">403 Forbidden</a>, I stop and think if this is the time to write a post? This was the time.]]>
-      </description>
-      <source:markdown>[Bluesky](https://bsky.app/) is having trouble keeping their network running. As a developer I empathize. As a user, it&#39;s beginning to be a problem. I am using it the way I used to use Twitter, taking notes for future blog posts, sharing a few linkblog feeds, DMing with people I work with, and want/need to keep going. I know about its lock-in problems, but at this time there&#39;s no open alternative that has the same collection of users who are easy enough to find. So if it stays unreliable I have to think about what to do about that. Every time I get a [403 Forbidden](https://imgs.scripting.com/2026/04/26/403Forbidden.png), I stop and think if this is the time to write a post? This was the time.</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/26.html#a135857</guid>
-    </item>    <item>
-      <title>Mother Earth</title>
-      <link>https://steady.substack.com/p/mother-earth</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!4eeq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99c6185d-f513-4fdb-b4ba-23d62cd5b9ce_5568x3712.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/mother-earth</guid>
-    </item>    <item>
-      <title>Does Melania’s Book Be Best?</title>
-      <link>https://www.borowitzreport.com/p/does-melanias-book-be-best-e67</link>
-      <description>
-        <![CDATA[TBR Sunday Quiz]]>
-      </description>
-      <source:markdown>TBR Sunday Quiz</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Uqun!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F540898e6-ffd2-4d99-a94d-ab05dedce56c_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/does-melanias-book-be-best-e67</guid>
-    </item>    <item>
-      <title>On Hubris</title>
-      <link>https://dbarkhuff.substack.com/p/on-hubris</link>
-      <description>
-        <![CDATA[Hubris has a particular sound to it.]]>
-      </description>
-      <source:markdown>Hubris has a particular sound to it.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nlPv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ef6378b-ad60-4259-a174-c2e5441e8a69_1406x544.png" length="0" type="image/jpeg" />
-      <guid>cid://https://dbarkhuff.substack.com/p/on-hubris</guid>
-    </item>    <item>
-      <title>Taking the day off</title>
-      <link>https://www.gelliottmorris.com/p/2026-04-26-sunday-roundup</link>
-      <description>
-        <![CDATA[Poll week wiped me out]]>
-      </description>
-      <source:markdown>Poll week wiped me out</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/4726a7cc-6fae-46bc-8c31-fcdd692ab5ba_6912x5184.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/2026-04-26-sunday-roundup</guid>
-    </item>    <item>
-      <title>Guest Newsletter: Five Books - The &#39;80s And Taiwan</title>
-      <link>https://thebrowser.com/free/guest-newsletter-five-books-93/</link>
-      <description>
-        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
-      </description>
-      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
-      <guid>cid://69eb74c5fe23d20001eead04</guid>
-    </item>    <item>
-      <title>Sunday thought: Last Night&#39;s Correspondents Dinner</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-last-nights-correspondents</link>
-      <description>
-        <![CDATA[Fear and Loathing in Trump's Washington]]>
-      </description>
-      <source:markdown>Fear and Loathing in Trump&#39;s Washington</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!8HMA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3f304ab-2782-4294-8a99-f6f661b642bb_3984x2656.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-last-nights-correspondents</guid>
-    </item>    <item>
-      <title>Stop and think</title>
-      <link>https://val.demar.in/2026/04/stop-and-think/</link>
-      <description>
-        <![CDATA[If you run a business, pretty much any kind of business, the one thing you should do about AI is stop and think: what new problems can you find for your organisation? Because whatever value you&#8217;re creating today by solving today&#8217;s problems, some form of AI will most likely be able to generate shortly. Faster, &#8230; <a href="https://val.demar.in/2026/04/stop-and-think/" class="more-link">Continue reading<span class="screen-reader-text"> "Stop and think"</span></a>]]>
-      </description>
-      <source:markdown>If you run a business, pretty much any kind of business, the one thing you should do about AI is stop and think: what new problems can you find for your organisation? Because whatever value you’re creating today by solving today’s problems, some form of AI will most likely be able to generate shortly. Faster, … [Continue reading &#34;Stop and think&#34;](https://val.demar.in/2026/04/stop-and-think/)</source:markdown>
-      <guid>cid://https://val.demar.in/?p=3916</guid>
-    </item>    <item>
-      <title>The Trump admin is doing everything it can to bankrupt the Southern Poverty Law Center</title>
-      <link>https://a.wholelottanothing.org/the-trump-admin-is-doing-everything-it-can-to-bankrupt-the-southern-poverty-law-center/</link>
-      <description>
-        <![CDATA[<p>Earlier this week, the Department of Justice announced it secured an indictment by a federal grand jury against <a href="https://www.splcenter.org/?ref=a.wholelottanothing.org" rel="noreferrer">the Southern Poverty Law Center</a>, a firm that&#x2019;s spent over 50 years researching, tracking, and fighting violent hate groups nationwide. </p><p>The SPLC is best known for bringing lawsuits that have</p>]]>
-      </description>
-      <source:markdown>Earlier this week, the Department of Justice announced it secured an indictment by a federal grand jury against [the Southern Poverty Law Center](https://www.splcenter.org/?ref=a.wholelottanothing.org), a firm that’s spent over 50 years researching, tracking, and fighting violent hate groups nationwide.
-
-The SPLC is best known for bringing lawsuits that have</source:markdown>
-      <guid>cid://69ed13744a7f630001e3e44e</guid>
-    </item>    <item>
-      <title>Inside The Ballroom As Gunfire Was Heard, President Trump Was Rushed Away And Journalists Scrambled To Report The Story</title>
-      <link>https://deadline.com/2026/04/trump-white-house-correspondents-dinner-shooting-1236872432/</link>
-      <description>
-        <![CDATA[The catering staff at the Washington Hilton was just about to serve the main course &#8212; prime Chateaubriand and Maine lobster &#8212; when four loud, quick shots could be heard. With Donald Trump making his first appearance as president, the White House Correspondents&#8217; Dinner this year looked to be an unusual mix of comedy and [&#8230;]]]>
-      </description>
-      <source:markdown>The catering staff at the Washington Hilton was just about to serve the main course — prime Chateaubriand and Maine lobster — when four loud, quick shots could be heard. With Donald Trump making his first appearance as president, the White House Correspondents’ Dinner this year looked to be an unusual mix of comedy and \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872432</guid>
-    </item>    <item>
-      <title>April 25, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/april-25-2026</link>
-      <description>
-        <![CDATA[Tonight the White House Correspondents&#8217; Association (WHCA) held its annual black-tie dinner, which is designed both to raise money for the institution and to provide a glitzy night out for journalists.]]>
-      </description>
-      <source:markdown>Tonight the White House Correspondents’ Association (WHCA) held its annual black-tie dinner, which is designed both to raise money for the institution and to provide a glitzy night out for journalists.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/april-25-2026</guid>
-    </item>    <item>
-      <title>Weekly Bookmarks</title>
-      <link>https://inkdroid.org/2026/04/26/bookmarks/</link>
-      <description>
-        <![CDATA[These are some things I’ve wandered across on the web this week.
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://www.youtube.com/watch?v=0QgbUBn0gGs">
-        Talk Talk - Live at Montreux 1986 </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        From Aquarium Drunkard:
-        </p>
-        <p>
-        By July 1986, Talk Talk were still a functioning live unit touring
-        behind The Colour of Spring. But something had already shifted as
-        evidenced by this set from that summer’s Montreux Jazz Festival. Listen
-        closely and you can hear the architecture beginning to loosen: tempos
-        breathe, arrangements open, and familiar material begins to drift toward
-        something less fixed, less performative.
-        </p>
-        This would be their final tour. Within a year, Mark Hollis and company
-        would retreat into the studio to begin work on Spirit of Eden, a record
-        that all but rejects the idea of live translation. As such, this
-        Montreux performance exists as a kind of threshold document, one that
-        captures the band onstage one last time before the music folds inward on
-        itself.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://techtrenches.dev/p/the-west-forgot-how-to-make-things">
-        The West Forgot How to Make Things. Now It’s Forgetting How to Code </a>
-        </h2>
-        <section class="p-summary">
-        The skills you need to be effective now are different. Technical
-        expertise alone isn’t enough anymore. You need people who can take
-        ownership, communicate tradeoffs, push back on bad suggestions from a
-        machine that sounds very confident. Leadership qualities. Our last
-        hiring round tells you how rare that is: 2,253 candidates, 2,069
-        disqualified, 4 hired. A 0.18% conversion rate. The combination of
-        technical skill and the judgment to know when the AI is wrong barely
-        exists in the market anymore.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://arxiv.org/abs/2604.21691"> There Will
-        Be a Scientific Theory of Deep Learning </a>
-        </h2>
-        <section class="p-summary">
-        In this paper, we make the case that a scientific theory of deep
-        learning is emerging. By this we mean a theory which characterizes
-        important properties and statistics of the training process, hidden
-        representations, final weights, and performance of neural networks. We
-        pull together major strands of ongoing research in deep learning theory
-        and identify five growing bodies of work that point toward such a
-        theory: (a) solvable idealized settings that provide intuition for
-        learning dynamics in realistic systems; (b) tractable limits that reveal
-        insights into fundamental learning phenomena; (c) simple mathematical
-        laws that capture important macroscopic observables; (d) theories of
-        hyperparameters that disentangle them from the rest of the training
-        process, leaving simpler systems behind; and (e) universal behaviors
-        shared across systems and settings which clarify which phenomena call
-        for explanation.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://arxiv.org/abs/2604.17458"> EHRAG:
-        Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph
-        Construction and Retrieval </a>
-        </h2>
-        <section class="p-summary">
-        Graph-based Retrieval-Augmented Generation (GraphRAG) enhances LLMs by
-        structuring corpus into graphs to facilitate multi-hop reasoning. While
-        recent lightweight approaches reduce indexing costs by leveraging Named
-        Entity Recognition (NER), they rely strictly on structural
-        co-occurrence, failing to capture latent semantic connections between
-        disjoint entities. To address this, we propose EHRAG, a lightweight RAG
-        framework that constructs a hypergraph capturing both structure and
-        semantic level relationships, employing a hybrid structural-semantic
-        retrieval mechanism. Specifically, EHRAG constructs structural
-        hyperedges based on sentence-level co-occurrence with lightweight entity
-        extraction and semantic hyperedges by clustering entity text embeddings,
-        ensuring the hypergraph encompasses both structural and semantic
-        information. For retrieval, EHRAG performs a structure-semantic hybrid
-        diffusion with topic-aware scoring and personalized pagerank (PPR)
-        refinement to identify the top-k relevant documents. Experiments on four
-        datasets show that EHRAG outperforms state-of-the-art baselines while
-        maintaining linear indexing complexity and zero token consumption for
-        construction.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://en.wikipedia.org/wiki/The_Night_Manager_(British_TV_series)">
-        The Night Manager (British TV series) </a>
-        </h2>
-        <section class="p-summary">
-        The Night Manager is a British spy thriller television serial based on
-        the 1993 novel by John le Carré and adapted by David Farr. The six-part
-        first series, directed by Susanne Bier and starring Tom Hiddleston, Hugh
-        Laurie, Olivia Colman, Tom Hollander, David Harewood and Elizabeth
-        Debicki, began broadcasting on BBC One on 21 February 2016.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools">
-        What Will It Take to Get A.I. Out of Schools? </a>
-        </h2>
-        <section class="p-summary">
-        Immordino-Yang told me that the ultimate goal of any school assignment
-        is not the finished project itself but the experience of having done
-        it—an experience that A.I. tools are intended to abbreviate or obviate.
-        With their prettifying intrusions and impatient, lurking presence, they
-        block and reroute a young person’s natural, gradual progression toward
-        cognitive maturity, “especially one who is still developing the
-        neuropsychological substrate for creating narratives and thinking
-        through arguments over time,” Immordino-Yang said. “It’s a fragile
-        process, and it’s being interrupted.”
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://iocaine.madhouse-project.org/">
-        iocaine </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        This software is not made for making the Crawlers go away. It is an
-        aggressive defense mechanism that tries its best to take the blunt of
-        the assault, serve them garbage, and keep them off of upstream
-        resources. Even though a lot of work went into making iocaine efficient,
-        and nigh invisible for the legit visitor, it is an aggressive defender
-        nevertheless, and will require a few resources - a whole lot less than
-        if you’d let the Crawlers run rampant, though.
-        </p>
-        Before you deploy it, be sure you understand that iocaine does not make
-        the bots go away. It tries to poison them, so they’d go away forever in
-        the long run. If you’re looking for a way to return the favour, to
-        “reward” these crawlers for their relentless assault, this is the tool
-        you’re looking for.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/">
-        AI as a Fascist Artifact </a>
-        </h2>
-        <section class="p-summary">
-        “AI” is being introduced increasingly into government processes: “AI” is
-        promised to bring more efficiency into the administration, is supposed
-        to “reduce bureaucracy”. But bureaucracy is not just an annoyance but
-        one of the central tools that democratic societies have established to
-        realize the core idea of democracy: Transparency in the application of
-        power in order to be able to control said power. Democracy is not just
-        about voting but about ensuring that all power – especially by the state
-        – is used in accordance with the law and in a fair way. Stochastic “AI”
-        systems break that promise. The “AI” just says that you do not get the
-        support you need. No idea why, might be a bug or a deeply racist
-        training data set or something else. Nobody knows. Now it is on you to
-        prove that you are in the right, it is on you to fight for your right
-        because the processes that were supposed to protect your rights are
-        hollowed out in order to make them faster: We are forcing marginalized,
-        disenfranchised people to fight against a black box trained on the data
-        that already contains their disenfranchisement
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://archive.is/ggXiB"> You’re about to
-        feel the AI money squeeze </a>
-        </h2>
-        <section class="p-summary">
-        Investors have poured hundreds of billions of dollars into companies
-        like OpenAI and Anthropic to help them scale and build out their
-        compute. Now, they’re expecting returns. After years of offering cheap
-        or totally free access to advanced AI systems, the bill is starting to
-        come due — and downstream, users are beginning to feel the pinch.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://rustfs.com/"> RustFS </a>
-        </h2>
-        <section class="p-summary">
-        Instantly replace MinIO &amp; S3. Zero GC, maximum throughput.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://ratfactor.com/finishing-things">
-        Finishing Things </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Exactly! Left behind? You can’t leave me behind fast enough. I’ve never
-        wanted to be left behind so bad in my life. I’m utterly incapable of
-        FOMO about this stuff. Do I have vague future concerns about my career
-        and what must (surely) be a coming economic crash? Sure, but there is
-        absolutely nothing that has convinced me that I’m “missing out” on
-        anything.
-        </p>
-        At this point, all efforts by boosters and sloppologists just make me
-        feel more defiant.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://defector.com/go-ahead-and-use-ai-it-will-only-help-me-dominate-you">
-        Go Ahead And Use AI. It Will Only Help Me Dominate You. </a>
-        </h2>
-        <section class="p-summary">
-        The tepid, conformist nature of your AI-assisted prose will only make my
-        unexpected bons mots stand out more sharply. While you lean on a
-        technological crutch of grammatical mediocrity to drag your essays over
-        the finish line, I’ll be metaphorically zipping past you on my “magic
-        carpet” of words emerging directly from my own declining and
-        unpredictable brain. Over time, the intellectual box into which AI has
-        seduced your creative process will suffocate you, leaving your bereft
-        readers little choice but to drift into my subscription base.
-        </section>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://sleepingrobots.com/dreams/stop-using-ollama/">
-        Friends Don’t Let Friends Use Ollama </a>
-        </h2>
-        <section class="p-summary">
-        Ollama gained traction by being the first easy llama.cpp wrapper, then
-        spent years dodging attribution, misleading users, and pivoting to
-        cloud, all while riding VC money earned on someone else’s engine. Here’s
-        the full history, and why the alternatives are better
-        </section>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things I’ve wandered across on the web this week.
-
-## 🔖 [Talk Talk - Live at Montreux 1986](https://www.youtube.com/watch?v=0QgbUBn0gGs)
-
-From Aquarium Drunkard:
-
-By July 1986, Talk Talk were still a functioning live unit touring
-behind The Colour of Spring. But something had already shifted as
-evidenced by this set from that summer’s Montreux Jazz Festival. Listen
-closely and you can hear the architecture beginning to loosen: tempos
-breathe, arrangements open, and familiar material begins to drift toward
-something less fixed, less performative.
-
-This would be their final tour. Within a year, Mark Hollis and company
-would retreat into the studio to begin work on Spirit of Eden, a record
-that all but rejects the idea of live translation. As such, this
-Montreux performance exists as a kind of threshold document, one that
-captures the band onstage one last time before the music folds inward on
-itself.
-
-## 🔖 [The West Forgot How to Make Things. Now It’s Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
-
-The skills you need to be effective now are different. Technical
-expertise alone isn’t enough anymore. You need people who can take
-ownership, communicate tradeoffs, push back on bad suggestions from a
-machine that sounds very confident. Leadership qualities. Our last
-hiring round tells you how rare that is: 2,253 candidates, 2,069
-disqualified, 4 hired. A 0.18% conversion rate. The combination of
-technical skill and the judgment to know when the AI is wrong barely
-exists in the market anymore.
-
-## 🔖 [There Will\ Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
-
-In this paper, we make the case that a scientific theory of deep
-learning is emerging. By this we mean a theory which characterizes
-important properties and statistics of the training process, hidden
-representations, final weights, and performance of neural networks. We
-pull together major strands of ongoing research in deep learning theory
-and identify five growing bodies of work that point toward such a
-theory: (a) solvable idealized settings that provide intuition for
-learning dynamics in realistic systems; (b) tractable limits that reveal
-insights into fundamental learning phenomena; (c) simple mathematical
-laws that capture important macroscopic observables; (d) theories of
-hyperparameters that disentangle them from the rest of the training
-process, leaving simpler systems behind; and (e) universal behaviors
-shared across systems and settings which clarify which phenomena call
-for explanation.
-
-## 🔖 [EHRAG:\ Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph\ Construction and Retrieval](https://arxiv.org/abs/2604.17458)
-
-Graph-based Retrieval-Augmented Generation (GraphRAG) enhances LLMs by
-structuring corpus into graphs to facilitate multi-hop reasoning. While
-recent lightweight approaches reduce indexing costs by leveraging Named
-Entity Recognition (NER), they rely strictly on structural
-co-occurrence, failing to capture latent semantic connections between
-disjoint entities. To address this, we propose EHRAG, a lightweight RAG
-framework that constructs a hypergraph capturing both structure and
-semantic level relationships, employing a hybrid structural-semantic
-retrieval mechanism. Specifically, EHRAG constructs structural
-hyperedges based on sentence-level co-occurrence with lightweight entity
-extraction and semantic hyperedges by clustering entity text embeddings,
-ensuring the hypergraph encompasses both structural and semantic
-information. For retrieval, EHRAG performs a structure-semantic hybrid
-diffusion with topic-aware scoring and personalized pagerank (PPR)
-refinement to identify the top-k relevant documents. Experiments on four
-datasets show that EHRAG outperforms state-of-the-art baselines while
-maintaining linear indexing complexity and zero token consumption for
-construction.
-
-## 🔖 [The Night Manager (British TV series)](https://en.wikipedia.org/wiki/The_Night_Manager_(British_TV_series))
-
-The Night Manager is a British spy thriller television serial based on
-the 1993 novel by John le Carré and adapted by David Farr. The six-part
-first series, directed by Susanne Bier and starring Tom Hiddleston, Hugh
-Laurie, Olivia Colman, Tom Hollander, David Harewood and Elizabeth
-Debicki, began broadcasting on BBC One on 21 February 2016.
-
-## 🔖 [What Will It Take to Get A.I. Out of Schools?](https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools)
-
-Immordino-Yang told me that the ultimate goal of any school assignment
-is not the finished project itself but the experience of having done
-it—an experience that A.I. tools are intended to abbreviate or obviate.
-With their prettifying intrusions and impatient, lurking presence, they
-block and reroute a young person’s natural, gradual progression toward
-cognitive maturity, “especially one who is still developing the
-neuropsychological substrate for creating narratives and thinking
-through arguments over time,” Immordino-Yang said. “It’s a fragile
-process, and it’s being interrupted.”
-
-## 🔖 [iocaine](https://iocaine.madhouse-project.org/)
-
-This software is not made for making the Crawlers go away. It is an
-aggressive defense mechanism that tries its best to take the blunt of
-the assault, serve them garbage, and keep them off of upstream
-resources. Even though a lot of work went into making iocaine efficient,
-and nigh invisible for the legit visitor, it is an aggressive defender
-nevertheless, and will require a few resources - a whole lot less than
-if you’d let the Crawlers run rampant, though.
-
-Before you deploy it, be sure you understand that iocaine does not make
-the bots go away. It tries to poison them, so they’d go away forever in
-the long run. If you’re looking for a way to return the favour, to
-“reward” these crawlers for their relentless assault, this is the tool
-you’re looking for.
-
-## 🔖 [AI as a Fascist Artifact](https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/)
-
-“AI” is being introduced increasingly into government processes: “AI” is
-promised to bring more efficiency into the administration, is supposed
-to “reduce bureaucracy”. But bureaucracy is not just an annoyance but
-one of the central tools that democratic societies have established to
-realize the core idea of democracy: Transparency in the application of
-power in order to be able to control said power. Democracy is not just
-about voting but about ensuring that all power – especially by the state
-– is used in accordance with the law and in a fair way. Stochastic “AI”
-systems break that promise. The “AI” just says that you do not get the
-support you need. No idea why, might be a bug or a deeply racist
-training data set or something else. Nobody knows. Now it is on you to
-prove that you are in the right, it is on you to fight for your right
-because the processes that were supposed to protect your rights are
-hollowed out in order to make them faster: We are forcing marginalized,
-disenfranchised people to fight against a black box trained on the data
-that already contains their disenfranchisement
-
-## 🔖 [You’re about to\ feel the AI money squeeze](https://archive.is/ggXiB)
-
-Investors have poured hundreds of billions of dollars into companies
-like OpenAI and Anthropic to help them scale and build out their
-compute. Now, they’re expecting returns. After years of offering cheap
-or totally free access to advanced AI systems, the bill is starting to
-come due — and downstream, users are beginning to feel the pinch.
-
-## 🔖 [RustFS](https://rustfs.com/)
-
-Instantly replace MinIO &#38; S3. Zero GC, maximum throughput.
-
-## 🔖 [Finishing Things](https://ratfactor.com/finishing-things)
-
-Exactly! Left behind? You can’t leave me behind fast enough. I’ve never
-wanted to be left behind so bad in my life. I’m utterly incapable of
-FOMO about this stuff. Do I have vague future concerns about my career
-and what must (surely) be a coming economic crash? Sure, but there is
-absolutely nothing that has convinced me that I’m “missing out” on
-anything.
-
-At this point, all efforts by boosters and sloppologists just make me
-feel more defiant.
-
-## 🔖 [Go Ahead And Use AI. It Will Only Help Me Dominate You.](https://defector.com/go-ahead-and-use-ai-it-will-only-help-me-dominate-you)
-
-The tepid, conformist nature of your AI-assisted prose will only make my
-unexpected bons mots stand out more sharply. While you lean on a
-technological crutch of grammatical mediocrity to drag your essays over
-the finish line, I’ll be metaphorically zipping past you on my “magic
-carpet” of words emerging directly from my own declining and
-unpredictable brain. Over time, the intellectual box into which AI has
-seduced your creative process will suffocate you, leaving your bereft
-readers little choice but to drift into my subscription base.
-
-## 🔖 [Friends Don’t Let Friends Use Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
-
-Ollama gained traction by being the first easy llama.cpp wrapper, then
-spent years dodging attribution, misleading users, and pivoting to
-cloud, all while riding VC money earned on someone else’s engine. Here’s
-the full history, and why the alternatives are better</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/04/26/bookmarks/</guid>
-    </item>    <item>
-      <title>An Airport Question</title>
-      <link>https://doc.searls.com/2026/04/25/an-airport-question/</link>
-      <description>
-        <![CDATA[Today I flew from IND to DEN— Then from DEN to LAX— —Where I had plenty of time to fantasize about what could or should be done with the iconic but idle Theme Building in the heart of the airport, while waiting for my wife to pick me up. (She was, in the city tradition, [&#8230;]]]>
-      </description>
-      <source:markdown>Today I flew from IND to DEN— Then from DEN to LAX— —Where I had plenty of time to fantasize about what could or should be done with the iconic but idle Theme Building in the heart of the airport, while waiting for my wife to pick me up. (She was, in the city tradition, \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=21364</guid>
-    </item>    <item>
-      <title>Trump Reveals “Shocking” Reaction To WHCD Shooting, “A Dangerous Profession” Being POTUS; Releases Photo Of “Nutjob” Suspect</title>
-      <link>https://deadline.com/2026/04/trump-speaks-shooting-whcd-1236872381/</link>
-      <description>
-        <![CDATA[“It’s always shocking when something like this happens,” Donald Trump said tonight about the shooting at the White House Correspondents Dinner. &#8220;It was either a tray or a bullet,&#8221; he said he heard before agents hustled him to safety. “When you are impactful they go after you, when you are not impactful they leave you [&#8230;]]]>
-      </description>
-      <source:markdown>“It’s always shocking when something like this happens,” Donald Trump said tonight about the shooting at the White House Correspondents Dinner. “It was either a tray or a bullet,” he said he heard before agents hustled him to safety. “When you are impactful they go after you, when you are not impactful they leave you \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872381</guid>
-    </item>    <item>
-      <title>‘Joe Turner’s Come And Gone’ Broadway Review: Taraji P. Henson &#38; Cedric The Entertainer Shine In August Wilson Revival</title>
-      <link>https://deadline.com/2026/04/joe-turners-come-and-gone-broadway-review-taraji-p-henson-1236869435/</link>
-      <description>
-        <![CDATA[Rare is the Broadway season that hasn&#8217;t been bettered by an August Wilson revival, and this very busy spring is no exception. Joe Turner&#8217;s Come and Gone, lovingly and astutely directed by Debbie Allen with a no-weak-link cast headed by Taraji P. Henson (in a superb Broadway debut), Cedric The Entertainer and Ruben Santiago-Hudson, is [&#8230;]]]>
-      </description>
-      <source:markdown>Rare is the Broadway season that hasn’t been bettered by an August Wilson revival, and this very busy spring is no exception. Joe Turner’s Come and Gone, lovingly and astutely directed by Debbie Allen with a no-weak-link cast headed by Taraji P. Henson (in a superb Broadway debut), Cedric The Entertainer and Ruben Santiago-Hudson, is \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236869435</guid>
-    </item>    <item>
-      <link>https://www.theglobeandmail.com/opinion/article-trump-may-be-temporary-the-damage-he-is-doing-isnt/?intcmp=gift_share</link>
-      <description>
-        <![CDATA[<p>Trump may be temporary. The damage he is doing isn’t.</p>]]>
-      </description>
-      <source:markdown>Trump may be temporary. The damage he is doing isn’t.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/25/3594/</guid>
-    </item>    <item>
-      <link>https://electrek.co/2026/04/24/kia-cuts-ev6-prices-by-5000-2026-models/</link>
-      <description>
-        <![CDATA[<p>Kia cuts EV6 prices by $5,000 on 2026 models.</p>]]>
-      </description>
-      <source:markdown>Kia cuts EV6 prices by $5,000 on 2026 models.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/25/3592/</guid>
-    </item>    <item>
-      <title>WHCD Canceled Tonight After Shooting, Trump To Speak From White House Soon</title>
-      <link>https://deadline.com/2026/04/trump-shooting-whcd-reaction-1236872329/</link>
-      <description>
-        <![CDATA[UPDATE: The 2026 White House Correspondents Dinner has been canceled after a shooting tonight. Despite posting earlier that he wanted the event to &#8220;go on,&#8221; Donald Trump has consented to the wishes of the Secret Service and has exited the Washington Hilton. POTUS intends to deliver remarks from the White House in a press conference [&#8230;]]]>
-      </description>
-      <source:markdown>UPDATE: The 2026 White House Correspondents Dinner has been canceled after a shooting tonight. Despite posting earlier that he wanted the event to “go on,” Donald Trump has consented to the wishes of the Secret Service and has exited the Washington Hilton. POTUS intends to deliver remarks from the White House in a press conference \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872329</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/04/25.html#a013405</link>
-      <description>
-        <![CDATA[<a href="https://nypost.com/2026/04/25/sports/knicks-rout-hawks-in-must-win-game-4-to-even-series/">Knicks won in a blowout</a>. As disturbing as <a href="http://scripting.com/2026/04/24/134026.html">Thursday's game</a> was, today we are feeling no pain. Go Knicks! ;-)]]>
-      </description>
-      <source:markdown>[Knicks won in a blowout](https://nypost.com/2026/04/25/sports/knicks-rout-hawks-in-must-win-game-4-to-even-series/). As disturbing as [Thursday&#39;s game](http://scripting.com/2026/04/24/134026.html) was, today we are feeling no pain. Go Knicks! ;-)</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/25.html#a013405</guid>
-    </item>    <item>
-      <title>‘Spider-Noir’ Trailer: Prime Releases First Look At Nicolas Cage’s Spidey P.I. In Both Color And Black &#38; White — CCXPMX26</title>
-      <link>https://deadline.com/2026/04/spider-noir-trailer-nicolas-cage-color-black-white-1236871399/</link>
-      <description>
-        <![CDATA[Nicolas Cage&#8217;s Spider-Man Noir has stepped out of the shadows in a sneak peek at Sony Pictures Television&#8217;s Spider-Noir. On Saturday, MGM+ and Prime Video debuted the first trailer for Spider-Noir at CCXPMX26 in Mexico City, where stars Lamorne Morris, Li Jun Li, Jack Huston and Karen Rodriguez were in attendance, along with creator and [&#8230;]]]>
-      </description>
-      <source:markdown>Nicolas Cage’s Spider-Man Noir has stepped out of the shadows in a sneak peek at Sony Pictures Television’s Spider-Noir. On Saturday, MGM+ and Prime Video debuted the first trailer for Spider-Noir at CCXPMX26 in Mexico City, where stars Lamorne Morris, Li Jun Li, Jack Huston and Karen Rodriguez were in attendance, along with creator and \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236871399</guid>
-    </item>    <item>
-      <title>‘The Devil Wears Prada 2’ Director Considered  Adrian Grenier Cameo</title>
-      <link>https://deadline.com/2026/04/the-devil-wears-prada-2-director-adrian-grenier-cameo-1236872277/</link>
-      <description>
-        <![CDATA[The director of The Devil Wears Prada 2 admits that he did want to sprinkle a little Nate into the much-anticipated sequel. David Frankel told Entertainment Weekly that he considered &#8220;sneaking&#8221; Adrian Grenier in for a surprise cameo. Unfortunately for Nate fans, &#8220;it was just too late in our production schedule to make it happen.&#8221; [&#8230;]]]>
-      </description>
-      <source:markdown>The director of The Devil Wears Prada 2 admits that he did want to sprinkle a little Nate into the much-anticipated sequel. David Frankel told Entertainment Weekly that he considered “sneaking” Adrian Grenier in for a surprise cameo. Unfortunately for Nate fans, “it was just too late in our production schedule to make it happen.” \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872277</guid>
-    </item>    <item>
-      <title>Shots Fired At White House Correspondents Dinner, Trump Evacuated, Guests On The Floor</title>
-      <link>https://deadline.com/2026/04/trump-shots-fired-white-house-correspondents-dinner-1236872282/</link>
-      <description>
-        <![CDATA[(Updating &#8230;) Donald Trump and other dignitaries have been hustled out of the White House Correspondents Dinner after shots were apparently fired. As guests at the event leapt under tables under orders from the Secret Service, POTUS, along with the First Lady, the Vice President, mentalist Oz Pearlman and WHCA boss Weijia Jiang were hauled [&#8230;]]]>
-      </description>
-      <source:markdown>(Updating …) Donald Trump and other dignitaries have been hustled out of the White House Correspondents Dinner after shots were apparently fired. As guests at the event leapt under tables under orders from the Secret Service, POTUS, along with the First Lady, the Vice President, mentalist Oz Pearlman and WHCA boss Weijia Jiang were hauled \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872282</guid>
-    </item>    <item>
-      <title>Seth MacFarlane Says He’s Considering A ‘Ted’ Live-Action Movie For Peacock – Contenders TV</title>
-      <link>https://deadline.com/2026/04/seth-macfarlane-interview-ted-live-action-movie-1236872043/</link>
-      <description>
-        <![CDATA[The world can&#8217;t have enough Ted content, as far as Seth MacFarlane is concerned. The uber-producer revealed at Saturday&#8217;s Ted panel at Deadline Contenders TV that he has flirted with the idea of making a Ted movie for Peacock, in addition to wanting to make a third season of the live-action series that co-stars Alana [&#8230;]]]>
-      </description>
-      <source:markdown>The world can’t have enough Ted content, as far as Seth MacFarlane is concerned. The uber-producer revealed at Saturday’s Ted panel at Deadline Contenders TV that he has flirted with the idea of making a Ted movie for Peacock, in addition to wanting to make a third season of the live-action series that co-stars Alana \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872043</guid>
-    </item>    <item>
-      <title>‘Fallout’ Cast &#38; Creators On Navigating A World Full Of Complicated Characters Who Might “Bring A Gun To A Knife Fight” — Contenders TV</title>
-      <link>https://deadline.com/2026/04/fallout-kyle-maclachlan-creators-season-2-interview-1236872077/</link>
-      <description>
-        <![CDATA[If there&#8217;s one thing for certain about the world of Prime Video&#8217;s Fallout, it&#8217;s that there is no shortage of complicated characters. &#8220;I think coming out of Season 1, we were so excited to see what would happen when Lucy, the most moral character in our show, and the Ghoul, the most immoral character, were [&#8230;]]]>
-      </description>
-      <source:markdown>If there’s one thing for certain about the world of Prime Video’s Fallout, it’s that there is no shortage of complicated characters. “I think coming out of Season 1, we were so excited to see what would happen when Lucy, the most moral character in our show, and the Ghoul, the most immoral character, were \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872077</guid>
-    </item>    <item>
-      <title>‘Wonder Man’ For Disney+ Began As A Joke Pitch, Says EP – Contenders TV</title>
-      <link>https://deadline.com/2026/04/wonder-man-origins-disney-yahya-abdul-mateen-interview-1236872107/</link>
-      <description>
-        <![CDATA[The new Disney+ eight-part series Wonder Man, starring Yahya Abdul-Mateen II and Sir Ben Kingsley, all started as a joke. During a Deadline Contenders TV panel Executive Producer Destin Daniel Cretton got quite candid with how it all came to be. “The genesis of the idea actually sprouted when we were on the set of Shang [&#8230;]]]>
-      </description>
-      <source:markdown>The new Disney+ eight-part series Wonder Man, starring Yahya Abdul-Mateen II and Sir Ben Kingsley, all started as a joke. During a Deadline Contenders TV panel Executive Producer Destin Daniel Cretton got quite candid with how it all came to be. “The genesis of the idea actually sprouted when we were on the set of Shang \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236872107</guid>
-    </item>    <item>
-      <title>Maybe you should learn something</title>
-      <link>https://www.marginalia.nu/log/a_135_learn/</link>
-      <description>
-        <![CDATA[<p>You can learn new things. Pixel art, touch typing, 3d modelling, music, calligraphy, wood working, knitting, a language. Whatever is practical and calls to you, you can learn.</p>
-        <p>In the long term, learning new things is fun and makes life richer in ways you can&rsquo;t even imagine, and it&rsquo;s a time investment that will pay dividends for life as these skills never really go away. There are even social aspects, as you&rsquo;ll quite literally become a more interesting person to talk to.</p>]]>
-      </description>
-      <source:markdown>You can learn new things. Pixel art, touch typing, 3d modelling, music, calligraphy, wood working, knitting, a language. Whatever is practical and calls to you, you can learn.
-
-In the long term, learning new things is fun and makes life richer in ways you can’t even imagine, and it’s a time investment that will pay dividends for life as these skills never really go away. There are even social aspects, as you’ll quite literally become a more interesting person to talk to.</source:markdown>
-      <guid>cid://https://www.marginalia.nu/log/a_135_learn/</guid>
     </item>
   </channel>
 </rss>

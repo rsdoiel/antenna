@@ -7,10 +7,58 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>17 May 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>18 May 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best things to do this week in LA and SoCal: May 18-21</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-may-18-21</link>
+      <description>
+        <![CDATA[British bands invade the Roxy, Shatner and deGrasse Tyson explore the great beyond, Lena Dunham brings Famesick to L.A. and more of the best things to do this week.]]>
+      </description>
+      <source:markdown>British bands invade the Roxy, Shatner and deGrasse Tyson explore the great beyond, Lena Dunham brings Famesick to L.A. and more of the best things to do this week.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-36de-d051-a59e-ffdfe4810000</guid>
+    </item>    <item>
+      <title>One LA clinic tracks the heavy toll Trump&#39;s immigration crackdown takes on mental health</title>
+      <link>https://laist.com/news/one-la-clinic-tracks-the-heavy-toll-trumps-immigration-crackdown-takes-on-mental-health</link>
+      <description>
+        <![CDATA[Zocalo Health screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.]]>
+      </description>
+      <source:markdown>Zocalo Health screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-3677-dc26-a99e-b6ff8f3a0000</guid>
+    </item>    <item>
+      <title>California colleges are seeing a rise of conservative voices. Some classes are tense</title>
+      <link>https://laist.com/news/education/california-colleges-are-seeing-a-rise-of-conservative-voices-some-classes-are-tense</link>
+      <description>
+        <![CDATA[Turning Point USA continues to grow on CA campuses months after Charlie Kirk’s assassination. Campuses are seeing tensions rise as conservative students become more vocal.]]>
+      </description>
+      <source:markdown>Turning Point USA continues to grow on CA campuses months after Charlie Kirk’s assassination. Campuses are seeing tensions rise as conservative students become more vocal.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-3667-dc26-a99e-b6ffe8eb0000</guid>
+    </item>    <item>
+      <title>County health officials confirm fifth measles case in Los Angeles</title>
+      <link>https://laist.com/news/health/county-health-officials-confirm-fifth-measles-case-in-los-angeles</link>
+      <description>
+        <![CDATA[The resident was traveling internationally and arrived at LAX Thursday, May 14.]]>
+      </description>
+      <source:markdown>The resident was traveling internationally and arrived at LAX Thursday, May 14.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-36c9-d113-afff-7edd633c0000</guid>
+    </item>    <item>
+      <title>Data centers are guzzling California’s water. We have no idea how much</title>
+      <link>https://laist.com/news/climate-environment/data-centers-are-guzzling-californias-water-we-have-no-idea-how-much</link>
+      <description>
+        <![CDATA[Data centers are expanding into water-stressed California communities, but lax disclosure rules keep the public in the dark about actual water usage.]]>
+      </description>
+      <source:markdown>Data centers are expanding into water-stressed California communities, but lax disclosure rules keep the public in the dark about actual water usage.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-3644-d113-afff-7e5da3400000</guid>
+    </item>    <item>
+      <title>Why this tiny bookstore is becoming one of LA’s most perfect Sunday hangs</title>
+      <link>https://laist.com/news/los-angeles-activities/why-this-tiny-bookstore-is-becoming-one-of-las-most-perfect-sunday-hangs</link>
+      <description>
+        <![CDATA[Every Sunday, the store transforms into a community market featuring Filipino-inspired ceramics, hot honey pizza and vintage Japanese audio gear.]]>
+      </description>
+      <source:markdown>Every Sunday, the store transforms into a community market featuring Filipino-inspired ceramics, hot honey pizza and vintage Japanese audio gear.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-31ad-d113-afff-7dbdca070000</guid>
+    </item>    <item>
       <title>Why this tiny bookstore is becoming one of LA’s most perfect Sunday hangs</title>
       <link>https://laist.com/news/why-this-tiny-bookstore-is-becoming-one-of-las-most-perfect-sunday-hangs</link>
       <description>
@@ -18,6 +66,14 @@
       </description>
       <source:markdown>Every Sunday, the store transforms into a community market featuring Filipino-inspired ceramics, hot honey pizza and vintage Japanese audio gear.</source:markdown>
       <guid>cid://urn:uuid:0000019e-31ad-d113-afff-7dbdca070000</guid>
+    </item>    <item>
+      <title>UCLA just launched a massive AAPI textbook for the TikTok generation. And it&#39;s free</title>
+      <link>https://laist.com/news/education/ucla-just-launched-largest-multimedia-aapi-textbook-and-its-free</link>
+      <description>
+        <![CDATA[The digital project aims to bring overlooked histories to a TikTok generation.]]>
+      </description>
+      <source:markdown>The digital project aims to bring overlooked histories to a TikTok generation.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-23c7-d97d-ab9e-f3d798d70000</guid>
     </item>    <item>
       <title>4 food halls in Southern California serving up more than just good eats</title>
       <link>https://laist.com/news/los-angeles-activities/4-food-halls-in-southern-california-serving-up-more-than-just-good-eats</link>
@@ -34,14 +90,6 @@
       </description>
       <source:markdown>Chris &#34;Captain&#34; Campbell runs Captain&#39;s Auction House in Anaheim. On Sunday, Ryan Adams&#39; collection of pinball and arcade machines is up for bid.</source:markdown>
       <guid>cid://urn:uuid:0000019e-2380-dd9a-a1bf-bfdf715c0000</guid>
-    </item>    <item>
-      <title>UCLA just launched a massive AAPI textbook for the TikTok generation. And it&#39;s free</title>
-      <link>https://laist.com/news/education/ucla-just-launched-largest-multimedia-aapi-textbook-and-its-free</link>
-      <description>
-        <![CDATA[The digital project aims to bring overlooked histories to a TikTok generation.]]>
-      </description>
-      <source:markdown>The digital project aims to bring overlooked histories to a TikTok generation.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-23c7-d97d-ab9e-f3d798d70000</guid>
     </item>    <item>
       <title>Legal Coalition Prepares Restraining Orders Against Feds Who Targeted VC Defensa</title>
       <link>https://lataco.com/vc-defensa-legal-coalition-restraining-order</link>
@@ -566,6 +614,14 @@ The post [How Three Young Adults In L.A. Are Protecting Their Undocumented Paren
       <source:markdown>President Trump says he has a great relationship with President Xi. His trip to China will provide a temperature check.</source:markdown>
       <guid>cid://urn:uuid:0000019e-21fb-d208-afff-effb96bc0002</guid>
     </item>    <item>
+      <title>Solar developers say state program is a mess and slow to help low-income households</title>
+      <link>https://laist.com/news/climate-environment/solar-developers-say-state-program-is-a-mess-and-slow-to-help-low-income-households</link>
+      <description>
+        <![CDATA[Stalled payments and moving guardrails have put solar and battery-storage projects in limbo and put developers at risk of going out of business.]]>
+      </description>
+      <source:markdown>Stalled payments and moving guardrails have put solar and battery-storage projects in limbo and put developers at risk of going out of business.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-1e3f-dcfd-af9f-bf3f7c750000</guid>
+    </item>    <item>
       <title>Civics education is struggling. How one South LA school teaches ‘nitty-gritty’ work of democracy</title>
       <link>https://laist.com/news/education/south-los-angeles-charter-civics-teacher-democracy-election</link>
       <description>
@@ -581,14 +637,6 @@ The post [How Three Young Adults In L.A. Are Protecting Their Undocumented Paren
       </description>
       <source:markdown>Bass, Raman and Miller diverge on homelessness at service provider forums</source:markdown>
       <guid>cid://urn:uuid:0000019e-1ed6-dcd3-a9ff-7fd7eb380000</guid>
-    </item>    <item>
-      <title>Solar developers say state program is a mess and slow to help low-income households</title>
-      <link>https://laist.com/news/climate-environment/solar-developers-say-state-program-is-a-mess-and-slow-to-help-low-income-households</link>
-      <description>
-        <![CDATA[Stalled payments and moving guardrails have put solar and battery-storage projects in limbo and put developers at risk of going out of business.]]>
-      </description>
-      <source:markdown>Stalled payments and moving guardrails have put solar and battery-storage projects in limbo and put developers at risk of going out of business.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-1e3f-dcfd-af9f-bf3f7c750000</guid>
     </item>    <item>
       <title>Stricter Cell Phone Policies Associated with Reductions in Student Phone Use</title>
       <link>https://www.rand.org/news/press/2026/05/stricter-cell-phone-policies-associated-with-reductions.html</link>
@@ -2538,76 +2586,6 @@ The post [Diners, Dommes, and Dives: The 13 Best Restaurants in L.A., According 
       </description>
       <source:markdown>Voters who approved the sales tax increase in 2024 were promised a new approach to the crisis.</source:markdown>
       <guid>cid://urn:uuid:0000019d-c1b4-de45-a9bf-f9fcd24b0000</guid>
-    </item>    <item>
-      <title>Photos: The aftermath of the White House Correspondents&#39; Dinner shooting</title>
-      <link>https://laist.com/news/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting</link>
-      <description>
-        <![CDATA[A suspected gunman was arrested after firing shots at a security screening area at the Washington Hilton on Saturday night.]]>
-      </description>
-      <source:markdown>A suspected gunman was arrested after firing shots at a security screening area at the Washington Hilton on Saturday night.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-cb5a-de87-a79f-cb5e16680000</guid>
-    </item>    <item>
-      <title>What we know about Cole Allen, suspected White House Correspondents&#39; dinner shooter</title>
-      <link>https://laist.com/news/what-we-know-about-cole-allen-suspected-white-house-correspondents-dinner-shooter</link>
-      <description>
-        <![CDATA[The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials.]]>
-      </description>
-      <source:markdown>The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-cb50-de87-a79f-cb5ccc310000</guid>
-    </item>    <item>
-      <title>Sunday Taquitos #25: Nuclear Codes and Presidential Pardons</title>
-      <link>https://lataco.com/sunday-taquitos-25-nuclear-codes-and-presidential-pardons</link>
-      <description>
-        <![CDATA[<p>Sunday Taquitos! Art by Ivan Ehlers.</p>
-        <p>The post <a href="https://lataco.com/sunday-taquitos-25-nuclear-codes-and-presidential-pardons">Sunday Taquitos #25: Nuclear Codes and Presidential Pardons</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Sunday Taquitos! Art by Ivan Ehlers.
-
-The post [Sunday Taquitos #25: Nuclear Codes and Presidential Pardons](https://lataco.com/sunday-taquitos-25-nuclear-codes-and-presidential-pardons) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=178622</guid>
-    </item>    <item>
-      <title>Details emerge of alleged shooter at White House correspondents&#39; dinner</title>
-      <link>https://laist.com/news/details-emerge-of-alleged-shooter-at-white-house-correspondents-dinner</link>
-      <description>
-        <![CDATA[The alleged gunman has been identified as Cole Allen, according to two sources familiar with the matter.]]>
-      </description>
-      <source:markdown>The alleged gunman has been identified as Cole Allen, according to two sources familiar with the matter.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-ca74-dad1-a9fd-faf4fabd0001</guid>
-    </item>    <item>
-      <title>What SoCal schools are saying about ties of alleged correspondents&#39; dinner gunman</title>
-      <link>https://laist.com/news/what-we-know-about-the-socal-ties-of-alleged-gunman-at-the-white-house-correspondents-dinner</link>
-      <description>
-        <![CDATA[The man arrested in the shooting at the White House Correspondents Dinner Saturday night was identified as Cole Allen by two sources familiar with the matter.]]>
-      </description>
-      <source:markdown>The man arrested in the shooting at the White House Correspondents Dinner Saturday night was identified as Cole Allen by two sources familiar with the matter.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-ca1e-dad1-a9fd-fafeffa30000</guid>
-    </item>    <item>
-      <title>At this Monterey Park grade school, it&#39;s reading, writing and ... mahjong</title>
-      <link>https://laist.com/news/los-angeles-activities/at-a-monterey-park-elementary-school-students-learn-math-through-mahjong</link>
-      <description>
-        <![CDATA[Students at Bella Vista Elementary learn pattern recognition, strategy and more via the Chinese tile game.]]>
-      </description>
-      <source:markdown>Students at Bella Vista Elementary learn pattern recognition, strategy and more via the Chinese tile game.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-9308-d8f2-a99f-f7de5e850000</guid>
-    </item>    <item>
-      <title>A suspect is in custody after Trump is rushed from correspondents&#39; dinner</title>
-      <link>https://laist.com/news/trump-rushed-from-white-house-correspondents-dinner-after-sounds-of-possible-gunfire</link>
-      <description>
-        <![CDATA[President Trump and several cabinet members were rushed from the event in Washington, D.C. after several loud sounds were heard.]]>
-      </description>
-      <source:markdown>President Trump and several cabinet members were rushed from the event in Washington, D.C. after several loud sounds were heard.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-c772-de71-a59f-f7fb652b0000</guid>
-    </item>    <item>
-      <title>Exclusive: U.S. Citizen Temporarily Detained by ICE ERO Speaks out</title>
-      <link>https://lataco.com/exclusive-us-citizen-detained-ice-ero-speaks</link>
-      <description>
-        <![CDATA[<p>“The way they approached the vehicle is horrifying, like we’re being under attack. Screaming at us, breaking the glass. It was horrifying."</p>
-        <p>The post <a href="https://lataco.com/exclusive-us-citizen-detained-ice-ero-speaks">Exclusive: U.S. Citizen Temporarily Detained by ICE ERO Speaks out</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>“The way they approached the vehicle is horrifying, like we’re being under attack. Screaming at us, breaking the glass. It was horrifying.&#34;
-
-The post [Exclusive: U.S. Citizen Temporarily Detained by ICE ERO Speaks out](https://lataco.com/exclusive-us-citizen-detained-ice-ero-speaks) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=178630</guid>
     </item>
   </channel>
 </rss>

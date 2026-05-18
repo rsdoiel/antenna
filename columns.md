@@ -403,7 +403,6 @@ description: Blogs, columns and snapshots from around the web.
 - [John Osterhout](http://johnosterhout.com/feed/)
 - [Thereallo Blog](https://blog.thereallo.dev/rss.xml)
 - [Linix Weekly News](https://lwn.net/headlines/rss)
-- [Claire Berlinski, Substack (Cosmopolitan Globalist)](https://claireberlinski.substack.com/feed)
 - [Amber Case blog (Calm Institute)](https://www.caseorganic.com/blog-feed.xml)
 - [Amber Case at Medium](https://medium.com/feed/@caseorganic)
 - [Calmtech Institute Blog](https://www.calmtech.institute/blog-feed.xml)

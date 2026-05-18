@@ -4,19 +4,96 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>17 May 26 06:52 -0700</lastBuildDate>
+    <lastBuildDate>18 May 26 06:50 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Grocers&#39; manual : by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/78692</link>
+      <title>The two frontiers : by John Gould Fletcher</title>
+      <link>https://www.gutenberg.org/ebooks/78697</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The two frontiers : by John Gould Fletcher</title>
-      <link>https://www.gutenberg.org/ebooks/78697</link>
+      <title>The trail of the White Knight by Bruce Graeme</title>
+      <link>https://www.gutenberg.org/ebooks/78700</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ruhtinasöitä by Joseph Kessel</title>
+      <link>https://www.gutenberg.org/ebooks/78699</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe, The Raven Edition by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/25525</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe — Volume 2 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/2148</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Adventures of Huckleberry Finn by Mark Twain</title>
+      <link>https://www.gutenberg.org/ebooks/76</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Three Impostors; or, The Transmutations by Arthur Machen</title>
+      <link>https://www.gutenberg.org/ebooks/35517</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Wonderful Wizard of Oz by L. Frank  Baum</title>
+      <link>https://www.gutenberg.org/ebooks/43936</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The spark of Skeeter Bill by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78698</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Yhteiskunnan uhri : by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/78701</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Sketch of the Analytical Engine invented by Charles Babbage, Esq. by Luigi Federico Menabrea</title>
+      <link>https://www.gutenberg.org/ebooks/75107</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Archways of life by Mercedes de Acosta</title>
+      <link>https://www.gutenberg.org/ebooks/78702</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Grocers&#39; manual : by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/78692</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -45,13 +122,6 @@
     </item>    <item>
       <title>An artist&#39;s life by Harry Harrison</title>
       <link>https://www.gutenberg.org/ebooks/78693</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The trail of the White Knight by Bruce Graeme</title>
-      <link>https://www.gutenberg.org/ebooks/78700</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1401,90 +1471,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Calculus Made Easy by Silvanus P.  Thompson</title>
-      <link>https://www.gutenberg.org/ebooks/33283</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Cumulative Book Review Digest, Volume 4, 1908 : by Various</title>
-      <link>https://www.gutenberg.org/ebooks/78547</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nobody&#39;s boy (Sans famille) by Hector Malot</title>
-      <link>https://www.gutenberg.org/ebooks/25102</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Charles Chapin&#39;s story : by Charles E. Chapin</title>
-      <link>https://www.gutenberg.org/ebooks/78544</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Return of Sherlock Holmes by Arthur Conan Doyle</title>
-      <link>https://www.gutenberg.org/ebooks/108</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Raggedy Andy stories : by Johnny Gruelle</title>
-      <link>https://www.gutenberg.org/ebooks/17371</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Magpie&#39;s night-bear by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78551</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Joshua Haggard&#39;s daughter, Vol. III (of 3) by M. E.  Braddon</title>
-      <link>https://www.gutenberg.org/ebooks/78550</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Joshua Haggard&#39;s daughter, Vol. II (of 3) by M. E.  Braddon</title>
-      <link>https://www.gutenberg.org/ebooks/78549</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Joshua Haggard&#39;s daughter, Vol. I (of 3) by M. E.  Braddon</title>
-      <link>https://www.gutenberg.org/ebooks/78548</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>More than skin deep by Erle Stanley Gardner</title>
-      <link>https://www.gutenberg.org/ebooks/78545</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Caruso&#39;s method of voice production : by P. Mario Marafioti</title>
-      <link>https://www.gutenberg.org/ebooks/78546</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

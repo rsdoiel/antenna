@@ -4,10 +4,27 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 May 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>18 May 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What&#39;s up with your nightmares?</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5825024/whats-up-with-your-nightmares</link>
+      <description>
+        <![CDATA[Dreams of flying? Nightmares of teeth falling out? Falling off a cliff? As a sleep scientist at the University of Montreal, <a href="https://recherche.umontreal.ca/chercheur/is/in35846/"target="_blank"   >Michelle Carr</a> has pretty much heard it all. In Michelle’s new book <a href="https://us.macmillan.com/books/9781250342720/nightmareobscura/"target="_blank"   >Nightmare Obscura</a>, she explores the science of dreams, nightmares – and even something called dream engineering, where people influence their own dreams while they sleep. Today on Short Wave, co-host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a> dives into the science of our sleeping life with Michelle Carr. (encore)<br/><br/><em>Interested in any upcoming science books? Email us your question at <a href="mailto:shortwave@npr.org"target="_blank"   >shortwave@npr.org</a>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Dreams of flying? Nightmares of teeth falling out? Falling off a cliff? As a sleep scientist at the University of Montreal, [Michelle Carr](https://recherche.umontreal.ca/chercheur/is/in35846/) has pretty much heard it all. In Michelle’s new book [Nightmare Obscura](https://us.macmillan.com/books/9781250342720/nightmareobscura/), she explores the science of dreams, nightmares – and even something called dream engineering, where people influence their own dreams while they sleep. Today on Short Wave, co-host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) dives into the science of our sleeping life with Michelle Carr. (encore)
+
+_Interested in any upcoming science books? Email us your question at [shortwave@npr.org](mailto:shortwave@npr.org)._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave)._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b7a101e3-7342-4182-a6c7-0c21782095ab/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b7a101e3-7342-4182-a6c7-0c21782095ab&feed=F0qJcgXZ&t=podcast&e=nx-s1-5825024&p=510351&d=857&size=13725824" length="13725824" type="audio/mpeg" />
+      <guid>cid://edff3f64-1b83-4abc-8fc1-008f9c1ebd91</guid>
+    </item>    <item>
       <title>21 years and 20000 posts later</title>
       <link>https://www.osnews.com/story/144962/21-years-and-20000-posts-later/</link>
       <description>
@@ -4014,36 +4031,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 **KETTLE**  If you needed further evidence that AI comes first in pretty much everything nowadays, look no further than this year&#39;s Google Cloud Next show, which happened last week.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245807</guid>
-    </item>    <item>
-      <title>Tokenmaxxing isn&#39;t an AI strategy</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/26/ai_price_tag/</link>
-      <description>
-        <![CDATA[<h4>Before checking AI&#39;s price tag, see whether it fits</h4> <p>What does AI cost? It&#39;s a simple question and an important one – the answer will determine the fate of companies and shape society. But it&#39;s also a question that can&#39;t be answered in a meaningful way without additional context.…</p>]]>
-      </description>
-      <source:markdown>#### Before checking AI&#39;s price tag, see whether it fits
-
-What does AI cost? It&#39;s a simple question and an important one – the answer will determine the fate of companies and shape society. But it&#39;s also a question that can&#39;t be answered in a meaningful way without additional context.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245810</guid>
-    </item>    <item>
-      <title>Go straight to sell! Windows second-chance setup hawks Microsoft services at IT&#39;s expense</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/26/windows_second_chance_setup/</link>
-      <description>
-        <![CDATA[<h4>The OS trying to upsell you subscriptions is more than just an annoyance</h4> <p><strong>opinion</strong>  You’ve had your laptop for months, and you’ve always made sure it installed Microsoft updates. Then one day you boot up, and Windows 11 greets you with a confusing message: “You’re almost done setting up your PC.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### The OS trying to upsell you subscriptions is more than just an annoyance
-
-**opinion**  You’ve had your laptop for months, and you’ve always made sure it installed Microsoft updates. Then one day you boot up, and Windows 11 greets you with a confusing message: “You’re almost done setting up your PC.”…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245802</guid>
-    </item>    <item>
-      <title>AI&#39;s not going to kill open source code security</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/</link>
-      <description>
-        <![CDATA[<h4>Cal.com considers AGPL a license to drill, but not everyone feels that way</h4> <p><strong>Opinion</strong>  Cal.com has closed its commercial codebase, abandoning years of AGPL-3.0 licensing in a move that has alarmed the developer community that helped build it and sent ripples through the broader open source world.…</p>]]>
-      </description>
-      <source:markdown>#### Cal.com considers AGPL a license to drill, but not everyone feels that way
-
-**Opinion**  Cal.com has closed its commercial codebase, abandoning years of AGPL-3.0 licensing in a move that has alarmed the developer community that helped build it and sent ripples through the broader open source world.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245672</guid>
     </item>
   </channel>
 </rss>

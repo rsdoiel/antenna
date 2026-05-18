@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 May 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>18 May 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ShareFSServer 0.4.2 released</title>
+      <link>http://www.iconbar.com/comments/rss/news2335.html</link>
+      <description>
+        <![CDATA[Paolo has been burning the midnight oil with his free ShareFSServer software and version 0.4.2 was released yesterday.]]>
+      </description>
+      <source:markdown>Paolo has been burning the midnight oil with his free ShareFSServer software and version 0.4.2 was released yesterday.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2335.html</guid>
+    </item>    <item>
+      <title>b.log 2026/05/17 - No vide grenier, Gardening, [poop emoji], Genocide, GB News, Something calming.</title>
+      <link>https://heyrick.eu/blog/entry/20260517</link>
+      <description>
+        <![CDATA[No vide grenier, Gardening, [poop emoji], Genocide, GB News, Something calming.]]>
+      </description>
+      <source:markdown>No vide grenier, Gardening, \[poop emoji\], Genocide, GB News, Something calming.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260517</guid>
+    </item>    <item>
       <title>The Tomy Tutor and the state of 1983 home computers</title>
       <link>https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html</link>
       <description>
@@ -1269,14 +1285,6 @@ Meanwhile, I&#39;m going to work on a patched version of Mac OS for this machine
       </description>
       <source:markdown>Why a 1MHz bus?, Poop test shenanigans.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260427</guid>
-    </item>    <item>
-      <title>The King is in his counting house – in Silver River Kingdom</title>
-      <link>https://www.riscository.com/2026/silver-river-kingdom-released/</link>
-      <description>
-        <![CDATA[Initially released at the RISC OS North show last month, the latest title from AMCOG Games has now been made more widely available. Silver River Kingdom can now be purchased via !Store, priced at £14.99. Anyone who purchased the game at the show can &#8211; and should, to ensure they have the most up to date version &#8211; download the game free of charge from !Store, by using the download code found in the packaging; just input the code in the &#8220;Special instructions, promo code, etc.&#8221; field in the application.&#8230;]]>
-      </description>
-      <source:markdown>Initially released at the RISC OS North show last month, the latest title from AMCOG Games has now been made more widely available. Silver River Kingdom can now be purchased via !Store, priced at £14.99. Anyone who purchased the game at the show can – and should, to ensure they have the most up to date version – download the game free of charge from !Store, by using the download code found in the packaging; just input the code in the “Special instructions, promo code, etc.” field in the application.…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10940</guid>
     </item>
   </channel>
 </rss>
