@@ -4,10 +4,110 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>18 May 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>19 May 26 06:52 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Works of Edgar Allan Poe, The Raven Edition by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/25525</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Born in Exile by George Gissing</title>
+      <link>https://www.gutenberg.org/ebooks/4526</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Travels in the Great Desert of Sahara, in the Years of 1845 and 1846 by James Richardson</title>
+      <link>https://www.gutenberg.org/ebooks/22094</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe — Volume 5 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/2151</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Blue Castle: a novel by L. M.  Montgomery</title>
+      <link>https://www.gutenberg.org/ebooks/67979</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>McGuffey&#39;s Fifth Eclectic Reader by William Holmes McGuffey</title>
+      <link>https://www.gutenberg.org/ebooks/15040</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rambles of an archæologist among old books and in old places : by F. W.  Fairholt</title>
+      <link>https://www.gutenberg.org/ebooks/26449</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Moonfleet by John Meade Falkner</title>
+      <link>https://www.gutenberg.org/ebooks/10743</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Translator&#39;s error by Charles Dye</title>
+      <link>https://www.gutenberg.org/ebooks/78703</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Such a happy day by Catharine Shaw</title>
+      <link>https://www.gutenberg.org/ebooks/78706</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The bungalow mystery by Carolyn Keene</title>
+      <link>https://www.gutenberg.org/ebooks/78704</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A simplified presentation of Einstein&#39;s unified field equations by Tullio Levi-Civita</title>
+      <link>https://www.gutenberg.org/ebooks/78343</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Out of the depths : by Madeline Leslie</title>
+      <link>https://www.gutenberg.org/ebooks/78705</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Bel Ami, by Guy de Maupassant</title>
+      <link>https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co</link>
+      <description>
+        <![CDATA[A former soldier seduces and manipulates women in order to rise through Parisian society.]]>
+      </description>
+      <source:markdown>A former soldier seduces and manipulates women in order to rise through Parisian society.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co/downloads/guy-de-maupassant_bel-ami_vizetelly-co.epub?source=feed" length="602383" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co</guid>
+    </item>    <item>
       <title>The two frontiers : by John Gould Fletcher</title>
       <link>https://www.gutenberg.org/ebooks/78697</link>
       <description>
@@ -28,13 +128,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, The Raven Edition by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/25525</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>The Works of Edgar Allan Poe — Volume 2 by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/2148</link>
@@ -1429,48 +1522,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Bertha&#39;s engagement by Ann S.  Stephens</title>
-      <link>https://www.gutenberg.org/ebooks/78552</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cup-bearers of wine and hellebore by Llewelyn Powys</title>
-      <link>https://www.gutenberg.org/ebooks/78556</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Keveä kesäinen tarina by Albert Theodor Gnudtzmann</title>
-      <link>https://www.gutenberg.org/ebooks/78554</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Believe it or not!, 1929 by Robert L.  Ripley</title>
-      <link>https://www.gutenberg.org/ebooks/78557</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hyväntekijä : by Helvi Hämäläinen</title>
-      <link>https://www.gutenberg.org/ebooks/78553</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Kaarinan kouluvuodet by Elli Hällström</title>
-      <link>https://www.gutenberg.org/ebooks/78555</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
     </item>
   </channel>
 </rss>

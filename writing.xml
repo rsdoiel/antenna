@@ -4,10 +4,18 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>18 May 26 06:51 -0700</lastBuildDate>
+    <lastBuildDate>19 May 26 06:53 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>On Memorization</title>
+      <link>https://www.authorsalliance.org/2026/05/19/on-memorization/</link>
+      <description>
+        <![CDATA[“We say that a model has “memorized” a piece of training data when (1) it is possible to reconstruct from the model (2) a (near-)exact copy of (3) a substantial portion of (4) that specific piece of training data. We distinguish memorization from “extraction” (in which a user intentionally causes a model to generate a (near-)exact copy), from “regurgitation” (in which a model generates a (near-)exact copy, regardless of the user’s intentions), and from “reconstruction” (in which the (near-)exact copy can be obtained from the model by any means, not necessarily the ordinary generation process).” A. Feder Cooper and James Grimmelmann, The Files are in the Computer: On Copyright, Memorization, and Generative AI (2025)]]>
+      </description>
+      <source:markdown>“We say that a model has “memorized” a piece of training data when (1) it is possible to reconstruct from the model (2) a (near-)exact copy of (3) a substantial portion of (4) that specific piece of training data. We distinguish memorization from “extraction” (in which a user intentionally causes a model to generate a (near-)exact copy), from “regurgitation” (in which a model generates a (near-)exact copy, regardless of the user’s intentions), and from “reconstruction” (in which the (near-)exact copy can be obtained from the model by any means, not necessarily the ordinary generation process).” A. Feder Cooper and James Grimmelmann, The Files are in the Computer: On Copyright, Memorization, and Generative AI (2025)</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12923</guid>
+    </item>    <item>
       <title>The 1976 Act Could Have Been Very Different</title>
       <link>https://www.authorsalliance.org/2026/05/15/the-1976-act-could-have-been-very-different/</link>
       <description>
