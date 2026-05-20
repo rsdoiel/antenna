@@ -4,10 +4,19 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>19 May 26 06:52 -0700</lastBuildDate>
+    <lastBuildDate>20 May 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Banjo, by Claude McKay</title>
+      <link>https://standardebooks.org/ebooks/claude-mckay/banjo</link>
+      <description>
+        <![CDATA[A band of beachcombers join together to live as vagrants in Marseilles.]]>
+      </description>
+      <source:markdown>A band of beachcombers join together to live as vagrants in Marseilles.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/claude-mckay/banjo/downloads/claude-mckay_banjo.epub?source=feed" length="398504" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/claude-mckay/banjo</guid>
+    </item>    <item>
       <title>The Works of Edgar Allan Poe, The Raven Edition by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/25525</link>
       <description>
@@ -98,6 +107,15 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Bel Ami, by Guy de Maupassant</title>
+      <link>https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company</link>
+      <description>
+        <![CDATA[A former soldier seduces and manipulates women in order to rise through Parisian society.]]>
+      </description>
+      <source:markdown>A former soldier seduces and manipulates women in order to rise through Parisian society.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company/downloads/guy-de-maupassant_bel-ami_vizetelly-and-company.epub?source=feed" length="605317" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company</guid>
     </item>    <item>
       <title>Bel Ami, by Guy de Maupassant</title>
       <link>https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co</link>
@@ -1476,48 +1494,6 @@
     </item>    <item>
       <title>Two ways of facing life by Florence E. Burch</title>
       <link>https://www.gutenberg.org/ebooks/78567</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Wonders of physical science by E. E.  Fournier d&#39;Albe</title>
-      <link>https://www.gutenberg.org/ebooks/78559</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>An Englishwoman in a Turkish harem by Grace Ellison</title>
-      <link>https://www.gutenberg.org/ebooks/78562</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Beautiful Joe: An Autobiography by Marshall Saunders</title>
-      <link>https://www.gutenberg.org/ebooks/2818</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The illustrated horse management : by Edward Mayhew</title>
-      <link>https://www.gutenberg.org/ebooks/78560</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sure-dart : by Frederick H. Costello</title>
-      <link>https://www.gutenberg.org/ebooks/78561</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Incomparable 29th and the &#34;River Clyde&#34; by George Davidson</title>
-      <link>https://www.gutenberg.org/ebooks/25342</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
