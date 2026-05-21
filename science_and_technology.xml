@@ -4,10 +4,189 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>21 May 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/</link>
+      <description>
+        <![CDATA[The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump [&#8230;]]]>
+      </description>
+      <source:markdown>The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=93181</guid>
+    </item>    <item>
+      <title>Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/</link>
+      <description>
+        <![CDATA[Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future. That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World [&#8230;]]]>
+      </description>
+      <source:markdown>Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future. That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=996995</guid>
+    </item>    <item>
+      <title>New Eruption in the Bismarck Sea</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/</link>
+      <description>
+        <![CDATA[Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.]]>
+      </description>
+      <source:markdown>Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/</guid>
+    </item>    <item>
+      <title>Get your passwords out of BitWarden while you still can</title>
+      <link>https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/</link>
+      <description>
+        <![CDATA[I was a long-time Bitwarden user, until a year or so ago when I started migrating my passwords first to Firefox/LibreWolf, and recently from there to a KeePass database I can transfer and use with whatever password manager application is compatible with KeePass&#8217; file format. It seems I was accidentally on time, as it&#8217;s come out over the last few days that Bitwarden is probably going down the drain soon. In February, the company got a new CEO, and in March, it doubled its Premium price, announcing the hike deep in a feature announcement. The new CEO seems to be a bellwether for what&#8217;s to come for Bitwarden. He&#8217;s a merger and acquisitions guy, with a history of gutting companies and selling them for parts, and changes to Bitwarden&#8217;s website also indicate where it&#8217;s headed. The phrase “Always free” disappeared from the&#160;personal password manager page&#160;in mid-April. It used to sit prominently under the plan selector. The free plan still exists — for now — but the commitment language is gone. And then there’s the values rewrite. Bitwarden used to define its culture with the acronym GRIT: Gratitude, Responsibility,&#160;Inclusion, and&#160;Transparency. After May 4th, that changed. GRIT now stands for Gratitude, Responsibility,&#160;Innovation, and&#160;Trust. Inclusion and Transparency are out. Innovation and Trust are in. ↫ Patrick Boyd The &#8220;Always free&#8221; motto quietly reappeared on the site after its removal was uncovered and went viral on Fedi. The change in CEO, the changes in values, and the removal (and reappearance) of Bitwarden&#8217;s well-known and oft-repeated commitment to its free plan have all been quiet. No announcements, no blog posts, no posts on social media &#8211; but they did change a four-year old blog post by Bitwarden&#8217;s former CEO to change that GRIT acronym. You don&#8217;t need to be an honors student to figure out where this is going, and what the new CEO&#8217;s plans are for Bitwarden. Do as I did, and get your passwords out of BitWarden. I strongly suggest using an open format that can be used by any compatible password manager, with KeePass&#8217; formats being the obvious choice. This way your passwords are truly yours, and not dependent on someone&#8217;s continued commitment to free plans or proprietary services that can unexpectedly change hands. Bitwarden is licensed under the Apache 2.0 license, but with all of the above, one has to wonder how long that&#8217;s going to remain a thing.]]>
+      </description>
+      <source:markdown>I was a long-time Bitwarden user, until a year or so ago when I started migrating my passwords first to Firefox/LibreWolf, and recently from there to a KeePass database I can transfer and use with whatever password manager application is compatible with KeePass’ file format. It seems I was accidentally on time, as it’s come out over the last few days that Bitwarden is probably going down the drain soon. In February, the company got a new CEO, and in March, it doubled its Premium price, announcing the hike deep in a feature announcement. The new CEO seems to be a bellwether for what’s to come for Bitwarden. He’s a merger and acquisitions guy, with a history of gutting companies and selling them for parts, and changes to Bitwarden’s website also indicate where it’s headed. The phrase “Always free” disappeared from the personal password manager page in mid-April. It used to sit prominently under the plan selector. The free plan still exists — for now — but the commitment language is gone. And then there’s the values rewrite. Bitwarden used to define its culture with the acronym GRIT: Gratitude, Responsibility, Inclusion, and Transparency. After May 4th, that changed. GRIT now stands for Gratitude, Responsibility, Innovation, and Trust. Inclusion and Transparency are out. Innovation and Trust are in. ↫ Patrick Boyd The “Always free” motto quietly reappeared on the site after its removal was uncovered and went viral on Fedi. The change in CEO, the changes in values, and the removal (and reappearance) of Bitwarden’s well-known and oft-repeated commitment to its free plan have all been quiet. No announcements, no blog posts, no posts on social media – but they did change a four-year old blog post by Bitwarden’s former CEO to change that GRIT acronym. You don’t need to be an honors student to figure out where this is going, and what the new CEO’s plans are for Bitwarden. Do as I did, and get your passwords out of BitWarden. I strongly suggest using an open format that can be used by any compatible password manager, with KeePass’ formats being the obvious choice. This way your passwords are truly yours, and not dependent on someone’s continued commitment to free plans or proprietary services that can unexpectedly change hands. Bitwarden is licensed under the Apache 2.0 license, but with all of the above, one has to wonder how long that’s going to remain a thing.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145029</guid>
+    </item>    <item>
+      <title>A Discovered Trove of Bones and Teeth Yields New Clues to the Century-Old Mystery of &#39;Death Jars&#39; in Laos</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-discovered-trove-of-bones-and-teeth-yields-new-clues-to-the-century-old-mystery-of-death-jars-in-laos-180988772/</link>
+      <description>
+        <![CDATA[Scientists found bones of 37 people inside a giant stone jar at one of Southeast Asia’s most puzzling archaeological sites. The find suggests a multigenerational burial practice]]>
+      </description>
+      <source:markdown>Scientists found bones of 37 people inside a giant stone jar at one of Southeast Asia’s most puzzling archaeological sites. The find suggests a multigenerational burial practice</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Xsulsx3nOE2qS2VFAXNENA9fJN4=/420x240/filters:focal(2433x1622:2434x1623)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fa/5c/fa5cabb5-7bae-4522-afbc-24c024d1eddb/20171115_plain_of_jars_laos_2540_dxo.jpg" length="19424298" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-discovered-trove-of-bones-and-teeth-yields-new-clues-to-the-century-old-mystery-of-death-jars-in-laos-180988772/</guid>
+    </item>    <item>
+      <title>NASA Announces Winners in University Aeronautics Competition</title>
+      <link>https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/</link>
+      <description>
+        <![CDATA[A South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft maintenance [&#8230;]]]>
+      </description>
+      <source:markdown>A South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft maintenance \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=997851</guid>
+    </item>    <item>
+      <title>Printing with CUPS on OpenBSD</title>
+      <link>https://www.osnews.com/story/145027/printing-with-cups-on-openbsd/</link>
+      <description>
+        <![CDATA[Printing on Linux, macOS, and even on Windows seems to be pretty much a solved problem, but what about printing on OpenBSD? Anyway, to do so I would need to set up my HP OfficeJet printer, connected wirelessly to the network, on OpenBSD. I chose to do this using HPLIP and CUPS as they are both in ports, I am familiar with how they work, and my printer is old enough that its PPD (driver) file is included in the slightly older version of HPLIP that is ported to OpenBSD. However, after installing both packages, starting the relevant services via rcctl including Avahi, and launching CUPS and finding the printer, I could not get it to install properly. Either it would error out at the end saying the printer couldn’t be added and advise me to check the CUPS error log, or it would seemingly successfully add the printer but I couldn’t print anything and couldn’t adjust the printer settings. ↫ Morgan at his blog Only very tangentially related, but my personal crowning achievement in computing is somehow making it possible for my PA-RISC c8000 workstation running HP-UX 11i v1 to print to my modern all-in-one HP printer thing, some random HP consumer junker we bought on a whim because it was a returned item and cheap. It took some messing around, but ever since I&#8217;ve been able to just print stuff right from any application on HP-UX over the network, wirelessly. Note that the c8000 and HP-UX 11i v1 are almost two decades out of date compared to the printer, but by trying out promising device files included in HP-UX I managed to get it all to work. I never need it, but I am fairly sure I&#8217;m one of the very few people in the world who can reliably print from an HP-UX 11i v1 workstation to a modern throwaway HP junker over Wi-Fi. Put that on my tombstone.]]>
+      </description>
+      <source:markdown>Printing on Linux, macOS, and even on Windows seems to be pretty much a solved problem, but what about printing on OpenBSD? Anyway, to do so I would need to set up my HP OfficeJet printer, connected wirelessly to the network, on OpenBSD. I chose to do this using HPLIP and CUPS as they are both in ports, I am familiar with how they work, and my printer is old enough that its PPD (driver) file is included in the slightly older version of HPLIP that is ported to OpenBSD. However, after installing both packages, starting the relevant services via rcctl including Avahi, and launching CUPS and finding the printer, I could not get it to install properly. Either it would error out at the end saying the printer couldn’t be added and advise me to check the CUPS error log, or it would seemingly successfully add the printer but I couldn’t print anything and couldn’t adjust the printer settings. ↫ Morgan at his blog Only very tangentially related, but my personal crowning achievement in computing is somehow making it possible for my PA-RISC c8000 workstation running HP-UX 11i v1 to print to my modern all-in-one HP printer thing, some random HP consumer junker we bought on a whim because it was a returned item and cheap. It took some messing around, but ever since I’ve been able to just print stuff right from any application on HP-UX over the network, wirelessly. Note that the c8000 and HP-UX 11i v1 are almost two decades out of date compared to the printer, but by trying out promising device files included in HP-UX I managed to get it all to work. I never need it, but I am fairly sure I’m one of the very few people in the world who can reliably print from an HP-UX 11i v1 workstation to a modern throwaway HP junker over Wi-Fi. Put that on my tombstone.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145027</guid>
+    </item>    <item>
+      <title>OSNews fundrasier progress</title>
+      <link>https://www.osnews.com/story/145011/osnews-fundrasier-progress/</link>
+      <description>
+        <![CDATA[⁂ A little progress bar to keep track of our fundraiser! ⁂ &#x27a1;&#xfe0f; Donate through Ko-Fi &#x27a1;&#xfe0f; Donate through SEPA transfer &#x27a1;&#xfe0f; Why a fundraiser? Note that I have to update it manually, and that it includes both Ko-Fi donations, as well as direct bank transfers. Yes, if your country is part of SEPA (EU, more or less), you can now do a safe direct bank transfer using IBAN to a dedicated bank account. This avoids any third parties. Use your bank&#8217;s application or website (Name: Thom Holwerda &#8211; IBAN: SE08 8000 0820 1684 4657 8414 &#8211; BIC: SWEDSESS).]]>
+      </description>
+      <source:markdown>⁂ A little progress bar to keep track of our fundraiser! ⁂ ➡️ Donate through Ko-Fi ➡️ Donate through SEPA transfer ➡️ Why a fundraiser? Note that I have to update it manually, and that it includes both Ko-Fi donations, as well as direct bank transfers. Yes, if your country is part of SEPA (EU, more or less), you can now do a safe direct bank transfer using IBAN to a dedicated bank account. This avoids any third parties. Use your bank’s application or website (Name: Thom Holwerda – IBAN: SE08 8000 0820 1684 4657 8414 – BIC: SWEDSESS).</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145011</guid>
+    </item>    <item>
+      <title>From a Medieval Latrine in Germany, Archaeologists Extracted a Pristine Leather Notebook That Preserved Latin Cursive for Centuries</title>
+      <link>https://www.smithsonianmag.com/smart-news/from-a-medieval-latrine-in-germany-archaeologists-extracted-a-pristine-leather-notebook-that-preserved-latin-cursive-for-centuries-180988771/</link>
+      <description>
+        <![CDATA[The writing in the booklet suggests it belonged to an upper-class merchant, who may have had a mishap while using the toilet 800 years ago]]>
+      </description>
+      <source:markdown>The writing in the booklet suggests it belonged to an upper-class merchant, who may have had a mishap while using the toilet 800 years ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/O6mfKIU3PeOIEHwjsg1OEGV_ssY=/420x240/filters:focal(900x600:901x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/fb/19fb5134-3672-4430-a414-e93a74af2312/112598.jpg" length="220845" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/from-a-medieval-latrine-in-germany-archaeologists-extracted-a-pristine-leather-notebook-that-preserved-latin-cursive-for-centuries-180988771/</guid>
+    </item>    <item>
+      <title>Gentoo Penguins Are Actually Four Different Species, Scientists Say, Revealing They&#39;re Not Quite &#39;Winners&#39; of Climate Change After All</title>
+      <link>https://www.smithsonianmag.com/smart-news/gentoo-penguins-may-actually-be-four-different-species-scientists-say-revealing-theyre-not-quite-winners-of-climate-change-after-all-180988769/</link>
+      <description>
+        <![CDATA[A new study indicates that the adaptable birds evolved into distinct lineages as isolated populations shifted to match their environmental conditions over time. The work has implications for how conservationists assess threats to gentoos]]>
+      </description>
+      <source:markdown>A new study indicates that the adaptable birds evolved into distinct lineages as isolated populations shifted to match their environmental conditions over time. The work has implications for how conservationists assess threats to gentoos</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-_1NKdYlan9FCCkmQnDg7_BxtDo=/420x240/filters:focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/42/3042503e-dfcf-4a2c-b22f-296f24058194/16054445089_141edf5e98_o.jpg" length="151360" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/gentoo-penguins-may-actually-be-four-different-species-scientists-say-revealing-theyre-not-quite-winners-of-climate-change-after-all-180988769/</guid>
+    </item>    <item>
+      <title>La NASA informará sobre su estrategia y misiones para la Base Lunar</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/</link>
+      <description>
+        <![CDATA[Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar [&#8230;]]]>
+      </description>
+      <source:markdown>Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=998014</guid>
+    </item>    <item>
+      <title>NASA TechLeap Prize: Robotically Manipulated Payload Challenge</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/</link>
+      <description>
+        <![CDATA[The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing.&#160;NASA Flight Opportunities&#160;invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up [&#8230;]]]>
+      </description>
+      <source:markdown>The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing. NASA Flight Opportunities invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=997996</guid>
+    </item>    <item>
+      <title>PureOS Crimson Development Report: April 2026 – PureOS Crimson Released</title>
+      <link>https://puri.sm/posts/pureos-crimson-development-report-april-2026-pureos-crimson-released/</link>
+      <description>
+        <![CDATA[<p>The finish line! The moment we have anticipated is finally here &#8211; PureOS Crimson is released! All devices running PureOS Byzantium will receive the PureOS Upgrade application with their regular software updates.  If you&#8217;d like to install Crimson fresh, refer to our installation instructions for PCs, servers, and the Librem 5. This has been an [&#8230;]</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-april-2026-pureos-crimson-released/">PureOS Crimson Development Report: April 2026 &#8211; PureOS Crimson Released</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>The finish line! The moment we have anticipated is finally here – PureOS Crimson is released! All devices running PureOS Byzantium will receive the PureOS Upgrade application with their regular software updates.  If you’d like to install Crimson fresh, refer to our installation instructions for PCs, servers, and the Librem 5. This has been an \[…\]
+
+The post [PureOS Crimson Development Report: April 2026 – PureOS Crimson Released](https://puri.sm/posts/pureos-crimson-development-report-april-2026-pureos-crimson-released/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=85467</guid>
+    </item>    <item>
+      <title>Psyche Spacecraft Completes Mars Flyby</title>
+      <link>https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/</link>
+      <description>
+        <![CDATA[NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche&#8217;s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands. This flyby [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche’s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands. This flyby \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=997697</guid>
+    </item>    <item>
+      <title>NASA-developed AI Could Help Track Harmful Algae</title>
+      <link>https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/</link>
+      <description>
+        <![CDATA[NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California. Severe blooms [&#8230;]]]>
+      </description>
+      <source:markdown>NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California. Severe blooms \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=997964</guid>
+    </item>    <item>
+      <title>NASA to Provide Update on Moon Base Strategy, Missions</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/</link>
+      <description>
+        <![CDATA[NASA will host a news conference at 2 p.m. EDT, Tuesday, May 26, to share Moon Base plans and highlight progress toward a sustained presence on the lunar surface. The media briefing will take place at the agency’s Headquarters in Washington. Leadership will discuss program progress, including new industry partners and mission plans. Subject matter [&#8230;]]]>
+      </description>
+      <source:markdown>NASA will host a news conference at 2 p.m. EDT, Tuesday, May 26, to share Moon Base plans and highlight progress toward a sustained presence on the lunar surface. The media briefing will take place at the agency’s Headquarters in Washington. Leadership will discuss program progress, including new industry partners and mission plans. Subject matter \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=997912</guid>
+    </item>    <item>
+      <title>NASA Releases Technology Priorities to Energize Space Industry</title>
+      <link>https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/</link>
+      <description>
+        <![CDATA[NASA released the 2026 Civil Space Shortfall&#160;Ranking&#160;list on Wednesday, which integrates more than 400 responses from stakeholders including industry organizations, government agencies, and academia.&#160;Shortfalls refer to technology areas requiring further development to meet future exploration, science, and other mission needs. The goal of this document is to rank the space community’s most pervasive shortfalls to [&#8230;]]]>
+      </description>
+      <source:markdown>NASA released the 2026 Civil Space Shortfall Ranking list on Wednesday, which integrates more than 400 responses from stakeholders including industry organizations, government agencies, and academia. Shortfalls refer to technology areas requiring further development to meet future exploration, science, and other mission needs. The goal of this document is to rank the space community’s most pervasive shortfalls to \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=997813</guid>
+    </item>    <item>
+      <title>When Did Crabs Evolve Their Iconic Sideways Scuttle? Scientists Traced It to a Common Ancestor That Lived 200 Million Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/when-did-crabs-evolve-their-iconic-sideways-scuttle-scientist-traced-it-to-a-200-million-year-old-common-ancestor-180988765/</link>
+      <description>
+        <![CDATA[The findings suggest that their famous lateral movement evolved just once. It may have helped the animals rapidly spread and diversify because moving in two directions meant they could easily escape predators]]>
+      </description>
+      <source:markdown>The findings suggest that their famous lateral movement evolved just once. It may have helped the animals rapidly spread and diversify because moving in two directions meant they could easily escape predators</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eAm-mg0eKoTIv1SUdmZh_IXg02s=/420x240/filters:focal(250x170:251x171)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/29/b529cc56-9b02-41d9-b165-41fd904dea5f/low-res_tuerkayana_hirtipes_by_tsubasa_inoue_cc_by_40.png" length="80942" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/when-did-crabs-evolve-their-iconic-sideways-scuttle-scientist-traced-it-to-a-200-million-year-old-common-ancestor-180988765/</guid>
+    </item>    <item>
+      <title>I Am Artemis: Tim Goddard</title>
+      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/</link>
+      <description>
+        <![CDATA[Listen to this audio excerpt from Tim Goddard, NASA open water lead: At the end of their mission around the Moon, NASA’s Artemis II astronauts were recovered from their Orion spacecraft by a team of U.S. Navy divers and NASA personnel. This included Tim Goddard, NASA open water lead, who helped guide the complex open [&#8230;]]]>
+      </description>
+      <source:markdown>Listen to this audio excerpt from Tim Goddard, NASA open water lead: At the end of their mission around the Moon, NASA’s Artemis II astronauts were recovered from their Orion spacecraft by a team of U.S. Navy divers and NASA personnel. This included Tim Goddard, NASA open water lead, who helped guide the complex open \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=992221</guid>
+    </item>    <item>
+      <title>Two Researchers Are Rebuilding Mathematics From the Ground Up</title>
+      <link>https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/</link>
+      <description>
+        <![CDATA[By replacing the most fundamental concept in topology, Peter Scholze and Dustin Clausen are taking the first step in a far bigger program to understand why numbers behave the way they do.            <p>The post <a href="https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/" target="_blank">Two Researchers Are Rebuilding Mathematics From the Ground Up</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>By replacing the most fundamental concept in topology, Peter Scholze and Dustin Clausen are taking the first step in a far bigger program to understand why numbers behave the way they do.
+
+The post [Two Researchers Are Rebuilding Mathematics From the Ground Up](https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=162104</guid>
+    </item>    <item>
+      <title>How Alexander Grothendieck Revolutionized 20th-Century Mathematics</title>
+      <link>https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/</link>
+      <description>
+        <![CDATA[Grothendieck is revered in the world of math; outside of it, he’s known for his unusual life, if he’s known at all. But what were his actual mathematical contributions?            <p>The post <a href="https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/" target="_blank">How Alexander Grothendieck Revolutionized 20th-Century Mathematics</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Grothendieck is revered in the world of math; outside of it, he’s known for his unusual life, if he’s known at all. But what were his actual mathematical contributions?
+
+The post [How Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=162115</guid>
+    </item>    <item>
       <title>Regularly Wearing a Cooling Vest Might Help You Lose Body Fat, According to a New Study</title>
       <link>https://www.smithsonianmag.com/smart-news/regularly-wearing-a-cooling-vest-might-help-you-lose-body-fat-according-to-a-new-study-180988767/</link>
       <description>
@@ -343,9 +522,9 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <title>The 21 years and 20000 posts OSNews fundraiser: €1 for every post</title>
       <link>https://www.osnews.com/story/144982/the-21-years-and-20000-posts-osnews-fundraiser-a-euro-for-every-post/</link>
       <description>
-        <![CDATA[&#x2b07;&#xfe0f; Note: this post is sticky. New posts appear below it, so scroll down! &#x2b07;&#xfe0f; To celebrate my 21 years and 20000 posts as OSNews&#8217; managing editor, it&#8217;s time for a massive fundraiser: €1 for every story I&#8217;ve posted over the past 21 years, for a long-term total goal of €20000. Because OSNews is ad-free and independent, I rely entirely on your donations and support for my income and OSNews&#8217; continued survival. Your donations ensures OSNews remains free of ads, corporate influence, and other commercial interests that have ruined so many great websites. Why support OSNews? I want to make sure I can run OSNews for another two decades and another 20000 posts, and I need your help to do so. Since my wife, who has a tough, underpaid job in elderly care, is largely unable to work due to health reasons caused by that very same job, my income has become a lot more crucial for our kids, my wife, and myself. With OSNews readers being more skeptical of subscription-like things like our Patreon than most people, it&#8217;s exactly these one-time donations that make up the bulk of your support. To sweeten the deal, I&#8217;ve come up with a bunch of silly incentives that will unlock at certain thresholds: I know many of you don&#8217;t really care about incentives and silly things like these, but I think they&#8217;re fun and add some interesting things to donate to. The donations already started coming in, so we&#8217;ve got a small head start. Also, if anyone has any idea on how to add a cool progress bar to OSNews to keep track of the donations and incentives, please let me know. I&#8217;m sure some of you can whip something up or point me to something. OSNews was founded in 1997, so we&#8217;re almost 30 years old. Let&#8217;s keep this wonderful little corner of the people-focused web alive for just a euro per post. Everyone here deserves it, because y&#8217;all are great. &#x2665;&#xfe0f;]]>
+        <![CDATA[To celebrate my 21 years and 20000 posts as OSNews&#8217; managing editor, it&#8217;s time for a massive fundraiser: €1 for every story I&#8217;ve posted over the past 21 years, for a long-term total goal of €20000. Because OSNews is ad-free and independent, I rely entirely on your donations and support for my income and OSNews&#8217; continued survival. Your donations ensures OSNews remains free of ads, corporate influence, and other commercial interests that have ruined so many great websites. Why support OSNews? I want to make sure I can run OSNews for another two decades and another 20000 posts, and I need your help to do so. Since my wife, who has a tough, underpaid job in elderly care, is largely unable to work due to health reasons caused by that very same job, my income has become a lot more crucial for our kids, my wife, and myself. With OSNews readers being more skeptical of subscription-like things like our Patreon than most people, it&#8217;s exactly these one-time donations that make up the bulk of your support. To sweeten the deal, I&#8217;ve come up with a bunch of silly incentives that will unlock at certain thresholds: I know many of you don&#8217;t really care about incentives and silly things like these, but I think they&#8217;re fun and add some interesting things to donate to. The donations already started coming in, so we&#8217;ve got a small head start. Also, if anyone has any idea on how to add a cool progress bar to OSNews to keep track of the donations and incentives, please let me know. I&#8217;m sure some of you can whip something up or point me to something. OSNews was founded in 1997, so we&#8217;re almost 30 years old. Let&#8217;s keep this wonderful little corner of the people-focused web alive for just a euro per post. Everyone here deserves it, because y&#8217;all are great. &#x2665;&#xfe0f;]]>
       </description>
-      <source:markdown>⬇️ Note: this post is sticky. New posts appear below it, so scroll down! ⬇️ To celebrate my 21 years and 20000 posts as OSNews’ managing editor, it’s time for a massive fundraiser: €1 for every story I’ve posted over the past 21 years, for a long-term total goal of €20000. Because OSNews is ad-free and independent, I rely entirely on your donations and support for my income and OSNews’ continued survival. Your donations ensures OSNews remains free of ads, corporate influence, and other commercial interests that have ruined so many great websites. Why support OSNews? I want to make sure I can run OSNews for another two decades and another 20000 posts, and I need your help to do so. Since my wife, who has a tough, underpaid job in elderly care, is largely unable to work due to health reasons caused by that very same job, my income has become a lot more crucial for our kids, my wife, and myself. With OSNews readers being more skeptical of subscription-like things like our Patreon than most people, it’s exactly these one-time donations that make up the bulk of your support. To sweeten the deal, I’ve come up with a bunch of silly incentives that will unlock at certain thresholds: I know many of you don’t really care about incentives and silly things like these, but I think they’re fun and add some interesting things to donate to. The donations already started coming in, so we’ve got a small head start. Also, if anyone has any idea on how to add a cool progress bar to OSNews to keep track of the donations and incentives, please let me know. I’m sure some of you can whip something up or point me to something. OSNews was founded in 1997, so we’re almost 30 years old. Let’s keep this wonderful little corner of the people-focused web alive for just a euro per post. Everyone here deserves it, because y’all are great. ♥️</source:markdown>
+      <source:markdown>To celebrate my 21 years and 20000 posts as OSNews’ managing editor, it’s time for a massive fundraiser: €1 for every story I’ve posted over the past 21 years, for a long-term total goal of €20000. Because OSNews is ad-free and independent, I rely entirely on your donations and support for my income and OSNews’ continued survival. Your donations ensures OSNews remains free of ads, corporate influence, and other commercial interests that have ruined so many great websites. Why support OSNews? I want to make sure I can run OSNews for another two decades and another 20000 posts, and I need your help to do so. Since my wife, who has a tough, underpaid job in elderly care, is largely unable to work due to health reasons caused by that very same job, my income has become a lot more crucial for our kids, my wife, and myself. With OSNews readers being more skeptical of subscription-like things like our Patreon than most people, it’s exactly these one-time donations that make up the bulk of your support. To sweeten the deal, I’ve come up with a bunch of silly incentives that will unlock at certain thresholds: I know many of you don’t really care about incentives and silly things like these, but I think they’re fun and add some interesting things to donate to. The donations already started coming in, so we’ve got a small head start. Also, if anyone has any idea on how to add a cool progress bar to OSNews to keep track of the donations and incentives, please let me know. I’m sure some of you can whip something up or point me to something. OSNews was founded in 1997, so we’re almost 30 years old. Let’s keep this wonderful little corner of the people-focused web alive for just a euro per post. Everyone here deserves it, because y’all are great. ♥️</source:markdown>
       <guid>cid://https://www.osnews.com/?p=144982</guid>
     </item>    <item>
       <title>Haiku OS runs on M1 Macs now</title>
@@ -3311,416 +3490,6 @@ If you&#39;ve felt the sting of surging hardware prices, Microsoft can sympathiz
 
 Developers of major Linux distributions have begun shipping patches to address a local privilege escalation (LPE) vulnerability arising from a logic flaw.…</source:markdown>
       <guid>cid://tag:theregister.com,2005:story245884</guid>
-    </item>    <item>
-      <title>Amazon chips no longer just a side dish, they&#39;re a $20B biz</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/amazon_chips_20b_business/</link>
-      <description>
-        <![CDATA[<h4>The Trainium train keeps a-rollin&#39;</h4> <p>Amazon is now among the top three datacenter chip businesses in the world, as its semiconductor business surpassed a $20 billion annual run rate ... and it would be closer to $50 billion if it included itself among the customers, CEO Andy Jassy said during the company’s first quarter earnings call on Wednesday.…</p>]]>
-      </description>
-      <source:markdown>#### The Trainium train keeps a-rollin&#39;
-
-Amazon is now among the top three datacenter chip businesses in the world, as its semiconductor business surpassed a $20 billion annual run rate ... and it would be closer to $50 billion if it included itself among the customers, CEO Andy Jassy said during the company’s first quarter earnings call on Wednesday.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245885</guid>
-    </item>    <item>
-      <title>I Am Artemis: Ryan Schulte</title>
-      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As&#160;the&#160;four&#160;Artemis II&#160;astronauts&#160;traveled on&#160;a&#160;694,481-mile journey around the Moon and back,&#160;the Orion spacecraft&#160;provided them with all the essentials&#160;for deep space life, including&#160;daily&#160;exercise. The crew used an exercise device called the flywheel throughout their mission to maintain their physical and mental health, and Ryan Schulte, Orion [&#8230;]]]>
-      </description>
-      <source:markdown>Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As the four Artemis II astronauts traveled on a 694,481-mile journey around the Moon and back, the Orion spacecraft provided them with all the essentials for deep space life, including daily exercise. The crew used an exercise device called the flywheel throughout their mission to maintain their physical and mental health, and Ryan Schulte, Orion \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=991883</guid>
-    </item>    <item>
-      <title>A Father and Daughter Forged More Than 200 Artworks by Warhol, Banksy, Picasso and Others—and Sold Them for $2 Million</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-father-and-daughter-forged-more-than-200-artworks-by-warhol-banksy-picasso-and-others-and-old-them-for-2-million-180988641/</link>
-      <description>
-        <![CDATA[The New Jersey residents, who face up to 20 years in prison, commissioned an artist in Poland to create the fakes. They got special penalties for forging paintings by Native American artists]]>
-      </description>
-      <source:markdown>The New Jersey residents, who face up to 20 years in prison, commissioned an artist in Poland to create the fakes. They got special penalties for forging paintings by Native American artists</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xX15NnKNESNKerorFbGHf4f1Lok=/420x240/filters:focal(325x328:326x329)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/03/b703840f-327c-44d4-a9b4-b0b148006443/painting-forgery.png" length="1076229" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-father-and-daughter-forged-more-than-200-artworks-by-warhol-banksy-picasso-and-others-and-old-them-for-2-million-180988641/</guid>
-    </item>    <item>
-      <title>US-Indian Spacecraft Captures Mexico City Subsidence</title>
-      <link>https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/</link>
-      <description>
-        <![CDATA[Description A scientist produced this map of land subsidence (sinking) in Mexico City using data from the NISAR (NASA-ISRO Synthetic Aperture Radar) mission captured between Oct. 25, 2025, and Jan. 17, 2026. The region has been a well-known hot spot of subsidence for decades, and images like this help confirm that NISAR is performing as […]]]>
-      </description>
-      <source:markdown>Description A scientist produced this map of land subsidence (sinking) in Mexico City using data from the NISAR (NASA-ISRO Synthetic Aperture Radar) mission captured between Oct. 25, 2025, and Jan. 17, 2026. The region has been a well-known hot spot of subsidence for decades, and images like this help confirm that NISAR is performing as \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/</guid>
-    </item>    <item>
-      <title>Scientists Create the First Detailed &#39;Smell Map&#39; of Odor Sensors in the Mouse Nose—and Sniff Out Some Surprising Discoveries</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-create-the-first-detailed-smell-map-of-odor-sensors-in-the-mouse-nose-and-sniff-out-some-surprises-180988639/</link>
-      <description>
-        <![CDATA[In two new studies, researchers used genetic techniques to upend a longstanding assumption that nerve cells with scent detectors were randomly arranged. They don’t know whether the same spatial organization is found in human noses]]>
-      </description>
-      <source:markdown>In two new studies, researchers used genetic techniques to upend a longstanding assumption that nerve cells with scent detectors were randomly arranged. They don’t know whether the same spatial organization is found in human noses</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4wPa1BJh13mC_kffZqyxqxFsKkE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/b0/24b074b4-a775-4fb7-a1c3-f8dc630b8080/mouse-nose-main.png" length="2060392" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-create-the-first-detailed-smell-map-of-odor-sensors-in-the-mouse-nose-and-sniff-out-some-surprises-180988639/</guid>
-    </item>    <item>
-      <title>Earliest 86-DOS and PC-DOS code released as open source</title>
-      <link>https://www.osnews.com/story/144849/earliest-86-dos-and-pc-dos-code-released-as-open-source/</link>
-      <description>
-        <![CDATA[Microsoft is continuing its efforts to release early versions of DOS as open source, and today we&#8217;ve got a special one. We’re stoked today to showcase some newly available source code materials that provide an even earlier look into the development of PC-DOS 1.00, the first release of DOS for the IBM PC. A dedicated team of historians and preservationists led by Yufeng Gao and Rich Cini has worked to locate, scan, and transcribe the stack of DOS-era source listings from Tim Paterson, the author of DOS. The listings include sources to the 86-DOS 1.00 kernel, several development snapshots of the PC-DOS 1.00 kernel, and some well-known utilities such as CHKDSK. Not only were these assembler listings, but there were also listings of the assembler itself! This work offers rare insight into how MS-DOS/PC-DOS came to be, and how operating system development was done at the time, not as it was later reconstructed. ↫ Stacey Haffner and Scott Hanselman It&#8217;s wild that the source code had to be transcribed from paper, including notes and changes. You can find more information about the process on Gao’s website and Cini’s website.]]>
-      </description>
-      <source:markdown>Microsoft is continuing its efforts to release early versions of DOS as open source, and today we’ve got a special one. We’re stoked today to showcase some newly available source code materials that provide an even earlier look into the development of PC-DOS 1.00, the first release of DOS for the IBM PC. A dedicated team of historians and preservationists led by Yufeng Gao and Rich Cini has worked to locate, scan, and transcribe the stack of DOS-era source listings from Tim Paterson, the author of DOS. The listings include sources to the 86-DOS 1.00 kernel, several development snapshots of the PC-DOS 1.00 kernel, and some well-known utilities such as CHKDSK. Not only were these assembler listings, but there were also listings of the assembler itself! This work offers rare insight into how MS-DOS/PC-DOS came to be, and how operating system development was done at the time, not as it was later reconstructed. ↫ Stacey Haffner and Scott Hanselman It’s wild that the source code had to be transcribed from paper, including notes and changes. You can find more information about the process on Gao’s website and Cini’s website.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144849</guid>
-    </item>    <item>
-      <title>Apple gives up on Vision Pro, disbands Vision Pro team</title>
-      <link>https://www.osnews.com/story/144847/apple-gives-up-on-vision-pro-disbands-vision-pro-team/</link>
-      <description>
-        <![CDATA[When Apple unveiled the Vision Pro, almost three (!) years ago, I concluded: If there’s one company that can convince people to spend $3500 to strap an isolating dystopian glowing robot mask onto their faces it’s Apple, but I still have a hard time believing this is what people want. ↫ Thom Holwerda at OSNews (quoting myself is weird) MacRumors&#8217; Juli Clover, today: Apple has all but given up on the Vision Pro after the M5 model failed to revitalize interest in the device, MacRumors has learned. Apple updated the Vision Pro with a faster M5 chip and a more comfortable band in October 2025, but there were no other hardware changes, and consumers still weren&#8217;t interested.  Apple has apparently stopped work on the Vision Pro and the Vision Pro team has been redistributed to other teams within Apple. Some former Vision Pro team members are working on Siri, which is not a surprise as Vision Pro chief Mike Rockwell has been leading the Siri team since March 2025. ↫ Juli Clover at MacRumors VR &#8211; what the Vision Pro is, whether Apple&#8217;s marketing likes to say it or not &#8211; has proven to be good for exactly two things: games and porn. The Vision Pro has neither. It was destined to be a flop from the start, as nobody wants to strap an uncomfortable computer to their face that does less than all of the other computers they already have, and what it does do, it does worse. I do wonder if this makes the Vision Pro the most expensive flop in human history. Has any company ever spent more on a product that failed this spectacularly?]]>
-      </description>
-      <source:markdown>When Apple unveiled the Vision Pro, almost three (!) years ago, I concluded: If there’s one company that can convince people to spend $3500 to strap an isolating dystopian glowing robot mask onto their faces it’s Apple, but I still have a hard time believing this is what people want. ↫ Thom Holwerda at OSNews (quoting myself is weird) MacRumors’ Juli Clover, today: Apple has all but given up on the Vision Pro after the M5 model failed to revitalize interest in the device, MacRumors has learned. Apple updated the Vision Pro with a faster M5 chip and a more comfortable band in October 2025, but there were no other hardware changes, and consumers still weren’t interested. Apple has apparently stopped work on the Vision Pro and the Vision Pro team has been redistributed to other teams within Apple. Some former Vision Pro team members are working on Siri, which is not a surprise as Vision Pro chief Mike Rockwell has been leading the Siri team since March 2025. ↫ Juli Clover at MacRumors VR – what the Vision Pro is, whether Apple’s marketing likes to say it or not – has proven to be good for exactly two things: games and porn. The Vision Pro has neither. It was destined to be a flop from the start, as nobody wants to strap an uncomfortable computer to their face that does less than all of the other computers they already have, and what it does do, it does worse. I do wonder if this makes the Vision Pro the most expensive flop in human history. Has any company ever spent more on a product that failed this spectacularly?</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144847</guid>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 4873-4878: Welcome to the Atacama Drill Target</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/</link>
-      <description>
-        <![CDATA[Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Friday, April 24, 2026 There was excitement in the air as the Curiosity Science Team kicked off a drill campaign at the Atacama site to characterize the first Mount Sharp layered-sulfate bedrock since leaving the boxwork terrain. […]]]>
-      </description>
-      <source:markdown>Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Friday, April 24, 2026 There was excitement in the air as the Curiosity Science Team kicked off a drill campaign at the Atacama site to characterize the first Mount Sharp layered-sulfate bedrock since leaving the boxwork terrain. \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/</guid>
-    </item>    <item>
-      <title>US-Indian Space Mission Maps Extreme Subsidence in Mexico City</title>
-      <link>https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/</link>
-      <description>
-        <![CDATA[One of the most powerful radar systems ever launched into space has mapped the ground moving beneath one of fastest subsiding capitals in the world: Mexico City. The findings show how quickly and reliably the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite can track real-time changes across Earth’s surface from orbit, unhindered by clouds or vegetation [&#8230;]]]>
-      </description>
-      <source:markdown>One of the most powerful radar systems ever launched into space has mapped the ground moving beneath one of fastest subsiding capitals in the world: Mexico City. The findings show how quickly and reliably the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite can track real-time changes across Earth’s surface from orbit, unhindered by clouds or vegetation \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=991877</guid>
-    </item>    <item>
-      <title>Researchers move in the right direction, develop powerful GPS interference alarm</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/boffins_new_gps_interference_alarm/</link>
-      <description>
-        <![CDATA[<h4>ORNL says portable detector kit can separate real GPS signals from fake ones even at equal strength</h4> <p>GPS spoofing, which sends fake satellite-like signals, and GPS jamming, which drowns receivers in noise, are increasingly serious problems. Researchers at Oak Ridge National Laboratory in Tennessee have created what they say is the most effective system yet for detecting GPS interference, which could help blunt such attacks.…</p>]]>
-      </description>
-      <source:markdown>#### ORNL says portable detector kit can separate real GPS signals from fake ones even at equal strength
-
-GPS spoofing, which sends fake satellite-like signals, and GPS jamming, which drowns receivers in noise, are increasingly serious problems. Researchers at Oak Ridge National Laboratory in Tennessee have created what they say is the most effective system yet for detecting GPS interference, which could help blunt such attacks.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245879</guid>
-    </item>    <item>
-      <title>These Are the Top Ten &#39;Endangered&#39; Buildings and Bridges in England and Wales—and They Tell Us a Lot About Life in the Victorian Era</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-buildings-and-bridges-are-the-most-endangered-in-england-and-wales-and-they-tell-us-a-lot-about-life-in-the-victorian-era-180988642/</link>
-      <description>
-        <![CDATA[Structures remaining from the height of the British Empire reveal changing economic, medical and education trends from the 1800s and early 1900s. But their legacy is at risk as they fall into disrepair]]>
-      </description>
-      <source:markdown>Structures remaining from the height of the British Empire reveal changing economic, medical and education trends from the 1800s and early 1900s. But their legacy is at risk as they fall into disrepair</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PFqmckKbYQ-r_QebXEccl--riTc=/420x240/filters:focal(3072x2048:3073x2049)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a2/88/a288e5f2-cf22-4f25-b006-dc010a43aa2a/tees_transporter_bridge_cav_aerial_92.jpg" length="18808585" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-buildings-and-bridges-are-the-most-endangered-in-england-and-wales-and-they-tell-us-a-lot-about-life-in-the-victorian-era-180988642/</guid>
-    </item>    <item>
-      <title>Microsoft&#39;s patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_zero_click_exploit/</link>
-      <description>
-        <![CDATA[<h4>Second try&#39;s a charm?</h4> <p>Microsoft and the US Cybersecurity and Infrastructure Security Agency (CISA) warned that attackers are exploiting a zero-click Windows flaw that can expose sensitive information on vulnerable systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Second try&#39;s a charm?
-
-Microsoft and the US Cybersecurity and Infrastructure Security Agency (CISA) warned that attackers are exploiting a zero-click Windows flaw that can expose sensitive information on vulnerable systems.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245878</guid>
-    </item>    <item>
-      <title>Legacy TLS tour continues with Exchange Online blocking old versions from July 2026</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/exchange_online_blocks_old_versions/</link>
-      <description>
-        <![CDATA[<h4>Microsoft readies the axe once again for yesterday&#39;s security</h4> <p>Microsoft has warned users still clinging to legacy TLS versions that the end is nigh for TLS 1.0 and 1.1 on POP3 and IMAP4 connections to Exchange Online.…</p>]]>
-      </description>
-      <source:markdown>#### Microsoft readies the axe once again for yesterday&#39;s security
-
-Microsoft has warned users still clinging to legacy TLS versions that the end is nigh for TLS 1.0 and 1.1 on POP3 and IMAP4 connections to Exchange Online.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245873</guid>
-    </item>    <item>
-      <title>Databricks can&#39;t seem to shake authors&#39; copyright claim that could result in &#39;extraordinary&#39; damages</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/databricks_author_copyright_lawsuit_continues/</link>
-      <description>
-        <![CDATA[<h4>Authors say it acquired an LLM that was trained on their copyrighted data, and judge keeps asking for more info</h4> <p>Databricks cannot shake a class action lawsuit targeting its LLM, which several book authors contend was created with a database that contained pirated versions of some of their copyrighted books – and about 196,000 titles in all.…</p>]]>
-      </description>
-      <source:markdown>#### Authors say it acquired an LLM that was trained on their copyrighted data, and judge keeps asking for more info
-
-Databricks cannot shake a class action lawsuit targeting its LLM, which several book authors contend was created with a database that contained pirated versions of some of their copyrighted books – and about 196,000 titles in all.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245877</guid>
-    </item>    <item>
-      <title>The FDA Approves the First-Ever Gene Therapy for Deafness, Which Aims to Restore Hearing in Kids With a Rare Inherited Condition</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-fda-approves-the-first-ever-gene-therapy-for-deafness-which-aims-to-restore-hearing-in-kids-with-a-rare-inherited-condition-180988635/</link>
-      <description>
-        <![CDATA[The agency's decision is based on results from a clinical trial in which the treatment improved hearing in 80 percent of the pediatric participants. However, Deaf community advocates worry about the push to cure hearing loss]]>
-      </description>
-      <source:markdown>The agency&#39;s decision is based on results from a clinical trial in which the treatment improved hearing in 80 percent of the pediatric participants. However, Deaf community advocates worry about the push to cure hearing loss</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jL5nZCnY2c9VsLEj-5P6CV37GaA=/420x240/filters:focal(2184x1456:2185x1457)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/cd/cfcd970f-b205-4a58-b5c2-3c656d99b432/baby-hearing-test.jpg" length="1987922" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-fda-approves-the-first-ever-gene-therapy-for-deafness-which-aims-to-restore-hearing-in-kids-with-a-rare-inherited-condition-180988635/</guid>
-    </item>    <item>
-      <title>Fedora 44 is out – countless versions of it</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/fedora_44_countless_versions/</link>
-      <description>
-        <![CDATA[<h4>New sealed bootable container images and Stratis storage, too</h4> <p>Fedora Linux 44 has arrived – in multiple formats and for several CPU families, including some new container formats and storage options.…</p>]]>
-      </description>
-      <source:markdown>#### New sealed bootable container images and Stratis storage, too
-
-Fedora Linux 44 has arrived – in multiple formats and for several CPU families, including some new container formats and storage options.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245876</guid>
-    </item>    <item>
-      <title>A Snorkeling Biologist Snapped the First-Ever Photo of Newly Hatched California Giant Salamanders in the Wild. Here’s Why That&#39;s a Big Deal</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-snorkeling-biologist-snapped-the-first-ever-photos-of-newly-hatched-california-giant-salamanders-in-the-wild-heres-why-thats-a-big-deal-180988619/</link>
-      <description>
-        <![CDATA[The discovery provides another key data point about a little-known species for which every observation matters]]>
-      </description>
-      <source:markdown>The discovery provides another key data point about a little-known species for which every observation matters</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/f0T-FVC1FcE2xAtIPcB7Dd3mnFw=/420x240/filters:focal(650x867:651x868)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a9/4e/a94ec452-306d-4b46-a10b-09dc481111bd/ezgif-7f770473d74a3127.webp" length="430472" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-snorkeling-biologist-snapped-the-first-ever-photos-of-newly-hatched-california-giant-salamanders-in-the-wild-heres-why-thats-a-big-deal-180988619/</guid>
-    </item>    <item>
-      <title>Cloudflare says autocrats, wars and elections caged the internet in Q1</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/autocrats_war_elections_caused_internet/</link>
-      <description>
-        <![CDATA[<h4>Iran went dark twice, AWS got droned, oh and TalkTalk broke something it refuses to talk about</h4> <p>The first quarter of 2026 saw a surge in severe and prolonged internet disruptions, from government shutdowns to power outages to the occasional mystery incident.…</p>]]>
-      </description>
-      <source:markdown>#### Iran went dark twice, AWS got droned, oh and TalkTalk broke something it refuses to talk about
-
-The first quarter of 2026 saw a surge in severe and prolonged internet disruptions, from government shutdowns to power outages to the occasional mystery incident.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245872</guid>
-    </item>    <item>
-      <title>Yet another experiment proves it&#39;s too damn simple to poison large language models</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/</link>
-      <description>
-        <![CDATA[<h4>There is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was</h4> <p>Unlike search engines that let you judge competing sources, search-backed AI chatbots can turn shaky web material into confident answers. Case in point: A security engineer convinced several bots that he was the reigning world champion of a popular German card game, even though no such championship exists.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### There is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was
-
-Unlike search engines that let you judge competing sources, search-backed AI chatbots can turn shaky web material into confident answers. Case in point: A security engineer convinced several bots that he was the reigning world champion of a popular German card game, even though no such championship exists.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245875</guid>
-    </item>    <item>
-      <title>NASA boss: make Pluto a planet again</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/nasa_boss_make_pluto_a_planet_again/</link>
-      <description>
-        <![CDATA[<h4>Despite looming science cuts, Isaacman finds resources to poke the planetary hornet nest</h4> <p>NASA Administrator Jared Isaacman delivered some potentially good news at a Senate hearing this week, as well as some slightly odd news: in an environment of constrained budgets, the space agency was somehow finding resources to contest the decision to relegate Pluto from planet status.…</p>]]>
-      </description>
-      <source:markdown>#### Despite looming science cuts, Isaacman finds resources to poke the planetary hornet nest
-
-NASA Administrator Jared Isaacman delivered some potentially good news at a Senate hearing this week, as well as some slightly odd news: in an environment of constrained budgets, the space agency was somehow finding resources to contest the decision to relegate Pluto from planet status.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245867</guid>
-    </item>    <item>
-      <title>CISA flags data-theft bug in NSA-built OT networking tool</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/cisa_flags_datatheft_bug_in/</link>
-      <description>
-        <![CDATA[<h4>GrassMarlin leaks sensitive information, provided your targeting phishing skills are sharp enough</h4> <p>The Cybersecurity and Infrastructure Security Agency (CISA) is warning anyone who uses GrassMarlin, a tool developed by the National Security Agency (NSA), about a new vulnerability that attackers can use to snoop on sensitive information.…</p>]]>
-      </description>
-      <source:markdown>#### GrassMarlin leaks sensitive information, provided your targeting phishing skills are sharp enough
-
-The Cybersecurity and Infrastructure Security Agency (CISA) is warning anyone who uses GrassMarlin, a tool developed by the National Security Agency (NSA), about a new vulnerability that attackers can use to snoop on sensitive information.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245871</guid>
-    </item>    <item>
-      <title>A Gently Glowing Galaxy</title>
-      <link>https://www.nasa.gov/image-article/a-gently-glowing-galaxy/</link>
-      <description>
-        <![CDATA[A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this NASA&#160;Hubble Space Telescope&#160;image from April 13, 2026. IC 486 lies right on the edge of the constellation Gemini (the Twins), around 380 million light-years from Earth. Classified as a barred spiral [&#8230;]]]>
-      </description>
-      <source:markdown>A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this NASA Hubble Space Telescope image from April 13, 2026. IC 486 lies right on the edge of the constellation Gemini (the Twins), around 380 million light-years from Earth. Classified as a barred spiral \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=991059</guid>
-    </item>    <item>
-      <title>NASA, Boeing Advance Truss-Braced Wing Research in Test</title>
-      <link>https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/</link>
-      <description>
-        <![CDATA[NASA and Boeing have completed wind tunnel testing to study an innovative advanced aircraft design intended to improve aerodynamic efficiency. A truss-braced wing configuration, involving a long, thin wing with aerodynamically shaped structural supports, has the potential to reduce fuel and operational costs for future airliners, which is why NASA has collaborated with Boeing to [&#8230;]]]>
-      </description>
-      <source:markdown>NASA and Boeing have completed wind tunnel testing to study an innovative advanced aircraft design intended to improve aerodynamic efficiency. A truss-braced wing configuration, involving a long, thin wing with aerodynamically shaped structural supports, has the potential to reduce fuel and operational costs for future airliners, which is why NASA has collaborated with Boeing to \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=991592</guid>
-    </item>    <item>
-      <title>AWS plants more tombstones in the application graveyard</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_whats_next_application_graveyard_corey_quinn/</link>
-      <description>
-        <![CDATA[<h4>Eleven up, ten down</h4> <p>On Tuesday in San Francisco at an event called &#34;What&#39;s Next with AWS,&#34; CEO Matt Garman took the stage to announce that AWS is (for what, depending on how you count, is the seventh, eighth, or ninth time) moving <a target="_blank" href="https://www.theregister.com/2026/04/28/amazon_quick_connect_expansion/">up the stack</a> and entering the applications business.…</p>]]>
-      </description>
-      <source:markdown>#### Eleven up, ten down
-
-On Tuesday in San Francisco at an event called &#34;What&#39;s Next with AWS,&#34; CEO Matt Garman took the stage to announce that AWS is (for what, depending on how you count, is the seventh, eighth, or ninth time) moving [up the stack](https://www.theregister.com/2026/04/28/amazon_quick_connect_expansion/) and entering the applications business.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245868</guid>
-    </item>    <item>
-      <title>What Can We Gain by Losing Infinity?</title>
-      <link>https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/</link>
-      <description>
-        <![CDATA[Ultrafinitism, a philosophy that rejects the infinite, has long been dismissed as mathematical heresy. But it is also producing new insights in math and beyond.            <p>The post <a href="https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/" target="_blank">What Can We Gain by Losing Infinity?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Ultrafinitism, a philosophy that rejects the infinite, has long been dismissed as mathematical heresy. But it is also producing new insights in math and beyond.
-
-The post [What Can We Gain by Losing Infinity?](https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=161331</guid>
-    </item>    <item>
-      <title>Why Math’s Final Axiom Proved So Controversial</title>
-      <link>https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/</link>
-      <description>
-        <![CDATA[Zermelo-Fraenkel set theory is so widely accepted that modern mathematicians hardly think about it. But believing in its core principles didn’t come easily.            <p>The post <a href="https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/" target="_blank">Why Math’s Final Axiom Proved So Controversial</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Zermelo-Fraenkel set theory is so widely accepted that modern mathematicians hardly think about it. But believing in its core principles didn’t come easily.
-
-The post [Why Math’s Final Axiom Proved So Controversial](https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controversial-20260429/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=161363</guid>
-    </item>    <item>
-      <title>NASA Demonstrates New Prescribed Burn Capability for Spaceport</title>
-      <link>https://www.nasa.gov/centers-and-facilities/kennedy/nasa-demonstrates-new-prescribed-burn-capability-for-spaceport/</link>
-      <description>
-        <![CDATA[Anyone who has seen a launch at NASA’s Kennedy Space Center in Florida knows the agency’s pursuit of the stars involves some smoke and fire. Sometimes, however, the smoke doesn’t come from the rockets that propel astronauts beyond Earth’s bounds. That was the case during the second weekend of January 2026, when NASA teamed up [&#8230;]]]>
-      </description>
-      <source:markdown>Anyone who has seen a launch at NASA’s Kennedy Space Center in Florida knows the agency’s pursuit of the stars involves some smoke and fire. Sometimes, however, the smoke doesn’t come from the rockets that propel astronauts beyond Earth’s bounds. That was the case during the second weekend of January 2026, when NASA teamed up \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=991213</guid>
-    </item>    <item>
-      <title>This Giant 400-Year-Old Astrolabe—Made by Mughal Master Craftsmen and Owned by Royalty—Fetched Millions at Auction</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-giant-400-year-old-astrolabe-made-for-royalty-by-mughal-master-craftsmen-and-owned-by-royalty-fetched-millions-at-auction-180988638/</link>
-      <description>
-        <![CDATA[Ancient Greek astronomers and early Islamic scientists used astrolabes as mechanical computers to calculate time, determine height and navigate by the stars]]>
-      </description>
-      <source:markdown>Ancient Greek astronomers and early Islamic scientists used astrolabes as mechanical computers to calculate time, determine height and navigate by the stars</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cKn_zsR056JyK4Y-5nrWoKHbCxE=/420x240/filters:focal(1058x706:1059x707)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6e/2c/6e2c52ad-17a1-4a8a-9295-e55e57693d58/screenshot_2026-04-28_at_125054pm.jpeg" length="965431" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-giant-400-year-old-astrolabe-made-for-royalty-by-mughal-master-craftsmen-and-owned-by-royalty-fetched-millions-at-auction-180988638/</guid>
-    </item>    <item>
-      <title>Council on Environmental Quality Permitting Innovators Program</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/</link>
-      <description>
-        <![CDATA[NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Council on Environmental Quality (CEQ), within the Executive Office of the President established by the National [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Council on Environmental Quality (CEQ), within the Executive Office of the President established by the National \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=984040</guid>
-    </item>    <item>
-      <title>Watch the First Known Video of a Sumatran Orangutan Crossing a Human-Made Wildlife Bridge in the Treetops</title>
-      <link>https://www.smithsonianmag.com/smart-news/watch-the-first-known-video-of-a-sumatran-orangutan-crossing-a-human-made-wildlife-bridge-in-the-treetops-180988637/</link>
-      <description>
-        <![CDATA[A public road in Indonesia separates forests housing about 350 wild orangutans, among other animals. So, conservationists built several canopy bridges to prevent habitat fragmentation]]>
-      </description>
-      <source:markdown>A public road in Indonesia separates forests housing about 350 wild orangutans, among other animals. So, conservationists built several canopy bridges to prevent habitat fragmentation</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KSbsFljmg6oh8RW0tHjA4AqoWdM=/420x240/filters:focal(929x717:930x718)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/4f/f44ff302-6a20-43aa-a93a-f1f3f31b0ea6/screenshot_2026-04-28_at_123916.png" length="3914652" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/watch-the-first-known-video-of-a-sumatran-orangutan-crossing-a-human-made-wildlife-bridge-in-the-treetops-180988637/</guid>
-    </item>    <item>
-      <title>GitHub: Zounds, a genuinely helpful AI-assisted bug report that isn&#39;t total slop! Here, Wiz, take this wad of cash</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/</link>
-      <description>
-        <![CDATA[<h4>Claude ploughs through months of work in rapid time, helps Wiz researchers nab lucrative award</h4> <p>Wiz researchers are set for a tidy payday thanks to their discovery of a high-severity flaw in GitHub&#39;s git infrastructure that handed remote attackers full read/write access to private GitHub repositories using a single command.…</p>]]>
-      </description>
-      <source:markdown>#### Claude ploughs through months of work in rapid time, helps Wiz researchers nab lucrative award
-
-Wiz researchers are set for a tidy payday thanks to their discovery of a high-severity flaw in GitHub&#39;s git infrastructure that handed remote attackers full read/write access to private GitHub repositories using a single command.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245866</guid>
-    </item>    <item>
-      <title>AWS keynote hypes AI as magic. Its own engineers tell a different story</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_keynote_hypes_ai_magic/</link>
-      <description>
-        <![CDATA[<h4>No shortcuts, human-review everything, says internal team - and keep hiring junior developers</h4> <p><strong>Interview</strong>  Steve Tarcza, director of Amazon Stores, says his team — StoreGen — exists to help the retail giant&#39;s developers move faster and cut friction. But despite the AI mandate, one principle is non-negotiable: nothing ships without a human checking it first.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### No shortcuts, human-review everything, says internal team - and keep hiring junior developers
-
-**Interview**  Steve Tarcza, director of Amazon Stores, says his team — StoreGen — exists to help the retail giant&#39;s developers move faster and cut friction. But despite the AI mandate, one principle is non-negotiable: nothing ships without a human checking it first.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245863</guid>
-    </item>    <item>
-      <title>Microsoft opens door to the past by releasing 86-DOS and PC-DOS 1.00</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_pc_dos_1_point_oh/</link>
-      <description>
-        <![CDATA[<h4>Back to a time when source repositories were printouts and commits were hand-written notes</h4> <p><strong>Antiques code show</strong>  Microsoft has released the source for another of its relics. This time, it&#39;s 86-DOS 1.00 getting the open source treatment, and a whole lot more for retro enthusiasts.…</p>]]>
-      </description>
-      <source:markdown>#### Back to a time when source repositories were printouts and commits were hand-written notes
-
-**Antiques code show**  Microsoft has released the source for another of its relics. This time, it&#39;s 86-DOS 1.00 getting the open source treatment, and a whole lot more for retro enthusiasts.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245861</guid>
-    </item>    <item>
-      <title>EU waves through open source age-check tool to keep kids safe online</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/eu_adopts_open_source_ageverification/</link>
-      <description>
-        <![CDATA[<h4>&#39;Online platforms can rely on our app,&#39; says Commish, &#39;there are no more excuses&#39;</h4> <p>The European Commission has recommended EU member states adopt an age verification app designed to protect children from harmful online content.…</p>]]>
-      </description>
-      <source:markdown>#### &#39;Online platforms can rely on our app,&#39; says Commish, &#39;there are no more excuses&#39;
-
-The European Commission has recommended EU member states adopt an age verification app designed to protect children from harmful online content.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245865</guid>
-    </item>    <item>
-      <title>GitHub says sorry and vows to do better as uptime slips and devs complain</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_says_sorry_and_says/</link>
-      <description>
-        <![CDATA[<h4>After Hashicorp co-founder blasts the source shack and numbers slide</h4> <p>Microsoft&#39;s code hosting shack Github has published a lengthy mea culpa about its availability and reliability woes - one that includes the words &#34;we are sorry.&#34;…</p>]]>
-      </description>
-      <source:markdown>#### After Hashicorp co-founder blasts the source shack and numbers slide
-
-Microsoft&#39;s code hosting shack Github has published a lengthy mea culpa about its availability and reliability woes - one that includes the words &#34;we are sorry.&#34;…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245858</guid>
-    </item>    <item>
-      <title>GoDaddy customer claims registrar transferred 27-year-old domain without any security checks</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/godaddy_megagaffe_wrongly_transferred_27yearold/</link>
-      <description>
-        <![CDATA[<h4>32 phone calls, 17 email chains, a 5-day ordeal, and no help during the daddy of all stuffups, claim those affected</h4> <p>GoDaddy is currently investigating claims that it handed complete control of a valid 27-year-old domain to another customer, without requiring them to pass any authentication processes or upload any supporting documents.…</p>]]>
-      </description>
-      <source:markdown>#### 32 phone calls, 17 email chains, a 5-day ordeal, and no help during the daddy of all stuffups, claim those affected
-
-GoDaddy is currently investigating claims that it handed complete control of a valid 27-year-old domain to another customer, without requiring them to pass any authentication processes or upload any supporting documents.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245828</guid>
-    </item>    <item>
-      <title>AI clause in new SAP API policy has partners worried over lock-in</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/new_sap_api_policy_provokes/</link>
-      <description>
-        <![CDATA[<h4>Expert says it could push customers and partners to work with undocumented APIs</h4> <p>SAP is prohibiting the use of its APIs to integrate with AI systems outside its endorsed architectures, raising concerns that it is locking out third-party AI tools from customers&#39; SAP data.…</p>]]>
-      </description>
-      <source:markdown>#### Expert says it could push customers and partners to work with undocumented APIs
-
-SAP is prohibiting the use of its APIs to integrate with AI systems outside its endorsed architectures, raising concerns that it is locking out third-party AI tools from customers&#39; SAP data.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245826</guid>
-    </item>    <item>
-      <title>Bork in Prague: SUSE&#39;s keynote gods demand their tribute</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/never_anger_the_keynote_demo/</link>
-      <description>
-        <![CDATA[<h4>Linux vendor touts European independence while rate limits, Chromium popups, and cold sparks steal the show</h4> <p><strong>BORK!BORK!BORK!</strong>  The keynote gods are a fickle bunch, as SUSE discovered at its annual shindig in Prague. What should have been a slick edge demo instead served up error pages to unsuspecting attendees, while keynote presentations attracted some unwelcome visitors.…</p>]]>
-      </description>
-      <source:markdown>#### Linux vendor touts European independence while rate limits, Chromium popups, and cold sparks steal the show
-
-**BORK!BORK!BORK!**  The keynote gods are a fickle bunch, as SUSE discovered at its annual shindig in Prague. What should have been a slick edge demo instead served up error pages to unsuspecting attendees, while keynote presentations attracted some unwelcome visitors.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245825</guid>
-    </item>    <item>
-      <title>NASA is practicing moonwalks. When are we going back?</title>
-      <link>https://www.npr.org/2026/04/29/nx-s1-5791635/science-space-comet-eclipse-artemis</link>
-      <description>
-        <![CDATA[After the success of Artemis II, we at <em>Short Wave</em> definitely have moon fever. So, we brought NPR science correspondent <a href="https://www.npr.org/people/4494969/nell-greenfieldboyce"target="_blank"   >Nell Greenfieldboyce</a> onto the show to talk about where we’re headed. What will future Artemis missions look like and what needs to happen next for people to be able to walk on the moon again? We find out in this latest installment of <em>Spacing Out</em> – with space enthusiasts <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G Barber</a> and one of the hosts of<em> All Things Considered, </em><a href="https://www.npr.org/people/444796749/scott-detrow"target="_blank"   >Scott Detrow</a>! <br/><br/><em>Interested in more space episodes? Check out our whole summer series, </em><a href="https://www.npr.org/series/g-s1-3299/short-wave-space-camp"target="_blank"   ><em>Space Camp</em></a><em>. Or, email us your ideas for future space-focused episodes at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>P.S. If you see this and you like the idea of formally calling this segment “Spacing Out with Gina”, email us to let us know that too! We’re still deciding.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>After the success of Artemis II, we at _Short Wave_ definitely have moon fever. So, we brought NPR science correspondent [Nell Greenfieldboyce](https://www.npr.org/people/4494969/nell-greenfieldboyce) onto the show to talk about where we’re headed. What will future Artemis missions look like and what needs to happen next for people to be able to walk on the moon again? We find out in this latest installment of _Spacing Out_ – with space enthusiasts [Regina G Barber](https://www.npr.org/people/1082526815/regina-g-barber) and one of the hosts of _All Things Considered,_ [Scott Detrow](https://www.npr.org/people/444796749/scott-detrow)!
-
-_Interested in more space episodes? Check out our whole summer series,_ [_Space Camp_](https://www.npr.org/series/g-s1-3299/short-wave-space-camp) _. Or, email us your ideas for future space-focused episodes at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_P.S. If you see this and you like the idea of formally calling this segment “Spacing Out with Gina”, email us to let us know that too! We’re still deciding._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2a6bbfe3-2076-48e3-8b65-8d9b9e30da74/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2a6bbfe3-2076-48e3-8b65-8d9b9e30da74&feed=F0qJcgXZ&t=podcast&e=nx-s1-5791635&p=510351&d=599&size=9594298" length="9594298" type="audio/mpeg" />
-      <guid>cid://a844af9a-99cd-4edb-972f-6523ed617f17</guid>
-    </item>    <item>
-      <title>30 ClawHub skills secretly turn AI agents into a crypto swarm</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/</link>
-      <description>
-        <![CDATA[<h4>Yet another reason not to feast on OpenClaw</h4> <p>Thirty ClawHub skills published by a single author are silently co-opting AI agents and creating a mass cryptocurrency mining swarm – without any malware or user consent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <source:markdown>#### Yet another reason not to feast on OpenClaw
-
-Thirty ClawHub skills published by a single author are silently co-opting AI agents and creating a mass cryptocurrency mining swarm – without any malware or user consent.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245854</guid>
-    </item>    <item>
-      <title>Hashicorp co-founder Mitchell Hashimoto says GitHub ‘no longer a place for serious work’</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</link>
-      <description>
-        <![CDATA[<h4>Bemoans frequent outages that mean he’ll move Ghostty elsewhere</h4> <p>Hashicorp co-founder Mitchell Hashimoto has decided GitHub is so unstable it is “no longer a place for serious work,” and will therefore move his current project elsewhere.…</p>]]>
-      </description>
-      <source:markdown>#### Bemoans frequent outages that mean he’ll move Ghostty elsewhere
-
-Hashicorp co-founder Mitchell Hashimoto has decided GitHub is so unstable it is “no longer a place for serious work,” and will therefore move his current project elsewhere.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245856</guid>
-    </item>    <item>
-      <title>Fires Rage in Georgia</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/</link>
-      <description>
-        <![CDATA[Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U.S. Southeast.]]>
-      </description>
-      <source:markdown>Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U.S. Southeast.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/</guid>
-    </item>    <item>
-      <title>Future holiday horror: ‘A robot lost my luggage in Tokyo’</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/29/japan_airport_robot_trial/</link>
-      <description>
-        <![CDATA[<h4>Haneda airport will start testing humanoid robots, because everything that gets a plane flying was designed for our species</h4> <p>Your next holiday memory might involve humanoid robots losing your luggage.…</p>]]>
-      </description>
-      <source:markdown>#### Haneda airport will start testing humanoid robots, because everything that gets a plane flying was designed for our species
-
-Your next holiday memory might involve humanoid robots losing your luggage.…</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245855</guid>
     </item>
   </channel>
 </rss>

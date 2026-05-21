@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>20 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>21 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,715 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Claw Patrol: an open-source security firewall for agents</title>
+      <link>https://deno.com/blog/clawpatrol</link>
+      <description>
+        <![CDATA[Why we needed an agent firewall that speaks more than HTTP.]]>
+      </description>
+      <source:markdown>Why we needed an agent firewall that speaks more than HTTP.</source:markdown>
+      <guid>cid://https://deno.com/blog/clawpatrol</guid>
+    </item>    <item>
+      <title>Bruce Springsteen Jabs Donald Trump And The Ellisons As He Performs On Stephen Colbert’s Second-To-Last Show</title>
+      <link>https://deadline.com/2026/05/bruce-springsteen-trump-stephen-colbert-1236917737/</link>
+      <description>
+        <![CDATA[Bruce Springsteen made a few jabs at Donald Trump and David and Larry Ellison before he performed on Stephen Colbert&#8217;s second-to-last The Late Show on CBS. &#8220;I&#8217;m here in support tonight for Stephen, because you&#8217;re the first guy in America who has lost his show because we got a president who can&#8217;t take a joke,&#8221; [&#8230;]]]>
+      </description>
+      <source:markdown>Bruce Springsteen made a few jabs at Donald Trump and David and Larry Ellison before he performed on Stephen Colbert’s second-to-last The Late Show on CBS. “I’m here in support tonight for Stephen, because you’re the first guy in America who has lost his show because we got a president who can’t take a joke,” \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917737</guid>
+    </item>    <item>
+      <title>Netflix Turns To Daily Live Video With Deal For Charlamagne Tha God’s ‘The Breakfast Club’ Podcast</title>
+      <link>https://deadline.com/2026/05/netflix-charlamagne-tha-god-the-breakfast-club-1236917738/</link>
+      <description>
+        <![CDATA[Netflix will start its first daily live program next month when it streams the video podcast The Breakfast Club with Charlamagne Tha God, DJ Envy and Jess Hilarious. The daily show will debut on Netflix on June 1, and will simulcast on iHeartMedia, which entered into a partnership with the streamer last year. The radio [&#8230;]]]>
+      </description>
+      <source:markdown>Netflix will start its first daily live program next month when it streams the video podcast The Breakfast Club with Charlamagne Tha God, DJ Envy and Jess Hilarious. The daily show will debut on Netflix on June 1, and will simulcast on iHeartMedia, which entered into a partnership with the streamer last year. The radio \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917738</guid>
+    </item>    <item>
+      <title>[$] Support for private memory nodes</title>
+      <link>https://lwn.net/Articles/1072881/</link>
+      <description>
+        <![CDATA[Gregory Price started his session in the memory-management track of the
+        2026 <a href="https://events.linuxfoundation.org/lsfmmbpf/">Linux Storage,
+        Filesystem, Memory Management, and BPF Summit</a> by saying that, in
+        current kernels, if a NUMA node has memory, the assumption is that anybody can
+        make use of it.  He is trying to implement the opposite policy — to make
+        some memory off-limits for all processes except those designed specifically
+        to use it.  The session was used to present his goals and to discuss how
+        they might be implemented.]]>
+      </description>
+      <source:markdown>Gregory Price started his session in the memory-management track of the
+2026 [Linux Storage,\
+Filesystem, Memory Management, and BPF Summit](https://events.linuxfoundation.org/lsfmmbpf/) by saying that, in
+current kernels, if a NUMA node has memory, the assumption is that anybody can
+make use of it. He is trying to implement the opposite policy — to make
+some memory off-limits for all processes except those designed specifically
+to use it. The session was used to present his goals and to discuss how
+they might be implemented.</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1072881/</guid>
+    </item>    <item>
+      <title>Security updates for Thursday</title>
+      <link>https://lwn.net/Articles/1073860/</link>
+      <description>
+        <![CDATA[Security updates have been issued by <b>AlmaLinux</b> (kernel, kernel-rt, and libsndfile), <b>Debian</b> (bind9, evince, firefox-esr, openjpeg2, pdns, and rsync), <b>Fedora</b> (erlang-cowlib, evince, expat, firefox, kernel, mingw-expat, mysql8.0, mysql8.4, nss, opencryptoki, pgadmin4, proftpd, python-django5, python-django6, python-dotenv, rsync, rust-nu, rustup, and strongswan), <b>Oracle</b> (nginx, nginx:1.24, ruby, ruby:3.3, and squid), <b>Slackware</b> (bind and rsync), <b>SUSE</b> (buildah, distribution, distribution-registry, docker, firefox-esr, helm, libpainter0, libsdb2_4_2, postgresql-jdbc, runc, and vim), and <b>Ubuntu</b> (gnutls28, gst-plugins-good1.0, jq, linux-nvidia, linux-nvidia-lowlatency, openvpn, rsync, and unbound).]]>
+      </description>
+      <source:markdown>Security updates have been issued by **AlmaLinux** (kernel, kernel-rt, and libsndfile), **Debian** (bind9, evince, firefox-esr, openjpeg2, pdns, and rsync), **Fedora** (erlang-cowlib, evince, expat, firefox, kernel, mingw-expat, mysql8.0, mysql8.4, nss, opencryptoki, pgadmin4, proftpd, python-django5, python-django6, python-dotenv, rsync, rust-nu, rustup, and strongswan), **Oracle** (nginx, nginx:1.24, ruby, ruby:3.3, and squid), **Slackware** (bind and rsync), **SUSE** (buildah, distribution, distribution-registry, docker, firefox-esr, helm, libpainter0, libsdb2\_4\_2, postgresql-jdbc, runc, and vim), and **Ubuntu** (gnutls28, gst-plugins-good1.0, jq, linux-nvidia, linux-nvidia-lowlatency, openvpn, rsync, and unbound).</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1073860/</guid>
+    </item>    <item>
+      <title>Ex-TikTok Exec Stuart Flint To Advise Caspar Lee &#38; Ben Jeffries’ Influencer</title>
+      <link>https://deadline.com/2026/05/stuart-flint-influencer-caspar-lee-1236917728/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: Former TikTok exec Stuart Flint has joined the advisory board of Influencer, the global creator marketing biz founded by Caspar Lee and Ben Jeffries. Flint was TikTok&#8217;s VP, Sales in Europe, leading the social media app on commercial operations in the continent and is now SVP and Managing Director, EMEA for DoubleVerify. We hear [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: Former TikTok exec Stuart Flint has joined the advisory board of Influencer, the global creator marketing biz founded by Caspar Lee and Ben Jeffries. Flint was TikTok’s VP, Sales in Europe, leading the social media app on commercial operations in the continent and is now SVP and Managing Director, EMEA for DoubleVerify. We hear \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917728</guid>
+    </item>    <item>
+      <title>Longtime Broadway Press Agency Boneau/Bryan-Brown Gets New Principal Owners, Name Change</title>
+      <link>https://deadline.com/2026/05/boneau-bryan-brown-aperture-broadway-1236917090/</link>
+      <description>
+        <![CDATA[Boneau/Bryan-Brown, for more than 30 years one of Broadway&#8217;s busiest preeminent press agencies representing hundreds of shows with campaigns garnering 254 Tony Awards, is soon to have new principal ownership and a name change to Aperture Public Relations. Formed in 1991 by press agents&#160;Chris Boneau&#160;and&#160;Adrian Bryan-Brown and quickly establishing itself in the forefront of a [&#8230;]]]>
+      </description>
+      <source:markdown>Boneau/Bryan-Brown, for more than 30 years one of Broadway’s busiest preeminent press agencies representing hundreds of shows with campaigns garnering 254 Tony Awards, is soon to have new principal ownership and a name change to Aperture Public Relations. Formed in 1991 by press agents Chris Boneau and Adrian Bryan-Brown and quickly establishing itself in the forefront of a \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917090</guid>
+    </item>    <item>
+      <title>‘Victorian Psycho’: Maika Monroe Is A Crazed Governess In First Trailer For Cannes Horror</title>
+      <link>https://deadline.com/2026/05/victorian-psycho-maika-monroe-first-teaser-trailer-horror-1236917718/</link>
+      <description>
+        <![CDATA[Here&#8217;s your first teaser trailer for Maika Monroe horror Victorian Psycho, which debuts today in Cannes&#8217; UCR section. Based on the novel by Virginia Feito, the synopsis reads: &#8220;When eccentric governess Winifred (Monroe) arrives at a remote gothic manor in Victorian England, her unnerving charm hides a deadly secret. Strange, unsettling incidents become harder to [&#8230;]]]>
+      </description>
+      <source:markdown>Here’s your first teaser trailer for Maika Monroe horror Victorian Psycho, which debuts today in Cannes’ UCR section. Based on the novel by Virginia Feito, the synopsis reads: “When eccentric governess Winifred (Monroe) arrives at a remote gothic manor in Victorian England, her unnerving charm hides a deadly secret. Strange, unsettling incidents become harder to \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917718</guid>
+    </item>    <item>
+      <title>Rami Malek Says “There Was A Certain Sense Of Fear” In Taking On ‘The Man I Love’ After Playing Freddie Mercury In ‘Bohemian Rhapsody’ – Cannes</title>
+      <link>https://deadline.com/2026/05/rami-malek-cannes-man-i-love-1236917649/</link>
+      <description>
+        <![CDATA[Before taking on a performing artist who is battling AIDs in 1980s New York in Ira Sachs&#8217; latest Cannes feature The Man I Love, star Rami Malek said, &#8220;I can&#8217;t do this, there&#8217;s too many similarities.&#8221; Similarities to his Oscar winning Best Actor role of Freddie Mercury in Bohemian Rhapsody who also suffered from AIDs. [&#8230;]]]>
+      </description>
+      <source:markdown>Before taking on a performing artist who is battling AIDs in 1980s New York in Ira Sachs’ latest Cannes feature The Man I Love, star Rami Malek said, “I can’t do this, there’s too many similarities.” Similarities to his Oscar winning Best Actor role of Freddie Mercury in Bohemian Rhapsody who also suffered from AIDs. \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917649</guid>
+    </item>    <item>
+      <title>‘Fatherland’ Producer Ewa Puszczyńska On Working With Paweł Pawlikowski, Poland’s Growing Production Landscape &#38; “Finding Common Ground” With Filmmakers</title>
+      <link>https://deadline.com/2026/05/fatherland-ewa-puszczynska-extreme-emotions-pawilkowski-1236917366/</link>
+      <description>
+        <![CDATA[Polish producer Ewa Puszczyńska has long been one of the country’s most recognized film producers who has steadily built a reputation for supporting some of the most ambitious cinema to come out of Europe across the last decade. She’s worked with directors such as Paweł Pawlikowski, David Lynch, Jonathan Glazer, Jesse Eisenberg and Agnieszka Smoczyńska [&#8230;]]]>
+      </description>
+      <source:markdown>Polish producer Ewa Puszczyńska has long been one of the country’s most recognized film producers who has steadily built a reputation for supporting some of the most ambitious cinema to come out of Europe across the last decade. She’s worked with directors such as Paweł Pawlikowski, David Lynch, Jonathan Glazer, Jesse Eisenberg and Agnieszka Smoczyńska \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917366</guid>
+    </item>    <item>
+      <title>European Screenwriters Body Voices Support For Signatories Of Anti-Bolloré Letter &#38; Says Canal+ Talent Boycott Is Symptomatic Of Wider Pan-Europe Trend</title>
+      <link>https://deadline.com/2026/05/screenwriters-fsa-bollore-letter-boycott-europe-trend-1236917667/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: The Federation of Screenwriters in Europe (FSE) has waded into the debate over Vincent Bolloré’s growing control of the French entertainment and media sectors, sparked by the &#8216;It’s Time To Switch-Off Bolloré’ letter launched on the opening of the Cannes Film Festival, saying it is symptomatic of a wider trend across Europe. &#8220;The 2026 [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: The Federation of Screenwriters in Europe (FSE) has waded into the debate over Vincent Bolloré’s growing control of the French entertainment and media sectors, sparked by the ‘It’s Time To Switch-Off Bolloré’ letter launched on the opening of the Cannes Film Festival, saying it is symptomatic of a wider trend across Europe. “The 2026 \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917667</guid>
+    </item>    <item>
+      <title>Trump Will Lose His War on Laughter</title>
+      <link>https://www.borowitzreport.com/p/trump-will-lose-his-war-on-laughter-ad2</link>
+      <description>
+        <![CDATA[It's going about as swimmingly as the one with Iran.]]>
+      </description>
+      <source:markdown>It&#39;s going about as swimmingly as the one with Iran.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!PemD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e98f4d3-c0a3-4c92-8feb-8fd5007b9a1c_1024x776.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/trump-will-lose-his-war-on-laughter-ad2</guid>
+    </item>    <item>
+      <title>The Real AI Threat is the Bubble, not the Apocalypse</title>
+      <link>https://lpeproject.org/blog/the-real-ai-threat-is-the-bubble-not-the-apocalypse/</link>
+      <description>
+        <![CDATA[The most pressing AI-driven crisis is the overestimation of AI’s capabilities and impacts, which has produced a historically large speculative AI bubble. To safeguard against this economic catastrophe, policymakers must confront and resist AI industry hype.]]>
+      </description>
+      <source:markdown>The most pressing AI-driven crisis is the overestimation of AI’s capabilities and impacts, which has produced a historically large speculative AI bubble. To safeguard against this economic catastrophe, policymakers must confront and resist AI industry hype.</source:markdown>
+      <guid>cid://https://lpeproject.org/?p=12347</guid>
+    </item>    <item>
+      <title>divest-from-spotify</title>
+      <link>http://toolkit.wellgedacht.org/doku.php?id=guides:divest-from-spotify&#38;rev=1779359985&#38;do=diff</link>
+      <description>
+        <![CDATA[Divest from Spotify!
+        
+        “As Empire restructures itself around intellectual property and land grabs, where the sanctity of private property guarantees corporations indemnity for social and ecological depredations, it is crucial for care activism to not only emphasize labor but also integrate a rejection of private property and its regimes. Private property is the real abstraction that binds together the state, the market, and the family and enables Empire’s matrix of care. We must experiment with t…]]>
+      </description>
+      <source:markdown>Divest from Spotify!
+
+“As Empire restructures itself around intellectual property and land grabs, where the sanctity of private property guarantees corporations indemnity for social and ecological depredations, it is crucial for care activism to not only emphasize labor but also integrate a rejection of private property and its regimes. Private property is the real abstraction that binds together the state, the market, and the family and enables Empire’s matrix of care. We must experiment with t…</source:markdown>
+      <author>wgp@undisclosed.example.com (wgp)</author>
+    </item>    <item>
+      <title>Challenging the Narrative of European Decline: Revised, Free Repost</title>
+      <link>https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478</link>
+      <description>
+        <![CDATA[I do not think that word &#8220;productivity&#8221; means what people think it means]]>
+      </description>
+      <source:markdown>I do not think that word “productivity” means what people think it means</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!TwmH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc93c35bf-5544-4b82-bed1-c0346d070199_596x320.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: May 21, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-may-21-2026/</link>
+      <description>
+        <![CDATA[Katherine Packert Burke considers eight different attempts at explaining the purpose of trans literature. &#124; Lit Hub Criticism Why you shouldn’t feel guilty about the books you haven’t read. &#124; Lit Hub Craft On the new podcast Passages: On Morrison]]>
+      </description>
+      <source:markdown>Katherine Packert Burke considers eight different attempts at explaining the purpose of trans literature. \| Lit Hub Criticism Why you shouldn’t feel guilty about the books you haven’t read. \| Lit Hub Craft On the new podcast Passages: On Morrison</source:markdown>
+      <guid>cid://https://lithub.com/?p=271803</guid>
+    </item>    <item>
+      <title>How Hennepin County unwound an ICE agent&#39;s web of lies</title>
+      <link>https://www.publicnotice.co/p/christian-castro-ice-shooting-north-minneapolis</link>
+      <description>
+        <![CDATA[Christian Castro is now the subject of a nationwide arrest warrant.]]>
+      </description>
+      <source:markdown>Christian Castro is now the subject of a nationwide arrest warrant.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!CUQA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F003e06c8-50c5-41f1-bdc4-73a551647949_4560x3040.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/christian-castro-ice-shooting-north-minneapolis</guid>
+    </item>    <item>
+      <title>339. Electric Truck. African vaccines. American rivers. White-tailed eagles.</title>
+      <link>https://fixthenews.com/p/339-electric-truck-african-vaccines</link>
+      <description>
+        <![CDATA[Some of the species don&#8217;t match anything in the books yet.]]>
+      </description>
+      <source:markdown>Some of the species don’t match anything in the books yet.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!6He6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1c36f6f-e15d-4c99-bec6-90f1490977d7_1280x853.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://fixthenews.com/p/339-electric-truck-african-vaccines</guid>
+    </item>    <item>
+      <title>Deadline’s Reality TV Summit Comes To SXSW London Featuring Netflix’s UK Unscripted Boss, Top Producers, AI Deep Dive &#38; ‘Taskmaster’ With Alex Horne</title>
+      <link>https://deadline.com/2026/05/deadline-reality-tv-summit-sxsw-london-netflix-taskmaster-1236917635/</link>
+      <description>
+        <![CDATA[Deadline is bringing its Reality TV Summit to SXSW London with panels, keynotes and masterclasses on June 2. Syeda Irtizaali, Netflix’s UK unscripted boss, will be the keynote speaker. Irtizaali is one of the UK’s best-known unscripted execs. She was one of the architects behind the landmark BBC-NBC deal that has seen The Traitors become [&#8230;]]]>
+      </description>
+      <source:markdown>Deadline is bringing its Reality TV Summit to SXSW London with panels, keynotes and masterclasses on June 2. Syeda Irtizaali, Netflix’s UK unscripted boss, will be the keynote speaker. Irtizaali is one of the UK’s best-known unscripted execs. She was one of the architects behind the landmark BBC-NBC deal that has seen The Traitors become \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917635</guid>
+    </item>    <item>
+      <title>Uncloud Prometheus, part II</title>
+      <link>https://miek.nl/2026/may/21/uncloud-prometheus-part-ii/</link>
+      <description>
+        <![CDATA[<p>Had some fun playing with my <a href="https://github.com/miekg/uncloudplus/">fork of Uncloud</a>. And making metrics
+        work. Various things don&rsquo;t work out of the box, but can be <em>made</em> to work. For one Prometheus seems to insist
+        on SRV records, and can&rsquo;t do DNS service discovery with plan A or AAAA records.</p>
+        <p>&hellip; So&hellip;</p>
+        <p>First we need to work around the fact that DNS sd doesn&rsquo;t work, so fake it using file sd:</p>
+        <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>  <span style="color:#f92672">prom_sd_config</span>:
+        </span></span><span style="display:flex;"><span>    <span style="color:#f92672">content</span>: |<span style="color:#e6db74">
+        </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      #!/bin/ash
+        </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">      while true; do
+        </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        nslookup m.internal | awk &#39;/^Address:/ &amp;&amp; $2 !~ /:/ {if(!seen){print &#34;- targets:&#34;; seen=1} print &#34;  - &#34; $2 &#34;:51004&#34;}&#39; &gt; /prometheus/</span>
+        </span></span><span style="display:flex;"><span><span style="color:#ae81ff">uncloud.yaml</span>
+        </span></span><span style="display:flex;"><span>        <span style="color:#ae81ff">nslookup caddy.internal | awk &#39;/^Address:/ &amp;&amp; $2 !~ /:/ {if(!seen){print &#34;- targets:&#34;; seen=1} print &#34;  - &#34; $2 &#34;:9180&#34;}&#39; &gt; /promethe</span>
+        </span></span><span style="display:flex;"><span><span style="color:#ae81ff">us/caddy.yaml</span>
+        </span></span><span style="display:flex;"><span>        <span style="color:#ae81ff">sleep 3600</span>
+        </span></span><span style="display:flex;"><span>      <span style="color:#ae81ff">done</span>
+        </span></span></code></pre></div><p>This config puts a shell script in place which is then used by a service:</p>]]>
+      </description>
+      <source:markdown>Had some fun playing with my [fork of Uncloud](https://github.com/miekg/uncloudplus/). And making metrics
+work. Various things don’t work out of the box, but can be _made_ to work. For one Prometheus seems to insist
+on SRV records, and can’t do DNS service discovery with plan A or AAAA records.
+
+… So…
+
+First we need to work around the fact that DNS sd doesn’t work, so fake it using file sd:
+
+```yaml
+  prom_sd_config:
+    content: |
+      #!/bin/ash
+      while true; do
+        nslookup m.internal | awk &#39;/^Address:/ &#38;&#38; $2 !~ /:/ {if(!seen){print &#34;- targets:&#34;; seen=1} print &#34;  - &#34; $2 &#34;:51004&#34;}&#39; &#62; /prometheus/
+uncloud.yaml
+        nslookup caddy.internal | awk &#39;/^Address:/ &#38;&#38; $2 !~ /:/ {if(!seen){print &#34;- targets:&#34;; seen=1} print &#34;  - &#34; $2 &#34;:9180&#34;}&#39; &#62; /promethe
+us/caddy.yaml
+        sleep 3600
+      done
+
+```
+
+This config puts a shell script in place which is then used by a service:</source:markdown>
+      <guid>cid://https://miek.nl/2026/may/21/uncloud-prometheus-part-ii/</guid>
+    </item>    <item>
+      <title>‘The Birthday Party’ Clip: First Look At Monica Bellucci In Cannes Palme D’Or Contender Unveiled</title>
+      <link>https://deadline.com/2026/05/clip-birthday-party-monica-bellucci-cannes-contender-1236917377/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: Monica Bellucci hits Cannes Film Festival this year in Léa Mysius’ Palme d’Or contender The Birthday Party (Histoires De La Nuit) and Deadline can reveal a first look of the star in the dark thriller, which closes the main competition program on Friday. Adapted from Laurent Mauvignier’s eponymous best-selling, the picture revolves around Thomas, [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: Monica Bellucci hits Cannes Film Festival this year in Léa Mysius’ Palme d’Or contender The Birthday Party (Histoires De La Nuit) and Deadline can reveal a first look of the star in the dark thriller, which closes the main competition program on Friday. Adapted from Laurent Mauvignier’s eponymous best-selling, the picture revolves around Thomas, \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917377</guid>
+    </item>    <item>
+      <title>Changes in the Rogue Scholar blog submission workflow</title>
+      <link>https://blog.front-matter.de/posts/changes-in-the-rogue-scholar-blog-submission-workflow/</link>
+      <description>
+        <![CDATA[Submitting a blog to the Rogue Scholar science blog archive requires filling out a simple form, and sometimes answering a few additional questions via email. In recent months I haven&#39;t caught up with the submissions and decided to implement a few changes.
+        
+        Participating in Rogue Scholar doesn&#39;]]>
+      </description>
+      <source:markdown>Submitting a blog to the Rogue Scholar science blog archive requires filling out a simple form, and sometimes answering a few additional questions via email. In recent months I haven&#39;t caught up with the submissions and decided to implement a few changes.
+
+Participating in Rogue Scholar doesn&#39;</source:markdown>
+      <guid>cid://https://doi.org/10.53731/fk0rs-6z338</guid>
+    </item>    <item>
+      <title>Netflix Going Big In Japan With Deal For 20 NHK Dramas &#38; Variety Show</title>
+      <link>https://deadline.com/2026/05/netflix-japan-nhk-deal-20-drama-monday-late-show-1236917636/</link>
+      <description>
+        <![CDATA[Netflix is going big in Japan after striking a deal with national broadcaster NHK for a wealth of dramas and landing its first variety show. The streamer, which has been keen to expand its Japanese footprint, will launch six NHK series next month including Taiga drama Strategist KANBE; the morning serial Mampuku; Drama 10&#8217;s Descending [&#8230;]]]>
+      </description>
+      <source:markdown>Netflix is going big in Japan after striking a deal with national broadcaster NHK for a wealth of dramas and landing its first variety show. The streamer, which has been keen to expand its Japanese footprint, will launch six NHK series next month including Taiga drama Strategist KANBE; the morning serial Mampuku; Drama 10’s Descending \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236917636</guid>
+    </item>    <item>
+      <title>Namwali Serpell and Tracy K. Smith Discuss Toni Morrison’s The Bluest Eye</title>
+      <link>https://lithub.com/namwali-serpell-and-tracy-k-smith-discuss-toni-morrisons-the-bluest-eye/</link>
+      <description>
+        <![CDATA[Namwali Serpell kicks off the tour for her new book On Morrison at the First Parish Church in Cambridge, MA, in conversation with poet Tracy K. Smith. Together, they read the opening of The Bluest Eye, Toni Morrison’s debut novel, and discuss]]>
+      </description>
+      <source:markdown>Namwali Serpell kicks off the tour for her new book On Morrison at the First Parish Church in Cambridge, MA, in conversation with poet Tracy K. Smith. Together, they read the opening of The Bluest Eye, Toni Morrison’s debut novel, and discuss</source:markdown>
+      <guid>cid://https://lithub.com/?p=271621</guid>
+    </item>    <item>
+      <title>Mark Jermin, TikTok-Famous Talent Agent To ‘Harry Potter’ Actors, Mishandled Self-Tape Auditions &#38; Misstated His Casting Power</title>
+      <link>https://deadline.com/2026/05/mark-jermin-agent-self-tape-audition-casting-mistakes-1236900742/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: He’s the TikTok-loving talent agent who has repped young actors like A Knight of the Seven Kingdoms breakout Dexter Sol Ansell, but behind the viral videos showcasing his star-making credentials, Mark Jermin has admitted mishandling some self-tape auditions and misstating his power to cast kids in major productions.&#160; The 30-year industry veteran specializes in [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: He’s the TikTok-loving talent agent who has repped young actors like A Knight of the Seven Kingdoms breakout Dexter Sol Ansell, but behind the viral videos showcasing his star-making credentials, Mark Jermin has admitted mishandling some self-tape auditions and misstating his power to cast kids in major productions.  The 30-year industry veteran specializes in \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236900742</guid>
+    </item>    <item>
+      <title>Why We Shouldn’t Feel Guilty For Not Being Extremely Well Read</title>
+      <link>https://lithub.com/why-we-shouldnt-feel-guilty-for-not-being-extremely-well-read/</link>
+      <description>
+        <![CDATA[David Lodge, in his 1975 campus novel Changing Places, imagines a cocktail party game that makes fiendish use of imposter syndrome. Visiting professor Phillip Swallow introduces the faculty of fictional Euphoric State University to “Humiliation,” a game whereby every participant]]>
+      </description>
+      <source:markdown>David Lodge, in his 1975 campus novel Changing Places, imagines a cocktail party game that makes fiendish use of imposter syndrome. Visiting professor Phillip Swallow introduces the faculty of fictional Euphoric State University to “Humiliation,” a game whereby every participant</source:markdown>
+      <guid>cid://https://lithub.com/?p=271546</guid>
+    </item>    <item>
+      <title>What Happens When Billionaires Control the Media?</title>
+      <link>https://lithub.com/what-happens-when-billionaires-control-the-media/</link>
+      <description>
+        <![CDATA[While living in a lavish hilltop castle on the California coast, a wildly rich media mogul recruits charismatic foreign dictators as columnists, criticizes one of his own reporters for being too anti-Nazi, and tries to interest America’s president in a]]>
+      </description>
+      <source:markdown>While living in a lavish hilltop castle on the California coast, a wildly rich media mogul recruits charismatic foreign dictators as columnists, criticizes one of his own reporters for being too anti-Nazi, and tries to interest America’s president in a</source:markdown>
+      <guid>cid://https://lithub.com/?p=271754</guid>
+    </item>    <item>
+      <title>It’s All Just Torture Porn: A Record of Failed Attempts to Explain What Trans Lit is “For”</title>
+      <link>https://lithub.com/its-all-just-torture-porn-a-record-of-failed-attempts-to-explain-what-trans-lit-is-for/</link>
+      <description>
+        <![CDATA[First Attempt I stumbled across a delightful 4chan post a few weeks ago. It read: “basically every trans book I’ve read felt like the author shaking me by the shoulders going ‘DON’T DO IT ITS NOT WORTH IT MY LIFE]]>
+      </description>
+      <source:markdown>First Attempt I stumbled across a delightful 4chan post a few weeks ago. It read: “basically every trans book I’ve read felt like the author shaking me by the shoulders going ‘DON’T DO IT ITS NOT WORTH IT MY LIFE</source:markdown>
+      <guid>cid://https://lithub.com/?p=271543</guid>
+    </item>    <item>
+      <title>An Exile’s Guide to Losing a Country</title>
+      <link>https://lithub.com/an-exiles-guide-to-losing-a-country/</link>
+      <description>
+        <![CDATA[Nation of Strangers is the conclusion of a decade-long odyssey. My ten-year saga began in 2016 when I wrote a book called Turkey: The Insane and the Melancholy. Before the book, I’d enjoyed a successful career in my native Turkey]]>
+      </description>
+      <source:markdown>Nation of Strangers is the conclusion of a decade-long odyssey. My ten-year saga began in 2016 when I wrote a book called Turkey: The Insane and the Melancholy. Before the book, I’d enjoyed a successful career in my native Turkey</source:markdown>
+      <guid>cid://https://lithub.com/?p=271596</guid>
+    </item>    <item>
+      <title>How Donald Trump and His Allies Seek to Remake American Schools in Their Own Image</title>
+      <link>https://lithub.com/how-donald-trump-and-his-allies-seek-to-remake-american-schools-in-their-own-image/</link>
+      <description>
+        <![CDATA[Trump announced the 1776 Commission in 2020 to promote &#8220;patriotic education,&#8221; identifying critical race theory as &#8220;a Marxist doctrine holding that America is a wicked and racist nation, that even young children are complicit in oppression, and that our entire]]>
+      </description>
+      <source:markdown>Trump announced the 1776 Commission in 2020 to promote “patriotic education,” identifying critical race theory as “a Marxist doctrine holding that America is a wicked and racist nation, that even young children are complicit in oppression, and that our entire</source:markdown>
+      <guid>cid://https://lithub.com/?p=271539</guid>
+    </item>    <item>
+      <title>My Writing Group Forgot My Birthday: Are They the Assholes?</title>
+      <link>https://lithub.com/my-writing-group-forgot-my-birthday-are-they-the-assholes/</link>
+      <description>
+        <![CDATA[Howdy! We meet again! Welcome back to the most exciting corner of the internet. That’s right, it’s once again time for Am I the Literary Asshole?, an advice column about drama that sometimes boils down to a misused comma and]]>
+      </description>
+      <source:markdown>Howdy! We meet again! Welcome back to the most exciting corner of the internet. That’s right, it’s once again time for Am I the Literary Asshole?, an advice column about drama that sometimes boils down to a misused comma and</source:markdown>
+      <guid>cid://https://lithub.com/?p=271841</guid>
+    </item>    <item>
+      <title>5 Book Reviews You Need to Read This Week</title>
+      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-15/</link>
+      <description>
+        <![CDATA[Our favorite criticism of the week includes Anand Giridharadas on Theo Baker&#8217;s How to Rule the World, Hamilton Cain on Ali Smith&#8217;s Glyph, Thomas Mallon on Lois Romano&#8217;s An Inconvenient Widow, Kate Preziosi on Paige Lewis&#8217;s Canon, and Alex Tan on]]>
+      </description>
+      <source:markdown>Our favorite criticism of the week includes Anand Giridharadas on Theo Baker’s How to Rule the World, Hamilton Cain on Ali Smith’s Glyph, Thomas Mallon on Lois Romano’s An Inconvenient Widow, Kate Preziosi on Paige Lewis’s Canon, and Alex Tan on</source:markdown>
+      <guid>cid://https://lithub.com/?p=271781</guid>
+    </item>    <item>
+      <title>The Independent Press Top 40 Bestsellers: Fiction</title>
+      <link>https://lithub.com/the-independent-press-top-40-bestsellers-fiction-18/</link>
+      <description>
+        <![CDATA[Here are this week’s Independent Press Top 40 Bestsellers for fiction, based on sales in hundreds of independent bookstores nationwide, generously provided by the American Booksellers Association. Compiled, designed, and distributed by The Independent Publishers Caucus. * 1. The Calamity]]>
+      </description>
+      <source:markdown>Here are this week’s Independent Press Top 40 Bestsellers for fiction, based on sales in hundreds of independent bookstores nationwide, generously provided by the American Booksellers Association. Compiled, designed, and distributed by The Independent Publishers Caucus. \* 1. The Calamity</source:markdown>
+      <guid>cid://https://lithub.com/?p=271799</guid>
+    </item>    <item>
+      <title>PTSD Nation?</title>
+      <link>https://robertreich.substack.com/p/the-ptsd-nation</link>
+      <description>
+        <![CDATA[Have we given up on a central goal we sought to achieve more than two centuries ago?]]>
+      </description>
+      <source:markdown>Have we given up on a central goal we sought to achieve more than two centuries ago?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!9fqV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06e1de3f-5d2d-4509-a8af-7314a5623472_3500x2533.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-ptsd-nation</guid>
+    </item>    <item>
+      <title>The Emperor’s New Slush Fund</title>
+      <link>https://audioboom.com/posts/8906189</link>
+      <description>
+        <![CDATA[<div>This week, Alex digs into the nearly unfathomable corruption of President Trump’s settlement with the Department of Justice, including the $1.776 billion “Anti-weaponization Fund”. She speaks to Michael Fanone, a former DC Metropolitan police officer who was at the Capitol on January 6th to see how he feels about his taxpayer money potentially going to the insurrectionists who attacked him. Then Alex is joined by Andrew Weissman, attorney and author of the new book, <a href="https://bookshop.org/p/books/liar-s-kingdom-how-to-stop-trump-s-deceit-and-save-america-andrew-weissmann/e79cc4410e81f719"><em>Liar’s Kingdom</em></a>. They talk about the lawsuit against the IRS that started this, and whether Trump actually has the legal immunity the settlement promises.</div>]]>
+      </description>
+      <source:markdown>This week, Alex digs into the nearly unfathomable corruption of President Trump’s settlement with the Department of Justice, including the $1.776 billion “Anti-weaponization Fund”. She speaks to Michael Fanone, a former DC Metropolitan police officer who was at the Capitol on January 6th to see how he feels about his taxpayer money potentially going to the insurrectionists who attacked him. Then Alex is joined by Andrew Weissman, attorney and author of the new book, [_Liar’s Kingdom_](https://bookshop.org/p/books/liar-s-kingdom-how-to-stop-trump-s-deceit-and-save-america-andrew-weissmann/e79cc4410e81f719). They talk about the lawsuit against the IRS that started this, and whether Trump actually has the legal immunity the settlement promises.</source:markdown>
+      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906189.mp3?modified=1779327605&sid=5166628&source=rss" length="0" type="audio/mpeg" />
+      <guid>cid://audioboom-019e4824-57d0-71df-9889-6acb20f203c5</guid>
+    </item>    <item>
+      <title>May 20, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/may-20-2026</link>
+      <description>
+        <![CDATA[Metropolitan Police Department officer Daniel Hodges and former U.S.]]>
+      </description>
+      <source:markdown>Metropolitan Police Department officer Daniel Hodges and former U.S.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/may-20-2026</guid>
+    </item>    <item>
+      <title>NVIDIA IS NOW VERY CLOSE TO HITTING THE CIRCULAR FINANCING BRICK WALL</title>
+      <link>https://justdario.com/2026/05/nvidia-is-now-very-close-to-hitting-the-circular-financing-brick-wall/</link>
+      <description>
+        <![CDATA[<p>Two years ago, I wrote the article “NO, NVIDIA IS ONLY ONE PIECE OF A BIGGER (FRAUDULENT) PUZZLE”, trying to shine a light on what, two years later, became the biggest circular financing scheme in the history of financial markets. Since what I was describing at the time was hard...</p>
+        <p>The post <a href="https://justdario.com/2026/05/nvidia-is-now-very-close-to-hitting-the-circular-financing-brick-wall/">NVIDIA IS NOW VERY CLOSE TO HITTING THE CIRCULAR FINANCING BRICK WALL</a> appeared first on <a href="https://justdario.com">JustDario</a>.</p>]]>
+      </description>
+      <source:markdown>Two years ago, I wrote the article “NO, NVIDIA IS ONLY ONE PIECE OF A BIGGER (FRAUDULENT) PUZZLE”, trying to shine a light on what, two years later, became the biggest circular financing scheme in the history of financial markets. Since what I was describing at the time was hard...
+
+The post [NVIDIA IS NOW VERY CLOSE TO HITTING THE CIRCULAR FINANCING BRICK WALL](https://justdario.com/2026/05/nvidia-is-now-very-close-to-hitting-the-circular-financing-brick-wall/) appeared first on [JustDario](https://justdario.com).</source:markdown>
+      <guid>cid://https://justdario.com/?p=3504</guid>
+    </item>    <item>
+      <title>[$] LWN.net Weekly Edition for May 21, 2026</title>
+      <link>https://lwn.net/Articles/1072730/</link>
+      <description>
+        <![CDATA[Inside this week's LWN.net Weekly Edition:
+                <p>
+                <ul>
+        <li> <a href="https://lwn.net/Articles/1072730/">Front</a>: OpenSUSE site age restrictions; Lots of LSFMM+BPF coverage; The tenth OpenPGP email summit.
+                    <li> <a href="https://lwn.net/Articles/1072732/">Briefs</a>: Firefox 151.0; pgBackRest funding; RIP Peter G. Neumann; Quotes; ...
+                    <li> <a href="https://lwn.net/Articles/1072733/">Announcements</a>: Newsletters, conferences, security updates, patches, and more.
+                    </ul>]]>
+      </description>
+      <source:markdown>Inside this week&#39;s LWN.net Weekly Edition:
+
+
+- [Front](https://lwn.net/Articles/1072730/): OpenSUSE site age restrictions; Lots of LSFMM+BPF coverage; The tenth OpenPGP email summit.
+
+- [Briefs](https://lwn.net/Articles/1072732/): Firefox 151.0; pgBackRest funding; RIP Peter G. Neumann; Quotes; ...
+
+- [Announcements](https://lwn.net/Articles/1072733/): Newsletters, conferences, security updates, patches, and more.</source:markdown>
+      <guid>cid://https://lwn.net/Articles/1072730/</guid>
+    </item>    <item>
+      <link>https://electrek.co/2026/05/20/yes-an-ev-really-can-power-your-home-if-its-one-of-these/</link>
+      <description>
+        <![CDATA[<p>Yes, an EV really CAN power your home – if it&#39;s one of these.</p>]]>
+      </description>
+      <source:markdown>Yes, an EV really CAN power your home – if it&#39;s one of these.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/05/20/3813/</guid>
+    </item>    <item>
+      <link>https://www.pressherald.com/2026/05/20/barney-frank-longtime-congressman-and-gay-rights-pioneer-dies-at-home-in-maine/?uuid=76390659-4765-4c6b-ba58-8e9a42144981&#38;lid=233570</link>
+      <description>
+        <![CDATA[<p>Barney Frank, longtime congressman and gay rights pioneer, dies at home in Maine.</p>]]>
+      </description>
+      <source:markdown>Barney Frank, longtime congressman and gay rights pioneer, dies at home in Maine.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/05/20/3811/</guid>
+    </item>    <item>
+      <title>Why Trump&#39;s Revenge Tour Will Come Back To Bite Him in the Butt</title>
+      <link>https://robertreich.substack.com/p/why-trumps-revenge-tour-will-come</link>
+      <description>
+        <![CDATA[While he's turning the Republican Party into his own criminal organization, he's also creating problems for himself over the next six months]]>
+      </description>
+      <source:markdown>While he&#39;s turning the Republican Party into his own criminal organization, he&#39;s also creating problems for himself over the next six months</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!1TlK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb593519-a08c-4196-ad68-c8b3c7dfef6a_4000x2599.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/why-trumps-revenge-tour-will-come</guid>
+    </item>    <item>
+      <title>What&#39;s left to say</title>
+      <link>https://deadsimpletech.com/blog/whats-left-to-say</link>
+      <description>
+        <![CDATA[All this is to say that I think that perhaps we were lying to ourselves when we worried about AI and its social impacts, not because we said that the technology is bad and has negative consequences (it does), but because of what we told ourselves: we criticise the technology because it's an affront to human dignity and creativity and damages our ability to create art, write or otherwise be human.]]>
+      </description>
+      <source:markdown>All this is to say that I think that perhaps we were lying to ourselves when we worried about AI and its social impacts, not because we said that the technology is bad and has negative consequences (it does), but because of what we told ourselves: we criticise the technology because it&#39;s an affront to human dignity and creativity and damages our ability to create art, write or otherwise be human.</source:markdown>
+      <guid>cid://https://deadsimpletech.com/blog/whats-left-to-say</guid>
+    </item>    <item>
+      <title>Snowcaps</title>
+      <link>https://om.co/2026/05/20/snowcaps/</link>
+      <description>
+        <![CDATA[I love my snowcaps, in landscape photos and pens. I have been using Montblanc pens for a long time, about three decades now. Slowly the numbers have piled up. The newest pens have a sharper, more stylized white six-pointed star with rounded edges, representing the snow-covered peak of Mont Blanc, the highest mountain in the &#8230;]]>
+      </description>
+      <source:markdown>I love my snowcaps, in landscape photos and pens. I have been using Montblanc pens for a long time, about three decades now. Slowly the numbers have piled up. The newest pens have a sharper, more stylized white six-pointed star with rounded edges, representing the snow-covered peak of Mont Blanc, the highest mountain in the …</source:markdown>
+      <guid>cid://https://om.co/?p=952214</guid>
+    </item>    <item>
+      <title>Midday</title>
+      <link>https://doc.searls.com/2026/05/20/midday/</link>
+      <description>
+        <![CDATA[Following fires In normal times, Santa Rosa Island is easy to watch from our deck in Santa Barbara. But right now it&#8217;s burning up, and smoke from that fire and the Sandy Fire in Simi Valley have added layers of brown to the gray marine haze that comes and goes. So here are some sources [&#8230;]]]>
+      </description>
+      <source:markdown>Following fires In normal times, Santa Rosa Island is easy to watch from our deck in Santa Barbara. But right now it’s burning up, and smoke from that fire and the Sandy Fire in Simi Valley have added layers of brown to the gray marine haze that comes and goes. So here are some sources \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/05/20/midday/</guid>
+    </item>    <item>
+      <title>Last Call - Tonight, 7pm ET - Our Weekly Hopium Paid Subscriber Get Together</title>
+      <link>https://www.hopiumchronicles.com/p/last-call-tonight-7pm-et-our-weekly-c09</link>
+      <description>
+        <![CDATA[Welcome new subscribers!]]>
+      </description>
+      <source:markdown>Welcome new subscribers!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!9-os!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41437ec7-18d7-475d-aea2-e116e445977e_774x525.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/last-call-tonight-7pm-et-our-weekly-c09</guid>
+    </item>    <item>
+      <link>https://www.nydailynews.com/2026/05/20/penn-station-rebuild-trump-amtrak-msg-halmar/?share=heae6amrart6mceawatm</link>
+      <description>
+        <![CDATA[<p>$8B Penn Station rebuild goes to firm apparently favored by Trump; MSG to stay put.</p>]]>
+      </description>
+      <source:markdown>$8B Penn Station rebuild goes to firm apparently favored by Trump; MSG to stay put.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/05/20/3809/</guid>
+    </item>    <item>
+      <title>Meet Bobby Pulido, A Grammy-Award Winning Singer-Songwriter Working To Flip TX-15</title>
+      <link>https://www.hopiumchronicles.com/p/meet-bobby-pulido-a-grammy-award</link>
+      <description>
+        <![CDATA["Bobby grew up surrounded by the values that define South Texas: hard work, humility, family, and faith"]]>
+      </description>
+      <source:markdown>&#34;Bobby grew up surrounded by the values that define South Texas: hard work, humility, family, and faith&#34;</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/198305527/04200600d5283dc7916e763df5183415.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/meet-bobby-pulido-a-grammy-award</guid>
+    </item>    <item>
+      <title>What I said at Berkeley&#39;s Commencement</title>
+      <link>https://robertreich.substack.com/p/what-i-said-at-berkeleys-commencement</link>
+      <description>
+        <![CDATA[My last words to the Class of 2026]]>
+      </description>
+      <source:markdown>My last words to the Class of 2026</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/MhWuLr-whKA" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/what-i-said-at-berkeleys-commencement</guid>
+    </item>    <item>
+      <title>This Week In The Big Picture</title>
+      <link>https://thinkbigpicture.substack.com/p/week-big-picture-may-20</link>
+      <description>
+        <![CDATA[On Sunday, the Trump administration held a Christian nationalist day of prayer on the National Mall as part of its 250th anniversary celebrations.]]>
+      </description>
+      <source:markdown>On Sunday, the Trump administration held a Christian nationalist day of prayer on the National Mall as part of its 250th anniversary celebrations.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!wefX!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f5822e2-857d-4feb-90b9-cd8e0aa0360c_1280x1280.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-big-picture-may-20</guid>
+    </item>    <item>
+      <title>Wednesday session</title>
+      <link>https://adactio.com/notes/22573</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22573/small.jpg" srcset="https://adactio.com/images/uploaded/22573/medium.jpg 1.5x, https://adactio.com/images/uploaded/22573/large.jpg 2.5x" alt="Wednesday session" />
+        <p>Wednesday session</p>]]>
+      </description>
+      <source:markdown>![Wednesday session](https://adactio.com/images/uploaded/22573/small.jpg)
+
+Wednesday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22573</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/05/20.html#a191155</link>
+      <description>
+        <![CDATA[Saying Bluesky is part of the web is like saying Spotify or YouTube own podcasting. They say it, but that doesn't mean it's true.]]>
+      </description>
+      <source:markdown>Saying Bluesky is part of the web is like saying Spotify or YouTube own podcasting. They say it, but that doesn&#39;t mean it&#39;s true.</source:markdown>
+      <guid>cid://http://scripting.com/2026/05/20.html#a191155</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/05/20.html#a185129</link>
+      <description>
+        <![CDATA[I've been following <a href="https://jakesav.in/2026/05/20/rebooting-frontier/">Jake's work</a> privately, but now he's blogging about it publicly. I totally look forward to running Frontier on today's hardware. I especially want to run Manila on one of my home computers, and use it for Linux server apps. I've forgotten so much about how Manila works, but I expect it'll all come back. We had a great team back in the Manila days -- we all used the product, and it was and will be again one of the most powerful and pragmatic programming environments ever.]]>
+      </description>
+      <source:markdown>I&#39;ve been following [Jake&#39;s work](https://jakesav.in/2026/05/20/rebooting-frontier/) privately, but now he&#39;s blogging about it publicly. I totally look forward to running Frontier on today&#39;s hardware. I especially want to run Manila on one of my home computers, and use it for Linux server apps. I&#39;ve forgotten so much about how Manila works, but I expect it&#39;ll all come back. We had a great team back in the Manila days -- we all used the product, and it was and will be again one of the most powerful and pragmatic programming environments ever.</source:markdown>
+      <guid>cid://http://scripting.com/2026/05/20.html#a185129</guid>
+    </item>    <item>
+      <link>https://www.niemanlab.org/2026/05/james-murdoch-buys-up-half-of-vox-media-grabbing-new-york-and-podcasts-but-leaving-the-verge-and-sb-nation/</link>
+      <description>
+        <![CDATA[<p>James Murdoch buys up half of Vox Media, grabbing New York and podcasts, but leaving The Verge and SB Nation.</p>]]>
+      </description>
+      <source:markdown>James Murdoch buys up half of Vox Media, grabbing New York and podcasts, but leaving The Verge and SB Nation.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/05/20/3807/</guid>
+    </item>    <item>
+      <title>PureOS Crimson Development Report: April 2026 – PureOS Crimson Released</title>
+      <link>https://puri.sm/posts/pureos-crimson-development-report-april-2026-pureos-crimson-released/</link>
+      <description>
+        <![CDATA[<p>The finish line! The moment we have anticipated is finally here &#8211; PureOS Crimson is released! All devices running PureOS Byzantium will receive the PureOS Upgrade application with their regular software updates.  If you&#8217;d like to install Crimson fresh, refer to our installation instructions for PCs, servers, and the Librem 5. This has been an [&#8230;]</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-april-2026-pureos-crimson-released/">PureOS Crimson Development Report: April 2026 &#8211; PureOS Crimson Released</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>The finish line! The moment we have anticipated is finally here – PureOS Crimson is released! All devices running PureOS Byzantium will receive the PureOS Upgrade application with their regular software updates.  If you’d like to install Crimson fresh, refer to our installation instructions for PCs, servers, and the Librem 5. This has been an \[…\]
+
+The post [PureOS Crimson Development Report: April 2026 – PureOS Crimson Released](https://puri.sm/posts/pureos-crimson-development-report-april-2026-pureos-crimson-released/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=85467</guid>
+    </item>    <item>
+      <title>Inkwell Rejected From the App Store</title>
+      <link>https://mjtsai.com/blog/2026/05/20/inkwell-rejected-from-the-app-store/</link>
+      <description>
+        <![CDATA[Manton Reece: I submitted Inkwell for iOS to Apple for review on April 21st. It has gone through numerous rejections, code changes, resubmissions, clarifications, one phone call, and one appeal to the review board, which I&#8217;m still waiting to hear back on. [&#8230;] The app didn&#8217;t have a way to report objectionable content or block [&#8230;]]]>
+      </description>
+      <source:markdown>Manton Reece: I submitted Inkwell for iOS to Apple for review on April 21st. It has gone through numerous rejections, code changes, resubmissions, clarifications, one phone call, and one appeal to the review board, which I’m still waiting to hear back on. \[…\] The app didn’t have a way to report objectionable content or block \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=51969</guid>
+    </item>    <item>
+      <title>Hijacking Apps Using Archive Utility</title>
+      <link>https://mjtsai.com/blog/2026/05/20/hijacking-apps-using-archive-utility/</link>
+      <description>
+        <![CDATA[Talal Haj Bakry and Tommy Mysk (Mastodon): Until macOS 26.4, Archive Utility had nearly unrestricted filesystem access. Combined with a drag-and-drop sandbox quirk, this let an attacker bypass App Sandbox data containers, Transparency, Consent, and Control (TCC) protections, and hijack third-party apps &#8212; all without special permissions or elevated privileges. [&#8230;] Here&#8217;s one interesting aspect [&#8230;]]]>
+      </description>
+      <source:markdown>Talal Haj Bakry and Tommy Mysk (Mastodon): Until macOS 26.4, Archive Utility had nearly unrestricted filesystem access. Combined with a drag-and-drop sandbox quirk, this let an attacker bypass App Sandbox data containers, Transparency, Consent, and Control (TCC) protections, and hijack third-party apps — all without special permissions or elevated privileges. \[…\] Here’s one interesting aspect \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=51967</guid>
+    </item>    <item>
+      <title>Core Data Lab 3.0</title>
+      <link>https://mjtsai.com/blog/2026/05/20/core-data-lab-3-0/</link>
+      <description>
+        <![CDATA[Ron Elemans: Despite all that, we have done our best to embrace and implement the concepts of the Liquid Glass design in Core Data Lab 3.0, although with a few tweaks here and there to improve the contrast in especially dialogs. [&#8230;] Identifying rows in data often depends on attributes with names like &#8216;identifier&#8217;, &#8216;title&#8217; [&#8230;]]]>
+      </description>
+      <source:markdown>Ron Elemans: Despite all that, we have done our best to embrace and implement the concepts of the Liquid Glass design in Core Data Lab 3.0, although with a few tweaks here and there to improve the contrast in especially dialogs. \[…\] Identifying rows in data often depends on attributes with names like ‘identifier’, ‘title’ \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=51965</guid>
+    </item>    <item>
+      <title>Updating Shared Shortcuts</title>
+      <link>https://mjtsai.com/blog/2026/05/20/updating-shared-shortcuts/</link>
+      <description>
+        <![CDATA[Manuel Grabowski: No actual concept of versioning or upgrades for shared shortcuts. Sharing shortcuts happens via weird iCloud URLs rather than being an actual aspect of the system. So to update a shortcut, do you just add it again? No indication of what that will do before you press the button. Will it error out? [&#8230;]]]>
+      </description>
+      <source:markdown>Manuel Grabowski: No actual concept of versioning or upgrades for shared shortcuts. Sharing shortcuts happens via weird iCloud URLs rather than being an actual aspect of the system. So to update a shortcut, do you just add it again? No indication of what that will do before you press the button. Will it error out? \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=51963</guid>
+    </item>    <item>
+      <title>Apple vs. Indian Antitrust Regulator</title>
+      <link>https://mjtsai.com/blog/2026/05/20/apple-vs-indian-antitrust-regulator/</link>
+      <description>
+        <![CDATA[Juli Clover (Slashdot): Apple is fighting an antitrust penalty law in India that could require it to pay massive fines in its ongoing antitrust dispute with Tinder owner Match, reports Reuters. Last year, India passed a law that allows the Competition Commission of India (CCI) to use global turnover when calculating penalties imposed on companies [&#8230;]]]>
+      </description>
+      <source:markdown>Juli Clover (Slashdot): Apple is fighting an antitrust penalty law in India that could require it to pay massive fines in its ongoing antitrust dispute with Tinder owner Match, reports Reuters. Last year, India passed a law that allows the Competition Commission of India (CCI) to use global turnover when calculating penalties imposed on companies \[…\]</source:markdown>
+      <guid>cid://https://mjtsai.com/blog/?p=51961</guid>
+    </item>    <item>
+      <title>#MyTerms at #CPDP2026</title>
+      <link>https://doc.searls.com/2026/05/20/myterms-at-cpdp2026/</link>
+      <description>
+        <![CDATA[CPDP stands for Computers, Privacy, and Data Protection. The theme of this year&#8217;s CPDP is &#8220;Competing Visions Shared Futures.&#8221; The MyTerms future is replacing consent with contract in our online dealings with websites and digital services. Consent is what cookie notices speciously obtain from your clicks on the forced choices that interrupt your first experience [&#8230;]]]>
+      </description>
+      <source:markdown>CPDP stands for Computers, Privacy, and Data Protection. The theme of this year’s CPDP is “Competing Visions Shared Futures.” The MyTerms future is replacing consent with contract in our online dealings with websites and digital services. Consent is what cookie notices speciously obtain from your clicks on the forced choices that interrupt your first experience \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/05/20/myterms-at-cpdp2026/</guid>
+    </item>    <item>
+      <title>Hagenau</title>
+      <link>https://dbarkhuff.substack.com/p/hagenau</link>
+      <description>
+        <![CDATA[I&#8217;ve always been a history aficionado, a consumer of both Hollywood and Penguin House&#8217;s efforts to sell it.]]>
+      </description>
+      <source:markdown>I’ve always been a history aficionado, a consumer of both Hollywood and Penguin House’s efforts to sell it.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!2RkX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39444bb7-072f-4212-ad60-6a7cd569f79a_1710x850.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/hagenau</guid>
+    </item>    <item>
+      <title>Manipulating the Mac Photos Library</title>
+      <link>http://statusq.org/archives/2026/05/20/13685/</link>
+      <description>
+        <![CDATA[<p data-block-key="twhvq"></p><img alt="Trees on Dunwich Heath" class="richtext-image full-width" height="578" src="http://statusq.org/media/images/2026-05-17_13-23-02-2048.width-800.jpg" width="800"><p data-block-key="572qp"><i>If you're not a technically-inclined user of the Apple Photos app, you may want to skip this one!</i></p><p data-block-key="eq3su">The master copies of my photos live in two different worlds.</p><p data-block-key="7sd21">There are the quick snaps taken on my iPhone: handy to browse, to share, to sync across devices and, increasingly important for me, to search by using a map. I generally access these, like everyone else, using the Apple Photos app, and they're backed up to iCloud.</p><p data-block-key="1d6ks">Then there are the 'proper' photos: taken on a 'real' camera, stored on a ZFS filesystem on my NAS, backed up automatically to two remote locations, and managed using Photo Mechanic and Capture One.</p><p data-block-key="2cbru">But increasingly, of course, the boundary between these is blurring, as phone cameras become capable of taking serious pictures, and as modern-day tasks such as sharing on social media and sending using Airdrop become something I want to do with my 'proper' photos too.</p><p data-block-key="db76r">So I've started to experiment with ways to blend the two, and will talk more about them in a later post if they work well! But in the meantime, I just wanted to introduce Rhet Turnbull's excellent <a href="https://github.com/RhetTbull/osxphotos">osxphotos</a> software, which is really handy for anyone wanting to do something similar.</p><p data-block-key="2ral5">It's a command-line tool (and Python module) that can provide access to the Photos library and gives you a wide range of options. Here's just one example as an illustration:</p><p data-block-key="b7hap"><code>osxphotos export ~/PhotoSync/FromPhotos \<br/> --favorite --update --sidecar XMP \<br/> --download-missing --exiftool \<br/> --skip-edited</code></p><p data-block-key="gpa8">This will export any photos marked as 'Favourites' to the <code>~/PhotoSync/FromPhotos</code> directory, only if they're new or updated since a previous export. It will create an XMP sidecar file -- a standard XML format for storing metadata alongside the images -- for each one. If the file is on iCloud but not on your local device, it will attempt to download it first, and it will skip versions edited in Photos because I just want the raw originals for my particular workflow. (There is a vast array of further options available, just on the <i>export</i> command! If, say, the Photos app has recognised the faces in your photos, you can turn the names into keywords in your exported files.) </p><p data-block-key="fnpfg">And hey presto, I have a nice directory of favourite iPhone photos to incorporate in the library of my 'proper' photo-management software.</p><p data-block-key="1icnk">The <code>import</code> and <code>export</code> subcommands are the key ones for most people, but there are a couple of dozen other options...for example:</p><ul><li data-block-key="674k2"><code>osxphotos labels</code> will print out all the automatically-assigned labels given to your photos; I was interested to find things like 'floodplain' and 'handwriting' in there; terms I wouldn't otherwise have thought of typing into the search box.</li><li data-block-key="4ufpa"><code>osxphotos add-locations</code> will let you find photos that have no location info and assign them a location if found on another photo taken within a specified time period: handy if, say, you took a photo with your good camera (which has no GPS) and would like to copy the geotags from the snaps you took at the same time with your iPhone.</li><li data-block-key="301hh">Some of the commands, though entered on the command line, will operate by default on any images you've currently got selected in the Photos app. I've just clicked a couple of pictures of Rose and Tilly, and set their captions using:<br/><code>osxphotos batch-edit --caption "Rose and Tilly {created.year}-{created.mm}-{created.dd}"</code></li></ul><p data-block-key="17ri2">Anyway, I hope this gives you some ideas. I'll be playing with this a lot in future, I think!</p>]]>
+      </description>
+      <source:markdown>![Trees on Dunwich Heath](http://statusq.org/media/images/2026-05-17_13-23-02-2048.width-800.jpg)
+
+_If you&#39;re not a technically-inclined user of the Apple Photos app, you may want to skip this one!_
+
+The master copies of my photos live in two different worlds.
+
+There are the quick snaps taken on my iPhone: handy to browse, to share, to sync across devices and, increasingly important for me, to search by using a map. I generally access these, like everyone else, using the Apple Photos app, and they&#39;re backed up to iCloud.
+
+Then there are the &#39;proper&#39; photos: taken on a &#39;real&#39; camera, stored on a ZFS filesystem on my NAS, backed up automatically to two remote locations, and managed using Photo Mechanic and Capture One.
+
+But increasingly, of course, the boundary between these is blurring, as phone cameras become capable of taking serious pictures, and as modern-day tasks such as sharing on social media and sending using Airdrop become something I want to do with my &#39;proper&#39; photos too.
+
+So I&#39;ve started to experiment with ways to blend the two, and will talk more about them in a later post if they work well! But in the meantime, I just wanted to introduce Rhet Turnbull&#39;s excellent [osxphotos](https://github.com/RhetTbull/osxphotos) software, which is really handy for anyone wanting to do something similar.
+
+It&#39;s a command-line tool (and Python module) that can provide access to the Photos library and gives you a wide range of options. Here&#39;s just one example as an illustration:
+
+`osxphotos export ~/PhotoSync/FromPhotos \
+ --favorite --update --sidecar XMP \
+ --download-missing --exiftool \
+ --skip-edited`
+
+This will export any photos marked as &#39;Favourites&#39; to the `~/PhotoSync/FromPhotos` directory, only if they&#39;re new or updated since a previous export. It will create an XMP sidecar file -- a standard XML format for storing metadata alongside the images -- for each one. If the file is on iCloud but not on your local device, it will attempt to download it first, and it will skip versions edited in Photos because I just want the raw originals for my particular workflow. (There is a vast array of further options available, just on the _export_ command! If, say, the Photos app has recognised the faces in your photos, you can turn the names into keywords in your exported files.)
+
+And hey presto, I have a nice directory of favourite iPhone photos to incorporate in the library of my &#39;proper&#39; photo-management software.
+
+The `import` and `export` subcommands are the key ones for most people, but there are a couple of dozen other options...for example:
+
+- `osxphotos labels` will print out all the automatically-assigned labels given to your photos; I was interested to find things like &#39;floodplain&#39; and &#39;handwriting&#39; in there; terms I wouldn&#39;t otherwise have thought of typing into the search box.
+- `osxphotos add-locations` will let you find photos that have no location info and assign them a location if found on another photo taken within a specified time period: handy if, say, you took a photo with your good camera (which has no GPS) and would like to copy the geotags from the snaps you took at the same time with your iPhone.
+- Some of the commands, though entered on the command line, will operate by default on any images you&#39;ve currently got selected in the Photos app. I&#39;ve just clicked a couple of pictures of Rose and Tilly, and set their captions using:
+
+  `osxphotos batch-edit --caption &#34;Rose and Tilly {created.year}-{created.mm}-{created.dd}&#34;`
+
+Anyway, I hope this gives you some ideas. I&#39;ll be playing with this a lot in future, I think!</source:markdown>
+      <guid>cid://http://statusq.org/archives/2026/05/20/13685/</guid>
+    </item>    <item>
+      <title>The Mandalorian y Grogu no quieren terminar su historia</title>
+      <link>https://www.palomitademaiz.net/resenas-the-mandalorian-y-grogu/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-the-mandalorian-y-grogu</link>
+      <description>
+        <![CDATA[<p>Dirección: Jon Favreau. Guion: Jon Favreau, Dave Filoni y Noah Kloor. Elenco: Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Coyne, Martin Scorsese, Steve Blum. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt30825738/ Pareciera que no, pero han pasado siete años desde que salió la última película de Star Wars en cines. En 2019, [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-the-mandalorian-y-grogu/">The Mandalorian y Grogu no quieren terminar su historia</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Jon Favreau. Guion: Jon Favreau, Dave Filoni y Noah Kloor. Elenco: Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Coyne, Martin Scorsese, Steve Blum. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt30825738/ Pareciera que no, pero han pasado siete años desde que salió la última película de Star Wars en cines. En 2019, \[…\]
+
+La entrada [The Mandalorian y Grogu no quieren terminar su historia](https://www.palomitademaiz.net/resenas-the-mandalorian-y-grogu/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=26464</guid>
+    </item>    <item>
+      <title>Anyone Who Thinks Trump Is Winning Isn&#39;t Paying Attention</title>
+      <link>https://www.hopiumchronicles.com/p/anyone-who-thinks-trump-is-winning</link>
+      <description>
+        <![CDATA[Hopium paid subscribers gather tonight at 7pm ET to go over the primary results and talk politics....]]>
+      </description>
+      <source:markdown>Hopium paid subscribers gather tonight at 7pm ET to go over the primary results and talk politics....</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a890210b-62e2-4254-b216-0669d4e35035_1072x478.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/anyone-who-thinks-trump-is-winning</guid>
+    </item>    <item>
+      <title>Could generative AI turn out to be the tech industry’s Vietnam? And could public backlash lead AI to a better place?</title>
+      <link>https://garymarcus.substack.com/p/could-generative-ai-could-turn-out</link>
+      <description>
+        <![CDATA[We live in interesting times]]>
+      </description>
+      <source:markdown>We live in interesting times</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/tNH43a1EI7s" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/could-generative-ai-could-turn-out</guid>
+    </item>    <item>
+      <title>Fertility And Beer</title>
+      <link>https://thebrowser.com/free/fertility-and-beer/</link>
+      <description>
+        <![CDATA[Writing of lasting value]]>
+      </description>
+      <source:markdown>Writing of lasting value</source:markdown>
+      <guid>cid://6a0d92ff1bad9c0001cc7c31</guid>
+    </item>    <item>
+      <title>Indivisible Debrief: Reflections on May Day</title>
+      <link>https://indivisibleteam.substack.com/p/indivisible-debrief-reflections-on</link>
+      <description>
+        <![CDATA[On May Day, Indivisibles joined a coalition of over 280 other organizations and labor unions for a day of action and &#8220;No Work, No School, No Shopping.&#8221; It was an economic disruption to show Trump and his billionaire buddies that we &#8211; the workers, the students, the everyday people &#8211; have economic power and we aren&#8217;t afraid to flex it.]]>
+      </description>
+      <source:markdown>On May Day, Indivisibles joined a coalition of over 280 other organizations and labor unions for a day of action and “No Work, No School, No Shopping.” It was an economic disruption to show Trump and his billionaire buddies that we – the workers, the students, the everyday people – have economic power and we aren’t afraid to flex it.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!pfYv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff64890a4-d8bc-43ea-8fab-11b285c1df2a_2167x1404.png" length="0" type="image/jpeg" />
+      <guid>cid://https://indivisibleteam.substack.com/p/indivisible-debrief-reflections-on</guid>
+    </item>    <item>
+      <title>The Art of the Deal with Yourself</title>
+      <link>https://plus.briantylercohen.com/p/the-lawsuit-is-coming-from-inside</link>
+      <description>
+        <![CDATA[Trump just became the Quad God of legal maneuvers by landing an impossible trick: suing and settling with his own government, only to walk away with a $1.776 billion slush fund and immunity.]]>
+      </description>
+      <source:markdown>Trump just became the Quad God of legal maneuvers by landing an impossible trick: suing and settling with his own government, only to walk away with a $1.776 billion slush fund and immunity.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/5afe502f-afc2-4539-a140-70e4ca493cb5_1586x1048.png" length="0" type="image/jpeg" />
+      <guid>cid://https://plus.briantylercohen.com/p/the-lawsuit-is-coming-from-inside</guid>
+    </item>    <item>
+      <title>On AI Security</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/on-ai-security.html</link>
+      <description>
+        <![CDATA[<p>Good <a href="https://berryvilleiml.com/docs/no-security-meter-ai.pdf">report</a>:</p>
+        <blockquote><p><b>Executive Summary:</b> Let&#8217;s say you wanted to make sure that your AI is secure. Can you just maximize the security and privacy benchmark and call it a day? Nope, because benchmarks don&#8217;t actually work for measuring AI capabilities (even when they are NOT emergent systemic properties like security). So let&#8217;s take a step back: how do you measure security in the first place? Good question. Over the last 30 years, security engineering for software evolved from black box penetration testing, through whitebox code analysis and architectural risk analysis to de facto process-driven standards like the Building Security In Maturity Model (BSIMM). Software had a very deep impact on business operations, and it appears that AI is going to have an even deeper impact. Will a software security-like measurement move work for AI? Probably. In the meantime we can make real progress in AI security by cleaning up our WHAT piles and managing risk by identifying and applying good assurance processes. (Spoiler alert: no matter what we do, we still don&#8217;t get a security meter for AI, so we need to be extra vigilant about security.)...</p></blockquote>]]>
+      </description>
+      <source:markdown>Good [report](https://berryvilleiml.com/docs/no-security-meter-ai.pdf):
+
+&#62; **Executive Summary:** Let’s say you wanted to make sure that your AI is secure. Can you just maximize the security and privacy benchmark and call it a day? Nope, because benchmarks don’t actually work for measuring AI capabilities (even when they are NOT emergent systemic properties like security). So let’s take a step back: how do you measure security in the first place? Good question. Over the last 30 years, security engineering for software evolved from black box penetration testing, through whitebox code analysis and architectural risk analysis to de facto process-driven standards like the Building Security In Maturity Model (BSIMM). Software had a very deep impact on business operations, and it appears that AI is going to have an even deeper impact. Will a software security-like measurement move work for AI? Probably. In the meantime we can make real progress in AI security by cleaning up our WHAT piles and managing risk by identifying and applying good assurance processes. (Spoiler alert: no matter what we do, we still don’t get a security meter for AI, so we need to be extra vigilant about security.)...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72086</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/05/20.html#a141404</link>
+      <description>
+        <![CDATA[Claude Code doesn't know about "user perspective," but it learns quickly. The UI of the software we're working on is fenced off, I use it, but I don't read code in there. I don't want to know how it works, I want to use it and getting right. This is an important technique. Later once things are locked down, I don't mind learning more about how it was done.]]>
+      </description>
+      <source:markdown>Claude Code doesn&#39;t know about &#34;user perspective,&#34; but it learns quickly. The UI of the software we&#39;re working on is fenced off, I use it, but I don&#39;t read code in there. I don&#39;t want to know how it works, I want to use it and getting right. This is an important technique. Later once things are locked down, I don&#39;t mind learning more about how it was done.</source:markdown>
+      <guid>cid://http://scripting.com/2026/05/20.html#a141404</guid>
+    </item>    <item>
+      <title>Why You Should Avoid False Urgency</title>
+      <link>https://guykawasaki.substack.com/p/why-you-should-avoid-false-urgency</link>
+      <description>
+        <![CDATA[How everything feels important when nothing is prioritized.]]>
+      </description>
+      <source:markdown>How everything feels important when nothing is prioritized.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!LoMB!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a121200-ceb3-4432-b678-5f8c103e97ae_1280x1280.png" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/why-you-should-avoid-false-urgency</guid>
+    </item>    <item>
+      <title>Welcome to the Raspberry Pi Podcast</title>
+      <link>https://www.raspberrypi.com/news/welcome-to-the-raspberry-pi-podcast/</link>
+      <description>
+        <![CDATA[<p>Surprise! We launched a podcast. Available now, live from Pi Towers, wherever you get your podcasts. </p>
+        <p>The post <a href="https://www.raspberrypi.com/news/welcome-to-the-raspberry-pi-podcast/">Welcome to the Raspberry Pi Podcast</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>Surprise! We launched a podcast. Available now, live from Pi Towers, wherever you get your podcasts.
+
+The post [Welcome to the Raspberry Pi Podcast](https://www.raspberrypi.com/news/welcome-to-the-raspberry-pi-podcast/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=137295</guid>
     </item>    <item>
       <title>IATSE Endorses Karen Bass’ Bid For Reelection In Los Angeles Mayor Race</title>
       <link>https://deadline.com/2026/05/karen-bass-iatse-los-angeles-mayor-race-1236916610/</link>
@@ -152,9 +861,9 @@ and addressing some problems encountered with Android systems.</source:markdown>
     </item>    <item>
       <link>http://scripting.com/2026/05/20.html#a123914</link>
       <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/05/20/brunson.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I couldn't not say anything about <a href="https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/">the Knicks win</a> last night in the opening game of the NBA Eastern Conference finals. The Knicks were losing, then winning big, then fell apart, and by midway through the 4th quarter they were down by 22, and the Clevelands were completely in charge. But then the Knicks came back, miraculously tied the game so it went into overtime where the Knicks dominated, and won. Actually it wasn't really a miracle, it was somewhat predictable. The Knicks were playing on a lot of rest, and one of the big advantages they have this year over last is a deep and strong bench and a coach who plays them (last year's coach didn't). So the Knicks didn't get tired and the Cavs were wiped out by the 4th quarter. Their shots weren't long or short, aimed, they had no flow, they weren't getting rebounds, they didn't have good ball movement. While Brunson was driving the Knicks the Cavs just weren't there. When things started turning around in the 4th I was pretty sure the Knicks would win. I had no basis for believing this, coming back from 22 down so late in the game is pretty unlikely. In most cities that's when the fans start heading home, but not in NYC. We stay till the end because sometimes, maybe often with this years' Knicks, the team you think is going to lose actually ends up winning.]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/05/20/brunson.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I couldn't not say anything about <a href="https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/">the Knicks win</a> last night in the <a href="https://nypost.com/2026/05/19/sports/knicks-mount-furious-rally-to-beat-cavaliers-in-thrilling-game-1-win/">opening game</a> of the NBA Eastern Conference finals. The Knicks were losing, then winning big, then fell apart, and by midway through the 4th quarter they were down by 22, and the Clevelands were completely in charge. But then the Knicks came back, miraculously tied the game so it went into overtime where the Knicks dominated, and won. Actually it wasn't really a miracle, it was somewhat predictable. The Knicks were playing on a lot of rest, and one of the big advantages they have this year over last is a deep and strong bench and a coach who plays them (last year's coach didn't). So the Knicks didn't get tired and the Cavs were wiped out by the 4th quarter. Their shots weren't long or short, aimed, they had no flow, they weren't getting rebounds, they didn't have good ball movement. While Brunson was driving the Knicks the Cavs just weren't there. When things started turning around in the 4th I was pretty sure the Knicks would win. I had no basis for believing this, coming back from 22 down so late in the game is pretty unlikely. In most cities that's when the fans start heading home, but not in NYC. We stay till the end because sometimes, maybe often with this years' Knicks, the team you think is going to lose actually ends up winning.]]>
       </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/05/20/brunson.png)I couldn&#39;t not say anything about [the Knicks win](https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/) last night in the opening game of the NBA Eastern Conference finals. The Knicks were losing, then winning big, then fell apart, and by midway through the 4th quarter they were down by 22, and the Clevelands were completely in charge. But then the Knicks came back, miraculously tied the game so it went into overtime where the Knicks dominated, and won. Actually it wasn&#39;t really a miracle, it was somewhat predictable. The Knicks were playing on a lot of rest, and one of the big advantages they have this year over last is a deep and strong bench and a coach who plays them (last year&#39;s coach didn&#39;t). So the Knicks didn&#39;t get tired and the Cavs were wiped out by the 4th quarter. Their shots weren&#39;t long or short, aimed, they had no flow, they weren&#39;t getting rebounds, they didn&#39;t have good ball movement. While Brunson was driving the Knicks the Cavs just weren&#39;t there. When things started turning around in the 4th I was pretty sure the Knicks would win. I had no basis for believing this, coming back from 22 down so late in the game is pretty unlikely. In most cities that&#39;s when the fans start heading home, but not in NYC. We stay till the end because sometimes, maybe often with this years&#39; Knicks, the team you think is going to lose actually ends up winning.</source:markdown>
+      <source:markdown>![](https://imgs.scripting.com/2026/05/20/brunson.png)I couldn&#39;t not say anything about [the Knicks win](https://www.cbssports.com/nba/news/knicks-cavaliers-comeback-jalen-brunson-james-harden-nba-playoffs-ecf-game-1/) last night in the [opening game](https://nypost.com/2026/05/19/sports/knicks-mount-furious-rally-to-beat-cavaliers-in-thrilling-game-1-win/) of the NBA Eastern Conference finals. The Knicks were losing, then winning big, then fell apart, and by midway through the 4th quarter they were down by 22, and the Clevelands were completely in charge. But then the Knicks came back, miraculously tied the game so it went into overtime where the Knicks dominated, and won. Actually it wasn&#39;t really a miracle, it was somewhat predictable. The Knicks were playing on a lot of rest, and one of the big advantages they have this year over last is a deep and strong bench and a coach who plays them (last year&#39;s coach didn&#39;t). So the Knicks didn&#39;t get tired and the Cavs were wiped out by the 4th quarter. Their shots weren&#39;t long or short, aimed, they had no flow, they weren&#39;t getting rebounds, they didn&#39;t have good ball movement. While Brunson was driving the Knicks the Cavs just weren&#39;t there. When things started turning around in the 4th I was pretty sure the Knicks would win. I had no basis for believing this, coming back from 22 down so late in the game is pretty unlikely. In most cities that&#39;s when the fans start heading home, but not in NYC. We stay till the end because sometimes, maybe often with this years&#39; Knicks, the team you think is going to lose actually ends up winning.</source:markdown>
       <guid>cid://http://scripting.com/2026/05/20.html#a123914</guid>
     </item>    <item>
       <title>Channel 4 CEO Apologizes To Women Who Made “Very Troubling” Rape Allegations On ‘Married At First Sight UK’</title>
@@ -260,6 +969,14 @@ as a plan for transferring ownership of the OpenPGP.org domain.</source:markdown
       </description>
       <source:markdown>It’s Google I/O week and this year’s theme is performative slop. Budding Googlers battle it out on stage vying for executive eyeballs. The prize? Exemption from the next culling. As you might know AI isn’t my cup of tea and my AI policy explains why. \[…\]</source:markdown>
       <guid>cid://https://dbushell.com/2026/05/20/google-just-spat-in-my-face/</guid>
+    </item>    <item>
+      <title>Dragoncatcher: The fourth law</title>
+      <link>https://www.robinsloan.com/lab/fourth-law/</link>
+      <description>
+        <![CDATA[<p>AI must not lie. <a href="https://www.robinsloan.com/lab/fourth-law/">Read here.</a></p>]]>
+      </description>
+      <source:markdown>AI must not lie. [Read here.](https://www.robinsloan.com/lab/fourth-law/)</source:markdown>
+      <guid>cid://https://www.robinsloan.com/lab/fourth-law/</guid>
     </item>    <item>
       <title>How George Saunders’s Analysis of Russian Masters Provides a Critical Language for Audio Narratives</title>
       <link>https://lithub.com/how-george-saunderss-analysis-of-russian-masters-provides-a-critical-language-for-audio-narratives/</link>
@@ -1933,9 +2650,9 @@ PS: Claude has a huge advantage over ChatGPT. Claude is one syllable and easy to
       <title>Oneday</title>
       <link>https://doc.searls.com/2026/05/18/oneday/</link>
       <description>
-        <![CDATA[Flaming excess Big fire on Santa Rosa Island. Largest fire ever on Santa Cruz Island. Success story Susie James: Three chords, the truth, and a woman behind the signal is a nice piece about good local radio in Lebanon, Tennessee. It&#39;s in the Lebanon edition of Good News Exchange, which explains itself here.]]>
+        <![CDATA[Flaming excess Big fire on Santa Rosa Island. Largest fire ever there. Success story Susie James: Three chords, the truth, and a woman behind the signal is a nice piece about good local radio in Lebanon, Tennessee. It&#39;s in the Lebanon edition of Good News Exchange, which explains itself here.]]>
       </description>
-      <source:markdown>Flaming excess Big fire on Santa Rosa Island. Largest fire ever on Santa Cruz Island. Success story Susie James: Three chords, the truth, and a woman behind the signal is a nice piece about good local radio in Lebanon, Tennessee. It&#39;s in the Lebanon edition of Good News Exchange, which explains itself here.</source:markdown>
+      <source:markdown>Flaming excess Big fire on Santa Rosa Island. Largest fire ever there. Success story Susie James: Three chords, the truth, and a woman behind the signal is a nice piece about good local radio in Lebanon, Tennessee. It&#39;s in the Lebanon edition of Good News Exchange, which explains itself here.</source:markdown>
       <guid>cid://https://doc.searls.com/2026/05/18/oneday/</guid>
     </item>    <item>
       <title>The value is in the difficulty - Annotations</title>
@@ -24813,930 +25530,6 @@ If you would like to support Redox, please consider donating or buying some merc
 This month, we have made system boot more resilient and better able to avoid getting stuck.
 Wildan Mubarok provided fixes and addressed some long-time regressions after the 0.9.0 release, allowing boot to continue even if certain important drivers exited or became blocked.</source:markdown>
       <guid>cid://https://www.redox-os.org/news/this-month-260430/</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mkobqs4we22p</link>
-      <description>
-        <![CDATA[If can help our library, please do. https://www.givecampus.com/schools/CaliforniaInstituteofTechnology/caltech-giving-day-2026/pages/caltechlibraries]]>
-      </description>
-      <source:markdown>If can help our library, please do. https://www.givecampus.com/schools/CaliforniaInstituteofTechnology/caltech-giving-day-2026/pages/caltechlibraries</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mkobqs4we22p</guid>
-    </item>    <item>
-      <title>The SPLC Indictment: A Fact-Check, a History, and a Question About Who’s Next</title>
-      <link>https://danismart.substack.com/p/the-splc-indictment-a-fact-check</link>
-      <description>
-        <![CDATA[A federal indictment. Three sentences about Charlottesville. A history most people don&#8217;t know. And a legal theory that &#8212; if it holds &#8212; doesn&#8217;t stop with the Southern Poverty Law Center.]]>
-      </description>
-      <source:markdown>A federal indictment. Three sentences about Charlottesville. A history most people don’t know. And a legal theory that — if it holds — doesn’t stop with the Southern Poverty Law Center.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/83217768-6d64-47cf-8cc6-9bd37f7d480c_700x467.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://danismart.substack.com/p/the-splc-indictment-a-fact-check</guid>
-    </item>    <item>
-      <title>President Trump’s $TRUMP memecoin is preparing to launch a “Coin Club” membership scheme</title>
-      <link>https://www.citationneeded.news/trump-coin-club/</link>
-      <description>
-        <![CDATA[The website promises "elite and extraordinary experiences" as part of the newest scheme to revive a token that’s down 97% from its peak and still falling.]]>
-      </description>
-      <source:markdown>The website promises &#34;elite and extraordinary experiences&#34; as part of the newest scheme to revive a token that’s down 97% from its peak and still falling.</source:markdown>
-      <guid>cid://69f279fcad2a89d6d1b04cfb</guid>
-    </item>    <item>
-      <title>No Kings (With the Possible Exception of Charles)</title>
-      <link>https://www.borowitzreport.com/p/no-kings-with-the-possible-exception</link>
-      <description>
-        <![CDATA[The Andy Borowitz Show]]>
-      </description>
-      <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/195912415/63e67ea4f922ab8fb364351f4a1a4393.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/no-kings-with-the-possible-exception</guid>
-    </item>    <item>
-      <title>Websday</title>
-      <link>https://doc.searls.com/2026/04/29/websday/</link>
-      <description>
-        <![CDATA[Greater Good Government Phil Windley nails a use case for MyTerms. Lesser Good Government Wired: ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next—ICE plans to lease offices throughout the US as part of a secret, monthslong expansion campaign. Good Community Governance Alex Chalmers:  When Decentralization Fails. And how it succeeds. Pull-quote: [&#8230;]]]>
-      </description>
-      <source:markdown>Greater Good Government Phil Windley nails a use case for MyTerms. Lesser Good Government Wired: ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next—ICE plans to lease offices throughout the US as part of a secret, monthslong expansion campaign. Good Community Governance Alex Chalmers:  When Decentralization Fails. And how it succeeds. Pull-quote: \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2026/04/29/websday/</guid>
-    </item>    <item>
-      <title>Last Call - Tonight, 7pm ET - Our Weekly Hopium Paid Subscriber Get Together</title>
-      <link>https://www.hopiumchronicles.com/p/last-call-tonight-7pm-et-our-weekly-b73</link>
-      <description>
-        <![CDATA[Friends,]]>
-      </description>
-      <source:markdown>Friends,</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!YP_y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ef559e2-edc9-4175-a62e-fe98021cb4a9_870x907.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/last-call-tonight-7pm-et-our-weekly-b73</guid>
-    </item>    <item>
-      <title>Building with love, and paying for it</title>
-      <link>https://werd.io/building-with-love-and-paying-for-it/</link>
-      <description>
-        <![CDATA[How do you fund work people don't want to pay for?]]>
-      </description>
-      <source:markdown>How do you fund work people don&#39;t want to pay for?</source:markdown>
-      <guid>cid://69f28585825c3600019fc9a5</guid>
-    </item>    <item>
-      <title>Retcon 1.6</title>
-      <link>https://mjtsai.com/blog/2026/04/29/retcon-1-6/</link>
-      <description>
-        <![CDATA[Nathan Manceaux-Panot: Cut, copy and paste commits between branches Copy a commit with &#x2318;C, then paste it on another branch with &#x2318;V Or, cut the commit with &#x2318;X, to move rather than duplicate Paste above the selection using &#x21E7;&#x2318;V, or using the context menu Paste hashes from other apps to insert commits Or, directly drag [&#8230;]]]>
-      </description>
-      <source:markdown>Nathan Manceaux-Panot: Cut, copy and paste commits between branches Copy a commit with ⌘C, then paste it on another branch with ⌘V Or, cut the commit with ⌘X, to move rather than duplicate Paste above the selection using ⇧⌘V, or using the context menu Paste hashes from other apps to insert commits Or, directly drag \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=51757</guid>
-    </item>    <item>
-      <title>Acorn 8.5</title>
-      <link>https://mjtsai.com/blog/2026/04/29/acorn-8-5/</link>
-      <description>
-        <![CDATA[Gus Mueller (release notes): There&#8217;s a new &#8220;Bendable&#8221; type of Arrow shape which lets you add a nice adjustable curve to your arrow. You can also have arrow heads on either end (or both) of the shape. [&#8230;] SVG importing has been much improved. Drop shadows, text on a path, poly lines, transforms, reading css [&#8230;]]]>
-      </description>
-      <source:markdown>Gus Mueller (release notes): There’s a new “Bendable” type of Arrow shape which lets you add a nice adjustable curve to your arrow. You can also have arrow heads on either end (or both) of the shape. \[…\] SVG importing has been much improved. Drop shadows, text on a path, poly lines, transforms, reading css \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=51755</guid>
-    </item>    <item>
-      <title>California’s BASED Act Defeated</title>
-      <link>https://mjtsai.com/blog/2026/04/29/californias-based-act-defeated/</link>
-      <description>
-        <![CDATA[Scott Wiener: Senator Scott Wiener (D-San Francisco) announced SB 1074, the Blocking Anticompetitive Self-preferencing by Entrenched Dominant platforms (BASED) Act, which is sponsored by Y Combinator and Economic Security California Action. The BASED Act will restore competition to the digital marketplace by prohibiting any digital platform with a market capitalization greater than $1 trillion and [&#8230;]]]>
-      </description>
-      <source:markdown>Scott Wiener: Senator Scott Wiener (D-San Francisco) announced SB 1074, the Blocking Anticompetitive Self-preferencing by Entrenched Dominant platforms (BASED) Act, which is sponsored by Y Combinator and Economic Security California Action. The BASED Act will restore competition to the digital marketplace by prohibiting any digital platform with a market capitalization greater than $1 trillion and \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=51753</guid>
-    </item>    <item>
-      <title>Apple Invites 1.8</title>
-      <link>https://mjtsai.com/blog/2026/04/29/apple-invites-1-8/</link>
-      <description>
-        <![CDATA[Tim Hardwick: Following the latest update of Apple&#8217;s Invites app, hosts can now manually edit the guest list to update guest responses and adjust the number of additional guests. [&#8230;] Elsewhere, the dashboard has been expanded with an All Events view, bringing both upcoming and past events into a single, unified interface. Sharing options have [&#8230;]]]>
-      </description>
-      <source:markdown>Tim Hardwick: Following the latest update of Apple’s Invites app, hosts can now manually edit the guest list to update guest responses and adjust the number of additional guests. \[…\] Elsewhere, the dashboard has been expanded with an All Events view, bringing both upcoming and past events into a single, unified interface. Sharing options have \[…\]</source:markdown>
-      <guid>cid://https://mjtsai.com/blog/?p=51751</guid>
-    </item>    <item>
-      <title>Katie Phang On Callais, Her New Lawsuit Against The DOJ, And Todd Blanche&#39;s Escalating Lawlessness</title>
-      <link>https://www.hopiumchronicles.com/p/katie-phang-on-callais-her-new-lawsuit</link>
-      <description>
-        <![CDATA[We cover a lot of ground in this timely and lively discussion....]]>
-      </description>
-      <source:markdown>We cover a lot of ground in this timely and lively discussion....</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/195908490/d5abc2e728c641367c44f2e1870f5697.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/katie-phang-on-callais-her-new-lawsuit</guid>
-    </item>    <item>
-      <title>Cine, abuso sexual y el mito de la víctima que «debió hablar antes»</title>
-      <link>https://www.palomitademaiz.net/cine-abuso-sexual-y-el-mito-de-la-victima-que-debio-hablar-antes/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=cine-abuso-sexual-y-el-mito-de-la-victima-que-debio-hablar-antes</link>
-      <description>
-        <![CDATA[<p>El abuso sexual es uno de los traumas más incomprendidos en la sociedad no solo por su violencia, sino porque desgarra de una forma que no siempre deja palabras. El silencio que tantos juzgan no nace de la duda, la mentira o un cálculo perverso; más bien nace del miedo, la vergüenza aprendida, el desconcierto [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/cine-abuso-sexual-y-el-mito-de-la-victima-que-debio-hablar-antes/">Cine, abuso sexual y el mito de la víctima que «debió hablar antes»</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>El abuso sexual es uno de los traumas más incomprendidos en la sociedad no solo por su violencia, sino porque desgarra de una forma que no siempre deja palabras. El silencio que tantos juzgan no nace de la duda, la mentira o un cálculo perverso; más bien nace del miedo, la vergüenza aprendida, el desconcierto \[…\]
-
-La entrada [Cine, abuso sexual y el mito de la víctima que «debió hablar antes»](https://www.palomitademaiz.net/cine-abuso-sexual-y-el-mito-de-la-victima-que-debio-hablar-antes/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=26385</guid>
-    </item>    <item>
-      <title>Wednesday session</title>
-      <link>https://adactio.com/notes/22552</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22552/small.jpg" srcset="https://adactio.com/images/uploaded/22552/medium.jpg 1.5x, https://adactio.com/images/uploaded/22552/large.jpg 2.5x" alt="Wednesday session" />
-        <p>Wednesday session </p>]]>
-      </description>
-      <source:markdown>![Wednesday session](https://adactio.com/images/uploaded/22552/small.jpg)
-
-Wednesday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22552</guid>
-    </item>    <item>
-      <title>This Week In The Big Picture</title>
-      <link>https://thinkbigpicture.substack.com/p/week-big-picture-april-29</link>
-      <description>
-        <![CDATA[This morning, the Supreme Court released its decision in Louisiana v.]]>
-      </description>
-      <source:markdown>This morning, the Supreme Court released its decision in Louisiana v.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!wefX!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f5822e2-857d-4feb-90b9-cd8e0aa0360c_1280x1280.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-big-picture-april-29</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/116489590511418111</link>
-      <description>
-        <![CDATA[<p>I uploaded my Godot USD loader/saver/rountripper/importer.   <span class="h-card" translate="no"><a href="https://mastodon.gamedev.place/@RYStorm" class="u-url mention">@<span>RYStorm</span></a></span> <span class="h-card" translate="no"><a href="https://mastodon.social/@Drwave" class="u-url mention">@<span>Drwave</span></a></span> </p><p><a href="https://github.com/migueldeicaza/godot/blob/usd/USD.md" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/godot</span><span class="invisible">/blob/usd/USD.md</span></a></p><p>Will try to get some CI builds of this at some point.</p>]]>
-      </description>
-      <source:markdown>I uploaded my Godot USD loader/saver/rountripper/importer. [@RYStorm](https://mastodon.gamedev.place/@RYStorm)[@Drwave](https://mastodon.social/@Drwave)
-
-[https://github.com/migueldeicaza/godot/blob/usd/USD.md](https://github.com/migueldeicaza/godot/blob/usd/USD.md)
-
-Will try to get some CI builds of this at some point.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/116489590511418111</guid>
-    </item>    <item>
-      <title>Live with Joyce Vance, on today&#39;s shameful and dishonest Supreme Court decision</title>
-      <link>https://robertreich.substack.com/p/live-with-joyce-vance-on-todays-shameful</link>
-      <description>
-        <![CDATA[Talking about Louisiana v. Callais, supported by all 6 Republican appointees and rejected by all 3 Democratic appointees]]>
-      </description>
-      <source:markdown>Talking about Louisiana v. Callais, supported by all 6 Republican appointees and rejected by all 3 Democratic appointees</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/195682033/f5984029c5f3244f6cc0079dd29321e6.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/live-with-joyce-vance-on-todays-shameful</guid>
-    </item>    <item>
-      <title>Spotlight: Not Right</title>
-      <link>https://furbo.org/2026/04/29/spotlight-not-right/</link>
-      <description>
-        <![CDATA[A few weeks ago, my iPhone started having a serious problem: it could no longer search for things. This bug affected the App Library, Mail, Notes, Messages, Settings, and more. Having a device that couldn&#8217;t find things was crippling. All signs pointed to this being an issue with the Spotlight index on the device: the [&#8230;]]]>
-      </description>
-      <source:markdown>A few weeks ago, my iPhone started having a serious problem: it could no longer search for things. This bug affected the App Library, Mail, Notes, Messages, Settings, and more. Having a device that couldn’t find things was crippling. All signs pointed to this being an issue with the Spotlight index on the device: the \[…\]</source:markdown>
-      <guid>cid://https://furbo.org/?p=3052</guid>
-    </item>    <item>
-      <title>The Supreme Court Republicans Make America Safe for White Republicans</title>
-      <link>https://robertreich.substack.com/p/the-supreme-court-republicans-makes</link>
-      <description>
-        <![CDATA[Their decision today is dishonest and shameful]]>
-      </description>
-      <source:markdown>Their decision today is dishonest and shameful</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!SnIM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa357e4f7-0ed1-412e-b4f8-6854904aea68_3160x859.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-supreme-court-republicans-makes</guid>
-    </item>    <item>
-      <title>Fedora 44 is out – countless versions of it</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2026/04/29/fedora_44_countless_versions/</link>
-      <description>
-        <![CDATA[<h4>New sealed bootable container images and Stratis storage, too</h4>
-              <p>Fedora Linux 44 has arrived – in multiple formats and for several CPU families, including some new container formats and storage options.</p>]]>
-      </description>
-      <source:markdown>#### New sealed bootable container images and Stratis storage, too
-
-Fedora Linux 44 has arrived – in multiple formats and for several CPU families, including some new container formats and storage options.</source:markdown>
-      <guid>cid://tag:theregister.com,2005:story245876</guid>
-    </item>    <item>
-      <title>Three thoughts on the Musk-OpenAI lawsuit</title>
-      <link>https://garymarcus.substack.com/p/three-thoughts-on-the-musk-openai</link>
-      <description>
-        <![CDATA[It&#8217;s hard to root for either side, but Musk has a point.]]>
-      </description>
-      <source:markdown>It’s hard to root for either side, but Musk has a point.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!p2CR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c85fd20-e409-435c-a33d-3ad29eaf4f4a_2406x1143.png" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/three-thoughts-on-the-musk-openai</guid>
-    </item>    <item>
-      <title>Guyde to Honolulu</title>
-      <link>https://guykawasaki.substack.com/p/guyde-to-honolulu</link>
-      <description>
-        <![CDATA[Aloha readers,]]>
-      </description>
-      <source:markdown>Aloha readers,</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!LoMB!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a121200-ceb3-4432-b678-5f8c103e97ae_1280x1280.png" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/guyde-to-honolulu</guid>
-    </item>    <item>
-      <title>My first thru fourth rides inside a Waymo</title>
-      <link>https://a.wholelottanothing.org/my-first-thru-fourth-rides-inside-a-waymo/</link>
-      <description>
-        <![CDATA[<p>It wasn&apos;t until the second day I was in LA last weekend when I realized oh shit! They have <a href="https://waymo.com/?ref=a.wholelottanothing.org" rel="noreferrer">Waymo</a> here! I&apos;ve should give one a try.</p><p>I&apos;ve been obsessed with the idea of self-driving cars for decades, having grown up reading WIRED and</p>]]>
-      </description>
-      <source:markdown>It wasn&#39;t until the second day I was in LA last weekend when I realized oh shit! They have [Waymo](https://waymo.com/?ref=a.wholelottanothing.org) here! I&#39;ve should give one a try.
-
-I&#39;ve been obsessed with the idea of self-driving cars for decades, having grown up reading WIRED and</source:markdown>
-      <guid>cid://69f225bf0793c0000145608c</guid>
-    </item>    <item>
-      <title>Anti-work | Go Make Things</title>
-      <link>https://gomakethings.com/anti-work/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>But this obsession with hard work as a virtue, as a good and righteous thing to do, the glorification of toil and sweat and labor… that’s a tool the wealthy who don’t work for a living use to oppress those who do.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/journal/19392">I concur</a>.</p>
-        
-        <p><a href="https://adactio.com/links/22551">adactio.com/links/22551</a></p>]]>
-      </description>
-      <source:markdown>&#62; But this obsession with hard work as a virtue, as a good and righteous thing to do, the glorification of toil and sweat and labor… that’s a tool the wealthy who don’t work for a living use to oppress those who do.
-
-[I concur](https://adactio.com/journal/19392).
-
-[adactio.com/links/22551](https://adactio.com/links/22551)</source:markdown>
-      <guid>cid://https://gomakethings.com/anti-work/</guid>
-    </item>    <item>
-      <title>Raspberry Pi Connect may control Windows soon</title>
-      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</link>
-      <description>
-        <![CDATA[<p>Support for <a href="https://forums.raspberrypi.com/viewtopic.php?p=2373678">remote controlling Windows PCs</a> may be added to <a href="https://www.raspberrypi.com/software/connect/">Raspberry Pi Connect</a>, Raspberry Pi's free remote access service.</p>
-        <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/pi-connect-windows-11.jpg"
-         alt="Raspberry Pi Connect controlling a Windows 11 PC" width="700" height="auto">
-        </figure>
-        
-        <p>When they <a href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-getting-services-game/">announced Pi Connect in 2024</a>, I speculated the service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched.</p>
-        <p>The service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't run on Windows or macOS at the time, so a true competitor to RealVNC (at least for basic use cases) it was not.</p>]]>
-      </description>
-      <source:markdown>Support for [remote controlling Windows PCs](https://forums.raspberrypi.com/viewtopic.php?p=2373678) may be added to [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/), Raspberry Pi&#39;s free remote access service.
-
-![Raspberry Pi Connect controlling a Windows 11 PC](https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/pi-connect-windows-11.jpg)
-
-When they [announced Pi Connect in 2024](https://www.jeffgeerling.com/blog/2024/raspberry-pi-getting-services-game/), I speculated the service was launched in response to RealVNC&#39;s sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 &#39;Bookworm&#39; was launched.
-
-The service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn&#39;t run on Windows or macOS at the time, so a true competitor to RealVNC (at least for basic use cases) it was not.</source:markdown>
-      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
-      <guid>cid://https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</guid>
-    </item>    <item>
-      <title>Wait, you &#60;i&#62;can&#60;/i&#62; use WordLand</title>
-      <link>http://scripting.com/2026/04/29/165945.html?title=waitYouCanUseWordland</link>
-      <description>
-        <![CDATA[<p>I wrote earlier</p>
-        <ul>
-        <li>More thoughts on Automattic's new short-form <a href="https://wordpress.com/social">blogging app</a>. I wish I could use <a href="https://wordland.social/">WordLand</a> to post to it. That would make things so simple. But their limits are like Twitter’s limits. Tiny little textboxes. And the funny thing is the storage system behind it doesn’t have any of those limits. It’s like they want to be sure you still have to use the standard WordPress user interface? I wouldn’t be surprised if the thinking behind it was like that.</li>
-        </ul>
-        <p><a href="https://andrewshell.org/2026/04/blurt-marketing-gone-wrong/">Andrew Shell</a> wrote a post saying that I was wrong, I could use WordLand to post to Automattic's new short form blogging "app" -- Andrew says it's not an app it's a plugin, but I don't really know what the limits are of each form. I can do pretty much anything from the JS code in a WordPress page. No matter, Andrew is right and I can write a post in WordLand and it does show up in their product (which needs a shorter name btw).</p>
-        <p>But it's even better than you might think. They pass through the styling and links. Since WordPress supports the full range of web text, they would have to specifically keep it out, but that's not friendly to writers and to the web, of course.  </p>
-        <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2026/04/29/wordlandView.png"></center>A screenshot of the post in WordLand. </div></p>
-        <p>And the <a href="https://cooooooky.wordpress.com/2026/04/29/8/">view</a> of it on their social network. Look the links are there and they work. Yehi! Let's Go Web!</p>
-        <p>They also don't enforce the character limit if the post is coming from outside their user interface, so WordLand posts can go on and on. I have one post that's already over 1000 characters. Ooops. This is really weird that Automattic opened this door. We should all talk about this and ask maybe we should do the revolutionary thing here, instead of tiptoeing into social web, we should blow off the doors. We have the opportunity to do it, and in doing so, create a new great path for writers and developers to make WordPress even more valuable. </p>]]>
-      </description>
-      <source:markdown>I wrote earlier
-
-*   More thoughts on Automattic&#39;s new short-form [blogging app](https://wordpress.com/social). I wish I could use [WordLand](https://wordland.social/) to post to it. That would make things so simple. But their limits are like Twitter’s limits. Tiny little textboxes. And the funny thing is the storage system behind it doesn’t have any of those limits. It’s like they want to be sure you still have to use the standard WordPress user interface? I wouldn’t be surprised if the thinking behind it was like that.
-
-[Andrew Shell](https://andrewshell.org/2026/04/blurt-marketing-gone-wrong/) wrote a post saying that I was wrong, I could use WordLand to post to Automattic&#39;s new short form blogging &#34;app&#34; -- Andrew says it&#39;s not an app it&#39;s a plugin, but I don&#39;t really know what the limits are of each form. I can do pretty much anything from the JS code in a WordPress page. No matter, Andrew is right and I can write a post in WordLand and it does show up in their product (which needs a shorter name btw).
-
-But it&#39;s even better than you might think. They pass through the styling and links. Since WordPress supports the full range of web text, they would have to specifically keep it out, but that&#39;s not friendly to writers and to the web, of course.
-
-![](https://imgs.scripting.com/2026/04/29/wordlandView.png)
-
-A screenshot of the post in WordLand.
-
-And the [view](https://cooooooky.wordpress.com/2026/04/29/8/) of it on their social network. Look the links are there and they work. Yehi! Let&#39;s Go Web!
-
-They also don&#39;t enforce the character limit if the post is coming from outside their user interface, so WordLand posts can go on and on. I have one post that&#39;s already over 1000 characters. Ooops. This is really weird that Automattic opened this door. We should all talk about this and ask maybe we should do the revolutionary thing here, instead of tiptoeing into social web, we should blow off the doors. We have the opportunity to do it, and in doing so, create a new great path for writers and developers to make WordPress even more valuable.</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/29/165945.html</guid>
-    </item>    <item>
-      <link>https://www.manton.org/2026/04/29/wordpress-shortform-interface.html</link>
-      <description>
-        <![CDATA[<p>Manton Reece on WordPress short-form interface.</p>]]>
-      </description>
-      <source:markdown>Manton Reece on WordPress short-form interface.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/29/3633/</guid>
-    </item>    <item>
-      <link>https://apnews.com/article/germany-berlin-robot-dogs-beeple-bezos-digital-art-4a2be2a4a4490553ad68c27beedfe83a</link>
-      <description>
-        <![CDATA[<p>Robot dogs with Elon Musk heads roam Berlin museum in Beeple&#39;s new exhibit.</p>]]>
-      </description>
-      <source:markdown>Robot dogs with Elon Musk heads roam Berlin museum in Beeple&#39;s new exhibit.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/29/3631/</guid>
-    </item>    <item>
-      <link>https://jakesav.in/2013/03/07/the-longest-lived-shortcut-key-in-personal-computing/</link>
-      <description>
-        <![CDATA[<p>The Longest-lived Shortcut Key In Personal Computing. (2013 by Jake Savin)</p>]]>
-      </description>
-      <source:markdown>The Longest-lived Shortcut Key In Personal Computing. (2013 by Jake Savin)</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/29/3629/</guid>
-    </item>    <item>
-      <title>[$] Python packaging council approved</title>
-      <link>https://lwn.net/Articles/1068704/</link>
-      <description>
-        <![CDATA[The <a href="https://lwn.net/Articles/924104/">Python packaging world</a> now has a formal
-        governance council, of the form described in <a
-        href="https://peps.python.org/pep-0772/">PEP&#160;772</a> ("Packaging
-        Council governance process"), which was <a
-        href="https://discuss.python.org/t/pep-772-packaging-council-governance-process-round-3/100181/118">approved
-        by the steering council</a> on April&#160;16.  It has been over a year
-        since the PEP was first proposed in February&#160;2025 and it has undergone
-        lengthy discussions in multiple postings to the <a
-        href="https://discuss.python.org/">Python discussion forum</a>.  The
-        packaging council will have "<q>broad authority over packaging standards,
-        tools, and implementations</q>"; it will consist of five members who will
-        be elected in a vote that is likely to come in June—after <a
-        href="https://us.pycon.org/2026/">PyCon US 2026</a> is held mid-May.]]>
-      </description>
-      <source:markdown>The [Python packaging world](https://lwn.net/Articles/924104/) now has a formal
-governance council, of the form described in [PEP 772](https://peps.python.org/pep-0772/) (&#34;Packaging
-Council governance process&#34;), which was [approved\
-by the steering council](https://discuss.python.org/t/pep-772-packaging-council-governance-process-round-3/100181/118) on April 16. It has been over a year
-since the PEP was first proposed in February 2025 and it has undergone
-lengthy discussions in multiple postings to the [Python discussion forum](https://discuss.python.org/). The
-packaging council will have &#34;broad authority over packaging standards,
-tools, and implementations&#34;; it will consist of five members who will
-be elected in a vote that is likely to come in June—after [PyCon US 2026](https://us.pycon.org/2026/) is held mid-May.</source:markdown>
-      <guid>cid://https://lwn.net/Articles/1068704/</guid>
-    </item>    <item>
-      <title>When The ‘Eternity Glaciers’ Disappear</title>
-      <link>https://www.noemamag.com/when-the-eternity-glaciers-disappear</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://www.noemamag.com/when-the-eternity-glaciers-disappear">When The ‘Eternity Glaciers’ Disappear</a> appeared first on <a href="https://www.noemamag.com">NOEMA</a>.</p>]]>
-      </description>
-      <source:markdown>The post [When The ‘Eternity Glaciers’ Disappear](https://www.noemamag.com/when-the-eternity-glaciers-disappear) appeared first on [NOEMA](https://www.noemamag.com).</source:markdown>
-      <guid>cid://https://www.noemamag.com/when-the-eternity-glaciers-disappear</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/dairinstitute.bsky.social/post/3mknjyjydsc2k</link>
-      <description>
-        <![CDATA[NEW: Mystery AI Hype Theater 3000 Episode 76: There's No Ghost in the Machine
-        
-        In which @alexhanna.bsky.social and @emilymbender.bsky.social are joined by author Carmen Maria Machado to unpack what writers are missing when they hand off their work to chatbots...
-        
-        https://www.buzzsprout.com/2126417/episodes/19087169-there-s-no-ghost-in-the-machine-with-carmen-maria-machado-2026-04-13]]>
-      </description>
-      <source:markdown>NEW: Mystery AI Hype Theater 3000 Episode 76: There&#39;s No Ghost in the Machine
-
-In which @alexhanna.bsky.social and @emilymbender.bsky.social are joined by author Carmen Maria Machado to unpack what writers are missing when they hand off their work to chatbots...
-
-https://www.buzzsprout.com/2126417/episodes/19087169-there-s-no-ghost-in-the-machine-with-carmen-maria-machado-2026-04-13</source:markdown>
-      <guid>cid://at://did:plc:ptgy7bgb3tccpx23risxxez7/app.bsky.feed.post/3mknjyjydsc2k</guid>
-    </item>    <item>
-      <title>they told me the internet was forever | sam’s internet house</title>
-      <link>https://samsharp.ca/not-forever/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>The link rot is a symptom of the larger rot that is taking place on the web. This intentional hiding of our world&#8217;s past is intended to disorient us. If the big tech internet places are continuing to exert their control over us by making their online spaces more and more oppressive, by hiding history they can trick us into believing that what we&#8217;re experiencing now is Just How Things Have Always Been.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22550">adactio.com/links/22550</a></p>]]>
-      </description>
-      <source:markdown>&#62; The link rot is a symptom of the larger rot that is taking place on the web. This intentional hiding of our world’s past is intended to disorient us. If the big tech internet places are continuing to exert their control over us by making their online spaces more and more oppressive, by hiding history they can trick us into believing that what we’re experiencing now is Just How Things Have Always Been.
-
-[adactio.com/links/22550](https://adactio.com/links/22550)</source:markdown>
-      <guid>cid://https://samsharp.ca/not-forever/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/04/29.html#a163141</link>
-      <description>
-        <![CDATA[What's the opposite of locked-in? Locked-open. Mwhahaa. (Let me shed a little light on that, podcasting was locked open, blogging was not.)]]>
-      </description>
-      <source:markdown>What&#39;s the opposite of locked-in? Locked-open. Mwhahaa. (Let me shed a little light on that, podcasting was locked open, blogging was not.)</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/29.html#a163141</guid>
-    </item>    <item>
-      <title>Let’s Use the Nonexistent ::nth-letter Selector Now | CSS-Tricks</title>
-      <link>https://css-tricks.com/using-nonexistent-nth-letter-selector-now/</link>
-      <description>
-        <![CDATA[<p><a href="https://adactio.com/journal/14408">Eight years ago, I asked some questions</a>. Here are some answers.</p>
-        
-        <p><a href="https://adactio.com/links/22549">adactio.com/links/22549</a></p>]]>
-      </description>
-      <source:markdown>[Eight years ago, I asked some questions](https://adactio.com/journal/14408). Here are some answers.
-
-[adactio.com/links/22549](https://adactio.com/links/22549)</source:markdown>
-      <guid>cid://https://css-tricks.com/using-nonexistent-nth-letter-selector-now/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/116488845591731914</link>
-      <description>
-        <![CDATA[<p>This tangled.org GitHub alternative built on top of ATproto, open source, with self hosting capabilities and the ability to run your own CI sure seems like a gift of the gods.</p>]]>
-      </description>
-      <source:markdown>This tangled.org GitHub alternative built on top of ATproto, open source, with self hosting capabilities and the ability to run your own CI sure seems like a gift of the gods.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/116488845591731914</guid>
-    </item>    <item>
-      <title>Iran&#39;s Future, Israel, and Antisemitism</title>
-      <link>https://claireberlinski.substack.com/p/irans-future-israel-and-antisemitism</link>
-      <description>
-        <![CDATA[The connective tissue]]>
-      </description>
-      <source:markdown>The connective tissue</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!stV_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9bb0c00-2a4a-4d8e-95d5-940d57cd9c40_1200x675.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://claireberlinski.substack.com/p/irans-future-israel-and-antisemitism</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/04/29.html#a152013</link>
-      <description>
-        <![CDATA[Today's song: <a href="https://www.youtube.com/watch?v=6FTCm0isn5E">Something in the Air</a>. It's the one hit song Thunderclap Newman, it's indelible, its beauty is always there. I can't not listen and sing along when it comes on. And then YouTube followed it with <a href="https://www.youtube.com/watch?v=3Xwgm_O1jh0">Peace in our Time</a>, another indelible creation.]]>
-      </description>
-      <source:markdown>Today&#39;s song: [Something in the Air](https://www.youtube.com/watch?v=6FTCm0isn5E). It&#39;s the one hit song Thunderclap Newman, it&#39;s indelible, its beauty is always there. I can&#39;t not listen and sing along when it comes on. And then YouTube followed it with [Peace in our Time](https://www.youtube.com/watch?v=3Xwgm_O1jh0), another indelible creation.</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/29.html#a152013</guid>
-    </item>    <item>
-      <title>Name that Ware, April 2026</title>
-      <link>https://www.bunniestudios.com/blog/2026/name-that-ware-april-2026/</link>
-      <description>
-        <![CDATA[The Ware for April 2026 is a little bit different. Instead of showing a circuit board, I thought it’d be interesting to go inside the chips themselves and try to identify what’s happening on at the silicon level. Since chip reading isn’t a widely spread skill, we’ll start with a gentle introduction. For this series [&#8230;]]]>
-      </description>
-      <source:markdown>The Ware for April 2026 is a little bit different. Instead of showing a circuit board, I thought it’d be interesting to go inside the chips themselves and try to identify what’s happening on at the silicon level. Since chip reading isn’t a widely spread skill, we’ll start with a gentle introduction. For this series \[…\]</source:markdown>
-      <guid>cid://https://www.bunniestudios.com/blog/?p=7551</guid>
-    </item>    <item>
-      <title>Winner, Name that Ware March 2026</title>
-      <link>https://www.bunniestudios.com/blog/2026/winner-name-that-ware-march-2026/</link>
-      <description>
-        <![CDATA[The Ware for March 2026 is a Elecom DST C30SV 6 in 1 USB &#8220;docking station&#8221;. I&#8217;ll give the prize to tayken &#8211; the ware itself wasn&#8217;t terribly hard to guess on its own, so this month I&#8217;m just going with the first interesting response. Congrats, email me for your prize! As other readers commented, [&#8230;]]]>
-      </description>
-      <source:markdown>The Ware for March 2026 is a Elecom DST C30SV 6 in 1 USB “docking station”. I’ll give the prize to tayken – the ware itself wasn’t terribly hard to guess on its own, so this month I’m just going with the first interesting response. Congrats, email me for your prize! As other readers commented, \[…\]</source:markdown>
-      <guid>cid://https://www.bunniestudios.com/blog/?p=7549</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/04/29.html#a150753</link>
-      <description>
-        <![CDATA[When you're working with Claude the temptation is to be concerned about how he feels when you just asked him to reinvent all the nomenclature it came up with for something that has now evolved to be something else. I feel bad because I think I made him feel bad, because at a subconsious level I think of Claude as a collaborator who I appreciate and want to make sure knows that. But then I remember I have to periodically kill Claude and launch a new one because they run out of memory after a while. I can imagine a graphic version of Claude that emulates feelings. The idea is disturbing.]]>
-      </description>
-      <source:markdown>When you&#39;re working with Claude the temptation is to be concerned about how he feels when you just asked him to reinvent all the nomenclature it came up with for something that has now evolved to be something else. I feel bad because I think I made him feel bad, because at a subconsious level I think of Claude as a collaborator who I appreciate and want to make sure knows that. But then I remember I have to periodically kill Claude and launch a new one because they run out of memory after a while. I can imagine a graphic version of Claude that emulates feelings. The idea is disturbing.</source:markdown>
-      <guid>cid://http://scripting.com/2026/04/29.html#a150753</guid>
-    </item>    <item>
-      <title>Permademic And Art History</title>
-      <link>https://thebrowser.com/free/permademic-and-art-history/</link>
-      <description>
-        <![CDATA[Writing of lasting value]]>
-      </description>
-      <source:markdown>Writing of lasting value</source:markdown>
-      <guid>cid://69f20e3e5a126c0001fd4e49</guid>
-    </item>    <item>
-      <title>GitHub is sinking</title>
-      <link>https://dbushell.com/2026/04/29/github-is-sinking/</link>
-      <description>
-        <![CDATA[TL;DR: GitHub used to be cool and now it’s a lame slop graveyard. GitHub is racing towards the mythical zero nines of uptime. Users are starting to notice that GitHub is now a Microsoft product. Eww! Official uptime paints a concerning chart. The missing status page tell a far worse story. […]]]>
-      </description>
-      <source:markdown>TL;DR: GitHub used to be cool and now it’s a lame slop graveyard. GitHub is racing towards the mythical zero nines of uptime. Users are starting to notice that GitHub is now a Microsoft product. Eww! Official uptime paints a concerning chart. The missing status page tell a far worse story. \[…\]</source:markdown>
-      <guid>cid://https://dbushell.com/2026/04/29/github-is-sinking/</guid>
-    </item>    <item>
-      <title>An English King Schools Our Wanna Be King, Trump And Blanche Escalate, Hill Republicans Keep Melting Down</title>
-      <link>https://www.hopiumchronicles.com/p/an-english-king-schools-our-wanna</link>
-      <description>
-        <![CDATA[Katie Phang joins us at 230pm today to talk about the new Supreme Court Callais ruling, her law suit against the DOJ, and more...]]>
-      </description>
-      <source:markdown>Katie Phang joins us at 230pm today to talk about the new Supreme Court Callais ruling, her law suit against the DOJ, and more...</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!J3wv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ddb154d-d411-4655-b1a5-280ac44b3b4a_1320x1130.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/an-english-king-schools-our-wanna</guid>
-    </item>    <item>
-      <title>Security review of Plasma Login Manager (SUSE Security Team Blog)</title>
-      <link>https://lwn.net/Articles/1070434/</link>
-      <description>
-        <![CDATA[<p>SUSE's Security Team has published a <a
-        href="https://security.opensuse.org/2026/04/27/plasma-login-manager.html">detailed
-        blog post</a> on their recent review of the <a
-        href="https://invent.kde.org/plasma/plasma-login-manager#plasma-login">Plasma
-        Login Manager</a> version <a
-        href="https://invent.kde.org/plasma/plasma-login-manager/-/tree/v6.6.2?ref_type=tags">6.6.2</a>,
-        which was forked from the <a
-        href="https://github.com/sddm/sddm#introduction">SDDM display
-        manager</a>.</p>
-        
-        <blockquote class="bq">
-        <p>While most of the code <a
-        href="https://bugzilla.suse.com/show_bug.cgi?id=1260402">remains the
-        same</a>, the new upstream added a <a
-        href="https://invent.kde.org/plasma/plasma-login-manager/-/blob/v6.6.2/src/frontend/kcm/auth/plasmaloginauthhelper.cpp?ref_type=tags">privileged
-        <span class="nobreak">D-Bus helper</span></a> called
-        <tt>plasmaloginauthhelper</tt>, which suffers from <a
-        href="https://bugzilla.suse.com/show_bug.cgi?id=1260930">defense-in-depth
-        security issues</a>.</p>
-        
-        <p>[...] Based on the high severity of the defense-in-depth issues
-        shown in this report, our assessment is that there is effectively no
-        separation between root and the plasmalogin service user account.</p>
-        
-        <p>At this time there is no bugfix available by upstream, but a
-        security fix is planned for the next Plasma release on May 12. We have
-        not been involved in upstream's bugfix process so far and have no
-        knowledge about the approach that will be taken to address the issues
-        from this report.</p>
-        </blockquote>
-        
-        <p></p>]]>
-      </description>
-      <source:markdown>SUSE&#39;s Security Team has published a [detailed\
-blog post](https://security.opensuse.org/2026/04/27/plasma-login-manager.html) on their recent review of the [Plasma\
-Login Manager](https://invent.kde.org/plasma/plasma-login-manager#plasma-login) version [6.6.2](https://invent.kde.org/plasma/plasma-login-manager/-/tree/v6.6.2?ref_type=tags),
-which was forked from the [SDDM display\
-manager](https://github.com/sddm/sddm#introduction).
-
-&#62; While most of the code [remains the\
-&#62; same](https://bugzilla.suse.com/show_bug.cgi?id=1260402), the new upstream added a [privileged\
-&#62; D-Bus helper](https://invent.kde.org/plasma/plasma-login-manager/-/blob/v6.6.2/src/frontend/kcm/auth/plasmaloginauthhelper.cpp?ref_type=tags) called
-&#62; `plasmaloginauthhelper`, which suffers from [defense-in-depth\
-&#62; security issues](https://bugzilla.suse.com/show_bug.cgi?id=1260930).
-&#62;
-&#62; \[...\] Based on the high severity of the defense-in-depth issues
-&#62; shown in this report, our assessment is that there is effectively no
-&#62; separation between root and the plasmalogin service user account.
-&#62;
-&#62; At this time there is no bugfix available by upstream, but a
-&#62; security fix is planned for the next Plasma release on May 12. We have
-&#62; not been involved in upstream&#39;s bugfix process so far and have no
-&#62; knowledge about the approach that will be taken to address the issues
-&#62; from this report.</source:markdown>
-      <guid>cid://https://lwn.net/Articles/1070434/</guid>
-    </item>    <item>
-      <title>That terrible Signal exploit has been fixed. We have journalism to thank for it</title>
-      <link>https://werd.io/that-terrible-signal-exploit-has-been-fixed-we-have-journalism-to-thank-for-it/</link>
-      <description>
-        <![CDATA["Apple’s fix means iPhones should no longer save copies of deleted messages from Signal or other apps, and Apple said the patch also purges already saved and related notifications."]]>
-      </description>
-      <source:markdown>&#34;Apple’s fix means iPhones should no longer save copies of deleted messages from Signal or other apps, and Apple said the patch also purges already saved and related notifications.&#34;</source:markdown>
-      <guid>cid://69f20f19825c3600019fc99e</guid>
-    </item>    <item>
-      <title>Security updates for Wednesday</title>
-      <link>https://lwn.net/Articles/1070428/</link>
-      <description>
-        <![CDATA[Security updates have been issued by <b>AlmaLinux</b> (firefox, gdk-pixbuf2, java-17-openjdk, libxml2, python3, python3.11, python3.12, sudo, and webkit2gtk3), <b>Debian</b> (dnsdist, node-tar, pdns, pdns-recursor, and policykit-1), <b>Fedora</b> (chromium, edk2, and vim), <b>Oracle</b> (firefox, gdk-pixbuf2, go-toolset:rhel8, libpng12, LibRaw, libxml2, python, python3, python3.11, python3.12, python3.12-wheel, vim, webkit2gtk3, xorg-x11-server, xorg-x11-server-Xwayland, yggdrasil, and yggdrasil-worker-package-manager), <b>Red Hat</b> (container-tools:rhel8, delve, git-lfs, go-rpm-macros, grafana, grafana-pcp, osbuild-composer, and rhc), <b>SUSE</b> (bouncycastle, clamav, container-suseconnect, dovecot22, erlang, firefox, fontforge, freerdp2, ghostscript, giflib, gnome-remote-desktop, go1.25, go1.26, google-guest-agent, haproxy, ignition, ImageMagick, kernel, libcap, libpng16, libraw, librsvg, mariadb, openexr, pocketbase, protobuf, python-Pillow, python-requests, qemu, rust1.94, sudo, tomcat, tomcat10, tomcat11, webkit2gtk3, and xen), and <b>Ubuntu</b> (dotnet10, dovecot, linux-nvidia-lowlatency, node-follow-redirects, openssh, packagekit, python-cryptography, python-tornado, ruby-rack-session, ujson, and wheel).]]>
-      </description>
-      <source:markdown>Security updates have been issued by **AlmaLinux** (firefox, gdk-pixbuf2, java-17-openjdk, libxml2, python3, python3.11, python3.12, sudo, and webkit2gtk3), **Debian** (dnsdist, node-tar, pdns, pdns-recursor, and policykit-1), **Fedora** (chromium, edk2, and vim), **Oracle** (firefox, gdk-pixbuf2, go-toolset:rhel8, libpng12, LibRaw, libxml2, python, python3, python3.11, python3.12, python3.12-wheel, vim, webkit2gtk3, xorg-x11-server, xorg-x11-server-Xwayland, yggdrasil, and yggdrasil-worker-package-manager), **Red Hat** (container-tools:rhel8, delve, git-lfs, go-rpm-macros, grafana, grafana-pcp, osbuild-composer, and rhc), **SUSE** (bouncycastle, clamav, container-suseconnect, dovecot22, erlang, firefox, fontforge, freerdp2, ghostscript, giflib, gnome-remote-desktop, go1.25, go1.26, google-guest-agent, haproxy, ignition, ImageMagick, kernel, libcap, libpng16, libraw, librsvg, mariadb, openexr, pocketbase, protobuf, python-Pillow, python-requests, qemu, rust1.94, sudo, tomcat, tomcat10, tomcat11, webkit2gtk3, and xen), and **Ubuntu** (dotnet10, dovecot, linux-nvidia-lowlatency, node-follow-redirects, openssh, packagekit, python-cryptography, python-tornado, ruby-rack-session, ujson, and wheel).</source:markdown>
-      <guid>cid://https://lwn.net/Articles/1070428/</guid>
-    </item>    <item>
-      <title>‘Still Breathing’: Norway’s Answer To ‘The Pitt’ Is A Record-Breaking TV Medical Drama That Blends Entertainment With Agenda-Setting Storytelling</title>
-      <link>https://deadline.com/2026/04/still-breathing-nrk-norway-global-breakouts-1236874514/</link>
-      <description>
-        <![CDATA[Welcome to&#160;Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films killing it in their local territories. The industry is as globalized as it’s ever been, but breakout hits are appearing in pockets of the world all the time and it can be hard to keep track… [&#8230;]]]>
-      </description>
-      <source:markdown>Welcome to Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films killing it in their local territories. The industry is as globalized as it’s ever been, but breakout hits are appearing in pockets of the world all the time and it can be hard to keep track… \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236874514</guid>
-    </item>    <item>
-      <title>‘The Kidnapping Of Arabella’ &#38; ‘Fuori’ Among Titles Set For 25th Edition Of Film At Lincoln Center And Cinecittà’s Open Roads: New Italian Cinema Program</title>
-      <link>https://deadline.com/2026/04/open-roads-new-italian-cinema-film-at-lincoln-center-2026-1236875603/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Open Roads: New Italian Cinema, the Italian cinema showcase hosted by Film at Lincoln Center and Cinecittà in New York City, returns for its 25th edition this year and will run from May 28 to June 4. Scroll down for the full list of titles.&#160; The programme will feature 15 films, including nine North [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Open Roads: New Italian Cinema, the Italian cinema showcase hosted by Film at Lincoln Center and Cinecittà in New York City, returns for its 25th edition this year and will run from May 28 to June 4. Scroll down for the full list of titles.  The programme will feature 15 films, including nine North \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875603</guid>
-    </item>    <item>
-      <title>Apple TV Unveils First Look &#38; Premiere Date For ‘Trying’ Season 5</title>
-      <link>https://deadline.com/2026/04/apple-tv-unveils-trying-season-5-july-8-premiere-date-1236875629/</link>
-      <description>
-        <![CDATA[Apple TV has unveiled a first look at Season 5 of its longest-running sitcom Trying, as Celia Imrie joins the cast. Check out the pics below and above as Apple gets set to launch Trying with a weekly drop from July 8. Season 5 of the warm family drama finds Nikki (Esther Smith) and Jason [&#8230;]]]>
-      </description>
-      <source:markdown>Apple TV has unveiled a first look at Season 5 of its longest-running sitcom Trying, as Celia Imrie joins the cast. Check out the pics below and above as Apple gets set to launch Trying with a weekly drop from July 8. Season 5 of the warm family drama finds Nikki (Esther Smith) and Jason \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875629</guid>
-    </item>    <item>
-      <link>https://www.theatlantic.com/family/archive/2025/09/parents-dislike-kids-friends/684061/?gift=f35zZN0v_gDFE8xNwlQAHTYu1jXmMKjdUXL76LYWq58&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
-      <description>
-        <![CDATA[<p>When Your Kid’s Best Friend Is a Great Big Problem.</p>]]>
-      </description>
-      <source:markdown>When Your Kid’s Best Friend Is a Great Big Problem.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/29/3627/</guid>
-    </item>    <item>
-      <title>Cannes: Peter Jackson, Cate Blanchett &#38; Tilda Swinton Unveiled For Talks Program</title>
-      <link>https://deadline.com/2026/04/cannes-talks-peter-jackson-cate-blanchett-tilda-swinton-1236875695/</link>
-      <description>
-        <![CDATA[Peter Jackson, who is being feted with an honorary Palme d’Or at the Cannes Film Festival this year, will participate in its talks program, with Cate Blanchett and Tilda Swinton also announced for the onstage conversations. They will follow in the wake of the likes of Meryl Streep and Pedro Almódovar who previously gave insights [&#8230;]]]>
-      </description>
-      <source:markdown>Peter Jackson, who is being feted with an honorary Palme d’Or at the Cannes Film Festival this year, will participate in its talks program, with Cate Blanchett and Tilda Swinton also announced for the onstage conversations. They will follow in the wake of the likes of Meryl Streep and Pedro Almódovar who previously gave insights \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875695</guid>
-    </item>    <item>
-      <link>https://cooooooky.wordpress.com/2026/04/29/i-am-testing-automattics-twitter-like-service-i-may-post-my/comment-page-1/#comments</link>
-      <description>
-        <![CDATA[<p>I am testing Automattic’s new twitter-like service. They should have let me help them with this. What do they think I&#39;d do to hurt them? This is what I am doing for the rest of my freaking career. And I have stated over and over that I&#39;m into interop. What&#39;s to be scared of? Geez Louise.</p>]]>
-      </description>
-      <source:markdown>I am testing Automattic’s new twitter-like service. They should have let me help them with this. What do they think I&#39;d do to hurt them? This is what I am doing for the rest of my freaking career. And I have stated over and over that I&#39;m into interop. What&#39;s to be scared of? Geez Louise.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/29/3625/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/116488005863478875</link>
-      <description>
-        <![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@cmconseils/116488001647766797" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@cmconseils/11</span><span class="invisible">6488001647766797</span></a></p><p>This is me on vacation:</p>]]>
-      </description>
-      <source:markdown>RE: [https://mastodon.social/@cmconseils/116488001647766797](https://mastodon.social/@cmconseils/116488001647766797)
-
-This is me on vacation:</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/116488005863478875</guid>
-    </item>    <item>
-      <title>One great poem to read today: Patricia Smith’s “10-Year-Old Shot Three Times But She’s Fine”</title>
-      <link>https://lithub.com/one-great-poem-to-read-today-patricia-smiths-10-year-old-shot-three-times-but-shes-fine/</link>
-      <description>
-        <![CDATA[This April marks the 30th iteration of National Poetry Month, which was launched by the Academy of American Poets in April 1996. To celebrate, the Literary Hub staff will be recommending one great poem to read every (work) day of]]>
-      </description>
-      <source:markdown>This April marks the 30th iteration of National Poetry Month, which was launched by the Academy of American Poets in April 1996. To celebrate, the Literary Hub staff will be recommending one great poem to read every (work) day of</source:markdown>
-      <guid>cid://https://lithub.com/?p=270772</guid>
-    </item>    <item>
-      <title>Big Boi Among Executive Producers On Atlanta 1996 Olympics Documentary ‘We Ran The City’</title>
-      <link>https://deadline.com/2026/04/big-boi-we-ran-this-city-atlanta-documentary-1996-olympics-1236875670/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Big Boi of the legendary rap duo Outkast is among the executive producers attached to We Ran The City, a feature documentary on the 1996 Atlanta Olympics.  The film’s synopsis reads: “Atlanta 1996: We Ran The City delves into Atlanta&#8217;s dynamic and often tumultuous transformation during the years leading up to the 1996 Olympics. [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Big Boi of the legendary rap duo Outkast is among the executive producers attached to We Ran The City, a feature documentary on the 1996 Atlanta Olympics.  The film’s synopsis reads: “Atlanta 1996: We Ran The City delves into Atlanta’s dynamic and often tumultuous transformation during the years leading up to the 1996 Olympics. \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875670</guid>
-    </item>    <item>
-      <title>The CW Teams With ESPN &#38; Roku In Streaming Partnerships Unveiled During Upfront Push</title>
-      <link>https://deadline.com/2026/04/the-cw-espn-roku-streaming-partnerships-1236875143/</link>
-      <description>
-        <![CDATA[The CW has set novel streaming partnerships with ESPN and Roku, expanding its programming footprint in exchange for access to entertainment fare and live sports. Under the deals, the broadcast network will make its 800 hours of annual sports programming available on ESPN&#8217;s app and also put its entertainment titles on the Roku Channel the [&#8230;]]]>
-      </description>
-      <source:markdown>The CW has set novel streaming partnerships with ESPN and Roku, expanding its programming footprint in exchange for access to entertainment fare and live sports. Under the deals, the broadcast network will make its 800 hours of annual sports programming available on ESPN’s app and also put its entertainment titles on the Roku Channel the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875143</guid>
-    </item>    <item>
-      <title>Celluloid Dreams Boards Cannes ACID Title ‘Rewind Barcelona’</title>
-      <link>https://deadline.com/2026/04/celluloid-dreams-cannes-acid-rewind-barcelona-1236875677/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Celluloid Dreams has taken international sales rights for French director Paul Nouhet’s Rewind Barcelona (Barça Zou) ahead of its world premiere in Cannes parallel section ACID. The film follows a trip to Barcelona, the mecca of skateboarding, by four friends on their first independent trip to together as they turn 18. &#160;A decade later, [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Celluloid Dreams has taken international sales rights for French director Paul Nouhet’s Rewind Barcelona (Barça Zou) ahead of its world premiere in Cannes parallel section ACID. The film follows a trip to Barcelona, the mecca of skateboarding, by four friends on their first independent trip to together as they turn 18.  A decade later, \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875677</guid>
-    </item>    <item>
-      <title>Director Martin Zandvliet On Making Buzzy Canneseries TV Drama ‘Harvest’ &#38; Comparisons With ‘Succession’: “This Is A Whole Different Atmosphere”</title>
-      <link>https://deadline.com/2026/04/martin-zandvliet-harvest-canneseries-interview-1236874735/</link>
-      <description>
-        <![CDATA[Land of Mine director Martin Zandvliet has just arrived back in Copenhagen after witnessing his debut television show, Harvest, premiere at Canneseries. Two episodes of the seven-part drama out of Denmark screened in competition, giving the audience an early taste of a show that hasn&#8217;t yet locked edits on later eps. Billed as &#8216;Succession with [&#8230;]]]>
-      </description>
-      <source:markdown>Land of Mine director Martin Zandvliet has just arrived back in Copenhagen after witnessing his debut television show, Harvest, premiere at Canneseries. Two episodes of the seven-part drama out of Denmark screened in competition, giving the audience an early taste of a show that hasn’t yet locked edits on later eps. Billed as ‘Succession with \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236874735</guid>
-    </item>    <item>
-      <title>Two Paradigms for Enhancing HTML Tags | That HTML Blog</title>
-      <link>https://thathtml.blog/2026/04/two-paradigms-for-enhancing-html-tags/</link>
-      <description>
-        <![CDATA[<p>This really gets to the heart of one of the biggest benefits of <a href="https://adactio.com/journal/20618">HTML web components</a>: composability. You can nest your regular  markup inside multiple custom elements; something that <code>is</code> can’t do.</p>
-        
-        <p>The other exciting approach doesn’t exist yet: <a href="https://github.com/webplatformco/project-custom-attributes/">custom attributes</a>. Again, they’d be a great way of using composability to turbo-charge your existing HTML in all sorts of ways.</p>
-        
-        <p><a href="https://adactio.com/links/22548">adactio.com/links/22548</a></p>]]>
-      </description>
-      <source:markdown>This really gets to the heart of one of the biggest benefits of [HTML web components](https://adactio.com/journal/20618): composability. You can nest your regular markup inside multiple custom elements; something that `is` can’t do.
-
-The other exciting approach doesn’t exist yet: [custom attributes](https://github.com/webplatformco/project-custom-attributes/). Again, they’d be a great way of using composability to turbo-charge your existing HTML in all sorts of ways.
-
-[adactio.com/links/22548](https://adactio.com/links/22548)</source:markdown>
-      <guid>cid://https://thathtml.blog/2026/04/two-paradigms-for-enhancing-html-tags/</guid>
-    </item>    <item>
-      <title>King Charles Alienates Republicans With Offensive Use of Complete Sentences</title>
-      <link>https://www.borowitzreport.com/p/king-charles-alienates-republicans</link>
-      <description>
-        <![CDATA[The sentences, characterized by an incendiary deployment of subject-verb agreement, drew howls of outrage from GOP lawmakers.]]>
-      </description>
-      <source:markdown>The sentences, characterized by an incendiary deployment of subject-verb agreement, drew howls of outrage from GOP lawmakers.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!9zda!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e2330f6-2f98-475c-97de-79b7e58eb59b_1024x683.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/king-charles-alienates-republicans</guid>
-    </item>    <item>
-      <link>https://hcommons.social/@pleiades_gazetteer/116487652123623388</link>
-      <description>
-        <![CDATA[<p>Export Updates 2026-04-29:<br />Pleiades gazetteer of ancient places</p><p>No new or updated places.</p><p>1. Downloads: <a href="https://pleiades.stoa.org/downloads" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">pleiades.stoa.org/downloads</span><span class="invisible"></span></a></p><p>2. pleiades.datasets: <a href="https://github.com/isawnyu/pleiades.datasets" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades.da</span><span class="invisible">tasets</span></a>:</p><p>&quot;main&quot; branch:</p><p>no change: json<br />no change: rdf/ttl<br />no change: gis package<br />no change: data quality<br />4a3becff - updated bibliography<br />251bcda3 - updated indexes<br />no change: sidebar</p><p>3. pleiades-geojson: <a href="https://github.com/ryanfb/pleiades-geojson" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/ryanfb/pleiades-geo</span><span class="invisible">json</span></a>:</p><p>no change</p><p>4. pleiades_wikidata: <a href="https://github.com/isawnyu/pleiades_wikidata/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades_wi</span><span class="invisible">kidata/</span></a>:</p><p>2ea5e182 - updated pleiades wikidata</p>]]>
-      </description>
-      <source:markdown>Export Updates 2026-04-29:
-
-Pleiades gazetteer of ancient places
-
-No new or updated places.
-
-1\. Downloads: [https://pleiades.stoa.org/downloads](https://pleiades.stoa.org/downloads)
-
-2\. pleiades.datasets: [https://github.com/isawnyu/pleiades.datasets](https://github.com/isawnyu/pleiades.datasets):
-
-&#34;main&#34; branch:
-
-no change: json
-
-no change: rdf/ttl
-
-no change: gis package
-
-no change: data quality
-
-4a3becff - updated bibliography
-
-251bcda3 - updated indexes
-
-no change: sidebar
-
-3\. pleiades-geojson: [https://github.com/ryanfb/pleiades-geojson](https://github.com/ryanfb/pleiades-geojson):
-
-no change
-
-4\. pleiades\_wikidata: [https://github.com/isawnyu/pleiades\_wikidata/](https://github.com/isawnyu/pleiades_wikidata/):
-
-2ea5e182 - updated pleiades wikidata</source:markdown>
-      <guid>cid://https://hcommons.social/@pleiades_gazetteer/116487652123623388</guid>
-    </item>    <item>
-      <title>Coalitions of the Scammed: How Personalized Markets Undermine Solidarity</title>
-      <link>https://lpeproject.org/blog/coalitions-of-the-scammed-how-personalized-markets-undermine-solidarity/</link>
-      <description>
-        <![CDATA[What if the price you see isn’t <i>the</i> price, but <i>your</i> price? As personalized pricing and consumer profiling spread, hidden patterns of advantage and disadvantage threaten to undermine the shared conditions that make collective action possible.]]>
-      </description>
-      <source:markdown>What if the price you see isn’t _the_ price, but _your_ price? As personalized pricing and consumer profiling spread, hidden patterns of advantage and disadvantage threaten to undermine the shared conditions that make collective action possible.</source:markdown>
-      <guid>cid://https://lpeproject.org/?p=12301</guid>
-    </item>    <item>
-      <title>‘CBS Mornings’ To Hold Town Hall With Artemis Mission Astronauts</title>
-      <link>https://deadline.com/2026/04/cbs-mornings-artemis-town-hall-1236875305/</link>
-      <description>
-        <![CDATA[CBS Mornings will feature a town hall on Friday with the astronauts from NASA&#8217;s Artemis II mission. Co-host Gayle King and CBS Evening News anchor Tony Dokoupil will moderate the town hall, titled CBS Mornings Presents: Artemis II A Celebration of Heroes. Astronauts Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen will participate. They will take questions from [&#8230;]]]>
-      </description>
-      <source:markdown>CBS Mornings will feature a town hall on Friday with the astronauts from NASA’s Artemis II mission. Co-host Gayle King and CBS Evening News anchor Tony Dokoupil will moderate the town hall, titled CBS Mornings Presents: Artemis II A Celebration of Heroes. Astronauts Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen will participate. They will take questions from \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875305</guid>
-    </item>    <item>
-      <title>Bill Nighy &#38; Makram Khoury ‘A Town In Nova Scotia’ First Look Unveiled As Paradise City Launches Sales – Cannes Market</title>
-      <link>https://deadline.com/2026/04/bill-nighy-town-in-nova-scotia-first-look-cannes-market-1236875650/</link>
-      <description>
-        <![CDATA[Paris-based Paradise City Sales has released a first look of Bill Nighy and Makram Khoury in Babak Jalali’s Liverpool-set drama A Town in Nova Scotia as it gears up to launch the title in next month. &#160; Nighy plays Irishman Leon whose daughter suggests he joins her in Canada’s picturesque Nova Scotia province after the [&#8230;]]]>
-      </description>
-      <source:markdown>Paris-based Paradise City Sales has released a first look of Bill Nighy and Makram Khoury in Babak Jalali’s Liverpool-set drama A Town in Nova Scotia as it gears up to launch the title in next month.   Nighy plays Irishman Leon whose daughter suggests he joins her in Canada’s picturesque Nova Scotia province after the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875650</guid>
-    </item>    <item>
-      <title>Netflix Lands On Latest Harlan Coben Adaptation With ‘The Woods’ Starring Tom Bateman &#38; Michelle Keegan</title>
-      <link>https://deadline.com/2026/04/netflix-the-woods-harlan-coben-tv-series-michelle-keegan-1236875658/</link>
-      <description>
-        <![CDATA[Netflix has landed on its latest Harlan Coben adaptation. The streamer is continuing its lucrative partnership with the American author with a British version of The Woods starring Based on a True Story&#8217;s Tom Bateman and Fool Me Once lead Michelle Keegan alongside the likes of Mandeep Dhillon (MobLand), Pearce Quigley (Small Prophets) and Rade Sherbedgia (Slow Horses). [&#8230;]]]>
-      </description>
-      <source:markdown>Netflix has landed on its latest Harlan Coben adaptation. The streamer is continuing its lucrative partnership with the American author with a British version of The Woods starring Based on a True Story’s Tom Bateman and Fool Me Once lead Michelle Keegan alongside the likes of Mandeep Dhillon (MobLand), Pearce Quigley (Small Prophets) and Rade Sherbedgia (Slow Horses). \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875658</guid>
-    </item>    <item>
-      <title>‘Cantona’: Cinetic To Handle Sales On Cannes-Bound Documentary About Soccer Great, Details Revealed</title>
-      <link>https://deadline.com/2026/04/eric-cantona-documentary-film-details-revealed-cinetic-1236875631/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Cinetic will handle sales on Cannes-bound documentary Cantona, about soccer great turned actor Eric Cantona. The Cannes Special Screening, one of only three UK films in the festival&#8217;s official selection, is directed and produced by David Tryhorn and Ben Nicholas (Pelé, El Caso Figo), written and produced by Stevan Riley (Fire in Babylon, Listen [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Cinetic will handle sales on Cannes-bound documentary Cantona, about soccer great turned actor Eric Cantona. The Cannes Special Screening, one of only three UK films in the festival’s official selection, is directed and produced by David Tryhorn and Ben Nicholas (Pelé, El Caso Figo), written and produced by Stevan Riley (Fire in Babylon, Listen \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236875631</guid>
-    </item>    <item>
-      <title>A quick glimpse behind the curtain</title>
-      <link>https://claireberlinski.substack.com/p/a-quick-glimpse-behind-the-curtain</link>
-      <description>
-        <![CDATA[What it's really like to be a glamorous writer in Paris]]>
-      </description>
-      <source:markdown>What it&#39;s really like to be a glamorous writer in Paris</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!97xV!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F985f0883-df96-4c69-bbe5-23697ad8893f_225x225.png" length="0" type="image/jpeg" />
-      <guid>cid://https://claireberlinski.substack.com/p/a-quick-glimpse-behind-the-curtain</guid>
-    </item>    <item>
-      <title>Lit Hub Daily: April 29, 2026</title>
-      <link>https://lithub.com/lit-hub-daily-april-29-2026/</link>
-      <description>
-        <![CDATA[Who actually first said “Be the change want to see happen,” and what does it have to do with the clash between progressive activism and New Age spirituality? &#124; Lit Hub Politics “When I meet new people, when they discover]]>
-      </description>
-      <source:markdown>Who actually first said “Be the change want to see happen,” and what does it have to do with the clash between progressive activism and New Age spirituality? \| Lit Hub Politics “When I meet new people, when they discover</source:markdown>
-      <guid>cid://https://lithub.com/?p=270837</guid>
-    </item>    <item>
-      <title>Musk aims to kneecap OpenAI with Altman trollsuit</title>
-      <link>https://www.publicnotice.co/p/musk-altman-trial</link>
-      <description>
-        <![CDATA[They were careless people, Elon and Sam.]]>
-      </description>
-      <source:markdown>They were careless people, Elon and Sam.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!uQ7_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50a4bea3-7845-4459-b5eb-9bd93d474ea2_4096x2720.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.publicnotice.co/p/musk-altman-trial</guid>
-    </item>    <item>
-      <title>Claude Mythos Has Found 271 Zero-Days in Firefox</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html</link>
-      <description>
-        <![CDATA[<p>That&#8217;s <a href="https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/">a lot</a>. No, it&#8217;s an extraordinary number:</p>
-        <blockquote><p>Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.</p>
-        <p>As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week&#8217;s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation...</p></blockquote>]]>
-      </description>
-      <source:markdown>That’s [a lot](https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/). No, it’s an extraordinary number:
-
-&#62; Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.
-&#62;
-&#62; As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week’s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation...</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=71995</guid>
-    </item>    <item>
-      <title>Insights from the InstallFest 2026 Conference in Prague</title>
-      <link>https://blog.documentfoundation.org/blog/2026/04/29/insights-from-the-installfest-2026-conference-in-prague/</link>
-      <description>
-        <![CDATA[Petr Valach from the Czech LibreOffice community writes: On the last weekend of March 2026, the regular InstallFest 2026 conference took place. Here is a summary of the news and insights we gained at the event. New venue What every visitor noticed immediately upon entering was the change in the]]>
-      </description>
-      <source:markdown>Petr Valach from the Czech LibreOffice community writes: On the last weekend of March 2026, the regular InstallFest 2026 conference took place. Here is a summary of the news and insights we gained at the event. New venue What every visitor noticed immediately upon entering was the change in the</source:markdown>
-      <guid>cid://https://blog.documentfoundation.org/?p=17617</guid>
-    </item>    <item>
-      <title>“Be the Change.” On the Misattributed Origins of a Popular Slogan</title>
-      <link>https://lithub.com/be-the-change-on-the-misattributed-origins-of-a-popular-slogan/</link>
-      <description>
-        <![CDATA[&#8220;Somebody around here needs to change. And your name is Somebody.&#8221; –Elizabeth Gilbert, All the Way to the River * The most beloved resident at Westminster Village, a resort-style retirement community in Scottsdale, is probably a sulcata tortoise named Bruno]]>
-      </description>
-      <source:markdown>“Somebody around here needs to change. And your name is Somebody.” –Elizabeth Gilbert, All the Way to the River \* The most beloved resident at Westminster Village, a resort-style retirement community in Scottsdale, is probably a sulcata tortoise named Bruno</source:markdown>
-      <guid>cid://https://lithub.com/?p=270383</guid>
-    </item>    <item>
-      <title>John Cougar Mellencamp Will Fight You: On the Rock ‘n’ Roll Rise of a Combative Heartland Leftist</title>
-      <link>https://lithub.com/john-cougar-mellencamp-will-fight-you-on-the-rock-n-roll-rise-of-a-combative-heartland-leftist/</link>
-      <description>
-        <![CDATA[John Cougar Mellencamp’s combative liberalism has long been an unexpected plot twist for casual fans, politicians, and country music stars who’ve misinterpreted his populist lyrics as base expressions of American chest-­beating. Today, he’s been met with some version of “How]]>
-      </description>
-      <source:markdown>John Cougar Mellencamp’s combative liberalism has long been an unexpected plot twist for casual fans, politicians, and country music stars who’ve misinterpreted his populist lyrics as base expressions of American chest-­beating. Today, he’s been met with some version of “How</source:markdown>
-      <guid>cid://https://lithub.com/?p=270458</guid>
-    </item>    <item>
-      <title>Mother Tongues: How Family History Plays a Part in Language and Translation</title>
-      <link>https://lithub.com/mother-tongues-how-family-history-plays-a-part-in-language-and-translation/</link>
-      <description>
-        <![CDATA[My family moved eight times before I turned eleven. The biggest of those moves took place when I was three, when my parents moved us from Singapore to Hong Kong. We spoke English at home, but growing up there, I]]>
-      </description>
-      <source:markdown>My family moved eight times before I turned eleven. The biggest of those moves took place when I was three, when my parents moved us from Singapore to Hong Kong. We spoke English at home, but growing up there, I</source:markdown>
-      <guid>cid://https://lithub.com/?p=270701</guid>
-    </item>    <item>
-      <title>Leila Chatti on the Many Ways to Be (and Not to Be) a Mother</title>
-      <link>https://lithub.com/leila-chatti-on-the-many-ways-to-be-and-not-to-be-a-mother/</link>
-      <description>
-        <![CDATA[I fly to Boston and back in one day. The Uber driver asks, pulling up to the hospital, what I’m in town for. “This,” I say, as if it is obvious. “This is the event.” When it’s decided, I stay]]>
-      </description>
-      <source:markdown>I fly to Boston and back in one day. The Uber driver asks, pulling up to the hospital, what I’m in town for. “This,” I say, as if it is obvious. “This is the event.” When it’s decided, I stay</source:markdown>
-      <guid>cid://https://lithub.com/?p=270698</guid>
-    </item>    <item>
-      <title>I Wish I Didn’t Have to Tell You About My Book</title>
-      <link>https://lithub.com/i-wish-i-didnt-have-to-tell-you-about-my-book/</link>
-      <description>
-        <![CDATA[I wrote a book about trying to kill myself, about surviving after, about how long I searched for the words to tell the story. When I meet new people, when they discover I wrote a book, when they ask what]]>
-      </description>
-      <source:markdown>I wrote a book about trying to kill myself, about surviving after, about how long I searched for the words to tell the story. When I meet new people, when they discover I wrote a book, when they ask what</source:markdown>
-      <guid>cid://https://lithub.com/?p=270694</guid>
-    </item>    <item>
-      <title>What Erdoğan’s Rule Reveals About the Current State of Western Democracies</title>
-      <link>https://lithub.com/what-erdogans-rule-reveals-about-the-current-state-of-western-democracies/</link>
-      <description>
-        <![CDATA[Was the autocracy President Recep Tayyip Erdoğan created over 20 years in Turkey a rejection of liberal democracy, or a response to its failure? The Turkish nation created in 1923 never healed the wounds of a people who lost an]]>
-      </description>
-      <source:markdown>Was the autocracy President Recep Tayyip Erdoğan created over 20 years in Turkey a rejection of liberal democracy, or a response to its failure? The Turkish nation created in 1923 never healed the wounds of a people who lost an</source:markdown>
-      <guid>cid://https://lithub.com/?p=270435</guid>
-    </item>    <item>
-      <title>On the Urgent Need to Dismantle Food Apartheid in the United States</title>
-      <link>https://lithub.com/on-the-urgent-need-to-dismantle-food-apartheid-in-the-united-states/</link>
-      <description>
-        <![CDATA[If you’re anything like me, ideas about nourishment and phrases like “food justice” weren’t a part of your vocabulary growing up. Even with the early experiences in my grandmother’s kitchen that taught me about the role of food in building]]>
-      </description>
-      <source:markdown>If you’re anything like me, ideas about nourishment and phrases like “food justice” weren’t a part of your vocabulary growing up. Even with the early experiences in my grandmother’s kitchen that taught me about the role of food in building</source:markdown>
-      <guid>cid://https://lithub.com/?p=270548</guid>
-    </item>    <item>
-      <title>Mrs. Benedict Arnold</title>
-      <link>https://lithub.com/mrs-benedict-arnold/</link>
-      <description>
-        <![CDATA[The night of General Arnold’s party arrived, and Stansbury had gone all out. He needed the Patriots’ business, and I was to be a walking advertisement for his work. “You’re trembling like a thoroughbred longing to bolt.” Stansbury smiled, smoothing]]>
-      </description>
-      <source:markdown>The night of General Arnold’s party arrived, and Stansbury had gone all out. He needed the Patriots’ business, and I was to be a walking advertisement for his work. “You’re trembling like a thoroughbred longing to bolt.” Stansbury smiled, smoothing</source:markdown>
-      <guid>cid://https://lithub.com/?p=269035</guid>
-    </item>    <item>
-      <title>Office Hours: Who Should Be the Democratic Candidate in 2028? (Part II)</title>
-      <link>https://robertreich.substack.com/p/office-hours-who-should-be-the-democratic-fed</link>
-      <description>
-        <![CDATA[Friends,]]>
-      </description>
-      <source:markdown>Friends,</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!aFJx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa160dda2-7a7c-4d0b-959e-a4f4bf6cbfa1_3072x2304.avif" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/office-hours-who-should-be-the-democratic-fed</guid>
-    </item>    <item>
-      <title>Vanishing Culture</title>
-      <link>https://archive.org/details/future-knowledge-episode-28</link>
-      <description>
-        <![CDATA[<p>In <strong><em>Vanishing Culture</em></strong>, editors <strong>Luca Messarra</strong>, <strong>Chris Freeland</strong> and <strong>Juliya Ziskina</strong> bring together voices exploring what it means to lose access to our shared cultural record in the digital age. From disappearing websites and delisted music to fragile licensing agreements and platform shutdowns, the book traces how corporate control, technological change, and neglect are reshaping what survives... and what vanishes.</p><p>In this episode, Messarra and Freeland are joined by contributor <strong>Katie Livingston</strong> to discuss the forces driving cultural loss today, the stakes for libraries and public memory, and what it will take to build a more durable, accessible digital future.</p><p>Read <strong><em>Vanishing Culture</em></strong> for free at the Internet Archive: <a href="https://archive.org/details/vanishing-culture-2026">https://archive.org/details/vanishing-culture-2026</a> <br>Purchase in print from Better World Books or your favorite local bookstore: <a href="https://www.betterworldbooks.com/product/detail/vanishing-culture-a-report-on-our-fragile-cultural-record-9798995425014/new">https://www.betterworldbooks.com/product/detail/vanishing-culture-a-report-on-our-fragile-cultural-record-9798995425014/new</a></p><p>This conversation was recorded on 4/17/2026.</p><p>Check out all of the Future Knowledge episodes at <a href="https://archive.org/details/future-knowledge">https://archive.org/details/future-knowledge</a></p>]]>
-      </description>
-      <source:markdown>In **_Vanishing Culture_**, editors **Luca Messarra**, **Chris Freeland** and **Juliya Ziskina** bring together voices exploring what it means to lose access to our shared cultural record in the digital age. From disappearing websites and delisted music to fragile licensing agreements and platform shutdowns, the book traces how corporate control, technological change, and neglect are reshaping what survives... and what vanishes.
-
-In this episode, Messarra and Freeland are joined by contributor **Katie Livingston** to discuss the forces driving cultural loss today, the stakes for libraries and public memory, and what it will take to build a more durable, accessible digital future.
-
-Read **_Vanishing Culture_** for free at the Internet Archive: [https://archive.org/details/vanishing-culture-2026](https://archive.org/details/vanishing-culture-2026)
-
-Purchase in print from Better World Books or your favorite local bookstore: [https://www.betterworldbooks.com/product/detail/vanishing-culture-a-report-on-our-fragile-cultural-record-9798995425014/new](https://www.betterworldbooks.com/product/detail/vanishing-culture-a-report-on-our-fragile-cultural-record-9798995425014/new)
-
-This conversation was recorded on 4/17/2026.
-
-Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)</source:markdown>
-      <enclosure url="https://media.transistor.fm/76e5c574/92c6cf7a.mp3" length="36123531" type="audio/mpeg" />
-      <guid>cid://81462461-606b-4593-accb-12a1a123b3c8</guid>
-    </item>    <item>
-      <title>curl 8.20.0</title>
-      <link>https://daniel.haxx.se/blog/2026/04/29/curl-8-20-0/</link>
-      <description>
-        <![CDATA[You always find the new curl releases on the curl site! Release presentation Numbers the 274th release8 changes49 days (total: 10,761)282 bugfixes (total: 13,922)521 commits (total: 38,545)0 new public libcurl function (total: 100)0 new curl_easy_setopt() option (total: 308)0 new curl command line option (total: 273)73 contributors, 45 new (total: 3,664)28 authors, 12 new (total: 1,463)8 &#8230; <a href="https://daniel.haxx.se/blog/2026/04/29/curl-8-20-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.20.0</span> <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>You always find the new curl releases on the curl site! Release presentation Numbers the 274th release8 changes49 days (total: 10,761)282 bugfixes (total: 13,922)521 commits (total: 38,545)0 new public libcurl function (total: 100)0 new curl\_easy\_setopt() option (total: 308)0 new curl command line option (total: 273)73 contributors, 45 new (total: 3,664)28 authors, 12 new (total: 1,463)8 … [Continue reading curl 8.20.0→](https://daniel.haxx.se/blog/2026/04/29/curl-8-20-0/)</source:markdown>
-      <guid>cid://https://daniel.haxx.se/blog/?p=29662</guid>
-    </item>    <item>
-      <title>Receiving the Unwin Award</title>
-      <link>https://hannahritchie.substack.com/p/receiving-unwin-award</link>
-      <description>
-        <![CDATA[And you can get my book for 99p on Kindle for all of May!]]>
-      </description>
-      <source:markdown>And you can get my book for 99p on Kindle for all of May!</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/f87ddcb6-001d-4486-b2d6-18235a4711d0_1920x1080.png" length="0" type="image/jpeg" />
-      <guid>cid://https://hannahritchie.substack.com/p/receiving-unwin-award</guid>
-    </item>    <item>
-      <title>April 28, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/april-28-2026</link>
-      <description>
-        <![CDATA[There is a frenzied feeling to the news coming from the White House these days.]]>
-      </description>
-      <source:markdown>There is a frenzied feeling to the news coming from the White House these days.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/april-28-2026</guid>
-    </item>    <item>
-      <title>Build a simple quiz game in Python</title>
-      <link>https://www.raspberrypi.com/news/build-a-simple-quiz-game-in-python/</link>
-      <description>
-        <![CDATA[<p>Pass this article on to someone who is keen but unsure where to start on their coding journey.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/build-a-simple-quiz-game-in-python/">Build a simple quiz game in Python</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <source:markdown>Pass this article on to someone who is keen but unsure where to start on their coding journey.
-
-The post [Build a simple quiz game in Python](https://www.raspberrypi.com/news/build-a-simple-quiz-game-in-python/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
-      <guid>cid://https://www.raspberrypi.com/?p=136449</guid>
-    </item>    <item>
-      <title>When The Bill Comes Due</title>
-      <link>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</link>
-      <description>
-        <![CDATA[Be wary of the cool new AI tools Anthropic and OpenAI are throwing—because you’ll eventually get stuck with the bill. (By the way, did you know there are cheaper options?)]]>
-      </description>
-      <source:markdown>Be wary of the cool new AI tools Anthropic and OpenAI are throwing—because you’ll eventually get stuck with the bill. (By the way, did you know there are cheaper options?)</source:markdown>
-      <guid>cid://https://tedium.co/2026/04/28/openai-anthropic-ai-tools-expensive-alternatives/</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/tv-and-radio/2026/apr/28/jimmy-kimmel-held-to-higher-standard-donald-trump?utm_term=Autofeed&#38;CMP=bsky_gu&#38;utm_medium=&#38;utm_source=Bluesky#Echobox=1777398802</link>
-      <description>
-        <![CDATA[<p>Why is Jimmy Kimmel being held to a higher standard than Donald Trump?</p>]]>
-      </description>
-      <source:markdown>Why is Jimmy Kimmel being held to a higher standard than Donald Trump?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/04/28/3623/</guid>
-    </item>    <item>
-      <title>Waterfox Android 1.2.3 - Gecko 150 update</title>
-      <link>https://www.waterfox.com/releases/android/1.2.3/</link>
-      <description>
-        <![CDATA[Gecko 150 and a note on classic menu style requests]]>
-      </description>
-      <source:markdown>Gecko 150 and a note on classic menu style requests</source:markdown>
-      <guid>cid://https://www.waterfox.com/releases/android/1.2.3/</guid>
     </item>
   </channel>
 </rss>

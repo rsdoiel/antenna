@@ -4,10 +4,19 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>20 May 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>21 May 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Moving the Mountain, by Charlotte Perkins Gilman</title>
+      <link>https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain</link>
+      <description>
+        <![CDATA[A man recovers his awareness after thirty years abroad suffering from a head injury and returns home to find society utterly changed at its most fundamental levels.]]>
+      </description>
+      <source:markdown>A man recovers his awareness after thirty years abroad suffering from a head injury and returns home to find society utterly changed at its most fundamental levels.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain/downloads/charlotte-perkins-gilman_moving-the-mountain.epub?source=feed" length="594235" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain</guid>
+    </item>    <item>
       <title>Banjo, by Claude McKay</title>
       <link>https://standardebooks.org/ebooks/claude-mckay/banjo</link>
       <description>
@@ -1470,34 +1479,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>A mirror of Shalott : by Robert Hugh Benson</title>
-      <link>https://www.gutenberg.org/ebooks/78565</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A president is born by Fannie Hurst</title>
-      <link>https://www.gutenberg.org/ebooks/78566</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kodin kukka ja uhrikuusi : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78564</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Two ways of facing life by Florence E. Burch</title>
-      <link>https://www.gutenberg.org/ebooks/78567</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
