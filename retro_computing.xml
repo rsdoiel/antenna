@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>22 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>23 May 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.23b</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/05/22 - Musings on Eurovision.</title>
+      <link>https://heyrick.eu/blog/entry/20260522</link>
+      <description>
+        <![CDATA[Musings on Eurovision.]]>
+      </description>
+      <source:markdown>Musings on Eurovision.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260522</guid>
+    </item>    <item>
+      <title>Planescape: Torment, Part 1: From the Tabletop…</title>
+      <link>https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/</link>
+      <description>
+        <![CDATA[This article tells part of the general story of Dungeons &#38; Dragons on the tabletop and on computers, which includes the more specific one of the Infinity Engine games. My power fantasy when playing a role-playing game is to confront a villain, explain point by point why his master plan is flawed, and then get [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells part of the general story of Dungeons &#38; Dragons on the tabletop and on computers, which includes the more specific one of the Infinity Engine games. My power fantasy when playing a role-playing game is to confront a villain, explain point by point why his master plan is flawed, and then get \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6764</guid>
+    </item>    <item>
       <title>b.log 2026/05/21 - Poop test, I&#39;ve been unwell, Mowing, Using my new wagon, Cracked concrete, Shein haul (tarot).</title>
       <link>https://heyrick.eu/blog/entry/20260521</link>
       <description>
@@ -1286,31 +1302,6 @@ Meanwhile, I&#39;m going to work on a patched version of Mac OS for this machine
       </description>
       <source:markdown>Dream a little dream, Going Out, Rewiring the fan, Grapes?</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260502</guid>
-    </item>    <item>
-      <title>b.log 2026/05/01 - Not going out, My PIAs are talking!, Arduino memory optimisation, The poop drama continues, Epic slog.</title>
-      <link>https://heyrick.eu/blog/entry/20260501</link>
-      <description>
-        <![CDATA[Not going out, My PIAs are talking!, Arduino memory optimisation, The poop drama continues, Epic slog.]]>
-      </description>
-      <source:markdown>Not going out, My PIAs are talking!, Arduino memory optimisation, The poop drama continues, Epic slog.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260501</guid>
-    </item>    <item>
-      <title>The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain</title>
-      <link>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</link>
-      <description>
-        <![CDATA[This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. It is possible to trace the Plantard family tree a fair ways back without relying on the Lobineau dossier, but not as far back as the time when the Merovingian kings ruled [&#8230;]]]>
-      </description>
-      <source:markdown>This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. It is possible to trace the Plantard family tree a fair ways back without relying on the Lobineau dossier, but not as far back as the time when the Merovingian kings ruled \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6748</guid>
-    </item>    <item>
-      <title>THEC64 Handheld</title>
-      <link>https://www.c64os.com/post/thec64handheld</link>
-      <description>
-        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/thec64handheld/icon-thec64handheld.jpg'> There are a lot of Commodore 64s out there. We are blessed with an abundance of options. There are the motherboard reproductions that you can populate with original chips, like the C64 Reloaded. There are reimagined mainboards that take original chips, like Uni64. There are advanced FPGA mainboards like the Ultimate64. There are oddball standalone FPGA implementations, like TurboChameleon64. There are whole package reproductions, like the Commodore 64 Ultimate and the Mega65. There are Raspberry Pi-based solutions, like the BareMetalC64, which runs VICE. And there other dedicated VICE solutions, like THEC64 mini, and even THEC64 Maxi with the full sized working keyboard. There are a lot of solutions to get your C64 fix. It's kinda mind blowing, when you think about it. I'm probably missing a few options too. But almost all of these are designed for the desktop or the living room. That's great, but it has its limitations. Retro Games Ltd., the creators of THEC64 mini and Maxi, are intro. . .]]>
-      </description>
-      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/thec64handheld/icon-thec64handheld.jpg) There are a lot of Commodore 64s out there. We are blessed with an abundance of options. There are the motherboard reproductions that you can populate with original chips, like the C64 Reloaded. There are reimagined mainboards that take original chips, like Uni64. There are advanced FPGA mainboards like the Ultimate64. There are oddball standalone FPGA implementations, like TurboChameleon64. There are whole package reproductions, like the Commodore 64 Ultimate and the Mega65. There are Raspberry Pi-based solutions, like the BareMetalC64, which runs VICE. And there other dedicated VICE solutions, like THEC64 mini, and even THEC64 Maxi with the full sized working keyboard. There are a lot of solutions to get your C64 fix. It&#39;s kinda mind blowing, when you think about it. I&#39;m probably missing a few options too. But almost all of these are designed for the desktop or the living room. That&#39;s great, but it has its limitations. Retro Games Ltd., the creators of THEC64 mini and Maxi, are intro. . .</source:markdown>
-      <author>gregorynacu@me.com (Gregory Nacu)</author>
-      <guid>cid://https://www.c64os.com/post?p=135</guid>
     </item>
   </channel>
 </rss>

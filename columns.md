@@ -418,3 +418,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Mozilla AI Blog](https://blog.mozilla.ai/rss/)
 - [Dean Blundell Substack](https://deanblundell.substack.com/p/king-charles-takedown-of-trump-was)
 - [Justine LOL](https://justine.lol/rss.xml)
+- [Raspberry Pi Podcast](https://www.raspberrypi.com/news/feed/)
+
+
