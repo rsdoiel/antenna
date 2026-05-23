@@ -1,5 +1,5 @@
 <#
-generated with CMTools 0.0.5 d7a7606c2
+generated with CMTools 0.1.1 425ad9c
 
 .SYNOPSIS
 Release script for antenna on GitHub using gh CLI.

@@ -1,5 +1,5 @@
 #!/bin/bash
-# generated with CMTools 0.0.5 d7a7606c2
+# generated with CMTools 0.1.1 425ad9c
 
 #
 # Release script for antenna on GitHub using gh cli.
@@ -7,7 +7,7 @@
 # shellcheck disable=SC2046
 REPO_ID="$(basename $(pwd))"
 # shellcheck disable=SC2046
-GROUP_ID="rsdoiel" # "$(basename $(dirname $(pwd)))"
+GROUP_ID="$(basename $(dirname $(pwd)))"
 REPO_URL="https://github.com/${GROUP_ID}/${REPO_ID}"
 echo "REPO_URL -> ${REPO_URL}"
 
