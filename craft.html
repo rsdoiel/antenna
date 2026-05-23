@@ -2,22 +2,26 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8" >
-  <meta name="generator" content="antenna/0.0.23b" >
-  <meta name="date" content="2026-05-23T06:45:13-07:00" >
+  <meta name="generator" content="antenna/0.0.24-rc1" >
+  <meta name="date" content="2026-05-23T10:05:31-07:00" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+  <title>Craft</title>
   <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="craft.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
+  <script type="module" src="modules/article_collapse.js" ></script>
 </head>
 <body>
   <header>
-    <img class="logo" 
+    <a href="#main-content" class="skip-nav">Skip to main content</a>
+    <img class="logo"
         src="./media/Antenna_1_-_The_Noun_Project.svg"
         alt="line art showing an antenna"
         height="80" width="60" >
-    <h1>The Antenna</h1> 
+    <h1>The Antenna</h1>
     <h2>finding signal in the noise</h2>
   </header>
-  <nav>
+  <nav aria-label="Site navigation">
     <ul>
       <li><a href="./" "A personal news aggregation, finding signal in the noise">The Antenna</a></li>
       <li><a href="README.html" "How to implement your own Antennna">Implementation</a></li>
@@ -38,11 +42,11 @@
     </ul>
   </nav>
 
-    <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
-  <section>
+    <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
+  <main id="main-content">
 
     <article data-published="2026-05-22T14:58:24Z" data-link="https://www.popularwoodworking.com/editors-blog/the-splinter-report-may-22nd/">
-      <h1>The Splinter Report: May 22nd</h1>
+      <h2>The Splinter Report: May 22nd</h2>
 
 (date: 2026-05-22)
       <p>
@@ -55,7 +59,7 @@
     </article>
 
     <article data-published="2026-05-22T14:04:09Z" data-link="https://www.popularwoodworking.com/editors-blog/the-duke-of-burl/">
-      <h1>The Duke of Burl</h1>
+      <h2>The Duke of Burl</h2>
 
 (date: 2026-05-22)
       <p>
@@ -68,7 +72,7 @@
     </article>
 
     <article data-published="2026-05-21T15:35:36Z" data-link="https://www.popularwoodworking.com/finishing/french-polishing-myths/">
-      <h1>French Polishing Myths</h1>
+      <h2>French Polishing Myths</h2>
 
 (date: 2026-05-21, updated: 2026-05-22)
       <p>
@@ -81,7 +85,7 @@
     </article>
 
     <article data-published="2026-05-21T14:24:54Z" data-link="https://blog.lostartpress.com/2026/05/21/registration-is-open-for-london-classes/">
-      <h1>Registration is Open for London Classes</h1>
+      <h2>Registration is Open for London Classes</h2>
 
 (date: 2026-05-21)
       <p>
@@ -93,7 +97,7 @@
     </article>
 
     <article data-published="2026-05-20T16:30:54Z" data-link="https://www.popularwoodworking.com/projects/trinket-box/">
-      <h1>Trinket Box</h1>
+      <h2>Trinket Box</h2>
 
 (date: 2026-05-20, updated: 2026-05-22)
       <p>
@@ -106,7 +110,7 @@
     </article>
 
     <article data-published="2026-05-20T14:38:54Z" data-link="https://www.popularwoodworking.com/toolreviews/vyper-shop-chairs-review/">
-      <h1>Vyper Shop Chairs Review</h1>
+      <h2>Vyper Shop Chairs Review</h2>
 
 (date: 2026-05-20, updated: 2026-05-22)
       <p>
@@ -119,7 +123,7 @@
     </article>
 
     <article data-published="2026-05-20T10:00:00Z" data-link="https://blog.lostartpress.com/2026/05/20/lego-workbenches/">
-      <h1>Lego Workbenches</h1>
+      <h2>Lego Workbenches</h2>
 
 (date: 2026-05-20, updated: 2026-05-21)
       <p>
@@ -131,7 +135,7 @@
     </article>
 
     <article data-published="2026-05-19T16:08:51Z" data-link="https://www.popularwoodworking.com/editors-blog/the-lefkowitz-shave-horse/">
-      <h1>The Lefkowitz Shave Horse</h1>
+      <h2>The Lefkowitz Shave Horse</h2>
 
 (date: 2026-05-19, updated: 2026-05-22)
       <p>
@@ -144,7 +148,7 @@
     </article>
 
     <article data-published="2026-05-19T14:11:29Z" data-link="https://blog.lostartpress.com/2026/05/19/lap-storefront-closed-on-memorial-day/">
-      <h1>LAP Storefront Closed on Memorial Day</h1>
+      <h2>LAP Storefront Closed on Memorial Day</h2>
 
 (date: 2026-05-19, updated: 2026-05-21)
       <p>
@@ -156,7 +160,7 @@
     </article>
 
     <article data-published="2026-05-19T13:48:02Z" data-link="https://www.popularwoodworking.com/tricks/perfect-sharpening-angle-every-time/">
-      <h1>Perfect Sharpening Angle Every Time</h1>
+      <h2>Perfect Sharpening Angle Every Time</h2>
 
 (date: 2026-05-19, updated: 2026-05-22)
       <p>
@@ -169,7 +173,7 @@
     </article>
 
     <article data-published="2026-05-19T10:00:00Z" data-link="https://blog.lostartpress.com/2026/05/19/mind-upon-mind-another-way-to-use-the-stanley-no-77-doweling-machine/">
-      <h1>Mind Upon Mind: Another Way to Use the Stanley No. 77 Doweling Machine</h1>
+      <h2>Mind Upon Mind: Another Way to Use the Stanley No. 77 Doweling Machine</h2>
 
 (date: 2026-05-19, updated: 2026-05-21)
       <p>
@@ -181,7 +185,7 @@
     </article>
 
     <article data-published="2026-05-18T17:36:33Z" data-link="https://www.popularwoodworking.com/projects/the-automaton-branch-part-i-constructing-the-pedestal/">
-      <h1>The Automaton Branch: Part I – Constructing the Pedestal</h1>
+      <h2>The Automaton Branch: Part I – Constructing the Pedestal</h2>
 
 (date: 2026-05-18, updated: 2026-05-22)
       <p>
@@ -194,7 +198,7 @@
     </article>
 
     <article data-published="2026-05-18T12:25:33Z" data-link="https://www.popularwoodworking.com/article/days-for-dad-2026-giveaway/">
-      <h1>Days for Dad 2026 Giveaway</h1>
+      <h2>Days for Dad 2026 Giveaway</h2>
 
 (date: 2026-05-18, updated: 2026-05-22)
       <p>
@@ -207,7 +211,7 @@
     </article>
 
     <article data-published="2026-05-18T12:17:11Z" data-link="https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-272-whats-your-relationship-like-with-your-hardwood-supplier/">
-      <h1>ShopNotes Podcast Episode 272 — What’s Your Relationship Like with Your Hardwood Supplier?</h1>
+      <h2>ShopNotes Podcast Episode 272 — What’s Your Relationship Like with Your Hardwood Supplier?</h2>
 
 (date: 2026-05-18, updated: 2026-05-22)
       <p>
@@ -220,7 +224,7 @@
     </article>
 
     <article data-published="2026-05-15T15:41:57Z" data-link="https://www.popularwoodworking.com/editors-blog/the-splinter-report-may-15th/">
-      <h1>The Splinter Report: May 15th</h1>
+      <h2>The Splinter Report: May 15th</h2>
 
 (date: 2026-05-15, updated: 2026-05-21)
       <p>
@@ -233,7 +237,7 @@
     </article>
 
     <article data-published="2026-05-15T12:21:00Z" data-link="https://www.popularwoodworking.com/editors-blog/knives-out/">
-      <h1>Knives Out</h1>
+      <h2>Knives Out</h2>
 
 (date: 2026-05-15, updated: 2026-05-21)
       <p>
@@ -246,7 +250,7 @@
     </article>
 
     <article data-published="2026-05-14T17:31:53Z" data-link="https://www.popularwoodworking.com/finishing/decorating-wood/">
-      <h1>Decorating Wood</h1>
+      <h2>Decorating Wood</h2>
 
 (date: 2026-05-14, updated: 2026-05-20)
       <p>
@@ -259,7 +263,7 @@
     </article>
 
     <article data-published="2026-05-14T15:37:45Z" data-link="https://www.popularwoodworking.com/toolreviews/grizzly-extreme-series-saw-blades-review/">
-      <h1>Grizzly Extreme Series Saw Blades Review</h1>
+      <h2>Grizzly Extreme Series Saw Blades Review</h2>
 
 (date: 2026-05-14, updated: 2026-05-20)
       <p>
@@ -272,7 +276,7 @@
     </article>
 
     <article data-published="2026-05-14T10:00:00Z" data-link="https://blog.lostartpress.com/2026/05/14/mind-upon-mind-steam-bending-tip/">
-      <h1>Mind Upon Mind: Steambending Tip</h1>
+      <h2>Mind Upon Mind: Steambending Tip</h2>
 
 (date: 2026-05-14, updated: 2026-05-21)
       <p>
@@ -284,7 +288,7 @@
     </article>
 
     <article data-published="2026-05-13T13:42:42Z" data-link="https://www.popularwoodworking.com/projects/outdoor-kitchen/">
-      <h1>Outdoor Kitchen</h1>
+      <h2>Outdoor Kitchen</h2>
 
 (date: 2026-05-13, updated: 2026-05-20)
       <p>
@@ -297,7 +301,7 @@
     </article>
 
     <article data-published="2026-05-12T17:00:06Z" data-link="https://www.popularwoodworking.com/techniques/how-to-rout-a-large-arc-2/">
-      <h1>How to Rout a Large Arc</h1>
+      <h2>How to Rout a Large Arc</h2>
 
 (date: 2026-05-12, updated: 2026-05-19)
       <p>
@@ -310,7 +314,7 @@
     </article>
 
     <article data-published="2026-05-12T15:00:21Z" data-link="https://www.popularwoodworking.com/tricks/clamp-free-rip-fence-2/">
-      <h1>Clamp-Free Rip Fence</h1>
+      <h2>Clamp-Free Rip Fence</h2>
 
 (date: 2026-05-12, updated: 2026-05-18)
       <p>
@@ -323,7 +327,7 @@
     </article>
 
     <article data-published="2026-05-11T13:50:16Z" data-link="https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-271-hierarchy-of-panels-or-mvp-most-visible-panel/">
-      <h1>ShopNotes Podcast Episode 271 — Hierarchy of Panels, or: MVP (Most Visible Panel)</h1>
+      <h2>ShopNotes Podcast Episode 271 — Hierarchy of Panels, or: MVP (Most Visible Panel)</h2>
 
 (date: 2026-05-11, updated: 2026-05-18)
       <p>
@@ -336,7 +340,7 @@
     </article>
 
     <article data-published="2026-05-11T13:12:56Z" data-link="https://blog.lostartpress.com/2026/05/11/17th-century-essex-county-cupboard-paint-drawer-front-carving/">
-      <h1>‘17th-century Essex County Cupboard’ Paint & Drawer-front Carving</h1>
+      <h2>‘17th-century Essex County Cupboard’ Paint & Drawer-front Carving</h2>
 
 (date: 2026-05-11, updated: 2026-05-21)
       <p>
@@ -348,7 +352,7 @@
     </article>
 
     <article data-published="2026-05-08T18:52:01Z" data-link="https://www.popularwoodworking.com/editors-blog/the-splinter-report-may-8th/">
-      <h1>The Splinter Report: May 8th</h1>
+      <h2>The Splinter Report: May 8th</h2>
 
 (date: 2026-05-08, updated: 2026-05-15)
       <p>
@@ -361,7 +365,7 @@
     </article>
 
     <article data-published="2026-05-08T18:17:10Z" data-link="https://blog.lostartpress.com/2026/05/08/for-sale-kales-sawyer-windsor-settee/">
-      <h1>For Sale: Kale’s Sawyer Windsor Settee</h1>
+      <h2>For Sale: Kale’s Sawyer Windsor Settee</h2>
 
 (date: 2026-05-08, updated: 2026-05-21)
       <p>
@@ -373,7 +377,7 @@
     </article>
 
     <article data-published="2026-05-08T12:27:47Z" data-link="https://www.popularwoodworking.com/editors-blog/anchors-away/">
-      <h1>Anchors Away</h1>
+      <h2>Anchors Away</h2>
 
 (date: 2026-05-08, updated: 2026-05-15)
       <p>
@@ -386,7 +390,7 @@
     </article>
 
     <article data-published="2026-05-07T16:30:07Z" data-link="https://www.popularwoodworking.com/techniques/breadboard-end-joints/">
-      <h1>Breadboard End Joints</h1>
+      <h2>Breadboard End Joints</h2>
 
 (date: 2026-05-07, updated: 2026-05-14)
       <p>
@@ -399,7 +403,7 @@
     </article>
 
     <article data-published="2026-05-07T12:18:00Z" data-link="https://www.popularwoodworking.com/editors-blog/eat-an-elephant-one-bite-at-a-time/">
-      <h1>Eat An Elephant One Bite at a Time</h1>
+      <h2>Eat An Elephant One Bite at a Time</h2>
 
 (date: 2026-05-07, updated: 2026-05-13)
       <p>
@@ -412,7 +416,7 @@
     </article>
 
     <article data-published="2026-05-06T18:13:35Z" data-link="https://www.popularwoodworking.com/projects/harlem-spice-chest-part-ii-corbels-molding-drawers/">
-      <h1>Harlem Spice Chest Part II: Corbels, Molding & Drawers</h1>
+      <h2>Harlem Spice Chest Part II: Corbels, Molding & Drawers</h2>
 
 (date: 2026-05-06, updated: 2026-05-13)
       <p>
@@ -425,7 +429,7 @@
     </article>
 
     <article data-published="2026-05-05T17:41:31Z" data-link="https://www.popularwoodworking.com/editors-blog/i-went-to-taiwan-and-saw-the-future-of-woodworking/">
-      <h1>I Went to Taiwan and Saw the Future of Woodworking</h1>
+      <h2>I Went to Taiwan and Saw the Future of Woodworking</h2>
 
 (date: 2026-05-05, updated: 2026-05-13)
       <p>
@@ -438,7 +442,7 @@
     </article>
 
     <article data-published="2026-05-05T12:45:29Z" data-link="https://www.popularwoodworking.com/toolreviews/bent-rivers-marking-knife-review/">
-      <h1>Bent Rivers Marking Knife Review</h1>
+      <h2>Bent Rivers Marking Knife Review</h2>
 
 (date: 2026-05-05, updated: 2026-05-12)
       <p>
@@ -451,7 +455,7 @@
     </article>
 
     <article data-published="2026-05-04T13:55:01Z" data-link="https://www.popularwoodworking.com/techniques/star-wars-wood-episode-i/">
-      <h1>Lightsaber Walking Stick</h1>
+      <h2>Lightsaber Walking Stick</h2>
 
 (date: 2026-05-04, updated: 2026-05-11)
       <p>
@@ -464,7 +468,7 @@
     </article>
 
     <article data-published="2026-05-04T13:38:51Z" data-link="https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-270-its-all-about-the-churn/">
-      <h1>ShopNotes Podcast Episode 270 — It’s All About the Churn</h1>
+      <h2>ShopNotes Podcast Episode 270 — It’s All About the Churn</h2>
 
 (date: 2026-05-04, updated: 2026-05-11)
       <p>
@@ -477,7 +481,7 @@
     </article>
 
     <article data-published="2026-05-03T11:15:00Z" data-link="https://guitar-maker.blogspot.com/2026/05/new-model-mandolin-4.html">
-      <h1>New Model Mandolin: 4</h1>
+      <h2>New Model Mandolin: 4</h2>
 
 (date: 2026-05-03, updated: 2026-05-22)
       <p>
@@ -492,7 +496,7 @@ All good fun! Oh, and a bit about the fretboard too!</p>
         <a href="https://guitar-maker.blogspot.com/2026/05/new-model-mandolin-4.html">https://guitar-maker.blogspot.com/2026/05/new-model-mandolin-4.html</a>
       </address>
     </article>
-  </section>
+  </main>
   <footer>
     Antenna is a personal aggregation of items found around the web.<br>
     Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>.

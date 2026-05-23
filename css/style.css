@@ -4,6 +4,31 @@ html {
     margin: 0;
     width: 100%;
     height: auto;
+    overflow-y: scroll;       /* always reserve scrollbar space */
+    scrollbar-gutter: stable; /* prevent layout shift */
+
+    /* Firefox */
+    scrollbar-width: auto;
+    scrollbar-color: darkgreen #d0d0d0;
+}
+
+/* Webkit/Blink (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 28px;
+}
+
+::-webkit-scrollbar-track {
+    background: #d0d0d0;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--color-darkgreen);
+    border-radius: 4px;
+    border: 2px solid #d0d0d0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--color-maroon);
 }
 
 body {
@@ -338,12 +363,33 @@ h5 { font-size: 0.85em; }
 h6 { font-size: 0.75em; }
 
 /* Adjust sizes for headings within article elements */
+/* article titles are now h2 (h1 is reserved for the page title) */
 article h1 { font-size: 170% !important; }
-article h2 { font-size: 150% !important; }
+article h2 { font-size: 170% !important; }
 article h3 { font-size: 140% !important; }
 article h4 { font-size: 130% !important; }
 article h5 { font-size: 100% !important; }
 article h6 { font-size: 100% !important; }
+
+/* Skip navigation link — hidden until focused by keyboard */
+.skip-nav {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  font-size: 1rem;
+}
+
+.skip-nav:focus {
+  position: fixed;
+  left: 0.5em;
+  top: 0.5em;
+  z-index: 9999;
+  padding: 0.5em 1em;
+  background: var(--color-darkgreen);
+  color: var(--color-white);
+  text-decoration: none;
+  border-radius: 4px;
+}
 
 .article-filter {
   padding: 1.24em;

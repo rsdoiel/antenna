@@ -4,12 +4,15 @@ link:
 script:
   - type: module
     src: modules/date_filter.js
+  - type: module
+    src: modules/article_collapse.js
 header: |
-  <img class="logo" 
+  <a href="#main-content" class="skip-nav">Skip to main content</a>
+  <img class="logo"
       src="./media/Antenna_1_-_The_Noun_Project.svg"
       alt="line art showing an antenna"
       height="80" width="60" >
-  <h1>The Antenna</h1> 
+  <h1>The Antenna</h1>
   <h2>finding signal in the noise</h2>
 
 nav: |
@@ -30,7 +33,7 @@ nav: |
   </ul>
 
 top_content: |
-  <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
+  <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
 footer: |
   Antenna is a personal aggregation of items found around the web.<br>
   Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>.

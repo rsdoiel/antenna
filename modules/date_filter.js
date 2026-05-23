@@ -28,6 +28,16 @@ function updateNavLinks(curDateParam) {
     });
 }
 
+function updateItemCount() {
+    const countEl = document.getElementById('item-count');
+    if (!countEl) return;
+    const visible = document.querySelectorAll('article[data-published]:not(.hidden)').length;
+    const total = articleElements.length;
+    countEl.textContent = visible === total
+        ? `${total} items`
+        : `${visible} of ${total} items`;
+}
+
 function filterArticles(event) {
     const selectedDate = event.target.value; // Use event.target to get the correct element
     articleElements.forEach(article => {
@@ -43,12 +53,17 @@ function filterArticles(event) {
     // Update the URL parameters and navigation links
     updateURLWithDate(selectedDate);
     updateNavLinks(selectedDate);
+    updateItemCount();
 }
 
 document.addEventListener('DOMContentLoaded', function() {
   articleElements = document.querySelectorAll('article[data-published]');
   dateElement = document.getElementById('filter-by-date');
   dateElement.addEventListener('change', filterArticles);
+  const countEl = document.createElement('span');
+  countEl.id = 'item-count';
+  dateElement.after(countEl);
+  updateItemCount();
   let minDate = new Date();
   let maxDate = new Date();
   // Set the default values
