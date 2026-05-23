@@ -52,4 +52,8 @@ title: Planet News
 - [CBC, World News](https://www.cbc.ca/webfeed/rss/rss-world)
 
 # Korean
+
 - [Korea Times](https://feed.koreatimes.co.kr/k/allnews.xml)
+- [Korea Herald](https://www.koreaherald.com/rss/newsAll)
+- [Yonhap News](https://en.yna.co.kr/channel/index)
+

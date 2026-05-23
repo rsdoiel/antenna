@@ -89,11 +89,6 @@ title: Items of interest to the Pacific community and the Pacific RIM
 - [‘Ōlelo Community Media](https://olelo.org/feed/)
 
 
-# Korean News
-
-- [Korea Herald](https://www.koreaherald.com/rss/newsAll)
-- [Yonhap News](https://en.yna.co.kr/channel/index)
-
 # Philipines
 
 - [Rappler](https://www.rappler.com/feed/)
