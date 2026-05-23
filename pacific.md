@@ -92,7 +92,6 @@ title: Items of interest to the Pacific community and the Pacific RIM
 # Korean News
 
 - [Korea Herald](https://www.koreaherald.com/rss/newsAll)
-- [Korea Times](https://feed.koreatimes.co.kr/k/allnews.xml)
 - [Yonhap News](https://en.yna.co.kr/channel/index)
 
 # Philipines
