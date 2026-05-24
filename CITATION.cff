@@ -3,9 +3,10 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: antenna
-abstract: "Antenna is a proof of concept demonstration of a personal news aggregation. Antenna is a Link Blog.
-It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org),
-and either Bash or PowerShell."
+abstract: |-
+  Antenna is a proof of concept demonstration of a personal news aggregation. Antenna is a Link Blog.
+  It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org),
+  and either Bash or PowerShell.
 authors:
   - family-names: Doiel
     given-names: R. S.

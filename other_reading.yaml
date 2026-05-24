@@ -26,7 +26,6 @@ nav: |
   <ul>
     <li><a href="./" "A personal news aggregation, finding signal in the noise">The Antenna</a></li>
     <li><a href="README.html" "How to implement your own Antennna">Implementation</a></li>
-    <li><a href="search.html" "Search current items">Search</a></li>
     <li><a href="about.html" "About the Antenna Project">About</a></li>
   </ul>
   <hr>

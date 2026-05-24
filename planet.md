@@ -51,6 +51,14 @@ title: Planet News
 - [CBC, Top Stories](https://www.cbc.ca/webfeed/rss/rss-topstories)
 - [CBC, World News](https://www.cbc.ca/webfeed/rss/rss-world)
 
+# New Zealand
+
+- [RNZ National News](https://www.rnz.co.nz/rss/national.xml)
+
+# Japan
+
+- [Japan Times](https://www.japantimes.co.jp/feed/)
+
 # Korean
 
 - [Korea Times](https://feed.koreatimes.co.kr/k/allnews.xml)

@@ -16,10 +16,10 @@ harvest: .FORCE
 website: .FORCE
 	./website.bash
 
-pagefind: .FORCE
-	rm -fR pagefind
-	pagefind --verbose --force-language en
-	git add pagefind
+#pagefind: .FORCE
+#	rm -fR pagefind
+#	pagefind --verbose --force-language en
+#	git add pagefind
 
 clean: .FORCE
 	-rm *.html 2>/dev/null
@@ -60,7 +60,7 @@ release: .FORCE
 	cp -v website.* dist/
 	cp -v front_page.yaml dist/
 	cp -v other_reading.yaml dist/
-	cp -v pagefind.yaml dist/
+	#cp -v pagefind.yaml dist/
 	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.yaml *.bash *.ps1 *.tmpl *.lua css modules media
 	printf "\nready to run\n\n\trelease.bash\n\n"
 

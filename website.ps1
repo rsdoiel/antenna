@@ -18,8 +18,8 @@ foreach ($mdFile in $mdFiles) {
 
 # Build our search indexes now that we have HTML pages.
 Write-Host "Building the search indexes"
-if (Test-Path -Path "pagefind") { Remove-Item -Recurse -Force "pagefind" }
-pagefind --verbose --force-language en-US
-if (Test-Path -Path ".git") { git add pagefind }
+#if (Test-Path -Path "pagefind") { Remove-Item -Recurse -Force "pagefind" }
+#pagefind --verbose --force-language en-US
+#if (Test-Path -Path ".git") { git add pagefind }
 
 Write-Host "Done $(Get-Date)"

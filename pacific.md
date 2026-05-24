@@ -1,8 +1,8 @@
 ---
-title: Items of interest to the Pacific community and the Pacific RIM
+title: Items of interest to the Equitorial Pacific community
 ---
 
-# Items of interest to the Pacific community and the Pacific RIM
+# Items of interest to the Equitorial Pacific community
 
 # Universities and Research Organizations
 
@@ -88,7 +88,6 @@ title: Items of interest to the Pacific community and the Pacific RIM
 
 - [‘Ōlelo Community Media](https://olelo.org/feed/)
 
-
 # Philipines
 
 - [Rappler](https://www.rappler.com/feed/)
@@ -102,10 +101,6 @@ title: Items of interest to the Pacific community and the Pacific RIM
     now blocked via Cloudflare (AI bot abuse?)
 - Pacific Daily News does not provide a feed (not for a long time), <https://www.guampdn.com/>
 
-# Japan
-
-- [Japan Times](https://www.japantimes.co.jp/feed/)
-
 # Taiwan
 
 - [Taiwan News](https://taiwannews.tw/feed/)
@@ -117,10 +112,8 @@ title: Items of interest to the Pacific community and the Pacific RIM
 -  Vietnam News, <https://vietnamnews.vn/rss> feeds failed on harvest, 2026-04-06 RSD
 -  Siagon Times, <https://english.thesaigontimes.vn/feed/> feeds failed on harvest, 2026-04-06 RSD
 
-
 # New Zealand
 
-- [RNZ National News](https://www.rnz.co.nz/rss/national.xml)
 - [RNZ Pacific News](https://www.rnz.co.nz/rss/pacific.xml)
 - [RNZ Te Ao Māori](https://www.rnz.co.nz/rss/te-manu-korihi.xml)
 

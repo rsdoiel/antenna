@@ -4,7 +4,7 @@ title: Implementation
 
 # Antenna
 
-Antenna is an example of a Personal News website. It demonstrates aggregating news via web feeds (example RSS, Atom and JSON feeds) for personal use. I run a more up-to-date copy on a Raspberry Pi computer on my home network. This makes it visible to other devices uses my local network. Antenna is published once a day to show what is possible to the public web. We don't need Yahoo News, Google, Apple, Spotify, Facebook, Instagram or any of the other corporate silos. It is easy to run your own.
+Antenna is an example of a Personal News website. It demonstrates aggregating news via web feeds (example RSS, Atom and JSON feeds) for personal use. I run a more up-to-date copy on a Raspberry Pi computer on my home network. This makes it visible to other devices uses my local network. Antenna is published once a day to show what is possible to the public web. We don't need Yahoo News, Google, Apple, Spotify, Facebook, Instagram or any of the other corporate silos. It is easy to run your own news aggregator.
 
 Your own Antenna can on small computer, you can run it on a Raspberry Pi Zero 2W. That's a $15.00 US single board computer. You can turn that into a nice little appliance for a budget of about $50.00 US. You don't get spied on. You choose what to follow. You are in control of your feed and can choose to share it as I've done. The era that **required silos** for online community has been over for sometime. We just need to wake up to that fact.
 

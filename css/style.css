@@ -393,6 +393,11 @@ article h6 { font-size: 100% !important; }
   border-radius: 4px;
 }
 
+main {
+    padding-left: 1.24em;
+    padding-right: 1.24em;
+}
+
 .article-filter {
   padding: 1.24em;
   margin: 1.24em;
