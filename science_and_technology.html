@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.24" >
-  <meta name="date" content="2026-05-23T11:14:27-07:00" >
+  <meta content="2026-05-24T06:42:31-07:00" name="date" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>Science and Technology</title>
   <link rel="stylesheet" href="css/site.css" >
-  <link href="science_and_technology.xml" rel="alternate" type="application/rss+xml" >
+  <link rel="alternate" type="application/rss+xml" href="science_and_technology.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
   <script type="module" src="modules/article_collapse.js" ></script>
 </head>
@@ -44,6 +44,30 @@
 
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content">
+
+    <article data-published="2026-05-23T23:36:51Z" data-link="https://www.osnews.com/story/145069/long-term-support-does-not-mean-what-you-think-it-does/">
+      <h2>“Long-term support” does not mean what you think it does</h2>
+
+(date: 2026-05-23, updated: 2026-05-24)
+      <p>
+      <p>You may think you know what “long-term support” means when picking a Linux distribution and version, but judging by the multitude of utterly wrong takes and deeply confused users I come across online, I’m starting to get the feeling that in fact, no, you don’t know what it means. KDE’s Nate Graham is seeing the same confusion, and has published a blog post going over what LTS really means in the Linux world. People seem to think that an LTS release means it’s going to be more stable, have fewer bugs, and receive support for a certain set period of time. The reality is that only that last one really applies, sort-of. LTS generally means you’re going to be using a Linux distribution version where you’ll get security fixes and possibly maintenance updates for a set number of years, but you won’t be getting updates with new features or other updates that aren’t security fixes. The purpose of an LTS release is to more or less freeze itself and its packages in time, so that users know exactly what they’re getting. However, part of being frozen in time means any bugs, crashes, and hardware support are also frozen in time. The end result is that LTS releases will often have wildly outdated package versions, and those outdated package versions will most likely contain a ton of bugs and issues that have long been fixed in subsequent releases – subsequent releases you’re not getting, because you’re on an LTS release. LTS releases are fairly stable and reliable as long as you use the most popular software from their included software repositories. So in the circumstances when this stops being the case, I think sometimes people can feel betrayed. They think, “I thought this was supposed to be stable! Why didn’t anyone fix this bug yet? Where’s my long-term support?” But Debian, Ubuntu, and Kubuntu never promised any level of stability, reliability, or absence of bugs. They promised that the version-locked software in their repos would receive security fixes for a certain number of years. Ubuntu and Kubuntu also offered a certain amount of non-guaranteed best-effort hardware compatibility improvements and non-security bug fixes. ↫ Nate Graham This causes major problems for upstream developers. People who use an LTS release will be using versions of packages that are out of date and full of bugs that have already been fixed in later versions, but they don’t know that, so they end up reporting these old bugs that have been fixed ages ago as if they’re new. If you’re an LTS user and you experience a persistent bug and subsequent crash in Kwin, you’re most likely going to complain at the Kwin developers, even if the Kwin developers have already fixed this bug 18 months ago. Every week there’s at least a few developers in my Fedi timeline rolling their eyes at Debian users reporting bugs fixed ages ago and getting mad when told they should complain at Debian developers for not backporting the fix. So many LTS users seem to think that LTS equals increased stability, fewer bugs, and fewer crashes, but that’s just not what LTS is for or what it claims to offer. Sticking to specific (major) versions of packages means not you’re not only missing out on new features and changes – which might be desirable for you – but also on bug fixes. With LTS, as they say, the bugs are also stable.</p>
+
+      <address>
+        <a href="https://www.osnews.com/story/145069/long-term-support-does-not-mean-what-you-think-it-does/">https://www.osnews.com/story/145069/long-term-support-does-not-mean-what-you-think-it-does/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-05-23T22:03:03Z" data-link="https://www.osnews.com/story/145066/gnutella-a-protocol-outliving-the-world-that-created-it/">
+      <h2>Gnutella: a protocol outliving the world that created it</h2>
+
+(date: 2026-05-23, updated: 2026-05-24)
+      <p>
+      <p>Now that’s a name I haven’t heard in a long time. Gnutella is a file sharing protocol that many have forgotten and it has the story of a decentralized technology adopted by millions of casual users who did not care to learn what a peer-to-peer system was. Users showed up because the protocol solved real problems at scale and the solution just so happened to be decentralized. No one ever pretended to use Gnutella in hopes their GnutellaCoinTM would go up in value later. They just downloaded MP3s. The network exploded in popularity, then plateaued for almost a decade, then settled into a permanent long tail state of continued but diminished use. Welcome to my overly enthusiastic love letter to Gnutella. ↫ Rick Carlino I genuinely didn’t know – or I had forgotten, more likely – that Gnutella formed the backbone of LimeWire, another name I haven’t heard in a long time. I’m quite sure I used LimeWire over 25 years ago, but details are fuzzy and I might be confusing it with other filesharing networks of a similar vintage. I was an avid CD buyer and MiniDisc user (I used MD well into the smartphone age), so I didn’t have much need for downloading MP3s. Gnutella is also apparently still active, and there are still clients you can download and use. Of course, it’s a mere shadow of its former self, but this, too, was news to me. I’m kind of inclined to see if it’s still hosting MP3s.</p>
+
+      <address>
+        <a href="https://www.osnews.com/story/145066/gnutella-a-protocol-outliving-the-world-that-created-it/">https://www.osnews.com/story/145066/gnutella-a-protocol-outliving-the-world-that-created-it/</a>
+      </address>
+    </article>
 
     <article data-published="2026-05-22T22:12:40Z" data-link="https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/">
       <h2>Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling</h2>
@@ -132,7 +156,7 @@
     <article data-published="2026-05-22T19:00:40Z" data-link="https://www.osnews.com/story/145056/migrating-from-ubuntu-16-04-to-freebsd/">
       <h2>Migrating from Ubuntu 16.04 to FreeBSD</h2>
 
-(date: 2026-05-22, updated: 2026-05-23)
+(date: 2026-05-22, updated: 2026-05-24)
       <p>
       <p>Bruno Croci’s blog had been running on Ubuntu 16.04 for a long time, well past the Linux distribution’s expiration date. As such, it was time to upgrade, but instead of opting for something standard like another Ubuntu release, he opted for FreeBSD instead. This blog has been running on a Digital Ocean VPS for over ten years. A machine hosted in New York City, running Ubuntu 16.04 LTS. An LTS that hasn’t been in support for at least 5 years. It was about time to change it. After some considerations, I migrated to a Hetzner virtual machine that is way better than my old Ubuntu one, less than half the price of what I used to pay, and just across the country from me. Not only that, but I took the challenge to move my stack to FreeBSD. It’s a long text, but stay for a cool introduction of FreeBSD Jails with Bastille and some interesting site load benchmarks. ↫ Bruno Croci I absolutely adore the recent surge in people (re)discovering the BSDs as a valid alternative to Linux in both the server and desktop space. In this particular case, it was FreeBSD’s Jails and ZFS support that won Corci over, and it’s easy to see why. While there are countless alternatives to Jails in the Linux world, ZFS is harder to come by as it can’t be part of the kernel due to licensing issues. With how powerful and capable ZFS is, it makes sense to want to use it on your server, and in that case, FreeBSD is probably a better choice than most Linux distributions. There are countless reasons to choose one of the BSDs over a Linux distribution, and I’m glad we’re seeing an uptick.</p>
 
@@ -144,7 +168,7 @@
     <article data-published="2026-05-22T18:49:54Z" data-link="https://publicai.substack.com/p/public-ai-network-q4-2025-roundup">
       <h2>Public AI Network : Q4 2025 Roundup</h2>
 
-(date: 2026-05-22, updated: 2026-05-23)
+(date: 2026-05-22, updated: 2026-05-24)
       <p>
       <p>Hello friends of Public AI!</p>
 
@@ -192,7 +216,7 @@
     <article data-published="2026-05-22T17:41:18Z" data-link="https://www.osnews.com/story/145054/secure-boot-and-microsoft-ca-rollover-a-heads-up-for-distributions/">
       <h2>Secure boot and Microsoft CA rollover: a heads-up for distributions</h2>
 
-(date: 2026-05-22, updated: 2026-05-23)
+(date: 2026-05-22, updated: 2026-05-24)
       <p>
       <p>We’ve already talked about the secure boot certificates from Microsoft that are about to become invalid, but Debian EFI team member and longtime Debian contributor Steve McIntyre published a blog post with more information for users and distribution developers alike. Why are Microsoft’s secure boot certificates relevant for the Linux world? Well, Linux distributions use shim to provide secure boot functionality, and this shim is signed with Microsoft’s certificates, because they are included in just about every single computer or motherboard ever shipped. The expiration of these oldest certificates should most likely not be a problem, as existing signed binaries should keep working. This is because the UEFI specification does not look at the expiration dates; it only cares that the signature is valid. Unless you have buggy firmware, your machine will continue to boot Linux just fine. Microsoft is already handing out new certificates, but they started the rollout of these way too late, so that’s why it’s an actual issue today. New machines and updated older machines will most likely have all of these new CAs installed. New machines are already shipping that only include the new CAs; they will not trust older software and this has already started causing problems for some users. If you already have an old shim signed by Microsoft for your distribution from before October 2025, then it will only be signed using the older CA that expires soon. On newer machines, your users will already not be able to boot your distro with Secure Boot enabled. If you want your users to be able to use Secure Boot in future, you will need to get a new shim build submitted, reviewed and signed using the new CA. However, that signed build will not work on older machines unless they have had the new CAs installed. This is also likely to cause problems for some users. You should encourage your users to update their systems NOW before things break for them. ↫ Steve McIntyre I think the Linux world will be able to handle this just fine, but the fact that Microsoft started this process of replacement so late is a real shame. I’m by no means an expert in this field, but I wonder if there isn’t some better solution than relying on Microsoft. I understand their certificates will effectively always be installed on every motherboard, but shouldn’t we be able to move that responsibility to a more independent entity?</p>
 
@@ -305,7 +329,7 @@
     <article data-published="2026-05-21T22:04:02Z" data-link="https://www.osnews.com/story/145047/googles-plan-for-ads-in-its-new-ai-chatbot-search-engine-is-to-let-ai-generate-the-ads/">
       <h2>Google’s plan for ads in its new “AI” chatbot search engine is to let “AI” generate the ads</h2>
 
-(date: 2026-05-21, updated: 2026-05-23)
+(date: 2026-05-21, updated: 2026-05-24)
       <p>
       <p>After Google killed its search engine a few days ago, one question remained: how exactly does advertising fit into all of this? Google is obviously not going to move to chatbot search without somehow adding ads to your conversation with the pachinko machine, so everybody was wondering how that was going to work, exactly. Well, we have the answer, and it’s an obvious one. When researching a topic, consumers want to know exactly how a product suits their unique situation. In fact, 75% of people report making faster, more confident decisions using AI Mode in Search. 1 That’s why we’re testing two new types of ads, built with Gemini, that offer relevant product details along with helpful guidance. To help people evaluate their choices, both of these new formats will feature an independent AI explainer as part of the ad. Our Gemini model evaluates and synthesizes information about a product or service, and displays that context alongside the advertiser’s creative. This coherent, independent response ensures transparency and builds trust. These formats will also continue to be clearly labeled as “Sponsored.” ↫ Google’s Ads &amp; Commerce Blog Of course they’re going to just generate the ads with “AI”, too. Google will offer two types of “AI”-generated ads in their new chatbot search tool, the first of which will simply be an “AI”-generated answer to a user’s question. If you ask the Google chatbot “how can I clean my bed sheets of unintended nightly slop discharge?”, Google will generate an ad based on the features of a slopcleaner washing machine detergent product and show that to you. The second type comes in when a user asks something like “what is the best way to kill a search engine?” Google’s chatbot will then show a number of ways to kill a search engine, and one of the items in that list might be an ad generated by Google, alongside the customary unrelated information, wrong information, and made-up nonsense. Google claims both of these types of ads will be labeled as such, but I doubt that small label will be noticed by many, and of course, there’s no way to know any of the other answers the chatbot generates aren’t paid-for either. Here, too, though, we must ask the question what the end game is. This new chatbot search engine is clearly trying to keep you on Google’s website, but in doing so, it’ll deprive large numbers of websites of the traffic they need to survive. If they can’t survive, they’re die. If they’re dead, they can’t produce the content Google “AI” needs to slobber up to spit back out in Google’s chatbot search. Chatbot search is also an agent of its own destruction, because you can’t generate improved slop with nothing but slop. Because, and I can’t repeat this often enough, nobody has ever used “AI” to produce anything of value.</p>
 
@@ -317,7 +341,7 @@
     <article data-published="2026-05-21T21:43:16Z" data-link="https://www.osnews.com/story/145044/twelve-ways-to-be-wrong-about-ai-assisted-coding/">
       <h2>Twelve ways to be wrong about “AI”-assisted coding</h2>
 
-(date: 2026-05-21, updated: 2026-05-23)
+(date: 2026-05-21, updated: 2026-05-24)
       <p>
       <p>Suppose your manager asks you next week to demonstrate that the AI coding tools your company signed up for are worth the subscription cost. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; the sections below explain why. ↫ Greg Wilson Every single study that claims to prove “AI” has a positive effect on productivity falls into one or more of these categories. Again, nobody has ever used “AI” to produce anything of value.</p>
 
@@ -353,7 +377,7 @@
     <article data-published="2026-05-21T21:35:19Z" data-link="https://www.osnews.com/story/145040/ai-tools-are-shitting-where-they-eat/">
       <h2>“AI” tools shit where they eat</h2>
 
-(date: 2026-05-21, updated: 2026-05-23)
+(date: 2026-05-21, updated: 2026-05-24)
       <p>
       <p>The stories of “AI” bots and crawlers absolutely ravaging websites and services keep on coming, and the amount of work people have to do just to survive these “AI” bot and crawler assaults is insane. I run Weird Gloop, which hosts some of the biggest video game wikis ever, like Minecraft, OSRS and League. Over the last 3 years, we’ve had to spend more and more of our time fighting with this bot traffic that is spiky, disproportionately expensive, and getting harder to distinguish from humans. If we weren’t constantly mitigating the bots, they would use ~10x more of our compute resources than everything else put together – even though that “everything else” includes tens of millions of (human) pageviews and tens of thousands of edits a day. Everyone who runs wikis is dealing with the exact same problem. The Wikimedia Foundation has a post about it impacting operations, every major wiki farm has had varying degrees of service outages, and some smaller independent wikis have been knocked completely offline. Overall, I’d guess that about 95% of all server issues in the wiki ecosystem this year have been caused by bad scrapers. ↫ cookmeplox at the Weird Gloop blog “AI” tools are a quintessential example of “shitting where you eat”. All of these tools just suck up huge amounts of content created by actual humans, only to regurgitate bits and pieces of that content upon request according statistical models. If in that process of sucking up everybody’s content, these tools are placing such amounts of undue stress and cost on the people making and hosting that content that said people stop making and hosting such content, where are these “AI” tools going to get their content from next? With every person that throws up their hands in the air in utter frustration as they see they’re hosting bills skyrocket and their sites become unusable, “AI” tools are agents of their own destruction, since ingesting the slop they themselves create only makes these “AI” tools worse. Nobody has ever used “AI” to produce anything of value, after all.</p>
 
@@ -427,7 +451,7 @@
     <article data-published="2026-05-21T19:56:46Z" data-link="https://www.osnews.com/story/145038/setting-up-kde-and-wayland-on-freebsd-15-x/">
       <h2>Setting up KDE and Wayland on FreeBSD 15.x</h2>
 
-(date: 2026-05-21, updated: 2026-05-23)
+(date: 2026-05-21, updated: 2026-05-24)
       <p>
       <p>Since X11 has moved to legacy status, it’s only a matter of time before the BSDs are going to have to make the move to being Wayland-first as well. This applies particularly to FreeBSD, which has been focusing on improving its suitability for desktop and laptops lately. The good news is that Wayland has been available on FreeBSD for a while now, and setting it up with a KDE desktop is a breeze. Dolce Far Niente has a quick and easy guide, updated today, that walks you through the steps of setting up KDE with Wayland on a fresh FreeBSD 15.x installation. I’m keeping this on my to-do list, but I’m not committing yet because we’re getting quite close to the first incentive of the OSNews fundraiser, where I have to install, run, and use vanilla Windows 11 (including Office and Outlook) for a month. No point in setting up FreeBSD when we’re about to hit that incentive. Regardless, this is going to be the future of FreeBSD for desktop and laptop use, so you if you’re already a FreeBSD user, you might as well try and see if Wayland works for you today.</p>
 
@@ -463,7 +487,7 @@
     <article data-published="2026-05-21T18:10:06Z" data-link="https://www.osnews.com/story/145035/firefox-vivaldi-unveil-their-ui-overhauls/">
       <h2>Firefox, Vivaldi unveil their UI overhauls</h2>
 
-(date: 2026-05-21, updated: 2026-05-23)
+(date: 2026-05-21, updated: 2026-05-24)
       <p>
       <p>Two popular web browser are overhauling their user interface, and the first to actually ship its new version is Vivaldi. Version 8.0 of this Chromium-based browser completely overhauls its UI, but retains its extensive customisation options, including the option to go back to the old look and feel if the new one doesn’t float your boat. I wonder if this update addresses some of my long-standing issues with Vivaldi where it just seemed impossible to integrate the browser properly with KDE or GNOME, since it opted for its own fonts and had a ton of very custom UI that made it stand out moreso than even other browser. Before publishing this post, I did a quick install and check, and no, it seems not much has changed in that department. Not everyone will care – in fact, I think most people don’t – but I do, and I do whatever it takes to make my browser look properly native. Any Chromium-based browser is a hard sell in that area, and that applies doubly so for Vivaldi and its long list of custom UI elements. The other popular web browser overhauling its UI is Firefox, which is bringing its new UI to testing now, with an actual release later this year. You can clearly see that both Vivaldi and Firefox seem to be following a similar trend, even if I’m not entirely sure if it has a name yet. The new Firefox design also overhauls the settings page, integrates Mozilla services like its VPN, and brings back the compact mode (which has been hidden behind an about:config flag for years now). My biggest worry is how this will affect Librewolf and the KDE and GNOME themes I use, but it seems we’re going to have more than enough time to figure that out.</p>
 
@@ -656,7 +680,7 @@
     <article data-published="2026-05-20T23:21:31Z" data-link="https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/">
       <h2>Get your passwords out of BitWarden while you still can</h2>
 
-(date: 2026-05-20, updated: 2026-05-23)
+(date: 2026-05-20, updated: 2026-05-24)
       <p>
       <p>I was a long-time Bitwarden user, until a year or so ago when I started migrating my passwords first to Firefox/LibreWolf, and recently from there to a KeePass database I can transfer and use with whatever password manager application is compatible with KeePass’ file format. It seems I was accidentally on time, as it’s come out over the last few days that Bitwarden is probably going down the drain soon. In February, the company got a new CEO, and in March, it doubled its Premium price, announcing the hike deep in a feature announcement. The new CEO seems to be a bellwether for what’s to come for Bitwarden. He’s a merger and acquisitions guy, with a history of gutting companies and selling them for parts, and changes to Bitwarden’s website also indicate where it’s headed. The phrase “Always free” disappeared from the personal password manager page in mid-April. It used to sit prominently under the plan selector. The free plan still exists — for now — but the commitment language is gone. And then there’s the values rewrite. Bitwarden used to define its culture with the acronym GRIT: Gratitude, Responsibility, Inclusion, and Transparency. After May 4th, that changed. GRIT now stands for Gratitude, Responsibility, Innovation, and Trust. Inclusion and Transparency are out. Innovation and Trust are in. ↫ Patrick Boyd The “Always free” motto quietly reappeared on the site after its removal was uncovered and went viral on Fedi. The change in CEO, the changes in values, and the removal (and reappearance) of Bitwarden’s well-known and oft-repeated commitment to its free plan have all been quiet. No announcements, no blog posts, no posts on social media – but they did change a four-year old blog post by Bitwarden’s former CEO to change that GRIT acronym. You don’t need to be an honors student to figure out where this is going, and what the new CEO’s plans are for Bitwarden. Do as I did, and get your passwords out of BitWarden. I strongly suggest using an open format that can be used by any compatible password manager, with KeePass’ formats being the obvious choice. This way your passwords are truly yours, and not dependent on someone’s continued commitment to free plans or proprietary services that can unexpectedly change hands. Bitwarden is licensed under the Apache 2.0 license, but with all of the above, one has to wonder how long that’s going to remain a thing.</p>
 
@@ -692,7 +716,7 @@
     <article data-published="2026-05-20T19:57:46Z" data-link="https://www.osnews.com/story/145027/printing-with-cups-on-openbsd/">
       <h2>Printing with CUPS on OpenBSD</h2>
 
-(date: 2026-05-20, updated: 2026-05-23)
+(date: 2026-05-20, updated: 2026-05-24)
       <p>
       <p>Printing on Linux, macOS, and even on Windows seems to be pretty much a solved problem, but what about printing on OpenBSD? Anyway, to do so I would need to set up my HP OfficeJet printer, connected wirelessly to the network, on OpenBSD. I chose to do this using HPLIP and CUPS as they are both in ports, I am familiar with how they work, and my printer is old enough that its PPD (driver) file is included in the slightly older version of HPLIP that is ported to OpenBSD. However, after installing both packages, starting the relevant services via rcctl including Avahi, and launching CUPS and finding the printer, I could not get it to install properly. Either it would error out at the end saying the printer couldn’t be added and advise me to check the CUPS error log, or it would seemingly successfully add the printer but I couldn’t print anything and couldn’t adjust the printer settings. ↫ Morgan at his blog Only very tangentially related, but my personal crowning achievement in computing is somehow making it possible for my PA-RISC c8000 workstation running HP-UX 11i v1 to print to my modern all-in-one HP printer thing, some random HP consumer junker we bought on a whim because it was a returned item and cheap. It took some messing around, but ever since I’ve been able to just print stuff right from any application on HP-UX over the network, wirelessly. Note that the c8000 and HP-UX 11i v1 are almost two decades out of date compared to the printer, but by trying out promising device files included in HP-UX I managed to get it all to work. I never need it, but I am fairly sure I’m one of the very few people in the world who can reliably print from an HP-UX 11i v1 workstation to a modern throwaway HP junker over Wi-Fi. Put that on my tombstone.</p>
 
@@ -704,9 +728,9 @@
     <article data-published="2026-05-20T19:45:15Z" data-link="https://www.osnews.com/story/145011/osnews-fundrasier-progress/">
       <h2>OSNews fundraiser progress</h2>
 
-(date: 2026-05-20, updated: 2026-05-23)
+(date: 2026-05-20, updated: 2026-05-24)
       <p>
-      <p>⁂ A little progress bar to keep track of our fundraiser! ⁂ ➡️ Donate through Ko-Fi ➡️ Donate through SEPA transfer ➡️ Why a fundraiser? Note that I have to update it manually, and that it includes both Ko-Fi donations, as well as direct bank transfers. Yes, if your country is part of SEPA (EU, more or less), you can now do a safe direct bank transfer using IBAN to a dedicated bank account. This avoids any third parties. Use your bank’s application or website (Name: Thom Holwerda – IBAN: SE08 8000 0820 1684 4657 8414 – BIC: SWEDSESS).</p>
+      <p>⁂ A progress bar to keep track of our fundraiser! ⁂ ➡️ Donate through Ko-Fi ➡️ Donate through SEPA transfer ➡️ Why a fundraiser? Note that I have to update it manually, and that it includes both Ko-Fi donations, as well as direct bank transfers. Yes, if your country is part of SEPA (EU, more or less), you can now do a safe direct bank transfer using IBAN to a dedicated bank account. This avoids any third parties. Use your bank’s application or website (Name: Thom Holwerda – IBAN: SE08 8000 0820 1684 4657 8414 – BIC: SWEDSESS).</p>
 
       <address>
         <a href="https://www.osnews.com/story/145011/osnews-fundrasier-progress/">https://www.osnews.com/story/145011/osnews-fundrasier-progress/</a>
@@ -928,7 +952,7 @@
     <article data-published="2026-05-19T22:57:52Z" data-link="https://www.osnews.com/story/145006/the-virtual-os-museum/">
       <h2>The Virtual OS Museum</h2>
 
-(date: 2026-05-19, updated: 2026-05-23)
+(date: 2026-05-19, updated: 2026-05-24)
       <p>
       <p>This is a virtual museum of operating systems (and standalone applications) running under emulation, implemented as a Linux VM for QEMU, VirtualBox, or UTM. A custom emulator-independent launcher is provided, and all OSes and emulators are pre-installed and pre-configured. The launcher includes a snapshot feature to quickly revert broken installations back to a working state. Hypervisor installers and shortcuts to run the VM on Windows, macOS, and Linux are also included. ↫ Andrew Warkentin’s Virtual OS Museum These types of preconfigured archives exist in the gaming world, but I’ve never seen something like this for operating systems. The amount of love, work, and care that have gone into this effort must’ve been immense, as it contains more than 1700 installs, more than 520 platforms, and more than 570 distinct operating systems, all wrapped into a single download, with a nice launcher on top to make using all of this as easy as possible. You can either download the full offline version at 121GB zipped, or a version that downloads each image as you fire them up for the first time at 14GB zipped. The contents span just about everything from early mainframes to desktop operating systems to all kinds of mobile platforms, from the late 1940s to today. I haven’t yet found the time to download the whole thing, but I am absolutely going to, as there are so many names in here that I’ve been wanting to play around with for ages, but just never got the time to set up virtual machines or emulators for. This is going to be an amazing resource for the kinds of people who read OSNews.</p>
 
@@ -940,7 +964,7 @@
     <article data-published="2026-05-19T21:36:49Z" data-link="https://www.osnews.com/story/145004/google-kills-its-search-engine/">
       <h2>Google kills its search engine</h2>
 
-(date: 2026-05-19, updated: 2026-05-23)
+(date: 2026-05-19, updated: 2026-05-24)
       <p>
       <p>We can inter Google Search to the Google Graveyard. At its Google I/O conference on Tuesday, Google unveiled an AI-powered overhaul of Search centered around a reimagined “intelligent search box” — what the company describes as the biggest change to this entry point to the web since the search box debuted more than 25 years ago. Instead of returning a simple list of links, Google Search will drop users into AI-powered interactive experiences at times. Google is also introducing tools that can dispatch “information agents” to gather information on a user’s behalf, along with tools that let users build personalized mini apps tailored to their needs. ↫ Sarah Perez at TechCrunch The attack on online search has been ongoing for a long time, and it has already resulted in most people with a higher-than-average interest in technology to either no longer use Google, or just to not use online search at all. I used DuckDuckGo for a long time, until I switched to Startpage somewhere last year, and I have never looked back. Startpage (and many others like it) is a very simple, basic search engine: it just gives you a list of links. That’s it. That’s all I ever want from a search engine, as the task of then vetting each link for relevancy, accuracy, trustworthiness, and so on, is up to me, where it very well belongs. I do not want – and the world should not want – a massive technology corporation like Google, with a deeply vested, existential interest in guiding you towards websites from the companies that pay them for ads, to guide your online browsing experience. Google Search is already riddled with ads, but at least they’re labeled and somewhat obvious. With these new “AI” chatbot-style interfaces, not only are its sources nebulous and tucked away, if they even exist at all, but they also just make shit up, fail at the most basic of tasks, and generally just suck at what they’re supposed to be doing. This will make online search with Google worse. Worse yet, this will make it even easier for the billionaire Epstein class to sow dissent among the population, creating rifts and hatred where none should exist, solely to keep the peasants occupied fighting each other so they don’t turn their anger towards the real reason their lives suck. Panem et circenses has transformed into divide et impera, and these nebulous chatbots with complex, invisible levers and dials will only make the divide easier.</p>
 
@@ -952,7 +976,7 @@
     <article data-published="2026-05-19T21:13:49Z" data-link="https://www.osnews.com/story/145000/futhark-by-example/">
       <h2>Futhark by example</h2>
 
-(date: 2026-05-19, updated: 2026-05-23)
+(date: 2026-05-19, updated: 2026-05-24)
       <p>
       <p>The following is a hands-on introduction to Futhark through a collection of commented programs, listed in roughly increasing order of complexity. You can load the programs into the interpreter to experiment with them. For a conventional introduction to the language, Parallel Programming in Futhark may be a better choice. For more examples, you can check our implemented benchmarks. We also maintain a list of projects using Futhark. Some of the example programs use directives for plotting or rendering graphics. ↫ Futhark homepage As a non-programmer, I just think the name is cool.</p>
 
@@ -1108,7 +1132,7 @@
     <article data-published="2026-05-19T17:25:01Z" data-link="https://www.osnews.com/story/144996/openbsd-7-9-released/">
       <h2>OpenBSD 7.9 released</h2>
 
-(date: 2026-05-19, updated: 2026-05-23)
+(date: 2026-05-19, updated: 2026-05-24)
       <p>
       <p>The world’s best BSD (I’m kidding, I love them all equally) has released version 7.9, now available through your update tools and on mirrors the world over. OpenBSD 7.9 brings a ton of changes, fixes, and improvements, such as delayed hibernation support on amd64. This will allow OpenBSD laptops to briefly wake up from sleep, to then immediately drop into hibernation. A small but incredibly welcome change is that sysupgrade will now handle low space on /usr more gracefully, which will make quite a few people who once hit that limit very happy. OpenBSD 7.9 also brings VA-API and open Widevine support to its Chromium (and derivatives) port, and OpenBSD can now run as a guest under Apple’s hypervisor for M-series Macs. There’s initial low-level support for the FUSE API, the maximum support processor count on amd64 has been raised from 64 to 255, there’s improved support for managing complex core configurations in the scheduler, and many more changes. There’s also the usual new versions of LibreSSL and OpenSSH, of course, but that’s a given.</p>
 
@@ -4313,45 +4337,6 @@ We are grateful for your donations and spend …</p>
 
       <address>
         <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/03/bank_of_england_tech_migration/">https://go.theregister.com/feed/www.theregister.com/2026/05/03/bank_of_england_tech_migration/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-02T11:30:07Z" data-link="https://go.theregister.com/feed/www.theregister.com/2026/05/02/local_ai_coding_agents/">
-      <h2>Usage-based pricing killing your vibe - here's how to roll your own local AI coding agents</h2>
-
-(date: 2026-05-02)
-      <p>
-      <h4>Take those token limits and shove them by vibe coding with a local LLM</h4>
-<p>With model devs pushing more aggressive rate limits, raising prices, or even abandoning subscriptions for usage-based pricing, that vibe-coded hobby project is about to get a whole lot more expensive. Fortunately, you're not without cost-saving options.…</p>
-
-      <address>
-        <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/local_ai_coding_agents/">https://go.theregister.com/feed/www.theregister.com/2026/05/02/local_ai_coding_agents/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-02T09:24:07Z" data-link="https://go.theregister.com/feed/www.theregister.com/2026/05/02/dvsa_shrugs_off_outages/">
-      <h2>UK drivers' agency shrugs off claims of week-long booking site smashes, blames browser configs</h2>
-
-(date: 2026-05-02)
-      <p>
-      <h4>Agency insists everything is working fine, even though users spend days failing to load it</h4>
-<p>The DVSA's driving test booking system has spent the week offline, according to frustrated users.…</p>
-
-      <address>
-        <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/dvsa_shrugs_off_outages/">https://go.theregister.com/feed/www.theregister.com/2026/05/02/dvsa_shrugs_off_outages/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-02T08:30:09Z" data-link="https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/">
-      <h2>Brace for the patch tsunami: AI is unearthing decades of buried code debt</h2>
-
-(date: 2026-05-02)
-      <p>
-      <h4>Britain's cyber agency says the bill for years of technical shortcuts is coming due, and it's arriving all at once</h4>
-<p>Britain's cyber agency is warning that AI-fuelled bug hunting is about to flush out years of buried flaws, leaving defenders scrambling to keep up.…</p>
-
-      <address>
-        <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/">https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/</a>
       </address>
     </article>
   </main>

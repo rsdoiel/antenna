@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 May 26 11:14 -0700</lastBuildDate>
+    <lastBuildDate>24 May 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>TERC KIM-1 Interface set</title>
+      <link>http://retro.hansotten.nl/terc-kim-1-interface-set/</link>
+      <description>
+        <![CDATA[A recent acquisition, the TERC (Technical Education Research Centers) KIM-1 Interface set. An educational tool to work with the KIM-1 from the 80ties. The KIM-1 Interface permits easy access to the input/output ports on the KIM-1. Other connections such as power, ground, tape recorder input and input and output are accessible by solderless connectors. See [&#8230;]]]>
+      </description>
+      <source:markdown>A recent acquisition, the TERC (Technical Education Research Centers) KIM-1 Interface set. An educational tool to work with the KIM-1 from the 80ties. The KIM-1 Interface permits easy access to the input/output ports on the KIM-1. Other connections such as power, ground, tape recorder input and input and output are accessible by solderless connectors. See \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=20989</guid>
+    </item>    <item>
+      <title>b.log 2026/05/23 - The dumbest story ever told, Heatwave, Planters, Day of Solidarity, Relaxing, A thought exercise: Seeing radio.</title>
+      <link>https://heyrick.eu/blog/entry/20260523</link>
+      <description>
+        <![CDATA[The dumbest story ever told, Heatwave, Planters, Day of Solidarity, Relaxing, A thought exercise: Seeing radio.]]>
+      </description>
+      <source:markdown>The dumbest story ever told, Heatwave, Planters, Day of Solidarity, Relaxing, A thought exercise: Seeing radio.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260523</guid>
+    </item>    <item>
       <title>b.log 2026/05/22 - Musings on Eurovision.</title>
       <link>https://heyrick.eu/blog/entry/20260522</link>
       <description>
@@ -1294,14 +1310,6 @@ So after all that, if you want to run Mac OS with top performance on the Apple N
 Meanwhile, I&#39;m going to work on a patched version of Mac OS for this machine to fix [the reboot problems in 1.1.20](/2026/01/hands-on-with-two-apple-network-server.html), which I believe should be solveable with some resource hacking. That said, I&#39;m not done with these ROMs just yet: I think Rhapsody, at least, _can_ be made to work but it clearly needs a kernel patch, and I suspect the former Apple employee who got it working on the 2.0 ROMs did just that. Performance might still be hideously bad, but it&#39;s nevertheless another solid Un\*xy option for Apple&#39;s best beige Unix box, and it even has historical value. To be continued if I can get my hands on some Rhapsody source code. Anybody feel leaky? Post in the comments or drop me a line (no worries keeping you anonymous) at ckaiser at floodgap dawt com.</source:markdown>
       <author>noreply@blogger.com (ClassicHasClass)</author>
       <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-377909492668585591</guid>
-    </item>    <item>
-      <title>b.log 2026/05/02 - Dream a little dream, Going Out, Rewiring the fan, Grapes?</title>
-      <link>https://heyrick.eu/blog/entry/20260502</link>
-      <description>
-        <![CDATA[Dream a little dream, Going Out, Rewiring the fan, Grapes?]]>
-      </description>
-      <source:markdown>Dream a little dream, Going Out, Rewiring the fan, Grapes?</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260502</guid>
     </item>
   </channel>
 </rss>

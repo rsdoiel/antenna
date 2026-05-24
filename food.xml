@@ -4,10 +4,43 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>23 May 26 11:14 -0700</lastBuildDate>
+    <lastBuildDate>24 May 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Coffee For Every Pot</title>
+      <link>https://sprudge.com/a-coffee-for-every-pot-1010653.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1010653</guid>
+    </item>    <item>
+      <title>Asparagus Recipes</title>
+      <link>https://www.closetcooking.com/asparagus-recipes/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/05/Amazing-Asparagus-Recipes.jpg"/></div>
+        <p>A collection of the most amazing asparagus recipe! Ever! The local asparagus season is almost here which is great because it&#8217;s one of my favourite foods! Asparagus is one of the first vegetables to show up after a long cold winter so I always enjoy its arrival and eating plenty of it! It is a...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/asparagus-recipes/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/asparagus-recipes/">Asparagus Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2018/05/Amazing-Asparagus-Recipes.jpg)
+
+A collection of the most amazing asparagus recipe! Ever! The local asparagus season is almost here which is great because it’s one of my favourite foods! Asparagus is one of the first vegetables to show up after a long cold winter so I always enjoy its arrival and eating plenty of it! It is a...
+
+[Read On →](https://www.closetcooking.com/asparagus-recipes/)
+
+The post [Asparagus Recipes](https://www.closetcooking.com/asparagus-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/2018/05/20/asparagus-recipes/</guid>
+    </item>    <item>
+      <title>Miso Chicken Thighs</title>
+      <link>https://www.tasteofhome.com/recipes/miso-chicken-thighs/</link>
+      <description>
+        <![CDATA[Don’t let that tub of white miso sit in the back of your fridge. Mix it with butter and use it to make these miso chicken thighs with roasted baby potatoes.]]>
+      </description>
+      <source:markdown>Don’t let that tub of white miso sit in the back of your fridge. Mix it with butter and use it to make these miso chicken thighs with roasted baby potatoes.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2229515</guid>
+    </item>    <item>
       <title>I Just Had the Best Grilling Experience of My Life—Here’s How to Recreate It for Your Next Party</title>
       <link>https://www.tasteofhome.com/article/best-grilling-party-tips/</link>
       <description>
@@ -1808,22 +1841,6 @@ The post [Chicken Picadillo](https://www.closetcooking.com/chicken-picadillo/) a
       <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
       <guid>cid://https://sprudge.com/?p=974392</guid>
     </item>    <item>
-      <title>Spicy Tuna Tostadas</title>
-      <link>https://www.bonappetit.com/recipe/tuna-tostadas</link>
-      <description>
-        <![CDATA[Made with tinned fish and topped with mango and avocado, these vibrant tostadas won't break the bank.]]>
-      </description>
-      <source:markdown>Made with tinned fish and topped with mango and avocado, these vibrant tostadas won&#39;t break the bank.</source:markdown>
-      <guid>cid://69f4d82ae631efc1f9c9f7b3</guid>
-    </item>    <item>
-      <title>These Smoky Tuna Tostadas Are Delightfully Easy (and Cheap)</title>
-      <link>https://www.bonappetit.com/story/its-that-simple-tuna-tostadas-easy-and-cheap</link>
-      <description>
-        <![CDATA[Made with tinned fish, they come together in mere minutes.]]>
-      </description>
-      <source:markdown>Made with tinned fish, they come together in mere minutes.</source:markdown>
-      <guid>cid://69fb709ad2674220513be19d</guid>
-    </item>    <item>
       <title>Breakfast for Dinner Recipes</title>
       <link>https://www.closetcooking.com/breakfast-for-dinner-recipes/</link>
       <description>
@@ -1840,6 +1857,22 @@ It’s often fun to change things up by serving breakfast for dinner! I mean who
 
 The post [Breakfast for Dinner Recipes](https://www.closetcooking.com/breakfast-for-dinner-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2015/09/27/breakfast-for-dinner-recipes/</guid>
+    </item>    <item>
+      <title>Spicy Tuna Tostadas</title>
+      <link>https://www.bonappetit.com/recipe/tuna-tostadas</link>
+      <description>
+        <![CDATA[Made with tinned fish and topped with mango and avocado, these vibrant tostadas won't break the bank.]]>
+      </description>
+      <source:markdown>Made with tinned fish and topped with mango and avocado, these vibrant tostadas won&#39;t break the bank.</source:markdown>
+      <guid>cid://69f4d82ae631efc1f9c9f7b3</guid>
+    </item>    <item>
+      <title>These Smoky Tuna Tostadas Are Delightfully Easy (and Cheap)</title>
+      <link>https://www.bonappetit.com/story/its-that-simple-tuna-tostadas-easy-and-cheap</link>
+      <description>
+        <![CDATA[Made with tinned fish, they come together in mere minutes.]]>
+      </description>
+      <source:markdown>Made with tinned fish, they come together in mere minutes.</source:markdown>
+      <guid>cid://69fb709ad2674220513be19d</guid>
     </item>    <item>
       <title>Carrot Habanero Sauce</title>
       <link>https://pepperscale.com/carrot-habanero-sauce/</link>
@@ -2722,22 +2755,6 @@ The post [Mother’s Day Recipes](https://www.closetcooking.com/21-mothers-day-r
       </description>
       <source:markdown>Like crispy okonomiyaki and sick day soup.</source:markdown>
       <guid>cid://69f35fcf9ddbe105aeb97241</guid>
-    </item>    <item>
-      <title>New Coffee Gear Ahoy!</title>
-      <link>https://sprudge.com/new-coffee-gear-ahoy-957717.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=957717</guid>
-    </item>    <item>
-      <title>Prime Rib Sandwich</title>
-      <link>https://www.tasteofhome.com/recipes/prime-rib-sandwich/</link>
-      <description>
-        <![CDATA[Leftover prime rib has never tasted as good as when it's piled high with buttery sauteed onions and mushrooms, horseradish mayo and peppery arugula on a sturdy roll.]]>
-      </description>
-      <source:markdown>Leftover prime rib has never tasted as good as when it&#39;s piled high with buttery sauteed onions and mushrooms, horseradish mayo and peppery arugula on a sturdy roll.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2225195</guid>
     </item>
   </channel>
 </rss>
