@@ -8,10 +8,18 @@
       Do we really need all those power tools?
     </description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>24 May 26 10:12 -0700</lastBuildDate>
-    <generator>antenna/0.0.24b</generator>
+    <lastBuildDate>25 May 26 06:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Closed for Memorial Day</title>
+      <link>https://blog.lostartpress.com/2026/05/25/closed-for-memorial-day/</link>
+      <description>
+        <![CDATA[A reminder that the Lost Art Press storefront is closed today for Memorial Day. We&#8217;ll be back to regular hours (10 a.m.-2 p.m., Mon., Tue., Wed. &#38; Fri.) as of tomorrow.]]>
+      </description>
+      <source:markdown>A reminder that the Lost Art Press storefront is closed today for Memorial Day. We’ll be back to regular hours (10 a.m.-2 p.m., Mon., Tue., Wed. &#38; Fri.) as of tomorrow.</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70066</guid>
+    </item>    <item>
       <title>The Splinter Report: May 22nd</title>
       <link>https://www.popularwoodworking.com/editors-blog/the-splinter-report-may-22nd/</link>
       <description>
@@ -367,27 +375,6 @@
 
 [Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-270-its-all-about-the-churn/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=696144</guid>
-    </item>    <item>
-      <title>New Model Mandolin: 4</title>
-      <link>https://guitar-maker.blogspot.com/2026/05/new-model-mandolin-4.html</link>
-      <description>
-        <![CDATA[<p><span style="background-color: black; color: white;">The body of the mandolin is now together, so what’s next? In
-        this video, I look at routing the rebate for the purflings and bindings. The
-        purflings take quite a while to fit as there are tricky mitres to cut and the
-        bindings (made from walnut) need to be bent on the bending iron to fit exactly.
-        All good fun! Oh, and a bit about the fretboard too!</span></p>
-        
-        <p class="MsoNormal"><span style="background-color: black; color: white;">Cheers Gary</span><o:p></o:p></p><p class="MsoNormal"></p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/4jK1gAUzPSU" width="320" youtube-src-id="4jK1gAUzPSU"></iframe></div><br /><span style="background-color: black; color: white;"><br /></span><p></p>]]>
-      </description>
-      <source:markdown>The body of the mandolin is now together, so what’s next? In
-this video, I look at routing the rebate for the purflings and bindings. The
-purflings take quite a while to fit as there are tricky mitres to cut and the
-bindings (made from walnut) need to be bent on the bending iron to fit exactly.
-All good fun! Oh, and a bit about the fretboard too!
-
-Cheers Gary</source:markdown>
-      <author>noreply@blogger.com (Gary Nava, Luthier)</author>
-      <guid>cid://tag:blogger.com,1999:blog-32932962.post-8257600338256737284</guid>
     </item>
   </channel>
 </rss>

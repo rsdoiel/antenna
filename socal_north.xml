@@ -7,10 +7,18 @@
       News and posts related to the greater North Los Angeles and adjacent counties.
     </description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>24 May 26 10:13 -0700</lastBuildDate>
-    <generator>antenna/0.0.24b</generator>
+    <lastBuildDate>25 May 26 06:30 -0700</lastBuildDate>
+    <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>California’s ‘groundbreaking’ fast food council lacks a leader, hasn’t met in over a year</title>
+      <link>https://laist.com/news/politics/californias-groundbreaking-fast-food-council-lacks-a-leader-hasnt-met-in-over-a-year</link>
+      <description>
+        <![CDATA[Fast food workers, council members call on Gov. Newsom to appoint a chairperson so the council can meet again.]]>
+      </description>
+      <source:markdown>Fast food workers, council members call on Gov. Newsom to appoint a chairperson so the council can meet again.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-55e9-d7a3-a5df-f7ebba220000</guid>
+    </item>    <item>
       <title>How DemoChicks is helping women of color land well-paying construction jobs</title>
       <link>https://laist.com/news/los-angeles-activities/how-demochicks-is-helping-women-of-color-land-well-paying-construction-jobs</link>
       <description>
@@ -132,7 +140,7 @@ The post [Exclusive: Wife of Hunger Striking Detainee Speaks Out on Inhumane Tre
 The post [Santa Clarita Voices Podcast Welcomes Santa Clarita Valley Sheriff’s Station Captain Brandon Barclay](https://santaclarita.gov/blog/2026/05/22/santa-clarita-voices-podcast-welcomes-santa-clarita-valley-sheriffs-station-captain-brandon-barclay/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8272</guid>
     </item>    <item>
-      <title>Newsom declares emergency in Garden Grove as tank temperature climbs</title>
+      <title>Potential crack in Garden Grove chemical tank could be easing pressure, officials say</title>
       <link>https://laist.com/news/garden-grove-residents-asked-to-evacuate-area-toxic-tank-could-explode</link>
       <description>
         <![CDATA[The tank holds methyl methacrylate, a toxic, highly flammable chemical, officials said. On Saturday, Gov. Gavin Newsom declared a state of emergency.]]>
@@ -2697,46 +2705,6 @@ The post [May at The MAIN: The MAIN Presents a Month Full of Extraordinary Story
       </description>
       <source:markdown>Spaceballs at Griffith Observatory, Netflix is a Joke kicks off, Trolls take over South Coast Botanical Garden and more of the best things to do.</source:markdown>
       <guid>cid://urn:uuid:0000019d-e580-d89e-a3dd-f793e5b60000</guid>
-    </item>    <item>
-      <title>Cal State struck a deal with OpenAI. Some students and faculty refuse to use it</title>
-      <link>https://laist.com/news/education/cal-state-struck-a-deal-with-openai-some-students-and-faculty-refuse-to-use-it</link>
-      <description>
-        <![CDATA[California State University’s $17 million contract with ChatGPT’s maker OpenAI is up for renewal. The jury is still out on how useful is the technology.]]>
-      </description>
-      <source:markdown>California State University’s $17 million contract with ChatGPT’s maker OpenAI is up for renewal. The jury is still out on how useful is the technology.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-ee94-dfbf-abfd-eeff10ab0000</guid>
-    </item>    <item>
-      <title>OC mother charged with manslaughter after son’s fatal e-motorcycle crash</title>
-      <link>https://laist.com/news/oc-woman-whose-teenage-son-allegedly-killed-man-while-riding-an-e-motorcycle-is-charged-with-involuntary-manslaughter</link>
-      <description>
-        <![CDATA[The upgraded charge was filed after the death of the 81-year-old victim.]]>
-      </description>
-      <source:markdown>The upgraded charge was filed after the death of the 81-year-old victim.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-eeb0-d473-a3fd-eebec26b0000</guid>
-    </item>    <item>
-      <title>Hollywood actors reach tentative labor agreement with studios, streamers</title>
-      <link>https://laist.com/news/arts-and-entertainment/hollywood-actors-reach-tentative-labor-agreement-with-studios-streamers</link>
-      <description>
-        <![CDATA[The agreement still needs to be approved by the SAG-AFTRA National Board.]]>
-      </description>
-      <source:markdown>The agreement still needs to be approved by the SAG-AFTRA National Board.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-ee21-d89e-a3dd-fe3348a70000</guid>
-    </item>    <item>
-      <title>Go inside the ruins of a long-forgotten speakeasy near La Crescenta with a raucous history</title>
-      <link>https://laist.com/news/los-angeles-activities/go-inside-the-ruins-of-a-long-forgotten-speakeasy-near-la-crescenta</link>
-      <description>
-        <![CDATA[A century ago, the Verdugo Lodge was a hangout for revelers looking to dodge Prohibition laws.]]>
-      </description>
-      <source:markdown>A century ago, the Verdugo Lodge was a hangout for revelers looking to dodge Prohibition laws.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-dfa6-d4a9-a39f-ffe606090000</guid>
-    </item>    <item>
-      <title>Meet the LA architect who made a virtual replica of the hotel from ‘The Shining’</title>
-      <link>https://laist.com/news/los-angeles-activities/meet-the-la-architect-who-made-a-virtual-replica-of-the-hotel-from-the-shining</link>
-      <description>
-        <![CDATA[Get lost in The Overlook Hotel with a new, downloadable 3D model of the iconic space from Stanley Kubrick’s 1980 film.]]>
-      </description>
-      <source:markdown>Get lost in The Overlook Hotel with a new, downloadable 3D model of the iconic space from Stanley Kubrick’s 1980 film.</source:markdown>
-      <guid>cid://urn:uuid:0000019d-e063-dfbf-abfd-ec6b3b8e0000</guid>
     </item>
   </channel>
 </rss>

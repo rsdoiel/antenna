@@ -4,10 +4,94 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>24 May 26 10:13 -0700</lastBuildDate>
-    <generator>antenna/0.0.24b</generator>
+    <lastBuildDate>25 May 26 06:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Stellar atmospheres : by Cecilia Payne-Gaposchkin</title>
+      <link>https://www.gutenberg.org/ebooks/73996</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The watchers by George H.  Smith</title>
+      <link>https://www.gutenberg.org/ebooks/78738</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sir Piegan passes by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78740</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Four plays by A. A.  Milne</title>
+      <link>https://www.gutenberg.org/ebooks/78748</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The blacker the berry : by Wallace Thurman</title>
+      <link>https://www.gutenberg.org/ebooks/78747</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Four gates : by Amy Le Feuvre</title>
+      <link>https://www.gutenberg.org/ebooks/78742</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Topik : by Aristotle</title>
+      <link>https://www.gutenberg.org/ebooks/78739</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Specimens of the Russian poets, vol. 1 (of 2)</title>
+      <link>https://www.gutenberg.org/ebooks/78744</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Specimens of the Russian poets, vol. 2 (of 2)</title>
+      <link>https://www.gutenberg.org/ebooks/78745</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Harmonium by Wallace Stevens</title>
+      <link>https://www.gutenberg.org/ebooks/78743</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Royal Mint by George Frederick Ansell</title>
+      <link>https://www.gutenberg.org/ebooks/78741</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sweden : by Carl G.  Laurin</title>
+      <link>https://www.gutenberg.org/ebooks/78746</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>An unmarried father : by Floyd Dell</title>
       <link>https://www.gutenberg.org/ebooks/78732</link>
       <description>
@@ -1514,78 +1598,6 @@
       <source:markdown>An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/ring-lardner_gullibles-travels.epub?source=feed" length="580776" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</guid>
-    </item>    <item>
-      <title>The Adventures of Sally, by P. G. Wodehouse</title>
-      <link>https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally</link>
-      <description>
-        <![CDATA[A young woman comes into an inheritance, loses it all, and finds love along the way.]]>
-      </description>
-      <source:markdown>A young woman comes into an inheritance, loses it all, and finds love along the way.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally/downloads/p-g-wodehouse_the-adventures-of-sally.epub?source=feed" length="593356" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally</guid>
-    </item>    <item>
-      <title>The letters of Madame de Sévigné : by marquise de Marie de Rabutin-Chantal Sévigné</title>
-      <link>https://www.gutenberg.org/ebooks/78579</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Murder by the clock by Rufus King</title>
-      <link>https://www.gutenberg.org/ebooks/75500</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Partners of the tide by Joseph Crosby Lincoln</title>
-      <link>https://www.gutenberg.org/ebooks/78581</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Adventures in Patagonia : by Titus Coan</title>
-      <link>https://www.gutenberg.org/ebooks/78582</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Vanha pappi : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78584</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Het intieme leven der vogels by Jac. P.  Thijsse</title>
-      <link>https://www.gutenberg.org/ebooks/78580</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>The medicine-man by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78587</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>50 years at ringside by Nat Fleischer</title>
-      <link>https://www.gutenberg.org/ebooks/78585</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Utopia yarn book : by Elsa Schappel Barsaloux</title>
-      <link>https://www.gutenberg.org/ebooks/78583</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

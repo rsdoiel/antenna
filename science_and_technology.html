@@ -2,8 +2,8 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8" >
-  <meta name="generator" content="antenna/0.0.24b" >
-  <meta name="date" content="2026-05-24T10:13:01-07:00" >
+  <meta name="generator" content="antenna/0.0.24" >
+  <meta name="date" content="2026-05-25T06:43:25-07:00" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>Science and Technology</title>
   <link rel="stylesheet" href="css/site.css" >
@@ -44,10 +44,40 @@
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content">
 
+    <article data-published="2026-05-25T07:00:00Z" data-link="https://www.npr.org/2026/05/25/nx-s1-5833198/the-magic-and-science-of-synchronous-fireflies">
+      <h2>The magic — and science — of synchronous fireflies</h2>
+
+(date: 2026-05-25)
+      <p>
+      <p>Every year for two weeks between mid-May and mid-June, <a href="https://www.nps.gov/cong/fireflies.htm">Congaree National Park</a> in South Carolina is home to a fairy-tale-like display of flashing lights. These rhythmic performances happen all because of thousands of fireflies, flashing their belly lanterns at exactly the same time. According to the National Park Service, there are just three species of these synchronous fireflies in North America, making the experience all the more magical for the lucky visitors who get the chance to see them. (encore)</p>
+<p><strong>This story was originally reported for NPR by science correspondent <a href="https://www.npr.org/people/729920828/pien-huang">Pien Huang</a>. Read Pien's full story</strong> <a href="https://www.npr.org/2024/05/24/g-s1-935/synchronous-fireflies-congaree-endangered"><strong>here</strong></a> <strong>.</strong></p>
+<p><em>Want more of the science behind wildlife wonders? Email us at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
+<p><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at</em> <a href="http://plus.npr.org/shortwave"><em>plus.npr.org/shortwave</em></a> <em>.</em></p>
+<p><em>Today's episode was produced by Rachel Carlson. It was edited by Berly McCoy. Pien checked the facts. Kwesi Lee was the audio engineer.</em></p>
+<p>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.</p>
+<p><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a></p>
+
+      <address>
+        <a href="https://www.npr.org/2026/05/25/nx-s1-5833198/the-magic-and-science-of-synchronous-fireflies">https://www.npr.org/2026/05/25/nx-s1-5833198/the-magic-and-science-of-synchronous-fireflies</a>
+      </address>
+    </article>
+
+    <article data-published="2026-05-24T15:05:26Z" data-link="https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/">
+      <h2>Flatpak will depend on systemd</h2>
+
+(date: 2026-05-24, updated: 2026-05-25)
+      <p>
+      <p>If you visit the Flatpak website today, it lists, as the very first advantage of the project: “Build for every distro: create one app and distribute it to the entire Linux desktop market.” If you then move on to the list of supported distributions, you’ll see the usual suspects, but also distributions like Void Linux, Guix, and Alpine. These last three all have one thing in common: they use an init system other than systemd, because Flatpak doesn’t care what init system you use. It seems that for the next major version of Flatpak, however, that’s going to change: systemd will probably become a dependency for Flatpak. Speaking at the Linux App Summit, Arian Vovk and Sebastian Wick held a great talk about the future of Flatpak. The current version of Flatpak will continue to see a ton of improvements, but at the same time, the limits of what can be done with its decades-old design have become harder and harder to work around. As such, they’re also planning for and working on what they call Flatpak Next, or perhaps Flatpak 2.0, which is effectively a rewrite of Flatpak based on what they’ve learned over the years, making use of modern technologies and ideas that have gained ground since the initial design of Flatpak 1.x. It’s important to note that everything discussed during the talk is planning, and not a single line of code has been written yet. This means that all of these plans are subject to change, and as the work progresses over the coming years, the end result may turn out very different from what’s been detailed in the talk. In addition, and I can’t stress this enough: if anything in this discussion gives you even the smallest of inklings to go and harass, attack, insult, or otherwise bother anyone involved in Flatpak, systemd, or related technologies, please be so kind as to book an appointment for a yoga class or whatever. It seems like you need it. Right at the onset of the talk, Vovk and Wick explain that they want to move the permission management from Flatpak into the service layer, through a new service called systemd-appd. Systemd-appd gives applications an identifier and stores their permissions, and then this data can be queried by the rest of the system. In turn, this enables a slew of other features, not least of which is subsandboxing. At the moment, the plan is to introduce this feature in the current version of Flatpak, thereby introducing a dependency on systemd into Flatpak. From what I understand from Vovk, they were intending to be “super considerate” of distributions and people not using systemd, which I take to mean we’d eventually end up in a situation very similar to systemd-logind, which was extracted from systemd into a separate daemon, elogind, so that distributions using other init systems could still make use of desktop environments depending on systemd-logind. I imagine Flatpak developers wanted to make as many affordances as realistically possible for something similar to happen to systemd-appd, thus ensuring Flatpak would remain available on distributions not using systemd. Obviously, people who are using distributions like Void or Alpine were concerned about the future of Flatpak on their systems. If Flatpak gains a hard dependency on systemd, Flatpak would no longer work on distributions without systemd, so the talk raised questions – sadly, it seems the questions were directed at someone not technically involved with Flatpak development, and his replies were not particularly helpful and often just downright insulting and inflammatory. Even though he’s not involved in Flatpak development, enough people assumed that he was, and a toxic brew stirred. Users with genuine, friendly questions about the future of Flatpak on their systems were met with derision and insults, and it spiraled out of control from there, drawing in the rabid anti-systemd Red Hat conspiracy lunatics (and worse). Things got progressively worse for everyone involved, particularly for Flatpak’s developers. And so we ended up at the situation where everyone’s mad and Flatpak’s developers are “not feeling inclined to spend time on that shit anymore” when it comes to accommodating and making affordances for distributions and people not using systemd. The end result will most likely be that any future Flatpak dependency on systemd will be stricter, and making any independent elogind-like daemon will be much harder than it was going to be. Nobody wins, everybody loses, all because some people thought it necessary and productive to be insulting and inflammatory. As things currently stands, it’s very likely that over the coming years, Flatpak will gain a dependency on systemd, possibly without any affordances for an independent daemon to replicate systemd-appd functionality on distributions that do not use systemd. In other words, Flatpak would no longer be able to boast that it enables “Build for every distro: create one app and distribute it to the entire Linux desktop market.”, as it would no longer be distribution-agnostic. And that’s a shame, because Flatpak fills a real need for users, regardless of whatever init system they use. Which is apparently something some people base their entire identity on, because they’re weirdos.</p>
+
+      <address>
+        <a href="https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/">https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/</a>
+      </address>
+    </article>
+
     <article data-published="2026-05-23T23:36:51Z" data-link="https://www.osnews.com/story/145069/long-term-support-does-not-mean-what-you-think-it-does/">
       <h2>“Long-term support” does not mean what you think it does</h2>
 
-(date: 2026-05-23, updated: 2026-05-24)
+(date: 2026-05-23, updated: 2026-05-25)
       <p>
       <p>You may think you know what “long-term support” means when picking a Linux distribution and version, but judging by the multitude of utterly wrong takes and deeply confused users I come across online, I’m starting to get the feeling that in fact, no, you don’t know what it means. KDE’s Nate Graham is seeing the same confusion, and has published a blog post going over what LTS really means in the Linux world. People seem to think that an LTS release means it’s going to be more stable, have fewer bugs, and receive support for a certain set period of time. The reality is that only that last one really applies, sort-of. LTS generally means you’re going to be using a Linux distribution version where you’ll get security fixes and possibly maintenance updates for a set number of years, but you won’t be getting updates with new features or other updates that aren’t security fixes. The purpose of an LTS release is to more or less freeze itself and its packages in time, so that users know exactly what they’re getting. However, part of being frozen in time means any bugs, crashes, and hardware support are also frozen in time. The end result is that LTS releases will often have wildly outdated package versions, and those outdated package versions will most likely contain a ton of bugs and issues that have long been fixed in subsequent releases – subsequent releases you’re not getting, because you’re on an LTS release. LTS releases are fairly stable and reliable as long as you use the most popular software from their included software repositories. So in the circumstances when this stops being the case, I think sometimes people can feel betrayed. They think, “I thought this was supposed to be stable! Why didn’t anyone fix this bug yet? Where’s my long-term support?” But Debian, Ubuntu, and Kubuntu never promised any level of stability, reliability, or absence of bugs. They promised that the version-locked software in their repos would receive security fixes for a certain number of years. Ubuntu and Kubuntu also offered a certain amount of non-guaranteed best-effort hardware compatibility improvements and non-security bug fixes. ↫ Nate Graham This causes major problems for upstream developers. People who use an LTS release will be using versions of packages that are out of date and full of bugs that have already been fixed in later versions, but they don’t know that, so they end up reporting these old bugs that have been fixed ages ago as if they’re new. If you’re an LTS user and you experience a persistent bug and subsequent crash in Kwin, you’re most likely going to complain at the Kwin developers, even if the Kwin developers have already fixed this bug 18 months ago. Every week there’s at least a few developers in my Fedi timeline rolling their eyes at Debian users reporting bugs fixed ages ago and getting mad when told they should complain at Debian developers for not backporting the fix. So many LTS users seem to think that LTS equals increased stability, fewer bugs, and fewer crashes, but that’s just not what LTS is for or what it claims to offer. Sticking to specific (major) versions of packages means not you’re not only missing out on new features and changes – which might be desirable for you – but also on bug fixes. With LTS, as they say, the bugs are also stable.</p>
 
@@ -59,7 +89,7 @@
     <article data-published="2026-05-23T22:03:03Z" data-link="https://www.osnews.com/story/145066/gnutella-a-protocol-outliving-the-world-that-created-it/">
       <h2>Gnutella: a protocol outliving the world that created it</h2>
 
-(date: 2026-05-23, updated: 2026-05-24)
+(date: 2026-05-23, updated: 2026-05-25)
       <p>
       <p>Now that’s a name I haven’t heard in a long time. Gnutella is a file sharing protocol that many have forgotten and it has the story of a decentralized technology adopted by millions of casual users who did not care to learn what a peer-to-peer system was. Users showed up because the protocol solved real problems at scale and the solution just so happened to be decentralized. No one ever pretended to use Gnutella in hopes their GnutellaCoinTM would go up in value later. They just downloaded MP3s. The network exploded in popularity, then plateaued for almost a decade, then settled into a permanent long tail state of continued but diminished use. Welcome to my overly enthusiastic love letter to Gnutella. ↫ Rick Carlino I genuinely didn’t know – or I had forgotten, more likely – that Gnutella formed the backbone of LimeWire, another name I haven’t heard in a long time. I’m quite sure I used LimeWire over 25 years ago, but details are fuzzy and I might be confusing it with other filesharing networks of a similar vintage. I was an avid CD buyer and MiniDisc user (I used MD well into the smartphone age), so I didn’t have much need for downloading MP3s. Gnutella is also apparently still active, and there are still clients you can download and use. Of course, it’s a mere shadow of its former self, but this, too, was news to me. I’m kind of inclined to see if it’s still hosting MP3s.</p>
 
@@ -155,7 +185,7 @@
     <article data-published="2026-05-22T19:00:40Z" data-link="https://www.osnews.com/story/145056/migrating-from-ubuntu-16-04-to-freebsd/">
       <h2>Migrating from Ubuntu 16.04 to FreeBSD</h2>
 
-(date: 2026-05-22, updated: 2026-05-24)
+(date: 2026-05-22, updated: 2026-05-25)
       <p>
       <p>Bruno Croci’s blog had been running on Ubuntu 16.04 for a long time, well past the Linux distribution’s expiration date. As such, it was time to upgrade, but instead of opting for something standard like another Ubuntu release, he opted for FreeBSD instead. This blog has been running on a Digital Ocean VPS for over ten years. A machine hosted in New York City, running Ubuntu 16.04 LTS. An LTS that hasn’t been in support for at least 5 years. It was about time to change it. After some considerations, I migrated to a Hetzner virtual machine that is way better than my old Ubuntu one, less than half the price of what I used to pay, and just across the country from me. Not only that, but I took the challenge to move my stack to FreeBSD. It’s a long text, but stay for a cool introduction of FreeBSD Jails with Bastille and some interesting site load benchmarks. ↫ Bruno Croci I absolutely adore the recent surge in people (re)discovering the BSDs as a valid alternative to Linux in both the server and desktop space. In this particular case, it was FreeBSD’s Jails and ZFS support that won Corci over, and it’s easy to see why. While there are countless alternatives to Jails in the Linux world, ZFS is harder to come by as it can’t be part of the kernel due to licensing issues. With how powerful and capable ZFS is, it makes sense to want to use it on your server, and in that case, FreeBSD is probably a better choice than most Linux distributions. There are countless reasons to choose one of the BSDs over a Linux distribution, and I’m glad we’re seeing an uptick.</p>
 
@@ -167,7 +197,7 @@
     <article data-published="2026-05-22T18:49:54Z" data-link="https://publicai.substack.com/p/public-ai-network-q4-2025-roundup">
       <h2>Public AI Network : Q4 2025 Roundup</h2>
 
-(date: 2026-05-22, updated: 2026-05-24)
+(date: 2026-05-22, updated: 2026-05-25)
       <p>
       <p>Hello friends of Public AI!</p>
 
@@ -215,7 +245,7 @@
     <article data-published="2026-05-22T17:41:18Z" data-link="https://www.osnews.com/story/145054/secure-boot-and-microsoft-ca-rollover-a-heads-up-for-distributions/">
       <h2>Secure boot and Microsoft CA rollover: a heads-up for distributions</h2>
 
-(date: 2026-05-22, updated: 2026-05-24)
+(date: 2026-05-22, updated: 2026-05-25)
       <p>
       <p>We’ve already talked about the secure boot certificates from Microsoft that are about to become invalid, but Debian EFI team member and longtime Debian contributor Steve McIntyre published a blog post with more information for users and distribution developers alike. Why are Microsoft’s secure boot certificates relevant for the Linux world? Well, Linux distributions use shim to provide secure boot functionality, and this shim is signed with Microsoft’s certificates, because they are included in just about every single computer or motherboard ever shipped. The expiration of these oldest certificates should most likely not be a problem, as existing signed binaries should keep working. This is because the UEFI specification does not look at the expiration dates; it only cares that the signature is valid. Unless you have buggy firmware, your machine will continue to boot Linux just fine. Microsoft is already handing out new certificates, but they started the rollout of these way too late, so that’s why it’s an actual issue today. New machines and updated older machines will most likely have all of these new CAs installed. New machines are already shipping that only include the new CAs; they will not trust older software and this has already started causing problems for some users. If you already have an old shim signed by Microsoft for your distribution from before October 2025, then it will only be signed using the older CA that expires soon. On newer machines, your users will already not be able to boot your distro with Secure Boot enabled. If you want your users to be able to use Secure Boot in future, you will need to get a new shim build submitted, reviewed and signed using the new CA. However, that signed build will not work on older machines unless they have had the new CAs installed. This is also likely to cause problems for some users. You should encourage your users to update their systems NOW before things break for them. ↫ Steve McIntyre I think the Linux world will be able to handle this just fine, but the fact that Microsoft started this process of replacement so late is a real shame. I’m by no means an expert in this field, but I wonder if there isn’t some better solution than relying on Microsoft. I understand their certificates will effectively always be installed on every motherboard, but shouldn’t we be able to move that responsibility to a more independent entity?</p>
 
@@ -299,7 +329,7 @@
     <article data-published="2026-05-22T07:00:00Z" data-link="https://www.npr.org/2026/05/22/nx-s1-5777691/science-tree-fishing-solution-climate">
       <h2>The supertree shielding coastlines and storing carbon</h2>
 
-(date: 2026-05-22)
+(date: 2026-05-22, updated: 2026-05-25)
       <p>
       <p>Coastal fishing communities around the world are struggling with declining fish stocks. That’s because of climate change, environmental degradation and overfishing. But one tree – the humble mangrove – has a superpower that’s supporting healthy fisheries in many parts of the world. The majority of fishes we eat <em>worldwide</em> are supported by mangroves: Their roots serve as a nursery for baby fish. So, today on the show, two reporters travel to Cambodia, where they discover why a local fishing solution now plays a crucial role in slowing global warming.</p>
 <p><a href="https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia"><strong>Read more</strong></a> <strong>about Rebecca Hersher and Ryan Kellman’s journey here (and check out their incredible photos).</strong></p>
@@ -328,7 +358,7 @@
     <article data-published="2026-05-21T22:04:02Z" data-link="https://www.osnews.com/story/145047/googles-plan-for-ads-in-its-new-ai-chatbot-search-engine-is-to-let-ai-generate-the-ads/">
       <h2>Google’s plan for ads in its new “AI” chatbot search engine is to let “AI” generate the ads</h2>
 
-(date: 2026-05-21, updated: 2026-05-24)
+(date: 2026-05-21, updated: 2026-05-25)
       <p>
       <p>After Google killed its search engine a few days ago, one question remained: how exactly does advertising fit into all of this? Google is obviously not going to move to chatbot search without somehow adding ads to your conversation with the pachinko machine, so everybody was wondering how that was going to work, exactly. Well, we have the answer, and it’s an obvious one. When researching a topic, consumers want to know exactly how a product suits their unique situation. In fact, 75% of people report making faster, more confident decisions using AI Mode in Search. 1 That’s why we’re testing two new types of ads, built with Gemini, that offer relevant product details along with helpful guidance. To help people evaluate their choices, both of these new formats will feature an independent AI explainer as part of the ad. Our Gemini model evaluates and synthesizes information about a product or service, and displays that context alongside the advertiser’s creative. This coherent, independent response ensures transparency and builds trust. These formats will also continue to be clearly labeled as “Sponsored.” ↫ Google’s Ads &amp; Commerce Blog Of course they’re going to just generate the ads with “AI”, too. Google will offer two types of “AI”-generated ads in their new chatbot search tool, the first of which will simply be an “AI”-generated answer to a user’s question. If you ask the Google chatbot “how can I clean my bed sheets of unintended nightly slop discharge?”, Google will generate an ad based on the features of a slopcleaner washing machine detergent product and show that to you. The second type comes in when a user asks something like “what is the best way to kill a search engine?” Google’s chatbot will then show a number of ways to kill a search engine, and one of the items in that list might be an ad generated by Google, alongside the customary unrelated information, wrong information, and made-up nonsense. Google claims both of these types of ads will be labeled as such, but I doubt that small label will be noticed by many, and of course, there’s no way to know any of the other answers the chatbot generates aren’t paid-for either. Here, too, though, we must ask the question what the end game is. This new chatbot search engine is clearly trying to keep you on Google’s website, but in doing so, it’ll deprive large numbers of websites of the traffic they need to survive. If they can’t survive, they’re die. If they’re dead, they can’t produce the content Google “AI” needs to slobber up to spit back out in Google’s chatbot search. Chatbot search is also an agent of its own destruction, because you can’t generate improved slop with nothing but slop. Because, and I can’t repeat this often enough, nobody has ever used “AI” to produce anything of value.</p>
 
@@ -340,7 +370,7 @@
     <article data-published="2026-05-21T21:43:16Z" data-link="https://www.osnews.com/story/145044/twelve-ways-to-be-wrong-about-ai-assisted-coding/">
       <h2>Twelve ways to be wrong about “AI”-assisted coding</h2>
 
-(date: 2026-05-21, updated: 2026-05-24)
+(date: 2026-05-21, updated: 2026-05-25)
       <p>
       <p>Suppose your manager asks you next week to demonstrate that the AI coding tools your company signed up for are worth the subscription cost. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way; the sections below explain why. ↫ Greg Wilson Every single study that claims to prove “AI” has a positive effect on productivity falls into one or more of these categories. Again, nobody has ever used “AI” to produce anything of value.</p>
 
@@ -376,7 +406,7 @@
     <article data-published="2026-05-21T21:35:19Z" data-link="https://www.osnews.com/story/145040/ai-tools-are-shitting-where-they-eat/">
       <h2>“AI” tools shit where they eat</h2>
 
-(date: 2026-05-21, updated: 2026-05-24)
+(date: 2026-05-21, updated: 2026-05-25)
       <p>
       <p>The stories of “AI” bots and crawlers absolutely ravaging websites and services keep on coming, and the amount of work people have to do just to survive these “AI” bot and crawler assaults is insane. I run Weird Gloop, which hosts some of the biggest video game wikis ever, like Minecraft, OSRS and League. Over the last 3 years, we’ve had to spend more and more of our time fighting with this bot traffic that is spiky, disproportionately expensive, and getting harder to distinguish from humans. If we weren’t constantly mitigating the bots, they would use ~10x more of our compute resources than everything else put together – even though that “everything else” includes tens of millions of (human) pageviews and tens of thousands of edits a day. Everyone who runs wikis is dealing with the exact same problem. The Wikimedia Foundation has a post about it impacting operations, every major wiki farm has had varying degrees of service outages, and some smaller independent wikis have been knocked completely offline. Overall, I’d guess that about 95% of all server issues in the wiki ecosystem this year have been caused by bad scrapers. ↫ cookmeplox at the Weird Gloop blog “AI” tools are a quintessential example of “shitting where you eat”. All of these tools just suck up huge amounts of content created by actual humans, only to regurgitate bits and pieces of that content upon request according statistical models. If in that process of sucking up everybody’s content, these tools are placing such amounts of undue stress and cost on the people making and hosting that content that said people stop making and hosting such content, where are these “AI” tools going to get their content from next? With every person that throws up their hands in the air in utter frustration as they see they’re hosting bills skyrocket and their sites become unusable, “AI” tools are agents of their own destruction, since ingesting the slop they themselves create only makes these “AI” tools worse. Nobody has ever used “AI” to produce anything of value, after all.</p>
 
@@ -450,7 +480,7 @@
     <article data-published="2026-05-21T19:56:46Z" data-link="https://www.osnews.com/story/145038/setting-up-kde-and-wayland-on-freebsd-15-x/">
       <h2>Setting up KDE and Wayland on FreeBSD 15.x</h2>
 
-(date: 2026-05-21, updated: 2026-05-24)
+(date: 2026-05-21, updated: 2026-05-25)
       <p>
       <p>Since X11 has moved to legacy status, it’s only a matter of time before the BSDs are going to have to make the move to being Wayland-first as well. This applies particularly to FreeBSD, which has been focusing on improving its suitability for desktop and laptops lately. The good news is that Wayland has been available on FreeBSD for a while now, and setting it up with a KDE desktop is a breeze. Dolce Far Niente has a quick and easy guide, updated today, that walks you through the steps of setting up KDE with Wayland on a fresh FreeBSD 15.x installation. I’m keeping this on my to-do list, but I’m not committing yet because we’re getting quite close to the first incentive of the OSNews fundraiser, where I have to install, run, and use vanilla Windows 11 (including Office and Outlook) for a month. No point in setting up FreeBSD when we’re about to hit that incentive. Regardless, this is going to be the future of FreeBSD for desktop and laptop use, so you if you’re already a FreeBSD user, you might as well try and see if Wayland works for you today.</p>
 
@@ -486,7 +516,7 @@
     <article data-published="2026-05-21T18:10:06Z" data-link="https://www.osnews.com/story/145035/firefox-vivaldi-unveil-their-ui-overhauls/">
       <h2>Firefox, Vivaldi unveil their UI overhauls</h2>
 
-(date: 2026-05-21, updated: 2026-05-24)
+(date: 2026-05-21, updated: 2026-05-25)
       <p>
       <p>Two popular web browser are overhauling their user interface, and the first to actually ship its new version is Vivaldi. Version 8.0 of this Chromium-based browser completely overhauls its UI, but retains its extensive customisation options, including the option to go back to the old look and feel if the new one doesn’t float your boat. I wonder if this update addresses some of my long-standing issues with Vivaldi where it just seemed impossible to integrate the browser properly with KDE or GNOME, since it opted for its own fonts and had a ton of very custom UI that made it stand out moreso than even other browser. Before publishing this post, I did a quick install and check, and no, it seems not much has changed in that department. Not everyone will care – in fact, I think most people don’t – but I do, and I do whatever it takes to make my browser look properly native. Any Chromium-based browser is a hard sell in that area, and that applies doubly so for Vivaldi and its long list of custom UI elements. The other popular web browser overhauling its UI is Firefox, which is bringing its new UI to testing now, with an actual release later this year. You can clearly see that both Vivaldi and Firefox seem to be following a similar trend, even if I’m not entirely sure if it has a name yet. The new Firefox design also overhauls the settings page, integrates Mozilla services like its VPN, and brings back the compact mode (which has been hidden behind an about:config flag for years now). My biggest worry is how this will affect Librewolf and the KDE and GNOME themes I use, but it seems we’re going to have more than enough time to figure that out.</p>
 
@@ -546,7 +576,7 @@
     <article data-published="2026-05-21T16:00:17Z" data-link="https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/">
       <h2>NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI</h2>
 
-(date: 2026-05-21, updated: 2026-05-23)
+(date: 2026-05-21, updated: 2026-05-24)
       <p>
       <p>At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI factories and scaling infrastructure to agentic and physical AI and more.</p>
 
@@ -643,7 +673,7 @@
     <article data-published="2026-05-21T13:00:22Z" data-link="https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/">
       <h2>License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle</h2>
 
-(date: 2026-05-21, updated: 2026-05-23)
+(date: 2026-05-21, updated: 2026-05-24)
       <p>
       <p>The mission begins now. GeForce NOW is dialing up the action with a blockbuster mix of spy thrills, high-speed racing and member rewards — plus eight new games joining the cloud this week, all ready to stream instantly. Leading the drop: the 007 First Light Ultimate Membership Bundle, which brings a brand-new way to jump […]</p>
 
@@ -679,7 +709,7 @@
     <article data-published="2026-05-20T23:21:31Z" data-link="https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/">
       <h2>Get your passwords out of BitWarden while you still can</h2>
 
-(date: 2026-05-20, updated: 2026-05-24)
+(date: 2026-05-20, updated: 2026-05-25)
       <p>
       <p>I was a long-time Bitwarden user, until a year or so ago when I started migrating my passwords first to Firefox/LibreWolf, and recently from there to a KeePass database I can transfer and use with whatever password manager application is compatible with KeePass’ file format. It seems I was accidentally on time, as it’s come out over the last few days that Bitwarden is probably going down the drain soon. In February, the company got a new CEO, and in March, it doubled its Premium price, announcing the hike deep in a feature announcement. The new CEO seems to be a bellwether for what’s to come for Bitwarden. He’s a merger and acquisitions guy, with a history of gutting companies and selling them for parts, and changes to Bitwarden’s website also indicate where it’s headed. The phrase “Always free” disappeared from the personal password manager page in mid-April. It used to sit prominently under the plan selector. The free plan still exists — for now — but the commitment language is gone. And then there’s the values rewrite. Bitwarden used to define its culture with the acronym GRIT: Gratitude, Responsibility, Inclusion, and Transparency. After May 4th, that changed. GRIT now stands for Gratitude, Responsibility, Innovation, and Trust. Inclusion and Transparency are out. Innovation and Trust are in. ↫ Patrick Boyd The “Always free” motto quietly reappeared on the site after its removal was uncovered and went viral on Fedi. The change in CEO, the changes in values, and the removal (and reappearance) of Bitwarden’s well-known and oft-repeated commitment to its free plan have all been quiet. No announcements, no blog posts, no posts on social media – but they did change a four-year old blog post by Bitwarden’s former CEO to change that GRIT acronym. You don’t need to be an honors student to figure out where this is going, and what the new CEO’s plans are for Bitwarden. Do as I did, and get your passwords out of BitWarden. I strongly suggest using an open format that can be used by any compatible password manager, with KeePass’ formats being the obvious choice. This way your passwords are truly yours, and not dependent on someone’s continued commitment to free plans or proprietary services that can unexpectedly change hands. Bitwarden is licensed under the Apache 2.0 license, but with all of the above, one has to wonder how long that’s going to remain a thing.</p>
 
@@ -715,7 +745,7 @@
     <article data-published="2026-05-20T19:57:46Z" data-link="https://www.osnews.com/story/145027/printing-with-cups-on-openbsd/">
       <h2>Printing with CUPS on OpenBSD</h2>
 
-(date: 2026-05-20, updated: 2026-05-24)
+(date: 2026-05-20, updated: 2026-05-25)
       <p>
       <p>Printing on Linux, macOS, and even on Windows seems to be pretty much a solved problem, but what about printing on OpenBSD? Anyway, to do so I would need to set up my HP OfficeJet printer, connected wirelessly to the network, on OpenBSD. I chose to do this using HPLIP and CUPS as they are both in ports, I am familiar with how they work, and my printer is old enough that its PPD (driver) file is included in the slightly older version of HPLIP that is ported to OpenBSD. However, after installing both packages, starting the relevant services via rcctl including Avahi, and launching CUPS and finding the printer, I could not get it to install properly. Either it would error out at the end saying the printer couldn’t be added and advise me to check the CUPS error log, or it would seemingly successfully add the printer but I couldn’t print anything and couldn’t adjust the printer settings. ↫ Morgan at his blog Only very tangentially related, but my personal crowning achievement in computing is somehow making it possible for my PA-RISC c8000 workstation running HP-UX 11i v1 to print to my modern all-in-one HP printer thing, some random HP consumer junker we bought on a whim because it was a returned item and cheap. It took some messing around, but ever since I’ve been able to just print stuff right from any application on HP-UX over the network, wirelessly. Note that the c8000 and HP-UX 11i v1 are almost two decades out of date compared to the printer, but by trying out promising device files included in HP-UX I managed to get it all to work. I never need it, but I am fairly sure I’m one of the very few people in the world who can reliably print from an HP-UX 11i v1 workstation to a modern throwaway HP junker over Wi-Fi. Put that on my tombstone.</p>
 
@@ -727,7 +757,7 @@
     <article data-published="2026-05-20T19:45:15Z" data-link="https://www.osnews.com/story/145011/osnews-fundrasier-progress/">
       <h2>OSNews fundraiser progress</h2>
 
-(date: 2026-05-20, updated: 2026-05-24)
+(date: 2026-05-20, updated: 2026-05-25)
       <p>
       <p>⁂ A progress bar to keep track of our fundraiser! ⁂ ➡️ Donate through Ko-Fi ➡️ Donate through SEPA transfer ➡️ Why a fundraiser? Note that I have to update it manually, and that it includes both Ko-Fi donations, as well as direct bank transfers. Yes, if your country is part of SEPA (EU, more or less), you can now do a safe direct bank transfer using IBAN to a dedicated bank account. This avoids any third parties. Use your bank’s application or website (Name: Thom Holwerda – IBAN: SE08 8000 0820 1684 4657 8414 – BIC: SWEDSESS).</p>
 
@@ -922,7 +952,7 @@
     <article data-published="2026-05-20T07:00:00Z" data-link="https://www.npr.org/2026/05/20/nx-s1-5825759/health-women-medicine-doctor-period-syndrome">
       <h2>Why renaming this common hormonal disorder is a huge deal</h2>
 
-(date: 2026-05-20, updated: 2026-05-22)
+(date: 2026-05-20, updated: 2026-05-25)
       <p>
       <p>You probably know someone who has a condition that, until last week, was known as PCOS, or polycystic ovary syndrome. It affects one in eight reproductive-aged women. But despite it being such a common disorder, patients are often misdiagnosed and have delayed treatment. Now, medical professionals are trying to change that. After 15 years of work, the condition has been renamed to PMOS, or polyendocrine metabolic ovarian syndrome. The new name reflects the real driver of the condition: disruptions in hormones. But how much can changing a name really do?</p>
 <p><a href="https://www.mchri.org.au/guidelines-resources/community/pmos-resources-2/"><strong>Click here</strong></a> <strong>to access resources about PMOS in multiple languages.</strong></p>
@@ -951,7 +981,7 @@
     <article data-published="2026-05-19T22:57:52Z" data-link="https://www.osnews.com/story/145006/the-virtual-os-museum/">
       <h2>The Virtual OS Museum</h2>
 
-(date: 2026-05-19, updated: 2026-05-24)
+(date: 2026-05-19, updated: 2026-05-25)
       <p>
       <p>This is a virtual museum of operating systems (and standalone applications) running under emulation, implemented as a Linux VM for QEMU, VirtualBox, or UTM. A custom emulator-independent launcher is provided, and all OSes and emulators are pre-installed and pre-configured. The launcher includes a snapshot feature to quickly revert broken installations back to a working state. Hypervisor installers and shortcuts to run the VM on Windows, macOS, and Linux are also included. ↫ Andrew Warkentin’s Virtual OS Museum These types of preconfigured archives exist in the gaming world, but I’ve never seen something like this for operating systems. The amount of love, work, and care that have gone into this effort must’ve been immense, as it contains more than 1700 installs, more than 520 platforms, and more than 570 distinct operating systems, all wrapped into a single download, with a nice launcher on top to make using all of this as easy as possible. You can either download the full offline version at 121GB zipped, or a version that downloads each image as you fire them up for the first time at 14GB zipped. The contents span just about everything from early mainframes to desktop operating systems to all kinds of mobile platforms, from the late 1940s to today. I haven’t yet found the time to download the whole thing, but I am absolutely going to, as there are so many names in here that I’ve been wanting to play around with for ages, but just never got the time to set up virtual machines or emulators for. This is going to be an amazing resource for the kinds of people who read OSNews.</p>
 
@@ -963,7 +993,7 @@
     <article data-published="2026-05-19T21:36:49Z" data-link="https://www.osnews.com/story/145004/google-kills-its-search-engine/">
       <h2>Google kills its search engine</h2>
 
-(date: 2026-05-19, updated: 2026-05-24)
+(date: 2026-05-19, updated: 2026-05-25)
       <p>
       <p>We can inter Google Search to the Google Graveyard. At its Google I/O conference on Tuesday, Google unveiled an AI-powered overhaul of Search centered around a reimagined “intelligent search box” — what the company describes as the biggest change to this entry point to the web since the search box debuted more than 25 years ago. Instead of returning a simple list of links, Google Search will drop users into AI-powered interactive experiences at times. Google is also introducing tools that can dispatch “information agents” to gather information on a user’s behalf, along with tools that let users build personalized mini apps tailored to their needs. ↫ Sarah Perez at TechCrunch The attack on online search has been ongoing for a long time, and it has already resulted in most people with a higher-than-average interest in technology to either no longer use Google, or just to not use online search at all. I used DuckDuckGo for a long time, until I switched to Startpage somewhere last year, and I have never looked back. Startpage (and many others like it) is a very simple, basic search engine: it just gives you a list of links. That’s it. That’s all I ever want from a search engine, as the task of then vetting each link for relevancy, accuracy, trustworthiness, and so on, is up to me, where it very well belongs. I do not want – and the world should not want – a massive technology corporation like Google, with a deeply vested, existential interest in guiding you towards websites from the companies that pay them for ads, to guide your online browsing experience. Google Search is already riddled with ads, but at least they’re labeled and somewhat obvious. With these new “AI” chatbot-style interfaces, not only are its sources nebulous and tucked away, if they even exist at all, but they also just make shit up, fail at the most basic of tasks, and generally just suck at what they’re supposed to be doing. This will make online search with Google worse. Worse yet, this will make it even easier for the billionaire Epstein class to sow dissent among the population, creating rifts and hatred where none should exist, solely to keep the peasants occupied fighting each other so they don’t turn their anger towards the real reason their lives suck. Panem et circenses has transformed into divide et impera, and these nebulous chatbots with complex, invisible levers and dials will only make the divide easier.</p>
 
@@ -975,7 +1005,7 @@
     <article data-published="2026-05-19T21:13:49Z" data-link="https://www.osnews.com/story/145000/futhark-by-example/">
       <h2>Futhark by example</h2>
 
-(date: 2026-05-19, updated: 2026-05-24)
+(date: 2026-05-19, updated: 2026-05-25)
       <p>
       <p>The following is a hands-on introduction to Futhark through a collection of commented programs, listed in roughly increasing order of complexity. You can load the programs into the interpreter to experiment with them. For a conventional introduction to the language, Parallel Programming in Futhark may be a better choice. For more examples, you can check our implemented benchmarks. We also maintain a list of projects using Futhark. Some of the example programs use directives for plotting or rendering graphics. ↫ Futhark homepage As a non-programmer, I just think the name is cool.</p>
 
@@ -1047,7 +1077,7 @@
     <article data-published="2026-05-19T20:30:09Z" data-link="https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/">
       <h2>NVIDIA and Google Cloud Empower the Next Wave of AI Builders</h2>
 
-(date: 2026-05-19, updated: 2026-05-23)
+(date: 2026-05-19, updated: 2026-05-24)
       <p>
       <p>At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud.  Launched at Google I/O last year, the community […]</p>
 
@@ -1227,7 +1257,7 @@
     <article data-published="2026-05-19T07:00:00Z" data-link="https://www.npr.org/2026/05/19/nx-s1-5753795/water-california-food-farm-drought">
       <h2>A solution for California's water woes</h2>
 
-(date: 2026-05-19, updated: 2026-05-22)
+(date: 2026-05-19, updated: 2026-05-25)
       <p>
       <p>For years, farmers in California have been pumping huge amounts of water from their wells to irrigate their crops. The state’s Central Valley is the nation’s single biggest source for many different foods. But all that water use is making <a href="https://water.ca.gov/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins">aquifers shrink</a>, wells go dry and, in some places, the ground sink. Science reporter <a href="https://site.danielcharles.us/">Dan Charles</a> has been looking into the issue and is on the show today to talk about what happens when water gets scarce. What is it like for farmers? And for the people enforcing new water restrictions?</p>
 <p>If you liked this episode, check out some of our other recent water stories – including why the world’s <a href="https://lnk.to/7Mz2Ng">freshwater is getting saltier</a>, what’s happening to <a href="https://lnk.to/os7Fci">our groundwater supply</a>, and what happens when a city <a href="https://lnk.to/Ty93au">runs out of water</a>.</p>
@@ -1268,7 +1298,7 @@
     <article data-published="2026-05-18T22:28:59Z" data-link="https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/">
       <h2>NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’</h2>
 
-(date: 2026-05-18, updated: 2026-05-23)
+(date: 2026-05-18, updated: 2026-05-24)
       <p>
       <p>Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories […]</p>
 
@@ -1280,7 +1310,7 @@
     <article data-published="2026-05-18T21:48:17Z" data-link="https://blogs.nvidia.com/blog/vera-cpu-delivery/">
       <h2>Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs</h2>
 
-(date: 2026-05-18, updated: 2026-05-23)
+(date: 2026-05-18, updated: 2026-05-24)
       <p>
       <p>The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.</p>
 
@@ -1510,7 +1540,7 @@
     <article data-published="2026-05-18T07:00:00Z" data-link="https://www.npr.org/2026/05/18/nx-s1-5825024/whats-up-with-your-nightmares">
       <h2>What's up with your nightmares?</h2>
 
-(date: 2026-05-18, updated: 2026-05-22)
+(date: 2026-05-18, updated: 2026-05-25)
       <p>
       <p>Dreams of flying? Nightmares of teeth falling out? Falling off a cliff? As a sleep scientist at the University of Montreal, <a href="https://recherche.umontreal.ca/chercheur/is/in35846/">Michelle Carr</a> has pretty much heard it all. In Michelle’s new book <a href="https://us.macmillan.com/books/9781250342720/nightmareobscura/">Nightmare Obscura</a>, she explores the science of dreams, nightmares – and even something called dream engineering, where people influence their own dreams while they sleep. Today on Short Wave, co-host <a href="https://www.npr.org/people/1082526815/regina-g-barber">Regina G. Barber</a> dives into the science of our sleeping life with Michelle Carr. (encore)</p>
 <p><em>Interested in any upcoming science books? Email us your question at <a href="mailto:shortwave@npr.org">shortwave@npr.org</a>.</em></p>
@@ -1683,7 +1713,7 @@
     <article data-published="2026-05-15T07:00:00Z" data-link="https://www.npr.org/2026/05/15/nx-s1-5815266/fish-science-sun-sunscreen-skincare">
       <h2>A chemical found in fish could help reinvent your sunscreen</h2>
 
-(date: 2026-05-15, updated: 2026-05-22)
+(date: 2026-05-15, updated: 2026-05-25)
       <p>
       <p>It’s been over 25 years since the FDA approved a new ingredient for sunscreen in the United States. But a molecule called gadusol found in fish and coral reefs is a promising candidate. It absorbs U.V. rays — acting like a built-in sunscreen for fish. But there’s a big hurdle if scientists want to turn gadusol into human sunscreen: They’d need to make a <em>lot</em> of it. A <a href="https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(26)00098-3?">new study</a> out this week in the journal <em>Trends in Biotechnology</em> takes us a <em>big</em> step closer. Their solution? Using the bacteria best known for making your stomach hurt: <em>e. Coli</em>.</p>
 <p><em>Interested in more science? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
@@ -1846,7 +1876,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-14T13:00:08Z" data-link="https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/">
       <h2>Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW</h2>
 
-(date: 2026-05-14, updated: 2026-05-23)
+(date: 2026-05-14, updated: 2026-05-24)
       <p>
       <p>Editor’s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN […]</p>
 
@@ -2051,7 +2081,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-13T13:00:57Z" data-link="https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/">
       <h2>NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure</h2>
 
-(date: 2026-05-13, updated: 2026-05-23)
+(date: 2026-05-13, updated: 2026-05-24)
       <p>
       <p>Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]</p>
 
@@ -2063,7 +2093,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-13T13:00:10Z" data-link="https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/">
       <h2>Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark</h2>
 
-(date: 2026-05-13, updated: 2026-05-23)
+(date: 2026-05-13, updated: 2026-05-24)
       <p>
       <p>Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.</p>
 
@@ -2075,7 +2105,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-13T07:00:00Z" data-link="https://www.npr.org/2026/05/13/nx-s1-5815048/fibermaxxing-fiber-science-diet-poop">
       <h2>Should you be fibermaxxing? Here's what the science says</h2>
 
-(date: 2026-05-13, updated: 2026-05-22)
+(date: 2026-05-13, updated: 2026-05-25)
       <p>
       <p>The average person eats 10-15 grams of fiber per day, according to the USDA. The problem? That’s WAY under the recommended daily amount.</p>
 <p>Fiber – a type of carb that our bodies are unable to digest – is prevalent in foods like fruits, veggies, whole grains, and beans. And it’s key for everything from feelings of fullness, to gut health, to good poop. That’s why a lot of people online are “fibermaxxing”: trying to meet or exceed the daily recommendation of fiber, in hopes it’ll improve their health.</p>
@@ -2273,7 +2303,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-12T12:30:56Z" data-link="https://blogs.nvidia.com/blog/sap-specialized-agents/">
       <h2>NVIDIA and SAP Bring Trust to Specialized Agents</h2>
 
-(date: 2026-05-12, updated: 2026-05-23)
+(date: 2026-05-12, updated: 2026-05-24)
       <p>
       <p>Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined  SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialized agents with security and governance controls.</p>
 
@@ -2297,7 +2327,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-12T07:00:00Z" data-link="https://www.npr.org/2026/05/12/nx-s1-5802939/science-fishing-salmon-drugs-cocaine">
       <h2>Why Swedish scientists gave salmon cocaine</h2>
 
-(date: 2026-05-12, updated: 2026-05-22)
+(date: 2026-05-12, updated: 2026-05-25)
       <p>
       <p>A <a href="https://doi.org/10.1016/j.cub.2026.03.026">recent study</a> caught our eye: salmon on cocaine. Or really, researchers giving salmon cocaine…for science. See, scientists know human drugs pollute aquatic environments – past studies have shown even <a href="https://doi.org/10.1126/science.1226850">anti-anxiety drugs</a> can change how fish act. But illicit drugs are less studied. And <a href="https://www.slu.se/en/profilepages/b/jack-brand/">Jack Brand</a>, an aquatic ecologist at the Swedish University of Agricultural Sciences, wanted to know how illicit drugs like cocaine might change fish behavior, like foraging and mating. To answer that question, Jack and his team gave salmon cocaine.</p>
 <p><em>Interested in more science? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
@@ -2603,7 +2633,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-11T07:00:00Z" data-link="https://www.npr.org/2026/05/11/nx-s1-5812534/gleevec-cancer-medicine-drug-treatment-research">
       <h2>Without this pill, lots of people would be dead</h2>
 
-(date: 2026-05-11, updated: 2026-05-22)
+(date: 2026-05-11, updated: 2026-05-25)
       <p>
       <p>25 years ago, the FDA approved a pill that would change the way scientists treat cancer … for good. The pill was called Gleevec; it was designed specifically to treat CML, chronic myeloid leukemia, and it was one of the first targeted cancer therapies available. A quarter century after approval, it’s still being prescribed, as are second, third and fourth-generation drugs that followed in its footsteps. What made it so special – and so effective? Pharmaceutical correspondent <a href="https://www.npr.org/people/825275572/sydney-lupkin">Sydney Lupkin</a> walks us through the history of the drug, and why it’s continued to change lives for decades.</p>
 <p>If you liked this episode, check out our other episodes with Sydney on <a href="https://lnk.to/3hvV3G">accelerated drug approvals</a> and the <a href="https://lnk.to/IkOvWA">development of GLP-1 pills</a>.</p>
@@ -2644,7 +2674,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-10T22:00:50Z" data-link="https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/">
       <h2>‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates</h2>
 
-(date: 2026-05-10, updated: 2026-05-23)
+(date: 2026-05-10, updated: 2026-05-24)
       <p>
       <p>“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more […]</p>
 
@@ -2898,7 +2928,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-08T07:00:00Z" data-link="https://www.npr.org/2026/05/08/nx-s1-5811917/hantavirus-andres-mvhondius-ship-rodents">
       <h2>Hantavirus: the risks, the science and what you need to know</h2>
 
-(date: 2026-05-08, updated: 2026-05-22)
+(date: 2026-05-08, updated: 2026-05-25)
       <p>
       <p>On May 2, the World Health Organization got an alarming report: People aboard a ship in the Atlantic Ocean were falling ill. The culprit is now confirmed as hantavirus, a pathogen that some rodents carry that can infect humans in rare, but often deadly, instances. Multiple passengers have died, and more people are showing symptoms. So, we’re talking to <a href="https://medschool.umich.edu/profile/5829/emily-abdoler">Emily Abdoler</a>, an infectious disease doctor at the University of Michigan, about the news – how common is hantavirus in humans, what are the consequences of getting it, and how can at-risk people protect themselves from it?</p>
 <p><strong>If you found this episode interesting, listen to our episode on</strong> <a href="http://lnk.to/DyF2OA"><strong>Rocky Mountain spotted fever.</strong></a></p>
@@ -2975,7 +3005,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-07T19:14:38Z" data-link="https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/">
       <h2>Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission</h2>
 
-(date: 2026-05-07, updated: 2026-05-23)
+(date: 2026-05-07, updated: 2026-05-24)
       <p>
       <p>AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.” Their argument: American […]</p>
 
@@ -3167,7 +3197,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-07T13:00:27Z" data-link="https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/">
       <h2>Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW</h2>
 
-(date: 2026-05-07, updated: 2026-05-23)
+(date: 2026-05-07, updated: 2026-05-24)
       <p>
       <p>Less typing, more tanking. Faster logins mean more time in the gaming action — and this week provides GeForce NOW members with a smoother path straight into the battlefield. Cloud gaming is all about instant access to titles across devices, and the latest GeForce NOW update removes another layer for members jumping into their Gaijin […]</p>
 
@@ -3360,7 +3390,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-06T11:30:20Z" data-link="https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/">
       <h2>NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC</h2>
 
-(date: 2026-05-06, updated: 2026-05-23)
+(date: 2026-05-06, updated: 2026-05-24)
       <p>
       <p>The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself.  NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]</p>
 
@@ -3372,7 +3402,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-06T07:00:00Z" data-link="https://www.npr.org/2026/05/06/nx-s1-5812505/science-drugs-ketamine-psychedelic">
       <h2>How science is taking tripping mainstream</h2>
 
-(date: 2026-05-06, updated: 2026-05-22)
+(date: 2026-05-06, updated: 2026-05-25)
       <p>
       <p>President Trump recently signed an order to speed up the evaluation of psychedelics to treat the brain. That’s coming after decades of strict prohibition on psychedelic drug use dating back to President Nixon. So how did we go from <em>that</em> to a psychedelic renaissance? A look into a key institution in the world of psychedelic research may give us some clues. This episode, NPR’s brain correspondent <a href="http://google.com/search?q=jon+hamilton&amp;rlz=1C1GCFQ_enUS1162US1163&amp;oq=jon+hamilton&amp;gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNDIyajBqN6gCALACAA&amp;sourceid=chrome&amp;ie=UTF-8">Jon Hamilton</a> shares insight from a recent trip. (No pun intended.)</p>
 <p><em>Want more psychedelic content? Catch our episode on ketamine therapy</em> <a href="https://lnk.to/GkjpoM"><em>here</em></a> <em>, or learn why some scientists want to take the trip out of psychedelics</em> <a href="https://lnk.to/a1FdVe"><em>here</em></a> <em>.</em></p>
@@ -3532,7 +3562,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-05T17:00:40Z" data-link="https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/">
       <h2>NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises</h2>
 
-(date: 2026-05-05, updated: 2026-05-23)
+(date: 2026-05-05, updated: 2026-05-24)
       <p>
       <p>Enterprise AI has learned to generate. It has learned to reason. Now companies are asking the next question: How should AI act? Early agent systems have shown what’s possible, moving beyond simple prompts to take on more complex tasks. The next step is bringing those capabilities into enterprise environments — where agents must operate with […]</p>
 
@@ -3746,7 +3776,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-05T07:00:00Z" data-link="https://www.npr.org/2026/05/05/nx-s1-5737601/health-brain-patient-functional-neurological-disorder">
       <h2>This medical condition stumped doctors for years</h2>
 
-(date: 2026-05-05, updated: 2026-05-22)
+(date: 2026-05-05, updated: 2026-05-25)
       <p>
       <p>One morning, Kyla Madonna Kenney woke up and her world was turned upside down: The room was spinning, she had a splitting migraine and one side of her body was shaking. Her tremors and migraine lasted for days. And for years afterwards, doctors would ask her: Did anything upset you recently? Are you stressed? Have you talked to a therapist about your anxiety? She underwent surgeries and took medications that were, in hindsight, unnecessary. It wasn’t until seeing <a href="https://researchers.mgh.harvard.edu/profile/1926181/David-Perez">Dr. David Perez</a>, a neurologist who is also a psychiatrist, that she finally got the right treatment for her medical condition, functional neurological disorder. Today, we dig into this disorder – what it is, why it’s so unknown despite being a top reason people seek out neurologists and what this condition reveals about the consequences of siloing medicine.</p>
 <p><strong>If you liked this episode, check out our previous one about a</strong> <a href="http://lnk.to/byh7Vy"><strong>new approach to brain health.</strong></a></p>
@@ -4198,7 +4228,7 @@ We are grateful for your donations and spend …</p>
     <article data-published="2026-05-04T07:00:00Z" data-link="https://www.npr.org/2026/05/04/nx-s1-5801460/fish-clownfish-climbing-rearing-shedd-aquarium">
       <h2>The secret behind clownfish stripes and more fishy fascinations</h2>
 
-(date: 2026-05-04, updated: 2026-05-22)
+(date: 2026-05-04, updated: 2026-05-25)
       <p>
       <p>We reeled in science reporter <a href="https://www.npr.org/people/297147967/ari-daniel">Ari Daniel</a> for this episode who grants us three wishes in the form of three fishes. He takes us on a trip around the world to learn about how a clownfish in the western Pacific loses its stripes as it grows up just to fit in, a fat French fry of a fish that can scale a 50-foot rockface in the Democratic Republic of Congo, and the remarkable rearing of a pea-sized Pokémon-like fish at the Shedd Aquarium in Chicago. Together, these stories reveal just how remarkable and diverse these unassuming creatures are.</p>
 <p><strong>If you liked this episode, check out our</strong> <a href="https://www.npr.org/series/g-s1-75877/short-wave-sea-camp"><strong>Sea Camp series</strong></a> <strong>.</strong></p>
@@ -4260,82 +4290,6 @@ We are grateful for your donations and spend …</p>
 
       <address>
         <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/04/asia_tech_news_roundup/">https://go.theregister.com/feed/www.theregister.com/2026/05/04/asia_tech_news_roundup/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-03T23:00:07Z" data-link="https://go.theregister.com/feed/www.theregister.com/2026/05/03/microsoft_promises_to_do_better/">
-      <h2>Microsoft's turned Windows into a cesspool, but it wants to do better</h2>
-
-(date: 2026-05-03, updated: 2026-05-04)
-      <p>
-      <h4>Windows is a mess, GitHub keeps wobbling, Copilot draws flak - what’s wrong at Redmond?</h4>
-<p><strong>kettle</strong>  When it comes to making decisions that piss off your user base, no one knows how to do it like Microsoft. …</p>
-
-      <address>
-        <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/03/microsoft_promises_to_do_better/">https://go.theregister.com/feed/www.theregister.com/2026/05/03/microsoft_promises_to_do_better/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-03T20:15:06Z" data-link="https://www.osnews.com/story/144862/gnome-is-good-actually/">
-      <h2>GNOME is good, actually</h2>
-
-(date: 2026-05-03, updated: 2026-05-08)
-      <p>
-      <p>While I’m normally a KDE user, I do keep close tabs on various other desktop environments, and install and set them up every now and then to see how they’re fairing, what improvements they’ve made, and ultimately, if my preference for KDE is still warranted. This usually means setting up a nice OpenBSD installation for Xfce, Fedora for GNOME, and less often others for some of the more niche desktop environments. Since GNOME 50 was just released, guess who’s time in the round is up? Since everybody’s already made up their mind about their preferred desktop eons ago, with upsides and downsides debated far past their expiration date, I’m not particularly interested in reviewing desktop environments or Linux distributions. However, after asking around on Fedi, it seemed there was quite a bit of interest in an article detailing how I set up GNOME, what changes I make to the defaults, which extensions I use, what tweaks I apply, and so on. Of course, everything described in this article is highly personal, and I’m not arguing that this is the optimal way to tweak GNOME, that the extensions I use are the best ones, or that any visual modifications I make are better than whatever defaults GNOME uses. No, my goal with this article is twofold: one, to highlight that GNOME is a lot more configurable, extensible, and malleable than common wisdom on the internet would have you believe. It’s not KDE or one of those cobbled-together tiling Wayland desktops, but it’s definitely not as rigid as you might think. And two, that GNOME is good, actually. Tools of the trade The first thing I do is install a few crucial tools that make it easier to modify and tweak GNOME. I really dislike lists in articles, but I will begrudgingly use one here: After installing all of these tools, the actual tweaking can commence. Visual tweaks I didn’t use to like GNOME’s Adwaita visual style, but over the years, it started growing on me to the point where I don’t actively dislike it anymore. With the arrival of libadwaita, it has also become effectively impossible to theme modern GNOME applications, so even if you do change to something else, many of your applications won’t follow along. If consistency is something you care about, you’ll stick to Adwaita, but that leaves one problem unresolved: applications that still use GTK3. These applications will follow a much older version of Adwaita, making them stand out like eyesores among all the modern GTK4 stuff. Luckily, since GTK3 applications are still properly themable, this is easily fixed: just install the adw-gtk3 theme, either by hand, or through your distribution’s repositories. To enable it, first install the user themes extension through Extension Manager, and then enable the theme in GNOME Tweaks for “Legacy Applications”. Any potential GTK3 applications you still use will now integrate nicely with modern libadwaita applications. The one part of GNOME I really do deeply dislike is its icon theme. I can’t quite explain why I dislike this icon set so much, but it runs deep, so one of the very first things I do is replace the default GNOME icon set with my personal favourite, Qogir. This is a popular icon set, so it’s usually available in your distribution’s repositories, but I always install it from its GitHub page. Changing GNOME’s icon set is as simple as selecting it in GNOME Tweaks. You can’t get much more personal taste than an icon set, and there are dozens of amazing sets to choose from in the Linux world. Changing them out and trying out new ones is stupidly easy, and it’s definitely worth looking at a few that might be more pleasing to you than GNOME’s (or KDE’s) default. Lastly, I open Add Water and enable the amazing GNOME theme for LibreWolf. Add Water basically makes this as easy as flipping a switch, so there’s no need to copy any files into your LibreWolf profile or whatever. The application also provides a few more small tweaks to fiddle with, like enabling standard tab widths so tabs don’t grow and shrink as you close and open tabs, moving the bookmarks bar below the tab bar, and many more. Extensions Since the release of GNOME 3 in 2011, extensions have been the most capable way to modify GNOME’s look, behaviour, and feature set. As far as I can tell, while the extension framework is an official part of the GNOME Shell, the extensions themselves are all third-party and not part of a vanilla GNOME installation. By now, there are over 2800 listed extensions, but that number includes abandoned extensions so it’s hard to determine the actual number of currently-maintained ones. Whatever the actual number is, there’s bound to be things in there you’re going to want to use. Here are the extensions I have installed. Let’s just start at the top and work our way down. I guess I’m forced to do another list. There are countless more extensions to choose from, and you’re definitely going to find things you never even thought could be useful. Miscellaneous tweaks There’s a few other things I modify. In GNOME Tweaks, I make it so that double-clicking a window’s titlebar minimises it while right-clicking it lowers it; two features I picked up during my years as a BeOS user that I absolutely refuse to give up. I configure the dock from Dash to Dock so that it always remains on top and never hides itself, no matter the circumstances. In Settings, I disable virtual desktops entirely (I don’t like virtual desktops), and I make sure tap-to-click is disabled (if I’m on a laptop). GNOME is good, actually After making all of these changes, I feel quite comfortable using GNOME, at least on my laptop. It’s a nice, coherent experience, and offers what is probably the most polished graphical user interface you can find on Linux, even if it isn’t the most full-featured. The third-party application ecosystem, through modern</p>
-
-      <address>
-        <a href="https://www.osnews.com/story/144862/gnome-is-good-actually/">https://www.osnews.com/story/144862/gnome-is-good-actually/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-03T17:46:16Z" data-link="https://www.osnews.com/story/144876/how-fast-is-a-macos-vm-and-how-small-could-it-be/">
-      <h2>How fast is a macOS VM, and how small could it be?</h2>
-
-(date: 2026-05-03, updated: 2026-05-08)
-      <p>
-      <p>To assess how small a macOS VM could be, I ran the same VM of macOS 26.4.1 on progressively smaller CPU core and memory allocations, using my virtualiser Viable. The VM’s display window was set to a standard 1600 x 1000, and I ran Safari through its paces and performed some lightweight everyday tasks, including Storage analysis in Settings. Starting with 4 virtual cores and 8 GB vRAM, where the VM ran perfectly briskly with around 5 GB of memory used, I stepped down to 3 cores and 6 GB, to discover that memory usage fell to 3.9 GB and everything worked well. With just 2 cores and 4 GB of memory only 3.1 GB of that was used, and the VM continued to handle those lightweight tasks normally. ↫ Howard Oakley This is good news for people interested in the MacBook Neo who may also want to run a macOS virtual machine on it.</p>
-
-      <address>
-        <a href="https://www.osnews.com/story/144876/how-fast-is-a-macos-vm-and-how-small-could-it-be/">https://www.osnews.com/story/144876/how-fast-is-a-macos-vm-and-how-small-could-it-be/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-03T13:05:11Z" data-link="https://go.theregister.com/feed/www.theregister.com/2026/05/03/inference_is_giving_ai_chip/">
-      <h2>Inference is giving AI chip startups a second chance to make their mark</h2>
-
-(date: 2026-05-03)
-      <p>
-      <h4>In a disaggregated AI world, Nvidia can be both a friend and an enemy</h4>
-<p>AI adoption is reaching an inflection point as the focus shifts from training new models to serving them. For the AI startups vying for a slice of Nvidia's pie, it's now or never.…</p>
-
-      <address>
-        <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/03/inference_is_giving_ai_chip/">https://go.theregister.com/feed/www.theregister.com/2026/05/03/inference_is_giving_ai_chip/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-03T10:30:14Z" data-link="https://go.theregister.com/feed/www.theregister.com/2026/05/03/future_royal_navy_drones_high_tech/">
-      <h2>Royal Navy chief backs drones, autonomous weapons in ‘Hybrid Navy’</h2>
-
-(date: 2026-05-03)
-      <p>
-      <h4>Plan mixes crewed ships, robot escorts, and long-range strike to bolster a stretched fleet</h4>
-<p>The leader of Britain’s Royal Navy has outlined a “Hybrid Navy” built on a mix of crewed, uncrewed, and autonomous platforms to ensure it can continue to defend the nation and operate overseas.…</p>
-
-      <address>
-        <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/03/future_royal_navy_drones_high_tech/">https://go.theregister.com/feed/www.theregister.com/2026/05/03/future_royal_navy_drones_high_tech/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-03T08:34:07Z" data-link="https://go.theregister.com/feed/www.theregister.com/2026/05/03/bank_of_england_tech_migration/">
-      <h2>Job's a good 'un: Bank of England tech project wins watchdog praise</h2>
-
-(date: 2026-05-03)
-      <p>
-      <h4>PAC: Now why can't everybody else in public sector do it like this?</h4>
-<p>Parliament's spending watchdog has held up a successful large-scale public sector tech transformation as a rare example worth emulating, in a striking departure from the usual diet of failure and overspend.…</p>
-
-      <address>
-        <a href="https://go.theregister.com/feed/www.theregister.com/2026/05/03/bank_of_england_tech_migration/">https://go.theregister.com/feed/www.theregister.com/2026/05/03/bank_of_england_tech_migration/</a>
       </address>
     </article>
   </main>
