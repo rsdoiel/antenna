@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>25 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>26 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Jolt replica</title>
+      <link>http://retro.hansotten.nl/jolt-replica/</link>
+      <description>
+        <![CDATA[The 7427 and the white 6502 have arrived and are shwoing off in the time period correct Jolt replica. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese [&#8230;]]]>
+      </description>
+      <source:markdown>The 7427 and the white 6502 have arrived and are shwoing off in the time period correct Jolt replica. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=21025</guid>
+    </item>    <item>
+      <title>NetHack 5.0.0 (includes DOS version)</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/05/nethack-500-includes-dos-version/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>NetHack 5.0 is an enhancement to the dungeon exploration game NetHack, which itself is a distant descendent of Rogue and Hack. NetHack 5.0 was released a few weeks ago, and includes some general architectural improvements to the game and to its build process. You can <a href="https://nethack.org/v500/release.html" rel="nofollow">read the announcement</a> or <a href="https://nethack.org/v500/downloads.html" rel="nofollow">download the new version</a> via the NetHack website.  Most importantly, the binary releases include a <a href="https://nethack.org/v500/ports/download-msdos.html" rel="nofollow">DOS version</a>.</p></div>]]>
+      </description>
+      <source:markdown>NetHack 5.0 is an enhancement to the dungeon exploration game NetHack, which itself is a distant descendent of Rogue and Hack. NetHack 5.0 was released a few weeks ago, and includes some general architectural improvements to the game and to its build process. You can [read the announcement](https://nethack.org/v500/release.html) or [download the new version](https://nethack.org/v500/downloads.html) via the NetHack website. Most importantly, the binary releases include a [DOS version](https://nethack.org/v500/ports/download-msdos.html).</source:markdown>
+      <guid>cid://https://sourceforge.net34b0959faf5fd73bccf1f0be8118fb7052c33b21</guid>
+    </item>    <item>
+      <title>b.log 2026/05/25 - Vide grenier, What am I?, Musings on dealing with EPROMs, Don&#39;t trust everything an AI tells you.</title>
+      <link>https://heyrick.eu/blog/entry/20260525</link>
+      <description>
+        <![CDATA[Vide grenier, What am I?, Musings on dealing with EPROMs, Don't trust everything an AI tells you.]]>
+      </description>
+      <source:markdown>Vide grenier, What am I?, Musings on dealing with EPROMs, Don&#39;t trust everything an AI tells you.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260525</guid>
+    </item>    <item>
       <title>KIM-3B added to my collection</title>
       <link>http://retro.hansotten.nl/kim-3b-added-to-my-collection/</link>
       <description>
@@ -661,22 +685,6 @@ Visitors can also use the shared tables to show off their own setups to one anot
       </description>
       <source:markdown>Recently Paolo released version 0.4.0 of his free ShareFSServer software.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2331.html</guid>
-    </item>    <item>
-      <title>b.log 2026/05/04 - Well I never, A brief moan about my washing machine, Ghost art.</title>
-      <link>https://heyrick.eu/blog/entry/20260504</link>
-      <description>
-        <![CDATA[Well I never, A brief moan about my washing machine, Ghost art.]]>
-      </description>
-      <source:markdown>Well I never, A brief moan about my washing machine, Ghost art.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260504</guid>
-    </item>    <item>
-      <title>WROCC May 2026 talk on Wednesday</title>
-      <link>http://www.iconbar.com/comments/rss/news2324.html</link>
-      <description>
-        <![CDATA[The May 2026 WROCC talk is on Wednesday 6th May and starts at 7.45pm on Zoom. This month's speaker is Martin Eastwood]]>
-      </description>
-      <source:markdown>The May 2026 WROCC talk is on Wednesday 6th May and starts at 7.45pm on Zoom. This month&#39;s speaker is Martin Eastwood</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2324.html</guid>
     </item>
   </channel>
 </rss>

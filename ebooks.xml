@@ -4,24 +4,10 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>25 May 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>26 May 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Stellar atmospheres : by Cecilia Payne-Gaposchkin</title>
-      <link>https://www.gutenberg.org/ebooks/73996</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The watchers by George H.  Smith</title>
-      <link>https://www.gutenberg.org/ebooks/78738</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Sir Piegan passes by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78740</link>
       <description>
@@ -31,6 +17,97 @@
     </item>    <item>
       <title>Four plays by A. A.  Milne</title>
       <link>https://www.gutenberg.org/ebooks/78748</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Famous mystery stories</title>
+      <link>https://www.gutenberg.org/ebooks/78750</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Wieland; Or, The Transformation: An American Tale by Charles Brockden Brown</title>
+      <link>https://www.gutenberg.org/ebooks/792</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The finding of Jasper Holt by Grace Livingston Hill</title>
+      <link>https://www.gutenberg.org/ebooks/78752</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Village by Ivan Alekseevich Bunin</title>
+      <link>https://www.gutenberg.org/ebooks/59981</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Web of steel by Cyrus Townsend Brady and Jr. Cyrus Townsend Brady</title>
+      <link>https://www.gutenberg.org/ebooks/78753</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Poems of Philip Freneau, Poet of the American Revolution. Volume 1 (of 3) by Freneau</title>
+      <link>https://www.gutenberg.org/ebooks/38475</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Fairy Tales of Charles Perrault by Charles Perrault</title>
+      <link>https://www.gutenberg.org/ebooks/29021</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Adventure Club with the fleet by Ralph Henry Barbour</title>
+      <link>https://www.gutenberg.org/ebooks/78754</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Silly asses by Isaac Asimov</title>
+      <link>https://www.gutenberg.org/ebooks/78751</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Coffin for two by Winston K.  Marks</title>
+      <link>https://www.gutenberg.org/ebooks/78749</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Crack o&#39; dawn by Fannie Stearns Davis</title>
+      <link>https://www.gutenberg.org/ebooks/78755</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Stellar atmospheres : by Cecilia Payne-Gaposchkin</title>
+      <link>https://www.gutenberg.org/ebooks/73996</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The watchers by George H.  Smith</title>
+      <link>https://www.gutenberg.org/ebooks/78738</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -331,6 +408,15 @@
       <source:markdown>A philosopher and M.P. argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/norman-angell/the-great-illusion/downloads/norman-angell_the-great-illusion.epub?source=feed" length="684024" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/norman-angell/the-great-illusion</guid>
+    </item>    <item>
+      <title>The Sword of Damocles, by Anna Katharine Green</title>
+      <link>https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles</link>
+      <description>
+        <![CDATA[A successful New York businessman, burdened with a dark secret in his past, is threatened with exposure and ruin.]]>
+      </description>
+      <source:markdown>A successful New York businessman, burdened with a dark secret in his past, is threatened with exposure and ruin.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles/downloads/anna-katharine-green_the-sword-of-damocles.epub?source=feed" length="926124" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles</guid>
     </item>    <item>
       <title>Moving the Mountain, by Charlotte Perkins Gilman</title>
       <link>https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain</link>
@@ -1503,101 +1589,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Wolf-Leader, by Alexandre Dumas</title>
-      <link>https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson</link>
-      <description>
-        <![CDATA[A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.]]>
-      </description>
-      <source:markdown>A shoemaker makes a compact with a black werewolf to exchange strands of his hair for granted wishes.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson/downloads/alexandre-dumas_the-wolf-leader_alfred-allinson.epub?source=feed" length="596031" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/alexandre-dumas/the-wolf-leader/alfred-allinson</guid>
-    </item>    <item>
-      <title>W U R : by Karel Čapek</title>
-      <link>https://www.gutenberg.org/ebooks/78595</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Aamiaislehti by Burchard Jessen</title>
-      <link>https://www.gutenberg.org/ebooks/78593</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Punainen kukka : by Wsevolod Garshin</title>
-      <link>https://www.gutenberg.org/ebooks/78592</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Personal reminiscences of a great crusade by Josephine Elizabeth Grey Butler</title>
-      <link>https://www.gutenberg.org/ebooks/78588</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Korkokeinottelua by Matilde Serao</title>
-      <link>https://www.gutenberg.org/ebooks/78590</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Kaunis sepänemäntä : by Géza Gárdonyi</title>
-      <link>https://www.gutenberg.org/ebooks/78591</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Poison mysteries in history, romance and crime by C. J. S.  Thompson</title>
-      <link>https://www.gutenberg.org/ebooks/78589</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A fatal silence, vol. 2 (of 3) by Florence Marryat</title>
-      <link>https://www.gutenberg.org/ebooks/78596</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A fatal silence, vol. 3 (of 3) by Florence Marryat</title>
-      <link>https://www.gutenberg.org/ebooks/78598</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Von Hollas Rocken : by Eberhard König</title>
-      <link>https://www.gutenberg.org/ebooks/78594</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>La Sirena : by Josep Pin i Soler</title>
-      <link>https://www.gutenberg.org/ebooks/78597</link>
-      <description>
-        <![CDATA[Language: Catalan]]>
-      </description>
-      <source:markdown>Language: Catalan</source:markdown>
-    </item>    <item>
-      <title>Gullible’s Travels, by Ring Lardner</title>
-      <link>https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</link>
-      <description>
-        <![CDATA[An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.]]>
-      </description>
-      <source:markdown>An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/gullibles-travels/downloads/ring-lardner_gullibles-travels.epub?source=feed" length="580776" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</guid>
     </item>
   </channel>
 </rss>
