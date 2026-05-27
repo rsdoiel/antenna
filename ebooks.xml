@@ -4,12 +4,110 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>26 May 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>27 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Sir Piegan passes by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78740</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Wieland; Or, The Transformation: An American Tale by Charles Brockden Brown</title>
+      <link>https://www.gutenberg.org/ebooks/792</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Poems of Philip Freneau, Poet of the American Revolution. Volume 1 (of 3) by Freneau</title>
+      <link>https://www.gutenberg.org/ebooks/38475</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Fairy Tales of Charles Perrault by Charles Perrault</title>
+      <link>https://www.gutenberg.org/ebooks/29021</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Crack o&#39; dawn by Fannie Stearns Davis</title>
+      <link>https://www.gutenberg.org/ebooks/78755</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Story of a Bad Boy by Thomas Bailey Aldrich</title>
+      <link>https://www.gutenberg.org/ebooks/1948</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sea urchins by W. W.  Jacobs</title>
+      <link>https://www.gutenberg.org/ebooks/21931</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Fire-Tongue by Sax Rohmer</title>
+      <link>https://www.gutenberg.org/ebooks/1159</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Van Zorn : by Edwin Arlington Robinson</title>
+      <link>https://www.gutenberg.org/ebooks/78762</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nuori nainen : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78760</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Olli Suurpää : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78759</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The sheriff of Sun-Dog by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78757</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sun-Dog trails by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78756</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Vogelalbum No. 1 by Karel Bernard Boedijn</title>
+      <link>https://www.gutenberg.org/ebooks/78761</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Six months in America, vol. 2 (of 2) by Godfrey Thomas Vigne</title>
+      <link>https://www.gutenberg.org/ebooks/78758</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -24,13 +122,6 @@
     </item>    <item>
       <title>Famous mystery stories</title>
       <link>https://www.gutenberg.org/ebooks/78750</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Wieland; Or, The Transformation: An American Tale by Charles Brockden Brown</title>
-      <link>https://www.gutenberg.org/ebooks/792</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -57,20 +148,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Poems of Philip Freneau, Poet of the American Revolution. Volume 1 (of 3) by Freneau</title>
-      <link>https://www.gutenberg.org/ebooks/38475</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Fairy Tales of Charles Perrault by Charles Perrault</title>
-      <link>https://www.gutenberg.org/ebooks/29021</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>The Adventure Club with the fleet by Ralph Henry Barbour</title>
       <link>https://www.gutenberg.org/ebooks/78754</link>
       <description>
@@ -87,13 +164,6 @@
     </item>    <item>
       <title>Coffin for two by Winston K.  Marks</title>
       <link>https://www.gutenberg.org/ebooks/78749</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Crack o&#39; dawn by Fannie Stearns Davis</title>
-      <link>https://www.gutenberg.org/ebooks/78755</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1494,97 +1564,6 @@
     </item>    <item>
       <title>The first Moroccan crisis, 1904-1906 by Eugene Newton Anderson</title>
       <link>https://www.gutenberg.org/ebooks/78609</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cream of the jug :</title>
-      <link>https://www.gutenberg.org/ebooks/78305</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Merry Adventures of Robin Hood by Howard Pyle</title>
-      <link>https://www.gutenberg.org/ebooks/10148</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tales of the uneasy by Violet Hunt</title>
-      <link>https://www.gutenberg.org/ebooks/78605</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Carranza and Mexico by Carlo de Fornaro</title>
-      <link>https://www.gutenberg.org/ebooks/78600</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Chambers&#39;s Twentieth Century Dictionary (part 1 of 4: A-D)</title>
-      <link>https://www.gutenberg.org/ebooks/37683</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Chambers&#39;s Twentieth Century Dictionary (part 2 of 4: E-M)</title>
-      <link>https://www.gutenberg.org/ebooks/38538</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Chambers&#39;s Twentieth Century Dictionary (part 3 of 4: N-R)</title>
-      <link>https://www.gutenberg.org/ebooks/38699</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Chambers&#39;s Twentieth Century Dictionary (part 4 of 4: S-Z and supplements)</title>
-      <link>https://www.gutenberg.org/ebooks/38700</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The intelligence of invertebrate animals by Maynard Shipley</title>
-      <link>https://www.gutenberg.org/ebooks/78604</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nuoruuden muistoksi : by Alpo Noponen</title>
-      <link>https://www.gutenberg.org/ebooks/78601</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>A whizzer on Willer Crick by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78602</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The expulsion of the Jews from England in 1290 by Barnett Lionel Abrahams</title>
-      <link>https://www.gutenberg.org/ebooks/78599</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The harness makers&#39; illustrated manual by William N. Fitz-Gerald</title>
-      <link>https://www.gutenberg.org/ebooks/78603</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

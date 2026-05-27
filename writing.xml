@@ -4,10 +4,21 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>26 May 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>27 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Studio-Adjacent</title>
+      <link>https://johnaugust.com/2026/studio-adjacent</link>
+      <description>
+        <![CDATA[<p>John welcomes back Phil Hay (Destroyer, The Invitation) to ask, how do you get a movie made with independent financing? They look at how indie movies get made, where you get the money, deciding when to go indie, and whether streamers complicate the picture. We also follow up on testing movies with focus groups and [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/studio-adjacent">Studio-Adjacent</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>John welcomes back Phil Hay (Destroyer, The Invitation) to ask, how do you get a movie made with independent financing? They look at how indie movies get made, where you get the money, deciding when to go indie, and whether streamers complicate the picture. We also follow up on testing movies with focus groups and \[…\]
+
+The post [Studio-Adjacent](https://johnaugust.com/2026/studio-adjacent) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=23951</guid>
+    </item>    <item>
       <title>The Devil You Know</title>
       <link>https://johnaugust.com/2026/the-devil-you-know</link>
       <description>
@@ -103,26 +114,6 @@ The post [Never Gonna Not Dance Again could have been bigger](https://johnaugust
 
 The post [Scriptnotes, Episode 734: A Box Full of Teeth, Transcript](https://johnaugust.com/2026/scriptnotes-episode-734-a-box-full-of-teeth-transcript) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=23914</guid>
-    </item>    <item>
-      <title>Surprise: Elsevier is Suing Meta For You?</title>
-      <link>https://www.authorsalliance.org/2026/05/05/surprise-elsevier-is-suing-meta-for-you/</link>
-      <description>
-        <![CDATA[Today in the Southern District of New York, Elsevier, Cengage, Hachette, Macmillan, and McGraw Hill — joined by novelist Scott Turow and his company S.C.R.I.B.E., Inc. — filed a class action against Meta and Mark Zuckerberg over the use of copyrighted works to train Meta's Llama models. The complaint has six counts: reproduction by torrenting, reproduction from web-scraped datasets, reproduction during training, distribution by torrenting, contributory infringement against Zuckerberg personally, and removal of copyright management information under DMCA §1202(b).]]>
-      </description>
-      <source:markdown>Today in the Southern District of New York, Elsevier, Cengage, Hachette, Macmillan, and McGraw Hill — joined by novelist Scott Turow and his company S.C.R.I.B.E., Inc. — filed a class action against Meta and Mark Zuckerberg over the use of copyrighted works to train Meta&#39;s Llama models. The complaint has six counts: reproduction by torrenting, reproduction from web-scraped datasets, reproduction during training, distribution by torrenting, contributory infringement against Zuckerberg personally, and removal of copyright management information under DMCA §1202(b).</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12895</guid>
-    </item>    <item>
-      <title>A Box Full of Teeth</title>
-      <link>https://johnaugust.com/2026/a-box-full-of-teeth</link>
-      <description>
-        <![CDATA[<p>John and Craig welcome back Katie Dippold (Widow’s Bay, Ghostbusters) to ask, what advice would you give to your younger self? They revisit the writers they used to be, offer specific guidance to each one, and demystify everything from “Why isn’t a producer calling me back?” to “Should I join that sorority?” Most importantly, we [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/a-box-full-of-teeth">A Box Full of Teeth</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John and Craig welcome back Katie Dippold (Widow’s Bay, Ghostbusters) to ask, what advice would you give to your younger self? They revisit the writers they used to be, offer specific guidance to each one, and demystify everything from “Why isn’t a producer calling me back?” to “Should I join that sorority?” Most importantly, we \[…\]
-
-The post [A Box Full of Teeth](https://johnaugust.com/2026/a-box-full-of-teeth) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/734standard.mp3" length="59133938" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23911</guid>
     </item>
   </channel>
 </rss>
