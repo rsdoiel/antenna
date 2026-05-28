@@ -4,10 +4,73 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>27 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>28 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The terrible meek : by Charles Rann Kennedy</title>
+      <link>https://www.gutenberg.org/ebooks/78768</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Myrtti ja alppiruusu by Joel Lehtonen</title>
+      <link>https://www.gutenberg.org/ebooks/78769</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>On trail and rapid by dog-sled &#38; canoe : by H. A.  Cody</title>
+      <link>https://www.gutenberg.org/ebooks/78770</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Border bred by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78767</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Because he listened in by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78771</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Day before yesterday by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78765</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nine points in the law by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78764</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The shadow shooter by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78766</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Modern thinkers and present problems : by Edgar A.  Singer</title>
+      <link>https://www.gutenberg.org/ebooks/78763</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Sir Piegan passes by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78740</link>
       <description>
@@ -1499,71 +1562,6 @@
     </item>    <item>
       <title>Craft-guilds of the thirteenth century in Paris by Fred B.  Millett</title>
       <link>https://www.gutenberg.org/ebooks/78623</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Walls of Jericho, by Rudolph Fisher</title>
-      <link>https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho</link>
-      <description>
-        <![CDATA[A black lawyer attempts to move into an exclusively white neighborhood.]]>
-      </description>
-      <source:markdown>A black lawyer attempts to move into an exclusively white neighborhood.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho/downloads/rudolph-fisher_the-walls-of-jericho.epub?source=feed" length="333839" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho</guid>
-    </item>    <item>
-      <title>The Wolf-Leader by Alexandre Dumas</title>
-      <link>https://www.gutenberg.org/ebooks/51054</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>My days and dreams by Edward Carpenter</title>
-      <link>https://www.gutenberg.org/ebooks/78612</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Reflections on the motive power of heat : by Sadi Carnot and Baron William Thomson Kelvin</title>
-      <link>https://www.gutenberg.org/ebooks/78610</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Say it with bricks/Say it with oil : by Ring Lardner and Nina Wilcox Putnam</title>
-      <link>https://www.gutenberg.org/ebooks/78606</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Timbuctoo the mysterious by Felix Dubois</title>
-      <link>https://www.gutenberg.org/ebooks/78611</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Journal de la société de 1789 - Nº III by Condorcet and La Rochefoucauld-Liancourt and Pange</title>
-      <link>https://www.gutenberg.org/ebooks/78607</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Elemente der Paläontologie</title>
-      <link>https://www.gutenberg.org/ebooks/78608</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The first Moroccan crisis, 1904-1906 by Eugene Newton Anderson</title>
-      <link>https://www.gutenberg.org/ebooks/78609</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

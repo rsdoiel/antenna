@@ -4,10 +4,196 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 May 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>28 May 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NVIDIA Research Advances Robotics From Simulation to the Real World</title>
+      <link>https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/</link>
+      <description>
+        <![CDATA[Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world.  At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and [&#8230;]]]>
+      </description>
+      <source:markdown>Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world.  At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/05/supplementary.mp4" length="18980937" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/05/Sequential-Object-Grasping-2.mp4" length="20116578" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/05/8x_small_cube_move_clutter_2x_1.mp4" length="1444624" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/05/rollout_put_the_red_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate_real_exec_43_success_length_359.mp4" length="736950" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=93433</guid>
+    </item>    <item>
+      <title>The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/</link>
+      <description>
+        <![CDATA[License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device — no tux or preloads required.  For a limited time, the game is included with the purchase of a 12‑month GeForce NOW [&#8230;]]]>
+      </description>
+      <source:markdown>License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device — no tux or preloads required.  For a limited time, the game is included with the purchase of a 12‑month GeForce NOW \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=93409</guid>
+    </item>    <item>
+      <title>A Shift in What’s Shaping U.S. Landscapes</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/</link>
+      <description>
+        <![CDATA[Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.]]>
+      </description>
+      <source:markdown>Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/</guid>
+    </item>    <item>
+      <title>The exemptions in age-verification laws for open source operating systems are bad, actually</title>
+      <link>https://www.osnews.com/story/145126/the-exemptions-in-age-verification-laws-for-open-source-operating-systems-are-bad-actually/</link>
+      <description>
+        <![CDATA[We&#8217;ve talked about the various age verification laws in the United States, and there&#8217;s been a development recently that a lot of people seem to think is a good thing: both the age verification laws in California and Colorado have received exemptions for open source operating systems. I fail to see how this is a good thing, and luckily, I don&#8217;t even have to explain why because Liam Squires-Hand from GamingOnLinux already did it for me. When all these laws get stamped and approved, what happens when you run an operating system (let&#8217;s say Fedora or Ubuntu) and some web service or application is forced to do age checking and verification (or they face massive fines). Unless Linux distributions / desktop environments do end up implementing something that correctly adheres to these laws, what do you think will happen? Those services / apps could very likely just entirely block Linux in certain regions &#8211; or even all regions if it&#8217;s Linux to prevent any issues for them. ↫ Liam Squires-Hand at GamingOnLinux That&#8217;s the core of it, right there. These nebulous exemptions are not solutions; they&#8217;re barely even band-aids. Windows, macOS, iOS, and Android will implement whatever fascist anti-privacy age-verification nonsense governments can come up with, and virtually all services and applications that need to implement support for it will just follow along as well. Do you really think they&#8217;re going to craft exceptions for the few percent of their users running Linux? The past three decades of computing history has made it very clear that no, they will not. But the exceptions have already achieved their goal: the Linux world is happy and lulled right back into a sense of complacency. What could possibly go wrong?]]>
+      </description>
+      <source:markdown>We’ve talked about the various age verification laws in the United States, and there’s been a development recently that a lot of people seem to think is a good thing: both the age verification laws in California and Colorado have received exemptions for open source operating systems. I fail to see how this is a good thing, and luckily, I don’t even have to explain why because Liam Squires-Hand from GamingOnLinux already did it for me. When all these laws get stamped and approved, what happens when you run an operating system (let’s say Fedora or Ubuntu) and some web service or application is forced to do age checking and verification (or they face massive fines). Unless Linux distributions / desktop environments do end up implementing something that correctly adheres to these laws, what do you think will happen? Those services / apps could very likely just entirely block Linux in certain regions – or even all regions if it’s Linux to prevent any issues for them. ↫ Liam Squires-Hand at GamingOnLinux That’s the core of it, right there. These nebulous exemptions are not solutions; they’re barely even band-aids. Windows, macOS, iOS, and Android will implement whatever fascist anti-privacy age-verification nonsense governments can come up with, and virtually all services and applications that need to implement support for it will just follow along as well. Do you really think they’re going to craft exceptions for the few percent of their users running Linux? The past three decades of computing history has made it very clear that no, they will not. But the exceptions have already achieved their goal: the Linux world is happy and lulled right back into a sense of complacency. What could possibly go wrong?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145126</guid>
+    </item>    <item>
+      <title>Gemini, gophers, and fingers: alternative internets beyond HTTPS</title>
+      <link>https://www.osnews.com/story/145124/gemini-gophers-and-fingers-alternative-internets-beyond-https/</link>
+      <description>
+        <![CDATA[But what I want to write about today are three protocols that have their own ecosystems, their own communities, and their own aesthetics. finger://, gopher://, and gemini://. Two predate the World Wide Web entirely, but one was created in 2019, the same year the first black hole photograph circled the planet. None of them require a GUI. None of them require JavaScript. All three of them run in a terminal. ↫ Brennan Day I ran an OSNews Gemini capsule from my office for quite a while, but managing it from my own workstation computer became a little annoying and cumbersome. I should take a weekend off at some point and devise an easy way to convert our RSS feed into separate files for Gopher and Gemini and serve them from my Proxmox mini PC, if only to do my part in contributing to the success of independent protocols.]]>
+      </description>
+      <source:markdown>But what I want to write about today are three protocols that have their own ecosystems, their own communities, and their own aesthetics. finger://, gopher://, and gemini://. Two predate the World Wide Web entirely, but one was created in 2019, the same year the first black hole photograph circled the planet. None of them require a GUI. None of them require JavaScript. All three of them run in a terminal. ↫ Brennan Day I ran an OSNews Gemini capsule from my office for quite a while, but managing it from my own workstation computer became a little annoying and cumbersome. I should take a weekend off at some point and devise an easy way to convert our RSS feed into separate files for Gopher and Gemini and serve them from my Proxmox mini PC, if only to do my part in contributing to the success of independent protocols.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145124</guid>
+    </item>    <item>
+      <title>NASA Develops Sensor to Improve Firefighter Safety</title>
+      <link>https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/</link>
+      <description>
+        <![CDATA[With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. In April, researchers and [&#8230;]]]>
+      </description>
+      <source:markdown>With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. In April, researchers and \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1000134</guid>
+    </item>    <item>
+      <title>How Do You Honor a Fallen Tree? In England, a Sound Sculpture Will Broadcast the &#39;Voice&#39; of a Beloved Sycamore Felled Near Hadrian’s Wall</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-do-you-honor-a-fallen-tree-in-england-a-sound-sculpture-will-broadcast-the-voice-of-a-beloved-sycamore-felled-near-hadrians-wall-180988832/</link>
+      <description>
+        <![CDATA["The People’s Tree" will also incorporate the tree's wood and archive recordings from the public in a series of community artworks]]>
+      </description>
+      <source:markdown>&#34;The People’s Tree&#34; will also incorporate the tree&#39;s wood and archive recordings from the public in a series of community artworks</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-9cWgUdpxg4MnQkTEjnbD5Jkz8Y=/420x240/filters:focal(2131x1461:2132x1462)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/55/e655452d-b48c-4104-ba77-1f589e73ddf4/view_towards_the_sycamore_gap_tree_on_hadrians_wall_in_northumberland_before_it_was_illegally.jpg" length="3281199" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/how-do-you-honor-a-fallen-tree-in-england-a-sound-sculpture-will-broadcast-the-voice-of-a-beloved-sycamore-felled-near-hadrians-wall-180988832/</guid>
+    </item>    <item>
+      <title>NASA Unveils New Details About the Future Moon Base and the Missions Laying the Groundwork to Build It</title>
+      <link>https://www.smithsonianmag.com/smart-news/nasa-unveils-new-details-about-the-future-moon-base-and-the-missions-laying-the-groundwork-to-build-it-180988837/</link>
+      <description>
+        <![CDATA[The first three missions are targeted to launch this year. They’ll involve lunar landers developed by several aerospace companies, including Blue Origin, and deliver scientific instruments and a rover]]>
+      </description>
+      <source:markdown>The first three missions are targeted to launch this year. They’ll involve lunar landers developed by several aerospace companies, including Blue Origin, and deliver scientific instruments and a rover</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TVO564Kt5Qif9CFAG9Ek8sOZv1k=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/1b/921b2425-85b7-4088-b2ed-563c8de8fcd8/nhq202605260002.webp" length="2786456" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/nasa-unveils-new-details-about-the-future-moon-base-and-the-missions-laying-the-groundwork-to-build-it-180988837/</guid>
+    </item>    <item>
+      <title>Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft</title>
+      <link>https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/</link>
+      <description>
+        <![CDATA[The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.]]>
+      </description>
+      <source:markdown>The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/</guid>
+    </item>    <item>
+      <title>See the Stunning Medieval Manuscript Telling Tales of King Arthur, in Ink and Polished Gold, That&#39;s Headed to Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-medieval-manuscript-telling-tales-of-king-arthur-in-ink-and-polished-gold-thats-headed-to-auction-180988835/</link>
+      <description>
+        <![CDATA[The manuscript was made by a skilled, anonymous artist between 1290 and 1310. It's the oldest of only three privately owned Vulgate Cycle manuscripts]]>
+      </description>
+      <source:markdown>The manuscript was made by a skilled, anonymous artist between 1290 and 1310. It&#39;s the oldest of only three privately owned Vulgate Cycle manuscripts</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lmv98PBXoTrfCEA4wR5UPwfWK-I=/420x240/filters:focal(1176x786:1177x787)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/91/9d/919da3b2-5d05-4073-914c-c09b91571971/holy_grail_christies_valuable_books__manuscripts_8.jpeg" length="1072095" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-medieval-manuscript-telling-tales-of-king-arthur-in-ink-and-polished-gold-thats-headed-to-auction-180988835/</guid>
+    </item>    <item>
+      <title>La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/</link>
+      <description>
+        <![CDATA[Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer [&#8230;]]]>
+      </description>
+      <source:markdown>Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=999935</guid>
+    </item>    <item>
+      <title>In 1776, Angry New Yorkers Tore Down a Statue of George III With a Revolutionary Fervor. A New Exhibition Lets You Do It, Too</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-1776-angry-new-yorkers-tore-down-a-statue-of-george-iii-with-a-revolutionary-fervor-a-new-exhibition-lets-you-do-it-too-180988830/</link>
+      <description>
+        <![CDATA[New York City played a pivotal role in the American Revolution. This museum brings the city's 18th-century history to life through artifacts, immersive environments and interactive experiences]]>
+      </description>
+      <source:markdown>New York City played a pivotal role in the American Revolution. This museum brings the city&#39;s 18th-century history to life through artifacts, immersive environments and interactive experiences</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dCfbo377EgHS3XmCqqHLI_54iSs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/e4/cee42b31-1ef5-4563-ab1e-e5c28b2cb708/george-iii-statue.jpg" length="466340" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-1776-angry-new-yorkers-tore-down-a-statue-of-george-iii-with-a-revolutionary-fervor-a-new-exhibition-lets-you-do-it-too-180988830/</guid>
+    </item>    <item>
+      <title>Microsoft tries to obscure “AI” features behind flowery design language</title>
+      <link>https://www.osnews.com/story/145120/microsoft-tries-to-obscure-ai-features-behind-flowery-design-language/</link>
+      <description>
+        <![CDATA[Now that my one-month sentence of using Windows 11 has begun (you can follow along!), I&#8217;m also a bit more perceptive of news and developments regardingMicrosoft&#8217;s latest and greatest operating system version. Despite claims to the contrary, we already know the company isn&#8217;t really removing &#8220;AI&#8221; features from Windows, merely renaming them instead, but it turns out they&#8217;re planning something more all encompassing: the Copilot Design System. Long-time Microsoft veteran Jon Friedman published a blog post introducing this new concept. As Copilot steadily evolves into a thought partner—an intelligent presence woven into your workflow—its backbone will become the Copilot Design System, an AI-forward design system we’re crafting to feel intentional and humane.  From orchestration patterns to iconography, the experience we’re building will ultimately have components that work together to amplify thinking, guide decisions, and unlock creativity—seamlessly, wherever you work. Anchored in customer feedback around creating better experiences, a fundamental question guides our system’s evolution: how would a thoughtful partner look and behave? ↫ Jon Friedman at Microsoft&#8217;s design blog I&#8217;ve read the whole post and I still have no idea what most of it is supposed to mean in practice. It feels like the written equivalent of someone trying to put lipstick on a pig, and pretty much anyone is going to see right through the fancy words and phrases and realise what we&#8217;re really dealing with here: a company trying to figure out just how far they can shove &#8220;AI&#8221; down your throat before you gag reflex kicks in. You can hide behind flowery language all you want, but if you&#8217;re selling shit, it&#8217;s going to stink regardless. The only concrete user interface idea that&#8217;s come out of this Copilot Design System was a floating Copilot button that permanently floated on top of your workspace area in Word, Excel, and so on, obscuring the actual things you were working on. Users hated it so much that Microsoft had to quickly release what is essentially a hotfix to give people the ability to remove that floating button, putting it in a toolbar instead. Like I said: people see right through these thinly-veiled attempts at baiting them into using your pachinko machine. Anyway, yes, I&#8217;m working from Windows 11 now, just as you people paid me to do. Here&#8217;s the proof: Only 30 days left to go. I can do this.]]>
+      </description>
+      <source:markdown>Now that my one-month sentence of using Windows 11 has begun (you can follow along!), I’m also a bit more perceptive of news and developments regardingMicrosoft’s latest and greatest operating system version. Despite claims to the contrary, we already know the company isn’t really removing “AI” features from Windows, merely renaming them instead, but it turns out they’re planning something more all encompassing: the Copilot Design System. Long-time Microsoft veteran Jon Friedman published a blog post introducing this new concept. As Copilot steadily evolves into a thought partner—an intelligent presence woven into your workflow—its backbone will become the Copilot Design System, an AI-forward design system we’re crafting to feel intentional and humane. From orchestration patterns to iconography, the experience we’re building will ultimately have components that work together to amplify thinking, guide decisions, and unlock creativity—seamlessly, wherever you work. Anchored in customer feedback around creating better experiences, a fundamental question guides our system’s evolution: how would a thoughtful partner look and behave? ↫ Jon Friedman at Microsoft’s design blog I’ve read the whole post and I still have no idea what most of it is supposed to mean in practice. It feels like the written equivalent of someone trying to put lipstick on a pig, and pretty much anyone is going to see right through the fancy words and phrases and realise what we’re really dealing with here: a company trying to figure out just how far they can shove “AI” down your throat before you gag reflex kicks in. You can hide behind flowery language all you want, but if you’re selling shit, it’s going to stink regardless. The only concrete user interface idea that’s come out of this Copilot Design System was a floating Copilot button that permanently floated on top of your workspace area in Word, Excel, and so on, obscuring the actual things you were working on. Users hated it so much that Microsoft had to quickly release what is essentially a hotfix to give people the ability to remove that floating button, putting it in a toolbar instead. Like I said: people see right through these thinly-veiled attempts at baiting them into using your pachinko machine. Anyway, yes, I’m working from Windows 11 now, just as you people paid me to do. Here’s the proof: Only 30 days left to go. I can do this.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145120</guid>
+    </item>    <item>
+      <title>Girl Scouts Event Brings Space Science to the Next Generation</title>
+      <link>https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/</link>
+      <description>
+        <![CDATA[In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments.]]>
+      </description>
+      <source:markdown>In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments.</source:markdown>
+      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/</guid>
+    </item>    <item>
+      <title>An Illuminating New Museum Hidden Beneath the Lincoln Memorial Is Set to Open to the Public. Here&#39;s What You Can Expect</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-illuminating-new-museum-hidden-beneath-the-lincoln-memorial-is-set-to-open-to-the-public-heres-what-you-can-expect-180988831/</link>
+      <description>
+        <![CDATA[Tickets for the Lincoln Memorial undercroft museum are now available to reserve. When the attraction opens on June 25, visitors will get to see the D.C. landmark from a whole new perspective]]>
+      </description>
+      <source:markdown>Tickets for the Lincoln Memorial undercroft museum are now available to reserve. When the attraction opens on June 25, visitors will get to see the D.C. landmark from a whole new perspective</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/W-ruKXvMC7zP0loZa8sQ4lQqbbs=/420x240/filters:focal(2481x1300:2482x1301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/c1/bbc11779-9325-43e2-8150-e93d8574c81c/abraham_lincoln_memorial_night_view.jpg" length="15217165" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/an-illuminating-new-museum-hidden-beneath-the-lincoln-memorial-is-set-to-open-to-the-public-heres-what-you-can-expect-180988831/</guid>
+    </item>    <item>
+      <title>La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/</link>
+      <description>
+        <![CDATA[La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda [&#8230;]]]>
+      </description>
+      <source:markdown>La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=999879</guid>
+    </item>    <item>
+      <title>AI Factories: The New Infrastructure of Intelligence</title>
+      <link>https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/</link>
+      <description>
+        <![CDATA[AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.]]>
+      </description>
+      <source:markdown>AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=92977</guid>
+    </item>    <item>
+      <title>Scientists Used A.I. to Redesign a Microbe&#39;s Machinery to Function Without a Key Ingredient of Life</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-used-ai-to-redesign-a-microbes-machinery-to-function-without-a-key-ingredient-of-life-180988802/</link>
+      <description>
+        <![CDATA[Although the researchers did not create an entire cell that could function without a crucial building block, the findings represent a big step in synthetic biology and provide a glimpse at how Earth’s earliest organisms may have lived]]>
+      </description>
+      <source:markdown>Although the researchers did not create an entire cell that could function without a crucial building block, the findings represent a big step in synthetic biology and provide a glimpse at how Earth’s earliest organisms may have lived</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XQM9ZrKioosihMCdcimGrgWUaCs=/420x240/filters:focal(2081x1506:2082x1507)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/a8/5aa888cf-fc78-4a09-a288-8d7ab514e2a2/e-coli.jpg" length="502766" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-used-ai-to-redesign-a-microbes-machinery-to-function-without-a-key-ingredient-of-life-180988802/</guid>
+    </item>    <item>
+      <title>Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge</title>
+      <link>https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/</link>
+      <description>
+        <![CDATA[Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while [&#8230;]]]>
+      </description>
+      <source:markdown>Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=999420</guid>
+    </item>    <item>
+      <title>NASA-European Sea Level Mission Homes in on El Niño</title>
+      <link>https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/</link>
+      <description>
+        <![CDATA[Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise [&#8230;]]]>
+      </description>
+      <source:markdown>Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=999868</guid>
+    </item>    <item>
+      <title>Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer</title>
+      <link>https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/</link>
+      <description>
+        <![CDATA[Learn how to use the Satellite Data Explorer to search, access, and task commercial Earth Observation data.]]>
+      </description>
+      <source:markdown>Learn how to use the Satellite Data Explorer to search, access, and task commercial Earth Observation data.</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/</guid>
+    </item>    <item>
+      <title>NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy</title>
+      <link>https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/</link>
+      <description>
+        <![CDATA[Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities. But it’s hard […]]]>
+      </description>
+      <source:markdown>Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities. But it’s hard \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/</guid>
+    </item>    <item>
       <title>NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future</title>
       <link>https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/</link>
       <description>
@@ -2579,141 +2765,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
         <![CDATA[Icy, isolated Peter I Island stirred up a show in the atmosphere off the West Antarctic coast.]]>
       </description>
       <source:markdown>Icy, isolated Peter I Island stirred up a show in the atmosphere off the West Antarctic coast.</source:markdown>
-    </item>    <item>
-      <title>Ames Science Stars of the Month May 2026</title>
-      <link>https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/</link>
-      <description>
-        <![CDATA[NASA Ames Science Directorate Stars of the Month: May 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Lora Jovanović, Tammy Moore, Frances Donovan, and Jaden Ta. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. [&#8230;]]]>
-      </description>
-      <source:markdown>NASA Ames Science Directorate Stars of the Month: May 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Lora Jovanović, Tammy Moore, Frances Donovan, and Jaden Ta. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=993736</guid>
-    </item>    <item>
-      <title>NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions</title>
-      <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/</link>
-      <description>
-        <![CDATA[NASA advances aeronautics and space technologies through experimental aircraft and flight research at the agency’s Armstrong Flight Research Center in Edwards, California. Behind those efforts is the Dryden Aeronautical Test Range (DATR), which provides the communications, tracking, and data services that enable safe and effective missions. For most NASA Armstrong research flights, the DATR supplies [&#8230;]]]>
-      </description>
-      <source:markdown>NASA advances aeronautics and space technologies through experimental aircraft and flight research at the agency’s Armstrong Flight Research Center in Edwards, California. Behind those efforts is the Dryden Aeronautical Test Range (DATR), which provides the communications, tracking, and data services that enable safe and effective missions. For most NASA Armstrong research flights, the DATR supplies \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=993632</guid>
-    </item>    <item>
-      <title>After World War II, This German Artist Turned the Art World Upside Down—Literally, by Inverting His Paintings</title>
-      <link>https://www.smithsonianmag.com/smart-news/after-world-war-ii-this-german-artist-turned-the-art-world-upside-down-literally-by-inverting-his-paintings-180988689/</link>
-      <description>
-        <![CDATA[Georg Baselitz, the renowned painter who played with perspective and flipped canvases on their head, died recently at age 88]]>
-      </description>
-      <source:markdown>Georg Baselitz, the renowned painter who played with perspective and flipped canvases on their head, died recently at age 88</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vtRwh63CCl7pFVoTpyseNcAMFLM=/420x240/filters:focal(720x432:721x433)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/0d/7f0d6d79-be5d-432b-af8e-b9c237e9394b/gb_m_2023_01_17_littkemann.webp" length="82048" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/after-world-war-ii-this-german-artist-turned-the-art-world-upside-down-literally-by-inverting-his-paintings-180988689/</guid>
-    </item>    <item>
-      <title>NASA Wallops to Host Public Information Session May 13</title>
-      <link>https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/</link>
-      <description>
-        <![CDATA[To&#160;facilitate&#160;discussion and information sharing on activities at NASA’s Wallops Flight Facility&#160;in Virginia, a public information session is being held&#160;4–6 p.m., Wednesday, May 13, at the NASA Wallops Visitor Center.&#160; During the event, NASA will have information booths on the status on the causeway bridge construction, updates on beach replenishment,&#160;and&#160;a&#160;representative from the&#160;GLOBE program.&#160;Federal and state health experts&#160;will [&#8230;]]]>
-      </description>
-      <source:markdown>To facilitate discussion and information sharing on activities at NASA’s Wallops Flight Facility in Virginia, a public information session is being held 4–6 p.m., Wednesday, May 13, at the NASA Wallops Visitor Center.  During the event, NASA will have information booths on the status on the causeway bridge construction, updates on beach replenishment, and a representative from the GLOBE program. Federal and state health experts will \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=991842</guid>
-    </item>    <item>
-      <title>NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival</title>
-      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/</link>
-      <description>
-        <![CDATA[NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA. Carrying about 6,500 pounds of cargo, a SpaceX Dragon spacecraft will lift off [&#8230;]]]>
-      </description>
-      <source:markdown>NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA. Carrying about 6,500 pounds of cargo, a SpaceX Dragon spacecraft will lift off \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=993534</guid>
-    </item>    <item>
-      <title>Could Australia Be the First Country to Eliminate Cervical Cancer? It&#39;s on Track, but HPV Vaccination and Screening Rates Are Falling</title>
-      <link>https://www.smithsonianmag.com/smart-news/could-australia-be-the-first-country-to-eliminate-cervical-cancer-its-on-track-but-hpv-vaccination-and-screening-rates-are-falling-180988681/</link>
-      <description>
-        <![CDATA[The country implemented a national vaccination program to prevent the disease in 2007. New data show that in 2021, no women under age 25 were diagnosed with cervical cancer, marking a major milestone]]>
-      </description>
-      <source:markdown>The country implemented a national vaccination program to prevent the disease in 2007. New data show that in 2021, no women under age 25 were diagnosed with cervical cancer, marking a major milestone</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7IzeobtNJt6FBbDzr8njcOyE8lU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/cd/3ecd82c2-46f6-48c0-9703-3793df9abb08/smithsonian_feature_images_6.png" length="811930" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/could-australia-be-the-first-country-to-eliminate-cervical-cancer-its-on-track-but-hpv-vaccination-and-screening-rates-are-falling-180988681/</guid>
-    </item>    <item>
-      <title>Unlocking the Mystery of X-ray Dots</title>
-      <link>https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/</link>
-      <description>
-        <![CDATA[A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist&#8217;s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s James Webb Space Telescope started its science observations, reports of a new class of mysterious objects [&#8230;]]]>
-      </description>
-      <source:markdown>A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist’s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s James Webb Space Telescope started its science observations, reports of a new class of mysterious objects \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=992200</guid>
-    </item>    <item>
-      <title>What Causes Lightning? The Answer Keeps Getting More Interesting.</title>
-      <link>https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/</link>
-      <description>
-        <![CDATA[Armed with a slew of new instruments, physicists are closing in on one of nature’s oldest mysteries — and finding that storm clouds are seething with violent and unexpected phenomena.            <p>The post <a href="https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/" target="_blank">What Causes Lightning? The Answer Keeps Getting More Interesting.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Armed with a slew of new instruments, physicists are closing in on one of nature’s oldest mysteries — and finding that storm clouds are seething with violent and unexpected phenomena.
-
-The post [What Causes Lightning? The Answer Keeps Getting More Interesting.](https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=161688</guid>
-    </item>    <item>
-      <title>&#39;Lord of the Flies&#39; Comes to Television for the First Time in a New Miniseries. In the 1950s, the Now-Famous Novel Almost Never Got Published</title>
-      <link>https://www.smithsonianmag.com/smart-news/new-miniseries-brings-lord-of-the-flies-to-television-for-the-first-time-in-the-1950s-the-now-famous-novel-almost-never-got-published-180988684/</link>
-      <description>
-        <![CDATA[Publishers rejected the original manuscript for "Lord of the Flies" many times, yet the story still sparks a buzz today. Author William Golding later won the Nobel Prize in Literature]]>
-      </description>
-      <source:markdown>Publishers rejected the original manuscript for &#34;Lord of the Flies&#34; many times, yet the story still sparks a buzz today. Author William Golding later won the Nobel Prize in Literature</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JsLLtCFEstgLKf8YmjowCC8kXeM=/420x240/filters:focal(2171x1468:2172x1469)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/48/6348fa01-e140-4203-b569-59a4cc995a43/william.jpg" length="6313144" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/new-miniseries-brings-lord-of-the-flies-to-television-for-the-first-time-in-the-1950s-the-now-famous-novel-almost-never-got-published-180988684/</guid>
-    </item>    <item>
-      <title>NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars</title>
-      <link>https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/</link>
-      <description>
-        <![CDATA[Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of [&#8230;]]]>
-      </description>
-      <source:markdown>Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=993084</guid>
-    </item>    <item>
-      <title>New NASA Technology Mimics Extreme Cold of the Lunar Night</title>
-      <link>https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/</link>
-      <description>
-        <![CDATA[As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.&#160; Gaining a deeper understanding of how [&#8230;]]]>
-      </description>
-      <source:markdown>As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=993279</guid>
-    </item>    <item>
-      <title>Timmy the Whale Was Released Into the North Sea After Being Stranded Off the German Coast for Weeks. Was That the Right Call?</title>
-      <link>https://www.smithsonianmag.com/smart-news/timmy-the-whale-was-released-into-the-sea-after-being-stranded-off-the-german-coast-for-weeks-was-that-the-right-call-180988679/</link>
-      <description>
-        <![CDATA[The humpback whale first entered shallow water at the end of March, but its health deteriorated over the past few weeks. Experts have criticized efforts to rescue the animal, which may have done more harm than good]]>
-      </description>
-      <source:markdown>The humpback whale first entered shallow water at the end of March, but its health deteriorated over the past few weeks. Experts have criticized efforts to rescue the animal, which may have done more harm than good</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xqxFqkc6mVFsNJ_Ov-TXG2vld2M=/420x240/filters:focal(4037x2307:4038x2308)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/92/3b92d16f-a042-4bd9-af56-d18391dbfd61/whale-rescue.jpg" length="12419297" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/timmy-the-whale-was-released-into-the-sea-after-being-stranded-off-the-german-coast-for-weeks-was-that-the-right-call-180988679/</guid>
-    </item>    <item>
-      <title>NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC</title>
-      <link>https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/</link>
-      <description>
-        <![CDATA[The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself.  NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or [&#8230;]]]>
-      </description>
-      <source:markdown>The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself.  NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=92837</guid>
-    </item>    <item>
-      <title>How science is taking tripping mainstream</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-5812505/science-drugs-ketamine-psychedelic</link>
-      <description>
-        <![CDATA[President Trump recently signed an order to speed up the evaluation of psychedelics to treat the brain. That’s coming after decades of strict prohibition on psychedelic drug use dating back to President Nixon. So how did we go from <em>that </em>to a psychedelic renaissance? A look into a key institution in the world of psychedelic research may give us some clues. This episode, NPR’s brain correspondent <a href="http://google.com/search?q=jon+hamilton&rlz=1C1GCFQ_enUS1162US1163&oq=jon+hamilton&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNDIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"target="_blank"   >Jon Hamilton</a> shares insight from a recent trip. (No pun intended.) <br/><br/><em>Want more psychedelic content? Catch our episode on ketamine therapy </em><a href="https://lnk.to/GkjpoM"target="_blank"   ><em>here</em></a><em>, or learn why some scientists want to take the trip out of psychedelics </em><a href="https://lnk.to/a1FdVe"target="_blank"   ><em>here</em></a><em>. </em><br/><br/><em>Have other questions about psychedelics and the brain? Let us know by emailing </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>!</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>President Trump recently signed an order to speed up the evaluation of psychedelics to treat the brain. That’s coming after decades of strict prohibition on psychedelic drug use dating back to President Nixon. So how did we go from _that_ to a psychedelic renaissance? A look into a key institution in the world of psychedelic research may give us some clues. This episode, NPR’s brain correspondent [Jon Hamilton](http://google.com/search?q=jon+hamilton&#38;rlz=1C1GCFQ_enUS1162US1163&#38;oq=jon+hamilton&#38;gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNDIyajBqN6gCALACAA&#38;sourceid=chrome&#38;ie=UTF-8) shares insight from a recent trip. (No pun intended.)
-
-_Want more psychedelic content? Catch our episode on ketamine therapy_ [_here_](https://lnk.to/GkjpoM) _, or learn why some scientists want to take the trip out of psychedelics_ [_here_](https://lnk.to/a1FdVe) _._
-
-_Have other questions about psychedelics and the brain? Let us know by emailing_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _!_
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7aa0a402-d61a-48a2-a28e-8ff9724bb340/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7aa0a402-d61a-48a2-a28e-8ff9724bb340&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812505&p=510351&d=776&size=12430987" length="12430987" type="audio/mpeg" />
-      <guid>cid://9a7ae7ab-7b26-4a8c-9604-3afac7bbeac3</guid>
-    </item>    <item>
-      <title>Melting Snow Off Shivelyuch</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/</link>
-      <description>
-        <![CDATA[Near-constant activity continues on the volcano in Russia.]]>
-      </description>
-      <source:markdown>Near-constant activity continues on the volcano in Russia.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/</guid>
     </item>
   </channel>
 </rss>
