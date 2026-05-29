@@ -4,10 +4,73 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>28 May 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>29 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Story of a Bad Boy by Thomas Bailey Aldrich</title>
+      <link>https://www.gutenberg.org/ebooks/1948</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>My Life — Volume 1 by Richard Wagner</title>
+      <link>https://www.gutenberg.org/ebooks/5197</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fifteen cells by Stuart Martin</title>
+      <link>https://www.gutenberg.org/ebooks/78778</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Seikkailijatar : by Eino Leino</title>
+      <link>https://www.gutenberg.org/ebooks/78777</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Dead men&#39;s shoes, vol. 1 (of 3) by M. E.  Braddon</title>
+      <link>https://www.gutenberg.org/ebooks/78772</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dead men&#39;s shoes, vol. 2 (of 3) by M. E.  Braddon</title>
+      <link>https://www.gutenberg.org/ebooks/78773</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dead men&#39;s shoes, vol. 3 (of 3) by M. E.  Braddon</title>
+      <link>https://www.gutenberg.org/ebooks/78774</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La campaña del Maestrazgo by Benito Pérez Galdós</title>
+      <link>https://www.gutenberg.org/ebooks/78775</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>The monster of Grammont by George Goodchild</title>
+      <link>https://www.gutenberg.org/ebooks/78776</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The terrible meek : by Charles Rann Kennedy</title>
       <link>https://www.gutenberg.org/ebooks/78768</link>
       <description>
@@ -101,13 +164,6 @@
     </item>    <item>
       <title>Crack o&#39; dawn by Fannie Stearns Davis</title>
       <link>https://www.gutenberg.org/ebooks/78755</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Story of a Bad Boy by Thomas Bailey Aldrich</title>
-      <link>https://www.gutenberg.org/ebooks/1948</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1433,139 +1489,6 @@
       <source:markdown>Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/mary-p-hamlin-george-arliss_hamilton.epub?source=feed" length="742247" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton</guid>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/1067</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The tide by Mildred Cram</title>
-      <link>https://www.gutenberg.org/ebooks/78615</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cows is cows by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78614</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cacaos and chocolates in the United States of America by Professor Nemo</title>
-      <link>https://www.gutenberg.org/ebooks/78613</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Storia della città di Roma nel medio evo, vol. 5/8 : by Ferdinand Gregorovius</title>
-      <link>https://www.gutenberg.org/ebooks/78619</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>The works of Plato (Vol. 1 of 6) : by Plato</title>
-      <link>https://www.gutenberg.org/ebooks/78618</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Proceedings of the third National Conservation Congress at Kansas City, Missouri, September 25, 26 a</title>
-      <link>https://www.gutenberg.org/ebooks/78622</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>East of Siam : by Harry Alverson Franck</title>
-      <link>https://www.gutenberg.org/ebooks/78626</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Life-tangles: the journal of Rhoda Frith by Agnes Giberne</title>
-      <link>https://www.gutenberg.org/ebooks/78624</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Wuthering Heights by Emily Brontë</title>
-      <link>https://www.gutenberg.org/ebooks/768</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Serapion Brethren, Vol. II by E. T. A.  Hoffmann</title>
-      <link>https://www.gutenberg.org/ebooks/31668</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pajarin poika : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78621</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Puolan paanit : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78620</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The Scarecrow of Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/957</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Wonderful Wizard of Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/21179</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Dangerous trades :</title>
-      <link>https://www.gutenberg.org/ebooks/78617</link>
-      <description>
-        <![CDATA[Language:]]>
-      </description>
-      <source:markdown>Language:</source:markdown>
-    </item>    <item>
-      <title>The social basis of consciousness : by Trigant Burrow</title>
-      <link>https://www.gutenberg.org/ebooks/78616</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The history &#38; traditions of the Moorfields Eye Hospital : by Edward Treacher Collins</title>
-      <link>https://www.gutenberg.org/ebooks/78625</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Craft-guilds of the thirteenth century in Paris by Fred B.  Millett</title>
-      <link>https://www.gutenberg.org/ebooks/78623</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

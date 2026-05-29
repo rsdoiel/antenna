@@ -2,11 +2,11 @@
 <opml version="2.0">
     <head>
         <title>Planet News</title>
-        <dateCreated>28 May 26 06:32 -0700</dateCreated>
+        <dateCreated>29 May 26 06:32 -0700</dateCreated>
     </head>
     <body>
         <outline text="BBC, US &amp; Canada" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news,https://feeds.bbci.co.uk/news/rss.xml" description="BBC News - News Front Page" url="https://feeds.bbci.co.uk/news/rss.xml"></outline>
-        <outline text="CBC, Canada News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" htmlUrl="https://www.cbc.ca/news/canada/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
+        <outline text="CBC, Canada News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, Indigenious News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-Indigenous" htmlUrl="https://www.cbc.ca/news/indigenous/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, Top Stories" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-topstories" htmlUrl="https://www.cbc.ca/news/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="CBC, World News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-world" htmlUrl="https://www.cbc.ca/news/world/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>

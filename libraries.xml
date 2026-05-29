@@ -4,10 +4,40 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>28 May 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>29 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Working Together to Improve Access to Scholarly Content for People with Disabilities: Elsevier Connect Interview</title>
+      <link>https://www.arl.org/blog/working-together-to-improve-access-to-scholarly-content-for-people-with-disabilities-elsevier-connect-interview/</link>
+      <description>
+        <![CDATA[<p>Last Updated on May 29, 2026, 7:05 am ET I’m pleased to share this interview, “Working Together to Improve Access to Scholarly Content for People with Disabilities,” of me and...</p>
+        <p>The post <a href="https://www.arl.org/blog/working-together-to-improve-access-to-scholarly-content-for-people-with-disabilities-elsevier-connect-interview/">Working Together to Improve Access to Scholarly Content for People with Disabilities: Elsevier Connect Interview</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on May 29, 2026, 7:05 am ET I’m pleased to share this interview, “Working Together to Improve Access to Scholarly Content for People with Disabilities,” of me and...
+
+The post [Working Together to Improve Access to Scholarly Content for People with Disabilities: Elsevier Connect Interview](https://www.arl.org/blog/working-together-to-improve-access-to-scholarly-content-for-people-with-disabilities-elsevier-connect-interview/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=48810</guid>
+    </item>    <item>
+      <title>Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/</link>
+      <description>
+        <![CDATA[<p>AI scholarly search tools often miss important literature due to incomplete metadata. Better full-text-derived metadata could significantly improve discovery.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/">Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>AI scholarly search tools often miss important literature due to incomplete metadata. Better full-text-derived metadata could significantly improve discovery.
+
+The post [Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata](https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61983</guid>
+    </item>    <item>
+      <title>Why I Request ROR IDs for New Crossref Members</title>
+      <link>https://ror.org/blog/2026-05-28-why-i-request-ror-ids/</link>
+      <description>
+        <![CDATA[Collin Knopp-Schwyn of Crossref shares how they began contributing to the ROR dataset and discusses the value of ROR users providing curation requests to the registry.]]>
+      </description>
+      <source:markdown>Collin Knopp-Schwyn of Crossref shares how they began contributing to the ROR dataset and discusses the value of ROR users providing curation requests to the registry.</source:markdown>
+      <guid>cid://https://doi.org/10.71938/0ep9-vx98</guid>
+    </item>    <item>
       <title>Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&#38;D</title>
       <link>https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/</link>
       <description>
@@ -41,10 +71,10 @@ The post [The User Has Changed. Has Scholarly Publishing?](https://scholarlykitc
       <title>ARL Daily Intelligence (May 26–28)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-may-26-28/</link>
       <description>
-        <![CDATA[<p>Last Updated on May 27, 2026, 2:04 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on May 28, 2026, 3:17 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-may-26-28/">ARL Daily Intelligence (May 26–28)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on May 27, 2026, 2:04 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on May 28, 2026, 3:17 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (May 26–28)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-may-26-28/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48634</guid>
@@ -910,58 +940,6 @@ The post [Even standing on the shoulders of giants, science is taking a step bac
 
 The post [Announcing The Scholarly Kitchen’s Style Guide](https://scholarlykitchen.sspnet.org/2026/05/08/announcing-the-scholarly-kitchens-style-guide/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61928</guid>
-    </item>    <item>
-      <title>Report: “One in 277 PubMed-Indexed Papers In 2026 Shows Fabricated References, Says Analysis”</title>
-      <link>https://www.infodocket.com/2026/05/07/report-one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/</link>
-      <description>
-        <![CDATA[<p>From Retraction Watch: Fabricated citations in the biomedical literature have increased 12-fold in two years, according to an audit of nearly 2.5 million papers published as a letter to The Lancet today. The analysis of articles indexed in PubMed found that about one in 277 papers published in the first seven weeks of 2026 referenced a paper that didn’t [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/05/07/report-one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/">Report: &#8220;One in 277 PubMed-Indexed Papers In 2026 Shows Fabricated References, Says Analysis&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From Retraction Watch: Fabricated citations in the biomedical literature have increased 12-fold in two years, according to an audit of nearly 2.5 million papers published as a letter to The Lancet today. The analysis of articles indexed in PubMed found that about one in 277 papers published in the first seven weeks of 2026 referenced a paper that didn’t \[…\]
-
-The post [Report: “One in 277 PubMed-Indexed Papers In 2026 Shows Fabricated References, Says Analysis”](https://www.infodocket.com/2026/05/07/report-one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168029</guid>
-    </item>    <item>
-      <title>Celebrating Thirty Years of the Internet Archive with the ‘Class of 1996’</title>
-      <link>https://blog.archive.org/2026/05/07/celebrating-thirty-years-of-the-internet-archive-with-the-class-of-1996/</link>
-      <description>
-        <![CDATA[Before feeds, before algorithms, there was the Class of 1996: websites &#38; organizations founded (or expanded) in 1996, like the Internet Archive. On the occasion of the Internet Archive&#8217;s 30th [&#8230;]]]>
-      </description>
-      <source:markdown>Before feeds, before algorithms, there was the Class of 1996: websites &#38; organizations founded (or expanded) in 1996, like the Internet Archive. On the occasion of the Internet Archive’s 30th \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30412</guid>
-    </item>    <item>
-      <title>Employers’ Perceptions of Online Credentials</title>
-      <link>https://sr.ithaka.org/blog/employers-perceptions-of-online-credentials/</link>
-      <description>
-        <![CDATA[<p>With support from the Joyce Foundation and Strada Education Foundation, Ithaka S+R conducted what is, to our knowledge, the first causal study of how employers value online degrees from out-of-state institutions. The primary objectives of our research were to compare employer evaluations of job candidates who earned a bachelor’s degree online with those who earned a bachelor’s degree in person, and to assess whether and to what extent those evaluations varied depending on whether the degree-granting institution was in- or out-of-state. </p>
-        <p>The post <a href="https://sr.ithaka.org/blog/employers-perceptions-of-online-credentials/">Employers&#8217; Perceptions of Online Credentials</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>With support from the Joyce Foundation and Strada Education Foundation, Ithaka S+R conducted what is, to our knowledge, the first causal study of how employers value online degrees from out-of-state institutions. The primary objectives of our research were to compare employer evaluations of job candidates who earned a bachelor’s degree online with those who earned a bachelor’s degree in person, and to assess whether and to what extent those evaluations varied depending on whether the degree-granting institution was in- or out-of-state.
-
-The post [Employers’ Perceptions of Online Credentials](https://sr.ithaka.org/blog/employers-perceptions-of-online-credentials/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325542</guid>
-    </item>    <item>
-      <title>The Guardian: “‘Things Were Going Dark Left and Right’: The Race to Save US Government Datasets Before They’re Deleted”</title>
-      <link>https://www.infodocket.com/2026/05/07/the-guardian-things-were-going-dark-left-and-right-the-race-to-save-us-government-datasets-before-theyre-deleted/</link>
-      <description>
-        <![CDATA[<p>From The Guardian: André is part of a group of “data rescuers” who’ve banded together during Trump’s second term. They’ve been quietly racing to save hundreds of critical government datasets before they’re no longer available. Now known as the Data Rescue Project, it’s a grassroots network of more than 800 people around the world who spend [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/05/07/the-guardian-things-were-going-dark-left-and-right-the-race-to-save-us-government-datasets-before-theyre-deleted/">The Guardian: &#8220;&#8216;Things Were Going Dark Left and Right&#8217;: The Race to Save US Government Datasets Before They&#8217;re Deleted&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From The Guardian: André is part of a group of “data rescuers” who’ve banded together during Trump’s second term. They’ve been quietly racing to save hundreds of critical government datasets before they’re no longer available. Now known as the Data Rescue Project, it’s a grassroots network of more than 800 people around the world who spend \[…\]
-
-The post [The Guardian: “‘Things Were Going Dark Left and Right’: The Race to Save US Government Datasets Before They’re Deleted”](https://www.infodocket.com/2026/05/07/the-guardian-things-were-going-dark-left-and-right-the-race-to-save-us-government-datasets-before-theyre-deleted/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168025</guid>
-    </item>    <item>
-      <title>Guest Post — Love, Death &#38; Robots: Scholarly Edition</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/05/07/guest-post-love-death-robots-scholarly-edition/</link>
-      <description>
-        <![CDATA[<p>Today's guest post proposes a method for identifying, measuring, and managing robotic usage of scholarly content.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/05/07/guest-post-love-death-robots-scholarly-edition/">Guest Post — Love, Death &#038; Robots: Scholarly Edition</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest post proposes a method for identifying, measuring, and managing robotic usage of scholarly content.
-
-The post [Guest Post — Love, Death &#38; Robots: Scholarly Edition](https://scholarlykitchen.sspnet.org/2026/05/07/guest-post-love-death-robots-scholarly-edition/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61925</guid>
     </item>
   </channel>
 </rss>
