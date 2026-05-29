@@ -2,14 +2,14 @@
 <opml version="2.0">
     <head>
         <title>Library and Archives organizations</title>
-        <dateCreated>29 May 26 06:44 -0700</dateCreated>
+        <dateCreated>29 May 26 10:18 -0700</dateCreated>
     </head>
     <body>
         <outline text="Association of Research Libraries News" type="rss" xmlUrl="https://www.arl.org/feed/" htmlUrl="https://www.arl.org/,https://www.arl.org/feed/" url="https://www.arl.org/feed/"></outline>
         <outline text="CSUN Library Blog, Cited" type="rss" xmlUrl="https://library.csun.edu/blogs/cited/feed/" htmlUrl="https://library.csun.edu/blogs/cited,https://library.csun.edu/blogs/cited/feed/" description="News from Reference, Instruction &amp; Outreach Services" url="https://library.csun.edu/blogs/cited/feed/"></outline>
         <outline text="Caltech Library Events" type="rss" xmlUrl="https://libcal.caltech.edu/rss.php?m=month&amp;iid=3271&amp;cid=3754" htmlUrl="https://libcal.caltech.edu,https://libcal.caltech.edu/rss.php?m=month&amp;cid=3754&amp;cat=&amp;cam=&amp;audience=&amp;tag=&amp;uid=0" description="Feed for Events in the coming month." url="https://libcal.caltech.edu/rss.php?m=month&amp;cid=3754&amp;cat=&amp;cam=&amp;audience=&amp;tag=&amp;uid=0"></outline>
         <outline text="Caltech Library Events" type="atom" xmlUrl="https://library.caltech.edu/blogs/rss.xml?blogConfigId=1449" htmlUrl="https://library.caltech.edu/blogs/news"></outline>
-        <outline text="Cod4Lib Journal" type="rss" xmlUrl="http://feeds.feedburner.com/c4lj" htmlUrl="https://journal.code4lib.org,https://journal.code4lib.org/feed" url="https://journal.code4lib.org/feed"></outline>
+        <outline text="Code4Lib Journal" type="rss" xmlUrl="http://feeds.feedburner.com/c4lj" htmlUrl="https://journal.code4lib.org,https://journal.code4lib.org/feed" url="https://journal.code4lib.org/feed"></outline>
         <outline text="Collections Data blog" type="atom" xmlUrl="https://collectionsasdata.github.io/atom.xml" htmlUrl="https://collectionsasdata.github.io/atom.xml,https://collectionsasdata.github.io/" description="An IMLS funded project to create a framework for dealing with collections as data." url="https://collectionsasdata.github.io/atom.xml"></outline>
         <outline text="Crossref Blog" type="rss" xmlUrl="https://www.crossref.org/blog/index.xml" htmlUrl="https://www.crossref.org/blog/,https://www.crossref.org/blog/" description="Recent content in Blog on Crossref" url="https://www.crossref.org/blog/"></outline>
         <outline text="ETH Zurich Research Archives" type="rss" xmlUrl="https://rc-blog.ethz.ch/en/feed/" htmlUrl="https://rc-blog.ethz.ch,https://rc-blog.ethz.ch/en/feed/" description="Research Collection / Institutional Repository der ETH Zürich" url="https://rc-blog.ethz.ch/en/feed/"></outline>
