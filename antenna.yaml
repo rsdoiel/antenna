@@ -50,7 +50,7 @@ collections:
     - title: Library and Archives organizations
       link: libraries.xml
       file: libraries.md
-      generator: other_reading.yaml
+      generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
