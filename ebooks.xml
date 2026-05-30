@@ -4,10 +4,79 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>29 May 26 10:32 -0700</lastBuildDate>
+    <lastBuildDate>30 May 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Captain Kettle on the war-path by Charles John Cutcliffe Wright Hyne</title>
+      <link>https://www.gutenberg.org/ebooks/78784</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Punainen mylly by Joel Lehtonen</title>
+      <link>https://www.gutenberg.org/ebooks/78783</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The marriage by Ann Bannon</title>
+      <link>https://www.gutenberg.org/ebooks/78780</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dark Hester by Anne Douglas Sedgwick</title>
+      <link>https://www.gutenberg.org/ebooks/78779</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Minun Marttani : by Arvid Järnefelt</title>
+      <link>https://www.gutenberg.org/ebooks/78782</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The healthy life beverage book : by H. Valentine  Knaggs</title>
+      <link>https://www.gutenberg.org/ebooks/78781</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Wieland, by Charles Brockden Brown</title>
+      <link>https://standardebooks.org/ebooks/charles-brockden-brown/wieland</link>
+      <description>
+        <![CDATA[Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.]]>
+      </description>
+      <source:markdown>Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/charles-brockden-brown_wieland.epub?source=feed" length="680539" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/charles-brockden-brown/wieland</guid>
+    </item>    <item>
+      <title>My Life in China and America, by Yung Wing</title>
+      <link>https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america</link>
+      <description>
+        <![CDATA[A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.]]>
+      </description>
+      <source:markdown>A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/yung-wing_my-life-in-china-and-america.epub?source=feed" length="592551" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america</guid>
+    </item>    <item>
+      <title>The Village, by Ivan Bunin</title>
+      <link>https://standardebooks.org/ebooks/ivan-bunin/the-village/isabel-f-hapgood</link>
+      <description>
+        <![CDATA[Two brothers pass their lives in rural Russia.]]>
+      </description>
+      <source:markdown>Two brothers pass their lives in rural Russia.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ivan-bunin/the-village/isabel-f-hapgood/downloads/ivan-bunin_the-village_isabel-f-hapgood.epub?source=feed" length="546049" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ivan-bunin/the-village/isabel-f-hapgood</guid>
+    </item>    <item>
       <title>The Story of a Bad Boy by Thomas Bailey Aldrich</title>
       <link>https://www.gutenberg.org/ebooks/1948</link>
       <description>
@@ -71,6 +140,15 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
+      <title>Poetry, by Robert Louis Stevenson</title>
+      <link>https://standardebooks.org/ebooks/robert-louis-stevenson/poetry</link>
+      <description>
+        <![CDATA[A collection of poetry by Scottish writer Robert Louis Stevenson.]]>
+      </description>
+      <source:markdown>A collection of poetry by Scottish writer Robert Louis Stevenson.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/robert-louis-stevenson/poetry/downloads/robert-louis-stevenson_poetry.epub?source=feed" length="1338608" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/robert-louis-stevenson/poetry</guid>
+    </item>    <item>
       <title>The terrible meek : by Charles Rann Kennedy</title>
       <link>https://www.gutenberg.org/ebooks/78768</link>
       <description>
@@ -133,6 +211,15 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Rover, by Joseph Conrad</title>
+      <link>https://standardebooks.org/ebooks/joseph-conrad/the-rover</link>
+      <description>
+        <![CDATA[A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.]]>
+      </description>
+      <source:markdown>A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rover/downloads/joseph-conrad_the-rover.epub?source=feed" length="494817" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-rover</guid>
     </item>    <item>
       <title>Sir Piegan passes by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78740</link>
@@ -231,6 +318,15 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Short Fiction, by Catherine Louisa Pirkis</title>
+      <link>https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction</link>
+      <description>
+        <![CDATA[A collection of Catherine Louisa Pirkis’s short fiction.]]>
+      </description>
+      <source:markdown>A collection of Catherine Louisa Pirkis’s short fiction.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction/downloads/catherine-louisa-pirkis_short-fiction.epub?source=feed" length="721370" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction</guid>
     </item>    <item>
       <title>Four plays by A. A.  Milne</title>
       <link>https://www.gutenberg.org/ebooks/78748</link>
@@ -1024,7 +1120,7 @@
         <![CDATA[A sailor gives his account how he completed the first solo sailing voyage around the world.]]>
       </description>
       <source:markdown>A sailor gives his account how he completed the first solo sailing voyage around the world.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/joshua-slocum_sailing-alone-around-the-world.epub?source=feed" length="3139269" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/joshua-slocum_sailing-alone-around-the-world.epub?source=feed" length="3139262" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</guid>
     </item>    <item>
       <title>The Fifth Queen Crowned, by Ford Madox Ford</title>
@@ -1438,57 +1534,6 @@
         <![CDATA[Language:]]>
       </description>
       <source:markdown>Language:</source:markdown>
-    </item>    <item>
-      <title>Fifty-fifty with Bonnie by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78627</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Expelled : by Richard Marsh</title>
-      <link>https://www.gutenberg.org/ebooks/76920</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>According to Ng Loy by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78628</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Fires of fate by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78629</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tippecanoe and cougars two by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78631</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Locura y muerte de Nadie : by Benjamín Jarnés</title>
-      <link>https://www.gutenberg.org/ebooks/78630</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
-    </item>    <item>
-      <title>Hamilton, by Mary P. Hamlin and George Arliss</title>
-      <link>https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton</link>
-      <description>
-        <![CDATA[Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.]]>
-      </description>
-      <source:markdown>Founding father Alexander Hamilton is enticed into an affair, and then threatened with exposure.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/mary-p-hamlin-george-arliss_hamilton.epub?source=feed" length="742247" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton</guid>
     </item>
   </channel>
 </rss>

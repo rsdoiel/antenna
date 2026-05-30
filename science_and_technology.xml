@@ -4,10 +4,132 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>29 May 26 10:32 -0700</lastBuildDate>
+    <lastBuildDate>30 May 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA Awards Contract for Johnson Space Center Infrastructure</title>
+      <link>https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/</link>
+      <description>
+        <![CDATA[NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. [&#8230;]]]>
+      </description>
+      <source:markdown>NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1000942</guid>
+    </item>    <item>
+      <title>Four Rare Guam Kingfisher Chicks Hatch at Virginia Facility, Making an &#39;Incredibly Valuable&#39; Addition to the Small Population of Extinct-in-the-Wild Birds</title>
+      <link>https://www.smithsonianmag.com/smart-news/four-rare-guam-kingfisher-chicks-hatch-at-virginia-facility-making-an-incredibly-valuable-addition-to-the-small-population-of-extinct-in-the-wild-birds-180988863/</link>
+      <description>
+        <![CDATA[The species, also known as the sihek, was wiped out from its native Guam and kept alive in captivity. Conservationists released some birds on Palmyra Atoll in 2024, and they have been thriving so far]]>
+      </description>
+      <source:markdown>The species, also known as the sihek, was wiped out from its native Guam and kept alive in captivity. Conservationists released some birds on Palmyra Atoll in 2024, and they have been thriving so far</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GUvXiF4Z-dSONsei2R7ljsoWLs8=/420x240/filters:focal(1024x634:1025x635)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/a4/f9a4af17-b326-4f00-8d64-92966468f938/705306451_1423631536459186_5155291432592042996_n.jpg" length="706656" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/four-rare-guam-kingfisher-chicks-hatch-at-virginia-facility-making-an-incredibly-valuable-addition-to-the-small-population-of-extinct-in-the-wild-birds-180988863/</guid>
+    </item>    <item>
+      <title>NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters</title>
+      <link>https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/</link>
+      <description>
+        <![CDATA[NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in [&#8230;]]]>
+      </description>
+      <source:markdown>NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1000926</guid>
+    </item>    <item>
+      <title>Flathub bans slopcoded applications, but not if they’re from a “mature, well-maintained” project</title>
+      <link>https://www.osnews.com/story/145144/flathub-bans-slopcoded-applications-but-not-if-theyre-from-a-mature-well-maintained-project/</link>
+      <description>
+        <![CDATA[Flathub, by the most popular (effectively only) repository for Flatpak applications, has changed its policies to include a strict ban on &#8220;AI&#8221; use for both application submissions as well as the application code itself. This policy applies to both the application being submitted to Flathub and the Flathub submission itself, including the manifest, metadata, patches, build scripts, and pull request. For the purpose of this policy, applications include BaseApps, extensions, and any other artifacts that can be produced by flatpak-builder. Submission pull requests must not be generated, opened, or automated using AI tools or agents. Please also do not request review from any AI tools in the submission PR. Automated Copilot reviews on GitHub can be disabled by the submitter by going here and changing Repository access to exclude the repo or disabling the global &#8220;Automatic Copilot code review&#8221; found here. Applications containing AI-generated or AI-assisted code, documentation, or other content are not allowed. ↫ Flathub policy diff This is a fairly strict policy, but they do leave some wiggle room by also including the following line: Exceptions may be granted for mature, well-maintained projects. ↫ Flathub policy diff I don&#8217;t think they had any choice adding this exception, but it does feel a little bit like &#8220;rules for thee but not for me&#8221;. I can easily see the relatively small in-crowd of developers around Flathub and Flatpak, and their friends, handing each other exceptions, while enforcing the much stricter rules when it comes to outsiders. Say a well-known GNOME application from a long-time GNOME contributor adds &#8220;AI&#8221;-generated code, will it really be banned from Flathub? I have my doubts. Regardless, it&#8217;s mostly good news. It&#8217;s important to note that this policy change won&#8217;t be applied retroactively, so slopcoded applications already on Flathub won&#8217;t be removed.]]>
+      </description>
+      <source:markdown>Flathub, by the most popular (effectively only) repository for Flatpak applications, has changed its policies to include a strict ban on “AI” use for both application submissions as well as the application code itself. This policy applies to both the application being submitted to Flathub and the Flathub submission itself, including the manifest, metadata, patches, build scripts, and pull request. For the purpose of this policy, applications include BaseApps, extensions, and any other artifacts that can be produced by flatpak-builder. Submission pull requests must not be generated, opened, or automated using AI tools or agents. Please also do not request review from any AI tools in the submission PR. Automated Copilot reviews on GitHub can be disabled by the submitter by going here and changing Repository access to exclude the repo or disabling the global “Automatic Copilot code review” found here. Applications containing AI-generated or AI-assisted code, documentation, or other content are not allowed. ↫ Flathub policy diff This is a fairly strict policy, but they do leave some wiggle room by also including the following line: Exceptions may be granted for mature, well-maintained projects. ↫ Flathub policy diff I don’t think they had any choice adding this exception, but it does feel a little bit like “rules for thee but not for me”. I can easily see the relatively small in-crowd of developers around Flathub and Flatpak, and their friends, handing each other exceptions, while enforcing the much stricter rules when it comes to outsiders. Say a well-known GNOME application from a long-time GNOME contributor adds “AI”-generated code, will it really be banned from Flathub? I have my doubts. Regardless, it’s mostly good news. It’s important to note that this policy change won’t be applied retroactively, so slopcoded applications already on Flathub won’t be removed.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145144</guid>
+    </item>    <item>
+      <title>These 600-Year-Old Chinese Surgical Instruments Are Coated in an Early Local Anesthetic—Carefully Extracted From a Poisonous Plant</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-600-year-old-chinese-surgical-instruments-are-coated-in-an-early-local-anestheticcarefully-extracted-from-a-poisonous-plant-180988865/</link>
+      <description>
+        <![CDATA[Researchers say the numbing agent splashed onto iron scissors and tweezers during a procedure. They were found in a Ming dynasty doctor's tomb]]>
+      </description>
+      <source:markdown>Researchers say the numbing agent splashed onto iron scissors and tweezers during a procedure. They were found in a Ming dynasty doctor&#39;s tomb</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dbAweNjolD733IkrXXwMKLJuGOI=/420x240/filters:focal(527x351:528x352)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/bf/3ebf98af-8965-4b65-9f71-b6da84137f8f/urn_cambridgeorg_id_binary-alt_20260513195241-44146-optimisedimage-png-s0003598x26103470_fig1.jpeg" length="462199" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-600-year-old-chinese-surgical-instruments-are-coated-in-an-early-local-anestheticcarefully-extracted-from-a-poisonous-plant-180988865/</guid>
+    </item>    <item>
+      <title>Happy, an Asian Elephant Who Demonstrated That Her Species Might Be Self-Aware, Dies at 55 at the Bronx Zoo</title>
+      <link>https://www.smithsonianmag.com/smart-news/happy-an-asian-elephant-who-demonstrated-that-her-species-might-be-self-aware-dies-at-55-at-the-bronx-zoo-180988861/</link>
+      <description>
+        <![CDATA[In research reported about 20 years ago, Happy appeared to recognize herself in a mirror. She was later the subject of a failed lawsuit claiming elephants should have certain fundamental human rights]]>
+      </description>
+      <source:markdown>In research reported about 20 years ago, Happy appeared to recognize herself in a mirror. She was later the subject of a failed lawsuit claiming elephants should have certain fundamental human rights</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UuN2GAfmp2ew3ZTqsk0OjBqglvo=/420x240/filters:focal(1704x1136:1705x1137)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/65/dd65c615-fe35-4083-a79c-bcf850577058/happy-elephant.jpg" length="6004216" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/happy-an-asian-elephant-who-demonstrated-that-her-species-might-be-self-aware-dies-at-55-at-the-bronx-zoo-180988861/</guid>
+    </item>    <item>
+      <title>Using Colorful Dog Kibble, Artists Turn &#39;Mona Lisa,&#39; &#39;The Scream&#39; and &#39;The Kiss&#39; Into Museum Masterpieces That Man&#39;s Best Friend Can Appreciate</title>
+      <link>https://www.smithsonianmag.com/smart-news/using-colorful-kibble-artists-turn-mona-lisa-the-scream-and-the-kiss-into-museum-masterpieces-that-mans-best-friend-can-appreciate-180988860/</link>
+      <description>
+        <![CDATA[Sisters from New Jersey spent two months recreating famous artworks while also making sure their dog didn’t get into the edible art supplies]]>
+      </description>
+      <source:markdown>Sisters from New Jersey spent two months recreating famous artworks while also making sure their dog didn’t get into the edible art supplies</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rX1DywPnqUojKE9aoVB8WHQ7CyY=/420x240/filters:focal(3997x3007:3998x3008)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c3/80/c380fcef-240d-414f-b107-6935d9802f4b/dscf9312.jpg" length="2055993" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/using-colorful-kibble-artists-turn-mona-lisa-the-scream-and-the-kiss-into-museum-masterpieces-that-mans-best-friend-can-appreciate-180988860/</guid>
+    </item>    <item>
+      <title>NASA’s Roman Space Telescope Primary Mirror Gets Last Look</title>
+      <link>https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/</link>
+      <description>
+        <![CDATA[Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. &#8220;The Roman engineering [&#8230;]]]>
+      </description>
+      <source:markdown>Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. “The Roman engineering \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1000706</guid>
+    </item>    <item>
+      <title>Hubble Spies Faint Irregular Galaxy</title>
+      <link>https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/</link>
+      <description>
+        <![CDATA[This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years&#160;away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their&#160;diffraction spikes. [&#8230;]]]>
+      </description>
+      <source:markdown>This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1000351</guid>
+    </item>    <item>
+      <title>Meet Hilma af Klint, the Occultist Who Believed Otherworldly Spirits Told Her What to Paint. Now, She&#39;s Considered One of History&#39;s First Abstract Artists</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-hilma-af-klint-the-occultist-who-believed-otherworldly-spirits-told-her-what-to-paint-now-shes-considered-one-of-historys-first-abstract-artists-180988859/</link>
+      <description>
+        <![CDATA[The Swedish painter created bold, vibrant works as early as 1906—several years before contemporaries like Wassily Kandinsky. A new exhibition in France celebrates her sweeping "Paintings for the Temple" series]]>
+      </description>
+      <source:markdown>The Swedish painter created bold, vibrant works as early as 1906—several years before contemporaries like Wassily Kandinsky. A new exhibition in France celebrates her sweeping &#34;Paintings for the Temple&#34; series</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Mhnol7iYgpPGvP-yk0P7Gs_2OW8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/ea/86ea6ec3-9230-4152-95ca-e941d343bf3b/klint-altarpiece.jpg" length="411357" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-hilma-af-klint-the-occultist-who-believed-otherworldly-spirits-told-her-what-to-paint-now-shes-considered-one-of-historys-first-abstract-artists-180988859/</guid>
+    </item>    <item>
+      <title>Tyrannosaurus Rex and Other Terrifying Predatory Dinosaurs Had Itty-Bitty Arms. Scientists May Have Finally Figured Out Why</title>
+      <link>https://www.smithsonianmag.com/smart-news/tyrannosaurus-rex-and-other-terrifying-predatory-dinosaurs-had-itty-bitty-arms-scientists-may-have-finally-figured-out-why-180988803/</link>
+      <description>
+        <![CDATA[A new study suggests that certain theropods—two-legged, mostly meat-eating dinosaurs—had shrunken forelimbs as an evolutionary trade-off for their strong skulls]]>
+      </description>
+      <source:markdown>A new study suggests that certain theropods—two-legged, mostly meat-eating dinosaurs—had shrunken forelimbs as an evolutionary trade-off for their strong skulls</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NIwng01nmhVv3YbIn29YvAFrnkA=/420x240/filters:focal(2592x1950:2593x1951)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/59/41590b60-d95f-470e-8ead-d8fa843639df/t-rex.jpg" length="17441176" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/tyrannosaurus-rex-and-other-terrifying-predatory-dinosaurs-had-itty-bitty-arms-scientists-may-have-finally-figured-out-why-180988803/</guid>
+    </item>    <item>
+      <title>See the New Quarter Honoring Thomas Jefferson and the Declaration of Independence That Enters Circulation Next Week, Ahead of America’s 250th Birthday</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-new-quarter-honoring-thomas-jefferson-and-the-declaration-of-independence-that-enters-circulation-next-week-ahead-of-americas-250th-birthday-180988843/</link>
+      <description>
+        <![CDATA[The design is one of several coin denominations, and the third of five new quarters, made specially for the country’s semiquincentennial]]>
+      </description>
+      <source:markdown>The design is one of several coin denominations, and the third of five new quarters, made specially for the country’s semiquincentennial</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HUz8JDdoSGy-oDjtDLggNnPci4g=/420x240/filters:focal(1000x1000:1001x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/74/d674dda4-f985-4877-a3a6-5920f685666c/semiq-declaration-obverse-unc-d.jpg" length="1176770" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-new-quarter-honoring-thomas-jefferson-and-the-declaration-of-independence-that-enters-circulation-next-week-ahead-of-americas-250th-birthday-180988843/</guid>
+    </item>    <item>
+      <title>Pigeon Bones Found at an Ancient Cyprus Settlement Reveal That Our Relationship With These Birds Began Earlier Than We Thought</title>
+      <link>https://www.smithsonianmag.com/smart-news/pigeon-bones-found-at-an-ancient-cyprus-settlement-reveal-that-our-relationship-with-these-birds-began-earlier-than-we-thought-180988791/</link>
+      <description>
+        <![CDATA[Before common pigeons were considered urban pests, people domesticated them and relied on them for meat, fertilizer, messages and more. A new study suggests humans have lived alongside the winged creatures for at least 3,400 years]]>
+      </description>
+      <source:markdown>Before common pigeons were considered urban pests, people domesticated them and relied on them for meat, fertilizer, messages and more. A new study suggests humans have lived alongside the winged creatures for at least 3,400 years</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KW6Y4Dn5-qdou0cK5QiE0dajjds=/420x240/filters:focal(640x360:641x361)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/58/f1586ed5-4b50-4269-8e41-7c5d4158a0f1/friend-or-foul-explori.jpg" length="92088" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/pigeon-bones-found-at-an-ancient-cyprus-settlement-reveal-that-our-relationship-with-these-birds-began-earlier-than-we-thought-180988791/</guid>
+    </item>    <item>
+      <title>Key Chemistry Question Answered, No Quantum Computer Required</title>
+      <link>https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/</link>
+      <description>
+        <![CDATA[Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.            <p>The post <a href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/" target="_blank">Key Chemistry Question Answered, No Quantum Computer Required</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.
+
+The post [Key Chemistry Question Answered, No Quantum Computer Required](https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=162533</guid>
+    </item>    <item>
       <title>Genode OS Framework 26.05 released</title>
       <link>https://www.osnews.com/story/145140/genode-os-framework-26-05-released/</link>
       <description>
@@ -2560,206 +2682,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=92900</guid>
-    </item>    <item>
-      <title>Google is tying reCAPTCHA to Google Play Services, screwing over de-Googled Android users</title>
-      <link>https://www.osnews.com/story/144909/google-is-tying-recaptcha-to-google-play-services-screwing-over-de-googled-android-users/</link>
-      <description>
-        <![CDATA[The ways in which Google can lock you into their ecosystem are often obvious, but sometimes, they&#8217;re incredibly sneaky and easily missed. CAPTCHA tests are annoying, but at the same time, they can help protect websites from bots. While these tests are already the bane of our internet existence, they are going to get worse for some Android users. A requirement for Google’s next-generation reCAPTCHA system will make it a lot harder for de-Googled phones to browse the web. A Reddit user has highlighted a seemingly innocuous support page for Google’s reCAPTCHA system. The page in question relates to troubleshooting reCAPTCHA verification on mobile. In the document, it says that you’ll need to use a compatible mobile device to complete verification. If you have an Android phone, then that means you’ll need to be running Google Play Services version 25.41.30 or higher. ↫ Ryan McNeal at Android Authority When was the last time you actively thought about reCAPTCHA being a Google property? Even then, when was the last time you imagined something as annoying but ultimately basic as a captcha prompt could be used to tie people to Google Play Services, and thus to &#8220;blessed&#8221; Android? Every time we manage to work around one of these asinine ties to Google Play Services, another one pops up to ruin our day. We&#8217;re so stupidly tied down to and entirely dependent on two very mid &#8211; at best &#8211; mobile operating systems, and it&#8217;s such a stupid own goal for especially everyone outside of the US to just sit there and do nothing about it. Worse yet, it seems we&#8217;re only tying ourselves down further, while paying for the privilege. At the very least we should be categorising certain services &#8211; government ID services, payment services, popular messaging platforms, and a few more &#8211; as vital infrastructure, and legally mandate these services have clearly defined and well-documented APIs so anyone is free to make alternative clients. The fact that many people are tied to either iOS or &#8220;blessed&#8221; Android because of something as stupid as what bank they use or the level of incompetency of their government ID service should be a major crisis in any country that isn&#8217;t the US. I don&#8217;t want to use iOS or Android, but nobody is leaving me any choice. It&#8217;s infuriating.]]>
-      </description>
-      <source:markdown>The ways in which Google can lock you into their ecosystem are often obvious, but sometimes, they’re incredibly sneaky and easily missed. CAPTCHA tests are annoying, but at the same time, they can help protect websites from bots. While these tests are already the bane of our internet existence, they are going to get worse for some Android users. A requirement for Google’s next-generation reCAPTCHA system will make it a lot harder for de-Googled phones to browse the web. A Reddit user has highlighted a seemingly innocuous support page for Google’s reCAPTCHA system. The page in question relates to troubleshooting reCAPTCHA verification on mobile. In the document, it says that you’ll need to use a compatible mobile device to complete verification. If you have an Android phone, then that means you’ll need to be running Google Play Services version 25.41.30 or higher. ↫ Ryan McNeal at Android Authority When was the last time you actively thought about reCAPTCHA being a Google property? Even then, when was the last time you imagined something as annoying but ultimately basic as a captcha prompt could be used to tie people to Google Play Services, and thus to “blessed” Android? Every time we manage to work around one of these asinine ties to Google Play Services, another one pops up to ruin our day. We’re so stupidly tied down to and entirely dependent on two very mid – at best – mobile operating systems, and it’s such a stupid own goal for especially everyone outside of the US to just sit there and do nothing about it. Worse yet, it seems we’re only tying ourselves down further, while paying for the privilege. At the very least we should be categorising certain services – government ID services, payment services, popular messaging platforms, and a few more – as vital infrastructure, and legally mandate these services have clearly defined and well-documented APIs so anyone is free to make alternative clients. The fact that many people are tied to either iOS or “blessed” Android because of something as stupid as what bank they use or the level of incompetency of their government ID service should be a major crisis in any country that isn’t the US. I don’t want to use iOS or Android, but nobody is leaving me any choice. It’s infuriating.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144909</guid>
-    </item>    <item>
-      <title>NASA’s SpaceX 34th Commercial Resupply Mission Overview</title>
-      <link>https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/</link>
-      <description>
-        <![CDATA[NASA and SpaceX are targeting&#160;a&#160;mid-May&#160;launch&#160;to deliver scientific investigations, supplies, and equipment to the International Space Station.&#160; Loaded&#160;with&#160;about 6,500&#160;pounds of supplies, the SpaceX Dragon spacecraft&#160;will lift off aboard&#160;the company’s Falcon 9 rocket&#160;from Launch Complex 40 at Cape Canaveral Space Force Station in Florida.&#160;Following its arrival to the&#160;orbital complex,&#160;Dragon will dock autonomously to the forward port of [&#8230;]]]>
-      </description>
-      <source:markdown>NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station.  Loaded with about 6,500 pounds of supplies, the SpaceX Dragon spacecraft will lift off aboard the company’s Falcon 9 rocket from Launch Complex 40 at Cape Canaveral Space Force Station in Florida. Following its arrival to the orbital complex, Dragon will dock autonomously to the forward port of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=994539</guid>
-    </item>    <item>
-      <title>Why Did This Wealthy Scotsman Pay a Jeweler to Wrap His Teeth in Gold Wire Hundreds of Years Ago?</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-did-this-wealthy-scotsman-pay-a-jeweler-to-wrap-his-teeth-in-gold-wire-hundreds-of-years-ago-180988709/</link>
-      <description>
-        <![CDATA[What an early example of a dental bridge reveals about health, wealth and social values in the late medieval and early modern world]]>
-      </description>
-      <source:markdown>What an early example of a dental bridge reveals about health, wealth and social values in the late medieval and early modern world</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NGAXQsdB6tY00BlNXoDfcDWOWzA=/420x240/filters:focal(583x389:584x390)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/0a/b70a6d21-a815-45a6-ac69-cd72058ea54b/41415_2025_9107_fig1_html_1.jpeg" length="481784" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-did-this-wealthy-scotsman-pay-a-jeweler-to-wrap-his-teeth-in-gold-wire-hundreds-of-years-ago-180988709/</guid>
-    </item>    <item>
-      <title>Why don’t lowercase letters come right after uppercase letters in ASCII?</title>
-      <link>https://www.osnews.com/story/144907/why-dont-lowercase-letters-come-right-after-uppercase-letters-in-ascii/</link>
-      <description>
-        <![CDATA[With that context, I always found it strange that the designers of ASCII included 6 characters after uppercase Z before starting the lowercase letters. Then it hit me: we have 26 letters in the English alphabet, plus 6 additional characters before lowercase starts: 26 + 6 = 32. If you know anything about computers, powers of 2 tend to stick out. Let’s take a look at the binary representations of some characters compared to their lowercase counterparts. ↫ Tyler Hillery I only have a middling understanding of the rest of the article and thus the ultimate reason why ASCII includes those six characters between Z and a, but I think it comes down to making certain operations on uppercase and lowercase letters specifically more elegant. In some deep crevices of my brain all of this makes sense, but I find it very difficult to truly understand and explain as someone who knows little about programming.]]>
-      </description>
-      <source:markdown>With that context, I always found it strange that the designers of ASCII included 6 characters after uppercase Z before starting the lowercase letters. Then it hit me: we have 26 letters in the English alphabet, plus 6 additional characters before lowercase starts: 26 + 6 = 32. If you know anything about computers, powers of 2 tend to stick out. Let’s take a look at the binary representations of some characters compared to their lowercase counterparts. ↫ Tyler Hillery I only have a middling understanding of the rest of the article and thus the ultimate reason why ASCII includes those six characters between Z and a, but I think it comes down to making certain operations on uppercase and lowercase letters specifically more elegant. In some deep crevices of my brain all of this makes sense, but I find it very difficult to truly understand and explain as someone who knows little about programming.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144907</guid>
-    </item>    <item>
-      <title>Detecting (or not) the use of -l and -c together in Bourne shells</title>
-      <link>https://www.osnews.com/story/144905/detecting-or-not-the-use-of-l-and-c-together-in-bourne-shells/</link>
-      <description>
-        <![CDATA[Many Bourne shells go slightly beyond the POSIX sh specification to also support a &#8216;-l&#8217; option that makes the shell act as a &#8216;login shell&#8217;. POSIX&#8217;s omission of -l isn&#8217;t only because it doesn&#8217;t really talk about login shells at all, it&#8217;s also because Unix has a special way of marking login shells that goes back very far in its history. The -l option isn&#8217;t necessarily what login and sshd and so on use, it&#8217;s something that you can use if you specifically want to get a login shell in an unusual circumstance. Bourne shells also have a &#8216;-c &#60;command string&#62;&#8217; option that causes the shell to execute the command string rather than be interactive (this is a long standing option that is in POSIX). It may surprise you to hear that most or all Bourne shells that support -l also allow you to use -l and -c together. Basically all Bourne shells interpret this as first executing your .profile and so on, then executing the command string instead of going interactive. One use for this is to non-interactively run a command line in the context of your fully set up shell, with $PATH and other environment variables ready for use. ↫ Chris Siebenmann Now, what if you want to detect the use of these two options combined, for instance to make it so certain parts of your .profile are ignored? It turns out very few Bourne shells actually support this, and that&#8217;s what Siebenmann&#8217;s latest post is about.]]>
-      </description>
-      <source:markdown>Many Bourne shells go slightly beyond the POSIX sh specification to also support a ‘-l’ option that makes the shell act as a ‘login shell’. POSIX’s omission of -l isn’t only because it doesn’t really talk about login shells at all, it’s also because Unix has a special way of marking login shells that goes back very far in its history. The -l option isn’t necessarily what login and sshd and so on use, it’s something that you can use if you specifically want to get a login shell in an unusual circumstance. Bourne shells also have a ‘-c &#60;command string&#62;’ option that causes the shell to execute the command string rather than be interactive (this is a long standing option that is in POSIX). It may surprise you to hear that most or all Bourne shells that support -l also allow you to use -l and -c together. Basically all Bourne shells interpret this as first executing your .profile and so on, then executing the command string instead of going interactive. One use for this is to non-interactively run a command line in the context of your fully set up shell, with $PATH and other environment variables ready for use. ↫ Chris Siebenmann Now, what if you want to detect the use of these two options combined, for instance to make it so certain parts of your .profile are ignored? It turns out very few Bourne shells actually support this, and that’s what Siebenmann’s latest post is about.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144905</guid>
-    </item>    <item>
-      <title>A Hiker in Norway Found an Elite Warrior’s Golden Sword Ornament. It Was Likely a Sacrifice to the Gods Made During a Time of Turmoil</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-hiker-in-norway-found-an-elite-warriors-golden-sword-ornament-it-was-likely-a-sacrifice-to-the-gods-made-during-a-time-of-turmoil-180988707/</link>
-      <description>
-        <![CDATA[Volcanic eruptions, climate change, crop failures, famine and plague all may have swept through Norway in the sixth century C.E., putting pressure on leaders and their communities]]>
-      </description>
-      <source:markdown>Volcanic eruptions, climate change, crop failures, famine and plague all may have swept through Norway in the sixth century C.E., putting pressure on leaders and their communities</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HjVtqUDH-LImCnj1HpaBLCvqoK8=/420x240/filters:focal(480x361:481x362)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/95/7a9596fe-af20-4bb7-b140-58d90344d167/ea605d01-7b8a-421c-a84b-888c8314c157-w_960.jpg" length="102354" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-hiker-in-norway-found-an-elite-warriors-golden-sword-ornament-it-was-likely-a-sacrifice-to-the-gods-made-during-a-time-of-turmoil-180988707/</guid>
-    </item>    <item>
-      <title>Community Office Hours: Contributor Spotlight on Bogomil Shopov</title>
-      <link>https://blog.thunderbird.net/2026/05/community-office-hours-contributor-spotlight-on-bogomil-shopov/</link>
-      <description>
-        <![CDATA[<p>If you have ever used Thunderbird in Bulgarian, the subject of this month&#8217;s office hours is one of the contributors who made that possible! Office Hours hosts Heather and Monica have been lucky enough to chat with long-time localizer Bogamil Shopov at conferences like FOSDEM. Now, they&#8217;re sitting down to talk to him about how [&#8230;]</p>
-        <p>The post <a href="https://blog.thunderbird.net/2026/05/community-office-hours-contributor-spotlight-on-bogomil-shopov/">Community Office Hours: Contributor Spotlight on Bogomil Shopov</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
-      </description>
-      <source:markdown>If you have ever used Thunderbird in Bulgarian, the subject of this month’s office hours is one of the contributors who made that possible! Office Hours hosts Heather and Monica have been lucky enough to chat with long-time localizer Bogamil Shopov at conferences like FOSDEM. Now, they’re sitting down to talk to him about how \[…\]
-
-The post [Community Office Hours: Contributor Spotlight on Bogomil Shopov](https://blog.thunderbird.net/2026/05/community-office-hours-contributor-spotlight-on-bogomil-shopov/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
-      <guid>cid://https://blog.thunderbird.net/?p=4303</guid>
-    </item>    <item>
-      <title>East Africa Might Break Off From the Continent Sooner Than Scientists Thought—and a New Ocean May Fill the Gap</title>
-      <link>https://www.smithsonianmag.com/smart-news/east-africa-might-break-off-from-the-continent-sooner-than-scientists-thought-and-a-new-ocean-may-fill-the-gap-180988659/</link>
-      <description>
-        <![CDATA[A new study suggests that a rift in Kenya and Ethiopia has reached a critical stage in the split-up process, and that water may flood it in a few million years]]>
-      </description>
-      <source:markdown>A new study suggests that a rift in Kenya and Ethiopia has reached a critical stage in the split-up process, and that water may flood it in a few million years</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1lXhtxK6-lFZ_ZKJ5wP9uCwBoz8=/420x240/filters:focal(1632x1228:1633x1229)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/10/f6/10f628fb-da94-4154-bf9f-23b023a5a08f/great_rift_valley_7513007728.jpg" length="2188545" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/east-africa-might-break-off-from-the-continent-sooner-than-scientists-thought-and-a-new-ocean-may-fill-the-gap-180988659/</guid>
-    </item>    <item>
-      <title>NASA’s Psyche Mission Captures Mars During Gravity Assist Approach</title>
-      <link>https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/</link>
-      <description>
-        <![CDATA[Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for […]]]>
-      </description>
-      <source:markdown>Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/</guid>
-    </item>    <item>
-      <title>Mysterious Green Rocks Discovered in a Remote Cave in Spain Might Be Signs of Prehistoric People Working With Copper</title>
-      <link>https://www.smithsonianmag.com/smart-news/mysterious-green-rocks-discovered-in-a-remote-cave-in-spain-might-be-signs-of-prehistoric-people-working-with-copper-180988706/</link>
-      <description>
-        <![CDATA[The find challenges assumptions that people in the region thousands of years ago did not spend much time at high altitudes]]>
-      </description>
-      <source:markdown>The find challenges assumptions that people in the region thousands of years ago did not spend much time at high altitudes</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4jUvLfYPGHa1rsuB1YzvykMe6nU=/420x240/filters:focal(456x304:457x305)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c0/e7/c0e753b1-0749-4eb9-8aa1-d5e9c21a523c/photo_6_2.webp" length="55952" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/mysterious-green-rocks-discovered-in-a-remote-cave-in-spain-might-be-signs-of-prehistoric-people-working-with-copper-180988706/</guid>
-    </item>    <item>
-      <title>I Am Artemis: Anton Kiriwas</title>
-      <link>https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no [&#8230;]]]>
-      </description>
-      <source:markdown>Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=994143</guid>
-    </item>    <item>
-      <title>NASA, Industry Advance High Performance Spaceflight Computing</title>
-      <link>https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/</link>
-      <description>
-        <![CDATA[For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon missions. For decades, radiation-hardened processors have been the backbone of the [&#8230;]]]>
-      </description>
-      <source:markdown>For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon missions. For decades, radiation-hardened processors have been the backbone of the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=994033</guid>
-    </item>    <item>
-      <title>This Sailor From the Franklin Expedition Died in the Arctic in a Uniform That Didn&#39;t Belong to Him. Now, DNA Has Revealed His Identity</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-franklin-expedition-officer-died-in-the-arctic-in-uniform-that-didnt-belong-to-him-now-dna-has-revealed-his-identity-180988702/</link>
-      <description>
-        <![CDATA[New research has identified four members of the doomed 1845 search for the Northwest Passage, including the owner of a paper-stuffed wallet that has long mystified historians]]>
-      </description>
-      <source:markdown>New research has identified four members of the doomed 1845 search for the Northwest Passage, including the owner of a paper-stuffed wallet that has long mystified historians</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SYRHm1Br0HambTqbvkpFdmvbiQg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/57/8657fc18-096f-4d55-93a8-576ab0657a58/erebus.png" length="2118751" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-franklin-expedition-officer-died-in-the-arctic-in-uniform-that-didnt-belong-to-him-now-dna-has-revealed-his-identity-180988702/</guid>
-    </item>    <item>
-      <title>The Fall of the Roman Empire Was Less a Clash of Civilizations and More an Opportunity to Mix and Mingle, a New Genetics Study Shows</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-fall-of-the-roman-empire-was-less-a-clash-of-civilizations-and-more-an-opportunity-to-mix-and-mingle-a-new-genetics-study-shows-180988699/</link>
-      <description>
-        <![CDATA[Researchers who analyzed genomes from early medieval graves in modern-day Germany hypothesize that people from the former Roman Empire formed families with Germanic people soon after the empire fell]]>
-      </description>
-      <source:markdown>Researchers who analyzed genomes from early medieval graves in modern-day Germany hypothesize that people from the former Roman Empire formed families with Germanic people soon after the empire fell</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/x-a_WcfjjBfaYf2p9Odzv3aKb6Y=/420x240/filters:focal(980x663:981x664)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/ac/77ac863b-8ffb-4699-88d4-20dc6b7206f0/on_for_anthropology_munich_sam_examines_the_skeleton_of_a_woman_who_lived_between_510_and_56.jpeg" length="542285" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-fall-of-the-roman-empire-was-less-a-clash-of-civilizations-and-more-an-opportunity-to-mix-and-mingle-a-new-genetics-study-shows-180988699/</guid>
-    </item>    <item>
-      <title>Wild Cockatoos Learn Which Snacks Are Safe to Eat by Copying Their Friends, New Research Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/wild-cockatoos-learn-which-snacks-are-safe-to-eat-by-copying-their-friends-new-research-suggests-180988696/</link>
-      <description>
-        <![CDATA[Munching on the wrong items can lead to illness, but social learning might help the birds avoid making a potentially deadly mistake. The phenomenon could help explain why certain cockatoos have fared so well in urban environments]]>
-      </description>
-      <source:markdown>Munching on the wrong items can lead to illness, but social learning might help the birds avoid making a potentially deadly mistake. The phenomenon could help explain why certain cockatoos have fared so well in urban environments</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eHBnmP-OQSVAhGs0HuM-Sw6-r0g=/420x240/filters:focal(350x217:351x218)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/ce/53ceea37-ab9a-4f4d-99bb-e1c6a4cd9716/low-res_cockatoo_-_in-text.jpg" length="26496" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/wild-cockatoos-learn-which-snacks-are-safe-to-eat-by-copying-their-friends-new-research-suggests-180988696/</guid>
-    </item>    <item>
-      <title>Glowing Views from the Space Station</title>
-      <link>https://www.nasa.gov/image-article/glowing-views-from-the-space-station/</link>
-      <description>
-        <![CDATA[NASA astronaut Chris Williams captured the Milky Way rising above Earth&#8217;s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. This atmospheric glow is also called airglow. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy. [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Chris Williams captured the Milky Way rising above Earth’s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. This atmospheric glow is also called airglow. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=993906</guid>
-    </item>    <item>
-      <title>Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?</title>
-      <link>https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/</link>
-      <description>
-        <![CDATA[It should be possible, but getting there will require a greater understanding of subsurface physics.            <p>The post <a href="https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/" target="_blank">Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>It should be possible, but getting there will require a greater understanding of subsurface physics.
-
-The post [Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?](https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=161806</guid>
-    </item>    <item>
-      <title>NASA Names Brian Hughes to Launch Operations Role</title>
-      <link>https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/</link>
-      <description>
-        <![CDATA[NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA’s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for [&#8230;]]]>
-      </description>
-      <source:markdown>NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA’s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=994155</guid>
-    </item>    <item>
-      <title>This Tiny Celestial Body Past Pluto Shouldn&#39;t Have an Atmosphere—but Astronomers Say They May Have Detected One</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-tiny-celestial-body-past-pluto-shouldnt-have-an-atmosphere-but-astronomers-say-they-may-have-detected-one-180988690/</link>
-      <description>
-        <![CDATA[Worlds this small and distant are thought to be too cold and have too little surface gravity to hold onto gases. But the findings suggest that icy, rocky objects in the solar system's outer reaches are more dynamic than we thought]]>
-      </description>
-      <source:markdown>Worlds this small and distant are thought to be too cold and have too little surface gravity to hold onto gases. But the findings suggest that icy, rocky objects in the solar system&#39;s outer reaches are more dynamic than we thought</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/h8_qsID56-_5oC4Ywg4I-bdQxWs=/420x240/filters:focal(640x482:641x483)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/e6/51e659c2-d7ff-4f82-9d48-25ebaea352d5/20260505-prc-fig.jpg" length="22670" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-tiny-celestial-body-past-pluto-shouldnt-have-an-atmosphere-but-astronomers-say-they-may-have-detected-one-180988690/</guid>
-    </item>    <item>
-      <title>NASA Fuel Cell Tests Pave Way for Energy Storage on Moon</title>
-      <link>https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/</link>
-      <description>
-        <![CDATA[With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]]]>
-      </description>
-      <source:markdown>With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=993809</guid>
-    </item>    <item>
-      <title>Hantavirus: the risks, the science and what you need to know</title>
-      <link>https://www.npr.org/2026/05/08/nx-s1-5811917/hantavirus-andres-mvhondius-ship-rodents</link>
-      <description>
-        <![CDATA[On May 2, the World Health Organization got an alarming report: People aboard a ship in the Atlantic Ocean were falling ill. The culprit is now confirmed as hantavirus, a pathogen that some rodents carry that can infect humans in rare, but often deadly, instances. Multiple passengers have died, and more people are showing symptoms. So, we’re talking to <a href="https://medschool.umich.edu/profile/5829/emily-abdoler"target="_blank"   >Emily Abdoler</a>, an infectious disease doctor at the University of Michigan, about the news – how common is hantavirus in humans, what are the consequences of getting it, and how can at-risk people protect themselves from it? <br/><br/><strong>If you found this episode interesting, listen to our episode on </strong><a href="http://lnk.to/DyF2OA"target="_blank"   ><strong>Rocky Mountain spotted fever.</strong></a><br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>On May 2, the World Health Organization got an alarming report: People aboard a ship in the Atlantic Ocean were falling ill. The culprit is now confirmed as hantavirus, a pathogen that some rodents carry that can infect humans in rare, but often deadly, instances. Multiple passengers have died, and more people are showing symptoms. So, we’re talking to [Emily Abdoler](https://medschool.umich.edu/profile/5829/emily-abdoler), an infectious disease doctor at the University of Michigan, about the news – how common is hantavirus in humans, what are the consequences of getting it, and how can at-risk people protect themselves from it?
-
-**If you found this episode interesting, listen to our episode on** [**Rocky Mountain spotted fever.**](http://lnk.to/DyF2OA)
-
-_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a027747a-29bb-43d7-a492-6a75692f512c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a027747a-29bb-43d7-a492-6a75692f512c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5811917&p=510351&d=777&size=12441854" length="12441854" type="audio/mpeg" />
-      <guid>cid://7fa86f05-9f92-4184-a2bf-32dc826a82fa</guid>
-    </item>    <item>
-      <title>Tracy Arm’s Post-Tsunami Landscape</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/</link>
-      <description>
-        <![CDATA[A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.]]>
-      </description>
-      <source:markdown>A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/</guid>
     </item>
   </channel>
 </rss>
