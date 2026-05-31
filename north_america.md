@@ -5,9 +5,7 @@ title: North America
 # North America
 
 - Guardian, <https://www.theguardian.com/us-news/rss>, not reading much, news covered elsewhere, RSD 2026-03-17
-- [Zeteo](https://zeteo.com/feed)
 - Bloomberg https://feeds.bloomberg.com/news.rss (not sure about this feed)
-- [What A Day (crooked media)](https://crookedmedia.substack.com/feed)
 - [Federal News Network](https://federalnewsnetwork.com/feed/)
 - Saturday Evening Post, <https://www.saturdayeveningpost.com/feed/>
 - [The American Prospect](https://prospect.org/feed/)

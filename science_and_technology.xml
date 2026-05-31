@@ -4,10 +4,34 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>30 May 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>31 May 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Remember when people said open video codecs would never win?</title>
+      <link>https://www.osnews.com/story/145160/remember-when-people-said-open-video-codecs-would-never-win/</link>
+      <description>
+        <![CDATA[The Alliance for Open Media has published the first version of the AV2 specification. AV2 is the next-generation video coding specification from the Alliance for Open Media (AOMedia). Building on the foundation of AV1, AV2 is engineered to provide superior compression efficiency, enabling high-quality video delivery at significantly lower bitrates. It is optimized for the evolving demands of streaming, broadcasting, and real-time video conferencing. This specification serves as the definitive technical reference for AV2 implementations. It outlines the bitstream syntax, semantics, and decoding processes required to ensure full conformance. AV2 provides enhanced support for AR/VR applications, split-screen delivery of multiple programs, improved handling of screen content, and an ability to operate over a wider visual quality range. ↫ AV2 website Do you remember when the video codec wars &#8211; open vs. closed &#8211; were raging all across the web, for years? Even back then I argued that open would win, as it usually does, and over 15 years later the most widely-used video codecs on the planet being open is just a normal fact of life nobody writes or talks about anymore. VP8, VP9, AV1, and now this upcoming AV2 are all open and royalty-free, the by far largest video platform, YouTube, serves them by default, and the video codec problem is a solved problem, relegated to the spinning disk drive of history. I was told I was an idealist and that this would never happen, and yet, here we are.]]>
+      </description>
+      <source:markdown>The Alliance for Open Media has published the first version of the AV2 specification. AV2 is the next-generation video coding specification from the Alliance for Open Media (AOMedia). Building on the foundation of AV1, AV2 is engineered to provide superior compression efficiency, enabling high-quality video delivery at significantly lower bitrates. It is optimized for the evolving demands of streaming, broadcasting, and real-time video conferencing. This specification serves as the definitive technical reference for AV2 implementations. It outlines the bitstream syntax, semantics, and decoding processes required to ensure full conformance. AV2 provides enhanced support for AR/VR applications, split-screen delivery of multiple programs, improved handling of screen content, and an ability to operate over a wider visual quality range. ↫ AV2 website Do you remember when the video codec wars – open vs. closed – were raging all across the web, for years? Even back then I argued that open would win, as it usually does, and over 15 years later the most widely-used video codecs on the planet being open is just a normal fact of life nobody writes or talks about anymore. VP8, VP9, AV1, and now this upcoming AV2 are all open and royalty-free, the by far largest video platform, YouTube, serves them by default, and the video codec problem is a solved problem, relegated to the spinning disk drive of history. I was told I was an idealist and that this would never happen, and yet, here we are.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145160</guid>
+    </item>    <item>
+      <title>DECmate II: the little PDP-8 that could</title>
+      <link>https://www.osnews.com/story/145157/decmate-ii-the-little-pdp-8-that-could/</link>
+      <description>
+        <![CDATA[When Cameron Kaiser speaks, we listen. In 1982, as we mentioned at length with our history of the DEC Professional, Digital Equipment Corporation attempted to keep their PDP-11 minicomputer market-relevant by turning the venerable architecture into a largely incompatible desktop microcomputer. But that wasn&#8217;t the only PDP-series mini it happened to, and it wasn&#8217;t even the first: the PDP-8 actually got the shrink-ray treatment several years before, and not content to merely make it into a smaller general purpose computer, DEC turned it into a word processor. ↫ Cameron Kaiser at Old Vintage Computing A word processor that&#8217;s still sort of a PDP-8 inside, and that could run CP/M or even DOS using a Z80 or 8086 expansion card.]]>
+      </description>
+      <source:markdown>When Cameron Kaiser speaks, we listen. In 1982, as we mentioned at length with our history of the DEC Professional, Digital Equipment Corporation attempted to keep their PDP-11 minicomputer market-relevant by turning the venerable architecture into a largely incompatible desktop microcomputer. But that wasn’t the only PDP-series mini it happened to, and it wasn’t even the first: the PDP-8 actually got the shrink-ray treatment several years before, and not content to merely make it into a smaller general purpose computer, DEC turned it into a word processor. ↫ Cameron Kaiser at Old Vintage Computing A word processor that’s still sort of a PDP-8 inside, and that could run CP/M or even DOS using a Z80 or 8086 expansion card.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145157</guid>
+    </item>    <item>
+      <title>Settlers of Catan, TUI edition</title>
+      <link>https://www.osnews.com/story/145154/settlers-of-catan-tui-edition/</link>
+      <description>
+        <![CDATA[A beautiful TUI might not be particularly accessible, and there&#8217;s effectively zero consistency between how different TUI applications look, feel, and behave, but damn if an amazing TUI isn&#8217;t a work of art. Case in point: El Poblador. This is a TUI version of Settles of Catan, written in Go. That&#8217;s it. That&#8217;s the post.]]>
+      </description>
+      <source:markdown>A beautiful TUI might not be particularly accessible, and there’s effectively zero consistency between how different TUI applications look, feel, and behave, but damn if an amazing TUI isn’t a work of art. Case in point: El Poblador. This is a TUI version of Settles of Catan, written in Go. That’s it. That’s the post.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145154</guid>
+    </item>    <item>
       <title>NASA Awards Contract for Johnson Space Center Infrastructure</title>
       <link>https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/</link>
       <description>

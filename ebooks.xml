@@ -4,12 +4,33 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>30 May 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>31 May 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Captain Kettle on the war-path by Charles John Cutcliffe Wright Hyne</title>
       <link>https://www.gutenberg.org/ebooks/78784</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le cochon dans les trèfles by Mark Twain</title>
+      <link>https://www.gutenberg.org/ebooks/78786</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Der Hochlandspfarrer by Ingeborg Maria Sick</title>
+      <link>https://www.gutenberg.org/ebooks/78787</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>I thought of Daisy by Edmund Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/78785</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1111,7 +1132,7 @@
         <![CDATA[A group of men hunt for the kidnappers of a friend’s wife.]]>
       </description>
       <source:markdown>A group of men hunt for the kidnappers of a friend’s wife.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dornford-yates/perishable-goods/downloads/dornford-yates_perishable-goods.epub?source=feed" length="569181" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/dornford-yates/perishable-goods/downloads/dornford-yates_perishable-goods.epub?source=feed" length="569176" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/dornford-yates/perishable-goods</guid>
     </item>    <item>
       <title>Sailing Alone Around the World, by Joshua Slocum</title>
@@ -1446,94 +1467,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Dr. Wortle’s School, by Anthony Trollope</title>
-      <link>https://standardebooks.org/ebooks/anthony-trollope/dr-wortles-school</link>
-      <description>
-        <![CDATA[A scandal that threatens the future of an exclusive boys’ school poses a moral dilemma for its headmaster.]]>
-      </description>
-      <source:markdown>A scandal that threatens the future of an exclusive boys’ school poses a moral dilemma for its headmaster.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/anthony-trollope/dr-wortles-school/downloads/anthony-trollope_dr-wortles-school.epub?source=feed" length="634330" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/anthony-trollope/dr-wortles-school</guid>
-    </item>    <item>
-      <title>The Nature of a Crime, by Joseph Conrad and Ford Madox Ford</title>
-      <link>https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime</link>
-      <description>
-        <![CDATA[After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.]]>
-      </description>
-      <source:markdown>After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime/downloads/joseph-conrad-ford-madox-ford_the-nature-of-a-crime.epub?source=feed" length="216765" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime</guid>
-    </item>    <item>
-      <title>The Yellow Knight of Oz by Ruth Plumly Thompson</title>
-      <link>https://www.gutenberg.org/ebooks/78637</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Roma nella cultura moderna : by Guglielmo Ferrero</title>
-      <link>https://www.gutenberg.org/ebooks/78636</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Glinda of Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/961</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ozma of Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/486</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Rinkitink in Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/958</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A bull movement in Yellow Horse by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78632</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The wisdom of the Ouija by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78633</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Catalog of Copyright Entries Third Series Vol 25 Pts 12-13 :</title>
-      <link>https://www.gutenberg.org/ebooks/78638</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Keväisiä lupauksia; Alikapteeni Kablukovin elämästä by Leonid Andreyev</title>
-      <link>https://www.gutenberg.org/ebooks/78635</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Propaganda by Edward L. Bernays</title>
-      <link>https://www.gutenberg.org/ebooks/78634</link>
-      <description>
-        <![CDATA[Language:]]>
-      </description>
-      <source:markdown>Language:</source:markdown>
     </item>
   </channel>
 </rss>

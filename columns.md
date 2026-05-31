@@ -383,7 +383,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Jasmine's Substack](https://jasmi.news/feed)
 - [Hunter Harris blog](https://hunterharris.substack.com/feed/)
 - [The Sam Sanders Show}(https://feed.cdnstream1.com/zjb/feed/download/ac/28/59/ac28594c-e1d0-4231-8728-61865cdc80e8.xml)
-- [Assembly Required with Stacy Abrams](https://crooked.com/podcast-series/assemblyrequired/feed/)
 - [One Big Library](https://data.onebiglibrary.net/feeds/all.atom.xml)
 - [Deadline (Hollywood News)](https://deadline.com/feed/)
 - [The Browser](https://thebrowser.com/free/rss/)
