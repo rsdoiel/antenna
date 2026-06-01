@@ -4,10 +4,24 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>31 May 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>01 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Through the Grand Canyon from Wyoming to Mexico by E. L.  Kolb</title>
+      <link>https://www.gutenberg.org/ebooks/13150</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Notes on the cathedral libraries of England by Beriah Botfield</title>
+      <link>https://www.gutenberg.org/ebooks/78788</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Captain Kettle on the war-path by Charles John Cutcliffe Wright Hyne</title>
       <link>https://www.gutenberg.org/ebooks/78784</link>
       <description>
@@ -1390,83 +1404,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The opal : by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/78640</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Pilgrimage of Grace, 1536-1537, and the Exeter Conspiracy, 1538, Volume 2 (of 2) by Dodds</title>
-      <link>https://www.gutenberg.org/ebooks/78639</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Swift by Carl Van Doren</title>
-      <link>https://www.gutenberg.org/ebooks/78641</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Patchwork Girl of Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/32094</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Päivä Helsingissä : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78646</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The mirror of the months by Sheila Kaye-Smith</title>
-      <link>https://www.gutenberg.org/ebooks/78642</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Dorothy and the Wizard in Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/19450</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Patchwork Girl of Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/955</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>&#34;Hashknife&#34;—philanthropist by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78644</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>John Winthrop, Jr., on Indian Corn by John Winthrop</title>
-      <link>https://www.gutenberg.org/ebooks/78645</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Thornley Colton : by Clinton H.  Stagg</title>
-      <link>https://www.gutenberg.org/ebooks/78643</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
