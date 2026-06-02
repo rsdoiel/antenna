@@ -4,10 +4,82 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>01 Jun 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>02 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Gunman&#39;s bluff by Edgar Wallace</title>
+      <link>https://www.gutenberg.org/ebooks/78794</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The voices by Edward Wellen</title>
+      <link>https://www.gutenberg.org/ebooks/78790</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Number Three, Winifred Place by Agnes Giberne</title>
+      <link>https://www.gutenberg.org/ebooks/78795</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Crown Jewels of England by Cyril Davenport and G. J.  Younghusband</title>
+      <link>https://www.gutenberg.org/ebooks/78796</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Journal of an expedition to explore the course and termination of the Niger, Vol. 1 (of 3) by Lander</title>
+      <link>https://www.gutenberg.org/ebooks/78791</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Journal of an expedition to explore the course and termination of the Niger, Vol. 2 (of 3) by Lander</title>
+      <link>https://www.gutenberg.org/ebooks/78792</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Journal of an expedition to explore the course and termination of the Niger, Vol. 3 (of 3) by Lander</title>
+      <link>https://www.gutenberg.org/ebooks/78793</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The North Atlantic telegraph via the Færöe Isles, Iceland, and Greenland :</title>
+      <link>https://www.gutenberg.org/ebooks/78797</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The book of talismans, amulets, and zodiacal gems by Kate Pavitt and William Thomas Pavitt</title>
+      <link>https://www.gutenberg.org/ebooks/78789</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Saragossa, by Benito Pérez Galdós</title>
+      <link>https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith</link>
+      <description>
+        <![CDATA[A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.]]>
+      </description>
+      <source:markdown>A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith/downloads/benito-perez-galdos_saragossa_minna-caroline-smith.epub?source=feed" length="618474" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith</guid>
+    </item>    <item>
       <title>Through the Grand Canyon from Wyoming to Mexico by E. L.  Kolb</title>
       <link>https://www.gutenberg.org/ebooks/13150</link>
       <description>
@@ -91,7 +163,7 @@
         <![CDATA[Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.]]>
       </description>
       <source:markdown>Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/charles-brockden-brown_wieland.epub?source=feed" length="680539" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/charles-brockden-brown/wieland/downloads/charles-brockden-brown_wieland.epub?source=feed" length="680565" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/charles-brockden-brown/wieland</guid>
     </item>    <item>
       <title>My Life in China and America, by Yung Wing</title>
@@ -100,7 +172,7 @@
         <![CDATA[A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.]]>
       </description>
       <source:markdown>A Chinese-American graduate of Yale recounts his experiences as a student and civil servant.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/yung-wing_my-life-in-china-and-america.epub?source=feed" length="592551" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america/downloads/yung-wing_my-life-in-china-and-america.epub?source=feed" length="592576" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/yung-wing/my-life-in-china-and-america</guid>
     </item>    <item>
       <title>The Village, by Ivan Bunin</title>
@@ -109,7 +181,7 @@
         <![CDATA[Two brothers pass their lives in rural Russia.]]>
       </description>
       <source:markdown>Two brothers pass their lives in rural Russia.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ivan-bunin/the-village/isabel-f-hapgood/downloads/ivan-bunin_the-village_isabel-f-hapgood.epub?source=feed" length="546049" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ivan-bunin/the-village/isabel-f-hapgood/downloads/ivan-bunin_the-village_isabel-f-hapgood.epub?source=feed" length="546077" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ivan-bunin/the-village/isabel-f-hapgood</guid>
     </item>    <item>
       <title>The Story of a Bad Boy by Thomas Bailey Aldrich</title>
@@ -253,7 +325,7 @@
         <![CDATA[A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.]]>
       </description>
       <source:markdown>A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rover/downloads/joseph-conrad_the-rover.epub?source=feed" length="494817" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rover/downloads/joseph-conrad_the-rover.epub?source=feed" length="494841" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-rover</guid>
     </item>    <item>
       <title>Sir Piegan passes by W. C.  Tuttle</title>
@@ -360,7 +432,7 @@
         <![CDATA[A collection of Catherine Louisa Pirkis’s short fiction.]]>
       </description>
       <source:markdown>A collection of Catherine Louisa Pirkis’s short fiction.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction/downloads/catherine-louisa-pirkis_short-fiction.epub?source=feed" length="721370" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction/downloads/catherine-louisa-pirkis_short-fiction.epub?source=feed" length="721397" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction</guid>
     </item>    <item>
       <title>Four plays by A. A.  Milne</title>
@@ -726,7 +798,7 @@
         <![CDATA[A philosopher and M.P. argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.]]>
       </description>
       <source:markdown>A philosopher and M.P. argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/norman-angell/the-great-illusion/downloads/norman-angell_the-great-illusion.epub?source=feed" length="684024" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/norman-angell/the-great-illusion/downloads/norman-angell_the-great-illusion.epub?source=feed" length="684050" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/norman-angell/the-great-illusion</guid>
     </item>    <item>
       <title>The Sword of Damocles, by Anna Katharine Green</title>
@@ -735,7 +807,7 @@
         <![CDATA[A successful New York businessman, burdened with a dark secret in his past, is threatened with exposure and ruin.]]>
       </description>
       <source:markdown>A successful New York businessman, burdened with a dark secret in his past, is threatened with exposure and ruin.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles/downloads/anna-katharine-green_the-sword-of-damocles.epub?source=feed" length="926124" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles/downloads/anna-katharine-green_the-sword-of-damocles.epub?source=feed" length="926135" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles</guid>
     </item>    <item>
       <title>Moving the Mountain, by Charlotte Perkins Gilman</title>
@@ -846,7 +918,7 @@
         <![CDATA[A former soldier seduces and manipulates women in order to rise through Parisian society.]]>
       </description>
       <source:markdown>A former soldier seduces and manipulates women in order to rise through Parisian society.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company/downloads/guy-de-maupassant_bel-ami_vizetelly-and-company.epub?source=feed" length="605340" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company/downloads/guy-de-maupassant_bel-ami_vizetelly-and-company.epub?source=feed" length="605345" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company</guid>
     </item>    <item>
       <title>Bel Ami, by Guy de Maupassant</title>
@@ -1102,7 +1174,7 @@
         <![CDATA[A Syrian Arab’s fortunes rise and fall as he wanders away from his home by the sea.]]>
       </description>
       <source:markdown>A Syrian Arab’s fortunes rise and fall as he wanders away from his home by the sea.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/marmaduke-pickthall/said-the-fisherman/downloads/marmaduke-pickthall_said-the-fisherman.epub?source=feed" length="724572" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/marmaduke-pickthall/said-the-fisherman/downloads/marmaduke-pickthall_said-the-fisherman.epub?source=feed" length="724582" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/marmaduke-pickthall/said-the-fisherman</guid>
     </item>    <item>
       <title>The English works of Thomas Hobbes of Malmesbury, Volume 07 (of 11) by Thomas Hobbes</title>
@@ -1155,7 +1227,7 @@
         <![CDATA[A sailor gives his account how he completed the first solo sailing voyage around the world.]]>
       </description>
       <source:markdown>A sailor gives his account how he completed the first solo sailing voyage around the world.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/joshua-slocum_sailing-alone-around-the-world.epub?source=feed" length="3139262" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/joshua-slocum_sailing-alone-around-the-world.epub?source=feed" length="3139096" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</guid>
     </item>    <item>
       <title>The Fifth Queen Crowned, by Ford Madox Ford</title>
@@ -1355,55 +1427,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Complete Grammar of Esperanto by Ivy Kellerman Reed</title>
-      <link>https://www.gutenberg.org/ebooks/7787</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nuorta lempeä : by Anna Baadsgaard</title>
-      <link>https://www.gutenberg.org/ebooks/78648</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The hen-punchers of Piperock by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78651</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Valkea maa : by Niilo Mantere</title>
-      <link>https://www.gutenberg.org/ebooks/78649</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>A fisher girl of France by Fernand Calmettes</title>
-      <link>https://www.gutenberg.org/ebooks/78652</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The framed fifty by Karl Decker</title>
-      <link>https://www.gutenberg.org/ebooks/78650</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mettisen sunnuntai : by Roine Bertel</title>
-      <link>https://www.gutenberg.org/ebooks/78647</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
     </item>
   </channel>
 </rss>

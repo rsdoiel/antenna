@@ -4,10 +4,162 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>01 Jun 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>02 Jun 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Spacewalking With Scott Wray, Artemis EVA Training Lead</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/</link>
+      <description>
+        <![CDATA[Scott Wray’s experience with spacewalks started when he was about 6 years old. A tent resembling a lunar lander provided the perfect imaginary spacecraft. “I would lie on my back with my feet propped up on a pillow as I imagined going through a launch countdown sequence,” he said. “Then I would exit the tent [&#8230;]]]>
+      </description>
+      <source:markdown>Scott Wray’s experience with spacewalks started when he was about 6 years old. A tent resembling a lunar lander provided the perfect imaginary spacecraft. “I would lie on my back with my feet propped up on a pillow as I imagined going through a launch countdown sequence,” he said. “Then I would exit the tent \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1000313</guid>
+    </item>    <item>
+      <title>Why are scientists planting tiny forests in big cities?</title>
+      <link>https://www.npr.org/2026/06/02/nx-s1-5843175/science-forest-climate-trees</link>
+      <description>
+        <![CDATA[Healthy forests help combat climate change, provide humans with drinking water and even improve mental and physical health. But it’s hard to imagine an entire forest in the middle of a big city. That’s where micro-forests come into play — public forests on a smaller scale, filled with native plants. They exist around the world, and producer Rachel Carlson went to visit the largest micro-forest in California in this encore episode. She joins host Emily Kwong to chat about what she saw. <br/><br/><em>Interested in more of the science behind urban nature? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Healthy forests help combat climate change, provide humans with drinking water and even improve mental and physical health. But it’s hard to imagine an entire forest in the middle of a big city. That’s where micro-forests come into play — public forests on a smaller scale, filled with native plants. They exist around the world, and producer Rachel Carlson went to visit the largest micro-forest in California in this encore episode. She joins host Emily Kwong to chat about what she saw.
+
+_Interested in more of the science behind urban nature? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5a22e87a-872b-4c97-bf98-40d4801498e6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5a22e87a-872b-4c97-bf98-40d4801498e6&feed=F0qJcgXZ&t=podcast&e=nx-s1-5843175&p=510351&d=732&size=11714187" length="11714187" type="audio/mpeg" />
+      <guid>cid://925ffe8c-3f11-4568-9683-3a7e43906e9d</guid>
+    </item>    <item>
+      <title>Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence</title>
+      <link>https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/</link>
+      <description>
+        <![CDATA[Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems.  Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what [&#8230;]]]>
+      </description>
+      <source:markdown>Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems.  Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=93845</guid>
+    </item>    <item>
+      <title>Fire’s Footprint on Santa Rosa Island</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/</link>
+      <description>
+        <![CDATA[A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.]]>
+      </description>
+      <source:markdown>A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/</guid>
+    </item>    <item>
+      <title>NVIDIA Jetson Brings Agentic AI to the Physical World</title>
+      <link>https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/</link>
+      <description>
+        <![CDATA[Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson [&#8230;]]]>
+      </description>
+      <source:markdown>Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=93325</guid>
+    </item>    <item>
+      <title>NASA Awards Modification Contract for Reduced Gravity Test Aircraft</title>
+      <link>https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/</link>
+      <description>
+        <![CDATA[NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is a firm-fixed-price contract and will be time and material for any over and above and unforeseen [&#8230;]]]>
+      </description>
+      <source:markdown>NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is a firm-fixed-price contract and will be time and material for any over and above and unforeseen \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1001493</guid>
+    </item>    <item>
+      <title>&#39;Playful Youngster&#39;: See the Rare, Endangered Przewalski&#39;s Horse Born at the Bronx Zoo</title>
+      <link>https://www.smithsonianmag.com/smart-news/playful-youngster-see-the-rare-endangered-przewalskis-horse-born-at-the-bronx-zoo-180988873/</link>
+      <description>
+        <![CDATA[The foal was born on April 21 and is now romping around with the rest of the herd in the zoo's seasonal Wild Asia Monorail exhibit. It belongs to a species whose members are often considered the last truly wild horses]]>
+      </description>
+      <source:markdown>The foal was born on April 21 and is now romping around with the rest of the herd in the zoo&#39;s seasonal Wild Asia Monorail exhibit. It belongs to a species whose members are often considered the last truly wild horses</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pwF9dkAZgtftrCRToSEq2nZKJRA=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d1/7a/d17a1008-2357-453d-b0d2-bcb7d3b72333/terria_clay_6313_przewalskis_horse_with_foal_was_bz_20260521.jpg" length="980865" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/playful-youngster-see-the-rare-endangered-przewalskis-horse-born-at-the-bronx-zoo-180988873/</guid>
+    </item>    <item>
+      <title>NASA Invites Media to See Roman Space Telescope Arrive at Kennedy</title>
+      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/</link>
+      <description>
+        <![CDATA[Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency’s Kennedy Space Center in Florida in the coming weeks. The observatory will arrive aboard NASA’s Pegasus barge from NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where teams completed its construction, assembly, and testing. Credentialed media [&#8230;]]]>
+      </description>
+      <source:markdown>Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency’s Kennedy Space Center in Florida in the coming weeks. The observatory will arrive aboard NASA’s Pegasus barge from NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where teams completed its construction, assembly, and testing. Credentialed media \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1001347</guid>
+    </item>    <item>
+      <title>The Gouged-Out Testicles of This Bull Mosaic in Italy Are Just Two More Victims of Tourists Abusing Monuments for Luck</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-gouged-out-testicles-of-this-bull-mosaic-in-italy-are-just-two-more-victims-of-tourists-abusing-monuments-for-luck-180988870/</link>
+      <description>
+        <![CDATA[It's common for visitors to touch intimate areas portrayed in artworks, but the phenomenon puts cultural icons at risk]]>
+      </description>
+      <source:markdown>It&#39;s common for visitors to touch intimate areas portrayed in artworks, but the phenomenon puts cultural icons at risk</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WbL71INtdYku-CXMN2OwF8GkmM0=/420x240/filters:focal(1536x1024:1537x1025)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/67/0167e455-1e41-442c-a129-b9b8e3f428fe/3494_-_milano_-_galleria_vittorio_emanuele_-_stemma_di_torino_-_foto_giovanni_dallorto_22-jun.jpeg" length="7488029" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-gouged-out-testicles-of-this-bull-mosaic-in-italy-are-just-two-more-victims-of-tourists-abusing-monuments-for-luck-180988870/</guid>
+    </item>    <item>
+      <title>A Bright Meteor Lit Up the New England Sky Before Exploding With a Loud Boom—and Its Pieces May Have Landed in Cape Cod Bay</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-bright-meteor-lit-up-the-new-england-sky-before-exploding-with-a-loud-boom-and-its-pieces-may-have-landed-in-cape-cod-bay-180988869/</link>
+      <description>
+        <![CDATA[People reported seeing the glowing space rock or hearing or feeling its breakup from Delaware to Montreal. Experts estimate that it was about three feet wide and traveling at 75,000 miles per hour when it broke apart]]>
+      </description>
+      <source:markdown>People reported seeing the glowing space rock or hearing or feeling its breakup from Delaware to Montreal. Experts estimate that it was about three feet wide and traveling at 75,000 miles per hour when it broke apart</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IONItUjYTZFueImlaljSuJ8HMNk=/420x240/filters:focal(1116x956:1117x957)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/70/f7/70f74604-022a-4e74-a09f-c0f1e906bba3/screenshot_2026-06-01_at_115835.png" length="5773910" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-bright-meteor-lit-up-the-new-england-sky-before-exploding-with-a-loud-boom-and-its-pieces-may-have-landed-in-cape-cod-bay-180988869/</guid>
+    </item>    <item>
+      <title>NASA to Conduct Low-Altitude Flights Near Houston</title>
+      <link>https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/</link>
+      <description>
+        <![CDATA[Five research&#160;aircraft&#160;will support a Student Airborne Research Program (SARP) mission out of Ellington Field in Houston. Flights are expected from Wednesday, June 3 to Saturday, June 13.&#160;During the mission, select maneuvers will be conducted at low altitudes over the Houston area.&#160; Pilots&#160;will&#160;fly remote sensing payloads in raster patterns,&#160;or&#160;parallel back-and-forth lines. The instruments flown could help [&#8230;]]]>
+      </description>
+      <source:markdown>Five research aircraft will support a Student Airborne Research Program (SARP) mission out of Ellington Field in Houston. Flights are expected from Wednesday, June 3 to Saturday, June 13. During the mission, select maneuvers will be conducted at low altitudes over the Houston area.  Pilots will fly remote sensing payloads in raster patterns, or parallel back-and-forth lines. The instruments flown could help \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1001158</guid>
+    </item>    <item>
+      <title>What’s Up: June 2026 Skywatching Tips from NASA</title>
+      <link>https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/</link>
+      <description>
+        <![CDATA[Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer begins, and deep-sky treasures rise into view.]]>
+      </description>
+      <source:markdown>Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer begins, and deep-sky treasures rise into view.</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/</guid>
+    </item>    <item>
+      <title>Microsoft is intentionally bricking all Office for Mac 2019/2021 installations</title>
+      <link>https://www.osnews.com/story/145179/microsoft-is-intentionally-bricking-all-office-for-mac-2019-installations/</link>
+      <description>
+        <![CDATA[You&#8217;re a smart cookie, so you opted to buy a copy of Microsoft Office for macOS back in 2019 or 2021, eschewing the Office 365 subscription, so you could keep on using Office 2019/2021 forever if you wanted to. Just like in the old days. I&#8217;ve got some bad news. Microsoft Office 2019 and 2021 for Mac view-only conversion (2026) is a scheduled remote degradation of perpetually-licensed Microsoft Office software for macOS and iOS, set for July 13, 2026 when a license-validation certificate used by the Office apps expires. After Office 2019 for Mac reached end of support in October 2023, Microsoft assured customers their installed apps would &#8220;continue to function.&#8221; The July 13, 2026 conversion instead drops the apps into a Microsoft-defined &#8220;reduced functionality mode,&#8221; in which files can be opened and viewed but not edited or saved. By May 30, 2026, the original 2023 end-of-support page had been re-dated and rewritten on Microsoft&#8217;s site; the &#8220;continue to function&#8221; clause was removed. ↫ Consumer Rights Wiki Microsoft&#8217;s advice to the users they&#8217;re stealing from is to keep using the applications as mere viewers, switch to the free Office 365 web applications, pay for a 365 subscription, or buy a brand new regular copy of Office 2024. None of these make any sense, and clearly, all of this should be illegal, but it&#8217;s not because the software industry is a clown show. Proprietary software is unethical.]]>
+      </description>
+      <source:markdown>You’re a smart cookie, so you opted to buy a copy of Microsoft Office for macOS back in 2019 or 2021, eschewing the Office 365 subscription, so you could keep on using Office 2019/2021 forever if you wanted to. Just like in the old days. I’ve got some bad news. Microsoft Office 2019 and 2021 for Mac view-only conversion (2026) is a scheduled remote degradation of perpetually-licensed Microsoft Office software for macOS and iOS, set for July 13, 2026 when a license-validation certificate used by the Office apps expires. After Office 2019 for Mac reached end of support in October 2023, Microsoft assured customers their installed apps would “continue to function.” The July 13, 2026 conversion instead drops the apps into a Microsoft-defined “reduced functionality mode,” in which files can be opened and viewed but not edited or saved. By May 30, 2026, the original 2023 end-of-support page had been re-dated and rewritten on Microsoft’s site; the “continue to function” clause was removed. ↫ Consumer Rights Wiki Microsoft’s advice to the users they’re stealing from is to keep using the applications as mere viewers, switch to the free Office 365 web applications, pay for a 365 subscription, or buy a brand new regular copy of Office 2024. None of these make any sense, and clearly, all of this should be illegal, but it’s not because the software industry is a clown show. Proprietary software is unethical.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145179</guid>
+    </item>    <item>
+      <title>Asphalt Is the Canvas for This Year&#39;s World Street Painting Festival in Joplin, Missouri, Which Honors 100 Years of Route 66</title>
+      <link>https://www.smithsonianmag.com/smart-news/asphalt-is-the-canvas-for-this-years-world-street-painting-festival-in-joplin-missouri-which-honors-100-years-of-route-66-180988868/</link>
+      <description>
+        <![CDATA[Immersive paintings, which function as massive optical illusions, pay tribute to the "Mother Road" and its influence on American culture]]>
+      </description>
+      <source:markdown>Immersive paintings, which function as massive optical illusions, pay tribute to the &#34;Mother Road&#34; and its influence on American culture</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/v_408sRt1FylaaAHdR33obhW-34=/420x240/filters:focal(1100x744:1101x745)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6d/3d/6d3d9442-c087-497e-8c07-c167b7ab8aec/112.jpg" length="2693475" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/asphalt-is-the-canvas-for-this-years-world-street-painting-festival-in-joplin-missouri-which-honors-100-years-of-route-66-180988868/</guid>
+    </item>    <item>
+      <title>The Dirt That Refused To Die</title>
+      <link>https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/</link>
+      <description>
+        <![CDATA[Lifelike biochemistry continued to unfold in sterilized soil for six years, pointing to a metabolic theory for how biology began.            <p>The post <a href="https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/" target="_blank">The Dirt That Refused To Die</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Lifelike biochemistry continued to unfold in sterilized soil for six years, pointing to a metabolic theory for how biology began.
+
+The post [The Dirt That Refused To Die](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=162566</guid>
+    </item>    <item>
+      <title>Pretty in Pink</title>
+      <link>https://www.nasa.gov/image-article/pretty-in-pink-2/</link>
+      <description>
+        <![CDATA[This image of Westerlund 2 released on March 19, 2026, features Chandra X-ray Observatory data (pink) and infrared data from NASA&#8217;S James Webb Space Telescope (red, orange, green, cyan, and blue). Scores of gleaming stars ringed in neon pink stretch across the frame, highlighting a cluster where stars are between one and three million years [&#8230;]]]>
+      </description>
+      <source:markdown>This image of Westerlund 2 released on March 19, 2026, features Chandra X-ray Observatory data (pink) and infrared data from NASA’S James Webb Space Telescope (red, orange, green, cyan, and blue). Scores of gleaming stars ringed in neon pink stretch across the frame, highlighting a cluster where stars are between one and three million years \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1000932</guid>
+    </item>    <item>
+      <title>Could Bug Spray Attract Mosquitoes? Lab Insects Learned That the Smell of DEET Would Lead Them to a Tasty Treat</title>
+      <link>https://www.smithsonianmag.com/smart-news/could-bug-spray-attract-mosquitoes-lab-insects-learned-that-the-smell-of-deet-would-lead-them-to-a-tasty-treat-180988866/</link>
+      <description>
+        <![CDATA[Researchers don't know how the findings might overlap with real-world settings. But the findings suggest that we're most vulnerable when our insect repellent is wearing off, meaning we should reapply it regularly]]>
+      </description>
+      <source:markdown>Researchers don&#39;t know how the findings might overlap with real-world settings. But the findings suggest that we&#39;re most vulnerable when our insect repellent is wearing off, meaning we should reapply it regularly</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Ar6hhtw7ml7qfGbcTH4u8-IjfU4=/420x240/filters:focal(350x197:351x198)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/72/0d72b9ef-e91e-4189-8e32-07d41030d650/low-res_clip3_hembra_detalle_1-n.jpg" length="62408" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/could-bug-spray-attract-mosquitoes-lab-insects-learned-that-the-smell-of-deet-would-lead-them-to-a-tasty-treat-180988866/</guid>
+    </item>    <item>
       <title>NVIDIA unveils RTX Spark chip for laptops and desktop PCs</title>
       <link>https://www.osnews.com/story/145177/nvidia-unveils-rtx-spark-chip-for-laptops-and-desktop-pcs/</link>
       <description>
@@ -2597,205 +2749,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/</guid>
-    </item>    <item>
-      <title>OpenBSD and slopcode: raindrop to a torrent?</title>
-      <link>https://www.osnews.com/story/144935/openbsd-and-slopcode-raindrop-to-a-torrent/</link>
-      <description>
-        <![CDATA[Every single software product is dealing with the question about what to do with &#8220;AI&#8221;-generated code, but the question is particularly difficult to answer for open source operating systems like Linux distributions and the various BSDs, which often consist of a wide variety of software packages from hundreds to thousands of different developers. On top of that, they also have to ask the &#8220;AI&#8221; question for every layer of their offering, from the base install, to the official repositories, to community-run ones. As users, we, too, are asking these same questions, wondering just how much &#8220;AI&#8221; taint we&#8217;re willing to spread across our computers. I understand the difficult position Linux distributions are in with regard to &#8220;AI&#8221;. I mean, when even the Linux kernel itself is tainted by &#8220;AI&#8221;, a no-&#8220;AI&#8221; policy is basically an empty gesture for them at this point. Personally, I find a policy of &#8220;we don&#8217;t do &#8216;AI&#8217; in our work, but we don&#8217;t have control over the thousands of components we consist of&#8221; to be an entirely reasonable, if deeply unsatisfying, position to take. What else are they going to do? You can&#8217;t really be a Linux distribution without, you know, the Linux kernel, which is, as I&#8217;ve already said, utterly tainted by &#8220;AI&#8221; at this point. Still, in the back of my mind, I always had a trump card: if all else fails, we&#8217;ll always have OpenBSD. Its project leader Theo de Raadt is deeply principled, every OpenBSD user and contributor I know hates &#8220;AI&#8221; deeply, and the project routinely sticks to their principles even when it&#8217;s difficult or inconvenient. Yes, this makes OpenBSD not the most ideal desktop operating system, but I&#8217;d rather use that than something that embraces the multitude of ethical, environmental, quality, and legal concerns regarding &#8220;AI&#8221; code completely. Imagine my surprise, then, to discover that OpenBSD already contains slopcode in its base installation, with the project&#8217;s leaders and developers remaining oddly silent about it. My friend and OSNews regular Morgan posted this on Fedi a few days ago: Nearly six weeks later, and the question of whether &#8220;AI&#8221; generated code in tmux &#8212; not tool-assisted bug finding, not refactoring, actual LLM-generated slop with questionable license(1) &#8212; that was consequently merged into OpenBSD base, is considered acceptable by the lead devs, remains unanswered. Despite Theo de Raadt&#8217;s concrete stance against any code of questionable license origin polluting the project &#8212; and the tmux merge was indeed questionable &#8212; it seems this is being swept under the rug. This makes me extremely uncomfortable; it&#8217;s like seeing a fox in the henhouse but the farmers are all looking the other way and no one can convince them to admit they can see it and root it out. I really don&#8217;t know what to do being just a user; I feel like even if I tried to chime in on the mailing list I would just be ignored like the others trying to raise the alarm. I hope, as they do, that this is being discussed internally, away from the public list, and that a positive outcome is near. Maybe they are waiting for the 7.9 release before setting anything in stone. Or maybe the &#8220;AI&#8221; disease has infected one of the last pure operating system projects we have left and there&#8217;s no going back. ↫ Morgan on Fedi I obviously share Morgan&#8217;s concerns, and like him, I&#8217;m also afraid that opening the door to a few drops of slop in base will quickly grow into a torrent of slop as time goes by. Yes, it&#8217;s just a patch to tmux, but it&#8217;s in base, and the &#8220;base&#8221; of a BSD is almost a sacred concept, and entirely the last place where you want to see code that raises ethical, environmental, quality, and legal concerns. For all we know, this patch of slop or the next one contains a bunch of GPL code because it just so happens that&#8217;s where the ball tumbling down the developer&#8217;s pachinko machine ended up. GPL code that would then be in the base of a BSD. I echo the call for the OpenBSD project to address this problem, and to set clear boundaries and guidelines regarding &#8220;AI&#8221; code, so users and developers alike know what level of quality and integrity we can expect from OpenBSD and its base installation going forward.]]>
-      </description>
-      <source:markdown>Every single software product is dealing with the question about what to do with “AI”-generated code, but the question is particularly difficult to answer for open source operating systems like Linux distributions and the various BSDs, which often consist of a wide variety of software packages from hundreds to thousands of different developers. On top of that, they also have to ask the “AI” question for every layer of their offering, from the base install, to the official repositories, to community-run ones. As users, we, too, are asking these same questions, wondering just how much “AI” taint we’re willing to spread across our computers. I understand the difficult position Linux distributions are in with regard to “AI”. I mean, when even the Linux kernel itself is tainted by “AI”, a no-“AI” policy is basically an empty gesture for them at this point. Personally, I find a policy of “we don’t do ‘AI’ in our work, but we don’t have control over the thousands of components we consist of” to be an entirely reasonable, if deeply unsatisfying, position to take. What else are they going to do? You can’t really be a Linux distribution without, you know, the Linux kernel, which is, as I’ve already said, utterly tainted by “AI” at this point. Still, in the back of my mind, I always had a trump card: if all else fails, we’ll always have OpenBSD. Its project leader Theo de Raadt is deeply principled, every OpenBSD user and contributor I know hates “AI” deeply, and the project routinely sticks to their principles even when it’s difficult or inconvenient. Yes, this makes OpenBSD not the most ideal desktop operating system, but I’d rather use that than something that embraces the multitude of ethical, environmental, quality, and legal concerns regarding “AI” code completely. Imagine my surprise, then, to discover that OpenBSD already contains slopcode in its base installation, with the project’s leaders and developers remaining oddly silent about it. My friend and OSNews regular Morgan posted this on Fedi a few days ago: Nearly six weeks later, and the question of whether “AI” generated code in tmux — not tool-assisted bug finding, not refactoring, actual LLM-generated slop with questionable license(1) — that was consequently merged into OpenBSD base, is considered acceptable by the lead devs, remains unanswered. Despite Theo de Raadt’s concrete stance against any code of questionable license origin polluting the project — and the tmux merge was indeed questionable — it seems this is being swept under the rug. This makes me extremely uncomfortable; it’s like seeing a fox in the henhouse but the farmers are all looking the other way and no one can convince them to admit they can see it and root it out. I really don’t know what to do being just a user; I feel like even if I tried to chime in on the mailing list I would just be ignored like the others trying to raise the alarm. I hope, as they do, that this is being discussed internally, away from the public list, and that a positive outcome is near. Maybe they are waiting for the 7.9 release before setting anything in stone. Or maybe the “AI” disease has infected one of the last pure operating system projects we have left and there’s no going back. ↫ Morgan on Fedi I obviously share Morgan’s concerns, and like him, I’m also afraid that opening the door to a few drops of slop in base will quickly grow into a torrent of slop as time goes by. Yes, it’s just a patch to tmux, but it’s in base, and the “base” of a BSD is almost a sacred concept, and entirely the last place where you want to see code that raises ethical, environmental, quality, and legal concerns. For all we know, this patch of slop or the next one contains a bunch of GPL code because it just so happens that’s where the ball tumbling down the developer’s pachinko machine ended up. GPL code that would then be in the base of a BSD. I echo the call for the OpenBSD project to address this problem, and to set clear boundaries and guidelines regarding “AI” code, so users and developers alike know what level of quality and integrity we can expect from OpenBSD and its base installation going forward.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144935</guid>
-    </item>    <item>
-      <title>May 2026 Satellite Puzzler</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/</link>
-      <description>
-        <![CDATA[Your challenge is to tell us the location of the satellite image and why it is interesting.]]>
-      </description>
-      <source:markdown>Your challenge is to tell us the location of the satellite image and why it is interesting.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/</guid>
-    </item>    <item>
-      <title>New Clues Help Solve the Mystery of an Enslaved Boy Pictured in a Portrait by a Leading English Artist</title>
-      <link>https://www.smithsonianmag.com/smart-news/new-clues-help-solve-the-mystery-of-an-enslaved-boy-pictured-in-a-portrait-by-a-leading-english-artist-180988717/</link>
-      <description>
-        <![CDATA[An oil painting by Joshua Reynolds features a named naval officer and a Black child whose life story was unknown until researchers searched through captains’ logs, letters and admiralty records]]>
-      </description>
-      <source:markdown>An oil painting by Joshua Reynolds features a named naval officer and a Black child whose life story was unknown until researchers searched through captains’ logs, letters and admiralty records</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YExP_xpV_NPG-VQ10VSDNuKTV9c=/420x240/filters:focal(768x512:769x513)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/32/29/322937e1-e364-430d-9c24-43faa0dadcec/boston-jerseys-baptism-record-c-rg-7_258-fol-93-crown-copyright-courtesy-of-the-national-arc.webp" length="216050" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/new-clues-help-solve-the-mystery-of-an-enslaved-boy-pictured-in-a-portrait-by-a-leading-english-artist-180988717/</guid>
-    </item>    <item>
-      <title>Windows 11 will start boosting your processor to maximum GHz to make the Start menu open faster</title>
-      <link>https://www.osnews.com/story/144930/windows-11-will-start-boosting-your-processor-to-maximum-ghz-to-make-the-start-menu-open-faster/</link>
-      <description>
-        <![CDATA[Microsoft is currently testing a brand new performance-enhancing feature in Windows 11. Microsoft, too, is introducing something to Windows 11 called &#8220;low latency profile&#8221; and it this will work irrespective of the processor, be it AMD64 CPUs like Intel or AMD or ARM64 ones like from Qualcomm. Essentially what this new tech will do is apply a maximum available clock frequency boost for a very small span of time, like for one to three seconds, when a user launches any app. The idea is that the app launch time will reduce while the quick clock burst should not impact the overall efficiency of the system by much. ↫ Sayan Sen at Neowin Unsurprisingly, boosting the processor&#8217;s clock speed to its maximum for a few seconds will make a menu or application open a little faster. I&#8217;m not entirely sure why anyone seems surprised by this, but here we are. Yes, the Start menu will load faster and applications will be ready quicker if you boost the processor to its full potential, but that does raise the question of why Windows 11 would need to do that just to open a menu or load an application in the first place. According to Microsoft&#8217;s Scott Henselmann, who defended Microsoft&#8217;s approach (weirdly enough he did so on a nazi platform called &#8220;Twitter&#8221; that I&#8217;m obviously not linking to), every other modern operating system does the exact same thing, pointing specifically to macOS and GNOME and KDE on Linux. He also pointed out that the Start menu today does a lot more than the same Start menu back in Windows 95, including making network requests and rendering everything in HiDPI. I just want a cascading menu of stuff I can run and don&#8217;t want my launcher to make network requests, but alas, I guess I&#8217;m old. Anyway, I don&#8217;t know enough about the intricacies of how modern processors work to make any statements about how this affects battery life, but instinctively, you&#8217;d think this would not exactly be conducive to that. I also wonder if this will trigger a lot of laptops to spin up their fans whenever you open the Start menu, because the few seconds your processor goes full tilt raises its temperature just enough to make that happen. Once this new feature comes out of testing and is generally available, I&#8217;d be quite interested in seeing battery tests, as well comparisons to other operating systems to see how it fares.]]>
-      </description>
-      <source:markdown>Microsoft is currently testing a brand new performance-enhancing feature in Windows 11. Microsoft, too, is introducing something to Windows 11 called “low latency profile” and it this will work irrespective of the processor, be it AMD64 CPUs like Intel or AMD or ARM64 ones like from Qualcomm. Essentially what this new tech will do is apply a maximum available clock frequency boost for a very small span of time, like for one to three seconds, when a user launches any app. The idea is that the app launch time will reduce while the quick clock burst should not impact the overall efficiency of the system by much. ↫ Sayan Sen at Neowin Unsurprisingly, boosting the processor’s clock speed to its maximum for a few seconds will make a menu or application open a little faster. I’m not entirely sure why anyone seems surprised by this, but here we are. Yes, the Start menu will load faster and applications will be ready quicker if you boost the processor to its full potential, but that does raise the question of why Windows 11 would need to do that just to open a menu or load an application in the first place. According to Microsoft’s Scott Henselmann, who defended Microsoft’s approach (weirdly enough he did so on a nazi platform called “Twitter” that I’m obviously not linking to), every other modern operating system does the exact same thing, pointing specifically to macOS and GNOME and KDE on Linux. He also pointed out that the Start menu today does a lot more than the same Start menu back in Windows 95, including making network requests and rendering everything in HiDPI. I just want a cascading menu of stuff I can run and don’t want my launcher to make network requests, but alas, I guess I’m old. Anyway, I don’t know enough about the intricacies of how modern processors work to make any statements about how this affects battery life, but instinctively, you’d think this would not exactly be conducive to that. I also wonder if this will trigger a lot of laptops to spin up their fans whenever you open the Start menu, because the few seconds your processor goes full tilt raises its temperature just enough to make that happen. Once this new feature comes out of testing and is generally available, I’d be quite interested in seeing battery tests, as well comparisons to other operating systems to see how it fares.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144930</guid>
-    </item>    <item>
-      <title>Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/</link>
-      <description>
-        <![CDATA[Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton&#160;later&#160;became&#160;a full-time engineer on the Orion Crew Survival Systems (OCSS) [&#8230;]]]>
-      </description>
-      <source:markdown>Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=940868</guid>
-    </item>    <item>
-      <title>These Singing Mice Squeak Back and Forth—and Don&#39;t Interrupt. Scientists Found the Brain Pathway Behind Their Impressive Songs</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-singing-mice-squeak-back-and-forth-and-dont-interrupt-scientists-found-the-brain-pathway-behind-their-impressive-songs-180988720/</link>
-      <description>
-        <![CDATA[Alston’s singing mice carry out complex vocalizations and even appear to converse politely with one another. The neural circuitry that makes this possible is simpler than researchers expected]]>
-      </description>
-      <source:markdown>Alston’s singing mice carry out complex vocalizations and even appear to converse politely with one another. The neural circuitry that makes this possible is simpler than researchers expected</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/i4-aUCn9BGdCR22EL-uhlruoCqU=/420x240/filters:focal(666x504:667x505)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5e/e3/5ee3947b-3e52-438b-8be0-7e5b70d86ada/scotinomys_teguina_biologia_centrali-americana_tab_14_bhl570896.jpg" length="1046985" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-singing-mice-squeak-back-and-forth-and-dont-interrupt-scientists-found-the-brain-pathway-behind-their-impressive-songs-180988720/</guid>
-    </item>    <item>
-      <title>GitHub is sinking</title>
-      <link>https://www.osnews.com/story/144928/github-is-sinking/</link>
-      <description>
-        <![CDATA[Microsoft acquired GitHub and applied their unique brand of enshittification. Amongst their achievements was the spawning of the Copilot circle of hell. Now they’re effectively DDoSing themselves with slop. I won’t dwell on what else went wrong. I don’t know and I don’t care. GitHub is impressively bad now. It’s embarrassing. Shameful. ↫ David Bushell Luckily, there&#8217;s really very little in the form of lock-in with GitHub, unless you really value your stars or whatever. There are countless alternatives, and if you&#8217;re a programmer, it&#8217;s probably absolutely trivial for you to run your own instance of any of the various available forges. If you&#8217;re still on GitHub, you should really be thinking about, and planning for, leaving, as it seems it&#8217;s circling the drain.]]>
-      </description>
-      <source:markdown>Microsoft acquired GitHub and applied their unique brand of enshittification. Amongst their achievements was the spawning of the Copilot circle of hell. Now they’re effectively DDoSing themselves with slop. I won’t dwell on what else went wrong. I don’t know and I don’t care. GitHub is impressively bad now. It’s embarrassing. Shameful. ↫ David Bushell Luckily, there’s really very little in the form of lock-in with GitHub, unless you really value your stars or whatever. There are countless alternatives, and if you’re a programmer, it’s probably absolutely trivial for you to run your own instance of any of the various available forges. If you’re still on GitHub, you should really be thinking about, and planning for, leaving, as it seems it’s circling the drain.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144928</guid>
-    </item>    <item>
-      <title>Researchers Discovered the Remnants of a Secret, Illegal Whisky Distillery in a Stunning Scottish Park</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-discovered-the-remnants-of-a-secret-illegal-distillery-in-a-stunning-scottish-park-180988718/</link>
-      <description>
-        <![CDATA[The copper still, likely used to make whisky, would have been hidden away from the oversight of tax collectors after Scotland outlawed unlicensed distilling centuries ago]]>
-      </description>
-      <source:markdown>The copper still, likely used to make whisky, would have been hidden away from the oversight of tax collectors after Scotland outlawed unlicensed distilling centuries ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/w-uYQJTfkz6I49bLlYNL0ORzn6U=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/a4/41a4328a-e513-4f79-a098-35164d8fd496/national-trust-for-scotland-achaeology-team-and-volunteers-at-ben-lawers-at-whisky-still-site-2.jpeg" length="2408233" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/researchers-discovered-the-remnants-of-a-secret-illegal-distillery-in-a-stunning-scottish-park-180988718/</guid>
-    </item>    <item>
-      <title>NASA Invites Media to Annual Lunabotics Robotics Competition</title>
-      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/</link>
-      <description>
-        <![CDATA[NASA&#160;will hold its&#160;2026&#160;Lunabotics&#160;Challenge&#160;Tuesday,&#160;May 19, to Thursday, May&#160;21,&#160;at the&#160;Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.&#160;&#160; Links to view the Lunabotics&#160;competition live can be found on the agency&#8217;s Lunabotics page. The competition is slated to run between 8 a.m. and 6 p.m. each day.&#160;&#160;&#160; Media are invited to attend&#160;the [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.   Links to view the Lunabotics competition live can be found on the agency’s Lunabotics page. The competition is slated to run between 8 a.m. and 6 p.m. each day.    Media are invited to attend the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=994761</guid>
-    </item>    <item>
-      <title>It Took Millions of Years for Australia&#39;s Famous Twelve Apostles Landmark to Rise Out of the Sea</title>
-      <link>https://www.smithsonianmag.com/smart-news/australias-famous-twelve-apostles-landmark-rose-out-of-the-sea-across-missions-of-years-180988715/</link>
-      <description>
-        <![CDATA[The iconic tourist destination provides a beautiful view, but also represents a physical record of Earth's climate history]]>
-      </description>
-      <source:markdown>The iconic tourist destination provides a beautiful view, but also represents a physical record of Earth&#39;s climate history</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6t_qYjhOrX9MxAD520UgD6N6_g0=/420x240/filters:focal(1920x1280:1921x1281)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4d/1a/4d1abdf9-5d7f-4dee-86e4-6e5bd1076610/3840px-12_apostles_victoria_australia_ank_kumar_01.jpg" length="2098614" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/australias-famous-twelve-apostles-landmark-rose-out-of-the-sea-across-missions-of-years-180988715/</guid>
-    </item>    <item>
-      <title>In 1969, the Beatles Played One Final Show. Their Makeshift Rooftop Stage in London Will Soon Become a Museum</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-1969-the-beatles-played-one-final-show-their-makeshift-rooftop-stage-in-london-will-soon-become-a-museum-180988714/</link>
-      <description>
-        <![CDATA[Visitors to 3 Savile Row will be able to see a re-creation of the basement recording studio where the Beatles worked on their final album "Let It Be" and stand on the roof where the band thrilled Londoners with a surprise concert]]>
-      </description>
-      <source:markdown>Visitors to 3 Savile Row will be able to see a re-creation of the basement recording studio where the Beatles worked on their final album &#34;Let It Be&#34; and stand on the roof where the band thrilled Londoners with a surprise concert</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VhhRWAtScgh0rmt4XWyYdcHIE20=/420x240/filters:focal(1794x1419:1795x1420)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/d7/67d7f865-5832-4edd-8674-e72e1566ef4a/beatles.jpg" length="4611672" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-1969-the-beatles-played-one-final-show-their-makeshift-rooftop-stage-in-london-will-soon-become-a-museum-180988714/</guid>
-    </item>    <item>
-      <title>Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released</title>
-      <link>https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/</link>
-      <description>
-        <![CDATA[The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial Earth Observation missions.]]>
-      </description>
-      <source:markdown>The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial Earth Observation missions.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/</guid>
-    </item>    <item>
-      <title>Purism’s Product Philosophy in an Age of Government–Big Tech Convergence</title>
-      <link>https://puri.sm/posts/purisms-product-philosophy-in-an-age-of-government-big-tech-convergence/</link>
-      <description>
-        <![CDATA[<p>Purism exists because individual rights are no longer reliably protected by policy alone. In practice, they are determined by the design of the technology people are required to use.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purisms-product-philosophy-in-an-age-of-government-big-tech-convergence/">Purism’s Product Philosophy in an Age of Government–Big Tech Convergence</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Purism exists because individual rights are no longer reliably protected by policy alone. In practice, they are determined by the design of the technology people are required to use.
-
-The post [Purism’s Product Philosophy in an Age of Government–Big Tech Convergence](https://puri.sm/posts/purisms-product-philosophy-in-an-age-of-government-big-tech-convergence/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=85392</guid>
-    </item>    <item>
-      <title>See 15 Stunning Images That Won the German Society for Nature Photography&#39;s Annual Contest</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-15-stunning-images-that-won-the-german-society-for-nature-photographys-annual-contest-180988711/</link>
-      <description>
-        <![CDATA[From a lunging frog to the majestic movements of penguins, the honored photographs capture the wonder of wildlife and beauty of natural landscapes]]>
-      </description>
-      <source:markdown>From a lunging frog to the majestic movements of penguins, the honored photographs capture the wonder of wildlife and beauty of natural landscapes</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/E6IhDTsPaHmXfZRFa400Exrak6A=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/a7/72a72f4e-10f9-4571-bc5c-094beca2ee27/k2_7_tobias_buettel_dominanz.jpg" length="327250" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-15-stunning-images-that-won-the-german-society-for-nature-photographys-annual-contest-180988711/</guid>
-    </item>    <item>
-      <title>How Unknowable Math Can Help Hide Secrets</title>
-      <link>https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/</link>
-      <description>
-        <![CDATA[A graduate student recently harnessed the complexity of mathematical proofs to create a powerful new tool in cryptography.            <p>The post <a href="https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/" target="_blank">How Unknowable Math Can Help Hide Secrets</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>A graduate student recently harnessed the complexity of mathematical proofs to create a powerful new tool in cryptography.
-
-The post [How Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=161859</guid>
-    </item>    <item>
-      <title>Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center</title>
-      <link>https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/</link>
-      <description>
-        <![CDATA[The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]]]>
-      </description>
-      <source:markdown>The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/</guid>
-    </item>    <item>
-      <title>NASA&#39;s Curiosity Rover Had a Martian Rock Stuck on Its Arm for Days. Watch It Finally Shake the Stubborn Stone Off</title>
-      <link>https://www.smithsonianmag.com/smart-news/nasas-curiosity-rover-had-a-martian-rock-stuck-on-its-arm-for-days-watch-it-successfully-shook-the-stubborn-stone-off-180988708/</link>
-      <description>
-        <![CDATA[While drilling has fractured rocks, this is the first time the instrument has ever accidentally pulled a whole chunk from the ground, according to the space agency]]>
-      </description>
-      <source:markdown>While drilling has fractured rocks, this is the first time the instrument has ever accidentally pulled a whole chunk from the ground, according to the space agency</source:markdown>
-      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ec/48/ec4803ef-2d88-4703-9c69-2688bfbd6ec6/ezgif-6a4e0b5b526e409f.gif" length="19764586" type="image/gif" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/nasas-curiosity-rover-had-a-martian-rock-stuck-on-its-arm-for-days-watch-it-successfully-shook-the-stubborn-stone-off-180988708/</guid>
-    </item>    <item>
-      <title>NASA Astronaut Jessica Meir</title>
-      <link>https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/</link>
-      <description>
-        <![CDATA[NASA Astronaut Jessica Meir sits for a portrait at NASA&#8217;s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=994426</guid>
-    </item>    <item>
-      <title>Debian embraces reproducible builds</title>
-      <link>https://www.osnews.com/story/144925/debian-embraces-reproducible-builds/</link>
-      <description>
-        <![CDATA[Big news from the Debian release team: Debian is going for reproducible package builds. Aided by the efforts of the Reproducible Builds project, we&#8217;ve decided it&#8217;s time to say that Debian must ship reproducible packages. Since yesterday, we have enabled our migration software to block migration of new packages that can&#8217;t be reproduced or existing packages (in testing) that regress in reproducibility. ↫ Paul Gevers Reproducible means, in short, that you can verify that the source code used to build a package is indeed that source code. This provides a layer of defense against people tampering with code or otherwise trying to fiddle with the process between source code and final package on your system. This effort constitutes a tremendous amount of work, but it&#8217;s massively important.]]>
-      </description>
-      <source:markdown>Big news from the Debian release team: Debian is going for reproducible package builds. Aided by the efforts of the Reproducible Builds project, we’ve decided it’s time to say that Debian must ship reproducible packages. Since yesterday, we have enabled our migration software to block migration of new packages that can’t be reproduced or existing packages (in testing) that regress in reproducibility. ↫ Paul Gevers Reproducible means, in short, that you can verify that the source code used to build a package is indeed that source code. This provides a layer of defense against people tampering with code or otherwise trying to fiddle with the process between source code and final package on your system. This effort constitutes a tremendous amount of work, but it’s massively important.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144925</guid>
-    </item>    <item>
-      <title>“Building a web server in aarch64 assembly to give my life (a lack of) meaning”</title>
-      <link>https://www.osnews.com/story/144923/building-a-web-server-in-aarch64-assembly-to-give-my-life-a-lack-of-meaning/</link>
-      <description>
-        <![CDATA[ymawky is a small, static http web server written entirely in aarch64 assembly for macos. it uses raw darwin syscalls with no libc wrappers, serves static files, supports GET, HEAD, PUT, OPTIONS, DELETE, byte ranges, directory listing, custom error pages, and tries to be as hardened as possible. why? why not? the dream of the 80s is alive in ymawky. everybody has nginx. having apache makes you a square. so why not strip every single convenience layer that computer science has given us since 1957? i wanted to understand how a web server actually works, something i know little about coming from a low-level/systems background. the risks that come up, the problems that need to be solved, the things you don’t think about when you’re writing python or c. this (probably) won’t replace nginx, but it is doing something in the most difficult way possible. ↫ Tony &#8220;imtomt&#8221; I love this.]]>
-      </description>
-      <source:markdown>ymawky is a small, static http web server written entirely in aarch64 assembly for macos. it uses raw darwin syscalls with no libc wrappers, serves static files, supports GET, HEAD, PUT, OPTIONS, DELETE, byte ranges, directory listing, custom error pages, and tries to be as hardened as possible. why? why not? the dream of the 80s is alive in ymawky. everybody has nginx. having apache makes you a square. so why not strip every single convenience layer that computer science has given us since 1957? i wanted to understand how a web server actually works, something i know little about coming from a low-level/systems background. the risks that come up, the problems that need to be solved, the things you don’t think about when you’re writing python or c. this (probably) won’t replace nginx, but it is doing something in the most difficult way possible. ↫ Tony “imtomt” I love this.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144923</guid>
-    </item>    <item>
-      <title>Object oriented programming in Ada</title>
-      <link>https://www.osnews.com/story/144921/object-oriented-programming-in-ada/</link>
-      <description>
-        <![CDATA[Ada is incredibly well designed. One way this shows is that it takes the big, monolithic features of other languages and breaks them down into their constituent parts, so we can choose which portions of those features we want. The example I often reach for to explain this is object-oriented programming. ↫ Christoffer Stjernlöf Exactly what it says on the tin.]]>
-      </description>
-      <source:markdown>Ada is incredibly well designed. One way this shows is that it takes the big, monolithic features of other languages and breaks them down into their constituent parts, so we can choose which portions of those features we want. The example I often reach for to explain this is object-oriented programming. ↫ Christoffer Stjernlöf Exactly what it says on the tin.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144921</guid>
-    </item>    <item>
-      <title>Without this pill, lots of people would be dead</title>
-      <link>https://www.npr.org/2026/05/11/nx-s1-5812534/gleevec-cancer-medicine-drug-treatment-research</link>
-      <description>
-        <![CDATA[25 years ago, the FDA approved a pill that would change the way scientists treat cancer … for good. The pill was called Gleevec; it was designed specifically to treat CML, chronic myeloid leukemia, and it was one of the first targeted cancer therapies available. A quarter century after approval, it’s still being prescribed, as are second, third and fourth-generation drugs that followed in its footsteps. What made it so special – and so effective? Pharmaceutical correspondent <a href="https://www.npr.org/people/825275572/sydney-lupkin"target="_blank"   >Sydney Lupkin</a> walks us through the history of the drug, and why it’s continued to change lives for decades.<br/><br/>If you liked this episode, check out our other episodes with Sydney on <a href="https://lnk.to/3hvV3G"target="_blank"   >accelerated drug approvals</a> and the <a href="https://lnk.to/IkOvWA"target="_blank"   >development of GLP-1 pills</a>.<br/><br/><em>Interested in more stories about medicine and medical treatment</em><em>?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>25 years ago, the FDA approved a pill that would change the way scientists treat cancer … for good. The pill was called Gleevec; it was designed specifically to treat CML, chronic myeloid leukemia, and it was one of the first targeted cancer therapies available. A quarter century after approval, it’s still being prescribed, as are second, third and fourth-generation drugs that followed in its footsteps. What made it so special – and so effective? Pharmaceutical correspondent [Sydney Lupkin](https://www.npr.org/people/825275572/sydney-lupkin) walks us through the history of the drug, and why it’s continued to change lives for decades.
-
-If you liked this episode, check out our other episodes with Sydney on [accelerated drug approvals](https://lnk.to/3hvV3G) and the [development of GLP-1 pills](https://lnk.to/IkOvWA).
-
-_Interested in more stories about medicine and medical treatment_ _?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/13593f12-f06c-4972-8b31-ef34e0f44738/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=13593f12-f06c-4972-8b31-ef34e0f44738&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812534&p=510351&d=867&size=13882977" length="13882977" type="audio/mpeg" />
-      <guid>cid://4c369977-2fcf-4373-b09a-bc8c618d4ca0</guid>
     </item>
   </channel>
 </rss>

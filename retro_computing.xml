@@ -4,10 +4,27 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>01 Jun 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>02 Jun 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>BASCOMP: BASIC compiler for DOS</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/06/bascomp-basic-compiler-for-dos/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Mathias Eberle wrote: "I created a single-pass self-compiling BASIC compiler for DOS, targetting 8086/8088 and size optimized COM files as output. The compiler itself generates NASM-compatible code. But since NASM usually generates 386+ code, I have also included a special assembler written in BASIC, so that the toolchain is complete. The language is pretty compatible (subset) to GWBASIC and QBasic/QuickBASIC." You can find it at <a href="https://github.com/tt1542/BASCOMP" rel="nofollow">BASCOMP on GitHub</a>. Note that "development was assisted by a coding AI" so we are unlikely to include this in FreeDOS. Mathias has shared BASCOMP under the CC0 "public domain" license.</p></div>]]>
+      </description>
+      <source:markdown>Mathias Eberle wrote: &#34;I created a single-pass self-compiling BASIC compiler for DOS, targetting 8086/8088 and size optimized COM files as output. The compiler itself generates NASM-compatible code. But since NASM usually generates 386+ code, I have also included a special assembler written in BASIC, so that the toolchain is complete. The language is pretty compatible (subset) to GWBASIC and QBasic/QuickBASIC.&#34; You can find it at [BASCOMP on GitHub](https://github.com/tt1542/BASCOMP). Note that &#34;development was assisted by a coding AI&#34; so we are unlikely to include this in FreeDOS. Mathias has shared BASCOMP under the CC0 &#34;public domain&#34; license.</source:markdown>
+      <guid>cid://https://sourceforge.netf5afa715941878834dd5a0c8abbb3b89fe4c7991</guid>
+    </item>    <item>
+      <title>Another Logic Bug Found in Linux Kernel</title>
+      <link>http://www.linux-magazine.com/Online/News/Another-Logic-Bug-Found-in-Linux-Kernel</link>
+      <description>
+        <![CDATA[<p>Qualys has discovered a vulnerability in the Linux kernel that can be used to elevate standard user privileges.</p>]]>
+      </description>
+      <source:markdown>Qualys has discovered a vulnerability in the Linux kernel that can be used to elevate standard user privileges.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://b0fb3217d87a3915ba968cd1643a74d7</guid>
+    </item>    <item>
       <title>WROCC June 2026 talk on Wednesday</title>
       <link>http://www.iconbar.com/comments/rss/news2336.html</link>
       <description>
@@ -67,7 +84,7 @@
           
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXycNvjOisinYM5wrgLpz-KjrrFWbJ1wmK2OJLWqZt6O_SNJErVyCtywR2b37tjGmzm9uBwctX__iOXgK51Lipu8C-FuxeoBRl0bKg23RYdK-ygQJXu66Mi6l5IhoRcXOg1aa4exieakCMECOl8Lfsy9YRorO3xdqZ9N-bipsRJVuH79o4Vwm00c3uNFs/s2146/dec-im6100-trim.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="2146" data-original-width="1603" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXycNvjOisinYM5wrgLpz-KjrrFWbJ1wmK2OJLWqZt6O_SNJErVyCtywR2b37tjGmzm9uBwctX__iOXgK51Lipu8C-FuxeoBRl0bKg23RYdK-ygQJXu66Mi6l5IhoRcXOg1aa4exieakCMECOl8Lfsy9YRorO3xdqZ9N-bipsRJVuH79o4Vwm00c3uNFs/s320/dec-im6100-trim.jpg"/></a></div>
         
-        Intersil's 1975 development of a pure CMOS PDP-8 CPU was completed independently of DEC, intending not only to create a microprocessor of their own but also one with a presumably guaranteed market: the well-known instruction set would enable it to run much existing software, but could run up to 4MHz (from an 8MHz crystal), and its fully static CMOS design and uncomplicated power requirements would position it for embedded applications as well as categorical computer hardware. Among its features included moving the Extended Arithmetic Element (EAE) option on-chip for multiplication and division, which included the component MQ (multiplier/quotient) register usable as an accumulator adjunct. Intersil sampled and sold the IM6100 openly, seeing its first use in Pacific Cyber/Metrix's long-lived PCM-12 computer line (another PDP-8 clone), but nevertheless offered it to DEC as well in the fall of 1976. Harris Semiconductor came on as a second source (we last saw Harris as part of the Navy TAC-4 deployment that brought forth the <a href="/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html">SAIC Galaxy</a>) and produced it as the HM-6100.
+        Intersil's 1975 development of a pure CMOS PDP-8 CPU was completed independently of DEC, intending not only to create a microprocessor of their own but also one with a presumably guaranteed market: the well-known instruction set would enable it to run much existing software, but could run up to 4MHz (from an 8MHz crystal), and its fully static CMOS design and uncomplicated power requirements would position it for embedded applications as well as categorical computer hardware. <s>Among its features included moving the Extended Arithmetic Element (EAE) option on-chip for multiplication and division, which included the component MQ (multiplier/quotient) register usable as an accumulator adjunct</s>. <i>[This was a misread of the documentation on my part. The IM6100 has an MQ controlled by compatible instructions in Group 3, but does not have advanced math hardware, and is specifically incompatible with the EAE. I apologize for the confusion.]</i> Intersil sampled and sold the IM6100 openly, seeing its first use in Pacific Cyber/Metrix's long-lived PCM-12 computer line (another PDP-8 clone), but nevertheless offered it to DEC as well in the fall of 1976. Harris Semiconductor came on as a second source (we last saw Harris as part of the Navy TAC-4 deployment that brought forth the <a href="/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html">SAIC Galaxy</a>) and produced it as the HM-6100.
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDD9SPgbra4hF4Vl_NRabLMWdrmEaX511h9yChuLJ-PvfHwloQUvwQRAcVDEO2rEZUTLs0hkskYnXIUxJydTEibHs8v0WTft060QZuhZmKu2zXxY0nKhvp68WN1BV1A0ydGMube6LsBTylFfRZqfJJ__ZmDev9m5NlQz5c7CO11PRoXWOTx6LbLW05uaY/s1890/vt78x2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="1890" data-original-width="1500" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDD9SPgbra4hF4Vl_NRabLMWdrmEaX511h9yChuLJ-PvfHwloQUvwQRAcVDEO2rEZUTLs0hkskYnXIUxJydTEibHs8v0WTft060QZuhZmKu2zXxY0nKhvp68WN1BV1A0ydGMube6LsBTylFfRZqfJJ__ZmDev9m5NlQz5c7CO11PRoXWOTx6LbLW05uaY/s320/vt78x2.jpg"/></a></div>
         
@@ -227,7 +244,7 @@
         
         The boot doesn't get far before running into a problem. Although the VPAC display is strictly character-oriented, it can still display various graphics. This flashing disk icon does not mean the system is loading, like, say, <a href="/2023/08/cracking-designwares-grammar-examiner.html">the DesignWare chirp</a> &mdash; it means there's a disk error.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyadaVdnhq8pX6mgREJ_7UHoi0aC-4fu-N00eNDBQvZnfUGrS2rwTI5r4ttEJrRp-UOk2oG09YK47juwbnyug' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyV-ARqofQCq_H0qP7NlRVTgu-cmvPO1hmv1K41sEuEwwZrOsrFj-brpgI0NGiFjYuEI86e8OxSpSBIZSoo-g' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         The RX50 has a very characteristic sound when it loads, with a clicky motor unlike any other floppy disk drive, and you can hear it in this video trying very hard. But the DECmate II's ROMs never say die; they'll just keep trying until they get something.
         
@@ -940,7 +957,7 @@ The installed base of PDP-8s was still significant, however, and upstart semicon
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXycNvjOisinYM5wrgLpz-KjrrFWbJ1wmK2OJLWqZt6O_SNJErVyCtywR2b37tjGmzm9uBwctX__iOXgK51Lipu8C-FuxeoBRl0bKg23RYdK-ygQJXu66Mi6l5IhoRcXOg1aa4exieakCMECOl8Lfsy9YRorO3xdqZ9N-bipsRJVuH79o4Vwm00c3uNFs/s320/dec-im6100-trim.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXycNvjOisinYM5wrgLpz-KjrrFWbJ1wmK2OJLWqZt6O_SNJErVyCtywR2b37tjGmzm9uBwctX__iOXgK51Lipu8C-FuxeoBRl0bKg23RYdK-ygQJXu66Mi6l5IhoRcXOg1aa4exieakCMECOl8Lfsy9YRorO3xdqZ9N-bipsRJVuH79o4Vwm00c3uNFs/s2146/dec-im6100-trim.jpg)
 
-Intersil&#39;s 1975 development of a pure CMOS PDP-8 CPU was completed independently of DEC, intending not only to create a microprocessor of their own but also one with a presumably guaranteed market: the well-known instruction set would enable it to run much existing software, but could run up to 4MHz (from an 8MHz crystal), and its fully static CMOS design and uncomplicated power requirements would position it for embedded applications as well as categorical computer hardware. Among its features included moving the Extended Arithmetic Element (EAE) option on-chip for multiplication and division, which included the component MQ (multiplier/quotient) register usable as an accumulator adjunct. Intersil sampled and sold the IM6100 openly, seeing its first use in Pacific Cyber/Metrix&#39;s long-lived PCM-12 computer line (another PDP-8 clone), but nevertheless offered it to DEC as well in the fall of 1976. Harris Semiconductor came on as a second source (we last saw Harris as part of the Navy TAC-4 deployment that brought forth the [SAIC Galaxy](/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html)) and produced it as the HM-6100.
+Intersil&#39;s 1975 development of a pure CMOS PDP-8 CPU was completed independently of DEC, intending not only to create a microprocessor of their own but also one with a presumably guaranteed market: the well-known instruction set would enable it to run much existing software, but could run up to 4MHz (from an 8MHz crystal), and its fully static CMOS design and uncomplicated power requirements would position it for embedded applications as well as categorical computer hardware. Among its features included moving the Extended Arithmetic Element (EAE) option on-chip for multiplication and division, which included the component MQ (multiplier/quotient) register usable as an accumulator adjunct. _\[This was a misread of the documentation on my part. The IM6100 has an MQ controlled by compatible instructions in Group 3, but does not have advanced math hardware, and is specifically incompatible with the EAE. I apologize for the confusion.\]_ Intersil sampled and sold the IM6100 openly, seeing its first use in Pacific Cyber/Metrix&#39;s long-lived PCM-12 computer line (another PDP-8 clone), but nevertheless offered it to DEC as well in the fall of 1976. Harris Semiconductor came on as a second source (we last saw Harris as part of the Navy TAC-4 deployment that brought forth the [SAIC Galaxy](/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html)) and produced it as the HM-6100.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDD9SPgbra4hF4Vl_NRabLMWdrmEaX511h9yChuLJ-PvfHwloQUvwQRAcVDEO2rEZUTLs0hkskYnXIUxJydTEibHs8v0WTft060QZuhZmKu2zXxY0nKhvp68WN1BV1A0ydGMube6LsBTylFfRZqfJJ__ZmDev9m5NlQz5c7CO11PRoXWOTx6LbLW05uaY/s320/vt78x2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDD9SPgbra4hF4Vl_NRabLMWdrmEaX511h9yChuLJ-PvfHwloQUvwQRAcVDEO2rEZUTLs0hkskYnXIUxJydTEibHs8v0WTft060QZuhZmKu2zXxY0nKhvp68WN1BV1A0ydGMube6LsBTylFfRZqfJJ__ZmDev9m5NlQz5c7CO11PRoXWOTx6LbLW05uaY/s1890/vt78x2.jpg)
 
@@ -2421,23 +2438,6 @@ And that means we&#39;ll just have to build some peripherals of our own — [mor
       </description>
       <source:markdown>The DDE toolset has been updated again to DDE32c.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2325.html</guid>
-    </item>    <item>
-      <title>b.log 2026/05/11 - Diagnosis of a problem, Satellite fan, Action!</title>
-      <link>https://heyrick.eu/blog/entry/20260511</link>
-      <description>
-        <![CDATA[Diagnosis of a problem, Satellite fan, Action!]]>
-      </description>
-      <source:markdown>Diagnosis of a problem, Satellite fan, Action!</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260511</guid>
-    </item>    <item>
-      <title>Manjaro 26.1 Preview Unveils New Features</title>
-      <link>http://www.linux-magazine.com/Online/News/Manjaro-26.1-Preview-Unveils-New-Features</link>
-      <description>
-        <![CDATA[<p>The latest Manjaro 26.1 preview has been released with new desktop versions, a new kernel, and more.</p>]]>
-      </description>
-      <source:markdown>The latest Manjaro 26.1 preview has been released with new desktop versions, a new kernel, and more.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://cfc3ee8aed9226f4c3e14cc54d99bb6d</guid>
     </item>
   </channel>
 </rss>

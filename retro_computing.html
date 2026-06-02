@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" >
   <meta content="antenna/0.0.24" name="generator" >
-  <meta name="date" content="2026-06-01T06:42:32-07:00" >
+  <meta name="date" content="2026-06-02T06:42:55-07:00" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>Retro Computing News</title>
-  <link href="css/site.css" rel="stylesheet" >
-  <link rel="alternate" type="application/rss+xml" href="retro_computing.xml" >
+  <link rel="stylesheet" href="css/site.css" >
+  <link href="retro_computing.xml" rel="alternate" type="application/rss+xml" >
   <script type="module" src="modules/date_filter.js" ></script>
-  <script src="modules/article_collapse.js" type="module" ></script>
+  <script type="module" src="modules/article_collapse.js" ></script>
 </head>
 <body>
   <header>
@@ -42,6 +42,30 @@
 
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content">
+
+    <article data-published="2026-06-01T15:31:27Z" data-link="https://sourceforge.net/p/freedos/news/2026/06/bascomp-basic-compiler-for-dos/">
+      <h2>BASCOMP: BASIC compiler for DOS</h2>
+
+(date: 2026-06-01)
+      <p>
+      <p>Mathias Eberle wrote: &quot;I created a single-pass self-compiling BASIC compiler for DOS, targetting 8086/8088 and size optimized COM files as output. The compiler itself generates NASM-compatible code. But since NASM usually generates 386+ code, I have also included a special assembler written in BASIC, so that the toolchain is complete. The language is pretty compatible (subset) to GWBASIC and QBasic/QuickBASIC.&quot; You can find it at <a href="https://github.com/tt1542/BASCOMP">BASCOMP on GitHub</a>. Note that &quot;development was assisted by a coding AI&quot; so we are unlikely to include this in FreeDOS. Mathias has shared BASCOMP under the CC0 &quot;public domain&quot; license.</p>
+
+      <address>
+        <a href="https://sourceforge.net/p/freedos/news/2026/06/bascomp-basic-compiler-for-dos/">https://sourceforge.net/p/freedos/news/2026/06/bascomp-basic-compiler-for-dos/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-06-01T14:27:35Z" data-link="http://www.linux-magazine.com/Online/News/Another-Logic-Bug-Found-in-Linux-Kernel">
+      <h2>Another Logic Bug Found in Linux Kernel</h2>
+
+(date: 2026-06-01, updated: 2026-06-02)
+      <p>
+      <p>Qualys has discovered a vulnerability in the Linux kernel that can be used to elevate standard user privileges.</p>
+
+      <address>
+        <a href="http://www.linux-magazine.com/Online/News/Another-Logic-Bug-Found-in-Linux-Kernel">http://www.linux-magazine.com/Online/News/Another-Logic-Bug-Found-in-Linux-Kernel</a>
+      </address>
+    </article>
 
     <article data-published="2026-06-01T06:22:00Z" data-link="http://www.iconbar.com/comments/rss/news2336.html">
       <h2>WROCC June 2026 talk on Wednesday</h2>
@@ -82,7 +106,7 @@
     <article data-published="2026-05-31T02:19:49Z" data-link="https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html">
       <h2>Ahoy, DECmate II! the little PDP-8 that could</h2>
 
-(date: 2026-05-31, updated: 2026-06-01)
+(date: 2026-05-31, updated: 2026-06-02)
       <p>
       <p>In 1982, as we mentioned at length with our history of <a href="/2025/03/more-pro-for-dec-professional-380.html">the DEC Professional</a>, Digital Equipment Corporation attempted to keep their PDP-11 minicomputer market-relevant by turning the venerable architecture into a largely incompatible desktop microcomputer. But that wasn't the only PDP-series mini it happened to, and it wasn't even the first: the PDP-8 actually got the shrink-ray treatment several years before, and not content to merely make it into a smaller general purpose computer, DEC turned it into a word processor.</p>
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRgUl0s1eRQTkEoDghSL5H_5hcuVH2gjwdM4OFhotzXiHVu31qsC9Hiq77H98eNeObO85pMx8lqlduzV_ZT_eXt6RbJs0mcjqeTR-sIg-IzYDEWslP3m_xw5FXNmJpkVPiMcijibs6-e5VrHD1thj473gcRvQcCYqey2YuW9BA7Ty2m6tZJl6usCHGCAs/s4080/PXL_20260420_233351834.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRgUl0s1eRQTkEoDghSL5H_5hcuVH2gjwdM4OFhotzXiHVu31qsC9Hiq77H98eNeObO85pMx8lqlduzV_ZT_eXt6RbJs0mcjqeTR-sIg-IzYDEWslP3m_xw5FXNmJpkVPiMcijibs6-e5VrHD1thj473gcRvQcCYqey2YuW9BA7Ty2m6tZJl6usCHGCAs/s320/PXL_20260420_233351834.jpg" alt=""></a></p>
@@ -99,7 +123,7 @@
 <p>But the first commercial microprocessor implementation of the PDP-8 didn't come from DEC either — in fact, for a period of time DEC under co-founder Ken Olsen actively repulsed internal attempts to do so. As we talked about before with <a href="/2025/03/more-pro-for-dec-professional-380.html">the DEC Professional</a>, the emergence of the microcomputer became an existential crisis to minicomputer makers, including DEC but also HP, Data General, TI, IBM and others, and many attempted to compete by shrinking down their current offerings (such as TI turning the 990 into the TMS9900, DG with the ill-starred microNOVA, and the HP 2100 as the Binary Processor Chip). An DEC skunkworks project did the same to develop what was intended as the PDP-8/B in 1973, but management was sceptical of the investment required and it was cancelled. Shortly afterwards, in 1974, developers squeezed a reduced PDP-8/A logic board into a VT50 terminal and demonstrated it as one of two potential personal computer products to Olsen. To their disappointment (including a young David Ahl), he vetoed them also on the advice of management concerned it would cut into existing product lines, making the infamous observation that no one would want a computer in their home. (Olsen would repeatedly attempt to clarify this statement, even doubling down on it in 1977, citing the size and inconvenience of then-contemporary computer systems.)</p>
 <p>The installed base of PDP-8s was still significant, however, and upstart semiconductor company Intersil saw an opportunity of their own. Intersil was founded in Cupertino by Swiss physicist Jean Hoerni in 1967, one of transistor co-designer William Shockley's &quot;traitorous eight&quot; who left Shockley Semiconductor to form Fairchild in 1957. At Fairchild Hoerni patented the planar process of semiconductor production in 1959, still an elemental concept even today in modern photolithography, then going on to found Amelco, later Teledyne, in 1961 and consult for the new Union Carbide Electronics in 1964 before establishing Intersil. Intersil became an early pioneer in low-power CMOS through their work in watch timekeeper chips, where power saving was critical, and were able to fabricate full CMOS designs years before many competitors.</p>
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXycNvjOisinYM5wrgLpz-KjrrFWbJ1wmK2OJLWqZt6O_SNJErVyCtywR2b37tjGmzm9uBwctX__iOXgK51Lipu8C-FuxeoBRl0bKg23RYdK-ygQJXu66Mi6l5IhoRcXOg1aa4exieakCMECOl8Lfsy9YRorO3xdqZ9N-bipsRJVuH79o4Vwm00c3uNFs/s2146/dec-im6100-trim.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXycNvjOisinYM5wrgLpz-KjrrFWbJ1wmK2OJLWqZt6O_SNJErVyCtywR2b37tjGmzm9uBwctX__iOXgK51Lipu8C-FuxeoBRl0bKg23RYdK-ygQJXu66Mi6l5IhoRcXOg1aa4exieakCMECOl8Lfsy9YRorO3xdqZ9N-bipsRJVuH79o4Vwm00c3uNFs/s320/dec-im6100-trim.jpg" alt=""></a></p>
-<p>Intersil's 1975 development of a pure CMOS PDP-8 CPU was completed independently of DEC, intending not only to create a microprocessor of their own but also one with a presumably guaranteed market: the well-known instruction set would enable it to run much existing software, but could run up to 4MHz (from an 8MHz crystal), and its fully static CMOS design and uncomplicated power requirements would position it for embedded applications as well as categorical computer hardware. Among its features included moving the Extended Arithmetic Element (EAE) option on-chip for multiplication and division, which included the component MQ (multiplier/quotient) register usable as an accumulator adjunct. Intersil sampled and sold the IM6100 openly, seeing its first use in Pacific Cyber/Metrix's long-lived PCM-12 computer line (another PDP-8 clone), but nevertheless offered it to DEC as well in the fall of 1976. Harris Semiconductor came on as a second source (we last saw Harris as part of the Navy TAC-4 deployment that brought forth the <a href="/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html">SAIC Galaxy</a>) and produced it as the HM-6100.</p>
+<p>Intersil's 1975 development of a pure CMOS PDP-8 CPU was completed independently of DEC, intending not only to create a microprocessor of their own but also one with a presumably guaranteed market: the well-known instruction set would enable it to run much existing software, but could run up to 4MHz (from an 8MHz crystal), and its fully static CMOS design and uncomplicated power requirements would position it for embedded applications as well as categorical computer hardware. Among its features included moving the Extended Arithmetic Element (EAE) option on-chip for multiplication and division, which included the component MQ (multiplier/quotient) register usable as an accumulator adjunct. <em>[This was a misread of the documentation on my part. The IM6100 has an MQ controlled by compatible instructions in Group 3, but does not have advanced math hardware, and is specifically incompatible with the EAE. I apologize for the confusion.]</em> Intersil sampled and sold the IM6100 openly, seeing its first use in Pacific Cyber/Metrix's long-lived PCM-12 computer line (another PDP-8 clone), but nevertheless offered it to DEC as well in the fall of 1976. Harris Semiconductor came on as a second source (we last saw Harris as part of the Navy TAC-4 deployment that brought forth the <a href="/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html">SAIC Galaxy</a>) and produced it as the HM-6100.</p>
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDD9SPgbra4hF4Vl_NRabLMWdrmEaX511h9yChuLJ-PvfHwloQUvwQRAcVDEO2rEZUTLs0hkskYnXIUxJydTEibHs8v0WTft060QZuhZmKu2zXxY0nKhvp68WN1BV1A0ydGMube6LsBTylFfRZqfJJ__ZmDev9m5NlQz5c7CO11PRoXWOTx6LbLW05uaY/s1890/vt78x2.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDD9SPgbra4hF4Vl_NRabLMWdrmEaX511h9yChuLJ-PvfHwloQUvwQRAcVDEO2rEZUTLs0hkskYnXIUxJydTEibHs8v0WTft060QZuhZmKu2zXxY0nKhvp68WN1BV1A0ydGMube6LsBTylFfRZqfJJ__ZmDev9m5NlQz5c7CO11PRoXWOTx6LbLW05uaY/s320/vt78x2.jpg" alt=""></a></p>
 <p>DEC management was reportedly surprised to learn of the IM6100's existence but found its implementation (based on the PDP-8/E) sufficient, and Olsen permitted what DEC called the &quot;CMOS-8&quot; to ship in the 1977 DECstation VT78, a trial low-end machine for small office settings where the PDP-8/A was still sold. Derived in part from the DEC 310W (a reduced office-oriented version of the DEC Datasystem 310 with a specialized terminal) and not unlike the prior prototype Olsen had summarily scuttled, Gordon Bell noted the &quot;goals for this terminal were to drastically reduce costs&quot;: chip count was kept as low as practicable, it ran at only 2.2MHz, its low-binned and unexpandable 16kW of RAM yielded weaker benchmarks than every single previous PDP-8 system except the notoriously slow PDP-8/S, and the keyboard and CRT were integrated with the logic board into a single chassis derived from the VT52. A small exterior pedestal housed a dual RX01 8&quot; floppy drive for storage on which the computer could sit; later units shipped with upgraded RX02 drives. Colour-coded keys such as a distinctive GOLD key used for system commands and functions were added to help non-technical users.</p>
 <p>DEC offered two distinct families of the VT78. One version, the $7,995 [$43,000] standard model, ran OS/78 on floppy, an updated version of the original OS/8. Unfortunately, hardware-level compatibility was not a design goal — in fairness it wasn't advertised as such — and some PDP-8 software simply wouldn't work. Ports allowed the connection of printers, tape readers and additional serial links. The second version, the WS78 or Word Station 78, was oriented as an entry-level dedicated word processing unit. It shipped with a high-quality printer and a port of WPS-8, DEC's new PDP-8 word processing package, for $13,990 [$76,000]; optional ROMs to support it as a network client with a PDP-11 WPS-11M server were additionally available. (DEC made other Word Station variations based on the PDP-8/A as well up to the 2-user DEC Word System 202, all of which were also compatible with WPS-8. For that matter, DEC sold a PDP-8/A DECstation <em>88</em> too.)</p>
@@ -673,7 +697,7 @@ pin34 = rdy
     <article data-published="2026-05-25T21:55:53Z" data-link="https://sourceforge.net/p/freedos/news/2026/05/nethack-500-includes-dos-version/">
       <h2>NetHack 5.0.0 (includes DOS version)</h2>
 
-(date: 2026-05-25)
+(date: 2026-05-25, updated: 2026-06-01)
       <p>
       <p>NetHack 5.0 is an enhancement to the dungeon exploration game NetHack, which itself is a distant descendent of Rogue and Hack. NetHack 5.0 was released a few weeks ago, and includes some general architectural improvements to the game and to its build process. You can <a href="https://nethack.org/v500/release.html">read the announcement</a> or <a href="https://nethack.org/v500/downloads.html">download the new version</a> via the NetHack website. Most importantly, the binary releases include a <a href="https://nethack.org/v500/ports/download-msdos.html">DOS version</a>.</p>
 
@@ -709,7 +733,7 @@ pin34 = rdy
     <article data-published="2026-05-24T16:52:46Z" data-link="https://sourceforge.net/p/freedos/news/2026/05/fdnpkg16-v0998254/">
       <h2>FDNPKG16 v0.99.8254</h2>
 
-(date: 2026-05-24, updated: 2026-05-25)
+(date: 2026-05-24, updated: 2026-06-01)
       <p>
       <p>FDNPKG16 is a 16-bit network-enabled package manager for FreeDOS. Victoria Crenshaw (sparky4) has announced a new version v0.99.8254 with several new fixes and updates: A new download feature means you can download files into the current working directory. And you can now press y or n for the force package install choice. This version also fixed the no packet driver issue, it will quit if there is no packet driver. Find more details and download the new version from Victoria's <a href="https://4ch.mooo.com/freedos/repos/1.4/html/en/net/fdnpkg16/20260523.0/index.html">FDNPKG16 package page</a>. FDNPKG16 is open source, under the MIT license.</p>
 
@@ -721,7 +745,7 @@ pin34 = rdy
     <article data-published="2026-05-24T16:26:20Z" data-link="https://sourceforge.net/p/freedos/news/2026/05/volkov-commander-is-now-open-source/">
       <h2>Volkov Commander is now open source</h2>
 
-(date: 2026-05-24, updated: 2026-05-25)
+(date: 2026-05-24, updated: 2026-06-01)
       <p>
       <p>Volkov Commander is a small but powerful file manager for DOS. Volkov Commander was originally shareware, but Vsevolod recently released the Volkov Commander source code as open source, using the <a href="https://opensource.org/license/bsd-2-clause">2-clause BSD license</a>. You can find the original sources for Volkov Commander 4.05 and Volkov Commander 4.99.09 alpha on <a href="https://vc.vvv.kyiv.ua/download/">Vsevolod V. Volkov's website</a>. Danila Sukharev has also created a <a href="https://github.com/ddanila/vc">VC on GitHub</a> project to archive the sources.</p>
 
@@ -733,7 +757,7 @@ pin34 = rdy
     <article data-published="2026-05-24T16:03:35Z" data-link="https://sourceforge.net/p/freedos/news/2026/05/etherslip-118/">
       <h2>EtherSlip 11.8</h2>
 
-(date: 2026-05-24, updated: 2026-05-25)
+(date: 2026-05-24, updated: 2026-06-01)
       <p>
       <p>If you use EtherSlip to get your DOS system online, developer Michael Brutman has released EtherSlip 11.8, based on EtherSlip 11.7 from the Crynwr packet driver collection. This new version of EtherSlip fixes two bugs: 1. The incorrect MAC address was being set in the simulated Ethernet header. This broke mTCP NetDrive and possibly other programs. 2. The code in EtherSlip that simulates ARP responses has a pointer bug in it. This can cause data corruption or crash your program any time it tries to send an ARP request. Get the updated EtherSlip 11.8 from <a href="https://www.brutman.com/Device_Drivers/Device_Driver_Collection.html">Michael's Device Driver collection</a>. EtherSlip is open source, under the GNU GPL v1.</p>
 
@@ -745,7 +769,7 @@ pin34 = rdy
     <article data-published="2026-05-24T15:56:29Z" data-link="https://sourceforge.net/p/freedos/news/2026/05/updated-sbemu/">
       <h2>Updated SBEMU</h2>
 
-(date: 2026-05-24, updated: 2026-05-25)
+(date: 2026-05-24, updated: 2026-06-01)
       <p>
       <p>DOS-era games expect to use a SoundBlaster or other sound card, which aren't available on modern hardware. Instead, if you run DOS on a modern PC (like a laptop) then you need to emulate a SoundBlaster. That's what SBEMU does: &quot;Emulate Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards.&quot; DOS developer crazii released a new <a href="https://github.com/crazii/SBEMU/releases/tag/Release_1.0.0-beta.6rc">1.0.0 beta.rc6 version</a> last week, with new fixes and features, including performance improvements. Find the new release at <a href="https://github.com/crazii/SBEMU">SBEMU on GitHUb</a>. SBEMU is open source, under the <a href="https://github.com/crazii/SBEMU/blob/main/COPYING">GNU GPL v2</a> license.</p>
 
@@ -817,7 +841,7 @@ pin34 = rdy
     <article data-published="2026-05-21T18:22:21Z" data-link="http://www.linux-magazine.com/Online/News/Ubuntu-Core-26-Offers-Game-Changing-Enterprise-Features">
       <h2>Ubuntu Core 26 Offers Game-Changing Enterprise Features</h2>
 
-(date: 2026-05-21, updated: 2026-06-01)
+(date: 2026-05-21, updated: 2026-06-02)
       <p>
       <p>Ubuntu Core 26 could be a game-changer for organizations looking for increased security and reliability.</p>
 
@@ -829,7 +853,7 @@ pin34 = rdy
     <article data-published="2026-05-20T19:39:54Z" data-link="http://www.linux-magazine.com/Online/News/AI-Flooding-the-Linux-Kernel-Security-Mailing-List">
       <h2>AI Flooding the Linux Kernel Security Mailing List</h2>
 
-(date: 2026-05-20, updated: 2026-06-01)
+(date: 2026-05-20, updated: 2026-06-02)
       <p>
       <p>AI is giving Linus Torvalds a headache, but not in the way you might think.</p>
 
@@ -853,7 +877,7 @@ pin34 = rdy
     <article data-published="2026-05-19T19:04:18Z" data-link="http://www.linux-magazine.com/Online/News/Top-Priorities-for-Open-Source-Pros-Seeking-a-New-Job">
       <h2>Top Priorities for Open Source Pros Seeking a New Job</h2>
 
-(date: 2026-05-19, updated: 2026-06-01)
+(date: 2026-05-19, updated: 2026-06-02)
       <p>
       <p>Professional fulfillment tops the list, according to LPI report.</p>
 
@@ -925,7 +949,7 @@ pin34 = rdy
     <article data-published="2026-05-17T01:09:46Z" data-link="https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html">
       <h2>The Tomy Tutor and the state of 1983 home computers</h2>
 
-(date: 2026-05-17, updated: 2026-06-01)
+(date: 2026-05-17, updated: 2026-06-02)
       <p>
       <p><a href="/2024/03/after-41-years-my-first-assembly.html">The Tomy Tutor</a> was my first computer, in late 1983. I was seven and we got it <a href="https://www.youtube.com/watch?v=9N8AzoDzQhM">at Federated</a>. I've acquired several more since then, but this is the actual one I used and it still works perfectly.</p>
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3r8zEWMFpyycq3pSdl6BzImiu9s5MNdBZY_YZbrzNRt_P4rPhUlLjLlWUIHsoNcmf4EKYKM9fRTLnLoukTrS7m8ZspWuGFPS-mveAZWSsqkdEFbeMPDYl7RXTgamboTWwbwFH1ycwLa3Fu_CfFuL36NfcJUAq0DUSEeKy7LOHO3n7hctr8WPYiuqtzk/s4080/PXL_20260420_210858621~2.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3r8zEWMFpyycq3pSdl6BzImiu9s5MNdBZY_YZbrzNRt_P4rPhUlLjLlWUIHsoNcmf4EKYKM9fRTLnLoukTrS7m8ZspWuGFPS-mveAZWSsqkdEFbeMPDYl7RXTgamboTWwbwFH1ycwLa3Fu_CfFuL36NfcJUAq0DUSEeKy7LOHO3n7hctr8WPYiuqtzk/s320/PXL_20260420_210858621~2.jpg" alt=""></a></p>
@@ -1110,7 +1134,7 @@ pin34 = rdy
     <article data-published="2026-05-14T15:31:31Z" data-link="http://www.linux-magazine.com/Online/News/Container-Based-Fedora-Hummingbird-Designed-for-Agent-First-Builders">
       <h2>Container-Based Fedora Hummingbird Designed for Agent-First Builders</h2>
 
-(date: 2026-05-14, updated: 2026-06-01)
+(date: 2026-05-14, updated: 2026-06-02)
       <p>
       <p>Fedora Hummingbird brings the same approach to the host OS as it does to containers to level up security.</p>
 
@@ -1134,7 +1158,7 @@ pin34 = rdy
     <article data-published="2026-05-13T15:30:55Z" data-link="http://www.linux-magazine.com/Online/News/Linux-kernel-Developers-Considering-a-Kill-Switch">
       <h2>Linux kernel Developers Considering a Kill Switch</h2>
 
-(date: 2026-05-13, updated: 2026-06-01)
+(date: 2026-05-13, updated: 2026-06-02)
       <p>
       <p>With the rise of Linux vulnerabilities, the kernel developers are now considering adding a component that could help temporarily mitigate against them… in the form of a kill switch.</p>
 
@@ -1170,7 +1194,7 @@ pin34 = rdy
     <article data-published="2026-05-12T15:48:55Z" data-link="http://www.linux-magazine.com/Online/News/Fedora-44-Now-Gaming-Ready">
       <h2>Fedora 44 Now Gaming Ready</h2>
 
-(date: 2026-05-12, updated: 2026-06-01)
+(date: 2026-05-12, updated: 2026-06-02)
       <p>
       <p>The latest version of Fedora has been released with gaming support.</p>
 
@@ -1188,30 +1212,6 @@ pin34 = rdy
 
       <address>
         <a href="http://www.iconbar.com/comments/rss/news2325.html">http://www.iconbar.com/comments/rss/news2325.html</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-11T20:15:00Z" data-link="https://heyrick.eu/blog/entry/20260511">
-      <h2>b.log 2026/05/11 - Diagnosis of a problem, Satellite fan, Action!</h2>
-
-(date: 2026-05-11, updated: 2026-05-31)
-      <p>
-      <p>Diagnosis of a problem, Satellite fan, Action!</p>
-
-      <address>
-        <a href="https://heyrick.eu/blog/entry/20260511">https://heyrick.eu/blog/entry/20260511</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-11T15:41:47Z" data-link="http://www.linux-magazine.com/Online/News/Manjaro-26.1-Preview-Unveils-New-Features">
-      <h2>Manjaro 26.1 Preview Unveils New Features</h2>
-
-(date: 2026-05-11, updated: 2026-06-01)
-      <p>
-      <p>The latest Manjaro 26.1 preview has been released with new desktop versions, a new kernel, and more.</p>
-
-      <address>
-        <a href="http://www.linux-magazine.com/Online/News/Manjaro-26.1-Preview-Unveils-New-Features">http://www.linux-magazine.com/Online/News/Manjaro-26.1-Preview-Unveils-New-Features</a>
       </address>
     </article>
   </main>
