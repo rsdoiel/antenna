@@ -4,10 +4,108 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>02 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>03 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Über die letzten Dinge by Otto Weininger</title>
+      <link>https://www.gutenberg.org/ebooks/78808</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The six books of Proclus, the Platonic successor, on the theology of Plato (vol. 2 of 2) :</title>
+      <link>https://www.gutenberg.org/ebooks/78800</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Being a Boy by Charles Dudley Warner</title>
+      <link>https://www.gutenberg.org/ebooks/3127</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Peace in the wilderness by Marion Zimmer Bradley</title>
+      <link>https://www.gutenberg.org/ebooks/78807</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Harry Heathcote of Gangoil: A Tale of Australian Bush-Life by Anthony Trollope</title>
+      <link>https://www.gutenberg.org/ebooks/5642</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Willie and Lucy abroad by Agnes Giberne</title>
+      <link>https://www.gutenberg.org/ebooks/78805</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Prevaricated Parade by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/66857</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A plan for improving female education by Emma Willard</title>
+      <link>https://www.gutenberg.org/ebooks/78806</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The battle of Harlem Heights by Thomas Addis Emmet</title>
+      <link>https://www.gutenberg.org/ebooks/78798</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The kitchen garden and the cook : by Cecilia Maria de Candia Pearse</title>
+      <link>https://www.gutenberg.org/ebooks/78799</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The parlor gardener : by Cornelia J.  Randolph</title>
+      <link>https://www.gutenberg.org/ebooks/78801</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The early courts of Pennsylvania by William Henry Lloyd</title>
+      <link>https://www.gutenberg.org/ebooks/78802</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jenny Lind the artist, 1820-1851 : by Henry Scott Holland and W. S.  Rockstro</title>
+      <link>https://www.gutenberg.org/ebooks/78803</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Studies of chess : by F. D.  Philidor</title>
+      <link>https://www.gutenberg.org/ebooks/78804</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Gunman&#39;s bluff by Edgar Wallace</title>
       <link>https://www.gutenberg.org/ebooks/78794</link>
       <description>
@@ -77,7 +175,7 @@
         <![CDATA[A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.]]>
       </description>
       <source:markdown>A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith/downloads/benito-perez-galdos_saragossa_minna-caroline-smith.epub?source=feed" length="618474" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith/downloads/benito-perez-galdos_saragossa_minna-caroline-smith.epub?source=feed" length="618506" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith</guid>
     </item>    <item>
       <title>Through the Grand Canyon from Wyoming to Mexico by E. L.  Kolb</title>
@@ -1367,62 +1465,6 @@
     </item>    <item>
       <title>The adventures of Pony Dexter by Harriet A.  Cheever</title>
       <link>https://www.gutenberg.org/ebooks/78664</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant, Complete by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/4367</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant, Part 1. by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/5860</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Wishing Horse of Oz by Ruth Plumly Thompson</title>
-      <link>https://www.gutenberg.org/ebooks/55851</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The biography and typography of William Caxton, England&#39;s first printer by William Blades</title>
-      <link>https://www.gutenberg.org/ebooks/78654</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Duologues and scenes from the novels of Jane Austen : by Jane Austen and Rosina Filippi</title>
-      <link>https://www.gutenberg.org/ebooks/78656</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Bransford in Arcadia : by Eugene Manlove Rhodes</title>
-      <link>https://www.gutenberg.org/ebooks/78657</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nerves of iron by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78653</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The scarab murder case : by S. S. Van Dine</title>
-      <link>https://www.gutenberg.org/ebooks/78655</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
