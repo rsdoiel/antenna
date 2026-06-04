@@ -4,16 +4,93 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>03 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>04 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Three More John Silence Stories by Algernon Blackwood</title>
+      <link>https://www.gutenberg.org/ebooks/10659</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rambles of an archæologist among old books and in old places : by F. W.  Fairholt</title>
+      <link>https://www.gutenberg.org/ebooks/26449</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Über die letzten Dinge by Otto Weininger</title>
       <link>https://www.gutenberg.org/ebooks/78808</link>
       <description>
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Caleb Williams; Or, Things as They Are by William Godwin</title>
+      <link>https://www.gutenberg.org/ebooks/11323</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Henry Thoreau, bachelor of nature by Léon Bazalgette</title>
+      <link>https://www.gutenberg.org/ebooks/78810</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Notebooks of Leonardo Da Vinci — Complete by da Vinci Leonardo</title>
+      <link>https://www.gutenberg.org/ebooks/5000</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tales from the Arabic — Volume 01</title>
+      <link>https://www.gutenberg.org/ebooks/5242</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Wheel O&#39; Fortune by Louis Tracy</title>
+      <link>https://www.gutenberg.org/ebooks/8596</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>El libro de las mil noches y una noche; t. 8 by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/78437</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>More secret remedies : by British Medical Association</title>
+      <link>https://www.gutenberg.org/ebooks/78809</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>War medals of the British Army, and how they were won by Thomas Carter</title>
+      <link>https://www.gutenberg.org/ebooks/78811</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Shadowed by a detective : by Virginia Champlin</title>
+      <link>https://www.gutenberg.org/ebooks/78812</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>The six books of Proclus, the Platonic successor, on the theology of Plato (vol. 2 of 2) :</title>
       <link>https://www.gutenberg.org/ebooks/78800</link>
@@ -968,13 +1045,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Rambles of an archæologist among old books and in old places : by F. W.  Fairholt</title>
-      <link>https://www.gutenberg.org/ebooks/26449</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Moonfleet by John Meade Falkner</title>
       <link>https://www.gutenberg.org/ebooks/10743</link>
       <description>
@@ -1305,166 +1375,6 @@
     </item>    <item>
       <title>&#34;Magyarland,&#34; volume 2 (of 2) : by Nina Elizabeth Mazuchelli</title>
       <link>https://www.gutenberg.org/ebooks/78675</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Perishable Goods, by Dornford Yates</title>
-      <link>https://standardebooks.org/ebooks/dornford-yates/perishable-goods</link>
-      <description>
-        <![CDATA[A group of men hunt for the kidnappers of a friend’s wife.]]>
-      </description>
-      <source:markdown>A group of men hunt for the kidnappers of a friend’s wife.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dornford-yates/perishable-goods/downloads/dornford-yates_perishable-goods.epub?source=feed" length="569176" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/dornford-yates/perishable-goods</guid>
-    </item>    <item>
-      <title>Sailing Alone Around the World, by Joshua Slocum</title>
-      <link>https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</link>
-      <description>
-        <![CDATA[A sailor gives his account how he completed the first solo sailing voyage around the world.]]>
-      </description>
-      <source:markdown>A sailor gives his account how he completed the first solo sailing voyage around the world.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world/downloads/joshua-slocum_sailing-alone-around-the-world.epub?source=feed" length="3139096" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/joshua-slocum/sailing-alone-around-the-world</guid>
-    </item>    <item>
-      <title>The Fifth Queen Crowned, by Ford Madox Ford</title>
-      <link>https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned</link>
-      <description>
-        <![CDATA[Katharine Howard, Queen of England, reaches the height of her power, only to find that idealism and integrity are fragile weapons against court intrigue and religious faction.]]>
-      </description>
-      <source:markdown>Katharine Howard, Queen of England, reaches the height of her power, only to find that idealism and integrity are fragile weapons against court intrigue and religious faction.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned/downloads/ford-madox-ford_the-fifth-queen-crowned.epub?source=feed" length="468125" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen-crowned</guid>
-    </item>    <item>
-      <title>Knight-errant by Edna Lyall</title>
-      <link>https://www.gutenberg.org/ebooks/78660</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>L&#39;Escalier d&#39;Or by Edmond Jaloux</title>
-      <link>https://www.gutenberg.org/ebooks/4933</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The misdeal by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78659</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Heather&#39;s mistress by Amy Le Feuvre</title>
-      <link>https://www.gutenberg.org/ebooks/78661</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pompeii by Richard Engelmann</title>
-      <link>https://www.gutenberg.org/ebooks/78658</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The type-writer girl by Grant Allen</title>
-      <link>https://www.gutenberg.org/ebooks/78662</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson</title>
-      <link>https://www.gutenberg.org/ebooks/43</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kulóskap the master, and other Algonkin poems</title>
-      <link>https://www.gutenberg.org/ebooks/78673</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The whistle : by Benjamin Franklin</title>
-      <link>https://www.gutenberg.org/ebooks/78663</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Memories of my life by Francis Galton</title>
-      <link>https://www.gutenberg.org/ebooks/78669</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tuomas Vitikka : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78667</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Gran Cañon : by Sven Anders Hedin</title>
-      <link>https://www.gutenberg.org/ebooks/78666</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Dorothy and the Wizard in Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/420</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Honest to Doughgod by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78672</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Structure de l&#39;Algérie by E. F.  Gautier</title>
-      <link>https://www.gutenberg.org/ebooks/78665</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>When Canada was New France by George H.  Locke</title>
-      <link>https://www.gutenberg.org/ebooks/78668</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The first philosophers of Greece : by Arthur Fairbanks</title>
-      <link>https://www.gutenberg.org/ebooks/78670</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Un bagne russe: l&#39;île de Sakhaline by Paul Labbé</title>
-      <link>https://www.gutenberg.org/ebooks/78671</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The adventures of Pony Dexter by Harriet A.  Cheever</title>
-      <link>https://www.gutenberg.org/ebooks/78664</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

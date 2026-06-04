@@ -4,10 +4,18 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>03 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>04 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Grant Accounting as Publishing Policy: OMB’s Proposed Rule Changes</title>
+      <link>https://www.authorsalliance.org/2026/06/04/grant-accounting-as-publishing-policy-ombs-proposed-rule-changes/</link>
+      <description>
+        <![CDATA[Grant administration rules are not where most authors look for news that affects their work. But, the so-called “Uniform Guidance” published in Title 2 of the CFR has a big impact on how universities account for federal money, from what counts as an allowable cost to how indirect rates are negotiated. The rules about what a grant can pay for, though, are also rules about how publicly funded research gets published and read.]]>
+      </description>
+      <source:markdown>Grant administration rules are not where most authors look for news that affects their work. But, the so-called “Uniform Guidance” published in Title 2 of the CFR has a big impact on how universities account for federal money, from what counts as an allowable cost to how indirect rates are negotiated. The rules about what a grant can pay for, though, are also rules about how publicly funded research gets published and read.</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=12956</guid>
+    </item>    <item>
       <title>Building Your Audience with Courtney Kemp</title>
       <link>https://johnaugust.com/2026/building-your-audience-with-courtney-kemp</link>
       <description>
@@ -95,17 +103,6 @@ The post [The Devil You Know](https://johnaugust.com/2026/the-devil-you-know) fi
       </description>
       <source:markdown>The fairness hearing in Bartz v. Anthropic is set for today, Thursday, May 14, 2026, at 2:00 p.m. Pacific Time \[…\]</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12908</guid>
-    </item>    <item>
-      <title>Scriptnotes, Episode 735: The Flashforward Fallback, Transcript</title>
-      <link>https://johnaugust.com/2026/scriptnotes-episode-735-the-flashforward-fallback-transcript</link>
-      <description>
-        <![CDATA[<p>The original post for this episode can be found here. Craig Mazin: The reason I don’t like this producer is because they’re doing this thing that makes me insane, which is to elevate their personal issue to an industry-wide rule that does not exist. It is an appeal to authority they do not have, or [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/scriptnotes-episode-735-the-flashforward-fallback-transcript">Scriptnotes, Episode 735: The Flashforward Fallback, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>The original post for this episode can be found here. Craig Mazin: The reason I don’t like this producer is because they’re doing this thing that makes me insane, which is to elevate their personal issue to an industry-wide rule that does not exist. It is an appeal to authority they do not have, or \[…\]
-
-The post [Scriptnotes, Episode 735: The Flashforward Fallback, Transcript](https://johnaugust.com/2026/scriptnotes-episode-735-the-flashforward-fallback-transcript) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=23931</guid>
     </item>
   </channel>
 </rss>
