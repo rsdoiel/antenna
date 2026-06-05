@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>04 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>05 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -95,14 +95,6 @@ The post [The Devil You Know](https://johnaugust.com/2026/the-devil-you-know) fi
       </description>
       <source:markdown>The fairness hearing in Bartz v. Anthropic took place this afternoon, Thursday, May 14, 2026, before Judge Araceli Martínez-Olguín in the Northern District of California. The hearing addressed approval of the $1.5 billion class action settlement, Class Counsel&#39;s fee request, and the objections and replies filed by class members and others.</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12919</guid>
-    </item>    <item>
-      <title>Bartz v. Anthropic Fairness Hearing: Final Reminder, 91.3% Claims Rate, and updates from the Docket</title>
-      <link>https://www.authorsalliance.org/2026/05/14/bartz-v-anthropic-fairness-hearing-final-reminder-91-3-claims-rate-and-updates-from-the-docket/</link>
-      <description>
-        <![CDATA[The fairness hearing in Bartz v. Anthropic is set for today, Thursday, May 14, 2026, at 2:00 p.m. Pacific Time [&#8230;]]]>
-      </description>
-      <source:markdown>The fairness hearing in Bartz v. Anthropic is set for today, Thursday, May 14, 2026, at 2:00 p.m. Pacific Time \[…\]</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12908</guid>
     </item>
   </channel>
 </rss>

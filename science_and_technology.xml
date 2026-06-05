@@ -4,10 +4,166 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>04 Jun 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>05 Jun 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>When su replaced login for becoming another UNIX login</title>
+      <link>https://www.osnews.com/story/145218/when-su-replaced-login-for-becoming-another-unix-login/</link>
+      <description>
+        <![CDATA[I&#8217;ve mentioned it before, but Chris Siebenmann is basically the Raymond Chen of the UNIX world, and today he&#8217;s filling that role perfectly once again. I recently read Simon Tatham&#8217;s Nitpicking the shell history scene in Tron: Legacy, where one thing that surprised Tatham was the film using &#8216;login -n root&#8216; to become root instead of &#8216;su&#8216;. This surprised me because I found that perfectly ordinary, and this turns up both a bit of Unix history and a difference between modern Unixes. Plain &#8216;su&#8216; can let you become another user, including root, but what it explicitly doesn&#8217;t do by default is create a new login shell for that user. If you do &#8216;su root&#8216;, the new root shell normally inherits most of your environment, your current directory, and so on. Sometimes this is what you want and sometimes you really want a new login environment, and originally in Unix how you got the latter was to run &#8216;login&#8216; from your existing shell session (and this meant that login was setuid root, like su). ↫ Chris Siebenmann Unsurprisingly, this distinction has persisted to this day in various UNIX-like operating systems, but in different ways. Some maintain the explicit distinction, while others have more or less standardised on using su for both use cases. It&#8217;s an interesting bit of UNIX archeology.]]>
+      </description>
+      <source:markdown>I’ve mentioned it before, but Chris Siebenmann is basically the Raymond Chen of the UNIX world, and today he’s filling that role perfectly once again. I recently read Simon Tatham’s Nitpicking the shell history scene in Tron: Legacy, where one thing that surprised Tatham was the film using ‘login -n root‘ to become root instead of ‘su‘. This surprised me because I found that perfectly ordinary, and this turns up both a bit of Unix history and a difference between modern Unixes. Plain ‘su‘ can let you become another user, including root, but what it explicitly doesn’t do by default is create a new login shell for that user. If you do ‘su root‘, the new root shell normally inherits most of your environment, your current directory, and so on. Sometimes this is what you want and sometimes you really want a new login environment, and originally in Unix how you got the latter was to run ‘login‘ from your existing shell session (and this meant that login was setuid root, like su). ↫ Chris Siebenmann Unsurprisingly, this distinction has persisted to this day in various UNIX-like operating systems, but in different ways. Some maintain the explicit distinction, while others have more or less standardised on using su for both use cases. It’s an interesting bit of UNIX archeology.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145218</guid>
+    </item>    <item>
+      <title>Prepare to be baffled by what we don&#39;t know about eels</title>
+      <link>https://www.npr.org/2026/06/05/nx-s1-5818527/european-eel-birthplace-mystery</link>
+      <description>
+        <![CDATA[More than a century ago, all that people knew about European eels was that they lived in the rivers and streams for decades — until they swam out to the ocean and never returned. Eventually, tiny eels would show up and the cycle would start again. Where did the adult eels go? Where did the baby eels come from? Did they even reproduce at all or just spontaneously emerge into being? Science now has some — but not all — of the answers to these questions. Today on the show, <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a> talks to fish physiologist <a href="https://www.wur.nl/en/persons/drir-ap-arjan-palstra"target="_blank"   >Arjan Palstra</a> about this mystery and how close scientists are to solving it. <br/><br/><strong>If you liked this episode, check out our </strong><a href="about:blank"target="_blank"   ><strong>episode on the Pacific lamprey</strong></a><strong>.</strong><br/><br/><em>Interested in more science mysteries? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>More than a century ago, all that people knew about European eels was that they lived in the rivers and streams for decades — until they swam out to the ocean and never returned. Eventually, tiny eels would show up and the cycle would start again. Where did the adult eels go? Where did the baby eels come from? Did they even reproduce at all or just spontaneously emerge into being? Science now has some — but not all — of the answers to these questions. Today on the show, [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) talks to fish physiologist [Arjan Palstra](https://www.wur.nl/en/persons/drir-ap-arjan-palstra) about this mystery and how close scientists are to solving it.
+
+**If you liked this episode, check out our** [**episode on the Pacific lamprey**](about:blank) **.**
+
+_Interested in more science mysteries? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/46c2bbb3-6551-4586-872c-91314ca872ef/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=46c2bbb3-6551-4586-872c-91314ca872ef&feed=F0qJcgXZ&t=podcast&e=nx-s1-5818527&p=510351&d=818&size=13092616" length="13092616" type="audio/mpeg" />
+      <guid>cid://e5be2003-6e1d-483e-9049-c0ff08d6195a</guid>
+    </item>    <item>
+      <title>Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI</title>
+      <link>https://blogs.nvidia.com/blog/korea-ecosystem-2026/</link>
+      <description>
+        <![CDATA[Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live [&#8230;]]]>
+      </description>
+      <source:markdown>Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=94093</guid>
+    </item>    <item>
+      <title>Fighting Fire With Fire</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/</link>
+      <description>
+        <![CDATA[In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.]]>
+      </description>
+      <source:markdown>In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/</guid>
+    </item>    <item>
+      <title>NASA Hosts 2026 Review on Advanced Composite Manufacturing</title>
+      <link>https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/</link>
+      <description>
+        <![CDATA[NASA’s&#160;Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for&#160;a&#160;2026&#160;spring&#160;review at NASA’s Langley Research Center in Hampton, Virginia.&#160;&#160; The meeting took place May 5-7, bringing together&#160;about 150 people from the&#160;consortium, a&#160;22-member public-private partnership.&#160;&#160; The review gave NASA and industry partners a chance to look at recent progress and [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for a 2026 spring review at NASA’s Langley Research Center in Hampton, Virginia.   The meeting took place May 5-7, bringing together about 150 people from the consortium, a 22-member public-private partnership.   The review gave NASA and industry partners a chance to look at recent progress and \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1002808</guid>
+    </item>    <item>
+      <title>See the Rescued and Restored &#39;Alice in Wonderland&#39; Mural Painted for Sick Children at a New York Hospital</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-rescued-and-restored-alice-in-wonderland-mural-painted-for-sick-children-at-a-new-york-hospital-180988898/</link>
+      <description>
+        <![CDATA[Abram Champanier’s "Alice of Wonderland Visiting New York" was a commission from the Federal Art Project, a New Deal program that championed American art in public spaces]]>
+      </description>
+      <source:markdown>Abram Champanier’s &#34;Alice of Wonderland Visiting New York&#34; was a commission from the Federal Art Project, a New Deal program that championed American art in public spaces</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/sxxjcYK-4tkucsajq_Kfkra2f44=/420x240/filters:focal(2822x1882:2823x1883)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/89/b689cb1d-2ffd-4782-858d-5d8b5d3f4f23/anotherwonderland_bradfarwell_08.jpeg" length="15440743" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-rescued-and-restored-alice-in-wonderland-mural-painted-for-sick-children-at-a-new-york-hospital-180988898/</guid>
+    </item>    <item>
+      <title>Scientists Made Sourdough Bread With Yeast Found on Ötzi the Iceman’s Mummified Body</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-made-sourdough-bread-with-yeast-found-on-otzi-the-icemans-mummified-body-180988894/</link>
+      <description>
+        <![CDATA[Discovered in the Alps in 1991, the remains are home to a wide variety of bacteria, fungi and yeasts]]>
+      </description>
+      <source:markdown>Discovered in the Alps in 1991, the remains are home to a wide variety of bacteria, fungi and yeasts</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8ugruZF46XrNT-3vlR5tRH3VUSQ=/420x240/filters:focal(2000x1333:2001x1334)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/65/f8659563-b51b-4e24-82f1-4b33d0e3c19f/image_8.jpeg" length="1127086" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-made-sourdough-bread-with-yeast-found-on-otzi-the-icemans-mummified-body-180988894/</guid>
+    </item>    <item>
+      <title>NASA Officially Ends the MAVEN Mission Months After Losing Contact With the Mars Orbiter</title>
+      <link>https://www.smithsonianmag.com/smart-news/nasa-officially-ends-the-maven-mission-months-after-losing-contact-with-the-mars-orbiter-180988897/</link>
+      <description>
+        <![CDATA[The agency last heard from the spacecraft on December 6. Recovered fragmentary data suggest that MAVEN was spinning unexpectedly, hinting at a change in its trajectory and draining its batteries]]>
+      </description>
+      <source:markdown>The agency last heard from the spacecraft on December 6. Recovered fragmentary data suggest that MAVEN was spinning unexpectedly, hinting at a change in its trajectory and draining its batteries</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YCsdrwvcY8-T2FIzYDjC2L6ewOM=/420x240/filters:focal(1500x914:1501x915)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/9e/8c9ed597-d9d9-4cb8-bec7-a3be7da35ca5/c-original.webp" length="432188" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/nasa-officially-ends-the-maven-mission-months-after-losing-contact-with-the-mars-orbiter-180988897/</guid>
+    </item>    <item>
+      <title>Roku launches open-source embedded Roku LT OS</title>
+      <link>https://www.osnews.com/story/145215/roku-launches-open-source-embedded-roku-lt-os/</link>
+      <description>
+        <![CDATA[Roku, the company that makes TV boxes and sells ad space based on your usage patterns, has released its remote control operating system as open source &#8211; and by remote control I don&#8217;t mean robot stuff or whatever, but actual remote controls, the thing you use to control your TV or whatever from the couch. Roku has announced the official availability of Roku LT OS &#8211; a lightweight, highly deterministic open-source operating system that is already used in our industry-changing Roku remote controls.  In addition to high-performance automotive platforms, Roku LT OS is designed to be accessible to the broader developer community. The operating system ships with native support for the ESP32 platform, a highly popular SoC among hobbyists and makers. Because ESP32 development boards are widely available online for just a few dollars, developers can get started with Roku LT OS with minimal hardware investment. ↫ Roku&#8217;s developers blog As far as I can tell, this operating system is entirely new and not based on Linux or something else, but the available documentation is light on details so I can&#8217;t make much more out of it. Regardless, it&#8217;s nice to have another open source embedded operating system.]]>
+      </description>
+      <source:markdown>Roku, the company that makes TV boxes and sells ad space based on your usage patterns, has released its remote control operating system as open source – and by remote control I don’t mean robot stuff or whatever, but actual remote controls, the thing you use to control your TV or whatever from the couch. Roku has announced the official availability of Roku LT OS – a lightweight, highly deterministic open-source operating system that is already used in our industry-changing Roku remote controls. In addition to high-performance automotive platforms, Roku LT OS is designed to be accessible to the broader developer community. The operating system ships with native support for the ESP32 platform, a highly popular SoC among hobbyists and makers. Because ESP32 development boards are widely available online for just a few dollars, developers can get started with Roku LT OS with minimal hardware investment. ↫ Roku’s developers blog As far as I can tell, this operating system is entirely new and not based on Linux or something else, but the available documentation is light on details so I can’t make much more out of it. Regardless, it’s nice to have another open source embedded operating system.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145215</guid>
+    </item>    <item>
+      <title>NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll</title>
+      <link>https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/</link>
+      <description>
+        <![CDATA[Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.]]>
+      </description>
+      <source:markdown>Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/</guid>
+    </item>    <item>
+      <title>The placeholder name for the Windows 8 experience was “modern”</title>
+      <link>https://www.osnews.com/story/145213/the-placeholder-name-for-the-windows-8-experience-was-modern/</link>
+      <description>
+        <![CDATA[Raymond Chen shares some history regarding Windows 8&#8217;s development: During the development of Windows&#160;8, we needed a name for “that thing we’re creating.” Not being a particularly clever bunch when it comes to code names, we just called it “the modern experience,” to distinguish it from what we had in Windows&#160;7, which was called “the classic experience.” And then, as Microspeak demands, we started abbreviating like mad. ↫ Raymond Chen Basically, they added &#8220;mo&#8221; for &#8220;modern&#8221; in front of everything, so the Metro shell became &#8220;MoSh&#8221;, the Settings application &#8220;MoSet&#8221;, and so on. And yes, the code name for the Photos application was exactly what it sounds like.]]>
+      </description>
+      <source:markdown>Raymond Chen shares some history regarding Windows 8’s development: During the development of Windows 8, we needed a name for “that thing we’re creating.” Not being a particularly clever bunch when it comes to code names, we just called it “the modern experience,” to distinguish it from what we had in Windows 7, which was called “the classic experience.” And then, as Microspeak demands, we started abbreviating like mad. ↫ Raymond Chen Basically, they added “mo” for “modern” in front of everything, so the Metro shell became “MoSh”, the Settings application “MoSet”, and so on. And yes, the code name for the Photos application was exactly what it sounds like.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145213</guid>
+    </item>    <item>
+      <title>George Washington Recorded a Recipe for Beer While Leading a Militia. Thanks to the New York Public Library, You Can Imbibe That History This Summer</title>
+      <link>https://www.smithsonianmag.com/smart-news/george-washington-recorded-a-recipe-for-beer-while-leading-a-militia-thanks-to-the-new-york-public-library-you-can-imbibe-that-history-this-summer-180988896/</link>
+      <description>
+        <![CDATA[To celebrate America's 250th birthday, the library partnered with a brewery to produce the founding father's beer — and an updated version more pleasing to modern palates]]>
+      </description>
+      <source:markdown>To celebrate America&#39;s 250th birthday, the library partnered with a brewery to produce the founding father&#39;s beer — and an updated version more pleasing to modern palates</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jSgvfVW4beNVOntxxD8Co57sf08=/420x240/filters:focal(480x238:481x239)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/a3/b0a32d16-2874-45d5-b46e-a1b4e377844d/us25020talea201000x500.webp" length="68750" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/george-washington-recorded-a-recipe-for-beer-while-leading-a-militia-thanks-to-the-new-york-public-library-you-can-imbibe-that-history-this-summer-180988896/</guid>
+    </item>    <item>
+      <title>Tonga&#39;s Enormous Volcanic Eruption Cleaned Up Part of Its Own Methane Emissions in 2022, Hinting at a Way to Fight Climate Change</title>
+      <link>https://www.smithsonianmag.com/smart-news/tongas-enormous-volcanic-eruption-cleaned-up-part-of-its-own-methane-emissions-in-2022-hinting-at-a-way-to-fight-climate-change-180988893/</link>
+      <description>
+        <![CDATA[Researchers analyzed satellite imagery of the volcanic plume and found evidence that the potent greenhouse gas had broken down. The work could inform artificial interventions aiming to mitigate global warming, scientists say]]>
+      </description>
+      <source:markdown>Researchers analyzed satellite imagery of the volcanic plume and found evidence that the potent greenhouse gas had broken down. The work could inform artificial interventions aiming to mitigate global warming, scientists say</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/khbtnWVENFn0ukSj88_R_i1ueBw=/420x240/filters:focal(350x197:351x198)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/e2/2be2f060-eba7-43bc-9e80-0c7a4451a0cc/low-res_featured_image_suggestion.png" length="64625" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/tongas-enormous-volcanic-eruption-cleaned-up-part-of-its-own-methane-emissions-in-2022-hinting-at-a-way-to-fight-climate-change-180988893/</guid>
+    </item>    <item>
+      <title>Colorful, Chaotic Jupiter</title>
+      <link>https://www.nasa.gov/image-article/colorful-chaotic-jupiter/</link>
+      <description>
+        <![CDATA[NASA&#8217;s Juno spacecraft captured this color-enhanced view of Jupiter&#8217;s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024. Citizen scientist Gary Eason made this image using raw data from the JunoCam instrument, applying digital processing techniques to enhance color and clarity. It provides a detailed view of chaotic clouds [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Juno spacecraft captured this color-enhanced view of Jupiter’s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024. Citizen scientist Gary Eason made this image using raw data from the JunoCam instrument, applying digital processing techniques to enhance color and clarity. It provides a detailed view of chaotic clouds \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1002281</guid>
+    </item>    <item>
+      <title>Glittering Gold Can Stay Shiny for Centuries. Scientists Say They&#39;ve Figured Out Why the Precious Metal Is So Resistant to Tarnishing</title>
+      <link>https://www.smithsonianmag.com/smart-news/glittering-gold-can-stay-shiny-for-centuries-scientists-say-theyve-figured-out-why-the-precious-metal-is-so-resistant-to-tarnishing-180988881/</link>
+      <description>
+        <![CDATA[When the metal is split, the atoms on its surface rearrange themselves into a very stable pattern that doesn't easily react with oxygen in the air, a study suggests]]>
+      </description>
+      <source:markdown>When the metal is split, the atoms on its surface rearrange themselves into a very stable pattern that doesn&#39;t easily react with oxygen in the air, a study suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Pox9pBirx25dWAAPij95lSnb6OE=/420x240/filters:focal(896x811:897x812)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/7b/a87b1b22-473a-4a20-badb-8214c30ae941/gold-ed04b.jpg" length="292934" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/glittering-gold-can-stay-shiny-for-centuries-scientists-say-theyve-figured-out-why-the-precious-metal-is-so-resistant-to-tarnishing-180988881/</guid>
+    </item>    <item>
+      <title>See the &#39;Spectacular&#39; Gold-and-Gemstone Ring a Roman Likely Buried for Safekeeping 1,700 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-spectacular-gold-and-gemstone-ring-a-roman-likely-buried-for-safekeeping-1700-years-ago-180988891/</link>
+      <description>
+        <![CDATA[The ring, discovered in an English field and deemed a "treasure," has ties to a power grab that a military leader made in Roman Britain]]>
+      </description>
+      <source:markdown>The ring, discovered in an English field and deemed a &#34;treasure,&#34; has ties to a power grab that a military leader made in Roman Britain</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lG-jewwJ5HqM_xU_I-0tpHHTe7w=/420x240/filters:focal(1454x969:1455x970)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/8f/f08ff075-94f1-418b-8414-e0a904951632/roman_ring_2.jpeg" length="3460026" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-spectacular-gold-and-gemstone-ring-a-roman-likely-buried-for-safekeeping-1700-years-ago-180988891/</guid>
+    </item>    <item>
+      <title>More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’</title>
+      <link>https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/</link>
+      <description>
+        <![CDATA[The podcast returns with 12 all-new episodes that explore the biggest questions in basic science and mathematics.            <p>The post <a href="https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/" target="_blank">More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The podcast returns with 12 all-new episodes that explore the biggest questions in basic science and mathematics.
+
+The post [More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’](https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=162645</guid>
+    </item>    <item>
       <title>Microsoft continues migration from NTLM to Kerberos</title>
       <link>https://www.osnews.com/story/145211/microsoft-continues-migration-from-ntlm-to-kerberos/</link>
       <description>
@@ -65,7 +221,7 @@
       <source:markdown>On the Vogon forums, user MarkDastedt posted an interesting bit of source code he discovered on an old company DVD: a very basic, very rudimentary implementation of multicore support for DOS. Another user, dartfrog, took a closer look and had this to say: Interesting stuff nonetheless. A worker core is running with no interrupt handlers, no page tables, no memory protection, and no OS. That’s about as close to bare metal as you can get, meanwhile the other core is still running DOS. Fascinating. ↫ MarkDastedt at the Vogon forums It’s effectively a simple demo, but according to other users in the thread, it fits in neatly with sporadic other attempts to bring some form of SMP or multicore-awareness to DOS. For instance, Michael Chourdakis worked on something similar to this demo for a series of articles now only available on the Wayback Machine. It makes for a cool demo, but moving from this to something robust and usable in DOS is not an easy task. Still, the possibilities are definitely there, even if you don’t implement full, modern SMP or multicore support. You could have specific DOS applications offloading dedicated tasks to different cores, but as others in the same thread note, individual cores are already stupidly powerful for anything DOS can do, making the use case for additional cores rather moot.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145203</guid>
     </item>    <item>
-      <title>Can a Hedgehog Replace Winston Churchill? See Which Animals May Soon Swap in for Historical Figures on British Pounds</title>
+      <title>Can a Hedgehog Replace Winston Churchill? See Which Animals May Soon Swap In for Historical Figures on British Pounds</title>
       <link>https://www.smithsonianmag.com/smart-news/can-a-hedgehog-replace-winston-churchill-see-which-animals-may-soon-swap-in-for-historical-figures-on-british-pounds-180988890/</link>
       <description>
         <![CDATA[Butterflies, dolphins and puffins are among the options the public will vote on to grace new bank notes]]>
@@ -256,8 +412,8 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/ntop-video-cut.mp4" length="28089481" type="video/mp4" />
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/physicx-video-cut.mp4" length="5686123" type="video/mp4" />
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/p-1-ai-video-cut.mp4" length="10539021" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/simscale-video-cut.mp4" length="20055068" type="video/mp4" />
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/synera-video-cut.mp4" length="7387797" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/simscale-updated-video-cut.mp4" length="12451281" type="video/mp4" />
       <guid>cid://https://blogs.nvidia.com/?p=93790</guid>
     </item>    <item>
       <title>How Do Pigeons Find Their Way Home? New Research Suggests That the Birds&#39; Remarkable Navigational Skills Come From Their Livers</title>
@@ -2649,122 +2805,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/</guid>
-    </item>    <item>
-      <title>Codeberg&#39;s Budget of 2026</title>
-      <link>https://blog.codeberg.org/codebergs-budget-of-2026.html</link>
-      <description>
-        <![CDATA[<p>Codeberg e.V. is entering its seventh year.
-        We have grown in projects and members but also in organizational structure and money.</p>
-        <p>While Codeberg e.V. was spending only about 300 € in 2019, our budgeting has reached much higher amounts by now.
-        We are grateful for your donations and spend …</p>]]>
-      </description>
-      <source:markdown>Codeberg e.V. is entering its seventh year.
-We have grown in projects and members but also in organizational structure and money.
-
-While Codeberg e.V. was spending only about 300 € in 2019, our budgeting has reached much higher amounts by now.
-We are grateful for your donations and spend …</source:markdown>
-      <guid>cid://tag:blog.codeberg.org,2026-05-15:/codebergs-budget-of-2026.html</guid>
-    </item>    <item>
-      <title>NASA Draws on Industry for Mars Telecommunications Network</title>
-      <link>https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/</link>
-      <description>
-        <![CDATA[On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. [&#8230;]]]>
-      </description>
-      <source:markdown>On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=995681</guid>
-    </item>    <item>
-      <title>The data is abundantly clear: the EU Digital Markets Act is working</title>
-      <link>https://www.osnews.com/story/144954/the-data-is-abundantly-clear-the-eu-digital-markets-act-is-working/</link>
-      <description>
-        <![CDATA[The EU&#8217;s Digital Markets Act has been in effect for a mere two years, but despite all the obstructionism, malicious compliance, and steady stream of lies from US tech companies and Apple in particular, it seems this rather basic consumer protection legislation is already bearing fruit. In a two-year review report on the DMA, the European Commission notes that alternative browser usage has soared, data portability solutions are spreading, alternative application stores are growing, and much more. On top of that, end users can now opt out of companies combining various data sources for profiling, and a &#8220;significant share&#8221; of EU users have apparently done so. Furthermore, end users in the EU can now remove preinstalled applications (whereas American users cannot) and they can download their data from big technology companies and authorise other companies to use that data. Mozilla published a blog post detailing how it has profited from the Digital Markets Act, and it ain&#8217;t no peanuts: every ten seconds, someone on iOS chooses Firefox on iOS&#8217; browser choice screen, which amounts to more than six million Firefox users on iOS. They also tend to stick with Firefox on iOS, as retention is five times higher when this browser is chosen through a browser choice screen. Academic analysis points the same way. Independent researchers compared Firefox daily active users in the EU with 43 non-EU countries. Comparing the 15 months before and after browser choice screens rolled out on iOS, they found that Firefox daily active users (DAU) were 113% higher in the EU than it would have been without the DMA. On Android, it was 12% higher. The smaller Android effect is due to the fact that Firefox usage there started from a much higher base, and the Android rollout has been more uneven than on iOS. The research also shows that the DMA’s effect is growing over time. ↫ Gemma Petrie and Tasos Stampelos on the Mozilla blog Both the underlying data in the EC report and the data Mozilla provides indicates that the Digital Markets Act is having real and tangible effects, for end users, developers, and companies alike. The neverending barrage of anti-EU and anti-DMA propaganda from Apple, the US government, and their PR attack dogs seems to have been weirdly justified, from the American perspective: basic consumer protection legislation does, indeed, work to lessen the stranglehold major technology companies have on our lives. And considering just NVIDIA&#8217;s market cap alone is now equal to more than 17% of the United States&#8217; GDP, it makes sense the Americans are unhappy with the DMA. That&#8217;s going to make one hell of a sound when it pops.]]>
-      </description>
-      <source:markdown>The EU’s Digital Markets Act has been in effect for a mere two years, but despite all the obstructionism, malicious compliance, and steady stream of lies from US tech companies and Apple in particular, it seems this rather basic consumer protection legislation is already bearing fruit. In a two-year review report on the DMA, the European Commission notes that alternative browser usage has soared, data portability solutions are spreading, alternative application stores are growing, and much more. On top of that, end users can now opt out of companies combining various data sources for profiling, and a “significant share” of EU users have apparently done so. Furthermore, end users in the EU can now remove preinstalled applications (whereas American users cannot) and they can download their data from big technology companies and authorise other companies to use that data. Mozilla published a blog post detailing how it has profited from the Digital Markets Act, and it ain’t no peanuts: every ten seconds, someone on iOS chooses Firefox on iOS’ browser choice screen, which amounts to more than six million Firefox users on iOS. They also tend to stick with Firefox on iOS, as retention is five times higher when this browser is chosen through a browser choice screen. Academic analysis points the same way. Independent researchers compared Firefox daily active users in the EU with 43 non-EU countries. Comparing the 15 months before and after browser choice screens rolled out on iOS, they found that Firefox daily active users (DAU) were 113% higher in the EU than it would have been without the DMA. On Android, it was 12% higher. The smaller Android effect is due to the fact that Firefox usage there started from a much higher base, and the Android rollout has been more uneven than on iOS. The research also shows that the DMA’s effect is growing over time. ↫ Gemma Petrie and Tasos Stampelos on the Mozilla blog Both the underlying data in the EC report and the data Mozilla provides indicates that the Digital Markets Act is having real and tangible effects, for end users, developers, and companies alike. The neverending barrage of anti-EU and anti-DMA propaganda from Apple, the US government, and their PR attack dogs seems to have been weirdly justified, from the American perspective: basic consumer protection legislation does, indeed, work to lessen the stranglehold major technology companies have on our lives. And considering just NVIDIA’s market cap alone is now equal to more than 17% of the United States’ GDP, it makes sense the Americans are unhappy with the DMA. That’s going to make one hell of a sound when it pops.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144954</guid>
-    </item>    <item>
-      <title>Frida Kahlo and Diego Rivera Sing Themselves to Death in an Opera at the Met Inspired by Greek Mythology and Mexican Magical Realism</title>
-      <link>https://www.smithsonianmag.com/smart-news/frida-kahlo-and-diego-rivera-sing-themselves-to-death-in-an-opera-at-the-met-inspired-by-greek-mythology-and-mexican-magical-realism-180988742/</link>
-      <description>
-        <![CDATA[A new production of the all-Spanish opera "El Último Sueño de Frida y Diego" takes the stage in New York City this week, while a partner exhibition at the Museum of Modern Art explores the art behind the opera]]>
-      </description>
-      <source:markdown>A new production of the all-Spanish opera &#34;El Último Sueño de Frida y Diego&#34; takes the stage in New York City this week, while a partner exhibition at the Museum of Modern Art explores the art behind the opera</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rlA_xVMMlLtgZ78yUW5XRDqEO_4=/420x240/filters:focal(2250x1500:2251x1501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/33/04331ca0-f966-48a3-b35f-924e3f9c1f31/el_ultimo_sueno_de_frida_y_diego_6375s.jpeg" length="8924871" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/frida-kahlo-and-diego-rivera-sing-themselves-to-death-in-an-opera-at-the-met-inspired-by-greek-mythology-and-mexican-magical-realism-180988742/</guid>
-    </item>    <item>
-      <title>This Fish Hitches Rides in Manta Rays&#39; &#39;Buttholes,&#39; According to New Research</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-fish-hitches-rides-in-manta-rays-buttholes-according-to-new-research-180988736/</link>
-      <description>
-        <![CDATA[Scientists suspect that the behavior could harm the manta rays, suggesting a complex relationship between remoras and their hosts that can sometimes be parasitic]]>
-      </description>
-      <source:markdown>Scientists suspect that the behavior could harm the manta rays, suggesting a complex relationship between remoras and their hosts that can sometimes be parasitic</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_xWTX5I2FOG_IIAQ5mG2W4SDWpQ=/420x240/filters:focal(640x482:641x483)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/0e/010e3a72-cec0-482f-9a0a-66c3a316263e/20210710-manta_112_remora_cloaca_copy.jpg" length="102554" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-fish-hitches-rides-in-manta-rays-buttholes-according-to-new-research-180988736/</guid>
-    </item>    <item>
-      <title>No Joke, Ahead of His 100th Birthday, Mel Brooks Donates His Hilarious Archive to the National Comedy Center</title>
-      <link>https://www.smithsonianmag.com/smart-news/no-joke-ahead-of-his-100th-birthday-mel-brooks-donates-his-hilarious-archive-to-the-national-comedy-center-180988741/</link>
-      <description>
-        <![CDATA[Thousands of notes, storyboards, early scripts and photographs belonging to the “2,000-year-old man” and EGOT winner will join material from Lucille Ball, Joan Rivers and George Carlin]]>
-      </description>
-      <source:markdown>Thousands of notes, storyboards, early scripts and photographs belonging to the “2,000-year-old man” and EGOT winner will join material from Lucille Ball, Joan Rivers and George Carlin</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gZFAQlH0B-OlI-5sN-fu_0MyTcI=/420x240/filters:focal(350x237:351x238)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/13/2313aed2-584d-4bdc-9549-5d1d006b38f5/brooks-image-edits-2-2026-05-04-700x475.jpg" length="56848" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/no-joke-ahead-of-his-100th-birthday-mel-brooks-donates-his-hilarious-archive-to-the-national-comedy-center-180988741/</guid>
-    </item>    <item>
-      <title>Classic 7 combines Windows 7’s Aero Glass with Windows 10</title>
-      <link>https://www.osnews.com/story/144952/classic-7-combines-windows-7s-aero-glass-with-windows-10/</link>
-      <description>
-        <![CDATA[Interest in classic user interface design is spiking, and today we&#8217;ve got another great example, highlighted yesterday by Micheal MJD. Classic 7 combined Windows 10 LTSC with a whole slew of themes and deep modifications to deliver Windows 10, but made to look, feel, and even act like Windows 7. Classic 7 is a Windows 10 (IoT Enterprise LTSC 2021) modification made to look 1:1 to Windows 7. It has all of the goodies that Windows 7 had along with some extras included! Classic 7 features a 1:1 OOBE recreation, meaning it&#8217;ll feel just like your PC simplified once more. ↫ Classic 7 website As Micheal MJD&#8217;s video shows, this is much more than a mere theme, and extends far deeper into the operating system than these kinds of projects generally do. I have no idea how stable this really is, or if it&#8217;s even remotely legal to do something like this, but who the hell cares &#8211; this is incredibly fun, and seems quite well done.]]>
-      </description>
-      <source:markdown>Interest in classic user interface design is spiking, and today we’ve got another great example, highlighted yesterday by Micheal MJD. Classic 7 combined Windows 10 LTSC with a whole slew of themes and deep modifications to deliver Windows 10, but made to look, feel, and even act like Windows 7. Classic 7 is a Windows 10 (IoT Enterprise LTSC 2021) modification made to look 1:1 to Windows 7. It has all of the goodies that Windows 7 had along with some extras included! Classic 7 features a 1:1 OOBE recreation, meaning it’ll feel just like your PC simplified once more. ↫ Classic 7 website As Micheal MJD’s video shows, this is much more than a mere theme, and extends far deeper into the operating system than these kinds of projects generally do. I have no idea how stable this really is, or if it’s even remotely legal to do something like this, but who the hell cares – this is incredibly fun, and seems quite well done.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144952</guid>
-    </item>    <item>
-      <title>NASA, Industry Prepare Cryogenic Fuel Technology Demo</title>
-      <link>https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/</link>
-      <description>
-        <![CDATA[NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a [&#8230;]]]>
-      </description>
-      <source:markdown>NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=995836</guid>
-    </item>    <item>
-      <title>Could Building a Dam Across the Bering Strait Save the Planet From Some Effects of Climate Change?</title>
-      <link>https://www.smithsonianmag.com/smart-news/could-building-a-dam-across-the-bering-straight-save-the-planet-from-some-effects-of-climate-change-180988725/</link>
-      <description>
-        <![CDATA[A preliminary study suggests that blocking off the waterway between Russia and Alaska could help the survival of a key system of ocean currents. But there could be potential unforeseen consequences, particularly to marine ecosystems]]>
-      </description>
-      <source:markdown>A preliminary study suggests that blocking off the waterway between Russia and Alaska could help the survival of a key system of ocean currents. But there could be potential unforeseen consequences, particularly to marine ecosystems</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/t1YciqElJPGAUcR_STXbFFYEef8=/420x240/filters:focal(800x556:801x557)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/30/8330d810-e85e-4661-a777-b2fa57e7cbb4/lc8084013-0142015168lgn00_b432beringstraitcropsmall.jpg" length="1046736" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/could-building-a-dam-across-the-bering-straight-save-the-planet-from-some-effects-of-climate-change-180988725/</guid>
-    </item>    <item>
-      <title>Fresh Food Delivery for Space Station</title>
-      <link>https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/</link>
-      <description>
-        <![CDATA[NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=995220</guid>
-    </item>    <item>
-      <title>Fetuses Can &#39;Catch&#39; Yawns From Their Mothers While Still in the Womb, New Research Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/fetuses-can-catch-yawns-from-their-mothers-while-still-in-the-womb-new-research-suggests-180988735/</link>
-      <description>
-        <![CDATA[Yawning is considered a social behavior. Although fetuses were known to yawn, scientists weren't sure if it was a self-contained reflex or if they could somehow detect cues from their moms]]>
-      </description>
-      <source:markdown>Yawning is considered a social behavior. Although fetuses were known to yawn, scientists weren&#39;t sure if it was a self-contained reflex or if they could somehow detect cues from their moms</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JqxquEoA7OLqWr_l2FbrQ7Q3w9s=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/62/ca62b500-d1be-4c87-90fe-080c2b54c721/tung256-yawn-2073293.jpg" length="2109120" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/fetuses-can-catch-yawns-from-their-mothers-while-still-in-the-womb-new-research-suggests-180988735/</guid>
-    </item>    <item>
-      <title>Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/</link>
-      <description>
-        <![CDATA[Editor&#8217;s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s note: The Gaijin single sign-on feature is now up and running. Dive masks on — Subnautica 2 is making a splash on GeForce NOW day-and-date with launch, so members can plunge into the title’s brand-new alien ocean from almost any device. It leads 11 new games joining the cloud this week. A limited-time HITMAN \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=92959</guid>
-    </item>    <item>
-      <title>Ice Moves Out of Aniak</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/</link>
-      <description>
-        <![CDATA[Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding.]]>
-      </description>
-      <source:markdown>Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/</guid>
     </item>
   </channel>
 </rss>
