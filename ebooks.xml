@@ -4,16 +4,81 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>05 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>06 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Time Machine by H. G.  Wells</title>
+      <link>https://www.gutenberg.org/ebooks/35</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The Wheel O&#39; Fortune by Louis Tracy</title>
       <link>https://www.gutenberg.org/ebooks/8596</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Phantastes: A Faerie Romance for Men and Women by George MacDonald</title>
+      <link>https://www.gutenberg.org/ebooks/325</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Women in Love by D. H.  Lawrence</title>
+      <link>https://www.gutenberg.org/ebooks/4240</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Kilima-Njaro expedition : by Harry Johnston</title>
+      <link>https://www.gutenberg.org/ebooks/78816</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Absenteeism by Lady  Morgan</title>
+      <link>https://www.gutenberg.org/ebooks/78814</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kruunun-perämies : by Larin-Kyösti</title>
+      <link>https://www.gutenberg.org/ebooks/78817</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Doctor and patient : by Francis Weld Peabody</title>
+      <link>https://www.gutenberg.org/ebooks/78813</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Maidean i mBéarra agus dánta eile by Osborn Bergin</title>
+      <link>https://www.gutenberg.org/ebooks/78815</link>
+      <description>
+        <![CDATA[Language: Irish]]>
+      </description>
+      <source:markdown>Language: Irish</source:markdown>
+    </item>    <item>
+      <title>Interim, by Dorothy M. Richardson</title>
+      <link>https://standardebooks.org/ebooks/dorothy-m-richardson/interim</link>
+      <description>
+        <![CDATA[An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.]]>
+      </description>
+      <source:markdown>An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/interim/downloads/dorothy-m-richardson_interim.epub?source=feed" length="559918" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/dorothy-m-richardson/interim</guid>
     </item>    <item>
       <title>Frederick Chopin, as a Man and Musician — Volume 2 by Frederick Niecks</title>
       <link>https://www.gutenberg.org/ebooks/4972</link>
@@ -273,7 +338,7 @@
         <![CDATA[A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.]]>
       </description>
       <source:markdown>A young man joins the citizens of the Spanish city of Zaragoza in defending against an attack by the French.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith/downloads/benito-perez-galdos_saragossa_minna-caroline-smith.epub?source=feed" length="618506" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith/downloads/benito-perez-galdos_saragossa_minna-caroline-smith.epub?source=feed" length="618736" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/benito-perez-galdos/saragossa/minna-caroline-smith</guid>
     </item>    <item>
       <title>Through the Grand Canyon from Wyoming to Mexico by E. L.  Kolb</title>
@@ -848,13 +913,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Time Machine by H. G.  Wells</title>
-      <link>https://www.gutenberg.org/ebooks/35</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Knickerbocker&#39;s history of New York, vol. 2 (of 2) by Washington Irving and E. W.  Kemble</title>
       <link>https://www.gutenberg.org/ebooks/78730</link>
       <description>
@@ -1265,97 +1323,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Beauty: Illustrated Chiefly by an Analysis and Classification of Beauty in Woman by Alexander Walker</title>
-      <link>https://www.gutenberg.org/ebooks/35409</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Contemporary One-Act Plays</title>
-      <link>https://www.gutenberg.org/ebooks/37970</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Jupiter Lights by Constance Fenimore Woolson</title>
-      <link>https://www.gutenberg.org/ebooks/34282</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nancy Pembroke in Nova Scotia</title>
-      <link>https://www.gutenberg.org/ebooks/48087</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ben-Hur: Een verhaal van den tijd van Jezus&#39; omwandeling op aarde by Lew Wallace</title>
-      <link>https://www.gutenberg.org/ebooks/16832</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Jack Brag, vol. 1 (of 3) by Theodore Edward Hook</title>
-      <link>https://www.gutenberg.org/ebooks/78686</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The thinking machine by Raymond F. Jones</title>
-      <link>https://www.gutenberg.org/ebooks/78681</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lord Lister No. 0046: Vereeniging ter bevordering der goede zeden by Blankensee and Matull</title>
-      <link>https://www.gutenberg.org/ebooks/78680</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Lord Lister No. 0345: De bankroovers by Theo von Blankensee and Felix  Hageman and Kurt Matull</title>
-      <link>https://www.gutenberg.org/ebooks/78683</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Hashknife and the Fantom Riders by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78685</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The lily of Mordaunt by Mrs. Georgie Sheldon</title>
-      <link>https://www.gutenberg.org/ebooks/78682</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Some Nigerian fertility cults by Percy Amaury Talbot</title>
-      <link>https://www.gutenberg.org/ebooks/78684</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ejercicios by Benjamín Jarnés</title>
-      <link>https://www.gutenberg.org/ebooks/78679</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
     </item>
   </channel>
 </rss>
