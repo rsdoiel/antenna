@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>06 Jun 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>07 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -310,7 +310,7 @@
         
         The boot doesn't get far before running into a problem. Although the VPAC display is strictly character-oriented, it can still display various graphics. This flashing disk icon does not mean the system is loading, like, say, <a href="/2023/08/cracking-designwares-grammar-examiner.html">the DesignWare chirp</a> &mdash; it means there's a disk error.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dx-u5ovS6aLt6DwHwEEFZfJBQuIdvCpPtGrIa_ZZZGduqZNslx3CSJLoEXluiRVxr1JN3ahc_qzCBKUeqps1g' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw54QtcH8n8_xNHDFaHgJxZchFs4Q2_KFd-7xYeAjBmPtZAHkflmCrorgJ6Kgd167-r7jUvn4MWdBXBTiQQFg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         The RX50 has a very characteristic sound when it loads, with a clicky motor unlike any other floppy disk drive, and you can hear it in this video trying very hard. But the DECmate II's ROMs never say die; they'll just keep trying until they get something.
         
@@ -2373,30 +2373,6 @@ Of course, this all failed miserably for Tomy, even with Sarah Purcell&#39;s att
 And that means we&#39;ll just have to build some peripherals of our own — [more soon](/search/label/tomy%20tutor). I have not found any contact information for Len Vucci to confirm any of this, but if you know him or are him, please post in the comments or drop me a line at ckaiser at floodgap dawt com.</source:markdown>
       <author>noreply@blogger.com (ClassicHasClass)</author>
       <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-7725068542078818117</guid>
-    </item>    <item>
-      <title>b.log 2026/05/16 - Eurovision Grand Final 2026.</title>
-      <link>https://heyrick.eu/blog/entry/20260516</link>
-      <description>
-        <![CDATA[Eurovision Grand Final 2026.]]>
-      </description>
-      <source:markdown>Eurovision Grand Final 2026.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260516</guid>
-    </item>    <item>
-      <title>A demo of the new facilities in the KIM-1 Simulator 2.2.1</title>
-      <link>http://retro.hansotten.nl/kim-1-simulator-2-2-0/</link>
-      <description>
-        <![CDATA[A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-1 and TIM Simulator with thanks to Eduardo Casino. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, [&#8230;]]]>
-      </description>
-      <source:markdown>A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-1 and TIM Simulator with thanks to Eduardo Casino. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=20969</guid>
-    </item>    <item>
-      <title>AI: AI Systems Are No Longer Just Models, and Runtime Verification Is Becoming the New Security Boundary</title>
-      <link>https://paolozaino.wordpress.com/2026/05/16/ai-ai-systems-are-no-longer-just-models-and-runtime-verification-is-becoming-the-new-security-boundary/</link>
-      <description>
-        <![CDATA[AI systems are increasingly being discussed as if the model were the system. That was never entirely true, but it is becoming dangerously misleading. Moreover, modern AI applications are not simply prompts sent to a model and responses returned to a user. They are pipelines, wrappers, agents, tools, APIs, third-party services, memory layers, orchestration logic, [&#8230;]]]>
-      </description>
-      <source:markdown>AI systems are increasingly being discussed as if the model were the system. That was never entirely true, but it is becoming dangerously misleading. Moreover, modern AI applications are not simply prompts sent to a model and responses returned to a user. They are pipelines, wrappers, agents, tools, APIs, third-party services, memory layers, orchestration logic, \[…\]</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=10127</guid>
     </item>
   </channel>
 </rss>

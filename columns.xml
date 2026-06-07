@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>06 Jun 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>07 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -37,6 +37,1007 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>“West Side Story”</title>
+      <link>https://steady.substack.com/p/west-side-story</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!B3uP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9db6da90-c414-42f3-b1c1-f2caaf14a0e6_3000x2400.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/west-side-story</guid>
+    </item>    <item>
+      <link>https://jetpack.com/resources/introducing-reader-chat-powered-by-jetpack-search/</link>
+      <description>
+        <![CDATA[<p>Introducing Reader Chat, Powered by Jetpack Search.</p>]]>
+      </description>
+      <source:markdown>Introducing Reader Chat, Powered by Jetpack Search.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/07/3989/</guid>
+    </item>    <item>
+      <title>Markwayne Mullin’s Tourist Guide to the US Now That He’s Closing All Major US Airports</title>
+      <link>https://www.borowitzreport.com/p/markwayne-mullins-tourist-guide-to</link>
+      <description>
+        <![CDATA[TBR Sunday Read]]>
+      </description>
+      <source:markdown>TBR Sunday Read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!a9Va!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe1a744-4555-43a9-a4b9-bb733873c622_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/markwayne-mullins-tourist-guide-to</guid>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books - Biographies And The Orwell Prize</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-95/</link>
+      <description>
+        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
+      </description>
+      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
+      <guid>cid://6a230bf16c977a0001465a48</guid>
+    </item>    <item>
+      <title>AI and the Pitfalls of Innovation</title>
+      <link>https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation</link>
+      <description>
+        <![CDATA[History offers warnings about technological optimism]]>
+      </description>
+      <source:markdown>History offers warnings about technological optimism</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0KJY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd94ecee-eedb-4635-8492-ce2e42fe0ca0_936x528.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/ai-and-the-pitfalls-of-innovation</guid>
+    </item>    <item>
+      <title>The Coming Revival of America</title>
+      <link>https://robertreich.substack.com/p/we-needed-trump</link>
+      <description>
+        <![CDATA[Trump has shown us why we need a good and decent government]]>
+      </description>
+      <source:markdown>Trump has shown us why we need a good and decent government</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!L2Ch!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc45cd6c7-934f-471b-ace2-7d4545070c6b_3500x2910.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/we-needed-trump</guid>
+    </item>    <item>
+      <title>June 6, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/june-6-2026</link>
+      <description>
+        <![CDATA[In the wee hours of Friday morning, Senate Republicans passed a measure to provide about $70 billion in additional funding to Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), the parent agency for Border Patrol.]]>
+      </description>
+      <source:markdown>In the wee hours of Friday morning, Senate Republicans passed a measure to provide about $70 billion in additional funding to Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), the parent agency for Border Patrol.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/june-6-2026</guid>
+    </item>    <item>
+      <title>Weekly Bookmarks</title>
+      <link>https://inkdroid.org/2026/06/07/bookmarks/</link>
+      <description>
+        <![CDATA[These are some things I’ve wandered across on the web this week.
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://theconsensus.dev/p/2026/05/29/ladybug-duckdb-and-postgresql.html">
+        Graph database-ball! Exploring the Game with the graph capabilities of
+        LadybugDB, DuckDB and PostgreSQL </a>
+        </h2>
+        <section class="p-summary">
+        This article presents a comparison of graph capabilities in three
+        different databases: DuckDB (v1.4.4 with duckpgq), LadybugDB (0.16.1),
+        and PostgreSQL (19devel). We will load a large volume of records
+        (5,635,972 rows of baseball data covering people, parks, team records,
+        and game play-by-plays) into each database, define the entities and
+        relationships, and write a variety of queries that take full advantage
+        of the graph structure.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://ambient.church/"> Ambient Church </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        Ambient Church transforms architecturally stunning spaces into immersive
+        audio-visual environments. Our events feature pioneering artists
+        presenting vibrant works in a context that elevates both the music and
+        the space.
+        </p>
+        Founded in Brooklyn in 2016, we facilitate collective peak experiences
+        through the soundscapes of modern contemplative music. With an emphasis
+        on education and environment, we seek to illuminate an underacknowledged
+        lineage of sonic exploration.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.nature.com/articles/s41586-026-10319-8">
+        Language models transmit behavioural traits through hidden signals in
+        data </a>
+        </h2>
+        <section class="p-summary">
+        Large language models (LLMs) are increasingly used to generate data to
+        train improved models1,2,3, but it remains unclear what properties are
+        transmitted in this model distillation4,5. Here we show that
+        distillation can lead to subliminal learning—the transmission of
+        behavioural traits through semantically unrelated data. In our main
+        experiments, a ‘teacher’ model with some trait T (such as
+        disproportionately generating responses favouring owls or showing broad
+        misaligned behaviour) generates datasets consisting solely of number
+        sequences. Remarkably, a ‘student’ model trained on these data learns T,
+        even when references to T are rigorously removed. More realistically, we
+        observe the same effect when the teacher generates math reasoning traces
+        or code. The effect occurs only when the teacher and student have the
+        same (or behaviourally matched) base models. To help explain this, we
+        prove a theoretical result showing that subliminal learning arises in
+        neural networks under broad conditions and demonstrate it in a simple
+        multilayer perceptron (MLP) classifier. As artificial intelligence
+        systems are increasingly trained on the outputs of one another, they may
+        inherit properties not visible in the data. Safety evaluations may
+        therefore need to examine not just behaviour, but the origins of models
+        and training data and the processes used to create them.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.atassifoundation.com/features/the-archive-in-art-art-in-the-archive">
+        The Archive in Art Art in the Archive </a>
+        </h2>
+        <section class="p-summary">
+        In this essay we will attempt to look at both the archive of art as well
+        as the archive as art. When we draw a distinction between those
+        materials that we treat as documents with a ‘factual’ historical
+        significance (those which offer themselves in the service of
+        scholarship), and the uses which artists make of the archive as one of
+        the media of expression that intersect with their documentary value, we
+        ask ourselves: which theories about the archive’s nature and function
+        are applicable to Syrian art? What are the roles adopted by ‘the
+        document’ and ‘the archivist’? To what extent do these roles alternate
+        and intersect?
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://en.wikipedia.org/wiki/Cave_of_Forgotten_Dreams">
+        Cave of Forgotten Dreams </a>
+        </h2>
+        <section class="p-summary">
+        Cave of Forgotten Dreams is a 2010 3D documentary film by Werner Herzog
+        about the Chauvet Cave in Southern France, which contains some of the
+        oldest human-painted images yet discovered—some of them were crafted
+        around 32,000 years ago. It consists of footage from inside the cave, as
+        well as of the nearby Pont d’Arc natural bridge, alongside interviews
+        with various scientists and historians. The film premiered on 13
+        September 2010 at the Toronto International Film Festival.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://incorporealbard.online/5reasonsimask/">
+        5 Reasons I Wear A Mask (and you can too) </a>
+        </h2>
+        <section class="p-summary">
+        a short zine about masking &amp; disability justice
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://finance.yahoo.com/sectors/technology/articles/starbucks-ditches-ai-inventory-system-085300571.html">
+        Starbucks ditches AI inventory system after just 9 months </a>
+        </h2>
+        <section class="p-summary">
+        Starbucks is saying goodbye to its artificial intelligence inventory
+        management system about nine months after its debut, Reuters reported
+        Thursday. The tool, which used computer vision to track some parts of
+        the chain’s inventory, was announced in September as a method to
+        simplify inventory record-keeping and prevent stockouts.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://youtu.be/Abyvb1jpS18"> “Renaud &amp;
+        Axelle Red” - Manhattan kaboul - (english subtitles) </a>
+        </h2>
+        <section class="p-summary">
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://fietkau.software/fediroster">
+        FediRoster </a>
+        </h2>
+        <section class="p-summary">
+        FediRoster is a slightly more heavyweight alternative to David Adler’s
+        Sociologists on Mastodon software. It is intended to function as a
+        public list of Mastodon and other fediverse accounts, geared primarily
+        towards academic communities, but suitable for others as well. It offers
+        functions for following listed accounts individually or in bulk. The
+        main novelty here is that you can add yourself to the list through an
+        authentication process instead of all the work falling on a list
+        maintainer. You can sign in through your Mastodon account or send a
+        message to the list’s bot to verify your account ownership. This also
+        means that the hosting process for new lists is a bit more involved
+        (it’s a Python/WSGI application).
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://microsoft.github.io/RustTraining/python-book/">
+        Rust for Python Programmers: Complete Training Guide </a>
+        </h2>
+        <section class="p-summary">
+        A comprehensive guide to learning Rust for developers with Python
+        experience. This guide covers everything from basic syntax to advanced
+        patterns, focusing on the conceptual shifts required when moving from a
+        dynamically-typed, garbage-collected language to a statically-typed
+        systems language with compile-time memory safety.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://cs336.stanford.edu/"> CS336: Language
+        Modeling from Scratch </a>
+        </h2>
+        <section class="p-summary">
+        Language models serve as the cornerstone of modern natural language
+        processing (NLP) applications and open up a new paradigm of having a
+        single general purpose system address a range of downstream tasks. As
+        the field of artificial intelligence (AI), machine learning (ML), and
+        NLP continues to grow, possessing a deep understanding of language
+        models becomes essential for scientists and engineers alike. This course
+        is designed to provide students with a comprehensive understanding of
+        language models by walking them through the entire process of developing
+        their own. Drawing inspiration from operating systems courses that
+        create an entire operating system from scratch, we will lead students
+        through every aspect of language model creation, including data
+        collection and cleaning for pre-training, transformer model
+        construction, model training, and evaluation before deployment.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://github.com/overbrowsing/wasteback-machine">
+        wasteback-machine </a>
+        </h2>
+        <section class="p-summary">
+        Wasteback Machine is a JavaScript library for analysing archived web
+        pages, measuring their size and composition to enable retrospective,
+        quantitative web research.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=w2hbEf3JROTUmsXaSUzB4Wo7RZOfwNcjF39s3Z9SPkg">
+        No, Artificial Intelligence Is Not Conscious </a>
+        </h2>
+        <section class="p-summary">
+        The primary difference between deepfake photos and LLM conversations is
+        that the people who generate the former are deliberately trying to fool
+        others, and many of the people who elicit the latter from LLMs have
+        inadvertently fooled themselves.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4-12b">
+        A Visual Guide to Gemma 4 12B </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        The removal of the encoders, which are typically in charge of making
+        sense of the multimodal inputs, places the burden of making sense of all
+        outputs on the LLM. Although the model is encoder-free, all modalities
+        are now unified within the LLM. Instead of the model having to wait for
+        the encoders to finish processing the audio and image inputs, the LLM
+        can get started earlier processing the input and generating output!
+        </p>
+        In this guide, I want to showcase what it took to remove the vision and
+        audio encoders and replace them with something much faster. The result,
+        a 12B model that can handle audio and image inputs but without the need
+        for encoders.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://developers.google.com/edge/litert-lm/python">
+        LiteRT-LM Python API </a>
+        </h2>
+        <section class="p-summary">
+        The Python API of LiteRT-LM for Linux, macOS and Windows. Features like
+        multi-modality, tools use, and GPU and NPU acceleration are supported.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://github.com/google-ai-edge/LiteRT-LM/tree/main">
+        LiteRT-LM </a>
+        </h2>
+        <section class="p-summary">
+        LiteRT-LM is Google’s production-ready, high-performance, open-source
+        inference framework for deploying Large Language Models on edge devices
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/google-ai-edge/gallery">
+        Google AI Edge Gallery </a>
+        </h2>
+        <section class="p-summary">
+        AI Edge Gallery is the premier destination for running the world’s most
+        powerful open-source Large Language Models (LLMs) on your mobile device.
+        Experience high-performance Generative AI directly on your
+        hardware—fully offline, private, and lightning-fast.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/">
+        Introducing Gemma 4 12B: a unified, encoder-free multimodal model </a>
+        </h2>
+        <section class="p-summary">
+        Today, we are introducing Gemma 4 12B, our latest model designed to
+        bring agentic multimodal intelligence directly to laptops. Bridging the
+        gap between our edge-friendly E4B and our more advanced 26B Mixture of
+        Experts (MoE), Gemma 4 12B packages powerful capabilities inside a
+        reduced memory footprint. It is also our first mid-sized model to
+        feature native audio inputs
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.solidstatebooksdc.com/"> Solid
+        State Book </a>
+        </h2>
+        <section class="p-summary">
+        Solid State Books is a full-service, Black-owned general interest
+        bookstore with a great selection of fiction &amp; non-fiction titles. We
+        stock literary gifts, stationery, greeting cards &amp; puzzles for all
+        ages. We have a carpeted, playful children’s books area in both stores
+        for kids &amp; parents alike to spread out &amp; read together. Come by
+        for weekly children’s story hours, catch monthly book groups, author
+        readings/signings, local interest panels, political conversations &amp;
+        more!
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/lucaong/minisearch">
+        minisearch </a>
+        </h2>
+        <section class="p-summary">
+        MiniSearch is a tiny but powerful in-memory fulltext search engine
+        written in JavaScript. It is respectful of resources, and it can
+        comfortably run both in Node and in the browser.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://lawfaremedia.github.io/jan6-doj-archive/index.html">
+        Documents the Department of Justice tried to disappear. </a>
+        </h2>
+        <section class="p-summary">
+        In May 2026, the Justice Department began systematically removing
+        material from its web sites regarding the many indictments and
+        convictions related to the Jan. 6 attack on the U.S. Capitol. This
+        archive reconstructs the vast bulk of those thousands of deleted
+        records.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.lawfaremedia.org/article/the-justice-department-erases-history--lawfare-restores-it">
+        The Justice Department Erases History; Lawfare Restores It </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        Last week, the Justice Department began systematically removing material
+        from its web sites regarding the many indictments and convictions
+        related to the Jan. 6 attack on the U.S. Capitol.
+        </p>
+        <p>
+        The operation started without fanfare or formal announcement and
+        proceeded largely unnoticed. Until, that is, journalists such as the
+        Washington Post’s Meryl Kornfield took notice of certain press releases
+        and other materials that had conspicuously disappeared from
+        www.justice.gov.
+        </p>
+        <p>
+        “The Trump admin is quietly deleting info about the Capitol attack from
+        the DOJ website as it prepares to give funds to J6ers,” Kornfield
+        posted. “This week, DOJ deleted a press release about one man with an
+        ongoing child solicitation case who came to the Capitol with bear
+        spray.”
+        </p>
+        <p>
+        Then, with typical bombast, the Justice Department responded by taking
+        issue with one particular aspect of Kornfield’s characterization.
+        “Nothing ‘quiet’ about it,” the DOJ Rapid Response account replied. “We
+        are proud to reverse the DOJ’s weaponization under the Biden
+        administration. We will do everything in our power to make whole those
+        who were persecuted for political purposes. This includes stripping
+        DOJ’s website of partisan propaganda.”
+        </p>
+        <p>
+        We are not erasing history quietly, the Justice Department seemed to
+        suggest. We are erasing history loudly and proudly.
+        </p>
+        At Lawfare, we have restored the vast bulk of what was deleted. We have
+        also started to preemptively archive a raft of material that has not yet
+        been deleted but probably will be, given its thematic relationship to
+        the material that was 86ed.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.datacenterpolicy.com/"> Data
+        Center Policy Database </a>
+        </h2>
+        <section class="p-summary">
+        Data centers are the physical facilities that power cloud services, AI
+        systems, streaming, and nearly every digital platform people use each
+        day. As demand for artificial intelligence accelerates, data centers are
+        becoming major sources of electricity demand and local infrastructure
+        pressure, which means their growth affects energy systems, communities,
+        and long-term public planning.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.techpolicy.press/the-state-of-data-center-policy-in-the-united-states/">
+        The State of Data Center Policy in the United States </a>
+        </h2>
+        <section class="p-summary">
+        The regulatory landscape for data centers in the United States has
+        shifted dramatically in recent years from a period of aggressive
+        economic incentives to a phase of intense scrutiny, restriction, and
+        community-led resistance. To track these legislative changes, the DIGS
+        Lab at the University of Virginia reviewed more than 700 federal, state,
+        and local policies related to data centers. The data center policy
+        database aims to bring transparency around zoning, permitting, and
+        regulating data centers and their impacts on communities. This is what
+        we found.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://archive.org/details/REM_1981-11-07/">
+        R.E.M. Live - 1981-11-07 Viceroy Park, Charlotte, North Carolina </a>
+        </h2>
+        <section class="p-summary">
+        Another early R.E.M. set, from the same state but a different city as
+        the previous show. Pretty much the same library of songs, but this one’s
+        the superior show to get - it sounds slightly nicer and doesn’t have the
+        equipment failures of the previous show. There’s already a source on
+        here, but that’s a different master of the same recording.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/itsjunetime/tdf">
+        itsjunetime / tdf </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        A terminal-based PDF viewer.
+        </p>
+        Designed to be performant, very responsive, and work well with even very
+        large PDFs. Built with ratatui.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/ratatui/ratatui"> ratatui
+        </a>
+        </h2>
+        <section class="p-summary">
+        Ratatui (ˌræ.təˈtu.i) is a Rust crate for cooking up terminal user
+        interfaces (TUIs). It provides a simple and flexible way to create
+        text-based user interfaces in the terminal, which can be used for
+        command-line applications, dashboards, and other interactive console
+        programs.
+        </section>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://vimeo.com/5124602"> Sonny Rollins
+        with Paul Jeffrey </a>
+        </h2>
+        <section class="p-summary">
+        Emission “Who is” de la BBC 2 Producer / Director : Dick Fontaine
+        Produced by Allan King Associates Canada LTD. 1968
+        </section>
+        </article>]]>
+      </description>
+      <source:markdown>These are some things I’ve wandered across on the web this week.
+
+## 🔖 [Graph database-ball! Exploring the Game with the graph capabilities of\ LadybugDB, DuckDB and PostgreSQL](https://theconsensus.dev/p/2026/05/29/ladybug-duckdb-and-postgresql.html)
+
+This article presents a comparison of graph capabilities in three
+different databases: DuckDB (v1.4.4 with duckpgq), LadybugDB (0.16.1),
+and PostgreSQL (19devel). We will load a large volume of records
+(5,635,972 rows of baseball data covering people, parks, team records,
+and game play-by-plays) into each database, define the entities and
+relationships, and write a variety of queries that take full advantage
+of the graph structure.
+
+## 🔖 [Ambient Church](https://ambient.church/)
+
+Ambient Church transforms architecturally stunning spaces into immersive
+audio-visual environments. Our events feature pioneering artists
+presenting vibrant works in a context that elevates both the music and
+the space.
+
+Founded in Brooklyn in 2016, we facilitate collective peak experiences
+through the soundscapes of modern contemplative music. With an emphasis
+on education and environment, we seek to illuminate an underacknowledged
+lineage of sonic exploration.
+
+## 🔖 [Language models transmit behavioural traits through hidden signals in\ data](https://www.nature.com/articles/s41586-026-10319-8)
+
+Large language models (LLMs) are increasingly used to generate data to
+train improved models1,2,3, but it remains unclear what properties are
+transmitted in this model distillation4,5. Here we show that
+distillation can lead to subliminal learning—the transmission of
+behavioural traits through semantically unrelated data. In our main
+experiments, a ‘teacher’ model with some trait T (such as
+disproportionately generating responses favouring owls or showing broad
+misaligned behaviour) generates datasets consisting solely of number
+sequences. Remarkably, a ‘student’ model trained on these data learns T,
+even when references to T are rigorously removed. More realistically, we
+observe the same effect when the teacher generates math reasoning traces
+or code. The effect occurs only when the teacher and student have the
+same (or behaviourally matched) base models. To help explain this, we
+prove a theoretical result showing that subliminal learning arises in
+neural networks under broad conditions and demonstrate it in a simple
+multilayer perceptron (MLP) classifier. As artificial intelligence
+systems are increasingly trained on the outputs of one another, they may
+inherit properties not visible in the data. Safety evaluations may
+therefore need to examine not just behaviour, but the origins of models
+and training data and the processes used to create them.
+
+## 🔖 [The Archive in Art Art in the Archive](https://www.atassifoundation.com/features/the-archive-in-art-art-in-the-archive)
+
+In this essay we will attempt to look at both the archive of art as well
+as the archive as art. When we draw a distinction between those
+materials that we treat as documents with a ‘factual’ historical
+significance (those which offer themselves in the service of
+scholarship), and the uses which artists make of the archive as one of
+the media of expression that intersect with their documentary value, we
+ask ourselves: which theories about the archive’s nature and function
+are applicable to Syrian art? What are the roles adopted by ‘the
+document’ and ‘the archivist’? To what extent do these roles alternate
+and intersect?
+
+## 🔖 [Cave of Forgotten Dreams](https://en.wikipedia.org/wiki/Cave_of_Forgotten_Dreams)
+
+Cave of Forgotten Dreams is a 2010 3D documentary film by Werner Herzog
+about the Chauvet Cave in Southern France, which contains some of the
+oldest human-painted images yet discovered—some of them were crafted
+around 32,000 years ago. It consists of footage from inside the cave, as
+well as of the nearby Pont d’Arc natural bridge, alongside interviews
+with various scientists and historians. The film premiered on 13
+September 2010 at the Toronto International Film Festival.
+
+## 🔖 [5 Reasons I Wear A Mask (and you can too)](https://incorporealbard.online/5reasonsimask/)
+
+a short zine about masking &#38; disability justice
+
+## 🔖 [Starbucks ditches AI inventory system after just 9 months](https://finance.yahoo.com/sectors/technology/articles/starbucks-ditches-ai-inventory-system-085300571.html)
+
+Starbucks is saying goodbye to its artificial intelligence inventory
+management system about nine months after its debut, Reuters reported
+Thursday. The tool, which used computer vision to track some parts of
+the chain’s inventory, was announced in September as a method to
+simplify inventory record-keeping and prevent stockouts.
+
+## 🔖 [“Renaud &#38;\ Axelle Red” - Manhattan kaboul - (english subtitles)](https://youtu.be/Abyvb1jpS18)
+
+## 🔖 [FediRoster](https://fietkau.software/fediroster)
+
+FediRoster is a slightly more heavyweight alternative to David Adler’s
+Sociologists on Mastodon software. It is intended to function as a
+public list of Mastodon and other fediverse accounts, geared primarily
+towards academic communities, but suitable for others as well. It offers
+functions for following listed accounts individually or in bulk. The
+main novelty here is that you can add yourself to the list through an
+authentication process instead of all the work falling on a list
+maintainer. You can sign in through your Mastodon account or send a
+message to the list’s bot to verify your account ownership. This also
+means that the hosting process for new lists is a bit more involved
+(it’s a Python/WSGI application).
+
+## 🔖 [Rust for Python Programmers: Complete Training Guide](https://microsoft.github.io/RustTraining/python-book/)
+
+A comprehensive guide to learning Rust for developers with Python
+experience. This guide covers everything from basic syntax to advanced
+patterns, focusing on the conceptual shifts required when moving from a
+dynamically-typed, garbage-collected language to a statically-typed
+systems language with compile-time memory safety.
+
+## 🔖 [CS336: Language\ Modeling from Scratch](https://cs336.stanford.edu/)
+
+Language models serve as the cornerstone of modern natural language
+processing (NLP) applications and open up a new paradigm of having a
+single general purpose system address a range of downstream tasks. As
+the field of artificial intelligence (AI), machine learning (ML), and
+NLP continues to grow, possessing a deep understanding of language
+models becomes essential for scientists and engineers alike. This course
+is designed to provide students with a comprehensive understanding of
+language models by walking them through the entire process of developing
+their own. Drawing inspiration from operating systems courses that
+create an entire operating system from scratch, we will lead students
+through every aspect of language model creation, including data
+collection and cleaning for pre-training, transformer model
+construction, model training, and evaluation before deployment.
+
+## 🔖 [wasteback-machine](https://github.com/overbrowsing/wasteback-machine)
+
+Wasteback Machine is a JavaScript library for analysing archived web
+pages, measuring their size and composition to enable retrospective,
+quantitative web research.
+
+## 🔖 [No, Artificial Intelligence Is Not Conscious](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=w2hbEf3JROTUmsXaSUzB4Wo7RZOfwNcjF39s3Z9SPkg)
+
+The primary difference between deepfake photos and LLM conversations is
+that the people who generate the former are deliberately trying to fool
+others, and many of the people who elicit the latter from LLMs have
+inadvertently fooled themselves.
+
+## 🔖 [A Visual Guide to Gemma 4 12B](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4-12b)
+
+The removal of the encoders, which are typically in charge of making
+sense of the multimodal inputs, places the burden of making sense of all
+outputs on the LLM. Although the model is encoder-free, all modalities
+are now unified within the LLM. Instead of the model having to wait for
+the encoders to finish processing the audio and image inputs, the LLM
+can get started earlier processing the input and generating output!
+
+In this guide, I want to showcase what it took to remove the vision and
+audio encoders and replace them with something much faster. The result,
+a 12B model that can handle audio and image inputs but without the need
+for encoders.
+
+## 🔖 [LiteRT-LM Python API](https://developers.google.com/edge/litert-lm/python)
+
+The Python API of LiteRT-LM for Linux, macOS and Windows. Features like
+multi-modality, tools use, and GPU and NPU acceleration are supported.
+
+## 🔖 [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM/tree/main)
+
+LiteRT-LM is Google’s production-ready, high-performance, open-source
+inference framework for deploying Large Language Models on edge devices
+
+## 🔖 [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery)
+
+AI Edge Gallery is the premier destination for running the world’s most
+powerful open-source Large Language Models (LLMs) on your mobile device.
+Experience high-performance Generative AI directly on your
+hardware—fully offline, private, and lightning-fast.
+
+## 🔖 [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+
+Today, we are introducing Gemma 4 12B, our latest model designed to
+bring agentic multimodal intelligence directly to laptops. Bridging the
+gap between our edge-friendly E4B and our more advanced 26B Mixture of
+Experts (MoE), Gemma 4 12B packages powerful capabilities inside a
+reduced memory footprint. It is also our first mid-sized model to
+feature native audio inputs
+
+## 🔖 [Solid\ State Book](https://www.solidstatebooksdc.com/)
+
+Solid State Books is a full-service, Black-owned general interest
+bookstore with a great selection of fiction &#38; non-fiction titles. We
+stock literary gifts, stationery, greeting cards &#38; puzzles for all
+ages. We have a carpeted, playful children’s books area in both stores
+for kids &#38; parents alike to spread out &#38; read together. Come by
+for weekly children’s story hours, catch monthly book groups, author
+readings/signings, local interest panels, political conversations &#38;
+more!
+
+## 🔖 [minisearch](https://github.com/lucaong/minisearch)
+
+MiniSearch is a tiny but powerful in-memory fulltext search engine
+written in JavaScript. It is respectful of resources, and it can
+comfortably run both in Node and in the browser.
+
+## 🔖 [Documents the Department of Justice tried to disappear.](https://lawfaremedia.github.io/jan6-doj-archive/index.html)
+
+In May 2026, the Justice Department began systematically removing
+material from its web sites regarding the many indictments and
+convictions related to the Jan. 6 attack on the U.S. Capitol. This
+archive reconstructs the vast bulk of those thousands of deleted
+records.
+
+## 🔖 [The Justice Department Erases History; Lawfare Restores It](https://www.lawfaremedia.org/article/the-justice-department-erases-history--lawfare-restores-it)
+
+Last week, the Justice Department began systematically removing material
+from its web sites regarding the many indictments and convictions
+related to the Jan. 6 attack on the U.S. Capitol.
+
+The operation started without fanfare or formal announcement and
+proceeded largely unnoticed. Until, that is, journalists such as the
+Washington Post’s Meryl Kornfield took notice of certain press releases
+and other materials that had conspicuously disappeared from
+www.justice.gov.
+
+“The Trump admin is quietly deleting info about the Capitol attack from
+the DOJ website as it prepares to give funds to J6ers,” Kornfield
+posted. “This week, DOJ deleted a press release about one man with an
+ongoing child solicitation case who came to the Capitol with bear
+spray.”
+
+Then, with typical bombast, the Justice Department responded by taking
+issue with one particular aspect of Kornfield’s characterization.
+“Nothing ‘quiet’ about it,” the DOJ Rapid Response account replied. “We
+are proud to reverse the DOJ’s weaponization under the Biden
+administration. We will do everything in our power to make whole those
+who were persecuted for political purposes. This includes stripping
+DOJ’s website of partisan propaganda.”
+
+We are not erasing history quietly, the Justice Department seemed to
+suggest. We are erasing history loudly and proudly.
+
+At Lawfare, we have restored the vast bulk of what was deleted. We have
+also started to preemptively archive a raft of material that has not yet
+been deleted but probably will be, given its thematic relationship to
+the material that was 86ed.
+
+## 🔖 [Data\ Center Policy Database](https://www.datacenterpolicy.com/)
+
+Data centers are the physical facilities that power cloud services, AI
+systems, streaming, and nearly every digital platform people use each
+day. As demand for artificial intelligence accelerates, data centers are
+becoming major sources of electricity demand and local infrastructure
+pressure, which means their growth affects energy systems, communities,
+and long-term public planning.
+
+## 🔖 [The State of Data Center Policy in the United States](https://www.techpolicy.press/the-state-of-data-center-policy-in-the-united-states/)
+
+The regulatory landscape for data centers in the United States has
+shifted dramatically in recent years from a period of aggressive
+economic incentives to a phase of intense scrutiny, restriction, and
+community-led resistance. To track these legislative changes, the DIGS
+Lab at the University of Virginia reviewed more than 700 federal, state,
+and local policies related to data centers. The data center policy
+database aims to bring transparency around zoning, permitting, and
+regulating data centers and their impacts on communities. This is what
+we found.
+
+## 🔖 [R.E.M. Live - 1981-11-07 Viceroy Park, Charlotte, North Carolina](https://archive.org/details/REM_1981-11-07/)
+
+Another early R.E.M. set, from the same state but a different city as
+the previous show. Pretty much the same library of songs, but this one’s
+the superior show to get - it sounds slightly nicer and doesn’t have the
+equipment failures of the previous show. There’s already a source on
+here, but that’s a different master of the same recording.
+
+## 🔖 [itsjunetime / tdf](https://github.com/itsjunetime/tdf)
+
+A terminal-based PDF viewer.
+
+Designed to be performant, very responsive, and work well with even very
+large PDFs. Built with ratatui.
+
+## 🔖 [ratatui](https://github.com/ratatui/ratatui)
+
+Ratatui (ˌræ.təˈtu.i) is a Rust crate for cooking up terminal user
+interfaces (TUIs). It provides a simple and flexible way to create
+text-based user interfaces in the terminal, which can be used for
+command-line applications, dashboards, and other interactive console
+programs.
+
+## 🔖 [Sonny Rollins\ with Paul Jeffrey](https://vimeo.com/5124602)
+
+Emission “Who is” de la BBC 2 Producer / Director : Dick Fontaine
+Produced by Allan King Associates Canada LTD. 1968</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/06/07/bookmarks/</guid>
+    </item>    <item>
+      <title>Stutterday</title>
+      <link>https://doc.searls.com/2026/06/06/stutterday/</link>
+      <description>
+        <![CDATA[Still a wonder to watch Just took in this Starlink launch from Vandenberg. Got a lot of pix. These things are common now, but I&#8217;m still a big kid, and space stuff excites me. I also seem to be here when launches aren&#8217;t happening, so it was great to catch this one. What you see [&#8230;]]]>
+      </description>
+      <source:markdown>Still a wonder to watch Just took in this Starlink launch from Vandenberg. Got a lot of pix. These things are common now, but I’m still a big kid, and space stuff excites me. I also seem to be here when launches aren’t happening, so it was great to catch this one. What you see \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/06/06/stutterday/</guid>
+    </item>    <item>
+      <title>Copping My Style</title>
+      <link>https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</link>
+      <description>
+        <![CDATA[Can you legally protect an artistic style? Not currently, but an Adobe-backed bill, a seeming reaction to AI, is pitching the idea. Personally, I see a bunch of blurred lines.]]>
+      </description>
+      <source:markdown>Can you legally protect an artistic style? Not currently, but an Adobe-backed bill, a seeming reaction to AI, is pitching the idea. Personally, I see a bunch of blurred lines.</source:markdown>
+      <guid>cid://https://tedium.co/2026/06/06/adobe-creator-act-style-protection-commentary/</guid>
+    </item>    <item>
+      <title>Marlon Wayans Reveals Melissa Joan Hart Was Supposed To Play Anna Faris’ Role In ‘Scary Movie’</title>
+      <link>https://deadline.com/2026/06/melissa-joan-hart-scary-movie-anna-faris-wayans-brothers-1236942910/</link>
+      <description>
+        <![CDATA[Anna Faris&#8217; iconic role as Cindy in the horror parody feature film series Scary Movie almost went to another actress, revealed writer, producer and star Marlon Wayans. In a recent interview with Entertainment Tonight, Faris asked Marlon Wayans and Shawn Wayans if there was “ever a celebrity that desperately wanted to be in a Scary Movie, [&#8230;]]]>
+      </description>
+      <source:markdown>Anna Faris’ iconic role as Cindy in the horror parody feature film series Scary Movie almost went to another actress, revealed writer, producer and star Marlon Wayans. In a recent interview with Entertainment Tonight, Faris asked Marlon Wayans and Shawn Wayans if there was “ever a celebrity that desperately wanted to be in a Scary Movie, \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942910</guid>
+    </item>    <item>
+      <title>‘SNL’s James Austin Johnson On “Sustainable” Donald Trump Impression As ‘Playing POTUS’ Doc Premieres At Tribeca</title>
+      <link>https://deadline.com/2026/06/tribeca-festival-playing-potus-premier-james-austin-johnson-1236942887/</link>
+      <description>
+        <![CDATA[Saturday Night Live’s James Austin Johnson gave the Tribeca Festival a taste, and analysis, of his celebrated stream-of consciousness Donald Trump impression. He often wings it. “It wouldn&#8217;t feel like Trump if there wasn&#8217;t this queasy feeling in the audience of ‘what is he going to say?’ and so I have to improvise for the [&#8230;]]]>
+      </description>
+      <source:markdown>Saturday Night Live’s James Austin Johnson gave the Tribeca Festival a taste, and analysis, of his celebrated stream-of consciousness Donald Trump impression. He often wings it. “It wouldn’t feel like Trump if there wasn’t this queasy feeling in the audience of ‘what is he going to say?’ and so I have to improvise for the \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942887</guid>
+    </item>    <item>
+      <title>Benito Skinner Teases ‘Overcompensating’ Season 2 Has “A Maturity To It” &#38; “Feels More Queer” As Benny Ventures Out Of The Closet</title>
+      <link>https://deadline.com/2026/06/benito-skinner-teases-overcompensating-season-2-maturity-1236942890/</link>
+      <description>
+        <![CDATA[Benito Skinner is previewing the forthcoming second season of Prime Video&#8217;s Overcompensating. The semi-autobiographical dramedy — centering on his titular character, a closeted jock who becomes fast friends with outsider Carmen (Wally Baram) during their freshman year of college — &#8220;feels more queer&#8221; in Season 2, the writer-star teased, as Benny ventures further out of the [&#8230;]]]>
+      </description>
+      <source:markdown>Benito Skinner is previewing the forthcoming second season of Prime Video’s Overcompensating. The semi-autobiographical dramedy — centering on his titular character, a closeted jock who becomes fast friends with outsider Carmen (Wally Baram) during their freshman year of college — “feels more queer” in Season 2, the writer-star teased, as Benny ventures further out of the \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942890</guid>
+    </item>    <item>
+      <link>https://www.status.news/p/60-minutes-bari-weiss-amy-reisenbach-paramount</link>
+      <description>
+        <![CDATA[<p>Paramount’s Weiss Woes.</p>]]>
+      </description>
+      <source:markdown>Paramount’s Weiss Woes.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/06/3985/</guid>
+    </item>    <item>
+      <link>https://electrek.co/2026/06/06/when-public-charging-stations-arent-so-public-and-why-it-matters/</link>
+      <description>
+        <![CDATA[<p>When public charging stations aren&#39;t so public, and why it matters.</p>]]>
+      </description>
+      <source:markdown>When public charging stations aren&#39;t so public, and why it matters.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/06/3983/</guid>
+    </item>    <item>
+      <title>Charlie Puth Axes Florida Show Due To Illness: “I Am So Devastated To Do This”</title>
+      <link>https://deadline.com/2026/06/charlie-puth-cancels-florida-concert-show-tour-illness-1236942873/</link>
+      <description>
+        <![CDATA[Four-time Grammy-nominated musician Charlie Puth took to social media to announce the cancellation of his Saturday night show in Orlando, Fla. The latest stop on his Whatever&#8217;s Clever! World Tour, scheduled at the Addition Financial Arena, is being axed due to illness, he wrote on his Instagram Story earlier today. “I am so devastated to [&#8230;]]]>
+      </description>
+      <source:markdown>Four-time Grammy-nominated musician Charlie Puth took to social media to announce the cancellation of his Saturday night show in Orlando, Fla. The latest stop on his Whatever’s Clever! World Tour, scheduled at the Addition Financial Arena, is being axed due to illness, he wrote on his Instagram Story earlier today. “I am so devastated to \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942873</guid>
+    </item>    <item>
+      <title>Lara Croft’s New Voice Actor Discusses Reimagined ‘Tomb Raider: Legacy of Atlantis’, Hot Character Design &#38; Performance Capture: “We Are Very Much Back And Bigger, Bolder Than Ever” – Summer Game Fest 2026</title>
+      <link>https://deadline.com/2026/06/tomb-raider-legacy-of-atlantis-alix-wilton-regan-interview-1236942875/</link>
+      <description>
+        <![CDATA[A new adventure awaits everyone&#8217;s favorite female explorer. First announced at The Game Awards 2025, Tomb Raider: Legacy of Atlantis reimagines Lara Croft&#8217;s genre-defining 1996 debut for a new generation. The upcoming title follows the legendary adventurer as she battles dinosaurs, panthers and human enemies; navigates treacherous environments and races to uncover the secrets of [&#8230;]]]>
+      </description>
+      <source:markdown>A new adventure awaits everyone’s favorite female explorer. First announced at The Game Awards 2025, Tomb Raider: Legacy of Atlantis reimagines Lara Croft’s genre-defining 1996 debut for a new generation. The upcoming title follows the legendary adventurer as she battles dinosaurs, panthers and human enemies; navigates treacherous environments and races to uncover the secrets of \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942875</guid>
+    </item>    <item>
+      <title>Netflix Film Chief Dan Lin Says Streamer Has “Accepted” It Won’t Work With Directors Who Want Theatrical Releases</title>
+      <link>https://deadline.com/2026/06/netflix-films-theatrical-release-dan-lin-1236942864/</link>
+      <description>
+        <![CDATA[As Netflix Films chairman, Dan Lin said he wants the streamer to prioritize more mid-budget fare but avoid working with directors who hold steadfast to a theatrical opening. “There is a group of filmmakers who still want theatrical. Those are filmmakers that we’ve accepted we just won’t work with,” he told The New York Times [&#8230;]]]>
+      </description>
+      <source:markdown>As Netflix Films chairman, Dan Lin said he wants the streamer to prioritize more mid-budget fare but avoid working with directors who hold steadfast to a theatrical opening. “There is a group of filmmakers who still want theatrical. Those are filmmakers that we’ve accepted we just won’t work with,” he told The New York Times \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942864</guid>
+    </item>    <item>
+      <title>Week Two in 250 to 250</title>
+      <link>https://heathercoxrichardson.substack.com/p/week-two-in-250-to-250</link>
+      <description>
+        <![CDATA[This was the second week of videos from the 250 to 250 Project that we&#8217;re producing to honor the 250th anniversary of the Declaration of Independence.]]>
+      </description>
+      <source:markdown>This was the second week of videos from the 250 to 250 Project that we’re producing to honor the 250th anniversary of the Declaration of Independence.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/1094fbee-ef00-4f2a-b52f-8aa0820cd7b9_1920x1080.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/week-two-in-250-to-250</guid>
+    </item>    <item>
+      <title>Scott Pelley Gets Personal &#38; Kinda Poetic; Thanks Fans After ’60 Minutes’ Firing: “So Deeply Grateful”</title>
+      <link>https://deadline.com/2026/06/scott-pelley-60-minutes-firing-grateful-1236942839/</link>
+      <description>
+        <![CDATA[Fired 60 Minutes veteran Scott Pelley hasn&#8217;t quoted poet John Masefield in any of his scathing statements since embattled CBS News chief Bari Weiss and new newsmagazine EP Nick Bilton canned him for rejecting their regime earlier this week. However, the ex-Evening News anchor sure captured the spirit of the past British Poet Laureate&#8217;s famous [&#8230;]]]>
+      </description>
+      <source:markdown>Fired 60 Minutes veteran Scott Pelley hasn’t quoted poet John Masefield in any of his scathing statements since embattled CBS News chief Bari Weiss and new newsmagazine EP Nick Bilton canned him for rejecting their regime earlier this week. However, the ex-Evening News anchor sure captured the spirit of the past British Poet Laureate’s famous \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942839</guid>
+    </item>    <item>
+      <title>My Parents and D-Day</title>
+      <link>https://robertreich.substack.com/p/my-parents-and-d-day</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!H_V4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90dcff1d-00ee-4886-9c5d-fab9ce86b0f8_2048x1583.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/my-parents-and-d-day</guid>
+    </item>    <item>
+      <title>Margaret Cho, Lilly Wachowski Board Trans Comic Nina Nguyen’s Debut Special ‘Dreams’ As EPs, Presented By Cho</title>
+      <link>https://deadline.com/2026/06/margaret-cho-lilly-wachowski-nina-nguyen-special-dreams-ep-1236942670/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: Executive producers Margaret Cho and Lilly Wachowski have wrapped production on transgender comedian Nina Nguyen&#8217;s debut stand-up special. Directed by Nicole Blaine, Margaret Cho Presents Nina Nguyen: Dreams serves as part one-woman show, part stand-up special, aimed at advocating for trans youth, following Nguyen as she travels back in time to tell jokes for [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: Executive producers Margaret Cho and Lilly Wachowski have wrapped production on transgender comedian Nina Nguyen’s debut stand-up special. Directed by Nicole Blaine, Margaret Cho Presents Nina Nguyen: Dreams serves as part one-woman show, part stand-up special, aimed at advocating for trans youth, following Nguyen as she travels back in time to tell jokes for \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942670</guid>
+    </item>    <item>
+      <title>Patrick Godfrey Dies: ‘Ever After’ &#38; ‘Les Misérables’ Actor Was 93</title>
+      <link>https://deadline.com/2026/06/patrick-godfrey-dies-1236942828/</link>
+      <description>
+        <![CDATA[Patrick Godfrey, the actor known for roles in Ever After (1998) and Les Misérables (2012), has died. He was 93. The actor&#8217;s London-based agency Markham, Froggatt &#38; Irwin announced that Godfrey &#8220;died peacefully at home surrounded by his family&#8221; on Thursday. &#8220;It is with great sadness that we can confirm Patrick Godfrey passed away last [&#8230;]]]>
+      </description>
+      <source:markdown>Patrick Godfrey, the actor known for roles in Ever After (1998) and Les Misérables (2012), has died. He was 93. The actor’s London-based agency Markham, Froggatt &#38; Irwin announced that Godfrey “died peacefully at home surrounded by his family” on Thursday. “It is with great sadness that we can confirm Patrick Godfrey passed away last \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942828</guid>
+    </item>    <item>
+      <title>Meet Miyako’s Toph Beifong – Aang’s Earthbending Teacher In Season 2 Of Netflix’s Live-Action ‘Avatar: The Last Airbender’ Rocks New Featurette</title>
+      <link>https://deadline.com/2026/06/toph-beifong-live-action-avatar-last-airbender-netflix-1236942703/</link>
+      <description>
+        <![CDATA[Aang (Gordon Cormier) and his friends better watch out, because Toph (Miyako) is about to rock their world in Season 2. In a new behind-the-scenes featurette released by Netflix today, viewers can get a glimpse of the journey it took to create the live-action version of Toph Beifong, Aang’s crucial earth-bending teacher voiced by Michaela [&#8230;]]]>
+      </description>
+      <source:markdown>Aang (Gordon Cormier) and his friends better watch out, because Toph (Miyako) is about to rock their world in Season 2. In a new behind-the-scenes featurette released by Netflix today, viewers can get a glimpse of the journey it took to create the live-action version of Toph Beifong, Aang’s crucial earth-bending teacher voiced by Michaela \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942703</guid>
+    </item>    <item>
+      <link>https://nypost.com/2026/06/06/betting/knicks-now-overwhelming-title-favorites-after-shocking-start-to-nba-finals/</link>
+      <description>
+        <![CDATA[<p>Knicks now overwhelming title favorites after shocking start to NBA Finals.</p>]]>
+      </description>
+      <source:markdown>Knicks now overwhelming title favorites after shocking start to NBA Finals.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/06/3981/</guid>
+    </item>    <item>
+      <title>Pluralistic: Criticizing the everything machine (06 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/06/applied-counterescatology/</link>
+      <description>
+        <![CDATA[Today's links Criticizing the everything machine: It slices, it dices, it even makes paperclips! Hey look at this: Delights to delectate. Object permanence: Parliament v DRM; Colbert's commencement; Counterfeiting x luxury goods; Joule thief; Lean-back media. Upcoming appearances: Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Criticizing the everything machine (permalink) "Gish Gallop" is the debating term for an opponent who makes so many claims that "it's impossible to address them in the time available" (it's named for Creationist Duane Gish, who was notorious for this tactic): https://en.wikipedia.org/wiki/Gish_gallop I think about the Gish Gallop whenever I'm asked to comment on AI. Here's a recent example: last week, I had a pre-interview call with a radio producer who wanted me to come on a 13-minute segment to discusses "whether there's a problem with AI governance?" I asked what the show meant by that: was it whether regulation of AI in commercial or public sector decision-making needed more oversight? Was it that the siting and provisioning of data-centers needed more democratic accountability? Was it that workers deserved more of a say in AI's impact on labor markets? Was it that customers and/or audiences should be able to opt out of AI customer service and AI slop? Was it about whether we needed some kind of system to prevent "runaway AI," in the event that we teach so many words to the word-guessing program that it wakes up, becomes God, and turns us all into paperclips? "Oh," the producer said, "all of that." In 13 minutes. You see the problem, right? The AI industry has made so many claims about its past, present and future that it's almost impossible to have a reasonable critical conversation about it: https://bsky.app/profile/petermiles.eurosky.social/post/3mnffjqczjs2t Shortly after I did the radio show, a newspaper editor who'd heard my segment got in touch to ask me if I'd write an 800-word op-ed about the subject, and also, could I address claims that "AI is the next Industrial Revolution?" In 800 words: https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/ I keep finding myself on stages or panels where an AI-struck person says something like, "AI is the next industrial revolution. It will change everything we do. It will let anyone create important works of art. It will cure cancer. It will take us to space. It will solve the climate crisis." Or sometimes it's an AI critic, but that person's criticism is really more "criti-hype," which is when you accept tech industry hype claims at face value, and then criticize them rather than questioning them: https://peoples-things.ghost.io/youre-doing-it-wrong-notes-on-criticism-and-technology-hype/ AI criti-hype might ask what we'll do once AI takes all our jobs, or what we'll do when AI replaces the government or teachers or doctors, or what we'll do when AI can bypass our critical faculties and brainwash us or drive us all mad. What do you say to that? I usually start by talking about whether there's any economic basis for keeping the AI servers running. AI is &#8211; by far &#8211; the money-losingest venture in human history, and it's practically impossible to overstate just how bad the AI business is. Not only does AI have terrible unit economics, those unit economics are getting worse over time: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves AI's happiest customers cite cost-benefit calculations that depend on truly unimaginable subsidies from the AI companies, who are basically selling $100 bills for $5 apiece. It would be pretty amazing if you couldn't find people who'd extol the virtues of this arrangement. But when AI companies try to raise the price of those $100 bills to, say, $20 apiece, those ecstatic customers fly into a rage and start loudly proclaiming that AI is so inefficient that they will lose money on this arrangement: https://www.msn.com/en-us/money/markets/uber-ceo-says-other-execs-are-lying-about-ai-they-say-it-ll-be-fine-publicly-but-privately-admit-millions-of-jobs-are-gone/ar-AA1Z9QMv Now, it shouldn't fall to me, a card-carrying member of the Democratic Socialists of America, to point out that capitalist enterprises require profits to be sustainable. You can't keep a business afloat by selling $100 bills for $5, nor for $20. You can't even make a profit selling $100 bills for $100 apiece! For a company to succeed, it needs to take in more than it expends. AI is a money-furnace, and AI hustlers are clearly on the hunt for a way to force all of us to feed every dime we've got to it. Elon Musk's (now scuttled) gambit to make every pension saver in America bail out Grok (and Twitter, but at a mere $44b, the losses from Twitter are dwarfed by the titanic losses from Grok) was the most ambitious and shameless population-scale bag-holder scheme, but it's not the only one: https://www.reuters.com/business/finance/sp-global-keeps-fast-entry-proposal-unchanged-spacex-listing-looms-2026-06-04/ So before we ask about the capabilities AI will acquire in the future, we should at least give some consideration to the question of whether anyone will be willing to fund the development of those capabilities, and if so, where the money would come from? Likewise, before we ask whether AI can perform adequately in a job, we should at least consider the possibility that the company that sells that AI tool will be bankrupt in a year or two. When we fight about data-center buildout, we mostly talk about the (considerable) environmental downsides to them &#8211; but what about the question of what we will do with these data-centers after their owners go bankrupt, possibly even before they can be provisioned with electricity? How many laser-tag arenas do we actually need? This is just one example of the questions that you could spend days unpacking, which make many of the other questions about AI a little silly. Like, even if you think there are limitless returns to scale for creating new AI capabilities, which means that if we keep the money-furnace burning it's only a matter of time until it powers a cure for cancer and the end of the climate emergency, how much money do we need to shovel into the furnace before that happens, and where will it come from? There are plenty of cancer researchers who have promising approaches they haven't been able to pursue due to funding shortfalls. Unless there's some way to estimate how much money we have to give to AI companies before they cure cancer, we should at least consider the possibility that the true sum is "more money than exists now and that will ever exist." We should also consider that whatever benefits to cancer research that AI might deliver could come with a higher price-tag than the promising cancer research we're dropping because we can't find far more modest sums. Likewise, it may be that the amount of CO2 that AI will generate atmosphere before it "solves climate change" will render Earth permanently unfit for humans, consuming the only habitable planet capable of sustaining human life in the known universe. I mean, I suppose that's one way to "solve" climate change, but it's a pretty drastic solution. My next book (out later this month) is The Reverse Centaur's Guide to Life After AI. I wrote it because I was frustrated by other people demanding that I talk to them about AI, and then handing me 800 words or 13 minutes to address fifty nebulous, poorly supported claims about AI: https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ Shortly after writing it, I turned it into a lecture: https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington Now that I'm about to go out on the road with the book, I find myself frustrated anew by the need to try and pull together a compact way to address the broad, incoherent claims the industry uses to keep its bubble inflated and the money furnaces roaring. The series of essays I've developed here on Pluralistic are part of that effort: https://pluralistic.net/2026/05/27/unnecessariat/#rubbuts-stole-my-jerb But it occurred to me that this whole enterprise of making sense of AI needs to be framed in the context of the messiness of AI itself, and AI boosters' overwhelming, promiscuous and disjointed Gish Gallop. Hey look at this (permalink) What happens when your phone is confiscated at the airport https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists A Billionaire Explains Why American Business Now Feels like the Mafia https://www.thebignewsletter.com/p/a-billionaire-explains-why-american These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash. https://www.propublica.org/article/republicans-face-backlash-after-challenging-abortion-bans Debbie Downer https://prospect.org/2026/06/05/debbie-downer-wasserman-schultz-florida-house-races/ Mechanical Pencil https://mechanical-pencil.com/ Object permanence (permalink) #20yrsago UK Parliament report damns DRM, calls for limits https://web.archive.org/web/20060615115510/http://www.openrightsgroup.org/2006/06/05/launch-of-the-apig-report-on-drm/ #20yrsago Colbert’s Knox College commencement speech https://web.archive.org/web/20111228135413/http://departments.knox.edu/newsarchive/news_events/2006/x12547.html #15yrsago Counterfeiting can be good for luxury goods sales https://web.archive.org/web/20110602061646/http://www.slate.com/id/2294927/ #15yrsago HOWTO make a Joule Thief and get all the power you’ve paid for https://www.instructables.com/Make-a-Joule-Thief/ #15yrsago School suspends student for refusing to remove personal animation from YouTube, threatens other students for petitioning on his behalf https://web.archive.org/web/20110603041200/https://www.theglobeandmail.com/news/national/toronto/student-cites-freedom-of-speech-after-suspension-for-online-videos/article2043954/ #5yrsago Recommendation engines and "lean-back" media https://pluralistic.net/2021/06/05/lean-back/#lean-forward Upcoming appearances (permalink) Kansas City: Facing the Future (Woodneath Library Center), Jun 10 https://www.mymcpl.org/events/119655/facing-future-cory-doctorow LA: The Reverse Centaur's Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19 https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant Menlo Park: The Reverse Centaur's Guide to Life After AI with Angie Coiro (Kepler's), Jun 21 https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026 Toronto: TBA, Jun 23 NYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) Cory Doctorow's digital jail-break (DW In Focus) https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035 Why the Internet Got Worse and What to Do About It (Jim Rutt) (RIP) https://www.jimruttshow.com/cory-doctorow-3/ On Enshittification – and what can be done about it (Re:publica) https://www.youtube.com/watch?v=KhINQgPMVSI EFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu) https://archive.org/details/effecting-change-enshittification The “Enshittification” of Everything (Bioneers) https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/ Latest books (permalink) "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2026 "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. "The Reverse Centaur's Guide to AI," a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. "The Post-American Internet," a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
+      </description>
+      <source:markdown>Today&#39;s links Criticizing the everything machine: It slices, it dices, it even makes paperclips! Hey look at this: Delights to delectate. Object permanence: Parliament v DRM; Colbert&#39;s commencement; Counterfeiting x luxury goods; Joule thief; Lean-back media. Upcoming appearances: Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Criticizing the everything machine (permalink) &#34;Gish Gallop&#34; is the debating term for an opponent who makes so many claims that &#34;it&#39;s impossible to address them in the time available&#34; (it&#39;s named for Creationist Duane Gish, who was notorious for this tactic): https://en.wikipedia.org/wiki/Gish\_gallop I think about the Gish Gallop whenever I&#39;m asked to comment on AI. Here&#39;s a recent example: last week, I had a pre-interview call with a radio producer who wanted me to come on a 13-minute segment to discusses &#34;whether there&#39;s a problem with AI governance?&#34; I asked what the show meant by that: was it whether regulation of AI in commercial or public sector decision-making needed more oversight? Was it that the siting and provisioning of data-centers needed more democratic accountability? Was it that workers deserved more of a say in AI&#39;s impact on labor markets? Was it that customers and/or audiences should be able to opt out of AI customer service and AI slop? Was it about whether we needed some kind of system to prevent &#34;runaway AI,&#34; in the event that we teach so many words to the word-guessing program that it wakes up, becomes God, and turns us all into paperclips? &#34;Oh,&#34; the producer said, &#34;all of that.&#34; In 13 minutes. You see the problem, right? The AI industry has made so many claims about its past, present and future that it&#39;s almost impossible to have a reasonable critical conversation about it: https://bsky.app/profile/petermiles.eurosky.social/post/3mnffjqczjs2t Shortly after I did the radio show, a newspaper editor who&#39;d heard my segment got in touch to ask me if I&#39;d write an 800-word op-ed about the subject, and also, could I address claims that &#34;AI is the next Industrial Revolution?&#34; In 800 words: https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/ I keep finding myself on stages or panels where an AI-struck person says something like, &#34;AI is the next industrial revolution. It will change everything we do. It will let anyone create important works of art. It will cure cancer. It will take us to space. It will solve the climate crisis.&#34; Or sometimes it&#39;s an AI critic, but that person&#39;s criticism is really more &#34;criti-hype,&#34; which is when you accept tech industry hype claims at face value, and then criticize them rather than questioning them: https://peoples-things.ghost.io/youre-doing-it-wrong-notes-on-criticism-and-technology-hype/ AI criti-hype might ask what we&#39;ll do once AI takes all our jobs, or what we&#39;ll do when AI replaces the government or teachers or doctors, or what we&#39;ll do when AI can bypass our critical faculties and brainwash us or drive us all mad. What do you say to that? I usually start by talking about whether there&#39;s any economic basis for keeping the AI servers running. AI is – by far – the money-losingest venture in human history, and it&#39;s practically impossible to overstate just how bad the AI business is. Not only does AI have terrible unit economics, those unit economics are getting worse over time: https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves AI&#39;s happiest customers cite cost-benefit calculations that depend on truly unimaginable subsidies from the AI companies, who are basically selling $100 bills for $5 apiece. It would be pretty amazing if you couldn&#39;t find people who&#39;d extol the virtues of this arrangement. But when AI companies try to raise the price of those $100 bills to, say, $20 apiece, those ecstatic customers fly into a rage and start loudly proclaiming that AI is so inefficient that they will lose money on this arrangement: https://www.msn.com/en-us/money/markets/uber-ceo-says-other-execs-are-lying-about-ai-they-say-it-ll-be-fine-publicly-but-privately-admit-millions-of-jobs-are-gone/ar-AA1Z9QMv Now, it shouldn&#39;t fall to me, a card-carrying member of the Democratic Socialists of America, to point out that capitalist enterprises require profits to be sustainable. You can&#39;t keep a business afloat by selling $100 bills for $5, nor for $20. You can&#39;t even make a profit selling $100 bills for $100 apiece! For a company to succeed, it needs to take in more than it expends. AI is a money-furnace, and AI hustlers are clearly on the hunt for a way to force all of us to feed every dime we&#39;ve got to it. Elon Musk&#39;s (now scuttled) gambit to make every pension saver in America bail out Grok (and Twitter, but at a mere $44b, the losses from Twitter are dwarfed by the titanic losses from Grok) was the most ambitious and shameless population-scale bag-holder scheme, but it&#39;s not the only one: https://www.reuters.com/business/finance/sp-global-keeps-fast-entry-proposal-unchanged-spacex-listing-looms-2026-06-04/ So before we ask about the capabilities AI will acquire in the future, we should at least give some consideration to the question of whether anyone will be willing to fund the development of those capabilities, and if so, where the money would come from? Likewise, before we ask whether AI can perform adequately in a job, we should at least consider the possibility that the company that sells that AI tool will be bankrupt in a year or two. When we fight about data-center buildout, we mostly talk about the (considerable) environmental downsides to them – but what about the question of what we will do with these data-centers after their owners go bankrupt, possibly even before they can be provisioned with electricity? How many laser-tag arenas do we actually need? This is just one example of the questions that you could spend days unpacking, which make many of the other questions about AI a little silly. Like, even if you think there are limitless returns to scale for creating new AI capabilities, which means that if we keep the money-furnace burning it&#39;s only a matter of time until it powers a cure for cancer and the end of the climate emergency, how much money do we need to shovel into the furnace before that happens, and where will it come from? There are plenty of cancer researchers who have promising approaches they haven&#39;t been able to pursue due to funding shortfalls. Unless there&#39;s some way to estimate how much money we have to give to AI companies before they cure cancer, we should at least consider the possibility that the true sum is &#34;more money than exists now and that will ever exist.&#34; We should also consider that whatever benefits to cancer research that AI might deliver could come with a higher price-tag than the promising cancer research we&#39;re dropping because we can&#39;t find far more modest sums. Likewise, it may be that the amount of CO2 that AI will generate atmosphere before it &#34;solves climate change&#34; will render Earth permanently unfit for humans, consuming the only habitable planet capable of sustaining human life in the known universe. I mean, I suppose that&#39;s one way to &#34;solve&#34; climate change, but it&#39;s a pretty drastic solution. My next book (out later this month) is The Reverse Centaur&#39;s Guide to Life After AI. I wrote it because I was frustrated by other people demanding that I talk to them about AI, and then handing me 800 words or 13 minutes to address fifty nebulous, poorly supported claims about AI: https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ Shortly after writing it, I turned it into a lecture: https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington Now that I&#39;m about to go out on the road with the book, I find myself frustrated anew by the need to try and pull together a compact way to address the broad, incoherent claims the industry uses to keep its bubble inflated and the money furnaces roaring. The series of essays I&#39;ve developed here on Pluralistic are part of that effort: https://pluralistic.net/2026/05/27/unnecessariat/#rubbuts-stole-my-jerb But it occurred to me that this whole enterprise of making sense of AI needs to be framed in the context of the messiness of AI itself, and AI boosters&#39; overwhelming, promiscuous and disjointed Gish Gallop. Hey look at this (permalink) What happens when your phone is confiscated at the airport https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists A Billionaire Explains Why American Business Now Feels like the Mafia https://www.thebignewsletter.com/p/a-billionaire-explains-why-american These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash. https://www.propublica.org/article/republicans-face-backlash-after-challenging-abortion-bans Debbie Downer https://prospect.org/2026/06/05/debbie-downer-wasserman-schultz-florida-house-races/ Mechanical Pencil https://mechanical-pencil.com/ Object permanence (permalink) #20yrsago UK Parliament report damns DRM, calls for limits https://web.archive.org/web/20060615115510/http://www.openrightsgroup.org/2006/06/05/launch-of-the-apig-report-on-drm/ #20yrsago Colbert’s Knox College commencement speech https://web.archive.org/web/20111228135413/http://departments.knox.edu/newsarchive/news\_events/2006/x12547.html #15yrsago Counterfeiting can be good for luxury goods sales https://web.archive.org/web/20110602061646/http://www.slate.com/id/2294927/ #15yrsago HOWTO make a Joule Thief and get all the power you’ve paid for https://www.instructables.com/Make-a-Joule-Thief/ #15yrsago School suspends student for refusing to remove personal animation from YouTube, threatens other students for petitioning on his behalf https://web.archive.org/web/20110603041200/https://www.theglobeandmail.com/news/national/toronto/student-cites-freedom-of-speech-after-suspension-for-online-videos/article2043954/ #5yrsago Recommendation engines and &#34;lean-back&#34; media https://pluralistic.net/2021/06/05/lean-back/#lean-forward Upcoming appearances (permalink) Kansas City: Facing the Future (Woodneath Library Center), Jun 10 https://www.mymcpl.org/events/119655/facing-future-cory-doctorow LA: The Reverse Centaur&#39;s Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19 https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant Menlo Park: The Reverse Centaur&#39;s Guide to Life After AI with Angie Coiro (Kepler&#39;s), Jun 21 https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026 Toronto: TBA, Jun 23 NYC: The Reverse Centaur&#39;s Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur&#39;s Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur&#39;s Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) Cory Doctorow&#39;s digital jail-break (DW In Focus) https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035 Why the Internet Got Worse and What to Do About It (Jim Rutt) (RIP) https://www.jimruttshow.com/cory-doctorow-3/ On Enshittification – and what can be done about it (Re:publica) https://www.youtube.com/watch?v=KhINQgPMVSI EFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu) https://archive.org/details/effecting-change-enshittification The “Enshittification” of Everything (Bioneers) https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/ Latest books (permalink) &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2026 &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. &#34;The Reverse Centaur&#39;s Guide to AI,&#34; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &#34;The Post-American Internet,&#34; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
+      <guid>cid://https://pluralistic.net/?p=12885</guid>
+    </item>    <item>
+      <title>‘Ghostbusters’ Animated Netflix Series Reveals Title, Logo Art</title>
+      <link>https://deadline.com/2026/06/ghostbusters-animated-netflix-series-title-logo-art-1236942813/</link>
+      <description>
+        <![CDATA[Who you gonna call? Netflix and Sony Pictures Animation have revealed the official title and logo for their upcoming Ghostbusters series. Celebrating Ghostbusters Day on Saturday, marking the anniversary of the original 1984 film&#8217;s release, showrunners Ben Hibon and Elliott Kalan were joined by Ghost Corps executive producers Jason Reitman and Gil Kenan to announce [&#8230;]]]>
+      </description>
+      <source:markdown>Who you gonna call? Netflix and Sony Pictures Animation have revealed the official title and logo for their upcoming Ghostbusters series. Celebrating Ghostbusters Day on Saturday, marking the anniversary of the original 1984 film’s release, showrunners Ben Hibon and Elliott Kalan were joined by Ghost Corps executive producers Jason Reitman and Gil Kenan to announce \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942813</guid>
+    </item>    <item>
+      <title>Sean Penn “Got To Enjoy” Watching The Oscars While Skipping Ceremony: “Better For My Mental Health”</title>
+      <link>https://deadline.com/2026/06/sean-penn-enjoy-watching-oscars-skipping-ceremony-1236942796/</link>
+      <description>
+        <![CDATA[After skipping out on this year&#8217;s 98th Academy Awards, Sean Penn enjoyed watching the awards show on television for once. The 3x Oscar winner, who most recently won Best Supporting Actor for One Battle After Another, explained that the awards ceremony has &#8220;always represented social discomfort to me,&#8221; which is why he wasn&#8217;t present to [&#8230;]]]>
+      </description>
+      <source:markdown>After skipping out on this year’s 98th Academy Awards, Sean Penn enjoyed watching the awards show on television for once. The 3x Oscar winner, who most recently won Best Supporting Actor for One Battle After Another, explained that the awards ceremony has “always represented social discomfort to me,” which is why he wasn’t present to \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236942796</guid>
+    </item>    <item>
+      <title>Reality Check - Trump Has The Worst Jobs Record Since Hoover</title>
+      <link>https://www.hopiumchronicles.com/p/reality-check-trump-has-the-worst</link>
+      <description>
+        <![CDATA[Today, 230pm ET - The US Men's National Soccer Team plays Germany in their last warm up before the World Cup kicks off this week. Going to be a big match!]]>
+      </description>
+      <source:markdown>Today, 230pm ET - The US Men&#39;s National Soccer Team plays Germany in their last warm up before the World Cup kicks off this week. Going to be a big match!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!qPmg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23b7f7bb-3ae2-467d-8149-40eae723d2e3_972x747.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/reality-check-trump-has-the-worst</guid>
+    </item>    <item>
+      <title>AI’s Black Friday</title>
+      <link>https://garymarcus.substack.com/p/ais-black-friday</link>
+      <description>
+        <![CDATA[Some thoughts on what just happened]]>
+      </description>
+      <source:markdown>Some thoughts on what just happened</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0ylG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93baf047-35fb-4f9e-a433-dacdf2a26cdd_1313x812.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/ais-black-friday</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/06/06.html#a161350</link>
+      <description>
+        <![CDATA[<a href="https://www.sportsbroadcastjournal.com/walt-frazier-knick-rookie-in-67-two-time-nba-champ-28-year-radio-and-tv-voice-turns-75-today/">Walt Frazier</a>: "The regular season is where you make your name, but the postseason is where you make your fame."]]>
+      </description>
+      <source:markdown>[Walt Frazier](https://www.sportsbroadcastjournal.com/walt-frazier-knick-rookie-in-67-two-time-nba-champ-28-year-radio-and-tv-voice-turns-75-today/): &#34;The regular season is where you make your name, but the postseason is where you make your fame.&#34;</source:markdown>
+      <guid>cid://http://scripting.com/2026/06/06.html#a161350</guid>
+    </item>    <item>
+      <title>Endgame And Oscar Wilde</title>
+      <link>https://thebrowser.com/free/endgame-and-oscar-wilde/</link>
+      <description>
+        <![CDATA[Today, enjoy our audio and video picks]]>
+      </description>
+      <source:markdown>Today, enjoy our audio and video picks</source:markdown>
+      <guid>cid://6a230aaf6c977a00014659f4</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/06/06.html#a145439</link>
+      <description>
+        <![CDATA[The Knicks won again last night. They're now up 2-0, both games on the road. This has blown my sense of reality. This Knicks team bears no resemblance to what I think of as the Knicks. Hard to concentrate. Will Trump try to put his name of Madison Square Garden.]]>
+      </description>
+      <source:markdown>The Knicks won again last night. They&#39;re now up 2-0, both games on the road. This has blown my sense of reality. This Knicks team bears no resemblance to what I think of as the Knicks. Hard to concentrate. Will Trump try to put his name of Madison Square Garden.</source:markdown>
+      <guid>cid://http://scripting.com/2026/06/06.html#a145439</guid>
+    </item>    <item>
+      <link>https://european.social/</link>
+      <description>
+        <![CDATA[<p>The European Social Stack. They should add a bunch of other formats and protocols to their list. The idea of bridging all those silos is a dead-end because they don&#39;t agree what text is. We have to go back to the roots, the web itself, to build an open system.</p>]]>
+      </description>
+      <source:markdown>The European Social Stack. They should add a bunch of other formats and protocols to their list. The idea of bridging all those silos is a dead-end because they don&#39;t agree what text is. We have to go back to the roots, the web itself, to build an open system.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/06/3979/</guid>
     </item>    <item>
       <title>Comments on a Freaky Friday</title>
       <link>https://paulkrugman.substack.com/p/comments-on-a-freaky-friday</link>
@@ -4930,13 +5931,6 @@ I had no idea how unprepared I was until it was too late to back out. I had just
       <enclosure url="https://substackcdn.com/image/fetch/$s_!xvgG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48237009-c0e9-4102-8225-1b24ced5dcae_1456x1048.heic" length="0" type="image/jpeg" />
       <guid>cid://https://stevenhassan.substack.com/p/newsletter-how-cults-lure-us-in-love</guid>
     </item>    <item>
-      <link>https://om.co/2026/06/02/ai-models-are-having-their-iphone-moment-whats-next/</link>
-      <description>
-        <![CDATA[<p>AI models are having their iPhone moment. What’s Next?</p>]]>
-      </description>
-      <source:markdown>AI models are having their iPhone moment. What’s Next?</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/06/02/3929/</guid>
-    </item>    <item>
       <title>The Most Important Voters In 2026 Didn&#39;t Even Vote In 2024</title>
       <link>https://thinkbigpicture.substack.com/p/2024-nonvoters-trend-democratic-2026</link>
       <description>
@@ -5130,6 +6124,14 @@ shared with other filesystems.</source:markdown>
       <source:markdown>The problem with all these social networks is they don&#39;t work with each other, they can&#39;t even agree on what text is. So it&#39;s a farce to think any of them have any chance once there&#39;s a social network built on web standards.</source:markdown>
       <guid>cid://https://links.daveverse.org/2026/06/02/3925/</guid>
     </item>    <item>
+      <title>AI models are having their iPhone moment. What’s Next?</title>
+      <link>https://om.co/2026/06/02/ai-models-are-having-their-iphone-moment-whats-next/</link>
+      <description>
+        <![CDATA[Lately there has been a lot of talk of how the foundational models are quickly becoming like every other iPhone release. They are ho-hum, till the next one comes around. But it is not the right analogy. I have a more boring, and more accurate, analogy that will explain the growth so far, and how &#8230;]]>
+      </description>
+      <source:markdown>Lately there has been a lot of talk of how the foundational models are quickly becoming like every other iPhone release. They are ho-hum, till the next one comes around. But it is not the right analogy. I have a more boring, and more accurate, analogy that will explain the growth so far, and how …</source:markdown>
+      <guid>cid://https://om.co/?p=952290</guid>
+    </item>    <item>
       <link>https://www.vox.com/technology/489223/ai-work-jobs-productivity-agents-claude?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNDSkRhVm5ubEIiLCJwIjoiL3RlY2hub2xvZ3kvNDg5MjIzL2FpLXdvcmstam9icy1wcm9kdWN0aXZpdHktYWdlbnRzLWNsYXVkZSIsImV4cCI6MTc4MTAxNTIzOCwiaWF0IjoxNzc5ODA1NjM4fQ.wKca6Zpj6hUuo5jVQgBDaHzXtb5FSMX4tNNcqgqMQC4&#38;utm_medium=gift-link</link>
       <description>
         <![CDATA[<p>Does AI really make workers more productive?</p>]]>
@@ -5286,13 +6288,30 @@ La entrada [Undertone: el silencio es peor que la oscuridad](https://www.palomit
       <description>
         <![CDATA[<!-- insert ads is firing --><p>&#160; Last time I told you the AI industry is paying a tax it doesn’t have to pay — that a great deal of what we grandly call “AI” is really just looking things up, and we’ve chosen to do that looking-up on the most expensive silicon ever manufactured. A number of you wrote to say I was overstating it. Surely, you said, the people setting hundreds of billions of dollars on fire know something I don’t. So this week I won’t argue with you. I’ll let one of the largest companies in enterprise software argue with you instead — because it already has, in a research paper it published itself and seems to have hoped you wouldn’t read too closely. The company is Salesforce. [&#8230;]</p>
         The post <a href="https://www.cringely.com/2026/06/02/the-thirty-percent-confession/">The Thirty Percent Confession</a> first appeared on <a href="https://www.cringely.com">I, Cringely</a>. <br><br/>
-        <a href="https://www.cringely.com/donate/"><img src="https://www.cringely.com/wp-content/uploads/2014/08/Donate_Button1-e1408476140799.png" width="200" height="70" border="0"></a>]]>
+        <a href="https://www.cringely.com/donate/"><img src="https://www.cringely.com/wp-content/uploads/2014/08/Donate_Button1-e1408476140799.png" width="200" height="70" border="0"></a> <br><br/>
+        <br><br/>
+        
+        <a href="http://weblamb.com" target="_blank"><img src="https://www.cringely.com/wp-content/uploads/2016/02/WEBLAMB_LOGO_M2015-803x250-e1455933116421.png" width="149" height="36"></a> 
+        <br><span style="font-size: 10px">
+        
+        Digital Branding<br>
+        Web Design</br>
+        Marketing</br></span>
+        <br>]]>
       </description>
       <source:markdown>Last time I told you the AI industry is paying a tax it doesn’t have to pay — that a great deal of what we grandly call “AI” is really just looking things up, and we’ve chosen to do that looking-up on the most expensive silicon ever manufactured. A number of you wrote to say I was overstating it. Surely, you said, the people setting hundreds of billions of dollars on fire know something I don’t. So this week I won’t argue with you. I’ll let one of the largest companies in enterprise software argue with you instead — because it already has, in a research paper it published itself and seems to have hoped you wouldn’t read too closely. The company is Salesforce. \[…\]
 
 The post [The Thirty Percent Confession](https://www.cringely.com/2026/06/02/the-thirty-percent-confession/) first appeared on [I, Cringely](https://www.cringely.com).
 
-[![](https://www.cringely.com/wp-content/uploads/2014/08/Donate_Button1-e1408476140799.png)](https://www.cringely.com/donate/)</source:markdown>
+[![](https://www.cringely.com/wp-content/uploads/2014/08/Donate_Button1-e1408476140799.png)](https://www.cringely.com/donate/)
+
+[![](https://www.cringely.com/wp-content/uploads/2016/02/WEBLAMB_LOGO_M2015-803x250-e1455933116421.png)](http://weblamb.com)
+
+Digital Branding
+
+Web Design
+
+Marketing</source:markdown>
       <guid>cid://https://www.cringely.com/?p=15743</guid>
     </item>    <item>
       <title>Who Murdered &#34;60 Minutes&#34;?</title>
@@ -22754,316 +23773,6 @@ no train.</source:markdown>
       </description>
       <source:markdown>A burst of support; books about Apple. [Read here.](https://www.robinsloan.com/newsletters/season-of-change/)</source:markdown>
       <guid>cid://https://www.robinsloan.com/newsletters/season-of-change/</guid>
-    </item>    <item>
-      <title>i stopped looking for the weird problem</title>
-      <link>http://scripting.com/2026/05/16/223608.html?title=iStoppedLookingForTheWeirdProblem</link>
-      <description>
-        <![CDATA[<p>i'd wait till a fresh start tomorrow.</p>
-        <p>but then i realized claude has all the code, so i could just tell it my problem.</p>
-        <p>can you find it, i asked, realizing i had not given it info on what the problem is. </p>
-        <p>there's a very weird mistake in the code i wrote just now, and there was a lot of it, i said to claude.</p>
-        <p>can you find the problem. </p>
-        <p>had no idea what to expect.</p>
-        <p>no more than 3 seconds it said I got it!</p>
-        <p>it was a typo. <a href="https://imgs.scripting.com/2026/05/16/threeseconds.png">where</a> i meant to type x i had typed prefs.</p>
-        <p>juggling a lot of bits in my head, my brain skipped, i didn't notice.</p>
-        <p>i <i>would</i> have found it quickly in my next session. but now i can think of anything but that problem until then. </p>
-        <p>sometimes claude can be totally frustrating, but other times the power makes such a huge difference. </p>]]>
-      </description>
-      <source:markdown>i&#39;d wait till a fresh start tomorrow.
-
-but then i realized claude has all the code, so i could just tell it my problem.
-
-can you find it, i asked, realizing i had not given it info on what the problem is.
-
-there&#39;s a very weird mistake in the code i wrote just now, and there was a lot of it, i said to claude.
-
-can you find the problem.
-
-had no idea what to expect.
-
-no more than 3 seconds it said I got it!
-
-it was a typo. [where](https://imgs.scripting.com/2026/05/16/threeseconds.png) i meant to type x i had typed prefs.
-
-juggling a lot of bits in my head, my brain skipped, i didn&#39;t notice.
-
-i _would_ have found it quickly in my next session. but now i can think of anything but that problem until then.
-
-sometimes claude can be totally frustrating, but other times the power makes such a huge difference.</source:markdown>
-      <guid>cid://http://scripting.com/2026/05/16/223608.html</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/116586292592722129</link>
-      <description>
-        <![CDATA[<p>Tilapia is the only food with a negative flavour contribution.</p>]]>
-      </description>
-      <source:markdown>Tilapia is the only food with a negative flavour contribution.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/116586292592722129</guid>
-    </item>    <item>
-      <title>named globs with curl</title>
-      <link>https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/</link>
-      <description>
-        <![CDATA[One of the established power features of the curl command line tool is its support for &#8220;globbing&#8221;. It is a built-in way to specify ranges and sets in different ways and have curl iterate over them to simplify repeated transfers. For example, you can easily download three images from the same host without having to &#8230; <a href="https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/" class="more-link">Continue reading <span class="screen-reader-text">named globs with curl</span> <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>One of the established power features of the curl command line tool is its support for “globbing”. It is a built-in way to specify ranges and sets in different ways and have curl iterate over them to simplify repeated transfers. For example, you can easily download three images from the same host without having to … [Continue reading named globs with curl→](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)</source:markdown>
-      <guid>cid://https://daniel.haxx.se/blog/?p=29654</guid>
-    </item>    <item>
-      <title>★ AI Is Technology, Not a Product</title>
-      <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
-      <description>
-        <![CDATA[It’s not even a feature. It’s just technology.]]>
-      </description>
-      <source:markdown>It’s not even a feature. It’s just technology.</source:markdown>
-      <guid>cid://tag:daringfireball.net,2026://1.43022</guid>
-    </item>    <item>
-      <title>Women’s sun hats</title>
-      <link>https://tracydurnell.com/2026/05/16/womens-sun-hats/</link>
-      <description>
-        <![CDATA[I am in the market to not get skin cancer but I loathe wearing sunscreen so I want to try becoming a big hat and long sleeve shirt* lady this summer. It has occurred to me that owning more than one (1) sun hat may make this more likely. (My other one got ruined.) *(For [&#8230;]]]>
-      </description>
-      <source:markdown>I am in the market to not get skin cancer but I loathe wearing sunscreen so I want to try becoming a big hat and long sleeve shirt\* lady this summer. It has occurred to me that owning more than one (1) sun hat may make this more likely. (My other one got ruined.) \*(For \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=37255</guid>
-    </item>    <item>
-      <title>A quarter of a century of open educational technology</title>
-      <link>https://werd.io/a-quarter-of-a-century-of-open-educational-technology/</link>
-      <description>
-        <![CDATA[Every day for 25 years, Stephen Downes has written about edtech, informing an entire industry.]]>
-      </description>
-      <source:markdown>Every day for 25 years, Stephen Downes has written about edtech, informing an entire industry.</source:markdown>
-      <guid>cid://6a089b814154ba0001030ad3</guid>
-    </item>    <item>
-      <title>Democracy and the midterms after the VRA</title>
-      <link>https://www.gelliottmorris.com/p/democracy-and-the-midterms-after</link>
-      <description>
-        <![CDATA[Two links for you this weekend]]>
-      </description>
-      <source:markdown>Two links for you this weekend</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!DUdF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa096b87b-3d43-455e-b949-648c04efbf81_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/democracy-and-the-midterms-after</guid>
-    </item>    <item>
-      <title>Trump Is A Fool, A Coward, And A Traitor</title>
-      <link>https://www.hopiumchronicles.com/p/trump-is-a-fool-a-coward-and-a-traitor</link>
-      <description>
-        <![CDATA[Trump continues to bow to and appease global strongmen, doing enormous harm to America and freedom and democracy everywhere]]>
-      </description>
-      <source:markdown>Trump continues to bow to and appease global strongmen, doing enormous harm to America and freedom and democracy everywhere</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/b458a6d6-1105-4db8-842d-e2b1d9bb26ef_1000x750.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/trump-is-a-fool-a-coward-and-a-traitor</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/05/16.html#a150155</link>
-      <description>
-        <![CDATA[I <a href="https://source.scripting.com/#1778941955000">documented</a> the optional <i>source:inReplyTo</i> element for RSS 2.0.]]>
-      </description>
-      <source:markdown>I [documented](https://source.scripting.com/#1778941955000) the optional _source:inReplyTo_ element for RSS 2.0.</source:markdown>
-      <guid>cid://http://scripting.com/2026/05/16.html#a150155</guid>
-    </item>    <item>
-      <title>Kubrick And Skating</title>
-      <link>https://thebrowser.com/free/kubrick-and-skating/</link>
-      <description>
-        <![CDATA[Today, enjoy our audio and video picks]]>
-      </description>
-      <source:markdown>Today, enjoy our audio and video picks</source:markdown>
-      <guid>cid://6a0725e39122a90001271934</guid>
-    </item>    <item>
-      <link>https://www.aarp.org/health/healthy-living/25-foods-to-avoid-after-50/?cmp=EMC-DSM-NLC-OTH-WBLTR-2239402-2312101-10224022-NA-05162026-Webletter-MS1-NA-BTN-NA-MembersOnly&#38;encparam=w7FYjApvv3yEnaPCdM0pr/Sij36RUa0/14aOWsT9P6Y=</link>
-      <description>
-        <![CDATA[<p>25 Foods You Should Skip After Age 50.</p>]]>
-      </description>
-      <source:markdown>25 Foods You Should Skip After Age 50.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/05/16/3775/</guid>
-    </item>    <item>
-      <title>Michael Winterbottom’s Hemingway Adaptation ‘A Farewell To Arms’, Starring Tom Blyth, Heads To Cannes Market With Embankment &#38; Tribune Pictures</title>
-      <link>https://deadline.com/2026/05/tom-blyth-michael-winterbottom-hemingway-farewell-to-arms-1236907073/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: It&#8217;s been a few years since we heard about writer-director Michael Winterbottom&#8217;s A Farewell to Arms adaptation, but it now has fresh impetus with producer-financier Tribune Pictures and UK sales firm Embankment Films, which is bringing it to the Cannes market. Fremantle is among the original partners who are no longer aboard the film, [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: It’s been a few years since we heard about writer-director Michael Winterbottom’s A Farewell to Arms adaptation, but it now has fresh impetus with producer-financier Tribune Pictures and UK sales firm Embankment Films, which is bringing it to the Cannes market. Fremantle is among the original partners who are no longer aboard the film, \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236907073</guid>
-    </item>    <item>
-      <title>Dragoncatcher: The big button</title>
-      <link>https://www.robinsloan.com/lab/big-button/</link>
-      <description>
-        <![CDATA[<p>Marcin's battlestation. <a href="https://www.robinsloan.com/lab/big-button/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>Marcin&#39;s battlestation. [Read here.](https://www.robinsloan.com/lab/big-button/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/big-button/</guid>
-    </item>    <item>
-      <title>Guillaume Canet &#38; Marion Cotillard On The “Mutually Enriching” Experience Of Crafting Their Cannes Title ‘Karma’ Together</title>
-      <link>https://deadline.com/2026/05/guillaume-canet-marion-cotillard-karma-cannes-1236907075/</link>
-      <description>
-        <![CDATA[Guillaume Canet and Marion Cotillard happily reflected on what they described as the close and collaborative experience they underwent to develop their Cannes Competition title Karma this afternoon during a press conference.&#160; Canet directed the film from a screenplay he also wrote. But the veteran filmmaker told the press room that he began the project [&#8230;]]]>
-      </description>
-      <source:markdown>Guillaume Canet and Marion Cotillard happily reflected on what they described as the close and collaborative experience they underwent to develop their Cannes Competition title Karma this afternoon during a press conference.  Canet directed the film from a screenplay he also wrote. But the veteran filmmaker told the press room that he began the project \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236907075</guid>
-    </item>    <item>
-      <title>Aaron Eckhart Underway In Bulgaria On Action-Thriller ‘The Walk-In’; Wildbunch, Eagle, Vertical Among International Pre-Sales – Cannes Market</title>
-      <link>https://deadline.com/2026/05/aaron-eckhart-action-thriller-the-walk-in-shooting-bulgaria-1236907069/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: The Dark Knight and Olympus Has Fallen star Aaron Eckhart has begun principal photography in Bulgaria on action-thriller The Walk-In, which Film Bridge International is launching at the Cannes market. Roel Reiné, who directed Eckhart in 2024 action film Classified with Tim Roth and Abigail Breslin, is directing the movie, which is shooting on [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: The Dark Knight and Olympus Has Fallen star Aaron Eckhart has begun principal photography in Bulgaria on action-thriller The Walk-In, which Film Bridge International is launching at the Cannes market. Roel Reiné, who directed Eckhart in 2024 action film Classified with Tim Roth and Abigail Breslin, is directing the movie, which is shooting on \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236907069</guid>
-    </item>    <item>
-      <title>‘Michael’ Has Better Dance Moves Than ‘The Devil’ With $27M No. 1; ‘Obsession’ Lovely $14M &#38; ‘A-‘ CinemaScore – Early Saturday AM Box Office Update</title>
-      <link>https://deadline.com/2026/05/box-office-obsession-michael-devil-wears-prada-2-1236906122/</link>
-      <description>
-        <![CDATA[EARLY SATURDAY AM WRITETHRU after Friday Afternoon update: Lionsgate&#8217;s Michael is the hit that keeps on giving with an expected No. 1 in weekend four of $27M per industry estimates, -29%, after what&#8217;s looking like a $7M Friday at 3,560 theaters. Imax and PLF screens are giving the biopic some extra dance moves this weekend. [&#8230;]]]>
-      </description>
-      <source:markdown>EARLY SATURDAY AM WRITETHRU after Friday Afternoon update: Lionsgate’s Michael is the hit that keeps on giving with an expected No. 1 in weekend four of $27M per industry estimates, -29%, after what’s looking like a $7M Friday at 3,560 theaters. Imax and PLF screens are giving the biopic some extra dance moves this weekend. \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236906122</guid>
-    </item>    <item>
-      <title>G. Elliott Morris on Vibes and the Midterms</title>
-      <link>https://paulkrugman.substack.com/p/g-elliott-morris-on-vibes-and-the</link>
-      <description>
-        <![CDATA[The political scene after redistricting]]>
-      </description>
-      <source:markdown>The political scene after redistricting</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/197898437/318ce2c777c7162fbf465091539ac161.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/g-elliott-morris-on-vibes-and-the</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: May 11 – 15, 2026</title>
-      <link>https://lithub.com/lit-hub-weekly-may-11-15-2026/</link>
-      <description>
-        <![CDATA[“The waxing and waning fortunes of languages are inevitably historical and political questions, and these questions are likewise delirium-inducing if we sit with them honestly.” The benefits of being a polyglot (as a fiction writer). &#124; Lit Hub Craft Dear]]>
-      </description>
-      <source:markdown>“The waxing and waning fortunes of languages are inevitably historical and political questions, and these questions are likewise delirium-inducing if we sit with them honestly.” The benefits of being a polyglot (as a fiction writer). \| Lit Hub Craft Dear</source:markdown>
-      <guid>cid://https://lithub.com/?p=271592</guid>
-    </item>    <item>
-      <title>Josh Marshall on how US democracy can be saved</title>
-      <link>https://www.publicnotice.co/p/josh-marshall-interview-2026</link>
-      <description>
-        <![CDATA["You simply can&#8217;t do it with the filibuster and this Supreme Court in place."]]>
-      </description>
-      <source:markdown>&#34;You simply can’t do it with the filibuster and this Supreme Court in place.&#34;</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!M_cC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd58b9727-6fc6-4853-902e-1d4f935677b3_5616x3744.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.publicnotice.co/p/josh-marshall-interview-2026</guid>
-    </item>    <item>
-      <title>Ones to Watch: 10-Year-Old Rimu Kuwaki Proves To Be A Quick Study In Hirokazu Koreeda’s Cannes Competition Entry ‘Sheep In A Box’</title>
-      <link>https://deadline.com/2026/05/rimu-kuwaki-koreeda-interview-sheep-in-a-box-1236879972/</link>
-      <description>
-        <![CDATA[Japanese newcomer Rimu Kuwaki makes his debut as a savvy robot child surrogate in auteur Hirokazu Koreeda&#8216;s Sheep in the Box, premiering in Competition today at the Cannes Film Festival. Palme d&#8217;Or winner Koreeda is a regular in Cannes, largely returning to present films that deal with issues of life, death and parenting, both good [&#8230;]]]>
-      </description>
-      <source:markdown>Japanese newcomer Rimu Kuwaki makes his debut as a savvy robot child surrogate in auteur Hirokazu Koreeda‘s Sheep in the Box, premiering in Competition today at the Cannes Film Festival. Palme d’Or winner Koreeda is a regular in Cannes, largely returning to present films that deal with issues of life, death and parenting, both good \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236879972</guid>
-    </item>    <item>
-      <title>Pluralistic: Making sense of Trump&#39;s unscheduled sudden midair disassembly of the American empire (16 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/16/technopoly/</link>
-      <description>
-        <![CDATA[Today's links Making sense of Trump's unscheduled sudden midair disassembly of the American empire: Don't mistake "powerful" for "durable." Hey look at this: Delights to delectate. Object permanence: Copyrighted law; Viral videos v cops; Crooked banker v tiny bat; "Infested"; Can the means of computation be seized? Upcoming appearances: Berlin, Hay-on-Wye, London, LA, Menlo Park, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Making sense of Trump's unscheduled sudden midair disassembly of the American empire (permalink) For generations, the American empire was the most powerful force on earth, and so we tended to assume that it was the most durable force on earth &#8211; surely anything so powerful must also be eternal? But power and durability aren't the same thing, as Le Guin reminded us with her oft-quoted maxim that "We live in capitalism, its power seems inescapable — but then, so did the divine right of kings": https://www.ursulakleguin.com/nbf-medal Monarchs may be powerful, but that power is derived from a manifestly incorrect belief in special blood, a belief that requires monarchs to inbreed. At best, this produces heads of state who can't stop bleeding and also can't tell you if their blood is blue or red; at worst, it yields heads of state who can't speak intelligibly, much less produce another generation of royals: https://en.wikipedia.org/wiki/Charles_II_of_Spain Oligarchy also produces a sequence of progressively weirder and more terrible rulers who rely on a mix of lies, flattery, coercion and personal cult nonsense to hold their coalition together in the face of mounting evidence for the system's bankruptcy. Thus Reagan begat GW Bush, who begat Trump, whose potential successors are a kennel of the least-charismatic chud podcasters ever to curse an RSS feed. Trump's second term has resulted in a rapid, unscheduled, mid-air disassembly of the American empire. As Baldur Bjarnason writes, under Trump, America "first turned on their trading partners, then their allies in Europe, and then they delivered one of this century’s biggest economic and energy crises to their allies in Asia": https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/ The line comes from an excellent post entitled "The old world of tech is dying and the new cannot be born," about the impact of Trump's de-Americanization of the world on the US tech industry, and thus the world's relationship to tech more broadly. As Bjarnason writes, Trump's tech giants dominate the world because America dominates the world. It's not because the world likes American tech. As Bjarnason writes: They are, more often than not, about as popular and respected as tobacco or pharmaceutical companies – some of them and their products are polling in terms of public sentiment in ranges similar to child molesters or authoritarian immigration enforcement entities – and their CEOs are some of the more despised public figures in recent history. These very, very unpopular tech companies dominate because American trade policy insists that they must. They are allowed to violate local laws because stopping them from doing so would result in trade sanctions. It's true that US tech companies face fines abroad from time to time, but these are "the price list for inflicting societal suffering. Pick the one that suits your business model." US trading partners haven't really attempted to extinguish the unlawful conduct of US tech companies. All of that is up for grabs now, thanks to Trump's uncontrollable compulsion to repeatedly hormuz himself (and America) in the foot. But &#8211; as Bjarnason writes &#8211; this didn't start with Trump. As ever, Trump is as much an effect as a cause, and the most important cause of Trump is the conversion of America into a financial economy, which started under Reagan, but was only finalized by Obama, who let the Wall Street looters who destroyed the world economy walk away unscathed, even as they stole the homes of millions of Americans: https://web.archive.org/web/20170130083243/https://www.theguardian.com/commentisfree/2017/jan/16/how-barack-obama-paved-way-donald-trump-racism Financial economies "suck the air out of the rest of the economy and make it less competitive." Keeping billionaires in megayachts comes at the expense of "research, education, infrastructure, and healthcare." Countries that financialize lag behind countries where the economy is based on making things, not extracting or financing things. Generations of both imperial looting and domestic investment made America the richest country on earth. That wealth cushioned America's transition to oligarchy: for a while, the country could survive both "finance and billionaire parasites sucking its blood" and continue to invest in itself. But while you can double the wealth of a billionaire at the expense of a town or two, doubling the wealth of a centibillionaire requires the destruction of whole regions. As America looted itself into irrelevance, China &#8211; a very different kind of autocracy &#8211; invested in domestic capacity and domestic consumption. China's hardly a well-run place: like any autocracy, it functions according to the whims of extremely fallible officials, which produces real-estate bubbles and other crises of production (to say nothing of the demographic crisis of the One Child policy) and necessitates steadily increasing oppression, from online surveillance to concentration camps in Xinjiang. Bjarnason writes about how this Chinese/US world presents a "double bind" for the EU. Siding with the US is increasingly untenable: the EU exists in large part to promote its domestic industries, but the US is no longer content to leave these alone. As Bjarnason says, US economic policy is now, "whatever our oligarchs want to steal this month, they get." US tech has extended so many tendrils into so many sectors that it's not possible to defend any industrial sector without impinging on the "technopoly," where "the only ideas and thoughts that have social and cultural legitimacy are those that support, are supported by, and are mediated through technology." This means that continuing to work within the American system means a steady transfer of economic and political control of every aspect of your life to the US, a decaying empire ruled over by a mad king. Nevertheless, there is a strong, vestigial reflex to protect American tech in the EU, which leaves European power-brokers scrambling to come up with reasons that the EU should confine its tech regulation to empty symbolic gestures, while avoiding meaningful action at all costs: https://cerre.eu/wp-content/uploads/2026/02/CERRE_Horizontal-Interoperability-of-Social-Networking-Services.pdf But the American tech sector relies on the other sources of American power &#8211; the ones that Trump is so bent on destroying. Trump's de-dollarization of the world economy is pushing the world away from using American tech for payment processing and networking. The American empire created the form of the US tech sector. As Bjarnason writes, "without the weight of the US political empire behind it – if Airbnb or Uber had been local startups – much fewer countries in the world would have loosened their regulations and consumer protections to accommodate them to the point where they prospered as they did." Trump isn't the first US leader to make a strategic blunder (the US has lost every war it's fought since WWII, after all). But Trump's blunders are different in that they "deliberately signal the end [the US] empire." Hormuz and tariffs have driven people away from the US dollar, and everyone knows who to blame for the senseless deaths in the Gulf and the global privation caused by oil rationing. That's bad news for a software industry that "shifted its entire value proposition from 'we make tools that help you make or save money' to using political clout and the dollar hegemony to capture, control, and loot entire sectors of the various economies of the world. That strategy only works when you’re in charge." DOGE wiped out the health systems of the global south, and now Trump's trade negotiators are demanding that these countries promise to keep their hands off of US tech in exchange for reinstating a small trickle of the aid they lost. These countries are rejecting those demands: https://www.reuters.com/business/healthcare-pharmaceuticals/zambia-says-us-health-deal-must-be-uncoupled-minerals-access-2026-05-04/ It's all up for grabs, in other words. The post-American internet is being born in a post-American world, and the shape of both is impossible to determine from this side of the veil. Bjarnason quotes Gramsci: "the old is dying and the new cannot be born." I hold out high hopes for a world of international digital public goods: free and open software that replaces America's extractive, defective black boxes with transparent, auditable, trustworthy alternatives that are under the control of the people who use them: https://pluralistic.net/2026/04/16/pascals-wager/#doomer-challenge But &#8211; as Bjarnason says &#8211; even the intellectual property framework that the free/open source movement relies on to make its licenses enforceable is an artifact of the collapsing American empire. If the global copyright system collapses with America, there won't be any impediments to reverse-engineering and improving the tech around us &#8211; but there also won't be any way to enforce the free software licenses that keep that software open: https://pluralistic.net/2026/04/02/limited-monopoly/#petardism The whole essay is very good and &#8211; like so many great essays &#8211; it raises more questions than it answers. It's also full of standout one-liners like this one: How do LLMs affect productivity and quality? (Much like leaded petrol. There’s some potential benefit for individual users with literally decades of expertise, provided nobody else uses LLMs. The results are catastrophic when everybody is using them.) Consider moving it to the top of your weekend reading. Hey look at this (permalink) Your Power Tools Got Worse On Purpose https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose The privilege of bad writers https://coreyrobin.com/2026/05/15/the-privilege-of-bad-writers/ AI as the new avatar of American capitalism https://www.bloodinthemachine.com/p/ai-as-the-new-avatar-of-american Cucked Internet Theory https://www.tikviewer.com/video/7639554103340698912 Bill to block publishers from killing online games advances in California https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/ Object permanence (permalink) #25yrsago Is the law copyrighted? https://web.archive.org/web/20010519134232/http://www.uniontrib.com/news/uniontrib/sun/news/news_1n13own.html #15yrsago Canadian copyright collective wants a music tax on memory cards https://web.archive.org/web/20110517205114/https://www.michaelgeist.ca/content/view/5798/125/ #10yrsago FBI Director: viral videos make cops afraid to do their jobs https://www.nytimes.com/2016/05/12/us/comey-ferguson-effect-police-videos-fbi.html?_r=2 #10yrsago Banker implicated in one of history’s biggest frauds says boss beat him with a tiny baseball bat https://web.archive.org/web/20160516173952/http://www.ibtimes.co.uk/barclays-banker-accused-rigging-libor-rate-hit-assistant-baseball-bat-1559792 #10yrsago Infested: an itchy, fascinating natural history of the bed bug https://memex.craphound.com/2016/05/14/infested-an-itchy-fascinating-natural-history-of-the-bed-bug/ #5yrsago A weapon of mass financial destruction https://pluralistic.net/2021/05/14/billionaire-class-solidarity/#club-deals #1yrago Are the means of computation even seizable? https://pluralistic.net/2025/05/14/pregnable/#checkm8 Upcoming appearances (permalink) Berlin: Re:publica, May 18-20 https://re-publica.com/de/news/rp26-sprecher-cory-doctorow Berlin: Enshittification at Otherland Books, May 18 https://www.otherland-berlin.de/de/event-details/cory-doctorow-in-der-friesenstrasse-23-kreuzberg-praesentiert-von-otherland.html Berlin: Enshittification at Otherland Books, May 19 https://www.otherland-berlin.de/de/event-details/cory-doctorow.html Hay-on-Wye: HowTheLightGetsIn, May 22-25 https://howthelightgetsin.org/festivals/hay/big-ideas-2 SXSW London, Jun 2 https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901 LA: The Reverse Centaur's Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19 https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant Menlo Park: The Reverse Centaur's Guide to Life After AI with Angie Coiro (Kepler's), Jun 21 https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026 NYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Recent appearances (permalink) EFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu) https://archive.org/details/effecting-change-enshittification The “Enshittification” of Everything (Bioneers) https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/ Enshittification (99% Invisible) https://99percentinvisible.org/episode/666-enshittification/ Artificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas) https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor When Do Platforms Stop Innovating and Start Extracting? (InnovEU) https://www.youtube.com/watch?v=cccDR0YaMt8 Latest books (permalink) "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2026 "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. "The Reverse Centaur's Guide to AI," a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. "The Post-American Internet," a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
-      </description>
-      <source:markdown>Today&#39;s links Making sense of Trump&#39;s unscheduled sudden midair disassembly of the American empire: Don&#39;t mistake &#34;powerful&#34; for &#34;durable.&#34; Hey look at this: Delights to delectate. Object permanence: Copyrighted law; Viral videos v cops; Crooked banker v tiny bat; &#34;Infested&#34;; Can the means of computation be seized? Upcoming appearances: Berlin, Hay-on-Wye, London, LA, Menlo Park, NYC, Edinburgh. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Making sense of Trump&#39;s unscheduled sudden midair disassembly of the American empire (permalink) For generations, the American empire was the most powerful force on earth, and so we tended to assume that it was the most durable force on earth – surely anything so powerful must also be eternal? But power and durability aren&#39;t the same thing, as Le Guin reminded us with her oft-quoted maxim that &#34;We live in capitalism, its power seems inescapable — but then, so did the divine right of kings&#34;: https://www.ursulakleguin.com/nbf-medal Monarchs may be powerful, but that power is derived from a manifestly incorrect belief in special blood, a belief that requires monarchs to inbreed. At best, this produces heads of state who can&#39;t stop bleeding and also can&#39;t tell you if their blood is blue or red; at worst, it yields heads of state who can&#39;t speak intelligibly, much less produce another generation of royals: https://en.wikipedia.org/wiki/Charles\_II\_of\_Spain Oligarchy also produces a sequence of progressively weirder and more terrible rulers who rely on a mix of lies, flattery, coercion and personal cult nonsense to hold their coalition together in the face of mounting evidence for the system&#39;s bankruptcy. Thus Reagan begat GW Bush, who begat Trump, whose potential successors are a kennel of the least-charismatic chud podcasters ever to curse an RSS feed. Trump&#39;s second term has resulted in a rapid, unscheduled, mid-air disassembly of the American empire. As Baldur Bjarnason writes, under Trump, America &#34;first turned on their trading partners, then their allies in Europe, and then they delivered one of this century’s biggest economic and energy crises to their allies in Asia&#34;: https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/ The line comes from an excellent post entitled &#34;The old world of tech is dying and the new cannot be born,&#34; about the impact of Trump&#39;s de-Americanization of the world on the US tech industry, and thus the world&#39;s relationship to tech more broadly. As Bjarnason writes, Trump&#39;s tech giants dominate the world because America dominates the world. It&#39;s not because the world likes American tech. As Bjarnason writes: They are, more often than not, about as popular and respected as tobacco or pharmaceutical companies – some of them and their products are polling in terms of public sentiment in ranges similar to child molesters or authoritarian immigration enforcement entities – and their CEOs are some of the more despised public figures in recent history. These very, very unpopular tech companies dominate because American trade policy insists that they must. They are allowed to violate local laws because stopping them from doing so would result in trade sanctions. It&#39;s true that US tech companies face fines abroad from time to time, but these are &#34;the price list for inflicting societal suffering. Pick the one that suits your business model.&#34; US trading partners haven&#39;t really attempted to extinguish the unlawful conduct of US tech companies. All of that is up for grabs now, thanks to Trump&#39;s uncontrollable compulsion to repeatedly hormuz himself (and America) in the foot. But – as Bjarnason writes – this didn&#39;t start with Trump. As ever, Trump is as much an effect as a cause, and the most important cause of Trump is the conversion of America into a financial economy, which started under Reagan, but was only finalized by Obama, who let the Wall Street looters who destroyed the world economy walk away unscathed, even as they stole the homes of millions of Americans: https://web.archive.org/web/20170130083243/https://www.theguardian.com/commentisfree/2017/jan/16/how-barack-obama-paved-way-donald-trump-racism Financial economies &#34;suck the air out of the rest of the economy and make it less competitive.&#34; Keeping billionaires in megayachts comes at the expense of &#34;research, education, infrastructure, and healthcare.&#34; Countries that financialize lag behind countries where the economy is based on making things, not extracting or financing things. Generations of both imperial looting and domestic investment made America the richest country on earth. That wealth cushioned America&#39;s transition to oligarchy: for a while, the country could survive both &#34;finance and billionaire parasites sucking its blood&#34; and continue to invest in itself. But while you can double the wealth of a billionaire at the expense of a town or two, doubling the wealth of a centibillionaire requires the destruction of whole regions. As America looted itself into irrelevance, China – a very different kind of autocracy – invested in domestic capacity and domestic consumption. China&#39;s hardly a well-run place: like any autocracy, it functions according to the whims of extremely fallible officials, which produces real-estate bubbles and other crises of production (to say nothing of the demographic crisis of the One Child policy) and necessitates steadily increasing oppression, from online surveillance to concentration camps in Xinjiang. Bjarnason writes about how this Chinese/US world presents a &#34;double bind&#34; for the EU. Siding with the US is increasingly untenable: the EU exists in large part to promote its domestic industries, but the US is no longer content to leave these alone. As Bjarnason says, US economic policy is now, &#34;whatever our oligarchs want to steal this month, they get.&#34; US tech has extended so many tendrils into so many sectors that it&#39;s not possible to defend any industrial sector without impinging on the &#34;technopoly,&#34; where &#34;the only ideas and thoughts that have social and cultural legitimacy are those that support, are supported by, and are mediated through technology.&#34; This means that continuing to work within the American system means a steady transfer of economic and political control of every aspect of your life to the US, a decaying empire ruled over by a mad king. Nevertheless, there is a strong, vestigial reflex to protect American tech in the EU, which leaves European power-brokers scrambling to come up with reasons that the EU should confine its tech regulation to empty symbolic gestures, while avoiding meaningful action at all costs: https://cerre.eu/wp-content/uploads/2026/02/CERRE\_Horizontal-Interoperability-of-Social-Networking-Services.pdf But the American tech sector relies on the other sources of American power – the ones that Trump is so bent on destroying. Trump&#39;s de-dollarization of the world economy is pushing the world away from using American tech for payment processing and networking. The American empire created the form of the US tech sector. As Bjarnason writes, &#34;without the weight of the US political empire behind it – if Airbnb or Uber had been local startups – much fewer countries in the world would have loosened their regulations and consumer protections to accommodate them to the point where they prospered as they did.&#34; Trump isn&#39;t the first US leader to make a strategic blunder (the US has lost every war it&#39;s fought since WWII, after all). But Trump&#39;s blunders are different in that they &#34;deliberately signal the end \[the US\] empire.&#34; Hormuz and tariffs have driven people away from the US dollar, and everyone knows who to blame for the senseless deaths in the Gulf and the global privation caused by oil rationing. That&#39;s bad news for a software industry that &#34;shifted its entire value proposition from &#39;we make tools that help you make or save money&#39; to using political clout and the dollar hegemony to capture, control, and loot entire sectors of the various economies of the world. That strategy only works when you’re in charge.&#34; DOGE wiped out the health systems of the global south, and now Trump&#39;s trade negotiators are demanding that these countries promise to keep their hands off of US tech in exchange for reinstating a small trickle of the aid they lost. These countries are rejecting those demands: https://www.reuters.com/business/healthcare-pharmaceuticals/zambia-says-us-health-deal-must-be-uncoupled-minerals-access-2026-05-04/ It&#39;s all up for grabs, in other words. The post-American internet is being born in a post-American world, and the shape of both is impossible to determine from this side of the veil. Bjarnason quotes Gramsci: &#34;the old is dying and the new cannot be born.&#34; I hold out high hopes for a world of international digital public goods: free and open software that replaces America&#39;s extractive, defective black boxes with transparent, auditable, trustworthy alternatives that are under the control of the people who use them: https://pluralistic.net/2026/04/16/pascals-wager/#doomer-challenge But – as Bjarnason says – even the intellectual property framework that the free/open source movement relies on to make its licenses enforceable is an artifact of the collapsing American empire. If the global copyright system collapses with America, there won&#39;t be any impediments to reverse-engineering and improving the tech around us – but there also won&#39;t be any way to enforce the free software licenses that keep that software open: https://pluralistic.net/2026/04/02/limited-monopoly/#petardism The whole essay is very good and – like so many great essays – it raises more questions than it answers. It&#39;s also full of standout one-liners like this one: How do LLMs affect productivity and quality? (Much like leaded petrol. There’s some potential benefit for individual users with literally decades of expertise, provided nobody else uses LLMs. The results are catastrophic when everybody is using them.) Consider moving it to the top of your weekend reading. Hey look at this (permalink) Your Power Tools Got Worse On Purpose https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose The privilege of bad writers https://coreyrobin.com/2026/05/15/the-privilege-of-bad-writers/ AI as the new avatar of American capitalism https://www.bloodinthemachine.com/p/ai-as-the-new-avatar-of-american Cucked Internet Theory https://www.tikviewer.com/video/7639554103340698912 Bill to block publishers from killing online games advances in California https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/ Object permanence (permalink) #25yrsago Is the law copyrighted? https://web.archive.org/web/20010519134232/http://www.uniontrib.com/news/uniontrib/sun/news/news\_1n13own.html #15yrsago Canadian copyright collective wants a music tax on memory cards https://web.archive.org/web/20110517205114/https://www.michaelgeist.ca/content/view/5798/125/ #10yrsago FBI Director: viral videos make cops afraid to do their jobs https://www.nytimes.com/2016/05/12/us/comey-ferguson-effect-police-videos-fbi.html?\_r=2 #10yrsago Banker implicated in one of history’s biggest frauds says boss beat him with a tiny baseball bat https://web.archive.org/web/20160516173952/http://www.ibtimes.co.uk/barclays-banker-accused-rigging-libor-rate-hit-assistant-baseball-bat-1559792 #10yrsago Infested: an itchy, fascinating natural history of the bed bug https://memex.craphound.com/2016/05/14/infested-an-itchy-fascinating-natural-history-of-the-bed-bug/ #5yrsago A weapon of mass financial destruction https://pluralistic.net/2021/05/14/billionaire-class-solidarity/#club-deals #1yrago Are the means of computation even seizable? https://pluralistic.net/2025/05/14/pregnable/#checkm8 Upcoming appearances (permalink) Berlin: Re:publica, May 18-20 https://re-publica.com/de/news/rp26-sprecher-cory-doctorow Berlin: Enshittification at Otherland Books, May 18 https://www.otherland-berlin.de/de/event-details/cory-doctorow-in-der-friesenstrasse-23-kreuzberg-praesentiert-von-otherland.html Berlin: Enshittification at Otherland Books, May 19 https://www.otherland-berlin.de/de/event-details/cory-doctorow.html Hay-on-Wye: HowTheLightGetsIn, May 22-25 https://howthelightgetsin.org/festivals/hay/big-ideas-2 SXSW London, Jun 2 https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901 LA: The Reverse Centaur&#39;s Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19 https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant Menlo Park: The Reverse Centaur&#39;s Guide to Life After AI with Angie Coiro (Kepler&#39;s), Jun 21 https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026 NYC: The Reverse Centaur&#39;s Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Recent appearances (permalink) EFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu) https://archive.org/details/effecting-change-enshittification The “Enshittification” of Everything (Bioneers) https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/ Enshittification (99% Invisible) https://99percentinvisible.org/episode/666-enshittification/ Artificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas) https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor When Do Platforms Stop Innovating and Start Extracting? (InnovEU) https://www.youtube.com/watch?v=cccDR0YaMt8 Latest books (permalink) &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2026 &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. &#34;The Reverse Centaur&#39;s Guide to AI,&#34; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &#34;The Post-American Internet,&#34; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
-      <guid>cid://https://pluralistic.net/?p=12821</guid>
-    </item>    <item>
-      <title>Bullsh*t in the China Shop | The Coffee Klatch for Saturday, May 16, 2026</title>
-      <link>https://robertreich.substack.com/p/bullsht-in-the-china-shop-the-coffee</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/197921355/e7df5d45364e49f5ed04027381190766.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/bullsht-in-the-china-shop-the-coffee</guid>
-    </item>    <item>
-      <title>The Beatles In Cannes: All The Times John, Paul, George And Ringo Had A Groovy Time At The Festival, But Never As The Fab Four…</title>
-      <link>https://deadline.com/2026/05/the-beatles-in-cannes-john-paul-george-and-ringo-1236879627/</link>
-      <description>
-        <![CDATA[Picture yourself in a boat on the Riviera… Most rock superstars have been seduced by the glamor of the Cannes Film Festival at some point in their career. The Rolling Stones went twice, first with Gimme Shelter in 1971 and then with Stones in Exile in 2010. The Who closed the festival in 1975 with [&#8230;]]]>
-      </description>
-      <source:markdown>Picture yourself in a boat on the Riviera… Most rock superstars have been seduced by the glamor of the Cannes Film Festival at some point in their career. The Rolling Stones went twice, first with Gimme Shelter in 1971 and then with Stones in Exile in 2010. The Who closed the festival in 1975 with \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236879627</guid>
-    </item>    <item>
-      <title>‘Once Upon A Time In Gaza’ Scoops Top Prize At 10th Critics’ Awards For Arab Films</title>
-      <link>https://deadline.com/2026/05/once-upon-gaza-scoops-top-prize-critics-awards-arab-films-1236907046/</link>
-      <description>
-        <![CDATA[Palestinian directors Tarzan and Arab Nasser’s Once Upon A Time In Gaza has scooped Best Film at the 10th Critics’ Awards For Arab Films. Set in Gaza in 2007, and following the misadventures of a student (Nader Abd Alhay) and restaurant owner and petty criminal (Majd Eid), the picture premiered in Un Certain Regard last [&#8230;]]]>
-      </description>
-      <source:markdown>Palestinian directors Tarzan and Arab Nasser’s Once Upon A Time In Gaza has scooped Best Film at the 10th Critics’ Awards For Arab Films. Set in Gaza in 2007, and following the misadventures of a student (Nader Abd Alhay) and restaurant owner and petty criminal (Majd Eid), the picture premiered in Un Certain Regard last \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236907046</guid>
-    </item>    <item>
-      <title>Tim Roth &#38; Timothy Spall Set For New York Crime-Thriller ‘Murdering Michael Malloy’ – Cannes Market</title>
-      <link>https://deadline.com/2026/05/tim-roth-timothy-spall-film-murdering-michael-malloy-1236906094/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Archstone Entertainment is launching world sales in Cannes on the crime-thriller Murdering Michael Malloy starring Oscar nominee Tim Roth (Pulp Fiction) and BAFTA and Cannes Best Actor winner Timothy Spall (Mr. Turner). From director Raymond De Felitta (City Island), the film is aiming to shoot third quarter 2026. Based on a true story, Roth [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Archstone Entertainment is launching world sales in Cannes on the crime-thriller Murdering Michael Malloy starring Oscar nominee Tim Roth (Pulp Fiction) and BAFTA and Cannes Best Actor winner Timothy Spall (Mr. Turner). From director Raymond De Felitta (City Island), the film is aiming to shoot third quarter 2026. Based on a true story, Roth \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236906094</guid>
-    </item>    <item>
-      <title>Sophie Okonedo Says Taking ‘Clarissa’ From Nigeria To Cannes Made Her Cry Tears Of Joy; Directors Arie and Chuko Esiri Are “Very Singular With Their Vision”</title>
-      <link>https://deadline.com/2026/05/sophie-okoneno-interview-directors-fortnight-1236879477/</link>
-      <description>
-        <![CDATA[Oscar nominated for Hotel Rwanda, Sophie Okonedo comes to Directors’ Fortnight with&#160;Clarissa, an adaptation of Virginia Woolf’s 1925 novel&#160;Mrs. Dalloway directed by Nigerian siblings Arie and Chuko Esiri. Okonedo stars as the title character — Clarissa is the heroine’s Christian name — and the story follows a day in the life of this society woman [&#8230;]]]>
-      </description>
-      <source:markdown>Oscar nominated for Hotel Rwanda, Sophie Okonedo comes to Directors’ Fortnight with Clarissa, an adaptation of Virginia Woolf’s 1925 novel Mrs. Dalloway directed by Nigerian siblings Arie and Chuko Esiri. Okonedo stars as the title character — Clarissa is the heroine’s Christian name — and the story follows a day in the life of this society woman \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236879477</guid>
-    </item>    <item>
-      <title>Arnaud Desplechin Talks Starry English-Language  Ensemble Drama ‘The Thing That Hurts’ About Clients Of Beloved Dead Psychoanalyst: “I Was Born To Make This Film” – Cannes Market</title>
-      <link>https://deadline.com/2026/05/arnaud-desplechin-ensemble-drama-thing-that-hurts-cannes-1236906590/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Cannes habitué Arnaud Desplechin is not at the festival this year but his upcoming English-language production The Thing That Hurts is making a big splash at the market with Gravel Lake Entertainment.&#160;Featuring Alfre Woodard,&#160;J.K.&#160;Simmons,&#160;Jason&#160;Schwartzman,&#160;André Holland, Noémie Merlant, Golshifteh Farahani, Teddie Allen, and Felicity Jones in the cast, the picture is Desplechin’s starriest yet. It [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Cannes habitué Arnaud Desplechin is not at the festival this year but his upcoming English-language production The Thing That Hurts is making a big splash at the market with Gravel Lake Entertainment. Featuring Alfre Woodard, J.K. Simmons, Jason Schwartzman, André Holland, Noémie Merlant, Golshifteh Farahani, Teddie Allen, and Felicity Jones in the cast, the picture is Desplechin’s starriest yet. It \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236906590</guid>
-    </item>    <item>
-      <title>Paolo Sorrentino Making Documentary About Legendary Soccer Coach Carlo Ancelotti</title>
-      <link>https://deadline.com/2026/05/paolo-sorrentino-carlo-ancelotti-documentary-1236887872/</link>
-      <description>
-        <![CDATA[Oscar-winning director Paolo Sorrentino is developing an intimate portrait of legendary Italian soccer coach Carlo Ancelotti, going behind the scenes of his five-decade career and culminating in the 2026 World Cup this summer as he coaches Brazil’s national team.&#160; Rumors around the untitled documentary have been circulating on Italian sports blogs for weeks but the [&#8230;]]]>
-      </description>
-      <source:markdown>Oscar-winning director Paolo Sorrentino is developing an intimate portrait of legendary Italian soccer coach Carlo Ancelotti, going behind the scenes of his five-decade career and culminating in the 2026 World Cup this summer as he coaches Brazil’s national team.  Rumors around the untitled documentary have been circulating on Italian sports blogs for weeks but the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236887872</guid>
-    </item>    <item>
-      <title>May 15, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/may-15-2026</link>
-      <description>
-        <![CDATA[President Donald J.]]>
-      </description>
-      <source:markdown>President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/may-15-2026</guid>
-    </item>    <item>
-      <title>‘Obsession’ Writer/Director Curry Barker On “Really Tragic Story” Within The Horror Film</title>
-      <link>https://deadline.com/2026/05/obsession-curry-barker-tragic-story-horror-film-1236907022/</link>
-      <description>
-        <![CDATA[As Curry Barker makes his directorial breakout with Obsession, he&#8217;s discussing the movie&#8217;s layered themes of consent and communication. The writer and director of the horror film recently discussed how the character of Nikki (Inde Naverrette) is depicted as both a villain and a victim after her best friend Bear (Michael Johnston) makes a wish [&#8230;]]]>
-      </description>
-      <source:markdown>As Curry Barker makes his directorial breakout with Obsession, he’s discussing the movie’s layered themes of consent and communication. The writer and director of the horror film recently discussed how the character of Nikki (Inde Naverrette) is depicted as both a villain and a victim after her best friend Bear (Michael Johnston) makes a wish \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236907022</guid>
-    </item>    <item>
-      <title>Weeknotes: May 9-15, 2026</title>
-      <link>https://tracydurnell.com/2026/05/15/weeknotes-may-9-15-2026/</link>
-      <description>
-        <![CDATA[Win of the week: took my bike off its stand and tuned it up, then biked to my doctor&#8217;s appointment &#8212; wowee biking is good exercise 🥵 also dropped off a return at the mall next door Looking forward to: picked myself up a cookie from the fancy grocery store that I&#8217;ve been jonesing for for [&#8230;]]]>
-      </description>
-      <source:markdown>Win of the week: took my bike off its stand and tuned it up, then biked to my doctor’s appointment — wowee biking is good exercise 🥵 also dropped off a return at the mall next door Looking forward to: picked myself up a cookie from the fancy grocery store that I’ve been jonesing for for \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=37116</guid>
-    </item>    <item>
-      <title>Notable links: May 15, 2026</title>
-      <link>https://werd.io/notable-links-may-15-2026/</link>
-      <description>
-        <![CDATA[What happens after the feed? And how can publishers remain independent?]]>
-      </description>
-      <source:markdown>What happens after the feed? And how can publishers remain independent?</source:markdown>
-      <guid>cid://6a07db544154ba00010306c3</guid>
-    </item>    <item>
-      <title>AI: AI Systems Are No Longer Just Models, and Runtime Verification Is Becoming the New Security Boundary</title>
-      <link>https://paolozaino.wordpress.com/2026/05/16/ai-ai-systems-are-no-longer-just-models-and-runtime-verification-is-becoming-the-new-security-boundary/</link>
-      <description>
-        <![CDATA[AI systems are increasingly being discussed as if the model were the system. That was never entirely true, but it is becoming dangerously misleading. Moreover, modern AI applications are not simply prompts sent to a model and responses returned to a user. They are pipelines, wrappers, agents, tools, APIs, third-party services, memory layers, orchestration logic, [&#8230;]]]>
-      </description>
-      <source:markdown>AI systems are increasingly being discussed as if the model were the system. That was never entirely true, but it is becoming dangerously misleading. Moreover, modern AI applications are not simply prompts sent to a model and responses returned to a user. They are pipelines, wrappers, agents, tools, APIs, third-party services, memory layers, orchestration logic, \[…\]</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=10127</guid>
-    </item>    <item>
-      <title>Friday Squid Blogging: Bigfin Squid</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html</link>
-      <description>
-        <![CDATA[<p><a href="https://www.sciencefocus.com/nature/bigfin-squid">Article</a> about the bigfin squid.</p>
-        <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
-        <p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>]]>
-      </description>
-      <source:markdown>[Article](https://www.sciencefocus.com/nature/bigfin-squid) about the bigfin squid.
-
-As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
-
-[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)</source:markdown>
-      <guid>cid://https://www.schneier.com/?p=72054</guid>
     </item>
   </channel>
 </rss>

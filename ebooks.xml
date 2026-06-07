@@ -4,7 +4,7 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>06 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>07 Jun 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -15,15 +15,50 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Wheel O&#39; Fortune by Louis Tracy</title>
-      <link>https://www.gutenberg.org/ebooks/8596</link>
+      <title>Phantastes: A Faerie Romance for Men and Women by George MacDonald</title>
+      <link>https://www.gutenberg.org/ebooks/325</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Phantastes: A Faerie Romance for Men and Women by George MacDonald</title>
-      <link>https://www.gutenberg.org/ebooks/325</link>
+      <title>Louisa May Alcott, the children&#39;s friend by Edna D. Cheney</title>
+      <link>https://www.gutenberg.org/ebooks/78818</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0051: De veertig dieven by Theo von Blankensee and Kurt Matull</title>
+      <link>https://www.gutenberg.org/ebooks/78819</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0348: De variété-ster by Theo von Blankensee and Felix  Hageman and Kurt Matull</title>
+      <link>https://www.gutenberg.org/ebooks/78820</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Medical ethics : by Thomas Percival</title>
+      <link>https://www.gutenberg.org/ebooks/78821</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Black ivory by Polan Banks</title>
+      <link>https://www.gutenberg.org/ebooks/78822</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Wheel O&#39; Fortune by Louis Tracy</title>
+      <link>https://www.gutenberg.org/ebooks/8596</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1288,41 +1323,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The coming of the Amazons : by Owen Johnson</title>
-      <link>https://www.gutenberg.org/ebooks/78687</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The contrast, Volume 1 (of 3) by Marquess of Constantine Henry Phipps Normanby</title>
-      <link>https://www.gutenberg.org/ebooks/78688</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The contrast, Volume 2 (of 3) by Marquess of Constantine Henry Phipps Normanby</title>
-      <link>https://www.gutenberg.org/ebooks/78689</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The contrast, Volume 3 (of 3) by Marquess of Constantine Henry Phipps Normanby</title>
-      <link>https://www.gutenberg.org/ebooks/78690</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Oikealla uralla : by Aapo Pärnänen</title>
-      <link>https://www.gutenberg.org/ebooks/78691</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
     </item>
   </channel>
 </rss>

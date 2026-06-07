@@ -4,10 +4,26 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>06 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>07 Jun 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Six Seven: We’re Not Pandering To Gen Alpha With These Coffee Recommendations</title>
+      <link>https://sprudge.com/six-seven-were-not-pandering-to-gen-alpha-with-these-coffee-recommendations-1046027.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1046027</guid>
+    </item>    <item>
+      <title>5 Healthy Meals Our Editors Make With Store-Bought Hummus</title>
+      <link>https://www.bonappetit.com/story/healthy-meals-our-editors-make-with-store-bought-humms</link>
+      <description>
+        <![CDATA[Like shortcut Caesar salad and a loaded veggie sandwich.]]>
+      </description>
+      <source:markdown>Like shortcut Caesar salad and a loaded veggie sandwich.</source:markdown>
+      <guid>cid://6a1707af7dc413cab7d50b53</guid>
+    </item>    <item>
       <title>The Coffee Beans from Your Favorite Breakfast Chains, Ranked</title>
       <link>https://www.tasteofhome.com/collection/best-breakfast-restaurant-coffee-beans/</link>
       <description>
@@ -2825,33 +2841,6 @@ The post [Spring Recipes](https://www.closetcooking.com/34-spring-recipes/) appe
       </description>
       <source:markdown>Salami, provolone, olives, pickled peppers—need we say more?</source:markdown>
       <guid>cid://6a061c061a4ffc3d53f113a5</guid>
-    </item>    <item>
-      <title>The $60 Ikea Cookware Set Deserves More Recognition</title>
-      <link>https://www.tasteofhome.com/article/ikea-cookware-set/</link>
-      <description>
-        <![CDATA[<p>The six-piece stainless steel Ikea cookware set is affordable, accessible and surprisingly well-performing. </p>
-        <p>The post <a href="https://www.tasteofhome.com/article/ikea-cookware-set/">The $60 Ikea Cookware Set Deserves More Recognition</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <source:markdown>The six-piece stainless steel Ikea cookware set is affordable, accessible and surprisingly well-performing.
-
-The post [The $60 Ikea Cookware Set Deserves More Recognition](https://www.tasteofhome.com/article/ikea-cookware-set/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?p=2245385</guid>
-    </item>    <item>
-      <title>Coffee Gear? Coffee Gear?! Coffee Gear!</title>
-      <link>https://sprudge.com/coffee-gear-coffee-gear-coffee-gear-994055.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=994055</guid>
-    </item>    <item>
-      <title>Chocolate Crunch Cake</title>
-      <link>https://www.tasteofhome.com/recipes/chocolate-crunch-cake/</link>
-      <description>
-        <![CDATA[Chocolate crunch cake is a viral treat that was made for chocolate lovers. Chocolate cake in itself is delicious, but adding even more chocolate and some crunch takes this dessert to a whole new level.]]>
-      </description>
-      <source:markdown>Chocolate crunch cake is a viral treat that was made for chocolate lovers. Chocolate cake in itself is delicious, but adding even more chocolate and some crunch takes this dessert to a whole new level.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2246476</guid>
     </item>
   </channel>
 </rss>
