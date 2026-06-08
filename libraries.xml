@@ -4,10 +4,78 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>07 Jun 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>08 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>2026 Designing Storage Architectures for Digital Collections</title>
+      <link>https://blogs.loc.gov/thesignal/2026/06/2026-designing-storage-architectures/</link>
+      <description>
+        <![CDATA[This post by Vincent Coltellino from the Library of Congress describes the 2026 Designing Storage Architectures for Digital Collections (DSA) meeting. The event is a venue for broad discussions of digital storage advancements, challenges, and solutions. On March 9-10, 2026, the Library hosted its 20th iteration of this collaborative (and now international) meeting.]]>
+      </description>
+      <source:markdown>This post by Vincent Coltellino from the Library of Congress describes the 2026 Designing Storage Architectures for Digital Collections (DSA) meeting. The event is a venue for broad discussions of digital storage advancements, challenges, and solutions. On March 9-10, 2026, the Library hosted its 20th iteration of this collaborative (and now international) meeting.</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=37557</guid>
+    </item>    <item>
+      <title>Why I Joined Ithaka S+R</title>
+      <link>https://sr.ithaka.org/blog/why-i-joined-ithaka-sr/</link>
+      <description>
+        <![CDATA[<p>I was in the room at the Frankfurt STM meeting in 2015 when my friend and now colleague Roger Schonfeld delivered a talk that changed how I understood the problem I thought I had been working on for most of my career. Roger mapped the researcher scholarly journal access experience in plain terms. Journals were [&#8230;]</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/why-i-joined-ithaka-sr/">Why I Joined Ithaka S+R</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>I was in the room at the Frankfurt STM meeting in 2015 when my friend and now colleague Roger Schonfeld delivered a talk that changed how I understood the problem I thought I had been working on for most of my career. Roger mapped the researcher scholarly journal access experience in plain terms. Journals were \[…\]
+
+The post [Why I Joined Ithaka S+R](https://sr.ithaka.org/blog/why-i-joined-ithaka-sr/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=325823</guid>
+    </item>    <item>
+      <title>Guest Post — Advancing Federated Identity in the Library Ecosystem</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/08/guest-post-advancing-federated-identity-in-the-library-ecosystem/</link>
+      <description>
+        <![CDATA[<p>Federated identity should be a natural fit for library access. So why isn’t it?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/08/guest-post-advancing-federated-identity-in-the-library-ecosystem/">Guest Post — Advancing Federated Identity in the Library Ecosystem</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Federated identity should be a natural fit for library access. So why isn’t it?
+
+The post [Guest Post — Advancing Federated Identity in the Library Ecosystem](https://scholarlykitchen.sspnet.org/2026/06/08/guest-post-advancing-federated-identity-in-the-library-ecosystem/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62038</guid>
+    </item>    <item>
+      <title>Collaboration with Knowledge Futures to build support for high-volume DOI registration</title>
+      <link>https://www.crossref.org/blog/collaboration-with-knowledge-futures-to-build-support-for-high-volume-doi-registration/</link>
+      <description>
+        <![CDATA[<p><em><em>Cross-posted from the <a href="https://www.knowledgefutures.org/updates/2026-04-crossref-collaboration/" target="_blank">Knowledge Futures</a> blog.</em></em></p>
+        <p>For many years, <a href="https://www.pubpub.org" target="_blank">PubPub</a> has made it possible for communities to assign DOIs to a range of outputs and component Pubs. Knowledge Futures and Crossref are building together to test the limits of what’s possible for high-volume, high-granularity DOI management. That means fast prototypes, real building, and learning through the process.</p>
+        <h3 id="what-this-looks-like">What this looks like</h3>
+        <p>We’re starting by building. The goal is to get working prototypes in front of real use cases as quickly as we can, and let the technical, UX, operational, and infrastructure questions get answered through that process. What does it take to register and manage DOIs at a level of volume and granularity that goes beyond what most existing tools support? We’ll find out by trying.</p>
+        <h3 id="a-broader-orientation-for-kf">A broader orientation for KF</h3>
+        <p>This is also an example of where Knowledge Futures is headed more generally. We’re taking what we’ve learned from building publishing infrastructure and applying it across different parts of the scholarly communication ecosystem. Not siloed within PubPub development, but open to building more broadly and collaborating across organizational lines.</p>
+        <p>We’ve spent close to a decade learning what it takes to build and maintain reliable infrastructure for knowledge communities. That experience doesn’t have to live inside one product. We think working this way puts us in a stronger position as stewards of the things we maintain, and it opens the door to more collaboration across the ecosystem.</p>
+        <h3 id="aligned-direction-with-crossref">Aligned direction with Crossref</h3>
+        <p>As Crossref adoption has skyrocketed, enabling DOIs for a vast range of research objects and organizations, they are looking to support these objects at scale and further upstream than traditional outputs. Alongside its <a href="https://www.crossref.org/community/special-programs/rcfs">fee remodelling effort</a> begun in 2023, Crossref is backing this work with a $258k investment, partnering with Knowledge Futures to explore new models for the future of open research infrastructure.</p>
+        <h3 id="get-involved">Get involved</h3>
+        <p>We’d love to hear your thoughts about high-volume, high-granularity DOIs. What’s your use case? What would it unlock for your community? Want to be involved in the design process? This collaboration with Crossref is just one piece of where we’re headed. If you’re curious about what we’re up to, or have something you’d like to share with us, <a href="mailto:help@pubpub.org">get in touch</a>. We’d love to tell you what we’re working on and hear what excites you too.</p>]]>
+      </description>
+      <source:markdown>_Cross-posted from the [Knowledge Futures](https://www.knowledgefutures.org/updates/2026-04-crossref-collaboration/) blog._
+
+For many years, [PubPub](https://www.pubpub.org) has made it possible for communities to assign DOIs to a range of outputs and component Pubs. Knowledge Futures and Crossref are building together to test the limits of what’s possible for high-volume, high-granularity DOI management. That means fast prototypes, real building, and learning through the process.
+
+### What this looks like
+
+We’re starting by building. The goal is to get working prototypes in front of real use cases as quickly as we can, and let the technical, UX, operational, and infrastructure questions get answered through that process. What does it take to register and manage DOIs at a level of volume and granularity that goes beyond what most existing tools support? We’ll find out by trying.
+
+### A broader orientation for KF
+
+This is also an example of where Knowledge Futures is headed more generally. We’re taking what we’ve learned from building publishing infrastructure and applying it across different parts of the scholarly communication ecosystem. Not siloed within PubPub development, but open to building more broadly and collaborating across organizational lines.
+
+We’ve spent close to a decade learning what it takes to build and maintain reliable infrastructure for knowledge communities. That experience doesn’t have to live inside one product. We think working this way puts us in a stronger position as stewards of the things we maintain, and it opens the door to more collaboration across the ecosystem.
+
+### Aligned direction with Crossref
+
+As Crossref adoption has skyrocketed, enabling DOIs for a vast range of research objects and organizations, they are looking to support these objects at scale and further upstream than traditional outputs. Alongside its [fee remodelling effort](https://www.crossref.org/community/special-programs/rcfs) begun in 2023, Crossref is backing this work with a $258k investment, partnering with Knowledge Futures to explore new models for the future of open research infrastructure.
+
+### Get involved
+
+We’d love to hear your thoughts about high-volume, high-granularity DOIs. What’s your use case? What would it unlock for your community? Want to be involved in the design process? This collaboration with Crossref is just one piece of where we’re headed. If you’re curious about what we’re up to, or have something you’d like to share with us, [get in touch](mailto:help@pubpub.org). We’d love to tell you what we’re working on and hear what excites you too.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/collaboration-with-knowledge-futures-to-build-support-for-high-volume-doi-registration/</guid>
+    </item>    <item>
       <title>Journal Article: “From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI Into a Strategic Learning Resource”</title>
       <link>https://www.infodocket.com/2026/06/06/journal-article-from-ai-anxiety-to-strategic-regulation-how-university-students-transform-generative-ai-into-a-strategic-learning-resource/</link>
       <description>
@@ -229,12 +297,7 @@ The post [Guest Post — Proposed Uniform Guidance Revisions Would Eliminate Jou
         10.5555/primarybook2 10.9876/alias1book2
         </code></pre><h3 id="what-will-happen-if-i-try-to-register-a-duplicate-doi-for-a-book-that-has-been-previously-registered-ie-the-process-that-would-have-previously-triggered-co-access-after-1-july-2026">What will happen if I try to register a duplicate DOI for a book that has been previously registered (i.e., the process that would have previously triggered co-access) after 1 July 2026?</h3>
         <p>Your deposit will return an error, letting you know co-access has been deprecated. The initial registration of a book will be processed free of errors (thus, the publisher with the rights to publish the book really should be the Crossref member determining and registering the book&rsquo;s DOI of record). Any registration of a duplicate DOI for that same book will result in a failed submission with an error highlighting the previously registered DOI.  </p>
-        <p>Have more questions that weren’t answered? We’re happy to help. Head over to our <a href="https://community.crossref.org/tag/co-access/261" target="_blank">community forum</a> to continue the conversation.</p>
-        <h3 id="references">References</h3>
-        <ol>
-        <li>Crossref (2023). Blog Publishing Process for Authors. Retrieved July 20, 2025, from <a href="https://crossref.org/_editors/blog-publishing-process-for-authors/" target="_blank">https://crossref.org/_editors/blog-publishing-process-for-authors/</a></li>
-        <li>Korzec, K. &amp; Tkaczyk, D. (2025). Meet six winners of the first ever Crossref Metadata Awards. Crossref. <a href="https://doi.org/10.64000/xh94q-w7335" target="_blank">https://doi.org/10.64000/xh94q-w7335</a></li>
-        </ol>]]>
+        <p>Have more questions that weren’t answered? We’re happy to help. Head over to our <a href="https://community.crossref.org/tag/co-access/261" target="_blank">community forum</a> to continue the conversation.</p>]]>
       </description>
       <source:markdown>Last September, [we announced](https://doi.org/10.64000/w6pw6-c7y02) we’d be deprecating co-access and encouraging its ~100 users to use our [multiple resolution service](https://www.crossref.org/documentation/register-maintain-records/creating-and-managing-dois/multiple-resolution/). We announced that **no new DOIs will be placed in co-access from 1st of July 2026** and that the ensuing 6 months should be spent cleaning up records already in co-access and moving them over to multiple resolution.
 
@@ -270,12 +333,7 @@ H:email=youremail@address.com;op=force_alias;delim=tab
 
 Your deposit will return an error, letting you know co-access has been deprecated. The initial registration of a book will be processed free of errors (thus, the publisher with the rights to publish the book really should be the Crossref member determining and registering the book’s DOI of record). Any registration of a duplicate DOI for that same book will result in a failed submission with an error highlighting the previously registered DOI.
 
-Have more questions that weren’t answered? We’re happy to help. Head over to our [community forum](https://community.crossref.org/tag/co-access/261) to continue the conversation.
-
-### References
-
-1. Crossref (2023). Blog Publishing Process for Authors. Retrieved July 20, 2025, from [https://crossref.org/\_editors/blog-publishing-process-for-authors/](https://crossref.org/_editors/blog-publishing-process-for-authors/)
-2. Korzec, K. &#38; Tkaczyk, D. (2025). Meet six winners of the first ever Crossref Metadata Awards. Crossref. [https://doi.org/10.64000/xh94q-w7335](https://doi.org/10.64000/xh94q-w7335)</source:markdown>
+Have more questions that weren’t answered? We’re happy to help. Head over to our [community forum](https://community.crossref.org/tag/co-access/261) to continue the conversation.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/co-access-deprecation-is-coming-are-you-ready/</guid>
     </item>    <item>
       <title>Working Together to Improve Access to Scholarly Content for People with Disabilities: Elsevier’s Library Connect Interview</title>

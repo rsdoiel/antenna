@@ -4,10 +4,96 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>07 Jun 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>08 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Peace in the wilderness by Marion Zimmer Bradley</title>
+      <link>https://www.gutenberg.org/ebooks/78807</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Religion of the Samurai by Kaiten Nukariya</title>
+      <link>https://www.gutenberg.org/ebooks/5173</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Captain Billy&#39;s Whiz Bang, Vol. 3, No. 32, April, 1922 : by Various</title>
+      <link>https://www.gutenberg.org/ebooks/78827</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The dynasty of Theodosius, or, eighty years&#39; struggle with the barbarians : by Thomas Hodgkin</title>
+      <link>https://www.gutenberg.org/ebooks/78826</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Girls together by Amy Ella Blanchard</title>
+      <link>https://www.gutenberg.org/ebooks/78824</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>One Thousand Questions in California Agriculture Answered by Edward J.  Wickson</title>
+      <link>https://www.gutenberg.org/ebooks/5152</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Autobiography and Letters of Orville Dewey, D.D. by Orville Dewey</title>
+      <link>https://www.gutenberg.org/ebooks/18956</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Greeta ja hänen Herransa : by Arvid Järnefelt</title>
+      <link>https://www.gutenberg.org/ebooks/78825</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Children&#39;s Internet Protection Act (CIPA) Ruling</title>
+      <link>https://www.gutenberg.org/ebooks/5180</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The French powder mystery : by Ellery Queen</title>
+      <link>https://www.gutenberg.org/ebooks/78823</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cora and The Doctor; or, Revelations of A Physician&#39;s Wife by Madeline Leslie</title>
+      <link>https://www.gutenberg.org/ebooks/35526</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hay Fever, by Noël Coward</title>
+      <link>https://standardebooks.org/ebooks/noel-coward/hay-fever</link>
+      <description>
+        <![CDATA[A well-to-do family cannot be civil to each other in front of their weekend guests.]]>
+      </description>
+      <source:markdown>A well-to-do family cannot be civil to each other in front of their weekend guests.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/noel-coward_hay-fever.epub?source=feed" length="436348" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/noel-coward/hay-fever</guid>
+    </item>    <item>
       <title>The Time Machine by H. G.  Wells</title>
       <link>https://www.gutenberg.org/ebooks/35</link>
       <description>
@@ -112,7 +198,7 @@
         <![CDATA[An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.]]>
       </description>
       <source:markdown>An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/interim/downloads/dorothy-m-richardson_interim.epub?source=feed" length="559918" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/interim/downloads/dorothy-m-richardson_interim.epub?source=feed" length="559930" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/dorothy-m-richardson/interim</guid>
     </item>    <item>
       <title>Frederick Chopin, as a Man and Musician — Volume 2 by Frederick Niecks</title>
@@ -222,13 +308,6 @@
     </item>    <item>
       <title>Being a Boy by Charles Dudley Warner</title>
       <link>https://www.gutenberg.org/ebooks/3127</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Peace in the wilderness by Marion Zimmer Bradley</title>
-      <link>https://www.gutenberg.org/ebooks/78807</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1284,41 +1363,6 @@
     </item>    <item>
       <title>Archways of life by Mercedes de Acosta</title>
       <link>https://www.gutenberg.org/ebooks/78702</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Grocers&#39; manual : by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/78692</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hungary and Democracy by Cecil J. C.  Street</title>
-      <link>https://www.gutenberg.org/ebooks/78696</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The humor of &#34;Bill&#34; Nye by Bill Nye</title>
-      <link>https://www.gutenberg.org/ebooks/78694</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Blind trails by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78695</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>An artist&#39;s life by Harry Harrison</title>
-      <link>https://www.gutenberg.org/ebooks/78693</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
