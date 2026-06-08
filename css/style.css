@@ -120,7 +120,6 @@ nav a, nav a:link, nav a:visited {
 nav a:active, nav a:focus, nav a:hover {
     font-weight: lighter;
     text-decoration: none;
-    text-transform: uppercase;
 }
 
 nav ul {
