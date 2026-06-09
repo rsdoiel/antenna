@@ -4,10 +4,40 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>08 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>09 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Queen of the jesters, and her strange adventures in old Paris by Max Pemberton</title>
+      <link>https://www.gutenberg.org/ebooks/78828</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The great Siberian railway : by Francis E.  Clark</title>
+      <link>https://www.gutenberg.org/ebooks/78829</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>On yacht etiquette : by Howard Patterson</title>
+      <link>https://www.gutenberg.org/ebooks/78830</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Way to God and How to Find It, by D. L. Moody</title>
+      <link>https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it</link>
+      <description>
+        <![CDATA[An evangelical preacher shares his theological framework.]]>
+      </description>
+      <source:markdown>An evangelical preacher shares his theological framework.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/d-l-moody_the-way-to-god-and-how-to-find-it.epub?source=feed" length="621287" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it</guid>
+    </item>    <item>
       <title>Peace in the wilderness by Marion Zimmer Bradley</title>
       <link>https://www.gutenberg.org/ebooks/78807</link>
       <description>
@@ -1268,101 +1298,6 @@
     </item>    <item>
       <title>Out of the depths : by Madeline Leslie</title>
       <link>https://www.gutenberg.org/ebooks/78705</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Bel Ami, by Guy de Maupassant</title>
-      <link>https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company</link>
-      <description>
-        <![CDATA[A former soldier seduces and manipulates women in order to rise through Parisian society.]]>
-      </description>
-      <source:markdown>A former soldier seduces and manipulates women in order to rise through Parisian society.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company/downloads/guy-de-maupassant_bel-ami_vizetelly-and-company.epub?source=feed" length="605345" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-and-company</guid>
-    </item>    <item>
-      <title>Bel Ami, by Guy de Maupassant</title>
-      <link>https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co</link>
-      <description>
-        <![CDATA[A former soldier seduces and manipulates women in order to rise through Parisian society.]]>
-      </description>
-      <source:markdown>A former soldier seduces and manipulates women in order to rise through Parisian society.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co/downloads/guy-de-maupassant_bel-ami_vizetelly-co.epub?source=feed" length="602383" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/guy-de-maupassant/bel-ami/vizetelly-co</guid>
-    </item>    <item>
-      <title>The two frontiers : by John Gould Fletcher</title>
-      <link>https://www.gutenberg.org/ebooks/78697</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The trail of the White Knight by Bruce Graeme</title>
-      <link>https://www.gutenberg.org/ebooks/78700</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ruhtinasöitä by Joseph Kessel</title>
-      <link>https://www.gutenberg.org/ebooks/78699</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe — Volume 2 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/2148</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Adventures of Huckleberry Finn by Mark Twain</title>
-      <link>https://www.gutenberg.org/ebooks/76</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Three Impostors; or, The Transmutations by Arthur Machen</title>
-      <link>https://www.gutenberg.org/ebooks/35517</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Wonderful Wizard of Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/43936</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The spark of Skeeter Bill by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78698</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Yhteiskunnan uhri : by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/78701</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Sketch of the Analytical Engine invented by Charles Babbage, Esq. by Luigi Federico Menabrea</title>
-      <link>https://www.gutenberg.org/ebooks/75107</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Archways of life by Mercedes de Acosta</title>
-      <link>https://www.gutenberg.org/ebooks/78702</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

@@ -4,10 +4,173 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>08 Jun 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>09 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Your DNA is changing all the time. Here’s why</title>
+      <link>https://www.npr.org/2026/06/09/nx-s1-5823864/gene-science-dna-cells-mutate</link>
+      <description>
+        <![CDATA[We tend to think of the DNA strands that contain our genetic code as consistent, stable units. But in reality, the cells that make up our bodies are constantly replicating and changing. Even as you read this sentence, in fact, the genes within your cells are mutating. So, what causes these mutations and what’s the impact? Science writer Roxanne Khamsi examines the answers in her new book, <a href="https://roxannekhamsi.com/beyond-inheritance/"target="_blank"   >Beyond Inheritance</a>. Today on the show, she gets into how scientists examine these mutations, how they’ve shifted our understanding of disease and what the future of genetic therapy could entail.<br/><br/><em>Interested in more </em><em>biological and life sciences?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>We tend to think of the DNA strands that contain our genetic code as consistent, stable units. But in reality, the cells that make up our bodies are constantly replicating and changing. Even as you read this sentence, in fact, the genes within your cells are mutating. So, what causes these mutations and what’s the impact? Science writer Roxanne Khamsi examines the answers in her new book, [Beyond Inheritance](https://roxannekhamsi.com/beyond-inheritance/). Today on the show, she gets into how scientists examine these mutations, how they’ve shifted our understanding of disease and what the future of genetic therapy could entail.
+
+_Interested in more_ _biological and life sciences?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d9e14ab3-2861-4c7f-9cf5-066ba2cf7151/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d9e14ab3-2861-4c7f-9cf5-066ba2cf7151&feed=F0qJcgXZ&t=podcast&e=nx-s1-5823864&p=510351&d=852&size=13634709" length="13634709" type="audio/mpeg" />
+      <guid>cid://28c45fd5-575b-4acc-8571-1e490745dce9</guid>
+    </item>    <item>
+      <title>San Francisco’s Metropolitan Mosaic</title>
+      <link>https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/</link>
+      <description>
+        <![CDATA[Urban development, green spaces, and maritime activity converge in this Northern California city.]]>
+      </description>
+      <source:markdown>Urban development, green spaces, and maritime activity converge in this Northern California city.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/</guid>
+    </item>    <item>
+      <title>How Did Stonehenge Get Its Altar Stone? New Research Adds to the Debate Between Human Effort and Glacier Transport</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-did-stonehenge-get-its-altar-stone-new-research-reveals-evidence-adding-to-the-debate-between-human-effort-and-glacier-transport-180988918/</link>
+      <description>
+        <![CDATA[Ice flow modeling and geological analyses suggest it's possible that glaciers carried the stone part of the way during the last Ice Age. However, scientists say that scenario is unlikely]]>
+      </description>
+      <source:markdown>Ice flow modeling and geological analyses suggest it&#39;s possible that glaciers carried the stone part of the way during the last Ice Age. However, scientists say that scenario is unlikely</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RyTiZI4G-xP1-dVuNGtW3N-5CC0=/420x240/filters:focal(640x427:641x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/b2/ddb2af6a-dac9-4760-9c3a-29d098d9e2d4/lossy-page1-1280px-tjdw_stonehenge_20111107tif.jpg" length="263397" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/how-did-stonehenge-get-its-altar-stone-new-research-reveals-evidence-adding-to-the-debate-between-human-effort-and-glacier-transport-180988918/</guid>
+    </item>    <item>
+      <title>GentleOS is a love letter to classic operating systems with a lovely retro GUI</title>
+      <link>https://www.osnews.com/story/145238/gentleos-is-a-love-letter-to-classic-operating-systems-with-a-lovely-retro-gui/</link>
+      <description>
+        <![CDATA[In today&#8217;s climate, I needed this: GentleOS, an operating system targeting both 386 (GentleOS/32) and even processors as old as the 80186 (GentleOS/16), with a lovely retro graphical user interface, usable on bare metal, and, of course, open source. Its goal is to provide a simple platform for tinkering with retro hardware and running graphical interactive apps on bare metal. At minimum, it only requires an i386 CPU, 4MB of RAM, and a VGA display capable of 640x480x16 mode. By design it&#8217;s entirely monolithic, mostly configured at compile time, and only supports standard PC devices: VGA/SVGA, keyboard, PS/2 mouse, serial mouse, PC speaker. The only future plans are bugfixes, optimizations, and adding more apps. GentleOS/32 has a pure 16-bit spin-off called GentleOS/16, which targets devices as old as 80186. ↫ GentleOS GitHub page While it can be run on real hardware, you can also run it in Qemu to make it easier to test and play around with. It looks great, and the stated goal of just focusing on maintenance and possibly additional applications is music to my heart. With everything that&#8217;s going on in technology today, this is an ice-cold glass of tonic in a scorching, data center-infested desert.]]>
+      </description>
+      <source:markdown>In today’s climate, I needed this: GentleOS, an operating system targeting both 386 (GentleOS/32) and even processors as old as the 80186 (GentleOS/16), with a lovely retro graphical user interface, usable on bare metal, and, of course, open source. Its goal is to provide a simple platform for tinkering with retro hardware and running graphical interactive apps on bare metal. At minimum, it only requires an i386 CPU, 4MB of RAM, and a VGA display capable of 640x480x16 mode. By design it’s entirely monolithic, mostly configured at compile time, and only supports standard PC devices: VGA/SVGA, keyboard, PS/2 mouse, serial mouse, PC speaker. The only future plans are bugfixes, optimizations, and adding more apps. GentleOS/32 has a pure 16-bit spin-off called GentleOS/16, which targets devices as old as 80186. ↫ GentleOS GitHub page While it can be run on real hardware, you can also run it in Qemu to make it easier to test and play around with. It looks great, and the stated goal of just focusing on maintenance and possibly additional applications is music to my heart. With everything that’s going on in technology today, this is an ice-cold glass of tonic in a scorching, data center-infested desert.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145238</guid>
+    </item>    <item>
+      <title>Trail Camera Photos Capture Rare Antelopes in a Kenya Forest Where Conservationists Once Feared They Had Vanished</title>
+      <link>https://www.smithsonianmag.com/smart-news/trail-camera-photos-capture-rare-antelopes-in-a-kenya-forest-where-conservationists-once-feared-they-had-vanished-180988904/</link>
+      <description>
+        <![CDATA[Fewer than 100 mountain bongos are thought to live in the wild, and the new discovery reveals a crucial habitat for the critically endangered creatures]]>
+      </description>
+      <source:markdown>Fewer than 100 mountain bongos are thought to live in the wild, and the new discovery reveals a crucial habitat for the critically endangered creatures</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0SXqWMobechoBE3hlb0vWKaSqn8=/420x240/filters:focal(2304x1306:2305x1307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0f/45/0f459a30-3435-436a-926e-363749b96b49/africas_rarest_antelopes_return_to_maasai_mau_confirmed_by_chester_zoo_and_mountain_bongo_pro.jpg" length="3194242" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/trail-camera-photos-capture-rare-antelopes-in-a-kenya-forest-where-conservationists-once-feared-they-had-vanished-180988904/</guid>
+    </item>    <item>
+      <title>These Italian Teenagers Stayed Overnight at Their School. They Found Ancient Roman Ruins Hidden in the Basement</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/</link>
+      <description>
+        <![CDATA[Students at a high school in Rome stumbled upon a well-preserved villa that dates to the mid-second century C.E. Eventually, archaeologists hope to open the sprawling space to the public]]>
+      </description>
+      <source:markdown>Students at a high school in Rome stumbled upon a well-preserved villa that dates to the mid-second century C.E. Eventually, archaeologists hope to open the sprawling space to the public</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Efskv-wAegsHuvkwcNj6dXkRy7c=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/27/fb27c648-c54c-45b1-80a6-37fa6e338efc/roman-villa.jpg" length="298433" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/</guid>
+    </item>    <item>
+      <title>In a First, NASA&#39;s Experimental X-59 Plane Flew Faster Than the Speed of Sound, Setting the Stage for &#39;Quiet&#39; Supersonic Aircraft</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-nasas-experimental-x-59-plane-flew-faster-than-the-speed-of-sound-setting-the-stage-for-quiet-supersonic-aircraft-180988916/</link>
+      <description>
+        <![CDATA[The United States banned supersonic flights over its land in 1973 due to their ear-splitting sonic booms. Experts are building a plane that should travel at those speeds but create only gentle thumps]]>
+      </description>
+      <source:markdown>The United States banned supersonic flights over its land in 1973 due to their ear-splitting sonic booms. Experts are building a plane that should travel at those speeds but create only gentle thumps</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/G_0kOIHLN9mOAi-Eo4tONqd4_zw=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/9d/e69d51de-9425-4a3f-9022-36b0fe8074ed/x59-first-supersonic-ata-01.webp" length="2855158" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-nasas-experimental-x-59-plane-flew-faster-than-the-speed-of-sound-setting-the-stage-for-quiet-supersonic-aircraft-180988916/</guid>
+    </item>    <item>
+      <title>Apple demos macOS 27, iOS 27; EU spared Apple’s Google-powered “AI” slop features</title>
+      <link>https://www.osnews.com/story/145236/apple-demos-macos-27-ios-27-eu-spared-apples-google-powered-ai-slop-features/</link>
+      <description>
+        <![CDATA[Apple&#8217;s developer conference started today, and as is tradition, this means it also announced coming updates to its operating systems lineup. macOS is probably one of the two major ones OSNews readers are interested in, so let&#8217;s start there: Much like Mac OS X Snow Leopard in 2009, Apple said it focused on improving macOS&#8217;s performance and dozens of underlying technologies this year. macOS Golden Gate has some Liquid Glass design changes. For example, apps now have a unified toolbar at the top, and the sidebar now expands to the edge of the window. A new slider on macOS 27 lets you customize the opacity of Liquid Glass. ↫ Joe Rossignol at MacRumors Effectively, a ton of &#8220;Liquid Glass&#8221; features touted only a year ago are being changed and fixed, which should make using Liquid Glass less of a frustrating affair. Of course, there&#8217;s a whole slew of new &#8220;AI&#8221; stuff built entirely on top of Google&#8217;s Gemini, but luckily for us Europeans, we won&#8217;t be getting those features because EU privacy and consumer protection regulations are too strict. Apple, one of the world&#8217;s most valuable companies, seemingly cannot create &#8220;AI&#8221; features that comply with some basic consumer protection legislation. As for the other major platform, that&#8217;s iOS of course. At WWDC 2026 in Cupertino, Apple announced iOS 27, the next mobile operating system for compatible iPhones. The update focuses on tweaking and improving last year&#8217;s iOS 26, particularly in areas like app launch time, Liquid Glass design, and more. It does not offer a lot of major new features or upgrades, as Apple focused on polishing the experience. However, there are some new upgrades, such as reworked parental controls, new Siri AI, better search, and performance improvements. ↫ Taras Buria at Neowin These new versions, as well as those of Apple&#8217;s other operating systems, will be available later this year.]]>
+      </description>
+      <source:markdown>Apple’s developer conference started today, and as is tradition, this means it also announced coming updates to its operating systems lineup. macOS is probably one of the two major ones OSNews readers are interested in, so let’s start there: Much like Mac OS X Snow Leopard in 2009, Apple said it focused on improving macOS’s performance and dozens of underlying technologies this year. macOS Golden Gate has some Liquid Glass design changes. For example, apps now have a unified toolbar at the top, and the sidebar now expands to the edge of the window. A new slider on macOS 27 lets you customize the opacity of Liquid Glass. ↫ Joe Rossignol at MacRumors Effectively, a ton of “Liquid Glass” features touted only a year ago are being changed and fixed, which should make using Liquid Glass less of a frustrating affair. Of course, there’s a whole slew of new “AI” stuff built entirely on top of Google’s Gemini, but luckily for us Europeans, we won’t be getting those features because EU privacy and consumer protection regulations are too strict. Apple, one of the world’s most valuable companies, seemingly cannot create “AI” features that comply with some basic consumer protection legislation. As for the other major platform, that’s iOS of course. At WWDC 2026 in Cupertino, Apple announced iOS 27, the next mobile operating system for compatible iPhones. The update focuses on tweaking and improving last year’s iOS 26, particularly in areas like app launch time, Liquid Glass design, and more. It does not offer a lot of major new features or upgrades, as Apple focused on polishing the experience. However, there are some new upgrades, such as reworked parental controls, new Siri AI, better search, and performance improvements. ↫ Taras Buria at Neowin These new versions, as well as those of Apple’s other operating systems, will be available later this year.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145236</guid>
+    </item>    <item>
+      <title>How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/</link>
+      <description>
+        <![CDATA[As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA will&#160;host an&#160;exhibit&#160;at FIFA Fan Festival™&#160;Houston where visitors can learn how research aboard the International Space Station benefits life on Earth&#160;and&#160;experience missions in low Earth orbit, the Moon,&#160;and&#160;beyond&#160;through the Artemis program.&#160; On June 11, as the FIFA World Cup begins, NASA’s exhibit [&#8230;]]]>
+      </description>
+      <source:markdown>As the FIFA World Cup approaches, NASA is bringing space science and engineering to soccer fans worldwide. From June 11 to July 19, 2026, NASA will host an exhibit at FIFA Fan Festival™ Houston where visitors can learn how research aboard the International Space Station benefits life on Earth and experience missions in low Earth orbit, the Moon, and beyond through the Artemis program.  On June 11, as the FIFA World Cup begins, NASA’s exhibit \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1003545</guid>
+    </item>    <item>
+      <title>Rediscovered Drawings John Lennon Helped Create for the Beatles Became One of Rock ’n’ Roll’s First Music Videos</title>
+      <link>https://www.smithsonianmag.com/smart-news/rediscovered-drawings-john-lennon-helped-create-for-the-beatles-became-one-of-rock-n-rolls-first-music-videos-180988915/</link>
+      <description>
+        <![CDATA[An English collector who acquired ten of the drawings at an auction loaned them to the Liverpool Beatles Museum for a temporary exhibition]]>
+      </description>
+      <source:markdown>An English collector who acquired ten of the drawings at an auction loaned them to the Liverpool Beatles Museum for a temporary exhibition</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tzmRshoM6gu-d94NonQgNqYFzzg=/420x240/filters:focal(514x421:515x422)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b3/60/b360c5e9-6af9-4f51-a86f-11e78f88c3c1/beatlesresizedforlede.jpg" length="153864" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/rediscovered-drawings-john-lennon-helped-create-for-the-beatles-became-one-of-rock-n-rolls-first-music-videos-180988915/</guid>
+    </item>    <item>
+      <title>Which Memes Deserve Digital Preservation? See the Online Videos the British Film Institute Selected for a New Archive</title>
+      <link>https://www.smithsonianmag.com/smart-news/which-memes-deserve-digital-preservation-see-the-online-videos-the-british-film-institute-selected-for-a-new-archive-180988912/</link>
+      <description>
+        <![CDATA[Viral videos, tutorials, vlogs and live-stream snippets produced across decades offer insight into modern culture and communication, archivists say. This material could be lost without intentional efforts to save it]]>
+      </description>
+      <source:markdown>Viral videos, tutorials, vlogs and live-stream snippets produced across decades offer insight into modern culture and communication, archivists say. This material could be lost without intentional efforts to save it</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GVvEIkIkmbhwvoOWugiqXZJEuvk=/420x240/filters:focal(612x448:613x449)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/49/cf/49cfd537-e726-4b60-a2f5-99e34658c83c/charlie-bit-my-finger-2007-biting-finger.jpg" length="66368" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/which-memes-deserve-digital-preservation-see-the-online-videos-the-british-film-institute-selected-for-a-new-archive-180988912/</guid>
+    </item>    <item>
+      <title>Xfce ported to Redox OS</title>
+      <link>https://www.osnews.com/story/145234/xfce-ported-to-redox-os/</link>
+      <description>
+        <![CDATA[Redox progressed another month, and that means a ton of improvements and new features to talk about. The biggest news this past month is that Xfce has been ported to Redox, which offers a better X11 experience than MATE currently does. There&#8217;s still some bugs but apparently is works quite well. The porting process for the COSMIC desktop environment also progressed, with COSMIC&#8217;s new Monitor application making its way to Redox. As part of Google Summer of Code, the EEVDF scheduler has been implemented in Redox, delivering better, more stable scheduling and overall system performance improvements. Also as part of GSoC inode caching has been implemented for RedoxFS, which improves file system performance. Of course, there&#8217;s a lot more here too, including the usual long list of kernel fixes, relibc improvements, and more.]]>
+      </description>
+      <source:markdown>Redox progressed another month, and that means a ton of improvements and new features to talk about. The biggest news this past month is that Xfce has been ported to Redox, which offers a better X11 experience than MATE currently does. There’s still some bugs but apparently is works quite well. The porting process for the COSMIC desktop environment also progressed, with COSMIC’s new Monitor application making its way to Redox. As part of Google Summer of Code, the EEVDF scheduler has been implemented in Redox, delivering better, more stable scheduling and overall system performance improvements. Also as part of GSoC inode caching has been implemented for RedoxFS, which improves file system performance. Of course, there’s a lot more here too, including the usual long list of kernel fixes, relibc improvements, and more.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145234</guid>
+    </item>    <item>
+      <title>Meet the &#39;Witch Croc,&#39; a Strange Ancient Crocodile Relative With Two Legs and No Teeth That Roamed New Mexico During the Triassic</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-the-witch-croc-a-strange-ancient-crocodile-relative-with-two-legs-and-no-teeth-that-roamed-new-mexico-during-the-triassic-180988909/</link>
+      <description>
+        <![CDATA[The reptile, a dinosaur look-alike called a shuvosaur, represents a long-awaited discovery that helps paleontologists fill a gap in the fossil record]]>
+      </description>
+      <source:markdown>The reptile, a dinosaur look-alike called a shuvosaur, represents a long-awaited discovery that helps paleontologists fill a gap in the fossil record</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3hF745NtMpZXQFle-GlAp74x5qs=/420x240/filters:focal(350x237:351x238)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/38/13/3813e74d-c4d9-4f0e-a8ee-41330dad3bb2/low-res_image_1_labrujasuchus_expectatus_artwork_by_jorge_gonzalez_1.jpg" length="107136" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-the-witch-croc-a-strange-ancient-crocodile-relative-with-two-legs-and-no-teeth-that-roamed-new-mexico-during-the-triassic-180988909/</guid>
+    </item>    <item>
+      <title>Supersonic!</title>
+      <link>https://www.nasa.gov/image-article/supersonic/</link>
+      <description>
+        <![CDATA[On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on flying qualities at both [&#8230;]]]>
+      </description>
+      <source:markdown>On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on flying qualities at both \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1003323</guid>
+    </item>    <item>
+      <title>NASA’s INCUS Satellites Progress Toward Launch</title>
+      <link>https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/</link>
+      <description>
+        <![CDATA[Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based survey of the dynamics of tropical […]]]>
+      </description>
+      <source:markdown>Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based survey of the dynamics of tropical \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/</guid>
+    </item>    <item>
+      <title>How Terry Tao Became an Evangelist for AI in Math</title>
+      <link>https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/</link>
+      <description>
+        <![CDATA[With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research.            <p>The post <a href="https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/" target="_blank">How Terry Tao Became an Evangelist for AI in Math</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research.
+
+The post [How Terry Tao Became an Evangelist for AI in Math](https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=162849</guid>
+    </item>    <item>
+      <title>TOTP-based two-factor authentication for Sculpt OS</title>
+      <link>https://www.osnews.com/story/145230/totp-based-two-factor-authentication-for-sculpt-os/</link>
+      <description>
+        <![CDATA[Norman Feske, one of the main developers behind Genode and Sculpt OS, has published a blog post detailing how he developed a two-factor authentication application for Sculpt OS. With this little tool, which I have turned into an deploy option on Sculpt OS to swiftly bring it up whenever I need it, TOTP-based two-factor authentication has become part of my daily routine. Should you want to risk a look under the hood, let me point you to the vitotp Goa project. ↫ Norman Feske The Genode project moved from GitHub to Codebrg recently, and needed a native TOTP impelentation for that purpose.]]>
+      </description>
+      <source:markdown>Norman Feske, one of the main developers behind Genode and Sculpt OS, has published a blog post detailing how he developed a two-factor authentication application for Sculpt OS. With this little tool, which I have turned into an deploy option on Sculpt OS to swiftly bring it up whenever I need it, TOTP-based two-factor authentication has become part of my daily routine. Should you want to risk a look under the hood, let me point you to the vitotp Goa project. ↫ Norman Feske The Genode project moved from GitHub to Codebrg recently, and needed a native TOTP impelentation for that purpose.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145230</guid>
+    </item>    <item>
+      <title>This Colorful Parrot Had Been Seen Only Once Over the Past Century. Birders Just Rediscovered It in an Unexplored Indonesian Forest</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-colorful-parakeet-had-been-seen-only-once-over-the-past-century-birders-just-rediscovered-it-in-an-unexplored-indonesian-forest-180988907/</link>
+      <description>
+        <![CDATA[First described in the 1920s from seven specimens, the blue-fronted lorikeet hadn't been spotted since 2014. Bird-watchers on a recent trek snapped photos of the rare bird and captured the first known audio recordings of its calls]]>
+      </description>
+      <source:markdown>First described in the 1920s from seven specimens, the blue-fronted lorikeet hadn&#39;t been spotted since 2014. Bird-watchers on a recent trek snapped photos of the rare bird and captured the first known audio recordings of its calls</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/91QRIf3eNry3UFPvX6Q6F_apn4c=/420x240/filters:focal(1491x994:1492x995)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/28/4b286dc7-77c6-465c-aec6-21168aa42dec/john_c_mittermeier_lorikeet_american_bird_conservancy.jpg" length="3427074" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-colorful-parakeet-had-been-seen-only-once-over-the-past-century-birders-just-rediscovered-it-in-an-unexplored-indonesian-forest-180988907/</guid>
+    </item>    <item>
       <title>Inner monologues are still a mystery</title>
       <link>https://www.npr.org/2026/06/08/nx-s1-5847933/inner-monologue-voices-language-brain</link>
       <description>
@@ -53,6 +216,14 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses.  The collaboration brings \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94137</guid>
+    </item>    <item>
+      <title>Forgejo monthly report - May 2026</title>
+      <link>https://forgejo.org/2026-05-monthly-report/</link>
+      <description>
+        <![CDATA[Forgejo v15 was released, along with security releases. The Forgejo Security Team responds to community concerns. The Forgejo Runner had multiple releases, the Forgejo Helm chart v17 was released and the Forgejo v16 release is progressing.]]>
+      </description>
+      <source:markdown>Forgejo v15 was released, along with security releases. The Forgejo Security Team responds to community concerns. The Forgejo Runner had multiple releases, the Forgejo Helm chart v17 was released and the Forgejo v16 release is progressing.</source:markdown>
+      <guid>cid://https://forgejo.org/2026-05-monthly-report/</guid>
     </item>    <item>
       <title>NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure</title>
       <link>https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</link>
@@ -121,12 +292,29 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://www.smithsonianmag.com/smart-news/the-supermassive-black-hole-at-the-heart-of-our-galaxy-seems-to-be-blowing-wind-just-as-scientists-long-theorized-180988908/</guid>
     </item>    <item>
       <title>NASA’s Artemis II Moon Mission Research Continues on Earth</title>
+      <link>https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/</link>
+      <description>
+        <![CDATA[Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.]]>
+      </description>
+      <source:markdown>Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/</guid>
+    </item>    <item>
+      <title>NASA’s Artemis II Moon Mission Research Continues on Earth</title>
       <link>https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/</link>
       <description>
         <![CDATA[Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.]]>
       </description>
       <source:markdown>Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.</source:markdown>
       <guid>cid://https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/</guid>
+    </item>    <item>
+      <title>This Basilica Has Been Rising Above Barcelona for 144 Years. With Its Central Tower Now Complete, Pope Leo XIV Prepares to Visit</title>
+      <link>https://www.smithsonianmag.com/smart-news/sagrada-familia-basilica-has-been-rising-above-barcelona-for-144-years-with-its-central-tower-now-complete-pope-leo-XIV-prepares-to-visit-180988906/</link>
+      <description>
+        <![CDATA[When Antoni Gaudí dreamed up his ambitious vision for Sagrada Família, he knew he wouldn't live to see its completion. One hundred years after the architect's death, the tallest tower has reached its peak]]>
+      </description>
+      <source:markdown>When Antoni Gaudí dreamed up his ambitious vision for Sagrada Família, he knew he wouldn&#39;t live to see its completion. One hundred years after the architect&#39;s death, the tallest tower has reached its peak</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/MEytX6l3vSY24I4nldA0aFJKJ0I=/420x240/filters:focal(480x334:481x335)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/c3/3ac3fb1d-9ded-4703-a22e-d8973a8d367d/sagrada.jpg" length="197555" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/sagrada-familia-basilica-has-been-rising-above-barcelona-for-144-years-with-its-central-tower-now-complete-pope-leo-XIV-prepares-to-visit-180988906/</guid>
     </item>    <item>
       <title>Catch a Surprising Glimpse at WWII Leader Winston Churchill’s Pastime—Painting—at the First Major British Retrospective Since His Death</title>
       <link>https://www.smithsonianmag.com/smart-news/catch-a-surprising-glimpse-at-wwii-leader-winston-churchills-pastime-painting-at-the-first-major-british-retrospective-since-his-death-180988905/</link>
@@ -2669,195 +2857,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, May 15, 2026 After freeing the rover’s arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, which is the layered sulfate unit above the boxwork \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/</guid>
-    </item>    <item>
-      <title>NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’</title>
-      <link>https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/</link>
-      <description>
-        <![CDATA[Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories [&#8230;]]]>
-      </description>
-      <source:markdown>Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=93021</guid>
-    </item>    <item>
-      <title>Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs</title>
-      <link>https://blogs.nvidia.com/blog/vera-cpu-delivery/</link>
-      <description>
-        <![CDATA[The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.]]>
-      </description>
-      <source:markdown>The first NVIDIA Vera CPUs arrived at three of the world&#39;s leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=92992</guid>
-    </item>    <item>
-      <title>Johnson Photographers Honored for Award-Winning Portraits</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/</link>
-      <description>
-        <![CDATA[Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.&#160; “Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche. “Their work represents the collaboration, precision, [&#8230;]]]>
-      </description>
-      <source:markdown>Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.  “Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche. “Their work represents the collaboration, precision, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=997219</guid>
-    </item>    <item>
-      <title>Stunning Frescoes in This Madrid Church Received a Facelift—But the Spanish Artist Buried Beneath Them Is Still Missing His Head</title>
-      <link>https://www.smithsonianmag.com/smart-news/stunning-frescoes-in-this-madrid-church-received-a-facelift-but-goya-the-spanish-artist-buried-beneath-them-is-still-missing-his-head-180988756/</link>
-      <description>
-        <![CDATA[Goya's frescoes are given new life in a church in Spain that also serves as the final resting place for most of the artist's body. The mystery of his missing skull has inspired poems and artworks]]>
-      </description>
-      <source:markdown>Goya&#39;s frescoes are given new life in a church in Spain that also serves as the final resting place for most of the artist&#39;s body. The mystery of his missing skull has inspired poems and artworks</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2Uj9jOrA-rI45l4D_DXMtgL1IP4=/420x240/filters:focal(480x480:481x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/2c/952ccc2d-03c5-4343-a58c-495313b3ba4b/francisco_de_goya_y_lucientes_041.jpg" length="335330" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/stunning-frescoes-in-this-madrid-church-received-a-facelift-but-goya-the-spanish-artist-buried-beneath-them-is-still-missing-his-head-180988756/</guid>
-    </item>    <item>
-      <title>The Ebola Outbreak in Africa Was Declared a Global Health Emergency by the WHO. Here&#39;s What to Know About the Rare but Severe Illness</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-ebola-outbreak-in-africa-was-declared-a-global-health-emergency-by-the-who-heres-what-to-know-about-the-rare-but-severe-illness-180988758/</link>
-      <description>
-        <![CDATA[The international health agency notes that the outbreak does not meet the criteria for a pandemic, and the U.S. Centers for Disease Control and Prevention says that the risk to the American public is low]]>
-      </description>
-      <source:markdown>The international health agency notes that the outbreak does not meet the criteria for a pandemic, and the U.S. Centers for Disease Control and Prevention says that the risk to the American public is low</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JcA6mvCAj8_PQVrvl1_Oc9_wUtw=/420x240/filters:focal(1800x1200:1801x1201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a1/fc/a1fc3e5f-60ab-49ea-829b-aff455639026/ebola-outbreak2.jpg" length="4561664" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-ebola-outbreak-in-africa-was-declared-a-global-health-emergency-by-the-who-heres-what-to-know-about-the-rare-but-severe-illness-180988758/</guid>
-    </item>    <item>
-      <title>This Photographer Was Famous for Snapping Celebrities Like Marilyn Monroe, But His Images of Vietnam War Victims and Coal Miners Revealed the Surprising Power of Portraits</title>
-      <link>https://www.smithsonianmag.com/smart-news/richard-avedon-was-famous-for-snapping-celebrities-like-marilyn-monroe-but-his-images-of-vietnam-war-victims-and-coal-miners-revealed-the-surprising-power-of-portraits-180988757/</link>
-      <description>
-        <![CDATA[A new documentary about photographer Richard Avedon, directed by Ron Howard and debuting at the Cannes Film Festival, uses archival footage and contemporary interviews to weave the story of just how far his influence extends]]>
-      </description>
-      <source:markdown>A new documentary about photographer Richard Avedon, directed by Ron Howard and debuting at the Cannes Film Festival, uses archival footage and contemporary interviews to weave the story of just how far his influence extends</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AuwsKndhgs1xsSoE3p2cH7AitM0=/420x240/filters:focal(1840x1280:1841x1281)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/b1/74b1da47-85e1-4d22-8abf-e5b73cba5903/avedon.jpg" length="1850489" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/richard-avedon-was-famous-for-snapping-celebrities-like-marilyn-monroe-but-his-images-of-vietnam-war-victims-and-coal-miners-revealed-the-surprising-power-of-portraits-180988757/</guid>
-    </item>    <item>
-      <title>A Dimpled Koala Fossil Found in a Cave in Western Australia Revealed Why This Previously Unknown Species Went Extinct</title>
-      <link>https://www.smithsonianmag.com/smart-news/dimpled-koala-fossil-found-western-australia-revealed-why-previously-unknown-species-died-out-180988719/</link>
-      <description>
-        <![CDATA[The new study found that they lost their arboreal habitat due to a drying climate, a dire warning for the modern-day marsupials that face a similar threat]]>
-      </description>
-      <source:markdown>The new study found that they lost their arboreal habitat due to a drying climate, a dire warning for the modern-day marsupials that face a similar threat</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KU495Fr-LpGIYkn05FmptGFE2uU=/420x240/filters:focal(480x240:481x241)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/69/cf698b01-229d-4225-92a2-b3057bbd0b15/artist-s-reconstruction-of-the-new-western-australian-fossil-koala-species-nellie-peasetmb-960.jpg" length="128836" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/dimpled-koala-fossil-found-western-australia-revealed-why-previously-unknown-species-died-out-180988719/</guid>
-    </item>    <item>
-      <title>The 21 years and 20000 posts OSNews fundraiser: €1 for every post</title>
-      <link>https://www.osnews.com/story/144982/the-21-years-and-20000-posts-osnews-fundraiser-a-euro-for-every-post/</link>
-      <description>
-        <![CDATA[To celebrate my 21 years and 20000 posts as OSNews&#8217; managing editor, it&#8217;s time for a massive fundraiser: €1 for every story I&#8217;ve posted over the past 21 years, for a long-term total goal of €20000. Because OSNews is ad-free and independent, I rely entirely on your donations and support for my income and OSNews&#8217; continued survival. Your donations ensures OSNews remains free of ads, corporate influence, and other commercial interests that have ruined so many great websites. Why support OSNews? I want to make sure I can run OSNews for another two decades and another 20000 posts, and I need your help to do so. Since my wife, who has a tough, underpaid job in elderly care, is largely unable to work due to health reasons caused by that very same job, my income has become a lot more crucial for our kids, my wife, and myself. With OSNews readers being more skeptical of subscription-like things like our Patreon than most people, it&#8217;s exactly these one-time donations that make up the bulk of your support. To sweeten the deal, I&#8217;ve come up with a bunch of silly incentives that will unlock at certain thresholds: I know many of you don&#8217;t really care about incentives and silly things like these, but I think they&#8217;re fun and add some interesting things to donate to. The donations already started coming in, so we&#8217;ve got a small head start. Also, if anyone has any idea on how to add a cool progress bar to OSNews to keep track of the donations and incentives, please let me know. I&#8217;m sure some of you can whip something up or point me to something. OSNews was founded in 1997, so we&#8217;re almost 30 years old. Let&#8217;s keep this wonderful little corner of the people-focused web alive for just a euro per post. Everyone here deserves it, because y&#8217;all are great. &#x2665;&#xfe0f;]]>
-      </description>
-      <source:markdown>To celebrate my 21 years and 20000 posts as OSNews’ managing editor, it’s time for a massive fundraiser: €1 for every story I’ve posted over the past 21 years, for a long-term total goal of €20000. Because OSNews is ad-free and independent, I rely entirely on your donations and support for my income and OSNews’ continued survival. Your donations ensures OSNews remains free of ads, corporate influence, and other commercial interests that have ruined so many great websites. Why support OSNews? I want to make sure I can run OSNews for another two decades and another 20000 posts, and I need your help to do so. Since my wife, who has a tough, underpaid job in elderly care, is largely unable to work due to health reasons caused by that very same job, my income has become a lot more crucial for our kids, my wife, and myself. With OSNews readers being more skeptical of subscription-like things like our Patreon than most people, it’s exactly these one-time donations that make up the bulk of your support. To sweeten the deal, I’ve come up with a bunch of silly incentives that will unlock at certain thresholds: I know many of you don’t really care about incentives and silly things like these, but I think they’re fun and add some interesting things to donate to. The donations already started coming in, so we’ve got a small head start. Also, if anyone has any idea on how to add a cool progress bar to OSNews to keep track of the donations and incentives, please let me know. I’m sure some of you can whip something up or point me to something. OSNews was founded in 1997, so we’re almost 30 years old. Let’s keep this wonderful little corner of the people-focused web alive for just a euro per post. Everyone here deserves it, because y’all are great. ♥️</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144982</guid>
-    </item>    <item>
-      <title>Haiku OS runs on M1 Macs now</title>
-      <link>https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/</link>
-      <description>
-        <![CDATA[Big news from the Haiku forums: the Haiku ARM port is running on M1 Macs now. This is bare metal, no VM. m1n1+u-boot deal with the Apple-specific parts of booting, so we can boot UEFI images from USB like any PC. ↫ smrobtzz on the Haiku forums USB is apparently broken, but all 8 cores are functional, and it boots to a desktop. It&#8217;s still early days, for the ARM port in general and the M1 Mac port specifically, but it&#8217;s a great start.]]>
-      </description>
-      <source:markdown>Big news from the Haiku forums: the Haiku ARM port is running on M1 Macs now. This is bare metal, no VM. m1n1+u-boot deal with the Apple-specific parts of booting, so we can boot UEFI images from USB like any PC. ↫ smrobtzz on the Haiku forums USB is apparently broken, but all 8 cores are functional, and it boots to a desktop. It’s still early days, for the ARM port in general and the M1 Mac port specifically, but it’s a great start.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144985</guid>
-    </item>    <item>
-      <title>NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars</title>
-      <link>https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/</link>
-      <description>
-        <![CDATA[In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste […]]]>
-      </description>
-      <source:markdown>In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/</guid>
-    </item>    <item>
-      <title>NASA Selects Next Class of Space Health Postdoctoral Fellows</title>
-      <link>https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/</link>
-      <description>
-        <![CDATA[The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Postdoctoral Fellowship Program supports independent research that advances biomedical, behavioral, and technological approaches relevant [&#8230;]]]>
-      </description>
-      <source:markdown>The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Postdoctoral Fellowship Program supports independent research that advances biomedical, behavioral, and technological approaches relevant \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=995634</guid>
-    </item>    <item>
-      <title>Can Insects Feel Pain? New Research Suggests That Crickets Do</title>
-      <link>https://www.smithsonianmag.com/smart-news/can-insects-feel-pain-new-research-suggests-that-crickets-do-180988752/</link>
-      <description>
-        <![CDATA[Used for food, feed and research, the critters are among the most widely farmed bugs. The study authors say humans should work to reduce harm in insect farming, handling and experimentation]]>
-      </description>
-      <source:markdown>Used for food, feed and research, the critters are among the most widely farmed bugs. The study authors say humans should work to reduce harm in insect farming, handling and experimentation</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2-EhsXirE5I8eXl3bGCa3OZpRn4=/420x240/filters:focal(1920x1262:1921x1263)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/69/d1/69d17471-2355-4e87-864a-7fe11e6d6ae8/acheta_domesticus_common_house_cricket.jpg" length="1783544" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/can-insects-feel-pain-new-research-suggests-that-crickets-do-180988752/</guid>
-    </item>    <item>
-      <title>You can now run Windows CE 2.11 on the Nintendo 64</title>
-      <link>https://www.osnews.com/story/144980/you-can-now-run-windows-ce-2-11-on-the-nintendo-64/</link>
-      <description>
-        <![CDATA[I&#8217;ve seen some wild projects in my day, but this one is definitely up there as one of the more ambitious. Stock Microsoft Windows CE 2.11 running on a real Nintendo 64. A custom HAL drops the unmodified nk.lib kernel onto VR4300, brings up the CE 2.11 GWES desktop and shell, mounts the EverDrive-64 X7&#8217;s SD card under \SDCard, treats the N64 controller as a mouse, plays sound through the N64 AI hardware via the standard CE wave stack, and runs third-party CE 2.11 EXEs straight off the SD card. This is a hobby reverse-engineering project: there is no official CE 2.11 port to N64 from Microsoft. Everything below the unmodified nk.lib (HAL, OAL, display driver, FSD, kbd/mouse PDD, wave PDD, RDP-accelerated GDI fill, ed64-X7 driver) is part of this repo. ↫ ThroatyMumbo Getting a fully operational desktop on Windows CE 2.11 is a lot harder than it appears at first sight, because this earlier version of Windows CE didn&#8217;t come with many of the reference implementations of components that later versions would add. OEMs were supposed to develop their own user interfaces for Windows CE 2.11, so the entire desktop you see here on this N64 port &#8211; window manager, taskbar, file manager, and so on &#8211; consists of custom code developed by ThroatyMumbo, using the standard Windows CE APIs. That&#8217;s not all, though, as the same applies to the various drivers needed to make Windows CE 2.11 talk to the hardware in the Nintendo 64. Windows CE 2.11 contains the interfaces for drivers but OEMs were supposed to write their own device drivers. So ThroatyMumbo did: the display driver, input drivers, sound driver, cartridge driver, and so on, are all written from scratch. Absolutely incredible. Note: it seems &#8220;AI&#8221; has been involved in this project, but it&#8217;s unclear to what extent. I didn&#8217;t see any telltale signs, but readers have reached out to me about this. The result of all this is that you can now run Windows CE 2.11, including a familiar shell, on your N64, and run any Windows CE applications as well. Absolutely wild.]]>
-      </description>
-      <source:markdown>I’ve seen some wild projects in my day, but this one is definitely up there as one of the more ambitious. Stock Microsoft Windows CE 2.11 running on a real Nintendo 64. A custom HAL drops the unmodified nk.lib kernel onto VR4300, brings up the CE 2.11 GWES desktop and shell, mounts the EverDrive-64 X7’s SD card under \\SDCard, treats the N64 controller as a mouse, plays sound through the N64 AI hardware via the standard CE wave stack, and runs third-party CE 2.11 EXEs straight off the SD card. This is a hobby reverse-engineering project: there is no official CE 2.11 port to N64 from Microsoft. Everything below the unmodified nk.lib (HAL, OAL, display driver, FSD, kbd/mouse PDD, wave PDD, RDP-accelerated GDI fill, ed64-X7 driver) is part of this repo. ↫ ThroatyMumbo Getting a fully operational desktop on Windows CE 2.11 is a lot harder than it appears at first sight, because this earlier version of Windows CE didn’t come with many of the reference implementations of components that later versions would add. OEMs were supposed to develop their own user interfaces for Windows CE 2.11, so the entire desktop you see here on this N64 port – window manager, taskbar, file manager, and so on – consists of custom code developed by ThroatyMumbo, using the standard Windows CE APIs. That’s not all, though, as the same applies to the various drivers needed to make Windows CE 2.11 talk to the hardware in the Nintendo 64. Windows CE 2.11 contains the interfaces for drivers but OEMs were supposed to write their own device drivers. So ThroatyMumbo did: the display driver, input drivers, sound driver, cartridge driver, and so on, are all written from scratch. Absolutely incredible. Note: it seems “AI” has been involved in this project, but it’s unclear to what extent. I didn’t see any telltale signs, but readers have reached out to me about this. The result of all this is that you can now run Windows CE 2.11, including a familiar shell, on your N64, and run any Windows CE applications as well. Absolutely wild.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144980</guid>
-    </item>    <item>
-      <title>Beacon of Light</title>
-      <link>https://www.nasa.gov/image-article/beacon-of-light/</link>
-      <description>
-        <![CDATA[The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA&#8217;s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, [&#8230;]]]>
-      </description>
-      <source:markdown>The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA’s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=996101</guid>
-    </item>    <item>
-      <title>What Do Gödel’s Incompleteness Theorems Truly Mean?</title>
-      <link>https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/</link>
-      <description>
-        <![CDATA[At 25, Kurt Gödel proved there can never be a mathematical “theory of everything.” Columnist Natalie Wolchover explores the implications.            <p>The post <a href="https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/" target="_blank">What Do Gödel’s Incompleteness Theorems Truly Mean?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>At 25, Kurt Gödel proved there can never be a mathematical “theory of everything.” Columnist Natalie Wolchover explores the implications.
-
-The post [What Do Gödel’s Incompleteness Theorems Truly Mean?](https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=161994</guid>
-    </item>    <item>
-      <title>Geofence Warrants, Location Data, and the Fourth Amendment in the Digital Age</title>
-      <link>https://puri.sm/posts/geofence-warrants-location-data-and-the-fourth-amendment-in-the-digital-age/</link>
-      <description>
-        <![CDATA[<p>The Supreme Court’s consideration of geofence warrants represents one of the most technically and constitutionally significant privacy cases of the modern era. The core issue is whether bulk collection of location metadata—generated by consumer devices and cloud-based services—can coexist with the Fourth Amendment’s prohibition against unreasonable searches.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/geofence-warrants-location-data-and-the-fourth-amendment-in-the-digital-age/">Geofence Warrants, Location Data, and the Fourth Amendment in the Digital Age</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>The Supreme Court’s consideration of geofence warrants represents one of the most technically and constitutionally significant privacy cases of the modern era. The core issue is whether bulk collection of location metadata—generated by consumer devices and cloud-based services—can coexist with the Fourth Amendment’s prohibition against unreasonable searches.
-
-The post [Geofence Warrants, Location Data, and the Fourth Amendment in the Digital Age](https://puri.sm/posts/geofence-warrants-location-data-and-the-fourth-amendment-in-the-digital-age/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=85426</guid>
-    </item>    <item>
-      <title>How does Flathub even work? The CDN and caching layer</title>
-      <link>https://www.osnews.com/story/144978/how-does-flathub-even-work-the-cdn-and-caching-layer/</link>
-      <description>
-        <![CDATA[There is one specific way in which the non-corporate open source projects typically document how their infrastructure work: not at all, and Flathub is no different. The full picture likely lives only in my brain, and while it could be sorted out by anyone (especially in this LLM age, yay or nay), why should it only be me thinking at night about all the single points of failure? Like any system that evolved naturally, it&#8217;s all over the place. It&#8217;s tempting to tell its history chronologically, but even then, it&#8217;s difficult to find a good entry point. Instead, this post focuses on what happens when users call flatpak install; later entries will cover the website and, finally, the build infrastructure. Buckle up! ↫ Bart Piotrowski As time goes by and more and more issues with Flatpak are addressed, I feel my attitude towards the technology change somewhat. I&#8217;m still very much a traditional package manager type of person, and will opt for my distribution&#8217;s repository if the versions they have are up-to-date, but I&#8217;m no longer audibly groaning if an application I want is only really available as a Flatpak. For the increasing number of normal, average users switching to Linux, Flatpak is probably the right way to go, especially since it can easily coexist with your traditional package manager. The only part of the linked article that made me raise my eyebrow was the reliance on Fastly, which seems to form an important linchpin of the whole Flathub stack. Fastly is an American company, and while they support Flathub entirely for free, the state of the world does have me wonder if this couldn&#8217;t evolve into a problem in a myriad of ways, perhaps through questionable people acquiring Fastly or through pressures from the clown car US administration. I&#8217;m sure it&#8217;s all fine, but it&#8217;s hard not to think of these things in this day and age.]]>
-      </description>
-      <source:markdown>There is one specific way in which the non-corporate open source projects typically document how their infrastructure work: not at all, and Flathub is no different. The full picture likely lives only in my brain, and while it could be sorted out by anyone (especially in this LLM age, yay or nay), why should it only be me thinking at night about all the single points of failure? Like any system that evolved naturally, it’s all over the place. It’s tempting to tell its history chronologically, but even then, it’s difficult to find a good entry point. Instead, this post focuses on what happens when users call flatpak install; later entries will cover the website and, finally, the build infrastructure. Buckle up! ↫ Bart Piotrowski As time goes by and more and more issues with Flatpak are addressed, I feel my attitude towards the technology change somewhat. I’m still very much a traditional package manager type of person, and will opt for my distribution’s repository if the versions they have are up-to-date, but I’m no longer audibly groaning if an application I want is only really available as a Flatpak. For the increasing number of normal, average users switching to Linux, Flatpak is probably the right way to go, especially since it can easily coexist with your traditional package manager. The only part of the linked article that made me raise my eyebrow was the reliance on Fastly, which seems to form an important linchpin of the whole Flathub stack. Fastly is an American company, and while they support Flathub entirely for free, the state of the world does have me wonder if this couldn’t evolve into a problem in a myriad of ways, perhaps through questionable people acquiring Fastly or through pressures from the clown car US administration. I’m sure it’s all fine, but it’s hard not to think of these things in this day and age.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144978</guid>
-    </item>    <item>
-      <title>These Colorful Contemporary Artworks Join the Hirshhorn Museum&#39;s Collection as the D.C. Landmark Continues to Celebrate Its 50th Anniversary</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-colorful-contemporary-artworks-just-joined-the-hirshhorn-museum-as-the-dc-landmark-celebrated-its-50th-anniversary-180988749/</link>
-      <description>
-        <![CDATA[The museum is also preparing to reopen its redesigned sculpture garden, featuring new works from eight artists, this fall]]>
-      </description>
-      <source:markdown>The museum is also preparing to reopen its redesigned sculpture garden, featuring new works from eight artists, this fall</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NYQbn2raqietDF45rO_x1O-psWs=/420x240/filters:focal(1500x1114:1501x1115)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/d9/4fd96151-3ef3-4c0e-8e3e-69837df15e84/mickalene_thomas.jpg" length="2075371" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-colorful-contemporary-artworks-just-joined-the-hirshhorn-museum-as-the-dc-landmark-celebrated-its-50th-anniversary-180988749/</guid>
-    </item>    <item>
-      <title>Microsoft finally brings back moving and resizing the taskbar in Windows 11</title>
-      <link>https://www.osnews.com/story/144976/microsoft-finally-brings-back-moving-and-resizing-the-taskbar-in-windows-11/</link>
-      <description>
-        <![CDATA[Microsoft is finally rolling out one of the most requested set of features to Windows 11: a movable and resizable taskbar. Windows 11 did away with the ability to move the taskbar to any side of the screen, as well as a various other taskbar customization options, that had been there since the very first iteration of the taskbar in Windows 95. Now they&#8217;re finally bringing it back. Microsoft is finally rolling out two of the most requested features: the ability to move the taskbar and make it smaller, so you have more screen space. I tested Windows 11’s new movable taskbar integration, and it’s just as good as the original Windows 10 version, which let you move the taskbar to the top or sides. ↫ Mayank Parmar at Windows Latest It works exactly as you&#8217;d expect it to, with icons, text, menus, and other user interface elements adapting to their new location on the sides or top of the screen. I feel absolutely stupefied that I need to make a news item about this in this, the year of Our Lady 2026, but I know a lot of people stuck on Windows 11 were really missing these basic features. Rejoice.]]>
-      </description>
-      <source:markdown>Microsoft is finally rolling out one of the most requested set of features to Windows 11: a movable and resizable taskbar. Windows 11 did away with the ability to move the taskbar to any side of the screen, as well as a various other taskbar customization options, that had been there since the very first iteration of the taskbar in Windows 95. Now they’re finally bringing it back. Microsoft is finally rolling out two of the most requested features: the ability to move the taskbar and make it smaller, so you have more screen space. I tested Windows 11’s new movable taskbar integration, and it’s just as good as the original Windows 10 version, which let you move the taskbar to the top or sides. ↫ Mayank Parmar at Windows Latest It works exactly as you’d expect it to, with icons, text, menus, and other user interface elements adapting to their new location on the sides or top of the screen. I feel absolutely stupefied that I need to make a news item about this in this, the year of Our Lady 2026, but I know a lot of people stuck on Windows 11 were really missing these basic features. Rejoice.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=144976</guid>
-    </item>    <item>
-      <title>Humpback Whales Sometimes Hold Their Mouths Open for No Clear Reason. Tourists Are Helping Scientists Understand the Rare Behavior</title>
-      <link>https://www.smithsonianmag.com/smart-news/humpback-whales-sometimes-hold-their-mouths-open-for-no-clear-reason-tourists-are-helping-scientists-understand-the-rare-behavior-180988743/</link>
-      <description>
-        <![CDATA[A trove of photos and videos gathered from social media has helped researchers propose a few possible reasons for the seldom documented action, called "gaping," including communication, jaw stretching and play]]>
-      </description>
-      <source:markdown>A trove of photos and videos gathered from social media has helped researchers propose a few possible reasons for the seldom documented action, called &#34;gaping,&#34; including communication, jaw stretching and play</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/g9hH4WPGY7EdzQXnu5BfC2nzNQM=/420x240/filters:focal(350x200:351x201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/15/1715973c-8cc5-4c32-8abb-35c063bf0302/gaping.jpg" length="49090" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/humpback-whales-sometimes-hold-their-mouths-open-for-no-clear-reason-tourists-are-helping-scientists-understand-the-rare-behavior-180988743/</guid>
-    </item>    <item>
-      <title>What&#39;s up with your nightmares?</title>
-      <link>https://www.npr.org/2026/05/18/nx-s1-5825024/whats-up-with-your-nightmares</link>
-      <description>
-        <![CDATA[Dreams of flying? Nightmares of teeth falling out? Falling off a cliff? As a sleep scientist at the University of Montreal, <a href="https://recherche.umontreal.ca/chercheur/is/in35846/"target="_blank"   >Michelle Carr</a> has pretty much heard it all. In Michelle’s new book <a href="https://us.macmillan.com/books/9781250342720/nightmareobscura/"target="_blank"   >Nightmare Obscura</a>, she explores the science of dreams, nightmares – and even something called dream engineering, where people influence their own dreams while they sleep. Today on Short Wave, co-host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a> dives into the science of our sleeping life with Michelle Carr. (encore)<br/><br/><em>Interested in any upcoming science books? Email us your question at <a href="mailto:shortwave@npr.org"target="_blank"   >shortwave@npr.org</a>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at <a href="http://plus.npr.org/shortwave"target="_blank"   >plus.npr.org/shortwave</a>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Dreams of flying? Nightmares of teeth falling out? Falling off a cliff? As a sleep scientist at the University of Montreal, [Michelle Carr](https://recherche.umontreal.ca/chercheur/is/in35846/) has pretty much heard it all. In Michelle’s new book [Nightmare Obscura](https://us.macmillan.com/books/9781250342720/nightmareobscura/), she explores the science of dreams, nightmares – and even something called dream engineering, where people influence their own dreams while they sleep. Today on Short Wave, co-host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) dives into the science of our sleeping life with Michelle Carr. (encore)
-
-_Interested in any upcoming science books? Email us your question at [shortwave@npr.org](mailto:shortwave@npr.org)._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at [plus.npr.org/shortwave](http://plus.npr.org/shortwave)._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/b7a101e3-7342-4182-a6c7-0c21782095ab/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=b7a101e3-7342-4182-a6c7-0c21782095ab&feed=F0qJcgXZ&t=podcast&e=nx-s1-5825024&p=510351&d=857&size=13725824" length="13725824" type="audio/mpeg" />
-      <guid>cid://edff3f64-1b83-4abc-8fc1-008f9c1ebd91</guid>
     </item>
   </channel>
 </rss>
