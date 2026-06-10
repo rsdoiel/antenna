@@ -35,6 +35,7 @@ title: Library and Archives organizations
 - [Internet Archive Blog](https://blog.archive.org/feed/)
 - [Open Citation blog at Hypotheses.org](https://opencitations.hypotheses.org/feed)
 - [ROR Research ID Blog](https://ror.org/feed.xml)
+- [CORE blog](https://blog.core.ac.uk/feed/)
 
 # Librarian Blogs, Newsletters and Journals
 

@@ -4,10 +4,59 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>09 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>10 Jun 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The World in an Archive: Preserving the Websites of Geographers, Cartographers, and Map Enthusiasts</title>
+      <link>https://blogs.loc.gov/thesignal/2026/06/the-world-in-an-archive/</link>
+      <description>
+        <![CDATA[The Geographic and Cartographic Professional Societies and Organizations Web Archive preserves the websites of groups shaping our understanding of the world. In this interview, Carissa Pastuch discusses how the collection was built, what it includes and why preserving born-digital content is increasingly important for documenting the field of geography and cartography.]]>
+      </description>
+      <source:markdown>The Geographic and Cartographic Professional Societies and Organizations Web Archive preserves the websites of groups shaping our understanding of the world. In this interview, Carissa Pastuch discusses how the collection was built, what it includes and why preserving born-digital content is increasingly important for documenting the field of geography and cartography.</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=37513</guid>
+    </item>    <item>
+      <title>Building Scholar-Ready AI: A Conversation with Todd Toler</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/</link>
+      <description>
+        <![CDATA[<p>A conversation on AI retrieval, the provenance problem, and the shared infrastructure scholarly publishing needs. </p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/">Building Scholar-Ready AI: A Conversation with Todd Toler</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>A conversation on AI retrieval, the provenance problem, and the shared infrastructure scholarly publishing needs.
+
+The post [Building Scholar-Ready AI: A Conversation with Todd Toler](https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62036</guid>
+    </item>    <item>
+      <title>Understanding the CORE Dashboard: Managing Repository Content with the Content Tab</title>
+      <link>https://blog.core.ac.uk/2026/06/10/understanding-the-core-dashboard-managing-repository-content-with-the-content-tab/</link>
+      <description>
+        <![CDATA[The Content tab is the central location for managing the information CORE holds about your repository. It provides repository managers with a complete view of the outputs indexed by CORE and offers tools for reviewing content, checking availability, managing visibility, and responding to content removal requests. In this installment of the CORE Dashboard Educational Series, &#8230; <a href="https://blog.core.ac.uk/2026/06/10/understanding-the-core-dashboard-managing-repository-content-with-the-content-tab/" class="more-link">Continue reading <span class="screen-reader-text">Understanding the CORE Dashboard: Managing Repository Content with the Content Tab</span></a>]]>
+      </description>
+      <source:markdown>The Content tab is the central location for managing the information CORE holds about your repository. It provides repository managers with a complete view of the outputs indexed by CORE and offers tools for reviewing content, checking availability, managing visibility, and responding to content removal requests. In this installment of the CORE Dashboard Educational Series, … [Continue reading Understanding the CORE Dashboard: Managing Repository Content with the Content Tab](https://blog.core.ac.uk/2026/06/10/understanding-the-core-dashboard-managing-repository-content-with-the-content-tab/)</source:markdown>
+      <guid>cid://https://blog.core.ac.uk/?p=2025</guid>
+    </item>    <item>
+      <title>Ithaka S+R Introduces a New LibGuide: Understanding the Environmental Impacts of Artificial Intelligence (New Research Resource)</title>
+      <link>https://www.infodocket.com/2026/06/09/ithaka-sr-introduces-a-new-libguide-understanding-the-environmental-impacts-of-artificial-intelligence-new-research-resource/</link>
+      <description>
+        <![CDATA[<p>From a Post by Claire Baytas, Ithaka S+R: As colleges and universities increase their adoption of artificial intelligence, and particularly generative AI, there is a parallel, rising need for AI literacy instruction. Since librarians are experts in information literacy and technology, they are often on the frontlines of providing training in AI literacy. Indeed, this [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/06/09/ithaka-sr-introduces-a-new-libguide-understanding-the-environmental-impacts-of-artificial-intelligence-new-research-resource/">Ithaka S+R Introduces a New LibGuide: Understanding the Environmental Impacts of Artificial Intelligence (New Research Resource)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From a Post by Claire Baytas, Ithaka S+R: As colleges and universities increase their adoption of artificial intelligence, and particularly generative AI, there is a parallel, rising need for AI literacy instruction. Since librarians are experts in information literacy and technology, they are often on the frontlines of providing training in AI literacy. Indeed, this \[…\]
+
+The post [Ithaka S+R Introduces a New LibGuide: Understanding the Environmental Impacts of Artificial Intelligence (New Research Resource)](https://www.infodocket.com/2026/06/09/ithaka-sr-introduces-a-new-libguide-understanding-the-environmental-impacts-of-artificial-intelligence-new-research-resource/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168142</guid>
+    </item>    <item>
+      <title>Understanding the Environmental Impacts of Artificial Intelligence</title>
+      <link>https://sr.ithaka.org/blog/understanding-the-environmental-impacts-of-artificial-intelligence/</link>
+      <description>
+        <![CDATA[<p>Today, we are publishing a LibGuide focused on the Environmental Impacts of AI, as a part of our Incorporating Environmental Perspectives into AI Literacy project, funded by the Mellon Foundation. The LibGuide’s objective is to help users attain a baseline understanding of the varied environmental consequences behind AI technology. The LibGuide’s articles, reports, podcasts, videos, data trackers, and other types of resources address environmental impacts throughout the AI lifecycle.</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/understanding-the-environmental-impacts-of-artificial-intelligence/">Understanding the Environmental Impacts of Artificial Intelligence</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Today, we are publishing a LibGuide focused on the Environmental Impacts of AI, as a part of our Incorporating Environmental Perspectives into AI Literacy project, funded by the Mellon Foundation. The LibGuide’s objective is to help users attain a baseline understanding of the varied environmental consequences behind AI technology. The LibGuide’s articles, reports, podcasts, videos, data trackers, and other types of resources address environmental impacts throughout the AI lifecycle.
+
+The post [Understanding the Environmental Impacts of Artificial Intelligence](https://sr.ithaka.org/blog/understanding-the-environmental-impacts-of-artificial-intelligence/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=325833</guid>
+    </item>    <item>
       <title>Guest Post — Trust &#38; Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/09/guest-post-trust-community-are-the-moat-infrastructure-is-your-leverage-dispatches-from-purepub-ai/</link>
       <description>
@@ -33,10 +82,10 @@ The post [Report: House Votes to Take Over Librarian of Congress Appointment Pow
       <title>ARL Daily Intelligence (June 8–11)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-8-11/</link>
       <description>
-        <![CDATA[<p>Last Updated on June 8, 2026, 12:11 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on June 9, 2026, 2:05 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-8-11/">ARL Daily Intelligence (June 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on June 8, 2026, 12:11 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on June 9, 2026, 2:05 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (June 8–11)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-8-11/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48934</guid>
@@ -390,6 +439,14 @@ The post [Working Together to Improve Access to Scholarly Content for People wit
 
 The post [Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata](https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61983</guid>
+    </item>    <item>
+      <title>Webinar Recording: CORE FreshFinds as a solution for populating repositories</title>
+      <link>https://blog.core.ac.uk/2026/05/29/webinar-recording-core-freshfinds-as-a-solution-for-populating-repositories/</link>
+      <description>
+        <![CDATA[Last week, CORE and Jisc hosted a webinar on the development of CORE FreshFinds as a solution for populating repositories following the retirement of Publications Router. The discussion brought together repository managers and members of the scholarly communications community to explore questions around repository workflows, metadata quality, full text discovery, interoperability, deposit workflows, and sustainable &#8230; <a href="https://blog.core.ac.uk/2026/05/29/webinar-recording-core-freshfinds-as-a-solution-for-populating-repositories/" class="more-link">Continue reading <span class="screen-reader-text">Webinar Recording: CORE FreshFinds as a solution for populating repositories</span></a>]]>
+      </description>
+      <source:markdown>Last week, CORE and Jisc hosted a webinar on the development of CORE FreshFinds as a solution for populating repositories following the retirement of Publications Router. The discussion brought together repository managers and members of the scholarly communications community to explore questions around repository workflows, metadata quality, full text discovery, interoperability, deposit workflows, and sustainable … [Continue reading Webinar Recording: CORE FreshFinds as a solution for populating repositories](https://blog.core.ac.uk/2026/05/29/webinar-recording-core-freshfinds-as-a-solution-for-populating-repositories/)</source:markdown>
+      <guid>cid://https://blog.core.ac.uk/?p=2021</guid>
     </item>    <item>
       <title>Why Digital Preservation Matters: Lessons from the Churchill Archives Centre</title>
       <link>https://libnova.com/digital-preservation-strategy-churchill-archives-centre/</link>
@@ -895,47 +952,6 @@ The post [OpenAIRE and Alien Intelligence Announce Partnership to Bring AI Agent
 
 The post [Why Scholarly Societies Must Compete Through Stewardship, Not Scale](https://scholarlykitchen.sspnet.org/2026/05/20/why-scholarly-societies-must-compete-through-stewardship-not-scale/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61970</guid>
-    </item>    <item>
-      <title>By the People Webinar: Volunteer to Transcribe the American Revolution in Context</title>
-      <link>https://blogs.loc.gov/thesignal/2026/05/btp-webinar-revolution/</link>
-      <description>
-        <![CDATA[Commemorate the 250th birthday of the United States through service! Join us for a webinar on Thursday, June 4, from 1:00 PM to 2:00 PM EDT to learn about The American Revolution in Context, a project of the Library of Congress volunteer transcription program, By the People.]]>
-      </description>
-      <source:markdown>Commemorate the 250th birthday of the United States through service! Join us for a webinar on Thursday, June 4, from 1:00 PM to 2:00 PM EDT to learn about The American Revolution in Context, a project of the Library of Congress volunteer transcription program, By the People.</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=37411</guid>
-    </item>    <item>
-      <title>Welcoming Todd Toler to Ithaka S+R</title>
-      <link>https://sr.ithaka.org/blog/welcoming-todd-toler-to-ithaka-sr/</link>
-      <description>
-        <![CDATA[<p>We are pleased to welcome Todd Toler to Ithaka S+R as the inaugural practice lead for a new area of focused work on artificial intelligence in scholarly communication. The new practice area is grounded in a simple but powerful idea: that AI in research and publishing must be “scholar-ready," aligned with expectations for integrity, provenance, rights awareness, and transparency.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/welcoming-todd-toler-to-ithaka-sr/">Welcoming Todd Toler to Ithaka S+R</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>We are pleased to welcome Todd Toler to Ithaka S+R as the inaugural practice lead for a new area of focused work on artificial intelligence in scholarly communication. The new practice area is grounded in a simple but powerful idea: that AI in research and publishing must be “scholar-ready,&#34; aligned with expectations for integrity, provenance, rights awareness, and transparency.
-
-The post [Welcoming Todd Toler to Ithaka S+R](https://sr.ithaka.org/blog/welcoming-todd-toler-to-ithaka-sr/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325726</guid>
-    </item>    <item>
-      <title>Why Every Publisher Needs a Library Relations Strategy</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/05/19/why-every-publisher-needs-a-library-relations-strategy/</link>
-      <description>
-        <![CDATA[<p>Publishers that lack a deliberate library relations strategy are making consequential decisions without important and useful community perspectives.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/05/19/why-every-publisher-needs-a-library-relations-strategy/">Why Every Publisher Needs a Library Relations Strategy</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Publishers that lack a deliberate library relations strategy are making consequential decisions without important and useful community perspectives.
-
-The post [Why Every Publisher Needs a Library Relations Strategy](https://scholarlykitchen.sspnet.org/2026/05/19/why-every-publisher-needs-a-library-relations-strategy/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61972</guid>
-    </item>    <item>
-      <title>Digital Preservation Layer: The New Approach to Ecosystem Orchestration</title>
-      <link>https://libnova.com/digital-preservation-layer-ecosystem-orchestration/</link>
-      <description>
-        <![CDATA[<p>Digital preservation is entering a new era. For years, organizations approached digital preservation through monolithic systems that operated as closed environments. Files were deposited into a preservation platform, and institutions trusted that integrity checks, preservation actions, and long-term accessibility were happening behind the scenes. But today’s digital ecosystems are far more complex. Institutions now manage [&#8230;]</p>
-        <p>The post <a rel="nofollow" href="https://libnova.com/digital-preservation-layer-ecosystem-orchestration/">Digital Preservation Layer: The New Approach to Ecosystem Orchestration</a> appeared first on <a rel="nofollow" href="https://libnova.com">LIBNOVA</a>.</p>]]>
-      </description>
-      <source:markdown>Digital preservation is entering a new era. For years, organizations approached digital preservation through monolithic systems that operated as closed environments. Files were deposited into a preservation platform, and institutions trusted that integrity checks, preservation actions, and long-term accessibility were happening behind the scenes. But today’s digital ecosystems are far more complex. Institutions now manage \[…\]
-
-The post [Digital Preservation Layer: The New Approach to Ecosystem Orchestration](https://libnova.com/digital-preservation-layer-ecosystem-orchestration/) appeared first on [LIBNOVA](https://libnova.com).</source:markdown>
-      <guid>cid://https://libnova.com/?p=13939</guid>
     </item>
   </channel>
 </rss>

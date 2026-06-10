@@ -4,10 +4,21 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>09 Jun 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>10 Jun 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The One with David E. Kelley</title>
+      <link>https://johnaugust.com/2026/the-one-with-david-e-kelley</link>
+      <description>
+        <![CDATA[<p>John and Craig welcome writer and showrunner David E. Kelley (Big Little Lies, Ally McBeal) to look at his process for adapting books to TV, particularly with his latest series Margo’s Got Money Troubles. They explore where to find your act breaks, crafting complicated tones, and when to trust the writer of the book. We [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/the-one-with-david-e-kelley">The One with David E. Kelley</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>John and Craig welcome writer and showrunner David E. Kelley (Big Little Lies, Ally McBeal) to look at his process for adapting books to TV, particularly with his latest series Margo’s Got Money Troubles. They explore where to find your act breaks, crafting complicated tones, and when to trust the writer of the book. We \[…\]
+
+The post [The One with David E. Kelley](https://johnaugust.com/2026/the-one-with-david-e-kelley) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=23981</guid>
+    </item>    <item>
       <title>Scriptnotes, Episode 738: Building Your Audience with Courtney Kemp, Transcript</title>
       <link>https://johnaugust.com/2026/scriptnotes-episode-738-building-your-audience-with-courtney-kemp-transcript</link>
       <description>
@@ -83,26 +94,6 @@ The post [Scriptnotes, Episode 732: Something Very Bad is Going to Happen, Trans
 The post [Studio-Adjacent](https://johnaugust.com/2026/studio-adjacent) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/737standard.mp3" length="67744670" type="audio/mpeg" />
       <guid>cid://https://johnaugust.com/?p=23951</guid>
-    </item>    <item>
-      <title>The Devil You Know</title>
-      <link>https://johnaugust.com/2026/the-devil-you-know</link>
-      <description>
-        <![CDATA[<p>John and Craig welcome back Aline Brosh McKenna (The Devil Wears Prada, Crazy Ex-Girlfriend) to explore the timely questions about art and human labor posed by her long-awaited sequel, The Devil Wears Prada 2. We’ll warn you now: Spoilers ahead! We also look at what AI knitting podcasts can tell us about the future of [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/the-devil-you-know">The Devil You Know</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John and Craig welcome back Aline Brosh McKenna (The Devil Wears Prada, Crazy Ex-Girlfriend) to explore the timely questions about art and human labor posed by her long-awaited sequel, The Devil Wears Prada 2. We’ll warn you now: Spoilers ahead! We also look at what AI knitting podcasts can tell us about the future of \[…\]
-
-The post [The Devil You Know](https://johnaugust.com/2026/the-devil-you-know) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/736standard.mp3" length="76108934" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23937</guid>
-    </item>    <item>
-      <title>On Memorization</title>
-      <link>https://www.authorsalliance.org/2026/05/19/on-memorization/</link>
-      <description>
-        <![CDATA[“We say that a model has “memorized” a piece of training data when (1) it is possible to reconstruct from the model (2) a (near-)exact copy of (3) a substantial portion of (4) that specific piece of training data. We distinguish memorization from “extraction” (in which a user intentionally causes a model to generate a (near-)exact copy), from “regurgitation” (in which a model generates a (near-)exact copy, regardless of the user’s intentions), and from “reconstruction” (in which the (near-)exact copy can be obtained from the model by any means, not necessarily the ordinary generation process).” A. Feder Cooper and James Grimmelmann, The Files are in the Computer: On Copyright, Memorization, and Generative AI (2025)]]>
-      </description>
-      <source:markdown>“We say that a model has “memorized” a piece of training data when (1) it is possible to reconstruct from the model (2) a (near-)exact copy of (3) a substantial portion of (4) that specific piece of training data. We distinguish memorization from “extraction” (in which a user intentionally causes a model to generate a (near-)exact copy), from “regurgitation” (in which a model generates a (near-)exact copy, regardless of the user’s intentions), and from “reconstruction” (in which the (near-)exact copy can be obtained from the model by any means, not necessarily the ordinary generation process).” A. Feder Cooper and James Grimmelmann, The Files are in the Computer: On Copyright, Memorization, and Generative AI (2025)</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12923</guid>
     </item>
   </channel>
 </rss>

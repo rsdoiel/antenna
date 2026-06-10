@@ -4,10 +4,34 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Jun 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>10 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>FDNPKG16 v0.99.8254c released</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/06/fdnpkg16-v0998254c-released/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>FDNPKG16 is a network-aware package manager for FreeDOS. Thanks to Victoria for releasing another update with fixes and new features: * case-less file name comparisons when checking packages for conflicting files on hard disk * you can now press a or 3 to abort the installation of a package with files on disk * updated translations. You can get it from the <a href="https://git.gay/sparky4/fdnpkg16/releases/tag/0.99.8254c" rel="nofollow">FDNPKG16 v0.99.8254c release</a> in Victoria's Git instance.</p></div>]]>
+      </description>
+      <source:markdown>FDNPKG16 is a network-aware package manager for FreeDOS. Thanks to Victoria for releasing another update with fixes and new features: \* case-less file name comparisons when checking packages for conflicting files on hard disk \* you can now press a or 3 to abort the installation of a package with files on disk \* updated translations. You can get it from the [FDNPKG16 v0.99.8254c release](https://git.gay/sparky4/fdnpkg16/releases/tag/0.99.8254c) in Victoria&#39;s Git instance.</source:markdown>
+      <guid>cid://https://sourceforge.net30f0b9ca998f492ec9aca8f6526b8aab228ef3aa</guid>
+    </item>    <item>
+      <title>b.log 2026/06/09 - Playing with search engines, I asked ChatGPT to roast me.</title>
+      <link>https://heyrick.eu/blog/entry/20260609</link>
+      <description>
+        <![CDATA[Playing with search engines, I asked ChatGPT to roast me.]]>
+      </description>
+      <source:markdown>Playing with search engines, I asked ChatGPT to roast me.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260609</guid>
+    </item>    <item>
+      <title>Lynx 2.9.3 (needs DOS exe)</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/06/lynx-293-needs-dos-exe/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Lynx is a web browser that works in text mode. Lynx version 2.9.3 was released on May 31, and includes several key fixes and updates; see the <a href="https://lynx.invisible-island.net/current/CHANGES.html" rel="nofollow">list of changes</a> for details. However, this version does not have a DOS exe (although the sources contain a DOS makefile). If you'd like to contribute, consider compiling (and sharing) a DOS exe for others to use. You can get the new release from the <a href="https://lynx.invisible-island.net/lynx.html" rel="nofollow">Lynx website</a>.</p></div>]]>
+      </description>
+      <source:markdown>Lynx is a web browser that works in text mode. Lynx version 2.9.3 was released on May 31, and includes several key fixes and updates; see the [list of changes](https://lynx.invisible-island.net/current/CHANGES.html) for details. However, this version does not have a DOS exe (although the sources contain a DOS makefile). If you&#39;d like to contribute, consider compiling (and sharing) a DOS exe for others to use. You can get the new release from the [Lynx website](https://lynx.invisible-island.net/lynx.html).</source:markdown>
+      <guid>cid://https://sourceforge.net649aba2f1e7cab0ad0a8910b3cacfa1ed623e8d7</guid>
+    </item>    <item>
       <title>X-VESA video testing program</title>
       <link>https://sourceforge.net/p/freedos/news/2026/06/x-vesa-video-testing-program/</link>
       <description>
@@ -367,7 +391,7 @@
         
         The boot doesn't get far before running into a problem. Although the VPAC display is strictly character-oriented, it can still display various graphics. This flashing disk icon does not mean the system is loading, like, say, <a href="/2023/08/cracking-designwares-grammar-examiner.html">the DesignWare chirp</a> &mdash; it means there's a disk error.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dx6FR9S9Rq4_SxRW3mDJGEgSxT8u4Dm7odcVuckRXKkkL1o-GYUpW1WuPJcdHbYYDKwARY_jI99INcsu9fziw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyCeDAYEBh45HMjcKhlzwzSrK89jvg2cPL3ZRn-iTQp-JVPSpcgWl0bHnLt67Z1lApCo8vKLPbkmqzFnJfw4Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         The RX50 has a very characteristic sound when it loads, with a clicky motor unlike any other floppy disk drive, and you can hear it in this video trying very hard. But the DECmate II's ROMs never say die; they'll just keep trying until they get something.
         
@@ -2104,23 +2128,6 @@ Digital wasn&#39;t finished trying to make workstation versions of their servers
       </description>
       <source:markdown>Many thanks for a really interesting article submission on using Browse in 2026 (with a few extra tweaks). If you have anything to share, we are always pleased to hear from you. Over to Paul Stewart....</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2333.html</guid>
-    </item>    <item>
-      <title>Top Priorities for Open Source Pros Seeking a New Job</title>
-      <link>http://www.linux-magazine.com/Online/News/Top-Priorities-for-Open-Source-Pros-Seeking-a-New-Job</link>
-      <description>
-        <![CDATA[<p>Professional fulfillment tops the list, according to LPI report.</p>]]>
-      </description>
-      <source:markdown>Professional fulfillment tops the list, according to LPI report.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://2d1cc9d9fb24e196046e3c272116e0ee</guid>
-    </item>    <item>
-      <title>ROUGOL May 2026 meeting - Jim Mitchell</title>
-      <link>http://www.iconbar.com/comments/rss/news2337.html</link>
-      <description>
-        <![CDATA[Rougols's May speaker (for a very popular meeting) was Jim Mitchell, talking about ARX and the Acorn Palo Alto Research Centre]]>
-      </description>
-      <source:markdown>Rougols&#39;s May speaker (for a very popular meeting) was Jim Mitchell, talking about ARX and the Acorn Palo Alto Research Centre</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2337.html</guid>
     </item>
   </channel>
 </rss>

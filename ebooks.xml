@@ -4,10 +4,77 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>09 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>10 Jun 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Metamorphosis by Franz Kafka</title>
+      <link>https://www.gutenberg.org/ebooks/5200</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Het onderwijzeresje by Felicie Jehu</title>
+      <link>https://www.gutenberg.org/ebooks/78835</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Awakening : by Maud Diver</title>
+      <link>https://www.gutenberg.org/ebooks/78836</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>&#34;Giovannino tai kuolema!&#34; by Matilde Serao</title>
+      <link>https://www.gutenberg.org/ebooks/78833</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Old violins by H. R.  Haweis</title>
+      <link>https://www.gutenberg.org/ebooks/78831</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Extracts from the rules and minutes of the Free Christian Baptist General Conference of New Brunswic</title>
+      <link>https://www.gutenberg.org/ebooks/78832</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nuoren rouvan kesä by Cécile Gilson</title>
+      <link>https://www.gutenberg.org/ebooks/78834</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Necromancers, by Robert Hugh Benson</title>
+      <link>https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers</link>
+      <description>
+        <![CDATA[A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.]]>
+      </description>
+      <source:markdown>A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/robert-hugh-benson_the-necromancers.epub?source=feed" length="565490" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers</guid>
+    </item>    <item>
+      <title>Captains Courageous, by Rudyard Kipling</title>
+      <link>https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous</link>
+      <description>
+        <![CDATA[A spoiled teenager falls overboard an ocean liner and is rescued by a fishing schooner, where the crew forces him to work.]]>
+      </description>
+      <source:markdown>A spoiled teenager falls overboard an ocean liner and is rescued by a fishing schooner, where the crew forces him to work.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous/downloads/rudyard-kipling_captains-courageous.epub?source=feed" length="515927" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous</guid>
+    </item>    <item>
       <title>Queen of the jesters, and her strange adventures in old Paris by Max Pemberton</title>
       <link>https://www.gutenberg.org/ebooks/78828</link>
       <description>
@@ -658,7 +725,7 @@
         <![CDATA[A collection of poetry by Scottish writer Robert Louis Stevenson.]]>
       </description>
       <source:markdown>A collection of poetry by Scottish writer Robert Louis Stevenson.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/robert-louis-stevenson/poetry/downloads/robert-louis-stevenson_poetry.epub?source=feed" length="1338608" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/robert-louis-stevenson/poetry/downloads/robert-louis-stevenson_poetry.epub?source=feed" length="1338620" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/robert-louis-stevenson/poetry</guid>
     </item>    <item>
       <title>The terrible meek : by Charles Rann Kennedy</title>
@@ -1216,92 +1283,6 @@
       <source:markdown>A man recovers his awareness after thirty years abroad suffering from a head injury and returns home to find society utterly changed at its most fundamental levels.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain/downloads/charlotte-perkins-gilman_moving-the-mountain.epub?source=feed" length="594262" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain</guid>
-    </item>    <item>
-      <title>Banjo, by Claude McKay</title>
-      <link>https://standardebooks.org/ebooks/claude-mckay/banjo</link>
-      <description>
-        <![CDATA[A band of beachcombers join together to live as vagrants in Marseilles.]]>
-      </description>
-      <source:markdown>A band of beachcombers join together to live as vagrants in Marseilles.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/claude-mckay/banjo/downloads/claude-mckay_banjo.epub?source=feed" length="398550" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/claude-mckay/banjo</guid>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, The Raven Edition by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/25525</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Born in Exile by George Gissing</title>
-      <link>https://www.gutenberg.org/ebooks/4526</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Travels in the Great Desert of Sahara, in the Years of 1845 and 1846 by James Richardson</title>
-      <link>https://www.gutenberg.org/ebooks/22094</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe — Volume 5 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/2151</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Blue Castle: a novel by L. M.  Montgomery</title>
-      <link>https://www.gutenberg.org/ebooks/67979</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>McGuffey&#39;s Fifth Eclectic Reader by William Holmes McGuffey</title>
-      <link>https://www.gutenberg.org/ebooks/15040</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Moonfleet by John Meade Falkner</title>
-      <link>https://www.gutenberg.org/ebooks/10743</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Translator&#39;s error by Charles Dye</title>
-      <link>https://www.gutenberg.org/ebooks/78703</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Such a happy day by Catharine Shaw</title>
-      <link>https://www.gutenberg.org/ebooks/78706</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The bungalow mystery by Carolyn Keene</title>
-      <link>https://www.gutenberg.org/ebooks/78704</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Out of the depths : by Madeline Leslie</title>
-      <link>https://www.gutenberg.org/ebooks/78705</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
