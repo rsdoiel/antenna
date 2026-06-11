@@ -4,10 +4,89 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>10 Jun 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>11 Jun 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
+      <link>https://www.gutenberg.org/ebooks/1067</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Personal Memoirs of U. S. Grant, Complete by Ulysses S.  Grant</title>
+      <link>https://www.gutenberg.org/ebooks/4367</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Personal Memoirs of U. S. Grant, Part 2. by Ulysses S.  Grant</title>
+      <link>https://www.gutenberg.org/ebooks/5861</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Vicomte de Bragelonne by Alexandre Dumas and Auguste Maquet</title>
+      <link>https://www.gutenberg.org/ebooks/2609</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Moby-Dick; or, The Whale by Herman Melville</title>
+      <link>https://www.gutenberg.org/ebooks/15</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Far to seek : by Maud Diver</title>
+      <link>https://www.gutenberg.org/ebooks/15704</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Lo ferrer de tall : by Frederic Soler i Hubert</title>
+      <link>https://www.gutenberg.org/ebooks/78837</link>
+      <description>
+        <![CDATA[Language: Catalan]]>
+      </description>
+      <source:markdown>Language: Catalan</source:markdown>
+    </item>    <item>
+      <title>Fruits of enterprize exhibited in the adventures of Belzoni in Egypt and Nubia : by Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/78838</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Aodh Ó Néill : by Conán Maol</title>
+      <link>https://www.gutenberg.org/ebooks/78840</link>
+      <description>
+        <![CDATA[Language: Irish]]>
+      </description>
+      <source:markdown>Language: Irish</source:markdown>
+    </item>    <item>
+      <title>Bread and cake baking : by Frederick D. Hauptmann</title>
+      <link>https://www.gutenberg.org/ebooks/78839</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Romola, by George Eliot</title>
+      <link>https://standardebooks.org/ebooks/george-eliot/romola</link>
+      <description>
+        <![CDATA[A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.]]>
+      </description>
+      <source:markdown>A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/george-eliot/romola/downloads/george-eliot_romola.epub?source=feed" length="986689" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/george-eliot/romola</guid>
+    </item>    <item>
       <title>Metamorphosis by Franz Kafka</title>
       <link>https://www.gutenberg.org/ebooks/5200</link>
       <description>
@@ -1274,15 +1353,6 @@
       <source:markdown>A successful New York businessman, burdened with a dark secret in his past, is threatened with exposure and ruin.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles/downloads/anna-katharine-green_the-sword-of-damocles.epub?source=feed" length="926135" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles</guid>
-    </item>    <item>
-      <title>Moving the Mountain, by Charlotte Perkins Gilman</title>
-      <link>https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain</link>
-      <description>
-        <![CDATA[A man recovers his awareness after thirty years abroad suffering from a head injury and returns home to find society utterly changed at its most fundamental levels.]]>
-      </description>
-      <source:markdown>A man recovers his awareness after thirty years abroad suffering from a head injury and returns home to find society utterly changed at its most fundamental levels.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain/downloads/charlotte-perkins-gilman_moving-the-mountain.epub?source=feed" length="594262" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain</guid>
     </item>
   </channel>
 </rss>

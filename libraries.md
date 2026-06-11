@@ -36,6 +36,7 @@ title: Library and Archives organizations
 - [Open Citation blog at Hypotheses.org](https://opencitations.hypotheses.org/feed)
 - [ROR Research ID Blog](https://ror.org/feed.xml)
 - [CORE blog](https://blog.core.ac.uk/feed/)
+- [Australian Research Data Commons](https://ardc.edu.au/feed/latest-articles)
 
 # Librarian Blogs, Newsletters and Journals
 
@@ -44,6 +45,7 @@ title: Library and Archives organizations
 - [Electronic Librarian Org.](https://electroniclibrarian.org/feed/)
 - [Front Matter Blog](https://blog.front-matter.de/rss/)
 - [Invenio RDM Blog](https://inveniosoftware.org/feed.xml)
+- [Aaron Tay's Musings about Librarianship](https://aarontay.substack.com/)
 
 # Companies
 

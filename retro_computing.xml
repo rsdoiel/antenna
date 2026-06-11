@@ -4,10 +4,44 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>10 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>11 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Commented source of UPS-65 Thaler SBC</title>
+      <link>http://retro.hansotten.nl/commented-source-of-ups-65-thaler-sbc/</link>
+      <description>
+        <![CDATA[Ian day published the commented source of the UPS065 monitor. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications [&#8230;]]]>
+      </description>
+      <source:markdown>Ian day published the commented source of the UPS065 monitor. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=21085</guid>
+    </item>    <item>
+      <title>Fireside developer chat on saturday night</title>
+      <link>http://www.iconbar.com/comments/rss/news2330.html</link>
+      <description>
+        <![CDATA[The next developer chat is on saturday night (13th June) for everyone interested in a very informal event online aimed at RISC OS developers of all levels.]]>
+      </description>
+      <source:markdown>The next developer chat is on saturday night (13th June) for everyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2330.html</guid>
+    </item>    <item>
+      <title>Linux Foundation Report Indicates AI Driving Tech Hiring</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-Foundation-Report-Indicates-AI-Driving-Tech-Hiring</link>
+      <description>
+        <![CDATA[<p>Within growing security and skills gaps, AI has been found to be a positive driving force behind tech hiring trends in Europe.</p>]]>
+      </description>
+      <source:markdown>Within growing security and skills gaps, AI has been found to be a positive driving force behind tech hiring trends in Europe.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://306e7950268f6b2c0f4bb668b38f91cd</guid>
+    </item>    <item>
+      <title>A Workstation Shelf</title>
+      <link>https://www.c64os.com/post/workstationshelf</link>
+      <description>
+        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/workstationshelf/icon-workstation-shelf.jpg'> Ten years ago, later this year, I started this blog. And one of the first posts I wrote was about the creation of Workstation Stands. Those stands served me very well for a decade. But it was finally time to retire them in favor of a new approach to creating a great workspace. When I was getting back into the Commodore 64, I had a couple of fold-out tables with white plastic top and metal legs. I started to spread my computers, monitors, drives, cables and note-taking materials all over their surfaces. It quickly became a total mess. One of the things about the wedge computer design is that the cables come out the back and sides of the keyboard. Well, those cables have to go somewhere, but you've also got to put your monitor somewhere, and then you've often got a disk drive or two beside the monitor, and they've got cables that have to go somewhere. And suddenly, everything on a flat table is total chaos. Wedge computers don't have to be complete chaos, but you do need some planning an. . .]]>
+      </description>
+      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/workstationshelf/icon-workstation-shelf.jpg) Ten years ago, later this year, I started this blog. And one of the first posts I wrote was about the creation of Workstation Stands. Those stands served me very well for a decade. But it was finally time to retire them in favor of a new approach to creating a great workspace. When I was getting back into the Commodore 64, I had a couple of fold-out tables with white plastic top and metal legs. I started to spread my computers, monitors, drives, cables and note-taking materials all over their surfaces. It quickly became a total mess. One of the things about the wedge computer design is that the cables come out the back and sides of the keyboard. Well, those cables have to go somewhere, but you&#39;ve also got to put your monitor somewhere, and then you&#39;ve often got a disk drive or two beside the monitor, and they&#39;ve got cables that have to go somewhere. And suddenly, everything on a flat table is total chaos. Wedge computers don&#39;t have to be complete chaos, but you do need some planning an. . .</source:markdown>
+      <author>gregorynacu@me.com (Gregory Nacu)</author>
+      <guid>cid://https://www.c64os.com/post?p=136</guid>
+    </item>    <item>
       <title>FDNPKG16 v0.99.8254c released</title>
       <link>https://sourceforge.net/p/freedos/news/2026/06/fdnpkg16-v0998254c-released/</link>
       <description>
@@ -391,7 +425,7 @@
         
         The boot doesn't get far before running into a problem. Although the VPAC display is strictly character-oriented, it can still display various graphics. This flashing disk icon does not mean the system is loading, like, say, <a href="/2023/08/cracking-designwares-grammar-examiner.html">the DesignWare chirp</a> &mdash; it means there's a disk error.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyCeDAYEBh45HMjcKhlzwzSrK89jvg2cPL3ZRn-iTQp-JVPSpcgWl0bHnLt67Z1lApCo8vKLPbkmqzFnJfw4Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyrX0z9PNKYSS_V-4INJcI68fqOxqzlm_j3Ts-vjbSq8wyYxOnKQM_myO5eiDvQas3xEubudsCNsjVALVVKmA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         The RX50 has a very characteristic sound when it loads, with a clicky motor unlike any other floppy disk drive, and you can hear it in this video trying very hard. But the DECmate II's ROMs never say die; they'll just keep trying until they get something.
         
@@ -2111,23 +2145,6 @@ Digital wasn&#39;t finished trying to make workstation versions of their servers
       <source:markdown>Ubuntu Core 26 could be a game-changer for organizations looking for increased security and reliability.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://fabbac2db7ced5422760de044c20fb48</guid>
-    </item>    <item>
-      <title>AI Flooding the Linux Kernel Security Mailing List</title>
-      <link>http://www.linux-magazine.com/Online/News/AI-Flooding-the-Linux-Kernel-Security-Mailing-List</link>
-      <description>
-        <![CDATA[<p>AI is giving Linus Torvalds a headache, but not in the way you might think.</p>]]>
-      </description>
-      <source:markdown>AI is giving Linus Torvalds a headache, but not in the way you might think.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://a639df52803c3614fb0d7bd9e8b12d12</guid>
-    </item>    <item>
-      <title>Making Browse Useful again</title>
-      <link>http://www.iconbar.com/comments/rss/news2333.html</link>
-      <description>
-        <![CDATA[Many thanks for a really interesting article submission on using Browse in 2026 (with a few extra tweaks). If you have anything to share, we are always pleased to hear from you. Over to Paul Stewart....]]>
-      </description>
-      <source:markdown>Many thanks for a really interesting article submission on using Browse in 2026 (with a few extra tweaks). If you have anything to share, we are always pleased to hear from you. Over to Paul Stewart....</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2333.html</guid>
     </item>
   </channel>
 </rss>
