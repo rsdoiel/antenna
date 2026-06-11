@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>11 Jun 26 08:46 -0700</lastBuildDate>
+    <lastBuildDate>11 Jun 26 08:48 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI Literacy: Join the Latest Cohort</title>
+      <link>https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/</link>
+      <description>
+        <![CDATA[<p>Beginning this July, Ithaka S+R will convene a cohort of 15-20 colleges and universities to explore how existing information literacy frameworks can be adapted and revised to reflect the changing realities of an AI-driven information ecosystem. The project will bring together librarians, teaching and learning professionals, and other campus leaders committed to advancing AI literacy as a core learning outcome.</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/">AI Literacy: Join the Latest Cohort</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Beginning this July, Ithaka S+R will convene a cohort of 15-20 colleges and universities to explore how existing information literacy frameworks can be adapted and revised to reflect the changing realities of an AI-driven information ecosystem. The project will bring together librarians, teaching and learning professionals, and other campus leaders committed to advancing AI literacy as a core learning outcome.
+
+The post [AI Literacy: Join the Latest Cohort](https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=325854</guid>
+    </item>    <item>
       <title>Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/</link>
       <description>
@@ -520,6 +531,14 @@ The post [Why Digital Preservation Matters: Lessons from the Churchill Archives 
 
 The post [Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&#38;D](https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62005</guid>
+    </item>    <item>
+      <title>Building Open Infrastructure That Lasts: A Spotlight on Digital Scholar</title>
+      <link>https://investinopen.org/blog/digital-scholar-building-infrastructure/</link>
+      <description>
+        <![CDATA[A case study with Sharon Leon, Co-CEO of the Corporation for Digital Scholarship (Digital Scholar)]]>
+      </description>
+      <source:markdown>A case study with Sharon Leon, Co-CEO of the Corporation for Digital Scholarship (Digital Scholar)</source:markdown>
+      <guid>cid://6a15e2d2ee259b0001ccfbd2</guid>
     </item>    <item>
       <title>Two Libraries, Two Sets of Superpowers: The Internet Archive and the NOAA Library</title>
       <link>https://blog.archive.org/2026/05/27/two-libraries-two-sets-of-superpowers-the-internet-archive-and-the-noaa-library/</link>
