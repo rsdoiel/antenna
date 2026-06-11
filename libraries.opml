@@ -2,9 +2,10 @@
 <opml version="2.0">
     <head>
         <title>Library and Archives organizations</title>
-        <dateCreated>11 Jun 26 08:48 -0700</dateCreated>
+        <dateCreated>11 Jun 26 08:59 -0700</dateCreated>
     </head>
     <body>
+        <outline text="Aaron Tay&#39;s Musings about Librarianship" type="rss" xmlUrl="https://aarontay.substack.com/feed" htmlUrl="https://aarontay.substack.com,https://aarontay.substack.com/feed" description="Aaron Tay&#39;s thoughts about academic librarianship " url="https://aarontay.substack.com/feed"></outline>
         <outline text="Association of Research Libraries News" type="rss" xmlUrl="https://www.arl.org/feed/" htmlUrl="https://www.arl.org/,https://www.arl.org/feed/" url="https://www.arl.org/feed/"></outline>
         <outline text="Australian Research Data Commons" type="rss" xmlUrl="https://ardc.edu.au/feed/latest-articles" htmlUrl="https://ardc.edu.au,https://ardc.edu.au/feed/latest-articles" description="Australia Research Data Commons" url="https://ardc.edu.au/feed/latest-articles"></outline>
         <outline text="CORE blog" type="rss" xmlUrl="https://blog.core.ac.uk/feed/" htmlUrl="https://blog.core.ac.uk,https://blog.core.ac.uk/feed/" url="https://blog.core.ac.uk/feed/"></outline>

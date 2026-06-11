@@ -4,7 +4,7 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>11 Jun 26 08:48 -0700</lastBuildDate>
+    <lastBuildDate>11 Jun 26 08:59 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -173,6 +173,15 @@ The post [Why I Joined Ithaka S+R](https://sr.ithaka.org/blog/why-i-joined-ithak
 
 The post [Guest Post — Advancing Federated Identity in the Library Ecosystem](https://scholarlykitchen.sspnet.org/2026/06/08/guest-post-advancing-federated-identity-in-the-library-ecosystem/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62038</guid>
+    </item>    <item>
+      <title>What a year of testing &#38; thinking about AI academic search taught me</title>
+      <link>https://aarontay.substack.com/p/what-a-year-of-testing-and-thinking</link>
+      <description>
+        <![CDATA[The Chatbot Is the Wrong Mental Model]]>
+      </description>
+      <source:markdown>The Chatbot Is the Wrong Mental Model</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Puaf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e2f2f7-9d20-4722-9eed-ffc22e7cba82_1672x941.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/what-a-year-of-testing-and-thinking</guid>
     </item>    <item>
       <title>Collaboration with Knowledge Futures to build support for high-volume DOI registration</title>
       <link>https://www.crossref.org/blog/collaboration-with-knowledge-futures-to-build-support-for-high-volume-doi-registration/</link>
@@ -371,6 +380,15 @@ The post [ALA, ARL, COSLA, EveryLibrary, SAA, ULC, and Others Call on Congress t
 
 The post [District of Columbia e-Book Fairness Act Signed by Mayor, Defying Corporate Pressure and Private Equity Lobbying (Statement From eBook Study Group)](https://www.infodocket.com/2026/06/01/district-of-columbia-e-book-fairness-act-signed-by-mayor-defying-corporate-pressure-and-private-equity-lobbying-statement-from-ebook-study-group/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168078</guid>
+    </item>    <item>
+      <title>Hot take: Stop calling poor search rankings necessary friction for learning</title>
+      <link>https://aarontay.substack.com/p/hot-take-stop-calling-poor-search</link>
+      <description>
+        <![CDATA[Boundary learning, adjacent literature, and why intentional design beats accidental noise.]]>
+      </description>
+      <source:markdown>Boundary learning, adjacent literature, and why intentional design beats accidental noise.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!gPoc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ab11e3f-336d-4d41-9e33-9b80b906334d_1672x941.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/hot-take-stop-calling-poor-search</guid>
     </item>    <item>
       <title>ARL Daily Intelligence (June 1–4)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-1-4/</link>
@@ -641,6 +659,15 @@ Stereotypically, when talking about references, we consider links to published w
 
 Close to half of all records registered with Crossref still have none or not enough reference information to make such connections. We invite members to regular [Metadata health-check webinars](https://www.crossref.org/events/metadata-health-check-webinars/) to support them in improving completeness of their records for increased transparency and visibility.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/two-billion-citation-links-in-crossref-help-research-travel-further/</guid>
+    </item>    <item>
+      <title>[Hot Take] AI Academic Search and the Missing Middle of Literature Discovery</title>
+      <link>https://aarontay.substack.com/p/ai-academic-search-and-the-missing</link>
+      <description>
+        <![CDATA[Is overly focusing on Undergraduate information literacy and evidence synthesis making us underestimate AI academic search tools?]]>
+      </description>
+      <source:markdown>Is overly focusing on Undergraduate information literacy and evidence synthesis making us underestimate AI academic search tools?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!80a7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1fa6744-ef93-4505-8cb1-927014a1c482_1678x937.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/ai-academic-search-and-the-missing</guid>
     </item>    <item>
       <title>Preprint: “Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources”</title>
       <link>https://www.infodocket.com/2026/05/25/preprint-synthetic-sources-auditing-generative-search-engine-citations-for-evidence-of-ai-generated-sources/</link>
