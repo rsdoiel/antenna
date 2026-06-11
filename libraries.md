@@ -37,6 +37,7 @@ title: Library and Archives organizations
 - [ROR Research ID Blog](https://ror.org/feed.xml)
 - [CORE blog](https://blog.core.ac.uk/feed/)
 - [Australian Research Data Commons](https://ardc.edu.au/feed/latest-articles)
+- [Invest In Open](https://investinopen.org/rss/)
 
 # Librarian Blogs, Newsletters and Journals
 
