@@ -4,10 +4,94 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>11 Jun 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>12 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Child Life in Prose</title>
+      <link>https://www.gutenberg.org/ebooks/34549</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Both Sides the Border: A Tale of Hotspur and Glendower by G. A.  Henty</title>
+      <link>https://www.gutenberg.org/ebooks/19070</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Julian päiväkirja by Peter Nansen</title>
+      <link>https://www.gutenberg.org/ebooks/78845</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>As a woman thinks by Corra Harris</title>
+      <link>https://www.gutenberg.org/ebooks/78847</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Os Lusíadas by Luís de Camões</title>
+      <link>https://www.gutenberg.org/ebooks/3333</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
+      <title>A scheme there was : by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78842</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Faust: Der Tragödie erster Teil by Johann Wolfgang von Goethe</title>
+      <link>https://www.gutenberg.org/ebooks/2229</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The moors and the fens, volume 2 (of 3) by Mrs. J. H. Riddell</title>
+      <link>https://www.gutenberg.org/ebooks/78846</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Fünfundzwanzig Jahre Ceylon : by John Hagenbeck</title>
+      <link>https://www.gutenberg.org/ebooks/78841</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Through the Looking-Glass by Lewis Carroll</title>
+      <link>https://www.gutenberg.org/ebooks/12</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Anthologie féminine : by Louise d&#39; Alq</title>
+      <link>https://www.gutenberg.org/ebooks/78843</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>West African forests and forestry by Arthur Harold Unwin</title>
+      <link>https://www.gutenberg.org/ebooks/78844</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
       <link>https://www.gutenberg.org/ebooks/1067</link>
       <description>
@@ -1335,24 +1419,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The Great Illusion, by Norman Angell</title>
-      <link>https://standardebooks.org/ebooks/norman-angell/the-great-illusion</link>
-      <description>
-        <![CDATA[A philosopher and M.P. argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.]]>
-      </description>
-      <source:markdown>A philosopher and M.P. argues that the financial and commercial interdependence of modern nations renders military conquest economically futile and traditional empire-building self-defeating.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/norman-angell/the-great-illusion/downloads/norman-angell_the-great-illusion.epub?source=feed" length="684050" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/norman-angell/the-great-illusion</guid>
-    </item>    <item>
-      <title>The Sword of Damocles, by Anna Katharine Green</title>
-      <link>https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles</link>
-      <description>
-        <![CDATA[A successful New York businessman, burdened with a dark secret in his past, is threatened with exposure and ruin.]]>
-      </description>
-      <source:markdown>A successful New York businessman, burdened with a dark secret in his past, is threatened with exposure and ruin.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles/downloads/anna-katharine-green_the-sword-of-damocles.epub?source=feed" length="926135" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/anna-katharine-green/the-sword-of-damocles</guid>
     </item>
   </channel>
 </rss>

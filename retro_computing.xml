@@ -4,10 +4,26 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>11 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>12 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rougol June 2026 meeting on monday</title>
+      <link>http://www.iconbar.com/comments/rss/news2340.html</link>
+      <description>
+        <![CDATA[The June 2026 Rougol meeting is on Monday.]]>
+      </description>
+      <source:markdown>The June 2026 Rougol meeting is on Monday.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2340.html</guid>
+    </item>    <item>
+      <title>b.log 2026/06/11 - I ordered something long ago, My Little Parcel from Guangdong.</title>
+      <link>https://heyrick.eu/blog/entry/20260611</link>
+      <description>
+        <![CDATA[I ordered something long ago, My Little Parcel from Guangdong.]]>
+      </description>
+      <source:markdown>I ordered something long ago, My Little Parcel from Guangdong.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260611</guid>
+    </item>    <item>
       <title>Commented source of UPS-65 Thaler SBC</title>
       <link>http://retro.hansotten.nl/commented-source-of-ups-65-thaler-sbc/</link>
       <description>
@@ -425,7 +441,7 @@
         
         The boot doesn't get far before running into a problem. Although the VPAC display is strictly character-oriented, it can still display various graphics. This flashing disk icon does not mean the system is loading, like, say, <a href="/2023/08/cracking-designwares-grammar-examiner.html">the DesignWare chirp</a> &mdash; it means there's a disk error.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyrX0z9PNKYSS_V-4INJcI68fqOxqzlm_j3Ts-vjbSq8wyYxOnKQM_myO5eiDvQas3xEubudsCNsjVALVVKmA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dynJ9i9FgqX8Fu-4wF_fScx8zN3QwYgNtLZls2nOUL247UZ66kO6EFU4n7raX8m5lejzCYFxzx5TUFkAlM4Pg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         The RX50 has a very characteristic sound when it loads, with a clicky motor unlike any other floppy disk drive, and you can hear it in this video trying very hard. But the DECmate II's ROMs never say die; they'll just keep trying until they get something.
         
@@ -2128,23 +2144,6 @@ Digital wasn&#39;t finished trying to make workstation versions of their servers
       </description>
       <source:markdown>This article tells part of the general story of Dungeons &#38; Dragons on the tabletop and on computers, which includes the more specific one of the Infinity Engine games. My power fantasy when playing a role-playing game is to confront a villain, explain point by point why his master plan is flawed, and then get \[…\]</source:markdown>
       <guid>cid://https://www.filfre.net/?p=6764</guid>
-    </item>    <item>
-      <title>b.log 2026/05/21 - Poop test, I&#39;ve been unwell, Mowing, Using my new wagon, Cracked concrete, Shein haul (tarot).</title>
-      <link>https://heyrick.eu/blog/entry/20260521</link>
-      <description>
-        <![CDATA[Poop test, I've been unwell, Mowing, Using my new wagon, Cracked concrete, Shein haul (tarot).]]>
-      </description>
-      <source:markdown>Poop test, I&#39;ve been unwell, Mowing, Using my new wagon, Cracked concrete, Shein haul (tarot).</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260521</guid>
-    </item>    <item>
-      <title>Ubuntu Core 26 Offers Game-Changing Enterprise Features</title>
-      <link>http://www.linux-magazine.com/Online/News/Ubuntu-Core-26-Offers-Game-Changing-Enterprise-Features</link>
-      <description>
-        <![CDATA[<p>Ubuntu Core 26 could be a game-changer for organizations looking for increased security and reliability.</p>]]>
-      </description>
-      <source:markdown>Ubuntu Core 26 could be a game-changer for organizations looking for increased security and reliability.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://fabbac2db7ced5422760de044c20fb48</guid>
     </item>
   </channel>
 </rss>
