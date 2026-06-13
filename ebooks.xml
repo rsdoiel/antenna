@@ -4,10 +4,52 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>12 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>13 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Jim Hanvey, detective by Octavus Roy Cohen</title>
+      <link>https://www.gutenberg.org/ebooks/78848</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Domestic Problem : Work and Culture in the Household by Abby Morton Diaz</title>
+      <link>https://www.gutenberg.org/ebooks/6704</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Plutarch&#39;s essays and miscellanies, Vol. 3 (of 5) : by Plutarch</title>
+      <link>https://www.gutenberg.org/ebooks/78851</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Possession by Mazo De la Roche</title>
+      <link>https://www.gutenberg.org/ebooks/78850</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The undercurrent : by Fay Ehlert</title>
+      <link>https://www.gutenberg.org/ebooks/78852</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A calendar of dinners, with 615 recipes by Marion Harris Neil</title>
+      <link>https://www.gutenberg.org/ebooks/78849</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Child Life in Prose</title>
       <link>https://www.gutenberg.org/ebooks/34549</link>
       <description>
@@ -91,6 +133,15 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Partners in Crime, by Agatha Christie</title>
+      <link>https://standardebooks.org/ebooks/agatha-christie/partners-in-crime</link>
+      <description>
+        <![CDATA[A young married couple take over running an “International Detective Agency.”]]>
+      </description>
+      <source:markdown>A young married couple take over running an “International Detective Agency.”</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/agatha-christie_partners-in-crime.epub?source=feed" length="471269" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/agatha-christie/partners-in-crime</guid>
     </item>    <item>
       <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
       <link>https://www.gutenberg.org/ebooks/1067</link>
@@ -1349,76 +1400,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A simplified presentation of Einstein&#39;s unified field equations by Tullio Levi-Civita</title>
-      <link>https://www.gutenberg.org/ebooks/78343</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Newton&#39;s Principia : by Isaac Newton</title>
-      <link>https://www.gutenberg.org/ebooks/76404</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Woodlanders by Thomas Hardy</title>
-      <link>https://www.gutenberg.org/ebooks/482</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Professor Unrat, oder, Das Ende eines Tyrannen by Heinrich Mann</title>
-      <link>https://www.gutenberg.org/ebooks/35264</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The Road to Oz by L. Frank  Baum</title>
-      <link>https://www.gutenberg.org/ebooks/485</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Peace medicine by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78718</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Precedents in Piperock by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78719</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>With the Lost Legion in New Zealand by G. Hamilton-Browne</title>
-      <link>https://www.gutenberg.org/ebooks/78721</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The toll-keepers : by Benjamin Clarke</title>
-      <link>https://www.gutenberg.org/ebooks/78722</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>La région du Haut Tell en Tunisie (le Kef, Téboursouk, Mactar, Thala) : by Charles Monchicourt</title>
-      <link>https://www.gutenberg.org/ebooks/78720</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>
