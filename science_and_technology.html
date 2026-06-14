@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.24" >
-  <meta name="date" content="2026-06-13T06:42:36-07:00" >
+  <meta name="date" content="2026-06-14T06:41:44-07:00" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>Science and Technology</title>
   <link rel="stylesheet" href="css/site.css" >
@@ -42,6 +42,18 @@
 
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content">
+
+    <article data-published="2026-06-14T11:34:24Z" data-link="https://www.osnews.com/story/145294/swift-at-apple-migrating-the-truetype-hinting-interpreter/">
+      <h2>Swift at Apple: migrating the TrueType hinting interpreter</h2>
+
+(date: 2026-06-14)
+      <p>
+      <p>TrueType is a widely used vector font standard for rendering text in web pages, PDFs, operating systems, and applications. Familiar fonts like Helvetica, Garamond, and Monaco are all built on TrueType outlines. The format specifies a hinting interpreter intended to help outlines rasterize faithfully on low-resolution displays. Modern high-resolution displays enable beautiful typography from outlines alone, but TrueType fonts that need hinting to render legibly remain in use and we continue to support them. Font parsers process data from untrusted sources, making the TrueType hinting interpreter a security-critical attack surface. To make the format more resilient on Apple platforms, we rewrote its hinting interpreter from C to memory-safe Swift for the Fall 2025 releases. In addition to memory safety, we also improved performance: on average, our Swift interpreter runs 13% faster than the C interpreter it replaced. ↫ Scott Perry This article provides a deep dive into how, exactly they did that.</p>
+
+      <address>
+        <a href="https://www.osnews.com/story/145294/swift-at-apple-migrating-the-truetype-hinting-interpreter/">https://www.osnews.com/story/145294/swift-at-apple-migrating-the-truetype-hinting-interpreter/</a>
+      </address>
+    </article>
 
     <article data-published="2026-06-12T21:29:54Z" data-link="https://www.smithsonianmag.com/smart-news/stary-up-late-and-admire-the-cosmos-with-this-new-stargazing-trail-that-links-certified-dark-sky-destinations-180988953/">
       <h2>Stay Up Late and Admire the Cosmos With This New ‘Stargazing Trail’ That Links Certified Dark Sky Destinations</h2>
@@ -154,7 +166,7 @@
     <article data-published="2026-06-12T14:26:30Z" data-link="https://www.osnews.com/story/145284/kyvos-is-the-easiest-cheapest-and-possibly-fastest-way-to-run-amigaos-4-and-morphos/">
       <h2>Kyvos is the easiest, cheapest, and possibly fastest way to run AmigaOS 4 and MorphOS</h2>
 
-(date: 2026-06-12)
+(date: 2026-06-12, updated: 2026-06-14)
       <p>
       <p>If you want to try out a modern Amiga operating system, your choices are severely constrained. Both MorphOS and AmigaOS 4 need PowerPC hardware, and at the moment, there’s little to no modern hardware available for purchase to run these operating systems on. The only AmigaOS 4 hardware you can buy is either incredibly outdated, incredibly expensive, or both, and while MorphOS does run on readily available Apple PowerPC machines, those, too, are getting quite long in the tooth and performance simply isn’t keeping up. Until the Mirari becomes available – with the project steadily progressing, I have high hopes – the reality for people wanting to try out AmigaOS or MorphOS is going to be expensive, at best. Or is it? QEMU exists, and QEMU can emulate various PowerPC systems just fine. Shouldn’t it be possible to run these two unique operating systems in a virtual environment on your modern PC, thereby making it trivial for those of us interested in the world of Amiga to dip our toes into the water without having to spend inordinate sums for outdated hardware? It turns out that yes, this is entirely possible, and as I highlighted almost a year ago, George Sokianos has made this process effectively foolproof by developing a custom GUI frontend for QEMU specifically designed to make it incredibly easy to set up and run AmigaOS 4 and MorphOS in QEMU virtual machines. We’re almost a year since that first version, and in that time, Sokianos has updated the tool, called Kyvos, to version 2. It costs a mere €9, and works on Linux (x86 and ARM), Windows (x86 and ARM) and macOS (x86 and ARM). You also get an incredibly detailed manual with step-by-step instructions for every supported operating system and specific emulated machine, which includes instructions for the convoluted AmigaOS 4 installation process, as well as a bunch of other information and helpful tips. In addition, the manual includes links to where you can buy AmigaOS 4 – be sure to use these specific links to buy AmigaOS 4, because Sokianos gets a commission for sales through these links. AmigaOS 4 costs like €30, so it’s not a big investment. MorphOS can be downloaded for free, but after 30 minutes of use, the operating system will slow down and cripple itself, unless you pay for and register your copy for €79. I own a copy for my 17″ PowerBook G4 1.25Ghz, but I think copies are tied to hardware, so I haven’t tried registering it with my key yet. The MorphOS registration tool does not accept virtual machines, so you can’t use it to buy a copy for a virtual machine. Kyvos’ graphical user interface mimics the UI of other virtual machine software like VirtualBox, and it will check to make sure you have all the correct dependencies and requirements installed. The guided setup processes for MorphOS and AmigaOS 4 virtual machines will tell you exactly which operating system ISOs and files you need and makes sure you have them, before setting up the QEMU virtual machines with the optimal settings. Once created, start the virtual machine, and they’ll boot from the installation media. Follow the included manual as you install the operating systems, including some post-install help, and you’ll end up with fully working, network-capable virtual machines running MorphOS and AmigaOS 4. Both installation and setup procedures worked without any issues on my machine, and within like half an our I had to two fully working copies of MorphOS and AmigaOS 4 running on my Linux desktop gaming PC (I exempted myself from the Windows 11 incentive for this one, since my Linux gaming PC is by far the most powerful computer I own). Networking and sound works – AmigaOS 4 requires some post-install steps for those, listed in the Kyvos manual – and I could browse the web right away with the included web browsers. The online update tool for AmigaOS 4 also works perfectly, allowing me to upgrade to the latest version of the operating system and various included components. I’m anything but a MorphOS or AmigaOS 4 expert, so I can’t confidently say much about performance compared to best real compatible hardware out there, but at least for MorphOS I can say it runs considerably faster in this virtual machine than it does on my old 17″ PowerBook G4 1.25Ghz. I feel like AmigaOS 4 runs a bit smoother than MorphOS does, as with the latter I experienced the occasional hiccup and stutter which were absent on AmigaOS 4. Still, both are entirely usable and a pleasure to use. With how limited the hardware selection for these two operating systems is, using QEMU through Kyvos is by far the easiest and most straightforward way to dip your toes into the waters of the modern Amiga operating systems. For a total of around €40, you’ll be running AmigaOS 4 in a very capable and straightforward way, and if and when MorphOS allows registration for virtual machines (they really should), an additional €79 will give you a fully working installation of that unique operating system, too. Kyvos is a complete no-brainer for anyone reading OSNews.</p>
 
@@ -340,7 +352,7 @@
     <article data-published="2026-06-11T17:38:57Z" data-link="https://www.osnews.com/story/145282/web-browsers-on-video-game-consoles/">
       <h2>Web browsers on video game consoles</h2>
 
-(date: 2026-06-11, updated: 2026-06-12)
+(date: 2026-06-11, updated: 2026-06-14)
       <p>
       <p>Video game consoles have a long history with web browsers. From the advent of the World Wide Web, consoles have been trying to get online. Browsers on video game consoles were initially very much an attempt to provide a cheap gateway to the web for a casual audience lacking technical expertise, though as time progressed they’ve become a greater and more integrated part of systems. This article takes a look at browsers on video game consoles in detail, though only covers official web browsers. Many consoles have browsers installable via custom firmware and homebrew, but they’re beyond the scope of this post, as are non-web systems such as Satellaview and online services that didn’t provide a browser, such as XBAND, Sega Meganet, and Sega Channel. ↫ Declan Chidlow The article starts off with the Philips CD-I, which has always been a fascinating product for technology fans in The Netherlands because that’s where Philips is from. Memory that far back is untrustworthy, but I can definitely remember being inundated with commercials, advertising, magazine articles, and newspaper reports about the CD-I, all throughout its rather troubled life. Yet, I don’t remember anything about it being capable of browsing a rudimentary web. Of course, we’re talking 1995 here, a time when I didn’t even have internet at home yet, although I did use the web at a friend’s place at that time. We didn’t get internet at home until I think 1997 or 1998, followed by the move to broadband cable internet just a year later, since our small rural town happened to be one of the first places to get broadband. Good times. Did anyone ever actually use browsers on consoles, though? I mean, using them always felt incredibly clunky, and by the time they were capable enough to really do anything we all had laptops and later smartphones anyway. I certainly don’t remember anyone using them for anything but a gimmick, but perhaps my sample size was far too small and not diverse enough.</p>
 
@@ -412,7 +424,7 @@
     <article data-published="2026-06-11T14:13:55Z" data-link="https://www.osnews.com/story/145279/macos-27-drops-intel-support-will-be-last-release-with-rosetta-2/">
       <h2>MacOS 27 drops Intel support, will be last release with Rosetta 2</h2>
 
-(date: 2026-06-11, updated: 2026-06-12)
+(date: 2026-06-11, updated: 2026-06-14)
       <p>
       <p>With the announcement of an upcoming new macOS release also come the usual changes in which Macs will still be supported. MacOS 27 Golden Gate is an important release in this regard, as it will be the first release of Apple’s desktop operating system that will be entirely ARM-only, dropping support for all Intel Macs. It’s important to note that Apple will provide three more years of security updates for the final Intel release of macOS, so Intel users won’t be dropped like a brick immediately. Still, the Intel Mac Pro was still being sold all the way up until mid-2023, and I’d be royally pissed off if my expensive 2023 Intel Mac went out of support a mere six years after purchase. They weren’t cheap machines, and while you can argue everybody knew the writing was on the wall for the Intel Mac Pro in 2023, it still feels way too short of a supported lifespan for such an expensive, high-end piece of equipment. It didn’t sell many units, I’m sure, but still. In addition, MacOS 27 will be the last release to include the Rosetta 2 translation layer that allows Intel binaries to run on ARM macOS. I have no idea how many important applications are still Intel-only, but I have a feeling that number is going to be relatively small, and will become even smaller as the first macOS release without Rosetta 2 support nears release. On top op of that, I’m sure enterprising users will find a way to transplant Rosetta 2 onto unsupported macOS releases, and if all else fails, there’s always virtual machines.</p>
 
@@ -485,7 +497,7 @@
     <article data-published="2026-06-10T23:12:17Z" data-link="https://www.osnews.com/story/145275/once-again-apple-blatantly-lies-about-the-eus-dma/">
       <h2>Once again, Apple blatantly lies about the EU’s DMA</h2>
 
-(date: 2026-06-10, updated: 2026-06-12)
+(date: 2026-06-10, updated: 2026-06-14)
       <p>
       <p>Apple recently announced its next crack at integrating “AI” into its operating systems, this time opting to simply whitelabel Google’s Gemini “AI” tools instead of developing its own LLM technology. Called “Siri AI”, Apple also stated it’s not coming to the EU, and the company stated that’s because the EU’s basic consumer protection legislation would give other “AI” tools “unprecedented access” to user data on users’ devices. The company made a big stink about this in the press. As anyone with basic pattern recognition skills already knew, this was a blatant, baldfaced lie. What really happened is that Apple asked the EU for an 18-month long exemption from the EU’s consumer protection and privacy legislation during which it would not have to comply with any legal privacy and interoperability requirements – just so it could roll out Siri “AI” before anyone else could offer a competing product for Apple users. Obviously, the EU wasn’t going to grant such an exemption. “The decision not to roll out Siri AI in the EU is Apple’s and Apple’s only,” spokesperson Thomas Regnier told reporters in Brussels, saying there was nothing in the Digital Markets Act to stop the company from introducing new products in the EU. “Apple was simply unable to develop interoperability solutions that meet essential EU ​privacy and security standards,” Regnier said. “Instead ​of trying to find ⁠a suitable compliance solution, Apple simply made a request to the European Commission to be exempted from their interoperability obligations under the DMA – and this for at least 18 months. ​That’s not an option,” Regnier said. ↫ Inti Landauro and Foo Yun Chee at Reuters So what’s really going on here is that Apple wants to offer a set of whitelabeled Google Gemini tools on iOS and macOS in the EU, but because Apple is classified as a gatekeeper, it is legally obligated to offer interoperability options for competing “AI” tools. These options in turn need to adhere to the EU’s strict privacy regulations, so that competing “AI” tools can offer the same level of privacy that Apple’s own whitelabeled Google Gemini tools claim to offer. Apple didn’t want to offer these privacy-respecting interoperability options as required by law, so instead of following the law in the countries it wants to operate in, Apple asked to be placed above the law for at least 18 months, basically giving Siri “AI” a massive head-start over possible competitors so that it could entrench itself in the userbase. The EU saw right through Apple’s nonsense, and now called them out on their bullshit. Perhaps Apple has gotten so used to openly bribing Trump that they forgot other parts of the world don’t work that way. Whenever Apple and its PR attack dogs say anything about the EU, you can be assured they are lying. They have proven time and time again to basically never speak a single word of truth when it comes to its dealings in the EU. It’s almost pathological at this point, and what makes it doubly interesting is that Apple will not launch Siri “AI” in China either, for the very same regulatory reasons – yet all China got was a single footnote in a press release. I wonder why.</p>
 
@@ -497,7 +509,7 @@
     <article data-published="2026-06-10T22:46:29Z" data-link="https://www.osnews.com/story/145273/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/">
       <h2>Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow</h2>
 
-(date: 2026-06-10, updated: 2026-06-12)
+(date: 2026-06-10, updated: 2026-06-14)
       <p>
       <p>For a while now the transition away from Manifest V2 (MV2) to MV3 has been on-going and it looks like it is entering its final phase of deprecation, at least, in the case of Google Chrome. A recent discussion thread in the w3c WebExtensions Community Group GitHub repo has highlighted how the latest and upcoming versions of the most popular browser are expected to be its final releases with support for MV2 extensions. ↫ Sayan Sen at Neowin You shouldn’t be using Chrome anyway.</p>
 
@@ -557,7 +569,7 @@
     <article data-published="2026-06-10T19:37:21Z" data-link="https://www.osnews.com/story/145271/a-raycasting-first-person-shooter-written-in-cobol/">
       <h2>A raycasting first-person shooter written in COBOL</h2>
 
-(date: 2026-06-10, updated: 2026-06-12)
+(date: 2026-06-10, updated: 2026-06-14)
       <p>
       <p>On a related note, what about a raycasting first-person shooter written in… COBOL? Can you think of a better programming language than COBOL to implement an FPS from scratch? I know I can’t, so buckle up and enjoy what can only be described as an out-of-body experience for COBOL enthusiasts as I set out to make a Wolfenstein3D-like raycasting based FPS game (and potentially go a bit further than that, hopefully it’s not a DOOMed attempt). ↫ icitry on YouTube I don’t link to YouTube videos very often, but there’s always the exception that proves the rule. The COBOL code’s available on GitHub. What a mad man.</p>
 
@@ -569,7 +581,7 @@
     <article data-published="2026-06-10T19:26:33Z" data-link="https://www.osnews.com/story/145269/catlantean-3d-making-graphics-like-its-1993/">
       <h2>Catlantean 3D: making graphics like it’s 1993</h2>
 
-(date: 2026-06-10, updated: 2026-06-12)
+(date: 2026-06-10, updated: 2026-06-14)
       <p>
       <p>My goal was to build a complete, shippable first-person shooter using techniques that were common in the early 90s, while allowing myself the luxury of using a modern compiler and a platform abstraction layer. ↫ Marko Stanic It looks amazing already, and it isn’t even done. Stanic goes into great detail explaining how he created the various assets for the game, and it’s a joy to read through his creative process and problem-solving routines. The game’s called Catlantean 3D, and is expected to ship somewhere early 2027.</p>
 
@@ -581,7 +593,7 @@
     <article data-published="2026-06-10T19:14:28Z" data-link="https://www.osnews.com/story/145266/microsoft-makes-windows-printing-easier-with-windows-ready-print/">
       <h2>Microsoft makes Windows printing easier with Windows Ready Print</h2>
 
-(date: 2026-06-10, updated: 2026-06-12)
+(date: 2026-06-10, updated: 2026-06-14)
       <p>
       <p>Microsoft has detailed that Windows 11 is going to switch away from dedicated printer drivers to its Windows Ready Print system. This should make it a lot easier and less cumbersome to get printers running on Windows 11. At the core of Windows Ready Print is a transition away from legacy, third party drive-based workflows toward modern, standards-based printing with IPP (Internet Printing Protocol) using the Windows inbox IPP printer driver.  Starting in July 2026, new printer installations will default to Windows Ready Print where supported, enabling a simpler and more reliable setup experience. This change reduces the need for traditional driver management and lays the foundation for a more scalable and predictable print experience. ↫ elliesekine at the Windows Tech Community Printers still play a huge role in our lives – whether we like it or not – and their terrible user experience is basically a meme a this point. Making at least one aspect of printing easier, less cumbersome, and more streamlined is incredibly welcome, and I’m glad Microsoft is taking the Windows printing ecosystem along for the ride on this one. My own personal experience with printing on Linux and now on Windows 11 (as promised, I’ve been using nothing but Windows 11 since 26 May!) has been mostly effortless already. Our cheap networked printer/scanner/combo thing from HP “just works” on both Linux and Windows 11, since Windows downloads HP’s drivers and application automatically when detecting the printer on the network. Still, not having to use HP’s driver would be a nice bonus. Coincidentally, I also managed to get the printer component of our HP combo thing working on… HP-UX 11i v1. Despite being more than two decades newer, our HP printer works perfectly with a printer definition file included in HP-UX, giving me full printing from CDE and the rest of HP-UX. It’s entirely useless and cost me an evening of my life, but seeing the test page and other documents from HP-UX come out of our printer, over the network, put a big smile on my face.</p>
 
@@ -702,7 +714,7 @@
     <article data-published="2026-06-10T14:45:48Z" data-link="https://www.osnews.com/story/145261/german-court-rules-google-is-liable-for-whatever-googles-ai-generates/">
       <h2>German court rules Google is liable for whatever Google’s “AI” generates</h2>
 
-(date: 2026-06-10, updated: 2026-06-12)
+(date: 2026-06-10, updated: 2026-06-14)
       <p>
       <p>It’s just a ruling from a lower court, but it sets the stage for how European courts are going to deal with the question of who is liable for whatever slop “AI” generates. The Regional Court of Munich hit Google with a temporary injunction barring the company from spreading false claims about two Munich-based publishers through its AI-generated search overviews (case no. 26 O 869/26). The court classified Google as a direct infringer because the “AI overview” is its own content, not just a list of search results. Google’s AI overviews had falsely tied two publishing companies to scams, subscription traps, and shady business practices for certain search queries. According to the court, the AI mixed up information about other, genuinely sketchy companies with the plaintiffs and drew connections that didn’t appear in any of the linked sources. The publishers sent Google a cease-and-desist letter, but Google didn’t respond appropriately. ↫ Matthias Bastian at The Decoder Google tried to argue it doesn’t carry any responsibility or liability for whatever slop its “AI” generate, but the German court does not agree. According to the court, “AI” overviews are not the same as regular search results, because they rewrite findings and just make shit up, thereby making claims that are nowhere to be found in any search results (or in reality in general). Furthermore, the court states that Google develops the “AI”, it runs it, it offers it to users, and Google alone controls its output, and as such, Google is liable for whatever their “AI” produces. Google also tried to argue that users know not to trust anything an “AI” produces, which is hilarious considering how hard Google is pushing these tools, but the courts state that the ability of users to do further research does not absolve Google of liability. In addition, the court made it very clear that free speech protections absolutely do not apply, because the “AI” expressions are coming from an algorithm, not a person, and are above all an expression of Google’s business activities”. In other words, if an “AI” tool generates false accusations and misleading statements, the creator of said “AI” is liable. With this ruling in hand, countless other people have a stronger case to make whenever Google or any other company tries to absolve itself from liability from slop just because a pachinko machine generated it. Excellent news, and the only fair outcome.</p>
 
@@ -714,7 +726,7 @@
     <article data-published="2026-06-10T14:21:45Z" data-link="https://www.osnews.com/story/145259/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/">
       <h2>Eagle Computer: the rise and fall of an early PC clone</h2>
 
-(date: 2026-06-10, updated: 2026-06-12)
+(date: 2026-06-10, updated: 2026-06-14)
       <p>
       <p>When it comes to 80s computer brands, few flew as high as Eagle Computer flew in 1983. The aptly named company was selling 12,000 computers a month and had been doubling sales every quarter under the leadership of a talented CEO. Then Eagle lost its CEO, Dennis Barnhart, in a crashed Ferrari on the day of its IPO, June 8, 1983. In this blog post, we’ll explore the reasons Eagle Computer fell, because there was more to it than just the tragic story involving its CEO. ↫ Dave Farquhar Just one of the many early PC companies that died off, even if Eagle died off before many of the other big players. It must’ve been such a vibrant and fascinating time to be into PCs and computers in general at that time, with so many companies and players to choose from. Shame about the 308 GTS.</p>
 
@@ -863,7 +875,7 @@
     <article data-published="2026-06-09T20:40:07Z" data-link="https://www.osnews.com/story/145244/introducing-brand-new-osnews-merch-with-the-new-logo/">
       <h2>Introducing brand new OSNews merch with the new logo!</h2>
 
-(date: 2026-06-09, updated: 2026-06-12)
+(date: 2026-06-09, updated: 2026-06-14)
       <p>
       <p>A new logo means new merch! I’m launching brand new merch today, all featuring the brand new OSNews logo. We’ve got the classic T-shirt with the new OSNews logo, in sandy white and terrain grey. They’re made from sustainably-grown and processed cotton, come in a variety of sizes, and ship worldwide. The crowdpleaser is also making its triumphant return: the OSNews coffee mug, now also with the new logo and a green-on-white two-tone design. It holds coffee and tea, of course, but feel free to use it for whatever you want. Grow a plant in it! A newcomer is the OSNews Mousepad – a basic, no-nonsense, no-frills mousepad that does exactly what it’s supposed to do, in a classic square(ish) formfactor. It makes for a great companion to any (retro) setup, but feels particularly at home with BeOS and OS/2. One merch item remains from our previous collection: the ever-popular Gemini shirt and longsleeve, with a retro ASCII-art OSNews logo in bright green on deep black. It’s like staring at a real classic CRT. On your chest. Don’t sit too close. As always, every price is set so that for every item sold, roughly €8 goes to OSNews. I will add the proceeds to our fundraiser tracker, so this is yet another way to support us, together with Ko-Fi donations, SEPA direct bank transfers, and Patreon.</p>
 
@@ -1023,7 +1035,7 @@
     <article data-published="2026-06-08T21:26:33Z" data-link="https://www.osnews.com/story/145238/gentleos-is-a-love-letter-to-classic-operating-systems-with-a-lovely-retro-gui/">
       <h2>GentleOS is a love letter to classic operating systems with a lovely retro GUI</h2>
 
-(date: 2026-06-08, updated: 2026-06-12)
+(date: 2026-06-08, updated: 2026-06-14)
       <p>
       <p>In today’s climate, I needed this: GentleOS, an operating system targeting both 386 (GentleOS/32) and even processors as old as the 80186 (GentleOS/16), with a lovely retro graphical user interface, usable on bare metal, and, of course, open source. Its goal is to provide a simple platform for tinkering with retro hardware and running graphical interactive apps on bare metal. At minimum, it only requires an i386 CPU, 4MB of RAM, and a VGA display capable of 640x480x16 mode. By design it’s entirely monolithic, mostly configured at compile time, and only supports standard PC devices: VGA/SVGA, keyboard, PS/2 mouse, serial mouse, PC speaker. The only future plans are bugfixes, optimizations, and adding more apps. GentleOS/32 has a pure 16-bit spin-off called GentleOS/16, which targets devices as old as 80186. ↫ GentleOS GitHub page While it can be run on real hardware, you can also run it in Qemu to make it easier to test and play around with. It looks great, and the stated goal of just focusing on maintenance and possibly additional applications is music to my heart. With everything that’s going on in technology today, this is an ice-cold glass of tonic in a scorching, data center-infested desert.</p>
 
@@ -1071,7 +1083,7 @@
     <article data-published="2026-06-08T19:54:04Z" data-link="https://www.osnews.com/story/145236/apple-demos-macos-27-ios-27-eu-spared-apples-google-powered-ai-slop-features/">
       <h2>Apple demos macOS 27, iOS 27; EU spared Apple’s Google-powered “AI” slop features</h2>
 
-(date: 2026-06-08, updated: 2026-06-12)
+(date: 2026-06-08, updated: 2026-06-14)
       <p>
       <p>Apple’s developer conference started today, and as is tradition, this means it also announced coming updates to its operating systems lineup. macOS is probably one of the two major ones OSNews readers are interested in, so let’s start there: Much like Mac OS X Snow Leopard in 2009, Apple said it focused on improving macOS’s performance and dozens of underlying technologies this year. macOS Golden Gate has some Liquid Glass design changes. For example, apps now have a unified toolbar at the top, and the sidebar now expands to the edge of the window. A new slider on macOS 27 lets you customize the opacity of Liquid Glass. ↫ Joe Rossignol at MacRumors Effectively, a ton of “Liquid Glass” features touted only a year ago are being changed and fixed, which should make using Liquid Glass less of a frustrating affair. Of course, there’s a whole slew of new “AI” stuff built entirely on top of Google’s Gemini, but luckily for us Europeans, we won’t be getting those features because EU privacy and consumer protection regulations are too strict. Apple, one of the world’s most valuable companies, seemingly cannot create “AI” features that comply with some basic consumer protection legislation. As for the other major platform, that’s iOS of course. At WWDC 2026 in Cupertino, Apple announced iOS 27, the next mobile operating system for compatible iPhones. The update focuses on tweaking and improving last year’s iOS 26, particularly in areas like app launch time, Liquid Glass design, and more. It does not offer a lot of major new features or upgrades, as Apple focused on polishing the experience. However, there are some new upgrades, such as reworked parental controls, new Siri AI, better search, and performance improvements. ↫ Taras Buria at Neowin These new versions, as well as those of Apple’s other operating systems, will be available later this year.</p>
 
@@ -1119,7 +1131,7 @@
     <article data-published="2026-06-08T17:37:46Z" data-link="https://www.osnews.com/story/145234/xfce-ported-to-redox-os/">
       <h2>Xfce ported to Redox OS</h2>
 
-(date: 2026-06-08, updated: 2026-06-12)
+(date: 2026-06-08, updated: 2026-06-14)
       <p>
       <p>Redox progressed another month, and that means a ton of improvements and new features to talk about. The biggest news this past month is that Xfce has been ported to Redox, which offers a better X11 experience than MATE currently does. There’s still some bugs but apparently is works quite well. The porting process for the COSMIC desktop environment also progressed, with COSMIC’s new Monitor application making its way to Redox. As part of Google Summer of Code, the EEVDF scheduler has been implemented in Redox, delivering better, more stable scheduling and overall system performance improvements. Also as part of GSoC inode caching has been implemented for RedoxFS, which improves file system performance. Of course, there’s a lot more here too, including the usual long list of kernel fixes, relibc improvements, and more.</p>
 
@@ -1180,7 +1192,7 @@
     <article data-published="2026-06-08T14:20:45Z" data-link="https://www.osnews.com/story/145230/totp-based-two-factor-authentication-for-sculpt-os/">
       <h2>TOTP-based two-factor authentication for Sculpt OS</h2>
 
-(date: 2026-06-08, updated: 2026-06-12)
+(date: 2026-06-08, updated: 2026-06-14)
       <p>
       <p>Norman Feske, one of the main developers behind Genode and Sculpt OS, has published a blog post detailing how he developed a two-factor authentication application for Sculpt OS. With this little tool, which I have turned into an deploy option on Sculpt OS to swiftly bring it up whenever I need it, TOTP-based two-factor authentication has become part of my daily routine. Should you want to risk a look under the hood, let me point you to the vitotp Goa project. ↫ Norman Feske The Genode project moved from GitHub to Codebrg recently, and needed a native TOTP impelentation for that purpose.</p>
 
@@ -3626,30 +3638,6 @@
 
       <address>
         <a href="https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/">https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-23T23:36:51Z" data-link="https://www.osnews.com/story/145069/long-term-support-does-not-mean-what-you-think-it-does/">
-      <h2>“Long-term support” does not mean what you think it does</h2>
-
-(date: 2026-05-23, updated: 2026-05-29)
-      <p>
-      <p>You may think you know what “long-term support” means when picking a Linux distribution and version, but judging by the multitude of utterly wrong takes and deeply confused users I come across online, I’m starting to get the feeling that in fact, no, you don’t know what it means. KDE’s Nate Graham is seeing the same confusion, and has published a blog post going over what LTS really means in the Linux world. People seem to think that an LTS release means it’s going to be more stable, have fewer bugs, and receive support for a certain set period of time. The reality is that only that last one really applies, sort-of. LTS generally means you’re going to be using a Linux distribution version where you’ll get security fixes and possibly maintenance updates for a set number of years, but you won’t be getting updates with new features or other updates that aren’t security fixes. The purpose of an LTS release is to more or less freeze itself and its packages in time, so that users know exactly what they’re getting. However, part of being frozen in time means any bugs, crashes, and hardware support are also frozen in time. The end result is that LTS releases will often have wildly outdated package versions, and those outdated package versions will most likely contain a ton of bugs and issues that have long been fixed in subsequent releases – subsequent releases you’re not getting, because you’re on an LTS release. LTS releases are fairly stable and reliable as long as you use the most popular software from their included software repositories. So in the circumstances when this stops being the case, I think sometimes people can feel betrayed. They think, “I thought this was supposed to be stable! Why didn’t anyone fix this bug yet? Where’s my long-term support?” But Debian, Ubuntu, and Kubuntu never promised any level of stability, reliability, or absence of bugs. They promised that the version-locked software in their repos would receive security fixes for a certain number of years. Ubuntu and Kubuntu also offered a certain amount of non-guaranteed best-effort hardware compatibility improvements and non-security bug fixes. ↫ Nate Graham This causes major problems for upstream developers. People who use an LTS release will be using versions of packages that are out of date and full of bugs that have already been fixed in later versions, but they don’t know that, so they end up reporting these old bugs that have been fixed ages ago as if they’re new. If you’re an LTS user and you experience a persistent bug and subsequent crash in Kwin, you’re most likely going to complain at the Kwin developers, even if the Kwin developers have already fixed this bug 18 months ago. Every week there’s at least a few developers in my Fedi timeline rolling their eyes at Debian users reporting bugs fixed ages ago and getting mad when told they should complain at Debian developers for not backporting the fix. So many LTS users seem to think that LTS equals increased stability, fewer bugs, and fewer crashes, but that’s just not what LTS is for or what it claims to offer. Sticking to specific (major) versions of packages means not you’re not only missing out on new features and changes – which might be desirable for you – but also on bug fixes. With LTS, as they say, the bugs are also stable.</p>
-
-      <address>
-        <a href="https://www.osnews.com/story/145069/long-term-support-does-not-mean-what-you-think-it-does/">https://www.osnews.com/story/145069/long-term-support-does-not-mean-what-you-think-it-does/</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-23T22:03:03Z" data-link="https://www.osnews.com/story/145066/gnutella-a-protocol-outliving-the-world-that-created-it/">
-      <h2>Gnutella: a protocol outliving the world that created it</h2>
-
-(date: 2026-05-23, updated: 2026-05-29)
-      <p>
-      <p>Now that’s a name I haven’t heard in a long time. Gnutella is a file sharing protocol that many have forgotten and it has the story of a decentralized technology adopted by millions of casual users who did not care to learn what a peer-to-peer system was. Users showed up because the protocol solved real problems at scale and the solution just so happened to be decentralized. No one ever pretended to use Gnutella in hopes their GnutellaCoinTM would go up in value later. They just downloaded MP3s. The network exploded in popularity, then plateaued for almost a decade, then settled into a permanent long tail state of continued but diminished use. Welcome to my overly enthusiastic love letter to Gnutella. ↫ Rick Carlino I genuinely didn’t know – or I had forgotten, more likely – that Gnutella formed the backbone of LimeWire, another name I haven’t heard in a long time. I’m quite sure I used LimeWire over 25 years ago, but details are fuzzy and I might be confusing it with other filesharing networks of a similar vintage. I was an avid CD buyer and MiniDisc user (I used MD well into the smartphone age), so I didn’t have much need for downloading MP3s. Gnutella is also apparently still active, and there are still clients you can download and use. Of course, it’s a mere shadow of its former self, but this, too, was news to me. I’m kind of inclined to see if it’s still hosting MP3s.</p>
-
-      <address>
-        <a href="https://www.osnews.com/story/145066/gnutella-a-protocol-outliving-the-world-that-created-it/">https://www.osnews.com/story/145066/gnutella-a-protocol-outliving-the-world-that-created-it/</a>
       </address>
     </article>
   </main>
