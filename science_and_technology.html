@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.24" >
-  <meta name="date" content="2026-06-14T06:41:44-07:00" >
+  <meta name="date" content="2026-06-15T06:42:22-07:00" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>Science and Technology</title>
-  <link rel="stylesheet" href="css/site.css" >
-  <link rel="alternate" type="application/rss+xml" href="science_and_technology.xml" >
+  <link href="css/site.css" rel="stylesheet" >
+  <link href="science_and_technology.xml" rel="alternate" type="application/rss+xml" >
   <script type="module" src="modules/date_filter.js" ></script>
   <script type="module" src="modules/article_collapse.js" ></script>
 </head>
@@ -43,10 +43,46 @@
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content">
 
+    <article data-published="2026-06-15T13:00:12Z" data-link="https://www.osnews.com/story/145300/windows-1-0-and-the-winapi-40-years-later/">
+      <h2>Windows 1.0 and the WinAPI, 40 years later</h2>
+
+(date: 2026-06-15)
+      <p>
+      <p>How far can you get, application development-wise, by using only the original APIs from Windows 1.0, and only whatever came included by default with Windows 1.0? I finally decided to write an application for the very first version of Windows and see how different the modern WinAPI really is from its earliest versions. Windows 1.0 came out back in the mid-1980s – the era of 16-bit processors, MS-DOS, and cooperative multitasking. At first glance, you might think it has almost nothing in common with modern Windows, but when you look specifically at the application API, that’s where things get interesting. I wanted to see how far it would be possible to go using only the capabilities of the first version of Windows. I didn’t want to just make a minimal example with a window and a menu, but a small, complete application with graphics, keyboard input, timers, and constant redrawing. For this experiment, I chose Xonix – a simple yet surprisingly addictive game. ↫ Stanislav Safronov It turns out that surprisingly, despite the 40 years and massive changes since Windows 1.0, there’s still a lot that feels recognisable. It’s also remarkable that the code Safronov ended up with ran on every version of Windows from 1.0 to 10, but sine it’s a 16 bit application it no longer works on Windows 11. It also had a hiccup on Windows 95, but he suspects that’s an issue in the 16 bit subsystem in Windows 95, and not in his code. The code’s available on GitHub.</p>
+
+      <address>
+        <a href="https://www.osnews.com/story/145300/windows-1-0-and-the-winapi-40-years-later/">https://www.osnews.com/story/145300/windows-1-0-and-the-winapi-40-years-later/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-06-15T04:01:00Z" data-link="https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/">
+      <h2>Pumice Rafts Encroach on Admiralty Islands</h2>
+
+(date: 2026-06-15)
+      <p>
+      <p>Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts.</p>
+
+      <address>
+        <a href="https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/">https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/</a>
+      </address>
+    </article>
+
+    <article data-published="2026-06-14T21:36:52Z" data-link="https://www.osnews.com/story/145297/running-dos-on-the-behringer-ddx3216-with-a-diy-bios-from-scratch/">
+      <h2>Running DOS on the Behringer DDX3216 with a DIY BIOS from scratch</h2>
+
+(date: 2026-06-14, updated: 2026-06-15)
+      <p>
+      <p>In 1994 I got my first computer: an Intel i486 DX2-66 with 4 MB RAM and a 512MB harddisk. The software was IBMs OS/2 and Microsofts Windows 3.11. In the next four years I was upgrading this machine every few months with more RAM (up to 16MB), a CD-ROM-drive and a soundblaster card. So I learned upgrading this machine, installing new software and finally learned how to program new software using BASIC. But I never got in touch with the boot-process or the details of MS-DOS. In 2026, 32 years later, I learned from some screenshots of the DDX3216, that Behringer used a real 386 processor within this machine. Immediately, some of my neurons fired in my head and I pondered if I could boot software and even a full operating system on this device. My goal was to learn how an x86-system is booting, how DOS takes over and what is necessary to get into the shell. ↫ Christian Nöding So this introduction is a bit cryptic if you’re not aware of what a DDX3216 is – I sure had no idea. The Behringer DDX3216 is a digital mixing console for use in music studios, and I think it’s about 25 years old or so. Apparently it’s built around a 386, and as Nöding details in this article, that means it can be made to run DOS. It also happens to have a small black and white LCD, so there’s a place to route output to, as well. Furthermore, once you open it up, you’ll find things like a BIOS chip, PCMCIA slot, a floppy controller, serial/parallel port controller, and more. Sure sounds like a PC to me. After talking to companies and individuals who might have a BIOS compatible with the AMD 386 SoC used in the device bore no fruit, Nöding decided to develop his own BIOS, which involves getting all the devices, interfaces, and even the display to work properly as well. The next step was getting DOS to work, and after MS-DOS 6.22 refused to work, FreeDOS did the trick and booted just fine. There’s still a ton more possible things that can be done here, but this is already quite amazing.</p>
+
+      <address>
+        <a href="https://www.osnews.com/story/145297/running-dos-on-the-behringer-ddx3216-with-a-diy-bios-from-scratch/">https://www.osnews.com/story/145297/running-dos-on-the-behringer-ddx3216-with-a-diy-bios-from-scratch/</a>
+      </address>
+    </article>
+
     <article data-published="2026-06-14T11:34:24Z" data-link="https://www.osnews.com/story/145294/swift-at-apple-migrating-the-truetype-hinting-interpreter/">
       <h2>Swift at Apple: migrating the TrueType hinting interpreter</h2>
 
-(date: 2026-06-14)
+(date: 2026-06-14, updated: 2026-06-15)
       <p>
       <p>TrueType is a widely used vector font standard for rendering text in web pages, PDFs, operating systems, and applications. Familiar fonts like Helvetica, Garamond, and Monaco are all built on TrueType outlines. The format specifies a hinting interpreter intended to help outlines rasterize faithfully on low-resolution displays. Modern high-resolution displays enable beautiful typography from outlines alone, but TrueType fonts that need hinting to render legibly remain in use and we continue to support them. Font parsers process data from untrusted sources, making the TrueType hinting interpreter a security-critical attack surface. To make the format more resilient on Apple platforms, we rewrote its hinting interpreter from C to memory-safe Swift for the Fall 2025 releases. In addition to memory safety, we also improved performance: on average, our Swift interpreter runs 13% faster than the C interpreter it replaced. ↫ Scott Perry This article provides a deep dive into how, exactly they did that.</p>
 
@@ -154,7 +190,7 @@
     <article data-published="2026-06-12T15:32:54Z" data-link="https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/">
       <h2>NASA to Cover 34th SpaceX Resupply Mission Space Station Departure</h2>
 
-(date: 2026-06-12)
+(date: 2026-06-12, updated: 2026-06-15)
       <p>
       <p>NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]</p>
 
@@ -166,7 +202,7 @@
     <article data-published="2026-06-12T14:26:30Z" data-link="https://www.osnews.com/story/145284/kyvos-is-the-easiest-cheapest-and-possibly-fastest-way-to-run-amigaos-4-and-morphos/">
       <h2>Kyvos is the easiest, cheapest, and possibly fastest way to run AmigaOS 4 and MorphOS</h2>
 
-(date: 2026-06-12, updated: 2026-06-14)
+(date: 2026-06-12, updated: 2026-06-15)
       <p>
       <p>If you want to try out a modern Amiga operating system, your choices are severely constrained. Both MorphOS and AmigaOS 4 need PowerPC hardware, and at the moment, there’s little to no modern hardware available for purchase to run these operating systems on. The only AmigaOS 4 hardware you can buy is either incredibly outdated, incredibly expensive, or both, and while MorphOS does run on readily available Apple PowerPC machines, those, too, are getting quite long in the tooth and performance simply isn’t keeping up. Until the Mirari becomes available – with the project steadily progressing, I have high hopes – the reality for people wanting to try out AmigaOS or MorphOS is going to be expensive, at best. Or is it? QEMU exists, and QEMU can emulate various PowerPC systems just fine. Shouldn’t it be possible to run these two unique operating systems in a virtual environment on your modern PC, thereby making it trivial for those of us interested in the world of Amiga to dip our toes into the water without having to spend inordinate sums for outdated hardware? It turns out that yes, this is entirely possible, and as I highlighted almost a year ago, George Sokianos has made this process effectively foolproof by developing a custom GUI frontend for QEMU specifically designed to make it incredibly easy to set up and run AmigaOS 4 and MorphOS in QEMU virtual machines. We’re almost a year since that first version, and in that time, Sokianos has updated the tool, called Kyvos, to version 2. It costs a mere €9, and works on Linux (x86 and ARM), Windows (x86 and ARM) and macOS (x86 and ARM). You also get an incredibly detailed manual with step-by-step instructions for every supported operating system and specific emulated machine, which includes instructions for the convoluted AmigaOS 4 installation process, as well as a bunch of other information and helpful tips. In addition, the manual includes links to where you can buy AmigaOS 4 – be sure to use these specific links to buy AmigaOS 4, because Sokianos gets a commission for sales through these links. AmigaOS 4 costs like €30, so it’s not a big investment. MorphOS can be downloaded for free, but after 30 minutes of use, the operating system will slow down and cripple itself, unless you pay for and register your copy for €79. I own a copy for my 17″ PowerBook G4 1.25Ghz, but I think copies are tied to hardware, so I haven’t tried registering it with my key yet. The MorphOS registration tool does not accept virtual machines, so you can’t use it to buy a copy for a virtual machine. Kyvos’ graphical user interface mimics the UI of other virtual machine software like VirtualBox, and it will check to make sure you have all the correct dependencies and requirements installed. The guided setup processes for MorphOS and AmigaOS 4 virtual machines will tell you exactly which operating system ISOs and files you need and makes sure you have them, before setting up the QEMU virtual machines with the optimal settings. Once created, start the virtual machine, and they’ll boot from the installation media. Follow the included manual as you install the operating systems, including some post-install help, and you’ll end up with fully working, network-capable virtual machines running MorphOS and AmigaOS 4. Both installation and setup procedures worked without any issues on my machine, and within like half an our I had to two fully working copies of MorphOS and AmigaOS 4 running on my Linux desktop gaming PC (I exempted myself from the Windows 11 incentive for this one, since my Linux gaming PC is by far the most powerful computer I own). Networking and sound works – AmigaOS 4 requires some post-install steps for those, listed in the Kyvos manual – and I could browse the web right away with the included web browsers. The online update tool for AmigaOS 4 also works perfectly, allowing me to upgrade to the latest version of the operating system and various included components. I’m anything but a MorphOS or AmigaOS 4 expert, so I can’t confidently say much about performance compared to best real compatible hardware out there, but at least for MorphOS I can say it runs considerably faster in this virtual machine than it does on my old 17″ PowerBook G4 1.25Ghz. I feel like AmigaOS 4 runs a bit smoother than MorphOS does, as with the latter I experienced the occasional hiccup and stutter which were absent on AmigaOS 4. Still, both are entirely usable and a pleasure to use. With how limited the hardware selection for these two operating systems is, using QEMU through Kyvos is by far the easiest and most straightforward way to dip your toes into the waters of the modern Amiga operating systems. For a total of around €40, you’ll be running AmigaOS 4 in a very capable and straightforward way, and if and when MorphOS allows registration for virtual machines (they really should), an additional €79 will give you a fully working installation of that unique operating system, too. Kyvos is a complete no-brainer for anyone reading OSNews.</p>
 
@@ -203,7 +239,7 @@
     <article data-published="2026-06-12T13:59:55Z" data-link="https://www.nasa.gov/image-article/black-eye-galaxy/">
       <h2>Black Eye Galaxy</h2>
 
-(date: 2026-06-12)
+(date: 2026-06-12, updated: 2026-06-15)
       <p>
       <p>This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]</p>
 
@@ -215,7 +251,7 @@
     <article data-published="2026-06-12T11:34:50Z" data-link="https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/">
       <h2>Hubble Sees Swarm of Galaxies</h2>
 
-(date: 2026-06-12)
+(date: 2026-06-12, updated: 2026-06-15)
       <p>
       <p>Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.</p>
 
@@ -244,7 +280,7 @@
     <article data-published="2026-06-12T04:01:00Z" data-link="https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/">
       <h2>World Cup Fever in Guadalajara</h2>
 
-(date: 2026-06-12)
+(date: 2026-06-12, updated: 2026-06-15)
       <p>
       <p>The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.</p>
 
@@ -256,7 +292,7 @@
     <article data-published="2026-06-11T21:14:44Z" data-link="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/">
       <h2>NASA Award Boosts Space Technology Research Capabilities</h2>
 
-(date: 2026-06-11, updated: 2026-06-12)
+(date: 2026-06-11, updated: 2026-06-15)
       <p>
       <p>NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]</p>
 
@@ -280,7 +316,7 @@
     <article data-published="2026-06-11T20:41:44Z" data-link="https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/">
       <h2>NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center</h2>
 
-(date: 2026-06-11, updated: 2026-06-12)
+(date: 2026-06-11, updated: 2026-06-15)
       <p>
       <p>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]</p>
 
@@ -304,7 +340,7 @@
     <article data-published="2026-06-11T20:07:33Z" data-link="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/">
       <h2>I Am Artemis: Elkin Norena</h2>
 
-(date: 2026-06-11, updated: 2026-06-12)
+(date: 2026-06-11, updated: 2026-06-15)
       <p>
       <p>Listen to this audio excerpt from Elkin Norena, resident management officer, NASA’s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build […]</p>
 
@@ -316,7 +352,7 @@
     <article data-published="2026-06-11T18:59:37Z" data-link="https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/">
       <h2>NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors</h2>
 
-(date: 2026-06-11, updated: 2026-06-12)
+(date: 2026-06-11, updated: 2026-06-15)
       <p>
       <p>A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.</p>
 
@@ -352,7 +388,7 @@
     <article data-published="2026-06-11T17:38:57Z" data-link="https://www.osnews.com/story/145282/web-browsers-on-video-game-consoles/">
       <h2>Web browsers on video game consoles</h2>
 
-(date: 2026-06-11, updated: 2026-06-14)
+(date: 2026-06-11, updated: 2026-06-15)
       <p>
       <p>Video game consoles have a long history with web browsers. From the advent of the World Wide Web, consoles have been trying to get online. Browsers on video game consoles were initially very much an attempt to provide a cheap gateway to the web for a casual audience lacking technical expertise, though as time progressed they’ve become a greater and more integrated part of systems. This article takes a look at browsers on video game consoles in detail, though only covers official web browsers. Many consoles have browsers installable via custom firmware and homebrew, but they’re beyond the scope of this post, as are non-web systems such as Satellaview and online services that didn’t provide a browser, such as XBAND, Sega Meganet, and Sega Channel. ↫ Declan Chidlow The article starts off with the Philips CD-I, which has always been a fascinating product for technology fans in The Netherlands because that’s where Philips is from. Memory that far back is untrustworthy, but I can definitely remember being inundated with commercials, advertising, magazine articles, and newspaper reports about the CD-I, all throughout its rather troubled life. Yet, I don’t remember anything about it being capable of browsing a rudimentary web. Of course, we’re talking 1995 here, a time when I didn’t even have internet at home yet, although I did use the web at a friend’s place at that time. We didn’t get internet at home until I think 1997 or 1998, followed by the move to broadband cable internet just a year later, since our small rural town happened to be one of the first places to get broadband. Good times. Did anyone ever actually use browsers on consoles, though? I mean, using them always felt incredibly clunky, and by the time they were capable enough to really do anything we all had laptops and later smartphones anyway. I certainly don’t remember anyone using them for anything but a gimmick, but perhaps my sample size was far too small and not diverse enough.</p>
 
@@ -376,7 +412,7 @@
     <article data-published="2026-06-11T16:55:12Z" data-link="https://www.nasa.gov/image-article/soccer-meets-space-science/">
       <h2>Soccer Meets Space Science</h2>
 
-(date: 2026-06-11, updated: 2026-06-12)
+(date: 2026-06-11, updated: 2026-06-15)
       <p>
       <p>A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard […]</p>
 
@@ -424,7 +460,7 @@
     <article data-published="2026-06-11T14:13:55Z" data-link="https://www.osnews.com/story/145279/macos-27-drops-intel-support-will-be-last-release-with-rosetta-2/">
       <h2>MacOS 27 drops Intel support, will be last release with Rosetta 2</h2>
 
-(date: 2026-06-11, updated: 2026-06-14)
+(date: 2026-06-11, updated: 2026-06-15)
       <p>
       <p>With the announcement of an upcoming new macOS release also come the usual changes in which Macs will still be supported. MacOS 27 Golden Gate is an important release in this regard, as it will be the first release of Apple’s desktop operating system that will be entirely ARM-only, dropping support for all Intel Macs. It’s important to note that Apple will provide three more years of security updates for the final Intel release of macOS, so Intel users won’t be dropped like a brick immediately. Still, the Intel Mac Pro was still being sold all the way up until mid-2023, and I’d be royally pissed off if my expensive 2023 Intel Mac went out of support a mere six years after purchase. They weren’t cheap machines, and while you can argue everybody knew the writing was on the wall for the Intel Mac Pro in 2023, it still feels way too short of a supported lifespan for such an expensive, high-end piece of equipment. It didn’t sell many units, I’m sure, but still. In addition, MacOS 27 will be the last release to include the Rosetta 2 translation layer that allows Intel binaries to run on ARM macOS. I have no idea how many important applications are still Intel-only, but I have a feeling that number is going to be relatively small, and will become even smaller as the first macOS release without Rosetta 2 support nears release. On top op of that, I’m sure enterprising users will find a way to transplant Rosetta 2 onto unsupported macOS releases, and if all else fails, there’s always virtual machines.</p>
 
@@ -497,7 +533,7 @@
     <article data-published="2026-06-10T23:12:17Z" data-link="https://www.osnews.com/story/145275/once-again-apple-blatantly-lies-about-the-eus-dma/">
       <h2>Once again, Apple blatantly lies about the EU’s DMA</h2>
 
-(date: 2026-06-10, updated: 2026-06-14)
+(date: 2026-06-10, updated: 2026-06-15)
       <p>
       <p>Apple recently announced its next crack at integrating “AI” into its operating systems, this time opting to simply whitelabel Google’s Gemini “AI” tools instead of developing its own LLM technology. Called “Siri AI”, Apple also stated it’s not coming to the EU, and the company stated that’s because the EU’s basic consumer protection legislation would give other “AI” tools “unprecedented access” to user data on users’ devices. The company made a big stink about this in the press. As anyone with basic pattern recognition skills already knew, this was a blatant, baldfaced lie. What really happened is that Apple asked the EU for an 18-month long exemption from the EU’s consumer protection and privacy legislation during which it would not have to comply with any legal privacy and interoperability requirements – just so it could roll out Siri “AI” before anyone else could offer a competing product for Apple users. Obviously, the EU wasn’t going to grant such an exemption. “The decision not to roll out Siri AI in the EU is Apple’s and Apple’s only,” spokesperson Thomas Regnier told reporters in Brussels, saying there was nothing in the Digital Markets Act to stop the company from introducing new products in the EU. “Apple was simply unable to develop interoperability solutions that meet essential EU ​privacy and security standards,” Regnier said. “Instead ​of trying to find ⁠a suitable compliance solution, Apple simply made a request to the European Commission to be exempted from their interoperability obligations under the DMA – and this for at least 18 months. ​That’s not an option,” Regnier said. ↫ Inti Landauro and Foo Yun Chee at Reuters So what’s really going on here is that Apple wants to offer a set of whitelabeled Google Gemini tools on iOS and macOS in the EU, but because Apple is classified as a gatekeeper, it is legally obligated to offer interoperability options for competing “AI” tools. These options in turn need to adhere to the EU’s strict privacy regulations, so that competing “AI” tools can offer the same level of privacy that Apple’s own whitelabeled Google Gemini tools claim to offer. Apple didn’t want to offer these privacy-respecting interoperability options as required by law, so instead of following the law in the countries it wants to operate in, Apple asked to be placed above the law for at least 18 months, basically giving Siri “AI” a massive head-start over possible competitors so that it could entrench itself in the userbase. The EU saw right through Apple’s nonsense, and now called them out on their bullshit. Perhaps Apple has gotten so used to openly bribing Trump that they forgot other parts of the world don’t work that way. Whenever Apple and its PR attack dogs say anything about the EU, you can be assured they are lying. They have proven time and time again to basically never speak a single word of truth when it comes to its dealings in the EU. It’s almost pathological at this point, and what makes it doubly interesting is that Apple will not launch Siri “AI” in China either, for the very same regulatory reasons – yet all China got was a single footnote in a press release. I wonder why.</p>
 
@@ -509,7 +545,7 @@
     <article data-published="2026-06-10T22:46:29Z" data-link="https://www.osnews.com/story/145273/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/">
       <h2>Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow</h2>
 
-(date: 2026-06-10, updated: 2026-06-14)
+(date: 2026-06-10, updated: 2026-06-15)
       <p>
       <p>For a while now the transition away from Manifest V2 (MV2) to MV3 has been on-going and it looks like it is entering its final phase of deprecation, at least, in the case of Google Chrome. A recent discussion thread in the w3c WebExtensions Community Group GitHub repo has highlighted how the latest and upcoming versions of the most popular browser are expected to be its final releases with support for MV2 extensions. ↫ Sayan Sen at Neowin You shouldn’t be using Chrome anyway.</p>
 
@@ -569,7 +605,7 @@
     <article data-published="2026-06-10T19:37:21Z" data-link="https://www.osnews.com/story/145271/a-raycasting-first-person-shooter-written-in-cobol/">
       <h2>A raycasting first-person shooter written in COBOL</h2>
 
-(date: 2026-06-10, updated: 2026-06-14)
+(date: 2026-06-10, updated: 2026-06-15)
       <p>
       <p>On a related note, what about a raycasting first-person shooter written in… COBOL? Can you think of a better programming language than COBOL to implement an FPS from scratch? I know I can’t, so buckle up and enjoy what can only be described as an out-of-body experience for COBOL enthusiasts as I set out to make a Wolfenstein3D-like raycasting based FPS game (and potentially go a bit further than that, hopefully it’s not a DOOMed attempt). ↫ icitry on YouTube I don’t link to YouTube videos very often, but there’s always the exception that proves the rule. The COBOL code’s available on GitHub. What a mad man.</p>
 
@@ -581,7 +617,7 @@
     <article data-published="2026-06-10T19:26:33Z" data-link="https://www.osnews.com/story/145269/catlantean-3d-making-graphics-like-its-1993/">
       <h2>Catlantean 3D: making graphics like it’s 1993</h2>
 
-(date: 2026-06-10, updated: 2026-06-14)
+(date: 2026-06-10, updated: 2026-06-15)
       <p>
       <p>My goal was to build a complete, shippable first-person shooter using techniques that were common in the early 90s, while allowing myself the luxury of using a modern compiler and a platform abstraction layer. ↫ Marko Stanic It looks amazing already, and it isn’t even done. Stanic goes into great detail explaining how he created the various assets for the game, and it’s a joy to read through his creative process and problem-solving routines. The game’s called Catlantean 3D, and is expected to ship somewhere early 2027.</p>
 
@@ -593,7 +629,7 @@
     <article data-published="2026-06-10T19:14:28Z" data-link="https://www.osnews.com/story/145266/microsoft-makes-windows-printing-easier-with-windows-ready-print/">
       <h2>Microsoft makes Windows printing easier with Windows Ready Print</h2>
 
-(date: 2026-06-10, updated: 2026-06-14)
+(date: 2026-06-10, updated: 2026-06-15)
       <p>
       <p>Microsoft has detailed that Windows 11 is going to switch away from dedicated printer drivers to its Windows Ready Print system. This should make it a lot easier and less cumbersome to get printers running on Windows 11. At the core of Windows Ready Print is a transition away from legacy, third party drive-based workflows toward modern, standards-based printing with IPP (Internet Printing Protocol) using the Windows inbox IPP printer driver.  Starting in July 2026, new printer installations will default to Windows Ready Print where supported, enabling a simpler and more reliable setup experience. This change reduces the need for traditional driver management and lays the foundation for a more scalable and predictable print experience. ↫ elliesekine at the Windows Tech Community Printers still play a huge role in our lives – whether we like it or not – and their terrible user experience is basically a meme a this point. Making at least one aspect of printing easier, less cumbersome, and more streamlined is incredibly welcome, and I’m glad Microsoft is taking the Windows printing ecosystem along for the ride on this one. My own personal experience with printing on Linux and now on Windows 11 (as promised, I’ve been using nothing but Windows 11 since 26 May!) has been mostly effortless already. Our cheap networked printer/scanner/combo thing from HP “just works” on both Linux and Windows 11, since Windows downloads HP’s drivers and application automatically when detecting the printer on the network. Still, not having to use HP’s driver would be a nice bonus. Coincidentally, I also managed to get the printer component of our HP combo thing working on… HP-UX 11i v1. Despite being more than two decades newer, our HP printer works perfectly with a printer definition file included in HP-UX, giving me full printing from CDE and the rest of HP-UX. It’s entirely useless and cost me an evening of my life, but seeing the test page and other documents from HP-UX come out of our printer, over the network, put a big smile on my face.</p>
 
@@ -714,7 +750,7 @@
     <article data-published="2026-06-10T14:45:48Z" data-link="https://www.osnews.com/story/145261/german-court-rules-google-is-liable-for-whatever-googles-ai-generates/">
       <h2>German court rules Google is liable for whatever Google’s “AI” generates</h2>
 
-(date: 2026-06-10, updated: 2026-06-14)
+(date: 2026-06-10, updated: 2026-06-15)
       <p>
       <p>It’s just a ruling from a lower court, but it sets the stage for how European courts are going to deal with the question of who is liable for whatever slop “AI” generates. The Regional Court of Munich hit Google with a temporary injunction barring the company from spreading false claims about two Munich-based publishers through its AI-generated search overviews (case no. 26 O 869/26). The court classified Google as a direct infringer because the “AI overview” is its own content, not just a list of search results. Google’s AI overviews had falsely tied two publishing companies to scams, subscription traps, and shady business practices for certain search queries. According to the court, the AI mixed up information about other, genuinely sketchy companies with the plaintiffs and drew connections that didn’t appear in any of the linked sources. The publishers sent Google a cease-and-desist letter, but Google didn’t respond appropriately. ↫ Matthias Bastian at The Decoder Google tried to argue it doesn’t carry any responsibility or liability for whatever slop its “AI” generate, but the German court does not agree. According to the court, “AI” overviews are not the same as regular search results, because they rewrite findings and just make shit up, thereby making claims that are nowhere to be found in any search results (or in reality in general). Furthermore, the court states that Google develops the “AI”, it runs it, it offers it to users, and Google alone controls its output, and as such, Google is liable for whatever their “AI” produces. Google also tried to argue that users know not to trust anything an “AI” produces, which is hilarious considering how hard Google is pushing these tools, but the courts state that the ability of users to do further research does not absolve Google of liability. In addition, the court made it very clear that free speech protections absolutely do not apply, because the “AI” expressions are coming from an algorithm, not a person, and are above all an expression of Google’s business activities”. In other words, if an “AI” tool generates false accusations and misleading statements, the creator of said “AI” is liable. With this ruling in hand, countless other people have a stronger case to make whenever Google or any other company tries to absolve itself from liability from slop just because a pachinko machine generated it. Excellent news, and the only fair outcome.</p>
 
@@ -726,7 +762,7 @@
     <article data-published="2026-06-10T14:21:45Z" data-link="https://www.osnews.com/story/145259/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/">
       <h2>Eagle Computer: the rise and fall of an early PC clone</h2>
 
-(date: 2026-06-10, updated: 2026-06-14)
+(date: 2026-06-10, updated: 2026-06-15)
       <p>
       <p>When it comes to 80s computer brands, few flew as high as Eagle Computer flew in 1983. The aptly named company was selling 12,000 computers a month and had been doubling sales every quarter under the leadership of a talented CEO. Then Eagle lost its CEO, Dennis Barnhart, in a crashed Ferrari on the day of its IPO, June 8, 1983. In this blog post, we’ll explore the reasons Eagle Computer fell, because there was more to it than just the tragic story involving its CEO. ↫ Dave Farquhar Just one of the many early PC companies that died off, even if Eagle died off before many of the other big players. It must’ve been such a vibrant and fascinating time to be into PCs and computers in general at that time, with so many companies and players to choose from. Shame about the 308 GTS.</p>
 
@@ -875,7 +911,7 @@
     <article data-published="2026-06-09T20:40:07Z" data-link="https://www.osnews.com/story/145244/introducing-brand-new-osnews-merch-with-the-new-logo/">
       <h2>Introducing brand new OSNews merch with the new logo!</h2>
 
-(date: 2026-06-09, updated: 2026-06-14)
+(date: 2026-06-09, updated: 2026-06-15)
       <p>
       <p>A new logo means new merch! I’m launching brand new merch today, all featuring the brand new OSNews logo. We’ve got the classic T-shirt with the new OSNews logo, in sandy white and terrain grey. They’re made from sustainably-grown and processed cotton, come in a variety of sizes, and ship worldwide. The crowdpleaser is also making its triumphant return: the OSNews coffee mug, now also with the new logo and a green-on-white two-tone design. It holds coffee and tea, of course, but feel free to use it for whatever you want. Grow a plant in it! A newcomer is the OSNews Mousepad – a basic, no-nonsense, no-frills mousepad that does exactly what it’s supposed to do, in a classic square(ish) formfactor. It makes for a great companion to any (retro) setup, but feels particularly at home with BeOS and OS/2. One merch item remains from our previous collection: the ever-popular Gemini shirt and longsleeve, with a retro ASCII-art OSNews logo in bright green on deep black. It’s like staring at a real classic CRT. On your chest. Don’t sit too close. As always, every price is set so that for every item sold, roughly €8 goes to OSNews. I will add the proceeds to our fundraiser tracker, so this is yet another way to support us, together with Ko-Fi donations, SEPA direct bank transfers, and Patreon.</p>
 
@@ -1035,7 +1071,7 @@
     <article data-published="2026-06-08T21:26:33Z" data-link="https://www.osnews.com/story/145238/gentleos-is-a-love-letter-to-classic-operating-systems-with-a-lovely-retro-gui/">
       <h2>GentleOS is a love letter to classic operating systems with a lovely retro GUI</h2>
 
-(date: 2026-06-08, updated: 2026-06-14)
+(date: 2026-06-08, updated: 2026-06-15)
       <p>
       <p>In today’s climate, I needed this: GentleOS, an operating system targeting both 386 (GentleOS/32) and even processors as old as the 80186 (GentleOS/16), with a lovely retro graphical user interface, usable on bare metal, and, of course, open source. Its goal is to provide a simple platform for tinkering with retro hardware and running graphical interactive apps on bare metal. At minimum, it only requires an i386 CPU, 4MB of RAM, and a VGA display capable of 640x480x16 mode. By design it’s entirely monolithic, mostly configured at compile time, and only supports standard PC devices: VGA/SVGA, keyboard, PS/2 mouse, serial mouse, PC speaker. The only future plans are bugfixes, optimizations, and adding more apps. GentleOS/32 has a pure 16-bit spin-off called GentleOS/16, which targets devices as old as 80186. ↫ GentleOS GitHub page While it can be run on real hardware, you can also run it in Qemu to make it easier to test and play around with. It looks great, and the stated goal of just focusing on maintenance and possibly additional applications is music to my heart. With everything that’s going on in technology today, this is an ice-cold glass of tonic in a scorching, data center-infested desert.</p>
 
@@ -1083,7 +1119,7 @@
     <article data-published="2026-06-08T19:54:04Z" data-link="https://www.osnews.com/story/145236/apple-demos-macos-27-ios-27-eu-spared-apples-google-powered-ai-slop-features/">
       <h2>Apple demos macOS 27, iOS 27; EU spared Apple’s Google-powered “AI” slop features</h2>
 
-(date: 2026-06-08, updated: 2026-06-14)
+(date: 2026-06-08, updated: 2026-06-15)
       <p>
       <p>Apple’s developer conference started today, and as is tradition, this means it also announced coming updates to its operating systems lineup. macOS is probably one of the two major ones OSNews readers are interested in, so let’s start there: Much like Mac OS X Snow Leopard in 2009, Apple said it focused on improving macOS’s performance and dozens of underlying technologies this year. macOS Golden Gate has some Liquid Glass design changes. For example, apps now have a unified toolbar at the top, and the sidebar now expands to the edge of the window. A new slider on macOS 27 lets you customize the opacity of Liquid Glass. ↫ Joe Rossignol at MacRumors Effectively, a ton of “Liquid Glass” features touted only a year ago are being changed and fixed, which should make using Liquid Glass less of a frustrating affair. Of course, there’s a whole slew of new “AI” stuff built entirely on top of Google’s Gemini, but luckily for us Europeans, we won’t be getting those features because EU privacy and consumer protection regulations are too strict. Apple, one of the world’s most valuable companies, seemingly cannot create “AI” features that comply with some basic consumer protection legislation. As for the other major platform, that’s iOS of course. At WWDC 2026 in Cupertino, Apple announced iOS 27, the next mobile operating system for compatible iPhones. The update focuses on tweaking and improving last year’s iOS 26, particularly in areas like app launch time, Liquid Glass design, and more. It does not offer a lot of major new features or upgrades, as Apple focused on polishing the experience. However, there are some new upgrades, such as reworked parental controls, new Siri AI, better search, and performance improvements. ↫ Taras Buria at Neowin These new versions, as well as those of Apple’s other operating systems, will be available later this year.</p>
 
@@ -3626,18 +3662,6 @@
 
       <address>
         <a href="https://www.npr.org/2026/05/25/nx-s1-5833198/the-magic-and-science-of-synchronous-fireflies">https://www.npr.org/2026/05/25/nx-s1-5833198/the-magic-and-science-of-synchronous-fireflies</a>
-      </address>
-    </article>
-
-    <article data-published="2026-05-24T15:05:26Z" data-link="https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/">
-      <h2>Flatpak will depend on systemd</h2>
-
-(date: 2026-05-24, updated: 2026-05-31)
-      <p>
-      <p>If you visit the Flatpak website today, it lists, as the very first advantage of the project: “Build for every distro: create one app and distribute it to the entire Linux desktop market.” If you then move on to the list of supported distributions, you’ll see the usual suspects, but also distributions like Void Linux, Guix, and Alpine. These last three all have one thing in common: they use an init system other than systemd, because Flatpak doesn’t care what init system you use. It seems that for the next major version of Flatpak, however, that’s going to change: systemd will probably become a dependency for Flatpak. Speaking at the Linux App Summit, Arian Vovk and Sebastian Wick held a great talk about the future of Flatpak. The current version of Flatpak will continue to see a ton of improvements, but at the same time, the limits of what can be done with its decades-old design have become harder and harder to work around. As such, they’re also planning for and working on what they call Flatpak Next, or perhaps Flatpak 2.0, which is effectively a rewrite of Flatpak based on what they’ve learned over the years, making use of modern technologies and ideas that have gained ground since the initial design of Flatpak 1.x. It’s important to note that everything discussed during the talk is planning, and not a single line of code has been written yet. This means that all of these plans are subject to change, and as the work progresses over the coming years, the end result may turn out very different from what’s been detailed in the talk. In addition, and I can’t stress this enough: if anything in this discussion gives you even the smallest of inklings to go and harass, attack, insult, or otherwise bother anyone involved in Flatpak, systemd, or related technologies, please be so kind as to book an appointment for a yoga class or whatever. It seems like you need it. Right at the onset of the talk, Vovk and Wick explain that they want to move the permission management from Flatpak into the service layer, through a new service called systemd-appd. Systemd-appd gives applications an identifier and stores their permissions, and then this data can be queried by the rest of the system. In turn, this enables a slew of other features, not least of which is subsandboxing. At the moment, the plan is to introduce this feature in the current version of Flatpak, thereby introducing a dependency on systemd into Flatpak. From what I understand from Vovk, they were intending to be “super considerate” of distributions and people not using systemd, which I take to mean we’d eventually end up in a situation very similar to systemd-logind, which was extracted from systemd into a separate daemon, elogind, so that distributions using other init systems could still make use of desktop environments depending on systemd-logind. I imagine Flatpak developers wanted to make as many affordances as realistically possible for something similar to happen to systemd-appd, thus ensuring Flatpak would remain available on distributions not using systemd. Obviously, people who are using distributions like Void or Alpine were concerned about the future of Flatpak on their systems. If Flatpak gains a hard dependency on systemd, Flatpak would no longer work on distributions without systemd, so the talk raised questions – sadly, it seems the questions were directed at someone not technically involved with Flatpak development, and his replies were not particularly helpful and often just downright insulting and inflammatory. Even though he’s not involved in Flatpak development, enough people assumed that he was, and a toxic brew stirred. Users with genuine, friendly questions about the future of Flatpak on their systems were met with derision and insults, and it spiraled out of control from there, drawing in the rabid anti-systemd Red Hat conspiracy lunatics (and worse). Things got progressively worse for everyone involved, particularly for Flatpak’s developers. And so we ended up at the situation where everyone’s mad and Flatpak’s developers are “not feeling inclined to spend time on that shit anymore” when it comes to accommodating and making affordances for distributions and people not using systemd. The end result will most likely be that any future Flatpak dependency on systemd will be stricter, and making any independent elogind-like daemon will be much harder than it was going to be. Nobody wins, everybody loses, all because some people thought it necessary and productive to be insulting and inflammatory. As things currently stands, it’s very likely that over the coming years, Flatpak will gain a dependency on systemd, possibly without any affordances for an independent daemon to replicate systemd-appd functionality on distributions that do not use systemd. In other words, Flatpak would no longer be able to boast that it enables “Build for every distro: create one app and distribute it to the entire Linux desktop market.”, as it would no longer be distribution-agnostic. And that’s a shame, because Flatpak fills a real need for users, regardless of whatever init system they use. Which is apparently something some people base their entire identity on, because they’re weirdos.</p>
-
-      <address>
-        <a href="https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/">https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/</a>
       </address>
     </article>
   </main>

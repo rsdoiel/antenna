@@ -4,10 +4,150 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>14 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>15 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Historiallisia öitä : by Rafael Sabatini</title>
+      <link>https://www.gutenberg.org/ebooks/78860</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Valheen verkko : by Sidney Warwick</title>
+      <link>https://www.gutenberg.org/ebooks/78869</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Way to God and How to Find It by Dwight Lyman Moody</title>
+      <link>https://www.gutenberg.org/ebooks/30449</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Amphitryon : by Molière</title>
+      <link>https://www.gutenberg.org/ebooks/78857</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The story of the diamond necklace : by Henry Vizetelly</title>
+      <link>https://www.gutenberg.org/ebooks/78855</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Omoo: Adventures in the South Seas by Herman Melville</title>
+      <link>https://www.gutenberg.org/ebooks/4045</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Satukontti by Jalmari Finne</title>
+      <link>https://www.gutenberg.org/ebooks/78866</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Ritari Siniparta : by C. Georg  Starbäck</title>
+      <link>https://www.gutenberg.org/ebooks/78865</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Juvenilia : by Larin-Kyösti</title>
+      <link>https://www.gutenberg.org/ebooks/78859</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Valitut kertomukset by Larin-Kyösti</title>
+      <link>https://www.gutenberg.org/ebooks/78863</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Kariviittoja by Aatto Suppanen</title>
+      <link>https://www.gutenberg.org/ebooks/78862</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Blame it on Brother Bill by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78870</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tlingit myths and texts by John Reed Swanton</title>
+      <link>https://www.gutenberg.org/ebooks/78871</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Suokukka by Ferenc Herczeg</title>
+      <link>https://www.gutenberg.org/ebooks/78867</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Chautauqua Girls At Home by Pansy</title>
+      <link>https://www.gutenberg.org/ebooks/26742</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mumu : by Ivan Sergeevich Turgenev</title>
+      <link>https://www.gutenberg.org/ebooks/78864</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Ruumiin ikävä by Iris Uurto</title>
+      <link>https://www.gutenberg.org/ebooks/78858</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Ensi aste : by E. N.  Chirikov and Onni R. Hamara</title>
+      <link>https://www.gutenberg.org/ebooks/78856</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Konungen av X-land : by Ture Janson</title>
+      <link>https://www.gutenberg.org/ebooks/78861</link>
+      <description>
+        <![CDATA[Language: Swedish]]>
+      </description>
+      <source:markdown>Language: Swedish</source:markdown>
+    </item>    <item>
+      <title>Pikku Suometar : by E. Nervander</title>
+      <link>https://www.gutenberg.org/ebooks/78868</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
       <title>Jim Hanvey, detective by Octavus Roy Cohen</title>
       <link>https://www.gutenberg.org/ebooks/78848</link>
       <description>
@@ -316,7 +456,7 @@
         <![CDATA[An evangelical preacher shares his theological framework.]]>
       </description>
       <source:markdown>An evangelical preacher shares his theological framework.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/d-l-moody_the-way-to-god-and-how-to-find-it.epub?source=feed" length="621287" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/d-l-moody_the-way-to-god-and-how-to-find-it.epub?source=feed" length="621307" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it</guid>
     </item>    <item>
       <title>Peace in the wilderness by Marion Zimmer Bradley</title>
@@ -1242,76 +1382,6 @@
     </item>    <item>
       <title>Sweden : by Carl G.  Laurin</title>
       <link>https://www.gutenberg.org/ebooks/78746</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>An unmarried father : by Floyd Dell</title>
-      <link>https://www.gutenberg.org/ebooks/78732</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The huntress by Richard Rein Smith</title>
-      <link>https://www.gutenberg.org/ebooks/78737</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The master of destiny : by F. C.  Tilney</title>
-      <link>https://www.gutenberg.org/ebooks/78733</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Bevis: The Story of a Boy by Richard Jefferies</title>
-      <link>https://www.gutenberg.org/ebooks/35930</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Moby Word Lists by Grady Ward</title>
-      <link>https://www.gutenberg.org/ebooks/3201</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Tale of Mr. Jeremy Fisher by Beatrix Potter</title>
-      <link>https://www.gutenberg.org/ebooks/15077</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Tale of Peter Rabbit by Beatrix Potter</title>
-      <link>https://www.gutenberg.org/ebooks/14838</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Dethronements : by Laurence Housman</title>
-      <link>https://www.gutenberg.org/ebooks/78736</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The hand of Providence by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78735</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sparing the family tree by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78734</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
