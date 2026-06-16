@@ -4,10 +4,19 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Jun 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>16 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Alpine Linux 3.24 Features Fresh Desktops and a Newer Kernel</title>
+      <link>http://www.linux-magazine.com/Online/News/Alpine-Linux-3.24-Features-Fresh-Desktops-and-a-Newer-Kernel</link>
+      <description>
+        <![CDATA[<p>If you're a fan of Alpine Linux, it's time to upgrade because the latest version has been released with KDE Plasma 6.6, Gnome 50, and Linux kernel 6.18 LTS.</p>]]>
+      </description>
+      <source:markdown>If you&#39;re a fan of Alpine Linux, it&#39;s time to upgrade because the latest version has been released with KDE Plasma 6.6, Gnome 50, and Linux kernel 6.18 LTS.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://49c298e9a958062ec3797fb25a91bed7</guid>
+    </item>    <item>
       <title>ROOL&#39;s 20th bithday (and last week to get your donation matched)</title>
       <link>http://www.iconbar.com/comments/rss/news2343.html</link>
       <description>
@@ -850,7 +859,7 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
         
         The boot doesn't get far before running into a problem. Although the VPAC display is strictly character-oriented, it can still display various graphics. This flashing disk icon does not mean the system is loading, like, say, <a href="/2023/08/cracking-designwares-grammar-examiner.html">the DesignWare chirp</a> &mdash; it means there's a disk error.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzSLN5nw7fWa53Ty84iMNyplV9k09PL-rO8HAAuyAGnHHwdT1Cjdn_-nJBEChBCAc7JIu48x8PWmG99hbiSYw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxdA8sb_kvyYHit4H_gbcT5aQ7JduycrYfHIpHKpgGRw9TcnJCFyNS2aixKlsyVrzNgH3q9106lnktfR1yiwQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         The RX50 has a very characteristic sound when it loads, with a clicky motor unlike any other floppy disk drive, and you can hear it in this video trying very hard. But the DECmate II's ROMs never say die; they'll just keep trying until they get something.
         
@@ -2465,30 +2474,6 @@ Digital wasn&#39;t finished trying to make workstation versions of their servers
       </description>
       <source:markdown>The 7427 and the white 6502 have arrived and are showing off in the time period correct Jolt replica. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=21025</guid>
-    </item>    <item>
-      <title>NetHack 5.0.0 (includes DOS version)</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/05/nethack-500-includes-dos-version/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>NetHack 5.0 is an enhancement to the dungeon exploration game NetHack, which itself is a distant descendent of Rogue and Hack. NetHack 5.0 was released a few weeks ago, and includes some general architectural improvements to the game and to its build process. You can <a href="https://nethack.org/v500/release.html" rel="nofollow">read the announcement</a> or <a href="https://nethack.org/v500/downloads.html" rel="nofollow">download the new version</a> via the NetHack website.  Most importantly, the binary releases include a <a href="https://nethack.org/v500/ports/download-msdos.html" rel="nofollow">DOS version</a>.</p></div>]]>
-      </description>
-      <source:markdown>NetHack 5.0 is an enhancement to the dungeon exploration game NetHack, which itself is a distant descendent of Rogue and Hack. NetHack 5.0 was released a few weeks ago, and includes some general architectural improvements to the game and to its build process. You can [read the announcement](https://nethack.org/v500/release.html) or [download the new version](https://nethack.org/v500/downloads.html) via the NetHack website. Most importantly, the binary releases include a [DOS version](https://nethack.org/v500/ports/download-msdos.html).</source:markdown>
-      <guid>cid://https://sourceforge.net34b0959faf5fd73bccf1f0be8118fb7052c33b21</guid>
-    </item>    <item>
-      <title>b.log 2026/05/25 - Vide grenier, What am I?, Musings on dealing with EPROMs, Don&#39;t trust everything an AI tells you.</title>
-      <link>https://heyrick.eu/blog/entry/20260525</link>
-      <description>
-        <![CDATA[Vide grenier, What am I?, Musings on dealing with EPROMs, Don't trust everything an AI tells you.]]>
-      </description>
-      <source:markdown>Vide grenier, What am I?, Musings on dealing with EPROMs, Don&#39;t trust everything an AI tells you.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260525</guid>
-    </item>    <item>
-      <title>KIM-3B added to my collection</title>
-      <link>http://retro.hansotten.nl/kim-3b-added-to-my-collection/</link>
-      <description>
-        <![CDATA[A KIM-3B is a 8K bytes memory expansion made by MOS Technology (already part of Commodore then) for the KIM-4 motherboard. I recently acquired a good looking KIM-3B myself. Nothing new, all is already known about it. Now with photos made by myself! See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A [&#8230;]]]>
-      </description>
-      <source:markdown>A KIM-3B is a 8K bytes memory expansion made by MOS Technology (already part of Commodore then) for the KIM-4 motherboard. I recently acquired a good looking KIM-3B myself. Nothing new, all is already known about it. Now with photos made by myself! See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=21008</guid>
     </item>
   </channel>
 </rss>

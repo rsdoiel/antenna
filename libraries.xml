@@ -4,10 +4,41 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>15 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>16 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Academic Freedom for the Win; Open Access Mandate in Germany Declared Unconstitutional</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/16/academic-freedom-for-the-win-open-access-mandate-in-germany-declared-unconstitutional/</link>
+      <description>
+        <![CDATA[<p>A German court ruled against a mandatory article deposit requirement under Germany's "secondary publication right" (SPR). Whatever the intentions, SPR is mainly going to contribute to the degradation of the record of science. </p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/16/academic-freedom-for-the-win-open-access-mandate-in-germany-declared-unconstitutional/">Academic Freedom for the Win; Open Access Mandate in Germany Declared Unconstitutional</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>A German court ruled against a mandatory article deposit requirement under Germany&#39;s &#34;secondary publication right&#34; (SPR). Whatever the intentions, SPR is mainly going to contribute to the degradation of the record of science.
+
+The post [Academic Freedom for the Win; Open Access Mandate in Germany Declared Unconstitutional](https://scholarlykitchen.sspnet.org/2026/06/16/academic-freedom-for-the-win-open-access-mandate-in-germany-declared-unconstitutional/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62065</guid>
+    </item>    <item>
+      <title>ARL Daily Intelligence (June 15–18)</title>
+      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/</link>
+      <description>
+        <![CDATA[<p>Last Updated on June 15, 2026, 3:55 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/">ARL Daily Intelligence (June 15–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on June 15, 2026, 3:55 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+
+The post [ARL Daily Intelligence (June 15–18)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=48979</guid>
+    </item>    <item>
+      <title>Hot take: Learning from Google Scholar and why a tool does not need to be flawless to be useful</title>
+      <link>https://aarontay.substack.com/p/learning-from-google-scholar-and</link>
+      <description>
+        <![CDATA[What 2004 can teach us about 2024 &#8212; and the librarians who keep getting the lesson wrong]]>
+      </description>
+      <source:markdown>What 2004 can teach us about 2024 — and the librarians who keep getting the lesson wrong</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ciEX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0530b4d-0b78-4409-adee-31a9dd7e9389_1134x651.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/learning-from-google-scholar-and</guid>
+    </item>    <item>
       <title>Full Circle: Library Collaboration Leads to Significant DNA Data Storage Milestone</title>
       <link>https://blogs.loc.gov/thesignal/2026/06/dna-data-storage-milestone/</link>
       <description>
@@ -721,37 +752,6 @@ Stereotypically, when talking about references, we consider links to published w
 
 Close to half of all records registered with Crossref still have none or not enough reference information to make such connections. We invite members to regular [Metadata health-check webinars](https://www.crossref.org/events/metadata-health-check-webinars/) to support them in improving completeness of their records for increased transparency and visibility.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/two-billion-citation-links-in-crossref-help-research-travel-further/</guid>
-    </item>    <item>
-      <title>[Hot Take] AI Academic Search and the Missing Middle of Literature Discovery</title>
-      <link>https://aarontay.substack.com/p/ai-academic-search-and-the-missing</link>
-      <description>
-        <![CDATA[Is overly focusing on Undergraduate information literacy and evidence synthesis making us underestimate AI academic search tools?]]>
-      </description>
-      <source:markdown>Is overly focusing on Undergraduate information literacy and evidence synthesis making us underestimate AI academic search tools?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!80a7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1fa6744-ef93-4505-8cb1-927014a1c482_1678x937.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/ai-academic-search-and-the-missing</guid>
-    </item>    <item>
-      <title>Preprint: “Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources”</title>
-      <link>https://www.infodocket.com/2026/05/25/preprint-synthetic-sources-auditing-generative-search-engine-citations-for-evidence-of-ai-generated-sources/</link>
-      <description>
-        <![CDATA[<p>The preprint linked below was recently shared on arXiv. Title Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources Authors Mowafak Allaham Northwestern University Nicholas Diakopoulos Northwestern University Source via arXiv DOI: 10.48550/arXiv.2605.23684 Abstract The growing accessibility of Large Language Models via conversational interfaces capable of responding to users&#8217; questions by drawing [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/05/25/preprint-synthetic-sources-auditing-generative-search-engine-citations-for-evidence-of-ai-generated-sources/">Preprint: &#8220;Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>The preprint linked below was recently shared on arXiv. Title Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources Authors Mowafak Allaham Northwestern University Nicholas Diakopoulos Northwestern University Source via arXiv DOI: 10.48550/arXiv.2605.23684 Abstract The growing accessibility of Large Language Models via conversational interfaces capable of responding to users’ questions by drawing \[…\]
-
-The post [Preprint: “Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources”](https://www.infodocket.com/2026/05/25/preprint-synthetic-sources-auditing-generative-search-engine-citations-for-evidence-of-ai-generated-sources/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168065</guid>
-    </item>    <item>
-      <title>Off for the US Holiday — 10,000 Musical Memories Archived</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/05/25/off-for-the-us-holiday-10000-musical-memories-archived/</link>
-      <description>
-        <![CDATA[<p>We are out of office for the US holiday. In the meantime, maybe peruse a phenomenal new live music archive....</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/05/25/off-for-the-us-holiday-10000-musical-memories-archived/">Off for the US Holiday &#8212; 10,000 Musical Memories Archived</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>We are out of office for the US holiday. In the meantime, maybe peruse a phenomenal new live music archive....
-
-The post [Off for the US Holiday — 10,000 Musical Memories Archived](https://scholarlykitchen.sspnet.org/2026/05/25/off-for-the-us-holiday-10000-musical-memories-archived/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61998</guid>
     </item>
   </channel>
 </rss>

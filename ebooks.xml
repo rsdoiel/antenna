@@ -4,10 +4,108 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>15 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>16 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Omoo: Adventures in the South Seas by Herman Melville</title>
+      <link>https://www.gutenberg.org/ebooks/4045</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Chautauqua Girls At Home by Pansy</title>
+      <link>https://www.gutenberg.org/ebooks/26742</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Au Pays des Souvenirs : by Armand Silvestre</title>
+      <link>https://www.gutenberg.org/ebooks/78875</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Critical, Historical, and Miscellaneous Essays; Vol. 6 by Baron Thomas Babington Macaulay Macaulay</title>
+      <link>https://www.gutenberg.org/ebooks/55906</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Darwiniana; Essays and Reviews Pertaining to Darwinism by Asa Gray</title>
+      <link>https://www.gutenberg.org/ebooks/5273</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Book of Khalid by Ameen Fares Rihani</title>
+      <link>https://www.gutenberg.org/ebooks/29257</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Farmers of Forty Centuries; Or, Permanent Agriculture in China, Korea, and Japan by F. H.  King</title>
+      <link>https://www.gutenberg.org/ebooks/5350</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The divine and moral songs of Isaac Watts : by Wilbur Macey Stone</title>
+      <link>https://www.gutenberg.org/ebooks/78872</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jack Brag, vol. 3 (of 3) by Theodore Edward Hook</title>
+      <link>https://www.gutenberg.org/ebooks/78878</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Amphitryon by Molière</title>
+      <link>https://www.gutenberg.org/ebooks/2536</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Two English queens and Philip by Martin A. S.  Hume</title>
+      <link>https://www.gutenberg.org/ebooks/78876</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Clean crazy by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78877</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Clendenen&#39;s detective manual : by Rufus H. Clendenen</title>
+      <link>https://www.gutenberg.org/ebooks/78873</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Miss Polly Wiggles by Edna Clark Davis</title>
+      <link>https://www.gutenberg.org/ebooks/78874</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Historiallisia öitä : by Rafael Sabatini</title>
       <link>https://www.gutenberg.org/ebooks/78860</link>
       <description>
@@ -38,13 +136,6 @@
     </item>    <item>
       <title>The story of the diamond necklace : by Henry Vizetelly</title>
       <link>https://www.gutenberg.org/ebooks/78855</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Omoo: Adventures in the South Seas by Herman Melville</title>
-      <link>https://www.gutenberg.org/ebooks/4045</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -105,13 +196,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The Chautauqua Girls At Home by Pansy</title>
-      <link>https://www.gutenberg.org/ebooks/26742</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Mumu : by Ivan Sergeevich Turgenev</title>
       <link>https://www.gutenberg.org/ebooks/78864</link>
@@ -1312,76 +1396,6 @@
     </item>    <item>
       <title>Coffin for two by Winston K.  Marks</title>
       <link>https://www.gutenberg.org/ebooks/78749</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Stellar atmospheres : by Cecilia Payne-Gaposchkin</title>
-      <link>https://www.gutenberg.org/ebooks/73996</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The watchers by George H.  Smith</title>
-      <link>https://www.gutenberg.org/ebooks/78738</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The blacker the berry : by Wallace Thurman</title>
-      <link>https://www.gutenberg.org/ebooks/78747</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Four gates : by Amy Le Feuvre</title>
-      <link>https://www.gutenberg.org/ebooks/78742</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Topik : by Aristotle</title>
-      <link>https://www.gutenberg.org/ebooks/78739</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Specimens of the Russian poets, vol. 1 (of 2)</title>
-      <link>https://www.gutenberg.org/ebooks/78744</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Specimens of the Russian poets, vol. 2 (of 2)</title>
-      <link>https://www.gutenberg.org/ebooks/78745</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Harmonium by Wallace Stevens</title>
-      <link>https://www.gutenberg.org/ebooks/78743</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Royal Mint by George Frederick Ansell</title>
-      <link>https://www.gutenberg.org/ebooks/78741</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sweden : by Carl G.  Laurin</title>
-      <link>https://www.gutenberg.org/ebooks/78746</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
