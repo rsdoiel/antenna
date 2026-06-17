@@ -4,10 +4,101 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>16 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>17 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Time Machine by H. G.  Wells</title>
+      <link>https://www.gutenberg.org/ebooks/35</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Critical, Historical, and Miscellaneous Essays; Vol. 6 by Baron Thomas Babington Macaulay Macaulay</title>
+      <link>https://www.gutenberg.org/ebooks/55906</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Book of Khalid by Ameen Fares Rihani</title>
+      <link>https://www.gutenberg.org/ebooks/29257</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jack Brag, vol. 3 (of 3) by Theodore Edward Hook</title>
+      <link>https://www.gutenberg.org/ebooks/78878</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Clean crazy by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78877</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Varney the vampyre; or, the feast of blood by Thomas Peckett Prest and James Malcolm Rymer</title>
+      <link>https://www.gutenberg.org/ebooks/14833</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Unconquered : by Maud Diver</title>
+      <link>https://www.gutenberg.org/ebooks/78882</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Beowulf</title>
+      <link>https://www.gutenberg.org/ebooks/981</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Animals of ancient lands by Carroll Lane Fenton</title>
+      <link>https://www.gutenberg.org/ebooks/78879</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La storia di Girolamo Savonarola e de&#39; suoi tempi, volume 1 (of 2) by Pasquale Villari</title>
+      <link>https://www.gutenberg.org/ebooks/78880</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>La storia di Girolamo Savonarola e de&#39; suoi tempi, volume 2 (of 2) by Pasquale Villari</title>
+      <link>https://www.gutenberg.org/ebooks/78881</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>The man from the river : by G. D. H.  Cole and Margaret Cole</title>
+      <link>https://www.gutenberg.org/ebooks/78883</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The looker-on : by William Le Queux</title>
+      <link>https://www.gutenberg.org/ebooks/78884</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Omoo: Adventures in the South Seas by Herman Melville</title>
       <link>https://www.gutenberg.org/ebooks/4045</link>
       <description>
@@ -29,22 +120,8 @@
       </description>
       <source:markdown>Language: French</source:markdown>
     </item>    <item>
-      <title>Critical, Historical, and Miscellaneous Essays; Vol. 6 by Baron Thomas Babington Macaulay Macaulay</title>
-      <link>https://www.gutenberg.org/ebooks/55906</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Darwiniana; Essays and Reviews Pertaining to Darwinism by Asa Gray</title>
       <link>https://www.gutenberg.org/ebooks/5273</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Book of Khalid by Ameen Fares Rihani</title>
-      <link>https://www.gutenberg.org/ebooks/29257</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -64,13 +141,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Jack Brag, vol. 3 (of 3) by Theodore Edward Hook</title>
-      <link>https://www.gutenberg.org/ebooks/78878</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Amphitryon by Molière</title>
       <link>https://www.gutenberg.org/ebooks/2536</link>
       <description>
@@ -80,13 +150,6 @@
     </item>    <item>
       <title>Two English queens and Philip by Martin A. S.  Hume</title>
       <link>https://www.gutenberg.org/ebooks/78876</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Clean crazy by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78877</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -628,13 +691,6 @@
       <source:markdown>A well-to-do family cannot be civil to each other in front of their weekend guests.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/noel-coward_hay-fever.epub?source=feed" length="436348" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/noel-coward/hay-fever</guid>
-    </item>    <item>
-      <title>The Time Machine by H. G.  Wells</title>
-      <link>https://www.gutenberg.org/ebooks/35</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Phantastes: A Faerie Romance for Men and Women by George MacDonald</title>
       <link>https://www.gutenberg.org/ebooks/325</link>
@@ -1331,71 +1387,6 @@
     </item>    <item>
       <title>Six months in America, vol. 2 (of 2) by Godfrey Thomas Vigne</title>
       <link>https://www.gutenberg.org/ebooks/78758</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Short Fiction, by Catherine Louisa Pirkis</title>
-      <link>https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction</link>
-      <description>
-        <![CDATA[A collection of Catherine Louisa Pirkis’s short fiction.]]>
-      </description>
-      <source:markdown>A collection of Catherine Louisa Pirkis’s short fiction.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction/downloads/catherine-louisa-pirkis_short-fiction.epub?source=feed" length="721397" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction</guid>
-    </item>    <item>
-      <title>Four plays by A. A.  Milne</title>
-      <link>https://www.gutenberg.org/ebooks/78748</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Famous mystery stories</title>
-      <link>https://www.gutenberg.org/ebooks/78750</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The finding of Jasper Holt by Grace Livingston Hill</title>
-      <link>https://www.gutenberg.org/ebooks/78752</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Village by Ivan Alekseevich Bunin</title>
-      <link>https://www.gutenberg.org/ebooks/59981</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Web of steel by Cyrus Townsend Brady and Jr. Cyrus Townsend Brady</title>
-      <link>https://www.gutenberg.org/ebooks/78753</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Adventure Club with the fleet by Ralph Henry Barbour</title>
-      <link>https://www.gutenberg.org/ebooks/78754</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Silly asses by Isaac Asimov</title>
-      <link>https://www.gutenberg.org/ebooks/78751</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Coffin for two by Winston K.  Marks</title>
-      <link>https://www.gutenberg.org/ebooks/78749</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

@@ -4,10 +4,22 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>16 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>17 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>On Competence</title>
+      <link>https://johnaugust.com/2026/on-competence</link>
+      <description>
+        <![CDATA[<p>Why is it so satisfying to watch a highly-skilled character complete their goals? And why can it be equally hilarious to watch an incompetent character bumble through a slew of screw-ups? In this episode, John and Craig discuss how to play with competence in your characters. We also say goodbye to our producer Drew Marquardt [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/on-competence">On Competence</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>Why is it so satisfying to watch a highly-skilled character complete their goals? And why can it be equally hilarious to watch an incompetent character bumble through a slew of screw-ups? In this episode, John and Craig discuss how to play with competence in your characters. We also say goodbye to our producer Drew Marquardt \[…\]
+
+The post [On Competence](https://johnaugust.com/2026/on-competence) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/740.mp3" length="57120634" type="audio/mpeg" />
+      <guid>cid://https://johnaugust.com/?p=24004</guid>
+    </item>    <item>
       <title>What Does “Exclusive” Mean?</title>
       <link>https://www.authorsalliance.org/2026/06/11/what-does-exclusive-mean/</link>
       <description>
@@ -102,18 +114,6 @@ The post [Scriptnotes, Episode 736: The Devil You Know, Transcript](https://john
 
 The post [Scriptnotes, Episode 732: Something Very Bad is Going to Happen, Transcript](https://johnaugust.com/2026/scriptnotes-episode-732-something-very-bad-is-going-to-happen-transcript) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=23962</guid>
-    </item>    <item>
-      <title>Studio-Adjacent</title>
-      <link>https://johnaugust.com/2026/studio-adjacent</link>
-      <description>
-        <![CDATA[<p>John welcomes back Phil Hay (Destroyer, The Invitation) to ask, how do you get a movie made with independent financing? They look at how indie movies get made, where you get the money, deciding when to go indie, and whether streamers complicate the picture. We also follow up on testing movies with focus groups and [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/studio-adjacent">Studio-Adjacent</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John welcomes back Phil Hay (Destroyer, The Invitation) to ask, how do you get a movie made with independent financing? They look at how indie movies get made, where you get the money, deciding when to go indie, and whether streamers complicate the picture. We also follow up on testing movies with focus groups and \[…\]
-
-The post [Studio-Adjacent](https://johnaugust.com/2026/studio-adjacent) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/737standard.mp3" length="67744670" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23951</guid>
     </item>
   </channel>
 </rss>
