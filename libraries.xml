@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>17 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>18 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ask the Fellows: SSP’s 2026 Annual Meeting</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/</link>
+      <description>
+        <![CDATA[<p>Today, we offer reflections on the SSP Annual Meeting from our 2026 Fellowship cohort.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/">Ask the Fellows: SSP&#8217;s 2026 Annual Meeting</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today, we offer reflections on the SSP Annual Meeting from our 2026 Fellowship cohort.
+
+The post [Ask the Fellows: SSP’s 2026 Annual Meeting](https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62073</guid>
+    </item>    <item>
       <title>Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/</link>
       <description>
@@ -55,10 +66,10 @@ The post [Academic Freedom for the Win; Open Access Mandate in Germany Declared 
       <title>ARL Daily Intelligence (June 15–18)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/</link>
       <description>
-        <![CDATA[<p>Last Updated on June 16, 2026, 1:51 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on June 17, 2026, 3:42 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/">ARL Daily Intelligence (June 15–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on June 16, 2026, 1:51 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on June 17, 2026, 3:42 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (June 15–18)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48979</guid>
@@ -683,25 +694,6 @@ The post [Beyond the Article, Beyond the APC: What We Learned from 18 Months of 
       </description>
       <source:markdown>A case study with Sharon Leon, Co-CEO of the Corporation for Digital Scholarship (Digital Scholar)</source:markdown>
       <guid>cid://6a15e2d2ee259b0001ccfbd2</guid>
-    </item>    <item>
-      <title>Two Libraries, Two Sets of Superpowers: The Internet Archive and the NOAA Library</title>
-      <link>https://blog.archive.org/2026/05/27/two-libraries-two-sets-of-superpowers-the-internet-archive-and-the-noaa-library/</link>
-      <description>
-        <![CDATA[This is the story of two libraries supporting one another to ensure physical preservation and broad access to great research collections.&#160; The first is the NOAA Library, an institution that [&#8230;]]]>
-      </description>
-      <source:markdown>This is the story of two libraries supporting one another to ensure physical preservation and broad access to great research collections.  The first is the NOAA Library, an institution that \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30492</guid>
-    </item>    <item>
-      <title>The User Has Changed. Has Scholarly Publishing?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/05/27/the-user-has-changed-has-scholarly-publishing/</link>
-      <description>
-        <![CDATA[<p>For scholarly publishers, the user has changed faster than the systems designed to serve them, and the gap between the two is where most of the difficult work is happening. </p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/05/27/the-user-has-changed-has-scholarly-publishing/">The User Has Changed. Has Scholarly Publishing? </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>For scholarly publishers, the user has changed faster than the systems designed to serve them, and the gap between the two is where most of the difficult work is happening.
-
-The post [The User Has Changed. Has Scholarly Publishing?](https://scholarlykitchen.sspnet.org/2026/05/27/the-user-has-changed-has-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62001</guid>
     </item>
   </channel>
 </rss>

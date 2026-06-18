@@ -4,10 +4,101 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>17 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>18 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Varney the vampyre; or, the feast of blood by Thomas Peckett Prest and James Malcolm Rymer</title>
+      <link>https://www.gutenberg.org/ebooks/14833</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The man from the river : by G. D. H.  Cole and Margaret Cole</title>
+      <link>https://www.gutenberg.org/ebooks/78883</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The looker-on : by William Le Queux</title>
+      <link>https://www.gutenberg.org/ebooks/78884</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The flying buccaneer : by Jack Binns</title>
+      <link>https://www.gutenberg.org/ebooks/78892</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet</title>
+      <link>https://www.gutenberg.org/ebooks/1184</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Spanish Bayonet by Stephen Vincent Benét</title>
+      <link>https://www.gutenberg.org/ebooks/78890</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Eskimoleben by Fridtjof Nansen</title>
+      <link>https://www.gutenberg.org/ebooks/78886</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The Card, a Story of Adventure in the Five Towns by Arnold Bennett</title>
+      <link>https://www.gutenberg.org/ebooks/12986</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Observations on the geology, zoology and botany of Hudson&#39;s Strait and Bay, made in 1885 : by Bell</title>
+      <link>https://www.gutenberg.org/ebooks/78889</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Further memoirs of the Whig party, 1807-1821 : by Baron Henry Richard Vassall Holland</title>
+      <link>https://www.gutenberg.org/ebooks/78891</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The doctor&#39;s daughter by Catharine Shaw</title>
+      <link>https://www.gutenberg.org/ebooks/78887</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sunday sunshine</title>
+      <link>https://www.gutenberg.org/ebooks/78888</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>An island garden by Celia Thaxter</title>
+      <link>https://www.gutenberg.org/ebooks/78885</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The Time Machine by H. G.  Wells</title>
       <link>https://www.gutenberg.org/ebooks/35</link>
       <description>
@@ -38,13 +129,6 @@
     </item>    <item>
       <title>Clean crazy by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/78877</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Varney the vampyre; or, the feast of blood by Thomas Peckett Prest and James Malcolm Rymer</title>
-      <link>https://www.gutenberg.org/ebooks/14833</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -84,20 +168,6 @@
         <![CDATA[Language: Italian]]>
       </description>
       <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>The man from the river : by G. D. H.  Cole and Margaret Cole</title>
-      <link>https://www.gutenberg.org/ebooks/78883</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The looker-on : by William Le Queux</title>
-      <link>https://www.gutenberg.org/ebooks/78884</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Omoo: Adventures in the South Seas by Herman Melville</title>
       <link>https://www.gutenberg.org/ebooks/4045</link>
@@ -1280,113 +1350,6 @@
     </item>    <item>
       <title>Modern thinkers and present problems : by Edgar A.  Singer</title>
       <link>https://www.gutenberg.org/ebooks/78763</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Rover, by Joseph Conrad</title>
-      <link>https://standardebooks.org/ebooks/joseph-conrad/the-rover</link>
-      <description>
-        <![CDATA[A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.]]>
-      </description>
-      <source:markdown>A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rover/downloads/joseph-conrad_the-rover.epub?source=feed" length="494841" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-rover</guid>
-    </item>    <item>
-      <title>Sir Piegan passes by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78740</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Wieland; Or, The Transformation: An American Tale by Charles Brockden Brown</title>
-      <link>https://www.gutenberg.org/ebooks/792</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Poems of Philip Freneau, Poet of the American Revolution. Volume 1 (of 3) by Freneau</title>
-      <link>https://www.gutenberg.org/ebooks/38475</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Fairy Tales of Charles Perrault by Charles Perrault</title>
-      <link>https://www.gutenberg.org/ebooks/29021</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Crack o&#39; dawn by Fannie Stearns Davis</title>
-      <link>https://www.gutenberg.org/ebooks/78755</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sea urchins by W. W.  Jacobs</title>
-      <link>https://www.gutenberg.org/ebooks/21931</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Fire-Tongue by Sax Rohmer</title>
-      <link>https://www.gutenberg.org/ebooks/1159</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Van Zorn : by Edwin Arlington Robinson</title>
-      <link>https://www.gutenberg.org/ebooks/78762</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nuori nainen : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78760</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Olli Suurpää : by Eino Leino</title>
-      <link>https://www.gutenberg.org/ebooks/78759</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The sheriff of Sun-Dog by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78757</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sun-Dog trails by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78756</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Vogelalbum No. 1 by Karel Bernard Boedijn</title>
-      <link>https://www.gutenberg.org/ebooks/78761</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Six months in America, vol. 2 (of 2) by Godfrey Thomas Vigne</title>
-      <link>https://www.gutenberg.org/ebooks/78758</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

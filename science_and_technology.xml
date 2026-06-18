@@ -4,10 +4,173 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Jun 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>18 Jun 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/</link>
+      <description>
+        <![CDATA[The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands.  At Cannes Lions, running [&#8230;]]]>
+      </description>
+      <source:markdown>The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands.  At Cannes Lions, running \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/higgsfield-agent-workflow.mp4" length="20088657" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/KERV-metadata-motiongraphic-fix.mp4" length="4005880" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=94755</guid>
+    </item>    <item>
+      <title>Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/</link>
+      <description>
+        <![CDATA[Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get [&#8230;]]]>
+      </description>
+      <source:markdown>Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=94725</guid>
+    </item>    <item>
+      <title>Hubble Glimpses Merging Galaxy Clusters</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/</link>
+      <description>
+        <![CDATA[This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight. Researchers […]]]>
+      </description>
+      <source:markdown>This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight. Researchers \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/</guid>
+    </item>    <item>
+      <title>In June 1775, the American Patriots Faced Off With the British at the Battle of Bunker Hill. Archaeologists Are Uncovering Evidence of the Fighting 251 Years Later</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-june-1775-the-american-patriots-faced-off-with-the-british-at-the-battle-of-bunker-hill-archaeologists-are-uncovering-evidence-of-the-fighting-251-years-later-180988979/</link>
+      <description>
+        <![CDATA[Researchers discovered gun parts, musket balls and other artifacts in Boston's Charlestown neighborhood]]>
+      </description>
+      <source:markdown>Researchers discovered gun parts, musket balls and other artifacts in Boston&#39;s Charlestown neighborhood</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gVfJIeCwBq8ww5eKPVzY5IUn5Rs=/420x240/filters:focal(746x1295:747x1296)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/5a/3b5a3f32-3dc2-42a0-9c9b-b105467d5436/724858384_1407462574760635_2834599002815062206_n.jpg" length="272434" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-june-1775-the-american-patriots-faced-off-with-the-british-at-the-battle-of-bunker-hill-archaeologists-are-uncovering-evidence-of-the-fighting-251-years-later-180988979/</guid>
+    </item>    <item>
+      <title>Oracle Solaris 11.4 SRU93 released</title>
+      <link>https://www.osnews.com/story/145335/oracle-solaris-11-4-sru93-released/</link>
+      <description>
+        <![CDATA[Oracle is sticking to its promise of more regular Solaris updates with the release of Oracle Solaris 11.4 SRU93. This release, like other SRU releases, is for paying Solaris customers, as the CBE releases for enthusiasts are on a different cadence. With Solaris&#8217; focus being on enterprise server environments, it should come as no surprise that most of the changes and improvements are focused on things like enterprise networking and security, such as changes to how policy settings for the Kernel Crypto Framework (KCF) are stored, moving from using RPC over sockets instead of STREAMS, and more.  Of course, there&#8217;s also the long list of updated open source packages. SRU 93.221.2 updates a broad set of platform, runtime, developer, networking, desktop, and open source components. Notable updates include Apache Tomcat to 9.0.116, bash to 5.3 patch 9, BIND to 9.20.18 and 9.20.21, Django 4.2 to 4.2.30, Django 5.2 to 5.2.13, Firefox to 140.8.0esr, Golang to 1.25.8, Node.js 20 to 20.20.2, Node.js 22 to 22.22.2, Node.js 24 to 24.14.1, NSS to 3.119.1, Perl to 5.42, Python 3.11 to 3.11.15, Python 3.13 to 3.13.12, RabbitMQ to 4.2.4, Thunderbird to 140.8.0esr, vim to 9.2.0340, and zlib to 1.3.2. Additional updates include development tools, Python modules, X11 utilities, printing components, libraries, cryptographic packages, networking tools, and desktop-related packages. ↫ Colin Kavanagh at the Oracle Solaris Blog Existing Oracle Solaris customers can update to the new release through pkg update.]]>
+      </description>
+      <source:markdown>Oracle is sticking to its promise of more regular Solaris updates with the release of Oracle Solaris 11.4 SRU93. This release, like other SRU releases, is for paying Solaris customers, as the CBE releases for enthusiasts are on a different cadence. With Solaris’ focus being on enterprise server environments, it should come as no surprise that most of the changes and improvements are focused on things like enterprise networking and security, such as changes to how policy settings for the Kernel Crypto Framework (KCF) are stored, moving from using RPC over sockets instead of STREAMS, and more.  Of course, there’s also the long list of updated open source packages. SRU 93.221.2 updates a broad set of platform, runtime, developer, networking, desktop, and open source components. Notable updates include Apache Tomcat to 9.0.116, bash to 5.3 patch 9, BIND to 9.20.18 and 9.20.21, Django 4.2 to 4.2.30, Django 5.2 to 5.2.13, Firefox to 140.8.0esr, Golang to 1.25.8, Node.js 20 to 20.20.2, Node.js 22 to 22.22.2, Node.js 24 to 24.14.1, NSS to 3.119.1, Perl to 5.42, Python 3.11 to 3.11.15, Python 3.13 to 3.13.12, RabbitMQ to 4.2.4, Thunderbird to 140.8.0esr, vim to 9.2.0340, and zlib to 1.3.2. Additional updates include development tools, Python modules, X11 utilities, printing components, libraries, cryptographic packages, networking tools, and desktop-related packages. ↫ Colin Kavanagh at the Oracle Solaris Blog Existing Oracle Solaris customers can update to the new release through pkg update.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145335</guid>
+    </item>    <item>
+      <title>France Advances Europe’s AI Future With NVIDIA Technologies</title>
+      <link>https://blogs.nvidia.com/blog/france-advances-europes-ai-future/</link>
+      <description>
+        <![CDATA[A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem [&#8230;]]]>
+      </description>
+      <source:markdown>A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=94747</guid>
+    </item>    <item>
+      <title>El Niño Is Underway</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/</link>
+      <description>
+        <![CDATA[Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.]]>
+      </description>
+      <source:markdown>Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/</guid>
+    </item>    <item>
+      <title>Android 17 released for Pixel devices with very few interesting improvements</title>
+      <link>https://www.osnews.com/story/145329/android-17-released-for-pixel-devices-with-very-few-interesting-improvements/</link>
+      <description>
+        <![CDATA[Yesterday, Google released Android 17 to Pixel devices, so late last night I updated my Pixel 10 Pro with the intent to write a news item about the release today. The reality is that that I totally forgot I even upgraded last night, because Android 17 is about the biggest nothingburger I&#8217;ve ever seen. Virtually all of the new features listed in the upgrade blurb on my phone were &#8220;AI&#8221; nonsense I don&#8217;t encounter, so over the course of the day, I didn&#8217;t really notice anything new about my phone&#8217;s operating system. The only interesting feature that I think will be particularly useful on tablets and perhaps foldable devices is something called &#8220;App Bubbles&#8221;. Basically, you can turn any application into an overlay that can be minimised into a bubble, which then lives anywhere on your screen. Tap it, and you can maximise the overlay again. This little multitasking bubble can contain multiple applications, effectively making it a dock or taskbar. Neat, but I didn&#8217;t see much use for it on my phone. The remainder of the new non-&#8220;AI&#8221; features are hard to spot, at best. I guess the ability to turn one half of a foldable display into a gamepad is neat if you can deal with gaming on glass buttons (I cannot), and the changes to location access (you can now grant it for just one time) and contacts access (it&#8217;s more fine-grained and temporary now instead of granting access to everything forever) are welcome, but that&#8217;s about it for user-facing features. Under the hood, the one thing that stands out is that Google is enforcing stricter memory limits for applications, based on how much RAM a device has. The idea is that this should prevent memory leaks from getting out of control and leading to crashes, which is nice, especially for devices with less RAM. Android 17 is available for Pixel devices now, and will probably find its way to non-Pixel devices over the coming months or years. With how little meat there is on Android 17&#8217;s bones, this might be the first release where Android&#8217;s update woes don&#8217;t really matter.]]>
+      </description>
+      <source:markdown>Yesterday, Google released Android 17 to Pixel devices, so late last night I updated my Pixel 10 Pro with the intent to write a news item about the release today. The reality is that that I totally forgot I even upgraded last night, because Android 17 is about the biggest nothingburger I’ve ever seen. Virtually all of the new features listed in the upgrade blurb on my phone were “AI” nonsense I don’t encounter, so over the course of the day, I didn’t really notice anything new about my phone’s operating system. The only interesting feature that I think will be particularly useful on tablets and perhaps foldable devices is something called “App Bubbles”. Basically, you can turn any application into an overlay that can be minimised into a bubble, which then lives anywhere on your screen. Tap it, and you can maximise the overlay again. This little multitasking bubble can contain multiple applications, effectively making it a dock or taskbar. Neat, but I didn’t see much use for it on my phone. The remainder of the new non-“AI” features are hard to spot, at best. I guess the ability to turn one half of a foldable display into a gamepad is neat if you can deal with gaming on glass buttons (I cannot), and the changes to location access (you can now grant it for just one time) and contacts access (it’s more fine-grained and temporary now instead of granting access to everything forever) are welcome, but that’s about it for user-facing features. Under the hood, the one thing that stands out is that Google is enforcing stricter memory limits for applications, based on how much RAM a device has. The idea is that this should prevent memory leaks from getting out of control and leading to crashes, which is nice, especially for devices with less RAM. Android 17 is available for Pixel devices now, and will probably find its way to non-Pixel devices over the coming months or years. With how little meat there is on Android 17’s bones, this might be the first release where Android’s update woes don’t really matter.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145329</guid>
+    </item>    <item>
+      <title>NASA Announces Public-Private Partnership to Advance Mars Science</title>
+      <link>https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/</link>
+      <description>
+        <![CDATA[NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA’s growing commitment [&#8230;]]]>
+      </description>
+      <source:markdown>NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA’s growing commitment \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1007255</guid>
+    </item>    <item>
+      <title>Hidden Tunnels Dating Back to Henry VIII&#39;s Reign Were Discovered at This English Boarding School, Where the King Once Lived</title>
+      <link>https://www.smithsonianmag.com/smart-news/hidden-tunnels-dating-back-to-henry-viiis-reign-were-discovered-at-english-boarding-school-New-Hall-School-where-the-king-once-lived-180988965/</link>
+      <description>
+        <![CDATA[Bones, bottles and pottery were found at the New Hall School, which was once Henry VIII's Palace of Beaulieu. Before that, Anne Boleyn's father owned the estate]]>
+      </description>
+      <source:markdown>Bones, bottles and pottery were found at the New Hall School, which was once Henry VIII&#39;s Palace of Beaulieu. Before that, Anne Boleyn&#39;s father owned the estate</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9mIW5j2EVpUsp_gqN8mhqYXTLuA=/420x240/filters:focal(1137x758:1138x759)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/cc/53cc8003-4c4a-4ca2-80f0-47092cf08fa1/screenshot_2026-06-16_at_90218am.jpeg" length="2968908" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/hidden-tunnels-dating-back-to-henry-viiis-reign-were-discovered-at-english-boarding-school-New-Hall-School-where-the-king-once-lived-180988965/</guid>
+    </item>    <item>
+      <title>Scientists Discover a New Species of &#39;Walking&#39; Shark in Papua New Guinea. They Suspect It&#39;s at Risk of Going Extinct</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-discover-a-new-species-of-walking-shark-in-papua-new-guinea-they-suspect-its-at-risk-of-going-extinct-180988977/</link>
+      <description>
+        <![CDATA[The creature belongs to a unique group of sharks whose members can use their strong pectoral fins like legs to get around]]>
+      </description>
+      <source:markdown>The creature belongs to a unique group of sharks whose members can use their strong pectoral fins like legs to get around</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/m37uEg19RqXoG19AHIHiQAIE1Rw=/420x240/filters:focal(2644x1763:2645x1764)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/33/7433b20b-f03d-4524-8f6d-78ff2c48f8b8/h_dudgeonae_photo_mark_erdmann.jpg" length="13409015" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-discover-a-new-species-of-walking-shark-in-papua-new-guinea-they-suspect-its-at-risk-of-going-extinct-180988977/</guid>
+    </item>    <item>
+      <title>Search for Hidden Cosmic Companions in Sun’s Backyard</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/</link>
+      <description>
+        <![CDATA[Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Ages of astronomical objects are often hard to measure, but essential for understanding […]]]>
+      </description>
+      <source:markdown>Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Ages of astronomical objects are often hard to measure, but essential for understanding \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/</guid>
+    </item>    <item>
+      <title>Archaeologists Unearth Hundreds of Artifacts at Fort Ticonderoga, the Site of America&#39;s First Offensive Victory of the Revolutionary War</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-hundreds-of-artifacts-at-fort-ticonderoga-the-site-of-americas-first-offensive-victory-of-the-revolutionary-war-180988971/</link>
+      <description>
+        <![CDATA[The objects were discovered on Liberty Hill, the place where many Continental Army soldiers heard the text of the Declaration of Independence for the first time]]>
+      </description>
+      <source:markdown>The objects were discovered on Liberty Hill, the place where many Continental Army soldiers heard the text of the Declaration of Independence for the first time</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0Ujde5hccv-ErflBiUp2McYFBEM=/420x240/filters:focal(3480x2320:3481x2321)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/36/9e/369ed5a5-a15b-4fcf-b785-a403b9771173/2026_05_12_americanveteransarchaeologicalrecovery_032.jpg" length="21459864" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-unearth-hundreds-of-artifacts-at-fort-ticonderoga-the-site-of-americas-first-offensive-victory-of-the-revolutionary-war-180988971/</guid>
+    </item>    <item>
+      <title>For Its Birthday, the U.S. Will Give Americans of the Future a 900-Pound Time Capsule Filled With Art, Natural Treasures and a Clever Copy of the Declaration of Independence</title>
+      <link>https://www.smithsonianmag.com/smart-news/indigenous-art-an-eagle-feather-and-a-3d-rendering-of-abraham-lincolns-hand-see-the-items-just-sealed-in-americas-time-capsule-180988973/</link>
+      <description>
+        <![CDATA[The capsule was created and filled at the direction of Congress, through the America250 commission. It will be interred beneath an original sculpture on July 4]]>
+      </description>
+      <source:markdown>The capsule was created and filled at the direction of Congress, through the America250 commission. It will be interred beneath an original sculpture on July 4</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/c8MGuIhc0xRe4VZF-kbHQ_mUVII=/420x240/filters:focal(2808x1872:2809x1873)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/18/f6181bc9-999b-4f78-944b-402b4905ae69/nist-a250-time-capsule-003.jpeg" length="6462279" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/indigenous-art-an-eagle-feather-and-a-3d-rendering-of-abraham-lincolns-hand-see-the-items-just-sealed-in-americas-time-capsule-180988973/</guid>
+    </item>    <item>
+      <title>NASA’s Fermi Mission Uncovers Possible Sibling Supernova Remnants</title>
+      <link>https://science.nasa.gov/missions/fermi/nasas-fermi-sibling-supernova-remnants/</link>
+      <description>
+        <![CDATA[A new study of two supernova remnants, the debris left behind after stars explode, suggests the explosions came from stellar siblings that once orbited each other. The first star’s detonation sent its binary companion hurtling through space, and then, after traveling for thousands of years, the surviving star blew up too.]]>
+      </description>
+      <source:markdown>A new study of two supernova remnants, the debris left behind after stars explode, suggests the explosions came from stellar siblings that once orbited each other. The first star’s detonation sent its binary companion hurtling through space, and then, after traveling for thousands of years, the surviving star blew up too.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/fermi/nasas-fermi-sibling-supernova-remnants/</guid>
+    </item>    <item>
+      <title>Male Bowerbirds in Australian Cities Are Turning Human Trash Into Treasure to Impress Potential Mates</title>
+      <link>https://www.smithsonianmag.com/smart-news/male-bowerbirds-in-australian-cities-are-turning-human-trash-into-treasure-to-impress-potential-mates-180988969/</link>
+      <description>
+        <![CDATA[Even rural birds prefer human-made objects, such as colored glass and wire, when given the choice between them and natural decorations, like leaves and shells, according to a new study]]>
+      </description>
+      <source:markdown>Even rural birds prefer human-made objects, such as colored glass and wire, when given the choice between them and natural decorations, like leaves and shells, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/k_-W9mVxjDsNQA6e1IbzawRDk5A=/420x240/filters:focal(648x352:649x353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/97/6197d897-e8a0-42cc-9706-109b6ad0136c/untitled.jpg" length="383133" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/male-bowerbirds-in-australian-cities-are-turning-human-trash-into-treasure-to-impress-potential-mates-180988969/</guid>
+    </item>    <item>
+      <title>Hubble Sees Swarm of Galaxies</title>
+      <link>https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/</link>
+      <description>
+        <![CDATA[Looking somewhat like a swarm of bees returning to their hive, this NASA&#160;Hubble Space Telescope&#160;image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the [&#8230;]]]>
+      </description>
+      <source:markdown>Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1005934</guid>
+    </item>    <item>
+      <title>Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?</title>
+      <link>https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/</link>
+      <description>
+        <![CDATA[A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle.            <p>The post <a href="https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/" target="_blank">Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle.
+
+The post [Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?](https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=163183</guid>
+    </item>    <item>
+      <title>This &#39;Practice-Changing&#39; Gene Test Could Tell Doctors Which Patients With Breast Cancer Can Skip Chemo, Clinical Trial Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-practice-changing-gene-test-could-tell-doctors-which-patients-with-breast-cancer-can-skip-chemo-clinical-trial-suggests-180988957/</link>
+      <description>
+        <![CDATA[Chemotherapy comes with debilitating side effects, including brain fog, nausea and nerve damage. New research suggests that many people with a common type of breast cancer need just radiation and hormone therapy to prevent recurrence]]>
+      </description>
+      <source:markdown>Chemotherapy comes with debilitating side effects, including brain fog, nausea and nerve damage. New research suggests that many people with a common type of breast cancer need just radiation and hormone therapy to prevent recurrence</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7EcAt73q-RaLH9bm_4O8nPA2ur8=/420x240/filters:focal(3950x2633:3951x2634)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/e9/2ae9b169-f8f2-4449-a2c9-88b47c8ed527/patient-getting-chemotherapy-treatment.jpg" length="17490501" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-practice-changing-gene-test-could-tell-doctors-which-patients-with-breast-cancer-can-skip-chemo-clinical-trial-suggests-180988957/</guid>
+    </item>    <item>
       <title>Is sewage the future of green aviation?</title>
       <link>https://www.npr.org/2026/06/17/nx-s1-5814725/is-sewage-the-future-of-green-aviation</link>
       <description>
@@ -2644,214 +2807,6 @@ The post [How We See the Beautiful, Violent Sun](https://www.quantamagazine.org/
       </description>
       <source:markdown>Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/</guid>
-    </item>    <item>
-      <title>The exemptions in age-verification laws for open source operating systems are bad, actually</title>
-      <link>https://www.osnews.com/story/145126/the-exemptions-in-age-verification-laws-for-open-source-operating-systems-are-bad-actually/</link>
-      <description>
-        <![CDATA[We&#8217;ve talked about the various age verification laws in the United States, and there&#8217;s been a development recently that a lot of people seem to think is a good thing: both the age verification laws in California and Colorado have received exemptions for open source operating systems. I fail to see how this is a good thing, and luckily, I don&#8217;t even have to explain why because Liam Squires-Hand from GamingOnLinux already did it for me. When all these laws get stamped and approved, what happens when you run an operating system (let&#8217;s say Fedora or Ubuntu) and some web service or application is forced to do age checking and verification (or they face massive fines). Unless Linux distributions / desktop environments do end up implementing something that correctly adheres to these laws, what do you think will happen? Those services / apps could very likely just entirely block Linux in certain regions &#8211; or even all regions if it&#8217;s Linux to prevent any issues for them. ↫ Liam Squires-Hand at GamingOnLinux That&#8217;s the core of it, right there. These nebulous exemptions are not solutions; they&#8217;re barely even band-aids. Windows, macOS, iOS, and Android will implement whatever fascist anti-privacy age-verification nonsense governments can come up with, and virtually all services and applications that need to implement support for it will just follow along as well. Do you really think they&#8217;re going to craft exceptions for the few percent of their users running Linux? The past three decades of computing history has made it very clear that no, they will not. But the exceptions have already achieved their goal: the Linux world is happy and lulled right back into a sense of complacency. What could possibly go wrong?]]>
-      </description>
-      <source:markdown>We’ve talked about the various age verification laws in the United States, and there’s been a development recently that a lot of people seem to think is a good thing: both the age verification laws in California and Colorado have received exemptions for open source operating systems. I fail to see how this is a good thing, and luckily, I don’t even have to explain why because Liam Squires-Hand from GamingOnLinux already did it for me. When all these laws get stamped and approved, what happens when you run an operating system (let’s say Fedora or Ubuntu) and some web service or application is forced to do age checking and verification (or they face massive fines). Unless Linux distributions / desktop environments do end up implementing something that correctly adheres to these laws, what do you think will happen? Those services / apps could very likely just entirely block Linux in certain regions – or even all regions if it’s Linux to prevent any issues for them. ↫ Liam Squires-Hand at GamingOnLinux That’s the core of it, right there. These nebulous exemptions are not solutions; they’re barely even band-aids. Windows, macOS, iOS, and Android will implement whatever fascist anti-privacy age-verification nonsense governments can come up with, and virtually all services and applications that need to implement support for it will just follow along as well. Do you really think they’re going to craft exceptions for the few percent of their users running Linux? The past three decades of computing history has made it very clear that no, they will not. But the exceptions have already achieved their goal: the Linux world is happy and lulled right back into a sense of complacency. What could possibly go wrong?</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145126</guid>
-    </item>    <item>
-      <title>Gemini, gophers, and fingers: alternative internets beyond HTTPS</title>
-      <link>https://www.osnews.com/story/145124/gemini-gophers-and-fingers-alternative-internets-beyond-https/</link>
-      <description>
-        <![CDATA[But what I want to write about today are three protocols that have their own ecosystems, their own communities, and their own aesthetics. finger://, gopher://, and gemini://. Two predate the World Wide Web entirely, but one was created in 2019, the same year the first black hole photograph circled the planet. None of them require a GUI. None of them require JavaScript. All three of them run in a terminal. ↫ Brennan Day I ran an OSNews Gemini capsule from my office for quite a while, but managing it from my own workstation computer became a little annoying and cumbersome. I should take a weekend off at some point and devise an easy way to convert our RSS feed into separate files for Gopher and Gemini and serve them from my Proxmox mini PC, if only to do my part in contributing to the success of independent protocols.]]>
-      </description>
-      <source:markdown>But what I want to write about today are three protocols that have their own ecosystems, their own communities, and their own aesthetics. finger://, gopher://, and gemini://. Two predate the World Wide Web entirely, but one was created in 2019, the same year the first black hole photograph circled the planet. None of them require a GUI. None of them require JavaScript. All three of them run in a terminal. ↫ Brennan Day I ran an OSNews Gemini capsule from my office for quite a while, but managing it from my own workstation computer became a little annoying and cumbersome. I should take a weekend off at some point and devise an easy way to convert our RSS feed into separate files for Gopher and Gemini and serve them from my Proxmox mini PC, if only to do my part in contributing to the success of independent protocols.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145124</guid>
-    </item>    <item>
-      <title>NASA Develops Sensor to Improve Firefighter Safety</title>
-      <link>https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/</link>
-      <description>
-        <![CDATA[With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. In April, researchers and [&#8230;]]]>
-      </description>
-      <source:markdown>With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. In April, researchers and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1000134</guid>
-    </item>    <item>
-      <title>How Do You Honor a Fallen Tree? In England, a Sound Sculpture Will Broadcast the &#39;Voice&#39; of a Beloved Sycamore Felled Near Hadrian’s Wall</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-do-you-honor-a-fallen-tree-in-england-a-sound-sculpture-will-broadcast-the-voice-of-a-beloved-sycamore-felled-near-hadrians-wall-180988832/</link>
-      <description>
-        <![CDATA["The People’s Tree" will also incorporate the tree's wood and archive recordings from the public in a series of community artworks]]>
-      </description>
-      <source:markdown>&#34;The People’s Tree&#34; will also incorporate the tree&#39;s wood and archive recordings from the public in a series of community artworks</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-9cWgUdpxg4MnQkTEjnbD5Jkz8Y=/420x240/filters:focal(2131x1461:2132x1462)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/55/e655452d-b48c-4104-ba77-1f589e73ddf4/view_towards_the_sycamore_gap_tree_on_hadrians_wall_in_northumberland_before_it_was_illegally.jpg" length="3281199" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/how-do-you-honor-a-fallen-tree-in-england-a-sound-sculpture-will-broadcast-the-voice-of-a-beloved-sycamore-felled-near-hadrians-wall-180988832/</guid>
-    </item>    <item>
-      <title>NASA Unveils New Details About the Future Moon Base and the Missions Laying the Groundwork to Build It</title>
-      <link>https://www.smithsonianmag.com/smart-news/nasa-unveils-new-details-about-the-future-moon-base-and-the-missions-laying-the-groundwork-to-build-it-180988837/</link>
-      <description>
-        <![CDATA[The first three missions are targeted to launch this year. They’ll involve lunar landers developed by several aerospace companies, including Blue Origin, and deliver scientific instruments and a rover]]>
-      </description>
-      <source:markdown>The first three missions are targeted to launch this year. They’ll involve lunar landers developed by several aerospace companies, including Blue Origin, and deliver scientific instruments and a rover</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TVO564Kt5Qif9CFAG9Ek8sOZv1k=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/1b/921b2425-85b7-4088-b2ed-563c8de8fcd8/nhq202605260002.webp" length="2786456" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/nasa-unveils-new-details-about-the-future-moon-base-and-the-missions-laying-the-groundwork-to-build-it-180988837/</guid>
-    </item>    <item>
-      <title>Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft</title>
-      <link>https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/</link>
-      <description>
-        <![CDATA[The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.]]>
-      </description>
-      <source:markdown>The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/</guid>
-    </item>    <item>
-      <title>See the Stunning Medieval Manuscript Telling Tales of King Arthur, in Ink and Polished Gold, That&#39;s Headed to Auction</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-medieval-manuscript-telling-tales-of-king-arthur-in-ink-and-polished-gold-thats-headed-to-auction-180988835/</link>
-      <description>
-        <![CDATA[The manuscript was made by a skilled, anonymous artist between 1290 and 1310. It's the oldest of only three privately owned Vulgate Cycle manuscripts]]>
-      </description>
-      <source:markdown>The manuscript was made by a skilled, anonymous artist between 1290 and 1310. It&#39;s the oldest of only three privately owned Vulgate Cycle manuscripts</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lmv98PBXoTrfCEA4wR5UPwfWK-I=/420x240/filters:focal(1176x786:1177x787)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/91/9d/919da3b2-5d05-4073-914c-c09b91571971/holy_grail_christies_valuable_books__manuscripts_8.jpeg" length="1072095" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-medieval-manuscript-telling-tales-of-king-arthur-in-ink-and-polished-gold-thats-headed-to-auction-180988835/</guid>
-    </item>    <item>
-      <title>La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar</title>
-      <link>https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/</link>
-      <description>
-        <![CDATA[Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer [&#8230;]]]>
-      </description>
-      <source:markdown>Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=999935</guid>
-    </item>    <item>
-      <title>In 1776, Angry New Yorkers Tore Down a Statue of George III With a Revolutionary Fervor. A New Exhibition Lets You Do It, Too</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-1776-angry-new-yorkers-tore-down-a-statue-of-george-iii-with-a-revolutionary-fervor-a-new-exhibition-lets-you-do-it-too-180988830/</link>
-      <description>
-        <![CDATA[New York City played a pivotal role in the American Revolution. This museum brings the city's 18th-century history to life through artifacts, immersive environments and interactive experiences]]>
-      </description>
-      <source:markdown>New York City played a pivotal role in the American Revolution. This museum brings the city&#39;s 18th-century history to life through artifacts, immersive environments and interactive experiences</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dCfbo377EgHS3XmCqqHLI_54iSs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/e4/cee42b31-1ef5-4563-ab1e-e5c28b2cb708/george-iii-statue.jpg" length="466340" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-1776-angry-new-yorkers-tore-down-a-statue-of-george-iii-with-a-revolutionary-fervor-a-new-exhibition-lets-you-do-it-too-180988830/</guid>
-    </item>    <item>
-      <title>Microsoft tries to obscure “AI” features behind flowery design language</title>
-      <link>https://www.osnews.com/story/145120/microsoft-tries-to-obscure-ai-features-behind-flowery-design-language/</link>
-      <description>
-        <![CDATA[Now that my one-month sentence of using Windows 11 has begun (you can follow along!), I&#8217;m also a bit more perceptive of news and developments regardingMicrosoft&#8217;s latest and greatest operating system version. Despite claims to the contrary, we already know the company isn&#8217;t really removing &#8220;AI&#8221; features from Windows, merely renaming them instead, but it turns out they&#8217;re planning something more all encompassing: the Copilot Design System. Long-time Microsoft veteran Jon Friedman published a blog post introducing this new concept. As Copilot steadily evolves into a thought partner—an intelligent presence woven into your workflow—its backbone will become the Copilot Design System, an AI-forward design system we’re crafting to feel intentional and humane.  From orchestration patterns to iconography, the experience we’re building will ultimately have components that work together to amplify thinking, guide decisions, and unlock creativity—seamlessly, wherever you work. Anchored in customer feedback around creating better experiences, a fundamental question guides our system’s evolution: how would a thoughtful partner look and behave? ↫ Jon Friedman at Microsoft&#8217;s design blog I&#8217;ve read the whole post and I still have no idea what most of it is supposed to mean in practice. It feels like the written equivalent of someone trying to put lipstick on a pig, and pretty much anyone is going to see right through the fancy words and phrases and realise what we&#8217;re really dealing with here: a company trying to figure out just how far they can shove &#8220;AI&#8221; down your throat before you gag reflex kicks in. You can hide behind flowery language all you want, but if you&#8217;re selling shit, it&#8217;s going to stink regardless. The only concrete user interface idea that&#8217;s come out of this Copilot Design System was a floating Copilot button that permanently floated on top of your workspace area in Word, Excel, and so on, obscuring the actual things you were working on. Users hated it so much that Microsoft had to quickly release what is essentially a hotfix to give people the ability to remove that floating button, putting it in a toolbar instead. Like I said: people see right through these thinly-veiled attempts at baiting them into using your pachinko machine. Anyway, yes, I&#8217;m working from Windows 11 now, just as you people paid me to do. Here&#8217;s the proof: Only 30 days left to go. I can do this.]]>
-      </description>
-      <source:markdown>Now that my one-month sentence of using Windows 11 has begun (you can follow along!), I’m also a bit more perceptive of news and developments regardingMicrosoft’s latest and greatest operating system version. Despite claims to the contrary, we already know the company isn’t really removing “AI” features from Windows, merely renaming them instead, but it turns out they’re planning something more all encompassing: the Copilot Design System. Long-time Microsoft veteran Jon Friedman published a blog post introducing this new concept. As Copilot steadily evolves into a thought partner—an intelligent presence woven into your workflow—its backbone will become the Copilot Design System, an AI-forward design system we’re crafting to feel intentional and humane. From orchestration patterns to iconography, the experience we’re building will ultimately have components that work together to amplify thinking, guide decisions, and unlock creativity—seamlessly, wherever you work. Anchored in customer feedback around creating better experiences, a fundamental question guides our system’s evolution: how would a thoughtful partner look and behave? ↫ Jon Friedman at Microsoft’s design blog I’ve read the whole post and I still have no idea what most of it is supposed to mean in practice. It feels like the written equivalent of someone trying to put lipstick on a pig, and pretty much anyone is going to see right through the fancy words and phrases and realise what we’re really dealing with here: a company trying to figure out just how far they can shove “AI” down your throat before you gag reflex kicks in. You can hide behind flowery language all you want, but if you’re selling shit, it’s going to stink regardless. The only concrete user interface idea that’s come out of this Copilot Design System was a floating Copilot button that permanently floated on top of your workspace area in Word, Excel, and so on, obscuring the actual things you were working on. Users hated it so much that Microsoft had to quickly release what is essentially a hotfix to give people the ability to remove that floating button, putting it in a toolbar instead. Like I said: people see right through these thinly-veiled attempts at baiting them into using your pachinko machine. Anyway, yes, I’m working from Windows 11 now, just as you people paid me to do. Here’s the proof: Only 30 days left to go. I can do this.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145120</guid>
-    </item>    <item>
-      <title>Girl Scouts Event Brings Space Science to the Next Generation</title>
-      <link>https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/</link>
-      <description>
-        <![CDATA[In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments.]]>
-      </description>
-      <source:markdown>In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments.</source:markdown>
-      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/</guid>
-    </item>    <item>
-      <title>An Illuminating New Museum Hidden Beneath the Lincoln Memorial Is Set to Open to the Public. Here&#39;s What You Can Expect</title>
-      <link>https://www.smithsonianmag.com/smart-news/an-illuminating-new-museum-hidden-beneath-the-lincoln-memorial-is-set-to-open-to-the-public-heres-what-you-can-expect-180988831/</link>
-      <description>
-        <![CDATA[Tickets for the Lincoln Memorial undercroft museum are now available to reserve. When the attraction opens on June 25, visitors will get to see the D.C. landmark from a whole new perspective]]>
-      </description>
-      <source:markdown>Tickets for the Lincoln Memorial undercroft museum are now available to reserve. When the attraction opens on June 25, visitors will get to see the D.C. landmark from a whole new perspective</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/W-ruKXvMC7zP0loZa8sQ4lQqbbs=/420x240/filters:focal(2481x1300:2482x1301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/c1/bbc11779-9325-43e2-8150-e93d8574c81c/abraham_lincoln_memorial_night_view.jpg" length="15217165" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/an-illuminating-new-museum-hidden-beneath-the-lincoln-memorial-is-set-to-open-to-the-public-heres-what-you-can-expect-180988831/</guid>
-    </item>    <item>
-      <title>La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión</title>
-      <link>https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/</link>
-      <description>
-        <![CDATA[La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda [&#8230;]]]>
-      </description>
-      <source:markdown>La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=999879</guid>
-    </item>    <item>
-      <title>AI Factories: The New Infrastructure of Intelligence</title>
-      <link>https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/</link>
-      <description>
-        <![CDATA[AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.]]>
-      </description>
-      <source:markdown>AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=92977</guid>
-    </item>    <item>
-      <title>Scientists Used A.I. to Redesign a Microbe&#39;s Machinery to Function Without a Key Ingredient of Life</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-used-ai-to-redesign-a-microbes-machinery-to-function-without-a-key-ingredient-of-life-180988802/</link>
-      <description>
-        <![CDATA[Although the researchers did not create an entire cell that could function without a crucial building block, the findings represent a big step in synthetic biology and provide a glimpse at how Earth’s earliest organisms may have lived]]>
-      </description>
-      <source:markdown>Although the researchers did not create an entire cell that could function without a crucial building block, the findings represent a big step in synthetic biology and provide a glimpse at how Earth’s earliest organisms may have lived</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XQM9ZrKioosihMCdcimGrgWUaCs=/420x240/filters:focal(2081x1506:2082x1507)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/a8/5aa888cf-fc78-4a09-a288-8d7ab514e2a2/e-coli.jpg" length="502766" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-used-ai-to-redesign-a-microbes-machinery-to-function-without-a-key-ingredient-of-life-180988802/</guid>
-    </item>    <item>
-      <title>Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge</title>
-      <link>https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/</link>
-      <description>
-        <![CDATA[Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while [&#8230;]]]>
-      </description>
-      <source:markdown>Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=999420</guid>
-    </item>    <item>
-      <title>NASA-European Sea Level Mission Homes in on El Niño</title>
-      <link>https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/</link>
-      <description>
-        <![CDATA[Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise [&#8230;]]]>
-      </description>
-      <source:markdown>Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=999868</guid>
-    </item>    <item>
-      <title>Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer</title>
-      <link>https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/</link>
-      <description>
-        <![CDATA[Learn how to use the Satellite Data Explorer to search, access, and task commercial Earth Observation data.]]>
-      </description>
-      <source:markdown>Learn how to use the Satellite Data Explorer to search, access, and task commercial Earth Observation data.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/</guid>
-    </item>    <item>
-      <title>NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy</title>
-      <link>https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/</link>
-      <description>
-        <![CDATA[Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities. But it’s hard […]]]>
-      </description>
-      <source:markdown>Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities. But it’s hard \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/</guid>
-    </item>    <item>
-      <title>NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future</title>
-      <link>https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/</link>
-      <description>
-        <![CDATA[Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardware, especially as the agency accelerates plans for a permanent Moon Base. NASA’s 2026 Lunabotics Challenge put those traits on full display, as college student engineers from across the country gathered at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center [&#8230;]]]>
-      </description>
-      <source:markdown>Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardware, especially as the agency accelerates plans for a permanent Moon Base. NASA’s 2026 Lunabotics Challenge put those traits on full display, as college student engineers from across the country gathered at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=999644</guid>
-    </item>    <item>
-      <title>Daddy Longlegs Seem to Hunt Frogs in South America, Revealing the Gangly Arachnids as Overlooked Predators</title>
-      <link>https://www.smithsonianmag.com/smart-news/daddy-longlegs-seem-to-hunt-frogs-in-south-america-revealing-the-gangly-arachnids-as-long-overlooked-predators-180988810/</link>
-      <description>
-        <![CDATA[A new study suggests that harvestmen actively attack the slippery amphibians, rather than just scavenging them. The findings hint that the spineless creatures have a more complex relationship with vertebrates than previously thought]]>
-      </description>
-      <source:markdown>A new study suggests that harvestmen actively attack the slippery amphibians, rather than just scavenging them. The findings hint that the spineless creatures have a more complex relationship with vertebrates than previously thought</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0mUvF1vi9-6qyTyjhP1EMS12Ghc=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/61/dd61a4d9-a25f-47c1-83a6-cf1778e43ea6/use_this_one.jpeg" length="4920846" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/daddy-longlegs-seem-to-hunt-frogs-in-south-america-revealing-the-gangly-arachnids-as-long-overlooked-predators-180988810/</guid>
-    </item>    <item>
-      <title>Hubble Spies Faint Irregular Galaxy</title>
-      <link>https://science.nasa.gov/missions/hubble/hubble-spies-faint-irregular-galaxy/</link>
-      <description>
-        <![CDATA[This NASA Hubble Space Telescope image features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. Numerous red, […]]]>
-      </description>
-      <source:markdown>This NASA Hubble Space Telescope image features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. Numerous red, \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-spies-faint-irregular-galaxy/</guid>
-    </item>    <item>
-      <title>Should we reengineer the world&#39;s deadliest animal?</title>
-      <link>https://www.npr.org/2026/05/27/nx-s1-5806598/disease-science-mosquito-genetic</link>
-      <description>
-        <![CDATA[The most ferocious predator for us humans is actually quite small: the mosquito. They are hungry for blood, spreading diseases like malaria, yellow fever and dengue – and picking up new ones all the time. But what if we could wipe out the mosquito? Gene-editing technology <em>could </em>do it, potentially saving millions of lives. But it comes with serious potential for risk. Which begs the question: Should we get to decide when humanity rewrites nature? Here to discuss that is <a href="https://www.linkedin.com/in/jbenbradford/"target="_blank"   >Ben Bradford</a>, the host of a new podcast distributed by the NPR Network: <a href="https://www.npr.org/2026/04/21/g-s1-118208/a-new-npr-network-podcast-asks-the-big-question-are-we-doomed"target="_blank"   ><em>Are We Doomed?</em></a><br/><br/><em>Interested in more science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>The most ferocious predator for us humans is actually quite small: the mosquito. They are hungry for blood, spreading diseases like malaria, yellow fever and dengue – and picking up new ones all the time. But what if we could wipe out the mosquito? Gene-editing technology _could_ do it, potentially saving millions of lives. But it comes with serious potential for risk. Which begs the question: Should we get to decide when humanity rewrites nature? Here to discuss that is [Ben Bradford](https://www.linkedin.com/in/jbenbradford/), the host of a new podcast distributed by the NPR Network: [_Are We Doomed?_](https://www.npr.org/2026/04/21/g-s1-118208/a-new-npr-network-podcast-asks-the-big-question-are-we-doomed)
-
-_Interested in more science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f71097e9-3151-4492-a71f-0a0b37fe5c62/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f71097e9-3151-4492-a71f-0a0b37fe5c62&feed=F0qJcgXZ&t=podcast&e=nx-s1-5806598&p=510351&d=719&size=11514820" length="11514820" type="audio/mpeg" />
-      <guid>cid://f30864e6-4816-428f-8e7c-9b3e17a1d3e9</guid>
-    </item>    <item>
-      <title>Ever Restless Mount Dukono Erupts</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/</link>
-      <description>
-        <![CDATA[The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs.]]>
-      </description>
-      <source:markdown>The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/</guid>
     </item>
   </channel>
 </rss>

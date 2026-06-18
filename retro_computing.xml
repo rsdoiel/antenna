@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Jun 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>18 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -867,7 +867,7 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
         
         The boot doesn't get far before running into a problem. Although the VPAC display is strictly character-oriented, it can still display various graphics. This flashing disk icon does not mean the system is loading, like, say, <a href="/2023/08/cracking-designwares-grammar-examiner.html">the DesignWare chirp</a> &mdash; it means there's a disk error.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwA2FUrf4eJY42-D-XBhJbty-o67WFEBdICnJj8QU698GZO6_l-gAkVFdcPaMOe-2wRo8SiNgvTN42-lf0AHg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyGgiWoU_GE-2VXoIUOL-M_NQSzsd-RY7yeFtT-Cl1cZCifp9bDruhPSx7ur1QJajuLTd9exV-pDmSIucCimg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         The RX50 has a very characteristic sound when it loads, with a clicky motor unlike any other floppy disk drive, and you can hear it in this video trying very hard. But the DECmate II's ROMs never say die; they'll just keep trying until they get something.
         
