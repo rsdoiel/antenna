@@ -4,10 +4,21 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>18 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>19 Jun 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ARL Observes Juneteenth 2026</title>
+      <link>https://www.arl.org/blog/arl-observes-juneteenth-2026/</link>
+      <description>
+        <![CDATA[<p>Last Updated on June 18, 2026, 4:33 pm ET Juneteenth is an annual commemoration of the emancipation of enslaved people in the United States of America. Below are events and...</p>
+        <p>The post <a href="https://www.arl.org/blog/arl-observes-juneteenth-2026/">ARL Observes Juneteenth 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on June 18, 2026, 4:33 pm ET Juneteenth is an annual commemoration of the emancipation of enslaved people in the United States of America. Below are events and...
+
+The post [ARL Observes Juneteenth 2026](https://www.arl.org/blog/arl-observes-juneteenth-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=49013</guid>
+    </item>    <item>
       <title>Ask the Fellows: SSP’s 2026 Annual Meeting</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/</link>
       <description>
@@ -18,6 +29,59 @@
 
 The post [Ask the Fellows: SSP’s 2026 Annual Meeting](https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62073</guid>
+    </item>    <item>
+      <title>Building Better Connections: The Story of Crossref&#39;s Metadata Development</title>
+      <link>https://www.crossref.org/blog/building-better-connections-the-story-of-crossrefs-metadata-development/</link>
+      <description>
+        <![CDATA[<p>Three years ago, we <a href="https://doi.org/10.64000/cmnhc-fy462" target="_blank">asked our members</a> what they needed from Crossref&rsquo;s metadata. We received confirmation that we were going in the right direction, as well as some new ideas to explore. This helped set the course for our metadata development work since then, and continues to guide where we&rsquo;re headed next.</p>
+        <p>Every metadata update we make is driven by the same set of priorities: supporting metadata that reflects our <a href="https://www.crossref.org/truths/" target="_blank">organizational truths</a>, focusing on what metadata our members can actually provide, and aligning with best practices, vocabularies, and standards that our wider scholarly community has established. More recently our <a href="https://www.crossref.org/working-groups/metadata-advisory/" target="_blank">Metadata Advisory Group</a> has helped us explore both the minutia of working with metadata as well as larger ideas around the value and impact of the metadata we support.</p>
+        <h2 id="what-weve-accomplished">What We&rsquo;ve Accomplished</h2>
+        <p>Our <a href="https://doi.org/10.13003/325070" target="_blank">schema 5.4 update</a> included several new or expanded types of metadata. First, citation metadata can now be labeled with a publication type. This means when a work cites an article, a preprint, a dataset, or software, that distinction is clear, helping make citations without an accompanying DOI metadata record easier to identify. Second, version information is now supported across all record types, giving the scholarly record a more precise handle on exactly which version of a work is being described.</p>
+        <p>We&rsquo;ve also made two meaningful improvements to how funding relationships are captured. <a href="https://doi.org/10.13003/156081" target="_blank">ROR IDs are now supported as funder identifiers</a> in both our standard metadata schema and our grants-specific schema. Also, <a href="https://doi.org/10.64000/x7d4h-x3r11" target="_blank">Grant DOIs can now be explicitly identified</a> within funding metadata, making it possible to draw clearer lines between research outputs and the grants that supported them.</p>
+        <h2 id="whats-happening-now">What&rsquo;s happening now</h2>
+        <p>A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for <a href="https://credit.niso.org/" target="_blank">CRediT</a> — the ANSI/NISO taxonomy for contributor roles. This means that an individual&rsquo;s complete contribution to a research output can finally be described in our metadata, rather than flattened into a single role or omitted entirely. The schema isn&rsquo;t released yet, but the <a href="https://gitlab.com/crossref/schema/-/tree/master/5.5?ref_type=heads" target="_blank">final version of the XML schema is available in our GitLab repository</a> for those who want to get a head start.</p>
+        <p>We’ll next begin implementation work for a new Grants schema (0.3.0). This update will remodel investigator names to include a new role (beneficiary) as well as an organizational grant recipient, making it possible to include recipient info for grants given to organizations. Grant records include project metadata, so this update will also include support for <a href="https://www.raid.org/" target="_blank">RAiD</a>, a persistent identifier for projects. The XML schema for this update is also available <a href="https://gitlab.com/crossref/schema/-/tree/master/grant_id0.3.0?ref_type=heads" target="_blank">in a GitLab repository</a>.</p>
+        <h2 id="whats-up-next">What’s up next</h2>
+        <p>Our next planned major update will build substantially on the contributor work in version 5.5. In the next version (6.0) we will remodel names to expand our current limited structure to support a variety of name types as well as alternate names. We’ll also expand the contributor identifiers we collect to include ISNI and Wikidata identifiers, better supporting contributors for whom an ORCID is not possible. Our organizational contributor will be remodeled as well to include organization-level identifiers like <a href="https://ror.org/" target="_blank">ROR</a>.</p>
+        <p>We’ll also introduce statements to Crossref metadata. Statements will allow members to include free-text statements including funding acknowledgements, ethics declarations, AI usage disclosures, and other important contextual information that doesn&rsquo;t fit neatly into structured fields.</p>
+        <p>Other updates include expanding our support for abstracts encoding beyond JATS to include ONIX, BITS, and a generic markup option, and implementing better in-schema validation to avoid surprises at the time of deposit.</p>
+        <p>Progress means letting go of the past. We&rsquo;re planning to deprecate all schemas prior to version 5.3.1 by the end of 2027, to be carried out in phases as <a href="https://www.crossref.org/blog/its-time-planning-for-metadata-schema-deprecation/" target="_blank">outlined in our deprecation blog post</a>. This is a necessary step to keep our infrastructure sustainable and to ensure members are working with schemas that reflect current capabilities and standards.</p>
+        <h2 id="looking-further-ahead">Looking further ahead</h2>
+        <p>Beyond 6.0, we&rsquo;re exploring further support for provenance in metadata (to establish who is doing what to a metadata record), a rethinking of how we handle dates so that they better capture the lifecycle of a research object, better support for research objects we don’t yet fully support, and making our metadata inputs more consistent. The <a href="https://share.productboard.com/crossref/board/948afee2-6002-4e70-975d-6fb27a5829da" target="_blank">Metadata Development roadmap</a> has full details on what&rsquo;s being explored and prioritized.</p>
+        <p>Each of these updates contributes to Crossref&rsquo;s research nexus vision: strengthening connections between funders and research, more accurately capturing and recognizing contributor roles in the scholarly record, and collecting free-text content to fill in the gaps that structured metadata alone can&rsquo;t address. Better metadata means better research integrity and more trustworthy infrastructure for everyone who depends on it.</p>]]>
+      </description>
+      <source:markdown>Three years ago, we [asked our members](https://doi.org/10.64000/cmnhc-fy462) what they needed from Crossref’s metadata. We received confirmation that we were going in the right direction, as well as some new ideas to explore. This helped set the course for our metadata development work since then, and continues to guide where we’re headed next.
+
+Every metadata update we make is driven by the same set of priorities: supporting metadata that reflects our [organizational truths](https://www.crossref.org/truths/), focusing on what metadata our members can actually provide, and aligning with best practices, vocabularies, and standards that our wider scholarly community has established. More recently our [Metadata Advisory Group](https://www.crossref.org/working-groups/metadata-advisory/) has helped us explore both the minutia of working with metadata as well as larger ideas around the value and impact of the metadata we support.
+
+## What We’ve Accomplished
+
+Our [schema 5.4 update](https://doi.org/10.13003/325070) included several new or expanded types of metadata. First, citation metadata can now be labeled with a publication type. This means when a work cites an article, a preprint, a dataset, or software, that distinction is clear, helping make citations without an accompanying DOI metadata record easier to identify. Second, version information is now supported across all record types, giving the scholarly record a more precise handle on exactly which version of a work is being described.
+
+We’ve also made two meaningful improvements to how funding relationships are captured. [ROR IDs are now supported as funder identifiers](https://doi.org/10.13003/156081) in both our standard metadata schema and our grants-specific schema. Also, [Grant DOIs can now be explicitly identified](https://doi.org/10.64000/x7d4h-x3r11) within funding metadata, making it possible to draw clearer lines between research outputs and the grants that supported them.
+
+## What’s happening now
+
+A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for [CRediT](https://credit.niso.org/) — the ANSI/NISO taxonomy for contributor roles. This means that an individual’s complete contribution to a research output can finally be described in our metadata, rather than flattened into a single role or omitted entirely. The schema isn’t released yet, but the [final version of the XML schema is available in our GitLab repository](https://gitlab.com/crossref/schema/-/tree/master/5.5?ref_type=heads) for those who want to get a head start.
+
+We’ll next begin implementation work for a new Grants schema (0.3.0). This update will remodel investigator names to include a new role (beneficiary) as well as an organizational grant recipient, making it possible to include recipient info for grants given to organizations. Grant records include project metadata, so this update will also include support for [RAiD](https://www.raid.org/), a persistent identifier for projects. The XML schema for this update is also available [in a GitLab repository](https://gitlab.com/crossref/schema/-/tree/master/grant_id0.3.0?ref_type=heads).
+
+## What’s up next
+
+Our next planned major update will build substantially on the contributor work in version 5.5. In the next version (6.0) we will remodel names to expand our current limited structure to support a variety of name types as well as alternate names. We’ll also expand the contributor identifiers we collect to include ISNI and Wikidata identifiers, better supporting contributors for whom an ORCID is not possible. Our organizational contributor will be remodeled as well to include organization-level identifiers like [ROR](https://ror.org/).
+
+We’ll also introduce statements to Crossref metadata. Statements will allow members to include free-text statements including funding acknowledgements, ethics declarations, AI usage disclosures, and other important contextual information that doesn’t fit neatly into structured fields.
+
+Other updates include expanding our support for abstracts encoding beyond JATS to include ONIX, BITS, and a generic markup option, and implementing better in-schema validation to avoid surprises at the time of deposit.
+
+Progress means letting go of the past. We’re planning to deprecate all schemas prior to version 5.3.1 by the end of 2027, to be carried out in phases as [outlined in our deprecation blog post](https://www.crossref.org/blog/its-time-planning-for-metadata-schema-deprecation/). This is a necessary step to keep our infrastructure sustainable and to ensure members are working with schemas that reflect current capabilities and standards.
+
+## Looking further ahead
+
+Beyond 6.0, we’re exploring further support for provenance in metadata (to establish who is doing what to a metadata record), a rethinking of how we handle dates so that they better capture the lifecycle of a research object, better support for research objects we don’t yet fully support, and making our metadata inputs more consistent. The [Metadata Development roadmap](https://share.productboard.com/crossref/board/948afee2-6002-4e70-975d-6fb27a5829da) has full details on what’s being explored and prioritized.
+
+Each of these updates contributes to Crossref’s research nexus vision: strengthening connections between funders and research, more accurately capturing and recognizing contributor roles in the scholarly record, and collecting free-text content to fill in the gaps that structured metadata alone can’t address. Better metadata means better research integrity and more trustworthy infrastructure for everyone who depends on it.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/building-better-connections-the-story-of-crossrefs-metadata-development/</guid>
     </item>    <item>
       <title>Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/</link>
@@ -66,10 +130,10 @@ The post [Academic Freedom for the Win; Open Access Mandate in Germany Declared 
       <title>ARL Daily Intelligence (June 15–18)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/</link>
       <description>
-        <![CDATA[<p>Last Updated on June 17, 2026, 3:42 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on June 18, 2026, 3:55 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/">ARL Daily Intelligence (June 15–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on June 17, 2026, 3:42 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on June 18, 2026, 3:55 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (June 15–18)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48979</guid>
@@ -667,33 +731,6 @@ The post [Guest Post — Scholarly AI Search Shortcomings and the Need for Bette
 
 The post [Why Digital Preservation Matters: Lessons from the Churchill Archives Centre](https://libnova.com/digital-preservation-strategy-churchill-archives-centre/) appeared first on [LIBNOVA](https://libnova.com).</source:markdown>
       <guid>cid://https://libnova.com/?p=13978</guid>
-    </item>    <item>
-      <title>Why I Request ROR IDs for New Crossref Members</title>
-      <link>https://ror.org/blog/2026-05-28-why-i-request-ror-ids/</link>
-      <description>
-        <![CDATA[Collin Knopp-Schwyn of Crossref shares how they began contributing to the ROR dataset and discusses the value of ROR users providing curation requests to the registry.]]>
-      </description>
-      <source:markdown>Collin Knopp-Schwyn of Crossref shares how they began contributing to the ROR dataset and discusses the value of ROR users providing curation requests to the registry.</source:markdown>
-      <guid>cid://https://doi.org/10.71938/0ep9-vx98</guid>
-    </item>    <item>
-      <title>Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&#38;D</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/</link>
-      <description>
-        <![CDATA[<p>Today's post shares the results of an initiative designed to answer the question: what would it actually take to build a publishing model fit for the research ecosystem we have now, rather than the one we inherited?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/">Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&#038;D</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s post shares the results of an initiative designed to answer the question: what would it actually take to build a publishing model fit for the research ecosystem we have now, rather than the one we inherited?
-
-The post [Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&#38;D](https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62005</guid>
-    </item>    <item>
-      <title>Building Open Infrastructure That Lasts: A Spotlight on Digital Scholar</title>
-      <link>https://investinopen.org/blog/digital-scholar-building-infrastructure/</link>
-      <description>
-        <![CDATA[A case study with Sharon Leon, Co-CEO of the Corporation for Digital Scholarship (Digital Scholar)]]>
-      </description>
-      <source:markdown>A case study with Sharon Leon, Co-CEO of the Corporation for Digital Scholarship (Digital Scholar)</source:markdown>
-      <guid>cid://6a15e2d2ee259b0001ccfbd2</guid>
     </item>
   </channel>
 </rss>

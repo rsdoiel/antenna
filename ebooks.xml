@@ -4,10 +4,38 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>18 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>19 Jun 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Dangerous Connections, v. 1, 2, 3, 4 by Choderlos de Laclos</title>
+      <link>https://www.gutenberg.org/ebooks/45512</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The nemesis of mediocrity by Ralph Adams Cram</title>
+      <link>https://www.gutenberg.org/ebooks/78895</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Silver .41 by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78893</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The education of the women of India by Minna G.  Cowan</title>
+      <link>https://www.gutenberg.org/ebooks/78894</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Varney the vampyre; or, the feast of blood by Thomas Peckett Prest and James Malcolm Rymer</title>
       <link>https://www.gutenberg.org/ebooks/14833</link>
       <description>
@@ -1278,78 +1306,6 @@
     </item>    <item>
       <title>The monster of Grammont by George Goodchild</title>
       <link>https://www.gutenberg.org/ebooks/78776</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Poetry, by Robert Louis Stevenson</title>
-      <link>https://standardebooks.org/ebooks/robert-louis-stevenson/poetry</link>
-      <description>
-        <![CDATA[A collection of poetry by Scottish writer Robert Louis Stevenson.]]>
-      </description>
-      <source:markdown>A collection of poetry by Scottish writer Robert Louis Stevenson.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/robert-louis-stevenson/poetry/downloads/robert-louis-stevenson_poetry.epub?source=feed" length="1338620" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/robert-louis-stevenson/poetry</guid>
-    </item>    <item>
-      <title>The terrible meek : by Charles Rann Kennedy</title>
-      <link>https://www.gutenberg.org/ebooks/78768</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Myrtti ja alppiruusu by Joel Lehtonen</title>
-      <link>https://www.gutenberg.org/ebooks/78769</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>On trail and rapid by dog-sled &#38; canoe : by H. A.  Cody</title>
-      <link>https://www.gutenberg.org/ebooks/78770</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Border bred by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78767</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Because he listened in by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78771</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Day before yesterday by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78765</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nine points in the law by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78764</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The shadow shooter by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78766</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Modern thinkers and present problems : by Edgar A.  Singer</title>
-      <link>https://www.gutenberg.org/ebooks/78763</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
