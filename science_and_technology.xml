@@ -4,10 +4,27 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>20 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What was nice about the UI of Windows 2000</title>
+      <link>https://www.osnews.com/story/145346/what-was-nice-about-the-ui-of-windows-2000/</link>
+      <description>
+        <![CDATA[I mean, this is preaching to the choir, but let&#8217;s go anyway. I liked the UIs of the entire era from 3.0 to 2000, really. I&#8217;m mostly using Windows 2000 as an example here because it runs so well in QEMU/KVM and that allows me to easily take screenshots. Some of the following will sound absolutely trivial, but I think it&#8217;s worth pointing out. ↫ movq.de blog Just a series of observations about how much better graphical user interfaces were back in the &#8217;90s and early 2000s. We&#8217;ve lost so many affordances based on both common sense and scientific study, and what we ended up with is a confusing, inconsistent mess. It doesn&#8217;t really matter where you look &#8211; user interface design has deteriorated since the early 2000s, a decline that only accelerated thanks to the arrival of the iPhone, where consistency is a dirty word, and the web, where the advertising people took prominence over the design people. I just want my buttons to look like buttons man.]]>
+      </description>
+      <source:markdown>I mean, this is preaching to the choir, but let’s go anyway. I liked the UIs of the entire era from 3.0 to 2000, really. I’m mostly using Windows 2000 as an example here because it runs so well in QEMU/KVM and that allows me to easily take screenshots. Some of the following will sound absolutely trivial, but I think it’s worth pointing out. ↫ movq.de blog Just a series of observations about how much better graphical user interfaces were back in the ’90s and early 2000s. We’ve lost so many affordances based on both common sense and scientific study, and what we ended up with is a confusing, inconsistent mess. It doesn’t really matter where you look – user interface design has deteriorated since the early 2000s, a decline that only accelerated thanks to the arrival of the iPhone, where consistency is a dirty word, and the web, where the advertising people took prominence over the design people. I just want my buttons to look like buttons man.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145346</guid>
+    </item>    <item>
+      <title>Archaeologists Discover Evidence a Wooden Prototype for Stonehenge May Have Aligned With the Solstice 500 Years Before the Stone Circle</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-evidence-a-wooden-prototype-for-stonehenge-may-have-aligned-with-the-solstice-500-years-before-the-stone-circle-180988988/</link>
+      <description>
+        <![CDATA[The remains of a wooden monument in southern England, three miles away from Stonehenge, may demonstrate Neolithic people's interest in the heavens]]>
+      </description>
+      <source:markdown>The remains of a wooden monument in southern England, three miles away from Stonehenge, may demonstrate Neolithic people&#39;s interest in the heavens</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ue3UnRB52DmhJ4mYzMBJo0X2WM4=/420x240/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/00/5a000fa7-b6e9-4d55-b926-04710c61bded/stonehenge.jpg" length="7048920" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-discover-evidence-a-wooden-prototype-for-stonehenge-may-have-aligned-with-the-solstice-500-years-before-the-stone-circle-180988988/</guid>
+    </item>    <item>
       <title>To study how chips really work, MIT researchers built their own operating system</title>
       <link>https://www.osnews.com/story/145342/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system/</link>
       <description>
@@ -2659,177 +2676,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>A beautiful TUI might not be particularly accessible, and there’s effectively zero consistency between how different TUI applications look, feel, and behave, but damn if an amazing TUI isn’t a work of art. Case in point: El Poblador. This is a TUI version of Settles of Catan, written in Go. That’s it. That’s the post.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145154</guid>
-    </item>    <item>
-      <title>NASA Awards Contract for Johnson Space Center Infrastructure</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/</link>
-      <description>
-        <![CDATA[NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1000942</guid>
-    </item>    <item>
-      <title>Four Rare Guam Kingfisher Chicks Hatch at Virginia Facility, Making an &#39;Incredibly Valuable&#39; Addition to the Small Population of Extinct-in-the-Wild Birds</title>
-      <link>https://www.smithsonianmag.com/smart-news/four-rare-guam-kingfisher-chicks-hatch-at-virginia-facility-making-an-incredibly-valuable-addition-to-the-small-population-of-extinct-in-the-wild-birds-180988863/</link>
-      <description>
-        <![CDATA[The species, also known as the sihek, was wiped out from its native Guam and kept alive in captivity. Conservationists released some birds on Palmyra Atoll in 2024, and they have been thriving so far]]>
-      </description>
-      <source:markdown>The species, also known as the sihek, was wiped out from its native Guam and kept alive in captivity. Conservationists released some birds on Palmyra Atoll in 2024, and they have been thriving so far</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GUvXiF4Z-dSONsei2R7ljsoWLs8=/420x240/filters:focal(1024x634:1025x635)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/a4/f9a4af17-b326-4f00-8d64-92966468f938/705306451_1423631536459186_5155291432592042996_n.jpg" length="706656" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/four-rare-guam-kingfisher-chicks-hatch-at-virginia-facility-making-an-incredibly-valuable-addition-to-the-small-population-of-extinct-in-the-wild-birds-180988863/</guid>
-    </item>    <item>
-      <title>NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters</title>
-      <link>https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/</link>
-      <description>
-        <![CDATA[NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1000926</guid>
-    </item>    <item>
-      <title>Flathub bans slopcoded applications, but not if they’re from a “mature, well-maintained” project</title>
-      <link>https://www.osnews.com/story/145144/flathub-bans-slopcoded-applications-but-not-if-theyre-from-a-mature-well-maintained-project/</link>
-      <description>
-        <![CDATA[Flathub, by the most popular (effectively only) repository for Flatpak applications, has changed its policies to include a strict ban on &#8220;AI&#8221; use for both application submissions as well as the application code itself. This policy applies to both the application being submitted to Flathub and the Flathub submission itself, including the manifest, metadata, patches, build scripts, and pull request. For the purpose of this policy, applications include BaseApps, extensions, and any other artifacts that can be produced by flatpak-builder. Submission pull requests must not be generated, opened, or automated using AI tools or agents. Please also do not request review from any AI tools in the submission PR. Automated Copilot reviews on GitHub can be disabled by the submitter by going here and changing Repository access to exclude the repo or disabling the global &#8220;Automatic Copilot code review&#8221; found here. Applications containing AI-generated or AI-assisted code, documentation, or other content are not allowed. ↫ Flathub policy diff This is a fairly strict policy, but they do leave some wiggle room by also including the following line: Exceptions may be granted for mature, well-maintained projects. ↫ Flathub policy diff I don&#8217;t think they had any choice adding this exception, but it does feel a little bit like &#8220;rules for thee but not for me&#8221;. I can easily see the relatively small in-crowd of developers around Flathub and Flatpak, and their friends, handing each other exceptions, while enforcing the much stricter rules when it comes to outsiders. Say a well-known GNOME application from a long-time GNOME contributor adds &#8220;AI&#8221;-generated code, will it really be banned from Flathub? I have my doubts. Regardless, it&#8217;s mostly good news. It&#8217;s important to note that this policy change won&#8217;t be applied retroactively, so slopcoded applications already on Flathub won&#8217;t be removed.]]>
-      </description>
-      <source:markdown>Flathub, by the most popular (effectively only) repository for Flatpak applications, has changed its policies to include a strict ban on “AI” use for both application submissions as well as the application code itself. This policy applies to both the application being submitted to Flathub and the Flathub submission itself, including the manifest, metadata, patches, build scripts, and pull request. For the purpose of this policy, applications include BaseApps, extensions, and any other artifacts that can be produced by flatpak-builder. Submission pull requests must not be generated, opened, or automated using AI tools or agents. Please also do not request review from any AI tools in the submission PR. Automated Copilot reviews on GitHub can be disabled by the submitter by going here and changing Repository access to exclude the repo or disabling the global “Automatic Copilot code review” found here. Applications containing AI-generated or AI-assisted code, documentation, or other content are not allowed. ↫ Flathub policy diff This is a fairly strict policy, but they do leave some wiggle room by also including the following line: Exceptions may be granted for mature, well-maintained projects. ↫ Flathub policy diff I don’t think they had any choice adding this exception, but it does feel a little bit like “rules for thee but not for me”. I can easily see the relatively small in-crowd of developers around Flathub and Flatpak, and their friends, handing each other exceptions, while enforcing the much stricter rules when it comes to outsiders. Say a well-known GNOME application from a long-time GNOME contributor adds “AI”-generated code, will it really be banned from Flathub? I have my doubts. Regardless, it’s mostly good news. It’s important to note that this policy change won’t be applied retroactively, so slopcoded applications already on Flathub won’t be removed.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145144</guid>
-    </item>    <item>
-      <title>These 600-Year-Old Chinese Surgical Instruments Are Coated in an Early Local Anesthetic—Carefully Extracted From a Poisonous Plant</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-600-year-old-chinese-surgical-instruments-are-coated-in-an-early-local-anestheticcarefully-extracted-from-a-poisonous-plant-180988865/</link>
-      <description>
-        <![CDATA[Researchers say the numbing agent splashed onto iron scissors and tweezers during a procedure. They were found in a Ming dynasty doctor's tomb]]>
-      </description>
-      <source:markdown>Researchers say the numbing agent splashed onto iron scissors and tweezers during a procedure. They were found in a Ming dynasty doctor&#39;s tomb</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dbAweNjolD733IkrXXwMKLJuGOI=/420x240/filters:focal(527x351:528x352)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/bf/3ebf98af-8965-4b65-9f71-b6da84137f8f/urn_cambridgeorg_id_binary-alt_20260513195241-44146-optimisedimage-png-s0003598x26103470_fig1.jpeg" length="462199" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-600-year-old-chinese-surgical-instruments-are-coated-in-an-early-local-anestheticcarefully-extracted-from-a-poisonous-plant-180988865/</guid>
-    </item>    <item>
-      <title>Happy, an Asian Elephant Who Demonstrated That Her Species Might Be Self-Aware, Dies at 55 at the Bronx Zoo</title>
-      <link>https://www.smithsonianmag.com/smart-news/happy-an-asian-elephant-who-demonstrated-that-her-species-might-be-self-aware-dies-at-55-at-the-bronx-zoo-180988861/</link>
-      <description>
-        <![CDATA[In research reported about 20 years ago, Happy appeared to recognize herself in a mirror. She was later the subject of a failed lawsuit claiming that elephants should have certain fundamental human rights]]>
-      </description>
-      <source:markdown>In research reported about 20 years ago, Happy appeared to recognize herself in a mirror. She was later the subject of a failed lawsuit claiming that elephants should have certain fundamental human rights</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UuN2GAfmp2ew3ZTqsk0OjBqglvo=/420x240/filters:focal(1704x1136:1705x1137)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/65/dd65c615-fe35-4083-a79c-bcf850577058/happy-elephant.jpg" length="6004216" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/happy-an-asian-elephant-who-demonstrated-that-her-species-might-be-self-aware-dies-at-55-at-the-bronx-zoo-180988861/</guid>
-    </item>    <item>
-      <title>Using Colorful Dog Kibble, Artists Turn &#39;Mona Lisa,&#39; &#39;The Scream&#39; and &#39;The Kiss&#39; Into Museum Masterpieces That Man&#39;s Best Friend Can Appreciate</title>
-      <link>https://www.smithsonianmag.com/smart-news/using-colorful-kibble-artists-turn-mona-lisa-the-scream-and-the-kiss-into-museum-masterpieces-that-mans-best-friend-can-appreciate-180988860/</link>
-      <description>
-        <![CDATA[Sisters from New Jersey spent two months recreating famous artworks while also making sure their dog didn’t get into the edible art supplies]]>
-      </description>
-      <source:markdown>Sisters from New Jersey spent two months recreating famous artworks while also making sure their dog didn’t get into the edible art supplies</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rX1DywPnqUojKE9aoVB8WHQ7CyY=/420x240/filters:focal(3997x3007:3998x3008)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c3/80/c380fcef-240d-414f-b107-6935d9802f4b/dscf9312.jpg" length="2055993" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/using-colorful-kibble-artists-turn-mona-lisa-the-scream-and-the-kiss-into-museum-masterpieces-that-mans-best-friend-can-appreciate-180988860/</guid>
-    </item>    <item>
-      <title>NASA’s Roman Space Telescope Primary Mirror Gets Last Look</title>
-      <link>https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/</link>
-      <description>
-        <![CDATA[Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. &#8220;The Roman engineering [&#8230;]]]>
-      </description>
-      <source:markdown>Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. “The Roman engineering \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1000706</guid>
-    </item>    <item>
-      <title>Hubble Spies Faint Irregular Galaxy</title>
-      <link>https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/</link>
-      <description>
-        <![CDATA[This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years&#160;away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their&#160;diffraction spikes. [&#8230;]]]>
-      </description>
-      <source:markdown>This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1000351</guid>
-    </item>    <item>
-      <title>Meet Hilma af Klint, the Occultist Who Believed Otherworldly Spirits Told Her What to Paint. Now, She&#39;s Considered One of History&#39;s First Abstract Artists</title>
-      <link>https://www.smithsonianmag.com/smart-news/meet-hilma-af-klint-the-occultist-who-believed-otherworldly-spirits-told-her-what-to-paint-now-shes-considered-one-of-historys-first-abstract-artists-180988859/</link>
-      <description>
-        <![CDATA[The Swedish painter created bold, vibrant works as early as 1906—several years before contemporaries like Wassily Kandinsky. A new exhibition in France celebrates her sweeping "Paintings for the Temple" series]]>
-      </description>
-      <source:markdown>The Swedish painter created bold, vibrant works as early as 1906—several years before contemporaries like Wassily Kandinsky. A new exhibition in France celebrates her sweeping &#34;Paintings for the Temple&#34; series</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Mhnol7iYgpPGvP-yk0P7Gs_2OW8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/ea/86ea6ec3-9230-4152-95ca-e941d343bf3b/klint-altarpiece.jpg" length="411357" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-hilma-af-klint-the-occultist-who-believed-otherworldly-spirits-told-her-what-to-paint-now-shes-considered-one-of-historys-first-abstract-artists-180988859/</guid>
-    </item>    <item>
-      <title>Tyrannosaurus Rex and Other Terrifying Predatory Dinosaurs Had Itty-Bitty Arms. Scientists May Have Finally Figured Out Why</title>
-      <link>https://www.smithsonianmag.com/smart-news/tyrannosaurus-rex-and-other-terrifying-predatory-dinosaurs-had-itty-bitty-arms-scientists-may-have-finally-figured-out-why-180988803/</link>
-      <description>
-        <![CDATA[A new study suggests that certain theropods—two-legged, mostly meat-eating dinosaurs—had shrunken forelimbs as an evolutionary trade-off for their strong skulls]]>
-      </description>
-      <source:markdown>A new study suggests that certain theropods—two-legged, mostly meat-eating dinosaurs—had shrunken forelimbs as an evolutionary trade-off for their strong skulls</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NIwng01nmhVv3YbIn29YvAFrnkA=/420x240/filters:focal(2592x1950:2593x1951)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/59/41590b60-d95f-470e-8ead-d8fa843639df/t-rex.jpg" length="17441176" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/tyrannosaurus-rex-and-other-terrifying-predatory-dinosaurs-had-itty-bitty-arms-scientists-may-have-finally-figured-out-why-180988803/</guid>
-    </item>    <item>
-      <title>See the New Quarter Honoring Thomas Jefferson and the Declaration of Independence That Enters Circulation Next Week, Ahead of America’s 250th Birthday</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-new-quarter-honoring-thomas-jefferson-and-the-declaration-of-independence-that-enters-circulation-next-week-ahead-of-americas-250th-birthday-180988843/</link>
-      <description>
-        <![CDATA[The design is one of several coin denominations, and the third of five new quarters, made specially for the country’s semiquincentennial]]>
-      </description>
-      <source:markdown>The design is one of several coin denominations, and the third of five new quarters, made specially for the country’s semiquincentennial</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HUz8JDdoSGy-oDjtDLggNnPci4g=/420x240/filters:focal(1000x1000:1001x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/74/d674dda4-f985-4877-a3a6-5920f685666c/semiq-declaration-obverse-unc-d.jpg" length="1176770" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-new-quarter-honoring-thomas-jefferson-and-the-declaration-of-independence-that-enters-circulation-next-week-ahead-of-americas-250th-birthday-180988843/</guid>
-    </item>    <item>
-      <title>Pigeon Bones Found at an Ancient Cyprus Settlement Reveal That Our Relationship With These Birds Began Earlier Than We Thought</title>
-      <link>https://www.smithsonianmag.com/smart-news/pigeon-bones-found-at-an-ancient-cyprus-settlement-reveal-that-our-relationship-with-these-birds-began-earlier-than-we-thought-180988791/</link>
-      <description>
-        <![CDATA[Before common pigeons were considered urban pests, people domesticated them and relied on them for meat, fertilizer, messages and more. A new study suggests humans have lived alongside the winged creatures for at least 3,400 years]]>
-      </description>
-      <source:markdown>Before common pigeons were considered urban pests, people domesticated them and relied on them for meat, fertilizer, messages and more. A new study suggests humans have lived alongside the winged creatures for at least 3,400 years</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KW6Y4Dn5-qdou0cK5QiE0dajjds=/420x240/filters:focal(640x360:641x361)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/58/f1586ed5-4b50-4269-8e41-7c5d4158a0f1/friend-or-foul-explori.jpg" length="92088" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/pigeon-bones-found-at-an-ancient-cyprus-settlement-reveal-that-our-relationship-with-these-birds-began-earlier-than-we-thought-180988791/</guid>
-    </item>    <item>
-      <title>Key Chemistry Question Answered, No Quantum Computer Required</title>
-      <link>https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/</link>
-      <description>
-        <![CDATA[Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.            <p>The post <a href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/" target="_blank">Key Chemistry Question Answered, No Quantum Computer Required</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Do we need quantum computers to fully understand complex chemical reactions? A new result, decades in the making, shows the surprising power of ordinary “classical” machines.
-
-The post [Key Chemistry Question Answered, No Quantum Computer Required](https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=162533</guid>
-    </item>    <item>
-      <title>Genode OS Framework 26.05 released</title>
-      <link>https://www.osnews.com/story/145140/genode-os-framework-26-05-released/</link>
-      <description>
-        <![CDATA[The work on the May release has been dominated by topics on account of the just published Sculpt OS version 26.04. Besides featuring profound driver improvements across Wifi, ACPI, I2C HID, SOF audio, and graphics, it turns the most innovative aspects of Sculpt OS into building blocks for the easy reuse in other incarnations of Genode-based systems. In the same vein, the Goa SDK has been updated to match the latest Sculpt OS version while accumulating plenty of detail improvements.  Further highlights of the release are the new touch-awareness of the window manager making Sculpt OS usable on tablets, the addition of Linux user-space networking based on libslirp, the update of Qt to version 6.8.3, and a largely revised LTE modem stack. ↫ Genode OS Framework 26.05 release notes In addition, the migration from GitHub to Codeberg has been completed as well, which is a big step forward for the project.]]>
-      </description>
-      <source:markdown>The work on the May release has been dominated by topics on account of the just published Sculpt OS version 26.04. Besides featuring profound driver improvements across Wifi, ACPI, I2C HID, SOF audio, and graphics, it turns the most innovative aspects of Sculpt OS into building blocks for the easy reuse in other incarnations of Genode-based systems. In the same vein, the Goa SDK has been updated to match the latest Sculpt OS version while accumulating plenty of detail improvements. Further highlights of the release are the new touch-awareness of the window manager making Sculpt OS usable on tablets, the addition of Linux user-space networking based on libslirp, the update of Qt to version 6.8.3, and a largely revised LTE modem stack. ↫ Genode OS Framework 26.05 release notes In addition, the migration from GitHub to Codeberg has been completed as well, which is a big step forward for the project.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145140</guid>
-    </item>    <item>
-      <title>NVIDIA retires its classic Control Panel application for Windows</title>
-      <link>https://www.osnews.com/story/145138/nvidia-retires-its-classic-control-panel-application-for-windows/</link>
-      <description>
-        <![CDATA[In the release notes for the latest NVIDIA driver version for Windows, the &#8220;AI&#8221; company who happens to spare a few GPUs for regular users every now and then has announced that the curtain has fallen for the classic NVIDIA Control Panel. After 20 years of dedicated service, the classic NVIDIA Control Panel is officially retiring for Game Ready and Studio Drivers. For NVIDIA RTX PRO users, the NVIDIA Control Panel will continue to be supported until we have migrated professional features to the NVIDIA app. Existing installs of the NVIDIA Control Panel will remain on users’ systems, unless they perform a clean installation, and users who still need the NVIDIA Control Panel can continue to download it from the Microsoft Store, but we won’t be adding features, fixes, or other changes. ↫ NVIDIA GeForce driver release notes According to NVIDIA, every setting has migrated from the Control Panel to the NVIDIA application, meaning it&#8217;s no longer necessary to keep maintaining it. Of course, the NVIDIA application also happens to have ads, a login mechanism, and is probably just an inefficient web application, so not everybody may be excited about the loss of the NVIDIA Control Panel.]]>
-      </description>
-      <source:markdown>In the release notes for the latest NVIDIA driver version for Windows, the “AI” company who happens to spare a few GPUs for regular users every now and then has announced that the curtain has fallen for the classic NVIDIA Control Panel. After 20 years of dedicated service, the classic NVIDIA Control Panel is officially retiring for Game Ready and Studio Drivers. For NVIDIA RTX PRO users, the NVIDIA Control Panel will continue to be supported until we have migrated professional features to the NVIDIA app. Existing installs of the NVIDIA Control Panel will remain on users’ systems, unless they perform a clean installation, and users who still need the NVIDIA Control Panel can continue to download it from the Microsoft Store, but we won’t be adding features, fixes, or other changes. ↫ NVIDIA GeForce driver release notes According to NVIDIA, every setting has migrated from the Control Panel to the NVIDIA application, meaning it’s no longer necessary to keep maintaining it. Of course, the NVIDIA application also happens to have ads, a login mechanism, and is probably just an inefficient web application, so not everybody may be excited about the loss of the NVIDIA Control Panel.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145138</guid>
-    </item>    <item>
-      <title>Hubble Captures M88 on Journey to Center of Virgo Cluster</title>
-      <link>https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/</link>
-      <description>
-        <![CDATA[This NASA Hubble Space Telescope image features the active spiral galaxy Messier 88 (M88), located about 63 million light-years away.]]>
-      </description>
-      <source:markdown>This NASA Hubble Space Telescope image features the active spiral galaxy Messier 88 (M88), located about 63 million light-years away.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/</guid>
-    </item>    <item>
-      <title>This distant planet has wild weather and gemstone clouds</title>
-      <link>https://www.npr.org/2026/05/29/nx-s1-5830286/weather-space-moon-planet-forecast-sky</link>
-      <description>
-        <![CDATA[For many astronomers and astrophysicists there are two distinct, important periods: before the James Webb Space Telescope – and after. It has powered many scientific discoveries since it came online, including two at the heart of this episode: insights into one of Neptune’s moons and a “hot Jupiter” exoplanet orbiting another star. This exoplanet has a strange weather system with high winds and cloud coverage only on one side of the planet. Fill in some of the scientific gaps about our solar system and the universe beyond with us.<br/><br/><em>Interested in more space science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>For many astronomers and astrophysicists there are two distinct, important periods: before the James Webb Space Telescope – and after. It has powered many scientific discoveries since it came online, including two at the heart of this episode: insights into one of Neptune’s moons and a “hot Jupiter” exoplanet orbiting another star. This exoplanet has a strange weather system with high winds and cloud coverage only on one side of the planet. Fill in some of the scientific gaps about our solar system and the universe beyond with us.
-
-_Interested in more space science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/34dfb091-409b-448f-944c-359e6a00a057/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=34dfb091-409b-448f-944c-359e6a00a057&feed=F0qJcgXZ&t=podcast&e=nx-s1-5830286&p=510351&d=587&size=9397439" length="9397439" type="audio/mpeg" />
-      <guid>cid://2b38bf36-237b-43bb-9a94-8ebf6f2f1057</guid>
-    </item>    <item>
-      <title>Painting the Growing Season in the Maize Triangle</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/</link>
-      <description>
-        <![CDATA[Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere’s growing season.]]>
-      </description>
-      <source:markdown>Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere’s growing season.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/</guid>
     </item>
   </channel>
 </rss>
