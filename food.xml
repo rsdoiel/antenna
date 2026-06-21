@@ -4,10 +4,40 @@
   <channel>
     <title>Healthy Eating, Good Eating and Recipes</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>20 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>21 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Strawberry Recipes</title>
+      <link>https://www.closetcooking.com/strawberry-recipes/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/05/Strawberry-Recipes.jpg"/></div>
+        <p>The best recipes for enjoying fresh summer strawberries! Quick and easy recipes for sweet strawberry recipes and savoury, desserts, mains, breakfasts, snacks, salads, sandwiches, etc. The summer strawberry season is in full swing and the grocery stores are filled with local strawberries! Strawberries are one of the foods that most remind me of summer and...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/strawberry-recipes/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/strawberry-recipes/">Strawberry Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2018/05/Strawberry-Recipes.jpg)
+
+The best recipes for enjoying fresh summer strawberries! Quick and easy recipes for sweet strawberry recipes and savoury, desserts, mains, breakfasts, snacks, salads, sandwiches, etc. The summer strawberry season is in full swing and the grocery stores are filled with local strawberries! Strawberries are one of the foods that most remind me of summer and...
+
+[Read On →](https://www.closetcooking.com/strawberry-recipes/)
+
+The post [Strawberry Recipes](https://www.closetcooking.com/strawberry-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/2018/05/27/strawberry-recipes/</guid>
+    </item>    <item>
+      <title>Crispy Jicama Fries</title>
+      <link>https://www.isabeleats.com/baked-jicama-fries/</link>
+      <description>
+        <![CDATA[<div>
+        	<a href="https://www.isabeleats.com/baked-jicama-fries/"><img title="Crispy Baked Jicama Fries" src="https://www.isabeleats.com/wp-content/uploads/2020/05/baked-jicama-fries-small-8-400x600.jpg" alt="Crispy baked jicama fries on a plate with a side of ketchup" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+        	</div>
+        	Crispy on the outside, tender on the inside, and made with just 5 ingredients, these jicama fries are a lower-carb&#8230;]]>
+      </description>
+      <source:markdown>[![Crispy baked jicama fries on a plate with a side of ketchup](https://www.isabeleats.com/wp-content/uploads/2020/05/baked-jicama-fries-small-8-400x600.jpg)](https://www.isabeleats.com/baked-jicama-fries/)
+
+ Crispy on the outside, tender on the inside, and made with just 5 ingredients, these jicama fries are a lower-carb…</source:markdown>
+      <guid>cid://https://www.isabeleats.com/?p=19273</guid>
+    </item>    <item>
       <title>Chocolate Magic Shell</title>
       <link>https://www.tasteofhome.com/recipes/chocolate-magic-shell/</link>
       <description>
@@ -946,22 +976,6 @@ The post [Creamy Cottage Cheese Tuscan Chicken Pasta](https://www.closetcooking.
       <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster&#39;s Village.**</source:markdown>
       <guid>cid://https://sprudge.com/?p=1074819</guid>
     </item>    <item>
-      <title>2-Ingredient Chocolate Mousse</title>
-      <link>https://www.bonappetit.com/recipe/2-ingredient-chocolate-mousse</link>
-      <description>
-        <![CDATA[It comes together in a blender and just happens to be dairy-free.]]>
-      </description>
-      <source:markdown>It comes together in a blender and just happens to be dairy-free.</source:markdown>
-      <guid>cid://6a203c319b8ac6475c0f6d06</guid>
-    </item>    <item>
-      <title>This Chocolate Mousse Is Powered by a Block of Tofu</title>
-      <link>https://www.bonappetit.com/story/its-that-simple-chocolate-tofu-mousse</link>
-      <description>
-        <![CDATA[Two ingredients and less than five minutes of effort adds up to a fancy-pants treat you could serve in a chic bistro.]]>
-      </description>
-      <source:markdown>Two ingredients and less than five minutes of effort adds up to a fancy-pants treat you could serve in a chic bistro.</source:markdown>
-      <guid>cid://6a2974f77ea026e90e78d00e</guid>
-    </item>    <item>
       <title>Father’s Day Recipes</title>
       <link>https://www.closetcooking.com/33-fathers-day-recipes/</link>
       <description>
@@ -978,6 +992,22 @@ Quick and easy recipes to make dads Father’s Day special! Father’s Day is ne
 
 The post [Father’s Day Recipes](https://www.closetcooking.com/33-fathers-day-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2018/06/10/33-fathers-day-recipes/</guid>
+    </item>    <item>
+      <title>2-Ingredient Chocolate Mousse</title>
+      <link>https://www.bonappetit.com/recipe/2-ingredient-chocolate-mousse</link>
+      <description>
+        <![CDATA[It comes together in a blender and just happens to be dairy-free.]]>
+      </description>
+      <source:markdown>It comes together in a blender and just happens to be dairy-free.</source:markdown>
+      <guid>cid://6a203c319b8ac6475c0f6d06</guid>
+    </item>    <item>
+      <title>This Chocolate Mousse Is Powered by a Block of Tofu</title>
+      <link>https://www.bonappetit.com/story/its-that-simple-chocolate-tofu-mousse</link>
+      <description>
+        <![CDATA[Two ingredients and less than five minutes of effort adds up to a fancy-pants treat you could serve in a chic bistro.]]>
+      </description>
+      <source:markdown>Two ingredients and less than five minutes of effort adds up to a fancy-pants treat you could serve in a chic bistro.</source:markdown>
+      <guid>cid://6a2974f77ea026e90e78d00e</guid>
     </item>    <item>
       <title>Fresas Con Crema (Mexican Strawberries and Cream)</title>
       <link>https://www.isabeleats.com/fresas-con-crema/</link>
@@ -3063,71 +3093,6 @@ The best vegetarian recipes for quick, easy and tasty meatless Mondays! Are you 
 
 The post [Meatless Mondays](https://www.closetcooking.com/meatless-mondays/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
       <guid>cid://https://www.closetcooking.com/2018/02/25/meatless-mondays/</guid>
-    </item>    <item>
-      <title>14 Miso Recipes Including Miso Soup, Veggies and More</title>
-      <link>https://www.tasteofhome.com/collection/miso-recipes/</link>
-      <description>
-        <![CDATA[<p>These miso recipes offer countless ways to use the savory fermented paste, including an always-satisfying miso soup, to help you use up an open container and then send you back to the store for more.</p>
-        <p>The post <a href="https://www.tasteofhome.com/collection/miso-recipes/">14 Miso Recipes Including Miso Soup, Veggies and More</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <source:markdown>These miso recipes offer countless ways to use the savory fermented paste, including an always-satisfying miso soup, to help you use up an open container and then send you back to the store for more.
-
-The post [14 Miso Recipes Including Miso Soup, Veggies and More](https://www.tasteofhome.com/collection/miso-recipes/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=listicle&#38;p=2248068</guid>
-    </item>    <item>
-      <title>Blueberry Lemonade</title>
-      <link>https://www.tasteofhome.com/recipes/blueberry-lemonade/</link>
-      <description>
-        <![CDATA[This vibrant blueberry lemonade is bursting with sweet-tart flavor—perfect to share on sunny days.]]>
-      </description>
-      <source:markdown>This vibrant blueberry lemonade is bursting with sweet-tart flavor—perfect to share on sunny days.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2240706</guid>
-    </item>    <item>
-      <title>Doo Duh-Doo Duh-Doo Doo Coffee Gadgets Doo Duh-Doo Duh-Doo Doo Doo</title>
-      <link>https://sprudge.com/doo-duh-doo-duh-doo-doo-coffee-gadgets-doo-duh-doo-duh-doo-doo-doo-1028833.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=1028833</guid>
-    </item>    <item>
-      <title>Whipped Goat Cheese Dip</title>
-      <link>https://www.tasteofhome.com/recipes/whipped-goat-cheese-dip/</link>
-      <description>
-        <![CDATA[This easy whipped goat cheese dip—made with hot honey, cream cheese and fresh herbs—is sure to become a party favorite.]]>
-      </description>
-      <source:markdown>This easy whipped goat cheese dip—made with hot honey, cream cheese and fresh herbs—is sure to become a party favorite.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2249081</guid>
-    </item>    <item>
-      <title>Gouda Grits</title>
-      <link>https://www.tasteofhome.com/recipes/gouda-grits/</link>
-      <description>
-        <![CDATA[These cheesy Gouda grits are rich, cozy and the kind of side you’ll want to eat straight from the pot.]]>
-      </description>
-      <source:markdown>These cheesy Gouda grits are rich, cozy and the kind of side you’ll want to eat straight from the pot.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2240962</guid>
-    </item>    <item>
-      <title>This Affordable Walmart Espresso Maker Became Part of My Morning Ritual</title>
-      <link>https://www.tasteofhome.com/article/walmart-espresso-machine-review/</link>
-      <description>
-        <![CDATA[<p>Our editor's review of the Thyme &#038; Table espresso maker after a month of using the compact countertop machine.</p>
-        <p>The post <a href="https://www.tasteofhome.com/article/walmart-espresso-machine-review/">This Affordable Walmart Espresso Maker Became Part of My Morning Ritual</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <source:markdown>Our editor&#39;s review of the Thyme &#38; Table espresso maker after a month of using the compact countertop machine.
-
-The post [This Affordable Walmart Espresso Maker Became Part of My Morning Ritual](https://www.tasteofhome.com/article/walmart-espresso-machine-review/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?p=2248409</guid>
-    </item>    <item>
-      <title>I Tried the New Le Creuset Bread Oven—And Baked My Best Loaves Yet</title>
-      <link>https://www.tasteofhome.com/article/le-creuset-bread-oven-review/</link>
-      <description>
-        <![CDATA[<p>This sleek piece of cookware can help you craft bakery-style loaves at home. </p>
-        <p>The post <a href="https://www.tasteofhome.com/article/le-creuset-bread-oven-review/">I Tried the New Le Creuset Bread Oven—And Baked My Best Loaves Yet</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <source:markdown>This sleek piece of cookware can help you craft bakery-style loaves at home.
-
-The post [I Tried the New Le Creuset Bread Oven—And Baked My Best Loaves Yet](https://www.tasteofhome.com/article/le-creuset-bread-oven-review/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?p=2246346</guid>
     </item>
   </channel>
 </rss>

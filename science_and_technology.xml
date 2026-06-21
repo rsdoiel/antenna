@@ -4,7 +4,7 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Jun 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>21 Jun 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2668,14 +2668,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>When Cameron Kaiser speaks, we listen. In 1982, as we mentioned at length with our history of the DEC Professional, Digital Equipment Corporation attempted to keep their PDP-11 minicomputer market-relevant by turning the venerable architecture into a largely incompatible desktop microcomputer. But that wasn’t the only PDP-series mini it happened to, and it wasn’t even the first: the PDP-8 actually got the shrink-ray treatment several years before, and not content to merely make it into a smaller general purpose computer, DEC turned it into a word processor. ↫ Cameron Kaiser at Old Vintage Computing A word processor that’s still sort of a PDP-8 inside, and that could run CP/M or even DOS using a Z80 or 8086 expansion card.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145157</guid>
-    </item>    <item>
-      <title>Settlers of Catan, TUI edition</title>
-      <link>https://www.osnews.com/story/145154/settlers-of-catan-tui-edition/</link>
-      <description>
-        <![CDATA[A beautiful TUI might not be particularly accessible, and there&#8217;s effectively zero consistency between how different TUI applications look, feel, and behave, but damn if an amazing TUI isn&#8217;t a work of art. Case in point: El Poblador. This is a TUI version of Settles of Catan, written in Go. That&#8217;s it. That&#8217;s the post.]]>
-      </description>
-      <source:markdown>A beautiful TUI might not be particularly accessible, and there’s effectively zero consistency between how different TUI applications look, feel, and behave, but damn if an amazing TUI isn’t a work of art. Case in point: El Poblador. This is a TUI version of Settles of Catan, written in Go. That’s it. That’s the post.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145154</guid>
     </item>
   </channel>
 </rss>

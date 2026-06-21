@@ -7,7 +7,7 @@
       Blogs, columns and snapshots from around the web.
     </description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>20 Jun 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>21 Jun 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -38,6 +38,518 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>“Higher Ground”</title>
+      <link>https://steady.substack.com/p/higher-ground</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!VxpO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b13c778-ffc9-4adc-8317-6562ce8dc3cd_7286x5023.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/higher-ground</guid>
+    </item>    <item>
+      <title>No, Infinite Growth is not Possible</title>
+      <link>https://literatemachine.com/2026/06/21/no-infinite-growth-is-not-possible/</link>
+      <description>
+        <![CDATA[YouTube Version &#124; Audio Version In my last video about capitalism dying, I took it as a given that infinite growth on a finite planet is impossible, and from there talked about evidence that growth of the real economy is running out and instead all we’re seeing is asset inflation, as companies use their money<p><a href="https://literatemachine.com/2026/06/21/no-infinite-growth-is-not-possible/" class="more-link themebutton">Read More</a></p>]]>
+      </description>
+      <source:markdown>YouTube Version \| Audio Version In my last video about capitalism dying, I took it as a given that infinite growth on a finite planet is impossible, and from there talked about evidence that growth of the real economy is running out and instead all we’re seeing is asset inflation, as companies use their money
+
+[Read More](https://literatemachine.com/2026/06/21/no-infinite-growth-is-not-possible/)</source:markdown>
+      <guid>cid://https://literatemachine.com/?p=1185</guid>
+    </item>    <item>
+      <link>https://caseyrb.com/blog/what-are-wordpress-plugin-licenses-paying-for/</link>
+      <description>
+        <![CDATA[<p>Reconsidering the WordPress business model: what are plugin licenses actually paying for?</p>]]>
+      </description>
+      <source:markdown>Reconsidering the WordPress business model: what are plugin licenses actually paying for?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/21/4137/</guid>
+    </item>    <item>
+      <title>On Fatherhood</title>
+      <link>https://dbarkhuff.substack.com/p/on-fatherhood</link>
+      <description>
+        <![CDATA[And The Spills Of Life]]>
+      </description>
+      <source:markdown>And The Spills Of Life</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ImEB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6859ca59-c3ea-4a3a-b82a-320f5ad62f18_1222x1082.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/on-fatherhood</guid>
+    </item>    <item>
+      <title>It’s a beautiful day in Cobh.</title>
+      <link>https://adactio.com/notes/22627</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22627/small.jpg" srcset="https://adactio.com/images/uploaded/22627/medium.jpg 1.5x, https://adactio.com/images/uploaded/22627/large.jpg 2.5x" alt="It’s a beautiful day in Cobh." />
+        <p>It’s a beautiful day in Cobh.</p>]]>
+      </description>
+      <source:markdown>![It’s a beautiful day in Cobh.](https://adactio.com/images/uploaded/22627/small.jpg)
+
+It’s a beautiful day in Cobh.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22627</guid>
+    </item>    <item>
+      <title>If Other US Wars Had Gone Like Iran</title>
+      <link>https://www.borowitzreport.com/p/if-other-us-wars-had-gone-like-iran</link>
+      <description>
+        <![CDATA[TBR Sunday Read]]>
+      </description>
+      <source:markdown>TBR Sunday Read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!XkHo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F510db858-70dd-4a9b-bb67-104b3a856674_3300x2392.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/if-other-us-wars-had-gone-like-iran</guid>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books - Sovereign Default And 1700s Historical Novels</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-97/</link>
+      <description>
+        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
+      </description>
+      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
+      <guid>cid://6a351c5f321fbf00017bc3e0</guid>
+    </item>    <item>
+      <title>Newsboat 2.44 is out</title>
+      <link>https://newsboat.org/releases/2.44/docs/newsboat.html</link>
+      <description>
+        <![CDATA[<p>
+                        Another quarter, another Newsboat release!
+                    </p>
+        
+                    <p>
+                        The headline feature is the ability to open urls list at the
+                        current feed. This has been requested more than ten years ago,
+                        back on the Newsbeuter tracker, and now the implementation is
+                        finally here. You have to manually rebind the
+                        <code>edit-urls</code> operation, but it's one-time configuration
+                        that should pay in ease-of-use forever. Check out
+                        <a href="https://newsboat.org/releases/2.44/docs/newsboat.html#edit-urls">the updated docs</a>
+                        for example config.
+                    </p>
+        
+                    <p>
+                        The release also contains a handful of bugfixes and
+                        improvements, which you can read all about in the changelog.
+                    </p>
+        
+                    <p>As usual, the release artifacts are on the site and GitHub:
+                            <a href="https://newsboat.org/releases/2.44/newsboat-2.44.tar.xz">tar.xz</a>,
+                            <a href="https://newsboat.org/releases/2.44/newsboat-2.44.tar.xz.asc">asc</a>,
+                            <a href="https://newsboat.org/releases/2.44/docs/newsboat.html">docs</a>,
+                            <a href="https://newsboat.org/releases/2.44/docs/faq.html">FAQ</a>,
+                            <a href="https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#244---2026-06-21">changelog</a>.
+                    </p>]]>
+      </description>
+      <source:markdown>Another quarter, another Newsboat release!
+
+
+The headline feature is the ability to open urls list at the
+current feed. This has been requested more than ten years ago,
+back on the Newsbeuter tracker, and now the implementation is
+finally here. You have to manually rebind the
+`edit-urls` operation, but it&#39;s one-time configuration
+that should pay in ease-of-use forever. Check out
+[the updated docs](https://newsboat.org/releases/2.44/docs/newsboat.html#edit-urls)
+for example config.
+
+
+The release also contains a handful of bugfixes and
+improvements, which you can read all about in the changelog.
+
+
+As usual, the release artifacts are on the site and GitHub:
+[tar.xz](https://newsboat.org/releases/2.44/newsboat-2.44.tar.xz),
+[asc](https://newsboat.org/releases/2.44/newsboat-2.44.tar.xz.asc),
+[docs](https://newsboat.org/releases/2.44/docs/newsboat.html),
+[FAQ](https://newsboat.org/releases/2.44/docs/faq.html),
+[changelog](https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#244---2026-06-21).</source:markdown>
+      <author>eual.jp@gmail.com (Alexander Batischev)</author>
+      <guid>cid://https://newsboat.org/releases/2.44/docs/newsboat.html</guid>
+    </item>    <item>
+      <title>Technology, Capital and Skills</title>
+      <link>https://paulkrugman.substack.com/p/technology-capital-and-skills</link>
+      <description>
+        <![CDATA[Rethinking the story of AI and inequality]]>
+      </description>
+      <source:markdown>Rethinking the story of AI and inequality</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!uZM9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2787f60-550d-4538-87b9-fa3058e1b9f9_2500x2500.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/technology-capital-and-skills</guid>
+    </item>    <item>
+      <title>Jeremy Clarkson Reveals That His Cancer Is In Remission After ‘Clarkson’s Farm’ Bombshell</title>
+      <link>https://deadline.com/2026/06/jeremy-clarkson-cancer-remission-clarksons-farm-1236963374/</link>
+      <description>
+        <![CDATA[Jeremy Clarkson has declared himself the &#8220;world’s luckiest man&#8221; after he survived two major health scares during filming on Season 5 of Clarkson&#8217;s Farm. The former Top Gear presenter underwent a heart procedure in the first episode of the Amazon Prime Video series, while Season 5 concluded on the bombshell of his cancer diagnosis. Clarkson [&#8230;]]]>
+      </description>
+      <source:markdown>Jeremy Clarkson has declared himself the “world’s luckiest man” after he survived two major health scares during filming on Season 5 of Clarkson’s Farm. The former Top Gear presenter underwent a heart procedure in the first episode of the Amazon Prime Video series, while Season 5 concluded on the bombshell of his cancer diagnosis. Clarkson \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963374</guid>
+    </item>    <item>
+      <title>Hong Kong, China</title>
+      <link>https://xn--gckvb8fzb.com/travel/china/hong-kong/</link>
+      <description>
+        <![CDATA["Hong Kong is a special administrative region of China. Situated on China's
+        southern coast just south of Shenzhen, it consists of Hong Kong Island,
+        Kowloon, and the New Territories. With 7.5 million residents in a
+        1,114-square-kilometre (430 sq mi) territory, Hong Kong is the fourth-most
+        densely populated region in the world."]]>
+      </description>
+      <source:markdown>&#34;Hong Kong is a special administrative region of China. Situated on China&#39;s
+southern coast just south of Shenzhen, it consists of Hong Kong Island,
+Kowloon, and the New Territories. With 7.5 million residents in a
+1,114-square-kilometre (430 sq mi) territory, Hong Kong is the fourth-most
+densely populated region in the world.&#34;</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///travel/china/hong-kong/</guid>
+    </item>    <item>
+      <title>Sunday thought: 135 Days</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-135-days</link>
+      <description>
+        <![CDATA[Until we throw the bums out and limit Trump's reign of criminality, corruption, cruelty, and treachery]]>
+      </description>
+      <source:markdown>Until we throw the bums out and limit Trump&#39;s reign of criminality, corruption, cruelty, and treachery</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!MSq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dd7a532-7acc-4c82-b0e1-dff07b402461_1600x1067.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-135-days</guid>
+    </item>    <item>
+      <title>Bain taitneamh as an grianstad inniu!</title>
+      <link>https://adactio.com/notes/22626</link>
+      <description>
+        <![CDATA[<p>Bain taitneamh as an grianstad inniu!</p>]]>
+      </description>
+      <source:markdown>Bain taitneamh as an grianstad inniu!</source:markdown>
+      <guid>cid://https://adactio.com/notes/22626</guid>
+    </item>    <item>
+      <title>Horror and Romance as mirror genres</title>
+      <link>https://tracydurnell.com/2026/06/20/horror-romance-mirror-genres/</link>
+      <description>
+        <![CDATA[I&#8217;ve been thinking about genre again, pondering Romance and horror as two sides of a coin. I compared notes* with a friend who reads a lot of horror, and we were surprised how much they served as mirrors. Both genres are powerful storytelling modes: one imagines the worst that could happen; the other imagines the [&#8230;]]]>
+      </description>
+      <source:markdown>I’ve been thinking about genre again, pondering Romance and horror as two sides of a coin. I compared notes\* with a friend who reads a lot of horror, and we were surprised how much they served as mirrors. Both genres are powerful storytelling modes: one imagines the worst that could happen; the other imagines the \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=38312</guid>
+    </item>    <item>
+      <title>June 20, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/june-20-2026</link>
+      <description>
+        <![CDATA[The Lincoln Memorial Reflecting Pool has become a metaphor for the Trump presidency.]]>
+      </description>
+      <source:markdown>The Lincoln Memorial Reflecting Pool has become a metaphor for the Trump presidency.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/june-20-2026</guid>
+    </item>    <item>
+      <title>Aubrey Plaza Announces ‘Kevin’ Cancellation, Hopes Show “Will Find A New Owner Someday”</title>
+      <link>https://deadline.com/2026/06/aubrey-plaza-kevin-cancellation-hopes-find-new-owner-1236963369/</link>
+      <description>
+        <![CDATA[Prime Video has apparently opted to put Kevin down, but series co-creator Aubrey Plaza has hopes the animated show about a talking cat will get to use one of its other nine lives. On Saturday, the Golden Globe nominee announced the &#8220;very disappointing&#8221; news that the show she co-created with ex Joe Wengert about their [&#8230;]]]>
+      </description>
+      <source:markdown>Prime Video has apparently opted to put Kevin down, but series co-creator Aubrey Plaza has hopes the animated show about a talking cat will get to use one of its other nine lives. On Saturday, the Golden Globe nominee announced the “very disappointing” news that the show she co-created with ex Joe Wengert about their \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963369</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3morb76jxyc2a</link>
+      <description>
+        <![CDATA[I had one rule this week: no one plays on Home Court until some old friends and I get some shots up. 
+        
+        Who’s got next? 🏀]]>
+      </description>
+      <source:markdown>I had one rule this week: no one plays on Home Court until some old friends and I get some shots up.
+
+Who’s got next? 🏀</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3morb76jxyc2a</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3mor5hxprxk2i</link>
+      <description>
+        <![CDATA[Punihei, thank you for that outstanding introduction and for all the work you’re doing back home in Hawai'i!]]>
+      </description>
+      <source:markdown>Punihei, thank you for that outstanding introduction and for all the work you’re doing back home in Hawai&#39;i!</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3mor5hxprxk2i</guid>
+    </item>    <item>
+      <title>lynx --nocolor</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_lynx_nocolor</link>
+      <description>
+        <![CDATA[I really dislike how the Lynx WWW browser looks on some modern systems. On my  SGI it  was OK -  it simply respected  IRIS terminal  colors. On modern systems in seems to be full of colors with gray background. Text colors are quite  nice but I have disliked the  gray background. I have wished to have or black one  or transparent one (it a terminal emulator supports transparency).]]>
+      </description>
+      <source:markdown>I really dislike how the Lynx WWW browser looks on some modern systems. On my SGI it was OK - it simply respected IRIS terminal colors. On modern systems in seems to be full of colors with gray background. Text colors are quite nice but I have disliked the gray background. I have wished to have or black one or transparent one (it a terminal emulator supports transparency).</source:markdown>
+      <guid>cid://594022f68a1dc5903c84bc8eee45c278</guid>
+    </item>    <item>
+      <title>Working from home</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_Working_from_home</link>
+      <description>
+        <![CDATA[And this is my main tool:]]>
+      </description>
+      <source:markdown>And this is my main tool:</source:markdown>
+      <guid>cid://db5ed6d83fb747099d408dcabaa7c061</guid>
+    </item>    <item>
+      <title>Workflow: Changes and additions</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_Workflow_Changes_and_additions</link>
+      <description>
+        <![CDATA[Things are continuously  developing or at least  changing. For example, my  gVim on  my GPD  Pocket (Ubuntu  MATE 18.04)  has issues  with text encoding.  If  I  create a  new  file  then  I  everything is  OK.  But when  I  save  it  and  re-open it  then  it  en-codes  local  language characters incorrectly.  It is  strange because I  have been  using the same  .vimrc/.gvimrc for  ages on  several Linux  machines and  I never encountered such behaviour.]]>
+      </description>
+      <source:markdown>Things are continuously developing or at least changing. For example, my gVim on my GPD Pocket (Ubuntu MATE 18.04) has issues with text encoding. If I create a new file then I everything is OK. But when I save it and re-open it then it en-codes local language characters incorrectly. It is strange because I have been using the same .vimrc/.gvimrc for ages on several Linux machines and I never encountered such behaviour.</source:markdown>
+      <guid>cid://4f6b80c6560d14f2ff85e1097188f1de</guid>
+    </item>    <item>
+      <title>Tungsten W + PalmPix</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_Tungsten_W_PalmPix</link>
+      <description>
+        <![CDATA[As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx  devices. So I have almost modern  smarphone (jsut 17 years old!) with the (detachable camera).]]>
+      </description>
+      <source:markdown>As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx devices. So I have almost modern smarphone (jsut 17 years old!) with the (detachable camera).</source:markdown>
+      <guid>cid://92a5dbb84199ba35942e2708ca076667</guid>
+    </item>    <item>
+      <title>TRGpro tuning (2)</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_TRGpro_tuning_2</link>
+      <description>
+        <![CDATA[Just a tiny  update this time. I only replaced  the broken battery door by unused one (which I have borrowed them from my Palm IIIe).]]>
+      </description>
+      <source:markdown>Just a tiny update this time. I only replaced the broken battery door by unused one (which I have borrowed them from my Palm IIIe).</source:markdown>
+      <guid>cid://3434c279c95bc3166f156ac878009271</guid>
+    </item>    <item>
+      <title>TRGpro tuning</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_TRGpro_tuning</link>
+      <description>
+        <![CDATA[The PILOT  Pentopia Chameleon stylus  for Palm  III and VI   {sup}1{/sup} arrived today. It  is a  stylus with integrated  reset pin and  - last  but not least  - an  actual pen.  The pen  refill is  thin and  it is  labelled "Pilot" but I assume that  a thin (non-pressurized) Fischer refill will fit here. This stylus has a  bit different shape than the original Palm III pen and its tip is a bit harder but it is usable (I am writing this post with  it). It is  also little thicker  than the original  which is actually a plus - it sits more reliable in stylus housing of my heavily used Palms - I lost several styli from my old IIIxe and almost lost one of my TRGpro recently. The  {sup}1{/sup} says  that it is better for writing than the original stylus but I don't think so. I see no improvement.]]>
+      </description>
+      <source:markdown>The PILOT Pentopia Chameleon stylus for Palm III and VI {sup}1{/sup} arrived today. It is a stylus with integrated reset pin and - last but not least - an actual pen. The pen refill is thin and it is labelled &#34;Pilot&#34; but I assume that a thin (non-pressurized) Fischer refill will fit here. This stylus has a bit different shape than the original Palm III pen and its tip is a bit harder but it is usable (I am writing this post with it). It is also little thicker than the original which is actually a plus - it sits more reliable in stylus housing of my heavily used Palms - I lost several styli from my old IIIxe and almost lost one of my TRGpro recently. The {sup}1{/sup} says that it is better for writing than the original stylus but I don&#39;t think so. I see no improvement.</source:markdown>
+      <guid>cid://5aa3ae59cc36fd1cae27d68001e2e432</guid>
+    </item>    <item>
+      <title>TRG Pro: first impressions</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_TRG_Pro_first_impressions</link>
+      <description>
+        <![CDATA[The title is  all wrong because I  extensively used the TRG  Pro in the past. But the last time when I synced  the TRG was in 2/2016 and then I have been using the original Palm III devices (IIIx + IIIxe) instead of the TRG. I have not wanted to damage  or lost my only TRG Pro (which is pretty rare as you  may know). Now I have two TRGs so  I can use one of them on daily basis, I think.]]>
+      </description>
+      <source:markdown>The title is all wrong because I extensively used the TRG Pro in the past. But the last time when I synced the TRG was in 2/2016 and then I have been using the original Palm III devices (IIIx + IIIxe) instead of the TRG. I have not wanted to damage or lost my only TRG Pro (which is pretty rare as you may know). Now I have two TRGs so I can use one of them on daily basis, I think.</source:markdown>
+      <guid>cid://5b1c82f679ce3b588fd1216a03cb50cd</guid>
+    </item>    <item>
+      <title>Standing desk attempt</title>
+      <link>http://jirka.1-2-8.net/20260621-0244_Standing_desk_attempt</link>
+      <description>
+        <![CDATA[I'm trying to set  up a standing desk in my office. I  found a (less or more) space, two  older LCDs (the ViewSonic vp171s),  then prepared the keyboard and mouse.]]>
+      </description>
+      <source:markdown>I&#39;m trying to set up a standing desk in my office. I found a (less or more) space, two older LCDs (the ViewSonic vp171s), then prepared the keyboard and mouse.</source:markdown>
+      <guid>cid://f6babe833af0162e17ee70c1a4ae7f7e</guid>
+    </item>    <item>
+      <title>‘Declarations: Black Americans &#38; The Revolutionary War’ Doc Filmmakers On Using GenAI To “Give Our Historical Subjects Agency”</title>
+      <link>https://deadline.com/2026/06/declarations-using-genai-give-historical-subjects-agency-1236963359/</link>
+      <description>
+        <![CDATA[With the United States&#8217; 250th birthday, the documentary filmmakers of Declarations: Black Americans and the Revolutionary War turned to modern technology to reclaim history. Director Stacey Holman and her co-writer/fellow director Maya Tepler explained why chose to use generative AI to &#8220;give our historical subjects agency&#8221; and how they hope this documentary, premiering June 29 [&#8230;]]]>
+      </description>
+      <source:markdown>With the United States’ 250th birthday, the documentary filmmakers of Declarations: Black Americans and the Revolutionary War turned to modern technology to reclaim history. Director Stacey Holman and her co-writer/fellow director Maya Tepler explained why chose to use generative AI to “give our historical subjects agency” and how they hope this documentary, premiering June 29 \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963359</guid>
+    </item>    <item>
+      <link>https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[<p>Why an AI company cleaned my New York City apartment for free.</p>]]>
+      </description>
+      <source:markdown>Why an AI company cleaned my New York City apartment for free.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/20/4135/</guid>
+    </item>    <item>
+      <title>QUERY with curl</title>
+      <link>https://daniel.haxx.se/blog/2026/06/21/query-with-curl/</link>
+      <description>
+        <![CDATA[RFC 10008 is brand new a specification detailing the new HTTP method called QUERY: This specification defines the QUERY method for HTTP. A QUERY requests that the request target process the enclosed content in a safe and idempotent manner and then respond with the result of that processing. This is similar to POST requests but &#8230; <a href="https://daniel.haxx.se/blog/2026/06/21/query-with-curl/" class="more-link">Continue reading <span class="screen-reader-text">QUERY with curl</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>RFC 10008 is brand new a specification detailing the new HTTP method called QUERY: This specification defines the QUERY method for HTTP. A QUERY requests that the request target process the enclosed content in a safe and idempotent manner and then respond with the result of that processing. This is similar to POST requests but … [Continue reading QUERY with curl→](https://daniel.haxx.se/blog/2026/06/21/query-with-curl/)</source:markdown>
+      <guid>cid://https://daniel.haxx.se/blog/?p=28607</guid>
+    </item>    <item>
+      <title>Archival Producer Rochelle Widdowson Sounds Alarm About Potential Impact Of Paramount-WBD Merger: “It’s Heartbreaking” – Bentonville Film Festival</title>
+      <link>https://deadline.com/2026/06/paramount-wbd-merger-archival-producer-rochelle-widdowson-interview-1236963343/</link>
+      <description>
+        <![CDATA[The Paramount-Warner Bros. Discovery merger, if it goes through, would not only have a major impact on the future of the media business, but on our collective past. Skydance Media, through its acquisition of Paramount, already controls the CBS News archive. If Paramount succeeds in taking over WBD, it will also assume control of the [&#8230;]]]>
+      </description>
+      <source:markdown>The Paramount-Warner Bros. Discovery merger, if it goes through, would not only have a major impact on the future of the media business, but on our collective past. Skydance Media, through its acquisition of Paramount, already controls the CBS News archive. If Paramount succeeds in taking over WBD, it will also assume control of the \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963343</guid>
+    </item>    <item>
+      <title>Sam Levinson Defends ‘Euphoria’s “Fairly Critical” Depiction Of OnlyFans Culture: “It Hollows Out The Individual”</title>
+      <link>https://deadline.com/2026/06/sam-levinson-defends-euphoria-fairly-critical-onlyfans-1236963341/</link>
+      <description>
+        <![CDATA[Following criticism of Euphoria&#8216;s final season and its depiction of OnlyFans creators, Sam Levinson has addressed the backlash. The creator of the HBO series admitted he took a &#8220;fairly critical look&#8221; at OnlyFans culture, explaining on Real Time with Bill Maher why he didn&#8217;t &#8220;affirm this life and how empowering&#8221; it can. &#8220;If you look [&#8230;]]]>
+      </description>
+      <source:markdown>Following criticism of Euphoria‘s final season and its depiction of OnlyFans creators, Sam Levinson has addressed the backlash. The creator of the HBO series admitted he took a “fairly critical look” at OnlyFans culture, explaining on Real Time with Bill Maher why he didn’t “affirm this life and how empowering” it can. “If you look \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963341</guid>
+    </item>    <item>
+      <title>Lost Land (Raindance Film Festival 2026): las aristas de la inmigración</title>
+      <link>https://www.palomitademaiz.net/resenas-lost-land-raindance-film-festival-2026/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-lost-land-raindance-film-festival-2026</link>
+      <description>
+        <![CDATA[<p>Dirección: Akio Fujimoto. Guion: Akio Fujimoto. Elenco: Muhammad Shofik Rias Uddin, Shomira Rias Uddin. Países: Japón, Francia, Alemania y Malasia. Más información de la película: https://www.imdb.com/title/tt37660506/ En el mundo existen etnias que viven exclusión en sus países de origen. Los uigures en China, los yazidíes de Irak y los tutsis en Ruanda han experimentado persecuciones violentas por [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-lost-land-raindance-film-festival-2026/">Lost Land (Raindance Film Festival 2026): las aristas de la inmigración</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Akio Fujimoto. Guion: Akio Fujimoto. Elenco: Muhammad Shofik Rias Uddin, Shomira Rias Uddin. Países: Japón, Francia, Alemania y Malasia. Más información de la película: https://www.imdb.com/title/tt37660506/ En el mundo existen etnias que viven exclusión en sus países de origen. Los uigures en China, los yazidíes de Irak y los tutsis en Ruanda han experimentado persecuciones violentas por \[…\]
+
+La entrada [Lost Land (Raindance Film Festival 2026): las aristas de la inmigración](https://www.palomitademaiz.net/resenas-lost-land-raindance-film-festival-2026/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=26591</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/06/20.html#a215338</link>
+      <description>
+        <![CDATA[Doing a prior art search and came across this <a href="http://scripting.com/davenet/1994/10/22/scriptingtheinternet.html">early DaveNet example</a>. The left column had the blue ribbon for free speech on the web, and below were links to the archive pages for each of the years. <a href="https://imgs.scripting.com/2026/06/20/davenetExample.png">Screen shot</a>. About ten years of essay writing. DaveNet was where the blog started, and then it became an arm of the blog home page which also included titleless posts, <a href="http://scripting.com/2003/06/20.html">example</a>, and then all the action moved onto the new <a href="http://scripting.com/">home page</a> and that was the end of this layout.]]>
+      </description>
+      <source:markdown>Doing a prior art search and came across this [early DaveNet example](http://scripting.com/davenet/1994/10/22/scriptingtheinternet.html). The left column had the blue ribbon for free speech on the web, and below were links to the archive pages for each of the years. [Screen shot](https://imgs.scripting.com/2026/06/20/davenetExample.png). About ten years of essay writing. DaveNet was where the blog started, and then it became an arm of the blog home page which also included titleless posts, [example](http://scripting.com/2003/06/20.html), and then all the action moved onto the new [home page](http://scripting.com/) and that was the end of this layout.</source:markdown>
+      <guid>cid://http://scripting.com/2026/06/20.html#a215338</guid>
+    </item>    <item>
+      <title>The George Carlin Model of AI</title>
+      <link>https://doc.searls.com/2026/06/20/the-george-carlin-model-of-ai/</link>
+      <description>
+        <![CDATA[Forty-five years ago, George Carlin forecast the future of AI: Listen to what George says, if you haven&#8217;t already. You can stop about two and a half minutes in, after he talks about how all your shit is stuff and everyone else&#8217;s stuff is shit. Because that&#8217;s the reason Big AI will never be personal [&#8230;]]]>
+      </description>
+      <source:markdown>Forty-five years ago, George Carlin forecast the future of AI: Listen to what George says, if you haven’t already. You can stop about two and a half minutes in, after he talks about how all your shit is stuff and everyone else’s stuff is shit. Because that’s the reason Big AI will never be personal \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=21825</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/116784590100260741</link>
+      <description>
+        <![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@Gte/116784185852886250" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@Gte/116784185</span><span class="invisible">852886250</span></a></p><p>Man, those were 45 minutes well spent.</p>]]>
+      </description>
+      <source:markdown>RE: [https://mastodon.social/@Gte/116784185852886250](https://mastodon.social/@Gte/116784185852886250)
+
+Man, those were 45 minutes well spent.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/116784590100260741</guid>
+    </item>    <item>
+      <title>Lilly Wachowski Sets Reading Of ‘The Hunted’ At Dynasty Typewriter, Film In Development With Producer Natasha Lyonne</title>
+      <link>https://deadline.com/2026/06/the-hunted-development-lilly-wachowski-producer-natasha-lyonne-1236963331/</link>
+      <description>
+        <![CDATA[EXCLUSIVE: Lilly Wachoswki is setting a different kind of stage for her next project, hosting a live reading of her dystopian political thriller The Hunted, currently in late-stage development with a producing team that includes Natasha Lyonne. Co-written by Wachowski and Mickey R. Mahoney, The Hunted will make its debut with an unconventional live read [&#8230;]]]>
+      </description>
+      <source:markdown>EXCLUSIVE: Lilly Wachoswki is setting a different kind of stage for her next project, hosting a live reading of her dystopian political thriller The Hunted, currently in late-stage development with a producing team that includes Natasha Lyonne. Co-written by Wachowski and Mickey R. Mahoney, The Hunted will make its debut with an unconventional live read \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963331</guid>
+    </item>    <item>
+      <title>Jennifer Aniston, Courteney Cox &#38; ‘Friends’ Cast Remember “Father Figure” James Burrows: “He Spoiled Us Rotten”</title>
+      <link>https://deadline.com/2026/06/jennifer-aniston-friends-stars-tribute-james-burrows-1236963333/</link>
+      <description>
+        <![CDATA[With the death of James Burrows, stars of the most beloved sitcoms are mourning the loss of the multi-cam medium&#8217;s most decorated director. Following Burrows&#8217; death at age 85, Jennifer Aniston paid tribute to the &#8220;father figure&#8221; who directed 15 episodes of the hit NBC series in which she starred as Rachel Green, including the [&#8230;]]]>
+      </description>
+      <source:markdown>With the death of James Burrows, stars of the most beloved sitcoms are mourning the loss of the multi-cam medium’s most decorated director. Following Burrows’ death at age 85, Jennifer Aniston paid tribute to the “father figure” who directed 15 episodes of the hit NBC series in which she starred as Rachel Green, including the \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963333</guid>
+    </item>    <item>
+      <title>Ladderday</title>
+      <link>https://doc.searls.com/2026/06/20/ladderday/</link>
+      <description>
+        <![CDATA[Ed Zitron&#39;s latest two are good reads: Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion Premium: The Silicon Valley Bubble (Part 2) I&#39;ve worked in the Valley, both on-site and in the world, since 1977. (On site was &#39;85 to &#39;01.) It ain&#39;t the same.  On the contrary?::: Notebook LM does [&#8230;]]]>
+      </description>
+      <source:markdown>Ed Zitron&#39;s latest two are good reads: Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion Premium: The Silicon Valley Bubble (Part 2) I&#39;ve worked in the Valley, both on-site and in the world, since 1977. (On site was &#39;85 to &#39;01.) It ain&#39;t the same.  On the contrary?::: Notebook LM does \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/06/20/ladderday/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3moqn3puxxc2i</link>
+      <description>
+        <![CDATA[Michelle and I had fun surprising the first group of visitors to the Obama Presidential Center on Juneteenth. Come check it out!]]>
+      </description>
+      <source:markdown>Michelle and I had fun surprising the first group of visitors to the Obama Presidential Center on Juneteenth. Come check it out!</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3moqn3puxxc2i</guid>
+    </item>    <item>
+      <title>U.S. Rep Joyce Beatty Slams Kennedy Center Management For “Lifeless Husk” As No Programming Scheduled; Calls Tarp “Petty Act Of Defiance”</title>
+      <link>https://deadline.com/2026/06/kennedy-center-lifeless-husk-1236963308/</link>
+      <description>
+        <![CDATA[While Kennedy Center officials consider the extent of planned renovations, the arts facility will remain open, at least for the time being. But don&#8217;t expect any new programming in the immediate future. In a Friday night court filing, Kennedy Center executive director Matt Floca listed three options expected to be presented to the center&#8217;s board [&#8230;]]]>
+      </description>
+      <source:markdown>While Kennedy Center officials consider the extent of planned renovations, the arts facility will remain open, at least for the time being. But don’t expect any new programming in the immediate future. In a Friday night court filing, Kennedy Center executive director Matt Floca listed three options expected to be presented to the center’s board \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963308</guid>
+    </item>    <item>
+      <link>https://apnews.com/article/iran-war-nuclear-deal-hegseth-trump-congress-c80ca2daf0492bac2b19939dbfdb8e29</link>
+      <description>
+        <![CDATA[<p>Congress picks up the pieces after the Iran war.</p>]]>
+      </description>
+      <source:markdown>Congress picks up the pieces after the Iran war.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/20/4133/</guid>
+    </item>    <item>
+      <title>‘Toy Story 5’ Reaches For The Sky With Global Running Cume Of $129M – Box Office</title>
+      <link>https://deadline.com/2026/06/global-box-office-toy-story-5-1236963295/</link>
+      <description>
+        <![CDATA[It&#8217;s an understatement to say that Disney/Pixar&#8217;s Toy Story 5 is off to a great global start at the box office. With $129.3M so far, the Andrew Stanton directed movie is bound to beat its worldwide opening forecast of $275M. Broken out that&#8217;s $71M domestic for Toy Story 5, which as we told you was [&#8230;]]]>
+      </description>
+      <source:markdown>It’s an understatement to say that Disney/Pixar’s Toy Story 5 is off to a great global start at the box office. With $129.3M so far, the Andrew Stanton directed movie is bound to beat its worldwide opening forecast of $275M. Broken out that’s $71M domestic for Toy Story 5, which as we told you was \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963295</guid>
+    </item>    <item>
+      <title>George Lucas Lends Voice To ‘Minions &#38; Monsters’</title>
+      <link>https://deadline.com/2026/06/george-lucas-minions-monsters-1236963284/</link>
+      <description>
+        <![CDATA[Star Wars creator George Lucas is coming out of his show biz retirement for a role a decidedly non-Star Wars project: He&#8217;ll lend his voice to a character in Illumination&#8217;s Minions &#38; Monsters, arriving in theaters July 1. In an interview with Collider, Illumination founder and Minions &#38; Monsters producer Chris Meledandri explained how Lucas [&#8230;]]]>
+      </description>
+      <source:markdown>Star Wars creator George Lucas is coming out of his show biz retirement for a role a decidedly non-Star Wars project: He’ll lend his voice to a character in Illumination’s Minions &#38; Monsters, arriving in theaters July 1. In an interview with Collider, Illumination founder and Minions &#38; Monsters producer Chris Meledandri explained how Lucas \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963284</guid>
+    </item>    <item>
+      <title>El conserje (Raindance Film Festival 2026): la dignidad silenciosa en un mundo que no sabe mirar</title>
+      <link>https://www.palomitademaiz.net/resenas-el-conserje-raindance-film-festival-2026/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-el-conserje-raindance-film-festival-2026</link>
+      <description>
+        <![CDATA[<p>Dirección: Mauro Mueller, David Figueroa García. Guion: Aleluya Rivera. Elenco: Humberto Yañez, Luisa Huertas, Mercedes Hernández, Antonio Becerril, Leonardo Alonso. País: México. Más información de la película: https://www.imdb.com/title/tt27626634/ En todas las escuelas existe alguien que, en esencia, es la columna vertebral de esos lugares. Hace algunos años tuve la fortuna de conocer y tratar con [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-el-conserje-raindance-film-festival-2026/">El conserje (Raindance Film Festival 2026): la dignidad silenciosa en un mundo que no sabe mirar</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Mauro Mueller, David Figueroa García. Guion: Aleluya Rivera. Elenco: Humberto Yañez, Luisa Huertas, Mercedes Hernández, Antonio Becerril, Leonardo Alonso. País: México. Más información de la película: https://www.imdb.com/title/tt27626634/ En todas las escuelas existe alguien que, en esencia, es la columna vertebral de esos lugares. Hace algunos años tuve la fortuna de conocer y tratar con \[…\]
+
+La entrada [El conserje (Raindance Film Festival 2026): la dignidad silenciosa en un mundo que no sabe mirar](https://www.palomitademaiz.net/resenas-el-conserje-raindance-film-festival-2026/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=26587</guid>
+    </item>    <item>
+      <title>Janie Sell Dies: Tony-Winning ‘Over Here!’ Broadway Actor Was 86</title>
+      <link>https://deadline.com/2026/06/janie-sell-dead-1236963231/</link>
+      <description>
+        <![CDATA[Janie Sell, a Broadway actor who won a Tony Award for her joyful performance opposite the Andrews Sisters in 1974&#8217;s nostalgic musical Over Here!, died June 9 at Englewood Hospital in Englewood, New Jersey, following a brief illness. She was 86. Her death was announced by friends including actor James Dybas, who noted that Sell&#8217;s [&#8230;]]]>
+      </description>
+      <source:markdown>Janie Sell, a Broadway actor who won a Tony Award for her joyful performance opposite the Andrews Sisters in 1974’s nostalgic musical Over Here!, died June 9 at Englewood Hospital in Englewood, New Jersey, following a brief illness. She was 86. Her death was announced by friends including actor James Dybas, who noted that Sell’s \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963231</guid>
+    </item>    <item>
+      <title>Pluralistic: How the Epstein Class recruits (20 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/20/any-club-that-would-have-me/</link>
+      <description>
+        <![CDATA[Today's links How the Epstein Class recruits: Oh wait, THAT'S what this was?! Hey look at this: Delights to delectate. Object permanence: MPAA blasted in WSJ; RFID skimmers; Post-Soviet inventions; "Farthing"; "Dirty, Drunk and Punk"; Dweb v founders' frailty; Tax cheating made simple; Oregon v corporate medicine. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How the Epstein Class recruits (permalink) Perhaps you've encountered the stories about Dialog, an extremely weird secret society associated with Peter "Antichrist" Thiel, whose membership data and details have leaked this week: https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/ By all appearances, this is a comically creepy, awful talking-shop for the Epstein Class. It's not all that surprising, in retrospect, to learn that all these terrible people were in a group chat, secretly assigning ratings to one another, and periodically gathering to have tedious panels about, I dunno, "race science" or whatever. I'm on the oligarchy beat, so stories about Dialog have been popping up in my RSS feed for the past week or so, but it wasn't until last night that I made a connection. A year or two ago, I got an invite to speak at an event. This is normal, I get a lot of these and I do a lot of public speaking. I'm good at it, and it's a good way for me to reach people and get them energized about the issues I care about. Sometimes, I do these talks for free. Sometimes I get paid. When I first glanced at this speaking offer, I thought, "Huh, I guess this is one to send on to my speaking agent," because the names the offer dropped were a bunch of rich people, and so I assumed that they were having some kind of summit and looking for a keynoter. Then I read a little more carefully and realized they &#8211; these billionaires and their lickspittles! &#8211; wanted me to pay them, thousands of dollars, so that I could shlep my ass to some luxury resort in order to have the privilege of speaking to them. I came up as a science fiction writer, and at some point, every sf writer learns "Yog's Law," coined by James D Macdonald when he was running the science fiction forum on GEnie, under the screen name "Yog Sysop": money flows toward the writer https://en.wikipedia.org/wiki/James_D._Macdonald#Educational_work In other words, whenever you, as a creative worker, are approached by someone who wants to "help" you with your work, and they want you to pay them, they are a scammer, preying upon your essential human need to communicate with others. Run away. Which is what I did. I deleted the email. Then, I got another one a couple months later. Ugh. I wrote a mail rule that auto-deleted anything from that sender and promptly forgot about the matter. Until last night. I just had a look at my Trash folder and yup, these people are still emailing me in hopes that I will give them thousands of dollars to join their weird secret society. I don't know if everyone who joined Dialog got an email like the one I was sent, but if you want to understand how at least some of those people ended up on those membership rolls, well, now you know: they were schmucks who'd never learned Yog's Law. (Image: Gage Skidmore 1, 2, 3, 4, 5, 6, CC BY-SA 2.0; TechCrunch50-2008, Dan Taylor 1, 2, CC BY 2.0; modified) Hey look at this (permalink) EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border AI Shouldn’t Dictate Our Democracy. Vote Alex Bores. https://www.youtube.com/watch?v=M6KQ2yDK1Q4 tokenalysis and john henry https://backofmind.substack.com/p/tokenalysis-and-john-henry Making Free Warhammer Terrain https://www.youtube.com/watch?v=p6YC-cOngHg Mechanical Watch https://ciechanow.ski/mechanical-watch/ Object permanence (permalink) #20yrsago Wendy Seltzer smokes the MPAA in the Wall St Journal https://web.archive.org/web/20061016014904/http://online.wsj.com/public/article/SB115047057428882434-1V_FEK_CJelMfytdST8APRW7cZw_20060720.html #20yrsago HOWTO build an RFID skimmer https://web.archive.org/web/20060703081753/http://www.eng.tau.ac.il/~yash/kw-usenix06/index.html #20yrsago Desperate inventions of post-Soviet Russia https://memex.craphound.com/2006/06/20/desperate-inventions-of-post-soviet-russia/ #20yrsago NYT falsely reports that Wikipedia has added restrictions https://jimmywales.com/2006/06/17/the-new-york-times-gets-it-exactly-backwards/ #20yrsago Farthing: Heart-rending alternate history about British-Reich peace https://memex.craphound.com/2006/06/20/farthing-heart-rending-alternate-history-about-british-reich-peace/ #15yrsago Dirty, Drunk and Punk: the untold history of Toronto’s BUNCHOFFUCKINGGOOFS https://memex.craphound.com/2011/06/20/dirty-drunk-and-punk-the-untold-history-of-torontos-bunchoffuckinggoofs/ #10yrsago Video: Guarding the Decentralized Web from its founders’ human frailty https://www.youtube.com/watch?v=zlN6wjeCJYk #10yrsago Unnamed Canadian telco sabotages’ library’s low-income internet service https://web.archive.org/web/20160618143132/https://motherboard.vice.com/read/canadian-telecoms-limiting-wifi-low-income-families-toronto-public-libraries-digital-divide #10yrsago Clarence Thomas rumored to be considering retirement https://web.archive.org/web/20160622135444/http://www.washingtonexaminer.com/end-of-conservative-supreme-court-clarence-thomas-may-be-next-to-leave/article/2594317 #10yrsago Tolkien elf or prescription drug name? https://web.archive.org/web/20160609021515/https://entertainment.howstuffworks.com/arts/literature/drug-or-tolkien-elf-quiz.htm #5yrsago The EU, Tech Trustbusting, and Trade Wars https://pluralistic.net/2021/06/20/the-eu-tech-trustbusting-and-trade-wars/ #5yrsago How to cheat on your taxes https://pluralistic.net/2021/06/20/la-hougue/#complexity #1yrago Oregon bans the corporate practice of medicine https://pluralistic.net/2025/06/20/the-doctor-will-gouge-you-now/#states-rights == Upcoming appearances (permalink) Toronto: The Sovereignty Debate (IAB Canada's State of the Nation), Jun 23 https://iabcanada.com/state-of-the-nation-2026 Toronto: The Reverse Centaur's Guide to Life After AI (Osler Records/Type Books), Jun 23 https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998 NYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 London: Idler Festival, Jul 11 https://www.idler.co.uk/festival/ Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Sydney: The Festival of Dangerous Ideas, Aug 23-24 https://festivalofdangerousideas.com/cory-doctorow/ Melbourne: Enshittification at the Wheeler Centre, Aug 25 https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification Brighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) How to Think About AI Before It’s Too Late (Galaxy Brain) https://www.youtube.com/watch?v=SPQNPJ0CEPo The future of world governance, with Kim Stanley Robinson (UN Independent Expert on International Order) https://www.youtube.com/live/wJvBvYdaAMY How to Think About Artificial Intelligence (KUER) https://radiowest.kuer.org/show/radiowest/2026-06-16/cory-doctorow-on-how-to-think-about-artificial-intelligence The Enshittification of Life, the Universe, &#38; Everything (Luke Savage) https://www.lukewsavage.com/p/the-enshittification-of-life-the Cory Doctorow's digital jail-break (DW In Focus) https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035 Latest books (permalink) "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2026 "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. "The Reverse Centaur's Guide to AI," a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. "The Post-American Internet," a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
+      </description>
+      <source:markdown>Today&#39;s links How the Epstein Class recruits: Oh wait, THAT&#39;S what this was?! Hey look at this: Delights to delectate. Object permanence: MPAA blasted in WSJ; RFID skimmers; Post-Soviet inventions; &#34;Farthing&#34;; &#34;Dirty, Drunk and Punk&#34;; Dweb v founders&#39; frailty; Tax cheating made simple; Oregon v corporate medicine. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. How the Epstein Class recruits (permalink) Perhaps you&#39;ve encountered the stories about Dialog, an extremely weird secret society associated with Peter &#34;Antichrist&#34; Thiel, whose membership data and details have leaked this week: https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/ By all appearances, this is a comically creepy, awful talking-shop for the Epstein Class. It&#39;s not all that surprising, in retrospect, to learn that all these terrible people were in a group chat, secretly assigning ratings to one another, and periodically gathering to have tedious panels about, I dunno, &#34;race science&#34; or whatever. I&#39;m on the oligarchy beat, so stories about Dialog have been popping up in my RSS feed for the past week or so, but it wasn&#39;t until last night that I made a connection. A year or two ago, I got an invite to speak at an event. This is normal, I get a lot of these and I do a lot of public speaking. I&#39;m good at it, and it&#39;s a good way for me to reach people and get them energized about the issues I care about. Sometimes, I do these talks for free. Sometimes I get paid. When I first glanced at this speaking offer, I thought, &#34;Huh, I guess this is one to send on to my speaking agent,&#34; because the names the offer dropped were a bunch of rich people, and so I assumed that they were having some kind of summit and looking for a keynoter. Then I read a little more carefully and realized they – these billionaires and their lickspittles! – wanted me to pay them, thousands of dollars, so that I could shlep my ass to some luxury resort in order to have the privilege of speaking to them. I came up as a science fiction writer, and at some point, every sf writer learns &#34;Yog&#39;s Law,&#34; coined by James D Macdonald when he was running the science fiction forum on GEnie, under the screen name &#34;Yog Sysop&#34;: money flows toward the writer https://en.wikipedia.org/wiki/James\_D.\_Macdonald#Educational\_work In other words, whenever you, as a creative worker, are approached by someone who wants to &#34;help&#34; you with your work, and they want you to pay them, they are a scammer, preying upon your essential human need to communicate with others. Run away. Which is what I did. I deleted the email. Then, I got another one a couple months later. Ugh. I wrote a mail rule that auto-deleted anything from that sender and promptly forgot about the matter. Until last night. I just had a look at my Trash folder and yup, these people are still emailing me in hopes that I will give them thousands of dollars to join their weird secret society. I don&#39;t know if everyone who joined Dialog got an email like the one I was sent, but if you want to understand how at least some of those people ended up on those membership rolls, well, now you know: they were schmucks who&#39;d never learned Yog&#39;s Law. (Image: Gage Skidmore 1, 2, 3, 4, 5, 6, CC BY-SA 2.0; TechCrunch50-2008, Dan Taylor 1, 2, CC BY 2.0; modified) Hey look at this (permalink) EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border AI Shouldn’t Dictate Our Democracy. Vote Alex Bores. https://www.youtube.com/watch?v=M6KQ2yDK1Q4 tokenalysis and john henry https://backofmind.substack.com/p/tokenalysis-and-john-henry Making Free Warhammer Terrain https://www.youtube.com/watch?v=p6YC-cOngHg Mechanical Watch https://ciechanow.ski/mechanical-watch/ Object permanence (permalink) #20yrsago Wendy Seltzer smokes the MPAA in the Wall St Journal https://web.archive.org/web/20061016014904/http://online.wsj.com/public/article/SB115047057428882434-1V\_FEK\_CJelMfytdST8APRW7cZw\_20060720.html #20yrsago HOWTO build an RFID skimmer https://web.archive.org/web/20060703081753/http://www.eng.tau.ac.il/~yash/kw-usenix06/index.html #20yrsago Desperate inventions of post-Soviet Russia https://memex.craphound.com/2006/06/20/desperate-inventions-of-post-soviet-russia/ #20yrsago NYT falsely reports that Wikipedia has added restrictions https://jimmywales.com/2006/06/17/the-new-york-times-gets-it-exactly-backwards/ #20yrsago Farthing: Heart-rending alternate history about British-Reich peace https://memex.craphound.com/2006/06/20/farthing-heart-rending-alternate-history-about-british-reich-peace/ #15yrsago Dirty, Drunk and Punk: the untold history of Toronto’s BUNCHOFFUCKINGGOOFS https://memex.craphound.com/2011/06/20/dirty-drunk-and-punk-the-untold-history-of-torontos-bunchoffuckinggoofs/ #10yrsago Video: Guarding the Decentralized Web from its founders’ human frailty https://www.youtube.com/watch?v=zlN6wjeCJYk #10yrsago Unnamed Canadian telco sabotages’ library’s low-income internet service https://web.archive.org/web/20160618143132/https://motherboard.vice.com/read/canadian-telecoms-limiting-wifi-low-income-families-toronto-public-libraries-digital-divide #10yrsago Clarence Thomas rumored to be considering retirement https://web.archive.org/web/20160622135444/http://www.washingtonexaminer.com/end-of-conservative-supreme-court-clarence-thomas-may-be-next-to-leave/article/2594317 #10yrsago Tolkien elf or prescription drug name? https://web.archive.org/web/20160609021515/https://entertainment.howstuffworks.com/arts/literature/drug-or-tolkien-elf-quiz.htm #5yrsago The EU, Tech Trustbusting, and Trade Wars https://pluralistic.net/2021/06/20/the-eu-tech-trustbusting-and-trade-wars/ #5yrsago How to cheat on your taxes https://pluralistic.net/2021/06/20/la-hougue/#complexity #1yrago Oregon bans the corporate practice of medicine https://pluralistic.net/2025/06/20/the-doctor-will-gouge-you-now/#states-rights == Upcoming appearances (permalink) Toronto: The Sovereignty Debate (IAB Canada&#39;s State of the Nation), Jun 23 https://iabcanada.com/state-of-the-nation-2026 Toronto: The Reverse Centaur&#39;s Guide to Life After AI (Osler Records/Type Books), Jun 23 https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998 NYC: The Reverse Centaur&#39;s Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur&#39;s Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur&#39;s Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 London: Idler Festival, Jul 11 https://www.idler.co.uk/festival/ Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Sydney: The Festival of Dangerous Ideas, Aug 23-24 https://festivalofdangerousideas.com/cory-doctorow/ Melbourne: Enshittification at the Wheeler Centre, Aug 25 https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification Brighton: The Reverse Centaur&#39;s Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur&#39;s Guide to Life After AI with Riley Quinn (Foyle&#39;s Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) How to Think About AI Before It’s Too Late (Galaxy Brain) https://www.youtube.com/watch?v=SPQNPJ0CEPo The future of world governance, with Kim Stanley Robinson (UN Independent Expert on International Order) https://www.youtube.com/live/wJvBvYdaAMY How to Think About Artificial Intelligence (KUER) https://radiowest.kuer.org/show/radiowest/2026-06-16/cory-doctorow-on-how-to-think-about-artificial-intelligence The Enshittification of Life, the Universe, &#38; Everything (Luke Savage) https://www.lukewsavage.com/p/the-enshittification-of-life-the Cory Doctorow&#39;s digital jail-break (DW In Focus) https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035 Latest books (permalink) &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2026 &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. &#34;The Reverse Centaur&#39;s Guide to AI,&#34; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &#34;The Post-American Internet,&#34; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
+      <guid>cid://https://pluralistic.net/?p=12949</guid>
+    </item>    <item>
+      <link>https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/</link>
+      <description>
+        <![CDATA[<p>US scientist John Jumper to leave Google DeepMind for Anthropic.</p>]]>
+      </description>
+      <source:markdown>US scientist John Jumper to leave Google DeepMind for Anthropic.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/20/4131/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/06/20.html#a154348</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/05/20/brunson.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Claude doesn't care if you criticize the code it wrote, because if it wasn't written just now, it <i>didn't</i> write it. It starts from zero in every session, you can watch it, like HAL in 2001, singing <a href="https://www.youtube.com/watch?v=m4_eLralc9U">daisy daisy</a>. I can see it happening as the environment of my app is getting so large, it has to do a bit of thinking to start up, more all the time. But as humans who were brought up properly, we like to add the niceties to our criticism so as to not make the other one feel bad. I do that for myself, not the machine, I know it doesn't identify as the creator of the code.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2026/05/20/brunson.png)Claude doesn&#39;t care if you criticize the code it wrote, because if it wasn&#39;t written just now, it _didn&#39;t_ write it. It starts from zero in every session, you can watch it, like HAL in 2001, singing [daisy daisy](https://www.youtube.com/watch?v=m4_eLralc9U). I can see it happening as the environment of my app is getting so large, it has to do a bit of thinking to start up, more all the time. But as humans who were brought up properly, we like to add the niceties to our criticism so as to not make the other one feel bad. I do that for myself, not the machine, I know it doesn&#39;t identify as the creator of the code.</source:markdown>
+      <guid>cid://http://scripting.com/2026/06/20.html#a154348</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/06/20.html#a153807</link>
+      <description>
+        <![CDATA[When I got <a href="https://imgs.scripting.com/2026/06/20/emailFromGoogle.png">this email</a> from Google on this day in <a href="http://scripting.com/2018/06/20.html">2018</a>, I had a sinking feeling, this was like getting a letter from Apple a few years earlier. They were treating the web as if it were their platform.]]>
+      </description>
+      <source:markdown>When I got [this email](https://imgs.scripting.com/2026/06/20/emailFromGoogle.png) from Google on this day in [2018](http://scripting.com/2018/06/20.html), I had a sinking feeling, this was like getting a letter from Apple a few years earlier. They were treating the web as if it were their platform.</source:markdown>
+      <guid>cid://http://scripting.com/2026/06/20.html#a153807</guid>
+    </item>    <item>
+      <title>Ubisoft Co-Founder Claude Guillemot Dies In Plane Crash</title>
+      <link>https://deadline.com/2026/06/ubisoft-co-founder-claude-guillemot-dies-plane-crash-1236963213/</link>
+      <description>
+        <![CDATA[Claude Guillemot, a co-founder of Assassin’s Creed maker Ubisoft alongside his four brothers, has died in a plane crash in France. French media reported that Guillemot died on Friday evening when the Cessna 421 twin engine plane he was piloting crashed close to the aerodrome of the beach resort of La Baule in Western France [&#8230;]]]>
+      </description>
+      <source:markdown>Claude Guillemot, a co-founder of Assassin’s Creed maker Ubisoft alongside his four brothers, has died in a plane crash in France. French media reported that Guillemot died on Friday evening when the Cessna 421 twin engine plane he was piloting crashed close to the aerodrome of the beach resort of La Baule in Western France \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236963213</guid>
+    </item>    <item>
+      <title>Tomatoes And Echoes</title>
+      <link>https://thebrowser.com/free/tomatoes-and-echoes/</link>
+      <description>
+        <![CDATA[Today, enjoy our audio and video picks.]]>
+      </description>
+      <source:markdown>Today, enjoy our audio and video picks.</source:markdown>
+      <guid>cid://6a351b3a321fbf00017bc39e</guid>
+    </item>    <item>
+      <title>The US Men&#39;s Soccer Team Wins, Inspires, And Brings Our Embattled Nation Together</title>
+      <link>https://www.hopiumchronicles.com/p/the-us-mens-soccer-team-inspires</link>
+      <description>
+        <![CDATA["Football is life"]]>
+      </description>
+      <source:markdown>&#34;Football is life&#34;</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/14dfcce3-2991-4510-a0b7-f9bf3354bf09_640x427.avif" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/the-us-mens-soccer-team-inspires</guid>
+    </item>    <item>
+      <title>Silos are the problem</title>
+      <link>http://scripting.com/2026/06/20/140836.html?title=silosAreTheProblem</link>
+      <description>
+        <![CDATA[<p><img class="imgRightMargin" src="https://imgs.scripting.com/2026/06/13/reallySimpleBasketball.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A silo is a place where developers feel protected from the unbounded world of the web. In return they are completely controlled by the silo owner. The owner decides where you can go, and can and do revoke privileges. Developers in silos are mostly powerless. </p>
+        <p>Companies usually are the ones who create silos, but open formats can create them too. JSON, for example, has been used as an excuse to reinvent everything that was done in XML. </p>
+        <p>Open source projects create silos too. A protective zone that doesn't interop with competitors. Where you have to climb into the project to build on it. </p>
+        <p>Outside of silos, on the web, your code calls a platform using a standard API. Developers who, because of standards, can plug into anything, and thus give users maximum choice. </p>
+        <p>Podcasting is not a silo. It's part of the web. Support two easy formats and you've got a node. You'll find packages that do all that on any well-developed coding platform.</p>
+        <p>I believe we can do something like that for text. That's what I've been working on in the 2020s. It's slow-going because the foundation ideas of the web are not well-understood by today's developers, or at least that's how I experience it. ;-)</p>
+        <p>We're rethinking the whole tech world right now, and we can use formats and protocols that are available on the web, not by replacing the ones that are already there, but by using the existing paths in new ways. Big difference.  </p>]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2026/06/13/reallySimpleBasketball.png)A silo is a place where developers feel protected from the unbounded world of the web. In return they are completely controlled by the silo owner. The owner decides where you can go, and can and do revoke privileges. Developers in silos are mostly powerless.
+
+Companies usually are the ones who create silos, but open formats can create them too. JSON, for example, has been used as an excuse to reinvent everything that was done in XML.
+
+Open source projects create silos too. A protective zone that doesn&#39;t interop with competitors. Where you have to climb into the project to build on it.
+
+Outside of silos, on the web, your code calls a platform using a standard API. Developers who, because of standards, can plug into anything, and thus give users maximum choice.
+
+Podcasting is not a silo. It&#39;s part of the web. Support two easy formats and you&#39;ve got a node. You&#39;ll find packages that do all that on any well-developed coding platform.
+
+I believe we can do something like that for text. That&#39;s what I&#39;ve been working on in the 2020s. It&#39;s slow-going because the foundation ideas of the web are not well-understood by today&#39;s developers, or at least that&#39;s how I experience it. ;-)
+
+We&#39;re rethinking the whole tech world right now, and we can use formats and protocols that are available on the web, not by replacing the ones that are already there, but by using the existing paths in new ways. Big difference.</source:markdown>
+      <guid>cid://http://scripting.com/2026/06/20/140836.html</guid>
+    </item>    <item>
       <title>James Bradley Dies: ‘Flags Of Our Fathers’ Co-Author Was 72</title>
       <link>https://deadline.com/2026/06/james-bradley-dead-1236963192/</link>
       <description>
@@ -45,6 +557,20 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>James Bradley, whose nonfiction book Flags Of Our Fathers recounted his father’s purported role in the iconic WWII photograph of American soldiers raising the stars-and-stripes flag on Iwo Jima became a bestseller and was adapted into a hit 2006 film directed by Clint Eastwood, died June 5. He was 72. His death was announced by \[…\]</source:markdown>
       <guid>cid://https://deadline.com/?p=1236963192</guid>
+    </item>    <item>
+      <link>https://lab.leaflet.pub/3moomxyjssk2p</link>
+      <description>
+        <![CDATA[<p>I&#39;m somewhat skeptical that &quot;Standard Site&quot; couldn&#39;t be done with RSS. But then they don&#39;t actually say that in their howto doc. My philosophy is reinvent as little as possible and go for maximum interop. I think eventually they will untether it from AT Proto to get more users.</p>]]>
+      </description>
+      <source:markdown>I&#39;m somewhat skeptical that &#34;Standard Site&#34; couldn&#39;t be done with RSS. But then they don&#39;t actually say that in their howto doc. My philosophy is reinvent as little as possible and go for maximum interop. I think eventually they will untether it from AT Proto to get more users.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/20/4129/</guid>
+    </item>    <item>
+      <link>https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk</link>
+      <description>
+        <![CDATA[<p>Americans express unease over SpaceX’s influence on retirement savings.</p>]]>
+      </description>
+      <source:markdown>Americans express unease over SpaceX’s influence on retirement savings.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/20/4127/</guid>
     </item>    <item>
       <title>Arindrajit Dube on Wages</title>
       <link>https://paulkrugman.substack.com/p/arindrajit-dube-on-wages</link>
@@ -134,6 +660,20 @@ We hope this new Chicago Public Library branch at the Obama Presidential Center 
       <source:markdown>After four years, Elisha Cuthbert has ended her onscreen hiatus with Prime Video’s latest romantic drama series. The Every Year After actress recently explained why she “didn’t want to be on set” in recent years, until booking her role as Sue Florek in the series based on Carley Fortune’s Every Summer After books, all eight \[…\]</source:markdown>
       <guid>cid://https://deadline.com/?p=1236963151</guid>
     </item>    <item>
+      <link>https://www.sbnation.com/soccer/1117905/world-cup-standings-updated-full-list-of-teams</link>
+      <description>
+        <![CDATA[<p>2026 World Cup Standings: Full list of teams.</p>]]>
+      </description>
+      <source:markdown>2026 World Cup Standings: Full list of teams.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/19/4125/</guid>
+    </item>    <item>
+      <link>https://www.spotrac.com/nba/free-agents/_/year/2026/team/nyk?utm_source=chatgpt.com</link>
+      <description>
+        <![CDATA[<p>Knicks Free Agents. They can&#39;t bring all these stars back next year.</p>]]>
+      </description>
+      <source:markdown>Knicks Free Agents. They can&#39;t bring all these stars back next year.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/19/4123/</guid>
+    </item>    <item>
       <title>James Burrows Tributes: Lisa Kudrow, Ted Danson, Danny DeVito &#38; More Remember “Greatest Of All Time”</title>
       <link>https://deadline.com/2026/06/james-burrows-tributes-1236963019/</link>
       <description>
@@ -200,6 +740,13 @@ La entrada [The Trek (Raindance Film Festival 2026): fantasmas del colonialismo]
       </description>
       <source:markdown>When Jon Brion would perform at Largo in Los Angeles, the enthrallment of his show entailed watching the shaggy-haired guy play myriad instruments, sampling and looping them into a climactic song. One that sticks out from memory is his version of Al Green’s “Let’s Stick Together.” Well, Ariana Grande in her first night of her \[…\]</source:markdown>
       <guid>cid://https://deadline.com/?p=1236956037</guid>
+    </item>    <item>
+      <link>https://politicalwire.com/2026/06/19/ai-has-granted-america-vast-new-power/</link>
+      <description>
+        <![CDATA[<p>AI Has Granted America Vast New Power.</p>]]>
+      </description>
+      <source:markdown>AI Has Granted America Vast New Power.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/19/4121/</guid>
     </item>    <item>
       <title>Friday Squid Blogging: Victims of Unregulated Squid Fishing</title>
       <link>https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html</link>
@@ -664,6 +1211,13 @@ still experimental, the change promises to make long-running BPF tasks
 significantly easier to write.</source:markdown>
       <guid>cid://https://lwn.net/Articles/1076210/</guid>
     </item>    <item>
+      <link>https://scottknaster.substack.com/p/a-paean-to-inside-macintosh?utm_source=post-email-title&#38;publication_id=3817465&#38;post_id=202137984&#38;utm_campaign=email-post-title&#38;isFreemail=true&#38;r=w33x&#38;triedRedirect=true&#38;utm_medium=email</link>
+      <description>
+        <![CDATA[<p>Scott Knaster: A paean to Inside Macintosh.</p>]]>
+      </description>
+      <source:markdown>Scott Knaster: A paean to Inside Macintosh.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/19/4119/</guid>
+    </item>    <item>
       <title>Mars And Gatekeepers</title>
       <link>https://thebrowser.com/free/mars-and-gatekeepers/</link>
       <description>
@@ -688,6 +1242,13 @@ significantly easier to write.</source:markdown>
       <source:markdown>The US Men&#39;s soccer team plays Australia at 3pm ET today - be sure to watch and cheer them on!</source:markdown>
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/3927ed77-8318-43f1-99d4-53d1c5bc620f_1000x563.webp" length="0" type="image/jpeg" />
       <guid>cid://https://www.hopiumchronicles.com/p/the-iran-deal-wobbles-obamas-library</guid>
+    </item>    <item>
+      <link>https://most-followed-mastodon-accounts.stefanhayden.com/?q=davew@mastodon.social</link>
+      <description>
+        <![CDATA[<p>#682 in the mastoverse feels pretty solid.</p>]]>
+      </description>
+      <source:markdown>#682 in the mastoverse feels pretty solid.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2026/06/19/4117/</guid>
     </item>    <item>
       <title>[$] AURpocalypse now: a look at the recent AUR attacks</title>
       <link>https://lwn.net/Articles/1077619/</link>
@@ -14595,7 +15156,6 @@ Will Cavin of Amazon had two important iterms of news:
       <description>
         <![CDATA[<!-- insert ads is firing --><p>For two months this column has been describing an architecture. Here&#8217;s the part I kept in the footnotes: I&#8217;ve been building it. I owe you a confession, and then I owe you a demonstration. The confession first. For weeks I&#8217;ve written about why the machines can&#8217;t tell truth from plausibility — why detection isn&#8217;t a strategy, why fluency isn&#8217;t fidelity, why the only honest path is to separate the saying from the knowing and import truth from somewhere you can actually check. I&#8217;ve signed each of those columns with a one-line note that I co-founded a company &#8220;built on this conviction.&#8221; That little disclosure has been doing a lot of quiet work. These columns were not the musings of a neutral observer. They were the [&#8230;]</p>
         The post <a href="https://www.cringely.com/2026/06/09/two-brains/">Two Brains</a> first appeared on <a href="https://www.cringely.com">I, Cringely</a>. <br><br/>
-        <a href="https://www.cringely.com/donate/"><img src="https://www.cringely.com/wp-content/uploads/2014/08/Donate_Button1-e1408476140799.png" width="200" height="70" border="0"></a> <br><br/>
         <br><br/>
         
         <a href="http://weblamb.com" target="_blank"><img src="https://www.cringely.com/wp-content/uploads/2016/02/WEBLAMB_LOGO_M2015-803x250-e1455933116421.png" width="149" height="36"></a> 
@@ -14609,8 +15169,6 @@ Will Cavin of Amazon had two important iterms of news:
       <source:markdown>For two months this column has been describing an architecture. Here’s the part I kept in the footnotes: I’ve been building it. I owe you a confession, and then I owe you a demonstration. The confession first. For weeks I’ve written about why the machines can’t tell truth from plausibility — why detection isn’t a strategy, why fluency isn’t fidelity, why the only honest path is to separate the saying from the knowing and import truth from somewhere you can actually check. I’ve signed each of those columns with a one-line note that I co-founded a company “built on this conviction.” That little disclosure has been doing a lot of quiet work. These columns were not the musings of a neutral observer. They were the \[…\]
 
 The post [Two Brains](https://www.cringely.com/2026/06/09/two-brains/) first appeared on [I, Cringely](https://www.cringely.com).
-
-[![](https://www.cringely.com/wp-content/uploads/2014/08/Donate_Button1-e1408476140799.png)](https://www.cringely.com/donate/)
 
 [![](https://www.cringely.com/wp-content/uploads/2016/02/WEBLAMB_LOGO_M2015-803x250-e1455933116421.png)](http://weblamb.com)
 
@@ -25343,407 +25901,6 @@ We would like to officially announce our two Redox Summer of Code (RSoC) project
 
 Each Summer of Code project this year is providing our students with more than $5,000 in funding. In addition to these projects, Redox is also providing a small amount of funding for 3 other non-student contributors on an ongoing basis. Our current spending is exceeding our monthly donations by quite a bit, and we are relying on donations received in previous years to support RSoC. If you can afford it, we would greatly appreciate a monthly or one-time donation, through [Donorbox](https://donorbox.org/redox-os), [Patreon](https://www.patreon.com/redox_os), Bitcoin or Ethereum wallets available in the [Donate](https://www.redox-os.org/donate/) page.</source:markdown>
       <guid>cid://https://www.redox-os.org/news/this-month-260531/</guid>
-    </item>    <item>
-      <title>‘Ask E. Jean’ Director Ivy Meeropol On Reports Justice Dept. Is Investigating Trump Accuser E. Jean Carroll: “Unbelievable, Yet Not Surprising”</title>
-      <link>https://deadline.com/2026/05/e-jean-carroll-investigation-director-ivy-meerpol-interview-1236931217/</link>
-      <description>
-        <![CDATA[Ivy Meeropol, director of Ask E. Jean, the documentary about E. Jean Carroll who successfully sued Donald Trump for defamation and battery, is responding to reports the Justice Department has opened a criminal investigation into Carroll. “Unbelievable, yet not surprising,” Meeropol says of the reports by the New York Times and CNN which said the [&#8230;]]]>
-      </description>
-      <source:markdown>Ivy Meeropol, director of Ask E. Jean, the documentary about E. Jean Carroll who successfully sued Donald Trump for defamation and battery, is responding to reports the Justice Department has opened a criminal investigation into Carroll. “Unbelievable, yet not surprising,” Meeropol says of the reports by the New York Times and CNN which said the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236931217</guid>
-    </item>    <item>
-      <title>Niall Horan Opens Up About “Light And Shade” Of Grief Following One Direction Bandmate Liam Payne’s Death: “It Still Feels Surreal”</title>
-      <link>https://deadline.com/2026/05/niall-horan-remembers-liam-payne-death-one-direction-1236931216/</link>
-      <description>
-        <![CDATA[Singer-songwriter Niall Horan is opening up about Liam Payne, saying there is &#8220;light and shade&#8221; to the grief he feels over the death of his One Direction bandmate. In a new interview with The Times U.K., Horan remembered spending time with Payne in Argentina just a couple of weeks prior to his death in October [&#8230;]]]>
-      </description>
-      <source:markdown>Singer-songwriter Niall Horan is opening up about Liam Payne, saying there is “light and shade” to the grief he feels over the death of his One Direction bandmate. In a new interview with The Times U.K., Horan remembered spending time with Payne in Argentina just a couple of weeks prior to his death in October \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236931216</guid>
-    </item>    <item>
-      <title>RISC OS: Running ShareFSServer alongside VirtualRPC, RPCEmu and Arculator with a virtual network adapter</title>
-      <link>https://paolozaino.wordpress.com/2026/05/31/risc-os-running-sharefsserver-alongside-virtualrpc-rpcemu-and-arculator-with-a-virtual-network-adapter/</link>
-      <description>
-        <![CDATA[In this tutorial, we&#8217;ll see how to configure Windows and Linux hosts to run my ShareFSServer together with your favorite RISC OS emulator. ShareFSServer implements the Acorn/RISC OS ShareFS protocol (aka Access/Access+) on modern operating systems. It allows a Windows, macOS, BSD or Linux machine to expose host directories to RISC OS machines and emulators [&#8230;]]]>
-      </description>
-      <source:markdown>In this tutorial, we’ll see how to configure Windows and Linux hosts to run my ShareFSServer together with your favorite RISC OS emulator. ShareFSServer implements the Acorn/RISC OS ShareFS protocol (aka Access/Access+) on modern operating systems. It allows a Windows, macOS, BSD or Linux machine to expose host directories to RISC OS machines and emulators \[…\]</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=10199</guid>
-    </item>    <item>
-      <title>Warner Bros’ Michael De Luca On Why ‘Backrooms’ &#38; ‘Obsession’ Are Clicking: “These Filmmakers Are In A Dialogue With Their Audience…”</title>
-      <link>https://deadline.com/2026/05/backrooms-obsession-michael-de-luca-1236931202/</link>
-      <description>
-        <![CDATA[While there was no conversation about the elephant in the room&#8211; the pending Paramount Warner Bros Discovery merger &#8212; at Warner Bros. Motion Picture Co-Chair Michael De Luca&#8217;s Produced By panel this afternoon, the studio boss took time to give props to the zeitgeist going on at the weekend box office, read the YouTube creators [&#8230;]]]>
-      </description>
-      <source:markdown>While there was no conversation about the elephant in the room– the pending Paramount Warner Bros Discovery merger — at Warner Bros. Motion Picture Co-Chair Michael De Luca’s Produced By panel this afternoon, the studio boss took time to give props to the zeitgeist going on at the weekend box office, read the YouTube creators \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236931202</guid>
-    </item>    <item>
-      <title>Dan Levy Compares ‘Heated Rivalry’ &#38; ‘Schitt’s Creek’ Successes &#38; Advocates For Investing In Queer Voices: “Canada Saw Value In Them First”</title>
-      <link>https://deadline.com/2026/05/dan-levy-heated-rivalry-schitts-creek-canada-success-1236931196/</link>
-      <description>
-        <![CDATA[Upon accepting his Vanguard Award from the third annual Critics Choice Association‘s Celebration of LGBTQ+ Cinema &#38; Television last night, Big Mistakes co-creator Dan Levy took a moment to shout out Canadian production for being a step ahead. &#8220;The funny thing about this industry is that they think they know what they want, until a Schitt&#8217;s [&#8230;]]]>
-      </description>
-      <source:markdown>Upon accepting his Vanguard Award from the third annual Critics Choice Association‘s Celebration of LGBTQ+ Cinema &#38; Television last night, Big Mistakes co-creator Dan Levy took a moment to shout out Canadian production for being a step ahead. “The funny thing about this industry is that they think they know what they want, until a Schitt’s \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236931196</guid>
-    </item>    <item>
-      <title>Week One in 250 to 250</title>
-      <link>https://heathercoxrichardson.substack.com/p/week-one-in-250-to-250</link>
-      <description>
-        <![CDATA[This was the first week of videos from the 250 to 250 Project that we&#8217;re producing to honor the 250th anniversary of the Declaration of Independence.]]>
-      </description>
-      <source:markdown>This was the first week of videos from the 250 to 250 Project that we’re producing to honor the 250th anniversary of the Declaration of Independence.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/cAN9Uqt9kbw" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/week-one-in-250-to-250</guid>
-    </item>    <item>
-      <title>‘Toy Story 5’ Has Swifties Speculating About Soundtrack News With Cryptic ‘TS’ Billboard</title>
-      <link>https://deadline.com/2026/05/toy-story-5-swifties-speculating-ts-billboard-1236931161/</link>
-      <description>
-        <![CDATA[Could Taylor Swift be suiting up for her &#8216;Life of a Cowgirl&#8217; era? The Swifties are buzzing with speculation after a mysterious Toy Story 5 billboard went up with the initials &#8216;TS&#8217; and Andy&#8217;s bedroom wallpaper, featuring 13 clouds, which is famously the Grammy-winning artist&#8217;s favorite number. On Saturday, the Disney Pixar movie stoked the [&#8230;]]]>
-      </description>
-      <source:markdown>Could Taylor Swift be suiting up for her ‘Life of a Cowgirl’ era? The Swifties are buzzing with speculation after a mysterious Toy Story 5 billboard went up with the initials ‘TS’ and Andy’s bedroom wallpaper, featuring 13 clouds, which is famously the Grammy-winning artist’s favorite number. On Saturday, the Disney Pixar movie stoked the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236931161</guid>
-    </item>    <item>
-      <title>A Truly Amazing Exercise of Justice</title>
-      <link>https://robertreich.substack.com/p/a-truly-amazing-exercise-of-justice</link>
-      <description>
-        <![CDATA[This Week's Joseph N. Welch Awardees for Courage in the Face of Tyranny]]>
-      </description>
-      <source:markdown>This Week&#39;s Joseph N. Welch Awardees for Courage in the Face of Tyranny</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!2ak6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca12e6cf-d101-439e-997a-61e197d7e13b_2816x1402.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/a-truly-amazing-exercise-of-justice</guid>
-    </item>    <item>
-      <title>How DuckDuckGo Can Be a Hero</title>
-      <link>https://doc.searls.com/2026/05/30/how-duckduckgo-can-be-a-hero/</link>
-      <description>
-        <![CDATA[In&#160;Positioning: The Battle for Your Mind,&#160;Al Ries&#160;and&#160;Jack Trout&#160;said, &#8220;Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.&#8221; So consider what&#8217;s happening in the minds of everyone who has long depended on Google to be what it has always been—a search engine for the Web—when [&#8230;]]]>
-      </description>
-      <source:markdown>In Positioning: The Battle for Your Mind, Al Ries and Jack Trout said, “Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.” So consider what’s happening in the minds of everyone who has long depended on Google to be what it has always been—a search engine for the Web—when \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=21695</guid>
-    </item>    <item>
-      <title>Neon Boss Tom Quinn Isn’t A Fan Of Industry Consolidation: “How Would You Feel If A24 &#38; Neon Merged? That Would Be Ridiculous”</title>
-      <link>https://deadline.com/2026/05/neon-tom-quinn-paramount-warner-bros-merger-a24-1236931132/</link>
-      <description>
-        <![CDATA[&#8220;I wouldn&#8217;t survive a day in that environment.&#8221; That&#8217;s indie distributor Neon&#8217;s co-founder and CEO Tom Quinn&#8217;s take on working within a major studio, let alone two combined. In his first public appearance since taking home Neon&#8217;s seventh Cannes Palme d&#8217;Or last week, this time for Fjord, Quinn was asked at the Produced By Conference [&#8230;]]]>
-      </description>
-      <source:markdown>“I wouldn’t survive a day in that environment.” That’s indie distributor Neon’s co-founder and CEO Tom Quinn’s take on working within a major studio, let alone two combined. In his first public appearance since taking home Neon’s seventh Cannes Palme d’Or last week, this time for Fjord, Quinn was asked at the Produced By Conference \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236931132</guid>
-    </item>    <item>
-      <title>‘You See L.A.’ Creators, Coach Made Sure Pic Following UCLA Women’s Basketball Team Shot From The Heart – Contenders TV: Docs + Unscripted</title>
-      <link>https://deadline.com/2026/05/you-see-la-documentary-creators-ucla-coach-interview-1236864969/</link>
-      <description>
-        <![CDATA[When allowing cameras for the Fox Sports documentary You See L.A. into the lives of her players, UCLA women&#8217;s basketball head coach Cori Close, who just led the Bruins to a national championship, tried to stick to the wisdom of one of the school’s guiding sports lights. “I had the incredible privilege of being mentored [&#8230;]]]>
-      </description>
-      <source:markdown>When allowing cameras for the Fox Sports documentary You See L.A. into the lives of her players, UCLA women’s basketball head coach Cori Close, who just led the Bruins to a national championship, tried to stick to the wisdom of one of the school’s guiding sports lights. “I had the incredible privilege of being mentored \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236864969</guid>
-    </item>    <item>
-      <title>‘Mr. Scorsese’ Director Rebecca Miller Got Martin Scorsese To Open Up, Then Covid Gave Him Time – Contenders TV: Docs + Unscripted</title>
-      <link>https://deadline.com/2026/05/mr-scorsese-documentary-director-interview-1236865021/</link>
-      <description>
-        <![CDATA[Documentary filmmaker Rebecca Miller was acquainted with the subject of her latest, Apple TV’s five-part Mr. Scorsese, through her husband Daniel Day-Lewis, one of legendary director Martin Scorsese’s cinematic muses. But when it came to getting the filmmaker to commit to opening up about his life and career, it required a little bit of an [&#8230;]]]>
-      </description>
-      <source:markdown>Documentary filmmaker Rebecca Miller was acquainted with the subject of her latest, Apple TV’s five-part Mr. Scorsese, through her husband Daniel Day-Lewis, one of legendary director Martin Scorsese’s cinematic muses. But when it came to getting the filmmaker to commit to opening up about his life and career, it required a little bit of an \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236865021</guid>
-    </item>    <item>
-      <title>Call for Session Reviews: Computers and Writing Conference 2026</title>
-      <link>https://www.digitalrhetoriccollaborative.org/2026/05/30/call-for-session-reviews-computers-and-writing-conference-2026/</link>
-      <description>
-        <![CDATA[Attending Computers and Writing 2026? Be a Session Reviewer! The Sweetland Digital Rhetoric Collaborative is seeking reviewers for the 2026 Computers and Writing Conference (June 4-7). We are particularly interested in conference reviews pertaining to digital rhetoric, multimodal pedagogical approaches, and AI; though you are welcome to propose your own session to review. Reviews are [...]
-        <p><a href="https://www.digitalrhetoriccollaborative.org/2026/05/30/call-for-session-reviews-computers-and-writing-conference-2026/" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>Attending Computers and Writing 2026? Be a Session Reviewer! The Sweetland Digital Rhetoric Collaborative is seeking reviewers for the 2026 Computers and Writing Conference (June 4-7). We are particularly interested in conference reviews pertaining to digital rhetoric, multimodal pedagogical approaches, and AI; though you are welcome to propose your own session to review. Reviews are \[...\]
-
-[Source](https://www.digitalrhetoriccollaborative.org/2026/05/30/call-for-session-reviews-computers-and-writing-conference-2026/)</source:markdown>
-      <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=22644</guid>
-    </item>    <item>
-      <title>‘John Candy: I Like Me’ Director Colin Hanks Says Of Iconic Actor’s Style: “There’s A Little Bit Of John In Every Performance” – Contenders TV: Docs + Unscripted</title>
-      <link>https://deadline.com/2026/05/john-candy-i-like-me-director-colin-hanks-interview-1236864978/</link>
-      <description>
-        <![CDATA[Legendary actor John Candy has been gone for more than three decades, but his children Jennifer Candy-Sullivan and Chris Candy are celebrating his life and body of work in the new documentary John Candy: I Like Me, currently available to stream via Prime Video. His daughter and son were joined by the film’s director Colin [&#8230;]]]>
-      </description>
-      <source:markdown>Legendary actor John Candy has been gone for more than three decades, but his children Jennifer Candy-Sullivan and Chris Candy are celebrating his life and body of work in the new documentary John Candy: I Like Me, currently available to stream via Prime Video. His daughter and son were joined by the film’s director Colin \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236864978</guid>
-    </item>    <item>
-      <title>Europe Versus America: A Response to the Critics</title>
-      <link>https://paulkrugman.substack.com/p/europe-versus-america-a-response</link>
-      <description>
-        <![CDATA[The puzzle is real, even if you don&#8217;t like my explanation]]>
-      </description>
-      <source:markdown>The puzzle is real, even if you don’t like my explanation</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!-vL4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3589526f-5a66-43d4-bed4-88ce742f02bb_1240x828.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/europe-versus-america-a-response</guid>
-    </item>    <item>
-      <title>Saturvice</title>
-      <link>https://doc.searls.com/2026/05/30/saturvice/</link>
-      <description>
-        <![CDATA[A plan to enclose the public Web The Web is a public commons made of links. There is stuff at those links, almost all of it open to everybody, by design. The main way we see and use that stuff is with a browser. But what if your browser has AI of its own, and [&#8230;]]]>
-      </description>
-      <source:markdown>A plan to enclose the public Web The Web is a public commons made of links. There is stuff at those links, almost all of it open to everybody, by design. The main way we see and use that stuff is with a browser. But what if your browser has AI of its own, and \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2026/05/30/saturvice/</guid>
-    </item>    <item>
-      <title>Congress Returns Monday With Trump Diminished, Wildly Unpopular, And Failing On Many Fronts</title>
-      <link>https://www.hopiumchronicles.com/p/congress-returns-monday-with-trump</link>
-      <description>
-        <![CDATA[With Trump faltering it is time for us to be very, very aggressive now my friends....]]>
-      </description>
-      <source:markdown>With Trump faltering it is time for us to be very, very aggressive now my friends....</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/507a7d5d-ebe2-44fa-a6cb-ee16bec13280_275x183.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/congress-returns-monday-with-trump</guid>
-    </item>    <item>
-      <title>CBS and 60 Minutes’ Messy Breakup</title>
-      <link>https://plus.briantylercohen.com/p/cbs-and-60-minutes-messy-breakup</link>
-      <description>
-        <![CDATA[60 Minutes Reporter Sharyn Alfonsi was let go, and she left us a warning about just how much danger the free press is in.]]>
-      </description>
-      <source:markdown>60 Minutes Reporter Sharyn Alfonsi was let go, and she left us a warning about just how much danger the free press is in.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!50hj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17bc91a0-59cf-441d-ac49-e07b2f71afdc_1192x792.png" length="0" type="image/jpeg" />
-      <guid>cid://https://plus.briantylercohen.com/p/cbs-and-60-minutes-messy-breakup</guid>
-    </item>    <item>
-      <title>Witness And Grandma</title>
-      <link>https://thebrowser.com/free/witness-and-grandma/</link>
-      <description>
-        <![CDATA[Today, enjoy our audio and video picks]]>
-      </description>
-      <source:markdown>Today, enjoy our audio and video picks</source:markdown>
-      <guid>cid://6a1ab79ec7344d0001864ff8</guid>
-    </item>    <item>
-      <title>2026-05-30 Shame</title>
-      <link>https://alexschroeder.ch/view/2026-05-30-shame</link>
-      <description>
-        <![CDATA[<h1 id="2026-05-30-shame">2026-05-30 Shame</h1>
-        
-        <p>About 1 million people died in the <a href="https://en.wikipedia.org/wiki/Armenian_genocide">Armenian genocide</a>. Just skimming up and down that Wikipedia page is revolting. What an incredible shame.</p>
-        
-        <p>And look at that:</p>
-        
-        <blockquote>
-        <p>According to historian Stefan Ihrig, in Germany, the Nazis viewed post-1923 Turkey as a post-genocidal paradise and, &ldquo;incorporated the Armenian genocide, its &lsquo;lessons&rsquo;, tactics, and &lsquo;benefits&rsquo;, into their own worldview&rdquo;.</p>
-        </blockquote>
-        
-        <p>About 6 million people died in the <a href="https://en.wikipedia.org/wiki/The_Holocaust#Death_toll">Holocaust</a>. When I was in school, our class was shown a movie about it all. This was in the late eighties. Nobody knew about content warnings. And so, without preparation, without introduction, I remember suddenly seeing those bulldozers shovelling mountains of dead people. What an incredible shame.</p>
-        
-        <p>No wonder people still remember. Things have calmed down a lot in recent decades but I still remember how it was considered to be a strange thing to be friends with Germans. Sure, it was just prejudice. But it was palpable.</p>
-        
-        <p>Switzerland tried to be &ldquo;neutral&rdquo;. Germany is too strong, they said! Also some people made a lot of money. And we&rsquo;re still having controversies about <a href="https://en.wikipedia.org/wiki/Foundation_E._G._B%C3%BChrle">art collections</a> being based on <a href="https://en.wikipedia.org/wiki/Nazi_plunder">Raubkunst</a> &ndash; the art Jews had to sell under pressure from the Nazis. It&rsquo;s still happening, here in Zürich, Switzerland.</p>
-        
-        <p>And remember, there&rsquo;s <a href="https://en.wikipedia.org/wiki/Gaza_genocide">a genocide happening right now</a>! It has been ongoing for nearly three years, televised, documented, before our eyes. What an incredible shame.</p>
-        
-        <p>What an incredible shame for all our politicians who could not resist the lure of trade, who kept fearing other people in power.</p>
-        
-        <p>What an incredible shame for all our organisers of sports events and music events who could not find their moral bones when they started looking, preferring to just play along.</p>
-        
-        <p>What a shame for our descendants, our children, to be related to us, to have inherited such a shameful mess that we as a society were unable to resolve with courage and integrity.</p>
-        
-        <p>What an incredible shame, for all of us.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a> <a class="tag" href="/search/?q=%23Armenia">#Armenia</a> <a class="tag" href="/search/?q=%23Genocide">#Genocide</a></p>]]>
-      </description>
-      <source:markdown># 2026-05-30 Shame
-
-About 1 million people died in the [Armenian genocide](https://en.wikipedia.org/wiki/Armenian_genocide). Just skimming up and down that Wikipedia page is revolting. What an incredible shame.
-
-And look at that:
-
-&#62; According to historian Stefan Ihrig, in Germany, the Nazis viewed post-1923 Turkey as a post-genocidal paradise and, “incorporated the Armenian genocide, its ‘lessons’, tactics, and ‘benefits’, into their own worldview”.
-
-About 6 million people died in the [Holocaust](https://en.wikipedia.org/wiki/The_Holocaust#Death_toll). When I was in school, our class was shown a movie about it all. This was in the late eighties. Nobody knew about content warnings. And so, without preparation, without introduction, I remember suddenly seeing those bulldozers shovelling mountains of dead people. What an incredible shame.
-
-No wonder people still remember. Things have calmed down a lot in recent decades but I still remember how it was considered to be a strange thing to be friends with Germans. Sure, it was just prejudice. But it was palpable.
-
-Switzerland tried to be “neutral”. Germany is too strong, they said! Also some people made a lot of money. And we’re still having controversies about [art collections](https://en.wikipedia.org/wiki/Foundation_E._G._B%C3%BChrle) being based on [Raubkunst](https://en.wikipedia.org/wiki/Nazi_plunder) – the art Jews had to sell under pressure from the Nazis. It’s still happening, here in Zürich, Switzerland.
-
-And remember, there’s [a genocide happening right now](https://en.wikipedia.org/wiki/Gaza_genocide)! It has been ongoing for nearly three years, televised, documented, before our eyes. What an incredible shame.
-
-What an incredible shame for all our politicians who could not resist the lure of trade, who kept fearing other people in power.
-
-What an incredible shame for all our organisers of sports events and music events who could not find their moral bones when they started looking, preferring to just play along.
-
-What a shame for our descendants, our children, to be related to us, to have inherited such a shameful mess that we as a society were unable to resolve with courage and integrity.
-
-What an incredible shame, for all of us.
-
-[#Israel](/search/?q=%23Israel) [#Palestine](/search/?q=%23Palestine) [#Armenia](/search/?q=%23Armenia) [#Genocide](/search/?q=%23Genocide)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2026-05-30-shame</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/05/30.html#a123838</link>
-      <description>
-        <![CDATA[If I ran Bluesky, instead of trying to fork the web, I'd be trying to become the competitor of Twitter's that is 100% web top to bottom.]]>
-      </description>
-      <source:markdown>If I ran Bluesky, instead of trying to fork the web, I&#39;d be trying to become the competitor of Twitter&#39;s that is 100% web top to bottom.</source:markdown>
-      <guid>cid://http://scripting.com/2026/05/30.html#a123838</guid>
-    </item>    <item>
-      <title>Review of standard.site</title>
-      <link>http://scripting.com/2026/05/30/123810.html?title=reviewOfStandardsite</link>
-      <description>
-        <![CDATA[<p>I walked through standard.site with ChatGPT. You can do it too if you want to find out what it is. I was interested in knowing how it compares to RSS 2.0 and FeedLand. </p>
-        <ol>
-        <li>I want a quick overview of standard.site with a simple example.</li>
-        <li>Seems like RSS mostly.</li>
-        <li>We have a firehouse for feeds on the web emanating from FeedLand, based on rssCloud.</li>
-        <li>We are the web’s social web.</li>
-        <li>Why do the proponents of standard.site use AT Proto. What’s the advantage?</li>
-        </ol>
-        <p>Very often links from ChatGPT don't work, but I'm including the link <a href="https://chatgpt.com/share/6a1adada-253c-83ea-8127-313400eafa04">here</a> in case it does. You can have the conversation on your own. </p>
-        <p>I asked ChatGPT to produce a <a href="https://github.com/scripting/Scripting-News/issues/356">summary</a> of the results, and asked it not to tilt it in favor of the formats and protocols I've invested in. There is a place to comment after the spec. Interested in hearing from other developers. </p>
-        <p>This gives me an idea for a tech publication. Write reviews in this format. Make sure you include the prompts so people can reproduce your results. Let readers fact-check. And let the proponents and competitors comment on the review. No one reviews tech products any more so this would not put anyone out of work.</p>]]>
-      </description>
-      <source:markdown>I walked through standard.site with ChatGPT. You can do it too if you want to find out what it is. I was interested in knowing how it compares to RSS 2.0 and FeedLand.
-
-1.  I want a quick overview of standard.site with a simple example.
-2.  Seems like RSS mostly.
-3.  We have a firehouse for feeds on the web emanating from FeedLand, based on rssCloud.
-4.  We are the web’s social web.
-5.  Why do the proponents of standard.site use AT Proto. What’s the advantage?
-
-Very often links from ChatGPT don&#39;t work, but I&#39;m including the link [here](https://chatgpt.com/share/6a1adada-253c-83ea-8127-313400eafa04) in case it does. You can have the conversation on your own.
-
-I asked ChatGPT to produce a [summary](https://github.com/scripting/Scripting-News/issues/356) of the results, and asked it not to tilt it in favor of the formats and protocols I&#39;ve invested in. There is a place to comment after the spec. Interested in hearing from other developers.
-
-This gives me an idea for a tech publication. Write reviews in this format. Make sure you include the prompts so people can reproduce your results. Let readers fact-check. And let the proponents and competitors comment on the review. No one reviews tech products any more so this would not put anyone out of work.</source:markdown>
-      <guid>cid://http://scripting.com/2026/05/30/123810.html</guid>
-    </item>    <item>
-      <link>http://scripting.com/2017/05/30.html#a110557</link>
-      <description>
-        <![CDATA[<p>2013: &quot;He&#39;s like a technology elf. He believes in the power of people, not just as users of technology but also as creators of technology.&quot; #woz</p>]]>
-      </description>
-      <source:markdown>2013: &#34;He&#39;s like a technology elf. He believes in the power of people, not just as users of technology but also as creators of technology.&#34; #woz</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/05/30/3903/</guid>
-    </item>    <item>
-      <title>How to Win a Trade War</title>
-      <link>https://paulkrugman.substack.com/p/how-to-win-a-trade-war</link>
-      <description>
-        <![CDATA[Tariffs and export controls and China shocks, oh my]]>
-      </description>
-      <source:markdown>Tariffs and export controls and China shocks, oh my</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/199829847/d676675647b71f8825d18bbfd70c2a9b.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/how-to-win-a-trade-war</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: May 25 – 29, 2026</title>
-      <link>https://lithub.com/lit-hub-weekly-may-25-29-2026/</link>
-      <description>
-        <![CDATA[Spend your summer reading with Lit Hub! Welcome to the Best of the Best Books reading challenge, where you’ll have the chance to meet your reading goals, win prizes, and prove you’re better than your friends. &#124; Lit Hub What]]>
-      </description>
-      <source:markdown>Spend your summer reading with Lit Hub! Welcome to the Best of the Best Books reading challenge, where you’ll have the chance to meet your reading goals, win prizes, and prove you’re better than your friends. \| Lit Hub What</source:markdown>
-      <guid>cid://https://lithub.com/?p=272256</guid>
-    </item>    <item>
-      <title>&#34;A new low&#34; — watchdog sounds off on Trump&#39;s J6 slush fund</title>
-      <link>https://www.publicnotice.co/p/donald-sherman-crew-interview-trump-corruption</link>
-      <description>
-        <![CDATA["It's an effort to signal to the violent element of his base."]]>
-      </description>
-      <source:markdown>&#34;It&#39;s an effort to signal to the violent element of his base.&#34;</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!LwD-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26aa6f4b-42f0-43b2-9d3a-985ce4d85992_7689x5064.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.publicnotice.co/p/donald-sherman-crew-interview-trump-corruption</guid>
-    </item>    <item>
-      <title>Pluralistic: Carneyism without Carney (30 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/30/rupture/</link>
-      <description>
-        <![CDATA[Today's links Carneyism without Carney: Eh? Hey look at this: Delights to delectate. Object permanence: Replacing pharma patents with bounties; USTR v cheap leukemia meds; Plutocrats x wealth segregation; Anonymous Analytics; Scott Walker sells off donors; Anonymization v metadata; Probably; Amazon warehouse workers are the future of Amazon coders; Warcraft eggs; Brainwashing school; People who don't know The Onion is satire; "Company Town"; America is a scam. Upcoming appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Carneyism without Carney (permalink) The "Third Way" in liberal politics involves saying things that working people love, but doing things that sociopathic plutocrats love. It works &#8230;right up until voters notice that you're not doing the things. That realisation breeds cynicism and fury and paves the way for fascist strongmen. It's really ugly, and no one does it uglier than Canada's Liberal Party. Remember that time Prime Minister Justin Trudeau marched with Greta Thunberg to protest Canada's shitty, planet-wrecking climate policies? https://globalnews.ca/news/5959371/election-campaign-climate-march/ Gee, Justin &#8211; it sure would be great if you could have a word with the fella who decided to bail out America's doomed tar sands pipeline and vowed to pump and torch 173,000,000,000 barrels of Canadian oil: https://finance.yahoo.com/news/no-country-173-billion-barrels-203807530.html Trudeau's "Third Way" eventually proved so unpopular that he opened the door to an authoritarian takeover of Canada by an otherwise totally unelectable, Trump-aligned far-right maniac. The only thing that saved Canada from a fate dumber than Trump was Trump himself, who wouldn't stop promising to make Canada the 51st state, an idea that was even more repellent to Canadians than five more years of Third Way bullshit: https://ca.news.yahoo.com/pierre-poilievre-joe-rogan-podcast-143318576.html And boy did Canadians find a Third Way bullshitter to move into 24 Sussex Drive: Mark Carney, an austerity-crazed central banker who will endorse incredibly progressive policies&#8230;provided he never has to do any of them. When it comes to championing working Canadians while royally screwing them, Carney is the only Canadian politician capable of out-Trudeauing Trudeau. But we shouldn't reject Carneyism due to the mere fact that Carney refuses to deliver Carneyism. The problem with Carneyism isn't Carneyism itself &#8211; the problem with Carneyism is Mark Carney. Take Carney's policy promise to charge US tech giants a 3% tax, a move that would defeat their incredibly clever gambit of pretending to be Irish and thus not owing any tax, anywhere: https://pluralistic.net/2026/01/17/erin-lets-go/#circumvention-haven That was a good policy! So was Carney's "elbows up" policy of sticking it to America in retaliation for Trump's flagrant violation of CUSMA, the free trade agreement negotiated by (checks notes) one Donald J Trump: https://www.theguardian.com/us-news/2025/may/06/trump-carney-meeting-canada-tariffs-trade Unfortunately, Mark Carney didn't get the memo from (checks notes) Mark Carney, and the very instant Trump arranged his face into his trademarked confused scowl, Carney dropped the tax, apologising profusely: https://www.canada.ca/en/department-finance/news/2025/06/canada-rescinds-digital-services-tax-to-advance-broader-trade-negotiations-with-the-united-states.html In the last days of the Trudeau government, the Liberals passed a bill that transformed Canada's Competition Bureau from the weakest antitrust regulator in the world into one of the strongest (on paper, at least): https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/guide-june-2024-amendments-competition-act It's impossible to overstate how useless the Competition Bureau was before this bill passed. In its entire history, the Bureau had only challenged three mergers, and had never successfully challenged a merger. Canada's do-nothing competition enforcers allowed the country to be captured by Made-in-Canada oligarchs whose ripoffs and abuses would make the Hudson's Bay Company blush: https://pluralistic.net/2024/12/05/ted-rogers-is-a-dope/#galen-weston-is-even-worse If Canada was ever going to be a real country (and not just two monopolists and a mining company in a trenchcoat) it needed a serious competition enforcer. Nominally, it has one, thanks to the 2024 Competition Act. The only problem was Carney, who made sweeping real-terms cuts to the Bureau's funding. Thanks to Carney, Canada has a Competition Bureau with all the powers it needs to save Canada from its oligarchs &#8211; but it can't afford to do any of that stuff. Monopolists rip Canadians off like crazy. We even have a guy who mistook Les Miz for an HBR case-study, and embarked upon the country's worst-ever price-fixing campaign, gouging the country on bread prices: https://www.donotpassgo.ca/p/the-bread-price-fixing-scandal-is You don't have to be a monopolist to steal from Canadians. Ripping off Canadians is the game everyone can play! Consumer protection agencies are incredible value for money, saving the public hundreds for every dollar that we spend on them. Guess who just eliminated Canada's consumer protection agency? https://www.donotpassgo.ca/p/carney-government-slashes-consumer Oh, to be a scammer in Mark Carney's Canada! Whatever Galen Weston doesn't steal is yours for the taking! But again, the problem isn't Carneyism &#8211; the problem is Carney. Carneyism is great. Carneyism gave us that remarkable speech at Davos, where Mark Carney declared a "rupture" in the US-dominated global system of trade and politics, promising a future of "minilateralism" in which "middle powers" like Canada band together for mutual prosperity: https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/ If only Mark Carney had been there to hear those stirring words! He might have understood what a fucking insane idea it is to turn over Canada's military to Palantir, the company that, more than any other, has fused itself with the Trump regime's domestic program of ethnic cleansing and its international program of extraterritorial aggression: https://www.thestar.com/politics/federal/canadas-deal-with-us-data-giant-palantir-is-legitimate-defence-minister-says/article_e49b9c32-8f76-466c-86ed-36a4110ba45a.html Carneyism isn't merely a rejection of the old international order. Domestically, Carneyism promises technocratic excellence, skilled leadership that delivers first-class services for the Canadian people. This is a great pitch! It got Mamdani elected, and Mamdani's sincere pursuit of governmental excellence thrills New Yorkers in new ways every day: https://pluralistic.net/2026/02/24/mamdani-thought/#public-excellence Here, too, Carneyism is entirely sound &#8211; the problem is Carney's vicious anti-Carneyism and his plan to fire tens of thousands of civil servants and replace them with AI chatbots. It's not just that chatbots are terrible substitutes for skilled public officials, they're also controlled by US corporations that are entirely beholden to the Trump regime: https://www.cbc.ca/news/politics/carney-artificial-intelligence-strategy-9.7213733 Unlike Mark Carney, I support Carneyism. Carneyism promises protection for Canadians, from monopolists and mad emperors, petty thieves and potholes. But Carney himself ardently opposes these policies. This will only get worse when the AI bubble pops and vaporises a third of the US stock market, spreading contagion to global capital markets. That will be Carney's cue to roll out his favourite go-to tactic: austerity. We cannot afford this. Austerity is how we lose the country. Austerity &#8211; more than any other force &#8211; drives working people into the arms of fascists: https://pluralistic.net/2026/04/12/always-great/#our-nhs The thing is, Mark Carney has shown his political opponents how to beat him: just embrace Carneyism. The things Carney says are incredibly popular. Now we just need to elect someone who'll do them. Hey look at this (permalink) Websites have a new way to spy on visitors: analyzing their SSD activity https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/ Cory Doctorow on Why the Internet Feels So Broken https://thewalrus.ca/cory-doctorow-on-why-the-internet-feels-so-broken/ AI sticker shock hits corporate America https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs A Fran Lebowitz Sampler https://jonwinokur.substack.com/p/a-fran-lebowitz-sampler Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Object permanence (permalink) #20yrsago World of Warcraft Easter eggs https://web.archive.org/web/20060614223838/http://www.wow-europe.com/en/contests/noblegarden/winners.html #15yrsago Bernie Sanders introduces anti-pharma-patent bill, aims to replace drug monopolies with prizes https://web.archive.org/web/20110528053922/http://keionline.org/node/1147 #15yrsago Life at a brainwashing “school for troubled teens” https://www.reddit.com/r/troubledteens/comments/hk0xy/a_gay_teen_describes_her_experience_at_a_utah/ #15yrsago Facebook updates from people who don’t know The Onion is a humor site https://literallyunbelievable.tumblr.com/ #10yrsago Untangling the Web: the NSA’s supremely weird, florid guide to the Internet https://www.techdirt.com/2016/05/27/nsas-guide-to-internet-is-weirdest-thing-youll-read-today/ #10yrsago Company Town: Madeline Ashby’s tale of sex and Singularity cults is a locked-door mystery at sea https://memex.craphound.com/2016/05/28/company-town-madeline-ashbys-tale-of-sex-and-singularity-cults-is-a-locked-door-mystery-at-sea/ #10yrago US trade rep threatens Colombia’s peace process over legal plan to offer cheap leukemia meds https://web.archive.org/web/20160725174757/https://www.statnews.com/pharmalot/2016/05/26/bernie-sanders-novartis-patent/ #10yrsago Security researcher discovers glaring problem with patient data system, FBI stages armed dawn raid https://dailydot.com/politics/justin-shafer-fbi-raid #10yrsago Wealthy families are most responsible for American wealth segregation https://web.archive.org/web/20160530195842/https://www.washingtonpost.com/news/wonk/wp/2016/05/10/the-incredible-impact-of-rich-parents-fighting-to-live-by-the-very-best-schools/ #10yrsago Someone just snuck warrantless email access into the Senate’s secret intelligence bill https://web.archive.org/web/20160526201753/https://theintercept.com/2016/05/26/secret-text-in-senate-bill-would-give-fbi-warrantless-access-to-email-records/ #10yrsago Wells Fargo, who preyed on black borrowers, sponsors Black Lives Matter luncheon https://web.archive.org/web/20160527184755/https://theintercept.com/2016/05/27/wells-fargo-sponsorship-of-black-lives-matter-panel-draws-scorn/ #10yrsago Anonymous Analytics: self-proclaimed Anon “faction” that tanks companies through stock reports https://web.archive.org/web/20160527155031/https://news.softpedia.com/news/anonymous-hackers-turned-stock-analysts-are-targeting-us-chinese-corporations-504495.shtml #10yrsago Scott Walker, saddled with $1.2m debt from failed presidential bid, pawns his own donors https://ghanasoccernet.com/uk/2016/05/24/scott-walker-rents-out-donor-list-to-pay-campaign-debt/ #10yrsago Study shows detailed, compromising inferences can be readily made with metadata https://www.pnas.org/doi/full/10.1073/pnas.1508081113 #10yrsago EFF fights order to remove public records documents detailing Seattle’s smart-meters https://www.muckrock.com/news/archives/2016/may/26/court-grants-temporary-restraining-order-forcing-r/ #5yrsago Probably https://pluralistic.net/2021/05/27/probably/ #1yrago AI turns Amazon coders into Amazon warehouse workers https://pluralistic.net/2025/05/27/rancid-vibe-coding/#class-war #1yrago America is a scam https://pluralistic.net/2025/05/28/cheaters-ever-prosper/#caveat-america Upcoming appearances (permalink) SXSW London, Jun 2 https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901 Kansas City: Facing the Future (Woodneath Library Center), Jun 10 https://www.mymcpl.org/events/119655/facing-future-cory-doctorow LA: The Reverse Centaur's Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19 https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant Menlo Park: The Reverse Centaur's Guide to Life After AI with Angie Coiro (Kepler's), Jun 21 https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026 Toronto: TBA, Jun 23 NYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) On Enshittification – and what can be done about it (Re:publica) https://www.youtube.com/watch?v=KhINQgPMVSI EFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu) https://archive.org/details/effecting-change-enshittification The “Enshittification” of Everything (Bioneers) https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/ Enshittification (99% Invisible) https://99percentinvisible.org/episode/666-enshittification/ Artificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas) https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor Latest books (permalink) "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2026 "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. "The Reverse Centaur's Guide to AI," a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. "The Post-American Internet," a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
-      </description>
-      <source:markdown>Today&#39;s links Carneyism without Carney: Eh? Hey look at this: Delights to delectate. Object permanence: Replacing pharma patents with bounties; USTR v cheap leukemia meds; Plutocrats x wealth segregation; Anonymous Analytics; Scott Walker sells off donors; Anonymization v metadata; Probably; Amazon warehouse workers are the future of Amazon coders; Warcraft eggs; Brainwashing school; People who don&#39;t know The Onion is satire; &#34;Company Town&#34;; America is a scam. Upcoming appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Carneyism without Carney (permalink) The &#34;Third Way&#34; in liberal politics involves saying things that working people love, but doing things that sociopathic plutocrats love. It works …right up until voters notice that you&#39;re not doing the things. That realisation breeds cynicism and fury and paves the way for fascist strongmen. It&#39;s really ugly, and no one does it uglier than Canada&#39;s Liberal Party. Remember that time Prime Minister Justin Trudeau marched with Greta Thunberg to protest Canada&#39;s shitty, planet-wrecking climate policies? https://globalnews.ca/news/5959371/election-campaign-climate-march/ Gee, Justin – it sure would be great if you could have a word with the fella who decided to bail out America&#39;s doomed tar sands pipeline and vowed to pump and torch 173,000,000,000 barrels of Canadian oil: https://finance.yahoo.com/news/no-country-173-billion-barrels-203807530.html Trudeau&#39;s &#34;Third Way&#34; eventually proved so unpopular that he opened the door to an authoritarian takeover of Canada by an otherwise totally unelectable, Trump-aligned far-right maniac. The only thing that saved Canada from a fate dumber than Trump was Trump himself, who wouldn&#39;t stop promising to make Canada the 51st state, an idea that was even more repellent to Canadians than five more years of Third Way bullshit: https://ca.news.yahoo.com/pierre-poilievre-joe-rogan-podcast-143318576.html And boy did Canadians find a Third Way bullshitter to move into 24 Sussex Drive: Mark Carney, an austerity-crazed central banker who will endorse incredibly progressive policies…provided he never has to do any of them. When it comes to championing working Canadians while royally screwing them, Carney is the only Canadian politician capable of out-Trudeauing Trudeau. But we shouldn&#39;t reject Carneyism due to the mere fact that Carney refuses to deliver Carneyism. The problem with Carneyism isn&#39;t Carneyism itself – the problem with Carneyism is Mark Carney. Take Carney&#39;s policy promise to charge US tech giants a 3% tax, a move that would defeat their incredibly clever gambit of pretending to be Irish and thus not owing any tax, anywhere: https://pluralistic.net/2026/01/17/erin-lets-go/#circumvention-haven That was a good policy! So was Carney&#39;s &#34;elbows up&#34; policy of sticking it to America in retaliation for Trump&#39;s flagrant violation of CUSMA, the free trade agreement negotiated by (checks notes) one Donald J Trump: https://www.theguardian.com/us-news/2025/may/06/trump-carney-meeting-canada-tariffs-trade Unfortunately, Mark Carney didn&#39;t get the memo from (checks notes) Mark Carney, and the very instant Trump arranged his face into his trademarked confused scowl, Carney dropped the tax, apologising profusely: https://www.canada.ca/en/department-finance/news/2025/06/canada-rescinds-digital-services-tax-to-advance-broader-trade-negotiations-with-the-united-states.html In the last days of the Trudeau government, the Liberals passed a bill that transformed Canada&#39;s Competition Bureau from the weakest antitrust regulator in the world into one of the strongest (on paper, at least): https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/guide-june-2024-amendments-competition-act It&#39;s impossible to overstate how useless the Competition Bureau was before this bill passed. In its entire history, the Bureau had only challenged three mergers, and had never successfully challenged a merger. Canada&#39;s do-nothing competition enforcers allowed the country to be captured by Made-in-Canada oligarchs whose ripoffs and abuses would make the Hudson&#39;s Bay Company blush: https://pluralistic.net/2024/12/05/ted-rogers-is-a-dope/#galen-weston-is-even-worse If Canada was ever going to be a real country (and not just two monopolists and a mining company in a trenchcoat) it needed a serious competition enforcer. Nominally, it has one, thanks to the 2024 Competition Act. The only problem was Carney, who made sweeping real-terms cuts to the Bureau&#39;s funding. Thanks to Carney, Canada has a Competition Bureau with all the powers it needs to save Canada from its oligarchs – but it can&#39;t afford to do any of that stuff. Monopolists rip Canadians off like crazy. We even have a guy who mistook Les Miz for an HBR case-study, and embarked upon the country&#39;s worst-ever price-fixing campaign, gouging the country on bread prices: https://www.donotpassgo.ca/p/the-bread-price-fixing-scandal-is You don&#39;t have to be a monopolist to steal from Canadians. Ripping off Canadians is the game everyone can play! Consumer protection agencies are incredible value for money, saving the public hundreds for every dollar that we spend on them. Guess who just eliminated Canada&#39;s consumer protection agency? https://www.donotpassgo.ca/p/carney-government-slashes-consumer Oh, to be a scammer in Mark Carney&#39;s Canada! Whatever Galen Weston doesn&#39;t steal is yours for the taking! But again, the problem isn&#39;t Carneyism – the problem is Carney. Carneyism is great. Carneyism gave us that remarkable speech at Davos, where Mark Carney declared a &#34;rupture&#34; in the US-dominated global system of trade and politics, promising a future of &#34;minilateralism&#34; in which &#34;middle powers&#34; like Canada band together for mutual prosperity: https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/ If only Mark Carney had been there to hear those stirring words! He might have understood what a fucking insane idea it is to turn over Canada&#39;s military to Palantir, the company that, more than any other, has fused itself with the Trump regime&#39;s domestic program of ethnic cleansing and its international program of extraterritorial aggression: https://www.thestar.com/politics/federal/canadas-deal-with-us-data-giant-palantir-is-legitimate-defence-minister-says/article\_e49b9c32-8f76-466c-86ed-36a4110ba45a.html Carneyism isn&#39;t merely a rejection of the old international order. Domestically, Carneyism promises technocratic excellence, skilled leadership that delivers first-class services for the Canadian people. This is a great pitch! It got Mamdani elected, and Mamdani&#39;s sincere pursuit of governmental excellence thrills New Yorkers in new ways every day: https://pluralistic.net/2026/02/24/mamdani-thought/#public-excellence Here, too, Carneyism is entirely sound – the problem is Carney&#39;s vicious anti-Carneyism and his plan to fire tens of thousands of civil servants and replace them with AI chatbots. It&#39;s not just that chatbots are terrible substitutes for skilled public officials, they&#39;re also controlled by US corporations that are entirely beholden to the Trump regime: https://www.cbc.ca/news/politics/carney-artificial-intelligence-strategy-9.7213733 Unlike Mark Carney, I support Carneyism. Carneyism promises protection for Canadians, from monopolists and mad emperors, petty thieves and potholes. But Carney himself ardently opposes these policies. This will only get worse when the AI bubble pops and vaporises a third of the US stock market, spreading contagion to global capital markets. That will be Carney&#39;s cue to roll out his favourite go-to tactic: austerity. We cannot afford this. Austerity is how we lose the country. Austerity – more than any other force – drives working people into the arms of fascists: https://pluralistic.net/2026/04/12/always-great/#our-nhs The thing is, Mark Carney has shown his political opponents how to beat him: just embrace Carneyism. The things Carney says are incredibly popular. Now we just need to elect someone who&#39;ll do them. Hey look at this (permalink) Websites have a new way to spy on visitors: analyzing their SSD activity https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/ Cory Doctorow on Why the Internet Feels So Broken https://thewalrus.ca/cory-doctorow-on-why-the-internet-feels-so-broken/ AI sticker shock hits corporate America https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs A Fran Lebowitz Sampler https://jonwinokur.substack.com/p/a-fran-lebowitz-sampler Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Object permanence (permalink) #20yrsago World of Warcraft Easter eggs https://web.archive.org/web/20060614223838/http://www.wow-europe.com/en/contests/noblegarden/winners.html #15yrsago Bernie Sanders introduces anti-pharma-patent bill, aims to replace drug monopolies with prizes https://web.archive.org/web/20110528053922/http://keionline.org/node/1147 #15yrsago Life at a brainwashing “school for troubled teens” https://www.reddit.com/r/troubledteens/comments/hk0xy/a\_gay\_teen\_describes\_her\_experience\_at\_a\_utah/ #15yrsago Facebook updates from people who don’t know The Onion is a humor site https://literallyunbelievable.tumblr.com/ #10yrsago Untangling the Web: the NSA’s supremely weird, florid guide to the Internet https://www.techdirt.com/2016/05/27/nsas-guide-to-internet-is-weirdest-thing-youll-read-today/ #10yrsago Company Town: Madeline Ashby’s tale of sex and Singularity cults is a locked-door mystery at sea https://memex.craphound.com/2016/05/28/company-town-madeline-ashbys-tale-of-sex-and-singularity-cults-is-a-locked-door-mystery-at-sea/ #10yrago US trade rep threatens Colombia’s peace process over legal plan to offer cheap leukemia meds https://web.archive.org/web/20160725174757/https://www.statnews.com/pharmalot/2016/05/26/bernie-sanders-novartis-patent/ #10yrsago Security researcher discovers glaring problem with patient data system, FBI stages armed dawn raid https://dailydot.com/politics/justin-shafer-fbi-raid #10yrsago Wealthy families are most responsible for American wealth segregation https://web.archive.org/web/20160530195842/https://www.washingtonpost.com/news/wonk/wp/2016/05/10/the-incredible-impact-of-rich-parents-fighting-to-live-by-the-very-best-schools/ #10yrsago Someone just snuck warrantless email access into the Senate’s secret intelligence bill https://web.archive.org/web/20160526201753/https://theintercept.com/2016/05/26/secret-text-in-senate-bill-would-give-fbi-warrantless-access-to-email-records/ #10yrsago Wells Fargo, who preyed on black borrowers, sponsors Black Lives Matter luncheon https://web.archive.org/web/20160527184755/https://theintercept.com/2016/05/27/wells-fargo-sponsorship-of-black-lives-matter-panel-draws-scorn/ #10yrsago Anonymous Analytics: self-proclaimed Anon “faction” that tanks companies through stock reports https://web.archive.org/web/20160527155031/https://news.softpedia.com/news/anonymous-hackers-turned-stock-analysts-are-targeting-us-chinese-corporations-504495.shtml #10yrsago Scott Walker, saddled with $1.2m debt from failed presidential bid, pawns his own donors https://ghanasoccernet.com/uk/2016/05/24/scott-walker-rents-out-donor-list-to-pay-campaign-debt/ #10yrsago Study shows detailed, compromising inferences can be readily made with metadata https://www.pnas.org/doi/full/10.1073/pnas.1508081113 #10yrsago EFF fights order to remove public records documents detailing Seattle’s smart-meters https://www.muckrock.com/news/archives/2016/may/26/court-grants-temporary-restraining-order-forcing-r/ #5yrsago Probably https://pluralistic.net/2021/05/27/probably/ #1yrago AI turns Amazon coders into Amazon warehouse workers https://pluralistic.net/2025/05/27/rancid-vibe-coding/#class-war #1yrago America is a scam https://pluralistic.net/2025/05/28/cheaters-ever-prosper/#caveat-america Upcoming appearances (permalink) SXSW London, Jun 2 https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901 Kansas City: Facing the Future (Woodneath Library Center), Jun 10 https://www.mymcpl.org/events/119655/facing-future-cory-doctorow LA: The Reverse Centaur&#39;s Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19 https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant Menlo Park: The Reverse Centaur&#39;s Guide to Life After AI with Angie Coiro (Kepler&#39;s), Jun 21 https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026 Toronto: TBA, Jun 23 NYC: The Reverse Centaur&#39;s Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur&#39;s Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur&#39;s Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) On Enshittification – and what can be done about it (Re:publica) https://www.youtube.com/watch?v=KhINQgPMVSI EFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu) https://archive.org/details/effecting-change-enshittification The “Enshittification” of Everything (Bioneers) https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/ Enshittification (99% Invisible) https://99percentinvisible.org/episode/666-enshittification/ Artificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas) https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor Latest books (permalink) &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2026 &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. &#34;The Reverse Centaur&#39;s Guide to AI,&#34; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &#34;The Post-American Internet,&#34; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
-      <guid>cid://https://pluralistic.net/?p=12856</guid>
-    </item>    <item>
-      <title>Web and Mobile Development Strategy Proposal</title>
-      <link>https://blog.documentfoundation.org/blog/2026/05/30/web-and-mobile-development-strategy-proposal/</link>
-      <description>
-        <![CDATA[Executive Summary This proposal suggests restarting LibreOffice web, mobile, and cloud development by structuring the project into a set of independent initiatives. Each initiative can be pursued separately from the others, and their deliverables will be useful improvements to LibreOffice even without the other components. • Responsive user interface •]]>
-      </description>
-      <source:markdown>Executive Summary This proposal suggests restarting LibreOffice web, mobile, and cloud development by structuring the project into a set of independent initiatives. Each initiative can be pursued separately from the others, and their deliverables will be useful improvements to LibreOffice even without the other components. • Responsive user interface •</source:markdown>
-      <guid>cid://https://blog.documentfoundation.org/?p=17729</guid>
-    </item>    <item>
-      <title>Trump&#39;s Department of Injustice | The Coffee Klatch for Saturday, May 30, 2026</title>
-      <link>https://robertreich.substack.com/p/trumps-department-of-injustice-the</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/199796140/bb26a0765cddf31ea921cea52578f73b.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-department-of-injustice-the</guid>
-    </item>    <item>
-      <title>May 29, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/may-29-2026</link>
-      <description>
-        <![CDATA[This morning, Senator John Cornyn (R-TX), who just lost his primary after President Donald J.]]>
-      </description>
-      <source:markdown>This morning, Senator John Cornyn (R-TX), who just lost his primary after President Donald J.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/may-29-2026</guid>
-    </item>    <item>
-      <title>Another moon</title>
-      <link>https://inkdroid.org/2026/05/30/another-moon/</link>
-      <description>
-        <![CDATA[<figure>
-        <a href="https://www.flickr.com/photos/inkdroid/55309152345/">
-        <img class="img-fluid" src="https://live.staticflickr.com/65535/55309152345_80b399737d_c.jpg">
-        </a>
-        <figcaption>
-        Another moon
-        </figcaption>
-        </figure>]]>
-      </description>
-      <source:markdown>[![](https://live.staticflickr.com/65535/55309152345_80b399737d_c.jpg)](https://www.flickr.com/photos/inkdroid/55309152345/)
-Another moon</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/05/30/another-moon/</guid>
-    </item>    <item>
-      <title>Weeknotes: May 23-29, 2026</title>
-      <link>https://tracydurnell.com/2026/05/29/weeknotes-may-23-29-2026/</link>
-      <description>
-        <![CDATA[Highlight of the week: finally checked the old trailcam (which can&#8217;t handle rain but works when it&#8217;s dry, so we set it up as a scout camera to test locations) &#8212; two bobcat sightings! Looking forward to: the Seattle area has had so many freeway closures recently, I&#8217;ve been feeling &#8220;trapped&#8221; at home on weekends for [&#8230;]]]>
-      </description>
-      <source:markdown>Highlight of the week: finally checked the old trailcam (which can’t handle rain but works when it’s dry, so we set it up as a scout camera to test locations) — two bobcat sightings! Looking forward to: the Seattle area has had so many freeway closures recently, I’ve been feeling “trapped” at home on weekends for \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=37491</guid>
-    </item>    <item>
-      <title>Notable links: May 29, 2026</title>
-      <link>https://werd.io/notable-links-may-29-2026/</link>
-      <description>
-        <![CDATA[On sustainably building tech that serves humanity.]]>
-      </description>
-      <source:markdown>On sustainably building tech that serves humanity.</source:markdown>
-      <guid>cid://6a1a56e96f75db000199a491</guid>
-    </item>    <item>
-      <title>Anthropic, AI and The “Numbers” Problem</title>
-      <link>https://om.co/2026/05/29/anthropic-ai-and-the-numbers-problem/</link>
-      <description>
-        <![CDATA[About a week ago I got a ping. Someone wanted to know if I knew someone who wanted $10 million of Anthropic common stock as a forward contract at $1 trillion. My first reaction was that we are so deep in a bubble that when we look up, all we see are sparkling, endless orbital &#8230;]]>
-      </description>
-      <source:markdown>About a week ago I got a ping. Someone wanted to know if I knew someone who wanted $10 million of Anthropic common stock as a forward contract at $1 trillion. My first reaction was that we are so deep in a bubble that when we look up, all we see are sparkling, endless orbital …</source:markdown>
-      <guid>cid://https://om.co/2026/05/29/anthropic-ai-and-the-numbers-problem/</guid>
-    </item>    <item>
-      <title>Bruce Springsteen, Tom Morello Announce Power To The People Festival Ahead Of Midterms</title>
-      <link>https://deadline.com/2026/05/bruce-springsteen-tom-morello-power-to-the-people-festival-1236930896/</link>
-      <description>
-        <![CDATA[As more artists drop out of the White House&#8217;s Freedom 250 event, Bruce Springsteen and Tom Morello are leading a protest music festival. While performing together on Wednesday at Nationals Park in Washington DC, they announced the one-day Power to the People festival will take place Oct. 3 at Merriweather Post Pavilion in Columbia, Maryland, [&#8230;]]]>
-      </description>
-      <source:markdown>As more artists drop out of the White House’s Freedom 250 event, Bruce Springsteen and Tom Morello are leading a protest music festival. While performing together on Wednesday at Nationals Park in Washington DC, they announced the one-day Power to the People festival will take place Oct. 3 at Merriweather Post Pavilion in Columbia, Maryland, \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236930896</guid>
-    </item>    <item>
-      <title>Maria Shriver Celebrates Judge’s Kennedy Center Decision, A “Great Birthday Gift” For JFK</title>
-      <link>https://deadline.com/2026/05/maria-shriver-celebrates-judge-kennedy-center-decision-1236930882/</link>
-      <description>
-        <![CDATA[Marking the late president&#8217;s 109th birthday, John F. Kennedy&#8217;s family is celebrating a judge&#8217;s recent decision to preserve his namesake memorial performing arts building. Following a federal judge&#8217;s order on Friday to remove Donald Trump&#8217;s name from the Kennedy Center and block a two-year renovation, JFK&#8217;s niece Maria Shriver praised the &#8220;great birthday gift&#8221; for [&#8230;]]]>
-      </description>
-      <source:markdown>Marking the late president’s 109th birthday, John F. Kennedy’s family is celebrating a judge’s recent decision to preserve his namesake memorial performing arts building. Following a federal judge’s order on Friday to remove Donald Trump’s name from the Kennedy Center and block a two-year renovation, JFK’s niece Maria Shriver praised the “great birthday gift” for \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236930882</guid>
-    </item>    <item>
-      <title>Jacob Tierney Shares ‘Heated Rivalry’ Season 2 Update While Accepting Critics Choice LGBTQ Showrunner Award: “Working Very Hard”</title>
-      <link>https://deadline.com/2026/05/jacob-tierney-heated-rivalry-season-2-update-critics-choice-1236930862/</link>
-      <description>
-        <![CDATA[As Heated Rivalry continues to collect awards for its first season, Jacob Tierney is hard at work on Season 2 of the hit show. During Friday&#8217;s 3rd Critics Choice Celebration of LGBTQ+ Cinema &#38; Television in Los Angeles, Tierney gave an update on the sophomore season of the Crave/HBO Max series as he accepted the [&#8230;]]]>
-      </description>
-      <source:markdown>As Heated Rivalry continues to collect awards for its first season, Jacob Tierney is hard at work on Season 2 of the hit show. During Friday’s 3rd Critics Choice Celebration of LGBTQ+ Cinema &#38; Television in Los Angeles, Tierney gave an update on the sophomore season of the Crave/HBO Max series as he accepted the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236930862</guid>
-    </item>    <item>
-      <title>RSoC 2026: EEVDF Scheduler</title>
-      <link>https://www.redox-os.org/news/eevdf/</link>
-      <description>
-        <![CDATA[<p>The EEVDF scheduler was successfully implemented to replace the DWRR scheduler. It features more dynamic calculations than the simple DWRR which should make the system a lot more fair in CPU time distribution. The new scheduler is more stable than the old one and improved the Pixelcannon demo performance by around 200 FPS! (do note that the implementation for EEVDF has not yet gone through optimisation phase). Expect the system to be more stable and faster now!</p>]]>
-      </description>
-      <source:markdown>The EEVDF scheduler was successfully implemented to replace the DWRR scheduler. It features more dynamic calculations than the simple DWRR which should make the system a lot more fair in CPU time distribution. The new scheduler is more stable than the old one and improved the Pixelcannon demo performance by around 200 FPS! (do note that the implementation for EEVDF has not yet gone through optimisation phase). Expect the system to be more stable and faster now!</source:markdown>
-      <guid>cid://https://www.redox-os.org/news/eevdf/</guid>
-    </item>    <item>
-      <title>Orion’s Mahershala Ali Movie ‘Your Mother Your Mother Your Mother’ Sets Fall Platform Release</title>
-      <link>https://deadline.com/2026/05/mahershala-ali-your-mother-your-mother-your-mother-release-date-1236930725/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: We can tell you first that Orion Pictures&#8217; Your Mother Your Mother Your Mother, starring 2x Oscar winner Mahershala Ali, will open in New York and Los Angeles theaters on Sept. 25, followed by expansions on Oct. 2 and Oct 9.  Your Mother Your Mother Your Mother is directed, produced, and written by Bassam Tariq. [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: We can tell you first that Orion Pictures’ Your Mother Your Mother Your Mother, starring 2x Oscar winner Mahershala Ali, will open in New York and Los Angeles theaters on Sept. 25, followed by expansions on Oct. 2 and Oct 9.  Your Mother Your Mother Your Mother is directed, produced, and written by Bassam Tariq. \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236930725</guid>
     </item>
   </channel>
 </rss>

@@ -4,19 +4,68 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>20 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>21 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The nemesis of mediocrity by Ralph Adams Cram</title>
-      <link>https://www.gutenberg.org/ebooks/78895</link>
+      <title>The Garden of Bright Waters</title>
+      <link>https://www.gutenberg.org/ebooks/9920</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Garden of Bright Waters</title>
-      <link>https://www.gutenberg.org/ebooks/9920</link>
+      <title>The waltz of the dogs : by Leonid Andreyev</title>
+      <link>https://www.gutenberg.org/ebooks/78902</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>100 professions for women : by Betty van Deventer</title>
+      <link>https://www.gutenberg.org/ebooks/78898</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Salt of the Earth by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78900</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Convict B 14: A Novel by R. K.  Weekes</title>
+      <link>https://www.gutenberg.org/ebooks/59772</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Elementos de geometria by Alexis-Claude Clairaut</title>
+      <link>https://www.gutenberg.org/ebooks/78897</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
+      <title>By foul means by Patrick Leyton</title>
+      <link>https://www.gutenberg.org/ebooks/78899</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Books in general by Solomon Eagle</title>
+      <link>https://www.gutenberg.org/ebooks/78901</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The nemesis of mediocrity by Ralph Adams Cram</title>
+      <link>https://www.gutenberg.org/ebooks/78895</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1220,41 +1269,6 @@
     </item>    <item>
       <title>I thought of Daisy by Edmund Wilson</title>
       <link>https://www.gutenberg.org/ebooks/78785</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Punainen mylly by Joel Lehtonen</title>
-      <link>https://www.gutenberg.org/ebooks/78783</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The marriage by Ann Bannon</title>
-      <link>https://www.gutenberg.org/ebooks/78780</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Dark Hester by Anne Douglas Sedgwick</title>
-      <link>https://www.gutenberg.org/ebooks/78779</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Minun Marttani : by Arvid Järnefelt</title>
-      <link>https://www.gutenberg.org/ebooks/78782</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The healthy life beverage book : by H. Valentine  Knaggs</title>
-      <link>https://www.gutenberg.org/ebooks/78781</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
