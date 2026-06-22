@@ -420,3 +420,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Raspberry Pi Podcast](https://www.raspberrypi.com/news/feed/)
 - [Mariam Posner Blog](https://miriamposner.com/blog/feed/)
 
+- [BAIR @ Berkley Blog](https://bair.berkeley.edu/blog/feed.xml)
+

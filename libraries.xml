@@ -4,10 +4,40 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>21 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>22 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Government Information Belongs to Everyone: Democracy’s Library in 2026</title>
+      <link>https://blog.archive.org/2026/06/22/government-information-belongs-to-everyone-democracys-library-in-2026/</link>
+      <description>
+        <![CDATA[Governments produce an abundance of information and put that information in the public domain, but often the public can&#8217;t easily find or access it. The Internet Archive’s Democracy’s Library project [&#8230;]]]>
+      </description>
+      <source:markdown>Governments produce an abundance of information and put that information in the public domain, but often the public can’t easily find or access it. The Internet Archive’s Democracy’s Library project \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30583</guid>
+    </item>    <item>
+      <title>A Platform Comes Apart: Part 1</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/</link>
+      <description>
+        <![CDATA[<p>Today's post explores what happens to the scholarly content platform when AI agents become the users.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/">A Platform Comes Apart: Part 1</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s post explores what happens to the scholarly content platform when AI agents become the users.
+
+The post [A Platform Comes Apart: Part 1](https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62116</guid>
+    </item>    <item>
+      <title>A Look at the “Story of Crossref’s Metadata Development”</title>
+      <link>https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/</link>
+      <description>
+        <![CDATA[<p>From a Crossref Post by Patricia Feeney: A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for CRediT — the ANSI/NISO taxonomy for contributor roles. This means that an individual’s complete contribution to a research output can finally be described in our metadata, rather [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/">A Look at the &#8220;Story of Crossref’s Metadata Development&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From a Crossref Post by Patricia Feeney: A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for CRediT — the ANSI/NISO taxonomy for contributor roles. This means that an individual’s complete contribution to a research output can finally be described in our metadata, rather \[…\]
+
+The post [A Look at the “Story of Crossref’s Metadata Development”](https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168194</guid>
+    </item>    <item>
       <title>Standards: Say Hello to the Agentic Resource Discovery (ARD) Specification</title>
       <link>https://www.infodocket.com/2026/06/19/standards-say-hello-to-the-agentic-resource-discovery-ard-specification/</link>
       <description>

@@ -4,17 +4,10 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>21 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>22 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The Garden of Bright Waters</title>
-      <link>https://www.gutenberg.org/ebooks/9920</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>The waltz of the dogs : by Leonid Andreyev</title>
       <link>https://www.gutenberg.org/ebooks/78902</link>
       <description>
@@ -22,15 +15,113 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>100 professions for women : by Betty van Deventer</title>
-      <link>https://www.gutenberg.org/ebooks/78898</link>
+      <title>Salt of the Earth by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78900</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Salt of the Earth by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78900</link>
+      <title>Emma by Jane Austen</title>
+      <link>https://www.gutenberg.org/ebooks/158</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Metamorphosis by Franz Kafka</title>
+      <link>https://www.gutenberg.org/ebooks/26298</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Condition of the Working-Class in England in 1844 by Friedrich Engels</title>
+      <link>https://www.gutenberg.org/ebooks/17306</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>How to conquer stupidity : by Leo Markun</title>
+      <link>https://www.gutenberg.org/ebooks/78906</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The agent by Stephen Marlowe</title>
+      <link>https://www.gutenberg.org/ebooks/78912</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Crack of doom by Stephen Marlowe</title>
+      <link>https://www.gutenberg.org/ebooks/78907</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hunt the red roe by Alan Payne</title>
+      <link>https://www.gutenberg.org/ebooks/78910</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Du Kremlin au Pacifique by Georges Ducrocq</title>
+      <link>https://www.gutenberg.org/ebooks/78904</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>As holy and enchanted by Henderson Starke</title>
+      <link>https://www.gutenberg.org/ebooks/78909</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Survivor by Jr. Irving E. Cox</title>
+      <link>https://www.gutenberg.org/ebooks/78911</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Forever is so long by John Jakes</title>
+      <link>https://www.gutenberg.org/ebooks/78908</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Histoire de l&#39;idée laïque en France au XIXe siècle by Georges Weill</title>
+      <link>https://www.gutenberg.org/ebooks/78903</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Model yachts and model yacht sailing : by James E. Walton</title>
+      <link>https://www.gutenberg.org/ebooks/78905</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Garden of Bright Waters</title>
+      <link>https://www.gutenberg.org/ebooks/9920</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>100 professions for women : by Betty van Deventer</title>
+      <link>https://www.gutenberg.org/ebooks/78898</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1241,34 +1332,6 @@
     </item>    <item>
       <title>Notes on the cathedral libraries of England by Beriah Botfield</title>
       <link>https://www.gutenberg.org/ebooks/78788</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Captain Kettle on the war-path by Charles John Cutcliffe Wright Hyne</title>
-      <link>https://www.gutenberg.org/ebooks/78784</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le cochon dans les trèfles by Mark Twain</title>
-      <link>https://www.gutenberg.org/ebooks/78786</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Der Hochlandspfarrer by Ingeborg Maria Sick</title>
-      <link>https://www.gutenberg.org/ebooks/78787</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>I thought of Daisy by Edmund Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/78785</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
