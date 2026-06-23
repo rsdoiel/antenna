@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>22 Jun 26 06:42 -0700</dateCreated>
+        <dateCreated>23 Jun 26 06:42 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -349,6 +349,7 @@
         <outline text="Strength in Numbere" type="rss" xmlUrl="https://www.gelliottmorris.com/feed" htmlUrl="https://www.gelliottmorris.com,https://www.gelliottmorris.com/feed" description="Independent, data-driven analysis of politics, public opinion polls, and elections. From author, journalist, and pollster G. Elliott Morris." url="https://www.gelliottmorris.com/feed"></outline>
         <outline text="Stu Maschwitz blog" type="rss" xmlUrl="https://prolost.com/blog?format=rss" htmlUrl="https://prolost.com/" description="&lt;p&gt;Filmmaking with your nerd out.&lt;/p&gt;"></outline>
         <outline text="Stubbornella Blog" type="rss" xmlUrl="https://www.stubbornella.org/feed/" htmlUrl="https://www.stubbornella.org,https://www.stubbornella.org/feed/" description="Nicole Sullivan" url="https://www.stubbornella.org/feed/"></outline>
+        <outline text="Swiss Storage" type="rss" xmlUrl="https://storageswiss.com/feed/" htmlUrl="https://storageswiss.com,https://storageswiss.com/feed/" url="https://storageswiss.com/feed/"></outline>
         <outline text="System76 Blog" type="rss" xmlUrl="https://blog.system76.com/rss.xml" htmlUrl="https://blog.system76.com/rss.xml" description="System76 Blog RSS Feed"></outline>
         <outline text="Tamás K. Papp blog" type="atom" xmlUrl="https://www.tamaspapp.eu/post/index.xml" htmlUrl="https://tamaspapp.eu/index.xml,https://tamaspapp.eu/post/" url="https://tamaspapp.eu/index.xml"></outline>
         <outline text="Tangled Blog" type="atom" xmlUrl="https://blog.tangled.org/blog/feed.xml" htmlUrl="https://blog.tangled.org/"></outline>
