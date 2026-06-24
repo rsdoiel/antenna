@@ -4,10 +4,35 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Jun 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>24 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/06/23 - A-ha, all the things I could do if I had a little money...</title>
+      <link>https://heyrick.eu/blog/entry/20260623</link>
+      <description>
+        <![CDATA[A-ha, all the things I could do if I had a little money...]]>
+      </description>
+      <source:markdown>A-ha, all the things I could do if I had a little money...</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260623</guid>
+    </item>    <item>
+      <title>338-6503 Rockwell, a R65C02 with an obscure number</title>
+      <link>http://retro.hansotten.nl/338-6503-rockwell-a-r65c02-with-an-oscure-number/</link>
+      <description>
+        <![CDATA[I saw an advert on bey (China seller) for a Rockwell 6503 IC. The 6503 is a variant of the 6502 with limited number of pins to 28, the same 6502 core with less addressing space. But something in the advert made me wonder, a 40 pin 6503? I ordered one and indeed a 40 [&#8230;]]]>
+      </description>
+      <source:markdown>I saw an advert on bey (China seller) for a Rockwell 6503 IC. The 6503 is a variant of the 6502 with limited number of pins to 28, the same 6502 core with less addressing space. But something in the advert made me wonder, a 40 pin 6503? I ordered one and indeed a 40 \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=21115</guid>
+    </item>    <item>
+      <title>Three Lines of Code Improve Linux Storage Performance</title>
+      <link>http://www.linux-magazine.com/Online/News/Three-Lines-of-Code-Improve-Linux-Storage-Performance</link>
+      <description>
+        <![CDATA[<p>A developer changed three lines of code, giving Linux storage performance a 5% bump.</p>]]>
+      </description>
+      <source:markdown>A developer changed three lines of code, giving Linux storage performance a 5% bump.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://b57cc35e028d427999bb1cfe74e8881e</guid>
+    </item>    <item>
       <title>AUR Hit Again with Malicious Packages</title>
       <link>http://www.linux-magazine.com/Online/News/AUR-Hit-Again-with-Malicious-Packages</link>
       <description>
@@ -682,23 +707,6 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
       </description>
       <source:markdown>If you are using an R-Comp Computer, you will be pleased to know that they have released updates to bring their systems up to date with the latest releases of RISC OS.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2341.html</guid>
-    </item>    <item>
-      <title>RCI rolling out RISC OS 5.31-based updates</title>
-      <link>https://www.riscository.com/2026/rci-risc-os-5-31-updates/</link>
-      <description>
-        <![CDATA[Starting with the i.MX6-based systems, R-Comp&#8217;s sister company RCI &#8211; which handles the hardware side of things &#8211; is rolling out &#8216;OS Update 24&#8217; for the various computers they sell. This update is based around a May 2026 build of RISC OS 5.31, with platform-specific enhancements and selected updates to disc image components where applicable. Andrew Rawnsley explained that because there are quite a few models of computer in their product range, from a logistical point of view the upgrade process is a large task &#8211; as well as preparing&#8230;]]>
-      </description>
-      <source:markdown>Starting with the i.MX6-based systems, R-Comp’s sister company RCI – which handles the hardware side of things – is rolling out ‘OS Update 24’ for the various computers they sell. This update is based around a May 2026 build of RISC OS 5.31, with platform-specific enhancements and selected updates to disc image components where applicable. Andrew Rawnsley explained that because there are quite a few models of computer in their product range, from a logistical point of view the upgrade process is a large task – as well as preparing…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10956</guid>
-    </item>    <item>
-      <title>California May Exempt Linux from Its Age-Verification Law</title>
-      <link>http://www.linux-magazine.com/Online/News/California-May-Exempt-Linux-from-Its-Age-Verification-Law</link>
-      <description>
-        <![CDATA[<p>After backlash from the Linux community, California may be backing off on its promise to force all operating systems to verify age, but one platform may still have to comply.</p>]]>
-      </description>
-      <source:markdown>After backlash from the Linux community, California may be backing off on its promise to force all operating systems to verify age, but one platform may still have to comply.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://422fede62c1fa3b092b8fc1b53553641</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,49 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>24 Jun 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What Changes When an LLM agent Searches Your Library Catalogue?</title>
+      <link>https://aarontay.substack.com/p/what-changes-when-an-llm-agent-searches</link>
+      <description>
+        <![CDATA[I connected an LLM to search Primo and found it was excellent at academic database discovery to help less experienced users]]>
+      </description>
+      <source:markdown>I connected an LLM to search Primo and found it was excellent at academic database discovery to help less experienced users</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!dgfJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e4fc078-ef0d-4978-aea8-f1f617b29803_1681x935.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/what-changes-when-an-llm-agent-searches</guid>
+    </item>    <item>
+      <title>Frenemies: A Tale of Scholarly Publishing Marketing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/24/frenemies-a-tale-of-scholarly-publishing-marketing/</link>
+      <description>
+        <![CDATA[<p>Today's post reflects on how scholarly publishing professionals balance camaraderie with market competition, and how 3 "frenemies" navigate complex industry dynamics.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/24/frenemies-a-tale-of-scholarly-publishing-marketing/">Frenemies: A Tale of Scholarly Publishing Marketing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s post reflects on how scholarly publishing professionals balance camaraderie with market competition, and how 3 &#34;frenemies&#34; navigate complex industry dynamics.
+
+The post [Frenemies: A Tale of Scholarly Publishing Marketing](https://scholarlykitchen.sspnet.org/2026/06/24/frenemies-a-tale-of-scholarly-publishing-marketing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62113</guid>
+    </item>    <item>
+      <title>The Royal Society: Historic Weather Data Made Available to Scientists and Public, Spanning Antarctica to Greenland</title>
+      <link>https://www.infodocket.com/2026/06/23/royal-society-historic-weather-data-made-available-to-scientists-and-public-spanning-antarctica-to-greenland/</link>
+      <description>
+        <![CDATA[<p>From The Royal Society: An archive of over 1,600 sets of meteorological, magnetic and tidal observations taken from 1706-1915 from across the globe has been digitised for the first time. The treasure trove of historic weather data and imagery is now available for scientists across the globe to study on the Royal Society’s Science in the [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/06/23/royal-society-historic-weather-data-made-available-to-scientists-and-public-spanning-antarctica-to-greenland/">The Royal Society: Historic Weather Data Made Available to Scientists and Public, Spanning Antarctica to Greenland</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From The Royal Society: An archive of over 1,600 sets of meteorological, magnetic and tidal observations taken from 1706-1915 from across the globe has been digitised for the first time. The treasure trove of historic weather data and imagery is now available for scientists across the globe to study on the Royal Society’s Science in the \[…\]
+
+The post [The Royal Society: Historic Weather Data Made Available to Scientists and Public, Spanning Antarctica to Greenland](https://www.infodocket.com/2026/06/23/royal-society-historic-weather-data-made-available-to-scientists-and-public-spanning-antarctica-to-greenland/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168201</guid>
+    </item>    <item>
+      <title>Roots System: Introducing the Pollinators of DWebCamp 2026</title>
+      <link>https://blog.archive.org/2026/06/23/dweb-pollinators-2026/</link>
+      <description>
+        <![CDATA[by Marie Kochsiek Decentralized technologies have the potential to create a better web: one that upholds people’s privacy, security, and self-determination. Yet, for many communities, the current web has failed to [&#8230;]]]>
+      </description>
+      <source:markdown>by Marie Kochsiek Decentralized technologies have the potential to create a better web: one that upholds people’s privacy, security, and self-determination. Yet, for many communities, the current web has failed to \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30565</guid>
+    </item>    <item>
       <title>We have updated our privacy policy</title>
       <link>https://investinopen.org/blog/we-have-updated-our-privacy-policy-2026/</link>
       <description>
@@ -27,13 +66,126 @@
 The post [Guest Post — Legitimate but Not Loved: What Academic Librarians Think About AI](https://scholarlykitchen.sspnet.org/2026/06/23/guest-post-legitimate-but-not-loved-what-academic-librarians-think-about-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62024</guid>
     </item>    <item>
+      <title>New Crossref Service Providers Program ready for applications</title>
+      <link>https://www.crossref.org/blog/new-crossref-service-providers-program-ready-for-applications/</link>
+      <description>
+        <![CDATA[<p>We are pleased to announce the re-launch of the <a href="https://www.crossref.org/community/service-providers/" target="_blank">Crossref Service Providers Program</a>. From today, we are accepting applications from organisations providing tools for metadata registration to Crossref members. Participation in this program is free and the application involves an accreditation process to determine eligibility and the appropriate participation tier.</p>
+        <p>As a membership organisation, Crossref supports its members to provide rich and complete metadata which facilitates integrity judgements, increases discoverability, linking among scholarly objects and activities, and improves transparency. Service providers are key collaborators in this work because they enable our members to adopt better metadata practices.</p>
+        <p>We ran an earlier version of this program which was paused in 2022 for review. We are now pleased to reintroduce the program as a new structure for our collaboration with service providers. If you are an organisation that provides tools that enable record registration for Crossref members, we invite you to apply for the program via this <a href="https://crossref.org/_apply/service-provider" target="_blank">application form</a>.</p>
+        <h2 id="scope-and-goals-of-the-program">Scope and goals of the program</h2>
+        <p>Crossref service providers have historically included organisations such as hosting platforms, manuscript submission systems, grant management systems, XML and metadata providers, and other general publishing services organisations that work with Crossref members to create, register, and/or display metadata on their behalf. As we re-launch the program, the initial focus will be purely on service providers that enable content registration for Crossref members. In the future, and based on community feedback, the program may expand to include additional types of service providers.</p>
+        <p>The primary goal of the program is to enable registration and maintenance of high-quality and rich metadata by Crossref members, contributing to a more complete <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">research nexus</a>. We aim to achieve this through a closer collaboration between Crossref and service providers. Participants of the Service Providers Program will make reasonable efforts to accommodate any changes made to the Crossref schema, promote best metadata practices as per Crossref <a href="https://www.crossref.org/members/prep/" target="_blank">Participation Reports</a>, and share information about the services that they are able to integrate and provide to their clients.</p>
+        <h3 id="participants-of-the-service-providers-program-will-commit-to">Participants of the Service Providers Program will commit to:</h3>
+        <ul>
+        <li>Staying up to date with Crossref services and policies, including participation in ongoing meetings and communications.</li>
+        <li>Providing feedback to Crossref on our services.</li>
+        <li>Giving Crossref information about their client service offerings and workflows, including metadata delivery options and test accounts.</li>
+        <li>Promoting metadata best practices as represented in Crossref <a href="https://www.crossref.org/members/prep/" target="_blank">Participation Reports</a>.</li>
+        <li>Making reasonable efforts to accommodate changes to the Crossref schema and services.</li>
+        <li>Ensuring that their clients’ content and landing pages are kept up to date (including ensuring that clients’ DOIs resolve to active landing pages at all times).</li>
+        </ul>
+        <p>Participants of the Service Providers Program will benefit from learning about changes and new services ahead of time coupled with regular updates about our services and policies. We will also list all accredited service providers on our website, and all participants will receive a digital Crossref badge to display on their website. We look forward to providing participants with credentials to access our test system for testing integrations, and providing training where necessary.</p>
+        <h2 id="service-providers-program-tiers">Service Providers Program tiers</h2>
+        <p>Better metadata support helps improve discoverability, transparency, and the <a href="https://www.crossref.org/community/special-programs/research-integrity/" target="_blank">integrity of the scholarly record</a>. We developed two Service Providers Program tiers in order to signal to the community the richness of metadata and support these organisations offer to Crossref members. At the Basic Tier, participants are able to provide members with the core metadata support, while the Advanced Tier includes additional features that enable richer metadata support for Crossref members – the details are laid out below.</p>
+        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/service-provider-tiers.png"
+        alt="table describing the two tiers" width="75%">
+        </figure>
+        <p>
+        <h2 id="application-and-accreditation-process">Application and accreditation process</h2>
+        <p>Applications to join the program are being accepted via <a href="https://crossref.org/_apply/service-provider" target="_blank">this form</a>. The application form asks for basic organisational information including your contact details and the services you provide to Crossref members. You will then be asked about your organisation’s technical capabilities and workflows, including your ability to support metadata registration, manage multiple client prefixes, and comply with the <a href="https://www.crossref.org/display-guidelines/" target="_blank">display guidelines for Crossref DOIs</a>. The form also includes questions about metadata support, such as whether your platform can facilitate the deposit and update of recommended and optional metadata elements, which schema versions you are able to support, and the provision of alternative metadata delivery options.</p>
+        <p>We recommend reviewing the questions to ensure that the appropriate technical and operational requirements can be met before beginning the application. If you require clarification on any of these questions, please do not hesitate to reach out to us.</p>
+        <h3 id="basic-tier-requirements-and-questions">Basic Tier requirements and questions</h3>
+        <ul>
+        <li>Enable Crossref members to register content and deposit required metadata, as per Crossref&rsquo;s <a href="https://www.crossref.org/documentation/schema-library/required-recommended-elements/" target="_blank">required, recommended and optional metadata</a>.</li>
+        <li>Ability to support and display multiple client prefixes.</li>
+        <li>Ensure continuous resolution of clients&rsquo; DOIs following platform migrations.</li>
+        <li>Provide platform support to members.</li>
+        <li>Comply with the <a href="https://www.crossref.org/display-guidelines/" target="_blank">display guidelines for Crossref DOIs</a>.</li>
+        <li>Maintain communication channels with Crossref and/or participate in trainings.</li>
+        <li>Notify Crossref when large-scale metadata updates are planned (i.e. when you are aware of daily updates exceeding 500,000 DOIs updated by a single client (Crossref member)).</li>
+        <li>Use Crossref members&rsquo; credentials to register content on their behalf.</li>
+        <li>Follow industry best practices for credentials security and account protection.</li>
+        </ul>
+        <h3 id="advanced-tier-requirements-and-questions">Advanced Tier requirements and questions</h3>
+        <p>In addition to meeting all the Basic Tier requirements, applicants must confirm whether they:</p>
+        <ul>
+        <li>Provide alternative metadata delivery options.</li>
+        <li>Support recommended and optional metadata elements.</li>
+        <li>Support latest schema versions (5.3.1 and above).</li>
+        </ul>
+        <p>Following a review of application forms, we will schedule accreditation calls from August 2026 onward that will involve demonstrations of the required functionality and an assessment of the applicant’s ability to meet the requirements of the program. This process will help determine the appropriate tier.</p>
+        <p>We ask that participants on the Service Providers Program renew their accreditation at the beginning of each calendar year, starting in 2028. This will entail the submission of a re-accreditation form which may contain new requirements such as support for newer schema versions.</p>
+        <p>We look forward to working more closely with service providers to support richer metadata and seamless infrastructure workflows.</p>]]>
+      </description>
+      <source:markdown>We are pleased to announce the re-launch of the [Crossref Service Providers Program](https://www.crossref.org/community/service-providers/). From today, we are accepting applications from organisations providing tools for metadata registration to Crossref members. Participation in this program is free and the application involves an accreditation process to determine eligibility and the appropriate participation tier.
+
+As a membership organisation, Crossref supports its members to provide rich and complete metadata which facilitates integrity judgements, increases discoverability, linking among scholarly objects and activities, and improves transparency. Service providers are key collaborators in this work because they enable our members to adopt better metadata practices.
+
+We ran an earlier version of this program which was paused in 2022 for review. We are now pleased to reintroduce the program as a new structure for our collaboration with service providers. If you are an organisation that provides tools that enable record registration for Crossref members, we invite you to apply for the program via this [application form](https://crossref.org/_apply/service-provider).
+
+## Scope and goals of the program
+
+Crossref service providers have historically included organisations such as hosting platforms, manuscript submission systems, grant management systems, XML and metadata providers, and other general publishing services organisations that work with Crossref members to create, register, and/or display metadata on their behalf. As we re-launch the program, the initial focus will be purely on service providers that enable content registration for Crossref members. In the future, and based on community feedback, the program may expand to include additional types of service providers.
+
+The primary goal of the program is to enable registration and maintenance of high-quality and rich metadata by Crossref members, contributing to a more complete [research nexus](https://www.crossref.org/documentation/research-nexus/). We aim to achieve this through a closer collaboration between Crossref and service providers. Participants of the Service Providers Program will make reasonable efforts to accommodate any changes made to the Crossref schema, promote best metadata practices as per Crossref [Participation Reports](https://www.crossref.org/members/prep/), and share information about the services that they are able to integrate and provide to their clients.
+
+### Participants of the Service Providers Program will commit to:
+
+- Staying up to date with Crossref services and policies, including participation in ongoing meetings and communications.
+- Providing feedback to Crossref on our services.
+- Giving Crossref information about their client service offerings and workflows, including metadata delivery options and test accounts.
+- Promoting metadata best practices as represented in Crossref [Participation Reports](https://www.crossref.org/members/prep/).
+- Making reasonable efforts to accommodate changes to the Crossref schema and services.
+- Ensuring that their clients’ content and landing pages are kept up to date (including ensuring that clients’ DOIs resolve to active landing pages at all times).
+
+Participants of the Service Providers Program will benefit from learning about changes and new services ahead of time coupled with regular updates about our services and policies. We will also list all accredited service providers on our website, and all participants will receive a digital Crossref badge to display on their website. We look forward to providing participants with credentials to access our test system for testing integrations, and providing training where necessary.
+
+## Service Providers Program tiers
+
+Better metadata support helps improve discoverability, transparency, and the [integrity of the scholarly record](https://www.crossref.org/community/special-programs/research-integrity/). We developed two Service Providers Program tiers in order to signal to the community the richness of metadata and support these organisations offer to Crossref members. At the Basic Tier, participants are able to provide members with the core metadata support, while the Advanced Tier includes additional features that enable richer metadata support for Crossref members – the details are laid out below.
+
+![table describing the two tiers](https://www.crossref.org/images/blog/2026/service-provider-tiers.png)
+
+## Application and accreditation process
+
+Applications to join the program are being accepted via [this form](https://crossref.org/_apply/service-provider). The application form asks for basic organisational information including your contact details and the services you provide to Crossref members. You will then be asked about your organisation’s technical capabilities and workflows, including your ability to support metadata registration, manage multiple client prefixes, and comply with the [display guidelines for Crossref DOIs](https://www.crossref.org/display-guidelines/). The form also includes questions about metadata support, such as whether your platform can facilitate the deposit and update of recommended and optional metadata elements, which schema versions you are able to support, and the provision of alternative metadata delivery options.
+
+We recommend reviewing the questions to ensure that the appropriate technical and operational requirements can be met before beginning the application. If you require clarification on any of these questions, please do not hesitate to reach out to us.
+
+### Basic Tier requirements and questions
+
+- Enable Crossref members to register content and deposit required metadata, as per Crossref’s [required, recommended and optional metadata](https://www.crossref.org/documentation/schema-library/required-recommended-elements/).
+- Ability to support and display multiple client prefixes.
+- Ensure continuous resolution of clients’ DOIs following platform migrations.
+- Provide platform support to members.
+- Comply with the [display guidelines for Crossref DOIs](https://www.crossref.org/display-guidelines/).
+- Maintain communication channels with Crossref and/or participate in trainings.
+- Notify Crossref when large-scale metadata updates are planned (i.e. when you are aware of daily updates exceeding 500,000 DOIs updated by a single client (Crossref member)).
+- Use Crossref members’ credentials to register content on their behalf.
+- Follow industry best practices for credentials security and account protection.
+
+### Advanced Tier requirements and questions
+
+In addition to meeting all the Basic Tier requirements, applicants must confirm whether they:
+
+- Provide alternative metadata delivery options.
+- Support recommended and optional metadata elements.
+- Support latest schema versions (5.3.1 and above).
+
+Following a review of application forms, we will schedule accreditation calls from August 2026 onward that will involve demonstrations of the required functionality and an assessment of the applicant’s ability to meet the requirements of the program. This process will help determine the appropriate tier.
+
+We ask that participants on the Service Providers Program renew their accreditation at the beginning of each calendar year, starting in 2028. This will entail the submission of a re-accreditation form which may contain new requirements such as support for newer schema versions.
+
+We look forward to working more closely with service providers to support richer metadata and seamless infrastructure workflows.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/new-crossref-service-providers-program-ready-for-applications/</guid>
+    </item>    <item>
       <title>ARL Daily Intelligence (June 22–25)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-22-25/</link>
       <description>
-        <![CDATA[<p>Last Updated on June 22, 2026, 1:51 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on June 23, 2026, 2:18 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-22-25/">ARL Daily Intelligence (June 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on June 22, 2026, 1:51 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on June 23, 2026, 2:18 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (June 22–25)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-22-25/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49030</guid>
@@ -587,49 +739,6 @@ The post [The Rise of China’s Scholarly Publishing System Part 2: Navigating C
 
 The post [The Rise of China’s Scholarly Publishing System Part 1: China’s Journal Ecosystem Is Accelerating](https://scholarlykitchen.sspnet.org/2026/06/03/the-rise-of-chinas-scholarly-publishing-system-part-1-chinas-journal-ecosystem-is-accelerating/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62027</guid>
-    </item>    <item>
-      <title>May 2026</title>
-      <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/may-2026/</link>
-      <description>
-        <![CDATA[<p>Last Updated on June 2, 2026, 12:03 pm ET ARL Public Policy Briefing (May 2026) In May, the US Congress reintroduced the bipartisan NO FAKES Act with language negotiated by...</p>
-        <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/may-2026/">May 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on June 2, 2026, 12:03 pm ET ARL Public Policy Briefing (May 2026) In May, the US Congress reintroduced the bipartisan NO FAKES Act with language negotiated by...
-
-The post [May 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/may-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=48872</guid>
-    </item>    <item>
-      <title>Scholarly Publishing: Wiley Acquires Emerald For $452 Million in All-Cash Transaction</title>
-      <link>https://www.infodocket.com/2026/06/02/scholarly-publishing-wiley-acquires-emerald-for-452-million/</link>
-      <description>
-        <![CDATA[<p>Here&#8217;s the Full Text of the Wiley News Release: Wiley today announced it has acquired Emerald Publishing Limited (“Emerald”) from Cambridge Information Group (CIG) in an all-cash transaction valued at £337 million, or USD 452 million. The acquisition expands Wiley’s journal portfolio to approximately 2,500 titles and establishes it as a leader in the social [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/06/02/scholarly-publishing-wiley-acquires-emerald-for-452-million/">Scholarly Publishing: Wiley Acquires Emerald For $452 Million in All-Cash Transaction</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>Here’s the Full Text of the Wiley News Release: Wiley today announced it has acquired Emerald Publishing Limited (“Emerald”) from Cambridge Information Group (CIG) in an all-cash transaction valued at £337 million, or USD 452 million. The acquisition expands Wiley’s journal portfolio to approximately 2,500 titles and establishes it as a leader in the social \[…\]
-
-The post [Scholarly Publishing: Wiley Acquires Emerald For $452 Million in All-Cash Transaction](https://www.infodocket.com/2026/06/02/scholarly-publishing-wiley-acquires-emerald-for-452-million/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168095</guid>
-    </item>    <item>
-      <title>Data Reuse is the Sincerest Form of Flattery</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/02/data-reuse-is-the-sincerest-form-of-flattery/</link>
-      <description>
-        <![CDATA[<p>A powerful way to quantify article quality has been hiding in plain sight. It's time to bring data citations into the limelight.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/02/data-reuse-is-the-sincerest-form-of-flattery/">Data Reuse is the Sincerest Form of Flattery</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>A powerful way to quantify article quality has been hiding in plain sight. It&#39;s time to bring data citations into the limelight.
-
-The post [Data Reuse is the Sincerest Form of Flattery](https://scholarlykitchen.sspnet.org/2026/06/02/data-reuse-is-the-sincerest-form-of-flattery/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62015</guid>
-    </item>    <item>
-      <title>Rogue Scholar has now archived 50,000 science blog posts</title>
-      <link>https://blog.front-matter.de/posts/rogue-scholar-50-000/</link>
-      <description>
-        <![CDATA[<p>The science blog archive <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar</a> last week achieved an important milestone: archiving 50,000 science blog posts, will searchable full-text, rich metadata, and DOIs.</p><p>Rogue Scholar started to archive science blog posts in <a href="https://doi.org/10.53731/z9v2s-bh329" rel="noreferrer">April 2023</a>, started archiving all content with the Internet Archive Archive-It service in <a href="https://doi.org/10.53731/hhtx0-wb293" rel="noreferrer">October</a></p>]]>
-      </description>
-      <source:markdown>The science blog archive [Rogue Scholar](https://rogue-scholar.org) last week achieved an important milestone: archiving 50,000 science blog posts, will searchable full-text, rich metadata, and DOIs.
-
-Rogue Scholar started to archive science blog posts in [April 2023](https://doi.org/10.53731/z9v2s-bh329), started archiving all content with the Internet Archive Archive-It service in [October](https://doi.org/10.53731/hhtx0-wb293)</source:markdown>
-      <guid>cid://6a1e77289795870001ba5694</guid>
     </item>
   </channel>
 </rss>

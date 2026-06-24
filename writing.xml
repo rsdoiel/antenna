@@ -4,10 +4,21 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>23 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>24 Jun 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Craig Takes Questions</title>
+      <link>https://johnaugust.com/2026/craig-takes-questions</link>
+      <description>
+        <![CDATA[<p>This week, Craig answers listener questions about rewriting on set, AI coverage, when and how to kill off characters, sizing up producers, and more. There’s also an extra-special guest appearance for this week’s One Cool Thing. In the bonus segment for premium subscribers, Craig discusses how to be wrong—something he feels he knows all too [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/craig-takes-questions">Craig Takes Questions</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>This week, Craig answers listener questions about rewriting on set, AI coverage, when and how to kill off characters, sizing up producers, and more. There’s also an extra-special guest appearance for this week’s One Cool Thing. In the bonus segment for premium subscribers, Craig discusses how to be wrong—something he feels he knows all too \[…\]
+
+The post [Craig Takes Questions](https://johnaugust.com/2026/craig-takes-questions) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=24014</guid>
+    </item>    <item>
       <title>On Competence</title>
       <link>https://johnaugust.com/2026/on-competence</link>
       <description>
@@ -80,18 +91,6 @@ The post [Scriptnotes, Episode 737: Studio-Adjacent, Transcript](https://johnaug
       </description>
       <source:markdown>Grant administration rules are not where most authors look for news that affects their work. But, the so-called “Uniform Guidance” published in Title 2 of the CFR has a big impact on how universities account for federal money, from what counts as an allowable cost to how indirect rates are negotiated. The rules about what a grant can pay for, though, are also rules about how publicly funded research gets published and read.</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12956</guid>
-    </item>    <item>
-      <title>Building Your Audience with Courtney Kemp</title>
-      <link>https://johnaugust.com/2026/building-your-audience-with-courtney-kemp</link>
-      <description>
-        <![CDATA[<p>John welcomes writer and showrunner Courtney Kemp (Power, Nemesis) to ask, how do you find an audience and build momentum on television? They look at how writers can match their voice to an underserved audience, the pitfalls of being boxed in by a niche, and what new writers can do to get people excited about [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/building-your-audience-with-courtney-kemp">Building Your Audience with Courtney Kemp</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John welcomes writer and showrunner Courtney Kemp (Power, Nemesis) to ask, how do you find an audience and build momentum on television? They look at how writers can match their voice to an underserved audience, the pitfalls of being boxed in by a niche, and what new writers can do to get people excited about \[…\]
-
-The post [Building Your Audience with Courtney Kemp](https://johnaugust.com/2026/building-your-audience-with-courtney-kemp) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/738standard.mp3" length="55293105" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23970</guid>
     </item>
   </channel>
 </rss>
