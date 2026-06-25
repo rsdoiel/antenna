@@ -4,10 +4,19 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>24 Jun 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>25 Jun 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Analects, by Confucius</title>
+      <link>https://standardebooks.org/ebooks/confucius/analects/james-legge</link>
+      <description>
+        <![CDATA[The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.]]>
+      </description>
+      <source:markdown>The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/confucius/analects/james-legge/downloads/confucius_analects_james-legge.epub?source=feed" length="451400" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/confucius/analects/james-legge</guid>
+    </item>    <item>
       <title>Under Dewey at Manila : by Edward Stratemeyer</title>
       <link>https://www.gutenberg.org/ebooks/78934</link>
       <description>
@@ -1362,90 +1371,6 @@
     </item>    <item>
       <title>Shadowed by a detective : by Virginia Champlin</title>
       <link>https://www.gutenberg.org/ebooks/78812</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The six books of Proclus, the Platonic successor, on the theology of Plato (vol. 2 of 2) :</title>
-      <link>https://www.gutenberg.org/ebooks/78800</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Being a Boy by Charles Dudley Warner</title>
-      <link>https://www.gutenberg.org/ebooks/3127</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Harry Heathcote of Gangoil: A Tale of Australian Bush-Life by Anthony Trollope</title>
-      <link>https://www.gutenberg.org/ebooks/5642</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Willie and Lucy abroad by Agnes Giberne</title>
-      <link>https://www.gutenberg.org/ebooks/78805</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Prevaricated Parade by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/66857</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A plan for improving female education by Emma Willard</title>
-      <link>https://www.gutenberg.org/ebooks/78806</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The battle of Harlem Heights by Thomas Addis Emmet</title>
-      <link>https://www.gutenberg.org/ebooks/78798</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The kitchen garden and the cook : by Cecilia Maria de Candia Pearse</title>
-      <link>https://www.gutenberg.org/ebooks/78799</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The parlor gardener : by Cornelia J.  Randolph</title>
-      <link>https://www.gutenberg.org/ebooks/78801</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The early courts of Pennsylvania by William Henry Lloyd</title>
-      <link>https://www.gutenberg.org/ebooks/78802</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Jenny Lind the artist, 1820-1851 : by Henry Scott Holland and W. S.  Rockstro</title>
-      <link>https://www.gutenberg.org/ebooks/78803</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Studies of chess : by F. D.  Philidor</title>
-      <link>https://www.gutenberg.org/ebooks/78804</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

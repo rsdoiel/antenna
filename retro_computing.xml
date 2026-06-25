@@ -4,10 +4,18 @@
   <channel>
     <title>Retro Computing News</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Jun 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ScummVM 2026.3.0 released</title>
+      <link>https://www.riscository.com/2026/scummvm-2026-3-0-released/</link>
+      <description>
+        <![CDATA[Moving up a notch yet again thanks to its increased release cycle, ScummVM 2026.3.0 is now available to download, featuring a number of bug fixes and other improvements to some of the engines it supports, and bringing a host of newly supported games to be played. ScummVM is a &#8216;virtual machine&#8217; (that&#8217;s the VM part of its name) that was originally developed to allow games written using LucasArts&#8217; Script Creation Utility for Maniac Mansion &#8211; to be played on modern systems. However, that was back in 2001, and in the&#8230;]]>
+      </description>
+      <source:markdown>Moving up a notch yet again thanks to its increased release cycle, ScummVM 2026.3.0 is now available to download, featuring a number of bug fixes and other improvements to some of the engines it supports, and bringing a host of newly supported games to be played. ScummVM is a ‘virtual machine’ (that’s the VM part of its name) that was originally developed to allow games written using LucasArts’ Script Creation Utility for Maniac Mansion – to be played on modern systems. However, that was back in 2001, and in the…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10964</guid>
+    </item>    <item>
       <title>b.log 2026/06/23 - A-ha, all the things I could do if I had a little money...</title>
       <link>https://heyrick.eu/blog/entry/20260623</link>
       <description>
@@ -683,30 +691,6 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
       <source:markdown>KDE Linux developers have dropped the Arch User Repository from the build pipeline due to security concerns; other distributions should consider doing the same.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://083d9b0c10c907af390dca4fbbce9276</guid>
-    </item>    <item>
-      <title>b.log 2026/06/03 - Sockets and Mars, Concrete, 1MHz connection idea, Cat comes first!, Serial shenanigans.</title>
-      <link>https://heyrick.eu/blog/entry/20260603</link>
-      <description>
-        <![CDATA[Sockets and Mars, Concrete, 1MHz connection idea, Cat comes first!, Serial shenanigans.]]>
-      </description>
-      <source:markdown>Sockets and Mars, Concrete, 1MHz connection idea, Cat comes first!, Serial shenanigans.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260603</guid>
-    </item>    <item>
-      <title>KIM-1 Simulator V2.3.0</title>
-      <link>http://retro.hansotten.nl/kim-1-simulator-v230/</link>
-      <description>
-        <![CDATA[Again Eduardo Casino has enhanced the KIM-1 Simulator V2.3.0 after adding the K-1103 and Corsham SD-Shield with CODOS and CP/M-65 operating system in V2.0: Version 2.2 and 2.3: &#8211; The Console has now a complete VT100 emulation with color and the DEC Special Character set &#8211; The console supports cut and paste text with the [&#8230;]]]>
-      </description>
-      <source:markdown>Again Eduardo Casino has enhanced the KIM-1 Simulator V2.3.0 after adding the K-1103 and Corsham SD-Shield with CODOS and CP/M-65 operating system in V2.0: Version 2.2 and 2.3: – The Console has now a complete VT100 emulation with color and the DEC Special Character set – The console supports cut and paste text with the \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=21042</guid>
-    </item>    <item>
-      <title>R-Comp updates its RISC OS builds for customers</title>
-      <link>http://www.iconbar.com/comments/rss/news2341.html</link>
-      <description>
-        <![CDATA[If you are using an R-Comp Computer, you will be pleased to know that they have released updates to bring their systems up to date with the latest releases of RISC OS.]]>
-      </description>
-      <source:markdown>If you are using an R-Comp Computer, you will be pleased to know that they have released updates to bring their systems up to date with the latest releases of RISC OS.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2341.html</guid>
     </item>
   </channel>
 </rss>
