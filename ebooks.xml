@@ -4,10 +4,19 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>25 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>26 Jun 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Short Fiction, by Harry Harrison</title>
+      <link>https://standardebooks.org/ebooks/harry-harrison/short-fiction</link>
+      <description>
+        <![CDATA[A collection of science fiction stories by Harry Harrison, ordered by date of publication.]]>
+      </description>
+      <source:markdown>A collection of science fiction stories by Harry Harrison, ordered by date of publication.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748169" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/harry-harrison/short-fiction</guid>
+    </item>    <item>
       <title>Analects, by Confucius</title>
       <link>https://standardebooks.org/ebooks/confucius/analects/james-legge</link>
       <description>
@@ -1294,83 +1303,6 @@
     </item>    <item>
       <title>The Life and Adventures of Maj. Roger Sherman Potter by F. Colburn  Adams</title>
       <link>https://www.gutenberg.org/ebooks/4959</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Three More John Silence Stories by Algernon Blackwood</title>
-      <link>https://www.gutenberg.org/ebooks/10659</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Rambles of an archæologist among old books and in old places : by F. W.  Fairholt</title>
-      <link>https://www.gutenberg.org/ebooks/26449</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Über die letzten Dinge by Otto Weininger</title>
-      <link>https://www.gutenberg.org/ebooks/78808</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Caleb Williams; Or, Things as They Are by William Godwin</title>
-      <link>https://www.gutenberg.org/ebooks/11323</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Henry Thoreau, bachelor of nature by Léon Bazalgette</title>
-      <link>https://www.gutenberg.org/ebooks/78810</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Notebooks of Leonardo Da Vinci — Complete by da Vinci Leonardo</title>
-      <link>https://www.gutenberg.org/ebooks/5000</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tales from the Arabic — Volume 01</title>
-      <link>https://www.gutenberg.org/ebooks/5242</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>El libro de las mil noches y una noche; t. 8 by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/78437</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
-    </item>    <item>
-      <title>More secret remedies : by British Medical Association</title>
-      <link>https://www.gutenberg.org/ebooks/78809</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>War medals of the British Army, and how they were won by Thomas Carter</title>
-      <link>https://www.gutenberg.org/ebooks/78811</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Shadowed by a detective : by Virginia Champlin</title>
-      <link>https://www.gutenberg.org/ebooks/78812</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

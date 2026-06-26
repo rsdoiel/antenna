@@ -4,10 +4,153 @@
   <channel>
     <title>Library and Archives organizations</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>25 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>26 Jun 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Vintage Records Meet Novel Technology: Using Artificial Intelligence to Find New Stories for America’s 250th Birthday</title>
+      <link>https://blogs.loc.gov/thesignal/2026/06/using-artificial-intelligence-to-find-new-stories-for-americas-250th/</link>
+      <description>
+        <![CDATA[This year, libraries and cultural institutions around the nation are celebrating America’s 250th birthday. The 225-year-old Library of Congress is almost as old as the country itself, and this year, we’ve joined forces with the Smithsonian Institution to find new stories about America’s founding in our treasure trove of records and artifacts. 
+        
+        The collaboration, called Revolution Crossroads, is exploring how advanced technologies can surface new connections in history. Staff are working to expand the promise of artificial intelligence (AI) to surface relationships, stories, and context—using some of the nation’s founding digital treasures as a testbed.]]>
+      </description>
+      <source:markdown>This year, libraries and cultural institutions around the nation are celebrating America’s 250th birthday. The 225-year-old Library of Congress is almost as old as the country itself, and this year, we’ve joined forces with the Smithsonian Institution to find new stories about America’s founding in our treasure trove of records and artifacts.
+
+The collaboration, called Revolution Crossroads, is exploring how advanced technologies can surface new connections in history. Staff are working to expand the promise of artificial intelligence (AI) to surface relationships, stories, and context—using some of the nation’s founding digital treasures as a testbed.</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=37615</guid>
+    </item>    <item>
+      <title>Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/</link>
+      <description>
+        <![CDATA[<p>Today, we reprise the talk by outgoing SSP President Rebecca McLeod at last month's SSP Annual Meeting.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/">Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today, we reprise the talk by outgoing SSP President Rebecca McLeod at last month&#39;s SSP Annual Meeting.
+
+The post [Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term](https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62111</guid>
+    </item>    <item>
+      <title>From commitment to connection: 200,000 grants in the scholarly record</title>
+      <link>https://www.crossref.org/blog/from-commitment-to-connection-200000-grants-in-the-scholarly-record/</link>
+      <description>
+        <![CDATA[<p>Funding is one of the key enablers of the research lifecycle, but has been one of the hardest parts of the scholarly record to identify, describe and connect. This is slowly changing as we have recently reached a very exciting milestone for Crossref’s Grant Linking System (GLS). What makes it remarkable is not only the numbers reached, but where the data comes from. Research funders, who joined Crossref as members, have actively contributed more than 200,000 grants to the <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">Research Nexus</a> (Figure 1).</p>
+        <p>Crossref’s GLS was first introduced in 2019, following extensive community consultation with research funders, as a solution to a problem: how to place research funding in the scholarly record as a research entity in its own right, that can be connected with other outputs. Crossref grant DOIs were the first PID that specifically allows for the permanent and unambiguous identification of the support that research funders provide to their grant recipients. It places research funding where it belongs, as a research entity worthy of its own metadata record that can be linked, interpreted, and updated as time goes on. With a funder-designed metadata schema, <a href="https://doi.org/10.64000/h6w1v-r1017" target="_blank">it facilitates the linking of funding to outputs through relationship metadata</a>, building the Research Nexus, and supporting evidence-driven evaluation.</p>
+        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/cumulative-grant-records.png"
+        alt="graph showing the growth of funding metadata deposited since 2019" width="100%">
+        </figure>
+        <p>
+        <p>The active role of funders as owners and stewards of their grants’ description in the metadata, ensuring the records reflect reality, is what makes the resulting links between funding and outputs trustworthy enough to support evidence-driven evaluation, one verifiable data point at a time, as initiatives such as <a href="https://sfdora.org/" target="_blank">DORA</a> and <a href="https://www.coara.org/" target="_blank">CoARA</a> are calling on the research community to do.</p>
+        <p>Reaching 200,000 registered grants with Crossref’s GLS is a milestone that belongs to the entire community. It reflects a strong commitment to open, sustainable and interoperable infrastructure from funders around the world, and a shared conviction that connected metadata makes research more transparent, more accountable and more useful for everyone.</p>
+        <p>It&rsquo;s an opportunity to share perspectives from some of our community members helping make this possible.</p>
+        <h2 id="fonds-de-recherche-du-québec">Fonds de Recherche du Québec</h2>
+        <div class="quotecite">
+        <blockquote>
+        <p><p>When Fonds de Recherche du Québec first began registering funding metadata and assigning Crossref grant DOIs to its funding through Crossref&rsquo;s Grant Linking System, our primary driver was straightforward: traceability. We needed a reliable way to link research outputs back to the funding that made them possible. Crossref grant DOIs provided the missing data point in an interconnected identifier and metadata ecosystem, which includes ROR and ORCID. We hope that Crossref grant DOIs will genuinely improve the researcher experience through interoperability.</p>
+        <p>The journey hasn&rsquo;t been without complexity. Establishing metadata governance required careful collaboration with our legal team to determine what information belongs on landing pages, how to handle updates when grant titles change, and how to protect the integrity of evaluated application data.</p>
+        <p>Our strategy moving forward centres on two pillars: connecting and tracing. Aligned with our <a href="https://frq.gouv.qc.ca/science-ouverte/" target="_blank">Open Science commitments</a> and guided by frameworks like <a href="https://www.coara.org/" target="_blank">CoARA</a> and <a href="https://sfdora.org/" target="_blank">DORA</a>, we want to trace not just publications, but the full spectrum of funded outputs, such as artistic works, exhibitions, patents. We&rsquo;re not fully there yet, and cultural and technical readiness across the community remains a real challenge.</p>
+        <p>Reaching 200,000 registered grants signals that the infrastructure is maturing. For Fonds de Recherche du Québec, it&rsquo;s a motivation to keep contributing to the Research Nexus.</p>
+        </p>
+        </blockquote>
+        <p><cite>&ndash; Antoine Drouin, Analyste en gestion stratégique-Fonds de Recherche du Québec</cite></p>
+        </div>
+        <h2 id="european-commission">European Commission</h2>
+        <div class="quotecite">
+        <blockquote>
+        <p><p>Connecting funding to results at scale is essential for transparent, efficient research. When we began depositing European Commission research grant DOIs with Crossref, we were tackling a practical problem: grant identifiers were used inconsistently across publishers, repositories and reporting tools, making it difficult to trace outputs back to specific EU grants. A persistent, interoperable identifier helps turn fragmented references into durable links.</p>
+        <p>Grant metadata is central to our open science and open access strategy. Open, machine-readable funding information improves transparency about who funds what, and supports automated monitoring of policy requirements by connecting grants to publications and other outputs across the scholarly ecosystem.</p>
+        <p>Registering grant DOIs via the Publications Office of the European Union and depositing them with Crossref is now fully integrated into our internal workflows. We have learned that the DOI is just the starting point: long-term value comes from maintaining high-quality, consistent metadata throughout a grant’s lifecycle and updating it as information evolves.</p>
+        <p>The benefits are clear: improved discoverability of grants, stronger links between funding and outputs, and more robust reporting and analytics. Reaching 200 000 registered grants is a community milestone showing grant identifiers can work at scale and strengthen connections between funding and research results.</p>
+        </p>
+        </blockquote>
+        <p><cite>&ndash; Baya Remaoun, Head of Sector - CORDIS web &amp; data at Publications Office of the European Union</cite></p>
+        </div>
+        <h2 id="wellcome">Wellcome</h2>
+        <div class="quotecite">
+        <blockquote>
+        <p><p>Our motivation to join Crossref’s GLS was to be able to disaggregate research outputs between funders. Funders’ grant identifiers come in a range of formats, funders might change them over time, and there are also similarities between funders’ names, which is a challenge. Permanent identifiers, in this case, Crossref Grant IDs, are an opportunity to avoid some of the confusion if we are able to implement them throughout the research ecosystem.</p>
+        <p>Open Research information is a core part of our open science strategy, it is critical to both our ability to operate as a funder and to the translation of the research we fund into health impacts. That’s why Wellcome is a signatory of the Barcelona Declaration of Open Research Information. Grant metadata is core part of our work, as well as helping us to understand the outputs from the work we’ve funded, it is critical in enabling funders like Wellcome to position our portfolio effectively within the global landscape and enable equitable funding partnerships. In addition to linking grants through Crossref, our recent investment in OpenAlex to openly index grants is aiming to rapidly bolster the global visibility of grant metadata.</p>
+        <p>Internally at Wellcome we’re discussing how we can integrate grant DOIs into other workflows now that we have greater flexibility within our grants management system.</p>
+        <p>Externally we’ve struggled to see adoption of grant DOIs within the wider ecosystem, probably coming from challenges to surface the Crossref grant DOIs to our researchers but also uneven adoption across the ecosystem. Reaching the 200,000 grants registered with Crossref means that there are still huge opportunities to grow and evolve.</p>
+        </p>
+        </blockquote>
+        <p><cite>&ndash; Hannah Hope, Open Research Lead-Wellcome </cite></p>
+        </div>
+        <p>As the <a href="https://doi.org/10.5281/zenodo.20189998" target="_blank">Barcelona Declaration Call to Action on funding metadata</a> makes clear, a rich and interoperable funding metadata landscape is a shared community endeavor. As grant records in Crossref grow, other members of the scholarly community need to ensure that they are included and reported back on their own record, closing the loop on funding reporting and contributing to a richer, more connected Research Nexus.</p>]]>
+      </description>
+      <source:markdown>Funding is one of the key enablers of the research lifecycle, but has been one of the hardest parts of the scholarly record to identify, describe and connect. This is slowly changing as we have recently reached a very exciting milestone for Crossref’s Grant Linking System (GLS). What makes it remarkable is not only the numbers reached, but where the data comes from. Research funders, who joined Crossref as members, have actively contributed more than 200,000 grants to the [Research Nexus](https://www.crossref.org/documentation/research-nexus/) (Figure 1).
+
+Crossref’s GLS was first introduced in 2019, following extensive community consultation with research funders, as a solution to a problem: how to place research funding in the scholarly record as a research entity in its own right, that can be connected with other outputs. Crossref grant DOIs were the first PID that specifically allows for the permanent and unambiguous identification of the support that research funders provide to their grant recipients. It places research funding where it belongs, as a research entity worthy of its own metadata record that can be linked, interpreted, and updated as time goes on. With a funder-designed metadata schema, [it facilitates the linking of funding to outputs through relationship metadata](https://doi.org/10.64000/h6w1v-r1017), building the Research Nexus, and supporting evidence-driven evaluation.
+
+![graph showing the growth of funding metadata deposited since 2019](https://www.crossref.org/images/blog/2026/cumulative-grant-records.png)
+
+The active role of funders as owners and stewards of their grants’ description in the metadata, ensuring the records reflect reality, is what makes the resulting links between funding and outputs trustworthy enough to support evidence-driven evaluation, one verifiable data point at a time, as initiatives such as [DORA](https://sfdora.org/) and [CoARA](https://www.coara.org/) are calling on the research community to do.
+
+Reaching 200,000 registered grants with Crossref’s GLS is a milestone that belongs to the entire community. It reflects a strong commitment to open, sustainable and interoperable infrastructure from funders around the world, and a shared conviction that connected metadata makes research more transparent, more accountable and more useful for everyone.
+
+It’s an opportunity to share perspectives from some of our community members helping make this possible.
+
+## Fonds de Recherche du Québec
+
+&#62; When Fonds de Recherche du Québec first began registering funding metadata and assigning Crossref grant DOIs to its funding through Crossref’s Grant Linking System, our primary driver was straightforward: traceability. We needed a reliable way to link research outputs back to the funding that made them possible. Crossref grant DOIs provided the missing data point in an interconnected identifier and metadata ecosystem, which includes ROR and ORCID. We hope that Crossref grant DOIs will genuinely improve the researcher experience through interoperability.
+&#62;
+&#62; The journey hasn’t been without complexity. Establishing metadata governance required careful collaboration with our legal team to determine what information belongs on landing pages, how to handle updates when grant titles change, and how to protect the integrity of evaluated application data.
+&#62;
+&#62; Our strategy moving forward centres on two pillars: connecting and tracing. Aligned with our [Open Science commitments](https://frq.gouv.qc.ca/science-ouverte/) and guided by frameworks like [CoARA](https://www.coara.org/) and [DORA](https://sfdora.org/), we want to trace not just publications, but the full spectrum of funded outputs, such as artistic works, exhibitions, patents. We’re not fully there yet, and cultural and technical readiness across the community remains a real challenge.
+&#62;
+&#62; Reaching 200,000 registered grants signals that the infrastructure is maturing. For Fonds de Recherche du Québec, it’s a motivation to keep contributing to the Research Nexus.
+
+– Antoine Drouin, Analyste en gestion stratégique-Fonds de Recherche du Québec
+
+## European Commission
+
+&#62; Connecting funding to results at scale is essential for transparent, efficient research. When we began depositing European Commission research grant DOIs with Crossref, we were tackling a practical problem: grant identifiers were used inconsistently across publishers, repositories and reporting tools, making it difficult to trace outputs back to specific EU grants. A persistent, interoperable identifier helps turn fragmented references into durable links.
+&#62;
+&#62; Grant metadata is central to our open science and open access strategy. Open, machine-readable funding information improves transparency about who funds what, and supports automated monitoring of policy requirements by connecting grants to publications and other outputs across the scholarly ecosystem.
+&#62;
+&#62; Registering grant DOIs via the Publications Office of the European Union and depositing them with Crossref is now fully integrated into our internal workflows. We have learned that the DOI is just the starting point: long-term value comes from maintaining high-quality, consistent metadata throughout a grant’s lifecycle and updating it as information evolves.
+&#62;
+&#62; The benefits are clear: improved discoverability of grants, stronger links between funding and outputs, and more robust reporting and analytics. Reaching 200 000 registered grants is a community milestone showing grant identifiers can work at scale and strengthen connections between funding and research results.
+
+– Baya Remaoun, Head of Sector - CORDIS web &#38; data at Publications Office of the European Union
+
+## Wellcome
+
+&#62; Our motivation to join Crossref’s GLS was to be able to disaggregate research outputs between funders. Funders’ grant identifiers come in a range of formats, funders might change them over time, and there are also similarities between funders’ names, which is a challenge. Permanent identifiers, in this case, Crossref Grant IDs, are an opportunity to avoid some of the confusion if we are able to implement them throughout the research ecosystem.
+&#62;
+&#62; Open Research information is a core part of our open science strategy, it is critical to both our ability to operate as a funder and to the translation of the research we fund into health impacts. That’s why Wellcome is a signatory of the Barcelona Declaration of Open Research Information. Grant metadata is core part of our work, as well as helping us to understand the outputs from the work we’ve funded, it is critical in enabling funders like Wellcome to position our portfolio effectively within the global landscape and enable equitable funding partnerships. In addition to linking grants through Crossref, our recent investment in OpenAlex to openly index grants is aiming to rapidly bolster the global visibility of grant metadata.
+&#62;
+&#62; Internally at Wellcome we’re discussing how we can integrate grant DOIs into other workflows now that we have greater flexibility within our grants management system.
+&#62;
+&#62; Externally we’ve struggled to see adoption of grant DOIs within the wider ecosystem, probably coming from challenges to surface the Crossref grant DOIs to our researchers but also uneven adoption across the ecosystem. Reaching the 200,000 grants registered with Crossref means that there are still huge opportunities to grow and evolve.
+
+– Hannah Hope, Open Research Lead-Wellcome
+
+As the [Barcelona Declaration Call to Action on funding metadata](https://doi.org/10.5281/zenodo.20189998) makes clear, a rich and interoperable funding metadata landscape is a shared community endeavor. As grant records in Crossref grow, other members of the scholarly community need to ensure that they are included and reported back on their own record, closing the loop on funding reporting and contributing to a richer, more connected Research Nexus.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/from-commitment-to-connection-200000-grants-in-the-scholarly-record/</guid>
+    </item>    <item>
+      <title>ARL Libraries Celebrate LGBTQ+ Pride Month 2026</title>
+      <link>https://www.arl.org/blog/arl-libraries-celebrate-lgbtq-pride-month-2026/</link>
+      <description>
+        <![CDATA[<p>Last Updated on June 25, 2026, 5:29 pm ET Celebrate LGBTQ+ Pride Month with ARL libraries by browsing the resources below. Boston Public Library Boston Public Library Celebrates LGBTQ+ Pride...</p>
+        <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-lgbtq-pride-month-2026/">ARL Libraries Celebrate LGBTQ+ Pride Month 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on June 25, 2026, 5:29 pm ET Celebrate LGBTQ+ Pride Month with ARL libraries by browsing the resources below. Boston Public Library Boston Public Library Celebrates LGBTQ+ Pride...
+
+The post [ARL Libraries Celebrate LGBTQ+ Pride Month 2026](https://www.arl.org/blog/arl-libraries-celebrate-lgbtq-pride-month-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=49074</guid>
+    </item>    <item>
+      <title>OCLC Releases “America’s 250-Year Bookshelf” Shaped by What Libraries Collect</title>
+      <link>https://www.infodocket.com/2026/06/25/oclc-releases-americas-250-year-bookshelf-shaped-by-what-libraries-collect/</link>
+      <description>
+        <![CDATA[<p>From OCLC: As the United States celebrates its 250th anniversary, OCLC today introduces America&#8217;s 250-Year Bookshelf, a collection of 250 nonfiction books about America—one for every year since 1776—identified through data from WorldCat, the world&#8217;s most comprehensive source of information about library collections. The list reveals which books, from among the vast number written about America over [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/06/25/oclc-releases-americas-250-year-bookshelf-shaped-by-what-libraries-collect/">OCLC Releases &#8220;America&#8217;s 250-Year Bookshelf&#8221; Shaped by What Libraries Collect</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From OCLC: As the United States celebrates its 250th anniversary, OCLC today introduces America’s 250-Year Bookshelf, a collection of 250 nonfiction books about America—one for every year since 1776—identified through data from WorldCat, the world’s most comprehensive source of information about library collections. The list reveals which books, from among the vast number written about America over \[…\]
+
+The post [OCLC Releases “America’s 250-Year Bookshelf” Shaped by What Libraries Collect](https://www.infodocket.com/2026/06/25/oclc-releases-americas-250-year-bookshelf-shaped-by-what-libraries-collect/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168210</guid>
+    </item>    <item>
       <title>“For the Benefit of Humankind:” The Library of Congress and AI for Libraries, Archives and Museums</title>
       <link>https://blogs.loc.gov/thesignal/2026/06/library-of-congress-and-ai4lam/</link>
       <description>
@@ -16,15 +159,15 @@
       <source:markdown>The Library of Congress recently signed on as a founding member of an international organization devoted to exploring the use of artificial intelligence (AI) in cultural heritage and research contexts “for the benefit of humankind.” The eighth meeting of the organization’s flagship annual conference, Fantastic Futures, is scheduled for September 15-17, 2026. The theme of the conference is Fantastic Futures 2026: Trust in the Loop, and the meeting will be co-hosted by the Library, the National Gallery of Art, and the Smithsonian Institution, with support from staff at these organizations and the AI4LAM D.C. Chapter.</source:markdown>
       <guid>cid://https://blogs.loc.gov/thesignal/?p=37603</guid>
     </item>    <item>
-      <title>Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI workshop</title>
+      <title>Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/</link>
       <description>
         <![CDATA[<p>A Cambridge workshop proposes new standard work to support provenance, attribution and metrics in scholarly communications AI tools.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/">Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI workshop</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/">Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
       <source:markdown>A Cambridge workshop proposes new standard work to support provenance, attribution and metrics in scholarly communications AI tools.
 
-The post [Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI workshop](https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+The post [Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop](https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62121</guid>
     </item>    <item>
       <title>Top Hats, Tails, and Timeless Cinema: Celebrating Marlene Dietrich’s “Morocco”</title>
@@ -239,10 +382,10 @@ We look forward to working more closely with service providers to support richer
       <title>ARL Daily Intelligence (June 22–25)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-22-25/</link>
       <description>
-        <![CDATA[<p>Last Updated on June 24, 2026, 4:04 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on June 25, 2026, 3:07 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-22-25/">ARL Daily Intelligence (June 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on June 24, 2026, 4:04 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on June 25, 2026, 3:07 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (June 22–25)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-22-25/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49030</guid>
@@ -753,38 +896,6 @@ The post [New Service Inventory Supports Cost-Recovery Efforts](https://www.arl.
 
 The post [Ask the Chefs: SSP 2026 Annual Meeting](https://scholarlykitchen.sspnet.org/2026/06/05/ask-the-chefs-ssp-2026-annual-meeting/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62033</guid>
-    </item>    <item>
-      <title>UNC-Chapel Hill Launches Statewide Study on Libraries and Generative AI in Local Communities</title>
-      <link>https://www.infodocket.com/2026/06/04/unc-chapel-hill-launches-statewide-study-on-libraries-and-generative-ai-in-local-communities/</link>
-      <description>
-        <![CDATA[<p>From UNC-Chapel Hill: The University of North Carolina at Chapel Hill has launched a new state-wide two-year collaborative planning and pilot study aimed at understanding how North Carolina communities are encountering generative artificial intelligence and how local libraries can support AI literacy in meaningful, locally relevant and sustainable ways. [Clip] The project, “Local Libraries and [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/06/04/unc-chapel-hill-launches-statewide-study-on-libraries-and-generative-ai-in-local-communities/">UNC-Chapel Hill Launches Statewide Study on Libraries and Generative AI in Local Communities</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From UNC-Chapel Hill: The University of North Carolina at Chapel Hill has launched a new state-wide two-year collaborative planning and pilot study aimed at understanding how North Carolina communities are encountering generative artificial intelligence and how local libraries can support AI literacy in meaningful, locally relevant and sustainable ways. \[Clip\] The project, “Local Libraries and \[…\]
-
-The post [UNC-Chapel Hill Launches Statewide Study on Libraries and Generative AI in Local Communities](https://www.infodocket.com/2026/06/04/unc-chapel-hill-launches-statewide-study-on-libraries-and-generative-ai-in-local-communities/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168116</guid>
-    </item>    <item>
-      <title>Rogue Scholar Newsletter May 2026</title>
-      <link>https://blog.front-matter.de/posts/rogue-scholar-newsletter-may-2026/</link>
-      <description>
-        <![CDATA[<p>This is the May 2026 issue of the monthly newsletter from the Rogue Scholar&#xA0;<a href="https://rogue-scholar.org/" rel="noreferrer">science blog archive</a>. The newsletter reports on new blogs that have joined the platform, important technical updates in Rogue Scholar infrastructure, community updates, and other news relevant to Rogue Scholar users.</p><h2 id="blogs-added-to-rogue-scholar">Blogs added to Rogue</h2>]]>
-      </description>
-      <source:markdown>This is the May 2026 issue of the monthly newsletter from the Rogue Scholar [science blog archive](https://rogue-scholar.org/). The newsletter reports on new blogs that have joined the platform, important technical updates in Rogue Scholar infrastructure, community updates, and other news relevant to Rogue Scholar users.
-
-## Blogs added to Rogue</source:markdown>
-      <guid>cid://6a21cbc97733000001eb423b</guid>
-    </item>    <item>
-      <title>The Rise of China’s Scholarly Publishing System Part 2: Navigating China’s Publishing Ambition — Strategic Options for International Publishers</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/04/the-rise-of-chinas-scholarly-publishing-system-part-2-navigating-chinas-publishing-ambition-strategic-options-for-international-publishers/</link>
-      <description>
-        <![CDATA[<p>China's publishing ambitions create genuine competitive pressures, but they also open opportunities for collaboration and highlight challenges that neither side can address alone</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/04/the-rise-of-chinas-scholarly-publishing-system-part-2-navigating-chinas-publishing-ambition-strategic-options-for-international-publishers/">The Rise of China&#8217;s Scholarly Publishing System Part 2: Navigating China&#8217;s Publishing Ambition &#8212; Strategic Options for International Publishers</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>China&#39;s publishing ambitions create genuine competitive pressures, but they also open opportunities for collaboration and highlight challenges that neither side can address alone
-
-The post [The Rise of China’s Scholarly Publishing System Part 2: Navigating China’s Publishing Ambition — Strategic Options for International Publishers](https://scholarlykitchen.sspnet.org/2026/06/04/the-rise-of-chinas-scholarly-publishing-system-part-2-navigating-chinas-publishing-ambition-strategic-options-for-international-publishers/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62029</guid>
     </item>
   </channel>
 </rss>

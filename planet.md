@@ -50,6 +50,7 @@ title: Planet News
 - [CBC, Canada News](https://www.cbc.ca/webfeed/rss/rss-canada)
 - [CBC, Top Stories](https://www.cbc.ca/webfeed/rss/rss-topstories)
 - [CBC, World News](https://www.cbc.ca/webfeed/rss/rss-world)
+- [CBC, Indigenious News](https://www.cbc.ca/webfeed/rss/rss-Indigenous)
 
 # New Zealand
 

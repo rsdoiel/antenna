@@ -8,12 +8,11 @@ title: North America
 - Bloomberg https://feeds.bloomberg.com/news.rss (not sure about this feed)
 - [Federal News Network](https://federalnewsnetwork.com/feed/)
 - Saturday Evening Post, <https://www.saturdayeveningpost.com/feed/>
-- [The American Prospect](https://prospect.org/feed/)
+- The American Prospect <https://prospect.org/feed/>, rarely read it RSD 2026-06-25
 
 
 # Government News Sources
 
-- [CBC, Indigenious News](https://www.cbc.ca/webfeed/rss/rss-Indigenous)
 
 # Non-profit Journalism
 
@@ -47,7 +46,6 @@ title: North America
 - [Institute of Local Self-Reliance](https://ilsr.org/articles/feed/)
 - [Green Coast blog](https://greencoast.org/feed/)
 - [Future of Knowlege podcast)(https://feeds.transistor.fm/futureknowledge)
-- [Christian Science Monitor](https://rss.csmonitor.com/feeds/all)
 
 
 # Government sites/feeds
