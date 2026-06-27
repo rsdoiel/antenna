@@ -4,17 +4,108 @@
   <channel>
     <title>ebooks.md</title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>26 Jun 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>27 Jun 26 06:49 -0700</lastBuildDate>
     <generator>antenna/0.0.24</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Barchester Towers by Anthony Trollope</title>
+      <link>https://www.gutenberg.org/ebooks/3409</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>China : by Harry Alverson Franck</title>
+      <link>https://www.gutenberg.org/ebooks/78953</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Culture&#39;s garland : by Eugene Field</title>
+      <link>https://www.gutenberg.org/ebooks/78956</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Bible: should it be in the school room? : by Franklin Steiner</title>
+      <link>https://www.gutenberg.org/ebooks/78962</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In the American Jungle [1925-1936] by Waldo David Frank</title>
+      <link>https://www.gutenberg.org/ebooks/78957</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Alias Whispering White by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78961</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>For the parson of Paradise by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78960</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Inside information by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78955</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A little help for Hawkins by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78954</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>American root drugs by Alice Henkel</title>
+      <link>https://www.gutenberg.org/ebooks/78958</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Women in the factory : by Adelaide Mary Anderson</title>
+      <link>https://www.gutenberg.org/ebooks/78951</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Flower legends for children by Hilda Murray</title>
+      <link>https://www.gutenberg.org/ebooks/78952</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nederlandsche Insecten by P. Teunissen</title>
+      <link>https://www.gutenberg.org/ebooks/78959</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
       <title>Short Fiction, by Harry Harrison</title>
       <link>https://standardebooks.org/ebooks/harry-harrison/short-fiction</link>
       <description>
         <![CDATA[A collection of science fiction stories by Harry Harrison, ordered by date of publication.]]>
       </description>
       <source:markdown>A collection of science fiction stories by Harry Harrison, ordered by date of publication.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748169" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748187" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/harry-harrison/short-fiction</guid>
     </item>    <item>
       <title>Analects, by Confucius</title>
@@ -1286,27 +1377,6 @@
       <source:markdown>An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</source:markdown>
       <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/interim/downloads/dorothy-m-richardson_interim.epub?source=feed" length="559929" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/dorothy-m-richardson/interim</guid>
-    </item>    <item>
-      <title>Frederick Chopin, as a Man and Musician — Volume 2 by Frederick Niecks</title>
-      <link>https://www.gutenberg.org/ebooks/4972</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Around the World on a Bicycle - Volume I by Thomas Stevens</title>
-      <link>https://www.gutenberg.org/ebooks/5136</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Life and Adventures of Maj. Roger Sherman Potter by F. Colburn  Adams</title>
-      <link>https://www.gutenberg.org/ebooks/4959</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
