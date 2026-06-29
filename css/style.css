@@ -182,6 +182,19 @@ article::after {
     color: #333;
 }
 
+article footer {
+    background-color: var(--color-white);
+    color: var(--color-black);
+}
+
+article footer a, article footer a:link, article footer a:visited {
+    color: var(--color-darkgreen);
+}
+
+article footer a:active, article footer a:focus, article footer a:hover {
+    color: var(--color-maroon);
+    text-decoration: underline;
+}
 
 img.rss-valid {
     display: inline;
