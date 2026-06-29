@@ -2,12 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/libraries.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>Library and Archives organizations</title>
+    <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>27 Jun 26 06:49 -0700</lastBuildDate>
-    <generator>antenna/0.0.24</generator>
+    <lastBuildDate>29 Jun 26 09:08 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Declaration of Independence, America at 250 and Past Centennials</title>
+      <link>https://blog.archive.org/2026/06/29/the-declaration-of-independence-america-at-250-and-past-centennials/</link>
+      <description>
+        <![CDATA[As America celebrates its Semiquincentennial (250th anniversary) this year, explore a curated list of materials preserved at the Internet Archive documenting the nation&#8217;s founding, the Declaration of Independence, past ephemera [&#8230;]]]>
+      </description>
+      <source:markdown>As America celebrates its Semiquincentennial (250th anniversary) this year, explore a curated list of materials preserved at the Internet Archive documenting the nation’s founding, the Declaration of Independence, past ephemera \[…\]</source:markdown>
+      <enclosure url="https://archive.org/details/nonfiction023_librivox/snf023_declarationofindependence_jefferson_bg.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://blog.archive.org/wp-content/uploads/2026/06/106_Sesquicentennial-Exposition-March.mp3" length="8012550" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/1976USSavingsBondsWithJohnWayne/1975UsSavingsBondsWithJohnWayne.mp4" length="0" type="video/mp4" />
+      <enclosure url="https://archive.org/download/New_Spirit_for_76/0337_New_Spirit_for_76_A_14_46_10_00_3mb.mp4" length="0" type="video/mp4" />
+      <guid>cid://https://blog.archive.org/?p=30510</guid>
+      <category>Announcements</category>
+      <category>News</category>
+      <category>250</category>
+      <category>Declaration of Independence</category>
+    </item>    <item>
+      <title>Before the Guardrails: Why AI Governance in Research Must Start with Purpose</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/</link>
+      <description>
+        <![CDATA[<p>The future of scholarly communication will not be determined by how powerful AI becomes, but by whether the research community remains clear about the purpose those capabilities are meant to serve and whether it can govern them together.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/">Before the Guardrails: Why AI Governance in Research Must Start with Purpose</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>The future of scholarly communication will not be determined by how powerful AI becomes, but by whether the research community remains clear about the purpose those capabilities are meant to serve and whether it can govern them together.
+
+The post [Before the Guardrails: Why AI Governance in Research Must Start with Purpose](https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62141</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Authors</category>
+      <category>Infrastructure</category>
+      <category>Innovation</category>
+      <category>Libraries</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>Research Societies</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>AI governance</category>
+      <category>AI policy</category>
+      <category>Artificial intelligence</category>
+      <category>cognitive work</category>
+      <category>governance</category>
+      <category>judgment</category>
+      <category>role of editor</category>
+      <category>shared governance</category>
+    </item>    <item>
+      <title>Preserving the First Draft of History: Reflections from the National Summit on Local News Preservation</title>
+      <link>https://blog.archive.org/2026/06/29/newssummit/</link>
+      <description>
+        <![CDATA[Local news is disappearing. Since 2005, the United States has lost nearly 3,500 newspapers. 213 counties have no local news outlet at all and another 1,524 have just one. Newsrooms [&#8230;]]]>
+      </description>
+      <source:markdown>Local news is disappearing. Since 2005, the United States has lost nearly 3,500 newspapers. 213 counties have no local news outlet at all and another 1,524 have just one. Newsrooms \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30604</guid>
+      <category>Archive-It</category>
+      <category>Event</category>
+      <category>News</category>
+      <category>Past Event</category>
+      <category>Web &#38; Data Services</category>
+      <category>journalism</category>
+      <category>local history</category>
+      <category>local news</category>
+      <category>newspaper</category>
+      <category>web archiving</category>
+    </item>    <item>
       <title>Vintage Records Meet Novel Technology: Using Artificial Intelligence to Find New Stories for America’s 250th Birthday</title>
       <link>https://blogs.loc.gov/thesignal/2026/06/using-artificial-intelligence-to-find-new-stories-for-americas-250th/</link>
       <description>
@@ -19,6 +83,15 @@
 
 The collaboration, called Revolution Crossroads, is exploring how advanced technologies can surface new connections in history. Staff are working to expand the promise of artificial intelligence (AI) to surface relationships, stories, and context—using some of the nation’s founding digital treasures as a testbed.</source:markdown>
       <guid>cid://https://blogs.loc.gov/thesignal/?p=37615</guid>
+      <category>America 250</category>
+      <category>API</category>
+      <category>Artificial Intelligence</category>
+      <category>Digital Content</category>
+      <category>digital humanities</category>
+      <category>Digital Preservation</category>
+      <category>digital scholarship</category>
+      <category>Partners and Collaboration</category>
+      <category>Tools and Infrastructure</category>
     </item>    <item>
       <title>Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/</link>
@@ -30,6 +103,14 @@ The collaboration, called Revolution Crossroads, is exploring how advanced te
 
 The post [Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term](https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62111</guid>
+      <category>Ethics</category>
+      <category>Historical</category>
+      <category>Research</category>
+      <category>Social Role</category>
+      <category>Society for Scholarly Publishing</category>
+      <category>World of Tomorrow</category>
+      <category>2026 SSP Annual Meeting</category>
+      <category>SSP President</category>
     </item>    <item>
       <title>From commitment to connection: 200,000 grants in the scholarly record</title>
       <link>https://www.crossref.org/blog/from-commitment-to-connection-200000-grants-in-the-scholarly-record/</link>
@@ -139,6 +220,7 @@ As the [Barcelona Declaration Call to Action on funding metadata](https://doi.or
 
 The post [ARL Libraries Celebrate LGBTQ+ Pride Month 2026](https://www.arl.org/blog/arl-libraries-celebrate-lgbtq-pride-month-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49074</guid>
+      <category>Blog</category>
     </item>    <item>
       <title>OCLC Releases “America’s 250-Year Bookshelf” Shaped by What Libraries Collect</title>
       <link>https://www.infodocket.com/2026/06/25/oclc-releases-americas-250-year-bookshelf-shaped-by-what-libraries-collect/</link>
@@ -150,6 +232,9 @@ The post [ARL Libraries Celebrate LGBTQ+ Pride Month 2026](https://www.arl.org/b
 
 The post [OCLC Releases “America’s 250-Year Bookshelf” Shaped by What Libraries Collect](https://www.infodocket.com/2026/06/25/oclc-releases-americas-250-year-bookshelf-shaped-by-what-libraries-collect/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168210</guid>
+      <category>Data Files</category>
+      <category>Libraries</category>
+      <category>News</category>
     </item>    <item>
       <title>“For the Benefit of Humankind:” The Library of Congress and AI for Libraries, Archives and Museums</title>
       <link>https://blogs.loc.gov/thesignal/2026/06/library-of-congress-and-ai4lam/</link>
@@ -158,6 +243,9 @@ The post [OCLC Releases “America’s 250-Year Bookshelf” Shaped by What Libr
       </description>
       <source:markdown>The Library of Congress recently signed on as a founding member of an international organization devoted to exploring the use of artificial intelligence (AI) in cultural heritage and research contexts “for the benefit of humankind.” The eighth meeting of the organization’s flagship annual conference, Fantastic Futures, is scheduled for September 15-17, 2026. The theme of the conference is Fantastic Futures 2026: Trust in the Loop, and the meeting will be co-hosted by the Library, the National Gallery of Art, and the Smithsonian Institution, with support from staff at these organizations and the AI4LAM D.C. Chapter.</source:markdown>
       <guid>cid://https://blogs.loc.gov/thesignal/?p=37603</guid>
+      <category>Artificial Intelligence</category>
+      <category>Outreach and Events</category>
+      <category>Partners and Collaboration</category>
     </item>    <item>
       <title>Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/</link>
@@ -169,6 +257,30 @@ The post [OCLC Releases “America’s 250-Year Bookshelf” Shaped by What Libr
 
 The post [Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop](https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62121</guid>
+      <category>Artificial Intelligence</category>
+      <category>Data Publishing</category>
+      <category>Infrastructure</category>
+      <category>Metrics and Analytics</category>
+      <category>Technology</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>Artificial intelligence</category>
+      <category>Artificial intelligence (AI)</category>
+      <category>Assessment</category>
+      <category>Cambridge University Press</category>
+      <category>Citation</category>
+      <category>Counter</category>
+      <category>LLM</category>
+      <category>meeting recap</category>
+      <category>metrics</category>
+      <category>NISO</category>
+      <category>NISO Plus</category>
+      <category>provenance</category>
+      <category>RAG</category>
+      <category>retrieval augmented generation</category>
+      <category>standards</category>
+      <category>usage</category>
+      <category>Workshop</category>
     </item>    <item>
       <title>Top Hats, Tails, and Timeless Cinema: Celebrating Marlene Dietrich’s “Morocco”</title>
       <link>https://blog.archive.org/2026/06/24/top-hats-tails-and-timeless-cinema-celebrating-marlene-dietrichs-morocco/</link>
@@ -177,6 +289,10 @@ The post [Making AI Use of Scholarly Content Traceable, Measurable, and Trustwor
       </description>
       <source:markdown>On June 9, the Internet Archive welcomed film lovers, public domain enthusiasts, and fashionably dressed guests for an evening celebrating one of cinema’s enduring classics: Morocco (1930). Our “Top Hat \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=30596</guid>
+      <category>News</category>
+      <category>film</category>
+      <category>public domain</category>
+      <category>screening</category>
     </item>    <item>
       <title>Three Tips for Requesting a New ROR ID</title>
       <link>https://ror.org/blog/2026-06-24-three-tips-for-requesting-ror-id/</link>
@@ -185,6 +301,7 @@ The post [Making AI Use of Scholarly Content Traceable, Measurable, and Trustwor
       </description>
       <source:markdown>When you&#39;re requesting a new ROR ID for an organization, here are the three most important things to do before you fill out the request form: 1) Search the registry to see whether the organization already has a ROR ID, 2) Make sure the organization is in scope for ROR, and 3) Collect links to research outputs that acknowledge the organization as an author affiliation, funder, or publisher.</source:markdown>
       <guid>cid://https://doi.org/10.71938/k6gv-1b54</guid>
+      <category>Explainers</category>
     </item>    <item>
       <title>Stewarding Open Content in the AI Age: A Facilitation Guide from ARL and Harvard Library</title>
       <link>https://www.arl.org/blog/stewarding-open-content-in-the-ai-age-a-facilitation-guide-from-arl-and-harvard-library/</link>
@@ -196,6 +313,7 @@ The post [Making AI Use of Scholarly Content Traceable, Measurable, and Trustwor
 
 The post [Stewarding Open Content in the AI Age: A Facilitation Guide from ARL and Harvard Library](https://www.arl.org/blog/stewarding-open-content-in-the-ai-age-a-facilitation-guide-from-arl-and-harvard-library/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49057</guid>
+      <category>Blog</category>
     </item>    <item>
       <title>The Geography of Postsecondary Pursuit</title>
       <link>https://sr.ithaka.org/blog/the-geography-of-postsecondary-pursuit/</link>
@@ -207,6 +325,12 @@ The post [Stewarding Open Content in the AI Age: A Facilitation Guide from ARL a
 
 The post [The Geography of Postsecondary Pursuit](https://sr.ithaka.org/blog/the-geography-of-postsecondary-pursuit/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
       <guid>cid://https://sr.ithaka.org/?p=325897</guid>
+      <category>Access to higher education</category>
+      <category>Student outcomes</category>
+      <category>Workforce development</category>
+      <category>Enrollment</category>
+      <category>Rural students</category>
+      <category>Student success</category>
     </item>    <item>
       <title>What Changes When an LLM agent Searches Your Library Catalogue?</title>
       <link>https://aarontay.substack.com/p/what-changes-when-an-llm-agent-searches</link>
@@ -227,6 +351,12 @@ The post [The Geography of Postsecondary Pursuit](https://sr.ithaka.org/blog/the
 
 The post [Frenemies: A Tale of Scholarly Publishing Marketing](https://scholarlykitchen.sspnet.org/2026/06/24/frenemies-a-tale-of-scholarly-publishing-marketing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62113</guid>
+      <category>Advertising</category>
+      <category>Careers</category>
+      <category>Marketing</category>
+      <category>Organizational Management</category>
+      <category>Research</category>
+      <category>Society for Scholarly Publishing</category>
     </item>    <item>
       <title>The Royal Society: Historic Weather Data Made Available to Scientists and Public, Spanning Antarctica to Greenland</title>
       <link>https://www.infodocket.com/2026/06/23/royal-society-historic-weather-data-made-available-to-scientists-and-public-spanning-antarctica-to-greenland/</link>
@@ -238,6 +368,9 @@ The post [Frenemies: A Tale of Scholarly Publishing Marketing](https://scholarly
 
 The post [The Royal Society: Historic Weather Data Made Available to Scientists and Public, Spanning Antarctica to Greenland](https://www.infodocket.com/2026/06/23/royal-society-historic-weather-data-made-available-to-scientists-and-public-spanning-antarctica-to-greenland/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168201</guid>
+      <category>Data Files</category>
+      <category>Management and Leadership</category>
+      <category>News</category>
     </item>    <item>
       <title>Roots System: Introducing the Pollinators of DWebCamp 2026</title>
       <link>https://blog.archive.org/2026/06/23/dweb-pollinators-2026/</link>
@@ -246,6 +379,12 @@ The post [The Royal Society: Historic Weather Data Made Available to Scientists 
       </description>
       <source:markdown>by Marie Kochsiek Decentralized technologies have the potential to create a better web: one that upholds people’s privacy, security, and self-determination. Yet, for many communities, the current web has failed to \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=30565</guid>
+      <category>News</category>
+      <category>DWeb</category>
+      <category>DWeb Camp</category>
+      <category>DWeb Camp 2026</category>
+      <category>DWeb Fellows</category>
+      <category>DWebCamp</category>
     </item>    <item>
       <title>We have updated our privacy policy</title>
       <link>https://investinopen.org/blog/we-have-updated-our-privacy-policy-2026/</link>
@@ -254,6 +393,7 @@ The post [The Royal Society: Historic Weather Data Made Available to Scientists 
       </description>
       <source:markdown>Please read the current privacy policy and note your rights under it.</source:markdown>
       <guid>cid://6a3a8663a1c1c600016376ed</guid>
+      <category>Blog</category>
     </item>    <item>
       <title>Guest Post — Legitimate but Not Loved: What Academic Librarians Think About AI</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/23/guest-post-legitimate-but-not-loved-what-academic-librarians-think-about-ai/</link>
@@ -265,6 +405,11 @@ The post [The Royal Society: Historic Weather Data Made Available to Scientists 
 
 The post [Guest Post — Legitimate but Not Loved: What Academic Librarians Think About AI](https://scholarlykitchen.sspnet.org/2026/06/23/guest-post-legitimate-but-not-loved-what-academic-librarians-think-about-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62024</guid>
+      <category>Artificial Intelligence</category>
+      <category>Innovation</category>
+      <category>Libraries</category>
+      <category>Marketing</category>
+      <category>Research</category>
     </item>    <item>
       <title>New Crossref Service Providers Program ready for applications</title>
       <link>https://www.crossref.org/blog/new-crossref-service-providers-program-ready-for-applications/</link>
@@ -389,6 +534,7 @@ We look forward to working more closely with service providers to support richer
 
 The post [ARL Daily Intelligence (June 22–25)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-22-25/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49030</guid>
+      <category>ARL Daily Intelligence</category>
     </item>    <item>
       <title>Government Information Belongs to Everyone: Democracy’s Library in 2026</title>
       <link>https://blog.archive.org/2026/06/22/government-information-belongs-to-everyone-democracys-library-in-2026/</link>
@@ -397,6 +543,8 @@ The post [ARL Daily Intelligence (June 22–25)](https://www.arl.org/daily-intel
       </description>
       <source:markdown>Governments produce an abundance of information and put that information in the public domain, but often the public can’t easily find or access it. The Internet Archive’s Democracy’s Library project \[…\]</source:markdown>
       <guid>cid://https://blog.archive.org/?p=30583</guid>
+      <category>Announcements</category>
+      <category>democracys library</category>
     </item>    <item>
       <title>A Platform Comes Apart: Part 1</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/</link>
@@ -408,6 +556,13 @@ The post [ARL Daily Intelligence (June 22–25)](https://www.arl.org/daily-intel
 
 The post [A Platform Comes Apart: Part 1](https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62116</guid>
+      <category>Artificial Intelligence</category>
+      <category>Infrastructure</category>
+      <category>Innovation</category>
+      <category>Research</category>
+      <category>Technology</category>
+      <category>World of Tomorrow</category>
+      <category>hosting platforms</category>
     </item>    <item>
       <title>A Look at the “Story of Crossref’s Metadata Development”</title>
       <link>https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/</link>
@@ -419,6 +574,7 @@ The post [A Platform Comes Apart: Part 1](https://scholarlykitchen.sspnet.org/20
 
 The post [A Look at the “Story of Crossref’s Metadata Development”](https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168194</guid>
+      <category>News</category>
     </item>    <item>
       <title>Standards: Say Hello to the Agentic Resource Discovery (ARD) Specification</title>
       <link>https://www.infodocket.com/2026/06/19/standards-say-hello-to-the-agentic-resource-discovery-ard-specification/</link>
@@ -430,6 +586,9 @@ The post [A Look at the “Story of Crossref’s Metadata Development”](https:
 
 The post [Standards: Say Hello to the Agentic Resource Discovery (ARD) Specification](https://www.infodocket.com/2026/06/19/standards-say-hello-to-the-agentic-resource-discovery-ard-specification/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168187</guid>
+      <category>News</category>
+      <category>Patrons and Users</category>
+      <category>Publishing</category>
     </item>    <item>
       <title>ARL Observes Juneteenth 2026</title>
       <link>https://www.arl.org/blog/arl-observes-juneteenth-2026/</link>
@@ -441,6 +600,7 @@ The post [Standards: Say Hello to the Agentic Resource Discovery (ARD) Specifica
 
 The post [ARL Observes Juneteenth 2026](https://www.arl.org/blog/arl-observes-juneteenth-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49013</guid>
+      <category>Blog</category>
     </item>    <item>
       <title>Ask the Fellows: SSP’s 2026 Annual Meeting</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/</link>
@@ -452,6 +612,12 @@ The post [ARL Observes Juneteenth 2026](https://www.arl.org/blog/arl-observes-ju
 
 The post [Ask the Fellows: SSP’s 2026 Annual Meeting](https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62073</guid>
+      <category>Artificial Intelligence</category>
+      <category>Careers</category>
+      <category>Society for Scholarly Publishing</category>
+      <category>2026 SSP Annual Meeting</category>
+      <category>Ask the fellows</category>
+      <category>SSP Fellowship Program</category>
     </item>    <item>
       <title>Building Better Connections: The Story of Crossref&#39;s Metadata Development</title>
       <link>https://www.crossref.org/blog/building-better-connections-the-story-of-crossrefs-metadata-development/</link>
@@ -516,6 +682,35 @@ Each of these updates contributes to Crossref’s research nexus vision: strengt
 
 The post [Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences](https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62101</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Controversial Topics</category>
+      <category>Copyright</category>
+      <category>Infrastructure</category>
+      <category>Metrics and Analytics</category>
+      <category>Research</category>
+      <category>Research Integrity</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>AI and ethics</category>
+      <category>AI content strategy</category>
+      <category>Artificial intelligence</category>
+      <category>Artificial intelligence (AI)</category>
+      <category>attribution</category>
+      <category>chain of citation</category>
+      <category>Citation</category>
+      <category>Content provenance</category>
+      <category>Counter</category>
+      <category>Generative AI</category>
+      <category>history of publishing</category>
+      <category>Isaac Newton</category>
+      <category>NISO</category>
+      <category>reference</category>
+      <category>Reference Management</category>
+      <category>Trustworthy AI</category>
+      <category>usage statistics</category>
     </item>    <item>
       <title>Report: “Dozens Object to Rule Requiring Arkansas Libraries To Restrict ‘Sexually Explicit’ Materials”</title>
       <link>https://www.infodocket.com/2026/06/16/report-dozens-object-to-rule-requiring-arkansas-libraries-to-restrict-sexually-explicit-materials/</link>
@@ -527,6 +722,11 @@ The post [Attribution, Provenance, Reference, Citation, and AI for Research Appl
 
 The post [Report: “Dozens Object to Rule Requiring Arkansas Libraries To Restrict ‘Sexually Explicit’ Materials”](https://www.infodocket.com/2026/06/16/report-dozens-object-to-rule-requiring-arkansas-libraries-to-restrict-sexually-explicit-materials/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168175</guid>
+      <category>Funding</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Patrons and Users</category>
+      <category>Public Libraries</category>
     </item>    <item>
       <title>The Library and Institutional Success</title>
       <link>https://sr.ithaka.org/blog/the-library-and-institutional-success/</link>
@@ -538,6 +738,11 @@ The post [Report: “Dozens Object to Rule Requiring Arkansas Libraries To Restr
 
 The post [The Library and Institutional Success](https://sr.ithaka.org/blog/the-library-and-institutional-success/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
       <guid>cid://https://sr.ithaka.org/?p=325876</guid>
+      <category>Libraries</category>
+      <category>Chronicle of Higher Education</category>
+      <category>Library directors</category>
+      <category>Library leadership</category>
+      <category>Professional development</category>
     </item>    <item>
       <title>Academic Freedom for the Win; Open Access Mandate in Germany Declared Unconstitutional</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/16/academic-freedom-for-the-win-open-access-mandate-in-germany-declared-unconstitutional/</link>
@@ -549,6 +754,25 @@ The post [The Library and Institutional Success](https://sr.ithaka.org/blog/the-
 
 The post [Academic Freedom for the Win; Open Access Mandate in Germany Declared Unconstitutional](https://scholarlykitchen.sspnet.org/2026/06/16/academic-freedom-for-the-win-open-access-mandate-in-germany-declared-unconstitutional/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62065</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Business Models</category>
+      <category>Controversial Topics</category>
+      <category>Copyright</category>
+      <category>Open Access</category>
+      <category>Open Science</category>
+      <category>Research</category>
+      <category>Author Accepted Manuscript</category>
+      <category>author rights</category>
+      <category>Law</category>
+      <category>legal</category>
+      <category>open science</category>
+      <category>Policy</category>
+      <category>Regulation</category>
+      <category>requirements</category>
+      <category>Rights Retention Strategy</category>
+      <category>RRS</category>
+      <category>SPR</category>
     </item>    <item>
       <title>ARL Daily Intelligence (June 15–18)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/</link>
@@ -560,6 +784,7 @@ The post [Academic Freedom for the Win; Open Access Mandate in Germany Declared 
 
 The post [ARL Daily Intelligence (June 15–18)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-15-18/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48979</guid>
+      <category>ARL Daily Intelligence</category>
     </item>    <item>
       <title>Hot take: Learning from Google Scholar and why a tool does not need to be flawless to be useful</title>
       <link>https://aarontay.substack.com/p/learning-from-google-scholar-and</link>
@@ -577,6 +802,11 @@ The post [ARL Daily Intelligence (June 15–18)](https://www.arl.org/daily-intel
       </description>
       <source:markdown>This post was authored by Vincent Coltellino from the Library of Congress. Vincent leads the Library’s synthetic DNA data storage initiative, which investigates the feasibility of synthetic DNA as a high-density, scalable, and durable medium for storing the Library’s digital collections. During his first year at the Library, he established a contract with the University of Washington designed to critically analyze the processes required to implement DNA data storage technology on the Library’s digital collections. This partnership has yielded critical lessons that have been relayed to the greater DNA data storage community and a novel contribution to America’s Time Capsule in celebration of the 250th anniversary of the signing of the Declaration of Independence.</source:markdown>
       <guid>cid://https://blogs.loc.gov/thesignal/?p=37561</guid>
+      <category>America 250</category>
+      <category>Digital Content</category>
+      <category>Digital Preservation</category>
+      <category>Inside the Library</category>
+      <category>Partners and Collaboration</category>
     </item>    <item>
       <title>Rogue Scholar launched author profiles this week</title>
       <link>https://blog.front-matter.de/posts/rogue-scholar-launched-author-profiles-this-week/</link>
@@ -587,6 +817,7 @@ The post [ARL Daily Intelligence (June 15–18)](https://www.arl.org/daily-intel
 
 The functionality depends on an ORCID assigned to the blog</source:markdown>
       <guid>cid://6a2fd0b28f507e000154b42a</guid>
+      <category>Rogue Scholar</category>
     </item>    <item>
       <title>Guest Post — The US Government’s New Guidance for Federal Grants and The Case for Scholarly Societies</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/15/guest-post-the-us-governments-new-guidance-for-federal-grants-and-the-case-for-scholarly-societies/</link>
@@ -598,6 +829,24 @@ The functionality depends on an ORCID assigned to the blog</source:markdown>
 
 The post [Guest Post — The US Government’s New Guidance for Federal Grants and The Case for Scholarly Societies](https://scholarlykitchen.sspnet.org/2026/06/15/guest-post-the-us-governments-new-guidance-for-federal-grants-and-the-case-for-scholarly-societies/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62092</guid>
+      <category>Business Models</category>
+      <category>Controversial Topics</category>
+      <category>Economics</category>
+      <category>Historical</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>Research Societies</category>
+      <category>APCs</category>
+      <category>federal funding</category>
+      <category>publishing costs</category>
+      <category>research funding</category>
+      <category>research societies</category>
+      <category>research society meetings</category>
+      <category>science funding</category>
+      <category>Trump</category>
+      <category>US Government Policy</category>
+      <category>US Office of Management and Budget</category>
+      <category>US OMB</category>
     </item>    <item>
       <title>Welcoming Ithaka S+R’s 2026 Summer Interns</title>
       <link>https://sr.ithaka.org/blog/welcoming-ithaka-srs-2026-summer-interns/</link>
@@ -609,6 +858,13 @@ The post [Guest Post — The US Government’s New Guidance for Federal Grants a
 
 The post [Welcoming Ithaka S+R’s 2026 Summer Interns](https://sr.ithaka.org/blog/welcoming-ithaka-srs-2026-summer-interns/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
       <guid>cid://https://sr.ithaka.org/?p=325851</guid>
+      <category>Access to higher education</category>
+      <category>Research practices</category>
+      <category>Student outcomes</category>
+      <category>American Talent Initiative</category>
+      <category>Internships</category>
+      <category>Research enterprise</category>
+      <category>Rural students</category>
     </item>    <item>
       <title>After Rhode Island Victory, Connecticut Libraries Call on More States to Address Predatory E-Book Pricing (Statement by the Connecticut Library Consortium)</title>
       <link>https://www.infodocket.com/2026/06/12/statement-after-rhode-island-victory-connecticut-libraries-call-on-more-states-to-address-predatory-e-book-pricing/</link>
@@ -620,6 +876,11 @@ The post [Welcoming Ithaka S+R’s 2026 Summer Interns](https://sr.ithaka.org/bl
 
 The post [After Rhode Island Victory, Connecticut Libraries Call on More States to Address Predatory E-Book Pricing (Statement by the Connecticut Library Consortium)](https://www.infodocket.com/2026/06/12/statement-after-rhode-island-victory-connecticut-libraries-call-on-more-states-to-address-predatory-e-book-pricing/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168150</guid>
+      <category>Companies (Publishers/Vendors)</category>
+      <category>Funding</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Publishing</category>
     </item>    <item>
       <title>Ask the Community: Takeaways from SSP 2026</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/12/ask-the-community-takeaways-from-ssp-2026/</link>
@@ -631,6 +892,10 @@ The post [After Rhode Island Victory, Connecticut Libraries Call on More States 
 
 The post [Ask the Community: Takeaways from SSP 2026](https://scholarlykitchen.sspnet.org/2026/06/12/ask-the-community-takeaways-from-ssp-2026/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62058</guid>
+      <category>Artificial Intelligence</category>
+      <category>Society for Scholarly Publishing</category>
+      <category>2026 SSP Annual Meeting</category>
+      <category>Ask the Community</category>
     </item>    <item>
       <title>AI Literacy: Join the Latest Cohort</title>
       <link>https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/</link>
@@ -642,6 +907,11 @@ The post [Ask the Community: Takeaways from SSP 2026](https://scholarlykitchen.s
 
 The post [AI Literacy: Join the Latest Cohort](https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
       <guid>cid://https://sr.ithaka.org/?p=325854</guid>
+      <category>Generative AI</category>
+      <category>Teaching and learning</category>
+      <category>Academic libraries</category>
+      <category>AI literacy</category>
+      <category>Cohort project</category>
     </item>    <item>
       <title>Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/</link>
@@ -653,6 +923,18 @@ The post [AI Literacy: Join the Latest Cohort](https://sr.ithaka.org/blog/ai-lit
 
 The post [Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score](https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62056</guid>
+      <category>Discovery</category>
+      <category>Experimentation</category>
+      <category>Infrastructure</category>
+      <category>Metrics and Analytics</category>
+      <category>Preservation</category>
+      <category>Research</category>
+      <category>Technology</category>
+      <category>AI</category>
+      <category>Artificial intelligence</category>
+      <category>infrastructure</category>
+      <category>metadata</category>
+      <category>metadata quality</category>
     </item>    <item>
       <title>Three Perspectives on the AAC&#38;U Conference on Learning and Student Success</title>
       <link>https://sr.ithaka.org/blog/three-perspectives-on-the-aacu-conference-on-learning-and-student-success/</link>
@@ -664,6 +946,12 @@ The post [Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with
 
 The post [Three Perspectives on the AAC&#38;U Conference on Learning and Student Success](https://sr.ithaka.org/blog/three-perspectives-on-the-aacu-conference-on-learning-and-student-success/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
       <guid>cid://https://sr.ithaka.org/?p=325856</guid>
+      <category>Student outcomes</category>
+      <category>Teaching and learning</category>
+      <category>AI literacy</category>
+      <category>Generative AI</category>
+      <category>Instructional support</category>
+      <category>Student success</category>
     </item>    <item>
       <title>More Perfect and Urban Libraries Council (ULC) Select Eight Public Libraries Selected for Local News Partnership Project</title>
       <link>https://www.infodocket.com/2026/06/10/more-perfect-and-urban-libraries-council-ulc-select-eight-public-libraries-selected-for-local-news-partnership-project/</link>
@@ -675,6 +963,10 @@ The post [Three Perspectives on the AAC&#38;U Conference on Learning and Student
 
 The post [More Perfect and Urban Libraries Council (ULC) Select Eight Public Libraries Selected for Local News Partnership Project](https://www.infodocket.com/2026/06/10/more-perfect-and-urban-libraries-council-ulc-select-eight-public-libraries-selected-for-local-news-partnership-project/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168147</guid>
+      <category>Associations and Organizations</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Public Libraries</category>
     </item>    <item>
       <title>What is Juneteenth?</title>
       <link>https://library.csun.edu/blogs/cited/2026/06/10/what-is-juneteenth/</link>
@@ -685,6 +977,10 @@ The post [More Perfect and Urban Libraries Council (ULC) Select Eight Public Lib
 
 What is Juneteenth? Mary Elliott, the Curator of American Slavery, from the Smithsonian National Museum of African American History and Culture explains: “Juneteenth is a…</source:markdown>
       <guid>cid://https://library.csun.edu/blogs/cited/?p=7633</guid>
+      <category>Collections</category>
+      <category>display</category>
+      <category>outreach</category>
+      <category>summer</category>
     </item>    <item>
       <title>The World in an Archive: Preserving the Websites of Geographers, Cartographers, and Map Enthusiasts</title>
       <link>https://blogs.loc.gov/thesignal/2026/06/the-world-in-an-archive/</link>
@@ -693,6 +989,8 @@ What is Juneteenth? Mary Elliott, the Curator of American Slavery, from the Smit
       </description>
       <source:markdown>The Geographic and Cartographic Professional Societies and Organizations Web Archive preserves the websites of groups shaping our understanding of the world. In this interview, Carissa Pastuch discusses how the collection was built, what it includes and why preserving born-digital content is increasingly important for documenting the field of geography and cartography.</source:markdown>
       <guid>cid://https://blogs.loc.gov/thesignal/?p=37513</guid>
+      <category>Interviews</category>
+      <category>Web Archiving</category>
     </item>    <item>
       <title>Building Scholar-Ready AI: A Conversation with Todd Toler</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/</link>
@@ -704,6 +1002,24 @@ What is Juneteenth? Mary Elliott, the Curator of American Slavery, from the Smit
 
 The post [Building Scholar-Ready AI: A Conversation with Todd Toler](https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62036</guid>
+      <category>Artificial Intelligence</category>
+      <category>Business Models</category>
+      <category>Discovery</category>
+      <category>Experimentation</category>
+      <category>Infrastructure</category>
+      <category>Innovation</category>
+      <category>Libraries</category>
+      <category>Research</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>artificial intellgence</category>
+      <category>discovery</category>
+      <category>infrastructure</category>
+      <category>Ithaka S+R</category>
+      <category>RAG</category>
+      <category>Search</category>
     </item>    <item>
       <title>Understanding the CORE Dashboard: Managing Repository Content with the Content Tab</title>
       <link>https://blog.core.ac.uk/2026/06/10/understanding-the-core-dashboard-managing-repository-content-with-the-content-tab/</link>
@@ -712,6 +1028,10 @@ The post [Building Scholar-Ready AI: A Conversation with Todd Toler](https://sch
       </description>
       <source:markdown>The Content tab is the central location for managing the information CORE holds about your repository. It provides repository managers with a complete view of the outputs indexed by CORE and offers tools for reviewing content, checking availability, managing visibility, and responding to content removal requests. In this installment of the CORE Dashboard Educational Series, … [Continue reading Understanding the CORE Dashboard: Managing Repository Content with the Content Tab](https://blog.core.ac.uk/2026/06/10/understanding-the-core-dashboard-managing-repository-content-with-the-content-tab/)</source:markdown>
       <guid>cid://https://blog.core.ac.uk/?p=2025</guid>
+      <category>Uncategorised</category>
+      <category>Content Tab</category>
+      <category>dashboard</category>
+      <category>Dashboard Educational Series</category>
     </item>    <item>
       <title>Ithaka S+R Introduces a New LibGuide: Understanding the Environmental Impacts of Artificial Intelligence (New Research Resource)</title>
       <link>https://www.infodocket.com/2026/06/09/ithaka-sr-introduces-a-new-libguide-understanding-the-environmental-impacts-of-artificial-intelligence-new-research-resource/</link>
@@ -723,6 +1043,14 @@ The post [Building Scholar-Ready AI: A Conversation with Todd Toler](https://sch
 
 The post [Ithaka S+R Introduces a New LibGuide: Understanding the Environmental Impacts of Artificial Intelligence (New Research Resource)](https://www.infodocket.com/2026/06/09/ithaka-sr-introduces-a-new-libguide-understanding-the-environmental-impacts-of-artificial-intelligence-new-research-resource/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168142</guid>
+      <category>Academic Libraries</category>
+      <category>Data Files</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Patrons and Users</category>
+      <category>Podcasts</category>
+      <category>Publishing</category>
+      <category>Reports</category>
     </item>    <item>
       <title>Understanding the Environmental Impacts of Artificial Intelligence</title>
       <link>https://sr.ithaka.org/blog/understanding-the-environmental-impacts-of-artificial-intelligence/</link>
@@ -734,6 +1062,10 @@ The post [Ithaka S+R Introduces a New LibGuide: Understanding the Environmental 
 
 The post [Understanding the Environmental Impacts of Artificial Intelligence](https://sr.ithaka.org/blog/understanding-the-environmental-impacts-of-artificial-intelligence/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
       <guid>cid://https://sr.ithaka.org/?p=325833</guid>
+      <category>Generative AI</category>
+      <category>Libraries</category>
+      <category>Academic libraries</category>
+      <category>AI literacy</category>
     </item>    <item>
       <title>Guest Post — Trust &#38; Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/09/guest-post-trust-community-are-the-moat-infrastructure-is-your-leverage-dispatches-from-purepub-ai/</link>
@@ -745,6 +1077,10 @@ The post [Understanding the Environmental Impacts of Artificial Intelligence](ht
 
 The post [Guest Post — Trust &#38; Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI](https://scholarlykitchen.sspnet.org/2026/06/09/guest-post-trust-community-are-the-moat-infrastructure-is-your-leverage-dispatches-from-purepub-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62044</guid>
+      <category>Artificial Intelligence</category>
+      <category>Infrastructure</category>
+      <category>Peer Review</category>
+      <category>Research</category>
     </item>    <item>
       <title>Report: House Votes to Take Over Librarian of Congress Appointment Power</title>
       <link>https://www.infodocket.com/2026/06/08/report-house-votes-to-take-over-librarian-of-congress-appointment-power/</link>
@@ -756,6 +1092,9 @@ The post [Guest Post — Trust &#38; Community Are the Moat, Infrastructure is Y
 
 The post [Report: House Votes to Take Over Librarian of Congress Appointment Power](https://www.infodocket.com/2026/06/08/report-house-votes-to-take-over-librarian-of-congress-appointment-power/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168128</guid>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Publishing</category>
     </item>    <item>
       <title>ARL Daily Intelligence (June 8–11)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-8-11/</link>
@@ -767,6 +1106,7 @@ The post [Report: House Votes to Take Over Librarian of Congress Appointment Pow
 
 The post [ARL Daily Intelligence (June 8–11)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-june-8-11/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=48934</guid>
+      <category>ARL Daily Intelligence</category>
     </item>    <item>
       <title>2026 Designing Storage Architectures for Digital Collections</title>
       <link>https://blogs.loc.gov/thesignal/2026/06/2026-designing-storage-architectures/</link>
@@ -775,6 +1115,12 @@ The post [ARL Daily Intelligence (June 8–11)](https://www.arl.org/daily-intell
       </description>
       <source:markdown>This post by Vincent Coltellino from the Library of Congress describes the 2026 Designing Storage Architectures for Digital Collections (DSA) meeting. The event is a venue for broad discussions of digital storage advancements, challenges, and solutions. On March 9-10, 2026, the Library hosted its 20th iteration of this collaborative (and now international) meeting.</source:markdown>
       <guid>cid://https://blogs.loc.gov/thesignal/?p=37557</guid>
+      <category>Digital Content</category>
+      <category>Digital Preservation</category>
+      <category>Guest Posts</category>
+      <category>Inside the Library</category>
+      <category>Outreach and Events</category>
+      <category>Partners and Collaboration</category>
     </item>    <item>
       <title>Why I Joined Ithaka S+R</title>
       <link>https://sr.ithaka.org/blog/why-i-joined-ithaka-sr/</link>
@@ -786,6 +1132,9 @@ The post [ARL Daily Intelligence (June 8–11)](https://www.arl.org/daily-intell
 
 The post [Why I Joined Ithaka S+R](https://sr.ithaka.org/blog/why-i-joined-ithaka-sr/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
       <guid>cid://https://sr.ithaka.org/?p=325823</guid>
+      <category>Scholarly communication</category>
+      <category>Academic publishing</category>
+      <category>Generative AI</category>
     </item>    <item>
       <title>Guest Post — Advancing Federated Identity in the Library Ecosystem</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/08/guest-post-advancing-federated-identity-in-the-library-ecosystem/</link>
@@ -797,6 +1146,21 @@ The post [Why I Joined Ithaka S+R](https://sr.ithaka.org/blog/why-i-joined-ithak
 
 The post [Guest Post — Advancing Federated Identity in the Library Ecosystem](https://scholarlykitchen.sspnet.org/2026/06/08/guest-post-advancing-federated-identity-in-the-library-ecosystem/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62038</guid>
+      <category>Discovery</category>
+      <category>Infrastructure</category>
+      <category>Language</category>
+      <category>Research</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>User Experience</category>
+      <category>EBSCO</category>
+      <category>iam services</category>
+      <category>identity and access</category>
+      <category>identity federations</category>
+      <category>identity management</category>
+      <category>research and education identity federation community</category>
+      <category>SeamlessAccess</category>
+      <category>single sign on (SSO)</category>
     </item>    <item>
       <title>What a year of testing &#38; thinking about AI academic search taught me</title>
       <link>https://aarontay.substack.com/p/what-a-year-of-testing-and-thinking</link>
@@ -844,17 +1208,6 @@ As Crossref adoption has skyrocketed, enabling DOIs for a vast range of research
 
 We’d love to hear your thoughts about high-volume, high-granularity DOIs. What’s your use case? What would it unlock for your community? Want to be involved in the design process? This collaboration with Crossref is just one piece of where we’re headed. If you’re curious about what we’re up to, or have something you’d like to share with us, [get in touch](mailto:help@pubpub.org). We’d love to tell you what we’re working on and hear what excites you too.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/collaboration-with-knowledge-futures-to-build-support-for-high-volume-doi-registration/</guid>
-    </item>    <item>
-      <title>Journal Article: “From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI Into a Strategic Learning Resource”</title>
-      <link>https://www.infodocket.com/2026/06/06/journal-article-from-ai-anxiety-to-strategic-regulation-how-university-students-transform-generative-ai-into-a-strategic-learning-resource/</link>
-      <description>
-        <![CDATA[<p>The article linked below was published by Computers and Education: Artificial Intelligence. Title From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI Into a Strategic Learning Resource Authors Eunjeo Kim Graduate School of Education, Dankook University, Republic of Korea Source Computers and Education: Artificial Intelligence DOI: 10.1016/j.caeai.2026.100622 Abstract This study examined how university [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/06/06/journal-article-from-ai-anxiety-to-strategic-regulation-how-university-students-transform-generative-ai-into-a-strategic-learning-resource/">Journal Article: &#8220;From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI Into a Strategic Learning Resource&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>The article linked below was published by Computers and Education: Artificial Intelligence. Title From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI Into a Strategic Learning Resource Authors Eunjeo Kim Graduate School of Education, Dankook University, Republic of Korea Source Computers and Education: Artificial Intelligence DOI: 10.1016/j.caeai.2026.100622 Abstract This study examined how university \[…\]
-
-The post [Journal Article: “From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI Into a Strategic Learning Resource”](https://www.infodocket.com/2026/06/06/journal-article-from-ai-anxiety-to-strategic-regulation-how-university-students-transform-generative-ai-into-a-strategic-learning-resource/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168124</guid>
     </item>
   </channel>
 </rss>

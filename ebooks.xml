@@ -2,12 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/ebooks.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>ebooks.md</title>
+    <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>27 Jun 26 06:49 -0700</lastBuildDate>
-    <generator>antenna/0.0.24</generator>
+    <lastBuildDate>29 Jun 26 09:08 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Book of Khalid, by Ameen Rihani</title>
+      <link>https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid</link>
+      <description>
+        <![CDATA[A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.]]>
+      </description>
+      <source:markdown>A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid/downloads/ameen-rihani_the-book-of-khalid.epub?source=feed" length="573734" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid</guid>
+      <category>Fiction</category>
+      <category>Satire</category>
+    </item>    <item>
       <title>Barchester Towers by Anthony Trollope</title>
       <link>https://www.gutenberg.org/ebooks/3409</link>
       <description>
@@ -105,8 +116,10 @@
         <![CDATA[A collection of science fiction stories by Harry Harrison, ordered by date of publication.]]>
       </description>
       <source:markdown>A collection of science fiction stories by Harry Harrison, ordered by date of publication.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748187" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748215" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/harry-harrison/short-fiction</guid>
+      <category>Science Fiction</category>
+      <category>Shorts</category>
     </item>    <item>
       <title>Analects, by Confucius</title>
       <link>https://standardebooks.org/ebooks/confucius/analects/james-legge</link>
@@ -114,8 +127,9 @@
         <![CDATA[The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.]]>
       </description>
       <source:markdown>The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/confucius/analects/james-legge/downloads/confucius_analects_james-legge.epub?source=feed" length="451400" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/confucius/analects/james-legge/downloads/confucius_analects_james-legge.epub?source=feed" length="451470" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/confucius/analects/james-legge</guid>
+      <category>Philosophy</category>
     </item>    <item>
       <title>Under Dewey at Manila : by Edward Stratemeyer</title>
       <link>https://www.gutenberg.org/ebooks/78934</link>
@@ -179,8 +193,11 @@
         <![CDATA[A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.]]>
       </description>
       <source:markdown>A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/ring-lardner-george-s-kaufman_june-moon.epub?source=feed" length="372943" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/ring-lardner-george-s-kaufman_june-moon.epub?source=feed" length="372991" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon</guid>
+      <category>Comedy</category>
+      <category>Drama</category>
+      <category>Satire</category>
     </item>    <item>
       <title>Poems by Emily Dickinson, Three Series, Complete by Emily Dickinson</title>
       <link>https://www.gutenberg.org/ebooks/12242</link>
@@ -314,8 +331,9 @@
         <![CDATA[A philosopher reports on the state of the proletariat in Victorian England.]]>
       </description>
       <source:markdown>A philosopher reports on the state of the proletariat in Victorian England.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky/downloads/friedrich-engels_the-condition-of-the-working-class-in-england_florence-kelley-wischnewetzky.epub?source=feed" length="577381" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky/downloads/friedrich-engels_the-condition-of-the-working-class-in-england_florence-kelley-wischnewetzky.epub?source=feed" length="577434" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky</guid>
+      <category>Nonfiction</category>
     </item>    <item>
       <title>The waltz of the dogs : by Leonid Andreyev</title>
       <link>https://www.gutenberg.org/ebooks/78902</link>
@@ -491,8 +509,9 @@
         <![CDATA[As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.]]>
       </description>
       <source:markdown>As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/willa-cather/the-professors-house/downloads/willa-cather_the-professors-house.epub?source=feed" length="674654" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/willa-cather/the-professors-house/downloads/willa-cather_the-professors-house.epub?source=feed" length="674709" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/willa-cather/the-professors-house</guid>
+      <category>Fiction</category>
     </item>    <item>
       <title>Dangerous Connections, v. 1, 2, 3, 4 by Choderlos de Laclos</title>
       <link>https://www.gutenberg.org/ebooks/45512</link>
@@ -612,8 +631,12 @@
         <![CDATA[A police detective attempts to live the American dream in the Chicago suburbs.]]>
       </description>
       <source:markdown>A police detective attempts to live the American dream in the Chicago suburbs.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/ring-lardner_fred-gross-stories.epub?source=feed" length="583033" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/ring-lardner_fred-gross-stories.epub?source=feed" length="583069" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories</guid>
+      <category>Comedy</category>
+      <category>Fiction</category>
+      <category>Satire</category>
+      <category>Shorts</category>
     </item>    <item>
       <title>The Time Machine by H. G.  Wells</title>
       <link>https://www.gutenberg.org/ebooks/35</link>
@@ -1013,8 +1036,11 @@
         <![CDATA[A young married couple take over running an “International Detective Agency.”]]>
       </description>
       <source:markdown>A young married couple take over running an “International Detective Agency.”</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/agatha-christie_partners-in-crime.epub?source=feed" length="471269" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/agatha-christie_partners-in-crime.epub?source=feed" length="471321" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/agatha-christie/partners-in-crime</guid>
+      <category>Fiction</category>
+      <category>Mystery</category>
+      <category>Shorts</category>
     </item>    <item>
       <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
       <link>https://www.gutenberg.org/ebooks/1067</link>
@@ -1092,8 +1118,9 @@
         <![CDATA[A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.]]>
       </description>
       <source:markdown>A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/george-eliot/romola/downloads/george-eliot_romola.epub?source=feed" length="986689" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/george-eliot/romola/downloads/george-eliot_romola.epub?source=feed" length="986731" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/george-eliot/romola</guid>
+      <category>Fiction</category>
     </item>    <item>
       <title>Metamorphosis by Franz Kafka</title>
       <link>https://www.gutenberg.org/ebooks/5200</link>
@@ -1150,8 +1177,11 @@
         <![CDATA[A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.]]>
       </description>
       <source:markdown>A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/robert-hugh-benson_the-necromancers.epub?source=feed" length="565490" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/robert-hugh-benson_the-necromancers.epub?source=feed" length="565545" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers</guid>
+      <category>Fiction</category>
+      <category>Horror</category>
+      <category>Spirituality</category>
     </item>    <item>
       <title>Captains Courageous, by Rudyard Kipling</title>
       <link>https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous</link>
@@ -1159,8 +1189,9 @@
         <![CDATA[A spoiled teenager falls overboard an ocean liner and is rescued by a fishing schooner, where the crew forces him to work.]]>
       </description>
       <source:markdown>A spoiled teenager falls overboard an ocean liner and is rescued by a fishing schooner, where the crew forces him to work.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous/downloads/rudyard-kipling_captains-courageous.epub?source=feed" length="515925" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous/downloads/rudyard-kipling_captains-courageous.epub?source=feed" length="515980" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous</guid>
+      <category>Fiction</category>
     </item>    <item>
       <title>Queen of the jesters, and her strange adventures in old Paris by Max Pemberton</title>
       <link>https://www.gutenberg.org/ebooks/78828</link>
@@ -1189,8 +1220,10 @@
         <![CDATA[An evangelical preacher shares his theological framework.]]>
       </description>
       <source:markdown>An evangelical preacher shares his theological framework.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/d-l-moody_the-way-to-god-and-how-to-find-it.epub?source=feed" length="621308" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/d-l-moody_the-way-to-god-and-how-to-find-it.epub?source=feed" length="621334" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it</guid>
+      <category>Nonfiction</category>
+      <category>Spirituality</category>
     </item>    <item>
       <title>Peace in the wilderness by Marion Zimmer Bradley</title>
       <link>https://www.gutenberg.org/ebooks/78807</link>
@@ -1268,115 +1301,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hay Fever, by Noël Coward</title>
-      <link>https://standardebooks.org/ebooks/noel-coward/hay-fever</link>
-      <description>
-        <![CDATA[A well-to-do family cannot be civil to each other in front of their weekend guests.]]>
-      </description>
-      <source:markdown>A well-to-do family cannot be civil to each other in front of their weekend guests.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/noel-coward/hay-fever/downloads/noel-coward_hay-fever.epub?source=feed" length="436349" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/noel-coward/hay-fever</guid>
-    </item>    <item>
-      <title>Phantastes: A Faerie Romance for Men and Women by George MacDonald</title>
-      <link>https://www.gutenberg.org/ebooks/325</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Louisa May Alcott, the children&#39;s friend by Edna D. Cheney</title>
-      <link>https://www.gutenberg.org/ebooks/78818</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lord Lister No. 0051: De veertig dieven by Theo von Blankensee and Kurt Matull</title>
-      <link>https://www.gutenberg.org/ebooks/78819</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Lord Lister No. 0348: De variété-ster by Theo von Blankensee and Felix  Hageman and Kurt Matull</title>
-      <link>https://www.gutenberg.org/ebooks/78820</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Medical ethics : by Thomas Percival</title>
-      <link>https://www.gutenberg.org/ebooks/78821</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Black ivory by Polan Banks</title>
-      <link>https://www.gutenberg.org/ebooks/78822</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Wheel O&#39; Fortune by Louis Tracy</title>
-      <link>https://www.gutenberg.org/ebooks/8596</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Women in Love by D. H.  Lawrence</title>
-      <link>https://www.gutenberg.org/ebooks/4240</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Kilima-Njaro expedition : by Harry Johnston</title>
-      <link>https://www.gutenberg.org/ebooks/78816</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Absenteeism by Lady  Morgan</title>
-      <link>https://www.gutenberg.org/ebooks/78814</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kruunun-perämies : by Larin-Kyösti</title>
-      <link>https://www.gutenberg.org/ebooks/78817</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Doctor and patient : by Francis Weld Peabody</title>
-      <link>https://www.gutenberg.org/ebooks/78813</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Maidean i mBéarra agus dánta eile by Osborn Bergin</title>
-      <link>https://www.gutenberg.org/ebooks/78815</link>
-      <description>
-        <![CDATA[Language: Irish]]>
-      </description>
-      <source:markdown>Language: Irish</source:markdown>
-    </item>    <item>
-      <title>Interim, by Dorothy M. Richardson</title>
-      <link>https://standardebooks.org/ebooks/dorothy-m-richardson/interim</link>
-      <description>
-        <![CDATA[An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.]]>
-      </description>
-      <source:markdown>An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/interim/downloads/dorothy-m-richardson_interim.epub?source=feed" length="559929" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/dorothy-m-richardson/interim</guid>
     </item>
   </channel>
 </rss>

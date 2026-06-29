@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>27 Jun 26 06:45 -0700</dateCreated>
+        <dateCreated>29 Jun 26 09:04 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -57,7 +57,7 @@
         <outline text="Caservation Law Foundation blog" type="rss" xmlUrl="https://www.clf.org/feed/" htmlUrl="https://www.clf.org/,https://www.clf.org/feed/" url="https://www.clf.org/feed/"></outline>
         <outline text="Cgegroot (Lisp) blog" type="rss" xmlUrl="https://cdegroot.com/feed.xml" htmlUrl="http://cdegroot.com/,http://cdegroot.com/feed.xml" description="Mostly technical musings by Cees de Groot. Expect Elixir, Agile, devops, and whatnot." url="http://cdegroot.com/feed.xml"></outline>
         <outline text="Chaos Computer Club News" type="atom" xmlUrl="https://media.ccc.de/news.atom" htmlUrl="https://media.ccc.de/news.atom" url="https://media.ccc.de/news.atom"></outline>
-        <outline text="Chaos Computer Club Updates" type="atom" xmlUrl="https://www.ccc.de/de/rss/updates.xml" htmlUrl="https://www.ccc.de/,https://www.ccc.de/rss/updates" url="https://www.ccc.de/rss/updates"></outline>
+        <outline text="Chaos Computer Club Updates" type="atom" xmlUrl="https://www.ccc.de/de/rss/updates.xml" htmlUrl="https://www.ccc.de/,https://www.ccc.de/rss/updates.xml" url="https://www.ccc.de/rss/updates.xml"></outline>
         <outline text="Charlie Hardie blog" type="rss" xmlUrl="https://tech.chrishardie.com/feed/" htmlUrl="https://tech.chrishardie.com/,https://tech.chrishardie.com/feed/" description="WordPress and Laravel tips, code examples, hardware and software reviews, APIs and integrations, and more" url="https://tech.chrishardie.com/feed/"></outline>
         <outline text="Chris Heilmann&#39;s blog" type="rss" xmlUrl="https://christianheilmann.com/feed/" htmlUrl="https://christianheilmann.com,https://christianheilmann.com/feed/" description="For a better web with more professional jobs - can talk, will travel" url="https://christianheilmann.com/feed/"></outline>
         <outline text="Citation Needed News" type="rss" xmlUrl="https://www.citationneeded.news/rss/" htmlUrl="https://www.citationneeded.news/,https://www.citationneeded.news/rss/" description="A critical look at the cryptocurrency industry and the broader technology world." url="https://www.citationneeded.news/rss/"></outline>

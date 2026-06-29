@@ -2,15 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/socal_north.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>SoCal North</title>
-    <description>
-      News and posts related to the greater North Los Angeles and adjacent counties.
-    </description>
+    <title><![CDATA[SoCal North]]></title>
+    <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>27 Jun 26 06:30 -0700</lastBuildDate>
-    <generator>antenna/0.0.24</generator>
+    <lastBuildDate>29 Jun 26 08:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best things to do this week in LA and SoCal: June 29-July 2</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-june-29-july-2</link>
+      <description>
+        <![CDATA[Hospital of Emotions, Tank and the Bangas at Skirball, Mamma Mia hits the Ahmanson and a free fiber arts gathering.]]>
+      </description>
+      <source:markdown>Hospital of Emotions, Tank and the Bangas at Skirball, Mamma Mia hits the Ahmanson and a free fiber arts gathering.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-0ede-d27c-a19f-1fff3b870000</guid>
+    </item>    <item>
+      <title>Notario fraud is a longstanding problem in immigrant communities. Advocates say it’s getting worse</title>
+      <link>https://laist.com/news/politics/notario-fraud-in-immigrant-communities-advocates-say-its-getting-worse</link>
+      <description>
+        <![CDATA[To combat the unauthorized practice of immigration law, advocates are calling for legislative action.]]>
+      </description>
+      <source:markdown>To combat the unauthorized practice of immigration law, advocates are calling for legislative action.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-0623-d2d4-a1ff-eee7c0050000</guid>
+    </item>    <item>
+      <title>Get ready for Plastic Free July — the eco-challenge you&#39;ve probably never heard of</title>
+      <link>https://laist.com/news/climate-environment/plastic-free-july-eco-challenge-details</link>
+      <description>
+        <![CDATA[Some environmental movements, like Earth Day, have been around for decades. But have you ever heard of Plastic Free July?]]>
+      </description>
+      <source:markdown>Some environmental movements, like Earth Day, have been around for decades. But have you ever heard of Plastic Free July?</source:markdown>
+      <guid>cid://urn:uuid:0000019f-012b-d8b9-a5df-35fb39a80000</guid>
+    </item>    <item>
+      <title>You are not alone in navigating student debt changes. Here is what you can do</title>
+      <link>https://laist.com/news/education/navigating-student-debt-changes-trump-administration-what-to-do</link>
+      <description>
+        <![CDATA[Some borrowers could see higher monthly payments from new federal rules. Others will have caps on how much they can borrow. And loan forgiveness options are limited.]]>
+      </description>
+      <source:markdown>Some borrowers could see higher monthly payments from new federal rules. Others will have caps on how much they can borrow. And loan forgiveness options are limited.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-0638-d4a7-abbf-b7fc241a0000</guid>
+    </item>    <item>
+      <title>For the first time in a decade, an LAUSD insider holds the top job</title>
+      <link>https://laist.com/news/education/lausd-superintendent-andres-chait-budget-strategic-plan-immigrant-students</link>
+      <description>
+        <![CDATA[Andrés Chait is the first LAUSD insider to fill the top job in a decade after two high-profile external candidates.]]>
+      </description>
+      <source:markdown>Andrés Chait is the first LAUSD insider to fill the top job in a decade after two high-profile external candidates.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-060e-d4a7-abbf-b7fe0a9a0000</guid>
+    </item>    <item>
+      <title>On to the knockout round: 4 takeaways from the FIFA World Cup so far</title>
+      <link>https://laist.com/news/los-angeles-activities/on-to-the-knockout-round-4-takeaways-from-the-fifa-world-cup-so-far</link>
+      <description>
+        <![CDATA[The anxieties before the World Cup were many. But with the knockout round set to begin Sunday, it's fair to say: The North American World Cup has been a thrill.]]>
+      </description>
+      <source:markdown>The anxieties before the World Cup were many. But with the knockout round set to begin Sunday, it&#39;s fair to say: The North American World Cup has been a thrill.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-0eba-d137-adff-aefecc240000</guid>
+    </item>    <item>
+      <title>Metro service updates for Canada vs South Africa on Sunday, June 28</title>
+      <link>https://thesource.metro.net/metro-service-updates-for-canada-vs-south-africa-on-sunday-june-28/</link>
+      <description>
+        <![CDATA[<figure><img width="1000" height="1200" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?fit=1000%2C1200&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?resize=333%2C400&amp;ssl=1 333w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?resize=1000%2C1200&amp;ssl=1 1000w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?resize=768%2C921&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?resize=1280%2C1536&amp;ssl=1 1280w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?resize=1200%2C1440&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?resize=1568%2C1881&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?resize=400%2C480&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?fit=1000%2C1200&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>4:30 p.m. And that&#8217;s a wrap on today. If you&#8217;re attending the next game here &#8212; the Spain-Austria knockout match on Thursday &#8212; service will be the same as today. Because it&#8217;s a weekday when traffic will be heavier in the L.A. area, we encourage riders to head to the stadium early. Service will begin [&#8230;]]]>
+      </description>
+      <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/World-Cup-service-map.jpg?fit=1000%2C1200&#38;ssl=1)4:30 p.m. And that’s a wrap on today. If you’re attending the next game here — the Spain-Austria knockout match on Thursday — service will be the same as today. Because it’s a weekday when traffic will be heavier in the L.A. area, we encourage riders to head to the stadium early. Service will begin \[…\]</source:markdown>
+      <guid>cid://https://thesource.metro.net/?p=146929</guid>
+      <category>People</category>
+    </item>    <item>
+      <title>How San Pedro’s Sunken City fell into the ocean — and why you might be able to visit the remnants</title>
+      <link>https://laist.com/news/la-history/san-pedro-sunken-city-reopen-landslide-point-fermin</link>
+      <description>
+        <![CDATA[The ruins, which have become an illicit tourist destination, may reopen soon.]]>
+      </description>
+      <source:markdown>The ruins, which have become an illicit tourist destination, may reopen soon.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-0541-d4a7-abbf-b7f559360000</guid>
+    </item>    <item>
+      <title>GKN Aerospace cleanup in Garden Grove begins Monday — here&#39;s what to expect</title>
+      <link>https://laist.com/news/climate-environment/gkn-aerospace-cleanup-in-garden-grove-begins-monday-heres-what-to-expect</link>
+      <description>
+        <![CDATA[Cleanup was postponed from earlier this month.]]>
+      </description>
+      <source:markdown>Cleanup was postponed from earlier this month.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-0aa3-d1db-a3df-8aab22050000</guid>
+    </item>    <item>
+      <title>The Soundtrack of Summer Returns to Central Park</title>
+      <link>https://santaclarita.gov/blog/2026/06/27/the-soundtrack-of-summer-returns-to-central-park/</link>
+      <description>
+        <![CDATA[<p>By City Manager Ken Striplin For 36 years, Santa Clarita’s Concerts in the Park series, presented by Logix Federal Credit Union, has been a defining part of summer in our community. What began as an opportunity to enjoy live music outdoors has grown into one of Santa Clarita’s most beloved traditions, transforming our cherished Central [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/06/27/the-soundtrack-of-summer-returns-to-central-park/">The Soundtrack of Summer Returns to Central Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>By City Manager Ken Striplin For 36 years, Santa Clarita’s Concerts in the Park series, presented by Logix Federal Credit Union, has been a defining part of summer in our community. What began as an opportunity to enjoy live music outdoors has grown into one of Santa Clarita’s most beloved traditions, transforming our cherished Central \[…\]
+
+The post [The Soundtrack of Summer Returns to Central Park](https://santaclarita.gov/blog/2026/06/27/the-soundtrack-of-summer-returns-to-central-park/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=8408</guid>
+      <category>From the City Manager</category>
+    </item>    <item>
+      <title>Long Beach confirms first human case of West Nile in California</title>
+      <link>https://laist.com/news/health/long-beach-confirms-first-human-case-of-west-nile-in-california</link>
+      <description>
+        <![CDATA[The person was hospitalized and is currently recovering at home.]]>
+      </description>
+      <source:markdown>The person was hospitalized and is currently recovering at home.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-0997-d5e0-afbf-1fff3ba70000</guid>
+    </item>    <item>
       <title>Inside the Koreatown night spot that became a Street Fighter boot camp</title>
       <link>https://laist.com/news/los-angeles-activities/inside-the-koreatown-night-spot-that-became-a-street-fighter-boot-camp</link>
       <description>
@@ -62,6 +153,7 @@
 ![Two people stand and hold a flag on a stage](https://media.defense.gov/2026/Jun/26/2003954984/300/300/0/260626-X-DW038-1046.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/26/2003954988/700/700/0/260626-X-DW038-1011.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4528388/30th-logistics-readiness-squadron-change-of-command/</guid>
+      <category>News</category>
     </item>    <item>
       <title>CHOC to extend trans youth care for 6 months. Where does that leave families?</title>
       <link>https://laist.com/news/health/choc-to-extend-trans-youth-care-again</link>
@@ -92,6 +184,9 @@ LOS ANGELES (CNS) – With jurors again insisting they were hopelessly deadlocke
 
 The post [Deadlocked Jury Leads to Mistrial in Case of Palisades Fire Arson Suspect](https://sanfernandosun.com/2026/06/26/deadlocked-jury-leads-to-mistrial-in-case-of-palisades-fire-arson-suspect/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177487</guid>
+      <category>News</category>
+      <category>news/local</category>
+      <category>b stories</category>
     </item>    <item>
       <title>LA County Sends Rescue Team from Pacoima to Venezuela Following Major Quakes</title>
       <link>https://sanfernandosun.com/2026/06/26/la-county-sends-rescue-team-from-pacoima-to-venezuela-following-major-quakes/</link>
@@ -106,6 +201,8 @@ LOS ANGELES (CNS) – Departing Thursday evening from their facility in Pacoima,
 
 The post [LA County Sends Rescue Team from Pacoima to Venezuela Following Major Quakes](https://sanfernandosun.com/2026/06/26/la-county-sends-rescue-team-from-pacoima-to-venezuela-following-major-quakes/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177484</guid>
+      <category>News</category>
+      <category>news/local</category>
     </item>    <item>
       <title>How to get free soil testing after the warehouse fire in Boyle Heights</title>
       <link>https://laist.com/news/climate-environment/how-to-get-free-soil-testing-after-the-warehouse-fire-in-boyle-heights</link>
@@ -125,6 +222,13 @@ The post [LA County Sends Rescue Team from Pacoima to Venezuela Following Major 
 
 The post [A New Spot Doing All-Day Sonoran Hot Dogs With a Mob of Tacos](https://lataco.com/sonoran-dogos-tacos-la) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180708</guid>
+      <category>Food</category>
+      <category>Taco Members Only</category>
+      <category>Tacos</category>
+      <category>Canada</category>
+      <category>hot dogs</category>
+      <category>jitlada</category>
+      <category>Sonoran</category>
     </item>    <item>
       <title>Inglewood’s video billboards score a major win in court battle with stadiums</title>
       <link>https://laist.com/news/politics/inglewoods-video-billboards-score-a-major-win-in-court-battle-with-stadiums</link>
@@ -208,6 +312,10 @@ The post [A New Spot Doing All-Day Sonoran Hot Dogs With a Mob of Tacos](https:/
 
 The post [Who Will Pay For The Boyle Heights Warehouse Fire?](https://lataco.com/boyle-heights-warehouse-fire) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180703</guid>
+      <category>Los Angeles</category>
+      <category>News</category>
+      <category>Politics</category>
+      <category>Taco Members Only</category>
     </item>    <item>
       <title>2nd Space Launch Squadron Change of Command</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4527227/2nd-space-launch-squadron-change-of-command/</link>
@@ -220,6 +328,7 @@ The post [Who Will Pay For The Boyle Heights Warehouse Fire?](https://lataco.com
 ![Four people stand and two of the people hold a flag](https://media.defense.gov/2026/Jun/25/2003954331/300/300/0/260625-X-DW038-1040.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/25/2003954337/700/700/0/260625-X-DW038-1008.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4527227/2nd-space-launch-squadron-change-of-command/</guid>
+      <category>News</category>
     </item>    <item>
       <title>Local advocates respond to Supreme Court ruling on refugees: ‘How do you prepare to say goodbye?’</title>
       <link>https://laist.com/news/politics/local-response-scotus-ruling-temporary-protective-status</link>
@@ -266,6 +375,7 @@ Fans celebrate during the FIFA World Cup 2026 watch party at the Downtown San Fe
 
 The post [Mexico Watch Party Brings Sea of Green to Downtown San Fernando Mall](https://sanfernandosun.com/2026/06/25/mexico-watch-party-brings-sea-of-green-to-downtown-san-fernando-mall/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177449</guid>
+      <category>Photo Galleries</category>
     </item>    <item>
       <title>How Societies Can Succeed in the AI Era</title>
       <link>https://www.rand.org/pubs/podcasts/policy-minded/2026/how-societies-can-succeed-in-the-ai-era.html</link>
@@ -294,6 +404,7 @@ The post [Mexico Watch Party Brings Sea of Green to Downtown San Fernando Mall](
 
 The post [“Animal Kingdom” at the Newhall Community Center](https://santaclarita.gov/blog/2026/06/25/animal-kingdom-at-the-newhall-community-center/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8440</guid>
+      <category>Press Release</category>
     </item>    <item>
       <title>Supreme Court bars &#39;vampire rules&#39; on gun ownership</title>
       <link>https://laist.com/news/supreme-court-bars-vampire-rules-on-gun-ownership</link>
@@ -313,6 +424,8 @@ The post [“Animal Kingdom” at the Newhall Community Center](https://santacla
 
 The post [Connecting Community Through SCV Transit System](https://santaclarita.gov/blog/2026/06/25/connecting-community-through-scv-transit-system/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8406</guid>
+      <category>City Council</category>
+      <category>Marsha McLean</category>
     </item>    <item>
       <title>LA County drug overdose deaths declined for third straight year in 2025, mirroring national trend</title>
       <link>https://laist.com/news/health/la-county-drug-overdose-deaths-declined-third-straight-year-2025</link>
@@ -359,6 +472,9 @@ La temporada de verano ya comenzó oficialmente y, conforme el calor empieza a i
 
 The post [¡Caliente, Divertido y con Sabor a Verano!](https://sanfernandosun.com/2026/06/24/caliente-divertido-y-con-sabor-a-verano/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177431</guid>
+      <category>El Sol</category>
+      <category>El Sol Local</category>
+      <category>el-sol-featured</category>
     </item>    <item>
       <title>Escapen del Calor con Lecturas de Verano, Eventos y Programas de Aprendizaje en Bibliotecas Locales</title>
       <link>https://sanfernandosun.com/2026/06/24/escapen-del-calor-con-lecturas-de-verano-eventos-y-programas-de-aprendizaje-en-bibliotecas-locales/</link>
@@ -373,6 +489,8 @@ Este verano, las bibliotecas locales ofrecen múltiples actividades para todas l
 
 The post [Escapen del Calor con Lecturas de Verano, Eventos y Programas de Aprendizaje en Bibliotecas Locales](https://sanfernandosun.com/2026/06/24/escapen-del-calor-con-lecturas-de-verano-eventos-y-programas-de-aprendizaje-en-bibliotecas-locales/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177428</guid>
+      <category>El Sol</category>
+      <category>El Sol Local</category>
     </item>    <item>
       <title>Lalo García Se Compromete con el Mundial… ¡y Goooooal!</title>
       <link>https://sanfernandosun.com/2026/06/24/lalo-garcia-se-compromete-con-el-mundial-y-goooooal/</link>
@@ -387,6 +505,9 @@ Lalo García, un aficionado del fútbol de toda la vida que ha apreciado el depo
 
 The post [Lalo García Se Compromete con el Mundial… ¡y Goooooal!](https://sanfernandosun.com/2026/06/24/lalo-garcia-se-compromete-con-el-mundial-y-goooooal/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177425</guid>
+      <category>El Sol</category>
+      <category>El Sol Local</category>
+      <category>b stories el sol</category>
     </item>    <item>
       <title>Horóscopo</title>
       <link>https://sanfernandosun.com/2026/06/24/horoscopo-272/</link>
@@ -398,6 +519,9 @@ The post [Lalo García Se Compromete con el Mundial… ¡y Goooooal!](https://sa
 
 The post [Horóscopo](https://sanfernandosun.com/2026/06/24/horoscopo-272/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177423</guid>
+      <category>El Sol</category>
+      <category>El Sol Local</category>
+      <category>no-byline</category>
     </item>    <item>
       <title>EVENTOS Locales – Semana de 25 de junio, 2026</title>
       <link>https://sanfernandosun.com/2026/06/24/eventos-locales-semana-de-25-de-junio-2026/</link>
@@ -409,6 +533,9 @@ The post [Horóscopo](https://sanfernandosun.com/2026/06/24/horoscopo-272/) appe
 
 The post [EVENTOS Locales – Semana de 25 de junio, 2026](https://sanfernandosun.com/2026/06/24/eventos-locales-semana-de-25-de-junio-2026/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177421</guid>
+      <category>El Sol</category>
+      <category>El Sol Local</category>
+      <category>no-byline</category>
     </item>    <item>
       <title>Whiteman Airport</title>
       <link>https://sanfernandosun.com/2026/06/24/whiteman-airport-9/</link>
@@ -420,6 +547,9 @@ The post [EVENTOS Locales – Semana de 25 de junio, 2026](https://sanfernandosu
 
 The post [Whiteman Airport](https://sanfernandosun.com/2026/06/24/whiteman-airport-9/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177419</guid>
+      <category>El Sol</category>
+      <category>El Sol Local</category>
+      <category>no-byline</category>
     </item>    <item>
       <title>Funcionarios de Bomberos y de la Policía Emiten Advertencia por Fuegos Artificiales Ilegales</title>
       <link>https://sanfernandosun.com/2026/06/24/funcionarios-de-bomberos-y-de-la-policia-emiten-advertencia-por-fuegos-artificiales-ilegales/</link>
@@ -434,6 +564,9 @@ LOS ANGELES (CNS) – El fiscal del condado de Los Ángeles, Nathan Hochman, ins
 
 The post [Funcionarios de Bomberos y de la Policía Emiten Advertencia por Fuegos Artificiales Ilegales](https://sanfernandosun.com/2026/06/24/funcionarios-de-bomberos-y-de-la-policia-emiten-advertencia-por-fuegos-artificiales-ilegales/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=177416</guid>
+      <category>El Sol</category>
+      <category>El Sol Local</category>
+      <category>no-byline</category>
     </item>    <item>
       <title>LAUSD Nombra a Andrés E. Chait como Nuevo Superintendente; Muchos Padres Siguen Decepcionados con la Renuncia de Carvalho</title>
       <link>https://sanfernandosun.com/2026/06/24/lausd-nombra-a-andres-e-chait-como-nuevo-superintendente-muchos-padres-siguen-decepcionados-con-la-renuncia-de-carvalho/</link>
@@ -508,6 +641,13 @@ The post [Cómo Mantenerse Fresco Bajo el Intenso Calor del Verano](https://sanf
 
 The post [This New Lynwood Studio Is a Sober Living Sanctuary with Coffee, Tattoos, and Streetwear](https://lataco.com/high-channel-divison-lynwood) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180662</guid>
+      <category>Drink</category>
+      <category>Food</category>
+      <category>Los Angeles</category>
+      <category>Lynwood</category>
+      <category>Neighborhoods</category>
+      <category>Shops</category>
+      <category>Matcha</category>
     </item>    <item>
       <title>Is Tiny&#39;s, a burger stand in South Coast Plaza, kicking off a new era in mall food?</title>
       <link>https://laist.com/news/food/is-tinys-a-burger-stand-in-south-coast-plaza-kicking-off-a-new-era-in-mall-food</link>
@@ -535,6 +675,7 @@ The post [This New Lynwood Studio Is a Sober Living Sanctuary with Coffee, Tatto
 
 The post [Santa Clarita Transit Offers Easy Connections to FIFA World Cup 2026 Events](https://santaclarita.gov/blog/2026/06/24/santa-clarita-transit-offers-easy-connections-to-fifa-world-cup-2026-events/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8437</guid>
+      <category>Press Release</category>
     </item>    <item>
       <title>Trump renews push to shift homelessness funding. What’s at stake</title>
       <link>https://laist.com/news/housing-homelessness/trump-renews-push-to-shift-homelessness-funding</link>
@@ -562,6 +703,10 @@ The post [Santa Clarita Transit Offers Easy Connections to FIFA World Cup 2026 E
 
 The post [This South Central Native Reveals Black L.A.’s Best Hidden Gems through Food Tours](https://lataco.com/black-la-food-tours) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180630</guid>
+      <category>Food</category>
+      <category>Los Angeles</category>
+      <category>People</category>
+      <category>Black L.A. Food Tours</category>
     </item>    <item>
       <title>WATCH: Rep. Whitesides Leads Moment of Silence for Victims of Edwards Air Force Base Crash</title>
       <link>https://whitesides.house.gov/2026/06/24/watch-rep-whitesides-leads-moment-of-silence-for-victims-of-edwards-air-force-base-crash/</link>
@@ -570,6 +715,7 @@ The post [This South Central Native Reveals Black L.A.’s Best Hidden Gems thro
       </description>
       <source:markdown>WASHINGTON, D.C. – Today, Rep. George Whitesides (D-Santa Clarita) led the House of Representatives in a moment of silence with Rep. Vince Fong (R-Bakersfield) to pay tribute to the eight men who lost their lives in a tragic crash at Edwards Air Force Base on June 15th.  The eight individuals who lost their lives in the crash were: View the \[…\]</source:markdown>
       <guid>cid://https://whitesides-admin.c3pot.house.gov/?p=17232</guid>
+      <category>Press Releases</category>
     </item>    <item>
       <title>UPDATE: Day Seven of the Lineage Fire: Residents Say They Feel ‘Used’</title>
       <link>https://lataco.com/lineage-fire-update</link>
@@ -581,6 +727,7 @@ The post [This South Central Native Reveals Black L.A.’s Best Hidden Gems thro
 
 The post [UPDATE: Day Seven of the Lineage Fire: Residents Say They Feel ‘Used’](https://lataco.com/lineage-fire-update) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180651</guid>
+      <category>News</category>
     </item>    <item>
       <title>Drones will be used to crack down on illegal fireworks this Fourth of July</title>
       <link>https://laist.com/news/politics/drones-will-be-used-to-crack-down-on-illegal-fireworks-this-4th-of-july</link>
@@ -589,6 +736,14 @@ The post [UPDATE: Day Seven of the Lineage Fire: Residents Say They Feel ‘Used
       </description>
       <source:markdown>Police departments around SoCal are starting to embrace new technologies this Fourth of July that cracks down on illegal firework use.</source:markdown>
       <guid>cid://urn:uuid:0000019e-f669-da00-a3ff-f66fdf870000</guid>
+    </item>    <item>
+      <title>17 states and trade group sue California over plastics packaging law</title>
+      <link>https://laist.com/news/climate-environment/17-states-and-trade-group-sue-california-over-plastics-packaging-law</link>
+      <description>
+        <![CDATA[The suit's goal is to block California's enforcement of a stringent recycling law that aims to reduce plastic packaging waste.]]>
+      </description>
+      <source:markdown>The suit&#39;s goal is to block California&#39;s enforcement of a stringent recycling law that aims to reduce plastic packaging waste.</source:markdown>
+      <guid>cid://urn:uuid:0000019e-f6c6-d8b9-a5de-f6de9ae30000</guid>
     </item>    <item>
       <title>New LAUSD screen time rules: No devices for youngest students, no YouTube for older grades</title>
       <link>https://laist.com/news/education/lausd-new-screentime-policy-rules-digital-divide-devices</link>
@@ -625,6 +780,7 @@ The post [UPDATE: Day Seven of the Lineage Fire: Residents Say They Feel ‘Used
 ![Five people stand and honor the presentation of colors](https://media.defense.gov/2026/Jun/23/2003953123/300/300/0/260623-X-DW038-1002.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/23/2003953123/700/700/0/260623-X-DW038-1002.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4524750/533rd-training-squadron-change-of-command/</guid>
+      <category>News</category>
     </item>    <item>
       <title>California leaders yet to reach deal to keep billionaire tax off the ballot. Time is running out</title>
       <link>https://laist.com/news/politics/california-billionaire-tax-november-general-election</link>
@@ -660,6 +816,8 @@ The post [UPDATE: Day Seven of the Lineage Fire: Residents Say They Feel ‘Used
 
 The post [Chef Joshua Gil, Anarcho Punk Chef Who United Alta and Baja California, Dies at 50](https://lataco.com/chef-joshua-gil-obituary) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180617</guid>
+      <category>Los Angeles</category>
+      <category>People</category>
     </item>    <item>
       <title>A US-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal</title>
       <link>https://laist.com/news/a-us-iran-dispute-over-nuclear-inspections-clouds-work-to-finalize-a-war-ending-deal</link>
@@ -720,10 +878,14 @@ The post [Chef Joshua Gil, Anarcho Punk Chef Who United Alta and Baja California
       <title>Watch World Cup matches, meet soccer legends and enjoy live entertainment at Union Station’s Fan Zone</title>
       <link>https://thesource.metro.net/watch-world-cup-matches-meet-soccer-legends-and-enjoy-live-entertainment-at-union-stations-fan-zone/</link>
       <description>
-        <![CDATA[<figure><img width="1200" height="502" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?fit=1200%2C502&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=400%2C167&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=1200%2C502&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=768%2C321&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=1536%2C642&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=2048%2C856&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=1568%2C656&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?fit=1200%2C502&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>UPDATE: The fan zone has now sold out for each of the four days. Looking for a place to experience the excitement of the FIFA World Cup with fellow fans and a place with great ambience?&#160; The Heart of the City at Los Angeles Union Station&#160;— an official World Cup Fan Zone — takes place [&#8230;]]]>
+        <![CDATA[<figure><img width="1200" height="502" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?fit=1200%2C502&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=400%2C167&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=1200%2C502&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=768%2C321&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=1536%2C642&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=2048%2C856&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?resize=1568%2C656&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?fit=1200%2C502&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>UPDATE: The fan zone has now sold out for each of the four days. Looking for a place to experience the excitement of the FIFA World Cup with fellow fans and a place with great ambience?&#160; The Heart of the City at Los Angeles Union Station&#160;— an official World Cup Fan Zone — takes place [&#8230;]]]>
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-2.33.35-PM-scaled.png?fit=1200%2C502&#38;ssl=1)UPDATE: The fan zone has now sold out for each of the four days. Looking for a place to experience the excitement of the FIFA World Cup with fellow fans and a place with great ambience?  The Heart of the City at Los Angeles Union Station — an official World Cup Fan Zone — takes place \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147331</guid>
+      <category>Destinations</category>
+      <category>Culture</category>
+      <category>fan zone</category>
+      <category>Union Station</category>
     </item>    <item>
       <title>L.A.’s 30 Best Black-Owned Restaurants: Vegan, Brunch, Coffee and More for Juneteenth and Beyond</title>
       <link>https://lataco.com/best-black-owned-restaurants-guide</link>
@@ -735,6 +897,11 @@ The post [Chef Joshua Gil, Anarcho Punk Chef Who United Alta and Baja California
 
 The post [L.A.’s 30 Best Black-Owned Restaurants: Vegan, Brunch, Coffee and More for Juneteenth and Beyond](https://lataco.com/best-black-owned-restaurants-guide) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180476</guid>
+      <category>Food</category>
+      <category>L.A. Taco Guides</category>
+      <category>Taco Members Only</category>
+      <category>Guides</category>
+      <category>Juneteenth</category>
     </item>    <item>
       <title>Trump claims vandals damaged DC Reflecting Pool, and says it will be drained again</title>
       <link>https://laist.com/news/trump-claims-vandals-damaged-dc-reflecting-pool-and-says-it-will-be-drained-again</link>
@@ -754,6 +921,7 @@ The post [L.A.’s 30 Best Black-Owned Restaurants: Vegan, Brunch, Coffee and Mo
 
 The post [Float, Splash and Enjoy a Movie Under the Stars this July](https://santaclarita.gov/blog/2026/06/22/float-splash-and-enjoy-a-movie-under-the-stars-this-july/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8415</guid>
+      <category>Press Release</category>
     </item>    <item>
       <title>An off-duty ICE officer killed an armed man on New Year&#39;s Eve. We’re still waiting on LAPD findings</title>
       <link>https://laist.com/news/criminal-justice/ice-new-year-eve-shooting-keith-porter-brian-palacios</link>
@@ -781,6 +949,13 @@ The post [Float, Splash and Enjoy a Movie Under the Stars this July](https://san
 
 The post [The Ultimate Guide To 2026 World Cup Watch Parties And Fútbol Events In L.A.](https://lataco.com/guide-2026-world-cup-parties-la) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=179838</guid>
+      <category>Events</category>
+      <category>Featured</category>
+      <category>Los Angeles</category>
+      <category>Sports</category>
+      <category>2026 FIFA World Cup</category>
+      <category>guide</category>
+      <category>Guides</category>
     </item>    <item>
       <title>The Justice Department is linking public safety money to immigration enforcement</title>
       <link>https://laist.com/news/politics/the-justice-department-is-linking-public-safety-money-to-immigration-enforcement</link>
@@ -797,6 +972,10 @@ The post [The Ultimate Guide To 2026 World Cup Watch Parties And Fútbol Events 
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/4-1.jpeg?fit=1200%2C801&#38;ssl=1)Have you spotted one of Metro’s brightly colored World Cup buses rolling through Los Angeles?   The eye-catching design has been hard to miss in recent weeks. As the official Public Transit Provider of the Los Angeles World Cup 2026 Host, Metro has transformed 196 buses with special wraps, turning the agency’s familiar orange fleet into moving celebrations of one of the biggest sporting events on the planet.    For Metro, this campaign was about more than \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147316</guid>
+      <category>Service</category>
+      <category>#BusWrap</category>
+      <category>#MetroBusWrap</category>
+      <category>#MetroWorldCup</category>
     </item>    <item>
       <title>Best things to do this week in LA and SoCal: June 22-25</title>
       <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-june-22-25</link>
@@ -832,6 +1011,12 @@ The post [The Ultimate Guide To 2026 World Cup Watch Parties And Fútbol Events 
 
 The post [Smoke From The Lineage Logistics Fire Continues To Pollute L.A.](https://lataco.com/smoke-lineage-logistics-fire-boyle-heights) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180496</guid>
+      <category>Boyle Heights</category>
+      <category>Neighborhoods</category>
+      <category>News</category>
+      <category>boyle heights</category>
+      <category>fire</category>
+      <category>Lineage Logistics</category>
     </item>    <item>
       <title>Beloved Heavy Manners Library in Echo Park is moving — and it’s looking for a few good volunteers</title>
       <link>https://laist.com/news/los-angeles-activities/beloved-heavy-manners-library-in-echo-park-is-moving-and-its-looking-for-a-few-good-volunteers</link>
@@ -899,6 +1084,7 @@ The post [Smoke From The Lineage Logistics Fire Continues To Pollute L.A.](https
 
 The post [The Rink Sports Pavilion Update](https://santaclarita.gov/blog/2026/06/20/the-rink-sports-pavilion-update/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8404</guid>
+      <category>From the City Manager</category>
     </item>    <item>
       <title>A Long Beach shop is throwing a cat zine festival. It&#39;s also trying to fix L.A.&#39;s stray cat problem</title>
       <link>https://laist.com/news/los-angeles-activities/cat-zine-fest-cool-cat-collective-long-beach</link>
@@ -950,6 +1136,12 @@ The post [The Rink Sports Pavilion Update](https://santaclarita.gov/blog/2026/06
 
 The post [This El Sereno Art Show Pits Luchadores Against ICE](https://lataco.com/this-el-sereno-art-show-pits-luchadores-against-ice) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180441</guid>
+      <category>Art</category>
+      <category>Culture</category>
+      <category>Los Angeles</category>
+      <category>Sports</category>
+      <category>eastside cafe</category>
+      <category>lucha libre</category>
     </item>    <item>
       <title>After public outcry, PUSD Board votes to save some trees slated for removal</title>
       <link>https://laist.com/news/climate-environment/pasadena-unified-soil-remediation-trees-board-vote</link>
@@ -1014,6 +1206,9 @@ The post [This El Sereno Art Show Pits Luchadores Against ICE](https://lataco.co
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/Image-4-scaled.jpeg?fit=1200%2C900&#38;ssl=1)The World Cup keeps the city buzzing with fan zones and watch parties, and this weekend also marks Juneteenth, with celebrations happening across Los Angeles, including a Hollywood Bowl show headlined by Chance the Rapper. Metro has you covered. Here’s what’s happening. FIFA World Cup™   Events Throughout the month of June, L.A. County will be \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147247</guid>
+      <category>Destinations</category>
+      <category>Go Metro</category>
+      <category>Metro Forecast</category>
     </item>    <item>
       <title>Mexico becomes first country to reach knockout stage of World Cup, beating South Korea 1-0</title>
       <link>https://laist.com/news/mexico-becomes-first-country-to-reach-knockout-stage-of-world-cup-beating-south-korea-1-0</link>
@@ -1033,6 +1228,7 @@ The post [This El Sereno Art Show Pits Luchadores Against ICE](https://lataco.co
 
 The post [A Summer of Shopping, Dining and Community](https://santaclarita.gov/blog/2026/06/18/a-summer-of-shopping-dining-and-community/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8402</guid>
+      <category>Bill Miranda</category>
     </item>    <item>
       <title>$177M in LA tenant aid is being held up while city officials argue over why</title>
       <link>https://laist.com/news/housing-homelessness/los-angeles-city-council-tenant-aid-contracts-hydee-feldstein-soto-lafla-dispute</link>
@@ -1075,6 +1271,7 @@ The post [Comedian Carlos Mencia Charged With Tax Counts](https://sanfernandosun
 ![Four people stand at attention](https://media.defense.gov/2026/Jun/18/2003950884/300/300/0/260618-X-DW038-1014.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/18/2003950884/700/700/0/260618-X-DW038-1014.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4522069/30th-contracting-squadron-change-of-command/</guid>
+      <category>News</category>
     </item>    <item>
       <title>Metro Art joins LACMA’s Block Party and Art Parade this weekend!</title>
       <link>https://thesource.metro.net/metro-art-joins-lacmas-block-party-and-art-parade-this-weekend/</link>
@@ -1083,6 +1280,7 @@ The post [Comedian Carlos Mencia Charged With Tax Counts](https://sanfernandosun
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/MAB-1x1-1.png?fit=1080%2C1080&#38;ssl=1)Los Angeles’ cultural spotlight shines this Saturday on Wilshire Boulevard as LACMA celebrates the opening of the new David Geffen Galleries with a Block Party and Art Parade. The all-day event will transform nearly a mile of Wilshire into a celebration of art, music, performance and community—and Metro Art will be right in the middle of it.  The event brings together \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147281</guid>
+      <category>Culture</category>
     </item>    <item>
       <title>CMSgt. Cristina Gutierrez Retirement Ceremony</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4522025/cmsgt-cristina-gutierrez-retirement-ceremony/</link>
@@ -1095,6 +1293,7 @@ The post [Comedian Carlos Mencia Charged With Tax Counts](https://sanfernandosun
 ![Three people stand and smile for a group photo](https://media.defense.gov/2026/Jun/18/2003950864/300/300/0/260615-X-DW038-1025.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/18/2003950869/700/700/0/260615-X-DW038-1013.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4522025/cmsgt-cristina-gutierrez-retirement-ceremony/</guid>
+      <category>News</category>
     </item>    <item>
       <title>The man behind the World Cup and how LA fans are experiencing his decisions</title>
       <link>https://laist.com/news/los-angeles-activities/man-behind-the-world-cup-how-la-fans-are-affected</link>
@@ -1479,6 +1678,7 @@ The post [Daily Memo: DHS Arrests Activists in Minneapolis As ICE Ramps Up Again
 
 The post [Knowledge and Awareness are Fire Preparedness](https://santaclarita.gov/blog/2026/06/17/knowledge-and-awareness-are-fire-preparedness/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8380</guid>
+      <category>Press Release</category>
     </item>    <item>
       <title>Why Chance the Rapper ‘completely 180’d’ his views on LA</title>
       <link>https://laist.com/news/arts-and-entertainment/chance-the-rapper-juneteenth-hollywood-bowl-star-line</link>
@@ -1529,6 +1729,7 @@ The post [“Seascapes” in City Hall’s First Floor Gallery](https://santacla
 ![U.S. Air Force Master Sgt. selects gather together for a group photo](https://media.defense.gov/2026/Jun/16/2003949507/300/300/0/260616-X-DW038-1151.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/16/2003949510/700/700/0/260616-X-DW038-1007.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4519209/vandenberg-celebrates-newest-master-sergeants/</guid>
+      <category>News</category>
     </item>    <item>
       <title>New D Line stations help drive strongest rail ridership in more than six years; World Cup service starts strong</title>
       <link>https://thesource.metro.net/new-d-line-stations-help-drive-strongest-rail-ridership-in-more-than-six-years-world-cup-service-starts-strong/</link>
@@ -1537,6 +1738,7 @@ The post [“Seascapes” in City Hall’s First Floor Gallery](https://santacla
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/DSC_3090-Enhanced-NR-Edit-scaled.jpg?fit=1200%2C800&#38;ssl=1)Metro Rail ridership reached its highest level in more than six years in May – since the beginning of the COVID-19 pandemic – and was boosted by the opening of three new D Line stations serving the Miracle Mile, Fairfax District and Beverly Hills-adjacent neighborhoods.   World Cup service to Los Angeles Stadium (also known as SoFi Stadium) by Metro and \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147242</guid>
+      <category>Service</category>
     </item>    <item>
       <title>How is SoCal celebrating Juneteenth this year?</title>
       <link>https://laist.com/news/how-is-socal-celebrating-juneteenth-this-year</link>
@@ -1678,6 +1880,7 @@ The post [UPDATE: Mr.Tempo Cantina Closes Controversial Hollywood Location](http
 ![A group of people dig into the ground around an active fire](https://media.defense.gov/2026/Jun/15/2003948667/300/300/0/260605-X-IT855-2005.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/15/2003948669/700/700/0/260605-X-IT855-2002.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4517447/vandenberg-fire-team-conducts-prescribed-burn-exercise/</guid>
+      <category>News</category>
     </item>    <item>
       <title>California Democrats have a budget deal. Here’s where they want to spend more than Newsom</title>
       <link>https://laist.com/news/politics/california-democrats-have-a-budget-deal-heres-where-they-want-to-spend-more-than-newsom</link>
@@ -1971,6 +2174,9 @@ The post [A Ninja Turtles-Themed Pizzeria with a Serious New York Slice](https:/
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/IMG_9887-scaled.jpg?fit=1200%2C900&#38;ssl=1)History is happening in Los Angeles this weekend. The FIFA World Cup kicks off across the city, bringing fan festivals, community celebrations and watch parties from Inglewood to Pasadena to Little Tokyo. L.A. Pride parade marches down Hollywood Boulevard on Sunday. And if that wasn’t enough, Ariana Grande, Shakira and the Blue Note Jazz Festival \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147177</guid>
+      <category>Destinations</category>
+      <category>Go Metro</category>
+      <category>Metro Forecast</category>
     </item>    <item>
       <title>Activists, supervisors debate use of chemicals in Orange County’s flood control channels</title>
       <link>https://laist.com/news/climate-environment/activists-supervisors-debate-use-of-chemicals-in-orange-countys-flood-control-channels</link>
@@ -2058,6 +2264,7 @@ The post [When Pedro Arrests Juan: Why Latinos Join Border Patrol and ICE](https
 ![Outside of a NASA building.](https://media.defense.gov/2026/Mar/20/2003901525/300/300/0/260223-X-DW038-1003.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Mar/20/2003901525/700/700/0/260223-X-DW038-1003.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4440191/vandenberg-provides-ongoing-support-for-nasa-missions/</guid>
+      <category>News</category>
     </item>    <item>
       <title>Daily Memo: Ms. Rachel Visits D.C. With 545 Letters From Children Currently Being Detained By I.C.E.</title>
       <link>https://lataco.com/daily-memo-ms-rachel-child-detainees</link>
@@ -2341,6 +2548,7 @@ The post [How Everyone Can Use This ‘Red Card’ to Assert Allyship With Immig
 ![Two people stand and hold an award and pose for a photo.](https://media.defense.gov/2026/Jun/10/2003946806/300/300/0/260610-X-DW038-1001.JPG)</source:markdown>
       <enclosure url="https://media.defense.gov/2026/Jun/10/2003946806/700/700/0/260610-X-DW038-1001.JPG" length="" type="image/jpeg" />
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4513559/vandenbergs-hawk-of-the-week-award-on-june-10th/</guid>
+      <category>News</category>
     </item>    <item>
       <title>Inflation tops 4% for the first time in 3 years on spike in gasoline prices</title>
       <link>https://laist.com/news/inflation-spike-gasoline-prices</link>
@@ -2416,6 +2624,11 @@ The post [SoFi Stadium Hospitality Workers Win New Contract Ahead Of World Cup O
       </description>
       <source:markdown>Join us as we take Metrolink for an overnight trip to Riverside and see some really cool sights!</source:markdown>
       <guid>cid://http://transitinglosangeles.com/?p=10423</guid>
+      <category>video</category>
+      <category>la transit</category>
+      <category>metrolink</category>
+      <category>riverside</category>
+      <category>travel guide</category>
     </item>    <item>
       <title>Federal judge strikes down Trump&#39;s $100K fee on new H-1B visas</title>
       <link>https://laist.com/news/politics/federal-judge-strikes-down-trumps-100k-fee-on-new-h-1b-visas</link>
@@ -2440,6 +2653,10 @@ The post [SoFi Stadium Hospitality Workers Win New Contract Ahead Of World Cup O
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/metro-officers.png?fit=1200%2C600&#38;ssl=1)The recruitment of law enforcement officers for Metro’s Department of Public Safety (DPS) had a strong start with 950 applications received in the first 24 hours of the effort that began last week.  These first recruits will play a critical role in shaping the department’s culture, policies and community-focused approach while helping to build the \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147170</guid>
+      <category>People</category>
+      <category>Policy</category>
+      <category>Department of Public Safety</category>
+      <category>jobs</category>
     </item>    <item>
       <title>California&#39;s attorney general refutes Trump&#39;s baseless claim of election fraud</title>
       <link>https://laist.com/news/californias-attorney-general-refutes-trumps-baseless-claim-of-election-fraud</link>
@@ -2502,6 +2719,8 @@ The post [IE Taco Is Now a Reality, Thanks To Funding From The CIELO Fund At The
       </description>
       <source:markdown>WASHINGTON, D.C. – Today, Rep. George Whitesides (D-CA-27) and Rep. Jay Obernolte (R-CA-23) introduced the Disaster Ready Infrastructure Act, legislation which requires state Departments of Transportation and Metropolitan Planning Organizations to identify roads, bridges, and other transportation assets that are particularly vulnerable to natural disasters, as well as those that are essential to emergency operations \[…\]</source:markdown>
       <guid>cid://https://whitesides-admin.c3pot.house.gov/?p=17102</guid>
+      <category>Press Releases</category>
+      <category>Wildfires</category>
     </item>    <item>
       <title>Daily Memo: Another Death In Detention As GEO Group Punishes Hunger Striking Detainees</title>
       <link>https://lataco.com/geo-punishes-detainees-hunger-strike</link>
@@ -2551,6 +2770,14 @@ The post [SFPD Chief Fabian Valdez Being ‘Forced to Retire’ Say Those Close 
       </description>
       <source:markdown>A train trip to Riverside, though it requires some careful planning, will take you to some great museums, incredible architecture, and fun restaurants.</source:markdown>
       <guid>cid://http://transitinglosangeles.com/?p=10265</guid>
+      <category>Art</category>
+      <category>Historic Sites</category>
+      <category>Museums</category>
+      <category>Outside LA</category>
+      <category>inland empire</category>
+      <category>la transit</category>
+      <category>metrolink</category>
+      <category>riverside</category>
     </item>    <item>
       <title>This THC Matcha Latte Vendor in Long Beach Supports Immigrants with Her Proceeds</title>
       <link>https://lataco.com/cafe-rosita-thc-matcha-long-beach</link>
@@ -2578,6 +2805,10 @@ The post [This THC Matcha Latte Vendor in Long Beach Supports Immigrants with He
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/06/8.jpeg?fit=1200%2C801&#38;ssl=1)By 5:30 a.m. every morning, Metro’s painters are already on the move.    They gather at Metro’s maintenance and support facility on Pacific Boulevard in Vernon – the team’s home base – where they review assignments, load trucks with supplies and prepare for a day that could take them almost anywhere in the Metro system.    Some will head out to train stations, while others may work at \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=147129</guid>
+      <category>Projects</category>
+      <category>#MetroPainters</category>
+      <category>#MetroWorldCup</category>
+      <category>#WorldCup2026</category>
     </item>    <item>
       <title>Inglewood’s billboard battles just got weirder</title>
       <link>https://laist.com/news/politics/inglewood-billboard-battles</link>
@@ -2594,6 +2825,15 @@ The post [This THC Matcha Latte Vendor in Long Beach Supports Immigrants with He
       </description>
       <source:markdown>The U.S. Space Force at Vandenberg Space Force Base has issued a Request for Information (RFI) to identify industry launch service providers interested in obtaining a real property use agreement to finance, design, construct, operate and maintain small or medium vertical space launch capabilities to provide space launch services to the Department of War, non-DoW Federal, and other commercial entities at an area identified as Space Launch Complex-9 (SLC-9).</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4511304/us-space-force-issues-request-for-information-for-slc-9-to-expand-launch-capabi/</guid>
+      <category>News</category>
+    </item>    <item>
+      <title>LA’s underrated gems: Where LAist staff think out-of-towners should visit</title>
+      <link>https://laist.com/news/los-angeles-activities/las-underrated-gems-where-laist-staff-think-out-of-towners-should-visit</link>
+      <description>
+        <![CDATA[We asked our colleagues to recommend their under-the-radar favorite spots worth a visit]]>
+      </description>
+      <source:markdown>We asked our colleagues to recommend their under-the-radar favorite spots worth a visit</source:markdown>
+      <guid>cid://urn:uuid:0000019e-8aa0-da2f-a99f-9fe6b38e0000</guid>
     </item>    <item>
       <title>Things to do and see during the World Cup. Here&#39;s the only A-Z guide you&#39;ll need</title>
       <link>https://laist.com/news/los-angeles-activities/navigating-the-world-cup-heres-the-only-a-to-z-guide-youll-need-for-the-tournament</link>
@@ -2611,14 +2851,6 @@ The post [This THC Matcha Latte Vendor in Long Beach Supports Immigrants with He
       <source:markdown>48 teams, one city. Enjoy a quintessentially LA viewing party, with passionate fans from all backgrounds</source:markdown>
       <guid>cid://urn:uuid:0000019e-79ed-d928-a5ff-fbff1e920000</guid>
     </item>    <item>
-      <title>LA’s underrated gems: Where LAist staff think out-of-towners should visit</title>
-      <link>https://laist.com/news/los-angeles-activities/las-underrated-gems-where-laist-staff-think-out-of-towners-should-visit</link>
-      <description>
-        <![CDATA[We asked our colleagues to recommend their under-the-radar favorite spots worth a visit]]>
-      </description>
-      <source:markdown>We asked our colleagues to recommend their under-the-radar favorite spots worth a visit</source:markdown>
-      <guid>cid://urn:uuid:0000019e-8aa0-da2f-a99f-9fe6b38e0000</guid>
-    </item>    <item>
       <title>Best things to do this week in LA and SoCal: June 8-11</title>
       <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-june-8-11</link>
       <description>
@@ -2634,119 +2866,6 @@ The post [This THC Matcha Latte Vendor in Long Beach Supports Immigrants with He
       </description>
       <source:markdown>For when you just want to kick back, relax and enjoy visual beauty.</source:markdown>
       <guid>cid://urn:uuid:0000019e-75d9-d4b7-a9de-7dff2d020000</guid>
-    </item>    <item>
-      <title>Will L.A. Taxpayers Be On The Hook For FIFA World Cup Costs?</title>
-      <link>https://lataco.com/la-taxpayers-fifa-world-cup-costs</link>
-      <description>
-        <![CDATA[<p>LA officials haven’t revealed how much is being spent on security for the games. By comparison, the Los Angeles Police Department said this month that security costs for the 2028 Olympics in LA would amount to more than $1 billion.</p>
-        <p>The post <a href="https://lataco.com/la-taxpayers-fifa-world-cup-costs">Will L.A. Taxpayers Be On The Hook For FIFA World Cup Costs?</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>LA officials haven’t revealed how much is being spent on security for the games. By comparison, the Los Angeles Police Department said this month that security costs for the 2028 Olympics in LA would amount to more than $1 billion.
-
-The post [Will L.A. Taxpayers Be On The Hook For FIFA World Cup Costs?](https://lataco.com/la-taxpayers-fifa-world-cup-costs) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=180105</guid>
-    </item>    <item>
-      <title>Where to eat near SoFi Stadium during the World Cup</title>
-      <link>https://laist.com/news/food/where-to-eat-near-sofi-stadium-during-the-world-cup</link>
-      <description>
-        <![CDATA[Our picks around Inglewood for BBQ, tacos, soul food, pasta and more.]]>
-      </description>
-      <source:markdown>Our picks around Inglewood for BBQ, tacos, soul food, pasta and more.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-74e1-d28c-a39e-74fdcff60000</guid>
-    </item>    <item>
-      <title>Bats, bikes and cemeteries: What LA’s nightlife looks like beyond the bars and clubs</title>
-      <link>https://laist.com/news/los-angeles-activities/bats-bikes-and-cemeteries-what-las-nightlife-looks-like-beyond-the-bars-and-clubs</link>
-      <description>
-        <![CDATA[Summertime could be the best time to explore the region’s not-so-obvious nightlife offerings. Here’s a guide to help you get started.]]>
-      </description>
-      <source:markdown>Summertime could be the best time to explore the region’s not-so-obvious nightlife offerings. Here’s a guide to help you get started.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-958c-d7f7-a19f-d59e229f0000</guid>
-    </item>    <item>
-      <title>SoCal loves its diners. Here are some of our favorites</title>
-      <link>https://laist.com/news/food/socal-loves-its-diners-here-are-our-favorites</link>
-      <description>
-        <![CDATA[From a chili cheese omelet in Newport to crab hash in Eagle Rock, readers share the spots they keep coming back to.]]>
-      </description>
-      <source:markdown>From a chili cheese omelet in Newport to crab hash in Eagle Rock, readers share the spots they keep coming back to.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-84e0-d6d5-a59e-e5e054010000</guid>
-    </item>    <item>
-      <title>Visiting LA? Our public bathrooms are tricky to find but we’ve got maps</title>
-      <link>https://laist.com/news/visiting-la-public-bathrooms-map</link>
-      <description>
-        <![CDATA[You’re new in town and really gotta go. This guide can help you figure out where.]]>
-      </description>
-      <source:markdown>You’re new in town and really gotta go. This guide can help you figure out where.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-845b-d8f0-af9f-967f372f0000</guid>
-    </item>    <item>
-      <title>Take advantage of your kids’ World Cup excitement with these family-friendly LA activities</title>
-      <link>https://laist.com/news/los-angeles-activities/world-cup-kids-family-activity-guide-around-tournament</link>
-      <description>
-        <![CDATA[There are plenty of World Cup-related things to do with kids to help you get in on the tournament action without spending a fortune on tickets.]]>
-      </description>
-      <source:markdown>There are plenty of World Cup-related things to do with kids to help you get in on the tournament action without spending a fortune on tickets.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-95b1-dabd-a9fe-f5b96d2e0000</guid>
-    </item>    <item>
-      <title>Military Helicopters and Simulated Gunfire Disrupt Multiple Cities in L.A. County</title>
-      <link>https://lataco.com/military-exercises-los-angeles</link>
-      <description>
-        <![CDATA[<p>"The city received no advanced notice. I was told that our staff contacted CalPoly officials and confirmed that it was indeed a military exercise by the Department of Defense,” said Council Member Andrew Chou of Diamond Bar, one of the cities affected by U.S. military exercises in the region this week.</p>
-        <p>The post <a href="https://lataco.com/military-exercises-los-angeles">Military Helicopters and Simulated Gunfire Disrupt Multiple Cities in L.A. County</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>&#34;The city received no advanced notice. I was told that our staff contacted CalPoly officials and confirmed that it was indeed a military exercise by the Department of Defense,” said Council Member Andrew Chou of Diamond Bar, one of the cities affected by U.S. military exercises in the region this week.
-
-The post [Military Helicopters and Simulated Gunfire Disrupt Multiple Cities in L.A. County](https://lataco.com/military-exercises-los-angeles) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=180119</guid>
-    </item>    <item>
-      <title>SLD 30 commander, Vandenberg Library partner on summer reading challenge</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4510709/sld-30-commander-vandenberg-library-partner-on-summer-reading-challenge/</link>
-      <description>
-        <![CDATA[This summer, the Vandenberg Library is inviting the community to cultivate their imaginations with the launch of the "Plant a Seed, Read at Your Library This Summer!" reading program, running from June 6 to July 31.
-        
-        A special highlight for readers this year is the Col. Horne Reading List Challenge, curated by Col. James Horne, Space Launch Delta 30 commander. <br/> 
-        <img src='https://media.defense.gov/2026/Jun/06/2003945056/300/300/0/260606-X-EI087-1002.PNG' alt='The Col. Horne Reading List Challenge, curated by Col. James Horne, Space Launch Delta 30 commander.' /> <br />]]>
-      </description>
-      <source:markdown>This summer, the Vandenberg Library is inviting the community to cultivate their imaginations with the launch of the &#34;Plant a Seed, Read at Your Library This Summer!&#34; reading program, running from June 6 to July 31.
-
-A special highlight for readers this year is the Col. Horne Reading List Challenge, curated by Col. James Horne, Space Launch Delta 30 commander.
-
-![The Col. Horne Reading List Challenge, curated by Col. James Horne, Space Launch Delta 30 commander.](https://media.defense.gov/2026/Jun/06/2003945056/300/300/0/260606-X-EI087-1002.PNG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Jun/06/2003945056/700/700/0/260606-X-EI087-1002.PNG" length="" type="image/png" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4510709/sld-30-commander-vandenberg-library-partner-on-summer-reading-challenge/</guid>
-    </item>    <item>
-      <title>A Summer Guide to Santa Clarita</title>
-      <link>https://santaclarita.gov/blog/2026/06/06/a-summer-guide-to-santa-clarita/</link>
-      <description>
-        <![CDATA[<p>By City Manager Ken Striplin From live music under the stars and cultural celebrations to outdoor movies, family traditions and community events, there will be something happening in every corner of the City throughout the summer months. SENSES Block Party has already returned to Old Town Newhall, transforming Main Street into a themed nightlife experience. [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/06/06/a-summer-guide-to-santa-clarita/">A Summer Guide to Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By City Manager Ken Striplin From live music under the stars and cultural celebrations to outdoor movies, family traditions and community events, there will be something happening in every corner of the City throughout the summer months. SENSES Block Party has already returned to Old Town Newhall, transforming Main Street into a themed nightlife experience. \[…\]
-
-The post [A Summer Guide to Santa Clarita](https://santaclarita.gov/blog/2026/06/06/a-summer-guide-to-santa-clarita/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8299</guid>
-    </item>    <item>
-      <title>Union Station tours spotlight architecture — and the displaced Chinese American community</title>
-      <link>https://laist.com/news/los-angeles-activities/union-station-tours-spotlight-architecture-and-the-displaced-chinese-american-community</link>
-      <description>
-        <![CDATA[The 1939 building mixes art deco and Spanish colonial style in Mission Moderne design.]]>
-      </description>
-      <source:markdown>The 1939 building mixes art deco and Spanish colonial style in Mission Moderne design.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-99d4-d50a-adfe-b9d53dee0000</guid>
-    </item>    <item>
-      <title>The last time England won the World Cup was 1966. But this fan holds on to hope</title>
-      <link>https://laist.com/news/los-angeles-activities/the-last-time-england-won-the-world-cup-was-1966-but-this-fan</link>
-      <description>
-        <![CDATA[It might be the birthplace of soccer, but for fans it's been years of dashed hopes and broken dreams]]>
-      </description>
-      <source:markdown>It might be the birthplace of soccer, but for fans it&#39;s been years of dashed hopes and broken dreams</source:markdown>
-      <guid>cid://urn:uuid:0000019e-952d-d50a-adfe-b56d81680000</guid>
-    </item>    <item>
-      <title>Measure ER on track to pass as LA County ballot counting continues</title>
-      <link>https://laist.com/news/politics/voter-guides/measure-er-is-losing-as-l-a-county-voter-attitudes-on-sales-taxes-shift</link>
-      <description>
-        <![CDATA[L.A. County voters haven't rejected a sales tax in more than a decade.]]>
-      </description>
-      <source:markdown>L.A. County voters haven&#39;t rejected a sales tax in more than a decade.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-9aa5-d50a-adfe-bbe542c80000</guid>
     </item>
   </channel>
 </rss>

@@ -2,48 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/craft.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>Craft</title>
-    <description>
-      Craft is a list of hand oriented craft and technology
-      Do we really need all those power tools?
-    </description>
+    <title><![CDATA[Craft]]></title>
+    <description><![CDATA[Craft is a list of hand oriented craft and technology
+Do we really need all those power tools?]]></description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>27 Jun 26 06:50 -0700</lastBuildDate>
-    <generator>antenna/0.0.24</generator>
+    <lastBuildDate>29 Jun 26 09:09 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Automaton Branch: Part IV – Wirework, Anatomy, and Final Details</title>
+      <link>https://www.popularwoodworking.com/projects/the-automaton-branch-part-iv-wirework-anatomy-and-final-details/</link>
+      <description>
+        <![CDATA[<img width="1024" height="683" src="https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-1024x683.jpeg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" fetchpriority="high" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-1024x683.jpeg 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-300x200.jpeg 300w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-768x512.jpeg 768w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-150x100.jpeg 150w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-900x600.jpeg 900w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-1800x1200.jpeg 1800w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-736x490.jpeg 736w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-1920x1280.jpeg 1920w, https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />In our previous chapters, we built the vaulted branch pedestal, mapped out the mechanical friction-drive movement, and whittled the faceted wooden body of our bee. Now, we are ready for...
+        <p><a href="https://www.popularwoodworking.com/projects/the-automaton-branch-part-iv-wirework-anatomy-and-final-details/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/06/23074614/p1130317-1-1024x683.jpeg)In our previous chapters, we built the vaulted branch pedestal, mapped out the mechanical friction-drive movement, and whittled the faceted wooden body of our bee. Now, we are ready for...
+
+[Source](https://www.popularwoodworking.com/projects/the-automaton-branch-part-iv-wirework-anatomy-and-final-details/)</source:markdown>
+      <guid>cid://https://www.popularwoodworking.com/?p=696950</guid>
+      <category>Projects</category>
+    </item>    <item>
+      <title>ShopNotes Podcast Episode 276 — None Was Right, But One Was Better (Than the Others)</title>
+      <link>https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-276-none-was-right-but-one-was-better-than-the-others/</link>
+      <description>
+        <![CDATA[<img width="1024" height="1024" src="https://media.popularwoodworking.com/app/uploads/2026/06/29092946/screenshot-2026-06-29-at-8.29.08am-1024x1024.png" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/29092946/screenshot-2026-06-29-at-8.29.08am-1024x1024.png 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/29092946/screenshot-2026-06-29-at-8.29.08am-150x150.png 150w, https://media.popularwoodworking.com/app/uploads/2026/06/29092946/screenshot-2026-06-29-at-8.29.08am-266x266.png 266w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />In this episode of the ShopNotes Podcast, the crew dives into the world of tool restoration., shares thoughts on building a practical starter tool kit for new homeowners, and discusses...
+        <p><a href="https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-276-none-was-right-but-one-was-better-than-the-others/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/06/29092946/screenshot-2026-06-29-at-8.29.08am-1024x1024.png)In this episode of the ShopNotes Podcast, the crew dives into the world of tool restoration., shares thoughts on building a practical starter tool kit for new homeowners, and discusses...
+
+[Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-276-none-was-right-but-one-was-better-than-the-others/)</source:markdown>
+      <guid>cid://https://www.popularwoodworking.com/?p=697071</guid>
+      <category>Shop Blog</category>
+      <category>Podcast</category>
+      <category>ShopNotes Podcast</category>
+    </item>    <item>
+      <title>Meet the Newest Editor: Katherine Schwarz</title>
+      <link>https://blog.lostartpress.com/2026/06/28/meet-the-newest-editor-katherine-schwarz/</link>
+      <description>
+        <![CDATA[Katherine Schwarz was born in April 2001. She grew up in Fort Mitchell, Kentucky, with her sister, Maddy (five years older), her mom, Lucy May, and her dad, Christopher Schwarz.   “Both of my parents have just been the best ever when it comes to raising us,” Katherine says. “My dad worked at the magazine...]]>
+      </description>
+      <source:markdown>Katherine Schwarz was born in April 2001. She grew up in Fort Mitchell, Kentucky, with her sister, Maddy (five years older), her mom, Lucy May, and her dad, Christopher Schwarz.   “Both of my parents have just been the best ever when it comes to raising us,” Katherine says. “My dad worked at the magazine...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70176</guid>
+      <category>Uncategorized</category>
+    </item>    <item>
+      <title>Free Plans for Our Clamshell Bookcase</title>
+      <link>https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/</link>
+      <description>
+        <![CDATA[I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...]]>
+      </description>
+      <source:markdown>I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70257</guid>
+      <category>Campaign Furniture</category>
+    </item>    <item>
       <title>The Splinter Report: June 26th</title>
       <link>https://www.popularwoodworking.com/editors-blog/the-splinter-report-june-26th/</link>
       <description>
-        <![CDATA[<img width="1024" height="768" src="https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" fetchpriority="high" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-1024x768.jpg 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-300x225.jpg 300w, https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-768x576.jpg 768w, https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I&#8217;ve seen in the woodworking world. This week we&#8217;re watching some videos. Tool News Quick Bites...
+        <![CDATA[<img width="1024" height="768" src="https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-1024x768.jpg 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-300x225.jpg 300w, https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-768x576.jpg 768w, https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I&#8217;ve seen in the woodworking world. This week we&#8217;re watching some videos. Tool News Quick Bites...
         <p><a href="https://www.popularwoodworking.com/editors-blog/the-splinter-report-june-26th/" rel="nofollow">Source</a></p>]]>
       </description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/06/26110303/splinter-report-6-26-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re watching some videos. Tool News Quick Bites...
 
 [Source](https://www.popularwoodworking.com/editors-blog/the-splinter-report-june-26th/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=697062</guid>
+      <category>Shop Blog</category>
+      <category>Festool</category>
+      <category>The Splinter Report</category>
     </item>    <item>
       <title>Mystery Solved</title>
       <link>https://www.popularwoodworking.com/editors-blog/mystery-solved/</link>
       <description>
-        <![CDATA[<img width="1024" height="705" src="https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-1024x705.jpg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-1024x705.jpg 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-300x207.jpg 300w, https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-768x529.jpg 768w, https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy.jpg 1368w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />A closer inspection revealed bits of metal slightly embedded in the surface: the culprit that destroyed my planer knives. A month or so ago I did something awful to my...
+        <![CDATA[<img width="1024" height="705" src="https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-1024x705.jpg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-1024x705.jpg 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-300x207.jpg 300w, https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-768x529.jpg 768w, https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy.jpg 1368w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />A closer inspection revealed bits of metal slightly embedded in the surface: the culprit that destroyed my planer knives. A month or so ago I did something awful to my...
         <p><a href="https://www.popularwoodworking.com/editors-blog/mystery-solved/" rel="nofollow">Source</a></p>]]>
       </description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/06/25191751/ajblog-1255-image-copy-1024x705.jpg)A closer inspection revealed bits of metal slightly embedded in the surface: the culprit that destroyed my planer knives. A month or so ago I did something awful to my...
 
 [Source](https://www.popularwoodworking.com/editors-blog/mystery-solved/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=697059</guid>
+      <category>Shop Blog</category>
+      <category>Planer</category>
+      <category>Troubleshooting</category>
+      <category>Woodworking Mistakes</category>
     </item>    <item>
       <title>Woodworking Prime Day Deals 2026 [Updated for Day 4]</title>
       <link>https://www.popularwoodworking.com/article/woodworking-prime-day-deals-2026/</link>
       <description>
-        <![CDATA[<img width="1024" height="858" src="https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-1024x858.jpg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-1024x858.jpg 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-300x252.jpg 300w, https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-768x644.jpg 768w, https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025.jpg 1293w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />Amazon Prime Day 2026 is here, and we’re rounding up the best deals for woodworkers! Keep checking in throughout the next few days as we update the list with tools...
+        <![CDATA[<img width="1024" height="858" src="https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-1024x858.jpg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-1024x858.jpg 1024w, https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-300x252.jpg 300w, https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-768x644.jpg 768w, https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025.jpg 1293w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />Amazon Prime Day 2026 is here, and we’re rounding up the best deals for woodworkers! Keep checking in throughout the next few days as we update the list with tools...
         <p><a href="https://www.popularwoodworking.com/article/woodworking-prime-day-deals-2026/" rel="nofollow">Source</a></p>]]>
       </description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/06/23101315/prime-day-2025-1024x858.jpg)Amazon Prime Day 2026 is here, and we’re rounding up the best deals for woodworkers! Keep checking in throughout the next few days as we update the list with tools...
 
 [Source](https://www.popularwoodworking.com/article/woodworking-prime-day-deals-2026/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=697019</guid>
+      <category>Featured Article</category>
+      <category>Lists</category>
+      <category>Woodworking Gifts</category>
     </item>    <item>
       <title>6-Drawer Storage Cabinet</title>
       <link>https://www.popularwoodworking.com/projects/office-cabinet/</link>
@@ -55,6 +107,10 @@
 
 [Source](https://www.popularwoodworking.com/projects/office-cabinet/)</source:markdown>
       <guid>cid://http://dem.popularwoodworking.com/projects/aw-extra-72513-office-cabinet</guid>
+      <category>Projects</category>
+      <category>AW145</category>
+      <category>Cabinets</category>
+      <category>Storage</category>
     </item>    <item>
       <title>UltraShear Alternating-Shear Pattern Flush Trim Bit Review</title>
       <link>https://www.popularwoodworking.com/toolreviews/ultrashear-alternating-shear-pattern-flush-trim-bit-review/</link>
@@ -66,6 +122,11 @@
 
 [Source](https://www.popularwoodworking.com/toolreviews/ultrashear-alternating-shear-pattern-flush-trim-bit-review/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=696801</guid>
+      <category>Tool Reviews</category>
+      <category>April 2026 #288</category>
+      <category>Router Bits</category>
+      <category>Tool Review</category>
+      <category>Woodpeckers</category>
     </item>    <item>
       <title>The 15%</title>
       <link>https://www.popularwoodworking.com/editors-blog/the-15/</link>
@@ -77,6 +138,9 @@
 
 [Source](https://www.popularwoodworking.com/editors-blog/the-15/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=696723</guid>
+      <category>Shop Blog</category>
+      <category>Amidst the Shavings</category>
+      <category>People and Places</category>
     </item>    <item>
       <title>New Model Mandolin: 6</title>
       <link>https://guitar-maker.blogspot.com/2026/06/new-model-mandolin-6.html</link>
@@ -96,6 +160,10 @@ preparation for setting-up the mandolin, “in the white.”
 Cheers Gary</source:markdown>
       <author>noreply@blogger.com (Gary Nava, Luthier)</author>
       <guid>cid://tag:blogger.com,1999:blog-32932962.post-2583172597367204460</guid>
+      <category>Handmade mandolin</category>
+      <category>Nava mandolin</category>
+      <category>Nava Standard Mandolin</category>
+      <category>Nava twin point mandolin</category>
     </item>    <item>
       <title>WGM Toolworks Custom Cutterhead Review</title>
       <link>https://www.popularwoodworking.com/toolreviews/wgm-toolworks-custom-cutterhead-review/</link>
@@ -107,6 +175,12 @@ Cheers Gary</source:markdown>
 
 [Source](https://www.popularwoodworking.com/toolreviews/wgm-toolworks-custom-cutterhead-review/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=696798</guid>
+      <category>Tool Reviews</category>
+      <category>April 2026 #288</category>
+      <category>Cutterhead</category>
+      <category>Jointer</category>
+      <category>Restoration</category>
+      <category>WGM Toolworks</category>
     </item>    <item>
       <title>Laser Engravers for the Woodshop</title>
       <link>https://www.popularwoodworking.com/tools/laser-engravers-for-the-woodshop/</link>
@@ -118,6 +192,14 @@ Cheers Gary</source:markdown>
 
 [Source](https://www.popularwoodworking.com/tools/laser-engravers-for-the-woodshop/)</source:markdown>
       <guid>cid://https://www.popularwoodworking.com/?p=696867</guid>
+      <category>Tools</category>
+      <category>April 2026 #288</category>
+      <category>Digital Woodworking</category>
+      <category>inlays</category>
+      <category>Laser</category>
+      <category>Laser Cutter</category>
+      <category>Metalwork</category>
+      <category>Woodworking Future</category>
     </item>    <item>
       <title>ShopNotes Podcast Episode 275 — Let’s Just Talk About Gas Stations Again</title>
       <link>https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-275-lets-just-talk-about-gas-stations-again/</link>
@@ -158,6 +240,9 @@ the same, just the scale is different!
 Cheers Gary</source:markdown>
       <author>noreply@blogger.com (Gary Nava, Luthier)</author>
       <guid>cid://tag:blogger.com,1999:blog-32932962.post-9187480683171625455</guid>
+      <category>Gary Nava luthier</category>
+      <category>Handmade mandolin</category>
+      <category>Nava mandolin</category>
     </item>    <item>
       <title>LAP Open Wire, June 20, 2026</title>
       <link>https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/</link>
@@ -166,6 +251,7 @@ Cheers Gary</source:markdown>
       </description>
       <source:markdown>Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70164</guid>
+      <category>Open Wire</category>
     </item>    <item>
       <title>For Sale: Nice Machines from Kelly Mehler’s Workshop</title>
       <link>https://blog.lostartpress.com/2026/06/19/for-sale-nice-machines-from-kelly-mehlers-workshop/</link>
@@ -174,6 +260,7 @@ Cheers Gary</source:markdown>
       </description>
       <source:markdown>When woodworker and instructor Kelly Mehler died unexpectedly last year, he left behind a shop full of meticulously maintained woodworking machines that he used in his personal work after he closed his woodworking school. The Mehler family is trying to find new homes for these machines, avoiding the chaos and unpredictability of an auction. These...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70195</guid>
+      <category>Uncategorized</category>
     </item>    <item>
       <title>The Splinter Report: June 19th</title>
       <link>https://www.popularwoodworking.com/editors-blog/the-splinter-report-june-19th/</link>
@@ -204,6 +291,7 @@ Cheers Gary</source:markdown>
       </description>
       <source:markdown>Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70171</guid>
+      <category>Uncategorized</category>
     </item>    <item>
       <title>Beyond the Rope</title>
       <link>https://www.popularwoodworking.com/end-grain/beyond-the-rope/</link>
@@ -245,6 +333,8 @@ Cheers Gary</source:markdown>
       </description>
       <source:markdown>We’re cooking up answers for Open Wire this Saturday (June 20) on the Lost Art Press blog – so if you have a woodworking question, you’ll have until 5 p.m. Eastern to ask it in the comments section on the Open Wire post, which will go live at 8 a.m. Chris and I will do...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70168</guid>
+      <category>Uncategorized</category>
+      <category>Open Wire</category>
     </item>    <item>
       <title>Fender Washers for Mounting Pictures</title>
       <link>https://www.popularwoodworking.com/tricks/fender-washers-for-mounting-pictures/</link>
@@ -297,6 +387,7 @@ Cheers Gary</source:markdown>
       </description>
       <source:markdown>D.R. Dimes was one of those famous furniture making companies that was so ubiquitous that you couldn’t imagine it ever going out of business. But it did. What I didn’t know is that it has recently been reborn as a one-person shop run by Douglas P. Dimes, the son of the founder.  The story of...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70159</guid>
+      <category>Personal Favorites</category>
     </item>    <item>
       <title>The Splinter Report: June 12th</title>
       <link>https://www.popularwoodworking.com/editors-blog/the-splinter-report-june-12th/</link>
@@ -360,6 +451,7 @@ Cheers Gary</source:markdown>
       </description>
       <source:markdown>Our printer is a bit more than a month behind right now, so the three new books that are gestating are overdue. They are, in order expected, Peter Follansbee’s “17th-century Essex County Cupboard,” our “Smalls” pocket book, and volume four of “The Stick Chair Journal.” We do not know when they will be in …...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70140</guid>
+      <category>Uncategorized</category>
     </item>    <item>
       <title>If I Would Have Been A Man</title>
       <link>https://www.popularwoodworking.com/editors-blog/if-i-would-have-been-a-man/</link>
@@ -401,6 +493,8 @@ Cheers Gary</source:markdown>
       </description>
       <source:markdown>We just got the final files from Matt Bickford for a new book on making side escapement moulding planes – so I’ll be diving into the editing and design of that soon. No word just yet on when it will be published, but it’s in the batter’s circle. So I thought, “Why not take a...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70133</guid>
+      <category>Uncategorized</category>
+      <category>Mouldings in Practice</category>
     </item>    <item>
       <title>ShopNotes Podcast Episode 274 — The Gas Station Situation in Central Iowa</title>
       <link>https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-274-the-gas-station-situation-in-central-iowa/</link>

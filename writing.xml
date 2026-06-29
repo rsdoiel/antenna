@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/writing.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>Writing</title>
+    <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>27 Jun 26 06:50 -0700</lastBuildDate>
-    <generator>antenna/0.0.24</generator>
+    <lastBuildDate>29 Jun 26 09:09 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Scriptnotes, Episode 740: On Competence, Transcript</title>
@@ -18,6 +18,7 @@
 
 The post [Scriptnotes, Episode 740: On Competence, Transcript](https://johnaugust.com/2026/scriptnotes-episode-740-on-competence-transcript) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=24018</guid>
+      <category>Scriptnotes Transcript</category>
     </item>    <item>
       <title>Craig Takes Questions</title>
       <link>https://johnaugust.com/2026/craig-takes-questions</link>
@@ -29,6 +30,7 @@ The post [Scriptnotes, Episode 740: On Competence, Transcript](https://johnaugus
 
 The post [Craig Takes Questions](https://johnaugust.com/2026/craig-takes-questions) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=24014</guid>
+      <category>Scriptnotes</category>
     </item>    <item>
       <title>On Competence</title>
       <link>https://johnaugust.com/2026/on-competence</link>
@@ -41,6 +43,7 @@ The post [Craig Takes Questions](https://johnaugust.com/2026/craig-takes-questio
 The post [On Competence](https://johnaugust.com/2026/on-competence) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/740.mp3" length="57120634" type="audio/mpeg" />
       <guid>cid://https://johnaugust.com/?p=24004</guid>
+      <category>Scriptnotes</category>
     </item>    <item>
       <title>What Does “Exclusive” Mean?</title>
       <link>https://www.authorsalliance.org/2026/06/11/what-does-exclusive-mean/</link>
@@ -49,6 +52,18 @@ The post [On Competence](https://johnaugust.com/2026/on-competence) first appear
       </description>
       <source:markdown>When the owner of, say, a research paper assigns an exclusive license in a work to a publisher, any prior nonexclusive licenses are carved out of the exclusive license by operation of law. That does not make the exclusive license any less exclusive. The license is still a transfer of copyright ownership, the publisher still receives an exclusive right, and the publisher can exclude any future uses of that right.</source:markdown>
       <guid>cid://https://www.authorsalliance.org/?p=12959</guid>
+      <category>Blog</category>
+      <category>Cases</category>
+      <category>Copyright Basics</category>
+      <category>Open Access</category>
+      <category>Publication Contracts</category>
+      <category>Copyright</category>
+      <category>Court cases</category>
+      <category>Definitions</category>
+      <category>Eleventh Circuit</category>
+      <category>Exclusive licenses</category>
+      <category>Nonexclusive Licenses</category>
+      <category>Standing</category>
     </item>    <item>
       <title>Scriptnotes, Episode 739: The One with David E. Kelly, Transcript</title>
       <link>https://johnaugust.com/2026/scriptnotes-episode-739-the-one-with-david-e-kelly-transcript</link>
@@ -60,6 +75,7 @@ The post [On Competence](https://johnaugust.com/2026/on-competence) first appear
 
 The post [Scriptnotes, Episode 739: The One with David E. Kelly, Transcript](https://johnaugust.com/2026/scriptnotes-episode-739-the-one-with-david-e-kelly-transcript) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=23994</guid>
+      <category>Scriptnotes Transcript</category>
     </item>    <item>
       <title>The One with David E. Kelley</title>
       <link>https://johnaugust.com/2026/the-one-with-david-e-kelley</link>
@@ -72,6 +88,10 @@ The post [Scriptnotes, Episode 739: The One with David E. Kelly, Transcript](htt
 The post [The One with David E. Kelley](https://johnaugust.com/2026/the-one-with-david-e-kelley) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/739standard.mp3" length="54975674" type="audio/mpeg" />
       <guid>cid://https://johnaugust.com/?p=23981</guid>
+      <category>Scriptnotes</category>
+      <category>Transcribed</category>
+      <category>interview</category>
+      <category>salmon</category>
     </item>
   </channel>
 </rss>

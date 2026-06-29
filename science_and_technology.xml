@@ -2,12 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/science_and_technology.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>Science and Technology</title>
+    <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Jun 26 06:46 -0700</lastBuildDate>
-    <generator>antenna/0.0.24</generator>
+    <lastBuildDate>29 Jun 26 09:05 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA Astronaut Chris Williams Preps for Spacewalk</title>
+      <link>https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/</link>
+      <description>
+        <![CDATA[Flight engineer Sophie Adenot of ESA (European Space Agency) helps flight engineer Chris Williams of NASA as he tries on his spacesuit on June 23, 2026, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station’s Quest airlock. Williams will go on a spacewalk on June [&#8230;]]]>
+      </description>
+      <source:markdown>Flight engineer Sophie Adenot of ESA (European Space Agency) helps flight engineer Chris Williams of NASA as he tries on his spacesuit on June 23, 2026, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station’s Quest airlock. Williams will go on a spacewalk on June \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1012456</guid>
+      <category>Christopher L. Williams</category>
+      <category>International Space Station (ISS)</category>
+    </item>    <item>
+      <title>Mapping Earth’s Observations, featuring Betsy Ford</title>
+      <link>https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/</link>
+      <description>
+        <![CDATA[NASA&#8217;s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It&#8217;s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world. As NASA’s Earth Science Division (ESD) manages this vast portfolio, they [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It’s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world. As NASA’s Earth Science Division (ESD) manages this vast portfolio, they \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1012816</guid>
+      <category>General</category>
+    </item>    <item>
+      <title>NextSTEP-3 A: Lunar Enabling Technology</title>
+      <link>https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/</link>
+      <description>
+        <![CDATA[NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.  This solicitation seeks to close key technology gaps and mature capabilities in vertical solar arrays, ISRU oxygen production systems, Stirling radioisotope generators, in‑space [&#8230;]]]>
+      </description>
+      <source:markdown>NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.  This solicitation seeks to close key technology gaps and mature capabilities in vertical solar arrays, ISRU oxygen production systems, Stirling radioisotope generators, in‑space \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1012034</guid>
+      <category>Space Technology Mission Directorate</category>
+      <category>Glenn Research Center</category>
+      <category>Lunar Surface Innovation Initiative</category>
+      <category>Lunar Surface Technology Research</category>
+      <category>Technology</category>
+    </item>    <item>
+      <title>NASA Seeks Industry Input to Accelerate Lunar Surface Technologies</title>
+      <link>https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/</link>
+      <description>
+        <![CDATA[Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities.  NASA is seeking feedback on a draft solicitation for the Lunar [&#8230;]]]>
+      </description>
+      <source:markdown>Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities.  NASA is seeking feedback on a draft solicitation for the Lunar \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1012738</guid>
+      <category>Space Technology Mission Directorate</category>
+      <category>Lunar Surface Innovation Initiative</category>
+      <category>Moon Base</category>
+    </item>    <item>
+      <title>In a Scientific First, Researchers Recovered Ancient DNA That Humans Left Behind on Rock Art and Cave Walls</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-scientific-first-researchers-recovered-ancient-dna-that-humans-left-behind-on-rock-art-and-cave-walls-180989038/</link>
+      <description>
+        <![CDATA[DNA preservation on cave walls is highly variable, but scientists say their work is an important step on the path toward gaining a deeper understanding of our creative ancestors]]>
+      </description>
+      <source:markdown>DNA preservation on cave walls is highly variable, but scientists say their work is an important step on the path toward gaining a deeper understanding of our creative ancestors</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/D7R1gtwa-AO1PDqMpdtctsqeP_M=/420x240/filters:focal(700x467:701x468)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/62/176291d2-0e89-49f4-ac74-019b17a8d691/original_2.webp" length="305276" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-scientific-first-researchers-recovered-ancient-dna-that-humans-left-behind-on-rock-art-and-cave-walls-180989038/</guid>
+    </item>    <item>
+      <title>What Breaks a Cell’s Ribs Can Make It Stronger</title>
+      <link>https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/</link>
+      <description>
+        <![CDATA[The mechanical process of cell division exerts powerful, if microscopic, forces. How do the molecular machines that power it manage the strain?            <p>The post <a href="https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/" target="_blank">What Breaks a Cell’s Ribs Can Make It Stronger</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The mechanical process of cell division exerts powerful, if microscopic, forces. How do the molecular machines that power it manage the strain?
+
+The post [What Breaks a Cell’s Ribs Can Make It Stronger](https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=163714</guid>
+      <category>Biology</category>
+    </item>    <item>
+      <title>Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron</title>
+      <link>https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</link>
+      <description>
+        <![CDATA[Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership.  In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB [&#8230;]]]>
+      </description>
+      <source:markdown>Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership.  In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=95612</guid>
+      <category>AI</category>
+      <category>Nemotron</category>
+      <category>NVIDIA AI Enterprise</category>
+      <category>Open Source</category>
+    </item>    <item>
+      <title>Is working from home actually good for you?</title>
+      <link>https://www.npr.org/2026/06/29/nx-s1-5855413/home-work-health-office-social</link>
+      <description>
+        <![CDATA[For many, being able to work from home is a boon: saving time on your commute, working in your sweatpants, throwing in a load of laundry before a meeting. People <em>say</em> it makes them happier. But a new study suggests that, despite all the advantages, working from home isn’t creating a happier workforce. It’s making people more socially isolated. We get into all the details with NPR mental health correspondent <a href="https://www.npr.org/people/578890280/rhitu-chatterjee"target="_blank"   >Rhitu Chatterjee</a>.<br/><br/><em>Interested in more everyday science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at <a href="http://plus.npr.org"target="_blank"   >plus.npr.org</a>.<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>For many, being able to work from home is a boon: saving time on your commute, working in your sweatpants, throwing in a load of laundry before a meeting. People _say_ it makes them happier. But a new study suggests that, despite all the advantages, working from home isn’t creating a happier workforce. It’s making people more socially isolated. We get into all the details with NPR mental health correspondent [Rhitu Chatterjee](https://www.npr.org/people/578890280/rhitu-chatterjee).
+
+_Interested in more everyday science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org).
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/89bd6459-f131-4b2a-8253-49c38620516f/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=89bd6459-f131-4b2a-8253-49c38620516f&feed=F0qJcgXZ&t=podcast&e=nx-s1-5855413&p=510351&d=826&size=13222601" length="13222601" type="audio/mpeg" />
+      <guid>cid://3d1f2b51-7832-45cf-b74c-50e6ec2e03e7</guid>
+    </item>    <item>
       <title>Microsoft capitulates again, extends Windows 10 support by another year</title>
       <link>https://www.osnews.com/story/145377/microsoft-capitulates-again-extends-windows-10-support-by-another-year/</link>
       <description>
@@ -15,6 +107,7 @@
       </description>
       <source:markdown>It’s been quiet for a few days since I’ve been sick, but I’m feeling a bit better since today marks the official end of my one month of using Windows 11 that you people donated for. An article about my experience is definitely upcoming, including whether or not I’ll actually stick with Windows 11 on my laptop or go back to Linux, but before we get there, let’s talk about Microsoft once again capitulating to the reality that a lot of people really don’t want to let go of Windows 10. In a surprising move, Microsoft has quietly confirmed that it’s extending Windows 10 support until October 12, 2027, which is one full year beyond the October 2026 cutoff that home users had been planning around. ↫ Abhijith M B at Windows Latest Hundreds of millions of people are still using Windows 10, and with the “AI” techbros buying up all the RAM and other chips for their pachinko machines – making this whole thing a bit of an own goal for prime “AI” booster Microsoft – buying new PCs that are actually compatible with Windows 11 isn’t exactly a fun prospect for the vast majority of us normal folk dealing with the cost-of-living crisis. As such, Microsoft really doesn’t have any other choice but to keep extending support for Windows 10. It ain’t much, but I’ll take any morsel of justice I can get. While everyone else has to pay for getting access to these Windows 10 updates, users in the European Union get them entirely for free thanks to the Digital Markets Act. This additional year, too, can be partially attributed to the DMA, as the very same consumer rights organisations who pressured Microsoft into giving EU users truly free access to the Extended Security Updates also put pressure on the company to offer these for more than just one year. Basic consumer protection legislation works.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145377</guid>
+      <category>Windows</category>
     </item>    <item>
       <title>Deep in the Mexican Jungle, Archaeologists Discovered a Lost Maya City That May Yield Clues About the Civilization Just Before It Collapsed</title>
       <link>https://www.smithsonianmag.com/smart-news/deep-in-the-mexican-jungle-archaeologists-discovered-a-lost-maya-city-that-may-yield-clues-about-the-civilization-just-before-it-collapsed-180989030/</link>
@@ -68,6 +161,10 @@
       </description>
       <source:markdown>NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?p=1012463</guid>
+      <category>Human Landing System Program</category>
+      <category>Artemis</category>
+      <category>General</category>
+      <category>Marshall Space Flight Center</category>
     </item>    <item>
       <title>NASA Tests New Refuel Device for Future In-Space Refueling Missions</title>
       <link>https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/</link>
@@ -76,6 +173,12 @@
       </description>
       <source:markdown>For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?p=1012259</guid>
+      <category>Cryogenic Fluid Management (CFM)</category>
+      <category>Marshall Space Flight Center</category>
+      <category>Missions</category>
+      <category>Space Technology Mission Directorate</category>
+      <category>Technology Demonstration</category>
+      <category>Technology Demonstration Missions Program</category>
     </item>    <item>
       <title>Norman Rockwell Captured the Hustle of the West Wing in Colorful Drawings Displayed for Decades in the White House. They’re Now on Public View for the First Time</title>
       <link>https://www.smithsonianmag.com/smart-news/norman-rockwell-captured-the-hustle-of-the-west-wing-in-colorful-drawings-displayed-for-decades-in-the-white-house-theyre-now-on-public-view-for-the-first-time-180989025/</link>
@@ -93,6 +196,13 @@
       </description>
       <source:markdown>A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.</source:markdown>
       <guid>cid://https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</guid>
+      <category>Astrophysics</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Neil Gehrels Swift Observatory</category>
+      <category>Robotics</category>
+      <category>Swift Boost Mission</category>
+      <category>The Universe</category>
+      <category>Wallops Flight Facility</category>
     </item>    <item>
       <title>Early Humans May Have Used Fire 1.8 Million Years Ago, Nearly Doubling the Age of the Oldest Known Evidence for the Feat</title>
       <link>https://www.smithsonianmag.com/smart-news/early-humans-may-have-used-fire-1-8-million-years-ago-nearly-doubling-the-age-of-the-oldest-known-evidence-for-the-feat-180989015/</link>
@@ -110,6 +220,8 @@
       </description>
       <source:markdown>NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1012219</guid>
+      <category>Technology</category>
+      <category>Space Technology Mission Directorate</category>
     </item>    <item>
       <title>After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade</title>
       <link>https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/</link>
@@ -120,6 +232,7 @@
 
 The post [After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade](https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
       <guid>cid://https://www.quantamagazine.org/?p=163481</guid>
+      <category>Mathematics</category>
     </item>    <item>
       <title>Euclid Sees Heart of Milky Way</title>
       <link>https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/</link>
@@ -128,6 +241,8 @@ The post [After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgra
       </description>
       <source:markdown>Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1011700</guid>
+      <category>Euclid</category>
+      <category>The Milky Way</category>
     </item>    <item>
       <title>Bringing Signals to NASA</title>
       <link>https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/</link>
@@ -136,6 +251,8 @@ The post [After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgra
       </description>
       <source:markdown>Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?p=1011798</guid>
+      <category>Kennedy Space Center</category>
+      <category>Launch Services Program</category>
     </item>    <item>
       <title>NASA’s PACE Mission Studies Smoke, Fires</title>
       <link>https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/</link>
@@ -238,6 +355,9 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 The post [Thunderbird Monthly Development Digest: June 2026](https://blog.thunderbird.net/2026/06/thunderbird-monthly-development-digest-june-2026/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
       <guid>cid://https://blog.thunderbird.net/?p=4337</guid>
+      <category>Development</category>
+      <category>Development Digest</category>
+      <category>Exchange</category>
     </item>    <item>
       <title>Keep Your Eyes Peeled for Gracie, a Reticulated Giraffe on the Loose in Texas</title>
       <link>https://www.smithsonianmag.com/smart-news/keep-your-eyes-peeled-for-gracie-a-reticulated-giraffe-on-the-loose-in-texas-180989021/</link>
@@ -301,6 +421,8 @@ The post [Thunderbird Monthly Development Digest: June 2026](https://blog.thunde
 
 The post [What Is the Positive Grassmannian and Why Does It Show Up Everywhere?](https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
       <guid>cid://https://www.quantamagazine.org/?p=163520</guid>
+      <category>Mathematics</category>
+      <category>Multimedia</category>
     </item>    <item>
       <title>The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</link>
@@ -309,6 +431,9 @@ The post [What Is the Positive Grassmannian and Why Does It Show Up Everywhere?]
       </description>
       <source:markdown>Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=95467</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
     </item>    <item>
       <title>A Turquoise Tint for the Black Sea</title>
       <link>https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/</link>
@@ -428,6 +553,7 @@ The post [What Is the Positive Grassmannian and Why Does It Show Up Everywhere?]
 
 The post [How Physicists Track and Trap the Elusive Neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
       <guid>cid://https://www.quantamagazine.org/?p=163304</guid>
+      <category>Physics</category>
     </item>    <item>
       <title>This Newly Discovered Spider Builds a Unique Web That Catapults Ants Through the Air</title>
       <link>https://www.smithsonianmag.com/smart-news/this-newly-discovered-spider-builds-a-unique-web-that-sends-ants-catapulting-through-the-air-180989003/</link>
@@ -504,6 +630,10 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94934</guid>
+      <category>AI Infrastructure</category>
+      <category>Cloud</category>
+      <category>Agentic AI</category>
+      <category>NVIDIA Blackwell</category>
     </item>    <item>
       <title>NASA Names Sean Gallagher as Chief Information Officer</title>
       <link>https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/</link>
@@ -529,6 +659,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Every little thing in a graphical user interface that we take for granted today, no matter how small, was thought up by someone, at some point. Case in point: the little red squiggly lines underneath misspelled words. In one form or another, these are everywhere now, and have just become a regular staple of every single text editing field we encounter every single day and don’t stop to think about. Still, they were invented by someone, and we happen to know exactly who that was: Tony Krueger. In early versions of Word, the Spell Check feature was something that you explicitly invoked, and then you had to sit and wait while the program looked for all your potentially-misspelled words, and then showed them to you one at a time for a decision on what to do for each one. Word did introduce an Auto Spell Check feature to run spell check when the user was idle, so that when you hit the Spell Check button, the results were ready to go. However, the Auto Spell Check was still a blocking operation. As a result, a lot of users turned it off because it always seemed to decide “Now would be a good time to spell-check the document” just as you wanted to do something, forcing you to wait for the spell check pass to complete before you could, say, save and exit. Tony made the spell checker much more unobtrusive so that it didn’t interfere with your foreground work. And when it found a problem, instead of waiting for you to trigger a spell check, it immediately drew red squiggles under potentially-misspelled words (and later green squiggles under potential grammatical errors). ↫ Raymond Chen at The Old New Thing Tony Krueger passed away recently, after, among other things, having worked on an dizzying number of Microsoft Word releases. Imagine coming up with something that seems to basic and elementary to us now, and seeing it spread pretty much everywhere. I wonder what it must feel like to have invented something that seems so simple, most people don’t even realise they use it every single day.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145369</guid>
+      <category>Office</category>
     </item>    <item>
       <title>This Magical Curse Written in Greek on a Small Lead Tablet Was Meant to Punish Enemies Nearly 2,000 Years Ago</title>
       <link>https://www.smithsonianmag.com/smart-news/this-magical-curse-written-in-greek-on-a-small-lead-tablet-was-meant-to-punish-enemies-nearly-2000-years-ago-180989001/</link>
@@ -546,6 +677,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>I’ve had my share of issues with network shares on any operating system, but since I mostly use KDE these days I found this deep dive into how, exactly, network shares work in KDE quite interesting. It turns out that while network shares in KDE’s Dolphin mostly work, it does involves a few layers that sometimes don’t interact well with each other, leading to really curious and annoying problems with mounted shares not appearing, permission issues, and so on. The biggest cause of problems is when using a non-KDE application in KDE that also happens to use a non-KDE save/open dialog. Such a non-KDE save/open dialog won’t be able to see any network shared mounted by KDE, and sadly, quite a few applications you’re likely to use on a KDE installation use non-KDE open/save dialogs, like Blender, GIMP, LibreOffice, OnlyOffice, Inkscape, Audacity, DaVinci Resolve, and more. That’s one hell of a list of applications to offer inconsistent or outright broken access to network shares you’ve set up and mounted in KDE. Luckily, this issue seems to be getting a ton of attention soon. All is not lost. Happily, KDE just received an investment of over €1.2 million from the Sovereign Tech Fund, and it includes funding for improvements to KDE’s network share handling! ↫ Nate Graham The project is in the planning phases at the moment, but they’re considering a whole slew of possible changes, fixes, and workarounds to make this stupid and annoying problem just go away. In 2026, nobody should be dealing with manually editing /etc/fstab or getting frustrated over supposedly disappearing network shares.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145367</guid>
+      <category>KDE</category>
     </item>    <item>
       <title>This Giant, Seven-Story Picnic Basket, Once Home to an Iconic American Brand, Could Be Yours for $8.5 Million</title>
       <link>https://www.smithsonianmag.com/smart-news/this-giant-7-story-picnic-basket-once-home-to-icon-american-brand-longaberger-basket-could-be-yours-for-85-million-180988999/</link>
@@ -582,6 +714,9 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 The post [Thundermail June 2026 update: what we learned after the first few waves of invites](https://blog.thunderbird.net/2026/06/thundermail-june-2026-update-what-we-learned-after-the-first-few-waves-of-invites/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
       <guid>cid://https://blog.thunderbird.net/?p=4329</guid>
+      <category>Product</category>
+      <category>tbpro</category>
+      <category>thundermail</category>
     </item>    <item>
       <title>2026 ALA Hyperwall Schedule</title>
       <link>https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/</link>
@@ -652,6 +787,13 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
       </description>
       <source:markdown>Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94905</guid>
+      <category>AI</category>
+      <category>AI Infrastructure</category>
+      <category>Agentic AI</category>
+      <category>Healthcare and Life Sciences</category>
+      <category>Nemotron</category>
+      <category>Nemotron Labs</category>
+      <category>NVIDIA NeMo</category>
     </item>    <item>
       <title>NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers</title>
       <link>https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/</link>
@@ -660,6 +802,10 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
       </description>
       <source:markdown>NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94919</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>Networking</category>
+      <category>Supercomputing</category>
     </item>    <item>
       <title>What can a tornado teach us about kindness?</title>
       <link>https://www.npr.org/2026/06/23/nx-s1-5851643/weather-tornado-catastrophe-compassion</link>
@@ -685,6 +831,18 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy.  The \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94833</guid>
+      <category>AI</category>
+      <category>5G</category>
+      <category>6G</category>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Autonomous Networks</category>
+      <category>Customer Stories</category>
+      <category>Cybersecurity</category>
+      <category>Digital Twin</category>
+      <category>Events</category>
+      <category>Synthetic Data Generation</category>
+      <category>Telecommunications</category>
     </item>    <item>
       <title>Rising Waters Swamp Lake Naivasha</title>
       <link>https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/</link>
@@ -705,6 +863,21 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 The post [Purism Announces Launch of Its Librem 16 Laptop, the World’s Most Private and Secure Workstation](https://puri.sm/posts/librem-16-product-launch/) appeared first on [Purism](https://puri.sm/).</source:markdown>
       <enclosure url="https://videos.puri.sm/librem16/librem16-launch.mp4" length="39811886" type="video/mp4" />
       <guid>cid://https://puri.sm/?p=85563</guid>
+      <category>Additional Press Information</category>
+      <category>Librem 16</category>
+      <category>Press Releases</category>
+      <category>Privacy</category>
+      <category>PureOS</category>
+      <category>Security</category>
+      <category>Consumer Privacy</category>
+      <category>Consumer Protection</category>
+      <category>Laptops</category>
+      <category>most secure computer</category>
+      <category>most secure laptop</category>
+      <category>Press</category>
+      <category>press release</category>
+      <category>Software freedom</category>
+      <category>User empowerment</category>
     </item>    <item>
       <title>NASA Awards Solutions for Federal Enterprise Procurement Contracts</title>
       <link>https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/</link>
@@ -764,6 +937,7 @@ The post [Purism Announces Launch of Its Librem 16 Laptop, the World’s Most Pr
       </description>
       <source:markdown>The developer working on Xfwl4, the Wayland compositor for Xfce, has published the new compositor’s very first alpha release. Considering it’s only been six months or so of work, it’s impressive to see the effort reach this state already. The end goal of xfwl4 is to behave as closely as possible to an Xfce desktop running on an X server. Ideally a user could switch between the two without even knowing there’s a difference. In reality, of course, it won’t be quite that seamless, and there’s still more work to be done to get as close as possible to that ideal. This is a first solid cut at it, at the very least. ↫ Brian Tarricone Being the very first alpha release, it won’t surprise you there’s a few things missing or broken at this point. Still, if you’re brave, you can download and build the release and try it out.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145362</guid>
+      <category>Xfce</category>
     </item>    <item>
       <title>Scientists Identify Swaths of Coral Reefs That Might Be Able to Withstand Climate Change, Offering New Avenues for Conservation</title>
       <link>https://www.smithsonianmag.com/smart-news/scientists-identify-swaths-of-coral-reefs-that-might-be-able-to-withstand-climate-change-offering-new-avenues-for-conservation-180988976/</link>
@@ -790,6 +964,7 @@ The post [Purism Announces Launch of Its Librem 16 Laptop, the World’s Most Pr
       </description>
       <source:markdown>Valve officially made the Steam Machine available (sort of but not really) today, and if you were hoping for the president of the Yacht Collectors’ Club to have found a loophole through the RAM and storage crisis, I’ll be the bearer of bad news: the base Steam Machine model with 512GB of storage and no controller costs $1049 or €1039. It’s clear that this price is significantly higher than Valve had originally anticipated, as the company dedicates the first part of its press announcement to this sticker shock. Steam Machine, like our other hardware products, is made up of many components that we source from manufacturers around the world. The price at which we sell our hardware is a direct result of the cost of these components. We felt like we had a good understanding of how those costs might change over time when we first started sourcing them for Steam Machine back in 2023. That understanding was born from the many years of data we all have about the evolution of PC hardware prices – primarily, that it tends to get cheaper over time as new technology arrives. Over the past year or so, that has changed quickly and significantly, most visibly for RAM and storage components. There are a variety of reasons, all of which are affecting hardware products everywhere. The overall effect is that our original goal for the price of Steam Machine is no longer viable. So the prices we’re sharing today reflect the state of the world for manufacturing; or, more accurately, it reflects the price of the components as we’ve secured them over the past 6 months. Price wasn’t the only thing impacted by all of this: availability was as well. There were periods where we found we couldn’t source some of our components at all, at any price. More than anything else, this has impacted the number of units we’ve been able to produce for launch. ↫ Valve press announcement As Valve mentions, availability is also going to be an issue, and thus they’ve had to settle on a complex reservation and lottery system. Between now and 25 June, you can sign up for a model, after which the entire pool of reservations will be randomised to determine a waitlist order. As machines become available, they will simply go down the list from first to last as determined by that randomisation. In other words, you can’t just go out and buy one right away. At this price and for the hardware the Steam Machine contains – an AMD Zen 4 CPU with 6c/12t up to 4.8 Ghz, a custom RDNA3 GPU, and 16GB of DDR5 RAM and 8GB of DDR6 video RAM – you’re probably better off sticking with what you already have. Until the “AI” bubble pops and prices come down again, that is. Thanks, “AI” techbros. Everybody despises you.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145360</guid>
+      <category>Games</category>
     </item>    <item>
       <title>NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation</title>
       <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/</link>
@@ -832,6 +1007,7 @@ The post [Purism Announces Launch of Its Librem 16 Laptop, the World’s Most Pr
 
 The post [A Dark Dimension Could Link Two of the Universe’s Great Unknowns](https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
       <guid>cid://https://www.quantamagazine.org/?p=163336</guid>
+      <category>Physics</category>
     </item>    <item>
       <title>Two Well-Preserved Roman Busts Were Discovered Inside a Wine Vat in Israel Near the Capital City of a Roman Province</title>
       <link>https://www.smithsonianmag.com/smart-news/two-well-preserved-roman-busts-were-discovered-inside-a-wine-vat-in-israel-near-the-capital-city-of-a-roman-province-180988975/</link>
@@ -849,6 +1025,16 @@ The post [A Dark Dimension Could Link Two of the Universe’s Great Unknowns](ht
       </description>
       <source:markdown>JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94825</guid>
+      <category>AI Infrastructure</category>
+      <category>Supercomputing</category>
+      <category>6G</category>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Climate</category>
+      <category>Healthcare and Life Sciences</category>
+      <category>High-Performance Computing</category>
+      <category>Quantum Computing</category>
+      <category>Science</category>
     </item>    <item>
       <title>NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure</title>
       <link>https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</link>
@@ -857,6 +1043,10 @@ The post [A Dark Dimension Could Link Two of the Universe’s Great Unknowns](ht
       </description>
       <source:markdown>For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management.  NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94851</guid>
+      <category>AI Infrastructure</category>
+      <category>Supercomputing</category>
+      <category>NVIDIA DGX</category>
+      <category>Science</category>
     </item>    <item>
       <title>From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries</title>
       <link>https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</link>
@@ -865,6 +1055,21 @@ The post [A Dark Dimension Could Link Two of the Universe’s Great Unknowns](ht
       </description>
       <source:markdown>At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.  The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94790</guid>
+      <category>AI</category>
+      <category>Software</category>
+      <category>Supercomputing</category>
+      <category>Artificial Intelligence</category>
+      <category>CUDA</category>
+      <category>GPU Computing</category>
+      <category>High-Performance Computing</category>
+      <category>Inference</category>
+      <category>Nemotron</category>
+      <category>NVIDIA Blackwell</category>
+      <category>NVIDIA NeMo</category>
+      <category>NVIDIA NIM</category>
+      <category>Omniverse</category>
+      <category>Open Source</category>
+      <category>Science</category>
     </item>    <item>
       <title>NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory</title>
       <link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
@@ -873,6 +1078,15 @@ The post [A Dark Dimension Could Link Two of the Universe’s Great Unknowns](ht
       </description>
       <source:markdown>Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94818</guid>
+      <category>AI Infrastructure</category>
+      <category>Supercomputing</category>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>High-Performance Computing</category>
+      <category>NVIDIA Rubin</category>
+      <category>NVIDIA Vera</category>
+      <category>Public Sector</category>
+      <category>Science</category>
     </item>    <item>
       <title>Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins</title>
       <link>https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</link>
@@ -882,6 +1096,16 @@ The post [A Dark Dimension Could Link Two of the Universe’s Great Unknowns](ht
       <source:markdown>The next era of AI will not be defined by compute alone. Its growth will be determined by energy.  As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed.  In many regions, expanding grid \[…\]</source:markdown>
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/EWP-project-and-digital-twin-from-NVIDIA-Keynote.mp4" length="2398728" type="video/mp4" />
       <guid>cid://https://blogs.nvidia.com/?p=94802</guid>
+      <category>AI</category>
+      <category>Supercomputing</category>
+      <category>AI Factory</category>
+      <category>Artificial Intelligence</category>
+      <category>Climate</category>
+      <category>Customer Stories</category>
+      <category>Digital Twin</category>
+      <category>Energy</category>
+      <category>Inception</category>
+      <category>Omniverse</category>
     </item>    <item>
       <title>Inside the mysterious minds of  horses</title>
       <link>https://www.npr.org/2026/06/22/nx-s1-5819876/science-brain-mind-horse</link>
@@ -908,6 +1132,10 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. \[…\]</source:markdown>
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/LiquidCoolingInfra_montage_v4.mp4" length="11197441" type="video/mp4" />
       <guid>cid://https://blogs.nvidia.com/?p=94841</guid>
+      <category>AI Infrastructure</category>
+      <category>AI Factory</category>
+      <category>Energy</category>
+      <category>NVIDIA Rubin</category>
     </item>    <item>
       <title>Signs of Thaw in the Bering Sea</title>
       <link>https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/</link>
@@ -924,6 +1152,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>In macOS, you can apparently create files and directories in the Finder with names that include slashes. If you then go into the terminal and take a look with ls, you’ll see that the slashes are actually colons. I don’t understand all the nuances, but I know this is a side-effect of the fact that macOS has not one but two path separators: the slash (/) and the colon (:). The two separators are used in different contexts, and the system will translate between them as needed. These two separators reflect the two parent systems of modern macOS: classic Mac OS and the Unix-like NeXTSTEP. When they were joined together, Apple’s engineers had to build a file system that was compatible with both the classic Mac’s file system (the Mac OS Extended File System, aka HFS+), and with NeXTSTEP’s file system (the Unix file system, aka UFS). Among other differences, these systems had different path separators: HFS+ used a colon, while UFS used a slash. ↫ Alex Chan (article from 2021) I had no idea macOS worked this way, but it makes sense considering the platform’s dual history. What’s interesting is that when Apple moved to APFS almost a decade ago, this duality in path separators remained, most likely for backwards compatibility reasons. In a sense, this is somewhat similar to Windows supporting both backward and forward slashes, with the former being a leftover from DOS, and the latter an addition (to Windows) from the UNIX world. None of that beats Windows when using the Japanese or Korean locale, though. Because Japanese and Korean Windows use different codepages than Windows in the Americas and Western Europe, these versions of Windows render the backslash as the yen sign (¥) and and won (₩) sign respectively. As such, something like the Program Files directory actually renders like C:¥Program Files¥ and C:₩Program Files₩. Similar issues occurred in other Windows locales as well, but the impact of this in Japan and South Korea were so widespread that people just expect it to be that way, even if it’s easily fixed today. I can’t find if Windows 11 still uses ¥/₩ in Japan/South Korea, since the last references of it I can quickly uncover all point to Windows 10.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145356</guid>
+      <category>macOS</category>
     </item>    <item>
       <title>Apple internals: Swift in the kernel</title>
       <link>https://www.osnews.com/story/145352/apple-internals-swift-in-the-kernel/</link>
@@ -932,6 +1161,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Apple’s Swift has become the de-facto language for Apple’s own developers for a while now, and it seems that with the new operating system releases from the company unveiled during WWDC, Switch is now also being used in the kernel. Naturally I dropped what I was doing and went grepping through the iOS 27 kernelcache. Alas, nothing came of it. All is not lost though: I found the Embedded Swift runtime in macOS 27, sitting in com.apple.kec.pthread of all places. Then I went poking around the root filesystem and it turns out Apple gave the whole effort a name: KernelKit. Let’s dissect it. ↫ Josh Maine It’s still quite limited at this time, which makes sense – you don’t want to be too crazy with the core of the operating system that runs on god knows how many PCs, smartphones, and other devices. It’s also entirely contained within a few kexts as embedded runtimes, and the XNU kernel itself remains entirely C and C++.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145352</guid>
+      <category>Apple</category>
     </item>    <item>
       <title>“I stored a website in a favicon”</title>
       <link>https://www.osnews.com/story/145350/i-stored-a-website-in-a-favicon/</link>
@@ -940,6 +1170,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Every website has a favicon. It’s that little icon in your browser tab. Usually you upload it once and then never think about it again. But. A favicon is just an image. An image is just pixels. And pixels are just bytes. So of course I wondered if I could store something inside one. ↫ Tim Wehrle I love it when people do something useless just for fun.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145350</guid>
+      <category>Internet</category>
     </item>    <item>
       <title>What was nice about the UI of Windows 2000</title>
       <link>https://www.osnews.com/story/145346/what-was-nice-about-the-ui-of-windows-2000/</link>
@@ -948,6 +1179,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>I mean, this is preaching to the choir, but let’s go anyway. I liked the UIs of the entire era from 3.0 to 2000, really. I’m mostly using Windows 2000 as an example here because it runs so well in QEMU/KVM and that allows me to easily take screenshots. Some of the following will sound absolutely trivial, but I think it’s worth pointing out. ↫ movq.de blog Just a series of observations about how much better graphical user interfaces were back in the ’90s and early 2000s. We’ve lost so many affordances based on both common sense and scientific study, and what we ended up with is a confusing, inconsistent mess. It doesn’t really matter where you look – user interface design has deteriorated since the early 2000s, a decline that only accelerated thanks to the arrival of the iPhone, where consistency is a dirty word, and the web, where the advertising people took prominence over the design people. I just want my buttons to look like buttons man.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145346</guid>
+      <category>Windows</category>
     </item>    <item>
       <title>Archaeologists Discover Evidence That a Wooden Prototype for Stonehenge May Have Aligned With the Solstice 500 Years Before the Stone Circle</title>
       <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-evidence-a-wooden-prototype-for-stonehenge-may-have-aligned-with-the-solstice-500-years-before-the-stone-circle-180988988/</link>
@@ -965,6 +1197,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>A fascinating novel approach by researchers at MIT, called Fractal, to study in-depth how processors actually work. A team at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) decided to build something different. Fractal, an operating system kernel written from the ground up, treats the hardware itself as the object of study. Its first major use, a deep look at branch predictors — a CPU’s way of guessing what code to run next, before it knows for certain, so it doesn’t have to waste time waiting to find out — inside Apple’s M1 processor, has already turned up findings that prior work missed, including the first evidence that a class of speculative attack known as “Phantom” affects Apple Silicon. “We’re using hardware in ways it wasn’t designed for,” says Joseph Ravichandran, the MIT PhD student in electrical engineering and computer science (EECS) who led the project. “It’s not even obvious that this is a possible thing you could do with the hardware. But we found a way to pull all these different primitives off. It’s like a microscope. If you’ve got a hand magnifying glass, you can see a little bit. But if you had an electron microscope, now we’re really talking. That’s what Fractal is. The electron microscope of operating systems.” ↫ Rachel Gordon at MIT News While Fractal is small, its creators also added POSIX system calls, a C library, vim, GCC, a shell, and more. This way, it feels more familiar, and makes it easier for researchers to get started with the tool. Fractal is open source and hosted on GitHub, it has its own website, and there’s a detailed research paper with more in-depth information.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145342</guid>
+      <category>OS News</category>
     </item>    <item>
       <title>Why scientists launched two little robots to the moon</title>
       <link>https://www.npr.org/2026/06/19/nx-s1-5856562/space-moon-robots-transforming</link>
@@ -1006,6 +1239,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Five years after releasing the Amiga 1000, Commodore was about to launch the Amiga 3000, their first real high-end Amiga. With a 68030 processor, on-board SCSI and a slightly updated graphics chipset, all in a sleek desktop case, the Amiga was truly ready for the era of professional 32-bit computing. But Moore’s law wasn’t the only thing thad had been pressuring Commodore since the release of the Amiga 1000: The desktop metaphor had matured even further, and the competition had been hard at work. IBM had launched OS/2, Windows 3.0 had turned Microsoft’s offering from a proof of concept into something actually usable, and new players had entered the scene – among them NeXTStep, with its polished 3D look. It was time to bring AmigaOS, too, into the 1990s. ↫ Carl Svensson It’s interesting – there’s a lot of focus on the first version of the Amiga operating system and the third one, but you don’t hear a lot about AmigaOS 2.x. It turns out this is rather odd, because as Svensson details, this version came with an absolute ton of changes and improvements, from an entirely new widget toolkit to a brand new file system, and so much more. The new widget toolkit and accompanying style guide also ensured that the operating system looked, felt, and behaved consistently. Remember when we cared about that? There’s so much more cool features, though, like command history, line editing, universal clipboard support and more just for the CLI, as well as something called Commodities. These were tiny little programs managed from a central location, which didn’t even need a GUI to work. Commodities included by default were things like ClickToFront, a focus-follows-mouse option, and more. Oh and of course, BASIC was replaced by ARexx. The list just keeps going, and you should really read Svensson’s article.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145337</guid>
+      <category>Amiga &#38; AROS</category>
     </item>    <item>
       <title>NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere</title>
       <link>https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/</link>
@@ -1057,6 +1291,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid.  In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94782</guid>
+      <category>AI Infrastructure</category>
+      <category>Corporate</category>
+      <category>Economic Development</category>
+      <category>Energy</category>
+      <category>Public Sector</category>
     </item>    <item>
       <title>This Photography Studio Captured the Beauty of Black Life in the South. Soon Its Archive, Once Hidden Away, Will Have a New Museum Home</title>
       <link>https://www.smithsonianmag.com/smart-news/this-photography-studio-hooks-brothers-captured-the-beauty-of-black-life-in-the-south-soon-its-archive-once-hidden-away-will-have-a-new-museum-home-180988982/</link>
@@ -1170,6 +1409,12 @@ The post [Why the Human Genome’s Tangled Physicality May Confound AI](https://
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/higgsfield-agent-workflow.mp4" length="20088657" type="video/mp4" />
       <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/06/KERV-metadata-motiongraphic-fix.mp4" length="4005880" type="video/mp4" />
       <guid>cid://https://blogs.nvidia.com/?p=94755</guid>
+      <category>AI</category>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Events</category>
+      <category>NVIDIA DGX</category>
+      <category>Recommender Systems</category>
     </item>    <item>
       <title>Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/</link>
@@ -1178,6 +1423,10 @@ The post [Why the Human Genome’s Tangled Physicality May Confound AI](https://
       </description>
       <source:markdown>Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94725</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+      <category>GeForce RTX</category>
     </item>    <item>
       <title>Hubble Glimpses Merging Galaxy Clusters</title>
       <link>https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/</link>
@@ -1203,6 +1452,7 @@ The post [Why the Human Genome’s Tangled Physicality May Confound AI](https://
       </description>
       <source:markdown>Oracle is sticking to its promise of more regular Solaris updates with the release of Oracle Solaris 11.4 SRU93. This release, like other SRU releases, is for paying Solaris customers, as the CBE releases for enthusiasts are on a different cadence. With Solaris’ focus being on enterprise server environments, it should come as no surprise that most of the changes and improvements are focused on things like enterprise networking and security, such as changes to how policy settings for the Kernel Crypto Framework (KCF) are stored, moving from using RPC over sockets instead of STREAMS, and more.  Of course, there’s also the long list of updated open source packages. SRU 93.221.2 updates a broad set of platform, runtime, developer, networking, desktop, and open source components. Notable updates include Apache Tomcat to 9.0.116, bash to 5.3 patch 9, BIND to 9.20.18 and 9.20.21, Django 4.2 to 4.2.30, Django 5.2 to 5.2.13, Firefox to 140.8.0esr, Golang to 1.25.8, Node.js 20 to 20.20.2, Node.js 22 to 22.22.2, Node.js 24 to 24.14.1, NSS to 3.119.1, Perl to 5.42, Python 3.11 to 3.11.15, Python 3.13 to 3.13.12, RabbitMQ to 4.2.4, Thunderbird to 140.8.0esr, vim to 9.2.0340, and zlib to 1.3.2. Additional updates include development tools, Python modules, X11 utilities, printing components, libraries, cryptographic packages, networking tools, and desktop-related packages. ↫ Colin Kavanagh at the Oracle Solaris Blog Existing Oracle Solaris customers can update to the new release through pkg update.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145335</guid>
+      <category>In the News</category>
     </item>    <item>
       <title>France Advances Europe’s AI Future With NVIDIA Technologies</title>
       <link>https://blogs.nvidia.com/blog/france-advances-europes-ai-future/</link>
@@ -1211,6 +1461,11 @@ The post [Why the Human Genome’s Tangled Physicality May Confound AI](https://
       </description>
       <source:markdown>A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94747</guid>
+      <category>AI Infrastructure</category>
+      <category>Agentic AI</category>
+      <category>Nemotron</category>
+      <category>NVIDIA in Europe</category>
+      <category>Open Source</category>
     </item>    <item>
       <title>El Niño Is Underway</title>
       <link>https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/</link>
@@ -1227,6 +1482,7 @@ The post [Why the Human Genome’s Tangled Physicality May Confound AI](https://
       </description>
       <source:markdown>Yesterday, Google released Android 17 to Pixel devices, so late last night I updated my Pixel 10 Pro with the intent to write a news item about the release today. The reality is that that I totally forgot I even upgraded last night, because Android 17 is about the biggest nothingburger I’ve ever seen. Virtually all of the new features listed in the upgrade blurb on my phone were “AI” nonsense I don’t encounter, so over the course of the day, I didn’t really notice anything new about my phone’s operating system. The only interesting feature that I think will be particularly useful on tablets and perhaps foldable devices is something called “App Bubbles”. Basically, you can turn any application into an overlay that can be minimised into a bubble, which then lives anywhere on your screen. Tap it, and you can maximise the overlay again. This little multitasking bubble can contain multiple applications, effectively making it a dock or taskbar. Neat, but I didn’t see much use for it on my phone. The remainder of the new non-“AI” features are hard to spot, at best. I guess the ability to turn one half of a foldable display into a gamepad is neat if you can deal with gaming on glass buttons (I cannot), and the changes to location access (you can now grant it for just one time) and contacts access (it’s more fine-grained and temporary now instead of granting access to everything forever) are welcome, but that’s about it for user-facing features. Under the hood, the one thing that stands out is that Google is enforcing stricter memory limits for applications, based on how much RAM a device has. The idea is that this should prevent memory leaks from getting out of control and leading to crashes, which is nice, especially for devices with less RAM. Android 17 is available for Pixel devices now, and will probably find its way to non-Pixel devices over the coming months or years. With how little meat there is on Android 17’s bones, this might be the first release where Android’s update woes don’t really matter.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145329</guid>
+      <category>Android</category>
     </item>    <item>
       <title>NASA Announces Public-Private Partnership to Advance Mars Science</title>
       <link>https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/</link>
@@ -1356,6 +1612,15 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=94578</guid>
+      <category>Pro Graphics</category>
+      <category>Artificial Intelligence</category>
+      <category>CloudXR</category>
+      <category>Digital Twin</category>
+      <category>Hardware</category>
+      <category>Industrial and Manufacturing</category>
+      <category>Rendering</category>
+      <category>Simulation and Design</category>
+      <category>Virtual Reality</category>
     </item>    <item>
       <title>Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone</title>
       <link>https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</link>
@@ -1397,6 +1662,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>The KDE team released KDE Plasma 6.7 today, and with it comes a long list of improvements, new features, bug fixes, new old themes, and so much more. A new feature that is sure to please those among us who use virtual desktops: you can now have different virtual desktop setups per display. It’s been a long-requested feature, so it’s great to see it makes its way to the KDE users. I despise virtual desktops, but I’m happy to see something that I assumed was already part of KDE to finally actually become available. Another major feature in KDE Plasma 6.7 is something we’ve already talked about: the return of the classic Oxygen and Air themes from the KDE 4.x days. These themes have seen extensive work over the past year or so to make them usable on the latest KDE release, which includes tons of bug fixes, visual nips and tucks, and countless additions to the collection of assets required to make a modern KDE theme look complete. This includes a ton of new icons in the old styles, light and dark modes, accent colour support, and much more. There’s still work left here, including adding support for QtQuick/Kirigami applications – which brings us to the next major new addition to KDE 6.7 This is also something we’ve already talked about: Union. I won’t repeat what I already explained last time Union came up, but suffice it to say that Union effectively unifies the various different ways KDE applications are themed, allowing theme designers to use relatively standard CSS to create themes that cover every aspect of the KDE user experience. Before Union, theme designers had to create individual, unique themes for a variety of parts of KDE – the Plasma desktop, QtWidgets using QStyle, QtQuick/Kirigami – which was a ton of work, and in the case of QtQuick/Kirigami, wasn’t really possible at all. As such, without Union, KDE’s theming is essentially broken, and Union fixes that. For now, Union is not enabled by default, and must be installed and enabled separately for testing. Of course, there’s a ton of other smaller new features, changes, and bug fixes as well. KDE Plasma 6.7 will find its way to your distribution soon enough.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145325</guid>
+      <category>KDE</category>
     </item>    <item>
       <title>Apple adds keylogger to iOS App Store for targeted advertising: tied to your account and unencrypted</title>
       <link>https://www.osnews.com/story/145322/apple-adds-keylogger-to-ios-app-store-for-targeted-advertising-tied-to-your-account-and-unencrypted/</link>
@@ -1405,6 +1671,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>A week or so ago, Apple announced a bunch of features for the App Store on iOS, including personalised recommendations based on your activity and usage of iOS. It turns out this includes a keylogger (taplogger?) in the App Store, which records every single tap you make, every single letter you enter, and a lot of other information. All of this information is unencrypted and sent to Apple. Now Apple is putting the extensive identifiable analytics they collect in the App Store in action. They record every tap and there’s no way to turn it off. They can even calculate your typing speed. ↫ Michael Tsai, quoting Mysk The provided screenshots of the data collected are terrifying, especially because the data is unencrypted, sent to Apple, and fully tied to your user account. Apple clearly wants a slice of that big, juicy advertising pie, and they, too, are discovering that the easiest and best way to serve targeted ads is to collect as much data as they can about you. Of course, this is something the entire internet (but not OSNews!) and several megacorporations are built on by now, but Apple has been incredibly sanctimonious about how it supposedly actually cares about user privacy, making this keylogger yet another case of Apple’s hypocrisy on full display. Of course, if you care about privacy, you’re entirely free to download your iOS applications from somewhere other than the App Store and install them yours… Oh, wait.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145322</guid>
+      <category>Apple</category>
     </item>    <item>
       <title>NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation</title>
       <link>https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/</link>
@@ -1495,6 +1762,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Another story from the good old days from Raymond Chen. During an exchange of war stories, a colleague of mine told one from back in the days when Windows included a processor emulator for x86-32 on systems that natively ran some other processor. (This has happened many times. And no, I don’t know which processor this particular story applied to.) ↫ Raymond Chen at The Old New Thing So the core of the story comes down to this: All in all, it took this program 256 kilobytes of code to initialize 64 kilobytes of data. ↫ Raymond Chen at The Old New Thing The people working on Windows were so offended by this, they added code to the processor emulator just to fix this program.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145320</guid>
+      <category>Windows</category>
     </item>    <item>
       <title>FreeBSD 15.1 released</title>
       <link>https://www.osnews.com/story/145318/freebsd-15-1-released/</link>
@@ -1522,6 +1790,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 The post [Mobile Progress Report: June 2026](https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
       <guid>cid://https://blog.thunderbird.net/?p=4319</guid>
+      <category>Development</category>
+      <category>Android</category>
+      <category>Android Progress Report</category>
+      <category>iOS</category>
+      <category>K-9 Mail</category>
     </item>    <item>
       <title>You Can Now See Betsy Ross’ Sewing Table in Philadelphia, Thanks to a Flag Day Donation From Her Great-Great-Great-Great Grandson</title>
       <link>https://www.smithsonianmag.com/smart-news/you-can-now-see-betsy-ross-sewing-table-in-philadelphia-thanks-to-a-flag-day-donation-from-her-great-great-great-great-grandson-180988963/</link>
@@ -2648,38 +2921,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Forgejo v15 was released, along with security releases. The Forgejo Security Team responds to community concerns. The Forgejo Runner had multiple releases, the Forgejo Helm chart v17 was released and the Forgejo v16 release is progressing.</source:markdown>
       <guid>cid://https://forgejo.org/2026-05-monthly-report/</guid>
-    </item>    <item>
-      <title>NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</link>
-      <description>
-        <![CDATA[NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94133</guid>
-    </item>    <item>
-      <title>Using Fedora Silverblue for compositor development</title>
-      <link>https://www.osnews.com/story/145228/using-fedora-silverblue-for-compositor-development/</link>
-      <description>
-        <![CDATA[I’ve been using Fedora Silverblue on my desktop and laptop for the past, what, five years? Silverblue is Fedora’s main atomic variant, a spiritual counterpart to Fedora Workstation. I also make niri, a scrollable-tiling Wayland compositor. In other words, a core system component that you cannot properly test from inside a container or VM—you really want it directly on the host. So, why would I choose an… immutable distro? How does that even work? ↫ Ivan Molodetskikh That&#8217;s a great question, and as immutable or immutable-like Linux distributions become more popular and widespread &#8211; and eventually the default download option for many distributions, I&#8217;m sure &#8211; articles like these are quite important. I&#8217;m sure quite a few developers discarded the idea of using something like Silverblue because they assumed it wouldn&#8217;t be fit for purpose, but if the developer of Niri makes it work, I&#8217;m fairly sure anybody can.]]>
-      </description>
-      <source:markdown>I’ve been using Fedora Silverblue on my desktop and laptop for the past, what, five years? Silverblue is Fedora’s main atomic variant, a spiritual counterpart to Fedora Workstation. I also make niri, a scrollable-tiling Wayland compositor. In other words, a core system component that you cannot properly test from inside a container or VM—you really want it directly on the host. So, why would I choose an… immutable distro? How does that even work? ↫ Ivan Molodetskikh That’s a great question, and as immutable or immutable-like Linux distributions become more popular and widespread – and eventually the default download option for many distributions, I’m sure – articles like these are quite important. I’m sure quite a few developers discarded the idea of using something like Silverblue because they assumed it wouldn’t be fit for purpose, but if the developer of Niri makes it work, I’m fairly sure anybody can.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145228</guid>
-    </item>    <item>
-      <title>x86CSS: a working CSS-only x86 CPU/emulator/computer</title>
-      <link>https://www.osnews.com/story/145224/x86css-a-working-css-only-x86-cpu-emulator-computer/</link>
-      <description>
-        <![CDATA[x86CSS is a working CSS-only x86 CPU/emulator/computer. Yes, the Cascading Style Sheets CSS. No JavaScript required. What you&#8217;re seeing above is a C program that was compiled using GCC into native 8086 machine code being executed fully within CSS. ↫ Lyra Rebane Hand-written CSS, no JavaScript, and effectively no HTML. Wizardry.]]>
-      </description>
-      <source:markdown>x86CSS is a working CSS-only x86 CPU/emulator/computer. Yes, the Cascading Style Sheets CSS. No JavaScript required. What you’re seeing above is a C program that was compiled using GCC into native 8086 machine code being executed fully within CSS. ↫ Lyra Rebane Hand-written CSS, no JavaScript, and effectively no HTML. Wizardry.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145224</guid>
-    </item>    <item>
-      <title>NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs</title>
-      <link>https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/</link>
-      <description>
-        <![CDATA[At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — [&#8230;]]]>
-      </description>
-      <source:markdown>At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94143</guid>
     </item>
   </channel>
 </rss>
