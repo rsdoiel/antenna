@@ -423,3 +423,5 @@ description: Blogs, columns and snapshots from around the web.
 - [BAIR @ Berkley Blog](https://bair.berkeley.edu/blog/feed.xml)
 - [Corin Wagen blog](https://cwagen.substack.com/p/tool-use-and-ai-scientists/feed/)
 - [Swiss Storage](https://storageswiss.com/feed/)
+
+- [Fali Wang's blog](https://fairyfali.github.io/feed.xml)
