@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>29 Jun 26 09:04 -0700</dateCreated>
+        <dateCreated>30 Jun 26 06:43 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -110,6 +110,7 @@
         <outline text="Eric Weber Blog" type="rss" xmlUrl="https://ericdataproduct.substack.com/feed" htmlUrl="https://ericdataproduct.substack.com,https://ericdataproduct.substack.com/feed" description="A place for insight about the intersection of data, product, and AI for data, engineering, and product leaders and practitioners." url="https://ericdataproduct.substack.com/feed"></outline>
         <outline text="Ethan Marcotte Blog" type="atom" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml" htmlUrl="https://ethanmarcotte.com/wrote/feed.xml,https://ethanmarcotte.com" description="Ethan Marcotte is an independent designer, speaker, and author, and the creator of “responsive web design.” This is his website." url="https://ethanmarcotte.com/wrote/feed.xml"></outline>
         <outline text="Experimental TV Center, Lanesville NY" type="rss" xmlUrl="https://www.experimentaltvcenter.org/feed/" htmlUrl="https://www.experimentaltvcenter.org,https://www.experimentaltvcenter.org/feed/" url="https://www.experimentaltvcenter.org/feed/"></outline>
+        <outline text="Fali Wang&#39;s blog" type="atom" xmlUrl="https://fairyfali.github.io/feed.xml" htmlUrl="https://fairyfali.github.io/feed.xml,https://fairyfali.github.io/" description="Ph.D. student at IST, The Pennsylvania State University" url="https://fairyfali.github.io/feed.xml"></outline>
         <outline text="Feed for Alt USDS" type="rss" xmlUrl="https://bsky.app/profile/did:plc:fuovrvjiloafdym65x3oloqc/rss" htmlUrl="https://bsky.app/profile/altusds.altgov.info" description="The official resistance team of the U.S. Digital Service. We are the Builders. #AltGov&#xA;&#xA;Send your stories: submissions@wethebuilders.org&#xA;&#xA;https://www.wethebuilders.org/&#xA;https://givebutter.com/WTB"></outline>
         <outline text="Fix the News" type="rss" xmlUrl="https://fixthenews.com/feed" htmlUrl="https://fixthenews.com,https://fixthenews.com/feed" description="Fix The News is the world&#39;s leading solutions journalism newsletter. We share hidden stories of progress with readers from 195 countries, and donate 30% of our revenues from our paid subscriptions to charity." url="https://fixthenews.com/feed"></outline>
         <outline text="Fox Hound Systems Blog" type="rss" xmlUrl="https://www.foxhound.systems/blog/rss.xml" htmlUrl="https://www.foxhound.systems,https://www.foxhound.systems/blog/rss.xml" description="Foxhound Systems is a software development company that specializes in building reliable, high performance web applications with superior security." url="https://www.foxhound.systems/blog/rss.xml"></outline>

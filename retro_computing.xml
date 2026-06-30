@@ -4,10 +4,41 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>29 Jun 26 09:06 -0700</lastBuildDate>
+    <lastBuildDate>30 Jun 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Linux Gamers May Soon See Less Mouse Lag in KDE Plasma</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-Gamers-May-Soon-See-Less-Mouse-Lag-in-KDE-Plasma</link>
+      <description>
+        <![CDATA[<p>Gamers using KDE’s Plasma desktop have been suffering from a slight input delay in mouse movement that could lead to getting fragged.</p>]]>
+      </description>
+      <source:markdown>Gamers using KDE’s Plasma desktop have been suffering from a slight input delay in mouse movement that could lead to getting fragged.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://5d0e01b02503df2b7362b03323735982</guid>
+    </item>    <item>
+      <title>b.log 2026/06/29 - Exactly what I thought would happen, RISC OS WiFi, Random rant about version numbers, I was not so great last night, A political rant.</title>
+      <link>https://heyrick.eu/blog/entry/20260629</link>
+      <description>
+        <![CDATA[Exactly what I thought would happen, RISC OS WiFi, Random rant about version numbers, I was not so great last night, A political rant.]]>
+      </description>
+      <source:markdown>Exactly what I thought would happen, RISC OS WiFi, Random rant about version numbers, I was not so great last night, A political rant.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260629</guid>
+    </item>    <item>
+      <title>FreeDOS is 32 years old</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/06/freedos-is-32-years-old/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>It was 32 years ago today (June 29, 1994) that we <a href="https://groups.google.com/g/comp.os.msdos.apps/c/oQmT4ETcSzU/m/O1HR8PE2u-EJ" rel="nofollow">announced</a> what became the FreeDOS Project. We welcome everyone to contribute by <a href="https://www.freedos.org/about/devel/" rel="nofollow">writing code</a>, <a href="https://www.freedos.org/bugs/" rel="nofollow">testing</a>, debugging, documenting, <a href="https://shidel.github.io/fd-nls/report.html" rel="nofollow">translating</a>, advocating, .. or anything else that helps FreeDOS. Also join the <a href="https://www.freedos.org/forums/" rel="nofollow">email list</a>: developers hang out on freedos-devel, general questions are on freedos-user.</p>
+        <p>You can celebrate the FreeDOS anniversary by reading one of our <a href="https://www.freedos.org/books/" rel="nofollow">open books</a> or reading any of these recent articles about FreeDOS: <a href="https://www.both.org/?p=14240" rel="nofollow">How FreeDOS got started</a>, <a href="https://www.both.org/?p=14054" rel="nofollow">A gentle introduction to FreeDOS commands</a>, <a href="https://www.both.org/?p=14044" rel="nofollow">Using variables in FreeDOS</a>, <a href="https://www.both.org/?p=14051" rel="nofollow">Customize FreeDOS with FDCONFIG·SYS</a>, <a href="https://www.both.org/?p=14056" rel="nofollow">Try the FED editor on FreeDOS</a>, or this series of articles about DOS filenames: <a href="https://www.both.org/?p=14209" rel="nofollow">part 1</a>, <a href="https://www.both.org/?p=14211" rel="nofollow">part 2</a>, <a href="https://www.both.org/?p=14277" rel="nofollow">part 3</a>. Watch Jim's presentation <a href="https://www.youtube.com/watch?v=G3kFJg1pgrg" rel="nofollow">about FreeDOS community</a> from DevFest'25. Buy a tshirt, sticker, or other items from the <a href="https://www.zazzle.com/store/freedos" rel="nofollow">FreeDOS store on Zazzle</a>. You can also buy a copy of Pat Villani's 1996 book about <a href="https://www.routledge.com/FreeDOS-Kernel-An-MS-DOS-Emulator-for-Platform-Independence-amp-Embedded-System-Development/Villani/p/book/9780879304362" rel="nofollow">The FreeDOS Kernel</a>.</p>
+        <p>If you'd like to see where it all started, I have shared the <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/pre-1.0/" rel="nofollow">Alpha5 and Beta1</a> "distributions" on Ibiblio. These were very early and require a minimal DOS environment to start from.</p></div>]]>
+      </description>
+      <source:markdown>It was 32 years ago today (June 29, 1994) that we [announced](https://groups.google.com/g/comp.os.msdos.apps/c/oQmT4ETcSzU/m/O1HR8PE2u-EJ) what became the FreeDOS Project. We welcome everyone to contribute by [writing code](https://www.freedos.org/about/devel/), [testing](https://www.freedos.org/bugs/), debugging, documenting, [translating](https://shidel.github.io/fd-nls/report.html), advocating, .. or anything else that helps FreeDOS. Also join the [email list](https://www.freedos.org/forums/): developers hang out on freedos-devel, general questions are on freedos-user.
+
+You can celebrate the FreeDOS anniversary by reading one of our [open books](https://www.freedos.org/books/) or reading any of these recent articles about FreeDOS: [How FreeDOS got started](https://www.both.org/?p=14240), [A gentle introduction to FreeDOS commands](https://www.both.org/?p=14054), [Using variables in FreeDOS](https://www.both.org/?p=14044), [Customize FreeDOS with FDCONFIG·SYS](https://www.both.org/?p=14051), [Try the FED editor on FreeDOS](https://www.both.org/?p=14056), or this series of articles about DOS filenames: [part 1](https://www.both.org/?p=14209), [part 2](https://www.both.org/?p=14211), [part 3](https://www.both.org/?p=14277). Watch Jim&#39;s presentation [about FreeDOS community](https://www.youtube.com/watch?v=G3kFJg1pgrg) from DevFest&#39;25. Buy a tshirt, sticker, or other items from the [FreeDOS store on Zazzle](https://www.zazzle.com/store/freedos). You can also buy a copy of Pat Villani&#39;s 1996 book about [The FreeDOS Kernel](https://www.routledge.com/FreeDOS-Kernel-An-MS-DOS-Emulator-for-Platform-Independence-amp-Embedded-System-Development/Villani/p/book/9780879304362).
+
+If you&#39;d like to see where it all started, I have shared the [Alpha5 and Beta1](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/pre-1.0/) &#34;distributions&#34; on Ibiblio. These were very early and require a minimal DOS environment to start from.</source:markdown>
+      <guid>cid://https://sourceforge.netb3c2370ccb0470d1be7eab1e6e5ba2b947ecbd1e</guid>
+    </item>    <item>
       <title>WROCC July 2026 talk on Wednesday</title>
       <link>http://www.iconbar.com/comments/rss/news2342.html</link>
       <description>
@@ -89,7 +120,7 @@ As ever, a huge thank you to the fans, especially the 99 generous individuals an
         <p>
         Despite leadership's strong interest in semiconductors, foreign processor designs nevertheless dominated in China throughout the 1990s; the lack of cutting-edge fabrication and design capacity made early industry leads insurmountable, and by the beginning of the second millenium established players like ARM and Intel held commanding market shares on the mainland as well. As a result, although more limited native microprocessor designs and clones had previously existed, a Chinese-developed CPU that was in any sense competitive with market leaders took decades to emerge. In 2001 the Institute of Computing Technology (ICT) at the Chinese Academy of Sciences (CAS) under chief architect Hu Weiwu began work on a new higher-performance chip as their own attempt, funded by the Tenth Five-Year Plan and the continuation of the 863 Program, now transformed into a long-term R&amp;D pipeline under Jiang Zemin.
         <p>
-        Officially called &#40857;&#33455;, which would usually be transliterated in Pinyin as <i>L&oacute;ngx&imacr;n</i> and translated as "dragon core," the developers gave it the similar-sounding transliteration of <i>G&#466;ds&oacute;n</i>, which comes out something like "dog food" <!-- 狗食 --> or "food fit for dogs" <!-- CGTN --> &mdash; however, I note there are many puns in Chinese, and this pasty white boy with a dictionary and a linguistics degree is probably not doing this one justice. Assuming this meaning, the intentional dysphemism likely came from the old superstition of giving bad names to children so that evil spirits would be disinclined to harm them, such that the new chip could survive its own infancy, but also fits neatly with the idea of <a href="https://en.wikipedia.org/wiki/Eating_your_own_dog_food">eating your own dog food</a>.
+        Officially called &#40857;&#33455;, which would usually be transliterated in Pinyin as <i>L&oacute;ngx&imacr;n</i> and translated as "dragon core," the developers gave it the similar-sounding transliteration of <i>G&#466;ds&ograve;n</i>, which comes out something like "dog food" <!-- 狗食 also maybe 狗剩 gǒu shèng https://news.ycombinator.com/item?id=48715683 --> or "food fit for dogs" <!-- CGTN --> &mdash; however, I note there are many puns in Chinese, and this pasty white boy with a dictionary and a linguistics degree is probably not doing this one justice. Assuming this meaning, the intentional dysphemism likely came from the old superstition of giving bad names to children so that evil spirits would be disinclined to harm them, such that the new chip could survive its own infancy, but also fits neatly with the idea of <a href="https://en.wikipedia.org/wiki/Eating_your_own_dog_food">eating your own dog food</a>.
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiG6Ow8y1ZHwu9Mvu-QbseyX5dC2Wb6zfHZFsdqoyjylKQdltu2L8XhSQfF_fhEDPCNn8A6vUo2qShuy7-SrGwfnb6F1sfTjP4IwqIMEIe8sBiU0HWanrS0yQAjlM-HadSsG8mymzFcHLTK1F2g8GhBPR792XWwhb3rgZk3_ginmivCwOVujuzqUTU1E/s3231/g-1.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="3231" data-original-width="2270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiG6Ow8y1ZHwu9Mvu-QbseyX5dC2Wb6zfHZFsdqoyjylKQdltu2L8XhSQfF_fhEDPCNn8A6vUo2qShuy7-SrGwfnb6F1sfTjP4IwqIMEIe8sBiU0HWanrS0yQAjlM-HadSsG8mymzFcHLTK1F2g8GhBPR792XWwhb3rgZk3_ginmivCwOVujuzqUTU1E/s320/g-1.jpg"/></a></div>
         
@@ -164,7 +195,7 @@ As ever, a huge thank you to the fans, especially the 99 generous individuals an
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_2Cm7PJt65epW0-qgC2lznaQloucHZkk1HaKqrpnfLoaKOwko3nr8H4uEgiPAcvJNEZmJLiGvvaCRkmd7RtTW95TZwbDtAQ8SVT20-lereQoymOb8cNGxsnhZX-KZ00hagx-ZFauUQe94jYALr9gK8if60NriIcUM8hZqWb_y2HjWvCwKRPzeND6bsrg/s4080/PXL_20260407_023938425.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_2Cm7PJt65epW0-qgC2lznaQloucHZkk1HaKqrpnfLoaKOwko3nr8H4uEgiPAcvJNEZmJLiGvvaCRkmd7RtTW95TZwbDtAQ8SVT20-lereQoymOb8cNGxsnhZX-KZ00hagx-ZFauUQe94jYALr9gK8if60NriIcUM8hZqWb_y2HjWvCwKRPzeND6bsrg/s320/PXL_20260407_023938425.jpg"/></a></div>
         
-        The underside of the unit indicates the model number as "8089_C," but this designation appears to be an integral part of the sticker and not secondarily silkscreened or etched. I suspect it actually refers to the bottom <em>case</em> assembly because all 8089s use the same one (proof shortly). Notice that it has FCC clearance &mdash; Lemote clearly meant to sell this in the United States if they could, though availability was limited, and most units still operating States-side (very likely this one as well) are probably imports from elsewhere. Due to some additional perforated layers between them and the logic board, the cooling vents, though prominent, actually admit much less air than they appear to. We'll get to that when we turn it on.
+        The underside of the unit indicates the model number as "8089_C," but this designation appears to be an integral part of the sticker and not secondarily silkscreened or etched. I suspect it actually refers to the bottom <em>case</em> assembly because all 8089s use the same one (proof shortly). Notice that it has FCC clearance &mdash; Lemote clearly meant to sell this in the United States if they could, though availability was limited, and most units still operating States-side (this one as well) are probably imports from elsewhere. Due to some additional perforated layers between them and the logic board, the cooling vents, though prominent, actually admit much less air than they appear to. We'll get to that when we turn it on.
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTml0W7ODq6odRvjSxxKvLBmyIAhjl0Z4nfJ3QhFmrzr-BQJtxL0WvuuXGFEafOdA39LAB0jEoekzvvNOtAE9hlP_3kpNJTsHNHUZwLCM1dZ_8k6snuj7Suh-sA5H2XoPkLxlRDSjK0Eyvof2yoXAlblIQmXOZ3ln1BACs_kJQKqYoHd0hxFQuqO8m1-w/s4080/PXL_20260407_024113165.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTml0W7ODq6odRvjSxxKvLBmyIAhjl0Z4nfJ3QhFmrzr-BQJtxL0WvuuXGFEafOdA39LAB0jEoekzvvNOtAE9hlP_3kpNJTsHNHUZwLCM1dZ_8k6snuj7Suh-sA5H2XoPkLxlRDSjK0Eyvof2yoXAlblIQmXOZ3ln1BACs_kJQKqYoHd0hxFQuqO8m1-w/s320/PXL_20260407_024113165.jpg"/></a></div>
         
@@ -977,7 +1008,7 @@ The People&#39;s Republic of China had long prioritised indigenous technology as
 
 Despite leadership&#39;s strong interest in semiconductors, foreign processor designs nevertheless dominated in China throughout the 1990s; the lack of cutting-edge fabrication and design capacity made early industry leads insurmountable, and by the beginning of the second millenium established players like ARM and Intel held commanding market shares on the mainland as well. As a result, although more limited native microprocessor designs and clones had previously existed, a Chinese-developed CPU that was in any sense competitive with market leaders took decades to emerge. In 2001 the Institute of Computing Technology (ICT) at the Chinese Academy of Sciences (CAS) under chief architect Hu Weiwu began work on a new higher-performance chip as their own attempt, funded by the Tenth Five-Year Plan and the continuation of the 863 Program, now transformed into a long-term R&#38;D pipeline under Jiang Zemin.
 
-Officially called 龙芯, which would usually be transliterated in Pinyin as _Lóngxīn_ and translated as &#34;dragon core,&#34; the developers gave it the similar-sounding transliteration of _Gǒdsón_, which comes out something like &#34;dog food&#34;  or &#34;food fit for dogs&#34;  — however, I note there are many puns in Chinese, and this pasty white boy with a dictionary and a linguistics degree is probably not doing this one justice. Assuming this meaning, the intentional dysphemism likely came from the old superstition of giving bad names to children so that evil spirits would be disinclined to harm them, such that the new chip could survive its own infancy, but also fits neatly with the idea of [eating your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
+Officially called 龙芯, which would usually be transliterated in Pinyin as _Lóngxīn_ and translated as &#34;dragon core,&#34; the developers gave it the similar-sounding transliteration of _Gǒdsòn_, which comes out something like &#34;dog food&#34;  or &#34;food fit for dogs&#34;  — however, I note there are many puns in Chinese, and this pasty white boy with a dictionary and a linguistics degree is probably not doing this one justice. Assuming this meaning, the intentional dysphemism likely came from the old superstition of giving bad names to children so that evil spirits would be disinclined to harm them, such that the new chip could survive its own infancy, but also fits neatly with the idea of [eating your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiG6Ow8y1ZHwu9Mvu-QbseyX5dC2Wb6zfHZFsdqoyjylKQdltu2L8XhSQfF_fhEDPCNn8A6vUo2qShuy7-SrGwfnb6F1sfTjP4IwqIMEIe8sBiU0HWanrS0yQAjlM-HadSsG8mymzFcHLTK1F2g8GhBPR792XWwhb3rgZk3_ginmivCwOVujuzqUTU1E/s320/g-1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiG6Ow8y1ZHwu9Mvu-QbseyX5dC2Wb6zfHZFsdqoyjylKQdltu2L8XhSQfF_fhEDPCNn8A6vUo2qShuy7-SrGwfnb6F1sfTjP4IwqIMEIe8sBiU0HWanrS0yQAjlM-HadSsG8mymzFcHLTK1F2g8GhBPR792XWwhb3rgZk3_ginmivCwOVujuzqUTU1E/s3231/g-1.jpg)
 
@@ -1052,7 +1083,7 @@ Its shiny surface has been a bit scuffed but still looks very nice in black, tho
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_2Cm7PJt65epW0-qgC2lznaQloucHZkk1HaKqrpnfLoaKOwko3nr8H4uEgiPAcvJNEZmJLiGvvaCRkmd7RtTW95TZwbDtAQ8SVT20-lereQoymOb8cNGxsnhZX-KZ00hagx-ZFauUQe94jYALr9gK8if60NriIcUM8hZqWb_y2HjWvCwKRPzeND6bsrg/s320/PXL_20260407_023938425.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_2Cm7PJt65epW0-qgC2lznaQloucHZkk1HaKqrpnfLoaKOwko3nr8H4uEgiPAcvJNEZmJLiGvvaCRkmd7RtTW95TZwbDtAQ8SVT20-lereQoymOb8cNGxsnhZX-KZ00hagx-ZFauUQe94jYALr9gK8if60NriIcUM8hZqWb_y2HjWvCwKRPzeND6bsrg/s4080/PXL_20260407_023938425.jpg)
 
-The underside of the unit indicates the model number as &#34;8089\_C,&#34; but this designation appears to be an integral part of the sticker and not secondarily silkscreened or etched. I suspect it actually refers to the bottom _case_ assembly because all 8089s use the same one (proof shortly). Notice that it has FCC clearance — Lemote clearly meant to sell this in the United States if they could, though availability was limited, and most units still operating States-side (very likely this one as well) are probably imports from elsewhere. Due to some additional perforated layers between them and the logic board, the cooling vents, though prominent, actually admit much less air than they appear to. We&#39;ll get to that when we turn it on.
+The underside of the unit indicates the model number as &#34;8089\_C,&#34; but this designation appears to be an integral part of the sticker and not secondarily silkscreened or etched. I suspect it actually refers to the bottom _case_ assembly because all 8089s use the same one (proof shortly). Notice that it has FCC clearance — Lemote clearly meant to sell this in the United States if they could, though availability was limited, and most units still operating States-side (this one as well) are probably imports from elsewhere. Due to some additional perforated layers between them and the logic board, the cooling vents, though prominent, actually admit much less air than they appear to. We&#39;ll get to that when we turn it on.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTml0W7ODq6odRvjSxxKvLBmyIAhjl0Z4nfJ3QhFmrzr-BQJtxL0WvuuXGFEafOdA39LAB0jEoekzvvNOtAE9hlP_3kpNJTsHNHUZwLCM1dZ_8k6snuj7Suh-sA5H2XoPkLxlRDSjK0Eyvof2yoXAlblIQmXOZ3ln1BACs_kJQKqYoHd0hxFQuqO8m1-w/s320/PXL_20260407_024113165.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTml0W7ODq6odRvjSxxKvLBmyIAhjl0Z4nfJ3QhFmrzr-BQJtxL0WvuuXGFEafOdA39LAB0jEoekzvvNOtAE9hlP_3kpNJTsHNHUZwLCM1dZ_8k6snuj7Suh-sA5H2XoPkLxlRDSjK0Eyvof2yoXAlblIQmXOZ3ln1BACs_kJQKqYoHd0hxFQuqO8m1-w/s4080/PXL_20260407_024113165.jpg)
 
@@ -2534,39 +2565,6 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
       </description>
       <source:markdown>X-VESA is a DOS diagnostic program for in-depth analysis and verification of VESA interfaces on real hardware, written entirely in x86 assembly language. Thanks to Marco for sharing this program. See [X-VESA on GitHub](https://github.com/Marco-Pistella/X-VESA) for more information, including a full list of features and source code. X-VESA is available under the GNU GPL v3.</source:markdown>
       <guid>cid://https://sourceforge.netbaa1da514508417c4ee49ecb880a496c465c1d90</guid>
-    </item>    <item>
-      <title>b.log 2026/06/08 - Musings on EPROM access.</title>
-      <link>https://heyrick.eu/blog/entry/20260608</link>
-      <description>
-        <![CDATA[Musings on EPROM access.]]>
-      </description>
-      <source:markdown>Musings on EPROM access.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260608</guid>
-    </item>    <item>
-      <title>Planescape: Torment, Part 2: …to the Desktop</title>
-      <link>https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/</link>
-      <description>
-        <![CDATA[This article tells part of the story of Dungeons &#38; Dragons on the tabletop and on computers. Usually if you choose the longest dialog option, that&#8217;s the best option. &#8212; Chris Avellone Quite some years ago now, I briefly interviewed Brian Fargo about Interplay&#8217;s 1988 adaptation of the William Gibson novel Neuromancer. He was plainly busy [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of Dungeons &#38; Dragons on the tabletop and on computers. Usually if you choose the longest dialog option, that’s the best option. — Chris Avellone Quite some years ago now, I briefly interviewed Brian Fargo about Interplay’s 1988 adaptation of the William Gibson novel Neuromancer. He was plainly busy \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6776</guid>
-      <category>Digital Antiquaria</category>
-      <category>Interactive Fiction</category>
-      <category>avellone</category>
-      <category>dungeons and dragons</category>
-      <category>infinity engine</category>
-      <category>interplay</category>
-      <category>tsr</category>
-      <category>wotc</category>
-    </item>    <item>
-      <title>United Nations Open Source Portal Goes Live</title>
-      <link>http://www.linux-magazine.com/Online/News/United-Nations-Open-Source-Portal-Goes-Live</link>
-      <description>
-        <![CDATA[<p>A new open source portal seeks to coordinate and scale open source efforts across the United Nations system.</p>]]>
-      </description>
-      <source:markdown>A new open source portal seeks to coordinate and scale open source efforts across the United Nations system.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://597e402aadfc125533f5be22f1c04e02</guid>
     </item>
   </channel>
 </rss>

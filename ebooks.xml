@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>29 Jun 26 09:08 -0700</lastBuildDate>
+    <lastBuildDate>30 Jun 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The coach horn (7th edition) : by Old Guard</title>
+      <link>https://www.gutenberg.org/ebooks/78978</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Stories of the Persian wars by Herodotus</title>
+      <link>https://www.gutenberg.org/ebooks/78980</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The show girl by Max Pemberton</title>
+      <link>https://www.gutenberg.org/ebooks/78976</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Heroic Romances of Ireland, Translated into English Prose and Verse — Complete by Leahy</title>
+      <link>https://www.gutenberg.org/ebooks/5680</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 1 by Leahy</title>
+      <link>https://www.gutenberg.org/ebooks/5678</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 2 by Leahy</title>
+      <link>https://www.gutenberg.org/ebooks/5679</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The immoralist by André Gide</title>
+      <link>https://www.gutenberg.org/ebooks/78975</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Symbolism : by Alfred North Whitehead</title>
+      <link>https://www.gutenberg.org/ebooks/78977</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Conservation of Races by W. E. B.  Du Bois</title>
+      <link>https://www.gutenberg.org/ebooks/5685</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The man who put out the sun by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/78979</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The Book of Khalid, by Ameen Rihani</title>
       <link>https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid</link>
       <description>
@@ -1209,94 +1279,6 @@
     </item>    <item>
       <title>On yacht etiquette : by Howard Patterson</title>
       <link>https://www.gutenberg.org/ebooks/78830</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Way to God and How to Find It, by D. L. Moody</title>
-      <link>https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it</link>
-      <description>
-        <![CDATA[An evangelical preacher shares his theological framework.]]>
-      </description>
-      <source:markdown>An evangelical preacher shares his theological framework.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it/downloads/d-l-moody_the-way-to-god-and-how-to-find-it.epub?source=feed" length="621334" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/d-l-moody/the-way-to-god-and-how-to-find-it</guid>
-      <category>Nonfiction</category>
-      <category>Spirituality</category>
-    </item>    <item>
-      <title>Peace in the wilderness by Marion Zimmer Bradley</title>
-      <link>https://www.gutenberg.org/ebooks/78807</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Religion of the Samurai by Kaiten Nukariya</title>
-      <link>https://www.gutenberg.org/ebooks/5173</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Captain Billy&#39;s Whiz Bang, Vol. 3, No. 32, April, 1922 : by Various</title>
-      <link>https://www.gutenberg.org/ebooks/78827</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The dynasty of Theodosius, or, eighty years&#39; struggle with the barbarians : by Thomas Hodgkin</title>
-      <link>https://www.gutenberg.org/ebooks/78826</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Girls together by Amy Ella Blanchard</title>
-      <link>https://www.gutenberg.org/ebooks/78824</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>One Thousand Questions in California Agriculture Answered by Edward J.  Wickson</title>
-      <link>https://www.gutenberg.org/ebooks/5152</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Autobiography and Letters of Orville Dewey, D.D. by Orville Dewey</title>
-      <link>https://www.gutenberg.org/ebooks/18956</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Greeta ja hänen Herransa : by Arvid Järnefelt</title>
-      <link>https://www.gutenberg.org/ebooks/78825</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Children&#39;s Internet Protection Act (CIPA) Ruling</title>
-      <link>https://www.gutenberg.org/ebooks/5180</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The French powder mystery : by Ellery Queen</title>
-      <link>https://www.gutenberg.org/ebooks/78823</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cora and The Doctor; or, Revelations of A Physician&#39;s Wife by Madeline Leslie</title>
-      <link>https://www.gutenberg.org/ebooks/35526</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
