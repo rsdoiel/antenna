@@ -4,10 +4,38 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>30 Jun 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>01 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The man who put out the sun by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/78979</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pikku Heidi : by Johanna Spyri</title>
+      <link>https://www.gutenberg.org/ebooks/78982</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>What you should know about your sensations : by Grace Adams</title>
+      <link>https://www.gutenberg.org/ebooks/78983</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Journal de la société de 1789 - Nº IV by Condorcet and Klinglin and Pont</title>
+      <link>https://www.gutenberg.org/ebooks/78981</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
       <title>The coach horn (7th edition) : by Old Guard</title>
       <link>https://www.gutenberg.org/ebooks/78978</link>
       <description>
@@ -66,13 +94,6 @@
     </item>    <item>
       <title>The Conservation of Races by W. E. B.  Du Bois</title>
       <link>https://www.gutenberg.org/ebooks/5685</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The man who put out the sun by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/78979</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1262,27 +1283,6 @@
       <enclosure url="https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous/downloads/rudyard-kipling_captains-courageous.epub?source=feed" length="515980" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous</guid>
       <category>Fiction</category>
-    </item>    <item>
-      <title>Queen of the jesters, and her strange adventures in old Paris by Max Pemberton</title>
-      <link>https://www.gutenberg.org/ebooks/78828</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The great Siberian railway : by Francis E.  Clark</title>
-      <link>https://www.gutenberg.org/ebooks/78829</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>On yacht etiquette : by Howard Patterson</title>
-      <link>https://www.gutenberg.org/ebooks/78830</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

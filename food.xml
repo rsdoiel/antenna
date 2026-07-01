@@ -4,10 +4,496 @@
   <channel>
     <title><![CDATA[Healthy Eating, Good Eating and Recipes]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>30 Jun 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>01 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Ultimate Guide to American Barbecue Culture</title>
+      <link>https://www.bonappetit.com/story/america-250-barbecue-guide</link>
+      <description>
+        <![CDATA[Explore the past, present, and future of American barbecue, from regional histories to the next generation of pitmasters rewriting the rules.]]>
+      </description>
+      <source:markdown>Explore the past, present, and future of American barbecue, from regional histories to the next generation of pitmasters rewriting the rules.</source:markdown>
+      <guid>cid://6a3d56a2a9bed2443fb3f67c</guid>
+      <category>Culture</category>
+      <category>Restaurants</category>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>The Best Barbecue Gear for You, No Matter Your Experience Level</title>
+      <link>https://www.bonappetit.com/story/grilling-gear-upgrades</link>
+      <description>
+        <![CDATA[Professional pitmasters on what you need for every era of your barbecue journey]]>
+      </description>
+      <source:markdown>Professional pitmasters on what you need for every era of your barbecue journey</source:markdown>
+      <guid>cid://6a3b16135924026a6031fc1b</guid>
+      <category>Shopping</category>
+    </item>    <item>
+      <title>23 Easy Weeknight Dinners for July 2026</title>
+      <link>https://www.bonappetit.com/gallery/easy-weeknight-dinner-recipes</link>
+      <description>
+        <![CDATA[Hot honey salmon, teriyaki chicken, the best gazpacho, and more quick dinners to make this month.]]>
+      </description>
+      <source:markdown>Hot honey salmon, teriyaki chicken, the best gazpacho, and more quick dinners to make this month.</source:markdown>
+      <guid>cid://61f2a04c465df73522d8614b</guid>
+      <category>Recipes</category>
+      <category>Cooking</category>
+    </item>    <item>
+      <title>Pickle Coleslaw</title>
+      <link>https://www.bonappetit.com/recipe/pickle-coleslaw</link>
+      <description>
+        <![CDATA[Creamy, vinegary, and with lots of fresh dill.]]>
+      </description>
+      <source:markdown>Creamy, vinegary, and with lots of fresh dill.</source:markdown>
+      <guid>cid://6a3970d20865f0d4a6d9cd24</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>Pickle Lemonade</title>
+      <link>https://www.bonappetit.com/recipe/pickle-lemonade</link>
+      <description>
+        <![CDATA[Country-style lemonade with a salty-tangy twist.]]>
+      </description>
+      <source:markdown>Country-style lemonade with a salty-tangy twist.</source:markdown>
+      <guid>cid://6a397ec20865f0d4a6d9cd52</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>Heidi Gardner Is Kansas City Barbecue’s Loudest Cheerleader</title>
+      <link>https://www.bonappetit.com/story/heidi-gardner-kansas-city-barbecue</link>
+      <description>
+        <![CDATA[The former SNL star waxes poetic on burnt ends, barbecue sauce, and white bread]]>
+      </description>
+      <source:markdown>The former SNL star waxes poetic on burnt ends, barbecue sauce, and white bread</source:markdown>
+      <guid>cid://6a2c23f4e35c96364279316d</guid>
+      <category>Restaurants</category>
+      <category>Culture</category>
+    </item>    <item>
+      <title>Finding Forgiveness at the Barbecue Counter</title>
+      <link>https://www.bonappetit.com/story/finding-forgiveness-at-the-barbecue-counter</link>
+      <description>
+        <![CDATA[My father's stories about his Southern upbringing were fraught, but his love of barbecue helped me find tenderness in the tension.]]>
+      </description>
+      <source:markdown>My father&#39;s stories about his Southern upbringing were fraught, but his love of barbecue helped me find tenderness in the tension.</source:markdown>
+      <guid>cid://6a3d89e1d6fd42c0bce8f200</guid>
+      <category>Culture</category>
+    </item>    <item>
+      <title>Mapping a Barbecue Sauce Trail Through the Carolinas</title>
+      <link>https://www.bonappetit.com/story/carolina-barbecue-sauce-trail</link>
+      <description>
+        <![CDATA[Tradition and evolving influences have resulted in a diversity of sauces across North and South Carolina. Here's where to find them.]]>
+      </description>
+      <source:markdown>Tradition and evolving influences have resulted in a diversity of sauces across North and South Carolina. Here&#39;s where to find them.</source:markdown>
+      <guid>cid://6a3aafa9cacc693f28f9f5a9</guid>
+      <category>Culture</category>
+      <category>Restaurants</category>
+    </item>    <item>
+      <title>Burger Beans (Baked Beans With Ground Beef)</title>
+      <link>https://www.bonappetit.com/recipe/burger-beans-baked-beans-ground-beef</link>
+      <description>
+        <![CDATA[A beefed-up take on a BBQ staple.]]>
+      </description>
+      <source:markdown>A beefed-up take on a BBQ staple.</source:markdown>
+      <guid>cid://6a398680cda82aa8207c8d83</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>Banana Pudding Cake</title>
+      <link>https://www.bonappetit.com/recipe/banana-pudding-cake</link>
+      <description>
+        <![CDATA[Brown-butter banana cake with banana cream and crunchy vanilla wafers for good measure.]]>
+      </description>
+      <source:markdown>Brown-butter banana cake with banana cream and crunchy vanilla wafers for good measure.</source:markdown>
+      <guid>cid://6a3be8369fee929557edbd71</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>Ensalada Rusa (Pink Potato Salad)</title>
+      <link>https://www.bonappetit.com/recipe/ensalada-rusa-pink-potato-salad</link>
+      <description>
+        <![CDATA[This Caribbean classic, made with beets for a magenta hue, looks as striking as it tastes.]]>
+      </description>
+      <source:markdown>This Caribbean classic, made with beets for a magenta hue, looks as striking as it tastes.</source:markdown>
+      <guid>cid://6a39559eb032576f890c306c</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>A Better Beer Can Chicken</title>
+      <link>https://www.bonappetit.com/recipe/better-beer-can-chicken</link>
+      <description>
+        <![CDATA[Use the beer, not the can, for this citrusy take on a classic that nods to mojo criollo.]]>
+      </description>
+      <source:markdown>Use the beer, not the can, for this citrusy take on a classic that nods to mojo criollo.</source:markdown>
+      <guid>cid://6a3989924f65ee945ac67412</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>Inside the High-Stakes Competition of the World Championship Barbecue Cooking Contest</title>
+      <link>https://www.bonappetit.com/story/memphis-barbecue-championship</link>
+      <description>
+        <![CDATA[At the World Championship Barbecue Cooking Contest, the only thing hotter than the smokers is the pitmasters’ drive to win.]]>
+      </description>
+      <source:markdown>At the World Championship Barbecue Cooking Contest, the only thing hotter than the smokers is the pitmasters’ drive to win.</source:markdown>
+      <guid>cid://6a359dfd3b55185f771b6a0c</guid>
+      <category>Culture</category>
+    </item>    <item>
+      <title>Meet the New Guard of American Barbecue</title>
+      <link>https://www.bonappetit.com/story/third-wave-barbecue</link>
+      <description>
+        <![CDATA[From Thai-spiced brisket in Kansas City to a pernil-powered menu in Charleston, this cohort of chefs is rewriting the rules of traditional ’cue.]]>
+      </description>
+      <source:markdown>From Thai-spiced brisket in Kansas City to a pernil-powered menu in Charleston, this cohort of chefs is rewriting the rules of traditional ’cue.</source:markdown>
+      <guid>cid://6a299f7b7ce0d616c6a3c8f5</guid>
+      <category>Culture</category>
+      <category>Restaurants</category>
+    </item>    <item>
+      <title>A Cookout Menu That’s as Breezy as Summer</title>
+      <link>https://www.bonappetit.com/story/breezy-summer-cookout-menu</link>
+      <description>
+        <![CDATA[From beer-marinated chicken to smoky burger beans and pickle-packed slaw, this menu dials up beloved classics.]]>
+      </description>
+      <source:markdown>From beer-marinated chicken to smoky burger beans and pickle-packed slaw, this menu dials up beloved classics.</source:markdown>
+      <guid>cid://6a3a8c6092ed0276b41b0fba</guid>
+      <category>Cooking</category>
+    </item>    <item>
+      <title>How Central Texas Barbecue Came to Rule the World</title>
+      <link>https://www.bonappetit.com/story/central-texas-barbecue</link>
+      <description>
+        <![CDATA[There's seemingly no stopping the spread of the Lone Star State's signature barbecue, which is shaping menus from Miami to Cairo.]]>
+      </description>
+      <source:markdown>There&#39;s seemingly no stopping the spread of the Lone Star State&#39;s signature barbecue, which is shaping menus from Miami to Cairo.</source:markdown>
+      <guid>cid://6a3d40564aefc46827ffa723</guid>
+      <category>Culture</category>
+      <category>Culture / Lifestyle</category>
+      <category>Culture / trends</category>
+    </item>    <item>
+      <title>Tech Is Coming for One of the Oldest Forms of Cooking</title>
+      <link>https://www.bonappetit.com/story/grilling-gets-smart-technology</link>
+      <description>
+        <![CDATA[Cooking with live fire? There's an app for that.]]>
+      </description>
+      <source:markdown>Cooking with live fire? There&#39;s an app for that.</source:markdown>
+      <guid>cid://6a3b16834f65ee945ac67739</guid>
+      <category>Shopping</category>
+    </item>    <item>
+      <title>Brand Breakdown: Medici Coffee Roasters in Austin, Texas</title>
+      <link>https://freshcup.com/brand-breakdown-medici-coffee-roasters-in-austin-texas/</link>
+      <description>
+        <![CDATA[<p>How Michael Vaclav built an established, six-location coffee brand to be more timeless than trendy, relationship-forward by design, and approachable to all.</p>
+        <p>The post <a href="https://freshcup.com/brand-breakdown-medici-coffee-roasters-in-austin-texas/">Brand Breakdown: Medici Coffee Roasters in Austin, Texas</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
+      </description>
+      <source:markdown>How Michael Vaclav built an established, six-location coffee brand to be more timeless than trendy, relationship-forward by design, and approachable to all.
+
+The post [Brand Breakdown: Medici Coffee Roasters in Austin, Texas](https://freshcup.com/brand-breakdown-medici-coffee-roasters-in-austin-texas/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
+      <guid>cid://https://freshcup.com/?p=44844</guid>
+      <category>Marketing &#38; Branding</category>
+      <category>Sponsored</category>
+    </item>    <item>
+      <title>BA Bake Club’s July Recipe Turns Summer Corn Into a Delightfully Bouncy Dessert</title>
+      <link>https://www.bonappetit.com/story/bake-club</link>
+      <description>
+        <![CDATA[Shilpa’s gluten-free mochi cake packs in nearly a pound of sweet summer corn under a crunchy coconut topping.]]>
+      </description>
+      <source:markdown>Shilpa’s gluten-free mochi cake packs in nearly a pound of sweet summer corn under a crunchy coconut topping.</source:markdown>
+      <guid>cid://6717c8b3bdcd6e5bfeecd571</guid>
+      <category>Cooking</category>
+    </item>    <item>
+      <title>Sweet Corn Butter Mochi With Coconut Crunch</title>
+      <link>https://www.bonappetit.com/recipe/sweet-corn-butter-mochi-coconut-crunch</link>
+      <description>
+        <![CDATA[This summery cake from Bake Club just happens to be gluten-free.]]>
+      </description>
+      <source:markdown>This summery cake from Bake Club just happens to be gluten-free.</source:markdown>
+      <guid>cid://6a440e2311e8831ef2709cda</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>A Chinese Study Finds Fungus Can Take Coffee From Commodity- to Specialty-Grade</title>
+      <link>https://freshcup.com/a-chinese-study-finds-fungus-can-take-coffee-from-commodity-to-specialty-grade/</link>
+      <description>
+        <![CDATA[<p>Scientists from the Kunming Institute of Botany isolated more than 650 fungal strains from five arabica cultivars grown in Yunnan—and found one that can improve coffee quality.</p>
+        <p>The post <a href="https://freshcup.com/a-chinese-study-finds-fungus-can-take-coffee-from-commodity-to-specialty-grade/">A Chinese Study Finds Fungus Can Take Coffee From Commodity- to Specialty-Grade</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
+      </description>
+      <source:markdown>Scientists from the Kunming Institute of Botany isolated more than 650 fungal strains from five arabica cultivars grown in Yunnan—and found one that can improve coffee quality.
+
+The post [A Chinese Study Finds Fungus Can Take Coffee From Commodity- to Specialty-Grade](https://freshcup.com/a-chinese-study-finds-fungus-can-take-coffee-from-commodity-to-specialty-grade/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
+      <guid>cid://https://freshcup.com/?p=44834</guid>
+      <category>News Hub</category>
+    </item>    <item>
+      <title>Jalapeño Cornbread Recipe</title>
+      <link>https://www.chilipeppermadness.com/chili-pepper-recipes/side-dishes/jalapeno-cornbread/</link>
+      <description>
+        <![CDATA[<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/side-dishes/jalapeno-cornbread/" title="Jalapeño Cornbread Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2019/10/Jalapeno-Cornbread-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Jalapeno Cornbread served on a white plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2019/10/Jalapeno-Cornbread-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2019/10/Jalapeno-Cornbread-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2019/10/Jalapeno-Cornbread-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2019/10/Jalapeno-Cornbread-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2019/10/Jalapeno-Cornbread-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This jalapeno cornbread recipe is incredibly moist with lots of spicy jalapeno peppers and cheddar cheese. Great for the holidays or an anytime side dish!</p>
+        <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/side-dishes/jalapeno-cornbread/">Jalapeño Cornbread Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
+      </description>
+      <source:markdown>[![Jalapeno Cornbread served on a white plate](https://www.chilipeppermadness.com/wp-content/uploads/2019/10/Jalapeno-Cornbread-Recipe1-683x1024.jpg)](https://www.chilipeppermadness.com/chili-pepper-recipes/side-dishes/jalapeno-cornbread/ &#34;Jalapeño Cornbread Recipe&#34;)
+
+This jalapeno cornbread recipe is incredibly moist with lots of spicy jalapeno peppers and cheddar cheese. Great for the holidays or an anytime side dish!
+
+The post [Jalapeño Cornbread Recipe](https://www.chilipeppermadness.com/chili-pepper-recipes/side-dishes/jalapeno-cornbread/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).</source:markdown>
+      <category>Desserts</category>
+      <category>Game Day</category>
+      <category>Jalapeno Recipes</category>
+      <category>Recipes</category>
+      <category>Side Dishes</category>
+      <category>Christmas Side Dish Recipes</category>
+      <category>game day and superbowl parties</category>
+      <category>jalapeno pepper</category>
+      <category>NYD Side</category>
+      <category>tailgating</category>
+      <category>Thanksgiving Side Dish Recipes</category>
+    </item>    <item>
+      <title>ALEHOUSES OF OLD IRELAND: DRINKING AND DINING BEFORE THE MODERN PUB</title>
+      <link>https://irishfoodhub.com/alehouses-old-ireland/</link>
+      <description>
+        <![CDATA[<p>The Irish pub is one of the most recognizable symbols of Ireland today. Visitors from around the world seek out traditional pubs for their warm hospitality, lively conversation, music, and rich sense of community. Yet centuries before the familiar public house emerged, Ireland was home to alehouses, inns, taverns, and other gathering places that played a similar role in everyday life. These establishments were far more than places to enjoy a drink. They served as centers of hospitality, commerce, storytelling, entertainment, and local politics. Farmers gathered after market days, travelers sought shelter from the weather, merchants negotiated business deals, and musicians shared songs that might be remembered for generations. To step into an alehouse of old Ireland was to enter the social heart of the community. While much has changed over the centuries, many of the customs that define the modern Irish pub can trace their roots back to these early drinking houses. Table of Contents Before the Irish Pub Alehouses in Medieval Ireland The Drinks of Old Ireland What Was Served to Eat? The Alehouse as a Social Center Storytelling, Music, and Entertainment Travelers, Inns, and Hospitality Trade, Commerce, and Local Business The Rise of Taverns and Shebeens From Alehouse to Modern Pub The Legacy of Ireland&#8217;s Early Drinking Houses Before the Irish Pub The modern pub is a relatively recent development in Irish history. Prior to the eighteenth and nineteenth centuries, people gathered in a variety of establishments that served food, drink, and lodging. Depending on the region and era, these might be known as alehouses, inns, taverns, or shebeens. Hospitality held a special place in Irish society. Under Gaelic traditions, welcoming visitors with food and drink was considered both a social duty and a source of honor. Wealthy households, monasteries, and local leaders often maintained guest accommodations for travelers passing through their territory. As towns expanded and trade increased, dedicated commercial establishments gradually appeared. These early drinking houses became important gathering places where people could eat, drink, exchange information, and conduct business. Alehouses in Medieval Ireland By the medieval period, alehouses could be found in towns, villages, and along important travel routes throughout Ireland. Most were modest establishments compared to modern pubs. Some operated from private homes, while others occupied simple timber or stone buildings. Alehouses were often family-run businesses. Brewing might take place on-site, with recipes varying according to local ingredients and traditions. Unlike modern commercial breweries, there was little standardization. Each alehouse developed its own reputation based on the quality of its food, drink, and hospitality. The atmosphere was practical rather than luxurious. Wooden benches, rough tables, open hearths, and simple earthenware vessels were common features. Yet these humble surroundings created welcoming spaces where people could gather after long days of work. Many alehouses also provided lodging for travelers, making them essential stops on Ireland&#8217;s developing trade routes. The Drinks of Old Ireland Long before stout became associated with Ireland, ale was the dominant alcoholic drink. Brewed from barley, oats, or other grains, Irish ale varied considerably depending on local ingredients and brewing techniques. Unlike many modern beers, early ales were often lightly hopped or not hopped at all. Flavor came from the grains themselves and from various herbs used during brewing. Because ale spoiled relatively quickly, it was usually consumed close to where it was produced. Mead also enjoyed a long history in Ireland. Made from fermented honey, it was often associated with celebrations, feasts, and wealthier households. References to mead appear in Irish mythology, medieval literature, and historical accounts. Imported wines occasionally appeared in larger towns and among the nobility. Trade with France, Spain, and other European regions introduced wines that were considered luxury goods by many Irish consumers. Whiskey existed in various forms by the late medieval period as distillation techniques spread throughout Europe, though it would take centuries before Irish whiskey became one of the country&#8217;s most famous exports. What Was Served to Eat? The food served in Irish alehouses reflected the ingredients available in local communities. Menus would have varied widely depending on geography, season, and social class, but certain staples appeared regularly. Hearty stews were common, often made with vegetables, grains, and whatever meat was available. Oat bread, barley bread, cheeses, butter, and buttermilk frequently accompanied meals. Coastal alehouses might serve oysters, mussels, smoked fish, herring, or salmon. Inland establishments often relied more heavily on pork, bacon, game meats, and dairy products. Soups and broths were popular because they could be prepared in large quantities over open hearth fires. Root vegetables, onions, cabbage, herbs, and grains were combined into filling meals that suited Ireland&#8217;s climate and agricultural traditions. While modern pub food often includes standardized menus, the alehouses of old Ireland offered foods that were deeply local and seasonal. The Alehouse as a Social Center In an age before newspapers, radio, television, or the internet, alehouses served as information hubs. Local news, political developments, farming conditions, and market prices were all discussed within their walls. Farmers gathered after market days to exchange information and socialize. Neighbors met to celebrate weddings, births, and other important milestones. Community disputes were discussed, friendships were formed, and local relationships were strengthened. Many alehouses became informal meeting places where people could connect with others beyond their immediate family or village. This social function helped make them some of the most important institutions in everyday Irish life. Storytelling, Music, and Entertainment One of the most enduring aspects of Irish culture is its rich tradition of storytelling, and alehouses played an important role in preserving it. Travelers often arrived carrying stories from distant regions. Local storytellers entertained audiences with tales of heroes, saints, legends, folklore, and historical events. In a largely oral culture, these stories helped preserve community identity and cultural memory. Music was equally important. Harpers, fiddlers, pipers, and singers frequently performed in gathering places throughout Ireland. Songs passed from one generation to the next, many eventually becoming part of Ireland&#8217;s musical heritage. The combination of food, drink, music, and storytelling created an atmosphere</p>
+        <p>The post <a href="https://irishfoodhub.com/alehouses-old-ireland/">ALEHOUSES OF OLD IRELAND: DRINKING AND DINING BEFORE THE MODERN PUB</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
+      </description>
+      <source:markdown>The Irish pub is one of the most recognizable symbols of Ireland today. Visitors from around the world seek out traditional pubs for their warm hospitality, lively conversation, music, and rich sense of community. Yet centuries before the familiar public house emerged, Ireland was home to alehouses, inns, taverns, and other gathering places that played a similar role in everyday life. These establishments were far more than places to enjoy a drink. They served as centers of hospitality, commerce, storytelling, entertainment, and local politics. Farmers gathered after market days, travelers sought shelter from the weather, merchants negotiated business deals, and musicians shared songs that might be remembered for generations. To step into an alehouse of old Ireland was to enter the social heart of the community. While much has changed over the centuries, many of the customs that define the modern Irish pub can trace their roots back to these early drinking houses. Table of Contents Before the Irish Pub Alehouses in Medieval Ireland The Drinks of Old Ireland What Was Served to Eat? The Alehouse as a Social Center Storytelling, Music, and Entertainment Travelers, Inns, and Hospitality Trade, Commerce, and Local Business The Rise of Taverns and Shebeens From Alehouse to Modern Pub The Legacy of Ireland’s Early Drinking Houses Before the Irish Pub The modern pub is a relatively recent development in Irish history. Prior to the eighteenth and nineteenth centuries, people gathered in a variety of establishments that served food, drink, and lodging. Depending on the region and era, these might be known as alehouses, inns, taverns, or shebeens. Hospitality held a special place in Irish society. Under Gaelic traditions, welcoming visitors with food and drink was considered both a social duty and a source of honor. Wealthy households, monasteries, and local leaders often maintained guest accommodations for travelers passing through their territory. As towns expanded and trade increased, dedicated commercial establishments gradually appeared. These early drinking houses became important gathering places where people could eat, drink, exchange information, and conduct business. Alehouses in Medieval Ireland By the medieval period, alehouses could be found in towns, villages, and along important travel routes throughout Ireland. Most were modest establishments compared to modern pubs. Some operated from private homes, while others occupied simple timber or stone buildings. Alehouses were often family-run businesses. Brewing might take place on-site, with recipes varying according to local ingredients and traditions. Unlike modern commercial breweries, there was little standardization. Each alehouse developed its own reputation based on the quality of its food, drink, and hospitality. The atmosphere was practical rather than luxurious. Wooden benches, rough tables, open hearths, and simple earthenware vessels were common features. Yet these humble surroundings created welcoming spaces where people could gather after long days of work. Many alehouses also provided lodging for travelers, making them essential stops on Ireland’s developing trade routes. The Drinks of Old Ireland Long before stout became associated with Ireland, ale was the dominant alcoholic drink. Brewed from barley, oats, or other grains, Irish ale varied considerably depending on local ingredients and brewing techniques. Unlike many modern beers, early ales were often lightly hopped or not hopped at all. Flavor came from the grains themselves and from various herbs used during brewing. Because ale spoiled relatively quickly, it was usually consumed close to where it was produced. Mead also enjoyed a long history in Ireland. Made from fermented honey, it was often associated with celebrations, feasts, and wealthier households. References to mead appear in Irish mythology, medieval literature, and historical accounts. Imported wines occasionally appeared in larger towns and among the nobility. Trade with France, Spain, and other European regions introduced wines that were considered luxury goods by many Irish consumers. Whiskey existed in various forms by the late medieval period as distillation techniques spread throughout Europe, though it would take centuries before Irish whiskey became one of the country’s most famous exports. What Was Served to Eat? The food served in Irish alehouses reflected the ingredients available in local communities. Menus would have varied widely depending on geography, season, and social class, but certain staples appeared regularly. Hearty stews were common, often made with vegetables, grains, and whatever meat was available. Oat bread, barley bread, cheeses, butter, and buttermilk frequently accompanied meals. Coastal alehouses might serve oysters, mussels, smoked fish, herring, or salmon. Inland establishments often relied more heavily on pork, bacon, game meats, and dairy products. Soups and broths were popular because they could be prepared in large quantities over open hearth fires. Root vegetables, onions, cabbage, herbs, and grains were combined into filling meals that suited Ireland’s climate and agricultural traditions. While modern pub food often includes standardized menus, the alehouses of old Ireland offered foods that were deeply local and seasonal. The Alehouse as a Social Center In an age before newspapers, radio, television, or the internet, alehouses served as information hubs. Local news, political developments, farming conditions, and market prices were all discussed within their walls. Farmers gathered after market days to exchange information and socialize. Neighbors met to celebrate weddings, births, and other important milestones. Community disputes were discussed, friendships were formed, and local relationships were strengthened. Many alehouses became informal meeting places where people could connect with others beyond their immediate family or village. This social function helped make them some of the most important institutions in everyday Irish life. Storytelling, Music, and Entertainment One of the most enduring aspects of Irish culture is its rich tradition of storytelling, and alehouses played an important role in preserving it. Travelers often arrived carrying stories from distant regions. Local storytellers entertained audiences with tales of heroes, saints, legends, folklore, and historical events. In a largely oral culture, these stories helped preserve community identity and cultural memory. Music was equally important. Harpers, fiddlers, pipers, and singers frequently performed in gathering places throughout Ireland. Songs passed from one generation to the next, many eventually becoming part of Ireland’s musical heritage. The combination of food, drink, music, and storytelling created an atmosphere
+
+The post [ALEHOUSES OF OLD IRELAND: DRINKING AND DINING BEFORE THE MODERN PUB](https://irishfoodhub.com/alehouses-old-ireland/) appeared first on [Irish Food Hub](https://irishfoodhub.com).</source:markdown>
+      <guid>cid://https://irishfoodhub.com/?p=9178</guid>
+      <category>IRISH FOOD FACTS</category>
+    </item>    <item>
+      <title>BEEF SHIN STEW WITH PEARL BARLEY</title>
+      <link>https://irishfoodhub.com/beef-shin-stew-with-pearl-barley-2/</link>
+      <description>
+        <![CDATA[<p>Description: Beef Shin Stew with Pearl Barley is a traditional Irish comfort food that transforms humble ingredients into a rich and satisfying meal. Slow-cooked beef shin becomes meltingly tender while pearl barley thickens the broth and adds a wholesome texture. Combined with root vegetables and aromatic herbs, this hearty stew is perfect for cold evenings and family gatherings. Ingredients 2 lbs beef shin, cut into chunks 2 tablespoons all-purpose flour 1 teaspoon sea salt ½ teaspoon black pepper 2 tablespoons vegetable oil 1 large onion, diced 2 carrots, sliced 2 celery stalks, sliced 3 cloves garlic, minced 1 cup pearl barley, rinsed 5 cups beef stock 1 tablespoon tomato paste 2 bay leaves 1 teaspoon fresh thyme leaves 2 tablespoons chopped fresh parsley Instructions Season the beef shin with salt and pepper, then lightly coat with flour. Heat the oil in a large Dutch oven over medium-high heat. Brown the beef on all sides, working in batches if necessary. Remove and set aside. Add the onion, carrots, and celery to the pot and cook for 5–6 minutes until softened. Stir in the garlic and tomato paste and cook for 1 minute. Return the beef to the pot and add the pearl barley, stock, bay leaves, and thyme. Bring to a gentle boil, then reduce the heat to low. Cover and simmer for 2½ to 3 hours, stirring occasionally, until the beef is tender and the barley is cooked. Remove the bay leaves and adjust seasoning if needed. Sprinkle with fresh parsley before serving. Cooking Tips Beef shin benefits from long, slow cooking to become tender. If the stew thickens too much, add a little extra stock during cooking. Pearl barley naturally thickens the broth as it cooks. This stew often tastes even better the following day after the flavors have developed. Serving Suggestions Serve Beef Shin Stew with Pearl Barley alongside warm Irish soda bread, crusty farmhouse bread, or buttered potatoes. A side of steamed cabbage or seasonal greens complements the rich flavors beautifully.</p>
+        <p>The post <a href="https://irishfoodhub.com/beef-shin-stew-with-pearl-barley-2/">BEEF SHIN STEW WITH PEARL BARLEY</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
+      </description>
+      <source:markdown>Description: Beef Shin Stew with Pearl Barley is a traditional Irish comfort food that transforms humble ingredients into a rich and satisfying meal. Slow-cooked beef shin becomes meltingly tender while pearl barley thickens the broth and adds a wholesome texture. Combined with root vegetables and aromatic herbs, this hearty stew is perfect for cold evenings and family gatherings. Ingredients 2 lbs beef shin, cut into chunks 2 tablespoons all-purpose flour 1 teaspoon sea salt ½ teaspoon black pepper 2 tablespoons vegetable oil 1 large onion, diced 2 carrots, sliced 2 celery stalks, sliced 3 cloves garlic, minced 1 cup pearl barley, rinsed 5 cups beef stock 1 tablespoon tomato paste 2 bay leaves 1 teaspoon fresh thyme leaves 2 tablespoons chopped fresh parsley Instructions Season the beef shin with salt and pepper, then lightly coat with flour. Heat the oil in a large Dutch oven over medium-high heat. Brown the beef on all sides, working in batches if necessary. Remove and set aside. Add the onion, carrots, and celery to the pot and cook for 5–6 minutes until softened. Stir in the garlic and tomato paste and cook for 1 minute. Return the beef to the pot and add the pearl barley, stock, bay leaves, and thyme. Bring to a gentle boil, then reduce the heat to low. Cover and simmer for 2½ to 3 hours, stirring occasionally, until the beef is tender and the barley is cooked. Remove the bay leaves and adjust seasoning if needed. Sprinkle with fresh parsley before serving. Cooking Tips Beef shin benefits from long, slow cooking to become tender. If the stew thickens too much, add a little extra stock during cooking. Pearl barley naturally thickens the broth as it cooks. This stew often tastes even better the following day after the flavors have developed. Serving Suggestions Serve Beef Shin Stew with Pearl Barley alongside warm Irish soda bread, crusty farmhouse bread, or buttered potatoes. A side of steamed cabbage or seasonal greens complements the rich flavors beautifully.
+
+The post [BEEF SHIN STEW WITH PEARL BARLEY](https://irishfoodhub.com/beef-shin-stew-with-pearl-barley-2/) appeared first on [Irish Food Hub](https://irishfoodhub.com).</source:markdown>
+      <guid>cid://https://irishfoodhub.com/?p=9172</guid>
+      <category>IRISH ENTREES</category>
+      <category>IRISH RECIPES</category>
+    </item>    <item>
+      <title>OYSTER AND LEEK GRATIN</title>
+      <link>https://irishfoodhub.com/oyster-and-leek-gratin/</link>
+      <description>
+        <![CDATA[<p>Description: Oyster &#38; Leek Gratin is a rich and comforting coastal Irish dish that combines fresh oysters with tender leeks in a creamy sauce, finished with a golden breadcrumb topping. Popular in areas where oysters are plentiful, this gratin showcases the natural brininess of the shellfish while the leeks add sweetness and depth. It makes an elegant starter or a satisfying light supper served with crusty bread. Ingredients 18 fresh oysters, shucked 2 large leeks, thinly sliced 2 tablespoons butter 1 tablespoon all-purpose flour 1 cup whole milk ½ cup heavy cream ½ teaspoon sea salt ¼ teaspoon black pepper ½ cup fresh breadcrumbs 2 tablespoons grated Irish cheddar cheese 1 tablespoon chopped parsley Instructions Preheat the oven to 400°F (200°C). Melt the butter in a saucepan over medium heat. Add the sliced leeks and cook gently for 8–10 minutes until softened. Sprinkle in the flour and stir for 1 minute. Gradually whisk in the milk and cream until smooth. Season with salt and pepper and simmer for 3–4 minutes until slightly thickened. Arrange the oysters in a buttered baking dish. Spoon the leek sauce evenly over the oysters. Combine the breadcrumbs, cheddar, and parsley in a small bowl. Sprinkle the breadcrumb mixture over the top. Bake for 15–18 minutes until golden brown and bubbling. Allow to rest for a few minutes before serving. Cooking Tips Fresh oysters provide the best flavor and texture. Wash leeks thoroughly to remove any grit hidden between the layers. For extra richness, add a splash of white wine to the sauce. Do not overcook the oysters, as they can become tough. Serving Suggestions Serve this Oyster &#38; Leek Gratin with crusty Irish brown bread, a simple green salad, or roasted vegetables. It pairs wonderfully with a crisp white wine and makes an impressive starter for a seafood-focused meal.</p>
+        <p>The post <a href="https://irishfoodhub.com/oyster-and-leek-gratin/">OYSTER AND LEEK GRATIN</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
+      </description>
+      <source:markdown>Description: Oyster &#38; Leek Gratin is a rich and comforting coastal Irish dish that combines fresh oysters with tender leeks in a creamy sauce, finished with a golden breadcrumb topping. Popular in areas where oysters are plentiful, this gratin showcases the natural brininess of the shellfish while the leeks add sweetness and depth. It makes an elegant starter or a satisfying light supper served with crusty bread. Ingredients 18 fresh oysters, shucked 2 large leeks, thinly sliced 2 tablespoons butter 1 tablespoon all-purpose flour 1 cup whole milk ½ cup heavy cream ½ teaspoon sea salt ¼ teaspoon black pepper ½ cup fresh breadcrumbs 2 tablespoons grated Irish cheddar cheese 1 tablespoon chopped parsley Instructions Preheat the oven to 400°F (200°C). Melt the butter in a saucepan over medium heat. Add the sliced leeks and cook gently for 8–10 minutes until softened. Sprinkle in the flour and stir for 1 minute. Gradually whisk in the milk and cream until smooth. Season with salt and pepper and simmer for 3–4 minutes until slightly thickened. Arrange the oysters in a buttered baking dish. Spoon the leek sauce evenly over the oysters. Combine the breadcrumbs, cheddar, and parsley in a small bowl. Sprinkle the breadcrumb mixture over the top. Bake for 15–18 minutes until golden brown and bubbling. Allow to rest for a few minutes before serving. Cooking Tips Fresh oysters provide the best flavor and texture. Wash leeks thoroughly to remove any grit hidden between the layers. For extra richness, add a splash of white wine to the sauce. Do not overcook the oysters, as they can become tough. Serving Suggestions Serve this Oyster &#38; Leek Gratin with crusty Irish brown bread, a simple green salad, or roasted vegetables. It pairs wonderfully with a crisp white wine and makes an impressive starter for a seafood-focused meal.
+
+The post [OYSTER AND LEEK GRATIN](https://irishfoodhub.com/oyster-and-leek-gratin/) appeared first on [Irish Food Hub](https://irishfoodhub.com).</source:markdown>
+      <guid>cid://https://irishfoodhub.com/?p=9162</guid>
+      <category>IRISH ENTREES</category>
+      <category>IRISH RECIPES</category>
+    </item>    <item>
+      <title>Stanley Tucci’s Homemade Pizza Relies on One Clever Shortcut</title>
+      <link>https://www.tasteofhome.com/article/stanley-tucci-homemade-pizza-shortcut/</link>
+      <description>
+        <![CDATA[<p>Your pizzeria's best-kept secret.</p>
+        <p>The post <a href="https://www.tasteofhome.com/article/stanley-tucci-homemade-pizza-shortcut/">Stanley Tucci&#8217;s Homemade Pizza Relies on One Clever Shortcut</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+      </description>
+      <source:markdown>Your pizzeria&#39;s best-kept secret.
+
+The post [Stanley Tucci’s Homemade Pizza Relies on One Clever Shortcut](https://www.tasteofhome.com/article/stanley-tucci-homemade-pizza-shortcut/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?p=2255682</guid>
+      <category>News</category>
+      <category>People in Food</category>
+      <category>Trends</category>
+    </item>    <item>
+      <title>7 Nacho Recipes That Put a Trendy Spin on the Classic Snack</title>
+      <link>https://www.tasteofhome.com/collection/nacho-recipes-alternative-trends/</link>
+      <description>
+        <![CDATA[<p>These creative nacho recipes are loaded with bold flavors and unexpected ingredients that will keep everyone coming back for seconds—and thirds.</p>
+        <p>The post <a href="https://www.tasteofhome.com/collection/nacho-recipes-alternative-trends/">7 Nacho Recipes That Put a Trendy Spin on the Classic Snack</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+      </description>
+      <source:markdown>These creative nacho recipes are loaded with bold flavors and unexpected ingredients that will keep everyone coming back for seconds—and thirds.
+
+The post [7 Nacho Recipes That Put a Trendy Spin on the Classic Snack](https://www.tasteofhome.com/collection/nacho-recipes-alternative-trends/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=listicle&#38;p=2254146</guid>
+      <category>Dishes &#38; Beverages</category>
+      <category>Nachos</category>
+      <category>News</category>
+      <category>Trends</category>
+    </item>    <item>
+      <title>Everything BA Editors Tried, Tasted, and Loved in June</title>
+      <link>https://www.bonappetit.com/story/what-editors-loved-june-2026</link>
+      <description>
+        <![CDATA[Like pizza-flavored crackers, an outdoor grill for small yards, and comfy sandals for your farmers market jaunts.]]>
+      </description>
+      <source:markdown>Like pizza-flavored crackers, an outdoor grill for small yards, and comfy sandals for your farmers market jaunts.</source:markdown>
+      <guid>cid://6a3d8ff35924026a6031fdf7</guid>
+      <category>Shopping</category>
+    </item>    <item>
+      <title>Chobani Just Brought Back a Popular Creamer Flavor—And Fans Are Divided</title>
+      <link>https://www.tasteofhome.com/article/chobani-pumpkin-spice-creamer-2026/</link>
+      <description>
+        <![CDATA[<p>Another year, another seasonal debate.</p>
+        <p>The post <a href="https://www.tasteofhome.com/article/chobani-pumpkin-spice-creamer-2026/">Chobani Just Brought Back a Popular Creamer Flavor—And Fans Are Divided</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+      </description>
+      <source:markdown>Another year, another seasonal debate.
+
+The post [Chobani Just Brought Back a Popular Creamer Flavor—And Fans Are Divided](https://www.tasteofhome.com/article/chobani-pumpkin-spice-creamer-2026/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?p=2255756</guid>
+      <category>New Products</category>
+      <category>News</category>
+      <category>Trends</category>
+    </item>    <item>
+      <title>Bistro-Style Croque Monsieur</title>
+      <link>https://www.bonappetit.com/recipe/bistro-style-croque-monsieur</link>
+      <description>
+        <![CDATA[A Paris-inspired version of the classic ham and cheese sandwich from chef Alexia Duchêne.]]>
+      </description>
+      <source:markdown>A Paris-inspired version of the classic ham and cheese sandwich from chef Alexia Duchêne.</source:markdown>
+      <guid>cid://6a3e7867be74cf59eefbe5f2</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>FDA Weighs Next Steps on Decaf Solvent Rules Following New Comments</title>
+      <link>https://dailycoffeenews.com/2026/06/30/fda-weighs-next-steps-on-decaf-solvent-rules-following-new-comments/</link>
+      <description>
+        <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2026/06/roasted-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="roasted coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/06/roasted-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/06/roasted-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/06/roasted-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/06/roasted-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/06/roasted-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The U.S. Food and Drug Administration (FDA) has closed a reopened public comment period on a food-additive petition that could affect the continued use of methylene chloride in coffee decaffeination....]]>
+      </description>
+      <source:markdown>![roasted coffee](https://dailycoffeenews.com/wp-content/uploads/2026/06/roasted-coffee-620x414.jpg)
+
+The U.S. Food and Drug Administration (FDA) has closed a reopened public comment period on a food-additive petition that could affect the continued use of methylene chloride in coffee decaffeination....</source:markdown>
+      <guid>cid://https://dailycoffeenews.com/?p=197483</guid>
+      <category>Corporate</category>
+      <category>Craft/Operations</category>
+      <category>Industry</category>
+      <category>Macro</category>
+      <category>Marketing</category>
+      <category>Micro</category>
+      <category>Products</category>
+      <category>Roasting</category>
+      <category>United States</category>
+      <category>benzene</category>
+      <category>Bill Murray</category>
+      <category>Breast Cancer Prevention Partners</category>
+      <category>Center for Environmental Health</category>
+      <category>decaffeination</category>
+      <category>Delaney Clause</category>
+      <category>Environmental Defense Fund</category>
+      <category>Environmental Working Group</category>
+      <category>ethylene dichloride</category>
+      <category>European Method</category>
+      <category>FDA</category>
+      <category>Lisa Lefferts</category>
+      <category>Maria Doa</category>
+      <category>methylene chloride</category>
+      <category>National Coffee Association</category>
+      <category>NCA</category>
+      <category>regulations</category>
+      <category>Royal Coffee</category>
+      <category>trichloroethylene</category>
+      <category>U.S. Food and Drug Administration</category>
+    </item>    <item>
+      <title>Study Explores Coffee’s Gut-Brain Effects in Humans</title>
+      <link>https://dailycoffeenews.com/2026/06/30/study-explores-coffees-gut-brain-effects-in-humans/</link>
+      <description>
+        <![CDATA[<div><img width="620" height="454" src="https://dailycoffeenews.com/wp-content/uploads/2026/04/drinking-coffee-1-620x454.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/04/drinking-coffee-1-620x454.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/04/drinking-coffee-1-300x220.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/04/drinking-coffee-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/04/drinking-coffee-1-768x562.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/04/drinking-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A recent study of humans suggests that regular coffee drinking is linked to shifts in gut microbes and metabolites that might ripple all the way to the brain, affecting mood,...]]>
+      </description>
+      <source:markdown>![drinking coffee](https://dailycoffeenews.com/wp-content/uploads/2026/04/drinking-coffee-1-620x454.jpg)
+
+A recent study of humans suggests that regular coffee drinking is linked to shifts in gut microbes and metabolites that might ripple all the way to the brain, affecting mood,...</source:markdown>
+      <guid>cid://https://dailycoffeenews.com/?p=196176</guid>
+      <category>Industry</category>
+      <category>APC Microbiome Ireland</category>
+      <category>gut microbiome</category>
+      <category>health</category>
+      <category>Institute for Scientific Information on Coffee</category>
+      <category>Ireland</category>
+      <category>John Cryan</category>
+      <category>memory</category>
+      <category>mental health</category>
+      <category>Nature Communications</category>
+      <category>research</category>
+      <category>science</category>
+      <category>stress</category>
+      <category>University College Cork</category>
+    </item>    <item>
+      <title>Coffee Crafters Returns to its Roots with New 2-Pound Roaster, the Duo</title>
+      <link>https://dailycoffeenews.com/2026/06/30/coffee-crafters-returns-to-its-roots-with-new-2-pound-roaster-the-duo/</link>
+      <description>
+        <![CDATA[<div><img width="620" height="411" src="https://dailycoffeenews.com/wp-content/uploads/2026/06/Coffee-Crafters-Duo-roaster-1-1-620x411.jpeg" class="attachment-large size-large wp-post-image" alt="Coffee Crafters Duo roaster 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/06/Coffee-Crafters-Duo-roaster-1-1-620x411.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Coffee-Crafters-Duo-roaster-1-1-300x199.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Coffee-Crafters-Duo-roaster-1-1-150x99.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Coffee-Crafters-Duo-roaster-1-1-768x509.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Coffee-Crafters-Duo-roaster-1-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Idaho-based fluid-bed coffee roasting equipment maker Coffee Crafters is launching the Duo, a compact commercial roaster with a batch capacity ranging from 200 grams to 2 pounds. Starting at $2,995,...]]>
+      </description>
+      <source:markdown>![Coffee Crafters Duo roaster 1](https://dailycoffeenews.com/wp-content/uploads/2026/06/Coffee-Crafters-Duo-roaster-1-1-620x411.jpeg)
+
+Idaho-based fluid-bed coffee roasting equipment maker Coffee Crafters is launching the Duo, a compact commercial roaster with a batch capacity ranging from 200 grams to 2 pounds. Starting at $2,995,...</source:markdown>
+      <guid>cid://https://dailycoffeenews.com/?p=197408</guid>
+      <category>Corporate</category>
+      <category>Craft/Operations</category>
+      <category>Industry</category>
+      <category>Micro</category>
+      <category>Products</category>
+      <category>Roasting</category>
+      <category>United States</category>
+      <category>Bryce Bull</category>
+      <category>Coffee Crafters</category>
+      <category>Coffee Crafters Artisan</category>
+      <category>Coffee Crafters Artisan 3-e</category>
+      <category>Coffee Crafters Duo</category>
+      <category>Coffee Crafters Valenta</category>
+      <category>Coffee Crafters Valenta 3</category>
+      <category>commercial roasters</category>
+      <category>electric roasters</category>
+      <category>fluid bed roasters</category>
+      <category>Hermetheus Co-Pilot Pro</category>
+      <category>home roasters</category>
+      <category>home roasting</category>
+      <category>Idaho</category>
+      <category>Jason Scott</category>
+      <category>Post Falls</category>
+      <category>roasting equipment</category>
+    </item>    <item>
+      <title>Smoked Bacon and Jalapeno Mac and Cheese</title>
+      <link>https://www.tasteofhome.com/recipes/smoked-bacon-and-jalapeno-mac-and-cheese/</link>
+      <description>
+        <![CDATA[Smoked bacon and jalapeno mac and cheese isn't like anything from a box. The tangy, cheesy sauce is studded with fiery peppers and bacon, then the whole thing is grilled until hot and smoky.]]>
+      </description>
+      <source:markdown>Smoked bacon and jalapeno mac and cheese isn&#39;t like anything from a box. The tangy, cheesy sauce is studded with fiery peppers and bacon, then the whole thing is grilled until hot and smoky.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2248790</guid>
+      <category>Appliances</category>
+      <category>Bacon</category>
+      <category>BBQ</category>
+      <category>Broiling</category>
+      <category>Butters</category>
+      <category>Casseroles</category>
+      <category>Cast-Iron Skillet</category>
+      <category>Cheddar Cheese</category>
+      <category>Cheese</category>
+      <category>Comfort Food</category>
+      <category>Condiments</category>
+      <category>Cooking Style</category>
+      <category>Cream Cheese</category>
+      <category>Cuisines</category>
+      <category>Dinner</category>
+      <category>Dishes &#38; Beverages</category>
+      <category>Events &#38; Gatherings</category>
+      <category>Fall</category>
+      <category>Garlic</category>
+      <category>Gas Grill</category>
+      <category>Gear</category>
+      <category>Grilling</category>
+      <category>Grilling &#38; BBQ</category>
+      <category>Holidays &#38; Events</category>
+      <category>Home &#38; Living</category>
+      <category>How To</category>
+      <category>Ingredients</category>
+      <category>Jalapenos</category>
+      <category>Lunch</category>
+      <category>Macaroni</category>
+      <category>Macaroni &#38; Cheese</category>
+      <category>Meal Types</category>
+      <category>Meat &#38; Poultry</category>
+      <category>North America</category>
+      <category>Onions</category>
+      <category>Outdoor Living</category>
+      <category>Pasta</category>
+      <category>Pasta Dishes</category>
+      <category>Peppers</category>
+      <category>Pork</category>
+      <category>Potluck</category>
+      <category>Recipes</category>
+      <category>Sauteing</category>
+      <category>Seasons</category>
+      <category>Side Dishes</category>
+      <category>Skillet</category>
+      <category>Southern</category>
+      <category>Spring</category>
+      <category>Stovetop Cookware</category>
+      <category>Summer</category>
+      <category>Super Bowl</category>
+      <category>Tailgating</category>
+      <category>Techniques</category>
+      <category>Test Kitchen</category>
+      <category>Vegetables</category>
+    </item>    <item>
       <title>From Coffee Grounds To Biochar In 90 Seconds Flat</title>
       <link>https://sprudge.com/from-coffee-grounds-to-biochar-in-90-seconds-flat-1098986.html</link>
       <description>
@@ -209,7 +695,7 @@ The post [Actor Joel Kim Booster’s Favorite Sandwich Has a Story—and It’s 
       <title>Underwood Coffee Overjoyed to Open in Downtown Duluth</title>
       <link>https://dailycoffeenews.com/2026/06/29/underwood-coffee-overjoyed-to-open-in-downtown-duluth/</link>
       <description>
-        <![CDATA[<div><img width="620" height="375" src="https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-620x375.jpeg" class="attachment-large size-large wp-post-image" alt="Underwood Coffee Duluth downtown" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-620x375.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-300x181.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-150x91.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-768x465.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>On the ground floor of a historic building in downtown Duluth, Minnesota, Underwood Coffee overcame the odds to transform a dormant retail corner into a lively new cafe.&#160; After funding...]]>
+        <![CDATA[<div><img width="620" height="375" src="https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-620x375.jpeg" class="attachment-large size-large wp-post-image" alt="Underwood Coffee Duluth downtown" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-620x375.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-300x181.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-150x91.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-768x465.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>On the ground floor of a historic building in downtown Duluth, Minnesota, Underwood Coffee overcame the odds to transform a dormant retail corner into a lively new cafe.&#160; After funding...]]>
       </description>
       <source:markdown>![Underwood Coffee Duluth downtown](https://dailycoffeenews.com/wp-content/uploads/2026/06/Underwood-Coffee-Duluth-downtown-1-620x375.jpeg)
 
@@ -233,7 +719,7 @@ On the ground floor of a historic building in downtown Duluth, Minnesota, Underw
       <title>The San Franciscan Roaster Company is Under New Ownership</title>
       <link>https://dailycoffeenews.com/2026/06/29/the-san-franciscan-roaster-company-is-under-new-ownership/</link>
       <description>
-        <![CDATA[<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-620x413.jpg" class="attachment-large size-large wp-post-image" alt="san_fran_roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Nevada-based San Franciscan Roaster Company is under new ownership and leadership, with food manufacturing executive Dave Marson buying the company and Matthew Sewell named CEO. The financial terms of the...]]>
+        <![CDATA[<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-620x413.jpg" class="attachment-large size-large wp-post-image" alt="san_fran_roaster" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Nevada-based San Franciscan Roaster Company is under new ownership and leadership, with food manufacturing executive Dave Marson buying the company and Matthew Sewell named CEO. The financial terms of the...]]>
       </description>
       <source:markdown>![san_fran_roaster](https://dailycoffeenews.com/wp-content/uploads/2018/05/san_fran_roaster-620x413.jpg)
 
@@ -270,6 +756,37 @@ Nevada-based San Franciscan Roaster Company is under new ownership and leadershi
       <category>San Franciscan Roaster Co.</category>
       <category>Sherman Dodd</category>
       <category>University of Nevada Reno</category>
+    </item>    <item>
+      <title>Knickerbocker Glory Sundae</title>
+      <link>https://www.tasteofhome.com/recipes/knickerbocker-glory-sundae/</link>
+      <description>
+        <![CDATA[If you love old-fashioned soda fountains but don't have one nearby, make a knickerbocker glory sundae at home. It's a glorious striped summertime treat!]]>
+      </description>
+      <source:markdown>If you love old-fashioned soda fountains but don&#39;t have one nearby, make a knickerbocker glory sundae at home. It&#39;s a glorious striped summertime treat!</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2250614</guid>
+      <category>Berries</category>
+      <category>British</category>
+      <category>Cooking Style</category>
+      <category>Cuisines</category>
+      <category>Dessert Sauces &#38; Toppings</category>
+      <category>Desserts</category>
+      <category>Dishes &#38; Beverages</category>
+      <category>Europe</category>
+      <category>Fruits</category>
+      <category>Holidays</category>
+      <category>Holidays &#38; Events</category>
+      <category>How To</category>
+      <category>Ice Cream</category>
+      <category>Ice Cream &#38; Frozen Treats</category>
+      <category>Ingredients</category>
+      <category>July 4th</category>
+      <category>Meal Types</category>
+      <category>Memorial Day</category>
+      <category>Quick</category>
+      <category>Recipes</category>
+      <category>Strawberries</category>
+      <category>Sundaes &#38; Splits</category>
+      <category>Test Kitchen</category>
     </item>    <item>
       <title>Coffee News Club: Week of June 29</title>
       <link>https://freshcup.com/coffee-news-club-week-of-june-29/</link>
@@ -363,7 +880,7 @@ The post [Chipotle Lime Chicken Salad](https://www.closetcooking.com/chipotle-li
       <title>The Best Grilled Chicken Marinade</title>
       <link>https://www.chilipeppermadness.com/recipes/grilled-chicken-marinade/</link>
       <description>
-        <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/grilled-chicken-marinade/" title="The Best Grilled Chicken Marinade" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Perfectly grilled chicken on a plate, so juicy and moist from the chicken marinade" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This grilled chicken marinade gives you the most tender and juicy chicken on the grill, or any way you cook it, every time, with big flavor and zing!</p>
+        <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/grilled-chicken-marinade/" title="The Best Grilled Chicken Marinade" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Perfectly grilled chicken on a plate, so juicy and moist from the chicken marinade" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This grilled chicken marinade gives you the most tender and juicy chicken on the grill, or any way you cook it, every time, with big flavor and zing!</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/grilled-chicken-marinade/">The Best Grilled Chicken Marinade</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
       <source:markdown>[![Perfectly grilled chicken on a plate, so juicy and moist from the chicken marinade](https://www.chilipeppermadness.com/wp-content/uploads/2024/04/Grilled-Chicken-Marinade-Recipe2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/grilled-chicken-marinade/ &#34;The Best Grilled Chicken Marinade&#34;)
@@ -685,7 +1202,7 @@ The post [I Caramelized Onions in Half the Time—with a Microwave](https://www.
       <title>Kauai Coffee Inks Long-Term Lease After Months of Uncertainty</title>
       <link>https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/</link>
       <description>
-        <![CDATA[<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Kauai Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Kauai Coffee Co. has signed a new long-term agricultural lease with landowner Brue Baukol Capital Partners (BBCP), ending a months-long standoff that had put more than 140 jobs and the...]]>
+        <![CDATA[<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Kauai Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Kauai Coffee Co. has signed a new long-term agricultural lease with landowner Brue Baukol Capital Partners (BBCP), ending a months-long standoff that had put more than 140 jobs and the...]]>
       </description>
       <source:markdown>![Kauai Coffee](https://dailycoffeenews.com/wp-content/uploads/2026/06/Kauai-Coffee-620x413.jpg)
 
@@ -3771,157 +4288,6 @@ The post [Italian Giardiniera (Classic Antipasto Platter)](https://www.chilipepp
 
 The post [I Tried KFC’s ‘Supergirl’ Menu, and This New Sauce Is Outta This World](https://www.tasteofhome.com/article/kfc-supergirl-meal-review/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
       <guid>cid://https://www.tasteofhome.com/?p=2251196</guid>
-    </item>    <item>
-      <title>23 Cobbler Recipes, Plus Crisps, Buckles, and Everything In Between</title>
-      <link>https://www.bonappetit.com/gallery/crisp-crumble-and-cobbler-recipes</link>
-      <description>
-        <![CDATA[Brown butter peach, caramel apple, and more of our favorite easier-than-pies.]]>
-      </description>
-      <source:markdown>Brown butter peach, caramel apple, and more of our favorite easier-than-pies.</source:markdown>
-      <guid>cid://57ed34945f4b6a221444a52e</guid>
-    </item>    <item>
-      <title>The Best Coffee Ice Cream, According to Our Taste Test</title>
-      <link>https://www.bonappetit.com/story/best-coffee-ice-cream-taste-test</link>
-      <description>
-        <![CDATA[We tried 10 popular supermarket brands in the Test Kitchen.]]>
-      </description>
-      <source:markdown>We tried 10 popular supermarket brands in the Test Kitchen.</source:markdown>
-      <guid>cid://6a2857dc7a757ca83729c7c8</guid>
-    </item>    <item>
-      <title>The Best Way to Hull a Strawberry Is with a Fork—Here’s How</title>
-      <link>https://www.tasteofhome.com/article/strawberry-fork-trick/</link>
-      <description>
-        <![CDATA[<p>Strawberry season is far too short to waste perfectly good berries.</p>
-        <p>The post <a href="https://www.tasteofhome.com/article/strawberry-fork-trick/">The Best Way to Hull a Strawberry Is with a Fork—Here&#8217;s How</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <source:markdown>Strawberry season is far too short to waste perfectly good berries.
-
-The post [The Best Way to Hull a Strawberry Is with a Fork—Here’s How](https://www.tasteofhome.com/article/strawberry-fork-trick/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?p=2250972</guid>
-    </item>    <item>
-      <title>Diners Are More Curious Than Ever—And It Has These James Beard Nominees Excited</title>
-      <link>https://www.bonappetit.com/story/james-beard-award-nominee-interviews</link>
-      <description>
-        <![CDATA[Ahead of the James Beard Awards, six chefs share how eager crowds, passionate young cooks, and deep cultural storytelling keep them inspired.]]>
-      </description>
-      <source:markdown>Ahead of the James Beard Awards, six chefs share how eager crowds, passionate young cooks, and deep cultural storytelling keep them inspired.</source:markdown>
-      <guid>cid://6a2865f742df781d21943992</guid>
-    </item>    <item>
-      <title>Perfect Pasta Primavera</title>
-      <link>https://www.bonappetit.com/recipe/pasta-primavera</link>
-      <description>
-        <![CDATA[A reader favorite for almost 50 years, freshly updated with a brighter sauce.]]>
-      </description>
-      <source:markdown>A reader favorite for almost 50 years, freshly updated with a brighter sauce.</source:markdown>
-      <guid>cid://6a2844d8a1c6968d016f1132</guid>
-    </item>    <item>
-      <title>The Best Nonstick Pans, After Years of Testing (2026)</title>
-      <link>https://www.bonappetit.com/story/best-nonstick-pans</link>
-      <description>
-        <![CDATA[You only need one, and we’ve tested dozens to find the very best.]]>
-      </description>
-      <source:markdown>You only need one, and we’ve tested dozens to find the very best.</source:markdown>
-      <guid>cid://5dbb3050d1c5b10008746c9b</guid>
-    </item>    <item>
-      <title>Where to Eat, Drink, and Stay in America&#39;s World Cup Cities</title>
-      <link>https://www.bonappetit.com/story/world-cup-city-guides</link>
-      <description>
-        <![CDATA[Soccer (football?) fever has officially taken ahold of the nation. Here’s how to maximize your enjoyment between matches.]]>
-      </description>
-      <source:markdown>Soccer (football?) fever has officially taken ahold of the nation. Here’s how to maximize your enjoyment between matches.</source:markdown>
-      <guid>cid://69f0e7a7e0895bd63e258809</guid>
-    </item>    <item>
-      <title>The Barbax Promises to Do the Hard Work of Delivering Hot and Cold Drinks on Tap</title>
-      <link>https://dailycoffeenews.com/2026/06/09/the-barbax-promises-to-do-the-hard-work-of-delivering-hot-and-cold-drinks-on-tap/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="452" src="https://dailycoffeenews.com/wp-content/uploads/2026/05/Barbax-coffee-620x452.jpg" class="attachment-large size-large wp-post-image" alt="Barbax coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/05/Barbax-coffee-620x452.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Barbax-coffee-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Barbax-coffee-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Barbax-coffee-768x559.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Barbax-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Olympia, Washington-based specialty beverage solutions startup The Coffee Dept used the recent World of Coffee San Diego and National Restaurant Association trade shows to introduce Barbax VC, a configurable multi-tap...]]>
-      </description>
-      <source:markdown>![Barbax coffee](https://dailycoffeenews.com/wp-content/uploads/2026/05/Barbax-coffee-620x452.jpg)
-
-Olympia, Washington-based specialty beverage solutions startup The Coffee Dept used the recent World of Coffee San Diego and National Restaurant Association trade shows to introduce Barbax VC, a configurable multi-tap...</source:markdown>
-      <guid>cid://https://dailycoffeenews.com/?p=196673</guid>
-    </item>    <item>
-      <title>Tortellini Grinder Salad</title>
-      <link>https://www.tasteofhome.com/recipes/tortellini-grinder-salad/</link>
-      <description>
-        <![CDATA[The tortellini grinder salad takes one of New England's favorite sandwiches and reimagines it as a hearty pasta salad.]]>
-      </description>
-      <source:markdown>The tortellini grinder salad takes one of New England&#39;s favorite sandwiches and reimagines it as a hearty pasta salad.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2251172</guid>
-    </item>    <item>
-      <title>The Sprudge Guide To Mexico City’s Condesa Neighborhood</title>
-      <link>https://sprudge.com/the-sprudge-guide-to-mexico-citys-condesa-neighborhood-959844.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in the Condesa neighborhood of Mexico City, Mexico.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Where to drink coffee in the Condesa neighborhood of Mexico City, Mexico.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=959844</guid>
-    </item>    <item>
-      <title>SCA Launches Master of Specialty Coffee Program</title>
-      <link>https://dailycoffeenews.com/2026/06/09/sca-launches-master-of-specialty-coffee-program/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2026/06/Master-of-Coffee-620x400.png" class="attachment-large size-large wp-post-image" alt="Master of Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/06/Master-of-Coffee-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Master-of-Coffee-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Master-of-Coffee-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Master-of-Coffee-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2026/06/Master-of-Coffee.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) is launching a new professional certification program called Master of Specialty Coffee, describing it as “the highest professional distinction in specialty coffee” and comparing it...]]>
-      </description>
-      <source:markdown>![Master of Coffee](https://dailycoffeenews.com/wp-content/uploads/2026/06/Master-of-Coffee-620x400.png)
-
-The Specialty Coffee Association (SCA) is launching a new professional certification program called Master of Specialty Coffee, describing it as “the highest professional distinction in specialty coffee” and comparing it...</source:markdown>
-      <guid>cid://https://dailycoffeenews.com/?p=197031</guid>
-    </item>    <item>
-      <title>Our Monthly Faves: 6 Amazon Picks Our Shopping Editors Love Ahead of Prime Day</title>
-      <link>https://www.tasteofhome.com/article/june-2026-editors-picks/</link>
-      <description>
-        <![CDATA[<p>Struggling to find a way to cook your eggs quickly? How about cleaning your grill? Here are our Shopping Editors' favorite Amazon finds.</p>
-        <p>The post <a href="https://www.tasteofhome.com/article/june-2026-editors-picks/">Our Monthly Faves: 6 Amazon Picks Our Shopping Editors Love Ahead of Prime Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <source:markdown>Struggling to find a way to cook your eggs quickly? How about cleaning your grill? Here are our Shopping Editors&#39; favorite Amazon finds.
-
-The post [Our Monthly Faves: 6 Amazon Picks Our Shopping Editors Love Ahead of Prime Day](https://www.tasteofhome.com/article/june-2026-editors-picks/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?p=2250299</guid>
-    </item>    <item>
-      <title>Tiramisu Cake</title>
-      <link>https://www.tasteofhome.com/recipes/tiramisu-cake/</link>
-      <description>
-        <![CDATA[Can't get enough tiramisu? Neither can we; that's why we can't stop eating this tiramisu cake!]]>
-      </description>
-      <source:markdown>Can&#39;t get enough tiramisu? Neither can we; that&#39;s why we can&#39;t stop eating this tiramisu cake!</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2197024</guid>
-    </item>    <item>
-      <title>Attention Coffee’s First Shop in Portland Adds Focus to Fitness</title>
-      <link>https://dailycoffeenews.com/2026/06/09/attention-coffees-first-shop-in-portland-adds-focus-to-fitness/</link>
-      <description>
-        <![CDATA[<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2026/05/Attention-Coffee-Portland-bar-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Attention Coffee Portland bar" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2026/05/Attention-Coffee-Portland-bar-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Attention-Coffee-Portland-bar-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Attention-Coffee-Portland-bar-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Attention-Coffee-Portland-bar-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2026/05/Attention-Coffee-Portland-bar.jpg 1080w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Bringing fitness, wellness and fresh roasts together, the first Attention Coffee shop has opened inside the shared lobby of BodyRiot in Portland, Oregon&#8217;s Sellwood neighborhood. The shop builds off a...]]>
-      </description>
-      <source:markdown>![Attention Coffee Portland bar](https://dailycoffeenews.com/wp-content/uploads/2026/05/Attention-Coffee-Portland-bar-620x467.jpg)
-
-Bringing fitness, wellness and fresh roasts together, the first Attention Coffee shop has opened inside the shared lobby of BodyRiot in Portland, Oregon’s Sellwood neighborhood. The shop builds off a...</source:markdown>
-      <guid>cid://https://dailycoffeenews.com/?p=196333</guid>
-    </item>    <item>
-      <title>A Colorado Cupping Of Competitive Congolese Cooperative Coffees</title>
-      <link>https://sprudge.com/a-colorado-cupping-of-competitive-congolese-cooperative-coffees-1061209.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The 2026 Best of Congo Cooperatives cupping takes place Friday, June 19th in Denver, Colorado.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. The 2026 Best of Congo Cooperatives cupping takes place Friday, June 19th in Denver, Colorado.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=1061209</guid>
-    </item>    <item>
-      <title>Earthquake Wrecks Vital Water Tanks For Many Kona Coffee Farmers</title>
-      <link>https://freshcup.com/earthquake-wrecks-vital-water-tanks-for-many-kona-coffee-farmers/</link>
-      <description>
-        <![CDATA[<p>Coffee in Hawaii has been hard hit in recent years. Now, an earthquake has destroyed already-fragile water systems in Kona.</p>
-        <p>The post <a href="https://freshcup.com/earthquake-wrecks-vital-water-tanks-for-many-kona-coffee-farmers/">Earthquake Wrecks Vital Water Tanks For Many Kona Coffee Farmers</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <source:markdown>Coffee in Hawaii has been hard hit in recent years. Now, an earthquake has destroyed already-fragile water systems in Kona.
-
-The post [Earthquake Wrecks Vital Water Tanks For Many Kona Coffee Farmers](https://freshcup.com/earthquake-wrecks-vital-water-tanks-for-many-kona-coffee-farmers/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
-      <guid>cid://https://freshcup.com/?p=44705</guid>
-    </item>    <item>
-      <title>Copycat McDonald’s Dirty Dr Pepper</title>
-      <link>https://www.tasteofhome.com/recipes/copycat-mcdonalds-dirty-dr-pepper/</link>
-      <description>
-        <![CDATA[A copycat McDonald's dirty Dr Pepper recipe tastes just like the version you can get at your favorite fast-food chain. It's a great starter drink if you haven't tried a dirty soda before!]]>
-      </description>
-      <source:markdown>A copycat McDonald&#39;s dirty Dr Pepper recipe tastes just like the version you can get at your favorite fast-food chain. It&#39;s a great starter drink if you haven&#39;t tried a dirty soda before!</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2250985</guid>
     </item>
   </channel>
 </rss>

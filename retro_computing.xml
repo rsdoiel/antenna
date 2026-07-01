@@ -4,10 +4,43 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>30 Jun 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>01 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>FreeDOS Kernel 2046 (version 2.46)</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/06/freedos-kernel-2046-version-246/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>FreeDOS Kernel is the core part of FreeDOS that provides DOS services (program loading, file and device I/O, memory management, and the INT 21h API most DOS software uses). Kernel 2046 is an incremental maintenance release with edge‑case fixes and compatibility updates. Changes in this release include: - bugfix: CD on remote Lantastic mapped drives - bugfix: print to Lantastic redirected printers - misc: port some improvements from FDPP (Stas &amp; Andrew) - bugfix: move control-break handler off stack, fix Invisible Lan redir - bugfix: rework truename so when on mapped drive with invalid CDS properly resolves character devices (i.e. fix copy CON). Thanks to Andrew Bird and Jeremy Davis for these updates to the FreeDOS Kernel! You can find it at <a href="https://github.com/FDOS/kernel" rel="nofollow">FreeDOS Kernel at GitHub</a> or more directly from the <a href="https://github.com/FDOS/kernel/releases/tag/ke2046" rel="nofollow">FreeDOS Kernel 2046</a> release tag. We've also mirrored this to the FreeDOS Files Archive at Ibiblio, under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/kernel/2045/" rel="nofollow">files/dos/kernel</a>.</p></div>]]>
+      </description>
+      <source:markdown>FreeDOS Kernel is the core part of FreeDOS that provides DOS services (program loading, file and device I/O, memory management, and the INT 21h API most DOS software uses). Kernel 2046 is an incremental maintenance release with edge‑case fixes and compatibility updates. Changes in this release include: - bugfix: CD on remote Lantastic mapped drives - bugfix: print to Lantastic redirected printers - misc: port some improvements from FDPP (Stas &#38; Andrew) - bugfix: move control-break handler off stack, fix Invisible Lan redir - bugfix: rework truename so when on mapped drive with invalid CDS properly resolves character devices (i.e. fix copy CON). Thanks to Andrew Bird and Jeremy Davis for these updates to the FreeDOS Kernel! You can find it at [FreeDOS Kernel at GitHub](https://github.com/FDOS/kernel) or more directly from the [FreeDOS Kernel 2046](https://github.com/FDOS/kernel/releases/tag/ke2046) release tag. We&#39;ve also mirrored this to the FreeDOS Files Archive at Ibiblio, under [files/dos/kernel](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/kernel/2045/).</source:markdown>
+      <guid>cid://https://sourceforge.net6116e5e47647d929fe8ef224807166957cd36ea4</guid>
+    </item>    <item>
+      <title>FDNPKG16 0.99.8254d</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/06/fdnpkg16-0998254d/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>FDNPKG16 is a Network Package Manager for FreeDOS, which runs in 16-bit mode. Victoria has been making updates to the package manager, and recently released a new update. Victoria share these changes: "- cleaned a bunch of code - added basic error levels - fixed a potential bug with an error catcher and lsxflag - fixed the untested open watcom 1.9 compiling with the makefile in DOS." FDNPKG16 is open source, under the MIT license. You can download the new release from <a href="https://github.com/sparky4/fdnpkg16" rel="nofollow">FDNPKG16 at GitHub</a> or more directly as a zip file at <a href="https://github.com/sparky4/fdnpkg16/releases/download/0.99.8254d/fdnpkg16.zip" rel="nofollow">fdnpkg16·zip</a>. This is also mirrored on Victoria's personal server at <a href="https://4ch.mooo.com/freedos/repos/1.4/net/fdnpkg16.zip" rel="nofollow">fdnpkg16·zip</a>.</p></div>]]>
+      </description>
+      <source:markdown>FDNPKG16 is a Network Package Manager for FreeDOS, which runs in 16-bit mode. Victoria has been making updates to the package manager, and recently released a new update. Victoria share these changes: &#34;- cleaned a bunch of code - added basic error levels - fixed a potential bug with an error catcher and lsxflag - fixed the untested open watcom 1.9 compiling with the makefile in DOS.&#34; FDNPKG16 is open source, under the MIT license. You can download the new release from [FDNPKG16 at GitHub](https://github.com/sparky4/fdnpkg16) or more directly as a zip file at [fdnpkg16·zip](https://github.com/sparky4/fdnpkg16/releases/download/0.99.8254d/fdnpkg16.zip). This is also mirrored on Victoria&#39;s personal server at [fdnpkg16·zip](https://4ch.mooo.com/freedos/repos/1.4/net/fdnpkg16.zip).</source:markdown>
+      <guid>cid://https://sourceforge.netebc7e8c7242acffc21e3d3d7a664a31dcb589a78</guid>
+    </item>    <item>
+      <title>b.log 2026/06/30 - I&#39;m baaaaack!</title>
+      <link>https://heyrick.eu/blog/entry/20260630</link>
+      <description>
+        <![CDATA[I'm baaaaack!]]>
+      </description>
+      <source:markdown>I&#39;m baaaaack!</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260630</guid>
+    </item>    <item>
+      <title>Kubuntu Focus Goes Ultra</title>
+      <link>http://www.linux-magazine.com/Online/News/Kubuntu-Focus-Goes-Ultra</link>
+      <description>
+        <![CDATA[<p>The Kubuntu Focus team has upped the performance ante of its M2 and Zr laptops with the latest, greatest CPUs from Intel.</p>]]>
+      </description>
+      <source:markdown>The Kubuntu Focus team has upped the performance ante of its M2 and Zr laptops with the latest, greatest CPUs from Intel.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://98099158b71192205f6ed0557651beb1</guid>
+    </item>    <item>
       <title>Linux Gamers May Soon See Less Mouse Lag in KDE Plasma</title>
       <link>http://www.linux-magazine.com/Online/News/Linux-Gamers-May-Soon-See-Less-Mouse-Lag-in-KDE-Plasma</link>
       <description>
@@ -2533,38 +2566,6 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
       <author>gregorynacu@me.com (Gregory Nacu)</author>
       <guid>cid://https://www.c64os.com/post?p=136</guid>
       <category>Hardware</category>
-    </item>    <item>
-      <title>FDNPKG16 v0.99.8254c released</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/06/fdnpkg16-v0998254c-released/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>FDNPKG16 is a network-aware package manager for FreeDOS. Thanks to Victoria for releasing another update with fixes and new features: * case-less file name comparisons when checking packages for conflicting files on hard disk * you can now press a or 3 to abort the installation of a package with files on disk * updated translations. You can get it from the <a href="https://git.gay/sparky4/fdnpkg16/releases/tag/0.99.8254c" rel="nofollow">FDNPKG16 v0.99.8254c release</a> in Victoria's Git instance.</p></div>]]>
-      </description>
-      <source:markdown>FDNPKG16 is a network-aware package manager for FreeDOS. Thanks to Victoria for releasing another update with fixes and new features: \* case-less file name comparisons when checking packages for conflicting files on hard disk \* you can now press a or 3 to abort the installation of a package with files on disk \* updated translations. You can get it from the [FDNPKG16 v0.99.8254c release](https://git.gay/sparky4/fdnpkg16/releases/tag/0.99.8254c) in Victoria&#39;s Git instance.</source:markdown>
-      <guid>cid://https://sourceforge.net30f0b9ca998f492ec9aca8f6526b8aab228ef3aa</guid>
-    </item>    <item>
-      <title>b.log 2026/06/09 - Playing with search engines, I asked ChatGPT to roast me.</title>
-      <link>https://heyrick.eu/blog/entry/20260609</link>
-      <description>
-        <![CDATA[Playing with search engines, I asked ChatGPT to roast me.]]>
-      </description>
-      <source:markdown>Playing with search engines, I asked ChatGPT to roast me.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260609</guid>
-    </item>    <item>
-      <title>Lynx 2.9.3 (needs DOS exe)</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/06/lynx-293-needs-dos-exe/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Lynx is a web browser that works in text mode. Lynx version 2.9.3 was released on May 31, and includes several key fixes and updates; see the <a href="https://lynx.invisible-island.net/current/CHANGES.html" rel="nofollow">list of changes</a> for details. However, this version does not have a DOS exe (although the sources contain a DOS makefile). If you'd like to contribute, consider compiling (and sharing) a DOS exe for others to use. You can get the new release from the <a href="https://lynx.invisible-island.net/lynx.html" rel="nofollow">Lynx website</a>.</p></div>]]>
-      </description>
-      <source:markdown>Lynx is a web browser that works in text mode. Lynx version 2.9.3 was released on May 31, and includes several key fixes and updates; see the [list of changes](https://lynx.invisible-island.net/current/CHANGES.html) for details. However, this version does not have a DOS exe (although the sources contain a DOS makefile). If you&#39;d like to contribute, consider compiling (and sharing) a DOS exe for others to use. You can get the new release from the [Lynx website](https://lynx.invisible-island.net/lynx.html).</source:markdown>
-      <guid>cid://https://sourceforge.net649aba2f1e7cab0ad0a8910b3cacfa1ed623e8d7</guid>
-    </item>    <item>
-      <title>X-VESA video testing program</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/06/x-vesa-video-testing-program/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>X-VESA is a DOS diagnostic program for in-depth analysis and verification of VESA interfaces on real hardware, written entirely in x86 assembly language. Thanks to Marco for sharing this program. See <a href="https://github.com/Marco-Pistella/X-VESA" rel="nofollow">X-VESA on GitHub</a> for more information, including a full list of features and source code. X-VESA is available under the GNU GPL v3.</p></div>]]>
-      </description>
-      <source:markdown>X-VESA is a DOS diagnostic program for in-depth analysis and verification of VESA interfaces on real hardware, written entirely in x86 assembly language. Thanks to Marco for sharing this program. See [X-VESA on GitHub](https://github.com/Marco-Pistella/X-VESA) for more information, including a full list of features and source code. X-VESA is available under the GNU GPL v3.</source:markdown>
-      <guid>cid://https://sourceforge.netbaa1da514508417c4ee49ecb880a496c465c1d90</guid>
     </item>
   </channel>
 </rss>
