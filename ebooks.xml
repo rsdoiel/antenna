@@ -4,10 +4,109 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>01 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>02 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>An introduction to philology : by Clement Wood</title>
+      <link>https://www.gutenberg.org/ebooks/78985</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>&#34;A Daily Rate.&#34; by Grace Livingston Hill</title>
+      <link>https://www.gutenberg.org/ebooks/78992</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Trial by Franz Kafka</title>
+      <link>https://www.gutenberg.org/ebooks/7849</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The facts about rejuvenation by Morris Fishbein</title>
+      <link>https://www.gutenberg.org/ebooks/78989</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>How to become mentally superior : by Henri Le Chatelier</title>
+      <link>https://www.gutenberg.org/ebooks/78988</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ralph Waldo Emerson : by Samuel McChord Crothers</title>
+      <link>https://www.gutenberg.org/ebooks/78986</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>&#39;Gainst the might of Spain : by Percy F.  Westerman</title>
+      <link>https://www.gutenberg.org/ebooks/78984</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A tin cup trophy by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78987</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Badinage by Jean de La Brète</title>
+      <link>https://www.gutenberg.org/ebooks/78993</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Moxon&#39;s Mechanick exercises, volume 2 (of 2) : by Joseph Moxon</title>
+      <link>https://www.gutenberg.org/ebooks/78991</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>En Mitja-galta : by Joan Pons i Massaveu</title>
+      <link>https://www.gutenberg.org/ebooks/78990</link>
+      <description>
+        <![CDATA[Language: Catalan]]>
+      </description>
+      <source:markdown>Language: Catalan</source:markdown>
+    </item>    <item>
+      <title>The Quest of the Silver Fleece, by W. E. B. Du Bois</title>
+      <link>https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece</link>
+      <description>
+        <![CDATA[In the post-Reconstruction era, a young Black man and woman from the deep South struggle to overcome the economic and political fleecing of their community.]]>
+      </description>
+      <source:markdown>In the post-Reconstruction era, a young Black man and woman from the deep South struggle to overcome the economic and political fleecing of their community.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece/downloads/w-e-b-du-bois_the-quest-of-the-silver-fleece.epub?source=feed" length="915245" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece</guid>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>Jesus the Son of Man, by Kahlil Gibran</title>
+      <link>https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man</link>
+      <description>
+        <![CDATA[The life of Jesus of Nazareth is examined through the lens of the people around him.]]>
+      </description>
+      <source:markdown>The life of Jesus of Nazareth is examined through the lens of the people around him.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/kahlil-gibran_jesus-the-son-of-man.epub?source=feed" length="490101" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man</guid>
+      <category>Fiction</category>
+      <category>Shorts</category>
+      <category>Spirituality</category>
+    </item>    <item>
       <title>The man who put out the sun by Murray Leinster</title>
       <link>https://www.gutenberg.org/ebooks/78979</link>
       <description>
@@ -105,7 +204,7 @@
         <![CDATA[A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.]]>
       </description>
       <source:markdown>A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid/downloads/ameen-rihani_the-book-of-khalid.epub?source=feed" length="573734" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid/downloads/ameen-rihani_the-book-of-khalid.epub?source=feed" length="573860" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid</guid>
       <category>Fiction</category>
       <category>Satire</category>
@@ -207,7 +306,7 @@
         <![CDATA[A collection of science fiction stories by Harry Harrison, ordered by date of publication.]]>
       </description>
       <source:markdown>A collection of science fiction stories by Harry Harrison, ordered by date of publication.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748215" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748319" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/harry-harrison/short-fiction</guid>
       <category>Science Fiction</category>
       <category>Shorts</category>
@@ -218,7 +317,7 @@
         <![CDATA[The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.]]>
       </description>
       <source:markdown>The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/confucius/analects/james-legge/downloads/confucius_analects_james-legge.epub?source=feed" length="451470" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/confucius/analects/james-legge/downloads/confucius_analects_james-legge.epub?source=feed" length="451305" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/confucius/analects/james-legge</guid>
       <category>Philosophy</category>
     </item>    <item>
@@ -284,7 +383,7 @@
         <![CDATA[A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.]]>
       </description>
       <source:markdown>A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/ring-lardner-george-s-kaufman_june-moon.epub?source=feed" length="372991" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/ring-lardner-george-s-kaufman_june-moon.epub?source=feed" length="373117" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon</guid>
       <category>Comedy</category>
       <category>Drama</category>
@@ -422,7 +521,7 @@
         <![CDATA[A philosopher reports on the state of the proletariat in Victorian England.]]>
       </description>
       <source:markdown>A philosopher reports on the state of the proletariat in Victorian England.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky/downloads/friedrich-engels_the-condition-of-the-working-class-in-england_florence-kelley-wischnewetzky.epub?source=feed" length="577434" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky/downloads/friedrich-engels_the-condition-of-the-working-class-in-england_florence-kelley-wischnewetzky.epub?source=feed" length="577418" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky</guid>
       <category>Nonfiction</category>
     </item>    <item>
@@ -600,7 +699,7 @@
         <![CDATA[As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.]]>
       </description>
       <source:markdown>As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/willa-cather/the-professors-house/downloads/willa-cather_the-professors-house.epub?source=feed" length="674709" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/willa-cather/the-professors-house/downloads/willa-cather_the-professors-house.epub?source=feed" length="674817" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/willa-cather/the-professors-house</guid>
       <category>Fiction</category>
     </item>    <item>
@@ -722,7 +821,7 @@
         <![CDATA[A police detective attempts to live the American dream in the Chicago suburbs.]]>
       </description>
       <source:markdown>A police detective attempts to live the American dream in the Chicago suburbs.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/ring-lardner_fred-gross-stories.epub?source=feed" length="583069" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/ring-lardner_fred-gross-stories.epub?source=feed" length="583083" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories</guid>
       <category>Comedy</category>
       <category>Fiction</category>
@@ -1127,7 +1226,7 @@
         <![CDATA[A young married couple take over running an “International Detective Agency.”]]>
       </description>
       <source:markdown>A young married couple take over running an “International Detective Agency.”</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/agatha-christie_partners-in-crime.epub?source=feed" length="471321" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/agatha-christie_partners-in-crime.epub?source=feed" length="471330" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/agatha-christie/partners-in-crime</guid>
       <category>Fiction</category>
       <category>Mystery</category>
@@ -1202,87 +1301,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Romola, by George Eliot</title>
-      <link>https://standardebooks.org/ebooks/george-eliot/romola</link>
-      <description>
-        <![CDATA[A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.]]>
-      </description>
-      <source:markdown>A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/george-eliot/romola/downloads/george-eliot_romola.epub?source=feed" length="986731" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/george-eliot/romola</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Metamorphosis by Franz Kafka</title>
-      <link>https://www.gutenberg.org/ebooks/5200</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Het onderwijzeresje by Felicie Jehu</title>
-      <link>https://www.gutenberg.org/ebooks/78835</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Awakening : by Maud Diver</title>
-      <link>https://www.gutenberg.org/ebooks/78836</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>&#34;Giovannino tai kuolema!&#34; by Matilde Serao</title>
-      <link>https://www.gutenberg.org/ebooks/78833</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Old violins by H. R.  Haweis</title>
-      <link>https://www.gutenberg.org/ebooks/78831</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Extracts from the rules and minutes of the Free Christian Baptist General Conference of New Brunswic</title>
-      <link>https://www.gutenberg.org/ebooks/78832</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nuoren rouvan kesä by Cécile Gilson</title>
-      <link>https://www.gutenberg.org/ebooks/78834</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The Necromancers, by Robert Hugh Benson</title>
-      <link>https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers</link>
-      <description>
-        <![CDATA[A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.]]>
-      </description>
-      <source:markdown>A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers/downloads/robert-hugh-benson_the-necromancers.epub?source=feed" length="565545" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers</guid>
-      <category>Fiction</category>
-      <category>Horror</category>
-      <category>Spirituality</category>
-    </item>    <item>
-      <title>Captains Courageous, by Rudyard Kipling</title>
-      <link>https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous</link>
-      <description>
-        <![CDATA[A spoiled teenager falls overboard an ocean liner and is rescued by a fishing schooner, where the crew forces him to work.]]>
-      </description>
-      <source:markdown>A spoiled teenager falls overboard an ocean liner and is rescued by a fishing schooner, where the crew forces him to work.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous/downloads/rudyard-kipling_captains-courageous.epub?source=feed" length="515980" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/rudyard-kipling/captains-courageous</guid>
-      <category>Fiction</category>
     </item>
   </channel>
 </rss>

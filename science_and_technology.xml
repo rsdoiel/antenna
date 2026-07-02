@@ -4,10 +4,232 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>01 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>02 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Joyride Through July With 12 Games Coming to GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/</link>
+      <description>
+        <![CDATA[Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month.  Plus, don’t let the sun set on the biggest GeForce [&#8230;]]]>
+      </description>
+      <source:markdown>Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month.  Plus, don’t let the sun set on the biggest GeForce \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=95896</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</link>
+      <description>
+        <![CDATA[As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services.  Emerging AI companies historically have [&#8230;]]]>
+      </description>
+      <source:markdown>As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services.  Emerging AI companies historically have \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=95940</guid>
+      <category>AI Infrastructure</category>
+      <category>Cloud</category>
+      <category>AI Factory</category>
+      <category>NVIDIA Blackwell</category>
+    </item>    <item>
+      <title>What’s Up: July 2026 Skywatching Tips from NASA</title>
+      <link>https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/</link>
+      <description>
+        <![CDATA[A predawn Moon-and-planets meetup, a returning comet, a great chance to see the Milky Way, and Saturn’s rings at a new angle. Skywatching Highlights Transcript An early morning hangout with the Moon and planets, a comet swings by, prime time for the Milky Way, and Saturn’s rings shine at a new angle. That’s What’s Up […]]]>
+      </description>
+      <source:markdown>A predawn Moon-and-planets meetup, a returning comet, a great chance to see the Milky Way, and Saturn’s rings at a new angle. Skywatching Highlights Transcript An early morning hangout with the Moon and planets, a comet swings by, prime time for the Milky Way, and Saturn’s rings shine at a new angle. That’s What’s Up \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/</guid>
+      <category>Comets</category>
+      <category>Earth&#39;s Moon</category>
+      <category>Mars</category>
+      <category>Rings of Saturn</category>
+      <category>Saturn</category>
+      <category>Skywatching</category>
+      <category>Skywatching Tips</category>
+      <category>The Milky Way</category>
+      <category>The Solar System</category>
+      <category>Uranus</category>
+    </item>    <item>
+      <title>OSNews statement on slopcoded “operating systems”</title>
+      <link>https://www.osnews.com/story/145407/osnews-statement-on-slopcoded-operating-systems/</link>
+      <description>
+        <![CDATA[Recently, there has been a surge in slopcoded new/hobby &#8220;operating systems&#8221;. Such slopcoded projects &#8211; which, due to the nature of &#8220;AI&#8221; tools, effectively consist of stolen code &#8211; will not be featured on OSNews and submitting them is fruitless. Other websites may choose to employ lower standards, as is their prerogative, but OSNews will not. I obviously cannot guarantee nothing will ever slip through the cracks, but I will take utmost care to ensure OSNews remains free of these so-called &#8220;sloperating systems&#8221;. Plagiarism, license-washing, and code theft have no place in the world of enthusiast and hobby operating systems.]]>
+      </description>
+      <source:markdown>Recently, there has been a surge in slopcoded new/hobby “operating systems”. Such slopcoded projects – which, due to the nature of “AI” tools, effectively consist of stolen code – will not be featured on OSNews and submitting them is fruitless. Other websites may choose to employ lower standards, as is their prerogative, but OSNews will not. I obviously cannot guarantee nothing will ever slip through the cracks, but I will take utmost care to ensure OSNews remains free of these so-called “sloperating systems”. Plagiarism, license-washing, and code theft have no place in the world of enthusiast and hobby operating systems.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145407</guid>
+      <category>OS News</category>
+    </item>    <item>
+      <title>European digital ID wallets are a gift to Google and Apple</title>
+      <link>https://www.osnews.com/story/145405/european-digital-id-wallets-are-a-gift-to-google-and-apple/</link>
+      <description>
+        <![CDATA[European governments are rolling out digital identity wallets, which are to be used by citizens to access services, and to verify their age online. As reported by Follow the Money and Android Authority, there is a serious problem with this: these wallets rely on safety services of Google and Apple. These are known as Google Play Integrity API, and Apple’s Managed Device Attestation. Such safety services (known as “remote attestation”) are used to ensure that wallet apps run on hardware that is not tampered with. In this article we explain why the EU-wallet case is part of a bigger problem: by embedding these safety services in public infrastructure, Europe risks making society dependent on private companies while serving their corporate interests. ↫ Danny Lämmerhirt Setting aside the age verification nonsense, the fact that some European government are tying their identification services to iOS and Google Android is absolutely bonkers, especially in this day and age. There&#8217;s endless talk about reducing European dependence on the American tech giants who seem all too eager to do roll over when the Trump regime so much as glances in their general direction, and yet, they seem to want to effectively force us citizens to use American tech products. Essential online tools, like banking, government services, communication services, digital driver&#8217;s licenses, and more, should not require the use of iOS or Google Android.]]>
+      </description>
+      <source:markdown>European governments are rolling out digital identity wallets, which are to be used by citizens to access services, and to verify their age online. As reported by Follow the Money and Android Authority, there is a serious problem with this: these wallets rely on safety services of Google and Apple. These are known as Google Play Integrity API, and Apple’s Managed Device Attestation. Such safety services (known as “remote attestation”) are used to ensure that wallet apps run on hardware that is not tampered with. In this article we explain why the EU-wallet case is part of a bigger problem: by embedding these safety services in public infrastructure, Europe risks making society dependent on private companies while serving their corporate interests. ↫ Danny Lämmerhirt Setting aside the age verification nonsense, the fact that some European government are tying their identification services to iOS and Google Android is absolutely bonkers, especially in this day and age. There’s endless talk about reducing European dependence on the American tech giants who seem all too eager to do roll over when the Trump regime so much as glances in their general direction, and yet, they seem to want to effectively force us citizens to use American tech products. Essential online tools, like banking, government services, communication services, digital driver’s licenses, and more, should not require the use of iOS or Google Android.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145405</guid>
+      <category>Legal</category>
+    </item>    <item>
+      <title>“Apple should end their prohibition on shapes in MacOS app icons”</title>
+      <link>https://www.osnews.com/story/145403/apple-should-end-their-prohibition-on-shapes-in-macos-app-icons/</link>
+      <description>
+        <![CDATA[There&#8217;s a lot you can say about macOS, but one thing Apple used to be incredibly good at were making beautifully crafted, detailed icons. As with almost every other aspect of macOS, this deteriorated sharply over the years, with the recent macOS releases with Liquid Glass being an absolute low point. Not only have they become bland and featureless, Apple also started forcing every icons to have the exact same rounded-rectangle shape, making them even harder to distinguish from one another. Rogue Amoeba, a company with a long history of developing applications with beautiful iconography, published a blog post pleading Apple to go back to proper icon design. With last year’s release of MacOS 26 (Tahoe), Apple made a mess of app icons. In the first betas of MacOS 27 (Golden Gate), however, there are signs of a turnaround. We’re urging Apple to continue making improvements, by restoring the ability for MacOS app icons to have distinct shapes. ↫ Paul Kafasis at the Rogue Amoeba blog I really hope Apple will turn its icon ship around.]]>
+      </description>
+      <source:markdown>There’s a lot you can say about macOS, but one thing Apple used to be incredibly good at were making beautifully crafted, detailed icons. As with almost every other aspect of macOS, this deteriorated sharply over the years, with the recent macOS releases with Liquid Glass being an absolute low point. Not only have they become bland and featureless, Apple also started forcing every icons to have the exact same rounded-rectangle shape, making them even harder to distinguish from one another. Rogue Amoeba, a company with a long history of developing applications with beautiful iconography, published a blog post pleading Apple to go back to proper icon design. With last year’s release of MacOS 26 (Tahoe), Apple made a mess of app icons. In the first betas of MacOS 27 (Golden Gate), however, there are signs of a turnaround. We’re urging Apple to continue making improvements, by restoring the ability for MacOS app icons to have distinct shapes. ↫ Paul Kafasis at the Rogue Amoeba blog I really hope Apple will turn its icon ship around.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145403</guid>
+      <category>macOS</category>
+    </item>    <item>
+      <title>Alexander Hamilton&#39;s First National Bank Revolutionized the U.S. Economy. After Sitting Shuttered for Years, the Philadelphia Landmark Reopened as a Museum</title>
+      <link>https://www.smithsonianmag.com/smart-news/alexander-hamiltons-first-national-bank-revolutionized-the-us-economy-after-sitting-shuttered-for-years-the-philadelphia-landmark-reopened-as-a-museum-180989056/</link>
+      <description>
+        <![CDATA[A controversial idea right after the American Revolution, the First Bank of the United States proved prescient. Visitors can now check out its historic home after a $43 million makeover]]>
+      </description>
+      <source:markdown>A controversial idea right after the American Revolution, the First Bank of the United States proved prescient. Visitors can now check out its historic home after a $43 million makeover</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/f8ANSssySYjgKmtttAA5_5jfhUc=/420x240/filters:focal(960x750:961x751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/9a/309a8008-1d06-48bc-b527-5367d1148b75/first_bank_of_the_united_states_philadelphia_pennsylvania_lccn2011633532_edited.jpg" length="849459" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/alexander-hamiltons-first-national-bank-revolutionized-the-us-economy-after-sitting-shuttered-for-years-the-philadelphia-landmark-reopened-as-a-museum-180989056/</guid>
+    </item>    <item>
+      <title>&#39;The Greatest Cosmic Movie Ever Made&#39;: The World&#39;s Largest Digital Camera Begins a Historic, Decade-Long Survey of the Night Sky</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-greatest-cosmic-movie-ever-made-the-worlds-largest-digital-camera-begins-a-historic-decade-long-survey-of-the-night-sky-180989059/</link>
+      <description>
+        <![CDATA[After a year of testing, the Vera C. Rubin Observatory in Chile has started capturing data as part of the much-anticipated Legacy Survey of Space and Time]]>
+      </description>
+      <source:markdown>After a year of testing, the Vera C. Rubin Observatory in Chile has started capturing data as part of the much-anticipated Legacy Survey of Space and Time</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Z-vd8MSSjwvHOdK6nzjQOckO3LY=/420x240/filters:focal(640x341:641x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/d0/85d0e1d0-9ad4-41c2-8f9b-aa7b89b0a532/noirlab2616a.webp" length="386774" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-greatest-cosmic-movie-ever-made-the-worlds-largest-digital-camera-begins-a-historic-decade-long-survey-of-the-night-sky-180989059/</guid>
+    </item>    <item>
+      <title>NASA’s Chandra Examines Milky Way at Arms’ Length</title>
+      <link>https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/</link>
+      <description>
+        <![CDATA[A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds […]]]>
+      </description>
+      <source:markdown>A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/</guid>
+      <category>Astrophysics</category>
+      <category>Chandra X-Ray Observatory</category>
+      <category>Galaxies</category>
+      <category>Marshall Astrophysics</category>
+      <category>Marshall Space Flight Center</category>
+      <category>The Milky Way</category>
+      <category>The Universe</category>
+    </item>    <item>
+      <title>Vintage ‘READ’ Posters Adorning Libraries and Classrooms for Decades Go on Auction as the American Library Association Turns 150</title>
+      <link>https://www.smithsonianmag.com/smart-news/vintage-read-posters-adorning-libraries-and-classrooms-for-decades-go-on-auction-as-the-american-library-association-turns-150-180989057/</link>
+      <description>
+        <![CDATA[Taylor Swift, Serena Williams and famous fictional characters lent their iconic faces to encourage people to pick up a book]]>
+      </description>
+      <source:markdown>Taylor Swift, Serena Williams and famous fictional characters lent their iconic faces to encourage people to pick up a book</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BHkPUFFZdX51i7NAwuSK0gfV4_8=/420x240/filters:focal(425x275:426x276)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b4/74/b4743418-22b6-4b6d-8bec-844a465c29f5/ha.jpeg" length="107899" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/vintage-read-posters-adorning-libraries-and-classrooms-for-decades-go-on-auction-as-the-american-library-association-turns-150-180989057/</guid>
+    </item>    <item>
+      <title>Linux ported to Sega’s Mega Drive</title>
+      <link>https://www.osnews.com/story/145401/linux-ported-to-segas-mega-drive/</link>
+      <description>
+        <![CDATA[If you have a Sega Mega Drive, you obviously want to run Linux on it. That&#8217;s something you can do now. You do need to have an EverDrive, but don&#8217;t worry, the port in question contains a custom fork of Qemu for those of us that don&#8217;t. I don&#8217;t know what else to say, other than I wonder why nobody did this sooner.]]>
+      </description>
+      <source:markdown>If you have a Sega Mega Drive, you obviously want to run Linux on it. That’s something you can do now. You do need to have an EverDrive, but don’t worry, the port in question contains a custom fork of Qemu for those of us that don’t. I don’t know what else to say, other than I wonder why nobody did this sooner.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145401</guid>
+      <category>Linux</category>
+    </item>    <item>
+      <title>After Decades of Debate, Scientists Say These Fossils Belong to the Largest Known Scorpion, Which Lived 415 Million Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/after-decades-of-debate-scientists-say-these-fossils-belong-to-the-largest-known-scorpion-which-lived-415-million-years-ago-180989022/</link>
+      <description>
+        <![CDATA[Researchers have wondered whether Praearcturus gigas was a giant crustacean called an isopod or some other creature. A new analysis of museum specimens suggests that it was a scorpion that stretched more than three feet long]]>
+      </description>
+      <source:markdown>Researchers have wondered whether Praearcturus gigas was a giant crustacean called an isopod or some other creature. A new analysis of museum specimens suggests that it was a scorpion that stretched more than three feet long</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2sk6Meicf4J6REO3OHZSBT41ewc=/420x240/filters:focal(580x298:581x299)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/36/a8369ac2-efab-4a29-8eac-0a7ff59bed66/gigas.jpeg" length="117942" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/after-decades-of-debate-scientists-say-these-fossils-belong-to-the-largest-known-scorpion-which-lived-415-million-years-ago-180989022/</guid>
+    </item>    <item>
+      <title>NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission</title>
+      <link>https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/</link>
+      <description>
+        <![CDATA[NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet.&#160;Insights from this [&#8230;]]]>
+      </description>
+      <source:markdown>NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet. Insights from this \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1014022</guid>
+      <category>Humans in Space</category>
+      <category>Human Research Program</category>
+      <category>Johnson Space Center</category>
+      <category>Missions</category>
+    </item>    <item>
+      <title>LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory</title>
+      <link>https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/</link>
+      <description>
+        <![CDATA[A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean. A robotic servicing spacecraft called LINK, built by Katalyst Space, will blast [&#8230;]]]>
+      </description>
+      <source:markdown>A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean. A robotic servicing spacecraft called LINK, built by Katalyst Space, will blast \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1013617</guid>
+      <category>Swift Boost Mission</category>
+    </item>    <item>
+      <title>As France Prepares to Light Up the Statue of Liberty for America&#39;s 250th, Peek Into the History of the Symbol of Trans-Atlantic Friendship</title>
+      <link>https://www.smithsonianmag.com/smart-news/as-france-prepares-to-light-up-the-statue-of-liberty-for-americas-250th-peek-into-the-history-of-the-symbol-of-translatlantic-friendship-180989047/</link>
+      <description>
+        <![CDATA[Here’s how three French idealists—an abolitionist, a sculptor and the engineer behind the Eiffel Tower—brought the representation of freedom to life]]>
+      </description>
+      <source:markdown>Here’s how three French idealists—an abolitionist, a sculptor and the engineer behind the Eiffel Tower—brought the representation of freedom to life</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/C7K5L5meQvWdSg-DV_lCORjGU14=/420x240/filters:focal(512x324:513x325)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/58/905857f5-d7a6-4fd8-b1e4-99889f78e2fa/liberty_torch.jpg" length="363830" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/as-france-prepares-to-light-up-the-statue-of-liberty-for-americas-250th-peek-into-the-history-of-the-symbol-of-translatlantic-friendship-180989047/</guid>
+    </item>    <item>
+      <title>NASA’s Webb Studies How Planet Survived Death of its Star</title>
+      <link>https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/</link>
+      <description>
+        <![CDATA[NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a […]]]>
+      </description>
+      <source:markdown>NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/</guid>
+      <category>Astrophysics</category>
+      <category>Exoplanet Atmosphere</category>
+      <category>Exoplanets</category>
+      <category>Goddard Space Flight Center</category>
+      <category>James Webb Space Telescope (JWST)</category>
+      <category>Planetary Environments &#38; Atmospheres</category>
+      <category>Science &#38; Research</category>
+      <category>The Universe</category>
+      <category>White Dwarfs</category>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4934-4940: In the Land of the Polygons</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/</link>
+      <description>
+        <![CDATA[Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 26, 2026 There were two planning cycles over this span of sols. The Monday planning took place with Curiosity situated within a unit that from orbital imagery appeared light-toned, and from earlier rover positions appeared smooth. Reaching this unit, the […]]]>
+      </description>
+      <source:markdown>Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 26, 2026 There were two planning cycles over this span of sols. The Monday planning took place with Curiosity situated within a unit that from orbital imagery appeared light-toned, and from earlier rover positions appeared smooth. Reaching this unit, the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/</guid>
+      <category>Blogs</category>
+    </item>    <item>
+      <title>This Ancient Monolith That Archaeologists Unearthed in Mexico May Depict People Receiving ‘Divine Liquid’ in a Ritual</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-ancient-monolith-archaeologists-unearthed-in-mexico-may-depict-people-receiving-divine-liquid-in-a-ritual-180989049/</link>
+      <description>
+        <![CDATA[The stela was found with a large, decorated platform and remnants of offerings in the state of Veracruz]]>
+      </description>
+      <source:markdown>The stela was found with a large, decorated platform and remnants of offerings in the state of Veracruz</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JXdm7hnrmT7xiYQgGROdCNWPu5w=/420x240/filters:focal(445x297:446x298)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/dd/9add0478-aa68-4cfe-89a7-c0f469ec83d2/the_discovery_of_a_monolithic_sculpture_measuring_188_meters_-3b62662ebc2ab9298527503389088b56.jpeg" length="655260" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-ancient-monolith-archaeologists-unearthed-in-mexico-may-depict-people-receiving-divine-liquid-in-a-ritual-180989049/</guid>
+    </item>    <item>
+      <title>Caltech Welcomes Astrophysicist Ray Jayawardhana as New President</title>
+      <link>https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/</link>
+      <description>
+        <![CDATA[Ray Jayawardhana begins his tenure today as the 10th president of the California Institute of Technology. His selection as Caltech’s president, and as the Sonja and William Davidow Presidential Chair and professor of astronomy, was announced Jan. 6. Jayawardhana succeeds Thomas Rosenbaum, who had served as Caltech’s president since 2014. Founded in 1891, Caltech manages [&#8230;]]]>
+      </description>
+      <source:markdown>Ray Jayawardhana begins his tenure today as the 10th president of the California Institute of Technology. His selection as Caltech’s president, and as the Sonja and William Davidow Presidential Chair and professor of astronomy, was announced Jan. 6. Jayawardhana succeeds Thomas Rosenbaum, who had served as Caltech’s president since 2014. Founded in 1891, Caltech manages \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1013970</guid>
+      <category>Jet Propulsion Laboratory</category>
+    </item>    <item>
+      <title>For the First Time, a Cell Built From Scratch Grows and Divides</title>
+      <link>https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/</link>
+      <description>
+        <![CDATA[Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab.            <p>The post <a href="https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/" target="_blank">For the First Time, a Cell Built From Scratch Grows and Divides</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab.
+
+The post [For the First Time, a Cell Built From Scratch Grows and Divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=163798</guid>
+      <category>Biology</category>
+    </item>    <item>
+      <title>These Male Fruit Flies Have Sperm That Are Nearly as Long as Their Bodies. Here&#39;s How the Cells Don&#39;t Become a Tangled Mess</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-male-fruit-flies-have-sperm-that-are-nearly-as-long-as-their-bodies-heres-how-the-cells-dont-become-a-tangled-mess-180989054/</link>
+      <description>
+        <![CDATA[Males of the species Drosophila melanogaster pack thousands of almost two-millimeter-long sperm cells into significantly smaller storage organs. A new study reveals how they move in an orderly manner]]>
+      </description>
+      <source:markdown>Males of the species Drosophila melanogaster pack thousands of almost two-millimeter-long sperm cells into significantly smaller storage organs. A new study reveals how they move in an orderly manner</source:markdown>
+      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/40/c4401a97-4f3b-4254-a012-76cb7e8a6f68/single-sperm-timelapse-blue_cj-imran-alsous_smaller.gif" length="9106878" type="image/gif" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-male-fruit-flies-have-sperm-that-are-nearly-as-long-as-their-bodies-heres-how-the-cells-dont-become-a-tangled-mess-180989054/</guid>
+    </item>    <item>
       <title>NVIDIA and Partners Build in America, for America</title>
       <link>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</link>
       <description>
@@ -265,6 +487,7 @@ The post [PureOS Development Report: May 2026](https://puri.sm/posts/pureos-deve
       <category>Agentic AI</category>
       <category>Cosmos</category>
       <category>Industrial and Manufacturing</category>
+      <category>Into the Omniverse</category>
       <category>Metropolis</category>
       <category>Omniverse</category>
       <category>Synthetic Data Generation</category>
@@ -2755,250 +2978,6 @@ The post [What’s the Future of Gene Editing?](https://www.quantamagazine.org/w
       </description>
       <source:markdown>The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</guid>
-    </item>    <item>
-      <title>Once again, Apple blatantly lies about the EU’s DMA</title>
-      <link>https://www.osnews.com/story/145275/once-again-apple-blatantly-lies-about-the-eus-dma/</link>
-      <description>
-        <![CDATA[Apple recently announced its next crack at integrating &#8220;AI&#8221; into its operating systems, this time opting to simply whitelabel Google&#8217;s Gemini &#8220;AI&#8221; tools instead of developing its own LLM technology. Called &#8220;Siri AI&#8221;, Apple also stated it&#8217;s not coming to the EU, and the company stated that&#8217;s because the EU&#8217;s basic consumer protection legislation would give other &#8220;AI&#8221; tools &#8220;unprecedented access&#8221; to user data on users&#8217; devices. The company made a big stink about this in the press. As anyone with basic pattern recognition skills already knew, this was a blatant, baldfaced lie. What really happened is that Apple asked the EU for an 18-month long exemption from the EU&#8217;s consumer protection and privacy legislation during which it would not have to comply with any legal privacy and interoperability requirements &#8211; just so it could roll out Siri &#8220;AI&#8221; before anyone else could offer a competing product for Apple users. Obviously, the EU wasn&#8217;t going to grant such an exemption. &#8220;The decision not to roll out Siri AI in the EU is Apple&#8217;s and Apple&#8217;s only,&#8221; spokesperson Thomas Regnier told reporters in Brussels, saying there was nothing in the Digital Markets Act to stop the company from introducing new products in the EU. &#8220;Apple was simply unable to develop interoperability solutions that meet essential EU ​privacy and security standards,&#8221; Regnier said. &#8220;Instead ​of trying to find ⁠a suitable compliance solution, Apple simply made a request to the European Commission to be exempted from their interoperability obligations under the DMA &#8211; and this for at least 18 months. ​That&#8217;s not an option,&#8221; Regnier said. ↫ Inti Landauro and Foo Yun Chee at Reuters So what&#8217;s really going on here is that Apple wants to offer a set of whitelabeled Google Gemini tools on iOS and macOS in the EU, but because Apple is classified as a gatekeeper, it is legally obligated to offer interoperability options for competing &#8220;AI&#8221; tools. These options in turn need to adhere to the EU&#8217;s strict privacy regulations, so that competing &#8220;AI&#8221; tools can offer the same level of privacy that Apple&#8217;s own whitelabeled Google Gemini tools claim to offer. Apple didn&#8217;t want to offer these privacy-respecting interoperability options as required by law, so instead of following the law in the countries it wants to operate in, Apple asked to be placed above the law for at least 18 months, basically giving Siri &#8220;AI&#8221; a massive head-start over possible competitors so that it could entrench itself in the userbase. The EU saw right through Apple&#8217;s nonsense, and now called them out on their bullshit. Perhaps Apple has gotten so used to openly bribing Trump that they forgot other parts of the world don&#8217;t work that way. Whenever Apple and its PR attack dogs say anything about the EU, you can be assured they are lying. They have proven time and time again to basically never speak a single word of truth when it comes to its dealings in the EU. It&#8217;s almost pathological at this point, and what makes it doubly interesting is that Apple will not launch Siri &#8220;AI&#8221; in China either, for the very same regulatory reasons &#8211; yet all China got was a single footnote in a press release. I wonder why.]]>
-      </description>
-      <source:markdown>Apple recently announced its next crack at integrating “AI” into its operating systems, this time opting to simply whitelabel Google’s Gemini “AI” tools instead of developing its own LLM technology. Called “Siri AI”, Apple also stated it’s not coming to the EU, and the company stated that’s because the EU’s basic consumer protection legislation would give other “AI” tools “unprecedented access” to user data on users’ devices. The company made a big stink about this in the press. As anyone with basic pattern recognition skills already knew, this was a blatant, baldfaced lie. What really happened is that Apple asked the EU for an 18-month long exemption from the EU’s consumer protection and privacy legislation during which it would not have to comply with any legal privacy and interoperability requirements – just so it could roll out Siri “AI” before anyone else could offer a competing product for Apple users. Obviously, the EU wasn’t going to grant such an exemption. “The decision not to roll out Siri AI in the EU is Apple’s and Apple’s only,” spokesperson Thomas Regnier told reporters in Brussels, saying there was nothing in the Digital Markets Act to stop the company from introducing new products in the EU. “Apple was simply unable to develop interoperability solutions that meet essential EU ​privacy and security standards,” Regnier said. “Instead ​of trying to find ⁠a suitable compliance solution, Apple simply made a request to the European Commission to be exempted from their interoperability obligations under the DMA – and this for at least 18 months. ​That’s not an option,” Regnier said. ↫ Inti Landauro and Foo Yun Chee at Reuters So what’s really going on here is that Apple wants to offer a set of whitelabeled Google Gemini tools on iOS and macOS in the EU, but because Apple is classified as a gatekeeper, it is legally obligated to offer interoperability options for competing “AI” tools. These options in turn need to adhere to the EU’s strict privacy regulations, so that competing “AI” tools can offer the same level of privacy that Apple’s own whitelabeled Google Gemini tools claim to offer. Apple didn’t want to offer these privacy-respecting interoperability options as required by law, so instead of following the law in the countries it wants to operate in, Apple asked to be placed above the law for at least 18 months, basically giving Siri “AI” a massive head-start over possible competitors so that it could entrench itself in the userbase. The EU saw right through Apple’s nonsense, and now called them out on their bullshit. Perhaps Apple has gotten so used to openly bribing Trump that they forgot other parts of the world don’t work that way. Whenever Apple and its PR attack dogs say anything about the EU, you can be assured they are lying. They have proven time and time again to basically never speak a single word of truth when it comes to its dealings in the EU. It’s almost pathological at this point, and what makes it doubly interesting is that Apple will not launch Siri “AI” in China either, for the very same regulatory reasons – yet all China got was a single footnote in a press release. I wonder why.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145275</guid>
-    </item>    <item>
-      <title>Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow</title>
-      <link>https://www.osnews.com/story/145273/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/</link>
-      <description>
-        <![CDATA[For a while now the transition away from Manifest V2 (MV2) to MV3 has been on-going and it looks like it is entering its final phase of deprecation, at least, in the case of Google Chrome. A recent discussion thread in the w3c WebExtensions Community Group GitHub repo has highlighted how the latest and upcoming versions of the most popular browser are expected to be its final releases with support for MV2 extensions. ↫ Sayan Sen at Neowin You shouldn&#8217;t be using Chrome anyway.]]>
-      </description>
-      <source:markdown>For a while now the transition away from Manifest V2 (MV2) to MV3 has been on-going and it looks like it is entering its final phase of deprecation, at least, in the case of Google Chrome. A recent discussion thread in the w3c WebExtensions Community Group GitHub repo has highlighted how the latest and upcoming versions of the most popular browser are expected to be its final releases with support for MV2 extensions. ↫ Sayan Sen at Neowin You shouldn’t be using Chrome anyway.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145273</guid>
-    </item>    <item>
-      <title>This Woman&#39;s Brains Were Scooped Out and Her Bones Were Broken and Whittled in Scotland 2,000 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-womans-brains-were-scooped-out-and-her-bones-were-broken-and-whittled-in-scotland-2000-years-ago-180988935/</link>
-      <description>
-        <![CDATA[Researchers say the modifications may represent a previously unknown funerary ritual in Iron Age Britain]]>
-      </description>
-      <source:markdown>Researchers say the modifications may represent a previously unknown funerary ritual in Iron Age Britain</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6_z3wgGO91-7WzdRm0BT4-wW9VY=/420x240/filters:focal(490x499:491x500)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/93/46930972-022b-4df7-b1da-305d2e82d428/long-bones-1000.jpg" length="308159" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-womans-brains-were-scooped-out-and-her-bones-were-broken-and-whittled-in-scotland-2000-years-ago-180988935/</guid>
-    </item>    <item>
-      <title>Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/</link>
-      <description>
-        <![CDATA[Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science – one centred around a defined science campaign (such as the recent boxwork campaign) and the other as we move […]]]>
-      </description>
-      <source:markdown>Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science – one centred around a defined science campaign (such as the recent boxwork campaign) and the other as we move \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/</guid>
-    </item>    <item>
-      <title>NASA Awards Contract for Construction Services in California</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/</link>
-      <description>
-        <![CDATA[NASA has selected multiple small businesses for the Western Regional Multiple Award Construction Contract, which supports a broad range of facility enhancement, modernization, and sustainment work at NASA’s Armstrong Flight Research Center in Edwards, California, NASA’s Ames Research Center in California’s Silicon Valley, and other federal agencies in the region. The contract provides general construction, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has selected multiple small businesses for the Western Regional Multiple Award Construction Contract, which supports a broad range of facility enhancement, modernization, and sustainment work at NASA’s Armstrong Flight Research Center in Edwards, California, NASA’s Ames Research Center in California’s Silicon Valley, and other federal agencies in the region. The contract provides general construction, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1004832</guid>
-    </item>    <item>
-      <title>See the Human Body Morph Into Musical Instruments From Around the World at a New Exhibition at the Metropolitan Museum of Art</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-human-body-morph-into-musical-instruments-from-around-the-world-at-a-new-exhibition-at-the-metropolitan-museum-of-art-180988931/</link>
-      <description>
-        <![CDATA[A belly turns into a drum, hands mold into percussion tools and a face adorns a brass bell in this anatomical art history show]]>
-      </description>
-      <source:markdown>A belly turns into a drum, hands mold into percussion tools and a face adorns a brass bell in this anatomical art history show</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZW6sc8_GHmE2Wp0NMkvyILR5hNc=/420x240/filters:focal(1376x1861:1377x1862)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fa/a0/faa01f9f-729a-4d5b-b38d-4617f39f72d5/dt3990.jpg" length="2364828" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-human-body-morph-into-musical-instruments-from-around-the-world-at-a-new-exhibition-at-the-metropolitan-museum-of-art-180988931/</guid>
-    </item>    <item>
-      <title>A raycasting first-person shooter written in COBOL</title>
-      <link>https://www.osnews.com/story/145271/a-raycasting-first-person-shooter-written-in-cobol/</link>
-      <description>
-        <![CDATA[On a related note, what about a raycasting first-person shooter written in&#8230; COBOL? Can you think of a better programming language than COBOL to implement an FPS from scratch? I know I can&#8217;t, so buckle up and enjoy what can only be described as an out-of-body experience for COBOL enthusiasts as I set out to make a Wolfenstein3D-like raycasting based FPS game (and potentially go a bit further than that, hopefully it&#8217;s not a DOOMed attempt). ↫ icitry on YouTube I don&#8217;t link to YouTube videos very often, but there&#8217;s always the exception that proves the rule. The COBOL code&#8217;s available on GitHub. What a mad man.]]>
-      </description>
-      <source:markdown>On a related note, what about a raycasting first-person shooter written in… COBOL? Can you think of a better programming language than COBOL to implement an FPS from scratch? I know I can’t, so buckle up and enjoy what can only be described as an out-of-body experience for COBOL enthusiasts as I set out to make a Wolfenstein3D-like raycasting based FPS game (and potentially go a bit further than that, hopefully it’s not a DOOMed attempt). ↫ icitry on YouTube I don’t link to YouTube videos very often, but there’s always the exception that proves the rule. The COBOL code’s available on GitHub. What a mad man.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145271</guid>
-    </item>    <item>
-      <title>Catlantean 3D: making graphics like it’s 1993</title>
-      <link>https://www.osnews.com/story/145269/catlantean-3d-making-graphics-like-its-1993/</link>
-      <description>
-        <![CDATA[My goal was to build a complete, shippable first-person shooter using techniques that were common in the early 90s, while allowing myself the luxury of using a modern compiler and a platform abstraction layer. ↫ Marko Stanic It looks amazing already, and it isn&#8217;t even done. Stanic goes into great detail explaining how he created the various assets for the game, and it&#8217;s a joy to read through his creative process and problem-solving routines. The game&#8217;s called Catlantean 3D, and is expected to ship somewhere early 2027.]]>
-      </description>
-      <source:markdown>My goal was to build a complete, shippable first-person shooter using techniques that were common in the early 90s, while allowing myself the luxury of using a modern compiler and a platform abstraction layer. ↫ Marko Stanic It looks amazing already, and it isn’t even done. Stanic goes into great detail explaining how he created the various assets for the game, and it’s a joy to read through his creative process and problem-solving routines. The game’s called Catlantean 3D, and is expected to ship somewhere early 2027.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145269</guid>
-    </item>    <item>
-      <title>Microsoft makes Windows printing easier with Windows Ready Print</title>
-      <link>https://www.osnews.com/story/145266/microsoft-makes-windows-printing-easier-with-windows-ready-print/</link>
-      <description>
-        <![CDATA[Microsoft has detailed that Windows 11 is going to switch away from dedicated printer drivers to its Windows Ready Print system. This should make it a lot easier and less cumbersome to get printers running on Windows 11. At the core of Windows Ready Print is a transition away from legacy, third party drive-based workflows toward modern, standards-based printing with IPP (Internet Printing Protocol) using the Windows inbox IPP printer driver.&#160; Starting in July 2026, new printer installations will default to Windows Ready Print where supported, enabling a simpler and more reliable setup experience. This change reduces the need for traditional driver management and lays the foundation for a more scalable and predictable print experience. ↫ elliesekine at the Windows Tech Community Printers still play a huge role in our lives &#8211; whether we like it or not &#8211; and their terrible user experience is basically a meme a this point. Making at least one aspect of printing easier, less cumbersome, and more streamlined is incredibly welcome, and I&#8217;m glad Microsoft is taking the Windows printing ecosystem along for the ride on this one. My own personal experience with printing on Linux and now on Windows 11 (as promised, I&#8217;ve been using nothing but Windows 11 since 26 May!) has been mostly effortless already. Our cheap networked printer/scanner/combo thing from HP &#8220;just works&#8221; on both Linux and Windows 11, since Windows downloads HP&#8217;s drivers and application automatically when detecting the printer on the network. Still, not having to use HP&#8217;s driver would be a nice bonus. Coincidentally, I also managed to get the printer component of our HP combo thing working on&#8230; HP-UX 11i v1. Despite being more than two decades newer, our HP printer works perfectly with a printer definition file included in HP-UX, giving me full printing from CDE and the rest of HP-UX. It&#8217;s entirely useless and cost me an evening of my life, but seeing the test page and other documents from HP-UX come out of our printer, over the network, put a big smile on my face.]]>
-      </description>
-      <source:markdown>Microsoft has detailed that Windows 11 is going to switch away from dedicated printer drivers to its Windows Ready Print system. This should make it a lot easier and less cumbersome to get printers running on Windows 11. At the core of Windows Ready Print is a transition away from legacy, third party drive-based workflows toward modern, standards-based printing with IPP (Internet Printing Protocol) using the Windows inbox IPP printer driver.  Starting in July 2026, new printer installations will default to Windows Ready Print where supported, enabling a simpler and more reliable setup experience. This change reduces the need for traditional driver management and lays the foundation for a more scalable and predictable print experience. ↫ elliesekine at the Windows Tech Community Printers still play a huge role in our lives – whether we like it or not – and their terrible user experience is basically a meme a this point. Making at least one aspect of printing easier, less cumbersome, and more streamlined is incredibly welcome, and I’m glad Microsoft is taking the Windows printing ecosystem along for the ride on this one. My own personal experience with printing on Linux and now on Windows 11 (as promised, I’ve been using nothing but Windows 11 since 26 May!) has been mostly effortless already. Our cheap networked printer/scanner/combo thing from HP “just works” on both Linux and Windows 11, since Windows downloads HP’s drivers and application automatically when detecting the printer on the network. Still, not having to use HP’s driver would be a nice bonus. Coincidentally, I also managed to get the printer component of our HP combo thing working on… HP-UX 11i v1. Despite being more than two decades newer, our HP printer works perfectly with a printer definition file included in HP-UX, giving me full printing from CDE and the rest of HP-UX. It’s entirely useless and cost me an evening of my life, but seeing the test page and other documents from HP-UX come out of our printer, over the network, put a big smile on my face.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145266</guid>
-    </item>    <item>
-      <title>For Robotaxis, Safety Must Be Built In, Not Bolted On</title>
-      <link>https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</link>
-      <description>
-        <![CDATA[A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem [&#8230;]]]>
-      </description>
-      <source:markdown>A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94344</guid>
-    </item>    <item>
-      <title>Researchers Investigated Ancient Squirrel Poop Frozen in Permafrost and Found Enlightening Details About the Animal&#39;s Ecosystem</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-investigated-ancient-squirrel-poop-frozen-in-permafrost-and-found-enlightening-details-about-the-animals-ecosystem-180988934/</link>
-      <description>
-        <![CDATA[Up to 700,000 years ago, ground squirrels in modern-day Canada collected tons of helpful genetic information on their bygone environment through their diet]]>
-      </description>
-      <source:markdown>Up to 700,000 years ago, ground squirrels in modern-day Canada collected tons of helpful genetic information on their bygone environment through their diet</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IrdUNlFnF62zVHZ2Yik-0fT6m7Y=/420x240/filters:focal(2576x1938:2577x1939)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ac/0b/ac0b7102-ed89-42a4-91a9-d6ff6733c11e/img_0224.jpg" length="5059656" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/researchers-investigated-ancient-squirrel-poop-frozen-in-permafrost-and-found-enlightening-details-about-the-animals-ecosystem-180988934/</guid>
-    </item>    <item>
-      <title>Workers Dredging the Savannah River Stumbled Upon 19 Cannons That Had Been Underwater Since the Revolutionary War</title>
-      <link>https://www.smithsonianmag.com/smart-news/workers-dredging-the-savannah-river-stumbled-upon-19-cannons-that-had-been-underwater-since-the-revolutionary-war-180988928/</link>
-      <description>
-        <![CDATA[The centuries-old artifacts emerged from the riverbed between 2021 and 2022. Experts spent several years carefully restoring 17 of them, which will make their public debut in a new exhibition]]>
-      </description>
-      <source:markdown>The centuries-old artifacts emerged from the riverbed between 2021 and 2022. Experts spent several years carefully restoring 17 of them, which will make their public debut in a new exhibition</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Q9YMQsNM0maOSpC1zHShaWluIaM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/02/1702510a-6cbc-400e-afb9-3f4be283bdb5/cannon-savannah.jpg" length="477080" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/workers-dredging-the-savannah-river-stumbled-upon-19-cannons-that-had-been-underwater-since-the-revolutionary-war-180988928/</guid>
-    </item>    <item>
-      <title>NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems</title>
-      <link>https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/</link>
-      <description>
-        <![CDATA[Abstracts are now being accepted for the session, which will take place at the 2027 AMS Annual Meeting.]]>
-      </description>
-      <source:markdown>Abstracts are now being accepted for the session, which will take place at the 2027 AMS Annual Meeting.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/</guid>
-    </item>    <item>
-      <title>You Can Soon Build the Sagrada Família Out of 12,060 Legos. Here&#39;s Why the Famed Basilica Is an Architectural Marvel</title>
-      <link>https://www.smithsonianmag.com/smart-news/you-can-soon-build-the-sagrada-familia-out-of-12060-legos-heres-why-the-famed-basilica-is-an-architectural-marvel-180988927/</link>
-      <description>
-        <![CDATA[Pioneering architect Antoni Gaudí’s plans for the basilica were ambitious and complex, drawing on creative geometric forms and ancient inspiration, which is one reason it remains unfinished after 144 years]]>
-      </description>
-      <source:markdown>Pioneering architect Antoni Gaudí’s plans for the basilica were ambitious and complex, drawing on creative geometric forms and ancient inspiration, which is one reason it remains unfinished after 144 years</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BS5YmkYg4ul-nn-Ww22FBivjtag=/420x240/filters:focal(3990x2698:3991x2699)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/a6/90a61754-6f4c-4e92-bb68-a212704aa462/21065_lifestyle_cons_02.jpg" length="22280893" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/you-can-soon-build-the-sagrada-familia-out-of-12060-legos-heres-why-the-famed-basilica-is-an-architectural-marvel-180988927/</guid>
-    </item>    <item>
-      <title>NASA Equips Astronauts, Industry with Robotic Intelligence</title>
-      <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/</link>
-      <description>
-        <![CDATA[As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and exploration. However, robotic motion control requires complex technology and advances in features like robotic decision-making and object recognition. These are the challenges a Boulder, Colorado-based robotics company is [&#8230;]]]>
-      </description>
-      <source:markdown>As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and exploration. However, robotic motion control requires complex technology and advances in features like robotic decision-making and object recognition. These are the challenges a Boulder, Colorado-based robotics company is \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1003847</guid>
-    </item>    <item>
-      <title>NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI</title>
-      <link>https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</link>
-      <description>
-        <![CDATA[Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud.  Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that developers, [&#8230;]]]>
-      </description>
-      <source:markdown>Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud.  Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that developers, \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94360</guid>
-    </item>    <item>
-      <title>Train Ride to NASA Kennedy for Artemis III Booster Segments</title>
-      <link>https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/</link>
-      <description>
-        <![CDATA[The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they [&#8230;]]]>
-      </description>
-      <source:markdown>The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1003109</guid>
-    </item>    <item>
-      <title>An Early Step on the Long, Strange Road to Photosynthesis</title>
-      <link>https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/</link>
-      <description>
-        <![CDATA[An ancient lineage of cyanobacteria is helping biologists uncover an early evolutionary stage of the mind-boggling process that turns light into life.            <p>The post <a href="https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/" target="_blank">An Early Step on the Long, Strange Road to Photosynthesis</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>An ancient lineage of cyanobacteria is helping biologists uncover an early evolutionary stage of the mind-boggling process that turns light into life.
-
-The post [An Early Step on the Long, Strange Road to Photosynthesis](https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=162920</guid>
-    </item>    <item>
-      <title>German court rules Google is liable for whatever Google’s “AI” generates</title>
-      <link>https://www.osnews.com/story/145261/german-court-rules-google-is-liable-for-whatever-googles-ai-generates/</link>
-      <description>
-        <![CDATA[It&#8217;s just a ruling from a lower court, but it sets the stage for how European courts are going to deal with the question of who is liable for whatever slop &#8220;AI&#8221; generates. The Regional Court of Munich hit Google with a temporary injunction barring the company from spreading false claims about two Munich-based publishers through its AI-generated search overviews (case no. 26 O 869/26). The court classified Google as a direct infringer because the &#8220;AI overview&#8221; is its own content, not just a list of search results. Google&#8217;s AI overviews had falsely tied two publishing companies to scams, subscription traps, and shady business practices for certain search queries. According to the court, the AI mixed up information about other, genuinely sketchy companies with the plaintiffs and drew connections that didn&#8217;t appear in any of the linked sources. The publishers sent Google a cease-and-desist letter, but Google didn&#8217;t respond appropriately. ↫ Matthias Bastian at The Decoder Google tried to argue it doesn&#8217;t carry any responsibility or liability for whatever slop its &#8220;AI&#8221; generate, but the German court does not agree. According to the court, &#8220;AI&#8221; overviews are not the same as regular search results, because they rewrite findings and just make shit up, thereby making claims that are nowhere to be found in any search results (or in reality in general). Furthermore, the court states that Google develops the &#8220;AI&#8221;, it runs it, it offers it to users, and Google alone controls its output, and as such, Google is liable for whatever their &#8220;AI&#8221; produces. Google also tried to argue that users know not to trust anything an &#8220;AI&#8221; produces, which is hilarious considering how hard Google is pushing these tools, but the courts state that the ability of users to do further research does not absolve Google of liability. In addition, the court made it very clear that free speech protections absolutely do not apply, because the &#8220;AI&#8221; expressions are coming from an algorithm, not a person, and are above all an expression of Google&#8217;s business activities&#8221;. In other words, if an &#8220;AI&#8221; tool generates false accusations and misleading statements, the creator of said &#8220;AI&#8221; is liable. With this ruling in hand, countless other people have a stronger case to make whenever Google or any other company tries to absolve itself from liability from slop just because a pachinko machine generated it. Excellent news, and the only fair outcome.]]>
-      </description>
-      <source:markdown>It’s just a ruling from a lower court, but it sets the stage for how European courts are going to deal with the question of who is liable for whatever slop “AI” generates. The Regional Court of Munich hit Google with a temporary injunction barring the company from spreading false claims about two Munich-based publishers through its AI-generated search overviews (case no. 26 O 869/26). The court classified Google as a direct infringer because the “AI overview” is its own content, not just a list of search results. Google’s AI overviews had falsely tied two publishing companies to scams, subscription traps, and shady business practices for certain search queries. According to the court, the AI mixed up information about other, genuinely sketchy companies with the plaintiffs and drew connections that didn’t appear in any of the linked sources. The publishers sent Google a cease-and-desist letter, but Google didn’t respond appropriately. ↫ Matthias Bastian at The Decoder Google tried to argue it doesn’t carry any responsibility or liability for whatever slop its “AI” generate, but the German court does not agree. According to the court, “AI” overviews are not the same as regular search results, because they rewrite findings and just make shit up, thereby making claims that are nowhere to be found in any search results (or in reality in general). Furthermore, the court states that Google develops the “AI”, it runs it, it offers it to users, and Google alone controls its output, and as such, Google is liable for whatever their “AI” produces. Google also tried to argue that users know not to trust anything an “AI” produces, which is hilarious considering how hard Google is pushing these tools, but the courts state that the ability of users to do further research does not absolve Google of liability. In addition, the court made it very clear that free speech protections absolutely do not apply, because the “AI” expressions are coming from an algorithm, not a person, and are above all an expression of Google’s business activities”. In other words, if an “AI” tool generates false accusations and misleading statements, the creator of said “AI” is liable. With this ruling in hand, countless other people have a stronger case to make whenever Google or any other company tries to absolve itself from liability from slop just because a pachinko machine generated it. Excellent news, and the only fair outcome.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145261</guid>
-    </item>    <item>
-      <title>Eagle Computer: the rise and fall of an early PC clone</title>
-      <link>https://www.osnews.com/story/145259/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/</link>
-      <description>
-        <![CDATA[When it comes to 80s computer brands, few flew as high as Eagle Computer flew in 1983. The aptly named company was selling 12,000 computers a month and had been doubling sales every quarter under the leadership of a talented CEO. Then Eagle lost its CEO, Dennis Barnhart, in a crashed Ferrari on the day of its IPO, June 8, 1983. In this blog post, we’ll explore the reasons Eagle Computer fell, because there was more to it than just the tragic story involving its CEO. ↫ Dave Farquhar Just one of the many early PC companies that died off, even if Eagle died off before many of the other big players. It must&#8217;ve been such a vibrant and fascinating time to be into PCs and computers in general at that time, with so many companies and players to choose from. Shame about the 308 GTS.]]>
-      </description>
-      <source:markdown>When it comes to 80s computer brands, few flew as high as Eagle Computer flew in 1983. The aptly named company was selling 12,000 computers a month and had been doubling sales every quarter under the leadership of a talented CEO. Then Eagle lost its CEO, Dennis Barnhart, in a crashed Ferrari on the day of its IPO, June 8, 1983. In this blog post, we’ll explore the reasons Eagle Computer fell, because there was more to it than just the tragic story involving its CEO. ↫ Dave Farquhar Just one of the many early PC companies that died off, even if Eagle died off before many of the other big players. It must’ve been such a vibrant and fascinating time to be into PCs and computers in general at that time, with so many companies and players to choose from. Shame about the 308 GTS.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145259</guid>
-    </item>    <item>
-      <title>Bumblebees Can Solve Problems on the Fly, Adding to the Insects&#39; List of Impressive Cognitive Abilities</title>
-      <link>https://www.smithsonianmag.com/smart-news/bumblebees-can-solve-problems-on-the-fly-adding-to-the-insects-list-of-impressive-cognitive-abilities-180988925/</link>
-      <description>
-        <![CDATA[In a series of experiments, the fuzzy pollinators figured out how to use a ball as a tool to access a sugary treat. The study further highlights that the critters are quite clever despite their tiny brains]]>
-      </description>
-      <source:markdown>In a series of experiments, the fuzzy pollinators figured out how to use a ball as a tool to access a sugary treat. The study further highlights that the critters are quite clever despite their tiny brains</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/G5fqnGmtYhV6CbFp0G9fHGTZjok=/420x240/filters:focal(3120x2080:3121x2081)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/e6/95e6c1e4-b10e-46c7-bcdb-825496230c4f/a_bumble_bee_reaching_to_a_reward.jpg" length="9054797" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/bumblebees-can-solve-problems-on-the-fly-adding-to-the-insects-list-of-impressive-cognitive-abilities-180988925/</guid>
-    </item>    <item>
-      <title>NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’</title>
-      <link>https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/</link>
-      <description>
-        <![CDATA[The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces. A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the […]]]>
-      </description>
-      <source:markdown>The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces. A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/</guid>
-    </item>    <item>
-      <title>Jim Irons, Former Landsat Project Scientist, Wins Pecora Award</title>
-      <link>https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/</link>
-      <description>
-        <![CDATA[Landsat’s Jim Irons won the prestigious William T. Pecora Award. Irons, now an emeritus scientist at NASA Goddard Space Flight Center, played an integral role in shaping the Landsat program into what it is today.]]>
-      </description>
-      <source:markdown>Landsat’s Jim Irons won the prestigious William T. Pecora Award. Irons, now an emeritus scientist at NASA Goddard Space Flight Center, played an integral role in shaping the Landsat program into what it is today.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/</guid>
-    </item>    <item>
-      <title>GLOBE Mission Earth Educators Participate in Land Cover Community of Practice</title>
-      <link>https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/</link>
-      <description>
-        <![CDATA[During the 2025-2026 school year, educators from the NASA Science Activation Program’s GLOBE (Global Learning and Observation to Benefit the Environment) Mission Earth project participated in a specialized Community of Practice led by NASA Langley Research Center to refine how students interact with NASA’s land cover data (MODIS, Landsat, and Sentinel-2).]]>
-      </description>
-      <source:markdown>During the 2025-2026 school year, educators from the NASA Science Activation Program’s GLOBE (Global Learning and Observation to Benefit the Environment) Mission Earth project participated in a specialized Community of Practice led by NASA Langley Research Center to refine how students interact with NASA’s land cover data (MODIS, Landsat, and Sentinel-2).</source:markdown>
-      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/</guid>
-    </item>    <item>
-      <title>NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation</title>
-      <link>https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/</link>
-      <description>
-        <![CDATA[A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes.]]>
-      </description>
-      <source:markdown>A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/</guid>
-    </item>    <item>
-      <title>How a single flu shot could protect you for decades</title>
-      <link>https://www.npr.org/2026/06/10/nx-s1-5819822/universal-flu-vaccine-influenza-pandemic</link>
-      <description>
-        <![CDATA[Every year, tens of millions of people in the U.S. get the flu vaccine. That’s because the virus changes year-to-year and protection only lasts around six months. <a href="https://profiles.icahn.mssm.edu/adolfo-garcia-sastre"target="_blank"   >Adolfo Garcia-Sastre</a> wants to change that. He’s one scientist working on a universal flu vaccine that could provide decades of protection against <em>all</em> flu illnesses – but only if his team can find the resources that disappeared when U.S. funding dipped.<br/><br/><strong>If you liked this episode, listen to our episode on a </strong><a href="https://lnk.to/BcnTUp"target="_blank"   ><strong>vaccine trial that could end HIV</strong></a><strong>.</strong><br/><br/><em>Interested in more medical innovations? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Every year, tens of millions of people in the U.S. get the flu vaccine. That’s because the virus changes year-to-year and protection only lasts around six months. [Adolfo Garcia-Sastre](https://profiles.icahn.mssm.edu/adolfo-garcia-sastre) wants to change that. He’s one scientist working on a universal flu vaccine that could provide decades of protection against _all_ flu illnesses – but only if his team can find the resources that disappeared when U.S. funding dipped.
-
-**If you liked this episode, listen to our episode on a** [**vaccine trial that could end HIV**](https://lnk.to/BcnTUp) **.**
-
-_Interested in more medical innovations? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c1f032be-323f-4337-889a-cd6f0a1e3774/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c1f032be-323f-4337-889a-cd6f0a1e3774&feed=F0qJcgXZ&t=podcast&e=nx-s1-5819822&p=510351&d=686&size=10978578" length="10978578" type="audio/mpeg" />
-      <guid>cid://81125f3a-69a4-4d19-bf2d-a6e6bdf461e2</guid>
-    </item>    <item>
-      <title>Tyndall’s Trail of Bergs</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/</link>
-      <description>
-        <![CDATA[Ice splintered off the southern Patagonia glacier and drifted across a growing glacial lake.]]>
-      </description>
-      <source:markdown>Ice splintered off the southern Patagonia glacier and drifted across a growing glacial lake.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/</guid>
-    </item>    <item>
-      <title>500 Years Ago, Leonardo da Vinci’s Notebook Was Cut Up and Separated. Now, the Inventor&#39;s Manuscripts and Drawings Are Reconstructed in an Online Archive</title>
-      <link>https://www.smithsonianmag.com/smart-news/500-years-ago-da-vincis-notebook-was-cut-up-and-separated-now-the-inventors-manuscripts-and-drawings-are-reconstructed-in-an-online-archive-180988922/</link>
-      <description>
-        <![CDATA[A new tool developed by Museo Galileo researchers has restored 50 pages from fragments excised centuries ago]]>
-      </description>
-      <source:markdown>A new tool developed by Museo Galileo researchers has restored 50 pages from fragments excised centuries ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EZJBso5UESC1A-GSBSxz4pOQvZM=/420x240/filters:focal(386x302:387x303)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/8b/738b1da3-f749-44ab-8a50-9a962dedd43a/win01411.jpg" length="99622" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/500-years-ago-da-vincis-notebook-was-cut-up-and-separated-now-the-inventors-manuscripts-and-drawings-are-reconstructed-in-an-online-archive-180988922/</guid>
     </item>
   </channel>
 </rss>
