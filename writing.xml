@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>02 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>03 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Vanishing Culture Episode #1: What We Stand to Lose</title>
+      <link>https://www.authorsalliance.org/2026/07/02/vanishing-culture-episode-1-what-we-stand-to-lose/</link>
+      <description>
+        <![CDATA[Authors Alliance and Internet Archive are excited to announce the release of the first episode of Vanishing Culture, a special six-part series from the Future Knowledge podcast exploring what happens when our shared cultural heritage disappears, and what we can do to preserve it.]]>
+      </description>
+      <source:markdown>Authors Alliance and Internet Archive are excited to announce the release of the first episode of Vanishing Culture, a special six-part series from the Future Knowledge podcast exploring what happens when our shared cultural heritage disappears, and what we can do to preserve it.</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=13020</guid>
+      <category>Blog</category>
+      <category>Future Knowledge</category>
+    </item>    <item>
       <title>Obsession with Curry Barker</title>
       <link>https://johnaugust.com/2026/obsession-with-curry-barker</link>
       <description>
@@ -58,26 +68,6 @@ The post [On Competence](https://johnaugust.com/2026/on-competence) first appear
       <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/740.mp3" length="57120634" type="audio/mpeg" />
       <guid>cid://https://johnaugust.com/?p=24004</guid>
       <category>Scriptnotes</category>
-    </item>    <item>
-      <title>What Does “Exclusive” Mean?</title>
-      <link>https://www.authorsalliance.org/2026/06/11/what-does-exclusive-mean/</link>
-      <description>
-        <![CDATA[When the owner of, say, a research paper assigns an exclusive license in a work to a publisher, any prior nonexclusive licenses are carved out of the exclusive license by operation of law. That does not make the exclusive license any less exclusive. The license is still a transfer of copyright ownership, the publisher still receives an exclusive right, and the publisher can exclude any future uses of that right.]]>
-      </description>
-      <source:markdown>When the owner of, say, a research paper assigns an exclusive license in a work to a publisher, any prior nonexclusive licenses are carved out of the exclusive license by operation of law. That does not make the exclusive license any less exclusive. The license is still a transfer of copyright ownership, the publisher still receives an exclusive right, and the publisher can exclude any future uses of that right.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=12959</guid>
-      <category>Blog</category>
-      <category>Cases</category>
-      <category>Copyright Basics</category>
-      <category>Open Access</category>
-      <category>Publication Contracts</category>
-      <category>Copyright</category>
-      <category>Court cases</category>
-      <category>Definitions</category>
-      <category>Eleventh Circuit</category>
-      <category>Exclusive licenses</category>
-      <category>Nonexclusive Licenses</category>
-      <category>Standing</category>
     </item>
   </channel>
 </rss>

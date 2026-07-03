@@ -4,10 +4,22 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>02 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>03 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>June 2026</title>
+      <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/june-2026/</link>
+      <description>
+        <![CDATA[<p>Last Updated on July 2, 2026, 4:25 pm ET ARL Public Policy Briefing (June 2026) In June, ARL and member libraries advocated for college accreditation standards to retain key elements...</p>
+        <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/june-2026/">June 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on July 2, 2026, 4:25 pm ET ARL Public Policy Briefing (June 2026) In June, ARL and member libraries advocated for college accreditation standards to retain key elements...
+
+The post [June 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/june-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=49145</guid>
+      <category>Public Policy Briefing</category>
+    </item>    <item>
       <title>Join ARL and CARL for a Charleston Preconference Workshop: The Right to Research in the Age of AI</title>
       <link>https://www.arl.org/blog/join-arl-and-carl-for-a-charleston-preconference-workshop-the-right-to-research-in-the-age-of-ai/</link>
       <description>
@@ -49,6 +61,82 @@ The post [Social Media in Scholarly Communications — SSP Pulse Check Report](h
       <category>social media in publishing</category>
       <category>social media marketing</category>
       <category>SSP Pulse Check Survey Report</category>
+    </item>    <item>
+      <title>Take part in UX Research at Crossref</title>
+      <link>https://www.crossref.org/blog/take-part-in-ux-research-at-crossref/</link>
+      <description>
+        <![CDATA[<p>Through user experience research (UXR) initiatives that take into account our diverse membership and community, we can have a continuous, deeper understanding of the role of metadata in our members’ workflows, and ensure that our work continues to meet our community’s needs. Your support is the key to this process, and will positively impact the wider community - and if you’d like to start today, you can take part in our latest initiative: help us improve our <a href="https://www.crossref.org/events/">Events page</a> by sharing your thoughts on the page’s feedback form.</p>
+        <p>Hi, everyone! I’m Leandro Contreras, UX Researcher here at Crossref, since February 2026. In previous roles, I helped to design, build and manage digital products and workflows for universities and academic publishers, and now I’m dedicated to bridging the gap between our community’s needs and the tools we build together.</p>
+        <p>At Crossref, we’re committed to collecting diverse community input, and ensuring our system is representative and useful for everyone that interacts with it. In this blog post, I’d like to introduce you to how we’re kickstarting a more systematic approach to user research processes at Crossref, and invite you to take part in a new research initiative. First, let’s quickly revise some key concepts:</p>
+        <h2 id="what-is-user-experience">What is user experience?</h2>
+        <p>User experience (UX) <strong>is the exploration of how we, as humans, interact with products and services:</strong> whether that&rsquo;s a physical tool or, in our case, the invisible systems holding our metadata, or the visible interfaces that support our community - for example, our <a href="https://www.crossref.org/members/prep/" target="_blank">Participation Reports</a>.</p>
+        <p>Good user experience can positively affect people’s day-to-day lives, produce quality results, and champion inclusion: we are more likely to return to a product or a service if it’s tailor-made for us, for our advantages and shortcomings.</p>
+        <h2 id="what-is-user-experience-research">What is user experience research?</h2>
+        <p><strong>User experience research (UXR) is the methodical study of users</strong> of a product, service or system, using methods to <strong>learn about their behaviours, needs, and preferences.</strong> While user experience is the design of the experience, UXR is the evidence-based study used to inform those designs and prove they actually work.</p>
+        <p>In practice, user experience researchers gather this evidence through a variety of methods that seek to capture quantitative and qualitative data. But what are these methods? And how do they apply in the context of an organisation like Crossref, <a href="https://doi.org/10.64000/hsdpk-8cm70" target="_blank">with a growing membership</a> building the <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">research nexus</a> with rich metadata using many different technologies?</p>
+        <h2 id="how-is-user-experience-research-taking-shape-at-crossref">How is user experience research taking shape at Crossref?</h2>
+        <p>To understand the role and the impact of metadata across our vast community, we are currently mixing qualitative and quantitative research methods to help us get the right answers:</p>
+        <ul>
+        <li>We use <strong>qualitative UX research</strong> methods to understand the why and how behind user behaviours, providing descriptive insights - interviewing our members, or observing them while using our services;</li>
+        <li>We use <strong>quantitative UX research</strong> methods to obtain measurable evidence that helps us track performance and identify patterns at scale - by sharing surveys and feedback forms with our members, or tracking success/failure metrics in unmoderated testing sessions.</li>
+        </ul>
+        <p>In 2026, we’ve already put these methods to work:</p>
+        <ol>
+        <li>We have collected insights to improve our current website information architecture, through surveys and usability testing at our <a href="https://doi.org/10.64000/9mvqq-31278" target="_blank">2026 Metadata Sprint in São Paulo</a>;</li>
+        <li>We launched surveys across our membership to understand the value of selected research integrity tools, as part of our <a href="https://www.crossref.org/community/special-programs/research-integrity/" target="_blank">integrity of the scholarly record program</a>;</li>
+        <li>And we conducted a series of usability testing sessions for our upcoming Book deposit flow in the new <a href="https://www.crossref.org/documentation/register-maintain-records/metadata-manager/" target="_blank">Metadata Manager</a> tool.</li>
+        </ol>
+        <p>Looking ahead, we’ll continue setting up usability testing sessions, open quick feedback channels on our website, and investigate the impact of research integrity across our membership through surveys. However, <strong>these initiatives are only as effective as the community behind them!</strong> When you engage in our UXR initiatives, you actively shape current and future Crossref experiences, ensuring they fit your needs.</p>
+        <p>If you are curious about participating, we’ve just launched a new feedback form on our <a href="https://www.crossref.org/events/">Events page</a> to detect new improvement opportunities, and we invite you to be part of it. This is a great opportunity to see how our initiatives work in practice, so we hope you’ll jump in!</p>
+        <p><figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/event-page-survey.png"
+        alt="Crossref Events page with a feedback survey modal open, dimming the page behind it." width="100%">
+        </figure>
+        <br>
+        <br>
+        Over time, you will see the impact of your participation come to life in future improvements to our tools and services through future project updates on our blog, and in the <a href="https://community.crossref.org/c/questions-from-crossref/2" target="_blank">community forum</a> as well. We welcome everyone to join the conversation there. If you have any further questions, suggestions, or collaboration ideas, you can also <a href="mailto:feedback@crossref.org">get in touch</a> via email.</p>
+        <p>Launching new UX research initiatives at Crossref has been a wonderful way to get to know our community on a deeper level. I’m looking forward to bringing you closer to more initiatives in the future, and learning more from your feedback!</p>]]>
+      </description>
+      <source:markdown>Through user experience research (UXR) initiatives that take into account our diverse membership and community, we can have a continuous, deeper understanding of the role of metadata in our members’ workflows, and ensure that our work continues to meet our community’s needs. Your support is the key to this process, and will positively impact the wider community - and if you’d like to start today, you can take part in our latest initiative: help us improve our [Events page](https://www.crossref.org/events/) by sharing your thoughts on the page’s feedback form.
+
+Hi, everyone! I’m Leandro Contreras, UX Researcher here at Crossref, since February 2026. In previous roles, I helped to design, build and manage digital products and workflows for universities and academic publishers, and now I’m dedicated to bridging the gap between our community’s needs and the tools we build together.
+
+At Crossref, we’re committed to collecting diverse community input, and ensuring our system is representative and useful for everyone that interacts with it. In this blog post, I’d like to introduce you to how we’re kickstarting a more systematic approach to user research processes at Crossref, and invite you to take part in a new research initiative. First, let’s quickly revise some key concepts:
+
+## What is user experience?
+
+User experience (UX) **is the exploration of how we, as humans, interact with products and services:** whether that’s a physical tool or, in our case, the invisible systems holding our metadata, or the visible interfaces that support our community - for example, our [Participation Reports](https://www.crossref.org/members/prep/).
+
+Good user experience can positively affect people’s day-to-day lives, produce quality results, and champion inclusion: we are more likely to return to a product or a service if it’s tailor-made for us, for our advantages and shortcomings.
+
+## What is user experience research?
+
+**User experience research (UXR) is the methodical study of users** of a product, service or system, using methods to **learn about their behaviours, needs, and preferences.** While user experience is the design of the experience, UXR is the evidence-based study used to inform those designs and prove they actually work.
+
+In practice, user experience researchers gather this evidence through a variety of methods that seek to capture quantitative and qualitative data. But what are these methods? And how do they apply in the context of an organisation like Crossref, [with a growing membership](https://doi.org/10.64000/hsdpk-8cm70) building the [research nexus](https://www.crossref.org/documentation/research-nexus/) with rich metadata using many different technologies?
+
+## How is user experience research taking shape at Crossref?
+
+To understand the role and the impact of metadata across our vast community, we are currently mixing qualitative and quantitative research methods to help us get the right answers:
+
+- We use **qualitative UX research** methods to understand the why and how behind user behaviours, providing descriptive insights - interviewing our members, or observing them while using our services;
+- We use **quantitative UX research** methods to obtain measurable evidence that helps us track performance and identify patterns at scale - by sharing surveys and feedback forms with our members, or tracking success/failure metrics in unmoderated testing sessions.
+
+In 2026, we’ve already put these methods to work:
+
+1. We have collected insights to improve our current website information architecture, through surveys and usability testing at our [2026 Metadata Sprint in São Paulo](https://doi.org/10.64000/9mvqq-31278);
+2. We launched surveys across our membership to understand the value of selected research integrity tools, as part of our [integrity of the scholarly record program](https://www.crossref.org/community/special-programs/research-integrity/);
+3. And we conducted a series of usability testing sessions for our upcoming Book deposit flow in the new [Metadata Manager](https://www.crossref.org/documentation/register-maintain-records/metadata-manager/) tool.
+
+Looking ahead, we’ll continue setting up usability testing sessions, open quick feedback channels on our website, and investigate the impact of research integrity across our membership through surveys. However, **these initiatives are only as effective as the community behind them!** When you engage in our UXR initiatives, you actively shape current and future Crossref experiences, ensuring they fit your needs.
+
+If you are curious about participating, we’ve just launched a new feedback form on our [Events page](https://www.crossref.org/events/) to detect new improvement opportunities, and we invite you to be part of it. This is a great opportunity to see how our initiatives work in practice, so we hope you’ll jump in!
+
+![Crossref Events page with a feedback survey modal open, dimming the page behind it.](https://www.crossref.org/images/blog/2026/event-page-survey.png)
+
+Over time, you will see the impact of your participation come to life in future improvements to our tools and services through future project updates on our blog, and in the [community forum](https://community.crossref.org/c/questions-from-crossref/2) as well. We welcome everyone to join the conversation there. If you have any further questions, suggestions, or collaboration ideas, you can also [get in touch](mailto:feedback@crossref.org) via email.
+
+Launching new UX research initiatives at Crossref has been a wonderful way to get to know our community on a deeper level. I’m looking forward to bringing you closer to more initiatives in the future, and learning more from your feedback!</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/take-part-in-ux-research-at-crossref/</guid>
     </item>    <item>
       <title>Vanishing Culture Episode #1: What We Stand to Lose with Luca Messarra</title>
       <link>https://blog.archive.org/2026/07/01/vanishing-culture-episode-1-what-we-stand-to-lose-with-luca-messarra/</link>
@@ -1286,45 +1374,6 @@ The post [Ask the Community: Takeaways from SSP 2026](https://scholarlykitchen.s
       <category>Society for Scholarly Publishing</category>
       <category>2026 SSP Annual Meeting</category>
       <category>Ask the Community</category>
-    </item>    <item>
-      <title>AI Literacy: Join the Latest Cohort</title>
-      <link>https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/</link>
-      <description>
-        <![CDATA[<p>Beginning this July, Ithaka S+R will convene a cohort of 15-20 colleges and universities to explore how existing information literacy frameworks can be adapted and revised to reflect the changing realities of an AI-driven information ecosystem. The project will bring together librarians, teaching and learning professionals, and other campus leaders committed to advancing AI literacy as a core learning outcome.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/">AI Literacy: Join the Latest Cohort</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Beginning this July, Ithaka S+R will convene a cohort of 15-20 colleges and universities to explore how existing information literacy frameworks can be adapted and revised to reflect the changing realities of an AI-driven information ecosystem. The project will bring together librarians, teaching and learning professionals, and other campus leaders committed to advancing AI literacy as a core learning outcome.
-
-The post [AI Literacy: Join the Latest Cohort](https://sr.ithaka.org/blog/ai-literacy-join-the-cohort/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=325854</guid>
-      <category>Generative AI</category>
-      <category>Teaching and learning</category>
-      <category>Academic libraries</category>
-      <category>AI literacy</category>
-      <category>Cohort project</category>
-    </item>    <item>
-      <title>Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/</link>
-      <description>
-        <![CDATA[<p>Today, guest blogger Rob Johnson speaks with the creator of Research Nexus Score,  and observes that metadata quality has gone from a niche concern to a sector-wide anxiety.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/">Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today, guest blogger Rob Johnson speaks with the creator of Research Nexus Score, and observes that metadata quality has gone from a niche concern to a sector-wide anxiety.
-
-The post [Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score](https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62056</guid>
-      <category>Discovery</category>
-      <category>Experimentation</category>
-      <category>Infrastructure</category>
-      <category>Metrics and Analytics</category>
-      <category>Preservation</category>
-      <category>Research</category>
-      <category>Technology</category>
-      <category>AI</category>
-      <category>Artificial intelligence</category>
-      <category>infrastructure</category>
-      <category>metadata</category>
-      <category>metadata quality</category>
     </item>
   </channel>
 </rss>

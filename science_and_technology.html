@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.25" >
-  <meta name="date" content="2026-07-02T06:43:19-07:00" >
+  <meta name="date" content="2026-07-03T06:42:37-07:00" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>Science and Technology</title>
-  <link rel="stylesheet" href="css/site.css" >
+  <link href="css/site.css" rel="stylesheet" >
   <link rel="alternate" type="application/rss+xml" href="science_and_technology.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
-  <script type="module" src="modules/article_collapse.js" ></script>
+  <script src="modules/article_collapse.js" type="module" ></script>
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -44,6 +44,209 @@
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content">
 
+    <article data-published="2026-07-03T12:56:25Z" data-link="https://www.osnews.com/story/145423/microsoft-settles-centuries-of-religious-debate-by-providing-clearest-definition-of-hell-to-date-windows-with-a-website-based-shell-running-only-copilot/" data-pagefind-filter="category:Clown car, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-03T12:56:25Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>Microsoft settles centuries of religious debate by providing clearest definition of hell to date: Windows with a website-based shell running only Copilot</h2>
+      <p><time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>For how often people invoke it, the concept of “hell” in Christianity is remarkably vague and nebulous, as both the Old and New Testament barely go into detail about the concept. As such, I’m glad Microsoft has now given us a clear vision of hell and what, exactly, it looks like, ending centuries of denominational disagreements. Microsoft is currently selling the idea of Windows and Copilot as two separate things: an OS and an assistant riding along on top of it. However, a leaked video shows Project Aion, an internal prototype where Copilot doesn’t just sit inside Windows, it becomes Windows, swallowing the Start menu, the taskbar, and three decades of desktop conventions in the process. The footage is reportedly two years old, so Aion is most likely dead by now. But it’s the clearest look yet at how far Microsoft was willing to take its agentic AI ambitions. ↫ Alfonso Maruccia at Techspot Everything about this is dreadful. Obviously replacing the entire shell with “AI” nonsense is the main crime against usability here, but on top of that, this new shell is all just websites, all the way down, so everything is slow and stuttery. Since this runs on something called “Win3”, which appears to be a very minimal, stripped-down version of Windows intended to only run the Edge browser engine, you can’t run Win32 applications. If you do try to run a Win32 application, it will load the application in a remote virtual machine running in the cloud, which I;m sure does wonder for performance, responsiveness, and latency. We can all thank the lord this project is two years old and most likely cancelled by now, but we have no way of knowing if Microsoft is still intending for this to be the future direction of Windows. Since people don’t want to use “AI” of their own volition, it only makes sense in the technology industry’s sick, twisted mind to force people into using “AI” with efforts like this. Consent has never been Silicon Valley’s strength, after all. At the time of writing, Microsoft is 225 billion dollars in the red on “AI”, so I wouldn’t be surprised if attempts to replace the regular Explorer shell with something “AI”-based is still very much on the table in Redmond.</p>
+</p>
+      <footer>
+        <a href="https://www.osnews.com/story/145423/microsoft-settles-centuries-of-religious-debate-by-providing-clearest-definition-of-hell-to-date-windows-with-a-website-based-shell-running-only-copilot/">https://www.osnews.com/story/145423/microsoft-settles-centuries-of-religious-debate-by-providing-clearest-definition-of-hell-to-date-windows-with-a-website-based-shell-running-only-copilot/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-03T12:42:03Z" data-link="https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/" data-pagefind-filter="category:Astrophysics, category:Astrophysics Division, category:Globular Clusters, category:Goddard Space Flight Center, category:Hubble Space Telescope, category:Star Clusters, category:Stars, datePublished:2026-07-03T12:42:03Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>NASA’s Hubble Spots Star-Spangled Cosmic Scene</h2>
+      <p><time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).</p>
+</p>
+      <footer>
+        <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/">https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-03T12:10:40Z" data-link="https://www.osnews.com/story/145421/vulkan-netbsd-brings-vulkan-to-netbsd/" data-pagefind-filter="category:NetBSD, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-03T12:10:40Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>Vulkan-netbsd brings Vulkan to NetBSD</h2>
+      <p><time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>NetBSD is the only BSD without a Vulkan stack (Mesa and Lavapipe), but that’s about to change. The effort to bring Vulkan to NetBSD is now in beta, with prebuilt binaries coming soon. Mesa configures, compiles, links, installs, and registers the Lavapipe software Vulkan driver on NetBSD 10.1 amd64, against LLVM 19.1.7. The driver (libvulkan_lvp.so, ~17 MB) installs into /usr/pkg/lib, and its ICD manifest (advertising Vulkan API 1.4) installs into /usr/pkg/share/vulkan/icd.d/, so a Vulkan loader on the system can discover it. ldd resolves every dependency cleanly. The entire process — environment setup, dependency builds, the Mesa build, and installation — is automated end to end and reproducible on a fresh install. ↫ vulkan-netbsd GitHub page It’s important to note that the next step in the process is to port the Vulkan loader, which is required to actually run Vulkan applications. This entire effort is still ongoing and seems to be handled mostly by Dean Howell alone, so expect breakage and incomplete documentation as development progresses. Still, this is a hugely important effort, and seeing it this far along is great news.</p>
+</p>
+      <footer>
+        <a href="https://www.osnews.com/story/145421/vulkan-netbsd-brings-vulkan-to-netbsd/">https://www.osnews.com/story/145421/vulkan-netbsd-brings-vulkan-to-netbsd/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-03T12:03:52Z" data-link="https://www.osnews.com/story/145419/everymac-celebrates-30th-birthday/" data-pagefind-filter="category:Apple, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-03T12:03:52Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>EveryMac celebrates 30th birthday</h2>
+      <p><time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>EveryMac turned 30. On July 2, 1996, EveryMac.com launched. Thirty years is a long time — and a great deal has changed since then — but what has not changed is that EveryMac.com has been there to provide you with detailed info on every Mac from the original 128k to the current line. Thank you very much for your support through the years. ↫ EveryMac news item I thought OSNews was pretty unique with its founding in 1997, so it’s great to see another enthusiast’s website as old as ours. Amazing company to be in, too – EveryMac is an indispensable, tirelessly maintained, and stupidly accurate resource that I use countless times each year. Here’s to another 30 years.</p>
+</p>
+      <footer>
+        <a href="https://www.osnews.com/story/145419/everymac-celebrates-30th-birthday/">https://www.osnews.com/story/145419/everymac-celebrates-30th-birthday/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-03T07:00:00Z" data-link="https://www.npr.org/2026/07/03/nx-s1-5879300/july-4th-fireworks-thrill-chill-seeker" data-pagefind-filter="datePublished:2026-07-03T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
+      <h2>This July 4th, are you a thrill- or chill-seeker?</h2>
+      <p><time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>Independence Day is approaching!</p>
+<p>Imagine if someone has procured illegal fireworks from a couple of states over. Are you:</p>
+<p>1. first in line to light them?</p>
+<p>2. content to watch while others set them off?</p>
+<p>3. going to find a fire extinguisher — just in case — while loudly condemning the activity?</p>
+<p><a href="https://www.drkencarter.com/">Ken Carter</a>, a psychologist at Oxford College of Emory University, says everyone has a different level of sensation-seeking. This episode, we get into the factors at play, like people's brain chemistry, when deciding whether or not to do an activity, like setting off fireworks.</p>
+<p>For low and average sensation-seekers, very thrilling activities like large, self-run fireworks displays can cause their bodies to produce a lot of cortisol, a stress hormone.</p>
+<p>On the other hand, high sensation-seekers, Carter says, &quot;don't tend to produce that much cortisol when they're in those highly chaotic experiences. So when they're seeing those fireworks, they actually produce higher amounts of another chemical called dopamine, which is a neurotransmitter or a chemical messenger that's involved in pleasure.&quot;</p>
+<p>Carter has developed a 40-point self-assessment survey for people to figure out how much of a sensation-seeker they are. The survey can be found in his book, <a href="https://www.cambridge.org/us/universitypress/subjects/psychology/personality-psychology-and-individual-differences/buzz-inside-minds-thrill-seekers-daredevils-and-adrenaline-junkies?format=PB"><em>Buzz!</em></a></p>
+<p><em>Interested in more psychology episodes? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
+<p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at</em> <a href="http://plus.npr.org"><em>plus.npr.org</em></a> <em>.</em></p>
+<p>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.</p>
+<p><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a></p>
+</p>
+      <footer>
+        <a href="https://www.npr.org/2026/07/03/nx-s1-5879300/july-4th-fireworks-thrill-chill-seeker">https://www.npr.org/2026/07/03/nx-s1-5879300/july-4th-fireworks-thrill-chill-seeker</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T23:20:02Z" data-link="https://www.osnews.com/story/145415/android-is-almost-dead/" data-pagefind-filter="category:Android, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-02T23:20:02Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>Android is almost dead</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>The clock is ticking for Android as a (somewhat) open platform. If you are running Android 8 or higher, a virus has been installed on your device and is silently awaiting remote activation. Over the past few months, devices around the world have been infected with this novel strain, with as many as 4 billion Android handsets and tablets estimated to have already been contaminated, meaning that around half of all humanity may be at risk from this threat. Disguising itself as the innocuously-titled “Android Developer Verifier” (ADV) process, this trojan horse runs surreptitiously in the background as a system service with full root privileges, quietly awaiting an activation signal. The service cannot be blocked, disabled, or removed. Unlike a commonplace bit of malware, this extraordinary strain won’t be detected and neutralized by Play Protect (the malware scanning and remediation service that is installed on all Android Certified devices). In fact, Play Protect is itself the vector through which this virus is transmitted and installed. That is because it is Google themselves who is propagating ADV. And once activated, this malevolent process has exactly one goal: to block you from running software by developers who haven’t been approved centrally by Google. ↫ The F-Droid news website If nobody steps up, if no regulator takes on Google in this matter, we could very well be looking at the end of F-Droid and similar open source application repositories on Android. I use F-Droid, and in fact, one of the most important and most-used application on my Pixel 10 Pro comes from F-Droid: Fennec. This Firefox fork is not available through any Google-sanctioned means, and I could just wake up one day and have the browser on what is supposed to be my phone stop working. Age verification, tying crucial services to iOS and Google Android, killing the ability to install your own software on your phone, purposefully making people hopelessly addicted to and dependent on “AI”, and so much more – we’re facing a multi-pronged attack designed to beat us into submission and give up on the idea of Free computing. I have to admit I’ve lost all hope we’ll be able to win this battle, as the combined interests of technology megacorporations and our own governments are just too powerful to fight. I feel like we’re living in the computing end times.</p>
+</p>
+      <footer>
+        <a href="https://www.osnews.com/story/145415/android-is-almost-dead/">https://www.osnews.com/story/145415/android-is-almost-dead/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T22:57:15Z" data-link="https://www.osnews.com/story/145413/winpe-as-a-stateless-harness-for-windows-driver-testing-and-fuzzing/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-02T22:57:15Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>WinPE as a stateless harness for Windows driver testing and fuzzing</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>What if you need to do very low-level testing involving the very guts of Windows NT, but don’t need most of the userland that sits on top? In fact, what if that userland only slows you down and complicates the work you’re trying to do? The solution is Windows PE (Windows Preinstallation Environment). It is an official, stripped-down environment distributed with every Windows ISO image. It runs entirely in RAM, requires as little as 512 MB of memory, and lacks support for DirectX, the PowerShell subsystem, or the standard graphical shell (Explorer). Booting by default with NT AUTHORITY\\SYSTEM privileges makes it an ideal test harness for both of these tasks. The following analysis focuses on the low-level mechanisms of WinPE, as well as BCD and QEMU modifications that allow transforming this system into an ultra-fast, idempotent testing environment. ↫ Piotr Bednarski Now, the kind of work Bednarski does isn’t the most common of tasks, but I’ve often wondered just how far you can get by bolting on whatever WinPE will allow you to. There were various unofficial third-party tools that built Windows live CDs based on WinPE, but I think most of those have died out by now. If you look hard enough, you can also find some other utilities people made for WinPE, including even some rudimentary web browsers. Regarding web browsers, modern efforts seem to run into issues. WinPE is not really meant for any advanced functionality, but I really do wonder how capable you can make it without turning it into regular Windows.</p>
+</p>
+      <footer>
+        <a href="https://www.osnews.com/story/145413/winpe-as-a-stateless-harness-for-windows-driver-testing-and-fuzzing/">https://www.osnews.com/story/145413/winpe-as-a-stateless-harness-for-windows-driver-testing-and-fuzzing/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T22:33:11Z" data-link="https://www.osnews.com/story/145411/m-pc-a-concatenative-operating-system-for-varvara/" data-pagefind-filter="category:OS News, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-02T22:33:11Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>M/PC: a concatenative operating system for Varvara</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>M/PC is a concatenative operating system for Varvara, inspired by Openfirmware, designed to manage files on system without a file browser. It uses the postfix notation, meaning that the function success their operands. ↫ M/PC website I’m not going to pretend to really understand what any of this means.</p>
+</p>
+      <footer>
+        <a href="https://www.osnews.com/story/145411/m-pc-a-concatenative-operating-system-for-varvara/">https://www.osnews.com/story/145411/m-pc-a-concatenative-operating-system-for-varvara/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T21:28:51Z" data-link="https://www.smithsonianmag.com/smart-news/an-ai-generated-alexander-hamilton-chats-about-economics-at-the-museum-of-american-finance-opening-this-weekend-in-boston-180989071/" data-pagefind-filter="datePublished:2026-07-02T21:28:51Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>An A.I.-Generated Alexander Hamilton Chats About Economics at the Museum of American Finance, Opening This Weekend in Boston</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><p>The museum, which started in New York and hasn't had a permanent exhibition space in several years, depicts the history and influence of U.S. financial institutions</p>
+</p>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/an-ai-generated-alexander-hamilton-chats-about-economics-at-the-museum-of-american-finance-opening-this-weekend-in-boston-180989071/">https://www.smithsonianmag.com/smart-news/an-ai-generated-alexander-hamilton-chats-about-economics-at-the-museum-of-american-finance-opening-this-weekend-in-boston-180989071/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T19:53:39Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-say-theyve-made-cells-that-feed-grow-and-reproduce-bringing-them-one-step-closer-to-building-life-from-scratch-180989070/" data-pagefind-filter="datePublished:2026-07-02T19:53:39Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Scientists Say They've Made Cells That Feed, Grow and Reproduce, Bringing Them One Step Closer to Building Life From Scratch</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><p>The human-made cells show many hallmarks of life, but they can't make all their necessary internal structures or divide for that many generations</p>
+</p>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/scientists-say-theyve-made-cells-that-feed-grow-and-reproduce-bringing-them-one-step-closer-to-building-life-from-scratch-180989070/">https://www.smithsonianmag.com/smart-news/scientists-say-theyve-made-cells-that-feed-grow-and-reproduce-bringing-them-one-step-closer-to-building-life-from-scratch-180989070/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T19:45:54Z" data-link="https://www.smithsonianmag.com/smart-news/3d-printing-gives-new-life-to-an-ancient-game-board-discovered-at-a-roman-fort-near-hadrians-wall-in-england-180989064/" data-pagefind-filter="datePublished:2026-07-02T19:45:54Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>3D Printing Gives New Life to an Ancient Game Board Discovered at a Roman Fort Near Hadrian's Wall in England</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><p>Soldiers and civilians alike enjoyed strategy game Ludus Latrunculorum in the Roman Empire, especially in Roman Britain</p>
+</p>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/3d-printing-gives-new-life-to-an-ancient-game-board-discovered-at-a-roman-fort-near-hadrians-wall-in-england-180989064/">https://www.smithsonianmag.com/smart-news/3d-printing-gives-new-life-to-an-ancient-game-board-discovered-at-a-roman-fort-near-hadrians-wall-in-england-180989064/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T19:01:07Z" data-link="https://www.smithsonianmag.com/smart-news/puzzled-by-mark-rothkos-captivating-color-field-paintings-look-to-the-renaissance-masters-who-inspired-him-180989068/" data-pagefind-filter="datePublished:2026-07-02T19:01:07Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Puzzled by Mark Rothko's Captivating Color Field Paintings? Look to the Renaissance Masters Who Inspired Him</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><p>During trips to Europe, the American painter developed a fascination with how 15th- and 16th-century artists and architects had designed their work to evoke specific feelings</p>
+</p>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/puzzled-by-mark-rothkos-captivating-color-field-paintings-look-to-the-renaissance-masters-who-inspired-him-180989068/">https://www.smithsonianmag.com/smart-news/puzzled-by-mark-rothkos-captivating-color-field-paintings-look-to-the-renaissance-masters-who-inspired-him-180989068/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T18:02:21Z" data-link="https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/" data-pagefind-filter="category:General, dc_creator:Brittany A. Brown, author:Brittany A. Brown, datePublished:2026-07-02T18:02:21Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>NASA’s Artemis II Breaks Agency Streaming Record</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest – including more than 149.4 million views of the launch, lunar flyby, splashdown on NASA-owned platforms, including the 24/7 streams covering the mission and the Orion spacecraft views – demonstrating strong, sustained global engagement throughout the mission.  Around the Clock Live Broadcast NASA’s Artemis II Crew Launches to the Moon broadcast set unprecedented viewership records across the agency’s […]</p>
+</p>
+      <footer>
+        <a href="https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/">https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T17:54:44Z" data-link="https://www.smithsonianmag.com/smart-news/oldest-black-church-wright-brothers-homes-new-york-hospital-american-heritage-treasures-in-urgent-need-of-preservation-180989058/" data-pagefind-filter="datePublished:2026-07-02T17:54:44Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>The Oldest Black Church in the U.S., the Wright Brothers' Home and a New York Hospital Are Among the American Heritage Sites in Urgent Need of Preservation</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><p>For its “Irreplaceable America” list in honor of the 250th birthday of the U.S., the World Monuments Fund chose endangered historic sites of innovation, creativity and spirituality to publicize and support</p>
+</p>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/oldest-black-church-wright-brothers-homes-new-york-hospital-american-heritage-treasures-in-urgent-need-of-preservation-180989058/">https://www.smithsonianmag.com/smart-news/oldest-black-church-wright-brothers-homes-new-york-hospital-american-heritage-treasures-in-urgent-need-of-preservation-180989058/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T17:45:59Z" data-link="https://www.smithsonianmag.com/smart-news/an-archival-discovery-became-a-treasure-map-leading-a-diver-to-a-17th-century-shipwreck-carrying-coins-and-gold-jewelry-180989063/" data-pagefind-filter="datePublished:2026-07-02T17:45:59Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>An Archival Discovery Became a Treasure Map Leading a Diver to a 17th-Century Shipwreck Carrying Coins and Gold Jewelry</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><p>See artifacts recovered thanks to a clue about the last resting place of a lost captain from an East India Company ship that went down near the Isles of Scilly</p>
+</p>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/an-archival-discovery-became-a-treasure-map-leading-a-diver-to-a-17th-century-shipwreck-carrying-coins-and-gold-jewelry-180989063/">https://www.smithsonianmag.com/smart-news/an-archival-discovery-became-a-treasure-map-leading-a-diver-to-a-17th-century-shipwreck-carrying-coins-and-gold-jewelry-180989063/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T15:30:42Z" data-link="https://www.smithsonianmag.com/smart-news/earth-might-be-home-to-20-million-insect-speciesmore-than-three-times-as-many-as-previously-thought-a-study-suggests-180989062/" data-pagefind-filter="datePublished:2026-07-02T15:30:42Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Earth Might Be Home to 20 Million Insect Species—More Than Three Times as Many as Previously Thought, a Study Suggests</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><p>Recent estimates have come to the consensus that our planet hosts roughly six million species. But new research reveals that those counts may be drastically underestimated</p>
+</p>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/earth-might-be-home-to-20-million-insect-speciesmore-than-three-times-as-many-as-previously-thought-a-study-suggests-180989062/">https://www.smithsonianmag.com/smart-news/earth-might-be-home-to-20-million-insect-speciesmore-than-three-times-as-many-as-previously-thought-a-study-suggests-180989062/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T14:57:31Z" data-link="https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/" data-pagefind-filter="category:Physics, dc_creator:Jay Bennett, author:Jay Bennett, datePublished:2026-07-02T14:57:31Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
+      <h2>Astrophysicists Puzzle Over Webb’s New Universe</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>Faced with observations of early black holes and galaxies that weren’t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true.</p>
+<p>The post <a href="https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/">Astrophysicists Puzzle Over Webb’s New Universe</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
+</p>
+      <footer>
+        <a href="https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/">https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T14:41:24Z" data-link="https://www.nasa.gov/image-article/good-morning-earth/" data-pagefind-filter="category:International Space Station (ISS), dc_creator:HQ Web Team, author:HQ Web Team, datePublished:2026-07-02T14:41:24Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>Good Morning, Earth!</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets. Learn more about the orbiting laboratory. Image credit: NASA/Chris Williams</p>
+</p>
+      <footer>
+        <a href="https://www.nasa.gov/image-article/good-morning-earth/">https://www.nasa.gov/image-article/good-morning-earth/</a>
+      </footer>
+    </article>
+
+    <article data-published="2026-07-02T14:00:00Z" data-link="https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/" data-pagefind-filter="category:Astrophysics, category:Goddard Space Flight Center, category:James Webb Space Telescope (JWST), category:Protostars, category:Science & Research, category:Stars, category:The Universe, datePublished:2026-07-02T14:00:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration</h2>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
+      <p><p>NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of […]</p>
+</p>
+      <footer>
+        <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/">https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/</a>
+      </footer>
+    </article>
+
     <article data-published="2026-07-02T13:00:23Z" data-link="https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/" data-pagefind-filter="category:Gaming, category:Cloud Gaming, category:GeForce NOW, dc_creator:GeForce NOW Community, author:GeForce NOW Community, datePublished:2026-07-02T13:00:23Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Joyride Through July With 12 Games Coming to GeForce NOW</h2>
       <p><time datetime="2026-07-02">2026-07-02</time></p>
@@ -66,7 +269,7 @@
 
     <article data-published="2026-07-02T00:22:22Z" data-link="https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/" data-pagefind-filter="category:Comets, category:Earth's Moon, category:Mars, category:Rings of Saturn, category:Saturn, category:Skywatching, category:Skywatching Tips, category:The Milky Way, category:The Solar System, category:Uranus, datePublished:2026-07-02T00:22:22Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>What’s Up: July 2026 Skywatching Tips from NASA</h2>
-      <p><time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-07-02">2026-07-02</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>A predawn Moon-and-planets meetup, a returning comet, a great chance to see the Milky Way, and Saturn’s rings at a new angle. Skywatching Highlights Transcript An early morning hangout with the Moon and planets, a comet swings by, prime time for the Milky Way, and Saturn’s rings shine at a new angle. That’s What’s Up […]</p>
 </p>
       <footer>
@@ -76,7 +279,7 @@
 
     <article data-published="2026-07-01T22:27:10Z" data-link="https://www.osnews.com/story/145407/osnews-statement-on-slopcoded-operating-systems/" data-pagefind-filter="category:OS News, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-01T22:27:10Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>OSNews statement on slopcoded “operating systems”</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Recently, there has been a surge in slopcoded new/hobby “operating systems”. Such slopcoded projects – which, due to the nature of “AI” tools, effectively consist of stolen code – will not be featured on OSNews and submitting them is fruitless. Other websites may choose to employ lower standards, as is their prerogative, but OSNews will not. I obviously cannot guarantee nothing will ever slip through the cracks, but I will take utmost care to ensure OSNews remains free of these so-called “sloperating systems”. Plagiarism, license-washing, and code theft have no place in the world of enthusiast and hobby operating systems.</p>
 </p>
       <footer>
@@ -86,7 +289,7 @@
 
     <article data-published="2026-07-01T22:21:27Z" data-link="https://www.osnews.com/story/145405/european-digital-id-wallets-are-a-gift-to-google-and-apple/" data-pagefind-filter="category:Legal, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-01T22:21:27Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>European digital ID wallets are a gift to Google and Apple</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>European governments are rolling out digital identity wallets, which are to be used by citizens to access services, and to verify their age online. As reported by Follow the Money and Android Authority, there is a serious problem with this: these wallets rely on safety services of Google and Apple. These are known as Google Play Integrity API, and Apple’s Managed Device Attestation. Such safety services (known as “remote attestation”) are used to ensure that wallet apps run on hardware that is not tampered with. In this article we explain why the EU-wallet case is part of a bigger problem: by embedding these safety services in public infrastructure, Europe risks making society dependent on private companies while serving their corporate interests. ↫ Danny Lämmerhirt Setting aside the age verification nonsense, the fact that some European government are tying their identification services to iOS and Google Android is absolutely bonkers, especially in this day and age. There’s endless talk about reducing European dependence on the American tech giants who seem all too eager to do roll over when the Trump regime so much as glances in their general direction, and yet, they seem to want to effectively force us citizens to use American tech products. Essential online tools, like banking, government services, communication services, digital driver’s licenses, and more, should not require the use of iOS or Google Android.</p>
 </p>
       <footer>
@@ -96,7 +299,7 @@
 
     <article data-published="2026-07-01T22:13:43Z" data-link="https://www.osnews.com/story/145403/apple-should-end-their-prohibition-on-shapes-in-macos-app-icons/" data-pagefind-filter="category:macOS, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-01T22:13:43Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>“Apple should end their prohibition on shapes in MacOS app icons”</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>There’s a lot you can say about macOS, but one thing Apple used to be incredibly good at were making beautifully crafted, detailed icons. As with almost every other aspect of macOS, this deteriorated sharply over the years, with the recent macOS releases with Liquid Glass being an absolute low point. Not only have they become bland and featureless, Apple also started forcing every icons to have the exact same rounded-rectangle shape, making them even harder to distinguish from one another. Rogue Amoeba, a company with a long history of developing applications with beautiful iconography, published a blog post pleading Apple to go back to proper icon design. With last year’s release of MacOS 26 (Tahoe), Apple made a mess of app icons. In the first betas of MacOS 27 (Golden Gate), however, there are signs of a turnaround. We’re urging Apple to continue making improvements, by restoring the ability for MacOS app icons to have distinct shapes. ↫ Paul Kafasis at the Rogue Amoeba blog I really hope Apple will turn its icon ship around.</p>
 </p>
       <footer>
@@ -106,7 +309,7 @@
 
     <article data-published="2026-07-01T21:30:37Z" data-link="https://www.smithsonianmag.com/smart-news/alexander-hamiltons-first-national-bank-revolutionized-the-us-economy-after-sitting-shuttered-for-years-the-philadelphia-landmark-reopened-as-a-museum-180989056/" data-pagefind-filter="datePublished:2026-07-01T21:30:37Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Alexander Hamilton's First National Bank Revolutionized the U.S. Economy. After Sitting Shuttered for Years, the Philadelphia Landmark Reopened as a Museum</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>A controversial idea right after the American Revolution, the First Bank of the United States proved prescient. Visitors can now check out its historic home after a $43 million makeover</p>
 </p>
       <footer>
@@ -116,7 +319,7 @@
 
     <article data-published="2026-07-01T21:21:11Z" data-link="https://www.smithsonianmag.com/smart-news/the-greatest-cosmic-movie-ever-made-the-worlds-largest-digital-camera-begins-a-historic-decade-long-survey-of-the-night-sky-180989059/" data-pagefind-filter="datePublished:2026-07-01T21:21:11Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>'The Greatest Cosmic Movie Ever Made': The World's Largest Digital Camera Begins a Historic, Decade-Long Survey of the Night Sky</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>After a year of testing, the Vera C. Rubin Observatory in Chile has started capturing data as part of the much-anticipated Legacy Survey of Space and Time</p>
 </p>
       <footer>
@@ -126,7 +329,7 @@
 
     <article data-published="2026-07-01T20:17:20Z" data-link="https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/" data-pagefind-filter="category:Astrophysics, category:Chandra X-Ray Observatory, category:Galaxies, category:Marshall Astrophysics, category:Marshall Space Flight Center, category:The Milky Way, category:The Universe, datePublished:2026-07-01T20:17:20Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>NASA’s Chandra Examines Milky Way at Arms’ Length</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds […]</p>
 </p>
       <footer>
@@ -136,7 +339,7 @@
 
     <article data-published="2026-07-01T19:30:37Z" data-link="https://www.smithsonianmag.com/smart-news/vintage-read-posters-adorning-libraries-and-classrooms-for-decades-go-on-auction-as-the-american-library-association-turns-150-180989057/" data-pagefind-filter="datePublished:2026-07-01T19:30:37Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Vintage ‘READ’ Posters Adorning Libraries and Classrooms for Decades Go on Auction as the American Library Association Turns 150</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Taylor Swift, Serena Williams and famous fictional characters lent their iconic faces to encourage people to pick up a book</p>
 </p>
       <footer>
@@ -146,7 +349,7 @@
 
     <article data-published="2026-07-01T18:59:33Z" data-link="https://www.osnews.com/story/145401/linux-ported-to-segas-mega-drive/" data-pagefind-filter="category:Linux, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-01T18:59:33Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Linux ported to Sega’s Mega Drive</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>If you have a Sega Mega Drive, you obviously want to run Linux on it. That’s something you can do now. You do need to have an EverDrive, but don’t worry, the port in question contains a custom fork of Qemu for those of us that don’t. I don’t know what else to say, other than I wonder why nobody did this sooner.</p>
 </p>
       <footer>
@@ -156,7 +359,7 @@
 
     <article data-published="2026-07-01T18:55:43Z" data-link="https://www.smithsonianmag.com/smart-news/after-decades-of-debate-scientists-say-these-fossils-belong-to-the-largest-known-scorpion-which-lived-415-million-years-ago-180989022/" data-pagefind-filter="datePublished:2026-07-01T18:55:43Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>After Decades of Debate, Scientists Say These Fossils Belong to the Largest Known Scorpion, Which Lived 415 Million Years Ago</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Researchers have wondered whether Praearcturus gigas was a giant crustacean called an isopod or some other creature. A new analysis of museum specimens suggests that it was a scorpion that stretched more than three feet long</p>
 </p>
       <footer>
@@ -166,7 +369,7 @@
 
     <article data-published="2026-07-01T16:15:14Z" data-link="https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/" data-pagefind-filter="category:Humans in Space, category:Human Research Program, category:Johnson Space Center, category:Missions, dc_creator:Lauren E. Low, author:Lauren E. Low, datePublished:2026-07-01T16:15:14Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet. Insights from this […]</p>
 </p>
       <footer>
@@ -176,7 +379,7 @@
 
     <article data-published="2026-07-01T15:20:29Z" data-link="https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/" data-pagefind-filter="category:Swift Boost Mission, dc_creator:HQ Web Team, author:HQ Web Team, datePublished:2026-07-01T15:20:29Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean. A robotic servicing spacecraft called LINK, built by Katalyst Space, will blast […]</p>
 </p>
       <footer>
@@ -186,7 +389,7 @@
 
     <article data-published="2026-07-01T15:11:09Z" data-link="https://www.smithsonianmag.com/smart-news/as-france-prepares-to-light-up-the-statue-of-liberty-for-americas-250th-peek-into-the-history-of-the-symbol-of-translatlantic-friendship-180989047/" data-pagefind-filter="datePublished:2026-07-01T15:11:09Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>As France Prepares to Light Up the Statue of Liberty for America's 250th, Peek Into the History of the Symbol of Trans-Atlantic Friendship</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Here’s how three French idealists—an abolitionist, a sculptor and the engineer behind the Eiffel Tower—brought the representation of freedom to life</p>
 </p>
       <footer>
@@ -196,7 +399,7 @@
 
     <article data-published="2026-07-01T15:00:00Z" data-link="https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/" data-pagefind-filter="category:Astrophysics, category:Exoplanet Atmosphere, category:Exoplanets, category:Goddard Space Flight Center, category:James Webb Space Telescope (JWST), category:Planetary Environments & Atmospheres, category:Science & Research, category:The Universe, category:White Dwarfs, datePublished:2026-07-01T15:00:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>NASA’s Webb Studies How Planet Survived Death of its Star</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a […]</p>
 </p>
       <footer>
@@ -206,7 +409,7 @@
 
     <article data-published="2026-07-01T14:41:46Z" data-link="https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/" data-pagefind-filter="category:Blogs, datePublished:2026-07-01T14:41:46Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>Curiosity Blog, Sols 4934-4940: In the Land of the Polygons</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 26, 2026 There were two planning cycles over this span of sols. The Monday planning took place with Curiosity situated within a unit that from orbital imagery appeared light-toned, and from earlier rover positions appeared smooth. Reaching this unit, the […]</p>
 </p>
       <footer>
@@ -216,7 +419,7 @@
 
     <article data-published="2026-07-01T14:33:20Z" data-link="https://www.smithsonianmag.com/smart-news/this-ancient-monolith-archaeologists-unearthed-in-mexico-may-depict-people-receiving-divine-liquid-in-a-ritual-180989049/" data-pagefind-filter="datePublished:2026-07-01T14:33:20Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Ancient Monolith That Archaeologists Unearthed in Mexico May Depict People Receiving ‘Divine Liquid’ in a Ritual</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The stela was found with a large, decorated platform and remnants of offerings in the state of Veracruz</p>
 </p>
       <footer>
@@ -236,7 +439,7 @@
 
     <article data-published="2026-07-01T14:00:02Z" data-link="https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/" data-pagefind-filter="category:Biology, dc_creator:Yasemin Saplakoglu, author:Yasemin Saplakoglu, datePublished:2026-07-01T14:00:02Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
       <h2>For the First Time, a Cell Built From Scratch Grows and Divides</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab.</p>
 <p>The post <a href="https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/">For the First Time, a Cell Built From Scratch Grows and Divides</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
 </p>
@@ -247,7 +450,7 @@
 
     <article data-published="2026-07-01T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/these-male-fruit-flies-have-sperm-that-are-nearly-as-long-as-their-bodies-heres-how-the-cells-dont-become-a-tangled-mess-180989054/" data-pagefind-filter="datePublished:2026-07-01T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>These Male Fruit Flies Have Sperm That Are Nearly as Long as Their Bodies. Here's How the Cells Don't Become a Tangled Mess</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Males of the species Drosophila melanogaster pack thousands of almost two-millimeter-long sperm cells into significantly smaller storage organs. A new study reveals how they move in an orderly manner</p>
 </p>
       <footer>
@@ -277,7 +480,7 @@
 
     <article data-published="2026-07-01T07:00:00Z" data-link="https://www.npr.org/2026/07/01/nx-s1-5874794/trash-garbage-fire-energy-disposal" data-pagefind-filter="datePublished:2026-07-01T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Is setting your trash on fire a good idea?</h2>
-      <p><time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-07-01">2026-07-01</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>The U.S. generates <a href="https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials">292 million tons</a> of trash each year – and that trash has to go somewhere.  Sometimes, that’s to an incinerator, where it’s burned and turned into electricity. Proponents of incineration applaud the ability to generate energy from waste and divert garbage from landfills. Opponents worry about the potential health risks, especially to minoritized communities. Today on the show, we explore the good and the bad of waste-to-energy facilities – and even get to see one up close.</p>
 <p><em>Interested in more deep dives into the often invisible science powering our lives? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at <a href="http://plus.npr.org">plus.npr.org</a>.</em></p>
@@ -291,7 +494,7 @@
 
     <article data-published="2026-06-30T20:52:03Z" data-link="https://www.smithsonianmag.com/smart-news/see-these-ancient-etruscan-frescoes-that-italy-bought-for-millions-and-put-on-public-display-in-rome-180989046/" data-pagefind-filter="datePublished:2026-06-30T20:52:03Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See These Ancient Etruscan Frescoes That Italy Bought for Millions and Put on Public Display in Rome</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Found in a burial chamber, the artworks depict battles between ancient heroes in the Mediterranean world</p>
 </p>
       <footer>
@@ -301,7 +504,7 @@
 
     <article data-published="2026-06-30T20:10:45Z" data-link="https://www.smithsonianmag.com/smart-news/these-17-stunning-photos-of-the-strawberry-moon-show-earths-natural-satellite-in-all-its-glory-180989050/" data-pagefind-filter="datePublished:2026-06-30T20:10:45Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>These 17 Stunning Photos of the Strawberry Moon Show Earth's Natural Satellite in All Its Glory</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The first full moon of the summer delivered dazzling visuals from across the globe. Its low position in the sky from the perspective of the Northern Hemisphere gave it a golden hue</p>
 </p>
       <footer>
@@ -331,7 +534,7 @@
 
     <article data-published="2026-06-30T19:10:41Z" data-link="https://www.smithsonianmag.com/smart-news/rembrandt-began-a-biblical-painting-another-artist-finished-it-rather-crudely-now-restorations-have-revealed-the-long-lost-original-180989045/" data-pagefind-filter="datePublished:2026-06-30T19:10:41Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Rembrandt Began a Biblical Painting. Another Artist Finished It 'Rather Crudely.' Now, Restorations Have Revealed the Long-Lost Original</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>An art dealer stumbled across &quot;Let the Little Children Come Unto Me&quot; at a German auction house in 2014. Experts have now carefully removed layers of overpaint from the forgotten masterpiece</p>
 </p>
       <footer>
@@ -383,7 +586,7 @@
 
     <article data-published="2026-06-30T17:19:18Z" data-link="https://www.smithsonianmag.com/smart-news/sold-for-just-5588-this-amber-pendant-turned-out-to-be-a-rare-tudor-era-portrait-of-elizabeth-i-now-its-going-on-auction-for-100000-180989048/" data-pagefind-filter="datePublished:2026-06-30T17:19:18Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Sold for Just £5,588, This Amber Pendant Turned Out to Be a Rare Tudor-Era Portrait of Elizabeth I. Now, It's Going on Auction for £100,000</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>A master craftsman carved the likeness around 1600, possibly as a commission from the English monarch herself. A parrot on the back of the heart-shaped object symbolizes Elizabeth's status as a &quot;virgin queen&quot;</p>
 </p>
       <footer>
@@ -403,7 +606,7 @@
 
     <article data-published="2026-06-30T16:17:17Z" data-link="https://www.smithsonianmag.com/smart-news/as-the-ocean-warms-a-cold-blob-in-the-atlantic-has-puzzled-scientists-it-might-be-a-warning-sign-about-a-key-current-system-180988991/" data-pagefind-filter="datePublished:2026-06-30T16:17:17Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>As the Ocean Warms, a 'Cold Blob' in the Atlantic Has Puzzled Scientists. It Might Be a Warning Sign About a Key Current System</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>A patch of water south of Greenland and Iceland has cooled by nearly 1.8 degrees Fahrenheit since 1900. A new study suggests that it shows a crucial system of ocean currents is weakening, which could alter Earth's climate</p>
 </p>
       <footer>
@@ -443,7 +646,7 @@
 
     <article data-published="2026-06-30T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/why-did-neanderthals-go-extinct-inbreeding-probably-wasnt-to-blame-for-their-demise-in-northwestern-europe-a-study-suggests-180989032/" data-pagefind-filter="datePublished:2026-06-30T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Why Did Neanderthals Go Extinct? Inbreeding Probably Wasn't to Blame for Their Demise in Northwestern Europe, a Study Suggests</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>In contrast to those who resided in Siberia, Neanderthals who lived in what's now Belgium and France shortly before the species vanished seem to have been genetically diverse and healthy</p>
 </p>
       <footer>
@@ -453,7 +656,7 @@
 
     <article data-published="2026-06-30T13:38:51Z" data-link="https://www.smithsonianmag.com/smart-news/mars-rover-spots-complex-carbon-on-the-red-planet-marking-yet-another-detection-of-a-building-block-of-life-180989043/" data-pagefind-filter="datePublished:2026-06-30T13:38:51Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Mars Rover Spots Complex Carbon on the Red Planet, Marking Yet Another Detection of a Building Block of Life</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Along with other recent discoveries, the new finding from Perseverance boosts the case that Mars once hosted conditions that could support living things—but it isn’t a definitive sign of ancient organisms</p>
 </p>
       <footer>
@@ -463,7 +666,7 @@
 
     <article data-published="2026-06-30T13:31:51Z" data-link="https://www.smithsonianmag.com/smart-news/the-vaticans-hall-of-raphael-frescoes-in-the-popes-residence-is-getting-a-much-needed-restoration-with-the-help-of-lasers-180989041/" data-pagefind-filter="datePublished:2026-06-30T13:31:51Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The Hall of Raphael Frescoes Where the Pope Lives at the Vatican Is Getting a Much-Needed Restoration With the Help of Lasers</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Conservators will spend the next five years cleaning and retouching the Renaissance frescoes, which date back to the early 16th century</p>
 </p>
       <footer>
@@ -493,7 +696,7 @@
 
     <article data-published="2026-06-30T07:00:00Z" data-link="https://www.npr.org/2026/06/30/nx-s1-5843195/tick-lyme-disease" data-pagefind-filter="datePublished:2026-06-30T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Ticks are a growing problem, no matter where you live</h2>
-      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-30">2026-06-30</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly <a href="https://pubmed.ncbi.nlm.nih.gov/35973261/">50 species of ticks</a> in the United States. Historically, most <a href="https://www.cdc.gov/lyme/data-research/facts-stats/lyme-disease-case-map.html">Lyme cases</a> were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use <em>,</em> scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?</p>
 <p><em>Interested in more episodes about pests and parasites? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at</em> <a href="http://plus.npr.org"><em>plus.npr.org</em></a> <em>.</em></p>
@@ -507,7 +710,7 @@
 
     <article data-published="2026-06-29T23:33:32Z" data-link="https://www.osnews.com/story/145390/microsoft-now-says-8gb-ram-is-fine-for-windows-11-after-years-of-pushing-for-16gb/" data-pagefind-filter="category:Clown car, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-29T23:33:32Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Microsoft now says 8GB RAM is fine for Windows 11, after years of pushing for 16GB</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>There’s something poetic about the World Cup taking place in North America while Microsoft keeps scoring own goals like this. Microsoft updated its Surface buying guide to describe 8GB RAM as “great for everyday use like browsing, streaming, schoolwork, and productivity apps.” A companion FAQ adds that 16GB or more is what unlocks Copilot+ PC features. No acknowledgment that, for two years, Microsoft was the loudest voice telling everyone that 16GB was non-negotiable for a good Windows 11 experience. What makes this infuriating is that Microsoft is one of the biggest reasons why the RAM situation got so bad in the first place. ↫ Abhijith M B at Windows Latest This industry is a joke.</p>
 </p>
       <footer>
@@ -517,7 +720,7 @@
 
     <article data-published="2026-06-29T22:19:22Z" data-link="https://www.smithsonianmag.com/smart-news/after-the-founders-declared-independence-printers-quickly-translated-the-text-for-german-speaking-americans-180989039/" data-pagefind-filter="datePublished:2026-06-29T22:19:22Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>After the Founders Declared Independence, Printers Quickly Translated the Text for German-Speaking Americans</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The document, printed in a gothic typeface, was translated in Philadelphia. One of two surviving copies is going on display in Berlin ahead of America's 250th birthday</p>
 </p>
       <footer>
@@ -537,7 +740,7 @@
 
     <article data-published="2026-06-29T20:40:09Z" data-link="https://www.smithsonianmag.com/smart-news/a-fossil-from-antarctica-sat-in-a-drawer-for-40-years-it-turned-out-to-be-the-first-dinosaur-bone-ever-found-on-the-continent-180989042/" data-pagefind-filter="datePublished:2026-06-29T20:40:09Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Fossil From Antarctica Sat in a Drawer for 40 Years. It Turned Out to Be the First Dinosaur Bone Ever Found on the Continent</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>After being forgotten for decades, the mysterious tail vertebra has finally been identified as part of a titanosaur. The discovery helps researchers understand how dinosaurs may have traversed Earth's southernmost regions</p>
 </p>
       <footer>
@@ -567,7 +770,7 @@
 
     <article data-published="2026-06-29T20:19:27Z" data-link="https://www.smithsonianmag.com/smart-news/genghis-khan-is-remembered-for-his-vast-empire-and-fearsome-warriors-this-exhibition-explores-his-cultural-legacy-180989040/" data-pagefind-filter="datePublished:2026-06-29T20:19:27Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Genghis Khan Is Remembered for His Vast Empire and Fearsome Warriors. This Exhibition Explores His Cultural Legacy</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The Royal Armouries Museum will show nearly 250 rare artifacts—from saddles to early paper money—that reveal a side of the Mongol Empire that's often neglected</p>
 </p>
       <footer>
@@ -577,7 +780,7 @@
 
     <article data-published="2026-06-29T20:19:15Z" data-link="https://www.osnews.com/story/145388/astral-is-a-hobby-operating-system-with-x-org-minecraft-and-now-wine/" data-pagefind-filter="category:OS News, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-29T20:19:15Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Astral is a hobby operating system with X.org, Minecraft, and now Wine</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Astral is a hobby operating system written in C for 64bit architectures, with a collection of ported software like X.org, fvwm, the xbps package manager, and tons more. I think it’s quite a neat system – the code’s on GitHub – made even neater by the fact it can run not only Minecraft, but now also has a working port of Wine that can run a few games. A few months ago, I posted about Astral, a hobby OS I have been working on over the years, running Minecraft. Since then, others have gotten modern versions of Minecraft to run as well as Factorio (using a glibc compatible libc). However, while these games are made or packaged in a way that makes it easier to get them to run under a new OS, most games are not. A lot of games are closed source and compiled for Windows, which makes something like Wine a necessity for playing them. One of my favorite games, Cogmind, falls under that umbrella. It is a 32-bit Windows only roguelike, and it became my goal to run it under Astral. While there was already an existing Wine port, it was extremely incomplete, as not even notepad.exe worked properly. To run Cogmind, the Wine port had to be finished, which also meant adding the ability to run 32-bit code on an otherwise 64-bit-only OS. ↫ Blog post on the Astral website This process obviously is quite involved, but in the end, they managed to get it working. Quite impressive.</p>
 </p>
       <footer>
@@ -587,7 +790,7 @@
 
     <article data-published="2026-06-29T20:03:15Z" data-link="https://www.osnews.com/story/145386/the-papers-please-era-of-the-internet-will-decimate-your-privacy/" data-pagefind-filter="category:Legal, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-29T20:03:15Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>The ‘papers, please’ era of the internet will decimate your privacy</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Imagine your favorite team just scored an incredible, last-second goal at the World Cup. So you log online to celebrate with other fans. But, using data it’s already collected on you, the social media platform you like to post on wrongly guesses that you’re under 16 so it forces you to go to a third-party verification app and provide images of your face or your government-issued ID. You don’t really know much about the verification app, what country it’s based out of, what happens with your information, and whether you’re protected from hackers or data breaches. You’re not happy about it, but you hand over a photo of your passport and hope it doesn’t come back to haunt you. Now imagine that instead of posting about sports, you’re criticizing a powerful politician, or talking about your experiences with abuse or addiction, or discussing embarrassing medical issues you’re facing. Suddenly this “papers, please” approach to the internet sounds even more invasive, right? Unfortunately, that’s the direction we’re all headed — even here in the United States — and we have good reason to be wary of the global rush to sacrifice user privacy on the altar of age verification. ↫ Sarah McLaughlin at Expression The insane push for age verification on the internet is the biggest threat to whatever’s left of the free internet. I have two young children – 3 and 5, currently – and I’m diametrically opposed to any kind of creepy verification processes that they claim are designed to keep kids like mine “safe”. Not only is their safety not predicated on giving up their privacy, my children are also not my or anyone else’s property; they have rights, and the right to privacy is one of them. Nobody mentioned in the Epstein files has been charged, by the way.</p>
 </p>
       <footer>
@@ -597,7 +800,7 @@
 
     <article data-published="2026-06-29T18:30:01Z" data-link="https://www.smithsonianmag.com/smart-news/humans-and-great-apes-giggle-with-a-similar-rhythm-and-timing-suggesting-we-have-shared-our-style-of-laughter-for-15-million-years-180989031/" data-pagefind-filter="datePublished:2026-06-29T18:30:01Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Humans and Great Apes Giggle With a Similar Rhythm and Timing, Suggesting We Have Shared Our Style of Laughter for 15 Million Years</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Understanding how laughter evolved can reveal the secrets of human speech</p>
 </p>
       <footer>
@@ -607,7 +810,7 @@
 
     <article data-published="2026-06-29T17:16:50Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-double-down-on-age-of-earths-oldest-meteorite-impact-crater-dating-it-again-at-more-than-three-billion-years-old-180989023/" data-pagefind-filter="datePublished:2026-06-29T17:16:50Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Double Down on Age of What Might Be Earth's Oldest Impact Crater, Dating It, Again, at More Than Three Billion Years Old</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Last year, geologists dated the crater in Western Australia at 3.47 billion years old, which was disputed by other experts. Now, they've revised the estimate to 3.02 billion years old—but some still aren't convinced</p>
 </p>
       <footer>
@@ -667,7 +870,7 @@
 
     <article data-published="2026-06-29T14:27:58Z" data-link="https://www.smithsonianmag.com/smart-news/in-a-scientific-first-researchers-recovered-ancient-dna-that-humans-left-behind-on-rock-art-and-cave-walls-180989038/" data-pagefind-filter="datePublished:2026-06-29T14:27:58Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>In a Scientific First, Researchers Recovered Ancient DNA That Humans Left Behind on Rock Art and Cave Walls</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>DNA preservation on cave walls is highly variable, but scientists say their work is an important step on the path toward gaining a deeper understanding of our creative ancestors</p>
 </p>
       <footer>
@@ -677,7 +880,7 @@
 
     <article data-published="2026-06-29T14:00:09Z" data-link="https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/" data-pagefind-filter="category:Biology, dc_creator:Jake Buehler, author:Jake Buehler, datePublished:2026-06-29T14:00:09Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
       <h2>What Breaks a Cell’s Ribs Can Make It Stronger</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>The mechanical process of cell division exerts powerful, if microscopic, forces. How do the molecular machines that power it manage the strain?</p>
 <p>The post <a href="https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/">What Breaks a Cell’s Ribs Can Make It Stronger</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
 </p>
@@ -698,7 +901,7 @@
 
     <article data-published="2026-06-29T07:00:00Z" data-link="https://www.npr.org/2026/06/29/nx-s1-5855413/home-work-health-office-social" data-pagefind-filter="datePublished:2026-06-29T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Is working from home actually good for you?</h2>
-      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-29">2026-06-29</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>For many, being able to work from home is a boon: saving time on your commute, working in your sweatpants, throwing in a load of laundry before a meeting. People <em>say</em> it makes them happier. But a new study suggests that, despite all the advantages, working from home isn’t creating a happier workforce. It’s making people more socially isolated. We get into all the details with NPR mental health correspondent <a href="https://www.npr.org/people/578890280/rhitu-chatterjee">Rhitu Chatterjee</a>.</p>
 <p><em>Interested in more everyday science? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at <a href="http://plus.npr.org">plus.npr.org</a>.</p>
@@ -712,7 +915,7 @@
 
     <article data-published="2026-06-27T07:41:21Z" data-link="https://www.osnews.com/story/145377/microsoft-capitulates-again-extends-windows-10-support-by-another-year/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-27T07:41:21Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Microsoft capitulates again, extends Windows 10 support by another year</h2>
-      <p><time datetime="2026-06-27">2026-06-27</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-27">2026-06-27</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>It’s been quiet for a few days since I’ve been sick, but I’m feeling a bit better since today marks the official end of my one month of using Windows 11 that you people donated for. An article about my experience is definitely upcoming, including whether or not I’ll actually stick with Windows 11 on my laptop or go back to Linux, but before we get there, let’s talk about Microsoft once again capitulating to the reality that a lot of people really don’t want to let go of Windows 10. In a surprising move, Microsoft has quietly confirmed that it’s extending Windows 10 support until October 12, 2027, which is one full year beyond the October 2026 cutoff that home users had been planning around. ↫ Abhijith M B at Windows Latest Hundreds of millions of people are still using Windows 10, and with the “AI” techbros buying up all the RAM and other chips for their pachinko machines – making this whole thing a bit of an own goal for prime “AI” booster Microsoft – buying new PCs that are actually compatible with Windows 11 isn’t exactly a fun prospect for the vast majority of us normal folk dealing with the cost-of-living crisis. As such, Microsoft really doesn’t have any other choice but to keep extending support for Windows 10. It ain’t much, but I’ll take any morsel of justice I can get. While everyone else has to pay for getting access to these Windows 10 updates, users in the European Union get them entirely for free thanks to the Digital Markets Act. This additional year, too, can be partially attributed to the DMA, as the very same consumer rights organisations who pressured Microsoft into giving EU users truly free access to the Extended Security Updates also put pressure on the company to offer these for more than just one year. Basic consumer protection legislation works.</p>
 </p>
       <footer>
@@ -722,7 +925,7 @@
 
     <article data-published="2026-06-26T21:44:58Z" data-link="https://www.smithsonianmag.com/smart-news/deep-in-the-mexican-jungle-archaeologists-discovered-a-lost-maya-city-that-may-yield-clues-about-the-civilization-just-before-it-collapsed-180989030/" data-pagefind-filter="datePublished:2026-06-26T21:44:58Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Deep in the Mexican Jungle, Archaeologists Discovered a Lost Maya City That May Yield Clues About the Civilization Just Before It Collapsed</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Researchers hacked through more than three miles of vegetation to get to the site, which lies out of bounds of familiar logging tracks. There, they found unique carved stelae and altars</p>
 </p>
       <footer>
@@ -732,7 +935,7 @@
 
     <article data-published="2026-06-26T21:09:42Z" data-link="https://www.smithsonianmag.com/smart-news/see-the-most-detailed-photo-of-the-milky-ways-heart-ever-taken-in-visible-light-which-will-help-astronomers-hunt-for-exoplanets-180989027/" data-pagefind-filter="datePublished:2026-06-26T21:09:42Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See the Most Detailed Photo of the Milky Way's Heart Ever Taken in Visible Light, Which Will Help Astronomers Hunt for Exoplanets</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The European Space Agency’s Euclid telescope was built to study dark matter and dark energy, but for one day last year, it captured the densely packed stars brightening the center of our galaxy</p>
 </p>
       <footer>
@@ -742,7 +945,7 @@
 
     <article data-published="2026-06-26T20:03:24Z" data-link="https://www.smithsonianmag.com/smart-news/years-in-the-making-national-geographics-museum-of-exploration-is-here-to-take-you-on-an-adventure-180989034/" data-pagefind-filter="datePublished:2026-06-26T20:03:24Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Years in the Making, National Geographic's Museum of Exploration Is Here to Take You on an Adventure</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The renovated space highlights the hallmarks of the iconic 138-year-old brand, from wildlife photography to the study of anthropology</p>
 </p>
       <footer>
@@ -752,7 +955,7 @@
 
     <article data-published="2026-06-26T19:51:06Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-have-deciphered-the-surviving-fragments-of-a-2000-year-old-philosophical-treatise-frozen-in-time-by-mount-vesuvius-eruption-180989036/" data-pagefind-filter="datePublished:2026-06-26T19:51:06Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Have Deciphered the Surviving Fragments of a 2,000-Year-Old Philosophical Treatise Frozen in Time by Mount Vesuvius' Eruption</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The papyrus manuscript was part of a vast library preserved by volcanic ash. Now, the remaining passages—which examine ethics, knowledge and human nature—are accessible for the first time since 79 C.E.</p>
 </p>
       <footer>
@@ -762,7 +965,7 @@
 
     <article data-published="2026-06-26T19:46:30Z" data-link="https://www.smithsonianmag.com/smart-news/too-hot-for-art-some-paris-museums-and-landmarks-close-or-reduce-hours-amid-a-record-heat-wave-in-europe-180989029/" data-pagefind-filter="datePublished:2026-06-26T19:46:30Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Too Hot for Art? Some Paris Museums and Landmarks Close or Reduce Hours Amid a Record Heat Wave in Europe</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Meanwhile, other institutions offer their air-conditioned spaces as a way for residents and tourists to beat the heat</p>
 </p>
       <footer>
@@ -792,7 +995,7 @@
 
     <article data-published="2026-06-26T18:40:32Z" data-link="https://www.smithsonianmag.com/smart-news/norman-rockwell-captured-the-hustle-of-the-west-wing-in-colorful-drawings-displayed-for-decades-in-the-white-house-theyre-now-on-public-view-for-the-first-time-180989025/" data-pagefind-filter="datePublished:2026-06-26T18:40:32Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Norman Rockwell Captured the Hustle of the West Wing in Colorful Drawings Displayed for Decades in the White House. They’re Now on Public View for the First Time</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The works were commissioned to humanize President Franklin D. Roosevelt at the height of World War II</p>
 </p>
       <footer>
@@ -812,7 +1015,7 @@
 
     <article data-published="2026-06-26T16:59:18Z" data-link="https://www.smithsonianmag.com/smart-news/early-humans-may-have-used-fire-1-8-million-years-ago-nearly-doubling-the-age-of-the-oldest-known-evidence-for-the-feat-180989015/" data-pagefind-filter="datePublished:2026-06-26T16:59:18Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Early Humans May Have Used Fire 1.8 Million Years Ago, Nearly Doubling the Age of the Oldest Known Evidence for the Feat</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>In Wonderwerk Cave in South Africa, burned bones were found in a dirt layer associated with Homo erectus. The inhabitants probably hadn't mastered fire-making, but researchers say they may have moved and maintained flames from a natural fire</p>
 </p>
       <footer>
@@ -832,7 +1035,7 @@
 
     <article data-published="2026-06-26T15:26:29Z" data-link="https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/" data-pagefind-filter="category:Mathematics, dc_creator:Leila Sloman, author:Leila Sloman, datePublished:2026-06-26T15:26:29Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
       <h2>After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful.</p>
 <p>The post <a href="https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/">After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
 </p>
@@ -883,7 +1086,7 @@
 
     <article data-published="2026-06-26T07:00:00Z" data-link="https://www.npr.org/2026/06/26/nx-s1-5871273/weather-star-space-planet-clouds" data-pagefind-filter="datePublished:2026-06-26T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Salty Clouds aren’t the only strange thing about this object in space</h2>
-      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-26">2026-06-26</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>There’s an object in space 25 times the size of Jupiter that’s stumped scientists for years. They haven’t been able to figure out if it’s a planet or a failed star. But scientists are one step closer to an answer thanks to the powerful James Webb Space Telescope. After analyzing data collected by the telescope, astronomers have uncovered unexpected new clues floating light years away from us: Salty clouds sitting in space as hot as some home ovens. And if this mystery isn’t enough, we have more to look forward to in this episode, including insights into the evolution of laughter and the burials of ancient human relatives.</p>
 <p><em>Interested in more science in the news? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at <a href="http://plus.npr.org">plus.npr.org</a>.</em></p>
@@ -917,7 +1120,7 @@
 
     <article data-published="2026-06-25T21:18:12Z" data-link="https://www.smithsonianmag.com/smart-news/did-these-prehistoric-primates-really-bury-just-their-female-dead-deep-in-a-cave-180989020/" data-pagefind-filter="datePublished:2026-06-25T21:18:12Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Did These Prehistoric Primates Really Bury Just Their Female Dead Deep in a Cave?</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Researchers say that the fossilized bones of &quot;Homo naledi,&quot; so far found exclusively underground in South Africa, lack a key genetic male marker</p>
 </p>
       <footer>
@@ -957,7 +1160,7 @@
 
     <article data-published="2026-06-25T19:10:16Z" data-link="https://www.smithsonianmag.com/smart-news/powerful-back-to-back-earthquakes-killed-at-least-188-people-in-venezuela-heres-the-science-behind-the-rare-doublet-180989018/" data-pagefind-filter="datePublished:2026-06-25T19:10:16Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Powerful Back-to-Back Earthquakes Killed at Least 188 People in Venezuela. Here's the Science Behind the Rare 'Doublet'</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>On June 24, two quakes above magnitude 7 struck the northern part of the country only 39 seconds apart. While doublet sequences aren't unheard of in seismology, they are uncommon—especially in such short succession</p>
 </p>
       <footer>
@@ -967,7 +1170,7 @@
 
     <article data-published="2026-06-25T18:34:34Z" data-link="https://blog.thunderbird.net/2026/06/thunderbird-monthly-development-digest-june-2026/" data-pagefind-filter="category:Development, category:Development Digest, category:Exchange, dc_creator:Toby Pilling, author:Toby Pilling, datePublished:2026-06-25T18:34:34Z, label:Thunderbird Pro, channel:https://blog.thunderbird.net/feed/">
       <h2>Thunderbird Monthly Development Digest: June 2026</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-06-26">2026-06-26</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Welcome back from the Thunderbird development team! The past few months have been exceptionally busy across the project. As we approach the midpoint of the year, we’ve been focused on a mixture of delivering user-facing features, investing in long-term architectural improvements, and preparing for the next ESR cycle. A significant amount of effort has gone […]</p>
 <p>The post <a href="https://blog.thunderbird.net/2026/06/thunderbird-monthly-development-digest-june-2026/">Thunderbird Monthly Development Digest: June 2026</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>
 </p>
@@ -978,7 +1181,7 @@
 
     <article data-published="2026-06-25T17:57:26Z" data-link="https://www.smithsonianmag.com/smart-news/keep-your-eyes-peeled-for-gracie-a-reticulated-giraffe-on-the-loose-in-texas-180989021/" data-pagefind-filter="datePublished:2026-06-25T17:57:26Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Keep Your Eyes Peeled for Gracie, a Reticulated Giraffe on the Loose in Texas</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The tall creature escaped from a private ranch this month, and she's been roaming the Texas Hill Country ever since</p>
 </p>
       <footer>
@@ -988,7 +1191,7 @@
 
     <article data-published="2026-06-25T17:24:06Z" data-link="https://www.smithsonianmag.com/smart-news/the-lost-memoir-of-a-hiroshima-survivor-was-rediscovered-now-it-will-be-published-as-a-book-and-adapted-for-film-180989019/" data-pagefind-filter="datePublished:2026-06-25T17:24:06Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The Lost Memoir of a Hiroshima Survivor Was Rediscovered. Now, It Will Be Published as a Book and Adapted for Film</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Nearly 80 years ago, Kiyoshi Tanimoto documented the aftermath of the Hiroshima bombing during World War II. His manuscript was recently found in a U.S. library</p>
 </p>
       <footer>
@@ -998,7 +1201,7 @@
 
     <article data-published="2026-06-25T17:17:25Z" data-link="https://www.smithsonianmag.com/smart-news/why-did-the-handwriting-in-this-248-year-old-notebook-look-familiar-it-turned-out-to-be-a-forgotten-mozart-manuscript-180989017/" data-pagefind-filter="datePublished:2026-06-25T17:17:25Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Why Did the Handwriting in This 248-Year-Old Notebook Look Familiar? It Turned Out to Be a Forgotten Mozart Manuscript</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>While working as a tutor in 1778, the composer created seven short pieces for flute and harp with his student's help. This month, audiences heard the works performed for the very first time</p>
 </p>
       <footer>
@@ -1018,7 +1221,7 @@
 
     <article data-published="2026-06-25T16:04:52Z" data-link="https://www.smithsonianmag.com/smart-news/this-strange-featured-dinosaur-may-have-glided-between-trees-like-a-flying-squirrel-to-hunt-birds-120-million-years-ago-180989011/" data-pagefind-filter="datePublished:2026-06-25T16:04:52Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Strange, Feathered Dinosaur May Have Glided Between Trees Like a Flying Squirrel to Hunt Birds 120 Million Years Ago</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>A fossil of the creature provides the first evidence that microraptors lived in what is now northwestern China. Its discovery might also solve an ancient murder mystery</p>
 </p>
       <footer>
@@ -1028,7 +1231,7 @@
 
     <article data-published="2026-06-25T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/gray-whales-are-getting-struck-by-ships-in-san-francisco-bay-could-this-new-ai-powered-tech-save-them-180989009/" data-pagefind-filter="datePublished:2026-06-25T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Gray Whales Are Getting Struck by Ships in San Francisco Bay. Could This New A.I.-Powered Tech Save Them?</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The recently launched system involves two thermal cameras that can detect gray whales up to four miles away, giving ships enough time to slow down or change course—and avoid running into the marine mammals</p>
 </p>
       <footer>
@@ -1038,7 +1241,7 @@
 
     <article data-published="2026-06-25T13:54:27Z" data-link="https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/" data-pagefind-filter="category:Mathematics, category:Multimedia, dc_creator:Janna Levin and Steven Strogatz, author:Janna Levin and Steven Strogatz, datePublished:2026-06-25T13:54:27Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
       <h2>What Is the Positive Grassmannian and Why Does It Show Up Everywhere?</h2>
-      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
+      <p><time datetime="2026-06-25">2026-06-25</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Lauren Williams tells 'The Joy of Why' how studying a fundamental object in algebraic combinatorics led to a career full of surprises.</p>
 <p>The post <a href="https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/">What Is the Positive Grassmannian and Why Does It Show Up Everywhere?</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
 </p>
@@ -1079,7 +1282,7 @@
 
     <article data-published="2026-06-24T21:31:17Z" data-link="https://www.smithsonianmag.com/smart-news/large-textile-production-site-discovered-in-denmark-challenges-the-stereotype-of-vikings-as-uncivilized-barbarians-180989014/" data-pagefind-filter="datePublished:2026-06-24T21:31:17Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Were Vikings Really ‘Uncivilized’ Barbarians? Large Textile-Production Site Discovered in Denmark Challenges That Stereotype</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The massive settlement, which spans more than a million square feet, likely dates to the late Iron Age or early Viking Age between 600 and 950 C.E.</p>
 </p>
       <footer>
@@ -1119,7 +1322,7 @@
 
     <article data-published="2026-06-24T20:37:59Z" data-link="https://www.smithsonianmag.com/smart-news/a-stolen-picasso-just-turned-up-during-a-drug-raid-near-paris-reportedly-taken-from-a-storage-facility-180989010/" data-pagefind-filter="datePublished:2026-06-24T20:37:59Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Stolen Picasso Just Turned Up During a Drug Raid Near Paris, Reportedly Taken From a Storage Facility</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The painting has been authenticated but not revealed. Reports suggest it is one of Picasso's portraits of Marie-Thérèse Walter</p>
 </p>
       <footer>
@@ -1129,7 +1332,7 @@
 
     <article data-published="2026-06-24T19:55:27Z" data-link="https://www.smithsonianmag.com/smart-news/interstellar-comet-3i-atlas-might-be-the-oldest-object-ever-seen-in-our-solar-system-a-study-suggests-180989007/" data-pagefind-filter="datePublished:2026-06-24T19:55:27Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Interstellar Comet 3I/ATLAS Might Be the Oldest Object Ever Seen in Our Solar System, a Study Suggests</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Based on the composition of gases spewed by the icy space rock, researchers estimate that our guest might be up to 12 billion years old—about three times the age of the solar system</p>
 </p>
       <footer>
@@ -1149,7 +1352,7 @@
 
     <article data-published="2026-06-24T18:56:21Z" data-link="https://www.smithsonianmag.com/smart-news/the-odyssey-one-of-the-worlds-oldest-stories-gets-a-modern-spin-with-ai-generated-audiobook-narration-by-the-voice-clone-of-an-oscar-winner-actor-michael-caine-180989006/" data-pagefind-filter="datePublished:2026-06-24T18:56:21Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The ‘Odyssey,’ One of the World’s Oldest Stories, Gets a Modern Spin With A.I.-Generated Audiobook Narration by the Voice Clone of an Oscar Winner</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Meanwhile, other actors are pushing back against the use of artificial intelligence in creative projects, including through a new “human consent” registry tool</p>
 </p>
       <footer>
@@ -1179,7 +1382,7 @@
 
     <article data-published="2026-06-24T16:37:19Z" data-link="https://www.smithsonianmag.com/smart-news/the-worlds-first-nuclear-clocks-are-ticking-opening-a-new-way-to-investigate-dark-matter-and-other-mysteries-of-physics-180989002/" data-pagefind-filter="datePublished:2026-06-24T16:37:19Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The World's First Nuclear Clocks Are Ticking, Opening a New Way to Investigate Dark Matter and Other Mysteries of Physics</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Two independent teams of scientists have created the first functional clocks that can keep ultraprecise time using the nuclei of a radioactive element</p>
 </p>
       <footer>
@@ -1200,7 +1403,7 @@
 
     <article data-published="2026-06-24T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/this-newly-discovered-spider-builds-a-unique-web-that-sends-ants-catapulting-through-the-air-180989003/" data-pagefind-filter="datePublished:2026-06-24T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Newly Discovered Spider Builds a Unique Web That Catapults Ants Through the Air</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Flung prey can reach speeds of up to 14.4 feet per second, or a little less than ten miles per hour. An insect will land in the spider's main web about a foot above the spring-loaded trap</p>
 </p>
       <footer>
@@ -1220,7 +1423,7 @@
 
     <article data-published="2026-06-24T13:12:11Z" data-link="https://www.smithsonianmag.com/smart-news/revealing-its-original-shape-not-seen-in-centuries-greece-restored-part-of-the-parthenons-western-facade-180988996/" data-pagefind-filter="datePublished:2026-06-24T13:12:11Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Revealing Its Original Shape, Not Seen in Centuries, Greece Restored Part of the Parthenon's Western Facade</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The project in Athens started in 2017 and involved quarrying, transporting, hand-carving and placing new marble blocks in one of the landmark’s triangular pediments</p>
 </p>
       <footer>
@@ -1230,7 +1433,7 @@
 
     <article data-published="2026-06-24T11:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/the-first-edition-of-emily-brontes-wuthering-heights-contained-incorrect-page-numbers-missing-punctuation-and-three-misspellings-of-the-word-heights-180989005/" data-pagefind-filter="datePublished:2026-06-24T11:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The First Edition of Emily Brontë's 'Wuthering Heights' Contained Incorrect Page Numbers, Missing Punctuation and Three Misspellings of the Word 'Heights'</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The haunting story set against the Yorkshire moors would become one of the most renowned novels of the 19th century. Now, a rare first-edition copy is heading to auction</p>
 </p>
       <footer>
@@ -1240,7 +1443,7 @@
 
     <article data-published="2026-06-24T07:00:00Z" data-link="https://www.npr.org/2026/06/24/nx-s1-5866497/congo-ebola-virus-outbreak-news" data-pagefind-filter="datePublished:2026-06-24T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Did Trump's foreign aid cuts fuel the Ebola outbreak?</h2>
-      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-24">2026-06-24</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>The Ebola outbreak in the Democratic Republic of Congo is growing – and is likely larger than official numbers show. The deadly disease spreads through bodily fluids, on average killing half the people it infects. And while officially declared in May, the case numbers point to the virus circulating for months without being detected. To make matters worse, there’s not a vaccine for this specific species of ebolavirus – at least, not yet. NPR global health correspondent <a href="https://www.npr.org/people/703751120/jonathan-lambert">Jonathan Lambert</a> has been covering everything Ebola-related for the past month or so, and shares what he’s learned today.</p>
 <p><em>Interested in more health and science news? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at</em> <a href="http://plus.npr.org/"><em>plus.npr.org</em></a> <em>.</em></p>
@@ -1294,7 +1497,7 @@
 
     <article data-published="2026-06-23T21:27:05Z" data-link="https://www.smithsonianmag.com/smart-news/a-letter-signed-by-george-washington-that-helped-pave-the-way-for-american-independence-is-going-on-display-in-london-180989004/" data-pagefind-filter="datePublished:2026-06-23T21:27:05Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Letter Signed by George Washington That Helped Pave the Way for American Independence Goes on Display in London</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Washington dictated and signed the letter in October 1781 to formally accept the British surrender at Yorktown, writing of his “ardent desire to spare the further effusion of blood”</p>
 </p>
       <footer>
@@ -1304,7 +1507,7 @@
 
     <article data-published="2026-06-23T20:38:24Z" data-link="https://www.osnews.com/story/145369/in-memory-of-the-man-who-put-red-and-green-squiggles-under-words/" data-pagefind-filter="category:Office, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-23T20:38:24Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>In memory of the man who put red and green squiggles under words</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Every little thing in a graphical user interface that we take for granted today, no matter how small, was thought up by someone, at some point. Case in point: the little red squiggly lines underneath misspelled words. In one form or another, these are everywhere now, and have just become a regular staple of every single text editing field we encounter every single day and don’t stop to think about. Still, they were invented by someone, and we happen to know exactly who that was: Tony Krueger. In early versions of Word, the Spell Check feature was something that you explicitly invoked, and then you had to sit and wait while the program looked for all your potentially-misspelled words, and then showed them to you one at a time for a decision on what to do for each one. Word did introduce an Auto Spell Check feature to run spell check when the user was idle, so that when you hit the Spell Check button, the results were ready to go. However, the Auto Spell Check was still a blocking operation. As a result, a lot of users turned it off because it always seemed to decide “Now would be a good time to spell-check the document” just as you wanted to do something, forcing you to wait for the spell check pass to complete before you could, say, save and exit. Tony made the spell checker much more unobtrusive so that it didn’t interfere with your foreground work. And when it found a problem, instead of waiting for you to trigger a spell check, it immediately drew red squiggles under potentially-misspelled words (and later green squiggles under potential grammatical errors). ↫ Raymond Chen at The Old New Thing Tony Krueger passed away recently, after, among other things, having worked on an dizzying number of Microsoft Word releases. Imagine coming up with something that seems to basic and elementary to us now, and seeing it spread pretty much everywhere. I wonder what it must feel like to have invented something that seems so simple, most people don’t even realise they use it every single day.</p>
 </p>
       <footer>
@@ -1314,7 +1517,7 @@
 
     <article data-published="2026-06-23T20:21:45Z" data-link="https://www.smithsonianmag.com/smart-news/this-magical-curse-written-in-greek-on-a-small-lead-tablet-was-meant-to-punish-enemies-nearly-2000-years-ago-180989001/" data-pagefind-filter="datePublished:2026-06-23T20:21:45Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Magical Curse Written in Greek on a Small Lead Tablet Was Meant to Punish Enemies Nearly 2,000 Years Ago</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The lead curse tablet was discovered in a city square in the Netherlands and recently deciphered by researchers in Germany</p>
 </p>
       <footer>
@@ -1324,7 +1527,7 @@
 
     <article data-published="2026-06-23T20:20:12Z" data-link="https://www.osnews.com/story/145367/kde-is-going-to-fix-network-shares/" data-pagefind-filter="category:KDE, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-23T20:20:12Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>KDE is going to fix network shares</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>I’ve had my share of issues with network shares on any operating system, but since I mostly use KDE these days I found this deep dive into how, exactly, network shares work in KDE quite interesting. It turns out that while network shares in KDE’s Dolphin mostly work, it does involves a few layers that sometimes don’t interact well with each other, leading to really curious and annoying problems with mounted shares not appearing, permission issues, and so on. The biggest cause of problems is when using a non-KDE application in KDE that also happens to use a non-KDE save/open dialog. Such a non-KDE save/open dialog won’t be able to see any network shared mounted by KDE, and sadly, quite a few applications you’re likely to use on a KDE installation use non-KDE open/save dialogs, like Blender, GIMP, LibreOffice, OnlyOffice, Inkscape, Audacity, DaVinci Resolve, and more. That’s one hell of a list of applications to offer inconsistent or outright broken access to network shares you’ve set up and mounted in KDE. Luckily, this issue seems to be getting a ton of attention soon. All is not lost. Happily, KDE just received an investment of over €1.2 million from the Sovereign Tech Fund, and it includes funding for improvements to KDE’s network share handling! ↫ Nate Graham The project is in the planning phases at the moment, but they’re considering a whole slew of possible changes, fixes, and workarounds to make this stupid and annoying problem just go away. In 2026, nobody should be dealing with manually editing /etc/fstab or getting frustrated over supposedly disappearing network shares.</p>
 </p>
       <footer>
@@ -1334,7 +1537,7 @@
 
     <article data-published="2026-06-23T19:20:37Z" data-link="https://www.smithsonianmag.com/smart-news/this-giant-7-story-picnic-basket-once-home-to-icon-american-brand-longaberger-basket-could-be-yours-for-85-million-180988999/" data-pagefind-filter="datePublished:2026-06-23T19:20:37Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Giant, Seven-Story Picnic Basket, Once Home to an Iconic American Brand, Could Be Yours for $8.5 Million</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The former Longaberger basket company headquarters in Ohio is for sale to a buyer who is willing to preserve its quirky design</p>
 </p>
       <footer>
@@ -1364,7 +1567,7 @@
 
     <article data-published="2026-06-23T17:24:23Z" data-link="https://blog.thunderbird.net/2026/06/thundermail-june-2026-update-what-we-learned-after-the-first-few-waves-of-invites/" data-pagefind-filter="category:Product, category:tbpro, category:thundermail, dc_creator:Natalie Ivanova, author:Natalie Ivanova, datePublished:2026-06-23T17:24:23Z, label:Thunderbird Pro, channel:https://blog.thunderbird.net/feed/">
       <h2>Thundermail June 2026 update: what we learned after the first few waves of invites</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-06-26">2026-06-26</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Over the past several weeks, we have been welcoming early users from our waitlist into Thundermail, a few waves at a time. Many of you are now setting up your accounts, trying things out, and sharing your thoughts with us. Naming updates You may have noticed that we are now saying Thundermail more often, and […]</p>
 <p>The post <a href="https://blog.thunderbird.net/2026/06/thundermail-june-2026-update-what-we-learned-after-the-first-few-waves-of-invites/">Thundermail June 2026 update: what we learned after the first few waves of invites</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>
 </p>
@@ -1395,7 +1598,7 @@
 
     <article data-published="2026-06-23T15:47:01Z" data-link="https://www.smithsonianmag.com/smart-news/these-butterflies-can-live-25-times-longer-than-their-relatives-they-might-provide-insights-into-healthy-aging-in-humans-180988993/" data-pagefind-filter="datePublished:2026-06-23T15:47:01Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>These Butterflies Can Live 25 Times Longer Than Their Relatives. They Might Provide Insights Into Healthy Aging in Humans</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Their unusual diet of pollen—rather than nectar—might partially explain why members of the Heliconius genus live so long, up to nearly a year</p>
 </p>
       <footer>
@@ -1436,7 +1639,7 @@
 
     <article data-published="2026-06-23T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/female-dolphins-seem-to-remember-which-males-were-aggressive-during-mating-season-and-may-try-to-avoid-them-180988994/" data-pagefind-filter="datePublished:2026-06-23T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Female Dolphins Seem to Remember Which Males Were Aggressive During Mating Season—and May Try to Avoid Them</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>When researchers played underwater recordings of pushy males, females that were capable of becoming pregnant swam away from the sounds</p>
 </p>
       <footer>
@@ -1466,7 +1669,7 @@
 
     <article data-published="2026-06-23T07:00:00Z" data-link="https://www.npr.org/2026/06/23/nx-s1-5851643/weather-tornado-catastrophe-compassion" data-pagefind-filter="datePublished:2026-06-23T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>What can a tornado teach us about kindness?</h2>
-      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-23">2026-06-23</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>One evening in May of 2011, tornado sirens went off in a small Missouri city called Joplin. Thousands of homes were destroyed in the tornado, about a third of the town’s 50,000 residents were displaced and around 160 people died. And in the months following the tornado, the town became known not just for the destruction, but the kindness and cooperation that led to its recovery. Scientists who have studied behavior after mass traumas say, disasters can spark an <a href="https://www.sciencedirect.com/science/article/abs/pii/S2212420919309744?via%3Dihub">outpouring of kindness and powerful bonds between strangers</a>. Reporter <a href="https://paulinebartolone.org/about-us/">Pauline Bartolone</a> joins <em>Short Wave</em> co-host Emily Kwong to share the science behind this phenomenon.</p>
 <p><em>Interested in more science? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at</em> <a href="http://plus.npr.org"><em>plus.npr.org</em></a> <em>.</em></p>
@@ -1521,7 +1724,7 @@
 
     <article data-published="2026-06-22T20:51:25Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-may-have-discovered-the-origins-of-the-euphrates-river-which-helped-nurture-some-of-the-earliest-known-civilizations-180988966/" data-pagefind-filter="datePublished:2026-06-22T20:51:25Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists May Have Discovered the Origins of the Euphrates River, Which Helped Nurture Some of the Earliest Known Civilizations</h2>
-      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The famous waterway began as two rivers, a new study suggests. Tectonic activity around five million years ago probably made them change course and merge, helping to birth the Fertile Crescent</p>
 </p>
       <footer>
@@ -1541,7 +1744,7 @@
 
     <article data-published="2026-06-22T20:35:03Z" data-link="https://www.smithsonianmag.com/smart-news/fish-and-humans-share-surprisingly-similar-sleep-habits-including-daytime-naps-180988985/" data-pagefind-filter="datePublished:2026-06-22T20:35:03Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Fish and Humans Share Surprisingly Similar Sleep Habits, Including Daytime Naps</h2>
-      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>A recent study suggests that zebrafish have four sleep substates, just like humans do—and one of them is akin to an afternoon snooze</p>
 </p>
       <footer>
@@ -1561,7 +1764,7 @@
 
     <article data-published="2026-06-22T19:14:28Z" data-link="https://www.smithsonianmag.com/smart-news/researchers-flock-to-nithe-station-this-infamous-wwii-death-railway-station-built-by-allied-prisoners-of-war-that-was-just-revealed-in-thailand-180988992/" data-pagefind-filter="datePublished:2026-06-22T19:14:28Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Infamous ‘Death Railway’ Station, Built by Forced Labor From Prisoners of War and Civilians in World War II, Was Just Revealed in Thailand</h2>
-      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The Nithe Station, usually submerged under a reservoir, will be accessible this summer as officials drain the site to perform dam maintenance</p>
 </p>
       <footer>
@@ -1581,7 +1784,7 @@
 
     <article data-published="2026-06-22T18:01:22Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-identify-swaths-of-coral-reefs-that-might-be-able-to-withstand-climate-change-offering-new-avenues-for-conservation-180988976/" data-pagefind-filter="datePublished:2026-06-22T18:01:22Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Identify Swaths of Coral Reefs That Might Be Able to Withstand Climate Change, Offering New Avenues for Conservation</h2>
-      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>New research has mapped more than 64,000 square miles where the crucial habitat seems to be somewhat protected from the impacts of the warming ocean</p>
 </p>
       <footer>
@@ -1591,7 +1794,7 @@
 
     <article data-published="2026-06-22T17:58:44Z" data-link="https://www.smithsonianmag.com/smart-news/authorities-investigated-reports-of-an-illegal-excavation-in-rome-then-they-stumbled-upon-an-ancient-villa-adorned-with-mosaics-180988995/" data-pagefind-filter="datePublished:2026-06-22T17:58:44Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Authorities Investigated Reports of an Illegal Excavation in Rome. Then, They Stumbled Upon an Ancient Villa Adorned With Mosaics</h2>
-      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>In the second century C.E., Roman emperors such as Marcus Aurelius and Antoninus Pius frequented the area where the residence was found</p>
 </p>
       <footer>
@@ -1662,7 +1865,7 @@
 
     <article data-published="2026-06-22T13:51:06Z" data-link="https://www.smithsonianmag.com/smart-news/two-well-preserved-roman-busts-were-discovered-inside-a-wine-vat-in-israel-near-the-capital-city-of-a-roman-province-180988975/" data-pagefind-filter="datePublished:2026-06-22T13:51:06Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Two Well-Preserved Roman Busts Were Discovered Inside a Wine Vat in Israel Near the Capital City of a Roman Province</h2>
-      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>One is inscribed with the name &quot;Lycurgus,&quot; suggesting the bust may depict the legendary founder of ancient Sparta</p>
 </p>
       <footer>
@@ -1722,7 +1925,7 @@
 
     <article data-published="2026-06-22T07:00:00Z" data-link="https://www.npr.org/2026/06/22/nx-s1-5819876/science-brain-mind-horse" data-pagefind-filter="datePublished:2026-06-22T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Inside the mysterious minds of  horses</h2>
-      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-22">2026-06-22</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p><a href="https://janet-jones.com/author">Janet Jones</a> has been fascinated by horses since childhood. She’s now a horse trainer and a neuroscientist, which allows her to explore the minds of the animals to which she’s devoted her life. She even recently wrote a <a href="https://www.goodreads.com/en/book/show/252291510-a-horse-s-world">book all about their brains</a>. She says there’s an enormous gap between the way humans have relied on horses for tens of thousands of years – and what we actually know about their brains. And they have lots to teach us humans. That’s why we’re diving into science today.</p>
 <p><em>Interested in more science? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes, early access, archive access, curated playlists, sponsor-free listening. Learn more at</em> <a href="http://plus.npr.org"><em>plus.npr.org</em></a> <em>.</em></p>
@@ -1796,7 +1999,7 @@
 
     <article data-published="2026-06-19T16:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/archaeologists-discover-evidence-a-wooden-prototype-for-stonehenge-may-have-aligned-with-the-solstice-500-years-before-the-stone-circle-180988988/" data-pagefind-filter="datePublished:2026-06-19T16:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Archaeologists Discover Evidence That a Wooden Prototype for Stonehenge May Have Aligned With the Solstice 500 Years Before the Stone Circle</h2>
-      <p><time datetime="2026-06-19">2026-06-19</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-19">2026-06-19</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The remains of a wooden monument in southern England, three miles away from Stonehenge, may demonstrate Neolithic people's interest in the heavens</p>
 </p>
       <footer>
@@ -1816,7 +2019,7 @@
 
     <article data-published="2026-06-19T07:00:00Z" data-link="https://www.npr.org/2026/06/19/nx-s1-5856562/space-moon-robots-transforming" data-pagefind-filter="datePublished:2026-06-19T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Why scientists launched two little robots to the moon</h2>
-      <p><time datetime="2026-06-19">2026-06-19</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-19">2026-06-19</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Two tiny transforming robots landed on the moon! These baseball-sized bots accompanied Japan's first successful lunar lander. They rolled out of SLIM as balls and transformed into a rover. The bots cracked down the middle to reveal a little camera in the center. The halves then acted as spinning wheels that helped them waddle, bounce and roll over hard terrain as they explored. In this roundup of space news, we also get into the latest turn about how much the universe is expanding and the Earthly analogs NASA astronauts are using to prepare for the forthcoming Artemis mission.</p>
 <p><em>Interested in more space science? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at</em> <a href="http://plus.npr.org"><em>plus.npr.org</em></a> <em>.</em></p>
@@ -1870,7 +2073,7 @@
 
     <article data-published="2026-06-18T21:20:56Z" data-link="https://www.smithsonianmag.com/smart-news/a-6-year-old-boy-spotted-something-sticking-out-of-the-ground-in-a-field-it-turned-out-to-be-a-viking-sword-180988989/" data-pagefind-filter="datePublished:2026-06-18T21:20:56Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A 6-Year-Old Boy Spotted Something Sticking Out of the Ground in a Field. It Turned Out to Be a Viking Sword</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Henrik Refsnes Mørtvedt was on a school field trip when he found the roughly 1,200-year-old weapon. The single-edged blade will now be preserved at an Oslo museum</p>
 </p>
       <footer>
@@ -1880,7 +2083,7 @@
 
     <article data-published="2026-06-18T20:58:09Z" data-link="https://www.smithsonianmag.com/smart-news/new-discovery-that-hunter-gatherer-children-died-of-plague-more-than-five-millennia-ago-sets-back-the-date-of-the-earliest-outbreak-180988983/" data-pagefind-filter="datePublished:2026-06-18T20:58:09Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>New Discovery That Hunter-Gatherer Children Died of Plague More Than Five Millennia Ago Sets Back the Date of the Earliest Outbreak</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The skeletons of nomadic families unearthed in Siberia harbor &quot;Yersinia pestis&quot; bacteria, which challenges theories about conditions needed for the disease to spread</p>
 </p>
       <footer>
@@ -1890,7 +2093,7 @@
 
     <article data-published="2026-06-18T20:43:43Z" data-link="https://www.smithsonianmag.com/smart-news/major-oak-the-1200-year-old-tree-with-ties-to-the-robin-hood-legend-is-presumed-dead-after-failing-to-produce-leaves-180988986/" data-pagefind-filter="datePublished:2026-06-18T20:43:43Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Major Oak, the 1,200-Year-Old Tree with Ties to the Robin Hood Legend, Is Presumed Dead After Failing to Produce Leaves</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The legendary bandit who stole from the rich and gave to the poor is said to have used the massive tree as a hideout while running from the sheriff of Nottingham</p>
 </p>
       <footer>
@@ -1920,7 +2123,7 @@
 
     <article data-published="2026-06-18T19:15:23Z" data-link="https://www.smithsonianmag.com/smart-news/this-photography-studio-hooks-brothers-captured-the-beauty-of-black-life-in-the-south-soon-its-archive-once-hidden-away-will-have-a-new-museum-home-180988982/" data-pagefind-filter="datePublished:2026-06-18T19:15:23Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Photography Studio Captured the Beauty of Black Life in the South. Soon Its Archive, Once Hidden Away, Will Have a New Museum Home</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The Hooks brothers documented life and joy in Memphis during the 20th century. Their images will be put on public view when the Memphis Art Museum opens</p>
 </p>
       <footer>
@@ -1980,7 +2183,7 @@
 
     <article data-published="2026-06-18T16:41:08Z" data-link="https://www.smithsonianmag.com/smart-news/astronomers-discovered-a-cosmic-fossil-in-the-making-the-most-chemically-primitive-galaxy-seen-yet-by-peering-back-to-the-edge-of-time-180988954/" data-pagefind-filter="datePublished:2026-06-18T16:41:08Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Astronomers Discovered a 'Cosmic Fossil' in the Making—the Most Chemically Primitive Galaxy Seen Yet—by Peering Back to the Edge of Time</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The James Webb Space Telescope observed 13-billion-year-old light, using a closer galactic cluster like a magnifying glass. The work helps experts understand the universe’s earliest stars and mysterious ultra-faint dwarf galaxies</p>
 </p>
       <footer>
@@ -1990,7 +2193,7 @@
 
     <article data-published="2026-06-18T16:29:01Z" data-link="https://www.smithsonianmag.com/smart-news/by-signing-his-name-to-massive-jars-this-enslaved-artist-david-drake-defied-literacy-bans-in-the-south-now-his-masterpiece-is-on-view-with-a-famed-paul-revere-bowl-180988964/" data-pagefind-filter="datePublished:2026-06-18T16:29:01Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>By Signing His Name to Massive Jars, This Enslaved Artist Defied Literacy Bans in the South. Now, His Masterpiece Is on View With a Famed Paul Revere Bowl</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Born into slavery around 1800, David Drake was a skilled ceramicist. His work will be on display at the Museum of Fine Arts Boston as the institution marks America's 250th birthday</p>
 </p>
       <footer>
@@ -2010,7 +2213,7 @@
 
     <article data-published="2026-06-18T16:02:39Z" data-link="https://www.smithsonianmag.com/smart-news/researchers-find-a-mathematical-pattern-used-in-city-planning-hidden-in-the-leaves-of-a-common-houseplant-180988978/" data-pagefind-filter="datePublished:2026-06-18T16:02:39Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Researchers Find a Mathematical Pattern Used in City Planning Hidden in the Leaves of a Common Houseplant</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The major veins of Chinese money plant leaves form what's called a Voronoi diagram. It might be caused by a plant-growth hormone that emanates in waves from developing leaves' pores</p>
 </p>
       <footer>
@@ -2031,7 +2234,7 @@
 
     <article data-published="2026-06-18T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/nearly-all-plants-depend-on-tiny-underground-fungi-the-microbes-vast-global-networks-were-just-mapped-for-the-first-time-180988955/" data-pagefind-filter="datePublished:2026-06-18T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Nearly All Plants Depend on Tiny Underground Fungi. The Microbes' Vast Global Networks Were Just Mapped for the First Time</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>If lined up end to end, the thin, tubular threads that make up the arbuscular mycorrhizal fungal networks in Earth’s topsoil could stretch between our planet and the sun almost one billion times</p>
 </p>
       <footer>
@@ -2071,7 +2274,7 @@
 
     <article data-published="2026-06-18T10:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/in-june-1775-the-american-patriots-faced-off-with-the-british-at-the-battle-of-bunker-hill-archaeologists-are-uncovering-evidence-of-the-fighting-251-years-later-180988979/" data-pagefind-filter="datePublished:2026-06-18T10:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>In June 1775, the American Patriots Faced Off With the British at the Battle of Bunker Hill. Archaeologists Are Uncovering Evidence of the Fighting 251 Years Later</h2>
-      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-18">2026-06-18</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Researchers discovered gun parts, musket balls and other artifacts in Boston's Charlestown neighborhood</p>
 </p>
       <footer>
@@ -2131,7 +2334,7 @@
 
     <article data-published="2026-06-17T20:56:56Z" data-link="https://www.smithsonianmag.com/smart-news/hidden-tunnels-dating-back-to-henry-viiis-reign-were-discovered-at-english-boarding-school-New-Hall-School-where-the-king-once-lived-180988965/" data-pagefind-filter="datePublished:2026-06-17T20:56:56Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Hidden Tunnels Dating Back to Henry VIII's Reign Were Discovered at This English Boarding School, Where the King Once Lived</h2>
-      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Bones, bottles and pottery were found at the New Hall School, which was once Henry VIII's Palace of Beaulieu. Before that, Anne Boleyn's father owned the estate</p>
 </p>
       <footer>
@@ -2141,7 +2344,7 @@
 
     <article data-published="2026-06-17T20:41:10Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-discover-a-new-species-of-walking-shark-in-papua-new-guinea-they-suspect-its-at-risk-of-going-extinct-180988977/" data-pagefind-filter="datePublished:2026-06-17T20:41:10Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Discover a New Species of 'Walking' Shark in Papua New Guinea. They Suspect It's at Risk of Going Extinct</h2>
-      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The creature belongs to a unique group of sharks whose members can use their strong pectoral fins like legs to get around</p>
 </p>
       <footer>
@@ -2161,7 +2364,7 @@
 
     <article data-published="2026-06-17T18:54:33Z" data-link="https://www.smithsonianmag.com/smart-news/archaeologists-unearth-hundreds-of-artifacts-at-fort-ticonderoga-the-site-of-americas-first-offensive-victory-of-the-revolutionary-war-180988971/" data-pagefind-filter="datePublished:2026-06-17T18:54:33Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Archaeologists Unearth Hundreds of Artifacts at Fort Ticonderoga, the Site of America's First Offensive Victory of the Revolutionary War</h2>
-      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The objects were discovered on Liberty Hill, the place where many Continental Army soldiers heard the text of the Declaration of Independence for the first time</p>
 </p>
       <footer>
@@ -2171,7 +2374,7 @@
 
     <article data-published="2026-06-17T17:20:38Z" data-link="https://www.smithsonianmag.com/smart-news/indigenous-art-an-eagle-feather-and-a-3d-rendering-of-abraham-lincolns-hand-see-the-items-just-sealed-in-americas-time-capsule-180988973/" data-pagefind-filter="datePublished:2026-06-17T17:20:38Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>For Its Birthday, the U.S. Will Give Americans of the Future a 900-Pound Time Capsule Filled With Art, Natural Treasures and a Clever Copy of the Declaration of Independence</h2>
-      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The capsule was created and filled at the direction of Congress, through the America250 commission. It will be interred beneath an original sculpture on July 4</p>
 </p>
       <footer>
@@ -2191,7 +2394,7 @@
 
     <article data-published="2026-06-17T15:35:56Z" data-link="https://www.smithsonianmag.com/smart-news/male-bowerbirds-in-australian-cities-are-turning-human-trash-into-treasure-to-impress-potential-mates-180988969/" data-pagefind-filter="datePublished:2026-06-17T15:35:56Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Male Bowerbirds in Australian Cities Are Turning Human Trash Into Treasure to Impress Potential Mates</h2>
-      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Even rural birds prefer human-made objects, such as colored glass and wire, when given the choice between them and natural decorations, like leaves and shells, according to a new study</p>
 </p>
       <footer>
@@ -2222,7 +2425,7 @@
 
     <article data-published="2026-06-17T14:01:52Z" data-link="https://www.smithsonianmag.com/smart-news/this-practice-changing-gene-test-could-tell-doctors-which-patients-with-breast-cancer-can-skip-chemo-clinical-trial-suggests-180988957/" data-pagefind-filter="datePublished:2026-06-17T14:01:52Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This 'Practice-Changing' Gene Test Could Tell Doctors Which Patients With Breast Cancer Can Skip Chemo, Clinical Trial Suggests</h2>
-      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Chemotherapy comes with debilitating side effects, including brain fog, nausea and nerve damage. New research suggests that many people with a common type of breast cancer need just radiation and hormone therapy to prevent recurrence</p>
 </p>
       <footer>
@@ -2232,7 +2435,7 @@
 
     <article data-published="2026-06-17T07:00:00Z" data-link="https://www.npr.org/2026/06/17/nx-s1-5814725/is-sewage-the-future-of-green-aviation" data-pagefind-filter="datePublished:2026-06-17T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Is sewage the future of green aviation?</h2>
-      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-17">2026-06-17</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>The war in Iran has disrupted the global fuel supply. That has sent airline prices soaring and cancelled scores of flights. This got <em>Short Wave</em> host Emily Kwong wondering: Could <em>another</em> fuel source help take us to the skies? Today on the show, we explore the chemistry and cost of sustainable aviation fuel. Along the way, we highlight two initiatives to create a regional SAF supply – one in Washington and one in Pennsylvania.</p>
 <p><em>Interested in more stories about the future of flying? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at</em> <a href="http://plus.npr.org/shortwave"><em>plus.npr.org/shortwave</em></a> <em>.</em></p>
@@ -2276,7 +2479,7 @@
 
     <article data-published="2026-06-16T21:32:25Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-uncover-new-clues-about-the-volcanic-origins-of-the-giants-causeway-an-iconic-geologic-structure-in-northern-ireland-180988967/" data-pagefind-filter="datePublished:2026-06-16T21:32:25Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Uncover New Clues About the Volcanic Origins of the Giant's Causeway, an Iconic Geologic Structure in Northern Ireland</h2>
-      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The UNESCO World Heritage Site, which features 40,000 near-perfect hexagonal columns, formed roughly 60 million years ago during a period of intense volcanic activity</p>
 </p>
       <footer>
@@ -2356,7 +2559,7 @@
 
     <article data-published="2026-06-16T16:04:53Z" data-link="https://www.smithsonianmag.com/smart-news/see-a-stunning-view-of-the-southern-lights-dancing-across-the-earth-captured-by-a-nasa-astronaut-180988960/" data-pagefind-filter="datePublished:2026-06-16T16:04:53Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See a Stunning View of the Southern Lights Dancing Across the Earth Captured by a NASA Astronaut</h2>
-      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Jessica Meir, commander of NASA's SpaceX Crew-12 mission, shared photos and videos of a green aurora she shot while sheltering in a capsule outside the International Space Station</p>
 </p>
       <footer>
@@ -2416,7 +2619,7 @@
 
     <article data-published="2026-06-16T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/see-the-first-ever-photographs-of-cozumels-elusive-dwarf-fox-one-of-the-rarest-canids-in-the-world-180988961/" data-pagefind-filter="datePublished:2026-06-16T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See the First-Ever Photographs of Cozumel’s Elusive Dwarf Fox, One of the Rarest Canids in the World</h2>
-      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>No one had seen the creatures in more than two decades, leading scientists to wonder whether they'd gone extinct. That changed in September 2023</p>
 </p>
       <footer>
@@ -2454,9 +2657,9 @@
       </footer>
     </article>
 
-    <article data-published="2026-06-16T11:00:00Z" data-link="https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/" data-pagefind-filter="category:Development, category:Android, category:Android Progress Report, category:iOS, category:K-9 Mail, dc_creator:Danielle G., author:Danielle G., datePublished:2026-06-16T11:00:00Z, label:Thunderbird Pro, channel:https://blog.thunderbird.net/feed/">
+    <article data-published="2026-06-16T11:00:00Z" data-link="https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/" data-pagefind-filter="category:Development, category:Mobile, category:Android, category:Android Progress Report, category:iOS, category:K-9 Mail, dc_creator:Danielle G., author:Danielle G., datePublished:2026-06-16T11:00:00Z, label:Thunderbird Pro, channel:https://blog.thunderbird.net/feed/">
       <h2>Mobile Progress Report: June 2026</h2>
-      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-06-26">2026-06-26</time></p>
+      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The past month was busy; the theme was evolution. We went into this quarter with our own ideas for what we wanted to accomplish. However, our users had better ideas. With the release of Thunderbird’s own mail service, Thundermail, the need for a better account settings import process across our services and apps became vital. […]</p>
 <p>The post <a href="https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/">Mobile Progress Report: June 2026</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>
 </p>
@@ -2467,7 +2670,7 @@
 
     <article data-published="2026-06-16T10:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/you-can-now-see-betsy-ross-sewing-table-in-philadelphia-thanks-to-a-flag-day-donation-from-her-great-great-great-great-grandson-180988963/" data-pagefind-filter="datePublished:2026-06-16T10:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>You Can Now See Betsy Ross’ Sewing Table in Philadelphia, Thanks to a Flag Day Donation From Her Great-Great-Great-Great Grandson</h2>
-      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The origins of the Stars and Stripes are murky, but generations of Americans have admired stories about Ross creating the first American flag</p>
 </p>
       <footer>
@@ -2477,7 +2680,7 @@
 
     <article data-published="2026-06-16T07:00:00Z" data-link="https://www.npr.org/2026/06/16/nx-s1-5846602/science-memory-air-pollution" data-pagefind-filter="datePublished:2026-06-16T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Could air pollution make your memory worse?</h2>
-      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-16">2026-06-16</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Summer is here, your windows are open and the smell of…car exhaust and the latest wildfire are wafting in. This air pollution is harmful to <a href="https://evidence.nejm.org/doi/full/10.1056/EVIDra2200068?st_source=ai_mode">almost every organ</a>, including the brain. Today on <em>Short Wave</em>, we talk about one way air pollution may cloud your memory.</p>
 <p><em>Interested in more episodes about how where we live affects us? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>and we may turn it into an episode!</em></p>
 <p><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at</em> <a href="http://plus.npr.org/shortwave"><em>plus.npr.org/shortwave</em></a> <em>.</em></p>
@@ -2511,7 +2714,7 @@
 
     <article data-published="2026-06-15T21:13:43Z" data-link="https://www.smithsonianmag.com/smart-news/a-museum-of-american-music-headlined-by-bruce-springsteen-opens-in-new-jersey-with-instruments-lyrics-and-clothes-from-rock-stars-and-pop-legends-180988958/" data-pagefind-filter="datePublished:2026-06-15T21:13:43Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Museum of American Music—Headlined by Bruce Springsteen—Opened in New Jersey With Instruments, Lyrics and Clothes From Rock Stars and Pop Legends</h2>
-      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The Bruce Springsteen Center for American Music at Monmouth University, which houses the archives of its namesake Rock &amp; Roll Hall of Fame inductee, welcomed its first visitors</p>
 </p>
       <footer>
@@ -2521,7 +2724,7 @@
 
     <article data-published="2026-06-15T20:06:21Z" data-link="https://www.smithsonianmag.com/smart-news/venus-flytraps-snap-their-traps-shut-in-less-than-a-second-scientists-say-theyve-discovered-how-the-predatory-plants-are-so-fast-180988949/" data-pagefind-filter="datePublished:2026-06-15T20:06:21Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Venus Flytraps Snap Their Traps Shut in Less Than a Second. Scientists Say They've Discovered How the Predatory Plants Are So Fast</h2>
-      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The walls of cells in the leaves' outer layer suddenly soften, allowing the structures to hinge into a closed position, according to a new study</p>
 </p>
       <footer>
@@ -2531,7 +2734,7 @@
 
     <article data-published="2026-06-15T19:57:08Z" data-link="https://www.smithsonianmag.com/smart-news/with-a-beam-of-light-the-new-york-city-aids-memorial-honors-the-nearly-forgotten-legacy-of-this-great-american-sculptor-180988956/" data-pagefind-filter="datePublished:2026-06-15T19:57:08Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>With a Beam of Light, the New York City AIDS Memorial Honors the Nearly Forgotten Legacy of This Great American Sculptor</h2>
-      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>A new sculpture draws on materials and ideas from Scott Burton's artwork, which offered comfort in urban spaces. His final public series was a set of benches and lights on piers in Brooklyn</p>
 </p>
       <footer>
@@ -2591,7 +2794,7 @@
 
     <article data-published="2026-06-15T17:36:32Z" data-link="https://www.smithsonianmag.com/smart-news/the-super-el-nino-has-arrived-heres-how-it-might-affect-the-worlds-weather-and-economy-180988951/" data-pagefind-filter="datePublished:2026-06-15T17:36:32Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The 'Super' El Niño Has Arrived. Here's How It Might Affect the World's Weather and Economy</h2>
-      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The naturally occurring climate pattern, characterized by warm surface water in the Pacific Ocean, that has just started could be one of the strongest ever recorded, according to experts</p>
 </p>
       <footer>
@@ -2672,7 +2875,7 @@
 
     <article data-published="2026-06-15T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/ugliest-shark-on-the-planet-see-the-elusive-goblin-shark-filmed-for-the-first-time-in-its-deep-sea-habitat-180988950/" data-pagefind-filter="datePublished:2026-06-15T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>'Ugliest Shark on the Planet': See the Elusive Goblin Shark, Filmed for the First Time in Its Deep-Sea Habitat</h2>
-      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Scientists spotted the enigmatic creatures in 2019 and again in 2024, marking the first times they've been observed alive in the wild. The sightings drastically expand the animals' known geographic and depth range</p>
 </p>
       <footer>
@@ -2692,7 +2895,7 @@
 
     <article data-published="2026-06-15T07:00:00Z" data-link="https://www.npr.org/2026/06/15/nx-s1-5826898/chocolate-standard-italy-lab-farmers" data-pagefind-filter="datePublished:2026-06-15T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Inside the lab taste-testing the world's chocolate</h2>
-      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-15">2026-06-15</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Could standardizing chocolate help small-scale farmers? Chocolate scientist Julien Simonis thinks it could help persuade consumers to pay for higher quality chocolate, in turn helping out these growers. Every cacao bean is different, and for a long time, there wasn't a standard way of comparing the quality of chocolate. But in 2009, a sustainable agriculture nonprofit started a program called Cacao of Excellence. The goal was to develop a standard way of evaluating cacao just like those sommelier’s do with wine. So today, we’re going behind the scenes of a chocolate laboratory to see just how cacao is evaluated.</p>
 <p><strong>This story was originally reported for NPR by science correspondent Ari Daniel. Read the</strong> <a href="https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine"><strong>full story here</strong></a> <strong>.</strong></p>
 <p><strong>If you liked this episode, check out our episodes on how</strong> <a href="http://lnk.to/m5yb6y"><strong>climate change is hurting chocolate production</strong></a> <strong>and how some people are</strong> <a href="http://lnk.to/YKWjWt"><strong>making chocolate alternatives</strong></a> <strong>.</strong></p>
@@ -2738,7 +2941,7 @@
 
     <article data-published="2026-06-12T21:29:54Z" data-link="https://www.smithsonianmag.com/smart-news/stary-up-late-and-admire-the-cosmos-with-this-new-stargazing-trail-that-links-certified-dark-sky-destinations-180988953/" data-pagefind-filter="datePublished:2026-06-12T21:29:54Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Stay Up Late and Admire the Cosmos With This New ‘Stargazing Trail’ That Links Certified Dark Sky Destinations</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The initiative debuts as Colorado gears up to celebrate the 150th anniversary of its statehood</p>
 </p>
       <footer>
@@ -2758,7 +2961,7 @@
 
     <article data-published="2026-06-12T20:48:19Z" data-link="https://www.smithsonianmag.com/smart-news/when-claude-monet-planted-water-lilies-inspiration-struck-an-upcoming-auction-will-test-how-much-collectors-prize-the-floral-masterpieces-180988947/" data-pagefind-filter="datePublished:2026-06-12T20:48:19Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>When Claude Monet Planted Water Lilies, Inspiration Struck. An Upcoming Auction Will Test How Much Collectors Prize the Floral Masterpieces</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The marquee painting from Monet’s &quot;Nymphéas&quot; series is expected to fetch more than $40 million at auction later this month</p>
 </p>
       <footer>
@@ -2768,7 +2971,7 @@
 
     <article data-published="2026-06-12T20:21:27Z" data-link="https://www.smithsonianmag.com/smart-news/construction-in-germany-revealed-the-princely-grave-of-a-celtic-warrior-who-was-buried-with-weapons-and-a-two-wheeled-wagon-180988952/" data-pagefind-filter="datePublished:2026-06-12T20:21:27Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Construction in Germany Revealed the 'Princely Grave' of a Celtic Warrior Who Was Buried With Weapons and a Two-Wheeled Wagon</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Archaeologists say the find proves &quot;the previously only assumed presence of a local Celtic elite.&quot; Grave goods also included gold jewelry and a jug imported from modern-day Tuscany</p>
 </p>
       <footer>
@@ -2778,7 +2981,7 @@
 
     <article data-published="2026-06-12T19:40:36Z" data-link="https://www.smithsonianmag.com/smart-news/working-from-home-is-making-people-lonelier-and-worsening-mental-health-a-study-suggests-180988938/" data-pagefind-filter="datePublished:2026-06-12T19:40:36Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Working From Home Is Making People Lonelier and Worsening Mental Health, a Study Suggests</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The findings do not mean that in-office mandates are a fix, experts say. Instead, workplaces should have flexible policies that allow employees to choose where they’d like to work</p>
 </p>
       <footer>
@@ -2788,7 +2991,7 @@
 
     <article data-published="2026-06-12T19:23:20Z" data-link="https://www.smithsonianmag.com/smart-news/is-your-dog-right-pawed-or-left-pawed-heres-how-to-figure-it-out-according-to-a-new-study-180988941/" data-pagefind-filter="datePublished:2026-06-12T19:23:20Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Is Your Dog Right-Pawed or Left-Pawed? Here's How to Figure It Out, According to a New Study</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>Researchers devised a series of tests to measure your furry friend's laterality, which can be associated with behavior, emotion and cognition</p>
 </p>
       <footer>
@@ -2798,7 +3001,7 @@
 
     <article data-published="2026-06-12T17:54:14Z" data-link="https://www.smithsonianmag.com/smart-news/with-help-from-ai-a-family-realized-their-mysterious-thrift-store-find-is-a-portrait-by-a-great-scottish-painter-180988948/" data-pagefind-filter="datePublished:2026-06-12T17:54:14Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>With A.I.'s Help, a Family Realized Their Mysterious Thrift-Store Find Is a Portrait by a Great Scottish Painter</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The oil painting, the work of &quot;Scottish Colorist&quot; FCB Cadell, just sold at auction for more than $250,000</p>
 </p>
       <footer>
@@ -2808,7 +3011,7 @@
 
     <article data-published="2026-06-12T16:30:46Z" data-link="https://www.smithsonianmag.com/smart-news/researchers-accidentally-discover-that-humans-prefer-to-turn-counterclockwise-180988939/" data-pagefind-filter="datePublished:2026-06-12T16:30:46Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Researchers Accidentally Discover That Humans Prefer to Turn Counterclockwise. But They Still Have No Idea Why</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The effect transcends factors like culture, gender and handedness, causing the scientists, who were initially studying social distancing behavior, to scratch their heads</p>
 </p>
       <footer>
@@ -2849,7 +3052,7 @@
 
     <article data-published="2026-06-12T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-discover-the-worlds-largest-deepest-whale-graveyard-where-cetacean-remains-have-been-piling-up-for-five-million-years-180988942/" data-pagefind-filter="datePublished:2026-06-12T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Discover the World's Largest, Deepest Whale Graveyard, Where Cetacean Remains Have Been Piling Up for Five Million Years</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-02">2026-07-02</time></p>
       <p><p>The massive necropolis, located deep in the southeastern Indian Ocean, is teeming with marine life supported by the whale carcasses, including many suspected new species</p>
 </p>
       <footer>
@@ -2879,7 +3082,7 @@
 
     <article data-published="2026-06-12T07:00:00Z" data-link="https://www.npr.org/2026/06/12/nx-s1-5852208/sunscreen-chemical-ingredient-fda" data-pagefind-filter="datePublished:2026-06-12T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
       <h2>Why your sunscreen is finally getting a major upgrade</h2>
-      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
+      <p><time datetime="2026-06-12">2026-06-12</time>, updated: <time datetime="2026-07-03">2026-07-03</time></p>
       <p><p>Until this week, the United States hadn’t approved a new sunscreen ingredient in over <em>20</em> years. That changed Tuesday, when the FDA approved a new chemical for U.S. sunscreens. It’s called bemotrizinol, and NPR science correspondent Maria Godoy joins us to tell us all about it — including the soonest it’s expected to hit shelves.</p>
 <p><em>Interested in more science news? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
 <p><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at</em> <a href="http://plus.npr.org/shortwave"><em>plus.npr.org/shortwave</em></a> <em>.</em></p>
@@ -2899,207 +3102,6 @@
 </p>
       <footer>
         <a href="https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/">https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T21:14:44Z" data-link="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/" data-pagefind-filter="dc_creator:Sandra May, author:Sandra May, datePublished:2026-06-11T21:14:44Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA Award Boosts Space Technology Research Capabilities</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-15">2026-06-15</time></p>
-      <p><p>NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]</p>
-</p>
-      <footer>
-        <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/">https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T21:04:04Z" data-link="https://www.smithsonianmag.com/smart-news/see-the-stunning-photos-of-new-national-park-land-that-soon-will-be-accessible-from-americas-longest-national-trail-180988943/" data-pagefind-filter="datePublished:2026-06-11T21:04:04Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>See Stunning Photos of New National Park Land That Soon Will Be Accessible From America's Longest National Trail</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
-      <p><p>The 213 acres of land in far northern Wisconsin, along the southern shore of Lake Superior, include a waterfall</p>
-</p>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/see-the-stunning-photos-of-new-national-park-land-that-soon-will-be-accessible-from-americas-longest-national-trail-180988943/">https://www.smithsonianmag.com/smart-news/see-the-stunning-photos-of-new-national-park-land-that-soon-will-be-accessible-from-americas-longest-national-trail-180988943/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T20:41:44Z" data-link="https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/" data-pagefind-filter="datePublished:2026-06-11T20:41:44Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-15">2026-06-15</time></p>
-      <p><p>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]</p>
-</p>
-      <footer>
-        <a href="https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/">https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T20:40:30Z" data-link="https://www.smithsonianmag.com/smart-news/mule-deer-are-already-using-californias-first-wildlife-crossing-and-its-not-even-finished-yet-180988933/" data-pagefind-filter="datePublished:2026-06-11T20:40:30Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>Mule Deer Are Already Using California's First Wildlife Crossing—and It's Not Even Finished Yet</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
-      <p><p>Construction on the $20 million bridge in Siskiyou County began last year and is expected to be complete by this fall, with miles of eight-foot-high fencing along the highway to help funnel animals toward it</p>
-</p>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/mule-deer-are-already-using-californias-first-wildlife-crossing-and-its-not-even-finished-yet-180988933/">https://www.smithsonianmag.com/smart-news/mule-deer-are-already-using-californias-first-wildlife-crossing-and-its-not-even-finished-yet-180988933/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T20:07:33Z" data-link="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/" data-pagefind-filter="dc_creator:Lee Mohon, author:Lee Mohon, datePublished:2026-06-11T20:07:33Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>I Am Artemis: Elkin Norena</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-15">2026-06-15</time></p>
-      <p><p>Listen to this audio excerpt from Elkin Norena, resident management officer, NASA’s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build […]</p>
-</p>
-      <footer>
-        <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/">https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T18:59:37Z" data-link="https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/" data-pagefind-filter="datePublished:2026-06-11T18:59:37Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-15">2026-06-15</time></p>
-      <p><p>A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.</p>
-</p>
-      <footer>
-        <a href="https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/">https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T18:52:58Z" data-link="https://www.smithsonianmag.com/smart-news/see-visions-of-the-past-and-future-in-this-new-york-city-exhibition-on-the-renaissance-roots-of-tarot-cards-180988940/" data-pagefind-filter="datePublished:2026-06-11T18:52:58Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>See Visions of the Past and Future in This New York City Exhibition on the Renaissance Roots of Tarot Cards</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
-      <p><p>The Morgan Library &amp; Museum traces the history of beautifully illustrated tarot cards from their origins as a card game to modern occult fascination</p>
-</p>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/see-visions-of-the-past-and-future-in-this-new-york-city-exhibition-on-the-renaissance-roots-of-tarot-cards-180988940/">https://www.smithsonianmag.com/smart-news/see-visions-of-the-past-and-future-in-this-new-york-city-exhibition-on-the-renaissance-roots-of-tarot-cards-180988940/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T17:59:36Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-invented-a-disease-to-test-whether-ai-knew-it-was-fake-then-chatbots-started-saying-it-was-real-180988924/" data-pagefind-filter="datePublished:2026-06-11T17:59:36Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>Scientists Invented a Disease to Test Whether A.I. Knew It Was Fake. Then, Chatbots Started Saying It Was Real</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
-      <p><p>The eye condition bixonimania doesn't exist, but neither bots nor some researchers caught that the content was fabricated—despite obvious clues</p>
-</p>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/scientists-invented-a-disease-to-test-whether-ai-knew-it-was-fake-then-chatbots-started-saying-it-was-real-180988924/">https://www.smithsonianmag.com/smart-news/scientists-invented-a-disease-to-test-whether-ai-knew-it-was-fake-then-chatbots-started-saying-it-was-real-180988924/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T17:38:57Z" data-link="https://www.osnews.com/story/145282/web-browsers-on-video-game-consoles/" data-pagefind-filter="dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-11T17:38:57Z, label:OS News, channel:https://www.osnews.com/feed/">
-      <h2>Web browsers on video game consoles</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-18">2026-06-18</time></p>
-      <p><p>Video game consoles have a long history with web browsers. From the advent of the World Wide Web, consoles have been trying to get online. Browsers on video game consoles were initially very much an attempt to provide a cheap gateway to the web for a casual audience lacking technical expertise, though as time progressed they’ve become a greater and more integrated part of systems. This article takes a look at browsers on video game consoles in detail, though only covers official web browsers. Many consoles have browsers installable via custom firmware and homebrew, but they’re beyond the scope of this post, as are non-web systems such as Satellaview and online services that didn’t provide a browser, such as XBAND, Sega Meganet, and Sega Channel. ↫ Declan Chidlow The article starts off with the Philips CD-I, which has always been a fascinating product for technology fans in The Netherlands because that’s where Philips is from. Memory that far back is untrustworthy, but I can definitely remember being inundated with commercials, advertising, magazine articles, and newspaper reports about the CD-I, all throughout its rather troubled life. Yet, I don’t remember anything about it being capable of browsing a rudimentary web. Of course, we’re talking 1995 here, a time when I didn’t even have internet at home yet, although I did use the web at a friend’s place at that time. We didn’t get internet at home until I think 1997 or 1998, followed by the move to broadband cable internet just a year later, since our small rural town happened to be one of the first places to get broadband. Good times. Did anyone ever actually use browsers on consoles, though? I mean, using them always felt incredibly clunky, and by the time they were capable enough to really do anything we all had laptops and later smartphones anyway. I certainly don’t remember anyone using them for anything but a gimmick, but perhaps my sample size was far too small and not diverse enough.</p>
-</p>
-      <footer>
-        <a href="https://www.osnews.com/story/145282/web-browsers-on-video-game-consoles/">https://www.osnews.com/story/145282/web-browsers-on-video-game-consoles/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T17:24:20Z" data-link="https://www.smithsonianmag.com/smart-news/four-reasons-why-you-should-know-gordon-s-wood-esteemed-scholar-of-the-american-revolution-who-died-this-week-at-age-92-180988937/" data-pagefind-filter="datePublished:2026-06-11T17:24:20Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>Four Reasons You Should Know More About Gordon S. Wood, the Scholar of the American Revolution Who Died This Week at Age 92</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
-      <p><p>The Pulitzer Prize-winning historian, who wrote of the &quot;radicalism&quot; of the country’s founding, was killed in a car collision in a parking lot</p>
-</p>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/four-reasons-why-you-should-know-gordon-s-wood-esteemed-scholar-of-the-american-revolution-who-died-this-week-at-age-92-180988937/">https://www.smithsonianmag.com/smart-news/four-reasons-why-you-should-know-gordon-s-wood-esteemed-scholar-of-the-american-revolution-who-died-this-week-at-age-92-180988937/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T16:55:12Z" data-link="https://www.nasa.gov/image-article/soccer-meets-space-science/" data-pagefind-filter="dc_creator:HQ Web Team, author:HQ Web Team, datePublished:2026-06-11T16:55:12Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>Soccer Meets Space Science</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-15">2026-06-15</time></p>
-      <p><p>A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard […]</p>
-</p>
-      <footer>
-        <a href="https://www.nasa.gov/image-article/soccer-meets-space-science/">https://www.nasa.gov/image-article/soccer-meets-space-science/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T16:21:11Z" data-link="https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/" data-pagefind-filter="dc_creator:Joseph Atkinson, author:Joseph Atkinson, datePublished:2026-06-11T16:21:11Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA’s Career Technical Education Day Highlights Technical Careers</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-12">2026-06-12</time></p>
-      <p><p>At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in advancing the agency’sresearch and missions, applying hands-on expertise across engineering, fabrication,electronics, and countless other technical fields. To help cultivate the next generation of technical talent, NASA’s Office of STEM Engagementhosted Career Technical Education […]</p>
-</p>
-      <footer>
-        <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/">https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T15:38:31Z" data-link="https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/" data-pagefind-filter="dc_creator:Naomi Hartono, author:Naomi Hartono, datePublished:2026-06-11T15:38:31Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA, USGS Scientists Go Rock Hounding in California’s High Desert</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-12">2026-06-12</time></p>
-      <p><p>Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The geologists weren’t searching for gem-grade treasure. Rather, the presence of topaz could hint at a more valuable […]</p>
-</p>
-      <footer>
-        <a href="https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/">https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T14:40:10Z" data-link="https://www.smithsonianmag.com/smart-news/archaeologists-unearth-an-marble-aphrodite-a-pharoahs-cartouche-and-a-roman-basilica-all-in-one-ancient-egyptian-city-180988930/" data-pagefind-filter="datePublished:2026-06-11T14:40:10Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>Archaeologists Unearth a Marble Aphrodite, a Pharaoh's Cartouche and a Roman Basilica, All in One Ancient Egyptian City</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
-      <p><p>The collection of artifacts represents the layered history of Ehnasiya, an ancient Egyptian capital that became the Roman city of Heracleópolis Magna</p>
-</p>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/archaeologists-unearth-an-marble-aphrodite-a-pharoahs-cartouche-and-a-roman-basilica-all-in-one-ancient-egyptian-city-180988930/">https://www.smithsonianmag.com/smart-news/archaeologists-unearth-an-marble-aphrodite-a-pharoahs-cartouche-and-a-roman-basilica-all-in-one-ancient-egyptian-city-180988930/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T14:13:55Z" data-link="https://www.osnews.com/story/145279/macos-27-drops-intel-support-will-be-last-release-with-rosetta-2/" data-pagefind-filter="dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-06-11T14:13:55Z, label:OS News, channel:https://www.osnews.com/feed/">
-      <h2>MacOS 27 drops Intel support, will be last release with Rosetta 2</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-16">2026-06-16</time></p>
-      <p><p>With the announcement of an upcoming new macOS release also come the usual changes in which Macs will still be supported. MacOS 27 Golden Gate is an important release in this regard, as it will be the first release of Apple’s desktop operating system that will be entirely ARM-only, dropping support for all Intel Macs. It’s important to note that Apple will provide three more years of security updates for the final Intel release of macOS, so Intel users won’t be dropped like a brick immediately. Still, the Intel Mac Pro was still being sold all the way up until mid-2023, and I’d be royally pissed off if my expensive 2023 Intel Mac went out of support a mere six years after purchase. They weren’t cheap machines, and while you can argue everybody knew the writing was on the wall for the Intel Mac Pro in 2023, it still feels way too short of a supported lifespan for such an expensive, high-end piece of equipment. It didn’t sell many units, I’m sure, but still. In addition, MacOS 27 will be the last release to include the Rosetta 2 translation layer that allows Intel binaries to run on ARM macOS. I have no idea how many important applications are still Intel-only, but I have a feeling that number is going to be relatively small, and will become even smaller as the first macOS release without Rosetta 2 support nears release. On top op of that, I’m sure enterprising users will find a way to transplant Rosetta 2 onto unsupported macOS releases, and if all else fails, there’s always virtual machines.</p>
-</p>
-      <footer>
-        <a href="https://www.osnews.com/story/145279/macos-27-drops-intel-support-will-be-last-release-with-rosetta-2/">https://www.osnews.com/story/145279/macos-27-drops-intel-support-will-be-last-release-with-rosetta-2/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T13:58:17Z" data-link="https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/" data-pagefind-filter="dc_creator:Jessica Taveau, author:Jessica Taveau, datePublished:2026-06-11T13:58:17Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-12">2026-06-12</time></p>
-      <p><p>NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its science mission lifespan and advancing a key […]</p>
-</p>
-      <footer>
-        <a href="https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/">https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T13:37:21Z" data-link="https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/" data-pagefind-filter="dc_creator:Janna Levin and Steven Strogatz, author:Janna Levin and Steven Strogatz, datePublished:2026-06-11T13:37:21Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
-      <h2>What’s the Future of Gene Editing?</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-18">2026-06-18</time></p>
-      <p><p>In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology.</p>
-<p>The post <a href="https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/">What’s the Future of Gene Editing?</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
-</p>
-      <footer>
-        <a href="https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/">https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T13:00:17Z" data-link="https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/" data-pagefind-filter="dc_creator:GeForce NOW Community, author:GeForce NOW Community, datePublished:2026-06-11T13:00:17Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
-      <h2>Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-06-22">2026-06-22</time></p>
-      <p><p>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]</p>
-</p>
-      <footer>
-        <a href="https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/">https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/a-rare-meteorite-found-in-the-sahara-desert-offers-evidence-of-a-lost-protoplanet-180988932/" data-pagefind-filter="datePublished:2026-06-11T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>A Rare Meteorite Found in the Sahara Desert Offers Evidence of a Lost Protoplanet</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time>, updated: <time datetime="2026-07-01">2026-07-01</time></p>
-      <p><p>Chemical signatures indicate the meteorite came from an early planet that met an untimely end during the formation of our solar system</p>
-</p>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/a-rare-meteorite-found-in-the-sahara-desert-offers-evidence-of-a-lost-protoplanet-180988932/">https://www.smithsonianmag.com/smart-news/a-rare-meteorite-found-in-the-sahara-desert-offers-evidence-of-a-lost-protoplanet-180988932/</a>
-      </footer>
-    </article>
-
-    <article data-published="2026-06-11T04:01:00Z" data-link="https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/" data-pagefind-filter="datePublished:2026-06-11T04:01:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>Air Pollution’s Daily Pulse Over the Northeast</h2>
-      <p><time datetime="2026-06-11">2026-06-11</time></p>
-      <p><p>The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.</p>
-</p>
-      <footer>
-        <a href="https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/">https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</a>
       </footer>
     </article>
   </main>

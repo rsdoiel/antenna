@@ -4,10 +4,219 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>02 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>03 Jul 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Microsoft settles centuries of religious debate by providing clearest definition of hell to date: Windows with a website-based shell running only Copilot</title>
+      <link>https://www.osnews.com/story/145423/microsoft-settles-centuries-of-religious-debate-by-providing-clearest-definition-of-hell-to-date-windows-with-a-website-based-shell-running-only-copilot/</link>
+      <description>
+        <![CDATA[For how often people invoke it, the concept of &#8220;hell&#8221; in Christianity is remarkably vague and nebulous, as both the Old and New Testament barely go into detail about the concept. As such, I&#8217;m glad Microsoft has now given us a clear vision of hell and what, exactly, it looks like, ending centuries of denominational disagreements. Microsoft is currently selling the idea of Windows and Copilot as two separate things: an OS and an assistant riding along on top of it. However, a leaked video shows Project Aion, an internal prototype where Copilot doesn&#8217;t just sit inside Windows, it becomes Windows, swallowing the Start menu, the taskbar, and three decades of desktop conventions in the process. The footage is reportedly two years old, so Aion is most likely dead by now. But it&#8217;s the clearest look yet at how far Microsoft was willing to take its agentic AI ambitions. ↫ Alfonso Maruccia at Techspot Everything about this is dreadful. Obviously replacing the entire shell with &#8220;AI&#8221; nonsense is the main crime against usability here, but on top of that, this new shell is all just websites, all the way down, so everything is slow and stuttery. Since this runs on something called &#8220;Win3&#8221;, which appears to be a very minimal, stripped-down version of Windows intended to only run the Edge browser engine, you can&#8217;t run Win32 applications. If you do try to run a Win32 application, it will load the application in a remote virtual machine running in the cloud, which I;m sure does wonder for performance, responsiveness, and latency. We can all thank the lord this project is two years old and most likely cancelled by now, but we have no way of knowing if Microsoft is still intending for this to be the future direction of Windows. Since people don&#8217;t want to use &#8220;AI&#8221; of their own volition, it only makes sense in the technology industry&#8217;s sick, twisted mind to force people into using &#8220;AI&#8221; with efforts like this. Consent has never been Silicon Valley&#8217;s strength, after all. At the time of writing, Microsoft is 225 billion dollars in the red on &#8220;AI&#8221;, so I wouldn&#8217;t be surprised if attempts to replace the regular Explorer shell with something &#8220;AI&#8221;-based is still very much on the table in Redmond.]]>
+      </description>
+      <source:markdown>For how often people invoke it, the concept of “hell” in Christianity is remarkably vague and nebulous, as both the Old and New Testament barely go into detail about the concept. As such, I’m glad Microsoft has now given us a clear vision of hell and what, exactly, it looks like, ending centuries of denominational disagreements. Microsoft is currently selling the idea of Windows and Copilot as two separate things: an OS and an assistant riding along on top of it. However, a leaked video shows Project Aion, an internal prototype where Copilot doesn’t just sit inside Windows, it becomes Windows, swallowing the Start menu, the taskbar, and three decades of desktop conventions in the process. The footage is reportedly two years old, so Aion is most likely dead by now. But it’s the clearest look yet at how far Microsoft was willing to take its agentic AI ambitions. ↫ Alfonso Maruccia at Techspot Everything about this is dreadful. Obviously replacing the entire shell with “AI” nonsense is the main crime against usability here, but on top of that, this new shell is all just websites, all the way down, so everything is slow and stuttery. Since this runs on something called “Win3”, which appears to be a very minimal, stripped-down version of Windows intended to only run the Edge browser engine, you can’t run Win32 applications. If you do try to run a Win32 application, it will load the application in a remote virtual machine running in the cloud, which I;m sure does wonder for performance, responsiveness, and latency. We can all thank the lord this project is two years old and most likely cancelled by now, but we have no way of knowing if Microsoft is still intending for this to be the future direction of Windows. Since people don’t want to use “AI” of their own volition, it only makes sense in the technology industry’s sick, twisted mind to force people into using “AI” with efforts like this. Consent has never been Silicon Valley’s strength, after all. At the time of writing, Microsoft is 225 billion dollars in the red on “AI”, so I wouldn’t be surprised if attempts to replace the regular Explorer shell with something “AI”-based is still very much on the table in Redmond.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145423</guid>
+      <category>Clown car</category>
+    </item>    <item>
+      <title>NASA’s Hubble Spots Star-Spangled Cosmic Scene</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/</link>
+      <description>
+        <![CDATA[More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).]]>
+      </description>
+      <source:markdown>More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Globular Clusters</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>Star Clusters</category>
+      <category>Stars</category>
+    </item>    <item>
+      <title>Vulkan-netbsd brings Vulkan to NetBSD</title>
+      <link>https://www.osnews.com/story/145421/vulkan-netbsd-brings-vulkan-to-netbsd/</link>
+      <description>
+        <![CDATA[NetBSD is the only BSD without a Vulkan stack (Mesa and Lavapipe), but that&#8217;s about to change. The effort to bring Vulkan to NetBSD is now in beta, with prebuilt binaries coming soon. Mesa configures, compiles, links, installs, and registers the Lavapipe software Vulkan driver on NetBSD 10.1 amd64, against LLVM 19.1.7. The driver (libvulkan_lvp.so, ~17 MB) installs into /usr/pkg/lib, and its ICD manifest (advertising Vulkan API 1.4) installs into /usr/pkg/share/vulkan/icd.d/, so a Vulkan loader on the system can discover it. ldd resolves every dependency cleanly. The entire process — environment setup, dependency builds, the Mesa build, and installation — is automated end to end and reproducible on a fresh install. ↫ vulkan-netbsd GitHub page It&#8217;s important to note that the next step in the process is to port the Vulkan loader, which is required to actually run Vulkan applications. This entire effort is still ongoing and seems to be handled mostly by Dean Howell alone, so expect breakage and incomplete documentation as development progresses. Still, this is a hugely important effort, and seeing it this far along is great news.]]>
+      </description>
+      <source:markdown>NetBSD is the only BSD without a Vulkan stack (Mesa and Lavapipe), but that’s about to change. The effort to bring Vulkan to NetBSD is now in beta, with prebuilt binaries coming soon. Mesa configures, compiles, links, installs, and registers the Lavapipe software Vulkan driver on NetBSD 10.1 amd64, against LLVM 19.1.7. The driver (libvulkan\_lvp.so, ~17 MB) installs into /usr/pkg/lib, and its ICD manifest (advertising Vulkan API 1.4) installs into /usr/pkg/share/vulkan/icd.d/, so a Vulkan loader on the system can discover it. ldd resolves every dependency cleanly. The entire process — environment setup, dependency builds, the Mesa build, and installation — is automated end to end and reproducible on a fresh install. ↫ vulkan-netbsd GitHub page It’s important to note that the next step in the process is to port the Vulkan loader, which is required to actually run Vulkan applications. This entire effort is still ongoing and seems to be handled mostly by Dean Howell alone, so expect breakage and incomplete documentation as development progresses. Still, this is a hugely important effort, and seeing it this far along is great news.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145421</guid>
+      <category>NetBSD</category>
+    </item>    <item>
+      <title>EveryMac celebrates 30th birthday</title>
+      <link>https://www.osnews.com/story/145419/everymac-celebrates-30th-birthday/</link>
+      <description>
+        <![CDATA[EveryMac turned 30. On July 2, 1996, EveryMac.com launched. Thirty years is a long time &#8212; and a great deal has changed since then &#8212; but what has not changed is that EveryMac.com has been there to provide you with detailed info on every Mac from the original 128k to the current line. Thank you very much for your support through the years. ↫ EveryMac news item I thought OSNews was pretty unique with its founding in 1997, so it&#8217;s great to see another enthusiast&#8217;s website as old as ours. Amazing company to be in, too &#8211; EveryMac is an indispensable, tirelessly maintained, and stupidly accurate resource that I use countless times each year. Here&#8217;s to another 30 years.]]>
+      </description>
+      <source:markdown>EveryMac turned 30. On July 2, 1996, EveryMac.com launched. Thirty years is a long time — and a great deal has changed since then — but what has not changed is that EveryMac.com has been there to provide you with detailed info on every Mac from the original 128k to the current line. Thank you very much for your support through the years. ↫ EveryMac news item I thought OSNews was pretty unique with its founding in 1997, so it’s great to see another enthusiast’s website as old as ours. Amazing company to be in, too – EveryMac is an indispensable, tirelessly maintained, and stupidly accurate resource that I use countless times each year. Here’s to another 30 years.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145419</guid>
+      <category>Apple</category>
+    </item>    <item>
+      <title>This July 4th, are you a thrill- or chill-seeker?</title>
+      <link>https://www.npr.org/2026/07/03/nx-s1-5879300/july-4th-fireworks-thrill-chill-seeker</link>
+      <description>
+        <![CDATA[Independence Day is approaching!<br/><br/><br>Imagine if someone has procured illegal fireworks from a couple of states over. Are you:<br/><br/>1. first in line to light them?<br/><br/>2. content to watch while others set them off?<br/><br/>3. going to find a fire extinguisher — just in case — while loudly condemning the activity?<br/><br/><a href="https://www.drkencarter.com/"target="_blank"   >Ken Carter</a>, a psychologist at Oxford College of Emory University, says everyone has a different level of sensation-seeking. This episode, we get into the factors at play, like people's brain chemistry, when deciding whether or not to do an activity, like setting off fireworks.<br/><br/>For low and average sensation-seekers, very thrilling activities like large, self-run fireworks displays can cause their bodies to produce a lot of cortisol, a stress hormone.<br/><br/>On the other hand, high sensation-seekers, Carter says, "don't tend to produce that much cortisol when they're in those highly chaotic experiences. So when they're seeing those fireworks, they actually produce higher amounts of another chemical called dopamine, which is a neurotransmitter or a chemical messenger that's involved in pleasure."<br/><br/>Carter has developed a 40-point self-assessment survey for people to figure out how much of a sensation-seeker they are. The survey can be found in his book, <a href="https://www.cambridge.org/us/universitypress/subjects/psychology/personality-psychology-and-individual-differences/buzz-inside-minds-thrill-seekers-daredevils-and-adrenaline-junkies?format=PB"target="_blank"   ><em>Buzz!</em></a><br/><br/><em>Interested in more psychology episodes? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Independence Day is approaching!
+
+Imagine if someone has procured illegal fireworks from a couple of states over. Are you:
+
+1\. first in line to light them?
+
+2\. content to watch while others set them off?
+
+3\. going to find a fire extinguisher — just in case — while loudly condemning the activity?
+
+[Ken Carter](https://www.drkencarter.com/), a psychologist at Oxford College of Emory University, says everyone has a different level of sensation-seeking. This episode, we get into the factors at play, like people&#39;s brain chemistry, when deciding whether or not to do an activity, like setting off fireworks.
+
+For low and average sensation-seekers, very thrilling activities like large, self-run fireworks displays can cause their bodies to produce a lot of cortisol, a stress hormone.
+
+On the other hand, high sensation-seekers, Carter says, &#34;don&#39;t tend to produce that much cortisol when they&#39;re in those highly chaotic experiences. So when they&#39;re seeing those fireworks, they actually produce higher amounts of another chemical called dopamine, which is a neurotransmitter or a chemical messenger that&#39;s involved in pleasure.&#34;
+
+Carter has developed a 40-point self-assessment survey for people to figure out how much of a sensation-seeker they are. The survey can be found in his book, [_Buzz!_](https://www.cambridge.org/us/universitypress/subjects/psychology/personality-psychology-and-individual-differences/buzz-inside-minds-thrill-seekers-daredevils-and-adrenaline-junkies?format=PB)
+
+_Interested in more psychology episodes? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f97833fe-5ada-4520-8910-c141f2130f44/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f97833fe-5ada-4520-8910-c141f2130f44&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879300&p=510351&d=799&size=12790014" length="12790014" type="audio/mpeg" />
+      <guid>cid://7cf30c08-f931-4205-96c4-51389100ff6e</guid>
+    </item>    <item>
+      <title>Android is almost dead</title>
+      <link>https://www.osnews.com/story/145415/android-is-almost-dead/</link>
+      <description>
+        <![CDATA[The clock is ticking for Android as a (somewhat) open platform. If you are running Android 8 or higher, a virus has been installed on your device and is silently awaiting remote activation. Over the past few months, devices around the world have been infected with this novel strain, with as many as 4 billion Android handsets and tablets estimated to have already been contaminated, meaning that around half of all humanity may be at risk from this threat. Disguising itself as the innocuously-titled “Android Developer Verifier” (ADV) process, this trojan horse runs surreptitiously in the background as a system service with full root privileges, quietly awaiting an activation signal. The service cannot be blocked, disabled, or removed. Unlike a commonplace bit of malware, this extraordinary strain won’t be detected and neutralized by Play Protect (the malware scanning and remediation service that is installed on all Android Certified devices). In fact, Play Protect is itself the vector through which this virus is transmitted and installed. That is because it is Google themselves who is propagating ADV. And once activated, this malevolent process has exactly one goal: to block you from running software by developers who haven’t been approved centrally by Google. ↫ The F-Droid news website If nobody steps up, if no regulator takes on Google in this matter, we could very well be looking at the end of F-Droid and similar open source application repositories on Android. I use F-Droid, and in fact, one of the most important and most-used application on my Pixel 10 Pro comes from F-Droid: Fennec. This Firefox fork is not available through any Google-sanctioned means, and I could just wake up one day and have the browser on what is supposed to be my phone stop working. Age verification, tying crucial services to iOS and Google Android, killing the ability to install your own software on your phone, purposefully making people hopelessly addicted to and dependent on &#8220;AI&#8221;, and so much more &#8211; we&#8217;re facing a multi-pronged attack designed to beat us into submission and give up on the idea of Free computing. I have to admit I&#8217;ve lost all hope we&#8217;ll be able to win this battle, as the combined interests of technology megacorporations and our own governments are just too powerful to fight. I feel like we&#8217;re living in the computing end times.]]>
+      </description>
+      <source:markdown>The clock is ticking for Android as a (somewhat) open platform. If you are running Android 8 or higher, a virus has been installed on your device and is silently awaiting remote activation. Over the past few months, devices around the world have been infected with this novel strain, with as many as 4 billion Android handsets and tablets estimated to have already been contaminated, meaning that around half of all humanity may be at risk from this threat. Disguising itself as the innocuously-titled “Android Developer Verifier” (ADV) process, this trojan horse runs surreptitiously in the background as a system service with full root privileges, quietly awaiting an activation signal. The service cannot be blocked, disabled, or removed. Unlike a commonplace bit of malware, this extraordinary strain won’t be detected and neutralized by Play Protect (the malware scanning and remediation service that is installed on all Android Certified devices). In fact, Play Protect is itself the vector through which this virus is transmitted and installed. That is because it is Google themselves who is propagating ADV. And once activated, this malevolent process has exactly one goal: to block you from running software by developers who haven’t been approved centrally by Google. ↫ The F-Droid news website If nobody steps up, if no regulator takes on Google in this matter, we could very well be looking at the end of F-Droid and similar open source application repositories on Android. I use F-Droid, and in fact, one of the most important and most-used application on my Pixel 10 Pro comes from F-Droid: Fennec. This Firefox fork is not available through any Google-sanctioned means, and I could just wake up one day and have the browser on what is supposed to be my phone stop working. Age verification, tying crucial services to iOS and Google Android, killing the ability to install your own software on your phone, purposefully making people hopelessly addicted to and dependent on “AI”, and so much more – we’re facing a multi-pronged attack designed to beat us into submission and give up on the idea of Free computing. I have to admit I’ve lost all hope we’ll be able to win this battle, as the combined interests of technology megacorporations and our own governments are just too powerful to fight. I feel like we’re living in the computing end times.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145415</guid>
+      <category>Android</category>
+    </item>    <item>
+      <title>WinPE as a stateless harness for Windows driver testing and fuzzing</title>
+      <link>https://www.osnews.com/story/145413/winpe-as-a-stateless-harness-for-windows-driver-testing-and-fuzzing/</link>
+      <description>
+        <![CDATA[What if you need to do very low-level testing involving the very guts of Windows NT, but don&#8217;t need most of the userland that sits on top? In fact, what if that userland only slows you down and complicates the work you&#8217;re trying to do? The solution is Windows PE (Windows Preinstallation Environment). It is an official, stripped-down environment distributed with every Windows ISO image. It runs entirely in RAM, requires as little as 512 MB of memory, and lacks support for DirectX, the PowerShell subsystem, or the standard graphical shell (Explorer). Booting by default with NT AUTHORITY\\SYSTEM privileges makes it an ideal test harness for both of these tasks. The following analysis focuses on the low-level mechanisms of WinPE, as well as BCD and QEMU modifications that allow transforming this system into an ultra-fast, idempotent testing environment. ↫ Piotr Bednarski Now, the kind of work Bednarski does isn&#8217;t the most common of tasks, but I&#8217;ve often wondered just how far you can get by bolting on whatever WinPE will allow you to. There were various unofficial third-party tools that built Windows live CDs based on WinPE, but I think most of those have died out by now. If you look hard enough, you can also find some other utilities people made for WinPE, including even some rudimentary web browsers. Regarding web browsers, modern efforts seem to run into issues. WinPE is not really meant for any advanced functionality, but I really do wonder how capable you can make it without turning it into regular Windows.]]>
+      </description>
+      <source:markdown>What if you need to do very low-level testing involving the very guts of Windows NT, but don’t need most of the userland that sits on top? In fact, what if that userland only slows you down and complicates the work you’re trying to do? The solution is Windows PE (Windows Preinstallation Environment). It is an official, stripped-down environment distributed with every Windows ISO image. It runs entirely in RAM, requires as little as 512 MB of memory, and lacks support for DirectX, the PowerShell subsystem, or the standard graphical shell (Explorer). Booting by default with NT AUTHORITY\\\SYSTEM privileges makes it an ideal test harness for both of these tasks. The following analysis focuses on the low-level mechanisms of WinPE, as well as BCD and QEMU modifications that allow transforming this system into an ultra-fast, idempotent testing environment. ↫ Piotr Bednarski Now, the kind of work Bednarski does isn’t the most common of tasks, but I’ve often wondered just how far you can get by bolting on whatever WinPE will allow you to. There were various unofficial third-party tools that built Windows live CDs based on WinPE, but I think most of those have died out by now. If you look hard enough, you can also find some other utilities people made for WinPE, including even some rudimentary web browsers. Regarding web browsers, modern efforts seem to run into issues. WinPE is not really meant for any advanced functionality, but I really do wonder how capable you can make it without turning it into regular Windows.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145413</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>M/PC: a concatenative operating system for Varvara</title>
+      <link>https://www.osnews.com/story/145411/m-pc-a-concatenative-operating-system-for-varvara/</link>
+      <description>
+        <![CDATA[M/PC is a concatenative operating system for Varvara, inspired by Openfirmware, designed to manage files on system without a file browser. It uses the postfix notation, meaning that the function success their operands. ↫ M/PC website I&#8217;m not going to pretend to really understand what any of this means.]]>
+      </description>
+      <source:markdown>M/PC is a concatenative operating system for Varvara, inspired by Openfirmware, designed to manage files on system without a file browser. It uses the postfix notation, meaning that the function success their operands. ↫ M/PC website I’m not going to pretend to really understand what any of this means.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145411</guid>
+      <category>OS News</category>
+    </item>    <item>
+      <title>An A.I.-Generated Alexander Hamilton Chats About Economics at the Museum of American Finance, Opening This Weekend in Boston</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-ai-generated-alexander-hamilton-chats-about-economics-at-the-museum-of-american-finance-opening-this-weekend-in-boston-180989071/</link>
+      <description>
+        <![CDATA[The museum, which started in New York and hasn't had a permanent exhibition space in several years, depicts the history and influence of U.S. financial institutions]]>
+      </description>
+      <source:markdown>The museum, which started in New York and hasn&#39;t had a permanent exhibition space in several years, depicts the history and influence of U.S. financial institutions</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PV6ge62R-47XeTKQYPzy-Ve8uu8=/420x240/filters:focal(1008x758:1009x759)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7e/0f/7e0f06b6-489f-4178-aa88-5fd82ca6c3dc/hamilton_exhibit.jpeg" length="1231342" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/an-ai-generated-alexander-hamilton-chats-about-economics-at-the-museum-of-american-finance-opening-this-weekend-in-boston-180989071/</guid>
+    </item>    <item>
+      <title>Scientists Say They&#39;ve Made Cells That Feed, Grow and Reproduce, Bringing Them One Step Closer to Building Life From Scratch</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-say-theyve-made-cells-that-feed-grow-and-reproduce-bringing-them-one-step-closer-to-building-life-from-scratch-180989070/</link>
+      <description>
+        <![CDATA[The human-made cells show many hallmarks of life, but they can't make all their necessary internal structures or divide for that many generations]]>
+      </description>
+      <source:markdown>The human-made cells show many hallmarks of life, but they can&#39;t make all their necessary internal structures or divide for that many generations</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/35547IzOzw7WFI1bRR14IKKnu14=/420x240/filters:focal(454x307:455x308)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/04/af04437b-8b2a-4766-8abe-f11b209a657c/spudcell.jpg" length="33744" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-say-theyve-made-cells-that-feed-grow-and-reproduce-bringing-them-one-step-closer-to-building-life-from-scratch-180989070/</guid>
+    </item>    <item>
+      <title>3D Printing Gives New Life to an Ancient Game Board Discovered at a Roman Fort Near Hadrian&#39;s Wall in England</title>
+      <link>https://www.smithsonianmag.com/smart-news/3d-printing-gives-new-life-to-an-ancient-game-board-discovered-at-a-roman-fort-near-hadrians-wall-in-england-180989064/</link>
+      <description>
+        <![CDATA[Soldiers and civilians alike enjoyed strategy game Ludus Latrunculorum in the Roman Empire, especially in Roman Britain]]>
+      </description>
+      <source:markdown>Soldiers and civilians alike enjoyed strategy game Ludus Latrunculorum in the Roman Empire, especially in Roman Britain</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/L7-rQ21tzDefJDF0Z0n4HKYTKEs=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/bd/4fbd76d6-137c-4e34-8861-050ba1ead6b2/new_project_49-1.jpg" length="73701" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/3d-printing-gives-new-life-to-an-ancient-game-board-discovered-at-a-roman-fort-near-hadrians-wall-in-england-180989064/</guid>
+    </item>    <item>
+      <title>Puzzled by Mark Rothko&#39;s Captivating Color Field Paintings? Look to the Renaissance Masters Who Inspired Him</title>
+      <link>https://www.smithsonianmag.com/smart-news/puzzled-by-mark-rothkos-captivating-color-field-paintings-look-to-the-renaissance-masters-who-inspired-him-180989068/</link>
+      <description>
+        <![CDATA[During trips to Europe, the American painter developed a fascination with how 15th- and 16th-century artists and architects had designed their work to evoke specific feelings]]>
+      </description>
+      <source:markdown>During trips to Europe, the American painter developed a fascination with how 15th- and 16th-century artists and architects had designed their work to evoke specific feelings</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R86Kq3etNjOfz9QGcvDi6GftUzY=/420x240/filters:focal(2464x1643:2465x1644)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/33/72/3372d106-b760-463c-a93d-0490f3fd8776/gettyimages-2269405143.jpg" length="5537259" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/puzzled-by-mark-rothkos-captivating-color-field-paintings-look-to-the-renaissance-masters-who-inspired-him-180989068/</guid>
+    </item>    <item>
+      <title>NASA’s Artemis II Breaks Agency Streaming Record</title>
+      <link>https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/</link>
+      <description>
+        <![CDATA[NASA’s live coverage of the Artemis II mission mission&#160;drew unprecedented&#160;public&#160;interest&#160;– including&#160;more than&#160;149.4&#160;million views&#160;of&#160;the launch, lunar flyby, splashdown&#160;on&#160;NASA-owned&#160;platforms, including the 24/7 streams covering the mission and the Orion spacecraft&#160;views&#160;–&#160;demonstrating&#160;strong, sustained global engagement throughout the mission.&#160; Around the Clock Live Broadcast NASA’s Artemis II Crew Launches to the Moon broadcast set unprecedented viewership records across the agency’s [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest – including more than 149.4 million views of the launch, lunar flyby, splashdown on NASA-owned platforms, including the 24/7 streams covering the mission and the Orion spacecraft views – demonstrating strong, sustained global engagement throughout the mission.  Around the Clock Live Broadcast NASA’s Artemis II Crew Launches to the Moon broadcast set unprecedented viewership records across the agency’s \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=984447</guid>
+      <category>General</category>
+    </item>    <item>
+      <title>The Oldest Black Church in the U.S., the Wright Brothers&#39; Home and a New York Hospital Are Among the American Heritage Sites in Urgent Need of Preservation</title>
+      <link>https://www.smithsonianmag.com/smart-news/oldest-black-church-wright-brothers-homes-new-york-hospital-american-heritage-treasures-in-urgent-need-of-preservation-180989058/</link>
+      <description>
+        <![CDATA[For its “Irreplaceable America” list in honor of the 250th birthday of the U.S., the World Monuments Fund chose endangered historic sites of innovation, creativity and spirituality to publicize and support]]>
+      </description>
+      <source:markdown>For its “Irreplaceable America” list in honor of the 250th birthday of the U.S., the World Monuments Fund chose endangered historic sites of innovation, creativity and spirituality to publicize and support</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qNMMIikyze32lPU__9B5EfwRTnk=/420x240/filters:focal(1000x666:1001x667)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/ec/34eca255-35df-4830-8f2b-0b1d7aca84b2/ny_smallpox_hospital_-_west_manhattan-facing_facade_-_max_touhey.jpeg" length="2225118" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/oldest-black-church-wright-brothers-homes-new-york-hospital-american-heritage-treasures-in-urgent-need-of-preservation-180989058/</guid>
+    </item>    <item>
+      <title>An Archival Discovery Became a Treasure Map Leading a Diver to a 17th-Century Shipwreck Carrying Coins and Gold Jewelry</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-archival-discovery-became-a-treasure-map-leading-a-diver-to-a-17th-century-shipwreck-carrying-coins-and-gold-jewelry-180989063/</link>
+      <description>
+        <![CDATA[See artifacts recovered thanks to a clue about the last resting place of a lost captain from an East India Company ship that went down near the Isles of Scilly]]>
+      </description>
+      <source:markdown>See artifacts recovered thanks to a clue about the last resting place of a lost captain from an East India Company ship that went down near the Isles of Scilly</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KXkV3N8soYF93o192ZbGv2oFcmY=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/d5/d2d574e6-40de-4620-bbae-9c8947ba0ecc/xavier_and_todd_1.jpg" length="408824" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/an-archival-discovery-became-a-treasure-map-leading-a-diver-to-a-17th-century-shipwreck-carrying-coins-and-gold-jewelry-180989063/</guid>
+    </item>    <item>
+      <title>Earth Might Be Home to 20 Million Insect Species—More Than Three Times as Many as Previously Thought, a Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/earth-might-be-home-to-20-million-insect-speciesmore-than-three-times-as-many-as-previously-thought-a-study-suggests-180989062/</link>
+      <description>
+        <![CDATA[Recent estimates have come to the consensus that our planet hosts roughly six million species. But new research reveals that those counts may be drastically underestimated]]>
+      </description>
+      <source:markdown>Recent estimates have come to the consensus that our planet hosts roughly six million species. But new research reveals that those counts may be drastically underestimated</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aXEZiRVnU86Bl-fF3lbFAA8Bhz8=/420x240/filters:focal(4801x2607:4802x2608)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/82/4e82064b-f738-49d4-a886-f5b4ae7a8a70/insect-biodiversity.jpg" length="20344722" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/earth-might-be-home-to-20-million-insect-speciesmore-than-three-times-as-many-as-previously-thought-a-study-suggests-180989062/</guid>
+    </item>    <item>
+      <title>Astrophysicists Puzzle Over Webb’s New Universe</title>
+      <link>https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/</link>
+      <description>
+        <![CDATA[Faced with observations of early black holes and galaxies that weren’t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true.            <p>The post <a href="https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/" target="_blank">Astrophysicists Puzzle Over Webb’s New Universe</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Faced with observations of early black holes and galaxies that weren’t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true.
+
+The post [Astrophysicists Puzzle Over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=163841</guid>
+      <category>Physics</category>
+    </item>    <item>
+      <title>Good Morning, Earth!</title>
+      <link>https://www.nasa.gov/image-article/good-morning-earth/</link>
+      <description>
+        <![CDATA[NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets. Learn more about the orbiting laboratory. Image credit: NASA/Chris Williams]]>
+      </description>
+      <source:markdown>NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets. Learn more about the orbiting laboratory. Image credit: NASA/Chris Williams</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1014204</guid>
+      <category>International Space Station (ISS)</category>
+    </item>    <item>
+      <title>NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration</title>
+      <link>https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/</link>
+      <description>
+        <![CDATA[NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of […]]]>
+      </description>
+      <source:markdown>NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/</guid>
+      <category>Astrophysics</category>
+      <category>Goddard Space Flight Center</category>
+      <category>James Webb Space Telescope (JWST)</category>
+      <category>Protostars</category>
+      <category>Science &#38; Research</category>
+      <category>Stars</category>
+      <category>The Universe</category>
+    </item>    <item>
       <title>Joyride Through July With 12 Games Coming to GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/</link>
       <description>
@@ -2418,6 +2627,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 The post [Mobile Progress Report: June 2026](https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
       <guid>cid://https://blog.thunderbird.net/?p=4319</guid>
       <category>Development</category>
+      <category>Mobile</category>
       <category>Android</category>
       <category>Android Progress Report</category>
       <category>iOS</category>
@@ -2809,175 +3019,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/</guid>
-    </item>    <item>
-      <title>NASA Award Boosts Space Technology Research Capabilities</title>
-      <link>https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/</link>
-      <description>
-        <![CDATA[NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the [&#8230;]]]>
-      </description>
-      <source:markdown>NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1005156</guid>
-    </item>    <item>
-      <title>See Stunning Photos of New National Park Land That Soon Will Be Accessible From America&#39;s Longest National Trail</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-stunning-photos-of-new-national-park-land-that-soon-will-be-accessible-from-americas-longest-national-trail-180988943/</link>
-      <description>
-        <![CDATA[The 213 acres of land in far northern Wisconsin, along the southern shore of Lake Superior, include a waterfall]]>
-      </description>
-      <source:markdown>The 213 acres of land in far northern Wisconsin, along the southern shore of Lake Superior, include a waterfall</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RetrGvv7TPBNzAE7OCiWWQeUJn8=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/4b/304b6aad-d391-445d-a6c4-75c1f29f8965/wi_superiorfalls_09182025_099.jpg" length="21242710" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-stunning-photos-of-new-national-park-land-that-soon-will-be-accessible-from-americas-longest-national-trail-180988943/</guid>
-    </item>    <item>
-      <title>NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center</title>
-      <link>https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/</link>
-      <description>
-        <![CDATA[Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]]]>
-      </description>
-      <source:markdown>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/</guid>
-    </item>    <item>
-      <title>Mule Deer Are Already Using California&#39;s First Wildlife Crossing—and It&#39;s Not Even Finished Yet</title>
-      <link>https://www.smithsonianmag.com/smart-news/mule-deer-are-already-using-californias-first-wildlife-crossing-and-its-not-even-finished-yet-180988933/</link>
-      <description>
-        <![CDATA[Construction on the $20 million bridge in Siskiyou County began last year and is expected to be complete by this fall, with miles of eight-foot-high fencing along the highway to help funnel animals toward it]]>
-      </description>
-      <source:markdown>Construction on the $20 million bridge in Siskiyou County began last year and is expected to be complete by this fall, with miles of eight-foot-high fencing along the highway to help funnel animals toward it</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UbfoUjz6zar8RJiBMMDDYIW3Q-o=/420x240/filters:focal(1632x1228:1633x1229)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/1a/e41a6dcb-a4e8-4c91-80bf-fb88677cc733/overcrossing_construction_c_uc_davis_road_ecology_center.jpeg" length="2909487" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/mule-deer-are-already-using-californias-first-wildlife-crossing-and-its-not-even-finished-yet-180988933/</guid>
-    </item>    <item>
-      <title>I Am Artemis: Elkin Norena</title>
-      <link>https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/</link>
-      <description>
-        <![CDATA[Listen to this audio excerpt from Elkin Norena, resident management officer, NASA&#8217;s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build [&#8230;]]]>
-      </description>
-      <source:markdown>Listen to this audio excerpt from Elkin Norena, resident management officer, NASA’s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1005026</guid>
-    </item>    <item>
-      <title>NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors</title>
-      <link>https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/</link>
-      <description>
-        <![CDATA[A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.]]>
-      </description>
-      <source:markdown>A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/</guid>
-    </item>    <item>
-      <title>See Visions of the Past and Future in This New York City Exhibition on the Renaissance Roots of Tarot Cards</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-visions-of-the-past-and-future-in-this-new-york-city-exhibition-on-the-renaissance-roots-of-tarot-cards-180988940/</link>
-      <description>
-        <![CDATA[The Morgan Library & Museum traces the history of beautifully illustrated tarot cards from their origins as a card game to modern occult fascination]]>
-      </description>
-      <source:markdown>The Morgan Library &#38; Museum traces the history of beautifully illustrated tarot cards from their origins as a card game to modern occult fascination</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rg_8u2MS070qDUydCdmTkHr4aD4=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/21/27218c9e-6eeb-4fd9-9f0d-a633fa4b844a/tarot.jpg" length="583666" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-visions-of-the-past-and-future-in-this-new-york-city-exhibition-on-the-renaissance-roots-of-tarot-cards-180988940/</guid>
-    </item>    <item>
-      <title>Scientists Invented a Disease to Test Whether A.I. Knew It Was Fake. Then, Chatbots Started Saying It Was Real</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-invented-a-disease-to-test-whether-ai-knew-it-was-fake-then-chatbots-started-saying-it-was-real-180988924/</link>
-      <description>
-        <![CDATA[The eye condition bixonimania doesn't exist, but neither bots nor some researchers caught that the content was fabricated—despite obvious clues]]>
-      </description>
-      <source:markdown>The eye condition bixonimania doesn&#39;t exist, but neither bots nor some researchers caught that the content was fabricated—despite obvious clues</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2BkkcTHwS5Txxt2AR5X00VtGKlM=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5e/bd/5ebd42b8-161b-419d-b2bc-2d9880d0a4ef/2149196192.jpg" length="1377694" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-invented-a-disease-to-test-whether-ai-knew-it-was-fake-then-chatbots-started-saying-it-was-real-180988924/</guid>
-    </item>    <item>
-      <title>Web browsers on video game consoles</title>
-      <link>https://www.osnews.com/story/145282/web-browsers-on-video-game-consoles/</link>
-      <description>
-        <![CDATA[Video game consoles have a long history with web browsers. From the advent of the World Wide Web, consoles have been trying to get online. Browsers on video game consoles were initially very much an attempt to provide a cheap gateway to the web for a casual audience lacking technical expertise, though as time progressed they’ve become a greater and more integrated part of systems. This article takes a look at browsers on video game consoles in detail, though only covers official web browsers. Many consoles have browsers installable via custom firmware and homebrew, but they’re beyond the scope of this post, as are non-web systems such as Satellaview and online services that didn’t provide a browser, such as XBAND, Sega Meganet, and Sega Channel. ↫ Declan Chidlow The article starts off with the Philips CD-I, which has always been a fascinating product for technology fans in The Netherlands because that&#8217;s where Philips is from. Memory that far back is untrustworthy, but I can definitely remember being inundated with commercials, advertising, magazine articles, and newspaper reports about the CD-I, all throughout its rather troubled life. Yet, I don&#8217;t remember anything about it being capable of browsing a rudimentary web. Of course, we&#8217;re talking 1995 here, a time when I didn&#8217;t even have internet at home yet, although I did use the web at a friend&#8217;s place at that time. We didn&#8217;t get internet at home until I think 1997 or 1998, followed by the move to broadband cable internet just a year later, since our small rural town happened to be one of the first places to get broadband. Good times. Did anyone ever actually use browsers on consoles, though? I mean, using them always felt incredibly clunky, and by the time they were capable enough to really do anything we all had laptops and later smartphones anyway. I certainly don&#8217;t remember anyone using them for anything but a gimmick, but perhaps my sample size was far too small and not diverse enough.]]>
-      </description>
-      <source:markdown>Video game consoles have a long history with web browsers. From the advent of the World Wide Web, consoles have been trying to get online. Browsers on video game consoles were initially very much an attempt to provide a cheap gateway to the web for a casual audience lacking technical expertise, though as time progressed they’ve become a greater and more integrated part of systems. This article takes a look at browsers on video game consoles in detail, though only covers official web browsers. Many consoles have browsers installable via custom firmware and homebrew, but they’re beyond the scope of this post, as are non-web systems such as Satellaview and online services that didn’t provide a browser, such as XBAND, Sega Meganet, and Sega Channel. ↫ Declan Chidlow The article starts off with the Philips CD-I, which has always been a fascinating product for technology fans in The Netherlands because that’s where Philips is from. Memory that far back is untrustworthy, but I can definitely remember being inundated with commercials, advertising, magazine articles, and newspaper reports about the CD-I, all throughout its rather troubled life. Yet, I don’t remember anything about it being capable of browsing a rudimentary web. Of course, we’re talking 1995 here, a time when I didn’t even have internet at home yet, although I did use the web at a friend’s place at that time. We didn’t get internet at home until I think 1997 or 1998, followed by the move to broadband cable internet just a year later, since our small rural town happened to be one of the first places to get broadband. Good times. Did anyone ever actually use browsers on consoles, though? I mean, using them always felt incredibly clunky, and by the time they were capable enough to really do anything we all had laptops and later smartphones anyway. I certainly don’t remember anyone using them for anything but a gimmick, but perhaps my sample size was far too small and not diverse enough.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145282</guid>
-    </item>    <item>
-      <title>Four Reasons You Should Know More About Gordon S. Wood, the Scholar of the American Revolution Who Died This Week at Age 92</title>
-      <link>https://www.smithsonianmag.com/smart-news/four-reasons-why-you-should-know-gordon-s-wood-esteemed-scholar-of-the-american-revolution-who-died-this-week-at-age-92-180988937/</link>
-      <description>
-        <![CDATA[The Pulitzer Prize-winning historian, who wrote of the "radicalism" of the country’s founding, was killed in a car collision in a parking lot]]>
-      </description>
-      <source:markdown>The Pulitzer Prize-winning historian, who wrote of the &#34;radicalism&#34; of the country’s founding, was killed in a car collision in a parking lot</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IRT9pb9TxpYqaU6pn2DZLND9A9o=/420x240/filters:focal(2286x1785:2287x1786)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cd/94/cd94e935-2249-4e2c-8095-56376971f0ec/wood.jpg" length="5543063" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/four-reasons-why-you-should-know-gordon-s-wood-esteemed-scholar-of-the-american-revolution-who-died-this-week-at-age-92-180988937/</guid>
-    </item>    <item>
-      <title>Soccer Meets Space Science</title>
-      <link>https://www.nasa.gov/image-article/soccer-meets-space-science/</link>
-      <description>
-        <![CDATA[A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard [&#8230;]]]>
-      </description>
-      <source:markdown>A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1004967</guid>
-    </item>    <item>
-      <title>NASA’s Career Technical Education Day Highlights Technical Careers</title>
-      <link>https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/</link>
-      <description>
-        <![CDATA[At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in advancing the agency’sresearch and missions, applying hands-on expertise across engineering, fabrication,electronics, and countless other technical fields. To help cultivate the next generation of technical talent, NASA’s Office of STEM Engagementhosted Career Technical Education [&#8230;]]]>
-      </description>
-      <source:markdown>At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in advancing the agency’sresearch and missions, applying hands-on expertise across engineering, fabrication,electronics, and countless other technical fields. To help cultivate the next generation of technical talent, NASA’s Office of STEM Engagementhosted Career Technical Education \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1005005</guid>
-    </item>    <item>
-      <title>NASA, USGS Scientists Go Rock Hounding in California’s High Desert</title>
-      <link>https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/</link>
-      <description>
-        <![CDATA[Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The geologists weren’t searching for gem-grade treasure. Rather, the presence of topaz could hint at a more valuable [&#8230;]]]>
-      </description>
-      <source:markdown>Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The geologists weren’t searching for gem-grade treasure. Rather, the presence of topaz could hint at a more valuable \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1004977</guid>
-    </item>    <item>
-      <title>Archaeologists Unearth a Marble Aphrodite, a Pharaoh&#39;s Cartouche and a Roman Basilica, All in One Ancient Egyptian City</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-an-marble-aphrodite-a-pharoahs-cartouche-and-a-roman-basilica-all-in-one-ancient-egyptian-city-180988930/</link>
-      <description>
-        <![CDATA[The collection of artifacts represents the layered history of Ehnasiya, an ancient Egyptian capital that became the Roman city of Heracleópolis Magna]]>
-      </description>
-      <source:markdown>The collection of artifacts represents the layered history of Ehnasiya, an ancient Egyptian capital that became the Roman city of Heracleópolis Magna</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/onDSg5MQ4DzTC8iX_gIr6LO8U3w=/420x240/filters:focal(675x450:676x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/4a/ab4ad517-b6a2-4968-baf8-dab7c6dcbcdc/712924219_1404909941670548_3990995856965952204_n.jpeg" length="911362" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-unearth-an-marble-aphrodite-a-pharoahs-cartouche-and-a-roman-basilica-all-in-one-ancient-egyptian-city-180988930/</guid>
-    </item>    <item>
-      <title>MacOS 27 drops Intel support, will be last release with Rosetta 2</title>
-      <link>https://www.osnews.com/story/145279/macos-27-drops-intel-support-will-be-last-release-with-rosetta-2/</link>
-      <description>
-        <![CDATA[With the announcement of an upcoming new macOS release also come the usual changes in which Macs will still be supported. MacOS 27 Golden Gate is an important release in this regard, as it will be the first release of Apple&#8217;s desktop operating system that will be entirely ARM-only, dropping support for all Intel Macs. It&#8217;s important to note that Apple will provide three more years of security updates for the final Intel release of macOS, so Intel users won&#8217;t be dropped like a brick immediately. Still, the Intel Mac Pro was still being sold all the way up until mid-2023, and I&#8217;d be royally pissed off if my expensive 2023 Intel Mac went out of support a mere six years after purchase. They weren&#8217;t cheap machines, and while you can argue everybody knew the writing was on the wall for the Intel Mac Pro in 2023, it still feels way too short of a supported lifespan for such an expensive, high-end piece of equipment. It didn&#8217;t sell many units, I&#8217;m sure, but still. In addition, MacOS 27 will be the last release to include the Rosetta 2 translation layer that allows Intel binaries to run on ARM macOS. I have no idea how many important applications are still Intel-only, but I have a feeling that number is going to be relatively small, and will become even smaller as the first macOS release without Rosetta 2 support nears release. On top op of that, I&#8217;m sure enterprising users will find a way to transplant Rosetta 2 onto unsupported macOS releases, and if all else fails, there&#8217;s always virtual machines.]]>
-      </description>
-      <source:markdown>With the announcement of an upcoming new macOS release also come the usual changes in which Macs will still be supported. MacOS 27 Golden Gate is an important release in this regard, as it will be the first release of Apple’s desktop operating system that will be entirely ARM-only, dropping support for all Intel Macs. It’s important to note that Apple will provide three more years of security updates for the final Intel release of macOS, so Intel users won’t be dropped like a brick immediately. Still, the Intel Mac Pro was still being sold all the way up until mid-2023, and I’d be royally pissed off if my expensive 2023 Intel Mac went out of support a mere six years after purchase. They weren’t cheap machines, and while you can argue everybody knew the writing was on the wall for the Intel Mac Pro in 2023, it still feels way too short of a supported lifespan for such an expensive, high-end piece of equipment. It didn’t sell many units, I’m sure, but still. In addition, MacOS 27 will be the last release to include the Rosetta 2 translation layer that allows Intel binaries to run on ARM macOS. I have no idea how many important applications are still Intel-only, but I have a feeling that number is going to be relatively small, and will become even smaller as the first macOS release without Rosetta 2 support nears release. On top op of that, I’m sure enterprising users will find a way to transplant Rosetta 2 onto unsupported macOS releases, and if all else fails, there’s always virtual machines.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145279</guid>
-    </item>    <item>
-      <title>NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit</title>
-      <link>https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/</link>
-      <description>
-        <![CDATA[NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its science mission lifespan and advancing a key [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its science mission lifespan and advancing a key \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1004950</guid>
-    </item>    <item>
-      <title>What’s the Future of Gene Editing?</title>
-      <link>https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/</link>
-      <description>
-        <![CDATA[In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology.            <p>The post <a href="https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/" target="_blank">What’s the Future of Gene Editing?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology.
-
-The post [What’s the Future of Gene Editing?](https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=162989</guid>
-    </item>    <item>
-      <title>Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/</link>
-      <description>
-        <![CDATA[The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&#8230;]]]>
-      </description>
-      <source:markdown>The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94388</guid>
-    </item>    <item>
-      <title>A Rare Meteorite Found in the Sahara Desert Offers Evidence of a Lost Protoplanet</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-rare-meteorite-found-in-the-sahara-desert-offers-evidence-of-a-lost-protoplanet-180988932/</link>
-      <description>
-        <![CDATA[Chemical signatures indicate the meteorite came from an early planet that met an untimely end during the formation of our solar system]]>
-      </description>
-      <source:markdown>Chemical signatures indicate the meteorite came from an early planet that met an untimely end during the formation of our solar system</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Baa6ObPg9cXgp4zjHtNLVcdZGsE=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/76/47762599-0046-4ac9-9893-0b8dc14c1f34/low-res_1_56_gram_40mm_wide_part_slicemauto.jpg" length="97659" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-rare-meteorite-found-in-the-sahara-desert-offers-evidence-of-a-lost-protoplanet-180988932/</guid>
-    </item>    <item>
-      <title>Air Pollution’s Daily Pulse Over the Northeast</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</link>
-      <description>
-        <![CDATA[The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.]]>
-      </description>
-      <source:markdown>The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</guid>
     </item>
   </channel>
 </rss>

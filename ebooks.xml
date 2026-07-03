@@ -4,10 +4,115 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>02 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>03 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A tin cup trophy by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/78987</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Last and first men : by Olaf Stapledon</title>
+      <link>https://www.gutenberg.org/ebooks/79003</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Odyssey by Homer</title>
+      <link>https://www.gutenberg.org/ebooks/3160</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rikottu ruukku : by Heinrich von Kleist</title>
+      <link>https://www.gutenberg.org/ebooks/78997</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Suuri voima by Zakarias Nielsen</title>
+      <link>https://www.gutenberg.org/ebooks/79002</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Madge Hardwicke; or, The mists of the valley by Agnes Giberne</title>
+      <link>https://www.gutenberg.org/ebooks/79005</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Psychology for beginners by Hereward Carrington</title>
+      <link>https://www.gutenberg.org/ebooks/78996</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Gordon at Khartoum : by Wilfrid Scawen Blunt</title>
+      <link>https://www.gutenberg.org/ebooks/78995</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kreivitär Käthe naimisissa by Eufemia von Adlersfeld-Ballestrem</title>
+      <link>https://www.gutenberg.org/ebooks/79001</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The perfect wife by Phyllis Bottome</title>
+      <link>https://www.gutenberg.org/ebooks/78994</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The life of Eliot : by Nehemiah Adams</title>
+      <link>https://www.gutenberg.org/ebooks/79004</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Unelmien maa : by Bernt Lie</title>
+      <link>https://www.gutenberg.org/ebooks/78998</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Pakanoita : by Ferenc Herczeg</title>
+      <link>https://www.gutenberg.org/ebooks/78999</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Hotel by Elizabeth Bowen</title>
+      <link>https://www.gutenberg.org/ebooks/79006</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Bismarck in Geschichte, Karikatur und Anekdote : by Paul Liman</title>
+      <link>https://www.gutenberg.org/ebooks/79000</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
       <title>An introduction to philology : by Clement Wood</title>
       <link>https://www.gutenberg.org/ebooks/78985</link>
       <description>
@@ -57,13 +162,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>A tin cup trophy by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78987</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Badinage by Jean de La Brète</title>
       <link>https://www.gutenberg.org/ebooks/78993</link>
       <description>
@@ -101,7 +199,7 @@
         <![CDATA[The life of Jesus of Nazareth is examined through the lens of the people around him.]]>
       </description>
       <source:markdown>The life of Jesus of Nazareth is examined through the lens of the people around him.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/kahlil-gibran_jesus-the-son-of-man.epub?source=feed" length="490101" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/kahlil-gibran_jesus-the-son-of-man.epub?source=feed" length="490116" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man</guid>
       <category>Fiction</category>
       <category>Shorts</category>
@@ -1215,88 +1313,6 @@
     </item>    <item>
       <title>West African forests and forestry by Arthur Harold Unwin</title>
       <link>https://www.gutenberg.org/ebooks/78844</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Partners in Crime, by Agatha Christie</title>
-      <link>https://standardebooks.org/ebooks/agatha-christie/partners-in-crime</link>
-      <description>
-        <![CDATA[A young married couple take over running an “International Detective Agency.”]]>
-      </description>
-      <source:markdown>A young married couple take over running an “International Detective Agency.”</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/agatha-christie/partners-in-crime/downloads/agatha-christie_partners-in-crime.epub?source=feed" length="471330" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/agatha-christie/partners-in-crime</guid>
-      <category>Fiction</category>
-      <category>Mystery</category>
-      <category>Shorts</category>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/1067</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant, Complete by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/4367</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant, Part 2. by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/5861</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Vicomte de Bragelonne by Alexandre Dumas and Auguste Maquet</title>
-      <link>https://www.gutenberg.org/ebooks/2609</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Moby-Dick; or, The Whale by Herman Melville</title>
-      <link>https://www.gutenberg.org/ebooks/15</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Far to seek : by Maud Diver</title>
-      <link>https://www.gutenberg.org/ebooks/15704</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lo ferrer de tall : by Frederic Soler i Hubert</title>
-      <link>https://www.gutenberg.org/ebooks/78837</link>
-      <description>
-        <![CDATA[Language: Catalan]]>
-      </description>
-      <source:markdown>Language: Catalan</source:markdown>
-    </item>    <item>
-      <title>Fruits of enterprize exhibited in the adventures of Belzoni in Egypt and Nubia : by Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/78838</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Aodh Ó Néill : by Conán Maol</title>
-      <link>https://www.gutenberg.org/ebooks/78840</link>
-      <description>
-        <![CDATA[Language: Irish]]>
-      </description>
-      <source:markdown>Language: Irish</source:markdown>
-    </item>    <item>
-      <title>Bread and cake baking : by Frederick D. Hauptmann</title>
-      <link>https://www.gutenberg.org/ebooks/78839</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
