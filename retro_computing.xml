@@ -4,10 +4,27 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>03 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>04 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Life and Times of Maxis, Part 1: SimEverything</title>
+      <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</link>
+      <description>
+        <![CDATA[This article tells part of the story of Maxis Software. I&#8217;m still to this day just blown away by continental drift and things like that, stuff that most people think sounds pretty boring. &#8212; Will Wright Gamers are both extremely dedicated to and really good at preserving the history of their hobby. Seldom has a [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells part of the story of Maxis Software. I’m still to this day just blown away by continental drift and things like that, stuff that most people think sounds pretty boring. — Will Wright Gamers are both extremely dedicated to and really good at preserving the history of their hobby. Seldom has a \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6812</guid>
+      <category>Digital Antiquaria</category>
+      <category>Interactive Fiction</category>
+      <category>maxis</category>
+      <category>simant</category>
+      <category>simcity</category>
+      <category>simearth</category>
+      <category>simfarm</category>
+      <category>simlife</category>
+      <category>wright</category>
+    </item>    <item>
       <title>b.log 2026/07/02 - Nothing works... (comme d&#39;hab), Small parcels to the EU, Earth is a death world.</title>
       <link>https://heyrick.eu/blog/entry/20260702</link>
       <description>
@@ -2515,35 +2532,6 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
       <category>software</category>
       <category>technology</category>
       <category>understanding LLMs</category>
-    </item>    <item>
-      <title>EU Open Source Strategy Plays Key Role in Tech Sovereignty Package</title>
-      <link>http://www.linux-magazine.com/Online/News/EU-Open-Source-Strategy-Plays-Key-Role-in-Tech-Sovereignty-Package</link>
-      <description>
-        <![CDATA[<p>Comprehensive measures adopted by the European Commission aim to reduce dependency on non-EU countries.</p>]]>
-      </description>
-      <source:markdown>Comprehensive measures adopted by the European Commission aim to reduce dependency on non-EU countries.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://daebaf8df18a8c4b9f43a98f446bd287</guid>
-    </item>    <item>
-      <title>Developers’ fireside chat – 13th June</title>
-      <link>https://www.riscository.com/2026/developers-fireside-chat-13th-june/</link>
-      <description>
-        <![CDATA[If you develop software on or for RISC OS, or you&#8217;re considering doing so &#8211; or you&#8217;re working on the operating system itself, there&#8217;s an online meeting on Saturday, 13th June, 2026, that might be right up your street. That&#8217;ll be the next &#8216;friendly fireside chat&#8217; for developers of all persuasions and skill levels &#8211; the only crucial requirement is that it&#8217;s about RISC OS programming. The purpose of these meetings is to provide a way for developers and those interested in the topic to get together (virtually) and have&#8230;]]>
-      </description>
-      <source:markdown>If you develop software on or for RISC OS, or you’re considering doing so – or you’re working on the operating system itself, there’s an online meeting on Saturday, 13th June, 2026, that might be right up your street. That’ll be the next ‘friendly fireside chat’ for developers of all persuasions and skill levels – the only crucial requirement is that it’s about RISC OS programming. The purpose of these meetings is to provide a way for developers and those interested in the topic to get together (virtually) and have…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10959</guid>
-      <category>Programming</category>
-      <category>Coding</category>
-      <category>Developing</category>
-      <category>Fireside chat</category>
-    </item>    <item>
-      <title>Rougol June 2026 meeting on monday - Phil Pemberton looks at Replay</title>
-      <link>http://www.iconbar.com/comments/rss/news2340.html</link>
-      <description>
-        <![CDATA[The June 2026 Rougol meeting is on Monday and features Phil Pemberton looking into Replay.]]>
-      </description>
-      <source:markdown>The June 2026 Rougol meeting is on Monday and features Phil Pemberton looking into Replay.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2340.html</guid>
     </item>
   </channel>
 </rss>
