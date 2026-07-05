@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>05 Jul 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 08:27 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -43,6 +43,33 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       </description>
       <source:markdown>1984, Minority Report, Black Mirror — bedtime stories compared to the horrors the UK Government publish, am I right? I’m led to believe “Watch this space” is the latest propaganda piece from His Majesty’s Nanny State. I haven’t read past the title but according to gaming site Dexerto, YouTube \[…\]</source:markdown>
       <guid>cid://https://dbushell.com/2026/07/06/behold-the-perfect-algorithm/</guid>
+    </item>    <item>
+      <title>Why ‘Minions &#38; Monsters’ Slipped On A Banana Peel In U.S. With Franchise Low 5-Day Opening Of $61M+ — Sunday AM Update</title>
+      <link>https://deadline.com/2026/07/box-office-minions-monsters-1236972754/</link>
+      <description>
+        <![CDATA[SUNDAY AM WRITETHRU: Following Supergirl&#8216;s plummet to Earth last weekend, and the pain that&#8217;s caused the James Gunn and Peter Safran&#8217;s DC, the general media might be quick to declare the death of Illumination/Universal&#8217;s Minions this weekend after the franchise&#8217;s lowest result with $36.4M 3-day and $61.4M 5-day from Minions &#38; Monsters. But to quote [&#8230;]]]>
+      </description>
+      <source:markdown>SUNDAY AM WRITETHRU: Following Supergirl‘s plummet to Earth last weekend, and the pain that’s caused the James Gunn and Peter Safran’s DC, the general media might be quick to declare the death of Illumination/Universal’s Minions this weekend after the franchise’s lowest result with $36.4M 3-day and $61.4M 5-day from Minions &#38; Monsters. But to quote \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236972754</guid>
+      <category>News</category>
+      <category>Illumination</category>
+      <category>Minions &#38; Monsters</category>
+      <category>Universal</category>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books -  Zoroastrianism And The Arthur C Clarke Award</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-99/</link>
+      <description>
+        <![CDATA[Writing of lasting value]]>
+      </description>
+      <source:markdown>Writing of lasting value</source:markdown>
+      <guid>cid://6a47bc4fcd98d1000161aa4b</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/05.html#a145523</link>
+      <description>
+        <![CDATA[I live in a place where the power goes out when there's a big storm. When the power comes back 15 hours later, you appreciate air conditioning in a whole new way.]]>
+      </description>
+      <source:markdown>I live in a place where the power goes out when there&#39;s a big storm. When the power comes back 15 hours later, you appreciate air conditioning in a whole new way.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/05.html#a145523</guid>
     </item>    <item>
       <link>https://www.nytimes.com/2026/07/05/science/bird-brain-music-communication.html?unlocked_article_code=1.vVA.UO7c._ePK016eIygz&#38;smid=url-share</link>
       <description>
@@ -855,18 +882,6 @@ worthwhile.</source:markdown>
       <category>data center</category>
       <category>global warming</category>
       <category>lm studio</category>
-    </item>    <item>
-      <title>‘Minions &#38; Monsters’ Coming Up Short With $63M 5-Day U.S. — Friday Box Office Update</title>
-      <link>https://deadline.com/2026/07/box-office-minions-monsters-1236972754/</link>
-      <description>
-        <![CDATA[FRIDAY PM UPDATE: Illumination/Universal&#8217;s Minions &#38; Monsters is creating less frenzy then expected with a 5-day start of $63.5M in North America versus the $80M that was hoped. Current 3-day is $38.5M at 4,243 theaters, making Minions &#38; Monsters easily No. 1. Note some exhibitors noticed in their forecasts that the little guys could be [&#8230;]]]>
-      </description>
-      <source:markdown>FRIDAY PM UPDATE: Illumination/Universal’s Minions &#38; Monsters is creating less frenzy then expected with a 5-day start of $63.5M in North America versus the $80M that was hoped. Current 3-day is $38.5M at 4,243 theaters, making Minions &#38; Monsters easily No. 1. Note some exhibitors noticed in their forecasts that the little guys could be \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236972754</guid>
-      <category>News</category>
-      <category>Illumination</category>
-      <category>Minions &#38; Monsters</category>
-      <category>Universal</category>
     </item>    <item>
       <title>Bam Margera Plans To Watch ‘Jackass: Best &#38; Last’ But Reunion Is “Not Going To Happen”</title>
       <link>https://deadline.com/2026/07/bam-margera-plans-watch-jackass-best-last-1236974064/</link>
@@ -10787,8 +10802,8 @@ But I am 58. In a decade or so I can retire, and I will be dead in another decad
 
 ![comment count unavailable](https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&#38;ditemid=98868) comments</source:markdown>
       <guid>cid://https://liam-on-linux.dreamwidth.org/98868.html</guid>
-      <category>comment</category>
       <category>lobsters</category>
+      <category>comment</category>
       <category>rambling</category>
     </item>    <item>
       <title>What Will AI Do To Our Minds?</title>

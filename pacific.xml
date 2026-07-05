@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[Items of interest to the Pacific community and the Pacific RIM]]></title>
     <link>https://rsdoiel.github.io/antenna/pacific.xml</link>
-    <lastBuildDate>05 Jul 26 06:32 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 08:17 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bavi may hit Rota;</title>
+      <link>https://www.pacificislandtimes.com/post/bavi-may-hit-rota-bavi-arriving-around-8am-monday</link>
+      <description>
+        <![CDATA[By Pacific Island Times News Staff Guam shelters have reached 50 percent capacity as heavy rains and strong winds set in, with Typhoon Bavi anticipated to make landfall around 8 a.m. Monday morning.  The latest weather forecast indicated that Rota may face the greatest risk. “Right at the center, those vicious 120 to 160 mile per hour sustained winds are going to be very close to the center," Brandon Aydlett, a meteorologist at the National Weather Service, said at a briefing this afternoon....]]>
+      </description>
+      <source:markdown>By Pacific Island Times News Staff Guam shelters have reached 50 percent capacity as heavy rains and strong winds set in, with Typhoon Bavi anticipated to make landfall around 8 a.m. Monday morning. The latest weather forecast indicated that Rota may face the greatest risk. “Right at the center, those vicious 120 to 160 mile per hour sustained winds are going to be very close to the center,&#34; Brandon Aydlett, a meteorologist at the National Weather Service, said at a briefing this afternoon....</source:markdown>
+      <enclosure url="https://static.wixstatic.com/media/b40a18_5ec36c55d3d6452baba0f43478d8a742~mv2.png/v1/fit/w_1000,h_655,al_c,q_80/file.png" length="0" type="image/png" />
+      <guid>cid://6a4a54260e6d4656949aca92</guid>
+      <category>Guam News &#38; Features</category>
+    </item>    <item>
       <title>Stage set for historic Sara Duterte trial, with her 2028 dreams on the line</title>
       <link>https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-begins-july-6-2026/</link>
       <description>
@@ -53,7 +63,7 @@
       <source:markdown>Taipei, July 5 (CNA) The National Immigration Agency (NIA) on Sunday urged travelers not to bring pork or other meat products from African swine fever (ASF)-affected areas into Taiwan during the summer travel season to prevent the spread of the disease.</source:markdown>
       <guid>cid://CNA/20260705/202607050011</guid>
     </item>    <item>
-      <title>Guam, CNMI better educated about typhoons</title>
+      <title>Guam, CNMI better informed about typhoons</title>
       <link>https://www.pacificislandtimes.com/post/guam-cnmi-better-educated-about-typhoons</link>
       <description>
         <![CDATA[Residents of Guam and the Northern Mariana Islands tune in to the National Weather Service’s live-streamed daily briefings on Facebook for the latest updates on Super Typhoon Bavi’s track, speed and location.]]>

@@ -5,10 +5,34 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>05 Jul 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 08:16 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Here’s where to watch the Mexico vs. England World Cup game in Koreatown, Pico Union, Westlake</title>
+      <link>https://laist.com/news/los-angeles-activities/heres-where-to-watch-the-mexico-vs-england-world-cup-game-in-koreatown-pico-union-westlake</link>
+      <description>
+        <![CDATA[Bars, restaurants, and other fun spots to watch Mexico’s Round of 16 game today.]]>
+      </description>
+      <source:markdown>Bars, restaurants, and other fun spots to watch Mexico’s Round of 16 game today.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-3293-dfd2-abbf-bf939e9c0000</guid>
+    </item>    <item>
+      <title>New $32M facility gives Ventura County firefighters a realistic training experience</title>
+      <link>https://laist.com/news/new-32m-facility-gives-ventura-county-firefighters-a-realistic-training-experience</link>
+      <description>
+        <![CDATA[Instructors can trigger flames and smoke in custom concrete buildings via remote control to give firefighters experience battling different blazes.]]>
+      </description>
+      <source:markdown>Instructors can trigger flames and smoke in custom concrete buildings via remote control to give firefighters experience battling different blazes.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-2e27-d327-a39f-2eaf54bc0000</guid>
+    </item>    <item>
+      <title>How a fertilizer shortage caused by the Iran war could affect US food prices</title>
+      <link>https://laist.com/news/how-a-fertilizer-shortage-caused-by-the-iran-war-could-affect-us-food-prices</link>
+      <description>
+        <![CDATA[Before the war, around one-third of the world's fertilizer transported by sea passed through the Strait of Hormuz, according to UN Trade and Development.]]>
+      </description>
+      <source:markdown>Before the war, around one-third of the world&#39;s fertilizer transported by sea passed through the Strait of Hormuz, according to UN Trade and Development.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-2e12-d504-a19f-fed21c640000</guid>
+    </item>    <item>
       <title>But first, coffee: The drink that energized the American Revolution</title>
       <link>https://laist.com/news/but-first-coffee-the-drink-that-energized-the-american-revolution</link>
       <description>
@@ -568,6 +592,14 @@ The post [Burrito King In Echo Park, 1968-2026](https://lataco.com/burrito-king-
       </description>
       <source:markdown>Data from LAPD show fatal shootings involving unhoused victims are clustered around encampments in Skid Row. Experts are divided on how to reduce those killings.</source:markdown>
       <guid>cid://urn:uuid:0000019f-1a9a-d137-adff-bafee2880000</guid>
+    </item>    <item>
+      <title>Mexico is having a spectacular World Cup run, and Los Angeles is loving it</title>
+      <link>https://laist.com/news/los-angeles-activities/mexico-world-cup-run-los-angeles-loving-it</link>
+      <description>
+        <![CDATA[Fans of Mexico across L.A. are confident that something special is happening this tournament.]]>
+      </description>
+      <source:markdown>Fans of Mexico across L.A. are confident that something special is happening this tournament.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-1ed2-d137-adff-befe16630000</guid>
     </item>    <item>
       <title>World Cup Heartbreak Hurts. This Artist Turned That Pain Into New Paintings</title>
       <link>https://lataco.com/futbol-art-jorge-r-guiterrez</link>

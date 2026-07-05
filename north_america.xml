@@ -4,10 +4,38 @@
   <channel>
     <title><![CDATA[North America]]></title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>05 Jul 26 06:31 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 08:16 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The grid was melting down in last week’s heat – until EVs came to the rescue</title>
+      <link>https://electrek.co/2026/07/05/the-grid-was-melting-down-in-last-weeks-heat-until-evs-came-to-the-rescue/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Baltimore-City-electric-school-bus.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">As last week’s relentless heat wave pushed power grids to their breaking points, critics feared that the record number of electric vehicles on the push them over the edge. Instead, the opposite happened: EVs helped utilities keep the lights on and the AC running by feeding the electricity stored in their batteries back into the grid.</p>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2024/01/Baltimore-City-electric-school-bus.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+As last week’s relentless heat wave pushed power grids to their breaking points, critics feared that the record number of electric vehicles on the push them over the edge. Instead, the opposite happened: EVs helped utilities keep the lights on and the AC running by feeding the electricity stored in their batteries back into the grid.</source:markdown>
+      <guid>cid://https://electrek.co/?p=474665</guid>
+      <category>News</category>
+      <category>electric buses</category>
+      <category>electric school buses</category>
+      <category>grid</category>
+      <category>v2g</category>
+    </item>    <item>
+      <title>What changes for Sacramento students under new cellphone rules?</title>
+      <link>https://www.sacbee.com/news/local/education/article316314464.html</link>
+      <description>
+        <![CDATA[California’s law requires school districts to adopt cellphone policies by July 1, Here’s how Sacramento-area campuses are responding.]]>
+      </description>
+      <source:markdown>California’s law requires school districts to adopt cellphone policies by July 1, Here’s how Sacramento-area campuses are responding.</source:markdown>
+      <enclosure url="https://www.sacbee.com/public/latest-news/ocnc1/picture270507647/alternates/FREE_1140/GettyImages-1430317161.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.sacbee.com/news/local/education/article316314464.html</guid>
+      <category>California Phone-Free School Act</category>
+      <category>Sacramento school cellphone rules</category>
+      <category>student phone policy</category>
+      <category>AB 3216</category>
+    </item>    <item>
       <title>Week in photos: USA wins in World Cup + RTO + Esparto vigil + Ohtani + X Games</title>
       <link>https://www.sacbee.com/news/local/article316370757.html</link>
       <description>
