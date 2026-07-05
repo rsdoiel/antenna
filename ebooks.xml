@@ -4,10 +4,108 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>04 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
+      <link>https://www.gutenberg.org/ebooks/1067</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Personal Memoirs of U. S. Grant, Part 2. by Ulysses S.  Grant</title>
+      <link>https://www.gutenberg.org/ebooks/5861</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Theophano : by Frederic Harrison</title>
+      <link>https://www.gutenberg.org/ebooks/79024</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The poetical works of Edgar Allan Poe by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/79019</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mexico and Central America : by Harry Alverson Franck</title>
+      <link>https://www.gutenberg.org/ebooks/79021</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Outline of Mexican popular arts and crafts by Katherine Anne Porter</title>
+      <link>https://www.gutenberg.org/ebooks/79018</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The heart of an orphan by Amanda Mathews Chase</title>
+      <link>https://www.gutenberg.org/ebooks/79015</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Master Hope by Phyllis Bottome</title>
+      <link>https://www.gutenberg.org/ebooks/79023</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Spring fire by Vin Packer</title>
+      <link>https://www.gutenberg.org/ebooks/79013</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Gestalt psychology by Wolfgang Köhler</title>
+      <link>https://www.gutenberg.org/ebooks/79014</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La vraie vie de Saint Vincent de Paul by Antoine Redier</title>
+      <link>https://www.gutenberg.org/ebooks/79016</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Journal de la société de 1789 Nº V by marquis de Jean-Antoine-Nicolas de Caritat Condorcet</title>
+      <link>https://www.gutenberg.org/ebooks/79017</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Collected works of Padraic H. Pearse : by Padraic Pearse</title>
+      <link>https://www.gutenberg.org/ebooks/79022</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The spoon : by Thomas Ewbank</title>
+      <link>https://www.gutenberg.org/ebooks/79020</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Wieland; Or, The Transformation: An American Tale by Charles Brockden Brown</title>
       <link>https://www.gutenberg.org/ebooks/792</link>
       <description>
@@ -1254,48 +1352,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Jim Hanvey, detective by Octavus Roy Cohen</title>
-      <link>https://www.gutenberg.org/ebooks/78848</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Domestic Problem : Work and Culture in the Household by Abby Morton Diaz</title>
-      <link>https://www.gutenberg.org/ebooks/6704</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Plutarch&#39;s essays and miscellanies, Vol. 3 (of 5) : by Plutarch</title>
-      <link>https://www.gutenberg.org/ebooks/78851</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Possession by Mazo De la Roche</title>
-      <link>https://www.gutenberg.org/ebooks/78850</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The undercurrent : by Fay Ehlert</title>
-      <link>https://www.gutenberg.org/ebooks/78852</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A calendar of dinners, with 615 recipes by Marion Harris Neil</title>
-      <link>https://www.gutenberg.org/ebooks/78849</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

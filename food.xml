@@ -4,10 +4,29 @@
   <channel>
     <title><![CDATA[Healthy Eating, Good Eating and Recipes]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>04 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Life Is Like A Curated Selection Of Coffees, You Never Know What You’re Going To Get</title>
+      <link>https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1141522</guid>
+      <category>Roaster&#39;s Village</category>
+      <category>coffee</category>
+    </item>    <item>
+      <title>5 Speedy Meals Our Editors Make With Spam</title>
+      <link>https://www.bonappetit.com/story/speedy-meals-our-editors-make-with-spam</link>
+      <description>
+        <![CDATA[Like kimchi fried rice and a dreamy carbonara.]]>
+      </description>
+      <source:markdown>Like kimchi fried rice and a dreamy carbonara.</source:markdown>
+      <guid>cid://6a43d39789a5035a02284732</guid>
+      <category>Cooking</category>
+    </item>    <item>
       <title>Key Lime Colada</title>
       <link>https://www.tasteofhome.com/recipes/key-lime-colada/</link>
       <description>
@@ -4499,22 +4518,6 @@ The post [Father’s Day Recipes](https://www.closetcooking.com/33-fathers-day-r
       </description>
       <source:markdown>Like cherry lemonade pie and grilled pound cake sundaes.</source:markdown>
       <guid>cid://57eac1450b991f57109daa16</guid>
-    </item>    <item>
-      <title>Saffron Rice</title>
-      <link>https://www.tasteofhome.com/recipes/saffron-rice/</link>
-      <description>
-        <![CDATA[Saffron rice spans centuries and continents. This version of this iconic dish can be on the table quick enough for weeknights.]]>
-      </description>
-      <source:markdown>Saffron rice spans centuries and continents. This version of this iconic dish can be on the table quick enough for weeknights.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2239576</guid>
-    </item>    <item>
-      <title>Too Much Coffee Gear? Never Heard Of Her</title>
-      <link>https://sprudge.com/too-much-coffee-gear-never-heard-of-her-1074831.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week&#39;s selection of coffee gear.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=1074831</guid>
     </item>
   </channel>
 </rss>

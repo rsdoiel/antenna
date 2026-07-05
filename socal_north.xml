@@ -5,10 +5,18 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>04 Jul 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>But first, coffee: The drink that energized the American Revolution</title>
+      <link>https://laist.com/news/but-first-coffee-the-drink-that-energized-the-american-revolution</link>
+      <description>
+        <![CDATA[Coffee was an important part of American culture from the start. And coffeehouses were essential, too — serving as hubs for brewing ideas of independence.]]>
+      </description>
+      <source:markdown>Coffee was an important part of American culture from the start. And coffeehouses were essential, too — serving as hubs for brewing ideas of independence.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-2dfd-d504-a19f-fffdf57a0000</guid>
+    </item>    <item>
       <title>Happy Fourth of July, Santa Clarita!</title>
       <link>https://santaclarita.gov/blog/2026/07/04/happy-fourth-of-july-santa-clarita/</link>
       <description>
@@ -20,6 +28,14 @@
 The post [Happy Fourth of July, Santa Clarita!](https://santaclarita.gov/blog/2026/07/04/happy-fourth-of-july-santa-clarita/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
       <guid>cid://https://santaclarita.gov/?p=8457</guid>
       <category>From the City Manager</category>
+    </item>    <item>
+      <title>This mahjong revival is headed to a park near you</title>
+      <link>https://laist.com/news/los-angeles-activities/this-mahjong-revival-is-headed-to-a-park-near-you</link>
+      <description>
+        <![CDATA[Parks from Arcadia to Culver City will host dozens of mahjong players through early August.]]>
+      </description>
+      <source:markdown>Parks from Arcadia to Culver City will host dozens of mahjong players through early August.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-23f6-d336-abbf-77f62add0000</guid>
     </item>    <item>
       <title>After Boyle Heights warehouse fire, residents take environmental testing into their own hands</title>
       <link>https://laist.com/news/climate-environment/after-boyle-heights-warehouse-fire-residents-take-environmental-testing-into-their-own-hands</link>
@@ -36,14 +52,6 @@ The post [Happy Fourth of July, Santa Clarita!](https://santaclarita.gov/blog/20
       </description>
       <source:markdown>The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.</source:markdown>
       <guid>cid://urn:uuid:0000019f-2901-dfd2-abbf-bd81fa080000</guid>
-    </item>    <item>
-      <title>This mahjong revival is headed to a park near you</title>
-      <link>https://laist.com/news/los-angeles-activities/this-mahjong-revival-is-headed-to-a-park-near-you</link>
-      <description>
-        <![CDATA[Parks from Arcadia to Culver City will host dozens of mahjong players through early August.]]>
-      </description>
-      <source:markdown>Parks from Arcadia to Culver City will host dozens of mahjong players through early August.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-23f6-d336-abbf-77f62add0000</guid>
     </item>    <item>
       <title>Top science research jobs lack diversity. A California college program aims to curb that</title>
       <link>https://laist.com/news/education/top-science-research-jobs-lack-diversity-california-college-program-aims-to-curb-that</link>
@@ -68,6 +76,14 @@ The post [Happy Fourth of July, Santa Clarita!](https://santaclarita.gov/blog/20
       </description>
       <source:markdown>As if SoCal’s air quality hasn’t been bad enough, air quality officials are warning much of Southern California to brace for hazardous air over the July 4 weekend.</source:markdown>
       <guid>cid://urn:uuid:0000019f-2929-d336-abbf-7febb6e50000</guid>
+    </item>    <item>
+      <title>Even fans who don&#39;t speak Spanish are watching the World Cup on Telemundo. Here&#39;s why</title>
+      <link>https://laist.com/news/arts-and-entertainment/fans-who-dont-speak-spanish-watching-world-cup-on-telemundo</link>
+      <description>
+        <![CDATA[They may not understand every word, but fans appreciate exuberant announcers who match their enthusiasm.]]>
+      </description>
+      <source:markdown>They may not understand every word, but fans appreciate exuberant announcers who match their enthusiasm.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-28a0-d327-a39f-28a971460000</guid>
     </item>    <item>
       <title>Gas prices are high for July 4. California’s price-gouging fixes are still on the shelf</title>
       <link>https://laist.com/news/transportation/gas-prices-july-4-california-price-gouging-fixes</link>
@@ -210,6 +226,14 @@ The post [Lakers Fan Injured By LAPD During NBA Finals Celebrations Receives His
       <category>News</category>
       <category>Taco Members Only</category>
       <category>LAPD</category>
+    </item>    <item>
+      <title>Here are a few July 4 celebrations in Inglewood and South LA this weekend</title>
+      <link>https://laist.com/news/los-angeles-activities/heres-a-few-july-4-celebrations-in-inglewood-and-south-la-this-weekend</link>
+      <description>
+        <![CDATA[If you’re looking for a way to join the July 4 festivities in Inglewood and South LA, we’ve got you covered.]]>
+      </description>
+      <source:markdown>If you’re looking for a way to join the July 4 festivities in Inglewood and South LA, we’ve got you covered.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-23f1-d336-abbf-77f33cb8000a</guid>
     </item>    <item>
       <title>All-gender bathrooms, ‘use-by’ dates, loud ads: the new California laws to know</title>
       <link>https://laist.com/news/politics/all-gender-bathrooms-use-by-dates-loud-ads-the-new-california-laws-to-know</link>
@@ -2825,92 +2849,6 @@ The post [UPDATE: Mr.Tempo Cantina Closes Controversial Hollywood Location](http
 
 The post [Sunday Taquitos #28: Get Out, LOSER!](https://lataco.com/sunday-taquitos-28-get-out-loser) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
       <guid>cid://https://lataco.com/?p=180275</guid>
-    </item>    <item>
-      <title>East LA residents weigh the promise and impact of Metro E Line extension to Montebello</title>
-      <link>https://laist.com/news/east-la-residents-weigh-the-promise-and-impact-of-metro-e-line-extension-to-montebello</link>
-      <description>
-        <![CDATA[East LA residents are concerned about how construction will impact small businesses. They also want better outreach.]]>
-      </description>
-      <source:markdown>East LA residents are concerned about how construction will impact small businesses. They also want better outreach.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-c1f3-dee9-a7bf-dbff6d2f0000</guid>
-    </item>    <item>
-      <title>4 things to know about the new sunscreen ingredient the FDA approved</title>
-      <link>https://laist.com/news/4-things-to-know-about-the-new-sunscreen-ingredient-the-fda-approved</link>
-      <description>
-        <![CDATA[The new ingredient is called bemotrizinol, and it has several advantages over the chemical sunscreen ingredients previously available in the U.S.]]>
-      </description>
-      <source:markdown>The new ingredient is called bemotrizinol, and it has several advantages over the chemical sunscreen ingredients previously available in the U.S.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-c1c8-dee9-a7bf-dbefe8e50000</guid>
-    </item>    <item>
-      <title>What You Need To Know About ICE At The FIFA World Cup</title>
-      <link>https://lataco.com/ice-fifa-world-cup</link>
-      <description>
-        <![CDATA[<p>Plus, CHIRLA and LAARN published a “Know Before You Go” safety guide for fans attending World Cup-related events.</p>
-        <p>The post <a href="https://lataco.com/ice-fifa-world-cup">What You Need To Know About ICE At The FIFA World Cup</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Plus, CHIRLA and LAARN published a “Know Before You Go” safety guide for fans attending World Cup-related events.
-
-The post [What You Need To Know About ICE At The FIFA World Cup](https://lataco.com/ice-fifa-world-cup) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=180316</guid>
-    </item>    <item>
-      <title>Preparing for Summer: Fire Safety Day</title>
-      <link>https://santaclarita.gov/blog/2026/06/13/preparing-for-summer-fire-safety-day/</link>
-      <description>
-        <![CDATA[<p>By City Manager Ken Striplin As temperatures rise throughout the summer months, so does the importance of wildfire preparedness and fire safety awareness. In recent years, we have seen that wildfire dangers are no longer limited to a single season, making year-round preparedness increasingly important for our community. By taking proactive steps and staying informed, [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/06/13/preparing-for-summer-fire-safety-day/">Preparing for Summer: Fire Safety Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By City Manager Ken Striplin As temperatures rise throughout the summer months, so does the importance of wildfire preparedness and fire safety awareness. In recent years, we have seen that wildfire dangers are no longer limited to a single season, making year-round preparedness increasingly important for our community. By taking proactive steps and staying informed, \[…\]
-
-The post [Preparing for Summer: Fire Safety Day](https://santaclarita.gov/blog/2026/06/13/preparing-for-summer-fire-safety-day/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8354</guid>
-    </item>    <item>
-      <title>Justice Dept. approves Paramount&#39;s acquisition of Warner Bros. Discovery</title>
-      <link>https://laist.com/news/arts-and-entertainment/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery</link>
-      <description>
-        <![CDATA[The proposed $111 billion merger would unite two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN.]]>
-      </description>
-      <source:markdown>The proposed $111 billion merger would unite two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-c1c4-dee9-a7bf-dbef04f10000</guid>
-    </item>    <item>
-      <title>He&#39;s been making 1-inch soccer players out of gum wrappers since age 10  — see them at LACMA</title>
-      <link>https://laist.com/news/los-angeles-activities/lyndon-barrois-lacma-futbol-is-life-world-cup</link>
-      <description>
-        <![CDATA[Fútbol Is Life meticulously recreates historic moments from men’s and women’s soccer... with miniatures.]]>
-      </description>
-      <source:markdown>Fútbol Is Life meticulously recreates historic moments from men’s and women’s soccer... with miniatures.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-b27a-d498-abfe-f37e9ee40000</guid>
-    </item>    <item>
-      <title>He&#39;s been making tiny soccer players out of gum wrappers since age 10  — see them at LACMA</title>
-      <link>https://laist.com/news/los-angeles-activities/lyndon-barrois-lacma-futbal-is-life-world-cup</link>
-      <description>
-        <![CDATA[Fútbol Is Life meticulously recreates historic moments from men’s and women’s soccer... with miniatures.]]>
-      </description>
-      <source:markdown>Fútbol Is Life meticulously recreates historic moments from men’s and women’s soccer... with miniatures.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-b27a-d498-abfe-f37e9ee40000</guid>
-    </item>    <item>
-      <title>Kennedy Center removes Trump&#39;s name from the building</title>
-      <link>https://laist.com/news/workers-begin-removing-trumps-name-from-the-kennedy-center</link>
-      <description>
-        <![CDATA[Workers began early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.]]>
-      </description>
-      <source:markdown>Workers began early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-c0a5-dbf9-addf-c8e7d4090000</guid>
-    </item>    <item>
-      <title>Trump says US military strike killed leader of Tren de Aragua gang</title>
-      <link>https://laist.com/news/trump-says-us-military-strike-killed-leader-of-tren-de-aragua-gang</link>
-      <description>
-        <![CDATA[President Trump said Friday that a U.S. strike has killed Hector Rusthenford Guerrero Flores, whom he called "the infamous leader" of the Tren de Aragua gang in Venezuela.]]>
-      </description>
-      <source:markdown>President Trump said Friday that a U.S. strike has killed Hector Rusthenford Guerrero Flores, whom he called &#34;the infamous leader&#34; of the Tren de Aragua gang in Venezuela.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-c0a0-dbf9-addf-c8e7652e0000</guid>
-    </item>    <item>
-      <title>The US dazzles in its World Cup opener in LA, dominating Paraguay 4-1</title>
-      <link>https://laist.com/news/los-angeles-activities/the-us-dazzles-in-its-world-cup-opener-in-la-dominating-paraguay-4-1</link>
-      <description>
-        <![CDATA[It was an impressive start to a home World Cup.]]>
-      </description>
-      <source:markdown>It was an impressive start to a home World Cup.</source:markdown>
-      <guid>cid://urn:uuid:0000019e-c092-dee9-a7bf-dbff7d1e0000</guid>
     </item>
   </channel>
 </rss>

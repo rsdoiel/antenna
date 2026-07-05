@@ -4,10 +4,26 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>04 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>05 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASM 3.02</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/07/nasm-302/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>NASM is the Netwide Assembler, an assembler for the x86 CPU architecture. NASM 3.02 was recently released with updates and fixes which should be interesting to assembly programmers. Read more in the <a href="https://www.nasm.us/docs/3.02/nasmac.html" rel="nofollow">change log</a>. Download the new version from <a href="https://www.nasm.us/pub/nasm/releasebuilds/3.02/" rel="nofollow">release build 3.02</a> on the <a href="https://nasm.us/" rel="nofollow">NASM website</a>. We've also mirrored the new release in the FreeDOS files archive at Ibiblio, at <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/asm/nasm/3.02/" rel="nofollow">/devel/asm/nasm</a></p></div>]]>
+      </description>
+      <source:markdown>NASM is the Netwide Assembler, an assembler for the x86 CPU architecture. NASM 3.02 was recently released with updates and fixes which should be interesting to assembly programmers. Read more in the [change log](https://www.nasm.us/docs/3.02/nasmac.html). Download the new version from [release build 3.02](https://www.nasm.us/pub/nasm/releasebuilds/3.02/) on the [NASM website](https://nasm.us/). We&#39;ve also mirrored the new release in the FreeDOS files archive at Ibiblio, at [/devel/asm/nasm](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/asm/nasm/3.02/)</source:markdown>
+      <guid>cid://https://sourceforge.neta74ada268bdea40eee23947620ac85cc883ee208</guid>
+    </item>    <item>
+      <title>b.log 2026/07/04 - We&#39;re all 404 in the end.</title>
+      <link>https://heyrick.eu/blog/entry/20260704</link>
+      <description>
+        <![CDATA[We're all 404 in the end.]]>
+      </description>
+      <source:markdown>We&#39;re all 404 in the end.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260704</guid>
+    </item>    <item>
       <title>The Life and Times of Maxis, Part 1: SimEverything</title>
       <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</link>
       <description>
@@ -2490,48 +2506,6 @@ Folded up more flat this time, ready for the next project. A latch and a handle 
       <category>diy</category>
       <category>ibm</category>
       <category>usb</category>
-    </item>    <item>
-      <title>b.log 2026/06/13 - Picard order, Mowing, Maybe an outdoor socket, New SRAM code.</title>
-      <link>https://heyrick.eu/blog/entry/20260613</link>
-      <description>
-        <![CDATA[Picard order, Mowing, Maybe an outdoor socket, New SRAM code.]]>
-      </description>
-      <source:markdown>Picard order, Mowing, Maybe an outdoor socket, New SRAM code.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260613</guid>
-    </item>    <item>
-      <title>R6500/1EC Microprocessor Emulator Device</title>
-      <link>http://retro.hansotten.nl/r-6500-1ec/</link>
-      <description>
-        <![CDATA[I acquired a R6500/1EC IC. A beautiful white version. Week 40 1980, NMOS.The R6500/1EC is a development IC for the R6500/1 microcomputer family. Rockwell R6500/1 family The R6500/1 is a 6502 , ROM (2K) 64 bytes RAM ,4&#215;8 bit I/O, a 16 bit timer with I/O pin. The ROM contents are factory mask-programmed, not programmable [&#8230;]]]>
-      </description>
-      <source:markdown>I acquired a R6500/1EC IC. A beautiful white version. Week 40 1980, NMOS.The R6500/1EC is a development IC for the R6500/1 microcomputer family. Rockwell R6500/1 family The R6500/1 is a 6502 , ROM (2K) 64 bytes RAM ,4×8 bit I/O, a 16 bit timer with I/O pin. The ROM contents are factory mask-programmed, not programmable \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=21088</guid>
-      <category>6502</category>
-    </item>    <item>
-      <title>AI: Debugging a Tiny LLM to Understand What Happens Between a Prompt and a Response</title>
-      <link>https://paolozaino.wordpress.com/2026/06/13/ai-debugging-a-tiny-llm-to-understand-what-happens-between-a-prompt-and-a-response/</link>
-      <description>
-        <![CDATA[In this article we&#8217;ll explore how LLMs (Large Language Models) actually work internally, with practical examples so everyone can understand how they work and behave. Intro Imagine we type this prompt into a chatbot: Say hi. A moment later, the model replies: Hi! That looks simple. Almost too simple. And yes for the programmers among [&#8230;]]]>
-      </description>
-      <source:markdown>In this article we’ll explore how LLMs (Large Language Models) actually work internally, with practical examples so everyone can understand how they work and behave. Intro Imagine we type this prompt into a chatbot: Say hi. A moment later, the model replies: Hi! That looks simple. Almost too simple. And yes for the programmers among \[…\]</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=10304</guid>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Artificial Neural Network</category>
-      <category>chatgpt</category>
-      <category>coding</category>
-      <category>Computing</category>
-      <category>debugging</category>
-      <category>GenAI</category>
-      <category>Generative AI</category>
-      <category>Large Language Model</category>
-      <category>LLM</category>
-      <category>Neural Network</category>
-      <category>Paolo Fabio Zaino</category>
-      <category>programming</category>
-      <category>software</category>
-      <category>technology</category>
-      <category>understanding LLMs</category>
     </item>
   </channel>
 </rss>
