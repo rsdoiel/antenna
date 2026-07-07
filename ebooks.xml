@@ -4,10 +4,122 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>06 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>07 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The zoology of the voyage of H.M.S. Beagle [vol. 2 of 5] : by G. R.  Waterhouse</title>
+      <link>https://www.gutenberg.org/ebooks/69577</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Prisoners of Poverty: Women Wage-Workers, Their Trades and Their Lives by Helen Campbell</title>
+      <link>https://www.gutenberg.org/ebooks/34060</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The zoology of the voyage of H.M.S. Beagle [vol. 3 of 5] : by John Gould</title>
+      <link>https://www.gutenberg.org/ebooks/74261</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The manliness of Christ by Thomas Hughes</title>
+      <link>https://www.gutenberg.org/ebooks/79039</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kronstadt : by Max Pemberton</title>
+      <link>https://www.gutenberg.org/ebooks/79040</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Runoja by Johann Wolfgang von Goethe</title>
+      <link>https://www.gutenberg.org/ebooks/79043</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The life of James Clerk Maxwell : by Lewis Campbell and William Garnett</title>
+      <link>https://www.gutenberg.org/ebooks/79044</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>My Ántonia by Willa Cather</title>
+      <link>https://www.gutenberg.org/ebooks/242</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 5 of 5] : by Thomas J.  Bell</title>
+      <link>https://www.gutenberg.org/ebooks/79041</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Vicar of Bullhampton by Anthony Trollope</title>
+      <link>https://www.gutenberg.org/ebooks/26541</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>History of Holland by George Edmundson</title>
+      <link>https://www.gutenberg.org/ebooks/14971</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Fables, of Æsop and other eminent mythologists: with morals and reflexions by Sir Roger L&#39;Estrange</title>
+      <link>https://www.gutenberg.org/ebooks/79038</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Oliver Twist by Charles Dickens</title>
+      <link>https://www.gutenberg.org/ebooks/79042</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Basil, by Wilkie Collins</title>
+      <link>https://standardebooks.org/ebooks/wilkie-collins/basil</link>
+      <description>
+        <![CDATA[An aristocratic young man falls in love at first sight with a lower-class girl on an omnibus, with disastrous consequences.]]>
+      </description>
+      <source:markdown>An aristocratic young man falls in love at first sight with a lower-class girl on an omnibus, with disastrous consequences.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/wilkie-collins/basil/downloads/wilkie-collins_basil.epub?source=feed" length="605681" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/wilkie-collins/basil</guid>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>Short Science Fiction, by Noel Loomis</title>
+      <link>https://standardebooks.org/ebooks/noel-loomis/short-science-fiction</link>
+      <description>
+        <![CDATA[A collection of short science fiction stories by Noel Loomis.]]>
+      </description>
+      <source:markdown>A collection of short science fiction stories by Noel Loomis.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/noel-loomis/short-science-fiction/downloads/noel-loomis_short-science-fiction.epub?source=feed" length="558999" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/noel-loomis/short-science-fiction</guid>
+      <category>Science Fiction</category>
+      <category>Shorts</category>
+    </item>    <item>
       <title>The matrimonial bureau by Harry Persons Taber and Carolyn Wells</title>
       <link>https://www.gutenberg.org/ebooks/79028</link>
       <description>
@@ -70,13 +182,6 @@
         <![CDATA[Language: Italian]]>
       </description>
       <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>The zoology of the voyage of H.M.S. Beagle [vol. 2 of 5] : by G. R.  Waterhouse</title>
-      <link>https://www.gutenberg.org/ebooks/69577</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Pakolaiset I : by Arthur Conan Doyle</title>
       <link>https://www.gutenberg.org/ebooks/79036</link>
@@ -740,7 +845,7 @@
         <![CDATA[A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.]]>
       </description>
       <source:markdown>A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/ring-lardner-george-s-kaufman_june-moon.epub?source=feed" length="373117" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/ring-lardner-george-s-kaufman_june-moon.epub?source=feed" length="373116" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon</guid>
       <category>Comedy</category>
       <category>Drama</category>
@@ -1056,7 +1161,7 @@
         <![CDATA[As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.]]>
       </description>
       <source:markdown>As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/willa-cather/the-professors-house/downloads/willa-cather_the-professors-house.epub?source=feed" length="674817" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/willa-cather/the-professors-house/downloads/willa-cather_the-professors-house.epub?source=feed" length="674807" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/willa-cather/the-professors-house</guid>
       <category>Fiction</category>
     </item>    <item>
@@ -1324,132 +1429,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Historiallisia öitä : by Rafael Sabatini</title>
-      <link>https://www.gutenberg.org/ebooks/78860</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Valheen verkko : by Sidney Warwick</title>
-      <link>https://www.gutenberg.org/ebooks/78869</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The Way to God and How to Find It by Dwight Lyman Moody</title>
-      <link>https://www.gutenberg.org/ebooks/30449</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Amphitryon : by Molière</title>
-      <link>https://www.gutenberg.org/ebooks/78857</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The story of the diamond necklace : by Henry Vizetelly</title>
-      <link>https://www.gutenberg.org/ebooks/78855</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Satukontti by Jalmari Finne</title>
-      <link>https://www.gutenberg.org/ebooks/78866</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Ritari Siniparta : by C. Georg  Starbäck</title>
-      <link>https://www.gutenberg.org/ebooks/78865</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Juvenilia : by Larin-Kyösti</title>
-      <link>https://www.gutenberg.org/ebooks/78859</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Valitut kertomukset by Larin-Kyösti</title>
-      <link>https://www.gutenberg.org/ebooks/78863</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Kariviittoja by Aatto Suppanen</title>
-      <link>https://www.gutenberg.org/ebooks/78862</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Blame it on Brother Bill by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78870</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tlingit myths and texts by John Reed Swanton</title>
-      <link>https://www.gutenberg.org/ebooks/78871</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Suokukka by Ferenc Herczeg</title>
-      <link>https://www.gutenberg.org/ebooks/78867</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Mumu : by Ivan Sergeevich Turgenev</title>
-      <link>https://www.gutenberg.org/ebooks/78864</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Ruumiin ikävä by Iris Uurto</title>
-      <link>https://www.gutenberg.org/ebooks/78858</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Ensi aste : by E. N.  Chirikov and Onni R. Hamara</title>
-      <link>https://www.gutenberg.org/ebooks/78856</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Konungen av X-land : by Ture Janson</title>
-      <link>https://www.gutenberg.org/ebooks/78861</link>
-      <description>
-        <![CDATA[Language: Swedish]]>
-      </description>
-      <source:markdown>Language: Swedish</source:markdown>
-    </item>    <item>
-      <title>Pikku Suometar : by E. Nervander</title>
-      <link>https://www.gutenberg.org/ebooks/78868</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
     </item>
   </channel>
 </rss>

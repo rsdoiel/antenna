@@ -90,7 +90,6 @@ description: Blogs, columns and snapshots from around the web.
 
 # Snapshots
 
-- [Dave Winer's linkblog](https://dave.linkblog.org/)
 - [Kilian Valkhof's blog](http://feeds.feedburner.com/Kilianvalkhofcom)
 - [Rob Lamog-Doiel](http://feeds.feedburner.com/shiftf8)
 - [Hundred Rabbits blog](https://100r.co/links/rss.xml)
