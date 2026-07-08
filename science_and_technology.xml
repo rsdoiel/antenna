@@ -4,10 +4,181 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>07 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>08 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA&#39;s race against time to rescue a falling satellite</title>
+      <link>https://www.npr.org/2026/07/08/nx-s1-5879365/nasa-swift-satellite-observatory-mission</link>
+      <description>
+        <![CDATA[A valuable NASA satellite observatory is falling to Earth faster than scientists expected. It’s called the Neil Gehrels Swift Observatory, or “Swift” for short, and it can respond to celestial events much faster than its sky-gazing counterparts. To save Swift and test out a first-of-its-kind technology, NASA partnered with an Arizona-based startup to launch a refrigerator-sized robot, aptly named Link, into lower Earth orbit. That’s on its way right now to meet up with Swift to give it a boost.<br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>A valuable NASA satellite observatory is falling to Earth faster than scientists expected. It’s called the Neil Gehrels Swift Observatory, or “Swift” for short, and it can respond to celestial events much faster than its sky-gazing counterparts. To save Swift and test out a first-of-its-kind technology, NASA partnered with an Arizona-based startup to launch a refrigerator-sized robot, aptly named Link, into lower Earth orbit. That’s on its way right now to meet up with Swift to give it a boost.
+
+_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/107a0613-e856-4583-889e-e324435a7cbe/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=107a0613-e856-4583-889e-e324435a7cbe&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879365&p=510351&d=687&size=11008670" length="11008670" type="audio/mpeg" />
+      <guid>cid://b43ac1e0-57e0-463b-9fd6-0423da25ab26</guid>
+    </item>    <item>
+      <title>Cottonwood Fire Chars Utah</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/</link>
+      <description>
+        <![CDATA[The blaze burned more than 150 square miles and swept through parts of a ski resort.]]>
+      </description>
+      <source:markdown>The blaze burned more than 150 square miles and swept through parts of a ski resort.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/</guid>
+      <category>Earth Observatory</category>
+      <category>Wildfires</category>
+    </item>    <item>
+      <title>Most slopcode projects are abandoned and deleted within months of release</title>
+      <link>https://www.osnews.com/story/145469/most-slopcode-projects-are-abandoned-and-deleted-within-months-of-release/</link>
+      <description>
+        <![CDATA[About a month ago, Flathub announced a ban on slopcoded applications. Evangelos &#8220;GeopJr&#8221; Paterakis, developer of a number of popular Linux applications and ton of other things, did some research into just how many applications tagged with &#8220;AI slop&#8221;, a tag Flathub reviewers used to keep track of slopcoded applications submitted to Flathub, actually survived the test of time. The results are exactly what you&#8217;d expect. Of the 120 unique repos, 32 were maintained and 88 were abandoned. No seriously, a big portion of them was completely deleted, nowhere to be found, others stopped 6 months ago, right after submitting to Flathub. ↫ Evangelos &#8220;GeopJr&#8221; Paterakis That&#8217;s absolutely soul-crushing. Why should Flathub&#8217;s reviewers spend their precious, limited time talking to lazy slopcoders&#8217; &#8220;AI&#8221; agents to get their slopcoded applications into Flathub, when 70% of these applications are abandoned or outright deleted from existence within mere months of being submitted? Minimal effort for the slopcoders, maximum effort for the reviewers. Just dump a bunch of shitty code over the fence, let a chatbot handle the interactions with the reviewers, and pretend you made a valuable contribution. This is the contradiction slopcode enthusiasts really don&#8217;t want to talk about. If these &#8220;AI&#8221; tools are so great, where is all the amazing new software? Where&#8217;s the massive gains in software quality? Isn&#8217;t the story that &#8220;AI&#8221; tools do the menial work, giving programmers more time to focus on improving their software? Reality does not seem to match the story we&#8217;re being sold. Despite these slopcode tools being out and available for years now, there&#8217;s no influx of great applications and other software, there&#8217;s no rise in software quality, nothing. What we mostly seem to be getting are slopcoded projects nobody, not even their &#8220;creators&#8221; care about, so they just get abandoned and deleted as quickly as they were dredged up from the bottom of the programming barrel. These aren&#8217;t applications created because someone wanted them to exist; these are applications created because some mid programmer got high on their &#8220;AI&#8221; supply and fancied themselves better at programming than they really are &#8211; only to realise once the comedown hits they&#8217;ve got crappy, barely working, entirely unmaintainable gibberish vaguely looking like code nobody can make head nor tails of. And then they abandon the project, ready for the next high &#8211; leaving everyone else to clean up their mess. What a miserable workflow.]]>
+      </description>
+      <source:markdown>About a month ago, Flathub announced a ban on slopcoded applications. Evangelos “GeopJr” Paterakis, developer of a number of popular Linux applications and ton of other things, did some research into just how many applications tagged with “AI slop”, a tag Flathub reviewers used to keep track of slopcoded applications submitted to Flathub, actually survived the test of time. The results are exactly what you’d expect. Of the 120 unique repos, 32 were maintained and 88 were abandoned. No seriously, a big portion of them was completely deleted, nowhere to be found, others stopped 6 months ago, right after submitting to Flathub. ↫ Evangelos “GeopJr” Paterakis That’s absolutely soul-crushing. Why should Flathub’s reviewers spend their precious, limited time talking to lazy slopcoders’ “AI” agents to get their slopcoded applications into Flathub, when 70% of these applications are abandoned or outright deleted from existence within mere months of being submitted? Minimal effort for the slopcoders, maximum effort for the reviewers. Just dump a bunch of shitty code over the fence, let a chatbot handle the interactions with the reviewers, and pretend you made a valuable contribution. This is the contradiction slopcode enthusiasts really don’t want to talk about. If these “AI” tools are so great, where is all the amazing new software? Where’s the massive gains in software quality? Isn’t the story that “AI” tools do the menial work, giving programmers more time to focus on improving their software? Reality does not seem to match the story we’re being sold. Despite these slopcode tools being out and available for years now, there’s no influx of great applications and other software, there’s no rise in software quality, nothing. What we mostly seem to be getting are slopcoded projects nobody, not even their “creators” care about, so they just get abandoned and deleted as quickly as they were dredged up from the bottom of the programming barrel. These aren’t applications created because someone wanted them to exist; these are applications created because some mid programmer got high on their “AI” supply and fancied themselves better at programming than they really are – only to realise once the comedown hits they’ve got crappy, barely working, entirely unmaintainable gibberish vaguely looking like code nobody can make head nor tails of. And then they abandon the project, ready for the next high – leaving everyone else to clean up their mess. What a miserable workflow.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145469</guid>
+      <category>Clown car</category>
+    </item>    <item>
+      <title>Strange Spheres Washed Ashore on an Australian Beach. Authorities Say They&#39;re Probably &#39;Space Balls&#39;—Empty Fuel Vessels From a Rocket</title>
+      <link>https://www.smithsonianmag.com/smart-news/strange-spheres-washed-ashore-on-an-australian-beach-authorities-say-theyre-probably-space-balls-empty-fuel-vessels-from-a-rocket-180989082/</link>
+      <description>
+        <![CDATA[The shiny objects—each roughly twice the size of a basketball—began to appear on July 3. Authorities initially worried that they were hazardous but have since determined that they're likely safe bits of space junk]]>
+      </description>
+      <source:markdown>The shiny objects—each roughly twice the size of a basketball—began to appear on July 3. Authorities initially worried that they were hazardous but have since determined that they&#39;re likely safe bits of space junk</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/z6YAeIGNEjPfOrARmglg1NYb6os=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e7/12/e712ea2b-abc3-487d-b14e-0b3aece0145d/smithsonian_feature_images_2.png" length="3564450" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/strange-spheres-washed-ashore-on-an-australian-beach-authorities-say-theyre-probably-space-balls-empty-fuel-vessels-from-a-rocket-180989082/</guid>
+    </item>    <item>
+      <title>Linux ported to the Atari Jaguar</title>
+      <link>https://www.osnews.com/story/145467/linux-ported-to-the-atari-jaguar/</link>
+      <description>
+        <![CDATA[Only a few days ago we had Linux on the Mega Drive, and someone took that as a challenge, so now we have Linux on the Atari Jaguar. The Jaguar has a very different architecture than the Mega Drive, but does happen to use a processor from the same 68000-family. Interestingly enough, to this day, Linux has architecture code for the 68000-family of processors. 68040, 68030, 68010&#8230; and even the original base 68000 processor. All neatly structured under arch/m68k/. ↫ Joel Bueno And, well, that means Linux can indeed be made to work on the Jaguar, with some hacking and magic, of course.]]>
+      </description>
+      <source:markdown>Only a few days ago we had Linux on the Mega Drive, and someone took that as a challenge, so now we have Linux on the Atari Jaguar. The Jaguar has a very different architecture than the Mega Drive, but does happen to use a processor from the same 68000-family. Interestingly enough, to this day, Linux has architecture code for the 68000-family of processors. 68040, 68030, 68010… and even the original base 68000 processor. All neatly structured under arch/m68k/. ↫ Joel Bueno And, well, that means Linux can indeed be made to work on the Jaguar, with some hacking and magic, of course.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145467</guid>
+      <category>Linux</category>
+    </item>    <item>
+      <title>Tall Trees Were Thought to Be More Vulnerable to Drought. But These Towering Plants in Southeast Asia Have Adapted to Move Water Efficiently</title>
+      <link>https://www.smithsonianmag.com/smart-news/tall-trees-were-thought-to-be-more-vulnerable-to-drought-but-these-towering-plants-in-southeast-asia-have-adapted-to-move-water-efficiently-180989075/</link>
+      <description>
+        <![CDATA[A new study found that enormous dipterocarp trees have special adaptations to transport water up to their highest limbs, challenging the assumption that they would more easily succumb to dry conditions]]>
+      </description>
+      <source:markdown>A new study found that enormous dipterocarp trees have special adaptations to transport water up to their highest limbs, challenging the assumption that they would more easily succumb to dry conditions</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AmbADXKUYQGiSP_FN8OCcHDLk0o=/420x240/filters:focal(720x384:721x385)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/71/b071cc13-e770-40e5-a1ed-78fd6bbe247d/a-57m-tall-dipterocarp-tree-with-a-double-rope-technique-drt-r-df483c645cc6965672ad64243862aaf7.jpg" length="563376" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/tall-trees-were-thought-to-be-more-vulnerable-to-drought-but-these-towering-plants-in-southeast-asia-have-adapted-to-move-water-efficiently-180989075/</guid>
+    </item>    <item>
+      <title>A Pair of 2,000-Year-Old Gold Rings, One Engraved With Indian Script, Was Discovered in an Iron Age Burial Ground in Thailand</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-pair-of-2000-year-old-gold-rings-one-engraved-with-indian-script-was-discovered-in-an-iron-age-burial-ground-in-thailand-180989081/</link>
+      <description>
+        <![CDATA[The engraving seems to reference an "auspicious" zodiac sign in Indian or Vedic astrology]]>
+      </description>
+      <source:markdown>The engraving seems to reference an &#34;auspicious&#34; zodiac sign in Indian or Vedic astrology</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tEwDMbam9IhMWpFW1ht1xZmvlzs=/420x240/filters:focal(738x556:739x557)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/bf/74bf4c64-bce0-4935-a16d-66a5153fee2c/ap26187214540399.jpg" length="820893" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-pair-of-2000-year-old-gold-rings-one-engraved-with-indian-script-was-discovered-in-an-iron-age-burial-ground-in-thailand-180989081/</guid>
+    </item>    <item>
+      <title>This Giant Planet May Have Survived the Death of Its Star. The James Webb Space Telescope Just Found Its Atmosphere</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-giant-planet-survived-the-death-of-its-star-the-james-webb-space-telescope-just-found-its-atmosphere-180989077/</link>
+      <description>
+        <![CDATA[New observations of WD 1856 b, a gas giant closely orbiting a white dwarf, offer a preview of what could happen to Jupiter and Saturn after the sun dies in about five billion years.]]>
+      </description>
+      <source:markdown>New observations of WD 1856 b, a gas giant closely orbiting a white dwarf, offer a preview of what could happen to Jupiter and Saturn after the sun dies in about five billion years.</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/z_V2yVv16vLjWXpwhWdlNG5nb_4=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/c6/2dc66728-c6a9-481f-9ac2-582ed1f62ca5/stsci-01kv8smvyfk67j7rprw1hb0sks.jpg" length="3446147" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-giant-planet-survived-the-death-of-its-star-the-james-webb-space-telescope-just-found-its-atmosphere-180989077/</guid>
+    </item>    <item>
+      <title>Desktop settings research: what we learned from your feedback</title>
+      <link>https://blog.thunderbird.net/2026/07/desktopsettings/</link>
+      <description>
+        <![CDATA[<p>A few weeks ago, we conducted hour-long conversations with 10 of our users to dig deep into how you manage your preferences and configurations in Thunderbird desktop. While this specific research cycle focused on the desktop experience, our ultimate goal is a holistic strategy that ensures our mobile settings feel like a natural extension of [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2026/07/desktopsettings/">Desktop settings research: what we learned from your feedback</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>A few weeks ago, we conducted hour-long conversations with 10 of our users to dig deep into how you manage your preferences and configurations in Thunderbird desktop. While this specific research cycle focused on the desktop experience, our ultimate goal is a holistic strategy that ensures our mobile settings feel like a natural extension of \[…\]
+
+The post [Desktop settings research: what we learned from your feedback](https://blog.thunderbird.net/2026/07/desktopsettings/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4419</guid>
+      <category>Community</category>
+      <category>Product</category>
+      <category>Thunderbird</category>
+      <category>Desktop</category>
+      <category>Feedback</category>
+      <category>Research</category>
+      <category>Settings</category>
+    </item>    <item>
+      <title>NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge</title>
+      <link>https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/</link>
+      <description>
+        <![CDATA[NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between [&#8230;]]]>
+      </description>
+      <source:markdown>NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1014160</guid>
+      <category>Goddard Space Flight Center</category>
+    </item>    <item>
+      <title>NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health</title>
+      <link>https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/</link>
+      <description>
+        <![CDATA[Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, […]]]>
+      </description>
+      <source:markdown>Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/</guid>
+      <category>Deep Space Network</category>
+      <category>New Horizons</category>
+    </item>    <item>
+      <title>Can You Guess the Origins of Papyrus Fragments or Painted Ceramics? A College Student Turned the Met&#39;s Open-Access Database Into an Online Game</title>
+      <link>https://www.smithsonianmag.com/smart-news/can-you-guess-the-origins-of-papyrus-fragments-or-painted-ceramics-a-college-student-turned-the-mets-open-access-database-into-an-online-game-180989080/</link>
+      <description>
+        <![CDATA[If you consider yourself an art history buff, test your smarts with Anthropeum. The game pulls ten images from the Met's open-access archive and challenges players to identify each artifact's time and place of origin]]>
+      </description>
+      <source:markdown>If you consider yourself an art history buff, test your smarts with Anthropeum. The game pulls ten images from the Met&#39;s open-access archive and challenges players to identify each artifact&#39;s time and place of origin</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XMGqmO1rhwWTwd5iZEiaI0BmpK8=/420x240/filters:focal(2000x1752:2001x1753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/97/61971e2e-f793-480f-ae31-f911b9150d54/dp-43517-001.jpg" length="1514393" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/can-you-guess-the-origins-of-papyrus-fragments-or-painted-ceramics-a-college-student-turned-the-mets-open-access-database-into-an-online-game-180989080/</guid>
+    </item>    <item>
+      <title>Artemis II Crew and Apollo 14 Moon Tree</title>
+      <link>https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/</link>
+      <description>
+        <![CDATA[In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA&#8217;s Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon tree of the loblolly pine species. The original Apollo Moon trees were grown from seeds carried aboard [&#8230;]]]>
+      </description>
+      <source:markdown>In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA’s Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon tree of the loblolly pine species. The original Apollo Moon trees were grown from seeds carried aboard \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1015806</guid>
+    </item>    <item>
+      <title>Cyborg Cockroaches Could Help Find Survivors of Natural Disasters. New Diving Suits Allow the Insects to Expand Their Search Underwater</title>
+      <link>https://www.smithsonianmag.com/smart-news/cyborg-cockroaches-could-help-find-survivors-of-natural-disasters-new-diving-suits-allow-the-insects-to-expand-their-search-underwater-180989066/</link>
+      <description>
+        <![CDATA[Previously, researchers created electrical implants to control cockroaches' movements for search-and-rescue missions. Now, they've made 3D-printed suits that provide oxygen, allowing the critters to survive submerged for up to three hours]]>
+      </description>
+      <source:markdown>Previously, researchers created electrical implants to control cockroaches&#39; movements for search-and-rescue missions. Now, they&#39;ve made 3D-printed suits that provide oxygen, allowing the critters to survive submerged for up to three hours</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4WGOZgYQLU1RnLZYt6w1TZ4EeAY=/420x240/filters:focal(500x333:501x334)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/f4/d4f47aed-1aa9-4514-8c55-22a04d680fa7/3d-printed-suit-for-cyborg-insects-extends-operations-underwat-5a5a58b7afb4e2fb88677e29e9f0b7cf.jpg" length="122372" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/cyborg-cockroaches-could-help-find-survivors-of-natural-disasters-new-diving-suits-allow-the-insects-to-expand-their-search-underwater-180989066/</guid>
+    </item>    <item>
+      <title>July 2026 Satellite Puzzler</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/</link>
+      <description>
+        <![CDATA[Your challenge is to tell us the location of the satellite image and why it is interesting.]]>
+      </description>
+      <source:markdown>Your challenge is to tell us the location of the satellite image and why it is interesting.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/</guid>
+      <category>Earth Observatory</category>
+    </item>    <item>
+      <title>AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</link>
+      <description>
+        <![CDATA[Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code [&#8230;]]]>
+      </description>
+      <source:markdown>Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=95986</guid>
+      <category>AI Infrastructure</category>
+      <category>Agentic AI</category>
+      <category>AI Factory</category>
+      <category>AI Training</category>
+      <category>Artificial Intelligence</category>
+      <category>Hardware</category>
+      <category>Inference</category>
+      <category>NVIDIA BlueField</category>
+      <category>NVIDIA Rubin</category>
+      <category>NVIDIA Vera</category>
+    </item>    <item>
       <title>Could this anti-aging dog pill lead to one for you too?</title>
       <link>https://www.npr.org/2026/07/07/nx-s1-5830039/dog-health-live-life-drug</link>
       <description>
@@ -117,6 +288,15 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station.  “NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry \[…\]</source:markdown>
       <guid>cid://https://www.nasa.gov/?p=1014941</guid>
       <category>Commercial Space</category>
+    </item>    <item>
+      <title>How a Hungry Komodo Dragon Led Scientists to Determine Our Small, Hobbit-Like Cousins Probably Weren&#39;t That Smart After All</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-a-hungry-komodo-dragod-led-scientists-to-determine-our-small-hobbit-like-cousins-probably-werent-that-smart-after-all-180989078/</link>
+      <description>
+        <![CDATA[New research indicates "Homo floresiensis" probably wasn't hunting big game or using fire on Flores Island, suggesting the small-brained species wasn't quite as "behaviorally advanced" as once hypothesized]]>
+      </description>
+      <source:markdown>New research indicates &#34;Homo floresiensis&#34; probably wasn&#39;t hunting big game or using fire on Flores Island, suggesting the small-brained species wasn&#39;t quite as &#34;behaviorally advanced&#34; as once hypothesized</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1OMeCd8VthsYLp8ot1dA4IqiYSA=/420x240/filters:focal(1250x833:1251x834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/e8/89e86061-60e0-4484-af79-9da7aeac7343/skulls.jpg" length="518702" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/how-a-hungry-komodo-dragod-led-scientists-to-determine-our-small-hobbit-like-cousins-probably-werent-that-smart-after-all-180989078/</guid>
     </item>    <item>
       <title>NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies</title>
       <link>https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/</link>
@@ -2742,240 +2922,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/</guid>
-    </item>    <item>
-      <title>Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-xr-ai/</link>
-      <description>
-        <![CDATA[NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;]]>
-      </description>
-      <source:markdown>NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94578</guid>
-      <category>Pro Graphics</category>
-      <category>Artificial Intelligence</category>
-      <category>CloudXR</category>
-      <category>Digital Twin</category>
-      <category>Hardware</category>
-      <category>Industrial and Manufacturing</category>
-      <category>Rendering</category>
-      <category>Simulation and Design</category>
-      <category>Virtual Reality</category>
-    </item>    <item>
-      <title>Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone</title>
-      <link>https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</link>
-      <description>
-        <![CDATA[AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas.  The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide [&#8230;]]]>
-      </description>
-      <source:markdown>AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas.  The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94475</guid>
-    </item>    <item>
-      <title>Scientists Uncover New Clues About the Volcanic Origins of the Giant&#39;s Causeway, an Iconic Geologic Structure in Northern Ireland</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-uncover-new-clues-about-the-volcanic-origins-of-the-giants-causeway-an-iconic-geologic-structure-in-northern-ireland-180988967/</link>
-      <description>
-        <![CDATA[The UNESCO World Heritage Site, which features 40,000 near-perfect hexagonal columns, formed roughly 60 million years ago during a period of intense volcanic activity]]>
-      </description>
-      <source:markdown>The UNESCO World Heritage Site, which features 40,000 near-perfect hexagonal columns, formed roughly 60 million years ago during a period of intense volcanic activity</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hBJ_EZZ-w3eihP66wforiBitUH8=/420x240/filters:focal(512x341:513x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/38/5438a68e-a14c-423f-a8fb-56667ad1b296/7329884194_80f658dacd_b.jpg" length="245979" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-uncover-new-clues-about-the-volcanic-origins-of-the-giants-causeway-an-iconic-geologic-structure-in-northern-ireland-180988967/</guid>
-    </item>    <item>
-      <title>NASA’s Webb Catches Exoplanet Getting Roasted</title>
-      <link>https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/</link>
-      <description>
-        <![CDATA[That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star.]]>
-      </description>
-      <source:markdown>That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/</guid>
-    </item>    <item>
-      <title>Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab</title>
-      <link>https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/</link>
-      <description>
-        <![CDATA[Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close […]]]>
-      </description>
-      <source:markdown>Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/</guid>
-    </item>    <item>
-      <title>KDE Plasma 6.7 released</title>
-      <link>https://www.osnews.com/story/145325/kde-plasma-6-7-released/</link>
-      <description>
-        <![CDATA[The KDE team released KDE Plasma 6.7 today, and with it comes a long list of improvements, new features, bug fixes, new old themes, and so much more. A new feature that is sure to please those among us who use virtual desktops: you can now have different virtual desktop setups per display. It&#8217;s been a long-requested feature, so it&#8217;s great to see it makes its way to the KDE users. I despise virtual desktops, but I&#8217;m happy to see something that I assumed was already part of KDE to finally actually become available. Another major feature in KDE Plasma 6.7 is something we&#8217;ve already talked about: the return of the classic Oxygen and Air themes from the KDE 4.x days. These themes have seen extensive work over the past year or so to make them usable on the latest KDE release, which includes tons of bug fixes, visual nips and tucks, and countless additions to the collection of assets required to make a modern KDE theme look complete. This includes a ton of new icons in the old styles, light and dark modes, accent colour support, and much more. There&#8217;s still work left here, including adding support for QtQuick/Kirigami applications &#8211; which brings us to the next major new addition to KDE 6.7 This is also something we&#8217;ve already talked about: Union. I won&#8217;t repeat what I already explained last time Union came up, but suffice it to say that Union effectively unifies the various different ways KDE applications are themed, allowing theme designers to use relatively standard CSS to create themes that cover every aspect of the KDE user experience. Before Union, theme designers had to create individual, unique themes for a variety of parts of KDE &#8211; the Plasma desktop, QtWidgets using QStyle, QtQuick/Kirigami &#8211; which was a ton of work, and in the case of QtQuick/Kirigami, wasn&#8217;t really possible at all. As such, without Union, KDE&#8217;s theming is essentially broken, and Union fixes that. For now, Union is not enabled by default, and must be installed and enabled separately for testing. Of course, there&#8217;s a ton of other smaller new features, changes, and bug fixes as well. KDE Plasma 6.7 will find its way to your distribution soon enough.]]>
-      </description>
-      <source:markdown>The KDE team released KDE Plasma 6.7 today, and with it comes a long list of improvements, new features, bug fixes, new old themes, and so much more. A new feature that is sure to please those among us who use virtual desktops: you can now have different virtual desktop setups per display. It’s been a long-requested feature, so it’s great to see it makes its way to the KDE users. I despise virtual desktops, but I’m happy to see something that I assumed was already part of KDE to finally actually become available. Another major feature in KDE Plasma 6.7 is something we’ve already talked about: the return of the classic Oxygen and Air themes from the KDE 4.x days. These themes have seen extensive work over the past year or so to make them usable on the latest KDE release, which includes tons of bug fixes, visual nips and tucks, and countless additions to the collection of assets required to make a modern KDE theme look complete. This includes a ton of new icons in the old styles, light and dark modes, accent colour support, and much more. There’s still work left here, including adding support for QtQuick/Kirigami applications – which brings us to the next major new addition to KDE 6.7 This is also something we’ve already talked about: Union. I won’t repeat what I already explained last time Union came up, but suffice it to say that Union effectively unifies the various different ways KDE applications are themed, allowing theme designers to use relatively standard CSS to create themes that cover every aspect of the KDE user experience. Before Union, theme designers had to create individual, unique themes for a variety of parts of KDE – the Plasma desktop, QtWidgets using QStyle, QtQuick/Kirigami – which was a ton of work, and in the case of QtQuick/Kirigami, wasn’t really possible at all. As such, without Union, KDE’s theming is essentially broken, and Union fixes that. For now, Union is not enabled by default, and must be installed and enabled separately for testing. Of course, there’s a ton of other smaller new features, changes, and bug fixes as well. KDE Plasma 6.7 will find its way to your distribution soon enough.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145325</guid>
-      <category>KDE</category>
-    </item>    <item>
-      <title>Apple adds keylogger to iOS App Store for targeted advertising: tied to your account and unencrypted</title>
-      <link>https://www.osnews.com/story/145322/apple-adds-keylogger-to-ios-app-store-for-targeted-advertising-tied-to-your-account-and-unencrypted/</link>
-      <description>
-        <![CDATA[A week or so ago, Apple announced a bunch of features for the App Store on iOS, including personalised recommendations based on your activity and usage of iOS. It turns out this includes a keylogger (taplogger?) in the App Store, which records every single tap you make, every single letter you enter, and a lot of other information. All of this information is unencrypted and sent to Apple. Now Apple is putting the extensive identifiable analytics they collect in the App Store in action. They record every tap and there’s no way to turn it off. They can even calculate your typing speed. ↫ Michael Tsai, quoting Mysk The provided screenshots of the data collected are terrifying, especially because the data is unencrypted, sent to Apple, and fully tied to your user account. Apple clearly wants a slice of that big, juicy advertising pie, and they, too, are discovering that the easiest and best way to serve targeted ads is to collect as much data as they can about you. Of course, this is something the entire internet (but not OSNews!) and several megacorporations are built on by now, but Apple has been incredibly sanctimonious about how it supposedly actually cares about user privacy, making this keylogger yet another case of Apple&#8217;s hypocrisy on full display. Of course, if you care about privacy, you&#8217;re entirely free to download your iOS applications from somewhere other than the App Store and install them yours&#8230; Oh, wait.]]>
-      </description>
-      <source:markdown>A week or so ago, Apple announced a bunch of features for the App Store on iOS, including personalised recommendations based on your activity and usage of iOS. It turns out this includes a keylogger (taplogger?) in the App Store, which records every single tap you make, every single letter you enter, and a lot of other information. All of this information is unencrypted and sent to Apple. Now Apple is putting the extensive identifiable analytics they collect in the App Store in action. They record every tap and there’s no way to turn it off. They can even calculate your typing speed. ↫ Michael Tsai, quoting Mysk The provided screenshots of the data collected are terrifying, especially because the data is unencrypted, sent to Apple, and fully tied to your user account. Apple clearly wants a slice of that big, juicy advertising pie, and they, too, are discovering that the easiest and best way to serve targeted ads is to collect as much data as they can about you. Of course, this is something the entire internet (but not OSNews!) and several megacorporations are built on by now, but Apple has been incredibly sanctimonious about how it supposedly actually cares about user privacy, making this keylogger yet another case of Apple’s hypocrisy on full display. Of course, if you care about privacy, you’re entirely free to download your iOS applications from somewhere other than the App Store and install them yours… Oh, wait.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145322</guid>
-      <category>Apple</category>
-    </item>    <item>
-      <title>NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation</title>
-      <link>https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/</link>
-      <description>
-        <![CDATA[Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve over time. A globular star cluster typically has only […]]]>
-      </description>
-      <source:markdown>Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve over time. A globular star cluster typically has only \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/</guid>
-    </item>    <item>
-      <title>NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade</title>
-      <link>https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/</link>
-      <description>
-        <![CDATA[Astronauts aboard the International Space Station have switched on NASA’s newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum technologies. By leveraging the unique environment of microgravity in space, the lab can accomplish cutting-edge science impossible to do anywhere else. Quantum [&#8230;]]]>
-      </description>
-      <source:markdown>Astronauts aboard the International Space Station have switched on NASA’s newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum technologies. By leveraging the unique environment of microgravity in space, the lab can accomplish cutting-edge science impossible to do anywhere else. Quantum \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1006567</guid>
-    </item>    <item>
-      <title>HPE AI Factory With NVIDIA Expands for the Era of Agents</title>
-      <link>https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</link>
-      <description>
-        <![CDATA[Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit [&#8230;]]]>
-      </description>
-      <source:markdown>Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94468</guid>
-    </item>    <item>
-      <title>See a Stunning View of the Southern Lights Dancing Across the Earth Captured by a NASA Astronaut</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-a-stunning-view-of-the-southern-lights-dancing-across-the-earth-captured-by-a-nasa-astronaut-180988960/</link>
-      <description>
-        <![CDATA[Jessica Meir, commander of NASA's SpaceX Crew-12 mission, shared photos and videos of a green aurora she shot while sheltering in a capsule outside the International Space Station]]>
-      </description>
-      <source:markdown>Jessica Meir, commander of NASA&#39;s SpaceX Crew-12 mission, shared photos and videos of a green aurora she shot while sheltering in a capsule outside the International Space Station</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LT-WlnJwvozqevMXdhQkeCN6NZQ=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ff/31/ff31bc78-bb76-426d-81dc-5a0755f7435d/aurora-pic.jpg" length="197815" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-a-stunning-view-of-the-southern-lights-dancing-across-the-earth-captured-by-a-nasa-astronaut-180988960/</guid>
-    </item>    <item>
-      <title>NASA Uses Machine Learning to Enhance Flash Flood Warnings</title>
-      <link>https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/</link>
-      <description>
-        <![CDATA[The Transient Artifact and Continuous Learning System (TACLS) leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at the National Weather Service forecast flash floods more efficiently.]]>
-      </description>
-      <source:markdown>The Transient Artifact and Continuous Learning System (TACLS) leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at the National Weather Service forecast flash floods more efficiently.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/</guid>
-    </item>    <item>
-      <title>Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0</title>
-      <link>https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/</link>
-      <description>
-        <![CDATA[Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably.  As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising.  In [&#8230;]]]>
-      </description>
-      <source:markdown>Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably.  As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising.  In \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94478</guid>
-    </item>    <item>
-      <title>Department of Health and Human Services Digital Stockpile &#38; Manufacturing Response Network Challenge</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/</link>
-      <description>
-        <![CDATA[NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. Sponsored by the Administration for Strategic Preparedness and Response (ASPR), a division of the U.S. Department of [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. Sponsored by the Administration for Strategic Preparedness and Response (ASPR), a division of the U.S. Department of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1006378</guid>
-    </item>    <item>
-      <title>Metrics</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nssc/metrics/</link>
-      <description>
-        <![CDATA[Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA [&#8230;]]]>
-      </description>
-      <source:markdown>Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?migration=converted-node-464562</guid>
-    </item>    <item>
-      <title>Aurora Australis</title>
-      <link>https://www.nasa.gov/image-article/aurora-australis-7/</link>
-      <description>
-        <![CDATA[The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between [&#8230;]]]>
-      </description>
-      <source:markdown>The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1005183</guid>
-    </item>    <item>
-      <title>See the First-Ever Photographs of Cozumel’s Elusive Dwarf Fox, One of the Rarest Canids in the World</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-first-ever-photographs-of-cozumels-elusive-dwarf-fox-one-of-the-rarest-canids-in-the-world-180988961/</link>
-      <description>
-        <![CDATA[No one had seen the creatures in more than two decades, leading scientists to wonder whether they'd gone extinct. That changed in September 2023]]>
-      </description>
-      <source:markdown>No one had seen the creatures in more than two decades, leading scientists to wonder whether they&#39;d gone extinct. That changed in September 2023</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iza9iNoRDFX3MQvd1YE6hd42Rf0=/420x240/filters:focal(1280x719:1281x720)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/0b/e20b69f5-1439-47f5-9456-20f22e0d6d44/fox2slide.png" length="5980320" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-first-ever-photographs-of-cozumels-elusive-dwarf-fox-one-of-the-rarest-canids-in-the-world-180988961/</guid>
-    </item>    <item>
-      <title>The time the Windows x86 emulator team found code so bad that they fixed it during emulation</title>
-      <link>https://www.osnews.com/story/145320/the-time-the-windows-x86-emulator-team-found-code-so-bad-that-they-fixed-it-during-emulation/</link>
-      <description>
-        <![CDATA[Another story from the good old days from Raymond Chen. During an exchange of war stories, a colleague of mine told one from back in the days when Windows included a processor emulator for x86-32 on systems that natively ran some other processor. (This has happened many times. And no, I don’t know which processor this particular story applied to.) ↫ Raymond Chen at The Old New Thing So the core of the story comes down to this: All in all, it took this program 256 kilobytes of code to initialize 64 kilobytes of data. ↫ Raymond Chen at The Old New Thing The people working on Windows were so offended by this, they added code to the processor emulator just to fix this program.]]>
-      </description>
-      <source:markdown>Another story from the good old days from Raymond Chen. During an exchange of war stories, a colleague of mine told one from back in the days when Windows included a processor emulator for x86-32 on systems that natively ran some other processor. (This has happened many times. And no, I don’t know which processor this particular story applied to.) ↫ Raymond Chen at The Old New Thing So the core of the story comes down to this: All in all, it took this program 256 kilobytes of code to initialize 64 kilobytes of data. ↫ Raymond Chen at The Old New Thing The people working on Windows were so offended by this, they added code to the processor emulator just to fix this program.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145320</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>FreeBSD 15.1 released</title>
-      <link>https://www.osnews.com/story/145318/freebsd-15-1-released/</link>
-      <description>
-        <![CDATA[Speaking of FreeBSD, the project released version 15.1 of their operating system today. As it&#8217;s a point release, it&#8217;s not full of massive changes, but it still brings the LinuxKPI-based wireless drivers up to Linux 7.0, support for the C23 version of the C has progressed considerably, Unicode has bene updated to version 17.0.0 and CLDR 48, and more.]]>
-      </description>
-      <source:markdown>Speaking of FreeBSD, the project released version 15.1 of their operating system today. As it’s a point release, it’s not full of massive changes, but it still brings the LinuxKPI-based wireless drivers up to Linux 7.0, support for the C23 version of the C has progressed considerably, Unicode has bene updated to version 17.0.0 and CLDR 48, and more.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145318</guid>
-    </item>    <item>
-      <title>FreeBSD 15 with KDE and Wayland on a Laptop</title>
-      <link>https://www.osnews.com/story/145316/freebsd-15-with-kde-and-wayland-on-a-laptop/</link>
-      <description>
-        <![CDATA[Expect to see more and more articles like this one, as more and more people discover that FreeBSD&#8217;s desktop/laptop support keeps improving rapidly. FreeBSD 15 really feels like a breakthrough release. It’s always been my favorite operating system for servers, but with the arrival of&#160;pkgbase, massive improvements to the&#160;LinuxKPI&#160;drivers, and the launch of the&#160;Laptop Support and Usability Project, it’s become my primary desktop, too. ↫ Cullum Smith Since Smith tried FreeBSD 14.0, there&#8217;s now KDE Plasma 6.x, you can leave legacy X11 behind and use Wayland on FreeBSD now, and support for Intel Wi-Fi chips has greatly expanded. Apparently, battery life has improved as well, which is one of the hardest problems to solve for an operating system, especially with the wide variety of hardware combinations in the x86 world. The rest of Smith&#8217;s article is a guide to setting up FreeBSD 15 with KDE and Wayland. It&#8217;s quite detailed with a ton of low-level tuning and fiddling, accompanied by clear and concise explanation of what the changes do, which I really like. Definitely a bookmark for anyone who wants to try out FreeBSD with KDE.]]>
-      </description>
-      <source:markdown>Expect to see more and more articles like this one, as more and more people discover that FreeBSD’s desktop/laptop support keeps improving rapidly. FreeBSD 15 really feels like a breakthrough release. It’s always been my favorite operating system for servers, but with the arrival of pkgbase, massive improvements to the LinuxKPI drivers, and the launch of the Laptop Support and Usability Project, it’s become my primary desktop, too. ↫ Cullum Smith Since Smith tried FreeBSD 14.0, there’s now KDE Plasma 6.x, you can leave legacy X11 behind and use Wayland on FreeBSD now, and support for Intel Wi-Fi chips has greatly expanded. Apparently, battery life has improved as well, which is one of the hardest problems to solve for an operating system, especially with the wide variety of hardware combinations in the x86 world. The rest of Smith’s article is a guide to setting up FreeBSD 15 with KDE and Wayland. It’s quite detailed with a ton of low-level tuning and fiddling, accompanied by clear and concise explanation of what the changes do, which I really like. Definitely a bookmark for anyone who wants to try out FreeBSD with KDE.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145316</guid>
-    </item>    <item>
-      <title>Mobile Progress Report: June 2026</title>
-      <link>https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/</link>
-      <description>
-        <![CDATA[<p>The past month was busy; the theme was evolution. We went into this quarter with our own ideas for what we wanted to accomplish. However, our users had better ideas. With the release of Thunderbird’s own mail service, Thundermail, the need for a better account settings import process across our services and apps became vital. [&#8230;]</p>
-        <p>The post <a href="https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/">Mobile Progress Report: June 2026</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
-      </description>
-      <source:markdown>The past month was busy; the theme was evolution. We went into this quarter with our own ideas for what we wanted to accomplish. However, our users had better ideas. With the release of Thunderbird’s own mail service, Thundermail, the need for a better account settings import process across our services and apps became vital. \[…\]
-
-The post [Mobile Progress Report: June 2026](https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
-      <guid>cid://https://blog.thunderbird.net/?p=4319</guid>
-      <category>Development</category>
-      <category>Mobile</category>
-      <category>Android</category>
-      <category>Android Progress Report</category>
-      <category>iOS</category>
-      <category>K-9 Mail</category>
-    </item>    <item>
-      <title>You Can Now See Betsy Ross’ Sewing Table in Philadelphia, Thanks to a Flag Day Donation From Her Great-Great-Great-Great Grandson</title>
-      <link>https://www.smithsonianmag.com/smart-news/you-can-now-see-betsy-ross-sewing-table-in-philadelphia-thanks-to-a-flag-day-donation-from-her-great-great-great-great-grandson-180988963/</link>
-      <description>
-        <![CDATA[The origins of the Stars and Stripes are murky, but generations of Americans have admired stories about Ross creating the first American flag]]>
-      </description>
-      <source:markdown>The origins of the Stars and Stripes are murky, but generations of Americans have admired stories about Ross creating the first American flag</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/oFhqC1CxCab893ucp7Kg_V0hHbQ=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/85/3485e7bb-d0e9-4ddd-97e6-4d37706213d7/fix_2.jpg" length="83588" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/you-can-now-see-betsy-ross-sewing-table-in-philadelphia-thanks-to-a-flag-day-donation-from-her-great-great-great-great-grandson-180988963/</guid>
-    </item>    <item>
-      <title>Could air pollution make your memory worse?</title>
-      <link>https://www.npr.org/2026/06/16/nx-s1-5846602/science-memory-air-pollution</link>
-      <description>
-        <![CDATA[Summer is here, your windows are open and the smell of…car exhaust and the latest wildfire are wafting in. This air pollution is harmful to <a href="https://evidence.nejm.org/doi/full/10.1056/EVIDra2200068?st_source=ai_mode"target="_blank"   >almost every organ</a>, including the brain. Today on <em>Short Wave</em>, we talk about one way air pollution may cloud your memory.<br/><br/><em>Interested in more episodes about how where we live affects us? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em> and we may turn it into an episode!</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Summer is here, your windows are open and the smell of…car exhaust and the latest wildfire are wafting in. This air pollution is harmful to [almost every organ](https://evidence.nejm.org/doi/full/10.1056/EVIDra2200068?st_source=ai_mode), including the brain. Today on _Short Wave_, we talk about one way air pollution may cloud your memory.
-
-_Interested in more episodes about how where we live affects us? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _and we may turn it into an episode!_
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f39b3623-5442-4e73-8061-a62f0eb16dc3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f39b3623-5442-4e73-8061-a62f0eb16dc3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5846602&p=510351&d=621&size=9943293" length="9943293" type="audio/mpeg" />
-      <guid>cid://fafcb686-2763-4327-a29d-ccc88f4771d4</guid>
-    </item>    <item>
-      <title>Nebraska’s Wide, Rolling Domain</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/</link>
-      <description>
-        <![CDATA[The Nebraska Sandhills—the largest system of sand dunes in the Western Hemisphere—stretch across about one-quarter of the state.]]>
-      </description>
-      <source:markdown>The Nebraska Sandhills—the largest system of sand dunes in the Western Hemisphere—stretch across about one-quarter of the state.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/</guid>
-    </item>    <item>
-      <title>Explore JPL to Take Place Oct. 10, 11</title>
-      <link>https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/</link>
-      <description>
-        <![CDATA[Celebrating&#160;its 90th&#160;anniversary&#160;this year,&#160;NASA’s Jet Propulsion Laboratory&#160;invites&#160;the public to its campus&#160;at&#160;the base of the San Gabriel Mountains&#160;in Southern California&#160;for an&#160;open-house event,&#160;Explore JPL. On Oct. 10 and 11, from&#160;9:30 a.m. to 4 p.m. PDT,&#160;visitors will get&#160;the chance to visit JPL’s most iconic facilities and explore four thematic areas: Missions That Changed the World, Moon to Mars, In [&#8230;]]]>
-      </description>
-      <source:markdown>Celebrating its 90th anniversary this year, NASA’s Jet Propulsion Laboratory invites the public to its campus at the base of the San Gabriel Mountains in Southern California for an open-house event, Explore JPL. On Oct. 10 and 11, from 9:30 a.m. to 4 p.m. PDT, visitors will get the chance to visit JPL’s most iconic facilities and explore four thematic areas: Missions That Changed the World, Moon to Mars, In \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1006143</guid>
     </item>
   </channel>
 </rss>

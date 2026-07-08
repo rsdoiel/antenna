@@ -81,7 +81,6 @@ title: Items of interest to the Equitorial Pacific community
 
 - [The Husk](https://thehusk.substack.com/feed)
 - [Patrick Pedrus, Micronesian Blog](https://patrickpedrus.substack.com/feed)
-- [CDR Salamander](https://cdrsalamander.substack.com/feed)
 
 
 # Pacific Arts and Culture
