@@ -4,10 +4,27 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>08 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>09 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/07/08 - Farage, Immigration and reality.</title>
+      <link>https://heyrick.eu/blog/entry/20260708</link>
+      <description>
+        <![CDATA[Farage, Immigration and reality.]]>
+      </description>
+      <source:markdown>Farage, Immigration and reality.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260708</guid>
+    </item>    <item>
+      <title>Hannah Montana Linux Is Back!</title>
+      <link>http://www.linux-magazine.com/Online/News/Hannah-Montana-Linux-Is-Back</link>
+      <description>
+        <![CDATA[<p>Developer Noah Cagle decided the world needed the once obscure but beloved Linux distribution and gave it a decidedly pink refresh.</p>]]>
+      </description>
+      <source:markdown>Developer Noah Cagle decided the world needed the once obscure but beloved Linux distribution and gave it a decidedly pink refresh.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://26c21bbd715b3b59719e282b4dc1e25d</guid>
+    </item>    <item>
       <title>b.log 2026/07/07 - Farage, Blatant cheat failure, Darkness.</title>
       <link>https://heyrick.eu/blog/entry/20260707</link>
       <description>

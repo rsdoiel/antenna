@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>08 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>09 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Galileo Galilei: sa vie, son procès et ses contemporains by Philarète Chasles</title>
+      <link>https://www.gutenberg.org/ebooks/79052</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The place called Dagon by Herbert Gorman</title>
+      <link>https://www.gutenberg.org/ebooks/79055</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In His Steps by Charles M. Sheldon</title>
+      <link>https://www.gutenberg.org/ebooks/4540</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Die Hauptströmungen der Literatur des neunzehnten Jahrhunderts, 3. Die Reaktion in Frankreich</title>
+      <link>https://www.gutenberg.org/ebooks/79048</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The storm that had to be stopped by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79049</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Oldham : by Lucy Ellen Guernsey</title>
+      <link>https://www.gutenberg.org/ebooks/79054</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Double jeopardy by Martin M. Goldsmith</title>
+      <link>https://www.gutenberg.org/ebooks/79047</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Slips of tongue and pen by J. H.  Long</title>
+      <link>https://www.gutenberg.org/ebooks/79050</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Atalanta : by Charles Napier Richards</title>
+      <link>https://www.gutenberg.org/ebooks/79051</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Red Gods by Jean d&#39;Esme</title>
+      <link>https://www.gutenberg.org/ebooks/79053</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The zoology of the voyage of H.M.S. Beagle [vol. 3 of 5] : by John Gould</title>
       <link>https://www.gutenberg.org/ebooks/74261</link>
       <description>
@@ -1307,89 +1377,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Fred Gross Stories, by Ring Lardner</title>
-      <link>https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories</link>
-      <description>
-        <![CDATA[A police detective attempts to live the American dream in the Chicago suburbs.]]>
-      </description>
-      <source:markdown>A police detective attempts to live the American dream in the Chicago suburbs.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories/downloads/ring-lardner_fred-gross-stories.epub?source=feed" length="583083" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories</guid>
-      <category>Comedy</category>
-      <category>Fiction</category>
-      <category>Satire</category>
-      <category>Shorts</category>
-    </item>    <item>
-      <title>The Time Machine by H. G.  Wells</title>
-      <link>https://www.gutenberg.org/ebooks/35</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Critical, Historical, and Miscellaneous Essays; Vol. 6 by Baron Thomas Babington Macaulay Macaulay</title>
-      <link>https://www.gutenberg.org/ebooks/55906</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Book of Khalid by Ameen Fares Rihani</title>
-      <link>https://www.gutenberg.org/ebooks/29257</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Jack Brag, vol. 3 (of 3) by Theodore Edward Hook</title>
-      <link>https://www.gutenberg.org/ebooks/78878</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Clean crazy by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78877</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Unconquered : by Maud Diver</title>
-      <link>https://www.gutenberg.org/ebooks/78882</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Beowulf</title>
-      <link>https://www.gutenberg.org/ebooks/981</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Animals of ancient lands by Carroll Lane Fenton</title>
-      <link>https://www.gutenberg.org/ebooks/78879</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>La storia di Girolamo Savonarola e de&#39; suoi tempi, volume 1 (of 2) by Pasquale Villari</title>
-      <link>https://www.gutenberg.org/ebooks/78880</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>La storia di Girolamo Savonarola e de&#39; suoi tempi, volume 2 (of 2) by Pasquale Villari</title>
-      <link>https://www.gutenberg.org/ebooks/78881</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
     </item>
   </channel>
 </rss>

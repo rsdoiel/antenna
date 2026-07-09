@@ -4,10 +4,172 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>08 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>09 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Will We Ever Find Alien Civilizations?</title>
+      <link>https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-20260709/</link>
+      <description>
+        <![CDATA[Astronomer David Kipping discusses why claims of extraterrestrial life keep dissolving under scrutiny, why we need a more statistically grounded approach to searching for life beyond Earth, and why it’s rational to believe that we may be alone.             <p>The post <a href="https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-20260709/" target="_blank">Will We Ever Find Alien Civilizations?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Astronomer David Kipping discusses why claims of extraterrestrial life keep dissolving under scrutiny, why we need a more statistically grounded approach to searching for life beyond Earth, and why it’s rational to believe that we may be alone.
+
+The post [Will We Ever Find Alien Civilizations?](https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-20260709/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=164029</guid>
+      <category>Biology</category>
+      <category>Multimedia</category>
+    </item>    <item>
+      <title>GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</link>
+      <description>
+        <![CDATA[This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, [&#8230;]]]>
+      </description>
+      <source:markdown>This GFN Thursday brings more games, more power and more ways to play on GeForce NOW.  The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96029</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>Super Typhoon Bavi</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/</link>
+      <description>
+        <![CDATA[The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.]]>
+      </description>
+      <source:markdown>The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/</guid>
+      <category>Earth Observatory</category>
+      <category>Hurricanes &#38; Typhoons</category>
+      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
+    </item>    <item>
+      <title>You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went</title>
+      <link>https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/</link>
+      <description>
+        <![CDATA[You all donated en masse to have me use Windows 11 for a month, and so I did. What was it like for a long-time Linux user to go back and experience Windows as it exists now? Is it really as bad as we&#8217;ve collectively made it out to be? Did my month with Windows 11 consist of nothing but pain and misery, or are there good things to say, too? Or, was it an unexpected pleasant surprise? And ultimately, did I stay with Windows 11, or move back to the Linux world? &#x27a1;&#xfe0f; Donate through Ko-Fi &#x27a1;&#xfe0f; Donate through SEPA transfer* &#x27a1;&#xfe0f; Buy merch from our store &#x27a1;&#xfe0f; Why a fundraiser? *Name: Thom Holwerda &#8211; IBAN: SE08 8000 0820 1684 4657 8414 &#8211; BIC: SWEDSESS This year, I&#8217;m celebrating the milestone of having posted 20000 stories on OSNews during my 21 years as managing editor of OSNews. This is my full-time job, and since nobody is going to give me any bonuses, stock options, or golden pens, we&#8217;re running a big fundraiser to keep OSNews going. To add some spice to the whole thing, I added some incentives, with the first being using Windows 11 for a month. We&#8217;re slowly but steadily approaching the next incentive, too, which is a proper video tour of my office, (unique) computers, and massive devices collection. There&#8217;s a similar incentive to this Windows 11 one, but for macOS. Yikes. The rules for the Windows 11 incentive are simple: use stock Windows 11 for a month for my computing tasks (with the exception of gaming &#8211; converting my Linux gaming PC to Windows just to play the same games seemed silly). I wasn&#8217;t allowed to use any debloating tools, but as an EU citizen, I do have the ability to remove a ton of Windows stuff thanks to the success of the Digital Markets Act. I also tried to stick to Microsoft&#8217;s own applications as much as possible, for that true &#8220;ecosystem experience&#8221;, and wasn&#8217;t allowed to hack my way into a normal local user account. I was all-in. So what was it like? Setting it all up The installation process posed a number of challenges and issues. First and foremost, the Windows 11 installation process is incredibly barebones, and basically assumes no other operating system exists in the world. It has no clue anything other than Windows&#8217; filesystems exist, making it dangerously easy to accidentally damage or outright delete any other operating systems you might have installed. My laptop happens to have two M.2 SSDs in, so I could safely dedicate one of them to Windows 11 without interfering with the other SSD with Fedora installed on it, but if you&#8217;re experimenting with Windows 11 on your Linux machine with just one drive, you might want to reconsider. I also had to perform the first portion of the installation process &#8211; the WinPE section &#8211; with just my keyboard, since apparently, my trackpad was not supported and did not work at all. Once the system went through its first of what would be many reboots to come and loaded into the phase of the installation where you&#8217;re actually already running Windows 11, my trackpad came to life, but without any gestures support &#8211; so no scrolling. Not a gamebreaker or anything, but definitely annoying. A bigger issue was that the Wi-Fi 7 Intel BE200 chip in my laptop was not supported out of the box by Windows 11. This meant that I had to install these drivers during the installation process, which involves going to the Intel website and finding the correct drivers to use. To make this process more obtuse and less intuitive, you can&#8217;t use the normal driver installer; you have to specifically opt for the &#8220;Intel® PROSet/Wireless Software and Wi-Fi Drivers for IT Administrators&#8220;, download the ZIP, unpack it on a different computer, put the unpacked drivers on a USB stick, and point the Windows 11 installer to this USB stick. Mind you, the BE200 chip was launched almost three years ago, and there&#8217;s no excuse for Windows 11 not supporting this chip out of the box &#8211; like Linux does. The remainder of the installation process involved dodging a lot of tracking and telemetry prompts, reboots, a lot of waiting, setting up the dreaded online account, waiting some more, and then finally ending up at the desktop. I then set out to enjoy my EU privileges by removing whatever applications I didn&#8217;t need and turning off features I didn&#8217;t want, as well as making sure all the drivers were up to date. This mostly involved installing the Intel Driver &#38; Support Assistant and the Intel graphics drivers. Curiously, this is where I hit a returning issue: after installing the Intel GPU drivers for the first time, as well as after every subsequent update, the screen would go black and stay that way, forcing a reboot. Windows&#8217; graphics stack is supposed to be able to gracefully handle driver updates, but clearly, some bug or problem was preventing the updated Intel driver from being reinitialised. Once those initial setup tasks were behind me, I experienced two more problems. First, sleep/wake was entirely broken and simply did not work. It turns out Windows 11 really doesn&#8217;t like S3 sleep, and I had to specifically go into my laptop&#8217;s Dasharo Coreboot firmware to switch to S0ix get sleep/wake to work on Windows 11. Windows defaults to something it calls &#8220;Modern Standby&#8221;, which requires the S0ix state to be enabled. You can also disable Modern Standby which would presumably make sleep/wake work with S3 (?), but this is a whole ordeal and clearly not something Microsoft wants you to do. Of course, the correct way of handling this would be for Windows 11 to adapt its sleep/wake settings to what the firmware reports, but alas. Another problem were the laptop&#8217;s cooling fans seemingly leading lives of their own, spinning up loudly at entirely random times, irrespective of use. It was so bad and loud]]>
+      </description>
+      <source:markdown>You all donated en masse to have me use Windows 11 for a month, and so I did. What was it like for a long-time Linux user to go back and experience Windows as it exists now? Is it really as bad as we’ve collectively made it out to be? Did my month with Windows 11 consist of nothing but pain and misery, or are there good things to say, too? Or, was it an unexpected pleasant surprise? And ultimately, did I stay with Windows 11, or move back to the Linux world? ➡️ Donate through Ko-Fi ➡️ Donate through SEPA transfer\* ➡️ Buy merch from our store ➡️ Why a fundraiser? \*Name: Thom Holwerda – IBAN: SE08 8000 0820 1684 4657 8414 – BIC: SWEDSESS This year, I’m celebrating the milestone of having posted 20000 stories on OSNews during my 21 years as managing editor of OSNews. This is my full-time job, and since nobody is going to give me any bonuses, stock options, or golden pens, we’re running a big fundraiser to keep OSNews going. To add some spice to the whole thing, I added some incentives, with the first being using Windows 11 for a month. We’re slowly but steadily approaching the next incentive, too, which is a proper video tour of my office, (unique) computers, and massive devices collection. There’s a similar incentive to this Windows 11 one, but for macOS. Yikes. The rules for the Windows 11 incentive are simple: use stock Windows 11 for a month for my computing tasks (with the exception of gaming – converting my Linux gaming PC to Windows just to play the same games seemed silly). I wasn’t allowed to use any debloating tools, but as an EU citizen, I do have the ability to remove a ton of Windows stuff thanks to the success of the Digital Markets Act. I also tried to stick to Microsoft’s own applications as much as possible, for that true “ecosystem experience”, and wasn’t allowed to hack my way into a normal local user account. I was all-in. So what was it like? Setting it all up The installation process posed a number of challenges and issues. First and foremost, the Windows 11 installation process is incredibly barebones, and basically assumes no other operating system exists in the world. It has no clue anything other than Windows’ filesystems exist, making it dangerously easy to accidentally damage or outright delete any other operating systems you might have installed. My laptop happens to have two M.2 SSDs in, so I could safely dedicate one of them to Windows 11 without interfering with the other SSD with Fedora installed on it, but if you’re experimenting with Windows 11 on your Linux machine with just one drive, you might want to reconsider. I also had to perform the first portion of the installation process – the WinPE section – with just my keyboard, since apparently, my trackpad was not supported and did not work at all. Once the system went through its first of what would be many reboots to come and loaded into the phase of the installation where you’re actually already running Windows 11, my trackpad came to life, but without any gestures support – so no scrolling. Not a gamebreaker or anything, but definitely annoying. A bigger issue was that the Wi-Fi 7 Intel BE200 chip in my laptop was not supported out of the box by Windows 11. This meant that I had to install these drivers during the installation process, which involves going to the Intel website and finding the correct drivers to use. To make this process more obtuse and less intuitive, you can’t use the normal driver installer; you have to specifically opt for the “Intel® PROSet/Wireless Software and Wi-Fi Drivers for IT Administrators“, download the ZIP, unpack it on a different computer, put the unpacked drivers on a USB stick, and point the Windows 11 installer to this USB stick. Mind you, the BE200 chip was launched almost three years ago, and there’s no excuse for Windows 11 not supporting this chip out of the box – like Linux does. The remainder of the installation process involved dodging a lot of tracking and telemetry prompts, reboots, a lot of waiting, setting up the dreaded online account, waiting some more, and then finally ending up at the desktop. I then set out to enjoy my EU privileges by removing whatever applications I didn’t need and turning off features I didn’t want, as well as making sure all the drivers were up to date. This mostly involved installing the Intel Driver &#38; Support Assistant and the Intel graphics drivers. Curiously, this is where I hit a returning issue: after installing the Intel GPU drivers for the first time, as well as after every subsequent update, the screen would go black and stay that way, forcing a reboot. Windows’ graphics stack is supposed to be able to gracefully handle driver updates, but clearly, some bug or problem was preventing the updated Intel driver from being reinitialised. Once those initial setup tasks were behind me, I experienced two more problems. First, sleep/wake was entirely broken and simply did not work. It turns out Windows 11 really doesn’t like S3 sleep, and I had to specifically go into my laptop’s Dasharo Coreboot firmware to switch to S0ix get sleep/wake to work on Windows 11. Windows defaults to something it calls “Modern Standby”, which requires the S0ix state to be enabled. You can also disable Modern Standby which would presumably make sleep/wake work with S3 (?), but this is a whole ordeal and clearly not something Microsoft wants you to do. Of course, the correct way of handling this would be for Windows 11 to adapt its sleep/wake settings to what the firmware reports, but alas. Another problem were the laptop’s cooling fans seemingly leading lives of their own, spinning up loudly at entirely random times, irrespective of use. It was so bad and loud</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145459</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>The state of accessibility in GNOME</title>
+      <link>https://www.osnews.com/story/145481/the-state-of-accessibility-in-gnome/</link>
+      <description>
+        <![CDATA[With July being Disability Pride Month, GNOME&#8217;s Sophie Herold published a blog post taking stock of where GNOME stands on this front, progress that&#8217;s been made, as well as areas where the project comes short. One particular paragraph from her introduction really hits the nail on the head about accessibility discussions in tech circles: The reality of tech communities is that they are often ableist and elitist. Probably more so than the average population. If a user or contributor struggles with a tool, blame is shifted to a “skill issue,” if an interface is simplified to make it accessible to more people, it’s “dumbed down”. Assistive technologies are often developed by abled people, without involving and paying disabled people. This also leads to an attitude where contributors expect gratefulness from disabled people for providing them with the most basic needs. All these issues are also not absent from the GNOME community. ↫ Sophie Herold Even as someone who isn&#8217;t disabled and doesn&#8217;t use any tools classically shelved under the &#8220;accessibility&#8221; moniker, I encounter the attitudes she mentions in the quoted paragraph basically every day. While we can have normal, productive discussions and differences of opinion about accessibility &#8211; for instance, I strongly believe robust theming support is absolutely crucial to accessibility, while the wider GNOME community does not &#8211; the dismissive attitudes towards people with accessibility needs in the software world is shameful. Even if you don&#8217;t have accessibility needs today, you will definitely be needing them at some point in your life. If accessibility isn&#8217;t one of the first words you jot down on your mood board or whatever when you start a new software project, you&#8217;ve already done millions of people a massive disservice. Get educated, learn what you can about accessibility, listen to people with accessibility needs, and make your software better for everyone. You&#8217;ll thank yourself one day.]]>
+      </description>
+      <source:markdown>With July being Disability Pride Month, GNOME’s Sophie Herold published a blog post taking stock of where GNOME stands on this front, progress that’s been made, as well as areas where the project comes short. One particular paragraph from her introduction really hits the nail on the head about accessibility discussions in tech circles: The reality of tech communities is that they are often ableist and elitist. Probably more so than the average population. If a user or contributor struggles with a tool, blame is shifted to a “skill issue,” if an interface is simplified to make it accessible to more people, it’s “dumbed down”. Assistive technologies are often developed by abled people, without involving and paying disabled people. This also leads to an attitude where contributors expect gratefulness from disabled people for providing them with the most basic needs. All these issues are also not absent from the GNOME community. ↫ Sophie Herold Even as someone who isn’t disabled and doesn’t use any tools classically shelved under the “accessibility” moniker, I encounter the attitudes she mentions in the quoted paragraph basically every day. While we can have normal, productive discussions and differences of opinion about accessibility – for instance, I strongly believe robust theming support is absolutely crucial to accessibility, while the wider GNOME community does not – the dismissive attitudes towards people with accessibility needs in the software world is shameful. Even if you don’t have accessibility needs today, you will definitely be needing them at some point in your life. If accessibility isn’t one of the first words you jot down on your mood board or whatever when you start a new software project, you’ve already done millions of people a massive disservice. Get educated, learn what you can about accessibility, listen to people with accessibility needs, and make your software better for everyone. You’ll thank yourself one day.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145481</guid>
+      <category>Gnome</category>
+    </item>    <item>
+      <title>Next release of Cinnamon finally supports Wayland</title>
+      <link>https://www.osnews.com/story/145479/next-release-of-cinnamon-finally-supports-wayland/</link>
+      <description>
+        <![CDATA[Linux Mint&#8217;s Cinnamon is one of the last desktops to still not support Wayland, and is relegated to only being compatible with legacy X11 environments. With the next release of Cinnamon, however, this is finally going to change. We worked really hard on Wayland and we got to the point where it feels solid and the experience is almost on par with X11. Wayland support will no longer be considered “experimental”. In the next version of Cinnamon, both X11 and Wayland will be fully supported. ↫ Clement Lefebvre on the Linux Mint blog The next release of Cinnamon, version 6.8, will be part of the next release of Linux Mint, scheduled for Christmas of this year.]]>
+      </description>
+      <source:markdown>Linux Mint’s Cinnamon is one of the last desktops to still not support Wayland, and is relegated to only being compatible with legacy X11 environments. With the next release of Cinnamon, however, this is finally going to change. We worked really hard on Wayland and we got to the point where it feels solid and the experience is almost on par with X11. Wayland support will no longer be considered “experimental”. In the next version of Cinnamon, both X11 and Wayland will be fully supported. ↫ Clement Lefebvre on the Linux Mint blog The next release of Cinnamon, version 6.8, will be part of the next release of Linux Mint, scheduled for Christmas of this year.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145479</guid>
+      <category>Wayland</category>
+    </item>    <item>
+      <title>New Images Reveal That This Asteroid Is Actually Two Conjoined Space Rocks. They Form a Peanut-Shaped Object Called a &#39;Contact Binary&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/new-images-reveal-that-this-asteroid-is-actually-two-conjoined-space-rocks-that-form-a-peanut-shaped-object-called-a-contact-binary-180989090/</link>
+      <description>
+        <![CDATA[A flyby conducted by the Japanese spacecraft Hayabusa2 uncovered the asteroid's strange shape. Data gathered by the probe will also help defend the planet against potentially threatening space rocks]]>
+      </description>
+      <source:markdown>A flyby conducted by the Japanese spacecraft Hayabusa2 uncovered the asteroid&#39;s strange shape. Data gathered by the probe will also help defend the planet against potentially threatening space rocks</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/a1D9fBPaxAHSXolV3Spcig4UuSk=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/18/f9188b50-57ac-41f6-b2ee-7950a7407a6a/07sci-torifune-lmpq-superjumbo.png" length="1005587" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/new-images-reveal-that-this-asteroid-is-actually-two-conjoined-space-rocks-that-form-a-peanut-shaped-object-called-a-contact-binary-180989090/</guid>
+    </item>    <item>
+      <title>Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion</title>
+      <link>https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/</link>
+      <description>
+        <![CDATA[For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their elders. But today, the shoreline is changing more rapidly. Coastal erosion is slowly taking land away. Land that already holds a history of loss.]]>
+      </description>
+      <source:markdown>For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their elders. But today, the shoreline is changing more rapidly. Coastal erosion is slowly taking land away. Land that already holds a history of loss.</source:markdown>
+      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/</guid>
+      <category>Science Activation</category>
+    </item>    <item>
+      <title>The City of Boston Discovered One of the Oldest Known Gravestones of a Free Black American, Who Shared a Name With the Massachusetts Capital</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-city-of-boston-discovered-one-of-the-oldest-known-gravestones-of-a-free-black-american-who-shared-a-name-with-the-massachusetts-capital-180989088/</link>
+      <description>
+        <![CDATA[Also known as Sebastian, he died in 1729 and is buried alongside Samuel Adams, John Hancock and Paul Revere. His life tells a story of slavery and freedom in the North before the American Revolution]]>
+      </description>
+      <source:markdown>Also known as Sebastian, he died in 1729 and is buried alongside Samuel Adams, John Hancock and Paul Revere. His life tells a story of slavery and freedom in the North before the American Revolution</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/sXfoCE8mj4TzYut3hMgNKQqn_8c=/420x240/filters:focal(2586x1699:2587x1700)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/28/1c28233b-9560-4b0f-a27e-5308bc455605/usa-granary_burying_ground0.jpg" length="16255830" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-city-of-boston-discovered-one-of-the-oldest-known-gravestones-of-a-free-black-american-who-shared-a-name-with-the-massachusetts-capital-180989088/</guid>
+    </item>    <item>
+      <title>&#39;Like an Explosion in a Glass Factory&#39;: Frank Gehry&#39;s Seven-Ton &#39;Icehenge&#39; Desk That Once Graced a Skyscraper Lobby Is Up for Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/like-an-explosion-in-a-glass-factory-frank-gehrys-seven-ton-icehenge-desk-that-once-graced-a-skyscraper-is-up-for-auction-180989087/</link>
+      <description>
+        <![CDATA[Designed for the Inland Steel Building in Chicago, the desk is made from more than a dozen blocks of jagged, green-tinted glass]]>
+      </description>
+      <source:markdown>Designed for the Inland Steel Building in Chicago, the desk is made from more than a dozen blocks of jagged, green-tinted glass</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qGOLtpGylcE6acLhpW_TvaR9Bm0=/420x240/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c2/ce/c2ce0048-3318-4f9f-8b0f-1f95cc43dff7/medium_380264-1_4.jpg" length="423457" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/like-an-explosion-in-a-glass-factory-frank-gehrys-seven-ton-icehenge-desk-that-once-graced-a-skyscraper-is-up-for-auction-180989087/</guid>
+    </item>    <item>
+      <title>Did This Duke Poison His Brother? A New DNA Analysis May Solve the Centuries-Old Medici Mystery</title>
+      <link>https://www.smithsonianmag.com/smart-news/did-this-duke-poison-his-brother-a-new-dna-analysis-may-solve-the-centuries-old-medici-mystery-180989086/</link>
+      <description>
+        <![CDATA[Researchers found evidence of malaria in Francesco I de' Medici's bones, leading them to argue "with scientific certainty" that it was disease, not arsenic, that led to his death in 1587]]>
+      </description>
+      <source:markdown>Researchers found evidence of malaria in Francesco I de&#39; Medici&#39;s bones, leading them to argue &#34;with scientific certainty&#34; that it was disease, not arsenic, that led to his death in 1587</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nuzESvOCXSVTybmVPCLqiooU9wI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/42/55427b72-9621-4c2a-ba04-fd97cc7e2831/francesco.png" length="1579799" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/did-this-duke-poison-his-brother-a-new-dna-analysis-may-solve-the-centuries-old-medici-mystery-180989086/</guid>
+    </item>    <item>
+      <title>The Arctic Ocean May Have Passed a Crucial Tipping Point That Could Harm Food Webs and Worsen Climate Change</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-arctic-ocean-may-have-passed-a-crucial-tipping-point-that-could-harm-food-webs-and-worsen-climate-change-180989083/</link>
+      <description>
+        <![CDATA[Sea ice loss seems to have triggered a decline in the nutrient nitrate, affecting the tiny organisms that form the foundations of marine food chains and absorb atmospheric carbon dioxide, according to a new study]]>
+      </description>
+      <source:markdown>Sea ice loss seems to have triggered a decline in the nutrient nitrate, affecting the tiny organisms that form the foundations of marine food chains and absorb atmospheric carbon dioxide, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/x87ImjEjIfkeun8_40hfMyDxmYk=/420x240/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/97/56971bb0-7575-4266-b735-7cb1088cba6c/polar-research-vessel-rv-kronprins-haakon-in-fram-strait-arctic-ocean.webp" length="261588" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-arctic-ocean-may-have-passed-a-crucial-tipping-point-that-could-harm-food-webs-and-worsen-climate-change-180989083/</guid>
+    </item>    <item>
+      <title>NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</link>
+      <description>
+        <![CDATA[NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96008</guid>
+      <category>Deep Learning</category>
+      <category>Nemotron</category>
+    </item>    <item>
+      <title>Our Ancestors Loved Shell Trinkets, Just Like Neanderthals. New Research Suggests It&#39;s a Sign of Shared Culture Across Species</title>
+      <link>https://www.smithsonianmag.com/smart-news/our-ancestors-loved-shell-trinkets-just-like-neanderthals-new-research-suggests-its-a-sign-of-shared-culture-across-species-180989085/</link>
+      <description>
+        <![CDATA[Based on artifacts found in a limestone cave on the Mediterranean coast, scientists think the two species might have shared similar survival strategies, stone tool technologies and symbolic traditions]]>
+      </description>
+      <source:markdown>Based on artifacts found in a limestone cave on the Mediterranean coast, scientists think the two species might have shared similar survival strategies, stone tool technologies and symbolic traditions</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hpzy8EbLpM-UpofjjwJ9bNwYloc=/420x240/filters:focal(1000x924:1001x925)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/1a/d21a002a-1a77-4c53-bf79-e3940dd13cc0/shell.webp" length="86498" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/our-ancestors-loved-shell-trinkets-just-like-neanderthals-new-research-suggests-its-a-sign-of-shared-culture-across-species-180989085/</guid>
+    </item>    <item>
+      <title>Is Life Just Different?</title>
+      <link>https://www.quantamagazine.org/is-life-just-different-20260708/</link>
+      <description>
+        <![CDATA[The idea of ‘biological agency’ — that life devises its own goals and behaves accordingly — complicates our understanding of what it means to be alive. But does it serve a scientific purpose?             <p>The post <a href="https://www.quantamagazine.org/is-life-just-different-20260708/" target="_blank">Is Life Just Different?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The idea of ‘biological agency’ — that life devises its own goals and behaves accordingly — complicates our understanding of what it means to be alive. But does it serve a scientific purpose?
+
+The post [Is Life Just Different?](https://www.quantamagazine.org/is-life-just-different-20260708/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=163975</guid>
+      <category>Biology</category>
+    </item>    <item>
+      <title>Hubble Captures Star-Studded Cluster</title>
+      <link>https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/</link>
+      <description>
+        <![CDATA[This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular clusters&#160;are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are [&#8230;]]]>
+      </description>
+      <source:markdown>This image from NASA’s Hubble Space Telescope showcases Messier 3 (M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars. Globular clusters are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1015878</guid>
+    </item>    <item>
+      <title>Sperm Whales Living in the Eastern Mediterranean Sea Seem to Have Developed a Distinct Dialect From Those in the West</title>
+      <link>https://www.smithsonianmag.com/smart-news/sperm-whales-living-in-the-eastern-mediterranean-sea-seem-to-have-developed-a-distinct-dialect-from-those-in-the-west-180989084/</link>
+      <description>
+        <![CDATA[All Mediterranean sperm whales were thought to be part of one cultural group, identifiable by a unique pattern of clicks, or a coda. But sound recordings suggest that eastern creatures use a sped-up version of the western whales' coda]]>
+      </description>
+      <source:markdown>All Mediterranean sperm whales were thought to be part of one cultural group, identifiable by a unique pattern of clicks, or a coda. But sound recordings suggest that eastern creatures use a sped-up version of the western whales&#39; coda</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DoOhXf_TXkKLVnLxhu26NZKwJPk=/420x240/filters:focal(375x214:376x215)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/13/bb13979f-ccc8-48f8-aad3-fdb798995c94/for-web-750x422.webp" length="338828" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/sperm-whales-living-in-the-eastern-mediterranean-sea-seem-to-have-developed-a-distinct-dialect-from-those-in-the-west-180989084/</guid>
+    </item>    <item>
       <title>NASA&#39;s race against time to rescue a falling satellite</title>
       <link>https://www.npr.org/2026/07/08/nx-s1-5879365/nasa-swift-satellite-observatory-mission</link>
       <description>
@@ -124,7 +286,17 @@ The post [Desktop settings research: what we learned from your feedback](https:/
       <source:markdown>Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/</guid>
       <category>Deep Space Network</category>
+      <category>Dwarf Planets</category>
+      <category>Missions</category>
+      <category>NASA Directorates</category>
       <category>New Horizons</category>
+      <category>Planetary Science</category>
+      <category>Planetary Science Division</category>
+      <category>Pluto</category>
+      <category>Science Mission Directorate</category>
+      <category>The Kuiper Belt</category>
+      <category>The Solar System</category>
+      <category>Uncategorized</category>
     </item>    <item>
       <title>Can You Guess the Origins of Papyrus Fragments or Painted Ceramics? A College Student Turned the Met&#39;s Open-Access Database Into an Online Game</title>
       <link>https://www.smithsonianmag.com/smart-news/can-you-guess-the-origins-of-papyrus-fragments-or-painted-ceramics-a-college-student-turned-the-mets-open-access-database-into-an-online-game-180989080/</link>
@@ -339,6 +511,15 @@ The post [Researchers Reveal the Power of ‘Quantum Proofs’](https://www.quan
       <guid>cid://https://www.quantamagazine.org/?p=163912</guid>
       <category>Computer Science</category>
     </item>    <item>
+      <title>See Ten Spectacular Images From This Year&#39;s Astronomy Photographer of the Year Contest That Capture the Wonders of the Universe</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-ten-spectacular-images-from-this-years-astronomy-photographer-of-the-year-contest-that-capture-the-wonders-of-the-universe-180989065/</link>
+      <description>
+        <![CDATA[The pictures, on the competition's shortlist, reveal the remarkable celestial objects that lie above our heads, both in deep space and closer to home]]>
+      </description>
+      <source:markdown>The pictures, on the competition&#39;s shortlist, reveal the remarkable celestial objects that lie above our heads, both in deep space and closer to home</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/966CgDXvreAQi40qRRDgPHEXX2U=/420x240/filters:focal(1000x567:1001x568)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/c9/d6c9d24f-5757-4b80-9d69-831be3c9e2ea/the_crimson_vortex_and_sapphire_blossoms_of_andromeda__chuhong_yu_and_zuoming_wang.jpg" length="997148" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-ten-spectacular-images-from-this-years-astronomy-photographer-of-the-year-contest-that-capture-the-wonders-of-the-universe-180989065/</guid>
+    </item>    <item>
       <title>NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision</title>
       <link>https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/</link>
       <description>
@@ -354,15 +535,6 @@ The post [Researchers Reveal the Power of ‘Quantum Proofs’](https://www.quan
       <category>James Webb Space Telescope (JWST)</category>
       <category>Science &#38; Research</category>
       <category>The Universe</category>
-    </item>    <item>
-      <title>See Ten Spectacular Images From This Year&#39;s Astronomy Photographer of the Year Contest That Capture the Wonders of the Universe</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-ten-spectacular-images-from-this-years-astronomy-photographer-of-the-year-contest-that-capture-the-wonders-of-the-universe-180989065/</link>
-      <description>
-        <![CDATA[The pictures, on the competition's shortlist, reveal the remarkable celestial objects that lie above our heads, both in deep space and closer to home]]>
-      </description>
-      <source:markdown>The pictures, on the competition&#39;s shortlist, reveal the remarkable celestial objects that lie above our heads, both in deep space and closer to home</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/966CgDXvreAQi40qRRDgPHEXX2U=/420x240/filters:focal(1000x567:1001x568)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/c9/d6c9d24f-5757-4b80-9d69-831be3c9e2ea/the_crimson_vortex_and_sapphire_blossoms_of_andromeda__chuhong_yu_and_zuoming_wang.jpg" length="997148" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-ten-spectacular-images-from-this-years-astronomy-photographer-of-the-year-contest-that-capture-the-wonders-of-the-universe-180989065/</guid>
     </item>    <item>
       <title>Sky Uber? Air taxis could be here soon.</title>
       <link>https://www.npr.org/2026/07/06/nx-s1-5821267/air-tech-flying-taxi-plane-helicopter</link>
@@ -2128,9 +2300,13 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
       <title>What can a tornado teach us about kindness?</title>
       <link>https://www.npr.org/2026/06/23/nx-s1-5851643/weather-tornado-catastrophe-compassion</link>
       <description>
-        <![CDATA[One evening in May of 2011, tornado sirens went off in a small Missouri city called Joplin. Thousands of homes were destroyed in the tornado, about a third of the town’s 50,000 residents were displaced and around 160 people died. And in the months following the tornado, the town became known not just for the destruction, but the kindness and cooperation that led to its recovery. Scientists who have studied behavior after mass traumas say, disasters can spark an <a href="https://www.sciencedirect.com/science/article/abs/pii/S2212420919309744?via%3Dihub"target="_blank"   >outpouring of kindness and powerful bonds between strangers</a>. Reporter <a href="https://paulinebartolone.org/about-us/"target="_blank"   >Pauline Bartolone</a> joins <em>Short Wave</em> co-host Emily Kwong to share the science behind this phenomenon.<br/><br/><em>Interested in more science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[One evening in May of 2011, tornado sirens went off in a small Missouri city called Joplin. Thousands of homes were destroyed in the tornado, about a third of the town’s 50,000 residents were displaced and around 160 people died. And in the months following the tornado, the town became known not just for the destruction, but the kindness and cooperation that led to its recovery. Scientists who have studied behavior after mass traumas say, disasters can spark an <a href="https://www.sciencedirect.com/science/article/abs/pii/S2212420919309744?via%3Dihub"target="_blank"   >outpouring of kindness and powerful bonds between strangers</a>. Reporter <a href="https://paulinebartolone.org/about-us/"target="_blank"   >Pauline Bartolone</a> joins <em>Short Wave</em> co-host Emily Kwong to share the science behind this phenomenon.<br>_<br/><br/><em>Funding for this story was provided by UC Berkeley's </em><a href="https://urldefense.com/v3/__https://ggsc.berkeley.edu/__;!!Iwwt!VksgObUqC9s2fQNRwiT793hjZLE5nDMud6FcB7iwh1_q_d13QrVq9jPUeCNSmX92LlVjUEwMAvY_Pwz6wg$"target="_blank"   ><em>Greater Good Science Center</em></a><em>, as part of its "Spreading Love Through the Media" initiative, supported by the </em><a href="https://urldefense.com/v3/__http://templeton.org/__;!!Iwwt!VksgObUqC9s2fQNRwiT793hjZLE5nDMud6FcB7iwh1_q_d13QrVq9jPUeCNSmX92LlVjUEwMAva8OYx2kw$"target="_blank"   ><em>John Templeton Foundation</em></a><em>.</em><br/><br/><em>Interested in more science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>One evening in May of 2011, tornado sirens went off in a small Missouri city called Joplin. Thousands of homes were destroyed in the tornado, about a third of the town’s 50,000 residents were displaced and around 160 people died. And in the months following the tornado, the town became known not just for the destruction, but the kindness and cooperation that led to its recovery. Scientists who have studied behavior after mass traumas say, disasters can spark an [outpouring of kindness and powerful bonds between strangers](https://www.sciencedirect.com/science/article/abs/pii/S2212420919309744?via%3Dihub). Reporter [Pauline Bartolone](https://paulinebartolone.org/about-us/) joins _Short Wave_ co-host Emily Kwong to share the science behind this phenomenon.
+
+\_
+
+_Funding for this story was provided by UC Berkeley&#39;s_ [_Greater Good Science Center_](https://urldefense.com/v3/__https://ggsc.berkeley.edu/__;!!Iwwt!VksgObUqC9s2fQNRwiT793hjZLE5nDMud6FcB7iwh1_q_d13QrVq9jPUeCNSmX92LlVjUEwMAvY_Pwz6wg$) _, as part of its &#34;Spreading Love Through the Media&#34; initiative, supported by the_ [_John Templeton Foundation_](https://urldefense.com/v3/__http://templeton.org/__;!!Iwwt!VksgObUqC9s2fQNRwiT793hjZLE5nDMud6FcB7iwh1_q_d13QrVq9jPUeCNSmX92LlVjUEwMAva8OYx2kw$) _._
 
 _Interested in more science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
@@ -2792,136 +2968,6 @@ The post [Why the Human Genome’s Tangled Physicality May Confound AI](https://
       </description>
       <source:markdown>Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/</guid>
-    </item>    <item>
-      <title>Android 17 released for Pixel devices with very few interesting improvements</title>
-      <link>https://www.osnews.com/story/145329/android-17-released-for-pixel-devices-with-very-few-interesting-improvements/</link>
-      <description>
-        <![CDATA[Yesterday, Google released Android 17 to Pixel devices, so late last night I updated my Pixel 10 Pro with the intent to write a news item about the release today. The reality is that that I totally forgot I even upgraded last night, because Android 17 is about the biggest nothingburger I&#8217;ve ever seen. Virtually all of the new features listed in the upgrade blurb on my phone were &#8220;AI&#8221; nonsense I don&#8217;t encounter, so over the course of the day, I didn&#8217;t really notice anything new about my phone&#8217;s operating system. The only interesting feature that I think will be particularly useful on tablets and perhaps foldable devices is something called &#8220;App Bubbles&#8221;. Basically, you can turn any application into an overlay that can be minimised into a bubble, which then lives anywhere on your screen. Tap it, and you can maximise the overlay again. This little multitasking bubble can contain multiple applications, effectively making it a dock or taskbar. Neat, but I didn&#8217;t see much use for it on my phone. The remainder of the new non-&#8220;AI&#8221; features are hard to spot, at best. I guess the ability to turn one half of a foldable display into a gamepad is neat if you can deal with gaming on glass buttons (I cannot), and the changes to location access (you can now grant it for just one time) and contacts access (it&#8217;s more fine-grained and temporary now instead of granting access to everything forever) are welcome, but that&#8217;s about it for user-facing features. Under the hood, the one thing that stands out is that Google is enforcing stricter memory limits for applications, based on how much RAM a device has. The idea is that this should prevent memory leaks from getting out of control and leading to crashes, which is nice, especially for devices with less RAM. Android 17 is available for Pixel devices now, and will probably find its way to non-Pixel devices over the coming months or years. With how little meat there is on Android 17&#8217;s bones, this might be the first release where Android&#8217;s update woes don&#8217;t really matter.]]>
-      </description>
-      <source:markdown>Yesterday, Google released Android 17 to Pixel devices, so late last night I updated my Pixel 10 Pro with the intent to write a news item about the release today. The reality is that that I totally forgot I even upgraded last night, because Android 17 is about the biggest nothingburger I’ve ever seen. Virtually all of the new features listed in the upgrade blurb on my phone were “AI” nonsense I don’t encounter, so over the course of the day, I didn’t really notice anything new about my phone’s operating system. The only interesting feature that I think will be particularly useful on tablets and perhaps foldable devices is something called “App Bubbles”. Basically, you can turn any application into an overlay that can be minimised into a bubble, which then lives anywhere on your screen. Tap it, and you can maximise the overlay again. This little multitasking bubble can contain multiple applications, effectively making it a dock or taskbar. Neat, but I didn’t see much use for it on my phone. The remainder of the new non-“AI” features are hard to spot, at best. I guess the ability to turn one half of a foldable display into a gamepad is neat if you can deal with gaming on glass buttons (I cannot), and the changes to location access (you can now grant it for just one time) and contacts access (it’s more fine-grained and temporary now instead of granting access to everything forever) are welcome, but that’s about it for user-facing features. Under the hood, the one thing that stands out is that Google is enforcing stricter memory limits for applications, based on how much RAM a device has. The idea is that this should prevent memory leaks from getting out of control and leading to crashes, which is nice, especially for devices with less RAM. Android 17 is available for Pixel devices now, and will probably find its way to non-Pixel devices over the coming months or years. With how little meat there is on Android 17’s bones, this might be the first release where Android’s update woes don’t really matter.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145329</guid>
-      <category>Android</category>
-    </item>    <item>
-      <title>NASA Announces Public-Private Partnership to Advance Mars Science</title>
-      <link>https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/</link>
-      <description>
-        <![CDATA[NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA’s growing commitment [&#8230;]]]>
-      </description>
-      <source:markdown>NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA’s growing commitment \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1007255</guid>
-    </item>    <item>
-      <title>Hidden Tunnels Dating Back to Henry VIII&#39;s Reign Were Discovered at This English Boarding School, Where the King Once Lived</title>
-      <link>https://www.smithsonianmag.com/smart-news/hidden-tunnels-dating-back-to-henry-viiis-reign-were-discovered-at-english-boarding-school-New-Hall-School-where-the-king-once-lived-180988965/</link>
-      <description>
-        <![CDATA[Bones, bottles and pottery were found at the New Hall School, which was once Henry VIII's Palace of Beaulieu. Before that, Anne Boleyn's father owned the estate]]>
-      </description>
-      <source:markdown>Bones, bottles and pottery were found at the New Hall School, which was once Henry VIII&#39;s Palace of Beaulieu. Before that, Anne Boleyn&#39;s father owned the estate</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9mIW5j2EVpUsp_gqN8mhqYXTLuA=/420x240/filters:focal(1137x758:1138x759)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/cc/53cc8003-4c4a-4ca2-80f0-47092cf08fa1/screenshot_2026-06-16_at_90218am.jpeg" length="2968908" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/hidden-tunnels-dating-back-to-henry-viiis-reign-were-discovered-at-english-boarding-school-New-Hall-School-where-the-king-once-lived-180988965/</guid>
-    </item>    <item>
-      <title>Scientists Discover a New Species of &#39;Walking&#39; Shark in Papua New Guinea. They Suspect It&#39;s at Risk of Going Extinct</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-discover-a-new-species-of-walking-shark-in-papua-new-guinea-they-suspect-its-at-risk-of-going-extinct-180988977/</link>
-      <description>
-        <![CDATA[The creature belongs to a unique group of sharks whose members can use their strong pectoral fins like legs to get around]]>
-      </description>
-      <source:markdown>The creature belongs to a unique group of sharks whose members can use their strong pectoral fins like legs to get around</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/m37uEg19RqXoG19AHIHiQAIE1Rw=/420x240/filters:focal(2644x1763:2645x1764)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/33/7433b20b-f03d-4524-8f6d-78ff2c48f8b8/h_dudgeonae_photo_mark_erdmann.jpg" length="13409015" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-discover-a-new-species-of-walking-shark-in-papua-new-guinea-they-suspect-its-at-risk-of-going-extinct-180988977/</guid>
-    </item>    <item>
-      <title>Search for Hidden Cosmic Companions in Sun’s Backyard</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/</link>
-      <description>
-        <![CDATA[Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Ages of astronomical objects are often hard to measure, but essential for understanding […]]]>
-      </description>
-      <source:markdown>Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Ages of astronomical objects are often hard to measure, but essential for understanding \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/</guid>
-    </item>    <item>
-      <title>Archaeologists Unearth Hundreds of Artifacts at Fort Ticonderoga, the Site of America&#39;s First Offensive Victory of the Revolutionary War</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-unearth-hundreds-of-artifacts-at-fort-ticonderoga-the-site-of-americas-first-offensive-victory-of-the-revolutionary-war-180988971/</link>
-      <description>
-        <![CDATA[The objects were discovered on Liberty Hill, the place where many Continental Army soldiers heard the text of the Declaration of Independence for the first time]]>
-      </description>
-      <source:markdown>The objects were discovered on Liberty Hill, the place where many Continental Army soldiers heard the text of the Declaration of Independence for the first time</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0Ujde5hccv-ErflBiUp2McYFBEM=/420x240/filters:focal(3480x2320:3481x2321)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/36/9e/369ed5a5-a15b-4fcf-b785-a403b9771173/2026_05_12_americanveteransarchaeologicalrecovery_032.jpg" length="21459864" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-unearth-hundreds-of-artifacts-at-fort-ticonderoga-the-site-of-americas-first-offensive-victory-of-the-revolutionary-war-180988971/</guid>
-    </item>    <item>
-      <title>For Its Birthday, the U.S. Will Give Americans of the Future a 900-Pound Time Capsule Filled With Art, Natural Treasures and a Clever Copy of the Declaration of Independence</title>
-      <link>https://www.smithsonianmag.com/smart-news/indigenous-art-an-eagle-feather-and-a-3d-rendering-of-abraham-lincolns-hand-see-the-items-just-sealed-in-americas-time-capsule-180988973/</link>
-      <description>
-        <![CDATA[The capsule was created and filled at the direction of Congress, through the America250 commission. It will be interred beneath an original sculpture on July 4]]>
-      </description>
-      <source:markdown>The capsule was created and filled at the direction of Congress, through the America250 commission. It will be interred beneath an original sculpture on July 4</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/c8MGuIhc0xRe4VZF-kbHQ_mUVII=/420x240/filters:focal(2808x1872:2809x1873)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/18/f6181bc9-999b-4f78-944b-402b4905ae69/nist-a250-time-capsule-003.jpeg" length="6462279" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/indigenous-art-an-eagle-feather-and-a-3d-rendering-of-abraham-lincolns-hand-see-the-items-just-sealed-in-americas-time-capsule-180988973/</guid>
-    </item>    <item>
-      <title>NASA’s Fermi Mission Uncovers Possible Sibling Supernova Remnants</title>
-      <link>https://science.nasa.gov/missions/fermi/nasas-fermi-sibling-supernova-remnants/</link>
-      <description>
-        <![CDATA[A new study of two supernova remnants, the debris left behind after stars explode, suggests the explosions came from stellar siblings that once orbited each other. The first star’s detonation sent its binary companion hurtling through space, and then, after traveling for thousands of years, the surviving star blew up too.]]>
-      </description>
-      <source:markdown>A new study of two supernova remnants, the debris left behind after stars explode, suggests the explosions came from stellar siblings that once orbited each other. The first star’s detonation sent its binary companion hurtling through space, and then, after traveling for thousands of years, the surviving star blew up too.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/fermi/nasas-fermi-sibling-supernova-remnants/</guid>
-    </item>    <item>
-      <title>Male Bowerbirds in Australian Cities Are Turning Human Trash Into Treasure to Impress Potential Mates</title>
-      <link>https://www.smithsonianmag.com/smart-news/male-bowerbirds-in-australian-cities-are-turning-human-trash-into-treasure-to-impress-potential-mates-180988969/</link>
-      <description>
-        <![CDATA[Even rural birds prefer human-made objects, such as colored glass and wire, when given the choice between them and natural decorations, like leaves and shells, according to a new study]]>
-      </description>
-      <source:markdown>Even rural birds prefer human-made objects, such as colored glass and wire, when given the choice between them and natural decorations, like leaves and shells, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/k_-W9mVxjDsNQA6e1IbzawRDk5A=/420x240/filters:focal(648x352:649x353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/97/6197d897-e8a0-42cc-9706-109b6ad0136c/untitled.jpg" length="383133" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/male-bowerbirds-in-australian-cities-are-turning-human-trash-into-treasure-to-impress-potential-mates-180988969/</guid>
-    </item>    <item>
-      <title>Hubble Sees Swarm of Galaxies</title>
-      <link>https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/</link>
-      <description>
-        <![CDATA[Looking somewhat like a swarm of bees returning to their hive, this NASA&#160;Hubble Space Telescope&#160;image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the [&#8230;]]]>
-      </description>
-      <source:markdown>Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1005934</guid>
-    </item>    <item>
-      <title>Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?</title>
-      <link>https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/</link>
-      <description>
-        <![CDATA[A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle.            <p>The post <a href="https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/" target="_blank">Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle.
-
-The post [Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?](https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=163183</guid>
-    </item>    <item>
-      <title>This &#39;Practice-Changing&#39; Gene Test Could Tell Doctors Which Patients With Breast Cancer Can Skip Chemo, Clinical Trial Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-practice-changing-gene-test-could-tell-doctors-which-patients-with-breast-cancer-can-skip-chemo-clinical-trial-suggests-180988957/</link>
-      <description>
-        <![CDATA[Chemotherapy comes with debilitating side effects, including brain fog, nausea and nerve damage. New research suggests that many people with a common type of breast cancer need just radiation and hormone therapy to prevent recurrence]]>
-      </description>
-      <source:markdown>Chemotherapy comes with debilitating side effects, including brain fog, nausea and nerve damage. New research suggests that many people with a common type of breast cancer need just radiation and hormone therapy to prevent recurrence</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7EcAt73q-RaLH9bm_4O8nPA2ur8=/420x240/filters:focal(3950x2633:3951x2634)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/e9/2ae9b169-f8f2-4449-a2c9-88b47c8ed527/patient-getting-chemotherapy-treatment.jpg" length="17490501" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-practice-changing-gene-test-could-tell-doctors-which-patients-with-breast-cancer-can-skip-chemo-clinical-trial-suggests-180988957/</guid>
-    </item>    <item>
-      <title>Is sewage the future of green aviation?</title>
-      <link>https://www.npr.org/2026/06/17/nx-s1-5814725/is-sewage-the-future-of-green-aviation</link>
-      <description>
-        <![CDATA[The war in Iran has disrupted the global fuel supply. That has sent airline prices soaring and cancelled scores of flights. This got <em>Short Wave</em> host Emily Kwong wondering: Could <em>another</em> fuel source help take us to the skies? Today on the show, we explore the chemistry and cost of sustainable aviation fuel. Along the way, we highlight two initiatives to create a regional SAF supply – one in Washington and one in Pennsylvania.  <br/><br/><em>Interested in more stories about the future of flying? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>The war in Iran has disrupted the global fuel supply. That has sent airline prices soaring and cancelled scores of flights. This got _Short Wave_ host Emily Kwong wondering: Could _another_ fuel source help take us to the skies? Today on the show, we explore the chemistry and cost of sustainable aviation fuel. Along the way, we highlight two initiatives to create a regional SAF supply – one in Washington and one in Pennsylvania.
-
-_Interested in more stories about the future of flying? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/22fa7eef-9038-4d79-9bc0-e4bc3246995e/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=22fa7eef-9038-4d79-9bc0-e4bc3246995e&feed=F0qJcgXZ&t=podcast&e=nx-s1-5814725&p=510351&d=757&size=12120861" length="12120861" type="audio/mpeg" />
-      <guid>cid://d0583c30-b902-42b6-ba84-d2c43c5d98af</guid>
-    </item>    <item>
-      <title>Low Water at San Carlos Reservoir</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/</link>
-      <description>
-        <![CDATA[Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.]]>
-      </description>
-      <source:markdown>Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/</guid>
     </item>
   </channel>
 </rss>

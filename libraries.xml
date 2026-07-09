@@ -4,10 +4,50 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>08 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>09 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/07/09/guest-post-why-research-libraries-oppose-the-omb-revisions-to-the-uniform-guidance/</link>
+      <description>
+        <![CDATA[<p>Today's post explains how the Association for Research Libraries (ARL) is responding to the proposed rule changes for US federal grants.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/09/guest-post-why-research-libraries-oppose-the-omb-revisions-to-the-uniform-guidance/">Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s post explains how the Association for Research Libraries (ARL) is responding to the proposed rule changes for US federal grants.
+
+The post [Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance](https://scholarlykitchen.sspnet.org/2026/07/09/guest-post-why-research-libraries-oppose-the-omb-revisions-to-the-uniform-guidance/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62235</guid>
+      <category>Advocacy</category>
+      <category>Commerce</category>
+      <category>Controversial Topics</category>
+      <category>Economics</category>
+      <category>Historical</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>Association of Research Libraries</category>
+      <category>OMB rule changes</category>
+      <category>research libraries (ARL)</category>
+      <category>Trump</category>
+      <category>uniform guidance</category>
+      <category>US federal research grants</category>
+      <category>US OMB</category>
+    </item>    <item>
+      <title>Reflections on the LIBER Annual Conference 2026</title>
+      <link>https://sr.ithaka.org/blog/reflections-on-the-liber-annual-conference-2026/</link>
+      <description>
+        <![CDATA[<p>Last week, we attended the LIBER annual conference in Trondheim, Norway. Our reasons for attending were twofold: (1) to present results from Ithaka S+R’s recent 2025 US Library Survey as part of the parallel session titled, “Research Libraries in Challenging Landscapes,” and (2) to learn from European colleagues about areas of convergence or difference between the activities and areas of focus of research libraries within the US and Europe.</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/reflections-on-the-liber-annual-conference-2026/">Reflections on the LIBER Annual Conference 2026</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Last week, we attended the LIBER annual conference in Trondheim, Norway. Our reasons for attending were twofold: (1) to present results from Ithaka S+R’s recent 2025 US Library Survey as part of the parallel session titled, “Research Libraries in Challenging Landscapes,” and (2) to learn from European colleagues about areas of convergence or difference between the activities and areas of focus of research libraries within the US and Europe.
+
+The post [Reflections on the LIBER Annual Conference 2026](https://sr.ithaka.org/blog/reflections-on-the-liber-annual-conference-2026/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=325920</guid>
+      <category>Libraries</category>
+      <category>Library leadership</category>
+      <category>Library strategy</category>
+      <category>Research libraries</category>
+    </item>    <item>
       <title>Vanishing Culture Episode #2: The Stories Hidden in Cookbooks with Katie Livingston</title>
       <link>https://blog.archive.org/2026/07/08/vanishing-culture-episode-2-the-stories-hidden-in-cookbooks-with-katie-livingston/</link>
       <description>
@@ -97,10 +137,10 @@ The post [Ask the Chefs: How Are You Responding to the OMB Proposed Rule Changes
       <title>ARL Daily Intelligence (July 6–9)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-6-9/</link>
       <description>
-        <![CDATA[<p>Last Updated on July 7, 2026, 2:43 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on July 8, 2026, 3:48 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-6-9/">ARL Daily Intelligence (July 6–9)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on July 7, 2026, 2:43 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on July 8, 2026, 3:48 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (July 6–9)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-6-9/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49173</guid>
@@ -1296,46 +1336,6 @@ Beyond 6.0, we’re exploring further support for provenance in metadata (to est
 
 Each of these updates contributes to Crossref’s research nexus vision: strengthening connections between funders and research, more accurately capturing and recognizing contributor roles in the scholarly record, and collecting free-text content to fill in the gaps that structured metadata alone can’t address. Better metadata means better research integrity and more trustworthy infrastructure for everyone who depends on it.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/building-better-connections-the-story-of-crossrefs-metadata-development/</guid>
-    </item>    <item>
-      <title>Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/</link>
-      <description>
-        <![CDATA[<p>Building robust citation and attribution into generative AI systems are foundational to usage, credit and trust. We need to expect more from AI.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/">Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Building robust citation and attribution into generative AI systems are foundational to usage, credit and trust. We need to expect more from AI.
-
-The post [Attribution, Provenance, Reference, Citation, and AI for Research Applications – Understanding the Differences](https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62101</guid>
-      <category>Artificial Intelligence</category>
-      <category>Authority</category>
-      <category>Controversial Topics</category>
-      <category>Copyright</category>
-      <category>Infrastructure</category>
-      <category>Metrics and Analytics</category>
-      <category>Research</category>
-      <category>Research Integrity</category>
-      <category>Technology</category>
-      <category>Tools</category>
-      <category>World of Tomorrow</category>
-      <category>AI</category>
-      <category>AI and ethics</category>
-      <category>AI content strategy</category>
-      <category>Artificial intelligence</category>
-      <category>Artificial intelligence (AI)</category>
-      <category>attribution</category>
-      <category>chain of citation</category>
-      <category>Citation</category>
-      <category>Content provenance</category>
-      <category>Counter</category>
-      <category>Generative AI</category>
-      <category>history of publishing</category>
-      <category>Isaac Newton</category>
-      <category>NISO</category>
-      <category>reference</category>
-      <category>Reference Management</category>
-      <category>Trustworthy AI</category>
-      <category>usage statistics</category>
     </item>
   </channel>
 </rss>
