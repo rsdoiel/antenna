@@ -4,10 +4,18 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>10 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/07/09 - Not looking forward to tomorrow, The summer sales: New face shield for weed whacking, Influencer vlog light ring, Weather station with WiFi and app.</title>
+      <link>https://heyrick.eu/blog/entry/20260709</link>
+      <description>
+        <![CDATA[Not looking forward to tomorrow, The summer sales: New face shield for weed whacking, Influencer vlog light ring, Weather station with WiFi and app.]]>
+      </description>
+      <source:markdown>Not looking forward to tomorrow, The summer sales: New face shield for weed whacking, Influencer vlog light ring, Weather station with WiFi and app.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260709</guid>
+    </item>    <item>
       <title>b.log 2026/07/08 - Farage, Immigration and reality.</title>
       <link>https://heyrick.eu/blog/entry/20260708</link>
       <description>
@@ -2181,14 +2189,6 @@ I&#39;d say rest in peace, but given the infernal subject matter that just doesn
       <category>strategy first</category>
       <category>triumph</category>
       <category>warlords</category>
-    </item>    <item>
-      <title>b.log 2026/06/18 - lost+found, What the actual heatwave?, The fragility of systems.</title>
-      <link>https://heyrick.eu/blog/entry/20260618</link>
-      <description>
-        <![CDATA[lost+found, What the actual heatwave?, The fragility of systems.]]>
-      </description>
-      <source:markdown>lost+found, What the actual heatwave?, The fragility of systems.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260618</guid>
     </item>
   </channel>
 </rss>

@@ -4,17 +4,40 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>09 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>10 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The OMB Guidance Revision Threatens All Research</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/07/10/the-omb-guidance-revision-threatens-all-research/</link>
+      <description>
+        <![CDATA[<p>The OMB proposed revision is about all research — and humanities research is just as vulnerable as STEM.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/10/the-omb-guidance-revision-threatens-all-research/">The OMB Guidance Revision Threatens All Research</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>The OMB proposed revision is about all research — and humanities research is just as vulnerable as STEM.
+
+The post [The OMB Guidance Revision Threatens All Research](https://scholarlykitchen.sspnet.org/2026/07/10/the-omb-guidance-revision-threatens-all-research/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62261</guid>
+      <category>Advocacy</category>
+      <category>Economics</category>
+      <category>Peer Review</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>American Historical Association</category>
+      <category>historical research</category>
+      <category>History</category>
+      <category>OMB rule changes</category>
+      <category>Trump</category>
+      <category>uniform guidance</category>
+      <category>US federal funding</category>
+    </item>    <item>
       <title>Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance</title>
       <link>https://scholarlykitchen.sspnet.org/2026/07/09/guest-post-why-research-libraries-oppose-the-omb-revisions-to-the-uniform-guidance/</link>
       <description>
-        <![CDATA[<p>Today's post explains how the Association for Research Libraries (ARL) is responding to the proposed rule changes for US federal grants.</p>
+        <![CDATA[<p>Today's post explains how the Association of Research Libraries (ARL) is responding to the proposed rule changes for US federal grants.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/09/guest-post-why-research-libraries-oppose-the-omb-revisions-to-the-uniform-guidance/">Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <source:markdown>Today&#39;s post explains how the Association for Research Libraries (ARL) is responding to the proposed rule changes for US federal grants.
+      <source:markdown>Today&#39;s post explains how the Association of Research Libraries (ARL) is responding to the proposed rule changes for US federal grants.
 
 The post [Guest Post — Why Research Libraries Oppose the OMB Revisions to the Uniform Guidance](https://scholarlykitchen.sspnet.org/2026/07/09/guest-post-why-research-libraries-oppose-the-omb-revisions-to-the-uniform-guidance/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=62235</guid>
@@ -32,6 +55,101 @@ The post [Guest Post — Why Research Libraries Oppose the OMB Revisions to the 
       <category>uniform guidance</category>
       <category>US federal research grants</category>
       <category>US OMB</category>
+    </item>    <item>
+      <title>Schema 5.5 now available: adding CRediT, new record types for blogs and posters, and more</title>
+      <link>https://www.crossref.org/blog/schema-5.5-now-available-adding-credit-new-record-types-for-blogs-and-posters-and-more/</link>
+      <description>
+        <![CDATA[<p>Research is rarely limited to a single contributor performing a single role. Behind every research output are people contributing in various ways: software development, data analyses, methodology design, and much more. Often, the same person contributes in several of these ways. Until now, Crossref metadata could only capture part of that picture, and this is changing now.</p>
+        <p><a href="https://www.crossref.org/documentation/schema-library/markup-guide-metadata-segments/contributors#00011" target="_blank">Crossref Schema 5.5</a> includes several improvements across different content types, but its most significant enhancement is the expanded support for contributor roles through the introduction of multiple roles per contributor, option to specify the corresponding author, and compatibility with the <a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a>: a community-owned taxonomy of 14 contributor roles, which has been adopted and made available in multiple languages.</p>
+        <p>These enhancements allow members to describe research contributions in much greater detail, creating richer metadata that better reflects how research is actually produced, and supporting greater accountability and more comprehensive research assessment.</p>
+        <p>If your workflow already distinguishes between different kinds of contributions, Schema 5.5 gives you a way to record that detail more accurately using the CRediT taxonomy values. CRediT can be adopted gradually, where it fits your editorial or production workflow.</p>
+        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/current-vs-new-roles-xml.png"
+        alt="Current vs new contributor role support" width="600px"><figcaption>
+        <p>Figure 1: Until now, contributors could be assigned a single contributor role using Crossref’s existing contributor role vocabulary. In Schema 5.5, members can indicate that the same contributor was responsible for different roles, such as corresponding author; writing: reviewing and editing; and data curation.</p>
+        </figcaption>
+        </figure>
+        <p>Existing deposits remain fully supported, and members can continue using the current contributor role attribute while planning implementation of the new repeatable role type element. For our members, who have been using CRediT in their workflows already, as ever – we encourage <a href="https://www.crossref.org/documentation/register-maintain-records/maintaining-your-metadata/updating-your-metadata/" target="_blank">updating your metadata</a> when practicable.</p>
+        <h2 id="why-this-update-is-kind-of-a-big-deal">Why this update is kind of a big deal</h2>
+        <p>This update gives more accurate credit to all of the people behind research outputs. Crossref vocabulary includes roles that aren’t recognised in CRediT, and vice versa. Capturing richer contributor metadata recognises contributions that may not be visible in a single author line and improves transparency around how research is produced, thereby enabling downstream systems to interpret that information more reliably. The update also offers better interoperability with CRediT, which is well recognised across the scholarly ecosystem.</p>
+        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/schema-55-infographic.png"
+        alt="Expanding support for contributor roles graphic" width="600px"><figcaption>
+        <p>Figure 2: Schema 5.5 is an expansion of Crossref contributor metadata. Members can describe contributors using Crossref’s existing contributor role vocabulary, as well as the internationally recognised CRediT taxonomy.</p>
+        </figcaption>
+        </figure>
+        <p>In turn, this strengthens metadata reuse across repositories, discovery services, funders, institutions and other infrastructure providers; and supports evaluation, reporting and discovery workflows. Better contributor metadata strengthens the connections that make up the <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">Research Nexus</a>.</p>
+        <h2 id="what-else-is-included-in-schema-55">What else is included in Schema 5.5?</h2>
+        <p>Beyond the expanded contributor support, Schema 5.5 includes several additional enhancements across the metadata schema.</p>
+        <h3 id="1-updates-to-report-series-metadata">1. Updates to report series metadata</h3>
+        <p>Support has been added for metadata elements that were previously missing from report series records, including Crossmark, funding, and licence information.</p>
+        <h3 id="2-posted-content-improvements-now-including-blogs-and-posters">2. Posted content improvements: now including blogs and posters</h3>
+        <p><a href="https://www.crossref.org/documentation/research-nexus/posted-content-includes-preprints/" target="_blank">Posted content</a> includes preprints, eprints, and other types of content that have been posted to a stewarded host platform. We’re all about persistence, so it’s vital that everything registered with us be maintained. Note that accepted manuscripts are not considered posted content. Schema 5.5 refreshes posted content sub-types by introducing blog and poster.</p>
+        <p>At the same time, we are “retiring” working paper, dissertation, and report from posted-content sub-types. Over time, these have been developed into separate record types that benefit from richer, dedicated schemas.</p>
+        <p>Finally, archive locations can now also be included for posted content records.</p>
+        <h3 id="3-expanded-archive-support">3. Expanded archive support</h3>
+        <p>A new archive location, CINES, has been added to the list of <a href="https://www.crossref.org/documentation/schema-library/markup-guide-metadata-segments/archive-locations/" target="_blank">supported archive providers</a>.</p>
+        <h3 id="4-clinical-trial-metadata-across-more-record-types">4. Clinical trial metadata across more record types</h3>
+        <p>Clinical trial information is no longer limited to journal articles and conference papers. Schema 5.5 extends support across additional content types, including books, datasets, dissertations, reports, posted content, standards, and pending publications.</p>
+        <h2 id="schema-adoption">Schema adoption</h2>
+        <p>Taken together, the updates in our latest schema support more holistic recognition of contributions to the research and its communication, as well as greater accountability and integrity in related processes.</p>
+        <p>To support gradual adoption, Schema 5.5 maintains backwards compatibility with existing deposits. Members can continue using the current <code>contributor_role</code> attribute while preparing to implement the new repeatable <code>role</code> element. We have prepared a <a href="https://docs.google.com/document/d/1OUZKgkRG8nZd_NxAWKewf9caAt9uWSxldHkVjLiThMg/edit?tab=t.0" target="_blank">migration guide</a> to help members transition to Schema 5.5.</p>
+        <p>As you prepare to adopt Schema 5.5, we encourage members to include contributor roles whenever they are available from editorial workflows and to use recognised vocabularies consistently, including CRediT roles where appropriate.</p>]]>
+      </description>
+      <source:markdown>Research is rarely limited to a single contributor performing a single role. Behind every research output are people contributing in various ways: software development, data analyses, methodology design, and much more. Often, the same person contributes in several of these ways. Until now, Crossref metadata could only capture part of that picture, and this is changing now.
+
+[Crossref Schema 5.5](https://www.crossref.org/documentation/schema-library/markup-guide-metadata-segments/contributors#00011) includes several improvements across different content types, but its most significant enhancement is the expanded support for contributor roles through the introduction of multiple roles per contributor, option to specify the corresponding author, and compatibility with the [CRediT (Contributor Roles Taxonomy)](https://credit.niso.org/): a community-owned taxonomy of 14 contributor roles, which has been adopted and made available in multiple languages.
+
+These enhancements allow members to describe research contributions in much greater detail, creating richer metadata that better reflects how research is actually produced, and supporting greater accountability and more comprehensive research assessment.
+
+If your workflow already distinguishes between different kinds of contributions, Schema 5.5 gives you a way to record that detail more accurately using the CRediT taxonomy values. CRediT can be adopted gradually, where it fits your editorial or production workflow.
+
+![Current vs new contributor role support](https://www.crossref.org/images/blog/2026/current-vs-new-roles-xml.png)
+
+Figure 1: Until now, contributors could be assigned a single contributor role using Crossref’s existing contributor role vocabulary. In Schema 5.5, members can indicate that the same contributor was responsible for different roles, such as corresponding author; writing: reviewing and editing; and data curation.
+
+Existing deposits remain fully supported, and members can continue using the current contributor role attribute while planning implementation of the new repeatable role type element. For our members, who have been using CRediT in their workflows already, as ever – we encourage [updating your metadata](https://www.crossref.org/documentation/register-maintain-records/maintaining-your-metadata/updating-your-metadata/) when practicable.
+
+## Why this update is kind of a big deal
+
+This update gives more accurate credit to all of the people behind research outputs. Crossref vocabulary includes roles that aren’t recognised in CRediT, and vice versa. Capturing richer contributor metadata recognises contributions that may not be visible in a single author line and improves transparency around how research is produced, thereby enabling downstream systems to interpret that information more reliably. The update also offers better interoperability with CRediT, which is well recognised across the scholarly ecosystem.
+
+![Expanding support for contributor roles graphic](https://www.crossref.org/images/blog/2026/schema-55-infographic.png)
+
+Figure 2: Schema 5.5 is an expansion of Crossref contributor metadata. Members can describe contributors using Crossref’s existing contributor role vocabulary, as well as the internationally recognised CRediT taxonomy.
+
+In turn, this strengthens metadata reuse across repositories, discovery services, funders, institutions and other infrastructure providers; and supports evaluation, reporting and discovery workflows. Better contributor metadata strengthens the connections that make up the [Research Nexus](https://www.crossref.org/documentation/research-nexus/).
+
+## What else is included in Schema 5.5?
+
+Beyond the expanded contributor support, Schema 5.5 includes several additional enhancements across the metadata schema.
+
+### 1\. Updates to report series metadata
+
+Support has been added for metadata elements that were previously missing from report series records, including Crossmark, funding, and licence information.
+
+### 2\. Posted content improvements: now including blogs and posters
+
+[Posted content](https://www.crossref.org/documentation/research-nexus/posted-content-includes-preprints/) includes preprints, eprints, and other types of content that have been posted to a stewarded host platform. We’re all about persistence, so it’s vital that everything registered with us be maintained. Note that accepted manuscripts are not considered posted content. Schema 5.5 refreshes posted content sub-types by introducing blog and poster.
+
+At the same time, we are “retiring” working paper, dissertation, and report from posted-content sub-types. Over time, these have been developed into separate record types that benefit from richer, dedicated schemas.
+
+Finally, archive locations can now also be included for posted content records.
+
+### 3\. Expanded archive support
+
+A new archive location, CINES, has been added to the list of [supported archive providers](https://www.crossref.org/documentation/schema-library/markup-guide-metadata-segments/archive-locations/).
+
+### 4\. Clinical trial metadata across more record types
+
+Clinical trial information is no longer limited to journal articles and conference papers. Schema 5.5 extends support across additional content types, including books, datasets, dissertations, reports, posted content, standards, and pending publications.
+
+## Schema adoption
+
+Taken together, the updates in our latest schema support more holistic recognition of contributions to the research and its communication, as well as greater accountability and integrity in related processes.
+
+To support gradual adoption, Schema 5.5 maintains backwards compatibility with existing deposits. Members can continue using the current `contributor_role` attribute while preparing to implement the new repeatable `role` element. We have prepared a [migration guide](https://docs.google.com/document/d/1OUZKgkRG8nZd_NxAWKewf9caAt9uWSxldHkVjLiThMg/edit?tab=t.0) to help members transition to Schema 5.5.
+
+As you prepare to adopt Schema 5.5, we encourage members to include contributor roles whenever they are available from editorial workflows and to use recognised vocabularies consistently, including CRediT roles where appropriate.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/schema-5.5-now-available-adding-credit-new-record-types-for-blogs-and-posters-and-more/</guid>
     </item>    <item>
       <title>Reflections on the LIBER Annual Conference 2026</title>
       <link>https://sr.ithaka.org/blog/reflections-on-the-liber-annual-conference-2026/</link>
@@ -137,10 +255,10 @@ The post [Ask the Chefs: How Are You Responding to the OMB Proposed Rule Changes
       <title>ARL Daily Intelligence (July 6–9)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-6-9/</link>
       <description>
-        <![CDATA[<p>Last Updated on July 8, 2026, 3:48 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on July 9, 2026, 4:16 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-6-9/">ARL Daily Intelligence (July 6–9)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on July 8, 2026, 3:48 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on July 9, 2026, 4:16 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (July 6–9)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-6-9/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49173</guid>
@@ -149,10 +267,10 @@ The post [ARL Daily Intelligence (July 6–9)](https://www.arl.org/daily-intelli
       <title>ARL Libraries Celebrate America’s 250th Birthday</title>
       <link>https://www.arl.org/blog/arl-libraries-celebrate-americas-250th-birthday/</link>
       <description>
-        <![CDATA[<p>Last Updated on July 7, 2026, 3:45 pm ET July 4, 2026, is the 250th anniversary of the signing of the Declaration of Independence, establishing the United States of America....</p>
+        <![CDATA[<p>Last Updated on July 9, 2026, 5:56 pm ET July 4, 2026, is the 250th anniversary of the signing of the Declaration of Independence, establishing the United States of America....</p>
         <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-americas-250th-birthday/">ARL Libraries Celebrate America’s 250th Birthday</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on July 7, 2026, 3:45 pm ET July 4, 2026, is the 250th anniversary of the signing of the Declaration of Independence, establishing the United States of America....
+      <source:markdown>Last Updated on July 9, 2026, 5:56 pm ET July 4, 2026, is the 250th anniversary of the signing of the Declaration of Independence, establishing the United States of America....
 
 The post [ARL Libraries Celebrate America’s 250th Birthday](https://www.arl.org/blog/arl-libraries-celebrate-americas-250th-birthday/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49162</guid>
@@ -1254,88 +1372,6 @@ The post [Standards: Say Hello to the Agentic Resource Discovery (ARD) Specifica
       <category>News</category>
       <category>Patrons and Users</category>
       <category>Publishing</category>
-    </item>    <item>
-      <title>ARL Observes Juneteenth 2026</title>
-      <link>https://www.arl.org/blog/arl-observes-juneteenth-2026/</link>
-      <description>
-        <![CDATA[<p>Last Updated on June 19, 2026, 10:37 am ET Juneteenth is an annual commemoration of the emancipation of enslaved people in the United States of America. Below are events and...</p>
-        <p>The post <a href="https://www.arl.org/blog/arl-observes-juneteenth-2026/">ARL Observes Juneteenth 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on June 19, 2026, 10:37 am ET Juneteenth is an annual commemoration of the emancipation of enslaved people in the United States of America. Below are events and...
-
-The post [ARL Observes Juneteenth 2026](https://www.arl.org/blog/arl-observes-juneteenth-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=49013</guid>
-      <category>Blog</category>
-    </item>    <item>
-      <title>Ask the Fellows: SSP’s 2026 Annual Meeting</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/</link>
-      <description>
-        <![CDATA[<p>Today, we offer reflections on the SSP Annual Meeting from our 2026 Fellowship cohort.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/">Ask the Fellows: SSP&#8217;s 2026 Annual Meeting</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today, we offer reflections on the SSP Annual Meeting from our 2026 Fellowship cohort.
-
-The post [Ask the Fellows: SSP’s 2026 Annual Meeting](https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62073</guid>
-      <category>Artificial Intelligence</category>
-      <category>Careers</category>
-      <category>Society for Scholarly Publishing</category>
-      <category>2026 SSP Annual Meeting</category>
-      <category>Ask the fellows</category>
-      <category>SSP Fellowship Program</category>
-    </item>    <item>
-      <title>Building Better Connections: The Story of Crossref&#39;s Metadata Development</title>
-      <link>https://www.crossref.org/blog/building-better-connections-the-story-of-crossrefs-metadata-development/</link>
-      <description>
-        <![CDATA[<p>Three years ago, we <a href="https://doi.org/10.64000/cmnhc-fy462" target="_blank">asked our members</a> what they needed from Crossref&rsquo;s metadata. We received confirmation that we were going in the right direction, as well as some new ideas to explore. This helped set the course for our metadata development work since then, and continues to guide where we&rsquo;re headed next.</p>
-        <p>Every metadata update we make is driven by the same set of priorities: supporting metadata that reflects our <a href="https://www.crossref.org/truths/" target="_blank">organizational truths</a>, focusing on what metadata our members can actually provide, and aligning with best practices, vocabularies, and standards that our wider scholarly community has established. More recently our <a href="https://www.crossref.org/working-groups/metadata-advisory/" target="_blank">Metadata Advisory Group</a> has helped us explore both the minutia of working with metadata as well as larger ideas around the value and impact of the metadata we support.</p>
-        <h2 id="what-weve-accomplished">What We&rsquo;ve Accomplished</h2>
-        <p>Our <a href="https://doi.org/10.13003/325070" target="_blank">schema 5.4 update</a> included several new or expanded types of metadata. First, citation metadata can now be labeled with a publication type. This means when a work cites an article, a preprint, a dataset, or software, that distinction is clear, helping make citations without an accompanying DOI metadata record easier to identify. Second, version information is now supported across all record types, giving the scholarly record a more precise handle on exactly which version of a work is being described.</p>
-        <p>We&rsquo;ve also made two meaningful improvements to how funding relationships are captured. <a href="https://doi.org/10.13003/156081" target="_blank">ROR IDs are now supported as funder identifiers</a> in both our standard metadata schema and our grants-specific schema. Also, <a href="https://doi.org/10.64000/x7d4h-x3r11" target="_blank">Grant DOIs can now be explicitly identified</a> within funding metadata, making it possible to draw clearer lines between research outputs and the grants that supported them.</p>
-        <h2 id="whats-happening-now">What&rsquo;s happening now</h2>
-        <p>A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for <a href="https://credit.niso.org/" target="_blank">CRediT</a> — the ANSI/NISO taxonomy for contributor roles. This means that an individual&rsquo;s complete contribution to a research output can finally be described in our metadata, rather than flattened into a single role or omitted entirely. The schema isn&rsquo;t released yet, but the <a href="https://gitlab.com/crossref/schema/-/tree/master/5.5?ref_type=heads" target="_blank">final version of the XML schema is available in our GitLab repository</a> for those who want to get a head start.</p>
-        <p>We’ll next begin implementation work for a new Grants schema (0.3.0). This update will remodel investigator names to include a new role (beneficiary) as well as an organizational grant recipient, making it possible to include recipient info for grants given to organizations. Grant records include project metadata, so this update will also include support for <a href="https://www.raid.org/" target="_blank">RAiD</a>, a persistent identifier for projects. The XML schema for this update is also available <a href="https://gitlab.com/crossref/schema/-/tree/master/grant_id0.3.0?ref_type=heads" target="_blank">in a GitLab repository</a>.</p>
-        <h2 id="whats-up-next">What’s up next</h2>
-        <p>Our next planned major update will build substantially on the contributor work in version 5.5. In the next version (6.0) we will remodel names to expand our current limited structure to support a variety of name types as well as alternate names. We’ll also expand the contributor identifiers we collect to include ISNI and Wikidata identifiers, better supporting contributors for whom an ORCID is not possible. Our organizational contributor will be remodeled as well to include organization-level identifiers like <a href="https://ror.org/" target="_blank">ROR</a>.</p>
-        <p>We’ll also introduce statements to Crossref metadata. Statements will allow members to include free-text statements including funding acknowledgements, ethics declarations, AI usage disclosures, and other important contextual information that doesn&rsquo;t fit neatly into structured fields.</p>
-        <p>Other updates include expanding our support for abstracts encoding beyond JATS to include ONIX, BITS, and a generic markup option, and implementing better in-schema validation to avoid surprises at the time of deposit.</p>
-        <p>Progress means letting go of the past. We&rsquo;re planning to deprecate all schemas prior to version 5.3.1 by the end of 2027, to be carried out in phases as <a href="https://www.crossref.org/blog/its-time-planning-for-metadata-schema-deprecation/" target="_blank">outlined in our deprecation blog post</a>. This is a necessary step to keep our infrastructure sustainable and to ensure members are working with schemas that reflect current capabilities and standards.</p>
-        <h2 id="looking-further-ahead">Looking further ahead</h2>
-        <p>Beyond 6.0, we&rsquo;re exploring further support for provenance in metadata (to establish who is doing what to a metadata record), a rethinking of how we handle dates so that they better capture the lifecycle of a research object, better support for research objects we don’t yet fully support, and making our metadata inputs more consistent. The <a href="https://share.productboard.com/crossref/board/948afee2-6002-4e70-975d-6fb27a5829da" target="_blank">Metadata Development roadmap</a> has full details on what&rsquo;s being explored and prioritized.</p>
-        <p>Each of these updates contributes to Crossref&rsquo;s research nexus vision: strengthening connections between funders and research, more accurately capturing and recognizing contributor roles in the scholarly record, and collecting free-text content to fill in the gaps that structured metadata alone can&rsquo;t address. Better metadata means better research integrity and more trustworthy infrastructure for everyone who depends on it.</p>]]>
-      </description>
-      <source:markdown>Three years ago, we [asked our members](https://doi.org/10.64000/cmnhc-fy462) what they needed from Crossref’s metadata. We received confirmation that we were going in the right direction, as well as some new ideas to explore. This helped set the course for our metadata development work since then, and continues to guide where we’re headed next.
-
-Every metadata update we make is driven by the same set of priorities: supporting metadata that reflects our [organizational truths](https://www.crossref.org/truths/), focusing on what metadata our members can actually provide, and aligning with best practices, vocabularies, and standards that our wider scholarly community has established. More recently our [Metadata Advisory Group](https://www.crossref.org/working-groups/metadata-advisory/) has helped us explore both the minutia of working with metadata as well as larger ideas around the value and impact of the metadata we support.
-
-## What We’ve Accomplished
-
-Our [schema 5.4 update](https://doi.org/10.13003/325070) included several new or expanded types of metadata. First, citation metadata can now be labeled with a publication type. This means when a work cites an article, a preprint, a dataset, or software, that distinction is clear, helping make citations without an accompanying DOI metadata record easier to identify. Second, version information is now supported across all record types, giving the scholarly record a more precise handle on exactly which version of a work is being described.
-
-We’ve also made two meaningful improvements to how funding relationships are captured. [ROR IDs are now supported as funder identifiers](https://doi.org/10.13003/156081) in both our standard metadata schema and our grants-specific schema. Also, [Grant DOIs can now be explicitly identified](https://doi.org/10.64000/x7d4h-x3r11) within funding metadata, making it possible to draw clearer lines between research outputs and the grants that supported them.
-
-## What’s happening now
-
-A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for [CRediT](https://credit.niso.org/) — the ANSI/NISO taxonomy for contributor roles. This means that an individual’s complete contribution to a research output can finally be described in our metadata, rather than flattened into a single role or omitted entirely. The schema isn’t released yet, but the [final version of the XML schema is available in our GitLab repository](https://gitlab.com/crossref/schema/-/tree/master/5.5?ref_type=heads) for those who want to get a head start.
-
-We’ll next begin implementation work for a new Grants schema (0.3.0). This update will remodel investigator names to include a new role (beneficiary) as well as an organizational grant recipient, making it possible to include recipient info for grants given to organizations. Grant records include project metadata, so this update will also include support for [RAiD](https://www.raid.org/), a persistent identifier for projects. The XML schema for this update is also available [in a GitLab repository](https://gitlab.com/crossref/schema/-/tree/master/grant_id0.3.0?ref_type=heads).
-
-## What’s up next
-
-Our next planned major update will build substantially on the contributor work in version 5.5. In the next version (6.0) we will remodel names to expand our current limited structure to support a variety of name types as well as alternate names. We’ll also expand the contributor identifiers we collect to include ISNI and Wikidata identifiers, better supporting contributors for whom an ORCID is not possible. Our organizational contributor will be remodeled as well to include organization-level identifiers like [ROR](https://ror.org/).
-
-We’ll also introduce statements to Crossref metadata. Statements will allow members to include free-text statements including funding acknowledgements, ethics declarations, AI usage disclosures, and other important contextual information that doesn’t fit neatly into structured fields.
-
-Other updates include expanding our support for abstracts encoding beyond JATS to include ONIX, BITS, and a generic markup option, and implementing better in-schema validation to avoid surprises at the time of deposit.
-
-Progress means letting go of the past. We’re planning to deprecate all schemas prior to version 5.3.1 by the end of 2027, to be carried out in phases as [outlined in our deprecation blog post](https://www.crossref.org/blog/its-time-planning-for-metadata-schema-deprecation/). This is a necessary step to keep our infrastructure sustainable and to ensure members are working with schemas that reflect current capabilities and standards.
-
-## Looking further ahead
-
-Beyond 6.0, we’re exploring further support for provenance in metadata (to establish who is doing what to a metadata record), a rethinking of how we handle dates so that they better capture the lifecycle of a research object, better support for research objects we don’t yet fully support, and making our metadata inputs more consistent. The [Metadata Development roadmap](https://share.productboard.com/crossref/board/948afee2-6002-4e70-975d-6fb27a5829da) has full details on what’s being explored and prioritized.
-
-Each of these updates contributes to Crossref’s research nexus vision: strengthening connections between funders and research, more accurately capturing and recognizing contributor roles in the scholarly record, and collecting free-text content to fill in the gaps that structured metadata alone can’t address. Better metadata means better research integrity and more trustworthy infrastructure for everyone who depends on it.</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/building-better-connections-the-story-of-crossrefs-metadata-development/</guid>
     </item>
   </channel>
 </rss>

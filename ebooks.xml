@@ -4,23 +4,124 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>09 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>10 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The place called Dagon by Herbert Sherman Gorman</title>
+      <link>https://www.gutenberg.org/ebooks/79055</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Broad Highway by Jeffery Farnol</title>
+      <link>https://www.gutenberg.org/ebooks/5257</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Beebo Brinker by Ann Bannon</title>
+      <link>https://www.gutenberg.org/ebooks/79057</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The German Arctic expedition of 1869-70, and narrative of the wreck of the &#34;Hansa&#34; in the ice</title>
+      <link>https://www.gutenberg.org/ebooks/79056</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Contes du pays d&#39;Armor by Marie Delorme</title>
+      <link>https://www.gutenberg.org/ebooks/79058</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Designs on prehistoric Hopi pottery by Jesse Walter Fewkes</title>
+      <link>https://www.gutenberg.org/ebooks/79063</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Glimpses into plant-life : by Mrs.  Brightwen</title>
+      <link>https://www.gutenberg.org/ebooks/79061</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Those about Trench by Edwin Herbert Lewis</title>
+      <link>https://www.gutenberg.org/ebooks/79064</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ride &#39;em and weep by Raoul Whitfield</title>
+      <link>https://www.gutenberg.org/ebooks/79062</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>From England to Iceland : by George Charles Sim</title>
+      <link>https://www.gutenberg.org/ebooks/79060</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The generals of the last war with Great Britain by John S.  Jenkins</title>
+      <link>https://www.gutenberg.org/ebooks/79059</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Memoirs of an Infantry Officer, by Siegfried Sassoon</title>
+      <link>https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer</link>
+      <description>
+        <![CDATA[An Englishman recounts his service, and his turn to pacifism, during World War I.]]>
+      </description>
+      <source:markdown>An Englishman recounts his service, and his turn to pacifism, during World War I.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer/downloads/siegfried-sassoon_memoirs-of-an-infantry-officer.epub?source=feed" length="533064" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer</guid>
+      <category>Autobiography</category>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>The Perfume of Eros, by Edgar Saltus</title>
+      <link>https://standardebooks.org/ebooks/edgar-saltus/the-perfume-of-eros</link>
+      <description>
+        <![CDATA[Two intertwined love triangles are thrown into turmoil when a body is found on a bench in Gramercy Park, New York.]]>
+      </description>
+      <source:markdown>Two intertwined love triangles are thrown into turmoil when a body is found on a bench in Gramercy Park, New York.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/edgar-saltus/the-perfume-of-eros/downloads/edgar-saltus_the-perfume-of-eros.epub?source=feed" length="782941" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/edgar-saltus/the-perfume-of-eros</guid>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>Flight, by Walter White</title>
+      <link>https://standardebooks.org/ebooks/walter-white/flight</link>
+      <description>
+        <![CDATA[A young Louisiana Creole woman struggles for racial and gender equality as she asserts her independence.]]>
+      </description>
+      <source:markdown>A young Louisiana Creole woman struggles for racial and gender equality as she asserts her independence.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/walter-white/flight/downloads/walter-white_flight.epub?source=feed" length="876968" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/walter-white/flight</guid>
+      <category>Fiction</category>
+    </item>    <item>
       <title>Galileo Galilei: sa vie, son procès et ses contemporains by Philarète Chasles</title>
       <link>https://www.gutenberg.org/ebooks/79052</link>
       <description>
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The place called Dagon by Herbert Gorman</title>
-      <link>https://www.gutenberg.org/ebooks/79055</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>In His Steps by Charles M. Sheldon</title>
       <link>https://www.gutenberg.org/ebooks/4540</link>
@@ -1282,97 +1383,6 @@
     </item>    <item>
       <title>The education of the women of India by Minna G.  Cowan</title>
       <link>https://www.gutenberg.org/ebooks/78894</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Varney the vampyre; or, the feast of blood by Thomas Peckett Prest and James Malcolm Rymer</title>
-      <link>https://www.gutenberg.org/ebooks/14833</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The man from the river : by G. D. H.  Cole and Margaret Cole</title>
-      <link>https://www.gutenberg.org/ebooks/78883</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The looker-on : by William Le Queux</title>
-      <link>https://www.gutenberg.org/ebooks/78884</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The flying buccaneer : by Jack Binns</title>
-      <link>https://www.gutenberg.org/ebooks/78892</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet</title>
-      <link>https://www.gutenberg.org/ebooks/1184</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Spanish Bayonet by Stephen Vincent Benét</title>
-      <link>https://www.gutenberg.org/ebooks/78890</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Eskimoleben by Fridtjof Nansen</title>
-      <link>https://www.gutenberg.org/ebooks/78886</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The Card, a Story of Adventure in the Five Towns by Arnold Bennett</title>
-      <link>https://www.gutenberg.org/ebooks/12986</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Observations on the geology, zoology and botany of Hudson&#39;s Strait and Bay, made in 1885 : by Bell</title>
-      <link>https://www.gutenberg.org/ebooks/78889</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Further memoirs of the Whig party, 1807-1821 : by Baron Henry Richard Vassall Holland</title>
-      <link>https://www.gutenberg.org/ebooks/78891</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The doctor&#39;s daughter by Catharine Shaw</title>
-      <link>https://www.gutenberg.org/ebooks/78887</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sunday sunshine</title>
-      <link>https://www.gutenberg.org/ebooks/78888</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>An island garden by Celia Thaxter</title>
-      <link>https://www.gutenberg.org/ebooks/78885</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
