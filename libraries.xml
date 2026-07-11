@@ -4,10 +4,48 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>10 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>11 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>siegfried 1.11.5 released</title>
+      <link>https://www.itforarchivists.com/post/sf1115/</link>
+      <description>
+        <![CDATA[<p>Version 1.11.5 of siegfried is now available. Get it <a href="https://www.itforarchivists.com/siegfried">here</a>.</p>
+        <h3 id="changelog-v1115-2026-07-11">CHANGELOG v1.11.5 (2026-07-11)</h3>
+        <ul>
+        <li>update go version to 1.25.0</li>
+        <li>update PRONOM to v124</li>
+        <li>bug with mimeinfo signature generation. Reported by Hugh Williams</li>
+        <li>wasm_exec.js updated. Reported by Trevor Munoz</li>
+        </ul>]]>
+      </description>
+      <source:markdown>Version 1.11.5 of siegfried is now available. Get it [here](https://www.itforarchivists.com/siegfried).
+
+### CHANGELOG v1.11.5 (2026-07-11)
+
+- update go version to 1.25.0
+- update PRONOM to v124
+- bug with mimeinfo signature generation. Reported by Hugh Williams
+- wasm\_exec.js updated. Reported by Trevor Munoz</source:markdown>
+      <guid>cid://https://www.itforarchivists.com/post/sf1115/</guid>
+    </item>    <item>
+      <title>Report: “Indiana Librarians to Get Mental Health Training”</title>
+      <link>https://www.infodocket.com/2026/07/10/report-indiana-librarians-to-get-mental-health-training/</link>
+      <description>
+        <![CDATA[<p>From the Indiana Capital Chronicle: Hoosiers suffering mental health crises are visiting public libraries for help — transforming the role of librarians who act simultaneously as researchers, archivists and quasi-social workers. Mental Health America of Indiana is stepping in to train librarians in how to respond to these crises and direct patrons to reliable information on [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/07/10/report-indiana-librarians-to-get-mental-health-training/">Report: &#8220;Indiana Librarians to Get Mental Health Training&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From the Indiana Capital Chronicle: Hoosiers suffering mental health crises are visiting public libraries for help — transforming the role of librarians who act simultaneously as researchers, archivists and quasi-social workers. Mental Health America of Indiana is stepping in to train librarians in how to respond to these crises and direct patrons to reliable information on \[…\]
+
+The post [Report: “Indiana Librarians to Get Mental Health Training”](https://www.infodocket.com/2026/07/10/report-indiana-librarians-to-get-mental-health-training/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168290</guid>
+      <category>Funding</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Patrons and Users</category>
+      <category>Public Libraries</category>
+    </item>    <item>
       <title>The OMB Guidance Revision Threatens All Research</title>
       <link>https://scholarlykitchen.sspnet.org/2026/07/10/the-omb-guidance-revision-threatens-all-research/</link>
       <description>
@@ -1358,20 +1396,6 @@ The post [A Platform Comes Apart: Part 1](https://scholarlykitchen.sspnet.org/20
 The post [A Look at the “Story of Crossref’s Metadata Development”](https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168194</guid>
       <category>News</category>
-    </item>    <item>
-      <title>Standards: Say Hello to the Agentic Resource Discovery (ARD) Specification</title>
-      <link>https://www.infodocket.com/2026/06/19/standards-say-hello-to-the-agentic-resource-discovery-ard-specification/</link>
-      <description>
-        <![CDATA[<p>From PC World: That chaotic, 1995-era state of the web is similar to where we are now with the “agentic” web. Just like users struggled to find URLs back in those days, so do AI agents struggle to find the tools they need to actually get things done online. When you ask an AI agent [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/06/19/standards-say-hello-to-the-agentic-resource-discovery-ard-specification/">Standards: Say Hello to the Agentic Resource Discovery (ARD) Specification</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From PC World: That chaotic, 1995-era state of the web is similar to where we are now with the “agentic” web. Just like users struggled to find URLs back in those days, so do AI agents struggle to find the tools they need to actually get things done online. When you ask an AI agent \[…\]
-
-The post [Standards: Say Hello to the Agentic Resource Discovery (ARD) Specification](https://www.infodocket.com/2026/06/19/standards-say-hello-to-the-agentic-resource-discovery-ard-specification/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168187</guid>
-      <category>News</category>
-      <category>Patrons and Users</category>
-      <category>Publishing</category>
     </item>
   </channel>
 </rss>

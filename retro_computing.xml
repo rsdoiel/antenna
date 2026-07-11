@@ -4,10 +4,37 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>10 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>11 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Last chance for stickers and tshirts</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/07/last-chance-for-stickers-and-tshirts/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>We set up a <a href="https://www.zazzle.com/store/freedos" rel="nofollow">FreeDOS store on Zazzle</a> in 2011 so folks could buy stickers, tshirts, mugs, ties, and other items with the FreeDOS logo on them. However, maintaining the store is starting to become a hassle, so we're planning to close the Zazzle store a month from now, in August. This is your last chance to buy stickers and tshirts if you want them.</p></div>]]>
+      </description>
+      <source:markdown>We set up a [FreeDOS store on Zazzle](https://www.zazzle.com/store/freedos) in 2011 so folks could buy stickers, tshirts, mugs, ties, and other items with the FreeDOS logo on them. However, maintaining the store is starting to become a hassle, so we&#39;re planning to close the Zazzle store a month from now, in August. This is your last chance to buy stickers and tshirts if you want them.</source:markdown>
+      <guid>cid://https://sourceforge.net5cffa9b5c5661206b20e2a621224da125375f018</guid>
+    </item>    <item>
+      <title>Multinational Apple Accounts</title>
+      <link>https://bitsplitting.org/2026/07/10/multinational-apple-accounts/</link>
+      <description>
+        <![CDATA[If you ever travel to other countries, particularly to the same ones repeatedly, register an Apple Account for each country with an easy to remember format. For example joe.uk@example.com, joe.es@example.com, joe.jp@example.com. Obviously this example only works if you own &#8220;example.com&#8221;, but you get the idea. Around the world, there are businesses whose services are available, [&#8230;]]]>
+      </description>
+      <source:markdown>If you ever travel to other countries, particularly to the same ones repeatedly, register an Apple Account for each country with an easy to remember format. For example joe.uk@example.com, joe.es@example.com, joe.jp@example.com. Obviously this example only works if you own “example.com”, but you get the idea. Around the world, there are businesses whose services are available, \[…\]</source:markdown>
+      <guid>cid://https://bitsplitting.org/?p=1501</guid>
+      <category>Lifestyle</category>
+      <category>Travel</category>
+    </item>    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Opus 4: Henry VI, Part 3]]>
+      </description>
+      <source:markdown>Opus 4: Henry VI, Part 3</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6854</guid>
+      <category>Uncategorized</category>
+    </item>    <item>
       <title>b.log 2026/07/09 - Not looking forward to tomorrow, The summer sales: New face shield for weed whacking, Influencer vlog light ring, Weather station with WiFi and app.</title>
       <link>https://heyrick.eu/blog/entry/20260709</link>
       <description>
@@ -2172,23 +2199,6 @@ I&#39;d say rest in peace, but given the infernal subject matter that just doesn
       <author>noreply@blogger.com (ClassicHasClass)</author>
       <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-8983624217005254252</guid>
       <category>memorials</category>
-    </item>    <item>
-      <title>The Goldilocks Principle in Fantasy Strategy</title>
-      <link>https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</link>
-      <description>
-        <![CDATA[Although I&#8217;ve played way too many games for way too many hours over the way too many years I&#8217;ve been writing these histories, it&#8217;s safe to say that I haven&#8217;t spent more time with any one game than Heroes of Might and Magic II. Partly this was down to circumstance. Heroes II showed up on the [&#8230;]]]>
-      </description>
-      <source:markdown>Although I’ve played way too many games for way too many hours over the way too many years I’ve been writing these histories, it’s safe to say that I haven’t spent more time with any one game than Heroes of Might and Magic II. Partly this was down to circumstance. Heroes II showed up on the \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6793</guid>
-      <category>Digital Antiquaria</category>
-      <category>Interactive Fiction</category>
-      <category>age of wonders</category>
-      <category>disciples</category>
-      <category>G.O.D.</category>
-      <category>ssg</category>
-      <category>strategy first</category>
-      <category>triumph</category>
-      <category>warlords</category>
     </item>
   </channel>
 </rss>

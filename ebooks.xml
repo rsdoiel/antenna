@@ -4,10 +4,73 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>10 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>11 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 4 of 5] : by Leonard Jenyns</title>
+      <link>https://www.gutenberg.org/ebooks/78558</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The voter&#39;s text book : by James M. Hiatt</title>
+      <link>https://www.gutenberg.org/ebooks/79072</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Samphire by John Cowper Powys</title>
+      <link>https://www.gutenberg.org/ebooks/79071</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Die Abstammung der Kunst by Wilhelm Bölsche</title>
+      <link>https://www.gutenberg.org/ebooks/79067</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The Bakerian lecture : by Thomas Young</title>
+      <link>https://www.gutenberg.org/ebooks/79069</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Meadow Brook by Mary Jane Holmes</title>
+      <link>https://www.gutenberg.org/ebooks/79070</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The espalier by Sylvia Townsend Warner</title>
+      <link>https://www.gutenberg.org/ebooks/79065</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Katy Hunter&#39;s homes by Mrs. C. M. Livingston</title>
+      <link>https://www.gutenberg.org/ebooks/79068</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Der Busch by B. Traven</title>
+      <link>https://www.gutenberg.org/ebooks/79066</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
       <title>The place called Dagon by Herbert Sherman Gorman</title>
       <link>https://www.gutenberg.org/ebooks/79055</link>
       <description>
@@ -1352,37 +1415,6 @@
     </item>    <item>
       <title>A fifth day in Mary Carrow&#39;s school by Anonymous</title>
       <link>https://www.gutenberg.org/ebooks/78896</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Professor’s House, by Willa Cather</title>
-      <link>https://standardebooks.org/ebooks/willa-cather/the-professors-house</link>
-      <description>
-        <![CDATA[As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.]]>
-      </description>
-      <source:markdown>As a middle-age professor moves house, he contemplates the legacy of his most brilliant student.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/willa-cather/the-professors-house/downloads/willa-cather_the-professors-house.epub?source=feed" length="674807" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/willa-cather/the-professors-house</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Dangerous Connections, v. 1, 2, 3, 4 by Choderlos de Laclos</title>
-      <link>https://www.gutenberg.org/ebooks/45512</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Silver .41 by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78893</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The education of the women of India by Minna G.  Cowan</title>
-      <link>https://www.gutenberg.org/ebooks/78894</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

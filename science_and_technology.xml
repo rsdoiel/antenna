@@ -4,10 +4,132 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>10 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>11 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Apple sues OpenAI for theft of “trade secrets”</title>
+      <link>https://www.osnews.com/story/145502/apple-sues-openai-for-theft-of-trade-secrets/</link>
+      <description>
+        <![CDATA[Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets. In the suit, filed in the District Court of Northern California, Apple accuses OpenAI of trade secret misappropriation and breach of contract. ↫ Lisa Eadicicco and Hadas Gold at CNN I find this about as interesting and watching artificial grass grow, but with the common wisdom being that Apple is behind on &#8220;AI&#8221;, it was honestly only a matter of time before the lawsuits came. After all, that&#8217;s usually what companies who can&#8217;t win in the market do. At the very least this will give corporate tech news websites a whole slew of new material. I just hope they both implode. We&#8217;d all be better off for it.]]>
+      </description>
+      <source:markdown>Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets. In the suit, filed in the District Court of Northern California, Apple accuses OpenAI of trade secret misappropriation and breach of contract. ↫ Lisa Eadicicco and Hadas Gold at CNN I find this about as interesting and watching artificial grass grow, but with the common wisdom being that Apple is behind on “AI”, it was honestly only a matter of time before the lawsuits came. After all, that’s usually what companies who can’t win in the market do. At the very least this will give corporate tech news websites a whole slew of new material. I just hope they both implode. We’d all be better off for it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145502</guid>
+      <category>Legal</category>
+    </item>    <item>
+      <title>Redox gets GTK3, Tcl</title>
+      <link>https://www.osnews.com/story/145500/redox-gets-gtk3-tcl/</link>
+      <description>
+        <![CDATA[Redox did the develop cools stuff thing again for a month, so we&#8217;ve got progress to talk about. This past month, GTK3 has been ported to Redox, as well as the Tcl programming language. Support for per-window fractional scaling has been added to Orbital, Redox&#8217; desktop environment, but it&#8217;s still relatively limited for now. There&#8217;s also new USB gamepad support, which already works in quite a few emulators, as well as details about how Redox intends to improve its support for running in a virtual environment over the coming 12 months, an effort sponsored by NLnet. Of course, there&#8217;s also the usual bugfixes and updates to various drivers, the kernel, Relibc, and more.]]>
+      </description>
+      <source:markdown>Redox did the develop cools stuff thing again for a month, so we’ve got progress to talk about. This past month, GTK3 has been ported to Redox, as well as the Tcl programming language. Support for per-window fractional scaling has been added to Orbital, Redox’ desktop environment, but it’s still relatively limited for now. There’s also new USB gamepad support, which already works in quite a few emulators, as well as details about how Redox intends to improve its support for running in a virtual environment over the coming 12 months, an effort sponsored by NLnet. Of course, there’s also the usual bugfixes and updates to various drivers, the kernel, Relibc, and more.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145500</guid>
+      <category>Redox OS</category>
+    </item>    <item>
+      <title>Understanding Windows monthly updates: Servicing explained</title>
+      <link>https://www.osnews.com/story/145498/understanding-windows-monthly-updates-servicing-explained/</link>
+      <description>
+        <![CDATA[Windows has a fairly complex update ecosystem, so every now and then, the company feels like it needs to publish clarifications and explainers so people can keep up with what&#8217;s going on. Most individuals and organizations regularly deploy monthly security updates, released on the second Tuesday of each month. Windows also provides optional non-security preview updates, which give IT teams and early adopters an opportunity to validate upcoming fixes before they&#8217;re included in the next monthly security update. This guide explains the purpose of each update type, when updates are released, and how they fit into the modern Windows servicing model. ↫ Chris Morrissey at the Windows IT Pro Blog It&#8217;s easy to make fun of Microsoft and Windows for just how complex and obtuse the update ecosystem really is, but in all honestly it&#8217;s kind of understandable. Windows is a sprawling platform used by so many different people, companies, and organisations, under so many different circumstances and in so many different environments, it makes sense that Microsoft wants to address the multitude of needs that arise from that complexity. And so we end up not only with a dizzying array of update types and a long corpus of mystic terminology, but also a long list of complex different management tools to deploy said updates. And then there&#8217;s the various preview channels making everything even more complex. I&#8217;m definitely not smart, qualified, or experienced enough to come up with a better solution, but I do think choosing better names for the various update types, and perhaps a centralised settings panel inside Windows that gave users a better idea of what each type of update actually does, would go a long way to improving clarity. During my month with Windows 11, I also found it deeply frustrating just how little information Microsoft provides about each of the updates Windows is installing. As a user, I was expected to copy/paste the KB number and then hope that would lead me to useful information, while it would be much more convenient if such information was available right then and there inside Windows Update. If you can&#8217;t reduce complexity, you should try to improve transparency.]]>
+      </description>
+      <source:markdown>Windows has a fairly complex update ecosystem, so every now and then, the company feels like it needs to publish clarifications and explainers so people can keep up with what’s going on. Most individuals and organizations regularly deploy monthly security updates, released on the second Tuesday of each month. Windows also provides optional non-security preview updates, which give IT teams and early adopters an opportunity to validate upcoming fixes before they’re included in the next monthly security update. This guide explains the purpose of each update type, when updates are released, and how they fit into the modern Windows servicing model. ↫ Chris Morrissey at the Windows IT Pro Blog It’s easy to make fun of Microsoft and Windows for just how complex and obtuse the update ecosystem really is, but in all honestly it’s kind of understandable. Windows is a sprawling platform used by so many different people, companies, and organisations, under so many different circumstances and in so many different environments, it makes sense that Microsoft wants to address the multitude of needs that arise from that complexity. And so we end up not only with a dizzying array of update types and a long corpus of mystic terminology, but also a long list of complex different management tools to deploy said updates. And then there’s the various preview channels making everything even more complex. I’m definitely not smart, qualified, or experienced enough to come up with a better solution, but I do think choosing better names for the various update types, and perhaps a centralised settings panel inside Windows that gave users a better idea of what each type of update actually does, would go a long way to improving clarity. During my month with Windows 11, I also found it deeply frustrating just how little information Microsoft provides about each of the updates Windows is installing. As a user, I was expected to copy/paste the KB number and then hope that would lead me to useful information, while it would be much more convenient if such information was available right then and there inside Windows Update. If you can’t reduce complexity, you should try to improve transparency.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145498</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>See Artifacts That Archaeologists Discovered in This 1,600-Year-Old Byzantine Christian Town Buried in an Oasis in Egypt</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-artifacts-that-archaeologists-discovered-in-this-1600-year-old-byzantine-christian-town-buried-in-an-oasis-in-egypt-180989106/</link>
+      <description>
+        <![CDATA[The mud-brick village boasts streets, towers and a large church. Researchers unearthed everyday objects like grain grinders, an oven and some 200 ostraca—ancient receipts and notes written on broken pottery]]>
+      </description>
+      <source:markdown>The mud-brick village boasts streets, towers and a large church. Researchers unearthed everyday objects like grain grinders, an oven and some 200 ostraca—ancient receipts and notes written on broken pottery</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vuwdX3Na8ZlyHmLZsyDurpkKNwQ=/420x240/filters:focal(430x287:431x288)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/4e/a04e2328-f7ae-4afc-9bd5-815c57f68a96/735761382_979443714901375_5840206519074944984_n.jpeg" length="376435" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-artifacts-that-archaeologists-discovered-in-this-1600-year-old-byzantine-christian-town-buried-in-an-oasis-in-egypt-180989106/</guid>
+    </item>    <item>
+      <title>Cases of a Parasitic Infection That Can Cause Diarrhea for Weeks Are Rapidly Rising in the U.S. Here&#39;s What to Know</title>
+      <link>https://www.smithsonianmag.com/smart-news/cases-of-a-parasitic-infection-that-can-cause-diarrhea-for-weeks-are-rapidly-rising-in-the-us-heres-what-to-know-180989108/</link>
+      <description>
+        <![CDATA[The illness is caused by the microscopic parasite Cyclospora cayetanensis, which spreads via food or water contaminated with feces, usually on farms. Health officials are still investigating the source of the multistate outbreak]]>
+      </description>
+      <source:markdown>The illness is caused by the microscopic parasite Cyclospora cayetanensis, which spreads via food or water contaminated with feces, usually on farms. Health officials are still investigating the source of the multistate outbreak</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VXZpG8vNAsarDkNgNsSPwQ_nP5k=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/96/b09646d0-adb7-4301-b154-2f50a371bb9b/lettuce-washing.jpg" length="13228697" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/cases-of-a-parasitic-infection-that-can-cause-diarrhea-for-weeks-are-rapidly-rising-in-the-us-heres-what-to-know-180989108/</guid>
+    </item>    <item>
+      <title>Early Career Faculty (ECF) 2025 Awards</title>
+      <link>https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/</link>
+      <description>
+        <![CDATA[Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control]]>
+      </description>
+      <source:markdown>Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1016983</guid>
+      <category>Early Career Faculty (ECF)</category>
+    </item>    <item>
+      <title>NASA Volunteers Help Zooniverse Reach 1 Billion Classifications</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/</link>
+      <description>
+        <![CDATA[The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]]]>
+      </description>
+      <source:markdown>The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/</guid>
+      <category>Citizen Science</category>
+    </item>    <item>
+      <title>In the Latest Brazen Heist, Jewelry and Artworks Worth $5 Million Were Stolen From a Famed French Designer&#39;s Museum</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-the-latest-brazen-heist-jewelry-and-artworks-worth-5-million-were-stolen-from-famed-french-designer-lalique-museum-180989105/</link>
+      <description>
+        <![CDATA[A trio of burglars stole 27 pieces, including a dragonfly pendant, from the Lalique Museum in eastern France]]>
+      </description>
+      <source:markdown>A trio of burglars stole 27 pieces, including a dragonfly pendant, from the Lalique Museum in eastern France</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lzn-E16kOTbpJWAulDfOgMKMGo4=/420x240/filters:focal(600x600:601x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c1/14c1a3ac-716d-44fc-9da8-31f3877e3405/syl4508b_1.jpg" length="510620" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-the-latest-brazen-heist-jewelry-and-artworks-worth-5-million-were-stolen-from-famed-french-designer-lalique-museum-180989105/</guid>
+    </item>    <item>
+      <title>NASA Photographer Captures Images from F-18 Over Washington</title>
+      <link>https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/</link>
+      <description>
+        <![CDATA[NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, [&#8230;]]]>
+      </description>
+      <source:markdown>NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1016869</guid>
+      <category>Aeronautics</category>
+      <category>Armstrong Flight Research Center</category>
+      <category>Flight Innovation</category>
+      <category>NASA Aircraft</category>
+    </item>    <item>
+      <title>Bumblebees Seem to &#39;Lick Their Lips&#39; After Sweet Treats and Shake Their Heads at Bad Tastes, Hinting at the Insects&#39; Inner Lives</title>
+      <link>https://www.smithsonianmag.com/smart-news/bumblebees-seem-to-lick-their-lips-after-sweet-treats-and-shake-their-heads-at-bad-tastes-hinting-at-the-insects-inner-lives-180989098/</link>
+      <description>
+        <![CDATA[Slow-motion videos suggest that the insects display distinct behaviors when they like or dislike a snack. The findings might offer a new way to study their emotion-like states]]>
+      </description>
+      <source:markdown>Slow-motion videos suggest that the insects display distinct behaviors when they like or dislike a snack. The findings might offer a new way to study their emotion-like states</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iS8aOIOlA8ONJ4AyfWbsdNz2Qbg=/420x240/filters:focal(3504x2002:3505x2003)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/00/dc/00dcd4f5-2093-4d54-83b6-2adc19413924/7_dsc06420.jpg" length="15632108" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/bumblebees-seem-to-lick-their-lips-after-sweet-treats-and-shake-their-heads-at-bad-tastes-hinting-at-the-insects-inner-lives-180989098/</guid>
+    </item>    <item>
+      <title>Waxing Gibbous Moon</title>
+      <link>https://www.nasa.gov/image-article/waxing-gibbous-moon-6/</link>
+      <description>
+        <![CDATA[The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighter [&#8230;]]]>
+      </description>
+      <source:markdown>The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighter \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1016722</guid>
+      <category>Earth&#39;s Moon</category>
+    </item>    <item>
+      <title>We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.</title>
+      <link>https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/</link>
+      <description>
+        <![CDATA[Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea.            <p>The post <a href="https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/" target="_blank">We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea.
+
+The post [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=164067</guid>
+      <category>Physics</category>
+    </item>    <item>
+      <title>Roughly 100,000 Years Ago, This Man Got Stabbed in the Face—and Survived. He&#39;s Likely One of the First Known Victims of an Attack With a Sharp Weapon</title>
+      <link>https://www.smithsonianmag.com/smart-news/roughly-100000-years-ago-this-man-got-stabbed-in-the-face-and-survived-hes-likely-one-of-the-first-known-victims-of-an-attack-by-a-sharp-weapon-180989103/</link>
+      <description>
+        <![CDATA[Researchers who investigated the remains of a young adult male found in the Qafzeh cave say the injury healed over time, which means the victim's community may have tended to him]]>
+      </description>
+      <source:markdown>Researchers who investigated the remains of a young adult male found in the Qafzeh cave say the injury healed over time, which means the victim&#39;s community may have tended to him</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/sTTToX3RBfE2d6RE0zQ0vl7ti0A=/420x240/filters:focal(2592x1950:2593x1951)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/66/25662785-089b-491f-89ea-a3537774e90a/p3120086.jpeg" length="7196110" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/roughly-100000-years-ago-this-man-got-stabbed-in-the-face-and-survived-hes-likely-one-of-the-first-known-victims-of-an-attack-by-a-sharp-weapon-180989103/</guid>
+    </item>    <item>
       <title>The Culprit Behind South Australia&#39;s Deadly Algal Bloom Might Be the Most Toxic Species Ever Tested, Scientists Say</title>
       <link>https://www.smithsonianmag.com/smart-news/the-culprit-behind-south-australias-deadly-algal-bloom-might-be-the-most-toxic-species-ever-tested-scientists-say-180989100/</link>
       <description>
@@ -2850,66 +2972,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>Every website has a favicon. It’s that little icon in your browser tab. Usually you upload it once and then never think about it again. But. A favicon is just an image. An image is just pixels. And pixels are just bytes. So of course I wondered if I could store something inside one. ↫ Tim Wehrle I love it when people do something useless just for fun.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145350</guid>
       <category>Internet</category>
-    </item>    <item>
-      <title>What was nice about the UI of Windows 2000</title>
-      <link>https://www.osnews.com/story/145346/what-was-nice-about-the-ui-of-windows-2000/</link>
-      <description>
-        <![CDATA[I mean, this is preaching to the choir, but let&#8217;s go anyway. I liked the UIs of the entire era from 3.0 to 2000, really. I&#8217;m mostly using Windows 2000 as an example here because it runs so well in QEMU/KVM and that allows me to easily take screenshots. Some of the following will sound absolutely trivial, but I think it&#8217;s worth pointing out. ↫ movq.de blog Just a series of observations about how much better graphical user interfaces were back in the &#8217;90s and early 2000s. We&#8217;ve lost so many affordances based on both common sense and scientific study, and what we ended up with is a confusing, inconsistent mess. It doesn&#8217;t really matter where you look &#8211; user interface design has deteriorated since the early 2000s, a decline that only accelerated thanks to the arrival of the iPhone, where consistency is a dirty word, and the web, where the advertising people took prominence over the design people. I just want my buttons to look like buttons man.]]>
-      </description>
-      <source:markdown>I mean, this is preaching to the choir, but let’s go anyway. I liked the UIs of the entire era from 3.0 to 2000, really. I’m mostly using Windows 2000 as an example here because it runs so well in QEMU/KVM and that allows me to easily take screenshots. Some of the following will sound absolutely trivial, but I think it’s worth pointing out. ↫ movq.de blog Just a series of observations about how much better graphical user interfaces were back in the ’90s and early 2000s. We’ve lost so many affordances based on both common sense and scientific study, and what we ended up with is a confusing, inconsistent mess. It doesn’t really matter where you look – user interface design has deteriorated since the early 2000s, a decline that only accelerated thanks to the arrival of the iPhone, where consistency is a dirty word, and the web, where the advertising people took prominence over the design people. I just want my buttons to look like buttons man.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145346</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>Archaeologists Discover Evidence That a Wooden Prototype for Stonehenge May Have Aligned With the Solstice 500 Years Before the Stone Circle</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-evidence-a-wooden-prototype-for-stonehenge-may-have-aligned-with-the-solstice-500-years-before-the-stone-circle-180988988/</link>
-      <description>
-        <![CDATA[The remains of a wooden monument in southern England, three miles away from Stonehenge, may demonstrate Neolithic people's interest in the heavens]]>
-      </description>
-      <source:markdown>The remains of a wooden monument in southern England, three miles away from Stonehenge, may demonstrate Neolithic people&#39;s interest in the heavens</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ue3UnRB52DmhJ4mYzMBJo0X2WM4=/420x240/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/00/5a000fa7-b6e9-4d55-b926-04710c61bded/stonehenge.jpg" length="7048920" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-discover-evidence-a-wooden-prototype-for-stonehenge-may-have-aligned-with-the-solstice-500-years-before-the-stone-circle-180988988/</guid>
-    </item>    <item>
-      <title>To study how chips really work, MIT researchers built their own operating system</title>
-      <link>https://www.osnews.com/story/145342/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system/</link>
-      <description>
-        <![CDATA[A fascinating novel approach by researchers at MIT, called Fractal, to study in-depth how processors actually work. A team at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) decided to build something different. Fractal, an operating system kernel written from the ground up, treats the hardware itself as the object of study. Its first major use, a deep look at branch predictors — a CPU’s way of guessing what code to run next, before it knows for certain, so it doesn’t have to waste time waiting to find out — inside Apple’s M1 processor, has already turned up findings that prior work missed, including the first evidence that a class of speculative attack known as “Phantom” affects Apple Silicon. “We’re using hardware in ways it wasn’t designed for,” says Joseph Ravichandran, the MIT PhD student in electrical engineering and computer science (EECS) who led the project. “It’s not even obvious that this is a possible thing you could do with the hardware. But we found a way to pull all these different primitives off. It’s like a microscope. If you’ve got a hand magnifying glass, you can see a little bit. But if you had an electron microscope, now we’re really talking. That’s what Fractal is. The electron microscope of operating systems.” ↫ Rachel Gordon at MIT News While Fractal is small, its creators also added POSIX system calls, a C library, vim, GCC, a shell, and more. This way, it feels more familiar, and makes it easier for researchers to get started with the tool. Fractal is open source and hosted on GitHub, it has its own website, and there&#8217;s a detailed research paper with more in-depth information.]]>
-      </description>
-      <source:markdown>A fascinating novel approach by researchers at MIT, called Fractal, to study in-depth how processors actually work. A team at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) decided to build something different. Fractal, an operating system kernel written from the ground up, treats the hardware itself as the object of study. Its first major use, a deep look at branch predictors — a CPU’s way of guessing what code to run next, before it knows for certain, so it doesn’t have to waste time waiting to find out — inside Apple’s M1 processor, has already turned up findings that prior work missed, including the first evidence that a class of speculative attack known as “Phantom” affects Apple Silicon. “We’re using hardware in ways it wasn’t designed for,” says Joseph Ravichandran, the MIT PhD student in electrical engineering and computer science (EECS) who led the project. “It’s not even obvious that this is a possible thing you could do with the hardware. But we found a way to pull all these different primitives off. It’s like a microscope. If you’ve got a hand magnifying glass, you can see a little bit. But if you had an electron microscope, now we’re really talking. That’s what Fractal is. The electron microscope of operating systems.” ↫ Rachel Gordon at MIT News While Fractal is small, its creators also added POSIX system calls, a C library, vim, GCC, a shell, and more. This way, it feels more familiar, and makes it easier for researchers to get started with the tool. Fractal is open source and hosted on GitHub, it has its own website, and there’s a detailed research paper with more in-depth information.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145342</guid>
-      <category>OS News</category>
-    </item>    <item>
-      <title>Why scientists launched two little robots to the moon</title>
-      <link>https://www.npr.org/2026/06/19/nx-s1-5856562/space-moon-robots-transforming</link>
-      <description>
-        <![CDATA[Two tiny transforming robots landed on the moon! These baseball-sized bots accompanied Japan's first successful lunar lander. They rolled out of SLIM as balls and transformed into a rover. The bots cracked down the middle to reveal a little camera in the center. The halves then acted as spinning wheels that helped them waddle, bounce and roll over hard terrain as they explored. In this roundup of space news, we also get into the latest turn about how much the universe is expanding and the Earthly analogs NASA astronauts are using to prepare for the forthcoming Artemis mission.<br/><br/><em>Interested in more space science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Two tiny transforming robots landed on the moon! These baseball-sized bots accompanied Japan&#39;s first successful lunar lander. They rolled out of SLIM as balls and transformed into a rover. The bots cracked down the middle to reveal a little camera in the center. The halves then acted as spinning wheels that helped them waddle, bounce and roll over hard terrain as they explored. In this roundup of space news, we also get into the latest turn about how much the universe is expanding and the Earthly analogs NASA astronauts are using to prepare for the forthcoming Artemis mission.
-
-_Interested in more space science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ef4fc72d-15bb-4d3f-9f8e-c71a66dfe022/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ef4fc72d-15bb-4d3f-9f8e-c71a66dfe022&feed=F0qJcgXZ&t=podcast&e=nx-s1-5856562&p=510351&d=651&size=10424364" length="10424364" type="audio/mpeg" />
-      <guid>cid://0d01fb78-460a-4784-afb4-f86ff1ff04ed</guid>
-    </item>    <item>
-      <title>Tropical Storm Arthur</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/</link>
-      <description>
-        <![CDATA[The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.]]>
-      </description>
-      <source:markdown>The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/</guid>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 4920-4926: Surveying the Bands</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/</link>
-      <description>
-        <![CDATA[Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]]]>
-      </description>
-      <source:markdown>Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/</guid>
     </item>
   </channel>
 </rss>
