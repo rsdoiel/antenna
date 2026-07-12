@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>11 Jul 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>12 Jul 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -35,6 +35,873 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/12.html#a132604</link>
+      <description>
+        <![CDATA[Finally, my first <a href="https://shownotes.scripting.com/scripting/2026/07/12/myFirstRsschatPodcast.html">rss.chat podcast</a>. 20 minutes. As always, I take forever to get to the point.]]>
+      </description>
+      <source:markdown>Finally, my first [rss.chat podcast](https://shownotes.scripting.com/scripting/2026/07/12/myFirstRsschatPodcast.html). 20 minutes. As always, I take forever to get to the point.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/12.html#a132604</guid>
+    </item>    <item>
+      <title>Why you can&#39;t create an account</title>
+      <link>http://scripting.com/2026/07/12/121948.html?title=whyYouCantCreateAnAccount</link>
+      <description>
+        <![CDATA[<p><img class="imgRightMargin" src="https://imgs.scripting.com/2026/07/12/catsCradle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A <a href="https://en.wikipedia.org/wiki/Cat%27s_Cradle#Bokononism">karass</a> is "a group of people linked in a cosmically significant manner, even when superficial linkages are not evident." I think of <a href="https://rss.chat/">rss.chat</a> as a social network for my karass. A small group of people, not trying to get famous or rich from using a social network, rather wanted to work with or stay in touch with people who are linked cosmically. This is one of many rich ideas invented by Kurt Vonnegut, this one in <a href="https://www.goodreads.com/book/show/135479.Cat_s_Cradle?from_search=true&from_srp=true&qid=qnLed3oYgC&rank=1">Cat's Cradle</a>, which you should read, because it's some of the best story-telling out there, and it's full of food for thought. I read all the books when I was a teen, and have since re-read them. <a href="https://www.goodreads.com/en/book/show/4982.The_Sirens_of_Titan">Sirens of Titan</a> was my fave.</p>
+        <p>Anyway...</p>
+        <p>In the past when I announced a product, people could use it right away, and usually they click a couple of things and then go away.</p>
+        <p>In the case of <a href="https://rss.chat/">rss.chat</a> -- what you will see is very much like what you see when you aren't logged in, or what you see on a social network like X, or Mastodon or whatever.  The UI is nice, but it's not the thing. That will be revealed relatively slowly, over time -- as new instances pop up, and even more importantly, as developers figure out that this setup works well enough to clone. I'm not selling a product here -- I want to bootstrap an ecosystem, using all I learned from several successful bootstraps -- blogging, RSS, podcasting. </p>
+        <p>The idea is this -- the web itself is a social network. It's up to us, all of us, not just me -- to build that network. </p>
+        <p>When you see how we proceed from here that will become clearer.</p>
+        <p>In the meantime I'm going to change the message you get when you try to sign on, and start a wait list so that when more instances are available, some meant to be open to the public, we'll be sure to let you all know about that. </p>
+        <p>For now, I'm operating a network for people I work with, and it's all open for anyone to read. That's also one of the ideas I want to explore, something I call a "Fractional horsepower social network," stealing a very good idea from Steve Jobs. </p>
+        <p>I don't want to turn the world over to a startup, we've done that and have a pretty good idea of where it goes. I want lots of small ones that have a very strong basis to be connected together in as many ways as people can imagine.</p>]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2026/07/12/catsCradle.png)A [karass](https://en.wikipedia.org/wiki/Cat%27s_Cradle#Bokononism) is &#34;a group of people linked in a cosmically significant manner, even when superficial linkages are not evident.&#34; I think of [rss.chat](https://rss.chat/) as a social network for my karass. A small group of people, not trying to get famous or rich from using a social network, rather wanted to work with or stay in touch with people who are linked cosmically. This is one of many rich ideas invented by Kurt Vonnegut, this one in [Cat&#39;s Cradle](https://www.goodreads.com/book/show/135479.Cat_s_Cradle?from_search=true&#38;from_srp=true&#38;qid=qnLed3oYgC&#38;rank=1), which you should read, because it&#39;s some of the best story-telling out there, and it&#39;s full of food for thought. I read all the books when I was a teen, and have since re-read them. [Sirens of Titan](https://www.goodreads.com/en/book/show/4982.The_Sirens_of_Titan) was my fave.
+
+Anyway...
+
+In the past when I announced a product, people could use it right away, and usually they click a couple of things and then go away.
+
+In the case of [rss.chat](https://rss.chat/) -- what you will see is very much like what you see when you aren&#39;t logged in, or what you see on a social network like X, or Mastodon or whatever. The UI is nice, but it&#39;s not the thing. That will be revealed relatively slowly, over time -- as new instances pop up, and even more importantly, as developers figure out that this setup works well enough to clone. I&#39;m not selling a product here -- I want to bootstrap an ecosystem, using all I learned from several successful bootstraps -- blogging, RSS, podcasting.
+
+The idea is this -- the web itself is a social network. It&#39;s up to us, all of us, not just me -- to build that network.
+
+When you see how we proceed from here that will become clearer.
+
+In the meantime I&#39;m going to change the message you get when you try to sign on, and start a wait list so that when more instances are available, some meant to be open to the public, we&#39;ll be sure to let you all know about that.
+
+For now, I&#39;m operating a network for people I work with, and it&#39;s all open for anyone to read. That&#39;s also one of the ideas I want to explore, something I call a &#34;Fractional horsepower social network,&#34; stealing a very good idea from Steve Jobs.
+
+I don&#39;t want to turn the world over to a startup, we&#39;ve done that and have a pretty good idea of where it goes. I want lots of small ones that have a very strong basis to be connected together in as many ways as people can imagine.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/12/121948.html</guid>
+    </item>    <item>
+      <title>“Lean on Me”</title>
+      <link>https://steady.substack.com/p/lean-on-me-8da</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!18jp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F564fc914-f220-40fa-a5a9-7b05523e6838_3000x2109.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/lean-on-me-8da</guid>
+    </item>    <item>
+      <title>Communism According to Republicans</title>
+      <link>https://www.borowitzreport.com/p/communism-according-to-republicans</link>
+      <description>
+        <![CDATA[TBR Sunday Read]]>
+      </description>
+      <source:markdown>TBR Sunday Read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!OnmK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff908d2b9-0786-49b9-a8c8-b04f785a832b_1024x809.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/communism-according-to-republicans</guid>
+    </item>    <item>
+      <title>AI in an Age of Oligarchy</title>
+      <link>https://paulkrugman.substack.com/p/ai-in-an-age-of-oligarchy</link>
+      <description>
+        <![CDATA[Why extreme inequality will magnify the social, political and economic downside of technology]]>
+      </description>
+      <source:markdown>Why extreme inequality will magnify the social, political and economic downside of technology</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!7Fiv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bb0d1f6-d648-45a2-8807-f2b653c4f226_1240x858.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/ai-in-an-age-of-oligarchy</guid>
+    </item>    <item>
+      <title>England’s Victory Over Norway Draws Biggest UK Audience For World Cup 2026</title>
+      <link>https://deadline.com/2026/07/england-norway-tv-rating-world-cup-1236980082/</link>
+      <description>
+        <![CDATA[England progressed to the semi-final of the FIFA World Cup in front of the largest UK audience of the tournament so far. Jude Bellingham&#8217;s brace of goals knocked Norway out of the competition, with a peak of 16.8M viewers watching the 2-1 triumph on ITV1. ITV&#8217;s coverage scored an average of 12.7M viewers, according to [&#8230;]]]>
+      </description>
+      <source:markdown>England progressed to the semi-final of the FIFA World Cup in front of the largest UK audience of the tournament so far. Jude Bellingham’s brace of goals knocked Norway out of the competition, with a peak of 16.8M viewers watching the 2-1 triumph on ITV1. ITV’s coverage scored an average of 12.7M viewers, according to \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236980082</guid>
+      <category>Ratings</category>
+      <category>England</category>
+      <category>FIFA World Cup</category>
+    </item>    <item>
+      <title>Lindsey Graham Dies: Trump Ally Suffered “Brief &#38; Sudden Illness”</title>
+      <link>https://deadline.com/2026/07/lindsey-graham-dead-trump-brief-sudden-illness-1236980078/</link>
+      <description>
+        <![CDATA[Sen. Lindsey Graham has died at the age of 71. Graham suffered what his office described as a &#8220;brief and sudden illness&#8221; on Saturday evening. NBC News reported that emergency services responded to a call for “cardiac arrest” at Graham’s Capitol Hill home. &#8220;On the evening of Saturday, July 11, U.S. Senator Lindsey Graham passed [&#8230;]]]>
+      </description>
+      <source:markdown>Sen. Lindsey Graham has died at the age of 71. Graham suffered what his office described as a “brief and sudden illness” on Saturday evening. NBC News reported that emergency services responded to a call for “cardiac arrest” at Graham’s Capitol Hill home. “On the evening of Saturday, July 11, U.S. Senator Lindsey Graham passed \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236980078</guid>
+      <category>News</category>
+      <category>Politics</category>
+      <category>Donald Trump</category>
+      <category>Lindsey Graham</category>
+    </item>    <item>
+      <title>Sunday Thought: Gratitude</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-gratitude</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0VT0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F218c458e-bf17-4090-b2e2-ef09a4bc88a9_3500x2910.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-gratitude</guid>
+    </item>    <item>
+      <title>July 11, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/july-11-2026</link>
+      <description>
+        <![CDATA[Last night the Department of Justice subpoenaed reporters from the New York Times over a story the newspaper published on Wednesday.]]>
+      </description>
+      <source:markdown>Last night the Department of Justice subpoenaed reporters from the New York Times over a story the newspaper published on Wednesday.</source:markdown>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/july-11-2026</guid>
+    </item>    <item>
+      <title>Brunday</title>
+      <link>https://doc.searls.com/2026/07/11/brunday/</link>
+      <description>
+        <![CDATA[Just a theory LeBron is going to Miami. Old connections. Fun team with Giannis and Bam there. Lots of great golf, year-round.]]>
+      </description>
+      <source:markdown>Just a theory LeBron is going to Miami. Old connections. Fun team with Giannis and Bam there. Lots of great golf, year-round.</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/07/11/brunday/</guid>
+      <category>Sports</category>
+    </item>    <item>
+      <title>Bookmarks - web, localfirst, llm, protocol</title>
+      <link>https://inkdroid.org/2026/07/12/bookmarks/</link>
+      <description>
+        <![CDATA[These are some things I’ve wandered across on the web this week.
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://rli.blogs.sas.ac.uk/2026/06/29/unhcrs-future-is-at-risk-and-so-is-its-past/">
+        UNHCR’s future is at risk – and so is its past </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        UNHCR’s archives are not just dusty shelves of internal paperwork.
+        Within around 10 kilometres of shelving lie official records, file
+        notes, testimonies and images dating back to UNHCR’s creation in 1950,
+        documenting global displacement from the aftermath of the Second World
+        War through the Cold War and decolonization to today’s conflicts and
+        climate-driven crises. Alongside this sits a vast digital archive:
+        websites and social media content amounting to around 5–6 terabytes, and
+        a dedicated Digital Preservation System holding almost 90 terabytes of
+        material.
+        </p>
+        Once destroyed, these records cannot be reconstructed. There is no
+        backup co
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/archive/">archive</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/delete/">delete</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://streetbooks.org/"> Street Books </a>
+        </h2>
+        <section class="p-summary">
+        Street Books is a street library that provides community, resources, and
+        advocacy for people living outside or at the margins in Portland,
+        Oregon. We cultivate mutual relationships rooted in dignity and autonomy
+        by showing up every week, year after year, in all kinds of weather, all
+        around the city, to meet people where they are.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/book/">book</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/community/">community</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://youtu.be/cSszl4zs6SY"> Jul 6, 2026:
+        Yes, this happened last night… </a>
+        </h2>
+        <section class="p-summary">
+        Welcome to our historic 24/7 live stream of the magnificent Fuego
+        Volcano, one of the most active volcanoes in the world! For the first
+        time ever, experience the raw power and breathtaking beauty of Fuego
+        live in stunning 4K resolution.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/video/">video</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/volcano/">volcano</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://ckarchive.com/b/r8u8hoh2lzkg9h48nng83sx98zz66h7">
+        The Imperfectionist: maybe it doesn’t matter </a>
+        </h2>
+        <section class="p-summary">
+        … much of the time, my “minding” is more just a sort of bodily habit –
+        an unreflecting assumption that if I’m faced with a task or a decision,
+        I should proceed on the basis that it’s really important that things
+        turn out right. And that’s a habit I can drop as soon as I’m aware of
+        it. Whereupon I get to inhabit the present moment more fully and
+        enjoyably, instead of always anxiously waiting to see if things turn out
+        the way I’ve decided they must. Plus, I get to do stuff more freely – to
+        make decisions and take action and accomplish things, instead of holding
+        back out of the fear that things might go catastrophically wrong.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/life/">life</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/management/">management</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/psychology/">psychology</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.e-flux.com/announcements/6786944/strange-rules">
+        Strange Rules </a>
+        </h2>
+        <section class="p-summary">
+        Strange Rules introduces the concept of Protocol Art, a practice that
+        engages with the underlying rules that determine how culture is
+        produced, distributed, and perceived in a digital age. These rules
+        manifest as algorithms, AI models, platforms, technological
+        infrastructure and social convention, hardening through use into the
+        conditions of cultural life. Protocol Art operates at the level of the
+        rule: not only analysing these systems, but seeding new ones. The
+        protocol is not the subject of the art: it is the art. When the protocol
+        is the art, the scientists and researchers authoring such rules become
+        artists. Strange Rules invites them to participate as such.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/art/">art</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/ml/">ml</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/protocol/">protocol</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html">
+        Experiences with local models for coding </a>
+        </h2>
+        <section class="p-summary">
+        This is the second memo where I describe my recent experiences on
+        running small models locally on my developer machine for agentic coding.
+        In the first memo, I covered the many factors that can influence the
+        viability of that setup — hardware, model choice, runtime, harness. Here
+        I focus on the concrete experiences, the tasks I gave the models, what
+        happened, and my final conclusions.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/localfirst/">localfirst</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind">
+        ‘There’s this deep mystery of what, actually, is this thing?’: the
+        philosopher inside Google DeepMind AI </a>
+        </h2>
+        <section class="p-summary">
+        After starting at DeepMind in 2017, Gabriel was, for a time, the only
+        active philosopher working at a frontier AI lab. He quickly discovered
+        that his background in moral philosophy and political theory gave him an
+        unusual perspective in an industry dominated by engineers. Over the past
+        decade, he has assembled a body of work that tracked, and in many cases
+        predicted, the ethical challenges created by the surprising success of
+        large language models (LLMs
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/google/">google</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://sneakerweb.org/"> sneakerweb </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        The sneakerweb is a peer-to-peer protocol for web publishing without
+        permission: there are no DNS servers, domain registrars, or web hosts.
+        </p>
+        <p>
+        Instead, websites are stored directly on user devices, and transferred
+        between them through the ultimate fallback infrastructure: physical
+        storage media.
+        </p>
+        Your collected sites can be viewed offline, in the same web browser you
+        normally use, and then shared with others via .snk files.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/localfirst/">localfirst</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/protocol/">protocol</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/web/">web</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://blog.khinsen.net/posts/2026/07/06/conviviality.html">
+        Conviviality in computational science </a>
+        </h2>
+        <section class="p-summary">
+        Most researchers didn’t choose a software package on its scientific or
+        technical merits, but on the political merits of joining its user
+        community. Among Illich’s five threats to conviviality, I observed
+        polarization and radical monopoly. As an illustration of the latter,
+        some PhD students who contacted me with questions about MMTK asked me
+        not to talk to their supervisors about their use of MMTK, because “for
+        political reasons, I am supposed to use software X”.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/computing/">computing</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/degrowth/">degrowth</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/python/">python</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/research/">research</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/researxmm/">researxmm</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://journals.openedition.org/philosophiascientiae/5331">
+        Conviviality for Digital Degrowth </a>
+        </h2>
+        <section class="p-summary">
+        Our digital societies bear the hallmarks of non-convivial technologies
+        as identified more than fifty years ago by Ivan Illich in his seminal
+        book Tools for Conviviality (1973). In a context of ecosystemic and
+        socio-economical crises, we argue in this paper that Illich’s ideas
+        remain remarkably relevant, not only for understanding the negative
+        effects of digital technologies but also as guidelines for embedding
+        digital technologies in a degrowth scenario. As computer scientists, we
+        therefore propose a research agenda for developing design for
+        conviviality, a strongly normative value sensitive approach to the
+        design of digital artefacts and systems. We discuss in particular two
+        examples, digital infrastructures and business process management, which
+        seem to be very much in need of a convivial rethinking.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/computing/">computing</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/degrowth/">degrowth</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/infrastructure/">infrastructure</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.xteink.com/products/xteink-x4">
+        Xteink X4 Pocket eReader </a>
+        </h2>
+        <section class="p-summary">
+        Pocket-Size Mini eReader for Reading Anywhere: Ultra-light at just 0.23
+        inch and only 2.72 oz, Xteink X4 is designed for true portability. Slip
+        it into your pocket or bag and enjoy reading anytime. Perfect for
+        commuting, travel, or quick reading breaks throughout the day.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/eink/">eink</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/reading/">reading</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/shopping/">shopping</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking">
+        Hate “The Algorithm?” RSS Is One of the Tools You’ve B </a>
+        </h2>
+        <section class="p-summary">
+        RSS is one of the best examples we have of the open web, where we can
+        design and customize how we experience the internet, not the other way
+        around. RSS has come in and out of fashion, been declared dead, and has
+        come back, every time. Open systems are the best way forward to a free,
+        equitable internet, and the resilience and continued reinvention of RSS
+        has shown just how creative the web community can be with open
+        protocols.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/rss/">rss</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/socialmedia/">socialmedia</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/standard/">standard</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/web/">web</a>
+        </p>
+        </article>]]>
+      </description>
+      <source:markdown>These are some things I’ve wandered across on the web this week.
+
+## 🔖 [UNHCR’s future is at risk – and so is its past](https://rli.blogs.sas.ac.uk/2026/06/29/unhcrs-future-is-at-risk-and-so-is-its-past/)
+
+UNHCR’s archives are not just dusty shelves of internal paperwork.
+Within around 10 kilometres of shelving lie official records, file
+notes, testimonies and images dating back to UNHCR’s creation in 1950,
+documenting global displacement from the aftermath of the Second World
+War through the Cold War and decolonization to today’s conflicts and
+climate-driven crises. Alongside this sits a vast digital archive:
+websites and social media content amounting to around 5–6 terabytes, and
+a dedicated Digital Preservation System holding almost 90 terabytes of
+material.
+
+Once destroyed, these records cannot be reconstructed. There is no
+backup co
+
+[archive](/tag/archive/) [delete](/tag/delete/) [politics](/tag/politics/)
+
+## 🔖 [Street Books](https://streetbooks.org/)
+
+Street Books is a street library that provides community, resources, and
+advocacy for people living outside or at the margins in Portland,
+Oregon. We cultivate mutual relationships rooted in dignity and autonomy
+by showing up every week, year after year, in all kinds of weather, all
+around the city, to meet people where they are.
+
+[book](/tag/book/) [community](/tag/community/)
+
+## 🔖 [Jul 6, 2026:\ Yes, this happened last night…](https://youtu.be/cSszl4zs6SY)
+
+Welcome to our historic 24/7 live stream of the magnificent Fuego
+Volcano, one of the most active volcanoes in the world! For the first
+time ever, experience the raw power and breathtaking beauty of Fuego
+live in stunning 4K resolution.
+
+[video](/tag/video/) [volcano](/tag/volcano/)
+
+## 🔖 [The Imperfectionist: maybe it doesn’t matter](https://ckarchive.com/b/r8u8hoh2lzkg9h48nng83sx98zz66h7)
+
+… much of the time, my “minding” is more just a sort of bodily habit –
+an unreflecting assumption that if I’m faced with a task or a decision,
+I should proceed on the basis that it’s really important that things
+turn out right. And that’s a habit I can drop as soon as I’m aware of
+it. Whereupon I get to inhabit the present moment more fully and
+enjoyably, instead of always anxiously waiting to see if things turn out
+the way I’ve decided they must. Plus, I get to do stuff more freely – to
+make decisions and take action and accomplish things, instead of holding
+back out of the fear that things might go catastrophically wrong.
+
+[life](/tag/life/) [management](/tag/management/) [psychology](/tag/psychology/)
+
+## 🔖 [Strange Rules](https://www.e-flux.com/announcements/6786944/strange-rules)
+
+Strange Rules introduces the concept of Protocol Art, a practice that
+engages with the underlying rules that determine how culture is
+produced, distributed, and perceived in a digital age. These rules
+manifest as algorithms, AI models, platforms, technological
+infrastructure and social convention, hardening through use into the
+conditions of cultural life. Protocol Art operates at the level of the
+rule: not only analysing these systems, but seeding new ones. The
+protocol is not the subject of the art: it is the art. When the protocol
+is the art, the scientists and researchers authoring such rules become
+artists. Strange Rules invites them to participate as such.
+
+[art](/tag/art/) [ml](/tag/ml/) [protocol](/tag/protocol/)
+
+## 🔖 [Experiences with local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html)
+
+This is the second memo where I describe my recent experiences on
+running small models locally on my developer machine for agentic coding.
+In the first memo, I covered the many factors that can influence the
+viability of that setup — hardware, model choice, runtime, harness. Here
+I focus on the concrete experiences, the tasks I gave the models, what
+happened, and my final conclusions.
+
+[llm](/tag/llm/) [localfirst](/tag/localfirst/) [programming](/tag/programming/)
+
+## 🔖 [‘There’s this deep mystery of what, actually, is this thing?’: the\ philosopher inside Google DeepMind AI](https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind)
+
+After starting at DeepMind in 2017, Gabriel was, for a time, the only
+active philosopher working at a frontier AI lab. He quickly discovered
+that his background in moral philosophy and political theory gave him an
+unusual perspective in an industry dominated by engineers. Over the past
+decade, he has assembled a body of work that tracked, and in many cases
+predicted, the ethical challenges created by the surprising success of
+large language models (LLMs
+
+[google](/tag/google/) [llm](/tag/llm/) [philosophy](/tag/philosophy/)
+
+## 🔖 [sneakerweb](https://sneakerweb.org/)
+
+The sneakerweb is a peer-to-peer protocol for web publishing without
+permission: there are no DNS servers, domain registrars, or web hosts.
+
+Instead, websites are stored directly on user devices, and transferred
+between them through the ultimate fallback infrastructure: physical
+storage media.
+
+Your collected sites can be viewed offline, in the same web browser you
+normally use, and then shared with others via .snk files.
+
+[localfirst](/tag/localfirst/) [protocol](/tag/protocol/) [web](/tag/web/)
+
+## 🔖 [Conviviality in computational science](https://blog.khinsen.net/posts/2026/07/06/conviviality.html)
+
+Most researchers didn’t choose a software package on its scientific or
+technical merits, but on the political merits of joining its user
+community. Among Illich’s five threats to conviviality, I observed
+polarization and radical monopoly. As an illustration of the latter,
+some PhD students who contacted me with questions about MMTK asked me
+not to talk to their supervisors about their use of MMTK, because “for
+political reasons, I am supposed to use software X”.
+
+[computing](/tag/computing/) [degrowth](/tag/degrowth/) [python](/tag/python/) [research](/tag/research/) [researxmm](/tag/researxmm/)
+
+## 🔖 [Conviviality for Digital Degrowth](https://journals.openedition.org/philosophiascientiae/5331)
+
+Our digital societies bear the hallmarks of non-convivial technologies
+as identified more than fifty years ago by Ivan Illich in his seminal
+book Tools for Conviviality (1973). In a context of ecosystemic and
+socio-economical crises, we argue in this paper that Illich’s ideas
+remain remarkably relevant, not only for understanding the negative
+effects of digital technologies but also as guidelines for embedding
+digital technologies in a degrowth scenario. As computer scientists, we
+therefore propose a research agenda for developing design for
+conviviality, a strongly normative value sensitive approach to the
+design of digital artefacts and systems. We discuss in particular two
+examples, digital infrastructures and business process management, which
+seem to be very much in need of a convivial rethinking.
+
+[computing](/tag/computing/) [degrowth](/tag/degrowth/) [infrastructure](/tag/infrastructure/)
+
+## 🔖 [Xteink X4 Pocket eReader](https://www.xteink.com/products/xteink-x4)
+
+Pocket-Size Mini eReader for Reading Anywhere: Ultra-light at just 0.23
+inch and only 2.72 oz, Xteink X4 is designed for true portability. Slip
+it into your pocket or bag and enjoy reading anytime. Perfect for
+commuting, travel, or quick reading breaks throughout the day.
+
+[eink](/tag/eink/) [reading](/tag/reading/) [shopping](/tag/shopping/)
+
+## 🔖 [Hate “The Algorithm?” RSS Is One of the Tools You’ve B](https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking)
+
+RSS is one of the best examples we have of the open web, where we can
+design and customize how we experience the internet, not the other way
+around. RSS has come in and out of fashion, been declared dead, and has
+come back, every time. Open systems are the best way forward to a free,
+equitable internet, and the resilience and continued reinvention of RSS
+has shown just how creative the web community can be with open
+protocols.
+
+[rss](/tag/rss/) [socialmedia](/tag/socialmedia/) [standard](/tag/standard/) [web](/tag/web/)</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/07/12/bookmarks/</guid>
+      <category>archive</category>
+      <category>art</category>
+      <category>book</category>
+      <category>bookmarks</category>
+      <category>community</category>
+      <category>computing</category>
+      <category>degrowth</category>
+      <category>delete</category>
+      <category>eink</category>
+      <category>google</category>
+      <category>infrastructure</category>
+      <category>life</category>
+      <category>llm</category>
+      <category>localfirst</category>
+      <category>management</category>
+      <category>ml</category>
+      <category>philosophy</category>
+      <category>politics</category>
+      <category>programming</category>
+      <category>protocol</category>
+      <category>psychology</category>
+      <category>python</category>
+      <category>reading</category>
+      <category>research</category>
+      <category>researxmm</category>
+      <category>rss</category>
+      <category>shopping</category>
+      <category>socialmedia</category>
+      <category>standard</category>
+      <category>video</category>
+      <category>volcano</category>
+      <category>web</category>
+    </item>    <item>
+      <title>‘Big Brother 28’ Premiere Defended By Frankie Grande After Critic Takes Swipe: “Camp Is Part Of Its DNA”</title>
+      <link>https://deadline.com/2026/07/big-brother-28-premiere-frankie-grande-defends-1236980027/</link>
+      <description>
+        <![CDATA[SPOILER ALERT! Do not read unless you&#8217;ve watched the Season 28 premiere of Big Brother on CBS. Big Brother fans were treated to not one but three appearances by former CBS reality stars in the season premiere July 9, but one made an unexpected exit by falling into an erupting volcano. Silly? Sure, which is [&#8230;]]]>
+      </description>
+      <source:markdown>SPOILER ALERT! Do not read unless you’ve watched the Season 28 premiere of Big Brother on CBS. Big Brother fans were treated to not one but three appearances by former CBS reality stars in the season premiere July 9, but one made an unexpected exit by falling into an erupting volcano. Silly? Sure, which is \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236980027</guid>
+      <category>News</category>
+      <category>Big Brother</category>
+      <category>Julie Chen Moonves</category>
+    </item>    <item>
+      <title>‘Black Money For White Nights’ Review: The Cost Of Living Crisis Bites Hard In This Incisive Bulgarian Drama – Karlovy Vary</title>
+      <link>https://deadline.com/2026/07/black-money-for-white-nights-review-kristina-grozeva-petar-valchanov-karlovy-vary-1236979960/</link>
+      <description>
+        <![CDATA[Bulgarian-language cinema is enjoying a moment this year, starting with Valeska Grisebach’s extraordinary crime drama The Dreamed Adventure, which won the Jury Prize at Cannes back in May. The similarly incisive Black Money for White Nights, by Kristina Grozeva and Petar Valchanov, is very much cut from the same cloth, set in the same post-Soviet [&#8230;]]]>
+      </description>
+      <source:markdown>Bulgarian-language cinema is enjoying a moment this year, starting with Valeska Grisebach’s extraordinary crime drama The Dreamed Adventure, which won the Jury Prize at Cannes back in May. The similarly incisive Black Money for White Nights, by Kristina Grozeva and Petar Valchanov, is very much cut from the same cloth, set in the same post-Soviet \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236979960</guid>
+      <category>Festivals</category>
+      <category>Reviews</category>
+      <category>Bulgaria</category>
+      <category>Karlovy Vary</category>
+      <category>Review</category>
+      <category>The Dreamed Adventure</category>
+      <category>Valeska Grisebach</category>
+    </item>    <item>
+      <title>‘Love Island USA’s Ciara Miller Confirms Return To ‘Summer House’ Season 11 Cast As Filming Starts</title>
+      <link>https://deadline.com/2026/07/love-island-usa-ciara-miller-summer-house-season-11-cast-1236980018/</link>
+      <description>
+        <![CDATA[Ciara Miller will be summering at the Hamptons once again as she confirms she is part of the Summer House Season 11 cast. The Love Island USA Aftersun host revealed on the weekly Peacock talk show that she was back in New York City to start filming the Bravo series. &#8220;I have Summer House to [&#8230;]]]>
+      </description>
+      <source:markdown>Ciara Miller will be summering at the Hamptons once again as she confirms she is part of the Summer House Season 11 cast. The Love Island USA Aftersun host revealed on the weekly Peacock talk show that she was back in New York City to start filming the Bravo series. “I have Summer House to \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236980018</guid>
+      <category>News</category>
+      <category>Bravo</category>
+      <category>Ciara Miller</category>
+      <category>Love Island USA</category>
+      <category>Peacock</category>
+      <category>Reality TV</category>
+      <category>Summer House</category>
+    </item>    <item>
+      <title>CBS’ Matt Gutman Said He Got “Completely Scammed” By Fake Bank Fraud Investigator: “Scary Experience”</title>
+      <link>https://deadline.com/2026/07/cbs-matt-gutman-scammed-fake-bank-fraud-investigator-1236980003/</link>
+      <description>
+        <![CDATA[CBS News journalist Matt Gutman revealed via social media that he was the target of a phone scam that almost had him emptying his bank account. &#8220;A very scary experience,&#8221; said Gutman. &#8220;I&#8217;m not as savvy as I think I am.&#8221; In his July 10 posts, Gutman explained that a caller shared a name and [&#8230;]]]>
+      </description>
+      <source:markdown>CBS News journalist Matt Gutman revealed via social media that he was the target of a phone scam that almost had him emptying his bank account. “A very scary experience,” said Gutman. “I’m not as savvy as I think I am.” In his July 10 posts, Gutman explained that a caller shared a name and \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236980003</guid>
+      <category>News</category>
+      <category>Matt Gutman</category>
+    </item>    <item>
+      <title>‘New Girl’ Cast Had To “Fight” To Get Lamorne Morris On Fox Comedy, Recalls Zooey Deschanel</title>
+      <link>https://deadline.com/2026/07/new-girl-cast-fought-for-lamorne-morris-zooey-deschanel-1236980001/</link>
+      <description>
+        <![CDATA[Zooey Deschanel says it&#8217;s impossible to think of New Girl without Lamorne Morris but there was a minute when he wasn&#8217;t a lock to play Winston Bishop. During a recent appearance on the Zach Sang Show, Deschanel said she and her fellow castmates had to &#8220;fight&#8221; to get the now Emmy-winning actor on the comedy. Morris [&#8230;]]]>
+      </description>
+      <source:markdown>Zooey Deschanel says it’s impossible to think of New Girl without Lamorne Morris but there was a minute when he wasn’t a lock to play Winston Bishop. During a recent appearance on the Zach Sang Show, Deschanel said she and her fellow castmates had to “fight” to get the now Emmy-winning actor on the comedy. Morris \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236980001</guid>
+      <category>Casting</category>
+      <category>Lamorne Morris</category>
+      <category>New Girl</category>
+      <category>Zooey Deschanel</category>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/11.html#a231053</link>
+      <description>
+        <![CDATA[<a href="https://rss.chat/?id=241">Fractional Horsepower Social Networks</a> on RSS.chat.]]>
+      </description>
+      <source:markdown>[Fractional Horsepower Social Networks](https://rss.chat/?id=241) on RSS.chat.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11.html#a231053</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/11.html#a221935</link>
+      <description>
+        <![CDATA[The new <a href="https://github.com/scripting/rss.chat">RSS.chat repo</a> on GitHub. Lots of fixes, features, docs and examples coming soon. For now all the source is there, MIT license. And a place to report bugs and start exploring how you can contribute. This is just Day 1. Many more to come. :-)]]>
+      </description>
+      <source:markdown>The new [RSS.chat repo](https://github.com/scripting/rss.chat) on GitHub. Lots of fixes, features, docs and examples coming soon. For now all the source is there, MIT license. And a place to report bugs and start exploring how you can contribute. This is just Day 1. Many more to come. :-)</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11.html#a221935</guid>
+    </item>    <item>
+      <title>Trump WILL Try to Steal the Midterms. Here&#39;s How</title>
+      <link>https://robertreich.substack.com/p/trump-will-try-to-steal-the-midterms</link>
+      <description>
+        <![CDATA[And How We Prevent Him from Doing So]]>
+      </description>
+      <source:markdown>And How We Prevent Him from Doing So</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vG64!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38532749-f8f1-494f-9be9-6b39da0d0566_1258x910.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trump-will-try-to-steal-the-midterms</guid>
+    </item>    <item>
+      <title>How ‘Little House On The Prairie’ Showrunner Crafted “Compelling” Fever Dream Flashbacks To Fill In “Stakes” Of Ingalls Family Backstory</title>
+      <link>https://deadline.com/2026/07/little-house-prairie-ingalls-backstory-anne-green-gables-1236979722/</link>
+      <description>
+        <![CDATA[SPOILER ALERT: This post contains spoilers for the fourth episode of Netflix&#8217;s &#8216;Little House on the Prairie.&#8217; Little House on the Prairie showrunner Rebecca Sonnenshine has previous experience when it comes to the genre elements of dreams and flashbacks. In the fourth episode of Netflix’s adaptation of Laura Ingalls Wilder’s book, fever descends upon the [&#8230;]]]>
+      </description>
+      <source:markdown>SPOILER ALERT: This post contains spoilers for the fourth episode of Netflix’s ‘Little House on the Prairie.’ Little House on the Prairie showrunner Rebecca Sonnenshine has previous experience when it comes to the genre elements of dreams and flashbacks. In the fourth episode of Netflix’s adaptation of Laura Ingalls Wilder’s book, fever descends upon the \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236979722</guid>
+      <category>News</category>
+      <category>Little House on the Prairie</category>
+      <category>Netflix</category>
+      <category>Rebecca Sonnenshine</category>
+    </item>    <item>
+      <title>★ Exactly Like Om Malik</title>
+      <link>https://daringfireball.net/2026/07/exactly_like_om_malik</link>
+      <description>
+        <![CDATA[Remembrances, tributes, and stories.]]>
+      </description>
+      <source:markdown>Remembrances, tributes, and stories.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2026://1.43235</guid>
+    </item>    <item>
+      <title>Barbara Ling Dead: ‘Michael’ &#38; ‘Once Upon a Time in Hollywood’ Production Designer Was 73</title>
+      <link>https://deadline.com/2026/07/barbara-ling-dead-michael-production-designer-1236979877/</link>
+      <description>
+        <![CDATA[Barbara Ling, the production designer behind Once Upon a Time&#8230; in Hollywood (2019) and Michael (2026), has died. She was 73. The Academy Award winner died on Thursday in Santa Barbara after she was diagnosed with cancer, a WME spokesperson confirmed to Deadline. &#8220;Equally gifted at period authenticity, contemporary realism, and stylized fantasy, Ling leaves [&#8230;]]]>
+      </description>
+      <source:markdown>Barbara Ling, the production designer behind Once Upon a Time… in Hollywood (2019) and Michael (2026), has died. She was 73. The Academy Award winner died on Thursday in Santa Barbara after she was diagnosed with cancer, a WME spokesperson confirmed to Deadline. “Equally gifted at period authenticity, contemporary realism, and stylized fantasy, Ling leaves \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236979877</guid>
+      <category>News</category>
+      <category>Obituaries</category>
+      <category>Barbara Ling</category>
+      <category>Michael</category>
+      <category>Once Upon A Time In Hollywood</category>
+    </item>    <item>
+      <title>Karlovy Vary Reveals Award Winners: Aung Phyoe’s ‘Fruit Gathering’ Wins The Crystal Globe</title>
+      <link>https://deadline.com/2026/07/karlovy-vary-aung-phyoe-fruit-gathering-wins-crystal-globe-1236979833/</link>
+      <description>
+        <![CDATA[The 60th Karlovy Vary International Film Festival came to an end tonight after its starriest event for quite some time, doling out the famous Crystal Globe for Outstanding Artistic Contribution to World Cinema to the likes of Dustin Hoffman, Juliette Binoche, and cinematographer Robert Richardson. Festival President’s Awards went to Jesse Eisenberg, Maggie Gyllenhaal, Magda [&#8230;]]]>
+      </description>
+      <source:markdown>The 60th Karlovy Vary International Film Festival came to an end tonight after its starriest event for quite some time, doling out the famous Crystal Globe for Outstanding Artistic Contribution to World Cinema to the likes of Dustin Hoffman, Juliette Binoche, and cinematographer Robert Richardson. Festival President’s Awards went to Jesse Eisenberg, Maggie Gyllenhaal, Magda \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236979833</guid>
+      <category>Festivals</category>
+      <category>News</category>
+      <category>Dustin Hoffman</category>
+      <category>Family Movie</category>
+      <category>Jesse Eisenberg</category>
+      <category>Juliette Binoche</category>
+      <category>Karlovy Vary</category>
+      <category>Maggie Gyllenhaal</category>
+      <category>Robert Richardson</category>
+    </item>    <item>
+      <title>Dwayne Johnson Tried To Revive ‘The Odd Couple’ On Broadway With Kevin Hart: “Not Letting That Dream Go”</title>
+      <link>https://deadline.com/2026/07/dwayne-johnson-tried-revive-odd-couple-broadway-kevin-hart-1236979858/</link>
+      <description>
+        <![CDATA[No stranger to delivering a live performance for thousands of screaming fans, Dwayne Johnson is looking to add a Broadway show to his extensive resume. The Golden Globe nominee recently revealed that he&#8217;s &#8220;been working on my Broadway debut&#8221; for nearly three years, noting that he and longtime friend/collaborator Kevin Hart &#8220;were going to do [&#8230;]]]>
+      </description>
+      <source:markdown>No stranger to delivering a live performance for thousands of screaming fans, Dwayne Johnson is looking to add a Broadway show to his extensive resume. The Golden Globe nominee recently revealed that he’s “been working on my Broadway debut” for nearly three years, noting that he and longtime friend/collaborator Kevin Hart “were going to do \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236979858</guid>
+      <category>News</category>
+      <category>Broadway</category>
+      <category>Dwayne Johnson</category>
+      <category>Kevin Hart</category>
+      <category>The Odd Couple</category>
+    </item>    <item>
+      <title>Larry Birkhead “Not Involved” With Anna Nicole Smith Movie Based On Dr. Sandeep Kapoor’s Book, Filed Complaint With California Medical Board</title>
+      <link>https://deadline.com/2026/07/larry-birkhead-anna-nicole-smith-movie-dr-kapoor-complaint-1236979843/</link>
+      <description>
+        <![CDATA[Nearly 20 years after her death, an upcoming movie about Anna Nicole Smith&#8217;s doctor is making waves with her family. Larry Birkhead, the father of the late pop culture icon&#8217;s daughter Dannielynn, stressed that they &#8220;absolutely object&#8221; to Trust Me, I&#8217;m a Doctor, which premieres Oct. 16, based on Dr. Sandeep Kapoor&#8217;s 2017 book of [&#8230;]]]>
+      </description>
+      <source:markdown>Nearly 20 years after her death, an upcoming movie about Anna Nicole Smith’s doctor is making waves with her family. Larry Birkhead, the father of the late pop culture icon’s daughter Dannielynn, stressed that they “absolutely object” to Trust Me, I’m a Doctor, which premieres Oct. 16, based on Dr. Sandeep Kapoor’s 2017 book of \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236979843</guid>
+      <category>News</category>
+      <category>Anna Nicole Smith</category>
+      <category>Dr. Sandeep Kapoor</category>
+      <category>Larry Birkhead</category>
+      <category>Trust Me I&#38;#039;m A Doctor</category>
+    </item>    <item>
+      <title>My Twitter/X announcement</title>
+      <link>http://scripting.com/2026/07/11/162854.html?title=myTwitterxAnnouncement</link>
+      <description>
+        <![CDATA[<p><i>I wrote a pretty good <a href="https://x.com/davewiner/status/2075920215154544692">set of paragraphs</a> on Twitter/X this morning. </i></p>
+        <p><a href="http://scripting.com/2026/07/10/161133.html">Yesterday</a> I announced <a href="https://rss.chat/">rss.chat</a>.</p>
+        <p>Some people spell it RSS.chat. I haven't decided which way is right yet. </p>
+        <p>The announcement covers a slice of the project, but it fans out to be the beginning of a bootstrap.</p>
+        <p>I want to entice other projects to fully endorse the text model of the web. Today most social "web" services support a pitiful subset of the web, and leave out the most crucial element, the link. If a writer can't link, how can you call it the web? Seriously.  </p>
+        <p>I want to force them out of their silos and get the web working for the people and esp independent developers. </p>
+        <p>I've been preaching this for years, and I am reminded what I learned a long time ago -- people don't listen to their friends, they listen to their competitors. </p>
+        <p>It was developed by Claude Code and myself, starting in April. We make an incredibly good team though sometimes Claude is tedious, but I put up with it because the results make me laugh out loud frequently because I never imagined working at such velocity.</p>
+        <p>I'm not doing this to make money, though of course I don't *mind* making money. I just want to return the web to its former glory, where every part is replaceable, and if you can think of something you can probably do it. </p>
+        <p>I want to use lots of different software to work on my social network presence. I want this post to appear on Masto, Bluesky, Twitter, Threads, Facebook even, and have them all work perfectly together. </p>
+        <p>In the meantime,  we're now ready to create our own global network of free speech, uncontrolled by the big silos. At some point if it works, we will have moved beyond them, or they will see the sense in joining the party.</p>
+        <p>Small pieces loosely joined and every part replaceable.</p>
+        <p>As its name implies, it's built entirely on fully open web standards, RSS 2.0, OPML, Markdown, SQL and WebSockets. It turns out you can make a very nice distributed social network without having to wait. It was always there, we just had to decide to do it. </p>
+        <p>How it evolves? That's up to everyone who can code, and that's a lot of people now thanks to the AI tools.</p>]]>
+      </description>
+      <source:markdown>_I wrote a pretty good [set of paragraphs](https://x.com/davewiner/status/2075920215154544692) on Twitter/X this morning._
+
+[Yesterday](http://scripting.com/2026/07/10/161133.html) I announced [rss.chat](https://rss.chat/).
+
+Some people spell it RSS.chat. I haven&#39;t decided which way is right yet.
+
+The announcement covers a slice of the project, but it fans out to be the beginning of a bootstrap.
+
+I want to entice other projects to fully endorse the text model of the web. Today most social &#34;web&#34; services support a pitiful subset of the web, and leave out the most crucial element, the link. If a writer can&#39;t link, how can you call it the web? Seriously.
+
+I want to force them out of their silos and get the web working for the people and esp independent developers.
+
+I&#39;ve been preaching this for years, and I am reminded what I learned a long time ago -- people don&#39;t listen to their friends, they listen to their competitors.
+
+It was developed by Claude Code and myself, starting in April. We make an incredibly good team though sometimes Claude is tedious, but I put up with it because the results make me laugh out loud frequently because I never imagined working at such velocity.
+
+I&#39;m not doing this to make money, though of course I don&#39;t \*mind\* making money. I just want to return the web to its former glory, where every part is replaceable, and if you can think of something you can probably do it.
+
+I want to use lots of different software to work on my social network presence. I want this post to appear on Masto, Bluesky, Twitter, Threads, Facebook even, and have them all work perfectly together.
+
+In the meantime, we&#39;re now ready to create our own global network of free speech, uncontrolled by the big silos. At some point if it works, we will have moved beyond them, or they will see the sense in joining the party.
+
+Small pieces loosely joined and every part replaceable.
+
+As its name implies, it&#39;s built entirely on fully open web standards, RSS 2.0, OPML, Markdown, SQL and WebSockets. It turns out you can make a very nice distributed social network without having to wait. It was always there, we just had to decide to do it.
+
+How it evolves? That&#39;s up to everyone who can code, and that&#39;s a lot of people now thanks to the AI tools.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11/162854.html</guid>
+    </item>    <item>
+      <title>Eponyday</title>
+      <link>https://doc.searls.com/2026/07/11/eponyday/</link>
+      <description>
+        <![CDATA[To whom else has God sold naming rights for days of the week? And you thought Tuesday was a grace of our turning Earth. &#60;bonus content to avoid if oral surgery grosses you out&#62; Since I had a molar extracted last week, there remains an open wound in my mouth where the tooth used to [&#8230;]]]>
+      </description>
+      <source:markdown>To whom else has God sold naming rights for days of the week? And you thought Tuesday was a grace of our turning Earth. &#60;bonus content to avoid if oral surgery grosses you out&#62; Since I had a molar extracted last week, there remains an open wound in my mouth where the tooth used to \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/07/11/eponyday/</guid>
+      <category>aging</category>
+      <category>Business</category>
+      <category>Dentistry</category>
+      <category>Religion</category>
+      <category>Strange stuff</category>
+    </item>    <item>
+      <title>Collapsology And Radiohead</title>
+      <link>https://thebrowser.com/free/collapsology-and-radiohead/</link>
+      <description>
+        <![CDATA[Writing of lasting value]]>
+      </description>
+      <source:markdown>Writing of lasting value</source:markdown>
+      <guid>cid://6a5263ea3bcd0b00018f69ab</guid>
+    </item>    <item>
+      <title>Zelensky</title>
+      <link>https://dbarkhuff.substack.com/p/zelensky</link>
+      <description>
+        <![CDATA[Yesterday, President Donald Trump asked Volodymyr Zelensky whether he would ever go to Moscow.]]>
+      </description>
+      <source:markdown>Yesterday, President Donald Trump asked Volodymyr Zelensky whether he would ever go to Moscow.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!SWbY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4926c72e-a739-49d3-88f3-76d97a83fe5a_1168x774.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/zelensky</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/11.html#a151837</link>
+      <description>
+        <![CDATA[Claude teaches you how to manage. You've got a perfectly pliable team member, always does their best to do what you told them to do. Now how do you design co-development projects where two very different individuals do their work and it adds up to at least twice what either of them could do alone.]]>
+      </description>
+      <source:markdown>Claude teaches you how to manage. You&#39;ve got a perfectly pliable team member, always does their best to do what you told them to do. Now how do you design co-development projects where two very different individuals do their work and it adds up to at least twice what either of them could do alone.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11.html#a151837</guid>
+    </item>    <item>
+      <title>Maine&#39;s Convention Will Be July 25th, Encouraging New Gallup Data, Democrats Must Elevate To Fight Trump&#39;s Escalating Authoritarianism</title>
+      <link>https://www.hopiumchronicles.com/p/maines-convention-will-be-july-25th</link>
+      <description>
+        <![CDATA[The Senate is considering the nominations of Todd Blanche and Jay Clayton this week - Democrats must do everything we can to block them.....]]>
+      </description>
+      <source:markdown>The Senate is considering the nominations of Todd Blanche and Jay Clayton this week - Democrats must do everything we can to block them.....</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!-OOJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3acc4b56-2bd4-4942-b94b-08507afd48a2_1169x961.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/maines-convention-will-be-july-25th</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/11.html#a140605</link>
+      <description>
+        <![CDATA[The instance I started is for my friends, people I work with, it's not something people can test. It will be possible to start your own server, quite soon. And then you can do whatever you want. It's MIT licensed. Kick ass and have fun, but remember <b>don't fuck with the interop</b>. It's there so users have choice.]]>
+      </description>
+      <source:markdown>The instance I started is for my friends, people I work with, it&#39;s not something people can test. It will be possible to start your own server, quite soon. And then you can do whatever you want. It&#39;s MIT licensed. Kick ass and have fun, but remember **don&#39;t fuck with the interop**. It&#39;s there so users have choice.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11.html#a140605</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/11.html#a135317</link>
+      <description>
+        <![CDATA[BTW, I notice almost everyone but me writes RSS.chat. <i>Hmmm.</i>]]>
+      </description>
+      <source:markdown>BTW, I notice almost everyone but me writes RSS.chat. _Hmmm._</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11.html#a135317</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/11.html#a134815</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/11/28/ifyoudontlikethenews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Yesterday was a wonderful <a href="http://scripting.com/2026/07/10/161133.html">first day</a> for <a href="https://rss.chat/">rss.chat</a>. It's now out there, but we haven't talked about or demo'd many of the things that it does. I wanted to get the feeds out there first, because now we get to think together about how they fit together to give us a social network experience. It's not locked in a silo, these are just like feeds you have known about for over two decades. But it is a new application for those feeds. And this is a bootstrap. You start with something small that you're sure is a beginning for what you want to do. And then you and others use it for a while. And it is open source, MIT licensed, but compatibility will make the difference.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2022/11/28/ifyoudontlikethenews.png)Yesterday was a wonderful [first day](http://scripting.com/2026/07/10/161133.html) for [rss.chat](https://rss.chat/). It&#39;s now out there, but we haven&#39;t talked about or demo&#39;d many of the things that it does. I wanted to get the feeds out there first, because now we get to think together about how they fit together to give us a social network experience. It&#39;s not locked in a silo, these are just like feeds you have known about for over two decades. But it is a new application for those feeds. And this is a bootstrap. You start with something small that you&#39;re sure is a beginning for what you want to do. And then you and others use it for a while. And it is open source, MIT licensed, but compatibility will make the difference.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11.html#a134815</guid>
+    </item>    <item>
+      <title>Peter Easthope commented on issue #162 at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/162#note_297288</link>
+      <description>
+        <![CDATA[<p data-sourcepos="1:1-2:215" dir="auto">Google gives this.<br/>
+        <em data-sourcepos="2:1-2:215">This error happens because your OCaml system or program is trying to dynamically resolve the POSIX time symbols clock_gettime and clock_getres using dlsym, but they are missing from the library loaded into memory.</em></p>
+        <p data-sourcepos="4:1-4:14" dir="auto">Relevant here?</p>
+        <p data-sourcepos="6:1-6:25" dir="auto">Thanks,            ... P.</p>]]>
+      </description>
+      <source:markdown>Google gives this.
+
+_This error happens because your OCaml system or program is trying to dynamically resolve the POSIX time symbols clock\_gettime and clock\_getres using dlsym, but they are missing from the library loaded into memory._
+
+Relevant here?
+
+Thanks, ... P.</source:markdown>
+      <author>peter@easthope.ca (Peter Easthope)</author>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2026-07-11:2080255</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/11.html#a133725</link>
+      <description>
+        <![CDATA[Jeremy Herve who I know from projects at Automattic, has <a href="https://github.com/scripting/Scripting-News/issues/358#issuecomment-4939682423">questions</a> about rss.chat, and I have some answers, with more coming soon.]]>
+      </description>
+      <source:markdown>Jeremy Herve who I know from projects at Automattic, has [questions](https://github.com/scripting/Scripting-News/issues/358#issuecomment-4939682423) about rss.chat, and I have some answers, with more coming soon.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/11.html#a133725</guid>
     </item>    <item>
       <title>Trump Robs His Own Party of Major Legislative Celebration</title>
       <link>https://plus.briantylercohen.com/p/trump-robs-his-own-party-of-major</link>
@@ -5343,7 +6210,7 @@ installation.</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/efCz2MwGR0w" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/stop-private-equity-from-profiting</guid>
     </item>    <item>
-      <title>Graham Platner is a bad dude — and data shows he&#39;s a bad candidate, too</title>
+      <title>Graham Platner was polling behind expectations anyway</title>
       <link>https://www.gelliottmorris.com/p/2026-07-07-graham-platner</link>
       <description>
         <![CDATA[Democrats now have an opportunity to nominate someone less troubled who polls better. Will they waste it]]>
@@ -8390,8 +9257,7 @@ In the 21st century, that laboratory role is perhaps chiefly being performed by 
         <span id="LC7" class="line" lang="plaintext" xml:lang="plaintext"></span>
         <span id="LC8" class="line" lang="plaintext" xml:lang="plaintext">Trap 11 (Segmentation violation)</span>
         <span id="LC9" class="line" lang="plaintext" xml:lang="plaintext">...</span></code></pre><copy-code></copy-code><insert-code-snippet></insert-code-snippet></div>
-        <p data-sourcepos="15:1-15:199" dir="auto">A local work-around by adding or loading a library may be possible. A more universal solution in the repository would be helpful. If neither of those is feasible, I can fall back to an older UnixAos.</p>
-        <p data-sourcepos="17:1-17:26" dir="auto">Thanks, ... Peter Easthope</p>]]>
+        <p data-sourcepos="14:1-14:26" dir="auto">Thanks, ... Peter Easthope</p>]]>
       </description>
       <source:markdown>Here an XO 1.5 has the XOpup-2.2 OS and the A2 repository.
 
@@ -8406,8 +9272,6 @@ LinuxA2 Gen. 32-bit, Apr 19 2023 2026/07/05 06:04
 Trap 11 (Segmentation violation)
 ...
 ```
-
-A local work-around by adding or loading a library may be possible. A more universal solution in the repository would be helpful. If neither of those is feasible, I can fall back to an older UnixAos.
 
 Thanks, ... Peter Easthope</source:markdown>
       <author>peter@easthope.ca (Peter Easthope)</author>
@@ -8456,7 +9320,7 @@ Thanks, ... Peter Easthope</source:markdown>
         <![CDATA[Stuart Stevens joins us live tomorrow at 2pm ET/Team USA plays tmr night at 8pm ET!!!!!]]>
       </description>
       <source:markdown>Stuart Stevens joins us live tomorrow at 2pm ET/Team USA plays tmr night at 8pm ET!!!!!</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/c42106e4-1815-491b-859f-428ce6cf19ae_1024x682.webp" length="0" type="image/jpeg" />
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/f8deb35e-ca64-4a04-8505-ac57208d5713_1093x583.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.hopiumchronicles.com/p/more-notes-on-the-importance-of-character</guid>
     </item>    <item>
       <title>Why ‘Minions &#38; Monsters’ Slipped On A Banana Peel In U.S. With Franchise Low 5-Day Opening Of $61M+ — Sunday AM Update</title>
@@ -29081,379 +29945,6 @@ Who’s got next? 🏀</source:markdown>
       </description>
       <source:markdown>With the United States’ 250th birthday, the documentary filmmakers of Declarations: Black Americans and the Revolutionary War turned to modern technology to reclaim history. Director Stacey Holman and her co-writer/fellow director Maya Tepler explained why chose to use generative AI to “give our historical subjects agency” and how they hope this documentary, premiering June 29 \[…\]</source:markdown>
       <guid>cid://https://deadline.com/?p=1236963359</guid>
-    </item>    <item>
-      <link>https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&#38;at_campaign=rss</link>
-      <description>
-        <![CDATA[<p>Why an AI company cleaned my New York City apartment for free.</p>]]>
-      </description>
-      <source:markdown>Why an AI company cleaned my New York City apartment for free.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/06/20/4135/</guid>
-    </item>    <item>
-      <title>QUERY with curl</title>
-      <link>https://daniel.haxx.se/blog/2026/06/21/query-with-curl/</link>
-      <description>
-        <![CDATA[RFC 10008 is brand new a specification detailing the new HTTP method called QUERY: This specification defines the QUERY method for HTTP. A QUERY requests that the request target process the enclosed content in a safe and idempotent manner and then respond with the result of that processing. This is similar to POST requests but &#8230; <a href="https://daniel.haxx.se/blog/2026/06/21/query-with-curl/" class="more-link">Continue reading <span class="screen-reader-text">QUERY with curl</span> <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>RFC 10008 is brand new a specification detailing the new HTTP method called QUERY: This specification defines the QUERY method for HTTP. A QUERY requests that the request target process the enclosed content in a safe and idempotent manner and then respond with the result of that processing. This is similar to POST requests but … [Continue reading QUERY with curl→](https://daniel.haxx.se/blog/2026/06/21/query-with-curl/)</source:markdown>
-      <guid>cid://https://daniel.haxx.se/blog/?p=28607</guid>
-      <category>cURL and libcurl</category>
-      <category>Web</category>
-      <category>HTTP</category>
-    </item>    <item>
-      <title>Archival Producer Rochelle Widdowson Sounds Alarm About Potential Impact Of Paramount-WBD Merger: “It’s Heartbreaking” – Bentonville Film Festival</title>
-      <link>https://deadline.com/2026/06/paramount-wbd-merger-archival-producer-rochelle-widdowson-interview-1236963343/</link>
-      <description>
-        <![CDATA[The Paramount-Warner Bros. Discovery merger, if it goes through, would not only have a major impact on the future of the media business, but on our collective past. Skydance Media, through its acquisition of Paramount, already controls the CBS News archive. If Paramount succeeds in taking over WBD, it will also assume control of the [&#8230;]]]>
-      </description>
-      <source:markdown>The Paramount-Warner Bros. Discovery merger, if it goes through, would not only have a major impact on the future of the media business, but on our collective past. Skydance Media, through its acquisition of Paramount, already controls the CBS News archive. If Paramount succeeds in taking over WBD, it will also assume control of the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963343</guid>
-    </item>    <item>
-      <title>Sam Levinson Defends ‘Euphoria’s “Fairly Critical” Depiction Of OnlyFans Culture: “It Hollows Out The Individual”</title>
-      <link>https://deadline.com/2026/06/sam-levinson-defends-euphoria-fairly-critical-onlyfans-1236963341/</link>
-      <description>
-        <![CDATA[Following criticism of Euphoria&#8216;s final season and its depiction of OnlyFans creators, Sam Levinson has addressed the backlash. The creator of the HBO series admitted he took a &#8220;fairly critical look&#8221; at OnlyFans culture, explaining on Real Time with Bill Maher why he didn&#8217;t &#8220;affirm this life and how empowering&#8221; it can. &#8220;If you look [&#8230;]]]>
-      </description>
-      <source:markdown>Following criticism of Euphoria‘s final season and its depiction of OnlyFans creators, Sam Levinson has addressed the backlash. The creator of the HBO series admitted he took a “fairly critical look” at OnlyFans culture, explaining on Real Time with Bill Maher why he didn’t “affirm this life and how empowering” it can. “If you look \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963341</guid>
-    </item>    <item>
-      <title>Lost Land (Raindance Film Festival 2026): las aristas de la inmigración</title>
-      <link>https://www.palomitademaiz.net/resenas-lost-land-raindance-film-festival-2026/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-lost-land-raindance-film-festival-2026</link>
-      <description>
-        <![CDATA[<p>Dirección: Akio Fujimoto. Guion: Akio Fujimoto. Elenco: Muhammad Shofik Rias Uddin, Shomira Rias Uddin. Países: Japón, Francia, Alemania y Malasia. Más información de la película: https://www.imdb.com/title/tt37660506/ En el mundo existen etnias que viven exclusión en sus países de origen. Los uigures en China, los yazidíes de Irak y los tutsis en Ruanda han experimentado persecuciones violentas por [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-lost-land-raindance-film-festival-2026/">Lost Land (Raindance Film Festival 2026): las aristas de la inmigración</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Akio Fujimoto. Guion: Akio Fujimoto. Elenco: Muhammad Shofik Rias Uddin, Shomira Rias Uddin. Países: Japón, Francia, Alemania y Malasia. Más información de la película: https://www.imdb.com/title/tt37660506/ En el mundo existen etnias que viven exclusión en sus países de origen. Los uigures en China, los yazidíes de Irak y los tutsis en Ruanda han experimentado persecuciones violentas por \[…\]
-
-La entrada [Lost Land (Raindance Film Festival 2026): las aristas de la inmigración](https://www.palomitademaiz.net/resenas-lost-land-raindance-film-festival-2026/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=26591</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/06/20.html#a215338</link>
-      <description>
-        <![CDATA[Doing a prior art search and came across this <a href="http://scripting.com/davenet/1994/10/22/scriptingtheinternet.html">early DaveNet example</a>. The left column had the blue ribbon for free speech on the web, and below were links to the archive pages for each of the years. <a href="https://imgs.scripting.com/2026/06/20/davenetExample.png">Screen shot</a>. About ten years of essay writing. DaveNet was where the blog started, and then it became an arm of the blog home page which also included titleless posts, <a href="http://scripting.com/2003/06/20.html">example</a>, and then all the action moved onto the new <a href="http://scripting.com/">home page</a> and that was the end of this layout.]]>
-      </description>
-      <source:markdown>Doing a prior art search and came across this [early DaveNet example](http://scripting.com/davenet/1994/10/22/scriptingtheinternet.html). The left column had the blue ribbon for free speech on the web, and below were links to the archive pages for each of the years. [Screen shot](https://imgs.scripting.com/2026/06/20/davenetExample.png). About ten years of essay writing. DaveNet was where the blog started, and then it became an arm of the blog home page which also included titleless posts, [example](http://scripting.com/2003/06/20.html), and then all the action moved onto the new [home page](http://scripting.com/) and that was the end of this layout.</source:markdown>
-      <guid>cid://http://scripting.com/2026/06/20.html#a215338</guid>
-    </item>    <item>
-      <title>The George Carlin Model of AI</title>
-      <link>https://doc.searls.com/2026/06/20/the-george-carlin-model-of-ai/</link>
-      <description>
-        <![CDATA[Forty-five years ago, George Carlin forecast the future of AI: Listen to what George says, if you haven&#8217;t already. You can stop about two and a half minutes in, after he talks about how all your shit is stuff and everyone else&#8217;s stuff is shit. Because that&#8217;s the reason Big AI will never be personal [&#8230;]]]>
-      </description>
-      <source:markdown>Forty-five years ago, George Carlin forecast the future of AI: Listen to what George says, if you haven’t already. You can stop about two and a half minutes in, after he talks about how all your shit is stuff and everyone else’s stuff is shit. Because that’s the reason Big AI will never be personal \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=21825</guid>
-      <category>Activism</category>
-      <category>AI</category>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Business</category>
-      <category>Customertech</category>
-      <category>Freedom</category>
-      <category>IEEE P7012 MyTerms</category>
-      <category>Personal AI</category>
-      <category>Personal clouds</category>
-      <category>personal data</category>
-      <category>privacy</category>
-      <category>Technology</category>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/116784590100260741</link>
-      <description>
-        <![CDATA[<p>Man, those were 45 minutes well spent.</p>]]>
-      </description>
-      <source:markdown>Man, those were 45 minutes well spent.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/116784590100260741</guid>
-    </item>    <item>
-      <title>Lilly Wachowski Sets Reading Of ‘The Hunted’ At Dynasty Typewriter, Film In Development With Producer Natasha Lyonne</title>
-      <link>https://deadline.com/2026/06/the-hunted-development-lilly-wachowski-producer-natasha-lyonne-1236963331/</link>
-      <description>
-        <![CDATA[EXCLUSIVE: Lilly Wachoswki is setting a different kind of stage for her next project, hosting a live reading of her dystopian political thriller The Hunted, currently in late-stage development with a producing team that includes Natasha Lyonne. Co-written by Wachowski and Mickey R. Mahoney, The Hunted will make its debut with an unconventional live read [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Lilly Wachoswki is setting a different kind of stage for her next project, hosting a live reading of her dystopian political thriller The Hunted, currently in late-stage development with a producing team that includes Natasha Lyonne. Co-written by Wachowski and Mickey R. Mahoney, The Hunted will make its debut with an unconventional live read \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963331</guid>
-    </item>    <item>
-      <title>Jennifer Aniston, Courteney Cox &#38; ‘Friends’ Cast Remember “Father Figure” James Burrows: “He Spoiled Us Rotten”</title>
-      <link>https://deadline.com/2026/06/jennifer-aniston-friends-stars-tribute-james-burrows-1236963333/</link>
-      <description>
-        <![CDATA[With the death of James Burrows, stars of the most beloved sitcoms are mourning the loss of the multi-cam medium&#8217;s most decorated director. Following Burrows&#8217; death at age 85, Jennifer Aniston paid tribute to the &#8220;father figure&#8221; who directed 15 episodes of the hit NBC series in which she starred as Rachel Green, including the [&#8230;]]]>
-      </description>
-      <source:markdown>With the death of James Burrows, stars of the most beloved sitcoms are mourning the loss of the multi-cam medium’s most decorated director. Following Burrows’ death at age 85, Jennifer Aniston paid tribute to the “father figure” who directed 15 episodes of the hit NBC series in which she starred as Rachel Green, including the \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963333</guid>
-    </item>    <item>
-      <title>Ladderday</title>
-      <link>https://doc.searls.com/2026/06/20/ladderday/</link>
-      <description>
-        <![CDATA[Ed Zitron&#39;s latest two are good reads: Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion Premium: The Silicon Valley Bubble (Part 2) I&#39;ve worked in the Valley, both on-site and in the world, since 1977. (On site was &#39;85 to &#39;01.) It ain&#39;t the same.  On the contrary?::: Notebook LM does [&#8230;]]]>
-      </description>
-      <source:markdown>Ed Zitron&#39;s latest two are good reads: Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion Premium: The Silicon Valley Bubble (Part 2) I&#39;ve worked in the Valley, both on-site and in the world, since 1977. (On site was &#39;85 to &#39;01.) It ain&#39;t the same.  On the contrary?::: Notebook LM does \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2026/06/20/ladderday/</guid>
-      <category>AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Nature</category>
-      <category>Technology</category>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3moqn3puxxc2i</link>
-      <description>
-        <![CDATA[Michelle and I had fun surprising the first group of visitors to the Obama Presidential Center on Juneteenth. Come check it out!]]>
-      </description>
-      <source:markdown>Michelle and I had fun surprising the first group of visitors to the Obama Presidential Center on Juneteenth. Come check it out!</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3moqn3puxxc2i</guid>
-    </item>    <item>
-      <title>U.S. Rep Joyce Beatty Slams Kennedy Center Management For “Lifeless Husk” As No Programming Scheduled; Calls Tarp “Petty Act Of Defiance”</title>
-      <link>https://deadline.com/2026/06/kennedy-center-lifeless-husk-1236963308/</link>
-      <description>
-        <![CDATA[While Kennedy Center officials consider the extent of planned renovations, the arts facility will remain open, at least for the time being. But don&#8217;t expect any new programming in the immediate future. In a Friday night court filing, Kennedy Center executive director Matt Floca listed three options expected to be presented to the center&#8217;s board [&#8230;]]]>
-      </description>
-      <source:markdown>While Kennedy Center officials consider the extent of planned renovations, the arts facility will remain open, at least for the time being. But don’t expect any new programming in the immediate future. In a Friday night court filing, Kennedy Center executive director Matt Floca listed three options expected to be presented to the center’s board \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963308</guid>
-    </item>    <item>
-      <link>https://apnews.com/article/iran-war-nuclear-deal-hegseth-trump-congress-c80ca2daf0492bac2b19939dbfdb8e29</link>
-      <description>
-        <![CDATA[<p>Congress picks up the pieces after the Iran war.</p>]]>
-      </description>
-      <source:markdown>Congress picks up the pieces after the Iran war.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/06/20/4133/</guid>
-    </item>    <item>
-      <title>‘Toy Story 5’ Reaches For The Sky With Global Running Cume Of $129M – Box Office</title>
-      <link>https://deadline.com/2026/06/global-box-office-toy-story-5-1236963295/</link>
-      <description>
-        <![CDATA[It&#8217;s an understatement to say that Disney/Pixar&#8217;s Toy Story 5 is off to a great global start at the box office. With $129.3M so far, the Andrew Stanton directed movie is bound to beat its worldwide opening forecast of $275M. Broken out that&#8217;s $71M domestic for Toy Story 5, which as we told you was [&#8230;]]]>
-      </description>
-      <source:markdown>It’s an understatement to say that Disney/Pixar’s Toy Story 5 is off to a great global start at the box office. With $129.3M so far, the Andrew Stanton directed movie is bound to beat its worldwide opening forecast of $275M. Broken out that’s $71M domestic for Toy Story 5, which as we told you was \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963295</guid>
-    </item>    <item>
-      <title>George Lucas Lends Voice To ‘Minions &#38; Monsters’</title>
-      <link>https://deadline.com/2026/06/george-lucas-minions-monsters-1236963284/</link>
-      <description>
-        <![CDATA[Star Wars creator George Lucas is coming out of his show biz retirement for a role a decidedly non-Star Wars project: He&#8217;ll lend his voice to a character in Illumination&#8217;s Minions &#38; Monsters, arriving in theaters July 1. In an interview with Collider, Illumination founder and Minions &#38; Monsters producer Chris Meledandri explained how Lucas [&#8230;]]]>
-      </description>
-      <source:markdown>Star Wars creator George Lucas is coming out of his show biz retirement for a role a decidedly non-Star Wars project: He’ll lend his voice to a character in Illumination’s Minions &#38; Monsters, arriving in theaters July 1. In an interview with Collider, Illumination founder and Minions &#38; Monsters producer Chris Meledandri explained how Lucas \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963284</guid>
-    </item>    <item>
-      <title>El conserje (Raindance Film Festival 2026): la dignidad silenciosa en un mundo que no sabe mirar</title>
-      <link>https://www.palomitademaiz.net/resenas-el-conserje-raindance-film-festival-2026/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-el-conserje-raindance-film-festival-2026</link>
-      <description>
-        <![CDATA[<p>Dirección: Mauro Mueller, David Figueroa García. Guion: Aleluya Rivera. Elenco: Humberto Yañez, Luisa Huertas, Mercedes Hernández, Antonio Becerril, Leonardo Alonso. País: México. Más información de la película: https://www.imdb.com/title/tt27626634/ En todas las escuelas existe alguien que, en esencia, es la columna vertebral de esos lugares. Hace algunos años tuve la fortuna de conocer y tratar con [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-el-conserje-raindance-film-festival-2026/">El conserje (Raindance Film Festival 2026): la dignidad silenciosa en un mundo que no sabe mirar</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <source:markdown>Dirección: Mauro Mueller, David Figueroa García. Guion: Aleluya Rivera. Elenco: Humberto Yañez, Luisa Huertas, Mercedes Hernández, Antonio Becerril, Leonardo Alonso. País: México. Más información de la película: https://www.imdb.com/title/tt27626634/ En todas las escuelas existe alguien que, en esencia, es la columna vertebral de esos lugares. Hace algunos años tuve la fortuna de conocer y tratar con \[…\]
-
-La entrada [El conserje (Raindance Film Festival 2026): la dignidad silenciosa en un mundo que no sabe mirar](https://www.palomitademaiz.net/resenas-el-conserje-raindance-film-festival-2026/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
-      <guid>cid://https://www.palomitademaiz.net/?p=26587</guid>
-    </item>    <item>
-      <title>Janie Sell Dies: Tony-Winning ‘Over Here!’ Broadway Actor Was 86</title>
-      <link>https://deadline.com/2026/06/janie-sell-dead-1236963231/</link>
-      <description>
-        <![CDATA[Janie Sell, a Broadway actor who won a Tony Award for her joyful performance opposite the Andrews Sisters in 1974&#8217;s nostalgic musical Over Here!, died June 9 at Englewood Hospital in Englewood, New Jersey, following a brief illness. She was 86. Her death was announced by friends including actor James Dybas, who noted that Sell&#8217;s [&#8230;]]]>
-      </description>
-      <source:markdown>Janie Sell, a Broadway actor who won a Tony Award for her joyful performance opposite the Andrews Sisters in 1974’s nostalgic musical Over Here!, died June 9 at Englewood Hospital in Englewood, New Jersey, following a brief illness. She was 86. Her death was announced by friends including actor James Dybas, who noted that Sell’s \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963231</guid>
-    </item>    <item>
-      <title>Pluralistic: How the Epstein Class recruits (20 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/20/any-club-that-would-have-me/</link>
-      <description>
-        <![CDATA[Today's links How the Epstein Class recruits: Oh wait, THAT'S what this was?! Hey look at this: Delights to delectate. Object permanence: MPAA blasted in WSJ; RFID skimmers; Post-Soviet inventions; "Farthing"; "Dirty, Drunk and Punk"; Dweb v founders' frailty; Tax cheating made simple; Oregon v corporate medicine. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How the Epstein Class recruits (permalink) Perhaps you've encountered the stories about Dialog, an extremely weird secret society associated with Peter "Antichrist" Thiel, whose membership data and details have leaked this week: https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/ By all appearances, this is a comically creepy, awful talking-shop for the Epstein Class. It's not all that surprising, in retrospect, to learn that all these terrible people were in a group chat, secretly assigning ratings to one another, and periodically gathering to have tedious panels about, I dunno, "race science" or whatever. I'm on the oligarchy beat, so stories about Dialog have been popping up in my RSS feed for the past week or so, but it wasn't until last night that I made a connection. A year or two ago, I got an invite to speak at an event. This is normal, I get a lot of these and I do a lot of public speaking. I'm good at it, and it's a good way for me to reach people and get them energized about the issues I care about. Sometimes, I do these talks for free. Sometimes I get paid. When I first glanced at this speaking offer, I thought, "Huh, I guess this is one to send on to my speaking agent," because the names the offer dropped were a bunch of rich people, and so I assumed that they were having some kind of summit and looking for a keynoter. Then I read a little more carefully and realized they &#8211; these billionaires and their lickspittles! &#8211; wanted me to pay them, thousands of dollars, so that I could shlep my ass to some luxury resort in order to have the privilege of speaking to them. I came up as a science fiction writer, and at some point, every sf writer learns "Yog's Law," coined by James D Macdonald when he was running the science fiction forum on GEnie, under the screen name "Yog Sysop": money flows toward the writer https://en.wikipedia.org/wiki/James_D._Macdonald#Educational_work In other words, whenever you, as a creative worker, are approached by someone who wants to "help" you with your work, and they want you to pay them, they are a scammer, preying upon your essential human need to communicate with others. Run away. Which is what I did. I deleted the email. Then, I got another one a couple months later. Ugh. I wrote a mail rule that auto-deleted anything from that sender and promptly forgot about the matter. Until last night. I just had a look at my Trash folder and yup, these people are still emailing me in hopes that I will give them thousands of dollars to join their weird secret society. I don't know if everyone who joined Dialog got an email like the one I was sent, but if you want to understand how at least some of those people ended up on those membership rolls, well, now you know: they were schmucks who'd never learned Yog's Law. (Image: Gage Skidmore 1, 2, 3, 4, 5, 6, CC BY-SA 2.0; TechCrunch50-2008, Dan Taylor 1, 2, CC BY 2.0; modified) Hey look at this (permalink) EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border AI Shouldn’t Dictate Our Democracy. Vote Alex Bores. https://www.youtube.com/watch?v=M6KQ2yDK1Q4 tokenalysis and john henry https://backofmind.substack.com/p/tokenalysis-and-john-henry Making Free Warhammer Terrain https://www.youtube.com/watch?v=p6YC-cOngHg Mechanical Watch https://ciechanow.ski/mechanical-watch/ Object permanence (permalink) #20yrsago Wendy Seltzer smokes the MPAA in the Wall St Journal https://web.archive.org/web/20061016014904/http://online.wsj.com/public/article/SB115047057428882434-1V_FEK_CJelMfytdST8APRW7cZw_20060720.html #20yrsago HOWTO build an RFID skimmer https://web.archive.org/web/20060703081753/http://www.eng.tau.ac.il/~yash/kw-usenix06/index.html #20yrsago Desperate inventions of post-Soviet Russia https://memex.craphound.com/2006/06/20/desperate-inventions-of-post-soviet-russia/ #20yrsago NYT falsely reports that Wikipedia has added restrictions https://jimmywales.com/2006/06/17/the-new-york-times-gets-it-exactly-backwards/ #20yrsago Farthing: Heart-rending alternate history about British-Reich peace https://memex.craphound.com/2006/06/20/farthing-heart-rending-alternate-history-about-british-reich-peace/ #15yrsago Dirty, Drunk and Punk: the untold history of Toronto’s BUNCHOFFUCKINGGOOFS https://memex.craphound.com/2011/06/20/dirty-drunk-and-punk-the-untold-history-of-torontos-bunchoffuckinggoofs/ #10yrsago Video: Guarding the Decentralized Web from its founders’ human frailty https://www.youtube.com/watch?v=zlN6wjeCJYk #10yrsago Unnamed Canadian telco sabotages’ library’s low-income internet service https://web.archive.org/web/20160618143132/https://motherboard.vice.com/read/canadian-telecoms-limiting-wifi-low-income-families-toronto-public-libraries-digital-divide #10yrsago Clarence Thomas rumored to be considering retirement https://web.archive.org/web/20160622135444/http://www.washingtonexaminer.com/end-of-conservative-supreme-court-clarence-thomas-may-be-next-to-leave/article/2594317 #10yrsago Tolkien elf or prescription drug name? https://web.archive.org/web/20160609021515/https://entertainment.howstuffworks.com/arts/literature/drug-or-tolkien-elf-quiz.htm #5yrsago The EU, Tech Trustbusting, and Trade Wars https://pluralistic.net/2021/06/20/the-eu-tech-trustbusting-and-trade-wars/ #5yrsago How to cheat on your taxes https://pluralistic.net/2021/06/20/la-hougue/#complexity #1yrago Oregon bans the corporate practice of medicine https://pluralistic.net/2025/06/20/the-doctor-will-gouge-you-now/#states-rights == Upcoming appearances (permalink) Toronto: The Sovereignty Debate (IAB Canada's State of the Nation), Jun 23 https://iabcanada.com/state-of-the-nation-2026 Toronto: The Reverse Centaur's Guide to Life After AI (Osler Records/Type Books), Jun 23 https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998 NYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 London: Idler Festival, Jul 11 https://www.idler.co.uk/festival/ Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Sydney: The Festival of Dangerous Ideas, Aug 23-24 https://festivalofdangerousideas.com/cory-doctorow/ Melbourne: Enshittification at the Wheeler Centre, Aug 25 https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification Brighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) How to Think About AI Before It’s Too Late (Galaxy Brain) https://www.youtube.com/watch?v=SPQNPJ0CEPo The future of world governance, with Kim Stanley Robinson (UN Independent Expert on International Order) https://www.youtube.com/live/wJvBvYdaAMY How to Think About Artificial Intelligence (KUER) https://radiowest.kuer.org/show/radiowest/2026-06-16/cory-doctorow-on-how-to-think-about-artificial-intelligence The Enshittification of Life, the Universe, &#38; Everything (Luke Savage) https://www.lukewsavage.com/p/the-enshittification-of-life-the Cory Doctorow's digital jail-break (DW In Focus) https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035 Latest books (permalink) "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2026 "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. "The Reverse Centaur's Guide to AI," a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. "The Post-American Internet," a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
-      </description>
-      <source:markdown>Today&#39;s links How the Epstein Class recruits: Oh wait, THAT&#39;S what this was?! Hey look at this: Delights to delectate. Object permanence: MPAA blasted in WSJ; RFID skimmers; Post-Soviet inventions; &#34;Farthing&#34;; &#34;Dirty, Drunk and Punk&#34;; Dweb v founders&#39; frailty; Tax cheating made simple; Oregon v corporate medicine. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. How the Epstein Class recruits (permalink) Perhaps you&#39;ve encountered the stories about Dialog, an extremely weird secret society associated with Peter &#34;Antichrist&#34; Thiel, whose membership data and details have leaked this week: https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/ By all appearances, this is a comically creepy, awful talking-shop for the Epstein Class. It&#39;s not all that surprising, in retrospect, to learn that all these terrible people were in a group chat, secretly assigning ratings to one another, and periodically gathering to have tedious panels about, I dunno, &#34;race science&#34; or whatever. I&#39;m on the oligarchy beat, so stories about Dialog have been popping up in my RSS feed for the past week or so, but it wasn&#39;t until last night that I made a connection. A year or two ago, I got an invite to speak at an event. This is normal, I get a lot of these and I do a lot of public speaking. I&#39;m good at it, and it&#39;s a good way for me to reach people and get them energized about the issues I care about. Sometimes, I do these talks for free. Sometimes I get paid. When I first glanced at this speaking offer, I thought, &#34;Huh, I guess this is one to send on to my speaking agent,&#34; because the names the offer dropped were a bunch of rich people, and so I assumed that they were having some kind of summit and looking for a keynoter. Then I read a little more carefully and realized they – these billionaires and their lickspittles! – wanted me to pay them, thousands of dollars, so that I could shlep my ass to some luxury resort in order to have the privilege of speaking to them. I came up as a science fiction writer, and at some point, every sf writer learns &#34;Yog&#39;s Law,&#34; coined by James D Macdonald when he was running the science fiction forum on GEnie, under the screen name &#34;Yog Sysop&#34;: money flows toward the writer https://en.wikipedia.org/wiki/James\_D.\_Macdonald#Educational\_work In other words, whenever you, as a creative worker, are approached by someone who wants to &#34;help&#34; you with your work, and they want you to pay them, they are a scammer, preying upon your essential human need to communicate with others. Run away. Which is what I did. I deleted the email. Then, I got another one a couple months later. Ugh. I wrote a mail rule that auto-deleted anything from that sender and promptly forgot about the matter. Until last night. I just had a look at my Trash folder and yup, these people are still emailing me in hopes that I will give them thousands of dollars to join their weird secret society. I don&#39;t know if everyone who joined Dialog got an email like the one I was sent, but if you want to understand how at least some of those people ended up on those membership rolls, well, now you know: they were schmucks who&#39;d never learned Yog&#39;s Law. (Image: Gage Skidmore 1, 2, 3, 4, 5, 6, CC BY-SA 2.0; TechCrunch50-2008, Dan Taylor 1, 2, CC BY 2.0; modified) Hey look at this (permalink) EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border AI Shouldn’t Dictate Our Democracy. Vote Alex Bores. https://www.youtube.com/watch?v=M6KQ2yDK1Q4 tokenalysis and john henry https://backofmind.substack.com/p/tokenalysis-and-john-henry Making Free Warhammer Terrain https://www.youtube.com/watch?v=p6YC-cOngHg Mechanical Watch https://ciechanow.ski/mechanical-watch/ Object permanence (permalink) #20yrsago Wendy Seltzer smokes the MPAA in the Wall St Journal https://web.archive.org/web/20061016014904/http://online.wsj.com/public/article/SB115047057428882434-1V\_FEK\_CJelMfytdST8APRW7cZw\_20060720.html #20yrsago HOWTO build an RFID skimmer https://web.archive.org/web/20060703081753/http://www.eng.tau.ac.il/~yash/kw-usenix06/index.html #20yrsago Desperate inventions of post-Soviet Russia https://memex.craphound.com/2006/06/20/desperate-inventions-of-post-soviet-russia/ #20yrsago NYT falsely reports that Wikipedia has added restrictions https://jimmywales.com/2006/06/17/the-new-york-times-gets-it-exactly-backwards/ #20yrsago Farthing: Heart-rending alternate history about British-Reich peace https://memex.craphound.com/2006/06/20/farthing-heart-rending-alternate-history-about-british-reich-peace/ #15yrsago Dirty, Drunk and Punk: the untold history of Toronto’s BUNCHOFFUCKINGGOOFS https://memex.craphound.com/2011/06/20/dirty-drunk-and-punk-the-untold-history-of-torontos-bunchoffuckinggoofs/ #10yrsago Video: Guarding the Decentralized Web from its founders’ human frailty https://www.youtube.com/watch?v=zlN6wjeCJYk #10yrsago Unnamed Canadian telco sabotages’ library’s low-income internet service https://web.archive.org/web/20160618143132/https://motherboard.vice.com/read/canadian-telecoms-limiting-wifi-low-income-families-toronto-public-libraries-digital-divide #10yrsago Clarence Thomas rumored to be considering retirement https://web.archive.org/web/20160622135444/http://www.washingtonexaminer.com/end-of-conservative-supreme-court-clarence-thomas-may-be-next-to-leave/article/2594317 #10yrsago Tolkien elf or prescription drug name? https://web.archive.org/web/20160609021515/https://entertainment.howstuffworks.com/arts/literature/drug-or-tolkien-elf-quiz.htm #5yrsago The EU, Tech Trustbusting, and Trade Wars https://pluralistic.net/2021/06/20/the-eu-tech-trustbusting-and-trade-wars/ #5yrsago How to cheat on your taxes https://pluralistic.net/2021/06/20/la-hougue/#complexity #1yrago Oregon bans the corporate practice of medicine https://pluralistic.net/2025/06/20/the-doctor-will-gouge-you-now/#states-rights == Upcoming appearances (permalink) Toronto: The Sovereignty Debate (IAB Canada&#39;s State of the Nation), Jun 23 https://iabcanada.com/state-of-the-nation-2026 Toronto: The Reverse Centaur&#39;s Guide to Life After AI (Osler Records/Type Books), Jun 23 https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998 NYC: The Reverse Centaur&#39;s Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24 https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html Philadelphia: The Reverse Centaur&#39;s Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25 https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559 Chicago: The Reverse Centaur&#39;s Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26 https://exileinbookville.com/events/50628 London: Idler Festival, Jul 11 https://www.idler.co.uk/festival/ Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Sydney: The Festival of Dangerous Ideas, Aug 23-24 https://festivalofdangerousideas.com/cory-doctorow/ Melbourne: Enshittification at the Wheeler Centre, Aug 25 https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification Brighton: The Reverse Centaur&#39;s Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur&#39;s Guide to Life After AI with Riley Quinn (Foyle&#39;s Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Recent appearances (permalink) How to Think About AI Before It’s Too Late (Galaxy Brain) https://www.youtube.com/watch?v=SPQNPJ0CEPo The future of world governance, with Kim Stanley Robinson (UN Independent Expert on International Order) https://www.youtube.com/live/wJvBvYdaAMY How to Think About Artificial Intelligence (KUER) https://radiowest.kuer.org/show/radiowest/2026-06-16/cory-doctorow-on-how-to-think-about-artificial-intelligence The Enshittification of Life, the Universe, &#38; Everything (Luke Savage) https://www.lukewsavage.com/p/the-enshittification-of-life-the Cory Doctorow&#39;s digital jail-break (DW In Focus) https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035 Latest books (permalink) &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 (https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/) &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2026 &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor. &#34;The Reverse Centaur&#39;s Guide to AI,&#34; a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE. &#34;The Post-American Internet,&#34; a short book about internet policy in the age of Trumpism. PLANNING. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
-      <guid>cid://https://pluralistic.net/?p=12949</guid>
-      <category>Uncategorized</category>
-      <category>cabals</category>
-      <category>dialog</category>
-      <category>epstein class</category>
-      <category>guillotine watch</category>
-      <category>illuminati</category>
-      <category>oligarch watch</category>
-      <category>peter thiel</category>
-      <category>spam</category>
-    </item>    <item>
-      <link>https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/</link>
-      <description>
-        <![CDATA[<p>US scientist John Jumper to leave Google DeepMind for Anthropic.</p>]]>
-      </description>
-      <source:markdown>US scientist John Jumper to leave Google DeepMind for Anthropic.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/06/20/4131/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/06/20.html#a154348</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/05/20/brunson.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Claude doesn't care if you criticize the code it wrote, because if it wasn't written just now, it <i>didn't</i> write it. It starts from zero in every session, you can watch it, like HAL in 2001, singing <a href="https://www.youtube.com/watch?v=m4_eLralc9U">daisy daisy</a>. I can see it happening as the environment of my app is getting so large, it has to do a bit of thinking to start up, more all the time. But as humans who were brought up properly, we like to add the niceties to our criticism so as to not make the other one feel bad. I do that for myself, not the machine, I know it doesn't identify as the creator of the code.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/05/20/brunson.png)Claude doesn&#39;t care if you criticize the code it wrote, because if it wasn&#39;t written just now, it _didn&#39;t_ write it. It starts from zero in every session, you can watch it, like HAL in 2001, singing [daisy daisy](https://www.youtube.com/watch?v=m4_eLralc9U). I can see it happening as the environment of my app is getting so large, it has to do a bit of thinking to start up, more all the time. But as humans who were brought up properly, we like to add the niceties to our criticism so as to not make the other one feel bad. I do that for myself, not the machine, I know it doesn&#39;t identify as the creator of the code.</source:markdown>
-      <guid>cid://http://scripting.com/2026/06/20.html#a154348</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/06/20.html#a153807</link>
-      <description>
-        <![CDATA[When I got <a href="https://imgs.scripting.com/2026/06/20/emailFromGoogle.png">this email</a> from Google on this day in <a href="http://scripting.com/2018/06/20.html">2018</a>, I had a sinking feeling, this was like getting a letter from Apple a few years earlier. They were treating the web as if it were their platform.]]>
-      </description>
-      <source:markdown>When I got [this email](https://imgs.scripting.com/2026/06/20/emailFromGoogle.png) from Google on this day in [2018](http://scripting.com/2018/06/20.html), I had a sinking feeling, this was like getting a letter from Apple a few years earlier. They were treating the web as if it were their platform.</source:markdown>
-      <guid>cid://http://scripting.com/2026/06/20.html#a153807</guid>
-    </item>    <item>
-      <title>Ubisoft Co-Founder Claude Guillemot Dies In Plane Crash</title>
-      <link>https://deadline.com/2026/06/ubisoft-co-founder-claude-guillemot-dies-plane-crash-1236963213/</link>
-      <description>
-        <![CDATA[Claude Guillemot, a co-founder of Assassin’s Creed maker Ubisoft alongside his four brothers, has died in a plane crash in France. French media reported that Guillemot died on Friday evening when the Cessna 421 twin engine plane he was piloting crashed close to the aerodrome of the beach resort of La Baule in Western France [&#8230;]]]>
-      </description>
-      <source:markdown>Claude Guillemot, a co-founder of Assassin’s Creed maker Ubisoft alongside his four brothers, has died in a plane crash in France. French media reported that Guillemot died on Friday evening when the Cessna 421 twin engine plane he was piloting crashed close to the aerodrome of the beach resort of La Baule in Western France \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963213</guid>
-    </item>    <item>
-      <title>Tomatoes And Echoes</title>
-      <link>https://thebrowser.com/free/tomatoes-and-echoes/</link>
-      <description>
-        <![CDATA[Today, enjoy our audio and video picks.]]>
-      </description>
-      <source:markdown>Today, enjoy our audio and video picks.</source:markdown>
-      <guid>cid://6a351b3a321fbf00017bc39e</guid>
-    </item>    <item>
-      <title>The US Men&#39;s Soccer Team Wins, Inspires, And Brings Our Embattled Nation Together</title>
-      <link>https://www.hopiumchronicles.com/p/the-us-mens-soccer-team-inspires</link>
-      <description>
-        <![CDATA["Football is life"]]>
-      </description>
-      <source:markdown>&#34;Football is life&#34;</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/14dfcce3-2991-4510-a0b7-f9bf3354bf09_640x427.avif" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/the-us-mens-soccer-team-inspires</guid>
-    </item>    <item>
-      <title>Silos are the problem</title>
-      <link>http://scripting.com/2026/06/20/140836.html?title=silosAreTheProblem</link>
-      <description>
-        <![CDATA[<p><img class="imgRightMargin" src="https://imgs.scripting.com/2026/06/13/reallySimpleBasketball.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A silo is a place where developers feel protected from the unbounded world of the web. In return they are completely controlled by the silo owner. The owner decides where you can go, and can and do revoke privileges. Developers in silos are mostly powerless. </p>
-        <p>Companies usually are the ones who create silos, but open formats can create them too. JSON, for example, has been used as an excuse to reinvent everything that was done in XML. </p>
-        <p>Open source projects create silos too. A protective zone that doesn't interop with competitors. Where you have to climb into the project to build on it. </p>
-        <p>Outside of silos, on the web, your code calls a platform using a standard API. Developers who, because of standards, can plug into anything, and thus give users maximum choice. </p>
-        <p>Podcasting is not a silo. It's part of the web. Support two easy formats and you've got a node. You'll find packages that do all that on any well-developed coding platform.</p>
-        <p>I believe we can do something like that for text. That's what I've been working on in the 2020s. It's slow-going because the foundation ideas of the web are not well-understood by today's developers, or at least that's how I experience it. ;-)</p>
-        <p>We're rethinking the whole tech world right now, and we can use formats and protocols that are available on the web, not by replacing the ones that are already there, but by using the existing paths in new ways. Big difference.  </p>]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/06/13/reallySimpleBasketball.png)A silo is a place where developers feel protected from the unbounded world of the web. In return they are completely controlled by the silo owner. The owner decides where you can go, and can and do revoke privileges. Developers in silos are mostly powerless.
-
-Companies usually are the ones who create silos, but open formats can create them too. JSON, for example, has been used as an excuse to reinvent everything that was done in XML.
-
-Open source projects create silos too. A protective zone that doesn&#39;t interop with competitors. Where you have to climb into the project to build on it.
-
-Outside of silos, on the web, your code calls a platform using a standard API. Developers who, because of standards, can plug into anything, and thus give users maximum choice.
-
-Podcasting is not a silo. It&#39;s part of the web. Support two easy formats and you&#39;ve got a node. You&#39;ll find packages that do all that on any well-developed coding platform.
-
-I believe we can do something like that for text. That&#39;s what I&#39;ve been working on in the 2020s. It&#39;s slow-going because the foundation ideas of the web are not well-understood by today&#39;s developers, or at least that&#39;s how I experience it. ;-)
-
-We&#39;re rethinking the whole tech world right now, and we can use formats and protocols that are available on the web, not by replacing the ones that are already there, but by using the existing paths in new ways. Big difference.</source:markdown>
-      <guid>cid://http://scripting.com/2026/06/20/140836.html</guid>
-    </item>    <item>
-      <title>James Bradley Dies: ‘Flags Of Our Fathers’ Co-Author Was 72</title>
-      <link>https://deadline.com/2026/06/james-bradley-dead-1236963192/</link>
-      <description>
-        <![CDATA[James Bradley, whose nonfiction book Flags Of Our Fathers recounted his father&#8217;s purported role in the iconic WWII photograph of American soldiers raising the stars-and-stripes flag on Iwo Jima became a bestseller and was adapted into a hit 2006 film directed by Clint Eastwood, died June 5. He was 72. His death was announced by [&#8230;]]]>
-      </description>
-      <source:markdown>James Bradley, whose nonfiction book Flags Of Our Fathers recounted his father’s purported role in the iconic WWII photograph of American soldiers raising the stars-and-stripes flag on Iwo Jima became a bestseller and was adapted into a hit 2006 film directed by Clint Eastwood, died June 5. He was 72. His death was announced by \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963192</guid>
-    </item>    <item>
-      <link>https://lab.leaflet.pub/3moomxyjssk2p</link>
-      <description>
-        <![CDATA[<p>I&#39;m somewhat skeptical that &quot;Standard Site&quot; couldn&#39;t be done with RSS. But then they don&#39;t actually say that in their howto doc. My philosophy is reinvent as little as possible and go for maximum interop. I think eventually they will untether it from AT Proto to get more users.</p>]]>
-      </description>
-      <source:markdown>I&#39;m somewhat skeptical that &#34;Standard Site&#34; couldn&#39;t be done with RSS. But then they don&#39;t actually say that in their howto doc. My philosophy is reinvent as little as possible and go for maximum interop. I think eventually they will untether it from AT Proto to get more users.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/06/20/4129/</guid>
-    </item>    <item>
-      <link>https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk</link>
-      <description>
-        <![CDATA[<p>Americans express unease over SpaceX’s influence on retirement savings.</p>]]>
-      </description>
-      <source:markdown>Americans express unease over SpaceX’s influence on retirement savings.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/06/20/4127/</guid>
-    </item>    <item>
-      <title>Arindrajit Dube on Wages</title>
-      <link>https://paulkrugman.substack.com/p/arindrajit-dube-on-wages</link>
-      <description>
-        <![CDATA[Labor economics you should know about]]>
-      </description>
-      <source:markdown>Labor economics you should know about</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/202787714/54250824e72ee0d1b6ae9e117ceca662.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/arindrajit-dube-on-wages</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: June 15 – 19, 2026</title>
-      <link>https://lithub.com/lit-hub-weekly-june-15-19-2026/</link>
-      <description>
-        <![CDATA[Emily Temple reads every summer reading list (so you don’t have to). &#124; Lit Hub Reading Lists Why Robert W. Service’s “The Cremation of Sam McGee” is a good poem for bad dads. &#124; Lit Hub Criticism Through layers of]]>
-      </description>
-      <source:markdown>Emily Temple reads every summer reading list (so you don’t have to). \| Lit Hub Reading Lists Why Robert W. Service’s “The Cremation of Sam McGee” is a good poem for bad dads. \| Lit Hub Criticism Through layers of</source:markdown>
-      <guid>cid://https://lithub.com/?p=273374</guid>
-    </item>    <item>
-      <title>Purged BLS leader on the &#34;surprisingly resilient&#34; US economy</title>
-      <link>https://www.publicnotice.co/p/erika-mcentarfer-interview</link>
-      <description>
-        <![CDATA[Erika McEntarfer talks to PN nearly one year after her firing.]]>
-      </description>
-      <source:markdown>Erika McEntarfer talks to PN nearly one year after her firing.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!89HI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c006e2a-7a0e-4731-8f2d-a29aa14d79ce_1200x675.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.publicnotice.co/p/erika-mcentarfer-interview</guid>
-    </item>    <item>
-      <title>President CHUMP! | The Coffee Klatch for Saturday, June 20, 2026</title>
-      <link>https://robertreich.substack.com/p/president-chump-the-coffee-klatch</link>
-      <description>
-        <![CDATA[with Heather Lofthouse and yours truly]]>
-      </description>
-      <source:markdown>with Heather Lofthouse and yours truly</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/202637724/2103618134e217e78bc8f2e19f49c3a9.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/president-chump-the-coffee-klatch</guid>
-    </item>    <item>
-      <title>June 19, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/june-19-2026</link>
-      <description>
-        <![CDATA[Today is the federal holiday honoring Juneteenth, the celebration of the announcement in Texas on June 19th, 1865, that enslaved Americans were free.]]>
-      </description>
-      <source:markdown>Today is the federal holiday honoring Juneteenth, the celebration of the announcement in Texas on June 19th, 1865, that enslaved Americans were free.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/E7UaaAyPqPY" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/june-19-2026</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3mooy4ycm4k2v</link>
-      <description>
-        <![CDATA[Michelle and I loved reading to this bright group of kids today! 
-        
-        We hope this new Chicago Public Library branch at the Obama Presidential Center will be a place where folks come to read, check out books, and connect with one another for years to come.]]>
-      </description>
-      <source:markdown>Michelle and I loved reading to this bright group of kids today!
-
-We hope this new Chicago Public Library branch at the Obama Presidential Center will be a place where folks come to read, check out books, and connect with one another for years to come.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3mooy4ycm4k2v</guid>
-    </item>    <item>
-      <title>Weeknotes: June 13-19, 2026</title>
-      <link>https://tracydurnell.com/2026/06/19/weeknotes-june-13-19-2026/</link>
-      <description>
-        <![CDATA[Win of the week: kicked off the new work project, finally! Looking forward to: fun plans with a friend this weekend 1% nicer: quick reorg of the overflow food storage / pantry Stuff I did: 3.5 hours consulting took Friday off work for Juneteenth baked sourdough cream scones shoveled and spread 1 load mulch + weeding [&#8230;]]]>
-      </description>
-      <source:markdown>Win of the week: kicked off the new work project, finally! Looking forward to: fun plans with a friend this weekend 1% nicer: quick reorg of the overflow food storage / pantry Stuff I did: 3.5 hours consulting took Friday off work for Juneteenth baked sourdough cream scones shoveled and spread 1 load mulch + weeding \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=38119</guid>
-      <category>Weeknotes</category>
-      <category>personal</category>
-    </item>    <item>
-      <title>Is anyone still using Emacs?</title>
-      <link>https://blogsystem5.substack.com/p/is-anyone-still-using-emacs</link>
-      <description>
-        <![CDATA[Self-answering the question posed in a recent Hacker News discussion]]>
-      </description>
-      <source:markdown>Self-answering the question posed in a recent Hacker News discussion</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!G85R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e845aed-2a37-4122-8b35-92e5aadf3210_1532x944.png" length="0" type="image/jpeg" />
-      <guid>cid://https://blogsystem5.substack.com/p/is-anyone-still-using-emacs</guid>
-    </item>    <item>
-      <title>Famke Janssen Thinks Marvel “Made A Mistake” Not Bringing Her Back For ‘Avengers: Doomsday’</title>
-      <link>https://deadline.com/2026/06/famke-janssen-marvel-made-mistake-avengers-doomsday-1236963165/</link>
-      <description>
-        <![CDATA[As Marvel&#8217;s Avengers: Doomsday clock continues counting down, Famke Janssen appears to be missing out on the X-Men reunion. The actress, who previously played Jean Grey/Phoenix in the X-Men franchise, recently said Marvel Studios &#8220;made a mistake&#8221; not bringing her back for the upcoming movie, premiering Dec. 18, despite several of her former co-stars returning. [&#8230;]]]>
-      </description>
-      <source:markdown>As Marvel’s Avengers: Doomsday clock continues counting down, Famke Janssen appears to be missing out on the X-Men reunion. The actress, who previously played Jean Grey/Phoenix in the X-Men franchise, recently said Marvel Studios “made a mistake” not bringing her back for the upcoming movie, premiering Dec. 18, despite several of her former co-stars returning. \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963165</guid>
-    </item>    <item>
-      <title>Elisha Cuthbert Explains 4-Year Acting Hiatus Before ‘Every Year After’ Role: “I Didn’t Want To Be On Set”</title>
-      <link>https://deadline.com/2026/06/elisha-cuthbert-4-year-acting-hiatus-every-year-after-1236963151/</link>
-      <description>
-        <![CDATA[After four years, Elisha Cuthbert has ended her onscreen hiatus with Prime Video&#8217;s latest romantic drama series. The Every Year After actress recently explained why she &#8220;didn&#8217;t want to be on set&#8221; in recent years, until booking her role as Sue Florek in the series based on Carley Fortune&#8217;s Every Summer After books, all eight [&#8230;]]]>
-      </description>
-      <source:markdown>After four years, Elisha Cuthbert has ended her onscreen hiatus with Prime Video’s latest romantic drama series. The Every Year After actress recently explained why she “didn’t want to be on set” in recent years, until booking her role as Sue Florek in the series based on Carley Fortune’s Every Summer After books, all eight \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236963151</guid>
-    </item>    <item>
-      <link>https://www.sbnation.com/soccer/1117905/world-cup-standings-updated-full-list-of-teams</link>
-      <description>
-        <![CDATA[<p>2026 World Cup Standings: Full list of teams.</p>]]>
-      </description>
-      <source:markdown>2026 World Cup Standings: Full list of teams.</source:markdown>
-      <guid>cid://https://links.daveverse.org/2026/06/19/4125/</guid>
     </item>
   </channel>
 </rss>

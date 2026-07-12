@@ -4,17 +4,10 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>11 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>12 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 4 of 5] : by Leonard Jenyns</title>
-      <link>https://www.gutenberg.org/ebooks/78558</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>The voter&#39;s text book : by James M. Hiatt</title>
       <link>https://www.gutenberg.org/ebooks/79072</link>
       <description>
@@ -24,6 +17,62 @@
     </item>    <item>
       <title>Samphire by John Cowper Powys</title>
       <link>https://www.gutenberg.org/ebooks/79071</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kim by Rudyard Kipling</title>
+      <link>https://www.gutenberg.org/ebooks/2226</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Narraciones maravillosas y biografías ejemplares de algunos grandes hombres humildes y desconocidos</title>
+      <link>https://www.gutenberg.org/ebooks/79074</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>The Blue Fairy Book by Andrew Lang</title>
+      <link>https://www.gutenberg.org/ebooks/503</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Green Mummy by Fergus Hume</title>
+      <link>https://www.gutenberg.org/ebooks/2868</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The last September by Elizabeth Bowen</title>
+      <link>https://www.gutenberg.org/ebooks/79073</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>How to keep bees : by Anna Botsford Comstock</title>
+      <link>https://www.gutenberg.org/ebooks/79076</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>De l&#39;emploi du temps by Comtesse de Genlis</title>
+      <link>https://www.gutenberg.org/ebooks/79075</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 4 of 5] : by Leonard Jenyns</title>
+      <link>https://www.gutenberg.org/ebooks/78558</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1394,27 +1443,6 @@
     </item>    <item>
       <title>Books in general by Solomon Eagle</title>
       <link>https://www.gutenberg.org/ebooks/78901</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The nemesis of mediocrity by Ralph Adams Cram</title>
-      <link>https://www.gutenberg.org/ebooks/78895</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Consequences by E. M. Delafield</title>
-      <link>https://www.gutenberg.org/ebooks/34935</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A fifth day in Mary Carrow&#39;s school by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/78896</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

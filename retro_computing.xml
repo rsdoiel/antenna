@@ -4,10 +4,44 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>11 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>12 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/07/11 - The fete, No I won&#39;t use your stupid app, The missing member, Arduino IDE looks like Zap!, Combine harvester!</title>
+      <link>https://heyrick.eu/blog/entry/20260711</link>
+      <description>
+        <![CDATA[The fete, No I won't use your stupid app, The missing member, Arduino IDE looks like Zap!, Combine harvester!]]>
+      </description>
+      <source:markdown>The fete, No I won&#39;t use your stupid app, The missing member, Arduino IDE looks like Zap!, Combine harvester!</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260711</guid>
+    </item>    <item>
+      <title>Trubo Oberon</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/07/trubo-oberon/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Oberon is Niklaus Wirth's successor to Pascal and Modula-2 — a small, strongly-typed systems language. This project implements a practical DOS dialect of Oberon-07: the core language "plus what real 16-bit systems programming needs." Programmers who are interested in experimenting with a programming language that was meant to succeed Pascal, find it at DosWorld's <a href="https://github.com/DosWorld/toc/" rel="nofollow">Trubo Oberon at GitHub</a>.</p></div>]]>
+      </description>
+      <source:markdown>Oberon is Niklaus Wirth&#39;s successor to Pascal and Modula-2 — a small, strongly-typed systems language. This project implements a practical DOS dialect of Oberon-07: the core language &#34;plus what real 16-bit systems programming needs.&#34; Programmers who are interested in experimenting with a programming language that was meant to succeed Pascal, find it at DosWorld&#39;s [Trubo Oberon at GitHub](https://github.com/DosWorld/toc/).</source:markdown>
+      <guid>cid://https://sourceforge.net30c3894511d7b49ccd4ad692a9d09b6e8f4f51d6</guid>
+    </item>    <item>
+      <title>DaynaPORT SCSI/Link packet driver for DOS</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/07/daynaport-scsilink-packet-driver-for-dos/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Michael Brutman created an interesting project, a basic packet driver that enables you to use the DaynaPORT SCSI/Link Ethernet device under DOS. These devices were usually used on early Macintosh computers which had SCSI controllers but not much else for expandability. Today these devices are somewhat hard to find but they are emulated by devices like BlueSCSI and ZuluSCSI. If you would like to use the DaynaPORT for networking on FreeDOS, download it at the <a href="https://github.com/mbbrutman/daynaport-dos-packet-driver-asm" rel="nofollow">project on GitHub</a>.</p></div>]]>
+      </description>
+      <source:markdown>Michael Brutman created an interesting project, a basic packet driver that enables you to use the DaynaPORT SCSI/Link Ethernet device under DOS. These devices were usually used on early Macintosh computers which had SCSI controllers but not much else for expandability. Today these devices are somewhat hard to find but they are emulated by devices like BlueSCSI and ZuluSCSI. If you would like to use the DaynaPORT for networking on FreeDOS, download it at the [project on GitHub](https://github.com/mbbrutman/daynaport-dos-packet-driver-asm).</source:markdown>
+      <guid>cid://https://sourceforge.netbc233ce350bbede8a246fa4c2275db2ce5e6dc88</guid>
+    </item>    <item>
+      <title>InfoFile – a new app from Kevin Wells</title>
+      <link>https://www.riscository.com/2026/infofile-released/</link>
+      <description>
+        <![CDATA[If you want to find information about a file or directory from within RISC OS, the obvious thing to do in the desktop environment is to click the &#8216;Menu&#8217; mouse button with the pointer over the object in a filer window, go to the submenu for it and choose &#8216;Info&#8217;. However, the information you get from doing that is quite limited &#8211; the &#8216;About this object&#8217; window will tell you its name, its type, its size, the access rights set for it, and its date stamp. (And for a directory,&#8230;]]>
+      </description>
+      <source:markdown>If you want to find information about a file or directory from within RISC OS, the obvious thing to do in the desktop environment is to click the ‘Menu’ mouse button with the pointer over the object in a filer window, go to the submenu for it and choose ‘Info’. However, the information you get from doing that is quite limited – the ‘About this object’ window will tell you its name, its type, its size, the access rights set for it, and its date stamp. (And for a directory,…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10969</guid>
+      <category>Software</category>
+      <category>InfoFile</category>
+    </item>    <item>
       <title>Last chance for stickers and tshirts</title>
       <link>https://sourceforge.net/p/freedos/news/2026/07/last-chance-for-stickers-and-tshirts/</link>
       <description>
@@ -2160,45 +2194,6 @@ As for RMS, he upgraded [to something else](https://stallman.org/favorite-photos
       </description>
       <source:markdown>Summer Solstice (Litha), Medical panic, Medical records, And...</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260621</guid>
-    </item>    <item>
-      <title>b.log 2026/06/20 - Harvest, Socket, Tetley!, The Boroughs, A scientific calculator for 2.49?, Abstractions vs reality.</title>
-      <link>https://heyrick.eu/blog/entry/20260620</link>
-      <description>
-        <![CDATA[Harvest, Socket, Tetley!, The Boroughs, A scientific calculator for 2.49?, Abstractions vs reality.]]>
-      </description>
-      <source:markdown>Harvest, Socket, Tetley!, The Boroughs, A scientific calculator for 2.49?, Abstractions vs reality.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260620</guid>
-    </item>    <item>
-      <title>Twenty years of RISC OS Open</title>
-      <link>https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</link>
-      <description>
-        <![CDATA[<p>On 20 June 2006 we incorporated <span class="caps">RISC</span> OS Open Ltd with one slightly mad ambition: to take a proprietary operating system and open it up to anyone who fancied helping. Twenty years on, that has largely happened, and the <span class="caps">RISC</span> OS of today is in far better health than the one we inherited.</p>
-        <p>To mark the occasion, here is the story so far, with one highlight for each of our first twenty years. Our thanks go to everyone who has written code, filed a bug, funded a bounty, contributed in our forums and wiki, tested a nightly build, or simply cheered from the sidelines. None of it would exist without you.</p>]]>
-      </description>
-      <source:markdown>On 20 June 2006 we incorporated RISC OS Open Ltd with one slightly mad ambition: to take a proprietary operating system and open it up to anyone who fancied helping. Twenty years on, that has largely happened, and the RISC OS of today is in far better health than the one we inherited.
-
-To mark the occasion, here is the story so far, with one highlight for each of our first twenty years. Our thanks go to everyone who has written code, filed a bug, funded a bounty, contributed in our forums and wiki, tested a nightly build, or simply cheered from the sidelines. None of it would exist without you.</source:markdown>
-      <guid>cid://urn:uuid:6c5b2179-145b-44bb-9704-d9579a1ff991</guid>
-      <category>Miscellaneous</category>
-      <category>Community</category>
-    </item>    <item>
-      <title>Bobby Prince has died</title>
-      <link>https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html</link>
-      <description>
-        <![CDATA[Bobby Prince, '90s FPS game musician extraordinare and longtime id Software associate, <a href="https://www.legacy.com/legacy/robert-bobby-prince-lll">has died at 81</a>. Now, early on, there were things like Commander Keen and <a href="https://www.youtube.com/watch?v=9w3yoIOK-9U">Eat Your Vegetables</a>, which were cute and amusing yet almost completely orthogonal to his later output. Correspondingly, his transitional work in Wolfenstein 3D was fine (especially <a href="https://chiptune.app/?play=lileAUbv">The Ultimate Challenge</a>) but clearly all of a particular genre, and his otherwise solid contributions to Duke Nukem 3D and Rise of the Triad ended up overshadowed by Lee Jackson's (exhibit A: <a href="https://www.youtube.com/watch?v=uQHYL-PAjP4">Grabbag</a>; exhibit B: Prince's <a href="https://www.youtube.com/watch?v=OPpK8LwLRDw">main theme</a> but Jackson's <a href="https://www.youtube.com/watch?v=lBQgv2Iiulk">KISS OFF</a>).
-        <p>
-        Doom, on the other hand ... well. It's not <em>just</em> that these were solid gamer tracks, it's that they sounded good on just about anybody's sound card. We had high quality MIDI on Mac while you schlubs struggled with Sound Blaster Pros and it <em>still</em> didn't sound like a$$. That's talent. While everybody will name <a href="https://www.youtube.com/watch?v=BSsfjHCFosw">At Doom's Gate</a> (E1M1) as his best, I claim it is only merely his most memorable, and solely because everyone on the whole stinking planet has played it at least once. Instead, I proffer <a href="https://www.youtube.com/watch?v=NlWDSvNSzlA">I Sawed The Demons</a> (E2M1), <a href="https://www.youtube.com/watch?v=S_6ChXTP9TA">Untitled</a> (E3M1), and the reworked Wolf 3D holdover <a href="https://www.youtube.com/watch?v=veJp8Qjcymo">Evil Incarnate</a> (Doom II MAP31) as his heaviest and meatiest, <a href="https://www.youtube.com/watch?v=Bg_5MEuDVLs">Donna To The Rescue</a> (E3M2) as his funkiest, <a href="https://www.youtube.com/watch?v=3HZEF6Ujsl0">The Demons from Adrian's Pen</a> (E2M2) and <a href="https://www.youtube.com/watch?v=TZQc9Uf5eSE">They're Going To Get You</a> (E2M4) as his creepiest (I love the "<a href="https://www.vgmpf.com/Wiki/index.php?title=The_Demons_From_Adrian%27s_Pen">car going out of control</a>" feel to E2M2, as Prince himself called it), and <a href="https://www.youtube.com/watch?v=bYVX6b9svuE">Sign of Evil</a> (E1M8) as the first track that legitimately had me scared as the doors slide open and the Bruiser Brothers emerge to kill. If that one didn't make you wet your pants back in the day, maybe <a href="https://www.youtube.com/watch?v=UrIgnNtZrN4">this remix</a> will. The <a href="https://doomwiki.org/wiki/Doom_%28Sony_PlayStation%29">Doom port for PlayStation</a> didn't want to pay him royalties so they cheaped out and brought in Aubrey Hodges. Good music but hardly worthy of the Master, and to an otherwise excellent port's detriment.
-        <p>
-        I'd say rest in peace, but given the infernal subject matter that just doesn't seem adequate.]]>
-      </description>
-      <source:markdown>Bobby Prince, &#39;90s FPS game musician extraordinare and longtime id Software associate, [has died at 81](https://www.legacy.com/legacy/robert-bobby-prince-lll). Now, early on, there were things like Commander Keen and [Eat Your Vegetables](https://www.youtube.com/watch?v=9w3yoIOK-9U), which were cute and amusing yet almost completely orthogonal to his later output. Correspondingly, his transitional work in Wolfenstein 3D was fine (especially [The Ultimate Challenge](https://chiptune.app/?play=lileAUbv)) but clearly all of a particular genre, and his otherwise solid contributions to Duke Nukem 3D and Rise of the Triad ended up overshadowed by Lee Jackson&#39;s (exhibit A: [Grabbag](https://www.youtube.com/watch?v=uQHYL-PAjP4); exhibit B: Prince&#39;s [main theme](https://www.youtube.com/watch?v=OPpK8LwLRDw) but Jackson&#39;s [KISS OFF](https://www.youtube.com/watch?v=lBQgv2Iiulk)).
-
-Doom, on the other hand ... well. It&#39;s not _just_ that these were solid gamer tracks, it&#39;s that they sounded good on just about anybody&#39;s sound card. We had high quality MIDI on Mac while you schlubs struggled with Sound Blaster Pros and it _still_ didn&#39;t sound like a$$. That&#39;s talent. While everybody will name [At Doom&#39;s Gate](https://www.youtube.com/watch?v=BSsfjHCFosw) (E1M1) as his best, I claim it is only merely his most memorable, and solely because everyone on the whole stinking planet has played it at least once. Instead, I proffer [I Sawed The Demons](https://www.youtube.com/watch?v=NlWDSvNSzlA) (E2M1), [Untitled](https://www.youtube.com/watch?v=S_6ChXTP9TA) (E3M1), and the reworked Wolf 3D holdover [Evil Incarnate](https://www.youtube.com/watch?v=veJp8Qjcymo) (Doom II MAP31) as his heaviest and meatiest, [Donna To The Rescue](https://www.youtube.com/watch?v=Bg_5MEuDVLs) (E3M2) as his funkiest, [The Demons from Adrian&#39;s Pen](https://www.youtube.com/watch?v=3HZEF6Ujsl0) (E2M2) and [They&#39;re Going To Get You](https://www.youtube.com/watch?v=TZQc9Uf5eSE) (E2M4) as his creepiest (I love the &#34; [car going out of control](https://www.vgmpf.com/Wiki/index.php?title=The_Demons_From_Adrian%27s_Pen)&#34; feel to E2M2, as Prince himself called it), and [Sign of Evil](https://www.youtube.com/watch?v=bYVX6b9svuE) (E1M8) as the first track that legitimately had me scared as the doors slide open and the Bruiser Brothers emerge to kill. If that one didn&#39;t make you wet your pants back in the day, maybe [this remix](https://www.youtube.com/watch?v=UrIgnNtZrN4) will. The [Doom port for PlayStation](https://doomwiki.org/wiki/Doom_%28Sony_PlayStation%29) didn&#39;t want to pay him royalties so they cheaped out and brought in Aubrey Hodges. Good music but hardly worthy of the Master, and to an otherwise excellent port&#39;s detriment.
-
-I&#39;d say rest in peace, but given the infernal subject matter that just doesn&#39;t seem adequate.</source:markdown>
-      <author>noreply@blogger.com (ClassicHasClass)</author>
-      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-8983624217005254252</guid>
-      <category>memorials</category>
     </item>
   </channel>
 </rss>

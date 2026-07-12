@@ -4,10 +4,44 @@
   <channel>
     <title><![CDATA[Healthy Eating, Good Eating and Recipes]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>11 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>12 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Do You Really Need to Soak Dried Beans?</title>
+      <link>https://www.bonappetit.com/story/soaking-dried-beans-overnight-necessary</link>
+      <description>
+        <![CDATA[Forgot to soak your beans? Good news: You can still make a great pot.]]>
+      </description>
+      <source:markdown>Forgot to soak your beans? Good news: You can still make a great pot.</source:markdown>
+      <guid>cid://5bc5fb90cdde102d376db810</guid>
+      <category>Cooking</category>
+    </item>    <item>
+      <title>Pupusas</title>
+      <link>https://www.tasteofhome.com/recipes/pupusas/</link>
+      <description>
+        <![CDATA[These Salvadoran pupusas are filled with chorizo, beans and cheese, and are served with curtido, a pickled cabbage slaw.]]>
+      </description>
+      <source:markdown>These Salvadoran pupusas are filled with chorizo, beans and cheese, and are served with curtido, a pickled cabbage slaw.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2246060</guid>
+      <category>Appetizers</category>
+      <category>Beans &#38; Legumes</category>
+      <category>Central &#38; South America</category>
+      <category>Cheese</category>
+      <category>Coleslaws</category>
+      <category>Cuisines</category>
+      <category>Dishes &#38; Beverages</category>
+      <category>Ingredients</category>
+      <category>Meal Types</category>
+      <category>Meat &#38; Poultry</category>
+      <category>Mozzarella</category>
+      <category>Pan-Frying</category>
+      <category>Pork</category>
+      <category>Recipes</category>
+      <category>Refried Beans</category>
+      <category>Salads</category>
+      <category>Techniques</category>
+    </item>    <item>
       <title>The Dog Days Of Coffee Are Here</title>
       <link>https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html</link>
       <description>
@@ -2097,15 +2131,6 @@ There’s no time like the present to enjoy a quality cup of coffee in Shawnee, 
       <category>Restaurants</category>
       <category>Culture</category>
     </item>    <item>
-      <title>Finding Forgiveness at the Barbecue Counter</title>
-      <link>https://www.bonappetit.com/story/finding-forgiveness-at-the-barbecue-counter</link>
-      <description>
-        <![CDATA[My father’s stories about his Southern upbringing were fraught, but his love of barbecue helped me find tenderness in the tension.]]>
-      </description>
-      <source:markdown>My father’s stories about his Southern upbringing were fraught, but his love of barbecue helped me find tenderness in the tension.</source:markdown>
-      <guid>cid://6a3d89e1d6fd42c0bce8f200</guid>
-      <category>Culture</category>
-    </item>    <item>
       <title>Mapping a Barbecue Sauce Trail Through the Carolinas</title>
       <link>https://www.bonappetit.com/story/carolina-barbecue-sauce-trail</link>
       <description>
@@ -2115,6 +2140,15 @@ There’s no time like the present to enjoy a quality cup of coffee in Shawnee, 
       <guid>cid://6a3aafa9cacc693f28f9f5a9</guid>
       <category>Culture</category>
       <category>Restaurants</category>
+    </item>    <item>
+      <title>Finding Forgiveness at the Barbecue Counter</title>
+      <link>https://www.bonappetit.com/story/finding-forgiveness-at-the-barbecue-counter</link>
+      <description>
+        <![CDATA[My father’s stories about his Southern upbringing were fraught, but his love of barbecue helped me find tenderness in the tension.]]>
+      </description>
+      <source:markdown>My father’s stories about his Southern upbringing were fraught, but his love of barbecue helped me find tenderness in the tension.</source:markdown>
+      <guid>cid://6a3d89e1d6fd42c0bce8f200</guid>
+      <category>Culture</category>
     </item>    <item>
       <title>Pickle Coleslaw</title>
       <link>https://www.bonappetit.com/recipe/pickle-coleslaw</link>
@@ -4608,70 +4642,6 @@ The post [Strawberry Recipes](https://www.closetcooking.com/strawberry-recipes/)
       <category>Featured</category>
       <category>Food</category>
       <category>Roundup</category>
-    </item>    <item>
-      <title>Crispy Jicama Fries</title>
-      <link>https://www.isabeleats.com/baked-jicama-fries/</link>
-      <description>
-        <![CDATA[<div>
-        	<a href="https://www.isabeleats.com/baked-jicama-fries/"><img title="Crispy Baked Jicama Fries" src="https://www.isabeleats.com/wp-content/uploads/2020/05/baked-jicama-fries-small-8-400x600.jpg" alt="Crispy baked jicama fries on a plate with a side of ketchup" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
-        	</div>
-        	Crispy on the outside, tender on the inside, and made with just 5 ingredients, these jicama fries are a lower-carb&#8230;]]>
-      </description>
-      <source:markdown>[![Crispy baked jicama fries on a plate with a side of ketchup](https://www.isabeleats.com/wp-content/uploads/2020/05/baked-jicama-fries-small-8-400x600.jpg)](https://www.isabeleats.com/baked-jicama-fries/)
-
- Crispy on the outside, tender on the inside, and made with just 5 ingredients, these jicama fries are a lower-carb…</source:markdown>
-      <guid>cid://https://www.isabeleats.com/?p=19273</guid>
-      <category>Gluten Free Mexican Recipes</category>
-      <category>Healthy Mexican Food</category>
-      <category>Low Carb Mexican Recipes</category>
-      <category>Mexican Appetizers</category>
-      <category>Mexican Game Day Recipes</category>
-      <category>Mexican Side Dishes</category>
-      <category>Paleo Mexican Recipes</category>
-      <category>Recipes</category>
-      <category>Vegan Mexican Recipes</category>
-      <category>Vegetarian Mexican Recipes</category>
-    </item>    <item>
-      <title>Chocolate Magic Shell</title>
-      <link>https://www.tasteofhome.com/recipes/chocolate-magic-shell/</link>
-      <description>
-        <![CDATA[Leave the 10-ingredient industrial stuff on the shelf, and make homemade Magic Shell. With just two ingredients, you can bring this childhood favorite to life.]]>
-      </description>
-      <source:markdown>Leave the 10-ingredient industrial stuff on the shelf, and make homemade Magic Shell. With just two ingredients, you can bring this childhood favorite to life.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2250594</guid>
-      <category>Birthday</category>
-      <category>Chocolate &#38; Cocoa</category>
-      <category>Chocolate Chips</category>
-      <category>Cooking Style</category>
-      <category>Dessert Sauces &#38; Toppings</category>
-      <category>Dishes &#38; Beverages</category>
-      <category>Easy</category>
-      <category>Events &#38; Gatherings</category>
-      <category>Gear</category>
-      <category>Gluten-Free</category>
-      <category>Health &#38; Wellness</category>
-      <category>Holidays &#38; Events</category>
-      <category>How To</category>
-      <category>Ingredients</category>
-      <category>Kid-Friendly</category>
-      <category>Low-Carb</category>
-      <category>Low-Sodium</category>
-      <category>Make-Ahead</category>
-      <category>Quick</category>
-      <category>Recipes</category>
-      <category>Saucepan</category>
-      <category>Seasons</category>
-      <category>Stovetop Cookware</category>
-      <category>Summer</category>
-      <category>Test Kitchen</category>
-    </item>    <item>
-      <title>Here Are The Semi-Finalists For The 2026 US Barista Championship</title>
-      <link>https://sprudge.com/here-are-the-semi-finalists-for-the-2026-us-barista-championship-1094491.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Here are the 18 competitors moving on to tomorrow's Semi-Final round of the 2026 US Barista Championship.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Here are the 18 competitors moving on to tomorrow&#39;s Semi-Final round of the 2026 US Barista Championship.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=1094491</guid>
     </item>
   </channel>
 </rss>
