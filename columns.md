@@ -422,3 +422,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Swiss Storage](https://storageswiss.com/feed/)
 
 - [Fali Wang's blog](https://fairyfali.github.io/feed.xml)
+- [Konrad Henson blog](https://blog.khinsen.net/feeds/all.rss.xml)
+- [Birgitta Beockler's blog](https://birgitta.info/feed.xml)
+

@@ -4,10 +4,47 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>12 Jul 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>13 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How Did Two Wolves End Up on This Remote Island Thousands of Years Ago? Researchers Think Humans Brought Them There, Then Cared for Them</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-did-two-wolves-end-up-on-this-remote-island-thousands-of-years-ago-researchers-think-humans-brought-them-there-then-cared-for-them-180989110/</link>
+      <description>
+        <![CDATA[The discovery suggests humans may have maintained relationships with wolves long after domesticated dogs came on the scene]]>
+      </description>
+      <source:markdown>The discovery suggests humans may have maintained relationships with wolves long after domesticated dogs came on the scene</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6TtKK2p4-DQ5yD2hLXQAkxPsmg4=/420x240/filters:focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/0a/a70a0484-b200-4ee2-9d48-cb9b6f0444d6/vy_inifran_grottan_stora_forvar_foto_jan_stora.jpeg" length="531604" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/how-did-two-wolves-end-up-on-this-remote-island-thousands-of-years-ago-researchers-think-humans-brought-them-there-then-cared-for-them-180989110/</guid>
+    </item>    <item>
+      <title>How should we decide who, or what, is conscious?</title>
+      <link>https://www.npr.org/2026/07/13/nx-s1-5812660/brain-experience-consciousness-neuroscience</link>
+      <description>
+        <![CDATA[In the age of AI, what differentiates humans from robots? What makes humans … human? To find answers, many people are studying consciousness: our capacity for experience. But doctors and researchers still have a long way to go when it comes to finding new ways to detect consciousness in humans — much less computer software. That gets especially tricky when people are unable to use their words or bodies to <em>tell </em>others whether or not they’re conscious, like in vegetative states. Today on <em>Short Wave</em>, how some researchers are finding ways to get around those limitations.  <br/><br/><em>Interested in more tech episodes? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>In the age of AI, what differentiates humans from robots? What makes humans … human? To find answers, many people are studying consciousness: our capacity for experience. But doctors and researchers still have a long way to go when it comes to finding new ways to detect consciousness in humans — much less computer software. That gets especially tricky when people are unable to use their words or bodies to _tell_ others whether or not they’re conscious, like in vegetative states. Today on _Short Wave_, how some researchers are finding ways to get around those limitations.
+
+_Interested in more tech episodes? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/818fb6dd-c830-4096-ad1d-6f3d9d9cb29c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=818fb6dd-c830-4096-ad1d-6f3d9d9cb29c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812660&p=510351&d=786&size=12581870" length="12581870" type="audio/mpeg" />
+      <guid>cid://6cd91d43-00fe-4f25-a9bf-988a52f4bf79</guid>
+    </item>    <item>
+      <title>Wild, Scenic, and Increasingly Rusty</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/</link>
+      <description>
+        <![CDATA[Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range.]]>
+      </description>
+      <source:markdown>Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/</guid>
+      <category>Earth Observatory</category>
+      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
+      <category>Surface Water</category>
+    </item>    <item>
       <title>Apple sues OpenAI for theft of “trade secrets”</title>
       <link>https://www.osnews.com/story/145502/apple-sues-openai-for-theft-of-trade-secrets/</link>
       <description>
@@ -2945,33 +2982,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/</guid>
-    </item>    <item>
-      <title>A tale of two path separators</title>
-      <link>https://www.osnews.com/story/145356/a-tale-of-two-path-separators/</link>
-      <description>
-        <![CDATA[In macOS, you can apparently create files and directories in the Finder with names that include slashes. If you then go into the terminal and take a look with ls, you&#8217;ll see that the slashes are actually colons. I don’t understand all the nuances, but I know this is a side-effect of the fact that macOS has not one but&#160;two&#160;path separators: the slash (/) and the colon (:). The two separators are used in different contexts, and the system will translate between them as needed. These two separators reflect the two parent systems of modern macOS:&#160;classic Mac OS&#160;and the&#160;Unix-like NeXTSTEP. When they were joined together, Apple’s engineers had to build a file system that was compatible with both the classic Mac’s file system (the Mac OS Extended File System, aka HFS+), and with NeXTSTEP’s file system (the Unix file system, aka UFS). Among other differences, these systems had different path separators: HFS+ used a colon, while UFS used a slash. ↫ Alex Chan (article from 2021) I had no idea macOS worked this way, but it makes sense considering the platform&#8217;s dual history. What&#8217;s interesting is that when Apple moved to APFS almost a decade ago, this duality in path separators remained, most likely for backwards compatibility reasons. In a sense, this is somewhat similar to Windows supporting both backward and forward slashes, with the former being a leftover from DOS, and the latter an addition (to Windows) from the UNIX world. None of that beats Windows when using the Japanese or Korean locale, though. Because Japanese and Korean Windows use different codepages than Windows in the Americas and Western Europe, these versions of Windows render the backslash as the yen sign (¥) and and won (₩) sign respectively. As such, something like the Program Files directory actually renders like C:¥Program Files¥ and C:₩Program Files₩. Similar issues occurred in other Windows locales as well, but the impact of this in Japan and South Korea were so widespread that people just expect it to be that way, even if it&#8217;s easily fixed today. I can&#8217;t find if Windows 11 still uses ¥/₩ in Japan/South Korea, since the last references of it I can quickly uncover all point to Windows 10.]]>
-      </description>
-      <source:markdown>In macOS, you can apparently create files and directories in the Finder with names that include slashes. If you then go into the terminal and take a look with ls, you’ll see that the slashes are actually colons. I don’t understand all the nuances, but I know this is a side-effect of the fact that macOS has not one but two path separators: the slash (/) and the colon (:). The two separators are used in different contexts, and the system will translate between them as needed. These two separators reflect the two parent systems of modern macOS: classic Mac OS and the Unix-like NeXTSTEP. When they were joined together, Apple’s engineers had to build a file system that was compatible with both the classic Mac’s file system (the Mac OS Extended File System, aka HFS+), and with NeXTSTEP’s file system (the Unix file system, aka UFS). Among other differences, these systems had different path separators: HFS+ used a colon, while UFS used a slash. ↫ Alex Chan (article from 2021) I had no idea macOS worked this way, but it makes sense considering the platform’s dual history. What’s interesting is that when Apple moved to APFS almost a decade ago, this duality in path separators remained, most likely for backwards compatibility reasons. In a sense, this is somewhat similar to Windows supporting both backward and forward slashes, with the former being a leftover from DOS, and the latter an addition (to Windows) from the UNIX world. None of that beats Windows when using the Japanese or Korean locale, though. Because Japanese and Korean Windows use different codepages than Windows in the Americas and Western Europe, these versions of Windows render the backslash as the yen sign (¥) and and won (₩) sign respectively. As such, something like the Program Files directory actually renders like C:¥Program Files¥ and C:₩Program Files₩. Similar issues occurred in other Windows locales as well, but the impact of this in Japan and South Korea were so widespread that people just expect it to be that way, even if it’s easily fixed today. I can’t find if Windows 11 still uses ¥/₩ in Japan/South Korea, since the last references of it I can quickly uncover all point to Windows 10.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145356</guid>
-      <category>macOS</category>
-    </item>    <item>
-      <title>Apple internals: Swift in the kernel</title>
-      <link>https://www.osnews.com/story/145352/apple-internals-swift-in-the-kernel/</link>
-      <description>
-        <![CDATA[Apple&#8217;s Swift has become the de-facto language for Apple&#8217;s own developers for a while now, and it seems that with the new operating system releases from the company unveiled during WWDC, Switch is now also being used in the kernel. Naturally I dropped what I was doing and went grepping through the iOS 27 kernelcache. Alas, nothing came of it. All is not lost though: I found the Embedded Swift runtime in macOS 27, sitting in&#160;com.apple.kec.pthread&#160;of all places. Then I went poking around the root filesystem and it turns out Apple gave the whole effort a name: KernelKit. Let&#8217;s dissect it. ↫ Josh Maine It&#8217;s still quite limited at this time, which makes sense &#8211; you don&#8217;t want to be too crazy with the core of the operating system that runs on god knows how many PCs, smartphones, and other devices. It&#8217;s also entirely contained within a few kexts as embedded runtimes, and the XNU kernel itself remains entirely C and C++.]]>
-      </description>
-      <source:markdown>Apple’s Swift has become the de-facto language for Apple’s own developers for a while now, and it seems that with the new operating system releases from the company unveiled during WWDC, Switch is now also being used in the kernel. Naturally I dropped what I was doing and went grepping through the iOS 27 kernelcache. Alas, nothing came of it. All is not lost though: I found the Embedded Swift runtime in macOS 27, sitting in com.apple.kec.pthread of all places. Then I went poking around the root filesystem and it turns out Apple gave the whole effort a name: KernelKit. Let’s dissect it. ↫ Josh Maine It’s still quite limited at this time, which makes sense – you don’t want to be too crazy with the core of the operating system that runs on god knows how many PCs, smartphones, and other devices. It’s also entirely contained within a few kexts as embedded runtimes, and the XNU kernel itself remains entirely C and C++.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145352</guid>
-      <category>Apple</category>
-    </item>    <item>
-      <title>“I stored a website in a favicon”</title>
-      <link>https://www.osnews.com/story/145350/i-stored-a-website-in-a-favicon/</link>
-      <description>
-        <![CDATA[Every website has a favicon. It&#8217;s that little icon in your browser tab. Usually you upload it once and then never think about it again. But. A favicon is just an image. An image is just pixels. And pixels are just bytes. So of course I wondered if I could store something inside one. ↫ Tim Wehrle I love it when people do something useless just for fun.]]>
-      </description>
-      <source:markdown>Every website has a favicon. It’s that little icon in your browser tab. Usually you upload it once and then never think about it again. But. A favicon is just an image. An image is just pixels. And pixels are just bytes. So of course I wondered if I could store something inside one. ↫ Tim Wehrle I love it when people do something useless just for fun.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145350</guid>
-      <category>Internet</category>
     </item>
   </channel>
 </rss>

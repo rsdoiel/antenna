@@ -4,10 +4,33 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>12 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>13 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — Research Needs a Shared Standard for AI Disclosure</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/</link>
+      <description>
+        <![CDATA[<p>Today's guest post presents outcomes of the WCRI's (World Conferences on Research Integrity) Focus Track to address this gap in clarity and standardization of AI disclosure.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/">Guest Post — Research Needs a Shared Standard for AI Disclosure</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s guest post presents outcomes of the WCRI&#39;s (World Conferences on Research Integrity) Focus Track to address this gap in clarity and standardization of AI disclosure.
+
+The post [Guest Post — Research Needs a Shared Standard for AI Disclosure](https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62307</guid>
+      <category>Advocacy</category>
+      <category>Artificial Intelligence</category>
+      <category>Ethics</category>
+      <category>Infrastructure</category>
+      <category>Research Integrity</category>
+      <category>Technology</category>
+      <category>ai and research integrity</category>
+      <category>AI disclosure</category>
+      <category>AI in research</category>
+      <category>AI standards</category>
+      <category>disclosure</category>
+      <category>standards</category>
+    </item>    <item>
       <title>siegfried 1.11.5 released</title>
       <link>https://www.itforarchivists.com/post/sf1115/</link>
       <description>
@@ -1384,18 +1407,6 @@ The post [A Platform Comes Apart: Part 1](https://scholarlykitchen.sspnet.org/20
       <category>Technology</category>
       <category>World of Tomorrow</category>
       <category>hosting platforms</category>
-    </item>    <item>
-      <title>A Look at the “Story of Crossref’s Metadata Development”</title>
-      <link>https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/</link>
-      <description>
-        <![CDATA[<p>From a Crossref Post by Patricia Feeney: A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for CRediT — the ANSI/NISO taxonomy for contributor roles. This means that an individual’s complete contribution to a research output can finally be described in our metadata, rather [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/">A Look at the &#8220;Story of Crossref’s Metadata Development&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From a Crossref Post by Patricia Feeney: A significant update is nearly here. Schema 5.5 will expand contributor metadata to support multiple roles per contributor, and will introduce support for CRediT — the ANSI/NISO taxonomy for contributor roles. This means that an individual’s complete contribution to a research output can finally be described in our metadata, rather \[…\]
-
-The post [A Look at the “Story of Crossref’s Metadata Development”](https://www.infodocket.com/2026/06/21/new-blog-post-on-story-of-crossrefs-metadata-development/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168194</guid>
-      <category>News</category>
     </item>
   </channel>
 </rss>

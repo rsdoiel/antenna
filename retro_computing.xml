@@ -4,10 +4,26 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>12 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>13 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/07/12 - The demise of WZBA, This is insufferable, File transfer from my EPROM programmer.</title>
+      <link>https://heyrick.eu/blog/entry/20260712</link>
+      <description>
+        <![CDATA[The demise of WZBA, This is insufferable, File transfer from my EPROM programmer.]]>
+      </description>
+      <source:markdown>The demise of WZBA, This is insufferable, File transfer from my EPROM programmer.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260712</guid>
+    </item>    <item>
+      <title>RISC OS Open source developments weekly update</title>
+      <link>http://www.iconbar.com/comments/rss/news2349.html</link>
+      <description>
+        <![CDATA[I'm going to try a new series here, where I report on the updates that have happened in Open Source over the last week, each Saturday. There are often a few things going on, and hopefully I'll be able to spot them, and report what's happening.]]>
+      </description>
+      <source:markdown>I&#39;m going to try a new series here, where I report on the updates that have happened in Open Source over the last week, each Saturday. There are often a few things going on, and hopefully I&#39;ll be able to spot them, and report what&#39;s happening.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2349.html</guid>
+    </item>    <item>
       <title>b.log 2026/07/11 - The fete, No I won&#39;t use your stupid app, The missing member, Arduino IDE looks like Zap!, Combine harvester!</title>
       <link>https://heyrick.eu/blog/entry/20260711</link>
       <description>
@@ -122,9 +138,9 @@
       <title>The KIM-1 explained</title>
       <link>http://retro.hansotten.nl/the-kim-1-explained/</link>
       <description>
-        <![CDATA[The hardware and the software in the KIM-1 work closely together. The tiny program, less than 2KB in the two ROMs, together with the simple hardware is very clever designed. The KIM-1 is a complete computer with two user interfaces and data storage with a simple namespace. It is one of the first 6502 computers, [&#8230;]]]>
+        <![CDATA[The hardware and the software in the KIM-1 work closely together. The tiny program, less than 2KB in the two ROMs, together with the simple hardware, is very clever designed. The KIM-1 is a complete computer with two user interfaces and data storage with a simple namespace. It is one of the first 6502 computers, [&#8230;]]]>
       </description>
-      <source:markdown>The hardware and the software in the KIM-1 work closely together. The tiny program, less than 2KB in the two ROMs, together with the simple hardware is very clever designed. The KIM-1 is a complete computer with two user interfaces and data storage with a simple namespace. It is one of the first 6502 computers, \[…\]</source:markdown>
+      <source:markdown>The hardware and the software in the KIM-1 work closely together. The tiny program, less than 2KB in the two ROMs, together with the simple hardware, is very clever designed. The KIM-1 is a complete computer with two user interfaces and data storage with a simple namespace. It is one of the first 6502 computers, \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=21197</guid>
       <category>6502</category>
       <category>kim-1</category>
@@ -2186,14 +2202,6 @@ As for RMS, he upgraded [to something else](https://stallman.org/favorite-photos
       <source:markdown>Once again the Arch User Repository is plagued by a high volume of malicious packages.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://69a36f6794fd8f76c9289d9cb02b4a1e</guid>
-    </item>    <item>
-      <title>b.log 2026/06/21 - Summer Solstice (Litha), Medical panic, Medical records, And...</title>
-      <link>https://heyrick.eu/blog/entry/20260621</link>
-      <description>
-        <![CDATA[Summer Solstice (Litha), Medical panic, Medical records, And...]]>
-      </description>
-      <source:markdown>Summer Solstice (Litha), Medical panic, Medical records, And...</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260621</guid>
     </item>
   </channel>
 </rss>
