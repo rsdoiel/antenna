@@ -4,10 +4,94 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>13 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>14 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The pioneer women of the West by E. F.  Ellet</title>
+      <link>https://www.gutenberg.org/ebooks/78929</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Every Man out of His Humour by Ben Jonson</title>
+      <link>https://www.gutenberg.org/ebooks/3695</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Life of John Taylor by B. H.  Roberts</title>
+      <link>https://www.gutenberg.org/ebooks/45303</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Things I know about kings, celebrities, and crooks by William Le Queux</title>
+      <link>https://www.gutenberg.org/ebooks/79085</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Three-Base Benson by Ralph Henry Barbour</title>
+      <link>https://www.gutenberg.org/ebooks/79086</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Hive of Busy Bees by Effie Mae Hency Williams</title>
+      <link>https://www.gutenberg.org/ebooks/7027</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Picture plays by Marguerite Merington</title>
+      <link>https://www.gutenberg.org/ebooks/79091</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The day the world ended by Sax Rohmer</title>
+      <link>https://www.gutenberg.org/ebooks/79087</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Meditations by Emperor of Rome Marcus Aurelius</title>
+      <link>https://www.gutenberg.org/ebooks/2680</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A prisoner of the Reds : by Francis McCullagh</title>
+      <link>https://www.gutenberg.org/ebooks/79088</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The First Buckinghamshire Battalion 1914-1919 by P. L. Wright</title>
+      <link>https://www.gutenberg.org/ebooks/79090</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>St Baldred of the Bass: a Pictish legend : by James Miller</title>
+      <link>https://www.gutenberg.org/ebooks/79089</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>How to keep bees : by Anna Botsford Comstock</title>
       <link>https://www.gutenberg.org/ebooks/79076</link>
       <description>
@@ -21,13 +105,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Every Man out of His Humour by Ben Jonson</title>
-      <link>https://www.gutenberg.org/ebooks/3695</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Original Short Stories — Volume 08 by Guy de Maupassant</title>
       <link>https://www.gutenberg.org/ebooks/3084</link>
@@ -50,13 +127,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Life of John Taylor by B. H.  Roberts</title>
-      <link>https://www.gutenberg.org/ebooks/45303</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Ihanne-aviomies : by Oscar Wilde</title>
       <link>https://www.gutenberg.org/ebooks/79077</link>
       <description>
@@ -66,13 +136,6 @@
     </item>    <item>
       <title>The Law and the Woman by Sir Edward Abbott Parry</title>
       <link>https://www.gutenberg.org/ebooks/79084</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Things I know about kings, celebrities, and crooks by William Le Queux</title>
-      <link>https://www.gutenberg.org/ebooks/79085</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1219,13 +1282,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The pioneer women of the West by E. F.  Ellet</title>
-      <link>https://www.gutenberg.org/ebooks/78929</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Meer :</title>
       <link>https://www.gutenberg.org/ebooks/78932</link>
       <description>
@@ -1387,121 +1443,6 @@
     </item>    <item>
       <title>Is man a free agent? : by James H. Loryea</title>
       <link>https://www.gutenberg.org/ebooks/78922</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Condition of the Working Class in England, by Friedrich Engels</title>
-      <link>https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky</link>
-      <description>
-        <![CDATA[A philosopher reports on the state of the proletariat in Victorian England.]]>
-      </description>
-      <source:markdown>A philosopher reports on the state of the proletariat in Victorian England.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky/downloads/friedrich-engels_the-condition-of-the-working-class-in-england_florence-kelley-wischnewetzky.epub?source=feed" length="577418" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/friedrich-engels/the-condition-of-the-working-class-in-england/florence-kelley-wischnewetzky</guid>
-      <category>Nonfiction</category>
-    </item>    <item>
-      <title>The waltz of the dogs : by Leonid Andreyev</title>
-      <link>https://www.gutenberg.org/ebooks/78902</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Salt of the Earth by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78900</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Emma by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/158</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Metamorphosis by Franz Kafka</title>
-      <link>https://www.gutenberg.org/ebooks/26298</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Condition of the Working-Class in England in 1844 by Friedrich Engels</title>
-      <link>https://www.gutenberg.org/ebooks/17306</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>How to conquer stupidity : by Leo Markun</title>
-      <link>https://www.gutenberg.org/ebooks/78906</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The agent by Stephen Marlowe</title>
-      <link>https://www.gutenberg.org/ebooks/78912</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Crack of doom by Stephen Marlowe</title>
-      <link>https://www.gutenberg.org/ebooks/78907</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hunt the red roe by Alan Payne</title>
-      <link>https://www.gutenberg.org/ebooks/78910</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Du Kremlin au Pacifique by Georges Ducrocq</title>
-      <link>https://www.gutenberg.org/ebooks/78904</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>As holy and enchanted by Henderson Starke</title>
-      <link>https://www.gutenberg.org/ebooks/78909</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Survivor by Jr. Irving E. Cox</title>
-      <link>https://www.gutenberg.org/ebooks/78911</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Forever is so long by John Jakes</title>
-      <link>https://www.gutenberg.org/ebooks/78908</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Histoire de l&#39;idée laïque en France au XIXe siècle by Georges Weill</title>
-      <link>https://www.gutenberg.org/ebooks/78903</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Model yachts and model yacht sailing : by James E. Walton</title>
-      <link>https://www.gutenberg.org/ebooks/78905</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

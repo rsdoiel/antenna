@@ -424,4 +424,8 @@ description: Blogs, columns and snapshots from around the web.
 - [Fali Wang's blog](https://fairyfali.github.io/feed.xml)
 - [Konrad Henson blog](https://blog.khinsen.net/feeds/all.rss.xml)
 - [Birgitta Beockler's blog](https://birgitta.info/feed.xml)
+- [Optimists Economy Podcast](https://publicfeeds.net/f/14811/feed-rss.xml)
+- [Laura Tacho Blog](https://lauratacho.com/blog?format=rss)
+- [Laura Tacho, Refactor Substack](https://lauratacho.substack.com/feed/)
+- [Thought Works](https://www.thoughtworks.com/rss/insights.xml)
 
