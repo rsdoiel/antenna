@@ -4,10 +4,87 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>14 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>15 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Katy Hunter&#39;s homes by Mrs. C. M. Livingston</title>
+      <link>https://www.gutenberg.org/ebooks/79068</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Picture plays by Marguerite Merington</title>
+      <link>https://www.gutenberg.org/ebooks/79091</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Andersen&#39;s Fairy Tales by H. C.  Andersen</title>
+      <link>https://www.gutenberg.org/ebooks/1597</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Diana Carew : by Mrs. Forrester</title>
+      <link>https://www.gutenberg.org/ebooks/79096</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Arcadian Adelaide by Thistle Anderson</title>
+      <link>https://www.gutenberg.org/ebooks/79097</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le comte de Monte-Cristo, Tome I by Alexandre Dumas and Auguste Maquet</title>
+      <link>https://www.gutenberg.org/ebooks/17989</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The lavender dragon by Eden Phillpotts</title>
+      <link>https://www.gutenberg.org/ebooks/79092</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Desert Conquest; or, Precious Waters by A. M.  Chisholm</title>
+      <link>https://www.gutenberg.org/ebooks/25728</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kitty Maynard : by Lucy Ellen Guernsey</title>
+      <link>https://www.gutenberg.org/ebooks/79094</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cape Cod; its people and their history by Henry C. Kittredge</title>
+      <link>https://www.gutenberg.org/ebooks/79093</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hagar by James Arthur MacKnight</title>
+      <link>https://www.gutenberg.org/ebooks/79095</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The pioneer women of the West by E. F.  Ellet</title>
       <link>https://www.gutenberg.org/ebooks/78929</link>
       <description>
@@ -45,13 +122,6 @@
     </item>    <item>
       <title>A Hive of Busy Bees by Effie Mae Hency Williams</title>
       <link>https://www.gutenberg.org/ebooks/7027</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Picture plays by Marguerite Merington</title>
-      <link>https://www.gutenberg.org/ebooks/79091</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -265,13 +335,6 @@
     </item>    <item>
       <title>The espalier by Sylvia Townsend Warner</title>
       <link>https://www.gutenberg.org/ebooks/79065</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Katy Hunter&#39;s homes by Mrs. C. M. Livingston</title>
-      <link>https://www.gutenberg.org/ebooks/79068</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1041,7 +1104,7 @@
         <![CDATA[The life of Jesus of Nazareth is examined through the lens of the people around him.]]>
       </description>
       <source:markdown>The life of Jesus of Nazareth is examined through the lens of the people around him.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/kahlil-gibran_jesus-the-son-of-man.epub?source=feed" length="490116" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/kahlil-gibran_jesus-the-son-of-man.epub?source=feed" length="490122" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man</guid>
       <category>Fiction</category>
       <category>Shorts</category>
@@ -1305,144 +1368,6 @@
     </item>    <item>
       <title>Taught by experience by Ruth Lamb</title>
       <link>https://www.gutenberg.org/ebooks/78930</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>June Moon, by Ring Lardner and George S. Kaufman</title>
-      <link>https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon</link>
-      <description>
-        <![CDATA[A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.]]>
-      </description>
-      <source:markdown>A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/ring-lardner-george-s-kaufman_june-moon.epub?source=feed" length="373116" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon</guid>
-      <category>Comedy</category>
-      <category>Drama</category>
-      <category>Satire</category>
-    </item>    <item>
-      <title>Poems by Emily Dickinson, Three Series, Complete by Emily Dickinson</title>
-      <link>https://www.gutenberg.org/ebooks/12242</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The decline of the West, Volume 2 : by Oswald Spengler</title>
-      <link>https://www.gutenberg.org/ebooks/78914</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Flappers and Philosophers by F. Scott  Fitzgerald</title>
-      <link>https://www.gutenberg.org/ebooks/4368</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le pacifisme by Émile Faguet</title>
-      <link>https://www.gutenberg.org/ebooks/78925</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The Story of Grettir the Strong</title>
-      <link>https://www.gutenberg.org/ebooks/12747</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Master Mummer by E. Phillips  Oppenheim</title>
-      <link>https://www.gutenberg.org/ebooks/28161</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The story of Cairo by Stanley Lane-Poole</title>
-      <link>https://www.gutenberg.org/ebooks/78916</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>In camp and kitchen : by Lucy H.  Yates</title>
-      <link>https://www.gutenberg.org/ebooks/78919</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The curse of gold by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78924</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hair-trigger Hollibaugh by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78923</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The luck of San Miguel by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78926</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The money-spider by William Le Queux</title>
-      <link>https://www.gutenberg.org/ebooks/78920</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The rise and fall of the mustache : by Robert J.  Burdette</title>
-      <link>https://www.gutenberg.org/ebooks/78913</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sacred symbols in art by Elisabeth Goldsmith</title>
-      <link>https://www.gutenberg.org/ebooks/78921</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>There is confusion by Jessie Redmon Fauset</title>
-      <link>https://www.gutenberg.org/ebooks/78915</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Adventures of a donkey by a graduate of St. Joseph&#39;s P. S. and la comtesse de Ségur</title>
-      <link>https://www.gutenberg.org/ebooks/78917</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Senator Fulbright&#39;s secret memorandum by James D. Bales</title>
-      <link>https://www.gutenberg.org/ebooks/78918</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Is man a free agent? : by James H. Loryea</title>
-      <link>https://www.gutenberg.org/ebooks/78922</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

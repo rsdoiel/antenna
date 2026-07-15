@@ -4,10 +4,45 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>14 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>15 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>WROCC Newsletter Volume 43:03 reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2348.html</link>
+      <description>
+        <![CDATA[Summer is flying by. It's already St. Swithin's Day and the July edition of WROCC's mini magazine was sent out to subscribers at the weekend.]]>
+      </description>
+      <source:markdown>Summer is flying by. It&#39;s already St. Swithin&#39;s Day and the July edition of WROCC&#39;s mini magazine was sent out to subscribers at the weekend.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2348.html</guid>
+    </item>    <item>
+      <title>RAMpager: a 1MB banked RAM expansion for the KIM-1</title>
+      <link>http://retro.hansotten.nl/rampager-a-1mb-banked-ram-expansion-for-the-kim-1/</link>
+      <description>
+        <![CDATA[An exapnsion for the MTU bus: RAMpager: a 1MB banked RAM expansion for the KIM-1 On this location you can find the open hardware source of a RAM card made for the MTU bus he RAMpager is a MTU banked RAM expansion for the KIM-1: the board supports up to 1MB (that&#8217;s three orders of [&#8230;]]]>
+      </description>
+      <source:markdown>An exapnsion for the MTU bus: RAMpager: a 1MB banked RAM expansion for the KIM-1 On this location you can find the open hardware source of a RAM card made for the MTU bus he RAMpager is a MTU banked RAM expansion for the KIM-1: the board supports up to 1MB (that’s three orders of \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=21517</guid>
+      <category>6502</category>
+      <category>MTU</category>
+    </item>    <item>
+      <title>b.log 2026/07/14 - Anna, Freezer, Xmodem both ways.</title>
+      <link>https://heyrick.eu/blog/entry/20260714</link>
+      <description>
+        <![CDATA[Anna, Freezer, Xmodem both ways.]]>
+      </description>
+      <source:markdown>Anna, Freezer, Xmodem both ways.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260714</guid>
+    </item>    <item>
+      <title>Kempac documents added</title>
+      <link>http://retro.hansotten.nl/kempac-documents-added/</link>
+      <description>
+        <![CDATA[The Kempac system now is fully documented! See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; [&#8230;]]]>
+      </description>
+      <source:markdown>The Kempac system now is fully documented! See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=21494</guid>
+      <category>6502</category>
+    </item>    <item>
       <title>Proton PIM-1 hex monitor source added</title>
       <link>http://retro.hansotten.nl/proton-pim-1-hex-monitor-source-added/</link>
       <description>
@@ -2185,32 +2220,6 @@ As for RMS, he upgraded [to something else](https://stallman.org/favorite-photos
       <source:markdown>Moving up a notch yet again thanks to its increased release cycle, ScummVM 2026.3.0 is now available to download, featuring a number of bug fixes and other improvements to some of the engines it supports, and bringing a host of newly supported games to be played. ScummVM is a ‘virtual machine’ (that’s the VM part of its name) that was originally developed to allow games written using LucasArts’ Script Creation Utility for Maniac Mansion – to be played on modern systems. However, that was back in 2001, and in the…</source:markdown>
       <guid>cid://https://www.riscository.com/?p=10964</guid>
       <category>Software</category>
-    </item>    <item>
-      <title>b.log 2026/06/23 - A-ha, all the things I could do if I had a little money...</title>
-      <link>https://heyrick.eu/blog/entry/20260623</link>
-      <description>
-        <![CDATA[A-ha, all the things I could do if I had a little money...]]>
-      </description>
-      <source:markdown>A-ha, all the things I could do if I had a little money...</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260623</guid>
-    </item>    <item>
-      <title>338-6503 Rockwell, a R65C02 with an obscure number</title>
-      <link>http://retro.hansotten.nl/338-6503-rockwell-a-r65c02-with-an-oscure-number/</link>
-      <description>
-        <![CDATA[I saw an advert on bey (China seller) for a Rockwell 6503 IC. The 6503 is a variant of the 6502 with limited number of pins to 28, the same 6502 core with less addressing space. But something in the advert made me wonder, a 40 pin 6503? I ordered one and indeed a 40 [&#8230;]]]>
-      </description>
-      <source:markdown>I saw an advert on bey (China seller) for a Rockwell 6503 IC. The 6503 is a variant of the 6502 with limited number of pins to 28, the same 6502 core with less addressing space. But something in the advert made me wonder, a 40 pin 6503? I ordered one and indeed a 40 \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=21115</guid>
-      <category>6502</category>
-    </item>    <item>
-      <title>Three Lines of Code Improve Linux Storage Performance</title>
-      <link>http://www.linux-magazine.com/Online/News/Three-Lines-of-Code-Improve-Linux-Storage-Performance</link>
-      <description>
-        <![CDATA[<p>A developer changed three lines of code, giving Linux storage performance a 5% bump.</p>]]>
-      </description>
-      <source:markdown>A developer changed three lines of code, giving Linux storage performance a 5% bump.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://b57cc35e028d427999bb1cfe74e8881e</guid>
     </item>
   </channel>
 </rss>

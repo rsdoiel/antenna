@@ -4,10 +4,37 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>14 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>15 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Update: Elsevier is Suing Meta For Whom? (And will we ever really know?): Some thoughts on copyright class actions claiming to represent authors</title>
+      <link>https://www.authorsalliance.org/2026/07/15/update-elsevier-is-suing-meta-for-whom-and-will-we-ever-really-know-some-thoughts-on-copyright-class-actions-claiming-to-represent-authors/</link>
+      <description>
+        <![CDATA[As we wrote in May, Elsevier is suing Meta over use of copyrighted works for training Meta’s AI models. It has a set of claims very similar to those in Kadrey v. Meta, but with a different purported class that includes authors and publishers who own copyright in academic journal articles and other academic works.]]>
+      </description>
+      <source:markdown>As we wrote in May, Elsevier is suing Meta over use of copyrighted works for training Meta’s AI models. It has a set of claims very similar to those in Kadrey v. Meta, but with a different purported class that includes authors and publishers who own copyright in academic journal articles and other academic works.</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=13048</guid>
+      <category>Blog</category>
+      <category>Cases</category>
+      <category>Artificial Intelligence</category>
+      <category>Class Action</category>
+      <category>Copyright</category>
+    </item>    <item>
+      <title>Writing while the World is on Fire (Encore)</title>
+      <link>https://johnaugust.com/2026/writing-while-the-world-is-on-fire-encore</link>
+      <description>
+        <![CDATA[<p>How do you keep doing creative work when the world is falling apart around you? To sift through the despair and doubt, John welcomes back legendary Scriptnotes guest, writer-turned-psychotherapist Dennis Palumbo. They discuss the many feelings that catastrophic events can bring up in artists, the personal narratives that often inform those feelings, and how to [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/writing-while-the-world-is-on-fire-encore">Writing while the World is on Fire (Encore)</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>How do you keep doing creative work when the world is falling apart around you? To sift through the despair and doubt, John welcomes back legendary Scriptnotes guest, writer-turned-psychotherapist Dennis Palumbo. They discuss the many feelings that catastrophic events can bring up in artists, the personal narratives that often inform those feelings, and how to \[…\]
+
+The post [Writing while the World is on Fire (Encore)](https://johnaugust.com/2026/writing-while-the-world-is-on-fire-encore) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/Scriptnotes676RB.mp3" length="47800900" type="audio/mpeg" />
+      <guid>cid://https://johnaugust.com/?p=26743</guid>
+      <category>Scriptnotes</category>
+      <category>Transcribed</category>
+    </item>    <item>
       <title>Frontier models are surprisingly bad at jigsaw puzzles</title>
       <link>https://johnaugust.com/2026/ai-jigsaw-puzzles</link>
       <description>
@@ -134,18 +161,6 @@ The post [Obsession with Curry Barker](https://johnaugust.com/2026/obsession-wit
 The post [Scriptnotes, Episode 740: On Competence, Transcript](https://johnaugust.com/2026/scriptnotes-episode-740-on-competence-transcript) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=24018</guid>
       <category>Scriptnotes Transcript</category>
-    </item>    <item>
-      <title>Craig Takes Questions</title>
-      <link>https://johnaugust.com/2026/craig-takes-questions</link>
-      <description>
-        <![CDATA[<p>This week, Craig answers listener questions about rewriting on set, AI coverage, when and how to kill off characters, sizing up producers, and more. There’s also an extra-special guest appearance for this week’s One Cool Thing. In the bonus segment for premium subscribers, Craig discusses how to be wrong—something he feels he knows all too [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/craig-takes-questions">Craig Takes Questions</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>This week, Craig answers listener questions about rewriting on set, AI coverage, when and how to kill off characters, sizing up producers, and more. There’s also an extra-special guest appearance for this week’s One Cool Thing. In the bonus segment for premium subscribers, Craig discusses how to be wrong—something he feels he knows all too \[…\]
-
-The post [Craig Takes Questions](https://johnaugust.com/2026/craig-takes-questions) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=24014</guid>
-      <category>Scriptnotes</category>
     </item>
   </channel>
 </rss>

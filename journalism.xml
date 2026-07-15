@@ -4,10 +4,150 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>14 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>15 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Gallery: LACMA, Jeffrey Deitch host 1st-ever Los Angeles Art Parade on Wilshire Boulevard</title>
+      <link>https://dailybruin.com/2026/07/14/gallery-lacma-jeffrey-deitch-host-1st-ever-los-angeles-art-parade-on-wilshire-boulevard/</link>
+      <description>
+        <![CDATA[The Los Angeles County Museum of Art has declared art is off the walls.&#160;
+        The first-ever Los Angeles Art Parade took place along Wilshire Boulevard’s Museum Row on June 20.]]>
+      </description>
+      <source:markdown>The Los Angeles County Museum of Art has declared art is off the walls.
+The first-ever Los Angeles Art Parade took place along Wilshire Boulevard’s Museum Row on June 20.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513234</guid>
+      <category>Arts: In Focus</category>
+      <category>Daily Bruin: In Focus</category>
+      <category>db-story-m1</category>
+    </item>    <item>
+      <title>UC Academic Senate to decide on recommending SAT, ACT reinstatement by June 2027</title>
+      <link>https://dailybruin.com/2026/07/14/uc-academic-senate-to-decide-on-recommending-sat-act-reinstatement-by-june-2027/</link>
+      <description>
+        <![CDATA[The UC Academic Senate will decide whether or not to recommend reinstating standardized testing requirements for undergraduate admissions by June 2027, the UC Board of Regents announced Tuesday.&#160;
+        UC Regents Chair Maria Anguiano announced the decision during its July meeting at UC San Francisco.]]>
+      </description>
+      <source:markdown>The UC Academic Senate will decide whether or not to recommend reinstating standardized testing requirements for undergraduate admissions by June 2027, the UC Board of Regents announced Tuesday.
+UC Regents Chair Maria Anguiano announced the decision during its July meeting at UC San Francisco.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513272</guid>
+      <category>Higher Education</category>
+      <category>News</category>
+      <category>UC</category>
+      <category>breaking</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>Gallery: BelicoFest makes California debut at BMO Stadium, celebrates música mexicana</title>
+      <link>https://dailybruin.com/2026/07/14/gallery-belicofest-makes-california-debut-at-bmo-stadium-celebrates-musica-mexicana/</link>
+      <description>
+        <![CDATA[BelicoFest set foot in California with headliner Tito Double P at BMO Stadium on Sunday night.
+        For The Culture co-founders Ramiro Bojorquez and Andrés Charvel – the latter of whom is responsible for promoting some of Shakira’s Mexico performances – brought rising regional Mexican talent to the United States with the first BelicoFest in Arizona in 2024.]]>
+      </description>
+      <source:markdown>BelicoFest set foot in California with headliner Tito Double P at BMO Stadium on Sunday night.
+For The Culture co-founders Ramiro Bojorquez and Andrés Charvel – the latter of whom is responsible for promoting some of Shakira’s Mexico performances – brought rising regional Mexican talent to the United States with the first BelicoFest in Arizona in 2024.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513246</guid>
+      <category>Arts: In Focus</category>
+      <category>Daily Bruin: In Focus</category>
+      <category>db-story-m1</category>
+    </item>    <item>
+      <title>Opinion: America at 250: Celebrating our diverse culture, reflecting on our shared identity</title>
+      <link>https://dailybruin.com/2026/07/14/opinion-america-at-250-celebrating-our-diverse-culture-reflecting-on-our-shared-identity/</link>
+      <description>
+        <![CDATA[Monumental birthdays are cause for grand celebrations, but they are also ripe for reflection.
+        Every milestone brings about renewed hope for the future and insight into the past.]]>
+      </description>
+      <source:markdown>Monumental birthdays are cause for grand celebrations, but they are also ripe for reflection.
+Every milestone brings about renewed hope for the future and insight into the past.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513240</guid>
+      <category>Opinion</category>
+      <category>Opinion Columns</category>
+      <category>db-story-c2</category>
+      <category>db-story-op</category>
+    </item>    <item>
+      <title>Jordan Roiland named 2027-28 UC student regent, first medical student to serve</title>
+      <link>https://dailybruin.com/2026/07/14/jordan-roiland-named-2027-28-uc-student-regent-first-medical-student-to-serve/</link>
+      <description>
+        <![CDATA[<em>This post was updated July 14 at 2:01 p.m.</em>
+        The UC Board of Regents appointed Jordan Roiland to be the 2027-28 student regent Tuesday.&#160;
+        Roiland, who is the first medical student to serve in the role, earned a bachelor’s degree in applied mathematics &#38; statistics and biochemistry from Stony Brook University and earned a Master of Science in Health and Medical Sciences from UC Berkeley in 2025.]]>
+      </description>
+      <source:markdown>_This post was updated July 14 at 2:01 p.m._
+The UC Board of Regents appointed Jordan Roiland to be the 2027-28 student regent Tuesday.
+Roiland, who is the first medical student to serve in the role, earned a bachelor’s degree in applied mathematics &#38; statistics and biochemistry from Stony Brook University and earned a Master of Science in Health and Medical Sciences from UC Berkeley in 2025.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513235</guid>
+      <category>Higher Education</category>
+      <category>News</category>
+      <category>UC</category>
+      <category>breaking</category>
+      <category>db-story-a</category>
+    </item>    <item>
+      <title>One name at a time: How Die Zeit built a searchable database of Nazi Party members</title>
+      <link>https://www.niemanlab.org/2026/07/one-name-at-a-time-how-die-zeit-built-a-searchable-database-of-nazi-party-members/</link>
+      <description>
+        <![CDATA[In the final days of World War II, as the German Reich collapsed, Nazi officials ordered millions of party membership cards to be destroyed. The vast card index that documented membership across Germany survived largely because a paper mill operator, Hanns Huber, chose to hand the records over to the advancing US forces rather than...]]>
+      </description>
+      <source:markdown>In the final days of World War II, as the German Reich collapsed, Nazi officials ordered millions of party membership cards to be destroyed. The vast card index that documented membership across Germany survived largely because a paper mill operator, Hanns Huber, chose to hand the records over to the advancing US forces rather than...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=251588</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>AI</category>
+      <category>Andreas Loos</category>
+      <category>Die Zeit</category>
+      <category>Germany</category>
+      <category>Gregor Aisch</category>
+      <category>Jürgen Falter</category>
+      <category>Nazi Party</category>
+    </item>    <item>
+      <title>In Ethiopia, fact-checking can be a matter of life and death</title>
+      <link>https://www.niemanlab.org/2026/07/in-ethiopia-fact-checking-can-be-a-matter-of-life-and-death/</link>
+      <description>
+        <![CDATA[As reports of drone strikes and fresh clashes between Ethiopian government forces and Tigrayan fighters surfaced in late January, fears of a return to full-scale war spread quickly. Flights to northern Ethiopia were cancelled, and tensions rose ahead of the national elections in June, bringing renewed attention to the role misinformation played during the last conflict. In...]]>
+      </description>
+      <source:markdown>As reports of drone strikes and fresh clashes between Ethiopian government forces and Tigrayan fighters surfaced in late January, fears of a return to full-scale war spread quickly. Flights to northern Ethiopia were cancelled, and tensions rose ahead of the national elections in June, bringing renewed attention to the role misinformation played during the last conflict. In...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=251574</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>Addis Maleda</category>
+      <category>Ermias Mulugeta</category>
+      <category>Ethiopia</category>
+      <category>Ethiopian Media Authority</category>
+      <category>HaqCheck</category>
+      <category>ICFN</category>
+      <category>Inform Africa</category>
+      <category>Muthoki Mumo</category>
+      <category>press freedom</category>
+      <category>Rehobot Ayalew</category>
+      <category>Tigray</category>
+    </item>    <item>
+      <title>Capital B is ready to open a third local news operation — about two hours east of its first one</title>
+      <link>https://www.niemanlab.org/2026/07/capital-b-is-ready-to-open-a-third-local-news-operation-about-two-hours-east-of-its-first-one/</link>
+      <description>
+        <![CDATA[The Black-focused national-and-local news outlet Capital B launched in 2022 with a staff of 16 and a first local focus on Atlanta, with plans to expand. Co-founders Lauren Williams and Akoto Ofori-Atta — then editor-in-chief of Vox and managing editor of The Trace, respectively — were looking for &#8220;large Black cities that have especially bad...]]>
+      </description>
+      <source:markdown>The Black-focused national-and-local news outlet Capital B launched in 2022 with a staff of 16 and a first local focus on Atlanta, with plans to expand. Co-founders Lauren Williams and Akoto Ofori-Atta — then editor-in-chief of Vox and managing editor of The Trace, respectively — were looking for “large Black cities that have especially bad...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=251563</guid>
+      <category>Link post</category>
+      <category>Akoto Ofori-Atta</category>
+      <category>Atlanta</category>
+      <category>Augusta</category>
+      <category>Capital B</category>
+      <category>Gary</category>
+      <category>Lauren Williams</category>
+    </item>    <item>
+      <title>TV preview: Summer shows bring action, book adaptations to the small screen</title>
+      <link>https://dailybruin.com/2026/07/14/tv-preview-summer-shows-bring-action-book-adaptations-to-the-small-screen/</link>
+      <description>
+        <![CDATA[<em>This post was updated July 14 at 6:22 p.m.</em>
+        The small screen is set to stay sizzling all summer.
+        Clear skies and sunshine promise a slate of returning and premiering shows, some newly released and some upcoming, ranging from frontier journeys to female-centered crime thrillers.]]>
+      </description>
+      <source:markdown>_This post was updated July 14 at 6:22 p.m._
+The small screen is set to stay sizzling all summer.
+Clear skies and sunshine promise a slate of returning and premiering shows, some newly released and some upcoming, ranging from frontier journeys to female-centered crime thrillers.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513192</guid>
+      <category>Arts Columns</category>
+      <category>Film &#38; TV</category>
+      <category>db-story-d2</category>
+    </item>    <item>
       <title>Lab coats provide safety at a steep cost. Friends, student organizations can help</title>
       <link>https://dailybruin.com/2026/07/14/lab-coats-provide-safety-at-a-steep-cost-friends-student-organizations-can-help/</link>
       <description>
@@ -68,7 +208,7 @@ Teamsters Local 2010’s Clerical &#38; Allied Services CX unit – which repres
       <category>Higher Education</category>
       <category>News</category>
       <category>breaking</category>
-      <category>db-story-c1</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>Raising Cane’s opens Westwood location after three-year wait</title>
       <link>https://dailybruin.com/2026/07/13/raising-canes-opens-westwood-location-after-three-year-wait/</link>
@@ -148,7 +288,7 @@ Cal Randall: St.</source:markdown>
       <category>Baseball</category>
       <category>Sports</category>
       <category>breaking</category>
-      <category>db-story-c2</category>
+      <category>db-story-f1</category>
       <category>MLB Draft 2026</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Michigan State</title>
@@ -175,7 +315,7 @@ UCLA is set to enter its third season in the Big Ten, following a sophomore camp
       <category>Editorials</category>
       <category>Opinion</category>
       <category>Opinion Columns</category>
-      <category>db-story-b</category>
+      <category>db-story-i</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>Amid student concerns, Bruin One Access to increase to $149 per quarter</title>
@@ -191,7 +331,7 @@ UCLA is raising the quarterly fee for its digital textbook program, which studen
       <category>Academics</category>
       <category>Campus</category>
       <category>News</category>
-      <category>db-story-f1</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>Will Gasparino goes No. 161 in MLB draft for Phillies</title>
       <link>https://dailybruin.com/2026/07/12/will-gasparino-goes-no-161-in-mlb-draft-for-phillies/</link>
@@ -205,7 +345,6 @@ Center fielder Will Gasparino was selected by the Philadelphia Phillies in the f
       <category>Baseball</category>
       <category>Sports</category>
       <category>breaking</category>
-      <category>db-story-g</category>
       <category>MLB Draft 2026</category>
     </item>    <item>
       <title>Album review: Future falls short in truly unmasking himself in ‘The Real Me’</title>
@@ -220,7 +359,7 @@ Center fielder Will Gasparino was selected by the Philadelphia Phillies in the f
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Music</category>
-      <category>db-story-i</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Roman Martin goes No. 111 in MLB Draft to Athletics</title>
       <link>https://dailybruin.com/2026/07/11/roman-martin-goes-no-111-in-mlb-draft-to-athletics/</link>
@@ -1902,75 +2041,6 @@ The post [Unpaid summer internships are twisted class filters](https://dailytroj
       <source:markdown>_This post was updated June 23 at 7:27 p.m._
 Just a day after former Michigan head coach Dusty May left college basketball for the NBA, three of his players – one a former Bruin – will make the professional jump with him.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=512478</guid>
-    </item>    <item>
-      <title>The British government wants to force more trustworthy news into your doomscrolling</title>
-      <link>https://www.niemanlab.org/2026/06/the-british-government-wants-to-force-more-trustworthy-news-into-your-doomscrolling/</link>
-      <description>
-        <![CDATA[The British government is asking social media companies to put more news — real news, produced by public service broadcasters like the BBC — high up in people&#8217;s feeds. And if companies refuse, it&#8217;ll pass laws to require it. That&#8217;s the main takeaway from a new report issued Tuesday on a host of issues relating...]]>
-      </description>
-      <source:markdown>The British government is asking social media companies to put more news — real news, produced by public service broadcasters like the BBC — high up in people’s feeds. And if companies refuse, it’ll pass laws to require it. That’s the main takeaway from a new report issued Tuesday on a host of issues relating...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251067</guid>
-      <category>Link post</category>
-      <category>algorithms</category>
-      <category>Andy Burnham</category>
-      <category>BBC</category>
-      <category>British press</category>
-      <category>Channel 4</category>
-      <category>Facebook</category>
-      <category>feeds</category>
-      <category>Instagram</category>
-      <category>ITV</category>
-      <category>Keir Starmer</category>
-      <category>media law</category>
-      <category>Ofcom</category>
-      <category>Snapchat</category>
-      <category>social media</category>
-      <category>tiktok</category>
-      <category>Twitter</category>
-      <category>YouTube</category>
-    </item>    <item>
-      <title>The use of AI chatbots for news is on the rise — but not everywhere</title>
-      <link>https://www.niemanlab.org/2026/06/the-use-of-ai-chatbots-for-news-is-on-the-rise-but-not-everywhere/</link>
-      <description>
-        <![CDATA[This year&#8217;s Digital News Report marked a notable milestone: for the first time, social and video networks overtook news publishers as a source of news globally. As audiences continue to migrate toward digital intermediaries for news, AI chatbots are emerging as the next platform to watch. Findings from our 2026 survey show that one in...]]>
-      </description>
-      <source:markdown>This year’s Digital News Report marked a notable milestone: for the first time, social and video networks overtook news publishers as a source of news globally. As audiences continue to migrate toward digital intermediaries for news, AI chatbots are emerging as the next platform to watch. Findings from our 2026 survey show that one in...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251059</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>AI</category>
-      <category>Digital News Report 2026</category>
-      <category>Reuters Institute for the Study of Journalism</category>
-      <category>risj</category>
-    </item>    <item>
-      <title>Editorial Cartoon: “if there only were a second one”</title>
-      <link>https://dailybruin.com/2026/06/23/editorial-cartoon-if-there-only-were-a-second-one/</link>
-      <description>
-        <![CDATA[&#160;]]>
-      </description>
-      <guid>cid://https://dailybruin.com/?p=512472</guid>
-    </item>    <item>
-      <title>Dizon’s Disposition: John Savage’s nuanced stance on college baseball</title>
-      <link>https://dailybruin.com/2026/06/22/dizons-disposition-john-savages-nuanced-stance-on-college-baseball/</link>
-      <description>
-        <![CDATA[A high school senior in Reno, Nevada, threw 24 consecutive no-hit innings in 1983. 
-        The right-hander finished the year with a 1.16 ERA, and the New York Yankees came calling in June.]]>
-      </description>
-      <source:markdown>A high school senior in Reno, Nevada, threw 24 consecutive no-hit innings in 1983.
-The right-hander finished the year with a 1.16 ERA, and the New York Yankees came calling in June.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512465</guid>
-    </item>    <item>
-      <title>Alilah Alvarado transfers from BYU to UCLA gymnastics for final season</title>
-      <link>https://dailybruin.com/2026/06/22/alilah-alvarado-transfers-from-byu-to-ucla-gymnastics-for-final-season/</link>
-      <description>
-        <![CDATA[<em>This post was updated June 23 at 1:39 p.m.</em>
-        UCLA gymnastics landed its first transfer of the offseason Monday.&#160;
-        Rising senior Alilah Alvarado announced her move from Provo, Utah, to Westwood on Instagram.]]>
-      </description>
-      <source:markdown>_This post was updated June 23 at 1:39 p.m._
-UCLA gymnastics landed its first transfer of the offseason Monday.
-Rising senior Alilah Alvarado announced her move from Provo, Utah, to Westwood on Instagram.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512461</guid>
     </item>
   </channel>
 </rss>
