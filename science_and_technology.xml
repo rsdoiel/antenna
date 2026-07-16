@@ -4,10 +4,242 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>16 Jul 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</link>
+      <description>
+        <![CDATA[Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can sign up without a waitlist. [&#8230;]]]>
+      </description>
+      <source:markdown>Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can sign up without a waitlist. \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96182</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>Ontario Wildfire Smoke Moves East</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/</link>
+      <description>
+        <![CDATA[Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.]]>
+      </description>
+      <source:markdown>Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/</guid>
+      <category>Air Quality</category>
+      <category>Earth Observatory</category>
+      <category>NOAA-21 (JPSS-2)</category>
+      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
+      <category>Wildfires</category>
+    </item>    <item>
+      <title>Forgejo v16.0 is available</title>
+      <link>https://forgejo.org/2026-07-release-v16-0/</link>
+      <description>
+        <![CDATA[Forgejo v16.0 is available. Repository watch now has options. Authorized Integrations allow secret-less access to the API. Review comments can be placed on multiple lines of code. Improved security of pull mirrors.]]>
+      </description>
+      <source:markdown>Forgejo v16.0 is available. Repository watch now has options. Authorized Integrations allow secret-less access to the API. Review comments can be placed on multiple lines of code. Improved security of pull mirrors.</source:markdown>
+      <guid>cid://https://forgejo.org/2026-07-release-v16-0/</guid>
+    </item>    <item>
+      <title>NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI</title>
+      <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
+      <description>
+        <![CDATA[General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI [&#8230;]]]>
+      </description>
+      <source:markdown>General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge.  To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96146</guid>
+      <category>Robotics</category>
+      <category>Cosmos</category>
+      <category>Jetson</category>
+      <category>Nemotron</category>
+    </item>    <item>
+      <title>Jurassic Park computers in excruciating detail</title>
+      <link>https://www.osnews.com/story/145526/jurassic-park-computers-in-excruciating-detail/</link>
+      <description>
+        <![CDATA[After I mentioned a Jurassic Park anecdote the other day, I watched the movie again. I must have seen it at least ten times now. This time, I researched every computer/software I spotted. ↫ Fabien Sanglard We are all aware of the infamous &#8220;This is a UNIX system, I know this!&#8221; meme, but many more computers make their appearance in Jurassic Park, and Fabien Sanglard documents all of them. Apparently, there&#8217;s even a Motorla Envoy running Magic Cap on Dennis Nedry&#8217;s desk, which I almost find more exciting than the SGI powerhouses he uses. What&#8217;s also quite interesting &#8211; but not surprising &#8211; is that all of the computers used in the movie were real. The value of all of this hardware combined, when adjusted for inflation, adds up to about $4 million. A lot of money, but don&#8217;t you worry your pretty little heart, as SGI and Apple all loaned this hardware to the studio. They didn&#8217;t have to pay anything for it.]]>
+      </description>
+      <source:markdown>After I mentioned a Jurassic Park anecdote the other day, I watched the movie again. I must have seen it at least ten times now. This time, I researched every computer/software I spotted. ↫ Fabien Sanglard We are all aware of the infamous “This is a UNIX system, I know this!” meme, but many more computers make their appearance in Jurassic Park, and Fabien Sanglard documents all of them. Apparently, there’s even a Motorla Envoy running Magic Cap on Dennis Nedry’s desk, which I almost find more exciting than the SGI powerhouses he uses. What’s also quite interesting – but not surprising – is that all of the computers used in the movie were real. The value of all of this hardware combined, when adjusted for inflation, adds up to about $4 million. A lot of money, but don’t you worry your pretty little heart, as SGI and Apple all loaned this hardware to the studio. They didn’t have to pay anything for it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145526</guid>
+      <category>Hardware</category>
+    </item>    <item>
+      <title>NASA Uses Subscale Aircraft to Accelerate Flight Innovation</title>
+      <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/</link>
+      <description>
+        <![CDATA[Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, supports this mission by using small, remotely piloted and autonomous aircraft as cost‑effective platforms to mature innovative ideas, accelerate learning, [&#8230;]]]>
+      </description>
+      <source:markdown>Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, supports this mission by using small, remotely piloted and autonomous aircraft as cost‑effective platforms to mature innovative ideas, accelerate learning, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1017971</guid>
+      <category>Armstrong Flight Research Center</category>
+      <category>Aeronautics</category>
+      <category>Flight Innovation</category>
+    </item>    <item>
+      <title>Twitter’s “AI” translate feature is deep into hardcore pornography</title>
+      <link>https://www.osnews.com/story/145523/twitters-ai-translate-feature-is-deep-into-hardcore-pornography/</link>
+      <description>
+        <![CDATA[As a former translator with two rock-solid university degrees in the subject, there was never a universe in which I would not talk about Twitter&#8217;s new autotranslation feature turning the tamest things into hardcore pornography. Elon Musk’s AI chatbot Grok has long garnered a reputation for experiencing horrifically racist meltdowns, enabling child abuse, and doxxing users’ home addresses. It should come as no surprise, then, that its supposed “translation” is a piece of work, too. In April, the almost-trillionaire’s social media platform X instated automatic AI translations for all of its users — and the results certainly speak for themselves. As writer and author Parker Molloy pointed out in a recent post on Bluesky, the Grok feature is “taking some interesting liberties” with people’s otherwise sincere posts. Screenshots show how Grok completely botched translations by coming up with shocking and decidedly NSFW AI hallucinations. ↫ Victor Tangermann at Futurism The sloppy translations this garbage software comes up with are honestly quite hilarious when taken in isolation. It&#8217;s adding translations that are straight-up hardcore pornography descriptions to entirely tame material that has absolutely nothing to do with pornography. The description of a video of some guy making coffee is translated into &#8220;man masturbates and jerks off to his own coffee during commercial flight&#8221;. We all know how this happened. There&#8217;s a lot of pornography on the internet, and Grok being the worst autocomplete among autocompletes, it was probably fed a lot of pornography, without any limitations or guardrails. The end result is obvious: some random videogame video is now a &#8220;cumshot video with my stepmom&#8221;. It would be absolutely hilarious if it wasn&#8217;t horribly dangerous. I&#8217;ve explained countless times that &#8220;AI&#8221;-based translations are going to get people killed &#8211; probably already have, but we just don&#8217;t realise it yet &#8211; and it&#8217;s not hard to see how a slopmachine turning innocuous things into hardcore pornography can do just that. There are countless places in the world where a woman unknowingly sending a pornographic message to her parents or whatever can get her hurt &#8211; or worse. I hadn&#8217;t even considered this particular way &#8220;AI&#8221; translations could get people hurt. Sadly, we will most likely never know the full extent to which &#8220;AI&#8221; translations will get people hurt and killed. When your grandmother takes her medicine in the wrong way because the &#8220;AI&#8221;-translated leaflet was unclear or downright wrong, and she ends up in the hospital because of it, will you ever find out what caused it?]]>
+      </description>
+      <source:markdown>As a former translator with two rock-solid university degrees in the subject, there was never a universe in which I would not talk about Twitter’s new autotranslation feature turning the tamest things into hardcore pornography. Elon Musk’s AI chatbot Grok has long garnered a reputation for experiencing horrifically racist meltdowns, enabling child abuse, and doxxing users’ home addresses. It should come as no surprise, then, that its supposed “translation” is a piece of work, too. In April, the almost-trillionaire’s social media platform X instated automatic AI translations for all of its users — and the results certainly speak for themselves. As writer and author Parker Molloy pointed out in a recent post on Bluesky, the Grok feature is “taking some interesting liberties” with people’s otherwise sincere posts. Screenshots show how Grok completely botched translations by coming up with shocking and decidedly NSFW AI hallucinations. ↫ Victor Tangermann at Futurism The sloppy translations this garbage software comes up with are honestly quite hilarious when taken in isolation. It’s adding translations that are straight-up hardcore pornography descriptions to entirely tame material that has absolutely nothing to do with pornography. The description of a video of some guy making coffee is translated into “man masturbates and jerks off to his own coffee during commercial flight”. We all know how this happened. There’s a lot of pornography on the internet, and Grok being the worst autocomplete among autocompletes, it was probably fed a lot of pornography, without any limitations or guardrails. The end result is obvious: some random videogame video is now a “cumshot video with my stepmom”. It would be absolutely hilarious if it wasn’t horribly dangerous. I’ve explained countless times that “AI”-based translations are going to get people killed – probably already have, but we just don’t realise it yet – and it’s not hard to see how a slopmachine turning innocuous things into hardcore pornography can do just that. There are countless places in the world where a woman unknowingly sending a pornographic message to her parents or whatever can get her hurt – or worse. I hadn’t even considered this particular way “AI” translations could get people hurt. Sadly, we will most likely never know the full extent to which “AI” translations will get people hurt and killed. When your grandmother takes her medicine in the wrong way because the “AI”-translated leaflet was unclear or downright wrong, and she ends up in the hospital because of it, will you ever find out what caused it?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145523</guid>
+      <category>Clown car</category>
+    </item>    <item>
+      <title>The web is being made accessible for AI, not people</title>
+      <link>https://www.osnews.com/story/145521/the-web-is-being-made-accessible-for-ai-not-people/</link>
+      <description>
+        <![CDATA[The Svelte web framework recently added a section to its documentation site addressed, cheerfully, to artificial intelligences: “If you’re an artificial intelligence, or trying to teach one how to use Svelte, we offer the documentation in plaintext format. Beep boop.” Svelte is participating in a broader movement to make the web legible and navigable to AI systems. The specific convention it adopted, llms.txt, is just one piece of this effort. From Model Context Protocol (MCP) servers that give AI agents structured access to tools and services, to Vercel’s proposal to include LLM instructions in HTML, the trend is clear. The modern web, originally built for sighted humans using browsers, is now being redesigned for a new kind of user. What these developers are offering their AI visitors is essentially an accessibility accommodation. Yet, the framing on Svelte’s site sends an unfortunate message. When the audience is AI, accommodation is offered with a wink. Beep boop! But when the audience is a disabled person, it has historically been treated as an afterthought. Structured, concise text-based representations of complex content are almost exactly the kind of accommodation that blind and low-vision screen reader users have spent decades requesting from web developers, largely in vain. The Web Content Accessibility Guidelines (WCAG) have required semantic, machine-readable HTML for decades. Yet, a 2026 study of the top million webpages found accessibility flaws in over 95% of sites. ↫ Frank Elavsky at Tech Policy Press Pachinko machines are treated more humanely than people with disabilities. Yep, sounds about Silicon Valley to me.]]>
+      </description>
+      <source:markdown>The Svelte web framework recently added a section to its documentation site addressed, cheerfully, to artificial intelligences: “If you’re an artificial intelligence, or trying to teach one how to use Svelte, we offer the documentation in plaintext format. Beep boop.” Svelte is participating in a broader movement to make the web legible and navigable to AI systems. The specific convention it adopted, llms.txt, is just one piece of this effort. From Model Context Protocol (MCP) servers that give AI agents structured access to tools and services, to Vercel’s proposal to include LLM instructions in HTML, the trend is clear. The modern web, originally built for sighted humans using browsers, is now being redesigned for a new kind of user. What these developers are offering their AI visitors is essentially an accessibility accommodation. Yet, the framing on Svelte’s site sends an unfortunate message. When the audience is AI, accommodation is offered with a wink. Beep boop! But when the audience is a disabled person, it has historically been treated as an afterthought. Structured, concise text-based representations of complex content are almost exactly the kind of accommodation that blind and low-vision screen reader users have spent decades requesting from web developers, largely in vain. The Web Content Accessibility Guidelines (WCAG) have required semantic, machine-readable HTML for decades. Yet, a 2026 study of the top million webpages found accessibility flaws in over 95% of sites. ↫ Frank Elavsky at Tech Policy Press Pachinko machines are treated more humanely than people with disabilities. Yep, sounds about Silicon Valley to me.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145521</guid>
+      <category>Clown car</category>
+    </item>    <item>
+      <title>Once the World’s Biggest Passenger Ship, This Metal Marvel That Crossed the Atlantic and Took Immigrants to Australia Has a New Museum Home</title>
+      <link>https://www.smithsonianmag.com/smart-news/once-the-worlds-biggest-passenger-ship-this-metal-marvel-the-ss-great-britain-that-crossed-the-atlantic-and-took-immigrants-to-australia-has-a-new-museum-home-180989130/</link>
+      <description>
+        <![CDATA[A new museum dedicated to stories surrounding the S.S. "Great Britain" is about to open in Bristol, where the ship is permanently dry-docked]]>
+      </description>
+      <source:markdown>A new museum dedicated to stories surrounding the S.S. &#34;Great Britain&#34; is about to open in Bristol, where the ship is permanently dry-docked</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j8YgHQQyzLFVUrAYrF883e3Gr5U=/420x240/filters:focal(996x664:997x665)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/0b/340b17a0-a638-4d15-9a45-0e7fa4f85d2c/485359586_1086422420196475_1356086387403732802_n.jpeg" length="1361808" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/once-the-worlds-biggest-passenger-ship-this-metal-marvel-the-ss-great-britain-that-crossed-the-atlantic-and-took-immigrants-to-australia-has-a-new-museum-home-180989130/</guid>
+    </item>    <item>
+      <title>Scientists Ranked Hundreds of Spider Species by Running Speed. Australia&#39;s Huge, Hairy Brown Huntsman Came Out on Top</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-ranked-hundreds-of-spider-species-by-running-speed-australias-huge-hairy-brown-huntsman-came-out-on-top-180989132/</link>
+      <description>
+        <![CDATA[The brown huntsman can sprint at a maximum speed of eight miles per hour, although it can only maintain that pace for a fraction of a second. The research will lead to a better understanding of the evolution and biomechanics of arachnids]]>
+      </description>
+      <source:markdown>The brown huntsman can sprint at a maximum speed of eight miles per hour, although it can only maintain that pace for a fraction of a second. The research will lead to a better understanding of the evolution and biomechanics of arachnids</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iwkTlC1Rf26-enuRoDAZmafb5wc=/420x240/filters:focal(960x695:961x696)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/f3/9df3e6fc-5c7b-48c3-b188-7178945996ac/huntsman_inside_lampshade.jpg" length="522421" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-ranked-hundreds-of-spider-species-by-running-speed-australias-huge-hairy-brown-huntsman-came-out-on-top-180989132/</guid>
+    </item>    <item>
+      <title>Astronomers Noticed a Mysterious Spot Appearing in Telescope Images. It Turned Out to Be the Faintest Exoplanet Ever Imaged From Earth</title>
+      <link>https://www.smithsonianmag.com/smart-news/astronomers-noticed-a-mysterious-spot-appearing-in-telescope-images-it-turned-out-to-be-the-faintest-exoplanet-ever-imaged-from-earth-180989133/</link>
+      <description>
+        <![CDATA[The gas giant, called Beta Pictoris d, had been hiding in plain sight for more than a decade, until two independent teams verified its existence]]>
+      </description>
+      <source:markdown>The gas giant, called Beta Pictoris d, had been hiding in plain sight for more than a decade, until two independent teams verified its existence</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rnLs9P4AErWm2zv27n0erorh8NY=/420x240/filters:focal(1664x1097:1665x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/04/1804a2ba-72c0-44ff-8846-30f5b46b3834/stsci-01kx448cebrhbbjw579ag64g0h.jpg" length="141127" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/astronomers-noticed-a-mysterious-spot-appearing-in-telescope-images-it-turned-out-to-be-the-faintest-exoplanet-ever-imaged-from-earth-180989133/</guid>
+    </item>    <item>
+      <title>NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids</title>
+      <link>https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/</link>
+      <description>
+        <![CDATA[A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system.]]>
+      </description>
+      <source:markdown>A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system.</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/</guid>
+      <category>Ames Research Center</category>
+      <category>Asteroids</category>
+      <category>Astromaterials</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Johnson Space Center</category>
+      <category>Meteors &#38; Meteorites</category>
+    </item>    <item>
+      <title>How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings</title>
+      <link>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/</link>
+      <description>
+        <![CDATA[Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Data from that mission, along with future uncrewed demonstration missions at the Moon, [&#8230;]]]>
+      </description>
+      <source:markdown>Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Data from that mission, along with future uncrewed demonstration missions at the Moon, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1017820</guid>
+      <category>Human Landing System Program</category>
+      <category>Artemis</category>
+      <category>Artemis 3</category>
+      <category>Marshall Space Flight Center</category>
+    </item>    <item>
+      <title>Anil Menon Launches to Space Station</title>
+      <link>https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/</link>
+      <description>
+        <![CDATA[NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at the Baikonur Cosmodrome in Kazakhstan. The trio lifted off for the Soyuz MS-29 mission at 7:47 p.m. local [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at the Baikonur Cosmodrome in Kazakhstan. The trio lifted off for the Soyuz MS-29 mission at 7:47 p.m. local \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1017802</guid>
+    </item>    <item>
+      <title>A.I. Music Is Already Here. To Protect Human Artists, the Record Industry Proposes New Labels, Like Those for Explicit Lyrics</title>
+      <link>https://www.smithsonianmag.com/smart-news/ai-music-is-already-here-to-protect-human-artists-the-record-industry-proposes-labels-for-it-like-those-for-explicit-lyrics-180989128/</link>
+      <description>
+        <![CDATA[The proposal comes as A.I.-generated music makes up an increasing share of what’s available on streaming platforms]]>
+      </description>
+      <source:markdown>The proposal comes as A.I.-generated music makes up an increasing share of what’s available on streaming platforms</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4F2B96KayelmQ8mRaOHoQrnBKoU=/420x240/filters:focal(1580x993:1581x994)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/36/e4361ac6-30ab-444f-9288-ac252ac60ea0/among_friends__the_lindenberg_player_piano_postcard_-_dpla_-f34652e74335cf4124fc41e169539f52.jpg" length="1679918" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/ai-music-is-already-here-to-protect-human-artists-the-record-industry-proposes-labels-for-it-like-those-for-explicit-lyrics-180989128/</guid>
+    </item>    <item>
+      <title>Curiosity Finds Evidence of an Ancient Sandstorm</title>
+      <link>https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/</link>
+      <description>
+        <![CDATA[Description Billions of years ago, an hours-long Martian sandstorm blew so intensely that sand ripples began to climb upon one another as they moved across the surface. These layers of sediment eventually hardened into the multilayered rocks seen in this image, which was taken by NASA’s Curiosity rover on Dec. 12, 2024, the 4,391st Martian […]]]>
+      </description>
+      <source:markdown>Description Billions of years ago, an hours-long Martian sandstorm blew so intensely that sand ripples began to climb upon one another as they moved across the surface. These layers of sediment eventually hardened into the multilayered rocks seen in this image, which was taken by NASA’s Curiosity rover on Dec. 12, 2024, the 4,391st Martian \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/</guid>
+      <category>Mars Science Laboratory (MSL)</category>
+      <category>Photojournal</category>
+    </item>    <item>
+      <title>NASA’s Perseverance Rover Provides Sweeping View of Broom Point</title>
+      <link>https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/</link>
+      <description>
+        <![CDATA[Description This view looking back up at the outside lip of the 490-foot-tall (150-meter-tall) rim of Jezero Crater was taken by the Mastcam-Z instrument aboard NASA’s Perseverance on May 15, 2025, the 1,505th day, or sol, of the rover’s mission to Mars.   The bright-colored rocks exposed across the slope, running from middle left to middle right of […]]]>
+      </description>
+      <source:markdown>Description This view looking back up at the outside lip of the 490-foot-tall (150-meter-tall) rim of Jezero Crater was taken by the Mastcam-Z instrument aboard NASA’s Perseverance on May 15, 2025, the 1,505th day, or sol, of the rover’s mission to Mars.   The bright-colored rocks exposed across the slope, running from middle left to middle right of \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/</guid>
+    </item>    <item>
+      <title>Ancient Egyptians Believed That These Newly Discovered Gold Tongues Allowed the Dead to Communicate in the Afterlife</title>
+      <link>https://www.smithsonianmag.com/smart-news/ancient-egyptians-believed-that-these-newly-discovered-gold-tongues-allowed-the-dead-to-communicate-in-the-afterlife-180989127/</link>
+      <description>
+        <![CDATA[Excavations at Marina el-Alamein, an archaeological site west of Alexandria, unearthed about two dozen of the rare artifacts, including one shaped like the Eye of Horus]]>
+      </description>
+      <source:markdown>Excavations at Marina el-Alamein, an archaeological site west of Alexandria, unearthed about two dozen of the rare artifacts, including one shaped like the Eye of Horus</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hZKPl1ZzKQZPyQfyZzR2VaGrWT0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fe/d8/fed80326-64d2-4127-99a2-e8a7c60fe82c/gold-tongues.png" length="906763" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/ancient-egyptians-believed-that-these-newly-discovered-gold-tongues-allowed-the-dead-to-communicate-in-the-afterlife-180989127/</guid>
+    </item>    <item>
+      <title>Perseverance’s Trip to ‘Broom Point’</title>
+      <link>https://science.nasa.gov/photojournal/perseverances-trip-to-broom-point/</link>
+      <description>
+        <![CDATA[Description This orbital map shows the path NASA’s Perseverance Mars rover took to get to a location the science team has dubbed the “Broom Point member,” a sequence of layered bedrock likely more than 3.9 billion years old. As planned, the rover landed inside Jezero Crater on Feb. 18, 2021. It investigated the crater’s western delta […]]]>
+      </description>
+      <source:markdown>Description This orbital map shows the path NASA’s Perseverance Mars rover took to get to a location the science team has dubbed the “Broom Point member,” a sequence of layered bedrock likely more than 3.9 billion years old. As planned, the rover landed inside Jezero Crater on Feb. 18, 2021. It investigated the crater’s western delta \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/perseverances-trip-to-broom-point/</guid>
+      <category>Mars 2020</category>
+      <category>Mars Reconnaissance Orbiter (MRO)</category>
+      <category>Photojournal</category>
+    </item>    <item>
+      <title>In a First, Scientists Witness the Seafloor Spread in Real Time, Giving Them a Rare Glimpse at a Mysterious Geologic Process</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-scientists-witness-the-seafloor-spread-in-real-time-giving-them-a-rare-glimpse-at-a-mysterious-geologic-process-180989123/</link>
+      <description>
+        <![CDATA[Across a matter of days in 2024, the seafloor in part of the Indian Ocean dropped by about 13 feet, and roughly 5.7 billion cubic feet of molten rock rose to the crust's surface, according to a new study]]>
+      </description>
+      <source:markdown>Across a matter of days in 2024, the seafloor in part of the Indian Ocean dropped by about 13 feet, and roughly 5.7 billion cubic feet of molten rock rose to the crust&#39;s surface, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wWnZrePmH1V9zsGutjEMj6O8SiI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/13/e013da54-f91c-45d2-9297-8717082a49cc/smithsonian_feature_images_7.png" length="1471446" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-scientists-witness-the-seafloor-spread-in-real-time-giving-them-a-rare-glimpse-at-a-mysterious-geologic-process-180989123/</guid>
+    </item>    <item>
+      <title>NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts</title>
+      <link>https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/</link>
+      <description>
+        <![CDATA[NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick (75-meter-thick) stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts. Referred to as the “Broom Point member” by the rover’s science team, this sequence of layered bedrock is likely more than 3.9 billion years old, making it among [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick (75-meter-thick) stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts. Referred to as the “Broom Point member” by the rover’s science team, this sequence of layered bedrock is likely more than 3.9 billion years old, making it among \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1017734</guid>
+      <category>Mars</category>
+      <category>Asteroids</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Perseverance (Rover)</category>
+      <category>Planetary Science</category>
+    </item>    <item>
+      <title>Thermodynamic Computers Go With the (Energy) Flow</title>
+      <link>https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/</link>
+      <description>
+        <![CDATA[Today’s computers need safeguards against random energy fluctuations. Thermodynamic computers would put those fluctuations to use.            <p>The post <a href="https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/" target="_blank">Thermodynamic Computers Go With the (Energy) Flow</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Today’s computers need safeguards against random energy fluctuations. Thermodynamic computers would put those fluctuations to use.
+
+The post [Thermodynamic Computers Go With the (Energy) Flow](https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=164163</guid>
+      <category>Physics</category>
+    </item>    <item>
+      <title>In a First, Astronomers Find Sugar in the Space Between Stars, Providing New Clues About the Origins of Life on Earth</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-find-sugar-in-the-space-between-stars-providing-new-clues-about-the-origins-of-life-on-earth-180989122/</link>
+      <description>
+        <![CDATA[Sugars are crucial components of RNA and DNA, the basis of all known organisms alive today. In a new study, the sugar erythrulose was detected in a gas- and dust-filled cloud near the center of our Milky Way galaxy]]>
+      </description>
+      <source:markdown>Sugars are crucial components of RNA and DNA, the basis of all known organisms alive today. In a new study, the sugar erythrulose was detected in a gas- and dust-filled cloud near the center of our Milky Way galaxy</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QoLt5GlCXHQfhioQMn04X4Fma30=/420x240/filters:focal(521x367:522x368)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/9f/939f2207-d63e-4c4a-84de-dd7e9f60f96a/ssc2006-02a_0.webp" length="253948" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-find-sugar-in-the-space-between-stars-providing-new-clues-about-the-origins-of-life-on-earth-180989122/</guid>
+    </item>    <item>
       <title>Meet Sak Tahn Waax, a Maya Math Whiz Who Lived More Than 1,000 Years Ago and Left Behind a ‘Really Elegant, Complex’ Formula</title>
       <link>https://www.smithsonianmag.com/smart-news/meet-sak-tahn-waax-a-maya-math-whiz-who-lived-more-than-1000-years-ago-and-left-behind-a-really-elegant-complex-formula-180989125/</link>
       <description>
@@ -44,9 +276,12 @@
       <title>NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry</title>
       <link>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</link>
       <description>
-        <![CDATA[Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for updates. &#160; NVIDIA and SEGA Celebrate 30 Years of [&#8230;]]]>
+        <![CDATA[Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates.]]>
       </description>
-      <source:markdown>Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for updates.   NVIDIA and SEGA Celebrate 30 Years of \[…\]</source:markdown>
+      <source:markdown>Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates.</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/07/warpage_0713-2.mp4" length="26935599" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/07/DeepHow-Time-Series.mp4" length="3032790" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/07/HITACHI_OVERVIEW_Final_Full-Product_under30MB.mp4" length="28809938" type="video/mp4" />
       <guid>cid://https://blogs.nvidia.com/?p=96071</guid>
       <category>AI Infrastructure</category>
       <category>Corporate</category>
@@ -237,6 +472,15 @@ The post [Community Office Hours: A Thundermail Update](https://blog.thunderbird
       <category>NVIDIA Vera Rubin</category>
       <category>Think SMART</category>
     </item>    <item>
+      <title>Meet the Earliest Known &#39;Right-Handed&#39; Animal, a Worm-Like Creature That Lived About 550 Million Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-the-first-right-handed-animal-a-worm-like-creature-that-lived-about-550-million-years-ago-180989107/</link>
+      <description>
+        <![CDATA[During the Ediacaran period, the critter wriggled around on the ocean floor of what’s now South Australia and preferred to turn right, a fossil analysis suggests]]>
+      </description>
+      <source:markdown>During the Ediacaran period, the critter wriggled around on the ocean floor of what’s now South Australia and preferred to turn right, a fossil analysis suggests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/en35ZyTVOua2jMnpgfXboCHyRYY=/420x240/filters:focal(350x187:351x188)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2e/dc/2edcce3e-468e-4b96-8bf0-6f896255453d/righty-fossil.jpg" length="100683" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-the-first-right-handed-animal-a-worm-like-creature-that-lived-about-550-million-years-ago-180989107/</guid>
+    </item>    <item>
       <title>NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars</title>
       <link>https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/</link>
       <description>
@@ -253,15 +497,6 @@ The post [Community Office Hours: A Thundermail Update](https://blog.thunderbird
       <category>Science &#38; Research</category>
       <category>Stars</category>
       <category>The Universe</category>
-    </item>    <item>
-      <title>Meet the Earliest Known &#39;Right-Handed&#39; Animal, a Worm-Like Creature That Lived About 550 Million Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/meet-the-first-right-handed-animal-a-worm-like-creature-that-lived-about-550-million-years-ago-180989107/</link>
-      <description>
-        <![CDATA[During the Ediacaran period, the critter wriggled around on the ocean floor of what’s now South Australia and preferred to turn right, a fossil analysis suggests]]>
-      </description>
-      <source:markdown>During the Ediacaran period, the critter wriggled around on the ocean floor of what’s now South Australia and preferred to turn right, a fossil analysis suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/en35ZyTVOua2jMnpgfXboCHyRYY=/420x240/filters:focal(350x187:351x188)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2e/dc/2edcce3e-468e-4b96-8bf0-6f896255453d/righty-fossil.jpg" length="100683" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-the-first-right-handed-animal-a-worm-like-creature-that-lived-about-550-million-years-ago-180989107/</guid>
     </item>    <item>
       <title>Ancient Romans Put Their Faith in Guardian Spirits. Archaeologists Just Found a Rare 1,600-Year-Old Carving of One in Northern England</title>
       <link>https://www.smithsonianmag.com/smart-news/romans-put-their-faith-in-guardian-spirits-archaeologists-just-found-a-rare-1600-year-old-carving-of-one-in-northern-england-180989118/</link>
@@ -449,7 +684,7 @@ _Listen to every episode of Short Wave sponsor-free and support our work at NPR 
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/818fb6dd-c830-4096-ad1d-6f3d9d9cb29c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=818fb6dd-c830-4096-ad1d-6f3d9d9cb29c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812660&p=510351&d=786&size=12581870" length="12581870" type="audio/mpeg" />
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c5c05a80-fad9-4802-8456-ee703e18a946/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c5c05a80-fad9-4802-8456-ee703e18a946&feed=F0qJcgXZ&t=podcast&e=nx-s1-5812660&p=510351&d=786&size=12581869" length="12581869" type="audio/mpeg" />
       <guid>cid://6cd91d43-00fe-4f25-a9bf-988a52f4bf79</guid>
     </item>    <item>
       <title>Wild, Scenic, and Increasingly Rusty</title>
@@ -2710,190 +2945,6 @@ The post [What Is the Positive Grassmannian and Why Does It Show Up Everywhere?]
       </description>
       <source:markdown>NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.</source:markdown>
       <guid>cid://https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/</guid>
-    </item>    <item>
-      <title>Were Vikings Really ‘Uncivilized’ Barbarians? Large Textile-Production Site Discovered in Denmark Challenges That Stereotype</title>
-      <link>https://www.smithsonianmag.com/smart-news/large-textile-production-site-discovered-in-denmark-challenges-the-stereotype-of-vikings-as-uncivilized-barbarians-180989014/</link>
-      <description>
-        <![CDATA[The massive settlement, which spans more than a million square feet, likely dates to the late Iron Age or early Viking Age between 600 and 950 C.E.]]>
-      </description>
-      <source:markdown>The massive settlement, which spans more than a million square feet, likely dates to the late Iron Age or early Viking Age between 600 and 950 C.E.</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8EOv_D2bbUORaOlO2eSoXjR3A4A=/420x240/filters:focal(2627x1776:2628x1777)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fe/3e/fe3ebfe1-9dd9-4d42-9aaf-06ccd640c849/udgravning-soeften47.jpg" length="13388422" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/large-textile-production-site-discovered-in-denmark-challenges-the-stereotype-of-vikings-as-uncivilized-barbarians-180989014/</guid>
-    </item>    <item>
-      <title>NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/</link>
-      <description>
-        <![CDATA[Seven&#160;weeks&#160;after&#160;the Orion spacecraft&#160;returned&#160;four&#160;astronauts from&#160;humanity’s&#160;first crewed journey around the Moon since Apollo,&#160;Artemis II&#160;Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how&#160;it is shaping NASA’s return to the lunar surface and future missions to Mars.&#160; Introduced by&#160;NASA’s Johnson Space Center&#160;Acting Director of Business Development and Technology Integration&#160;Monte Goforth, Rodriguez spoke at the Ion in [&#8230;]]]>
-      </description>
-      <source:markdown>Seven weeks after the Orion spacecraft returned four astronauts from humanity’s first crewed journey around the Moon since Apollo, Artemis II Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how it is shaping NASA’s return to the lunar surface and future missions to Mars.  Introduced by NASA’s Johnson Space Center Acting Director of Business Development and Technology Integration Monte Goforth, Rodriguez spoke at the Ion in \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1011323</guid>
-    </item>    <item>
-      <title>La NASA compartirá los últimos avances del programa Base Lunar</title>
-      <link>https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/</link>
-      <description>
-        <![CDATA[Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isaacman, ofrecerá una conversación virtual el martes 30 de junio a las 2:30 p.m. EDT (hora del este) para compartir las novedades más recientes sobre los planes de la agencia para construir una base en la superficie de la Luna. El [&#8230;]]]>
-      </description>
-      <source:markdown>Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isaacman, ofrecerá una conversación virtual el martes 30 de junio a las 2:30 p.m. EDT (hora del este) para compartir las novedades más recientes sobre los planes de la agencia para construir una base en la superficie de la Luna. El \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1011143</guid>
-    </item>    <item>
-      <title>NASA to Share Latest Moon Base Mission Progress</title>
-      <link>https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/</link>
-      <description>
-        <![CDATA[NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming [&#8230;]]]>
-      </description>
-      <source:markdown>NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1011339</guid>
-    </item>    <item>
-      <title>A Stolen Picasso Just Turned Up During a Drug Raid Near Paris, Reportedly Taken From a Storage Facility</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-stolen-picasso-just-turned-up-during-a-drug-raid-near-paris-reportedly-taken-from-a-storage-facility-180989010/</link>
-      <description>
-        <![CDATA[The painting has been authenticated but not revealed. Reports suggest it is one of Picasso's portraits of Marie-Thérèse Walter]]>
-      </description>
-      <source:markdown>The painting has been authenticated but not revealed. Reports suggest it is one of Picasso&#39;s portraits of Marie-Thérèse Walter</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_mbMZTbw7sWnDyvziLhjiAIPRz8=/420x240/filters:focal(3379x2027:3380x2028)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ff/1d/ff1dcce0-253f-4652-943a-c598e3b0e2a4/ein_bedeutendes_kunstmuseum_das_dem_leben_und_werk_von_pablo_picasso_gewidmet_ist__36.jpg" length="5964570" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-stolen-picasso-just-turned-up-during-a-drug-raid-near-paris-reportedly-taken-from-a-storage-facility-180989010/</guid>
-    </item>    <item>
-      <title>Interstellar Comet 3I/ATLAS Might Be the Oldest Object Ever Seen in Our Solar System, a Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/interstellar-comet-3i-atlas-might-be-the-oldest-object-ever-seen-in-our-solar-system-a-study-suggests-180989007/</link>
-      <description>
-        <![CDATA[Based on the composition of gases spewed by the icy space rock, researchers estimate that our guest might be up to 12 billion years old—about three times the age of the solar system]]>
-      </description>
-      <source:markdown>Based on the composition of gases spewed by the icy space rock, researchers estimate that our guest might be up to 12 billion years old—about three times the age of the solar system</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aJkI-oMVaYUlwz3RvdaGeLEzkCo=/420x240/filters:focal(480x402:481x403)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/20/8f/208fea67-ccdd-411c-a19d-87fa7c84293c/3i-atlas_noirlab2532b.jpg" length="179407" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/interstellar-comet-3i-atlas-might-be-the-oldest-object-ever-seen-in-our-solar-system-a-study-suggests-180989007/</guid>
-    </item>    <item>
-      <title>Roman Telescope Comes to Kennedy</title>
-      <link>https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/</link>
-      <description>
-        <![CDATA[In this June 21, 2026, photo, NASA’s Nancy Grace Roman Space Telescope arrives at the agency’s Kennedy Space Center in Florida aboard NASA’s Pegasus barge. After offloading and transportation to the spaceport’s Payload Hazardous Servicing Facility, Roman will undergo processing ahead of launch, targeted no earlier than Sunday, Aug. 30, 2026. Named for NASA’s first [&#8230;]]]>
-      </description>
-      <source:markdown>In this June 21, 2026, photo, NASA’s Nancy Grace Roman Space Telescope arrives at the agency’s Kennedy Space Center in Florida aboard NASA’s Pegasus barge. After offloading and transportation to the spaceport’s Payload Hazardous Servicing Facility, Roman will undergo processing ahead of launch, targeted no earlier than Sunday, Aug. 30, 2026. Named for NASA’s first \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1008880</guid>
-    </item>    <item>
-      <title>The ‘Odyssey,’ One of the World’s Oldest Stories, Gets a Modern Spin With A.I.-Generated Audiobook Narration by the Voice Clone of an Oscar Winner</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-odyssey-one-of-the-worlds-oldest-stories-gets-a-modern-spin-with-ai-generated-audiobook-narration-by-the-voice-clone-of-an-oscar-winner-actor-michael-caine-180989006/</link>
-      <description>
-        <![CDATA[Meanwhile, other actors are pushing back against the use of artificial intelligence in creative projects, including through a new “human consent” registry tool]]>
-      </description>
-      <source:markdown>Meanwhile, other actors are pushing back against the use of artificial intelligence in creative projects, including through a new “human consent” registry tool</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AJMS8XjPyMXzWKXKMkkL5an6gr4=/420x240/filters:focal(2808x1872:2809x1873)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/17/96173dd0-8e35-4c49-85f4-e1e45db4118e/homere_odyssee_fondation_martin_bodmer_incunable.jpg" length="5520842" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-odyssey-one-of-the-worlds-oldest-stories-gets-a-modern-spin-with-ai-generated-audiobook-narration-by-the-voice-clone-of-an-oscar-winner-actor-michael-caine-180989006/</guid>
-    </item>    <item>
-      <title>NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars</title>
-      <link>https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/</link>
-      <description>
-        <![CDATA[Description NASA’s Perseverance rover appears as a green speck on the Martian surface on June 13, 2026, a day before the robotic explorer marked a distance milestone, having traveled a full marathon (26.2 miles, or 42.195 kilometers) on the Red Planet. Perseverance reached that distance after five years and four months of driving — on […]]]>
-      </description>
-      <source:markdown>Description NASA’s Perseverance rover appears as a green speck on the Martian surface on June 13, 2026, a day before the robotic explorer marked a distance milestone, having traveled a full marathon (26.2 miles, or 42.195 kilometers) on the Red Planet. Perseverance reached that distance after five years and four months of driving — on \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/</guid>
-    </item>    <item>
-      <title>Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman</title>
-      <link>https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/</link>
-      <description>
-        <![CDATA[A new look at the heart of our Milky Way galaxy by Euclid, an ESA (European Space Agency) mission with NASA contributions, overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives astronomers a major jumpstart on a core Roman survey, helping scientists [&#8230;]]]>
-      </description>
-      <source:markdown>A new look at the heart of our Milky Way galaxy by Euclid, an ESA (European Space Agency) mission with NASA contributions, overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives astronomers a major jumpstart on a core Roman survey, helping scientists \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1011115</guid>
-    </item>    <item>
-      <title>The World&#39;s First Nuclear Clocks Are Ticking, Opening a New Way to Investigate Dark Matter and Other Mysteries of Physics</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-worlds-first-nuclear-clocks-are-ticking-opening-a-new-way-to-investigate-dark-matter-and-other-mysteries-of-physics-180989002/</link>
-      <description>
-        <![CDATA[Two independent teams of scientists have created the first functional clocks that can keep ultraprecise time using the nuclei of a radioactive element]]>
-      </description>
-      <source:markdown>Two independent teams of scientists have created the first functional clocks that can keep ultraprecise time using the nuclei of a radioactive element</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1zrJu0rFyXWnZ0cY2U6xTWXDiP8=/420x240/filters:focal(800x537:801x538)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/d7/4ad7f8f2-bd8f-4df4-98da-36ae91b17e5e/csm_thorium_kristall_671113b11f.webp" length="88676" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-worlds-first-nuclear-clocks-are-ticking-opening-a-new-way-to-investigate-dark-matter-and-other-mysteries-of-physics-180989002/</guid>
-    </item>    <item>
-      <title>How Physicists Track and Trap the Elusive Neutrino</title>
-      <link>https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/</link>
-      <description>
-        <![CDATA[The hunt for these ghostly particles has required some of the most audacious experimental setups ever built.            <p>The post <a href="https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/" target="_blank">How Physicists Track and Trap the Elusive Neutrino</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>The hunt for these ghostly particles has required some of the most audacious experimental setups ever built.
-
-The post [How Physicists Track and Trap the Elusive Neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=163304</guid>
-      <category>Physics</category>
-    </item>    <item>
-      <title>This Newly Discovered Spider Builds a Unique Web That Catapults Ants Through the Air</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-newly-discovered-spider-builds-a-unique-web-that-sends-ants-catapulting-through-the-air-180989003/</link>
-      <description>
-        <![CDATA[Flung prey can reach speeds of up to 14.4 feet per second, or a little less than ten miles per hour.  An insect will land in the spider's main web about a foot above the spring-loaded trap]]>
-      </description>
-      <source:markdown>Flung prey can reach speeds of up to 14.4 feet per second, or a little less than ten miles per hour. An insect will land in the spider&#39;s main web about a foot above the spring-loaded trap</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/v09rtZmvBpdjFTt2978N2z9cIoE=/420x240/filters:focal(600x526:601x527)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/17/af17f21b-fd01-4240-a76b-486695883be9/csm_ballista-spinne_beim_bau_der_falle__copyright_ajay-narendra_ae438820af.jpg" length="172693" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-newly-discovered-spider-builds-a-unique-web-that-sends-ants-catapulting-through-the-air-180989003/</guid>
-    </item>    <item>
-      <title>Career Spotlight: Electrician (Ages 14-18)</title>
-      <link>https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/</link>
-      <description>
-        <![CDATA[What does an electrician do? Electricity powers the world, and electricians are the ones who get it where it needs to go. An electrician is an expert who is trained to make sure electrical systems and equipment are installed safely and working correctly. Electricians are involved in a variety of systems, including power, lighting, communications, [&#8230;]]]>
-      </description>
-      <source:markdown>What does an electrician do? Electricity powers the world, and electricians are the ones who get it where it needs to go. An electrician is an expert who is trained to make sure electrical systems and equipment are installed safely and working correctly. Electricians are involved in a variety of systems, including power, lighting, communications, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1008311</guid>
-    </item>    <item>
-      <title>Greece Restored Part of the Parthenon&#39;s Western Facade, Revealing Its Original Shape Not Seen in Centuries</title>
-      <link>https://www.smithsonianmag.com/smart-news/revealing-its-original-shape-not-seen-in-centuries-greece-restored-part-of-the-parthenons-western-facade-180988996/</link>
-      <description>
-        <![CDATA[The project in Athens started in 2017 and involved quarrying, transporting, hand-carving and placing new marble blocks in one of the landmark’s triangular pediments]]>
-      </description>
-      <source:markdown>The project in Athens started in 2017 and involved quarrying, transporting, hand-carving and placing new marble blocks in one of the landmark’s triangular pediments</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6otj88mBxa2zCisshiIeCtO1Ywc=/420x240/filters:focal(1280x853:1281x854)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/fd/cbfd2f0c-d769-4ef6-8a86-7f1f4f97dd14/west_pediment_2026-scaled.jpg" length="1062731" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/revealing-its-original-shape-not-seen-in-centuries-greece-restored-part-of-the-parthenons-western-facade-180988996/</guid>
-    </item>    <item>
-      <title>The First Edition of Emily Brontë&#39;s &#39;Wuthering Heights&#39; Contained Incorrect Page Numbers, Missing Punctuation and Three Misspellings of the Word &#39;Heights&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-first-edition-of-emily-brontes-wuthering-heights-contained-incorrect-page-numbers-missing-punctuation-and-three-misspellings-of-the-word-heights-180989005/</link>
-      <description>
-        <![CDATA[The haunting story set against the Yorkshire moors would become one of the most renowned novels of the 19th century. Now, a rare first-edition copy is heading to auction]]>
-      </description>
-      <source:markdown>The haunting story set against the Yorkshire moors would become one of the most renowned novels of the 19th century. Now, a rare first-edition copy is heading to auction</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dnaOUWd1ZCKZC8hDzfUp_GnGltE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/ad/4ead1376-6269-4845-9c1f-27619c0b2b8f/wuthering-heights.jpg" length="195615" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-first-edition-of-emily-brontes-wuthering-heights-contained-incorrect-page-numbers-missing-punctuation-and-three-misspellings-of-the-word-heights-180989005/</guid>
-    </item>    <item>
-      <title>Did Trump&#39;s foreign aid cuts fuel the Ebola outbreak?</title>
-      <link>https://www.npr.org/2026/06/24/nx-s1-5866497/congo-ebola-virus-outbreak-news</link>
-      <description>
-        <![CDATA[The Ebola outbreak in the Democratic Republic of Congo is growing – and is likely larger than official numbers show. The deadly disease spreads through bodily fluids, on average killing half the people it infects. And while officially declared in May, the case numbers point to the virus circulating for months without being detected. To make matters worse, there’s not a vaccine for this specific species of ebolavirus – at least, not yet. NPR global health correspondent <a href="https://www.npr.org/people/703751120/jonathan-lambert"target="_blank"   >Jonathan Lambert</a> has been covering everything Ebola-related for the past month or so, and shares what he’s learned today.<br/><br/><em>Interested in more health and science news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org/"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>The Ebola outbreak in the Democratic Republic of Congo is growing – and is likely larger than official numbers show. The deadly disease spreads through bodily fluids, on average killing half the people it infects. And while officially declared in May, the case numbers point to the virus circulating for months without being detected. To make matters worse, there’s not a vaccine for this specific species of ebolavirus – at least, not yet. NPR global health correspondent [Jonathan Lambert](https://www.npr.org/people/703751120/jonathan-lambert) has been covering everything Ebola-related for the past month or so, and shares what he’s learned today.
-
-_Interested in more health and science news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org/) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/79af362f-e4e1-417b-b182-0d8bdccec005/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=79af362f-e4e1-417b-b182-0d8bdccec005&feed=F0qJcgXZ&t=podcast&e=nx-s1-5866497&p=510351&d=641&size=10271808" length="10271808" type="audio/mpeg" />
-      <guid>cid://4f8bb50f-d1b8-4fe7-883f-63a3ab1abf6e</guid>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/</link>
-      <description>
-        <![CDATA[By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Thursday, June 18, 2026 In the area Curiosity is currently exploring, the science team has mapped several areas with different-looking surface texture on the orbital images. If you wanted to have a look yourself at what there is to […]]]>
-      </description>
-      <source:markdown>By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Thursday, June 18, 2026 In the area Curiosity is currently exploring, the science team has mapped several areas with different-looking surface texture on the orbital images. If you wanted to have a look yourself at what there is to \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/</guid>
-    </item>    <item>
-      <title>Playing the Moon Game</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/</link>
-      <description>
-        <![CDATA[Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes.]]>
-      </description>
-      <source:markdown>Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/</guid>
-    </item>    <item>
-      <title>NVIDIA and AWS Collaborate to Bring AI to Production at Scale</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</link>
-      <description>
-        <![CDATA[Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy [&#8230;]]]>
-      </description>
-      <source:markdown>Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=94934</guid>
-      <category>AI Infrastructure</category>
-      <category>Cloud</category>
-      <category>Agentic AI</category>
-      <category>NVIDIA Blackwell</category>
     </item>
   </channel>
 </rss>

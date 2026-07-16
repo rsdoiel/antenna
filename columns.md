@@ -428,4 +428,7 @@ description: Blogs, columns and snapshots from around the web.
 - [Laura Tacho Blog](https://lauratacho.com/blog?format=rss)
 - [Laura Tacho, Refactor Substack](https://lauratacho.substack.com/feed/)
 - [Thought Works](https://www.thoughtworks.com/rss/insights.xml)
+- [Elijah Potter Blog](https://elijahpotter.dev/rss.xml)
+
+
 

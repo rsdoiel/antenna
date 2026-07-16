@@ -4,10 +4,87 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>15 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>16 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Arcadian Adelaide by Thistle Anderson</title>
+      <link>https://www.gutenberg.org/ebooks/79097</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kitty Maynard : by Lucy Ellen Guernsey</title>
+      <link>https://www.gutenberg.org/ebooks/79094</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Deep Waters by W. W.  Jacobs</title>
+      <link>https://www.gutenberg.org/ebooks/11482</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The dragon by M. P.  Shiel</title>
+      <link>https://www.gutenberg.org/ebooks/77957</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Carmen by Prosper Mérimée</title>
+      <link>https://www.gutenberg.org/ebooks/2465</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The three musketeers by Alexandre Dumas and Auguste Maquet</title>
+      <link>https://www.gutenberg.org/ebooks/1257</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ennui by Stephen Marlowe</title>
+      <link>https://www.gutenberg.org/ebooks/79099</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Bathe your bearings in blood! by Clifford D. Simak</title>
+      <link>https://www.gutenberg.org/ebooks/79098</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Passage to Gomorrah by Robert F. Young</title>
+      <link>https://www.gutenberg.org/ebooks/79101</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;infirme aux mains de lumière by Édouard Estaunié</title>
+      <link>https://www.gutenberg.org/ebooks/79100</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Emil and the detectives : by Erich Kästner</title>
+      <link>https://www.gutenberg.org/ebooks/79102</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Katy Hunter&#39;s homes by Mrs. C. M. Livingston</title>
       <link>https://www.gutenberg.org/ebooks/79068</link>
       <description>
@@ -36,13 +113,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Arcadian Adelaide by Thistle Anderson</title>
-      <link>https://www.gutenberg.org/ebooks/79097</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Le comte de Monte-Cristo, Tome I by Alexandre Dumas and Auguste Maquet</title>
       <link>https://www.gutenberg.org/ebooks/17989</link>
       <description>
@@ -59,13 +129,6 @@
     </item>    <item>
       <title>Desert Conquest; or, Precious Waters by A. M.  Chisholm</title>
       <link>https://www.gutenberg.org/ebooks/25728</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kitty Maynard : by Lucy Ellen Guernsey</title>
-      <link>https://www.gutenberg.org/ebooks/79094</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1313,65 +1376,6 @@
       <guid>cid://https://standardebooks.org/ebooks/harry-harrison/short-fiction</guid>
       <category>Science Fiction</category>
       <category>Shorts</category>
-    </item>    <item>
-      <title>Analects, by Confucius</title>
-      <link>https://standardebooks.org/ebooks/confucius/analects/james-legge</link>
-      <description>
-        <![CDATA[The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.]]>
-      </description>
-      <source:markdown>The paradigmatic Chinese sage expounds on leading an ethical and fulfilled life.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/confucius/analects/james-legge/downloads/confucius_analects_james-legge.epub?source=feed" length="451305" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/confucius/analects/james-legge</guid>
-      <category>Philosophy</category>
-    </item>    <item>
-      <title>Under Dewey at Manila : by Edward Stratemeyer</title>
-      <link>https://www.gutenberg.org/ebooks/78934</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Her brother&#39;s keeper by Agnes Giberne</title>
-      <link>https://www.gutenberg.org/ebooks/78931</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Strange marriage customs by Leo Markun</title>
-      <link>https://www.gutenberg.org/ebooks/78927</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Meer :</title>
-      <link>https://www.gutenberg.org/ebooks/78932</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Päiväkummun pidot : by Henrik Ibsen</title>
-      <link>https://www.gutenberg.org/ebooks/78933</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Evidently not by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78928</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Taught by experience by Ruth Lamb</title>
-      <link>https://www.gutenberg.org/ebooks/78930</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
