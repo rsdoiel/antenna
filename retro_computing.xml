@@ -4,10 +4,38 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>16 Jul 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>17 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mag42 – a new French-language magazine for alternative platforms</title>
+      <link>https://www.riscository.com/2026/mag42-new-french-language-magazine/</link>
+      <description>
+        <![CDATA[The first issue of a new French-language digital (PDF) magazine is available to buy for enthusiasts of platforms sitting a little (or even some way) outside of the mainstream &#8211; which includes RISC OS. The first issue of Mag42 covers a whopping eighteen platforms, serving as a buyers&#8217; guide with details of their specifications, potential uses, and prices &#8211; and one of those eighteen is the Titanium, from Elesar. Containing 60 A5 pages, Mag42 is delivered as a PDF file and costs €5.90, and according to David Feugey the next&#8230;]]>
+      </description>
+      <source:markdown>The first issue of a new French-language digital (PDF) magazine is available to buy for enthusiasts of platforms sitting a little (or even some way) outside of the mainstream – which includes RISC OS. The first issue of Mag42 covers a whopping eighteen platforms, serving as a buyers’ guide with details of their specifications, potential uses, and prices – and one of those eighteen is the Titanium, from Elesar. Containing 60 A5 pages, Mag42 is delivered as a PDF file and costs €5.90, and according to David Feugey the next…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10971</guid>
+      <category>Publications</category>
+      <category>French Language</category>
+      <category>Mag42</category>
+      <category>Magazine</category>
+    </item>    <item>
+      <title>Rougol July 2026 meeting on monday</title>
+      <link>http://www.iconbar.com/comments/rss/news2346.html</link>
+      <description>
+        <![CDATA[The July 2026 Rougol meeting is on Monday.]]>
+      </description>
+      <source:markdown>The July 2026 Rougol meeting is on Monday.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2346.html</guid>
+    </item>    <item>
+      <title>b.log 2026/07/16 - At long last.</title>
+      <link>https://heyrick.eu/blog/entry/20260716</link>
+      <description>
+        <![CDATA[At long last.]]>
+      </description>
+      <source:markdown>At long last.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260716</guid>
+    </item>    <item>
       <title>b.log 2026/07/15 - Linux waking up, Getting rid of old log files.</title>
       <link>https://heyrick.eu/blog/entry/20260715</link>
       <description>
@@ -2219,15 +2247,6 @@ As for RMS, he upgraded [to something else](https://stallman.org/favorite-photos
       </description>
       <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2339.html</guid>
-    </item>    <item>
-      <title>ScummVM 2026.3.0 released</title>
-      <link>https://www.riscository.com/2026/scummvm-2026-3-0-released/</link>
-      <description>
-        <![CDATA[Moving up a notch yet again thanks to its increased release cycle, ScummVM 2026.3.0 is now available to download, featuring a number of bug fixes and other improvements to some of the engines it supports, and bringing a host of newly supported games to be played. ScummVM is a &#8216;virtual machine&#8217; (that&#8217;s the VM part of its name) that was originally developed to allow games written using LucasArts&#8217; Script Creation Utility for Maniac Mansion &#8211; to be played on modern systems. However, that was back in 2001, and in the&#8230;]]>
-      </description>
-      <source:markdown>Moving up a notch yet again thanks to its increased release cycle, ScummVM 2026.3.0 is now available to download, featuring a number of bug fixes and other improvements to some of the engines it supports, and bringing a host of newly supported games to be played. ScummVM is a ‘virtual machine’ (that’s the VM part of its name) that was originally developed to allow games written using LucasArts’ Script Creation Utility for Maniac Mansion – to be played on modern systems. However, that was back in 2001, and in the…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10964</guid>
-      <category>Software</category>
     </item>
   </channel>
 </rss>

@@ -4,19 +4,114 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>16 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>17 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Arcadian Adelaide by Thistle Anderson</title>
-      <link>https://www.gutenberg.org/ebooks/79097</link>
+      <title>Professor Unrat, oder, Das Ende eines Tyrannen by Heinrich Mann</title>
+      <link>https://www.gutenberg.org/ebooks/35264</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Kitty Maynard : by Lucy Ellen Guernsey</title>
+      <link>https://www.gutenberg.org/ebooks/79094</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Kitty Maynard : by Lucy Ellen Guernsey</title>
-      <link>https://www.gutenberg.org/ebooks/79094</link>
+      <title>Emil and the detectives : by Erich Kästner</title>
+      <link>https://www.gutenberg.org/ebooks/79102</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A treatise of civil power in ecclesiastical causes : by John Milton</title>
+      <link>https://www.gutenberg.org/ebooks/79107</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Au bagne by Albert Londres</title>
+      <link>https://www.gutenberg.org/ebooks/79103</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The face in the abyss by Abraham Merritt</title>
+      <link>https://www.gutenberg.org/ebooks/79106</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Crowd-horror by Robert E.  Howard</title>
+      <link>https://www.gutenberg.org/ebooks/79105</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Historic buildings of America :</title>
+      <link>https://www.gutenberg.org/ebooks/79104</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>My Honourbright by Annette Lyster</title>
+      <link>https://www.gutenberg.org/ebooks/79109</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le roman de mon enfance et de ma jeunesse by Juliette Adam</title>
+      <link>https://www.gutenberg.org/ebooks/79108</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Another ace for Ananias by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79111</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Between Pike&#39;s Peak and a pickle by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79112</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Wild medicinal plants of the United States by B. T.  Galloway and Alice Henkel</title>
+      <link>https://www.gutenberg.org/ebooks/79110</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pirates of Venus, by Edgar Rice Burroughs</title>
+      <link>https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus</link>
+      <description>
+        <![CDATA[A space traveler accidentally finds himself on Venus and must learn the local customs to survive.]]>
+      </description>
+      <source:markdown>A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus/downloads/edgar-rice-burroughs_pirates-of-venus.epub?source=feed" length="521375" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus</guid>
+      <category>Adventure</category>
+      <category>Science Fiction</category>
+    </item>    <item>
+      <title>Arcadian Adelaide by Thistle Anderson</title>
+      <link>https://www.gutenberg.org/ebooks/79097</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -77,13 +172,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Emil and the detectives : by Erich Kästner</title>
-      <link>https://www.gutenberg.org/ebooks/79102</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Katy Hunter&#39;s homes by Mrs. C. M. Livingston</title>
       <link>https://www.gutenberg.org/ebooks/79068</link>
@@ -1365,17 +1453,6 @@
         <![CDATA[Language: Dutch]]>
       </description>
       <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Short Fiction, by Harry Harrison</title>
-      <link>https://standardebooks.org/ebooks/harry-harrison/short-fiction</link>
-      <description>
-        <![CDATA[A collection of science fiction stories by Harry Harrison, ordered by date of publication.]]>
-      </description>
-      <source:markdown>A collection of science fiction stories by Harry Harrison, ordered by date of publication.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/harry-harrison/short-fiction/downloads/harry-harrison_short-fiction.epub?source=feed" length="748319" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/harry-harrison/short-fiction</guid>
-      <category>Science Fiction</category>
-      <category>Shorts</category>
     </item>
   </channel>
 </rss>
