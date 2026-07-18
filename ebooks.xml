@@ -4,10 +4,92 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>17 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>18 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Between Pike&#39;s Peak and a pickle by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79112</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Books in chains : by William Blades</title>
+      <link>https://www.gutenberg.org/ebooks/79115</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In the land of the gods: some stories of Japan by Alice Mabel Bacon</title>
+      <link>https://www.gutenberg.org/ebooks/79121</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Die schöne Heimat: Bilder aus Deutschland</title>
+      <link>https://www.gutenberg.org/ebooks/79113</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The adventures of a donkey by Arabella Argus</title>
+      <link>https://www.gutenberg.org/ebooks/79114</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A literary history of Rome in the Silver Age : by J. Wight Duff</title>
+      <link>https://www.gutenberg.org/ebooks/79117</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mayerling by Claude Anet</title>
+      <link>https://www.gutenberg.org/ebooks/79119</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Figures of speech by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79120</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Atmosphere by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79116</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>On England : by Earl Stanley Baldwin Baldwin</title>
+      <link>https://www.gutenberg.org/ebooks/79118</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Craig Kennedy Stories, by Arthur B. Reeve</title>
+      <link>https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories</link>
+      <description>
+        <![CDATA[A collection of short stories starring Craig Kennedy, scientific detective.]]>
+      </description>
+      <source:markdown>A collection of short stories starring Craig Kennedy, scientific detective.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/arthur-b-reeve_craig-kennedy-stories.epub?source=feed" length="452609" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories</guid>
+      <category>Fiction</category>
+      <category>Mystery</category>
+      <category>Shorts</category>
+    </item>    <item>
       <title>Professor Unrat, oder, Das Ende eines Tyrannen by Heinrich Mann</title>
       <link>https://www.gutenberg.org/ebooks/35264</link>
       <description>
@@ -80,13 +162,6 @@
     </item>    <item>
       <title>Another ace for Ananias by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79111</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Between Pike&#39;s Peak and a pickle by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79112</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

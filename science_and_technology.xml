@@ -4,16 +4,200 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>18 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Follow the money, especially in open source</title>
+      <link>https://www.osnews.com/story/145548/follow-the-money-especially-in-open-source/</link>
+      <description>
+        <![CDATA[Linus Torvalds, the creator of the Linux kernel and git, is employed by the Linux Foundation. This Foundation is a non-profit organisation dedicated to, as the name obviously implies, the promotion of Linux. The primary use of the funds it collects is to &#8220;help fund the infrastructure and fellows, including Linus Torvalds, who help develop the Linux kernel&#8221;. The list of megacorporations donating most of the Foundation&#8217;s funds is long. The Linux Foundation has twelve platinum members, which donate $500000 per year, followed by twelve gold members, who donate $100000 per year. Below these two primary tiers lie the silver peasants, who each donate $5000-$25000 per year, based on number of employees. Looking at the list of twelve platinum members, I noticed something interesting. Of the twelve platinum companies, six are &#8220;AI&#8221; companies or companies with massive investments in &#8220;AI&#8221;: Google, Huawei, Facebook, Microsoft, Oracle, and IBM/Red Hat. Then there&#8217;s Samsung Electronics, which is raking in stupendous amounts of money thanks to the &#8220;AI&#8221; bubble. Additionally, one of the gold members is Anthropic, another major &#8220;AI&#8221; company and makers of &#8220;Claude&#8221;, the sloppiest of slopcoding tools. Many of these companies are unimaginably deep in the red when it comes to &#8220;AI&#8221;, with very little indication they&#8217;re ever going to be able to recover any of it. The situation is particularly bad for Oracle and IBM/Red Hat. Oracle&#8217;s debt has been downgraded to one notch above junk status because of its &#8220;AI&#8221; spending, while IBM&#8217;s shares experienced the largest crash in its 115 year history only a few days ago. By the way, in the first half of 2025, &#8220;AI-related capital expenditures contributed 1.1% to  GDP growth, outpacing the U.S. consumer as an engine of expansion&#8221;. Fun fact: since most of The Netherlands is effectively a swamp, most of the country&#8217;s buildings are built on massive wooden or concrete poles (piles) hammered deep into the ground until they hit something more stable than mushy clay and wet sand. Otherwise, buildings in the country would simply sink into the ground. Every Dutch person who ever lived near a construction site has heard the rhythmic kathunk, kathunk, kathunk, all day long, as the massive piledriver machines spread their gospel. I guess something reminded me of this just now. Anyway, a large chunk of the funding the Linux Foundation, Linus Torvald&#8217;s employer, receives is coming from increasingly desperate companies frantically trying to convince a populace deeply skeptical and often downright hostile towards &#8220;AI&#8221; to spend money on &#8220;AI&#8221; before the bubble bursts. For some reason, I thought this was interesting.]]>
+      </description>
+      <source:markdown>Linus Torvalds, the creator of the Linux kernel and git, is employed by the Linux Foundation. This Foundation is a non-profit organisation dedicated to, as the name obviously implies, the promotion of Linux. The primary use of the funds it collects is to “help fund the infrastructure and fellows, including Linus Torvalds, who help develop the Linux kernel”. The list of megacorporations donating most of the Foundation’s funds is long. The Linux Foundation has twelve platinum members, which donate $500000 per year, followed by twelve gold members, who donate $100000 per year. Below these two primary tiers lie the silver peasants, who each donate $5000-$25000 per year, based on number of employees. Looking at the list of twelve platinum members, I noticed something interesting. Of the twelve platinum companies, six are “AI” companies or companies with massive investments in “AI”: Google, Huawei, Facebook, Microsoft, Oracle, and IBM/Red Hat. Then there’s Samsung Electronics, which is raking in stupendous amounts of money thanks to the “AI” bubble. Additionally, one of the gold members is Anthropic, another major “AI” company and makers of “Claude”, the sloppiest of slopcoding tools. Many of these companies are unimaginably deep in the red when it comes to “AI”, with very little indication they’re ever going to be able to recover any of it. The situation is particularly bad for Oracle and IBM/Red Hat. Oracle’s debt has been downgraded to one notch above junk status because of its “AI” spending, while IBM’s shares experienced the largest crash in its 115 year history only a few days ago. By the way, in the first half of 2025, “AI-related capital expenditures contributed 1.1% to GDP growth, outpacing the U.S. consumer as an engine of expansion”. Fun fact: since most of The Netherlands is effectively a swamp, most of the country’s buildings are built on massive wooden or concrete poles (piles) hammered deep into the ground until they hit something more stable than mushy clay and wet sand. Otherwise, buildings in the country would simply sink into the ground. Every Dutch person who ever lived near a construction site has heard the rhythmic kathunk, kathunk, kathunk, all day long, as the massive piledriver machines spread their gospel. I guess something reminded me of this just now. Anyway, a large chunk of the funding the Linux Foundation, Linus Torvald’s employer, receives is coming from increasingly desperate companies frantically trying to convince a populace deeply skeptical and often downright hostile towards “AI” to spend money on “AI” before the bubble bursts. For some reason, I thought this was interesting.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145548</guid>
+      <category>Linux</category>
+    </item>    <item>
+      <title>NASA Pushes New Wing Design to Find Structural Limits</title>
+      <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/</link>
+      <description>
+        <![CDATA[NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) [&#8230;]]]>
+      </description>
+      <source:markdown>NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1018951</guid>
+      <category>Armstrong Flight Research Center</category>
+      <category>Advanced Air Vehicles Program</category>
+      <category>Aeronautics</category>
+      <category>Aeronautics Research Mission Directorate</category>
+      <category>Langley Research Center</category>
+      <category>Subsonic Flight Demonstrator</category>
+      <category>Subsonic Vehicle Technologies and Tools</category>
+    </item>    <item>
+      <title>The Zilog Z80 has turned 50</title>
+      <link>https://www.osnews.com/story/145547/the-zilog-z80-has-turned-50/</link>
+      <description>
+        <![CDATA[As of writing, the Zilog Z80 processor was officially launched 50 years ago, in July of 1976, less than 4 years after the last human had walked on the moon, decades closer to WWII than to the present day, roughly at a half way point between the Kennedy assassination and the fall of the Berlin wall, closer to the Korean war than to 9/11 which is itself an event that happened a quarter of a century ago. (Sorry…) The processor was extremely successful, being used in many 8 bit microcomputers, including early personal computers, home &#38; hobby computers, as well as many embedded, industrial applications. Together with the 8080 &#38; 8085 that it is binary compatible with, it contributed to creating a de facto hardware standard for 8 bit micros, allowing a de facto software standard of CP/M, and Microsoft BASIC. ↫ David Oberhollenzer The only device I actively remember using with a (sort-of) Z80 in it was the Game Boy, but most likely I&#8217;ve used a ton more over the decades that I don&#8217;t remember or simply was never ware of. I did a little surface-level digging, and there we are: the TI-83, one of Texas Instruments&#8217; stupidly popular and eternally overpriced graphing calculators, release in 1996. I was part of the first wave of high school children in The Netherlands for whom a TI-83 graphing calculator was mandatory. During my high school years I used that thing extensively, for far more than just math class &#8211; I programmed applications for and on it, and played so many games on it. A friend and I even bought a communication cable so we could play competitive 1v1 Bomberman in class. Good times, made possible by the Z80.]]>
+      </description>
+      <source:markdown>As of writing, the Zilog Z80 processor was officially launched 50 years ago, in July of 1976, less than 4 years after the last human had walked on the moon, decades closer to WWII than to the present day, roughly at a half way point between the Kennedy assassination and the fall of the Berlin wall, closer to the Korean war than to 9/11 which is itself an event that happened a quarter of a century ago. (Sorry…) The processor was extremely successful, being used in many 8 bit microcomputers, including early personal computers, home &#38; hobby computers, as well as many embedded, industrial applications. Together with the 8080 &#38; 8085 that it is binary compatible with, it contributed to creating a de facto hardware standard for 8 bit micros, allowing a de facto software standard of CP/M, and Microsoft BASIC. ↫ David Oberhollenzer The only device I actively remember using with a (sort-of) Z80 in it was the Game Boy, but most likely I’ve used a ton more over the decades that I don’t remember or simply was never ware of. I did a little surface-level digging, and there we are: the TI-83, one of Texas Instruments’ stupidly popular and eternally overpriced graphing calculators, release in 1996. I was part of the first wave of high school children in The Netherlands for whom a TI-83 graphing calculator was mandatory. During my high school years I used that thing extensively, for far more than just math class – I programmed applications for and on it, and played so many games on it. A friend and I even bought a communication cable so we could play competitive 1v1 Bomberman in class. Good times, made possible by the Z80.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145547</guid>
+      <category>Hardware</category>
+    </item>    <item>
+      <title>The Growing Crescent of Mars as NASA’s Psyche Mission Approaches</title>
+      <link>https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/</link>
+      <description>
+        <![CDATA[Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progressively […]]]>
+      </description>
+      <source:markdown>Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progressively \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/</guid>
+    </item>    <item>
+      <title>Luke Skywalker’s Lightsaber and Severed Hand From Famed Darth Vader Duel Sold For a Record $3.75 Million at Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/luke-skywalkers-lightsaber-and-severed-hand-from-famed-darth-vader-duel-sold-for-a-record-more-than-3-million-at-auction-180989144/</link>
+      <description>
+        <![CDATA[The item, which became the most-valued on-screen Star Wars prop ever sold at auction, was born from cast-off parts from a camera shop]]>
+      </description>
+      <source:markdown>The item, which became the most-valued on-screen Star Wars prop ever sold at auction, was born from cast-off parts from a camera shop</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/G0O5E1yb_hbyboDeunWZueVopfQ=/420x240/filters:focal(412x302:413x303)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cd/3e/cd3e663b-6a73-4ffb-b6b8-3f8b0c698fb9/ha_4.jpeg" length="55466" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/luke-skywalkers-lightsaber-and-severed-hand-from-famed-darth-vader-duel-sold-for-a-record-more-than-3-million-at-auction-180989144/</guid>
+    </item>    <item>
+      <title>Establishing a VTE Risk Score for Astronauts Algorithm</title>
+      <link>https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/</link>
+      <description>
+        <![CDATA[In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new [&#8230;]]]>
+      </description>
+      <source:markdown>In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1018603</guid>
+      <category>Office of the Chief Health and Medical Officer (OCHMO)</category>
+      <category>General</category>
+      <category>Human Health and Performance</category>
+      <category>Human System Risks</category>
+      <category>Humans in Space</category>
+      <category>The Human Body in Space</category>
+    </item>    <item>
+      <title>NASA Awards Facilities Support Services Contract for Ames Research Center</title>
+      <link>https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/</link>
+      <description>
+        <![CDATA[CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for&#160;NASA’s&#160;Ames Research Center&#160;in California’s Silicon Valley.&#160; The Ames Facilities Support Services II contract&#160;ensures that&#160;the center’s&#160;historic and specialized facilities are properly&#160;maintained, fully operational, and capable of supporting&#160;the agency’s&#160;missions&#160;and tenant partners in the NASA Research Park.&#160; The&#160;hybrid contract&#160;has&#160;a five-year period [&#8230;]]]>
+      </description>
+      <source:markdown>CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s Ames Research Center in California’s Silicon Valley.  The Ames Facilities Support Services II contract ensures that the center’s historic and specialized facilities are properly maintained, fully operational, and capable of supporting the agency’s missions and tenant partners in the NASA Research Park.  The hybrid contract has a five-year period \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1018315</guid>
+      <category>Ames Research Center</category>
+    </item>    <item>
+      <title>NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula</title>
+      <link>https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/</link>
+      <description>
+        <![CDATA[This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data from NASA’s Chandra X-ray Observatory in purple, X-rays from NASA&#8217;s IXPE (Imaging X-ray Polarimetry Explorer) in blue, and [&#8230;]]]>
+      </description>
+      <source:markdown>This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data from NASA’s Chandra X-ray Observatory in purple, X-rays from NASA’s IXPE (Imaging X-ray Polarimetry Explorer) in blue, and \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1018580</guid>
+    </item>    <item>
+      <title>La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/</link>
+      <description>
+        <![CDATA[Read this release in English here. Ya está abierto el plazo de acreditación de los medios de comunicación para el lanzamiento de la misión del telescopio espacial Nancy Grace Roman de la NASA. El lanzamiento del telescopio Roman está programado para no antes de las 7:20 a.m. (hora del este) del domingo 30 de agosto, [&#8230;]]]>
+      </description>
+      <source:markdown>Read this release in English here. Ya está abierto el plazo de acreditación de los medios de comunicación para el lanzamiento de la misión del telescopio espacial Nancy Grace Roman de la NASA. El lanzamiento del telescopio Roman está programado para no antes de las 7:20 a.m. (hora del este) del domingo 30 de agosto, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1018756</guid>
+      <category>NASA en español</category>
+    </item>    <item>
+      <title>NASA Invites Media to Roman Space Telescope, Crew-13 Launches</title>
+      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/</link>
+      <description>
+        <![CDATA[Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at [&#8230;]]]>
+      </description>
+      <source:markdown>Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1018686</guid>
+      <category>Nancy Grace Roman Space Telescope</category>
+      <category>Commercial Crew</category>
+      <category>International Space Station (ISS)</category>
+      <category>Missions</category>
+    </item>    <item>
+      <title>NASA’s Psyche Mission Images Details of Martian Surface During Flyby</title>
+      <link>https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/</link>
+      <description>
+        <![CDATA[Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars.  Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for […]]]>
+      </description>
+      <source:markdown>Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars.  Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/</guid>
+      <category>Photojournal</category>
+      <category>Psyche Mission</category>
+    </item>    <item>
+      <title>New Close-Up Images Reveal the Wreckage of Ernest Shackleton&#39;s Last Ship, Now Draped in Discarded Fishing Gear and Teeming With Life</title>
+      <link>https://www.smithsonianmag.com/smart-news/new-close-up-images-reveal-the-wreckage-of-ernest-shackletons-last-ship-now-draped-in-discarded-fishing-gear-and-teeming-with-life-180989139/</link>
+      <description>
+        <![CDATA[The vessel "Quest," found in 2024 off the coast of northeastern Canada, has become a home for corals, anemones and fish. It also holds the leftovers from decades of commercial fishing that happened above it after it sank]]>
+      </description>
+      <source:markdown>The vessel &#34;Quest,&#34; found in 2024 off the coast of northeastern Canada, has become a home for corals, anemones and fish. It also holds the leftovers from decades of commercial fishing that happened above it after it sank</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VKZsjfi6-EeSvJ62lVEORLJ1wZ4=/420x240/filters:focal(1420x1096:1421x1097)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/8e/998e0ec0-37ac-40f7-b4fc-14899a637643/quest.jpg" length="1043987" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/new-close-up-images-reveal-the-wreckage-of-ernest-shackletons-last-ship-now-draped-in-discarded-fishing-gear-and-teeming-with-life-180989139/</guid>
+    </item>    <item>
+      <title>NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/</link>
+      <description>
+        <![CDATA[Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.]]>
+      </description>
+      <source:markdown>Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96417&#38;preview=true&#38;preview_id=96417</guid>
+      <category>AI</category>
+      <category>Agentic AI</category>
+      <category>AI Factory</category>
+      <category>AI Training</category>
+      <category>Artificial Intelligence</category>
+      <category>Dynamo</category>
+      <category>Hardware</category>
+      <category>Inference</category>
+      <category>Nemotron</category>
+      <category>NVIDIA Blackwell</category>
+      <category>NVIDIA NeMo</category>
+      <category>NVIDIA Rubin</category>
+      <category>NVIDIA Vera</category>
+      <category>Open Source</category>
+    </item>    <item>
+      <title>NASA Welcomes Mauritius as 70th Artemis Accords Signatory</title>
+      <link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/</link>
+      <description>
+        <![CDATA[The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius [&#8230;]]]>
+      </description>
+      <source:markdown>The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1018560</guid>
+      <category>Artemis Accords</category>
+      <category>Artemis</category>
+      <category>General</category>
+      <category>Office of International and Interagency Relations (OIIR)</category>
+    </item>    <item>
+      <title>Martin Picard’s Mitochondrial Theory of Mind</title>
+      <link>https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/</link>
+      <description>
+        <![CDATA[The biologist’s bold “energetic view of life” looks to the body’s strangest organelles as the link between cells, health, and mind and the foundation of our experience of being alive.            <p>The post <a href="https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/" target="_blank">Martin Picard’s Mitochondrial Theory of Mind</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The biologist’s bold “energetic view of life” looks to the body’s strangest organelles as the link between cells, health, and mind and the foundation of our experience of being alive.
+
+The post [Martin Picard’s Mitochondrial Theory of Mind](https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=164237</guid>
+      <category>Biology</category>
+    </item>    <item>
+      <title>Meet the Orange-Lipped &#39;Likweli&#39; Monkey, a New Species That Was Discovered in the Congo Rainforest</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-the-orange-lipped-likweli-monkey-a-new-species-that-was-discovered-in-the-congo-rainforest-180989140/</link>
+      <description>
+        <![CDATA[The creatures, which weigh about the same as a small dog, have spiky black hair, orange-cream skin around their mouths and a white patch on their rear ends. Scientists say that they're probably endangered]]>
+      </description>
+      <source:markdown>The creatures, which weigh about the same as a small dog, have spiky black hair, orange-cream skin around their mouths and a white patch on their rear ends. Scientists say that they&#39;re probably endangered</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Xe8gKtdZeRM8zzy_pYqop29tac0=/420x240/filters:focal(612x396:613x397)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/36/2836c35b-9e1f-4646-b86b-8544a0060ac5/ccongoensis.jpg" length="353633" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-the-orange-lipped-likweli-monkey-a-new-species-that-was-discovered-in-the-congo-rainforest-180989140/</guid>
+    </item>    <item>
+      <title>These 16 Splendid Aerial Views Capture Wildlife From Above, Revealing the Beauty and Mystery of Nature</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-16-splendid-aerial-views-capture-wildlife-from-above-revealing-the-beauty-and-mystery-of-nature-180989141/</link>
+      <description>
+        <![CDATA[The second International Aerial Photographer of the Year contest selected its winners and 101 top images. Here’s a selection of the photos that spotlight animals from a new perspective]]>
+      </description>
+      <source:markdown>The second International Aerial Photographer of the Year contest selected its winners and 101 top images. Here’s a selection of the photos that spotlight animals from a new perspective</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CGHa32eXrsbrbxnIfsDgjCwIoEo=/420x240/filters:focal(1177x1269:1178x1270)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/69/9869f609-2225-47ad-8fd3-d68aa66df7ab/67363_rhiannon_lawler_holding_on.jpg" length="4641540" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-16-splendid-aerial-views-capture-wildlife-from-above-revealing-the-beauty-and-mystery-of-nature-180989141/</guid>
+    </item>    <item>
       <title>When a Cat Licks Another Cat, It&#39;s Not Always a Friendly Gesture. New Study Reveals They May Just Want Their Own Space</title>
       <link>https://www.smithsonianmag.com/smart-news/when-a-cat-licks-another-cat-its-not-always-friendly-new-study-reveals-180989136/</link>
       <description>
-        <![CDATA[Classic feline behavior could be a passive-aggressive maneuver to get what they want.]]>
+        <![CDATA[Classic feline behavior could be a passive-aggressive maneuver to get what they want]]>
       </description>
-      <source:markdown>Classic feline behavior could be a passive-aggressive maneuver to get what they want.</source:markdown>
+      <source:markdown>Classic feline behavior could be a passive-aggressive maneuver to get what they want</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RlBoSK8uif2caokSy66O9tNRFuA=/420x240/filters:focal(2453x1635:2454x1636)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/01/4f012102-b763-467e-bfb9-2214738dbefd/selective-focus-shot-cute-beautiful-gray-white-cats-having-fun-together.jpg" length="3788702" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/when-a-cat-licks-another-cat-its-not-always-friendly-new-study-reveals-180989136/</guid>
     </item>    <item>
@@ -2780,192 +2964,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>It’s been quiet for a few days since I’ve been sick, but I’m feeling a bit better since today marks the official end of my one month of using Windows 11 that you people donated for. An article about my experience is definitely upcoming, including whether or not I’ll actually stick with Windows 11 on my laptop or go back to Linux, but before we get there, let’s talk about Microsoft once again capitulating to the reality that a lot of people really don’t want to let go of Windows 10. In a surprising move, Microsoft has quietly confirmed that it’s extending Windows 10 support until October 12, 2027, which is one full year beyond the October 2026 cutoff that home users had been planning around. ↫ Abhijith M B at Windows Latest Hundreds of millions of people are still using Windows 10, and with the “AI” techbros buying up all the RAM and other chips for their pachinko machines – making this whole thing a bit of an own goal for prime “AI” booster Microsoft – buying new PCs that are actually compatible with Windows 11 isn’t exactly a fun prospect for the vast majority of us normal folk dealing with the cost-of-living crisis. As such, Microsoft really doesn’t have any other choice but to keep extending support for Windows 10. It ain’t much, but I’ll take any morsel of justice I can get. While everyone else has to pay for getting access to these Windows 10 updates, users in the European Union get them entirely for free thanks to the Digital Markets Act. This additional year, too, can be partially attributed to the DMA, as the very same consumer rights organisations who pressured Microsoft into giving EU users truly free access to the Extended Security Updates also put pressure on the company to offer these for more than just one year. Basic consumer protection legislation works.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145377</guid>
       <category>Windows</category>
-    </item>    <item>
-      <title>Deep in the Mexican Jungle, Archaeologists Discovered a Lost Maya City That May Yield Clues About the Civilization Just Before It Collapsed</title>
-      <link>https://www.smithsonianmag.com/smart-news/deep-in-the-mexican-jungle-archaeologists-discovered-a-lost-maya-city-that-may-yield-clues-about-the-civilization-just-before-it-collapsed-180989030/</link>
-      <description>
-        <![CDATA[Researchers hacked through more than three miles of vegetation to get to the site, which lies out of bounds of familiar logging tracks. There, they found unique carved stelae and altars]]>
-      </description>
-      <source:markdown>Researchers hacked through more than three miles of vegetation to get to the site, which lies out of bounds of familiar logging tracks. There, they found unique carved stelae and altars</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5KwPz5WuiAcTM9Mq_In4E66oXdo=/420x240/filters:focal(1028x686:1029x687)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/43/ed433373-f2a9-444a-8e86-5c385ad3a458/screenshot_2026-06-26_at_122306pm.jpeg" length="1904495" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/deep-in-the-mexican-jungle-archaeologists-discovered-a-lost-maya-city-that-may-yield-clues-about-the-civilization-just-before-it-collapsed-180989030/</guid>
-    </item>    <item>
-      <title>See the Most Detailed Photo of the Milky Way&#39;s Heart Ever Taken in Visible Light, Which Will Help Astronomers Hunt for Exoplanets</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-most-detailed-photo-of-the-milky-ways-heart-ever-taken-in-visible-light-which-will-help-astronomers-hunt-for-exoplanets-180989027/</link>
-      <description>
-        <![CDATA[The European Space Agency’s Euclid telescope was built to study dark matter and dark energy, but for one day last year, it captured the densely packed stars brightening the center of our galaxy]]>
-      </description>
-      <source:markdown>The European Space Agency’s Euclid telescope was built to study dark matter and dark energy, but for one day last year, it captured the densely packed stars brightening the center of our galaxy</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tixollDPuB0l_ygpMg8dH_yGuh0=/420x240/filters:focal(480x480:481x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e3/7f/e37f3b4d-0ac2-4157-a2ac-068b22a39ef3/euclid_s_view_of_our_galaxy_s_bulge_article.jpg" length="424789" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-most-detailed-photo-of-the-milky-ways-heart-ever-taken-in-visible-light-which-will-help-astronomers-hunt-for-exoplanets-180989027/</guid>
-    </item>    <item>
-      <title>Years in the Making, National Geographic&#39;s Museum of Exploration Is Here to Take You on an Adventure</title>
-      <link>https://www.smithsonianmag.com/smart-news/years-in-the-making-national-geographics-museum-of-exploration-is-here-to-take-you-on-an-adventure-180989034/</link>
-      <description>
-        <![CDATA[The renovated space highlights the hallmarks of the iconic 138-year-old brand, from wildlife photography to the study of anthropology]]>
-      </description>
-      <source:markdown>The renovated space highlights the hallmarks of the iconic 138-year-old brand, from wildlife photography to the study of anthropology</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/r4PLfMZdTKF0KHGTycR6c3UweaE=/420x240/filters:focal(2550x1700:2551x1701)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bd/79/bd795f14-417f-4dbc-b39c-5553ab43b44c/97.jpg" length="3149232" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/years-in-the-making-national-geographics-museum-of-exploration-is-here-to-take-you-on-an-adventure-180989034/</guid>
-    </item>    <item>
-      <title>Scientists Have Deciphered the Surviving Fragments of a 2,000-Year-Old Philosophical Treatise Frozen in Time by Mount Vesuvius&#39; Eruption</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-have-deciphered-the-surviving-fragments-of-a-2000-year-old-philosophical-treatise-frozen-in-time-by-mount-vesuvius-eruption-180989036/</link>
-      <description>
-        <![CDATA[The papyrus manuscript was part of a vast library preserved by volcanic ash. Now, the remaining passages—which examine ethics, knowledge and human nature—are accessible for the first time since 79 C.E.]]>
-      </description>
-      <source:markdown>The papyrus manuscript was part of a vast library preserved by volcanic ash. Now, the remaining passages—which examine ethics, knowledge and human nature—are accessible for the first time since 79 C.E.</source:markdown>
-      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/7d/017dcdd6-6bc5-466f-80f7-91be6c8193c6/scroll9_optimized.gif" length="12127234" type="image/gif" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-have-deciphered-the-surviving-fragments-of-a-2000-year-old-philosophical-treatise-frozen-in-time-by-mount-vesuvius-eruption-180989036/</guid>
-    </item>    <item>
-      <title>Too Hot for Art? Some Paris Museums and Landmarks Close or Reduce Hours Amid a Record Heat Wave in Europe</title>
-      <link>https://www.smithsonianmag.com/smart-news/too-hot-for-art-some-paris-museums-and-landmarks-close-or-reduce-hours-amid-a-record-heat-wave-in-europe-180989029/</link>
-      <description>
-        <![CDATA[Meanwhile, other institutions offer their air-conditioned spaces as a way for residents and tourists to beat the heat]]>
-      </description>
-      <source:markdown>Meanwhile, other institutions offer their air-conditioned spaces as a way for residents and tourists to beat the heat</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SX2WZ_JzARPln0eBqplS0ecLEZ0=/420x240/filters:focal(2784x1856:2785x1857)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/80/4e807431-63a9-4e7f-8b2a-2b935a7f73ed/trocadero.jpg" length="5093728" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/too-hot-for-art-some-paris-museums-and-landmarks-close-or-reduce-hours-amid-a-record-heat-wave-in-europe-180989029/</guid>
-    </item>    <item>
-      <title>NASA Announces Winners for 2026 Human Lander Challenge</title>
-      <link>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/</link>
-      <description>
-        <![CDATA[NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1012463</guid>
-      <category>Human Landing System Program</category>
-      <category>Artemis</category>
-      <category>General</category>
-      <category>Marshall Space Flight Center</category>
-    </item>    <item>
-      <title>NASA Tests New Refuel Device for Future In-Space Refueling Missions</title>
-      <link>https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/</link>
-      <description>
-        <![CDATA[For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as [&#8230;]]]>
-      </description>
-      <source:markdown>For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1012259</guid>
-      <category>Cryogenic Fluid Management (CFM)</category>
-      <category>Marshall Space Flight Center</category>
-      <category>Missions</category>
-      <category>Space Technology Mission Directorate</category>
-      <category>Technology Demonstration</category>
-      <category>Technology Demonstration Missions Program</category>
-    </item>    <item>
-      <title>Norman Rockwell Captured the Hustle of the West Wing in Colorful Drawings Displayed for Decades in the White House. They’re Now on Public View for the First Time</title>
-      <link>https://www.smithsonianmag.com/smart-news/norman-rockwell-captured-the-hustle-of-the-west-wing-in-colorful-drawings-displayed-for-decades-in-the-white-house-theyre-now-on-public-view-for-the-first-time-180989025/</link>
-      <description>
-        <![CDATA[The works were commissioned to humanize President Franklin D. Roosevelt at the height of World War II]]>
-      </description>
-      <source:markdown>The works were commissioned to humanize President Franklin D. Roosevelt at the height of World War II</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/E5M-ln_h6pIpRo53UDtOpbgCQls=/420x240/filters:focal(1771x582:1772x583)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ae/8a/ae8ab9f2-1ec6-4462-8d4e-f82e0e581e49/rockwell_panels_all.png" length="6788621" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/norman-rockwell-captured-the-hustle-of-the-west-wing-in-colorful-drawings-displayed-for-decades-in-the-white-house-theyre-now-on-public-view-for-the-first-time-180989025/</guid>
-    </item>    <item>
-      <title>Partners, NASA Ready for June Launch of Swift Boost Mission</title>
-      <link>https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</link>
-      <description>
-        <![CDATA[A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.]]>
-      </description>
-      <source:markdown>A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</guid>
-      <category>Astrophysics</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Neil Gehrels Swift Observatory</category>
-      <category>Robotics</category>
-      <category>Swift Boost Mission</category>
-      <category>The Universe</category>
-      <category>Wallops Flight Facility</category>
-    </item>    <item>
-      <title>Early Humans May Have Used Fire 1.8 Million Years Ago, Nearly Doubling the Age of the Oldest Known Evidence for the Feat</title>
-      <link>https://www.smithsonianmag.com/smart-news/early-humans-may-have-used-fire-1-8-million-years-ago-nearly-doubling-the-age-of-the-oldest-known-evidence-for-the-feat-180989015/</link>
-      <description>
-        <![CDATA[In Wonderwerk Cave in South Africa, burned bones were found in a dirt layer associated with Homo erectus. The inhabitants probably hadn't mastered fire-making, but researchers say they may have moved and maintained flames from a natural fire]]>
-      </description>
-      <source:markdown>In Wonderwerk Cave in South Africa, burned bones were found in a dirt layer associated with Homo erectus. The inhabitants probably hadn&#39;t mastered fire-making, but researchers say they may have moved and maintained flames from a natural fire</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LSCV_JzDxkoLUtxjtmwnfiCO8TA=/420x240/filters:focal(900x600:901x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/55/b5555f1e-4806-4914-97d8-829006a39811/wonderwerk_cave_entrance_credit_michael_chazan.jpg" length="759759" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/early-humans-may-have-used-fire-1-8-million-years-ago-nearly-doubling-the-age-of-the-oldest-known-evidence-for-the-feat-180989015/</guid>
-    </item>    <item>
-      <title>NASA Identifies More Than 40 Space Technologies for Collaboration</title>
-      <link>https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/</link>
-      <description>
-        <![CDATA[NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar [&#8230;]]]>
-      </description>
-      <source:markdown>NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1012219</guid>
-      <category>Technology</category>
-      <category>Space Technology Mission Directorate</category>
-    </item>    <item>
-      <title>After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade</title>
-      <link>https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/</link>
-      <description>
-        <![CDATA[Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful.            <p>The post <a href="https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/" target="_blank">After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful.
-
-The post [After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade](https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=163481</guid>
-      <category>Mathematics</category>
-    </item>    <item>
-      <title>Euclid Sees Heart of Milky Way</title>
-      <link>https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/</link>
-      <description>
-        <![CDATA[Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives [&#8230;]]]>
-      </description>
-      <source:markdown>Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1011700</guid>
-      <category>Euclid</category>
-      <category>The Milky Way</category>
-    </item>    <item>
-      <title>Bringing Signals to NASA</title>
-      <link>https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/</link>
-      <description>
-        <![CDATA[Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force [&#8230;]]]>
-      </description>
-      <source:markdown>Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1011798</guid>
-      <category>Kennedy Space Center</category>
-      <category>Launch Services Program</category>
-    </item>    <item>
-      <title>NASA’s PACE Mission Studies Smoke, Fires</title>
-      <link>https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/</link>
-      <description>
-        <![CDATA[With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. This data will help scientists piece together clues that deepen their understanding of wildfires. […]]]>
-      </description>
-      <source:markdown>With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. This data will help scientists piece together clues that deepen their understanding of wildfires. \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/</guid>
-    </item>    <item>
-      <title>Hubble Spies Starry Chandelier</title>
-      <link>https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/</link>
-      <description>
-        <![CDATA[This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.]]>
-      </description>
-      <source:markdown>This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/</guid>
-    </item>    <item>
-      <title>Salty Clouds aren’t the only strange thing about this object in space</title>
-      <link>https://www.npr.org/2026/06/26/nx-s1-5871273/weather-star-space-planet-clouds</link>
-      <description>
-        <![CDATA[There’s an object in space 25 times the size of Jupiter that’s stumped scientists for years. They haven’t been able to figure out if it’s a planet or a failed star. But scientists are one step closer to an answer thanks to the powerful James Webb Space Telescope. After analyzing data collected by the telescope, astronomers have uncovered unexpected new clues floating light years away from us: Salty clouds sitting in space as hot as some home ovens. And if this mystery isn’t enough, we have more to look forward to in this episode, including insights into the evolution of laughter and the burials of ancient human relatives. <br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at <a href="http://plus.npr.org"target="_blank"   >plus.npr.org</a>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>There’s an object in space 25 times the size of Jupiter that’s stumped scientists for years. They haven’t been able to figure out if it’s a planet or a failed star. But scientists are one step closer to an answer thanks to the powerful James Webb Space Telescope. After analyzing data collected by the telescope, astronomers have uncovered unexpected new clues floating light years away from us: Salty clouds sitting in space as hot as some home ovens. And if this mystery isn’t enough, we have more to look forward to in this episode, including insights into the evolution of laughter and the burials of ancient human relatives.
-
-_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org)._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/eab19d4a-fed0-4123-bf84-fd26174dd5b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=eab19d4a-fed0-4123-bf84-fd26174dd5b3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5871273&p=510351&d=569&size=9117406" length="9117406" type="audio/mpeg" />
-      <guid>cid://b36388c9-9dc6-4742-9d36-d85b68201ffa</guid>
-    </item>    <item>
-      <title>The Battle for Sullivan’s Island</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/</link>
-      <description>
-        <![CDATA[Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.]]>
-      </description>
-      <source:markdown>Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/</guid>
     </item>
   </channel>
 </rss>

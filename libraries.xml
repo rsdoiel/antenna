@@ -4,10 +4,31 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>17 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>18 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Eleven Ways of Looking at Academic Search, and Why None Alone Is Enough in the Age of AI Search</title>
+      <link>https://aarontay.substack.com/p/eleven-ways-of-looking-at-academic</link>
+      <description>
+        <![CDATA[Ten established traditions, an emerging eleventh, and why libraries need to have a more holistic view of discovery]]>
+      </description>
+      <source:markdown>Ten established traditions, an emerging eleventh, and why libraries need to have a more holistic view of discovery</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!bjVZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25741551-1d68-4d37-b1ef-880d97994e57_1672x941.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/eleven-ways-of-looking-at-academic</guid>
+    </item>    <item>
+      <title>Keeping Knowledge Accessible Starts Here: Subscribe to the Empowering Libraries Newsletter.</title>
+      <link>https://blog.archive.org/2026/07/17/keeping-knowledge-accessible-starts-here-subscribe-to-the-empowering-libraries-newsletter/</link>
+      <description>
+        <![CDATA[Every day, information professionals at libraries, archives, museums and research organizations all over the world work to ensure that knowledge remains available for future generations. From preserving websites before they [&#8230;]]]>
+      </description>
+      <source:markdown>Every day, information professionals at libraries, archives, museums and research organizations all over the world work to ensure that knowledge remains available for future generations. From preserving websites before they \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30714</guid>
+      <category>Announcements</category>
+      <category>News</category>
+      <category>Newsletter</category>
+      <category>empowering libraries</category>
+    </item>    <item>
       <title>New Online at the Library of Congress: July 2026</title>
       <link>https://blogs.loc.gov/thesignal/2026/07/new-loc-july-2026/</link>
       <description>
@@ -293,10 +314,10 @@ The post [Open Science 2.0: Building Understanding in an AI-Mediated World](http
       <title>ARL Daily Intelligence (July 13–16)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-13-16/</link>
       <description>
-        <![CDATA[<p>Last Updated on July 16, 2026, 2:34 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on July 18, 2026, 6:50 am ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-13-16/">ARL Daily Intelligence (July 13–16)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on July 16, 2026, 2:34 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on July 18, 2026, 6:50 am ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (July 13–16)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-13-16/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49244</guid>
@@ -1225,144 +1246,6 @@ The post [Before the Guardrails: Why AI Governance in Research Must Start with P
       <category>local news</category>
       <category>newspaper</category>
       <category>web archiving</category>
-    </item>    <item>
-      <title>Vintage Records Meet Novel Technology: Using Artificial Intelligence to Find New Stories for America’s 250th Birthday</title>
-      <link>https://blogs.loc.gov/thesignal/2026/06/using-artificial-intelligence-to-find-new-stories-for-americas-250th/</link>
-      <description>
-        <![CDATA[This year, libraries and cultural institutions around the nation are celebrating America’s 250th birthday. The 225-year-old Library of Congress is almost as old as the country itself, and this year, we’ve joined forces with the Smithsonian Institution to find new stories about America’s founding in our treasure trove of records and artifacts. 
-        
-        The collaboration, called Revolution Crossroads, is exploring how advanced technologies can surface new connections in history. Staff are working to expand the promise of artificial intelligence (AI) to surface relationships, stories, and context—using some of the nation’s founding digital treasures as a testbed.]]>
-      </description>
-      <source:markdown>This year, libraries and cultural institutions around the nation are celebrating America’s 250th birthday. The 225-year-old Library of Congress is almost as old as the country itself, and this year, we’ve joined forces with the Smithsonian Institution to find new stories about America’s founding in our treasure trove of records and artifacts.
-
-The collaboration, called Revolution Crossroads, is exploring how advanced technologies can surface new connections in history. Staff are working to expand the promise of artificial intelligence (AI) to surface relationships, stories, and context—using some of the nation’s founding digital treasures as a testbed.</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=37615</guid>
-      <category>America 250</category>
-      <category>API</category>
-      <category>Artificial Intelligence</category>
-      <category>Digital Content</category>
-      <category>digital humanities</category>
-      <category>Digital Preservation</category>
-      <category>digital scholarship</category>
-      <category>Partners and Collaboration</category>
-      <category>Tools and Infrastructure</category>
-    </item>    <item>
-      <title>Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/</link>
-      <description>
-        <![CDATA[<p>Today, we reprise the talk by outgoing SSP President Rebecca McLeod at last month's SSP Annual Meeting.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/">Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today, we reprise the talk by outgoing SSP President Rebecca McLeod at last month&#39;s SSP Annual Meeting.
-
-The post [Guest Post — Milestones that Matter: Celebrating a Wartime SSP Presidential Term](https://scholarlykitchen.sspnet.org/2026/06/26/guest-post-milestones-that-matter-celebrating-a-wartime-ssp-presidential-term/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62111</guid>
-      <category>Ethics</category>
-      <category>Historical</category>
-      <category>Research</category>
-      <category>Social Role</category>
-      <category>Society for Scholarly Publishing</category>
-      <category>World of Tomorrow</category>
-      <category>2026 SSP Annual Meeting</category>
-      <category>SSP President</category>
-    </item>    <item>
-      <title>From commitment to connection: 200,000 grants in the scholarly record</title>
-      <link>https://www.crossref.org/blog/from-commitment-to-connection-200000-grants-in-the-scholarly-record/</link>
-      <description>
-        <![CDATA[<p>Funding is one of the key enablers of the research lifecycle, but has been one of the hardest parts of the scholarly record to identify, describe and connect. This is slowly changing as we have recently reached a very exciting milestone for Crossref’s Grant Linking System (GLS). What makes it remarkable is not only the numbers reached, but where the data comes from. Research funders, who joined Crossref as members, have actively contributed more than 200,000 grants to the <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">Research Nexus</a> (Figure 1).</p>
-        <p>Crossref’s GLS was first introduced in 2019, following extensive community consultation with research funders, as a solution to a problem: how to place research funding in the scholarly record as a research entity in its own right, that can be connected with other outputs. Crossref grant DOIs were the first PID that specifically allows for the permanent and unambiguous identification of the support that research funders provide to their grant recipients. It places research funding where it belongs, as a research entity worthy of its own metadata record that can be linked, interpreted, and updated as time goes on. With a funder-designed metadata schema, <a href="https://doi.org/10.64000/h6w1v-r1017" target="_blank">it facilitates the linking of funding to outputs through relationship metadata</a>, building the Research Nexus, and supporting evidence-driven evaluation.</p>
-        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/cumulative-grant-records.png"
-        alt="graph showing the growth of funding metadata deposited since 2019" width="100%">
-        </figure>
-        <p>
-        <p>The active role of funders as owners and stewards of their grants’ description in the metadata, ensuring the records reflect reality, is what makes the resulting links between funding and outputs trustworthy enough to support evidence-driven evaluation, one verifiable data point at a time, as initiatives such as <a href="https://sfdora.org/" target="_blank">DORA</a> and <a href="https://www.coara.org/" target="_blank">CoARA</a> are calling on the research community to do.</p>
-        <p>Reaching 200,000 registered grants with Crossref’s GLS is a milestone that belongs to the entire community. It reflects a strong commitment to open, sustainable and interoperable infrastructure from funders around the world, and a shared conviction that connected metadata makes research more transparent, more accountable and more useful for everyone.</p>
-        <p>It&rsquo;s an opportunity to share perspectives from some of our community members helping make this possible.</p>
-        <h2 id="fonds-de-recherche-du-québec">Fonds de Recherche du Québec</h2>
-        <div class="quotecite">
-        <blockquote>
-        <p><p>When Fonds de Recherche du Québec first began registering funding metadata and assigning Crossref grant DOIs to its funding through Crossref&rsquo;s Grant Linking System, our primary driver was straightforward: traceability. We needed a reliable way to link research outputs back to the funding that made them possible. Crossref grant DOIs provided the missing data point in an interconnected identifier and metadata ecosystem, which includes ROR and ORCID. We hope that Crossref grant DOIs will genuinely improve the researcher experience through interoperability.</p>
-        <p>The journey hasn&rsquo;t been without complexity. Establishing metadata governance required careful collaboration with our legal team to determine what information belongs on landing pages, how to handle updates when grant titles change, and how to protect the integrity of evaluated application data.</p>
-        <p>Our strategy moving forward centres on two pillars: connecting and tracing. Aligned with our <a href="https://frq.gouv.qc.ca/science-ouverte/" target="_blank">Open Science commitments</a> and guided by frameworks like <a href="https://www.coara.org/" target="_blank">CoARA</a> and <a href="https://sfdora.org/" target="_blank">DORA</a>, we want to trace not just publications, but the full spectrum of funded outputs, such as artistic works, exhibitions, patents. We&rsquo;re not fully there yet, and cultural and technical readiness across the community remains a real challenge.</p>
-        <p>Reaching 200,000 registered grants signals that the infrastructure is maturing. For Fonds de Recherche du Québec, it&rsquo;s a motivation to keep contributing to the Research Nexus.</p>
-        </p>
-        </blockquote>
-        <p><cite>&ndash; Antoine Drouin, Analyste en gestion stratégique-Fonds de Recherche du Québec</cite></p>
-        </div>
-        <h2 id="european-commission">European Commission</h2>
-        <div class="quotecite">
-        <blockquote>
-        <p><p>Connecting funding to results at scale is essential for transparent, efficient research. When we began depositing European Commission research grant DOIs with Crossref, we were tackling a practical problem: grant identifiers were used inconsistently across publishers, repositories and reporting tools, making it difficult to trace outputs back to specific EU grants. A persistent, interoperable identifier helps turn fragmented references into durable links.</p>
-        <p>Grant metadata is central to our open science and open access strategy. Open, machine-readable funding information improves transparency about who funds what, and supports automated monitoring of policy requirements by connecting grants to publications and other outputs across the scholarly ecosystem.</p>
-        <p>Registering grant DOIs via the Publications Office of the European Union and depositing them with Crossref is now fully integrated into our internal workflows. We have learned that the DOI is just the starting point: long-term value comes from maintaining high-quality, consistent metadata throughout a grant’s lifecycle and updating it as information evolves.</p>
-        <p>The benefits are clear: improved discoverability of grants, stronger links between funding and outputs, and more robust reporting and analytics. Reaching 200 000 registered grants is a community milestone showing grant identifiers can work at scale and strengthen connections between funding and research results.</p>
-        </p>
-        </blockquote>
-        <p><cite>&ndash; Baya Remaoun, Head of Sector - CORDIS web &amp; data at Publications Office of the European Union</cite></p>
-        </div>
-        <h2 id="wellcome">Wellcome</h2>
-        <div class="quotecite">
-        <blockquote>
-        <p><p>Our motivation to join Crossref’s GLS was to be able to disaggregate research outputs between funders. Funders’ grant identifiers come in a range of formats, funders might change them over time, and there are also similarities between funders’ names, which is a challenge. Permanent identifiers, in this case, Crossref Grant IDs, are an opportunity to avoid some of the confusion if we are able to implement them throughout the research ecosystem.</p>
-        <p>Open Research information is a core part of our open science strategy, it is critical to both our ability to operate as a funder and to the translation of the research we fund into health impacts. That’s why Wellcome is a signatory of the Barcelona Declaration of Open Research Information. Grant metadata is core part of our work, as well as helping us to understand the outputs from the work we’ve funded, it is critical in enabling funders like Wellcome to position our portfolio effectively within the global landscape and enable equitable funding partnerships. In addition to linking grants through Crossref, our recent investment in OpenAlex to openly index grants is aiming to rapidly bolster the global visibility of grant metadata.</p>
-        <p>Internally at Wellcome we’re discussing how we can integrate grant DOIs into other workflows now that we have greater flexibility within our grants management system.</p>
-        <p>Externally we’ve struggled to see adoption of grant DOIs within the wider ecosystem, probably coming from challenges to surface the Crossref grant DOIs to our researchers but also uneven adoption across the ecosystem. Reaching the 200,000 grants registered with Crossref means that there are still huge opportunities to grow and evolve.</p>
-        </p>
-        </blockquote>
-        <p><cite>&ndash; Hannah Hope, Open Research Lead-Wellcome </cite></p>
-        </div>
-        <p>As the <a href="https://doi.org/10.5281/zenodo.20189998" target="_blank">Barcelona Declaration Call to Action on funding metadata</a> makes clear, a rich and interoperable funding metadata landscape is a shared community endeavor. As grant records in Crossref grow, other members of the scholarly community need to ensure that they are included and reported back on their own record, closing the loop on funding reporting and contributing to a richer, more connected Research Nexus.</p>]]>
-      </description>
-      <source:markdown>Funding is one of the key enablers of the research lifecycle, but has been one of the hardest parts of the scholarly record to identify, describe and connect. This is slowly changing as we have recently reached a very exciting milestone for Crossref’s Grant Linking System (GLS). What makes it remarkable is not only the numbers reached, but where the data comes from. Research funders, who joined Crossref as members, have actively contributed more than 200,000 grants to the [Research Nexus](https://www.crossref.org/documentation/research-nexus/) (Figure 1).
-
-Crossref’s GLS was first introduced in 2019, following extensive community consultation with research funders, as a solution to a problem: how to place research funding in the scholarly record as a research entity in its own right, that can be connected with other outputs. Crossref grant DOIs were the first PID that specifically allows for the permanent and unambiguous identification of the support that research funders provide to their grant recipients. It places research funding where it belongs, as a research entity worthy of its own metadata record that can be linked, interpreted, and updated as time goes on. With a funder-designed metadata schema, [it facilitates the linking of funding to outputs through relationship metadata](https://doi.org/10.64000/h6w1v-r1017), building the Research Nexus, and supporting evidence-driven evaluation.
-
-![graph showing the growth of funding metadata deposited since 2019](https://www.crossref.org/images/blog/2026/cumulative-grant-records.png)
-
-The active role of funders as owners and stewards of their grants’ description in the metadata, ensuring the records reflect reality, is what makes the resulting links between funding and outputs trustworthy enough to support evidence-driven evaluation, one verifiable data point at a time, as initiatives such as [DORA](https://sfdora.org/) and [CoARA](https://www.coara.org/) are calling on the research community to do.
-
-Reaching 200,000 registered grants with Crossref’s GLS is a milestone that belongs to the entire community. It reflects a strong commitment to open, sustainable and interoperable infrastructure from funders around the world, and a shared conviction that connected metadata makes research more transparent, more accountable and more useful for everyone.
-
-It’s an opportunity to share perspectives from some of our community members helping make this possible.
-
-## Fonds de Recherche du Québec
-
-&#62; When Fonds de Recherche du Québec first began registering funding metadata and assigning Crossref grant DOIs to its funding through Crossref’s Grant Linking System, our primary driver was straightforward: traceability. We needed a reliable way to link research outputs back to the funding that made them possible. Crossref grant DOIs provided the missing data point in an interconnected identifier and metadata ecosystem, which includes ROR and ORCID. We hope that Crossref grant DOIs will genuinely improve the researcher experience through interoperability.
-&#62;
-&#62; The journey hasn’t been without complexity. Establishing metadata governance required careful collaboration with our legal team to determine what information belongs on landing pages, how to handle updates when grant titles change, and how to protect the integrity of evaluated application data.
-&#62;
-&#62; Our strategy moving forward centres on two pillars: connecting and tracing. Aligned with our [Open Science commitments](https://frq.gouv.qc.ca/science-ouverte/) and guided by frameworks like [CoARA](https://www.coara.org/) and [DORA](https://sfdora.org/), we want to trace not just publications, but the full spectrum of funded outputs, such as artistic works, exhibitions, patents. We’re not fully there yet, and cultural and technical readiness across the community remains a real challenge.
-&#62;
-&#62; Reaching 200,000 registered grants signals that the infrastructure is maturing. For Fonds de Recherche du Québec, it’s a motivation to keep contributing to the Research Nexus.
-
-– Antoine Drouin, Analyste en gestion stratégique-Fonds de Recherche du Québec
-
-## European Commission
-
-&#62; Connecting funding to results at scale is essential for transparent, efficient research. When we began depositing European Commission research grant DOIs with Crossref, we were tackling a practical problem: grant identifiers were used inconsistently across publishers, repositories and reporting tools, making it difficult to trace outputs back to specific EU grants. A persistent, interoperable identifier helps turn fragmented references into durable links.
-&#62;
-&#62; Grant metadata is central to our open science and open access strategy. Open, machine-readable funding information improves transparency about who funds what, and supports automated monitoring of policy requirements by connecting grants to publications and other outputs across the scholarly ecosystem.
-&#62;
-&#62; Registering grant DOIs via the Publications Office of the European Union and depositing them with Crossref is now fully integrated into our internal workflows. We have learned that the DOI is just the starting point: long-term value comes from maintaining high-quality, consistent metadata throughout a grant’s lifecycle and updating it as information evolves.
-&#62;
-&#62; The benefits are clear: improved discoverability of grants, stronger links between funding and outputs, and more robust reporting and analytics. Reaching 200 000 registered grants is a community milestone showing grant identifiers can work at scale and strengthen connections between funding and research results.
-
-– Baya Remaoun, Head of Sector - CORDIS web &#38; data at Publications Office of the European Union
-
-## Wellcome
-
-&#62; Our motivation to join Crossref’s GLS was to be able to disaggregate research outputs between funders. Funders’ grant identifiers come in a range of formats, funders might change them over time, and there are also similarities between funders’ names, which is a challenge. Permanent identifiers, in this case, Crossref Grant IDs, are an opportunity to avoid some of the confusion if we are able to implement them throughout the research ecosystem.
-&#62;
-&#62; Open Research information is a core part of our open science strategy, it is critical to both our ability to operate as a funder and to the translation of the research we fund into health impacts. That’s why Wellcome is a signatory of the Barcelona Declaration of Open Research Information. Grant metadata is core part of our work, as well as helping us to understand the outputs from the work we’ve funded, it is critical in enabling funders like Wellcome to position our portfolio effectively within the global landscape and enable equitable funding partnerships. In addition to linking grants through Crossref, our recent investment in OpenAlex to openly index grants is aiming to rapidly bolster the global visibility of grant metadata.
-&#62;
-&#62; Internally at Wellcome we’re discussing how we can integrate grant DOIs into other workflows now that we have greater flexibility within our grants management system.
-&#62;
-&#62; Externally we’ve struggled to see adoption of grant DOIs within the wider ecosystem, probably coming from challenges to surface the Crossref grant DOIs to our researchers but also uneven adoption across the ecosystem. Reaching the 200,000 grants registered with Crossref means that there are still huge opportunities to grow and evolve.
-
-– Hannah Hope, Open Research Lead-Wellcome
-
-As the [Barcelona Declaration Call to Action on funding metadata](https://doi.org/10.5281/zenodo.20189998) makes clear, a rich and interoperable funding metadata landscape is a shared community endeavor. As grant records in Crossref grow, other members of the scholarly community need to ensure that they are included and reported back on their own record, closing the loop on funding reporting and contributing to a richer, more connected Research Nexus.</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/from-commitment-to-connection-200000-grants-in-the-scholarly-record/</guid>
     </item>
   </channel>
 </rss>
