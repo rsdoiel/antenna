@@ -6,10 +6,19 @@
     <description><![CDATA[Craft is a list of hand oriented craft and technology
 Do we really need all those power tools?]]></description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>18 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>19 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Slöjd Key Fob from ‘Karvsnitt’</title>
+      <link>https://blog.lostartpress.com/2026/07/19/slojd-key-fob-from-karvsnitt/</link>
+      <description>
+        <![CDATA[The following is one of the projects in Jögge Sundqvist&#8217;s book “Karvsnitt: Carving, Pattern &#38; Color in the Slöjd Tradition” Cutting patterns and symbols in wood, and enhancing them with vibrant color, are folk traditions kept alive in the slöjd craft. Through decorations imbued with meaning, chip carving has given soul to slöjd woodcraft throughout...]]>
+      </description>
+      <source:markdown>The following is one of the projects in Jögge Sundqvist’s book “Karvsnitt: Carving, Pattern &#38; Color in the Slöjd Tradition” Cutting patterns and symbols in wood, and enhancing them with vibrant color, are folk traditions kept alive in the slöjd craft. Through decorations imbued with meaning, chip carving has given soul to slöjd woodcraft throughout...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70343</guid>
+      <category>Karvsnitt</category>
+    </item>    <item>
       <title>Splinter Report: July 17th</title>
       <link>https://www.popularwoodworking.com/editors-blog/splinter-report-july-17th/</link>
       <description>
@@ -516,15 +525,6 @@ Luthier on Luthier is hosted by Michael Bashkin of [Bashkin Guitars](https://www
       <source:markdown>Katherine Schwarz was born in April 2001. She grew up in Fort Mitchell, Kentucky, with her sister, Maddy (five years older), her mom, Lucy May, and her dad, Christopher Schwarz.   “Both of my parents have just been the best ever when it comes to raising us,” Katherine says. “My dad worked at the magazine...</source:markdown>
       <guid>cid://https://blog.lostartpress.com/?p=70176</guid>
       <category>Uncategorized</category>
-    </item>    <item>
-      <title>Free Plans for Our Clamshell Bookcase</title>
-      <link>https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/</link>
-      <description>
-        <![CDATA[I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...]]>
-      </description>
-      <source:markdown>I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70257</guid>
-      <category>Campaign Furniture</category>
     </item>
   </channel>
 </rss>

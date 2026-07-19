@@ -4,10 +4,139 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>18 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>19 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The face in the abyss by Abraham Merritt</title>
+      <link>https://www.gutenberg.org/ebooks/79106</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In the land of the gods: some stories of Japan by Alice Mabel Bacon</title>
+      <link>https://www.gutenberg.org/ebooks/79121</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Figures of speech by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79120</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>At the Back of the North Wind by George MacDonald</title>
+      <link>https://www.gutenberg.org/ebooks/225</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Krakatit by Karel Čapek</title>
+      <link>https://www.gutenberg.org/ebooks/79127</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Love Letters of Mary Wollstonecraft to Gilbert Imlay by Mary Wollstonecraft</title>
+      <link>https://www.gutenberg.org/ebooks/34413</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Thorstein of the mere : by W. G.  Collingwood</title>
+      <link>https://www.gutenberg.org/ebooks/79129</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Clever Woman of the Family by Charlotte M.  Yonge</title>
+      <link>https://www.gutenberg.org/ebooks/3292</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Das rote Zimmer by August Strindberg</title>
+      <link>https://www.gutenberg.org/ebooks/79123</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The Ballad of Reading Gaol by Oscar Wilde</title>
+      <link>https://www.gutenberg.org/ebooks/301</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The best jokes about preachers :</title>
+      <link>https://www.gutenberg.org/ebooks/79124</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Best jokes of 1927 :</title>
+      <link>https://www.gutenberg.org/ebooks/79125</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Thorns of regret : by Mrs. Alex. McVeigh Miller</title>
+      <link>https://www.gutenberg.org/ebooks/79130</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Mouse Miller and other stories by Cooke Don-Carlos</title>
+      <link>https://www.gutenberg.org/ebooks/79122</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Kingfisher by Phyllis Bottome</title>
+      <link>https://www.gutenberg.org/ebooks/79126</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass</title>
+      <link>https://www.gutenberg.org/ebooks/23</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The oldest story in the world by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79128</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Poetry, by Maria Lowell</title>
+      <link>https://standardebooks.org/ebooks/maria-lowell/poetry</link>
+      <description>
+        <![CDATA[A collection of poetry by abolitionist Maria Lowell, published posthumously.]]>
+      </description>
+      <source:markdown>A collection of poetry by abolitionist Maria Lowell, published posthumously.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/maria-lowell_poetry.epub?source=feed" length="329693" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/maria-lowell/poetry</guid>
+      <category>Poetry</category>
+    </item>    <item>
       <title>Between Pike&#39;s Peak and a pickle by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79112</link>
       <description>
@@ -17,13 +146,6 @@
     </item>    <item>
       <title>Books in chains : by William Blades</title>
       <link>https://www.gutenberg.org/ebooks/79115</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>In the land of the gods: some stories of Japan by Alice Mabel Bacon</title>
-      <link>https://www.gutenberg.org/ebooks/79121</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -56,13 +178,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Figures of speech by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79120</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Atmosphere by Murray Leinster</title>
       <link>https://www.gutenberg.org/ebooks/79116</link>
@@ -124,13 +239,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The face in the abyss by Abraham Merritt</title>
-      <link>https://www.gutenberg.org/ebooks/79106</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Crowd-horror by Robert E.  Howard</title>
       <link>https://www.gutenberg.org/ebooks/79105</link>
@@ -1426,108 +1534,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Book of Khalid, by Ameen Rihani</title>
-      <link>https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid</link>
-      <description>
-        <![CDATA[A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.]]>
-      </description>
-      <source:markdown>A Lebanese iconoclast emigrates to America and embarks on a quixotic quest for the truth.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid/downloads/ameen-rihani_the-book-of-khalid.epub?source=feed" length="573860" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/ameen-rihani/the-book-of-khalid</guid>
-      <category>Fiction</category>
-      <category>Satire</category>
-    </item>    <item>
-      <title>Barchester Towers by Anthony Trollope</title>
-      <link>https://www.gutenberg.org/ebooks/3409</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>China : by Harry Alverson Franck</title>
-      <link>https://www.gutenberg.org/ebooks/78953</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Culture&#39;s garland : by Eugene Field</title>
-      <link>https://www.gutenberg.org/ebooks/78956</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Bible: should it be in the school room? : by Franklin Steiner</title>
-      <link>https://www.gutenberg.org/ebooks/78962</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>In the American Jungle [1925-1936] by Waldo David Frank</title>
-      <link>https://www.gutenberg.org/ebooks/78957</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Alias Whispering White by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78961</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>For the parson of Paradise by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78960</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Inside information by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78955</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A little help for Hawkins by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78954</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>American root drugs by Alice Henkel</title>
-      <link>https://www.gutenberg.org/ebooks/78958</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Women in the factory : by Adelaide Mary Anderson</title>
-      <link>https://www.gutenberg.org/ebooks/78951</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Flower legends for children by Hilda Murray</title>
-      <link>https://www.gutenberg.org/ebooks/78952</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nederlandsche Insecten by P. Teunissen</title>
-      <link>https://www.gutenberg.org/ebooks/78959</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
     </item>
   </channel>
 </rss>
