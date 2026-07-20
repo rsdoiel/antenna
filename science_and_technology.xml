@@ -4,10 +4,37 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Jul 26 17:50 -0700</lastBuildDate>
-    <generator>antenna/0.0.26</generator>
+    <lastBuildDate>19 Jul 26 18:44 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>DOSBox ported to OpenVMS for Alpha</title>
+      <link>https://www.osnews.com/story/145562/dosbox-ported-to-openvms-for-alpha/</link>
+      <description>
+        <![CDATA[Speaking of OpenVMS and Alpha &#8211; and we like speaking about OpenVMS and Alpha, don&#8217;t we? &#8211; there&#8217;s now a port of DOSBox that runs on the Alpha version venerable operating system. Astr0baby has published both binaries and source code for the port, as well as a lovely set of screenshots to show it off working.]]>
+      </description>
+      <source:markdown>Speaking of OpenVMS and Alpha – and we like speaking about OpenVMS and Alpha, don’t we? – there’s now a port of DOSBox that runs on the Alpha version venerable operating system. Astr0baby has published both binaries and source code for the port, as well as a lovely set of screenshots to show it off working.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145562</guid>
+      <category>OS News</category>
+    </item>    <item>
+      <title>LG monitors silently install software through Windows Update without user consent</title>
+      <link>https://www.osnews.com/story/145560/lg-monitors-silently-install-software-through-windows-update-without-user-consent/</link>
+      <description>
+        <![CDATA[Well, this is new &#8211; but not at all unexpected considering the state of Windows and the wider technology industry. When you connect certain LG monitors to a Windows machine, Windows Update will pull in a bunch of adware promoting antivirus trash. Of course, all done without any consent, because Silicon Valley inherently does not understand nor respect consent. Windows Update first installed LG extension and software component packages. Windows Reliability Monitor showed that LG Monitor App Installer appeared one minute later. The installation did not display a consent prompt or require the user to approve the download. Gamers Nexus tested the application across 32 consecutive system boots. It displayed a McAfee promotion during 31 of them. On the remaining boot, it promoted one of LG’s own monitor utilities. The McAfee popup offered a 30-day trial that would convert into a paid subscription. ↫ WhyCry at VideoCardz Don&#8217;t use Windows.]]>
+      </description>
+      <source:markdown>Well, this is new – but not at all unexpected considering the state of Windows and the wider technology industry. When you connect certain LG monitors to a Windows machine, Windows Update will pull in a bunch of adware promoting antivirus trash. Of course, all done without any consent, because Silicon Valley inherently does not understand nor respect consent. Windows Update first installed LG extension and software component packages. Windows Reliability Monitor showed that LG Monitor App Installer appeared one minute later. The installation did not display a consent prompt or require the user to approve the download. Gamers Nexus tested the application across 32 consecutive system boots. It displayed a McAfee promotion during 31 of them. On the remaining boot, it promoted one of LG’s own monitor utilities. The McAfee popup offered a 30-day trial that would convert into a paid subscription. ↫ WhyCry at VideoCardz Don’t use Windows.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145560</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>New Intel Itanium emulator boots Itanium version of Windows XP and 2003</title>
+      <link>https://www.osnews.com/story/145555/new-intel-itanium-emulator-boots-itanium-version-of-windows-xp-and-2003/</link>
+      <description>
+        <![CDATA[It was only a few weeks ago that we got a massively improved Alpha emulator, capable of running VMS, Windows 2000, and Tru64, including X11 support and a variety of other exciting features. Today, we&#8217;ve got another major emulation milestone. The emulation space is going crazy, after my previous post on Windows booting on DEC Alpha es40 emulator, there is now another huge breakthrough in the emulation of other non-x86 CPU emulation. Yufeng Gao with help from gdwnldsKSC (the man behind the updated es40-fork) has released version 0.1 of his Intel Itanium (IA-64) emulator that boots the Itanium version of Windows Server 2003 and Windows XP 64-bit. No OpenVMS or HP-UX yet and Linux/BSD also don&#8217;t boot. But Windows is amazing already. ↫ Remy van Elst Much like Alpha hardware, Itanium hardware is quite hard to come by &#8211; especially Itanium workstations are a nightmare to find; I think I&#8217;ve only ever seen one or two Itanium workstation come up for sale on eBay in recent years, and their rarity obviously commanded hefty prices. The sooner we are able to run Itanium version of operating systems comfortably in a virtualised environment the better. As long-time OSNews readers know, my heart beats for HP-UX, but the Itanium versions of Windows and VMS would be of more interest to most people, I&#8217;m sure. Excellent news.]]>
+      </description>
+      <source:markdown>It was only a few weeks ago that we got a massively improved Alpha emulator, capable of running VMS, Windows 2000, and Tru64, including X11 support and a variety of other exciting features. Today, we’ve got another major emulation milestone. The emulation space is going crazy, after my previous post on Windows booting on DEC Alpha es40 emulator, there is now another huge breakthrough in the emulation of other non-x86 CPU emulation. Yufeng Gao with help from gdwnldsKSC (the man behind the updated es40-fork) has released version 0.1 of his Intel Itanium (IA-64) emulator that boots the Itanium version of Windows Server 2003 and Windows XP 64-bit. No OpenVMS or HP-UX yet and Linux/BSD also don’t boot. But Windows is amazing already. ↫ Remy van Elst Much like Alpha hardware, Itanium hardware is quite hard to come by – especially Itanium workstations are a nightmare to find; I think I’ve only ever seen one or two Itanium workstation come up for sale on eBay in recent years, and their rarity obviously commanded hefty prices. The sooner we are able to run Itanium version of operating systems comfortably in a virtualised environment the better. As long-time OSNews readers know, my heart beats for HP-UX, but the Itanium versions of Windows and VMS would be of more interest to most people, I’m sure. Excellent news.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145555</guid>
+      <category>Hardware</category>
+    </item>    <item>
       <title>Follow the money, especially in open source</title>
       <link>https://www.osnews.com/story/145548/follow-the-money-especially-in-open-source/</link>
       <description>

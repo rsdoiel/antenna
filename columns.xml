@@ -5,8 +5,8 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>19 Jul 26 17:52 -0700</lastBuildDate>
-    <generator>antenna/0.0.26</generator>
+    <lastBuildDate>19 Jul 26 18:44 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Example Talk</title>
@@ -35,6 +35,251 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Trump Booed During World Cup Final Telecast</title>
+      <link>https://deadline.com/2026/07/trump-booed-world-cup-final-game-1236998161/</link>
+      <description>
+        <![CDATA[The crowd at today&#8217;s World Cup Final cheered wildly for Jennifer Hudson&#8217;s otherworldly rendition of &#8220;The Star Spangled Banner.&#8221; But when Fox cut from Hudson to a shot of President Donald Trump in his box, the cheers turned to boos. Fox stayed with the shot of Trump for just a few seconds before cutting to [&#8230;]]]>
+      </description>
+      <source:markdown>The crowd at today’s World Cup Final cheered wildly for Jennifer Hudson’s otherworldly rendition of “The Star Spangled Banner.” But when Fox cut from Hudson to a shot of President Donald Trump in his box, the cheers turned to boos. Fox stayed with the shot of Trump for just a few seconds before cutting to \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236998161</guid>
+      <category>News</category>
+      <category>Politics</category>
+      <category>Trump</category>
+      <category>World Cup 2026</category>
+    </item>    <item>
+      <title>He Can&#39;t Resist</title>
+      <link>https://robertreich.substack.com/p/he-cant-resist</link>
+      <description>
+        <![CDATA[This photo is worth a thousand words]]>
+      </description>
+      <source:markdown>This photo is worth a thousand words</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!uho8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e168f28-16cc-4804-9219-b32c5c73ce53_1100x721.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/he-cant-resist</guid>
+    </item>    <item>
+      <title>The World Cup’s Blistering Heat Exposed FIFA’s Aramco Sportswashing</title>
+      <link>https://www.clf.org/blog/fifa-aramco-sportswashing-world-cup-heat/</link>
+      <description>
+        <![CDATA[<p>Extreme heat forced FIFA to add new protections for players and fans during the 2026 World Cup. Yet the tournament also gave oil giant Aramco a global platform, exposing the contradiction at the heart of sportswashing: celebrating the game while helping a major polluter polish its image.</p>
+        <p>The post <a href="https://www.clf.org/blog/fifa-aramco-sportswashing-world-cup-heat/">The World Cup’s Blistering Heat Exposed FIFA’s Aramco Sportswashing</a> appeared first on <a href="https://www.clf.org">Conservation Law Foundation</a>.</p>]]>
+      </description>
+      <source:markdown>Extreme heat forced FIFA to add new protections for players and fans during the 2026 World Cup. Yet the tournament also gave oil giant Aramco a global platform, exposing the contradiction at the heart of sportswashing: celebrating the game while helping a major polluter polish its image.
+
+The post [The World Cup’s Blistering Heat Exposed FIFA’s Aramco Sportswashing](https://www.clf.org/blog/fifa-aramco-sportswashing-world-cup-heat/) appeared first on [Conservation Law Foundation](https://www.clf.org).</source:markdown>
+      <guid>cid://https://www.clf.org/?p=89225</guid>
+      <category>Uncategorized</category>
+    </item>    <item>
+      <title>‘Obsession’, ‘The Invite’ &#38; ‘Young Washington’ Power On, ‘Maddie’s Secret’ Tops $1 Million — Specialty Box Office</title>
+      <link>https://deadline.com/2026/07/indie-film-box-office-obsession-the-invite-young-washington-1236998151/</link>
+      <description>
+        <![CDATA[Indies The Invite (A24, $15 million cume), Young Washington (Angel Studios, $41 million cume) and Obsession (Focus Features, $258 million cume) are sitting in the top ten in, respectively, week 4, week 3, and week 10. The Olivia Wilde comedy starring herself, Seth Rogen, Penélope Cruz and Edward Norton grossed $3.9 million for the three [&#8230;]]]>
+      </description>
+      <source:markdown>Indies The Invite (A24, $15 million cume), Young Washington (Angel Studios, $41 million cume) and Obsession (Focus Features, $258 million cume) are sitting in the top ten in, respectively, week 4, week 3, and week 10. The Olivia Wilde comedy starring herself, Seth Rogen, Penélope Cruz and Edward Norton grossed $3.9 million for the three \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236998151</guid>
+      <category>News</category>
+      <category>Maddie&#38;#039;s Secret</category>
+      <category>Obsession</category>
+      <category>Specialty Box Office</category>
+      <category>The Invite</category>
+      <category>Young Washington</category>
+    </item>    <item>
+      <title>Episode 186 - MADDIDA</title>
+      <link>https://adventofcomputing.libsyn.com/episode-186-maddida</link>
+      <description>
+        <![CDATA[<p data-pm-slice="1 1 []">In 1950 Northrup unveiled their MAgnetic Drum DIgital Differential Analyser. The machine is a wild piece of technology; a rendering of an analog computer in digital encoding. But how did we get here? How did a project to guide a missile lead to a mass produced computer? And what does it have to do with suspiciously dry martinis?</p> <p>Selected Sources:</p> <p>https://sci-hub.st/10.1109/MAHC.2003.1179869 - 2003 paper on MADDIDA</p> <p>Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: <a href= "https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC" target="_blank" rel= "noopener noreferrer nofollow">YouTube</a> <a href= "https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31" target= "_blank" rel= "noopener noreferrer nofollow">Spotify</a> <a href= "https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630" target="_blank" rel="noopener noreferrer nofollow"><u>Apple Podcasts</u></a></p> <p> </p>]]>
+      </description>
+      <source:markdown>In 1950 Northrup unveiled their MAgnetic Drum DIgital Differential Analyser. The machine is a wild piece of technology; a rendering of an analog computer in digital encoding. But how did we get here? How did a project to guide a missile lead to a mass produced computer? And what does it have to do with suspiciously dry martinis?
+
+Selected Sources:
+
+https://sci-hub.st/10.1109/MAHC.2003.1179869 - 2003 paper on MADDIDA
+
+Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: [YouTube](https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC) [Spotify](https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31) [Apple Podcasts](https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630)</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep186_maddida.mp3?dest-id=1206722" length="64732705" type="audio/mpeg" />
+      <guid>cid://058a8b38-1934-4615-a2b6-450ff3d707d0</guid>
+    </item>    <item>
+      <title>Spain Wins The 2026 World Cup 1-0, Punishing Argentina With A Barrage Of 20 Shots On Goal</title>
+      <link>https://deadline.com/2026/07/spain-wins-2026-world-cup-argentina-1236998074/</link>
+      <description>
+        <![CDATA[One senior NBCUniversal Telemundo exec predicted the 2026 World Cup Final could be a game for the ages, but it wasn&#8217;t quite on par with, say, Argentina-England in 1986. In fact, if there was a &#8220;Hand of God&#8221; in this one, it belonged to Argentina&#8217;s keeper, Emiliano &#8220;Dibu&#8221; Martínez, who was playing with a broken [&#8230;]]]>
+      </description>
+      <source:markdown>One senior NBCUniversal Telemundo exec predicted the 2026 World Cup Final could be a game for the ages, but it wasn’t quite on par with, say, Argentina-England in 1986. In fact, if there was a “Hand of God” in this one, it belonged to Argentina’s keeper, Emiliano “Dibu” Martínez, who was playing with a broken \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236998074</guid>
+      <category>News</category>
+      <category>Sports</category>
+      <category>World Cup</category>
+      <category>World Cup 2026</category>
+    </item>    <item>
+      <title>Sunday caption contest: Floating</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-floating</link>
+      <description>
+        <![CDATA[And last week's winner]]>
+      </description>
+      <source:markdown>And last week&#39;s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!mQGi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1d6393d-adbe-46b5-8cb8-2ab1322c72ff_2427x3007.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-floating</guid>
+    </item>    <item>
+      <title>Tom Cruise Makes Appearance At World Cup Final To “Celebrate A Tournament That Brought The World Together”: “This Is Unity &#38; This Is Greatness”</title>
+      <link>https://deadline.com/2026/07/tom-cruise-world-cup-final-celebrate-tournament-football-1236997840/</link>
+      <description>
+        <![CDATA[Tom Cruise made a guest appearance during the pre-show for the 2026 FIFA World Cup final. Ahead of the matchup between Spain and Argentina to find out who becomes the soccer champion, the Digger star took the stage to deliver some encouraging words. &#8220;More than 30 days ago, 48 nations began a journey,&#8221; Cruise said. [&#8230;]]]>
+      </description>
+      <source:markdown>Tom Cruise made a guest appearance during the pre-show for the 2026 FIFA World Cup final. Ahead of the matchup between Spain and Argentina to find out who becomes the soccer champion, the Digger star took the stage to deliver some encouraging words. “More than 30 days ago, 48 nations began a journey,” Cruise said. \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236997840</guid>
+      <category>News</category>
+      <category>Sports</category>
+      <category>Tom Cruise</category>
+      <category>World Cup</category>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/116947852137798337</link>
+      <description>
+        <![CDATA[<p>In Mexico we say “estoy más exprimido que un limón de fonda” and I think this is beautiful</p>]]>
+      </description>
+      <source:markdown>In Mexico we say “estoy más exprimido que un limón de fonda” and I think this is beautiful</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/116947852137798337</guid>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-july-19</link>
+      <description>
+        <![CDATA[The courts continue to be a guardrail that&#8217;s holding during Trump&#8217;s second term.]]>
+      </description>
+      <source:markdown>The courts continue to be a guardrail that’s holding during Trump’s second term.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/dd9deed1-3aed-4370-a145-4c98eaf06e7e_1038x592.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-july-19</guid>
+    </item>    <item>
+      <title>‘Real Housewives Of Orange County’ Star Jeana Keough Diagnosed With Tongue Cancer At 70</title>
+      <link>https://deadline.com/2026/07/real-housewives-of-orange-county-jeana-keough-diagnosed-cancer-1236997750/</link>
+      <description>
+        <![CDATA[Jeana Keough, one of the OG stars of The Real Housewives of Orange County, has been diagnosed with tongue cancer at the age of 70, her daughter confirmed. The former Bravo star was recently diagnosed, and her daughter, Kara Bosworth, shared details on social media as she looks to crowdfund to cover cancer treatment expenses. [&#8230;]]]>
+      </description>
+      <source:markdown>Jeana Keough, one of the OG stars of The Real Housewives of Orange County, has been diagnosed with tongue cancer at the age of 70, her daughter confirmed. The former Bravo star was recently diagnosed, and her daughter, Kara Bosworth, shared details on social media as she looks to crowdfund to cover cancer treatment expenses. \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236997750</guid>
+      <category>News</category>
+      <category>Bravo</category>
+      <category>Reality TV</category>
+      <category>The Real Housewives of Orange County</category>
+    </item>    <item>
+      <title>The Diagnosis Doesn’t Match the Prescription</title>
+      <link>https://danismart.substack.com/p/the-diagnosis-doesnt-match-the-prescription</link>
+      <description>
+        <![CDATA[Part two of two. Part one fact-checked what Trump actually said in his July 16 address on election security: the China claim, the Venezuela claim, the Russia omission, and how his own party reacted. This piece picks up from there and asks the question that matters more. Set aside, for a moment, whether every claim in that speech holds up. Does the SAVE Act even address the problem he described?]]>
+      </description>
+      <source:markdown>Part two of two. Part one fact-checked what Trump actually said in his July 16 address on election security: the China claim, the Venezuela claim, the Russia omission, and how his own party reacted. This piece picks up from there and asks the question that matters more. Set aside, for a moment, whether every claim in that speech holds up. Does the SAVE Act even address the problem he described?</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/cac14218-e2b6-4337-b42b-0a86d4c08f09_700x467.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://danismart.substack.com/p/the-diagnosis-doesnt-match-the-prescription</guid>
+    </item>    <item>
+      <title>The Speech That Wasn’t About the Bill</title>
+      <link>https://danismart.substack.com/p/the-speech-that-wasnt-about-the-bill</link>
+      <description>
+        <![CDATA[Part one of two. This isn't another breakdown of what the SAVE Act does to voters. I've written that piece enough times. This one is about what Trump said on July 16 to justify it. Part two asks whether the bill he's demanding actually addresses any of it.]]>
+      </description>
+      <source:markdown>Part one of two. This isn&#39;t another breakdown of what the SAVE Act does to voters. I&#39;ve written that piece enough times. This one is about what Trump said on July 16 to justify it. Part two asks whether the bill he&#39;s demanding actually addresses any of it.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/5710a36d-b666-42c8-a022-52def45175a3_700x467.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://danismart.substack.com/p/the-speech-that-wasnt-about-the-bill</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/19.html#a170642</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2019/09/02/teamworkWins.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today we have our first <a href="https://github.com/scripting/rss.chat/tree/main/examples/wordpress/inboundRss">example app for WordPress</a>. We started with an app I wrote that keeps <a href="http://scripting.com/2026/07/19.html#a170642">scripting.com</a> in sync with <a href="https://daveverse.org/2026/07/19/#a11258">daveverse.org</a>, a WordPress site.  I have the app running in a tab on my desktop, you don't need a server for this. We use WordLand to bridge us, but if you have good WordPress code that uses their API, you won't need that. This is also a firehose app, it doesn't read the feed, it lets rss.chat tell us, over a websocket when something new has been posted or updated. We need to break through in <a href="https://daytona.scripting.com/search?q=%22inbound%20rss%22">Inbound RSS</a>. If every social site supported it, that would be the end of lock-in in the social web. Great place for WordPress to lead.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2019/09/02/teamworkWins.png)Today we have our first [example app for WordPress](https://github.com/scripting/rss.chat/tree/main/examples/wordpress/inboundRss). We started with an app I wrote that keeps [scripting.com](http://scripting.com/2026/07/19.html#a170642) in sync with [daveverse.org](https://daveverse.org/2026/07/19/#a11258), a WordPress site. I have the app running in a tab on my desktop, you don&#39;t need a server for this. We use WordLand to bridge us, but if you have good WordPress code that uses their API, you won&#39;t need that. This is also a firehose app, it doesn&#39;t read the feed, it lets rss.chat tell us, over a websocket when something new has been posted or updated. We need to break through in [Inbound RSS](https://daytona.scripting.com/search?q=%22inbound%20rss%22). If every social site supported it, that would be the end of lock-in in the social web. Great place for WordPress to lead.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/19.html#a170642</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/19.html#a170325</link>
+      <description>
+        <![CDATA[Way back in March as I was starting to work with Claude Code, I think -- we put together a <a href="https://this.how/ai/outliner/outliner.html">pretty nice outliner</a> that is remarkably feature-rich. I barely remember doing this. It's what got me moving in this direction, and next month we started doing what became rss.chat.]]>
+      </description>
+      <source:markdown>Way back in March as I was starting to work with Claude Code, I think -- we put together a [pretty nice outliner](https://this.how/ai/outliner/outliner.html) that is remarkably feature-rich. I barely remember doing this. It&#39;s what got me moving in this direction, and next month we started doing what became rss.chat.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/19.html#a170325</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/19.html#a165902</link>
+      <description>
+        <![CDATA[I <a href="https://demo.rss.chat/?id=180">wonder</a> if it makes <a href="https://www.manton.org/2026/07/19/i-thought-our-standardsite-support.html">sense</a> to try to implement <a href="https://standard.site/">standard.site</a> in the context of rss.chat?]]>
+      </description>
+      <source:markdown>I [wonder](https://demo.rss.chat/?id=180) if it makes [sense](https://www.manton.org/2026/07/19/i-thought-our-standardsite-support.html) to try to implement [standard.site](https://standard.site/) in the context of rss.chat?</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/19.html#a165902</guid>
+    </item>    <item>
+      <title>Anne Hathaway Shares ‘Princess Diaries 3’ Update After Having To “Start Over”: “We Had A Story Breakthrough”</title>
+      <link>https://deadline.com/2026/07/anne-hathaway-princess-diaries-3-update-1236997738/</link>
+      <description>
+        <![CDATA[Anne Hathaway is giving an update on The Princess Diaries 3 after years in development. In a new interview, Hathaway revealed that the script they had been working on had to be scrapped for a new direction and that they had recently had a &#8220;breakthrough.&#8221; &#8220;I&#8217;m busy making baby number three, and that has sort [&#8230;]]]>
+      </description>
+      <source:markdown>Anne Hathaway is giving an update on The Princess Diaries 3 after years in development. In a new interview, Hathaway revealed that the script they had been working on had to be scrapped for a new direction and that they had recently had a “breakthrough.” “I’m busy making baby number three, and that has sort \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236997738</guid>
+      <category>News</category>
+      <category>Anne Hathaway</category>
+      <category>Princess Diaries 3</category>
+      <category>The Princess Diaries</category>
+    </item>    <item>
+      <title>On The Necessity Of Dems Getting A Clear Mandate From Voters This November - Revisiting My Conversation With Hardy Merriman</title>
+      <link>https://www.hopiumchronicles.com/p/on-the-necessity-of-dems-getting</link>
+      <description>
+        <![CDATA[I've been thinking a lot about this conversation I had with Hardy Merriman a few months ago.....]]>
+      </description>
+      <source:markdown>I&#39;ve been thinking a lot about this conversation I had with Hardy Merriman a few months ago.....</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/1ad4c200-80c6-4729-8e05-80b6cdde4f1e_1092x613.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/on-the-necessity-of-dems-getting</guid>
+    </item>    <item>
+      <title>Week Eight in 250 to 250</title>
+      <link>https://heathercoxrichardson.substack.com/p/week-eight-in-250-to-250</link>
+      <description>
+        <![CDATA[This was the eighth week of videos from the 250 to 250 Project that we&#8217;re producing to honor the 250th anniversary of the Declaration of Independence.]]>
+      </description>
+      <source:markdown>This was the eighth week of videos from the 250 to 250 Project that we’re producing to honor the 250th anniversary of the Declaration of Independence.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/LqGn34wCews" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/week-eight-in-250-to-250</guid>
+    </item>    <item>
+      <title>Telemundo Scores U.S. Spanish-Language Rights To UEFA Champions League</title>
+      <link>https://deadline.com/2026/07/telemundo-scores-spanish-language-rights-uefa-champions-league-1236997711/</link>
+      <description>
+        <![CDATA[Gooooooooooooal!!!!! Telemundo is not done with soccer after the World Cup final, as the U.S.-based network has scored the Spanish-language rights to all of UEFA&#8217;s men&#8217;s club competitions. The deal is for three seasons and begins with the 2027-28 season and includes the Spanish-language rights in the U.S. for the UEFA Champions League, UEFA Europa [&#8230;]]]>
+      </description>
+      <source:markdown>Gooooooooooooal!!!!! Telemundo is not done with soccer after the World Cup final, as the U.S.-based network has scored the Spanish-language rights to all of UEFA’s men’s club competitions. The deal is for three seasons and begins with the 2027-28 season and includes the Spanish-language rights in the U.S. for the UEFA Champions League, UEFA Europa \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236997711</guid>
+      <category>News</category>
+      <category>Sports</category>
+      <category>Latino Media</category>
+      <category>Telemundo</category>
+      <category>UEFA</category>
+      <category>UEFA Champions League</category>
+      <category>World Cup</category>
+    </item>    <item>
+      <title>‘The Odyssey’ Conquers $264M+ Around The World,  Best Ever For Christopher Nolan Ahead Of ‘Dark Knight Rises’ – Global B.O. Sunday Update</title>
+      <link>https://deadline.com/2026/07/box-office-global-the-odyssey-1236996979/</link>
+      <description>
+        <![CDATA[SUNDAY AM: Odysseus&#8217; boatload of cash from his global voyage just got bigger with Universal&#8217;s Christopher Nolan epic The Odyssey raking in $264.1M worldwide, again a record start for the director ahead of Dark Knight Rises ($249M WW). The foreign start of $139.6M is also the director&#8217;s biggest international opening ever ahead of Oppenheimer and [&#8230;]]]>
+      </description>
+      <source:markdown>SUNDAY AM: Odysseus’ boatload of cash from his global voyage just got bigger with Universal’s Christopher Nolan epic The Odyssey raking in $264.1M worldwide, again a record start for the director ahead of Dark Knight Rises ($249M WW). The foreign start of $139.6M is also the director’s biggest international opening ever ahead of Oppenheimer and \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236996979</guid>
+      <category>News</category>
+      <category>Christopher Nolan</category>
+      <category>The Odyssey</category>
+      <category>Universal</category>
+    </item>    <item>
+      <link>http://scripting.com/2026/07/19.html#a153823</link>
+      <description>
+        <![CDATA[Just finished <a href="https://en.wikipedia.org/wiki/The_Expanse_(TV_series)">The Expanse</a> for the third time. Realized that the inners of today are Silicon Valley and the Belters, that’s the web.]]>
+      </description>
+      <source:markdown>Just finished [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_\(TV_series\)) for the third time. Realized that the inners of today are Silicon Valley and the Belters, that’s the web.</source:markdown>
+      <guid>cid://http://scripting.com/2026/07/19.html#a153823</guid>
+    </item>    <item>
+      <title>‘The Odyssey’ Slays With $124M+ U.S. Opening: ‘A’ CinemaScore, Best Live-Action Haul Of 2026,  Record For Matt Damon As Lead &#38; More – Box Office Sunday AM Update</title>
+      <link>https://deadline.com/2026/07/box-office-the-odyssey-1236993792/</link>
+      <description>
+        <![CDATA[SUNDAY AM: Universal&#8217;s Christopher Nolan epic The Odyssey had a great hold on Saturday of $41.66M -17% off Friday/previews taking its overall weekend to $124.5M, which breaks a slew of records we&#8217;ve been telling you about over the weekend including the best domestic start YTD for a movie, the best ever opening for Matt Damon, [&#8230;]]]>
+      </description>
+      <source:markdown>SUNDAY AM: Universal’s Christopher Nolan epic The Odyssey had a great hold on Saturday of $41.66M -17% off Friday/previews taking its overall weekend to $124.5M, which breaks a slew of records we’ve been telling you about over the weekend including the best domestic start YTD for a movie, the best ever opening for Matt Damon, \[…\]</source:markdown>
+      <guid>cid://https://deadline.com/?p=1236993792</guid>
+      <category>News</category>
+      <category>Christopher Nolan</category>
+      <category>The Odyssey</category>
+      <category>Universal</category>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/116947192519698704</link>
+      <description>
+        <![CDATA[<p>Parenting teens:</p>]]>
+      </description>
+      <source:markdown>Parenting teens:</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/116947192519698704</guid>
     </item>    <item>
       <title>That they may face the rising sun. https://en.wikipedia.org/wiki/Cloghanmore</title>
       <link>https://adactio.com/notes/22665</link>
@@ -112,7 +357,7 @@ Ar ais arís in Oideas Gael.</source:markdown>
         <![CDATA[Is it possible to be loyal to Trump and preserve one's integrity?]]>
       </description>
       <source:markdown>Is it possible to be loyal to Trump and preserve one&#39;s integrity?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!y052!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1853fd-31d9-4aa9-a504-f4ae2694d40c_1200x1200.webp" length="0" type="image/jpeg" />
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/06dad64b-f1bf-4c63-98b3-08c9914c3f2b_2400x1260.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/sunday-thought-integrity</guid>
     </item>    <item>
       <title>James Gunn Says ‘Big Brother 28’s Rick Devens Was Set For ‘Man Of Tomorrow’ Cameo But “Had To Cancel” Due To CBS Competition</title>
@@ -886,6 +1131,15 @@ What would Steve Jobs do with this OpenAI situation? He’d go to war.</source:m
       <category>The Odyssey</category>
       <category>Tom Holland</category>
     </item>    <item>
+      <title>The owner isn’t here</title>
+      <link>https://maxhalford.github.io/blog/thoughts/2026-07-19-the-owner-isnt-here/</link>
+      <description>
+        <![CDATA[<p>I’m in Copenhagen with my mother and we’re hungry. We’re just looking for something simple so we can get back to our walk. Testttt</p>]]>
+      </description>
+      <source:markdown>I’m in Copenhagen with my mother and we’re hungry. We’re just looking for something simple so we can get back to our walk. Testttt</source:markdown>
+      <author>maxhalford25@gmail.com (Max Halford)</author>
+      <guid>cid://https://maxhalford.github.io/blog/thoughts/2026-07-19-the-owner-isnt-here/</guid>
+    </item>    <item>
       <link>https://andysylvester.com/2026/07/18/4429/</link>
       <description>
         <![CDATA[&#8230;chatting about rss.chat at rsschat.andysylvester.com&#8230;.]]>
@@ -929,9 +1183,9 @@ What would Steve Jobs do with this OpenAI situation? He’d go to war.</source:m
       <title>Intelliday</title>
       <link>https://doc.searls.com/2026/07/18/intelliday/</link>
       <description>
-        <![CDATA[How about mintelligence? We need different words for human and machine intelligence.  The human kind is a quality, like empathy, anger, or contentment. You can&#39;t measure it, as if with a ruler or a dipstick. If you could, you&#39;d get the same measure every time. IQ testing pretends to measure intelligence, but it doesn&#39;t. (I [&#8230;]]]>
+        <![CDATA[How about mintelligence? We need different words for human and machine intelligence. The human kind is a quality, like empathy, anger, or contentment. You can&#8217;t measure it, as if with a ruler or a dipstick. If you could, you&#8217;d get the same measure every time. IQ testing pretends to measure intelligence, but it doesn&#8217;t. (I [&#8230;]]]>
       </description>
-      <source:markdown>How about mintelligence? We need different words for human and machine intelligence.  The human kind is a quality, like empathy, anger, or contentment. You can&#39;t measure it, as if with a ruler or a dipstick. If you could, you&#39;d get the same measure every time. IQ testing pretends to measure intelligence, but it doesn&#39;t. (I \[…\]</source:markdown>
+      <source:markdown>How about mintelligence? We need different words for human and machine intelligence. The human kind is a quality, like empathy, anger, or contentment. You can’t measure it, as if with a ruler or a dipstick. If you could, you’d get the same measure every time. IQ testing pretends to measure intelligence, but it doesn’t. (I \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/2026/07/18/intelliday/</guid>
       <category>AI</category>
       <category>Artificial Intelligence</category>
@@ -1124,18 +1378,6 @@ Fáilte go Dún na nGall!</source:markdown>
       <category>The Rocky Horror SHow</category>
       <category>Valentina</category>
     </item>    <item>
-      <title>‘The Odyssey’ Opening To $257M+ Around The World, Best Ever For Christopher Nolan Ahead Of ‘Dark Knight Rises’ – Global Box Office Update</title>
-      <link>https://deadline.com/2026/07/box-office-global-the-odyssey-1236996979/</link>
-      <description>
-        <![CDATA[SATURDAY UPDATE: Not sunny weather, nor World Cup is hindering Universal&#8217;s The Odyssey which as of this morning is on its way to becoming Christopher Nolan&#8217;s best global opening ever with $257.8M, which puts away his previous highs of The Dark Knight Rises ($249M WW debut), The Dark Knight ($198M WW) and Oppenheimer ($180M WW). [&#8230;]]]>
-      </description>
-      <source:markdown>SATURDAY UPDATE: Not sunny weather, nor World Cup is hindering Universal’s The Odyssey which as of this morning is on its way to becoming Christopher Nolan’s best global opening ever with $257.8M, which puts away his previous highs of The Dark Knight Rises ($249M WW debut), The Dark Knight ($198M WW) and Oppenheimer ($180M WW). \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236996979</guid>
-      <category>News</category>
-      <category>Christopher Nolan</category>
-      <category>The Odyssey</category>
-      <category>Universal</category>
-    </item>    <item>
       <title>Larry David Jabs Anti-Vaccine Activism Of Cheryl Hines’ Husband In Latest ‘Life, Larry And The Pursuit Of Unhappiness’</title>
       <link>https://deadline.com/2026/07/larry-david-robert-kennedy-jr-1236997510/</link>
       <description>
@@ -1156,18 +1398,6 @@ Fáilte go Dún na nGall!</source:markdown>
       </description>
       <source:markdown>[Wrote this in 2018](http://scripting.com/2018/07/18.html#a124950): &#34;I know this is like pissing in the wind, but here&#39;s an idea for a demonstration that might impress the Repubs in Congress. In every one of their home districts, people march to their polling place, next Saturday or the Saturday after that. Carrying signs that say We Know How To Vote, with the name of their congressperson on it. Go out of the way to recruit Republican-looking voters. Make sure the TV cameras are there.&#34; An even better idea in 2026. Give the reporters something to talk about. And it&#39;s all in your neighborhood. You can have a picnic, do it every week. Only in good weather.</source:markdown>
       <guid>cid://http://scripting.com/2026/07/18.html#a153723</guid>
-    </item>    <item>
-      <title>‘The Odyssey’ Slaying With $120M+ U.S. Opening: ‘A’ CinemaScore, Best Live-Action Haul Of 2026 &#38; Record For Matt Damon As Lead – Box Office Saturday AM Update</title>
-      <link>https://deadline.com/2026/07/box-office-the-odyssey-1236993792/</link>
-      <description>
-        <![CDATA[SATURDAY AM: Christopher Nolan&#8217;s The Odyssey remains on course for the best live-action feature debut this year at the North American box office to date with $120.5M after Friday/previews of $51.2M. We already told you that this is Nolan&#8217;s third best opening ever in U.S./Canada, and so it is in opening days as well. The [&#8230;]]]>
-      </description>
-      <source:markdown>SATURDAY AM: Christopher Nolan’s The Odyssey remains on course for the best live-action feature debut this year at the North American box office to date with $120.5M after Friday/previews of $51.2M. We already told you that this is Nolan’s third best opening ever in U.S./Canada, and so it is in opening days as well. The \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236993792</guid>
-      <category>News</category>
-      <category>Christopher Nolan</category>
-      <category>The Odyssey</category>
-      <category>Universal</category>
     </item>    <item>
       <link>http://scripting.com/2026/07/18.html#a152237</link>
       <description>

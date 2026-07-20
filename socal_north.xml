@@ -5,17 +5,33 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>19 Jul 26 17:50 -0700</lastBuildDate>
-    <generator>antenna/0.0.26</generator>
+    <lastBuildDate>19 Jul 26 18:31 -0700</lastBuildDate>
+    <generator>antenna/0.0.25</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The World Cup has come and gone. LA loved the tournament, with some hiccups</title>
-      <link>https://laist.com/news/los-angeles-activities/fifa-2026-world-cup-los-angeles-roundup</link>
+      <title>Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title</title>
+      <link>https://laist.com/news/spain-is-the-2026-world-cup-champion-defeating-argentina-for-its-2nd-title</link>
       <description>
-        <![CDATA[Public transit and free city watch parties shined during this year's tournament. FIFA — with its corporate sponsors and official fan events — had a more lukewarm reception.]]>
+        <![CDATA[Spain's run to the title was a defensive masterclass, with wins over four of the world's top 10 teams.]]>
       </description>
-      <source:markdown>Public transit and free city watch parties shined during this year&#39;s tournament. FIFA — with its corporate sponsors and official fan events — had a more lukewarm reception.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-6c18-dfd2-abbf-fd99244b0000</guid>
+      <source:markdown>Spain&#39;s run to the title was a defensive masterclass, with wins over four of the world&#39;s top 10 teams.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-7c6b-df40-addf-7c7bd8380001</guid>
+    </item>    <item>
+      <title>MLS works to bring in a new generation of fans as the World Cup comes to an end</title>
+      <link>https://laist.com/news/mls-works-to-bring-in-a-new-generation-of-fans-as-the-world-cup-comes-to-an-end</link>
+      <description>
+        <![CDATA[In 1994, the last men's World Cup the U.S. hosted sparked soccer fever. Now, can MLS harness this World Cup for a new generation of fans?]]>
+      </description>
+      <source:markdown>In 1994, the last men&#39;s World Cup the U.S. hosted sparked soccer fever. Now, can MLS harness this World Cup for a new generation of fans?</source:markdown>
+      <guid>cid://urn:uuid:0000019f-7b76-d465-a9ff-fbf6bea00000</guid>
+    </item>    <item>
+      <title>Long Beach uses millions from emergency reserves, braces for ‘difficult changes’ ahead</title>
+      <link>https://laist.com/news/long-beach-uses-millions-from-emergency-reserves-braces-for-difficult-changes-ahead</link>
+      <description>
+        <![CDATA[The city of Long Beach plans to dip into its emergency reserves to balance its books this year as lagging tax revenue and rising expenses worsen its financial position.]]>
+      </description>
+      <source:markdown>The city of Long Beach plans to dip into its emergency reserves to balance its books this year as lagging tax revenue and rising expenses worsen its financial position.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-7adc-d465-a9ff-fafe4ee30000</guid>
     </item>    <item>
       <title>Wrapping a gift with love, the Korean way — learn the art of bojagi for free in LA</title>
       <link>https://laist.com/news/los-angeles-activities/wrapping-a-gift-with-love-the-korean-way-learn-the-art-of-bojagi-for-free-in-la</link>
@@ -33,12 +49,20 @@
       <source:markdown>James Conlon leaves L.A. as his grand-nephew Sebastian arrives as a newly-drafted MLS goalie.</source:markdown>
       <guid>cid://urn:uuid:0000019f-62cb-de73-a19f-e2ebdbe20000</guid>
     </item>    <item>
-      <title>Crews make progress on ruptured West Hollywood water main; no completion date yet</title>
+      <title>The World Cup has come and gone. LA loved the tournament, with some hiccups</title>
+      <link>https://laist.com/news/los-angeles-activities/fifa-2026-world-cup-los-angeles-roundup</link>
+      <description>
+        <![CDATA[Public transit and free city watch parties shined during this year's tournament. FIFA — with its corporate sponsors and official fan events — had a more lukewarm reception.]]>
+      </description>
+      <source:markdown>Public transit and free city watch parties shined during this year&#39;s tournament. FIFA — with its corporate sponsors and official fan events — had a more lukewarm reception.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-6c18-dfd2-abbf-fd99244b0000</guid>
+    </item>    <item>
+      <title>West Hollywood water main repairs continue, but no completion date yet</title>
       <link>https://laist.com/news/transportation/west-hollywood-water-main-break-ladwp-progress</link>
       <description>
-        <![CDATA[Closures are still in place after repairs overnight to remove a 25-foot-long section of the broken pipe and put a replacement in place.]]>
+        <![CDATA[Street closures are still in place after a 100-year-old pipe in West Hollywood ruptured Thursday.]]>
       </description>
-      <source:markdown>Closures are still in place after repairs overnight to remove a 25-foot-long section of the broken pipe and put a replacement in place.</source:markdown>
+      <source:markdown>Street closures are still in place after a 100-year-old pipe in West Hollywood ruptured Thursday.</source:markdown>
       <guid>cid://urn:uuid:0000019f-7681-de73-a19f-f6abb7810000</guid>
     </item>    <item>
       <title>Turning Feedback into Action</title>
