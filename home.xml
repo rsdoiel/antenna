@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Home, Garden and Urban Farm related blogs]]></title>
     <link>https://rsdoiel.github.io/antenna/home.xml</link>
-    <lastBuildDate>19 Jul 26 19:07 -0700</lastBuildDate>
+    <lastBuildDate>20 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -580,6 +580,23 @@ The post [Stop Over-Cleaning: 10 Household Items That Actually Need Less (Or No)
       <guid>cid://https://www.familyhandyman.com/?post_type=listicle&#38;p=707911</guid>
       <category>Cleaning</category>
       <category>Topics</category>
+    </item>    <item>
+      <title>Is Cayucos the Last Unspoiled Beach Town?</title>
+      <link>https://sunset.com/travel/insider-guides/cayucos-things-to-do</link>
+      <description>
+        <![CDATA[Between Cambria and Morro Bay, Cayucos is a charming beach town untouched by commercialization. Here's what to do on your next visit.]]>
+      </description>
+      <source:markdown>Between Cambria and Morro Bay, Cayucos is a charming beach town untouched by commercialization. Here&#39;s what to do on your next visit.</source:markdown>
+      <guid>cid://https://sunset.com/?p=213555</guid>
+      <category>Insider Guides</category>
+      <category>beach</category>
+      <category>beach road trip</category>
+      <category>California</category>
+      <category>cayucos</category>
+      <category>coastal trips</category>
+      <category>day trip</category>
+      <category>no-video</category>
+      <category>San Luis Obispo</category>
     </item>    <item>
       <title>Homepage 2025</title>
       <link>https://sunset.com/</link>

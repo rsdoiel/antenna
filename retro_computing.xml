@@ -4,10 +4,31 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>19 Jul 26 19:08 -0700</lastBuildDate>
+    <lastBuildDate>20 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Große Retro-Software-Welle im Anrollen</title>
+      <link>http://riscosblog.huber-net.de/2026/07/grosse-retro-software-welle-im-anrollen/</link>
+      <description>
+        <![CDATA[Aus alter Verbundenheit bin ich immer noch stiller Mitleser diverser RISC OS-Mailinglisten. Auf einer derer kam vor wenigen Tagen die Ankündigung, dass die über 10 Jahre dauernden (also ein echtes Projekt aus der RISC OS-Welt &#8211; man wartet ewig drauf, und wenn es dann fertig ist, interessiert sich keiner mehr dafür) Bemühungen, die Reste von APDL nach dem Tod von APDL-Gründer und Inhaber David Holden 2014 wieder gesammelt zur Verfügung zu stellen, sich jetzt der <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="http://riscosblog.huber-net.de/2026/07/grosse-retro-software-welle-im-anrollen/" class="more-link"><span>Read More &#8594;</span></a></span>]]>
+      </description>
+      <source:markdown>Aus alter Verbundenheit bin ich immer noch stiller Mitleser diverser RISC OS-Mailinglisten. Auf einer derer kam vor wenigen Tagen die Ankündigung, dass die über 10 Jahre dauernden (also ein echtes Projekt aus der RISC OS-Welt – man wartet ewig drauf, und wenn es dann fertig ist, interessiert sich keiner mehr dafür) Bemühungen, die Reste von APDL nach dem Tod von APDL-Gründer und Inhaber David Holden 2014 wieder gesammelt zur Verfügung zu stellen, sich jetzt der …[Read More →](http://riscosblog.huber-net.de/2026/07/grosse-retro-software-welle-im-anrollen/)</source:markdown>
+      <guid>cid://http://riscosblog.huber-net.de/?p=576</guid>
+      <category>Retro</category>
+      <category>Software</category>
+    </item>    <item>
+      <title>General RISC OS chat at ROUGOL – 20th July</title>
+      <link>https://www.riscository.com/2026/rougol-general-chat-20th-july/</link>
+      <description>
+        <![CDATA[The next RISC OS User Group of London (ROUGOL) meeting will take place on 20th July &#8211; tonight &#8211; and rather than a guest speaker, the meeting will instead be an open one for general discussion of all things RISC OS. Bryan Hogan, who organises the meetings, and hosts their online element, notes that they have had a run of eighteen meetings featuring someone delivering a presentation, and talking about something relevant to the RISC OS and/or legacy 8-bit community. And thanks to the power of the internet, those guest&#8230;]]>
+      </description>
+      <source:markdown>The next RISC OS User Group of London (ROUGOL) meeting will take place on 20th July – tonight – and rather than a guest speaker, the meeting will instead be an open one for general discussion of all things RISC OS. Bryan Hogan, who organises the meetings, and hosts their online element, notes that they have had a run of eighteen meetings featuring someone delivering a presentation, and talking about something relevant to the RISC OS and/or legacy 8-bit community. And thanks to the power of the internet, those guest…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10975</guid>
+      <category>User groups</category>
+      <category>Meeting</category>
+      <category>User Group</category>
+    </item>    <item>
       <title>b.log 2026/07/19 - Chronopost and the lack of giving a..., SRAM power up contents, New chair, British stuff, A new hope tomorrow, Sanity at last.</title>
       <link>https://heyrick.eu/blog/entry/20260719</link>
       <description>

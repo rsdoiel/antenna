@@ -4,29 +4,57 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>19 Jul 26 19:07 -0700</lastBuildDate>
+    <lastBuildDate>20 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Daily Bruin Print Issue – July 20, 2026</title>
+      <link>https://dailybruin.com/2026/07/20/daily-bruin-print-issue-july-20-2026/</link>
+      <description>
+        <![CDATA[<em>The Daily Bruin publishes online issues weekly over the summer. You can view this week’s issue of The Bruin here.</em>]]>
+      </description>
+      <source:markdown>_The Daily Bruin publishes online issues weekly over the summer. You can view this week’s issue of The Bruin here._</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513411</guid>
+      <category>Print</category>
+      <category>db-story-h</category>
+    </item>    <item>
+      <title>Worth the Fare: Fresh loaves, delicious pastries at Jyan Isaac Bread</title>
+      <link>https://dailybruin.com/2026/07/19/worth-the-fare-fresh-loaves-delicious-pastries-at-jyan-isaac-bread/</link>
+      <description>
+        <![CDATA[It is often said that the secret to the famous New York City bagel is in the water, but at Jyan Isaac Bread in Santa Monica, it&#8217;s the expertise baked into every loaf.]]>
+      </description>
+      <source:markdown>It is often said that the secret to the famous New York City bagel is in the water, but at Jyan Isaac Bread in Santa Monica, it’s the expertise baked into every loaf.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513395</guid>
+      <category>Arts</category>
+      <category>Arts Columns</category>
+      <category>Lifestyle</category>
+      <category>db-story-d2</category>
+    </item>    <item>
       <title>Film breakdown: Sizing up Serbian standout Nikola Kusturica’s on-court skill set</title>
       <link>https://dailybruin.com/2026/07/19/film-breakdown-sizing-up-serbian-standout-nikola-kusturicas-on-court-skill-set/</link>
       <description>
-        <![CDATA[For the first time since 2023, UCLA men’s basketball brought in a five-star freshman recruit, with guard/forward Nikola Kusturica set to join the Bruins ahead of the 2026-27 season from FC Barcelona Bàsquet.]]>
+        <![CDATA[<em>This post was updated July 19 at 11:59 p.m.</em>
+        For the first time since 2023, UCLA men’s basketball brought in a five-star freshman recruit, with guard/forward Nikola Kusturica set to join the Bruins ahead of the 2026-27 season from FC Barcelona Bàsquet.]]>
       </description>
-      <source:markdown>For the first time since 2023, UCLA men’s basketball brought in a five-star freshman recruit, with guard/forward Nikola Kusturica set to join the Bruins ahead of the 2026-27 season from FC Barcelona Bàsquet.</source:markdown>
+      <source:markdown>_This post was updated July 19 at 11:59 p.m._
+For the first time since 2023, UCLA men’s basketball brought in a five-star freshman recruit, with guard/forward Nikola Kusturica set to join the Bruins ahead of the 2026-27 season from FC Barcelona Bàsquet.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513377</guid>
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>Sports Columns</category>
+      <category>db-story-c1</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Washington</title>
       <link>https://dailybruin.com/2026/07/19/2026-big-ten-preview-washington/</link>
       <description>
-        <![CDATA[UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.]]>
+        <![CDATA[<em>This post was updated July 20 at 12:06 p.m.</em>
+        UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.]]>
       </description>
-      <source:markdown>UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.</source:markdown>
+      <source:markdown>_This post was updated July 20 at 12:06 p.m._
+UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513367</guid>
       <category>Sports</category>
+      <category>db-story-d1</category>
     </item>    <item>
       <title>Opinion: Finding an internship feels impossible. UCLA must fix that</title>
       <link>https://dailybruin.com/2026/07/19/opinion-finding-an-internship-feels-impossible-ucla-must-fix-that/</link>
@@ -39,6 +67,7 @@ I’m a lifeguard in my hometown.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513363</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
+      <category>db-story-b</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>North Westwood Neighborhood Council recap – July 1</title>
@@ -69,39 +98,43 @@ Christopher Nolan’s 2026 action-adventure blockbuster adapts the millennia-old
       <title>UC regents discuss $350 million funding increase, cuts to scholarships and programs</title>
       <link>https://dailybruin.com/2026/07/18/uc-regents-discuss-350-million-funding-increase-cuts-to-scholarships-and-programs/</link>
       <description>
-        <![CDATA[While Gov. Gavin Newsom increased the UC&#8217;s state funding for the upcoming fiscal year, the approved budget also included cuts to academic programs and scholarships, the UC Board of Regents said.]]>
+        <![CDATA[<em>This post was updated July 20 at 12:30 p.m.</em>
+        While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fiscal year, the approved budget also included cuts to academic programs and scholarships, the UC Board of Regents said.]]>
       </description>
-      <source:markdown>While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fiscal year, the approved budget also included cuts to academic programs and scholarships, the UC Board of Regents said.</source:markdown>
+      <source:markdown>_This post was updated July 20 at 12:30 p.m._
+While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fiscal year, the approved budget also included cuts to academic programs and scholarships, the UC Board of Regents said.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513347</guid>
       <category>Higher Education</category>
       <category>News</category>
       <category>Regents</category>
       <category>UC</category>
-      <category>db-story-c1</category>
+      <category>db-story-a</category>
     </item>    <item>
-      <title>Album review: Gracie Abrams wrestles with growing up in ‘Daughter From Hell’</title>
+      <title>Album review: Gracie Abrams wrestles with growing up in ‘Daughter from Hell’</title>
       <link>https://dailybruin.com/2026/07/17/gracie-abrams-wrestles-with-growing-up-in-daughter-from-hell/</link>
       <description>
-        <![CDATA[Gracie Abrams grew up in Hollywood, and still can&#8217;t decide if that’s a confession or an excuse.
-        The Grammy-nominated artist released her third studio album, “Daughter from Hell,” on Friday.]]>
+        <![CDATA[<em>This post was updated July 19 at 8:05 p.m.</em>
+        Gracie Abrams grew up in Hollywood, and still can&#8217;t decide if that’s a confession or an excuse.]]>
       </description>
-      <source:markdown>Gracie Abrams grew up in Hollywood, and still can’t decide if that’s a confession or an excuse.
-The Grammy-nominated artist released her third studio album, “Daughter from Hell,” on Friday.</source:markdown>
+      <source:markdown>_This post was updated July 19 at 8:05 p.m._
+Gracie Abrams grew up in Hollywood, and still can’t decide if that’s a confession or an excuse.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513338</guid>
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Music</category>
-      <category>db-story-d2</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>UCLA women’s water polo coach Adam Wright steps down, remains men’s coach</title>
       <link>https://dailybruin.com/2026/07/17/ucla-womens-water-polo-coach-adam-wright-steps-down-remains-mens-coach/</link>
       <description>
-        <![CDATA[After stepping away from day-to-day operations as head coach of the women’s water polo team in December due to rehabilitation from back and nerve pain, Adam Wright has officially resigned from the position, UCLA Athletics announced Friday.&#160;
+        <![CDATA[<em>This post was updated July 19 at 11:27 p.m.</em>
+        After stepping away from day-to-day operations as head coach of the women’s water polo team in December due to rehabilitation from back and nerve pain, Adam Wright has officially resigned from the position, UCLA Athletics announced Friday.&#160;
         Wright will continue to coach the men’s squad – a position he has held since 2009.&#160;
         [Related: Women’s water polo coach Adam Wright to step away from day-to-day duties]
         UCLA will begin a national search for its next head coach.]]>
       </description>
-      <source:markdown>After stepping away from day-to-day operations as head coach of the women’s water polo team in December due to rehabilitation from back and nerve pain, Adam Wright has officially resigned from the position, UCLA Athletics announced Friday.
+      <source:markdown>_This post was updated July 19 at 11:27 p.m._
+After stepping away from day-to-day operations as head coach of the women’s water polo team in December due to rehabilitation from back and nerve pain, Adam Wright has officially resigned from the position, UCLA Athletics announced Friday.
 Wright will continue to coach the men’s squad – a position he has held since 2009.
 \[Related: Women’s water polo coach Adam Wright to step away from day-to-day duties\]
 UCLA will begin a national search for its next head coach.</source:markdown>
@@ -110,15 +143,15 @@ UCLA will begin a national search for its next head coach.</source:markdown>
       <category>Sports</category>
       <category>Women&#39;s Water Polo</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>UC Regents hear public comment on SAT, ACT debate, undocumented student concerns</title>
       <link>https://dailybruin.com/2026/07/16/uc-regents-hear-public-comment-on-sat-act-debate-undocumented-student-concerns/</link>
       <description>
-        <![CDATA[<em>This post was updated July 18 at 6:16 p.m.</em>
+        <![CDATA[<em>This post was updated July 20 at 12:28 a.m.</em>
         Faculty and students called on the UC Board of Regents to reinstate standardized testing requirements and support undocumented students at its July meeting.]]>
       </description>
-      <source:markdown>_This post was updated July 18 at 6:16 p.m._
+      <source:markdown>_This post was updated July 20 at 12:28 a.m._
 Faculty and students called on the UC Board of Regents to reinstate standardized testing requirements and support undocumented students at its July meeting.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513330</guid>
       <category>News</category>
@@ -129,13 +162,15 @@ Faculty and students called on the UC Board of Regents to reinstate standardized
       <title>Restaurant review: Worth the wait? Raising Cane’s Westwood location packs flavor into every dollar</title>
       <link>https://dailybruin.com/2026/07/16/restaurant-review-worth-the-wait-raising-canes-westwood-location-packs-flavor-into-every-dollar/</link>
       <description>
-        <![CDATA[For three years, Bruins walked past construction barriers. 
-        Now, they&#8217;re walking out with Box Combos.
-        As of Monday, Raising Cane&#8217;s Chicken Fingers, located on the corner of Broxton Avenue and Weyburn Avenue in Westwood, is open for business.]]>
+        <![CDATA[<em>This post was updated July 19 at 7:51 p.m.</em>
+        For three years, Bruins walked past construction barriers.
+        Now, they’re walking out with Box Combos.
+        As of Monday, Raising Cane’s Chicken Fingers, located on the corner of Broxton Avenue and Weyburn Avenue, is open for business.]]>
       </description>
-      <source:markdown>For three years, Bruins walked past construction barriers.
+      <source:markdown>_This post was updated July 19 at 7:51 p.m._
+For three years, Bruins walked past construction barriers.
 Now, they’re walking out with Box Combos.
-As of Monday, Raising Cane’s Chicken Fingers, located on the corner of Broxton Avenue and Weyburn Avenue in Westwood, is open for business.</source:markdown>
+As of Monday, Raising Cane’s Chicken Fingers, located on the corner of Broxton Avenue and Weyburn Avenue, is open for business.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513324</guid>
       <category>Arts</category>
       <category>Arts Columns</category>
@@ -219,9 +254,11 @@ As of Monday, Raising Cane’s Chicken Fingers, located on the corner of Broxton
       <title>Pro Bruin Rundown: Bruin volleyball, water polo stars shine on the international stage</title>
       <link>https://dailybruin.com/2026/07/15/pro-bruin-rundown-bruin-volleyball-water-polo-stars-shine-on-the-international-stage/</link>
       <description>
-        <![CDATA[As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams. Throughout the summer, Daily Bruin Sports will take a look at the standout performances of current and former UCLA athletes as we count down the days until fall.]]>
+        <![CDATA[<em>This post was updated July 19 at 11:53 p.m.</em>
+        As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams.]]>
       </description>
-      <source:markdown>As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams. Throughout the summer, Daily Bruin Sports will take a look at the standout performances of current and former UCLA athletes as we count down the days until fall.</source:markdown>
+      <source:markdown>_This post was updated July 19 at 11:53 p.m._
+As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513292</guid>
       <category>Men&#39;s Volleyball</category>
       <category>Men&#39;s Water Polo</category>
@@ -242,7 +279,7 @@ Former UCLA center Lauren Betts won the ESPY for Best College Athlete – Women�
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>breaking</category>
-      <category>db-story-b</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>USAC recap – July 7</title>
       <link>https://dailybruin.com/2026/07/15/usac-recap-july-7/</link>
@@ -261,18 +298,18 @@ USAC is the official student government representing the undergraduate student b
       <title>At Kesem at UCLA, children impacted by family cancer discover community, connection</title>
       <link>https://dailybruin.com/2026/07/15/at-kesem-at-ucla-children-impacted-by-family-cancer-discover-community-connection/</link>
       <description>
-        <![CDATA[A free, student-run summer camp is fostering community and support for children who have lived with a parent or caregiver with cancer.
-        Kesem at UCLA &#8211; one of more than 115 college chapters &#8211; hosted its two annual six-day camp sessions for children aged six to 18 in Teresita Pines, California, from June 22 to 27 and July 4 to 9.]]>
+        <![CDATA[<em>This post was updated July 20 at 12:33 a.m.</em>
+        A free, student-run summer camp is fostering community and support for children who have lived with a parent or caregiver with cancer.]]>
       </description>
-      <source:markdown>A free, student-run summer camp is fostering community and support for children who have lived with a parent or caregiver with cancer.
-Kesem at UCLA – one of more than 115 college chapters – hosted its two annual six-day camp sessions for children aged six to 18 in Teresita Pines, California, from June 22 to 27 and July 4 to 9.</source:markdown>
+      <source:markdown>_This post was updated July 20 at 12:33 a.m._
+A free, student-run summer camp is fostering community and support for children who have lived with a parent or caregiver with cancer.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513280</guid>
       <category>A Closer Look</category>
       <category>California</category>
       <category>Campus</category>
       <category>News</category>
       <category>Science &#38; Health</category>
-      <category>db-story-f2</category>
+      <category>db-story-j</category>
     </item>    <item>
       <title>Spain Beats Star-Led France 2-0 to Advance to World Cup Final</title>
       <link>https://sundial.csun.edu/218992/featured/spain-beats-star-led-france-2-0-to-advance-to-world-cup-final/</link>

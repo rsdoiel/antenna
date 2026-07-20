@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>19 Jul 26 19:08 -0700</lastBuildDate>
+    <lastBuildDate>20 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Love Letters of Mary Wollstonecraft to Gilbert Imlay by Mary Wollstonecraft</title>
+      <link>https://www.gutenberg.org/ebooks/34413</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tohvelisankarin rouva : by Maria Jotuni</title>
+      <link>https://www.gutenberg.org/ebooks/79137</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Adresse à nos seigneurs de l&#39;Assemblée nationale, par les députés des maîtres de poste du royaume</title>
+      <link>https://www.gutenberg.org/ebooks/79131</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Assisting Ananias by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79135</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Fate and a fool by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79133</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hashknife of the Diamond H by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79136</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The revenge of Florida Jack by Ernest Haycox</title>
+      <link>https://www.gutenberg.org/ebooks/79134</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Un mot sur les postes by Ch. Dugas</title>
+      <link>https://www.gutenberg.org/ebooks/79132</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The library of Photius, Volume 1 (of 1) by Photius</title>
+      <link>https://www.gutenberg.org/ebooks/79139</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>No wonder by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79138</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The face in the abyss by Abraham Merritt</title>
       <link>https://www.gutenberg.org/ebooks/79106</link>
       <description>
@@ -38,13 +108,6 @@
     </item>    <item>
       <title>Krakatit by Karel Čapek</title>
       <link>https://www.gutenberg.org/ebooks/79127</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Love Letters of Mary Wollstonecraft to Gilbert Imlay by Mary Wollstonecraft</title>
-      <link>https://www.gutenberg.org/ebooks/34413</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -126,55 +189,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tohvelisankarin rouva : by Maria Jotuni</title>
-      <link>https://www.gutenberg.org/ebooks/79137</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Adresse à nos seigneurs de l&#39;Assemblée nationale, par les députés des maîtres de poste du royaume</title>
-      <link>https://www.gutenberg.org/ebooks/79131</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Assisting Ananias by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79135</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Fate and a fool by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79133</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hashknife of the Diamond H by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79136</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The revenge of Florida Jack by Ernest Haycox</title>
-      <link>https://www.gutenberg.org/ebooks/79134</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Un mot sur les postes by Ch. Dugas</title>
-      <link>https://www.gutenberg.org/ebooks/79132</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>    <item>
       <title>Poetry, by Maria Lowell</title>
       <link>https://standardebooks.org/ebooks/maria-lowell/poetry</link>

@@ -4,10 +4,112 @@
   <channel>
     <title><![CDATA[North America]]></title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>19 Jul 26 19:07 -0700</lastBuildDate>
+    <lastBuildDate>20 Jul 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Tropical Storm Elida to bring moisture and heat to California this week</title>
+      <link>https://www.sacbee.com/news/weather-news/article316572448.html</link>
+      <description>
+        <![CDATA[Despite being hundreds of miles off the coast, the weakening tropical storm will mean higher temperatures and occasional clouds.]]>
+      </description>
+      <source:markdown>Despite being hundreds of miles off the coast, the weakening tropical storm will mean higher temperatures and occasional clouds.</source:markdown>
+      <enclosure url="https://www.sacbee.com/public/latest-news/164xeb/picture316573386/alternates/FREE_1140/192039_5day_cone.png" length="0" type="image/png" />
+      <guid>cid://https://www.sacbee.com/news/weather-news/article316572448.html</guid>
+      <category>Tropical Storm Elida</category>
+      <category>California weather</category>
+      <category>vmonsoonal moisture</category>
+      <category>vheat wave</category>
+    </item>    <item>
+      <title>Tesla remote operator crashed a ‘Robotaxi’ in Houston, NHTSA data shows</title>
+      <link>https://electrek.co/2026/07/20/tesla-robotaxi-remote-operator-crash-houston/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">Tesla has filed four new “Robotaxi” crash reports with NHTSA, and the most revealing one involves a Tesla remote operator driving the vehicle into a tree stump in Houston.</p>
+        <p class="wp-block-paragraph">It’s the third crash Tesla has now reported involving a human operating the car remotely caused the collision — and the first one Tesla has formally coded as remote operation in its filing.</p>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+Tesla has filed four new “Robotaxi” crash reports with NHTSA, and the most revealing one involves a Tesla remote operator driving the vehicle into a tree stump in Houston.
+
+It’s the third crash Tesla has now reported involving a human operating the car remotely caused the collision — and the first one Tesla has formally coded as remote operation in its filing.</source:markdown>
+      <guid>cid://https://electrek.co/?p=476423</guid>
+      <category>News</category>
+      <category>NHTSA</category>
+      <category>Tesla</category>
+      <category>Tesla crash</category>
+      <category>Tesla Robotaxi</category>
+      <category>Waymo</category>
+    </item>    <item>
+      <title>Gas prices cross a familiar threshold</title>
+      <link>https://www.marketplace.org/episode/2026/07/20/gas-prices-cross-a-familiar-threshold</link>
+      <description>
+        <![CDATA[<p>We're more than a week into renewed fighting between the U.S. and Iran after the ceasefire collapsed. The escalation is starting to show up at the gas pump, sending prices up to more than $4 a gallon, according to AAA. That’s 13 cents a gallon more than we were paying last week. The average price a year ago? Was $3.14 a gallon. Also: an Nvidia stock sell-off and changing conversations around AI.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe to our daily or weekly newsletter</a></em><em>.</em></p><br/><p><em>Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
+      </description>
+      <source:markdown>We&#39;re more than a week into renewed fighting between the U.S. and Iran after the ceasefire collapsed. The escalation is starting to show up at the gas pump, sending prices up to more than $4 a gallon, according to AAA. That’s 13 cents a gallon more than we were paying last week. The average price a year ago? Was $3.14 a gallon. Also: an Nvidia stock sell-off and changing conversations around AI.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
+
+_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2026/07/20/mmr_20260720_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01KXZP8V59A35NC6H4B2BW8T9F" length="3339121" type="audio/mpeg" />
+      <guid>cid://01KXZP8V59A35NC6H4B2BW8T9F</guid>
+    </item>    <item>
+      <title>DA declines charges in crash that killed Elinor Steffy. Folsom could face lawsuit</title>
+      <link>https://www.sacbee.com/news/local/article315414122.html</link>
+      <description>
+        <![CDATA[Charges will not be filed against the driver of a Tesla that fatally struck the 22-year-old at Folsom’s Iron Point light rail station.]]>
+      </description>
+      <source:markdown>Charges will not be filed against the driver of a Tesla that fatally struck the 22-year-old at Folsom’s Iron Point light rail station.</source:markdown>
+      <enclosure url="https://www.sacbee.com/public/latest-news/bnwajo/picture316569824/alternates/FREE_1140/img-26-07-19-0F951.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.sacbee.com/news/local/article315414122.html</guid>
+      <category>Tesla Model 3 incident Folsom</category>
+      <category>no charges filed</category>
+      <category>Iron Point Station accident</category>
+      <category>SacRT damages</category>
+    </item>    <item>
+      <title>Who is the whistleblower who says Cal Fire dropped the ball on the Esparto probe?</title>
+      <link>https://www.sacbee.com/news/local/article316555862.html</link>
+      <description>
+        <![CDATA[Gershom Slonim said in an interview with The Bee he warned the agency about the illegal fireworks in the Yolo County facility.]]>
+      </description>
+      <source:markdown>Gershom Slonim said in an interview with The Bee he warned the agency about the illegal fireworks in the Yolo County facility.</source:markdown>
+      <enclosure url="https://www.sacbee.com/public/latest-news/46mone/picture316555589/alternates/FREE_1140/gershom%20slonim%20at%20esparto.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.sacbee.com/news/local/article316555862.html</guid>
+      <category>Gershom Slonim</category>
+      <category>Cal Fire investigator</category>
+      <category>Esparto fireworks explosion</category>
+      <category>Yolo County</category>
+      <category>whistleblower</category>
+    </item>    <item>
+      <title>AI firms are going back on their safety promises</title>
+      <link>https://www.marketplace.org/episode/2026/07/20/ai-firms-are-going-back-on-their-safety-promises</link>
+      <description>
+        <![CDATA[<p>As top AI firms race to develop a “superintelligent” agent — one that surpasses human cognition — are they prioritizing safety guardrails along the way? </p><br/><p>Not according to the <a href="https://futureoflife.org/ai-safety-index-summer-2026/" class="default">Future of Life Institute’s AI Safety Index</a>, which reported that companies have gone back on their own promises to take a pause if their technology ever got close to certain risky points. </p><br/><p>Marketplace’s Meghan McCarty Carino spoke with Sabina Nong, AI safety investigator at the Future of Life Institute, about what measures might ensure durable safety around AI moving forward. </p>]]>
+      </description>
+      <source:markdown>As top AI firms race to develop a “superintelligent” agent — one that surpasses human cognition — are they prioritizing safety guardrails along the way?
+
+Not according to the [Future of Life Institute’s AI Safety Index](https://futureoflife.org/ai-safety-index-summer-2026/), which reported that companies have gone back on their own promises to take a pause if their technology ever got close to certain risky points.
+
+Marketplace’s Meghan McCarty Carino spoke with Sabina Nong, AI safety investigator at the Future of Life Institute, about what measures might ensure durable safety around AI moving forward.</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2026/07/20/tech_20260720_0720_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01KXNNBG6B3Z1VCDV67ADHNT2D" length="7780744" type="audio/mpeg" />
+      <guid>cid://01KXNNBG6B3Z1VCDV67ADHNT2D</guid>
+    </item>    <item>
+      <title>Dems push back against SBA’s plan to overhaul 8(a) eligibility determinations</title>
+      <link>https://federalnewsnetwork.com/acquisition-policy/2026/07/dems-push-back-against-sbas-plan-to-overhaul-8a-eligibility-determinations/</link>
+      <description>
+        <![CDATA[Senators claim SBA's proposed revision "ignores present-day barriers that entrepreneurs from minority and underserved communities face."]]>
+      </description>
+      <source:markdown>Senators claim SBA&#39;s proposed revision &#34;ignores present-day barriers that entrepreneurs from minority and underserved communities face.&#34;</source:markdown>
+      <guid>cid://https://federalnewsnetwork.com/?p=5996390</guid>
+      <category>Acquisition</category>
+      <category>Acquisition Policy</category>
+      <category>All News</category>
+      <category>Contracting</category>
+      <category>8(a) program</category>
+      <category>Ed Markey</category>
+      <category>Mazie Hirono</category>
+      <category>Senate Small Business and Entrepreneurship Committee</category>
+      <category>Small Business Administration</category>
+    </item>    <item>
       <title>Mandatory evacuations have been lifted for Miners Fire in El Dorado County</title>
       <link>https://www.sacbee.com/community/roseville-placer/article316572235.html</link>
       <description>

@@ -5,10 +5,42 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>19 Jul 26 19:08 -0700</lastBuildDate>
+    <lastBuildDate>20 Jul 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Best things to do this week in LA and SoCal: July 20-23</title>
+      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-july-20-23</link>
+      <description>
+        <![CDATA[Mexodus at Pasadena Playhouse, fast cars at the Petersen, a new doc about pirate radio in L.A. and more of the best things to do this week.]]>
+      </description>
+      <source:markdown>Mexodus at Pasadena Playhouse, fast cars at the Petersen, a new doc about pirate radio in L.A. and more of the best things to do this week.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-7b2c-d465-a9ff-fbee2bdd0002</guid>
+    </item>    <item>
+      <title>Mosquito season is here, in case your ankles haven&#39;t noticed. How humans are fighting back</title>
+      <link>https://laist.com/news/climate-environment/mosquito-season-how-humans-are-fighting-back</link>
+      <description>
+        <![CDATA[Populations of two disease-carrying mosquito species are concerning public health officials, who are employing new strategies to reduce their populations.]]>
+      </description>
+      <source:markdown>Populations of two disease-carrying mosquito species are concerning public health officials, who are employing new strategies to reduce their populations.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-7280-d888-a59f-7f92ddf30000</guid>
+    </item>    <item>
+      <title>Having breakfast with a stranger can help cure feeling lonely in LA, according to this Burbank man</title>
+      <link>https://laist.com/news/los-angeles-activities/having-breakfast-with-a-stranger-can-help-cure-feeling-lonely-in-la</link>
+      <description>
+        <![CDATA[He’s sat down for meals with nearly 20 neighbors so far this year, with more to come.]]>
+      </description>
+      <source:markdown>He’s sat down for meals with nearly 20 neighbors so far this year, with more to come.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-7225-db1c-a5df-76bfece30000</guid>
+    </item>    <item>
+      <title>LAUSD special ed classes were meant to be smaller this fall. Teachers are worried it won’t happen</title>
+      <link>https://laist.com/news/education/los-angeles-unified-school-district-lausd/lausd-special-ed-class-size-2026-fall</link>
+      <description>
+        <![CDATA[LAUSD special education teachers negotiated a historic limit on class sizes to meet student needs and address burnout.]]>
+      </description>
+      <source:markdown>LAUSD special education teachers negotiated a historic limit on class sizes to meet student needs and address burnout.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-71c0-db1c-a5df-75dfc3ff0000</guid>
+    </item>    <item>
       <title>Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title</title>
       <link>https://laist.com/news/spain-is-the-2026-world-cup-champion-defeating-argentina-for-its-2nd-title</link>
       <description>
@@ -216,6 +248,14 @@ The post [These L.A. Comedy Stars Sprang From One of the First Ever YouTube Chan
       </description>
       <source:markdown>Olympics attendees who have tickets for Intuit Dome or the Columbus, Ohio football matches will receive a small refund after LA28 says it accidentally charged too much tax.</source:markdown>
       <guid>cid://urn:uuid:0000019f-7172-de73-a19f-f17b09cd0000</guid>
+    </item>    <item>
+      <title>California restricts utility shutoffs as dangerous heat ripples across state</title>
+      <link>https://laist.com/news/climate-environment/california-restricts-utility-shutoffs-as-dangerous-heat-ripples-across-state</link>
+      <description>
+        <![CDATA[Regulators said the state's biggest power companies didn't go far enough to protect customers during dangerous heat. Here's what changes now.]]>
+      </description>
+      <source:markdown>Regulators said the state&#39;s biggest power companies didn&#39;t go far enough to protect customers during dangerous heat. Here&#39;s what changes now.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-7102-d465-a9ff-fbe64ebe0000</guid>
     </item>    <item>
       <title>El Ruso Brings Sonoran Burritos and Tacos to a Studio City Brick-and-Mortar Next Week</title>
       <link>https://lataco.com/el-ruso-studio-city</link>
