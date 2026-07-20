@@ -62,7 +62,8 @@ collections:
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
-        - UPDATE items SET status = 'review' WHERE link LIKE '%/commentisfree/%';
+        - UPDATE items SET status = 'review' WHERE link LIKE '%/sports/%' OR link LIKE '%/sport/%' OR link LIKE '%/sports-%' OR link LIKE '%/sport-%' OR link LIKE '%/opinion/%' OR link LIKE '%/opinion-%' OR link LIKE '%/commentary/%' OR link LIKE '%/commentary-%' OR link LIKE '%/commentisfree/%' OR link LIKE '%/op-ed/%' OR link LIKE '%/editorial/%' OR link LIKE '%/editorial-%' OR link LIKE '%/editorials/%';
+        - UPDATE items SET status = 'review' WHERE title LIKE '%World Cup%' OR title LIKE '%FIFA%' OR title LIKE '%Stanley Cup%' OR title LIKE '%Super Bowl%' OR title LIKE '% NHL%' OR title LIKE '% NFL%' OR title LIKE '% NBA%' OR title LIKE '% MLB%' OR title LIKE '%Wimbledon%' OR title LIKE '%Olympics%' OR title LIKE '%Olympic Games%';
       dbName: north_america.db
     - title: Items of interest to the Pacific community and the Pacific RIM
       link: pacific.xml
@@ -71,7 +72,8 @@ collections:
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
-        - UPDATE items SET status = 'review' WHERE link LIKE '%/opinion/%' OR link LIKE '%/sports/%';
+        - UPDATE items SET status = 'review' WHERE link LIKE '%/sports/%' OR link LIKE '%/sport/%' OR link LIKE '%/sports-%' OR link LIKE '%/sport-%' OR link LIKE '%/opinion/%' OR link LIKE '%/opinion-%' OR link LIKE '%/commentary/%' OR link LIKE '%/commentary-%' OR link LIKE '%/commentisfree/%' OR link LIKE '%/op-ed/%' OR link LIKE '%/editorial/%' OR link LIKE '%/editorial-%' OR link LIKE '%/editorials/%';
+        - UPDATE items SET status = 'review' WHERE title LIKE '%World Cup%' OR title LIKE '%FIFA%' OR title LIKE '%Stanley Cup%' OR title LIKE '%Super Bowl%' OR title LIKE '% NHL%' OR title LIKE '% NFL%' OR title LIKE '% NBA%' OR title LIKE '% MLB%' OR title LIKE '%Wimbledon%' OR title LIKE '%Olympics%' OR title LIKE '%Olympic Games%';
       dbName: pacific.db
     - title: Planet News
       link: planet.xml
@@ -80,6 +82,8 @@ collections:
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+        - UPDATE items SET status = 'review' WHERE link LIKE '%/sports/%' OR link LIKE '%/sport/%' OR link LIKE '%/sports-%' OR link LIKE '%/sport-%' OR link LIKE '%/opinion/%' OR link LIKE '%/opinion-%' OR link LIKE '%/commentary/%' OR link LIKE '%/commentary-%' OR link LIKE '%/commentisfree/%' OR link LIKE '%/op-ed/%' OR link LIKE '%/editorial/%' OR link LIKE '%/editorial-%' OR link LIKE '%/editorials/%';
+        - UPDATE items SET status = 'review' WHERE title LIKE '%World Cup%' OR title LIKE '%FIFA%' OR title LIKE '%Stanley Cup%' OR title LIKE '%Super Bowl%' OR title LIKE '% NHL%' OR title LIKE '% NFL%' OR title LIKE '% NBA%' OR title LIKE '% MLB%' OR title LIKE '%Wimbledon%' OR title LIKE '%Olympics%' OR title LIKE '%Olympic Games%';
       dbName: planet.db
     - title: Retro Computing News
       link: retro_computing.xml

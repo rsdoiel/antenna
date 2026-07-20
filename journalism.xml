@@ -4,8 +4,8 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>19 Jul 26 06:46 -0700</lastBuildDate>
-    <generator>antenna/0.0.25</generator>
+    <lastBuildDate>19 Jul 26 17:34 -0700</lastBuildDate>
+    <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>North Westwood Neighborhood Council recap – July 1</title>
@@ -1754,63 +1754,6 @@ For many student gamers, tapping into a game to claim a daily bonus has become a
       <guid>cid://https://dailybruin.com/?p=512607</guid>
       <category>Video</category>
       <category>db-story-m1</category>
-    </item>    <item>
-      <title>Sinclairity: World Cup excitement can kick-start renewed support for UCLA men’s soccer</title>
-      <link>https://dailybruin.com/2026/06/28/world-cup-excitement-can-kick-start-renewed-support-for-ucla-mens-soccer/</link>
-      <description>
-        <![CDATA[This post was updated June 28 at 5:26 p.m.
-        70,492. 
-        That&#8217;s how many people attended the United States men&#8217;s national team&#8217;s 2026 World Cup opener at SoFi Stadium in Los Angeles on June 12.]]>
-      </description>
-      <source:markdown>This post was updated June 28 at 5:26 p.m.
-70,492.
-That’s how many people attended the United States men’s national team’s 2026 World Cup opener at SoFi Stadium in Los Angeles on June 12.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512598</guid>
-      <category>Men&#39;s Soccer</category>
-      <category>Sports</category>
-      <category>Sports Columns</category>
-      <category>db-story-c2</category>
-    </item>    <item>
-      <title>Second Take: ‘Obsession,’ ‘Backrooms’ prove fresh stories spark conversations, fill theaters</title>
-      <link>https://dailybruin.com/2026/06/28/second-take-obsession-backrooms-prove-fresh-stories-spark-conversations-fill-theaters/</link>
-      <description>
-        <![CDATA[<em>This post was updated June 30 at 11:50 a.m.</em>
-        Warning: Spoilers ahead
-        Nights at the movie theater are back in style.
-        Generation Z directors Kane Parsons and Curry Barker seem to have cracked the code to refilling red velvet recliners with their blockbuster horrors, “Backrooms” and “Obsession.” Both indie films have effectively dwarfed their micro-budgets at the box office, with each grossing over 300 million dollars since their respective releases in May.]]>
-      </description>
-      <source:markdown>_This post was updated June 30 at 11:50 a.m._
-Warning: Spoilers ahead
-Nights at the movie theater are back in style.
-Generation Z directors Kane Parsons and Curry Barker seem to have cracked the code to refilling red velvet recliners with their blockbuster horrors, “Backrooms” and “Obsession.” Both indie films have effectively dwarfed their micro-budgets at the box office, with each grossing over 300 million dollars since their respective releases in May.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512592</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Film &#38; TV</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>Soccer fans believe hydration breaks are ruining the momentum of World Cup matches</title>
-      <link>https://sundial.csun.edu/218540/featured/soccer-fans-believe-hydration-breaks-are-ruining-the-momentum-of-world-cup-matches/</link>
-      <description>
-        <![CDATA[The FIFA World Cup enters the knockout stage today with the Round of 32 kicking off, as South Africa faces Canada. Many soccer fans are excited for the upcoming games,...]]>
-      </description>
-      <source:markdown>The FIFA World Cup enters the knockout stage today with the Round of 32 kicking off, as South Africa faces Canada. Many soccer fans are excited for the upcoming games,...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218540</guid>
-      <category>Featured</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>UCLA women’s tennis bolsters doubles play by adding transfer Jessica Bernales</title>
-      <link>https://dailybruin.com/2026/06/27/ucla-womens-tennis-bolsters-doubles-play-by-adding-transfer-jessica-bernales/</link>
-      <description>
-        <![CDATA[Between the doubles alleys, athletes pair up to work toward success and coaches experiment with different lineups, probing for the perfect combination. 
-        And those possibilities increased dramatically for UCLA women&#8217;s tennis this summer, thanks to the signing of rising junior Jessica Bernales.]]>
-      </description>
-      <source:markdown>Between the doubles alleys, athletes pair up to work toward success and coaches experiment with different lineups, probing for the perfect combination.
-And those possibilities increased dramatically for UCLA women’s tennis this summer, thanks to the signing of rising junior Jessica Bernales.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512585</guid>
-      <category>Sports</category>
-      <category>Women&#39;s Tennis</category>
-      <category>db-story-f2</category>
     </item>
   </channel>
 </rss>

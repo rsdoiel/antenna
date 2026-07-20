@@ -185,6 +185,19 @@ article::after {
 article footer {
     background-color: var(--color-white);
     color: var(--color-black);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5em;
+}
+
+/* Overrides the generic "footer p" block/full-width rule below so
+   p.source (the "via <label>" line) sits on the same line as the
+   "Continue reading" link instead of dropping to its own row. */
+article footer p {
+    display: inline;
+    width: auto;
+    margin: 0;
 }
 
 article footer a, article footer a:link, article footer a:visited {

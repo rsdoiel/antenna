@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/pages.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title>Pages</title>
+    <title><![CDATA[Pages]]></title>
     <link>https://rsdoiel.github.io/antenna/pages.xml</link>
-    <lastBuildDate>29 May 26 10:32 -0700</lastBuildDate>
-    <generator>antenna/0.0.24</generator>
+    <lastBuildDate>19 Jul 26 17:34 -0700</lastBuildDate>
+    <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
 
   </channel>
