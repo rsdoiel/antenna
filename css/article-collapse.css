@@ -1,35 +1,41 @@
-/* Truncate article body paragraphs in collapsed state */
-article p {
+/* Truncate the whole article body as one block in collapsed state.
+   Capped on the .article-body wrapper (not individual <p>/<h2> elements)
+   so posts built from many short elements — e.g. link-dump/bookmarks
+   posts with a heading + short paragraph per item — collapse properly
+   too: per-element capping never triggers when each element is already
+   shorter than the cap, even if there are a dozen of them. */
+article .article-body {
   max-height: 6.5em;
   overflow: hidden;
   transition: max-height 0.35s ease;
 }
 
-/* Fade gradient on the last visible paragraph of each collapsed article */
-article:not(.expanded) p:last-of-type {
+/* Fade gradient at the bottom of the collapsed body */
+article:not(.expanded) .article-body {
   -webkit-mask-image: linear-gradient(to bottom, black 35%, transparent 100%);
   mask-image: linear-gradient(to bottom, black 35%, transparent 100%);
 }
 
 /* Expanded: release height cap and restore gradient */
-article.expanded p {
+article.expanded .article-body {
   max-height: 200em;
-}
-
-article.expanded p:last-of-type {
   -webkit-mask-image: none;
   mask-image: none;
 }
 
-/* Clickable title affordance */
-article h2 {
+/* Clickable title affordance. Scoped to the article's own title (a direct
+   child of <article>) rather than "article h2" generally — some posts'
+   rendered content contains its own <h2> elements nested inside
+   .article-body (e.g. one per bookmark in a link-dump post), which must
+   not pick up title styling/behavior. */
+article > h2 {
   cursor: pointer;
   text-decoration: underline dotted var(--color-darkgreen);
   text-underline-offset: 4px;
 }
 
 /* Expand chevron on collapsed titles */
-article:not(.expanded) h2::after {
+article:not(.expanded) > h2::after {
   content: ' \25B6'; /* ▶ */
   font-size: 0.5em;
   vertical-align: middle;
@@ -38,7 +44,7 @@ article:not(.expanded) h2::after {
 }
 
 /* Collapse chevron on expanded titles */
-article.expanded h2::after {
+article.expanded > h2::after {
   content: ' \25BC'; /* ▼ */
   font-size: 0.5em;
   vertical-align: middle;

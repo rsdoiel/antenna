@@ -390,9 +390,17 @@ h5 { font-size: 0.85em; }
 h6 { font-size: 0.75em; }
 
 /* Adjust sizes for headings within article elements */
-/* article titles are now h2 (h1 is reserved for the page title) */
+/* article titles are now h2 (h1 is reserved for the page title). Scoped to
+   "article > h2" (not "article h2") so a post's own rendered content isn't
+   sized as if it were the article title when it happens to contain a
+   nested <h2> too (e.g. link-dump posts with one <h2> per linked item,
+   inside .article-body) — those should render at normal content size. */
 article h1 { font-size: 170% !important; }
-article h2 { font-size: 170% !important; }
+article > h2 { font-size: 170% !important; }
+/* A post's own content may contain <h2> too (see comment above) — size it
+   like an in-content subheading (matching article h3) rather than letting
+   it fall back to the page-wide h2 default, which is also 170%. */
+.article-body h2 { font-size: 140% !important; }
 article h3 { font-size: 140% !important; }
 article h4 { font-size: 130% !important; }
 article h5 { font-size: 100% !important; }
