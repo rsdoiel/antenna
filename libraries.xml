@@ -4,10 +4,66 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>20 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>21 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Transcription Can Bring People Together: A Reflection from Shelby Kruger</title>
+      <link>https://blogs.loc.gov/thesignal/2026/07/shelby-kruger/</link>
+      <description>
+        <![CDATA[In this blog post, 2026 Junior Fellow Shelby Kruger reflects on her work with the By the People crowdsourced transcription program this summer.]]>
+      </description>
+      <source:markdown>In this blog post, 2026 Junior Fellow Shelby Kruger reflects on her work with the By the People crowdsourced transcription program this summer.</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=37867</guid>
+      <category>By the People Transcription Program</category>
+      <category>Internships and Fellowships</category>
+    </item>    <item>
+      <title>Charting a sustainable future for TDCC-NES</title>
+      <link>https://investinopen.org/our-work/charting-a-sustainable-future-for-tdcc-nes/</link>
+      <description>
+        <![CDATA[IOI is partnering with TDCC-NES, a collaborative network across the Dutch natural and engineering sciences domain that addresses FAIR data and other digital-related research challenges, to co-develop a post-NWO sustainability and co-investment model with its community.]]>
+      </description>
+      <source:markdown>IOI is partnering with TDCC-NES, a collaborative network across the Dutch natural and engineering sciences domain that addresses FAIR data and other digital-related research challenges, to co-develop a post-NWO sustainability and co-investment model with its community.</source:markdown>
+      <guid>cid://6a5f3e0ddca8a0000125669a</guid>
+      <category>Our Work</category>
+    </item>    <item>
+      <title>How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/07/21/how-bangladesh-is-reducing-the-north-south-divide-in-scholarly-publishing/</link>
+      <description>
+        <![CDATA[<p>Four Bangladeshi academics touch upon different aspects of academic publishing by linking them with the SDGs: accessing research; equity in co-authorship; editorial leadership; and SDG framing.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/21/how-bangladesh-is-reducing-the-north-south-divide-in-scholarly-publishing/">How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Four Bangladeshi academics touch upon different aspects of academic publishing by linking them with the SDGs: accessing research; equity in co-authorship; editorial leadership; and SDG framing.
+
+The post [How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/07/21/how-bangladesh-is-reducing-the-north-south-divide-in-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62354</guid>
+      <category>Discovery</category>
+      <category>Diversity, Equity, Inclusion, and Accessibility</category>
+      <category>Infrastructure</category>
+      <category>Libraries</category>
+      <category>Reading</category>
+      <category>Research</category>
+      <category>Bangladesh</category>
+      <category>deia</category>
+      <category>discovery</category>
+      <category>equity</category>
+      <category>global north</category>
+      <category>global north south divide</category>
+      <category>Global South</category>
+      <category>readership</category>
+    </item>    <item>
+      <title>ARL Daily Intelligence (July 20–23)</title>
+      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-20-23/</link>
+      <description>
+        <![CDATA[<p>Last Updated on July 20, 2026, 6:03 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-20-23/">ARL Daily Intelligence (July 20–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on July 20, 2026, 6:03 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+
+The post [ARL Daily Intelligence (July 20–23)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-july-20-23/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=49302</guid>
+      <category>ARL Daily Intelligence</category>
+    </item>    <item>
       <title>Guest Post — Why Research Expectations Have Outpaced the Systems That Enabled Them (Part 1)</title>
       <link>https://scholarlykitchen.sspnet.org/2026/07/20/guest-post-why-research-expectations-have-outpaced-the-systems-that-enabled-them-part-1/</link>
       <description>
@@ -29,6 +85,95 @@ The post [Guest Post — Why Research Expectations Have Outpaced the Systems Tha
       <category>research careers</category>
       <category>research impact</category>
       <category>societal impact</category>
+    </item>    <item>
+      <title>Why PID strategies need more than PIDs: our first position paper</title>
+      <link>https://www.crossref.org/blog/why-pid-strategies-need-more-than-pids-our-first-position-paper/</link>
+      <description>
+        <![CDATA[<p>PID strategies are being written around the world right now, and the decisions being made will shape the scholarly record for decades. After 25 years running open scholarly infrastructure—now on behalf of 25,000 members in 167 countries—Crossref has an informed perspective on what those decisions should ideally rest on. Today we&rsquo;re setting it out in our&rsquo;s first position paper: <a href="https://doi.org/10.13003/q4vu-l2mw" target="_blank">Persistent identifiers in research infrastructure policy: the need for a holistic approach</a>. You can read it online or <a href="https://www.crossref.org/publications/pid-position-paper-july-2026.pdf" target="_blank">download the PDF</a>; it&rsquo;s a 16-minute read.</p>
+        <p>Why now? The world looks very different from when Crossref was set up, and what we steward now reaches well beyond our membership: open metadata flows into national assessment systems, discovery services, integrity tools, and the AI systems learning from the scholarly record. Increasingly, decisions about research infrastructure are made by people who have never registered a record with us. Setting out our positions in public on key issues&mdash;to be referenced for years to come&mdash;seems a useful way to take that wider responsibility seriously.</p>
+        <p>The central argument of this paper is that decisions about PIDs are often framed as a choice of identifier, whereas what is really being chosen is infrastructure. Identifiers alone—however well-designed—cannot deliver the connected, open record that researchers, institutions, funders, publishers, and policymakers depend on. Effective research infrastructure rests on three interdependent elements: open, persistent identifiers; rich, open, and linked metadata; and the sustainable governance and operation of the organisations involved.</p>
+        <p>We urge those developing PID strategies and open science policies to evaluate all three together, looking beyond the identifier itself to the metadata, services, interoperability, and long-term sustainability that provide the real-world value they seek.</p>
+        <p>One thing the paper is clear about: not all DOIs are equivalent, and there is no centralised DOI metadata store—meaning a policy that specifies &lsquo;use DOIs&rsquo; without accompanying requirements for metadata, services, and governance, can leave important questions open. We therefore recommend that policies spell out the real-world outcomes needed, not just the identifier type.</p>
+        <p>The paper is also explicit about what persistence actually takes. Real persistence is active: a social contract in which members take on the long-term stewardship of their own records. And it has to be paid for; infrastructure serving the record in perpetuity should demonstrate financial resilience. The paper shows how Crossref delivers both: our members actively maintain their records, and our membership model has kept us financially resilient for the long term while also paying it forward and supporting others.</p>
+        <p>The paper also addresses digital sovereignty, a live concern in many national strategies. Our answer is that sovereignty is safeguarded by design, not just by trust. National institutions are not customers of this infrastructure; they are members and governors of it, they remain the authoritative source of their own metadata, and their investment strengthens the shared record rather than fragmenting it.</p>
+        <h2 id="who-is-this-paper-for">Who is this paper for?</h2>
+        <blockquote>
+        <p><strong>Policy strategists</strong> get the macro view: why identifiers, metadata, and governance need to be evaluated together, and how infrastructure choices shape the long-term success of a research strategy.</p>
+        </blockquote>
+        <blockquote>
+        <p><strong>Decision-makers</strong> get criteria to require before a decision is made: how to evaluate PID infrastructure as a whole, including interoperability, sustainability, and governance.</p>
+        </blockquote>
+        <blockquote>
+        <p><strong>Practitioners</strong> get a view of what good implementation looks like before committing: practical requirements for the metadata and services that make an identifier system useful in daily operation.</p>
+        </blockquote>
+        <h2 id="key-positions">Key positions</h2>
+        <ul>
+        <li>
+        <p><strong>PIDs are a means to an end.</strong> The value of an identifier system lies in the richness of its associated metadata, the scalability of the services it enables, and the needs it meets for the communities it serves.</p>
+        </li>
+        <li>
+        <p><strong>PIDs can be complementary rather than competitive.</strong> Research uses many identifier types; they coexist productively, each serving the community and use case for which they were designed.</p>
+        </li>
+        <li>
+        <p><strong>Not all DOIs are equivalent.</strong> Different DOI Registration Agencies offer fundamentally different services, metadata, and governance. Concrete requirements and expected outcomes for each entity being identified—not just identifier type—are therefore essential in any policy or implementation.</p>
+        </li>
+        <li>
+        <p><strong>Interoperability is critical.</strong> Implementing identifier systems without evaluating their interoperability undermines the goal of a connected research record. National strategies must ensure that proposed PID infrastructure connects to the broader global research ecosystem.</p>
+        </li>
+        <li>
+        <p><strong>Sustainability and governance matter as much as technical standards.</strong> Community governance and demonstrated financial resilience should be taken into account in any assessment of infrastructure organisations.</p>
+        </li>
+        <li>
+        <p><strong>Open infrastructure—not PID adoption alone—is the foundation of a connected, open research record.</strong> Strategies should measure success based on the openness, connectivity, and reach of the surrounding infrastructure and its services.</p>
+        </li>
+        </ul>
+        <h2 id="join-the-conversation">Join the conversation</h2>
+        <p>The paper includes worked examples from the UK, Portugal, Canada, and South Africa—policies that specify needs and outcomes rather than prescribing identifier systems, which is what we think good PID strategy looks like in practice. If you&rsquo;re developing or reviewing research infrastructure policy and want to talk it through, we&rsquo;d welcome that. <a href="https://community.crossref.org/" target="_blank">Start a discussion on our community forum</a>, or email us via <a href="mailto:feedback@crossref.org">feedback@crossref.org</a> anytime. This paper is also the newest addition to our <a href="https://www.crossref.org/publications/">publications area</a>, which gathers 25 years of Crossref reports, guides, and perspectives in one place.</p>
+        <p>Cite the paper as: Crossref (2026). <em>Persistent identifiers in research infrastructure policy: the need for a holistic approach</em>. Crossref Position Paper. <a href="https://doi.org/10.13003/q4vu-l2mw" target="_blank">https://doi.org/10.13003/q4vu-l2mw</a></p>]]>
+      </description>
+      <source:markdown>PID strategies are being written around the world right now, and the decisions being made will shape the scholarly record for decades. After 25 years running open scholarly infrastructure—now on behalf of 25,000 members in 167 countries—Crossref has an informed perspective on what those decisions should ideally rest on. Today we’re setting it out in our’s first position paper: [Persistent identifiers in research infrastructure policy: the need for a holistic approach](https://doi.org/10.13003/q4vu-l2mw). You can read it online or [download the PDF](https://www.crossref.org/publications/pid-position-paper-july-2026.pdf); it’s a 16-minute read.
+
+Why now? The world looks very different from when Crossref was set up, and what we steward now reaches well beyond our membership: open metadata flows into national assessment systems, discovery services, integrity tools, and the AI systems learning from the scholarly record. Increasingly, decisions about research infrastructure are made by people who have never registered a record with us. Setting out our positions in public on key issues—to be referenced for years to come—seems a useful way to take that wider responsibility seriously.
+
+The central argument of this paper is that decisions about PIDs are often framed as a choice of identifier, whereas what is really being chosen is infrastructure. Identifiers alone—however well-designed—cannot deliver the connected, open record that researchers, institutions, funders, publishers, and policymakers depend on. Effective research infrastructure rests on three interdependent elements: open, persistent identifiers; rich, open, and linked metadata; and the sustainable governance and operation of the organisations involved.
+
+We urge those developing PID strategies and open science policies to evaluate all three together, looking beyond the identifier itself to the metadata, services, interoperability, and long-term sustainability that provide the real-world value they seek.
+
+One thing the paper is clear about: not all DOIs are equivalent, and there is no centralised DOI metadata store—meaning a policy that specifies ‘use DOIs’ without accompanying requirements for metadata, services, and governance, can leave important questions open. We therefore recommend that policies spell out the real-world outcomes needed, not just the identifier type.
+
+The paper is also explicit about what persistence actually takes. Real persistence is active: a social contract in which members take on the long-term stewardship of their own records. And it has to be paid for; infrastructure serving the record in perpetuity should demonstrate financial resilience. The paper shows how Crossref delivers both: our members actively maintain their records, and our membership model has kept us financially resilient for the long term while also paying it forward and supporting others.
+
+The paper also addresses digital sovereignty, a live concern in many national strategies. Our answer is that sovereignty is safeguarded by design, not just by trust. National institutions are not customers of this infrastructure; they are members and governors of it, they remain the authoritative source of their own metadata, and their investment strengthens the shared record rather than fragmenting it.
+
+## Who is this paper for?
+
+&#62; **Policy strategists** get the macro view: why identifiers, metadata, and governance need to be evaluated together, and how infrastructure choices shape the long-term success of a research strategy.
+
+&#62; **Decision-makers** get criteria to require before a decision is made: how to evaluate PID infrastructure as a whole, including interoperability, sustainability, and governance.
+
+&#62; **Practitioners** get a view of what good implementation looks like before committing: practical requirements for the metadata and services that make an identifier system useful in daily operation.
+
+## Key positions
+
+- **PIDs are a means to an end.** The value of an identifier system lies in the richness of its associated metadata, the scalability of the services it enables, and the needs it meets for the communities it serves.
+
+- **PIDs can be complementary rather than competitive.** Research uses many identifier types; they coexist productively, each serving the community and use case for which they were designed.
+
+- **Not all DOIs are equivalent.** Different DOI Registration Agencies offer fundamentally different services, metadata, and governance. Concrete requirements and expected outcomes for each entity being identified—not just identifier type—are therefore essential in any policy or implementation.
+
+- **Interoperability is critical.** Implementing identifier systems without evaluating their interoperability undermines the goal of a connected research record. National strategies must ensure that proposed PID infrastructure connects to the broader global research ecosystem.
+
+- **Sustainability and governance matter as much as technical standards.** Community governance and demonstrated financial resilience should be taken into account in any assessment of infrastructure organisations.
+
+- **Open infrastructure—not PID adoption alone—is the foundation of a connected, open research record.** Strategies should measure success based on the openness, connectivity, and reach of the surrounding infrastructure and its services.
+
+
+## Join the conversation
+
+The paper includes worked examples from the UK, Portugal, Canada, and South Africa—policies that specify needs and outcomes rather than prescribing identifier systems, which is what we think good PID strategy looks like in practice. If you’re developing or reviewing research infrastructure policy and want to talk it through, we’d welcome that. [Start a discussion on our community forum](https://community.crossref.org/), or email us via [feedback@crossref.org](mailto:feedback@crossref.org) anytime. This paper is also the newest addition to our [publications area](https://www.crossref.org/publications/), which gathers 25 years of Crossref reports, guides, and perspectives in one place.
+
+Cite the paper as: Crossref (2026). _Persistent identifiers in research infrastructure policy: the need for a holistic approach_. Crossref Position Paper. [https://doi.org/10.13003/q4vu-l2mw](https://doi.org/10.13003/q4vu-l2mw)</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/why-pid-strategies-need-more-than-pids-our-first-position-paper/</guid>
     </item>    <item>
       <title>AI Search Is Rebundling Everything Libraries Know About Discovery</title>
       <link>https://aarontay.substack.com/p/eleven-ways-of-looking-at-academic</link>
@@ -149,15 +294,15 @@ The post [Guest Post — From Parasitism to Symbiosis: Escaping Peer-Pressure an
       <guid>cid://https://blog.openlibrary.org/?p=2684</guid>
       <category>Google Summer of Code (GSoC)</category>
     </item>    <item>
-      <title>Making research communication more equitable and effective: six levers to support preprint sharing</title>
+      <title>Making research communication more equitable and effective: six levers to support preprint sharing [Originally published in the INASP blog in June/2026]</title>
       <link>https://blog.inasp.info/make-research-communication-more-equitable-and-effective-six-levers-to-support-preprint-sharing/#new_tab</link>
       <description>
         <![CDATA[<p>Although most policymakers and research funders are committed to Open Access, many have not yet recognized the sharing of preprints as a key solution to the shortcomings of the current publishing system. INASP’s new policy paper outlines six measures to help policymakers and research funders support the sharing of preprints and drive change in the scientific publishing system. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.inasp.info/make-research-communication-more-equitable-and-effective-six-levers-to-support-preprint-sharing/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
-        <p>The post <a href="https://blog.inasp.info/make-research-communication-more-equitable-and-effective-six-levers-to-support-preprint-sharing/#new_tab">Making research communication more equitable and effective: six levers to support preprint sharing</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
+        <p>The post <a href="https://blog.inasp.info/make-research-communication-more-equitable-and-effective-six-levers-to-support-preprint-sharing/#new_tab">Making research communication more equitable and effective: six levers to support preprint sharing [Originally published in the INASP blog in June/2026]</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
       </description>
       <source:markdown>Although most policymakers and research funders are committed to Open Access, many have not yet recognized the sharing of preprints as a key solution to the shortcomings of the current publishing system. INASP’s new policy paper outlines six measures to help policymakers and research funders support the sharing of preprints and drive change in the scientific publishing system. …[Read More →](https://blog.inasp.info/make-research-communication-more-equitable-and-effective-six-levers-to-support-preprint-sharing/#new_tab)
 
-The post [Making research communication more equitable and effective: six levers to support preprint sharing](https://blog.inasp.info/make-research-communication-more-equitable-and-effective-six-levers-to-support-preprint-sharing/#new_tab) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
+The post [Making research communication more equitable and effective: six levers to support preprint sharing \[Originally published in the INASP blog in June/2026\]](https://blog.inasp.info/make-research-communication-more-equitable-and-effective-six-levers-to-support-preprint-sharing/#new_tab) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
       <guid>cid://https://blog.scielo.org/en/?p=5963</guid>
       <category>Analysis</category>
       <category>Preprint</category>
@@ -1192,82 +1337,6 @@ Thanks to our speakers and to everyone who joined, asked questions, and voted in
 
 See you at the next one.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/building-refining-and-connecting-summary-of-our-may-2026-community-update/</guid>
-    </item>    <item>
-      <title>Repertoires: How Health Research Becomes Interoperable</title>
-      <link>https://www.arl.org/blog/repertoires-how-health-research-becomes-interoperable/</link>
-      <description>
-        <![CDATA[<p>Last Updated on June 29, 2026, 2:27 pm ET In 1983, as fears mounted about an as yet unexplained disorder of the human immune system, the US National Institutes of...</p>
-        <p>The post <a href="https://www.arl.org/blog/repertoires-how-health-research-becomes-interoperable/">Repertoires: How Health Research Becomes Interoperable</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on June 29, 2026, 2:27 pm ET In 1983, as fears mounted about an as yet unexplained disorder of the human immune system, the US National Institutes of...
-
-The post [Repertoires: How Health Research Becomes Interoperable](https://www.arl.org/blog/repertoires-how-health-research-becomes-interoperable/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=49096</guid>
-      <category>Blog</category>
-    </item>    <item>
-      <title>The Declaration of Independence, America at 250 and Past Centennials</title>
-      <link>https://blog.archive.org/2026/06/29/the-declaration-of-independence-america-at-250-and-past-centennials/</link>
-      <description>
-        <![CDATA[As America celebrates its Semiquincentennial (250th anniversary) this year, explore a curated list of materials preserved at the Internet Archive documenting the nation&#8217;s founding, the Declaration of Independence, past ephemera [&#8230;]]]>
-      </description>
-      <source:markdown>As America celebrates its Semiquincentennial (250th anniversary) this year, explore a curated list of materials preserved at the Internet Archive documenting the nation’s founding, the Declaration of Independence, past ephemera \[…\]</source:markdown>
-      <enclosure url="https://archive.org/details/nonfiction023_librivox/snf023_declarationofindependence_jefferson_bg.mp3" length="0" type="audio/mpeg" />
-      <enclosure url="https://blog.archive.org/wp-content/uploads/2026/06/106_Sesquicentennial-Exposition-March.mp3" length="8012550" type="audio/mpeg" />
-      <enclosure url="https://archive.org/download/1976USSavingsBondsWithJohnWayne/1975UsSavingsBondsWithJohnWayne.mp4" length="0" type="video/mp4" />
-      <enclosure url="https://archive.org/download/New_Spirit_for_76/0337_New_Spirit_for_76_A_14_46_10_00_3mb.mp4" length="0" type="video/mp4" />
-      <guid>cid://https://blog.archive.org/?p=30510</guid>
-      <category>Announcements</category>
-      <category>News</category>
-      <category>250</category>
-      <category>Declaration of Independence</category>
-    </item>    <item>
-      <title>Before the Guardrails: Why AI Governance in Research Must Start with Purpose</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/</link>
-      <description>
-        <![CDATA[<p>The future of scholarly communication will not be determined by how powerful AI becomes, but by whether the research community remains clear about the purpose those capabilities are meant to serve and whether it can govern them together.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/">Before the Guardrails: Why AI Governance in Research Must Start with Purpose</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>The future of scholarly communication will not be determined by how powerful AI becomes, but by whether the research community remains clear about the purpose those capabilities are meant to serve and whether it can govern them together.
-
-The post [Before the Guardrails: Why AI Governance in Research Must Start with Purpose](https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62141</guid>
-      <category>Artificial Intelligence</category>
-      <category>Authority</category>
-      <category>Authors</category>
-      <category>Infrastructure</category>
-      <category>Innovation</category>
-      <category>Libraries</category>
-      <category>Policy</category>
-      <category>Research</category>
-      <category>Research Societies</category>
-      <category>World of Tomorrow</category>
-      <category>AI</category>
-      <category>AI governance</category>
-      <category>AI policy</category>
-      <category>Artificial intelligence</category>
-      <category>cognitive work</category>
-      <category>governance</category>
-      <category>judgment</category>
-      <category>role of editor</category>
-      <category>shared governance</category>
-    </item>    <item>
-      <title>Preserving the First Draft of History: Reflections from the National Summit on Local News Preservation</title>
-      <link>https://blog.archive.org/2026/06/29/newssummit/</link>
-      <description>
-        <![CDATA[Local news is disappearing. Since 2005, the United States has lost nearly 3,500 newspapers. 213 counties have no local news outlet at all and another 1,524 have just one. Newsrooms [&#8230;]]]>
-      </description>
-      <source:markdown>Local news is disappearing. Since 2005, the United States has lost nearly 3,500 newspapers. 213 counties have no local news outlet at all and another 1,524 have just one. Newsrooms \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30604</guid>
-      <category>Archive-It</category>
-      <category>Event</category>
-      <category>News</category>
-      <category>Past Event</category>
-      <category>Web &#38; Data Services</category>
-      <category>journalism</category>
-      <category>local history</category>
-      <category>local news</category>
-      <category>newspaper</category>
-      <category>web archiving</category>
     </item>
   </channel>
 </rss>

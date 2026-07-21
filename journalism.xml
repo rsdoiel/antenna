@@ -4,10 +4,35 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>20 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>21 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UC reaches tentative agreement with CIR-SEIU after almost a year of negotiations</title>
+      <link>https://dailybruin.com/2026/07/20/uc-reaches-tentative-agreement-with-cir-seiu-after-almost-a-year-of-negotiations/</link>
+      <description>
+        <![CDATA[A union representing more than 6,400 UC resident physicians and fellows reached a tentative agreement with the University on Wednesday.
+        The Committee of Interns and Residents, a local affiliate of the Service Employees International Union, began contract negotiations with the University in August, according to a Thursday UC Office of the President press release.]]>
+      </description>
+      <source:markdown>A union representing more than 6,400 UC resident physicians and fellows reached a tentative agreement with the University on Wednesday.
+The Committee of Interns and Residents, a local affiliate of the Service Employees International Union, began contract negotiations with the University in August, according to a Thursday UC Office of the President press release.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513430</guid>
+      <category>News</category>
+      <category>UC</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>Spain wins the FIFA World Cup against Argentina</title>
+      <link>https://sundial.csun.edu/219082/featured/spain-wins-the-fifa-world-cup-against-argentina/</link>
+      <description>
+        <![CDATA[Spain and Argentina fans came together to see the World Cup final match. Spain scored a goal in extra time to win their second World Cup title since 2010.]]>
+      </description>
+      <source:markdown>Spain and Argentina fans came together to see the World Cup final match. Spain scored a goal in extra time to win their second World Cup title since 2010.</source:markdown>
+      <guid>cid://https://sundial.csun.edu/?p=219082</guid>
+      <category>Featured</category>
+      <category>Multimedia</category>
+      <category>Videos</category>
+      <category>World Cup</category>
+    </item>    <item>
       <title>Daily Bruin Print Issue – July 20, 2026</title>
       <link>https://dailybruin.com/2026/07/20/daily-bruin-print-issue-july-20-2026/</link>
       <description>
@@ -42,7 +67,7 @@ For the first time since 2023, UCLA men’s basketball brought in a five-star fr
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>Sports Columns</category>
-      <category>db-story-c1</category>
+      <category>db-story-a</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Washington</title>
       <link>https://dailybruin.com/2026/07/19/2026-big-ten-preview-washington/</link>
@@ -93,7 +118,7 @@ Christopher Nolan’s 2026 action-adventure blockbuster adapts the millennia-old
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
-      <category>db-story-g</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>UC regents discuss $350 million funding increase, cuts to scholarships and programs</title>
       <link>https://dailybruin.com/2026/07/18/uc-regents-discuss-350-million-funding-increase-cuts-to-scholarships-and-programs/</link>
@@ -108,7 +133,7 @@ While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fisc
       <category>News</category>
       <category>Regents</category>
       <category>UC</category>
-      <category>db-story-a</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>Album review: Gracie Abrams wrestles with growing up in ‘Daughter from Hell’</title>
       <link>https://dailybruin.com/2026/07/17/gracie-abrams-wrestles-with-growing-up-in-daughter-from-hell/</link>
@@ -148,10 +173,10 @@ UCLA will begin a national search for its next head coach.</source:markdown>
       <title>UC Regents hear public comment on SAT, ACT debate, undocumented student concerns</title>
       <link>https://dailybruin.com/2026/07/16/uc-regents-hear-public-comment-on-sat-act-debate-undocumented-student-concerns/</link>
       <description>
-        <![CDATA[<em>This post was updated July 20 at 12:28 a.m.</em>
+        <![CDATA[<em>This post was updated July 21 at 3:09 p.m.</em>
         Faculty and students called on the UC Board of Regents to reinstate standardized testing requirements and support undocumented students at its July meeting.]]>
       </description>
-      <source:markdown>_This post was updated July 20 at 12:28 a.m._
+      <source:markdown>_This post was updated July 21 at 3:09 p.m._
 Faculty and students called on the UC Board of Regents to reinstate standardized testing requirements and support undocumented students at its July meeting.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513330</guid>
       <category>News</category>
@@ -279,7 +304,7 @@ Former UCLA center Lauren Betts won the ESPY for Best College Athlete – Women�
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>breaking</category>
-      <category>db-story-c2</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>USAC recap – July 7</title>
       <link>https://dailybruin.com/2026/07/15/usac-recap-july-7/</link>
@@ -1748,82 +1773,6 @@ Finance has long been an industry in which connections often determine your prof
       <category>Featured</category>
       <category>Opinions</category>
       <category>World Cup</category>
-    </item>    <item>
-      <title>Op-ed: UCLA should prioritize reducing car dependency over expanding parking</title>
-      <link>https://dailybruin.com/2026/06/29/op-ed-ucla-should-prioritize-reducing-car-dependency-over-expanding-parking/</link>
-      <description>
-        <![CDATA[Contrary to the beliefs of the students and faculty interviewed in Avital Abramov&#8217;s June 7 piece, &#8220;Students, faculty frustrated with high parking costs, limited permit access,&#8221; UCLA should not increase parking availability or decrease parking fees.]]>
-      </description>
-      <source:markdown>Contrary to the beliefs of the students and faculty interviewed in Avital Abramov’s June 7 piece, “Students, faculty frustrated with high parking costs, limited permit access,” UCLA should not increase parking availability or decrease parking fees.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512619</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-g</category>
-      <category>db-story-op</category>
-    </item>    <item>
-      <title>Capital Weather is dropping the “Gang” and going independent</title>
-      <link>https://www.niemanlab.org/2026/06/capital-weather-is-dropping-the-gang-and-going-independent/</link>
-      <description>
-        <![CDATA[If you have ever lived in the Washington, D.C. metro area, or had the misfortune of being stuck there during a snowstorm, there&#8217;s a good chance you&#8217;ve heard of the Capital Weather Gang. For eighteen years they were The Washington Post&#8217;s oracles of the atmosphere, covering local weather on the Post website and on social...]]>
-      </description>
-      <source:markdown>If you have ever lived in the Washington, D.C. metro area, or had the misfortune of being stuck there during a snowstorm, there’s a good chance you’ve heard of the Capital Weather Gang. For eighteen years they were The Washington Post’s oracles of the atmosphere, covering local weather on the Post website and on social...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251141</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>AI</category>
-      <category>Alabama Weather Network</category>
-      <category>Camden Walker</category>
-      <category>Capital Weather</category>
-      <category>Capital Weather Gang</category>
-      <category>climate</category>
-      <category>climate change</category>
-      <category>Dan Stillman</category>
-      <category>DC</category>
-      <category>Ian Livingston</category>
-      <category>independent</category>
-      <category>indies</category>
-      <category>Jason Samenow</category>
-      <category>meteorologists</category>
-      <category>meteorology</category>
-      <category>social</category>
-      <category>subscriptions</category>
-      <category>tiktok</category>
-      <category>Washington</category>
-      <category>Washington DC</category>
-      <category>Washington Post</category>
-      <category>weather</category>
-    </item>    <item>
-      <title>With the Expansion of Legalized Online Betting, College Students Face New Risks and Knowledge Gaps</title>
-      <link>https://dailybruin.com/2026/06/29/with-the-expansion-of-legalized-online-betting-college-students-face-new-risks-and-knowledge-gaps-2/</link>
-      <description>
-        <![CDATA[Online betting is no longer something students encounter occasionally; it has become part of the digital environment many move through every day. As more U.S. states legalize sports betting and online casino platforms, gambling has become easier to access, harder to avoid and more deeply embedded in everyday media.]]>
-      </description>
-      <source:markdown>Online betting is no longer something students encounter occasionally; it has become part of the digital environment many move through every day. As more U.S. states legalize sports betting and online casino platforms, gambling has become easier to access, harder to avoid and more deeply embedded in everyday media.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512616</guid>
-      <category>Sponsored</category>
-    </item>    <item>
-      <title>Why Daily Login Bonuses Are Becoming More Popular With Student Gamers</title>
-      <link>https://dailybruin.com/2026/06/29/why-daily-login-bonuses-are-becoming-more-popular-with-student-gamers/</link>
-      <description>
-        <![CDATA[Why Daily Login Bonuses Are Becoming More Popular With Student Gamers
-        
-        For many student gamers, tapping into a game to claim a daily bonus has become a regular part of campus routines.]]>
-      </description>
-      <source:markdown>Why Daily Login Bonuses Are Becoming More Popular With Student Gamers
-
-For many student gamers, tapping into a game to claim a daily bonus has become a regular part of campus routines.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512612</guid>
-      <category>Sponsored</category>
-    </item>    <item>
-      <title>Don’t be spooked by this supernatural UCLA course</title>
-      <link>https://dailybruin.com/2026/06/29/dont-be-spooked-by-this-supernatural-ucla-course/</link>
-      <description>
-        <![CDATA[Aliens, Psychics and Ghosts &#8211; a UCLA course taught by professor David Delgado Shorter &#8211; has everything from teacher-led meditations to lively debates about paranormal legends.]]>
-      </description>
-      <source:markdown>Aliens, Psychics and Ghosts – a UCLA course taught by professor David Delgado Shorter – has everything from teacher-led meditations to lively debates about paranormal legends.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512607</guid>
-      <category>Video</category>
-      <category>db-story-m1</category>
     </item>
   </channel>
 </rss>

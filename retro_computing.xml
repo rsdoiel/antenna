@@ -4,10 +4,26 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>20 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>21 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Drag&#39;n&#39;Drop 15i4 edition reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2352.html</link>
+      <description>
+        <![CDATA[The Summer 2026 edition of Drag'n'Drop magazine is now out. This edition is 40 pages of news, reviews, tools and lots of code to type in or just review (I always buy the version with the programs included).]]>
+      </description>
+      <source:markdown>The Summer 2026 edition of Drag&#39;n&#39;Drop magazine is now out. This edition is 40 pages of news, reviews, tools and lots of code to type in or just review (I always buy the version with the programs included).</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2352.html</guid>
+    </item>    <item>
+      <title>b.log 2026/07/20 - Tyres, The Online Safety Act falls at the first hurdle.</title>
+      <link>https://heyrick.eu/blog/entry/20260720</link>
+      <description>
+        <![CDATA[Tyres, The Online Safety Act falls at the first hurdle.]]>
+      </description>
+      <source:markdown>Tyres, The Online Safety Act falls at the first hurdle.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260720</guid>
+    </item>    <item>
       <title>Große Retro-Software-Welle im Anrollen</title>
       <link>http://riscosblog.huber-net.de/2026/07/grosse-retro-software-welle-im-anrollen/</link>
       <description>
@@ -411,45 +427,6 @@
       <source:markdown>The Kubuntu Focus team has upped the performance ante of its M2 and Zr laptops with the latest, greatest CPUs from Intel.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://98099158b71192205f6ed0557651beb1</guid>
-    </item>    <item>
-      <title>Linux Gamers May Soon See Less Mouse Lag in KDE Plasma</title>
-      <link>http://www.linux-magazine.com/Online/News/Linux-Gamers-May-Soon-See-Less-Mouse-Lag-in-KDE-Plasma</link>
-      <description>
-        <![CDATA[<p>Gamers using KDE’s Plasma desktop have been suffering from a slight input delay in mouse movement that could lead to getting fragged.</p>]]>
-      </description>
-      <source:markdown>Gamers using KDE’s Plasma desktop have been suffering from a slight input delay in mouse movement that could lead to getting fragged.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://5d0e01b02503df2b7362b03323735982</guid>
-    </item>    <item>
-      <title>b.log 2026/06/29 - Exactly what I thought would happen, RISC OS WiFi, Random rant about version numbers, I was not so great last night, A political rant.</title>
-      <link>https://heyrick.eu/blog/entry/20260629</link>
-      <description>
-        <![CDATA[Exactly what I thought would happen, RISC OS WiFi, Random rant about version numbers, I was not so great last night, A political rant.]]>
-      </description>
-      <source:markdown>Exactly what I thought would happen, RISC OS WiFi, Random rant about version numbers, I was not so great last night, A political rant.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260629</guid>
-    </item>    <item>
-      <title>FreeDOS is 32 years old</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/06/freedos-is-32-years-old/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>It was 32 years ago today (June 29, 1994) that we <a href="https://groups.google.com/g/comp.os.msdos.apps/c/oQmT4ETcSzU/m/O1HR8PE2u-EJ" rel="nofollow">announced</a> what became the FreeDOS Project. We welcome everyone to contribute by <a href="https://www.freedos.org/about/devel/" rel="nofollow">writing code</a>, <a href="https://www.freedos.org/bugs/" rel="nofollow">testing</a>, debugging, documenting, <a href="https://shidel.github.io/fd-nls/report.html" rel="nofollow">translating</a>, advocating, .. or anything else that helps FreeDOS. Also join the <a href="https://www.freedos.org/forums/" rel="nofollow">email list</a>: developers hang out on freedos-devel, general questions are on freedos-user.</p>
-        <p>You can celebrate the FreeDOS anniversary by reading one of our <a href="https://www.freedos.org/books/" rel="nofollow">open books</a> or reading any of these recent articles about FreeDOS: <a href="https://www.both.org/?p=14240" rel="nofollow">How FreeDOS got started</a>, <a href="https://www.both.org/?p=14054" rel="nofollow">A gentle introduction to FreeDOS commands</a>, <a href="https://www.both.org/?p=14044" rel="nofollow">Using variables in FreeDOS</a>, <a href="https://www.both.org/?p=14051" rel="nofollow">Customize FreeDOS with FDCONFIG·SYS</a>, <a href="https://www.both.org/?p=14056" rel="nofollow">Try the FED editor on FreeDOS</a>, or this series of articles about DOS filenames: <a href="https://www.both.org/?p=14209" rel="nofollow">part 1</a>, <a href="https://www.both.org/?p=14211" rel="nofollow">part 2</a>, <a href="https://www.both.org/?p=14277" rel="nofollow">part 3</a>. Watch Jim's presentation <a href="https://www.youtube.com/watch?v=G3kFJg1pgrg" rel="nofollow">about FreeDOS community</a> from DevFest'25. Buy a tshirt, sticker, or other items from the <a href="https://www.zazzle.com/store/freedos" rel="nofollow">FreeDOS store on Zazzle</a>. You can also buy a copy of Pat Villani's 1996 book about <a href="https://www.routledge.com/FreeDOS-Kernel-An-MS-DOS-Emulator-for-Platform-Independence-amp-Embedded-System-Development/Villani/p/book/9780879304362" rel="nofollow">The FreeDOS Kernel</a>.</p>
-        <p>If you'd like to see where it all started, I have shared the <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/pre-1.0/" rel="nofollow">Alpha5 and Beta1</a> "distributions" on Ibiblio. These were very early and require a minimal DOS environment to start from.</p></div>]]>
-      </description>
-      <source:markdown>It was 32 years ago today (June 29, 1994) that we [announced](https://groups.google.com/g/comp.os.msdos.apps/c/oQmT4ETcSzU/m/O1HR8PE2u-EJ) what became the FreeDOS Project. We welcome everyone to contribute by [writing code](https://www.freedos.org/about/devel/), [testing](https://www.freedos.org/bugs/), debugging, documenting, [translating](https://shidel.github.io/fd-nls/report.html), advocating, .. or anything else that helps FreeDOS. Also join the [email list](https://www.freedos.org/forums/): developers hang out on freedos-devel, general questions are on freedos-user.
-
-You can celebrate the FreeDOS anniversary by reading one of our [open books](https://www.freedos.org/books/) or reading any of these recent articles about FreeDOS: [How FreeDOS got started](https://www.both.org/?p=14240), [A gentle introduction to FreeDOS commands](https://www.both.org/?p=14054), [Using variables in FreeDOS](https://www.both.org/?p=14044), [Customize FreeDOS with FDCONFIG·SYS](https://www.both.org/?p=14051), [Try the FED editor on FreeDOS](https://www.both.org/?p=14056), or this series of articles about DOS filenames: [part 1](https://www.both.org/?p=14209), [part 2](https://www.both.org/?p=14211), [part 3](https://www.both.org/?p=14277). Watch Jim&#39;s presentation [about FreeDOS community](https://www.youtube.com/watch?v=G3kFJg1pgrg) from DevFest&#39;25. Buy a tshirt, sticker, or other items from the [FreeDOS store on Zazzle](https://www.zazzle.com/store/freedos). You can also buy a copy of Pat Villani&#39;s 1996 book about [The FreeDOS Kernel](https://www.routledge.com/FreeDOS-Kernel-An-MS-DOS-Emulator-for-Platform-Independence-amp-Embedded-System-Development/Villani/p/book/9780879304362).
-
-If you&#39;d like to see where it all started, I have shared the [Alpha5 and Beta1](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/pre-1.0/) &#34;distributions&#34; on Ibiblio. These were very early and require a minimal DOS environment to start from.</source:markdown>
-      <guid>cid://https://sourceforge.netb3c2370ccb0470d1be7eab1e6e5ba2b947ecbd1e</guid>
-    </item>    <item>
-      <title>WROCC July 2026 talk on Wednesday</title>
-      <link>http://www.iconbar.com/comments/rss/news2342.html</link>
-      <description>
-        <![CDATA[The July 2026 WROCC talk is on Wednesday 1st July and starts at 7.45pm on Zoom. This month Steve Revill returns as speaker]]>
-      </description>
-      <source:markdown>The July 2026 WROCC talk is on Wednesday 1st July and starts at 7.45pm on Zoom. This month Steve Revill returns as speaker</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2342.html</guid>
     </item>
   </channel>
 </rss>
