@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>21 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>22 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Substantial Update to IPFire Now Available</title>
+      <link>http://www.linux-magazine.com/Online/News/Substantial-Update-to-IPFire-Now-Available</link>
+      <description>
+        <![CDATA[<p>The lastest version of IPFire features a fundamental change to how the system handles DNS.</p>]]>
+      </description>
+      <source:markdown>The lastest version of IPFire features a fundamental change to how the system handles DNS.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Lori White)</author>
+      <guid>cid://98260852e16bbea6ec1fd81269349624</guid>
+    </item>    <item>
       <title>Drag&#39;n&#39;Drop 15i4 edition reviewed</title>
       <link>http://www.iconbar.com/comments/rss/news2352.html</link>
       <description>
@@ -394,39 +403,6 @@
       <category>microkim</category>
       <category>pal-1</category>
       <category>pal-2</category>
-    </item>    <item>
-      <title>FreeDOS Kernel 2046 (version 2.46)</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/06/freedos-kernel-2046-version-246/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>FreeDOS Kernel is the core part of FreeDOS that provides DOS services (program loading, file and device I/O, memory management, and the INT 21h API most DOS software uses). Kernel 2046 is an incremental maintenance release with edge‑case fixes and compatibility updates. Changes in this release include: - bugfix: CD on remote Lantastic mapped drives - bugfix: print to Lantastic redirected printers - misc: port some improvements from FDPP (Stas &amp; Andrew) - bugfix: move control-break handler off stack, fix Invisible Lan redir - bugfix: rework truename so when on mapped drive with invalid CDS properly resolves character devices (i.e. fix copy CON). Thanks to Andrew Bird and Jeremy Davis for these updates to the FreeDOS Kernel! You can find it at <a href="https://github.com/FDOS/kernel" rel="nofollow">FreeDOS Kernel at GitHub</a> or more directly from the <a href="https://github.com/FDOS/kernel/releases/tag/ke2046" rel="nofollow">FreeDOS Kernel 2046</a> release tag. We've also mirrored this to the FreeDOS Files Archive at Ibiblio, under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/kernel/2045/" rel="nofollow">files/dos/kernel</a>.</p></div>]]>
-      </description>
-      <source:markdown>FreeDOS Kernel is the core part of FreeDOS that provides DOS services (program loading, file and device I/O, memory management, and the INT 21h API most DOS software uses). Kernel 2046 is an incremental maintenance release with edge‑case fixes and compatibility updates. Changes in this release include: - bugfix: CD on remote Lantastic mapped drives - bugfix: print to Lantastic redirected printers - misc: port some improvements from FDPP (Stas &#38; Andrew) - bugfix: move control-break handler off stack, fix Invisible Lan redir - bugfix: rework truename so when on mapped drive with invalid CDS properly resolves character devices (i.e. fix copy CON). Thanks to Andrew Bird and Jeremy Davis for these updates to the FreeDOS Kernel! You can find it at [FreeDOS Kernel at GitHub](https://github.com/FDOS/kernel) or more directly from the [FreeDOS Kernel 2046](https://github.com/FDOS/kernel/releases/tag/ke2046) release tag. We&#39;ve also mirrored this to the FreeDOS Files Archive at Ibiblio, under [files/dos/kernel](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/kernel/2045/).</source:markdown>
-      <guid>cid://https://sourceforge.net6116e5e47647d929fe8ef224807166957cd36ea4</guid>
-    </item>    <item>
-      <title>FDNPKG16 0.99.8254d</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/06/fdnpkg16-0998254d/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>FDNPKG16 is a Network Package Manager for FreeDOS, which runs in 16-bit mode. Victoria has been making updates to the package manager, and recently released a new update. Victoria share these changes: "- cleaned a bunch of code - added basic error levels - fixed a potential bug with an error catcher and lsxflag - fixed the untested open watcom 1.9 compiling with the makefile in DOS." FDNPKG16 is open source, under the MIT license. You can download the new release from <a href="https://github.com/sparky4/fdnpkg16" rel="nofollow">FDNPKG16 at GitHub</a> or more directly as a zip file at <a href="https://github.com/sparky4/fdnpkg16/releases/download/0.99.8254d/fdnpkg16.zip" rel="nofollow">fdnpkg16·zip</a>. This is also mirrored on Victoria's personal server at <a href="https://4ch.mooo.com/freedos/repos/1.4/net/fdnpkg16.zip" rel="nofollow">fdnpkg16·zip</a>.</p></div>]]>
-      </description>
-      <source:markdown>FDNPKG16 is a Network Package Manager for FreeDOS, which runs in 16-bit mode. Victoria has been making updates to the package manager, and recently released a new update. Victoria share these changes: &#34;- cleaned a bunch of code - added basic error levels - fixed a potential bug with an error catcher and lsxflag - fixed the untested open watcom 1.9 compiling with the makefile in DOS.&#34; FDNPKG16 is open source, under the MIT license. You can download the new release from [FDNPKG16 at GitHub](https://github.com/sparky4/fdnpkg16) or more directly as a zip file at [fdnpkg16·zip](https://github.com/sparky4/fdnpkg16/releases/download/0.99.8254d/fdnpkg16.zip). This is also mirrored on Victoria&#39;s personal server at [fdnpkg16·zip](https://4ch.mooo.com/freedos/repos/1.4/net/fdnpkg16.zip).</source:markdown>
-      <guid>cid://https://sourceforge.netebc7e8c7242acffc21e3d3d7a664a31dcb589a78</guid>
-    </item>    <item>
-      <title>b.log 2026/06/30 - I&#39;m baaaaack!</title>
-      <link>https://heyrick.eu/blog/entry/20260630</link>
-      <description>
-        <![CDATA[I'm baaaaack!]]>
-      </description>
-      <source:markdown>I&#39;m baaaaack!</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260630</guid>
-    </item>    <item>
-      <title>Kubuntu Focus Goes Ultra</title>
-      <link>http://www.linux-magazine.com/Online/News/Kubuntu-Focus-Goes-Ultra</link>
-      <description>
-        <![CDATA[<p>The Kubuntu Focus team has upped the performance ante of its M2 and Zr laptops with the latest, greatest CPUs from Intel.</p>]]>
-      </description>
-      <source:markdown>The Kubuntu Focus team has upped the performance ante of its M2 and Zr laptops with the latest, greatest CPUs from Intel.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://98099158b71192205f6ed0557651beb1</guid>
     </item>
   </channel>
 </rss>

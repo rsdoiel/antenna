@@ -4,10 +4,23 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>21 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>22 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Invite with Rashida Jones and Will McCormack</title>
+      <link>https://johnaugust.com/2026/the-invite-with-rashida-jones-and-will-mccormack</link>
+      <description>
+        <![CDATA[<p>John and Craig invite over Rashida Jones and Will McCormack to chat about their new film The Invite, out in theaters now. Rashida and Will divulge the origin story and dynamics of their own writing partnership, as well as discuss the process of adapting an adaptation and writing to the truth of relationships. In our [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/the-invite-with-rashida-jones-and-will-mccormack">The Invite with Rashida Jones and Will McCormack</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>John and Craig invite over Rashida Jones and Will McCormack to chat about their new film The Invite, out in theaters now. Rashida and Will divulge the origin story and dynamics of their own writing partnership, as well as discuss the process of adapting an adaptation and writing to the truth of relationships. In our \[…\]
+
+The post [The Invite with Rashida Jones and Will McCormack](https://johnaugust.com/2026/the-invite-with-rashida-jones-and-will-mccormack) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/744standard.mp3" length="54199512" type="audio/mpeg" />
+      <guid>cid://https://johnaugust.com/?p=26799</guid>
+      <category>Scriptnotes</category>
+    </item>    <item>
       <title>Bartz v. Anthropic Settlement Receives Final Approval</title>
       <link>https://www.authorsalliance.org/2026/07/21/bartz-v-anthropic-settlement-receives-final-approval/</link>
       <description>
@@ -199,20 +212,6 @@ Thank you, everyone. We’re looking forward to another fun year.</source:markdo
       <guid>cid://https://www.authorsalliance.org/?p=13020</guid>
       <category>Blog</category>
       <category>Future Knowledge</category>
-    </item>    <item>
-      <title>Obsession with Curry Barker</title>
-      <link>https://johnaugust.com/2026/obsession-with-curry-barker</link>
-      <description>
-        <![CDATA[<p>John and Craig welcome Curry Barker, the writer-director behind this summer’s surprise blockbuster, Obsession. It’s a rom-com, a horror film and a great example of trusting your audience. We discuss Curry’s roots, his writing process, learning from YouTube, as well as the pressure to follow up a hit. In our bonus segment for premium subscribers, [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/obsession-with-curry-barker">Obsession with Curry Barker</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>John and Craig welcome Curry Barker, the writer-director behind this summer’s surprise blockbuster, Obsession. It’s a rom-com, a horror film and a great example of trusting your audience. We discuss Curry’s roots, his writing process, learning from YouTube, as well as the pressure to follow up a hit. In our bonus segment for premium subscribers, \[…\]
-
-The post [Obsession with Curry Barker](https://johnaugust.com/2026/obsession-with-curry-barker) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/742standard.mp3" length="63358237" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=26727</guid>
-      <category>News</category>
-      <category>Scriptnotes</category>
     </item>
   </channel>
 </rss>

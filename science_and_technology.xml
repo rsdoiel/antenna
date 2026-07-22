@@ -4,10 +4,270 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>21 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>22 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
+      <link>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</link>
+      <description>
+        <![CDATA[Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on schedule. That creates one of [&#8230;]]]>
+      </description>
+      <source:markdown>Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on schedule. That creates one of \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96734</guid>
+      <category>AI</category>
+      <category>Robotics</category>
+      <category>Software</category>
+      <category>AI for Good</category>
+      <category>CUDA</category>
+      <category>Healthcare and Life Sciences</category>
+      <category>Isaac</category>
+      <category>Open Source</category>
+      <category>Physical AI</category>
+      <category>Simulation</category>
+      <category>Synthetic Data Generation</category>
+    </item>    <item>
+      <title>Building an AmigaOS Development Environment in 2026</title>
+      <link>https://www.osnews.com/story/145581/building-an-amigaos-development-environment-in-2026/</link>
+      <description>
+        <![CDATA[If you want to develop an application for AmigaOS 3.x but don&#8217;t want to deal with real hardware, virtualisation and emulation are your friends. Apropos of nothing, I decided to set up an Amiga development environment. Since figuring things out wasn&#8217;t straightforward, I wrote down instructions for Linux about how to compile the first program and run it in an emulator. Enjoy! ↫ Daniel Kochmański It&#8217;s a great guide, easy to follow, and you&#8217;ll be up and running quickly. The emulator the guide uses &#8211; AmiBerry, a fork of WinUAE &#8211; contains slopcode, so you may want to consider alternatives. This doesn&#8217;t change much for the guide though, as whatever tasks you need to do outside and inside AmigaOS itself remain unchanged.]]>
+      </description>
+      <source:markdown>If you want to develop an application for AmigaOS 3.x but don’t want to deal with real hardware, virtualisation and emulation are your friends. Apropos of nothing, I decided to set up an Amiga development environment. Since figuring things out wasn’t straightforward, I wrote down instructions for Linux about how to compile the first program and run it in an emulator. Enjoy! ↫ Daniel Kochmański It’s a great guide, easy to follow, and you’ll be up and running quickly. The emulator the guide uses – AmiBerry, a fork of WinUAE – contains slopcode, so you may want to consider alternatives. This doesn’t change much for the guide though, as whatever tasks you need to do outside and inside AmigaOS itself remain unchanged.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145581</guid>
+      <category>Amiga &#38; AROS</category>
+    </item>    <item>
+      <title>Volkswagen blocks custom Android ROM users from VW application</title>
+      <link>https://www.osnews.com/story/145579/volkswagen-blocks-custom-android-rom-users-from-vw-application/</link>
+      <description>
+        <![CDATA[Drivers of cars from the Volkswagen Group using alternative Android versions like GrapheneOS, LineageOS, or /e/OS have been unable to use the VW app for some time. This means they can neither check their vehicle&#8217;s remaining range from their phone, schedule service appointments, nor control charging and air conditioning. The car manufacturer has made changes to the app&#8217;s backend that only allow devices with Google&#8217;s pre-installed Play Services. When asked by heise online, VW stated that affected users should not expect a timely reopening. “However, they are looking into it.” ↫ Andreas Floemer at Heise.de Clearly, this should be illegal. Then again, that has never stopped Volkswagen before.]]>
+      </description>
+      <source:markdown>Drivers of cars from the Volkswagen Group using alternative Android versions like GrapheneOS, LineageOS, or /e/OS have been unable to use the VW app for some time. This means they can neither check their vehicle’s remaining range from their phone, schedule service appointments, nor control charging and air conditioning. The car manufacturer has made changes to the app’s backend that only allow devices with Google’s pre-installed Play Services. When asked by heise online, VW stated that affected users should not expect a timely reopening. “However, they are looking into it.” ↫ Andreas Floemer at Heise.de Clearly, this should be illegal. Then again, that has never stopped Volkswagen before.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145579</guid>
+      <category>Android</category>
+    </item>    <item>
+      <title>Happy companies are all alike; every unhappy company is unhappy in its own way</title>
+      <link>https://www.osnews.com/story/145577/happy-companies-are-all-alike-every-unhappy-company-is-unhappy-in-its-own-way/</link>
+      <description>
+        <![CDATA[Sam Altman seems to be making OpenAI way more non-profit than before: Even as the AI bubble becomes a mainstream talking point on Wall Street, tech companies continue to peddle the fantasy that AI is poised to become an almost magical money-maker. Case in point, OpenAI wants you to believe that by 2030, it’ll be raking in $100 billion a year just from ads alone — even though it’s currently struggling to reach just $1 billion. ↫ Joe Wilkins at Futurism The US tech giants fueling this &#8220;AI&#8221; bubble are trying to hide the true extent of their debt: Hidden debt at U.S. tech giants swelled eightfold in four years to an estimated $1.65 trillion as artificial intelligence investments ballooned, a Nikkei study shows, exceeding actual debt and making it tougher for investors to assess risk.  The five companies&#8217; hidden debt, which does not appear on balance sheets, totaled $1.65 trillion in the most recent quarter, exceeding the roughly $1.35 trillion in debt reflected on their balance sheets. The data includes some estimates. ↫ Kohei Yamada at Nikkei Asia The bubble is expanding to comical proportions: The American stock market is booming, thanks to artificial intelligence. Tech giants are borrowing billions to acquire AI talent, purchase chips and hardware, and construct data centers. And market watchers are starting to get worried. They see financiers bulldozing giant piles of money to private AI start-ups with no realistic path to profitability, tech companies reliant on other tech companies for revenue growth, and non-tech businesses without a lot to show for their AI investments. The value of AI-linked firms has climbed $27 trillion in the past three years—an astonishing amount, equivalent to 36 percent of the value of the entire U.S. stock market today. Although future earnings could justify those valuations, as Dominic Wilson and Vickie Chang of Goldman Sachs argued in a note to clients, the profit expectations require Panglossian optimism. No less an authority than Sam Altman is arguing that we are in an AI bubble. The International Monetary Fund is citing it as a significant risk to financial stability and warning about what might happen when it bursts: diminished investment, tighter credit, reduced consumption, disrupted trade flows. ↫ Annie Lowrey at The Atlantic I&#8217;m not worried, though. I have it on good authority that &#8220;AI&#8221; increases productivity by 10x, so surely, none of the above is a problem. Any day now, we will be inundated with waves of brand new, high-quality, valuable software. Any day now, existing software will increase in quality by 10x, leading to a huge surge in software sales. Any day now, productivity in factories will increase rapidly thanks to &#8220;AI&#8221; freeing up workers&#8217; time, driving prices down 10x, leaving consumers with 10x more money to spend. Any day now, everyone will be able to produce the next Citizen Kane or write the next Anna Karenina, causing an explosion in magnificent, timeless art that will have historians of the future marvel at our civilisation&#8217;s ingenuity and artistry. In the meantime, these companies can just ask their &#8220;AI&#8221; how to become profitable. Should be table-stakes for a 10x force multiplier. I&#8217;m not worried.]]>
+      </description>
+      <source:markdown>Sam Altman seems to be making OpenAI way more non-profit than before: Even as the AI bubble becomes a mainstream talking point on Wall Street, tech companies continue to peddle the fantasy that AI is poised to become an almost magical money-maker. Case in point, OpenAI wants you to believe that by 2030, it’ll be raking in $100 billion a year just from ads alone — even though it’s currently struggling to reach just $1 billion. ↫ Joe Wilkins at Futurism The US tech giants fueling this “AI” bubble are trying to hide the true extent of their debt: Hidden debt at U.S. tech giants swelled eightfold in four years to an estimated $1.65 trillion as artificial intelligence investments ballooned, a Nikkei study shows, exceeding actual debt and making it tougher for investors to assess risk. The five companies’ hidden debt, which does not appear on balance sheets, totaled $1.65 trillion in the most recent quarter, exceeding the roughly $1.35 trillion in debt reflected on their balance sheets. The data includes some estimates. ↫ Kohei Yamada at Nikkei Asia The bubble is expanding to comical proportions: The American stock market is booming, thanks to artificial intelligence. Tech giants are borrowing billions to acquire AI talent, purchase chips and hardware, and construct data centers. And market watchers are starting to get worried. They see financiers bulldozing giant piles of money to private AI start-ups with no realistic path to profitability, tech companies reliant on other tech companies for revenue growth, and non-tech businesses without a lot to show for their AI investments. The value of AI-linked firms has climbed $27 trillion in the past three years—an astonishing amount, equivalent to 36 percent of the value of the entire U.S. stock market today. Although future earnings could justify those valuations, as Dominic Wilson and Vickie Chang of Goldman Sachs argued in a note to clients, the profit expectations require Panglossian optimism. No less an authority than Sam Altman is arguing that we are in an AI bubble. The International Monetary Fund is citing it as a significant risk to financial stability and warning about what might happen when it bursts: diminished investment, tighter credit, reduced consumption, disrupted trade flows. ↫ Annie Lowrey at The Atlantic I’m not worried, though. I have it on good authority that “AI” increases productivity by 10x, so surely, none of the above is a problem. Any day now, we will be inundated with waves of brand new, high-quality, valuable software. Any day now, existing software will increase in quality by 10x, leading to a huge surge in software sales. Any day now, productivity in factories will increase rapidly thanks to “AI” freeing up workers’ time, driving prices down 10x, leaving consumers with 10x more money to spend. Any day now, everyone will be able to produce the next Citizen Kane or write the next Anna Karenina, causing an explosion in magnificent, timeless art that will have historians of the future marvel at our civilisation’s ingenuity and artistry. In the meantime, these companies can just ask their “AI” how to become profitable. Should be table-stakes for a 10x force multiplier. I’m not worried.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145577</guid>
+      <category>Clown car</category>
+    </item>    <item>
+      <title>Does the science of peptides live up to the hype?</title>
+      <link>https://www.npr.org/2026/07/22/nx-s1-5897484/peptides-wellness-aging-rfk-fda</link>
+      <description>
+        <![CDATA[Synthetic peptides are getting some serious hype, from fitness influencers on your FYP to people seeking new options for chronic conditions. And while the human body already makes peptides, like insulin and the hormone oxytocin, most of the viral synthetic peptides are <em>not </em>approved by the Food and Drug Administration. Scientists say that raises some big concerns about safety and efficacy. So ahead of this week’s FDA meeting to discuss seven commonly used peptides, we get into the science with health reporter Sarah Boden.<br/><br/><em>Interested in more science behind health trends? Email us your question at </em><em>shortwave@npr.org</em><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org/"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Synthetic peptides are getting some serious hype, from fitness influencers on your FYP to people seeking new options for chronic conditions. And while the human body already makes peptides, like insulin and the hormone oxytocin, most of the viral synthetic peptides are _not_ approved by the Food and Drug Administration. Scientists say that raises some big concerns about safety and efficacy. So ahead of this week’s FDA meeting to discuss seven commonly used peptides, we get into the science with health reporter Sarah Boden.
+
+_Interested in more science behind health trends? Email us your question at_ _shortwave@npr.org_ _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org/) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/458fba9d-d4a2-444e-a1f7-298f72ae72cb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=458fba9d-d4a2-444e-a1f7-298f72ae72cb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5897484&p=510351&d=772&size=12362859" length="12362859" type="audio/mpeg" />
+      <guid>cid://60fbf720-5e24-4382-ab5e-fd8f4e321c00</guid>
+    </item>    <item>
+      <title>A Week of Smoky Skies Across North America</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/</link>
+      <description>
+        <![CDATA[Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.]]>
+      </description>
+      <source:markdown>Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/</guid>
+      <category>Aerosols</category>
+      <category>Air Quality</category>
+      <category>Earth Observatory</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Wildfires</category>
+    </item>    <item>
+      <title>British Intelligence Turned This Mansion Into a Bugged Spy Trap for Nazi Prisoners of War During World War II</title>
+      <link>https://www.smithsonianmag.com/smart-news/british-intelligence-turned-this-mansion-into-a-bugged-spy-trap-for-nazi-prisoners-of-war-during-world-war-ii-180989166/</link>
+      <description>
+        <![CDATA[Visitors can now tour the house, where German generals relaxed and gabbed upstairs while Jewish refugees working as spies and translators for the British government listened in from the basement]]>
+      </description>
+      <source:markdown>Visitors can now tour the house, where German generals relaxed and gabbed upstairs while Jewish refugees working as spies and translators for the British government listened in from the basement</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/U8L8JfxvvQPQ422_VJfg6f_v394=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e7/18/e718c2a2-c93b-4c84-b3ef-45fab1658994/untitled_design_-_1.jpeg" length="831965" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/british-intelligence-turned-this-mansion-into-a-bugged-spy-trap-for-nazi-prisoners-of-war-during-world-war-ii-180989166/</guid>
+    </item>    <item>
+      <title>NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica</title>
+      <link>https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/</link>
+      <description>
+        <![CDATA[Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes stresses in the ice, heavily fracturing the surrounding surfaces with […]]]>
+      </description>
+      <source:markdown>Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes stresses in the ice, heavily fracturing the surrounding surfaces with \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/</guid>
+      <category>NISAR (NASA-ISRO Synthetic Aperture Radar)</category>
+      <category>Photojournal</category>
+    </item>    <item>
+      <title>Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems</title>
+      <link>https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</link>
+      <description>
+        <![CDATA[The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron [&#8230;]]]>
+      </description>
+      <source:markdown>The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96709</guid>
+      <category>AI</category>
+      <category>Corporate</category>
+      <category>Hardware</category>
+      <category>Industrial and Manufacturing</category>
+    </item>    <item>
+      <title>NASA to Host Media Briefing on Roman Telescope, Launching Next Month</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/</link>
+      <description>
+        <![CDATA[Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope mission, scheduled to launch from the agency’s Kennedy Space Center in Florida on Sunday, Aug. 30. NASA will stream this event live through a variety of platforms. Learn where [&#8230;]]]>
+      </description>
+      <source:markdown>Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope mission, scheduled to launch from the agency’s Kennedy Space Center in Florida on Sunday, Aug. 30. NASA will stream this event live through a variety of platforms. Learn where \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1019699</guid>
+      <category>Nancy Grace Roman Space Telescope</category>
+      <category>Astrophysics Division</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Kennedy Space Center</category>
+      <category>Science Mission Directorate</category>
+    </item>    <item>
+      <title>A Volunteer Stumbled Upon a Strange Document in the U.K. National Archives. It Turned Out to Be a Rare Copy of the Declaration of Independence Printed in July 1776</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-volunteer-stumbled-upon-a-strange-document-in-the-uk-national-archives-it-turned-out-to-be-a-rare-copy-of-the-declaration-of-independence-printed-in-july-1776-180989169/</link>
+      <description>
+        <![CDATA[Michael Scurr, a retired insurance broker, found the text while cataloging boxes of 18th-century correspondence housed at the London archives. It's the only known copy of its kind outside the United States]]>
+      </description>
+      <source:markdown>Michael Scurr, a retired insurance broker, found the text while cataloging boxes of 18th-century correspondence housed at the London archives. It&#39;s the only known copy of its kind outside the United States</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5hgLZYQoquEJ4B2INsu3T-n99jg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/bd/0dbdb598-3662-410d-80ac-e487c47b7ef2/declaration-of-independence-archives.jpg" length="479740" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-volunteer-stumbled-upon-a-strange-document-in-the-uk-national-archives-it-turned-out-to-be-a-rare-copy-of-the-declaration-of-independence-printed-in-july-1776-180989169/</guid>
+    </item>    <item>
+      <title>Naked Mole-Rat Queens Emit a Special Scent to Stop Their Rivals From Reproducing, a New Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/naked-mole-rat-queens-emit-a-special-scent-to-stop-their-rivals-from-reproducing-a-new-study-suggests-180989148/</link>
+      <description>
+        <![CDATA[The strange-looking creatures are one of two known mammals that use a social structure like that of bees and ants. A ruling rodent maintains power over her colony via one key chemical compound, according to new research]]>
+      </description>
+      <source:markdown>The strange-looking creatures are one of two known mammals that use a social structure like that of bees and ants. A ruling rodent maintains power over her colony via one key chemical compound, according to new research</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/k6x-9yDmJL3rkclGVa8-GhSIGJA=/420x240/filters:focal(1440x754:1441x755)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/94/a8/94a86081-317b-4091-aae2-53afb883fb9f/09-05_photo_naked_mole-rats_khallaf__lewin_felix_petermann_max_delbruck_center-5984.jpg" length="308098" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/naked-mole-rat-queens-emit-a-special-scent-to-stop-their-rivals-from-reproducing-a-new-study-suggests-180989148/</guid>
+    </item>    <item>
+      <title>US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica</title>
+      <link>https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/</link>
+      <description>
+        <![CDATA[As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite’s L-band and S-band radars on an ongoing basis, helping researchers and other users track the movement of Earth’s [&#8230;]]]>
+      </description>
+      <source:markdown>As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite’s L-band and S-band radars on an ongoing basis, helping researchers and other users track the movement of Earth’s \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1019611</guid>
+      <category>NISAR (NASA-ISRO Synthetic Aperture Radar)</category>
+      <category>Cryosphere</category>
+      <category>Earth</category>
+      <category>Earth Science</category>
+      <category>Earth Science Division</category>
+      <category>Ice &#38; Glaciers</category>
+      <category>Jet Propulsion Laboratory</category>
+    </item>    <item>
+      <title>NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event</title>
+      <link>https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/</link>
+      <description>
+        <![CDATA[NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars”&#160;event&#160;brought employees, families, and community members together for an evening filled with music, connection, and celebration.&#160;&#160; Organizers planned the event, which took place July 16, to mark the 250th&#160;anniversary of the founding of the United States of America.&#160; The evening&#160;featured a dynamic mix of&#160;performances&#160;from&#160;an orchestra [&#8230;]]]>
+      </description>
+      <source:markdown>NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars” event brought employees, families, and community members together for an evening filled with music, connection, and celebration.   Organizers planned the event, which took place July 16, to mark the 250th anniversary of the founding of the United States of America.  The evening featured a dynamic mix of performances from an orchestra \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1019587</guid>
+      <category>General</category>
+      <category>Langley Research Center</category>
+    </item>    <item>
+      <title>Could Life Exist on This Nearby World? In a First, Astronomers Find an Atmosphere on an Earth-Like Exoplanet in the Habitable Zone</title>
+      <link>https://www.smithsonianmag.com/smart-news/could-life-exist-on-this-nearby-world-in-a-first-astronomers-find-an-atmosphere-on-an-earth-like-exoplanet-in-the-habitable-zone-180989149/</link>
+      <description>
+        <![CDATA[While the celestial body seems to host three features that could make a livable environment—an atmosphere, a rocky composition and a temperature that could allow liquid water to sit on the surface—researchers have not currently detected any residents]]>
+      </description>
+      <source:markdown>While the celestial body seems to host three features that could make a livable environment—an atmosphere, a rocky composition and a temperature that could allow liquid water to sit on the surface—researchers have not currently detected any residents</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/MCpxdsuPDfhSTnXy3pMG2cENJIQ=/420x240/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/12/7712e181-ca4c-44f8-96f4-c88b7893f3cf/cfa-055-helium_planet3h_lrg_0jpg.webp" length="289612" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/could-life-exist-on-this-nearby-world-in-a-first-astronomers-find-an-atmosphere-on-an-earth-like-exoplanet-in-the-habitable-zone-180989149/</guid>
+    </item>    <item>
+      <title>NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin/</link>
+      <description>
+        <![CDATA[NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96620</guid>
+      <category>AI Infrastructure</category>
+      <category>NVIDIA Vera Rubin</category>
+      <category>NVLink</category>
+    </item>    <item>
+      <title>NIAC 2026 Selections</title>
+      <link>https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/</link>
+      <description>
+        <![CDATA[Phase I Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I David BugbyCombinatory Architecture offering Neomobility, on-Venus Adaptability, and Survivability (CANVAS)NASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I Anish DamodaranPS21: Transforming Submillimeter Space Interferometry with Photonic TechnologiesUniversity of Central FloridaOrlando, FL &#160;32826-29332026 Phase I [&#8230;]]]>
+      </description>
+      <source:markdown>Phase I Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I David BugbyCombinatory Architecture offering Neomobility, on-Venus Adaptability, and Survivability (CANVAS)NASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I Anish DamodaranPS21: Transforming Submillimeter Space Interferometry with Photonic TechnologiesUniversity of Central FloridaOrlando, FL  32826-29332026 Phase I \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=980788</guid>
+      <category>NIAC Studies</category>
+      <category>NASA Innovative Advanced Concepts (NIAC) Program</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection</title>
+      <link>https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/</link>
+      <description>
+        <![CDATA[Paul StankusBrookhaven Science Associates&#160; The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature &#8212; gravitational waves passing by the Earth will cause a (very small) coordinated apparent motion of all sky objects. Our innovation is to deploy a new approach to precision [&#8230;]]]>
+      </description>
+      <source:markdown>Paul StankusBrookhaven Science Associates  The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature — gravitational waves passing by the Earth will cause a (very small) coordinated apparent motion of all sky objects. Our innovation is to deploy a new approach to precision \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1003417</guid>
+      <category>NIAC Studies</category>
+      <category>NASA Innovative Advanced Concepts (NIAC) Program</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging</title>
+      <link>https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/</link>
+      <description>
+        <![CDATA[Paul&#160;StankusBrookhaven Science Associates The scientific goal of the proposed work will be reconstructing the image, ie resolving surface features, of an Earth-like exoplanet around a nearby star as seen in visible light. The innovation is in two stages. First, the design of a new kind of nulling interferometer &#8212; &#8220;dynamic hierarchical nulling&#8221; &#8212; combining inputs [&#8230;]]]>
+      </description>
+      <source:markdown>Paul StankusBrookhaven Science Associates The scientific goal of the proposed work will be reconstructing the image, ie resolving surface features, of an Earth-like exoplanet around a nearby star as seen in visible light. The innovation is in two stages. First, the design of a new kind of nulling interferometer — “dynamic hierarchical nulling” — combining inputs \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1003346</guid>
+      <category>Space Technology Mission Directorate</category>
+      <category>NASA Innovative Advanced Concepts (NIAC) Program</category>
+      <category>NIAC Studies</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>Interworld Slingshot Resource Surveys</title>
+      <link>https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/</link>
+      <description>
+        <![CDATA[Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys&#8211;without landing, sample return, or extended dwell. If feasible, this concept would enable NASA to evaluate ice and ilmenite at the Moon, ore content at asteroids, and volatile-bearing minerals at Mars&#8217; moons&#8211;all [&#8230;]]]>
+      </description>
+      <source:markdown>Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys–without landing, sample return, or extended dwell. If feasible, this concept would enable NASA to evaluate ice and ilmenite at the Moon, ore content at asteroids, and volatile-bearing minerals at Mars’ moons–all \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1003410</guid>
+      <category>NIAC Studies</category>
+      <category>NASA Innovative Advanced Concepts (NIAC) Program</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness</title>
+      <link>https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/</link>
+      <description>
+        <![CDATA[David&#160;SmithDuke University&#160; The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementation to ground-based [&#8230;]]]>
+      </description>
+      <source:markdown>David SmithDuke University  The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementation to ground-based \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1003414</guid>
+      <category>NASA Innovative Advanced Concepts (NIAC) Program</category>
+      <category>NIAC Studies</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</link>
+      <description>
+        <![CDATA[AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 [&#8230;]]]>
+      </description>
+      <source:markdown>AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=96644</guid>
+      <category>AI Infrastructure</category>
+      <category>Networking</category>
+      <category>AI Factory</category>
+      <category>Artificial Intelligence</category>
+      <category>Cloud Services</category>
+      <category>Hardware</category>
+      <category>Inference</category>
+      <category>NVIDIA BlueField</category>
+      <category>NVIDIA Rubin</category>
+      <category>NVIDIA Spectrum-X Ethernet</category>
+      <category>NVIDIA Vera</category>
+      <category>NVLink</category>
+    </item>    <item>
       <title>A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats</title>
       <link>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/</link>
       <description>
@@ -28,7 +288,7 @@
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/V21L56EVQ9h75QrwEg2Y4S18Uh4=/420x240/filters:focal(1377x852:1378x853)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/20/ce/20cec4b5-c28f-46dd-840a-2469ac99235a/screenshot_2026-07-20_at_183932.png" length="7067703" type="image/png" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/an-amateur-astronomer-using-google-maps-spotted-a-strange-indentation-it-turned-out-to-be-a-meteorite-crater-from-390-million-years-ago-180989158/</guid>
     </item>    <item>
-      <title>cyclosporiasis-illness-cyclospora-lettuce-taco-bell</title>
+      <title>Cyclosporiasis: the science, risks and red flags</title>
       <link>https://www.npr.org/2026/07/21/nx-s1-5896330/cyclosporiasis-the-science-risks-and-red-flags</link>
       <description>
         <![CDATA[What’s small, round and could give you explosive diarrhea? Cyclospora parasites. The diarrheal disease they cause is wreaking havoc on thousands this summer in what is the largest known flare up in the U.S. ever. What’s causing it and what can we do about it? NPR’s <a href="https://www.npr.org/people/g-s1-127759/joseph-kim"target="_blank"   >Joseph Kim</a> joins host <a href="https://www.npr.org/people/348779465/nathan-rott"target="_blank"   >Nate Rott</a> to talk about the outbreak – and how to protect yourself and your loved ones.<br/><br/><strong>Read more of Joseph’s </strong><a href="https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-cyclospora-outbreak-diarrhea-states-us"target="_blank"   ><strong>reporting on cyclosporiasis here</strong></a><strong>. </strong><br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
@@ -2837,249 +3097,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
       <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2184ceb0-7836-49b6-8a11-25ede68d15ff/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=2184ceb0-7836-49b6-8a11-25ede68d15ff&feed=F0qJcgXZ&t=podcast&e=nx-s1-5874794&p=510351&d=841&size=13462928" length="13462928" type="audio/mpeg" />
       <guid>cid://2ec42232-07c9-4798-85b5-357f6ad2b16f</guid>
-    </item>    <item>
-      <title>See These Ancient Etruscan Frescoes That Italy Bought for Millions and Put on Public Display in Rome</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-these-ancient-etruscan-frescoes-that-italy-bought-for-millions-and-put-on-public-display-in-rome-180989046/</link>
-      <description>
-        <![CDATA[Found in a burial chamber, the artworks depict battles between ancient heroes in the Mediterranean world]]>
-      </description>
-      <source:markdown>Found in a burial chamber, the artworks depict battles between ancient heroes in the Mediterranean world</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Vz98Qo50oc_z9Rpq308vlvnSn8E=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/40/e44037bb-d5b5-4e65-b843-3c4c6a5df1e7/etruscan_long.jpg" length="144103" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-these-ancient-etruscan-frescoes-that-italy-bought-for-millions-and-put-on-public-display-in-rome-180989046/</guid>
-    </item>    <item>
-      <title>These 17 Stunning Photos of the Strawberry Moon Show Earth&#39;s Natural Satellite in All Its Glory</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-17-stunning-photos-of-the-strawberry-moon-show-earths-natural-satellite-in-all-its-glory-180989050/</link>
-      <description>
-        <![CDATA[The first full moon of the summer delivered dazzling visuals from across the globe. Its low position in the sky from the perspective of the Northern Hemisphere gave it a golden hue]]>
-      </description>
-      <source:markdown>The first full moon of the summer delivered dazzling visuals from across the globe. Its low position in the sky from the perspective of the Northern Hemisphere gave it a golden hue</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1-c2B91rda8PMf_bQgXAdmZr47g=/420x240/filters:focal(2850x1819:2851x1820)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/03/d403b20b-2ec2-4e68-9faf-9272fc983b0d/gettyimages-2283948934.jpg" length="4657861" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-17-stunning-photos-of-the-strawberry-moon-show-earths-natural-satellite-in-all-its-glory-180989050/</guid>
-    </item>    <item>
-      <title>NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th</title>
-      <link>https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/</link>
-      <description>
-        <![CDATA[In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency explores. The images are accompanied by a trio of new sonifications – a technique that translates astronomical data into […]]]>
-      </description>
-      <source:markdown>In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency explores. The images are accompanied by a trio of new sonifications – a technique that translates astronomical data into \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/</guid>
-      <category>Astrophysics</category>
-      <category>Chandra X-Ray Observatory</category>
-      <category>Galaxies</category>
-      <category>Galaxies, Stars, &#38; Black Holes</category>
-      <category>Galaxies, Stars, &#38; Black Holes Research</category>
-      <category>Marshall Astrophysics</category>
-      <category>Marshall Space Flight Center</category>
-      <category>Nebulae</category>
-      <category>The Universe</category>
-    </item>    <item>
-      <title>A Day of Flight Testing at NASA Armstrong</title>
-      <link>https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/</link>
-      <description>
-        <![CDATA[Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) initiative tested a wing concept that would maximize the smooth flow of [&#8230;]]]>
-      </description>
-      <source:markdown>Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) initiative tested a wing concept that would maximize the smooth flow of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1013633</guid>
-      <category>Armstrong Flight Research Center</category>
-      <category>Aeronautics</category>
-      <category>Flight Innovation</category>
-      <category>NASA Aircraft</category>
-      <category>Supersonic Flight</category>
-    </item>    <item>
-      <title>Rembrandt Began a Biblical Painting. Another Artist Finished It &#39;Rather Crudely.&#39; Now, Restorations Have Revealed the Long-Lost Original</title>
-      <link>https://www.smithsonianmag.com/smart-news/rembrandt-began-a-biblical-painting-another-artist-finished-it-rather-crudely-now-restorations-have-revealed-the-long-lost-original-180989045/</link>
-      <description>
-        <![CDATA[An art dealer stumbled across "Let the Little Children Come Unto Me" at a German auction house in 2014. Experts have now carefully removed layers of overpaint from the forgotten masterpiece]]>
-      </description>
-      <source:markdown>An art dealer stumbled across &#34;Let the Little Children Come Unto Me&#34; at a German auction house in 2014. Experts have now carefully removed layers of overpaint from the forgotten masterpiece</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FNTM8gwuU6AAcGVS8MktEiO3XwE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/cf/f2cf08cb-85bf-459f-9f23-c3203d94bab8/rembrandt-painting-crop.jpg" length="425712" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/rembrandt-began-a-biblical-painting-another-artist-finished-it-rather-crudely-now-restorations-have-revealed-the-long-lost-original-180989045/</guid>
-    </item>    <item>
-      <title>La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades</title>
-      <link>https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/</link>
-      <description>
-        <![CDATA[Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección de tres empresas para llevar a cabo cuatro nuevas misiones a la Luna a finales de 2028 como [&#8230;]]]>
-      </description>
-      <source:markdown>Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección de tres empresas para llevar a cabo cuatro nuevas misiones a la Luna a finales de 2028 como \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1013729</guid>
-      <category>NASA en español</category>
-    </item>    <item>
-      <title>PureOS Development Report: May 2026</title>
-      <link>https://puri.sm/posts/pureos-development-report-may-2026/</link>
-      <description>
-        <![CDATA[<p>Welcome back!  In our last update, we announced the release of PureOS Crimson!  We're thrilled to share this release with you, and we hope you love it as much as we do.</p>
-        <p>We skipped ahead a little bit in that post, since the release occurred in May and we were eager to share it.  We made many more quality-of-life improvements in May leading up to the release.  Our work is speeding up too: we're laying the foundation for PureOS Dawn, we just released the Librem 16 featuring PureOS Crimson, and we have many more projects picking up steam!</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-development-report-may-2026/">PureOS Development Report: May 2026</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>Welcome back! In our last update, we announced the release of PureOS Crimson! We&#39;re thrilled to share this release with you, and we hope you love it as much as we do.
-
-We skipped ahead a little bit in that post, since the release occurred in May and we were eager to share it. We made many more quality-of-life improvements in May leading up to the release. Our work is speeding up too: we&#39;re laying the foundation for PureOS Dawn, we just released the Librem 16 featuring PureOS Crimson, and we have many more projects picking up steam!
-
-The post [PureOS Development Report: May 2026](https://puri.sm/posts/pureos-development-report-may-2026/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=85598</guid>
-      <category>PureOS</category>
-      <category>Advanced readers</category>
-    </item>    <item>
-      <title>NextSTEP-3 B: Moon Base Demonstrations</title>
-      <link>https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/</link>
-      <description>
-        <![CDATA[Notice ID: Coming Soon NASA&#8217;s Human Spaceflight Mission Directorate is seeking innovative ideas from industry partners through a new solicitation appendix under the NextSTEP-3 Omnibus Broad Agency Announcement. Appendix B: Moon Base Demonstrations calls for industry-led demonstrations, risk reduction, and special topic activities that enable an enduring human presence on the lunar surface. NASA’s Moon [&#8230;]]]>
-      </description>
-      <source:markdown>Notice ID: Coming Soon NASA’s Human Spaceflight Mission Directorate is seeking innovative ideas from industry partners through a new solicitation appendix under the NextSTEP-3 Omnibus Broad Agency Announcement. Appendix B: Moon Base Demonstrations calls for industry-led demonstrations, risk reduction, and special topic activities that enable an enduring human presence on the lunar surface. NASA’s Moon \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1012205</guid>
-      <category>General</category>
-    </item>    <item>
-      <title>NASA Awards More Moon Base Science, Previews New Opportunities</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/</link>
-      <description>
-        <![CDATA[Editor&#8217;s note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover. NASA announced Tuesday the selection of three companies to land four new missions on the Moon in late 2028 as part of the agency’s Moon Base Program. Astrobotic, Firefly Aerospace, and Intuitive Machines will deliver [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover. NASA announced Tuesday the selection of three companies to land four new missions on the Moon in late 2028 as part of the agency’s Moon Base Program. Astrobotic, Firefly Aerospace, and Intuitive Machines will deliver \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1013699</guid>
-      <category>Moon Base</category>
-      <category>Commercial Lunar Payload Services (CLPS)</category>
-      <category>Science Mission Directorate</category>
-    </item>    <item>
-      <title>Sold for Just £5,588, This Amber Pendant Turned Out to Be a Rare Tudor-Era Portrait of Elizabeth I. Now, It&#39;s Going on Auction for £100,000</title>
-      <link>https://www.smithsonianmag.com/smart-news/sold-for-just-5588-this-amber-pendant-turned-out-to-be-a-rare-tudor-era-portrait-of-elizabeth-i-now-its-going-on-auction-for-100000-180989048/</link>
-      <description>
-        <![CDATA[A master craftsman carved the likeness around 1600, possibly as a commission from the English monarch herself. A parrot on the back of the heart-shaped object symbolizes Elizabeth's status as a "virgin queen"]]>
-      </description>
-      <source:markdown>A master craftsman carved the likeness around 1600, possibly as a commission from the English monarch herself. A parrot on the back of the heart-shaped object symbolizes Elizabeth&#39;s status as a &#34;virgin queen&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/m7xgM1XAw2uoVkNGb0n7pA8O_7I=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/aa/75/aa75acfa-2dd1-4140-9537-e5db7e1134fd/testign3.jpg" length="212445" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/sold-for-just-5588-this-amber-pendant-turned-out-to-be-a-rare-tudor-era-portrait-of-elizabeth-i-now-its-going-on-auction-for-100000-180989048/</guid>
-    </item>    <item>
-      <title>NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science</title>
-      <link>https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/</link>
-      <description>
-        <![CDATA[Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science [&#8230;]]]>
-      </description>
-      <source:markdown>Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95840</guid>
-      <category>AI</category>
-      <category>Software</category>
-      <category>Agentic AI</category>
-      <category>Healthcare and Life Sciences</category>
-      <category>NVIDIA NIM</category>
-      <category>Open Source</category>
-    </item>    <item>
-      <title>As the Ocean Warms, a &#39;Cold Blob&#39; in the Atlantic Has Puzzled Scientists. It Might Be a Warning Sign About a Key Current System</title>
-      <link>https://www.smithsonianmag.com/smart-news/as-the-ocean-warms-a-cold-blob-in-the-atlantic-has-puzzled-scientists-it-might-be-a-warning-sign-about-a-key-current-system-180988991/</link>
-      <description>
-        <![CDATA[A patch of water south of Greenland and Iceland has cooled by nearly 1.8 degrees Fahrenheit since 1900. A new study suggests that it shows a crucial system of ocean currents is weakening, which could alter Earth's climate]]>
-      </description>
-      <source:markdown>A patch of water south of Greenland and Iceland has cooled by nearly 1.8 degrees Fahrenheit since 1900. A new study suggests that it shows a crucial system of ocean currents is weakening, which could alter Earth&#39;s climate</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Tnj_XnM6X_FB5yQn72hwBjTyGw8=/420x240/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/67/4167f6ba-746f-4a94-9e33-1e7453acff5e/16-008-nasa-2015recordwarmglobalyearsince1880-20160120.png" length="2324196" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/as-the-ocean-warms-a-cold-blob-in-the-atlantic-has-puzzled-scientists-it-might-be-a-warning-sign-about-a-key-current-system-180988991/</guid>
-    </item>    <item>
-      <title>Starry Chandelier Cluster</title>
-      <link>https://www.nasa.gov/image-article/starry-chandelier-cluster/</link>
-      <description>
-        <![CDATA[This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star 27,000 light-years away in the constellation Sagittarius (the Archer). Globular clusters like NGC 6723 contain some of the oldest [&#8230;]]]>
-      </description>
-      <source:markdown>This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star 27,000 light-years away in the constellation Sagittarius (the Archer). Globular clusters like NGC 6723 contain some of the oldest \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1013111</guid>
-    </item>    <item>
-      <title>How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost</title>
-      <link>https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</link>
-      <description>
-        <![CDATA[As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s [&#8230;]]]>
-      </description>
-      <source:markdown>As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95780</guid>
-      <category>AI Infrastructure</category>
-      <category>Hardware</category>
-      <category>Networking</category>
-      <category>Software</category>
-      <category>CUDA</category>
-      <category>Dynamo</category>
-      <category>Inference</category>
-      <category>NVIDIA Blackwell</category>
-      <category>NVLink</category>
-      <category>Open Source</category>
-      <category>Think SMART</category>
-    </item>    <item>
-      <title>How Jaiveer Singh Is Helping Robots — and Developers — Move Faster</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/</link>
-      <description>
-        <![CDATA[When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind [&#8230;]]]>
-      </description>
-      <source:markdown>When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95748</guid>
-      <category>NVIDIA Life</category>
-      <category>Robotics</category>
-      <category>Isaac</category>
-      <category>Open Source</category>
-    </item>    <item>
-      <title>Why Did Neanderthals Go Extinct? Inbreeding Probably Wasn&#39;t to Blame for Their Demise in Northwestern Europe, a Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-did-neanderthals-go-extinct-inbreeding-probably-wasnt-to-blame-for-their-demise-in-northwestern-europe-a-study-suggests-180989032/</link>
-      <description>
-        <![CDATA[In contrast to those who resided in Siberia, Neanderthals who lived in what's now Belgium and France shortly before the species vanished seem to have been genetically diverse and healthy]]>
-      </description>
-      <source:markdown>In contrast to those who resided in Siberia, Neanderthals who lived in what&#39;s now Belgium and France shortly before the species vanished seem to have been genetically diverse and healthy</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-Z3pPohNNALkeTlAhSkfjKO6Ytg=/420x240/filters:focal(700x460:701x461)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/66/d6/66d69e9c-14dd-46b2-896c-140f68f1db96/original_1.webp" length="85960" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-did-neanderthals-go-extinct-inbreeding-probably-wasnt-to-blame-for-their-demise-in-northwestern-europe-a-study-suggests-180989032/</guid>
-    </item>    <item>
-      <title>Mars Rover Spots Complex Carbon on the Red Planet, Marking Yet Another Detection of a Building Block of Life</title>
-      <link>https://www.smithsonianmag.com/smart-news/mars-rover-spots-complex-carbon-on-the-red-planet-marking-yet-another-detection-of-a-building-block-of-life-180989043/</link>
-      <description>
-        <![CDATA[Along with other recent discoveries, the new finding from Perseverance boosts the case that Mars once hosted conditions that could support living things—but it isn’t a definitive sign of ancient organisms]]>
-      </description>
-      <source:markdown>Along with other recent discoveries, the new finding from Perseverance boosts the case that Mars once hosted conditions that could support living things—but it isn’t a definitive sign of ancient organisms</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/z5nbQxq2uMeSpnev0lKN7Aa1c9I=/420x240/filters:focal(640x363:641x364)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/12/5f1253ed-da49-47d4-9707-fa3d27d1d17a/what-new-analyses-reve.jpg" length="189935" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/mars-rover-spots-complex-carbon-on-the-red-planet-marking-yet-another-detection-of-a-building-block-of-life-180989043/</guid>
-    </item>    <item>
-      <title>The Hall of Raphael Frescoes in the Pope’s Residence at the Vatican Is Getting a Much-Needed Restoration With the Help of Lasers</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-vaticans-hall-of-raphael-frescoes-in-the-popes-residence-is-getting-a-much-needed-restoration-with-the-help-of-lasers-180989041/</link>
-      <description>
-        <![CDATA[Conservators will spend the next five years cleaning and retouching the Renaissance frescoes, which date back to the early 16th century]]>
-      </description>
-      <source:markdown>Conservators will spend the next five years cleaning and retouching the Renaissance frescoes, which date back to the early 16th century</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Yz2DXz-ZI4uz_MuyNk9j5z_Emj0=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dc/45/dc452cf1-4306-47d2-8ad6-59e5d041fb37/732026772_1332758864962399_6782537681361152190_n.jpeg" length="612685" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-vaticans-hall-of-raphael-frescoes-in-the-popes-residence-is-getting-a-much-needed-restoration-with-the-help-of-lasers-180989041/</guid>
-    </item>    <item>
-      <title>Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning</title>
-      <link>https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</link>
-      <description>
-        <![CDATA[Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95727</guid>
-      <category>AI</category>
-      <category>Robotics</category>
-      <category>Agentic AI</category>
-      <category>Cosmos</category>
-      <category>Industrial and Manufacturing</category>
-      <category>Into the Omniverse</category>
-      <category>Metropolis</category>
-      <category>Omniverse</category>
-      <category>Synthetic Data Generation</category>
-    </item>    <item>
-      <title>Ames Science Stars of the Month July 2026</title>
-      <link>https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/</link>
-      <description>
-        <![CDATA[NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences [&#8230;]]]>
-      </description>
-      <source:markdown>NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1013419</guid>
-      <category>General</category>
-    </item>    <item>
-      <title>Ticks are a growing problem, no matter where you live</title>
-      <link>https://www.npr.org/2026/06/30/nx-s1-5843195/tick-lyme-disease</link>
-      <description>
-        <![CDATA[In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly <a href="https://pubmed.ncbi.nlm.nih.gov/35973261/"target="_blank"   >50 species of ticks</a> in the United States. Historically, most <a href="https://www.cdc.gov/lyme/data-research/facts-stats/lyme-disease-case-map.html"target="_blank"   >Lyme cases</a> were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use<em>, </em>scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?<br/><br/><em>Interested in more episodes about pests and parasites? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly [50 species of ticks](https://pubmed.ncbi.nlm.nih.gov/35973261/) in the United States. Historically, most [Lyme cases](https://www.cdc.gov/lyme/data-research/facts-stats/lyme-disease-case-map.html) were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use _,_ scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?
-
-_Interested in more episodes about pests and parasites? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/c3501483-08c1-4b21-b2bd-ba29963c598d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=c3501483-08c1-4b21-b2bd-ba29963c598d&feed=F0qJcgXZ&t=podcast&e=nx-s1-5843195&p=510351&d=794&size=12711019" length="12711019" type="audio/mpeg" />
-      <guid>cid://682f3278-68d8-48d9-aa2b-a048b135be10</guid>
     </item>
   </channel>
 </rss>

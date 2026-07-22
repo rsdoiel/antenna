@@ -4,10 +4,73 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>21 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>22 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Tangled trails by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79145</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Number two Joy street : by Belloc and Chesterton and De la Mare and Milne and Walpole</title>
+      <link>https://www.gutenberg.org/ebooks/79150</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The religion of a sceptic by John Cowper Powys</title>
+      <link>https://www.gutenberg.org/ebooks/79153</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La joie by Georges Bernanos</title>
+      <link>https://www.gutenberg.org/ebooks/79151</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The domestication of Dobie by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79149</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Concerning the nature of things by William Henry Bragg</title>
+      <link>https://www.gutenberg.org/ebooks/79146</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Onnen tähti : by A. E. Scribe</title>
+      <link>https://www.gutenberg.org/ebooks/79148</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Särjetty sydän : by K. A. Puhdaskoski</title>
+      <link>https://www.gutenberg.org/ebooks/79152</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Valeriaanaa! : by Kasperi Tanttu</title>
+      <link>https://www.gutenberg.org/ebooks/79147</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
       <title>Clare Avery: A Story of the Spanish Armada by Emily Sarah Holt</title>
       <link>https://www.gutenberg.org/ebooks/22942</link>
       <description>
@@ -38,13 +101,6 @@
     </item>    <item>
       <title>Replace the horse by Laurence M. Janifer</title>
       <link>https://www.gutenberg.org/ebooks/79141</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tangled trails by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79145</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1590,69 +1646,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The coach horn (7th edition) : by Old Guard</title>
-      <link>https://www.gutenberg.org/ebooks/78978</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Stories of the Persian wars by Herodotus</title>
-      <link>https://www.gutenberg.org/ebooks/78980</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The show girl by Max Pemberton</title>
-      <link>https://www.gutenberg.org/ebooks/78976</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Heroic Romances of Ireland, Translated into English Prose and Verse — Complete by Leahy</title>
-      <link>https://www.gutenberg.org/ebooks/5680</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 1 by Leahy</title>
-      <link>https://www.gutenberg.org/ebooks/5678</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 2 by Leahy</title>
-      <link>https://www.gutenberg.org/ebooks/5679</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The immoralist by André Gide</title>
-      <link>https://www.gutenberg.org/ebooks/78975</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Symbolism : by Alfred North Whitehead</title>
-      <link>https://www.gutenberg.org/ebooks/78977</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Conservation of Races by W. E. B.  Du Bois</title>
-      <link>https://www.gutenberg.org/ebooks/5685</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
