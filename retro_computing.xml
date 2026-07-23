@@ -4,10 +4,50 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>22 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>23 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bug in the TTY KIM-1 monitor</title>
+      <link>http://retro.hansotten.nl/bug-tty/</link>
+      <description>
+        <![CDATA[The KIM-1 monitor surprises me every time I dive into it. The KIM-1 Explained is nearing completion. The KIM-1 explained There is a bug in the TTY CLI, it accepts characters as &#8216;;&#8217; and &#8216;:&#8217; as valid hex and translates to A..F. More about this innocent feature here: PRTBYT, GETBYT and PACK See also:A demo [&#8230;]]]>
+      </description>
+      <source:markdown>The KIM-1 monitor surprises me every time I dive into it. The KIM-1 Explained is nearing completion. The KIM-1 explained There is a bug in the TTY CLI, it accepts characters as ‘;’ and ‘:’ as valid hex and translates to A..F. More about this innocent feature here: PRTBYT, GETBYT and PACK See also:A demo \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=21631</guid>
+      <category>6502</category>
+      <category>kim-1</category>
+    </item>    <item>
+      <title>John C. Dvorak has died</title>
+      <link>https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
+      <description>
+        <![CDATA[Reports coming in of the death of John C. Dvorak, apparently passed away on Monday (July 20th) from <a href="https://www.twit.community/t/john-c-dvorak-has-passed-away/20291">complications of heart bypass surgery</a>. Dvorak started in wine and moved to silicon as an early columnist at InfoWorld, one of the pillar references for this particular blog because of its studious regular reporting, and most notably for PC Magazine where he had no less than two columns since at least 1986. In addition to this and other tech journalism credits, he was on the flagship CNET Central cable TV program in the mid 1990's with his "Buy It, Try It, Skip It" reviews, plus other shows hosted on NPR and then-ZDTV. He was also a regular guest on <a href="2022/12/a-minor-memorial-for-leo-laporte-on.html">Leo LaPorte's syndicated radio program</a> and podcasts, and joined former MTV veejay Adam Curry (well known to us in Gopherspace for <a href="https://www.chicagotribune.com/1994/05/16/mtv-challenges-curry-over-address-on-info-superhighway/"><i>MTV Networks v. Curry</i></a>, and an early user of TTYtter before Twitter started to suck) in 2007 as co-host of the No Agenda podcast, a role he maintained <a href="https://mailchi.mp/nashownotes/rip-jcd-no-agenda-newsletter">until his death</a>. Dvorak hailed from a different generation of tech journalists, far more personal and yet far more technical, and even his detractors (given his political views, which we won't talk about here, there are many) would admit he was at least entertaining. He was 80. Rest in peace.]]>
+      </description>
+      <source:markdown>Reports coming in of the death of John C. Dvorak, apparently passed away on Monday (July 20th) from [complications of heart bypass surgery](https://www.twit.community/t/john-c-dvorak-has-passed-away/20291). Dvorak started in wine and moved to silicon as an early columnist at InfoWorld, one of the pillar references for this particular blog because of its studious regular reporting, and most notably for PC Magazine where he had no less than two columns since at least 1986. In addition to this and other tech journalism credits, he was on the flagship CNET Central cable TV program in the mid 1990&#39;s with his &#34;Buy It, Try It, Skip It&#34; reviews, plus other shows hosted on NPR and then-ZDTV. He was also a regular guest on [Leo LaPorte&#39;s syndicated radio program](2022/12/a-minor-memorial-for-leo-laporte-on.html) and podcasts, and joined former MTV veejay Adam Curry (well known to us in Gopherspace for [_MTV Networks v. Curry_](https://www.chicagotribune.com/1994/05/16/mtv-challenges-curry-over-address-on-info-superhighway/), and an early user of TTYtter before Twitter started to suck) in 2007 as co-host of the No Agenda podcast, a role he maintained [until his death](https://mailchi.mp/nashownotes/rip-jcd-no-agenda-newsletter). Dvorak hailed from a different generation of tech journalists, far more personal and yet far more technical, and even his detractors (given his political views, which we won&#39;t talk about here, there are many) would admit he was at least entertaining. He was 80. Rest in peace.</source:markdown>
+      <author>noreply@blogger.com (ClassicHasClass)</author>
+      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-3263916988491510810</guid>
+      <category>memorials</category>
+    </item>    <item>
+      <title>Developers’ fireside chat – 25th July</title>
+      <link>https://www.riscository.com/2026/developers-fireside-chat-25th-july/</link>
+      <description>
+        <![CDATA[The time has come once again for anyone interested in software development and RISC OS to gather around the fire fan and discuss anything relevant to the topic. Saturday, 25th July is the date of the next scheduled &#8216;friendly firefanside chat&#8217; for RISC OS developers. If you develop software on or for RISC OS, or you&#8217;re working on the operating system itself, or you&#8217;re wondering how to get a start in programming on the platform, this meeting is for you. It doesn&#8217;t matter if you&#8217;ve plenty of experience, or you&#8217;re&#8230;]]>
+      </description>
+      <source:markdown>The time has come once again for anyone interested in software development and RISC OS to gather around the fire fan and discuss anything relevant to the topic. Saturday, 25th July is the date of the next scheduled ‘friendly firefanside chat’ for RISC OS developers. If you develop software on or for RISC OS, or you’re working on the operating system itself, or you’re wondering how to get a start in programming on the platform, this meeting is for you. It doesn’t matter if you’ve plenty of experience, or you’re…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10979</guid>
+      <category>Programming</category>
+      <category>Developers</category>
+      <category>Developing</category>
+      <category>Meeting</category>
+    </item>    <item>
+      <title>b.log 2026/07/22 - Philly Cheese Stack, Toxicity, WZBA Maryland memories.</title>
+      <link>https://heyrick.eu/blog/entry/20260722</link>
+      <description>
+        <![CDATA[Philly Cheese Stack, Toxicity, WZBA Maryland memories.]]>
+      </description>
+      <source:markdown>Philly Cheese Stack, Toxicity, WZBA Maryland memories.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260722</guid>
+    </item>    <item>
       <title>Substantial Update to IPFire Now Available</title>
       <link>http://www.linux-magazine.com/Online/News/Substantial-Update-to-IPFire-Now-Available</link>
       <description>

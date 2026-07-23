@@ -4,10 +4,115 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>22 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>23 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The religion of a sceptic by John Cowper Powys</title>
+      <link>https://www.gutenberg.org/ebooks/79153</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hunger by Knut Hamsun</title>
+      <link>https://www.gutenberg.org/ebooks/76692</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The adventures of a blockade runner : by William Watson</title>
+      <link>https://www.gutenberg.org/ebooks/79162</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jane Eyre: a drama in five acts : by John Brougham</title>
+      <link>https://www.gutenberg.org/ebooks/79159</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The man in the dark by John L.  Ferguson</title>
+      <link>https://www.gutenberg.org/ebooks/79160</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The green overcoat by Hilaire Belloc</title>
+      <link>https://www.gutenberg.org/ebooks/79154</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Temperamental People by Mary Roberts Rinehart</title>
+      <link>https://www.gutenberg.org/ebooks/79161</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The tin god of Twisted River by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79163</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Delle guerre del Peloponneso, vol. 1/2 by Thucydides</title>
+      <link>https://www.gutenberg.org/ebooks/79157</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>Delle guerre del Peloponneso, vol. 2/2 by Thucydides</title>
+      <link>https://www.gutenberg.org/ebooks/79158</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>Tomina in retreat by Amy Le Feuvre</title>
+      <link>https://www.gutenberg.org/ebooks/79156</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Im Dienste : by Welter Nikolaus</title>
+      <link>https://www.gutenberg.org/ebooks/79155</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The Line of Love, by James Branch Cabell</title>
+      <link>https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love</link>
+      <description>
+        <![CDATA[A generational saga plays out in a series of short stories about love and marriage in medieval Europe.]]>
+      </description>
+      <source:markdown>A generational saga plays out in a series of short stories about love and marriage in medieval Europe.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/james-branch-cabell_the-line-of-love.epub?source=feed" length="765907" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love</guid>
+      <category>Comedy</category>
+      <category>Fantasy</category>
+    </item>    <item>
+      <title>The Fire in the Flint, by Walter White</title>
+      <link>https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint</link>
+      <description>
+        <![CDATA[An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.]]>
+      </description>
+      <source:markdown>An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint/downloads/walter-white_the-fire-in-the-flint.epub?source=feed" length="741236" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint</guid>
+      <category>Fiction</category>
+    </item>    <item>
       <title>Tangled trails by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79145</link>
       <description>
@@ -17,13 +122,6 @@
     </item>    <item>
       <title>Number two Joy street : by Belloc and Chesterton and De la Mare and Milne and Walpole</title>
       <link>https://www.gutenberg.org/ebooks/79150</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The religion of a sceptic by John Cowper Powys</title>
-      <link>https://www.gutenberg.org/ebooks/79153</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1618,34 +1716,6 @@
       <category>Fiction</category>
       <category>Shorts</category>
       <category>Spirituality</category>
-    </item>    <item>
-      <title>The man who put out the sun by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/78979</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pikku Heidi : by Johanna Spyri</title>
-      <link>https://www.gutenberg.org/ebooks/78982</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>What you should know about your sensations : by Grace Adams</title>
-      <link>https://www.gutenberg.org/ebooks/78983</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Journal de la société de 1789 - Nº IV by Condorcet and Klinglin and Pont</title>
-      <link>https://www.gutenberg.org/ebooks/78981</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>
