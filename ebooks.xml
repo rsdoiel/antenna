@@ -4,10 +4,94 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>23 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>24 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The head hunters by Frederik Pohl and Joseph Samachson</title>
+      <link>https://www.gutenberg.org/ebooks/79166</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Au pays de Cocagne: principauté de Monaco by Hector France</title>
+      <link>https://www.gutenberg.org/ebooks/79168</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Variété II by Paul Valéry</title>
+      <link>https://www.gutenberg.org/ebooks/79170</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Notes from the Underground by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/600</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Little Review, October 1917 (Vol. 4, No. 6)</title>
+      <link>https://www.gutenberg.org/ebooks/79171</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hay fever : by Noël Coward</title>
+      <link>https://www.gutenberg.org/ebooks/75666</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>American honey plants : by Frank C.  Pellett</title>
+      <link>https://www.gutenberg.org/ebooks/79164</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Common-Sense Country by L. S.  Bevington</title>
+      <link>https://www.gutenberg.org/ebooks/61234</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Voyage au Darfour by Muḥammad ibn ʻUmar Tūnisī</title>
+      <link>https://www.gutenberg.org/ebooks/79165</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Esther&#39;s triumph by Emma Leslie</title>
+      <link>https://www.gutenberg.org/ebooks/79169</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Genesis by H. Beam Piper</title>
+      <link>https://www.gutenberg.org/ebooks/18105</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Yösalo by Jalmari Hahl</title>
+      <link>https://www.gutenberg.org/ebooks/79167</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
       <title>The religion of a sceptic by John Cowper Powys</title>
       <link>https://www.gutenberg.org/ebooks/79153</link>
       <description>
@@ -1624,98 +1708,6 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>An introduction to philology : by Clement Wood</title>
-      <link>https://www.gutenberg.org/ebooks/78985</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>&#34;A Daily Rate.&#34; by Grace Livingston Hill</title>
-      <link>https://www.gutenberg.org/ebooks/78992</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Trial by Franz Kafka</title>
-      <link>https://www.gutenberg.org/ebooks/7849</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The facts about rejuvenation by Morris Fishbein</title>
-      <link>https://www.gutenberg.org/ebooks/78989</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>How to become mentally superior : by Henri Le Chatelier</title>
-      <link>https://www.gutenberg.org/ebooks/78988</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ralph Waldo Emerson : by Samuel McChord Crothers</title>
-      <link>https://www.gutenberg.org/ebooks/78986</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>&#39;Gainst the might of Spain : by Percy F.  Westerman</title>
-      <link>https://www.gutenberg.org/ebooks/78984</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Badinage by Jean de La Brète</title>
-      <link>https://www.gutenberg.org/ebooks/78993</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Moxon&#39;s Mechanick exercises, volume 2 (of 2) : by Joseph Moxon</title>
-      <link>https://www.gutenberg.org/ebooks/78991</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>En Mitja-galta : by Joan Pons i Massaveu</title>
-      <link>https://www.gutenberg.org/ebooks/78990</link>
-      <description>
-        <![CDATA[Language: Catalan]]>
-      </description>
-      <source:markdown>Language: Catalan</source:markdown>
-    </item>    <item>
-      <title>The Quest of the Silver Fleece, by W. E. B. Du Bois</title>
-      <link>https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece</link>
-      <description>
-        <![CDATA[In the post-Reconstruction era, a young Black man and woman from the deep South struggle to overcome the economic and political fleecing of their community.]]>
-      </description>
-      <source:markdown>In the post-Reconstruction era, a young Black man and woman from the deep South struggle to overcome the economic and political fleecing of their community.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece/downloads/w-e-b-du-bois_the-quest-of-the-silver-fleece.epub?source=feed" length="915245" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/w-e-b-du-bois/the-quest-of-the-silver-fleece</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Jesus the Son of Man, by Kahlil Gibran</title>
-      <link>https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man</link>
-      <description>
-        <![CDATA[The life of Jesus of Nazareth is examined through the lens of the people around him.]]>
-      </description>
-      <source:markdown>The life of Jesus of Nazareth is examined through the lens of the people around him.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man/downloads/kahlil-gibran_jesus-the-son-of-man.epub?source=feed" length="490122" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man</guid>
-      <category>Fiction</category>
-      <category>Shorts</category>
-      <category>Spirituality</category>
     </item>
   </channel>
 </rss>

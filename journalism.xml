@@ -4,10 +4,25 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>23 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>24 Jul 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UCPD investigating alleged sexual battery in Olympic Hall dorm room</title>
+      <link>https://dailybruin.com/2026/07/23/ucpd-investigating-alleged-sexual-battery-in-olympic-hall-dorm-room/</link>
+      <description>
+        <![CDATA[UCPD is investigating an alleged sexual battery in Olympic Hall that occurred Monday.
+        The incident occurred inside the victim’s dorm room at midnight Monday, according to a Thursday UCPD Clery Timely Warning.]]>
+      </description>
+      <source:markdown>UCPD is investigating an alleged sexual battery in Olympic Hall that occurred Monday.
+The incident occurred inside the victim’s dorm room at midnight Monday, according to a Thursday UCPD Clery Timely Warning.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513465</guid>
+      <category>Campus</category>
+      <category>Crime</category>
+      <category>News</category>
+      <category>breaking</category>
+      <category>db-story-c1</category>
+    </item>    <item>
       <title>Pro Bruin Rundown: Former men’s basketball stars shine in Summer League ahead of NBA start</title>
       <link>https://dailybruin.com/2026/07/22/pro-bruin-rundown-former-mens-basketball-stars-shine-in-summer-league-ahead-of-nba-start/</link>
       <description>
@@ -55,7 +70,7 @@ Each teaching assistant position cut by the department reduces enrollment capaci
       <category>Academics</category>
       <category>Campus</category>
       <category>News</category>
-      <category>db-story-a</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>Gov. Gavin Newsom appoints podcaster Scott Galloway to UC Board of Regents</title>
       <link>https://dailybruin.com/2026/07/22/gov-gavin-newsom-appoints-podcaster-scott-galloway-to-uc-board-of-regents/</link>
@@ -70,7 +85,7 @@ Galloway – who hosts The Prof G Pod, a tech-focused podcast with up to 100,000
       <category>Regents</category>
       <category>UC</category>
       <category>breaking</category>
-      <category>db-story-c1</category>
+      <category>db-story-a</category>
     </item>    <item>
       <title>“This price was set by an algorithm”: News subscribers are surprised by a new line in their renewal emails</title>
       <link>https://www.niemanlab.org/2026/07/this-price-was-set-by-an-algorithm-news-subscribers-are-surprised-by-a-new-line-in-their-renewal-emails/</link>
@@ -108,7 +123,7 @@ Longer days and warmer evenings bring plenty of excuses to gather around the tab
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Lifestyle</category>
-      <category>db-story-c2</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>Search traffic has declined so much that some publishers are considering opting out of Google entirely</title>
       <link>https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/</link>
@@ -259,7 +274,7 @@ The Committee of Interns and Residents, a local affiliate of the Service Employe
       <guid>cid://https://dailybruin.com/?p=513430</guid>
       <category>News</category>
       <category>UC</category>
-      <category>db-story-b</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Spain wins the FIFA World Cup against Argentina</title>
       <link>https://sundial.csun.edu/219082/featured/spain-wins-the-fifa-world-cup-against-argentina/</link>
@@ -319,7 +334,7 @@ For the first time since 2023, UCLA men’s basketball brought in a five-star fr
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>Sports Columns</category>
-      <category>db-story-f1</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Washington</title>
       <link>https://dailybruin.com/2026/07/19/2026-big-ten-preview-washington/</link>
@@ -370,7 +385,7 @@ Christopher Nolan’s 2026 action-adventure blockbuster adapts the millennia-old
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
-      <category>db-story-c2</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>UC regents discuss $350 million funding increase, cuts to scholarships and programs</title>
       <link>https://dailybruin.com/2026/07/18/uc-regents-discuss-350-million-funding-increase-cuts-to-scholarships-and-programs/</link>
@@ -385,7 +400,7 @@ While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fisc
       <category>News</category>
       <category>Regents</category>
       <category>UC</category>
-      <category>db-story-f2</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Album review: Gracie Abrams wrestles with growing up in ‘Daughter from Hell’</title>
       <link>https://dailybruin.com/2026/07/17/gracie-abrams-wrestles-with-growing-up-in-daughter-from-hell/</link>
@@ -420,7 +435,7 @@ UCLA will begin a national search for its next head coach.</source:markdown>
       <category>Sports</category>
       <category>Women&#39;s Water Polo</category>
       <category>breaking</category>
-      <category>db-story-h</category>
+      <category>db-story-j</category>
     </item>    <item>
       <title>UC Regents hear public comment on SAT, ACT debate, undocumented student concerns</title>
       <link>https://dailybruin.com/2026/07/16/uc-regents-hear-public-comment-on-sat-act-debate-undocumented-student-concerns/</link>
@@ -1804,65 +1819,6 @@ A UC-sponsored state bill that would place a $12 billion research bond on the ba
       <category>Daily Bruin: In Focus</category>
       <category>Sports: In Focus</category>
       <category>db-story-m1</category>
-    </item>    <item>
-      <title>From hobby to handmade business: Donna Wu builds Critter Trinkets</title>
-      <link>https://dailybruin.com/2026/07/02/from-hobby-to-handmade-business-donna-wu-builds-critter-trinkets/</link>
-      <description>
-        <![CDATA[Donna Wu molds her passions into a budding art business.
-        Wu launched her brand Critter Trinkets in October 2025  and sells clay art pieces, ranging from pins and magnets to hair clips, keychains and more.]]>
-      </description>
-      <source:markdown>Donna Wu molds her passions into a budding art business.
-Wu launched her brand Critter Trinkets in October 2025 and sells clay art pieces, ranging from pins and magnets to hair clips, keychains and more.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512728</guid>
-      <category>Arts</category>
-      <category>Lifestyle</category>
-      <category>db-story-d2</category>
-    </item>    <item>
-      <title>Are There Any AI Tools That Can Convert Photos Into Paintings?</title>
-      <link>https://sundial.csun.edu/218614/sundialbrandstudio/sundial-marketplace/are-there-any-ai-tools-that-can-convert-photos-into-paintings/</link>
-      <description>
-        <![CDATA[Picture a wedding photographer who wants to offer clients a oil-painting-style portrait alongside the standard album, without commissioning an actual painter for every booking. Or a small furniture brand that...]]>
-      </description>
-      <source:markdown>Picture a wedding photographer who wants to offer clients a oil-painting-style portrait alongside the standard album, without commissioning an actual painter for every booking. Or a small furniture brand that...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218614</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>Mexico ends a 40-year knockout drought by advancing to the Round of 16</title>
-      <link>https://sundial.csun.edu/218616/featured/mexico-ends-a-40-year-knockout-drought-by-advancing-to-the-round-of-16/</link>
-      <description>
-        <![CDATA[The LA Galaxy hosted a Mexico vs. Ecuador watch party as part of its Summer of Soccer celebrations. Mexico defeated Ecuador 2-0 to advance to the Round of 16 for...]]>
-      </description>
-      <source:markdown>The LA Galaxy hosted a Mexico vs. Ecuador watch party as part of its Summer of Soccer celebrations. Mexico defeated Ecuador 2-0 to advance to the Round of 16 for...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218616</guid>
-      <category>Featured</category>
-      <category>Multimedia</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>Mexico ends a 40-year knockout drought by advancing to the Round of 16</title>
-      <link>https://sundial.csun.edu/218616/world-cup/mexico-ends-a-40-year-knockout-drought-by-advancing-to-the-round-of-16/</link>
-      <description>
-        <![CDATA[The LA Galaxy hosted a Mexico vs. Ecuador watch party as part of its Summer of Soccer celebrations. Mexico defeated Ecuador 2-0 to advance to the Round of 16 for...]]>
-      </description>
-      <source:markdown>The LA Galaxy hosted a Mexico vs. Ecuador watch party as part of its Summer of Soccer celebrations. Mexico defeated Ecuador 2-0 to advance to the Round of 16 for...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218616</guid>
-      <category>Featured</category>
-      <category>Multimedia</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>Film review: ‘Supergirl’ soars with casting, visuals but loses sight of its heroine</title>
-      <link>https://dailybruin.com/2026/07/01/film-review-supergirl-soars-with-casting-visuals-but-loses-sight-of-its-heroine/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 5 at 10:09 p.m.</em>
-        DC Studios’ new film “Supergirl” finds its kryptonite in its inability to keep the titular hero at the center of her own story.]]>
-      </description>
-      <source:markdown>_This post was updated July 5 at 10:09 p.m._
-DC Studios’ new film “Supergirl” finds its kryptonite in its inability to keep the titular hero at the center of her own story.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512698</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Film &#38; TV</category>
-      <category>db-story-g</category>
     </item>
   </channel>
 </rss>

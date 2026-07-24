@@ -4,11 +4,19 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>24 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Bug in the TTY KIM-1 monitor</title>
+      <title>Fireside developer chat on saturday night</title>
+      <link>http://www.iconbar.com/comments/rss/news2344.html</link>
+      <description>
+        <![CDATA[The next developer chat is tomorrow night (25th July) for everyone interested in a very informal event online aimed at RISC OS developers of all levels.]]>
+      </description>
+      <source:markdown>The next developer chat is tomorrow night (25th July) for everyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2344.html</guid>
+    </item>    <item>
+      <title>Bug in the TTY KIM-1 monitor?</title>
       <link>http://retro.hansotten.nl/bug-tty/</link>
       <description>
         <![CDATA[The KIM-1 monitor surprises me every time I dive into it. The KIM-1 Explained is nearing completion. The KIM-1 explained There is a bug in the TTY CLI, it accepts characters as &#8216;;&#8217; and &#8216;:&#8217; as valid hex and translates to A..F. More about this innocent feature here: PRTBYT, GETBYT and PACK See also:A demo [&#8230;]]]>
@@ -421,28 +429,6 @@
       <category>simfarm</category>
       <category>simlife</category>
       <category>wright</category>
-    </item>    <item>
-      <title>b.log 2026/07/02 - Nothing works... (comme d&#39;hab), Small parcels to the EU, Earth is a death world.</title>
-      <link>https://heyrick.eu/blog/entry/20260702</link>
-      <description>
-        <![CDATA[Nothing works... (comme d'hab), Small parcels to the EU, Earth is a death world.]]>
-      </description>
-      <source:markdown>Nothing works... (comme d&#39;hab), Small parcels to the EU, Earth is a death world.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260702</guid>
-    </item>    <item>
-      <title>KIM-1 TTY I/O, no echo, non-blocking, deaf</title>
-      <link>http://retro.hansotten.nl/kim-1-tty-i-o-no-echo-non-blocking-deaf/</link>
-      <description>
-        <![CDATA[A page on suppressing the KIM-1 echo of TTY input, read non-blocking and make the TTY input deaf. Problems with the KIM-1 TTY character input The KIM-1 hardware is hardware echoing incoming serial characters to the output, no echo in software involved, so you cannot influence what appears on screen. Very annoying! The KIM-1 GETCH [&#8230;]]]>
-      </description>
-      <source:markdown>A page on suppressing the KIM-1 echo of TTY input, read non-blocking and make the TTY input deaf. Problems with the KIM-1 TTY character input The KIM-1 hardware is hardware echoing incoming serial characters to the output, no echo in software involved, so you cannot influence what appears on screen. Very annoying! The KIM-1 GETCH \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=21192</guid>
-      <category>6502</category>
-      <category>corsham</category>
-      <category>kim-1</category>
-      <category>microkim</category>
-      <category>pal-1</category>
-      <category>pal-2</category>
     </item>
   </channel>
 </rss>

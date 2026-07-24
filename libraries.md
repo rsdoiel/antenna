@@ -47,6 +47,7 @@ title: Library and Archives organizations
 - [Front Matter Blog](https://blog.front-matter.de/rss/)
 - [Invenio RDM Blog](https://inveniosoftware.org/feed.xml)
 - [Aaron Tay's Musings about Librarianship](https://aarontay.substack.com/feed)
+- [The Meta Archivist blog](https://metaarchivist.substack.com/feed)
 
 # Companies
 

@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Library and Archives organizations</title>
-        <dateCreated>23 Jul 26 06:46 -0700</dateCreated>
+        <dateCreated>24 Jul 26 06:46 -0700</dateCreated>
     </head>
     <body>
         <outline text="Aaron Tay&#39;s Musings about Librarianship" type="rss" xmlUrl="https://aarontay.substack.com/feed" htmlUrl="https://aarontay.substack.com,https://aarontay.substack.com/feed" description="Aaron Tay&#39;s thoughts about academic librarianship " url="https://aarontay.substack.com/feed"></outline>
@@ -37,5 +37,6 @@
         <outline text="SciELO in Perspective" type="rss" xmlUrl="https://blog.scielo.org/en/feed/" htmlUrl="https://blog.scielo.org/en,https://blog.scielo.org/en/feed/" url="https://blog.scielo.org/en/feed/"></outline>
         <outline text="Standard Ebooks, new releaases" type="rss" xmlUrl="https://standardebooks.org/feeds/rss/new-releases" htmlUrl="https://standardebooks.org/feeds/rss/new-releases,https://standardebooks.org/feeds/rss/new-releases" description="The 15 latest Standard Ebooks, most-recently-released first." url="https://standardebooks.org/feeds/rss/new-releases"></outline>
         <outline text="Standard eBooks blog" type="rss" xmlUrl="https://standardebooks.org/feeds/rss/blog" htmlUrl="https://standardebooks.org/blog,https://standardebooks.org/feeds/rss/blog" description="The Standard Ebooks Blog" url="https://standardebooks.org/feeds/rss/blog"></outline>
+        <outline text="The Meta Archivist blog" type="rss" xmlUrl="https://metaarchivist.substack.com/feed" htmlUrl="https://metaarchivist.substack.com,https://metaarchivist.substack.com/feed" description="Exploring records management, information governance, and regulatory frameworks. Analyzing policies, digital preservation, and societal impacts—how records shape history, accountability, and trust. Subscribe for insights on policy, AI, and archives." url="https://metaarchivist.substack.com/feed"></outline>
     </body>
 </opml>

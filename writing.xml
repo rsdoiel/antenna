@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>23 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>24 Jul 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -202,16 +202,6 @@ Thank you, everyone. We’re looking forward to another fun year.</source:markdo
       <category>ifcomp</category>
       <category>interactive fiction competition</category>
       <category>interactive fiction</category>
-    </item>    <item>
-      <title>Vanishing Culture Episode #1: What We Stand to Lose</title>
-      <link>https://www.authorsalliance.org/2026/07/02/vanishing-culture-episode-1-what-we-stand-to-lose/</link>
-      <description>
-        <![CDATA[Authors Alliance and Internet Archive are excited to announce the release of the first episode of Vanishing Culture, a special six-part series from the Future Knowledge podcast exploring what happens when our shared cultural heritage disappears, and what we can do to preserve it.]]>
-      </description>
-      <source:markdown>Authors Alliance and Internet Archive are excited to announce the release of the first episode of Vanishing Culture, a special six-part series from the Future Knowledge podcast exploring what happens when our shared cultural heritage disappears, and what we can do to preserve it.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=13020</guid>
-      <category>Blog</category>
-      <category>Future Knowledge</category>
     </item>
   </channel>
 </rss>
