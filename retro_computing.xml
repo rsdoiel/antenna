@@ -4,10 +4,41 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RISC OS Open source developments weekly update</title>
+      <link>http://www.iconbar.com/comments/rss/news2355.html</link>
+      <description>
+        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
+      </description>
+      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2355.html</guid>
+    </item>    <item>
+      <title>New MyChoices module released to make handling app settings a breeze for developers</title>
+      <link>https://www.riscository.com/2026/mychoices-module-released/</link>
+      <description>
+        <![CDATA[Graeme Shrimpton has released a new module, MyChoices, mentioned on the June fireside chat for developers, with the goal of making it much easier for them to load and save their application&#8217;s choices (or settings). It deals with the two problems a developer faces &#8211; correctly handling where those choices are stored on user machines, and parsing the file that contains them. The first problem is the file location and how to access it both for reading, and for writing &#8211; and the two are slightly different. There are a&#8230;]]>
+      </description>
+      <source:markdown>Graeme Shrimpton has released a new module, MyChoices, mentioned on the June fireside chat for developers, with the goal of making it much easier for them to load and save their application’s choices (or settings). It deals with the two problems a developer faces – correctly handling where those choices are stored on user machines, and parsing the file that contains them. The first problem is the file location and how to access it both for reading, and for writing – and the two are slightly different. There are a…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10981</guid>
+      <category>Programming</category>
+      <category>Choices</category>
+      <category>Developing</category>
+      <category>MyChoices</category>
+      <category>Settings</category>
+      <category>Tool</category>
+    </item>    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Opus 5: Richard III]]>
+      </description>
+      <source:markdown>Opus 5: Richard III</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6870</guid>
+      <category>Uncategorized</category>
+    </item>    <item>
       <title>Fireside developer chat on saturday night</title>
       <link>http://www.iconbar.com/comments/rss/news2344.html</link>
       <description>
@@ -311,15 +342,6 @@
       <category>Lifestyle</category>
       <category>Travel</category>
     </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Opus 4: Henry VI, Part 3]]>
-      </description>
-      <source:markdown>Opus 4: Henry VI, Part 3</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6854</guid>
-      <category>Uncategorized</category>
-    </item>    <item>
       <title>b.log 2026/07/09 - Not looking forward to tomorrow, The summer sales: New face shield for weed whacking, Influencer vlog light ring, Weather station with WiFi and app.</title>
       <link>https://heyrick.eu/blog/entry/20260709</link>
       <description>
@@ -412,23 +434,6 @@
       </description>
       <source:markdown>We&#39;re all 404 in the end.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260704</guid>
-    </item>    <item>
-      <title>The Life and Times of Maxis, Part 1: SimEverything</title>
-      <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</link>
-      <description>
-        <![CDATA[This article tells part of the story of Maxis Software. I&#8217;m still to this day just blown away by continental drift and things like that, stuff that most people think sounds pretty boring. &#8212; Will Wright Gamers are both extremely dedicated to and really good at preserving the history of their hobby. Seldom has a [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of Maxis Software. I’m still to this day just blown away by continental drift and things like that, stuff that most people think sounds pretty boring. — Will Wright Gamers are both extremely dedicated to and really good at preserving the history of their hobby. Seldom has a \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6812</guid>
-      <category>Digital Antiquaria</category>
-      <category>Interactive Fiction</category>
-      <category>maxis</category>
-      <category>simant</category>
-      <category>simcity</category>
-      <category>simearth</category>
-      <category>simfarm</category>
-      <category>simlife</category>
-      <category>wright</category>
     </item>
   </channel>
 </rss>

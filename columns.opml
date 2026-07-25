@@ -2,11 +2,12 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>24 Jul 26 06:43 -0700</dateCreated>
+        <dateCreated>25 Jul 26 06:44 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
         <outline text="500-ish blog, A collection of posts by M.G. Siegler of around 500 words in length." type="rss" xmlUrl="https://500ish.com/feed" htmlUrl="https://500ish.com?source=rss----662a29c3b19e---4,https://500ish.com/feed" description="A collection of posts by M.G. Siegler of around 500 words in length. - Medium" url="https://500ish.com/feed"></outline>
+        <outline text="AI Weirdness Blog" type="rss" xmlUrl="https://www.aiweirdness.com/rss/" htmlUrl="https://www.aiweirdness.com/,https://www.aiweirdness.com/rss/" description="AI Weirdness: the strange side of machine learning" url="https://www.aiweirdness.com/rss/"></outline>
         <outline text="Aaron Bos blog" type="rss" xmlUrl="https://aaronbos.dev/feed.xml" htmlUrl="https://aaronbos.dev,https://aaronbos.dev/feed.xml" description="Aaron Bos" url="https://aaronbos.dev/feed.xml"></outline>
         <outline text="Accidentally in Code" type="rss" xmlUrl="https://cate.blog/feed/" htmlUrl="https://cate.blog,https://cate.blog/feed/" description="Engineering an Interesting Life" url="https://cate.blog/feed/"></outline>
         <outline text="Advent of Computing" type="rss" category="History,computer,computing,History,Technology" xmlUrl="https://adventofcomputing.libsyn.com/rss" htmlUrl="http://adventofcomputing.com/,https://adventofcomputing.libsyn.com/rss" description="Welcome to Advent of Computing, the show that talks about the shocking, intriguing, and all too often relevant history of computing.  A lot of little things we take for granted today have rich stories behind their creation, in each episode we will learn how older tech has lead to our modern world." url="https://adventofcomputing.libsyn.com/rss"></outline>
@@ -404,6 +405,7 @@
         <outline text="Windows Developer Blog" type="rss" xmlUrl="https://blogs.windows.com/windowsdeveloper/feed/" htmlUrl="https://blogs.windows.com/windowsdeveloper/,https://blogs.windows.com/windowsdeveloper/feed/" url="https://blogs.windows.com/windowsdeveloper/feed/"></outline>
         <outline text="WoLpH blog" type="rss" xmlUrl="https://w.wol.ph/feed/" htmlUrl="https://w.wol.ph,https://w.wol.ph/feed/" description="Rick van Hattem. Dutch entrepreneur and programmer, interested in scaling large systems. Currently mostly working with Python, Flask, Django and PostgreSQL" url="https://w.wol.ph/feed/"></outline>
         <outline text="Word Ways" type="rss" xmlUrl="https://digitalcommons.butler.edu/wordways/recent.rss" htmlUrl="https://digitalcommons.butler.edu/wordways" description="Recent documents in Word Ways"></outline>
+        <outline text="Worse on Purpose" type="rss" category="Culture,Business,Gadgets" xmlUrl="https://rss.beehiiv.com/feeds/J17ICFTI1f.xml" htmlUrl="https://www.worseonpurpose.com/,https://rss.beehiiv.com/feeds/J17ICFTI1f.xml" description="Why your stuff stopped lasting, who profited, and what&#39;s still built right." url="https://rss.beehiiv.com/feeds/J17ICFTI1f.xml"></outline>
         <outline text="Writing Off Code" type="rss" xmlUrl="https://christaalbrechtcrane.substack.com/feed" htmlUrl="https://christaalbrechtcrane.substack.com,https://christaalbrechtcrane.substack.com/feed" description="Essays on writing craft, AI criticism, and why human voices matter more than ever. " url="https://christaalbrechtcrane.substack.com/feed"></outline>
         <outline text="Xobs blog" type="rss" xmlUrl="https://xobs.io/index.xml" htmlUrl="https://xobs.io/,https://xobs.io/index.xml" description="Recent content on Xobs&#39; Blog" url="https://xobs.io/index.xml"></outline>
         <outline text="YiHui Xie blog" type="rss" xmlUrl="https://yihui.org/en/index.xml" htmlUrl="https://yihui.org/en/,https://yihui.org/en/" description="Recent content in Yihui&#39;s Blog on Yihui Xie | 谢益辉" url="https://yihui.org/en/"></outline>

@@ -4,10 +4,160 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>25 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more</title>
+      <link>https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/</link>
+      <description>
+        <![CDATA[The hottest and most promising operating system kernel in development, the GNU Hurd, has published another summary of its most recent quarter of development. Hurd has experimental support for 9pfs now, a work-in&#8211;progress port of OpenNTPD, the NTP daemon from OpenBSD, a port of Neovim, and a few more ports here and there. Diving deeper into the actual kernel itself, there&#8217;s a major improvement to how the Hurd handles entries in /dev/: Mikhail Karpov added some checks for mmap in several places. He also worked on adding storeio to the bootstrap chain. This is actually quite interesting. Currently the Hurd sets device entries in /dev/ statically. For example, I am writing this qoth on a Hurd machine that is using two /dev/ entries for my filesystem: /dev/wd0s1 for swap and /dev/wd0s5 for my root filesystem. However, /dev/wd0s1 through /dev/wd0s16 exist on my computer! Once Mikhail&#8217;s project is done, then the Hurd will dynamically populate SATA devices at boot time! No more need for static translators! ↫ The Hurd&#8217;s quartely report The dhcpcd port we talked about earlier this year keeps improving too, which is quite important for future IPv6 support. Of course, there&#8217;s way more to dive into, and reading about a bunch of people developing their own thing without any regard for or interest in the mainstream always feels a little bit like a cold glass of tonic &#8211; the best soft drink &#8211; in the depths of hell. Keep at it.]]>
+      </description>
+      <source:markdown>The hottest and most promising operating system kernel in development, the GNU Hurd, has published another summary of its most recent quarter of development. Hurd has experimental support for 9pfs now, a work-in–progress port of OpenNTPD, the NTP daemon from OpenBSD, a port of Neovim, and a few more ports here and there. Diving deeper into the actual kernel itself, there’s a major improvement to how the Hurd handles entries in /dev/: Mikhail Karpov added some checks for mmap in several places. He also worked on adding storeio to the bootstrap chain. This is actually quite interesting. Currently the Hurd sets device entries in /dev/ statically. For example, I am writing this qoth on a Hurd machine that is using two /dev/ entries for my filesystem: /dev/wd0s1 for swap and /dev/wd0s5 for my root filesystem. However, /dev/wd0s1 through /dev/wd0s16 exist on my computer! Once Mikhail’s project is done, then the Hurd will dynamically populate SATA devices at boot time! No more need for static translators! ↫ The Hurd’s quartely report The dhcpcd port we talked about earlier this year keeps improving too, which is quite important for future IPv6 support. Of course, there’s way more to dive into, and reading about a bunch of people developing their own thing without any regard for or interest in the mainstream always feels a little bit like a cold glass of tonic – the best soft drink – in the depths of hell. Keep at it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145603</guid>
+      <category>OS News</category>
+    </item>    <item>
+      <title>Google Play Services drops support for Android 6.0</title>
+      <link>https://www.osnews.com/story/145599/google-play-services-drops-support-for-android-6-0/</link>
+      <description>
+        <![CDATA[Given that Android phones have been around for nearly two decades now, there comes a time when Google has to end support for one of its older software versions. For a couple of years now, Google Play services has been supported on devices running Android 6.0 Marshmallow or newer. That has changed over the past few weeks, with Google deciding to retire this software version after a nearly 11-year run. ↫ Chethan Rao at Android Authority At some point, an operating system version needs to be left behind &#8211; and I don&#8217;t think it&#8217;s entirely unreasonable to no longer support Google Play Services on an operating system version that&#8217;s 11 years old. However, this is Android we&#8217;re talking about, and devices running Android 6.0 were probably sold much more recently than 11 years ago, when the operating system version was new. Hell, I wouldn&#8217;t be surprised if devices running Android 6.0 are still being sold today. I doubt this is something that will affect many people who read OSNews, but there&#8217;s bound to be edge cases &#8211; Android 6.0 devices silently doing their job that are now just a little less useful. I&#8217;m thinking of really cheap tablets that can still play video just fine, retro gaming handhelds that don&#8217;t magically lose the ability to emulate SNES games, that sort of stuff. The numbers will be small, but if you happen to be among them, this can be a really annoying deprecation.]]>
+      </description>
+      <source:markdown>Given that Android phones have been around for nearly two decades now, there comes a time when Google has to end support for one of its older software versions. For a couple of years now, Google Play services has been supported on devices running Android 6.0 Marshmallow or newer. That has changed over the past few weeks, with Google deciding to retire this software version after a nearly 11-year run. ↫ Chethan Rao at Android Authority At some point, an operating system version needs to be left behind – and I don’t think it’s entirely unreasonable to no longer support Google Play Services on an operating system version that’s 11 years old. However, this is Android we’re talking about, and devices running Android 6.0 were probably sold much more recently than 11 years ago, when the operating system version was new. Hell, I wouldn’t be surprised if devices running Android 6.0 are still being sold today. I doubt this is something that will affect many people who read OSNews, but there’s bound to be edge cases – Android 6.0 devices silently doing their job that are now just a little less useful. I’m thinking of really cheap tablets that can still play video just fine, retro gaming handhelds that don’t magically lose the ability to emulate SNES games, that sort of stuff. The numbers will be small, but if you happen to be among them, this can be a really annoying deprecation.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145599</guid>
+      <category>Android</category>
+    </item>    <item>
+      <title>Three Millennia Ago, Humans May Have Spoken Thousands More Languages Than We Have Today, During a Linguistic &#39;Golden Age&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/three-millennia-ago-humans-may-have-spoken-thousands-more-languages-than-we-have-today-during-a-linguistic-golden-age-180989197/</link>
+      <description>
+        <![CDATA[A new study suggests linguistic diversity reached its peak between 1000 B.C.E. and 1000 C.E. before declining]]>
+      </description>
+      <source:markdown>A new study suggests linguistic diversity reached its peak between 1000 B.C.E. and 1000 C.E. before declining</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7Z-ggEfOIWVrfA7mOasdaTuIJeE=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/ed/3dedf986-0087-44f0-9c5a-d7bc444bedec/map.jpg" length="93508" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/three-millennia-ago-humans-may-have-spoken-thousands-more-languages-than-we-have-today-during-a-linguistic-golden-age-180989197/</guid>
+    </item>    <item>
+      <title>It&#39;s Nature Vs. Culture as Europeans Vote on New Designs for Euro Banknotes That Pit Kingfishers Against Leonardo da Vinci</title>
+      <link>https://www.smithsonianmag.com/smart-news/its-nature-versus-culture-as-europeans-vote-on-new-designs-for-euro-banknotes-that-pit-kingfishers-against-leonardo-da-vinci-180989193/</link>
+      <description>
+        <![CDATA[The European Central Bank released a shortlist of ten potential designs for a new series of printed banknotes, the first complete redesign since the Euro note was issued in 2002.]]>
+      </description>
+      <source:markdown>The European Central Bank released a shortlist of ten potential designs for a new series of printed banknotes, the first complete redesign since the Euro note was issued in 2002.</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eCT9U_w3pj_-C4vQpa-xaiJGAzA=/420x240/filters:focal(1070x714:1071x715)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/62/4a625159-a9c3-4390-8e62-5afc2285cb64/screenshot_2026-07-24_at_11455pm.jpeg" length="2180351" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/its-nature-versus-culture-as-europeans-vote-on-new-designs-for-euro-banknotes-that-pit-kingfishers-against-leonardo-da-vinci-180989193/</guid>
+    </item>    <item>
+      <title>This Robot Can Flap Its Wings to Both Fly and Swim. It Might One Day Help Scientists Study Diving Birds and Survey Ocean Habitats</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-robot-can-flap-its-wings-to-both-fly-and-swim-it-might-one-day-help-scientists-study-diving-birds-and-survey-ocean-habitats-180989172/</link>
+      <description>
+        <![CDATA[The bioinspired device, which weighs roughly half a pound and measures around three feet wide, was also modeled after aquatic birds like puffins, gulls and loons]]>
+      </description>
+      <source:markdown>The bioinspired device, which weighs roughly half a pound and measures around three feet wide, was also modeled after aquatic birds like puffins, gulls and loons</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pWj_jnGVjp-a9hi1lvP9OW9GtrM=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/9b/199ba538-8871-4dae-9a16-b29452ee99fb/mit-flapping-robot-01-press_0.jpg" length="288824" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-robot-can-flap-its-wings-to-both-fly-and-swim-it-might-one-day-help-scientists-study-diving-birds-and-survey-ocean-habitats-180989172/</guid>
+    </item>    <item>
+      <title>Hollywood&#39;s Iconic Cinerama Dome, One of the World&#39;s Most Famous Movie Theaters, Is Set to Reopen in Early 2028</title>
+      <link>https://www.smithsonianmag.com/smart-news/hollywoods-iconic-cinerama-dome-one-of-the-worlds-most-famous-movie-theatres-is-set-to-reopen-in-early-2028-180989190/</link>
+      <description>
+        <![CDATA[Shuttered since the Covid-19 pandemic, the Los Angeles landmark is being revived as more Americans buy tickets to see movies in theaters]]>
+      </description>
+      <source:markdown>Shuttered since the Covid-19 pandemic, the Los Angeles landmark is being revived as more Americans buy tickets to see movies in theaters</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SaU8bBRqFiS_DesDFh4qBaD1VA4=/420x240/filters:focal(1611x982:1612x983)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/e4/83e404be-f007-420f-a287-a5b780c3cc99/cinerama_dome_front.jpg" length="1364374" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/hollywoods-iconic-cinerama-dome-one-of-the-worlds-most-famous-movie-theatres-is-set-to-reopen-in-early-2028-180989190/</guid>
+    </item>    <item>
+      <title>NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon</title>
+      <link>https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/</link>
+      <description>
+        <![CDATA[On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]]]>
+      </description>
+      <source:markdown>On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/</guid>
+      <category>Earth</category>
+      <category>Earth&#39;s Moon</category>
+      <category>EscaPADE (Escape and Plasma Acceleration and Dynamics Explorers)</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Heliophysics</category>
+      <category>Heliophysics Division</category>
+      <category>Science Mission Directorate</category>
+      <category>The Sun</category>
+    </item>    <item>
+      <title>Is This Giant Celestial Body a Moon, a Planet or Something in Between? The Strange Object Calls Astronomical Labels Into Question</title>
+      <link>https://www.smithsonianmag.com/smart-news/is-this-giant-celestial-body-a-moon-a-planet-or-something-in-between-the-strange-object-calls-astrononomical-labels-into-question-180989183/</link>
+      <description>
+        <![CDATA[The newly found object, estimated to be roughly as massive as Jupiter, orbits a brown dwarf—a "failed star"—which in turn circles a small star. For now, researchers are calling the puzzling body an "exosatellite"]]>
+      </description>
+      <source:markdown>The newly found object, estimated to be roughly as massive as Jupiter, orbits a brown dwarf—a &#34;failed star&#34;—which in turn circles a small star. For now, researchers are calling the puzzling body an &#34;exosatellite&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FA7PTNThjRSEawLilz8f94QLMZQ=/420x240/filters:focal(640x384:641x385)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fa/9b/fa9b4b1c-b645-4c49-89ff-2292e66f4e6d/eso2610a.jpg" length="94103" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/is-this-giant-celestial-body-a-moon-a-planet-or-something-in-between-the-strange-object-calls-astrononomical-labels-into-question-180989183/</guid>
+    </item>    <item>
+      <title>New Crew Members Welcomed to International Space Station</title>
+      <link>https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/</link>
+      <description>
+        <![CDATA[From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome [&#8230;]]]>
+      </description>
+      <source:markdown>From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1020471</guid>
+      <category>Anil Menon</category>
+      <category>International Space Station (ISS)</category>
+    </item>    <item>
+      <title>NASA Announces New Spacecraft Technology Demonstration Mission at Moon</title>
+      <link>https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/</link>
+      <description>
+        <![CDATA[NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the [&#8230;]]]>
+      </description>
+      <source:markdown>NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1020550</guid>
+      <category>Aeronautics Research Mission Directorate</category>
+      <category>Ames Research Center</category>
+      <category>Research and Technology Mission Directorate</category>
+      <category>Small Spacecraft Technology Program</category>
+      <category>Space Technology Mission Directorate</category>
+      <category>Technology</category>
+    </item>    <item>
+      <title>With 1.5x the love, from Switzerland</title>
+      <link>https://publicai.substack.com/p/with-15x-the-love-from-switzerland</link>
+      <description>
+        <![CDATA[Apertus 1.5 makes Switzerland's open language models more useful in practice: multimodal input, reasoning, longer context, and better instruction following.]]>
+      </description>
+      <source:markdown>Apertus 1.5 makes Switzerland&#39;s open language models more useful in practice: multimodal input, reasoning, longer context, and better instruction following.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!rZ2V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f0beef-d4a3-49df-bf57-642e86552226_1024x717.png" length="0" type="image/jpeg" />
+      <guid>cid://https://publicai.substack.com/p/with-15x-the-love-from-switzerland</guid>
+    </item>    <item>
+      <title>NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/</link>
+      <description>
+        <![CDATA[NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working [&#8230;]]]>
+      </description>
+      <source:markdown>NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1020767</guid>
+      <category>Missions</category>
+      <category>Artemis</category>
+      <category>Stennis Space Center</category>
+    </item>    <item>
+      <title>Mangroves Are Key to Coastal Ecosystems. See 20 Breathtaking Photos That Reveal How the Trees Support Wildlife and Face Threats</title>
+      <link>https://www.smithsonianmag.com/smart-news/mangroves-are-key-to-coastal-ecosystems-see-20-breathtaking-photos-that-reveal-how-the-trees-support-wildlife-and-face-threats-180989186/</link>
+      <description>
+        <![CDATA[The Mangrove Photography Awards honor images that show off the beauty—and the fragility—of these valuable intertidal forests]]>
+      </description>
+      <source:markdown>The Mangrove Photography Awards honor images that show off the beauty—and the fragility—of these valuable intertidal forests</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cUPKKbpWb_WIpgRd0ahtylEboiQ=/420x240/filters:focal(1892x1279:1893x1280)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/dc/f2dca069-cf2b-4d15-a5b0-779aa3245413/wildlife_mammals_-_royal_mangrove_dweller_-_avijit_ghorai.jpg" length="2629166" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/mangroves-are-key-to-coastal-ecosystems-see-20-breathtaking-photos-that-reveal-how-the-trees-support-wildlife-and-face-threats-180989186/</guid>
+    </item>    <item>
+      <title>Students in Florida Discovered a 400-Year-Old Intact Pot That Reveals Conflict Among Indigenous, Spanish and English Powers</title>
+      <link>https://www.smithsonianmag.com/smart-news/students-in-florida-discovered-a-400-year-old-intact-pot-that-reveals-conflict-among-indigenous-spanish-and-english-powers-180989188/</link>
+      <description>
+        <![CDATA[Archaeology students at the University of Florida discovered the rare vessel at the site of the former Mission San Francisco de Potano, established in 1606 when Florida was under Spanish rule]]>
+      </description>
+      <source:markdown>Archaeology students at the University of Florida discovered the rare vessel at the site of the former Mission San Francisco de Potano, established in 1606 when Florida was under Spanish rule</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/anQiIL1aTR7kZ-Fx9W9SNbG4jSw=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/c0/56c0e9d9-e2dd-45a9-a77b-86acc725a0ea/751111359_955707160864416_4593662300171942136_n.png" length="154738" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/students-in-florida-discovered-a-400-year-old-intact-pot-that-reveals-conflict-among-indigenous-spanish-and-english-powers-180989188/</guid>
+    </item>    <item>
+      <title>Why Are These Whales Floating Upside-Down? They Might Just Be Moms Who Need a Break From Feeding Their Babies</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-are-these-whales-floating-upside-down-they-might-just-be-moms-who-need-a-break-from-feeding-their-babies-180989184/</link>
+      <description>
+        <![CDATA[Each year, southern right whales migrate thousands of miles from their feeding grounds to breed, give birth and raise their young. Taking rests and regulating their calves' nursing schedules might help mothers conserve energy while they're far from food]]>
+      </description>
+      <source:markdown>Each year, southern right whales migrate thousands of miles from their feeding grounds to breed, give birth and raise their young. Taking rests and regulating their calves&#39; nursing schedules might help mothers conserve energy while they&#39;re far from food</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/kvPiX4o0MVxn_gQkgaJ_iE9Lwxg=/420x240/filters:focal(800x411:801x412)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/7f/637f114f-ffdf-48dc-b200-f219c89f63bc/upside-down-whale.png" length="2303237" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-are-these-whales-floating-upside-down-they-might-just-be-moms-who-need-a-break-from-feeding-their-babies-180989184/</guid>
+    </item>    <item>
       <title>Hubble Spies One-Sided Spiral</title>
       <link>https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/</link>
       <description>
@@ -193,6 +343,15 @@ The post [A Master of the Traveling Salesperson Problem Finds His Own Path](http
       <guid>cid://https://www.quantamagazine.org/?p=164352</guid>
       <category>Computer Science</category>
     </item>    <item>
+      <title>Would You Chat With an A.I. &#39;Ghost&#39; of a Deceased Loved One? New Research Suggests That the Tech Can Provide Comfort and Closure</title>
+      <link>https://www.smithsonianmag.com/smart-news/would-you-chat-with-an-ai-ghost-of-a-deceased-loved-one-new-research-suggests-that-the-tech-can-provide-comfort-and-closure-180989176/</link>
+      <description>
+        <![CDATA[Commercial "griefbots" are becoming more popular, and many experts have questions about their psychological and ethical impacts. A new study aims to ensure that the bots are designed responsibly]]>
+      </description>
+      <source:markdown>Commercial &#34;griefbots&#34; are becoming more popular, and many experts have questions about their psychological and ethical impacts. A new study aims to ensure that the bots are designed responsibly</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CqfclW1naSQwn6_ZHKty29sb4wg=/420x240/filters:focal(2230x1487:2231x1488)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/0f/b00f9c2e-de3a-416a-9261-0b36ce7411bf/stocksnap-laptop-2562361.jpg" length="714189" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/would-you-chat-with-an-ai-ghost-of-a-deceased-loved-one-new-research-suggests-that-the-tech-can-provide-comfort-and-closure-180989176/</guid>
+    </item>    <item>
       <title>NASA Astronaut Chris Williams Closes Out Space Station Mission</title>
       <link>https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/</link>
       <description>
@@ -202,15 +361,6 @@ The post [A Master of the Traveling Salesperson Problem Finds His Own Path](http
       <guid>cid://https://www.nasa.gov/?p=1018602</guid>
       <category>ISS Research</category>
       <category>International Space Station (ISS)</category>
-    </item>    <item>
-      <title>Would You Chat With an A.I. &#39;Ghost&#39; of a Deceased Loved One? New Research Suggests That the Tech Can Provide Comfort and Closure</title>
-      <link>https://www.smithsonianmag.com/smart-news/would-you-chat-with-an-ai-ghost-of-a-deceased-loved-one-new-research-suggests-that-the-tech-can-provide-comfort-and-closure-180989176/</link>
-      <description>
-        <![CDATA[Commercial "griefbots" are becoming more popular, and many experts have questions about their psychological and ethical impacts. A new study aims to ensure that the bots are designed responsibly]]>
-      </description>
-      <source:markdown>Commercial &#34;griefbots&#34; are becoming more popular, and many experts have questions about their psychological and ethical impacts. A new study aims to ensure that the bots are designed responsibly</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CqfclW1naSQwn6_ZHKty29sb4wg=/420x240/filters:focal(2230x1487:2231x1488)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/0f/b00f9c2e-de3a-416a-9261-0b36ce7411bf/stocksnap-laptop-2562361.jpg" length="714189" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/would-you-chat-with-an-ai-ghost-of-a-deceased-loved-one-new-research-suggests-that-the-tech-can-provide-comfort-and-closure-180989176/</guid>
     </item>    <item>
       <title>Living Fully in the Math World Means Threading the Needle</title>
       <link>https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/</link>
@@ -3130,106 +3280,6 @@ The post [Celebrating 250 Years of US Independence With $250 Off the Liberty Pho
       <category>Star Clusters</category>
       <category>Stars</category>
       <category>The Universe</category>
-    </item>    <item>
-      <title>ReactOS implements very first NT6 system call</title>
-      <link>https://www.osnews.com/story/145428/reactos-implements-very-first-nt6-system-call/</link>
-      <description>
-        <![CDATA[A fairly big moment for the ReactOS project: it has just received its very first system call from NT6. The system call that has been added is NtGetCurrentProcessorNumberEx, which is used for returning the processor number of the logical processor that a caller is running on. It’s unclear how long it will take ReactOS to become compatible with Windows Vista software, but it took Microsoft around half a decade to develop Vista after the release of XP and marked a major upgrade, even if it didn’t land well with users at the time. ↫ Paul Hill at Neowin It&#8217;s a milestone for sure, but not one that&#8217;s going to make a huge difference for ReactOS at this moment in time. Still, it&#8217;s a sign of things to come, even if the very nature of the ReactOS project means that whatever things are coming tend to take a while to arrive.]]>
-      </description>
-      <source:markdown>A fairly big moment for the ReactOS project: it has just received its very first system call from NT6. The system call that has been added is NtGetCurrentProcessorNumberEx, which is used for returning the processor number of the logical processor that a caller is running on. It’s unclear how long it will take ReactOS to become compatible with Windows Vista software, but it took Microsoft around half a decade to develop Vista after the release of XP and marked a major upgrade, even if it didn’t land well with users at the time. ↫ Paul Hill at Neowin It’s a milestone for sure, but not one that’s going to make a huge difference for ReactOS at this moment in time. Still, it’s a sign of things to come, even if the very nature of the ReactOS project means that whatever things are coming tend to take a while to arrive.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145428</guid>
-      <category>ReactOS</category>
-    </item>    <item>
-      <title>NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars</title>
-      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/</link>
-      <description>
-        <![CDATA[Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.]]>
-      </description>
-      <source:markdown>Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/</guid>
-      <category>Astrophysics</category>
-      <category>Astrophysics Division</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Hubble Space Telescope</category>
-      <category>Magellanic Clouds</category>
-      <category>Nebulae</category>
-      <category>Stars</category>
-      <category>The Universe</category>
-    </item>    <item>
-      <title>Microsoft settles centuries of religious debate by providing clearest definition of hell to date: Windows with a website-based shell running only Copilot</title>
-      <link>https://www.osnews.com/story/145423/microsoft-settles-centuries-of-religious-debate-by-providing-clearest-definition-of-hell-to-date-windows-with-a-website-based-shell-running-only-copilot/</link>
-      <description>
-        <![CDATA[For how often people invoke it, the concept of &#8220;hell&#8221; in Christianity is remarkably vague and nebulous, as both the Old and New Testament barely go into detail about the concept. As such, I&#8217;m glad Microsoft has now given us a clear vision of hell and what, exactly, it looks like, ending centuries of denominational disagreements. Microsoft is currently selling the idea of Windows and Copilot as two separate things: an OS and an assistant riding along on top of it. However, a leaked video shows Project Aion, an internal prototype where Copilot doesn&#8217;t just sit inside Windows, it becomes Windows, swallowing the Start menu, the taskbar, and three decades of desktop conventions in the process. The footage is reportedly two years old, so Aion is most likely dead by now. But it&#8217;s the clearest look yet at how far Microsoft was willing to take its agentic AI ambitions. ↫ Alfonso Maruccia at Techspot Everything about this is dreadful. Obviously replacing the entire shell with &#8220;AI&#8221; nonsense is the main crime against usability here, but on top of that, this new shell is all just websites, all the way down, so everything is slow and stuttery. Since this runs on something called &#8220;Win3&#8221;, which appears to be a very minimal, stripped-down version of Windows intended to only run the Edge browser engine, you can&#8217;t run Win32 applications. If you do try to run a Win32 application, it will load the application in a remote virtual machine running in the cloud, which I;m sure does wonder for performance, responsiveness, and latency. We can all thank the lord this project is two years old and most likely cancelled by now, but we have no way of knowing if Microsoft is still intending for this to be the future direction of Windows. Since people don&#8217;t want to use &#8220;AI&#8221; of their own volition, it only makes sense in the technology industry&#8217;s sick, twisted mind to force people into using &#8220;AI&#8221; with efforts like this. Consent has never been Silicon Valley&#8217;s strength, after all. At the time of writing, Microsoft is 225 billion dollars in the red on &#8220;AI&#8221;, so I wouldn&#8217;t be surprised if attempts to replace the regular Explorer shell with something &#8220;AI&#8221;-based is still very much on the table in Redmond.]]>
-      </description>
-      <source:markdown>For how often people invoke it, the concept of “hell” in Christianity is remarkably vague and nebulous, as both the Old and New Testament barely go into detail about the concept. As such, I’m glad Microsoft has now given us a clear vision of hell and what, exactly, it looks like, ending centuries of denominational disagreements. Microsoft is currently selling the idea of Windows and Copilot as two separate things: an OS and an assistant riding along on top of it. However, a leaked video shows Project Aion, an internal prototype where Copilot doesn’t just sit inside Windows, it becomes Windows, swallowing the Start menu, the taskbar, and three decades of desktop conventions in the process. The footage is reportedly two years old, so Aion is most likely dead by now. But it’s the clearest look yet at how far Microsoft was willing to take its agentic AI ambitions. ↫ Alfonso Maruccia at Techspot Everything about this is dreadful. Obviously replacing the entire shell with “AI” nonsense is the main crime against usability here, but on top of that, this new shell is all just websites, all the way down, so everything is slow and stuttery. Since this runs on something called “Win3”, which appears to be a very minimal, stripped-down version of Windows intended to only run the Edge browser engine, you can’t run Win32 applications. If you do try to run a Win32 application, it will load the application in a remote virtual machine running in the cloud, which I;m sure does wonder for performance, responsiveness, and latency. We can all thank the lord this project is two years old and most likely cancelled by now, but we have no way of knowing if Microsoft is still intending for this to be the future direction of Windows. Since people don’t want to use “AI” of their own volition, it only makes sense in the technology industry’s sick, twisted mind to force people into using “AI” with efforts like this. Consent has never been Silicon Valley’s strength, after all. At the time of writing, Microsoft is 225 billion dollars in the red on “AI”, so I wouldn’t be surprised if attempts to replace the regular Explorer shell with something “AI”-based is still very much on the table in Redmond.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145423</guid>
-      <category>Clown car</category>
-    </item>    <item>
-      <title>NASA’s Hubble Spots Star-Spangled Cosmic Scene</title>
-      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/</link>
-      <description>
-        <![CDATA[More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).]]>
-      </description>
-      <source:markdown>More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/</guid>
-      <category>Astrophysics</category>
-      <category>Astrophysics Division</category>
-      <category>Globular Clusters</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Hubble Space Telescope</category>
-      <category>Star Clusters</category>
-      <category>Stars</category>
-    </item>    <item>
-      <title>Vulkan-netbsd brings Vulkan to NetBSD</title>
-      <link>https://www.osnews.com/story/145421/vulkan-netbsd-brings-vulkan-to-netbsd/</link>
-      <description>
-        <![CDATA[NetBSD is the only BSD without a Vulkan stack (Mesa and Lavapipe), but that&#8217;s about to change. The effort to bring Vulkan to NetBSD is now in beta, with prebuilt binaries coming soon. Mesa configures, compiles, links, installs, and registers the Lavapipe software Vulkan driver on NetBSD 10.1 amd64, against LLVM 19.1.7. The driver (libvulkan_lvp.so, ~17 MB) installs into /usr/pkg/lib, and its ICD manifest (advertising Vulkan API 1.4) installs into /usr/pkg/share/vulkan/icd.d/, so a Vulkan loader on the system can discover it. ldd resolves every dependency cleanly. The entire process — environment setup, dependency builds, the Mesa build, and installation — is automated end to end and reproducible on a fresh install. ↫ vulkan-netbsd GitHub page It&#8217;s important to note that the next step in the process is to port the Vulkan loader, which is required to actually run Vulkan applications. This entire effort is still ongoing and seems to be handled mostly by Dean Howell alone, so expect breakage and incomplete documentation as development progresses. Still, this is a hugely important effort, and seeing it this far along is great news.]]>
-      </description>
-      <source:markdown>NetBSD is the only BSD without a Vulkan stack (Mesa and Lavapipe), but that’s about to change. The effort to bring Vulkan to NetBSD is now in beta, with prebuilt binaries coming soon. Mesa configures, compiles, links, installs, and registers the Lavapipe software Vulkan driver on NetBSD 10.1 amd64, against LLVM 19.1.7. The driver (libvulkan\_lvp.so, ~17 MB) installs into /usr/pkg/lib, and its ICD manifest (advertising Vulkan API 1.4) installs into /usr/pkg/share/vulkan/icd.d/, so a Vulkan loader on the system can discover it. ldd resolves every dependency cleanly. The entire process — environment setup, dependency builds, the Mesa build, and installation — is automated end to end and reproducible on a fresh install. ↫ vulkan-netbsd GitHub page It’s important to note that the next step in the process is to port the Vulkan loader, which is required to actually run Vulkan applications. This entire effort is still ongoing and seems to be handled mostly by Dean Howell alone, so expect breakage and incomplete documentation as development progresses. Still, this is a hugely important effort, and seeing it this far along is great news.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145421</guid>
-      <category>NetBSD</category>
-    </item>    <item>
-      <title>EveryMac celebrates 30th birthday</title>
-      <link>https://www.osnews.com/story/145419/everymac-celebrates-30th-birthday/</link>
-      <description>
-        <![CDATA[EveryMac turned 30. On July 2, 1996, EveryMac.com launched. Thirty years is a long time &#8212; and a great deal has changed since then &#8212; but what has not changed is that EveryMac.com has been there to provide you with detailed info on every Mac from the original 128k to the current line. Thank you very much for your support through the years. ↫ EveryMac news item I thought OSNews was pretty unique with its founding in 1997, so it&#8217;s great to see another enthusiast&#8217;s website as old as ours. Amazing company to be in, too &#8211; EveryMac is an indispensable, tirelessly maintained, and stupidly accurate resource that I use countless times each year. Here&#8217;s to another 30 years.]]>
-      </description>
-      <source:markdown>EveryMac turned 30. On July 2, 1996, EveryMac.com launched. Thirty years is a long time — and a great deal has changed since then — but what has not changed is that EveryMac.com has been there to provide you with detailed info on every Mac from the original 128k to the current line. Thank you very much for your support through the years. ↫ EveryMac news item I thought OSNews was pretty unique with its founding in 1997, so it’s great to see another enthusiast’s website as old as ours. Amazing company to be in, too – EveryMac is an indispensable, tirelessly maintained, and stupidly accurate resource that I use countless times each year. Here’s to another 30 years.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145419</guid>
-      <category>Apple</category>
-    </item>    <item>
-      <title>This July 4th, are you a thrill- or chill-seeker?</title>
-      <link>https://www.npr.org/2026/07/03/nx-s1-5879300/july-4th-fireworks-thrill-chill-seeker</link>
-      <description>
-        <![CDATA[Independence Day is approaching!<br/><br/><br>Imagine if someone has procured illegal fireworks from a couple of states over. Are you:<br/><br/>1. first in line to light them?<br/><br/>2. content to watch while others set them off?<br/><br/>3. going to find a fire extinguisher — just in case — while loudly condemning the activity?<br/><br/><a href="https://www.drkencarter.com/"target="_blank"   >Ken Carter</a>, a psychologist at Oxford College of Emory University, says everyone has a different level of sensation-seeking. This episode, we get into the factors at play, like people's brain chemistry, when deciding whether or not to do an activity, like setting off fireworks.<br/><br/>For low and average sensation-seekers, very thrilling activities like large, self-run fireworks displays can cause their bodies to produce a lot of cortisol, a stress hormone.<br/><br/>On the other hand, high sensation-seekers, Carter says, "don't tend to produce that much cortisol when they're in those highly chaotic experiences. So when they're seeing those fireworks, they actually produce higher amounts of another chemical called dopamine, which is a neurotransmitter or a chemical messenger that's involved in pleasure."<br/><br/>Carter has developed a 40-point self-assessment survey for people to figure out how much of a sensation-seeker they are. The survey can be found in his book, <a href="https://www.cambridge.org/us/universitypress/subjects/psychology/personality-psychology-and-individual-differences/buzz-inside-minds-thrill-seekers-daredevils-and-adrenaline-junkies?format=PB"target="_blank"   ><em>Buzz!</em></a><br/><br/><em>Interested in more psychology episodes? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Independence Day is approaching!
-
-Imagine if someone has procured illegal fireworks from a couple of states over. Are you:
-
-1\. first in line to light them?
-
-2\. content to watch while others set them off?
-
-3\. going to find a fire extinguisher — just in case — while loudly condemning the activity?
-
-[Ken Carter](https://www.drkencarter.com/), a psychologist at Oxford College of Emory University, says everyone has a different level of sensation-seeking. This episode, we get into the factors at play, like people&#39;s brain chemistry, when deciding whether or not to do an activity, like setting off fireworks.
-
-For low and average sensation-seekers, very thrilling activities like large, self-run fireworks displays can cause their bodies to produce a lot of cortisol, a stress hormone.
-
-On the other hand, high sensation-seekers, Carter says, &#34;don&#39;t tend to produce that much cortisol when they&#39;re in those highly chaotic experiences. So when they&#39;re seeing those fireworks, they actually produce higher amounts of another chemical called dopamine, which is a neurotransmitter or a chemical messenger that&#39;s involved in pleasure.&#34;
-
-Carter has developed a 40-point self-assessment survey for people to figure out how much of a sensation-seeker they are. The survey can be found in his book, [_Buzz!_](https://www.cambridge.org/us/universitypress/subjects/psychology/personality-psychology-and-individual-differences/buzz-inside-minds-thrill-seekers-daredevils-and-adrenaline-junkies?format=PB)
-
-_Interested in more psychology episodes? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f97833fe-5ada-4520-8910-c141f2130f44/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f97833fe-5ada-4520-8910-c141f2130f44&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879300&p=510351&d=799&size=12790014" length="12790014" type="audio/mpeg" />
-      <guid>cid://7cf30c08-f931-4205-96c4-51389100ff6e</guid>
     </item>
   </channel>
 </rss>

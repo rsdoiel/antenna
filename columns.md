@@ -430,3 +430,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Thought Works](https://www.thoughtworks.com/rss/insights.xml)
 - [Elijah Potter Blog](https://elijahpotter.dev/rss.xml)
 - [Freakonomics Radio](https://feeds.simplecast.com/Y8lFbOT4)
+- [Worse on Purpose](https://rss.beehiiv.com/feeds/J17ICFTI1f.xml)
+- [AI Weirdness Blog](https://www.aiweirdness.com/rss/)
+

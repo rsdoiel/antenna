@@ -4,10 +4,101 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>24 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>25 Jul 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Little Review, October 1917 (Vol. 4, No. 6) by Various</title>
+      <link>https://www.gutenberg.org/ebooks/79171</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Esther&#39;s triumph by Emma Leslie</title>
+      <link>https://www.gutenberg.org/ebooks/79169</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Stone Age by Clement Wood</title>
+      <link>https://www.gutenberg.org/ebooks/79172</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Story of Betty by Carolyn Wells</title>
+      <link>https://www.gutenberg.org/ebooks/79176</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Iliad by Homer</title>
+      <link>https://www.gutenberg.org/ebooks/6130</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Prince by Niccolò Machiavelli</title>
+      <link>https://www.gutenberg.org/ebooks/1232</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Narziß und Goldmund : by Hermann Hesse</title>
+      <link>https://www.gutenberg.org/ebooks/79173</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Historiallisia kertomuksia by Santeri Ivalo</title>
+      <link>https://www.gutenberg.org/ebooks/79174</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Problems in astrophysics by Agnes M.  Clerke</title>
+      <link>https://www.gutenberg.org/ebooks/79177</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Monkeying with ancestors by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79178</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Muley&#39;s morals by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79179</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The range-boomer by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79180</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Joe Brennan&#39;s luck by Ruth Lamb</title>
+      <link>https://www.gutenberg.org/ebooks/79175</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The head hunters by Frederik Pohl and Joseph Samachson</title>
       <link>https://www.gutenberg.org/ebooks/79166</link>
       <description>
@@ -31,13 +122,6 @@
     </item>    <item>
       <title>Notes from the Underground by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/600</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Little Review, October 1917 (Vol. 4, No. 6)</title>
-      <link>https://www.gutenberg.org/ebooks/79171</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -70,13 +154,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Esther&#39;s triumph by Emma Leslie</title>
-      <link>https://www.gutenberg.org/ebooks/79169</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Genesis by H. Beam Piper</title>
       <link>https://www.gutenberg.org/ebooks/18105</link>
@@ -1617,97 +1694,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>A tin cup trophy by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/78987</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Last and first men : by Olaf Stapledon</title>
-      <link>https://www.gutenberg.org/ebooks/79003</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Odyssey by Homer</title>
-      <link>https://www.gutenberg.org/ebooks/3160</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Rikottu ruukku : by Heinrich von Kleist</title>
-      <link>https://www.gutenberg.org/ebooks/78997</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Suuri voima by Zakarias Nielsen</title>
-      <link>https://www.gutenberg.org/ebooks/79002</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Madge Hardwicke; or, The mists of the valley by Agnes Giberne</title>
-      <link>https://www.gutenberg.org/ebooks/79005</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Psychology for beginners by Hereward Carrington</title>
-      <link>https://www.gutenberg.org/ebooks/78996</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Gordon at Khartoum : by Wilfrid Scawen Blunt</title>
-      <link>https://www.gutenberg.org/ebooks/78995</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kreivitär Käthe naimisissa by Eufemia von Adlersfeld-Ballestrem</title>
-      <link>https://www.gutenberg.org/ebooks/79001</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The life of Eliot : by Nehemiah Adams</title>
-      <link>https://www.gutenberg.org/ebooks/79004</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Unelmien maa : by Bernt Lie</title>
-      <link>https://www.gutenberg.org/ebooks/78998</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Pakanoita : by Ferenc Herczeg</title>
-      <link>https://www.gutenberg.org/ebooks/78999</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Bismarck in Geschichte, Karikatur und Anekdote : by Paul Liman</title>
-      <link>https://www.gutenberg.org/ebooks/79000</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
     </item>
   </channel>
 </rss>
