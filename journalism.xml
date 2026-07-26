@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>25 Jul 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>26 Jul 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -19,6 +19,7 @@ Her departure to the WNBA, alongside the five other Bruins that were selected in
       <guid>cid://https://dailybruin.com/?p=513481</guid>
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
+      <category>db-story-c1</category>
     </item>    <item>
       <title>Concert review: Suki Waterhouse’s cheeky ‘Loveland Tour’ enchants the Hollywood Forever Cemetery</title>
       <link>https://dailybruin.com/2026/07/24/suki-waterhouses-cheeky-loveland-tour-enchants-the-hollywood-forever-cemetery/</link>
@@ -32,6 +33,7 @@ At the end of a grave-lined dusky walk, Suki Waterhouse welcomed fans into her L
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Music</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>California’s AI regulations could shift with November governor’s race, experts say</title>
       <link>https://dailybruin.com/2026/07/24/californias-ai-regulations-could-shift-with-november-governors-race-experts-say/</link>
@@ -44,6 +46,7 @@ Gov. Gavin Newsom has signed three executive orders on AI since 2023 which direc
       <guid>cid://https://dailybruin.com/?p=513468</guid>
       <category>California</category>
       <category>News</category>
+      <category>db-story-a</category>
     </item>    <item>
       <title>UCPD investigating alleged sexual battery in Olympic Hall dorm room</title>
       <link>https://dailybruin.com/2026/07/23/ucpd-investigating-alleged-sexual-battery-in-olympic-hall-dorm-room/</link>
@@ -58,7 +61,7 @@ The incident occurred inside the victim’s dorm room at midnight Monday, accord
       <category>Crime</category>
       <category>News</category>
       <category>breaking</category>
-      <category>db-story-c1</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Pro Bruin Rundown: Former men’s basketball stars shine in Summer League ahead of NBA start</title>
       <link>https://dailybruin.com/2026/07/22/pro-bruin-rundown-former-mens-basketball-stars-shine-in-summer-league-ahead-of-nba-start/</link>
@@ -69,7 +72,7 @@ The incident occurred inside the victim’s dorm room at midnight Monday, accord
       <guid>cid://https://dailybruin.com/?p=513458</guid>
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
-      <category>db-story-g</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>Opinion: Increasing AI funding is not the solution UCLA students need</title>
       <link>https://dailybruin.com/2026/07/22/opinion-increasing-ai-funding-is-not-the-solution-ucla-students-need/</link>
@@ -107,7 +110,7 @@ Each teaching assistant position cut by the department reduces enrollment capaci
       <category>Academics</category>
       <category>Campus</category>
       <category>News</category>
-      <category>db-story-b</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>Gov. Gavin Newsom appoints podcaster Scott Galloway to UC Board of Regents</title>
       <link>https://dailybruin.com/2026/07/22/gov-gavin-newsom-appoints-podcaster-scott-galloway-to-uc-board-of-regents/</link>
@@ -122,7 +125,7 @@ Galloway – who hosts The Prof G Pod, a tech-focused podcast with up to 100,000
       <category>Regents</category>
       <category>UC</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>“This price was set by an algorithm”: News subscribers are surprised by a new line in their renewal emails</title>
       <link>https://www.niemanlab.org/2026/07/this-price-was-set-by-an-algorithm-news-subscribers-are-surprised-by-a-new-line-in-their-renewal-emails/</link>
@@ -160,7 +163,7 @@ Longer days and warmer evenings bring plenty of excuses to gather around the tab
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Lifestyle</category>
-      <category>db-story-f1</category>
+      <category>db-story-d2</category>
     </item>    <item>
       <title>Search traffic has declined so much that some publishers are considering opting out of Google entirely</title>
       <link>https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/</link>
@@ -311,7 +314,7 @@ The Committee of Interns and Residents, a local affiliate of the Service Employe
       <guid>cid://https://dailybruin.com/?p=513430</guid>
       <category>News</category>
       <category>UC</category>
-      <category>db-story-c2</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Spain wins the FIFA World Cup against Argentina</title>
       <link>https://sundial.csun.edu/219082/featured/spain-wins-the-fifa-world-cup-against-argentina/</link>
@@ -371,7 +374,7 @@ For the first time since 2023, UCLA men’s basketball brought in a five-star fr
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>Sports Columns</category>
-      <category>db-story-f2</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Washington</title>
       <link>https://dailybruin.com/2026/07/19/2026-big-ten-preview-washington/</link>
@@ -383,7 +386,7 @@ For the first time since 2023, UCLA men’s basketball brought in a five-star fr
 UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513367</guid>
       <category>Sports</category>
-      <category>db-story-d1</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Opinion: Finding an internship feels impossible. UCLA must fix that</title>
       <link>https://dailybruin.com/2026/07/19/opinion-finding-an-internship-feels-impossible-ucla-must-fix-that/</link>
@@ -396,7 +399,7 @@ I’m a lifeguard in my hometown.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513363</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
-      <category>db-story-b</category>
+      <category>db-story-h</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>North Westwood Neighborhood Council recap – July 1</title>
@@ -422,22 +425,22 @@ Christopher Nolan’s 2026 action-adventure blockbuster adapts the millennia-old
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
-      <category>db-story-i</category>
+      <category>db-story-j</category>
     </item>    <item>
-      <title>UC regents discuss $350 million funding increase, cuts to scholarships and programs</title>
+      <title>UC regents discuss $350 million funding increase, cuts to scholarships</title>
       <link>https://dailybruin.com/2026/07/18/uc-regents-discuss-350-million-funding-increase-cuts-to-scholarships-and-programs/</link>
       <description>
-        <![CDATA[<em>This post was updated July 20 at 12:30 p.m.</em>
-        While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fiscal year, the approved budget also included cuts to academic programs and scholarships, the UC Board of Regents said.]]>
+        <![CDATA[<em>This post was updated July 25 at 1:55 p.m.</em>
+        While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fiscal year, the approved budget also included cuts to scholarships, the UC Board of Regents said.]]>
       </description>
-      <source:markdown>_This post was updated July 20 at 12:30 p.m._
-While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fiscal year, the approved budget also included cuts to academic programs and scholarships, the UC Board of Regents said.</source:markdown>
+      <source:markdown>_This post was updated July 25 at 1:55 p.m._
+While Gov. Gavin Newsom increased the UC’s state funding for the upcoming fiscal year, the approved budget also included cuts to scholarships, the UC Board of Regents said.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513347</guid>
       <category>Higher Education</category>
       <category>News</category>
       <category>Regents</category>
       <category>UC</category>
-      <category>db-story-h</category>
+      <category>db-story-k</category>
     </item>    <item>
       <title>Album review: Gracie Abrams wrestles with growing up in ‘Daughter from Hell’</title>
       <link>https://dailybruin.com/2026/07/17/gracie-abrams-wrestles-with-growing-up-in-daughter-from-hell/</link>
@@ -1762,64 +1765,6 @@ UCLA is set to enter its third season in the Big Ten, following a sophomore camp
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>db-story-d2</category>
-    </item>    <item>
-      <title>Bruin Racing drives innovation, hands-on experience through student-built vehicles</title>
-      <link>https://dailybruin.com/2026/07/04/bruin-racing-drives-innovation-hands-on-experience-through-student-built-vehicles/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 5 at 10:47 p.m.
-        </em>
-        UCLA’s largest mechanical engineering organization is working to take car racing and sustainable transportation to the next level.]]>
-      </description>
-      <source:markdown>_This post was updated July 5 at 10:47 p.m._
-UCLA’s largest mechanical engineering organization is working to take car racing and sustainable transportation to the next level.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512764</guid>
-      <category>A Closer Look</category>
-      <category>Campus</category>
-      <category>News</category>
-      <category>Science &#38; Health</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>UCLA artist Dea blends storytelling with production-forward rock on first EP</title>
-      <link>https://dailybruin.com/2026/07/04/ucla-artist-dea-blends-storytelling-with-production-forward-rock-on-first-ep/</link>
-      <description>
-        <![CDATA[UCLA student Dea is a new artist in the shoegaze scene, telling stories through cinematic soundscapes, obscured vocals and intentional lyricism. 
-        Dice Tam, a rising second-year music industry student, who goes by the artist name Dea, released his first EP &#8220;SeeYouSoon&#8221; in March 2026.]]>
-      </description>
-      <source:markdown>UCLA student Dea is a new artist in the shoegaze scene, telling stories through cinematic soundscapes, obscured vocals and intentional lyricism.
-Dice Tam, a rising second-year music industry student, who goes by the artist name Dea, released his first EP “SeeYouSoon” in March 2026.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512758</guid>
-      <category>Arts</category>
-      <category>Music</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>North Westwood Neighborhood Council recap – June 3</title>
-      <link>https://dailybruin.com/2026/07/04/north-westwood-neighborhood-council-recap-june-3/</link>
-      <description>
-        <![CDATA[The North Westwood Neighborhood Council elected a new board member and recommended stricter e-bike use policies at its June 3 meeting. 
-        The council, which represents UCLA and Westwood Village, meets on the first Wednesday of every month at UCLA&#8217;s Weyburn Terrace.]]>
-      </description>
-      <source:markdown>The North Westwood Neighborhood Council elected a new board member and recommended stricter e-bike use policies at its June 3 meeting.
-The council, which represents UCLA and Westwood Village, meets on the first Wednesday of every month at UCLA’s Weyburn Terrace.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512754</guid>
-      <category>News</category>
-      <category>Westwood</category>
-      <category>db-story-h</category>
-    </item>    <item>
-      <title>Opinion: The Iran conflict deserves more attention from informed UCLA students</title>
-      <link>https://dailybruin.com/2026/07/03/opinion-the-iran-conflict-deserves-more-attention-from-informed-ucla-students/</link>
-      <description>
-        <![CDATA[This post was updated July 4 at 12:25 a.m.
-        There are two types of UCLA students: those who protest and those who walk by protests.
-        Some feel motivated to speak out.]]>
-      </description>
-      <source:markdown>This post was updated July 4 at 12:25 a.m.
-There are two types of UCLA students: those who protest and those who walk by protests.
-Some feel motivated to speak out.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512749</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-f2</category>
-      <category>db-story-op</category>
     </item>
   </channel>
 </rss>

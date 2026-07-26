@@ -4,10 +4,40 @@
   <channel>
     <title><![CDATA[Healthy Eating, Good Eating and Recipes]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>25 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>26 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>You Need Coffee, But Also, Coffee Needs You</title>
+      <link>https://sprudge.com/you-need-coffee-but-also-coffee-needs-you-1223213.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1223213</guid>
+      <category>Roaster&#39;s Village</category>
+      <category>coffee</category>
+    </item>    <item>
+      <title>19 Eggplant Recipes That Go Beyond Parm</title>
+      <link>https://www.bonappetit.com/gallery/eggplant-recipes</link>
+      <description>
+        <![CDATA[Like bold eggplant bulgogi, silky ratatouille, aromatic biryani, and more.]]>
+      </description>
+      <source:markdown>Like bold eggplant bulgogi, silky ratatouille, aromatic biryani, and more.</source:markdown>
+      <guid>cid://57eac0da0b991f57109daa14</guid>
+      <category>Recipes</category>
+      <category>Cooking</category>
+    </item>    <item>
+      <title>What’s A Good Chili Crisp Substitute?</title>
+      <link>https://pepperscale.com/chili-crisp-substitute/</link>
+      <description>
+        <![CDATA[Ran out of chili crisp? The closest stand-ins are the condiments built the same way. Here's what to reach for, what to skip, and how to fake it from your pantry.]]>
+      </description>
+      <source:markdown>Ran out of chili crisp? The closest stand-ins are the condiments built the same way. Here&#39;s what to reach for, what to skip, and how to fake it from your pantry.</source:markdown>
+      <guid>cid://https://pepperscale.com/?p=102616</guid>
+      <category>Chili Pepper Substitutes</category>
+      <category>Fun &#38; Learning</category>
+    </item>    <item>
       <title>Banana Pepper Uses: What To Do With Them, Fresh Or Pickled</title>
       <link>https://pepperscale.com/banana-pepper-uses/</link>
       <description>
@@ -68,15 +98,15 @@
       <category>Condiments</category>
       <category>Spicy Recipes</category>
     </item>    <item>
-      <title>Here’s What State Fair Menus Looked Like Across the Country in 1955</title>
+      <title>This Is What a State Fair Menu Looked Like in 1955</title>
       <link>https://www.tasteofhome.com/article/state-fair-foods-1955/</link>
       <description>
         <![CDATA[<p>Food stands were full of regional goodies before deep-fried Oreos stole the spotlight and menus all started looking the same.</p>
-        <p>The post <a href="https://www.tasteofhome.com/article/state-fair-foods-1955/">Here&#8217;s What State Fair Menus Looked Like Across the Country in 1955</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+        <p>The post <a href="https://www.tasteofhome.com/article/state-fair-foods-1955/">This Is What a State Fair Menu Looked Like in 1955</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
       <source:markdown>Food stands were full of regional goodies before deep-fried Oreos stole the spotlight and menus all started looking the same.
 
-The post [Here’s What State Fair Menus Looked Like Across the Country in 1955](https://www.tasteofhome.com/article/state-fair-foods-1955/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
+The post [This Is What a State Fair Menu Looked Like in 1955](https://www.tasteofhome.com/article/state-fair-foods-1955/) appeared first on [Taste of Home](https://www.tasteofhome.com).</source:markdown>
       <guid>cid://https://www.tasteofhome.com/?p=2257872</guid>
       <category>News</category>
       <category>Trends</category>
@@ -558,6 +588,7 @@ The post [Cottage Cheese Egg Salad](https://www.closetcooking.com/cottage-cheese
 [Read more](https://pepperscale.com/hungarian-wax-pepper-substitute/#more-91420 &#34;What’s A Good Hungarian Wax Pepper Substitute?&#34;)</source:markdown>
       <guid>cid://https://www.pepperscale.com/?p=91420</guid>
       <category>Chili Pepper Substitutes</category>
+      <category>Fun &#38; Learning</category>
     </item>    <item>
       <title>Hungarian Wax Peppers: Heat, Flavor, Ingredient Pairings</title>
       <link>https://pepperscale.com/hungarian-wax-pepper/</link>
