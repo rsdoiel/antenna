@@ -4,10 +4,18 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>27 Jul 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/07/26 - Minitel Magis teardown - again.</title>
+      <link>https://heyrick.eu/blog/entry/20260726</link>
+      <description>
+        <![CDATA[Minitel Magis teardown - again.]]>
+      </description>
+      <source:markdown>Minitel Magis teardown - again.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260726</guid>
+    </item>    <item>
       <title>b.log 2026/07/25 - Big Town, Strings, Minitel Magis (test and teardown).</title>
       <link>https://heyrick.eu/blog/entry/20260725</link>
       <description>
@@ -418,14 +426,6 @@
       <source:markdown>Using the _cloc_ utility, [Michael Larabel of Phoronix](https://www.phoronix.com/news/Linux-7.2-43-Million-Lines) discovered that Linux kernel 7.2 has over 43 million lines of code.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://a502bc4c3a3710fefa780f1b07204a68</guid>
-    </item>    <item>
-      <title>b.log 2026/07/05 - Mamie v0.38L (Linux), Stuff from Lidl, Cheap handheld game console.</title>
-      <link>https://heyrick.eu/blog/entry/20260705</link>
-      <description>
-        <![CDATA[Mamie v0.38L (Linux), Stuff from Lidl, Cheap handheld game console.]]>
-      </description>
-      <source:markdown>Mamie v0.38L (Linux), Stuff from Lidl, Cheap handheld game console.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260705</guid>
     </item>
   </channel>
 </rss>

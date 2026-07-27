@@ -6,10 +6,29 @@
     <description><![CDATA[Craft is a list of hand oriented craft and technology
 Do we really need all those power tools?]]></description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>26 Jul 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>27 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>An American, an Irish Chair, in Germany</title>
+      <link>https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/</link>
+      <description>
+        <![CDATA[I&#8217;ve taught woodworking At Dictum GmbH in Germany for many years. And it&#8217;s always a bit disorienting (but fun). I&#8217;m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch&#8230;. And the class is in Bavaria. But...]]>
+      </description>
+      <source:markdown>I’ve taught woodworking At Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70354</guid>
+      <category>Build a Gibson Chair</category>
+      <category>Woodworking Classes</category>
+    </item>    <item>
+      <title>Kill Wood-boring Insects with Kitchen Appliances</title>
+      <link>https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/</link>
+      <description>
+        <![CDATA[When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 racoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...]]>
+      </description>
+      <source:markdown>When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 racoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70351</guid>
+      <category>Techniques</category>
+    </item>    <item>
       <title>The Splinter Report: July 24th</title>
       <link>https://www.popularwoodworking.com/editors-blog/splinter-report-july-24th/</link>
       <description>
@@ -446,16 +465,6 @@ Do we really need all those power tools?]]></description>
       <guid>cid://https://blog.lostartpress.com/?p=70277</guid>
       <category>Uncategorized</category>
       <category>Smalls</category>
-    </item>    <item>
-      <title>Coming in 2027: A New Woodworking School in Covington</title>
-      <link>https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/</link>
-      <description>
-        <![CDATA[Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...]]>
-      </description>
-      <source:markdown>Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70268</guid>
-      <category>Anthe Building</category>
-      <category>Woodworking Classes</category>
     </item>
   </channel>
 </rss>

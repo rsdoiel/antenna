@@ -7,6 +7,7 @@ title: Selected NOAA Forcasts
 
 - [Santa Clarita](https://forecast.weather.gov/MapClick.php?lat=34.4523673&lon=-118.5151005)
 - [Goleta](https://forecast.weather.gov/MapClick.php?lat=34.433&lon=-119.8569)
+- [Hawaii](https://forecast.weather.gov/MapClick.php?lat=21.2961&lon=-157.8157)
 - [Vancover, WA](https://forecast.weather.gov/MapClick.php?lat=45.631061&lon=-122.671567)
 - [Brentwood, CA](https://forecast.weather.gov/MapClick.php?lat=37.9307&lon=-121.7053)
 - [Guam](https://forecast.weather.gov/MapClick.php?lat=13.4436&lon=144.7776), [Public Forecasts](https://www.weather.gov/gum/PublicForecasts)

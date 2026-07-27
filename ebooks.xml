@@ -4,10 +4,76 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>26 Jul 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>27 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The gods of Mars by Edgar Rice Burroughs</title>
+      <link>https://www.gutenberg.org/ebooks/64</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pariahs of Piperock by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79184</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Vögel auf der Reise by Dr. Kurt Floericke</title>
+      <link>https://www.gutenberg.org/ebooks/79185</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Elämän unelmia : by Rudolf Herzog</title>
+      <link>https://www.gutenberg.org/ebooks/79186</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Hellettä by Santeri Ivalo</title>
+      <link>https://www.gutenberg.org/ebooks/79187</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Pirates from Piperock by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79188</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Promoting Polecat Perkins by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79189</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A brief grammar of the Portuguese language with exercises and vocabularies by John Casper Branner</title>
+      <link>https://www.gutenberg.org/ebooks/79190</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Rescue, by Joseph Conrad</title>
+      <link>https://standardebooks.org/ebooks/joseph-conrad/the-rescue</link>
+      <description>
+        <![CDATA[The captain of a cargo ship is forced to rescue the passangers and crew of a yacht stranded on a Malaysian island.]]>
+      </description>
+      <source:markdown>The captain of a cargo ship is forced to rescue the passangers and crew of a yacht stranded on a Malaysian island.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rescue/downloads/joseph-conrad_the-rescue.epub?source=feed" length="549634" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-rescue</guid>
+      <category>Fiction</category>
+    </item>    <item>
       <title>Monkeying with ancestors by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79178</link>
       <description>
@@ -38,20 +104,6 @@
     </item>    <item>
       <title>The Japanese empire : by Harry Alverson Franck</title>
       <link>https://www.gutenberg.org/ebooks/79183</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The gods of Mars by Edgar Rice Burroughs</title>
-      <link>https://www.gutenberg.org/ebooks/64</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pariahs of Piperock by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79184</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1571,104 +1623,6 @@
     </item>    <item>
       <title>The enterprising burglar by Hearnden Balfour</title>
       <link>https://www.gutenberg.org/ebooks/79026</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant — Volume 1 by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/1067</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Personal Memoirs of U. S. Grant, Part 2. by Ulysses S.  Grant</title>
-      <link>https://www.gutenberg.org/ebooks/5861</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Theophano : by Frederic Harrison</title>
-      <link>https://www.gutenberg.org/ebooks/79024</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The poetical works of Edgar Allan Poe by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/79019</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mexico and Central America : by Harry Alverson Franck</title>
-      <link>https://www.gutenberg.org/ebooks/79021</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Outline of Mexican popular arts and crafts by Katherine Anne Porter</title>
-      <link>https://www.gutenberg.org/ebooks/79018</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The heart of an orphan by Amanda Mathews Chase</title>
-      <link>https://www.gutenberg.org/ebooks/79015</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Master Hope by Phyllis Bottome</title>
-      <link>https://www.gutenberg.org/ebooks/79023</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Spring fire by Vin Packer</title>
-      <link>https://www.gutenberg.org/ebooks/79013</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Gestalt psychology by Wolfgang Köhler</title>
-      <link>https://www.gutenberg.org/ebooks/79014</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>La vraie vie de Saint Vincent de Paul by Antoine Redier</title>
-      <link>https://www.gutenberg.org/ebooks/79016</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Journal de la société de 1789 Nº V by marquis de Jean-Antoine-Nicolas de Caritat Condorcet</title>
-      <link>https://www.gutenberg.org/ebooks/79017</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Collected works of Padraic H. Pearse : by Padraic Pearse</title>
-      <link>https://www.gutenberg.org/ebooks/79022</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The spoon : by Thomas Ewbank</title>
-      <link>https://www.gutenberg.org/ebooks/79020</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
