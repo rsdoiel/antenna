@@ -4,10 +4,115 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>27 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>28 Jul 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Robert Louis Stevenson reader by Catherine T.  Bryce and Robert Louis Stevenson</title>
+      <link>https://www.gutenberg.org/ebooks/79196</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The medical aspects of death, and the medical aspects of the human mind by James Bower Harrison</title>
+      <link>https://www.gutenberg.org/ebooks/79198</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sense and Sensibility by Jane Austen</title>
+      <link>https://www.gutenberg.org/ebooks/21839</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Runotarinoita by Ruupert Kainulainen</title>
+      <link>https://www.gutenberg.org/ebooks/79197</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>How to read and correct proof by Lloyd E.  Smith</title>
+      <link>https://www.gutenberg.org/ebooks/79200</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Syylliset ja syyttömät : by Lauri Haarla</title>
+      <link>https://www.gutenberg.org/ebooks/79199</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Alley ways by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79202</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fire by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79192</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Groping by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79191</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The double-crossing of Dobie by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79201</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The proof by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79194</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Key to palmistry by Louis Williams</title>
+      <link>https://www.gutenberg.org/ebooks/79203</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The drums roll by Ernest Haycox</title>
+      <link>https://www.gutenberg.org/ebooks/79193</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
+      <link>https://www.gutenberg.org/ebooks/561</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Abused Russia by Charles Christian Young</title>
+      <link>https://www.gutenberg.org/ebooks/79195</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The gods of Mars by Edgar Rice Burroughs</title>
       <link>https://www.gutenberg.org/ebooks/64</link>
       <description>
@@ -1515,118 +1620,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Basil, by Wilkie Collins</title>
-      <link>https://standardebooks.org/ebooks/wilkie-collins/basil</link>
-      <description>
-        <![CDATA[An aristocratic young man falls in love at first sight with a lower-class girl on an omnibus, with disastrous consequences.]]>
-      </description>
-      <source:markdown>An aristocratic young man falls in love at first sight with a lower-class girl on an omnibus, with disastrous consequences.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/wilkie-collins/basil/downloads/wilkie-collins_basil.epub?source=feed" length="605681" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/wilkie-collins/basil</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Short Science Fiction, by Noel Loomis</title>
-      <link>https://standardebooks.org/ebooks/noel-loomis/short-science-fiction</link>
-      <description>
-        <![CDATA[A collection of short science fiction stories by Noel Loomis.]]>
-      </description>
-      <source:markdown>A collection of short science fiction stories by Noel Loomis.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/noel-loomis/short-science-fiction/downloads/noel-loomis_short-science-fiction.epub?source=feed" length="558999" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/noel-loomis/short-science-fiction</guid>
-      <category>Science Fiction</category>
-      <category>Shorts</category>
-    </item>    <item>
-      <title>The matrimonial bureau by Harry Persons Taber and Carolyn Wells</title>
-      <link>https://www.gutenberg.org/ebooks/79028</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Elämän hurma by Stefan Żeromski</title>
-      <link>https://www.gutenberg.org/ebooks/79033</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Tolstoy on art by graf. Leo Tolstoy</title>
-      <link>https://www.gutenberg.org/ebooks/79027</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Forsytein taru I by John Galsworthy</title>
-      <link>https://www.gutenberg.org/ebooks/79034</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Forsytein taru II by John Galsworthy</title>
-      <link>https://www.gutenberg.org/ebooks/79035</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Kenilworth, vol. 1/4 by Walter Scott</title>
-      <link>https://www.gutenberg.org/ebooks/79029</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Kenilworth, vol. 2/4 by Walter Scott</title>
-      <link>https://www.gutenberg.org/ebooks/79030</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Kenilworth, vol. 3/4 by Walter Scott</title>
-      <link>https://www.gutenberg.org/ebooks/79031</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Kenilworth, vol. 4/4 by Walter Scott</title>
-      <link>https://www.gutenberg.org/ebooks/79032</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Pakolaiset I : by Arthur Conan Doyle</title>
-      <link>https://www.gutenberg.org/ebooks/79036</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Pakolaiset II : by Arthur Conan Doyle</title>
-      <link>https://www.gutenberg.org/ebooks/79037</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Das Proletariat und die Waldungen, mit besonderer Berücksichtigung der bayerischen Rhein-Pfalz.</title>
-      <link>https://www.gutenberg.org/ebooks/79025</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The enterprising burglar by Hearnden Balfour</title>
-      <link>https://www.gutenberg.org/ebooks/79026</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

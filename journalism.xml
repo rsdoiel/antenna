@@ -4,10 +4,79 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>27 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>28 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UCLA TFT, Sundance partnership aims to teach filmmaking beyond the classroom</title>
+      <link>https://dailybruin.com/2026/07/27/ucla-tft-sundance-partnership-aims-to-teach-filmmaking-beyond-the-classroom/</link>
+      <description>
+        <![CDATA[Learning how to write screenplays, operate cameras or edit scenes is only the beginning for many aspiring filmmakers.
+        The harder lessons &#8211; including how to form industry relationships, navigate professional spaces and craft a sustainable career from creative work &#8211; are often taught beyond the classroom.]]>
+      </description>
+      <source:markdown>Learning how to write screenplays, operate cameras or edit scenes is only the beginning for many aspiring filmmakers.
+The harder lessons – including how to form industry relationships, navigate professional spaces and craft a sustainable career from creative work – are often taught beyond the classroom.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513593</guid>
+      <category>Arts</category>
+      <category>Film &#38; TV</category>
+      <category>Theater &#38; Fine Arts</category>
+      <category>db-story-b</category>
+    </item>    <item>
+      <title>Lauren Betts takes home 2026 Collegiate Woman Athlete of the Year award</title>
+      <link>https://dailybruin.com/2026/07/27/lauren-betts-takes-home-2026-collegiate-woman-athlete-of-the-year-award/</link>
+      <description>
+        <![CDATA[The awards just keep on coming.
+        Former UCLA women’s basketball center Lauren Betts won the 2026 Collegiate Woman Athlete of the Year award presented by Honda on Monday.]]>
+      </description>
+      <source:markdown>The awards just keep on coming.
+Former UCLA women’s basketball center Lauren Betts won the 2026 Collegiate Woman Athlete of the Year award presented by Honda on Monday.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513590</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Basketball</category>
+      <category>breaking</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>2026 Big Ten Preview: Minnesota</title>
+      <link>https://dailybruin.com/2026/07/27/2026-big-ten-preview-minnesota/</link>
+      <description>
+        <![CDATA[UCLA is set to enter its third season in the Big Ten following a sophomore campaign in which the program captured three NCAA championships – the most of any Big Ten school.]]>
+      </description>
+      <source:markdown>UCLA is set to enter its third season in the Big Ten following a sophomore campaign in which the program captured three NCAA championships – the most of any Big Ten school.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513577</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Basketball</category>
+      <category>db-story-g</category>
+    </item>    <item>
+      <title>Tacos, elk sheds, and Facebook ads: How some local news sites saw their traffic spike</title>
+      <link>https://www.niemanlab.org/2026/07/tacos-elk-sheds-and-facebook-ads-how-some-local-news-sites-saw-their-traffic-spike/</link>
+      <description>
+        <![CDATA[It&#8217;s time for our latest look at which newsrooms are having success increasing their web traffic. We bring you four of these each quarter, looking at four different market segments: local newspapers, nonprofit news outlets, public media stations, and for-profit local news sites. Today&#8217;s edition looks at local for-profit news sites. (Eligible sites for this...]]>
+      </description>
+      <source:markdown>It’s time for our latest look at which newsrooms are having success increasing their web traffic. We bring you four of these each quarter, looking at four different market segments: local newspapers, nonprofit news outlets, public media stations, and for-profit local news sites. Today’s edition looks at local for-profit news sites. (Eligible sites for this...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=251720</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>Buckrail</category>
+      <category>L.A. Taco</category>
+      <category>LION Publishers</category>
+      <category>local news</category>
+      <category>Lost Coast Outpost</category>
+      <category>Muddy River News</category>
+      <category>Oil City News</category>
+      <category>TAPinto</category>
+      <category>the Triibe</category>
+      <category>traffic rankings</category>
+    </item>    <item>
+      <title>LGBTQ+ outlet LOOKOUT aims to expand throughout the Southwest, and beyond</title>
+      <link>https://www.niemanlab.org/2026/07/lgbtq-outlet-lookout-aims-to-expand-throughout-the-southwest-and-beyond/</link>
+      <description>
+        <![CDATA[Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...]]>
+      </description>
+      <source:markdown>Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper’s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it’s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is “Fierce. Independent. Queer” — is working...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=251871</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+    </item>    <item>
       <title>Daily Bruin Print Issue – July 27, 2026</title>
       <link>https://dailybruin.com/2026/07/27/daily-bruin-print-issue-july-27-2026/</link>
       <description>
@@ -28,7 +97,7 @@
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>Sports Columns</category>
-      <category>db-story-g</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Video game preview: Colorful worlds and cozy adventures await in these new summer releases</title>
       <link>https://dailybruin.com/2026/07/26/video-game-preview-colorful-worlds-and-cozy-adventures-await-in-these-new-summer-releases/</link>
@@ -67,7 +136,7 @@ UCLA researchers are pushing for Los Angeles to build more shade infrastructure 
       <guid>cid://https://dailybruin.com/?p=513505</guid>
       <category>Graphics</category>
       <category>Interactive Page</category>
-      <category>db-story-f1</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Pro Bruin Rundown: Former UCLA women’s basketball players make their marks in the 2026 WNBA season</title>
       <link>https://dailybruin.com/2026/07/26/pro-bruin-rundown-former-ucla-womens-basketball-players-make-their-marks-in-the-2026-wnba-season/</link>
@@ -78,7 +147,7 @@ UCLA researchers are pushing for Los Angeles to build more shade infrastructure 
       <guid>cid://https://dailybruin.com/?p=513513</guid>
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
-      <category>db-story-c1</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>Q&#38;A: Professor Gail Wyatt discusses mental health advocacy in marginalized communities</title>
       <link>https://dailybruin.com/2026/07/26/qa-professor-gail-wyatt-discusses-mental-health-advocacy-in-marginalized-communities/</link>
@@ -95,7 +164,7 @@ The month honors Campbell, an advocate and author who co-founded the National Al
       <category>National</category>
       <category>News</category>
       <category>Science &#38; Health</category>
-      <category>db-story-c2</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>Editorial: UC’s defense of transgender students is nonnegotiable amid Defending Education lawsuit</title>
       <link>https://dailybruin.com/2026/07/26/editorial-ucs-defense-of-transgender-students-is-nonnegotiable-amid-defending-education-lawsuit/</link>
@@ -126,7 +195,7 @@ The live stage recording captures the essence of theater and makes the audience 
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
       <category>Theater &#38; Fine Arts</category>
-      <category>db-story-b</category>
+      <category>db-story-j</category>
     </item>    <item>
       <title>Sienna Betts leads a new-look UCLA women’s basketball team in exhibition loss to Canada</title>
       <link>https://dailybruin.com/2026/07/24/sienna-betts-leads-a-new-look-ucla-womens-basketball-team-in-exhibition-loss-to-canada/</link>
@@ -139,7 +208,7 @@ Her departure to the WNBA, alongside the five other Bruins that were selected in
       <guid>cid://https://dailybruin.com/?p=513481</guid>
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
-      <category>db-story-f2</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>Concert review: Suki Waterhouse’s cheeky ‘Loveland Tour’ enchants the Hollywood Forever Cemetery</title>
       <link>https://dailybruin.com/2026/07/24/suki-waterhouses-cheeky-loveland-tour-enchants-the-hollywood-forever-cemetery/</link>
@@ -168,7 +237,7 @@ Gov. Gavin Newsom has signed three executive orders on AI since 2023 which direc
       <guid>cid://https://dailybruin.com/?p=513468</guid>
       <category>California</category>
       <category>News</category>
-      <category>db-story-h</category>
+      <category>db-story-k</category>
     </item>    <item>
       <title>UCPD investigating alleged sexual battery in Olympic Hall dorm room</title>
       <link>https://dailybruin.com/2026/07/23/ucpd-investigating-alleged-sexual-battery-in-olympic-hall-dorm-room/</link>
@@ -194,7 +263,7 @@ The incident occurred inside the victim’s dorm room at midnight Monday, accord
       <guid>cid://https://dailybruin.com/?p=513458</guid>
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
-      <category>db-story-b</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>Opinion: Increasing AI funding is not the solution UCLA students need</title>
       <link>https://dailybruin.com/2026/07/22/opinion-increasing-ai-funding-is-not-the-solution-ucla-students-need/</link>
@@ -205,7 +274,7 @@ The incident occurred inside the victim’s dorm room at midnight Monday, accord
       <guid>cid://https://dailybruin.com/?p=513453</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
-      <category>db-story-d1</category>
+      <category>db-story-i</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>What Makes Saratoga Race Course One of America’s Most Historic Tracks</title>
@@ -1692,141 +1761,6 @@ But Monday, the SEC took a bite out of the Bruins.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=512868</guid>
       <category>Print</category>
       <category>db-story-h</category>
-    </item>    <item>
-      <title>2026 Big Ten Preview: Illinois</title>
-      <link>https://dailybruin.com/2026/07/06/2026-big-ten-preview-illinois/</link>
-      <description>
-        <![CDATA[UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships &#8211; the most of any Big Ten school.]]>
-      </description>
-      <source:markdown>UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any Big Ten school.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512876</guid>
-      <category>Football</category>
-      <category>Men&#39;s Basketball</category>
-      <category>Sports</category>
-      <category>Women&#39;s Basketball</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>San Fernando Valley restaurant hosts FIFA World Cup watch party</title>
-      <link>https://sundial.csun.edu/218702/featured/san-fernando-valley-restaurant-hosts-fifa-world-cup-watch-party/</link>
-      <description>
-        <![CDATA[Cafe Buenos Aires hosted a watch party for the final day of the FIFA World Cup Round of 32, bringing Argentina fans together to celebrate the team&#8217;s nail-biting 3-2 victory...]]>
-      </description>
-      <source:markdown>Cafe Buenos Aires hosted a watch party for the final day of the FIFA World Cup Round of 32, bringing Argentina fans together to celebrate the team’s nail-biting 3-2 victory...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218702</guid>
-      <category>Featured</category>
-      <category>Multimedia</category>
-      <category>Videos</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>San Fernando Valley restaurant hosts FIFA World Cup watch party</title>
-      <link>https://sundial.csun.edu/218702/world-cup/san-fernando-valley-restaurant-hosts-fifa-world-cup-watch-party/</link>
-      <description>
-        <![CDATA[Cafe Buenos Aires hosted a watch party for the final day of the FIFA World Cup Round of 32, bringing Argentina fans together to celebrate the team&#8217;s nail-biting 3-2 victory...]]>
-      </description>
-      <source:markdown>Cafe Buenos Aires hosted a watch party for the final day of the FIFA World Cup Round of 32, bringing Argentina fans together to celebrate the team’s nail-biting 3-2 victory...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218702</guid>
-      <category>Featured</category>
-      <category>Multimedia</category>
-      <category>Videos</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>A quiet shift in how Americans perceive local news</title>
-      <link>https://www.niemanlab.org/2026/07/a-quiet-shift-in-how-americans-perceive-local-news/</link>
-      <description>
-        <![CDATA[Local news has long been an exception to a troubling trend. Even as trust in national news organizations eroded over the past decade and partisan divides over the media widened, local news largely held its ground — majorities of both Republicans and Democrats continued to rate their local news media favorably. Despite facing major financial...]]>
-      </description>
-      <source:markdown>Local news has long been an exception to a troubling trend. Even as trust in national news organizations eroded over the past decade and partisan divides over the media widened, local news largely held its ground — majorities of both Republicans and Democrats continued to rate their local news media favorably. Despite facing major financial...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251289</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>local news</category>
-      <category>Pew Research Center</category>
-      <category>trust in local news</category>
-    </item>    <item>
-      <title>The New York Times appears to be cracking down on login sharing</title>
-      <link>https://www.niemanlab.org/2026/07/the-new-york-times-appears-to-be-cracking-down-on-login-sharing/</link>
-      <description>
-        <![CDATA[Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can&#39;t use my old coworker&#39;s mom&#39;s account that I&#39;ve...]]>
-      </description>
-      <source:markdown>Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker’s mom’s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can&#39;t use my old coworker&#39;s mom&#39;s account that I&#39;ve...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251240</guid>
-      <category>Link post</category>
-      <category>Disney</category>
-      <category>family plans</category>
-      <category>login sharing</category>
-      <category>Netflix</category>
-      <category>New York Times</category>
-    </item>    <item>
-      <title>“We cannot be in this journalism silo”: News Futures tries to grow a civic media field</title>
-      <link>https://www.niemanlab.org/2026/07/we-cannot-be-in-this-journalism-silo-news-futures-tries-to-grow-a-civic-media-field/</link>
-      <description>
-        <![CDATA[&#8220;We are sitting in the middle of a fucking polycrisis.&#8221; That&#8217;s how Darryl Holliday introduced the first-ever News Futures Convention in San Francisco in March. While the idea of being in crisis is a common theme of U.S. journalism conferences, this was not a traditional journalism conference. News Futures, fiscally sponsored by the nonprofit civic...]]>
-      </description>
-      <source:markdown>“We are sitting in the middle of a fucking polycrisis.” That’s how Darryl Holliday introduced the first-ever News Futures Convention in San Francisco in March. While the idea of being in crisis is a common theme of U.S. journalism conferences, this was not a traditional journalism conference. News Futures, fiscally sponsored by the nonprofit civic...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251269</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>Carrie Brown</category>
-      <category>Darryl Holliday</category>
-      <category>Jennifer Brandel</category>
-      <category>News Futures</category>
-    </item>    <item>
-      <title>Crimewatch: June 2026</title>
-      <link>https://dailybruin.com/2026/07/06/crimewatch-june-2026/</link>
-      <description>
-        <![CDATA[Sources: UCPD. Graphic reporting by Julian Duaybis, Metro editor. Interactive by Bianca Peralta, Data editor.
-        UCPD recorded 554 unique entries in its June 1-30 daily crime log.]]>
-      </description>
-      <source:markdown>Sources: UCPD. Graphic reporting by Julian Duaybis, Metro editor. Interactive by Bianca Peralta, Data editor.
-UCPD recorded 554 unique entries in its June 1-30 daily crime log.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512864</guid>
-      <category>Campus</category>
-      <category>Crime</category>
-      <category>News</category>
-      <category>Westwood</category>
-    </item>    <item>
-      <title>Gallery: 2026 LA Pride Parade fills Hollywood Boulevard with celebration, community</title>
-      <link>https://dailybruin.com/2026/07/06/gallery-2026-la-pride-parade-fills-hollywood-boulevard-with-celebration-community/</link>
-      <description>
-        <![CDATA[For some, June brings sweltering heat. For others, it’s a chance to breathe.
-        The oldest Pride parade in Southern California returned to Hollywood Boulevard on June 14.]]>
-      </description>
-      <source:markdown>For some, June brings sweltering heat. For others, it’s a chance to breathe.
-The oldest Pride parade in Southern California returned to Hollywood Boulevard on June 14.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512849</guid>
-      <category>Daily Bruin: In Focus</category>
-      <category>News: In Focus</category>
-      <category>db-story-m1</category>
-    </item>    <item>
-      <title>Opinion: The internet is a lawless land. We need to change that</title>
-      <link>https://dailybruin.com/2026/07/05/the-internet-is-a-lawless-land-we-need-to-change-that/</link>
-      <description>
-        <![CDATA[Imagine the internet as a bustling city. There are people, shops, histories and homes, but no city hall or police.
-        Now, let’s say a crime was committed.]]>
-      </description>
-      <source:markdown>Imagine the internet as a bustling city. There are people, shops, histories and homes, but no city hall or police.
-Now, let’s say a crime was committed.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512834</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-h</category>
-      <category>db-story-op</category>
-    </item>    <item>
-      <title>CJ Weinstein flips from LSU baseball, commits to UCLA</title>
-      <link>https://dailybruin.com/2026/07/05/cj-weinstein-flips-from-lsu-baseball-commits-to-ucla/</link>
-      <description>
-        <![CDATA[UCLA baseball landed its best 2026 recruit yet Sunday.
-        Shortstop CJ Weinstein announced his commitment to UCLA via Instagram on Sunday afternoon, flipping from LSU.&#160;
-        Perfect Game’s No.]]>
-      </description>
-      <source:markdown>UCLA baseball landed its best 2026 recruit yet Sunday.
-Shortstop CJ Weinstein announced his commitment to UCLA via Instagram on Sunday afternoon, flipping from LSU.
-Perfect Game’s No.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512807</guid>
-      <category>Baseball</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>db-story-g</category>
     </item>
   </channel>
 </rss>

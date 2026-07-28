@@ -5,10 +5,89 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>27 Jul 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>28 Jul 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>SoCal cools down this week, but don’t get too comfortable</title>
+      <link>https://laist.com/news/climate-environment/socal-cools-down-this-week-but-more-heat-coming</link>
+      <description>
+        <![CDATA[Temperatures and the humidity will dip slightly for a few days. Meanwhile, dangerous beach conditions have led to almost 2,000 rescues in L.A. County.]]>
+      </description>
+      <source:markdown>Temperatures and the humidity will dip slightly for a few days. Meanwhile, dangerous beach conditions have led to almost 2,000 rescues in L.A. County.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-a62a-d36c-a3bf-aeeeaac80000</guid>
+    </item>    <item>
+      <title>An LA County sheriff oversight panel now has subpoena power. So why hasn&#39;t it been able to use it?</title>
+      <link>https://laist.com/news/criminal-justice/la-county-sheriff-oversight-panel-subpoena-power</link>
+      <description>
+        <![CDATA[Labor law requirements that L.A. County meet and confer with unions before changing policy are getting in the way of oversight.]]>
+      </description>
+      <source:markdown>Labor law requirements that L.A. County meet and confer with unions before changing policy are getting in the way of oversight.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-a5ce-d36c-a3bf-adce164b0000</guid>
+    </item>    <item>
+      <title>An Art Show Honoring Sex Work Is Hidden Inside a Fashion District Gallery</title>
+      <link>https://lataco.com/99-warehouse-stripper-art-gallery</link>
+      <description>
+        <![CDATA[<p>"I chose Beverly as my stripper name 'cause I was born in a car on Beverly and Western in Koreatown," Michaela Campbell, who hosted the night's event, tells L.A. TACO.</p>
+        <p>The post <a href="https://lataco.com/99-warehouse-stripper-art-gallery">An Art Show Honoring Sex Work Is Hidden Inside a Fashion District Gallery</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>&#34;I chose Beverly as my stripper name &#39;cause I was born in a car on Beverly and Western in Koreatown,&#34; Michaela Campbell, who hosted the night&#39;s event, tells L.A. TACO.
+
+The post [An Art Show Honoring Sex Work Is Hidden Inside a Fashion District Gallery](https://lataco.com/99-warehouse-stripper-art-gallery) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=181882</guid>
+      <category>Events</category>
+      <category>Featured</category>
+      <category>Taco Members Only</category>
+      <category>sex work</category>
+      <category>strippers</category>
+    </item>    <item>
+      <title>Meet the Legendary Chicano Behind 1-800-AUTOPSY Who ID’d the Night Stalker</title>
+      <link>https://lataco.com/vidal-herrera-medical-investigator</link>
+      <description>
+        <![CDATA[<p>The dude also protested during the Chicano Moratorium and created an iconic art piece representing East Los Angeles.</p>
+        <p>The post <a href="https://lataco.com/vidal-herrera-medical-investigator">Meet the Legendary Chicano Behind 1-800-AUTOPSY Who ID&#8217;d the Night Stalker</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>The dude also protested during the Chicano Moratorium and created an iconic art piece representing East Los Angeles.
+
+The post [Meet the Legendary Chicano Behind 1-800-AUTOPSY Who ID’d the Night Stalker](https://lataco.com/vidal-herrera-medical-investigator) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=181842</guid>
+      <category>Featured</category>
+      <category>Los Angeles</category>
+      <category>People</category>
+      <category>Taco Members Only</category>
+    </item>    <item>
+      <title>California bill would let abuse victims use trauma as legal defense for violent crime</title>
+      <link>https://laist.com/news/politics/california-bill-would-let-abuse-victims-use-trauma-as-legal-defense-for-violent-crime</link>
+      <description>
+        <![CDATA[For the fourth year in a row, California lawmakers are weighing whether to give violent criminals the legal right to cite abuse in their defense.]]>
+      </description>
+      <source:markdown>For the fourth year in a row, California lawmakers are weighing whether to give violent criminals the legal right to cite abuse in their defense.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-a48d-d882-abbf-b7df031c0000</guid>
+    </item>    <item>
+      <title>More people are showing up to hospitals in ICE custody. A new report teaches staff how to respond</title>
+      <link>https://laist.com/news/politics/national-immigration-law-center-ice-custody-report</link>
+      <description>
+        <![CDATA[Doctors, nurses and other staff are learning how to make legally valid requests of federal immigration agents — and what to do if officers refuse to comply.]]>
+      </description>
+      <source:markdown>Doctors, nurses and other staff are learning how to make legally valid requests of federal immigration agents — and what to do if officers refuse to comply.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-9661-def4-a1ff-be692bf20000</guid>
+    </item>    <item>
+      <title>Feds move to drop case against LA labor leader David Huerta</title>
+      <link>https://laist.com/news/politics/feds-move-to-drop-case-against-la-labor-leader-david-huerta</link>
+      <description>
+        <![CDATA[Prosecutors filed a motion Monday to drop their case against Huerta, a year after he was arrested for protesting an ICE raid.]]>
+      </description>
+      <source:markdown>Prosecutors filed a motion Monday to drop their case against Huerta, a year after he was arrested for protesting an ICE raid.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-a4a8-db46-a9ff-afacce990000</guid>
+    </item>    <item>
+      <title>What do you think about the Olympics coming to Long Beach? Let the city know</title>
+      <link>https://laist.com/news/what-do-you-think-about-the-olympics-coming-to-long-beach-let-the-city-know</link>
+      <description>
+        <![CDATA[An online survey is open now for residents to share any feelings and concerns, as well as indicate what kind of free activities they’d like to see.]]>
+      </description>
+      <source:markdown>An online survey is open now for residents to share any feelings and concerns, as well as indicate what kind of free activities they’d like to see.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-a45a-def4-a1ff-ac5b48ae0000</guid>
+    </item>    <item>
       <title>Will becoming a charter city solve Orange&#39;s financial struggles? Voters will decide this fall</title>
       <link>https://laist.com/news/politics/charter-city-solve-orange-financial-struggles-voters-will-decide</link>
       <description>
@@ -16,6 +95,14 @@
       </description>
       <source:markdown>Voters will be asked in November if the city should adopt the charter model. Other OC cities like Santa Ana and Huntington Beach have adopted charters.</source:markdown>
       <guid>cid://urn:uuid:0000019f-9560-db46-a9ff-bfe421110000</guid>
+    </item>    <item>
+      <title>Eaton Fire survivors: What’s been your experience with Edison’s compensation program?</title>
+      <link>https://laist.com/news/climate-environment/eaton-fire-survivors-edison-compensation-program-survey</link>
+      <description>
+        <![CDATA[The deadline to apply is this fall and LAist wants to hear how the program has or has not benefited survivors.]]>
+      </description>
+      <source:markdown>The deadline to apply is this fall and LAist wants to hear how the program has or has not benefited survivors.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-95da-db46-a9ff-bffe6ccb0000</guid>
     </item>    <item>
       <title>Shark Lab’s monitoring system could shut down due to budget cuts</title>
       <link>https://laist.com/news/climate-environment/cal-state-long-beachshark-lab-monitoring-system-budget-cuts</link>
@@ -79,14 +166,6 @@ The post [Sunday Taquitos #30: Flock This!](https://lataco.com/sunday-taquitos-3
       <source:markdown>Advisers to the Food and Drug Administration voted in favor of easing regulation of popular peptides.</source:markdown>
       <guid>cid://urn:uuid:0000019f-9ee1-def4-a1ff-bee966ef0000</guid>
     </item>    <item>
-      <title>Jonathan Gold was LA. &#39;City of Gold&#39; director on what he&#39;d write now</title>
-      <link>https://laist.com/news/los-angeles-activities/jonathan-gold-city-of-gold-laura-gabbert</link>
-      <description>
-        <![CDATA[City of Gold documentarian says Pulitzer Prize-winning food writer transformed food writing and helped many understand L.A.]]>
-      </description>
-      <source:markdown>City of Gold documentarian says Pulitzer Prize-winning food writer transformed food writing and helped many understand L.A.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-9563-d84c-a7ff-f7770e900000</guid>
-    </item>    <item>
       <title>Death Valley&#39;s Badwater 135 just got harder. Meet the SoCal runner chasing a 19th finish</title>
       <link>https://laist.com/news/los-angeles-activities/badwater-135-death-valley-race-ultramarathon</link>
       <description>
@@ -94,6 +173,14 @@ The post [Sunday Taquitos #30: Flock This!](https://lataco.com/sunday-taquitos-3
       </description>
       <source:markdown>Some like it hot... very, very, very hot, like Danny Westergaard from Palos Verdes Estates.</source:markdown>
       <guid>cid://urn:uuid:0000019f-8303-db46-a9ff-aba778dc0000</guid>
+    </item>    <item>
+      <title>Jonathan Gold was LA. &#39;City of Gold&#39; director on what he&#39;d write now</title>
+      <link>https://laist.com/news/los-angeles-activities/jonathan-gold-city-of-gold-laura-gabbert</link>
+      <description>
+        <![CDATA[City of Gold documentarian says Pulitzer Prize-winning food writer transformed food writing and helped many understand L.A.]]>
+      </description>
+      <source:markdown>City of Gold documentarian says Pulitzer Prize-winning food writer transformed food writing and helped many understand L.A.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-9563-d84c-a7ff-f7770e900000</guid>
     </item>    <item>
       <title>California can’t replant its forests fast enough to keep up with wildfires</title>
       <link>https://laist.com/news/climate-environment/california-cant-replant-its-forests-fast-enough-to-keep-up-with-wildfires</link>
@@ -356,6 +443,19 @@ The post [The Country’s Most Famous Strip Club Hosted Its First Trans Night an
       <source:markdown>Any changes to the composition of L.A. Metro’s Board need to be approved by state lawmakers.</source:markdown>
       <guid>cid://urn:uuid:0000019f-912a-d190-afbf-f52aeaf60000</guid>
     </item>    <item>
+      <title>SLD 30 Celebrates 2026 2nd Quarter Awards</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4554252/sld-30-celebrates-2026-2nd-quarter-awards/</link>
+      <description>
+        <![CDATA[Space Launch Delta 30 members pose for a group photo after receiving awards at the 2nd quarter award ceremony at Vandenberg Space Force Base, California, July 23, 2026. <br/> 
+        <img src='https://media.defense.gov/2026/Jul/23/2003966138/300/300/0/260723-X-DW038-1041.JPG' alt='A group of people stand.' /> <br />]]>
+      </description>
+      <source:markdown>Space Launch Delta 30 members pose for a group photo after receiving awards at the 2nd quarter award ceremony at Vandenberg Space Force Base, California, July 23, 2026.
+
+![A group of people stand.](https://media.defense.gov/2026/Jul/23/2003966138/300/300/0/260723-X-DW038-1041.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/Jul/23/2003966138/700/700/0/260723-X-DW038-1041.JPG" length="" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4554252/sld-30-celebrates-2026-2nd-quarter-awards/</guid>
+      <category>News</category>
+    </item>    <item>
       <title>Trump fetes Dodgers at the White House again, saying the team is ‘one of the great brands’</title>
       <link>https://laist.com/news/trump-fetes-dodgers-white-house-again</link>
       <description>
@@ -422,6 +522,17 @@ The post [The 21 Best Soft Serve Shops in Los Angeles, Ranked](https://lataco.co
       <source:markdown>Washington, D.C. – Today,  Representatives George Whitesides (D-Calif.-27) and Bob Latta (R-Ohio-5) and U.S. Senators Adam Schiff (D-Calif.) and Jim Banks (R-Ind.) are introducing new bipartisan legislation to enhance the ability for AI labs and security researchers to combat distillation attacks from foreign adversaries and other frontier AI risks that pose a national security risk to the U.S.   The Collaboration on Adversarial Threats and Security Risks Act would allow for increased \[…\]</source:markdown>
       <guid>cid://https://whitesides-admin.c3pot.house.gov/?p=17548</guid>
       <category>Press Releases</category>
+    </item>    <item>
+      <title>Rep. Whitesides Introduces Major Bipartisan Bill to Lower Energy Costs, Modernize the Grid, and Reduce Wildfire Risk</title>
+      <link>https://whitesides.house.gov/2026/07/23/rep-whitesides-introduces-major-bipartisan-bill-to-lower-energy-costs-modernize-the-grid-and-reduce-wildfire-risk/</link>
+      <description>
+        <![CDATA[The&#160;Lowering Energy Costs through Grid Modernization Act&#160;would speed deployment of advanced conductors on existing power line corridors, getting cheaper energy to consumers faster. WASHINGTON, D.C.&#160;— Today,&#160;Rep. George&#160;Whitesides&#160;(D-CA)&#160;and&#160;Rep. Pat Harrigan (R-NC)&#160;introduced the&#160;Lowering Energy Costs through Grid Modernization Act, with&#160;Reps. Sean Casten (D-IL)&#160;and&#160;Abraham Hamadeh (R-AZ)&#160;joining as original cosponsors. The legislation – supported by industry, environmental groups, labor, [&#8230;]]]>
+      </description>
+      <source:markdown>The Lowering Energy Costs through Grid Modernization Act would speed deployment of advanced conductors on existing power line corridors, getting cheaper energy to consumers faster. WASHINGTON, D.C. — Today, Rep. George Whitesides (D-CA) and Rep. Pat Harrigan (R-NC) introduced the Lowering Energy Costs through Grid Modernization Act, with Reps. Sean Casten (D-IL) and Abraham Hamadeh (R-AZ) joining as original cosponsors. The legislation – supported by industry, environmental groups, labor, \[…\]</source:markdown>
+      <guid>cid://https://whitesides-admin.c3pot.house.gov/?p=17569</guid>
+      <category>Press Releases</category>
+      <category>Economy</category>
+      <category>Wildfires</category>
     </item>    <item>
       <title>Shakespeare at The MAIN</title>
       <link>https://santaclarita.gov/blog/2026/07/23/shakespeare-at-the-main/</link>
@@ -711,6 +822,19 @@ The post [Don’t Want the Dodgers at the White House? A New Petition Is Gaining
       <category>News</category>
       <category>Sports</category>
       <category>dodgers</category>
+    </item>    <item>
+      <title>Vandenberg&#39;s Hawk of the Week Award on July 22nd</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4555489/vandenbergs-hawk-of-the-week-award-on-july-22nd/</link>
+      <description>
+        <![CDATA[Vandenberg's hawk of the week award on July 22nd, 2026.<br/> 
+        <img src='https://media.defense.gov/2026/Jul/24/2003967631/300/300/0/260722-X-BS524-1001.JPG' alt='Three people stand for a photo' /> <br />]]>
+      </description>
+      <source:markdown>Vandenberg&#39;s hawk of the week award on July 22nd, 2026.
+
+![Three people stand for a photo](https://media.defense.gov/2026/Jul/24/2003967631/300/300/0/260722-X-BS524-1001.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/Jul/24/2003967631/700/700/0/260722-X-BS524-1001.JPG" length="" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4555489/vandenbergs-hawk-of-the-week-award-on-july-22nd/</guid>
+      <category>News</category>
     </item>    <item>
       <title>Metro State of Agency celebrates a year of  milestones and looking ahead to another transformative year</title>
       <link>https://thesource.metro.net/metro-state-of-agency-celebrates-a-year-of-milestones-and-looking-ahead-to-another-transformative-year/</link>
@@ -1147,6 +1271,15 @@ The post [Turning Feedback into Action](https://santaclarita.gov/blog/2026/07/18
       <source:markdown>The new program gives nutrition assistance recipients in some neighborhoods another option just as new, more restrictive requirements cause uncertainty.</source:markdown>
       <guid>cid://urn:uuid:0000019f-66dd-d888-a59f-7fdf45ec0000</guid>
     </item>    <item>
+      <title>Vandenberg Space Force Base mourns loss of Airman 1st Class Cedric Eneluna</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4549587/vandenberg-space-force-base-mourns-loss-of-airman-1st-class-cedric-eneluna/</link>
+      <description>
+        <![CDATA[Vandenberg Space Force Base mourns the loss of Airman 1st Class Cedric Eneluna, a member of the 30th Civil Engineer Squadron’s Pavements and Equipment Flight, who passed away July 16, 2026.<br/>]]>
+      </description>
+      <source:markdown>Vandenberg Space Force Base mourns the loss of Airman 1st Class Cedric Eneluna, a member of the 30th Civil Engineer Squadron’s Pavements and Equipment Flight, who passed away July 16, 2026.</source:markdown>
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4549587/vandenberg-space-force-base-mourns-loss-of-airman-1st-class-cedric-eneluna/</guid>
+      <category>News</category>
+    </item>    <item>
       <title>OC Board of Education member failed to report millions in income and assets, court finds</title>
       <link>https://laist.com/news/education/oc-board-of-education-member-failed-to-report-millions-in-income-and-assets-court-finds</link>
       <description>
@@ -1154,6 +1287,19 @@ The post [Turning Feedback into Action](https://santaclarita.gov/blog/2026/07/18
       </description>
       <source:markdown>Proposed court decision says Marilyn “Mari” Barke will have to pay nearly $82,000 in penalty fees, as well as attorneys’ costs.</source:markdown>
       <guid>cid://urn:uuid:0000019f-71d4-de73-a19f-f1ff2a2e0000</guid>
+    </item>    <item>
+      <title>30th Medical Group Change of Command</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4549533/30th-medical-group-change-of-command/</link>
+      <description>
+        <![CDATA[30th Medical Group hosted a change of command ceremony at Vandenberg Space Force Base, California, July 17, 2026.<br/> 
+        <img src='https://media.defense.gov/2026/Jul/17/2003962816/300/300/0/260717-X-DW038-1091.JPG' alt='Four people stand. Two of the people hold a flag.' /> <br />]]>
+      </description>
+      <source:markdown>30th Medical Group hosted a change of command ceremony at Vandenberg Space Force Base, California, July 17, 2026.
+
+![Four people stand. Two of the people hold a flag.](https://media.defense.gov/2026/Jul/17/2003962816/300/300/0/260717-X-DW038-1091.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/Jul/17/2003962824/700/700/0/260717-X-DW038-1090.JPG" length="" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4549533/30th-medical-group-change-of-command/</guid>
+      <category>News</category>
     </item>    <item>
       <title>LADWP Crews Make Significant Progress Overnight Responding to West Hollywood Water Main Incident</title>
       <link>https://sanfernandosun.com/2026/07/17/ladwp-crews-make-significant-progress-overnight-responding-to-west-hollywood-water-main-incident/</link>
@@ -1392,6 +1538,19 @@ The post [L.A.’s First Handmade Colombian Pastas Are Topped with Octopus and P
       <guid>cid://https://lataco.com/?p=181363</guid>
       <category>Food</category>
       <category>Taco Members Only</category>
+    </item>    <item>
+      <title>SLD 30 Leadership Hosts Quality-of-Life Town Hall</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4547781/sld-30-leadership-hosts-quality-of-life-town-hall/</link>
+      <description>
+        <![CDATA[Space Launch Delta 30 leadership hosts quality-of-life town hall meeting at Vandenberg Space Force Base, California, July 15, 2026.<br/> 
+        <img src='https://media.defense.gov/2026/Jul/21/2003963934/300/300/0/260715-X-DW038-1020.JPG' alt='Person stands behind a podium and speaks' /> <br />]]>
+      </description>
+      <source:markdown>Space Launch Delta 30 leadership hosts quality-of-life town hall meeting at Vandenberg Space Force Base, California, July 15, 2026.
+
+![Person stands behind a podium and speaks](https://media.defense.gov/2026/Jul/21/2003963934/300/300/0/260715-X-DW038-1020.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/Jul/16/2003962045/700/700/0/260715-X-DW038-1011.JPG" length="" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4547781/sld-30-leadership-hosts-quality-of-life-town-hall/</guid>
+      <category>News</category>
     </item>    <item>
       <title>An end is in sight to the sweltering SoCal heat wave</title>
       <link>https://laist.com/news/climate-environment/socal-la-heat-end-in-sight</link>
@@ -1893,6 +2052,19 @@ The post [Norway’s Subtly Sour Waffles Have Landed in L.A., Topped With Brown 
       </description>
       <source:markdown>CalPERS’ investment returns determine whether government agencies — and taxpayers — have to kick in extra money to cover losses at the pension fund.</source:markdown>
       <guid>cid://urn:uuid:0000019f-5c97-de44-adff-febfd1d20000</guid>
+    </item>    <item>
+      <title>30th Security Forces Squadron Assumption of Command</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4542445/30th-security-forces-squadron-assumption-of-command/</link>
+      <description>
+        <![CDATA[The 30th Security Forces Squadron hosts an assumption of command ceremony at Vandenberg Space Force Base, California, July 13, 2026.<br/> 
+        <img src='https://media.defense.gov/2026/Jul/13/2003960765/300/300/0/260713-X-DW038-1016.JPG' alt='Three people stand, two of them hold a flag' /> <br />]]>
+      </description>
+      <source:markdown>The 30th Security Forces Squadron hosts an assumption of command ceremony at Vandenberg Space Force Base, California, July 13, 2026.
+
+![Three people stand, two of them hold a flag](https://media.defense.gov/2026/Jul/13/2003960765/300/300/0/260713-X-DW038-1016.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/Jul/13/2003960767/700/700/0/260713-X-DW038-1009.JPG" length="" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4542445/30th-security-forces-squadron-assumption-of-command/</guid>
+      <category>News</category>
     </item>    <item>
       <title>That Air Jordan tent in Inglewood is going to become a permanent school event space, official says</title>
       <link>https://laist.com/news/education/that-air-jordan-tent-in-inglewood-is-going-to-become-a-permanent-school-event-space-official-says</link>
@@ -2848,130 +3020,6 @@ The post [These 4 Black L.A. Businesses Are Stepping Up Against Food Deserts in 
       <guid>cid://https://lataco.com/?p=180957</guid>
       <category>Featured</category>
       <category>Food</category>
-    </item>    <item>
-      <title>Know Before You Go: Concerts in the Park Returns this Saturday</title>
-      <link>https://santaclarita.gov/blog/2026/07/06/know-before-you-go-concerts-in-the-park-returns-this-saturday/</link>
-      <description>
-        <![CDATA[<p>Summer Saturdays are About to Get a Whole Lot Louder! The City of Santa Clarita’s Concerts in the Park, presented by Logix Federal Credit Union, returns to Central Park (27150 Bouquet Canyon Road) this Saturday, July 11, kicking off eight weeks of free live music, delicious food and unforgettable summer nights under the stars. Whether [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/07/06/know-before-you-go-concerts-in-the-park-returns-this-saturday/">Know Before You Go: Concerts in the Park Returns this Saturday</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>Summer Saturdays are About to Get a Whole Lot Louder! The City of Santa Clarita’s Concerts in the Park, presented by Logix Federal Credit Union, returns to Central Park (27150 Bouquet Canyon Road) this Saturday, July 11, kicking off eight weeks of free live music, delicious food and unforgettable summer nights under the stars. Whether \[…\]
-
-The post [Know Before You Go: Concerts in the Park Returns this Saturday](https://santaclarita.gov/blog/2026/07/06/know-before-you-go-concerts-in-the-park-returns-this-saturday/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8470</guid>
-      <category>Press Release</category>
-    </item>    <item>
-      <title>California could start testing kindergarteners in math</title>
-      <link>https://laist.com/news/education/california-bill-kindergarten-math-assessment-2026</link>
-      <description>
-        <![CDATA[A bill moving through California’s legislature would require schools to test kindergarteners' math skills.]]>
-      </description>
-      <source:markdown>A bill moving through California’s legislature would require schools to test kindergarteners&#39; math skills.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-3973-d504-a19f-fff3592a0000</guid>
-    </item>    <item>
-      <title>¿Y si sí? What this hopeful World Cup chant meant to Mexico fans</title>
-      <link>https://laist.com/news/y-si-si-world-cup-chant-mexico-fans</link>
-      <description>
-        <![CDATA[The team’s World Cup run ended on Sunday after the team lost against England.]]>
-      </description>
-      <source:markdown>The team’s World Cup run ended on Sunday after the team lost against England.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-3966-dfd2-abbf-bde742400000</guid>
-    </item>    <item>
-      <title>L.A.’s 17 Best Fries from Santa Clarita to South L.A., Ranked</title>
-      <link>https://lataco.com/best-fries-in-la-guide</link>
-      <description>
-        <![CDATA[<p>The best fries have personality. Some are hand-cut and fluffy. Some are duck-fat-fried and decadent. Some are covered in enough seasoning to scald your tongue. These are the best we found around L.A. to get you started on your  own path to find the best French fry in L.A.  </p>
-        <p>The post <a href="https://lataco.com/best-fries-in-la-guide">L.A.’s 17 Best Fries from Santa Clarita to South L.A., Ranked</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>The best fries have personality. Some are hand-cut and fluffy. Some are duck-fat-fried and decadent. Some are covered in enough seasoning to scald your tongue. These are the best we found around L.A. to get you started on your own path to find the best French fry in L.A.
-
-The post [L.A.’s 17 Best Fries from Santa Clarita to South L.A., Ranked](https://lataco.com/best-fries-in-la-guide) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=180727</guid>
-      <category>Featured</category>
-      <category>Food</category>
-      <category>L.A. Taco Guides</category>
-      <category>Taco Members Only</category>
-      <category>Guides</category>
-    </item>    <item>
-      <title>Glendale opens applications for rental assistance</title>
-      <link>https://laist.com/news/housing-homelessness/glendale-opens-applications-for-rental-assistance</link>
-      <description>
-        <![CDATA[The temporary financial support is designed as a homeless prevention program for the city.]]>
-      </description>
-      <source:markdown>The temporary financial support is designed as a homeless prevention program for the city.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-38e4-d504-a19f-fef4c3d00000</guid>
-    </item>    <item>
-      <title>Judge rejects California tribes’ latest attempt to kill blackjack at cardrooms</title>
-      <link>https://laist.com/news/politics/judge-rejects-california-tribe-latest-attempt-to-kill-blackjack-at-cardrooms</link>
-      <description>
-        <![CDATA[California cardrooms win legal battle with tribes, attorney general over blackjack.]]>
-      </description>
-      <source:markdown>California cardrooms win legal battle with tribes, attorney general over blackjack.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-3871-dfd2-abbf-bdf182b60000</guid>
-    </item>    <item>
-      <title>Under Trump, spouses of US citizens face policy changes in the immigration system</title>
-      <link>https://laist.com/news/politics/under-trump-spouses-of-us-citizens-face-policy-changes-in-the-immigration-system</link>
-      <description>
-        <![CDATA[Spouses of U.S. citizens have traditionally had a special place in immigration law. That's no longer the case, according to the administration and immigration lawyers.]]>
-      </description>
-      <source:markdown>Spouses of U.S. citizens have traditionally had a special place in immigration law. That&#39;s no longer the case, according to the administration and immigration lawyers.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-382c-d59a-ab9f-beacba750000</guid>
-    </item>    <item>
-      <title>6 things to know about the worst places to park in LA</title>
-      <link>https://laist.com/news/6-things-to-know-about-the-worst-places-to-park-in-la</link>
-      <description>
-        <![CDATA[One Koreatown corner has already generated more than $760,000 in fines this year. Here’s where drivers are most likely to get ticketed — and why.]]>
-      </description>
-      <source:markdown>One Koreatown corner has already generated more than $760,000 in fines this year. Here’s where drivers are most likely to get ticketed — and why.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-24b7-d327-a39f-24bfe99b0000</guid>
-    </item>    <item>
-      <title>LA&#39;s best new taco wants to be the next In-N-Out</title>
-      <link>https://laist.com/news/food/la-best-new-taco-wants-to-be-next-in-n-out</link>
-      <description>
-        <![CDATA[Obsessive sourcing, a tight menu, USDA Prime over mesquite — and a $7 taco. Inside the most ambitious new taco stand in L.A.]]>
-      </description>
-      <source:markdown>Obsessive sourcing, a tight menu, USDA Prime over mesquite — and a $7 taco. Inside the most ambitious new taco stand in L.A.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-24d1-d327-a39f-24d99f530000</guid>
-    </item>    <item>
-      <title>Best things to do this week in LA and SoCal: July 6-9</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-july-6-9</link>
-      <description>
-        <![CDATA[New-wave swing dancing, the Indiana Fever take on the Sparks, Bottle Rocket turns 30 and more of the best things to do this week.]]>
-      </description>
-      <source:markdown>New-wave swing dancing, the Indiana Fever take on the Sparks, Bottle Rocket turns 30 and more of the best things to do this week.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-3317-d504-a19f-ffd7e0a20000</guid>
-    </item>    <item>
-      <title>A dry river sparks a fight over water where LA, Pasadena and South Pasadena meet</title>
-      <link>https://laist.com/news/climate-environment/arroyo-seco-water-fight-los-angeles-pasadena-south-pasadena</link>
-      <description>
-        <![CDATA[A proposal to clean water from the Arroyo Seco has sparked resistance from neighboring L.A. residents. Golf course irrigation is at the center of the dispute.]]>
-      </description>
-      <source:markdown>A proposal to clean water from the Arroyo Seco has sparked resistance from neighboring L.A. residents. Golf course irrigation is at the center of the dispute.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-2461-d327-a39f-24e9e09a0000</guid>
-    </item>    <item>
-      <title>You could get fined $63 for ‘daylighting’: Here’s what you need to know</title>
-      <link>https://laist.com/news/politics/you-could-get-fined-63-for-daylighting-heres-what-you-need-to-know</link>
-      <description>
-        <![CDATA[Several county police departments in SoCal are strictly enforcing a law that prohibits parking too close to crosswalks, which took effect back in January 2025.]]>
-      </description>
-      <source:markdown>Several county police departments in SoCal are strictly enforcing a law that prohibits parking too close to crosswalks, which took effect back in January 2025.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-23ea-d504-a19f-fffadb640000</guid>
-    </item>    <item>
-      <title>Long Beach will soon start planning budget cuts. Here’s how you can weigh in</title>
-      <link>https://laist.com/news/politics/long-beach-will-soon-start-planning-budget-cuts-how-to-weigh-in</link>
-      <description>
-        <![CDATA[A proposed city budget — with expected reductions — will be revealed soon. Then you can give your opinion during a series of hearings and meetings.]]>
-      </description>
-      <source:markdown>A proposed city budget — with expected reductions — will be revealed soon. Then you can give your opinion during a series of hearings and meetings.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-24e3-dfd2-abbf-bde3e0ce0000</guid>
-    </item>    <item>
-      <title>England hands Mexico its first World Cup loss at Estadio Azteca, winning 3-2 to reach quarterfinals</title>
-      <link>https://laist.com/news/england-hands-mexico-its-first-world-cup-loss-at-estadio-azteca-winning-3-2-to-reach-quarterfinals</link>
-      <description>
-        <![CDATA[England moves on to face Norway on Saturday in Miami Gardens, Florida, for a spot in the semifinals.]]>
-      </description>
-      <source:markdown>England moves on to face Norway on Saturday in Miami Gardens, Florida, for a spot in the semifinals.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-3586-d504-a19f-ffd6e84e0000</guid>
     </item>
   </channel>
 </rss>

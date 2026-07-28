@@ -4,10 +4,197 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Jul 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>28 Jul 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A cooler of eggs and a bold plan to save leopard sharks</title>
+      <link>https://www.npr.org/2026/07/28/nx-s1-5903001/leopard-zebra-shark-conservation-indonesia</link>
+      <description>
+        <![CDATA[Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to rewild them into the ocean where they once thrived. Will it be enough?<br/><br/>For answers, we talk to freelance journalist <a href="https://www.katerinabarton.com/"target="_blank"   >Katerina Barton</a>. She takes us behind-the-scenes to a shark nursery and shares what this conservation project could mean for other shark species.<br/><br/><em>Interested in more conservation news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Leopard sharks have nearly vanished from the waters in Raja Ampat, Indonesia. The country is one of the largest shark fishing nations in the world. Now, a first-of-its-kind conservation project is working to bring Indo-Pacific leopard sharks back from the brink of extinction. This international project hatches their eggs and raises shark pups to rewild them into the ocean where they once thrived. Will it be enough?
+
+For answers, we talk to freelance journalist [Katerina Barton](https://www.katerinabarton.com/). She takes us behind-the-scenes to a shark nursery and shares what this conservation project could mean for other shark species.
+
+_Interested in more conservation news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/21550541-05c7-464b-8742-61ba0f401237/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=21550541-05c7-464b-8742-61ba0f401237&feed=F0qJcgXZ&t=podcast&e=nx-s1-5903001&p=510351&d=820&size=13131067" length="13131067" type="audio/mpeg" />
+      <guid>cid://acf52a6c-0da4-454f-b7e5-f22138d2e11c</guid>
+    </item>    <item>
+      <title>Smoke Blankets Oregon</title>
+      <link>https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/</link>
+      <description>
+        <![CDATA[Lightning storms have ignited dozens of fires in central and eastern Oregon.]]>
+      </description>
+      <source:markdown>Lightning storms have ignited dozens of fires in central and eastern Oregon.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/</guid>
+      <category>Earth Observatory</category>
+      <category>Wildfires</category>
+    </item>    <item>
+      <title>Windows NT got its name from one of Intel’s failed x86 replacements</title>
+      <link>https://www.osnews.com/story/145617/windows-nt-got-its-name-from-one-of-intels-failed-x86-replacements/</link>
+      <description>
+        <![CDATA[Dave Farquhar published an article today about Windows NT 3.1&#8217;s place in the market when it was originally released, and while the article is interesting and a fun read, it does mention this:  Microsoft took its nascent code that it intended to form the base of OS/2 3.0, renamed it Windows New Technology, and eventually released it as Windows NT 3.1. ↫ Dave Farquhar While Microsoft did, in fact, use the &#8220;New Technology&#8221; branding as a marketing trick, this is not what &#8220;NT&#8221; originally stood for. Two developers from the original Windows NT development team, Mark Lucovsky and David Thompson, explained all the way back in 2003 that &#8220;NT&#8221; came from the codename for Intel&#8217;s then-new RISC platform, the Intel i860 (Raymond Chen confirmed the veracity of their story). The i860 was the first target platform for Windows NT, and it was codenamed &#8220;N-10&#8221; &#8211; NT. Finally, it was time to start writing some code. &#8220;We checked the first code pieces in around mid-December 1988,&#8221; Lucovsky said, &#8220;and had a very basic system kind of booting on a simulator of the Intel i860 (which was codenamed &#8220;N-Ten&#8221;) by January.&#8221; In fact, this is where NT actually got its name, Lucovsky revealed, adding that the &#8220;new technology&#8221; moniker was added after the fact in a rare spurt of product marketing by the original NT team members. &#8220;Originally, we were targeting NT to the Intel i860, a RISC processor that was horribly behind schedule. Because we didn&#8217;t have any i860 machines in-house to test on, we used an i860 simulator. That&#8217;s why we called it NT, because it worked on the &#8216;N-Ten.'&#8221; ↫ Paul Thurrott The i860 was one of Intel&#8217;s many attempts over the years to replace x86 with something more modern, but &#8211; as would become tradition with Intel and attempting to replace its x86 architecture &#8211; it suffered from endless delays, missed targets, and lacklustre performance. It saw only sporadic use in the market, and ended up on the chopping block after only a few years. Intel tried to replace x86 again soon after with Itanium, which suffered an identical fate. Still, the engineers working on the i860 platform in the late &#8217;80s and early &#8217;90s at Intel can at least take some pride in that to this day, the most popular desktop operating system in the world got its name from the product they developed. Intel&#8217;s i860 might barely even be worthy of a footnote today, but billions of PC users log into their Windows &#8220;N-10&#8221; machines every day, unwittingly carrying a torch for the failed x86 replacement.]]>
+      </description>
+      <source:markdown>Dave Farquhar published an article today about Windows NT 3.1’s place in the market when it was originally released, and while the article is interesting and a fun read, it does mention this: Microsoft took its nascent code that it intended to form the base of OS/2 3.0, renamed it Windows New Technology, and eventually released it as Windows NT 3.1. ↫ Dave Farquhar While Microsoft did, in fact, use the “New Technology” branding as a marketing trick, this is not what “NT” originally stood for. Two developers from the original Windows NT development team, Mark Lucovsky and David Thompson, explained all the way back in 2003 that “NT” came from the codename for Intel’s then-new RISC platform, the Intel i860 (Raymond Chen confirmed the veracity of their story). The i860 was the first target platform for Windows NT, and it was codenamed “N-10” – NT. Finally, it was time to start writing some code. “We checked the first code pieces in around mid-December 1988,” Lucovsky said, “and had a very basic system kind of booting on a simulator of the Intel i860 (which was codenamed “N-Ten”) by January.” In fact, this is where NT actually got its name, Lucovsky revealed, adding that the “new technology” moniker was added after the fact in a rare spurt of product marketing by the original NT team members. “Originally, we were targeting NT to the Intel i860, a RISC processor that was horribly behind schedule. Because we didn’t have any i860 machines in-house to test on, we used an i860 simulator. That’s why we called it NT, because it worked on the ‘N-Ten.&#39;” ↫ Paul Thurrott The i860 was one of Intel’s many attempts over the years to replace x86 with something more modern, but – as would become tradition with Intel and attempting to replace its x86 architecture – it suffered from endless delays, missed targets, and lacklustre performance. It saw only sporadic use in the market, and ended up on the chopping block after only a few years. Intel tried to replace x86 again soon after with Itanium, which suffered an identical fate. Still, the engineers working on the i860 platform in the late ’80s and early ’90s at Intel can at least take some pride in that to this day, the most popular desktop operating system in the world got its name from the product they developed. Intel’s i860 might barely even be worthy of a footnote today, but billions of PC users log into their Windows “N-10” machines every day, unwittingly carrying a torch for the failed x86 replacement.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145617</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>How Does a Bilingual Speaker&#39;s Brain Process Two Languages? New Research Suggests That Both Rely on the Same Neural Wiring</title>
+      <link>https://www.smithsonianmag.com/smart-news/how-does-a-bilingual-speakers-brain-process-two-languages-new-research-suggests-that-both-rely-on-the-same-neural-wiring-180989202/</link>
+      <description>
+        <![CDATA[Scientists have long wondered whether different neural mechanisms govern each language within a bilingual speaker’s brain. A recent study of people who speak both English and Spanish hints at a single "grammatical engine"]]>
+      </description>
+      <source:markdown>Scientists have long wondered whether different neural mechanisms govern each language within a bilingual speaker’s brain. A recent study of people who speak both English and Spanish hints at a single &#34;grammatical engine&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Kam1BvL1VBgL_Izyb5U-OvEK4xw=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/be/1bbe526e-c980-4aff-a1b7-817d1613a36d/language-grammatical-engine.jpg" length="8078548" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/how-does-a-bilingual-speakers-brain-process-two-languages-new-research-suggests-that-both-rely-on-the-same-neural-wiring-180989202/</guid>
+    </item>    <item>
+      <title>The Fedora 45 sausage factory</title>
+      <link>https://www.osnews.com/story/145615/the-fedora-45-sausage-factory/</link>
+      <description>
+        <![CDATA[This is a walkthrough of how Fedora turns source code and packages into the artifacts you download and install. It follows the a package from a packager’s git push to a composed release: ISOs, cloud images, container images, and OSTree deployments. ↫ Simon de Vlieger Linux distributions &#8211; good ones like Fedora, at least &#8211; are really complex operations, with a ton of checks and balances to ensure no git push eventually ends up causing problems on individual users&#8217; machines way down the line. The fact so many people involved in this complex web of processes also happen to be volunteers doing all of this out of the goodness of their hearts is amazing. Of course, this doesn&#8217;t just apply to Fedora, but also the countless other distributions out there, especially those not owned by some giant corporation like IBM. If you&#8217;re just a casual Fedora user, there&#8217;s really no reason you have to know or be aware of any of this, but it&#8217;s still fun and interesting to understand the inner workings of your distribution of choice.]]>
+      </description>
+      <source:markdown>This is a walkthrough of how Fedora turns source code and packages into the artifacts you download and install. It follows the a package from a packager’s git push to a composed release: ISOs, cloud images, container images, and OSTree deployments. ↫ Simon de Vlieger Linux distributions – good ones like Fedora, at least – are really complex operations, with a ton of checks and balances to ensure no git push eventually ends up causing problems on individual users’ machines way down the line. The fact so many people involved in this complex web of processes also happen to be volunteers doing all of this out of the goodness of their hearts is amazing. Of course, this doesn’t just apply to Fedora, but also the countless other distributions out there, especially those not owned by some giant corporation like IBM. If you’re just a casual Fedora user, there’s really no reason you have to know or be aware of any of this, but it’s still fun and interesting to understand the inner workings of your distribution of choice.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145615</guid>
+      <category>Fedora Core</category>
+    </item>    <item>
+      <title>Comanche: Maximum Overkill from 1992 does weird things on Intel processors</title>
+      <link>https://www.osnews.com/story/145613/comanche-maximum-overkill-from-1992-does-weird-things-on-intel-processors/</link>
+      <description>
+        <![CDATA[Let&#8217;s do another article about weird code in video games. The original 1992 Comanche release is extremely picky about memory managers. The game refuses to work with EMM emulators and crashes when EMM386 is active. The game may also hang or reboot the system when HIMEM.SYS is not loaded (the problem seems to be system configuration dependent). These issues are clearly noted in the Comanche documentations, but at the same time they’re also all signs of a substandard DOS extender. On top of that, the game authors accomplished a remarkable feat: By only loosely following Intel’s instructions on how to enter protected mode, NovaLogic managed to write a game which worked on the then-existing 386 and 486 processors, but under some circumstances failed to run on Pentium and later processors. ↫ Michal Necasek at OS/2 Museum As usual, a great read from Michal Nacesek.]]>
+      </description>
+      <source:markdown>Let’s do another article about weird code in video games. The original 1992 Comanche release is extremely picky about memory managers. The game refuses to work with EMM emulators and crashes when EMM386 is active. The game may also hang or reboot the system when HIMEM.SYS is not loaded (the problem seems to be system configuration dependent). These issues are clearly noted in the Comanche documentations, but at the same time they’re also all signs of a substandard DOS extender. On top of that, the game authors accomplished a remarkable feat: By only loosely following Intel’s instructions on how to enter protected mode, NovaLogic managed to write a game which worked on the then-existing 386 and 486 processors, but under some circumstances failed to run on Pentium and later processors. ↫ Michal Necasek at OS/2 Museum As usual, a great read from Michal Nacesek.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145613</guid>
+      <category>Games</category>
+    </item>    <item>
+      <title>French Customs Detained This Marc Chagall Etching for Two Decades After an Attempted Border Crossing. Now It&#39;s Headed for Public Display</title>
+      <link>https://www.smithsonianmag.com/smart-news/french-customs-detained-this-marc-chagall-etching-for-two-decades-after-an-attempted-border-crossing-now-its-headed-for-public-display-180989204/</link>
+      <description>
+        <![CDATA[An acrobat perches on a violin in the absurd scene, which draws on the Russian artist's favored motifs]]>
+      </description>
+      <source:markdown>An acrobat perches on a violin in the absurd scene, which draws on the Russian artist&#39;s favored motifs</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GNdNhb0GZdR-ID9Utddz2Cua-FQ=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/03/a7032901-b619-4425-8bef-d243477118ea/chagall_long.jpg" length="48449" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/french-customs-detained-this-marc-chagall-etching-for-two-decades-after-an-attempted-border-crossing-now-its-headed-for-public-display-180989204/</guid>
+    </item>    <item>
+      <title>NASA Astronaut Chris Williams to Discuss Space Station Mission</title>
+      <link>https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/</link>
+      <description>
+        <![CDATA[NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1021353</guid>
+      <category>Spot the International Space Station</category>
+      <category>Christopher L. Williams</category>
+      <category>Humans in Space</category>
+      <category>Johnson Space Center</category>
+      <category>NASA Headquarters</category>
+    </item>    <item>
+      <title>NASA Science Soars During August Total Solar Eclipse</title>
+      <link>https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/</link>
+      <description>
+        <![CDATA[Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]]]>
+      </description>
+      <source:markdown>Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/</guid>
+      <category>Eclipses</category>
+      <category>Heliophysics</category>
+      <category>Solar Eclipses</category>
+      <category>The Sun</category>
+    </item>    <item>
+      <title>Art Sleuths Discovered a Lost and ‘Enormously Important’ Portrait of an Elite Indian Woman by This Pioneering Scottish Painter</title>
+      <link>https://www.smithsonianmag.com/smart-news/art-sleuths-discovered-a-long-lost-and-enormously-important-portrait-of-an-elite-indian-woman-by-this-pioneering-scottish-painter-180989201/</link>
+      <description>
+        <![CDATA[Katherine Read was one of the most fashionable portrait creators in London before she moved to India. She found success portraying women and children]]>
+      </description>
+      <source:markdown>Katherine Read was one of the most fashionable portrait creators in London before she moved to India. She found success portraying women and children</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ukOJuQUOCSlqxeyEAK0aPoq2-Dc=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/97/d5974844-5690-4183-b8c5-d98a7333cd42/read_portrait_long.jpg" length="62891" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/art-sleuths-discovered-a-long-lost-and-enormously-important-portrait-of-an-elite-indian-woman-by-this-pioneering-scottish-painter-180989201/</guid>
+    </item>    <item>
+      <title>A.I. Disproves a Decades-Old Mathematical Idea, the &#39;Biggest Conjecture&#39; That the Tech Has Played a Role in Yet</title>
+      <link>https://www.smithsonianmag.com/smart-news/ai-disproves-a-decades-old-mathematical-idea-the-biggest-conjecture-that-the-tech-has-played-a-role-in-yet-180989189/</link>
+      <description>
+        <![CDATA[A mathematician announced that he used one of Anthropic's A.I. models to find a counterexample to a problem called the Jacobian conjecture. While experts consider it a milestone, the work raises questions about the future of mathematical research]]>
+      </description>
+      <source:markdown>A mathematician announced that he used one of Anthropic&#39;s A.I. models to find a counterexample to a problem called the Jacobian conjecture. While experts consider it a milestone, the work raises questions about the future of mathematical research</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2Sq631QzhhVe5Dr8YN-lQCYhEIo=/420x240/filters:focal(1229x831:1230x832)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/04/3904010b-81b5-4711-9bf6-64ee5265ede5/toolxoxcom-free-ai-tools-3k-vgewudykqm.jpg" length="579454" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/ai-disproves-a-decades-old-mathematical-idea-the-biggest-conjecture-that-the-tech-has-played-a-role-in-yet-180989189/</guid>
+    </item>    <item>
+      <title>NASA Astronaut Chris Williams Returns to Earth</title>
+      <link>https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/</link>
+      <description>
+        <![CDATA[NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams&#8217; first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of&#160;scientific investigations&#160;and technology demonstrations. He [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1021295</guid>
+      <category>Christopher L. Williams</category>
+    </item>    <item>
+      <title>NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star</title>
+      <link>https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/</link>
+      <description>
+        <![CDATA[NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]]]>
+      </description>
+      <source:markdown>NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/</guid>
+      <category>Astrophysics</category>
+      <category>Black Holes</category>
+      <category>Galaxies, Stars, &#38; Black Holes</category>
+      <category>Galaxies, Stars, &#38; Black Holes Research</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Neil Gehrels Swift Observatory</category>
+      <category>Science &#38; Research</category>
+      <category>Supermassive Black Holes</category>
+      <category>The Universe</category>
+    </item>    <item>
+      <title>A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere</title>
+      <link>https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/</link>
+      <description>
+        <![CDATA[An organelle discovered inside a microbe inside a cow’s gut helps explain how livestock burps contribute to warming our planet.            <p>The post <a href="https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/" target="_blank">A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>An organelle discovered inside a microbe inside a cow’s gut helps explain how livestock burps contribute to warming our planet.
+
+The post [A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere](https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=164710</guid>
+      <category>Biology</category>
+    </item>    <item>
+      <title>NASA to Cover Three US Spacewalks, Host Preview News Conference</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/</link>
+      <description>
+        <![CDATA[Editor&#8217;s note: This media advisory was updated July 27, 2026 to reflect an updated start time for the spacewalk on Thursday, Aug. 6. NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables [&#8230;]]]>
+      </description>
+      <source:markdown>Editor’s note: This media advisory was updated July 27, 2026 to reflect an updated start time for the spacewalk on Thursday, Aug. 6. NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1021242</guid>
+      <category>Humans in Space</category>
+      <category>International Space Station (ISS)</category>
+    </item>    <item>
+      <title>NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/</link>
+      <description>
+        <![CDATA[NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.]]>
+      </description>
+      <source:markdown>NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Galaxies</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>Sensing the Universe &#38; Multimessenger Astronomy</category>
+    </item>    <item>
+      <title>Chimpanzees and Bonobos Use Hugs, Kisses and Friendly Pats to Keep the Peace, Just Like Humans, a New Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/chimpanzees-and-bonobos-use-hugs-kisses-and-pats-to-keep-the-peace-just-like-humans-a-new-study-suggests-180989192/</link>
+      <description>
+        <![CDATA[Since all three ape species diverged from a common ancestor that lived roughly six million to eight million years ago, the findings hint that friendly touching to diffuse tension has deep evolutionary origins]]>
+      </description>
+      <source:markdown>Since all three ape species diverged from a common ancestor that lived roughly six million to eight million years ago, the findings hint that friendly touching to diffuse tension has deep evolutionary origins</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/A6EYVjvZzz6AgVmuJt1zxH6PW4w=/420x240/filters:focal(2880x1920:2881x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/25/2125c726-5f7f-4259-9c89-e3fe1ddcf936/cwo21_g2_littlejakelittlejoey_07-249_1.jpg" length="23208162" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/chimpanzees-and-bonobos-use-hugs-kisses-and-pats-to-keep-the-peace-just-like-humans-a-new-study-suggests-180989192/</guid>
+    </item>    <item>
       <title>Mozilla gives Haiku permission to use the Firefox name</title>
       <link>https://www.osnews.com/story/145611/mozilla-gives-haiku-permission-to-use-the-firefox-name/</link>
       <description>
@@ -122,7 +309,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7Z-ggEfOIWVrfA7mOasdaTuIJeE=/420x240/filters:focal(600x317:601x318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/ed/3dedf986-0087-44f0-9c5a-d7bc444bedec/map.jpg" length="93508" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/three-millennia-ago-humans-may-have-spoken-thousands-more-languages-than-we-have-today-during-a-linguistic-golden-age-180989197/</guid>
     </item>    <item>
-      <title>It&#39;s Nature Vs. Culture as Europeans Vote on New Designs for Euro Banknotes That Pit Kingfishers Against Leonardo da Vinci</title>
+      <title>It&#39;s Nature vs. Culture as Europeans Vote on New Designs for Euro Banknotes That Pit Kingfishers Against Leonardo da Vinci</title>
       <link>https://www.smithsonianmag.com/smart-news/its-nature-versus-culture-as-europeans-vote-on-new-designs-for-euro-banknotes-that-pit-kingfishers-against-leonardo-da-vinci-180989193/</link>
       <description>
         <![CDATA[The European Central Bank released a shortlist of ten potential designs for a new series of printed banknotes, the first complete redesign since the Euro note was issued in 2002.]]>
@@ -3125,177 +3312,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/</guid>
       <category>Earth Observatory</category>
-    </item>    <item>
-      <title>These 11 Wildlife Images From the Ocean Conservancy’s Photography Contest Showcase the Wonder of Earth’s Waters</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-11-wildlife-images-from-the-ocean-conservancys-photography-contest-showcase-the-wonder-of-earths-waters-180989069/</link>
-      <description>
-        <![CDATA[Seals, penguins and fish are featured in the nonprofit’s annual competition to inspire care for the world’s oceans]]>
-      </description>
-      <source:markdown>Seals, penguins and fish are featured in the nonprofit’s annual competition to inspire care for the world’s oceans</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vJvxxw1CfSIKsGERAkeiHmhljH8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/c4/5bc43a56-9870-49ae-93bb-b889d68b16f2/ezgif-56b892c5e48a6413.jpg" length="244264" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-11-wildlife-images-from-the-ocean-conservancys-photography-contest-showcase-the-wonder-of-earths-waters-180989069/</guid>
-    </item>    <item>
-      <title>See the Space Shuttle &#39;Endeavour&#39; in a Unique Vertical Display Before Its New Exhibition Launches at the California Science Center</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-space-shuttle-endeavour-in-a-unique-vertical-display-before-its-new-exhibition-launches-at-the-california-science-center-180989073/</link>
-      <description>
-        <![CDATA[This November, visitors to the new Samuel Oschin Air and Space Center in Los Angeles will get to see the "ready-to-launch" "Endeavour" complete with rocket boosters and a fuel tank]]>
-      </description>
-      <source:markdown>This November, visitors to the new Samuel Oschin Air and Space Center in Los Angeles will get to see the &#34;ready-to-launch&#34; &#34;Endeavour&#34; complete with rocket boosters and a fuel tank</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/l51EOpt-pf_22q250Koltq614P8=/420x240/filters:focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/50/e650d356-a406-4a6f-a5f2-49a49deb4570/n3zmprp0.jpeg" length="136283" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-space-shuttle-endeavour-in-a-unique-vertical-display-before-its-new-exhibition-launches-at-the-california-science-center-180989073/</guid>
-    </item>    <item>
-      <title>Early Flowering Plants May Have Relied on Dinosaurs to Eat Their Fleshy Fruits and Spread Their Seeds</title>
-      <link>https://www.smithsonianmag.com/smart-news/early-flowering-plants-may-have-relied-on-dinosaurs-to-eat-their-fleshy-fruits-and-spread-their-seeds-180989076/</link>
-      <description>
-        <![CDATA[According to fossils preserved by volcanic ash, the plants, known as angiosperms, began producing relatively large, blueberry-size fruits millions of years earlier than previously thought]]>
-      </description>
-      <source:markdown>According to fossils preserved by volcanic ash, the plants, known as angiosperms, began producing relatively large, blueberry-size fruits millions of years earlier than previously thought</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hr7ty-oJZQBlzVaCrvmGdoNc3Ds=/420x240/filters:focal(1024x917:1025x918)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/78/f6/78f651d3-bf84-4d49-8329-18a6896a94e7/forestscene-2048x1818.jpg" length="691144" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/early-flowering-plants-may-have-relied-on-dinosaurs-to-eat-their-fleshy-fruits-and-spread-their-seeds-180989076/</guid>
-    </item>    <item>
-      <title>NASA Takes Flight For America’s 250th</title>
-      <link>https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/</link>
-      <description>
-        <![CDATA[NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what’s possible. From the earliest days of exploration, to the first steps on the Moon [&#8230;]]]>
-      </description>
-      <source:markdown>NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what’s possible. From the earliest days of exploration, to the first steps on the Moon \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1015036</guid>
-    </item>    <item>
-      <title>A New Expedition Will Create 3D Digital Twins of Polar Shipwrecks Tied to Voyages of Rival Explorers Who Raced to the South Pole</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-new-expeditiion-will-create-3d-digital-twins-of-polar-shipwrecks-tied-to-voyages-of-rival-explorers-who-raced-to-the-south-pole-180989074/</link>
-      <description>
-        <![CDATA[Robert Falcon Scott led an expedition aboard the ship ‘Terra Nova’ and Ernest Shackleton led one from the ship ‘Quest’—but neither explorer got to plant the first flag in the heart of Antarctica]]>
-      </description>
-      <source:markdown>Robert Falcon Scott led an expedition aboard the ship ‘Terra Nova’ and Ernest Shackleton led one from the ship ‘Quest’—but neither explorer got to plant the first flag in the heart of Antarctica</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NRDOLHMkfGQSaFA9uvxHNEZ2ttc=/420x240/filters:focal(2896x2014:2897x2015)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/38/11/3811046d-1074-4ac2-9b59-6c514ef73513/atlnz_11714.jpeg" length="4628579" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-expeditiion-will-create-3d-digital-twins-of-polar-shipwrecks-tied-to-voyages-of-rival-explorers-who-raced-to-the-south-pole-180989074/</guid>
-    </item>    <item>
-      <title>How Open Models Are Driving AI Research</title>
-      <link>https://blogs.nvidia.com/blog/open-models-icml-2026/</link>
-      <description>
-        <![CDATA[Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work.  This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately [&#8230;]]]>
-      </description>
-      <source:markdown>Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work.  This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95963</guid>
-      <category>AI</category>
-      <category>Research</category>
-      <category>Machine Learning</category>
-      <category>Nemotron</category>
-      <category>NVIDIA Research</category>
-      <category>Open Source</category>
-    </item>    <item>
-      <title>NASA Seeks Industry Input on Second Phase of Commercial Space Stations</title>
-      <link>https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/</link>
-      <description>
-        <![CDATA[On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station. &#160;“NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry [&#8230;]]]>
-      </description>
-      <source:markdown>On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station.  “NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1014941</guid>
-      <category>Commercial Space</category>
-    </item>    <item>
-      <title>How a Hungry Komodo Dragon Led Scientists to Determine Our Small, Hobbit-Like Cousins Probably Weren&#39;t That Smart After All</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-a-hungry-komodo-dragod-led-scientists-to-determine-our-small-hobbit-like-cousins-probably-werent-that-smart-after-all-180989078/</link>
-      <description>
-        <![CDATA[New research indicates "Homo floresiensis" probably wasn't hunting big game or using fire on Flores Island, suggesting the small-brained species wasn't quite as "behaviorally advanced" as once hypothesized]]>
-      </description>
-      <source:markdown>New research indicates &#34;Homo floresiensis&#34; probably wasn&#39;t hunting big game or using fire on Flores Island, suggesting the small-brained species wasn&#39;t quite as &#34;behaviorally advanced&#34; as once hypothesized</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1OMeCd8VthsYLp8ot1dA4IqiYSA=/420x240/filters:focal(1250x833:1251x834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/89/e8/89e86061-60e0-4484-af79-9da7aeac7343/skulls.jpg" length="518702" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/how-a-hungry-komodo-dragod-led-scientists-to-determine-our-small-hobbit-like-cousins-probably-werent-that-smart-after-all-180989078/</guid>
-    </item>    <item>
-      <title>NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies</title>
-      <link>https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/</link>
-      <description>
-        <![CDATA[As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE launched [&#8230;]]]>
-      </description>
-      <source:markdown>As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE launched \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1014451</guid>
-      <category>Communicating and Navigating with Missions</category>
-      <category>Ames Research Center</category>
-      <category>Earth&#39;s Moon</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Small Business Innovation Research / Small Business</category>
-      <category>Small Spacecraft Technology Program</category>
-      <category>Space Communications Technology</category>
-    </item>    <item>
-      <title>How Nations Are Deploying AI for Strategic Priorities</title>
-      <link>https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/</link>
-      <description>
-        <![CDATA[Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so [&#8230;]]]>
-      </description>
-      <source:markdown>Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95955</guid>
-      <category>AI</category>
-      <category>Explainer</category>
-      <category>AI Factory</category>
-      <category>AI for Good</category>
-      <category>Artificial Intelligence</category>
-      <category>Economic Development</category>
-      <category>Trustworthy AI</category>
-    </item>    <item>
-      <title>Researchers Reveal the Power of ‘Quantum Proofs’</title>
-      <link>https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/</link>
-      <description>
-        <![CDATA[When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world.             <p>The post <a href="https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/" target="_blank">Researchers Reveal the Power of ‘Quantum Proofs’</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world.
-
-The post [Researchers Reveal the Power of ‘Quantum Proofs’](https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=163912</guid>
-      <category>Computer Science</category>
-    </item>    <item>
-      <title>See Ten Spectacular Images From This Year&#39;s Astronomy Photographer of the Year Contest That Capture the Wonders of the Universe</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-ten-spectacular-images-from-this-years-astronomy-photographer-of-the-year-contest-that-capture-the-wonders-of-the-universe-180989065/</link>
-      <description>
-        <![CDATA[The pictures, on the competition's shortlist, reveal the remarkable celestial objects that lie above our heads, both in deep space and closer to home]]>
-      </description>
-      <source:markdown>The pictures, on the competition&#39;s shortlist, reveal the remarkable celestial objects that lie above our heads, both in deep space and closer to home</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/966CgDXvreAQi40qRRDgPHEXX2U=/420x240/filters:focal(1000x567:1001x568)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/c9/d6c9d24f-5757-4b80-9d69-831be3c9e2ea/the_crimson_vortex_and_sapphire_blossoms_of_andromeda__chuhong_yu_and_zuoming_wang.jpg" length="997148" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-ten-spectacular-images-from-this-years-astronomy-photographer-of-the-year-contest-that-capture-the-wonders-of-the-universe-180989065/</guid>
-    </item>    <item>
-      <title>NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision</title>
-      <link>https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/</link>
-      <description>
-        <![CDATA[In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]]]>
-      </description>
-      <source:markdown>In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/</guid>
-      <category>Astrophysics</category>
-      <category>Elliptical Galaxies</category>
-      <category>Galaxies</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Interacting Galaxies</category>
-      <category>James Webb Space Telescope (JWST)</category>
-      <category>Science &#38; Research</category>
-      <category>The Universe</category>
-    </item>    <item>
-      <title>Sky Uber? Air taxis could be here soon</title>
-      <link>https://www.npr.org/2026/07/06/nx-s1-5821267/air-tech-flying-taxi-plane-helicopter</link>
-      <description>
-        <![CDATA[Taking an air taxi to the airport may become as simple as ordering a ride share today. In our first episode in our summer series Tech Camp, we explore how a futuristic vehicle that transforms from helicopter to propeller plane is already taking flight in New York and San Francisco. This new kind of commuting might be here sooner than you think: A law just went into effect to build infrastructure for them in places like airports. <em>Short Wave</em> host Regina Barber speaks with the startup Joby and Georgia Tech aerospace experts about the safety, the science and what an actual ride would look like from app to air. Plus, we get into the history of the air taxis of the past and why those airlines no longer exist.<br/><br/><em>Interested in more tech episodes? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/shortwave"target="_blank"   ><em>plus.npr.org/shortwave</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Taking an air taxi to the airport may become as simple as ordering a ride share today. In our first episode in our summer series Tech Camp, we explore how a futuristic vehicle that transforms from helicopter to propeller plane is already taking flight in New York and San Francisco. This new kind of commuting might be here sooner than you think: A law just went into effect to build infrastructure for them in places like airports. _Short Wave_ host Regina Barber speaks with the startup Joby and Georgia Tech aerospace experts about the safety, the science and what an actual ride would look like from app to air. Plus, we get into the history of the air taxis of the past and why those airlines no longer exist.
-
-_Interested in more tech episodes? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [_plus.npr.org/shortwave_](http://plus.npr.org/shortwave) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/674b52c8-a114-43cc-8d69-016bc7093c52/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=674b52c8-a114-43cc-8d69-016bc7093c52&feed=F0qJcgXZ&t=podcast&e=nx-s1-5821267&p=510351&d=845&size=13533980" length="13533980" type="audio/mpeg" />
-      <guid>cid://06cfd972-330b-4e37-bfe2-a21ee2c457d7</guid>
-    </item>    <item>
-      <title>Examining Algal Blooms in Blue Mesa</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/</link>
-      <description>
-        <![CDATA[Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.]]>
-      </description>
-      <source:markdown>Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/</guid>
-      <category>Earth Observatory</category>
-      <category>Surface Water</category>
-      <category>Water Blooms</category>
-      <category>Water Quality</category>
     </item>
   </channel>
 </rss>
