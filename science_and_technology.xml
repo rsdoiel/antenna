@@ -4,10 +4,155 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>28 Jul 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>29 Jul 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Windows 11 is quietly installing OneDrive Photos on your machine</title>
+      <link>https://www.osnews.com/story/145628/windows-11-is-quietly-installing-onedrive-photos-on-your-machine/</link>
+      <description>
+        <![CDATA[It&#8217;s that time of the week again, I guess. The year is 2026, and I’m still amazed when I find a new entry in my Start menu’s All apps list for an app I don’t remember installing. This time, it’s Microsoft again, and the product is OneDrive Photos, which appears to be yet another photo viewer and editor for Windows 11 that nobody asked to have installed automatically. While searching for Microsoft Photos, a new app called “OneDrive Photos” showed up in my results out of nowhere. It appears to have arrived either via Windows Update or an update for the OneDrive sync client on Windows. ↫ Mayank Parmar at Windows Latest Just don&#8217;t use Windows. You people paid me to use it and it was not a fun experience.]]>
+      </description>
+      <source:markdown>It’s that time of the week again, I guess. The year is 2026, and I’m still amazed when I find a new entry in my Start menu’s All apps list for an app I don’t remember installing. This time, it’s Microsoft again, and the product is OneDrive Photos, which appears to be yet another photo viewer and editor for Windows 11 that nobody asked to have installed automatically. While searching for Microsoft Photos, a new app called “OneDrive Photos” showed up in my results out of nowhere. It appears to have arrived either via Windows Update or an update for the OneDrive sync client on Windows. ↫ Mayank Parmar at Windows Latest Just don’t use Windows. You people paid me to use it and it was not a fun experience.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145628</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>Ubuntu Touch 24.04-2.0 and 24.04-1.4 released</title>
+      <link>https://www.osnews.com/story/145623/ubuntu-touch-24-04-2-0-and-24-04-1-4-released/</link>
+      <description>
+        <![CDATA[Ubuntu Touch, the mobile Linux operating system originally started by, you guessed it, Ubuntu, but now managed by UBports, released versions 24.04-2.0 and 24.04-1.4. The latter is a maintenance release with some bug fixes and minor changes, while the former is a bigger release with quite a few improvements, so let&#8217;s focus on that one. Ubuntu Touch 24.04-2.0 updates the Chromium engine for the Morph browser from 87 to 134, which is massive leap forward, while still lagging behind the most recent version quite a bit. This release also adds a Widevine installer for people who want to view DRM-encumbered content on the web. This release also adds support for notches and rounded corners in smartphone displays, so that content in the UI can dodge these. There&#8217;s also a screenshot editor for making basic edits to screenshots, as well as the ability to print straight from your device. Of course, there&#8217;s the usual list of bugfixes and smaller improvements, and, most importantly of all, support for over 2000 new emoji. Existing users can use the regular update tools, but do note that you&#8217;ll need to upgrade to 24.04-1.4 first, since it contains some provisions to enable the 24.04-2.0 update. If I had any of the listed supported devices, I would definitely want to do a proper review of Ubuntu Touch. It seems like it has made so much progress in recent years.]]>
+      </description>
+      <source:markdown>Ubuntu Touch, the mobile Linux operating system originally started by, you guessed it, Ubuntu, but now managed by UBports, released versions 24.04-2.0 and 24.04-1.4. The latter is a maintenance release with some bug fixes and minor changes, while the former is a bigger release with quite a few improvements, so let’s focus on that one. Ubuntu Touch 24.04-2.0 updates the Chromium engine for the Morph browser from 87 to 134, which is massive leap forward, while still lagging behind the most recent version quite a bit. This release also adds a Widevine installer for people who want to view DRM-encumbered content on the web. This release also adds support for notches and rounded corners in smartphone displays, so that content in the UI can dodge these. There’s also a screenshot editor for making basic edits to screenshots, as well as the ability to print straight from your device. Of course, there’s the usual list of bugfixes and smaller improvements, and, most importantly of all, support for over 2000 new emoji. Existing users can use the regular update tools, but do note that you’ll need to upgrade to 24.04-1.4 first, since it contains some provisions to enable the 24.04-2.0 update. If I had any of the listed supported devices, I would definitely want to do a proper review of Ubuntu Touch. It seems like it has made so much progress in recent years.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145623</guid>
+      <category>Ubuntu</category>
+    </item>    <item>
+      <title>State of multi-player Wayland</title>
+      <link>https://www.osnews.com/story/145621/state-of-multi-player-wayland/</link>
+      <description>
+        <![CDATA[I’ve been fascinated by the idea of attaching multiple mice to one computer, and then having multiple mouse cursors inside of one desktop environment! I just spent three weeks investigating how well that’s currently supported on Linux &#38; Wayland. Let me tell you what I found! The results are surprisingly cool. ↫ blinry It shouldn&#8217;t come as a surprise, though, that a lot of graphical user interfaces don&#8217;t really have any affordances for multiple mouse pointers manipulating the same object (e.g. one cursor drags the window, another tries to close it), but the possibilities are really endless here. It&#8217;s not quite there yet to be considered fully-featured and plug-and-play, but it&#8217;s a lot more capable than I thought it would be. The first thing that came to my mind is sitting down behind my computer with my kids to teach them the basics of using a GUI. Instead of having to pass the mouse back and forth, one of my kids (or both!) could have his own cursor, which is a lot more fun and collaborative. Games are obviously another great application for this sort of thing, especially things like classic board games. I hope this gets some more attention.]]>
+      </description>
+      <source:markdown>I’ve been fascinated by the idea of attaching multiple mice to one computer, and then having multiple mouse cursors inside of one desktop environment! I just spent three weeks investigating how well that’s currently supported on Linux &#38; Wayland. Let me tell you what I found! The results are surprisingly cool. ↫ blinry It shouldn’t come as a surprise, though, that a lot of graphical user interfaces don’t really have any affordances for multiple mouse pointers manipulating the same object (e.g. one cursor drags the window, another tries to close it), but the possibilities are really endless here. It’s not quite there yet to be considered fully-featured and plug-and-play, but it’s a lot more capable than I thought it would be. The first thing that came to my mind is sitting down behind my computer with my kids to teach them the basics of using a GUI. Instead of having to pass the mouse back and forth, one of my kids (or both!) could have his own cursor, which is a lot more fun and collaborative. Games are obviously another great application for this sort of thing, especially things like classic board games. I hope this gets some more attention.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145621</guid>
+      <category>Wayland</category>
+    </item>    <item>
+      <title>A Man Picking Berries in the Forest in Poland Might Have Stumbled Upon the Wreckage of an Allied Airplane From World War II</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-man-picking-berries-in-the-forest-in-poland-might-have-stumbled-upon-the-wreckage-of-an-allied-airplane-from-world-war-ii-180989219/</link>
+      <description>
+        <![CDATA[Experts are still investigating but note that an earlier discovery nearby identified part of the wing of a British Lancaster bomber]]>
+      </description>
+      <source:markdown>Experts are still investigating but note that an earlier discovery nearby identified part of the wing of a British Lancaster bomber</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2EQbBA9ufMCrvqYkIcGN9KyrO44=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/48/4e4842a1-490e-49d3-b0af-db0426c8b7e7/746589844_1340363594964410_3727259830028568757_n.jpeg" length="109853" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-man-picking-berries-in-the-forest-in-poland-might-have-stumbled-upon-the-wreckage-of-an-allied-airplane-from-world-war-ii-180989219/</guid>
+    </item>    <item>
+      <title>Are extreme wildfires the new normal?</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5909367/spain-france-oregon-canada-fires-smoke</link>
+      <description>
+        <![CDATA[With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire <em>Short Wave</em> staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surprisingly complicated! But don’t you worry. We get into all the nuances this episode.<br/><br/><em>Interested in more science behind the headlines? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire _Short Wave_ staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surprisingly complicated! But don’t you worry. We get into all the nuances this episode.
+
+_Interested in more science behind the headlines? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/dd54f085-5b01-4dd6-8601-3737d4e2dfe8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=dd54f085-5b01-4dd6-8601-3737d4e2dfe8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909367&p=510351&d=801&size=12818016" length="12818016" type="audio/mpeg" />
+      <guid>cid://ba787a47-dd2b-49a0-999c-91195a4d0bca</guid>
+    </item>    <item>
+      <title>Sizing Up the Sargassum Belt</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/</link>
+      <description>
+        <![CDATA[Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.]]>
+      </description>
+      <source:markdown>Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/</guid>
+      <category>Aqua</category>
+      <category>Earth Observatory</category>
+      <category>Goddard Space Flight Center</category>
+      <category>PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem)</category>
+      <category>Terra</category>
+      <category>Water Blooms</category>
+    </item>    <item>
+      <title>In This Bee Species, Why Do Some Daughters Leave Home While Others Stay &#39;Bee-hind&#39; to Help Mom?</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-this-bee-species-why-do-some-of-daughters-leave-home-while-others-stay-bee-hind-to-help-mom-180989218/</link>
+      <description>
+        <![CDATA[Biologists at the Smithsonian Tropical Research Institute investigated a flexible social bee species, which helps shed light on the evolution of more complex organizational structures among other insects]]>
+      </description>
+      <source:markdown>Biologists at the Smithsonian Tropical Research Institute investigated a flexible social bee species, which helps shed light on the evolution of more complex organizational structures among other insects</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GsUu2Ppw2V-ifW4p-EkdPLoI-1E=/420x240/filters:focal(600x449:601x450)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/76/3c/763cfe35-3de5-449b-b95a-a69e128179c0/sweat_bee_1_carmelo_lopez.jpg" length="152309" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-this-bee-species-why-do-some-of-daughters-leave-home-while-others-stay-bee-hind-to-help-mom-180989218/</guid>
+    </item>    <item>
+      <title>This Alligator-Infested Swamp in the American South Just Joined the UNESCO World Heritage List, Along With the Home of the Greek Gods</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-alligator-infested-swamp-in-the-american-south-just-joined-the-unesco-world-heritage-list-along-with-the-homes-of-the-greek-gods-180989213/</link>
+      <description>
+        <![CDATA[The 25 new locations, determined to bear "outstanding universal value" for the world, also include the D-Day landing site in Normandy, France]]>
+      </description>
+      <source:markdown>The 25 new locations, determined to bear &#34;outstanding universal value&#34; for the world, also include the D-Day landing site in Normandy, France</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NA7sZHZTjWPQfcp_ZTez6zixVto=/420x240/filters:focal(2304x1733:2305x1734)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/71/c1713dfc-2ae8-47d4-bdad-8b343dbf55ff/usfws-okefenokee-national-wildlife-refuge.jpeg" length="3812602" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-alligator-infested-swamp-in-the-american-south-just-joined-the-unesco-world-heritage-list-along-with-the-homes-of-the-greek-gods-180989213/</guid>
+    </item>    <item>
+      <title>Keep an Eye Out for Two Stellar Meteor Showers Peaking This Week, the Southern Delta Aquariids and the Alpha Capricornids</title>
+      <link>https://www.smithsonianmag.com/smart-news/keep-eye-out-two-stellar-meteor-showers-peak-this-week-southern-delta-aquariids-alpha-capricornids-180989215/</link>
+      <description>
+        <![CDATA[A nearly full moon may obscure the fireballs falling from the remains of two comets that passed through Earth's orbit]]>
+      </description>
+      <source:markdown>A nearly full moon may obscure the fireballs falling from the remains of two comets that passed through Earth&#39;s orbit</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PgIolM4ko1jBjfB_DEuXFNr0pRM=/420x240/filters:focal(1920x1125:1921x1126)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7b/bf/7bbf5505-5295-49a1-806e-2a95cbb331b3/3840px-meteor_shower_nhq202508030001.jpg" length="2608597" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/keep-eye-out-two-stellar-meteor-showers-peak-this-week-southern-delta-aquariids-alpha-capricornids-180989215/</guid>
+    </item>    <item>
+      <title>This Medieval Byzantine Shipwreck Boasts More Gold Treasures Than Any Other Vessel Found Beneath the Mediterranean</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-medieval-byzantine-shipwreck-boasts-more-gold-treasures-than-any-other-vessel-found-beneath-the-mediterranean-180989217/</link>
+      <description>
+        <![CDATA[The vessel sank in the Adriatic Sea in the seventh or eighth century C.E. Its cargo included a gold signet ring likely associated with the emperor Heraclius and gold belts encrusted with rubies, emeralds and pearls]]>
+      </description>
+      <source:markdown>The vessel sank in the Adriatic Sea in the seventh or eighth century C.E. Its cargo included a gold signet ring likely associated with the emperor Heraclius and gold belts encrusted with rubies, emeralds and pearls</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dVeT8KUOV49UkGIZGkpbJyTXETA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/4c/1e4c7268-63f9-4970-8549-265d402affea/gold-artifact.png" length="2236496" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-medieval-byzantine-shipwreck-boasts-more-gold-treasures-than-any-other-vessel-found-beneath-the-mediterranean-180989217/</guid>
+    </item>    <item>
+      <title>TSA Officers Found Five Cannonballs Stolen From a Civil War Fort in a Checked Suitcase at an Alabama Airport</title>
+      <link>https://www.smithsonianmag.com/smart-news/tsa-officers-found-five-cannonballs-stolen-from-a-civil-war-fort-in-a-checked-suitcase-at-an-alabama-airport-180989212/</link>
+      <description>
+        <![CDATA[The inert artifacts gave security officers in Gulf Shores a good scare. Investigators say the weapons came from Fort Morgan, which guards Mobile Bay]]>
+      </description>
+      <source:markdown>The inert artifacts gave security officers in Gulf Shores a good scare. Investigators say the weapons came from Fort Morgan, which guards Mobile Bay</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jVrf5SOchds7tWoJO8vofrIDeis=/420x240/filters:focal(1418x945:1419x946)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/17/2a17f943-345f-4daf-bcaa-4d8dc5460c1a/cannonball_single_high-res.jpeg" length="2328975" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/tsa-officers-found-five-cannonballs-stolen-from-a-civil-war-fort-in-a-checked-suitcase-at-an-alabama-airport-180989212/</guid>
+    </item>    <item>
+      <title>Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson</title>
+      <link>https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/</link>
+      <description>
+        <![CDATA[As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge [&#8230;]]]>
+      </description>
+      <source:markdown>As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson01_captions.mp4" length="11936096" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/07/Reachy-Mini-Jetson-Assistant.mp4" length="14260582" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/07/JONS_robotic-ai-podcast.mp4" length="14585121" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=96921</guid>
+      <category>Robotics</category>
+      <category>Embedded Computing</category>
+      <category>Jetson</category>
+      <category>Physical AI</category>
+    </item>    <item>
+      <title>See a Rare Ceiling Fresco From Pompeii That Archaeologists Are Carefully Reassembling, Piece by Piece, Like an Ancient Puzzle</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-a-rare-ceiling-fresco-from-pompeii-that-archaeologists-are-carefully-reassembling-piece-by-piece-like-an-ancient-puzzle-180989209/</link>
+      <description>
+        <![CDATA[Located in the banquet hall of a home with an adjoining bakery, the fresco shows the mythological romance of Dionysus, the god of revelry and wine, and Ariadne, the Cretan princess]]>
+      </description>
+      <source:markdown>Located in the banquet hall of a home with an adjoining bakery, the fresco shows the mythological romance of Dionysus, the god of revelry and wine, and Ariadne, the Cretan princess</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VJITK9bsiSn1UNf22YSupng6u00=/420x240/filters:focal(596x510:597x511)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/1a/231a3df2-a7e7-4ef8-9039-1a7fb2f22c01/soffitto-casa-panificio-regio-ix-9-1-1191x1024.jpg" length="251332" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-a-rare-ceiling-fresco-from-pompeii-that-archaeologists-are-carefully-reassembling-piece-by-piece-like-an-ancient-puzzle-180989209/</guid>
+    </item>    <item>
+      <title>An Endangered Kemp&#39;s Ridley Sea Turtle Named Pancake Makes a Triumphant Return to the Ocean After Months of Rehabilitation</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-endangered-kemps-ridley-sea-turtle-named-pancake-makes-a-triumphant-return-to-the-ocean-after-months-of-rehabilitation-180989205/</link>
+      <description>
+        <![CDATA[The cold-stunned turtle was rescued last fall on Cape Cod and has since made a full recovery. The reptile, whose sex remains unknown, is estimated to be between 2 and 5 years old and weighed 11 pounds at the time of release]]>
+      </description>
+      <source:markdown>The cold-stunned turtle was rescued last fall on Cape Cod and has since made a full recovery. The reptile, whose sex remains unknown, is estimated to be between 2 and 5 years old and weighed 11 pounds at the time of release</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ixpjDgp27F6AcP6Hn1EuQM8JEmg=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/4c/0b4c5c07-6f4e-41b1-9e45-40d5b79cac11/pancake_release_-_credit_mary_dixon_wcs_2.jpeg" length="431382" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/an-endangered-kemps-ridley-sea-turtle-named-pancake-makes-a-triumphant-return-to-the-ocean-after-months-of-rehabilitation-180989205/</guid>
+    </item>    <item>
       <title>A cooler of eggs and a bold plan to save leopard sharks</title>
       <link>https://www.npr.org/2026/07/28/nx-s1-5903001/leopard-zebra-shark-conservation-indonesia</link>
       <description>
@@ -103,9 +248,15 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/</guid>
       <category>Eclipses</category>
+      <category>Goddard Space Flight Center</category>
       <category>Heliophysics</category>
+      <category>Johnson Space Center</category>
+      <category>Langley Research Center</category>
+      <category>Scientific Balloons</category>
+      <category>Skywatching</category>
       <category>Solar Eclipses</category>
       <category>The Sun</category>
+      <category>WB-57</category>
     </item>    <item>
       <title>Art Sleuths Discovered a Lost and ‘Enormously Important’ Portrait of an Elite Indian Woman by This Pioneering Scottish Painter</title>
       <link>https://www.smithsonianmag.com/smart-news/art-sleuths-discovered-a-long-lost-and-enormously-important-portrait-of-an-elite-indian-woman-by-this-pioneering-scottish-painter-180989201/</link>
@@ -3115,203 +3266,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/</guid>
       <category>Earth Observatory</category>
       <category>Wildfires</category>
-    </item>    <item>
-      <title>Most slopcode projects are abandoned and deleted within months of release</title>
-      <link>https://www.osnews.com/story/145469/most-slopcode-projects-are-abandoned-and-deleted-within-months-of-release/</link>
-      <description>
-        <![CDATA[About a month ago, Flathub announced a ban on slopcoded applications. Evangelos &#8220;GeopJr&#8221; Paterakis, developer of a number of popular Linux applications and ton of other things, did some research into just how many applications tagged with &#8220;AI slop&#8221;, a tag Flathub reviewers used to keep track of slopcoded applications submitted to Flathub, actually survived the test of time. The results are exactly what you&#8217;d expect. Of the 120 unique repos, 32 were maintained and 88 were abandoned. No seriously, a big portion of them was completely deleted, nowhere to be found, others stopped 6 months ago, right after submitting to Flathub. ↫ Evangelos &#8220;GeopJr&#8221; Paterakis That&#8217;s absolutely soul-crushing. Why should Flathub&#8217;s reviewers spend their precious, limited time talking to lazy slopcoders&#8217; &#8220;AI&#8221; agents to get their slopcoded applications into Flathub, when 70% of these applications are abandoned or outright deleted from existence within mere months of being submitted? Minimal effort for the slopcoders, maximum effort for the reviewers. Just dump a bunch of shitty code over the fence, let a chatbot handle the interactions with the reviewers, and pretend you made a valuable contribution. This is the contradiction slopcode enthusiasts really don&#8217;t want to talk about. If these &#8220;AI&#8221; tools are so great, where is all the amazing new software? Where&#8217;s the massive gains in software quality? Isn&#8217;t the story that &#8220;AI&#8221; tools do the menial work, giving programmers more time to focus on improving their software? Reality does not seem to match the story we&#8217;re being sold. Despite these slopcode tools being out and available for years now, there&#8217;s no influx of great applications and other software, there&#8217;s no rise in software quality, nothing. What we mostly seem to be getting are slopcoded projects nobody, not even their &#8220;creators&#8221; care about, so they just get abandoned and deleted as quickly as they were dredged up from the bottom of the programming barrel. These aren&#8217;t applications created because someone wanted them to exist; these are applications created because some mid programmer got high on their &#8220;AI&#8221; supply and fancied themselves better at programming than they really are &#8211; only to realise once the comedown hits they&#8217;ve got crappy, barely working, entirely unmaintainable gibberish vaguely looking like code nobody can make head nor tails of. And then they abandon the project, ready for the next high &#8211; leaving everyone else to clean up their mess. What a miserable workflow.]]>
-      </description>
-      <source:markdown>About a month ago, Flathub announced a ban on slopcoded applications. Evangelos “GeopJr” Paterakis, developer of a number of popular Linux applications and ton of other things, did some research into just how many applications tagged with “AI slop”, a tag Flathub reviewers used to keep track of slopcoded applications submitted to Flathub, actually survived the test of time. The results are exactly what you’d expect. Of the 120 unique repos, 32 were maintained and 88 were abandoned. No seriously, a big portion of them was completely deleted, nowhere to be found, others stopped 6 months ago, right after submitting to Flathub. ↫ Evangelos “GeopJr” Paterakis That’s absolutely soul-crushing. Why should Flathub’s reviewers spend their precious, limited time talking to lazy slopcoders’ “AI” agents to get their slopcoded applications into Flathub, when 70% of these applications are abandoned or outright deleted from existence within mere months of being submitted? Minimal effort for the slopcoders, maximum effort for the reviewers. Just dump a bunch of shitty code over the fence, let a chatbot handle the interactions with the reviewers, and pretend you made a valuable contribution. This is the contradiction slopcode enthusiasts really don’t want to talk about. If these “AI” tools are so great, where is all the amazing new software? Where’s the massive gains in software quality? Isn’t the story that “AI” tools do the menial work, giving programmers more time to focus on improving their software? Reality does not seem to match the story we’re being sold. Despite these slopcode tools being out and available for years now, there’s no influx of great applications and other software, there’s no rise in software quality, nothing. What we mostly seem to be getting are slopcoded projects nobody, not even their “creators” care about, so they just get abandoned and deleted as quickly as they were dredged up from the bottom of the programming barrel. These aren’t applications created because someone wanted them to exist; these are applications created because some mid programmer got high on their “AI” supply and fancied themselves better at programming than they really are – only to realise once the comedown hits they’ve got crappy, barely working, entirely unmaintainable gibberish vaguely looking like code nobody can make head nor tails of. And then they abandon the project, ready for the next high – leaving everyone else to clean up their mess. What a miserable workflow.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145469</guid>
-      <category>Clown car</category>
-    </item>    <item>
-      <title>Strange Spheres Washed Ashore on an Australian Beach. Authorities Say They&#39;re Probably &#39;Space Balls&#39;—Empty Fuel Vessels From a Rocket</title>
-      <link>https://www.smithsonianmag.com/smart-news/strange-spheres-washed-ashore-on-an-australian-beach-authorities-say-theyre-probably-space-balls-empty-fuel-vessels-from-a-rocket-180989082/</link>
-      <description>
-        <![CDATA[The shiny objects—each roughly twice the size of a basketball—began to appear on July 3. Authorities initially worried that they were hazardous but have since determined that they're likely safe bits of space junk]]>
-      </description>
-      <source:markdown>The shiny objects—each roughly twice the size of a basketball—began to appear on July 3. Authorities initially worried that they were hazardous but have since determined that they&#39;re likely safe bits of space junk</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/z6YAeIGNEjPfOrARmglg1NYb6os=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e7/12/e712ea2b-abc3-487d-b14e-0b3aece0145d/smithsonian_feature_images_2.png" length="3564450" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/strange-spheres-washed-ashore-on-an-australian-beach-authorities-say-theyre-probably-space-balls-empty-fuel-vessels-from-a-rocket-180989082/</guid>
-    </item>    <item>
-      <title>Linux ported to the Atari Jaguar</title>
-      <link>https://www.osnews.com/story/145467/linux-ported-to-the-atari-jaguar/</link>
-      <description>
-        <![CDATA[Only a few days ago we had Linux on the Mega Drive, and someone took that as a challenge, so now we have Linux on the Atari Jaguar. The Jaguar has a very different architecture than the Mega Drive, but does happen to use a processor from the same 68000-family. Interestingly enough, to this day, Linux has architecture code for the 68000-family of processors. 68040, 68030, 68010&#8230; and even the original base 68000 processor. All neatly structured under arch/m68k/. ↫ Joel Bueno And, well, that means Linux can indeed be made to work on the Jaguar, with some hacking and magic, of course.]]>
-      </description>
-      <source:markdown>Only a few days ago we had Linux on the Mega Drive, and someone took that as a challenge, so now we have Linux on the Atari Jaguar. The Jaguar has a very different architecture than the Mega Drive, but does happen to use a processor from the same 68000-family. Interestingly enough, to this day, Linux has architecture code for the 68000-family of processors. 68040, 68030, 68010… and even the original base 68000 processor. All neatly structured under arch/m68k/. ↫ Joel Bueno And, well, that means Linux can indeed be made to work on the Jaguar, with some hacking and magic, of course.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145467</guid>
-      <category>Linux</category>
-    </item>    <item>
-      <title>Tall Trees Were Thought to Be More Vulnerable to Drought. But These Towering Plants in Southeast Asia Have Adapted to Move Water Efficiently</title>
-      <link>https://www.smithsonianmag.com/smart-news/tall-trees-were-thought-to-be-more-vulnerable-to-drought-but-these-towering-plants-in-southeast-asia-have-adapted-to-move-water-efficiently-180989075/</link>
-      <description>
-        <![CDATA[A new study found that enormous dipterocarp trees have special adaptations to transport water up to their highest limbs, challenging the assumption that they would more easily succumb to dry conditions]]>
-      </description>
-      <source:markdown>A new study found that enormous dipterocarp trees have special adaptations to transport water up to their highest limbs, challenging the assumption that they would more easily succumb to dry conditions</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AmbADXKUYQGiSP_FN8OCcHDLk0o=/420x240/filters:focal(720x384:721x385)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/71/b071cc13-e770-40e5-a1ed-78fd6bbe247d/a-57m-tall-dipterocarp-tree-with-a-double-rope-technique-drt-r-df483c645cc6965672ad64243862aaf7.jpg" length="563376" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/tall-trees-were-thought-to-be-more-vulnerable-to-drought-but-these-towering-plants-in-southeast-asia-have-adapted-to-move-water-efficiently-180989075/</guid>
-    </item>    <item>
-      <title>A Pair of 2,000-Year-Old Gold Rings, One Engraved With Indian Script, Was Discovered in an Iron Age Burial Ground in Thailand</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-pair-of-2000-year-old-gold-rings-one-engraved-with-indian-script-was-discovered-in-an-iron-age-burial-ground-in-thailand-180989081/</link>
-      <description>
-        <![CDATA[The engraving seems to reference an "auspicious" zodiac sign in Indian or Vedic astrology]]>
-      </description>
-      <source:markdown>The engraving seems to reference an &#34;auspicious&#34; zodiac sign in Indian or Vedic astrology</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tEwDMbam9IhMWpFW1ht1xZmvlzs=/420x240/filters:focal(738x556:739x557)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/bf/74bf4c64-bce0-4935-a16d-66a5153fee2c/ap26187214540399.jpg" length="820893" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-pair-of-2000-year-old-gold-rings-one-engraved-with-indian-script-was-discovered-in-an-iron-age-burial-ground-in-thailand-180989081/</guid>
-    </item>    <item>
-      <title>This Giant Planet May Have Survived the Death of Its Star. The James Webb Space Telescope Just Found Its Atmosphere</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-giant-planet-survived-the-death-of-its-star-the-james-webb-space-telescope-just-found-its-atmosphere-180989077/</link>
-      <description>
-        <![CDATA[New observations of WD 1856 b, a gas giant closely orbiting a white dwarf, offer a preview of what could happen to Jupiter and Saturn after the sun dies in about five billion years.]]>
-      </description>
-      <source:markdown>New observations of WD 1856 b, a gas giant closely orbiting a white dwarf, offer a preview of what could happen to Jupiter and Saturn after the sun dies in about five billion years.</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/z_V2yVv16vLjWXpwhWdlNG5nb_4=/420x240/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/c6/2dc66728-c6a9-481f-9ac2-582ed1f62ca5/stsci-01kv8smvyfk67j7rprw1hb0sks.jpg" length="3446147" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-giant-planet-survived-the-death-of-its-star-the-james-webb-space-telescope-just-found-its-atmosphere-180989077/</guid>
-    </item>    <item>
-      <title>Desktop settings research: what we learned from your feedback</title>
-      <link>https://blog.thunderbird.net/2026/07/desktopsettings/</link>
-      <description>
-        <![CDATA[<p>A few weeks ago, we conducted hour-long conversations with 10 of our users to dig deep into how you manage your preferences and configurations in Thunderbird desktop. While this specific research cycle focused on the desktop experience, our ultimate goal is a holistic strategy that ensures our mobile settings feel like a natural extension of [&#8230;]</p>
-        <p>The post <a href="https://blog.thunderbird.net/2026/07/desktopsettings/">Desktop settings research: what we learned from your feedback</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
-      </description>
-      <source:markdown>A few weeks ago, we conducted hour-long conversations with 10 of our users to dig deep into how you manage your preferences and configurations in Thunderbird desktop. While this specific research cycle focused on the desktop experience, our ultimate goal is a holistic strategy that ensures our mobile settings feel like a natural extension of \[…\]
-
-The post [Desktop settings research: what we learned from your feedback](https://blog.thunderbird.net/2026/07/desktopsettings/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
-      <guid>cid://https://blog.thunderbird.net/?p=4419</guid>
-      <category>Community</category>
-      <category>Product</category>
-      <category>Thunderbird</category>
-      <category>Desktop</category>
-      <category>Feedback</category>
-      <category>Research</category>
-      <category>Settings</category>
-    </item>    <item>
-      <title>NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge</title>
-      <link>https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/</link>
-      <description>
-        <![CDATA[NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between [&#8230;]]]>
-      </description>
-      <source:markdown>NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1014160</guid>
-      <category>Goddard Space Flight Center</category>
-    </item>    <item>
-      <title>NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health</title>
-      <link>https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/</link>
-      <description>
-        <![CDATA[Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, […]]]>
-      </description>
-      <source:markdown>Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/</guid>
-      <category>Deep Space Network</category>
-      <category>Dwarf Planets</category>
-      <category>Missions</category>
-      <category>NASA Directorates</category>
-      <category>New Horizons</category>
-      <category>Planetary Science</category>
-      <category>Planetary Science Division</category>
-      <category>Pluto</category>
-      <category>Science Mission Directorate</category>
-      <category>The Kuiper Belt</category>
-      <category>The Solar System</category>
-      <category>Uncategorized</category>
-    </item>    <item>
-      <title>Can You Guess the Origins of Papyrus Fragments or Painted Ceramics? A College Student Turned the Met&#39;s Open-Access Database Into an Online Game</title>
-      <link>https://www.smithsonianmag.com/smart-news/can-you-guess-the-origins-of-papyrus-fragments-or-painted-ceramics-a-college-student-turned-the-mets-open-access-database-into-an-online-game-180989080/</link>
-      <description>
-        <![CDATA[If you consider yourself an art history buff, test your smarts with Anthropeum. The game pulls ten images from the Met's open-access archive and challenges players to identify each artifact's time and place of origin]]>
-      </description>
-      <source:markdown>If you consider yourself an art history buff, test your smarts with Anthropeum. The game pulls ten images from the Met&#39;s open-access archive and challenges players to identify each artifact&#39;s time and place of origin</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XMGqmO1rhwWTwd5iZEiaI0BmpK8=/420x240/filters:focal(2000x1752:2001x1753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/97/61971e2e-f793-480f-ae31-f911b9150d54/dp-43517-001.jpg" length="1514393" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/can-you-guess-the-origins-of-papyrus-fragments-or-painted-ceramics-a-college-student-turned-the-mets-open-access-database-into-an-online-game-180989080/</guid>
-    </item>    <item>
-      <title>Artemis II Crew and Apollo 14 Moon Tree</title>
-      <link>https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/</link>
-      <description>
-        <![CDATA[In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA&#8217;s Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon tree of the loblolly pine species. The original Apollo Moon trees were grown from seeds carried aboard [&#8230;]]]>
-      </description>
-      <source:markdown>In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA’s Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon tree of the loblolly pine species. The original Apollo Moon trees were grown from seeds carried aboard \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1015806</guid>
-    </item>    <item>
-      <title>Cyborg Cockroaches Could Help Find Survivors of Natural Disasters. New Diving Suits Allow the Insects to Expand Their Search Underwater</title>
-      <link>https://www.smithsonianmag.com/smart-news/cyborg-cockroaches-could-help-find-survivors-of-natural-disasters-new-diving-suits-allow-the-insects-to-expand-their-search-underwater-180989066/</link>
-      <description>
-        <![CDATA[Previously, researchers created electrical implants to control cockroaches' movements for search-and-rescue missions. Now, they've made 3D-printed suits that provide oxygen, allowing the critters to survive submerged for up to three hours]]>
-      </description>
-      <source:markdown>Previously, researchers created electrical implants to control cockroaches&#39; movements for search-and-rescue missions. Now, they&#39;ve made 3D-printed suits that provide oxygen, allowing the critters to survive submerged for up to three hours</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4WGOZgYQLU1RnLZYt6w1TZ4EeAY=/420x240/filters:focal(500x333:501x334)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/f4/d4f47aed-1aa9-4514-8c55-22a04d680fa7/3d-printed-suit-for-cyborg-insects-extends-operations-underwat-5a5a58b7afb4e2fb88677e29e9f0b7cf.jpg" length="122372" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/cyborg-cockroaches-could-help-find-survivors-of-natural-disasters-new-diving-suits-allow-the-insects-to-expand-their-search-underwater-180989066/</guid>
-    </item>    <item>
-      <title>July 2026 Satellite Puzzler</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/</link>
-      <description>
-        <![CDATA[Your challenge is to tell us the location of the satellite image and why it is interesting.]]>
-      </description>
-      <source:markdown>Your challenge is to tell us the location of the satellite image and why it is interesting.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/</guid>
-      <category>Earth Observatory</category>
-    </item>    <item>
-      <title>AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</link>
-      <description>
-        <![CDATA[Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code [&#8230;]]]>
-      </description>
-      <source:markdown>Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95986</guid>
-      <category>AI Infrastructure</category>
-      <category>Agentic AI</category>
-      <category>AI Factory</category>
-      <category>AI Training</category>
-      <category>Artificial Intelligence</category>
-      <category>Hardware</category>
-      <category>Inference</category>
-      <category>NVIDIA BlueField</category>
-      <category>NVIDIA Rubin</category>
-      <category>NVIDIA Vera</category>
-    </item>    <item>
-      <title>Could this anti-aging dog pill lead to one for you too?</title>
-      <link>https://www.npr.org/2026/07/07/nx-s1-5830039/dog-health-live-life-drug</link>
-      <description>
-        <![CDATA[Every dog lover’s greatest fear is inevitably losing their pet to time. We want our furry pals to stick around as long as they can. That wish may soon become reality with a new pill from a company called Loyal. It aims to extend the lives–and health–of dogs. This new drug also serves as a pitstop on a much bigger quest: to eventually lengthen human lives.<br/><br/><em>Interested in more science about your pets? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at <a href="http://plus.npr.org"target="_blank"   >plus.npr.org</a>. <br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Every dog lover’s greatest fear is inevitably losing their pet to time. We want our furry pals to stick around as long as they can. That wish may soon become reality with a new pill from a company called Loyal. It aims to extend the lives–and health–of dogs. This new drug also serves as a pitstop on a much bigger quest: to eventually lengthen human lives.
-
-_Interested in more science about your pets? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org).
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/34a58b33-12ff-47bb-aa8b-4ad9c8f1cefd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=34a58b33-12ff-47bb-aa8b-4ad9c8f1cefd&feed=F0qJcgXZ&t=podcast&e=nx-s1-5830039&p=510351&d=683&size=10942215" length="10942215" type="audio/mpeg" />
-      <guid>cid://83bd137b-10ec-48ae-bc2c-8c4758345ba5</guid>
-    </item>    <item>
-      <title>NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community</title>
-      <link>https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</link>
-      <description>
-        <![CDATA[Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are [&#8230;]]]>
-      </description>
-      <source:markdown>Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95979</guid>
-      <category>Robotics</category>
-      <category>Artificial Intelligence</category>
-      <category>Cosmos</category>
-      <category>Isaac</category>
-      <category>Jetson</category>
-      <category>Open Source</category>
-      <category>Physical AI</category>
-      <category>Simulation and Design</category>
-      <category>Synthetic Data Generation</category>
-    </item>    <item>
-      <title>The World Cup From 250 Miles Up</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/</link>
-      <description>
-        <![CDATA[Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.]]>
-      </description>
-      <source:markdown>Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/</guid>
-      <category>Earth Observatory</category>
     </item>
   </channel>
 </rss>

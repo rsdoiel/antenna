@@ -4,10 +4,127 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>28 Jul 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>29 Jul 26 06:49 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Curiosa mathematica, part II : by Lewis Carroll</title>
+      <link>https://www.gutenberg.org/ebooks/79080</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Alley ways by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79202</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Key to palmistry by Louis Williams</title>
+      <link>https://www.gutenberg.org/ebooks/79203</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Miss Mole : by E. H.  Young</title>
+      <link>https://www.gutenberg.org/ebooks/79210</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Number one Joy Street :</title>
+      <link>https://www.gutenberg.org/ebooks/79207</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rai Jakkerintytär : by Joel Lehtonen</title>
+      <link>https://www.gutenberg.org/ebooks/79209</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Tar : by Sherwood Anderson</title>
+      <link>https://www.gutenberg.org/ebooks/79204</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Woman in White by Wilkie Collins</title>
+      <link>https://www.gutenberg.org/ebooks/583</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Morgane by Charles Le Goffic</title>
+      <link>https://www.gutenberg.org/ebooks/79211</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The death of a millionaire by G. D. H.  Cole and Margaret Cole</title>
+      <link>https://www.gutenberg.org/ebooks/79206</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Discovery by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79205</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fusing by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79214</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The meddler by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79212</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Il peccato del dottore : by Mario Pratesi</title>
+      <link>https://www.gutenberg.org/ebooks/79208</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>The natural history of ants by Pierre Huber</title>
+      <link>https://www.gutenberg.org/ebooks/79213</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Protestant Ethic and the Spirit of Capitalism, by Max Weber</title>
+      <link>https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons</link>
+      <description>
+        <![CDATA[A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.]]>
+      </description>
+      <source:markdown>A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/max-weber_the-protestant-ethic-and-the-spirit-of-capitalism_talcott-parsons.epub?source=feed" length="619542" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons</guid>
+      <category>Nonfiction</category>
+      <category>Philosophy</category>
+      <category>Spirituality</category>
+    </item>    <item>
       <title>Robert Louis Stevenson reader by Catherine T.  Bryce and Robert Louis Stevenson</title>
       <link>https://www.gutenberg.org/ebooks/79196</link>
       <description>
@@ -50,13 +167,6 @@
       </description>
       <source:markdown>Language: Finnish</source:markdown>
     </item>    <item>
-      <title>Alley ways by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79202</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>The fire by Helen R.  Hull</title>
       <link>https://www.gutenberg.org/ebooks/79192</link>
       <description>
@@ -80,13 +190,6 @@
     </item>    <item>
       <title>The proof by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79194</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Key to palmistry by Louis Williams</title>
-      <link>https://www.gutenberg.org/ebooks/79203</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1213,13 +1316,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Curiosa mathematica, part II : by Lewis Carroll</title>
-      <link>https://www.gutenberg.org/ebooks/79080</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>The Mystery of Edwin Drood, by Charles Dickens</title>
       <link>https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood</link>
       <description>
@@ -1526,100 +1622,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Deadlock, by Dorothy M. Richardson</title>
-      <link>https://standardebooks.org/ebooks/dorothy-m-richardson/deadlock</link>
-      <description>
-        <![CDATA[An independent woman living in a London boarding house at the dawn of the twentieth century becomes involved with a fellow lodger from Russia.]]>
-      </description>
-      <source:markdown>An independent woman living in a London boarding house at the dawn of the twentieth century becomes involved with a fellow lodger from Russia.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/deadlock/downloads/dorothy-m-richardson_deadlock.epub?source=feed" length="587662" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/dorothy-m-richardson/deadlock</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>The zoology of the voyage of H.M.S. Beagle [vol. 2 of 5] : by G. R.  Waterhouse</title>
-      <link>https://www.gutenberg.org/ebooks/69577</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Prisoners of Poverty: Women Wage-Workers, Their Trades and Their Lives by Helen Campbell</title>
-      <link>https://www.gutenberg.org/ebooks/34060</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The manliness of Christ by Thomas Hughes</title>
-      <link>https://www.gutenberg.org/ebooks/79039</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kronstadt : by Max Pemberton</title>
-      <link>https://www.gutenberg.org/ebooks/79040</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Runoja by Johann Wolfgang von Goethe</title>
-      <link>https://www.gutenberg.org/ebooks/79043</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The life of James Clerk Maxwell : by Lewis Campbell and William Garnett</title>
-      <link>https://www.gutenberg.org/ebooks/79044</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>My Ántonia by Willa Cather</title>
-      <link>https://www.gutenberg.org/ebooks/242</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 5 of 5] : by Thomas J.  Bell</title>
-      <link>https://www.gutenberg.org/ebooks/79041</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Vicar of Bullhampton by Anthony Trollope</title>
-      <link>https://www.gutenberg.org/ebooks/26541</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>History of Holland by George Edmundson</title>
-      <link>https://www.gutenberg.org/ebooks/14971</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Fables, of Æsop and other eminent mythologists: with morals and reflexions by Sir Roger L&#39;Estrange</title>
-      <link>https://www.gutenberg.org/ebooks/79038</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Oliver Twist by Charles Dickens</title>
-      <link>https://www.gutenberg.org/ebooks/79042</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
     </item>
   </channel>
 </rss>
