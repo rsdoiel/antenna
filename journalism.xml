@@ -4,10 +4,66 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>29 Jul 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>30 Jul 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Collaborations and primary elections boosted traffic to public media sites this quarter</title>
+      <link>https://www.niemanlab.org/2026/07/collaborations-and-primary-elections-boosted-traffic-to-public-media-sites-this-quarter/</link>
+      <description>
+        <![CDATA[Each quarter, we use Similarweb data to rank web traffic for local newspapers, public media websites, nonprofit news outlets, and for-profit local news sites. Today we&#8217;re bringing you our latest public media check-in, starting with KCUR, the NPR station in Kansas City. &#8220;I&#8217;m quite happy to say that our April traffic bump was largely a...]]>
+      </description>
+      <source:markdown>Each quarter, we use Similarweb data to rank web traffic for local newspapers, public media websites, nonprofit news outlets, and for-profit local news sites. Today we’re bringing you our latest public media check-in, starting with KCUR, the NPR station in Kansas City. “I’m quite happy to say that our April traffic bump was largely a...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=250266</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>accountability</category>
+      <category>Elections</category>
+      <category>Gabe Rosenberg</category>
+      <category>Harvest Public Media</category>
+      <category>Kansas City</category>
+      <category>KCUR</category>
+      <category>KQED</category>
+      <category>laist</category>
+      <category>Los Angeles</category>
+      <category>Midwest Newsroom</category>
+      <category>Missouri</category>
+      <category>public media</category>
+      <category>public radio</category>
+      <category>San Francisco</category>
+      <category>Similarweb</category>
+      <category>traffic</category>
+      <category>Trump</category>
+    </item>    <item>
+      <title>UC admits record number of California residents as first-year students for 2026-27 cycle</title>
+      <link>https://dailybruin.com/2026/07/29/uc-admits-record-number-of-california-residents-as-first-year-students-for-2026-27-cycle/</link>
+      <description>
+        <![CDATA[<em>This post was updated July 29 at 1:20 p.m.</em>
+        The UC admitted a record number of California resident first-year students for the 2026-27 admissions cycle, according to data released Wednesday.]]>
+      </description>
+      <source:markdown>_This post was updated July 29 at 1:20 p.m._
+The UC admitted a record number of California resident first-year students for the 2026-27 admissions cycle, according to data released Wednesday.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513648</guid>
+      <category>Higher Education</category>
+      <category>News</category>
+      <category>UC</category>
+      <category>breaking</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>How three newsrooms are charting different paths for AI use</title>
+      <link>https://www.niemanlab.org/2026/07/how-three-newsrooms-are-charting-different-paths-for-ai-use/</link>
+      <description>
+        <![CDATA[A labor dispute erupted at The Guardian’s London headquarters in December 2024, with nearly 500 journalists going on strike to protest the proposed sale of the Guardian-owned Observer. With the newsroom hobbled, the British publication’s management allegedly deployed generative AI tools such as ChatGPT and Claude to suggest headlines and write descriptions of photos for people...]]>
+      </description>
+      <source:markdown>A labor dispute erupted at The Guardian’s London headquarters in December 2024, with nearly 500 journalists going on strike to protest the proposed sale of the Guardian-owned Observer. With the newsroom hobbled, the British publication’s management allegedly deployed generative AI tools such as ChatGPT and Claude to suggest headlines and write descriptions of photos for people...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=251922</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>AI</category>
+      <category>BBC</category>
+      <category>Reuters</category>
+      <category>The Guardian</category>
+    </item>    <item>
       <title>Gallery: Downtown Burbank Hosts Fan Zone for World Cup’s final weekend</title>
       <link>https://dailybruin.com/2026/07/28/gallery-downtown-burbank-hosts-fan-zone-for-world-cups-final-weekend/</link>
       <description>
@@ -34,7 +90,7 @@ Parlour Magic is an NYC-based synth-pop band led by producer and composer Luc Bo
       <guid>cid://https://dailybruin.com/?p=513621</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-c1</category>
+      <category>db-story-a</category>
     </item>    <item>
       <title>Gallery: From missions to cathedrals, Catholic churches chronicle Los Angeles’ history</title>
       <link>https://dailybruin.com/2026/07/28/gallery-from-missions-to-cathedrals-catholic-churches-chronicle-los-angeles-history/</link>
@@ -110,7 +166,7 @@ Former UCLA women’s basketball center Lauren Betts won the 2026 Collegiate Wom
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Minnesota</title>
       <link>https://dailybruin.com/2026/07/27/2026-big-ten-preview-minnesota/</link>
@@ -1680,54 +1736,6 @@ UCLA laid off 27 employees in its digital and technology services department and
       <category>National</category>
       <category>News</category>
       <category>db-story-f1</category>
-    </item>    <item>
-      <title>A new study looks at the skills journalists are losing (and gaining) because of AI tools</title>
-      <link>https://www.niemanlab.org/2026/07/a-new-study-looks-at-the-skills-journalists-are-losing-and-gaining-because-of-ai-tools/</link>
-      <description>
-        <![CDATA[Last year, MIT&#8217;s Media Lab came out with a buzzy study on a phenomenon that’s been coined “cognitive debt.” In short, the researchers found that when ChatGPT users offloaded essay writing tasks to their AI assistants, their own writing abilities declined. ChatGPT users consistently had the lowest “brain engagement” and task performance scores across the...]]>
-      </description>
-      <source:markdown>Last year, MIT’s Media Lab came out with a buzzy study on a phenomenon that’s been coined “cognitive debt.” In short, the researchers found that when ChatGPT users offloaded essay writing tasks to their AI assistants, their own writing abilities declined. ChatGPT users consistently had the lowest “brain engagement” and task performance scores across the...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251379</guid>
-      <category>Link post</category>
-      <category>AI</category>
-      <category>cognitive atrophy</category>
-      <category>cognitive debt</category>
-      <category>deskilling</category>
-      <category>generative AI</category>
-      <category>journalism research</category>
-      <category>reporting</category>
-      <category>research</category>
-      <category>skills</category>
-      <category>upskilling</category>
-    </item>    <item>
-      <title>We asked our readers to buy, not donate. Here’s what it taught us about the new math of news.</title>
-      <link>https://www.niemanlab.org/2026/07/we-asked-our-readers-to-buy-not-donate-heres-what-it-taught-us-about-the-new-math-of-news/</link>
-      <description>
-        <![CDATA[Most people in the news business agree on at least one thing right now. As search and AI reshape how people find information, the old model of waiting for audiences to wander in is finished, and we have to build direct relationships with readers instead. The numbers are stark. When Pew Research Center tracked the...]]>
-      </description>
-      <source:markdown>Most people in the news business agree on at least one thing right now. As search and AI reshape how people find information, the old model of waiting for audiences to wander in is finished, and we have to build direct relationships with readers instead. The numbers are stark. When Pew Research Center tracked the...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251355</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>Allegro</category>
-      <category>Elections</category>
-      <category>laist</category>
-      <category>Los Angeles</category>
-      <category>Minnesota Star Tribune</category>
-      <category>paywalls</category>
-      <category>Salt Lake Tribune</category>
-    </item>    <item>
-      <title>Classifieds – July 8, 2026</title>
-      <link>https://dailytrojan.com/2026/07/08/classifieds-july-8-2026/</link>
-      <description>
-        <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/07/08/classifieds-july-8-2026/">Classifieds &#8211; July 8, 2026</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>The Daily Trojan features Classified advertising in each day&#39;s edition. Here you can read, search, and even print out each day&#39;s edition of the Classifieds.
-
-The post [Classifieds – July 8, 2026](https://dailytrojan.com/2026/07/08/classifieds-july-8-2026/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=256829</guid>
-      <category>Classifieds</category>
     </item>
   </channel>
 </rss>

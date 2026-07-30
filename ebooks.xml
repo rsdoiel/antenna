@@ -4,10 +4,122 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>29 Jul 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>30 Jul 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
+      <link>https://www.gutenberg.org/ebooks/561</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fusing by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79214</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Practical podiatry by E. K. Burnett and Reuben H. Gross and Alfred Joseph</title>
+      <link>https://www.gutenberg.org/ebooks/79224</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Seward&#39;s Folly by Edison Marshall</title>
+      <link>https://www.gutenberg.org/ebooks/79225</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Criminals : by George Middleton</title>
+      <link>https://www.gutenberg.org/ebooks/79216</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Eyes that cannot see : by Albert Theodor Gnudtzmann</title>
+      <link>https://www.gutenberg.org/ebooks/79218</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ernie Pyle in England by Ernie Pyle</title>
+      <link>https://www.gutenberg.org/ebooks/79228</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Suomenselän meriltä by Samuli Paulaharju</title>
+      <link>https://www.gutenberg.org/ebooks/79219</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Garram the hunter : by Herbert Best</title>
+      <link>https://www.gutenberg.org/ebooks/79229</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Separation by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79215</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Local option in Loco-Land by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79221</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pie for Magpie by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79222</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The wisdom of Cyclops by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79223</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>It&#39;s all real true : by Eglanton Thorne</title>
+      <link>https://www.gutenberg.org/ebooks/79227</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The corporal&#39;s story by Ernest Haycox</title>
+      <link>https://www.gutenberg.org/ebooks/79217</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A three-fold promise by Marian Isabel Hurrell</title>
+      <link>https://www.gutenberg.org/ebooks/79226</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Curiosa mathematica, part II : by Lewis Carroll</title>
       <link>https://www.gutenberg.org/ebooks/79080</link>
       <description>
@@ -80,13 +192,6 @@
     </item>    <item>
       <title>Discovery by Helen R.  Hull</title>
       <link>https://www.gutenberg.org/ebooks/79205</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The fusing by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79214</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -197,13 +302,6 @@
     </item>    <item>
       <title>The drums roll by Ernest Haycox</title>
       <link>https://www.gutenberg.org/ebooks/79193</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
-      <link>https://www.gutenberg.org/ebooks/561</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1594,34 +1692,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The zoology of the voyage of H.M.S. Beagle [vol. 3 of 5] : by John Gould</title>
-      <link>https://www.gutenberg.org/ebooks/74261</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Poésies by comte de Lautréamont</title>
-      <link>https://www.gutenberg.org/ebooks/16989</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Wings of youth by Nancy Buckley</title>
-      <link>https://www.gutenberg.org/ebooks/79045</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Un vieux célibataire by Jules Pravieux</title>
-      <link>https://www.gutenberg.org/ebooks/79046</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>
