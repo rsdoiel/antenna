@@ -4,10 +4,60 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>30 Jul 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>31 Jul 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>USAC Recap – July 21</title>
+      <link>https://dailybruin.com/2026/07/31/usac-recap-july-21/</link>
+      <description>
+        <![CDATA[The Undergraduate Students Association Council unanimously supported a California bill addressing artificial intelligence-generated deepfakes and other forms of technology-facilitated sexual harassment at its July 21 meeting.]]>
+      </description>
+      <source:markdown>The Undergraduate Students Association Council unanimously supported a California bill addressing artificial intelligence-generated deepfakes and other forms of technology-facilitated sexual harassment at its July 21 meeting.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513656</guid>
+      <category>Academics</category>
+      <category>Campus</category>
+      <category>News</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>AI authentication tools are built without adequate journalist input, new report finds</title>
+      <link>https://www.niemanlab.org/2026/07/ai-authentication-tools-are-built-without-proper-journalist-input-new-report-finds/</link>
+      <description>
+        <![CDATA[It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU&#8217;s Arthur L. Carter Journalism...]]>
+      </description>
+      <source:markdown>It has never been easier (or cheaper) to fake and alter media. The evidence that journalists rely on to verify facts — photographs, videos, documents, websites, and even audio calls with sources — can now be convincingly generated with AI. In June, dozens of journalists, technologists, and academics gathered at NYU’s Arthur L. Carter Journalism...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252112</guid>
+      <category>Link post</category>
+      <category>AI</category>
+      <category>AI detectors</category>
+      <category>authentication</category>
+      <category>C2PA</category>
+      <category>Center for Information Technology Policy</category>
+      <category>CITP</category>
+      <category>deepfakes</category>
+      <category>fact-checking</category>
+      <category>generative AI</category>
+      <category>NYU</category>
+      <category>Princeton</category>
+      <category>verification</category>
+      <category>Witness</category>
+    </item>    <item>
+      <title>Readers turned to these local newspapers for real-time safety updates and weekend reads</title>
+      <link>https://www.niemanlab.org/2026/07/readers-turned-to-these-local-newspapers-for-real-time-safety-updates-and-weekend-reads/</link>
+      <description>
+        <![CDATA[Deliberate audience initiatives and breaking news alike have driven traffic to local newspapers in the last few months. According to Similarweb&#8217;s data, The Philadelphia Inquirer received 1.1 million more web visits in April than it did in March, about a 17% jump. Lisa Hughes, the Inquirer&#8217;s publisher and CEO, told me the spike coincided with...]]>
+      </description>
+      <source:markdown>Deliberate audience initiatives and breaking news alike have driven traffic to local newspapers in the last few months. According to Similarweb’s data, The Philadelphia Inquirer received 1.1 million more web visits in April than it did in March, about a 17% jump. Lisa Hughes, the Inquirer’s publisher and CEO, told me the spike coincided with...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=250264</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>Alden</category>
+      <category>Gannett</category>
+      <category>local newspapers</category>
+      <category>The Orange County Register</category>
+      <category>The Philadelphia Inquirer</category>
+      <category>traffic</category>
+    </item>    <item>
       <title>Collaborations and primary elections boosted traffic to public media sites this quarter</title>
       <link>https://www.niemanlab.org/2026/07/collaborations-and-primary-elections-boosted-traffic-to-public-media-sites-this-quarter/</link>
       <description>
@@ -1553,189 +1603,6 @@ As UCLA Athletics takes a break for the summer, professional sports are still in
       <category>Sports</category>
       <category>Sports Columns</category>
       <category>MLB Draft 2026</category>
-    </item>    <item>
-      <title>Q&#38;A: Andrés Charvel on BelicoFest’s mission to promote música mexicana in LA and beyond</title>
-      <link>https://dailybruin.com/2026/07/09/qs-charvel-on-belicofests-mission-to-promote-msica-mexicana-in-la-and-beyond/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 12 at 10:42 p.m.</em>
-        With its Los Angeles expansion, BelicoFest is regional no more.
-        The music festival will make its California debut at BMO Stadium on Sunday with headliner Tito Double P after two years in Phoenix.]]>
-      </description>
-      <source:markdown>_This post was updated July 12 at 10:42 p.m._
-With its Los Angeles expansion, BelicoFest is regional no more.
-The music festival will make its California debut at BMO Stadium on Sunday with headliner Tito Double P after two years in Phoenix.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512927</guid>
-      <category>Arts</category>
-      <category>Music</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>The New York Times will launch a local newsletter pilot in the Twin Cities next month</title>
-      <link>https://www.niemanlab.org/2026/07/the-new-york-times-will-launch-a-local-newsletter-pilot-in-the-twin-cities-next-month/</link>
-      <description>
-        <![CDATA[The New York Times: It wants to be your one-stop shop for cooking, games, sports&#8230;and next, perhaps, local news? On Wednesday, the Times announced it will soon launch The Local, &#8220;a new journalism initiative aimed at serving and engaging communities.&#8221; The national news behemoth will kick off the new initiative in August with a pilot...]]>
-      </description>
-      <source:markdown>The New York Times: It wants to be your one-stop shop for cooking, games, sports…and next, perhaps, local news? On Wednesday, the Times announced it will soon launch The Local, “a new journalism initiative aimed at serving and engaging communities.” The national news behemoth will kick off the new initiative in August with a pilot...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251470</guid>
-      <category>Link post</category>
-      <category>local news</category>
-      <category>Minnesota Star Tribune</category>
-      <category>MinnPost</category>
-      <category>MPR</category>
-      <category>New York Times</category>
-    </item>    <item>
-      <title>There are millions of undiscovered species on Earth. Vox is trying to find one.</title>
-      <link>https://www.niemanlab.org/2026/07/there-are-millions-of-undiscovered-species-on-earth-vox-is-trying-to-find-one/</link>
-      <description>
-        <![CDATA[CENTRAL PARK, NEW YORK CITY — On a hot June day in Manhattan, a few minutes away from the sea lion pool in Central Park Zoo, up a hill and through a patch of shoulder-height shrubs, Benji Jones peered into a bottle filled with ethanol and dead bugs. &#8220;Oh, there&#8217;s some big guys in here,&#8221;...]]>
-      </description>
-      <source:markdown>CENTRAL PARK, NEW YORK CITY — On a hot June day in Manhattan, a few minutes away from the sea lion pool in Central Park Zoo, up a hill and through a patch of shoulder-height shrubs, Benji Jones peered into a bottle filled with ethanol and dead bugs. “Oh, there’s some big guys in here,”...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251404</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>Benji Jones</category>
-      <category>biodiversity</category>
-      <category>biology</category>
-      <category>bugs</category>
-      <category>Center for Biodiversity Genomics</category>
-      <category>central park</category>
-      <category>climate</category>
-      <category>climate change</category>
-      <category>DNA</category>
-      <category>ecology</category>
-      <category>ecosystems</category>
-      <category>Emily Hartop</category>
-      <category>entomology</category>
-      <category>environment</category>
-      <category>flies</category>
-      <category>insects</category>
-      <category>Malaise</category>
-      <category>Malaise trap</category>
-      <category>New York</category>
-      <category>New York City</category>
-      <category>New York City Parks Department</category>
-      <category>Nieman Fellow</category>
-      <category>Norwegian University of Science and Technology</category>
-      <category>NTNU</category>
-      <category>parks</category>
-      <category>Paul Hebert</category>
-      <category>phoridae</category>
-      <category>prospect park</category>
-      <category>research</category>
-      <category>Sarah Kornbluth</category>
-      <category>science</category>
-      <category>species discovery</category>
-      <category>Steve Marshall</category>
-      <category>taxonomy</category>
-      <category>University of Guelph</category>
-      <category>US Fish and Wildlife Service</category>
-      <category>Vox</category>
-      <category>wasps</category>
-    </item>    <item>
-      <title>Serbian star Nikola Kusturica joins UCLA men’s basketball roster</title>
-      <link>https://dailybruin.com/2026/07/09/serbian-star-nikola-kusturica-joins-ucla-mens-basketball-roster/</link>
-      <description>
-        <![CDATA[Mick Cronin has his guy. Serbian FC Barcelona Bàsquet wing Nikola Kusturica committed to UCLA men’s basketball Thursday, the California Post reported.]]>
-      </description>
-      <source:markdown>Mick Cronin has his guy. Serbian FC Barcelona Bàsquet wing Nikola Kusturica committed to UCLA men’s basketball Thursday, the California Post reported.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512919</guid>
-      <category>Men&#39;s Basketball</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>db-story-l</category>
-    </item>    <item>
-      <title>Argentina has faced close games throughout the World Cup</title>
-      <link>https://sundial.csun.edu/218757/featured/argentina-has-faced-close-games-throughout-the-world-cup/</link>
-      <description>
-        <![CDATA[Egypt appeared to believe they had the game won against Lionel Messi and Argentina, but that was not the case. Egypt was hoping to make history by reaching the quarterfinals...]]>
-      </description>
-      <source:markdown>Egypt appeared to believe they had the game won against Lionel Messi and Argentina, but that was not the case. Egypt was hoping to make history by reaching the quarterfinals...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218757</guid>
-      <category>Featured</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>Argentina has faced close games throughout the World Cup</title>
-      <link>https://sundial.csun.edu/218757/world-cup/argentina-has-faced-close-games-throughout-the-world-cup/</link>
-      <description>
-        <![CDATA[Egypt appeared to believe they had the game won against Lionel Messi and Argentina, but that was not the case. Egypt was hoping to make history by reaching the quarterfinals...]]>
-      </description>
-      <source:markdown>Egypt appeared to believe they had the game won against Lionel Messi and Argentina, but that was not the case. Egypt was hoping to make history by reaching the quarterfinals...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218757</guid>
-      <category>Featured</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>FoodieLand dishes out diverse foods, serves up a variety of vendors at the Rose Bowl</title>
-      <link>https://dailybruin.com/2026/07/08/foodieland-dishes-out-diverse-foods-serves-up-a-variety-of-vendors-at-the-rose-bowl/</link>
-      <description>
-        <![CDATA[A food-centered festival brought thousands of people to the Rose Bowl from July 3-5 to try diverse cuisines.
-        The nation&#8217;s largest food festival transformed Pasadena&#8217;s Rose Bowl into the ultimate culinary experience.]]>
-      </description>
-      <source:markdown>A food-centered festival brought thousands of people to the Rose Bowl from July 3-5 to try diverse cuisines.
-The nation’s largest food festival transformed Pasadena’s Rose Bowl into the ultimate culinary experience.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512914</guid>
-      <category>Arts</category>
-      <category>Lifestyle</category>
-      <category>db-story-j</category>
-    </item>    <item>
-      <title>USAC recap – June 23</title>
-      <link>https://dailybruin.com/2026/07/08/usac-recap-june-23/</link>
-      <description>
-        <![CDATA[The Undergraduate Students Association Council appointed students to the USA judicial board, elections board and USAC committees at its June 23 meeting.
-        USAC is the official student government representing the undergraduate student body at UCLA.]]>
-      </description>
-      <source:markdown>The Undergraduate Students Association Council appointed students to the USA judicial board, elections board and USAC committees at its June 23 meeting.
-USAC is the official student government representing the undergraduate student body at UCLA.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512910</guid>
-      <category>Academics</category>
-      <category>Campus</category>
-      <category>News</category>
-      <category>Student Government</category>
-      <category>db-story-d2</category>
-    </item>    <item>
-      <title>Man sentenced for stealing, replacing rare Chinese manuscripts from UCLA libraries</title>
-      <link>https://dailybruin.com/2026/07/08/man-sentenced-for-stealing-replacing-rare-chinese-manuscripts-from-ucla-libraries/</link>
-      <description>
-        <![CDATA[A man was sentenced Wednesday for stealing more than $200,000 worth of rare Chinese manuscripts from the UCLA Library system.
-        [Related: Man arrested for allegedly stealing rare Chinese manuscripts from UCLA libraries]
-        Jeffrey Ying, who is from Fremont, California, will serve one year of home confinement and three years on supervised release, according to the San Francisco Chronicle.]]>
-      </description>
-      <source:markdown>A man was sentenced Wednesday for stealing more than $200,000 worth of rare Chinese manuscripts from the UCLA Library system.
-\[Related: Man arrested for allegedly stealing rare Chinese manuscripts from UCLA libraries\]
-Jeffrey Ying, who is from Fremont, California, will serve one year of home confinement and three years on supervised release, according to the San Francisco Chronicle.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512907</guid>
-      <category>Campus</category>
-      <category>Crime</category>
-      <category>News</category>
-      <category>breaking</category>
-      <category>db-story-f2</category>
-    </item>    <item>
-      <title>Driply transforms UCLA’s Chabad House lobby into an unexpected Westwood cafe</title>
-      <link>https://dailybruin.com/2026/07/08/driply-transforms-uclas-chabad-house-lobby-into-an-unexpected-westwood-cafe/</link>
-      <description>
-        <![CDATA[Tucked into the lobby of the Chabad House at UCLA, a Jewish student center in Westwood, is a small shop serving lattes and pour-over coffee. 
-        Chabad&#8217;s lobby space was largely unused before Driply took it over in October, said Moshe Kashani, the shop&#8217;s founder and owner.]]>
-      </description>
-      <source:markdown>Tucked into the lobby of the Chabad House at UCLA, a Jewish student center in Westwood, is a small shop serving lattes and pour-over coffee.
-Chabad’s lobby space was largely unused before Driply took it over in October, said Moshe Kashani, the shop’s founder and owner.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512903</guid>
-      <category>A Closer Look</category>
-      <category>News</category>
-      <category>Westwood</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>UCLA cuts 27 DTS jobs amid budget deficit, UPTE-CWA 9119 alleges contract violation</title>
-      <link>https://dailybruin.com/2026/07/08/ucla-cuts-27-dts-jobs-amid-budget-deficit-upte-cwa-9119-alleges-contract-violation/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 9 at 7:08 p.m.</em>
-        UCLA laid off 27 employees in its digital and technology services department and eliminated their positions around late June.]]>
-      </description>
-      <source:markdown>_This post was updated July 9 at 7:08 p.m._
-UCLA laid off 27 employees in its digital and technology services department and eliminated their positions around late June.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512899</guid>
-      <category>A Closer Look</category>
-      <category>Campus</category>
-      <category>National</category>
-      <category>News</category>
-      <category>db-story-f1</category>
     </item>
   </channel>
 </rss>
