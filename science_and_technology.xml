@@ -4,10 +4,223 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>31 Jul 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>01 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 August 1 – Buck Moon and Belt of Venus</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>PureOS Development Report: June 2026</title>
+      <link>https://puri.sm/posts/pureos-development-report-june-2026/</link>
+      <description>
+        <![CDATA[<p>Thanks for joining us again!  In our May update, we mentioned that we're bringing in updated dependencies as part of the goal to ship the latest Phosh desktop environment in PureOS Dawn.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-development-report-june-2026/">PureOS Development Report: June 2026</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>Thanks for joining us again! In our May update, we mentioned that we&#39;re bringing in updated dependencies as part of the goal to ship the latest Phosh desktop environment in PureOS Dawn.
+
+The post [PureOS Development Report: June 2026](https://puri.sm/posts/pureos-development-report-june-2026/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=85732</guid>
+      <category>PureOS</category>
+      <category>Advanced readers</category>
+    </item>    <item>
+      <title>Develop cross-platform CLI and GUI tools with Tcl/Tk</title>
+      <link>https://www.osnews.com/story/145658/develop-cross-platform-cli-and-gui-tools-with-tcl-tk/</link>
+      <description>
+        <![CDATA[Tcl, or the &#8220;Tool Command Language&#8220;, created and released by John Ousterhout in 1990, deserves a place among the greatest products of the human mind. Especially when combined with its better known graphical user interface Toolkit — Tk. In 1997 Ousterhout was awarded the ACM Software System Award for Tcl/Tk, an award given to institutions or individuals recognized for developing software systems with a lasting influence, reflected in contributions to concepts, in commercial acceptance, or both. ↫ Armen Barsegyan Everything you could ever possibly want to know about Tcl/Tk. There&#8217;s nothing to add here; if this is up your alley &#8211; and you know if it is &#8211; just go ahead and read it, and stop wasting time here.]]>
+      </description>
+      <source:markdown>Tcl, or the “Tool Command Language“, created and released by John Ousterhout in 1990, deserves a place among the greatest products of the human mind. Especially when combined with its better known graphical user interface Toolkit — Tk. In 1997 Ousterhout was awarded the ACM Software System Award for Tcl/Tk, an award given to institutions or individuals recognized for developing software systems with a lasting influence, reflected in contributions to concepts, in commercial acceptance, or both. ↫ Armen Barsegyan Everything you could ever possibly want to know about Tcl/Tk. There’s nothing to add here; if this is up your alley – and you know if it is – just go ahead and read it, and stop wasting time here.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145658</guid>
+      <category>General Development</category>
+    </item>    <item>
+      <title>What’s Up: August 2026 Skywatching Tips from NASA</title>
+      <link>https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/</link>
+      <description>
+        <![CDATA[A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August. On Aug. […]]]>
+      </description>
+      <source:markdown>A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August. On Aug. \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/</guid>
+      <category>Eclipses</category>
+      <category>Lunar Eclipses</category>
+      <category>Meteor Showers</category>
+      <category>Perseids</category>
+      <category>Skywatching</category>
+      <category>Solar Eclipses</category>
+      <category>The Solar System</category>
+      <category>Venus</category>
+    </item>    <item>
+      <title>NASA to Host Florida Event Celebrating American Air, Space Leadership</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/</link>
+      <description>
+        <![CDATA[NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announcement, held in the XLV Hangar at the Shuttle Landing Facility, will preview a new event at NASA Kennedy later this [&#8230;]]]>
+      </description>
+      <source:markdown>NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announcement, held in the XLV Hangar at the Shuttle Landing Facility, will preview a new event at NASA Kennedy later this \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1034198</guid>
+      <category>Kennedy Space Center</category>
+      <category>Leadership</category>
+    </item>    <item>
+      <title>NASA’s Newest Wind Tunnel Opens at NASA Langley</title>
+      <link>https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/</link>
+      <description>
+        <![CDATA[On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA&#8217;s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, [&#8230;]]]>
+      </description>
+      <source:markdown>On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1034035</guid>
+    </item>    <item>
+      <title>This Man Turned Human Corpses Into Popular Museum Displays. Now, the Creator of These Controversial ‘Body Worlds’ Has Donated His Own Body to Science</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-man-turned-human-corpses-into-popular-museum-displays-now-the-creator-of-these-controversial-body-worlds-has-donated-his-own-body-to-science-180989242/</link>
+      <description>
+        <![CDATA[Gunther von Hagens, who invented plastination, a method of preserving bodies by replacing their natural fluids with polymers, recently died at age 81]]>
+      </description>
+      <source:markdown>Gunther von Hagens, who invented plastination, a method of preserving bodies by replacing their natural fluids with polymers, recently died at age 81</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dYZHh2-HwXTiZD16vseHNS2Ede0=/420x240/filters:focal(702x468:703x469)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/70/ee/70ee555f-00f8-4fe2-a79c-9671c39f1b6c/dr_gunther_von_hagens_inventor_of_plastination__creator_of_-9e865944bb665f2e95e10afdde7d28df.jpeg" length="429492" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-man-turned-human-corpses-into-popular-museum-displays-now-the-creator-of-these-controversial-body-worlds-has-donated-his-own-body-to-science-180989242/</guid>
+    </item>    <item>
+      <title>TB 26-04 Webbings for Use in Elevated Oxygen Environments</title>
+      <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/</link>
+      <description>
+        <![CDATA[Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a [&#8230;]]]>
+      </description>
+      <source:markdown>Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1034054</guid>
+      <category>NASA Engineering and Safety Center</category>
+    </item>    <item>
+      <title>Rare Fossil Reveals a Three-Tier Food Chain Frozen in Time: a Pterosaur Eaten by an Ichthyosaur Eaten by a Pliosaur</title>
+      <link>https://www.smithsonianmag.com/smart-news/rare-fossil-reveals-a-three-tier-food-chain-frozen-in-time-a-pterosaur-eaten-by-an-ichthyosaur-eaten-by-a-pliosaur-180989243/</link>
+      <description>
+        <![CDATA[Uncovered in part by amateur fossil hunters in Australia, the fossil preserves a unique look at prehistoric predatory dynamics]]>
+      </description>
+      <source:markdown>Uncovered in part by amateur fossil hunters in Australia, the fossil preserves a unique look at prehistoric predatory dynamics</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ufULBqvzZcqYdE7qq-Nzbae3YYc=/420x240/filters:focal(699x418:700x419)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/c5/3fc574fc-c2e6-47f2-9d3a-34269b6af619/bob-ptero-platy-krono-cretaceous-reconst-pt-72ppi-20x20ins.webp" length="193238" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/rare-fossil-reveals-a-three-tier-food-chain-frozen-in-time-a-pterosaur-eaten-by-an-ichthyosaur-eaten-by-a-pliosaur-180989243/</guid>
+    </item>    <item>
+      <title>NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket</title>
+      <link>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/</link>
+      <description>
+        <![CDATA[NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The [&#8230;]]]>
+      </description>
+      <source:markdown>NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1033998</guid>
+      <category>Human Landing System Program</category>
+      <category>Ames Research Center</category>
+      <category>Marshall Space Flight Center</category>
+    </item>    <item>
+      <title>The Iconic Watts Towers in Los Angeles Will Get a $22 Million Campus Expansion Ahead of the 2028 Summer Olympics</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-iconic-watts-towers-in-los-angeles-will-get-a-22-million-campus-expansion-ahead-of-the-2028-summer-olympics-180989240/</link>
+      <description>
+        <![CDATA[Five acres of green space will surround the 17-structure landmark, a folk art masterpiece that an Italian immigrant built over the course of three decades]]>
+      </description>
+      <source:markdown>Five acres of green space will surround the 17-structure landmark, a folk art masterpiece that an Italian immigrant built over the course of three decades</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iOtjZ5okcKT4yXONYh4TBIcBKFU=/420x240/filters:focal(1632x1228:1633x1229)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/60/5860f436-518c-44e8-8e30-4abdbdcd895d/watts_towers_arts_center.jpg" length="1871245" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-iconic-watts-towers-in-los-angeles-will-get-a-22-million-campus-expansion-ahead-of-the-2028-summer-olympics-180989240/</guid>
+    </item>    <item>
+      <title>Archaeologists Discover Two Thumbnail-Size Bird Sculptures Carved From Mammoth Ivory 40,000 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-two-thumbnail-sized-bird-sculptures-carved-from-mammoth-ivory-40000-years-ago-180989239/</link>
+      <description>
+        <![CDATA[Measuring less than an inch long, the figurines were buried beneath Germany's Hohle Fels Cave, where some of the world's oldest known figurative artworks have been found]]>
+      </description>
+      <source:markdown>Measuring less than an inch long, the figurines were buried beneath Germany&#39;s Hohle Fels Cave, where some of the world&#39;s oldest known figurative artworks have been found</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fLh5b6gLljqPA_lKNFKIA0QhxUY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/9b/079ba559-4697-4610-91c2-fe0ba5d9aa2e/birds.jpg" length="151810" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-discover-two-thumbnail-sized-bird-sculptures-carved-from-mammoth-ivory-40000-years-ago-180989239/</guid>
+    </item>    <item>
+      <title>Ice Age Humans Mostly Killed Female Woolly Mammoths, Suggests Ancient DNA</title>
+      <link>https://www.smithsonianmag.com/smart-news/ice-age-humans-mostly-killed-female-woolly-mammoths-suggests-ancient-dna-180989241/</link>
+      <description>
+        <![CDATA[After analyzing more than 500 mammoth bones, researchers found that ancient humans disproportionately hunted female mammoths for reasons still unknown]]>
+      </description>
+      <source:markdown>After analyzing more than 500 mammoth bones, researchers found that ancient humans disproportionately hunted female mammoths for reasons still unknown</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IhAV07_9LPY_QrKzjMCkp4_OGdY=/420x240/filters:focal(2016x1171:2017x1172)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0c/47/0c47a6d0-7d89-4b9a-8466-7cbd9162cb43/2_img_4244_webb.jpg" length="2102011" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/ice-age-humans-mostly-killed-female-woolly-mammoths-suggests-ancient-dna-180989241/</guid>
+    </item>    <item>
+      <title>NASA Opens New Flight Dynamics Research Facility in Virginia</title>
+      <link>https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/</link>
+      <description>
+        <![CDATA[NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA&#8217;s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances [&#8230;]]]>
+      </description>
+      <source:markdown>NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1033970</guid>
+      <category>Aeronautics</category>
+      <category>Aerosciences Evaluation Test Capabilities</category>
+      <category>Langley Research Center</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>LLVM toolchain coming to OpenBSD/sparc64 and SPARC Solaris (snv_151a)</title>
+      <link>https://www.osnews.com/story/145656/llvm-toolchain-coming-to-openbsd-sparc64-and-sparc-solaris-snv_151a/</link>
+      <description>
+        <![CDATA[Speaking of OpenBSD: Yes, you read that right. Modern development tools in the form of the LLVM compiler infrastructure is well on its way to supporting OpenBSD/sparc64 along with other more conventional architectures. The support is now ready for testing, via a patch set presented by Kirill A. Korinsky in a message to the tech@ mailing list, with the subject LLVM toolchain for sparc64. ↫ Peter N. M. Hansteen On a related note, the the entire LLVM stack (version 19.1.7, including llvm&#8217;s binutils, clang, ldd) has also been ported to the SPARC version of Solaris 11 Express (snv_151a). This should make it possible to also port things like Rust and Zig to this same version of Solaris on SPARC, which is good news, because this release supports SPARC hardware long dropped by the current Solaris builds from Oracle.]]>
+      </description>
+      <source:markdown>Speaking of OpenBSD: Yes, you read that right. Modern development tools in the form of the LLVM compiler infrastructure is well on its way to supporting OpenBSD/sparc64 along with other more conventional architectures. The support is now ready for testing, via a patch set presented by Kirill A. Korinsky in a message to the tech@ mailing list, with the subject LLVM toolchain for sparc64. ↫ Peter N. M. Hansteen On a related note, the the entire LLVM stack (version 19.1.7, including llvm’s binutils, clang, ldd) has also been ported to the SPARC version of Solaris 11 Express (snv\_151a). This should make it possible to also port things like Rust and Zig to this same version of Solaris on SPARC, which is good news, because this release supports SPARC hardware long dropped by the current Solaris builds from Oracle.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145656</guid>
+      <category>OpenBSD</category>
+    </item>    <item>
+      <title>Dead software walking: the ongoing evolution of relayd(8) and httpd(8)</title>
+      <link>https://www.osnews.com/story/145654/dead-software-walking-the-ongoing-evolution-of-relayd8-and-httpd8/</link>
+      <description>
+        <![CDATA[As I mentioned in my OpenBSD 7.8 highlights post, development of relayd(8) and httpd(8) had stalled. Many diffs appeared on the tech@ mailing list from different contributors, but few were committed into the repository. The main reason was simple: Established OpenBSD developers weren’t interested in these daemons anymore. Call it momentum, or timing. Around the same time, kirill@ and I started working on these daemons more actively. We both use them regularly and have real-world use cases. I support customers with OpenBSD setups that often involve complex httpd(8) and relayd(8) configurations. This practical need motivated me on many levels. ↫ Rafael Sadowski They&#8217;ve managed to do a ton of work on these two daemons, fixing many long-standing issues and reviewing tons of stalled patch submissions, while also modernising the code and adding new features. It&#8217;s great to see people contribute significant time and energy to fixing up the tools they use for everyone else&#8217;s benefit.]]>
+      </description>
+      <source:markdown>As I mentioned in my OpenBSD 7.8 highlights post, development of relayd(8) and httpd(8) had stalled. Many diffs appeared on the tech@ mailing list from different contributors, but few were committed into the repository. The main reason was simple: Established OpenBSD developers weren’t interested in these daemons anymore. Call it momentum, or timing. Around the same time, kirill@ and I started working on these daemons more actively. We both use them regularly and have real-world use cases. I support customers with OpenBSD setups that often involve complex httpd(8) and relayd(8) configurations. This practical need motivated me on many levels. ↫ Rafael Sadowski They’ve managed to do a ton of work on these two daemons, fixing many long-standing issues and reviewing tons of stalled patch submissions, while also modernising the code and adding new features. It’s great to see people contribute significant time and energy to fixing up the tools they use for everyone else’s benefit.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145654</guid>
+      <category>OpenBSD</category>
+    </item>    <item>
+      <title>Is AI Reasoning Right for the Wrong Reasons?</title>
+      <link>https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</link>
+      <description>
+        <![CDATA[The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.             <p>The post <a href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/" target="_blank">Is AI Reasoning Right for the Wrong Reasons?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
+
+The post [Is AI Reasoning Right for the Wrong Reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=165277</guid>
+      <category>Computer Science</category>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/</link>
+      <description>
+        <![CDATA[Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]]]>
+      </description>
+      <source:markdown>Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/</guid>
+      <category>Blogs</category>
+    </item>    <item>
+      <title>NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space</title>
+      <link>https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/</link>
+      <description>
+        <![CDATA[On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory [&#8230;]]]>
+      </description>
+      <source:markdown>On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1033858</guid>
+      <category>Astrophysics</category>
+      <category>Exoplanets</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Kennedy Space Center</category>
+      <category>Launch Services Office</category>
+      <category>Nancy Grace Roman Space Telescope</category>
+    </item>    <item>
+      <title>Antarctic Interior Hits Minus 119.4 Degrees Fahrenheit, Earth&#39;s Lowest Recorded Temperature in More Than a Decade</title>
+      <link>https://www.smithsonianmag.com/smart-news/antarctic-interior-hits-119-4-degrees-fahrenheit-earths-lowest-recorded-temperature-in-more-than-a-decade-180989231/</link>
+      <description>
+        <![CDATA[The record-setting cold at the Concordia research station comes just weeks after another part of the southernmost continent experienced the opposite extreme, with winter temperatures climbing to unprecedented highs]]>
+      </description>
+      <source:markdown>The record-setting cold at the Concordia research station comes just weeks after another part of the southernmost continent experienced the opposite extreme, with winter temperatures climbing to unprecedented highs</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/s31EGtq7ZOR0Ipo864b4r1aUlEg=/420x240/filters:focal(640x427:641x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8d/bd/8dbdd34c-df96-4ce1-8061-000646a9f2bb/maintenance_at_the_superdarn_radar.jpg" length="243752" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/antarctic-interior-hits-119-4-degrees-fahrenheit-earths-lowest-recorded-temperature-in-more-than-a-decade-180989231/</guid>
+    </item>    <item>
+      <title>Mysterious Shapes Hidden Beneath the Amazon Canopy Reveal a Sprawling Ancient Civilization Much Bigger Than Researchers Expected</title>
+      <link>https://www.smithsonianmag.com/smart-news/mysterious-shapes-hidden-beneath-the-amazon-canopy-reveal-a-sprawling-ancient-civilization-much-bigger-than-researchers-expected-180989236/</link>
+      <description>
+        <![CDATA[Scientists recently discovered hundreds of monumental, geometric earthworks known as "geoglyphs" in northern Brazil from the Aquiry civilization]]>
+      </description>
+      <source:markdown>Scientists recently discovered hundreds of monumental, geometric earthworks known as &#34;geoglyphs&#34; in northern Brazil from the Aquiry civilization</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/87SebiEhHrpl9qAvTb_hTFq6aaU=/420x240/filters:focal(1258x779:1259x780)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ad/81/ad8126f1-580e-4051-ad91-8654b6a9c1b4/tequinho_geoglyph_acre_brazil.jpeg" length="1739723" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/mysterious-shapes-hidden-beneath-the-amazon-canopy-reveal-a-sprawling-ancient-civilization-much-bigger-than-researchers-expected-180989236/</guid>
+    </item>    <item>
       <title>Want to spend a year living in NASA&#39;s Mars simulation?</title>
       <link>https://www.npr.org/2026/07/31/nx-s1-5887659/nasa-simulated-mission-moon-mars-application</link>
       <description>
@@ -24,6 +237,15 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
       <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/631438f0-267f-4f5b-bfc4-74dfb98ae435/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=631438f0-267f-4f5b-bfc4-74dfb98ae435&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887659&p=510351&d=727&size=11633520" length="11633520" type="audio/mpeg" />
       <guid>cid://d1a8f4cf-b9cb-45fe-a3fa-ac73579e4785</guid>
+    </item>    <item>
+      <title>APOD: 2026 July 31 – NGC 4372 and the Dark Doodad</title>
+      <link>https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/</link>
+      <description>
+        <![CDATA[APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 and the Dark Doodad Explanation: The Dark Doodad Nebula drifts through southern skies, a [&#8230;]]]>
+      </description>
+      <source:markdown>APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 and the Dark Doodad Explanation: The Dark Doodad Nebula drifts through southern skies, a \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/</guid>
+      <category>APOD</category>
     </item>    <item>
       <title>APOD: 2026 July 31 – NGC 4372 and the Dark Doodad</title>
       <link>https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/</link>
@@ -3150,167 +3372,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>A toy dynamical model of whether the AI workforce that builds future AI ends up cooperative or uncooperative: where the basin boundary lies, what current evidence says about which side we are on, and what would tell us we are on the good path.</source:markdown>
       <guid>cid://https://blog.eleuther.ai/dynamical-models-of-ai-governability/</guid>
-    </item>    <item>
-      <title>Apple sues OpenAI for theft of “trade secrets”</title>
-      <link>https://www.osnews.com/story/145502/apple-sues-openai-for-theft-of-trade-secrets/</link>
-      <description>
-        <![CDATA[Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets. In the suit, filed in the District Court of Northern California, Apple accuses OpenAI of trade secret misappropriation and breach of contract. ↫ Lisa Eadicicco and Hadas Gold at CNN I find this about as interesting and watching artificial grass grow, but with the common wisdom being that Apple is behind on &#8220;AI&#8221;, it was honestly only a matter of time before the lawsuits came. After all, that&#8217;s usually what companies who can&#8217;t win in the market do. At the very least this will give corporate tech news websites a whole slew of new material. I just hope they both implode. We&#8217;d all be better off for it.]]>
-      </description>
-      <source:markdown>Apple sued OpenAI on Friday, alleging the AI company has stolen the iPhone maker’s trade secrets to develop its own yet-to-be-unveiled AI gadgets. In the suit, filed in the District Court of Northern California, Apple accuses OpenAI of trade secret misappropriation and breach of contract. ↫ Lisa Eadicicco and Hadas Gold at CNN I find this about as interesting and watching artificial grass grow, but with the common wisdom being that Apple is behind on “AI”, it was honestly only a matter of time before the lawsuits came. After all, that’s usually what companies who can’t win in the market do. At the very least this will give corporate tech news websites a whole slew of new material. I just hope they both implode. We’d all be better off for it.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145502</guid>
-      <category>Legal</category>
-    </item>    <item>
-      <title>Redox gets GTK3, Tcl</title>
-      <link>https://www.osnews.com/story/145500/redox-gets-gtk3-tcl/</link>
-      <description>
-        <![CDATA[Redox did the develop cools stuff thing again for a month, so we&#8217;ve got progress to talk about. This past month, GTK3 has been ported to Redox, as well as the Tcl programming language. Support for per-window fractional scaling has been added to Orbital, Redox&#8217; desktop environment, but it&#8217;s still relatively limited for now. There&#8217;s also new USB gamepad support, which already works in quite a few emulators, as well as details about how Redox intends to improve its support for running in a virtual environment over the coming 12 months, an effort sponsored by NLnet. Of course, there&#8217;s also the usual bugfixes and updates to various drivers, the kernel, Relibc, and more.]]>
-      </description>
-      <source:markdown>Redox did the develop cools stuff thing again for a month, so we’ve got progress to talk about. This past month, GTK3 has been ported to Redox, as well as the Tcl programming language. Support for per-window fractional scaling has been added to Orbital, Redox’ desktop environment, but it’s still relatively limited for now. There’s also new USB gamepad support, which already works in quite a few emulators, as well as details about how Redox intends to improve its support for running in a virtual environment over the coming 12 months, an effort sponsored by NLnet. Of course, there’s also the usual bugfixes and updates to various drivers, the kernel, Relibc, and more.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145500</guid>
-      <category>Redox OS</category>
-    </item>    <item>
-      <title>Understanding Windows monthly updates: Servicing explained</title>
-      <link>https://www.osnews.com/story/145498/understanding-windows-monthly-updates-servicing-explained/</link>
-      <description>
-        <![CDATA[Windows has a fairly complex update ecosystem, so every now and then, the company feels like it needs to publish clarifications and explainers so people can keep up with what&#8217;s going on. Most individuals and organizations regularly deploy monthly security updates, released on the second Tuesday of each month. Windows also provides optional non-security preview updates, which give IT teams and early adopters an opportunity to validate upcoming fixes before they&#8217;re included in the next monthly security update. This guide explains the purpose of each update type, when updates are released, and how they fit into the modern Windows servicing model. ↫ Chris Morrissey at the Windows IT Pro Blog It&#8217;s easy to make fun of Microsoft and Windows for just how complex and obtuse the update ecosystem really is, but in all honestly it&#8217;s kind of understandable. Windows is a sprawling platform used by so many different people, companies, and organisations, under so many different circumstances and in so many different environments, it makes sense that Microsoft wants to address the multitude of needs that arise from that complexity. And so we end up not only with a dizzying array of update types and a long corpus of mystic terminology, but also a long list of complex different management tools to deploy said updates. And then there&#8217;s the various preview channels making everything even more complex. I&#8217;m definitely not smart, qualified, or experienced enough to come up with a better solution, but I do think choosing better names for the various update types, and perhaps a centralised settings panel inside Windows that gave users a better idea of what each type of update actually does, would go a long way to improving clarity. During my month with Windows 11, I also found it deeply frustrating just how little information Microsoft provides about each of the updates Windows is installing. As a user, I was expected to copy/paste the KB number and then hope that would lead me to useful information, while it would be much more convenient if such information was available right then and there inside Windows Update. If you can&#8217;t reduce complexity, you should try to improve transparency.]]>
-      </description>
-      <source:markdown>Windows has a fairly complex update ecosystem, so every now and then, the company feels like it needs to publish clarifications and explainers so people can keep up with what’s going on. Most individuals and organizations regularly deploy monthly security updates, released on the second Tuesday of each month. Windows also provides optional non-security preview updates, which give IT teams and early adopters an opportunity to validate upcoming fixes before they’re included in the next monthly security update. This guide explains the purpose of each update type, when updates are released, and how they fit into the modern Windows servicing model. ↫ Chris Morrissey at the Windows IT Pro Blog It’s easy to make fun of Microsoft and Windows for just how complex and obtuse the update ecosystem really is, but in all honestly it’s kind of understandable. Windows is a sprawling platform used by so many different people, companies, and organisations, under so many different circumstances and in so many different environments, it makes sense that Microsoft wants to address the multitude of needs that arise from that complexity. And so we end up not only with a dizzying array of update types and a long corpus of mystic terminology, but also a long list of complex different management tools to deploy said updates. And then there’s the various preview channels making everything even more complex. I’m definitely not smart, qualified, or experienced enough to come up with a better solution, but I do think choosing better names for the various update types, and perhaps a centralised settings panel inside Windows that gave users a better idea of what each type of update actually does, would go a long way to improving clarity. During my month with Windows 11, I also found it deeply frustrating just how little information Microsoft provides about each of the updates Windows is installing. As a user, I was expected to copy/paste the KB number and then hope that would lead me to useful information, while it would be much more convenient if such information was available right then and there inside Windows Update. If you can’t reduce complexity, you should try to improve transparency.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145498</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>See Artifacts That Archaeologists Discovered in This 1,600-Year-Old Byzantine Christian Town Buried in an Oasis in Egypt</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-artifacts-that-archaeologists-discovered-in-this-1600-year-old-byzantine-christian-town-buried-in-an-oasis-in-egypt-180989106/</link>
-      <description>
-        <![CDATA[The mud-brick village boasts streets, towers and a large church. Researchers unearthed everyday objects like grain grinders, an oven and some 200 ostraca—ancient receipts and notes written on broken pottery]]>
-      </description>
-      <source:markdown>The mud-brick village boasts streets, towers and a large church. Researchers unearthed everyday objects like grain grinders, an oven and some 200 ostraca—ancient receipts and notes written on broken pottery</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vuwdX3Na8ZlyHmLZsyDurpkKNwQ=/420x240/filters:focal(430x287:431x288)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/4e/a04e2328-f7ae-4afc-9bd5-815c57f68a96/735761382_979443714901375_5840206519074944984_n.jpeg" length="376435" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-artifacts-that-archaeologists-discovered-in-this-1600-year-old-byzantine-christian-town-buried-in-an-oasis-in-egypt-180989106/</guid>
-    </item>    <item>
-      <title>Cases of a Parasitic Infection That Can Cause Diarrhea for Weeks Are Rapidly Rising in the U.S. Here&#39;s What to Know</title>
-      <link>https://www.smithsonianmag.com/smart-news/cases-of-a-parasitic-infection-that-can-cause-diarrhea-for-weeks-are-rapidly-rising-in-the-us-heres-what-to-know-180989108/</link>
-      <description>
-        <![CDATA[The illness is caused by the microscopic parasite Cyclospora cayetanensis, which spreads via food or water contaminated with feces, usually on farms. Health officials are still investigating the source of the multistate outbreak]]>
-      </description>
-      <source:markdown>The illness is caused by the microscopic parasite Cyclospora cayetanensis, which spreads via food or water contaminated with feces, usually on farms. Health officials are still investigating the source of the multistate outbreak</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VXZpG8vNAsarDkNgNsSPwQ_nP5k=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/96/b09646d0-adb7-4301-b154-2f50a371bb9b/lettuce-washing.jpg" length="13228697" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/cases-of-a-parasitic-infection-that-can-cause-diarrhea-for-weeks-are-rapidly-rising-in-the-us-heres-what-to-know-180989108/</guid>
-    </item>    <item>
-      <title>Early Career Faculty (ECF) 2025 Awards</title>
-      <link>https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/</link>
-      <description>
-        <![CDATA[Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control]]>
-      </description>
-      <source:markdown>Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1016983</guid>
-      <category>Early Career Faculty (ECF)</category>
-    </item>    <item>
-      <title>NASA Volunteers Help Zooniverse Reach 1 Billion Classifications</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/</link>
-      <description>
-        <![CDATA[The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]]]>
-      </description>
-      <source:markdown>The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/</guid>
-      <category>Citizen Science</category>
-    </item>    <item>
-      <title>In the Latest Brazen Heist, Jewelry and Artworks Worth $5 Million Were Stolen From a Famed French Designer&#39;s Museum</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-the-latest-brazen-heist-jewelry-and-artworks-worth-5-million-were-stolen-from-famed-french-designer-lalique-museum-180989105/</link>
-      <description>
-        <![CDATA[A trio of burglars stole 27 pieces, including a dragonfly pendant, from the Lalique Museum in eastern France]]>
-      </description>
-      <source:markdown>A trio of burglars stole 27 pieces, including a dragonfly pendant, from the Lalique Museum in eastern France</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lzn-E16kOTbpJWAulDfOgMKMGo4=/420x240/filters:focal(600x600:601x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c1/14c1a3ac-716d-44fc-9da8-31f3877e3405/syl4508b_1.jpg" length="510620" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-the-latest-brazen-heist-jewelry-and-artworks-worth-5-million-were-stolen-from-famed-french-designer-lalique-museum-180989105/</guid>
-    </item>    <item>
-      <title>NASA Photographer Captures Images from F-18 Over Washington</title>
-      <link>https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/</link>
-      <description>
-        <![CDATA[NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1016869</guid>
-      <category>Aeronautics</category>
-      <category>Armstrong Flight Research Center</category>
-      <category>Flight Innovation</category>
-      <category>NASA Aircraft</category>
-    </item>    <item>
-      <title>Bumblebees Seem to &#39;Lick Their Lips&#39; After Sweet Treats and Shake Their Heads at Bad Tastes, Hinting at the Insects&#39; Inner Lives</title>
-      <link>https://www.smithsonianmag.com/smart-news/bumblebees-seem-to-lick-their-lips-after-sweet-treats-and-shake-their-heads-at-bad-tastes-hinting-at-the-insects-inner-lives-180989098/</link>
-      <description>
-        <![CDATA[Slow-motion videos suggest that the insects display distinct behaviors when they like or dislike a snack. The findings might offer a new way to study their emotion-like states]]>
-      </description>
-      <source:markdown>Slow-motion videos suggest that the insects display distinct behaviors when they like or dislike a snack. The findings might offer a new way to study their emotion-like states</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iS8aOIOlA8ONJ4AyfWbsdNz2Qbg=/420x240/filters:focal(3504x2002:3505x2003)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/00/dc/00dcd4f5-2093-4d54-83b6-2adc19413924/7_dsc06420.jpg" length="15632108" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/bumblebees-seem-to-lick-their-lips-after-sweet-treats-and-shake-their-heads-at-bad-tastes-hinting-at-the-insects-inner-lives-180989098/</guid>
-    </item>    <item>
-      <title>Waxing Gibbous Moon</title>
-      <link>https://www.nasa.gov/image-article/waxing-gibbous-moon-6/</link>
-      <description>
-        <![CDATA[The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighter [&#8230;]]]>
-      </description>
-      <source:markdown>The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighter \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1016722</guid>
-      <category>Earth&#39;s Moon</category>
-    </item>    <item>
-      <title>We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.</title>
-      <link>https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/</link>
-      <description>
-        <![CDATA[Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea.            <p>The post <a href="https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/" target="_blank">We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea.
-
-The post [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=164067</guid>
-      <category>Physics</category>
-    </item>    <item>
-      <title>Roughly 100,000 Years Ago, This Man Got Stabbed in the Face—and Survived. He&#39;s Likely One of the First Known Victims of an Attack With a Sharp Weapon</title>
-      <link>https://www.smithsonianmag.com/smart-news/roughly-100000-years-ago-this-man-got-stabbed-in-the-face-and-survived-hes-likely-one-of-the-first-known-victims-of-an-attack-by-a-sharp-weapon-180989103/</link>
-      <description>
-        <![CDATA[Researchers who investigated the remains of a young adult male found in the Qafzeh cave say the injury healed over time, which means the victim's community may have tended to him]]>
-      </description>
-      <source:markdown>Researchers who investigated the remains of a young adult male found in the Qafzeh cave say the injury healed over time, which means the victim&#39;s community may have tended to him</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/sTTToX3RBfE2d6RE0zQ0vl7ti0A=/420x240/filters:focal(2592x1950:2593x1951)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/66/25662785-089b-491f-89ea-a3537774e90a/p3120086.jpeg" length="7196110" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/roughly-100000-years-ago-this-man-got-stabbed-in-the-face-and-survived-hes-likely-one-of-the-first-known-victims-of-an-attack-by-a-sharp-weapon-180989103/</guid>
-    </item>    <item>
-      <title>The Culprit Behind South Australia&#39;s Deadly Algal Bloom Might Be the Most Toxic Species Ever Tested, Scientists Say</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-culprit-behind-south-australias-deadly-algal-bloom-might-be-the-most-toxic-species-ever-tested-scientists-say-180989100/</link>
-      <description>
-        <![CDATA[Karenia cristata, a rare type of microscopic algae that produces toxins that harm nerve cells, can be lethal at very low concentrations]]>
-      </description>
-      <source:markdown>Karenia cristata, a rare type of microscopic algae that produces toxins that harm nerve cells, can be lethal at very low concentrations</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iu0PdET_LLMbHRv0CFXuodRZNl0=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/b2/4bb211c3-ce20-4e0f-bacc-d1065f7e1b74/algal-bloom.jpg" length="1765998" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-culprit-behind-south-australias-deadly-algal-bloom-might-be-the-most-toxic-species-ever-tested-scientists-say-180989100/</guid>
-    </item>    <item>
-      <title>Plot twist: We&#39;re probably way undercounting insects on Earth</title>
-      <link>https://www.npr.org/2026/07/10/nx-s1-5877431/world-insect-population-science</link>
-      <description>
-        <![CDATA[Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasitoid wasps — suggests there’s <em>way more</em> than previously thought. Like, <em>millions</em> more that are just waiting to be discovered.  <br/><br/><em>Interested in more bug science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Maybe you’ve wondered about it late at night as a mosquito buzzes in your ear. Or when you kick over a rock and watch dozens of little critters crawl away: How many types of insects are there in the world? Scientists have been interested in answering this question for years. A new study — based on a census of tiny and, frankly terrifying, parasitoid wasps — suggests there’s _way more_ than previously thought. Like, _millions_ more that are just waiting to be discovered.
-
-_Interested in more bug science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/476b921f-66a2-49b6-bfb0-7b4bc99323eb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=476b921f-66a2-49b6-bfb0-7b4bc99323eb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5877431&p=510351&d=568&size=9090657" length="9090657" type="audio/mpeg" />
-      <guid>cid://e09b3a36-379d-48a3-a259-ed5ffb21c136</guid>
-    </item>    <item>
-      <title>Where Venezuela’s Earthquakes Shifted the Ground</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/</link>
-      <description>
-        <![CDATA[Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors.]]>
-      </description>
-      <source:markdown>Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/</guid>
-      <category>Earth Observatory</category>
-      <category>Earth Visualization &#38; Mapping</category>
-      <category>Earthquakes</category>
-      <category>Jet Propulsion Laboratory</category>
-      <category>NISAR (NASA-ISRO Synthetic Aperture Radar)</category>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,160 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>31 Jul 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>01 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Alley ways by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79202</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fire by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79192</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Groping by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79191</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Discovery by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79205</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fusing by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79214</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Separation by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79215</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The chronicles of Break o&#39;Day by E. Everett  Howe</title>
+      <link>https://www.gutenberg.org/ebooks/79241</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>With the one coin for fee by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79230</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Death between the stars by Marion Zimmer Bradley</title>
+      <link>https://www.gutenberg.org/ebooks/79243</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Onnen poika : by Joel Lehtonen</title>
+      <link>https://www.gutenberg.org/ebooks/79245</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Within the Tides: Tales by Joseph Conrad</title>
+      <link>https://www.gutenberg.org/ebooks/1053</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A scarlet poppy, and other stories by Harriet Elizabeth Prescott Spofford</title>
+      <link>https://www.gutenberg.org/ebooks/79248</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>When love&#39;s labor&#39;s lost by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79246</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>With the joker wild by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79247</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Memoir of the life of Thomas Young : by Hudson Gurney</title>
+      <link>https://www.gutenberg.org/ebooks/79249</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The price of salt by Claire Morgan</title>
+      <link>https://www.gutenberg.org/ebooks/79242</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Back of the front in France : by Amy Owen Bradley</title>
+      <link>https://www.gutenberg.org/ebooks/79244</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hypatia, by Charles Kingsley</title>
+      <link>https://standardebooks.org/ebooks/charles-kingsley/hypatia</link>
+      <description>
+        <![CDATA[A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.]]>
+      </description>
+      <source:markdown>A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/charles-kingsley/hypatia/downloads/charles-kingsley_hypatia.epub?source=feed" length="794580" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/charles-kingsley/hypatia</guid>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>’Midst the Wild Carpathians, by Mór Jókai</title>
+      <link>https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain</link>
+      <description>
+        <![CDATA[The newly-placed Prince of Transylvania must defend his realm against foreign influence.]]>
+      </description>
+      <source:markdown>The newly-placed Prince of Transylvania must defend his realm against foreign influence.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain/downloads/mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain.epub?source=feed" length="693681" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain</guid>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>The Black Gang, by H. C. McNeile</title>
+      <link>https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang</link>
+      <description>
+        <![CDATA[A soldier-turned-detective and his team bust up a Bolshevik plot to take over Britain.]]>
+      </description>
+      <source:markdown>A soldier-turned-detective and his team bust up a Bolshevik plot to take over Britain.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang/downloads/h-c-mcneile_the-black-gang.epub?source=feed" length="541215" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang</guid>
+      <category>Adventure</category>
+      <category>Fiction</category>
+    </item>    <item>
       <title>Seward&#39;s Folly by Edison Marshall</title>
       <link>https://www.gutenberg.org/ebooks/79225</link>
       <description>
@@ -43,13 +193,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Chronicles of Break O&#39; Day by Edward Everett Howe</title>
-      <link>https://www.gutenberg.org/ebooks/79241</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Two lectures introductory to the study of poetry by H. C.  Beeching</title>
       <link>https://www.gutenberg.org/ebooks/79234</link>
       <description>
@@ -66,13 +209,6 @@
     </item>    <item>
       <title>With the German armies in the West by Sven Anders Hedin</title>
       <link>https://www.gutenberg.org/ebooks/79238</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>With the one coin for fee by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79230</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -134,13 +270,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The fusing by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79214</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Practical podiatry by E. K. Burnett and Reuben H. Gross and Alfred Joseph</title>
       <link>https://www.gutenberg.org/ebooks/79224</link>
       <description>
@@ -168,13 +297,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Separation by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79215</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Local option in Loco-Land by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79221</link>
@@ -206,13 +328,6 @@
     </item>    <item>
       <title>Curiosa mathematica, part II : by Lewis Carroll</title>
       <link>https://www.gutenberg.org/ebooks/79080</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Alley ways by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79202</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -269,13 +384,6 @@
     </item>    <item>
       <title>The death of a millionaire by G. D. H.  Cole and Margaret Cole</title>
       <link>https://www.gutenberg.org/ebooks/79206</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Discovery by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79205</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -355,20 +463,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The fire by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79192</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Groping by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79191</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>The double-crossing of Dobie by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79201</link>
@@ -1605,83 +1699,6 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The place called Dagon by Herbert Sherman Gorman</title>
-      <link>https://www.gutenberg.org/ebooks/79055</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Broad Highway by Jeffery Farnol</title>
-      <link>https://www.gutenberg.org/ebooks/5257</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Beebo Brinker by Ann Bannon</title>
-      <link>https://www.gutenberg.org/ebooks/79057</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The German Arctic expedition of 1869-70, and narrative of the wreck of the &#34;Hansa&#34; in the ice</title>
-      <link>https://www.gutenberg.org/ebooks/79056</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Contes du pays d&#39;Armor by Marie Delorme</title>
-      <link>https://www.gutenberg.org/ebooks/79058</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Designs on prehistoric Hopi pottery by Jesse Walter Fewkes</title>
-      <link>https://www.gutenberg.org/ebooks/79063</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Glimpses into plant-life : by Mrs.  Brightwen</title>
-      <link>https://www.gutenberg.org/ebooks/79061</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Those about Trench by Edwin Herbert Lewis</title>
-      <link>https://www.gutenberg.org/ebooks/79064</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ride &#39;em and weep by Raoul Whitfield</title>
-      <link>https://www.gutenberg.org/ebooks/79062</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>From England to Iceland : by George Charles Sim</title>
-      <link>https://www.gutenberg.org/ebooks/79060</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The generals of the last war with Great Britain by John S.  Jenkins</title>
-      <link>https://www.gutenberg.org/ebooks/79059</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
