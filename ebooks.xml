@@ -4,10 +4,76 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>01 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>02 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A scarlet poppy, and other stories by Harriet Elizabeth Prescott Spofford</title>
+      <link>https://www.gutenberg.org/ebooks/79248</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Memoir of the life of Thomas Young : by Hudson Gurney</title>
+      <link>https://www.gutenberg.org/ebooks/79249</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le comte de Monte-Cristo, Tome III by Alexandre Dumas and Auguste Maquet</title>
+      <link>https://www.gutenberg.org/ebooks/17991</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Napoleon by Emil Ludwig</title>
+      <link>https://www.gutenberg.org/ebooks/79253</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Waiting by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79250</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ideen zu einer Ästhetik der Tonkunst by Christian Friedrich Daniel Schubart</title>
+      <link>https://www.gutenberg.org/ebooks/79254</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Kallela-kirja I : by Akseli Gallen-Kallela</title>
+      <link>https://www.gutenberg.org/ebooks/79251</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Doorways in Drumorty by Lorna Moon</title>
+      <link>https://www.gutenberg.org/ebooks/79252</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Suspense, by Joseph Conrad</title>
+      <link>https://standardebooks.org/ebooks/joseph-conrad/suspense</link>
+      <description>
+        <![CDATA[A young Englishman stumbles upon love and political intrigue in Napoleonic-era Genoa.]]>
+      </description>
+      <source:markdown>A young Englishman stumbles upon love and political intrigue in Napoleonic-era Genoa.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/suspense/downloads/joseph-conrad_suspense.epub?source=feed" length="554861" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/suspense</guid>
+      <category>Fiction</category>
+    </item>    <item>
       <title>Alley ways by Helen R.  Hull</title>
       <link>https://www.gutenberg.org/ebooks/79202</link>
       <description>
@@ -85,13 +151,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>A scarlet poppy, and other stories by Harriet Elizabeth Prescott Spofford</title>
-      <link>https://www.gutenberg.org/ebooks/79248</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>When love&#39;s labor&#39;s lost by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79246</link>
       <description>
@@ -101,13 +160,6 @@
     </item>    <item>
       <title>With the joker wild by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79247</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Memoir of the life of Thomas Young : by Hudson Gurney</title>
-      <link>https://www.gutenberg.org/ebooks/79249</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1657,48 +1709,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The zoology of the voyage of H.M.S. Beagle, [vol. 4 of 5] : by Leonard Jenyns</title>
-      <link>https://www.gutenberg.org/ebooks/78558</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Die Abstammung der Kunst by Wilhelm Bölsche</title>
-      <link>https://www.gutenberg.org/ebooks/79067</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The Bakerian lecture : by Thomas Young</title>
-      <link>https://www.gutenberg.org/ebooks/79069</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Meadow Brook by Mary Jane Holmes</title>
-      <link>https://www.gutenberg.org/ebooks/79070</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The espalier by Sylvia Townsend Warner</title>
-      <link>https://www.gutenberg.org/ebooks/79065</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Der Busch by B. Traven</title>
-      <link>https://www.gutenberg.org/ebooks/79066</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,38 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>01 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>02 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Pro Bruin Rundown: UCLA softball alumni make league-wide impact in 2nd season of AUSL</title>
+      <link>https://dailybruin.com/2026/08/01/pro-bruin-rundown-ucla-softball-alumni-make-league-wide-impact-in-2nd-season-of-ausl/</link>
+      <description>
+        <![CDATA[Twelve former UCLA softball players are spread across five of the six teams in the Athletes Unlimited Softball League. Three are recent class of 2026 graduates fresh off a record-breaking campaign culminating in a knockout during bracket play of the Women&#8217;s College World Series.]]>
+      </description>
+      <source:markdown>Twelve former UCLA softball players are spread across five of the six teams in the Athletes Unlimited Softball League. Three are recent class of 2026 graduates fresh off a record-breaking campaign culminating in a knockout during bracket play of the Women’s College World Series.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513709</guid>
+      <category>Softball</category>
+      <category>Sports</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>Q&#38;A: New School of Public Health dean Kari Nadeau wants to expand scholarships, funding</title>
+      <link>https://dailybruin.com/2026/08/01/qa-new-school-of-public-health-dean-kari-nadeau-wants-to-expand-scholarships-funding/</link>
+      <description>
+        <![CDATA[Kari Nadeau began her tenure as dean of the UCLA Fielding School of Public Health on July 1.
+        News senior staffer Shaun Thomas sat down with Nadeau to discuss her transition into the role and her vision for the school&#8217;s future.]]>
+      </description>
+      <source:markdown>Kari Nadeau began her tenure as dean of the UCLA Fielding School of Public Health on July 1.
+News senior staffer Shaun Thomas sat down with Nadeau to discuss her transition into the role and her vision for the school’s future.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513705</guid>
+      <category>A Closer Look</category>
+      <category>Academics</category>
+      <category>Campus</category>
+      <category>Higher Education</category>
+      <category>News</category>
+      <category>Science &#38; Health</category>
+      <category>db-story-g</category>
+    </item>    <item>
       <title>New players, new strategies mark UCLA football’s defensive revamp</title>
       <link>https://dailybruin.com/2026/08/01/new-players-new-strategies-mark-ucla-footballs-defensive-revamp/</link>
       <description>
@@ -17,6 +45,7 @@
       <guid>cid://https://dailybruin.com/?p=513695</guid>
       <category>Football</category>
       <category>Sports</category>
+      <category>db-story-d1</category>
     </item>    <item>
       <title>For Bob Chesney, transforming UCLA football starts with off-the-field cohesion</title>
       <link>https://dailybruin.com/2026/08/01/for-bob-chesney-transforming-ucla-football-starts-with-off-the-field-cohesion/</link>
@@ -29,6 +58,7 @@ When Bob Chesney walked onto the stage at Wednesday’s Big Ten Football Media D
       <guid>cid://https://dailybruin.com/?p=513688</guid>
       <category>Football</category>
       <category>Sports</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>UCLA marmot research lab turns to OnlyFans after funding cuts</title>
       <link>https://dailybruin.com/2026/08/01/ucla-marmot-research-lab-turns-to-onlyfans-after-funding-cuts/</link>
@@ -43,6 +73,7 @@ The Blumstein Lab, which studies marmot behavior, started videos of the large ro
       <category>Academics</category>
       <category>News</category>
       <category>Science &#38; Health</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Formerly retired UCLA men’s basketball guard Donovan Dent enters transfer portal</title>
       <link>https://dailybruin.com/2026/07/31/formerly-retired-ucla-mens-basketball-guard-donovan-dent-enters-transfer-portal/</link>
@@ -54,7 +85,7 @@ The Blumstein Lab, which studies marmot behavior, started videos of the large ro
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>UCPD arrests man for indecent exposure outside Public Affairs building</title>
       <link>https://dailybruin.com/2026/07/31/ucpd-arrests-man-for-indecent-exposure-outside-public-affairs-building/</link>
@@ -85,6 +116,7 @@ Released Friday, “petal” is Grande’s eighth album and first studio release
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Music</category>
+      <category>db-story-d2</category>
     </item>    <item>
       <title>Film review: It’s a ‘Brand New Day’ for Spider-Man with stunning performances, cinematography</title>
       <link>https://dailybruin.com/2026/07/31/film-review-its-a-brand-new-day-for-spider-man-with-stunning-performances-cinematography/</link>
@@ -100,6 +132,7 @@ Marvel Studios’ newest addition to the Spider-Man franchise swung into theater
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>One year after $584 million federal funding freeze, UCLA research still recovering</title>
       <link>https://dailybruin.com/2026/07/31/one-year-after-584-million-federal-funding-freeze-ucla-research-still-recovering/</link>
@@ -114,6 +147,7 @@ UCLA researchers said the effects of the Trump administration’s reductions to 
       <category>Campus</category>
       <category>News</category>
       <category>Science &#38; Health</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>USAC Recap – July 21</title>
       <link>https://dailybruin.com/2026/07/31/usac-recap-july-21/</link>
@@ -205,7 +239,7 @@ The UC admitted a record number of California resident first-year students for t
       <category>News</category>
       <category>UC</category>
       <category>breaking</category>
-      <category>db-story-c1</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>How three newsrooms are charting different paths for AI use</title>
       <link>https://www.niemanlab.org/2026/07/how-three-newsrooms-are-charting-different-paths-for-ai-use/</link>
@@ -247,7 +281,7 @@ Parlour Magic is an NYC-based synth-pop band led by producer and composer Luc Bo
       <guid>cid://https://dailybruin.com/?p=513621</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-a</category>
+      <category>db-story-j</category>
     </item>    <item>
       <title>Gallery: From missions to cathedrals, Catholic churches chronicle Los Angeles’ history</title>
       <link>https://dailybruin.com/2026/07/28/gallery-from-missions-to-cathedrals-catholic-churches-chronicle-los-angeles-history/</link>
@@ -309,7 +343,7 @@ The harder lessons – including how to form industry relationships, navigate pr
       <category>Arts</category>
       <category>Film &#38; TV</category>
       <category>Theater &#38; Fine Arts</category>
-      <category>db-story-c2</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>Lauren Betts takes home 2026 Collegiate Woman Athlete of the Year award</title>
       <link>https://dailybruin.com/2026/07/27/lauren-betts-takes-home-2026-collegiate-woman-athlete-of-the-year-award/</link>
@@ -323,7 +357,7 @@ Former UCLA women’s basketball center Lauren Betts won the 2026 Collegiate Wom
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>breaking</category>
-      <category>db-story-g</category>
+      <category>db-story-k</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Minnesota</title>
       <link>https://dailybruin.com/2026/07/27/2026-big-ten-preview-minnesota/</link>
@@ -386,7 +420,7 @@ Former UCLA women’s basketball center Lauren Betts won the 2026 Collegiate Wom
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>Sports Columns</category>
-      <category>db-story-f1</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Video game preview: Colorful worlds and cozy adventures await in these new summer releases</title>
       <link>https://dailybruin.com/2026/07/26/video-game-preview-colorful-worlds-and-cozy-adventures-await-in-these-new-summer-releases/</link>
@@ -1548,106 +1582,6 @@ Third baseman Roman Martin was selected by the Athletics in the fourth round wit
       <category>Sports</category>
       <category>breaking</category>
       <category>MLB Draft 2026</category>
-    </item>    <item>
-      <title>Mulivai Levu goes No. 70 in MLB draft for Reds</title>
-      <link>https://dailybruin.com/2026/07/11/mulivai-levu-goes-no-70-in-mlb-draft-for-reds/</link>
-      <description>
-        <![CDATA[The Bruins’ RBI machine is on his way to play professional baseball.
-        First baseman Mulivai Levu was selected by the Cincinnati Reds in Competitive Balance Round B with the No.]]>
-      </description>
-      <source:markdown>The Bruins’ RBI machine is on his way to play professional baseball.
-First baseman Mulivai Levu was selected by the Cincinnati Reds in Competitive Balance Round B with the No.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513086</guid>
-      <category>Baseball</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>MLB Draft 2026</category>
-    </item>    <item>
-      <title>Logan Reddemann goes No. 38 in MLB draft for Rockies</title>
-      <link>https://dailybruin.com/2026/07/11/logan-reddemann-goes-no-38-in-mlb-draft-for-rockies/</link>
-      <description>
-        <![CDATA[Right-hander Logan Reddemann was selected with the 38th pick in the second round of the 2026 MLB draft by the Colorado Rockies on Saturday.&#160;
-        The junior exploded onto the draft scene after transferring to UCLA from San Diego, where he played his first two seasons of collegiate baseball and was selected to the All-WCC First Team twice.&#160;
-        Reddemann captured the Bruins’ Friday night starter role before the season began.]]>
-      </description>
-      <source:markdown>Right-hander Logan Reddemann was selected with the 38th pick in the second round of the 2026 MLB draft by the Colorado Rockies on Saturday.
-The junior exploded onto the draft scene after transferring to UCLA from San Diego, where he played his first two seasons of collegiate baseball and was selected to the All-WCC First Team twice.
-Reddemann captured the Bruins’ Friday night starter role before the season began.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513078</guid>
-      <category>Baseball</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>MLB Draft 2026</category>
-    </item>    <item>
-      <title>Roch Cholowsky goes No. 1 in MLB draft for White Sox</title>
-      <link>https://dailybruin.com/2026/07/11/roch-cholowsky-goes-no-1-in-mlb-draft-for-white-sox/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 12 at 10:19 p.m.</em>
-        UCLA baseball already had a shortstop wearing jersey No. 1 when Roch Cholowsky arrived in Westwood as a freshman in the fall of 2023.]]>
-      </description>
-      <source:markdown>_This post was updated July 12 at 10:19 p.m._
-UCLA baseball already had a shortstop wearing jersey No. 1 when Roch Cholowsky arrived in Westwood as a freshman in the fall of 2023.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513071</guid>
-      <category>Baseball</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>db-story-f2</category>
-      <category>MLB Draft 2026</category>
-    </item>    <item>
-      <title>Dizon’s Disposition: UCLA baseball draft profiles 2026: part 3</title>
-      <link>https://dailybruin.com/2026/07/11/dizons-disposition-ucla-baseball-draft-profiles-2026-part-3/</link>
-      <description>
-        <![CDATA[The 20-round 2026 MLB Draft will take place Saturday and Sunday. UCLA baseball boasts 23 players who could be selected in the First-Year Player Draft, meeting the draft’s eligibility requirement of being at least 21 or spending at least three seasons at a four-year university.]]>
-      </description>
-      <source:markdown>The 20-round 2026 MLB Draft will take place Saturday and Sunday. UCLA baseball boasts 23 players who could be selected in the First-Year Player Draft, meeting the draft’s eligibility requirement of being at least 21 or spending at least three seasons at a four-year university.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513068</guid>
-      <category>Baseball</category>
-      <category>Sports</category>
-      <category>Sports Columns</category>
-      <category>MLB Draft 2026</category>
-    </item>    <item>
-      <title>Dizon’s Disposition: UCLA baseball draft profiles 2026: part 2</title>
-      <link>https://dailybruin.com/2026/07/11/dizons-disposition-ucla-baseball-draft-profiles-2026-part-2/</link>
-      <description>
-        <![CDATA[The 20-round 2026 MLB Draft will take place Saturday and Sunday. UCLA baseball boasts 23 players who could be selected in the First-Year Player Draft, meeting the draft’s eligibility requirement of being at least 21 or spending at least three seasons at a four-year university.]]>
-      </description>
-      <source:markdown>The 20-round 2026 MLB Draft will take place Saturday and Sunday. UCLA baseball boasts 23 players who could be selected in the First-Year Player Draft, meeting the draft’s eligibility requirement of being at least 21 or spending at least three seasons at a four-year university.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512988</guid>
-      <category>Baseball</category>
-      <category>Sports</category>
-      <category>Sports Columns</category>
-      <category>MLB Draft 2026</category>
-    </item>    <item>
-      <title>How the Trump administration’s revamp of funding guidelines could threaten research</title>
-      <link>https://dailybruin.com/2026/07/11/how-the-trump-administrations-revamp-of-funding-guidelines-could-threaten-research/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 12 at 7:39 p.m.</em>
-        The federal government’s proposal to overhaul research grant funding processes could have detrimental effects on scientific research, UCLA researchers said.]]>
-      </description>
-      <source:markdown>_This post was updated July 12 at 7:39 p.m._
-The federal government’s proposal to overhaul research grant funding processes could have detrimental effects on scientific research, UCLA researchers said.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512996</guid>
-      <category>Academics</category>
-      <category>Campus</category>
-      <category>Higher Education</category>
-      <category>National</category>
-      <category>News</category>
-      <category>Science &#38; Health</category>
-      <category>db-story-j</category>
-    </item>    <item>
-      <title>Life sciences department may force botanical club to vacate greenhouse space</title>
-      <link>https://dailybruin.com/2026/07/11/life-sciences-department-may-force-botanical-club-to-vacate-greenhouse-space/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 12 at 7:37 p.m.</em>
-        UCLA’s life sciences department is pressuring a student-run botanical club to vacate an educational greenhouse it has used for the past two years, students said.]]>
-      </description>
-      <source:markdown>_This post was updated July 12 at 7:37 p.m._
-UCLA’s life sciences department is pressuring a student-run botanical club to vacate an educational greenhouse it has used for the past two years, students said.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=512992</guid>
-      <category>A Closer Look</category>
-      <category>Campus</category>
-      <category>News</category>
-      <category>db-story-g</category>
     </item>
   </channel>
 </rss>

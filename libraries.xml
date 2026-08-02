@@ -4,10 +4,25 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>01 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>02 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Massachusetts Lawmakers Send Governor Healey Bill “That Establishes Guidelines For How Schools and Public Libraries Make Decisions About the Availability and Appropriateness of Books”</title>
+      <link>https://www.infodocket.com/2026/08/01/massachusetts-lawmakers-send-governor-healey-bill-that-establishes-guidelines-for-how-schools-and-public-libraries-make-decisions-about-the-availability-and-appropriateness-of-books/</link>
+      <description>
+        <![CDATA[<p>From Statehouse News Service via NBC Boston: The Massachusetts Legislature on Friday sent to Gov. Maura Healey&#8217;s desk legislation that establishes guidelines for how schools and public libraries make decisions about the availability and appropriateness of books. &#8220;Together we are setting forth a bill to protect free expression and intellectual curiosity and every person&#8217;s right [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/01/massachusetts-lawmakers-send-governor-healey-bill-that-establishes-guidelines-for-how-schools-and-public-libraries-make-decisions-about-the-availability-and-appropriateness-of-books/">Massachusetts Lawmakers Send Governor Healey Bill &#8220;That Establishes Guidelines For How Schools and Public Libraries Make Decisions About the Availability and Appropriateness of Books&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From Statehouse News Service via NBC Boston: The Massachusetts Legislature on Friday sent to Gov. Maura Healey’s desk legislation that establishes guidelines for how schools and public libraries make decisions about the availability and appropriateness of books. “Together we are setting forth a bill to protect free expression and intellectual curiosity and every person’s right \[…\]
+
+The post [Massachusetts Lawmakers Send Governor Healey Bill “That Establishes Guidelines For How Schools and Public Libraries Make Decisions About the Availability and Appropriateness of Books”](https://www.infodocket.com/2026/08/01/massachusetts-lawmakers-send-governor-healey-bill-that-establishes-guidelines-for-how-schools-and-public-libraries-make-decisions-about-the-availability-and-appropriateness-of-books/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168494</guid>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Public Libraries</category>
+      <category>School Libraries</category>
+    </item>    <item>
       <title>Respect des Fonds After the Filing Cabinet</title>
       <link>https://metaarchivist.substack.com/p/respect-des-fonds-after-the-filing</link>
       <description>
@@ -1145,28 +1160,6 @@ The post [Guest Post — Research Needs a Shared Standard for AI Disclosure](htt
       <category>AI standards</category>
       <category>disclosure</category>
       <category>standards</category>
-    </item>    <item>
-      <title>siegfried 1.11.5 released</title>
-      <link>https://www.itforarchivists.com/post/sf1115/</link>
-      <description>
-        <![CDATA[<p>Version 1.11.5 of siegfried is now available. Get it <a href="https://www.itforarchivists.com/siegfried">here</a>.</p>
-        <h3 id="changelog-v1115-2026-07-11">CHANGELOG v1.11.5 (2026-07-11)</h3>
-        <ul>
-        <li>update go version to 1.25.0</li>
-        <li>update PRONOM to v124</li>
-        <li>bug with mimeinfo signature generation. Reported by Hugh Williams</li>
-        <li>wasm_exec.js updated. Reported by Trevor Munoz</li>
-        </ul>]]>
-      </description>
-      <source:markdown>Version 1.11.5 of siegfried is now available. Get it [here](https://www.itforarchivists.com/siegfried).
-
-### CHANGELOG v1.11.5 (2026-07-11)
-
-- update go version to 1.25.0
-- update PRONOM to v124
-- bug with mimeinfo signature generation. Reported by Hugh Williams
-- wasm\_exec.js updated. Reported by Trevor Munoz</source:markdown>
-      <guid>cid://https://www.itforarchivists.com/post/sf1115/</guid>
     </item>
   </channel>
 </rss>

@@ -2,13 +2,13 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8" >
-  <meta name="generator" content="antenna/0.0.26" >
-  <meta name="date" content="2026-08-01T06:45:04-07:00" >
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+  <meta content="antenna/0.0.26" name="generator" >
+  <meta name="date" content="2026-08-02T06:43:29-07:00" >
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" >
   <title>Science and Technology</title>
   <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="science_and_technology.xml" >
-  <script src="modules/date_filter.js" type="module" ></script>
+  <script type="module" src="modules/date_filter.js" ></script>
   <script type="module" src="modules/article_collapse.js" ></script>
 </head>
 <body>
@@ -44,6 +44,28 @@
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content">
 
+    <article data-published="2026-08-01T21:14:47Z" data-link="https://www.osnews.com/story/145663/netbsd-11-0-released/" data-pagefind-filter="category:NetBSD, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-08-01T21:14:47Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>NetBSD 11.0 released</h2>
+      <p><time datetime="2026-08-01">2026-08-01</time></p>
+      <div class="article-body"><p>NetBSD, the operating system specifically designed to run on anything from a supercomputer to a toothpick, just released version 11.0. There’s a ton of changes and improvements here, such as a brand new port to RISC-V, which supports a number of the more popular RISC-V SoCs (sadly, not the one I have just yet). NetBSD 11.0 also adds initial support for the Qualcomm Snapdragon X Elite platform, as well as a port to the virt68k platform, which means the Motorola 68000 port in QEMU using paravirtualized devices. Speaking of virtualisation, they’re also introducing a new MICROVM kernel for x86: New MICROVM kernel for x86, supporting both i386 and amd64, NetBSD 11.0 introduces a dedicated MICROVM kernel designed for extremely fast virtual machine boot, leveraging PVH boot, VirtIO MMIO, and multiple kernel optimizations, it can boot in about 10 ms on 2020-era x86 CPUs. ↫ NetBSD 11.0 release notes There’s also improved support for Linux system calls in compat_linux, the npf firewall, and much more. Of course, the list of other improvements, buigfixes, and smaller changes is long, including many changes for old, outdated, or otherwise odd architectures and platforms, as is the NetBSD way. Which other operating system proudly lists substantial improvements to their PA-RISC, Motorola 68000, and Alpha ports, among others?</p>
+</div>
+      <footer>
+        <a href="https://www.osnews.com/story/145663/netbsd-11-0-released/">Continue reading</a>
+        <p class="source">via OS News</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-08-01T21:05:34Z" data-link="https://www.osnews.com/story/145661/callmemaybe-runtime-reflection-library-built-on-c26-static-reflection/" data-pagefind-filter="category:General Development, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-08-01T21:05:34Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>CallMeMaybe: runtime reflection library built on C++26 static reflection</h2>
+      <p><time datetime="2026-08-01">2026-08-01</time></p>
+      <div class="article-body"><p>I have a policy to effectively never link to YouTube videos. I’ll gladly make an exception for this one. Reflection is one of the most powerful concepts in Computer Science. Unfortunately, not every programming language is blessed enough to have it. In the 1980s, one company, Symbolics took the concept to the logical extreme. By representing EVERYTHING as objects; they created the most powerful (and inadvertently) least private operating system ever created! The company collapsed, but the ideas live on. Some modern languages got a full dose of reflection. Some…weren’t so lucky. I ranked them all, and in the end I’ll show you how I dragged C++ up a tier with my brand new runtime reflection library, CallMeMaybe! ↫ Laurie Wired The GitHub description of CallMeMaybe: CallMeMaybe (CMM) is a C++ runtime reflection library built on top of P2996 static reflection introduced in C++26. CMM purposefully mirrors many of the std::meta functions to provide a uniform interface, but allows runtime introspection, dynamic invocation, and instantiation by building a runtime reflection registry. Class members can be automatically traversed and reflected by simply adding ] as an annotation. CMM implements a custom type system to completely avoid RTTI requirements. ↫ CallMeMaybe GitHub page My YouTube linking policy will remain in place.</p>
+</div>
+      <footer>
+        <a href="https://www.osnews.com/story/145661/callmemaybe-runtime-reflection-library-built-on-c26-static-reflection/">Continue reading</a>
+        <p class="source">via OS News</p>
+      </footer>
+    </article>
+
     <article data-published="2026-08-01T04:05:00Z" data-link="https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/" data-pagefind-filter="category:APOD, datePublished:2026-08-01T04:05:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>APOD: 2026 August 1 – Buck Moon and Belt of Venus</h2>
       <p><time datetime="2026-08-01">2026-08-01</time></p>
@@ -69,7 +91,7 @@
 
     <article data-published="2026-07-31T22:44:09Z" data-link="https://www.osnews.com/story/145658/develop-cross-platform-cli-and-gui-tools-with-tcl-tk/" data-pagefind-filter="category:General Development, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-31T22:44:09Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Develop cross-platform CLI and GUI tools with Tcl/Tk</h2>
-      <p><time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-31">2026-07-31</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>Tcl, or the “Tool Command Language“, created and released by John Ousterhout in 1990, deserves a place among the greatest products of the human mind. Especially when combined with its better known graphical user interface Toolkit — Tk. In 1997 Ousterhout was awarded the ACM Software System Award for Tcl/Tk, an award given to institutions or individuals recognized for developing software systems with a lasting influence, reflected in contributions to concepts, in commercial acceptance, or both. ↫ Armen Barsegyan Everything you could ever possibly want to know about Tcl/Tk. There’s nothing to add here; if this is up your alley – and you know if it is – just go ahead and read it, and stop wasting time here.</p>
 </div>
       <footer>
@@ -201,7 +223,7 @@
 
     <article data-published="2026-07-31T15:07:36Z" data-link="https://www.osnews.com/story/145656/llvm-toolchain-coming-to-openbsd-sparc64-and-sparc-solaris-snv_151a/" data-pagefind-filter="category:OpenBSD, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-31T15:07:36Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>LLVM toolchain coming to OpenBSD/sparc64 and SPARC Solaris (snv_151a)</h2>
-      <p><time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-31">2026-07-31</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>Speaking of OpenBSD: Yes, you read that right. Modern development tools in the form of the LLVM compiler infrastructure is well on its way to supporting OpenBSD/sparc64 along with other more conventional architectures. The support is now ready for testing, via a patch set presented by Kirill A. Korinsky in a message to the tech@ mailing list, with the subject LLVM toolchain for sparc64. ↫ Peter N. M. Hansteen On a related note, the the entire LLVM stack (version 19.1.7, including llvm’s binutils, clang, ldd) has also been ported to the SPARC version of Solaris 11 Express (snv_151a). This should make it possible to also port things like Rust and Zig to this same version of Solaris on SPARC, which is good news, because this release supports SPARC hardware long dropped by the current Solaris builds from Oracle.</p>
 </div>
       <footer>
@@ -212,7 +234,7 @@
 
     <article data-published="2026-07-31T14:55:54Z" data-link="https://www.osnews.com/story/145654/dead-software-walking-the-ongoing-evolution-of-relayd8-and-httpd8/" data-pagefind-filter="category:OpenBSD, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-31T14:55:54Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Dead software walking: the ongoing evolution of relayd(8) and httpd(8)</h2>
-      <p><time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-31">2026-07-31</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>As I mentioned in my OpenBSD 7.8 highlights post, development of relayd(8) and httpd(8) had stalled. Many diffs appeared on the tech@ mailing list from different contributors, but few were committed into the repository. The main reason was simple: Established OpenBSD developers weren’t interested in these daemons anymore. Call it momentum, or timing. Around the same time, kirill@ and I started working on these daemons more actively. We both use them regularly and have real-world use cases. I support customers with OpenBSD setups that often involve complex httpd(8) and relayd(8) configurations. This practical need motivated me on many levels. ↫ Rafael Sadowski They’ve managed to do a ton of work on these two daemons, fixing many long-standing issues and reviewing tons of stalled patch submissions, while also modernising the code and adding new features. It’s great to see people contribute significant time and energy to fixing up the tools they use for everyone else’s benefit.</p>
 </div>
       <footer>
@@ -327,7 +349,7 @@
 
     <article data-published="2026-07-30T23:06:48Z" data-link="https://www.osnews.com/story/145642/microsoft-claims-its-going-to-improve-windows-11s-context-menus/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-30T23:06:48Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Microsoft claims it’s going to improve Windows 11’s context menus</h2>
-      <p><time datetime="2026-07-30">2026-07-30</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-30">2026-07-30</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>When I had to use Windows 11 for a month because you people paid me to do so, the one seemingly small thing that really ground my gears were Windows 11’s terrible right-click (context) menus. They were full of stuff I didn’t put there, slow to open, and in some places, a modern Windows 11 context menu would have its own old Win32 context menu with even more stuff. It seems Microsoft is finally going to fix all of this. This new compact menu will be much faster and more reliable, as it foregoes needing to load in all the third-party actions that slow it down currently. Additionally, at the Windows Insider Meetup in London, Microsoft showed me a new context menu customization feature coming soon that will let users configure what apps and actions appear in the right-click menu. ↫ Zac Bowden at Windows Central Look, I know to us non-Windows users this seem like an incredibly small and dumb thing to focus on, but when your operating system is as much of a trashfire as Windows has become, improved context menus are massive improvements that make a meaningful difference. Of course, Microsoft makes these types of promises all the time, so I’ll believe it when I see it.</p>
 </div>
       <footer>
@@ -338,7 +360,7 @@
 
     <article data-published="2026-07-30T22:53:38Z" data-link="https://www.osnews.com/story/145640/chrome-gets-live-patching/" data-pagefind-filter="category:Google, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-30T22:53:38Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Chrome gets “live patching”</h2>
-      <p><time datetime="2026-07-30">2026-07-30</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-30">2026-07-30</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>We may all have a disdain for Chrome – OSNews users probably use Chrome a lot less than the average public – but that doesn’t mean the browser doesn’t sometimes do interesting things other browsers should copy. Chrome is in the the process of increasing its release cadence, but getting users to restart their browser more often than they already do to apply these higher number of updates is going to be a problem. As such, Google is working on something that seems quite obvious now that they’ve talking about it: Investing in “dynamic patching” that will eliminate the need for a full browser restart in most cases. By leveraging Chrome’s multi-process architecture, dynamic patching sequentially replaces background child processes (like the Renderer and GPU) with updated binaries on the fly. Stay tuned to learn more as we research and develop this feature. ↫ Chrome Security Team Chrome was the first browser to use multiple processes, isolating tabs from one another so that if one website or tab went haywire, your other tabs would be unaffected. It makes perfect sense to have the browser use new, updated binaries for new tabs you open as soon as they become available, in a sort of ship-of-Theseus kind of approach to updating. Of course, you can’t postpone the inevitable forever, but this should provide real-world benefits to users. Neat. The linked blog post goes into much more detail about other things too, like various low-level mitigations to prevent bugs and security issues from causing too much harm.</p>
 </div>
       <footer>
@@ -692,7 +714,7 @@
 
     <article data-published="2026-07-29T12:48:46Z" data-link="https://www.osnews.com/story/145628/windows-11-is-quietly-installing-onedrive-photos-on-your-machine/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-29T12:48:46Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Windows 11 is quietly installing OneDrive Photos on your machine</h2>
-      <p><time datetime="2026-07-29">2026-07-29</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-29">2026-07-29</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>It’s that time of the week again, I guess. The year is 2026, and I’m still amazed when I find a new entry in my Start menu’s All apps list for an app I don’t remember installing. This time, it’s Microsoft again, and the product is OneDrive Photos, which appears to be yet another photo viewer and editor for Windows 11 that nobody asked to have installed automatically. While searching for Microsoft Photos, a new app called “OneDrive Photos” showed up in my results out of nowhere. It appears to have arrived either via Windows Update or an update for the OneDrive sync client on Windows. ↫ Mayank Parmar at Windows Latest Just don’t use Windows. You people paid me to use it and it was not a fun experience.</p>
 </div>
       <footer>
@@ -703,7 +725,7 @@
 
     <article data-published="2026-07-29T12:39:05Z" data-link="https://www.osnews.com/story/145623/ubuntu-touch-24-04-2-0-and-24-04-1-4-released/" data-pagefind-filter="category:Ubuntu, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-29T12:39:05Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Ubuntu Touch 24.04-2.0 and 24.04-1.4 released</h2>
-      <p><time datetime="2026-07-29">2026-07-29</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-29">2026-07-29</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>Ubuntu Touch, the mobile Linux operating system originally started by, you guessed it, Ubuntu, but now managed by UBports, released versions 24.04-2.0 and 24.04-1.4. The latter is a maintenance release with some bug fixes and minor changes, while the former is a bigger release with quite a few improvements, so let’s focus on that one. Ubuntu Touch 24.04-2.0 updates the Chromium engine for the Morph browser from 87 to 134, which is massive leap forward, while still lagging behind the most recent version quite a bit. This release also adds a Widevine installer for people who want to view DRM-encumbered content on the web. This release also adds support for notches and rounded corners in smartphone displays, so that content in the UI can dodge these. There’s also a screenshot editor for making basic edits to screenshots, as well as the ability to print straight from your device. Of course, there’s the usual list of bugfixes and smaller improvements, and, most importantly of all, support for over 2000 new emoji. Existing users can use the regular update tools, but do note that you’ll need to upgrade to 24.04-1.4 first, since it contains some provisions to enable the 24.04-2.0 update. If I had any of the listed supported devices, I would definitely want to do a proper review of Ubuntu Touch. It seems like it has made so much progress in recent years.</p>
 </div>
       <footer>
@@ -714,7 +736,7 @@
 
     <article data-published="2026-07-29T12:27:32Z" data-link="https://www.osnews.com/story/145621/state-of-multi-player-wayland/" data-pagefind-filter="category:Wayland, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-29T12:27:32Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>State of multi-player Wayland</h2>
-      <p><time datetime="2026-07-29">2026-07-29</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-29">2026-07-29</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>I’ve been fascinated by the idea of attaching multiple mice to one computer, and then having multiple mouse cursors inside of one desktop environment! I just spent three weeks investigating how well that’s currently supported on Linux &amp; Wayland. Let me tell you what I found! The results are surprisingly cool. ↫ blinry It shouldn’t come as a surprise, though, that a lot of graphical user interfaces don’t really have any affordances for multiple mouse pointers manipulating the same object (e.g. one cursor drags the window, another tries to close it), but the possibilities are really endless here. It’s not quite there yet to be considered fully-featured and plug-and-play, but it’s a lot more capable than I thought it would be. The first thing that came to my mind is sitting down behind my computer with my kids to teach them the basics of using a GUI. Instead of having to pass the mouse back and forth, one of my kids (or both!) could have his own cursor, which is a lot more fun and collaborative. Games are obviously another great application for this sort of thing, especially things like classic board games. I hope this gets some more attention.</p>
 </div>
       <footer>
@@ -888,7 +910,7 @@
 
     <article data-published="2026-07-27T23:37:57Z" data-link="https://www.osnews.com/story/145617/windows-nt-got-its-name-from-one-of-intels-failed-x86-replacements/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-27T23:37:57Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Windows NT got its name from one of Intel’s failed x86 replacements</h2>
-      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>Dave Farquhar published an article today about Windows NT 3.1’s place in the market when it was originally released, and while the article is interesting and a fun read, it does mention this: Microsoft took its nascent code that it intended to form the base of OS/2 3.0, renamed it Windows New Technology, and eventually released it as Windows NT 3.1. ↫ Dave Farquhar While Microsoft did, in fact, use the “New Technology” branding as a marketing trick, this is not what “NT” originally stood for. Two developers from the original Windows NT development team, Mark Lucovsky and David Thompson, explained all the way back in 2003 that “NT” came from the codename for Intel’s then-new RISC platform, the Intel i860 (Raymond Chen confirmed the veracity of their story). The i860 was the first target platform for Windows NT, and it was codenamed “N-10” – NT. Finally, it was time to start writing some code. “We checked the first code pieces in around mid-December 1988,” Lucovsky said, “and had a very basic system kind of booting on a simulator of the Intel i860 (which was codenamed “N-Ten”) by January.” In fact, this is where NT actually got its name, Lucovsky revealed, adding that the “new technology” moniker was added after the fact in a rare spurt of product marketing by the original NT team members. “Originally, we were targeting NT to the Intel i860, a RISC processor that was horribly behind schedule. Because we didn’t have any i860 machines in-house to test on, we used an i860 simulator. That’s why we called it NT, because it worked on the ‘N-Ten.'” ↫ Paul Thurrott The i860 was one of Intel’s many attempts over the years to replace x86 with something more modern, but – as would become tradition with Intel and attempting to replace its x86 architecture – it suffered from endless delays, missed targets, and lacklustre performance. It saw only sporadic use in the market, and ended up on the chopping block after only a few years. Intel tried to replace x86 again soon after with Itanium, which suffered an identical fate. Still, the engineers working on the i860 platform in the late ’80s and early ’90s at Intel can at least take some pride in that to this day, the most popular desktop operating system in the world got its name from the product they developed. Intel’s i860 might barely even be worthy of a footnote today, but billions of PC users log into their Windows “N-10” machines every day, unwittingly carrying a torch for the failed x86 replacement.</p>
 </div>
       <footer>
@@ -910,7 +932,7 @@
 
     <article data-published="2026-07-27T19:33:07Z" data-link="https://www.osnews.com/story/145615/the-fedora-45-sausage-factory/" data-pagefind-filter="category:Fedora Core, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-27T19:33:07Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>The Fedora 45 sausage factory</h2>
-      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>This is a walkthrough of how Fedora turns source code and packages into the artifacts you download and install. It follows the a package from a packager’s git push to a composed release: ISOs, cloud images, container images, and OSTree deployments. ↫ Simon de Vlieger Linux distributions – good ones like Fedora, at least – are really complex operations, with a ton of checks and balances to ensure no git push eventually ends up causing problems on individual users’ machines way down the line. The fact so many people involved in this complex web of processes also happen to be volunteers doing all of this out of the goodness of their hearts is amazing. Of course, this doesn’t just apply to Fedora, but also the countless other distributions out there, especially those not owned by some giant corporation like IBM. If you’re just a casual Fedora user, there’s really no reason you have to know or be aware of any of this, but it’s still fun and interesting to understand the inner workings of your distribution of choice.</p>
 </div>
       <footer>
@@ -921,7 +943,7 @@
 
     <article data-published="2026-07-27T19:23:31Z" data-link="https://www.osnews.com/story/145613/comanche-maximum-overkill-from-1992-does-weird-things-on-intel-processors/" data-pagefind-filter="category:Games, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-27T19:23:31Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Comanche: Maximum Overkill from 1992 does weird things on Intel processors</h2>
-      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>Let’s do another article about weird code in video games. The original 1992 Comanche release is extremely picky about memory managers. The game refuses to work with EMM emulators and crashes when EMM386 is active. The game may also hang or reboot the system when HIMEM.SYS is not loaded (the problem seems to be system configuration dependent). These issues are clearly noted in the Comanche documentations, but at the same time they’re also all signs of a substandard DOS extender. On top of that, the game authors accomplished a remarkable feat: By only loosely following Intel’s instructions on how to enter protected mode, NovaLogic managed to write a game which worked on the then-existing 386 and 486 processors, but under some circumstances failed to run on Pentium and later processors. ↫ Michal Necasek at OS/2 Museum As usual, a great read from Michal Nacesek.</p>
 </div>
       <footer>
@@ -1054,7 +1076,7 @@
 
     <article data-published="2026-07-27T11:34:24Z" data-link="https://www.osnews.com/story/145611/mozilla-gives-haiku-permission-to-use-the-firefox-name/" data-pagefind-filter="category:Haiku, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-27T11:34:24Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Mozilla gives Haiku permission to use the Firefox name</h2>
-      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>Haiku has a Firefox port, but due to Mozilla’s trademark policies, it’s actually called Iceweasel. After some back-and-forth with Mozilla, the browser maker has no given Haiku permission to officially use the Firefox name for the port. But don’t worry, Iceweasel isn’t going anywhere. I plan to maintain both. The idea is to keep Iceweasel as the privacy-friendly, telemetry-free build, while Firefox will be the fully official, Mozilla-compliant build (with telemetry enabled, once I manage to fix the Glean rust issues). ↫ 3dEyes on the Haiku forums This seems like a nice solution, and happens to make sure Haiku users can actually choose between standard Firefox and what is essentially a more private “fork”. A great outcome.</p>
 </div>
       <footer>
@@ -1065,7 +1087,7 @@
 
     <article data-published="2026-07-27T11:26:04Z" data-link="https://www.osnews.com/story/145609/java-deprecates-support-for-macos-x86/" data-pagefind-filter="category:Java, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-27T11:26:04Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Java deprecates support for macOS x86</h2>
-      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>Apple has transitioned its hardware products to the AArch64 processor architecture and is phasing out support for x64. Oracle engineers will thus stop maintaining the macOS/x64 port as of JDK 27. Maintaining the port is a significant burden. ↫ JEP 541: Deprecate the macOS/x64 Port for Removal The port won’t yet be removed, but will be in a future release. Considering the number of Intel Macs that must surely still be in use today, this does seem a little premature to me.</p>
 </div>
       <footer>
@@ -1076,7 +1098,7 @@
 
     <article data-published="2026-07-27T11:18:11Z" data-link="https://www.osnews.com/story/145607/10-rem_c2slff4/" data-pagefind-filter="category:General Development, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-07-27T11:18:11Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>10 REM”_(C2SLFF4</h2>
-      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-07-31">2026-07-31</time></p>
+      <p><time datetime="2026-07-27">2026-07-27</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
       <div class="article-body"><p>That is the first line of the 80s microcomputer BASIC game The Wizard’s Castle initially written for the Exidy Sorcerer platform. It’s a REMark statement, a comment in that particular language. 10 is the line number, if you’re unfamiliar with languages that had such things. But the interesting part was this &quot;_(C2SLFF4 mess. A typo or garbage? No. It appears verbatim in the source code as originally published in the July, 1980 issue of Recreational Computing. What the heck is it? ↫ Brian “Beej” Hall A fun investigation to brighten up your Monday.</p>
 </div>
       <footer>
@@ -1248,7 +1270,7 @@
 
     <article data-published="2026-07-24T16:00:24Z" data-link="https://publicai.substack.com/p/with-15x-the-love-from-switzerland" data-pagefind-filter="dc_creator:Joshua Tan, author:Joshua Tan, datePublished:2026-07-24T16:00:24Z, label:Public AI blog, channel:https://publicai.substack.com/feed">
       <h2>With 1.5x the love, from Switzerland</h2>
-      <p><time datetime="2026-07-24">2026-07-24</time>, updated: <time datetime="2026-08-01">2026-08-01</time></p>
+      <p><time datetime="2026-07-24">2026-07-24</time>, updated: <time datetime="2026-08-02">2026-08-02</time></p>
       <div class="article-body"><p>Apertus 1.5 makes Switzerland's open language models more useful in practice: multimodal input, reasoning, longer context, and better instruction following.</p>
 </div>
       <footer>
