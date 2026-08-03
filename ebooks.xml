@@ -4,10 +4,45 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>02 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>03 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Greatest Plague of Life: or, the Adventures of a Lady in Search of a Good Servant. by Mayhew</title>
+      <link>https://www.gutenberg.org/ebooks/60562</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Sun Virgin by Jr. Thomas Dixon</title>
+      <link>https://www.gutenberg.org/ebooks/79257</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Buffalo Bill&#39;s death message : by Prentiss Ingraham</title>
+      <link>https://www.gutenberg.org/ebooks/79255</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>De vuurvogel en de grijze wolf by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/79258</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Door de lucht naar Indië by A.N.J. Thomassen à Theussink van der Hoop</title>
+      <link>https://www.gutenberg.org/ebooks/79256</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
       <title>A scarlet poppy, and other stories by Harriet Elizabeth Prescott Spofford</title>
       <link>https://www.gutenberg.org/ebooks/79248</link>
       <description>
@@ -1653,62 +1688,6 @@
       <enclosure url="https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood/downloads/charles-dickens_the-mystery-of-edwin-drood.epub?source=feed" length="713622" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood</guid>
       <category>Mystery</category>
-    </item>    <item>
-      <title>The voter&#39;s text book : by James M. Hiatt</title>
-      <link>https://www.gutenberg.org/ebooks/79072</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Samphire by John Cowper Powys</title>
-      <link>https://www.gutenberg.org/ebooks/79071</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kim by Rudyard Kipling</title>
-      <link>https://www.gutenberg.org/ebooks/2226</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Narraciones maravillosas y biografías ejemplares de algunos grandes hombres humildes y desconocidos</title>
-      <link>https://www.gutenberg.org/ebooks/79074</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
-    </item>    <item>
-      <title>The Blue Fairy Book by Andrew Lang</title>
-      <link>https://www.gutenberg.org/ebooks/503</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Green Mummy by Fergus Hume</title>
-      <link>https://www.gutenberg.org/ebooks/2868</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The last September by Elizabeth Bowen</title>
-      <link>https://www.gutenberg.org/ebooks/79073</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>De l&#39;emploi du temps by Comtesse de Genlis</title>
-      <link>https://www.gutenberg.org/ebooks/79075</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>

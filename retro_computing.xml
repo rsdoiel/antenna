@@ -4,10 +4,38 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>03 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/08/02 - Of course I couldn&#39;t leave it there...</title>
+      <link>https://heyrick.eu/blog/entry/20260802</link>
+      <description>
+        <![CDATA[Of course I couldn't leave it there...]]>
+      </description>
+      <source:markdown>Of course I couldn&#39;t leave it there...</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260802</guid>
+    </item>    <item>
+      <title>Neuer RPCEmu-Fork</title>
+      <link>http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/</link>
+      <description>
+        <![CDATA[Dank einiger alter RISC OS-Mitstreiter bin ich auf einen neuen Fork von RPCEmu aufmerksam geworden: &#8222;RPCEmu Spork Edition&#8220; oder &#8222;rpcemu-extended&#8220; oder &#8222;RPCEmu Extened&#8220; [sic!] &#8211; wie auch immer. Jedenfalls lebt das Projekt auf GitHub, initiiert und gepflegt von Andrew Timmins. Und, wie es aussieht, unter tätiger Mithilfe von Claude. Vermutlich deshalb ist die Doku zu Code und Funktionalität nicht so sparsam wie bei üblichen 1-Entwickler-Projekten. Und &#8222;Extended&#8220; ist hier wirklich ernstgemeint. USB- und Seriell- und <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/" class="more-link"><span>Read More &#8594;</span></a></span>]]>
+      </description>
+      <source:markdown>Dank einiger alter RISC OS-Mitstreiter bin ich auf einen neuen Fork von RPCEmu aufmerksam geworden: „RPCEmu Spork Edition“ oder „rpcemu-extended“ oder „RPCEmu Extened“ \[sic!\] – wie auch immer. Jedenfalls lebt das Projekt auf GitHub, initiiert und gepflegt von Andrew Timmins. Und, wie es aussieht, unter tätiger Mithilfe von Claude. Vermutlich deshalb ist die Doku zu Code und Funktionalität nicht so sparsam wie bei üblichen 1-Entwickler-Projekten. Und „Extended“ ist hier wirklich ernstgemeint. USB- und Seriell- und …[Read More →](http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/)</source:markdown>
+      <guid>cid://http://riscosblog.huber-net.de/?p=579</guid>
+      <category>Emulation</category>
+      <category>Software</category>
+    </item>    <item>
+      <title>KB-9, MOS TECH BASIC for the 6502</title>
+      <link>http://retro.hansotten.nl/kb-9-mos-tech-basic-for-the-6502/</link>
+      <description>
+        <![CDATA[With a scan of manuals by Gerben Voort, and a third photo of a cassette with KB-9, time to refresh the KB-9 pages. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 [&#8230;]]]>
+      </description>
+      <source:markdown>With a scan of manuals by Gerben Voort, and a third photo of a cassette with KB-9, time to refresh the KB-9 pages. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=21973</guid>
+      <category>6502</category>
+      <category>kim-1</category>
+    </item>    <item>
       <title>MkLinux and the pimped-out Apple Workgroup Server 9150</title>
       <link>https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</link>
       <description>
@@ -302,7 +330,7 @@
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXabl2HU2xe3iVBDzs_uskbkhoiiw3EbqzntkUAoE4naBWyPQDOZ4OlYL8NLCuMkiIlHX1J68yXRFDtCLUXLEGUJ3hxPZ6u6TYt8ICJL1Ioo9oP-ygjeFSSexFnu48W1wfJfM01oXgV9n81rGtRyBtAcM-JrIH_vvexnLQ5aNyVwaLmvKNE-vXGQANG8/s3125/nuwgs.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="3125" data-original-width="2300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXabl2HU2xe3iVBDzs_uskbkhoiiw3EbqzntkUAoE4naBWyPQDOZ4OlYL8NLCuMkiIlHX1J68yXRFDtCLUXLEGUJ3hxPZ6u6TYt8ICJL1Ioo9oP-ygjeFSSexFnu48W1wfJfM01oXgV9n81rGtRyBtAcM-JrIH_vvexnLQ5aNyVwaLmvKNE-vXGQANG8/s320/nuwgs.jpg"/></a></div>
         
-        Meanwhile, delays continued to plague the 620 at IBM and Shiner temporarily stalled out from multiprocessor cache coherency problems in early 604s, forcing the server group to squeeze out as much as it could from the 601. Almost exactly one year after the original 9150 came out, the new version I'd previously hinted at emerged in April 1995 and bumped the specs to a 120MHz active-cooled 601+ with 1MB of L2 cache. (This particular machine, codenamed "Zephyr," had an <a href="https://old.reddit.com/r/VintageApple/comments/8pcwux/oddball_week_apple_workgroup_server_9150/">arresting crimson prototype board</a> complete with populated debug header, additional test points and a silkscreened train logo.) All three PowerPC Workgroup Servers now came with 16MB of base RAM plus System 7.5 and AppleShare 4.1, the 6150 and 8150 got smaller speed bumps of their own to 66MHz and 110MHz, and Apple's software RAID remained supported.
+        Meanwhile, delays continued to plague the 620 at IBM and Shiner temporarily stalled out from multiprocessor cache coherency problems in early 604s, forcing the server group to squeeze out as much as it could from the 601. Almost exactly one year after the original 9150 came out, the new version I'd previously hinted at emerged in April 1995 and bumped the specs to a 120MHz active-cooled 601+ with 1MB of L2 cache. (This particular machine, codenamed "Zephyr," had an <a href="https://old.reddit.com/r/VintageApple/comments/8pcwux/oddball_week_apple_workgroup_server_9150/">arresting crimson prototype board</a> complete with populated debug header, additional test points and a silkscreened train logo. <i>[A number of people have pointed out the train in question is in fact the <a href="https://en.wikipedia.org/wiki/California_Zephyr_%281949%E2%80%931970%29">California Zephyr</a>, hence the name.]</i>) All three PowerPC Workgroup Servers now came with 16MB of base RAM plus System 7.5 and AppleShare 4.1, the 6150 and 8150 got smaller speed bumps of their own to 66MHz and 110MHz, and Apple's software RAID remained supported.
         
         <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLB98EoE9E-r9CknKwlCB3cOpC7-dmZagHftKMWTGJfiRKbGDUQriUxdqXOLnyrI-q6vIWFsUbRPBzUQNXbQO6ZglOE-Fg-jcO4ZKboDIVzUi3vAO9fA7HPz9ID6rNigMhIq-F_6N9StGnkueuyQYznplcDq8xhclUpXbikHaYcCNQhSGaZRsQAdxNhfQ/s3165/inetsrv.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="3165" data-original-width="2300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLB98EoE9E-r9CknKwlCB3cOpC7-dmZagHftKMWTGJfiRKbGDUQriUxdqXOLnyrI-q6vIWFsUbRPBzUQNXbQO6ZglOE-Fg-jcO4ZKboDIVzUi3vAO9fA7HPz9ID6rNigMhIq-F_6N9StGnkueuyQYznplcDq8xhclUpXbikHaYcCNQhSGaZRsQAdxNhfQ/s320/inetsrv.jpg"/></a></div>
         
@@ -1267,7 +1295,7 @@ Apple&#39;s erratic push towards a true enterprise server continued taking odder
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXabl2HU2xe3iVBDzs_uskbkhoiiw3EbqzntkUAoE4naBWyPQDOZ4OlYL8NLCuMkiIlHX1J68yXRFDtCLUXLEGUJ3hxPZ6u6TYt8ICJL1Ioo9oP-ygjeFSSexFnu48W1wfJfM01oXgV9n81rGtRyBtAcM-JrIH_vvexnLQ5aNyVwaLmvKNE-vXGQANG8/s320/nuwgs.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXabl2HU2xe3iVBDzs_uskbkhoiiw3EbqzntkUAoE4naBWyPQDOZ4OlYL8NLCuMkiIlHX1J68yXRFDtCLUXLEGUJ3hxPZ6u6TYt8ICJL1Ioo9oP-ygjeFSSexFnu48W1wfJfM01oXgV9n81rGtRyBtAcM-JrIH_vvexnLQ5aNyVwaLmvKNE-vXGQANG8/s3125/nuwgs.jpg)
 
-Meanwhile, delays continued to plague the 620 at IBM and Shiner temporarily stalled out from multiprocessor cache coherency problems in early 604s, forcing the server group to squeeze out as much as it could from the 601. Almost exactly one year after the original 9150 came out, the new version I&#39;d previously hinted at emerged in April 1995 and bumped the specs to a 120MHz active-cooled 601+ with 1MB of L2 cache. (This particular machine, codenamed &#34;Zephyr,&#34; had an [arresting crimson prototype board](https://old.reddit.com/r/VintageApple/comments/8pcwux/oddball_week_apple_workgroup_server_9150/) complete with populated debug header, additional test points and a silkscreened train logo.) All three PowerPC Workgroup Servers now came with 16MB of base RAM plus System 7.5 and AppleShare 4.1, the 6150 and 8150 got smaller speed bumps of their own to 66MHz and 110MHz, and Apple&#39;s software RAID remained supported.
+Meanwhile, delays continued to plague the 620 at IBM and Shiner temporarily stalled out from multiprocessor cache coherency problems in early 604s, forcing the server group to squeeze out as much as it could from the 601. Almost exactly one year after the original 9150 came out, the new version I&#39;d previously hinted at emerged in April 1995 and bumped the specs to a 120MHz active-cooled 601+ with 1MB of L2 cache. (This particular machine, codenamed &#34;Zephyr,&#34; had an [arresting crimson prototype board](https://old.reddit.com/r/VintageApple/comments/8pcwux/oddball_week_apple_workgroup_server_9150/) complete with populated debug header, additional test points and a silkscreened train logo. _\[A number of people have pointed out the train in question is in fact the [California Zephyr](https://en.wikipedia.org/wiki/California_Zephyr_%281949%E2%80%931970%29), hence the name.\]_) All three PowerPC Workgroup Servers now came with 16MB of base RAM plus System 7.5 and AppleShare 4.1, the 6150 and 8150 got smaller speed bumps of their own to 66MHz and 110MHz, and Apple&#39;s software RAID remained supported.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLB98EoE9E-r9CknKwlCB3cOpC7-dmZagHftKMWTGJfiRKbGDUQriUxdqXOLnyrI-q6vIWFsUbRPBzUQNXbQO6ZglOE-Fg-jcO4ZKboDIVzUi3vAO9fA7HPz9ID6rNigMhIq-F_6N9StGnkueuyQYznplcDq8xhclUpXbikHaYcCNQhSGaZRsQAdxNhfQ/s320/inetsrv.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLB98EoE9E-r9CknKwlCB3cOpC7-dmZagHftKMWTGJfiRKbGDUQriUxdqXOLnyrI-q6vIWFsUbRPBzUQNXbQO6ZglOE-Fg-jcO4ZKboDIVzUi3vAO9fA7HPz9ID6rNigMhIq-F_6N9StGnkueuyQYznplcDq8xhclUpXbikHaYcCNQhSGaZRsQAdxNhfQ/s3165/inetsrv.jpg)
 
@@ -2340,22 +2368,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       <source:markdown>A 16-year-old vulnerability allows an attacker to escape a virtual machine, gain access to the host, and execute malicious code.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://fc2bc727f185bc8a0310cf00b513011e</guid>
-    </item>    <item>
-      <title>b.log 2026/07/12 - The demise of WZBA, This is insufferable, File transfer from my EPROM programmer.</title>
-      <link>https://heyrick.eu/blog/entry/20260712</link>
-      <description>
-        <![CDATA[The demise of WZBA, This is insufferable, File transfer from my EPROM programmer.]]>
-      </description>
-      <source:markdown>The demise of WZBA, This is insufferable, File transfer from my EPROM programmer.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260712</guid>
-    </item>    <item>
-      <title>RISC OS Open source developments weekly update</title>
-      <link>http://www.iconbar.com/comments/rss/news2349.html</link>
-      <description>
-        <![CDATA[I'm going to try a new series here, where I report on the updates that have happened in Open Source over the last week, each Saturday. There are often a few things going on, and hopefully I'll be able to spot them, and report what's happening.]]>
-      </description>
-      <source:markdown>I&#39;m going to try a new series here, where I report on the updates that have happened in Open Source over the last week, each Saturday. There are often a few things going on, and hopefully I&#39;ll be able to spot them, and report what&#39;s happening.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2349.html</guid>
     </item>
   </channel>
 </rss>
