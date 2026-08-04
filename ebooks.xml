@@ -4,16 +4,65 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>03 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>04 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
+      <link>https://www.gutenberg.org/ebooks/561</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The Greatest Plague of Life: or, the Adventures of a Lady in Search of a Good Servant. by Mayhew</title>
       <link>https://www.gutenberg.org/ebooks/60562</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Borough Treasurer by J. S.  Fletcher</title>
+      <link>https://www.gutenberg.org/ebooks/20630</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Under the Yankee Ensign by Ralph Henry Barbour</title>
+      <link>https://www.gutenberg.org/ebooks/79261</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The story of Ivy by Marie Belloc Lowndes</title>
+      <link>https://www.gutenberg.org/ebooks/79259</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>My man Jeeves by P. G.  Wodehouse</title>
+      <link>https://www.gutenberg.org/ebooks/8164</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Parábolas : by José Enrique Rodó</title>
+      <link>https://www.gutenberg.org/ebooks/79262</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Le due colpe by Giuseppe de Rossi</title>
+      <link>https://www.gutenberg.org/ebooks/79260</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
     </item>    <item>
       <title>The Sun Virgin by Jr. Thomas Dixon</title>
       <link>https://www.gutenberg.org/ebooks/79257</link>
@@ -345,13 +394,6 @@
     </item>    <item>
       <title>Stray leaves : by Alex. MacDonald</title>
       <link>https://www.gutenberg.org/ebooks/79240</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
-      <link>https://www.gutenberg.org/ebooks/561</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1608,86 +1650,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>How to keep bees : by Anna Botsford Comstock</title>
-      <link>https://www.gutenberg.org/ebooks/79076</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tyttö ruusutarhassa by Maria Jotuni</title>
-      <link>https://www.gutenberg.org/ebooks/79081</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Original Short Stories — Volume 08 by Guy de Maupassant</title>
-      <link>https://www.gutenberg.org/ebooks/3084</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>La politique comparée de Montesquieu, Rousseau et Voltaire by Émile Faguet</title>
-      <link>https://www.gutenberg.org/ebooks/79078</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Vera by Elizabeth Von Arnim</title>
-      <link>https://www.gutenberg.org/ebooks/34366</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ihanne-aviomies : by Oscar Wilde</title>
-      <link>https://www.gutenberg.org/ebooks/79077</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The Law and the Woman by Sir Edward Abbott Parry</title>
-      <link>https://www.gutenberg.org/ebooks/79084</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Arrels mortes by Joan Puig i Ferreter</title>
-      <link>https://www.gutenberg.org/ebooks/79083</link>
-      <description>
-        <![CDATA[Language: Catalan]]>
-      </description>
-      <source:markdown>Language: Catalan</source:markdown>
-    </item>    <item>
-      <title>Tiilikivimies : by Tatu Pekkarinen</title>
-      <link>https://www.gutenberg.org/ebooks/79082</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Life in Hawaii by Titus Coan</title>
-      <link>https://www.gutenberg.org/ebooks/79079</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Mystery of Edwin Drood, by Charles Dickens</title>
-      <link>https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood</link>
-      <description>
-        <![CDATA[A young man mysteriously vanishes, and all the suspects are secretly in love with his fiancé.]]>
-      </description>
-      <source:markdown>A young man mysteriously vanishes, and all the suspects are secretly in love with his fiancé.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood/downloads/charles-dickens_the-mystery-of-edwin-drood.epub?source=feed" length="713622" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood</guid>
-      <category>Mystery</category>
     </item>
   </channel>
 </rss>

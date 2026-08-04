@@ -5,17 +5,115 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>03 Aug 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>04 Aug 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Local food-rescue nonprofit wins international prize for climate solutions</title>
-      <link>https://laist.com/news/climate-environment/farmlink-project-wins-international-keeling-curve-prize-for-climate-solutions</link>
+      <title>The Boyle Heights warehouse fire ruined their summer. Now students want a ‘normal’ school year</title>
+      <link>https://laist.com/news/education/boyle-heights-students-lineage-warehouse-fire-back-to-school-recovery</link>
       <description>
-        <![CDATA[A Santa Monica local founded the Farmlink Project, which was recently one of 10 recipients of a $50,000 Keeling Curve prize.]]>
+        <![CDATA[Boyle Heights families have faced smoke, stench and pests. Los Angeles Unified says after deep cleaning, their campuses are safe.]]>
       </description>
-      <source:markdown>A Santa Monica local founded the Farmlink Project, which was recently one of 10 recipients of a $50,000 Keeling Curve prize.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-ba84-dab7-af9f-bef5c7110000</guid>
+      <source:markdown>Boyle Heights families have faced smoke, stench and pests. Los Angeles Unified says after deep cleaning, their campuses are safe.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-c9e8-dab7-af9f-fff9cc660000</guid>
+    </item>    <item>
+      <title>The LA Olympics is expected to displace unhoused people living around venues. So what&#39;s the plan?</title>
+      <link>https://laist.com/news/housing-homelessness/la-olympics-unhoused-people-venues-plan</link>
+      <description>
+        <![CDATA[L.A. officials say people living on the streets will likely have to leave certain areas come 2028. They don't know how they'll be moved or who will pay for it.]]>
+      </description>
+      <source:markdown>L.A. officials say people living on the streets will likely have to leave certain areas come 2028. They don&#39;t know how they&#39;ll be moved or who will pay for it.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-c9e6-ded2-a7ff-eff75d4b0000</guid>
+    </item>    <item>
+      <title>Community college students need housing, Cal State LA will house some for the first time</title>
+      <link>https://laist.com/news/education/la-community-college-housing</link>
+      <description>
+        <![CDATA[For the first time, starting this fall, 56 East L.A. College students will use student housing at Cal State L.A. in an effort to address housing insecurity.]]>
+      </description>
+      <source:markdown>For the first time, starting this fall, 56 East L.A. College students will use student housing at Cal State L.A. in an effort to address housing insecurity.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-c916-d68f-a99f-eb3f055e0000</guid>
+    </item>    <item>
+      <title>LA regional homeless count shows a spike in homelessness. How will that affect LA&#39;s race for mayor?</title>
+      <link>https://laist.com/news/politics/la-regional-homeless-count-shows-a-spike-in-homelessness-how-will-that-affect-las-race-for-mayor</link>
+      <description>
+        <![CDATA[The latest numbers were a blow to an incumbent mayor who put homelessness at the top of her agenda.]]>
+      </description>
+      <source:markdown>The latest numbers were a blow to an incumbent mayor who put homelessness at the top of her agenda.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-ca1d-d68f-a99f-ea3f59090000</guid>
+    </item>    <item>
+      <title>Here’s Every Single Death Linked to Immigration Enforcement Since Trump’s Raids Began in 2025</title>
+      <link>https://lataco.com/ice-death-tracker</link>
+      <description>
+        <![CDATA[<p>We hope this register offers a moment to remember the names and stories of the victims. For each one, we’ve included the backstory we were able to gather alongside the official account from government agencies.</p>
+        <p>The post <a href="https://lataco.com/ice-death-tracker">Here&#8217;s Every Single Death Linked to Immigration Enforcement Since Trump&#8217;s Raids Began in 2025</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>We hope this register offers a moment to remember the names and stories of the victims. For each one, we’ve included the backstory we were able to gather alongside the official account from government agencies.
+
+The post [Here’s Every Single Death Linked to Immigration Enforcement Since Trump’s Raids Began in 2025](https://lataco.com/ice-death-tracker) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=178713</guid>
+      <category>Featured</category>
+      <category>ICE</category>
+    </item>    <item>
+      <title>LAUSD could face layoffs, furloughs and school consolidation amid projected $231M shortfall</title>
+      <link>https://laist.com/news/education/lausd-could-face-layoffs-furloughs-and-school-consolidation</link>
+      <description>
+        <![CDATA[Tough decisions come after the Los Angeles County Office issues a “Lack of Going Concern” letter to LAUSD.]]>
+      </description>
+      <source:markdown>Tough decisions come after the Los Angeles County Office issues a “Lack of Going Concern” letter to LAUSD.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-c884-d0ce-a99f-cd8da3cd0000</guid>
+    </item>    <item>
+      <title>No Charges For L.A. TACO Reporter</title>
+      <link>https://lataco.com/no-charges-lexis-olivier-ray</link>
+      <description>
+        <![CDATA[<p>I share this to be transparent with you all about the risks that reporters take to bring you these stories.</p>
+        <p>The post <a href="https://lataco.com/no-charges-lexis-olivier-ray">No Charges For L.A. TACO Reporter</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>I share this to be transparent with you all about the risks that reporters take to bring you these stories.
+
+The post [No Charges For L.A. TACO Reporter](https://lataco.com/no-charges-lexis-olivier-ray) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=182068</guid>
+      <category>News</category>
+      <category>Taco Members Only</category>
+      <category>LAPD</category>
+      <category>protest</category>
+    </item>    <item>
+      <title>Keep an eye on these 5 deals as California lawmakers close out the legislative session</title>
+      <link>https://laist.com/news/politics/keep-an-eye-on-these-5-deals-as-california-lawmakers-close-out-the-legislative-session</link>
+      <description>
+        <![CDATA[California lawmakers have fewer than 30 days to hash out deals on climate spending, wildfires, school sex abuse settlements and California Forever.]]>
+      </description>
+      <source:markdown>California lawmakers have fewer than 30 days to hash out deals on climate spending, wildfires, school sex abuse settlements and California Forever.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-c861-dab7-af9f-fe7168770000</guid>
+    </item>    <item>
+      <title>‘Don’t Flock me’: California, US lawmakers debate license plate reader technology</title>
+      <link>https://laist.com/news/politics/california-us-lawmakers-debate-license-plate-reader-technology</link>
+      <description>
+        <![CDATA[They’re all over our roads and really good at helping police solve crimes, but do California’s automated license plate readers need limits?]]>
+      </description>
+      <source:markdown>They’re all over our roads and really good at helping police solve crimes, but do California’s automated license plate readers need limits?</source:markdown>
+      <guid>cid://urn:uuid:0000019f-c84b-d68f-a99f-ea7f53b80000</guid>
+    </item>    <item>
+      <title>Blanche wins backing from 2 key GOP holdouts after rescinding anti-weaponization fund</title>
+      <link>https://laist.com/news/politics/blanche-wins-backing-from-2-key-gop-holdouts-after-rescinding-anti-weaponization-fund</link>
+      <description>
+        <![CDATA[Todd Blanche's nomination to serve as attorney general has been held up in a Senate committee over the $1.8 billion fund.]]>
+      </description>
+      <source:markdown>Todd Blanche&#39;s nomination to serve as attorney general has been held up in a Senate committee over the $1.8 billion fund.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-c859-d68f-a99f-ea7f61420000</guid>
+    </item>    <item>
+      <title>20 Inland Empire-Based Nonprofits Doing The Good Work That Can Use Your Support</title>
+      <link>https://lataco.com/20-inland-empire-nonprofits</link>
+      <description>
+        <![CDATA[<p>The Inland Empire is home to nearly 5 million people. This guide provides a small handful of the hundreds of nonprofits in the region working to assist and support the most vulnerable among the population.</p>
+        <p>The post <a href="https://lataco.com/20-inland-empire-nonprofits">20 Inland Empire-Based Nonprofits Doing The Good Work That Can Use Your Support</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>The Inland Empire is home to nearly 5 million people. This guide provides a small handful of the hundreds of nonprofits in the region working to assist and support the most vulnerable among the population.
+
+The post [20 Inland Empire-Based Nonprofits Doing The Good Work That Can Use Your Support](https://lataco.com/20-inland-empire-nonprofits) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=181994</guid>
+      <category>Featured</category>
+      <category>Inland Empire</category>
+      <category>nonprofits</category>
     </item>    <item>
       <title>Dozens of women and children in LA who survived domestic violence at risk of losing shelter services</title>
       <link>https://laist.com/news/housing-homelessness/domestic-violence-women-children-la-at-risk-of-losing-shelter-services</link>
@@ -24,6 +122,14 @@
       </description>
       <source:markdown>The number of people experiencing homelessness from fleeing similar violence jumped by more than 43% since last year, according to data released in recent weeks.</source:markdown>
       <guid>cid://urn:uuid:0000019f-aa0a-dab7-af9f-be7b21120000</guid>
+    </item>    <item>
+      <title>Local food-rescue nonprofit wins international prize for climate solutions</title>
+      <link>https://laist.com/news/climate-environment/farmlink-project-wins-international-keeling-curve-prize-for-climate-solutions</link>
+      <description>
+        <![CDATA[A Santa Monica local founded the Farmlink Project, which was recently one of 10 recipients of a $50,000 Keeling Curve prize.]]>
+      </description>
+      <source:markdown>A Santa Monica local founded the Farmlink Project, which was recently one of 10 recipients of a $50,000 Keeling Curve prize.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-ba84-dab7-af9f-bef5c7110000</guid>
     </item>    <item>
       <title>More than 25,000 unaccompanied minors lose legal protections, as federal contract ends</title>
       <link>https://laist.com/news/more-than-25-000-unaccompanied-minors-lose-legal-protections-as-federal-contract-ends</link>
@@ -69,14 +175,6 @@ The post [Prevention Begins with Partnership](https://santaclarita.gov/blog/2026
       <source:markdown>Long Beach officials proposed deep cuts as they grapple with dwindling reserves, rising personnel costs and a slew of fiscal issues.</source:markdown>
       <guid>cid://urn:uuid:0000019f-bdc0-d0ce-a99f-bdcd641f0000</guid>
     </item>    <item>
-      <title>Where to see the groundbreaking work of late artist Betye Saar in LA now</title>
-      <link>https://laist.com/news/los-angeles-activities/where-to-see-the-groundbreaking-work-of-late-artist-betye-saar-in-la-now</link>
-      <description>
-        <![CDATA[The artist, who shook up the art world and inspired generations of artists, died Sunday at 99.]]>
-      </description>
-      <source:markdown>The artist, who shook up the art world and inspired generations of artists, died Sunday at 99.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-af95-d36c-a3bf-afd75aca0000</guid>
-    </item>    <item>
       <title>Where to find SoCal&#39;s best ice cream right now</title>
       <link>https://laist.com/news/food/where-to-find-best-ice-cream-socal-la</link>
       <description>
@@ -84,6 +182,14 @@ The post [Prevention Begins with Partnership](https://santaclarita.gov/blog/2026
       </description>
       <source:markdown>From Persian saffron pistachio to vegan Indonesian-inspired flavors, here&#39;s where LAist listeners are getting their sweet cool treats.</source:markdown>
       <guid>cid://urn:uuid:0000019f-af86-d36c-a3bf-afc6bae90000</guid>
+    </item>    <item>
+      <title>Where to see the groundbreaking work of late artist Betye Saar in LA now</title>
+      <link>https://laist.com/news/los-angeles-activities/where-to-see-the-groundbreaking-work-of-late-artist-betye-saar-in-la-now</link>
+      <description>
+        <![CDATA[The artist, who shook up the art world and inspired generations of artists, died Sunday at 99.]]>
+      </description>
+      <source:markdown>The artist, who shook up the art world and inspired generations of artists, died Sunday at 99.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-af95-d36c-a3bf-afd75aca0000</guid>
     </item>    <item>
       <title>Housing advocates sued over local duplex bans after the LA fires. Now, two cities are backing down</title>
       <link>https://laist.com/news/housing-homelessness/california-sb-9-malibu-pasadena-lawsuit-settlement-yimby</link>
@@ -2778,144 +2884,6 @@ The post [The Seven Best Tacos in Lynwood, Ranked](https://lataco.com/lynwood-be
       </description>
       <source:markdown>Protesters rallied against Hyundai-Kia, the Home Depot and Aramco during the tournament. They called for more support for the workers who make big events possible.</source:markdown>
       <guid>cid://urn:uuid:0000019f-5e12-de73-a19f-de3b35620000</guid>
-    </item>    <item>
-      <title>Air quality officials cite Lineage for ‘rotten’ odors near Boyle Heights warehouse</title>
-      <link>https://laist.com/news/climate-environment/air-quality-lineage-rotten-odors-boyle-heights-warehouse</link>
-      <description>
-        <![CDATA[Air quality officials have cited Lineage LLC for “rotten, sour, garbage-type odors” coming from its Boyle Heights warehouse after getting more than 40 complaints.]]>
-      </description>
-      <source:markdown>Air quality officials have cited Lineage LLC for “rotten, sour, garbage-type odors” coming from its Boyle Heights warehouse after getting more than 40 complaints.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5daf-de9e-ad9f-ddbf4a100000</guid>
-    </item>    <item>
-      <title>More than half of California drivers can now use a mobile ID. Here&#39;s how to get one</title>
-      <link>https://laist.com/news/transportation/california-mobile-drivers-license-id-expansion-newsom-2026</link>
-      <description>
-        <![CDATA[These IDs are primarily accepted at airports currently, but the program is expected to expand in the future.]]>
-      </description>
-      <source:markdown>These IDs are primarily accepted at airports currently, but the program is expected to expand in the future.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5c6c-de73-a19f-dc6fc5930000</guid>
-    </item>    <item>
-      <title>Norway’s Subtly Sour Waffles Have Landed in L.A., Topped With Brown Cheese and Jam</title>
-      <link>https://lataco.com/norwegian-waffle-pop-up</link>
-      <description>
-        <![CDATA[<p> “You are just happy to be somewhere new, experiencing everything L.A. has,” Vaffel&amp;Venn co-owner Elin Mork says. “Then the longer you stay, the more you start to yearn for the food, for the people, for the feeling of home.”</p>
-        <p>The post <a href="https://lataco.com/norwegian-waffle-pop-up">Norway&#8217;s Subtly Sour Waffles Have Landed in L.A., Topped With Brown Cheese and Jam</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>“You are just happy to be somewhere new, experiencing everything L.A. has,” Vaffel&#38;Venn co-owner Elin Mork says. “Then the longer you stay, the more you start to yearn for the food, for the people, for the feeling of home.”
-
-The post [Norway’s Subtly Sour Waffles Have Landed in L.A., Topped With Brown Cheese and Jam](https://lataco.com/norwegian-waffle-pop-up) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=181194</guid>
-      <category>Food</category>
-      <category>Taco Members Only</category>
-    </item>    <item>
-      <title>SoCal could feel more like Florida this week — yuck. Stay safe out there</title>
-      <link>https://laist.com/news/climate-environment/socal-extreme-heat-humidity</link>
-      <description>
-        <![CDATA[Most of the region is expected to swelter, with temperatures in the 90s and 100s, along with tropical humidity.]]>
-      </description>
-      <source:markdown>Most of the region is expected to swelter, with temperatures in the 90s and 100s, along with tropical humidity.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5d68-de44-adff-ffec16010000</guid>
-    </item>    <item>
-      <title>CalPERS just had one of its best years in a decade. Why it matters to taxpayers</title>
-      <link>https://laist.com/news/politics/calpers-just-had-one-of-its-best-years-in-a-decade-why-it-matters-to-taxpayers</link>
-      <description>
-        <![CDATA[CalPERS’ investment returns determine whether government agencies — and taxpayers — have to kick in extra money to cover losses at the pension fund.]]>
-      </description>
-      <source:markdown>CalPERS’ investment returns determine whether government agencies — and taxpayers — have to kick in extra money to cover losses at the pension fund.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5c97-de44-adff-febfd1d20000</guid>
-    </item>    <item>
-      <title>30th Security Forces Squadron Assumption of Command</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4542445/30th-security-forces-squadron-assumption-of-command/</link>
-      <description>
-        <![CDATA[The 30th Security Forces Squadron hosts an assumption of command ceremony at Vandenberg Space Force Base, California, July 13, 2026.<br/> 
-        <img src='https://media.defense.gov/2026/Jul/13/2003960765/300/300/0/260713-X-DW038-1016.JPG' alt='Three people stand, two of them hold a flag' /> <br />]]>
-      </description>
-      <source:markdown>The 30th Security Forces Squadron hosts an assumption of command ceremony at Vandenberg Space Force Base, California, July 13, 2026.
-
-![Three people stand, two of them hold a flag](https://media.defense.gov/2026/Jul/13/2003960765/300/300/0/260713-X-DW038-1016.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Jul/13/2003960767/700/700/0/260713-X-DW038-1009.JPG" length="" type="image/jpeg" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4542445/30th-security-forces-squadron-assumption-of-command/</guid>
-      <category>News</category>
-    </item>    <item>
-      <title>That Air Jordan tent in Inglewood is going to become a permanent school event space, official says</title>
-      <link>https://laist.com/news/education/that-air-jordan-tent-in-inglewood-is-going-to-become-a-permanent-school-event-space-official-says</link>
-      <description>
-        <![CDATA[Jordan Brand built the temporary structure on school-owned land at the former Inglewood Adult School site in February.]]>
-      </description>
-      <source:markdown>Jordan Brand built the temporary structure on school-owned land at the former Inglewood Adult School site in February.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5c89-d888-a59f-5f9b5f6d0000</guid>
-    </item>    <item>
-      <title>The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz</title>
-      <link>https://laist.com/news/trump-says-the-u-s-will-reinstate-its-blockade-on-iran-and-charge-a-toll-on-ships</link>
-      <description>
-        <![CDATA[The move comes after the U.S. and Iran exchanged fire for the third weekend in a row.]]>
-      </description>
-      <source:markdown>The move comes after the U.S. and Iran exchanged fire for the third weekend in a row.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5c78-de73-a19f-dc7b814b0000</guid>
-    </item>    <item>
-      <title>The rare, stinky corpse flowers draw flies and long lines of humans to The Huntington</title>
-      <link>https://laist.com/news/climate-environment/corpse-flower-blooming-at-the-huntington</link>
-      <description>
-        <![CDATA[The Huntington's botanical gardens is displaying not one, but two corpse flowers, known for the gag-inducing blooms.]]>
-      </description>
-      <source:markdown>The Huntington&#39;s botanical gardens is displaying not one, but two corpse flowers, known for the gag-inducing blooms.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-4dbc-de44-adff-ffbc65350000</guid>
-    </item>    <item>
-      <title>Sam Neill, known for &#39;Jurassic Park&#39; and &#39;The Piano,&#39; dies at 78, his family says</title>
-      <link>https://laist.com/news/arts-and-entertainment/sam-neill-known-for-jurassic-park-and-the-piano-dies-at-78-his-family-says</link>
-      <description>
-        <![CDATA[In 2023, Neill disclosed he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare type of non-Hodgkin lymphoma.]]>
-      </description>
-      <source:markdown>In 2023, Neill disclosed he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare type of non-Hodgkin lymphoma.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5c1c-de44-adff-febc03060000</guid>
-    </item>    <item>
-      <title>A new type of restaurant lease: three months to make or break it in LA</title>
-      <link>https://laist.com/news/food/new-type-of-restaurant-lease-la</link>
-      <description>
-        <![CDATA[It’s getting harder to run a restaurant in L.A. Da Prato is flipping the script on traditional lease structures]]>
-      </description>
-      <source:markdown>It’s getting harder to run a restaurant in L.A. Da Prato is flipping the script on traditional lease structures</source:markdown>
-      <guid>cid://urn:uuid:0000019f-3499-d336-abbf-76fb20a60000</guid>
-    </item>    <item>
-      <title>LA therapists are seeing more young patients with gambling problems. They blame Kalshi</title>
-      <link>https://laist.com/news/health/la-therapists-are-seeing-more-young-patients-with-gambling-problems-they-blame-kalshi</link>
-      <description>
-        <![CDATA[Prediction markets are taking off across the country and are sucking in SoCal youth.]]>
-      </description>
-      <source:markdown>Prediction markets are taking off across the country and are sucking in SoCal youth.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-48ba-dfd2-abbf-ddbbe8e20000</guid>
-    </item>    <item>
-      <title>Cal State program to go beyond the basic, providing holistic support for students</title>
-      <link>https://laist.com/news/education/calstate-university-basic-needs</link>
-      <description>
-        <![CDATA[Cal State's Basic Needs Initiative has been successful in addressing food insecurity and providing housing support but student needs persist.]]>
-      </description>
-      <source:markdown>Cal State&#39;s Basic Needs Initiative has been successful in addressing food insecurity and providing housing support but student needs persist.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-4d95-d93e-a9ff-4ddd589d0000</guid>
-    </item>    <item>
-      <title>Want to make a documentary film? This local community college is making it more accessible</title>
-      <link>https://laist.com/news/education/documentary-filmmaking-glendale-community-college-summer-program</link>
-      <description>
-        <![CDATA[Glendale Community College’s film, TV, and media arts department now offers coursework in documentary filmmaking and the chance to study abroad.]]>
-      </description>
-      <source:markdown>Glendale Community College’s film, TV, and media arts department now offers coursework in documentary filmmaking and the chance to study abroad.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-4800-de44-adff-feacd4790000</guid>
-    </item>    <item>
-      <title>Best things to do this week in LA and SoCal: July 13-16</title>
-      <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-los-angeles-july-13-16</link>
-      <description>
-        <![CDATA[Bastille Day parties, a new moon soundbath, the Odyssey in 70mm and more of the best things to do this week.]]>
-      </description>
-      <source:markdown>Bastille Day parties, a new moon soundbath, the Odyssey in 70mm and more of the best things to do this week.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-5733-de73-a19f-d73beffb0000</guid>
-    </item>    <item>
-      <title>LA council delays plan to study pulling funds from troubled homelessness agency</title>
-      <link>https://laist.com/news/housing-homelessness/la-council-delays-plan-to-study-pulling-funds-from-troubled-homelessness-agency</link>
-      <description>
-        <![CDATA[Back in 2023, a council member said the council had “failed” to examine alternatives after repeated problems. Three years later, plans to study it have been delayed.]]>
-      </description>
-      <source:markdown>Back in 2023, a council member said the council had “failed” to examine alternatives after repeated problems. Three years later, plans to study it have been delayed.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-4e86-d93e-a9ff-4fde53c20000</guid>
     </item>
   </channel>
 </rss>

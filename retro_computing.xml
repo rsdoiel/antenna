@@ -4,10 +4,31 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>03 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>04 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>August WROCC meeting delayed until 12th</title>
+      <link>https://www.riscository.com/2026/august-wrocc-meeting-delayed-until-12th/</link>
+      <description>
+        <![CDATA[As mentioned in the recently posted roundup of August meetings, the Wakefield RISC OS Computer Club (WROCC) normally holds their meetings on the first Wednesday of each month, making the normal scheduled date this coming Wednesday. However, the meeting has unfortunately had to be delayed by a week, and will now take place on Wednesday, 12th August. That meeting will see Martin Eastwood talking about a few items: Two emulators, one acting as a virtual Cortex-A15 system, and one a Kinetic-equipped RiscPC, along with a viewer for sprite and draw&#8230;]]>
+      </description>
+      <source:markdown>As mentioned in the recently posted roundup of August meetings, the Wakefield RISC OS Computer Club (WROCC) normally holds their meetings on the first Wednesday of each month, making the normal scheduled date this coming Wednesday. However, the meeting has unfortunately had to be delayed by a week, and will now take place on Wednesday, 12th August. That meeting will see Martin Eastwood talking about a few items: Two emulators, one acting as a virtual Cortex-A15 system, and one a Kinetic-equipped RiscPC, along with a viewer for sprite and draw…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10992</guid>
+      <category>User groups</category>
+      <category>Meeting</category>
+      <category>User Group</category>
+      <category>Wakefield</category>
+      <category>WROCC</category>
+    </item>    <item>
+      <title>WROCC August 2026 talk on Wednesday</title>
+      <link>http://www.iconbar.com/comments/rss/news2350.html</link>
+      <description>
+        <![CDATA[The August 2026 WROCC talk is on Wednesday 5th August and starts at 7.45pm on Zoom. This month's speaker is Martin Eastwood]]>
+      </description>
+      <source:markdown>The August 2026 WROCC talk is on Wednesday 5th August and starts at 7.45pm on Zoom. This month&#39;s speaker is Martin Eastwood</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2350.html</guid>
+    </item>    <item>
       <title>b.log 2026/08/02 - Of course I couldn&#39;t leave it there...</title>
       <link>https://heyrick.eu/blog/entry/20260802</link>
       <description>
@@ -19,9 +40,9 @@
       <title>Neuer RPCEmu-Fork</title>
       <link>http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/</link>
       <description>
-        <![CDATA[Dank einiger alter RISC OS-Mitstreiter bin ich auf einen neuen Fork von RPCEmu aufmerksam geworden: &#8222;RPCEmu Spork Edition&#8220; oder &#8222;rpcemu-extended&#8220; oder &#8222;RPCEmu Extened&#8220; [sic!] &#8211; wie auch immer. Jedenfalls lebt das Projekt auf GitHub, initiiert und gepflegt von Andrew Timmins. Und, wie es aussieht, unter tätiger Mithilfe von Claude. Vermutlich deshalb ist die Doku zu Code und Funktionalität nicht so sparsam wie bei üblichen 1-Entwickler-Projekten. Und &#8222;Extended&#8220; ist hier wirklich ernstgemeint. USB- und Seriell- und <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/" class="more-link"><span>Read More &#8594;</span></a></span>]]>
+        <![CDATA[Update 2026-08-03: Workaround Windows Tastaturproblem: in Windows das Tastaturlayout auf Englisch(UK) stellen, *keyboard germany unter RISC OS, schon funktioniert alles &#8211; Issue dazu in GitHub angelegt Dank einiger alter RISC OS-Mitstreiter bin ich auf einen neuen Fork von RPCEmu aufmerksam geworden: &#8222;RPCEmu Spork Edition&#8220; oder &#8222;rpcemu-extended&#8220; oder &#8222;RPCEmu Extened&#8220; [sic!] &#8211; wie auch immer. Jedenfalls lebt das Projekt auf GitHub, initiiert und gepflegt von Andrew Timmins. Und, wie es aussieht, unter tätiger Mithilfe von Claude. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/" class="more-link"><span>Read More &#8594;</span></a></span>]]>
       </description>
-      <source:markdown>Dank einiger alter RISC OS-Mitstreiter bin ich auf einen neuen Fork von RPCEmu aufmerksam geworden: „RPCEmu Spork Edition“ oder „rpcemu-extended“ oder „RPCEmu Extened“ \[sic!\] – wie auch immer. Jedenfalls lebt das Projekt auf GitHub, initiiert und gepflegt von Andrew Timmins. Und, wie es aussieht, unter tätiger Mithilfe von Claude. Vermutlich deshalb ist die Doku zu Code und Funktionalität nicht so sparsam wie bei üblichen 1-Entwickler-Projekten. Und „Extended“ ist hier wirklich ernstgemeint. USB- und Seriell- und …[Read More →](http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/)</source:markdown>
+      <source:markdown>Update 2026-08-03: Workaround Windows Tastaturproblem: in Windows das Tastaturlayout auf Englisch(UK) stellen, \*keyboard germany unter RISC OS, schon funktioniert alles – Issue dazu in GitHub angelegt Dank einiger alter RISC OS-Mitstreiter bin ich auf einen neuen Fork von RPCEmu aufmerksam geworden: „RPCEmu Spork Edition“ oder „rpcemu-extended“ oder „RPCEmu Extened“ \[sic!\] – wie auch immer. Jedenfalls lebt das Projekt auf GitHub, initiiert und gepflegt von Andrew Timmins. Und, wie es aussieht, unter tätiger Mithilfe von Claude. …[Read More →](http://riscosblog.huber-net.de/2026/08/neuer-rpcemu-fork/)</source:markdown>
       <guid>cid://http://riscosblog.huber-net.de/?p=579</guid>
       <category>Emulation</category>
       <category>Software</category>
@@ -2075,7 +2096,7 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
         <![CDATA[<p>Affecting millions of systems, a kernel flaw discovered by Qualys could allow users to gain root privileges.</p>]]>
       </description>
       <source:markdown>Affecting millions of systems, a kernel flaw discovered by Qualys could allow users to gain root privileges.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Lori White)</author>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://a8e356e0e75c5e1fe049704e1c662472</guid>
     </item>    <item>
       <title>Ubuntu 26.10 to Include Ubuntu Certified Hardware Check</title>
@@ -2359,15 +2380,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       <source:markdown>Thanks to Gerben Voort the source of the PIM-1 has been added to the PIM-1 page See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=21479</guid>
       <category>6502</category>
-    </item>    <item>
-      <title>New Linux Flaw Lets Attackers Escape VMs</title>
-      <link>http://www.linux-magazine.com/Online/News/New-Linux-Flaw-Lets-Attackers-Escape-VMs</link>
-      <description>
-        <![CDATA[<p>A 16-year-old vulnerability allows an attacker to escape a virtual machine, gain access to the host, and execute malicious code.</p>]]>
-      </description>
-      <source:markdown>A 16-year-old vulnerability allows an attacker to escape a virtual machine, gain access to the host, and execute malicious code.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://fc2bc727f185bc8a0310cf00b513011e</guid>
     </item>
   </channel>
 </rss>
