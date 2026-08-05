@@ -4,10 +4,278 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>04 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>05 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Making Videos With Absolute Freedom</title>
+      <link>https://puri.sm/posts/making-videos-with-absolute-freedom/</link>
+      <description>
+        <![CDATA[<p>As with every video that we make at Purism, we have made the Librem 16 launch video in house with Librem hardware running PureOS, and using free software only. This blog post will give a quick overview of the steps that we went through for making this video. It will also show how to run a video project with total freedom, away from proprietary constraints. Finally, it underlines how amazing the Librem laptops are when used in a professional creative environment.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/making-videos-with-absolute-freedom/">Making Videos With Absolute Freedom</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>As with every video that we make at Purism, we have made the Librem 16 launch video in house with Librem hardware running PureOS, and using free software only. This blog post will give a quick overview of the steps that we went through for making this video. It will also show how to run a video project with total freedom, away from proprietary constraints. Finally, it underlines how amazing the Librem laptops are when used in a professional creative environment.
+
+The post [Making Videos With Absolute Freedom](https://puri.sm/posts/making-videos-with-absolute-freedom/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <enclosure url="https://videos.puri.sm/librem16/librem16-launch.mp4" length="39796214" type="video/mp4" />
+      <guid>cid://https://puri.sm/?p=85765</guid>
+      <category>GNU/Linux</category>
+      <category>Hardware</category>
+      <category>Librem 16</category>
+      <category>PureOS</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>Apps</category>
+      <category>Software freedom</category>
+      <category>Videos</category>
+    </item>    <item>
+      <title>Shooting stars are just pea-sized rocks... and other space wonders</title>
+      <link>https://www.npr.org/2026/08/05/nx-s1-5913854/shooting-star-perseid-meteor-shower</link>
+      <description>
+        <![CDATA[Ahead of the peak of the Perseid meteor shower, we're re-airing our first episode with host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a>. In it, Regina and planetary scientist <a href="https://geology.wwu.edu/people/ricem5"target="_blank"   >Melissa Rice</a> explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).<br/><br/>Learn more about viewing the Perseids, which will peak Aug. 12: <a href="https://skyandtelescope.org/astronomy-press-releases/a-perfect-year-for-the-perseid-meteor-shower/"target="_blank"   ><em>A Perfect Year for the Perseid Meteor Shower</em></a><br/><br/><em>Interested in more stellar science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Ahead of the peak of the Perseid meteor shower, we&#39;re re-airing our first episode with host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber). In it, Regina and planetary scientist [Melissa Rice](https://geology.wwu.edu/people/ricem5) explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).
+
+Learn more about viewing the Perseids, which will peak Aug. 12: [_A Perfect Year for the Perseid Meteor Shower_](https://skyandtelescope.org/astronomy-press-releases/a-perfect-year-for-the-perseid-meteor-shower/)
+
+_Interested in more stellar science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/31fc9190-26bb-44dc-bb3b-794a0acff68c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=31fc9190-26bb-44dc-bb3b-794a0acff68c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913854&p=510351&d=700&size=11208874" length="11208874" type="audio/mpeg" />
+      <guid>cid://dc555ae5-ec6b-4485-8fa6-6cbdf244cd22</guid>
+    </item>    <item>
+      <title>APOD: 2026 August 5 – Spokes on Saturn’s B Ring</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 5 – Spokes… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Brad Croslin [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 5 – Spokes… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Brad Croslin \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>The Paradox of Lençóis Maranhenses National Park</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/</link>
+      <description>
+        <![CDATA[The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.]]>
+      </description>
+      <source:markdown>The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/</guid>
+    </item>    <item>
+      <title>Corporate players in Amiga community sign various agreements to clear up some of the decades-old licensing and ownership mess</title>
+      <link>https://www.osnews.com/story/145687/corporate-players-in-amiga-community-sign-various-agreements-to-clear-up-some-of-the-decades-old-licensing-and-ownership-mess/</link>
+      <description>
+        <![CDATA[Few things in technology are more complex, convoluted, and riddled with literally decades of drama than the Amiga community. Luckily for all of us, a significant step forward has been made today: several of the key corporate players in the community have struck agreements to settle their legal disputes. CIC licenses software and documentation for Commodore&#8217;s 8-bit computers from Amiga. In return, Amiga is permitted to continue using the Commodore trademarks in a &#8220;historical or descriptive context,&#8221; such as old documentation, copyright notices in existing software, or as symbols on a keyboard. The agreement with Hyperion does not change the status of AmigaOS 4&#160;&#8211; which was never a point of contention, according to Amiga&#160;&#8211; but it does specify exactly which code and trademarks the Belgian company is permitted to use . But Hyperion&#8217;s involvement in the 68k market will end on December 31, 2027: the licensee may continue to distribute versions of AmigaOS 3 until then, including the as-yet-unreleased AmigaOS 3.3. After that, Hyperion will deliver source code, revision history, and documentation for AmigaOS 3.1.4 and its updates, including all fixes and updates, but excluding AmigaOS 4 code backported into AmigaOS 3.2 or 3.3, to Amiga Corporation and release the developers involved in the project from all obligations to Hyperion. Amiga itself will then take over further development of AmigaOS&#160;3 in the future. ↫ Post on amiga-news.de Hyperion is the company most known for developing AmigaOS 4, and with these agreements in place, they claim they can finally spend time focusing on getting AmigaOS 4.2 out the door. These agreements will also consolidate most of the AmigaOS 3.x code and IP under a single banner, which should make its status quite a bit clearer going forward. Whether or not any of this is actually good and beneficial to the Amiga platform as a whole and its individual branches &#8211; 3.x and 4.x, in particular &#8211; is anyone&#8217;s guess. I don&#8217;t think there&#8217;s anyone here on OSNews who wouldn&#8217;t be interested in, say, an affordable and &#8211; most importantly &#8211; available AmigaOS 4 machine. While I have no clue if clearing up some of the licensing, IP, and ownership confusions will aid in getting new AmigaOS 4 hardware, it surely won&#8217;t make it any harder.]]>
+      </description>
+      <source:markdown>Few things in technology are more complex, convoluted, and riddled with literally decades of drama than the Amiga community. Luckily for all of us, a significant step forward has been made today: several of the key corporate players in the community have struck agreements to settle their legal disputes. CIC licenses software and documentation for Commodore’s 8-bit computers from Amiga. In return, Amiga is permitted to continue using the Commodore trademarks in a “historical or descriptive context,” such as old documentation, copyright notices in existing software, or as symbols on a keyboard. The agreement with Hyperion does not change the status of AmigaOS 4 – which was never a point of contention, according to Amiga – but it does specify exactly which code and trademarks the Belgian company is permitted to use . But Hyperion’s involvement in the 68k market will end on December 31, 2027: the licensee may continue to distribute versions of AmigaOS 3 until then, including the as-yet-unreleased AmigaOS 3.3. After that, Hyperion will deliver source code, revision history, and documentation for AmigaOS 3.1.4 and its updates, including all fixes and updates, but excluding AmigaOS 4 code backported into AmigaOS 3.2 or 3.3, to Amiga Corporation and release the developers involved in the project from all obligations to Hyperion. Amiga itself will then take over further development of AmigaOS 3 in the future. ↫ Post on amiga-news.de Hyperion is the company most known for developing AmigaOS 4, and with these agreements in place, they claim they can finally spend time focusing on getting AmigaOS 4.2 out the door. These agreements will also consolidate most of the AmigaOS 3.x code and IP under a single banner, which should make its status quite a bit clearer going forward. Whether or not any of this is actually good and beneficial to the Amiga platform as a whole and its individual branches – 3.x and 4.x, in particular – is anyone’s guess. I don’t think there’s anyone here on OSNews who wouldn’t be interested in, say, an affordable and – most importantly – available AmigaOS 4 machine. While I have no clue if clearing up some of the licensing, IP, and ownership confusions will aid in getting new AmigaOS 4 hardware, it surely won’t make it any harder.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145687</guid>
+      <category>Amiga &#38; AROS</category>
+    </item>    <item>
+      <title>But can your calculator run Linux?</title>
+      <link>https://www.osnews.com/story/145685/but-can-your-calculator-run-linux/</link>
+      <description>
+        <![CDATA[Don&#8217;t have enough computing devices on your wish list yet? Do you have a need for a graphing calculator? No? What if it can run Linux and even Windows 10? I see I&#8217;ve got your attention. The HP Prime is a graphing calculator on the market since 2013, with a hardware revision in 2018 (the G2 model). It has a touch screen and as far as I can find, most people are happy with it and find it a very capable and fast calculator. Here are some pictures of the opened up calculator and here is a website with some more downloads. I&#8217;m not really interested in the calculator part. For most calculations I do for my day job, embedded programming, the HP-16C is a better fit. I was interested in this device because I found posts online suggesting it could run Linux and even a Windows 10 port. ↫ Remy van Elst I had no idea just how overpowered &#8211; for a graphing calculator &#8211; the G2 really is. It&#8217;s basically an Android smartphone from a few years ago, and that means that yes, it can run Linux, including X, Doom, and tons of other applications. It&#8217;s not the easiest of devices to get custom software onto, but also not particularly difficult &#8211; you need to open it up and short two pads &#8211; so if you have one, it&#8217;s definitely a fun project. Apparently, someone also ported EUFI for Windows 10 to this thing, so you can do silly stuff like run the Windows calculator on the G2 calculator. Wild. Now I kind of want one.]]>
+      </description>
+      <source:markdown>Don’t have enough computing devices on your wish list yet? Do you have a need for a graphing calculator? No? What if it can run Linux and even Windows 10? I see I’ve got your attention. The HP Prime is a graphing calculator on the market since 2013, with a hardware revision in 2018 (the G2 model). It has a touch screen and as far as I can find, most people are happy with it and find it a very capable and fast calculator. Here are some pictures of the opened up calculator and here is a website with some more downloads. I’m not really interested in the calculator part. For most calculations I do for my day job, embedded programming, the HP-16C is a better fit. I was interested in this device because I found posts online suggesting it could run Linux and even a Windows 10 port. ↫ Remy van Elst I had no idea just how overpowered – for a graphing calculator – the G2 really is. It’s basically an Android smartphone from a few years ago, and that means that yes, it can run Linux, including X, Doom, and tons of other applications. It’s not the easiest of devices to get custom software onto, but also not particularly difficult – you need to open it up and short two pads – so if you have one, it’s definitely a fun project. Apparently, someone also ported EUFI for Windows 10 to this thing, so you can do silly stuff like run the Windows calculator on the G2 calculator. Wild. Now I kind of want one.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145685</guid>
+      <category>Hardware</category>
+    </item>    <item>
+      <title>Wireguard comes to 9front</title>
+      <link>https://www.osnews.com/story/145683/wireguard-comes-to-9front/</link>
+      <description>
+        <![CDATA[Want to switch to 9front, especially with the new release having just been made available, but really need Wireguard? Fret not! Wireguard is now available on 9front, experimentally.]]>
+      </description>
+      <source:markdown>Want to switch to 9front, especially with the new release having just been made available, but really need Wireguard? Fret not! Wireguard is now available on 9front, experimentally.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145683</guid>
+      <category>OS News</category>
+    </item>    <item>
+      <title>IBM i (OS/400): the database operating system</title>
+      <link>https://www.osnews.com/story/145681/ibm-i-os-400-the-database-operating-system/</link>
+      <description>
+        <![CDATA[Today, I wanted to show you one of the most fascinating and surprising operating systems ever created. It’s not another Unix, Linux, or Windows. It is an architecture that went its own way and proved that systems engineering design can look completely different. I’m talking about IBM’s child, which for many might be synonymous with “boring banking systems,” but in reality, is one of the most uncompromising projects in IT history. While we get excited about abstraction and virtualization today, thinking we are discovering new lands, this system was doing it decades ago. Imagine a system that doesn’t know the concept of a “file” in the way we understand it. A system where everything is an object, and all disk and operational memory form one vast, flat space. If you are looking for proof that true engineering doesn’t need buzzwords to blow you away, I invite you to read on. ↫ Kamil Pytliński Ever since watching Clabretro&#8217;s detailed video about getting IBM i to work on his own IBM POWER hardware and then remoting into them, I&#8217;ve been obsessed with running IBM i at home. It feels like the final boss of operating systems to dive into and explore, hidden in the deepest, darkest trenches of the ocean of technology. Everything about IBM i feels alien, complex, convoluted, opaque, and overwhelming, and you can probably dedicate your entire career to working with this platform and somehow still learn new things about it every day. There&#8217;s something brutalist about IBM i, and I so desperately want to bang my head on its concrete walls.]]>
+      </description>
+      <source:markdown>Today, I wanted to show you one of the most fascinating and surprising operating systems ever created. It’s not another Unix, Linux, or Windows. It is an architecture that went its own way and proved that systems engineering design can look completely different. I’m talking about IBM’s child, which for many might be synonymous with “boring banking systems,” but in reality, is one of the most uncompromising projects in IT history. While we get excited about abstraction and virtualization today, thinking we are discovering new lands, this system was doing it decades ago. Imagine a system that doesn’t know the concept of a “file” in the way we understand it. A system where everything is an object, and all disk and operational memory form one vast, flat space. If you are looking for proof that true engineering doesn’t need buzzwords to blow you away, I invite you to read on. ↫ Kamil Pytliński Ever since watching Clabretro’s detailed video about getting IBM i to work on his own IBM POWER hardware and then remoting into them, I’ve been obsessed with running IBM i at home. It feels like the final boss of operating systems to dive into and explore, hidden in the deepest, darkest trenches of the ocean of technology. Everything about IBM i feels alien, complex, convoluted, opaque, and overwhelming, and you can probably dedicate your entire career to working with this platform and somehow still learn new things about it every day. There’s something brutalist about IBM i, and I so desperately want to bang my head on its concrete walls.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145681</guid>
+      <category>IBM</category>
+    </item>    <item>
+      <title>This American Pilot Downed 40 Enemy Aircraft During World War II. Researchers Discovered the Wreck of His Plane in a Pacific Jungle and Brought a Wing Back to His Home State</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-american-pilot-downed-4o-enemy-aircraft-during-world-war-ii-researchers-discovered-the-wreck-of-his-plane-in-a-pacific-jungle-and-brought-a-wing-back-to-his-home-state-180989259/</link>
+      <description>
+        <![CDATA[Richard I. Bong, flying a plane decorated with a portrait of his future wife Marge, became America's highest-scoring "ace" and received a Medal of Honor]]>
+      </description>
+      <source:markdown>Richard I. Bong, flying a plane decorated with a portrait of his future wife Marge, became America&#39;s highest-scoring &#34;ace&#34; and received a Medal of Honor</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/muBT3z2c2LpXi9FUAA85EmjjKbE=/420x240/filters:focal(3096x2064:3097x2065)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/ef/f0ef846a-b1d4-4b29-acb2-dc837c845e76/pacific_wrecks_marge_2026-still_16.jpeg" length="19459939" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-american-pilot-downed-4o-enemy-aircraft-during-world-war-ii-researchers-discovered-the-wreck-of-his-plane-in-a-pacific-jungle-and-brought-a-wing-back-to-his-home-state-180989259/</guid>
+    </item>    <item>
+      <title>NASA Will Attempt to Observe Rocket Part’s Lunar Impact</title>
+      <link>https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/</link>
+      <description>
+        <![CDATA[Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event [&#8230;]]]>
+      </description>
+      <source:markdown>Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1034711</guid>
+      <category>Commercial Space</category>
+      <category>Benefits to Science</category>
+      <category>Commercial Lunar Payload Services (CLPS)</category>
+      <category>Lunar Reconnaissance Orbiter (LRO)</category>
+      <category>Lunar Science</category>
+      <category>Missions</category>
+      <category>Science Mission Directorate</category>
+    </item>    <item>
+      <title>Two People Died After Getting Sick With Cyclosporiasis, Marking the First Known Deaths Linked to the Ongoing Multistate Outbreak</title>
+      <link>https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/</link>
+      <description>
+        <![CDATA[Both patients, who were in Michigan, had underlying health conditions, according to state officials. The parasite-caused infection usually isn't life-threatening]]>
+      </description>
+      <source:markdown>Both patients, who were in Michigan, had underlying health conditions, according to state officials. The parasite-caused infection usually isn&#39;t life-threatening</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mL-PsOTZ46OJf_5O67cHLIiKvYM=/420x240/filters:focal(2573x1715:2574x1716)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/4b/ca4b0251-c164-46ac-b5e3-81148b1a2fe0/cyclospora.jpg" length="9575744" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/</guid>
+    </item>    <item>
+      <title>The Danube River Has Fallen to Record-Low Water Levels, Revealing Nazi Warships, Bombs and Woolly Mammoth Bones In Its Channel</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-danube-river-has-fallen-to-record-low-water-levels-revealing-nazi-warships-bombs-and-woolly-mammoth-bones-in-its-channel-180989255/</link>
+      <description>
+        <![CDATA[Residents and researchers are finding historic and prehistoric relics of the past as Europe's second-longest river dries]]>
+      </description>
+      <source:markdown>Residents and researchers are finding historic and prehistoric relics of the past as Europe&#39;s second-longest river dries</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/98uC3i5Kq4IHCcl-I3rWklWP8bE=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/ed/a6edd465-75b5-40a0-ad71-ad4d1271eef2/river_i.jpg" length="453156" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-danube-river-has-fallen-to-record-low-water-levels-revealing-nazi-warships-bombs-and-woolly-mammoth-bones-in-its-channel-180989255/</guid>
+    </item>    <item>
+      <title>NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test</title>
+      <link>https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/</link>
+      <description>
+        <![CDATA[Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]]]>
+      </description>
+      <source:markdown>Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/</guid>
+      <category>Coronagraph</category>
+      <category>Coronal Mass Ejections</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Heliophysics</category>
+      <category>Heliophysics Division</category>
+      <category>Missions</category>
+      <category>Polarimeter to Unify the Corona and Heliosphere (PUNCH)</category>
+      <category>The Sun</category>
+    </item>    <item>
+      <title>Ames Science Stars of the Month – August 2026</title>
+      <link>https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/</link>
+      <description>
+        <![CDATA[The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the [&#8230;]]]>
+      </description>
+      <source:markdown>The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1034722</guid>
+      <category>General</category>
+    </item>    <item>
+      <title>August 2026 Satellite Puzzler</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/</link>
+      <description>
+        <![CDATA[Your challenge is to tell us the location of the satellite image and why it is interesting.]]>
+      </description>
+      <source:markdown>Your challenge is to tell us the location of the satellite image and why it is interesting.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/</guid>
+      <category>Earth Observatory</category>
+    </item>    <item>
+      <title>In a First, Astronomers May Have Spotted a Supermassive Black Hole That Wandered to the Edge of Its Galaxy</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-supermassive-black-hole-that-wandered-to-the-edge-of-its-galaxy-180989233/</link>
+      <description>
+        <![CDATA[These giant celestial objects have mostly been identified at the centers of galaxies, where they're known to reside. But a recently discovered one—found because of the light emitted while it snacked on a star—appears to be more than 30,000 light-years from its host galaxy's heart]]>
+      </description>
+      <source:markdown>These giant celestial objects have mostly been identified at the centers of galaxies, where they&#39;re known to reside. But a recently discovered one—found because of the light emitted while it snacked on a star—appears to be more than 30,000 light-years from its host galaxy&#39;s heart</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UKdxaBmwpqihGkyLRoFNPTrSMeo=/420x240/filters:focal(1908x1072:1909x1073)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/61/c1611da3-9181-4540-b061-b52833e09e8c/pia22355.jpg" length="510994" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-supermassive-black-hole-that-wandered-to-the-edge-of-its-galaxy-180989233/</guid>
+    </item>    <item>
+      <title>NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations</title>
+      <link>https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/</link>
+      <description>
+        <![CDATA[NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These [&#8230;]]]>
+      </description>
+      <source:markdown>NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1034664</guid>
+      <category>Moon Base</category>
+      <category>Commercial Lunar Payload Services (CLPS)</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Johnson Space Center</category>
+      <category>Marshall Space Flight Center</category>
+      <category>NASA Headquarters</category>
+    </item>    <item>
+      <title>NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US</title>
+      <link>https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/</link>
+      <description>
+        <![CDATA[NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97170</guid>
+      <category>AI</category>
+      <category>AI Infrastructure</category>
+      <category>Corporate</category>
+      <category>Economic Development</category>
+      <category>Education</category>
+    </item>    <item>
+      <title>Roman Space Telescope Plaque Install</title>
+      <link>https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/</link>
+      <description>
+        <![CDATA[Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA&#8217;s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program. It also features a memory card containing a total of 1,350,144 [&#8230;]]]>
+      </description>
+      <source:markdown>Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA’s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program. It also features a memory card containing a total of 1,350,144 \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1034514</guid>
+      <category>Nancy Grace Roman Space Telescope</category>
+    </item>    <item>
+      <title>These Early Biplanes Documented the Arctic, Captured Newsreel Footage and Witnessed Lindbergh&#39;s Historic Flight. Now, a Rare Example Will Hang in a Museum</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-early-biplanes-documented-the-arctic-captured-newsreel-footage-and-witnessed-lindberghs-historic-flight-now-a-rare-example-will-hang-in-a-museum-180989253/</link>
+      <description>
+        <![CDATA[The Cradle of Aviation Museum recently acquired a Curtiss Oriole, three-seat biplane manufactured at a nearby Garden City factory]]>
+      </description>
+      <source:markdown>The Cradle of Aviation Museum recently acquired a Curtiss Oriole, three-seat biplane manufactured at a nearby Garden City factory</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Be8Dxd5UAPNHn8-vIIg58L7gtcA=/420x240/filters:focal(1486x1118:1487x1119)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/eb/0beb7ed4-553a-4f13-b019-60876e23627d/curtiss-oriole.jpg" length="3822600" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-early-biplanes-documented-the-arctic-captured-newsreel-footage-and-witnessed-lindberghs-historic-flight-now-a-rare-example-will-hang-in-a-museum-180989253/</guid>
+    </item>    <item>
+      <title>NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use</title>
+      <link>https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</link>
+      <description>
+        <![CDATA[For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and [&#8230;]]]>
+      </description>
+      <source:markdown>For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97163&#38;preview=true&#38;preview_id=97163</guid>
+      <category>Driving</category>
+      <category>Artificial Intelligence</category>
+      <category>Computer Vision</category>
+      <category>Mobility</category>
+      <category>NVIDIA Halos</category>
+      <category>Open Source</category>
+      <category>Physical AI</category>
+      <category>Synthetic Data Generation</category>
+    </item>    <item>
+      <title>As AI Increases Demands on Memory, Storage Steps Up</title>
+      <link>https://blogs.nvidia.com/blog/ai-storage-fms/</link>
+      <description>
+        <![CDATA[Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights.  At this week’s Future of [&#8230;]]]>
+      </description>
+      <source:markdown>Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights.  At this week’s Future of \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97151&#38;preview=true&#38;preview_id=97151</guid>
+      <category>AI Infrastructure</category>
+      <category>Agentic AI</category>
+      <category>AI Factory</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Events</category>
+      <category>Hardware</category>
+      <category>NVIDIA BlueField</category>
+      <category>NVIDIA Rubin</category>
+      <category>NVIDIA Spectrum-X Ethernet</category>
+      <category>NVIDIA Vera</category>
+      <category>Open Source</category>
+    </item>    <item>
+      <title>Ancient North American Mammals May Have Gathered in Mexico and Diversified Before Moving to South America, Priming Them to Thrive There</title>
+      <link>https://www.smithsonianmag.com/smart-news/ancient-north-american-mammals-may-have-gathered-in-mexico-and-diversified-before-moving-to-south-america-priming-them-to-thrive-there-180989251/</link>
+      <description>
+        <![CDATA[An analysis of fossils from the country hints that animals from the north stayed in a "holding pen" between seven million and ten million years ago. The timeline might help explain why so many South American mammals have North American ancestry, but not vice versa]]>
+      </description>
+      <source:markdown>An analysis of fossils from the country hints that animals from the north stayed in a &#34;holding pen&#34; between seven million and ten million years ago. The timeline might help explain why so many South American mammals have North American ancestry, but not vice versa</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_iUK3jK_Il48TFafCuwEjRWvFH4=/420x240/filters:focal(495x287:496x288)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/13/f7/13f7bba4-436a-4abd-9ef7-6103724b7a68/2-janis-thylacosmilus-image-contrast.jpg" length="59884" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/ancient-north-american-mammals-may-have-gathered-in-mexico-and-diversified-before-moving-to-south-america-priming-them-to-thrive-there-180989251/</guid>
+    </item>    <item>
       <title>AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency</title>
       <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/</link>
       <description>
@@ -17,6 +285,7 @@
       <guid>cid://https://blogs.nvidia.com/?p=97121</guid>
       <category>AI</category>
       <category>Corporate</category>
+      <category>Open Source</category>
     </item>    <item>
       <title>More food and money, less disease: Senegal&#39;s surprising eco-experiment</title>
       <link>https://www.npr.org/2026/08/04/nx-s1-5900965/fish-rice-parasite-farms-science</link>
@@ -35,12 +304,12 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a98e30ac-55bb-4a38-b7f6-2931c9d6e6bc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a98e30ac-55bb-4a38-b7f6-2931c9d6e6bc&feed=F0qJcgXZ&t=podcast&e=nx-s1-5900965&p=510351&d=810&size=12962212" length="12962212" type="audio/mpeg" />
       <guid>cid://3b186693-e5c2-4e07-a60f-f0f00258d01b</guid>
     </item>    <item>
-      <title>APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula</title>
+      <title>APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula</title>
       <link>https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/</link>
       <description>
-        <![CDATA[APOD Science APOD APOD: August 4, 2026 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots [&#8230;]]]>
+        <![CDATA[APOD Science APOD APOD: 2026 August 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots [&#8230;]]]>
       </description>
-      <source:markdown>APOD Science APOD APOD: August 4, 2026 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots \[…\]</source:markdown>
+      <source:markdown>APOD Science APOD APOD: 2026 August 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/</guid>
       <category>APOD</category>
     </item>    <item>
@@ -3273,243 +3542,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/</guid>
       <category>Earth Observatory</category>
       <category>Heat &#38; Radiation</category>
-    </item>    <item>
-      <title>Haiku gets NetBSD’s NVMM, beta 6 release planned for August</title>
-      <link>https://www.osnews.com/story/145519/haiku-gets-netbsds-nvmm-beta-6-release-planned-for-august/</link>
-      <description>
-        <![CDATA[Haiku has another buy month of development activity to detail, and there&#8217;s a big ticket item this time, even if the developers themselves don&#8217;t consider it so. The thing that should be the biggest news item this month is that the GSoC 2024 work to port “NVMM”, the NetBSD Virtual Machine Monitor (which runs on more than just NetBSD, despite the name), providing hardware-accelerated virtualization support for QEMU, was finally merged. Unfortunately it still doesn’t fully work, so it’s still disabled by default: hence, it’s only a minor news item, unfortunately. ↫ waddlesplash on Haiku&#8217;s website It may not work due to &#8211; so far &#8211; not well-understood problems causing any complex virtualised operating system to crash in a variety of ways, but since these problems seem related not to NVMM but Haiku itself, I still think this is a big piece of news. If the problems can be addressed, Haiku will have proper virtualisation, which is crazy to think about. There&#8217;s a forum thread in case you wish to help out with this effort. Other than this major news, there&#8217;s the usual list of small fixes and changes, including preliminary work on USB Ethernet support, which, when working, could be very welcome news for people whose onboard Ethernet doesn&#8217;t work with Haiku. The team also believes a beta 6 might actually be released this August, but once again I&#8217;d like to underline that Haiku&#8217;s nightlies work just fine, and you really don&#8217;t need to wait for a beta.]]>
-      </description>
-      <source:markdown>Haiku has another buy month of development activity to detail, and there’s a big ticket item this time, even if the developers themselves don’t consider it so. The thing that should be the biggest news item this month is that the GSoC 2024 work to port “NVMM”, the NetBSD Virtual Machine Monitor (which runs on more than just NetBSD, despite the name), providing hardware-accelerated virtualization support for QEMU, was finally merged. Unfortunately it still doesn’t fully work, so it’s still disabled by default: hence, it’s only a minor news item, unfortunately. ↫ waddlesplash on Haiku’s website It may not work due to – so far – not well-understood problems causing any complex virtualised operating system to crash in a variety of ways, but since these problems seem related not to NVMM but Haiku itself, I still think this is a big piece of news. If the problems can be addressed, Haiku will have proper virtualisation, which is crazy to think about. There’s a forum thread in case you wish to help out with this effort. Other than this major news, there’s the usual list of small fixes and changes, including preliminary work on USB Ethernet support, which, when working, could be very welcome news for people whose onboard Ethernet doesn’t work with Haiku. The team also believes a beta 6 might actually be released this August, but once again I’d like to underline that Haiku’s nightlies work just fine, and you really don’t need to wait for a beta.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145519</guid>
-      <category>Haiku</category>
-    </item>    <item>
-      <title>People are starting to think twice about buying Facebook’s pervert glasses</title>
-      <link>https://www.osnews.com/story/145517/people-are-starting-to-think-twice-about-buying-facebooks-pervert-glasses/</link>
-      <description>
-        <![CDATA[I have yet to see any of these creepy camera glasses Facebook (and a few other companies) are selling. One of the many benefits of living in Arctic Sweden, where people are reserved, keep their their distance, and try not to draw attention to themselves, is that new technology fads don&#8217;t really permeate society here. The odds of me spotting one of these creepy predator glasses in my remote town are incredibly slim, and to me, that&#8217;s a feature, not a bug. Meanwhile, in places where these creepy things can actually be found in the wild, a backlash is thankfully growing. Will Kujawa, a freelance video producer, said that he has been thinking about buying a pair of Meta glasses with prescription lenses to film behind the scenes content during his shoots, but the online backlash has given him second thoughts. He says he was &#8220;blown away by how mean some of the people were&#8221; in response to his social media posts about considering buying a pair. &#8220;I saw all these comments about if you wear those glasses you&#8217;re basically a predator or a creep, and I was like, &#8216;oh, maybe it&#8217;s not a good idea to have those,'&#8221; he told Engadget. But he says he understands why people have concerns. &#8220;I didn&#8217;t really think that through all the way … there are a lot of times where it&#8217;s not appropriate to wear cameras on your face. And even though I would have no intention of do anything creepy with them, it didn&#8217;t even occur to me  other people just assume that automatically.&#8221; ↫ Karissa Bell at Engadget I can maybe see a use for these things in specific professional environments, but even then, obviously not ones made by Facebook, one of the, if not the creepiest companies in technology history. If I were to see anyone out here in the real world using one these things, I, too, would automatically assume that the guy (statistically speaking) wearing them is a creep. I can only imagine what the people most often targeted by creepy men would think encountering some rando wearing these. Clearly, these things should be made illegal outside of specific professional environments where they could potentially be useful. While it&#8217;s impossible to stop tools like these from making their way into the hands of creeps, it at least provides the justice system with a clear method of nailing them to the wall. They didn&#8217;t get Al Capone for any of his violent crimes &#8211; they nailed him for tax evasion.]]>
-      </description>
-      <source:markdown>I have yet to see any of these creepy camera glasses Facebook (and a few other companies) are selling. One of the many benefits of living in Arctic Sweden, where people are reserved, keep their their distance, and try not to draw attention to themselves, is that new technology fads don’t really permeate society here. The odds of me spotting one of these creepy predator glasses in my remote town are incredibly slim, and to me, that’s a feature, not a bug. Meanwhile, in places where these creepy things can actually be found in the wild, a backlash is thankfully growing. Will Kujawa, a freelance video producer, said that he has been thinking about buying a pair of Meta glasses with prescription lenses to film behind the scenes content during his shoots, but the online backlash has given him second thoughts. He says he was “blown away by how mean some of the people were” in response to his social media posts about considering buying a pair. “I saw all these comments about if you wear those glasses you’re basically a predator or a creep, and I was like, ‘oh, maybe it’s not a good idea to have those,&#39;” he told Engadget. But he says he understands why people have concerns. “I didn’t really think that through all the way … there are a lot of times where it’s not appropriate to wear cameras on your face. And even though I would have no intention of do anything creepy with them, it didn’t even occur to me other people just assume that automatically.” ↫ Karissa Bell at Engadget I can maybe see a use for these things in specific professional environments, but even then, obviously not ones made by Facebook, one of the, if not the creepiest companies in technology history. If I were to see anyone out here in the real world using one these things, I, too, would automatically assume that the guy (statistically speaking) wearing them is a creep. I can only imagine what the people most often targeted by creepy men would think encountering some rando wearing these. Clearly, these things should be made illegal outside of specific professional environments where they could potentially be useful. While it’s impossible to stop tools like these from making their way into the hands of creeps, it at least provides the justice system with a clear method of nailing them to the wall. They didn’t get Al Capone for any of his violent crimes – they nailed him for tax evasion.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145517</guid>
-      <category>In the News</category>
-    </item>    <item>
-      <title>The GDID really isn’t the only way Microsoft can track Windows users</title>
-      <link>https://www.osnews.com/story/145515/the-gdid-really-isnt-the-only-way-microsoft-can-track-windows-users/</link>
-      <description>
-        <![CDATA[In what should be a surprise to absolutely nobody, Microsoft assigns a persistent identifier to every Windows installation, tying it to its user, and the company has no issues handing it over to law enforcement. Abhijith M B at windows Latest dove into the details, and it&#8217;s just as bad as you would expect. Am I glad Stokes got caught? Yes, without hesitation. Thirty-five pages of a teenager bragging about diamond chains spelling out “HACK THE PLANET” while extorting a jewelry store don’t leave much room for sympathy, whatever role Microsoft’s telemetry played in building the case. But that doesn’t make the GDID okay. Every company selling you software has some version of this, and a persistent device identity is a reasonable thing to build into activation and fraud systems. What gets me is that most people had never come across the term GDID before a federal court filing such as this. Microsoft wrote one sentence about it in an Azure Monitor reference table meant for enterprise IT admins pulling update reports, not for the 1.6 billion or so regular people whose PCs are generating this data. You might be tech savvy enough to turn off Activity History, pick a local account, and strip out every scrap of optional telemetry, but none of it changes the fact that the identifier exists, and that it answers to your Microsoft Account instead of you. Microsoft only told the public about it once a court forced the issue. ↫ Abhijith M B at windows Latest The thing is, even without this GDID, I can&#8217;t imagine Microsoft would have much trouble tying a Windows installation to a specific user. Consequently, I&#8217;m afraid the following is going to happen: this story gains even more traction, Microsoft removes the GDID, and everyone thinks the problem is resolved. Of course, in reality, any one of the hundreds of other metrics and data Microsoft collects can and will still be used in the exact same way as this GDID thing in this case. If my experiences with Windows 11 weren&#8217;t clear enough &#8211; don&#8217;t use Windows. Just don&#8217;t.]]>
-      </description>
-      <source:markdown>In what should be a surprise to absolutely nobody, Microsoft assigns a persistent identifier to every Windows installation, tying it to its user, and the company has no issues handing it over to law enforcement. Abhijith M B at windows Latest dove into the details, and it’s just as bad as you would expect. Am I glad Stokes got caught? Yes, without hesitation. Thirty-five pages of a teenager bragging about diamond chains spelling out “HACK THE PLANET” while extorting a jewelry store don’t leave much room for sympathy, whatever role Microsoft’s telemetry played in building the case. But that doesn’t make the GDID okay. Every company selling you software has some version of this, and a persistent device identity is a reasonable thing to build into activation and fraud systems. What gets me is that most people had never come across the term GDID before a federal court filing such as this. Microsoft wrote one sentence about it in an Azure Monitor reference table meant for enterprise IT admins pulling update reports, not for the 1.6 billion or so regular people whose PCs are generating this data. You might be tech savvy enough to turn off Activity History, pick a local account, and strip out every scrap of optional telemetry, but none of it changes the fact that the identifier exists, and that it answers to your Microsoft Account instead of you. Microsoft only told the public about it once a court forced the issue. ↫ Abhijith M B at windows Latest The thing is, even without this GDID, I can’t imagine Microsoft would have much trouble tying a Windows installation to a specific user. Consequently, I’m afraid the following is going to happen: this story gains even more traction, Microsoft removes the GDID, and everyone thinks the problem is resolved. Of course, in reality, any one of the hundreds of other metrics and data Microsoft collects can and will still be used in the exact same way as this GDID thing in this case. If my experiences with Windows 11 weren’t clear enough – don’t use Windows. Just don’t.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145515</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>NASA Invites Media to Serbia Artemis Accords Signing Ceremony</title>
-      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/</link>
-      <description>
-        <![CDATA[The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia’s Minister of Foreign Affairs Marko Đurić and U.S. State Department&#160;Assistant Secretary for Oceans and International Environmental and Scientific Affairs Wesley&#160;Brooks&#160;for the ceremony. This [&#8230;]]]>
-      </description>
-      <source:markdown>The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia’s Minister of Foreign Affairs Marko Đurić and U.S. State Department Assistant Secretary for Oceans and International Environmental and Scientific Affairs Wesley Brooks for the ceremony. This \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1017681</guid>
-      <category>Artemis Accords</category>
-      <category>Artemis</category>
-      <category>Office of International and Interagency Relations (OIIR)</category>
-      <category>Organizations</category>
-    </item>    <item>
-      <title>An English King&#39;s Bones Were Moved Over Centuries and Eventually Lost. One Researcher Claims He Discovered Their Location—Under a Parking Lot</title>
-      <link>https://www.smithsonianmag.com/smart-news/an-english-kings-bones-were-moved-over-centuries-and-eventually-lost-one-researcher-claims-he-discovered-their-location-under-a-parking-lot-180989121/</link>
-      <description>
-        <![CDATA[Alfred the Great defended Wessex from the Vikings. Researchers have been searching for his remains for years after their resting place in an abbey was disturbed]]>
-      </description>
-      <source:markdown>Alfred the Great defended Wessex from the Vikings. Researchers have been searching for his remains for years after their resting place in an abbey was disturbed</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VSG1lEOBj9QScBp-GrD846VNwCo=/420x240/filters:focal(244x300:245x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/93/57/93574c41-9688-40de-93a1-757f238fe569/king_alfred_the_great.jpg" length="77447" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/an-english-kings-bones-were-moved-over-centuries-and-eventually-lost-one-researcher-claims-he-discovered-their-location-under-a-parking-lot-180989121/</guid>
-    </item>    <item>
-      <title>Community Office Hours: A Thundermail Update</title>
-      <link>https://blog.thunderbird.net/2026/07/community-office-hours-a-thundermail-update/</link>
-      <description>
-        <![CDATA[<p>Our Community Office Hours series is all about connecting with the people behind Thunderbird and our products, and sharing the work that’s happening behind the scenes. These conversations are a chance to learn more about the direction of our projects and to hear directly from the people making it happen. In this episode, we are [&#8230;]</p>
-        <p>The post <a href="https://blog.thunderbird.net/2026/07/community-office-hours-a-thundermail-update/">Community Office Hours: A Thundermail Update</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
-      </description>
-      <source:markdown>Our Community Office Hours series is all about connecting with the people behind Thunderbird and our products, and sharing the work that’s happening behind the scenes. These conversations are a chance to learn more about the direction of our projects and to hear directly from the people making it happen. In this episode, we are \[…\]
-
-The post [Community Office Hours: A Thundermail Update](https://blog.thunderbird.net/2026/07/community-office-hours-a-thundermail-update/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
-      <guid>cid://https://blog.thunderbird.net/?p=4460</guid>
-      <category>Product</category>
-      <category>Thunderbird</category>
-      <category>thundermail</category>
-    </item>    <item>
-      <title>Here&#39;s How These Adorable Mice Can Live at an Extremely High Elevation Where No Other Mammal Is Known to Reside</title>
-      <link>https://www.smithsonianmag.com/smart-news/heres-how-these-adorable-mice-can-live-at-an-extremely-high-elevation-where-no-other-mammal-is-known-to-survive-180989116/</link>
-      <description>
-        <![CDATA[The Andean leaf-eared mouse has adaptations that help it generate body heat efficiently in frigid, low-oxygen conditions at 22,000 feet above sea level, according to a new study]]>
-      </description>
-      <source:markdown>The Andean leaf-eared mouse has adaptations that help it generate body heat efficiently in frigid, low-oxygen conditions at 22,000 feet above sea level, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fD3M6wCeRCNHE5HIsdUi0jCeLuA=/420x240/filters:focal(545x311:546x312)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/8c/d48c72f7-7691-4884-9a2b-99b939b7812c/20260709-leaf-earedmouse-nt.jpg" length="173237" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/heres-how-these-adorable-mice-can-live-at-an-extremely-high-elevation-where-no-other-mammal-is-known-to-survive-180989116/</guid>
-    </item>    <item>
-      <title>This 700-Year-Old English Church Nearly Closed—but Then the Vicar Discovered a Stash of Gold Coins Under the Altar</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-700-year-old-english-church-nearly-closed-but-then-the-vicar-discovered-a-stash-of-gold-coins-under-the-altar-180989120/</link>
-      <description>
-        <![CDATA[Just before Easter, a box of gold bullion minted in the 1990s changed the outlook for a tiny congregation struggling to cover costly repairs]]>
-      </description>
-      <source:markdown>Just before Easter, a box of gold bullion minted in the 1990s changed the outlook for a tiny congregation struggling to cover costly repairs</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Gnoq8Zcp2YlmJpb-0UzhURqlcfk=/420x240/filters:focal(508x339:509x340)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/82/c5/82c55cde-6ffa-40f1-905d-271880e71da8/88099292_107978520815289_1171883995672084480_n.jpeg" length="908089" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-700-year-old-english-church-nearly-closed-but-then-the-vicar-discovered-a-stash-of-gold-coins-under-the-altar-180989120/</guid>
-    </item>    <item>
-      <title>NASA Astronaut Anil Menon, Crewmates Arrive at Space Station</title>
-      <link>https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/</link>
-      <description>
-        <![CDATA[NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1017571</guid>
-      <category>Humans in Space</category>
-      <category>International Space Station (ISS)</category>
-      <category>ISS Research</category>
-    </item>    <item>
-      <title>Hubble Sees Crimson Cloud and Stars</title>
-      <link>https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/</link>
-      <description>
-        <![CDATA[Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s&#160;Hubble Space Telescope. LH 95 is a region in the&#160;Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in [&#8230;]]]>
-      </description>
-      <source:markdown>Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s Hubble Space Telescope. LH 95 is a region in the Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1017206</guid>
-    </item>    <item>
-      <title>NASA Jets Turn Red, White, and Blue</title>
-      <link>https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/</link>
-      <description>
-        <![CDATA[In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft. &#160; An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in [&#8230;]]]>
-      </description>
-      <source:markdown>In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft.   An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1017343</guid>
-      <category>Aeronautics</category>
-      <category>Armstrong Flight Research Center</category>
-      <category>Flight Innovation</category>
-      <category>NASA Aircraft</category>
-    </item>    <item>
-      <title>Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</link>
-      <description>
-        <![CDATA[Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.]]>
-      </description>
-      <source:markdown>Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=96074</guid>
-      <category>AI</category>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Nemotron</category>
-      <category>Nemotron Labs</category>
-      <category>Open Source</category>
-    </item>    <item>
-      <title>How Has Roman Concrete Lasted for Millennia? A 1,900-Year-Old Latrine Offers New Clues About the Material&#39;s Impressive Durability</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/</link>
-      <description>
-        <![CDATA[A chemical process called carbonation, which helps seal cracks, could help explain why many ancient Roman structures are still standing today. Researchers hope that the insights will lead to better modern-day building materials]]>
-      </description>
-      <source:markdown>A chemical process called carbonation, which helps seal cracks, could help explain why many ancient Roman structures are still standing today. Researchers hope that the insights will lead to better modern-day building materials</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XZQeawEkk9Jup-bhkhBYYr6H6eA=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/ef/f8ef2bbf-1984-46d7-9fba-cb9324c82871/3917.jpg" length="1086736" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/</guid>
-    </item>    <item>
-      <title>Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency</title>
-      <link>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</link>
-      <description>
-        <![CDATA[Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories.  As agentic AI drives token demand [&#8230;]]]>
-      </description>
-      <source:markdown>Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories.  As agentic AI drives token demand \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=96103</guid>
-      <category>AI Infrastructure</category>
-      <category>Hardware</category>
-      <category>Networking</category>
-      <category>Software</category>
-      <category>Inference</category>
-      <category>NVIDIA Blackwell</category>
-      <category>NVIDIA Vera Rubin</category>
-      <category>Think SMART</category>
-    </item>    <item>
-      <title>Meet the Earliest Known &#39;Right-Handed&#39; Animal, a Worm-Like Creature That Lived About 550 Million Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/meet-the-first-right-handed-animal-a-worm-like-creature-that-lived-about-550-million-years-ago-180989107/</link>
-      <description>
-        <![CDATA[During the Ediacaran period, the critter wriggled around on the ocean floor of what’s now South Australia and preferred to turn right, a fossil analysis suggests]]>
-      </description>
-      <source:markdown>During the Ediacaran period, the critter wriggled around on the ocean floor of what’s now South Australia and preferred to turn right, a fossil analysis suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/en35ZyTVOua2jMnpgfXboCHyRYY=/420x240/filters:focal(350x187:351x188)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2e/dc/2edcce3e-468e-4b96-8bf0-6f896255453d/righty-fossil.jpg" length="100683" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-the-first-right-handed-animal-a-worm-like-creature-that-lived-about-550-million-years-ago-180989107/</guid>
-    </item>    <item>
-      <title>NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars</title>
-      <link>https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/</link>
-      <description>
-        <![CDATA[Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which [&#8230;]]]>
-      </description>
-      <source:markdown>Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1017131</guid>
-      <category>Nancy Grace Roman Space Telescope</category>
-      <category>Astrophysics</category>
-      <category>Black Holes</category>
-      <category>Galaxies, Stars, &#38; Black Holes</category>
-      <category>Galaxies, Stars, &#38; Black Holes Research</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Science &#38; Research</category>
-      <category>Stars</category>
-      <category>The Universe</category>
-    </item>    <item>
-      <title>Ancient Romans Put Their Faith in Guardian Spirits. Archaeologists Just Found a Rare 1,600-Year-Old Carving of One in Northern England</title>
-      <link>https://www.smithsonianmag.com/smart-news/romans-put-their-faith-in-guardian-spirits-archaeologists-just-found-a-rare-1600-year-old-carving-of-one-in-northern-england-180989118/</link>
-      <description>
-        <![CDATA[Known as a “genius,” the protective spirit or deity was believed to bring good fortune and prosperity to a particular person, household or place. Archaeologists haven't found many depictions of them across Roman Britain]]>
-      </description>
-      <source:markdown>Known as a “genius,” the protective spirit or deity was believed to bring good fortune and prosperity to a particular person, household or place. Archaeologists haven&#39;t found many depictions of them across Roman Britain</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5CYwcDBJsCLbQi3WR9hhwHr-6jQ=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/ee/16ee51f0-6dc7-4f38-9afd-34ab07508ad3/getimage.png" length="1003647" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/romans-put-their-faith-in-guardian-spirits-archaeologists-just-found-a-rare-1600-year-old-carving-of-one-in-northern-england-180989118/</guid>
-    </item>    <item>
-      <title>Thomas Jefferson’s Original Rough Draft of the Declaration of Independence Can Now Be Seen at the Library of Congress</title>
-      <link>https://www.smithsonianmag.com/smart-news/thomas-jeffersons-original-rough-draft-of-the-declaration-of-independence-can-be-seen-at-library-of-congress-180989113/</link>
-      <description>
-        <![CDATA[The new exhibition, which shows how the document was edited, also features an early copy of the Gettysburg Address]]>
-      </description>
-      <source:markdown>The new exhibition, which shows how the document was edited, also features an early copy of the Gettysburg Address</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/s72KMlsVGIsL5sSctQDpUBd7ucE=/420x240/filters:focal(330x261:331x262)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/0d/a60d8f54-e3c3-4321-8d94-2476223736b4/dp021_00_00_standard.jpg" length="150865" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/thomas-jeffersons-original-rough-draft-of-the-declaration-of-independence-can-be-seen-at-library-of-congress-180989113/</guid>
-    </item>    <item>
-      <title>What&#39;s this super-aging butterfly’s longevity secret?</title>
-      <link>https://www.npr.org/2026/07/14/nx-s1-5879494/butterfly-long-lifespan-pollen-heliconius</link>
-      <description>
-        <![CDATA[What if there were a great ape species that could live over 1,000 years? That’s basically <em>Heliconius</em> in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as <a href="https://www.theatlantic.com/author/katherine-j-wu/"target="_blank"   >Katie Wu</a>, a science writer at <em>The Atlantic</em>, explains, that’s not the whole story. She and host <a href="https://www.npr.org/people/348779465/nathan-rott"target="_blank"   >Nate Rott</a> also talk about how bats sip from the fountain of youth – and what it all may mean for humans.<br/><br/><strong>Read Katie's </strong><a href="https://www.theatlantic.com/science/2026/06/butterflies-longevity/687556/"target="_blank"   ><strong>full story here</strong></a><strong>.</strong><br/><br/><strong>If you liked this episode, check out our episode on a pill that could </strong><a href="http://lnk.to/i7246O"target="_blank"   ><strong>extend dogs’ lives</strong></a><strong>…and maybe yours someday. </strong><br/><br/><em>Interested in more science about aging? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>What if there were a great ape species that could live over 1,000 years? That’s basically _Heliconius_ in the butterfly world. The insects live around 25 times longer than their butterfly cousins, and scientists think they have one clue as to why: pollen. But as [Katie Wu](https://www.theatlantic.com/author/katherine-j-wu/), a science writer at _The Atlantic_, explains, that’s not the whole story. She and host [Nate Rott](https://www.npr.org/people/348779465/nathan-rott) also talk about how bats sip from the fountain of youth – and what it all may mean for humans.
-
-**Read Katie&#39;s** [**full story here**](https://www.theatlantic.com/science/2026/06/butterflies-longevity/687556/) **.**
-
-**If you liked this episode, check out our episode on a pill that could** [**extend dogs’ lives**](http://lnk.to/i7246O) **…and maybe yours someday.**
-
-_Interested in more science about aging? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=5bc4064c-8931-4cc2-93b1-cc7b6cb5c6aa&feed=F0qJcgXZ&t=podcast&e=nx-s1-5879494&p=510351&d=798&size=12782072" length="12782072" type="audio/mpeg" />
-      <guid>cid://726b49d8-eaca-4dd0-911b-eead39c259b9</guid>
-    </item>    <item>
-      <title>Fans of the Arctic</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/</link>
-      <description>
-        <![CDATA[Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.]]>
-      </description>
-      <source:markdown>Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/</guid>
-      <category>Earth Observatory</category>
-      <category>Ice &#38; Glaciers</category>
-      <category>Landsat 9</category>
-      <category>Surface Water</category>
-      <category>Topography</category>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/</link>
-      <description>
-        <![CDATA[Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit.  Leaving the polygonal […]]]>
-      </description>
-      <source:markdown>Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit.  Leaving the polygonal \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/</guid>
-      <category>Blogs</category>
     </item>
   </channel>
 </rss>

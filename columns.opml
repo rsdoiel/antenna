@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>04 Aug 26 06:43 -0700</dateCreated>
+        <dateCreated>05 Aug 26 06:43 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -32,7 +32,7 @@
         <outline text="BAIR @ Berkley Blog" type="rss" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="http://bair.berkeley.edu/blog/,http://bair.berkeley.edu/blog/feed.xml" description="The BAIR Blog" url="http://bair.berkeley.edu/blog/feed.xml"></outline>
         <outline text="BZ Blog" type="rss" xmlUrl="https://blogsystem5.substack.com/feed" htmlUrl="https://blogsystem5.substack.com,https://blogsystem5.substack.com/feed" description="A newsletter on operating systems, build systems, programming languages, software engineering, and my own software projects. Specifics include FreeBSD, Linux, Rust, Bazel and EndBASIC." url="https://blogsystem5.substack.com/feed"></outline>
         <outline text="Bacalhau Blog" type="rss" xmlUrl="https://blog.bacalhau.org/feed" htmlUrl="https://blog.bacalhau.org,https://blog.bacalhau.org/feed" description="Compute Over Data " url="https://blog.bacalhau.org/feed"></outline>
-        <outline text="Barack Obama @Bsky" type="rss" xmlUrl="https://bsky.app/profile/did:plc:5c6cw3veuqruljoy5ahzerfx/rss" htmlUrl="https://bsky.app/profile/barackobama.bsky.social" description="Dad, husband, President, citizen. barackobama.com"></outline>
+        <outline text="Barack Obama @Bsky" type="rss" xmlUrl="https://bsky.app/profile/did:plc:5c6cw3veuqruljoy5ahzerfx/rss" htmlUrl="https://bsky.app/profile/barackobama.bsky.social" description="Dad, husband, President, citizen. barackobamabooks.com"></outline>
         <outline text="Basile Blog" type="rss" xmlUrl="https://basilesimon.fr/blog/index.xml" htmlUrl="https://basilesimon.fr/blog?campaign=rss,https://basilesimon.fr/blog/index.xml" description="Recent content in Blogs on 👋 hi, I’m basile" url="https://basilesimon.fr/blog/index.xml"></outline>
         <outline text="Becky Hansmeyer" type="rss" xmlUrl="https://www.beckyhansmeyer.com/feed/" htmlUrl="https://www.beckyhansmeyer.com,https://www.beckyhansmeyer.com/feed/" description="100% grass-fed Swift. Artisanal SwiftUI." url="https://www.beckyhansmeyer.com/feed/"></outline>
         <outline text="Ben Hoyt&#39;s Tech Writing" type="rss" xmlUrl="https://benhoyt.com/writings/rss.xml" htmlUrl="https://benhoyt.com/writings/,https://benhoyt.com/writings/rss.xml" description="RSS feed for Ben Hoyt&#39;s technical writing" url="https://benhoyt.com/writings/rss.xml"></outline>

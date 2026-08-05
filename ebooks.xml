@@ -4,10 +4,129 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>04 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>05 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Travels in the Great Desert of Sahara, in the Years of 1845 and 1846 by James Richardson</title>
+      <link>https://www.gutenberg.org/ebooks/22094</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Clever Woman of the Family by Charlotte M.  Yonge</title>
+      <link>https://www.gutenberg.org/ebooks/3292</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Parábolas : by José Enrique Rodó</title>
+      <link>https://www.gutenberg.org/ebooks/79262</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Our National Parks by John Muir</title>
+      <link>https://www.gutenberg.org/ebooks/60929</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The haunted house by Hilaire Belloc</title>
+      <link>https://www.gutenberg.org/ebooks/79269</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Our insect enemies by Vance Randolph</title>
+      <link>https://www.gutenberg.org/ebooks/79263</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Idol&#39;s eye by Carol Emshwiller</title>
+      <link>https://www.gutenberg.org/ebooks/79264</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A cat book by E. V.  Lucas</title>
+      <link>https://www.gutenberg.org/ebooks/79268</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mrs. Dalloway by Virginia Woolf</title>
+      <link>https://www.gutenberg.org/ebooks/71865</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>What you should know about palmistry by Leo Markun</title>
+      <link>https://www.gutenberg.org/ebooks/79270</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Public enemy by Kendell Foster Crossen</title>
+      <link>https://www.gutenberg.org/ebooks/79265</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Terror station by Dwight V. Swain</title>
+      <link>https://www.gutenberg.org/ebooks/79266</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Bantu Folk Lore (Medical and General) by Matthew L. Hewat</title>
+      <link>https://www.gutenberg.org/ebooks/67597</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The lotus of the wonderful law : by William Edward Soothill</title>
+      <link>https://www.gutenberg.org/ebooks/79267</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The tank in action by Douglas Gordon Browne</title>
+      <link>https://www.gutenberg.org/ebooks/79272</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Russian life and society as seen in 1866-&#39;67 : by Nathan Appleton</title>
+      <link>https://www.gutenberg.org/ebooks/79273</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Brown eyes and brown bear by Frank Richardson Pierce</title>
+      <link>https://www.gutenberg.org/ebooks/79271</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
       <link>https://www.gutenberg.org/ebooks/561</link>
       <description>
@@ -49,13 +168,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Parábolas : by José Enrique Rodó</title>
-      <link>https://www.gutenberg.org/ebooks/79262</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
     </item>    <item>
       <title>Le due colpe by Giuseppe de Rossi</title>
       <link>https://www.gutenberg.org/ebooks/79260</link>
@@ -1212,13 +1324,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Clever Woman of the Family by Charlotte M.  Yonge</title>
-      <link>https://www.gutenberg.org/ebooks/3292</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Das rote Zimmer by August Strindberg</title>
       <link>https://www.gutenberg.org/ebooks/79123</link>
       <description>
@@ -1569,83 +1674,6 @@
     </item>    <item>
       <title>Hagar by James Arthur MacKnight</title>
       <link>https://www.gutenberg.org/ebooks/79095</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The pioneer women of the West by E. F.  Ellet</title>
-      <link>https://www.gutenberg.org/ebooks/78929</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Every Man out of His Humour by Ben Jonson</title>
-      <link>https://www.gutenberg.org/ebooks/3695</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Life of John Taylor by B. H.  Roberts</title>
-      <link>https://www.gutenberg.org/ebooks/45303</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Things I know about kings, celebrities, and crooks by William Le Queux</title>
-      <link>https://www.gutenberg.org/ebooks/79085</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Three-Base Benson by Ralph Henry Barbour</title>
-      <link>https://www.gutenberg.org/ebooks/79086</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Hive of Busy Bees by Effie Mae Hency Williams</title>
-      <link>https://www.gutenberg.org/ebooks/7027</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The day the world ended by Sax Rohmer</title>
-      <link>https://www.gutenberg.org/ebooks/79087</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Meditations by Emperor of Rome Marcus Aurelius</title>
-      <link>https://www.gutenberg.org/ebooks/2680</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A prisoner of the Reds : by Francis McCullagh</title>
-      <link>https://www.gutenberg.org/ebooks/79088</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The First Buckinghamshire Battalion 1914-1919 by P. L. Wright</title>
-      <link>https://www.gutenberg.org/ebooks/79090</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>St Baldred of the Bass: a Pictish legend : by James Miller</title>
-      <link>https://www.gutenberg.org/ebooks/79089</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
