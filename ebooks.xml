@@ -4,10 +4,94 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>05 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>06 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Russian life and society as seen in 1866-&#39;67 : by Nathan Appleton</title>
+      <link>https://www.gutenberg.org/ebooks/79273</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pukinsorkka : by Stephen Leacock</title>
+      <link>https://www.gutenberg.org/ebooks/79280</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Monk: A Romance by M. G.  Lewis</title>
+      <link>https://www.gutenberg.org/ebooks/601</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Anthology of Russian literature from the earliest period to the present time, volume 2 (of 2) :</title>
+      <link>https://www.gutenberg.org/ebooks/79276</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ruth by Douwe Kalma</title>
+      <link>https://www.gutenberg.org/ebooks/79282</link>
+      <description>
+        <![CDATA[Language: Frisian]]>
+      </description>
+      <source:markdown>Language: Frisian</source:markdown>
+    </item>    <item>
+      <title>Coffee : by Joseph M. Walsh</title>
+      <link>https://www.gutenberg.org/ebooks/79274</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Graveyard Rats by Henry Kuttner</title>
+      <link>https://www.gutenberg.org/ebooks/79279</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mata Hari : by Thomas Coulson</title>
+      <link>https://www.gutenberg.org/ebooks/79283</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mexico : by Marie Robinson Wright</title>
+      <link>https://www.gutenberg.org/ebooks/79275</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Moods : by Mercedes de Acosta</title>
+      <link>https://www.gutenberg.org/ebooks/79277</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kun sydämet eroavat : by Siiri Sylvia Juva</title>
+      <link>https://www.gutenberg.org/ebooks/79278</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Herrasperheissä : by Hilda Hagman</title>
+      <link>https://www.gutenberg.org/ebooks/79281</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
       <title>Travels in the Great Desert of Sahara, in the Years of 1845 and 1846 by James Richardson</title>
       <link>https://www.gutenberg.org/ebooks/22094</link>
       <description>
@@ -113,19 +197,45 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Russian life and society as seen in 1866-&#39;67 : by Nathan Appleton</title>
-      <link>https://www.gutenberg.org/ebooks/79273</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Brown eyes and brown bear by Frank Richardson Pierce</title>
       <link>https://www.gutenberg.org/ebooks/79271</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Beggar’s Opera, by John Gay</title>
+      <link>https://standardebooks.org/ebooks/john-gay/the-beggars-opera</link>
+      <description>
+        <![CDATA[A highwayman worries that he’s undone when his love affairs are uncovered.]]>
+      </description>
+      <source:markdown>A highwayman worries that he’s undone when his love affairs are uncovered.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/john-gay_the-beggars-opera.epub?source=feed" length="2096019" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/john-gay/the-beggars-opera</guid>
+      <category>Drama</category>
+      <category>Satire</category>
+    </item>    <item>
+      <title>The Great Airport Mystery, by Franklin W. Dixon</title>
+      <link>https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery</link>
+      <description>
+        <![CDATA[After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.]]>
+      </description>
+      <source:markdown>After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/franklin-w-dixon_the-great-airport-mystery.epub?source=feed" length="479823" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery</guid>
+      <category>Adventure</category>
+      <category>Children’s</category>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>The Home and the World, by Rabindranath Tagore</title>
+      <link>https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore</link>
+      <description>
+        <![CDATA[When a wealthy Bengali woman’s husband invites an anti-British activist to their home, she becomes devoted to the nationalist cause, leading to disharmony in the household.]]>
+      </description>
+      <source:markdown>When a wealthy Bengali woman’s husband invites an anti-British activist to their home, she becomes devoted to the nationalist cause, leading to disharmony in the household.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore/downloads/rabindranath-tagore_the-home-and-the-world_surendranath-tagore.epub?source=feed" length="540083" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore</guid>
+      <category>Fiction</category>
     </item>    <item>
       <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
       <link>https://www.gutenberg.org/ebooks/561</link>
@@ -266,7 +376,7 @@
         <![CDATA[A young Englishman stumbles upon love and political intrigue in Napoleonic-era Genoa.]]>
       </description>
       <source:markdown>A young Englishman stumbles upon love and political intrigue in Napoleonic-era Genoa.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/suspense/downloads/joseph-conrad_suspense.epub?source=feed" length="554861" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/suspense/downloads/joseph-conrad_suspense.epub?source=feed" length="612050" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/suspense</guid>
       <category>Fiction</category>
     </item>    <item>
@@ -381,7 +491,7 @@
         <![CDATA[A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.]]>
       </description>
       <source:markdown>A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/charles-kingsley/hypatia/downloads/charles-kingsley_hypatia.epub?source=feed" length="794580" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/charles-kingsley/hypatia/downloads/charles-kingsley_hypatia.epub?source=feed" length="846137" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/charles-kingsley/hypatia</guid>
       <category>Fiction</category>
     </item>    <item>
@@ -391,7 +501,7 @@
         <![CDATA[The newly-placed Prince of Transylvania must defend his realm against foreign influence.]]>
       </description>
       <source:markdown>The newly-placed Prince of Transylvania must defend his realm against foreign influence.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain/downloads/mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain.epub?source=feed" length="693681" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain/downloads/mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain.epub?source=feed" length="800795" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain</guid>
       <category>Fiction</category>
     </item>    <item>
@@ -401,7 +511,7 @@
         <![CDATA[A soldier-turned-detective and his team bust up a Bolshevik plot to take over Britain.]]>
       </description>
       <source:markdown>A soldier-turned-detective and his team bust up a Bolshevik plot to take over Britain.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang/downloads/h-c-mcneile_the-black-gang.epub?source=feed" length="541215" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang/downloads/h-c-mcneile_the-black-gang.epub?source=feed" length="597369" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang</guid>
       <category>Adventure</category>
       <category>Fiction</category>
@@ -657,7 +767,7 @@
         <![CDATA[A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.]]>
       </description>
       <source:markdown>A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/max-weber_the-protestant-ethic-and-the-spirit-of-capitalism_talcott-parsons.epub?source=feed" length="619542" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/max-weber_the-protestant-ethic-and-the-spirit-of-capitalism_talcott-parsons.epub?source=feed" length="747041" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons</guid>
       <category>Nonfiction</category>
       <category>Philosophy</category>
@@ -795,7 +905,7 @@
         <![CDATA[The captain of a cargo ship is forced to rescue the passangers and crew of a yacht stranded on a Malaysian island.]]>
       </description>
       <source:markdown>The captain of a cargo ship is forced to rescue the passangers and crew of a yacht stranded on a Malaysian island.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rescue/downloads/joseph-conrad_the-rescue.epub?source=feed" length="549634" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rescue/downloads/joseph-conrad_the-rescue.epub?source=feed" length="602742" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-rescue</guid>
       <category>Fiction</category>
     </item>    <item>
@@ -1092,7 +1202,7 @@
         <![CDATA[A generational saga plays out in a series of short stories about love and marriage in medieval Europe.]]>
       </description>
       <source:markdown>A generational saga plays out in a series of short stories about love and marriage in medieval Europe.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/james-branch-cabell_the-line-of-love.epub?source=feed" length="765907" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/james-branch-cabell_the-line-of-love.epub?source=feed" length="826827" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love</guid>
       <category>Comedy</category>
       <category>Fantasy</category>
@@ -1103,7 +1213,7 @@
         <![CDATA[An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.]]>
       </description>
       <source:markdown>An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint/downloads/walter-white_the-fire-in-the-flint.epub?source=feed" length="741236" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint/downloads/walter-white_the-fire-in-the-flint.epub?source=feed" length="784463" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint</guid>
       <category>Fiction</category>
     </item>    <item>
@@ -1393,7 +1503,7 @@
         <![CDATA[A collection of poetry by abolitionist Maria Lowell, published posthumously.]]>
       </description>
       <source:markdown>A collection of poetry by abolitionist Maria Lowell, published posthumously.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/maria-lowell_poetry.epub?source=feed" length="329693" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/maria-lowell_poetry.epub?source=feed" length="377933" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/maria-lowell/poetry</guid>
       <category>Poetry</category>
     </item>    <item>
@@ -1459,7 +1569,7 @@
         <![CDATA[A collection of short stories starring Craig Kennedy, scientific detective.]]>
       </description>
       <source:markdown>A collection of short stories starring Craig Kennedy, scientific detective.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/arthur-b-reeve_craig-kennedy-stories.epub?source=feed" length="452609" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/arthur-b-reeve_craig-kennedy-stories.epub?source=feed" length="525449" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories</guid>
       <category>Fiction</category>
       <category>Mystery</category>
@@ -1548,7 +1658,7 @@
         <![CDATA[A space traveler accidentally finds himself on Venus and must learn the local customs to survive.]]>
       </description>
       <source:markdown>A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus/downloads/edgar-rice-burroughs_pirates-of-venus.epub?source=feed" length="521375" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus/downloads/edgar-rice-burroughs_pirates-of-venus.epub?source=feed" length="596753" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus</guid>
       <category>Adventure</category>
       <category>Science Fiction</category>
@@ -1615,69 +1725,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Katy Hunter&#39;s homes by Mrs. C. M. Livingston</title>
-      <link>https://www.gutenberg.org/ebooks/79068</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Picture plays by Marguerite Merington</title>
-      <link>https://www.gutenberg.org/ebooks/79091</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Andersen&#39;s Fairy Tales by H. C.  Andersen</title>
-      <link>https://www.gutenberg.org/ebooks/1597</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Diana Carew : by Mrs. Forrester</title>
-      <link>https://www.gutenberg.org/ebooks/79096</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le comte de Monte-Cristo, Tome I by Alexandre Dumas and Auguste Maquet</title>
-      <link>https://www.gutenberg.org/ebooks/17989</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The lavender dragon by Eden Phillpotts</title>
-      <link>https://www.gutenberg.org/ebooks/79092</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Desert Conquest; or, Precious Waters by A. M.  Chisholm</title>
-      <link>https://www.gutenberg.org/ebooks/25728</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cape Cod; its people and their history by Henry C. Kittredge</title>
-      <link>https://www.gutenberg.org/ebooks/79093</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hagar by James Arthur MacKnight</title>
-      <link>https://www.gutenberg.org/ebooks/79095</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

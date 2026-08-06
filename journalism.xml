@@ -4,10 +4,84 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>05 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>06 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A new book looks at how AI is rewiring the newsroom, for better and worse</title>
+      <link>https://www.niemanlab.org/2026/08/a-new-book-looks-at-how-ai-is-rewiring-the-newsroom-for-better-and-worse/</link>
+      <description>
+        <![CDATA[In Journalism in the Age of AI, Rodrigo Zamith, Tomás Dodds, and I make the case that artificial intelligence is reshaping how we create, how we learn, and how we understand the world around us — and that journalism, the institution society depends on most to make sense of it all, is at the center...]]>
+      </description>
+      <source:markdown>In Journalism in the Age of AI, Rodrigo Zamith, Tomás Dodds, and I make the case that artificial intelligence is reshaping how we create, how we learn, and how we understand the world around us — and that journalism, the institution society depends on most to make sense of it all, is at the center...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252253</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>AI</category>
+      <category>journalism</category>
+    </item>    <item>
+      <title>Winner Takes All: Choosing the best from the web of Spider-Man movies</title>
+      <link>https://dailybruin.com/2026/08/05/winner-takes-all-choosing-the-best-from-the-web-of-spider-man-movies/</link>
+      <description>
+        <![CDATA[Warning: Spoilers ahead.
+        Spider-Man has been spinning his web on the silver screen since 2002.
+        Last Friday, the Spider-Man franchise entered a &#8220;Brand New Day.&#8221; From Tobey Maguire to Tom Holland, Spider-Man has gone through a series of eras and iterations, both live-action and animated, but all beloved by fans.]]>
+      </description>
+      <source:markdown>Warning: Spoilers ahead.
+Spider-Man has been spinning his web on the silver screen since 2002.
+Last Friday, the Spider-Man franchise entered a “Brand New Day.” From Tobey Maguire to Tom Holland, Spider-Man has gone through a series of eras and iterations, both live-action and animated, but all beloved by fans.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513805</guid>
+      <category>Arts</category>
+      <category>Arts Columns</category>
+      <category>Film &#38; TV</category>
+      <category>db-story-d1</category>
+    </item>    <item>
+      <title>Is Americans’ declining trust in media driven by political messaging?</title>
+      <link>https://www.niemanlab.org/2026/08/is-americans-declining-trust-in-media-driven-by-political-messaging/</link>
+      <description>
+        <![CDATA[Why has trust in American news media dropped so much in the past 50 years — much more than it&#8217;s declined in other rich western countries? To some people, I&#8217;m sure, the answer will seem obvious: Journalism&#8217;s just gotten worse. The news used to be produced by upstanding proud Americans who only cared about the...]]>
+      </description>
+      <source:markdown>Why has trust in American news media dropped so much in the past 50 years — much more than it’s declined in other rich western countries? To some people, I’m sure, the answer will seem obvious: Journalism’s just gotten worse. The news used to be produced by upstanding proud Americans who only cared about the...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252272</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>bias</category>
+      <category>conservative media</category>
+      <category>David Beavers</category>
+      <category>Fox News</category>
+      <category>Harvard University</category>
+      <category>Jim Crow</category>
+      <category>media criticism</category>
+      <category>Newt Gingrich</category>
+      <category>political elites</category>
+      <category>political journalism</category>
+      <category>Politico</category>
+    </item>    <item>
+      <title>Even The New York Times “isn’t immune” to declining search traffic — one reason it’s leaning into video</title>
+      <link>https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/</link>
+      <description>
+        <![CDATA[Despite a newsy summer — including the Iran War, the FIFA World Cup, and four Pulitzer Prize wins — The New York Times&#8217; subscription sales were slower than expected during the second quarter of 2026, the company said in its earnings report released Wednesday. The Times added 280,000 digital-only subscribers between April and June, a...]]>
+      </description>
+      <source:markdown>Despite a newsy summer — including the Iran War, the FIFA World Cup, and four Pulitzer Prize wins — The New York Times’ subscription sales were slower than expected during the second quarter of 2026, the company said in its earnings report released Wednesday. The Times added 280,000 digital-only subscribers between April and June, a...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252266</guid>
+      <category>Link post</category>
+    </item>    <item>
+      <title>UCLA women’s basketball coaching staff adds ex-WNBA coach alumnus Noelle Quinn</title>
+      <link>https://dailybruin.com/2026/08/05/ucla-womens-basketball-coaching-staff-adds-ex-wnba-coach-alumnus-noelle-quinn/</link>
+      <description>
+        <![CDATA[The success of a team depends on the coaching staff behind it.
+        And the Bruins’ staff continues to strengthen.
+        UCLA women’s basketball announced the addition of Noelle Quinn as an assistant coach for the 2026-27 season Wednesday.]]>
+      </description>
+      <source:markdown>The success of a team depends on the coaching staff behind it.
+And the Bruins’ staff continues to strengthen.
+UCLA women’s basketball announced the addition of Noelle Quinn as an assistant coach for the 2026-27 season Wednesday.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513799</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Basketball</category>
+      <category>breaking</category>
+      <category>db-story-c1</category>
+    </item>    <item>
       <title>Classifieds – August 5, 2026</title>
       <link>https://dailytrojan.com/2026/08/05/classifieds-august-5-2026/</link>
       <description>
@@ -31,7 +105,7 @@ The 2026 California gubernatorial primary featured an unusually competitive fiel
       <guid>cid://https://dailybruin.com/?p=513794</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
-      <category>db-story-d1</category>
+      <category>db-story-d2</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>Top TDC Brands in 2026</title>
@@ -102,7 +176,7 @@ Candace Hansen, who earned a doctorate in musicology this year after completing 
       <guid>cid://https://dailybruin.com/?p=513782</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-c1</category>
+      <category>db-story-a</category>
     </item>    <item>
       <title>Worth the Fare: Moo’s Craft Barbecue brings Texas flavor to LA with tender meats</title>
       <link>https://dailybruin.com/2026/08/03/worth-the-fare-moos-craft-barbecue-brings-texas-flavor-to-la-with-tender-meats/</link>
@@ -1405,96 +1479,6 @@ USAC is the official student government representing the undergraduate student b
       <category>News</category>
       <category>Student Government</category>
       <category>db-story-d1</category>
-    </item>    <item>
-      <title>At Kesem at UCLA, children impacted by family cancer discover community, connection</title>
-      <link>https://dailybruin.com/2026/07/15/at-kesem-at-ucla-children-impacted-by-family-cancer-discover-community-connection/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 20 at 12:33 a.m.</em>
-        A free, student-run summer camp is fostering community and support for children who have lived with a parent or caregiver with cancer.]]>
-      </description>
-      <source:markdown>_This post was updated July 20 at 12:33 a.m._
-A free, student-run summer camp is fostering community and support for children who have lived with a parent or caregiver with cancer.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513280</guid>
-      <category>A Closer Look</category>
-      <category>California</category>
-      <category>Campus</category>
-      <category>News</category>
-      <category>Science &#38; Health</category>
-      <category>db-story-j</category>
-    </item>    <item>
-      <title>Spain Beats Star-Led France 2-0 to Advance to World Cup Final</title>
-      <link>https://sundial.csun.edu/218992/world-cup/spain-beats-star-led-france-2-0-to-advance-to-world-cup-final/</link>
-      <description>
-        <![CDATA[Two European soccer teams battled for a spot in the FIFA World Cup final. France has been led by forward Kylian Mbappe, who has scored a tournament-leading eight goals, along...]]>
-      </description>
-      <source:markdown>Two European soccer teams battled for a spot in the FIFA World Cup final. France has been led by forward Kylian Mbappe, who has scored a tournament-leading eight goals, along...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218992</guid>
-      <category>Featured</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>Spain Beats Star-Led France 2-0 to Advance to World Cup Final</title>
-      <link>https://sundial.csun.edu/218992/featured/spain-beats-star-led-france-2-0-to-advance-to-world-cup-final/</link>
-      <description>
-        <![CDATA[Two European soccer teams battled for a spot in the FIFA World Cup final. France has been led by forward Kylian Mbappe, who has scored a tournament-leading eight goals, along...]]>
-      </description>
-      <source:markdown>Two European soccer teams battled for a spot in the FIFA World Cup final. France has been led by forward Kylian Mbappe, who has scored a tournament-leading eight goals, along...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=218992</guid>
-      <category>Featured</category>
-      <category>World Cup</category>
-    </item>    <item>
-      <title>Business Insider’s big bet against aggregation</title>
-      <link>https://www.niemanlab.org/2026/07/business-insiders-big-bet-against-aggregation/</link>
-      <description>
-        <![CDATA[&#8220;It&#8217;s not: Some people do features, some people do spot stories. You&#8217;re commanding your beat. You&#8217;re doing everything,&#8221; said Jamie Heller, Business Insider&#8217;s editor-in-chief. It&#8217;s a Tuesday morning news meeting at Business Insider&#8217;s headquarters in New York&#8217;s Financial District. More than a dozen editors have gathered in the conference room, while several more chime in...]]>
-      </description>
-      <source:markdown>“It’s not: Some people do features, some people do spot stories. You’re commanding your beat. You’re doing everything,” said Jamie Heller, Business Insider’s editor-in-chief. It’s a Tuesday morning news meeting at Business Insider’s headquarters in New York’s Financial District. More than a dozen editors have gathered in the conference room, while several more chime in...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251565</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>aggregation</category>
-      <category>AI</category>
-      <category>Axel Springer</category>
-      <category>BI</category>
-      <category>Business Insider</category>
-      <category>exclusives</category>
-      <category>generative AI</category>
-      <category>Google search</category>
-      <category>Jamie Heller</category>
-      <category>Matthias Doepfner</category>
-      <category>news aggregation</category>
-      <category>original reporting</category>
-      <category>paywalls</category>
-      <category>scoops</category>
-      <category>search traffic</category>
-      <category>subscriptions</category>
-    </item>    <item>
-      <title>Gallery: LACMA, Jeffrey Deitch host 1st-ever Los Angeles Art Parade on Wilshire Boulevard</title>
-      <link>https://dailybruin.com/2026/07/14/gallery-lacma-jeffrey-deitch-host-1st-ever-los-angeles-art-parade-on-wilshire-boulevard/</link>
-      <description>
-        <![CDATA[The Los Angeles County Museum of Art has declared art is off the walls.&#160;
-        The first-ever Los Angeles Art Parade took place along Wilshire Boulevard’s Museum Row on June 20.]]>
-      </description>
-      <source:markdown>The Los Angeles County Museum of Art has declared art is off the walls.
-The first-ever Los Angeles Art Parade took place along Wilshire Boulevard’s Museum Row on June 20.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513234</guid>
-      <category>Arts: In Focus</category>
-      <category>Daily Bruin: In Focus</category>
-      <category>db-story-m1</category>
-    </item>    <item>
-      <title>UC Academic Senate to decide on recommending SAT, ACT reinstatement by June 2027</title>
-      <link>https://dailybruin.com/2026/07/14/uc-academic-senate-to-decide-on-recommending-sat-act-reinstatement-by-june-2027/</link>
-      <description>
-        <![CDATA[The UC Academic Senate will decide whether or not to recommend reinstating standardized testing requirements for undergraduate admissions by June 2027, the UC Board of Regents announced Tuesday.&#160;
-        UC Regents Chair Maria Anguiano announced the decision during its July meeting at UC San Francisco.]]>
-      </description>
-      <source:markdown>The UC Academic Senate will decide whether or not to recommend reinstating standardized testing requirements for undergraduate admissions by June 2027, the UC Board of Regents announced Tuesday.
-UC Regents Chair Maria Anguiano announced the decision during its July meeting at UC San Francisco.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513272</guid>
-      <category>Higher Education</category>
-      <category>News</category>
-      <category>UC</category>
-      <category>breaking</category>
-      <category>db-story-h</category>
     </item>
   </channel>
 </rss>
