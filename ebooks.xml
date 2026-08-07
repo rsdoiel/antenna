@@ -4,10 +4,128 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>06 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>07 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Integration of Functions of a Single Variable by G. H.  Hardy</title>
+      <link>https://www.gutenberg.org/ebooks/38993</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Journey into the Interior of the Earth by Jules Verne</title>
+      <link>https://www.gutenberg.org/ebooks/3748</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Korpi ja puutarha by Joel Lehtonen</title>
+      <link>https://www.gutenberg.org/ebooks/79287</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Sirkus ja pyhimys : by Joel Lehtonen</title>
+      <link>https://www.gutenberg.org/ebooks/79289</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Abenteuer eines Junggesellen by Wilhelm Busch</title>
+      <link>https://www.gutenberg.org/ebooks/79285</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Rest days : by Hutton Webster</title>
+      <link>https://www.gutenberg.org/ebooks/79292</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The man who limped by Otis Adelbert Kline</title>
+      <link>https://www.gutenberg.org/ebooks/79293</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0052: De krijgsschat van de Roghi by Theo von Blankensee and Kurt Matull</title>
+      <link>https://www.gutenberg.org/ebooks/79288</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Clay-shuttered doors by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79294</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Howdy! by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79295</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fatal marriage : by Emma Dorothy Eliza Nevitte Southworth</title>
+      <link>https://www.gutenberg.org/ebooks/79290</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Despised and rejected by A. T. Fitzroy</title>
+      <link>https://www.gutenberg.org/ebooks/79286</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Winds of rebellion : by Ernest Haycox</title>
+      <link>https://www.gutenberg.org/ebooks/79284</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The mysterious locket by active approximately 1876-1880 Ruth Lynn</title>
+      <link>https://www.gutenberg.org/ebooks/79291</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cogewea, the Half-Blood, by Mourning Dove</title>
+      <link>https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood</link>
+      <description>
+        <![CDATA[A young woman rancher of mixed Native American and European descent is wooed by the foreman and a newly-arrived tenderfoot.]]>
+      </description>
+      <source:markdown>A young woman rancher of mixed Native American and European descent is wooed by the foreman and a newly-arrived tenderfoot.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood/downloads/mourning-dove_cogewea-the-half-blood.epub?source=feed" length="753933" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood</guid>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>The House of Rimmon, by Henry van Dyke Jr.</title>
+      <link>https://standardebooks.org/ebooks/henry-van-dyke-jr/the-house-of-rimmon</link>
+      <description>
+        <![CDATA[A Syrian general and a captive maid seek aid from the prophet Elisha.]]>
+      </description>
+      <source:markdown>A Syrian general and a captive maid seek aid from the prophet Elisha.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/henry-van-dyke-jr/the-house-of-rimmon/downloads/henry-van-dyke-jr_the-house-of-rimmon.epub?source=feed" length="510573" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/henry-van-dyke-jr/the-house-of-rimmon</guid>
+      <category>Drama</category>
+    </item>    <item>
       <title>Russian life and society as seen in 1866-&#39;67 : by Nathan Appleton</title>
       <link>https://www.gutenberg.org/ebooks/79273</link>
       <description>
@@ -1651,80 +1769,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pirates of Venus, by Edgar Rice Burroughs</title>
-      <link>https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus</link>
-      <description>
-        <![CDATA[A space traveler accidentally finds himself on Venus and must learn the local customs to survive.]]>
-      </description>
-      <source:markdown>A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus/downloads/edgar-rice-burroughs_pirates-of-venus.epub?source=feed" length="596753" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus</guid>
-      <category>Adventure</category>
-      <category>Science Fiction</category>
-    </item>    <item>
-      <title>Arcadian Adelaide by Thistle Anderson</title>
-      <link>https://www.gutenberg.org/ebooks/79097</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Deep Waters by W. W.  Jacobs</title>
-      <link>https://www.gutenberg.org/ebooks/11482</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The dragon by M. P.  Shiel</title>
-      <link>https://www.gutenberg.org/ebooks/77957</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Carmen by Prosper Mérimée</title>
-      <link>https://www.gutenberg.org/ebooks/2465</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The three musketeers by Alexandre Dumas and Auguste Maquet</title>
-      <link>https://www.gutenberg.org/ebooks/1257</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ennui by Stephen Marlowe</title>
-      <link>https://www.gutenberg.org/ebooks/79099</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Bathe your bearings in blood! by Clifford D. Simak</title>
-      <link>https://www.gutenberg.org/ebooks/79098</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Passage to Gomorrah by Robert F. Young</title>
-      <link>https://www.gutenberg.org/ebooks/79101</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>L&#39;infirme aux mains de lumière by Édouard Estaunié</title>
-      <link>https://www.gutenberg.org/ebooks/79100</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>

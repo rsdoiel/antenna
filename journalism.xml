@@ -4,10 +4,96 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>06 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>07 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>2026 Big Ten Preview: Purdue</title>
+      <link>https://dailybruin.com/2026/08/06/2026-big-ten-preview-purdue/</link>
+      <description>
+        <![CDATA[UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships &#8211; the most of any Big Ten school.]]>
+      </description>
+      <source:markdown>UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any Big Ten school.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513853</guid>
+      <category>Football</category>
+      <category>Men&#39;s Basketball</category>
+      <category>Sports</category>
+      <category>Women&#39;s Basketball</category>
+    </item>    <item>
+      <title>America’s largest newspaper chain, USA Today Co., partners with Palantir to analyze audience data as search traffic falls</title>
+      <link>https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/</link>
+      <description>
+        <![CDATA[USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...]]>
+      </description>
+      <source:markdown>USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to “strengthen how we collect, connect and activate audience data to drive...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252327</guid>
+      <category>Link post</category>
+      <category>Gannett</category>
+      <category>Palantir</category>
+      <category>USA Today Co.</category>
+    </item>    <item>
+      <title>Theater preview: Fan-favorite, magical productions join Los Angeles stages this summer</title>
+      <link>https://dailybruin.com/2026/08/06/theater-preview-fan-favorite-magical-productions-join-los-angeles-stages-this-summer/</link>
+      <description>
+        <![CDATA[The sun is shining down on the stage this summer.
+        From the return of Tony Award-winning classics to the release of animated films set to concert, the new season forecasts an array of theater productions across Los Angeles.]]>
+      </description>
+      <source:markdown>The sun is shining down on the stage this summer.
+From the return of Tony Award-winning classics to the release of animated films set to concert, the new season forecasts an array of theater productions across Los Angeles.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513837</guid>
+      <category>Arts</category>
+      <category>Arts Columns</category>
+      <category>Theater &#38; Fine Arts</category>
+    </item>    <item>
+      <title>Restaurant review: Kitanoya Souffle dishes up decadent, fluffy Japanese desserts worth the splurge</title>
+      <link>https://dailybruin.com/2026/08/06/restaurant-review-kitanoya-souffle-dishes-up-decadent-fluffy-japanese-desserts-worth-the-splurge/</link>
+      <description>
+        <![CDATA[Kitanoya Souffle is bringing Japan&#8217;s famous fluffy pancakes to Westwood.
+        The newest addition to the sweet treat scene, Kitanoya Souffle is a Japanese specialty dessert shop located on 954 Gayley Avenue serving freshly made souffle pancakes, taiyaki desserts and a selection of drinks.]]>
+      </description>
+      <source:markdown>Kitanoya Souffle is bringing Japan’s famous fluffy pancakes to Westwood.
+The newest addition to the sweet treat scene, Kitanoya Souffle is a Japanese specialty dessert shop located on 954 Gayley Avenue serving freshly made souffle pancakes, taiyaki desserts and a selection of drinks.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513831</guid>
+      <category>Arts</category>
+      <category>Arts Columns</category>
+      <category>Lifestyle</category>
+    </item>    <item>
+      <title>Gallery: Explore Suki Waterhouse’s ‘Loveland’ at Hollywood Forever Cemetery</title>
+      <link>https://dailybruin.com/2026/08/06/gallery-explore-suki-waterhouses-loveland-at-hollywood-forever-cemetery/</link>
+      <description>
+        <![CDATA[Suki Waterhouse, an English singer-songwriter, actress and model performed on the Fairbanks Lawn at the Hollywood Forever Cemetery on July 23, marking the second stop of “The Loveland Tour.”&#160;
+        &#160;
+        Waterhouse released her third studio album, “Loveland,” on July 10 before kicking off the tour in Phoenix on July 22.&#160;
+        &#160;
+        Charlotte Lawrence and her band opened the show with a set that included a cover and an unreleased single.]]>
+      </description>
+      <source:markdown>Suki Waterhouse, an English singer-songwriter, actress and model performed on the Fairbanks Lawn at the Hollywood Forever Cemetery on July 23, marking the second stop of “The Loveland Tour.”
+
+Waterhouse released her third studio album, “Loveland,” on July 10 before kicking off the tour in Phoenix on July 22.
+
+Charlotte Lawrence and her band opened the show with a set that included a cover and an unreleased single.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513829</guid>
+      <category>Arts: In Focus</category>
+      <category>Daily Bruin: In Focus</category>
+      <category>db-story-m1</category>
+    </item>    <item>
+      <title>Grokipedia, Elon Musk’s anti-woke AI Wikipedia, seems to have stopped updating in April</title>
+      <link>https://www.niemanlab.org/2026/08/grokipedia-elon-musks-anti-woke-ai-wikipedia-seems-to-have-stopped-updating-in-april/</link>
+      <description>
+        <![CDATA[Elon Musk launched Grokipedia last October as an anti-woke, AI-powered Wikipedia. It is, Renée DiResta wrote for The Atlantic at the time, part of &#8220;an escalating campaign to discredit Wikipedia and reshape what counts as a reliable source of basic information in the age of AI.&#8221; Grokipedia allows humans to suggest edits, but Columbia&#8217;s Tow...]]>
+      </description>
+      <source:markdown>Elon Musk launched Grokipedia last October as an anti-woke, AI-powered Wikipedia. It is, Renée DiResta wrote for The Atlantic at the time, part of “an escalating campaign to discredit Wikipedia and reshape what counts as a reliable source of basic information in the age of AI.” Grokipedia allows humans to suggest edits, but Columbia’s Tow...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252323</guid>
+      <category>Link post</category>
+      <category>AI</category>
+      <category>C.J. Robinson</category>
+      <category>Elon Musk</category>
+      <category>Grokipedia</category>
+      <category>Renee DiResta</category>
+      <category>Ronald Robertson</category>
+      <category>Tow Center</category>
+      <category>Wikipedia</category>
+    </item>    <item>
       <title>A new book looks at how AI is rewiring the newsroom, for better and worse</title>
       <link>https://www.niemanlab.org/2026/08/a-new-book-looks-at-how-ai-is-rewiring-the-newsroom-for-better-and-worse/</link>
       <description>
@@ -308,7 +394,7 @@ Diego Castro Gomez was accepted to graduate school at UC Merced in 2022.
       <category>Higher Education</category>
       <category>News</category>
       <category>UC</category>
-      <category>db-story-a</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Editorial: The UC should reinstate SAT, ACT requirements to ensure student preparedness</title>
       <link>https://dailybruin.com/2026/08/02/editorial-the-uc-should-reinstate-sat-act-requirements-to-ensure-student-preparedness/</link>
@@ -1371,114 +1457,6 @@ As of Monday, Raising Cane’s Chicken Fingers, located on the corner of Broxton
       <guid>cid://https://sundial.csun.edu/?p=219025</guid>
       <category>Featured</category>
       <category>World Cup</category>
-    </item>    <item>
-      <title>21.com and the Case for a More Mature Casino Marketing Voice</title>
-      <link>https://dailybruin.com/2026/07/16/21-com-and-the-case-for-a-more-mature-casino-marketing-voice/</link>
-      <description>
-        <![CDATA[In many ways, online casino marketing has been based on noise. The strategy of how many brands attempt to grab attention has been influenced by big welcome offers, urgent language, flashing promotions and countless claims of being the best online casino.]]>
-      </description>
-      <source:markdown>In many ways, online casino marketing has been based on noise. The strategy of how many brands attempt to grab attention has been influenced by big welcome offers, urgent language, flashing promotions and countless claims of being the best online casino.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513320</guid>
-      <category>Sponsored</category>
-      <category>Uncategorized</category>
-    </item>    <item>
-      <title>Gallery: Everything’s Bigger in Texas, including World Cup celebrations</title>
-      <link>https://dailybruin.com/2026/07/16/gallery-everythings-bigger-in-texas-including-world-cup-celebrations/</link>
-      <description>
-        <![CDATA[FIFA Fan Festival Dallas continued at Fair Park on Tuesday, where fans flocked to watch the FIFA World Cup semifinal match between Spain and France, which took place in Arlington, Texas.]]>
-      </description>
-      <source:markdown>FIFA Fan Festival Dallas continued at Fair Park on Tuesday, where fans flocked to watch the FIFA World Cup semifinal match between Spain and France, which took place in Arlington, Texas.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513317</guid>
-      <category>Daily Bruin: In Focus</category>
-      <category>Sports: In Focus</category>
-      <category>db-story-m1</category>
-    </item>    <item>
-      <title>Mobilizer, connector, spectator, or outsider? New Pew research categorizes how Americans do (or don’t) engage civically</title>
-      <link>https://www.niemanlab.org/2026/07/mobilizer-connector-spectator-or-outsider-new-pew-research-categorizes-how-americans-do-or-dont-engage-civically/</link>
-      <description>
-        <![CDATA[Civic engagement takes many forms. The term describes activities as disparate as voting, volunteering, attending religious services, and following the news. Yet “these behaviors are often studied separately, making it difficult to see how they come together in people’s day-to-day lives,” researchers from the Pew-Knight Initiative write in a new report published Thursday. Their study,...]]>
-      </description>
-      <source:markdown>Civic engagement takes many forms. The term describes activities as disparate as voting, volunteering, attending religious services, and following the news. Yet “these behaviors are often studied separately, making it difficult to see how they come together in people’s day-to-day lives,” researchers from the Pew-Knight Initiative write in a new report published Thursday. Their study,...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251684</guid>
-      <category>Link post</category>
-      <category>civic engagement</category>
-      <category>Pew-Knight Initiative</category>
-    </item>    <item>
-      <title>Looking back at FAST’s annual runway show</title>
-      <link>https://dailybruin.com/2026/07/16/looking-back-at-fasts-annual-runway-show/</link>
-      <description>
-        <![CDATA[On May 22, UCLA&#8217;s student fashion club, FAST (Fashion and Student Trends), hosted their annual runway show. The Daily Bruin looks back at the designs and shares the visions of some of the designers in this retrospective.]]>
-      </description>
-      <source:markdown>On May 22, UCLA’s student fashion club, FAST (Fashion and Student Trends), hosted their annual runway show. The Daily Bruin looks back at the designs and shares the visions of some of the designers in this retrospective.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513300</guid>
-      <category>Video</category>
-      <category>db-story-m1</category>
-    </item>    <item>
-      <title>Want to build audience and revenue through live events? These five news nonprofits have some ideas to get you started</title>
-      <link>https://www.niemanlab.org/2026/07/want-to-build-audience-and-revenue-through-live-events-these-five-news-nonprofits-have-some-ideas-to-get-you-started/</link>
-      <description>
-        <![CDATA[PITTSBURGH — One indicator of the energy and interest around live events in newsrooms these days: At INN Days — the Institute for Nonprofit News&#8217; annual conference, held last month in Pittsburgh — a series of lightning talks on &#8220;Events that Build Audience and Revenue&#8221; was a standing-room-only session. Presenters from five nonprofit newsrooms described...]]>
-      </description>
-      <source:markdown>PITTSBURGH — One indicator of the energy and interest around live events in newsrooms these days: At INN Days — the Institute for Nonprofit News’ annual conference, held last month in Pittsburgh — a series of lightning talks on “Events that Build Audience and Revenue” was a standing-room-only session. Presenters from five nonprofit newsrooms described...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251656</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>Block Club Chicago</category>
-      <category>donations</category>
-      <category>El Paso Matters</category>
-      <category>INN Days</category>
-      <category>Institute for Nonprofit News</category>
-      <category>Jewish Currents</category>
-      <category>live events</category>
-      <category>local news</category>
-      <category>nonprofit news</category>
-      <category>sponsorships</category>
-      <category>Swampscott Tides</category>
-      <category>the 51st</category>
-    </item>    <item>
-      <title>Pro Bruin Rundown: Bruin volleyball, water polo stars shine on the international stage</title>
-      <link>https://dailybruin.com/2026/07/15/pro-bruin-rundown-bruin-volleyball-water-polo-stars-shine-on-the-international-stage/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 19 at 11:53 p.m.</em>
-        As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams.]]>
-      </description>
-      <source:markdown>_This post was updated July 19 at 11:53 p.m._
-As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513292</guid>
-      <category>Men&#39;s Volleyball</category>
-      <category>Men&#39;s Water Polo</category>
-      <category>Sports</category>
-      <category>db-story-f1</category>
-    </item>    <item>
-      <title>Lauren Betts furthers Bruin legacy with historic ESPY victory</title>
-      <link>https://dailybruin.com/2026/07/15/lauren-betts-furthers-bruin-legacy-with-historic-espy-victory/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 15 at 6:07 p.m.</em>
-        The 2025-26 UCLA women’s basketball squad has not slowed down in its pursuit of making history.
-        Former UCLA center Lauren Betts won the ESPY for Best College Athlete – Women’s Sports, beating out Pittsburgh volleyball’s Olivia Babcock, Northwestern lacrosse’s Madison Taylor and Oklahoma gymnastics’ Faith Torrez on Wednesday night.]]>
-      </description>
-      <source:markdown>_This post was updated July 15 at 6:07 p.m._
-The 2025-26 UCLA women’s basketball squad has not slowed down in its pursuit of making history.
-Former UCLA center Lauren Betts won the ESPY for Best College Athlete – Women’s Sports, beating out Pittsburgh volleyball’s Olivia Babcock, Northwestern lacrosse’s Madison Taylor and Oklahoma gymnastics’ Faith Torrez on Wednesday night.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513288</guid>
-      <category>Sports</category>
-      <category>Women&#39;s Basketball</category>
-      <category>breaking</category>
-      <category>db-story-f2</category>
-    </item>    <item>
-      <title>USAC recap – July 7</title>
-      <link>https://dailybruin.com/2026/07/15/usac-recap-july-7/</link>
-      <description>
-        <![CDATA[The Undergraduate Students Association Council approved its 2026-27 budget and allocated $3,038.90 from its discretionary fund to a non-USAC entity at its July 7 meeting.
-        USAC is the official student government representing the undergraduate student body at UCLA.]]>
-      </description>
-      <source:markdown>The Undergraduate Students Association Council approved its 2026-27 budget and allocated $3,038.90 from its discretionary fund to a non-USAC entity at its July 7 meeting.
-USAC is the official student government representing the undergraduate student body at UCLA.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513284</guid>
-      <category>Campus</category>
-      <category>News</category>
-      <category>Student Government</category>
-      <category>db-story-d1</category>
     </item>
   </channel>
 </rss>
