@@ -4,10 +4,43 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>07 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>08 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Blocek 1.77 WIP</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/08/blocek-177-wip/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p><a href="http://www.laaca.borec.cz/stahuj.htm" rel="nofollow">Blocek</a> is a text editor for DOS. Unlike other text editors, Blocek works in graphical mode, can work with very large files and can edit texts in Unicode UTF-8 format, which makes it very useful especially for non-English texts. Laaca would like to release a new version by the end of August, and is looking for feedback on a work-in-progress version. "The two main news are monospaced editing mode: 'i' and 'O' have the same width and improvement in the internal keyboard handler which allows you to create layouts with use of Alt+key." <a href="https://www.laaca.borec.cz/soubory/blocek177_wip.zip" rel="nofollow">Download the new version</a> {zip file} and try it out. "If you are interested, you are encouraged to find bugs and update the translations of the keyboard layout files. Information which text strings have changed since last version you can find in file \translat_2_trans.txt". </p></div>]]>
+      </description>
+      <source:markdown>[Blocek](http://www.laaca.borec.cz/stahuj.htm) is a text editor for DOS. Unlike other text editors, Blocek works in graphical mode, can work with very large files and can edit texts in Unicode UTF-8 format, which makes it very useful especially for non-English texts. Laaca would like to release a new version by the end of August, and is looking for feedback on a work-in-progress version. &#34;The two main news are monospaced editing mode: &#39;i&#39; and &#39;O&#39; have the same width and improvement in the internal keyboard handler which allows you to create layouts with use of Alt+key.&#34; [Download the new version](https://www.laaca.borec.cz/soubory/blocek177_wip.zip) {zip file} and try it out. &#34;If you are interested, you are encouraged to find bugs and update the translations of the keyboard layout files. Information which text strings have changed since last version you can find in file \\translat\_2\_trans.txt&#34;.</source:markdown>
+      <guid>cid://https://sourceforge.nete4e1c20981b593083bd61cf8205b1f8ebbdf2a11</guid>
+    </item>    <item>
+      <title>The Life and Times of Maxis, Part 3: The Sims</title>
+      <link>https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/</link>
+      <description>
+        <![CDATA[This article tells part of the story of Maxis Software. I don&#8217;t think people realize how much tactical and strategic forethought goes into their daily lives. There&#8217;s a whole subconscious time-efficiency layer in our lives. In essence, real-time strategy is our lives. &#8212; Will Wright On the morning of October 19, 1991, two weeks after [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells part of the story of Maxis Software. I don’t think people realize how much tactical and strategic forethought goes into their daily lives. There’s a whole subconscious time-efficiency layer in our lives. In essence, real-time strategy is our lives. — Will Wright On the morning of October 19, 1991, two weeks after \[…\]</source:markdown>
+      <enclosure url="https://www.filfre.net/wp-content/uploads/2026/07/sims1.mp3" length="2072953" type="audio/mpeg" />
+      <enclosure url="https://www.filfre.net/wp-content/uploads/2026/07/sims2.mp3" length="3576040" type="audio/mpeg" />
+      <guid>cid://https://www.filfre.net/?p=6856</guid>
+      <category>Digital Antiquaria</category>
+      <category>Interactive Fiction</category>
+      <category>electronic arts</category>
+      <category>maxis</category>
+      <category>sims</category>
+      <category>wright</category>
+    </item>    <item>
+      <title>Linux Surpasses Double-Digit Market Share</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-Surpasses-Double-Digit-Market-Share</link>
+      <description>
+        <![CDATA[<p>According to two sources, the Linux operating system has hit a major milestone in market share that naysayers thought would never happen.</p>]]>
+      </description>
+      <source:markdown>According to two sources, the Linux operating system has hit a major milestone in market share that naysayers thought would never happen.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://694b132ca1bcd494599c6c899d1dc76d</guid>
+    </item>    <item>
       <title>b.log 2026/08/07 - Server update.</title>
       <link>https://heyrick.eu/blog/entry/20260807</link>
       <description>
@@ -2289,62 +2322,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2351.html</guid>
-    </item>    <item>
-      <title>Gnome Working on Test Center App to Make Testing Easier</title>
-      <link>http://www.linux-magazine.com/Online/News/Gnome-Working-on-Test-Center-App-to-Make-Testing-Easier</link>
-      <description>
-        <![CDATA[<p>It's now possible to test experimental features on the Gnome desktop without worrying that you'll break things.</p>]]>
-      </description>
-      <source:markdown>It&#39;s now possible to test experimental features on the Gnome desktop without worrying that you&#39;ll break things.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://07f1df9b70ed606a8dbd7e7dae808931</guid>
-    </item>    <item>
-      <title>New Vulnerability Discovered in Linux Kernel</title>
-      <link>http://www.linux-magazine.com/Online/News/New-Vulnerability-Discovered-in-Linux-Kernel</link>
-      <description>
-        <![CDATA[<p>Hiding out for nearly 15 years, the Ghostlock vulnerability allows a standard logged-in user to gain root privileges.</p>]]>
-      </description>
-      <source:markdown>Hiding out for nearly 15 years, the Ghostlock vulnerability allows a standard logged-in user to gain root privileges.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://5478ef626c78b0ee7c7873c9e2090fd0</guid>
-    </item>    <item>
-      <title>The Life and Times of Maxis, Part 2: SimWorld</title>
-      <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-2-simworld/</link>
-      <description>
-        <![CDATA[This article tells part of the story of Maxis Software. Maxis came into 1994 riding high on the wings of SimCity 2000, the hit of the previous holiday season. They followed up that success with&#8230; SimHealth: The National Health Care Simulation. This may sound like satire, but it was all too real. To be clear, SimHealth was [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of Maxis Software. Maxis came into 1994 riding high on the wings of SimCity 2000, the hit of the previous holiday season. They followed up that success with… SimHealth: The National Health Care Simulation. This may sound like satire, but it was all too real. To be clear, SimHealth was \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6832</guid>
-      <category>Digital Antiquaria</category>
-      <category>Interactive Fiction</category>
-      <category>electronic arts</category>
-      <category>maxis</category>
-      <category>simcity</category>
-      <category>simcopter</category>
-      <category>simhealth</category>
-      <category>simisle</category>
-      <category>simtower</category>
-      <category>wright</category>
-    </item>    <item>
-      <title>Mag42 – a new French-language magazine for alternative platforms</title>
-      <link>https://www.riscository.com/2026/mag42-new-french-language-magazine/</link>
-      <description>
-        <![CDATA[The first issue of a new French-language digital (PDF) magazine is available to buy for enthusiasts of platforms sitting a little (or even some way) outside of the mainstream &#8211; which includes RISC OS. The first issue of Mag42 covers a whopping eighteen platforms, serving as a buyers&#8217; guide with details of their specifications, potential uses, and prices &#8211; and one of those eighteen is the Titanium, from Elesar. Containing 60 A5 pages, Mag42 is delivered as a PDF file and costs €5.90, and according to David Feugey the next&#8230;]]>
-      </description>
-      <source:markdown>The first issue of a new French-language digital (PDF) magazine is available to buy for enthusiasts of platforms sitting a little (or even some way) outside of the mainstream – which includes RISC OS. The first issue of Mag42 covers a whopping eighteen platforms, serving as a buyers’ guide with details of their specifications, potential uses, and prices – and one of those eighteen is the Titanium, from Elesar. Containing 60 A5 pages, Mag42 is delivered as a PDF file and costs €5.90, and according to David Feugey the next…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10971</guid>
-      <category>Publications</category>
-      <category>French Language</category>
-      <category>Mag42</category>
-      <category>Magazine</category>
-    </item>    <item>
-      <title>Rougol July 2026 meeting on monday</title>
-      <link>http://www.iconbar.com/comments/rss/news2346.html</link>
-      <description>
-        <![CDATA[The July 2026 Rougol meeting is on Monday.]]>
-      </description>
-      <source:markdown>The July 2026 Rougol meeting is on Monday.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2346.html</guid>
     </item>
   </channel>
 </rss>

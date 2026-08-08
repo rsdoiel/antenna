@@ -4,10 +4,125 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>07 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>08 Aug 26 06:49 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Clay-shuttered doors by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79294</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Howdy! by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79295</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Les kolatiers &#38; les noix de kola by Auguste Chevalier and Em.  Perrot</title>
+      <link>https://www.gutenberg.org/ebooks/79298</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Sorron lapset : by Joel Lehtonen</title>
+      <link>https://www.gutenberg.org/ebooks/79301</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Irish Fairy Tales by James Stephens</title>
+      <link>https://www.gutenberg.org/ebooks/2892</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tomorrow about this time by Grace Livingston Hill</title>
+      <link>https://www.gutenberg.org/ebooks/79299</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Myths of Hellas : by C.  Witt</title>
+      <link>https://www.gutenberg.org/ebooks/79300</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Home Book of Verse — Volume 1 by Burton Egbert Stevenson</title>
+      <link>https://www.gutenberg.org/ebooks/2619</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Home Book of Verse — Volume 2 by Burton Egbert Stevenson</title>
+      <link>https://www.gutenberg.org/ebooks/2620</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Home Book of Verse — Volume 3 by Burton Egbert Stevenson</title>
+      <link>https://www.gutenberg.org/ebooks/2621</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The telling of the bees by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79297</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The success machine by Henry Slesar</title>
+      <link>https://www.gutenberg.org/ebooks/26168</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Genius and degeneration : by William Hirsch</title>
+      <link>https://www.gutenberg.org/ebooks/79296</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Varjojen linnan prinssit : by Laura Soinne</title>
+      <link>https://www.gutenberg.org/ebooks/79302</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The youngest princess : by Jenny Chappell</title>
+      <link>https://www.gutenberg.org/ebooks/79303</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Clever Woman of the Family, by Charlotte M. Yonge</title>
+      <link>https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family</link>
+      <description>
+        <![CDATA[An opinionated young woman seeks to prove her cleverness as she searches for a purpose in life.]]>
+      </description>
+      <source:markdown>An opinionated young woman seeks to prove her cleverness as she searches for a purpose in life.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family/downloads/charlotte-m-yonge_the-clever-woman-of-the-family.epub?source=feed" length="1001279" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family</guid>
+      <category>Fiction</category>
+    </item>    <item>
       <title>The Integration of Functions of a Single Variable by G. H.  Hardy</title>
       <link>https://www.gutenberg.org/ebooks/38993</link>
       <description>
@@ -63,20 +178,6 @@
         <![CDATA[Language: Dutch]]>
       </description>
       <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Clay-shuttered doors by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79294</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Howdy! by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79295</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>The fatal marriage : by Emma Dorothy Eliza Nevitte Southworth</title>
       <link>https://www.gutenberg.org/ebooks/79290</link>
@@ -1676,95 +1777,6 @@
     </item>    <item>
       <title>On England : by Earl Stanley Baldwin Baldwin</title>
       <link>https://www.gutenberg.org/ebooks/79118</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Craig Kennedy Stories, by Arthur B. Reeve</title>
-      <link>https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories</link>
-      <description>
-        <![CDATA[A collection of short stories starring Craig Kennedy, scientific detective.]]>
-      </description>
-      <source:markdown>A collection of short stories starring Craig Kennedy, scientific detective.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/arthur-b-reeve_craig-kennedy-stories.epub?source=feed" length="525449" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories</guid>
-      <category>Fiction</category>
-      <category>Mystery</category>
-      <category>Shorts</category>
-    </item>    <item>
-      <title>Professor Unrat, oder, Das Ende eines Tyrannen by Heinrich Mann</title>
-      <link>https://www.gutenberg.org/ebooks/35264</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Kitty Maynard : by Lucy Ellen Guernsey</title>
-      <link>https://www.gutenberg.org/ebooks/79094</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Emil and the detectives : by Erich Kästner</title>
-      <link>https://www.gutenberg.org/ebooks/79102</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A treatise of civil power in ecclesiastical causes : by John Milton</title>
-      <link>https://www.gutenberg.org/ebooks/79107</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Au bagne by Albert Londres</title>
-      <link>https://www.gutenberg.org/ebooks/79103</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Crowd-horror by Robert E.  Howard</title>
-      <link>https://www.gutenberg.org/ebooks/79105</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Historic buildings of America :</title>
-      <link>https://www.gutenberg.org/ebooks/79104</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>My Honourbright by Annette Lyster</title>
-      <link>https://www.gutenberg.org/ebooks/79109</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le roman de mon enfance et de ma jeunesse by Juliette Adam</title>
-      <link>https://www.gutenberg.org/ebooks/79108</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Another ace for Ananias by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79111</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Wild medicinal plants of the United States by B. T.  Galloway and Alice Henkel</title>
-      <link>https://www.gutenberg.org/ebooks/79110</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
