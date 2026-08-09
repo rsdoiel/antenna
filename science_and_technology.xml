@@ -4,10 +4,28 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>08 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>09 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Thanks to the EU’s Digital Markets Act, EU citizens are getting copy and paste between iOS and Windows</title>
+      <link>https://www.osnews.com/story/145708/thanks-to-the-eus-digital-markets-act-eu-citizens-are-getting-copy-and-paste-between-ios-and-windows/</link>
+      <description>
+        <![CDATA[The European Union&#8217;s Digital Markets Act keeps delivering for EU citizens. Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple&#8217;s EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan. ↫ Juli Clover at MacRumors According to Apple, this minor feature is going to cost Apple &#8220;significant engineering effort&#8221;; I&#8217;d estimate it&#8217;ll cost them about one to two golden statues.]]>
+      </description>
+      <source:markdown>The European Union’s Digital Markets Act keeps delivering for EU citizens. Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple’s EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan. ↫ Juli Clover at MacRumors According to Apple, this minor feature is going to cost Apple “significant engineering effort”; I’d estimate it’ll cost them about one to two golden statues.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145708</guid>
+      <category>Apple</category>
+    </item>    <item>
+      <title>IceWM 4.1.0 released</title>
+      <link>https://www.osnews.com/story/145703/icewm-4-1-0-released/</link>
+      <description>
+        <![CDATA[IceWM, the venerable X11 window manager, has put up a new maintenance release, version 4.1.0. It&#8217;s got a small number of fixes, two very minor new features, as well a few updated translations. That&#8217;s it.]]>
+      </description>
+      <source:markdown>IceWM, the venerable X11 window manager, has put up a new maintenance release, version 4.1.0. It’s got a small number of fixes, two very minor new features, as well a few updated translations. That’s it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145703</guid>
+      <category>Desktop environments</category>
+    </item>    <item>
       <title>Firebird Launches CIS Region’s Largest AI Factory in Armenia</title>
       <link>https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/</link>
       <description>
@@ -157,6 +175,15 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://www.nasa.gov/?p=1034329</guid>
       <category>Johnson Space Center</category>
       <category>General</category>
+    </item>    <item>
+      <title>APOD: 2026 August 7 – Rubin’s Cosmos Field</title>
+      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin’s COSMOS Field \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/</guid>
+      <category>APOD</category>
     </item>    <item>
       <title>APOD: 2026 August 7 – Rubin’s Cosmos Field</title>
       <link>https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/</link>
@@ -3360,15 +3387,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>It was only a few weeks ago that we got a massively improved Alpha emulator, capable of running VMS, Windows 2000, and Tru64, including X11 support and a variety of other exciting features. Today, we’ve got another major emulation milestone (update: sadly, with “AI” support, so odds are this will fizzle out. Bummer!). The emulation space is going crazy, after my previous post on Windows booting on DEC Alpha es40 emulator, there is now another huge breakthrough in the emulation of other non-x86 CPU emulation. Yufeng Gao with help from gdwnldsKSC (the man behind the updated es40-fork) has released version 0.1 of his Intel Itanium (IA-64) emulator that boots the Itanium version of Windows Server 2003 and Windows XP 64-bit. No OpenVMS or HP-UX yet and Linux/BSD also don’t boot. But Windows is amazing already. ↫ Remy van Elst Much like Alpha hardware, Itanium hardware is quite hard to come by – especially Itanium workstations are a nightmare to find; I think I’ve only ever seen one or two Itanium workstation come up for sale on eBay in recent years, and their rarity obviously commanded hefty prices. The sooner we are able to run Itanium version of operating systems comfortably in a virtualised environment the better. As long-time OSNews readers know, my heart beats for HP-UX, but the Itanium versions of Windows and VMS would be of more interest to most people, I’m sure. Excellent news.</source:markdown>
       <guid>cid://https://www.osnews.com/?p=145555</guid>
       <category>Hardware</category>
-    </item>    <item>
-      <title>Follow the money, especially in open source</title>
-      <link>https://www.osnews.com/story/145548/follow-the-money-especially-in-open-source/</link>
-      <description>
-        <![CDATA[Linus Torvalds, the creator of the Linux kernel and git, is employed by the Linux Foundation. This Foundation is a non-profit organisation dedicated to, as the name obviously implies, the promotion of Linux. The primary use of the funds it collects is to &#8220;help fund the infrastructure and fellows, including Linus Torvalds, who help develop the Linux kernel&#8221;. The list of megacorporations donating most of the Foundation&#8217;s funds is long. The Linux Foundation has twelve platinum members, which donate $500000 per year, followed by twelve gold members, who donate $100000 per year. Below these two primary tiers lie the silver peasants, who each donate $5000-$25000 per year, based on number of employees. Looking at the list of twelve platinum members, I noticed something interesting. Of the twelve platinum companies, six are &#8220;AI&#8221; companies or companies with massive investments in &#8220;AI&#8221;: Google, Huawei, Facebook, Microsoft, Oracle, and IBM/Red Hat. Then there&#8217;s Samsung Electronics, which is raking in stupendous amounts of money thanks to the &#8220;AI&#8221; bubble. Additionally, one of the gold members is Anthropic, another major &#8220;AI&#8221; company and makers of &#8220;Claude&#8221;, the sloppiest of slopcoding tools. Many of these companies are unimaginably deep in the red when it comes to &#8220;AI&#8221;, with very little indication they&#8217;re ever going to be able to recover any of it. The situation is particularly bad for Oracle and IBM/Red Hat. Oracle&#8217;s debt has been downgraded to one notch above junk status because of its &#8220;AI&#8221; spending, while IBM&#8217;s shares experienced the largest crash in its 115 year history only a few days ago. By the way, in the first half of 2025, &#8220;AI-related capital expenditures contributed 1.1% to  GDP growth, outpacing the U.S. consumer as an engine of expansion&#8221;. Fun fact: since most of The Netherlands is effectively a swamp, most of the country&#8217;s buildings are built on massive wooden or concrete poles (piles) hammered deep into the ground until they hit something more stable than mushy clay and wet sand. Otherwise, buildings in the country would simply sink into the ground. Every Dutch person who ever lived near a construction site has heard the rhythmic kathunk, kathunk, kathunk, all day long, as the massive piledriver machines spread their gospel. I guess something reminded me of this just now. Anyway, a large chunk of the funding the Linux Foundation, Linus Torvald&#8217;s employer, receives is coming from increasingly desperate companies frantically trying to convince a populace deeply skeptical and often downright hostile towards &#8220;AI&#8221; to spend money on &#8220;AI&#8221; before the bubble bursts. For some reason, I thought this was interesting.]]>
-      </description>
-      <source:markdown>Linus Torvalds, the creator of the Linux kernel and git, is employed by the Linux Foundation. This Foundation is a non-profit organisation dedicated to, as the name obviously implies, the promotion of Linux. The primary use of the funds it collects is to “help fund the infrastructure and fellows, including Linus Torvalds, who help develop the Linux kernel”. The list of megacorporations donating most of the Foundation’s funds is long. The Linux Foundation has twelve platinum members, which donate $500000 per year, followed by twelve gold members, who donate $100000 per year. Below these two primary tiers lie the silver peasants, who each donate $5000-$25000 per year, based on number of employees. Looking at the list of twelve platinum members, I noticed something interesting. Of the twelve platinum companies, six are “AI” companies or companies with massive investments in “AI”: Google, Huawei, Facebook, Microsoft, Oracle, and IBM/Red Hat. Then there’s Samsung Electronics, which is raking in stupendous amounts of money thanks to the “AI” bubble. Additionally, one of the gold members is Anthropic, another major “AI” company and makers of “Claude”, the sloppiest of slopcoding tools. Many of these companies are unimaginably deep in the red when it comes to “AI”, with very little indication they’re ever going to be able to recover any of it. The situation is particularly bad for Oracle and IBM/Red Hat. Oracle’s debt has been downgraded to one notch above junk status because of its “AI” spending, while IBM’s shares experienced the largest crash in its 115 year history only a few days ago. By the way, in the first half of 2025, “AI-related capital expenditures contributed 1.1% to GDP growth, outpacing the U.S. consumer as an engine of expansion”. Fun fact: since most of The Netherlands is effectively a swamp, most of the country’s buildings are built on massive wooden or concrete poles (piles) hammered deep into the ground until they hit something more stable than mushy clay and wet sand. Otherwise, buildings in the country would simply sink into the ground. Every Dutch person who ever lived near a construction site has heard the rhythmic kathunk, kathunk, kathunk, all day long, as the massive piledriver machines spread their gospel. I guess something reminded me of this just now. Anyway, a large chunk of the funding the Linux Foundation, Linus Torvald’s employer, receives is coming from increasingly desperate companies frantically trying to convince a populace deeply skeptical and often downright hostile towards “AI” to spend money on “AI” before the bubble bursts. For some reason, I thought this was interesting.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145548</guid>
-      <category>Linux</category>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>08 Aug 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>09 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Appraising a Derived-Evidence System</title>
+      <link>https://metaarchivist.substack.com/p/appraising-a-derived-evidence-system</link>
+      <description>
+        <![CDATA[A guide to scheduling systems that manufacture evidence]]>
+      </description>
+      <source:markdown>A guide to scheduling systems that manufacture evidence</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0CPV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe32be6f1-b5b5-4d16-9054-1f716c2844d6_1448x1086.png" length="0" type="image/jpeg" />
+      <guid>cid://https://metaarchivist.substack.com/p/appraising-a-derived-evidence-system</guid>
+    </item>    <item>
       <title>Roundup: MN: “Hennepin County Libraries to Limit Hours and Staffing” TX: “Dallas Libraries See Layoffs Ahead Of Budget Season With ‘No Sacred Cows&#39;”</title>
       <link>https://www.infodocket.com/2026/08/08/roundup-mn-hennepin-county-libraries-to-limit-hours-and-staffing-tx-dallas-libraries-see-layoffs-ahead-of-budget-season-with-no-sacred-cow/</link>
       <description>
@@ -1355,15 +1364,6 @@ The paper includes worked examples from the UK, Portugal, Canada, and South Afri
 
 Cite the paper as: Crossref (2026). _Persistent identifiers in research infrastructure policy: the need for a holistic approach_. Crossref Position Paper. [https://doi.org/10.13003/q4vu-l2mw](https://doi.org/10.13003/q4vu-l2mw)</source:markdown>
       <guid>cid://https://www.crossref.org/blog/why-pid-strategies-need-more-than-pids-our-first-position-paper/</guid>
-    </item>    <item>
-      <title>AI Search Is Rebundling Everything Libraries Know About Discovery</title>
-      <link>https://aarontay.substack.com/p/eleven-ways-of-looking-at-academic</link>
-      <description>
-        <![CDATA[Ten established traditions, an emerging eleventh, and why libraries need to have a more holistic view of discovery]]>
-      </description>
-      <source:markdown>Ten established traditions, an emerging eleventh, and why libraries need to have a more holistic view of discovery</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!bjVZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25741551-1d68-4d37-b1ef-880d97994e57_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/eleven-ways-of-looking-at-academic</guid>
     </item>
   </channel>
 </rss>

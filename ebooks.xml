@@ -4,10 +4,125 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>08 Aug 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>09 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Lain ja oikeuden nimessä : by Jukka Pohjola</title>
+      <link>https://www.gutenberg.org/ebooks/79309</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Kevät-unelmia by Leimu</title>
+      <link>https://www.gutenberg.org/ebooks/79311</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Titianin ensimäinen rakkaus by Z. Topelius</title>
+      <link>https://www.gutenberg.org/ebooks/79312</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Le comte de Monte-Cristo, Tome IV by Alexandre Dumas and Auguste Maquet</title>
+      <link>https://www.gutenberg.org/ebooks/17992</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Ruotsin salo-suomalaisia by Valdemar Lindholm</title>
+      <link>https://www.gutenberg.org/ebooks/79313</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>El Caballero de la Virgen : by Vicente Blasco Ibáñez</title>
+      <link>https://www.gutenberg.org/ebooks/79315</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Souvenirs entomologiques : by Jean-Henri Fabre</title>
+      <link>https://www.gutenberg.org/ebooks/79314</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Sonny by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79317</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Stations of the Cross : by Herbert Thurston</title>
+      <link>https://www.gutenberg.org/ebooks/79316</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Iimäellä : by Santeri Rissanen</title>
+      <link>https://www.gutenberg.org/ebooks/79307</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Lyyli : by Väinö Kolkkala</title>
+      <link>https://www.gutenberg.org/ebooks/79310</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>What to do in cases of accidents and emergencies : by J. B.  Lawrence</title>
+      <link>https://www.gutenberg.org/ebooks/79304</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ajanwiete lapsille by Jacob Tengström</title>
+      <link>https://www.gutenberg.org/ebooks/79306</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Boer concentration camps of Bermuda by John A.  Hassell</title>
+      <link>https://www.gutenberg.org/ebooks/79305</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kangastusta by Kyllikki Malisto</title>
+      <link>https://www.gutenberg.org/ebooks/79308</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Revolving Lights, by Dorothy M. Richardson</title>
+      <link>https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights</link>
+      <description>
+        <![CDATA[An independent woman and budding writer living in London at the dawn of the twentieth century ends a relationship with a Russian expatriate and visits her mentor and his wife at their country home.]]>
+      </description>
+      <source:markdown>An independent woman and budding writer living in London at the dawn of the twentieth century ends a relationship with a Russian expatriate and visits her mentor and his wife at their country home.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights/downloads/dorothy-m-richardson_revolving-lights.epub?source=feed" length="640526" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights</guid>
+      <category>Fiction</category>
+    </item>    <item>
       <title>Clay-shuttered doors by Helen R.  Hull</title>
       <link>https://www.gutenberg.org/ebooks/79294</link>
       <description>
@@ -1711,72 +1826,6 @@
     </item>    <item>
       <title>The oldest story in the world by Murray Leinster</title>
       <link>https://www.gutenberg.org/ebooks/79128</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Poetry, by Maria Lowell</title>
-      <link>https://standardebooks.org/ebooks/maria-lowell/poetry</link>
-      <description>
-        <![CDATA[A collection of poetry by abolitionist Maria Lowell, published posthumously.]]>
-      </description>
-      <source:markdown>A collection of poetry by abolitionist Maria Lowell, published posthumously.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/maria-lowell_poetry.epub?source=feed" length="377933" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/maria-lowell/poetry</guid>
-      <category>Poetry</category>
-    </item>    <item>
-      <title>Between Pike&#39;s Peak and a pickle by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79112</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Books in chains : by William Blades</title>
-      <link>https://www.gutenberg.org/ebooks/79115</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Die schöne Heimat: Bilder aus Deutschland</title>
-      <link>https://www.gutenberg.org/ebooks/79113</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The adventures of a donkey by Arabella Argus</title>
-      <link>https://www.gutenberg.org/ebooks/79114</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A literary history of Rome in the Silver Age : by J. Wight Duff</title>
-      <link>https://www.gutenberg.org/ebooks/79117</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mayerling by Claude Anet</title>
-      <link>https://www.gutenberg.org/ebooks/79119</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Atmosphere by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79116</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>On England : by Earl Stanley Baldwin Baldwin</title>
-      <link>https://www.gutenberg.org/ebooks/79118</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

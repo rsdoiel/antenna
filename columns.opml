@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>08 Aug 26 06:46 -0700</dateCreated>
+        <dateCreated>09 Aug 26 06:43 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -68,7 +68,7 @@
         <outline text="Cloud Four" type="rss" xmlUrl="https://cloudfour.com/feed/" htmlUrl="https://cloudfour.com,https://cloudfour.com/feed/" description="Responsive web design and development, progressive web apps" url="https://cloudfour.com/feed/"></outline>
         <outline text="Cobel Sasser&#39;s blog" type="rss" xmlUrl="https://cabel.com/feed/" htmlUrl="https://cabel.com,https://cabel.com/feed/" description="A blog by Cabel Sasser" url="https://cabel.com/feed/"></outline>
         <outline text="Coly blog (Golang web scraper library)" type="rss" xmlUrl="https://go-colly.org/articles/index.xml" htmlUrl="https://go-colly.org/articles/,https://go-colly.org/articles/index.xml" description="Recent content in Data scraping articles on Colly" url="https://go-colly.org/articles/index.xml"></outline>
-        <outline text="Conor O&#39;Niell&#39;s blog, Cross Dominant" type="rss" xmlUrl="https://conoroneill.net/index.xml" htmlUrl="https://conoroneill.net/,https://conoroneill.net/index.xml" description="Recent content on Mixed Laterality" url="https://conoroneill.net/index.xml"></outline>
+        <outline text="Conor O&#39;Niell&#39;s blog, Cross Dominant" type="rss" xmlUrl="https://conoroneill.net/index.xml" htmlUrl="http://localhost:1313/,http://localhost:1313/index.xml" description="Recent content on Mixed Laterality" url="http://localhost:1313/index.xml"></outline>
         <outline text="Conrad Barski" type="rss" xmlUrl="https://medium.com/feed/@conrad_9565" htmlUrl="https://medium.com/@conrad_9565?source=rss-da75e3799d70------2,https://medium.com/@conrad_9565/feed" description="Stories by Conrad Barski on Medium" url="https://medium.com/@conrad_9565/feed"></outline>
         <outline text="Cornell Controlled Environment Agriculture" type="rss" xmlUrl="https://cea.cals.cornell.edu/feed/" htmlUrl="https://cea.cals.cornell.edu,https://cea.cals.cornell.edu/feed/" url="https://cea.cals.cornell.edu/feed/"></outline>
         <outline text="Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net,https://pluralistic.net/feed/" description="No trackers, no ads. Black type, white background. Privacy policy: we don&#39;t collect or retain any data at all ever period." url="https://pluralistic.net/feed/"></outline>
