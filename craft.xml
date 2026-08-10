@@ -6,7 +6,7 @@
     <description><![CDATA[Craft is a list of hand oriented craft and technology
 Do we really need all those power tools?]]></description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>09 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>10 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -582,15 +582,6 @@ Luthier on Luthier is hosted by Michael Bashkin of [Bashkin Guitars](https://www
       <category>Shop Blog</category>
       <category>Podcast</category>
       <category>ShopNotes Podcast</category>
-    </item>    <item>
-      <title>Slöjd Key Fob from ‘Karvsnitt’</title>
-      <link>https://blog.lostartpress.com/2026/07/19/slojd-key-fob-from-karvsnitt/</link>
-      <description>
-        <![CDATA[The following is one of the projects in Jögge Sundqvist&#8217;s book “Karvsnitt: Carving, Pattern &#38; Color in the Slöjd Tradition” Cutting patterns and symbols in wood, and enhancing them with vibrant color, are folk traditions kept alive in the slöjd craft. Through decorations imbued with meaning, chip carving has given soul to slöjd woodcraft throughout...]]>
-      </description>
-      <source:markdown>The following is one of the projects in Jögge Sundqvist’s book “Karvsnitt: Carving, Pattern &#38; Color in the Slöjd Tradition” Cutting patterns and symbols in wood, and enhancing them with vibrant color, are folk traditions kept alive in the slöjd craft. Through decorations imbued with meaning, chip carving has given soul to slöjd woodcraft throughout...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70343</guid>
-      <category>Karvsnitt</category>
     </item>
   </channel>
 </rss>

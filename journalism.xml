@@ -4,17 +4,131 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>09 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>10 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Daily Bruin Print Issue – Aug. 9, 2026</title>
+      <link>https://dailybruin.com/2026/08/09/daily-bruin-print-issue-aug-9-2026/</link>
+      <description>
+        <![CDATA[The Daily Bruin publishes online issues weekly over the summer. You can view this week’s issue of The Bruin here.
+        ﻿]]>
+      </description>
+      <source:markdown>The Daily Bruin publishes online issues weekly over the summer. You can view this week’s issue of The Bruin here.
+﻿</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514039</guid>
+      <category>Print</category>
+      <category>db-story-h</category>
+    </item>    <item>
+      <title>Gallery: Fancy some more? PinkPantheress, Lucy Dacus, Malcolm Todd deliver on Outside Lands day 2</title>
+      <link>https://dailybruin.com/2026/08/09/gallery-fancy-some-more-pinkpantheress-lucy-dacus-malcolm-todd-deliver-on-outside-lands-day-2/</link>
+      <description>
+        <![CDATA[SAN FRANCISCO — PinkPantheress brought the energy “Stateside” on day two of Outside Lands.
+        The British singer-songwriter closed out the music festival’s second day with a thumping dance-pop setlist on the Sutro Stage.]]>
+      </description>
+      <source:markdown>SAN FRANCISCO — PinkPantheress brought the energy “Stateside” on day two of Outside Lands.
+The British singer-songwriter closed out the music festival’s second day with a thumping dance-pop setlist on the Sutro Stage.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514034</guid>
+      <category>Arts: In Focus</category>
+      <category>Daily Bruin: In Focus</category>
+      <category>db-story-m1</category>
+      <category>Outside Lands 2026</category>
+    </item>    <item>
+      <title>Five Things: UCLA football opens first fall camp practice of the Chesney era</title>
+      <link>https://dailybruin.com/2026/08/09/five-things-ucla-football-opens-first-fall-camp-practice-of-the-chesney-era/</link>
+      <description>
+        <![CDATA[<em>This post was updated Aug 9 at 6:58 p.m.</em>
+        UCLA football is just weeks away from opening its 2026 campaign Sept. 5 against California. The Bruins have been ramping up their fall practice camps in preparation for the opening kickoff, where first-year head coach Bob Chesney will make his first official calls for the squad.]]>
+      </description>
+      <source:markdown>_This post was updated Aug 9 at 6:58 p.m._
+UCLA football is just weeks away from opening its 2026 campaign Sept. 5 against California. The Bruins have been ramping up their fall practice camps in preparation for the opening kickoff, where first-year head coach Bob Chesney will make his first official calls for the squad.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513982</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>db-story-g</category>
+    </item>    <item>
+      <title>Q&#38;A: Faouzia talks ‘FILM NOIR’ era, onstage world-building</title>
+      <link>https://dailybruin.com/2026/08/09/qfilm-noir-era-onstage-world-building/</link>
+      <description>
+        <![CDATA[SAN FRANCISCO — For lovers of world-building, Faouzia proves fatal.
+        The Moroccan-Canadian artist released “FILM NOIR (fin)” – an extended version of her 2025 debut album – in June, which draws from the genre’s moody atmosphere.]]>
+      </description>
+      <source:markdown>SAN FRANCISCO — For lovers of world-building, Faouzia proves fatal.
+The Moroccan-Canadian artist released “FILM NOIR (fin)” – an extended version of her 2025 debut album – in June, which draws from the genre’s moody atmosphere.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513978</guid>
+      <category>Arts</category>
+      <category>Music</category>
+      <category>db-story-d1</category>
+      <category>Outside Lands 2026</category>
+    </item>    <item>
+      <title>Outside Lands 2026: Lucy Dacus, Malcolm Todd, PinkPantheress build atmosphere through haze on second day</title>
+      <link>https://dailybruin.com/2026/08/09/outside-lands-2026-lucy-dacus-malcolm-todd-pinkpantheress-build-atmosphere-through-haze-on-second-day/</link>
+      <description>
+        <![CDATA[SAN FRANCISCO — Chilly weather didn’t deter thousands of attendees from making their way to Golden Gate Park on day two of Outside Lands.
+        As another sold-out day of song unfolded, sets featured genre-bending songs, tracks and surprise guests with artists such as Charli xcx, who joined the Strokes for their headlining set, prompting cheers from the crowd.]]>
+      </description>
+      <source:markdown>SAN FRANCISCO — Chilly weather didn’t deter thousands of attendees from making their way to Golden Gate Park on day two of Outside Lands.
+As another sold-out day of song unfolded, sets featured genre-bending songs, tracks and surprise guests with artists such as Charli xcx, who joined the Strokes for their headlining set, prompting cheers from the crowd.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513970</guid>
+      <category>Arts</category>
+      <category>Music</category>
+      <category>db-story-f1</category>
+      <category>Outside Lands 2026</category>
+    </item>    <item>
+      <title>Malcolm Todd turns Outside Lands into a family affair</title>
+      <link>https://dailybruin.com/2026/08/09/malcolm-todd-turns-outside-lands-into-a-family-affair/</link>
+      <description>
+        <![CDATA[<em>This post was updated Aug 9 at 9:02 p.m.</em>
+        SAN FRANCISCO — Malcolm Todd brought a little romance to Golden Gate Park on Saturday.
+        The Los Angeles-based artist opened his set beneath a staggering screen awash in red.]]>
+      </description>
+      <source:markdown>_This post was updated Aug 9 at 9:02 p.m._
+SAN FRANCISCO — Malcolm Todd brought a little romance to Golden Gate Park on Saturday.
+The Los Angeles-based artist opened his set beneath a staggering screen awash in red.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513952</guid>
+      <category>Arts</category>
+      <category>Music</category>
+      <category>db-story-c1</category>
+      <category>Outside Lands 2026</category>
+    </item>    <item>
+      <title>Pro Bruin Rundown: Former UCLA men’s volleyball stars earn silver at Volleyball Nations League</title>
+      <link>https://dailybruin.com/2026/08/09/pro-bruin-rundown-former-ucla-mens-volleyball-stars-earn-silver-at-volleyball-nations-league/</link>
+      <description>
+        <![CDATA[<em>This post was updated Aug. 9 at 7:01 p.m.</em>
+        As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams.]]>
+      </description>
+      <source:markdown>_This post was updated Aug. 9 at 7:01 p.m._
+As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins, past and present, representing their teams.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513945</guid>
+      <category>Men&#39;s Volleyball</category>
+      <category>Sports</category>
+      <category>db-story-a</category>
+    </item>    <item>
+      <title>Opinion: UCLA students should prepare thoroughly for finance jobs by learning the hiring process</title>
+      <link>https://dailybruin.com/2026/08/09/opinion-ucla-students-should-prepare-thoroughly-for-finance-jobs-by-learning-the-hiring-process/</link>
+      <description>
+        <![CDATA[Students with aspirations in finance frantically refresh job portals, treating the application as the starting line. 
+        But it isn&#8217;t. 
+        By the time these finance portals go live, the students most likely to land offers have already spent months or years doing the quiet work that never shows up on a resume.]]>
+      </description>
+      <source:markdown>Students with aspirations in finance frantically refresh job portals, treating the application as the starting line.
+But it isn’t.
+By the time these finance portals go live, the students most likely to land offers have already spent months or years doing the quiet work that never shows up on a resume.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=513934</guid>
+      <category>Opinion</category>
+      <category>Opinion Columns</category>
+      <category>db-story-d2</category>
+      <category>db-story-op</category>
+    </item>    <item>
       <title>UC’s consideration of standardized testing return raises preparedness questions</title>
       <link>https://dailybruin.com/2026/08/08/ucs-consideration-of-standardized-testing-return-raises-preparedness-questions/</link>
       <description>
-        <![CDATA[The UC&#8217;s decision to reconsider standardized testing requirements has reignited a debate over students&#8217; readiness. 
-        More than 3,000 UC STEM faculty members signed a May letter calling on the University to reconsider standardized testing amid concerns about students&#8217; preparedness in math, writing and verbal reasoning.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 6:37 p.m.</em>
+        The UC’s decision to reconsider standardized testing requirements has reignited a debate over students’ readiness.
+        More than 3,000 UC STEM faculty members signed a May letter calling on the University to reconsider standardized testing amid concerns about students’ preparedness in math, writing and verbal reasoning.]]>
       </description>
-      <source:markdown>The UC’s decision to reconsider standardized testing requirements has reignited a debate over students’ readiness.
+      <source:markdown>_This post was updated Aug. 9 at 6:37 p.m._
+The UC’s decision to reconsider standardized testing requirements has reignited a debate over students’ readiness.
 More than 3,000 UC STEM faculty members signed a May letter calling on the University to reconsider standardized testing amid concerns about students’ preparedness in math, writing and verbal reasoning.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513930</guid>
       <category>Academics</category>
@@ -41,69 +155,72 @@ The annual music festival filled the sky with strobe lights, pyrotechnics and it
       <title>Outside Lands 2026: GloRilla, Labrinth, Charli xcx electrify opening day in San Francisco</title>
       <link>https://dailybruin.com/2026/08/08/outside-lands-2026-glorilla-labrinth-charli-xcx-electrify-opening-day-in-san-francisco/</link>
       <description>
-        <![CDATA[SAN FRANCISCO &#8212; Outside Lands opened its three-day run beneath hazy skies as Golden Gate Park&#8217;s sprawling meadows once again hosted one of the country&#8217;s largest music festivals.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 1:13 p.m.</em>
+        SAN FRANCISCO – Outside Lands opened its three-day run beneath hazy skies as Golden Gate Park’s sprawling meadows once again hosted one of the country’s largest music festivals.]]>
       </description>
-      <source:markdown>SAN FRANCISCO — Outside Lands opened its three-day run beneath hazy skies as Golden Gate Park’s sprawling meadows once again hosted one of the country’s largest music festivals.</source:markdown>
+      <source:markdown>_This post was updated Aug. 9 at 1:13 p.m._
+SAN FRANCISCO – Outside Lands opened its three-day run beneath hazy skies as Golden Gate Park’s sprawling meadows once again hosted one of the country’s largest music festivals.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513907</guid>
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Music</category>
-      <category>db-story-c2</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>Bruin Theater to reopen in the fall after 2-year wait</title>
       <link>https://dailybruin.com/2026/08/08/bruin-theater-to-reopen-in-the-fall-after-2-year-wait/</link>
       <description>
-        <![CDATA[A historic single-screen theater in Westwood will reopen as soon as October after a more than two-year wait.
-        The Bruin Theater closed alongside the Westwood Village Theater &#8211; now known as the Directors Village &#8211; in July 2024 after both buildings&#8217; leases expired.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 6:25 p.m.</em>
+        A historic single-screen theater in Westwood will reopen as soon as October after a more than two-year wait.]]>
       </description>
-      <source:markdown>A historic single-screen theater in Westwood will reopen as soon as October after a more than two-year wait.
-The Bruin Theater closed alongside the Westwood Village Theater – now known as the Directors Village – in July 2024 after both buildings’ leases expired.</source:markdown>
+      <source:markdown>_This post was updated Aug. 9 at 6:25 p.m._
+A historic single-screen theater in Westwood will reopen as soon as October after a more than two-year wait.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513900</guid>
       <category>News</category>
       <category>Westwood</category>
-      <category>db-story-b</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>UC President Milliken urges Congress to address federal grant delays</title>
       <link>https://dailybruin.com/2026/08/08/uc-president-milliken-urges-congress-to-address-federal-grant-delays/</link>
       <description>
-        <![CDATA[UC President James Milliken urged Congress to address federal research grant disbursement delays in a July 29 letter.
-        Grant disbursement delays have disproportionately impacted UC researchers because the University is a top recipient of federal research grants from the National Institutes of Health and the National Science Foundation, Milliken said in the letter to the California Congressional delegation.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 6:40 p.m.</em>
+        UC President James Milliken urged Congress to address federal research grant disbursement delays in a July 29 letter.]]>
       </description>
-      <source:markdown>UC President James Milliken urged Congress to address federal research grant disbursement delays in a July 29 letter.
-Grant disbursement delays have disproportionately impacted UC researchers because the University is a top recipient of federal research grants from the National Institutes of Health and the National Science Foundation, Milliken said in the letter to the California Congressional delegation.</source:markdown>
+      <source:markdown>_This post was updated Aug. 9 at 6:40 p.m._
+UC President James Milliken urged Congress to address federal research grant disbursement delays in a July 29 letter.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513896</guid>
       <category>Higher Education</category>
       <category>News</category>
       <category>UC</category>
-      <category>db-story-c1</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>Charli xcx headlines opening night at Outside Lands with era-bridging set</title>
       <link>https://dailybruin.com/2026/08/08/charli-xcx-headlines-opening-night-at-outside-lands-with-era-bridging-set/</link>
       <description>
-        <![CDATA[SAN FRANCISCO &#8212; Charli xcx&#8217;s Outside Lands debut began with a voice in the dark.
+        <![CDATA[<em>This post was updated Aug. 9 at 5:19 p.m.</em>
+        SAN FRANCISCO – Charli xcx’s Outside Lands debut began with a voice in the dark.
         Pulsing synths boomed and flashing lights erupted across screens on Lands End stage.]]>
       </description>
-      <source:markdown>SAN FRANCISCO — Charli xcx’s Outside Lands debut began with a voice in the dark.
+      <source:markdown>_This post was updated Aug. 9 at 5:19 p.m._
+SAN FRANCISCO – Charli xcx’s Outside Lands debut began with a voice in the dark.
 Pulsing synths boomed and flashing lights erupted across screens on Lands End stage.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513887</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-a</category>
+      <category>db-story-g</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>Big Blue Bus to cease service to Hilgard Terminal, Gayley Avenue stops</title>
       <link>https://dailybruin.com/2026/08/08/big-blue-bus-to-cease-service-to-hilgard-terminal-gayley-avenue-stops/</link>
       <description>
-        <![CDATA[Santa Monica buses will no longer serve stops along Gayley Avenue and Hilgard Avenue and will move to more central locations on campus starting Sunday.
-        The Big Blue Bus will no longer stop at Hilgard Terminal, the previous terminus for Routes 1, 2 and 8, located on Hilgard Avenue and Strathmore Drive.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 6:29 p.m.</em>
+        Santa Monica buses will no longer serve stops along Gayley Avenue and Hilgard Avenue and will move to more central locations on campus starting Sunday.]]>
       </description>
-      <source:markdown>Santa Monica buses will no longer serve stops along Gayley Avenue and Hilgard Avenue and will move to more central locations on campus starting Sunday.
-The Big Blue Bus will no longer stop at Hilgard Terminal, the previous terminus for Routes 1, 2 and 8, located on Hilgard Avenue and Strathmore Drive.</source:markdown>
+      <source:markdown>_This post was updated Aug. 9 at 6:29 p.m._
+Santa Monica buses will no longer serve stops along Gayley Avenue and Hilgard Avenue and will move to more central locations on campus starting Sunday.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513882</guid>
       <category>News</category>
       <category>Transportation</category>
-      <category>db-story-f1</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Book review: Mariam Rahmani’s ‘Liquid’ lacks fluidity in its traversal through storylines</title>
       <link>https://dailybruin.com/2026/08/07/book-review-mariam-rahmanis-liquid-lacks-fluidity-in-its-traversal-through-storylines/</link>
@@ -124,50 +241,54 @@ Published in March 2025, Rahmani’s novel begins as a satirical contemporary ro
       <title>Roster Reset: Returners, transfers make up bulk of UCLA men’s soccer’s 2026 team</title>
       <link>https://dailybruin.com/2026/08/07/roster-reset-returners-transfers-make-up-bulk-of-ucla-mens-soccers-2026-team/</link>
       <description>
-        <![CDATA[UCLA men&#8217;s soccer is set to kick off its 2026 season, with exhibition play starting Friday and the official regular season beginning Aug. 20. The reigning Big Ten Tournament champions return to defend their crown with a lineup consisting of incoming freshmen, transfers and returners.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 7:04 p.m.</em>
+        UCLA men’s soccer is set to kick off its 2026 season, with exhibition play starting Friday and the official regular season beginning Aug.]]>
       </description>
-      <source:markdown>UCLA men’s soccer is set to kick off its 2026 season, with exhibition play starting Friday and the official regular season beginning Aug. 20. The reigning Big Ten Tournament champions return to defend their crown with a lineup consisting of incoming freshmen, transfers and returners.</source:markdown>
+      <source:markdown>_This post was updated Aug. 9 at 7:04 p.m._
+UCLA men’s soccer is set to kick off its 2026 season, with exhibition play starting Friday and the official regular season beginning Aug.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513872</guid>
       <category>Men&#39;s Soccer</category>
       <category>Sports</category>
-      <category>db-story-f2</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>Directors Village theater draws crowds for ‘The Odyssey’ ahead of 2027 reopening</title>
       <link>https://dailybruin.com/2026/08/07/directors-village-theater-draws-crowds-for-the-odyssey-ahead-of-2027-reopening/</link>
       <description>
-        <![CDATA[<em>This post was updated Aug 7 at 7:18 p.m.</em>
+        <![CDATA[<em>This post was updated Aug 9 at 1:16 p.m.</em>
         Two hours before the movie even began, hundreds of excited moviegoers were lined up to see “The Odyssey” at the newly renovated Fox Westwood Village Theater.]]>
       </description>
-      <source:markdown>_This post was updated Aug 7 at 7:18 p.m._
+      <source:markdown>_This post was updated Aug 9 at 1:16 p.m._
 Two hours before the movie even began, hundreds of excited moviegoers were lined up to see “The Odyssey” at the newly renovated Fox Westwood Village Theater.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513867</guid>
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
       <category>Theater &#38; Fine Arts</category>
-      <category>db-story-g</category>
+      <category>db-story-j</category>
     </item>    <item>
       <title>Q&#38;A: Dr. Robert Kim-Farley says anti-vaccination movement could spread more than just misinformation</title>
       <link>https://dailybruin.com/2026/08/07/qa-dr-robert-kim-farley-says-anti-vaccination-movement-could-spread-more-than-just-misinformation/</link>
       <description>
-        <![CDATA[Measles cases in the United States have reached a new peak since the 1990s amid falling national vaccination rates.
-        Dr. Robert Kim-Farley, a professor-in-residence in the epidemiology and community health sciences departments at the UCLA Fielding School of Public Health, sat down with Daily Bruin reporter Catherine Wang for National Immunization Awareness Month to share his concerns about &#8211; and advice on how to navigate &#8211; rising vaccine misinformation.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 6:48 p.m.</em>
+        Measles cases in the United States have reached a new peak since the 1990s amid falling national vaccination rates.]]>
       </description>
-      <source:markdown>Measles cases in the United States have reached a new peak since the 1990s amid falling national vaccination rates.
-Dr. Robert Kim-Farley, a professor-in-residence in the epidemiology and community health sciences departments at the UCLA Fielding School of Public Health, sat down with Daily Bruin reporter Catherine Wang for National Immunization Awareness Month to share his concerns about – and advice on how to navigate – rising vaccine misinformation.</source:markdown>
+      <source:markdown>_This post was updated Aug. 9 at 6:48 p.m._
+Measles cases in the United States have reached a new peak since the 1990s amid falling national vaccination rates.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513863</guid>
       <category>A Closer Look</category>
       <category>Academics</category>
       <category>News</category>
       <category>Science &#38; Health</category>
-      <category>db-story-d2</category>
+      <category>db-story-k</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Purdue</title>
       <link>https://dailybruin.com/2026/08/06/2026-big-ten-preview-purdue/</link>
       <description>
-        <![CDATA[UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships &#8211; the most of any Big Ten school.]]>
+        <![CDATA[<em>This post was updated Aug. 9 at 6:55 p.m.</em>
+        UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any Big Ten school.]]>
       </description>
-      <source:markdown>UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any Big Ten school.</source:markdown>
+      <source:markdown>_This post was updated Aug. 9 at 6:55 p.m._
+UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any Big Ten school.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=513853</guid>
       <category>Football</category>
       <category>Men&#39;s Basketball</category>
@@ -1461,57 +1582,6 @@ For the first time since 2023, UCLA men’s basketball brought in a five-star fr
       <category>Sports</category>
       <category>Sports Columns</category>
       <category>db-story-i</category>
-    </item>    <item>
-      <title>2026 Big Ten Preview: Washington</title>
-      <link>https://dailybruin.com/2026/07/19/2026-big-ten-preview-washington/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 20 at 12:06 p.m.</em>
-        UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.]]>
-      </description>
-      <source:markdown>_This post was updated July 20 at 12:06 p.m._
-UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513367</guid>
-      <category>Sports</category>
-      <category>db-story-h</category>
-    </item>    <item>
-      <title>Opinion: Finding an internship feels impossible. UCLA must fix that</title>
-      <link>https://dailybruin.com/2026/07/19/opinion-finding-an-internship-feels-impossible-ucla-must-fix-that/</link>
-      <description>
-        <![CDATA[The smell of chlorine hits my nose before the water does, waking me up for my morning shift at the pool.
-        I&#8217;m a lifeguard in my hometown.]]>
-      </description>
-      <source:markdown>The smell of chlorine hits my nose before the water does, waking me up for my morning shift at the pool.
-I’m a lifeguard in my hometown.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513363</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-h</category>
-      <category>db-story-op</category>
-    </item>    <item>
-      <title>North Westwood Neighborhood Council recap – July 1</title>
-      <link>https://dailybruin.com/2026/07/18/north-westwood-neighborhood-council-recap-july-1-2/</link>
-      <description>
-        <![CDATA[The North Westwood Neighborhood Council elected two board members and passed a community impact statement in support of taxing future Olympic ticket purchases at its July meeting.]]>
-      </description>
-      <source:markdown>The North Westwood Neighborhood Council elected two board members and passed a community impact statement in support of taxing future Olympic ticket purchases at its July meeting.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513358</guid>
-      <category>News</category>
-      <category>Westwood</category>
-      <category>db-story-d1</category>
-    </item>    <item>
-      <title>Film review: Christopher Nolan’s new film is an ‘Odyssey’ worth the adventure</title>
-      <link>https://dailybruin.com/2026/07/18/film-review-christopher-nolans-new-film-is-an-odyssey-worth-the-adventure/</link>
-      <description>
-        <![CDATA[A man. A thought. A war. In a time of apparent magic, “The Odyssey” proves the ancient tale is still worth retelling.
-        Christopher Nolan’s 2026 action-adventure blockbuster adapts the millennia-old Homeric poem like never before.]]>
-      </description>
-      <source:markdown>A man. A thought. A war. In a time of apparent magic, “The Odyssey” proves the ancient tale is still worth retelling.
-Christopher Nolan’s 2026 action-adventure blockbuster adapts the millennia-old Homeric poem like never before.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513351</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Film &#38; TV</category>
-      <category>db-story-j</category>
     </item>
   </channel>
 </rss>

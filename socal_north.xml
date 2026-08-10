@@ -5,10 +5,34 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>09 Aug 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>10 Aug 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Trump administration proposes deregulating Head Start. Here’s what parents need to know</title>
+      <link>https://laist.com/news/education/early-childhood-education-pre-k/trump-administration-proposes-deregulating-head-start-heres-what-parents-need-to-know</link>
+      <description>
+        <![CDATA[The proposed changes still need to go through review, including a 60-day comment period. Providers say Head Starts are operating as usual]]>
+      </description>
+      <source:markdown>The proposed changes still need to go through review, including a 60-day comment period. Providers say Head Starts are operating as usual</source:markdown>
+      <guid>cid://urn:uuid:0000019f-de2b-d68f-a99f-fe3f58530000</guid>
+    </item>    <item>
+      <title>Long Beach plans to cut library hours, staff even as workers say demand is soaring</title>
+      <link>https://laist.com/news/long-beach-plans-to-cut-library-hours-staff-even-as-workers-say-demand-is-soaring</link>
+      <description>
+        <![CDATA[A city budget proposal would shutter libraries on Mondays and lay off over a dozen library workers.]]>
+      </description>
+      <source:markdown>A city budget proposal would shutter libraries on Mondays and lay off over a dozen library workers.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-e789-dab7-af9f-f7f94a930000</guid>
+    </item>    <item>
+      <title>How the LA fires turned a composer&#39;s 20-year dream into an anthem for firefighters</title>
+      <link>https://laist.com/news/los-angeles-activities/fireman-prayer-charles-henri-avelange-composer</link>
+      <description>
+        <![CDATA[Charles-Henri Avelange spent almost 20 years trying to turn the firefighters' creed into an anthem. It took 90 Hollywood musicians — and the L.A. fires — to finish part of it.]]>
+      </description>
+      <source:markdown>Charles-Henri Avelange spent almost 20 years trying to turn the firefighters&#39; creed into an anthem. It took 90 Hollywood musicians — and the L.A. fires — to finish part of it.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-d89f-d36c-a3bf-fcdfc8c20000</guid>
+    </item>    <item>
       <title>Inglewood is bulldozing a shopping center with more than 20 businesses for a stadium shuttle system</title>
       <link>https://laist.com/news/transportation/inglewood-is-bulldozing-a-shopping-center-with-more-than-20-businesses-for-a-stadium-shuttle-system</link>
       <description>
@@ -24,14 +48,6 @@
       </description>
       <source:markdown>A survey of nearly 50 businesses near East Cesar E. Chavez and Eastern avenues found revenue dropped 70% to 75% in the days after the spill, county officials said.</source:markdown>
       <guid>cid://urn:uuid:0000019f-e2a3-dc2b-a3bf-f3ef0eb10000</guid>
-    </item>    <item>
-      <title>How the LA fires turned a composer&#39;s 20-year dream into an anthem for firefighters</title>
-      <link>https://laist.com/news/los-angeles-activities/fireman-prayer-charles-henri-avelange-composer</link>
-      <description>
-        <![CDATA[Charles-Henri Avelange spent almost 20 years trying to turn the firefighters' creed into an anthem. It took 90 Hollywood musicians — and the L.A. fires — to finish part of it.]]>
-      </description>
-      <source:markdown>Charles-Henri Avelange spent almost 20 years trying to turn the firefighters&#39; creed into an anthem. It took 90 Hollywood musicians — and the L.A. fires — to finish part of it.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-d89f-d36c-a3bf-fcdfc8c20000</guid>
     </item>    <item>
       <title>Your Guide to Everything Santa Clarita</title>
       <link>https://santaclarita.gov/blog/2026/08/08/your-guide-to-everything-santa-clarita/</link>
@@ -1293,7 +1309,7 @@ The post [Update: FIFA Cancels Proposed Investment Scheme After Global Outrage, 
       <source:markdown>A fast-moving blaze near Yosemite is testing California’s quiet fire season. New research shows heat waves drive nearly half of summer wildfire acreage — here’s why.</source:markdown>
       <guid>cid://urn:uuid:0000019f-b427-d36c-a3bf-bce78b650000</guid>
     </item>    <item>
-      <title>Here&#39;s what&#39;s next for the land bought by Big Bear’s $10 million fundraiser as Jackie recovers</title>
+      <title>A look at the land bought by Big Bear’s $10 million fundraiser as Jackie recovers</title>
       <link>https://laist.com/news/climate-environment/big-bear-land-fundraiser-next-steps-jackie-recovery</link>
       <description>
         <![CDATA[The tree-lined acres along Big Bear Lake will be essentially untouched for the plants and wildlife who call the habitat home, according to environmental organizations.]]>
@@ -2915,54 +2931,6 @@ The post [L.A.’s 13 Best Donuts Shops, From Long Beach to Eagle Rock](https://
       </description>
       <source:markdown>Populations of two disease-carrying mosquito species are concerning public health officials, who are employing new strategies to reduce their populations.</source:markdown>
       <guid>cid://urn:uuid:0000019f-7280-d888-a59f-7f92ddf30000</guid>
-    </item>    <item>
-      <title>Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title</title>
-      <link>https://laist.com/news/spain-is-the-2026-world-cup-champion-defeating-argentina-for-its-2nd-title</link>
-      <description>
-        <![CDATA[Spain's run to the title was a defensive masterclass, with wins over four of the world's top 10 teams.]]>
-      </description>
-      <source:markdown>Spain&#39;s run to the title was a defensive masterclass, with wins over four of the world&#39;s top 10 teams.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-7c6b-df40-addf-7c7bd8380001</guid>
-    </item>    <item>
-      <title>MLS works to bring in a new generation of fans as the World Cup comes to an end</title>
-      <link>https://laist.com/news/mls-works-to-bring-in-a-new-generation-of-fans-as-the-world-cup-comes-to-an-end</link>
-      <description>
-        <![CDATA[In 1994, the last men's World Cup the U.S. hosted sparked soccer fever. Now, can MLS harness this World Cup for a new generation of fans?]]>
-      </description>
-      <source:markdown>In 1994, the last men&#39;s World Cup the U.S. hosted sparked soccer fever. Now, can MLS harness this World Cup for a new generation of fans?</source:markdown>
-      <guid>cid://urn:uuid:0000019f-7b76-d465-a9ff-fbf6bea00000</guid>
-    </item>    <item>
-      <title>Long Beach uses millions from emergency reserves, braces for ‘difficult changes’ ahead</title>
-      <link>https://laist.com/news/long-beach-uses-millions-from-emergency-reserves-braces-for-difficult-changes-ahead</link>
-      <description>
-        <![CDATA[The city of Long Beach plans to dip into its emergency reserves to balance its books this year as lagging tax revenue and rising expenses worsen its financial position.]]>
-      </description>
-      <source:markdown>The city of Long Beach plans to dip into its emergency reserves to balance its books this year as lagging tax revenue and rising expenses worsen its financial position.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-7adc-d465-a9ff-fafe4ee30000</guid>
-    </item>    <item>
-      <title>Wrapping a gift with love, the Korean way — learn the art of bojagi for free in LA</title>
-      <link>https://laist.com/news/los-angeles-activities/wrapping-a-gift-with-love-the-korean-way-learn-the-art-of-bojagi-for-free-in-la</link>
-      <description>
-        <![CDATA[Los Angeles Public Library is offering free classes in Koreatown on Mondays this month. Event is currently waitlisted but future workshops are in the works.]]>
-      </description>
-      <source:markdown>Los Angeles Public Library is offering free classes in Koreatown on Mondays this month. Event is currently waitlisted but future workshops are in the works.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-6cf4-d888-a59f-7ff6a8a10000</guid>
-    </item>    <item>
-      <title>One family, two art forms: Maestro James Conlon and grand nephew Sebastian talk opera and soccer</title>
-      <link>https://laist.com/news/los-angeles-activities/james-conlon-sebastian-opera-la-galaxy</link>
-      <description>
-        <![CDATA[James Conlon leaves L.A. as his grand-nephew Sebastian arrives as a newly-drafted MLS goalie.]]>
-      </description>
-      <source:markdown>James Conlon leaves L.A. as his grand-nephew Sebastian arrives as a newly-drafted MLS goalie.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-62cb-de73-a19f-e2ebdbe20000</guid>
-    </item>    <item>
-      <title>The World Cup has come and gone. LA loved the tournament, with some hiccups</title>
-      <link>https://laist.com/news/los-angeles-activities/fifa-2026-world-cup-los-angeles-roundup</link>
-      <description>
-        <![CDATA[Public transit and free city watch parties shined during this year's tournament. FIFA — with its corporate sponsors and official fan events — had a more lukewarm reception.]]>
-      </description>
-      <source:markdown>Public transit and free city watch parties shined during this year&#39;s tournament. FIFA — with its corporate sponsors and official fan events — had a more lukewarm reception.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-6c18-dfd2-abbf-fd99244b0000</guid>
     </item>
   </channel>
 </rss>

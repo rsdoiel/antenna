@@ -4,10 +4,66 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>09 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>10 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The black cat, vol. I, no. 4, January 1896 by Various</title>
+      <link>https://www.gutenberg.org/ebooks/79322</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;abbé Jules by Octave Mirbeau</title>
+      <link>https://www.gutenberg.org/ebooks/79320</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The Good Soldier by Ford Madox Ford</title>
+      <link>https://www.gutenberg.org/ebooks/2775</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mémoires de Beaumarchais; vol 1 by Pierre Augustin Caron de Beaumarchais</title>
+      <link>https://www.gutenberg.org/ebooks/79323</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>U.S. Copyright Renewals 1950 - 1977 by Library of Congress. Copyright Office</title>
+      <link>https://www.gutenberg.org/ebooks/11800</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Clare Abbey, volume 1 (of 2) : by Lady Emily Ponsonby</title>
+      <link>https://www.gutenberg.org/ebooks/79321</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Clare Abbey, volume 2 (of 2) : by Lady Emily Ponsonby</title>
+      <link>https://www.gutenberg.org/ebooks/79324</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The idyl of the split-bamboo : by George Parker Holden</title>
+      <link>https://www.gutenberg.org/ebooks/79319</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Lain ja oikeuden nimessä : by Jukka Pohjola</title>
       <link>https://www.gutenberg.org/ebooks/79309</link>
       <description>
@@ -1721,111 +1777,6 @@
     </item>    <item>
       <title>No wonder by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79138</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The face in the abyss by Abraham Merritt</title>
-      <link>https://www.gutenberg.org/ebooks/79106</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>In the land of the gods: some stories of Japan by Alice Mabel Bacon</title>
-      <link>https://www.gutenberg.org/ebooks/79121</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Figures of speech by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79120</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>At the Back of the North Wind by George MacDonald</title>
-      <link>https://www.gutenberg.org/ebooks/225</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Krakatit by Karel Čapek</title>
-      <link>https://www.gutenberg.org/ebooks/79127</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Thorstein of the mere : by W. G.  Collingwood</title>
-      <link>https://www.gutenberg.org/ebooks/79129</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Das rote Zimmer by August Strindberg</title>
-      <link>https://www.gutenberg.org/ebooks/79123</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The Ballad of Reading Gaol by Oscar Wilde</title>
-      <link>https://www.gutenberg.org/ebooks/301</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The best jokes about preachers :</title>
-      <link>https://www.gutenberg.org/ebooks/79124</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Best jokes of 1927 :</title>
-      <link>https://www.gutenberg.org/ebooks/79125</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Thorns of regret : by Mrs. Alex. McVeigh Miller</title>
-      <link>https://www.gutenberg.org/ebooks/79130</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Mouse Miller and other stories by Cooke Don-Carlos</title>
-      <link>https://www.gutenberg.org/ebooks/79122</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Kingfisher by Phyllis Bottome</title>
-      <link>https://www.gutenberg.org/ebooks/79126</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass</title>
-      <link>https://www.gutenberg.org/ebooks/23</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The oldest story in the world by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79128</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

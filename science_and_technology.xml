@@ -4,10 +4,83 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>09 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>10 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>First version of Word for Windows ported to modern 64bit Windows</title>
+      <link>https://www.osnews.com/story/145715/first-version-of-word-for-windows-ported-to-modern-64bit-windows/</link>
+      <description>
+        <![CDATA[Back in 2014, Microsoft released the source code to the first Windows version of Word, version 1.1a. Now, Justin Marshall has ported this code to modern versions of Windows, so you can run it as if it were any other modern application. This project is a fully working native Windows x64 port of Microsoft Word for Windows 1.1a, whose historical codename was Opus. It builds the original Word source and resources together with modern replacements for the 16-bit assembly, segmented-memory, and Win16 platform boundaries. The result is the original Word application and user experience running as a 64-bit Windows executable. This is not an emulator or a reimplementation using a modern editor control. ↫ Justin Marshall Neat endeavour.]]>
+      </description>
+      <source:markdown>Back in 2014, Microsoft released the source code to the first Windows version of Word, version 1.1a. Now, Justin Marshall has ported this code to modern versions of Windows, so you can run it as if it were any other modern application. This project is a fully working native Windows x64 port of Microsoft Word for Windows 1.1a, whose historical codename was Opus. It builds the original Word source and resources together with modern replacements for the 16-bit assembly, segmented-memory, and Win16 platform boundaries. The result is the original Word application and user experience running as a 64-bit Windows executable. This is not an emulator or a reimplementation using a modern editor control. ↫ Justin Marshall Neat endeavour.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145715</guid>
+      <category>Office</category>
+    </item>    <item>
+      <title>Idol Mahjong Final Romance: a slideshow disguised as a video game</title>
+      <link>https://www.osnews.com/story/145713/idol-mahjong-final-romance-a-slideshow-disguised-as-a-video-game/</link>
+      <description>
+        <![CDATA[Top supplier of great articles Nicole Branagan is at it again. We’re back into the strip mahjong games today, here going back to 1991. Video System is a company that’s probably best known in retro-gaming circles for Aero Fighters/Sonic Wings, but mahjong games (usually branded Idol Mahjong) were one of their bigger moneymakers. And there’s something interesting going on here– Idol Mahjong Final Romance 2-R-4 Special re-releases the final three games in the series, which all also got contemporary console releases, but the first game in the series has never been seen outside of its original arcade launch. Why? ↫ Nicole Branagan Look, you&#8217;re not going to get something like this from anyone else.]]>
+      </description>
+      <source:markdown>Top supplier of great articles Nicole Branagan is at it again. We’re back into the strip mahjong games today, here going back to 1991. Video System is a company that’s probably best known in retro-gaming circles for Aero Fighters/Sonic Wings, but mahjong games (usually branded Idol Mahjong) were one of their bigger moneymakers. And there’s something interesting going on here– Idol Mahjong Final Romance 2-R-4 Special re-releases the final three games in the series, which all also got contemporary console releases, but the first game in the series has never been seen outside of its original arcade launch. Why? ↫ Nicole Branagan Look, you’re not going to get something like this from anyone else.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145713</guid>
+      <category>Games</category>
+    </item>    <item>
+      <title>Mirror cells could threaten life on Earth. Why are we building them?</title>
+      <link>https://www.npr.org/2026/08/10/nx-s1-5923990/mirror-cells-warning-life-earth</link>
+      <description>
+        <![CDATA[For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.<br/><br/>The rules of life are based on this chemistry.<br/><br/>In recent years, scientists have worked toward a kind of mirror version of life. Currently, the technology doesn't exist to make mirror life at the cellular level — and likely won't for at least a decade. Still, a group of scientists is concerned enough about the possibility that they've published a <a href="https://purl.stanford.edu/cv716pj4036"target="_blank"   >299-page technical report</a> calling for a stop to the science.<br/><br/>In this encore episode for our Tech Camp series, host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina Barber</a> talks to <a href="https://www.nytimes.com/by/carl-zimmer"target="_blank"   >Carl Zimmer</a>, a science reporter at The New York Times, about his reporting on mirror cells — and why creating them could lead to devastating consequences for life on Earth.<br/><br/><strong>Check out Carl's </strong><a href="https://www.nytimes.com/2024/12/12/science/mirror-life-microbes-research.html"target="_blank"   ><strong>full article</strong></a><strong>.</strong><br/><br/><em>Curious about other controversial research? Email us at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org/"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>For people with two hands, one is usually dominant. On a molecular level, earthly life takes this to the extreme. All of the DNA in living things twists to the right, whereas the protein building blocks favor a kind of left-handed chemistry.
+
+The rules of life are based on this chemistry.
+
+In recent years, scientists have worked toward a kind of mirror version of life. Currently, the technology doesn&#39;t exist to make mirror life at the cellular level — and likely won&#39;t for at least a decade. Still, a group of scientists is concerned enough about the possibility that they&#39;ve published a [299-page technical report](https://purl.stanford.edu/cv716pj4036) calling for a stop to the science.
+
+In this encore episode for our Tech Camp series, host [Regina Barber](https://www.npr.org/people/1082526815/regina-g-barber) talks to [Carl Zimmer](https://www.nytimes.com/by/carl-zimmer), a science reporter at The New York Times, about his reporting on mirror cells — and why creating them could lead to devastating consequences for life on Earth.
+
+**Check out Carl&#39;s** [**full article**](https://www.nytimes.com/2024/12/12/science/mirror-life-microbes-research.html) **.**
+
+_Curious about other controversial research? Email us at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org/) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a3fd708e-55cc-476a-ad3c-808b416e57f9/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a3fd708e-55cc-476a-ad3c-808b416e57f9&feed=F0qJcgXZ&t=podcast&e=nx-s1-5923990&p=510351&d=842&size=13477974" length="13477974" type="audio/mpeg" />
+      <guid>cid://11c4244e-e220-42dc-9e0d-d29ee5a2664d</guid>
+    </item>    <item>
+      <title>APOD: 2026 August 10 – Three Galaxy Pairs</title>
+      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>El Niño Alters Marine Life in the Pacific</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/</link>
+      <description>
+        <![CDATA[Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.]]>
+      </description>
+      <source:markdown>Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/</guid>
+      <category>Earth Observatory</category>
+      <category>El Niño - Southern Oscillation</category>
+      <category>Life on Earth</category>
+      <category>PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem)</category>
+    </item>    <item>
+      <title>APOD: 2026 August 9 – Contemplating the Sun</title>
+      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/</guid>
+      <category>APOD</category>
+    </item>    <item>
       <title>Thanks to the EU’s Digital Markets Act, EU citizens are getting copy and paste between iOS and Windows</title>
       <link>https://www.osnews.com/story/145708/thanks-to-the-eus-digital-markets-act-eu-citizens-are-getting-copy-and-paste-between-ios-and-windows/</link>
       <description>
@@ -3360,33 +3433,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/</guid>
       <category>Earth Observatory</category>
       <category>Topography</category>
-    </item>    <item>
-      <title>DOSBox ported to OpenVMS for Alpha</title>
-      <link>https://www.osnews.com/story/145562/dosbox-ported-to-openvms-for-alpha/</link>
-      <description>
-        <![CDATA[Speaking of OpenVMS and Alpha &#8211; and we like speaking about OpenVMS and Alpha, don&#8217;t we? &#8211; there&#8217;s now a port of DOSBox that runs on the Alpha version venerable operating system. Astr0baby has published both binaries and source code for the port, as well as a lovely set of screenshots to show it off working.]]>
-      </description>
-      <source:markdown>Speaking of OpenVMS and Alpha – and we like speaking about OpenVMS and Alpha, don’t we? – there’s now a port of DOSBox that runs on the Alpha version venerable operating system. Astr0baby has published both binaries and source code for the port, as well as a lovely set of screenshots to show it off working.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145562</guid>
-      <category>OS News</category>
-    </item>    <item>
-      <title>LG monitors silently install software through Windows Update without user consent</title>
-      <link>https://www.osnews.com/story/145560/lg-monitors-silently-install-software-through-windows-update-without-user-consent/</link>
-      <description>
-        <![CDATA[Well, this is new &#8211; but not at all unexpected considering the state of Windows and the wider technology industry. When you connect certain LG monitors to a Windows machine, Windows Update will pull in a bunch of adware promoting antivirus trash. Of course, all done without any consent, because Silicon Valley inherently does not understand nor respect consent. Windows Update first installed LG extension and software component packages. Windows Reliability Monitor showed that LG Monitor App Installer appeared one minute later. The installation did not display a consent prompt or require the user to approve the download. Gamers Nexus tested the application across 32 consecutive system boots. It displayed a McAfee promotion during 31 of them. On the remaining boot, it promoted one of LG’s own monitor utilities. The McAfee popup offered a 30-day trial that would convert into a paid subscription. ↫ WhyCry at VideoCardz Don&#8217;t use Windows.]]>
-      </description>
-      <source:markdown>Well, this is new – but not at all unexpected considering the state of Windows and the wider technology industry. When you connect certain LG monitors to a Windows machine, Windows Update will pull in a bunch of adware promoting antivirus trash. Of course, all done without any consent, because Silicon Valley inherently does not understand nor respect consent. Windows Update first installed LG extension and software component packages. Windows Reliability Monitor showed that LG Monitor App Installer appeared one minute later. The installation did not display a consent prompt or require the user to approve the download. Gamers Nexus tested the application across 32 consecutive system boots. It displayed a McAfee promotion during 31 of them. On the remaining boot, it promoted one of LG’s own monitor utilities. The McAfee popup offered a 30-day trial that would convert into a paid subscription. ↫ WhyCry at VideoCardz Don’t use Windows.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145560</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>New Intel Itanium emulator boots Itanium version of Windows XP and 2003</title>
-      <link>https://www.osnews.com/story/145555/new-intel-itanium-emulator-boots-itanium-version-of-windows-xp-and-2003/</link>
-      <description>
-        <![CDATA[It was only a few weeks ago that we got a massively improved Alpha emulator, capable of running VMS, Windows 2000, and Tru64, including X11 support and a variety of other exciting features. Today, we&#8217;ve got another major emulation milestone (update: sadly, with &#8220;AI&#8221; support, so odds are this will fizzle out. Bummer!). The emulation space is going crazy, after my previous post on Windows booting on DEC Alpha es40 emulator, there is now another huge breakthrough in the emulation of other non-x86 CPU emulation. Yufeng Gao with help from gdwnldsKSC (the man behind the updated es40-fork) has released version 0.1 of his Intel Itanium (IA-64) emulator that boots the Itanium version of Windows Server 2003 and Windows XP 64-bit. No OpenVMS or HP-UX yet and Linux/BSD also don&#8217;t boot. But Windows is amazing already. ↫ Remy van Elst Much like Alpha hardware, Itanium hardware is quite hard to come by &#8211; especially Itanium workstations are a nightmare to find; I think I&#8217;ve only ever seen one or two Itanium workstation come up for sale on eBay in recent years, and their rarity obviously commanded hefty prices. The sooner we are able to run Itanium version of operating systems comfortably in a virtualised environment the better. As long-time OSNews readers know, my heart beats for HP-UX, but the Itanium versions of Windows and VMS would be of more interest to most people, I&#8217;m sure. Excellent news.]]>
-      </description>
-      <source:markdown>It was only a few weeks ago that we got a massively improved Alpha emulator, capable of running VMS, Windows 2000, and Tru64, including X11 support and a variety of other exciting features. Today, we’ve got another major emulation milestone (update: sadly, with “AI” support, so odds are this will fizzle out. Bummer!). The emulation space is going crazy, after my previous post on Windows booting on DEC Alpha es40 emulator, there is now another huge breakthrough in the emulation of other non-x86 CPU emulation. Yufeng Gao with help from gdwnldsKSC (the man behind the updated es40-fork) has released version 0.1 of his Intel Itanium (IA-64) emulator that boots the Itanium version of Windows Server 2003 and Windows XP 64-bit. No OpenVMS or HP-UX yet and Linux/BSD also don’t boot. But Windows is amazing already. ↫ Remy van Elst Much like Alpha hardware, Itanium hardware is quite hard to come by – especially Itanium workstations are a nightmare to find; I think I’ve only ever seen one or two Itanium workstation come up for sale on eBay in recent years, and their rarity obviously commanded hefty prices. The sooner we are able to run Itanium version of operating systems comfortably in a virtualised environment the better. As long-time OSNews readers know, my heart beats for HP-UX, but the Itanium versions of Windows and VMS would be of more interest to most people, I’m sure. Excellent news.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145555</guid>
-      <category>Hardware</category>
     </item>
   </channel>
 </rss>
