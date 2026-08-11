@@ -4,10 +4,119 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>10 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>11 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Yvonne l&#39;Islaise by Jean Mauclère</title>
+      <link>https://www.gutenberg.org/ebooks/79328</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>French fairy tales</title>
+      <link>https://www.gutenberg.org/ebooks/79327</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The book review digest, volume 05, 1909 by Various</title>
+      <link>https://www.gutenberg.org/ebooks/79330</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Frysk mearkesboek by Janneke Ratsma</title>
+      <link>https://www.gutenberg.org/ebooks/79329</link>
+      <description>
+        <![CDATA[Language: Frisian]]>
+      </description>
+      <source:markdown>Language: Frisian</source:markdown>
+    </item>    <item>
+      <title>The dream-maker man by Fanny Heaslip Lea</title>
+      <link>https://www.gutenberg.org/ebooks/79331</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Reise in das Morgenland in den Jahren 1836 und 1837, Dritter und letzter Band by Schubert</title>
+      <link>https://www.gutenberg.org/ebooks/79334</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Reise in das Morgenland in den Jahren 1836 und 1837, Erster Band by Gotthilf Heinrich von Schubert</title>
+      <link>https://www.gutenberg.org/ebooks/79332</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Reise in das Morgenland in den Jahren 1836 und 1837, Zweiter Band by Gotthilf Heinrich von Schubert</title>
+      <link>https://www.gutenberg.org/ebooks/79333</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>And life is better by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79335</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pau brasil : by Oswaldo de Andrade</title>
+      <link>https://www.gutenberg.org/ebooks/79326</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
+      <title>Thoughts of a fool by Evelyn Gladys</title>
+      <link>https://www.gutenberg.org/ebooks/79325</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Third Round, by H. C. McNeile</title>
+      <link>https://standardebooks.org/ebooks/h-c-mcneile/the-third-round</link>
+      <description>
+        <![CDATA[A fearless detective comes to the aid of a scientist who’s made the discovery of a lifetime.]]>
+      </description>
+      <source:markdown>A fearless detective comes to the aid of a scientist who’s made the discovery of a lifetime.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/h-c-mcneile/the-third-round/downloads/h-c-mcneile_the-third-round.epub?source=feed" length="702265" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/h-c-mcneile/the-third-round</guid>
+      <category>Adventure</category>
+      <category>Fiction</category>
+    </item>    <item>
+      <title>Short Fiction, by Edgar Saltus</title>
+      <link>https://standardebooks.org/ebooks/edgar-saltus/short-fiction</link>
+      <description>
+        <![CDATA[A collection of novellas and short stories by Edgar Saltus.]]>
+      </description>
+      <source:markdown>A collection of novellas and short stories by Edgar Saltus.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/edgar-saltus/short-fiction/downloads/edgar-saltus_short-fiction.epub?source=feed" length="1215298" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/edgar-saltus/short-fiction</guid>
+      <category>Fiction</category>
+      <category>Shorts</category>
+    </item>    <item>
+      <title>Poetry, by John Donne</title>
+      <link>https://standardebooks.org/ebooks/john-donne/poetry</link>
+      <description>
+        <![CDATA[A collection of John Donne’s poetry.]]>
+      </description>
+      <source:markdown>A collection of John Donne’s poetry.</source:markdown>
+      <enclosure url="https://standardebooks.org/ebooks/john-donne/poetry/downloads/john-donne_poetry.epub?source=feed" length="610702" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/john-donne/poetry</guid>
+      <category>Poetry</category>
+    </item>    <item>
       <title>The black cat, vol. I, no. 4, January 1896 by Various</title>
       <link>https://www.gutenberg.org/ebooks/79322</link>
       <description>
@@ -1711,76 +1820,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The Love Letters of Mary Wollstonecraft to Gilbert Imlay by Mary Wollstonecraft</title>
-      <link>https://www.gutenberg.org/ebooks/34413</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tohvelisankarin rouva : by Maria Jotuni</title>
-      <link>https://www.gutenberg.org/ebooks/79137</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Adresse à nos seigneurs de l&#39;Assemblée nationale, par les députés des maîtres de poste du royaume</title>
-      <link>https://www.gutenberg.org/ebooks/79131</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Assisting Ananias by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79135</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Fate and a fool by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79133</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hashknife of the Diamond H by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79136</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The revenge of Florida Jack by Ernest Haycox</title>
-      <link>https://www.gutenberg.org/ebooks/79134</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Un mot sur les postes by Ch. Dugas</title>
-      <link>https://www.gutenberg.org/ebooks/79132</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The library of Photius, Volume 1 (of 1) by Photius</title>
-      <link>https://www.gutenberg.org/ebooks/79139</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>No wonder by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79138</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
