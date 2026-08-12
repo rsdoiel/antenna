@@ -4,10 +4,85 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>11 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>12 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UC joins 35 universities supporting Harvard against Trump administration</title>
+      <link>https://dailybruin.com/2026/08/11/uc-joins-35-universities-supporting-harvard-against-trump-administration/</link>
+      <description>
+        <![CDATA[The UC signed on to an amicus brief filed July 22, standing by Harvard University&#8217;s April 2025 lawsuit against the Trump administration.
+        The University was one of 36 colleges and universities that signed the brief, which urges the First Circuit Court of Appeals to side with Harvard in its lawsuit to restore the nearly $2.2 billion in research grants that the federal government suspended in April 2025.]]>
+      </description>
+      <source:markdown>The UC signed on to an amicus brief filed July 22, standing by Harvard University’s April 2025 lawsuit against the Trump administration.
+The University was one of 36 colleges and universities that signed the brief, which urges the First Circuit Court of Appeals to side with Harvard in its lawsuit to restore the nearly $2.2 billion in research grants that the federal government suspended in April 2025.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514123</guid>
+      <category>Higher Education</category>
+      <category>National</category>
+      <category>News</category>
+      <category>UC</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>New women’s volleyball coach plans for success with community-oriented coaching</title>
+      <link>https://dailybruin.com/2026/08/11/new-womens-volleyball-coach-plans-for-success-with-community-oriented-coaching/</link>
+      <description>
+        <![CDATA[Staff turnover can prove difficult for any program.
+        But Matt Werle has a plan for a smooth transition. 
+        Werle was announced as the new UCLA women&#8217;s volleyball head coach Feb.]]>
+      </description>
+      <source:markdown>Staff turnover can prove difficult for any program.
+But Matt Werle has a plan for a smooth transition.
+Werle was announced as the new UCLA women’s volleyball head coach Feb.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514116</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Volleyball</category>
+      <category>db-story-a</category>
+    </item>    <item>
+      <title>Gallery: LA Public Library branch celebrates 100 years with community-oriented festivities</title>
+      <link>https://dailybruin.com/2026/08/11/gallery-la-public-library-branch-celebrates-100-years-with-community-oriented-festivities/</link>
+      <description>
+        <![CDATA[Legacies come off the page in the heart of downtown Los Angeles. 
+        
+        The Los Angeles Public Library held its Central Library Centennial Festival on July 11 in celebration of the branch’s 100th anniversary.]]>
+      </description>
+      <source:markdown>Legacies come off the page in the heart of downtown Los Angeles.
+
+The Los Angeles Public Library held its Central Library Centennial Festival on July 11 in celebration of the branch’s 100th anniversary.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514107</guid>
+      <category>Daily Bruin: In Focus</category>
+      <category>News: In Focus</category>
+      <category>db-story-m1</category>
+    </item>    <item>
+      <title>The Society of Professional Journalists proposes edits to its code of ethics for the AI age</title>
+      <link>https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/</link>
+      <description>
+        <![CDATA[On Monday, the Society of Professional Journalists (SPJ) dropped new proposed revisions to its code of ethics — the first revision to one of the most-cited media ethics standards in the country since 2014. As any Nieman Lab reader knows, journalism has seen drastic changes since 2014. One major shift in the last 12 years?...]]>
+      </description>
+      <source:markdown>On Monday, the Society of Professional Journalists (SPJ) dropped new proposed revisions to its code of ethics — the first revision to one of the most-cited media ethics standards in the country since 2014. As any Nieman Lab reader knows, journalism has seen drastic changes since 2014. One major shift in the last 12 years?...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252403</guid>
+      <category>Link post</category>
+      <category>Regular post</category>
+      <category>AI</category>
+      <category>Code of Ethics</category>
+      <category>ethics</category>
+      <category>generative AI</category>
+      <category>social media</category>
+      <category>Society of Professional Journalists</category>
+      <category>SPJ</category>
+    </item>    <item>
+      <title>We analyzed 6,400 New York Times stories to find out how comments change when you give readers more information</title>
+      <link>https://www.niemanlab.org/2026/08/we-analyzed-6400-new-york-times-stories-to-find-out-how-comments-change-when-you-give-readers-more-information/</link>
+      <description>
+        <![CDATA[Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...]]>
+      </description>
+      <source:markdown>Journalism exists to tell people what’s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252347</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>comments</category>
+      <category>New York Times</category>
+      <category>research</category>
+    </item>    <item>
       <title>Gallery: Balu Brigada, JADE, Mariah the Scientist say goodbye to Outside Lands 2026 in style</title>
       <link>https://dailybruin.com/2026/08/10/gallery-balu-brigada-jade-mariah-the-scientist-say-goodbye-to-outside-lands-2026-in-style/</link>
       <description>
@@ -36,7 +111,7 @@ UCLA football added former NFL play-caller Derek Carr to its offensive coaching 
       <category>Football</category>
       <category>Sports</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>Outside Lands 2026: Balu Brigada, JADE, Mariah the Scientist fascinate fans at festival finale</title>
       <link>https://dailybruin.com/2026/08/10/outside-lands-2026-balu-brigada-jade-mariah-the-scientist-fascinate-fans-at-festival-finale/</link>
@@ -49,6 +124,7 @@ The music festival wrapped its three-day run with performances spanning pop, R&#
       <guid>cid://https://dailybruin.com/?p=514060</guid>
       <category>Arts</category>
       <category>Music</category>
+      <category>db-story-g</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>Opinion: LA’s charter reform efforts have failed to produce meaningful change</title>
@@ -62,6 +138,7 @@ In August 2024, Mayor Karen Bass created the Charter Reform Commission to study 
       <guid>cid://https://dailybruin.com/?p=514056</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
+      <category>db-story-d2</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>Mariah the Scientist brings hearts together on Outside Lands final day</title>
@@ -75,6 +152,7 @@ The Billboard Hot 100-charting artist returned to Outside Lands after three year
       <guid>cid://https://dailybruin.com/?p=514044</guid>
       <category>Arts</category>
       <category>Music</category>
+      <category>db-story-d1</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>“An inherent conflict of interest”: More than 800 USA Today Co. employees want the company to end its new Palantir partnership</title>
@@ -128,7 +206,7 @@ UCLA football is just weeks away from opening its 2026 campaign Sept. 5 against 
       <guid>cid://https://dailybruin.com/?p=513982</guid>
       <category>Football</category>
       <category>Sports</category>
-      <category>db-story-g</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Q&#38;A: Faouzia talks ‘FILM NOIR’ era, onstage world-building</title>
       <link>https://dailybruin.com/2026/08/09/qfilm-noir-era-onstage-world-building/</link>
@@ -155,7 +233,7 @@ SAN FRANCISCO — Chilly weather didn’t deter thousands of attendees from maki
       <guid>cid://https://dailybruin.com/?p=513970</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-f1</category>
+      <category>db-story-g</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>Malcolm Todd turns Outside Lands into a family affair</title>
@@ -171,7 +249,7 @@ The Los Angeles-based artist opened his set beneath a staggering screen awash in
       <guid>cid://https://dailybruin.com/?p=513952</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-c1</category>
+      <category>db-story-f2</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>Pro Bruin Rundown: Former UCLA men’s volleyball stars earn silver at Volleyball Nations League</title>
@@ -185,7 +263,7 @@ As UCLA Athletics takes a break for the summer, professional sports are still in
       <guid>cid://https://dailybruin.com/?p=513945</guid>
       <category>Men&#39;s Volleyball</category>
       <category>Sports</category>
-      <category>db-story-a</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>Opinion: UCLA students should prepare thoroughly for finance jobs by learning the hiring process</title>
       <link>https://dailybruin.com/2026/08/09/opinion-ucla-students-should-prepare-thoroughly-for-finance-jobs-by-learning-the-hiring-process/</link>
@@ -200,7 +278,6 @@ By the time these finance portals go live, the students most likely to land offe
       <guid>cid://https://dailybruin.com/?p=513934</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
-      <category>db-story-d2</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>UC’s consideration of standardized testing return raises preparedness questions</title>
@@ -219,7 +296,7 @@ More than 3,000 UC STEM faculty members signed a May letter calling on the Unive
       <category>News</category>
       <category>Regents</category>
       <category>UC</category>
-      <category>db-story-g</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>Gallery: Fog and lights coat Lands End stage artists in booming 1st day at Outside Lands</title>
       <link>https://dailybruin.com/2026/08/08/gallery-fog-and-lights-coat-lands-end-stage-artists-in-booming-1st-day-at-outside-lands/</link>
@@ -247,6 +324,7 @@ SAN FRANCISCO – Outside Lands opened its three-day run beneath hazy skies as G
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Music</category>
+      <category>db-story-h</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>Bruin Theater to reopen in the fall after 2-year wait</title>
@@ -1503,95 +1581,6 @@ When summer means beach days, road trips or escaping another California heat wav
 The post [Classifieds – July 22, 2026](https://dailytrojan.com/2026/07/22/classifieds-july-22-2026/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
       <guid>cid://https://dailytrojan.com/?p=256846</guid>
       <category>Classifieds</category>
-    </item>    <item>
-      <title>How America’s newspapers lost their voice</title>
-      <link>https://www.niemanlab.org/2026/07/how-americas-newspapers-lost-their-voice/</link>
-      <description>
-        <![CDATA[Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...]]>
-      </description>
-      <source:markdown>Hazel Brannon Smith was almost certainly the most unpopular woman in Mississippi when she wrote an editorial in 1963 lambasting the racist White Citizens Councils in the Lexington Advertiser, a newspaper she owned. “The hierarchy of rulers in this totalitarian-like organization permit no deviation from its official line — and those who believe in and stand for...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251765</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>editorials</category>
-      <category>Gannett</category>
-      <category>Hazel Brannon Smith</category>
-      <category>Michael Gartner</category>
-      <category>newspapers</category>
-      <category>Paul Farhi</category>
-      <category>Pulitzer Prize</category>
-      <category>USA Today Co Inc.</category>
-      <category>William Allen White</category>
-    </item>    <item>
-      <title>With its third issue, audio magazine Signal Hill is transmitting further than ever</title>
-      <link>https://www.niemanlab.org/2026/07/with-its-third-issue-audio-magazine-signal-hill-is-transmitting-further-than-ever/</link>
-      <description>
-        <![CDATA[When the podcast Signal Hill launched last year, I was immediately struck by its formatting. Instead of seasons, it launches issues; episodes, which vary in length from less than two minutes to more than an hour, are broken down by type, like &#8220;dispatch&#8221; and &#8220;feature&#8221; and &#8220;profile.&#8221; It looks, in other words, like a magazine...]]>
-      </description>
-      <source:markdown>When the podcast Signal Hill launched last year, I was immediately struck by its formatting. Instead of seasons, it launches issues; episodes, which vary in length from less than two minutes to more than an hour, are broken down by type, like “dispatch” and “feature” and “profile.” It looks, in other words, like a magazine...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251744</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>Alcatraz</category>
-      <category>Annie Rosenthal</category>
-      <category>art</category>
-      <category>audio</category>
-      <category>audio production</category>
-      <category>documentaries</category>
-      <category>documentary audio</category>
-      <category>fundraising</category>
-      <category>Jackson Roach</category>
-      <category>Lio Wong</category>
-      <category>literary magazine</category>
-      <category>literature</category>
-      <category>Liza Yeager</category>
-      <category>Lumpen Radio</category>
-      <category>Madrid</category>
-      <category>magazines</category>
-      <category>Marfa Public Radio</category>
-      <category>n+1</category>
-      <category>New Mexico</category>
-      <category>nonprofits</category>
-      <category>Omar Etman</category>
-      <category>podcasts</category>
-      <category>radio</category>
-      <category>Reaper</category>
-      <category>Ruby Tandoh</category>
-      <category>Signal Hill</category>
-      <category>subscriptions</category>
-      <category>The Chicago Meeting</category>
-      <category>This American Life</category>
-    </item>    <item>
-      <title>Navigating the sprawling university campus between courses with portable transit Submit live link</title>
-      <link>https://dailybruin.com/2026/07/21/navigating-the-sprawling-university-campus-between-courses-with-portable-transit-submit-live-link/</link>
-      <description>
-        <![CDATA[Navigating the sprawling university campus between courses with portable transit
-        The University of California, Los Angeles, spans 419 acres of rolling hills, historic staircases, and winding pedestrian pathways.]]>
-      </description>
-      <source:markdown>Navigating the sprawling university campus between courses with portable transit
-The University of California, Los Angeles, spans 419 acres of rolling hills, historic staircases, and winding pedestrian pathways.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513435</guid>
-      <category>Sponsored</category>
-    </item>    <item>
-      <title>The World Cup of misinformation</title>
-      <link>https://www.niemanlab.org/2026/07/the-world-cup-of-misinformation/</link>
-      <description>
-        <![CDATA[One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi&#8217;s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn&#8217;t seen it herself, that...]]>
-      </description>
-      <source:markdown>One week into the FIFA World Cup, the Argentinian streaming channel Luzu TV was live on the air when host Florencia Peña falsely declared that Lionel Messi’s father, Jorge Messi, had died. Minutes later, Peña said nervously that producers had told her the information via her earpiece, but that she hadn’t seen it herself, that...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251729</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>disinformation</category>
-      <category>El Mundo</category>
-      <category>fake news</category>
-      <category>FIFA World Cup</category>
-      <category>Luzu TV</category>
-      <category>misinformation</category>
-      <category>sports reporting</category>
-      <category>Twitter</category>
-      <category>World Cup</category>
-      <category>X</category>
     </item>
   </channel>
 </rss>

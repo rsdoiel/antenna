@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>11 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>12 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>InvenioRDM v14.0 and invenio-pidbox module released</title>
+      <link>https://blog.front-matter.de/posts/inveniordm-v14-0-and-invenio-pidbox-module-released/</link>
+      <description>
+        <![CDATA[<p>Last Friday the next major version (v14.0.0) of the InvenioRDM repository software <a href="https://doi.org/10.63517/kshzw-ay335" rel="noreferrer">was released</a> after many months of work involving lots of people (listed in the blog post). The changes and upgrade instructions are documented in detail the post on the Invenio blog. The most important change for</p>]]>
+      </description>
+      <source:markdown>Last Friday the next major version (v14.0.0) of the InvenioRDM repository software [was released](https://doi.org/10.63517/kshzw-ay335) after many months of work involving lots of people (listed in the blog post). The changes and upgrade instructions are documented in detail the post on the Invenio blog. The most important change for</source:markdown>
+      <guid>cid://6a7c5d0964ae000001f4f2f3</guid>
+      <category>InvenioRDM</category>
+      <category>Commonmeta</category>
+      <category>Rogue Scholar</category>
+    </item>    <item>
+      <title>Reading Between the Lines, Part 1: A Cognitive Framework for AI in Scholarly Publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/</link>
+      <description>
+        <![CDATA[<p>AI is now a permanent feature of the scholarly landscape. The question is no longer whether it should be used, but how it should be understood and governed.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/">Reading Between the Lines, Part 1: A Cognitive Framework for AI in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>AI is now a permanent feature of the scholarly landscape. The question is no longer whether it should be used, but how it should be understood and governed.
+
+The post [Reading Between the Lines, Part 1: A Cognitive Framework for AI in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62496</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Controversial Topics</category>
+      <category>Infrastructure</category>
+      <category>Innovation</category>
+      <category>Organizational Management</category>
+      <category>Peer Review</category>
+      <category>Policy</category>
+      <category>Reading</category>
+      <category>Research Integrity</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>appropriate use of AI</category>
+      <category>Artificial intelligence</category>
+      <category>cognition</category>
+      <category>cognitive debt</category>
+      <category>judgment</category>
+      <category>judgment-based cognition</category>
+      <category>mechanical cognition</category>
+    </item>    <item>
+      <title>EveryLibrary Institute Launches Library Advocacy and Funding Conference 2027</title>
+      <link>https://www.infodocket.com/2026/08/11/everylibrary-institute-launches-library-advocacy-and-funding-conference-2027/</link>
+      <description>
+        <![CDATA[<p>From EveryLibrary Institute: The EveryLibrary Institute 501c(3) announces the 2027 Library Advocacy and Funding Conference (LAFCON), positioning the three-day virtual summit as the sector’s primary intelligence partner for the upcoming year. This will be the 4th LAFCON conference that EveryLibrary institute has held. Running January 13–15, 2027, the institute serves as a critical tracking hub and training ground, analyzing how overlapping shifts in [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/11/everylibrary-institute-launches-library-advocacy-and-funding-conference-2027/">EveryLibrary Institute Launches Library Advocacy and Funding Conference 2027 </a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From EveryLibrary Institute: The EveryLibrary Institute 501c(3) announces the 2027 Library Advocacy and Funding Conference (LAFCON), positioning the three-day virtual summit as the sector’s primary intelligence partner for the upcoming year. This will be the 4th LAFCON conference that EveryLibrary institute has held. Running January 13–15, 2027, the institute serves as a critical tracking hub and training ground, analyzing how overlapping shifts in \[…\]
+
+The post [EveryLibrary Institute Launches Library Advocacy and Funding Conference 2027](https://www.infodocket.com/2026/08/11/everylibrary-institute-launches-library-advocacy-and-funding-conference-2027/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168542</guid>
+      <category>Funding</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Publishing</category>
+    </item>    <item>
+      <title>When Open Data Comes Full Circle: New OCR Reprocessing Software and Datasets Portal for Chronicling America</title>
+      <link>https://blogs.loc.gov/thesignal/2026/08/yarasavage-new-ocr-reprocessing/</link>
+      <description>
+        <![CDATA[Learn about our new software release on GitHub that is transforming text quality across the Chronicling America Historic Newspapers collection, and how researchers and data enthusiasts can now pull bulk downloads for all 23+ million pages from our brand-new portal. Read all about it!]]>
+      </description>
+      <source:markdown>Learn about our new software release on GitHub that is transforming text quality across the Chronicling America Historic Newspapers collection, and how researchers and data enthusiasts can now pull bulk downloads for all 23+ million pages from our brand-new portal. Read all about it!</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=37935</guid>
+      <category>Guest Posts</category>
+      <category>Open Data</category>
+      <category>Partners and Collaboration</category>
+      <category>Tools and Infrastructure</category>
+    </item>    <item>
       <title>Statement: Governor Maura Healey Signs Freedom to Read Law Keeping Book Bans Out of Massachusetts Schools and Libraries</title>
       <link>https://www.infodocket.com/2026/08/11/statement-governor-maura-healey-signs-freedom-to-read-law-keeping-book-bans-out-of-massachusetts-schools-and-libraries/</link>
       <description>
@@ -34,6 +104,8 @@ The post [Statement: Governor Maura Healey Signs Freedom to Read Law Keeping Boo
       </description>
       <source:markdown>On 1 July, Jisc’s Publications Router was switched off after nearly a decade of quietly piping metadata and manuscripts into institutional repositories. If you manage a repository, you have probably spent the past few weeks watching that particular feed go quiet. In May we set out how CORE would support deposit workflows once Router retired, … [Continue reading Publications Router has retired: where CORE FreshFinds stands](https://blog.core.ac.uk/2026/08/11/publications-router-has-retired-where-core-freshfinds-stands/)</source:markdown>
       <guid>cid://https://blog.core.ac.uk/?p=2036</guid>
+      <category>COREupdate</category>
+      <category>dashboard</category>
       <category>Uncategorised</category>
       <category>automated deposit institutional repository</category>
       <category>Publications Router alternative</category>
@@ -71,10 +143,10 @@ The post [What Authors Expect Now, and Why Publishing Hasn’t Kept Up: An Inter
       <title>ARL Daily Intelligence (August 10–13)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-10-13/</link>
       <description>
-        <![CDATA[<p>Last Updated on August 10, 2026, 5:11 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on August 11, 2026, 2:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-10-13/">ARL Daily Intelligence (August 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on August 10, 2026, 5:11 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on August 11, 2026, 2:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (August 10–13)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-10-13/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49522</guid>
@@ -1469,62 +1541,6 @@ The post [Guest Post — What Does Commercial Adoption Mean for the Preprint Mov
       <category>preprints</category>
       <category>Research Square</category>
       <category>SSRN</category>
-    </item>    <item>
-      <title>“You Just Never Know How You’re Having an Impact”: Irene Herold Reflects on Her Career and the Profession</title>
-      <link>https://www.arl.org/blog/you-just-never-know-how-youre-having-an-impact-irene-herold-reflects-on-her-career-and-the-profession/</link>
-      <description>
-        <![CDATA[<p>Last Updated on July 21, 2026, 12:42 pm ET Irene Herold is retiring on August 1 as dean of libraries and university librarian at Virginia Commonwealth University (VCU) after a...</p>
-        <p>The post <a href="https://www.arl.org/blog/you-just-never-know-how-youre-having-an-impact-irene-herold-reflects-on-her-career-and-the-profession/">“You Just Never Know How You’re Having an Impact”: Irene Herold Reflects on Her Career and the Profession</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on July 21, 2026, 12:42 pm ET Irene Herold is retiring on August 1 as dean of libraries and university librarian at Virginia Commonwealth University (VCU) after a...
-
-The post [“You Just Never Know How You’re Having an Impact”: Irene Herold Reflects on Her Career and the Profession](https://www.arl.org/blog/you-just-never-know-how-youre-having-an-impact-irene-herold-reflects-on-her-career-and-the-profession/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=49308</guid>
-      <category>Blog</category>
-    </item>    <item>
-      <title>Transcription Can Bring People Together: A Reflection from Shelby Kruger</title>
-      <link>https://blogs.loc.gov/thesignal/2026/07/shelby-kruger/</link>
-      <description>
-        <![CDATA[In this blog post, 2026 Junior Fellow Shelby Kruger reflects on her work with the By the People crowdsourced transcription program this summer.]]>
-      </description>
-      <source:markdown>In this blog post, 2026 Junior Fellow Shelby Kruger reflects on her work with the By the People crowdsourced transcription program this summer.</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=37867</guid>
-      <category>By the People Transcription Program</category>
-      <category>Internships and Fellowships</category>
-    </item>    <item>
-      <title>Charting a sustainable future for TDCC-NES</title>
-      <link>https://investinopen.org/our-work/charting-a-sustainable-future-for-tdcc-nes/</link>
-      <description>
-        <![CDATA[IOI is partnering with TDCC-NES, a collaborative network across the Dutch natural and engineering sciences domain that addresses FAIR data and other digital-related research challenges, to co-develop a post-NWO sustainability and co-investment model with its community.]]>
-      </description>
-      <source:markdown>IOI is partnering with TDCC-NES, a collaborative network across the Dutch natural and engineering sciences domain that addresses FAIR data and other digital-related research challenges, to co-develop a post-NWO sustainability and co-investment model with its community.</source:markdown>
-      <guid>cid://6a5f3e0ddca8a0000125669a</guid>
-      <category>Our Work</category>
-    </item>    <item>
-      <title>How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/07/21/how-bangladesh-is-reducing-the-north-south-divide-in-scholarly-publishing/</link>
-      <description>
-        <![CDATA[<p>Four Bangladeshi academics touch upon different aspects of academic publishing by linking them with the SDGs: accessing research; equity in co-authorship; editorial leadership; and SDG framing.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/21/how-bangladesh-is-reducing-the-north-south-divide-in-scholarly-publishing/">How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Four Bangladeshi academics touch upon different aspects of academic publishing by linking them with the SDGs: accessing research; equity in co-authorship; editorial leadership; and SDG framing.
-
-The post [How Bangladesh Is Reducing The North-South Divide In Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/07/21/how-bangladesh-is-reducing-the-north-south-divide-in-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62354</guid>
-      <category>Discovery</category>
-      <category>Diversity, Equity, Inclusion, and Accessibility</category>
-      <category>Infrastructure</category>
-      <category>Libraries</category>
-      <category>Reading</category>
-      <category>Research</category>
-      <category>Bangladesh</category>
-      <category>deia</category>
-      <category>discovery</category>
-      <category>equity</category>
-      <category>global north</category>
-      <category>global north south divide</category>
-      <category>Global South</category>
-      <category>readership</category>
     </item>
   </channel>
 </rss>
