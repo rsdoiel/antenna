@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>12 Aug 26 06:45 -0700</dateCreated>
+        <dateCreated>13 Aug 26 06:45 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -241,6 +241,7 @@
         <outline text="Max Halford Blog" type="rss" xmlUrl="https://maxhalford.github.io/index.xml" htmlUrl="https://maxhalford.github.io/,https://maxhalford.github.io/index.xml" description="Recent content on Max Halford" url="https://maxhalford.github.io/index.xml"></outline>
         <outline text="Melanie Mitchell, AI Guide for Human Thinking" type="rss" xmlUrl="https://aiguide.substack.com/feed" htmlUrl="https://aiguide.substack.com,https://aiguide.substack.com/feed" description="I write about interesting new developments in AI." url="https://aiguide.substack.com/feed"></outline>
         <outline text="Memo Garcia blog" type="rss" xmlUrl="https://memo.mx/index.xml" htmlUrl="https://memo.mx/,https://memo.mx/index.xml" description="Recent content on Memo Garcia" url="https://memo.mx/index.xml"></outline>
+        <outline text="Meshtastic Blog" type="atom" xmlUrl="https://meshtastic.org/blog/atom.xml" htmlUrl="https://meshtastic.org/blog/" description="Meshtastic Blog"></outline>
         <outline text="Michael Catanzaro&#39;s blog" type="rss" xmlUrl="https://blogs.gnome.org/mcatanzaro/feed/" htmlUrl="https://blogs.gnome.org/mcatanzaro,https://blogs.gnome.org/mcatanzaro/feed/" description="On Fedora Workstation, GNOME, Epiphany, and WebKitGTK" url="https://blogs.gnome.org/mcatanzaro/feed/"></outline>
         <outline text="Michael Moore&#39;s blog" type="rss" xmlUrl="https://www.michaelmoore.com/feed" htmlUrl="https://www.michaelmoore.com,https://www.michaelmoore.com/feed" description="I was born in Flint, Michigan and raised on a dirt street by loving parents, two sisters and a lot of Green Giant in a can." url="https://www.michaelmoore.com/feed"></outline>
         <outline text="Michael Tsai" type="rss" xmlUrl="https://mjtsai.com/blog/feed/" htmlUrl="https://mjtsai.com/blog,https://mjtsai.com/blog/feed/" url="https://mjtsai.com/blog/feed/"></outline>
@@ -301,7 +302,7 @@
         <outline text="Pleiades STOA at hcommons.socal" type="rss" xmlUrl="https://hcommons.social/@pleiades_gazetteer.rss" htmlUrl="https://hcommons.social/@pleiades_gazetteer" description="Public posts from @pleiades_gazetteer@hcommons.social"></outline>
         <outline text="Pod Save America" type="rss" xmlUrl="https://crooked.com/podcast-series/pod-save-america/feed/" htmlUrl="https://www.crooked.com/podcast-series/pod-save-america/,https://crooked.com/podcast-series/pod-save-america/feed/" url="https://crooked.com/podcast-series/pod-save-america/feed/"></outline>
         <outline text="Pointers gone wild blog" type="rss" xmlUrl="https://pointersgonewild.com/rss.xml" htmlUrl="https://pointersgonewild.com/" description="Latest Posts from Pointers Gone Wild"></outline>
-        <outline text="Post-Platform Toolkit" type="rss" xmlUrl="https://toolkit.wellgedacht.org/feed.php" htmlUrl="http://toolkit.wellgedacht.org/"></outline>
+        <outline text="Post-Platform Toolkit" type="rss" xmlUrl="https://toolkit.wellgedacht.org/feed.php" htmlUrl="https://toolkit.wellgedacht.org/"></outline>
         <outline text="Press Think" type="rss" xmlUrl="https://pressthink.org/feed/" htmlUrl="https://pressthink.org/,https://pressthink.org/feed/" description="PressThink, a project of the Arthur L. Carter Journalism Institute at New York University, is written by Jay Rosen." url="https://pressthink.org/feed/"></outline>
         <outline text="Prof. Griswold blog, UCSD Software Evolution Lab" type="rss" xmlUrl="https://profgriz.wordpress.com/feed/" htmlUrl="https://profgriz.wordpress.com,https://profgriz.wordpress.com/feed/" description="Reflections of a computer science professor" url="https://profgriz.wordpress.com/feed/"></outline>
         <outline text="Prof. Scott Galloway, No Mercy/No Malace blog" type="rss" xmlUrl="https://www.profgalloway.com/feed/" htmlUrl="https://www.profgalloway.com/,https://www.profgalloway.com/feed/" url="https://www.profgalloway.com/feed/"></outline>

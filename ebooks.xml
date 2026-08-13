@@ -4,10 +4,115 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>12 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>13 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Merry Adventures of Robin Hood by Howard Pyle</title>
+      <link>https://www.gutenberg.org/ebooks/10148</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Idol&#39;s eye by Carol Emshwiller</title>
+      <link>https://www.gutenberg.org/ebooks/79264</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The eternal laughter, and other poems by W. Starling  Burgess</title>
+      <link>https://www.gutenberg.org/ebooks/79344</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Stories of adventure, as told by adventurers by Edward Everett Hale</title>
+      <link>https://www.gutenberg.org/ebooks/79345</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>How not to be a wallflower by John Woodworth</title>
+      <link>https://www.gutenberg.org/ebooks/79354</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sketches in Bedlam : by John Haslam</title>
+      <link>https://www.gutenberg.org/ebooks/79350</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Naked holiday by Robert Silverberg</title>
+      <link>https://www.gutenberg.org/ebooks/79351</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The cosmic cloud by Edmond Hamilton</title>
+      <link>https://www.gutenberg.org/ebooks/79352</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nuestra señora de París - Tomo 1 (de 2) by Victor Hugo</title>
+      <link>https://www.gutenberg.org/ebooks/79356</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Observations, pour les sous-fermiers des messageries sur les articles préliminaires au bail des mess</title>
+      <link>https://www.gutenberg.org/ebooks/79348</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The geology and geography of Northern Nigeria by J. D.  Falconer</title>
+      <link>https://www.gutenberg.org/ebooks/79349</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Phil&#39;s mother by Eglanton Thorne</title>
+      <link>https://www.gutenberg.org/ebooks/79355</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Vergara by Benito Pérez Galdós</title>
+      <link>https://www.gutenberg.org/ebooks/79346</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Comme disait Monsieur de Tocqueville... by Antoine Redier</title>
+      <link>https://www.gutenberg.org/ebooks/79347</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Gloria e sventura - Canti repubblicani by Giuseppe Ricciardi</title>
+      <link>https://www.gutenberg.org/ebooks/79353</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
       <title>And life is better by Helen R.  Hull</title>
       <link>https://www.gutenberg.org/ebooks/79335</link>
       <description>
@@ -15,22 +120,8 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The eternal laughter and other poems by W. Starling Burgess</title>
-      <link>https://www.gutenberg.org/ebooks/79344</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Number three Joy Street :</title>
       <link>https://www.gutenberg.org/ebooks/79337</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Stories of adventure : by Edward Everett Hale</title>
-      <link>https://www.gutenberg.org/ebooks/79345</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -712,13 +803,6 @@
     </item>    <item>
       <title>Our insect enemies by Vance Randolph</title>
       <link>https://www.gutenberg.org/ebooks/79263</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Idol&#39;s eye by Carol Emshwiller</title>
-      <link>https://www.gutenberg.org/ebooks/79264</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1778,83 +1862,6 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>The Line of Love, by James Branch Cabell</title>
-      <link>https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love</link>
-      <description>
-        <![CDATA[A generational saga plays out in a series of short stories about love and marriage in medieval Europe.]]>
-      </description>
-      <source:markdown>A generational saga plays out in a series of short stories about love and marriage in medieval Europe.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/james-branch-cabell_the-line-of-love.epub?source=feed" length="826827" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love</guid>
-      <category>Comedy</category>
-      <category>Fantasy</category>
-    </item>    <item>
-      <title>The Fire in the Flint, by Walter White</title>
-      <link>https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint</link>
-      <description>
-        <![CDATA[An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.]]>
-      </description>
-      <source:markdown>An optimistic Black physician returns to his Georgia hometown where he must grapple with racial tensions he thought had faded.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint/downloads/walter-white_the-fire-in-the-flint.epub?source=feed" length="784463" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Tangled trails by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79145</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Number two Joy street : by Belloc and Chesterton and De la Mare and Milne and Walpole</title>
-      <link>https://www.gutenberg.org/ebooks/79150</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>La joie by Georges Bernanos</title>
-      <link>https://www.gutenberg.org/ebooks/79151</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The domestication of Dobie by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79149</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Concerning the nature of things by William Henry Bragg</title>
-      <link>https://www.gutenberg.org/ebooks/79146</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Onnen tähti : by A. E. Scribe</title>
-      <link>https://www.gutenberg.org/ebooks/79148</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Särjetty sydän : by K. A. Puhdaskoski</title>
-      <link>https://www.gutenberg.org/ebooks/79152</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Valeriaanaa! : by Kasperi Tanttu</title>
-      <link>https://www.gutenberg.org/ebooks/79147</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
     </item>
   </channel>
 </rss>

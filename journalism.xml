@@ -4,10 +4,107 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>12 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>13 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>North Westwood Neighborhood Council recap – Aug. 5</title>
+      <link>https://dailybruin.com/2026/08/12/north-westwood-neighborhood-council-recap-aug-5/</link>
+      <description>
+        <![CDATA[The North Westwood Neighborhood Council elected a board member and urged the city of Los Angeles to address housing and homelessness concerns at its August meeting.]]>
+      </description>
+      <source:markdown>The North Westwood Neighborhood Council elected a board member and urged the city of Los Angeles to address housing and homelessness concerns at its August meeting.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514145</guid>
+      <category>News</category>
+      <category>Westwood</category>
+      <category>db-story-d1</category>
+    </item>    <item>
+      <title>Former UCLA guard Skyy Clark transfers to LSU after eligibility ruling</title>
+      <link>https://dailybruin.com/2026/08/12/former-ucla-guard-skyy-clark-transfers-to-lsu-after-eligibility-ruling/</link>
+      <description>
+        <![CDATA[Skyy Clark is back in the NCAA.
+        The former UCLA guard announced his commitment to LSU on Wednesday, less than two weeks after Colorado federal Judge Charlotte Sweeney granted a preliminary injunction that provided college athletes from the 2022 recruiting class an additional year of eligibility – in line with the NCAA’s new age-based policies that provide five years for athletes.]]>
+      </description>
+      <source:markdown>Skyy Clark is back in the NCAA.
+The former UCLA guard announced his commitment to LSU on Wednesday, less than two weeks after Colorado federal Judge Charlotte Sweeney granted a preliminary injunction that provided college athletes from the 2022 recruiting class an additional year of eligibility – in line with the NCAA’s new age-based policies that provide five years for athletes.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514142</guid>
+      <category>Men&#39;s Basketball</category>
+      <category>Sports</category>
+      <category>breaking</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>Eazo: Every Scroll Opens a New World</title>
+      <link>https://dailybruin.com/2026/08/12/eazo-every-scroll-opens-a-new-world/</link>
+      <description>
+        <![CDATA[Eazo: Every Scroll Opens a New World
+        The next post might be an app.
+        Building an app with AI is becoming easier. One prompt can generate an interface.]]>
+      </description>
+      <source:markdown>Eazo: Every Scroll Opens a New World
+The next post might be an app.
+Building an app with AI is becoming easier. One prompt can generate an interface.</source:markdown>
+      <enclosure url="https://wp.dailybruin.com/images/2026/08/compressed-video.mp4" length="1974265" type="video/mp4" />
+      <guid>cid://https://dailybruin.com/?p=514133</guid>
+      <category>Sponsored</category>
+    </item>    <item>
+      <title>Remember that raid on a small-town Kansas newspaper? The city has agreed to pay one reporter $850,000</title>
+      <link>https://www.niemanlab.org/2026/08/remember-that-raid-on-a-small-town-kansas-newspaper-the-city-has-agreed-to-pay-one-reporter-850000/</link>
+      <description>
+        <![CDATA[On August 11, 2023, local law enforcement seized electronics and reporting materials from the Marion County Record in a raid that provoked a national outcry over the blatant press freedom violation in small-town Kansas. The raid led to multiple federal lawsuits against the county government, public officials, and the city, accusing them of retaliating against...]]>
+      </description>
+      <source:markdown>On August 11, 2023, local law enforcement seized electronics and reporting materials from the Marion County Record in a raid that provoked a national outcry over the blatant press freedom violation in small-town Kansas. The raid led to multiple federal lawsuits against the county government, public officials, and the city, accusing them of retaliating against...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252452</guid>
+      <category>Link post</category>
+      <category>First Amendment</category>
+      <category>local news</category>
+      <category>Marion County Record</category>
+      <category>press freedom</category>
+    </item>    <item>
+      <title>Japanese publishers are fighting imposter news sites with a cryptographic signature</title>
+      <link>https://www.niemanlab.org/2026/08/japanese-publishers-are-fighting-imposter-news-sites-with-a-cryptographic-signature/</link>
+      <description>
+        <![CDATA[On January 1, 2024, a 7.5 magnitude earthquake struck Japan&#8217;s Noto Peninsula, killing more than 700 people. In the days that followed, AI-generated images of the wreckage circulated widely and fake philanthropic websites scammed people out of donations. False claims that people were trapped under rubble diverted rescue efforts away from the places that needed...]]>
+      </description>
+      <source:markdown>On January 1, 2024, a 7.5 magnitude earthquake struck Japan’s Noto Peninsula, killing more than 700 people. In the days that followed, AI-generated images of the wreckage circulated widely and fake philanthropic websites scammed people out of donations. False claims that people were trapped under rubble diverted rescue efforts away from the places that needed...</source:markdown>
+      <guid>cid://https://www.niemanlab.org/?p=252417</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>ad fraud</category>
+      <category>advertising</category>
+      <category>AI</category>
+      <category>authentication</category>
+      <category>disinformation</category>
+      <category>fake news</category>
+      <category>generative AI</category>
+      <category>Google</category>
+      <category>html</category>
+      <category>internet standards</category>
+      <category>Japan</category>
+      <category>meta</category>
+      <category>misinformation</category>
+      <category>natural disasters</category>
+      <category>NHK</category>
+      <category>OP</category>
+      <category>OP-CIP</category>
+      <category>Originator Profiel</category>
+      <category>provenance</category>
+      <category>scams</category>
+      <category>The Asahi Shimbun</category>
+      <category>The Yomiuri Shimbun</category>
+      <category>verification</category>
+      <category>W3C</category>
+    </item>    <item>
+      <title>UCLA women’s soccer seeks revenge against BYU in season-opening match</title>
+      <link>https://dailybruin.com/2026/08/12/ucla-womens-soccer-seeks-revenge-against-byu-in-season-opening-match/</link>
+      <description>
+        <![CDATA[One hundred and ten minutes of play boiled down to four penalty kicks. Just the shooter and goalkeeper &#8211; and a chance to stay alive for one more game.]]>
+      </description>
+      <source:markdown>One hundred and ten minutes of play boiled down to four penalty kicks. Just the shooter and goalkeeper – and a chance to stay alive for one more game.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514127</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Soccer</category>
+      <category>db-story-a</category>
+    </item>    <item>
       <title>UC joins 35 universities supporting Harvard against Trump administration</title>
       <link>https://dailybruin.com/2026/08/11/uc-joins-35-universities-supporting-harvard-against-trump-administration/</link>
       <description>
@@ -21,7 +118,7 @@ The University was one of 36 colleges and universities that signed the brief, wh
       <category>National</category>
       <category>News</category>
       <category>UC</category>
-      <category>db-story-c1</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>New women’s volleyball coach plans for success with community-oriented coaching</title>
       <link>https://dailybruin.com/2026/08/11/new-womens-volleyball-coach-plans-for-success-with-community-oriented-coaching/</link>
@@ -36,7 +133,7 @@ Werle was announced as the new UCLA women’s volleyball head coach Feb.</source
       <guid>cid://https://dailybruin.com/?p=514116</guid>
       <category>Sports</category>
       <category>Women&#39;s Volleyball</category>
-      <category>db-story-a</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>Gallery: LA Public Library branch celebrates 100 years with community-oriented festivities</title>
       <link>https://dailybruin.com/2026/08/11/gallery-la-public-library-branch-celebrates-100-years-with-community-oriented-festivities/</link>
@@ -111,7 +208,7 @@ UCLA football added former NFL play-caller Derek Carr to its offensive coaching 
       <category>Football</category>
       <category>Sports</category>
       <category>breaking</category>
-      <category>db-story-b</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>Outside Lands 2026: Balu Brigada, JADE, Mariah the Scientist fascinate fans at festival finale</title>
       <link>https://dailybruin.com/2026/08/10/outside-lands-2026-balu-brigada-jade-mariah-the-scientist-fascinate-fans-at-festival-finale/</link>
@@ -124,7 +221,7 @@ The music festival wrapped its three-day run with performances spanning pop, R&#
       <guid>cid://https://dailybruin.com/?p=514060</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-g</category>
+      <category>db-story-c2</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>Opinion: LA’s charter reform efforts have failed to produce meaningful change</title>
@@ -152,7 +249,7 @@ The Billboard Hot 100-charting artist returned to Outside Lands after three year
       <guid>cid://https://dailybruin.com/?p=514044</guid>
       <category>Arts</category>
       <category>Music</category>
-      <category>db-story-d1</category>
+      <category>db-story-d2</category>
       <category>Outside Lands 2026</category>
     </item>    <item>
       <title>“An inherent conflict of interest”: More than 800 USA Today Co. employees want the company to end its new Palantir partnership</title>
@@ -206,7 +303,7 @@ UCLA football is just weeks away from opening its 2026 campaign Sept. 5 against 
       <guid>cid://https://dailybruin.com/?p=513982</guid>
       <category>Football</category>
       <category>Sports</category>
-      <category>db-story-c2</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Q&#38;A: Faouzia talks ‘FILM NOIR’ era, onstage world-building</title>
       <link>https://dailybruin.com/2026/08/09/qfilm-noir-era-onstage-world-building/</link>
@@ -1439,148 +1536,6 @@ The incident occurred inside the victim’s dorm room at midnight Monday, accord
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>db-story-g</category>
-    </item>    <item>
-      <title>Opinion: Increasing AI funding is not the solution UCLA students need</title>
-      <link>https://dailybruin.com/2026/07/22/opinion-increasing-ai-funding-is-not-the-solution-ucla-students-need/</link>
-      <description>
-        <![CDATA[Artificial intelligence is changing the world &#8211; including UCLA. We must make sure &#8211; for our future careers and for our college education &#8211; that the university is getting the implementation of AI right.]]>
-      </description>
-      <source:markdown>Artificial intelligence is changing the world – including UCLA. We must make sure – for our future careers and for our college education – that the university is getting the implementation of AI right.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513453</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-i</category>
-      <category>db-story-op</category>
-    </item>    <item>
-      <title>What Makes Saratoga Race Course One of America’s Most Historic Tracks</title>
-      <link>https://dailybruin.com/2026/07/22/what-makes-saratoga-race-course-one-of-americas-most-historic-tracks/</link>
-      <description>
-        <![CDATA[Few venues in American sports carry the history and character of Saratoga Race Course. For more than 160 years, the New York landmark has welcomed generations of racing fans, owners, trainers, and jockeys to one of thoroughbred racing&#8217;s most celebrated summer destinations.&#160;
-        From its Victorian architecture to unforgettable championship moments, Saratoga has built a reputation unlike any other track in the United States.]]>
-      </description>
-      <source:markdown>Few venues in American sports carry the history and character of Saratoga Race Course. For more than 160 years, the New York landmark has welcomed generations of racing fans, owners, trainers, and jockeys to one of thoroughbred racing’s most celebrated summer destinations.
-From its Victorian architecture to unforgettable championship moments, Saratoga has built a reputation unlike any other track in the United States.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513450</guid>
-      <category>Sponsored</category>
-    </item>    <item>
-      <title>Amid budget deficit, political science department cuts TAs, shrinks course capacities</title>
-      <link>https://dailybruin.com/2026/07/22/amid-budget-deficit-political-science-department-cuts-tas-shrinks-course-capacities/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 26 at 8:12 p.m.</em>
-        UCLA’s political science department cut teaching assistant and reader positions in response to a budget deficit, faculty said.]]>
-      </description>
-      <source:markdown>_This post was updated July 26 at 8:12 p.m._
-UCLA’s political science department cut teaching assistant and reader positions in response to a budget deficit, faculty said.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513446</guid>
-      <category>A Closer Look</category>
-      <category>Academics</category>
-      <category>Campus</category>
-      <category>News</category>
-      <category>db-story-j</category>
-    </item>    <item>
-      <title>Gov. Gavin Newsom appoints podcaster Scott Galloway to UC Board of Regents</title>
-      <link>https://dailybruin.com/2026/07/22/gov-gavin-newsom-appoints-podcaster-scott-galloway-to-uc-board-of-regents/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 26 at 8:30 p.m.</em>
-        Gov. Gavin Newsom appointed podcaster Scott Galloway to the UC Board of Regents on Wednesday.
-        Galloway – who hosts The Prof G Pod, a tech-focused podcast with up to 100,000 monthly listeners – must receive confirmation from the state Senate before serving on the 26-member board.]]>
-      </description>
-      <source:markdown>_This post was updated July 26 at 8:30 p.m._
-Gov. Gavin Newsom appointed podcaster Scott Galloway to the UC Board of Regents on Wednesday.
-Galloway – who hosts The Prof G Pod, a tech-focused podcast with up to 100,000 monthly listeners – must receive confirmation from the state Senate before serving on the 26-member board.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513443</guid>
-      <category>News</category>
-      <category>Regents</category>
-      <category>UC</category>
-      <category>breaking</category>
-      <category>db-story-k</category>
-    </item>    <item>
-      <title>“This price was set by an algorithm”: News subscribers are surprised by a new line in their renewal emails</title>
-      <link>https://www.niemanlab.org/2026/07/this-price-was-set-by-an-algorithm-news-subscribers-are-surprised-by-a-new-line-in-their-renewal-emails/</link>
-      <description>
-        <![CDATA[Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: &#8220;THIS PRICE WAS...]]>
-      </description>
-      <source:markdown>Last December, one of our readers received a renewal email from The Wall Street Journal. Over the coming year, the email said, she would be charged $76.99 every four weeks for her print and digital subscription — $19.25 a week, or $923.88 annually. The renewal email included one sentence in all caps: “THIS PRICE WAS...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251797</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>AI</category>
-      <category>Albany Times Union</category>
-      <category>algorithmic pricing</category>
-      <category>Conde Nast</category>
-      <category>Consumer Reports</category>
-      <category>Dow Jones</category>
-      <category>dynamic pricing</category>
-      <category>Hearst</category>
-      <category>Instacart</category>
-      <category>pricing</category>
-      <category>subscription</category>
-      <category>The New Yorker</category>
-      <category>Wall Street Journal</category>
-      <category>Wired</category>
-    </item>    <item>
-      <title>Winner Takes All: Dishing on the best summer eats to beat the heat</title>
-      <link>https://dailybruin.com/2026/07/22/winner-takes-all-dishing-on-the-best-summer-eats-to-beat-the-heat/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 26 at 5:33 p.m.</em>
-        When summer means beach days, road trips or escaping another California heat wave, the best dishes know how to keep their cool.]]>
-      </description>
-      <source:markdown>_This post was updated July 26 at 5:33 p.m._
-When summer means beach days, road trips or escaping another California heat wave, the best dishes know how to keep their cool.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513438</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Lifestyle</category>
-      <category>db-story-d2</category>
-    </item>    <item>
-      <title>Search traffic has declined so much that some publishers are considering opting out of Google entirely</title>
-      <link>https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/</link>
-      <description>
-        <![CDATA[Back in 2024, Nilay Patel, editor-in-chief of The Verge, coined the term &#8220;Google Zero,&#8221; which he defined as &#8220;that moment when Google Search simply stops sending traffic outside of its search engine to third-party websites.&#8221; It increasingly feels as if that moment has arrived, and some publishers appear to be heading toward the decision that...]]>
-      </description>
-      <source:markdown>Back in 2024, Nilay Patel, editor-in-chief of The Verge, coined the term “Google Zero,” which he defined as “that moment when Google Search simply stops sending traffic outside of its search engine to third-party websites.” It increasingly feels as if that moment has arrived, and some publishers appear to be heading toward the decision that...</source:markdown>
-      <guid>cid://https://www.niemanlab.org/?p=251799</guid>
-      <category>Link post</category>
-      <category>Adweek</category>
-      <category>AI</category>
-      <category>AI Overviews</category>
-      <category>AI summaries</category>
-      <category>bots</category>
-      <category>Cloudflare</category>
-      <category>crawlers</category>
-      <category>Google</category>
-      <category>Google search</category>
-      <category>Google Zero</category>
-      <category>lawsuit</category>
-      <category>Mark Stenberg</category>
-      <category>Mike Reed</category>
-      <category>Neil Vogel</category>
-      <category>Nilay Patel</category>
-      <category>Penske Media</category>
-      <category>Politico</category>
-      <category>Reddit</category>
-      <category>Reuters</category>
-      <category>search</category>
-      <category>Semrush</category>
-      <category>SEO</category>
-      <category>Stephanie Cohen</category>
-      <category>The Economist</category>
-      <category>Time</category>
-      <category>traffic</category>
-      <category>USA Today</category>
-      <category>Wall Street Journal</category>
-    </item>    <item>
-      <title>Classifieds – July 22, 2026</title>
-      <link>https://dailytrojan.com/2026/07/22/classifieds-july-22-2026/</link>
-      <description>
-        <![CDATA[<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/07/22/classifieds-july-22-2026/">Classifieds &#8211; July 22, 2026</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>The Daily Trojan features Classified advertising in each day&#39;s edition. Here you can read, search, and even print out each day&#39;s edition of the Classifieds.
-
-The post [Classifieds – July 22, 2026](https://dailytrojan.com/2026/07/22/classifieds-july-22-2026/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=256846</guid>
-      <category>Classifieds</category>
     </item>
   </channel>
 </rss>

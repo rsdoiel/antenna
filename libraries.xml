@@ -4,10 +4,67 @@
   <channel>
     <title><![CDATA[Library and Archives organizations]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>12 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>13 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Reading Between the Lines, Part 2: Cognitive Debt and the Adaptive Publisher</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/13/reading-between-the-lines-part-2-cognitive-debt-and-the-adaptive-publisher/</link>
+      <description>
+        <![CDATA[<p>The central risk of AI in scholarly publishing is therefore not hallucination but cognitive debt: the gradual erosion of the human capacities that give scholarship its originality, integrity, and meaning.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/13/reading-between-the-lines-part-2-cognitive-debt-and-the-adaptive-publisher/">Reading Between the Lines, Part 2: Cognitive Debt and the Adaptive Publisher</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>The central risk of AI in scholarly publishing is therefore not hallucination but cognitive debt: the gradual erosion of the human capacities that give scholarship its originality, integrity, and meaning.
+
+The post [Reading Between the Lines, Part 2: Cognitive Debt and the Adaptive Publisher](https://scholarlykitchen.sspnet.org/2026/08/13/reading-between-the-lines-part-2-cognitive-debt-and-the-adaptive-publisher/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62503</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Authors</category>
+      <category>Controversial Topics</category>
+      <category>Ethics</category>
+      <category>Infrastructure</category>
+      <category>Innovation</category>
+      <category>Peer Review</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>Research Integrity</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>AI as editor tool</category>
+      <category>appropriate use of AI</category>
+      <category>Artificial intelligence</category>
+      <category>cognitive debt</category>
+      <category>judgment</category>
+      <category>judgment-based cognition</category>
+      <category>mechanical cognition</category>
+    </item>    <item>
+      <title>Journal Article: “Academic Search Literacy in the Age of Generative AI: A Conceptual Framework For Navigating the Search-Language Ecology”</title>
+      <link>https://www.infodocket.com/2026/08/12/journal-article-academic-search-literacy-in-the-age-of-generative-ai-a-conceptual-framework-for-navigating-the-search-language-ecology/</link>
+      <description>
+        <![CDATA[<p>The article linked below (abstract, intro, snippets only; full-text paywalled) was recently published by The Journal of Academic Librarianship. Title Academic Search Literacy In The Age Of Generative Ai: A Conceptual Framework For Navigating the Search-Language Ecology Authors Chao Cai Purdue University , Jane K. Yatcilla Purdue University Source The Journal of Academic Librarianship Volume [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/12/journal-article-academic-search-literacy-in-the-age-of-generative-ai-a-conceptual-framework-for-navigating-the-search-language-ecology/">Journal Article: &#8220;Academic Search Literacy in the Age of Generative AI: A Conceptual Framework For Navigating the Search-Language Ecology&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>The article linked below (abstract, intro, snippets only; full-text paywalled) was recently published by The Journal of Academic Librarianship. Title Academic Search Literacy In The Age Of Generative Ai: A Conceptual Framework For Navigating the Search-Language Ecology Authors Chao Cai Purdue University , Jane K. Yatcilla Purdue University Source The Journal of Academic Librarianship Volume \[…\]
+
+The post [Journal Article: “Academic Search Literacy in the Age of Generative AI: A Conceptual Framework For Navigating the Search-Language Ecology”](https://www.infodocket.com/2026/08/12/journal-article-academic-search-literacy-in-the-age-of-generative-ai-a-conceptual-framework-for-navigating-the-search-language-ecology/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168551</guid>
+      <category>Academic Libraries</category>
+      <category>Journal Articles</category>
+      <category>Libraries</category>
+      <category>News</category>
+    </item>    <item>
+      <title>The Corpus Is Not the Archive</title>
+      <link>https://metaarchivist.substack.com/p/the-corpus-is-not-the-archive</link>
+      <description>
+        <![CDATA[A new Archivist of the United States was just confirmed. His hardest problem isn&#8217;t the famous documents. It&#8217;s what quietly disappears when records become data &#8212; as 103 letters between Hamilton and Was]]>
+      </description>
+      <source:markdown>A new Archivist of the United States was just confirmed. His hardest problem isn’t the famous documents. It’s what quietly disappears when records become data — as 103 letters between Hamilton and Was</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ryg2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94252049-2a18-4eb5-b0f9-72dd434774ab_1672x941.png" length="0" type="image/jpeg" />
+      <guid>cid://https://metaarchivist.substack.com/p/the-corpus-is-not-the-archive</guid>
+    </item>    <item>
       <title>InvenioRDM v14.0 and invenio-pidbox module released</title>
       <link>https://blog.front-matter.de/posts/inveniordm-v14-0-and-invenio-pidbox-module-released/</link>
       <description>
@@ -50,6 +107,269 @@ The post [Reading Between the Lines, Part 1: A Cognitive Framework for AI in Sch
       <category>judgment</category>
       <category>judgment-based cognition</category>
       <category>mechanical cognition</category>
+    </item>    <item>
+      <title>Investing $4.9 million of our surplus in rebuilding the Crossref system</title>
+      <link>https://www.crossref.org/blog/investing-4.9-million-of-our-surplus-in-rebuilding-the-crossref-system/</link>
+      <description>
+        <![CDATA[<!-- CATEGORY-REFERENCE:START—auto-generated by bin/sync-template-categories.py; do not hand-edit
+        CONTROLLED VOCABULARY—the 147 allowed blog `categories`
+        HOW CATEGORIES WORK ON THIS SITE
+        • Choose from the list below ONLY. Copy the ones that apply into the
+        `categories:` block in the front matter above (delete the starter examples).
+        • Prefer an existing term over inventing a new one—that's what keeps topic
+        pages useful instead of fragmented (we merged 200+ tags down to this list).
+        • The site build ENFORCES this: if a post uses a category that isn't on this
+        list, the GitLab pipeline FAILS with a message naming the term.
+        NEED A GENUINELY NEW TOPIC?
+        • Add it as a `[[category]]` entry in data/taxonomy/allowed_categories.toml
+        then run bin/sync-template-categories.py to refresh this list.
+        • If unsure, ask in #website-editors or check with Rosa/Ginny.
+        THE 147 ALLOWED CATEGORIES (alphabetical):
+        Abstracts, Accepted Manuscripts, Accessibility, Affiliations, Altmetrics, Ambassadors, Annual Meeting, Annual Report, API Case Study, APIs
+        Best Practices, Bibliometrics, Blogs, Board, Board Summary, Books, Brand
+        CDL, Citation, Citation Formats, Cited-by, Clinical Trials, Cloud, Co-access, Code, Collaboration, Community, Community call, Conference Identifiers, Content Negotiation, Content Registration, Crossmark
+        Data, Data Centre, Data Citation, Data Science, DataCite, Discussion, DOAJ, DOI Resolution, DOIs
+        Elections, Engineering, Environment, Equity, Event Data
+        Fees, Finance, Full-text Links
+        GEM, Google, Governance, Grant Linking System
+        Handle
+        I4OA, Identifiers, InChI, Infrastructure, Interoperability
+        Linked Data, Linking
+        Machine Learning, Meet the Members, Meetings, Member Briefing, Member Experience, Members, Membership, Metadata, Metadata Awards, Metadata Manager, Metadata Matching, Metadata Retrieval, Multiple Resolution
+        News Release
+        Open Access, Open Funder Registry, Open Source, OpenURL, Operations, ORCID, Organisation Identifier, OTMI
+        Participation Reports, Patents, PDF, Peer Review, Persistence, Perspectives, PIDapalooza, PKP, Policy, POSI, POSI Audit, Post Mortem, Preprints, Preservation, Product, Programming, Programs, Publishing, PubMed
+        R&D, Record Types, Reference Linking, Reference Matching, References, Relationships, Reports, Repositories, Request for Comment, Request for Services, Research Funders, Research Integrity, Research Nexus, Researchers, REST API, Retraction Watch, Retractions, Roadmap, ROR, RSS
+        Schema, Search, Security, Service Providers, Similarity Check, Software, Sponsors, Staff, Standards, Strategy, Support, Sustainability
+        Technology, Terms, Text and Data Mining, Title Transfers, Translations
+        User Interfaces, UX Research
+        Web, Webinars, Wikipedia
+        XML, XMP
+        Zotero
+        CATEGORY-REFERENCE:END -->
+        <p>The infrastructure that registers and distributes Crossref metadata has been running and growing for more than two decades. It now does considerably more than it was built to do, and it shows: two large, tightly coupled monoliths (Content System and REST API), where a change in one place risks breaking something in another.</p>
+        <p>In its July meeting, the Crossref board approved the use of Crossref surplus funds for a three-year project to accelerate the redesign of the Crossref system. Our plan is to use $1.6 million a year for three years (~USD $4.9M in total) from our surplus funds, which will help us set up a modern infrastructure consisting of separate services for the different functionalities that the Crossref system offers.</p>
+        <p>This infusion of time-limited resources will augment our existing team. We will continue to maintain the current system, add small improvements, fix bugs, and make schema changes. We’ve mapped out our time and capacity to ensure that we can keep the current system active and robust while building the new system at the same time. In the past, when we’ve attempted large redesign initiatives, we’ve done a code freeze on the existing system—we won’t be doing that this time. 25,000+ members and thousands of downstream services rely on the system daily, so we will continue to provide time and energy to support that while building for the future. As always, you can view our <a href="https://share.productboard.com/crossref/board/aadbc362-e552-4af2-9078-1b79a8533e87" target="_blank">public roadmap</a> to see progress with what we’re working on.</p>
+        <h2 id="background">Background</h2>
+        <p>Over the years, the board, leadership team, and staff have discussed the need to address long-term technical debt in the Crossref system and the need to move from a monolithic codebase to a more modern, manageable, resilient technology that recreates the Crossref system. We are aiming to do this through a set of connected services and functions that better meet our mission and enable the <a href="https://www.crossref.org/documentation/research-nexus/">Research Nexus</a>, our goal of a rich and reusable open network of relationships connecting research organisations, people, things, and actions.</p>
+        <p>Our colleagues Paul Davis and Sara Bowman described some of the current challenges and plans earlier this year in <a href="https://doi.org/10.64000/8mckt-w8m69" target="_blank"><em>Hit refresh: redesigning our technical infrastructure</em></a>. We migrated from a closed-source database to PostgreSQL in 2024, moved out of <a href="https://doi.org/10.64000/wd6rx-vpq73" target="_blank">a physical data centre into the cloud</a> in August 2025, and have steadily been <a href="https://www.crossref.org/deprecated/">deprecating</a> older tools not fit for purpose, such as <a href="https://doi.org/10.64000/rzbn5-wjy58" target="_blank">Event Data</a>, <a href="https://doi.org/10.64000/whxtd-8zv50" target="_blank">Co-access</a> and <a href="https://doi.org/10.64000/ys7s6-pwn71" target="_blank">‘old’ Metadata Manager</a> while rebuilding replacements. That was some of the groundwork; now we&rsquo;re rebuilding the centre.</p>
+        <p>The two largest components of the current architecture are the Content System (CS) and the REST API. Both function as monoliths. They use mono-repositories, and their internal components are tightly coupled. Over time, they have accumulated complexity, substantially expanding beyond their original purpose. Each of them is now responsible for many different functions, with different needs and characteristics. This monolithic and tightly coupled architecture makes it difficult to maintain, scale, or expand our system. Adding new functionality often requires workarounds, which further increases complexity and adds technical debt.</p>
+        <p>As a not-for-profit, any surplus we generate has three possible destinations: reserves, paying down debt, or reinvestment in the mission. We met our goal of holding twelve months of operating costs in reserve in 2023, and we carry no debt, so reinvestment is where the rest belongs. We aim to generate surpluses to ensure that we are operating within our means, but we don’t need to accumulate them.</p>
+        <p>Some of that reinvestment goes outside Crossref; this year we&rsquo;ve supported other community initiatives and infrastructure that people rely on, totalling around $500,000. A large proportion of the rest should go where members will feel it.</p>
+        <p>Reinvestment also has to be the right shape. Under the <a href="https://doi.org/10.14454/G8WV-VM65" target="_blank">Principles of Open Scholarly Infrastructure</a>, time-limited funds are used only for time-limited activities: day-to-day operations are covered by day-to-day revenue, and one-off funds go to one-off projects. A three-year rebuild, staffed by fixed-term roles embedded in existing teams, meets that test.</p>
+        <h2 id="what-will-we-rebuild">What will we rebuild?</h2>
+        <p>At the end of 2024, we <a href="https://doi.org/10.64000/bm6g0-gvy36" target="_blank">introduced a new structure</a> with Crossref work happening within three cross-functional programs: Co-creation and Community Trends (CCT), Contributing to the Research Nexus (CRN), and Open and Sustainable Operations (OSO). The redesign of the Crossref system will also happen within these three programs. The approach we’ve taken is that we’ve identified the different functionalities of the current system, and divided these between the three programs. In the tables below, you can see which services will be rebuilt within each program.</p>
+        <h4 id="co-creation-and-community-trends-cct">Co-creation and Community Trends (CCT)</h4>
+        <table>
+        <thead>
+        <tr>
+        <th style="text-align: left">Name of component</th>
+        <th style="text-align: left">What is it?</th>
+        <th style="text-align: left">What does it do?</th>
+        <th style="text-align: left">What will change with the rebuild?</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td style="text-align: left">Internal APIs for UIs</td>
+        <td style="text-align: left">Purpose-built backends to serve various user interfaces. This is an architectural approach that we have recently begun using to build the new Metadata Manager record registration tool.</td>
+        <td style="text-align: left">Take data from sources such as the Postgres database or the data lake and provide it in a form that user interfaces can use.</td>
+        <td style="text-align: left">This approach will allow us to decouple existing interfaces from the legacy system codebase and build new ones as part of the other projects listed below.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Member self-service</td>
+        <td style="text-align: left">A new interface for members to perform routine tasks related to their member account and user management.</td>
+        <td style="text-align: left">Currently, these tasks are performed in highly manual processes by the Membership team. In some cases, there are semi-manual processes in place, such as with title transfers, where members can fill out a <a href="https://www.crossref.org/documentation/register-maintain-records/creating-and-managing-dois/transferring-responsibility-for-dois/#04142">request form</a> on our website.</td>
+        <td style="text-align: left">A self-service portal powered by the new authentication and authorisation service (mentioned below) will lighten the workload of the Membership team. For example, we estimate that about 15% of member support tickets in 2025 represented contact updates which had to be handled manually.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">New Admin tool</td>
+        <td style="text-align: left">A user interface for members to perform routine tasks related to their DOI records and metadata submissions.</td>
+        <td style="text-align: left">Members can sign in and upload metadata submissions or queries in XML format, as well as view details about their past submissions. The current admin tool lives at doi.crossref.org.</td>
+        <td style="text-align: left">We will replace the current Admin tool with an interface that integrates with the new authentication and authorisation service and uses interstitial APIs for its functionality. The new interface will also be more accessible and usable.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">ORCID Auto-update</td>
+        <td style="text-align: left">A workflow without a user interface or authentication with the Crossref system.</td>
+        <td style="text-align: left">Auto-update pushes metadata about works in the Crossref database to the ORCID API and asks researchers’ permission for Crossref to push further updates and additions.</td>
+        <td style="text-align: left">The main goal of rebuilding our ORCID Auto-update is to make it a standalone service, less entwined with the content system. We will also tweak functionality that we have been unable to make in recent years.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Reports</td>
+        <td style="text-align: left">A series of tables and dashboards presenting metadata from the Crossref database, including DOI resolutions, conflict reports, error reports, and participation reports.</td>
+        <td style="text-align: left">Most report interfaces are openly available via the Crossref website. They are used mostly by members to self-serve information about their metadata on the member, prefix, or title level.</td>
+        <td style="text-align: left">We will change the data source of these reports to the data lake and unify their overall architecture. On the frontend side, there is much scope for improving the usability and accessibility of these interfaces for greater analysis by members and the community.</td>
+        </tr>
+        </tbody>
+        </table>
+        <h4 id="contributing-to-the-research-nexus-crn">Contributing to the Research Nexus (CRN)</h4>
+        <table>
+        <thead>
+        <tr>
+        <th style="text-align: left">Name of component</th>
+        <th style="text-align: left">What is it?</th>
+        <th style="text-align: left">What does it do?</th>
+        <th style="text-align: left">What will change with the rebuild?</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td style="text-align: left">Funder matching</td>
+        <td style="text-align: left">Matching member-submitted funder metadata to a funder identifier.</td>
+        <td style="text-align: left">For works with funders and no funder identifier, match the funder name to a funder registry entry.</td>
+        <td style="text-align: left">Build a new matching architecture and match funder names to ROR identifiers. Matches are added directly to the REST API as asserted by Crossref.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Preprint matching</td>
+        <td style="text-align: left">For registered journal articles, check if there is a corresponding preprint it can be linked to.</td>
+        <td style="text-align: left">Looks for an exact match between the title and authors. Currently notifies the preprint member via email who is obliged to add the relationship to their metadata (which Crossref reciprocates from journal article records).</td>
+        <td style="text-align: left">Research and test a new method for matching. Add matches directly to the REST API, marked as asserted by Crossref.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Reference matching</td>
+        <td style="text-align: left">For references deposited without a DOI, look for a corresponding Crossref DOI and add those to the metadata (see our recent update on <a href="https://doi.org/10.64000/8cekz-69m52" target="_blank">the scale of this service</a>)</td>
+        <td style="text-align: left">Several different processes are used, depending on the completeness of the deposited metadata. Matching is carried out during the deposit process and added to the XML record.</td>
+        <td style="text-align: left">Research and test a new and further improved method for matching. Add matches to the REST API, marked as asserted by Crossref.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">XML API</td>
+        <td style="text-align: left">A public API to deliver metadata in XML format.</td>
+        <td style="text-align: left">Use a DOI to look up metadata or construct an XML query.</td>
+        <td style="text-align: left">Reimplement separately from the deposit system. Re-evaluate the features.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Metadata enrichment</td>
+        <td style="text-align: left">Supplement member-submitted metadata with other information held by Crossref.</td>
+        <td style="text-align: left">Crossref metadata records have <code>information</code> added during deposit, including member information, citation counts, and relationships.</td>
+        <td style="text-align: left">Review current processes and identify those that can be separated from metadata submission. Where possible, build standalone services that create enrichments, preparing for additional third-party data sources.</td>
+        </tr>
+        </tbody>
+        </table>
+        <h4 id="open-and-sustainable-operations-oso">Open and Sustainable Operations (OSO)</h4>
+        <table>
+        <thead>
+        <tr>
+        <th style="text-align: left">Name of component</th>
+        <th style="text-align: left">What is it?</th>
+        <th style="text-align: left">What does it do?</th>
+        <th style="text-align: left">What will change with the rebuild?</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td style="text-align: left">Authentication &amp; Authorisation</td>
+        <td style="text-align: left">An identity management system</td>
+        <td style="text-align: left">Authenticate and authorise users to access the different Crossref tools and services.</td>
+        <td style="text-align: left">Improve security, allow for member and sponsor self-service to manage users and permissions across their teams and vendors.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Billing</td>
+        <td style="text-align: left">A service to generate invoices and reports based on new record registrations per quarter.</td>
+        <td style="text-align: left">Generate a .csv of billable submissions and upload to our accounting system to generate invoices.</td>
+        <td style="text-align: left">Reduce technical debt and remove code from the legacy system; allow for point-in-time billing.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Notifications</td>
+        <td style="text-align: left">A service to send emails or callbacks to members as new DOI records are registered or existing ones updated.</td>
+        <td style="text-align: left">Transactional notifications on submission status. Additional notifications when works are cited by other works.</td>
+        <td style="text-align: left">Reduce/eliminate the number of emails sent, reduce technical debt, remove code from the legacy system.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Handle system</td>
+        <td style="text-align: left">Update and look up DOI in the Global Handle Registry.</td>
+        <td style="text-align: left">Registers the DOI string and associated landing page URL for redirection (DOI resolution).</td>
+        <td style="text-align: left">Implement better fallback and error handling to make connections with the Global Handle Registry more resilient.</td>
+        </tr>
+        <tr>
+        <td style="text-align: left">Deposit system</td>
+        <td style="text-align: left">System that receives XML deposits from members.</td>
+        <td style="text-align: left">Processes deposits and makes them available to other systems, like the REST API.</td>
+        <td style="text-align: left">Separate out the different components of the deposit system.</td>
+        </tr>
+        </tbody>
+        </table>
+        <p>The three-year timeline refers to the duration of the additional investment that is now being made. We don’t expect all of the rebuild work to be complete within three years. And system maintenance and improvement is never done. The additional resources will accelerate our ability to address these projects and get them substantially complete or meaningfully underway within three years. We will start with the things that are easiest to separate out of the current system, and work our way through it. The deposit system will be the last part we’ll tackle— after the initial 3-year period. Exactly how we’ll break out or couple together its components will depend somewhat on how the rest of the work in all three programs proceeds.</p>
+        <p>Additionally, there will be work in the OSO program to pull out deprecated/unused code from the content system as other programs build new free-standing services.</p>
+        <p>Of course, an end goal is to rebuild all of this in open code repositories, and eventually turn our amber-coloured ‘open source’ to green in our biannual <a href="https://www.crossref.org/categories/posi-audit">POSI audits</a>.</p>
+        <h2 id="what-does-this-new-investment-and-approach-mean-for-our-community">What does this new investment and approach mean for our community?</h2>
+        <p>Having seen the long list of things we’re planning to do, you may be wondering how this will impact you. Here are some things you should know:</p>
+        <p><strong>You’ll be able to use our services throughout this project.</strong> Part of the reason why we are rebuilding different functions one by one is that we don’t want to interrupt the services we offer to our growing membership and users. The current services will continue to run until the new ones are in place, and we’ll have clear transition plans and documentation in cases where you need to update your workflows.</p>
+        <p><strong>We won’t just rebuild like-for-like, but we’ll make improvements when we rebuild services.</strong> We want to continue to provide the functionality we currently offer to our members, but we also realise there are things that could be better. The clearest example of this is member self-service, which will be one of the main priorities for the CCT program next year. For example, as mentioned above, in 2025, about 15% of member support tickets were contact updates: changes members should be able to make themselves in seconds, but which our membership team handles by hand; that is the kind of thing that will improve life for both members and staff.</p>
+        <p><strong>We are planning to deprecate some older/less-used services along the way, but we’ll give you plenty of notice.</strong> Crossref is probably running more services than you realise! We’re therefore evaluating all our services as part of the redesign, and keeping only the ones that are actively used and really add value for the community. If we decide to retire a service, we will contact all users so they have enough time to transition to an alternative service. Everything we’ve deprecated so far is also <a href="https://www.crossref.org/deprecated/">itemised on our website</a>.</p>
+        <p><strong>Community input will be a big part of the process.</strong> To ensure the services we offer meet your needs, we will need to keep talking with you. Our community managers and UX researchers will be reaching out to users of different services to understand use cases and ensure these continue to be met within the new system.</p>
+        <p>This blog is the first tagged ‘<a href="https://www.crossref.org/categories/system-redesign">system-redesign</a>’ so follow this category for ongoing updates. If you have feedback or questions, please head to the <a href="https://community.crossref.org/t/about-the-system-redesign-category/16250" target="_blank">dedicated community forum space</a> for system redesign and ask us in the open.</p>
+        <h2 id="two-halves-of-the-same-decision">Two halves of the same decision</h2>
+        <p>Later this week we&rsquo;ll also announce the latest round of fee changes resulting from our <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">Resourcing Crossref for Future Sustainability (RCFS)</a> work. What we charge, and what we do with what we collect, are two halves of the same decision; fees are to come down at the same time as we commit the largest single investment in our infrastructure we have ever made. Both follow from the same principle: we set fees to cover the cost of running the infrastructure, and when we hold more than we need, it goes back to the community and into the longevity of the scholarly record.</p>
+        <p>Our recent position paper on <a href="https://doi.org/10.13003/q4vu-l2mw" target="_blank">PIDs in research infrastructure policy</a> argues that the value of an identifier lies in the metadata and services around it, and in whether those can be maintained over the long term. This approach to futureproofing open scholarly infrastructure is an example of that maintenance in action.</p>
+        <h3 id="acknowledgements">Acknowledgements</h3>
+        <p>We would like to thank Sara Bowman, Carlos del Ojo Elias, Bharath Govindarajan, Stewart Houten, Martyn Rittman, Lena Stoll and Patrick Vale for their work on the system investment proposal and contributions to this blog post.</p>]]>
+      </description>
+      <source:markdown>The infrastructure that registers and distributes Crossref metadata has been running and growing for more than two decades. It now does considerably more than it was built to do, and it shows: two large, tightly coupled monoliths (Content System and REST API), where a change in one place risks breaking something in another.
+
+In its July meeting, the Crossref board approved the use of Crossref surplus funds for a three-year project to accelerate the redesign of the Crossref system. Our plan is to use $1.6 million a year for three years (~USD $4.9M in total) from our surplus funds, which will help us set up a modern infrastructure consisting of separate services for the different functionalities that the Crossref system offers.
+
+This infusion of time-limited resources will augment our existing team. We will continue to maintain the current system, add small improvements, fix bugs, and make schema changes. We’ve mapped out our time and capacity to ensure that we can keep the current system active and robust while building the new system at the same time. In the past, when we’ve attempted large redesign initiatives, we’ve done a code freeze on the existing system—we won’t be doing that this time. 25,000+ members and thousands of downstream services rely on the system daily, so we will continue to provide time and energy to support that while building for the future. As always, you can view our [public roadmap](https://share.productboard.com/crossref/board/aadbc362-e552-4af2-9078-1b79a8533e87) to see progress with what we’re working on.
+
+## Background
+
+Over the years, the board, leadership team, and staff have discussed the need to address long-term technical debt in the Crossref system and the need to move from a monolithic codebase to a more modern, manageable, resilient technology that recreates the Crossref system. We are aiming to do this through a set of connected services and functions that better meet our mission and enable the [Research Nexus](https://www.crossref.org/documentation/research-nexus/), our goal of a rich and reusable open network of relationships connecting research organisations, people, things, and actions.
+
+Our colleagues Paul Davis and Sara Bowman described some of the current challenges and plans earlier this year in [_Hit refresh: redesigning our technical infrastructure_](https://doi.org/10.64000/8mckt-w8m69). We migrated from a closed-source database to PostgreSQL in 2024, moved out of [a physical data centre into the cloud](https://doi.org/10.64000/wd6rx-vpq73) in August 2025, and have steadily been [deprecating](https://www.crossref.org/deprecated/) older tools not fit for purpose, such as [Event Data](https://doi.org/10.64000/rzbn5-wjy58), [Co-access](https://doi.org/10.64000/whxtd-8zv50) and [‘old’ Metadata Manager](https://doi.org/10.64000/ys7s6-pwn71) while rebuilding replacements. That was some of the groundwork; now we’re rebuilding the centre.
+
+The two largest components of the current architecture are the Content System (CS) and the REST API. Both function as monoliths. They use mono-repositories, and their internal components are tightly coupled. Over time, they have accumulated complexity, substantially expanding beyond their original purpose. Each of them is now responsible for many different functions, with different needs and characteristics. This monolithic and tightly coupled architecture makes it difficult to maintain, scale, or expand our system. Adding new functionality often requires workarounds, which further increases complexity and adds technical debt.
+
+As a not-for-profit, any surplus we generate has three possible destinations: reserves, paying down debt, or reinvestment in the mission. We met our goal of holding twelve months of operating costs in reserve in 2023, and we carry no debt, so reinvestment is where the rest belongs. We aim to generate surpluses to ensure that we are operating within our means, but we don’t need to accumulate them.
+
+Some of that reinvestment goes outside Crossref; this year we’ve supported other community initiatives and infrastructure that people rely on, totalling around $500,000. A large proportion of the rest should go where members will feel it.
+
+Reinvestment also has to be the right shape. Under the [Principles of Open Scholarly Infrastructure](https://doi.org/10.14454/G8WV-VM65), time-limited funds are used only for time-limited activities: day-to-day operations are covered by day-to-day revenue, and one-off funds go to one-off projects. A three-year rebuild, staffed by fixed-term roles embedded in existing teams, meets that test.
+
+## What will we rebuild?
+
+At the end of 2024, we [introduced a new structure](https://doi.org/10.64000/bm6g0-gvy36) with Crossref work happening within three cross-functional programs: Co-creation and Community Trends (CCT), Contributing to the Research Nexus (CRN), and Open and Sustainable Operations (OSO). The redesign of the Crossref system will also happen within these three programs. The approach we’ve taken is that we’ve identified the different functionalities of the current system, and divided these between the three programs. In the tables below, you can see which services will be rebuilt within each program.
+
+#### Co-creation and Community Trends (CCT)
+
+Name of componentWhat is it?What does it do?What will change with the rebuild?Internal APIs for UIsPurpose-built backends to serve various user interfaces. This is an architectural approach that we have recently begun using to build the new Metadata Manager record registration tool.Take data from sources such as the Postgres database or the data lake and provide it in a form that user interfaces can use.This approach will allow us to decouple existing interfaces from the legacy system codebase and build new ones as part of the other projects listed below.Member self-serviceA new interface for members to perform routine tasks related to their member account and user management.Currently, these tasks are performed in highly manual processes by the Membership team. In some cases, there are semi-manual processes in place, such as with title transfers, where members can fill out a [request form](https://www.crossref.org/documentation/register-maintain-records/creating-and-managing-dois/transferring-responsibility-for-dois/#04142) on our website.A self-service portal powered by the new authentication and authorisation service (mentioned below) will lighten the workload of the Membership team. For example, we estimate that about 15% of member support tickets in 2025 represented contact updates which had to be handled manually.New Admin toolA user interface for members to perform routine tasks related to their DOI records and metadata submissions.Members can sign in and upload metadata submissions or queries in XML format, as well as view details about their past submissions. The current admin tool lives at doi.crossref.org.We will replace the current Admin tool with an interface that integrates with the new authentication and authorisation service and uses interstitial APIs for its functionality. The new interface will also be more accessible and usable.ORCID Auto-updateA workflow without a user interface or authentication with the Crossref system.Auto-update pushes metadata about works in the Crossref database to the ORCID API and asks researchers’ permission for Crossref to push further updates and additions.The main goal of rebuilding our ORCID Auto-update is to make it a standalone service, less entwined with the content system. We will also tweak functionality that we have been unable to make in recent years.ReportsA series of tables and dashboards presenting metadata from the Crossref database, including DOI resolutions, conflict reports, error reports, and participation reports.Most report interfaces are openly available via the Crossref website. They are used mostly by members to self-serve information about their metadata on the member, prefix, or title level.We will change the data source of these reports to the data lake and unify their overall architecture. On the frontend side, there is much scope for improving the usability and accessibility of these interfaces for greater analysis by members and the community.
+
+#### Contributing to the Research Nexus (CRN)
+
+Name of componentWhat is it?What does it do?What will change with the rebuild?Funder matchingMatching member-submitted funder metadata to a funder identifier.For works with funders and no funder identifier, match the funder name to a funder registry entry.Build a new matching architecture and match funder names to ROR identifiers. Matches are added directly to the REST API as asserted by Crossref.Preprint matchingFor registered journal articles, check if there is a corresponding preprint it can be linked to.Looks for an exact match between the title and authors. Currently notifies the preprint member via email who is obliged to add the relationship to their metadata (which Crossref reciprocates from journal article records).Research and test a new method for matching. Add matches directly to the REST API, marked as asserted by Crossref.Reference matchingFor references deposited without a DOI, look for a corresponding Crossref DOI and add those to the metadata (see our recent update on [the scale of this service](https://doi.org/10.64000/8cekz-69m52))Several different processes are used, depending on the completeness of the deposited metadata. Matching is carried out during the deposit process and added to the XML record.Research and test a new and further improved method for matching. Add matches to the REST API, marked as asserted by Crossref.XML APIA public API to deliver metadata in XML format.Use a DOI to look up metadata or construct an XML query.Reimplement separately from the deposit system. Re-evaluate the features.Metadata enrichmentSupplement member-submitted metadata with other information held by Crossref.Crossref metadata records have `information` added during deposit, including member information, citation counts, and relationships.Review current processes and identify those that can be separated from metadata submission. Where possible, build standalone services that create enrichments, preparing for additional third-party data sources.
+
+#### Open and Sustainable Operations (OSO)
+
+Name of componentWhat is it?What does it do?What will change with the rebuild?Authentication &#38; AuthorisationAn identity management systemAuthenticate and authorise users to access the different Crossref tools and services.Improve security, allow for member and sponsor self-service to manage users and permissions across their teams and vendors.BillingA service to generate invoices and reports based on new record registrations per quarter.Generate a .csv of billable submissions and upload to our accounting system to generate invoices.Reduce technical debt and remove code from the legacy system; allow for point-in-time billing.NotificationsA service to send emails or callbacks to members as new DOI records are registered or existing ones updated.Transactional notifications on submission status. Additional notifications when works are cited by other works.Reduce/eliminate the number of emails sent, reduce technical debt, remove code from the legacy system.Handle systemUpdate and look up DOI in the Global Handle Registry.Registers the DOI string and associated landing page URL for redirection (DOI resolution).Implement better fallback and error handling to make connections with the Global Handle Registry more resilient.Deposit systemSystem that receives XML deposits from members.Processes deposits and makes them available to other systems, like the REST API.Separate out the different components of the deposit system.
+
+The three-year timeline refers to the duration of the additional investment that is now being made. We don’t expect all of the rebuild work to be complete within three years. And system maintenance and improvement is never done. The additional resources will accelerate our ability to address these projects and get them substantially complete or meaningfully underway within three years. We will start with the things that are easiest to separate out of the current system, and work our way through it. The deposit system will be the last part we’ll tackle— after the initial 3-year period. Exactly how we’ll break out or couple together its components will depend somewhat on how the rest of the work in all three programs proceeds.
+
+Additionally, there will be work in the OSO program to pull out deprecated/unused code from the content system as other programs build new free-standing services.
+
+Of course, an end goal is to rebuild all of this in open code repositories, and eventually turn our amber-coloured ‘open source’ to green in our biannual [POSI audits](https://www.crossref.org/categories/posi-audit).
+
+## What does this new investment and approach mean for our community?
+
+Having seen the long list of things we’re planning to do, you may be wondering how this will impact you. Here are some things you should know:
+
+**You’ll be able to use our services throughout this project.** Part of the reason why we are rebuilding different functions one by one is that we don’t want to interrupt the services we offer to our growing membership and users. The current services will continue to run until the new ones are in place, and we’ll have clear transition plans and documentation in cases where you need to update your workflows.
+
+**We won’t just rebuild like-for-like, but we’ll make improvements when we rebuild services.** We want to continue to provide the functionality we currently offer to our members, but we also realise there are things that could be better. The clearest example of this is member self-service, which will be one of the main priorities for the CCT program next year. For example, as mentioned above, in 2025, about 15% of member support tickets were contact updates: changes members should be able to make themselves in seconds, but which our membership team handles by hand; that is the kind of thing that will improve life for both members and staff.
+
+**We are planning to deprecate some older/less-used services along the way, but we’ll give you plenty of notice.** Crossref is probably running more services than you realise! We’re therefore evaluating all our services as part of the redesign, and keeping only the ones that are actively used and really add value for the community. If we decide to retire a service, we will contact all users so they have enough time to transition to an alternative service. Everything we’ve deprecated so far is also [itemised on our website](https://www.crossref.org/deprecated/).
+
+**Community input will be a big part of the process.** To ensure the services we offer meet your needs, we will need to keep talking with you. Our community managers and UX researchers will be reaching out to users of different services to understand use cases and ensure these continue to be met within the new system.
+
+This blog is the first tagged ‘ [system-redesign](https://www.crossref.org/categories/system-redesign)’ so follow this category for ongoing updates. If you have feedback or questions, please head to the [dedicated community forum space](https://community.crossref.org/t/about-the-system-redesign-category/16250) for system redesign and ask us in the open.
+
+## Two halves of the same decision
+
+Later this week we’ll also announce the latest round of fee changes resulting from our [Resourcing Crossref for Future Sustainability (RCFS)](https://www.crossref.org/community/special-programs/resourcing-crossref/) work. What we charge, and what we do with what we collect, are two halves of the same decision; fees are to come down at the same time as we commit the largest single investment in our infrastructure we have ever made. Both follow from the same principle: we set fees to cover the cost of running the infrastructure, and when we hold more than we need, it goes back to the community and into the longevity of the scholarly record.
+
+Our recent position paper on [PIDs in research infrastructure policy](https://doi.org/10.13003/q4vu-l2mw) argues that the value of an identifier lies in the metadata and services around it, and in whether those can be maintained over the long term. This approach to futureproofing open scholarly infrastructure is an example of that maintenance in action.
+
+### Acknowledgements
+
+We would like to thank Sara Bowman, Carlos del Ojo Elias, Bharath Govindarajan, Stewart Houten, Martyn Rittman, Lena Stoll and Patrick Vale for their work on the system investment proposal and contributions to this blog post.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/investing-4.9-million-of-our-surplus-in-rebuilding-the-crossref-system/</guid>
     </item>    <item>
       <title>EveryLibrary Institute Launches Library Advocacy and Funding Conference 2027</title>
       <link>https://www.infodocket.com/2026/08/11/everylibrary-institute-launches-library-advocacy-and-funding-conference-2027/</link>
@@ -143,10 +463,10 @@ The post [What Authors Expect Now, and Why Publishing Hasn’t Kept Up: An Inter
       <title>ARL Daily Intelligence (August 10–13)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-10-13/</link>
       <description>
-        <![CDATA[<p>Last Updated on August 11, 2026, 2:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on August 12, 2026, 2:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-10-13/">ARL Daily Intelligence (August 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on August 11, 2026, 2:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on August 12, 2026, 2:49 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (August 10–13)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-10-13/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49522</guid>
@@ -1430,117 +1750,6 @@ The post [Guest Post — Why Research Expectations Have Outpaced the Systems Tha
       <category>research impact</category>
       <category>researchers</category>
       <category>societal impact</category>
-    </item>    <item>
-      <title>Consumers Are Worried About the Loss of Physical Media Ownership. Libraries Are Leading the Conversation.</title>
-      <link>https://www.arl.org/blog/consumers-are-worried-about-the-loss-of-physical-media-ownership-libraries-are-leading-the-conversation/</link>
-      <description>
-        <![CDATA[<p>Last Updated on July 22, 2026, 3:09 pm ET Sally Sax is head, Collection Strategy and Partnerships, MacOdrum Library, Carleton University. In a recent Atlantic Monthly article about Sony’s plan...</p>
-        <p>The post <a href="https://www.arl.org/blog/consumers-are-worried-about-the-loss-of-physical-media-ownership-libraries-are-leading-the-conversation/">Consumers Are Worried About the Loss of Physical Media Ownership. Libraries Are Leading the Conversation.</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on July 22, 2026, 3:09 pm ET Sally Sax is head, Collection Strategy and Partnerships, MacOdrum Library, Carleton University. In a recent Atlantic Monthly article about Sony’s plan...
-
-The post [Consumers Are Worried About the Loss of Physical Media Ownership. Libraries Are Leading the Conversation.](https://www.arl.org/blog/consumers-are-worried-about-the-loss-of-physical-media-ownership-libraries-are-leading-the-conversation/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=49359</guid>
-      <category>Blog</category>
-    </item>    <item>
-      <title>Bringing Forgotten Music Back to Life with Optical Music Recognition</title>
-      <link>https://blog.archive.org/2026/07/22/bringing-forgotten-music-back-to-life-with-optical-music-recognition/</link>
-      <description>
-        <![CDATA[Just as printed letters can be scanned and converted into digital text, emerging technology can transform sheet music into sound. A new effort is underway to use optical music recognition [&#8230;]]]>
-      </description>
-      <source:markdown>Just as printed letters can be scanned and converted into digital text, emerging technology can transform sheet music into sound. A new effort is underway to use optical music recognition \[…\]</source:markdown>
-      <enclosure url="https://archive.org/details/140folksongsrote00unse.084.omr/140folksongsrote00unse.084.wav" length="0" type="audio/wav" />
-      <enclosure url="https://archive.org/details/InternetJukebox.JPS.28/02+Gladiator+-+OMR+Mix.wav" length="0" type="audio/wav" />
-      <enclosure url="https://archive.org/details/InternetJukebox.JPS.73/02+Pathfinder+-+OMR+Mix.wav" length="0" type="audio/wav" />
-      <enclosure url="https://archive.org/details/140folksongsrote00unse.061a.omr/140folksongsrote00unse.061a.vox.wav" length="0" type="audio/wav" />
-      <enclosure url="https://archive.org/details/bachalbumforpian00unse_omr/bachalbumforpian00unse.12-13.wav" length="0" type="audio/wav" />
-      <enclosure url="https://archive.org/details/schirmerslibrary00unse_omr/schirmerslibrary00unse.045-047.wav" length="0" type="audio/wav" />
-      <guid>cid://https://blog.archive.org/?p=30721</guid>
-      <category>Audio Archive</category>
-      <category>Music</category>
-      <category>News</category>
-      <category>OMR</category>
-      <category>optical music recognition</category>
-    </item>    <item>
-      <title>How AI Is Reshaping the Value of Higher Education</title>
-      <link>https://sr.ithaka.org/blog/how-ai-is-reshaping-the-value-of-higher-education/</link>
-      <description>
-        <![CDATA[<p>AI touches all of the basic assumptions that underlie how we think about the value of postsecondary education and academic research: what students need to learn, how they learn, how institutions operate, and how universities contribute to the production and dissemination of knowledge.  The immediate questions it raises are urgent and real. Students need AI [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/how-ai-is-reshaping-the-value-of-higher-education/">How AI Is Reshaping the Value of Higher Education</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>AI touches all of the basic assumptions that underlie how we think about the value of postsecondary education and academic research: what students need to learn, how they learn, how institutions operate, and how universities contribute to the production and dissemination of knowledge.  The immediate questions it raises are urgent and real. Students need AI \[…\]
-
-The post [How AI Is Reshaping the Value of Higher Education](https://sr.ithaka.org/blog/how-ai-is-reshaping-the-value-of-higher-education/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326058</guid>
-      <category>Generative AI</category>
-      <category>Postsecondary value</category>
-      <category>AI</category>
-      <category>Teaching with technology</category>
-      <category>Value of higher education</category>
-    </item>    <item>
-      <title>Understanding the CORE Dashboard: Checking Open Access Compliance for REF2029</title>
-      <link>https://blog.core.ac.uk/2026/07/22/understanding-the-core-dashboard-checking-open-access-compliance-for-ref2029/</link>
-      <description>
-        <![CDATA[With this instalment of our educational series we begin exploring the OA Compliance tab in the CORE Dashboard. Over the next three instalments we will look at the different compliance views the Dashboard offers: REF2029, the RIOXX metadata validator, and the Desirable Characteristics Report. We start with REF2029. What the REF2029 tab does The REF2029 &#8230; <a href="https://blog.core.ac.uk/2026/07/22/understanding-the-core-dashboard-checking-open-access-compliance-for-ref2029/" class="more-link">Continue reading <span class="screen-reader-text">Understanding the CORE Dashboard: Checking Open Access Compliance for REF2029</span></a>]]>
-      </description>
-      <source:markdown>With this instalment of our educational series we begin exploring the OA Compliance tab in the CORE Dashboard. Over the next three instalments we will look at the different compliance views the Dashboard offers: REF2029, the RIOXX metadata validator, and the Desirable Characteristics Report. We start with REF2029. What the REF2029 tab does The REF2029 … [Continue reading Understanding the CORE Dashboard: Checking Open Access Compliance for REF2029](https://blog.core.ac.uk/2026/07/22/understanding-the-core-dashboard-checking-open-access-compliance-for-ref2029/)</source:markdown>
-      <guid>cid://https://blog.core.ac.uk/?p=2030</guid>
-      <category>Uncategorised</category>
-      <category>dashboard</category>
-      <category>REF 2029 Compliance</category>
-    </item>    <item>
-      <title>Vanishing Culture Episode #4: Keeping African Folktales Alive with Helen Nde &#38; Laura Gibbs</title>
-      <link>https://blog.archive.org/2026/07/22/vanishing-culture-episode-4-keeping-african-folktales-alive-with-helen-nde-laura-gibbs/</link>
-      <description>
-        <![CDATA[Folktales are more than stories—they are living records of culture, identity, and collective memory. In the fourth episode of our special six-part series on Vanishing Culture, host Vida Vojić speaks [&#8230;]]]>
-      </description>
-      <source:markdown>Folktales are more than stories—they are living records of culture, identity, and collective memory. In the fourth episode of our special six-part series on Vanishing Culture, host Vida Vojić speaks \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30683</guid>
-      <category>Announcements</category>
-    </item>    <item>
-      <title>When LLMs Can Argue Both Sides Better Than You Can</title>
-      <link>https://aarontay.substack.com/p/when-llms-can-argue-both-sides-better</link>
-      <description>
-        <![CDATA[Can Teaching Media Literacy Backfire in the Age of LLMs? Revisiting Boyd&#8217;s 2017 provocation]]>
-      </description>
-      <source:markdown>Can Teaching Media Literacy Backfire in the Age of LLMs? Revisiting Boyd’s 2017 provocation</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!mxxY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f5cdb44-d015-4ca7-a7ea-b0f63f7be6dd_1491x1055.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/when-llms-can-argue-both-sides-better</guid>
-    </item>    <item>
-      <title>Authenticity Is Not a Deliverable</title>
-      <link>https://metaarchivist.substack.com/p/authenticity-is-not-a-deliverable</link>
-      <description>
-        <![CDATA[US Patent 7,792,791 B2 and the limits of building trust into a system]]>
-      </description>
-      <source:markdown>US Patent 7,792,791 B2 and the limits of building trust into a system</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!GJii!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcd02dc2-ed88-4a90-8f70-1ca1c186e3ae_1675x939.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/authenticity-is-not-a-deliverable</guid>
-    </item>    <item>
-      <title>Guest Post — What Does Commercial Adoption Mean for the Preprint Movement?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/07/22/guest-post-what-does-commercial-adoption-mean-for-the-preprint-movement/</link>
-      <description>
-        <![CDATA[<p>Today's guest bloggers suggest that the involvement of commercial publishers is not unequivocally bad for preprints, and provide some optimism about open access as a whole.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/22/guest-post-what-does-commercial-adoption-mean-for-the-preprint-movement/">Guest Post — What Does Commercial Adoption Mean for the Preprint Movement?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest bloggers suggest that the involvement of commercial publishers is not unequivocally bad for preprints, and provide some optimism about open access as a whole.
-
-The post [Guest Post — What Does Commercial Adoption Mean for the Preprint Movement?](https://scholarlykitchen.sspnet.org/2026/07/22/guest-post-what-does-commercial-adoption-mean-for-the-preprint-movement/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62332</guid>
-      <category>Authors</category>
-      <category>Business Models</category>
-      <category>Commerce</category>
-      <category>Economics</category>
-      <category>Open Access</category>
-      <category>Open Science</category>
-      <category>Research</category>
-      <category>ArXiv</category>
-      <category>bioRxiv</category>
-      <category>Dimensions</category>
-      <category>Elsevier</category>
-      <category>OSF Preprints</category>
-      <category>preprints</category>
-      <category>Research Square</category>
-      <category>SSRN</category>
     </item>
   </channel>
 </rss>
