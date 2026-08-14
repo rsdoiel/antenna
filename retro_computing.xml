@@ -4,10 +4,36 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>13 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>14 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Jolt with 4K images</title>
+      <link>http://retro.hansotten.nl/jolt-with-4k-images/</link>
+      <description>
+        <![CDATA[With thanks to Jonathan Chapman of Glitchworks who found a Jolt system, here images of a Jolt with 4K memory, an experimenters board and the power supply. Here the images See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste [&#8230;]]]>
+      </description>
+      <source:markdown>With thanks to Jonathan Chapman of Glitchworks who found a Jolt system, here images of a Jolt with 4K memory, an experimenters board and the power supply. Here the images See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22004</guid>
+      <category>6502</category>
+      <category>jolt</category>
+    </item>    <item>
+      <title>Rougol August 2026 meeting on monday</title>
+      <link>http://www.iconbar.com/comments/rss/news2353.html</link>
+      <description>
+        <![CDATA[The August 2026 Rougol meeting is on Monday.]]>
+      </description>
+      <source:markdown>The August 2026 Rougol meeting is on Monday.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2353.html</guid>
+    </item>    <item>
+      <title>b.log 2026/08/13 - Do not go gentle into that dark night, Eclipse, And..., New blog system.</title>
+      <link>https://heyrick.eu/blog/entry/20260813</link>
+      <description>
+        <![CDATA[Do not go gentle into that dark night, Eclipse, And..., New blog system.]]>
+      </description>
+      <source:markdown>Do not go gentle into that dark night, Eclipse, And..., New blog system.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260813</guid>
+    </item>    <item>
       <title>WROCC August 2026 meeting - Martin Eastwood</title>
       <link>http://www.iconbar.com/comments/rss/news2364.html</link>
       <description>
@@ -2337,26 +2363,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       </description>
       <source:markdown>The next developer chat is tomorrow night (25th July) for everyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2344.html</guid>
-    </item>    <item>
-      <title>Bug in the TTY KIM-1 monitor?</title>
-      <link>http://retro.hansotten.nl/bug-tty/</link>
-      <description>
-        <![CDATA[The KIM-1 monitor surprises me every time I dive into it. The KIM-1 Explained is nearing completion. The KIM-1 explained There is a bug in the TTY CLI, it accepts characters as &#8216;;&#8217; and &#8216;:&#8217; as valid hex and translates to A..F. More about this innocent feature here: PRTBYT, GETBYT and PACK See also:A demo [&#8230;]]]>
-      </description>
-      <source:markdown>The KIM-1 monitor surprises me every time I dive into it. The KIM-1 Explained is nearing completion. The KIM-1 explained There is a bug in the TTY CLI, it accepts characters as ‘;’ and ‘:’ as valid hex and translates to A..F. More about this innocent feature here: PRTBYT, GETBYT and PACK See also:A demo \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=21631</guid>
-      <category>6502</category>
-      <category>kim-1</category>
-    </item>    <item>
-      <title>John C. Dvorak has died</title>
-      <link>https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
-      <description>
-        <![CDATA[Reports coming in of the death of John C. Dvorak, apparently passed away on Monday (July 20th) from <a href="https://www.twit.community/t/john-c-dvorak-has-passed-away/20291">complications of heart bypass surgery</a>. Dvorak started in wine and moved to silicon as an early columnist at InfoWorld, one of the pillar references for this particular blog because of its studious regular reporting, and most notably for PC Magazine where he had no less than two columns since at least 1986. In addition to this and other tech journalism credits, he was on the flagship CNET Central cable TV program in the mid 1990's with his "Buy It, Try It, Skip It" reviews, plus other shows hosted on NPR and then-ZDTV. He was also a regular guest on <a href="2022/12/a-minor-memorial-for-leo-laporte-on.html">Leo LaPorte's syndicated radio program</a> and podcasts, and joined former MTV veejay Adam Curry (well known to us in Gopherspace for <a href="https://www.chicagotribune.com/1994/05/16/mtv-challenges-curry-over-address-on-info-superhighway/"><i>MTV Networks v. Curry</i></a>, and an early user of TTYtter before Twitter started to suck) in 2007 as co-host of the No Agenda podcast, a role he maintained <a href="https://mailchi.mp/nashownotes/rip-jcd-no-agenda-newsletter">until his death</a>. Dvorak hailed from a different generation of tech journalists, far more personal and yet far more technical, and even his detractors (given his political views, which we won't talk about here, there are many) would admit he was at least entertaining. He was 80. Rest in peace.]]>
-      </description>
-      <source:markdown>Reports coming in of the death of John C. Dvorak, apparently passed away on Monday (July 20th) from [complications of heart bypass surgery](https://www.twit.community/t/john-c-dvorak-has-passed-away/20291). Dvorak started in wine and moved to silicon as an early columnist at InfoWorld, one of the pillar references for this particular blog because of its studious regular reporting, and most notably for PC Magazine where he had no less than two columns since at least 1986. In addition to this and other tech journalism credits, he was on the flagship CNET Central cable TV program in the mid 1990&#39;s with his &#34;Buy It, Try It, Skip It&#34; reviews, plus other shows hosted on NPR and then-ZDTV. He was also a regular guest on [Leo LaPorte&#39;s syndicated radio program](2022/12/a-minor-memorial-for-leo-laporte-on.html) and podcasts, and joined former MTV veejay Adam Curry (well known to us in Gopherspace for [_MTV Networks v. Curry_](https://www.chicagotribune.com/1994/05/16/mtv-challenges-curry-over-address-on-info-superhighway/), and an early user of TTYtter before Twitter started to suck) in 2007 as co-host of the No Agenda podcast, a role he maintained [until his death](https://mailchi.mp/nashownotes/rip-jcd-no-agenda-newsletter). Dvorak hailed from a different generation of tech journalists, far more personal and yet far more technical, and even his detractors (given his political views, which we won&#39;t talk about here, there are many) would admit he was at least entertaining. He was 80. Rest in peace.</source:markdown>
-      <author>noreply@blogger.com (ClassicHasClass)</author>
-      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-3263916988491510810</guid>
-      <category>memorials</category>
     </item>
   </channel>
 </rss>

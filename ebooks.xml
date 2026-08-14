@@ -4,12 +4,68 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>13 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>14 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The Merry Adventures of Robin Hood by Howard Pyle</title>
       <link>https://www.gutenberg.org/ebooks/10148</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A la trace de Dieu by Jacques Rivière</title>
+      <link>https://www.gutenberg.org/ebooks/79357</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Poems. : by William Blake</title>
+      <link>https://www.gutenberg.org/ebooks/79363</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Seule en Russie : by Andrée Viollis</title>
+      <link>https://www.gutenberg.org/ebooks/79359</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The planet of peril by Otis Adelbert Kline</title>
+      <link>https://www.gutenberg.org/ebooks/79360</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mavericks by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79362</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>History of flagellation among different nations : by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/79361</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The botanist&#39;s repository for new and rare plants; vol. 10 [of 10] by Andrews</title>
+      <link>https://www.gutenberg.org/ebooks/79358</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The sailor&#39;s Sabbath : by Titus Coan</title>
+      <link>https://www.gutenberg.org/ebooks/79364</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1778,90 +1834,6 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The religion of a sceptic by John Cowper Powys</title>
-      <link>https://www.gutenberg.org/ebooks/79153</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hunger by Knut Hamsun</title>
-      <link>https://www.gutenberg.org/ebooks/76692</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The adventures of a blockade runner : by William Watson</title>
-      <link>https://www.gutenberg.org/ebooks/79162</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Jane Eyre: a drama in five acts : by John Brougham</title>
-      <link>https://www.gutenberg.org/ebooks/79159</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The man in the dark by John L.  Ferguson</title>
-      <link>https://www.gutenberg.org/ebooks/79160</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The green overcoat by Hilaire Belloc</title>
-      <link>https://www.gutenberg.org/ebooks/79154</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Temperamental People by Mary Roberts Rinehart</title>
-      <link>https://www.gutenberg.org/ebooks/79161</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The tin god of Twisted River by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79163</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Delle guerre del Peloponneso, vol. 1/2 by Thucydides</title>
-      <link>https://www.gutenberg.org/ebooks/79157</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Delle guerre del Peloponneso, vol. 2/2 by Thucydides</title>
-      <link>https://www.gutenberg.org/ebooks/79158</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Tomina in retreat by Amy Le Feuvre</title>
-      <link>https://www.gutenberg.org/ebooks/79156</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Im Dienste : by Welter Nikolaus</title>
-      <link>https://www.gutenberg.org/ebooks/79155</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
     </item>
   </channel>
 </rss>
