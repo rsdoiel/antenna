@@ -4,10 +4,30 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>16 Aug 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>StrongED test release 4.70a21 now available</title>
+      <link>https://www.riscository.com/2026/stronged-test-release-4-70a21/</link>
+      <description>
+        <![CDATA[There&#8217;s another new test release of StrongED available &#8211; version 4.70a21 [zip file] &#8211; with an upgrade [zip file] available to use by anyone who already has version 4.70a20 (noting that it is unsuitable for use with any other versions). And if you want to look at it, the source code [zip file] is also available. The main change in this version is to search and replace &#8211; quoting developer Fred Graute, &#8220;yes, again&#8221; &#8211; to provide control over the way it handles Dump files with three options: Skip, ASCII,&#8230;]]>
+      </description>
+      <source:markdown>There’s another new test release of StrongED available – version 4.70a21 \[zip file\] – with an upgrade \[zip file\] available to use by anyone who already has version 4.70a20 (noting that it is unsuitable for use with any other versions). And if you want to look at it, the source code \[zip file\] is also available. The main change in this version is to search and replace – quoting developer Fred Graute, “yes, again” – to provide control over the way it handles Dump files with three options: Skip, ASCII,…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=10997</guid>
+      <category>Announcements</category>
+      <category>Software</category>
+      <category>StrongED</category>
+      <category>text editor</category>
+    </item>    <item>
+      <title>b.log 2026/08/15 - Yet more tweaks, In other news..., Demise, Classes.</title>
+      <link>https://heyrick.eu/blog/entry/20260815</link>
+      <description>
+        <![CDATA[Yet more tweaks, In other news..., Demise, Classes.]]>
+      </description>
+      <source:markdown>Yet more tweaks, In other news..., Demise, Classes.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260815</guid>
+    </item>    <item>
       <title>RISC OS Open source developments weekly update (15th August 2026)</title>
       <link>http://www.iconbar.com/comments/rss/news2365.html</link>
       <description>
@@ -2359,36 +2379,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       </description>
       <source:markdown>Minitel Magis teardown - again.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260726</guid>
-    </item>    <item>
-      <title>b.log 2026/07/25 - Big Town, Strings, Minitel Magis (test and teardown).</title>
-      <link>https://heyrick.eu/blog/entry/20260725</link>
-      <description>
-        <![CDATA[Big Town, Strings, Minitel Magis (test and teardown).]]>
-      </description>
-      <source:markdown>Big Town, Strings, Minitel Magis (test and teardown).</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260725</guid>
-    </item>    <item>
-      <title>RISC OS Open source developments weekly update</title>
-      <link>http://www.iconbar.com/comments/rss/news2355.html</link>
-      <description>
-        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
-      </description>
-      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2355.html</guid>
-    </item>    <item>
-      <title>New MyChoices module released to make handling app settings a breeze for developers</title>
-      <link>https://www.riscository.com/2026/mychoices-module-released/</link>
-      <description>
-        <![CDATA[Graeme Shrimpton has released a new module, MyChoices, mentioned on the June fireside chat for developers, with the goal of making it much easier for them to load and save their application&#8217;s choices (or settings). It deals with the two problems a developer faces &#8211; correctly handling where those choices are stored on user machines, and parsing the file that contains them. The first problem is the file location and how to access it both for reading, and for writing &#8211; and the two are slightly different. There are a&#8230;]]>
-      </description>
-      <source:markdown>Graeme Shrimpton has released a new module, MyChoices, mentioned on the June fireside chat for developers, with the goal of making it much easier for them to load and save their application’s choices (or settings). It deals with the two problems a developer faces – correctly handling where those choices are stored on user machines, and parsing the file that contains them. The first problem is the file location and how to access it both for reading, and for writing – and the two are slightly different. There are a…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10981</guid>
-      <category>Programming</category>
-      <category>Choices</category>
-      <category>Developing</category>
-      <category>MyChoices</category>
-      <category>Settings</category>
-      <category>Tool</category>
     </item>
   </channel>
 </rss>

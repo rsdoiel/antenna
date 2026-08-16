@@ -5,17 +5,53 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>15 Aug 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>16 Aug 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>It&#39;s all hands on deck at this hidden LA River fingerboard park</title>
-      <link>https://laist.com/news/los-angeles-activities/la-river-fingerboard-skatepark-atwater</link>
+      <title>The OC helped shape Philip K Dick. A festival in Fullerton celebrates the sci-fi writer</title>
+      <link>https://laist.com/news/los-angeles-activities/philip-k-dick-festival-cal-state-fullerton</link>
       <description>
-        <![CDATA[We take you to a DIY skate park — for your fingers — in Atwater Village.]]>
+        <![CDATA[The Philip K. Dick Festival beams into Cal State Fullerton Aug. 20-23.]]>
       </description>
-      <source:markdown>We take you to a DIY skate park — for your fingers — in Atwater Village.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-fbea-dca8-a3bf-fbfe035a0000</guid>
+      <source:markdown>The Philip K. Dick Festival beams into Cal State Fullerton Aug. 20-23.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-fd42-d7bf-a1df-fd46c8970000</guid>
+    </item>    <item>
+      <title>How San Francisco’s ridiculous housing prices are defining the race to replace Pelosi</title>
+      <link>https://laist.com/news/how-san-franciscos-ridiculous-housing-prices-are-defining-the-race-to-replace-pelosi</link>
+      <description>
+        <![CDATA[The race to succeed Nancy Pelosi as San Francisco’s representative in Congress features two Democratic candidates, who both claim the title of “progressive."]]>
+      </description>
+      <source:markdown>The race to succeed Nancy Pelosi as San Francisco’s representative in Congress features two Democratic candidates, who both claim the title of “progressive.&#34;</source:markdown>
+      <guid>cid://urn:uuid:000001a0-06ae-ddac-a9ff-8fee910c0000</guid>
+    </item>    <item>
+      <title>Know More, so No More</title>
+      <link>https://santaclarita.gov/blog/2026/08/15/know-more-so-no-more/</link>
+      <description>
+        <![CDATA[<p>By City Manager Ken Striplin One of the City’s top priorities is to raise awareness of the consequences of unsafe driving every day of the year. Actions taken in a split second can change the trajectory of our lives. The results of shooting a quick text or closing your eyes while driving can be life-altering. [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/08/15/know-more-so-no-more/">Know More, so No More</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>By City Manager Ken Striplin One of the City’s top priorities is to raise awareness of the consequences of unsafe driving every day of the year. Actions taken in a split second can change the trajectory of our lives. The results of shooting a quick text or closing your eyes while driving can be life-altering. \[…\]
+
+The post [Know More, so No More](https://santaclarita.gov/blog/2026/08/15/know-more-so-no-more/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=8664</guid>
+      <category>From the City Manager</category>
+    </item>    <item>
+      <title>California lawmakers kill grizzly bear reintroduction bill</title>
+      <link>https://laist.com/news/california-lawmakers-kill-grizzly-bear-reintroduction-bill</link>
+      <description>
+        <![CDATA[For now, the only place you’ll find grizzlies in California are in zoos or on the state flag.]]>
+      </description>
+      <source:markdown>For now, the only place you’ll find grizzlies in California are in zoos or on the state flag.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-05e4-dca8-a3be-25fcefb20000</guid>
+    </item>    <item>
+      <title>You can bike, skate, walk over the 5 Freeway in Irvine. And it’s awesome</title>
+      <link>https://laist.com/news/los-angeles-activities/irvine-bridge-5-freeway</link>
+      <description>
+        <![CDATA[A new bike and pedestrian bridge connects to several other trails in the city.]]>
+      </description>
+      <source:markdown>A new bike and pedestrian bridge connects to several other trails in the city.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-028b-d3d2-a7b3-9e9b05940001</guid>
     </item>    <item>
       <title>This 80-year-old hardware store is back in Little Tokyo. Its next chapter is just starting</title>
       <link>https://laist.com/news/los-angeles-activities/anzen-hardware-little-tokyo</link>
@@ -24,6 +60,14 @@
       </description>
       <source:markdown>The family behind Anzen Hardware reluctantly took it back. Now they&#39;re betting it&#39;ll find its place again.</source:markdown>
       <guid>cid://urn:uuid:0000019f-afff-d539-ab9f-bfffb2160000</guid>
+    </item>    <item>
+      <title>It&#39;s all hands on deck at this hidden LA River fingerboard park</title>
+      <link>https://laist.com/news/los-angeles-activities/la-river-fingerboard-skatepark-atwater</link>
+      <description>
+        <![CDATA[We take you to a DIY skate park — for your fingers — in Atwater Village.]]>
+      </description>
+      <source:markdown>We take you to a DIY skate park — for your fingers — in Atwater Village.</source:markdown>
+      <guid>cid://urn:uuid:0000019f-fbea-dca8-a3bf-fbfe035a0000</guid>
     </item>    <item>
       <title>Update: Adelanto Detainees Sign Letter Demanding Authorities Investigate Processing Center’s Water Quality Issues</title>
       <link>https://lataco.com/contaminated-water-worms-adelanto-center</link>
@@ -64,6 +108,14 @@ The post [GR818ERS Marks its 16th Anniversary with a Culture Festival in Canoga 
       <guid>cid://https://sanfernandosun.com/?p=178683</guid>
       <category>News</category>
       <category>news/local</category>
+    </item>    <item>
+      <title>It’s been a year since Andrew Do reported to prison. What’s happened since?</title>
+      <link>https://laist.com/news/ex-orange-county-supervisor-andrew-do-prison-one-year-anniversary</link>
+      <description>
+        <![CDATA[The former Orange County supervisor is serving a federal prison term in Tucson, Arizona, after pleading guilty to a felony charge of conspiracy to commit bribery.]]>
+      </description>
+      <source:markdown>The former Orange County supervisor is serving a federal prison term in Tucson, Arizona, after pleading guilty to a felony charge of conspiracy to commit bribery.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-01da-d68f-a9b3-2bff83650000</guid>
     </item>    <item>
       <title>This Case Has the Power to Stop L.A.’s ICE Raids. Here’s What Happened This Week</title>
       <link>https://lataco.com/noem-v-vasquez-perdomo</link>
@@ -197,6 +249,14 @@ The post [Sobuneh and Tacos 1986 Are Making Breakfast Tacos Together For Only 6 
       </description>
       <source:markdown>The federal aid agency updated its fraud protections, delaying financial aid notifications to students by several weeks.</source:markdown>
       <guid>cid://urn:uuid:000001a0-00f0-d68f-a9b3-2aff29830000</guid>
+    </item>    <item>
+      <title>Veterans Stadium is about to be demolished for a sports complex. Here’s what it meant to Long Beach</title>
+      <link>https://laist.com/news/los-angeles-activities/veterans-stadium-about-to-be-demolished-sports-complex-long-beach</link>
+      <description>
+        <![CDATA[The iconic stadium at LBCC has a unique origin story. It starts with a group of Long Beach alums fighting in World War II.]]>
+      </description>
+      <source:markdown>The iconic stadium at LBCC has a unique origin story. It starts with a group of Long Beach alums fighting in World War II.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-00e7-d68f-a9b3-2affeb4f0000</guid>
     </item>    <item>
       <title>Why child care in California may get harder to find</title>
       <link>https://laist.com/news/education/early-childhood-education-pre-k/child-care-providers-business-transitional-kindergarten-report</link>
@@ -2805,66 +2865,6 @@ The post [Sunday Taquitos #30: Flock This!](https://lataco.com/sunday-taquitos-3
       </description>
       <source:markdown>California’s wildfires are destroying forests faster than the state can replant them, and federal cuts are making the gap worse.</source:markdown>
       <guid>cid://urn:uuid:0000019f-9a3d-d63c-afdf-faffeb160000</guid>
-    </item>    <item>
-      <title>Make A Difference at the Annual River Rally</title>
-      <link>https://santaclarita.gov/blog/2026/07/25/make-a-difference-at-the-annual-river-rally/</link>
-      <description>
-        <![CDATA[<p>By City Manager Ken Striplin What can 1,200 volunteers accomplish in just three hours? More than you might think. Every year, the River Rally transforms a single Saturday morning into one of Santa Clarita&#8217;s most impactful community traditions. Neighbors, families, students, scout troops, businesses and community organizations roll up their sleeves with one shared goal: [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/07/25/make-a-difference-at-the-annual-river-rally/">Make A Difference at the Annual River Rally</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By City Manager Ken Striplin What can 1,200 volunteers accomplish in just three hours? More than you might think. Every year, the River Rally transforms a single Saturday morning into one of Santa Clarita’s most impactful community traditions. Neighbors, families, students, scout troops, businesses and community organizations roll up their sleeves with one shared goal: \[…\]
-
-The post [Make A Difference at the Annual River Rally](https://santaclarita.gov/blog/2026/07/25/make-a-difference-at-the-annual-river-rally/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8554</guid>
-      <category>From the City Manager</category>
-    </item>    <item>
-      <title>Sunset Boulevard reopens in West Hollywood after weeklong water main repairs</title>
-      <link>https://laist.com/news/transportation/sunset-boulevard-reopens-in-west-hollywood-after-weeklong-water-main-repairs</link>
-      <description>
-        <![CDATA[LADWP says crews will need to return in the coming weeks to finish up the work.]]>
-      </description>
-      <source:markdown>LADWP says crews will need to return in the coming weeks to finish up the work.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-9a35-dd3c-a5ff-9f77abc80000</guid>
-    </item>    <item>
-      <title>The Westlake Theatre has sat vacant for decades in MacArthur Park. A new plan hopes to revive it</title>
-      <link>https://laist.com/news/los-angeles-activities/the-westlake-theatre-has-sat-vacant-for-decades-in-macarthur-park-a-new-plan-hopes-to-revive-it</link>
-      <description>
-        <![CDATA[Organizers hope to buy and restore the historic MacArthur Park landmark as a home for the arts and community events.]]>
-      </description>
-      <source:markdown>Organizers hope to buy and restore the historic MacArthur Park landmark as a home for the arts and community events.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-99e0-d84c-a7ff-fff6a6020000</guid>
-    </item>    <item>
-      <title>Families brace for separation as Haitians set to lose protected status next week</title>
-      <link>https://laist.com/news/families-brace-for-separation-as-haitians-set-to-lose-protected-status-next-week</link>
-      <description>
-        <![CDATA[A Supreme Court ruling stripped Haitian migrants of their temporary legal status. Those with U.S.-born children face an agonizing choice.]]>
-      </description>
-      <source:markdown>A Supreme Court ruling stripped Haitian migrants of their temporary legal status. Those with U.S.-born children face an agonizing choice.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-999b-d84c-a7ff-ff9f7dd70000</guid>
-    </item>    <item>
-      <title>Scum &#38; Villainy to open a new hub for nerd culture in Burbank</title>
-      <link>https://laist.com/news/los-angeles-activities/scum-villainy-to-open-new-hub-nerd-culture-burbank</link>
-      <description>
-        <![CDATA[Your “friendly neighborhood geek bar” in Hollywood is going big for its next adventure.]]>
-      </description>
-      <source:markdown>Your “friendly neighborhood geek bar” in Hollywood is going big for its next adventure.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-1fc1-dfd2-abbf-9fc1e2bc0000</guid>
-    </item>    <item>
-      <title>See Ed Wood&#39;s &#39;Plan 9 From Outer Space&#39; at the Sylmar cemetery where it was filmed</title>
-      <link>https://laist.com/news/los-angeles-activities/pioneer-cemetery-san-fernando-ed-woods-screening</link>
-      <description>
-        <![CDATA[Parts of B-movie cult classic were shot at the Pioneer Memorial Cemetery.]]>
-      </description>
-      <source:markdown>Parts of B-movie cult classic were shot at the Pioneer Memorial Cemetery.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-8fdb-d84c-a7ff-efdf81180000</guid>
-    </item>    <item>
-      <title>In Artesia, a bloodless bullfight keeps a Portuguese tradition alive</title>
-      <link>https://laist.com/news/los-angeles-activities/artesia-bloodless-bullfight-portuguese-tradition</link>
-      <description>
-        <![CDATA[No blood, just velcro: the event takes place tonight at the community hall, Artesia D.E.S.]]>
-      </description>
-      <source:markdown>No blood, just velcro: the event takes place tonight at the community hall, Artesia D.E.S.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-922f-db46-a9ff-bbaf0cfe0000</guid>
     </item>
   </channel>
 </rss>

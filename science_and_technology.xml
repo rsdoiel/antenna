@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>16 Aug 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 August 16 – Milky Way over Yellowstone</title>
+      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/</guid>
+      <category>APOD</category>
+    </item>    <item>
       <title>APOD: 2026 August 15 – Bright Perseids from Sweden</title>
       <link>https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/</link>
       <description>

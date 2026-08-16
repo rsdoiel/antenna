@@ -4,17 +4,10 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>15 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>16 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The sailor&#39;s Sabbath : by Titus Coan</title>
-      <link>https://www.gutenberg.org/ebooks/79364</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant</title>
       <link>https://www.gutenberg.org/ebooks/3090</link>
       <description>
@@ -24,6 +17,62 @@
     </item>    <item>
       <title>Mr. Isaacs, A Tale of Modern India by F. Marion  Crawford</title>
       <link>https://www.gutenberg.org/ebooks/13340</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Il pedante by Francesco Belo</title>
+      <link>https://www.gutenberg.org/ebooks/34640</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>The Battle of the Somme by Philip Gibbs</title>
+      <link>https://www.gutenberg.org/ebooks/79366</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Security Risk by Ed M. Clinton</title>
+      <link>https://www.gutenberg.org/ebooks/35759</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The book of the boudoir, Volume 1 (of 2) by Lady  Morgan</title>
+      <link>https://www.gutenberg.org/ebooks/79367</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The book of the boudoir, Volume 2 (of 2) by Lady  Morgan</title>
+      <link>https://www.gutenberg.org/ebooks/79368</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Bell&#39;s cathedrals: the cathedral church of Southwell by Arthur Dimock</title>
+      <link>https://www.gutenberg.org/ebooks/79369</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ryzon baking book : by Marion Harris Neil</title>
+      <link>https://www.gutenberg.org/ebooks/79370</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The sailor&#39;s Sabbath : by Titus Coan</title>
+      <link>https://www.gutenberg.org/ebooks/79364</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1711,76 +1760,6 @@
     </item>    <item>
       <title>History of the Comstock Patent Medicine Business and Dr. Morse&#39;s Indian Root Pills by Robert B. Shaw</title>
       <link>https://www.gutenberg.org/ebooks/13397</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Little Review, October 1917 (Vol. 4, No. 6) by Various</title>
-      <link>https://www.gutenberg.org/ebooks/79171</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Esther&#39;s triumph by Emma Leslie</title>
-      <link>https://www.gutenberg.org/ebooks/79169</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Stone Age by Clement Wood</title>
-      <link>https://www.gutenberg.org/ebooks/79172</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Story of Betty by Carolyn Wells</title>
-      <link>https://www.gutenberg.org/ebooks/79176</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Iliad by Homer</title>
-      <link>https://www.gutenberg.org/ebooks/6130</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Prince by Niccolò Machiavelli</title>
-      <link>https://www.gutenberg.org/ebooks/1232</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Narziß und Goldmund : by Hermann Hesse</title>
-      <link>https://www.gutenberg.org/ebooks/79173</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Historiallisia kertomuksia by Santeri Ivalo</title>
-      <link>https://www.gutenberg.org/ebooks/79174</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Problems in astrophysics by Agnes M.  Clerke</title>
-      <link>https://www.gutenberg.org/ebooks/79177</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Joe Brennan&#39;s luck by Ruth Lamb</title>
-      <link>https://www.gutenberg.org/ebooks/79175</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
