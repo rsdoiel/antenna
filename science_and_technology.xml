@@ -4,10 +4,89 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>16 Aug 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>17 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Linux 7.2 released</title>
+      <link>https://www.osnews.com/story/145830/linux-7-2-released/</link>
+      <description>
+        <![CDATA[Version 7.2 of the Linux kernel has been released. Significant features in this release include common attributes support in the bpf()vsystem call, cache-aware load balancing for the CPU scheduler, large-folio support in the Btrfs filesystem, further swap subsystem improvements, improvements to the Landlock security module, support for block devices with inline encryption hardware via the dm-inlinecrypt device-mapper target, and much more. ↫ corbet at LWN.net If you run Linux, you&#8217;ll get it sooner or later.]]>
+      </description>
+      <source:markdown>Version 7.2 of the Linux kernel has been released. Significant features in this release include common attributes support in the bpf()vsystem call, cache-aware load balancing for the CPU scheduler, large-folio support in the Btrfs filesystem, further swap subsystem improvements, improvements to the Landlock security module, support for block devices with inline encryption hardware via the dm-inlinecrypt device-mapper target, and much more. ↫ corbet at LWN.net If you run Linux, you’ll get it sooner or later.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145830</guid>
+      <category>Linux</category>
+    </item>    <item>
+      <title>Pascal for small machines</title>
+      <link>https://www.osnews.com/story/145828/pascal-for-small-machines/</link>
+      <description>
+        <![CDATA[We talked about the latest release of Delphi a few days ago, and that brought me to Hans Otten&#8217;s website. This site is about my experience with the Wirth school of languages, based on the ideas and implementations of Prof Niklaus Wirth, Kenneth Bowles, Per Brinch Hansen,&#160;colleagues,&#160;and their students. And my experience with the various variants, from the P2 and P4 compilers originating in Zürich ETH, via UCSD Pascal P-System to the Borland compilers and Modula and Oberon systems. All applicable to small computers and device control. On this website you will find information on Pascal for small machines, like Wirth compilers, the UCSD Pascal system, many scanned books and other files on UCSD Pascal,&#160;Pascal on MSX and CP/M, Delphi programming on PC, Freepascal and Lazarus on Windows and Raspberry Pi, Oberon systems. Many sources of early Pascal compilers! And last but not least my Pascal-M system! ↫ Hans Otten If you&#8217;re into Pascal and its related languages and technologies, this is a treasure trove of information.]]>
+      </description>
+      <source:markdown>We talked about the latest release of Delphi a few days ago, and that brought me to Hans Otten’s website. This site is about my experience with the Wirth school of languages, based on the ideas and implementations of Prof Niklaus Wirth, Kenneth Bowles, Per Brinch Hansen, colleagues, and their students. And my experience with the various variants, from the P2 and P4 compilers originating in Zürich ETH, via UCSD Pascal P-System to the Borland compilers and Modula and Oberon systems. All applicable to small computers and device control. On this website you will find information on Pascal for small machines, like Wirth compilers, the UCSD Pascal system, many scanned books and other files on UCSD Pascal, Pascal on MSX and CP/M, Delphi programming on PC, Freepascal and Lazarus on Windows and Raspberry Pi, Oberon systems. Many sources of early Pascal compilers! And last but not least my Pascal-M system! ↫ Hans Otten If you’re into Pascal and its related languages and technologies, this is a treasure trove of information.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145828</guid>
+      <category>General Development</category>
+    </item>    <item>
+      <title>Super Mario derivations</title>
+      <link>https://www.osnews.com/story/145826/super-mario-derivations/</link>
+      <description>
+        <![CDATA[One of the most surprising aspects of the Nix language is that it is lazy, especially if you have never used a lazy language before. This laziness is what makes much of Nixpkgs possible, and its complexity.  I decided to take that idea and make the attribute path a sequence of button presses in Super Mario Bros. 3. Each node in the tree is a frame of the game, and each child is a button press that produces a new frame. Game states are recursive by nature. ↫ Farid Zakaria This has zero practical applications, and yet, it&#8217;s absolutely genius. I love this.]]>
+      </description>
+      <source:markdown>One of the most surprising aspects of the Nix language is that it is lazy, especially if you have never used a lazy language before. This laziness is what makes much of Nixpkgs possible, and its complexity. I decided to take that idea and make the attribute path a sequence of button presses in Super Mario Bros. 3. Each node in the tree is a frame of the game, and each child is a button press that produces a new frame. Game states are recursive by nature. ↫ Farid Zakaria This has zero practical applications, and yet, it’s absolutely genius. I love this.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145826</guid>
+      <category>Games</category>
+    </item>    <item>
+      <title>Securing the Infrastructure of Intelligence</title>
+      <link>https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</link>
+      <description>
+        <![CDATA[AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and [&#8230;]]]>
+      </description>
+      <source:markdown>AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97752</guid>
+      <category>AI Infrastructure</category>
+      <category>Corporate</category>
+      <category>AI Factory</category>
+    </item>    <item>
+      <title>Could future wars be fought by AI?</title>
+      <link>https://www.npr.org/2026/08/17/nx-s1-5844635/ai-chatgpt-war-tech-claude</link>
+      <description>
+        <![CDATA[This year, the Department of Defense announced that they’d entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening global thermonuclear conflict in the movie <em>WarGames</em> to the Skynet neural net in <em>Terminator. </em>In 2026, when Anthropic’s Claude and OpenAI’s ChatGPT are just a click away, the concept of AI-supported war is suddenly much closer to reality. So what does it really mean for militaries to use AI? And what are the potential implications if they succeed? Short Wave producer <a href="https://www.npr.org/people/1255819925/hannah-chinn"target="_blank"   >Hannah Chinn</a> reports.<br/><br/><strong>Listen to the whole </strong><a href="https://www.npr.org/series/g-s1-133746/short-wave-tech-camp"target="_blank"   ><strong>Tech Camp series</strong></a><strong>. </strong><br/><br/><em>Interested in more military science and/or tech episodes? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>This year, the Department of Defense announced that they’d entered agreements with eight artificial intelligence companies. It follows decades of popular media exploring the idea of artificial intelligence in war – from the computer threatening global thermonuclear conflict in the movie _WarGames_ to the Skynet neural net in _Terminator._ In 2026, when Anthropic’s Claude and OpenAI’s ChatGPT are just a click away, the concept of AI-supported war is suddenly much closer to reality. So what does it really mean for militaries to use AI? And what are the potential implications if they succeed? Short Wave producer [Hannah Chinn](https://www.npr.org/people/1255819925/hannah-chinn) reports.
+
+**Listen to the whole** [**Tech Camp series**](https://www.npr.org/series/g-s1-133746/short-wave-tech-camp) **.**
+
+_Interested in more military science and/or tech episodes? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/06d9fd30-af71-47e4-b663-06eb28904e9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=06d9fd30-af71-47e4-b663-06eb28904e9c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5844635&p=510351&d=898&size=14374496" length="14374496" type="audio/mpeg" />
+      <guid>cid://3c3ac533-44ca-46b1-bd08-2e38c8aa7dbb</guid>
+    </item>    <item>
+      <title>APOD: 2026 August 17 – A Golden Corona Eclipse</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Chasing Fire Clouds in Utah</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/</link>
+      <description>
+        <![CDATA[NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus.]]>
+      </description>
+      <source:markdown>NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/</guid>
+      <category>Aqua</category>
+      <category>Clouds</category>
+      <category>Earth Observatory</category>
+      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
+      <category>Wildfires</category>
+    </item>    <item>
       <title>APOD: 2026 August 16 – Milky Way over Yellowstone</title>
       <link>https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/</link>
       <description>
@@ -16,6 +95,15 @@
       <source:markdown>APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/</guid>
       <category>APOD</category>
+    </item>    <item>
+      <title>Summer Triangle Corner: Deneb</title>
+      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/</link>
+      <description>
+        <![CDATA[Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that […]]]>
+      </description>
+      <source:markdown>Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/</guid>
+      <category>Night Sky Network</category>
     </item>    <item>
       <title>APOD: 2026 August 15 – Bright Perseids from Sweden</title>
       <link>https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/</link>
@@ -3239,18 +3327,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://blogs.nvidia.com/?p=96867</guid>
       <category>Corporate</category>
       <category>NVIDIA Vera</category>
-    </item>    <item>
-      <title>NASA Astronaut Chris Williams, Crewmates Return from Space Station</title>
-      <link>https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/</link>
-      <description>
-        <![CDATA[Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the [&#8230;]]]>
-      </description>
-      <source:markdown>Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1021130</guid>
-      <category>Humans in Space</category>
-      <category>Christopher L. Williams</category>
-      <category>International Space Station (ISS)</category>
-      <category>Johnson Space Center</category>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,30 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>16 Aug 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>17 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>General RISC OS chat at ROUGOL – 17th August</title>
+      <link>https://www.riscository.com/2026/rougol-general-chat-17th-august/</link>
+      <description>
+        <![CDATA[Tonight (17th August) is when the next RISC OS User Group of London (ROUGOL) meeting will take place, and like last month&#8217;s meeting it hasn&#8217;t been possible to arrange a guest speaker, so the meeting will again be an open one for general discussion of all things RISC OS. Following the group&#8217;s own record of having eighteen consecutive meetings with a guest speaker, this month sees the group&#8217;s second consecutive meeting without one &#8211; I&#8217;ll have to check with Bryan Hogan, who organises the meetings, to find out if is&#8230;]]>
+      </description>
+      <source:markdown>Tonight (17th August) is when the next RISC OS User Group of London (ROUGOL) meeting will take place, and like last month’s meeting it hasn’t been possible to arrange a guest speaker, so the meeting will again be an open one for general discussion of all things RISC OS. Following the group’s own record of having eighteen consecutive meetings with a guest speaker, this month sees the group’s second consecutive meeting without one – I’ll have to check with Bryan Hogan, who organises the meetings, to find out if is…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11001</guid>
+      <category>User groups</category>
+      <category>Meeting</category>
+      <category>ROUGOL</category>
+      <category>User Group</category>
+    </item>    <item>
+      <title>b.log 2026/08/16 - Today is the day!, Other stuff, EDF app estimations.</title>
+      <link>https://heyrick.eu/blog/entry/20260816</link>
+      <description>
+        <![CDATA[Today is the day!, Other stuff, EDF app estimations.]]>
+      </description>
+      <source:markdown>Today is the day!, Other stuff, EDF app estimations.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260816</guid>
+    </item>    <item>
       <title>StrongED test release 4.70a21 now available</title>
       <link>https://www.riscository.com/2026/stronged-test-release-4-70a21/</link>
       <description>
@@ -2371,14 +2391,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       <source:markdown>If you&#39;ve ever wondered if your laptop or PC is officially certified to run Ubuntu, that curiosity will soon be met.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Lori White)</author>
       <guid>cid://64290f1efd138ee763c7976d00750337</guid>
-    </item>    <item>
-      <title>b.log 2026/07/26 - Minitel Magis teardown - again.</title>
-      <link>https://heyrick.eu/blog/entry/20260726</link>
-      <description>
-        <![CDATA[Minitel Magis teardown - again.]]>
-      </description>
-      <source:markdown>Minitel Magis teardown - again.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260726</guid>
     </item>
   </channel>
 </rss>

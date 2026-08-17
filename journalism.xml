@@ -4,11 +4,54 @@
   <channel>
     <title><![CDATA[Feeds Student Journalism and feeds about Journalism feeds]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>16 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>17 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Theater review: ‘Six’ live recording delivers dazzling vocals, misses the mark with new movie medium</title>
+      <title>Jacob’s Wake-Up Call: The Chesney train is roaring. Here’s what UCLA football fans should expect</title>
+      <link>https://dailybruin.com/2026/08/16/jacobs-wake-up-call-the-chesney-train-is-roaring-heres-what-ucla-football-fans-should-expect/</link>
+      <description>
+        <![CDATA[It&#8217;s time to board the Chesney train.
+        UCLA football, the Westwood faithful and the media have echoed that sentiment for nearly nine months now. 
+        It&#8217;s not hard to understand why: Labeling the Bruins&#8217; 2025 season a disaster might even be sugarcoating it.]]>
+      </description>
+      <source:markdown>It’s time to board the Chesney train.
+UCLA football, the Westwood faithful and the media have echoed that sentiment for nearly nine months now.
+It’s not hard to understand why: Labeling the Bruins’ 2025 season a disaster might even be sugarcoating it.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514343</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>Sports Columns</category>
+    </item>    <item>
+      <title>How UCLA’s landscape shapes summer heat</title>
+      <link>https://dailybruin.com/2026/08/16/how-uclas-landscape-shapes-summer-heat/</link>
+      <description>
+        <![CDATA[The National Weather service put Los Angeles County on extreme heat watch July 14, with temperatures in certain areas expected to exceed 100 degrees throughout the week.]]>
+      </description>
+      <source:markdown>The National Weather service put Los Angeles County on extreme heat watch July 14, with temperatures in certain areas expected to exceed 100 degrees throughout the week.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514337</guid>
+      <category>Data</category>
+      <category>The Stack</category>
+      <category>db-story-c1</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
+    </item>    <item>
+      <title>Big Ten Preview: USC</title>
+      <link>https://dailybruin.com/2026/08/16/big-ten-preview-usc-2/</link>
+      <description>
+        <![CDATA[UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.]]>
+      </description>
+      <source:markdown>UCLA is set to enter its third season in the Big Ten, following a sophomore campaign in which the program captured three NCAA championships – the most of any other Big Ten school.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514324</guid>
+      <category>Football</category>
+      <category>Men&#39;s Basketball</category>
+      <category>Sports</category>
+      <category>Sports Columns</category>
+      <category>Women&#39;s Basketball</category>
+      <category>Women&#39;s Water Polo</category>
+      <category>Big Ten Previews 2026</category>
+      <category>db-story-a</category>
+    </item>    <item>
+      <title>Film review: ‘Six’ live recording delivers dazzling vocals, misses the mark with new movie medium</title>
       <link>https://dailybruin.com/2026/08/15/theater-review-six-live-recording-delivers-dazzling-vocals-misses-the-mark-with-new-movie-medium/</link>
       <description>
         <![CDATA[<em>This post was updated Aug. 16 at 2:16 a.m.</em>
@@ -21,6 +64,7 @@ A new stage-to-film adaptation invites viewers to “Get Down” with the wives 
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
       <category>Theater &#38; Fine Arts</category>
+      <category>db-story-d2</category>
     </item>    <item>
       <title>Album review: Phoebe Bridgers returns to Earth on ‘Lost Weekend,’ finds herself after 2-year break</title>
       <link>https://dailybruin.com/2026/08/15/album-review-phoebe-bridgers-returns-to-earth-on-lost-weekend-finds-herself-after-2-year-break/</link>
@@ -34,6 +78,18 @@ The Pasadena-born singer released her long awaited third album, “Lost Weekend,
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Music</category>
+      <category>db-story-b</category>
+    </item>    <item>
+      <title>Bruin to Bruin: UCLA Associate of the Chancellor, health economist Felicia Marie Knaul</title>
+      <link>https://dailybruin.com/2026/08/15/bruin-to-bruin-ucla-associate-of-the-chancellor-health-economist-felicia-knaul/</link>
+      <description>
+        <![CDATA[Listen to health economist and global health leader Dr. Felicia Marie Knaul sit down with Editorial Board member and Podcasts Editor Megan Vahdat to discuss her work advancing health equity, shaping health systems around the world and drawing on personal experience to drive meaningful change.]]>
+      </description>
+      <source:markdown>Listen to health economist and global health leader Dr. Felicia Marie Knaul sit down with Editorial Board member and Podcasts Editor Megan Vahdat to discuss her work advancing health equity, shaping health systems around the world and drawing on personal experience to drive meaningful change.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514309</guid>
+      <category>Podcasts</category>
+      <category>db-story-d1</category>
+      <category>db-story-m1</category>
     </item>    <item>
       <title>Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul</title>
       <link>https://dailybruin.com/2026/08/15/bruin-to-bruin-internationally-renowned-health-economist-global-health-reform-leader-and-ucla-associate-of-the-chancellor-dr-felicia-marie-knaul/</link>
@@ -54,6 +110,7 @@ The Pasadena-born singer released her long awaited third album, “Lost Weekend,
       <guid>cid://https://dailybruin.com/?p=514304</guid>
       <category>Video</category>
       <category>db-story-m1</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>Aurum Cosmetics club welcomes all Bruins to the beauty industry</title>
       <link>https://dailybruin.com/2026/08/15/aurum-cosmetics-club-welcomes-all-bruins-to-the-beauty-industry/</link>
@@ -66,6 +123,8 @@ Founded in 2022, UCLA Aurum Cosmetics serves as a social and professional develo
       <guid>cid://https://dailybruin.com/?p=514298</guid>
       <category>Arts</category>
       <category>Lifestyle</category>
+      <category>db-story-f2</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>Student regent-designate Jordan Roiland wants to solve problems from the ground up</title>
       <link>https://dailybruin.com/2026/08/15/student-regent-designate-jordan-roiland-wants-to-solve-problems-from-the-ground-up/</link>
@@ -79,6 +138,7 @@ The board appointed Roiland, a student in the UC Berkeley-UC San Francisco joint
       <category>News</category>
       <category>Regents</category>
       <category>UC</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>A catalyst for change: Exploring UCLA’s shift away from single-use packaging</title>
       <link>https://dailybruin.com/2026/08/15/a-catalyst-for-change-exploring-uclas-shift-away-from-single-use-packaging/</link>
@@ -89,6 +149,7 @@ The board appointed Roiland, a student in the UC Berkeley-UC San Francisco joint
       <guid>cid://https://dailybruin.com/?p=514290</guid>
       <category>Campus</category>
       <category>The Quad</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>UCLA student allegedly struck by thrown object on Gayley Avenue, UCPD investigating</title>
       <link>https://dailybruin.com/2026/08/15/ucla-student-allegedly-struck-by-thrown-object-on-gayley-avenue-ucpd-investigating/</link>
@@ -103,7 +164,7 @@ A UCLA student reported being struck in the head by an object intentionally thro
       <category>Crime</category>
       <category>News</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>LARC uplifts communities through education on heat safety</title>
       <link>https://dailybruin.com/2026/08/15/larc-uplifts-communities-through-education-on-heat-safety/</link>
@@ -116,6 +177,7 @@ A UCLA student reported being struck in the head by an object intentionally thro
       <category>Los Angeles</category>
       <category>News</category>
       <category>Science &#38; Health</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>Inside UCLA’s most tight-knit organizations, where Bruins find lifelong community</title>
       <link>https://dailybruin.com/2026/08/15/inside-uclas-most-tight-knit-organizations-where-bruins-find-lifelong-community/</link>
@@ -129,6 +191,8 @@ UCLA’s hundreds of organizations, however, can make the university seem even m
       <category>Campus</category>
       <category>Student Life</category>
       <category>The Quad</category>
+      <category>db-story-f1</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>Moriah Contreras’ debut EP is a ‘diary entry’ shaped by friendship, Hannah Montana</title>
       <link>https://dailybruin.com/2026/08/15/moriah-contreras-debut-ep-is-a-diary-entry-shaped-by-friendship-hannah-montana/</link>
@@ -141,6 +205,8 @@ The music industry alumnus graduated in June and will release her debut EP “Ex
       <guid>cid://https://dailybruin.com/?p=514271</guid>
       <category>Arts</category>
       <category>Music</category>
+      <category>db-story-h</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>2028 LA Olympic ambitions unite Bruin stars past, present and future</title>
       <link>https://dailybruin.com/2026/08/15/2028-la-olympic-ambitions-unite-bruin-stars-past-present-and-future/</link>
@@ -160,6 +226,8 @@ Two years out from the 2028 Summer Olympics in Los Angeles, UCLA athletes and co
       <category>Sports</category>
       <category>Women&#39;s Volleyball</category>
       <category>Women&#39;s Water Polo</category>
+      <category>db-story-j</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>Opinion: Why your boring job is an opportunity for learning</title>
       <link>https://dailybruin.com/2026/08/15/opinion-why-your-boring-job-is-an-opportunity-for-learning/</link>
@@ -173,6 +241,7 @@ I’ve uttered this phrase more times than I can count. It seems like every new 
       <category>Opinion</category>
       <category>Opinion Columns</category>
       <category>db-story-op</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>Q&#38;A: USAC President Jayha Buhs Jackson on transparency, resources, her vision for council</title>
       <link>https://dailybruin.com/2026/08/15/qa-usac-president-jayha-buhs-jackson-on-transparency-resources-her-vision-for-council/</link>
@@ -186,6 +255,8 @@ Jackson, a rising third-year African American studies and public affairs student
       <category>Campus</category>
       <category>News</category>
       <category>Student Government</category>
+      <category>db-story-g</category>
+      <category>Greetings from UCLA | Orientation Issue 2026</category>
     </item>    <item>
       <title>2026 Big Ten Preview: Rutgers</title>
       <link>https://dailybruin.com/2026/08/14/2026-big-ten-preview-rutgers/</link>
@@ -212,7 +283,7 @@ Jackson, a rising third-year African American studies and public affairs student
       <category>A Closer Look</category>
       <category>Campus</category>
       <category>News</category>
-      <category>db-story-a</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>Opinion: There’s no place like UCLA, so get comfortable with starting over</title>
       <link>https://dailybruin.com/2026/08/14/opinion-theres-no-place-like-ucla-so-get-comfortable-with-starting-over/</link>
@@ -225,6 +296,7 @@ These questions will be the soundtrack to new students’ first few weeks at UCL
       <guid>cid://https://dailybruin.com/?p=514240</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
+      <category>db-story-h</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>Drumming, athleticism, Japanese culture meet at first-ever US college taiko club</title>
@@ -1916,76 +1988,6 @@ UCLA researchers are pushing for Los Angeles to build more shade infrastructure 
       <category>News</category>
       <category>Science &#38; Health</category>
       <category>db-story-b</category>
-    </item>    <item>
-      <title>A Look Into Powell Library’s Symbolism and Architecture</title>
-      <link>https://features.dailybruin.com/2026/powell-flatpage-2026/</link>
-      <description>
-        <![CDATA[Powell Library&#8217;s architecture is full of references to history and culture. Collectively, they establish Powell as a monument to human society and knowledge.]]>
-      </description>
-      <source:markdown>Powell Library’s architecture is full of references to history and culture. Collectively, they establish Powell as a monument to human society and knowledge.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513505</guid>
-      <category>Graphics</category>
-      <category>Interactive Page</category>
-      <category>db-story-h</category>
-    </item>    <item>
-      <title>Pro Bruin Rundown: Former UCLA women’s basketball players make their marks in the 2026 WNBA season</title>
-      <link>https://dailybruin.com/2026/07/26/pro-bruin-rundown-former-ucla-womens-basketball-players-make-their-marks-in-the-2026-wnba-season/</link>
-      <description>
-        <![CDATA[Twelve former UCLA women&#8217;s basketball players &#8211; 11 rostered players and one head coach &#8211; are representing their squads in the WNBA. Six of the 11 active players came from the 2026 Draft class that won UCLA&#8217;s first national championship in the March Madness era.]]>
-      </description>
-      <source:markdown>Twelve former UCLA women’s basketball players – 11 rostered players and one head coach – are representing their squads in the WNBA. Six of the 11 active players came from the 2026 Draft class that won UCLA’s first national championship in the March Madness era.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513513</guid>
-      <category>Sports</category>
-      <category>Women&#39;s Basketball</category>
-      <category>db-story-d2</category>
-    </item>    <item>
-      <title>Q&#38;A: Professor Gail Wyatt discusses mental health advocacy in marginalized communities</title>
-      <link>https://dailybruin.com/2026/07/26/qa-professor-gail-wyatt-discusses-mental-health-advocacy-in-marginalized-communities/</link>
-      <description>
-        <![CDATA[<em>This post was updated July 26 at 8:20 p.m.</em>
-        July is the Bebe Moore Campbell National Minority Mental Health Awareness Month.
-        The month honors Campbell, an advocate and author who co-founded the National Alliance on Mental Illness Urban Los Angeles to help people from marginalized backgrounds seek mental health services.]]>
-      </description>
-      <source:markdown>_This post was updated July 26 at 8:20 p.m._
-July is the Bebe Moore Campbell National Minority Mental Health Awareness Month.
-The month honors Campbell, an advocate and author who co-founded the National Alliance on Mental Illness Urban Los Angeles to help people from marginalized backgrounds seek mental health services.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513507</guid>
-      <category>Academics</category>
-      <category>National</category>
-      <category>News</category>
-      <category>Science &#38; Health</category>
-      <category>db-story-f2</category>
-    </item>    <item>
-      <title>Editorial: UC’s defense of transgender students is nonnegotiable amid Defending Education lawsuit</title>
-      <link>https://dailybruin.com/2026/07/26/editorial-ucs-defense-of-transgender-students-is-nonnegotiable-amid-defending-education-lawsuit/</link>
-      <description>
-        <![CDATA[A healthy campus community is one where identities are respected.
-        But a recent lawsuit against the UC threatens that standard.
-        Defending Education – an organization that advocates for nonpolitical education, according to its website – sued the UC on June 18, alleging that UC’s sexual violence and sexual harassment policy fosters compelled speech and viewpoint discrimination.]]>
-      </description>
-      <source:markdown>A healthy campus community is one where identities are respected.
-But a recent lawsuit against the UC threatens that standard.
-Defending Education – an organization that advocates for nonpolitical education, according to its website – sued the UC on June 18, alleging that UC’s sexual violence and sexual harassment policy fosters compelled speech and viewpoint discrimination.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513497</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-d1</category>
-      <category>db-story-op</category>
-    </item>    <item>
-      <title>Theater review: ‘Hadestown’ live recording resurrects Broadway’s beloved musical for the big screen</title>
-      <link>https://dailybruin.com/2026/07/26/theater-review-hadestown-live-recording-resurrects-broadways-beloved-musical-for-the-big-screen/</link>
-      <description>
-        <![CDATA[“Hadestown: The Musical” takes viewers “way down” to a raw and riveting theatrical experience.
-        The live stage recording captures the essence of theater and makes the audience feel like part of the production through unique cinematography and compelling performances.]]>
-      </description>
-      <source:markdown>“Hadestown: The Musical” takes viewers “way down” to a raw and riveting theatrical experience.
-The live stage recording captures the essence of theater and makes the audience feel like part of the production through unique cinematography and compelling performances.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513493</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Film &#38; TV</category>
-      <category>Theater &#38; Fine Arts</category>
-      <category>db-story-j</category>
     </item>
   </channel>
 </rss>

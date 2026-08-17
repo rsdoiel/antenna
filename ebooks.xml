@@ -4,10 +4,136 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>16 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>17 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mémoires de Beaumarchais; vol. 1 by Pierre Augustin Caron de Beaumarchais</title>
+      <link>https://www.gutenberg.org/ebooks/79323</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Guide de l&#39;aviateur by Roland Garros</title>
+      <link>https://www.gutenberg.org/ebooks/79375</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The voice of El-lil by Robert E.  Howard</title>
+      <link>https://www.gutenberg.org/ebooks/79376</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Golliwog News : by Fay Inchfawn and Philip Inchfawn</title>
+      <link>https://www.gutenberg.org/ebooks/79377</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Oracles of Nostradamus by Nostradamus and Chas. A. Ward</title>
+      <link>https://www.gutenberg.org/ebooks/79378</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Saint Mungo&#39;s city; vol. 1 [of 3] by Sarah Tytler</title>
+      <link>https://www.gutenberg.org/ebooks/79371</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Saint Mungo&#39;s city; vol. 2 [of 3] by Sarah Tytler</title>
+      <link>https://www.gutenberg.org/ebooks/79372</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Saint Mungo&#39;s city; vol. 3 [of 3] by Sarah Tytler</title>
+      <link>https://www.gutenberg.org/ebooks/79373</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Memoirs of Napoleon Bonaparte — Complete by Louis Antoine Fauvelet de Bourrienne</title>
+      <link>https://www.gutenberg.org/ebooks/3567</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Evidence by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79381</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mr. Standfast by John Buchan</title>
+      <link>https://www.gutenberg.org/ebooks/560</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Four Arthurian Romances by active 12th century de Troyes Chrétien</title>
+      <link>https://www.gutenberg.org/ebooks/831</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Collected poems of Alice Meynell by Alice Meynell</title>
+      <link>https://www.gutenberg.org/ebooks/79380</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Party girl by Robert Silverberg</title>
+      <link>https://www.gutenberg.org/ebooks/79382</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Preaching of Islam: A History of the Propagation of the Muslim Faith by Sir Thomas Walker Arnold</title>
+      <link>https://www.gutenberg.org/ebooks/66960</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Michael Strogoff : by Jules Verne</title>
+      <link>https://www.gutenberg.org/ebooks/79379</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Clever—? by Jack Woodford</title>
+      <link>https://www.gutenberg.org/ebooks/79383</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The dilemma of the liberated : by Gorham Bert Munson</title>
+      <link>https://www.gutenberg.org/ebooks/79374</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant</title>
       <link>https://www.gutenberg.org/ebooks/3090</link>
       <description>
@@ -438,13 +564,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mémoires de Beaumarchais; vol 1 by Pierre Augustin Caron de Beaumarchais</title>
-      <link>https://www.gutenberg.org/ebooks/79323</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>    <item>
       <title>U.S. Copyright Renewals 1950 - 1977 by Library of Congress. Copyright Office</title>
       <link>https://www.gutenberg.org/ebooks/11800</link>
@@ -1687,79 +1806,6 @@
     </item>    <item>
       <title>A brief grammar of the Portuguese language with exercises and vocabularies by John Casper Branner</title>
       <link>https://www.gutenberg.org/ebooks/79190</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Rescue, by Joseph Conrad</title>
-      <link>https://standardebooks.org/ebooks/joseph-conrad/the-rescue</link>
-      <description>
-        <![CDATA[The captain of a cargo ship is forced to rescue the passangers and crew of a yacht stranded on a Malaysian island.]]>
-      </description>
-      <source:markdown>The captain of a cargo ship is forced to rescue the passangers and crew of a yacht stranded on a Malaysian island.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-rescue/downloads/joseph-conrad_the-rescue.epub?source=feed" length="602742" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-rescue</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Monkeying with ancestors by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79178</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Muley&#39;s morals by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79179</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The range-boomer by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79180</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Turn of the Screw by Henry James</title>
-      <link>https://www.gutenberg.org/ebooks/209</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Japanese empire : by Harry Alverson Franck</title>
-      <link>https://www.gutenberg.org/ebooks/79183</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar by Maurice Leblanc</title>
-      <link>https://www.gutenberg.org/ebooks/6133</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Chemistry : by John Howard Appleton</title>
-      <link>https://www.gutenberg.org/ebooks/79181</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The life-story of a Russian exile : by Marie Sukloff</title>
-      <link>https://www.gutenberg.org/ebooks/79182</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>History of the Comstock Patent Medicine Business and Dr. Morse&#39;s Indian Root Pills by Robert B. Shaw</title>
-      <link>https://www.gutenberg.org/ebooks/13397</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
