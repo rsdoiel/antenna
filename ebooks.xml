@@ -4,10 +4,129 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>17 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>18 Aug 26 06:49 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>East of Siam : by Harry Alverson Franck</title>
+      <link>https://www.gutenberg.org/ebooks/78626</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Au pays des souvenirs : by Armand Silvestre</title>
+      <link>https://www.gutenberg.org/ebooks/78875</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Evidence by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79381</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Collected poems of Alice Meynell by Alice Meynell</title>
+      <link>https://www.gutenberg.org/ebooks/79380</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Party girl by Robert Silverberg</title>
+      <link>https://www.gutenberg.org/ebooks/79382</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Clever—? by Jack Woodford</title>
+      <link>https://www.gutenberg.org/ebooks/79383</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>James Branch Cabell by Carl Van Doren</title>
+      <link>https://www.gutenberg.org/ebooks/79393</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Little Caesar by William Riley Burnett</title>
+      <link>https://www.gutenberg.org/ebooks/79392</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Five miles to Perdition : by Henry Herbert Knibbs</title>
+      <link>https://www.gutenberg.org/ebooks/79385</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Recluses by Raymond S.  Spears</title>
+      <link>https://www.gutenberg.org/ebooks/79384</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The death&#39;s head meteor by Neil R. Jones</title>
+      <link>https://www.gutenberg.org/ebooks/79386</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Il salotto della contessa Maffei e la società milanese : by Raffaello Barbiera</title>
+      <link>https://www.gutenberg.org/ebooks/79391</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>Maxwell Drewitt, vol. 2 of 2 : by Mrs. J. H. Riddell</title>
+      <link>https://www.gutenberg.org/ebooks/79387</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The two brothers; vol. 1 [of 3] by Lady Emily Ponsonby</title>
+      <link>https://www.gutenberg.org/ebooks/79388</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The two brothers; vol. 2 [of 3] by Lady Emily Ponsonby</title>
+      <link>https://www.gutenberg.org/ebooks/79389</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The two brothers; vol. 3 [of 3] by Lady Emily Ponsonby</title>
+      <link>https://www.gutenberg.org/ebooks/79390</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Cézanne by Joachim Gasquet</title>
+      <link>https://www.gutenberg.org/ebooks/78132</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
       <title>Mémoires de Beaumarchais; vol. 1 by Pierre Augustin Caron de Beaumarchais</title>
       <link>https://www.gutenberg.org/ebooks/79323</link>
       <description>
@@ -71,13 +190,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Evidence by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79381</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Mr. Standfast by John Buchan</title>
       <link>https://www.gutenberg.org/ebooks/560</link>
       <description>
@@ -87,20 +199,6 @@
     </item>    <item>
       <title>Four Arthurian Romances by active 12th century de Troyes Chrétien</title>
       <link>https://www.gutenberg.org/ebooks/831</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Collected poems of Alice Meynell by Alice Meynell</title>
-      <link>https://www.gutenberg.org/ebooks/79380</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Party girl by Robert Silverberg</title>
-      <link>https://www.gutenberg.org/ebooks/79382</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -119,13 +217,6 @@
         <![CDATA[Language: Dutch]]>
       </description>
       <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Clever—? by Jack Woodford</title>
-      <link>https://www.gutenberg.org/ebooks/79383</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>The dilemma of the liberated : by Gorham Bert Munson</title>
       <link>https://www.gutenberg.org/ebooks/79374</link>
@@ -1750,62 +1841,6 @@
     </item>    <item>
       <title>Abused Russia by Charles Christian Young</title>
       <link>https://www.gutenberg.org/ebooks/79195</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The gods of Mars by Edgar Rice Burroughs</title>
-      <link>https://www.gutenberg.org/ebooks/64</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pariahs of Piperock by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79184</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Vögel auf der Reise by Dr. Kurt Floericke</title>
-      <link>https://www.gutenberg.org/ebooks/79185</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Elämän unelmia : by Rudolf Herzog</title>
-      <link>https://www.gutenberg.org/ebooks/79186</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Hellettä by Santeri Ivalo</title>
-      <link>https://www.gutenberg.org/ebooks/79187</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Pirates from Piperock by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79188</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Promoting Polecat Perkins by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79189</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A brief grammar of the Portuguese language with exercises and vocabularies by John Casper Branner</title>
-      <link>https://www.gutenberg.org/ebooks/79190</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

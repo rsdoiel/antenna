@@ -4,10 +4,209 @@
   <channel>
     <title><![CDATA[Science and Technology]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>18 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The road to MS-DOS 2</title>
+      <link>https://www.osnews.com/story/145852/the-road-to-ms-dos-2/</link>
+      <description>
+        <![CDATA[A great and concise history of the run-up to MS-DOS 2.0. Yet, there was a nagging feeling that a single-tasking CP/M clone was inadequate for the new generation of personal computers. Digital Research released multi-user, multitasking MP/M-86 in September 1981 and announced the single‑user multitasking Concurrent CP/M in early 1982. In response, Microsoft came up with a plan for tiered approach to its operating systems: single-user/single-tasking MS-DOS at the bottom; multi-user/multitasking XENIX at the top; and in the middle, something called XEDOS: a single-user version of XENIX. This “pyramid of upward-compatible operating systems” was announced in a Byte Magazine editorial in January 1982. ↫ Nemanja Trifunovic I&#8217;ve always found this tiered approach fascinating, and the world surely would&#8217;ve looked quite different had Microsoft been able to make it work. I doubt Windows NT would ever have existed, and most of the world would probably be running a XENIX-based Windows today (all else being equal, which is of course unlikely and silly). Regardless, MS-DOS 2.0 contained a few UNIX-like utilities to deal with its brand new support for directory trees and other new features, and even had a /dev directory.]]>
+      </description>
+      <source:markdown>A great and concise history of the run-up to MS-DOS 2.0. Yet, there was a nagging feeling that a single-tasking CP/M clone was inadequate for the new generation of personal computers. Digital Research released multi-user, multitasking MP/M-86 in September 1981 and announced the single‑user multitasking Concurrent CP/M in early 1982. In response, Microsoft came up with a plan for tiered approach to its operating systems: single-user/single-tasking MS-DOS at the bottom; multi-user/multitasking XENIX at the top; and in the middle, something called XEDOS: a single-user version of XENIX. This “pyramid of upward-compatible operating systems” was announced in a Byte Magazine editorial in January 1982. ↫ Nemanja Trifunovic I’ve always found this tiered approach fascinating, and the world surely would’ve looked quite different had Microsoft been able to make it work. I doubt Windows NT would ever have existed, and most of the world would probably be running a XENIX-based Windows today (all else being equal, which is of course unlikely and silly). Regardless, MS-DOS 2.0 contained a few UNIX-like utilities to deal with its brand new support for directory trees and other new features, and even had a /dev directory.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145852</guid>
+      <category>Legacy OSes</category>
+    </item>    <item>
+      <title>PervertPods: Apple is adding cameras to AirPods</title>
+      <link>https://www.osnews.com/story/145850/pervertpods-apple-is-adding-cameras-to-airpods/</link>
+      <description>
+        <![CDATA[If you thought pervert glasses weren&#8217;t bad enough, Apple is taking it up a notch by adding cameras to its AirPods. Apple is working on camera-equipped AirPods that appear to be nearly ready to launch, based on a video MacRumors found in the macOS Tahoe 26.7 release candidate. In a short demo, a man holds a book up so the camera in the AirPods can see the title. &#8220;With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,&#8221; says the voiceover text. ↫ Juli Clover at MacRumors AirPods are tiny. I&#8217;ve seen people use them at the gym. I&#8217;ve seen them on playgrounds. I&#8217;ve seen them around swimming pools. People use them at the beach. They&#8217;re used at schools. In locker rooms. Tiny cameras in tiny AirPods that can photograph anything in front of the user are a pervert&#8217;s wet dream. Abusers are going to love this. Why wear bulky glasses anyone can see and try to demand you take off, when you can wear tiny AirPods that have already been fully normalised in society? Was there not a single woman or parent on the team that made this? All over the United States, people are destroying Flock surveillance cameras. More and more communities are rising up and demanding these things removed from their streets and neighbourhoods. The awareness of just how pervasive mass government surveillance has become is growing, and Silicon Valley&#8217;s complicity is not exactly a secret. And in this climate of rapidly growing concern and anger, Apple is going to add tiny cameras to its tiny AirPods. Was there not a single person of colour or protester on the team that made this? How detached from reality do you have to be to greenlight something like this? Does anyone &#8211; regardless of skin colour, gender, or political leaning &#8211; want even more cameras around them?]]>
+      </description>
+      <source:markdown>If you thought pervert glasses weren’t bad enough, Apple is taking it up a notch by adding cameras to its AirPods. Apple is working on camera-equipped AirPods that appear to be nearly ready to launch, based on a video MacRumors found in the macOS Tahoe 26.7 release candidate. In a short demo, a man holds a book up so the camera in the AirPods can see the title. “With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,” says the voiceover text. ↫ Juli Clover at MacRumors AirPods are tiny. I’ve seen people use them at the gym. I’ve seen them on playgrounds. I’ve seen them around swimming pools. People use them at the beach. They’re used at schools. In locker rooms. Tiny cameras in tiny AirPods that can photograph anything in front of the user are a pervert’s wet dream. Abusers are going to love this. Why wear bulky glasses anyone can see and try to demand you take off, when you can wear tiny AirPods that have already been fully normalised in society? Was there not a single woman or parent on the team that made this? All over the United States, people are destroying Flock surveillance cameras. More and more communities are rising up and demanding these things removed from their streets and neighbourhoods. The awareness of just how pervasive mass government surveillance has become is growing, and Silicon Valley’s complicity is not exactly a secret. And in this climate of rapidly growing concern and anger, Apple is going to add tiny cameras to its tiny AirPods. Was there not a single person of colour or protester on the team that made this? How detached from reality do you have to be to greenlight something like this? Does anyone – regardless of skin colour, gender, or political leaning – want even more cameras around them?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145850</guid>
+      <category>Apple</category>
+    </item>    <item>
+      <title>Quake shareware, a CD-ROM just a little too full</title>
+      <link>https://www.osnews.com/story/145848/quake-shareware-a-cd-rom-just-a-little-too-full/</link>
+      <description>
+        <![CDATA[I was around when Quake was launched, but I was entirely unaware of this story. By June 1996, after three years of hard work, id Software had completed their next title, Quake. As for their previous title, they were going to release both a shareware version and a full version of their game. Since it used a mere 22 MiB of storage, people at id Software had the idea of leveraging the remaining capacity of a CD-ROM. Why not include encrypted versions of the full id catalogue of games? Not only this would cut out the middlemen, it would give instant access to gamers with a simple phone call and a credit card. The concept was implemented. The CD was announced on July 3, 1996 and released on August 30th. The hacker group GNOMON released Quakecrk.zip only 39 days later. The archive contained QCRACK.EXE, a tool allowing to decrypt every single game on the CD-ROM. ↫ Fabien Sanglard The system id employed turned out to be incredibly primitive and simple, and hackers found out quite easily that the system required no secret sauce from id at all &#8211; the code you&#8217;d get over the phone contained no secret, and all the validation program on the disk did was check to ensure the code received over the phone matched the code generated by the disk. No wonder it took them only 39 days to crack this.]]>
+      </description>
+      <source:markdown>I was around when Quake was launched, but I was entirely unaware of this story. By June 1996, after three years of hard work, id Software had completed their next title, Quake. As for their previous title, they were going to release both a shareware version and a full version of their game. Since it used a mere 22 MiB of storage, people at id Software had the idea of leveraging the remaining capacity of a CD-ROM. Why not include encrypted versions of the full id catalogue of games? Not only this would cut out the middlemen, it would give instant access to gamers with a simple phone call and a credit card. The concept was implemented. The CD was announced on July 3, 1996 and released on August 30th. The hacker group GNOMON released Quakecrk.zip only 39 days later. The archive contained QCRACK.EXE, a tool allowing to decrypt every single game on the CD-ROM. ↫ Fabien Sanglard The system id employed turned out to be incredibly primitive and simple, and hackers found out quite easily that the system required no secret sauce from id at all – the code you’d get over the phone contained no secret, and all the validation program on the disk did was check to ensure the code received over the phone matched the code generated by the disk. No wonder it took them only 39 days to crack this.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145848</guid>
+      <category>Games</category>
+    </item>    <item>
+      <title>Beyond the limits of physical VRAM</title>
+      <link>https://www.osnews.com/story/145846/beyond-the-limits-of-physical-vram/</link>
+      <description>
+        <![CDATA[Earlier this year, Natalie Vock made a splash with a set of patches to the Linux kernel that greatly increased performance on AMD GPUs with lower amounts of VRAM. With that work now accepted by upstream, Vock decided to turn their attention to another interesting problem: what if you run out of VRAM, and how can we improve performance when we do? Regardless, what I hope this blogpost can demonstrate is that even if you end up with some memory evicted to system RAM, the slowdown can be manageable. There’s measures that drivers (particularly, the kernel driver) can take to make overcommit work as fast as possible, and even applications can do their part in coordinating with the driver stack to mitigate the effects of their memory being evicted. With everything in place, VRAM overcommit isn’t really as big of a deal as one may think it is at first sight. ↫ Natalie Vock The work Vock has done has already been in SteamOS for a while, and they&#8217;re currently in the process of upstreaming it to the vanilla kernel as well. Since this is a complex set of patches and changes, this may take a while, and as such, they&#8217;ve prepared custom kernel and Mesa branches for adventurous users. Do note that these branches won&#8217;t be maintained much, and are entirely experimental, not as well-tested as the SteamOS kernel, and probably won&#8217;t yield the same performance improvements. Still, this is the kind of work that has a material impact for users. Not everyone has a 16GB monster GPU, especially not today with supply chains ravaged and ruined by slopmakers, so it&#8217;s great to see the Linux world working to improve performance for everyone, not just the wealthy few.]]>
+      </description>
+      <source:markdown>Earlier this year, Natalie Vock made a splash with a set of patches to the Linux kernel that greatly increased performance on AMD GPUs with lower amounts of VRAM. With that work now accepted by upstream, Vock decided to turn their attention to another interesting problem: what if you run out of VRAM, and how can we improve performance when we do? Regardless, what I hope this blogpost can demonstrate is that even if you end up with some memory evicted to system RAM, the slowdown can be manageable. There’s measures that drivers (particularly, the kernel driver) can take to make overcommit work as fast as possible, and even applications can do their part in coordinating with the driver stack to mitigate the effects of their memory being evicted. With everything in place, VRAM overcommit isn’t really as big of a deal as one may think it is at first sight. ↫ Natalie Vock The work Vock has done has already been in SteamOS for a while, and they’re currently in the process of upstreaming it to the vanilla kernel as well. Since this is a complex set of patches and changes, this may take a while, and as such, they’ve prepared custom kernel and Mesa branches for adventurous users. Do note that these branches won’t be maintained much, and are entirely experimental, not as well-tested as the SteamOS kernel, and probably won’t yield the same performance improvements. Still, this is the kind of work that has a material impact for users. Not everyone has a 16GB monster GPU, especially not today with supply chains ravaged and ruined by slopmakers, so it’s great to see the Linux world working to improve performance for everyone, not just the wealthy few.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145846</guid>
+      <category>Linux</category>
+    </item>    <item>
+      <title>Were Touch Bar’s problems software rather than hardware?</title>
+      <link>https://www.osnews.com/story/145844/were-touch-bars-problems-software-rather-than-hardware/</link>
+      <description>
+        <![CDATA[The Touch Bar arrived in 2016 seemingly already pre-doomed, on a generation of machines that had a “we’ve run out of ideas” smell all around them. The arrow keys were reshaped, the keyboard got a slimming down, and even the beloved MagSafe wasn’t, in fact, safe. All of these changes would prove unpopular and get reverted in time, and the axe would eventually come for the Touch Bar, too. With an enormous benefit of hindsight, a decade after its arrival, and on the (rumored) eve of fully multitouch MacBooks, I wanted to look critically at the Touch Bar in more detail. I put a spicy title above this post, and while I’m not sure I can answer it in the affirmative, I feel I got surprisingly close to that. ↫ Marcin Wichary I have never spent this much reading about and pondering a technology seemingly nobody liked and that I never really used. I still think there&#8217;s merit to the idea of screen on a keyboard, but only if the screens are integrated into the individual keys (as some products have tried over the years). Of course, this would also be astronomically expensive, delicate, and virtually impossible to repair, so I&#8217;m not sure something like that can be reasonably made at an affordable price.]]>
+      </description>
+      <source:markdown>The Touch Bar arrived in 2016 seemingly already pre-doomed, on a generation of machines that had a “we’ve run out of ideas” smell all around them. The arrow keys were reshaped, the keyboard got a slimming down, and even the beloved MagSafe wasn’t, in fact, safe. All of these changes would prove unpopular and get reverted in time, and the axe would eventually come for the Touch Bar, too. With an enormous benefit of hindsight, a decade after its arrival, and on the (rumored) eve of fully multitouch MacBooks, I wanted to look critically at the Touch Bar in more detail. I put a spicy title above this post, and while I’m not sure I can answer it in the affirmative, I feel I got surprisingly close to that. ↫ Marcin Wichary I have never spent this much reading about and pondering a technology seemingly nobody liked and that I never really used. I still think there’s merit to the idea of screen on a keyboard, but only if the screens are integrated into the individual keys (as some products have tried over the years). Of course, this would also be astronomically expensive, delicate, and virtually impossible to repair, so I’m not sure something like that can be reasonably made at an affordable price.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145844</guid>
+      <category>Apple</category>
+    </item>    <item>
+      <title>A survivor&#39;s view from inside a tornado</title>
+      <link>https://www.npr.org/2026/08/18/nx-s1-5887624/tornado-weather-live-chase-cloud-storm</link>
+      <description>
+        <![CDATA[What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in the tornado that may be the smartest thing he’s ever done. So today on the show: What we can learn from nature at its wildest.<br/><br/><em>Interested in more </em><em>science behind the weather?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at <a href="http://plus.npr.org/"target="_blank"   >plus.npr.org</a>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in the tornado that may be the smartest thing he’s ever done. So today on the show: What we can learn from nature at its wildest.
+
+_Interested in more_ _science behind the weather?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/)._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9769546e-f6c6-40bb-b072-6f68458719a5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9769546e-f6c6-40bb-b072-6f68458719a5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887624&p=510351&d=746&size=11941974" length="11941974" type="audio/mpeg" />
+      <guid>cid://7cbf171c-76a8-43b8-8076-f174190e95c6</guid>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/</link>
+      <description>
+        <![CDATA[By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]]]>
+      </description>
+      <source:markdown>By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/</guid>
+      <category>Blogs</category>
+    </item>    <item>
+      <title>NASA Selects Companies to Provide Payload Processing Services</title>
+      <link>https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/</link>
+      <description>
+        <![CDATA[NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through the contract, [&#8230;]]]>
+      </description>
+      <source:markdown>NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through the contract, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1038472</guid>
+      <category>Kennedy Space Center</category>
+    </item>    <item>
+      <title>As Sicilians Flocked to a Religious Festival, Thieves Broke Into a Nearby Museum and Stole Four Renaissance Paintings</title>
+      <link>https://www.smithsonianmag.com/smart-news/as-sicilians-flocked-to-religious-festival-thieves-broke-into-nearby-museum-stole-four-renaissance-paintings-180989352/</link>
+      <description>
+        <![CDATA[The missing works include three panels from a 15th-century altarpiece by Antonello da Messina, as well as a two-sided devotional painting by the artist]]>
+      </description>
+      <source:markdown>The missing works include three panels from a 15th-century altarpiece by Antonello da Messina, as well as a two-sided devotional painting by the artist</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rfQ3h2bInGIPDsx7i7hqaVvBFKc=/420x240/filters:focal(250x250:251x251)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/b7/9cb78ba5-d000-4b81-a070-c135b637cf15/stolen-paintings.png" length="2235936" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/as-sicilians-flocked-to-religious-festival-thieves-broke-into-nearby-museum-stole-four-renaissance-paintings-180989352/</guid>
+    </item>    <item>
+      <title>NASA Mission Studies Air Pollution Over Ethiopia</title>
+      <link>https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/</link>
+      <description>
+        <![CDATA[A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with [&#8230;]]]>
+      </description>
+      <source:markdown>A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1037995</guid>
+      <category>MAIA (Multi-Angle Imager for Aerosols)</category>
+      <category>Earth</category>
+      <category>Earth Science</category>
+      <category>Earth&#39;s Atmosphere</category>
+      <category>Jet Propulsion Laboratory</category>
+    </item>    <item>
+      <title>In a First, Astronomers May Have Spotted a Galaxy in the Early Universe With Three Behemoth Black Holes</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-galaxy-in-the-early-universe-with-three-behemoth-black-holes-180989344/</link>
+      <description>
+        <![CDATA[The galaxy’s light took about 12.5 billion years to reach the James Webb Space Telescope, meaning the instrument saw the black holes a little more than one billion years after the Big Bang. Two of the black holes seemed on track to merge, illustrating how the objects grow]]>
+      </description>
+      <source:markdown>The galaxy’s light took about 12.5 billion years to reach the James Webb Space Telescope, meaning the instrument saw the black holes a little more than one billion years after the Big Bang. Two of the black holes seemed on track to merge, illustrating how the objects grow</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Hf4EldxxKlEz6rkDmjFyFOIse5g=/420x240/filters:focal(614x561:615x562)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/29/49/29493038-7959-49c5-9352-ef74ea574dc7/original_1.webp" length="12518" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-galaxy-in-the-early-universe-with-three-behemoth-black-holes-180989344/</guid>
+    </item>    <item>
+      <title>Next Generation of Planetary Scientists Learn Public Engagement Skills</title>
+      <link>https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/</link>
+      <description>
+        <![CDATA[FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures.]]>
+      </description>
+      <source:markdown>FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures.</source:markdown>
+      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/</guid>
+      <category>Earth Science</category>
+      <category>For Colleges &#38; Universities</category>
+      <category>Opportunities For Educators to Get Involved</category>
+      <category>Planetary Science</category>
+      <category>Science Activation</category>
+    </item>    <item>
+      <title>When Did Animals Start Giving Birth to Live Young? This 236-Million-Year-Old Fossil Might Rewrite Mammals&#39; Evolutionary History</title>
+      <link>https://www.smithsonianmag.com/smart-news/when-did-animals-start-giving-birth-to-live-young-this-236-million-year-old-fossil-might-rewrite-mammals-evolutionary-history-180989343/</link>
+      <description>
+        <![CDATA[A bone feature found in a mammal ancestor hints that the creature was relatively large as a newborn, more in line with the size of a creature birthed live than hatched from an egg. Still, it provides only indirect evidence]]>
+      </description>
+      <source:markdown>A bone feature found in a mammal ancestor hints that the creature was relatively large as a newborn, more in line with the size of a creature birthed live than hatched from an egg. Still, it provides only indirect evidence</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/VnC0lO0l5vFx4xdYNUiH2_Ttk44=/420x240/filters:focal(960x677:961x678)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/aa/5c/aa5cdffc-5bdb-4949-bd7c-03e89903fd60/life_reconstruction_hd.jpg" length="462317" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/when-did-animals-start-giving-birth-to-live-young-this-236-million-year-old-fossil-might-rewrite-mammals-evolutionary-history-180989343/</guid>
+    </item>    <item>
+      <title>Colorful Collage of Tarantula Nebula</title>
+      <link>https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/</link>
+      <description>
+        <![CDATA[Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the [&#8230;]]]>
+      </description>
+      <source:markdown>Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1038099</guid>
+      <category>Nebulae</category>
+    </item>    <item>
+      <title>Theory of Fluids Enters the 21st Century</title>
+      <link>https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/</link>
+      <description>
+        <![CDATA[From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom up.            <p>The post <a href="https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/" target="_blank">Theory of Fluids Enters the 21st Century</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom up.
+
+The post [Theory of Fluids Enters the 21st Century](https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=165854</guid>
+      <category>Physics</category>
+    </item>    <item>
+      <title>NASA Challenge Tests Wheel Designs for Moon Base Mobility</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/</link>
+      <description>
+        <![CDATA[As NASA prepares to&#160;establish&#160;the&#160;Moon Base,&#160;advancing surface mobility will be key to helping crews and robotic systems travel farther across&#160;the lunar surface.&#160; To help advance that capability, the&#160;Rock and Roll with NASA Challenge invited&#160;public&#160;innovators&#160;to design and build next-generation lunar rover wheels.&#160; Five teams from 128 submissions and 49 countries advanced to the final phase of the [&#8230;]]]>
+      </description>
+      <source:markdown>As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface.  To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.  Five teams from 128 submissions and 49 countries advanced to the final phase of the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1037630</guid>
+      <category>Johnson Space Center</category>
+      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
+      <category>Prizes, Challenges, and Crowdsourcing Program</category>
+      <category>Space Technology Mission Directorate</category>
+    </item>    <item>
+      <title>Hubble Solves Merger Mystery From Milky Way’s Early Years</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/</link>
+      <description>
+        <![CDATA[New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.]]>
+      </description>
+      <source:markdown>New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Galaxies</category>
+      <category>Globular Clusters</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>Star Clusters</category>
+      <category>The Milky Way</category>
+    </item>    <item>
+      <title>This Couple Found a Mysterious 150-Pound Sculpture Buried in Their Backyard. Now, They&#39;re Trying to Figure Out Who Made It</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-couple-found-a-mysterious-150-pound-sculpture-buried-in-their-backyard-now-theyre-trying-to-figure-out-who-made-it-180989347/</link>
+      <description>
+        <![CDATA[After discovering a large limestone bust on their San Francisco property in May, Greg Gatwood and Judy Gittelsohn have spent the past few months trying to unravel its backstory]]>
+      </description>
+      <source:markdown>After discovering a large limestone bust on their San Francisco property in May, Greg Gatwood and Judy Gittelsohn have spent the past few months trying to unravel its backstory</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZOBTn6MMS5Y-AWzUTtSZRIlcIy4=/420x240/filters:focal(1048x600:1049x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/15/1f158e9f-28fb-4fda-a54f-2977ecb3b0f8/just_found_head_close_up_at_an_angle.jpeg" length="1994835" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-couple-found-a-mysterious-150-pound-sculpture-buried-in-their-backyard-now-theyre-trying-to-figure-out-who-made-it-180989347/</guid>
+    </item>    <item>
+      <title>Listen Up, Parents: Running With a Stroller Might Make You Less Prone to Overuse Injuries</title>
+      <link>https://www.smithsonianmag.com/smart-news/listen-up-parents-running-with-a-stroller-might-make-you-less-prone-to-overuse-injuries-180989345/</link>
+      <description>
+        <![CDATA[Runners often experience conditions like shin splints, runner’s knee and plantar fasciitis, which causes pain in the bottom of the heel. But pushing a stroller’s handlebar seems to make you distribute your weight differently]]>
+      </description>
+      <source:markdown>Runners often experience conditions like shin splints, runner’s knee and plantar fasciitis, which causes pain in the bottom of the heel. But pushing a stroller’s handlebar seems to make you distribute your weight differently</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FE_LyAk0xVlXc36psL_WaS3bKJE=/420x240/filters:focal(1300x867:1301x868)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/53/1e53d0f6-e74b-48a9-934b-ce37383ffb57/pexels-dmitrii-eremin-67499966-15742738.jpg" length="698930" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/listen-up-parents-running-with-a-stroller-might-make-you-less-prone-to-overuse-injuries-180989345/</guid>
+    </item>    <item>
       <title>Linux 7.2 released</title>
       <link>https://www.osnews.com/story/145830/linux-7-2-released/</link>
       <description>
@@ -305,7 +504,7 @@ _Support public media with NPR+ and enjoy perks for over 25 podcasts like this o
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11714186" length="11714186" type="audio/mpeg" />
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11715440" length="11715440" type="audio/mpeg" />
       <guid>cid://2623a759-ea28-4ccf-8a2c-c5f810e9e819</guid>
     </item>    <item>
       <title>APOD: 2026 August 14 – Total Solar Eclipse from Greenland</title>
@@ -646,6 +845,15 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/</guid>
       <category>Earth Science</category>
     </item>    <item>
+      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
+      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
+      <description>
+        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
+      </description>
+      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
+    </item>    <item>
       <title>NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs</title>
       <link>https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</link>
       <description>
@@ -655,15 +863,6 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://blogs.nvidia.com/?p=97450</guid>
       <category>Corporate</category>
       <category>NVIDIA Life</category>
-    </item>    <item>
-      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
-      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
-      <description>
-        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
-      </description>
-      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
     </item>    <item>
       <title>Can you spot AI-written stories? Listen and find out</title>
       <link>https://www.npr.org/2026/08/12/nx-s1-5913976/ai-human-detector-writing-check</link>
@@ -3088,245 +3287,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/</guid>
       <category>Earth Observatory</category>
       <category>Wildfires</category>
-    </item>    <item>
-      <title>Windows NT got its name from one of Intel’s failed x86 replacements</title>
-      <link>https://www.osnews.com/story/145617/windows-nt-got-its-name-from-one-of-intels-failed-x86-replacements/</link>
-      <description>
-        <![CDATA[Dave Farquhar published an article today about Windows NT 3.1&#8217;s place in the market when it was originally released, and while the article is interesting and a fun read, it does mention this:  Microsoft took its nascent code that it intended to form the base of OS/2 3.0, renamed it Windows New Technology, and eventually released it as Windows NT 3.1. ↫ Dave Farquhar While Microsoft did, in fact, use the &#8220;New Technology&#8221; branding as a marketing trick, this is not what &#8220;NT&#8221; originally stood for. Two developers from the original Windows NT development team, Mark Lucovsky and David Thompson, explained all the way back in 2003 that &#8220;NT&#8221; came from the codename for Intel&#8217;s then-new RISC platform, the Intel i860 (Raymond Chen confirmed the veracity of their story). The i860 was the first target platform for Windows NT, and it was codenamed &#8220;N-10&#8221; &#8211; NT. Finally, it was time to start writing some code. &#8220;We checked the first code pieces in around mid-December 1988,&#8221; Lucovsky said, &#8220;and had a very basic system kind of booting on a simulator of the Intel i860 (which was codenamed &#8220;N-Ten&#8221;) by January.&#8221; In fact, this is where NT actually got its name, Lucovsky revealed, adding that the &#8220;new technology&#8221; moniker was added after the fact in a rare spurt of product marketing by the original NT team members. &#8220;Originally, we were targeting NT to the Intel i860, a RISC processor that was horribly behind schedule. Because we didn&#8217;t have any i860 machines in-house to test on, we used an i860 simulator. That&#8217;s why we called it NT, because it worked on the &#8216;N-Ten.'&#8221; ↫ Paul Thurrott The i860 was one of Intel&#8217;s many attempts over the years to replace x86 with something more modern, but &#8211; as would become tradition with Intel and attempting to replace its x86 architecture &#8211; it suffered from endless delays, missed targets, and lacklustre performance. It saw only sporadic use in the market, and ended up on the chopping block after only a few years. Intel tried to replace x86 again soon after with Itanium, which suffered an identical fate. Still, the engineers working on the i860 platform in the late &#8217;80s and early &#8217;90s at Intel can at least take some pride in that to this day, the most popular desktop operating system in the world got its name from the product they developed. Intel&#8217;s i860 might barely even be worthy of a footnote today, but billions of PC users log into their Windows &#8220;N-10&#8221; machines every day, unwittingly carrying a torch for the failed x86 replacement.]]>
-      </description>
-      <source:markdown>Dave Farquhar published an article today about Windows NT 3.1’s place in the market when it was originally released, and while the article is interesting and a fun read, it does mention this: Microsoft took its nascent code that it intended to form the base of OS/2 3.0, renamed it Windows New Technology, and eventually released it as Windows NT 3.1. ↫ Dave Farquhar While Microsoft did, in fact, use the “New Technology” branding as a marketing trick, this is not what “NT” originally stood for. Two developers from the original Windows NT development team, Mark Lucovsky and David Thompson, explained all the way back in 2003 that “NT” came from the codename for Intel’s then-new RISC platform, the Intel i860 (Raymond Chen confirmed the veracity of their story). The i860 was the first target platform for Windows NT, and it was codenamed “N-10” – NT. Finally, it was time to start writing some code. “We checked the first code pieces in around mid-December 1988,” Lucovsky said, “and had a very basic system kind of booting on a simulator of the Intel i860 (which was codenamed “N-Ten”) by January.” In fact, this is where NT actually got its name, Lucovsky revealed, adding that the “new technology” moniker was added after the fact in a rare spurt of product marketing by the original NT team members. “Originally, we were targeting NT to the Intel i860, a RISC processor that was horribly behind schedule. Because we didn’t have any i860 machines in-house to test on, we used an i860 simulator. That’s why we called it NT, because it worked on the ‘N-Ten.&#39;” ↫ Paul Thurrott The i860 was one of Intel’s many attempts over the years to replace x86 with something more modern, but – as would become tradition with Intel and attempting to replace its x86 architecture – it suffered from endless delays, missed targets, and lacklustre performance. It saw only sporadic use in the market, and ended up on the chopping block after only a few years. Intel tried to replace x86 again soon after with Itanium, which suffered an identical fate. Still, the engineers working on the i860 platform in the late ’80s and early ’90s at Intel can at least take some pride in that to this day, the most popular desktop operating system in the world got its name from the product they developed. Intel’s i860 might barely even be worthy of a footnote today, but billions of PC users log into their Windows “N-10” machines every day, unwittingly carrying a torch for the failed x86 replacement.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145617</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>How Does a Bilingual Speaker&#39;s Brain Process Two Languages? New Research Suggests That Both Rely on the Same Neural Wiring</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-does-a-bilingual-speakers-brain-process-two-languages-new-research-suggests-that-both-rely-on-the-same-neural-wiring-180989202/</link>
-      <description>
-        <![CDATA[Scientists have long wondered whether different neural mechanisms govern each language within a bilingual speaker’s brain. A recent study of people who speak both English and Spanish hints at a single "grammatical engine"]]>
-      </description>
-      <source:markdown>Scientists have long wondered whether different neural mechanisms govern each language within a bilingual speaker’s brain. A recent study of people who speak both English and Spanish hints at a single &#34;grammatical engine&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Kam1BvL1VBgL_Izyb5U-OvEK4xw=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/be/1bbe526e-c980-4aff-a1b7-817d1613a36d/language-grammatical-engine.jpg" length="8078548" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/how-does-a-bilingual-speakers-brain-process-two-languages-new-research-suggests-that-both-rely-on-the-same-neural-wiring-180989202/</guid>
-    </item>    <item>
-      <title>The Fedora 45 sausage factory</title>
-      <link>https://www.osnews.com/story/145615/the-fedora-45-sausage-factory/</link>
-      <description>
-        <![CDATA[This is a walkthrough of how Fedora turns source code and packages into the artifacts you download and install. It follows the a package from a packager’s git push to a composed release: ISOs, cloud images, container images, and OSTree deployments. ↫ Simon de Vlieger Linux distributions &#8211; good ones like Fedora, at least &#8211; are really complex operations, with a ton of checks and balances to ensure no git push eventually ends up causing problems on individual users&#8217; machines way down the line. The fact so many people involved in this complex web of processes also happen to be volunteers doing all of this out of the goodness of their hearts is amazing. Of course, this doesn&#8217;t just apply to Fedora, but also the countless other distributions out there, especially those not owned by some giant corporation like IBM. If you&#8217;re just a casual Fedora user, there&#8217;s really no reason you have to know or be aware of any of this, but it&#8217;s still fun and interesting to understand the inner workings of your distribution of choice.]]>
-      </description>
-      <source:markdown>This is a walkthrough of how Fedora turns source code and packages into the artifacts you download and install. It follows the a package from a packager’s git push to a composed release: ISOs, cloud images, container images, and OSTree deployments. ↫ Simon de Vlieger Linux distributions – good ones like Fedora, at least – are really complex operations, with a ton of checks and balances to ensure no git push eventually ends up causing problems on individual users’ machines way down the line. The fact so many people involved in this complex web of processes also happen to be volunteers doing all of this out of the goodness of their hearts is amazing. Of course, this doesn’t just apply to Fedora, but also the countless other distributions out there, especially those not owned by some giant corporation like IBM. If you’re just a casual Fedora user, there’s really no reason you have to know or be aware of any of this, but it’s still fun and interesting to understand the inner workings of your distribution of choice.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145615</guid>
-      <category>Fedora Core</category>
-    </item>    <item>
-      <title>Comanche: Maximum Overkill from 1992 does weird things on Intel processors</title>
-      <link>https://www.osnews.com/story/145613/comanche-maximum-overkill-from-1992-does-weird-things-on-intel-processors/</link>
-      <description>
-        <![CDATA[Let&#8217;s do another article about weird code in video games. The original 1992 Comanche release is extremely picky about memory managers. The game refuses to work with EMM emulators and crashes when EMM386 is active. The game may also hang or reboot the system when HIMEM.SYS is not loaded (the problem seems to be system configuration dependent). These issues are clearly noted in the Comanche documentations, but at the same time they’re also all signs of a substandard DOS extender. On top of that, the game authors accomplished a remarkable feat: By only loosely following Intel’s instructions on how to enter protected mode, NovaLogic managed to write a game which worked on the then-existing 386 and 486 processors, but under some circumstances failed to run on Pentium and later processors. ↫ Michal Necasek at OS/2 Museum As usual, a great read from Michal Nacesek.]]>
-      </description>
-      <source:markdown>Let’s do another article about weird code in video games. The original 1992 Comanche release is extremely picky about memory managers. The game refuses to work with EMM emulators and crashes when EMM386 is active. The game may also hang or reboot the system when HIMEM.SYS is not loaded (the problem seems to be system configuration dependent). These issues are clearly noted in the Comanche documentations, but at the same time they’re also all signs of a substandard DOS extender. On top of that, the game authors accomplished a remarkable feat: By only loosely following Intel’s instructions on how to enter protected mode, NovaLogic managed to write a game which worked on the then-existing 386 and 486 processors, but under some circumstances failed to run on Pentium and later processors. ↫ Michal Necasek at OS/2 Museum As usual, a great read from Michal Nacesek.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145613</guid>
-      <category>Games</category>
-    </item>    <item>
-      <title>French Customs Detained This Marc Chagall Etching for Two Decades After an Attempted Border Crossing. Now It&#39;s Headed for Public Display</title>
-      <link>https://www.smithsonianmag.com/smart-news/french-customs-detained-this-marc-chagall-etching-for-two-decades-after-an-attempted-border-crossing-now-its-headed-for-public-display-180989204/</link>
-      <description>
-        <![CDATA[An acrobat perches on a violin in the absurd scene, which draws on the Russian artist's favored motifs]]>
-      </description>
-      <source:markdown>An acrobat perches on a violin in the absurd scene, which draws on the Russian artist&#39;s favored motifs</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GNdNhb0GZdR-ID9Utddz2Cua-FQ=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/03/a7032901-b619-4425-8bef-d243477118ea/chagall_long.jpg" length="48449" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/french-customs-detained-this-marc-chagall-etching-for-two-decades-after-an-attempted-border-crossing-now-its-headed-for-public-display-180989204/</guid>
-    </item>    <item>
-      <title>NASA Astronaut Chris Williams to Discuss Space Station Mission</title>
-      <link>https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/</link>
-      <description>
-        <![CDATA[NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1021353</guid>
-      <category>Spot the International Space Station</category>
-      <category>Christopher L. Williams</category>
-      <category>Humans in Space</category>
-      <category>Johnson Space Center</category>
-      <category>NASA Headquarters</category>
-    </item>    <item>
-      <title>NASA Science Soars During August Total Solar Eclipse</title>
-      <link>https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/</link>
-      <description>
-        <![CDATA[Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]]]>
-      </description>
-      <source:markdown>Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/</guid>
-      <category>Eclipses</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Heliophysics</category>
-      <category>Johnson Space Center</category>
-      <category>Langley Research Center</category>
-      <category>Scientific Balloons</category>
-      <category>Skywatching</category>
-      <category>Solar Eclipses</category>
-      <category>The Sun</category>
-      <category>WB-57</category>
-    </item>    <item>
-      <title>Art Sleuths Discovered a Lost and ‘Enormously Important’ Portrait of an Elite Indian Woman by This Pioneering Scottish Painter</title>
-      <link>https://www.smithsonianmag.com/smart-news/art-sleuths-discovered-a-long-lost-and-enormously-important-portrait-of-an-elite-indian-woman-by-this-pioneering-scottish-painter-180989201/</link>
-      <description>
-        <![CDATA[Katherine Read was one of the most fashionable portrait creators in London before she moved to India. She found success portraying women and children]]>
-      </description>
-      <source:markdown>Katherine Read was one of the most fashionable portrait creators in London before she moved to India. She found success portraying women and children</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ukOJuQUOCSlqxeyEAK0aPoq2-Dc=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/97/d5974844-5690-4183-b8c5-d98a7333cd42/read_portrait_long.jpg" length="62891" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/art-sleuths-discovered-a-long-lost-and-enormously-important-portrait-of-an-elite-indian-woman-by-this-pioneering-scottish-painter-180989201/</guid>
-    </item>    <item>
-      <title>A.I. Disproves a Decades-Old Mathematical Idea, the &#39;Biggest Conjecture&#39; That the Tech Has Played a Role in Yet</title>
-      <link>https://www.smithsonianmag.com/smart-news/ai-disproves-a-decades-old-mathematical-idea-the-biggest-conjecture-that-the-tech-has-played-a-role-in-yet-180989189/</link>
-      <description>
-        <![CDATA[A mathematician announced that he used one of Anthropic's A.I. models to find a counterexample to a problem called the Jacobian conjecture. While experts consider it a milestone, the work raises questions about the future of mathematical research]]>
-      </description>
-      <source:markdown>A mathematician announced that he used one of Anthropic&#39;s A.I. models to find a counterexample to a problem called the Jacobian conjecture. While experts consider it a milestone, the work raises questions about the future of mathematical research</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2Sq631QzhhVe5Dr8YN-lQCYhEIo=/420x240/filters:focal(1229x831:1230x832)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/04/3904010b-81b5-4711-9bf6-64ee5265ede5/toolxoxcom-free-ai-tools-3k-vgewudykqm.jpg" length="579454" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/ai-disproves-a-decades-old-mathematical-idea-the-biggest-conjecture-that-the-tech-has-played-a-role-in-yet-180989189/</guid>
-    </item>    <item>
-      <title>NASA Astronaut Chris Williams Returns to Earth</title>
-      <link>https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/</link>
-      <description>
-        <![CDATA[NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams&#8217; first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of&#160;scientific investigations&#160;and technology demonstrations. He [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1021295</guid>
-      <category>Christopher L. Williams</category>
-    </item>    <item>
-      <title>NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star</title>
-      <link>https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/</link>
-      <description>
-        <![CDATA[NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]]]>
-      </description>
-      <source:markdown>NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/</guid>
-      <category>Astrophysics</category>
-      <category>Black Holes</category>
-      <category>Galaxies, Stars, &#38; Black Holes</category>
-      <category>Galaxies, Stars, &#38; Black Holes Research</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Neil Gehrels Swift Observatory</category>
-      <category>Science &#38; Research</category>
-      <category>Supermassive Black Holes</category>
-      <category>The Universe</category>
-    </item>    <item>
-      <title>A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere</title>
-      <link>https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/</link>
-      <description>
-        <![CDATA[An organelle discovered inside a microbe inside a cow’s gut helps explain how livestock burps contribute to warming our planet.            <p>The post <a href="https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/" target="_blank">A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>An organelle discovered inside a microbe inside a cow’s gut helps explain how livestock burps contribute to warming our planet.
-
-The post [A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere](https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=164710</guid>
-      <category>Biology</category>
-    </item>    <item>
-      <title>NASA to Cover Three US Spacewalks, Host Preview News Conference</title>
-      <link>https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/</link>
-      <description>
-        <![CDATA[Editor&#8217;s note: This media advisory was updated July 27, 2026 to reflect an updated start time for the spacewalk on Thursday, Aug. 6. NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s note: This media advisory was updated July 27, 2026 to reflect an updated start time for the spacewalk on Thursday, Aug. 6. NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1021242</guid>
-      <category>Humans in Space</category>
-      <category>International Space Station (ISS)</category>
-    </item>    <item>
-      <title>NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down</title>
-      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/</link>
-      <description>
-        <![CDATA[NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.]]>
-      </description>
-      <source:markdown>NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/</guid>
-      <category>Astrophysics</category>
-      <category>Astrophysics Division</category>
-      <category>Galaxies</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Hubble Space Telescope</category>
-      <category>Sensing the Universe &#38; Multimessenger Astronomy</category>
-    </item>    <item>
-      <title>Chimpanzees and Bonobos Use Hugs, Kisses and Friendly Pats to Keep the Peace, Just Like Humans, a New Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/chimpanzees-and-bonobos-use-hugs-kisses-and-pats-to-keep-the-peace-just-like-humans-a-new-study-suggests-180989192/</link>
-      <description>
-        <![CDATA[Since all three ape species diverged from a common ancestor that lived roughly six million to eight million years ago, the findings hint that friendly touching to diffuse tension has deep evolutionary origins]]>
-      </description>
-      <source:markdown>Since all three ape species diverged from a common ancestor that lived roughly six million to eight million years ago, the findings hint that friendly touching to diffuse tension has deep evolutionary origins</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/A6EYVjvZzz6AgVmuJt1zxH6PW4w=/420x240/filters:focal(2880x1920:2881x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/25/2125c726-5f7f-4259-9c89-e3fe1ddcf936/cwo21_g2_littlejakelittlejoey_07-249_1.jpg" length="23208162" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/chimpanzees-and-bonobos-use-hugs-kisses-and-pats-to-keep-the-peace-just-like-humans-a-new-study-suggests-180989192/</guid>
-    </item>    <item>
-      <title>Mozilla gives Haiku permission to use the Firefox name</title>
-      <link>https://www.osnews.com/story/145611/mozilla-gives-haiku-permission-to-use-the-firefox-name/</link>
-      <description>
-        <![CDATA[Haiku has a Firefox port, but due to Mozilla&#8217;s trademark policies, it&#8217;s actually called Iceweasel. After some back-and-forth with Mozilla, the browser maker has no given Haiku permission to officially use the Firefox name for the port. But don’t worry, Iceweasel isn’t going anywhere. I plan to maintain both. The idea is to keep Iceweasel as the privacy-friendly, telemetry-free build, while Firefox will be the fully official, Mozilla-compliant build (with telemetry enabled, once I manage to fix the Glean rust issues). ↫ 3dEyes on the Haiku forums This seems like a nice solution, and happens to make sure Haiku users can actually choose between standard Firefox and what is essentially a more private &#8220;fork&#8221;. A great outcome.]]>
-      </description>
-      <source:markdown>Haiku has a Firefox port, but due to Mozilla’s trademark policies, it’s actually called Iceweasel. After some back-and-forth with Mozilla, the browser maker has no given Haiku permission to officially use the Firefox name for the port. But don’t worry, Iceweasel isn’t going anywhere. I plan to maintain both. The idea is to keep Iceweasel as the privacy-friendly, telemetry-free build, while Firefox will be the fully official, Mozilla-compliant build (with telemetry enabled, once I manage to fix the Glean rust issues). ↫ 3dEyes on the Haiku forums This seems like a nice solution, and happens to make sure Haiku users can actually choose between standard Firefox and what is essentially a more private “fork”. A great outcome.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145611</guid>
-      <category>Haiku</category>
-    </item>    <item>
-      <title>Java deprecates support for macOS x86</title>
-      <link>https://www.osnews.com/story/145609/java-deprecates-support-for-macos-x86/</link>
-      <description>
-        <![CDATA[Apple has transitioned its hardware products to the AArch64 processor architecture and is phasing out support for x64. Oracle engineers will thus stop maintaining the macOS/x64 port as of JDK 27. Maintaining the port is a significant burden. ↫ JEP 541: Deprecate the macOS/x64 Port for Removal The port won&#8217;t yet be removed, but will be in a future release. Considering the number of Intel Macs that must surely still be in use today, this does seem a little premature to me.]]>
-      </description>
-      <source:markdown>Apple has transitioned its hardware products to the AArch64 processor architecture and is phasing out support for x64. Oracle engineers will thus stop maintaining the macOS/x64 port as of JDK 27. Maintaining the port is a significant burden. ↫ JEP 541: Deprecate the macOS/x64 Port for Removal The port won’t yet be removed, but will be in a future release. Considering the number of Intel Macs that must surely still be in use today, this does seem a little premature to me.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145609</guid>
-      <category>Java</category>
-    </item>    <item>
-      <title>10 REM”_(C2SLFF4</title>
-      <link>https://www.osnews.com/story/145607/10-rem_c2slff4/</link>
-      <description>
-        <![CDATA[That is the first line of the 80s microcomputer BASIC game The Wizard&#8217;s Castle initially written for the Exidy Sorcerer platform. It&#8217;s a REMark statement, a comment in that particular language. 10 is the line number, if you&#8217;re unfamiliar with languages that had such things. But the interesting part was this "_(C2SLFF4 mess. A typo or garbage? No. It appears verbatim in the source code as originally published in the July, 1980 issue of Recreational Computing. What the heck is it? ↫ Brian &#8220;Beej&#8221; Hall A fun investigation to brighten up your Monday.]]>
-      </description>
-      <source:markdown>That is the first line of the 80s microcomputer BASIC game The Wizard’s Castle initially written for the Exidy Sorcerer platform. It’s a REMark statement, a comment in that particular language. 10 is the line number, if you’re unfamiliar with languages that had such things. But the interesting part was this &#34;\_(C2SLFF4 mess. A typo or garbage? No. It appears verbatim in the source code as originally published in the July, 1980 issue of Recreational Computing. What the heck is it? ↫ Brian “Beej” Hall A fun investigation to brighten up your Monday.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145607</guid>
-      <category>General Development</category>
-    </item>    <item>
-      <title>Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security</title>
-      <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance/</link>
-      <description>
-        <![CDATA[Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts.  Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of [&#8230;]]]>
-      </description>
-      <source:markdown>Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts.  Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=96884</guid>
-      <category>AI</category>
-      <category>Corporate</category>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Open Source</category>
-      <category>Public Sector</category>
-    </item>    <item>
-      <title>Could this nasal spray replace all your vaccines one day?</title>
-      <link>https://www.npr.org/2026/07/27/nx-s1-5810969/universal-vaccine-innate-immune-system-or-universal-vaccine-covid-flu-pandemic</link>
-      <description>
-        <![CDATA[There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into <em>one universal</em> vaccine? That’s what immunologist <a href="https://med.stanford.edu/pulendranlab.html"target="_blank"   >Bali Pulendran</a> is working on in his lab. For this episode in our Tech Camp series, <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a> talks to him about how far he’s gotten, how far he has to go and why our ancient immune system is the key to it all. Plus they discuss how the vaccine may not be a shot at all—but a needle-free nasal spray. <br/><br/><strong>Sources: </strong><br><a href="https://www.science.org/doi/10.1126/science.aea1260"target="_blank"   >Mucosal vaccination in mice provides protection from diverse respiratory threats</a><br><a href="https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(19)30197-1/fulltext"target="_blank"   >Non-specific effects of BCG vaccine on viral infections</a><br/><br/><em>Interested in more science of the future? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>There’s the flu vaccine. The covid shot. The RSV shot… What if all of these—and more—could be combined into _one universal_ vaccine? That’s what immunologist [Bali Pulendran](https://med.stanford.edu/pulendranlab.html) is working on in his lab. For this episode in our Tech Camp series, [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber) talks to him about how far he’s gotten, how far he has to go and why our ancient immune system is the key to it all. Plus they discuss how the vaccine may not be a shot at all—but a needle-free nasal spray.
-
-**Sources:**
-
-[Mucosal vaccination in mice provides protection from diverse respiratory threats](https://www.science.org/doi/10.1126/science.aea1260)
-
-[Non-specific effects of BCG vaccine on viral infections](https://www.clinicalmicrobiologyandinfection.org/article/S1198-743X(19)30197-1/fulltext)
-
-_Interested in more science of the future? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/d712c008-ad3f-417a-aa11-92b2a0deb664/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=d712c008-ad3f-417a-aa11-92b2a0deb664&feed=F0qJcgXZ&t=podcast&e=nx-s1-5810969&p=510351&d=625&size=10001390" length="10001390" type="audio/mpeg" />
-      <guid>cid://0f8b6ba7-3f33-4bd7-87ef-16bdc58fab92</guid>
-    </item>    <item>
-      <title>NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs</title>
-      <link>https://blogs.nvidia.com/blog/vera-cpu-eda/</link>
-      <description>
-        <![CDATA[The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across [&#8230;]]]>
-      </description>
-      <source:markdown>The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=96867</guid>
-      <category>Corporate</category>
-      <category>NVIDIA Vera</category>
     </item>
   </channel>
 </rss>

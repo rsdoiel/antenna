@@ -4,10 +4,28 @@
   <channel>
     <title><![CDATA[Retro Computing News]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>18 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/08/17 - Loose ends, Blocked bots, Guttering.</title>
+      <link>https://heyrick.eu/blog/entry/20260817</link>
+      <description>
+        <![CDATA[Loose ends, Blocked bots, Guttering.]]>
+      </description>
+      <source:markdown>Loose ends, Blocked bots, Guttering.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260817</guid>
+    </item>    <item>
+      <title>AI Can’t Adulterate its Own Writing</title>
+      <link>https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/</link>
+      <description>
+        <![CDATA[My friend John Gruber is incensed by the idea that AI watermarking schemes adjust the output of a given LLM so that the output can later be assessed as likely coming from it in particular: They say “imperceptible” and “doesn’t change the meaning, quality, or readability”. Their words. Not almost imperceptible. Not slightly changes the meaning, quality, [&#8230;]]]>
+      </description>
+      <source:markdown>My friend John Gruber is incensed by the idea that AI watermarking schemes adjust the output of a given LLM so that the output can later be assessed as likely coming from it in particular: They say “imperceptible” and “doesn’t change the meaning, quality, or readability”. Their words. Not almost imperceptible. Not slightly changes the meaning, quality, \[…\]</source:markdown>
+      <guid>cid://https://bitsplitting.org/?p=1505</guid>
+      <category>AI</category>
+      <category>Philosophical</category>
+    </item>    <item>
       <title>General RISC OS chat at ROUGOL – 17th August</title>
       <link>https://www.riscository.com/2026/rougol-general-chat-17th-august/</link>
       <description>
@@ -202,12 +220,15 @@ I don&#39;t know if these overcharges are still happening, but I&#39;ve basicall
       <category>Wakefield</category>
       <category>WROCC</category>
     </item>    <item>
-      <title>Chksum for DOS</title>
+      <title>Chksum for DOS (version 2)</title>
       <link>https://sourceforge.net/p/freedos/news/2026/08/chksum-for-dos/</link>
       <description>
-        <![CDATA[<div class="markdown_content"><p>Bernd has shared Chksum, a new checksum tool for DOS. Bernd writes: "The following checksum algorithms are supported in this first release: Cryptographic checksum algorithms: - md5 (default) - sha-1, sha-224, sha-256, - sha3-224, sha3-256, sha3-384 and sha3-512. Non-cryptographic checksum algorithms: - bsdsum (16-bit BSD checksum) - fletcher16 (modulo 255), fletcher32 (modulo 65535) - adler32 - crc32 (polynome 0x04C11DB7) and crc32c (polynome 0x1EDC6F41)." Chksum should work on all systems, from an 8088 upwards, and is released under the European Union Public Licence (EUPL) version 1.2. You can <a href="https://cloud.disroot.org/s/EmNZXrN8oZkr5X2" rel="nofollow">download Chksum</a> from Disroot, which also includes a copy of the <a href="https://fossil-scm.org/home/doc/trunk/www/index.wiki" rel="nofollow">Fossil</a> repository.</p></div>]]>
+        <![CDATA[<div class="markdown_content"><p>Bernd has shared Chksum, a new checksum tool for DOS. Bernd writes: "The following checksum algorithms are supported in this first release: Cryptographic checksum algorithms: - md5 (default) - sha-1, sha-224, sha-256, - sha3-224, sha3-256, sha3-384 and sha3-512. Non-cryptographic checksum algorithms: - bsdsum (16-bit BSD checksum) - fletcher16 (modulo 255), fletcher32 (modulo 65535) - adler32 - crc32 (polynome 0x04C11DB7) and crc32c (polynome 0x1EDC6F41)." Chksum should work on all systems, from an 8088 upwards, and is released under the European Union Public Licence (EUPL) version 1.2. You can <a href="https://cloud.disroot.org/s/EmNZXrN8oZkr5X2" rel="nofollow">download version 1</a> from Disroot. The source code is a <a href="https://fossil-scm.org/home/doc/trunk/www/index.wiki" rel="nofollow">Fossil</a> repository.</p>
+        <p>Updated: Bernd has released version 2. Major changes include: SHA-384, SHA-512 and MD4 are now supported, 32-bit executable CHKSUM32.EXE built with DJGPP is provided. You can <a href="https://cloud.disroot.org/s/EmNZXrN8oZkr5X2?dir=/chksum/release2" rel="nofollow">download version 2</a> from Disroot, plus the source code. Thanks Bernd!</p></div>]]>
       </description>
-      <source:markdown>Bernd has shared Chksum, a new checksum tool for DOS. Bernd writes: &#34;The following checksum algorithms are supported in this first release: Cryptographic checksum algorithms: - md5 (default) - sha-1, sha-224, sha-256, - sha3-224, sha3-256, sha3-384 and sha3-512. Non-cryptographic checksum algorithms: - bsdsum (16-bit BSD checksum) - fletcher16 (modulo 255), fletcher32 (modulo 65535) - adler32 - crc32 (polynome 0x04C11DB7) and crc32c (polynome 0x1EDC6F41).&#34; Chksum should work on all systems, from an 8088 upwards, and is released under the European Union Public Licence (EUPL) version 1.2. You can [download Chksum](https://cloud.disroot.org/s/EmNZXrN8oZkr5X2) from Disroot, which also includes a copy of the [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) repository.</source:markdown>
+      <source:markdown>Bernd has shared Chksum, a new checksum tool for DOS. Bernd writes: &#34;The following checksum algorithms are supported in this first release: Cryptographic checksum algorithms: - md5 (default) - sha-1, sha-224, sha-256, - sha3-224, sha3-256, sha3-384 and sha3-512. Non-cryptographic checksum algorithms: - bsdsum (16-bit BSD checksum) - fletcher16 (modulo 255), fletcher32 (modulo 65535) - adler32 - crc32 (polynome 0x04C11DB7) and crc32c (polynome 0x1EDC6F41).&#34; Chksum should work on all systems, from an 8088 upwards, and is released under the European Union Public Licence (EUPL) version 1.2. You can [download version 1](https://cloud.disroot.org/s/EmNZXrN8oZkr5X2) from Disroot. The source code is a [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) repository.
+
+Updated: Bernd has released version 2. Major changes include: SHA-384, SHA-512 and MD4 are now supported, 32-bit executable CHKSUM32.EXE built with DJGPP is provided. You can [download version 2](https://cloud.disroot.org/s/EmNZXrN8oZkr5X2?dir=/chksum/release2) from Disroot, plus the source code. Thanks Bernd!</source:markdown>
       <guid>cid://https://sourceforge.neta8c7af3f258540a6764ee7ca0b956866e1b5948d</guid>
     </item>    <item>
       <title>b.log 2026/08/09 - Server update, I lied.</title>
@@ -2373,24 +2394,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       <source:markdown>Additions to the EMMA system documentation, thanks Keith Norman Emma Hardware Manual Eprom Programmer Mac User Manual See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The \[…\]</source:markdown>
       <guid>cid://http://retro.hansotten.nl/?p=21818</guid>
       <category>6502</category>
-    </item>    <item>
-      <title>Yet Another Linux Kernel Vulnerability Discovered</title>
-      <link>http://www.linux-magazine.com/Online/News/Yet-Another-Linux-Kernel-Vulnerability-Discovered</link>
-      <description>
-        <![CDATA[<p>Affecting millions of systems, a kernel flaw discovered by Qualys could allow users to gain root privileges.</p>]]>
-      </description>
-      <source:markdown>Affecting millions of systems, a kernel flaw discovered by Qualys could allow users to gain root privileges.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://a8e356e0e75c5e1fe049704e1c662472</guid>
-    </item>    <item>
-      <title>Ubuntu 26.10 to Include Ubuntu Certified Hardware Check</title>
-      <link>http://www.linux-magazine.com/Online/News/Ubuntu-26.10-to-Include-Ubuntu-Certified-Hardware-Check</link>
-      <description>
-        <![CDATA[<p>If you've ever wondered if your laptop or PC is officially certified to run Ubuntu, that curiosity will soon be met.</p>]]>
-      </description>
-      <source:markdown>If you&#39;ve ever wondered if your laptop or PC is officially certified to run Ubuntu, that curiosity will soon be met.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Lori White)</author>
-      <guid>cid://64290f1efd138ee763c7976d00750337</guid>
     </item>
   </channel>
 </rss>
