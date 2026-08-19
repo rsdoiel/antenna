@@ -4,10 +4,35 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>18 Aug 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>19 Aug 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>One Room Movies</title>
+      <link>https://johnaugust.com/2026/one-room-movies</link>
+      <description>
+        <![CDATA[<p>John and Craig lock in on one-room movies. How does confinement change character behavior? What opportunities can a single location give you? Plus, they consider how much dithering a character should indulge. They also answer listener questions about “hyperlink cinema” and writing phone calls. In our bonus segment for premium subscribers, John and Craig discuss [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2026/one-room-movies">One Room Movies</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <source:markdown>John and Craig lock in on one-room movies. How does confinement change character behavior? What opportunities can a single location give you? Plus, they consider how much dithering a character should indulge. They also answer listener questions about “hyperlink cinema” and writing phone calls. In our bonus segment for premium subscribers, John and Craig discuss \[…\]
+
+The post [One Room Movies](https://johnaugust.com/2026/one-room-movies) first appeared on [John August](https://johnaugust.com).</source:markdown>
+      <guid>cid://https://johnaugust.com/?p=26994</guid>
+      <category>Scriptnotes</category>
+    </item>    <item>
+      <title>Announcing Our Fall Workshop Series for New Academic Authors</title>
+      <link>https://www.authorsalliance.org/2026/08/18/announcing-our-fall-workshop-series-for-new-academic-authors/</link>
+      <description>
+        <![CDATA[Authors Alliance and UC Berkeley Library’s Office of Scholarly Communication and Information Policy are pleased to collaborate on this fall [&#8230;]]]>
+      </description>
+      <source:markdown>Authors Alliance and UC Berkeley Library’s Office of Scholarly Communication and Information Policy are pleased to collaborate on this fall \[…\]</source:markdown>
+      <guid>cid://https://www.authorsalliance.org/?p=13088</guid>
+      <category>Blog</category>
+      <category>Copyright</category>
+      <category>Fair Use</category>
+      <category>Open Access</category>
+      <category>publishing contracts</category>
+    </item>    <item>
       <title>Wrapping It Up with Hacks</title>
       <link>https://johnaugust.com/2026/wrapping-it-up-with-hacks</link>
       <description>
@@ -86,36 +111,6 @@ Via PayPal or Venmo. (The IFComp entry form has a field for your PayPal address.
       <category>interactive fiction competition</category>
       <category>interactive fiction</category>
       <category>colossal fund</category>
-    </item>    <item>
-      <title>What Happens When OMB is Sued Over its New Proposed Grant Rules?</title>
-      <link>https://www.authorsalliance.org/2026/07/28/what-happens-when-omb-is-sued-over-its-new-proposed-grant-rules/</link>
-      <description>
-        <![CDATA[The Office of Management and Budget’s new proposed rules for the administration of federal grants have caused a storm. 
-        
-        Published on May 29 as the largest rewrite of federal grant rules since the Uniform Guidance was consolidated in 2013, the proposal drew tens of thousands of public comments before the July 13 deadline. We wrote in June about what the proposed rule would mean for scholarly publishing and open access specifically, and our post last week highlighted our comments to OMB on those issues.]]>
-      </description>
-      <source:markdown>The Office of Management and Budget’s new proposed rules for the administration of federal grants have caused a storm.
-
-Published on May 29 as the largest rewrite of federal grant rules since the Uniform Guidance was consolidated in 2013, the proposal drew tens of thousands of public comments before the July 13 deadline. We wrote in June about what the proposed rule would mean for scholarly publishing and open access specifically, and our post last week highlighted our comments to OMB on those issues.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=13079</guid>
-      <category>Blog</category>
-      <category>Law and Policy</category>
-      <category>News</category>
-      <category>Class Action</category>
-      <category>Copyright</category>
-    </item>    <item>
-      <title>Road Trip</title>
-      <link>https://johnaugust.com/2026/road-trip</link>
-      <description>
-        <![CDATA[<p>Buckle up! John and Craig discuss the elements that make up a classic road movie. They cover the quintessential scenes, common pitfalls, and the economic quandaries you’ll find in the genre. They also answer listener questions about editing novels (versus screenplays) and the aesthetics of outlines and breakdowns. In our bonus segment for premium subscribers, [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2026/road-trip">Road Trip</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <source:markdown>Buckle up! John and Craig discuss the elements that make up a classic road movie. They cover the quintessential scenes, common pitfalls, and the economic quandaries you’ll find in the genre. They also answer listener questions about editing novels (versus screenplays) and the aesthetics of outlines and breakdowns. In our bonus segment for premium subscribers, \[…\]
-
-The post [Road Trip](https://johnaugust.com/2026/road-trip) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <enclosure url="https://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/745standard.mp3" length="59315146" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=26809</guid>
-      <category>Scriptnotes</category>
     </item>
   </channel>
 </rss>

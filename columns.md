@@ -434,3 +434,5 @@ description: Blogs, columns and snapshots from around the web.
 - [AI Weirdness Blog](https://www.aiweirdness.com/rss/)
 
 - [Meshtastic Blog](https://meshtastic.org/blog/atom.xml)
+- [Phil Manzanera news](https://manzanera.com/new/feed/)
+

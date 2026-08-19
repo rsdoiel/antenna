@@ -4,10 +4,94 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>18 Aug 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>19 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Lady Mary Wortley Montague, Her Life and Letters (1689-1762) by Melville and Montagu</title>
+      <link>https://www.gutenberg.org/ebooks/10590</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jerry Todd and the Oak Island Treasure by Leo Edwards</title>
+      <link>https://www.gutenberg.org/ebooks/67582</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In the Klondyke : by Frederick Palmer</title>
+      <link>https://www.gutenberg.org/ebooks/79395</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pickman&#39;s model by H. P.  Lovecraft</title>
+      <link>https://www.gutenberg.org/ebooks/79401</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The works of Plato (Vol. 2 of 6) : by Plato</title>
+      <link>https://www.gutenberg.org/ebooks/79398</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Oostersch leven : by James Neil and H. Th. Obbink</title>
+      <link>https://www.gutenberg.org/ebooks/79397</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Preludes by A. C.  Thompson</title>
+      <link>https://www.gutenberg.org/ebooks/79402</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Life histories of North American cuckoos, goatsuckers, hummingbirds and their allies by Bent</title>
+      <link>https://www.gutenberg.org/ebooks/79396</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The greatest adventure by John Taine</title>
+      <link>https://www.gutenberg.org/ebooks/79400</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>First poems by Ruth Pitter</title>
+      <link>https://www.gutenberg.org/ebooks/79394</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>De reis om de wereld in tachtig dagen by Jules Verne</title>
+      <link>https://www.gutenberg.org/ebooks/11318</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>A happy woman by Amy Le Feuvre</title>
+      <link>https://www.gutenberg.org/ebooks/79399</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>East of Siam : by Harry Alverson Franck</title>
       <link>https://www.gutenberg.org/ebooks/78626</link>
       <description>
@@ -1759,88 +1843,6 @@
     </item>    <item>
       <title>The natural history of ants by Pierre Huber</title>
       <link>https://www.gutenberg.org/ebooks/79213</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Protestant Ethic and the Spirit of Capitalism, by Max Weber</title>
-      <link>https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons</link>
-      <description>
-        <![CDATA[A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.]]>
-      </description>
-      <source:markdown>A German historian presents a theory detailing how certain ideas which are key to capitalism may have evolved from Protestantism.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/max-weber_the-protestant-ethic-and-the-spirit-of-capitalism_talcott-parsons.epub?source=feed" length="747041" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons</guid>
-      <category>Nonfiction</category>
-      <category>Philosophy</category>
-      <category>Spirituality</category>
-    </item>    <item>
-      <title>Robert Louis Stevenson reader by Catherine T.  Bryce and Robert Louis Stevenson</title>
-      <link>https://www.gutenberg.org/ebooks/79196</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The medical aspects of death, and the medical aspects of the human mind by James Bower Harrison</title>
-      <link>https://www.gutenberg.org/ebooks/79198</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sense and Sensibility by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/21839</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Runotarinoita by Ruupert Kainulainen</title>
-      <link>https://www.gutenberg.org/ebooks/79197</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>How to read and correct proof by Lloyd E.  Smith</title>
-      <link>https://www.gutenberg.org/ebooks/79200</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Syylliset ja syyttömät : by Lauri Haarla</title>
-      <link>https://www.gutenberg.org/ebooks/79199</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The double-crossing of Dobie by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79201</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The proof by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79194</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The drums roll by Ernest Haycox</title>
-      <link>https://www.gutenberg.org/ebooks/79193</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Abused Russia by Charles Christian Young</title>
-      <link>https://www.gutenberg.org/ebooks/79195</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
