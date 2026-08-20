@@ -1,5 +1,5 @@
 ---
-title: Items of interest to the Equitorial Pacific community
+title: Pacific
 ---
 
 # Items of interest to the Equitorial Pacific community

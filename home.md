@@ -1,8 +1,8 @@
 ---
-title: Home, Garden and Urban Farm related blogs
+title: Urban Farm
 ---
 
-# Home, Garden and Urban Farm related blogs
+# Urban Farm
 
 - [Calfifornia Dept. Aggriculture blog](https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2)
 - [L.A. Country Agriculture Commissioner/Weights & Measures News](https://acwm.lacounty.gov/feed/)

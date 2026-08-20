@@ -23,7 +23,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: craft.db
-    - title: Healthy Eating, Good Eating and Recipes
+    - title: Healthy Eats
       link: food.xml
       file: food.md
       generator: other_reading.yaml
@@ -31,7 +31,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: food.db
-    - title: Home, Garden and Urban Farm related blogs
+    - title: Urban Farm
       link: home.xml
       file: home.md
       generator: other_reading.yaml
@@ -39,7 +39,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: home.db
-    - title: Feeds Student Journalism and feeds about Journalism feeds
+    - title: Student Paper
       link: journalism.xml
       file: journalism.md
       generator: other_reading.yaml
@@ -47,7 +47,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: journalism.db
-    - title: Library and Archives organizations
+    - title: GLAM
       link: libraries.xml
       file: libraries.md
       generator: front_page.yaml
@@ -65,7 +65,7 @@ collections:
         - UPDATE items SET status = 'review' WHERE link LIKE '%/sports/%' OR link LIKE '%/sport/%' OR link LIKE '%/sports-%' OR link LIKE '%/sport-%' OR link LIKE '%/opinion/%' OR link LIKE '%/opinion-%' OR link LIKE '%/commentary/%' OR link LIKE '%/commentary-%' OR link LIKE '%/commentisfree/%' OR link LIKE '%/op-ed/%' OR link LIKE '%/editorial/%' OR link LIKE '%/editorial-%' OR link LIKE '%/editorials/%';
         - UPDATE items SET status = 'review' WHERE title LIKE '%World Cup%' OR title LIKE '%FIFA%' OR title LIKE '%Stanley Cup%' OR title LIKE '%Super Bowl%' OR title LIKE '% NHL%' OR title LIKE '% NFL%' OR title LIKE '% NBA%' OR title LIKE '% MLB%' OR title LIKE '%Wimbledon%' OR title LIKE '%Olympics%' OR title LIKE '%Olympic Games%';
       dbName: north_america.db
-    - title: Items of interest to the Pacific community and the Pacific RIM
+    - title: Pacific
       link: pacific.xml
       file: pacific.md
       generator: front_page.yaml
@@ -75,7 +75,7 @@ collections:
         - UPDATE items SET status = 'review' WHERE link LIKE '%/sports/%' OR link LIKE '%/sport/%' OR link LIKE '%/sports-%' OR link LIKE '%/sport-%' OR link LIKE '%/opinion/%' OR link LIKE '%/opinion-%' OR link LIKE '%/commentary/%' OR link LIKE '%/commentary-%' OR link LIKE '%/commentisfree/%' OR link LIKE '%/op-ed/%' OR link LIKE '%/editorial/%' OR link LIKE '%/editorial-%' OR link LIKE '%/editorials/%';
         - UPDATE items SET status = 'review' WHERE title LIKE '%World Cup%' OR title LIKE '%FIFA%' OR title LIKE '%Stanley Cup%' OR title LIKE '%Super Bowl%' OR title LIKE '% NHL%' OR title LIKE '% NFL%' OR title LIKE '% NBA%' OR title LIKE '% MLB%' OR title LIKE '%Wimbledon%' OR title LIKE '%Olympics%' OR title LIKE '%Olympic Games%';
       dbName: pacific.db
-    - title: Planet News
+    - title: Planet
       link: planet.xml
       file: planet.md
       generator: front_page.yaml
@@ -85,7 +85,7 @@ collections:
         - UPDATE items SET status = 'review' WHERE link LIKE '%/sports/%' OR link LIKE '%/sport/%' OR link LIKE '%/sports-%' OR link LIKE '%/sport-%' OR link LIKE '%/opinion/%' OR link LIKE '%/opinion-%' OR link LIKE '%/commentary/%' OR link LIKE '%/commentary-%' OR link LIKE '%/commentisfree/%' OR link LIKE '%/op-ed/%' OR link LIKE '%/editorial/%' OR link LIKE '%/editorial-%' OR link LIKE '%/editorials/%';
         - UPDATE items SET status = 'review' WHERE title LIKE '%World Cup%' OR title LIKE '%FIFA%' OR title LIKE '%Stanley Cup%' OR title LIKE '%Super Bowl%' OR title LIKE '% NHL%' OR title LIKE '% NFL%' OR title LIKE '% NBA%' OR title LIKE '% MLB%' OR title LIKE '%Wimbledon%' OR title LIKE '%Olympics%' OR title LIKE '%Olympic Games%';
       dbName: planet.db
-    - title: Retro Computing News
+    - title: Retro
       link: retro_computing.xml
       file: retro_computing.md
       generator: other_reading.yaml
@@ -93,7 +93,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: retro_computing.db
-    - title: Science and Technology
+    - title: STEM
       link: science_and_technology.xml
       file: science_and_technology.md
       generator: other_reading.yaml
@@ -101,7 +101,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: science_and_technology.db
-    - title: Som Regional News Papers
+    - title: Small Papers
       link: small_papers.xml
       file: small_papers.md
       generator: other_reading.yaml

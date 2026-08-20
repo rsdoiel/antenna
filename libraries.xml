@@ -2,12 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/libraries.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title><![CDATA[Library and Archives organizations]]></title>
+    <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>19 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>20 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rogue Scholar now collects citations with invenio-pidbox</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-now-collects-citations-with-invenio-pidbox/</link>
+      <description>
+        <![CDATA[<p>Starting this week the <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar</a> science blog archive collects citations of its blog posts using <a href="https://pypi.org/project/invenio-pidbox/" rel="noreferrer">invenio-pidbox</a>, the Python module for the InvenioRDM repository platform that I launched earlier this month, and replacing the integration that used the Crossref cited-by service <a href="https://doi.org/10.53731/zyg15-qv911" rel="noreferrer">launched in August 2025</a>.</p><p>The reasons for</p>]]>
+      </description>
+      <source:markdown>Starting this week the [Rogue Scholar](https://rogue-scholar.org) science blog archive collects citations of its blog posts using [invenio-pidbox](https://pypi.org/project/invenio-pidbox/), the Python module for the InvenioRDM repository platform that I launched earlier this month, and replacing the integration that used the Crossref cited-by service [launched in August 2025](https://doi.org/10.53731/zyg15-qv911).
+
+The reasons for</source:markdown>
+      <guid>cid://6a86b87d07a94900019d9ff8</guid>
+      <category>Rogue Scholar</category>
+      <category>Commonmeta</category>
+      <category>InvenioRDM</category>
+    </item>    <item>
+      <title>Guest Post — Self-Citation Is How Fields Grow</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/20/guest-post-self-citation-is-how-fields-grow/</link>
+      <description>
+        <![CDATA[<p>Today's post provides a brief analysis of self-referencing and scholarly impact through the lens of stigmergy theory</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/20/guest-post-self-citation-is-how-fields-grow/">Guest Post — Self-Citation Is How Fields Grow</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s post provides a brief analysis of self-referencing and scholarly impact through the lens of stigmergy theory
+
+The post [Guest Post — Self-Citation Is How Fields Grow](https://scholarlykitchen.sspnet.org/2026/08/20/guest-post-self-citation-is-how-fields-grow/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62558</guid>
+      <category>Authority</category>
+      <category>Authors</category>
+      <category>Copyright</category>
+      <category>Metrics and Analytics</category>
+      <category>Peer Review</category>
+      <category>Research</category>
+      <category>Research Integrity</category>
+      <category>Citation</category>
+      <category>endogeny</category>
+      <category>self-citation</category>
+      <category>stigmergy</category>
+    </item>    <item>
+      <title>Report From Texas: “Lt. Gov. Dan Patrick Proposes Penalties For Schools That Keep “Vulgar” Books On Library Shelves”</title>
+      <link>https://www.infodocket.com/2026/08/19/report-from-texas-lt-gov-dan-patrick-were-coming-for-the-books-in-school-libraries/</link>
+      <description>
+        <![CDATA[<p>From The Texas Tribune Lt. Gov. Dan Patrick on Wednesday vowed to pass legislation punishing public schools that do not remove graphic books from their shelves by knocking them down a notch in the state’s annual school performance ratings, which the state uses to seize control of underperforming districts. Flanked by easels displaying printed covers of books [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/19/report-from-texas-lt-gov-dan-patrick-were-coming-for-the-books-in-school-libraries/">Report From Texas: &#8220;Lt. Gov. Dan Patrick Proposes Penalties For Schools That Keep “Vulgar” Books On Library Shelves&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From The Texas Tribune Lt. Gov. Dan Patrick on Wednesday vowed to pass legislation punishing public schools that do not remove graphic books from their shelves by knocking them down a notch in the state’s annual school performance ratings, which the state uses to seize control of underperforming districts. Flanked by easels displaying printed covers of books \[…\]
+
+The post [Report From Texas: “Lt. Gov. Dan Patrick Proposes Penalties For Schools That Keep “Vulgar” Books On Library Shelves”](https://www.infodocket.com/2026/08/19/report-from-texas-lt-gov-dan-patrick-were-coming-for-the-books-in-school-libraries/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168592</guid>
+      <category>Libraries</category>
+      <category>News</category>
+    </item>    <item>
+      <title>Journal Article: “The Portrayal of Libraries as Remote Workplaces in the General Media: A Qualitative Content Analysis”</title>
+      <link>https://www.infodocket.com/2026/08/19/journal-article-the-portrayal-of-libraries-as-remote-workplaces-in-the-general-media-a-qualitative-content-analysis/</link>
+      <description>
+        <![CDATA[<p>The journal article linked below was recently published by the Journal of Library Administration. Title The Portrayal of Libraries as Remote Workplaces in the General Media: A Qualitative Content Analysis Authors Philip Hider Charles Sturt University Lulu Yee Charles Sturt University Simon Wakeling Charles Sturt University Xi Wen (Carys) Chan Griffith University Matthew J. Xerri [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/19/journal-article-the-portrayal-of-libraries-as-remote-workplaces-in-the-general-media-a-qualitative-content-analysis/">Journal Article: &#8220;The Portrayal of Libraries as Remote Workplaces in the General Media: A Qualitative Content Analysis&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>The journal article linked below was recently published by the Journal of Library Administration. Title The Portrayal of Libraries as Remote Workplaces in the General Media: A Qualitative Content Analysis Authors Philip Hider Charles Sturt University Lulu Yee Charles Sturt University Simon Wakeling Charles Sturt University Xi Wen (Carys) Chan Griffith University Matthew J. Xerri \[…\]
+
+The post [Journal Article: “The Portrayal of Libraries as Remote Workplaces in the General Media: A Qualitative Content Analysis”](https://www.infodocket.com/2026/08/19/journal-article-the-portrayal-of-libraries-as-remote-workplaces-in-the-general-media-a-qualitative-content-analysis/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168590</guid>
+      <category>Libraries</category>
+      <category>News</category>
+    </item>    <item>
+      <title>July/August 2026</title>
+      <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/july-august-2026/</link>
+      <description>
+        <![CDATA[<p>Last Updated on August 19, 2026, 1:31 pm ET ARL Public Policy Briefing (July/August 2026) In July, the Library of Congress deputy CIO testified in a congressional hearing about efforts...</p>
+        <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/july-august-2026/">July/August 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on August 19, 2026, 1:31 pm ET ARL Public Policy Briefing (July/August 2026) In July, the Library of Congress deputy CIO testified in a congressional hearing about efforts...
+
+The post [July/August 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/july-august-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=49616</guid>
+      <category>Public Policy Briefing</category>
+    </item>    <item>
       <title>Guest Post — AI Can Find the Article. Can It Tell Which Version It Used?</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/</link>
       <description>
@@ -35,6 +108,71 @@ The post [Guest Post — AI Can Find the Article. Can It Tell Which Version It U
       <category>persistent identifiers</category>
       <category>PIDs</category>
       <category>version control</category>
+    </item>    <item>
+      <title>To go far, go together: reflections from FORCE2026</title>
+      <link>https://www.crossref.org/blog/to-go-far-go-together-reflections-from-force2026/</link>
+      <description>
+        <![CDATA[<p>This year&rsquo;s edition of the <a href="https://force11.org/" target="_blank">FORCE11</a> conference was hosted in June by <a href="https://www.smu.edu.sg/" target="_blank">Singapore Management University</a>. Its title, “To Go Far, Go Together: Advancing Scholarly Communication Across Boundaries and Disruptions” truly resonates with Crossref’s <a href="https://www.crossref.org/truths">truths</a>; it takes a village! Crossref only works as long as the scholarly research community wants to work together globally, across all disciplines, for integrity and openness of the scientific record. The conversations were influenced by a genuinely diverse mix of librarians, researchers, open infrastructures, and service providers, and that mix shaped almost every interaction we had at the conference.</p>
+        <p>Two themes ran through nearly every session we attended: research assessment reform and research integrity. A third, quieter thread, a move towards more modular scholarship, kept surfacing as a possible answer to the complexities arising from the two previous themes. Here&rsquo;s what stood out.</p>
+        <h2 id="research-assessment-reform">Research assessment reform</h2>
+        <p>The pre-conference CoARA-DORA event set the tone before FORCE2026 had even officially started. Around 30 people including librarians, researchers, and funders, gathered for a day that made one thing clear: reforming research assessment is no longer a theoretical conversation happening in the policy space – it&rsquo;s a global practice, rooted in local particularities.</p>
+        <p>We heard from leaders from <a href="https://www.coara.org/" target="_blank">CoARA</a> and <a href="https://sfdora.org/" target="_blank">DORA</a> about how these initiatives are supporting the community in translating policy ambitions into practice through guidelines and dedicated working groups. We heard from CLACSO, Queensland University of Technology, Kyoto University, and the Ministry for Business, Innovation and Employment of New Zealand how change needs to account for local contexts. It was also interesting to hear perspectives from policymakers, funders, and practitioners at universities on how the levers are different for each one.</p>
+        <p>This theme carried straight into the main conference. Lily Kong&rsquo;s keynote, &ldquo;From Publish or Perish to People and Purpose,&rdquo; was blunt about the cost of the status quo: a damaged research culture, disincentivised collaboration, and researchers leaving academia altogether. Her argument wasn&rsquo;t that we need better metrics, but that we need a different set of values: recognising impact as human capital development, community engagement, and a &ldquo;full ecology of academic work,&rdquo; where people and disciplines are allowed to shine under different lights rather than being measured against one standard.</p>
+        <h2 id="research-integrity-and-ai">Research integrity and AI</h2>
+        <p>If assessment reform was a structural theme of the conference, AI was setting its anxious mood. The Day 2 keynote, &ldquo;Surviving the Disruption: Scholarly Communication in the Age of AI,&rdquo; captured a lot of what we&rsquo;d been worrying about. AI is here to stay and it can improve much of what is important, but it also amplifies what is dangerous: poor quality information and integrity issues. The most important takeaway was that although we should be embracing the new status quo, humans need to stay central to the process.</p>
+        <p>This connected directly back to Lily Kong&rsquo;s keynote, where she flagged AI as a force that could intensify, not solve, the pressures and distortions already present in research culture. Between the two keynotes, research integrity became a very concrete problem: how do we build systems, incentives, and review processes that hold up once AI is fully in the loop?</p>
+        <h2 id="modular-scholarship-breaking-out-of-the-pdf">Modular scholarship: breaking out of the PDF</h2>
+        <p>A persistent undertone was the push to move scholarship beyond the static, narrative-driven PDF. The session on Open Exchange Architecture made the case most directly: research is currently trapped in a &ldquo;paper-shaped box,&rdquo; with data, software, and code relegated to supplementary status, when they should be first-class, citable components in their own right.</p>
+        <p>At the funder forum, one discussion was entirely dedicated to integrating research software in open scholarship. An important aspect of this integration is how to ensure that these ‘components’ are discoverable from the moment they are created, interoperable, and findable. Not many people in the room were surprised when open metadata and persistent identifiers were described as a solution, and <a href="https://council.science/blog/open-science-round-up-the-hidden-infrastructure-behind-research-reform/" target="_blank">we agree</a>.</p>
+        <h2 id="global-perspectives-on-open-research-information">Global perspectives on open research information</h2>
+        <p>Together with Bianca Kramer (Barcelona Declaration on Open Research Information) and Cameron Neylon (Curtin University), we organised a workshop “Global Perspectives on Open Research Information”. The workshop set out to explore why research information — the bibliographic metadata, metadata on research software and data, funding, and contributors — matters, and why it should be open. We made the case that closed data undermines fair assessment, equitable decision-making, and open science itself. We ran through the landscape of sources, and described Crossref infrastructure in more detail.</p>
+        <p>The session was participatory and interactive, we had attendees map their own use cases and data sources, followed by discussions and Q&amp;A. Participants shared their own experiences with different sources, from CRIS systems and commercial databases to repositories, aggregators, and open databases. We discussed the value of the Crossref database as a large, open, rich, and community-governed database that 25,000 members contributed to and invested in.</p>
+        <h2 id="the-role-of-the-community-in-open-research-infrastructure-in-asia">The role of the community in open research infrastructure in Asia</h2>
+        <p>To finalise, we had the opportunity to facilitate a panel on the accessibility of open scholarly infrastructure in Asia. We were joined by Mochammad Tanzil Multazam, from Relawan Journal Indonesia, Maria Lamury, from PKP, Xiaofeng Guo, Sin-Chn SCIENTIFIC PRESS and Crossref Ambassador, and Joanna Ball, from DOAJ, for an insightful conversation. As we explored what is needed for infrastructure to be accessible, one question kept coming up throughout the conversation: if communities can&rsquo;t engage with it effectively, is it really open?</p>
+        <p>The role of community in skill building, supporting scholars in local languages, and sharing community feedback to the infrastructures was echoed by all panelists. This highlighted that open infrastructures need to support not only the technological layer, but the community layer too, which is fundamental for the accessibility of any infrastructure locally. This raised a question for infrastructure providers: what does it actually take to empower communities toward meaningful participation? At Crossref, we try to close that gap through our work with <a href="https://www.crossref.org/community/sponsors/" target="_blank">sponsors</a>, <a href="https://www.crossref.org/community/ambassadors/" target="_blank">ambassadors</a>, and the <a href="https://www.crossref.org/gem/" target="_blank">GEM program</a> (but there is always more to do!).</p>
+        <h2 id="closing-thoughts">Closing thoughts</h2>
+        <p>FORCE2026 didn&rsquo;t resolve the tension between metrics and meaning, or between AI&rsquo;s capabilities and our ability to harness them responsibly. But it did make clear that these conversations are maturing from principles and manifestos toward implementation. Reform looks different in Kyoto than in Queensland, and different again in Buenos Aires, and that&rsquo;s not a bug, but a feature. The role of collaboration and community to realise a more open scholarly landscape can’t be overstated and we for one can’t wait to do our part.</p>]]>
+      </description>
+      <source:markdown>This year’s edition of the [FORCE11](https://force11.org/) conference was hosted in June by [Singapore Management University](https://www.smu.edu.sg/). Its title, “To Go Far, Go Together: Advancing Scholarly Communication Across Boundaries and Disruptions” truly resonates with Crossref’s [truths](https://www.crossref.org/truths); it takes a village! Crossref only works as long as the scholarly research community wants to work together globally, across all disciplines, for integrity and openness of the scientific record. The conversations were influenced by a genuinely diverse mix of librarians, researchers, open infrastructures, and service providers, and that mix shaped almost every interaction we had at the conference.
+
+Two themes ran through nearly every session we attended: research assessment reform and research integrity. A third, quieter thread, a move towards more modular scholarship, kept surfacing as a possible answer to the complexities arising from the two previous themes. Here’s what stood out.
+
+## Research assessment reform
+
+The pre-conference CoARA-DORA event set the tone before FORCE2026 had even officially started. Around 30 people including librarians, researchers, and funders, gathered for a day that made one thing clear: reforming research assessment is no longer a theoretical conversation happening in the policy space – it’s a global practice, rooted in local particularities.
+
+We heard from leaders from [CoARA](https://www.coara.org/) and [DORA](https://sfdora.org/) about how these initiatives are supporting the community in translating policy ambitions into practice through guidelines and dedicated working groups. We heard from CLACSO, Queensland University of Technology, Kyoto University, and the Ministry for Business, Innovation and Employment of New Zealand how change needs to account for local contexts. It was also interesting to hear perspectives from policymakers, funders, and practitioners at universities on how the levers are different for each one.
+
+This theme carried straight into the main conference. Lily Kong’s keynote, “From Publish or Perish to People and Purpose,” was blunt about the cost of the status quo: a damaged research culture, disincentivised collaboration, and researchers leaving academia altogether. Her argument wasn’t that we need better metrics, but that we need a different set of values: recognising impact as human capital development, community engagement, and a “full ecology of academic work,” where people and disciplines are allowed to shine under different lights rather than being measured against one standard.
+
+## Research integrity and AI
+
+If assessment reform was a structural theme of the conference, AI was setting its anxious mood. The Day 2 keynote, “Surviving the Disruption: Scholarly Communication in the Age of AI,” captured a lot of what we’d been worrying about. AI is here to stay and it can improve much of what is important, but it also amplifies what is dangerous: poor quality information and integrity issues. The most important takeaway was that although we should be embracing the new status quo, humans need to stay central to the process.
+
+This connected directly back to Lily Kong’s keynote, where she flagged AI as a force that could intensify, not solve, the pressures and distortions already present in research culture. Between the two keynotes, research integrity became a very concrete problem: how do we build systems, incentives, and review processes that hold up once AI is fully in the loop?
+
+## Modular scholarship: breaking out of the PDF
+
+A persistent undertone was the push to move scholarship beyond the static, narrative-driven PDF. The session on Open Exchange Architecture made the case most directly: research is currently trapped in a “paper-shaped box,” with data, software, and code relegated to supplementary status, when they should be first-class, citable components in their own right.
+
+At the funder forum, one discussion was entirely dedicated to integrating research software in open scholarship. An important aspect of this integration is how to ensure that these ‘components’ are discoverable from the moment they are created, interoperable, and findable. Not many people in the room were surprised when open metadata and persistent identifiers were described as a solution, and [we agree](https://council.science/blog/open-science-round-up-the-hidden-infrastructure-behind-research-reform/).
+
+## Global perspectives on open research information
+
+Together with Bianca Kramer (Barcelona Declaration on Open Research Information) and Cameron Neylon (Curtin University), we organised a workshop “Global Perspectives on Open Research Information”. The workshop set out to explore why research information — the bibliographic metadata, metadata on research software and data, funding, and contributors — matters, and why it should be open. We made the case that closed data undermines fair assessment, equitable decision-making, and open science itself. We ran through the landscape of sources, and described Crossref infrastructure in more detail.
+
+The session was participatory and interactive, we had attendees map their own use cases and data sources, followed by discussions and Q&#38;A. Participants shared their own experiences with different sources, from CRIS systems and commercial databases to repositories, aggregators, and open databases. We discussed the value of the Crossref database as a large, open, rich, and community-governed database that 25,000 members contributed to and invested in.
+
+## The role of the community in open research infrastructure in Asia
+
+To finalise, we had the opportunity to facilitate a panel on the accessibility of open scholarly infrastructure in Asia. We were joined by Mochammad Tanzil Multazam, from Relawan Journal Indonesia, Maria Lamury, from PKP, Xiaofeng Guo, Sin-Chn SCIENTIFIC PRESS and Crossref Ambassador, and Joanna Ball, from DOAJ, for an insightful conversation. As we explored what is needed for infrastructure to be accessible, one question kept coming up throughout the conversation: if communities can’t engage with it effectively, is it really open?
+
+The role of community in skill building, supporting scholars in local languages, and sharing community feedback to the infrastructures was echoed by all panelists. This highlighted that open infrastructures need to support not only the technological layer, but the community layer too, which is fundamental for the accessibility of any infrastructure locally. This raised a question for infrastructure providers: what does it actually take to empower communities toward meaningful participation? At Crossref, we try to close that gap through our work with [sponsors](https://www.crossref.org/community/sponsors/), [ambassadors](https://www.crossref.org/community/ambassadors/), and the [GEM program](https://www.crossref.org/gem/) (but there is always more to do!).
+
+## Closing thoughts
+
+FORCE2026 didn’t resolve the tension between metrics and meaning, or between AI’s capabilities and our ability to harness them responsibly. But it did make clear that these conversations are maturing from principles and manifestos toward implementation. Reform looks different in Kyoto than in Queensland, and different again in Buenos Aires, and that’s not a bug, but a feature. The role of collaboration and community to realise a more open scholarly landscape can’t be overstated and we for one can’t wait to do our part.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/to-go-far-go-together-reflections-from-force2026/</guid>
     </item>    <item>
       <title>Report: Oklahoma Launches Statewide Effort to Use Libraries to Close the Digital Divide</title>
       <link>https://www.infodocket.com/2026/08/18/report-oklahoma-launches-statewide-effort-to-use-libraries-to-close-the-digital-divide/</link>
@@ -149,10 +287,10 @@ The post [Guest Post — Preserving the Record, Shaping the Future: Why Diversit
       <title>ARL Daily Intelligence (August 17–20)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-17-20/</link>
       <description>
-        <![CDATA[<p>Last Updated on August 18, 2026, 5:08 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on August 19, 2026, 3:38 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-17-20/">ARL Daily Intelligence (August 17–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on August 18, 2026, 5:08 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on August 19, 2026, 3:38 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (August 17–20)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-17-20/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49601</guid>
@@ -623,43 +761,7 @@ The post [Reading Between the Lines, Part 1: A Cognitive Framework for AI in Sch
       <title>Investing $4.9 million of our surplus in rebuilding the Crossref system</title>
       <link>https://www.crossref.org/blog/investing-4.9-million-of-our-surplus-in-rebuilding-the-crossref-system/</link>
       <description>
-        <![CDATA[<!-- CATEGORY-REFERENCE:START—auto-generated by bin/sync-template-categories.py; do not hand-edit
-        CONTROLLED VOCABULARY—the 147 allowed blog `categories`
-        HOW CATEGORIES WORK ON THIS SITE
-        • Choose from the list below ONLY. Copy the ones that apply into the
-        `categories:` block in the front matter above (delete the starter examples).
-        • Prefer an existing term over inventing a new one—that's what keeps topic
-        pages useful instead of fragmented (we merged 200+ tags down to this list).
-        • The site build ENFORCES this: if a post uses a category that isn't on this
-        list, the GitLab pipeline FAILS with a message naming the term.
-        NEED A GENUINELY NEW TOPIC?
-        • Add it as a `[[category]]` entry in data/taxonomy/allowed_categories.toml
-        then run bin/sync-template-categories.py to refresh this list.
-        • If unsure, ask in #website-editors or check with Rosa/Ginny.
-        THE 147 ALLOWED CATEGORIES (alphabetical):
-        Abstracts, Accepted Manuscripts, Accessibility, Affiliations, Altmetrics, Ambassadors, Annual Meeting, Annual Report, API Case Study, APIs
-        Best Practices, Bibliometrics, Blogs, Board, Board Summary, Books, Brand
-        CDL, Citation, Citation Formats, Cited-by, Clinical Trials, Cloud, Co-access, Code, Collaboration, Community, Community call, Conference Identifiers, Content Negotiation, Content Registration, Crossmark
-        Data, Data Centre, Data Citation, Data Science, DataCite, Discussion, DOAJ, DOI Resolution, DOIs
-        Elections, Engineering, Environment, Equity, Event Data
-        Fees, Finance, Full-text Links
-        GEM, Google, Governance, Grant Linking System
-        Handle
-        I4OA, Identifiers, InChI, Infrastructure, Interoperability
-        Linked Data, Linking
-        Machine Learning, Meet the Members, Meetings, Member Briefing, Member Experience, Members, Membership, Metadata, Metadata Awards, Metadata Manager, Metadata Matching, Metadata Retrieval, Multiple Resolution
-        News Release
-        Open Access, Open Funder Registry, Open Source, OpenURL, Operations, ORCID, Organisation Identifier, OTMI
-        Participation Reports, Patents, PDF, Peer Review, Persistence, Perspectives, PIDapalooza, PKP, Policy, POSI, POSI Audit, Post Mortem, Preprints, Preservation, Product, Programming, Programs, Publishing, PubMed
-        R&D, Record Types, Reference Linking, Reference Matching, References, Relationships, Reports, Repositories, Request for Comment, Request for Services, Research Funders, Research Integrity, Research Nexus, Researchers, REST API, Retraction Watch, Retractions, Roadmap, ROR, RSS
-        Schema, Search, Security, Service Providers, Similarity Check, Software, Sponsors, Staff, Standards, Strategy, Support, Sustainability
-        Technology, Terms, Text and Data Mining, Title Transfers, Translations
-        User Interfaces, UX Research
-        Web, Webinars, Wikipedia
-        XML, XMP
-        Zotero
-        CATEGORY-REFERENCE:END -->
-        <p>The infrastructure that registers and distributes Crossref metadata has been running and growing for more than two decades. It now does considerably more than it was built to do, and it shows: two large, tightly coupled monoliths (Content System and REST API), where a change in one place risks breaking something in another.</p>
+        <![CDATA[<p>The infrastructure that registers and distributes Crossref metadata has been running and growing for more than two decades. It now does considerably more than it was built to do, and it shows: two large, tightly coupled monoliths (Content System and REST API), where a change in one place risks breaking something in another.</p>
         <p>In its July meeting, the Crossref board approved the use of Crossref surplus funds for a three-year project to accelerate the redesign of the Crossref system. Our plan is to use $1.6 million a year for three years (~USD $4.9M in total) from our surplus funds, which will help us set up a modern infrastructure consisting of separate services for the different functionalities that the Crossref system offers.</p>
         <p>This infusion of time-limited resources will augment our existing team. We will continue to maintain the current system, add small improvements, fix bugs, and make schema changes. We’ve mapped out our time and capacity to ensure that we can keep the current system active and robust while building the new system at the same time. In the past, when we’ve attempted large redesign initiatives, we’ve done a code freeze on the existing system—we won’t be doing that this time. 25,000+ members and thousands of downstream services rely on the system daily, so we will continue to provide time and energy to support that while building for the future. As always, you can view our <a href="https://share.productboard.com/crossref/board/aadbc362-e552-4af2-9078-1b79a8533e87" target="_blank">public roadmap</a> to see progress with what we’re working on.</p>
         <h2 id="background">Background</h2>
@@ -1930,100 +2032,6 @@ The post [Guest Post — The Third Time is NOT the Charm: Who Will Own How AI Pa
       <category>scholarly record</category>
       <category>Shared Infrastructure</category>
       <category>trust markers</category>
-    </item>    <item>
-      <title>I Built an Elaborate Librarian Recommender. Then a CSV Beat It.</title>
-      <link>https://aarontay.substack.com/p/i-built-an-elaborate-librarian-recommender</link>
-      <description>
-        <![CDATA[What &#8220;full library discovery&#8221; taught me about LLM classification, overengineered retrieval and AI agents.]]>
-      </description>
-      <source:markdown>What “full library discovery” taught me about LLM classification, overengineered retrieval and AI agents.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!KJxQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F651addd0-308a-45a2-af57-ef0fc1906227_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/i-built-an-elaborate-librarian-recommender</guid>
-    </item>    <item>
-      <title>A Connection Between the Past and the Future: The Local History &#38; Genealogy Web Archive</title>
-      <link>https://blogs.loc.gov/thesignal/2026/07/a-connection-between-the-past-and-the-future/</link>
-      <description>
-        <![CDATA[The Local History and Genealogy Web Archive preserves websites that help researchers trace family histories and better understand the communities where their ancestors lived. In this interview, Ahmed Johnson discusses the importance of preserving the websites of local history and genealogical societies, the challenges of building a broadly representative collection, and the role of web archiving in connecting future researchers with the past.]]>
-      </description>
-      <source:markdown>The Local History and Genealogy Web Archive preserves websites that help researchers trace family histories and better understand the communities where their ancestors lived. In this interview, Ahmed Johnson discusses the importance of preserving the websites of local history and genealogical societies, the challenges of building a broadly representative collection, and the role of web archiving in connecting future researchers with the past.</source:markdown>
-      <guid>cid://https://blogs.loc.gov/thesignal/?p=37641</guid>
-      <category>Interviews</category>
-      <category>Web Archiving</category>
-    </item>    <item>
-      <title>Vanishing Culture Episode #5: A Language Worth Saving with Peter Scholing</title>
-      <link>https://blog.archive.org/2026/07/29/vanishing-culture-episode-5-a-language-worth-saving-with-peter-scholing/</link>
-      <description>
-        <![CDATA[Languages can vanish just as easily as books, websites, or archives—and when they do, entire ways of understanding the world can disappear with them. In the fifth episode of our [&#8230;]]]>
-      </description>
-      <source:markdown>Languages can vanish just as easily as books, websites, or archives—and when they do, entire ways of understanding the world can disappear with them. In the fifth episode of our \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30687</guid>
-      <category>Announcements</category>
-    </item>    <item>
-      <title>Gallup: “Americans Cool Toward AI: After Two Years of Improving Attitudes Toward AI, Americans Turn Skeptical”</title>
-      <link>https://www.infodocket.com/2026/07/29/gallup-americans-cool-toward-ai-after-two-years-of-improving-attitudes-toward-ai-americans-turn-skeptical/</link>
-      <description>
-        <![CDATA[<p>From Gallup: Americans’ familiarity with artificial intelligence has grown over the past two years. Today, 70% say they are somewhat or extremely knowledgeable about AI, up from 64% in 2024. But instead of becoming more comfortable with the technology, Americans’ previously improving attitudes toward AI have lost momentum, according to the latest Bentley University-Gallup Business in [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/07/29/gallup-americans-cool-toward-ai-after-two-years-of-improving-attitudes-toward-ai-americans-turn-skeptical/">Gallup: &#8220;Americans Cool Toward AI: After Two Years of Improving Attitudes Toward AI, Americans Turn Skeptical&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From Gallup: Americans’ familiarity with artificial intelligence has grown over the past two years. Today, 70% say they are somewhat or extremely knowledgeable about AI, up from 64% in 2024. But instead of becoming more comfortable with the technology, Americans’ previously improving attitudes toward AI have lost momentum, according to the latest Bentley University-Gallup Business in \[…\]
-
-The post [Gallup: “Americans Cool Toward AI: After Two Years of Improving Attitudes Toward AI, Americans Turn Skeptical”](https://www.infodocket.com/2026/07/29/gallup-americans-cool-toward-ai-after-two-years-of-improving-attitudes-toward-ai-americans-turn-skeptical/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168480</guid>
-      <category>Jobs</category>
-      <category>News</category>
-    </item>    <item>
-      <title>Report: Missouri Republicans Threaten Library Funding Over ‘Rainbow Story Time’</title>
-      <link>https://www.infodocket.com/2026/07/29/report-missouri-republicans-threaten-library-funding-over-rainbow-story-time/</link>
-      <description>
-        <![CDATA[<p>From the Missouri Independent: Missouri Republican officials threatened Tuesday to cut state funding for Columbia’s public library after staff held a reading of LGBTQ+ children’s books last week. Secretary of State Denny Hoskins and state Sen. Rick Brattin, a Harrisonville Republican running for Congress in Missouri’s 5th congressional district, held a joint press conference Tuesday [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/07/29/report-missouri-republicans-threaten-library-funding-over-rainbow-story-time/">Report: Missouri Republicans Threaten Library Funding Over &#8216;Rainbow Story Time&#8217;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From the Missouri Independent: Missouri Republican officials threatened Tuesday to cut state funding for Columbia’s public library after staff held a reading of LGBTQ+ children’s books last week. Secretary of State Denny Hoskins and state Sen. Rick Brattin, a Harrisonville Republican running for Congress in Missouri’s 5th congressional district, held a joint press conference Tuesday \[…\]
-
-The post [Report: Missouri Republicans Threaten Library Funding Over ‘Rainbow Story Time’](https://www.infodocket.com/2026/07/29/report-missouri-republicans-threaten-library-funding-over-rainbow-story-time/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168478</guid>
-      <category>Funding</category>
-      <category>Libraries</category>
-      <category>News</category>
-      <category>Public Libraries</category>
-    </item>    <item>
-      <title>When Records Management Stopped Patenting the Future</title>
-      <link>https://metaarchivist.substack.com/p/when-records-management-stopped-patenting</link>
-      <description>
-        <![CDATA[Why the most important innovations in records management became standards instead of inventions]]>
-      </description>
-      <source:markdown>Why the most important innovations in records management became standards instead of inventions</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!6sB9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe83f80c3-2284-475b-aa49-9b3802b13f08_1774x887.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/when-records-management-stopped-patenting</guid>
-    </item>    <item>
-      <title>The Hidden Cost of Trust</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/07/29/the-hidden-cost-of-trust/</link>
-      <description>
-        <![CDATA[<p>Research integrity demands stronger safeguards in order to protect the scholarly record. But for editors, when new integrity measures are introduced, they do not replace existing tasks; they are added alongside them, compounding workloads and responsibilities.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/07/29/the-hidden-cost-of-trust/">The Hidden Cost of Trust</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Research integrity demands stronger safeguards in order to protect the scholarly record. But for editors, when new integrity measures are introduced, they do not replace existing tasks; they are added alongside them, compounding workloads and responsibilities.
-
-The post [The Hidden Cost of Trust](https://scholarlykitchen.sspnet.org/2026/07/29/the-hidden-cost-of-trust/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62371</guid>
-      <category>Advocacy</category>
-      <category>Infrastructure</category>
-      <category>Innovation</category>
-      <category>Policy</category>
-      <category>Research</category>
-      <category>Research Integrity</category>
-      <category>Technology</category>
-      <category>World of Tomorrow</category>
-      <category>AI in publishing</category>
-      <category>editorial capacity</category>
-      <category>editorial workflows</category>
-      <category>journal editors</category>
-      <category>paper mills</category>
-      <category>Peer Review</category>
-      <category>publication ethics</category>
-      <category>research integrity</category>
-      <category>scholarly communication</category>
-      <category>scholarly publishing</category>
     </item>
   </channel>
 </rss>

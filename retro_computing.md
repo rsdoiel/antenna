@@ -1,5 +1,5 @@
 ---
-title: Retro Computing News
+title: Retro
 ---
 
 # Retro Computing News

@@ -30,14 +30,14 @@ nav: |
   </ul>
   <hr>
   <ul>
-    <li><a href="science_and_technology.html" "Science and Technology News">Science &amp; Technology</a></li>
-    <li><a href="retro_computing.html">Retro Computing</a></li>
-    <li><a href="home.html">Home, Garden & Urban Farm</a><li>
-    <li><a href="food.html">Good Eats, Healthy Eats</a></li>
+    <li><a href="science_and_technology.html" "Science and Technology News">STEM</a></li>
+    <li><a href="retro_computing.html">Retro</a></li>
+    <li><a href="home.html">Urban Farm</a><li>
+    <li><a href="food.html">Healthy Eats</a></li>
     <li><a href="small_papers.html">Small Papers</a></li>
-    <li><a href="journalism.html">Student Journalism</a></li>
-    <li><a href="craft.html">Craft</a></li>
+    <li><a href="journalism.html">Student Papers</a></li>
     <li><a href="writing.html">Writing</a></li>
+    <li><a href="craft.html">Craft</a></li>
   </ul>
 
 top_content: |

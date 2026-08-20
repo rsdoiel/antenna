@@ -435,4 +435,4 @@ description: Blogs, columns and snapshots from around the web.
 
 - [Meshtastic Blog](https://meshtastic.org/blog/atom.xml)
 - [Phil Manzanera news](https://manzanera.com/new/feed/)
-
+- [The Sun Magazine](https://www.thesunmagazine.org/rss/articles)

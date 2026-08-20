@@ -2,12 +2,168 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
   <atom:link href="https://rsdoiel.github.io/antenna/science_and_technology.xml" rel="self" type="application/rss+xml" />
   <channel>
-    <title><![CDATA[Science and Technology]]></title>
+    <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>20 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/</link>
+      <description>
+        <![CDATA[It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover [&#8230;]]]>
+      </description>
+      <source:markdown>It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97798</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus</title>
+      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 20 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Elephant&#8217;s [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 20 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Elephant’s \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Windows news sites are reviewing context menus and it’s perversely delightful</title>
+      <link>https://www.osnews.com/story/145858/windows-news-sites-are-reviewing-context-menus-and-its-perversely-delightful/</link>
+      <description>
+        <![CDATA[When I wrote about using Windows 11 for a month as part of the ongoing OSNews fundraiser (keep donating to get me to do the same for macOS!), one of the things I mentioned was that &#8220;the modern desktop context menu has its own classic Win32 context menu&#8221;. This is, in fact, a long-standing complaint I&#8217;ve repeatedly used as the perfect example of just how chaotic and low-quality Windows has become. Thankfully, and naturally I fully attribute this to my repeated complaints (*), Microsoft has been working on a brand new, faster, configurable context menu, and Neowin actually reviewed it. If you ask me, this revamped context menu addresses just about the biggest problem users had with the one in Windows 11, and that is the need to click through more buttons than necessary to do simple things like renaming a file or opening its properties. That problem is now basically gone. I have no issues with the new design. It looks modern, it feels more consistent with the rest of Windows, and even though all the new sections can still make it look a little busy, you now have the option to make it as simple or as button-packed as you want. That should cover most use cases and preferences well. I’d even say that when the new context menu becomes available to everyone, my guide on how to bring back the classic context menu might become obsolete. ↫ Ivan Jenic at Neowin The biggest reason I&#8217;m linking to this is not because I care about whatever monster of a context menu Windows users are having to deal with. No, I&#8217;m only linking to this because I never in my life imagined I&#8217;d be linking to a review of a context menu. I mean, at least it&#8217;s not the chess application icon. That would be embarrassing. I get a perverse sense of joy out of this.]]>
+      </description>
+      <source:markdown>When I wrote about using Windows 11 for a month as part of the ongoing OSNews fundraiser (keep donating to get me to do the same for macOS!), one of the things I mentioned was that “the modern desktop context menu has its own classic Win32 context menu”. This is, in fact, a long-standing complaint I’ve repeatedly used as the perfect example of just how chaotic and low-quality Windows has become. Thankfully, and naturally I fully attribute this to my repeated complaints (\*), Microsoft has been working on a brand new, faster, configurable context menu, and Neowin actually reviewed it. If you ask me, this revamped context menu addresses just about the biggest problem users had with the one in Windows 11, and that is the need to click through more buttons than necessary to do simple things like renaming a file or opening its properties. That problem is now basically gone. I have no issues with the new design. It looks modern, it feels more consistent with the rest of Windows, and even though all the new sections can still make it look a little busy, you now have the option to make it as simple or as button-packed as you want. That should cover most use cases and preferences well. I’d even say that when the new context menu becomes available to everyone, my guide on how to bring back the classic context menu might become obsolete. ↫ Ivan Jenic at Neowin The biggest reason I’m linking to this is not because I care about whatever monster of a context menu Windows users are having to deal with. No, I’m only linking to this because I never in my life imagined I’d be linking to a review of a context menu. I mean, at least it’s not the chess application icon. That would be embarrassing. I get a perverse sense of joy out of this.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145858</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>Why Don&#39;t Insects Live in the Ocean? Scientists Just Ruled Out One Possible Explanation Thanks to Deep-Diving Fly Larvae</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-dont-insects-live-in-the-ocean-scientists-just-ruled-out-one-possible-explanation-thanks-to-deep-diving-fly-larvae-180989348/</link>
+      <description>
+        <![CDATA[Researchers thought that insects might not live there because their respiratory systems would implode from water pressure. But certain fly larvae in East Africa make daily trips toward the bottom of Lake Malawi with the help of strong air sacs that contain a stretchy protein]]>
+      </description>
+      <source:markdown>Researchers thought that insects might not live there because their respiratory systems would implode from water pressure. But certain fly larvae in East Africa make daily trips toward the bottom of Lake Malawi with the help of strong air sacs that contain a stretchy protein</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/d2YIMJvt2M1Ad_h9oKpmIG6--3s=/420x240/filters:focal(500x338:501x339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/c9/97c9789f-14e5-4a5d-9175-0d31b2b109c9/article_-_a_swarm_of_the_lake_fly_chaoborus_edulis_over_lake_malawi_credit_philip_matthews.jpg" length="428533" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-dont-insects-live-in-the-ocean-scientists-just-ruled-out-one-possible-explanation-thanks-to-deep-diving-fly-larvae-180989348/</guid>
+    </item>    <item>
+      <title>NASA TechLeap Prize: Orbital Clarity Challenge</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/</link>
+      <description>
+        <![CDATA[The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s&#160;Heliophysics Division,&#160;Flight Opportunities program, and&#160;Center of Excellence for Collaborative Innovation.&#160;The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The [&#8230;]]]>
+      </description>
+      <source:markdown>The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation. The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1039521</guid>
+      <category>Prizes, Challenges, and Crowdsourcing Program</category>
+      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
+      <category>CoECI News</category>
+      <category>Get Involved</category>
+      <category>Opportunities to Contribute to NASA Missions &#38; Get Involved</category>
+      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
+    </item>    <item>
+      <title>NASA Updates Next Steps for Commercial Swift Boost Mission</title>
+      <link>https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/</link>
+      <description>
+        <![CDATA[Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to [&#8230;]]]>
+      </description>
+      <source:markdown>Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1039059</guid>
+      <category>Neil Gehrels Swift Observatory</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Missions</category>
+      <category>Swift Boost Mission</category>
+    </item>    <item>
+      <title>Human-Related Microbes May Survive Moon’s South Pole, NASA Finds</title>
+      <link>https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/</link>
+      <description>
+        <![CDATA[Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]]]>
+      </description>
+      <source:markdown>Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/</guid>
+      <category>Astrobiology</category>
+      <category>Earth&#39;s Moon</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Human Spaceflight Mission Directorate</category>
+      <category>Humans in Space</category>
+      <category>International Space Station (ISS)</category>
+      <category>ISS Research</category>
+      <category>Johnson Space Center</category>
+      <category>NASA Centers &#38; Facilities</category>
+      <category>NASA Directorates</category>
+      <category>Planetary Geosciences &#38; Geophysics</category>
+      <category>Planetary Science</category>
+      <category>Planetary Science Division</category>
+      <category>Science &#38; Research</category>
+      <category>Science Mission Directorate</category>
+    </item>    <item>
+      <title>A Towering 182-Feet-Tall Statue in Rural Poland Is Now the Tallest Virgin Mary in All of Europe. Locals Hope It Will Become a Tourist Destination</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-towering-182-feet-tall-statue-in-rural-poland-now-tallest-virgin-mary-in-europe-locals-hope-it-will-become-tourist-destination-180989364/</link>
+      <description>
+        <![CDATA[The steel and concrete monument honoring the mother of Jesus is located in Konotopie, a rural village about 100 miles from Warsaw]]>
+      </description>
+      <source:markdown>The steel and concrete monument honoring the mother of Jesus is located in Konotopie, a rural village about 100 miles from Warsaw</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/h7Ngf92A04xKqaJNpLkwae2HRUU=/420x240/filters:focal(3151x2371:3152x2372)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c8/4b/c84b24e2-edba-41ab-ac63-8f4c7861fe66/gettyimages-2286872540.jpg" length="16336894" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-towering-182-feet-tall-statue-in-rural-poland-now-tallest-virgin-mary-in-europe-locals-hope-it-will-become-tourist-destination-180989364/</guid>
+    </item>    <item>
+      <title>Ancient Milky Way Merger</title>
+      <link>https://www.nasa.gov/image-article/ancient-milky-way-merger/</link>
+      <description>
+        <![CDATA[This artist&#8217;s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young [&#8230;]]]>
+      </description>
+      <source:markdown>This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1038778</guid>
+    </item>    <item>
+      <title>Why Are Some Octopuses So Smart? The Answer Might Lie in a Never-Before-Seen Mutation That Helps Them Accurately Build Proteins</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</link>
+      <description>
+        <![CDATA[Scientists discovered a strange feature in certain octopuses’ ribosomal RNA, molecules that create a 3D scaffold for cellular protein factories. It was found only in shallow-water creatures that have expanded nervous systems and can do complex behaviors]]>
+      </description>
+      <source:markdown>Scientists discovered a strange feature in certain octopuses’ ribosomal RNA, molecules that create a 3D scaffold for cellular protein factories. It was found only in shallow-water creatures that have expanded nervous systems and can do complex behaviors</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bF5TQCy9XDFWAMWmWtTQtOKjW78=/420x240/filters:focal(980x541:981x542)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/6e/416e4112-c164-43fb-bfb2-aee28f44da1f/octopus_2.jpg" length="299182" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</guid>
+    </item>    <item>
+      <title>NASA Establishes State Hubs to Grow Technical Aerospace Workforce</title>
+      <link>https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/</link>
+      <description>
+        <![CDATA[NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development [&#8230;]]]>
+      </description>
+      <source:markdown>NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1039357</guid>
+      <category>Learning Resources</category>
+      <category>NASA Headquarters</category>
+      <category>Next Gen STEM</category>
+      <category>STEM Engagement at NASA</category>
+    </item>    <item>
+      <title>Building a Quantum Computer, One Fragile Qubit at a Time</title>
+      <link>https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/</link>
+      <description>
+        <![CDATA[No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.            <p>The post <a href="https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/" target="_blank">Building a Quantum Computer, One Fragile Qubit at a Time</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.
+
+The post [Building a Quantum Computer, One Fragile Qubit at a Time](https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=165698</guid>
+      <category>Computer Science</category>
+      <category>Physics</category>
+    </item>    <item>
+      <title>Brazil&#39;s First Urban Yellow Fever Outbreak in Nearly a Century May Have Been Fueled by a Surprising Culprit</title>
+      <link>https://www.smithsonianmag.com/smart-news/brazils-first-urban-yellow-fever-outbreak-in-nearly-a-century-may-have-been-fueled-by-a-surprising-culprit-180989363/</link>
+      <description>
+        <![CDATA[Extremely wet conditions are known to help spread mosquito-borne diseases like yellow fever. But based on computer simulations, researchers suspect that a severe drought may have contributed to the South American country’s recent deadly epidemic]]>
+      </description>
+      <source:markdown>Extremely wet conditions are known to help spread mosquito-borne diseases like yellow fever. But based on computer simulations, researchers suspect that a severe drought may have contributed to the South American country’s recent deadly epidemic</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hvCxsubjEGhlw5aRI8pJ6D4xgQ0=/420x240/filters:focal(2784x1856:2785x1857)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7e/09/7e096d93-f8c4-40e0-a2a4-2e4d8503e292/yellow-fever.jpg" length="3589938" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/brazils-first-urban-yellow-fever-outbreak-in-nearly-a-century-may-have-been-fueled-by-a-surprising-culprit-180989363/</guid>
+    </item>    <item>
+      <title>Career Spotlight: Mechanic (Ages 14-18)</title>
+      <link>https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/</link>
+      <description>
+        <![CDATA[What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can [&#8230;]]]>
+      </description>
+      <source:markdown>What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1038471</guid>
+      <category>Learning Resources</category>
+      <category>Grades 9 - 12</category>
+    </item>    <item>
       <title>You Can Now See One of the Oldest Surviving Copies of &#39;The Odyssey&#39; at the Metropolitan Museum of Art</title>
       <link>https://www.smithsonianmag.com/smart-news/you-can-now-see-one-of-oldest-surviving-copies-of-the-odyssey-at-metropolitan-museum-of-art-180989360/</link>
       <description>
@@ -31,7 +187,7 @@ _Support public media with NPR+ and enjoy perks for over 25 podcasts like this o
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d8daa3b-75f9-4145-9812-2ec7170161ac/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d8daa3b-75f9-4145-9812-2ec7170161ac&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935460&p=510351&d=890&size=14254960" length="14254960" type="audio/mpeg" />
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d8daa3b-75f9-4145-9812-2ec7170161ac/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d8daa3b-75f9-4145-9812-2ec7170161ac&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935460&p=510351&d=891&size=14263738" length="14263738" type="audio/mpeg" />
       <guid>cid://6d266887-c612-4871-a883-bc16a6f35624</guid>
     </item>    <item>
       <title>Behind the Lens: Meet NASA Johnson’s Photographers</title>
@@ -676,9 +832,9 @@ The post [Why Aging May Be a Program, Not a Breakdown](https://www.quantamagazin
       <title>Inside Colombia&#39;s big quake – and why more could be coming</title>
       <link>https://www.npr.org/2026/08/14/nx-s1-5928981/colombia-earthquake-venezuela-fault</link>
       <description>
-        <![CDATA[The 7.4 magnitude earthquake that struck Columbia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. <br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.   </em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. <br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.   </em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
-      <source:markdown>The 7.4 magnitude earthquake that struck Columbia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter.
+      <source:markdown>The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter.
 
 _Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
@@ -1028,15 +1184,6 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/</guid>
       <category>Earth Science</category>
     </item>    <item>
-      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
-      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
-      <description>
-        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
-      </description>
-      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
-    </item>    <item>
       <title>NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs</title>
       <link>https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</link>
       <description>
@@ -1046,6 +1193,15 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://blogs.nvidia.com/?p=97450</guid>
       <category>Corporate</category>
       <category>NVIDIA Life</category>
+    </item>    <item>
+      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
+      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
+      <description>
+        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
+      </description>
+      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
     </item>    <item>
       <title>Can you spot AI-written stories? Listen and find out</title>
       <link>https://www.npr.org/2026/08/12/nx-s1-5913976/ai-human-detector-writing-check</link>
@@ -3143,212 +3299,6 @@ The post [Mobile Progress Report: July 2026](https://blog.thunderbird.net/2026/0
       <category>Landsat 9</category>
       <category>Vegetation</category>
       <category>Wildlife</category>
-    </item>    <item>
-      <title>NASA Awards 2026 Innovative Technology Concepts</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/</link>
-      <description>
-        <![CDATA[The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging from the exploration of the solar system to understanding the universe. The 18 NIAC Phase I awards total $3.2 million. Each award provides up to $175,000 for a nine-month initial investigation. The [&#8230;]]]>
-      </description>
-      <source:markdown>The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging from the exploration of the solar system to understanding the universe. The 18 NIAC Phase I awards total $3.2 million. Each award provides up to $175,000 for a nine-month initial investigation. The \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1019680</guid>
-      <category>NASA Innovative Advanced Concepts (NIAC) Program</category>
-      <category>Ames Research Center</category>
-      <category>Research and Technology Mission Directorate</category>
-    </item>    <item>
-      <title>This Pacific Island Disappeared Under Rising Seas. A New Sculpture Marking the Spot Will Morph Into a Home for Seabirds, Coral and Marine Life</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-pacific-island-disappeared-under-rising-seas-a-new-sculpture-marking-the-spot-will-morph-into-a-home-for-seabirds-coral-and-marine-life-180989223/</link>
-      <description>
-        <![CDATA["The Solomon Siren" remembers Kale Island, submerged a decade ago in the Solomon Islands]]>
-      </description>
-      <source:markdown>&#34;The Solomon Siren&#34; remembers Kale Island, submerged a decade ago in the Solomon Islands</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2ET59DlWV2rwSRQyvz2ey25ISQE=/420x240/filters:focal(3961x2640:3962x2641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/1f/231f084b-5f01-4ff1-bd35-e430fcf3c20c/22soloman_siren_by_jason_decaires_taylor_sculpture.jpg" length="23270518" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-pacific-island-disappeared-under-rising-seas-a-new-sculpture-marking-the-spot-will-morph-into-a-home-for-seabirds-coral-and-marine-life-180989223/</guid>
-    </item>    <item>
-      <title>See the New Frank Gehry Building Rising From the Shore of the Persian Gulf in Abu Dhabi to House a Global Art Collection</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-new-frank-gehry-building-rising-from-the-shore-of-the-persian-gulf-in-abu-dhabi-to-house-a-global-art-collection-180989224/</link>
-      <description>
-        <![CDATA[Officials just announced a December opening for the Guggenheim Abu Dhabi, the long-awaited fourth installment in the Guggenheim Foundation's lineup of art museums]]>
-      </description>
-      <source:markdown>Officials just announced a December opening for the Guggenheim Abu Dhabi, the long-awaited fourth installment in the Guggenheim Foundation&#39;s lineup of art museums</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7vup4yrQTmcd-tZiRkmunaYmuGs=/420x240/filters:focal(4119x2746:4120x2747)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/54/b9/54b9ea8f-d2df-491c-bd8b-26b8c0a3d3f3/hero_shot_2_-_courtesy_of_guggenheim_abu_dhabi.jpeg" length="23308813" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-new-frank-gehry-building-rising-from-the-shore-of-the-persian-gulf-in-abu-dhabi-to-house-a-global-art-collection-180989224/</guid>
-    </item>    <item>
-      <title>A Metal Detectorist Discovered Tiny Tiles in a Farmer&#39;s Field. A Spectacular Ancient Roman Mosaic Was Buried Beneath the Surface</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-metal-detectorist-discovered-tiny-tiles-in-a-farmers-field-a-spectacular-ancient-roman-mosaic-was-buried-beneath-the-surface-180989222/</link>
-      <description>
-        <![CDATA[The polychrome mosaic once decorated a small room in a lavish villa complex. Researchers, students and volunteers have been working together to excavate the rare site in southwestern England]]>
-      </description>
-      <source:markdown>The polychrome mosaic once decorated a small room in a lavish villa complex. Researchers, students and volunteers have been working together to excavate the rare site in southwestern England</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ruXHXs51v3j1saD2-Owp6jvFMlg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/74/b5746017-a1a8-454f-b695-aeeb6ca92354/mosaic.jpg" length="669594" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-metal-detectorist-discovered-tiny-tiles-in-a-farmers-field-a-spectacular-ancient-roman-mosaic-was-buried-beneath-the-surface-180989222/</guid>
-    </item>    <item>
-      <title>How Did Some Reptiles Lose Their Limbs to Become Snakes? An 80-Million-Year-Old Fossil Helps Uncover the Winding Evolutionary History</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-did-some-reptiles-lose-their-limbs-to-become-snakes-an-80-million-year-old-fossil-helps-uncover-the-winding-evolutionary-history-180989203/</link>
-      <description>
-        <![CDATA[Researchers have long suspected that the first of these slithering creatures lived in water, on land or underground. New research hints that more than one environment might be correct]]>
-      </description>
-      <source:markdown>Researchers have long suspected that the first of these slithering creatures lived in water, on land or underground. New research hints that more than one environment might be correct</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gdZhfj0tr1c1S5pbClT8Pg-Ru4A=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/75/a8750528-3834-4daa-b72a-b43b9addc1bf/snake-main.png" length="2398971" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/how-did-some-reptiles-lose-their-limbs-to-become-snakes-an-80-million-year-old-fossil-helps-uncover-the-winding-evolutionary-history-180989203/</guid>
-    </item>    <item>
-      <title>NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse</title>
-      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/</link>
-      <description>
-        <![CDATA[On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. NASA will stream the eclipse live with views across the path and interviews with subject matter experts through a variety of platforms. Learn where to watch online: [&#8230;]]]>
-      </description>
-      <source:markdown>On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. NASA will stream the eclipse live with views across the path and interviews with subject matter experts through a variety of platforms. Learn where to watch online: \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1022032</guid>
-      <category>Eclipses</category>
-      <category>NASA Headquarters</category>
-      <category>Science Mission Directorate</category>
-      <category>Solar Eclipses</category>
-      <category>The Solar System</category>
-    </item>    <item>
-      <title>NASA’s Curiosity Views a Sand-Capped Butte</title>
-      <link>https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/</link>
-      <description>
-        <![CDATA[Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission. The butte was left behind as surrounding rock eroded away over time, deepening the broad valley […]]]>
-      </description>
-      <source:markdown>Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission. The butte was left behind as surrounding rock eroded away over time, deepening the broad valley \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/</guid>
-      <category>Mars Science Laboratory (MSL)</category>
-      <category>Photojournal</category>
-    </item>    <item>
-      <title>NASA’s Curiosity Discovers a Field of Martian Polygons</title>
-      <link>https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/</link>
-      <description>
-        <![CDATA[Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Across […]]]>
-      </description>
-      <source:markdown>Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Across \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/</guid>
-      <category>Mars Science Laboratory (MSL)</category>
-      <category>Photojournal</category>
-    </item>    <item>
-      <title>NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures</title>
-      <link>https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/</link>
-      <description>
-        <![CDATA[As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times [&#8230;]]]>
-      </description>
-      <source:markdown>As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1021883</guid>
-      <category>Curiosity (Rover)</category>
-      <category>Jet Propulsion Laboratory</category>
-      <category>Mars</category>
-      <category>Mars Exploration Program</category>
-      <category>Radioisotope Power Systems (RPS)</category>
-    </item>    <item>
-      <title>APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/</link>
-      <description>
-        <![CDATA[A video of the Psyche spacecraft flying by Mars.]]>
-      </description>
-      <source:markdown>A video of the Psyche spacecraft flying by Mars.</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>Understanding How Martian Auroras Are Made</title>
-      <link>https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/</link>
-      <description>
-        <![CDATA[This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars&#8217; atmosphere, one of the processes of Martian atmosphere loss studied by NASA&#8217;s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way [&#8230;]]]>
-      </description>
-      <source:markdown>This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars’ atmosphere, one of the processes of Martian atmosphere loss studied by NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1021551</guid>
-    </item>    <item>
-      <title>Heading to a National Park? Watch Out for Elk. They Attack People Way More Often Than Bears Do, According to a New Study</title>
-      <link>https://www.smithsonianmag.com/smart-news/heading-to-a-national-park-watch-out-for-elk-they-attack-people-way-more-often-than-bears-do-according-to-a-new-study-180989191/</link>
-      <description>
-        <![CDATA[While many people worry about grizzlies, an analysis of almost 3,000 encounters with aggressive wildlife in Canadian national parks and historical sites found that the huge ungulates were responsible for more than half of them]]>
-      </description>
-      <source:markdown>While many people worry about grizzlies, an analysis of almost 3,000 encounters with aggressive wildlife in Canadian national parks and historical sites found that the huge ungulates were responsible for more than half of them</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1HUZY8sZXeeEkueYsltARui3vQ8=/420x240/filters:focal(3000x1914:3001x1915)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/43/7c433fd4-081a-4f89-9189-60761a816000/elk.jpg" length="19382357" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/heading-to-a-national-park-watch-out-for-elk-they-attack-people-way-more-often-than-bears-do-according-to-a-new-study-180989191/</guid>
-    </item>    <item>
-      <title>Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.</title>
-      <link>https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</link>
-      <description>
-        <![CDATA[New calculations seem to have put a 25-year-old particle physics puzzle to rest. But they’ve also created a clash with other experimental results.            <p>The post <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/" target="_blank">Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>New calculations seem to have put a 25-year-old particle physics puzzle to rest. But they’ve also created a clash with other experimental results.
-
-The post [Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=165202</guid>
-      <category>Physics</category>
-    </item>    <item>
-      <title>A Premature Baby Giraffe Born Via C-Section Is Fighting for Her Life at a Zoo in Kansas</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-premature-baby-giraffe-born-via-c-section-is-fighting-for-her-life-at-a-zoo-in-kansas-180989214/</link>
-      <description>
-        <![CDATA[According to officials with the Tanganyika Wildlife Park, no known giraffe calf has ever survived the procedure. The youngster, who was recently named Milani, was born on July 11, likely three to seven weeks early]]>
-      </description>
-      <source:markdown>According to officials with the Tanganyika Wildlife Park, no known giraffe calf has ever survived the procedure. The youngster, who was recently named Milani, was born on July 11, likely three to seven weeks early</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZJXXGZc-37-SgAgomW0PBQWhhYE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/58/745852f4-577e-4cec-8c83-8fcf64551d0a/baby-giraffe.png" length="2277365" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-premature-baby-giraffe-born-via-c-section-is-fighting-for-her-life-at-a-zoo-in-kansas-180989214/</guid>
-    </item>    <item>
-      <title>Windows 11 is quietly installing OneDrive Photos on your machine</title>
-      <link>https://www.osnews.com/story/145628/windows-11-is-quietly-installing-onedrive-photos-on-your-machine/</link>
-      <description>
-        <![CDATA[It&#8217;s that time of the week again, I guess. The year is 2026, and I’m still amazed when I find a new entry in my Start menu’s All apps list for an app I don’t remember installing. This time, it’s Microsoft again, and the product is OneDrive Photos, which appears to be yet another photo viewer and editor for Windows 11 that nobody asked to have installed automatically. While searching for Microsoft Photos, a new app called “OneDrive Photos” showed up in my results out of nowhere. It appears to have arrived either via Windows Update or an update for the OneDrive sync client on Windows. ↫ Mayank Parmar at Windows Latest Just don&#8217;t use Windows. You people paid me to use it and it was not a fun experience.]]>
-      </description>
-      <source:markdown>It’s that time of the week again, I guess. The year is 2026, and I’m still amazed when I find a new entry in my Start menu’s All apps list for an app I don’t remember installing. This time, it’s Microsoft again, and the product is OneDrive Photos, which appears to be yet another photo viewer and editor for Windows 11 that nobody asked to have installed automatically. While searching for Microsoft Photos, a new app called “OneDrive Photos” showed up in my results out of nowhere. It appears to have arrived either via Windows Update or an update for the OneDrive sync client on Windows. ↫ Mayank Parmar at Windows Latest Just don’t use Windows. You people paid me to use it and it was not a fun experience.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145628</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>Ubuntu Touch 24.04-2.0 and 24.04-1.4 released</title>
-      <link>https://www.osnews.com/story/145623/ubuntu-touch-24-04-2-0-and-24-04-1-4-released/</link>
-      <description>
-        <![CDATA[Ubuntu Touch, the mobile Linux operating system originally started by, you guessed it, Ubuntu, but now managed by UBports, released versions 24.04-2.0 and 24.04-1.4. The latter is a maintenance release with some bug fixes and minor changes, while the former is a bigger release with quite a few improvements, so let&#8217;s focus on that one. Ubuntu Touch 24.04-2.0 updates the Chromium engine for the Morph browser from 87 to 134, which is massive leap forward, while still lagging behind the most recent version quite a bit. This release also adds a Widevine installer for people who want to view DRM-encumbered content on the web. This release also adds support for notches and rounded corners in smartphone displays, so that content in the UI can dodge these. There&#8217;s also a screenshot editor for making basic edits to screenshots, as well as the ability to print straight from your device. Of course, there&#8217;s the usual list of bugfixes and smaller improvements, and, most importantly of all, support for over 2000 new emoji. Existing users can use the regular update tools, but do note that you&#8217;ll need to upgrade to 24.04-1.4 first, since it contains some provisions to enable the 24.04-2.0 update. If I had any of the listed supported devices, I would definitely want to do a proper review of Ubuntu Touch. It seems like it has made so much progress in recent years.]]>
-      </description>
-      <source:markdown>Ubuntu Touch, the mobile Linux operating system originally started by, you guessed it, Ubuntu, but now managed by UBports, released versions 24.04-2.0 and 24.04-1.4. The latter is a maintenance release with some bug fixes and minor changes, while the former is a bigger release with quite a few improvements, so let’s focus on that one. Ubuntu Touch 24.04-2.0 updates the Chromium engine for the Morph browser from 87 to 134, which is massive leap forward, while still lagging behind the most recent version quite a bit. This release also adds a Widevine installer for people who want to view DRM-encumbered content on the web. This release also adds support for notches and rounded corners in smartphone displays, so that content in the UI can dodge these. There’s also a screenshot editor for making basic edits to screenshots, as well as the ability to print straight from your device. Of course, there’s the usual list of bugfixes and smaller improvements, and, most importantly of all, support for over 2000 new emoji. Existing users can use the regular update tools, but do note that you’ll need to upgrade to 24.04-1.4 first, since it contains some provisions to enable the 24.04-2.0 update. If I had any of the listed supported devices, I would definitely want to do a proper review of Ubuntu Touch. It seems like it has made so much progress in recent years.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145623</guid>
-      <category>Ubuntu</category>
-    </item>    <item>
-      <title>State of multi-player Wayland</title>
-      <link>https://www.osnews.com/story/145621/state-of-multi-player-wayland/</link>
-      <description>
-        <![CDATA[I’ve been fascinated by the idea of attaching multiple mice to one computer, and then having multiple mouse cursors inside of one desktop environment! I just spent three weeks investigating how well that’s currently supported on Linux &#38; Wayland. Let me tell you what I found! The results are surprisingly cool. ↫ blinry It shouldn&#8217;t come as a surprise, though, that a lot of graphical user interfaces don&#8217;t really have any affordances for multiple mouse pointers manipulating the same object (e.g. one cursor drags the window, another tries to close it), but the possibilities are really endless here. It&#8217;s not quite there yet to be considered fully-featured and plug-and-play, but it&#8217;s a lot more capable than I thought it would be. The first thing that came to my mind is sitting down behind my computer with my kids to teach them the basics of using a GUI. Instead of having to pass the mouse back and forth, one of my kids (or both!) could have his own cursor, which is a lot more fun and collaborative. Games are obviously another great application for this sort of thing, especially things like classic board games. I hope this gets some more attention.]]>
-      </description>
-      <source:markdown>I’ve been fascinated by the idea of attaching multiple mice to one computer, and then having multiple mouse cursors inside of one desktop environment! I just spent three weeks investigating how well that’s currently supported on Linux &#38; Wayland. Let me tell you what I found! The results are surprisingly cool. ↫ blinry It shouldn’t come as a surprise, though, that a lot of graphical user interfaces don’t really have any affordances for multiple mouse pointers manipulating the same object (e.g. one cursor drags the window, another tries to close it), but the possibilities are really endless here. It’s not quite there yet to be considered fully-featured and plug-and-play, but it’s a lot more capable than I thought it would be. The first thing that came to my mind is sitting down behind my computer with my kids to teach them the basics of using a GUI. Instead of having to pass the mouse back and forth, one of my kids (or both!) could have his own cursor, which is a lot more fun and collaborative. Games are obviously another great application for this sort of thing, especially things like classic board games. I hope this gets some more attention.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145621</guid>
-      <category>Wayland</category>
-    </item>    <item>
-      <title>A Man Picking Berries in the Forest in Poland Might Have Stumbled Upon the Wreckage of an Allied Airplane From World War II</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-man-picking-berries-in-the-forest-in-poland-might-have-stumbled-upon-the-wreckage-of-an-allied-airplane-from-world-war-ii-180989219/</link>
-      <description>
-        <![CDATA[Experts are still investigating but note that an earlier discovery nearby identified part of the wing of a British Lancaster bomber]]>
-      </description>
-      <source:markdown>Experts are still investigating but note that an earlier discovery nearby identified part of the wing of a British Lancaster bomber</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2EQbBA9ufMCrvqYkIcGN9KyrO44=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/48/4e4842a1-490e-49d3-b0af-db0426c8b7e7/746589844_1340363594964410_3727259830028568757_n.jpeg" length="109853" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-man-picking-berries-in-the-forest-in-poland-might-have-stumbled-upon-the-wreckage-of-an-allied-airplane-from-world-war-ii-180989219/</guid>
-    </item>    <item>
-      <title>Are extreme wildfires the new normal?</title>
-      <link>https://www.npr.org/2026/07/29/nx-s1-5909367/spain-france-oregon-canada-fires-smoke</link>
-      <description>
-        <![CDATA[With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire <em>Short Wave</em> staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surprisingly complicated! But don’t you worry. We get into all the nuances this episode.<br/><br/><em>Interested in more science behind the headlines? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire _Short Wave_ staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surprisingly complicated! But don’t you worry. We get into all the nuances this episode.
-
-_Interested in more science behind the headlines? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/dd54f085-5b01-4dd6-8601-3737d4e2dfe8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=dd54f085-5b01-4dd6-8601-3737d4e2dfe8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909367&p=510351&d=801&size=12818016" length="12818016" type="audio/mpeg" />
-      <guid>cid://ba787a47-dd2b-49a0-999c-91195a4d0bca</guid>
-    </item>    <item>
-      <title>Sizing Up the Sargassum Belt</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/</link>
-      <description>
-        <![CDATA[Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.]]>
-      </description>
-      <source:markdown>Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/</guid>
-      <category>Aqua</category>
-      <category>Earth Observatory</category>
-      <category>Goddard Space Flight Center</category>
-      <category>PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem)</category>
-      <category>Terra</category>
-      <category>Water Blooms</category>
     </item>
   </channel>
 </rss>

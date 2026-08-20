@@ -1,5 +1,5 @@
 ---
-title: Science and Technology
+title: STEM
 ---
 
 # Science and Technology
