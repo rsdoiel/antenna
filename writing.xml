@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>20 Aug 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>21 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -58,58 +58,6 @@ The post [How Would This Be a Crime?](https://johnaugust.com/2026/how-would-this
       <guid>cid://https://johnaugust.com/?p=26832</guid>
       <category>HWTBAM</category>
       <category>Scriptnotes</category>
-    </item>    <item>
-      <title>The 2026 Colossal Fundraiser has begun!</title>
-      <link>https://blog.ifcomp.org/post/823565236676296704</link>
-      <description>
-        <![CDATA[<p>Hello, friends.</p><p>We are just about a month away from this year’s IFComp entries being released. We&rsquo;re getting excited, and we hope you are as well!</p><p>While we eagerly await all the new stories, we’d like to ask for your help with the Colossal Fund. If you already know about the fund and are able to contribute, please head on over to <a href="https://ifcomp.org/">ifcomp.org</a> and donate. </p><h2>Zeffy</h2><p>Heads up that we&rsquo;re using Zeffy for donations this year. Zeffy works for us as a nonprofit by not charging us any processing fees. That means more funds for authors and the other great work that IFTF does. Zeffy will ask you to make an (optional) additional payment to cover their costs. It&rsquo;s completely optional, and you can easily reset that amount to whatever you&rsquo;d like, including $0.</p><h2>About the Colossal Fund</h2><p>The Colossal Fund raises money for the cash prizes that are awarded to the top two-thirds of IFComp entries. We use 80% of the funds for that, and the remaining funds are used to provide support for the programs and projects of the <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>, including the <a href="https://ifcomp.org/">Interactive Fiction Competition</a>, the <a href="https://ifarchive.org/">IF Archive</a>, the <a href="https://ifdb.org/">IFDB</a>, the forums at <a href="https://intfiction.org/">intfiction.org</a>, and other projects.</p><h2>This year, we are shooting for $8K.</h2><p><b>We’re now accepting donations for 2026!</b><br/>Head on over and donate at <a href="https://ifcomp.org/">IFComp.org</a>. See your name listed on our donor page (or listed as “anonymous” if you prefer)!</p><p>Our fundraising deadline is October 15th, the last day of competition voting. 80% of the proceeds (~$6.4K if we hit our goal) will be distributed among the top two-thirds of IFComp finishers. </p><p><b>What does this mean for authors?</b><br/>Because we’re dividing the money among the top two-thirds of entries, the exact numbers depend on how many entries there are. If we have 75 entries, then we will divide the money among the top 50. If we hit our goal, that would mean that the winner of the competition will be offered a prize of $357, second place will be offered $343, third prize $329… and so on and so forth until 50th place, which will be offered $10. Our goal is to distribute prizes across a broad range of IF styles and ideas. Any entry which does even moderately well is offered a decent prize. (If you wanna get nerdy, there’s information about the formula, along with a link to a Python script, <a href="https://blog.ifcomp.org/post/162478013529/announcing-the-ifcomp-colossal-fund">here</a>.)</p><p><b>How do I donate?</b><br/>Please go to <a href="https://ifcomp.org/">https://ifcomp.org</a>, enter an amount that works for you, and hit Continue. You&rsquo;ll be asked a few optional questions about your interest in interactive fiction, make your donation, and then be sent a receipt.</p><p><b>Is my donation tax-deductible?</b><br/>Yes, to the extent allowed by law. (Consult a tax professional.)</p><p><b>Does the Colossal Fund replace the usual IFComp prize list?</b><br/>Nope! These cash prizes will be in addition to the usual IFComp prize list. We do need more of those non-cash prizes as well! Please visit <a href="https://ifcomp.org/about/prizes">our prize page</a> to see what objects and services others have donated, get ideas from donations given in previous years, and see how you can contribute.</p><p><b>How will the cash prizes be distributed?</b><br/>Via PayPal or Venmo. (The IFComp entry form has a field for your PayPal address.) If you can’t accept PayPal or Venmo, we can mail a US check to a US address. If that doesn’t work for you, or if you wish to decline the cash prize, we will roll the money into next year’s prize fund, which means it will continue to support authors and IFTF programs.</p>]]>
-      </description>
-      <source:markdown>Hello, friends.
-
-We are just about a month away from this year’s IFComp entries being released. We’re getting excited, and we hope you are as well!
-
-While we eagerly await all the new stories, we’d like to ask for your help with the Colossal Fund. If you already know about the fund and are able to contribute, please head on over to [ifcomp.org](https://ifcomp.org/) and donate.
-
-## Zeffy
-
-Heads up that we’re using Zeffy for donations this year. Zeffy works for us as a nonprofit by not charging us any processing fees. That means more funds for authors and the other great work that IFTF does. Zeffy will ask you to make an (optional) additional payment to cover their costs. It’s completely optional, and you can easily reset that amount to whatever you’d like, including $0.
-
-## About the Colossal Fund
-
-The Colossal Fund raises money for the cash prizes that are awarded to the top two-thirds of IFComp entries. We use 80% of the funds for that, and the remaining funds are used to provide support for the programs and projects of the [Interactive Fiction Technology Foundation](https://iftechfoundation.org/), including the [Interactive Fiction Competition](https://ifcomp.org/), the [IF Archive](https://ifarchive.org/), the [IFDB](https://ifdb.org/), the forums at [intfiction.org](https://intfiction.org/), and other projects.
-
-## This year, we are shooting for $8K.
-
-**We’re now accepting donations for 2026!**
-
-Head on over and donate at [IFComp.org](https://ifcomp.org/). See your name listed on our donor page (or listed as “anonymous” if you prefer)!
-
-Our fundraising deadline is October 15th, the last day of competition voting. 80% of the proceeds (~$6.4K if we hit our goal) will be distributed among the top two-thirds of IFComp finishers.
-
-**What does this mean for authors?**
-
-Because we’re dividing the money among the top two-thirds of entries, the exact numbers depend on how many entries there are. If we have 75 entries, then we will divide the money among the top 50. If we hit our goal, that would mean that the winner of the competition will be offered a prize of $357, second place will be offered $343, third prize $329… and so on and so forth until 50th place, which will be offered $10. Our goal is to distribute prizes across a broad range of IF styles and ideas. Any entry which does even moderately well is offered a decent prize. (If you wanna get nerdy, there’s information about the formula, along with a link to a Python script, [here](https://blog.ifcomp.org/post/162478013529/announcing-the-ifcomp-colossal-fund).)
-
-**How do I donate?**
-
-Please go to [https://ifcomp.org](https://ifcomp.org/), enter an amount that works for you, and hit Continue. You’ll be asked a few optional questions about your interest in interactive fiction, make your donation, and then be sent a receipt.
-
-**Is my donation tax-deductible?**
-
-Yes, to the extent allowed by law. (Consult a tax professional.)
-
-**Does the Colossal Fund replace the usual IFComp prize list?**
-
-Nope! These cash prizes will be in addition to the usual IFComp prize list. We do need more of those non-cash prizes as well! Please visit [our prize page](https://ifcomp.org/about/prizes) to see what objects and services others have donated, get ideas from donations given in previous years, and see how you can contribute.
-
-**How will the cash prizes be distributed?**
-
-Via PayPal or Venmo. (The IFComp entry form has a field for your PayPal address.) If you can’t accept PayPal or Venmo, we can mail a US check to a US address. If that doesn’t work for you, or if you wish to decline the cash prize, we will roll the money into next year’s prize fund, which means it will continue to support authors and IFTF programs.</source:markdown>
-      <guid>cid://https://blog.ifcomp.org/post/823565236676296704</guid>
-      <category>ifcomp</category>
-      <category>interactive fiction competition</category>
-      <category>interactive fiction</category>
-      <category>colossal fund</category>
     </item>
   </channel>
 </rss>

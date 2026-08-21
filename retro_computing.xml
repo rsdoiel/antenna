@@ -4,10 +4,27 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>20 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>21 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/08/20 - Cooler at last!, The Stream, My oven, Brexit Benefits, United States debt has hit $40 trillion.</title>
+      <link>https://heyrick.eu/blog/entry/20260820</link>
+      <description>
+        <![CDATA[Cooler at last!, The Stream, My oven, Brexit Benefits, United States debt has hit $40 trillion.]]>
+      </description>
+      <source:markdown>Cooler at last!, The Stream, My oven, Brexit Benefits, United States debt has hit $40 trillion.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260820</guid>
+    </item>    <item>
+      <title>Pine64 Halts Production of Linux Devices</title>
+      <link>http://www.linux-magazine.com/Online/News/Pine64-Halts-Production-of-Linux-Devices</link>
+      <description>
+        <![CDATA[<p>With continued DRAM and eMMC shortages, Pine64 has decided to discontinue production of Linux devices.</p>]]>
+      </description>
+      <source:markdown>With continued DRAM and eMMC shortages, Pine64 has decided to discontinue production of Linux devices.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://9242593676c4a86a6725dd9ffc692611</guid>
+    </item>    <item>
       <title>b.log 2026/08/19 - Autism: Because mummy never had sex with me!</title>
       <link>https://heyrick.eu/blog/entry/20260819</link>
       <description>
@@ -2393,15 +2410,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       </description>
       <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2347.html</guid>
-    </item>    <item>
-      <title>The KIM-1, TIM and Jolt explained</title>
-      <link>http://retro.hansotten.nl/the-kim-1-tim-and-jolt-explained/</link>
-      <description>
-        <![CDATA[During the hot summer days, locked up in house because of the heat, I made a deep dive into the KIM-1 and the TIM/Jolt software and hardware. 50 years of working with a KIM-1: The KIM-1 Explained The Jolt, one of the first 6502 SBC&#8217;s, so nicely reproduced now: The TIM/Jolt explained. See also:A demo [&#8230;]]]>
-      </description>
-      <source:markdown>During the hot summer days, locked up in house because of the heat, I made a deep dive into the KIM-1 and the TIM/Jolt software and hardware. 50 years of working with a KIM-1: The KIM-1 Explained The Jolt, one of the first 6502 SBC’s, so nicely reproduced now: The TIM/Jolt explained. See also:A demo \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=21910</guid>
-      <category>6502</category>
     </item>
   </channel>
 </rss>

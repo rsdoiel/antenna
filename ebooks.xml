@@ -4,10 +4,73 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>20 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>21 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Stories from the Faerie Queene by Mary Macleod and Edmund Spenser</title>
+      <link>https://www.gutenberg.org/ebooks/79406</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sonnets from the Portuguese by Elizabeth Barrett Browning</title>
+      <link>https://www.gutenberg.org/ebooks/2002</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Uncooked foods &#38; how to use them : by Eugene Christian and Mollie Griswold Christian</title>
+      <link>https://www.gutenberg.org/ebooks/79407</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of the Rev. John Wesley, Vol 16 (of 32) by John Wesley</title>
+      <link>https://www.gutenberg.org/ebooks/79413</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sylvia by Adeline Adams</title>
+      <link>https://www.gutenberg.org/ebooks/79408</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Abeokuta and the Camaroons Mountains, Vol. 1 (of 2) by Sir Richard Francis Burton</title>
+      <link>https://www.gutenberg.org/ebooks/79409</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Abeokuta and the Camaroons Mountains, Vol. 2 (of 2) by Sir Richard Francis Burton</title>
+      <link>https://www.gutenberg.org/ebooks/79410</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Instructions sur les droits de messageries by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/79412</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Les chambres du plaisir by Eugène Marsan</title>
+      <link>https://www.gutenberg.org/ebooks/79411</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
       <title>Guide de l&#39;aviateur by Roland Garros</title>
       <link>https://www.gutenberg.org/ebooks/79375</link>
       <description>
@@ -31,13 +94,6 @@
     </item>    <item>
       <title>Preludes by Alice Meynell</title>
       <link>https://www.gutenberg.org/ebooks/79402</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Stories from the Faerie Queene by Mary Macleod and Edmund Spenser</title>
-      <link>https://www.gutenberg.org/ebooks/79406</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1731,62 +1787,6 @@
     </item>    <item>
       <title>Stray leaves : by Alex. MacDonald</title>
       <link>https://www.gutenberg.org/ebooks/79240</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Practical podiatry by E. K. Burnett and Reuben H. Gross and Alfred Joseph</title>
-      <link>https://www.gutenberg.org/ebooks/79224</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Criminals : by George Middleton</title>
-      <link>https://www.gutenberg.org/ebooks/79216</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Eyes that cannot see : by Albert Theodor Gnudtzmann</title>
-      <link>https://www.gutenberg.org/ebooks/79218</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Suomenselän meriltä by Samuli Paulaharju</title>
-      <link>https://www.gutenberg.org/ebooks/79219</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Local option in Loco-Land by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79221</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pie for Magpie by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79222</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The wisdom of Cyclops by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79223</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The corporal&#39;s story by Ernest Haycox</title>
-      <link>https://www.gutenberg.org/ebooks/79217</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
