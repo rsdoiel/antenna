@@ -13,7 +13,6 @@ title: Library and Archives organizations
 - [Jonny Saunders blog](https://jon-e.net/blog/feed.xml)
 - [Collections Data blog](https://collectionsasdata.github.io/atom.xml)
 - [Open Library (blog)](https://blog.openlibrary.org/feed/)
-- [Code4Lib Journal](http://feeds.feedburner.com/c4lj)
 
 # eBooks publishers
 
@@ -48,6 +47,7 @@ title: Library and Archives organizations
 - [Invenio RDM Blog](https://inveniosoftware.org/feed.xml)
 - [Aaron Tay's Musings about Librarianship](https://aarontay.substack.com/feed)
 - [The Meta Archivist blog](https://metaarchivist.substack.com/feed)
+- [Future Knowledge Podcast](https://feeds.transistor.fm/futureknowledge)
 
 # Companies
 

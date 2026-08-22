@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>North America</title>
-        <dateCreated>21 Aug 26 06:31 -0700</dateCreated>
+        <dateCreated>22 Aug 26 06:31 -0700</dateCreated>
     </head>
     <body>
         <outline text="BBC, US &amp; Canada" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml?edition=us" htmlUrl="https://www.bbc.co.uk/news,https://feeds.bbci.co.uk/news/rss.xml" description="BBC News - News Front Page" url="https://feeds.bbci.co.uk/news/rss.xml"></outline>
@@ -13,7 +13,7 @@
         <outline text="CBC, World News" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-world" htmlUrl="https://www.cbc.ca/news/world/?cmp=rss" description="FOR PERSONAL USE ONLY"></outline>
         <outline text="California Energy Blog" type="rss" xmlUrl="https://www.calenergyblog.com/blog-feed.xml" htmlUrl="https://www.calenergyblog.com/blog,https://www.calenergyblog.com/blog-feed.xml" description="My Site" url="https://www.calenergyblog.com/blog-feed.xml"></outline>
         <outline text="Christian Science Monitor" type="rss" xmlUrl="https://rss.csmonitor.com/feeds/all" htmlUrl="https://www.csmonitor.com,https://rss.csmonitor.com/feeds/all" description="The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, online daily edition, and email newsletters." url="https://rss.csmonitor.com/feeds/all"></outline>
-        <outline text="Current, News for Public Media Orgs" type="rss" xmlUrl="https://current.org/feed/" htmlUrl="https://current.org/,https://current.org/feed/?mc_cid=6439dbdec4&amp;mc_eid=f8ac00ecf2&amp;utm_campaign=6439dbdec4-EMAIL_CAMPAIGN_2018_03_08_COPY_01&amp;utm_medium=email&amp;utm_source=Current%20Newsletter&amp;utm_term=0_1d564f03d8-6439dbdec4-102730186" description="For people in public media" url="https://current.org/feed/?mc_cid=6439dbdec4&amp;mc_eid=f8ac00ecf2&amp;utm_campaign=6439dbdec4-EMAIL_CAMPAIGN_2018_03_08_COPY_01&amp;utm_medium=email&amp;utm_source=Current%20Newsletter&amp;utm_term=0_1d564f03d8-6439dbdec4-102730186"></outline>
+        <outline text="Current, News for Public Media Orgs" type="rss" xmlUrl="https://current.org/feed/" htmlUrl="https://current.org/,https://current.org/feed/" description="For people in public media" url="https://current.org/feed/"></outline>
         <outline text="Electrek Feed" type="rss" xmlUrl="https://electrek.co/feed/" htmlUrl="https://electrek.co/,https://electrek.co/feed/" description="EV and Tesla News, Green Energy, Ebikes, and more" url="https://electrek.co/feed/"></outline>
         <outline text="Federal News Network" type="rss" xmlUrl="https://federalnewsnetwork.com/feed/" htmlUrl="https://federalnewsnetwork.com,https://federalnewsnetwork.com/feed/" description="Helping feds meet their mission." url="https://federalnewsnetwork.com/feed/"></outline>
         <outline text="Floodlight" type="rss" xmlUrl="https://floodlightnews.org/rss/" htmlUrl="https://floodlightnews.org/,https://floodlightnews.org/rss/" description="Floodlight is a nonprofit newsroom that investigates the powers stalling climate action." url="https://floodlightnews.org/rss/"></outline>

@@ -100,7 +100,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Asilomar Microcomputer Workshop News](https://amw.org/category/news/feed/)
 - [Arks Alliance blog](https://arks.org/feed/index.xml)
 - [Ashwin's Chronicles](https://ashwinschronicles.github.io/feeds/all.atom.xml)
-- [Berkley Artificial Intellegence Research Blog](https://bair.berkeley.edu/blog/feed.xml)
 - [Biosrhythm blog](https://biosrhythm.com/?feed=rss2)
 - [Hidden variables blog](https://domenic.me/feed.xml)
 - [Gtk Developer blog](https://blog.gtk.org/feed/)
@@ -211,7 +210,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Robin Rendle Essays](https://robinrendle.com/feed.xml)
 - [Rosemary Orchard |](https://rosemaryorchard.com/feed.xml)
 - [Robert's Ramblings](https://rsdoiel.github.io/rss.xml)
-- [Mike Hukka's Mastodon feed](https://scholar.social/@mhucka.rss)
 - [Blair's Science Desk](https://sciencedesk.economicsfromthetopdown.com/index.xml)
 - [Sean Hinchee blog](https://seh.dev/index.xml)
 - [Stephen Smith's blog](https://smist08.wordpress.com/feed/)
@@ -313,7 +311,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Peter's feed on California](https://collopy.net/feed/research/California.xml)
 - [Massively Parallel Procrastination](https://blog.fsck.com/feed/feed.xml)
 - [Borowitz Report](https://www.borowitzreport.com/feed)
-- [Future Knowledge Podcast](https://feeds.transistor.fm/futureknowledge)
 - [Writing Off Code](https://christaalbrechtcrane.substack.com/feed)
 - [Brian Taylor Cohen blog](https://plus.briantylercohen.com/feed)
 - [Small World Blog](https://codetiger.github.io/blog/rss/)
@@ -329,7 +326,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Strength in Numbere](https://www.gelliottmorris.com/feed)
 - [Front Matter Blog (Martin Fenner)](https://blog.front-matter.de/atom/)
   - Old URL was <https://blog.front-matter.io/atom/>, RSD 2026-02-24
-- [Tina Brown's blog](https://tinabrown.substack.com/feed)
 - [Sarah Kendzior](https://sarahkendzior.com/feed/)
 - [Sarah Kendzior, substack](https://sarahkendzior.substack.com/feed
 - [DAve Bushell blog](https://dbushell.com/rss.xml)
@@ -414,7 +410,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Mozilla AI Blog](https://blog.mozilla.ai/rss/)
 - [Dean Blundell Substack](https://deanblundell.substack.com/p/king-charles-takedown-of-trump-was)
 - [Justine LOL](https://justine.lol/rss.xml)
-- [Raspberry Pi Podcast](https://www.raspberrypi.com/news/feed/)
 - [Mariam Posner Blog](https://miriamposner.com/blog/feed/)
 
 - [BAIR @ Berkley Blog](https://bair.berkeley.edu/blog/feed.xml)

@@ -8,7 +8,6 @@ title: Pacific
 
 - University of the South Pacific (Fiji) <https://www.usp.ac.fj/feed/>, RSS feed no longer works due to CloudFlare bot mitigations, 2026-02-24 RSD
 - [Pacific Center for Island Security](https://pcisguam.substack.com/feed)
-- [Pacific Winds](https://pcisguam.substack.com/feed)
 - [US Navy Institute](https://news.usni.org/feed)
 
 # Guam and UOG

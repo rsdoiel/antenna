@@ -4,10 +4,87 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>21 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>22 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Miss Mole : by E. H.  Young</title>
+      <link>https://www.gutenberg.org/ebooks/79210</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Paradise Lost by John Milton</title>
+      <link>https://www.gutenberg.org/ebooks/26</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Michael Forth by Mary Johnston</title>
+      <link>https://www.gutenberg.org/ebooks/79418</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tout arrive by Henri Ardel</title>
+      <link>https://www.gutenberg.org/ebooks/79417</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Mémoire sur l&#39;importance de la conservation du régime actuel des postes by Alfred D.  DeCelles</title>
+      <link>https://www.gutenberg.org/ebooks/79420</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Boswell&#39;s life of Johnson : by Charles Joseph Finger</title>
+      <link>https://www.gutenberg.org/ebooks/79416</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rapport fait par Defrance, au nom de la commission composée des citoyens Pliéger, Engerran, Defrance</title>
+      <link>https://www.gutenberg.org/ebooks/79421</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Rocket Summer by Ray Bradbury</title>
+      <link>https://www.gutenberg.org/ebooks/64181</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rough sketches of the life of an old soldier : by Jonathan Leach</title>
+      <link>https://www.gutenberg.org/ebooks/79419</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mrs. Grey&#39;s strange silence by Ruth Lamb</title>
+      <link>https://www.gutenberg.org/ebooks/79415</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A little southern beauty : by Mrs. Alex. McVeigh Miller</title>
+      <link>https://www.gutenberg.org/ebooks/79414</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Stories from the Faerie Queene by Mary Macleod and Edmund Spenser</title>
       <link>https://www.gutenberg.org/ebooks/79406</link>
       <description>
@@ -1651,142 +1728,6 @@
     </item>    <item>
       <title>Back of the front in France : by Amy Owen Bradley</title>
       <link>https://www.gutenberg.org/ebooks/79244</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hypatia, by Charles Kingsley</title>
-      <link>https://standardebooks.org/ebooks/charles-kingsley/hypatia</link>
-      <description>
-        <![CDATA[A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.]]>
-      </description>
-      <source:markdown>A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/charles-kingsley/hypatia/downloads/charles-kingsley_hypatia.epub?source=feed" length="846137" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/charles-kingsley/hypatia</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>’Midst the Wild Carpathians, by Mór Jókai</title>
-      <link>https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain</link>
-      <description>
-        <![CDATA[The newly-placed Prince of Transylvania must defend his realm against foreign influence.]]>
-      </description>
-      <source:markdown>The newly-placed Prince of Transylvania must defend his realm against foreign influence.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain/downloads/mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain.epub?source=feed" length="800795" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>The Black Gang, by H. C. McNeile</title>
-      <link>https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang</link>
-      <description>
-        <![CDATA[A soldier-turned-detective and his team bust up a Bolshevik plot to take over Britain.]]>
-      </description>
-      <source:markdown>A soldier-turned-detective and his team bust up a Bolshevik plot to take over Britain.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang/downloads/h-c-mcneile_the-black-gang.epub?source=feed" length="597369" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang</guid>
-      <category>Adventure</category>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Seward&#39;s Folly by Edison Marshall</title>
-      <link>https://www.gutenberg.org/ebooks/79225</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ernie Pyle in England by Ernie Pyle</title>
-      <link>https://www.gutenberg.org/ebooks/79228</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Garram the hunter : by Herbert Best</title>
-      <link>https://www.gutenberg.org/ebooks/79229</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>&#34;It&#39;s all real true&#34; : by Eglanton Thorne</title>
-      <link>https://www.gutenberg.org/ebooks/79227</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A three-fold promise by Marian Isabel Hurrell</title>
-      <link>https://www.gutenberg.org/ebooks/79226</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Two lectures introductory to the study of poetry by H. C.  Beeching</title>
-      <link>https://www.gutenberg.org/ebooks/79234</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Vanha Raahe by Samuli Paulaharju</title>
-      <link>https://www.gutenberg.org/ebooks/79235</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>With the German armies in the West by Sven Anders Hedin</title>
-      <link>https://www.gutenberg.org/ebooks/79238</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Weaved by Warner by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79236</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>When the pilgrims hit Piperock by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79237</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Judge Ben B. Lindsey on the child—the movie—and censorship by Ben B.  Lindsey</title>
-      <link>https://www.gutenberg.org/ebooks/79231</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lehrbuch der Histologie und der mikroskopischen Anatomie des Menschen, mit Einschluss der mikroskopi</title>
-      <link>https://www.gutenberg.org/ebooks/79232</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Voyage au Ouadây by Muḥammad ibn ʻUmar Tūnisī</title>
-      <link>https://www.gutenberg.org/ebooks/79233</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Mixed pickles : by Mrs. E. M. Field</title>
-      <link>https://www.gutenberg.org/ebooks/79239</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Stray leaves : by Alex. MacDonald</title>
-      <link>https://www.gutenberg.org/ebooks/79240</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
