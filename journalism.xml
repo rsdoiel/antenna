@@ -4,10 +4,74 @@
   <channel>
     <title><![CDATA[Student Paper]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>22 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>23 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>2026 UCLA football position preview: Running backs</title>
+      <link>https://dailybruin.com/2026/08/23/2026-ucla-football-position-preview-running-backs/</link>
+      <description>
+        <![CDATA[As UCLA football enters its first year under coach Bob Chesney and third season in the Big Ten, Daily Bruin Sports will preview the personnel of the Bruins&#8217; position groups and predict their 2026 outlook prior to the season&#8217;s opening game Sept.]]>
+      </description>
+      <source:markdown>As UCLA football enters its first year under coach Bob Chesney and third season in the Big Ten, Daily Bruin Sports will preview the personnel of the Bruins’ position groups and predict their 2026 outlook prior to the season’s opening game Sept.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514613</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>Sports Columns</category>
+    </item>    <item>
+      <title>Trump administration petitions Supreme Court to review ruling on UC grant termination</title>
+      <link>https://dailybruin.com/2026/08/22/trump-administration-petitions-supreme-court-to-review-ruling-on-uc-grant-termination/</link>
+      <description>
+        <![CDATA[The Trump administration on Tuesday asked the Supreme Court to hear an appeal to a ruling in favor of UC researchers who argued that it was illegal to terminate research grants based on diversity-related language.]]>
+      </description>
+      <source:markdown>The Trump administration on Tuesday asked the Supreme Court to hear an appeal to a ruling in favor of UC researchers who argued that it was illegal to terminate research grants based on diversity-related language.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514607</guid>
+      <category>Higher Education</category>
+      <category>National</category>
+      <category>News</category>
+      <category>UC</category>
+    </item>    <item>
+      <title>Second Take: The MCU keeps Spider-Man’s name, suit and villains. But where’s Peter Parker?</title>
+      <link>https://dailybruin.com/2026/08/22/second-take-the-mcu-keeps-spider-mans-name-suit-and-villains-but-wheres-peter-parker/</link>
+      <description>
+        <![CDATA[Warning: Spoilers ahead.
+        For Peter Parker, it was a brand new day. For many longtime fans of the character, though, it was just another Monday.
+        Director Destin Daniel Cretton delivered the elite action he featured in “Shang-Chi and the Legend of the Ten Rings,” while showcasing the interconnected New York of Mark Ruffalo’s Hulk and Jon Bernthal’s Punisher, as well as the message that no one should struggle alone, in the latest movie in the Spider-Man franchise.]]>
+      </description>
+      <source:markdown>Warning: Spoilers ahead.
+For Peter Parker, it was a brand new day. For many longtime fans of the character, though, it was just another Monday.
+Director Destin Daniel Cretton delivered the elite action he featured in “Shang-Chi and the Legend of the Ten Rings,” while showcasing the interconnected New York of Mark Ruffalo’s Hulk and Jon Bernthal’s Punisher, as well as the message that no one should struggle alone, in the latest movie in the Spider-Man franchise.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514601</guid>
+      <category>Arts</category>
+      <category>Arts Columns</category>
+      <category>Film &#38; TV</category>
+    </item>    <item>
+      <title>Gallery: Melanie Martinez’s ‘Hades: The Sacrifice Tour’ turns Kia Forum into dazzling dystopia</title>
+      <link>https://dailybruin.com/2026/08/22/gallery-melanie-martinezs-hades-the-sacrifice-tour-turns-kia-forum-into-dazzling-dystopia/</link>
+      <description>
+        <![CDATA[Murmurs in anticipation of singer-songwriter Melanie Martinez’s arrival erupted into screams as she took the stage at the Kia Forum on August 14.  The “Hades: The Sacrifice Tour” brought her fourth studio album to life through immersive sets, dramatic lighting and theatrical choreography that mirrored the album’s dark themes.]]>
+      </description>
+      <source:markdown>Murmurs in anticipation of singer-songwriter Melanie Martinez’s arrival erupted into screams as she took the stage at the Kia Forum on August 14. The “Hades: The Sacrifice Tour” brought her fourth studio album to life through immersive sets, dramatic lighting and theatrical choreography that mirrored the album’s dark themes.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514599</guid>
+      <category>Arts: In Focus</category>
+      <category>Daily Bruin: In Focus</category>
+      <category>db-story-m1</category>
+    </item>    <item>
+      <title>Film Review: ‘Tony’ brings the unknown parts of Anthony Bourdain’s life onto the big screen</title>
+      <link>https://dailybruin.com/2026/08/22/film-review-tony-brings-the-unknown-parts-of-anthony-bourdains-life-onto-the-big-screen/</link>
+      <description>
+        <![CDATA[Warning: Spoilers ahead.
+        “Tony” is as refreshing as a pot of ice-cold seawater to the face.
+        Director Matt Johnson, known for his mockumentary style, embraces a more deliberate visual language for his biopic on Anthony Bourdain’s early years.]]>
+      </description>
+      <source:markdown>Warning: Spoilers ahead.
+“Tony” is as refreshing as a pot of ice-cold seawater to the face.
+Director Matt Johnson, known for his mockumentary style, embraces a more deliberate visual language for his biopic on Anthony Bourdain’s early years.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514578</guid>
+      <category>Arts</category>
+      <category>Arts Columns</category>
+      <category>Film &#38; TV</category>
+    </item>    <item>
       <title>2026 UCLA football position preview: Offensive line</title>
       <link>https://dailybruin.com/2026/08/22/2026-ucla-football-position-preview-offensive-line/</link>
       <description>
@@ -18,18 +82,22 @@
       <category>Football</category>
       <category>Sports</category>
       <category>Sports Columns</category>
+      <category>db-story-d2</category>
     </item>    <item>
       <title>Westwood’s Urban Outfitters closes after 22 years following UC Investments acquisition</title>
       <link>https://dailybruin.com/2026/08/21/westwoods-urban-outfitters-closes-after-22-years-following-uc-investments-acquisition/</link>
       <description>
-        <![CDATA[Urban Outfitters’ Westwood location shuttered Thursday after over 22 years on Westwood Boulevard.
+        <![CDATA[<em>This post was updated Aug. 22 at 10:47 a.m.</em>
+        Urban Outfitters’ Westwood location shuttered Thursday after over 22 years on Westwood Boulevard.
         The lifestyle retailer, which sold clothing, dorm decorations and music products at 1028 and 1038 Westwood Boulevard, was among more than a dozen Westwood Village properties that UC Investments – the office of the UC Regents’ chief investment officer – bought in July for nearly $50 million, according to the Commercial Observer.]]>
       </description>
-      <source:markdown>Urban Outfitters’ Westwood location shuttered Thursday after over 22 years on Westwood Boulevard.
+      <source:markdown>_This post was updated Aug. 22 at 10:47 a.m._
+Urban Outfitters’ Westwood location shuttered Thursday after over 22 years on Westwood Boulevard.
 The lifestyle retailer, which sold clothing, dorm decorations and music products at 1028 and 1038 Westwood Boulevard, was among more than a dozen Westwood Village properties that UC Investments – the office of the UC Regents’ chief investment officer – bought in July for nearly $50 million, according to the Commercial Observer.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514557</guid>
       <category>News</category>
       <category>Westwood</category>
+      <category>db-story-c1</category>
     </item>    <item>
       <title>Personalized Medicine Is All About Understanding Your DNA</title>
       <link>https://sundial.csun.edu/219782/sundialbrandstudio/sundial-marketplace/personalized-medicine-is-all-about-understanding-your-dna/</link>
@@ -53,6 +121,7 @@ UC Doctors United – backed by the Service Employees International Union, a lab
       <category>California</category>
       <category>News</category>
       <category>Science &#38; Health</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>TMB Clockwise or Anticlockwise?</title>
       <link>https://sundial.csun.edu/219776/sundialbrandstudio/sundial-marketplace/tmb-clockwise-or-anticlockwise/</link>
@@ -103,6 +172,7 @@ Director Lee Kirk’s comedy film “Nimrods” hit theaters Aug.</source:markdo
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
       <category>Music</category>
+      <category>db-story-d1</category>
     </item>    <item>
       <title>The Cirque de Gavarnie and Other Pyrenean Wonders</title>
       <link>https://sundial.csun.edu/219778/sundialbrandstudio/sundial-marketplace/the-cirque-de-gavarnie-and-other-pyrenean-wonders/</link>
@@ -157,6 +227,7 @@ UCLA men’s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, openi
       <guid>cid://https://dailybruin.com/?p=514531</guid>
       <category>Men&#39;s Soccer</category>
       <category>Sports</category>
+      <category>db-story-c2</category>
     </item>    <item>
       <title>Individuality and connection combine to define UCLA football’s 2026-27 strategy</title>
       <link>https://dailybruin.com/2026/08/21/individuality-and-connection-combine-to-define-ucla-footballs-2026-27-strategy/</link>
@@ -167,6 +238,7 @@ UCLA men’s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, openi
       <guid>cid://https://dailybruin.com/?p=514525</guid>
       <category>Football</category>
       <category>Sports</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>The Camino on a Budget vs the Comfortable Way</title>
       <link>https://sundial.csun.edu/219757/sundialbrandstudio/sundial-marketplace/the-camino-on-a-budget-vs-the-comfortable-way/</link>
@@ -187,6 +259,7 @@ UCLA men’s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, openi
       <guid>cid://https://dailybruin.com/?p=514519</guid>
       <category>Arts</category>
       <category>Lifestyle</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Trendtrack Review 2026: The Best SaaS for E-commerce Sellers</title>
       <link>https://sundial.csun.edu/219755/sundialbrandstudio/sundial-marketplace/trendtrack-review-2026-the-best-saas-for-e-commerce-sellers/</link>
@@ -218,7 +291,6 @@ UCLA men’s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, openi
       <category>Football</category>
       <category>Sports</category>
       <category>Sports Columns</category>
-      <category>db-story-a</category>
     </item>    <item>
       <title>Design media arts department draws up 3 new degrees to overwrite original</title>
       <link>https://dailybruin.com/2026/08/20/design-media-arts-department-draws-up-3-new-degrees-to-overwrite-original/</link>
@@ -232,7 +304,7 @@ The department will offer separate design, games and computational art majors, s
       <category>A Closer Look</category>
       <category>Academics</category>
       <category>News</category>
-      <category>db-story-c1</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>Roster Reset: UCLA men’s water polo lineup lost so little and gained oh-so-much in the offseason</title>
       <link>https://dailybruin.com/2026/08/20/roster-reset-ucla-mens-water-polo-lineup-lost-so-little-and-gained-oh-so-much-in-the-offseason/</link>
@@ -265,7 +337,7 @@ The department will offer separate design, games and computational art majors, s
       <source:markdown>The FIFA World Cup returned in 2026 to Los Angeles for the first time since 1994. As one of the tournament’s host cities, LA hosted eight matches at SoFi Stadium, including the opening match for the U.S.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514459</guid>
       <category>The Stack</category>
-      <category>db-story-c2</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>UCLA men’s soccer aims for strong start in opening match against Virginia</title>
       <link>https://dailybruin.com/2026/08/19/ucla-mens-soccer-aims-for-strong-start-in-opening-match-against-virginia/</link>
@@ -280,7 +352,6 @@ UCLA men’s soccer will travel to No.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514439</guid>
       <category>Men&#39;s Soccer</category>
       <category>Sports</category>
-      <category>db-story-f1</category>
     </item>    <item>
       <title>Roster Reset: UCLA women’s volleyball enters 2026 campaign with new head coach at the helm</title>
       <link>https://dailybruin.com/2026/08/19/roster-reset-ucla-womens-volleyball-enters-2026-campaign-with-new-head-coach-at-the-helm/</link>
@@ -2625,63 +2696,6 @@ Kari Nadeau began her tenure as dean of the UCLA Fielding School of Public Healt
       <category>News</category>
       <category>Science &#38; Health</category>
       <category>db-story-g</category>
-    </item>    <item>
-      <title>New players, new strategies mark UCLA football’s defensive revamp</title>
-      <link>https://dailybruin.com/2026/08/01/new-players-new-strategies-mark-ucla-footballs-defensive-revamp/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 2 at 8:38 p.m.</em>
-        CHICAGO – For the Bruins, who ranked near last in the Big Ten in sacks, forced fumbles and tackles for loss last season, it might be hard to find optimism in defense entering the new campaign.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 2 at 8:38 p.m._
-CHICAGO – For the Bruins, who ranked near last in the Big Ten in sacks, forced fumbles and tackles for loss last season, it might be hard to find optimism in defense entering the new campaign.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513695</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>For Bob Chesney, transforming UCLA football starts with off-the-field cohesion</title>
-      <link>https://dailybruin.com/2026/08/01/for-bob-chesney-transforming-ucla-football-starts-with-off-the-field-cohesion/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 2 at 8:32 p.m.</em>
-        CHICAGO – There’s a new dawn in Westwood.
-        When Bob Chesney walked onto the stage at Wednesday&#8217;s Big Ten Football Media Day, he made it clear that his first season as UCLA’s head coach should come with high expectations both on and off the gridiron.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 2 at 8:32 p.m._
-CHICAGO – There’s a new dawn in Westwood.
-When Bob Chesney walked onto the stage at Wednesday’s Big Ten Football Media Day, he made it clear that his first season as UCLA’s head coach should come with high expectations both on and off the gridiron.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513688</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>db-story-f2</category>
-    </item>    <item>
-      <title>UCLA marmot research lab turns to OnlyFans after funding cuts</title>
-      <link>https://dailybruin.com/2026/08/01/ucla-marmot-research-lab-turns-to-onlyfans-after-funding-cuts/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 2 at 6:08 p.m.</em>
-        Facing a federal funding denial, a UCLA research group is turning to OnlyFans to raise money and bring awareness to long-term research funding difficulties.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 2 at 6:08 p.m._
-Facing a federal funding denial, a UCLA research group is turning to OnlyFans to raise money and bring awareness to long-term research funding difficulties.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513684</guid>
-      <category>A Closer Look</category>
-      <category>Academics</category>
-      <category>News</category>
-      <category>Science &#38; Health</category>
-      <category>db-story-i</category>
-    </item>    <item>
-      <title>Formerly retired UCLA men’s basketball guard Donovan Dent enters transfer portal</title>
-      <link>https://dailybruin.com/2026/07/31/formerly-retired-ucla-mens-basketball-guard-donovan-dent-enters-transfer-portal/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 2 at 8:01 p.m.</em>
-        Just two months after retiring from professional basketball, Donovan Dent stepped back into the limelight Friday, entering the transfer portal with a &#8220;do not contact&#8221; tag.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 2 at 8:01 p.m._
-Just two months after retiring from professional basketball, Donovan Dent stepped back into the limelight Friday, entering the transfer portal with a “do not contact” tag.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513681</guid>
-      <category>Men&#39;s Basketball</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>db-story-i</category>
     </item>
   </channel>
 </rss>

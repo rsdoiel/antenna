@@ -4,10 +4,40 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>22 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>23 Aug 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>SYM-2 prototype</title>
+      <link>http://retro.hansotten.nl/sym-2-prototype/</link>
+      <description>
+        <![CDATA[In August 2026 I acquired an boxed engineering SYM-2 prototype. It comes with two large circuit diagrams illustrating the design. Next photos by Paul Schroeter. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions [&#8230;]]]>
+      </description>
+      <source:markdown>In August 2026 I acquired an boxed engineering SYM-2 prototype. It comes with two large circuit diagrams illustrating the design. Next photos by Paul Schroeter. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22074</guid>
+      <category>6502</category>
+    </item>    <item>
+      <title>b.log 2026/08/22 - My holiday is almost over, Yesterday, Today, What the hell France?, Generic 8 channel 24MHz logic analyser, Using a cheap 8 channel logic analyser with Linux, An example of using Pulseview, Tomorrow?</title>
+      <link>https://heyrick.eu/blog/entry/20260822</link>
+      <description>
+        <![CDATA[My holiday is almost over, Yesterday, Today, What the hell France?, Generic 8 channel 24MHz logic analyser, Using a cheap 8 channel logic analyser with Linux, An example of using Pulseview, Tomorrow?]]>
+      </description>
+      <source:markdown>My holiday is almost over, Yesterday, Today, What the hell France?, Generic 8 channel 24MHz logic analyser, Using a cheap 8 channel logic analyser with Linux, An example of using Pulseview, Tomorrow?</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260822</guid>
+    </item>    <item>
+      <title>Markdown your Currency app in version 2.07</title>
+      <link>https://www.riscository.com/2026/currency-2-07/</link>
+      <description>
+        <![CDATA[Kevin Wells has released a new version of Currency, his application that provides a way to check exchange rates for different currencies, as well as the GDP (gross domestic product) and population information for different countries, without having the struggle of dealing with websites that may not work in RISC OS browsers. It does this by using Wget to relay information to the API (application programmer interface) provided by a remote website, and parsing the results in order to display it for the user. The websites it uses are Exchange&#8230;]]>
+      </description>
+      <source:markdown>Kevin Wells has released a new version of Currency, his application that provides a way to check exchange rates for different currencies, as well as the GDP (gross domestic product) and population information for different countries, without having the struggle of dealing with websites that may not work in RISC OS browsers. It does this by using Wget to relay information to the API (application programmer interface) provided by a remote website, and parsing the results in order to display it for the user. The websites it uses are Exchange…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11005</guid>
+      <category>Software</category>
+      <category>Currency</category>
+      <category>Exchange Rate</category>
+      <category>GDP</category>
+      <category>Population</category>
+    </item>    <item>
       <title>A Need for Speed</title>
       <link>https://www.filfre.net/2026/08/a-need-for-speed/</link>
       <description>
@@ -2353,53 +2383,6 @@ The Workgroup Servers did not survive the axe of Jobs either: after the 7250 and
       <category>mklinux</category>
       <category>power mac</category>
       <category>refurb weekend</category>
-    </item>    <item>
-      <title>b.log 2026/08/01 - FOUL!, My first day, Fake it &#39;til you make it.</title>
-      <link>https://heyrick.eu/blog/entry/20260801</link>
-      <description>
-        <![CDATA[FOUL!, My first day, Fake it 'til you make it.]]>
-      </description>
-      <source:markdown>FOUL!, My first day, Fake it &#39;til you make it.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260801</guid>
-    </item>    <item>
-      <title>RISC OS Open source developments weekly update (1st August 2026)</title>
-      <link>http://www.iconbar.com/comments/rss/news2358.html</link>
-      <description>
-        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
-      </description>
-      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2358.html</guid>
-    </item>    <item>
-      <title>TIB is on the move</title>
-      <link>http://www.iconbar.com/comments/rss/news2357.html</link>
-      <description>
-        <![CDATA[The server The Icon Bar is hosted on is moving. While the transfer of data appears to have gone well, TIB's ancient code isn't playing well with the newer software versions on a more modern Linux instance.]]>
-      </description>
-      <source:markdown>The server The Icon Bar is hosted on is moving. While the transfer of data appears to have gone well, TIB&#39;s ancient code isn&#39;t playing well with the newer software versions on a more modern Linux instance.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2357.html</guid>
-    </item>    <item>
-      <title>Meetings and events in August 2026</title>
-      <link>https://www.riscository.com/2026/meetings-and-events-august-2026/</link>
-      <description>
-        <![CDATA[This is a new trial feature for the website &#8211; a list of all upcoming meetings (and other events) I can see for the coming month, possibly with notable mentions for any further ahead. I&#8217;ll aim to post this either at the end of one month, or the begininng of the next. Things are currently very busy here in the RISCOSitory bunker &#8211; busier these days than it&#8217;s ever been &#8211; so it might not necessarily be posted on the last day of the preceding month, or the first of&#8230;]]>
-      </description>
-      <source:markdown>This is a new trial feature for the website – a list of all upcoming meetings (and other events) I can see for the coming month, possibly with notable mentions for any further ahead. I’ll aim to post this either at the end of one month, or the begininng of the next. Things are currently very busy here in the RISCOSitory bunker – busier these days than it’s ever been – so it might not necessarily be posted on the last day of the preceding month, or the first of…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10988</guid>
-      <category>Shows</category>
-      <category>User groups</category>
-      <category>Meeting</category>
-      <category>User Group</category>
-    </item>    <item>
-      <title>StrongED test release 4.70a20 now available</title>
-      <link>https://www.riscository.com/2026/stronged-test-release-4-70a20/</link>
-      <description>
-        <![CDATA[Users of the powerful text editor StrongED who like to keep up to date with test versions &#8211; and therefore try out features before they become part of the main &#8216;stable&#8217; release cycle &#8211; can now download test version 4.70a20s [zip file]. And for those interested, with this release Fred Graute, who maintains StrongED, has decided to release the sources [zip file] According to Fred the search and replace functionality in this versions has been given a lot of attention, although more in terms of under the hood refactoring, so&#8230;]]>
-      </description>
-      <source:markdown>Users of the powerful text editor StrongED who like to keep up to date with test versions – and therefore try out features before they become part of the main ‘stable’ release cycle – can now download test version 4.70a20s \[zip file\]. And for those interested, with this release Fred Graute, who maintains StrongED, has decided to release the sources \[zip file\] According to Fred the search and replace functionality in this versions has been given a lot of attention, although more in terms of under the hood refactoring, so…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10985</guid>
-      <category>Software</category>
-      <category>StrongED</category>
-      <category>text editor</category>
     </item>
   </channel>
 </rss>
